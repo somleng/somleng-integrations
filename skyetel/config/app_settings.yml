@@ -1,0 +1,14 @@
+default: &default
+  somleng_api_key: "<%= ENV['SOMLENG_API_KEY'] %>"
+
+development: &development
+  <<: *default
+
+test:
+  <<: *development
+
+production: &production
+  <<: *default
+
+staging:
+  <<: *production
