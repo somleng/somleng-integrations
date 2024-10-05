@@ -8,9 +8,10 @@ module JSONAPI
       @host = options.fetch(:host)
       @base_url = options.fetch(:base_url)
       @api_key = options.fetch(:api_key)
-      @response_parser = options.fetch(:response_parser) { Parser.new }
+      @response_parser = options.fetch(:response_parser) { ResponseParser.new }
       @http_client = options.fetch(:http_client) { default_http_client }
     end
+
 
     def fetch(url)
       execute_request(:get, url)

@@ -1,5 +1,5 @@
 module JSONAPIRequestHelpers
-  def stub_api_request(http_method, url, response_body: nil, response_headers: {})
+  def stub_jsonapi_request(http_method, url, response_body: nil, response_headers: {})
     stub_request(http_method, Regexp.new(url)).to_return do |request|
       {
         body: json_response_body(response_body, request:),

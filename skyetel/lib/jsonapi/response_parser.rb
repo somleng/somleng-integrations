@@ -1,5 +1,5 @@
 module JSONAPI
-  class Parser
+  class ResponseParser
     def parse(raw_response, **options)
       pagination = Pagination.new(
         prev: Page.new(

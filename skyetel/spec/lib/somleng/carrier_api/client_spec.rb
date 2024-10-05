@@ -6,7 +6,7 @@ module Somleng
       describe "phone_number_stats" do
         it "returns phone number stats" do
           client = Client.new
-          stub_api_request(
+          stub_jsonapi_request(
             :get, "https://api.somleng.org/carrier/v1/phone_numbers/stats",
             response_body: response_fixture(:stats)
           )
@@ -48,7 +48,7 @@ module Somleng
           response_body = response_fixture(:stats)
           total_records = JSON.parse(response_body).fetch("data").size
           page_size = 2
-          stub_api_request(
+          stub_jsonapi_request(
             :get, "https://api.somleng.org/carrier/v1/phone_numbers/stats",
             response_body:
           )
