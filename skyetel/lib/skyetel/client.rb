@@ -1,18 +1,14 @@
 require "faraday"
 require "ostruct"
+require_relative "response_parser"
+require_relative "api_token"
 
 module Skyetel
   class Client
     DEFAULT_BASE_URL = "api/v4".freeze
-
     Response = Struct.new(:data, keyword_init: true)
-    APIToken = Struct.new(:token, :retrieved_at, keyword_init: true) do
-      def expired?
-        retrieved_at < Time.now - (5 * 60)
-      end
-    end
 
-    attr_reader :host, :base_url, :username, :password, :http_client, :response_parser
+    attr_reader :host, :base_url, :username, :password, :api_token, :http_client, :response_parser
 
     def initialize(**options)
       @host = options.fetch(:host) { Skyetel.configuration.api_host }
@@ -20,6 +16,7 @@ module Skyetel
       @username = options.fetch(:username) { Skyetel.configuration.username }
       @password = options.fetch(:password) { Skyetel.configuration.password }
       @response_parser = options.fetch(:response_parser) { ResponseParser.new }
+      @api_token = options[:api_token]
       @http_client = options.fetch(:http_client) { default_http_client }
     end
 
@@ -43,15 +40,18 @@ module Skyetel
 
     private
 
-    attr_reader :api_token
-
     def execute_request(http_method, url, **options)
       headers = options.fetch(:headers, {})
       headers["Authorization"] ||= (api_token || admin_login).token unless options[:authorization] == false
       response = http_client.run_request(http_method, url, options[:params], headers)
       response_parser.parse(response.body, client: self)
     rescue Errors::UnauthorizedError
-      options.fetch(:retry, true) != false && api_token&.expired? ? retry : raise
+      if options.fetch(:retry, true) != false && api_token&.expired?
+        admin_login
+        retry
+      else
+        raise
+      end
     end
 
     def default_http_client
