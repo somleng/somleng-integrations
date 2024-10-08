@@ -123,6 +123,31 @@ module Skyetel
       end
     end
 
+    describe "#states" do
+      it "returns states" do
+        client = Client.new
+        stub_admin_login(token: "api-token")
+        stub_api_request(
+          :get,
+          "https://apicontrol.call48.com/api/v4/states",
+          response_body: response_fixture(:states)
+        )
+
+        response = client.states
+
+        response.data.each do |data|
+          expect(data).to have_attributes(
+            state_id: be_a(Integer),
+            state_name: be_a(String),
+            state_code: be_a(String),
+            country_id: be_a(Integer)
+          )
+        end
+
+        expect(a_request(:get, "https://apicontrol.call48.com/api/v4/states")).to have_been_made
+      end
+    end
+
     def response_fixture(name)
       file_fixture("skyetel/responses/#{name}.json").read
     end

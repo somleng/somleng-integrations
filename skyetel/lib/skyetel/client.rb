@@ -1,12 +1,13 @@
 require "faraday"
 require "ostruct"
+require "rack"
+require_relative "response"
 require_relative "response_parser"
 require_relative "api_token"
 
 module Skyetel
   class Client
     DEFAULT_BASE_URL = "api/v4".freeze
-    Response = Struct.new(:data, keyword_init: true)
 
     attr_reader :host, :base_url, :username, :password, :api_token, :http_client, :response_parser
 
@@ -25,6 +26,11 @@ module Skyetel
       uri.query = Rack::Utils.build_query(state:)
 
       response = execute_request(:get, uri)
+      Response.new(data: Array(response["data"]).map { |data| OpenStruct.new(**data) })
+    end
+
+    def states
+      response = execute_request(:get, "states")
       Response.new(data: response.fetch("data").map { |data| OpenStruct.new(**data) })
     end
 

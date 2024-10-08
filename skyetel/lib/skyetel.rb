@@ -9,7 +9,23 @@ module Skyetel
       @configuration ||= Configuration.new
     end
     alias config configuration
+
+    def load(...)
+      data_loader.load(...)
+    end
+
+    def unload
+      @data_loader = nil
+    end
+
+    def data_loader
+      @data_loader ||= DataLoader.new
+    end
   end
 end
 
-Dir["#{File.dirname(__FILE__)}/skyetel/**/*.rb"].each { |f| require f }
+require_relative "skyetel/configuration"
+require_relative "skyetel/client"
+require_relative "skyetel/errors"
+require_relative "skyetel/rate_center"
+require_relative "skyetel/data_loader"
