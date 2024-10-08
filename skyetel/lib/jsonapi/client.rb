@@ -12,7 +12,6 @@ module JSONAPI
       @http_client = options.fetch(:http_client) { default_http_client }
     end
 
-
     def fetch(url)
       execute_request(:get, url)
     end

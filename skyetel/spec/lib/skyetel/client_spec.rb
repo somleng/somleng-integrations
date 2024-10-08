@@ -148,6 +148,57 @@ module Skyetel
       end
     end
 
+    describe "#search" do
+      it "performs a search" do
+        client = Client.new
+        stub_admin_login(token: "api-token")
+        stub_api_request(
+          :get,
+          "https://apicontrol.call48.com/api/v4/search",
+          response_body: response_fixture(:search)
+        )
+
+        response = client.search(type: :local, state: "NY", rate_center: "NWYRCYZN01")
+
+        response.data.each do |data|
+          expect(data).to have_attributes(
+            did_id: be_a(Integer),
+            did_number: be_a(String),
+            number: be_a(String),
+            npa: be_a(String),
+            nxx: be_a(String),
+            xxxx: be_a(String),
+            ratecenter: eq("NWYRCYZN01"),
+            state: "NY",
+            monthly: be_a(BigDecimal),
+            setup: be_a(BigDecimal)
+          )
+        end
+
+        expect(response.data.map(&:monthly)).to eq(
+          [
+            BigDecimal("0.02"),
+            BigDecimal("0.02"),
+            BigDecimal("0.15")
+          ]
+        )
+
+        expect(
+          a_request(
+            :get, %r{https://apicontrol.call48.com/api/v4/search}
+          ).with(
+            query: {
+              "state" => "NY",
+              "ratecenter" => "NWYRCYZN01",
+              "type" => "local",
+              "limit" => "100"
+            },
+            headers: { "Authorization" => "api-token" }
+          )
+        ).to have_been_made
+      end
+    end
+
     def response_fixture(name)
       file_fixture("skyetel/responses/#{name}.json").read
     end

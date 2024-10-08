@@ -34,6 +34,31 @@ module Skyetel
       Response.new(data: response.fetch("data").map { |data| OpenStruct.new(**data) })
     end
 
+    def search(params)
+      uri = URI("search")
+      params = {
+        state: params.fetch(:state),
+        ratecenter: params.fetch(:rate_center),
+        type: params.fetch(:type)
+      }
+
+      params[:limit] = params.fetch(:limit, 100)
+      params[:npa] = params.fetch(:npa) if params.key?(:npa)
+      params[:npx] = params.fetch(:npx) if params.key?(:npx)
+      uri.query = Rack::Utils.build_query(**params)
+
+      raw_response = execute_request(:get, uri)
+      parsed_response = raw_response.dig("data", "result").map do |data|
+        OpenStruct.new(
+          **data,
+          monthly: BigDecimal(data.fetch("monthly")),
+          setup: BigDecimal(data.fetch("setup")),
+        )
+      end
+
+      Response.new(data: parsed_response.sort_by { |result| [ result.monthly, result.setup ] })
+    end
+
     def admin_login
       params = { user_name: username, password: }
 

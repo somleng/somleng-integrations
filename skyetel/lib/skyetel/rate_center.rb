@@ -14,8 +14,8 @@ module Skyetel
       end
 
       def find_by(attributes)
-        collection.find do |region|
-          attributes.all? { |key, value| region[key] == value }
+        collection.find do |rate_center|
+          attributes.all? { |key, value| rate_center[key] == value }
         end
       end
 
