@@ -1,1 +1,1 @@
-PurchaseOrder = Struct.new(:line_items, keyword_init: true)
+PurchaseOrder = Struct.new(:line_items)

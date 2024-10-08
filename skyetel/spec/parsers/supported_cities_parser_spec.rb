@@ -3,7 +3,7 @@ require "spec_helper"
 RSpec.describe SupportedCitiesParser do
   describe "#parse" do
     it "parses the supported cities" do
-      data_file = Pathname(File.expand_path("../../../config/supported_cities.sample.csv", __dir__))
+      data_file = Pathname(File.expand_path("../../config/supported_cities.sample.csv", __dir__))
       parser = SupportedCitiesParser.new(data_file:)
 
       results = parser.parse

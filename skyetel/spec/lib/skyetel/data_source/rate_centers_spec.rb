@@ -12,11 +12,7 @@ module Skyetel
         output_data = YAML.load((data_directory.join("ny.yml").read))
         rate_centers = output_data.fetch("rate_centers")
 
-        expect(
-          rate_centers.size
-        ).to eq(
-          JSON.parse(response_fixture(:ratecenter).read).fetch("data").size
-        )
+        expect(rate_centers.size).to eq(JSON.parse(response_fixture(:ratecenter).read).fetch("data").size)
 
         expect(rate_centers.first).to include(
           "country" => "US",

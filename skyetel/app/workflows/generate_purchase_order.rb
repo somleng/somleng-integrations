@@ -1,34 +1,40 @@
 class GeneratePurchaseOrder
-  LineItem = Struct.new(:country, :region, :name, :quantity, :nearby_rate_centers)
-
   def self.call(...)
     new(...).call
   end
 
-  attr_reader :inventory_report, :max_stock
+  attr_reader :shopping_list, :client
 
   def initialize(**options)
-    @inventory_report = options.fetch(:inventory_report)
-    @max_stock = options.fetch(:max_stock) { ENV.fetch("MAX_STOCK", 100) }
+    @shopping_list = options.fetch(:shopping_list)
+    @client = options.fetch(:client)
   end
 
   def call
-    PurchaseOrder.new(line_items: AppSettings.supported_cities.map { |city| build_line_item_from(city) })
+    line_items = shopping_list.line_items.each_with_object([]) do |line_item, result|
+      line_item.nearby_rate_centers.each_with_object([]) do |rate_center, dids|
+        search_result = find_dids_for(line_item:, rate_center:)
+
+        dids.concat(search_result.data)
+
+        if dids.size >= line_item.quantity
+          result.concat(dids.first(line_item.quantity))
+          break
+        end
+      end
+    end
+
+    PurchaseOrder.new(line_items:)
   end
 
   private
 
-  def build_line_item_from(city)
-    inventory_item = inventory_report.find_line_item_by(country: city.country, region: city.region, name: city.name)
-    current_stock = inventory_item ? inventory_item.quantity : 0
-    desired_quantity = [ (max_stock - current_stock), max_stock ].min
-
-    LineItem.new(
-      country: city.country,
-      region: city.region,
-      name: city.name,
-      quantity: desired_quantity,
-      nearby_rate_centers: city.nearby_rate_centers
+  def find_dids_for(line_item:, rate_center:)
+    client.search(
+      type: :local,
+      state: line_item.region,
+      rate_center: rate_center.name,
+      limit: line_item.quantity
     )
   end
 end

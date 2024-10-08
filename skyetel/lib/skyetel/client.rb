@@ -7,6 +7,21 @@ require_relative "api_token"
 
 module Skyetel
   class Client
+    class SearchResponseParser
+      def parse(raw_response)
+        parsed_response = raw_response.dig("data", "result").map do |data|
+          OpenStruct.new(
+            **data,
+            monthly: BigDecimal(data.fetch("monthly")),
+            setup: BigDecimal(data.fetch("setup"))
+          )
+        end
+
+        Response.new(data: parsed_response.sort_by { |result| [ result.monthly, result.setup ] })
+      end
+    end
+
+
     DEFAULT_BASE_URL = "api/v4".freeze
 
     attr_reader :host, :base_url, :username, :password, :api_token, :http_client, :response_parser
@@ -48,15 +63,7 @@ module Skyetel
       uri.query = Rack::Utils.build_query(**params)
 
       raw_response = execute_request(:get, uri)
-      parsed_response = raw_response.dig("data", "result").map do |data|
-        OpenStruct.new(
-          **data,
-          monthly: BigDecimal(data.fetch("monthly")),
-          setup: BigDecimal(data.fetch("setup")),
-        )
-      end
-
-      Response.new(data: parsed_response.sort_by { |result| [ result.monthly, result.setup ] })
+      SearchResponseParser.parse(raw_response)
     end
 
     def admin_login
