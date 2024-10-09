@@ -22,10 +22,6 @@ RSpec.describe GenerateInventoryReport do
   end
 
   def fake_response_from(fixture_name, **)
-    JSONAPI::ResponseParser.new.parse(JSON.parse(response_fixture(fixture_name).read), **)
-  end
-
-  def response_fixture(name)
-    file_fixture("somleng/carrier_api/responses/#{name}.json")
+    JSONAPI::ResponseParser.new.parse(JSON.parse(file_fixture("somleng/responses/#{fixture_name}.json").read), **)
   end
 end

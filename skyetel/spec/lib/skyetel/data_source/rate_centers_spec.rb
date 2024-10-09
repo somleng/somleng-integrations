@@ -12,7 +12,7 @@ module Skyetel
         output_data = YAML.load((data_directory.join("ny.yml").read))
         rate_centers = output_data.fetch("rate_centers")
 
-        expect(rate_centers.size).to eq(JSON.parse(response_fixture(:ratecenter).read).fetch("data").size)
+        expect(rate_centers.size).to eq(JSON.parse(file_fixture("skyetel/responses/ratecenter.json").read).fetch("data").size)
 
         expect(rate_centers.first).to include(
           "country" => "US",
@@ -32,12 +32,8 @@ module Skyetel
 
       def fake_response_from(fixture_name)
         Response.new(
-          data: JSON.parse(response_fixture(fixture_name).read).fetch("data").map { |data| OpenStruct.new(**data) }
+          data: JSON.parse(file_fixture("skyetel/responses/#{fixture_name}.json").read).fetch("data").map { |data| OpenStruct.new(**data) }
         )
-      end
-
-      def response_fixture(name)
-        file_fixture("skyetel/responses/#{name}.json")
       end
     end
   end

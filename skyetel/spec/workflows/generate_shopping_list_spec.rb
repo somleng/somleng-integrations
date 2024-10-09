@@ -1,7 +1,7 @@
 require "spec_helper"
 
 RSpec.describe GenerateShoppingList do
-  it "generates a purchase order" do
+  it "generates a shopping list" do
     inventory_report = build_inventory_report(
       line_items: [
         { country: "US", region: "NY", locality: "New York", quantity: 10 },
@@ -10,9 +10,16 @@ RSpec.describe GenerateShoppingList do
       ]
     )
 
-    shopping_list = GenerateShoppingList.call(inventory_report:, max_stock: 100)
+    cities = SupportedCitiesParser.new(
+      data: [
+        { "country" => "US", "region" => "NY", "name" => "New York" },
+        { "country" => "US", "region" => "CA", "name" => "Los Angeles" }
+      ]
+    ).parse
 
-    expect(shopping_list.line_items.size).to eq(20)
+    shopping_list = GenerateShoppingList.call(cities:, inventory_report:, max_stock: 100)
+
+    expect(shopping_list.line_items.size).to eq(2)
     expect(shopping_list.line_items[0]).to have_attributes(
       country: "US",
       region: "NY",

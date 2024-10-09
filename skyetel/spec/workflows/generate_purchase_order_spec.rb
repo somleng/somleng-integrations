@@ -47,7 +47,7 @@ RSpec.describe GeneratePurchaseOrder do
     client = instance_double(Skyetel::Client)
 
     allow(client).to receive(:search) do |params|
-      response = JSON.parse(response_fixture(:search).read)
+      response = JSON.parse(file_fixture("skyetel/responses/search.json").read)
       did_result = response.dig("data", "result").first
       results = []
       search_result = options.fetch(:search).find { |result| result.for == params.fetch(:rate_center) }
@@ -55,10 +55,6 @@ RSpec.describe GeneratePurchaseOrder do
       Skyetel::Client::SearchResponseParser.new.parse("data" => { "result" => results })
     end
     client
-  end
-
-  def response_fixture(name)
-    file_fixture("skyetel/responses/#{name}.json")
   end
 
   def build_shopping_list(line_items:)

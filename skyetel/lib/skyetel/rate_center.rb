@@ -9,6 +9,10 @@ module Skyetel
         @collection ||= load_collection
       end
 
+      def reload!
+        @collection = nil
+      end
+
       def all
         collection
       end

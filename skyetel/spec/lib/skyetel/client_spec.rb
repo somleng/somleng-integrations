@@ -8,7 +8,7 @@ module Skyetel
       stub_skyetel_api_request(
         :get,
         "https://apicontrol.call48.com/api/v4/ratecenter",
-        response_body: response_fixture(:ratecenter)
+        response_body: file_fixture("skyetel/responses/ratecenter.json").read
       )
 
       client.rate_centers(state: "NY")
@@ -31,7 +31,10 @@ module Skyetel
       stub_skyetel_api_request(
         :get,
         "https://apicontrol.call48.com/api/v4/ratecenter",
-        response_body: [ response_fixture(:unauthorized_access), response_fixture(:ratecenter) ]
+        response_body: [
+          file_fixture("skyetel/responses/unauthorized_access.json").read,
+          file_fixture("skyetel/responses/ratecenter.json").read
+        ]
       )
 
       client.rate_centers(state: "NY")
@@ -56,7 +59,7 @@ module Skyetel
       stub_skyetel_api_request(
         :get,
         "https://apicontrol.call48.com/api/v4/ratecenter",
-        response_body: response_fixture(:unauthorized_access)
+        response_body: file_fixture("skyetel/responses/unauthorized_access.json").read
       )
 
       expect { client.rate_centers(state: "NY") }.to raise_error(Errors::UnauthorizedError)
@@ -90,7 +93,7 @@ module Skyetel
       it "handles incorrect credentials" do
         client = Client.new(username: "skyeteluser", password: "incorrect")
 
-        stub_skyetel_admin_login(response_fixture: response_fixture(:invalid_credentials))
+        stub_skyetel_admin_login(response_body: file_fixture("skyetel/responses/invalid_credentials.json").read)
 
         expect { client.admin_login }.to raise_error(Errors::ResponseError)
       end
@@ -103,7 +106,7 @@ module Skyetel
         stub_skyetel_api_request(
           :get,
           "https://apicontrol.call48.com/api/v4/ratecenter",
-          response_body: response_fixture(:ratecenter)
+          response_body: file_fixture("skyetel/responses/ratecenter.json").read
         )
 
         response = client.rate_centers(state: "NY")
@@ -130,7 +133,7 @@ module Skyetel
         stub_skyetel_api_request(
           :get,
           "https://apicontrol.call48.com/api/v4/states",
-          response_body: response_fixture(:states)
+          response_body: file_fixture("skyetel/responses/states.json").read
         )
 
         response = client.states
@@ -155,7 +158,7 @@ module Skyetel
         stub_skyetel_api_request(
           :get,
           "https://apicontrol.call48.com/api/v4/search",
-          response_body: response_fixture(:search)
+          response_body: file_fixture("skyetel/responses/search.json").read
         )
 
         response = client.search(type: :local, state: "NY", rate_center: "NWYRCYZN01")
@@ -170,8 +173,8 @@ module Skyetel
             xxxx: be_a(String),
             ratecenter: eq("NWYRCYZN01"),
             state: "NY",
-            monthly: be_a(BigDecimal),
-            setup: be_a(BigDecimal)
+            monthly: be_a(Float),
+            setup: be_a(Float)
           )
         end
 
@@ -207,7 +210,7 @@ module Skyetel
         stub_skyetel_api_request(
           :post,
           "https://apicontrol.call48.com/api/v4/purchase",
-          response_body: response_fixture(:purchase)
+          response_body: file_fixture("skyetel/responses/purchase.json").read
         )
 
         numbers = [
@@ -244,10 +247,6 @@ module Skyetel
           )
         ).to have_been_made
       end
-    end
-
-    def response_fixture(name)
-      file_fixture("skyetel/responses/#{name}.json").read
     end
   end
 end

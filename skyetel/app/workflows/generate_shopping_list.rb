@@ -3,15 +3,16 @@ class GenerateShoppingList
     new(...).call
   end
 
-  attr_reader :inventory_report, :max_stock
+  attr_reader :inventory_report, :max_stock, :cities
 
   def initialize(**options)
     @inventory_report = options.fetch(:inventory_report)
     @max_stock = options.fetch(:max_stock) { ENV.fetch("MAX_STOCK", 100) }
+    @cities = options.fetch(:cities) { AppSettings.supported_cities }
   end
 
   def call
-    ShoppingList.new(line_items: AppSettings.supported_cities.map { |city| build_line_item_from(city) })
+    ShoppingList.new(line_items: cities.map { |city| build_line_item_from(city) })
   end
 
   private

@@ -1,5 +1,3 @@
-require "pry"
-
 class RestockInventory
   def self.call(...)
     new(...).call

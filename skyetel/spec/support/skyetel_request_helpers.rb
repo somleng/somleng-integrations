@@ -1,6 +1,6 @@
 module SkyetelRequestHelpers
   def stub_skyetel_admin_login(**options)
-    response_body = JSON.parse(options.fetch(:response_fixture) { file_fixture("skyetel/responses/admin_login.json").read })
+    response_body = JSON.parse(options.fetch(:response_body) { file_fixture("skyetel/responses/admin_login.json").read })
     response_body["data"]["token"] = options.fetch(:token) if options.key?(:token)
     response_body = response_body.to_json
 

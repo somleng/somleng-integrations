@@ -2,7 +2,7 @@ require "spec_helper"
 
 module App
   RSpec.describe Handler do
-    it "does something" do
+    it "restocks the Somleng inventory with Skyetel numbers" do
       stub_env(
         "MAX_STOCK" => 2,
         "SUPPORTED_CITIES" => [
@@ -18,10 +18,9 @@ module App
           }
         ].to_json
       )
-
       stub_jsonapi_request(
         :get, "https://api.somleng.org/carrier/v1/phone_numbers/stats",
-        response_body: file_fixture("somleng/carrier_api/responses/phone_number_stats.json").read
+        response_body: file_fixture("somleng/responses/phone_number_stats.json").read
       )
       stub_skyetel_admin_login
       stub_skyetel_api_request(
@@ -36,15 +35,13 @@ module App
       )
       stub_jsonapi_request(
         :post, "https://api.somleng.org/carrier/v1/phone_numbers",
-        response_body: file_fixture("somleng/carrier_api/responses/create_phone_number.json").read
+        response_body: file_fixture("somleng/responses/create_phone_number.json").read
       )
 
       handler = build_handler
       handler.process
 
-      expect(
-        a_request(:post, "https://api.somleng.org/carrier/v1/phone_numbers").with(body: "foo")
-      ).to have_been_made
+      expect(a_request(:post, "https://api.somleng.org/carrier/v1/phone_numbers")).to have_been_made.times(2)
     end
 
     def build_handler(**options)

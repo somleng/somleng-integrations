@@ -8,7 +8,7 @@ module Somleng
           client = Client.new
           stub_jsonapi_request(
             :get, "https://api.somleng.org/carrier/v1/phone_numbers/stats",
-            response_body: response_fixture(:phone_number_stats)
+            response_body: file_fixture("somleng/responses/phone_number_stats.json").read
           )
 
           response = client.phone_number_stats(
@@ -45,7 +45,7 @@ module Somleng
 
         it "handles pagination" do
           client = Client.new
-          response_body = response_fixture(:phone_number_stats)
+          response_body = file_fixture("somleng/responses/phone_number_stats.json").read
           total_records = JSON.parse(response_body).fetch("data").size
           page_size = 2
           stub_jsonapi_request(
@@ -89,7 +89,7 @@ module Somleng
           stub_jsonapi_request(
             :post,
             "https://api.somleng.org/carrier/v1/phone_numbers",
-            response_body: response_fixture(:create_phone_number)
+            response_body: file_fixture("somleng/responses/create_phone_number.json").read
           )
 
           client.create_phone_number(
@@ -122,10 +122,6 @@ module Somleng
             )
           ).to have_been_made
         end
-      end
-
-      def response_fixture(name)
-        file_fixture("somleng/carrier_api/responses/#{name}.json").read
       end
     end
   end

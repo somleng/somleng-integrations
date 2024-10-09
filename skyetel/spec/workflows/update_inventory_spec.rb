@@ -88,7 +88,7 @@ RSpec.describe UpdateInventory do
   end
 
   def build_purchase_order(line_items:)
-    did = JSON.parse(response_fixture(:search).read).dig("data", "result").first
+    did = JSON.parse(file_fixture("skyetel/responses/search.json").read).dig("data", "result").first
     line_items = Array(line_items).map do |line_item|
       PurchaseOrder::LineItem.new(
         **line_item,
@@ -97,10 +97,5 @@ RSpec.describe UpdateInventory do
     end
 
     PurchaseOrder.new(line_items:)
-  end
-
-
-  def response_fixture(name)
-    file_fixture("skyetel/responses/#{name}.json")
   end
 end

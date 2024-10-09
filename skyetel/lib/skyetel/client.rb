@@ -12,8 +12,8 @@ module Skyetel
         parsed_response = raw_response.dig("data", "result").map do |data|
           OpenStruct.new(
             **data,
-            monthly: BigDecimal(data.fetch("monthly")),
-            setup: BigDecimal(data.fetch("setup"))
+            monthly: data.fetch("monthly").to_f,
+            setup: data.fetch("setup").to_f
           )
         end
 
