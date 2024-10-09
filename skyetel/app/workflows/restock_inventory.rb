@@ -1,20 +1,22 @@
-class RestockInventory
-  PurchaseOrderLineItem = Struct.new(:country, :region, :name, :quantity)
+require "pry"
 
+class RestockInventory
   def self.call(...)
     new(...).call
   end
 
-  def call
-    inventory_report = GenerateInventoryReport.call
+  attr_reader :somleng_client, :skyetel_client
 
-    AppSettings.supported_cities.map do |city|
-      PurchaseOrderLineItem.new(
-        country: city.country,
-        region: city.region,
-        name: city.name,
-        quantity: inventory_report.cities.find_city_by(country: city.country, region: city.region, name: city.name).inventory_size
-      )
-    end
+  def initialize(**options)
+    @somleng_client = options.fetch(:somleng_client) { Somleng::CarrierAPI::Client.new }
+    @skyetel_client = options.fetch(:skyetel_client) { Skyetel::Client.new }
+  end
+
+  def call
+    inventory_report = GenerateInventoryReport.call(client: somleng_client)
+    shopping_list = GenerateShoppingList.call(inventory_report:)
+    purchase_order = GeneratePurchaseOrder.call(shopping_list:, client: skyetel_client)
+    ExecuteOrder.call(purchase_order:, client: skyetel_client)
+    UpdateInventory.call(purchase_order:, client: somleng_client)
   end
 end

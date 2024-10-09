@@ -10,6 +10,7 @@ module JSONAPIRequestHelpers
 
   def json_response_body(body, request:)
     return if body.nil?
+    return body unless request.method == :get
 
     request_uri = URI(request.uri.to_s)
     response_body = JSON.parse(body)

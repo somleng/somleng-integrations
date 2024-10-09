@@ -5,7 +5,7 @@ module Skyetel
     it "handles handles existing API tokens" do
       client = Client.new(api_token: APIToken.new(token: "api-token", retrieved_at: Time.now))
 
-      stub_api_request(
+      stub_skyetel_api_request(
         :get,
         "https://apicontrol.call48.com/api/v4/ratecenter",
         response_body: response_fixture(:ratecenter)
@@ -27,8 +27,8 @@ module Skyetel
     it "handles expired API tokens" do
       client = Client.new(api_token: APIToken.new(token: "expired-token", retrieved_at: Time.now - (5 * 60)))
 
-      stub_admin_login(token: "new-token")
-      stub_api_request(
+      stub_skyetel_admin_login(token: "new-token")
+      stub_skyetel_api_request(
         :get,
         "https://apicontrol.call48.com/api/v4/ratecenter",
         response_body: [ response_fixture(:unauthorized_access), response_fixture(:ratecenter) ]
@@ -52,8 +52,8 @@ module Skyetel
     it "does not retry indefinitely" do
       client = Client.new(api_token: APIToken.new(token: "expired-token", retrieved_at: Time.now - (5 * 60)))
 
-      stub_admin_login
-      stub_api_request(
+      stub_skyetel_admin_login
+      stub_skyetel_api_request(
         :get,
         "https://apicontrol.call48.com/api/v4/ratecenter",
         response_body: response_fixture(:unauthorized_access)
@@ -65,7 +65,7 @@ module Skyetel
     describe "#admin_login" do
       it "returns an API token" do
         client = Client.new(username: "skyeteluser", password: "password")
-        stub_admin_login(token: "api-token")
+        stub_skyetel_admin_login(token: "api-token")
 
         api_token = client.admin_login
 
@@ -90,7 +90,7 @@ module Skyetel
       it "handles incorrect credentials" do
         client = Client.new(username: "skyeteluser", password: "incorrect")
 
-        stub_admin_login(response_fixture: response_fixture(:invalid_credentials))
+        stub_skyetel_admin_login(response_fixture: response_fixture(:invalid_credentials))
 
         expect { client.admin_login }.to raise_error(Errors::ResponseError)
       end
@@ -99,8 +99,8 @@ module Skyetel
     describe "#rate_centers" do
       it "returns rate centers" do
         client = Client.new
-        stub_admin_login(token: "api-token")
-        stub_api_request(
+        stub_skyetel_admin_login(token: "api-token")
+        stub_skyetel_api_request(
           :get,
           "https://apicontrol.call48.com/api/v4/ratecenter",
           response_body: response_fixture(:ratecenter)
@@ -126,8 +126,8 @@ module Skyetel
     describe "#states" do
       it "returns states" do
         client = Client.new
-        stub_admin_login(token: "api-token")
-        stub_api_request(
+        stub_skyetel_admin_login(token: "api-token")
+        stub_skyetel_api_request(
           :get,
           "https://apicontrol.call48.com/api/v4/states",
           response_body: response_fixture(:states)
@@ -151,8 +151,8 @@ module Skyetel
     describe "#search" do
       it "performs a search" do
         client = Client.new
-        stub_admin_login(token: "api-token")
-        stub_api_request(
+        stub_skyetel_admin_login(token: "api-token")
+        stub_skyetel_api_request(
           :get,
           "https://apicontrol.call48.com/api/v4/search",
           response_body: response_fixture(:search)
@@ -199,28 +199,55 @@ module Skyetel
       end
     end
 
+    describe "#purchase" do
+      it "purchases numbers" do
+        WebMock.allow_net_connect!
+        client = Client.new
+        stub_skyetel_admin_login(token: "api-token")
+        stub_skyetel_api_request(
+          :post,
+          "https://apicontrol.call48.com/api/v4/purchase",
+          response_body: response_fixture(:purchase)
+        )
+
+        numbers = [
+          OpenStruct.new(
+            npa: "646",
+            nxx: "631",
+            xxxx: "6474",
+            state: "NY",
+            ratecenter: "NWYRCYZN01"
+          )
+        ]
+
+        response = client.purchase(type: :local, numbers:)
+
+        expect(response.data).to eq(true)
+        expect(
+          a_request(
+            :post, "https://apicontrol.call48.com/api/v4/purchase"
+          ).with(
+            body:
+              {
+                type: "local",
+                numbers: [
+                  {
+                    "npa" => "646",
+                    "nxx" => "631",
+                    "xxxx" => "6474",
+                    "state" => "NY",
+                    "ratecenter" => "NWYRCYZN01"
+                  }
+                ]
+              }.to_json,
+            headers: { "Authorization" => "api-token", "Content-Type" => "application/json" }
+          )
+        ).to have_been_made
+      end
+    end
+
     def response_fixture(name)
       file_fixture("skyetel/responses/#{name}.json").read
-    end
-
-    def stub_admin_login(**options)
-      response_body = JSON.parse(options.fetch(:response_fixture) { response_fixture(:admin_login) })
-      response_body["data"]["token"] = options.fetch(:token) if options.key?(:token)
-      response_body = response_body.to_json
-
-      stub_api_request(
-        :post,
-        "https://apicontrol.call48.com/api/v4/admin_login",
-        response_body:
-      )
-    end
-
-    def stub_api_request(http_method, url, response_body: nil, response_headers: {})
-      headers = { content_type: "application/json", **response_headers }
-      response_bodies = Array(response_body).map { |body| { body:, headers:  } }
-      stub_request(
-        http_method, Regexp.new(url),
-      ).to_return(*response_bodies)
     end
   end
 end

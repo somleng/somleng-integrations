@@ -1,5 +1,5 @@
 class InventoryReport
-  LineItem = Struct.new(:country, :region, :name, :quantity, keyword_init: true)
+  LineItem = Struct.new(:country, :region, :locality, :quantity, keyword_init: true)
 
   attr_reader :line_items
 

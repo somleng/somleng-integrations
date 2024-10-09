@@ -11,9 +11,6 @@ module App
       logger.info(event)
 
       new(event:, context:).process
-    rescue Exception => e
-      Sentry.capture_exception(e)
-      raise(e)
     end
 
     def initialize(event:, context:)
@@ -22,7 +19,7 @@ module App
     end
 
     def process
-
+      RestockInventory.call
     end
   end
 end

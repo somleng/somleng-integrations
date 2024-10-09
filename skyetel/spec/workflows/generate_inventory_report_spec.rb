@@ -7,7 +7,7 @@ RSpec.describe GenerateInventoryReport do
     expect(report.line_items).to be_a(Array)
     report.line_items.each do |city|
       expect(city).to have_attributes(
-        name: be_a(String),
+        locality: be_a(String),
         region: be_a(String),
         country: be_a(String),
         quantity: be_a(Integer)
@@ -17,7 +17,7 @@ RSpec.describe GenerateInventoryReport do
 
   def fake_client
     client = instance_double(Somleng::CarrierAPI::Client)
-    allow(client).to receive(:phone_number_stats).and_return(fake_response_from(:stats, client:))
+    allow(client).to receive(:phone_number_stats).and_return(fake_response_from(:phone_number_stats, client:))
     client
   end
 
@@ -26,6 +26,6 @@ RSpec.describe GenerateInventoryReport do
   end
 
   def response_fixture(name)
-    file_fixture("somleng/carrier_api/responses/phone_numbers/#{name}.json")
+    file_fixture("somleng/carrier_api/responses/#{name}.json")
   end
 end

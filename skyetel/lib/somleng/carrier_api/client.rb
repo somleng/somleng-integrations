@@ -24,6 +24,10 @@ module Somleng
         fetch(uri)
       end
 
+      def create_phone_number(attributes)
+        create_resource(url: "phone_numbers", type: :phone_number, attributes:)
+      end
+
       private
 
       def build_query(...)

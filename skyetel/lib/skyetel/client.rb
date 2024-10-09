@@ -63,7 +63,27 @@ module Skyetel
       uri.query = Rack::Utils.build_query(**params)
 
       raw_response = execute_request(:get, uri)
-      SearchResponseParser.parse(raw_response)
+      SearchResponseParser.new.parse(raw_response)
+    end
+
+    def purchase(type:, numbers:)
+      numbers = Array(numbers).map do |number|
+        {
+          npa: number.npa,
+          nxx: number.nxx,
+          xxxx: number.xxxx,
+          state: number.state,
+          ratecenter: number.ratecenter
+        }
+      end
+
+      response = execute_request(
+        :post,
+        URI("purchase"),
+        params: { type:, numbers: }.to_json,
+        headers: { "Content-Type" => "application/json" }
+      )
+      Response.new(data: response.fetch("data"))
     end
 
     def admin_login

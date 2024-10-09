@@ -1,6 +1,4 @@
-require "pry"
-
-module RequestHelpers
+module LambdaHelpers
   def invoke_lambda(payload:)
     context = double("LambdaContext", as_json: {})
 
@@ -9,5 +7,5 @@ module RequestHelpers
 end
 
 RSpec.configure do |config|
-  config.include(RequestHelpers)
+  config.include(LambdaHelpers)
 end

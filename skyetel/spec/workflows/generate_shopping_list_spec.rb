@@ -4,9 +4,9 @@ RSpec.describe GenerateShoppingList do
   it "generates a purchase order" do
     inventory_report = build_inventory_report(
       line_items: [
-        { country: "US", region: "NY", name: "New York", quantity: 10 },
-        { country: "US", region: "CA", name: "Los Angeles", quantity: 65 },
-        { country: "AU", region: "VIC", name: "Melbourne", quantity: 65 }
+        { country: "US", region: "NY", locality: "New York", quantity: 10 },
+        { country: "US", region: "CA", locality: "Los Angeles", quantity: 65 },
+        { country: "AU", region: "VIC", locality: "Melbourne", quantity: 65 }
       ]
     )
 
@@ -16,18 +16,18 @@ RSpec.describe GenerateShoppingList do
     expect(shopping_list.line_items[0]).to have_attributes(
       country: "US",
       region: "NY",
-      name: "New York",
+      locality: "New York",
       quantity: 90,
       nearby_rate_centers: be_a(Array)
     )
     expect(shopping_list.line_items[1]).to have_attributes(
       country: "US",
       region: "CA",
-      name: "Los Angeles",
+      locality: "Los Angeles",
       quantity: 35,
       nearby_rate_centers: be_a(Array)
     )
-    expect(shopping_list.line_items.map(&:name)).not_to include("Melbourne")
+    expect(shopping_list.line_items.map(&:locality)).not_to include("Melbourne")
   end
 
   def build_inventory_report(line_items:)

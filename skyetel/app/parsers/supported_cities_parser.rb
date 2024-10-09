@@ -3,10 +3,10 @@ require "csv"
 class SupportedCitiesParser
   City = Struct.new(:country, :region, :name, :nearby_rate_centers, keyword_init: true)
 
-  attr_reader :data_file
+  attr_reader :data
 
   def initialize(**options)
-    @data_file = options.fetch(:data_file)
+    @data = options.fetch(:data) { CSV.foreach(options.fetch(:data_file), headers: true) }
   end
 
   def parse
@@ -25,6 +25,14 @@ class SupportedCitiesParser
 
   private
 
+  def load_cities
+    filter = data.each_with_object(initialize_filter) do |row_data, result|
+      result[row_data.fetch("country")][row_data.fetch("region")] << row_data.fetch("name")
+    end
+
+    RateCenter.data_loader.load(:cities, only: filter)
+  end
+
   def nearby_rate_centers_for(city)
     nearby_rate_centers = city.nearby_rate_centers.select do |distance|
       Skyetel::RateCenter.find_by(country: city.country, state: city.region, name: distance.name)
@@ -33,14 +41,6 @@ class SupportedCitiesParser
     raise Error::NoRateCenterFoundError("No nearby rate centers found for #{city.name}") if nearby_rate_centers.empty?
 
     nearby_rate_centers
-  end
-
-  def load_cities
-    filter = CSV.foreach(data_file, headers: true).each_with_object(initialize_filter) do |row_data, result|
-      result[row_data.fetch("country")][row_data.fetch("region")] << row_data.fetch("name")
-    end
-
-    RateCenter.data_loader.load(:cities, only: filter)
   end
 
   def load_skyetel_rate_centers

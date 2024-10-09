@@ -43,7 +43,7 @@ class GenerateInventoryReport
     InventoryReport::LineItem.new(
       country: data.fetch("country"),
       region: data.fetch("region"),
-      name: data.fetch("locality"),
+      locality: data.fetch("locality"),
       quantity: data.fetch("value")
     )
   end

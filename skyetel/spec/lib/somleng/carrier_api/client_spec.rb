@@ -3,12 +3,12 @@ require "spec_helper"
 module Somleng
   module CarrierAPI
     RSpec.describe Client do
-      describe "phone_number_stats" do
+      describe "#phone_number_stats" do
         it "returns phone number stats" do
           client = Client.new
           stub_jsonapi_request(
             :get, "https://api.somleng.org/carrier/v1/phone_numbers/stats",
-            response_body: response_fixture(:stats)
+            response_body: response_fixture(:phone_number_stats)
           )
 
           response = client.phone_number_stats(
@@ -45,7 +45,7 @@ module Somleng
 
         it "handles pagination" do
           client = Client.new
-          response_body = response_fixture(:stats)
+          response_body = response_fixture(:phone_number_stats)
           total_records = JSON.parse(response_body).fetch("data").size
           page_size = 2
           stub_jsonapi_request(
@@ -83,8 +83,49 @@ module Somleng
         end
       end
 
+      describe "#create_phone_number" do
+        it "creates phone numbers" do
+          client = Client.new
+          stub_jsonapi_request(
+            :post,
+            "https://api.somleng.org/carrier/v1/phone_numbers",
+            response_body: response_fixture(:create_phone_number)
+          )
+
+          client.create_phone_number(
+            number: "16468136546",
+            type: :local,
+            visibility: :public,
+            country: "US",
+            region: "NY",
+            locality: "New York",
+            metadata: { foo: "bar" }
+          )
+
+          expect(
+            a_request(:post, "https://api.somleng.org/carrier/v1/phone_numbers").with(
+              body: {
+                data: {
+                  type: :phone_number,
+                  attributes: {
+                    number: "16468136546",
+                    type: :local,
+                    visibility: :public,
+                    country: "US",
+                    region: "NY",
+                    locality: "New York",
+                    metadata: { foo: "bar" }
+                  }
+                }
+              }.to_json,
+              headers: { "Content-Type" => "application/vnd.api+json" }
+            )
+          ).to have_been_made
+        end
+      end
+
       def response_fixture(name)
-        file_fixture("somleng/carrier_api/responses/phone_numbers/#{name}.json").read
+        file_fixture("somleng/carrier_api/responses/#{name}.json").read
       end
     end
   end

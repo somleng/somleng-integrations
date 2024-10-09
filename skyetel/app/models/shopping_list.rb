@@ -1,5 +1,5 @@
 class ShoppingList
-  LineItem = Struct.new(:country, :region, :name, :quantity, :nearby_rate_centers)
+  LineItem = Struct.new(:country, :region, :locality, :quantity, :nearby_rate_centers)
 
   attr_reader :line_items
 

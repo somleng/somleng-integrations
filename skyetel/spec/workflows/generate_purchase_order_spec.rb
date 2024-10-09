@@ -4,8 +4,8 @@ RSpec.describe GeneratePurchaseOrder do
   it "generates a purchase order" do
     shopping_list = build_shopping_list(
       line_items: [
-        { country: "US", region: "NY", name: "New York", quantity: 2, nearby_rate_centers: [ "NWYRCYZN01", "NWYRCYZN02" ] },
-        { country: "US", region: "CA", name: "Los Angeles", quantity: 2, nearby_rate_centers: [ "LSAN DA 01" ] }
+        { country: "US", region: "NY", locality: "New York", quantity: 2, nearby_rate_centers: [ "NWYRCYZN01", "NWYRCYZN03" ] },
+        { country: "US", region: "CA", locality: "Los Angeles", quantity: 2, nearby_rate_centers: [ "LSAN DA 01" ] }
       ]
     )
 
@@ -14,15 +14,33 @@ RSpec.describe GeneratePurchaseOrder do
     fake_client = build_fake_client(
       search: [
         search_result.new(results: 1, for: "NWYRCYZN01"),
-        search_result.new(results: 5, for: "NWYRCYZN02"),
+        search_result.new(results: 5, for: "NWYRCYZN03"),
         search_result.new(results: 4, for: "LSAN DA 01")
       ]
     )
 
     purchase_order = GeneratePurchaseOrder.call(shopping_list: shopping_list, client: fake_client)
 
-    expect(purchase_order.line_items.count).to eq(4)
-    expect(purchase_order.line_items.map(&:ratecenter)).to eq([ "NWYRCYZN01", "NWYRCYZN02", "LSAN DA 01", "LSAN DA 01" ])
+    expect(purchase_order.line_items.count).to eq(2)
+    expect(purchase_order.line_items[0]).to have_attributes(
+      country: "US",
+      region: "NY",
+      locality: "New York",
+      order_details: contain_exactly(
+        have_attributes(ratecenter: "NWYRCYZN01"),
+        have_attributes(ratecenter: "NWYRCYZN03")
+      )
+    )
+    expect(purchase_order.line_items[1]).to have_attributes(
+      country: "US",
+      region: "CA",
+      locality: "Los Angeles",
+      order_details: contain_exactly(
+        have_attributes(ratecenter: "LSAN DA 01"),
+        have_attributes(ratecenter: "LSAN DA 01")
+      )
+    )
+    expect(purchase_order.to_order.map(&:ratecenter)).to eq([ "NWYRCYZN01", "NWYRCYZN03", "LSAN DA 01", "LSAN DA 01" ])
   end
 
   def build_fake_client(**options)

@@ -12,6 +12,10 @@ module JSONAPI
       @http_client = options.fetch(:http_client) { default_http_client }
     end
 
+    def create_resource(url:, type:, attributes:)
+      execute_request(:post, url, { data: { type:, attributes: } })
+    end
+
     def fetch(url)
       execute_request(:get, url)
     end
