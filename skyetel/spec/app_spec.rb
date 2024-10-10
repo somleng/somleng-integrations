@@ -37,8 +37,8 @@ module App
         :post, "https://api.somleng.org/carrier/v1/phone_numbers",
         response_body: file_fixture("somleng/responses/create_phone_number.json").read
       )
-
       handler = build_handler
+
       handler.process
 
       expect(a_request(:post, "https://api.somleng.org/carrier/v1/phone_numbers")).to have_been_made.times(2)

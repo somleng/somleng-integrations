@@ -1,5 +1,6 @@
 class PurchaseOrder
-  LineItem = Struct.new(:country, :region, :locality, :order_details, keyword_init: true)
+  LineItem = Struct.new(:country, :region, :locality, :numbers, keyword_init: true)
+  Number = Struct.new(:rate_center, :order_details, keyword_init: true)
 
   attr_reader :line_items
 
@@ -9,7 +10,7 @@ class PurchaseOrder
 
   def to_order
     line_items.each_with_object([]) do |line_item, result|
-      result.concat(line_item.order_details)
+      result.concat(line_item.numbers.map(&:order_details))
     end
   end
 end

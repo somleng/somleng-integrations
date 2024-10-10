@@ -26,20 +26,33 @@ RSpec.describe GeneratePurchaseOrder do
       country: "US",
       region: "NY",
       locality: "New York",
-      order_details: contain_exactly(
-        have_attributes(ratecenter: "NWYRCYZN01"),
-        have_attributes(ratecenter: "NWYRCYZN03")
+      numbers: contain_exactly(
+        have_attributes(
+          rate_center: have_attributes(name: "NWYRCYZN01"),
+          order_details: have_attributes(ratecenter: "NWYRCYZN01")
+        ),
+        have_attributes(
+          rate_center: have_attributes(name: "NWYRCYZN03"),
+          order_details: have_attributes(ratecenter: "NWYRCYZN03")
+        )
       )
     )
     expect(purchase_order.line_items[1]).to have_attributes(
       country: "US",
       region: "CA",
       locality: "Los Angeles",
-      order_details: contain_exactly(
-        have_attributes(ratecenter: "LSAN DA 01"),
-        have_attributes(ratecenter: "LSAN DA 01")
+      numbers: contain_exactly(
+        have_attributes(
+          rate_center: have_attributes(name: "LSAN DA 01"),
+          order_details: have_attributes(ratecenter: "LSAN DA 01")
+        ),
+        have_attributes(
+          rate_center: have_attributes(name: "LSAN DA 01"),
+          order_details: have_attributes(ratecenter: "LSAN DA 01")
+        )
       )
     )
+
     expect(purchase_order.to_order.map(&:ratecenter)).to eq([ "NWYRCYZN01", "NWYRCYZN03", "LSAN DA 01", "LSAN DA 01" ])
   end
 

@@ -2,22 +2,22 @@ require "spec_helper"
 
 RSpec.describe UpdateInventory do
   it "generates a purchase order" do
-    number = Class.new(Struct.new(:number, :ratecenter, keyword_init: true))
+    number = Class.new(Struct.new(:number, :rate_center, :rate_center_attributes, keyword_init: true))
 
     purchase_order = build_purchase_order(
       line_items: [
         {
           country: "US", region: "NY", locality: "New York",
-          order_details: [
-            number.new(number: "6468136545", ratecenter: "NWYRCYZN01"),
-            number.new(number: "6468136546", ratecenter: "NWYRCYZN03")
+          numbers: [
+            number.new(number: "6468136545", rate_center: "NWYRCYZN01", rate_center_attributes: { lata: "132" }),
+            number.new(number: "6468136546", rate_center: "NWYRCYZN03", rate_center_attributes: { lata: "132" })
           ]
         },
         {
           country: "US", region: "CA", locality: "Los Angeles",
-          order_details: [
-            number.new(number: "3322589357", ratecenter: "LSAN DA 01"),
-            number.new(number: "3322589358", ratecenter: "LSAN DA 01")
+          numbers: [
+            number.new(number: "3322589357", rate_center: "LSAN DA 01", rate_center_attributes: { lata: "730" }),
+            number.new(number: "3322589358", rate_center: "LSAN DA 01", rate_center_attributes: { lata: "730" })
           ]
         }
       ]
@@ -35,9 +35,11 @@ RSpec.describe UpdateInventory do
       country: "US",
       region: "NY",
       locality: "New York",
+      lata: "132",
+      rate_center: "NWYRCYZN01",
       metadata: {
         provider_name: "skyetel",
-        provider_attributes: hash_including(
+        order_details: hash_including(
           number: "6468136545",
           ratecenter: "NWYRCYZN01"
         )
@@ -49,8 +51,10 @@ RSpec.describe UpdateInventory do
         country: "US",
         region: "NY",
         locality: "New York",
+        lata: "132",
+        rate_center: "NWYRCYZN03",
         metadata: hash_including(
-          provider_attributes: hash_including(
+          order_details: hash_including(
             number: "6468136546",
             ratecenter: "NWYRCYZN03"
           )
@@ -63,8 +67,10 @@ RSpec.describe UpdateInventory do
         country: "US",
         region: "CA",
         locality: "Los Angeles",
+        lata: "730",
+        rate_center: "LSAN DA 01",
         metadata: hash_including(
-          provider_attributes: hash_including(
+          order_details: hash_including(
             number: "3322589357",
             ratecenter: "LSAN DA 01"
           )
@@ -77,8 +83,10 @@ RSpec.describe UpdateInventory do
         country: "US",
         region: "CA",
         locality: "Los Angeles",
+        lata: "730",
+        rate_center: "LSAN DA 01",
         metadata: hash_including(
-          provider_attributes: hash_including(
+          order_details: hash_including(
             number: "3322589358",
             ratecenter: "LSAN DA 01"
           )
@@ -92,7 +100,11 @@ RSpec.describe UpdateInventory do
     line_items = Array(line_items).map do |line_item|
       PurchaseOrder::LineItem.new(
         **line_item,
-        order_details: line_item.fetch(:order_details).map { |number| OpenStruct.new(**did, number: number.number, ratecenter: number.ratecenter) }
+        numbers: line_item.fetch(:numbers).map do |number|
+          rate_center = OpenStruct.new(name: number.rate_center, **number.rate_center_attributes)
+          order_details = OpenStruct.new(**did, number: number.number, ratecenter: number.rate_center)
+          PurchaseOrder::Number.new(rate_center:, order_details:)
+        end
       )
     end
 
