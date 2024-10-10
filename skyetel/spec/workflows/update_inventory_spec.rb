@@ -2,7 +2,7 @@ require "spec_helper"
 
 RSpec.describe UpdateInventory do
   it "generates a purchase order" do
-    number = Class.new(Struct.new(:number, :rate_center, :rate_center_attributes, keyword_init: true))
+    number = Struct.new(:number, :rate_center, :rate_center_attributes, keyword_init: true)
 
     purchase_order = build_purchase_order(
       line_items: [
@@ -41,10 +41,12 @@ RSpec.describe UpdateInventory do
         provider_name: "skyetel",
         order_details: hash_including(
           number: "6468136545",
-          ratecenter: "NWYRCYZN01"
-        )
+          ratecenter: "NWYRCYZN01",
+        ),
+        rate_center: hash_including(name: "NWYRCYZN01", lata: "132")
       }
     )
+    expect(client).to have_received(:create_phone_number) { |args| expect(args.dig(:metadata, :rate_center)).not_to have_key(:closest_city) }.exactly(4).times
     expect(client).to have_received(:create_phone_number).with(
       hash_including(
         number: "16468136546",
@@ -101,7 +103,8 @@ RSpec.describe UpdateInventory do
       PurchaseOrder::LineItem.new(
         **line_item,
         numbers: line_item.fetch(:numbers).map do |number|
-          rate_center = OpenStruct.new(name: number.rate_center, **number.rate_center_attributes)
+          closest_city = OpenStruct.new(name: "Manhattan", distance_km: 5.33)
+          rate_center = OpenStruct.new(name: number.rate_center, closest_city:, **number.rate_center_attributes)
           order_details = OpenStruct.new(**did, number: number.number, ratecenter: number.rate_center)
           PurchaseOrder::Number.new(rate_center:, order_details:)
         end

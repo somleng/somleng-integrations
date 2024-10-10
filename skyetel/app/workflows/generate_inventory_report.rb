@@ -3,11 +3,11 @@ class GenerateInventoryReport
     new(...).call
   end
 
-  attr_reader :client, :min_stock
+  attr_reader :client, :cities
 
   def initialize(**options)
     @client = options.fetch(:client) { Somleng::CarrierAPI::Client.new }
-    @min_stock = options.fetch(:min_stock) { ENV.fetch("MIN_STOCK", 50) }
+    @cities = options.fetch(:cities) { AppSettings.supported_cities }
   end
 
   def call
@@ -29,13 +29,8 @@ class GenerateInventoryReport
 
   def phone_number_stats
     @phone_number_stats ||= client.phone_number_stats(
-      filter: {
-        available: true, type: :local
-      },
-      group_by: [ :country, :region, :locality ],
-      having: {
-        count: { lt: min_stock }
-      }
+      filter: build_filter,
+      group_by: [ :country, :region, :locality ]
     )
   end
 
@@ -46,5 +41,15 @@ class GenerateInventoryReport
       locality: data.fetch("locality"),
       quantity: data.fetch("value")
     )
+  end
+
+  def build_filter
+    filter = {}
+    countries = cities.map(&:country).uniq
+    country = countries.first if countries.size == 1
+    filter[:available] = true
+    filter[:type] = :local
+    filter[:country] = country if country
+    filter
   end
 end

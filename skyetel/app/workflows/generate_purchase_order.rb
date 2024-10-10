@@ -1,6 +1,4 @@
 class GeneratePurchaseOrder
-
-
   def self.call(...)
     new(...).call
   end

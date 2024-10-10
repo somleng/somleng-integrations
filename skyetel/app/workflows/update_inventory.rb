@@ -1,4 +1,12 @@
 class UpdateInventory
+  class RateCenterDecorator < SimpleDelegator
+    def to_h
+      super.each_with_object({}) do |(key, value), result|
+        result[key] = value unless value.respond_to?(:to_h)
+      end
+    end
+  end
+
   def self.call(...)
     new(...).call
   end
@@ -35,7 +43,8 @@ class UpdateInventory
       rate_center: number.rate_center.name,
       metadata: {
         provider_name:,
-        order_details: number.order_details.to_h
+        order_details: number.order_details.to_h,
+        rate_center: RateCenterDecorator.new(number.rate_center).to_h
       }
     )
   end
