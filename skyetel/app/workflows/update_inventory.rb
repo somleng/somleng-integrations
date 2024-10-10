@@ -41,6 +41,8 @@ class UpdateInventory
       locality: line_item.locality,
       lata: number.rate_center.lata,
       rate_center: number.rate_center.name,
+      latitude: number.rate_center.lat,
+      longitude: number.rate_center.long,
       metadata: {
         provider_name:,
         order_details: number.order_details.to_h,

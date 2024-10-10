@@ -9,15 +9,15 @@ RSpec.describe UpdateInventory do
         {
           country: "US", region: "NY", locality: "New York",
           numbers: [
-            number.new(number: "6468136545", rate_center: "NWYRCYZN01", rate_center_attributes: { lata: "132" }),
-            number.new(number: "6468136546", rate_center: "NWYRCYZN03", rate_center_attributes: { lata: "132" })
+            number.new(number: "6468136545", rate_center: "NWYRCYZN01", rate_center_attributes: { lata: "132", lat: "40.739362", long: "-73.991043" }),
+            number.new(number: "6468136546", rate_center: "NWYRCYZN03", rate_center_attributes: { lata: "132", lat: "40.739362", long: "-73.991043" })
           ]
         },
         {
           country: "US", region: "CA", locality: "Los Angeles",
           numbers: [
-            number.new(number: "3322589357", rate_center: "LSAN DA 01", rate_center_attributes: { lata: "730" }),
-            number.new(number: "3322589358", rate_center: "LSAN DA 01", rate_center_attributes: { lata: "730" })
+            number.new(number: "3322589357", rate_center: "LSAN DA 01", rate_center_attributes: { lata: "730", lat: "34.050281", long: "-118.250995" }),
+            number.new(number: "3322589358", rate_center: "LSAN DA 01", rate_center_attributes: { lata: "730", lat: "34.050281", long: "-118.250995" })
           ]
         }
       ]
@@ -37,6 +37,8 @@ RSpec.describe UpdateInventory do
       locality: "New York",
       lata: "132",
       rate_center: "NWYRCYZN01",
+      latitude: "40.739362",
+      longitude: "-73.991043",
       metadata: {
         provider_name: "skyetel",
         order_details: hash_including(
@@ -55,6 +57,8 @@ RSpec.describe UpdateInventory do
         locality: "New York",
         lata: "132",
         rate_center: "NWYRCYZN03",
+        latitude: "40.739362",
+        longitude: "-73.991043",
         metadata: hash_including(
           order_details: hash_including(
             number: "6468136546",
@@ -71,6 +75,8 @@ RSpec.describe UpdateInventory do
         locality: "Los Angeles",
         lata: "730",
         rate_center: "LSAN DA 01",
+        latitude: "34.050281",
+        longitude: "-118.250995",
         metadata: hash_including(
           order_details: hash_including(
             number: "3322589357",
@@ -87,6 +93,8 @@ RSpec.describe UpdateInventory do
         locality: "Los Angeles",
         lata: "730",
         rate_center: "LSAN DA 01",
+        latitude: "34.050281",
+        longitude: "-118.250995",
         metadata: hash_including(
           order_details: hash_including(
             number: "3322589358",
