@@ -18,6 +18,7 @@ jobs:
       env:
         BUNDLE_FROZEN: false
       with:
+        working-directory: skyetel
         bundler-cache: true
 
     - name: Run the tests
