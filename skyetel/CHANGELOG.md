@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.9](https://github.com/somleng/somleng-integrations/compare/somleng-skyetel/v0.2.8...somleng-skyetel/v0.2.9) (2024-10-11)
+
+
+### Bug Fixes
+
+* Update rate centers ([#25](https://github.com/somleng/somleng-integrations/issues/25)) ([47aa0e5](https://github.com/somleng/somleng-integrations/commit/47aa0e5aca12718383ad1b7227f2fcb06ac0b3a9))
+
 ## [0.2.8](https://github.com/somleng/somleng-integrations/compare/somleng-skyetel/v0.2.7...somleng-skyetel/v0.2.8) (2024-10-11)
 
 
