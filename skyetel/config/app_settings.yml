@@ -3,8 +3,8 @@ default: &default
   skyetel_username: "<%= ENV['SKYETEL_USERNAME'] %>"
   skyetel_password: "<%= ENV['SKYETEL_PASSWORD'] %>"
   supported_cities_data_file: "<%= ENV.fetch('SUPPORTED_CITIES_DATA_FILE', 'supported_cities.csv') %>"
-  min_stock: "<%= ENV.fetch('MIN_STOCK', 50) %>"
-  max_stock: "<%= ENV.fetch('MAX_STOCK', 100) %>"
+  min_stock: "<%= ENV.fetch('MIN_STOCK', 0) %>"
+  max_stock: "<%= ENV.fetch('MAX_STOCK', 0) %>"
   somleng_number_visibility: "<%= ENV.fetch('SOMLENG_NUMBER_VISIBILITY', 'public') %>"
 
 development: &development
