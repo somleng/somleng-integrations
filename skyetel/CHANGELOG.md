@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.7](https://github.com/somleng/somleng-integrations/compare/somleng-skyetel/v0.2.6...somleng-skyetel/v0.2.7) (2024-10-11)
+
+
+### Bug Fixes
+
+* Update default config ([#21](https://github.com/somleng/somleng-integrations/issues/21)) ([dc1f5f9](https://github.com/somleng/somleng-integrations/commit/dc1f5f9249bc456e078889095228ff9f5ece9312))
+
 ## [0.2.6](https://github.com/somleng/somleng-integrations/compare/somleng-skyetel/v0.2.5...somleng-skyetel/v0.2.6) (2024-10-11)
 
 
