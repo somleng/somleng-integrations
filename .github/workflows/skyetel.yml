@@ -17,7 +17,6 @@ jobs:
     outputs:
       matrix: ${{ steps.set-deployment-matrix.outputs.matrix }}
       matrixLength: ${{ steps.set-deployment-matrix.outputs.matrixLength }}
-      release: ${{ steps.set-deployment-matrix.outputs.release }}
 
     steps:
     - uses: actions/checkout@v4
@@ -54,15 +53,10 @@ jobs:
         matrix=$(echo $matrixSource | jq --arg branchName "$branchName" 'map(. | select((.branch==$branchName)) )')
         echo "matrix={\"include\":$(echo $matrix)}" >> $GITHUB_OUTPUT
         echo "matrixLength=$(echo $matrix | jq length)" >> $GITHUB_OUTPUT
-        echo "release=$(echo $matrix | jq '.[0].release')" >> $GITHUB_OUTPUT
 
   release:
     name: Release
     runs-on: ubuntu-latest
-    if: needs.build.outputs.release == 'true'
-    outputs:
-      release_created: ${{ steps.release-please.outputs.release_created }}
-      release_tag: ${{ steps.release-please.outputs.tag_name }}
     needs:
       - build
 
