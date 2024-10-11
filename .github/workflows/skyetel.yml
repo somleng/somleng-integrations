@@ -1,6 +1,9 @@
 name: Skyetel
 
-on: push
+on:
+  push:
+    branches:
+      - "**"
 
 defaults:
   run:
