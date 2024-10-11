@@ -16,7 +16,9 @@ jobs:
     steps:
       - name: Get version from tag
         id: get-version
-        run: echo "version=${GITHUB_REF_NAME#somleng-skyetel/}" >> $GITHUB_OUTPUT
+        run: |
+          echo "debug: $GITHUB_REF_NAME"
+          echo "version=${GITHUB_REF_NAME#somleng-skyetel/}" >> $GITHUB_OUTPUT
 
       - name: Checkout
         uses: actions/checkout@v4
