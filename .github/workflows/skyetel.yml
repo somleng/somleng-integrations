@@ -2,13 +2,13 @@ name: Skyetel
 
 on: push
 
+defaults:
+  run:
+    working-directory: skyetel
+
 jobs:
   build:
     runs-on: ubuntu-latest
-
-    defaults:
-      run:
-        working-directory: skyetel
 
     outputs:
       matrix: ${{ steps.set-deployment-matrix.outputs.matrix }}
