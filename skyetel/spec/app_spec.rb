@@ -4,7 +4,6 @@ module App
   RSpec.describe Handler do
     it "restocks the Somleng inventory with Skyetel numbers" do
       stub_env(
-        "MAX_STOCK" => 2,
         "SUPPORTED_CITIES" => [
           {
             "country" => "US",
@@ -18,6 +17,7 @@ module App
           }
         ].to_json
       )
+      stub_app_settings(max_stock: 2)
       stub_jsonapi_request(
         :get, "https://api.somleng.org/carrier/v1/phone_numbers/stats",
         response_body: file_fixture("somleng/responses/phone_number_stats.json").read
