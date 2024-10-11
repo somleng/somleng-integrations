@@ -2,7 +2,7 @@
 
 ## Build your own docker image
 
-Edit the supported_cities.csv file with a list of supported cities and build your own docker image.
+Edit the `supported_cities.csv` file with a list of supported cities and build your own docker image.
 
 ```bash
 docker buildx build -t --platform linux/amd64 somleng-skyetel:example .
