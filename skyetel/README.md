@@ -13,3 +13,5 @@ This integration connects [Skyetel](https://skyetel.com/) to [Somleng](https://w
 ## Usage
 
 ## Deployment
+
+The [docker image](https://github.com/somleng/somleng-integrations/pkgs/container/somleng-skyetel) is available on Github.
