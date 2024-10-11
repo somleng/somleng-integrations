@@ -127,9 +127,9 @@ jobs:
       - name: Build and push Docker image
         uses: docker/build-push-action@v6
         with:
-          context: .
-          push: true
-          platforms: linux/amd64,linux/arm64
+          context: skyetel
+          push: ${{ github.event_name != 'pull_request' }}
+          platforms: linux/amd64
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
 
