@@ -16,6 +16,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
+          working-directory: skyetel
           bundler-cache: true
 
       - name: Update Data
