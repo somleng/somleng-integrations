@@ -42,7 +42,7 @@ jobs:
             "environment": "staging",
             "branch": "test_release_1",
             "image_tag": "beta",
-            "release": true,
+            "release": true
           },
           {
             "environment": "production",
@@ -125,8 +125,8 @@ jobs:
     runs-on: ubuntu-latest
     needs:
       - build
-      - release
-    if: ${{ needs.release.outputs.release_created }}
+      - build-packages
+    if: ${{ startsWith(github.ref_name, 'v') }}
     strategy:
       matrix: ${{fromJSON(needs.build.outputs.matrix)}}
 
@@ -141,4 +141,4 @@ jobs:
           SENTRY_PROJECT: somleng-skyetel
         with:
           environment: ${{ matrix.environment }}
-          version: ${{ needs.release.outputs.release_tag }}
+          version: ${{ github.ref_name }}
