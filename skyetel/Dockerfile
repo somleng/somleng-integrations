@@ -27,9 +27,6 @@ FROM public.ecr.aws/lambda/ruby:$RUBY_VERSION
 
 COPY --from=build-image ${LAMBDA_TASK_ROOT} ${LAMBDA_TASK_ROOT}
 
-RUN dnf update && \
-    dnf -y install postgresql-devel
-
 ENV RUBY_YJIT_ENABLE=true
 
 CMD [ "app.App::Handler.process" ]

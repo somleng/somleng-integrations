@@ -14,7 +14,7 @@ jobs:
       matrix: ${{ steps.set-deployment-matrix.outputs.matrix }}
       matrixLength: ${{ steps.set-deployment-matrix.outputs.matrixLength }}
       packageMatrix: ${{ steps.set-deployment-matrix.outputs.packageMatrix }}
-      release: ${{ steps.set-deployment-matrix.outputs.deploy }}
+      release: ${{ steps.set-deployment-matrix.outputs.release }}
 
     steps:
     - uses: actions/checkout@v4
