@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.10](https://github.com/somleng/somleng-integrations/compare/somleng-skyetel/v0.2.9...somleng-skyetel/v0.2.10) (2024-10-11)
+
+
+### Bug Fixes
+
+* Handle zero max stock ([#27](https://github.com/somleng/somleng-integrations/issues/27)) ([9fb3fe8](https://github.com/somleng/somleng-integrations/commit/9fb3fe8f16a120f815078d95fa57dd272d29aa1e))
+
 ## [0.2.9](https://github.com/somleng/somleng-integrations/compare/somleng-skyetel/v0.2.8...somleng-skyetel/v0.2.9) (2024-10-11)
 
 
