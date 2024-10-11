@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/somleng/somleng-integrations/compare/somleng-skyetel/v0.2.1...somleng-skyetel/v0.2.2) (2024-10-11)
+
+
+### Bug Fixes
+
+* remove logger ([49b59d8](https://github.com/somleng/somleng-integrations/commit/49b59d8b3ff2667e7403ecd5028e227292e18a53))
+
 ## [0.2.1](https://github.com/somleng/somleng-integrations/compare/somleng-skyetel/v0.2.0...somleng-skyetel/v0.2.1) (2024-10-11)
 
 
