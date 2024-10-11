@@ -41,8 +41,6 @@ jobs:
         id: release-please
         with:
           token: ${{ secrets.SOMLENG_PERSONAL_ACCESS_TOKEN }}
-          path: skyetel
-          manifest-file: skyetel/.release-please-manifest.json
 
   build-packages:
     name: Build Packages
