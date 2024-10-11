@@ -1,0 +1,24 @@
+name: Skyetel
+
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: skyetel
+
+    steps:
+
+    - uses: actions/checkout@v4
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      env:
+        BUNDLE_FROZEN: false
+      with:
+        bundler-cache: true
+
+    - name: Run the tests
+      run: bundle exec rake
