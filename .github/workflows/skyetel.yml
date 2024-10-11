@@ -71,7 +71,7 @@ jobs:
 
       - name: Build Packages
         run: |
-          docker buildx build --output type=local,dest=build --platform linux/${{ matrix.platform }} .
+          docker buildx build --cache-to type=gha --cache-from type=gha --platform linux/${{ matrix.platform }} .
 
   release:
     name: Release
@@ -94,6 +94,8 @@ jobs:
         with:
           token: ${{ secrets.SOMLENG_PERSONAL_ACCESS_TOKEN }}
           path: skyetel
+          config_file: skyetel/release-please-config.json
+          manifest-file: skyetel/release-please-manifest.json
 
   upload-packages:
     name: Upload Packages
@@ -131,7 +133,7 @@ jobs:
         with:
           context: .
           push: true
-          platforms: linux/amd64
+          platforms: linux/amd64,linux/arm64
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
 
