@@ -1,0 +1,4276 @@
+---
+cities:
+- country: US
+  region: AK
+  name: Adak
+  lat: '51.8815'
+  long: "-176.6295"
+  nearby_rate_centers:
+  - name: ADKUSNVLST
+    distance_km: 1.43
+  - name: ATKA
+    distance_km: 170.47
+  - name: NIKOLSKI
+    distance_km: 540.19
+- country: US
+  region: AK
+  name: Akhiok
+  lat: '56.9450'
+  long: "-154.2150"
+  nearby_rate_centers:
+  - name: AKHIOK
+    distance_km: 3.3
+  - name: OLD HARBOR
+    distance_km: 62.45
+  - name: LARSEN BAY
+    distance_km: 67.63
+- country: US
+  region: AK
+  name: Akiachak
+  lat: '60.9210'
+  long: "-161.4021"
+  nearby_rate_centers:
+  - name: AKIACHAK
+    distance_km: 1.94
+  - name: AKIAK
+    distance_km: 10.1
+  - name: KWETHLUK
+    distance_km: 11.81
+- country: US
+  region: AK
+  name: Akiak
+  lat: '60.9061'
+  long: "-161.2122"
+  nearby_rate_centers:
+  - name: AKIAK
+    distance_km: 0.95
+  - name: AKIACHAK
+    distance_km: 12.12
+  - name: KWETHLUK
+    distance_km: 14.8
+- country: US
+  region: AK
+  name: Akutan
+  lat: '54.1594'
+  long: "-165.7328"
+  nearby_rate_centers:
+  - name: AKUTAN
+    distance_km: 3.37
+  - name: UNALASKA
+    distance_km: 60.66
+  - name: FALSE PASS
+    distance_km: 168.66
+- country: US
+  region: AK
+  name: Alakanuk
+  lat: '62.6902'
+  long: "-164.6305"
+  nearby_rate_centers:
+  - name: ALAKANUK
+    distance_km: 0.38
+  - name: EMMONAK
+    distance_km: 11.17
+  - name: SHELDON PT
+    distance_km: 20.62
+- country: US
+  region: AK
+  name: Alatna
+  lat: '66.5638'
+  long: "-152.8385"
+  nearby_rate_centers:
+  - name: ALLAKAKET
+    distance_km: 8.8
+  - name: INDINMTAFS
+    distance_km: 66.58
+  - name: BETTLES
+    distance_km: 69.54
+- country: US
+  region: AK
+  name: Alcan Border
+  lat: '62.6727'
+  long: "-141.1321"
+  nearby_rate_centers:
+  - name: BORDERCITY
+    distance_km: 8.61
+  - name: NORTHWAY
+    distance_km: 51.35
+  - name: CHISANA
+    distance_km: 81.18
+- country: US
+  region: AK
+  name: Aleknagik
+  lat: '59.2946'
+  long: "-158.6896"
+  nearby_rate_centers:
+  - name: DILLINGHAM
+    distance_km: 33.74
+  - name: MANOKOTAK
+    distance_km: 40.53
+  - name: EKUK
+    distance_km: 50.36
+- country: US
+  region: AK
+  name: Aleneva
+  lat: '58.0590'
+  long: "-152.9091"
+  nearby_rate_centers:
+  - name: PORT LIONS
+    distance_km: 21.63
+  - name: OUZINKIE
+    distance_km: 28.32
+  - name: KODIAK
+    distance_km: 40.88
+- country: US
+  region: AK
+  name: Allakaket
+  lat: '66.5506'
+  long: "-152.6270"
+  nearby_rate_centers:
+  - name: ALLAKAKET
+    distance_km: 2.14
+  - name: BETTLES
+    distance_km: 62.96
+  - name: INDINMTAFS
+    distance_km: 71.22
+- country: US
+  region: AK
+  name: Ambler
+  lat: '67.0897'
+  long: "-157.8725"
+  nearby_rate_centers:
+  - name: AMBLER
+    distance_km: 1.07
+  - name: SHUNGNAK
+    distance_km: 38.55
+  - name: KOBUK
+    distance_km: 47.3
+- country: US
+  region: AK
+  name: Anaktuvuk Pass
+  lat: '68.1500'
+  long: "-151.7162"
+  nearby_rate_centers:
+  - name: ANATVKPASS
+    distance_km: 0.91
+  - name: COLDFOOT
+    distance_km: 118.1
+  - name: SAGRIVCAMP
+    distance_km: 134.82
+- country: US
+  region: AK
+  name: Anchor Point
+  lat: '59.7703'
+  long: "-151.7052"
+  nearby_rate_centers:
+  - name: HOMER
+    distance_km: 16.69
+  - name: NINILCHIK
+    distance_km: 31.58
+  - name: HALIBUT CV
+    distance_km: 32.29
+- country: US
+  region: AK
+  name: Anchorage
+  lat: '61.1508'
+  long: "-149.1091"
+  nearby_rate_centers:
+  - name: GIRDWOOD
+    distance_km: 23.45
+  - name: BIRD CREEK
+    distance_km: 27.38
+  - name: EAGLERIVER
+    distance_km: 30.87
+- country: US
+  region: AK
+  name: Anderson
+  lat: '64.3074'
+  long: "-149.1562"
+  nearby_rate_centers:
+  - name: CLEAR AFS
+    distance_km: 1.31
+  - name: NENANA
+    distance_km: 23.98
+  - name: HEALY
+    distance_km: 52.05
+- country: US
+  region: AK
+  name: Angoon
+  lat: '57.4550'
+  long: "-134.4978"
+  nearby_rate_centers:
+  - name: ANGOON
+    distance_km: 6.87
+  - name: TENAKEESPG
+    distance_km: 56.07
+  - name: KAKE
+    distance_km: 63.52
+- country: US
+  region: AK
+  name: Aniak
+  lat: '61.5817'
+  long: "-159.5451"
+  nearby_rate_centers:
+  - name: ANIAK
+    distance_km: 2.66
+  - name: CHUATHBALK
+    distance_km: 16.11
+  - name: KALSKAG
+    distance_km: 41.4
+- country: US
+  region: AK
+  name: Anvik
+  lat: '62.6541'
+  long: "-160.2140"
+  nearby_rate_centers:
+  - name: ANVIK
+    distance_km: 0.61
+  - name: GRAYLING
+    distance_km: 29.01
+  - name: SHAGELUK
+    distance_km: 35.47
+- country: US
+  region: AK
+  name: Arctic Village
+  lat: '68.1421'
+  long: "-145.4956"
+  nearby_rate_centers:
+  - name: ARCTIC VLG
+    distance_km: 1.0
+  - name: VENETIE
+    distance_km: 130.38
+  - name: SAGRIVCAMP
+    distance_km: 154.23
+- country: US
+  region: AK
+  name: Atka
+  lat: '52.2301'
+  long: "-174.2133"
+  nearby_rate_centers:
+  - name: ATKA
+    distance_km: 3.41
+  - name: ADKUSNVLST
+    distance_km: 170.75
+  - name: NIKOLSKI
+    distance_km: 370.6
+- country: US
+  region: AK
+  name: Atmautluak
+  lat: '60.8622'
+  long: "-162.2858"
+  nearby_rate_centers:
+  - name: ATMAUTLUAK
+    distance_km: 0.55
+  - name: NUNAPTCHUK
+    distance_km: 10.29
+  - name: KASIGLUK
+    distance_km: 12.48
+- country: US
+  region: AK
+  name: Atqasuk
+  lat: '70.4810'
+  long: "-157.3835"
+  nearby_rate_centers:
+  - name: ATQASUK
+    distance_km: 1.19
+  - name: BARROW
+    distance_km: 92.99
+  - name: WAINWRIGHT
+    distance_km: 99.17
+- country: US
+  region: AK
+  name: Attu Station
+  lat: '52.8955'
+  long: '173.1230'
+  nearby_rate_centers:
+  - name: EARECKSON
+    distance_km: 69.64
+  - name: ADKUSNVLST
+    distance_km: 703.36
+  - name: ATKA
+    distance_km: 860.02
+- country: US
+  region: AK
+  name: Badger
+  lat: '64.8006'
+  long: "-147.3877"
+  nearby_rate_centers:
+  - name: NORTH POLE
+    distance_km: 5.54
+  - name: FTWAINWRIT
+    distance_km: 11.3
+  - name: FAIRBANKS
+    distance_km: 15.47
+- country: US
+  region: AK
+  name: Bear Creek
+  lat: '60.2071'
+  long: "-149.3524"
+  nearby_rate_centers:
+  - name: SEWARD
+    distance_km: 11.93
+  - name: MOOSE PASS
+    distance_km: 30.71
+  - name: COOPER LDG
+    distance_km: 41.04
+- country: US
+  region: AK
+  name: Beaver
+  lat: '66.3830'
+  long: "-147.3219"
+  nearby_rate_centers:
+  - name: BEAVER
+    distance_km: 4.25
+  - name: BIRCHCREEK
+    distance_km: 69.06
+  - name: VENETIE
+    distance_km: 81.6
+- country: US
+  region: AK
+  name: Beluga
+  lat: '61.1868'
+  long: "-151.1637"
+  nearby_rate_centers:
+  - name: TYONEK
+    distance_km: 12.58
+  - name: NORTHKENAI
+    distance_km: 52.63
+  - name: ANCHORAGE
+    distance_km: 69.36
+- country: US
+  region: AK
+  name: Bethel
+  lat: '60.7928'
+  long: "-161.7917"
+  nearby_rate_centers:
+  - name: BETHEL
+    distance_km: 2.34
+  - name: NAPASKIAK
+    distance_km: 8.98
+  - name: NAPAKIAK
+    distance_km: 13.7
+- country: US
+  region: AK
+  name: Bettles
+  lat: '66.9088'
+  long: "-151.5362"
+  nearby_rate_centers:
+  - name: BETTLES
+    distance_km: 0.69
+  - name: JIMRIVCAMP
+    distance_km: 39.03
+  - name: ALLAKAKET
+    distance_km: 61.44
+- country: US
+  region: AK
+  name: Big Delta
+  lat: '64.1486'
+  long: "-145.7453"
+  nearby_rate_centers:
+  - name: DELTA JCT
+    distance_km: 12.29
+  - name: FORTGREELY
+    distance_km: 19.2
+  - name: HEALY LAKE
+    distance_km: 52.42
+- country: US
+  region: AK
+  name: Big Lake
+  lat: '61.5260'
+  long: "-149.9721"
+  nearby_rate_centers:
+  - name: BIG LAKE
+    distance_km: 6.84
+  - name: WILLOW
+    distance_km: 25.35
+  - name: WASILLA
+    distance_km: 29.73
+- country: US
+  region: AK
+  name: Birch Creek
+  lat: '66.2686'
+  long: "-145.8699"
+  nearby_rate_centers:
+  - name: BIRCHCREEK
+    distance_km: 3.08
+  - name: FORT YUKON
+    distance_km: 42.92
+  - name: BEAVER
+    distance_km: 69.71
+- country: US
+  region: AK
+  name: Brevig Mission
+  lat: '65.3413'
+  long: "-166.4953"
+  nearby_rate_centers:
+  - name: TELLER
+    distance_km: 0.46
+  - name: TINCITYAFS
+    distance_km: 72.14
+  - name: WALES
+    distance_km: 79.43
+- country: US
+  region: AK
+  name: Buckland
+  lat: '65.9784'
+  long: "-161.1341"
+  nearby_rate_centers:
+  - name: BUCKLAND
+    distance_km: 0.88
+  - name: DEERING
+    distance_km: 72.22
+  - name: SELAWIK
+    distance_km: 85.57
+- country: US
+  region: AK
+  name: Buffalo Soapstone
+  lat: '61.7071'
+  long: "-149.1093"
+  nearby_rate_centers:
+  - name: PALMER
+    distance_km: 11.2
+  - name: WASILLA
+    distance_km: 21.57
+  - name: CHUGIAK
+    distance_km: 38.32
+- country: US
+  region: AK
+  name: Butte
+  lat: '61.5539'
+  long: "-149.0035"
+  nearby_rate_centers:
+  - name: PALMER
+    distance_km: 8.03
+  - name: WASILLA
+    distance_km: 22.5
+  - name: CHUGIAK
+    distance_km: 29.44
+- country: US
+  region: AK
+  name: Cantwell
+  lat: '63.3790'
+  long: "-148.8158"
+  nearby_rate_centers:
+  - name: CANTWELL
+    distance_km: 4.19
+  - name: HEALY
+    distance_km: 52.53
+  - name: KANTISHNA
+    distance_km: 86.84
+- country: US
+  region: AK
+  name: Central
+  lat: '65.5213'
+  long: "-144.6409"
+  nearby_rate_centers:
+  - name: CENTRAL
+    distance_km: 9.8
+  - name: CIRCLE
+    distance_km: 43.22
+  - name: CHNAHOTSPG
+    distance_km: 83.58
+- country: US
+  region: AK
+  name: Chalkyitsik
+  lat: '66.6469'
+  long: "-143.7821"
+  nearby_rate_centers:
+  - name: CHALKYITSK
+    distance_km: 3.06
+  - name: FORT YUKON
+    distance_km: 66.79
+  - name: CIRCLE
+    distance_km: 91.92
+- country: US
+  region: AK
+  name: Chase
+  lat: '62.4624'
+  long: "-149.9371"
+  nearby_rate_centers:
+  - name: TALKEETNA
+    distance_km: 16.32
+  - name: WILLOW
+    distance_km: 79.05
+  - name: BIG LAKE
+    distance_km: 101.06
+- country: US
+  region: AK
+  name: Chefornak
+  lat: '60.1550'
+  long: "-164.2550"
+  nearby_rate_centers:
+  - name: CHEFORNAK
+    distance_km: 1.26
+  - name: KIPNUK
+    distance_km: 26.6
+  - name: NIGHTMUTE
+    distance_km: 44.59
+- country: US
+  region: AK
+  name: Chena Ridge
+  lat: '64.7941'
+  long: "-148.0357"
+  nearby_rate_centers:
+  - name: FAIRBANKS
+    distance_km: 16.52
+  - name: FTWAINWRIT
+    distance_km: 21.53
+  - name: NORTH POLE
+    distance_km: 32.76
+- country: US
+  region: AK
+  name: Chenega
+  lat: '60.0757'
+  long: "-148.0194"
+  nearby_rate_centers:
+  - name: CHENEGABAY
+    distance_km: 0.87
+  - name: SEWARD
+    distance_km: 78.71
+  - name: WHITTIER
+    distance_km: 85.83
+- country: US
+  region: AK
+  name: Chevak
+  lat: '61.5295'
+  long: "-165.5941"
+  nearby_rate_centers:
+  - name: CHEVAK
+    distance_km: 0.63
+  - name: HOOPER BAY
+    distance_km: 26.46
+  - name: SCAMMONBAY
+    distance_km: 35.25
+- country: US
+  region: AK
+  name: Chickaloon
+  lat: '61.8040'
+  long: "-148.4103"
+  nearby_rate_centers:
+  - name: PALMER
+    distance_km: 42.82
+  - name: WASILLA
+    distance_km: 58.8
+  - name: CHUGIAK
+    distance_km: 71.12
+- country: US
+  region: AK
+  name: Chicken
+  lat: '64.0878'
+  long: "-141.8285"
+  nearby_rate_centers:
+  - name: EAGLE
+    distance_km: 83.2
+  - name: TOK
+    distance_km: 100.76
+  - name: TETLIN
+    distance_km: 110.93
+- country: US
+  region: AK
+  name: Chignik
+  lat: '56.3003'
+  long: "-158.4132"
+  nearby_rate_centers:
+  - name: CHIGNIK
+    distance_km: 0.82
+  - name: CHIGNILGON
+    distance_km: 6.86
+  - name: CHIGNIK LK
+    distance_km: 22.11
+- country: US
+  region: AK
+  name: Chignik Lagoon
+  lat: '56.3041'
+  long: "-158.5004"
+  nearby_rate_centers:
+  - name: CHIGNILGON
+    distance_km: 1.66
+  - name: CHIGNIK
+    distance_km: 5.96
+  - name: CHIGNIK LK
+    distance_km: 17.03
+- country: US
+  region: AK
+  name: Chignik Lake
+  lat: '56.2631'
+  long: "-158.8049"
+  nearby_rate_centers:
+  - name: CHIGNIK LK
+    distance_km: 2.71
+  - name: CHIGNILGON
+    distance_km: 18.33
+  - name: CHIGNIK
+    distance_km: 25.2
+- country: US
+  region: AK
+  name: Chiniak
+  lat: '57.5775'
+  long: "-152.2743"
+  nearby_rate_centers:
+  - name: KODIAK
+    distance_km: 25.53
+  - name: OUZINKIE
+    distance_km: 40.86
+  - name: PORT LIONS
+    distance_km: 47.72
+- country: US
+  region: AK
+  name: Chisana
+  lat: '62.0946'
+  long: "-142.0340"
+  nearby_rate_centers:
+  - name: CHISANA
+    distance_km: 2.06
+  - name: BORDERCITY
+    distance_km: 79.49
+  - name: MCCARTHY
+    distance_km: 86.51
+- country: US
+  region: AK
+  name: Chistochina
+  lat: '62.5921'
+  long: "-144.8136"
+  nearby_rate_centers:
+  - name: GLENNALLEN
+    distance_km: 63.39
+  - name: MENTASTA
+    distance_km: 65.15
+  - name: CHITINA
+    distance_km: 121.01
+- country: US
+  region: AK
+  name: Chitina
+  lat: '61.5276'
+  long: "-144.2991"
+  nearby_rate_centers:
+  - name: CHITINA
+    distance_km: 7.23
+  - name: MCCARTHY
+    distance_km: 74.29
+  - name: GLENNALLEN
+    distance_km: 89.75
+- country: US
+  region: AK
+  name: Chuathbaluk
+  lat: '61.5746'
+  long: "-159.2489"
+  nearby_rate_centers:
+  - name: CHUATHBALK
+    distance_km: 0.49
+  - name: ANIAK
+    distance_km: 13.24
+  - name: KALSKAG
+    distance_km: 56.97
+- country: US
+  region: AK
+  name: Circle
+  lat: '65.7936'
+  long: "-144.1813"
+  nearby_rate_centers:
+  - name: CIRCLE
+    distance_km: 6.68
+  - name: CENTRAL
+    distance_km: 38.08
+  - name: BIRCHCREEK
+    distance_km: 90.31
+- country: US
+  region: AK
+  name: Clam Gulch
+  lat: '60.2000'
+  long: "-151.3939"
+  nearby_rate_centers:
+  - name: NINILCHIK
+    distance_km: 21.97
+  - name: KENAI
+    distance_km: 40.42
+  - name: SOLDOTNA
+    distance_km: 40.94
+- country: US
+  region: AK
+  name: Clark's Point
+  lat: '58.8329'
+  long: "-158.5276"
+  nearby_rate_centers:
+  - name: EKUK
+    distance_km: 1.97
+  - name: DILLINGHAM
+    distance_km: 18.77
+  - name: MANOKOTAK
+    distance_km: 34.55
+- country: US
+  region: AK
+  name: Coffman Cove
+  lat: '56.0057'
+  long: "-132.8395"
+  nearby_rate_centers:
+  - name: COFFMAN CV
+    distance_km: 1.68
+  - name: WHALE PASS
+    distance_km: 19.28
+  - name: NAUKATIBAY
+    distance_km: 26.77
+- country: US
+  region: AK
+  name: Cohoe
+  lat: '60.2681'
+  long: "-151.2843"
+  nearby_rate_centers:
+  - name: SOLDOTNA
+    distance_km: 31.58
+  - name: NINILCHIK
+    distance_km: 31.65
+  - name: KENAI
+    distance_km: 31.99
+- country: US
+  region: AK
+  name: Cold Bay
+  lat: '55.2122'
+  long: "-162.7475"
+  nearby_rate_centers:
+  - name: COLD BAY
+    distance_km: 1.99
+  - name: KING COVE
+    distance_km: 32.44
+  - name: FALSE PASS
+    distance_km: 57.83
+- country: US
+  region: AK
+  name: Coldfoot
+  lat: '67.2475'
+  long: "-150.1079"
+  nearby_rate_centers:
+  - name: COLDFOOT
+    distance_km: 3.74
+  - name: JIMRIVCAMP
+    distance_km: 53.24
+  - name: BETTLES
+    distance_km: 71.75
+- country: US
+  region: AK
+  name: College
+  lat: '64.8694'
+  long: "-147.8216"
+  nearby_rate_centers:
+  - name: FAIRBANKS
+    distance_km: 6.6
+  - name: FTWAINWRIT
+    distance_km: 10.79
+  - name: NORTH POLE
+    distance_km: 25.74
+- country: US
+  region: AK
+  name: Cooper Landing
+  lat: '60.4945'
+  long: "-149.8410"
+  nearby_rate_centers:
+  - name: COOPER LDG
+    distance_km: 1.07
+  - name: MOOSE PASS
+    distance_km: 26.4
+  - name: SEWARD
+    distance_km: 48.33
+- country: US
+  region: AK
+  name: Copper Center
+  lat: '61.9845'
+  long: "-145.3544"
+  nearby_rate_centers:
+  - name: GLENNALLEN
+    distance_km: 15.59
+  - name: CHITINA
+    distance_km: 70.93
+  - name: VALDEZ
+    distance_km: 108.17
+- country: US
+  region: AK
+  name: Cordova
+  lat: '60.5347'
+  long: "-145.6087"
+  nearby_rate_centers:
+  - name: CORDOVA
+    distance_km: 8.1
+  - name: TATITLEK
+    distance_km: 68.97
+  - name: VALDEZ
+    distance_km: 78.42
+- country: US
+  region: AK
+  name: Covenant Life
+  lat: '59.3998'
+  long: "-136.0946"
+  nearby_rate_centers:
+  - name: KLUKWAN
+    distance_km: 11.87
+  - name: HAINES
+    distance_km: 43.19
+  - name: SKAGWAY
+    distance_km: 44.93
+- country: US
+  region: AK
+  name: Craig
+  lat: '55.4918'
+  long: "-133.1165"
+  nearby_rate_centers:
+  - name: CRAIG
+    distance_km: 2.3
+  - name: KLAWOCK
+    distance_km: 7.46
+  - name: HOLLIS
+    distance_km: 30.2
+- country: US
+  region: AK
+  name: Crooked Creek
+  lat: '61.8439'
+  long: "-158.1082"
+  nearby_rate_centers:
+  - name: CROOKEDCRK
+    distance_km: 3.28
+  - name: RED DEVIL
+    distance_km: 41.31
+  - name: SLEETMUTE
+    distance_km: 51.81
+- country: US
+  region: AK
+  name: Crown Point
+  lat: '60.4267'
+  long: "-149.3530"
+  nearby_rate_centers:
+  - name: MOOSE PASS
+    distance_km: 6.3
+  - name: COOPER LDG
+    distance_km: 26.75
+  - name: SEWARD
+    distance_km: 35.68
+- country: US
+  region: AK
+  name: Deering
+  lat: '66.0722'
+  long: "-162.7435"
+  nearby_rate_centers:
+  - name: DEERING
+    distance_km: 1.65
+  - name: BUCKLAND
+    distance_km: 74.12
+  - name: KOTZEBUE
+    distance_km: 92.17
+- country: US
+  region: AK
+  name: Delta Junction
+  lat: '64.0603'
+  long: "-145.7058"
+  nearby_rate_centers:
+  - name: DELTA JCT
+    distance_km: 2.39
+  - name: FORTGREELY
+    distance_km: 9.23
+  - name: HEALY LAKE
+    distance_km: 48.43
+- country: US
+  region: AK
+  name: Deltana
+  lat: '63.8723'
+  long: "-145.2158"
+  nearby_rate_centers:
+  - name: FORTGREELY
+    distance_km: 26.12
+  - name: HEALY LAKE
+    distance_km: 28.24
+  - name: DELTA JCT
+    distance_km: 30.53
+- country: US
+  region: AK
+  name: Denali Park
+  lat: '63.5909'
+  long: "-148.7107"
+  nearby_rate_centers:
+  - name: CANTWELL
+    distance_km: 22.35
+  - name: HEALY
+    distance_km: 31.28
+  - name: CLEAR AFS
+    distance_km: 81.29
+- country: US
+  region: AK
+  name: Diamond Ridge
+  lat: '59.7024'
+  long: "-151.5546"
+  nearby_rate_centers:
+  - name: HOMER
+    distance_km: 6.15
+  - name: HALIBUT CV
+    distance_km: 21.06
+  - name: SELDOVIA
+    distance_km: 30.82
+- country: US
+  region: AK
+  name: Dillingham
+  lat: '59.0550'
+  long: "-158.5378"
+  nearby_rate_centers:
+  - name: DILLINGHAM
+    distance_km: 5.93
+  - name: EKUK
+    distance_km: 23.05
+  - name: MANOKOTAK
+    distance_km: 30.71
+- country: US
+  region: AK
+  name: Diomede
+  lat: '65.7536'
+  long: "-168.9219"
+  nearby_rate_centers:
+  - name: LTLDIOMEDE
+    distance_km: 0.91
+  - name: WALES
+    distance_km: 41.3
+  - name: TINCITYAFS
+    distance_km: 48.74
+- country: US
+  region: AK
+  name: Dot Lake
+  lat: '63.5749'
+  long: "-144.1815"
+  nearby_rate_centers:
+  - name: DOT LAKE
+    distance_km: 10.92
+  - name: DRY CREEK
+    distance_km: 24.38
+  - name: HEALY LAKE
+    distance_km: 54.43
+- country: US
+  region: AK
+  name: Dot Lake Village
+  lat: '63.6626'
+  long: "-144.0162"
+  nearby_rate_centers:
+  - name: DOT LAKE
+    distance_km: 2.92
+  - name: DRY CREEK
+    distance_km: 28.79
+  - name: HEALY LAKE
+    distance_km: 51.2
+- country: US
+  region: AK
+  name: Dry Creek
+  lat: '63.6255'
+  long: "-144.6364"
+  nearby_rate_centers:
+  - name: DRY CREEK
+    distance_km: 7.89
+  - name: DOT LAKE
+    distance_km: 30.99
+  - name: HEALY LAKE
+    distance_km: 42.15
+- country: US
+  region: AK
+  name: Eagle
+  lat: '64.7813'
+  long: "-141.1979"
+  nearby_rate_centers:
+  - name: EAGLE
+    distance_km: 0.41
+  - name: CIRCLE
+    distance_km: 176.71
+  - name: TOK
+    distance_km: 182.29
+- country: US
+  region: AK
+  name: Eagle Village
+  lat: '64.7434'
+  long: "-141.1138"
+  nearby_rate_centers:
+  - name: EAGLE
+    distance_km: 6.13
+  - name: TOK
+    distance_km: 180.65
+  - name: CIRCLE
+    distance_km: 182.5
+- country: US
+  region: AK
+  name: Eareckson Station
+  lat: '52.7213'
+  long: '174.1110'
+  nearby_rate_centers:
+  - name: EARECKSON
+    distance_km: 1.02
+  - name: ADKUSNVLST
+    distance_km: 635.5
+  - name: ATKA
+    distance_km: 793.68
+- country: US
+  region: AK
+  name: Edna Bay
+  lat: '55.9640'
+  long: "-133.6662"
+  nearby_rate_centers:
+  - name: EDNA BAY
+    distance_km: 1.11
+  - name: NAUKATIBAY
+    distance_km: 30.82
+  - name: WHALE PASS
+    distance_km: 38.46
+- country: US
+  region: AK
+  name: Eek
+  lat: '60.2164'
+  long: "-162.0331"
+  nearby_rate_centers:
+  - name: EEK
+    distance_km: 0.99
+  - name: TUNTUTULIK
+    distance_km: 37.43
+  - name: QUINHAGAK
+    distance_km: 51.97
+- country: US
+  region: AK
+  name: Egegik
+  lat: '58.2181'
+  long: "-157.4036"
+  nearby_rate_centers:
+  - name: EGEGIK
+    distance_km: 2.29
+  - name: KINGSALMON
+    distance_km: 67.82
+  - name: KNGSLMNAFS
+    distance_km: 67.82
+  - name: PILOTPOINT
+    distance_km: 73.17
+- country: US
+  region: AK
+  name: Eielson AFB
+  lat: '64.6741'
+  long: "-147.0605"
+  nearby_rate_centers:
+  - name: EIELSONAFB
+    distance_km: 1.15
+  - name: NORTH POLE
+    distance_km: 16.37
+  - name: FTWAINWRIT
+    distance_km: 32.03
+- country: US
+  region: AK
+  name: Ekwok
+  lat: '59.3462'
+  long: "-157.4861"
+  nearby_rate_centers:
+  - name: EKWOK
+    distance_km: 1.16
+  - name: NEWSTUYHOK
+    distance_km: 15.62
+  - name: KOLIGANEK
+    distance_km: 44.03
+- country: US
+  region: AK
+  name: Elfin Cove
+  lat: '58.1286'
+  long: "-136.1951"
+  nearby_rate_centers:
+  - name: ELFIN COVE
+    distance_km: 11.26
+  - name: PELICAN
+    distance_km: 19.0
+  - name: GUSTAVUS
+    distance_km: 43.45
+- country: US
+  region: AK
+  name: Elim
+  lat: '64.6186'
+  long: "-162.2763"
+  nearby_rate_centers:
+  - name: ELIM
+    distance_km: 1.09
+  - name: GOLOVIN
+    distance_km: 37.02
+  - name: WHITE MT
+    distance_km: 54.58
+- country: US
+  region: AK
+  name: Emmonak
+  lat: '62.7762'
+  long: "-164.5157"
+  nearby_rate_centers:
+  - name: EMMONAK
+    distance_km: 0.52
+  - name: ALAKANUK
+    distance_km: 11.26
+  - name: SHELDON PT
+    distance_km: 31.82
+- country: US
+  region: AK
+  name: Ester
+  lat: '64.8646'
+  long: "-148.0916"
+  nearby_rate_centers:
+  - name: FAIRBANKS
+    distance_km: 18.62
+  - name: FTWAINWRIT
+    distance_km: 23.36
+  - name: NORTH POLE
+    distance_km: 37.17
+- country: US
+  region: AK
+  name: Eureka Roadhouse
+  lat: '61.9648'
+  long: "-147.1523"
+  nearby_rate_centers:
+  - name: GLENNALLEN
+    distance_km: 88.85
+  - name: VALDEZ
+    distance_km: 101.11
+  - name: PALMER
+    distance_km: 110.24
+- country: US
+  region: AK
+  name: Evansville
+  lat: '66.9206'
+  long: "-151.4201"
+  nearby_rate_centers:
+  - name: BETTLES
+    distance_km: 4.55
+  - name: JIMRIVCAMP
+    distance_km: 34.52
+  - name: COLDFOOT
+    distance_km: 65.28
+- country: US
+  region: AK
+  name: Excursion Inlet
+  lat: '58.4354'
+  long: "-135.3733"
+  nearby_rate_centers:
+  - name: GUSTAVUS
+    distance_km: 19.31
+  - name: HOONAH
+    distance_km: 36.08
+  - name: DOUGLAS
+    distance_km: 59.14
+  - name: JUNEAU
+    distance_km: 59.14
+- country: US
+  region: AK
+  name: Fairbanks
+  lat: '64.8353'
+  long: "-147.6533"
+  nearby_rate_centers:
+  - name: FAIRBANKS
+    distance_km: 2.35
+  - name: FTWAINWRIT
+    distance_km: 2.95
+  - name: NORTH POLE
+    distance_km: 16.97
+- country: US
+  region: AK
+  name: False Pass
+  lat: '54.8416'
+  long: "-163.3480"
+  nearby_rate_centers:
+  - name: FALSE PASS
+    distance_km: 4.79
+  - name: COLD BAY
+    distance_km: 58.02
+  - name: KING COVE
+    distance_km: 71.05
+- country: US
+  region: AK
+  name: Farm Loop
+  lat: '61.6343'
+  long: "-149.1614"
+  nearby_rate_centers:
+  - name: PALMER
+    distance_km: 4.21
+  - name: WASILLA
+    distance_km: 14.99
+  - name: CHUGIAK
+    distance_km: 29.97
+- country: US
+  region: AK
+  name: Farmers Loop
+  lat: '64.9061'
+  long: "-147.6957"
+  nearby_rate_centers:
+  - name: FAIRBANKS
+    distance_km: 7.54
+  - name: FTWAINWRIT
+    distance_km: 7.9
+  - name: CLEARYSMMT
+    distance_km: 20.4
+- country: US
+  region: AK
+  name: Ferry
+  lat: '64.0496'
+  long: "-148.9205"
+  nearby_rate_centers:
+  - name: HEALY
+    distance_km: 22.85
+  - name: CLEAR AFS
+    distance_km: 29.58
+  - name: NENANA
+    distance_km: 53.16
+- country: US
+  region: AK
+  name: Fishhook
+  lat: '61.7199'
+  long: "-149.2621"
+  nearby_rate_centers:
+  - name: PALMER
+    distance_km: 15.03
+  - name: WASILLA
+    distance_km: 17.41
+  - name: CHUGIAK
+    distance_km: 36.42
+- country: US
+  region: AK
+  name: Flat
+  lat: '62.4415'
+  long: "-158.0405"
+  nearby_rate_centers:
+  - name: CROOKEDCRK
+    distance_km: 63.27
+  - name: SHAGELUK
+    distance_km: 79.63
+  - name: RED DEVIL
+    distance_km: 81.35
+- country: US
+  region: AK
+  name: Fort Greely
+  lat: '63.9678'
+  long: "-145.7149"
+  nearby_rate_centers:
+  - name: FORTGREELY
+    distance_km: 1.49
+  - name: DELTA JCT
+    distance_km: 7.92
+  - name: HEALY LAKE
+    distance_km: 48.69
+- country: US
+  region: AK
+  name: Fort Yukon
+  lat: '66.5806'
+  long: "-145.2415"
+  nearby_rate_centers:
+  - name: FORT YUKON
+    distance_km: 1.98
+  - name: BIRCHCREEK
+    distance_km: 42.58
+  - name: CHALKYITSK
+    distance_km: 67.8
+- country: US
+  region: AK
+  name: Four Mile Road
+  lat: '64.6045'
+  long: "-149.1223"
+  nearby_rate_centers:
+  - name: NENANA
+    distance_km: 9.31
+  - name: CLEAR AFS
+    distance_km: 34.37
+  - name: YKVNTRSCMP
+    distance_km: 57.32
+- country: US
+  region: AK
+  name: Fox
+  lat: '64.9749'
+  long: "-147.6090"
+  nearby_rate_centers:
+  - name: CLEARYSMMT
+    distance_km: 11.94
+  - name: FTWAINWRIT
+    distance_km: 14.1
+  - name: FAIRBANKS
+    distance_km: 15.81
+- country: US
+  region: AK
+  name: Fox River
+  lat: '59.8722'
+  long: "-150.9984"
+  nearby_rate_centers:
+  - name: HALIBUT CV
+    distance_km: 33.1
+  - name: HOMER
+    distance_km: 38.88
+  - name: NINILCHIK
+    distance_km: 41.96
+- country: US
+  region: AK
+  name: Fritz Creek
+  lat: '59.7470'
+  long: "-151.2885"
+  nearby_rate_centers:
+  - name: HALIBUT CV
+    distance_km: 16.55
+  - name: HOMER
+    distance_km: 17.51
+  - name: NINILCHIK
+    distance_km: 39.87
+- country: US
+  region: AK
+  name: Funny River
+  lat: '60.4876'
+  long: "-150.7812"
+  nearby_rate_centers:
+  - name: SOLDOTNA
+    distance_km: 16.71
+  - name: KENAI
+    distance_km: 25.77
+  - name: NORTHKENAI
+    distance_km: 40.65
+- country: US
+  region: AK
+  name: Gakona
+  lat: '62.3609'
+  long: "-145.2657"
+  nearby_rate_centers:
+  - name: GLENNALLEN
+    distance_km: 29.73
+  - name: MENTASTA
+    distance_km: 99.4
+  - name: CHITINA
+    distance_km: 103.28
+- country: US
+  region: AK
+  name: Galena
+  lat: '64.7381'
+  long: "-156.8635"
+  nearby_rate_centers:
+  - name: GALENA
+    distance_km: 4.35
+  - name: KOYUKUK
+    distance_km: 43.26
+  - name: NULATO
+    distance_km: 59.16
+- country: US
+  region: AK
+  name: Gambell
+  lat: '63.7538'
+  long: "-171.6881"
+  nearby_rate_centers:
+  - name: GAMBELL
+    distance_km: 3.8
+  - name: SAVOONGA
+    distance_km: 60.03
+  - name: LTLDIOMEDE
+    distance_km: 258.66
+- country: US
+  region: AK
+  name: Game Creek
+  lat: '58.0553'
+  long: "-135.5080"
+  nearby_rate_centers:
+  - name: HOONAH
+    distance_km: 7.71
+  - name: TENAKEESPG
+    distance_km: 35.0
+  - name: GUSTAVUS
+    distance_km: 42.35
+- country: US
+  region: AK
+  name: Gateway
+  lat: '61.5668'
+  long: "-149.2417"
+  nearby_rate_centers:
+  - name: PALMER
+    distance_km: 8.35
+  - name: WASILLA
+    distance_km: 9.82
+  - name: CHUGIAK
+    distance_km: 21.36
+- country: US
+  region: AK
+  name: Glacier View
+  lat: '61.8511'
+  long: "-147.7764"
+  nearby_rate_centers:
+  - name: PALMER
+    distance_km: 75.2
+  - name: WASILLA
+    distance_km: 91.76
+  - name: CHUGIAK
+    distance_km: 101.96
+- country: US
+  region: AK
+  name: Glennallen
+  lat: '62.1278'
+  long: "-145.7693"
+  nearby_rate_centers:
+  - name: GLENNALLEN
+    distance_km: 15.28
+  - name: CHITINA
+    distance_km: 97.49
+  - name: VALDEZ
+    distance_km: 114.44
+- country: US
+  region: AK
+  name: Goldstream
+  lat: '64.9339'
+  long: "-148.0083"
+  nearby_rate_centers:
+  - name: FAIRBANKS
+    distance_km: 17.92
+  - name: FTWAINWRIT
+    distance_km: 21.55
+  - name: CLEARYSMMT
+    distance_km: 30.15
+- country: US
+  region: AK
+  name: Golovin
+  lat: '64.5640'
+  long: "-162.9989"
+  nearby_rate_centers:
+  - name: GOLOVIN
+    distance_km: 2.48
+  - name: WHITE MT
+    distance_km: 23.84
+  - name: ELIM
+    distance_km: 36.09
+- country: US
+  region: AK
+  name: Goodnews Bay
+  lat: '59.1271'
+  long: "-161.5753"
+  nearby_rate_centers:
+  - name: GOODNEWSBY
+    distance_km: 0.56
+  - name: PLATINUM
+    distance_km: 18.6
+  - name: CPNEWENAFS
+    distance_km: 59.51
+- country: US
+  region: AK
+  name: Grayling
+  lat: '62.8998'
+  long: "-160.1078"
+  nearby_rate_centers:
+  - name: GRAYLING
+    distance_km: 2.09
+  - name: ANVIK
+    distance_km: 27.55
+  - name: SHAGELUK
+    distance_km: 40.04
+- country: US
+  region: AK
+  name: Gulkana
+  lat: '62.2155'
+  long: "-145.4449"
+  nearby_rate_centers:
+  - name: GLENNALLEN
+    distance_km: 11.59
+  - name: CHITINA
+    distance_km: 93.89
+  - name: MENTASTA
+    distance_km: 117.17
+- country: US
+  region: AK
+  name: Gustavus
+  lat: '58.4275'
+  long: "-135.7492"
+  nearby_rate_centers:
+  - name: GUSTAVUS
+    distance_km: 2.7
+  - name: HOONAH
+    distance_km: 39.58
+  - name: ELFIN COVE
+    distance_km: 43.0
+- country: US
+  region: AK
+  name: Haines
+  lat: '59.2416'
+  long: "-135.4549"
+  nearby_rate_centers:
+  - name: HAINES
+    distance_km: 3.49
+  - name: SKAGWAY
+    distance_km: 25.05
+  - name: KLUKWAN
+    distance_km: 30.34
+- country: US
+  region: AK
+  name: Halibut Cove
+  lat: '59.5744'
+  long: "-151.2296"
+  nearby_rate_centers:
+  - name: HALIBUT CV
+    distance_km: 2.92
+  - name: HOMER
+    distance_km: 18.88
+  - name: SELDOVIA
+    distance_km: 31.05
+- country: US
+  region: AK
+  name: Happy Valley
+  lat: '59.9137'
+  long: "-151.6072"
+  nearby_rate_centers:
+  - name: NINILCHIK
+    distance_km: 15.8
+  - name: HOMER
+    distance_km: 29.81
+  - name: HALIBUT CV
+    distance_km: 40.5
+- country: US
+  region: AK
+  name: Harding-Birch Lakes
+  lat: '64.3711'
+  long: "-146.5999"
+  nearby_rate_centers:
+  - name: EIELSONAFB
+    distance_km: 40.5
+  - name: NORTH POLE
+    distance_km: 55.62
+  - name: DELTA JCT
+    distance_km: 56.63
+- country: US
+  region: AK
+  name: Healy
+  lat: '63.9454'
+  long: "-149.0151"
+  nearby_rate_centers:
+  - name: HEALY
+    distance_km: 11.22
+  - name: CLEAR AFS
+    distance_km: 39.52
+  - name: CANTWELL
+    distance_km: 60.54
+- country: US
+  region: AK
+  name: Healy Lake
+  lat: '64.0281'
+  long: "-144.6331"
+  nearby_rate_centers:
+  - name: HEALY LAKE
+    distance_km: 5.08
+  - name: DRY CREEK
+    distance_km: 37.18
+  - name: FORTGREELY
+    distance_km: 52.0
+- country: US
+  region: AK
+  name: Hobart Bay
+  lat: '57.4212'
+  long: "-133.3231"
+  nearby_rate_centers:
+  - name: KAKE
+    distance_km: 61.81
+  - name: PETERSBURG
+    distance_km: 71.6
+  - name: ANGOON
+    distance_km: 75.25
+- country: US
+  region: AK
+  name: Hollis
+  lat: '55.5113'
+  long: "-132.7023"
+  nearby_rate_centers:
+  - name: HOLLIS
+    distance_km: 4.93
+  - name: KASAAN
+    distance_km: 20.01
+  - name: THORNE BAY
+    distance_km: 23.02
+- country: US
+  region: AK
+  name: Holy Cross
+  lat: '62.1868'
+  long: "-159.8198"
+  nearby_rate_centers:
+  - name: HOLY CROSS
+    distance_km: 3.47
+  - name: SHAGELUK
+    distance_km: 54.88
+  - name: ANVIK
+    distance_km: 55.76
+- country: US
+  region: AK
+  name: Homer
+  lat: '59.6530'
+  long: "-151.5255"
+  nearby_rate_centers:
+  - name: HOMER
+    distance_km: 0.63
+  - name: HALIBUT CV
+    distance_km: 17.15
+  - name: SELDOVIA
+    distance_km: 26.19
+- country: US
+  region: AK
+  name: Hoonah
+  lat: '58.1118'
+  long: "-135.4248"
+  nearby_rate_centers:
+  - name: HOONAH
+    distance_km: 0.54
+  - name: GUSTAVUS
+    distance_km: 38.15
+  - name: TENAKEESPG
+    distance_km: 38.74
+- country: US
+  region: AK
+  name: Hooper Bay
+  lat: '61.5262'
+  long: "-166.1146"
+  nearby_rate_centers:
+  - name: HOOPER BAY
+    distance_km: 1.45
+  - name: CHEVAK
+    distance_km: 28.14
+  - name: SCAMMONBAY
+    distance_km: 45.71
+- country: US
+  region: AK
+  name: Hope
+  lat: '60.8924'
+  long: "-149.6352"
+  nearby_rate_centers:
+  - name: BIRD CREEK
+    distance_km: 12.99
+  - name: HOPE
+    distance_km: 22.22
+  - name: GIRDWOOD
+    distance_km: 26.14
+- country: US
+  region: AK
+  name: Houston
+  lat: '61.6159'
+  long: "-149.8003"
+  nearby_rate_centers:
+  - name: BIG LAKE
+    distance_km: 7.48
+  - name: WILLOW
+    distance_km: 19.24
+  - name: WASILLA
+    distance_km: 20.23
+- country: US
+  region: AK
+  name: Hughes
+  lat: '66.0452'
+  long: "-154.2376"
+  nearby_rate_centers:
+  - name: HUGHES
+    distance_km: 1.02
+  - name: INDINMTAFS
+    distance_km: 25.38
+  - name: ALLAKAKET
+    distance_km: 92.14
+- country: US
+  region: AK
+  name: Huslia
+  lat: '65.7001'
+  long: "-156.3386"
+  nearby_rate_centers:
+  - name: HUSLIA
+    distance_km: 2.44
+  - name: HUGHES
+    distance_km: 102.61
+  - name: GALENA
+    distance_km: 110.42
+- country: US
+  region: AK
+  name: Hydaburg
+  lat: '55.2061'
+  long: "-132.8208"
+  nearby_rate_centers:
+  - name: HYDABURG
+    distance_km: 0.65
+  - name: HOLLIS
+    distance_km: 33.28
+  - name: CRAIG
+    distance_km: 36.5
+- country: US
+  region: AK
+  name: Hyder
+  lat: '55.9816'
+  long: "-130.0383"
+  nearby_rate_centers:
+  - name: KETCHIKAN
+    distance_km: 124.25
+  - name: ANNETTE
+    distance_km: 139.05
+  - name: MYERSCHUCK
+    distance_km: 140.88
+- country: US
+  region: AK
+  name: Igiugig
+  lat: '59.3056'
+  long: "-155.8739"
+  nearby_rate_centers:
+  - name: IGIUGIG
+    distance_km: 2.71
+  - name: LEVELOCK
+    distance_km: 59.56
+  - name: KAKHONAK
+    distance_km: 65.58
+- country: US
+  region: AK
+  name: Iliamna
+  lat: '59.7957'
+  long: "-154.8698"
+  nearby_rate_centers:
+  - name: ILIAMNA
+    distance_km: 4.8
+  - name: NONDALTON
+    distance_km: 20.22
+  - name: KAKHONAK
+    distance_km: 39.78
+- country: US
+  region: AK
+  name: Ivanof Bay
+  lat: '55.9183'
+  long: "-159.4933"
+  nearby_rate_centers:
+  - name: PERRYVILLE
+    distance_km: 22.01
+  - name: CHIGNIK LK
+    distance_km: 58.9
+  - name: CHIGNILGON
+    distance_km: 74.52
+- country: US
+  region: AK
+  name: Juneau
+  lat: '58.4546'
+  long: "-134.1739"
+  nearby_rate_centers:
+  - name: DOUGLAS
+    distance_km: 21.49
+  - name: JUNEAU
+    distance_km: 21.49
+  - name: HOONAH
+    distance_km: 82.9
+  - name: GUSTAVUS
+    distance_km: 89.13
+- country: US
+  region: AK
+  name: Kachemak
+  lat: '59.6745'
+  long: "-151.4363"
+  nearby_rate_centers:
+  - name: HOMER
+    distance_km: 6.1
+  - name: HALIBUT CV
+    distance_km: 13.83
+  - name: SELDOVIA
+    distance_km: 30.58
+- country: US
+  region: AK
+  name: Kake
+  lat: '56.9729'
+  long: "-133.9148"
+  nearby_rate_centers:
+  - name: KAKE
+    distance_km: 0.97
+  - name: PETERSBURG
+    distance_km: 61.42
+  - name: ANGOON
+    distance_km: 70.9
+- country: US
+  region: AK
+  name: Kaktovik
+  lat: '70.1231'
+  long: "-143.6258"
+  nearby_rate_centers:
+  - name: KAKTOVIK
+    distance_km: 0.9
+  - name: DEADHORSE
+    distance_km: 182.78
+  - name: ARCTIC VLG
+    distance_km: 233.21
+- country: US
+  region: AK
+  name: Kalifornsky
+  lat: '60.4417'
+  long: "-151.1972"
+  nearby_rate_centers:
+  - name: SOLDOTNA
+    distance_km: 12.15
+  - name: KENAI
+    distance_km: 12.7
+  - name: NORTHKENAI
+    distance_km: 32.34
+- country: US
+  region: AK
+  name: Kaltag
+  lat: '64.3223'
+  long: "-158.7436"
+  nearby_rate_centers:
+  - name: KALTAG
+    distance_km: 1.55
+  - name: NULATO
+    distance_km: 54.84
+  - name: KOYUKUK
+    distance_km: 79.87
+- country: US
+  region: AK
+  name: Karluk
+  lat: '57.5845'
+  long: "-154.3255"
+  nearby_rate_centers:
+  - name: KARLUK
+    distance_km: 6.29
+  - name: LARSEN BAY
+    distance_km: 21.52
+  - name: AKHIOK
+    distance_km: 71.58
+- country: US
+  region: AK
+  name: Kasaan
+  lat: '55.5572'
+  long: "-132.4136"
+  nearby_rate_centers:
+  - name: KASAAN
+    distance_km: 2.35
+  - name: THORNE BAY
+    distance_km: 15.87
+  - name: HOLLIS
+    distance_km: 16.11
+- country: US
+  region: AK
+  name: Kasigluk
+  lat: '60.8785'
+  long: "-162.5272"
+  nearby_rate_centers:
+  - name: KASIGLUK
+    distance_km: 0.82
+  - name: NUNAPTCHUK
+    distance_km: 4.24
+  - name: ATMAUTLUAK
+    distance_km: 13.74
+- country: US
+  region: AK
+  name: Kasilof
+  lat: '60.3310'
+  long: "-151.2293"
+  nearby_rate_centers:
+  - name: SOLDOTNA
+    distance_km: 23.96
+  - name: KENAI
+    distance_km: 24.87
+  - name: NINILCHIK
+    distance_km: 38.98
+- country: US
+  region: AK
+  name: Kenai
+  lat: '60.5619'
+  long: "-151.1985"
+  nearby_rate_centers:
+  - name: KENAI
+    distance_km: 2.0
+  - name: SOLDOTNA
+    distance_km: 7.63
+  - name: NORTHKENAI
+    distance_km: 19.71
+- country: US
+  region: AK
+  name: Kenny Lake
+  lat: '61.6644'
+  long: "-144.8662"
+  nearby_rate_centers:
+  - name: CHITINA
+    distance_km: 28.03
+  - name: GLENNALLEN
+    distance_km: 59.21
+  - name: VALDEZ
+    distance_km: 98.74
+- country: US
+  region: AK
+  name: Ketchikan
+  lat: '55.3556'
+  long: "-131.6698"
+  nearby_rate_centers:
+  - name: KETCHIKAN
+    distance_km: 0.76
+  - name: ANNETTE
+    distance_km: 30.3
+  - name: KASAAN
+    distance_km: 49.83
+- country: US
+  region: AK
+  name: Kiana
+  lat: '66.9727'
+  long: "-160.4343"
+  nearby_rate_centers:
+  - name: KIANA
+    distance_km: 0.75
+  - name: NOORVIK
+    distance_km: 29.8
+  - name: SELAWIK
+    distance_km: 45.41
+- country: US
+  region: AK
+  name: King Cove
+  lat: '55.0858'
+  long: "-162.2978"
+  nearby_rate_centers:
+  - name: KING COVE
+    distance_km: 2.29
+  - name: COLD BAY
+    distance_km: 30.48
+  - name: FALSE PASS
+    distance_km: 75.62
+- country: US
+  region: AK
+  name: King Salmon
+  lat: '58.7530'
+  long: "-156.5061"
+  nearby_rate_centers:
+  - name: KINGSALMON
+    distance_km: 11.48
+  - name: KNGSLMNAFS
+    distance_km: 11.48
+  - name: LEVELOCK
+    distance_km: 45.12
+  - name: IGIUGIG
+    distance_km: 73.06
+- country: US
+  region: AK
+  name: Kipnuk
+  lat: '59.9373'
+  long: "-164.0616"
+  nearby_rate_centers:
+  - name: KIPNUK
+    distance_km: 1.96
+  - name: CHEFORNAK
+    distance_km: 27.62
+  - name: KWIGILLNGK
+    distance_km: 52.56
+- country: US
+  region: AK
+  name: Kivalina
+  lat: '67.7330'
+  long: "-164.5212"
+  nearby_rate_centers:
+  - name: KIVALINA
+    distance_km: 0.48
+  - name: NOATAK
+    distance_km: 68.37
+  - name: REDDOGMINE
+    distance_km: 74.57
+- country: US
+  region: AK
+  name: Klawock
+  lat: '55.5556'
+  long: "-133.0868"
+  nearby_rate_centers:
+  - name: KLAWOCK
+    distance_km: 0.12
+  - name: CRAIG
+    distance_km: 9.33
+  - name: HOLLIS
+    distance_km: 29.32
+- country: US
+  region: AK
+  name: Klukwan
+  lat: '59.3987'
+  long: "-135.8886"
+  nearby_rate_centers:
+  - name: KLUKWAN
+    distance_km: 0.59
+  - name: HAINES
+    distance_km: 33.32
+  - name: SKAGWAY
+    distance_km: 33.44
+- country: US
+  region: AK
+  name: Knik River
+  lat: '61.4606'
+  long: "-148.9155"
+  nearby_rate_centers:
+  - name: PALMER
+    distance_km: 19.14
+  - name: CHUGIAK
+    distance_km: 29.8
+  - name: WASILLA
+    distance_km: 30.22
+- country: US
+  region: AK
+  name: Knik-Fairview
+  lat: '61.5082'
+  long: "-149.6252"
+  nearby_rate_centers:
+  - name: BIG LAKE
+    distance_km: 13.34
+  - name: WASILLA
+    distance_km: 13.55
+  - name: CHUGIAK
+    distance_km: 14.14
+- country: US
+  region: AK
+  name: Kobuk
+  lat: '66.9310'
+  long: "-156.8939"
+  nearby_rate_centers:
+  - name: KOBUK
+    distance_km: 2.17
+  - name: SHUNGNAK
+    distance_km: 11.25
+  - name: AMBLER
+    distance_km: 45.05
+- country: US
+  region: AK
+  name: Kodiak
+  lat: '57.7934'
+  long: "-152.4059"
+  nearby_rate_centers:
+  - name: KODIAK
+    distance_km: 1.9
+  - name: OUZINKIE
+    distance_km: 15.62
+  - name: PORT LIONS
+    distance_km: 28.62
+- country: US
+  region: AK
+  name: Kodiak Station
+  lat: '57.7450'
+  long: "-152.5442"
+  nearby_rate_centers:
+  - name: KODIAK
+    distance_km: 8.07
+  - name: OUZINKIE
+    distance_km: 20.11
+  - name: PORT LIONS
+    distance_km: 23.49
+- country: US
+  region: AK
+  name: Kokhanok
+  lat: '59.4158'
+  long: "-154.7457"
+  nearby_rate_centers:
+  - name: KAKHONAK
+    distance_km: 3.06
+  - name: ILIAMNA
+    distance_km: 39.13
+  - name: PEDRO BAY
+    distance_km: 54.21
+- country: US
+  region: AK
+  name: Koliganek
+  lat: '59.6971'
+  long: "-157.2259"
+  nearby_rate_centers:
+  - name: KOLIGANEK
+    distance_km: 4.68
+  - name: NEWSTUYHOK
+    distance_km: 27.45
+  - name: EKWOK
+    distance_km: 40.59
+- country: US
+  region: AK
+  name: Kongiganak
+  lat: '59.9858'
+  long: "-162.8544"
+  nearby_rate_centers:
+  - name: KONGIGANAK
+    distance_km: 2.99
+  - name: KWIGILLNGK
+    distance_km: 20.35
+  - name: TUNTUTULIK
+    distance_km: 41.7
+- country: US
+  region: AK
+  name: Kotlik
+  lat: '63.0305'
+  long: "-163.5530"
+  nearby_rate_centers:
+  - name: KOTLIK
+    distance_km: 0.73
+  - name: EMMONAK
+    distance_km: 56.65
+  - name: ALAKANUK
+    distance_km: 66.67
+- country: US
+  region: AK
+  name: Kotzebue
+  lat: '66.8766'
+  long: "-162.5231"
+  nearby_rate_centers:
+  - name: KOTZEBUE
+    distance_km: 4.03
+  - name: NOORVIK
+    distance_km: 65.55
+  - name: NOATAK
+    distance_km: 79.46
+- country: US
+  region: AK
+  name: Koyuk
+  lat: '64.9411'
+  long: "-161.1454"
+  nearby_rate_centers:
+  - name: KOYUK
+    distance_km: 1.0
+  - name: ELIM
+    distance_km: 63.45
+  - name: SHAKTOOLIK
+    distance_km: 64.65
+- country: US
+  region: AK
+  name: Koyukuk
+  lat: '64.9008'
+  long: "-157.6946"
+  nearby_rate_centers:
+  - name: KOYUKUK
+    distance_km: 1.67
+  - name: NULATO
+    distance_km: 27.08
+  - name: GALENA
+    distance_km: 39.24
+- country: US
+  region: AK
+  name: Kupreanof
+  lat: '56.8090'
+  long: "-132.9889"
+  nearby_rate_centers:
+  - name: PETERSBURG
+    distance_km: 2.47
+  - name: WRANGELL
+    distance_km: 52.43
+  - name: KAKE
+    distance_km: 60.05
+- country: US
+  region: AK
+  name: Kwethluk
+  lat: '60.7978'
+  long: "-161.4147"
+  nearby_rate_centers:
+  - name: KWETHLUK
+    distance_km: 1.91
+  - name: AKIACHAK
+    distance_km: 13.08
+  - name: AKIAK
+    distance_km: 16.86
+- country: US
+  region: AK
+  name: Kwigillingok
+  lat: '59.8767'
+  long: "-163.1715"
+  nearby_rate_centers:
+  - name: KWIGILLNGK
+    distance_km: 2.63
+  - name: KONGIGANAK
+    distance_km: 18.66
+  - name: KIPNUK
+    distance_km: 48.39
+- country: US
+  region: AK
+  name: Lake Louise
+  lat: '62.3423'
+  long: "-146.5875"
+  nearby_rate_centers:
+  - name: GLENNALLEN
+    distance_km: 62.95
+  - name: VALDEZ
+    distance_km: 134.49
+  - name: CHITINA
+    distance_km: 145.2
+- country: US
+  region: AK
+  name: Lake Minchumina
+  lat: '63.7981'
+  long: "-152.3446"
+  nearby_rate_centers:
+  - name: MINCHUMINA
+    distance_km: 9.66
+  - name: KANTISHNA
+    distance_km: 94.55
+  - name: NIKOLAI
+    distance_km: 133.66
+- country: US
+  region: AK
+  name: Larsen Bay
+  lat: '57.5404'
+  long: "-154.0056"
+  nearby_rate_centers:
+  - name: LARSEN BAY
+    distance_km: 1.85
+  - name: KARLUK
+    distance_km: 25.32
+  - name: OLD HARBOR
+    distance_km: 56.49
+- country: US
+  region: AK
+  name: Lazy Mountain
+  lat: '61.6517'
+  long: "-148.9020"
+  nearby_rate_centers:
+  - name: PALMER
+    distance_km: 11.97
+  - name: WASILLA
+    distance_km: 28.61
+  - name: CHUGIAK
+    distance_km: 40.38
+- country: US
+  region: AK
+  name: Levelock
+  lat: '59.0683'
+  long: "-156.9009"
+  nearby_rate_centers:
+  - name: LEVELOCK
+    distance_km: 6.07
+  - name: KINGSALMON
+    distance_km: 44.48
+  - name: KNGSLMNAFS
+    distance_km: 44.48
+  - name: EKWOK
+    distance_km: 45.53
+- country: US
+  region: AK
+  name: Lime Village
+  lat: '61.3270'
+  long: "-155.3181"
+  nearby_rate_centers:
+  - name: LIME VLG
+    distance_km: 6.93
+  - name: SPAREHNAFS
+    distance_km: 28.4
+  - name: STONYRIVER
+    distance_km: 84.5
+- country: US
+  region: AK
+  name: Livengood
+  lat: '65.4817'
+  long: "-148.4171"
+  nearby_rate_centers:
+  - name: LIVENGOOD
+    distance_km: 11.66
+  - name: MINTO
+    distance_km: 55.01
+  - name: CLEARYSMMT
+    distance_km: 66.35
+- country: US
+  region: AK
+  name: Loring
+  lat: '55.6064'
+  long: "-131.6405"
+  nearby_rate_centers:
+  - name: KETCHIKAN
+    distance_km: 27.83
+  - name: MYERSCHUCK
+    distance_km: 41.21
+  - name: KASAAN
+    distance_km: 47.6
+- country: US
+  region: AK
+  name: Lowell Point
+  lat: '60.0629'
+  long: "-149.4898"
+  nearby_rate_centers:
+  - name: SEWARD
+    distance_km: 5.85
+  - name: MOOSE PASS
+    distance_km: 47.29
+  - name: COOPER LDG
+    distance_km: 51.32
+- country: US
+  region: AK
+  name: Lower Kalskag
+  lat: '61.5163'
+  long: "-160.3556"
+  nearby_rate_centers:
+  - name: KALSKAG
+    distance_km: 3.45
+  - name: ANIAK
+    distance_km: 45.81
+  - name: TULUKSAK
+    distance_km: 55.86
+- country: US
+  region: AK
+  name: Lutak
+  lat: '59.3997'
+  long: "-135.6314"
+  nearby_rate_centers:
+  - name: KLUKWAN
+    distance_km: 14.36
+  - name: SKAGWAY
+    distance_km: 19.3
+  - name: HAINES
+    distance_km: 23.71
+- country: US
+  region: AK
+  name: Manley Hot Springs
+  lat: '65.0187'
+  long: "-150.6453"
+  nearby_rate_centers:
+  - name: MANLYHTSPG
+    distance_km: 2.23
+  - name: YKVNTRSCMP
+    distance_km: 43.85
+  - name: RAMPART
+    distance_km: 59.18
+- country: US
+  region: AK
+  name: Manokotak
+  lat: '58.8930'
+  long: "-158.9109"
+  nearby_rate_centers:
+  - name: MANOKOTAK
+    distance_km: 12.92
+  - name: EKUK
+    distance_km: 21.56
+  - name: DILLINGHAM
+    distance_km: 24.73
+- country: US
+  region: AK
+  name: Marshall
+  lat: '61.8753'
+  long: "-162.0487"
+  nearby_rate_centers:
+  - name: MARSHALL
+    distance_km: 1.82
+  - name: RUSSINMSSN
+    distance_km: 39.85
+  - name: PILOT STA
+    distance_km: 44.14
+- country: US
+  region: AK
+  name: McCarthy
+  lat: '61.4539'
+  long: "-142.8648"
+  nearby_rate_centers:
+  - name: MCCARTHY
+    distance_km: 3.17
+  - name: CHISANA
+    distance_km: 81.79
+  - name: CHITINA
+    distance_km: 83.61
+- country: US
+  region: AK
+  name: McGrath
+  lat: '62.9424'
+  long: "-155.5630"
+  nearby_rate_centers:
+  - name: MCGRATH
+    distance_km: 3.1
+  - name: TATALINAFS
+    distance_km: 22.68
+  - name: TAKOTNA
+    distance_km: 25.85
+- country: US
+  region: AK
+  name: Meadow Lakes
+  lat: '61.6380'
+  long: "-149.6080"
+  nearby_rate_centers:
+  - name: WASILLA
+    distance_km: 11.47
+  - name: BIG LAKE
+    distance_km: 16.15
+  - name: WILLOW
+    distance_km: 25.36
+- country: US
+  region: AK
+  name: Mekoryuk
+  lat: '60.3704'
+  long: "-166.2670"
+  nearby_rate_centers:
+  - name: MEKORYUK
+    distance_km: 4.85
+  - name: TUNUNAK
+    distance_km: 60.52
+  - name: TOKSOOKBAY
+    distance_km: 66.27
+- country: US
+  region: AK
+  name: Mendeltna
+  lat: '62.1359'
+  long: "-146.5388"
+  nearby_rate_centers:
+  - name: GLENNALLEN
+    distance_km: 55.25
+  - name: VALDEZ
+    distance_km: 111.41
+  - name: CHITINA
+    distance_km: 130.08
+- country: US
+  region: AK
+  name: Mentasta Lake
+  lat: '62.9867'
+  long: "-143.5191"
+  nearby_rate_centers:
+  - name: MENTASTA
+    distance_km: 14.34
+  - name: TOK
+    distance_km: 47.58
+  - name: TETLIN
+    distance_km: 53.41
+- country: US
+  region: AK
+  name: Mertarvik
+  lat: '60.8110'
+  long: "-164.4989"
+  nearby_rate_centers:
+  - name: NEWTOK
+    distance_km: 16.53
+  - name: NIGHTMUTE
+    distance_km: 38.26
+  - name: TOKSOOKBAY
+    distance_km: 45.23
+- country: US
+  region: AK
+  name: Metlakatla
+  lat: '55.1182'
+  long: "-131.5689"
+  nearby_rate_centers:
+  - name: ANNETTE
+    distance_km: 3.53
+  - name: KETCHIKAN
+    distance_km: 27.52
+  - name: KASAAN
+    distance_km: 70.03
+- country: US
+  region: AK
+  name: Mill Bay
+  lat: '57.8185'
+  long: "-152.3657"
+  nearby_rate_centers:
+  - name: KODIAK
+    distance_km: 5.3
+  - name: OUZINKIE
+    distance_km: 14.24
+  - name: PORT LIONS
+    distance_km: 30.29
+- country: US
+  region: AK
+  name: Minto
+  lat: '65.1033'
+  long: "-149.5565"
+  nearby_rate_centers:
+  - name: YKVNTRSCMP
+    distance_km: 9.2
+  - name: MINTO
+    distance_km: 12.83
+  - name: MANLYHTSPG
+    distance_km: 52.08
+- country: US
+  region: AK
+  name: Moose Creek
+  lat: '64.7140'
+  long: "-147.1639"
+  nearby_rate_centers:
+  - name: EIELSONAFB
+    distance_km: 6.21
+  - name: NORTH POLE
+    distance_km: 9.9
+  - name: FTWAINWRIT
+    distance_km: 25.44
+- country: US
+  region: AK
+  name: Moose Pass
+  lat: '60.4997'
+  long: "-149.4464"
+  nearby_rate_centers:
+  - name: MOOSE PASS
+    distance_km: 5.1
+  - name: COOPER LDG
+    distance_km: 20.55
+  - name: SEWARD
+    distance_km: 43.5
+- country: US
+  region: AK
+  name: Mosquito Lake
+  lat: '59.4708'
+  long: "-136.1452"
+  nearby_rate_centers:
+  - name: KLUKWAN
+    distance_km: 16.49
+  - name: SKAGWAY
+    distance_km: 47.37
+  - name: HAINES
+    distance_km: 49.76
+- country: US
+  region: AK
+  name: Mountain Village
+  lat: '62.0911'
+  long: "-163.7209"
+  nearby_rate_centers:
+  - name: MOUNTANVLG
+    distance_km: 0.26
+  - name: ST MARYS
+    distance_km: 29.08
+  - name: PILOT STA
+    distance_km: 46.86
+- country: US
+  region: AK
+  name: Mud Bay
+  lat: '59.1518'
+  long: "-135.3585"
+  nearby_rate_centers:
+  - name: HAINES
+    distance_km: 7.91
+  - name: SKAGWAY
+    distance_km: 33.73
+  - name: KLUKWAN
+    distance_km: 40.98
+- country: US
+  region: AK
+  name: Nabesna
+  lat: '62.4606'
+  long: "-143.0402"
+  nearby_rate_centers:
+  - name: CHISANA
+    distance_km: 65.28
+  - name: MENTASTA
+    distance_km: 65.44
+  - name: TETLIN
+    distance_km: 79.92
+- country: US
+  region: AK
+  name: Naknek
+  lat: '58.7847'
+  long: "-156.8966"
+  nearby_rate_centers:
+  - name: KINGSALMON
+    distance_km: 17.35
+  - name: KNGSLMNAFS
+    distance_km: 17.35
+  - name: LEVELOCK
+    distance_km: 37.04
+  - name: EGEGIK
+    distance_km: 68.43
+- country: US
+  region: AK
+  name: Nanwalek
+  lat: '59.3303'
+  long: "-151.9111"
+  nearby_rate_centers:
+  - name: ENGLISHBAY
+    distance_km: 3.34
+  - name: PORTGRAHAM
+    distance_km: 5.28
+  - name: SELDOVIA
+    distance_km: 16.47
+- country: US
+  region: AK
+  name: Napakiak
+  lat: '60.6923'
+  long: "-161.9822"
+  nearby_rate_centers:
+  - name: NAPAKIAK
+    distance_km: 1.62
+  - name: NAPASKIAK
+    distance_km: 12.49
+  - name: BETHEL
+    distance_km: 17.25
+- country: US
+  region: AK
+  name: Napaskiak
+  lat: '60.7018'
+  long: "-161.7616"
+  nearby_rate_centers:
+  - name: NAPASKIAK
+    distance_km: 1.36
+  - name: NAPAKIAK
+    distance_km: 10.59
+  - name: BETHEL
+    distance_km: 10.72
+- country: US
+  region: AK
+  name: Naukati Bay
+  lat: '55.8801'
+  long: "-133.1992"
+  nearby_rate_centers:
+  - name: NAUKATIBAY
+    distance_km: 0.74
+  - name: WHALE PASS
+    distance_km: 25.41
+  - name: COFFMAN CV
+    distance_km: 28.05
+- country: US
+  region: AK
+  name: Nelchina
+  lat: '61.9989'
+  long: "-146.8111"
+  nearby_rate_centers:
+  - name: GLENNALLEN
+    distance_km: 70.63
+  - name: VALDEZ
+    distance_km: 98.71
+  - name: TATITLEK
+    distance_km: 125.72
+- country: US
+  region: AK
+  name: Nelson Lagoon
+  lat: '55.8451'
+  long: "-161.6103"
+  nearby_rate_centers:
+  - name: NELSONLGON
+    distance_km: 31.32
+  - name: SAND POINT
+    distance_km: 89.83
+  - name: KING COVE
+    distance_km: 97.13
+- country: US
+  region: AK
+  name: Nenana
+  lat: '64.5384'
+  long: "-149.0856"
+  nearby_rate_centers:
+  - name: NENANA
+    distance_km: 1.96
+  - name: CLEAR AFS
+    distance_km: 27.18
+  - name: YKVNTRSCMP
+    distance_km: 64.63
+- country: US
+  region: AK
+  name: New Stuyahok
+  lat: '59.4762'
+  long: "-157.2710"
+  nearby_rate_centers:
+  - name: NEWSTUYHOK
+    distance_km: 3.27
+  - name: EKWOK
+    distance_km: 17.74
+  - name: KOLIGANEK
+    distance_km: 28.05
+- country: US
+  region: AK
+  name: Newhalen
+  lat: '59.7270'
+  long: "-154.8970"
+  nearby_rate_centers:
+  - name: ILIAMNA
+    distance_km: 6.68
+  - name: NONDALTON
+    distance_km: 27.96
+  - name: KAKHONAK
+    distance_km: 32.64
+- country: US
+  region: AK
+  name: Newtok
+  lat: '60.9341'
+  long: "-164.6386"
+  nearby_rate_centers:
+  - name: NEWTOK
+    distance_km: 1.86
+  - name: NIGHTMUTE
+    distance_km: 50.23
+  - name: TUNUNAK
+    distance_km: 51.07
+- country: US
+  region: AK
+  name: Nightmute
+  lat: '60.4874'
+  long: "-164.8195"
+  nearby_rate_centers:
+  - name: NIGHTMUTE
+    distance_km: 5.59
+  - name: TOKSOOKBAY
+    distance_km: 16.35
+  - name: TUNUNAK
+    distance_km: 26.16
+- country: US
+  region: AK
+  name: Nikiski
+  lat: '60.7152'
+  long: "-151.2317"
+  nearby_rate_centers:
+  - name: NORTHKENAI
+    distance_km: 6.6
+  - name: KENAI
+    distance_km: 17.85
+  - name: SOLDOTNA
+    distance_km: 22.12
+- country: US
+  region: AK
+  name: Nikolaevsk
+  lat: '59.8295'
+  long: "-151.5964"
+  nearby_rate_centers:
+  - name: HOMER
+    distance_km: 20.47
+  - name: NINILCHIK
+    distance_km: 25.14
+  - name: HALIBUT CV
+    distance_km: 32.43
+- country: US
+  region: AK
+  name: Nikolai
+  lat: '63.0095'
+  long: "-154.3763"
+  nearby_rate_centers:
+  - name: NIKOLAI
+    distance_km: 0.54
+  - name: MCGRATH
+    distance_km: 62.85
+  - name: TATALINAFS
+    distance_km: 83.03
+- country: US
+  region: AK
+  name: Nikolski
+  lat: '53.0133'
+  long: "-168.7536"
+  nearby_rate_centers:
+  - name: NIKOLSKI
+    distance_km: 10.3
+  - name: UNALASKA
+    distance_km: 175.95
+  - name: AKUTAN
+    distance_km: 233.3
+- country: US
+  region: AK
+  name: Ninilchik
+  lat: '60.0745'
+  long: "-151.3843"
+  nearby_rate_centers:
+  - name: NINILCHIK
+    distance_km: 15.46
+  - name: HOMER
+    distance_km: 48.1
+  - name: HALIBUT CV
+    distance_km: 53.35
+- country: US
+  region: AK
+  name: Noatak
+  lat: '67.5986'
+  long: "-163.0309"
+  nearby_rate_centers:
+  - name: NOATAK
+    distance_km: 4.28
+  - name: REDDOGMINE
+    distance_km: 47.1
+  - name: KIVALINA
+    distance_km: 65.05
+- country: US
+  region: AK
+  name: Nome
+  lat: '64.5213'
+  long: "-165.4053"
+  nearby_rate_centers:
+  - name: NOME
+    distance_km: 2.52
+  - name: COUNCIL
+    distance_km: 92.38
+  - name: WHITE MT
+    distance_km: 96.76
+- country: US
+  region: AK
+  name: Nondalton
+  lat: '59.9711'
+  long: "-154.8627"
+  nearby_rate_centers:
+  - name: NONDALTON
+    distance_km: 1.12
+  - name: ILIAMNA
+    distance_km: 22.98
+  - name: PTALSWORTH
+    distance_km: 40.32
+- country: US
+  region: AK
+  name: Noorvik
+  lat: '66.8292'
+  long: "-161.0377"
+  nearby_rate_centers:
+  - name: NOORVIK
+    distance_km: 1.19
+  - name: KIANA
+    distance_km: 31.44
+  - name: SELAWIK
+    distance_km: 51.92
+- country: US
+  region: AK
+  name: North Lakes
+  lat: '61.6191'
+  long: "-149.3110"
+  nearby_rate_centers:
+  - name: WASILLA
+    distance_km: 7.17
+  - name: PALMER
+    distance_km: 10.85
+  - name: CHUGIAK
+    distance_km: 24.97
+- country: US
+  region: AK
+  name: North Pole
+  lat: '64.7529'
+  long: "-147.3599"
+  nearby_rate_centers:
+  - name: NORTH POLE
+    distance_km: 0.42
+  - name: FTWAINWRIT
+    distance_km: 15.5
+  - name: EIELSONAFB
+    distance_km: 16.05
+- country: US
+  region: AK
+  name: Northway
+  lat: '62.9709'
+  long: "-141.6173"
+  nearby_rate_centers:
+  - name: NORTHWAY
+    distance_km: 10.8
+  - name: TETLIN
+    distance_km: 48.78
+  - name: BORDERCITY
+    distance_km: 49.67
+- country: US
+  region: AK
+  name: Nuiqsut
+  lat: '70.2135'
+  long: "-150.9897"
+  nearby_rate_centers:
+  - name: NUIQSUT
+    distance_km: 0.18
+  - name: DEADHORSE
+    distance_km: 95.04
+  - name: SAGRIVCAMP
+    distance_km: 180.95
+- country: US
+  region: AK
+  name: Nulato
+  lat: '64.7052'
+  long: "-158.2382"
+  nearby_rate_centers:
+  - name: NULATO
+    distance_km: 6.84
+  - name: KOYUKUK
+    distance_km: 32.22
+  - name: KALTAG
+    distance_km: 47.61
+- country: US
+  region: AK
+  name: Nunam Iqua
+  lat: '62.5110'
+  long: "-164.8998"
+  nearby_rate_centers:
+  - name: SHELDON PT
+    distance_km: 3.64
+  - name: ALAKANUK
+    distance_km: 24.16
+  - name: EMMONAK
+    distance_km: 35.35
+- country: US
+  region: AK
+  name: Nunapitchuk
+  lat: '60.8772'
+  long: "-162.4615"
+  nearby_rate_centers:
+  - name: NUNAPTCHUK
+    distance_km: 2.38
+  - name: KASIGLUK
+    distance_km: 2.92
+  - name: ATMAUTLUAK
+    distance_km: 10.21
+- country: US
+  region: AK
+  name: Old Harbor
+  lat: '57.2169'
+  long: "-153.3252"
+  nearby_rate_centers:
+  - name: OLD HARBOR
+    distance_km: 2.11
+  - name: LARSEN BAY
+    distance_km: 52.91
+  - name: AKHIOK
+    distance_km: 58.73
+- country: US
+  region: AK
+  name: Oscarville
+  lat: '60.7288'
+  long: "-161.7728"
+  nearby_rate_centers:
+  - name: NAPASKIAK
+    distance_km: 1.88
+  - name: BETHEL
+    distance_km: 7.8
+  - name: NAPAKIAK
+    distance_km: 10.5
+- country: US
+  region: AK
+  name: Ouzinkie
+  lat: '57.9223'
+  long: "-152.4674"
+  nearby_rate_centers:
+  - name: OUZINKIE
+    distance_km: 2.01
+  - name: KODIAK
+    distance_km: 14.83
+  - name: PORT LIONS
+    distance_km: 24.6
+- country: US
+  region: AK
+  name: Palmer
+  lat: '61.5971'
+  long: "-149.1148"
+  nearby_rate_centers:
+  - name: PALMER
+    distance_km: 1.11
+  - name: WASILLA
+    distance_km: 16.42
+  - name: CHUGIAK
+    distance_km: 28.14
+- country: US
+  region: AK
+  name: Paxson
+  lat: '63.0110'
+  long: "-145.7312"
+  nearby_rate_centers:
+  - name: DRY CREEK
+    distance_km: 94.74
+  - name: MENTASTA
+    distance_km: 98.7
+  - name: GLENNALLEN
+    distance_km: 100.77
+- country: US
+  region: AK
+  name: Pedro Bay
+  lat: '59.7862'
+  long: "-154.1321"
+  nearby_rate_centers:
+  - name: PEDRO BAY
+    distance_km: 0.63
+  - name: ILIAMNA
+    distance_km: 37.84
+  - name: NONDALTON
+    distance_km: 45.17
+- country: US
+  region: AK
+  name: Pelican
+  lat: '57.9576'
+  long: "-136.2176"
+  nearby_rate_centers:
+  - name: PELICAN
+    distance_km: 0.06
+  - name: ELFIN COVE
+    distance_km: 27.43
+  - name: HOONAH
+    distance_km: 49.24
+- country: US
+  region: AK
+  name: Perryville
+  lat: '55.9315'
+  long: "-159.1559"
+  nearby_rate_centers:
+  - name: PERRYVILLE
+    distance_km: 2.0
+  - name: CHIGNIK LK
+    distance_km: 43.6
+  - name: CHIGNILGON
+    distance_km: 57.83
+- country: US
+  region: AK
+  name: Petersburg
+  lat: '56.7566'
+  long: "-132.8727"
+  nearby_rate_centers:
+  - name: PETERSBURG
+    distance_km: 7.54
+  - name: WRANGELL
+    distance_km: 43.32
+  - name: POINTBAKER
+    distance_km: 63.69
+- country: US
+  region: AK
+  name: Petersville
+  lat: '62.4226'
+  long: "-150.8444"
+  nearby_rate_centers:
+  - name: TALKEETNA
+    distance_km: 40.36
+  - name: WILLOW
+    distance_km: 85.87
+  - name: BIG LAKE
+    distance_km: 109.44
+- country: US
+  region: AK
+  name: Pilot Point
+  lat: '57.5585'
+  long: "-157.6798"
+  nearby_rate_centers:
+  - name: PILOTPOINT
+    distance_km: 6.37
+  - name: EGEGIK
+    distance_km: 75.87
+  - name: MESHIK
+    distance_km: 93.35
+- country: US
+  region: AK
+  name: Pilot Station
+  lat: '61.9422'
+  long: "-162.8828"
+  nearby_rate_centers:
+  - name: PILOT STA
+    distance_km: 0.34
+  - name: ST MARYS
+    distance_km: 19.34
+  - name: MARSHALL
+    distance_km: 42.63
+- country: US
+  region: AK
+  name: Pitkas Point
+  lat: '62.0374'
+  long: "-163.2681"
+  nearby_rate_centers:
+  - name: ST MARYS
+    distance_km: 5.47
+  - name: PILOT STA
+    distance_km: 22.8
+  - name: MOUNTANVLG
+    distance_km: 24.39
+- country: US
+  region: AK
+  name: Platinum
+  lat: '58.9780'
+  long: "-161.7185"
+  nearby_rate_centers:
+  - name: PLATINUM
+    distance_km: 6.8
+  - name: GOODNEWSBY
+    distance_km: 17.96
+  - name: CPNEWENAFS
+    distance_km: 41.05
+- country: US
+  region: AK
+  name: Pleasant Valley
+  lat: '64.8855'
+  long: "-146.8985"
+  nearby_rate_centers:
+  - name: EIELSONAFB
+    distance_km: 25.48
+  - name: NORTH POLE
+    distance_km: 25.97
+  - name: CLEARYSMMT
+    distance_km: 31.05
+- country: US
+  region: AK
+  name: Point Baker
+  lat: '56.3483'
+  long: "-133.6165"
+  nearby_rate_centers:
+  - name: POINTBAKER
+    distance_km: 0.72
+  - name: PTPROTECTN
+    distance_km: 2.34
+  - name: WHALE PASS
+    distance_km: 42.18
+- country: US
+  region: AK
+  name: Point Hope
+  lat: '68.3445'
+  long: "-166.6738"
+  nearby_rate_centers:
+  - name: POINT HOPE
+    distance_km: 2.6
+  - name: KIVALINA
+    distance_km: 112.26
+  - name: REDDOGMINE
+    distance_km: 159.6
+- country: US
+  region: AK
+  name: Point Lay
+  lat: '69.7443'
+  long: "-162.8678"
+  nearby_rate_centers:
+  - name: POINT LAY
+    distance_km: 5.14
+  - name: WAINWRIGHT
+    distance_km: 146.5
+  - name: REDDOGMINE
+    distance_km: 191.77
+- country: US
+  region: AK
+  name: Point MacKenzie
+  lat: '61.3498'
+  long: "-150.0664"
+  nearby_rate_centers:
+  - name: ELMEDRFAFB
+    distance_km: 16.15
+  - name: ANCHORAGE
+    distance_km: 16.49
+  - name: FTRICHADSN
+    distance_km: 24.19
+- country: US
+  region: AK
+  name: Point Possession
+  lat: '60.9228'
+  long: "-150.6891"
+  nearby_rate_centers:
+  - name: TYONEK
+    distance_km: 29.42
+  - name: NORTHKENAI
+    distance_km: 42.29
+  - name: SOLDOTNA
+    distance_km: 48.19
+- country: US
+  region: AK
+  name: Pope-Vannoy Landing
+  lat: '59.5649'
+  long: "-154.4654"
+  nearby_rate_centers:
+  - name: KAKHONAK
+    distance_km: 20.91
+  - name: ILIAMNA
+    distance_km: 29.49
+  - name: PEDRO BAY
+    distance_km: 31.36
+- country: US
+  region: AK
+  name: Port Alexander
+  lat: '56.2346'
+  long: "-134.6532"
+  nearby_rate_centers:
+  - name: PTALEXANDR
+    distance_km: 1.43
+  - name: PTPROTECTN
+    distance_km: 65.41
+  - name: POINTBAKER
+    distance_km: 65.57
+- country: US
+  region: AK
+  name: Port Alsworth
+  lat: '60.1688'
+  long: "-154.3233"
+  nearby_rate_centers:
+  - name: PTALSWORTH
+    distance_km: 4.45
+  - name: NONDALTON
+    distance_km: 36.02
+  - name: PEDRO BAY
+    distance_km: 43.94
+- country: US
+  region: AK
+  name: Port Clarence
+  lat: '65.1108'
+  long: "-166.7683"
+  nearby_rate_centers:
+  - name: TELLER
+    distance_km: 28.41
+  - name: TINCITYAFS
+    distance_km: 75.03
+  - name: WALES
+    distance_km: 82.82
+- country: US
+  region: AK
+  name: Port Graham
+  lat: '59.3400'
+  long: "-151.8464"
+  nearby_rate_centers:
+  - name: PORTGRAHAM
+    distance_km: 1.8
+  - name: ENGLISHBAY
+    distance_km: 4.82
+  - name: SELDOVIA
+    distance_km: 13.28
+- country: US
+  region: AK
+  name: Port Heiden
+  lat: '56.9426'
+  long: "-158.6047"
+  nearby_rate_centers:
+  - name: MESHIK
+    distance_km: 5.31
+  - name: CHIGNILGON
+    distance_km: 70.18
+  - name: CHIGNIK
+    distance_km: 71.89
+- country: US
+  region: AK
+  name: Port Lions
+  lat: '57.8758'
+  long: "-152.8737"
+  nearby_rate_centers:
+  - name: PORT LIONS
+    distance_km: 1.16
+  - name: OUZINKIE
+    distance_km: 22.67
+  - name: KODIAK
+    distance_km: 27.54
+- country: US
+  region: AK
+  name: Port Protection
+  lat: '56.3293'
+  long: "-133.5940"
+  nearby_rate_centers:
+  - name: PTPROTECTN
+    distance_km: 0.81
+  - name: POINTBAKER
+    distance_km: 3.03
+  - name: WHALE PASS
+    distance_km: 39.76
+- country: US
+  region: AK
+  name: Portage Creek
+  lat: '58.9054'
+  long: "-157.6698"
+  nearby_rate_centers:
+  - name: DILLINGHAM
+    distance_km: 50.75
+  - name: EKUK
+    distance_km: 50.77
+  - name: EKWOK
+    distance_km: 51.16
+- country: US
+  region: AK
+  name: Primrose
+  lat: '60.3497'
+  long: "-149.3199"
+  nearby_rate_centers:
+  - name: MOOSE PASS
+    distance_km: 15.01
+  - name: SEWARD
+    distance_km: 27.59
+  - name: COOPER LDG
+    distance_km: 31.87
+- country: US
+  region: AK
+  name: Prudhoe Bay
+  lat: '70.3148'
+  long: "-148.7167"
+  nearby_rate_centers:
+  - name: DEADHORSE
+    distance_km: 15.47
+  - name: NUIQSUT
+    distance_km: 86.11
+  - name: SAGRIVCAMP
+    distance_km: 172.41
+- country: US
+  region: AK
+  name: Quinhagak
+  lat: '59.7511'
+  long: "-161.8992"
+  nearby_rate_centers:
+  - name: QUINHAGAK
+    distance_km: 0.77
+  - name: EEK
+    distance_km: 53.14
+  - name: KONGIGANAK
+    distance_km: 59.92
+- country: US
+  region: AK
+  name: Rampart
+  lat: '65.4087'
+  long: "-149.9915"
+  nearby_rate_centers:
+  - name: RAMPART
+    distance_km: 13.9
+  - name: YKVNTRSCMP
+    distance_km: 41.48
+  - name: MINTO
+    distance_km: 41.75
+- country: US
+  region: AK
+  name: Red Devil
+  lat: '61.7735'
+  long: "-157.3461"
+  nearby_rate_centers:
+  - name: RED DEVIL
+    distance_km: 1.99
+  - name: SLEETMUTE
+    distance_km: 11.99
+  - name: STONYRIVER
+    distance_km: 39.84
+- country: US
+  region: AK
+  name: Red Dog Mine
+  lat: '68.0645'
+  long: "-162.8667"
+  nearby_rate_centers:
+  - name: REDDOGMINE
+    distance_km: 5.31
+  - name: NOATAK
+    distance_km: 55.05
+  - name: KIVALINA
+    distance_km: 78.9
+- country: US
+  region: AK
+  name: Ridgeway
+  lat: '60.5305'
+  long: "-151.0301"
+  nearby_rate_centers:
+  - name: SOLDOTNA
+    distance_km: 2.34
+  - name: KENAI
+    distance_km: 11.37
+  - name: NORTHKENAI
+    distance_km: 27.64
+- country: US
+  region: AK
+  name: Ruby
+  lat: '64.7233'
+  long: "-155.5005"
+  nearby_rate_centers:
+  - name: RUBY
+    distance_km: 2.27
+  - name: GALENA
+    distance_km: 69.05
+  - name: KOYUKUK
+    distance_km: 106.07
+- country: US
+  region: AK
+  name: Russian Mission
+  lat: '61.7825'
+  long: "-161.3567"
+  nearby_rate_centers:
+  - name: RUSSINMSSN
+    distance_km: 2.63
+  - name: MARSHALL
+    distance_km: 39.51
+  - name: KALSKAG
+    distance_km: 60.72
+- country: US
+  region: AK
+  name: Salamatof
+  lat: '60.6154'
+  long: "-151.3159"
+  nearby_rate_centers:
+  - name: KENAI
+    distance_km: 8.16
+  - name: NORTHKENAI
+    distance_km: 12.06
+  - name: SOLDOTNA
+    distance_km: 16.19
+- country: US
+  region: AK
+  name: Salcha
+  lat: '64.5274'
+  long: "-146.9042"
+  nearby_rate_centers:
+  - name: EIELSONAFB
+    distance_km: 18.03
+  - name: NORTH POLE
+    distance_km: 32.92
+  - name: FTWAINWRIT
+    distance_km: 48.61
+- country: US
+  region: AK
+  name: Sand Point
+  lat: '55.3227'
+  long: "-160.4834"
+  nearby_rate_centers:
+  - name: SAND POINT
+    distance_km: 2.31
+  - name: NELSONLGON
+    distance_km: 87.92
+  - name: PERRYVILLE
+    distance_km: 107.06
+- country: US
+  region: AK
+  name: Savoonga
+  lat: '63.6797'
+  long: "-170.4831"
+  nearby_rate_centers:
+  - name: SAVOONGA
+    distance_km: 2.06
+  - name: GAMBELL
+    distance_km: 62.15
+  - name: TINCITYAFS
+    distance_km: 241.88
+- country: US
+  region: AK
+  name: Saxman
+  lat: '55.3232'
+  long: "-131.5892"
+  nearby_rate_centers:
+  - name: KETCHIKAN
+    distance_km: 6.96
+  - name: ANNETTE
+    distance_km: 26.2
+  - name: KASAAN
+    distance_km: 55.98
+- country: US
+  region: AK
+  name: Scammon Bay
+  lat: '61.8420'
+  long: "-165.5833"
+  nearby_rate_centers:
+  - name: SCAMMONBAY
+    distance_km: 0.82
+  - name: CHEVAK
+    distance_km: 34.42
+  - name: HOOPER BAY
+    distance_km: 43.52
+- country: US
+  region: AK
+  name: Selawik
+  lat: '66.5988'
+  long: "-159.9995"
+  nearby_rate_centers:
+  - name: SELAWIK
+    distance_km: 0.42
+  - name: KIANA
+    distance_km: 46.17
+  - name: NOORVIK
+    distance_km: 52.43
+- country: US
+  region: AK
+  name: Seldovia
+  lat: '59.4396'
+  long: "-151.7111"
+  nearby_rate_centers:
+  - name: SELDOVIA
+    distance_km: 0.4
+  - name: PORTGRAHAM
+    distance_km: 11.67
+  - name: ENGLISHBAY
+    distance_km: 14.88
+- country: US
+  region: AK
+  name: Seldovia Village
+  lat: '59.4530'
+  long: "-151.5905"
+  nearby_rate_centers:
+  - name: SELDOVIA
+    distance_km: 6.9
+  - name: PORTGRAHAM
+    distance_km: 17.48
+  - name: ENGLISHBAY
+    distance_km: 21.44
+- country: US
+  region: AK
+  name: Seward
+  lat: '60.1124'
+  long: "-149.3925"
+  nearby_rate_centers:
+  - name: SEWARD
+    distance_km: 2.53
+  - name: MOOSE PASS
+    distance_km: 41.28
+  - name: COOPER LDG
+    distance_km: 48.58
+- country: US
+  region: AK
+  name: Shageluk
+  lat: '62.6684'
+  long: "-159.5630"
+  nearby_rate_centers:
+  - name: SHAGELUK
+    distance_km: 2.38
+  - name: ANVIK
+    distance_km: 32.7
+  - name: GRAYLING
+    distance_km: 36.92
+- country: US
+  region: AK
+  name: Shaktoolik
+  lat: '64.3568'
+  long: "-161.1973"
+  nearby_rate_centers:
+  - name: SHAKTOOLIK
+    distance_km: 0.55
+  - name: ELIM
+    distance_km: 58.53
+  - name: UNALAKLEET
+    distance_km: 61.6
+- country: US
+  region: AK
+  name: Shishmaref
+  lat: '66.2372'
+  long: "-166.1027"
+  nearby_rate_centers:
+  - name: SHISHMAREF
+    distance_km: 3.06
+  - name: TELLER
+    distance_km: 101.53
+  - name: TINCITYAFS
+    distance_km: 112.46
+- country: US
+  region: AK
+  name: Shungnak
+  lat: '66.8805'
+  long: "-157.1499"
+  nearby_rate_centers:
+  - name: SHUNGNAK
+    distance_km: 1.85
+  - name: KOBUK
+    distance_km: 12.14
+  - name: AMBLER
+    distance_km: 38.27
+- country: US
+  region: AK
+  name: Silver Springs
+  lat: '62.0193'
+  long: "-145.3584"
+  nearby_rate_centers:
+  - name: GLENNALLEN
+    distance_km: 12.06
+  - name: CHITINA
+    distance_km: 73.92
+  - name: VALDEZ
+    distance_km: 111.44
+- country: US
+  region: AK
+  name: Sitka
+  lat: '57.2401'
+  long: "-135.3152"
+  nearby_rate_centers:
+  - name: SITKA
+    distance_km: 21.32
+  - name: ANGOON
+    distance_km: 53.22
+  - name: TENAKEESPG
+    distance_km: 60.52
+- country: US
+  region: AK
+  name: Skagway
+  lat: '59.4566'
+  long: "-135.2927"
+  nearby_rate_centers:
+  - name: SKAGWAY
+    distance_km: 0.88
+  - name: HAINES
+    distance_km: 28.05
+  - name: KLUKWAN
+    distance_km: 34.01
+- country: US
+  region: AK
+  name: Skwentna
+  lat: '61.9314'
+  long: "-151.2096"
+  nearby_rate_centers:
+  - name: WILLOW
+    distance_km: 65.32
+  - name: TALKEETNA
+    distance_km: 73.51
+  - name: BIG LAKE
+    distance_km: 82.6
+- country: US
+  region: AK
+  name: Slana
+  lat: '62.6294'
+  long: "-143.5670"
+  nearby_rate_centers:
+  - name: MENTASTA
+    distance_km: 36.28
+  - name: TETLIN
+    distance_km: 77.78
+  - name: TOK
+    distance_km: 84.32
+- country: US
+  region: AK
+  name: Sleetmute
+  lat: '61.6516'
+  long: "-157.1251"
+  nearby_rate_centers:
+  - name: SLEETMUTE
+    distance_km: 6.57
+  - name: RED DEVIL
+    distance_km: 18.77
+  - name: STONYRIVER
+    distance_km: 31.99
+- country: US
+  region: AK
+  name: Soldotna
+  lat: '60.4862'
+  long: "-151.0672"
+  nearby_rate_centers:
+  - name: SOLDOTNA
+    distance_km: 5.12
+  - name: KENAI
+    distance_km: 11.8
+  - name: NORTHKENAI
+    distance_km: 30.52
+- country: US
+  region: AK
+  name: South Lakes
+  lat: '61.5874'
+  long: "-149.3160"
+  nearby_rate_centers:
+  - name: WASILLA
+    distance_km: 5.73
+  - name: PALMER
+    distance_km: 11.23
+  - name: CHUGIAK
+    distance_km: 21.57
+- country: US
+  region: AK
+  name: South Naknek
+  lat: '58.6637'
+  long: "-156.9908"
+  nearby_rate_centers:
+  - name: KINGSALMON
+    distance_km: 19.28
+  - name: KNGSLMNAFS
+    distance_km: 19.28
+  - name: LEVELOCK
+    distance_km: 51.03
+  - name: EGEGIK
+    distance_km: 53.93
+- country: US
+  region: AK
+  name: South Van Horn
+  lat: '64.8091'
+  long: "-147.7854"
+  nearby_rate_centers:
+  - name: FAIRBANKS
+    distance_km: 5.1
+  - name: FTWAINWRIT
+    distance_km: 9.84
+  - name: NORTH POLE
+    distance_km: 21.49
+- country: US
+  region: AK
+  name: St. George
+  lat: '56.5791'
+  long: "-169.6114"
+  nearby_rate_centers:
+  - name: ST GEORGE
+    distance_km: 4.7
+  - name: ST PAUL
+    distance_km: 73.01
+  - name: UNALASKA
+    distance_km: 358.36
+- country: US
+  region: AK
+  name: St. Mary's
+  lat: '62.0718'
+  long: "-163.2805"
+  nearby_rate_centers:
+  - name: ST MARYS
+    distance_km: 6.2
+  - name: MOUNTANVLG
+    distance_km: 23.05
+  - name: PILOT STA
+    distance_km: 25.29
+- country: US
+  region: AK
+  name: St. Michael
+  lat: '63.4664'
+  long: "-162.1324"
+  nearby_rate_centers:
+  - name: ST MICHAEL
+    distance_km: 5.03
+  - name: STEBBINS
+    distance_km: 9.98
+  - name: KOTLIK
+    distance_km: 85.56
+- country: US
+  region: AK
+  name: St. Paul
+  lat: '57.1815'
+  long: "-170.2743"
+  nearby_rate_centers:
+  - name: ST PAUL
+    distance_km: 6.44
+  - name: ST GEORGE
+    distance_km: 77.93
+  - name: MEKORYUK
+    distance_km: 427.32
+- country: US
+  region: AK
+  name: Stebbins
+  lat: '63.4705'
+  long: "-162.2599"
+  nearby_rate_centers:
+  - name: STEBBINS
+    distance_km: 6.08
+  - name: ST MICHAEL
+    distance_km: 11.19
+  - name: KOTLIK
+    distance_km: 80.61
+- country: US
+  region: AK
+  name: Steele Creek
+  lat: '64.9295'
+  long: "-147.3955"
+  nearby_rate_centers:
+  - name: FTWAINWRIT
+    distance_km: 13.18
+  - name: CLEARYSMMT
+    distance_km: 13.62
+  - name: FAIRBANKS
+    distance_km: 17.68
+- country: US
+  region: AK
+  name: Sterling
+  lat: '60.5405'
+  long: "-150.8089"
+  nearby_rate_centers:
+  - name: SOLDOTNA
+    distance_km: 14.46
+  - name: KENAI
+    distance_km: 23.19
+  - name: NORTHKENAI
+    distance_km: 35.87
+- country: US
+  region: AK
+  name: Stevens Village
+  lat: '66.0250'
+  long: "-149.0802"
+  nearby_rate_centers:
+  - name: STEVENSVLG
+    distance_km: 1.55
+  - name: LIVENGOOD
+    distance_km: 64.15
+  - name: RAMPART
+    distance_km: 75.55
+- country: US
+  region: AK
+  name: Stony River
+  lat: '61.7937'
+  long: "-156.5861"
+  nearby_rate_centers:
+  - name: STONYRIVER
+    distance_km: 0.81
+  - name: SLEETMUTE
+    distance_km: 32.0
+  - name: RED DEVIL
+    distance_km: 39.1
+- country: US
+  region: AK
+  name: Sunrise
+  lat: '60.8701'
+  long: "-149.4678"
+  nearby_rate_centers:
+  - name: BIRD CREEK
+    distance_km: 12.05
+  - name: GIRDWOOD
+    distance_km: 18.33
+  - name: HOPE
+    distance_km: 28.59
+- country: US
+  region: AK
+  name: Susitna
+  lat: '61.4935'
+  long: "-150.5950"
+  nearby_rate_centers:
+  - name: BIG LAKE
+    distance_km: 39.68
+  - name: WILLOW
+    distance_km: 41.73
+  - name: ANCHORAGE
+    distance_km: 48.09
+- country: US
+  region: AK
+  name: Susitna North
+  lat: '62.1281'
+  long: "-149.8593"
+  nearby_rate_centers:
+  - name: TALKEETNA
+    distance_km: 25.61
+  - name: WILLOW
+    distance_km: 42.63
+  - name: BIG LAKE
+    distance_km: 63.8
+- country: US
+  region: AK
+  name: Sutton-Alpine
+  lat: '61.7428'
+  long: "-148.8548"
+  nearby_rate_centers:
+  - name: PALMER
+    distance_km: 20.19
+  - name: WASILLA
+    distance_km: 34.87
+  - name: CHUGIAK
+    distance_km: 49.37
+- country: US
+  region: AK
+  name: Takotna
+  lat: '62.9827'
+  long: "-156.0838"
+  nearby_rate_centers:
+  - name: TAKOTNA
+    distance_km: 1.59
+  - name: TATALINAFS
+    distance_km: 6.69
+  - name: MCGRATH
+    distance_km: 23.85
+- country: US
+  region: AK
+  name: Talkeetna
+  lat: '62.2994'
+  long: "-149.9601"
+  nearby_rate_centers:
+  - name: TALKEETNA
+    distance_km: 7.48
+  - name: WILLOW
+    distance_km: 60.89
+  - name: BIG LAKE
+    distance_km: 83.02
+- country: US
+  region: AK
+  name: Tanacross
+  lat: '63.3523'
+  long: "-143.4318"
+  nearby_rate_centers:
+  - name: TOK
+    distance_km: 22.37
+  - name: DOT LAKE
+    distance_km: 42.66
+  - name: MENTASTA
+    distance_km: 49.11
+- country: US
+  region: AK
+  name: Tanaina
+  lat: '61.6576'
+  long: "-149.4263"
+  nearby_rate_centers:
+  - name: WASILLA
+    distance_km: 8.24
+  - name: PALMER
+    distance_km: 17.78
+  - name: BIG LAKE
+    distance_km: 25.53
+- country: US
+  region: AK
+  name: Tanana
+  lat: '65.1746'
+  long: "-152.0686"
+  nearby_rate_centers:
+  - name: TANANA
+    distance_km: 0.79
+  - name: MANLYHTSPG
+    distance_km: 69.76
+  - name: RAMPART
+    distance_km: 95.97
+- country: US
+  region: AK
+  name: Tatitlek
+  lat: '60.8921'
+  long: "-146.6727"
+  nearby_rate_centers:
+  - name: TATITLEK
+    distance_km: 2.44
+  - name: VALDEZ
+    distance_km: 32.09
+  - name: CORDOVA
+    distance_km: 62.91
+- country: US
+  region: AK
+  name: Tazlina
+  lat: '62.0536'
+  long: "-145.4363"
+  nearby_rate_centers:
+  - name: GLENNALLEN
+    distance_km: 6.87
+  - name: CHITINA
+    distance_km: 79.47
+  - name: VALDEZ
+    distance_km: 112.96
+- country: US
+  region: AK
+  name: Teller
+  lat: '65.2531'
+  long: "-166.3420"
+  nearby_rate_centers:
+  - name: TELLER
+    distance_km: 11.66
+  - name: TINCITYAFS
+    distance_km: 82.58
+  - name: WALES
+    distance_km: 90.06
+- country: US
+  region: AK
+  name: Tenakee Springs
+  lat: '57.7913'
+  long: "-135.1954"
+  nearby_rate_centers:
+  - name: TENAKEESPG
+    distance_km: 1.58
+  - name: HOONAH
+    distance_km: 38.39
+  - name: ANGOON
+    distance_km: 49.09
+- country: US
+  region: AK
+  name: Tetlin
+  lat: '63.1481'
+  long: "-142.4947"
+  nearby_rate_centers:
+  - name: TETLIN
+    distance_km: 1.47
+  - name: TOK
+    distance_km: 32.49
+  - name: NORTHWAY
+    distance_km: 37.64
+- country: US
+  region: AK
+  name: Thorne Bay
+  lat: '55.6652'
+  long: "-132.5337"
+  nearby_rate_centers:
+  - name: THORNE BAY
+    distance_km: 2.9
+  - name: KASAAN
+    distance_km: 16.5
+  - name: MYERSCHUCK
+    distance_km: 19.34
+- country: US
+  region: AK
+  name: Togiak
+  lat: '59.0693'
+  long: "-160.4728"
+  nearby_rate_centers:
+  - name: TOGIAK
+    distance_km: 5.59
+  - name: TWIN HILLS
+    distance_km: 11.01
+  - name: GOODNEWSBY
+    distance_km: 63.31
+- country: US
+  region: AK
+  name: Tok
+  lat: '63.3290'
+  long: "-143.0379"
+  nearby_rate_centers:
+  - name: TOK
+    distance_km: 2.95
+  - name: TETLIN
+    distance_km: 33.83
+  - name: MENTASTA
+    distance_km: 57.21
+- country: US
+  region: AK
+  name: Toksook Bay
+  lat: '60.5333'
+  long: "-165.1557"
+  nearby_rate_centers:
+  - name: TOKSOOKBAY
+    distance_km: 2.83
+  - name: TUNUNAK
+    distance_km: 7.97
+  - name: NIGHTMUTE
+    distance_km: 24.59
+- country: US
+  region: AK
+  name: Tolsona
+  lat: '62.0844'
+  long: "-146.0920"
+  nearby_rate_centers:
+  - name: GLENNALLEN
+    distance_km: 32.13
+  - name: VALDEZ
+    distance_km: 106.23
+  - name: CHITINA
+    distance_km: 107.46
+- country: US
+  region: AK
+  name: Tonsina
+  lat: '61.5617'
+  long: "-145.0656"
+  nearby_rate_centers:
+  - name: CHITINA
+    distance_km: 33.8
+  - name: GLENNALLEN
+    distance_km: 64.93
+  - name: VALDEZ
+    distance_km: 83.57
+- country: US
+  region: AK
+  name: Trapper Creek
+  lat: '62.3189'
+  long: "-150.3965"
+  nearby_rate_centers:
+  - name: TALKEETNA
+    distance_km: 16.12
+  - name: WILLOW
+    distance_km: 65.9
+  - name: BIG LAKE
+    distance_km: 89.57
+- country: US
+  region: AK
+  name: Tuluksak
+  lat: '61.1050'
+  long: "-160.9493"
+  nearby_rate_centers:
+  - name: TULUKSAK
+    distance_km: 0.22
+  - name: AKIAK
+    distance_km: 25.6
+  - name: AKIACHAK
+    distance_km: 33.67
+- country: US
+  region: AK
+  name: Tuntutuliak
+  lat: '60.3843'
+  long: "-162.6838"
+  nearby_rate_centers:
+  - name: TUNTUTULIK
+    distance_km: 4.29
+  - name: EEK
+    distance_km: 40.31
+  - name: KONGIGANAK
+    distance_km: 48.07
+- country: US
+  region: AK
+  name: Tununak
+  lat: '60.5790'
+  long: "-165.2077"
+  nearby_rate_centers:
+  - name: TUNUNAK
+    distance_km: 2.63
+  - name: TOKSOOKBAY
+    distance_km: 7.69
+  - name: NIGHTMUTE
+    distance_km: 28.81
+- country: US
+  region: AK
+  name: Twin Hills
+  lat: '59.0815'
+  long: "-160.2826"
+  nearby_rate_centers:
+  - name: TWIN HILLS
+    distance_km: 0.31
+  - name: TOGIAK
+    distance_km: 5.67
+  - name: MANOKOTAK
+    distance_km: 71.08
+- country: US
+  region: AK
+  name: Two Rivers
+  lat: '64.8908'
+  long: "-147.0897"
+  nearby_rate_centers:
+  - name: NORTH POLE
+    distance_km: 19.66
+  - name: CLEARYSMMT
+    distance_km: 23.95
+  - name: FTWAINWRIT
+    distance_km: 24.5
+- country: US
+  region: AK
+  name: Tyonek
+  lat: '61.0734'
+  long: "-151.3330"
+  nearby_rate_centers:
+  - name: TYONEK
+    distance_km: 10.57
+  - name: NORTHKENAI
+    distance_km: 39.04
+  - name: KENAI
+    distance_km: 57.94
+- country: US
+  region: AK
+  name: Ugashik
+  lat: '57.5736'
+  long: "-157.1232"
+  nearby_rate_centers:
+  - name: PILOTPOINT
+    distance_km: 26.89
+  - name: EGEGIK
+    distance_km: 73.28
+  - name: MESHIK
+    distance_km: 118.71
+- country: US
+  region: AK
+  name: Unalakleet
+  lat: '63.8924'
+  long: "-160.7861"
+  nearby_rate_centers:
+  - name: UNALAKLEET
+    distance_km: 13.46
+  - name: SHAKTOOLIK
+    distance_km: 55.54
+  - name: ST MICHAEL
+    distance_km: 76.8
+- country: US
+  region: AK
+  name: Unalaska
+  lat: '53.8984'
+  long: "-166.5680"
+  nearby_rate_centers:
+  - name: UNALASKA
+    distance_km: 3.51
+  - name: AKUTAN
+    distance_km: 58.54
+  - name: NIKOLSKI
+    distance_km: 184.98
+- country: US
+  region: AK
+  name: Upper Kalskag
+  lat: '61.5416'
+  long: "-160.3337"
+  nearby_rate_centers:
+  - name: KALSKAG
+    distance_km: 0.61
+  - name: ANIAK
+    distance_km: 44.34
+  - name: CHUATHBALK
+    distance_km: 58.0
+- country: US
+  region: AK
+  name: Utqiagvik
+  lat: '71.2727'
+  long: "-156.7575"
+  nearby_rate_centers:
+  - name: BARROW
+    distance_km: 2.65
+  - name: ATQASUK
+    distance_km: 92.09
+  - name: WAINWRIGHT
+    distance_km: 137.57
+- country: US
+  region: AK
+  name: Valdez
+  lat: '61.0963'
+  long: "-146.2596"
+  nearby_rate_centers:
+  - name: VALDEZ
+    distance_km: 7.07
+  - name: TATITLEK
+    distance_km: 33.68
+  - name: CORDOVA
+    distance_km: 66.83
+- country: US
+  region: AK
+  name: Venetie
+  lat: '67.0206'
+  long: "-146.3741"
+  nearby_rate_centers:
+  - name: VENETIE
+    distance_km: 1.79
+  - name: FORT YUKON
+    distance_km: 68.76
+  - name: BEAVER
+    distance_km: 85.61
+- country: US
+  region: AK
+  name: Wainwright
+  lat: '70.6380'
+  long: "-159.9713"
+  nearby_rate_centers:
+  - name: WAINWRIGHT
+    distance_km: 1.83
+  - name: ATQASUK
+    distance_km: 97.02
+  - name: BARROW
+    distance_km: 136.52
+- country: US
+  region: AK
+  name: Wales
+  lat: '65.6119'
+  long: "-168.0773"
+  nearby_rate_centers:
+  - name: WALES
+    distance_km: 0.46
+  - name: TINCITYAFS
+    distance_km: 7.35
+  - name: LTLDIOMEDE
+    distance_km: 42.4
+- country: US
+  region: AK
+  name: Wasilla
+  lat: '61.5770'
+  long: "-149.4660"
+  nearby_rate_centers:
+  - name: WASILLA
+    distance_km: 2.34
+  - name: CHUGIAK
+    distance_km: 18.92
+  - name: PALMER
+    distance_km: 19.24
+- country: US
+  region: AK
+  name: Whale Pass
+  lat: '56.1053'
+  long: "-133.1243"
+  nearby_rate_centers:
+  - name: WHALE PASS
+    distance_km: 1.67
+  - name: COFFMAN CV
+    distance_km: 21.42
+  - name: NAUKATIBAY
+    distance_km: 26.19
+- country: US
+  region: AK
+  name: White Mountain
+  lat: '64.6812'
+  long: "-163.4228"
+  nearby_rate_centers:
+  - name: WHITE MT
+    distance_km: 0.63
+  - name: GOLOVIN
+    distance_km: 23.75
+  - name: COUNCIL
+    distance_km: 26.85
+- country: US
+  region: AK
+  name: Whitestone
+  lat: '64.1527'
+  long: "-145.9061"
+  nearby_rate_centers:
+  - name: DELTA JCT
+    distance_km: 15.75
+  - name: FORTGREELY
+    distance_km: 22.06
+  - name: HEALY LAKE
+    distance_km: 60.03
+- country: US
+  region: AK
+  name: Whitestone Logging Camp
+  lat: '58.0658'
+  long: "-135.4207"
+  nearby_rate_centers:
+  - name: HOONAH
+    distance_km: 5.25
+  - name: TENAKEESPG
+    distance_km: 33.85
+  - name: GUSTAVUS
+    distance_km: 42.92
+- country: US
+  region: AK
+  name: Whittier
+  lat: '60.7852'
+  long: "-148.6455"
+  nearby_rate_centers:
+  - name: WHITTIER
+    distance_km: 2.13
+  - name: GIRDWOOD
+    distance_km: 32.93
+  - name: BIRD CREEK
+    distance_km: 49.64
+- country: US
+  region: AK
+  name: Willow
+  lat: '61.8157'
+  long: "-149.7530"
+  nearby_rate_centers:
+  - name: WILLOW
+    distance_km: 15.87
+  - name: BIG LAKE
+    distance_km: 29.58
+  - name: WASILLA
+    distance_km: 31.11
+- country: US
+  region: AK
+  name: Willow Creek
+  lat: '61.8336'
+  long: "-145.1836"
+  nearby_rate_centers:
+  - name: GLENNALLEN
+    distance_km: 34.59
+  - name: CHITINA
+    distance_km: 52.83
+  - name: VALDEZ
+    distance_km: 99.43
+- country: US
+  region: AK
+  name: Wiseman
+  lat: '67.4370'
+  long: "-150.1334"
+  nearby_rate_centers:
+  - name: COLDFOOT
+    distance_km: 19.85
+  - name: JIMRIVCAMP
+    distance_km: 72.22
+  - name: BETTLES
+    distance_km: 83.7
+- country: US
+  region: AK
+  name: Womens Bay
+  lat: '57.6960'
+  long: "-152.6276"
+  nearby_rate_centers:
+  - name: KODIAK
+    distance_km: 15.38
+  - name: PORT LIONS
+    distance_km: 23.7
+  - name: OUZINKIE
+    distance_km: 26.48
+- country: US
+  region: AK
+  name: Wrangell
+  lat: '56.3317'
+  long: "-132.0223"
+  nearby_rate_centers:
+  - name: WRANGELL
+    distance_km: 27.45
+  - name: COFFMAN CV
+    distance_km: 60.57
+  - name: MYERSCHUCK
+    distance_km: 67.47
+- country: US
+  region: AK
+  name: Yakutat
+  lat: '59.5670'
+  long: "-139.5966"
+  nearby_rate_centers:
+  - name: YAKUTAT
+    distance_km: 8.61
+  - name: KLUKWAN
+    distance_km: 210.31
+  - name: HAINES
+    distance_km: 239.3

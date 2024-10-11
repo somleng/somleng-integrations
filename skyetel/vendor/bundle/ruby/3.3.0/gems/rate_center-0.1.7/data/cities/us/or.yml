@@ -1,0 +1,5116 @@
+---
+cities:
+- country: US
+  region: OR
+  name: Adair Village
+  lat: '44.6706'
+  long: "-123.2160"
+  nearby_rate_centers:
+  - name: ALBANY
+    distance_km: 10.13
+  - name: CORVALLIS
+    distance_km: 12.0
+  - name: JEFFERSON
+    distance_km: 17.85
+- country: US
+  region: OR
+  name: Adams
+  lat: '45.7662'
+  long: "-118.5643"
+  nearby_rate_centers:
+  - name: ATHENA
+    distance_km: 7.58
+  - name: HELIX
+    distance_km: 12.07
+  - name: PENDLETON
+    distance_km: 20.43
+- country: US
+  region: OR
+  name: Adrian
+  lat: '43.7408'
+  long: "-117.0709"
+  nearby_rate_centers:
+  - name: ADRIAN
+    distance_km: 0.91
+  - name: RIDGEVIEW
+    distance_km: 12.01
+  - name: NYSSA
+    distance_km: 16.36
+- country: US
+  region: OR
+  name: Albany
+  lat: '44.6272'
+  long: "-123.0965"
+  nearby_rate_centers:
+  - name: ALBANY
+    distance_km: 0.66
+  - name: JEFFERSON
+    distance_km: 12.67
+  - name: CORVALLIS
+    distance_km: 14.97
+- country: US
+  region: OR
+  name: Aloha
+  lat: '45.4920'
+  long: "-122.8725"
+  nearby_rate_centers:
+  - name: BEAVERTON
+    distance_km: 4.84
+  - name: HILLSBORO
+    distance_km: 9.19
+  - name: TIGARD
+    distance_km: 9.87
+- country: US
+  region: OR
+  name: Alpine
+  lat: '44.3303'
+  long: "-123.3628"
+  nearby_rate_centers:
+  - name: BELLFONTAN
+    distance_km: 4.39
+  - name: MONROE
+    distance_km: 5.36
+  - name: HARRISBURG
+    distance_km: 16.93
+- country: US
+  region: OR
+  name: Alsea
+  lat: '44.3815'
+  long: "-123.5958"
+  nearby_rate_centers:
+  - name: ALSEA
+    distance_km: 0.16
+  - name: LOBSTERVLY
+    distance_km: 10.65
+  - name: HARLAN
+    distance_km: 18.21
+- country: US
+  region: OR
+  name: Altamont
+  lat: '42.1980'
+  long: "-121.7248"
+  nearby_rate_centers:
+  - name: KLAMATHFLS
+    distance_km: 4.7
+  - name: MERRILL
+    distance_km: 21.93
+  - name: BONANZA
+    distance_km: 25.98
+- country: US
+  region: OR
+  name: Amity
+  lat: '45.1153'
+  long: "-123.2033"
+  nearby_rate_centers:
+  - name: AMITY
+    distance_km: 0.21
+  - name: MCMINNVL
+    distance_km: 10.58
+  - name: GRAND IS
+    distance_km: 11.8
+- country: US
+  region: OR
+  name: Annex
+  lat: '44.2346'
+  long: "-116.9922"
+  nearby_rate_centers:
+  - name: OREGONSLOP
+    distance_km: 9.81
+  - name: ONTARIO
+    distance_km: 24.39
+  - name: HUNTINGTON
+    distance_km: 24.89
+- country: US
+  region: OR
+  name: Antelope
+  lat: '44.9113'
+  long: "-120.7236"
+  nearby_rate_centers:
+  - name: ANTELOPE
+    distance_km: 0.6
+  - name: MAUPIN
+    distance_km: 40.65
+  - name: FOSSIL
+    distance_km: 41.69
+- country: US
+  region: OR
+  name: Arlington
+  lat: '45.7207'
+  long: "-120.1887"
+  nearby_rate_centers:
+  - name: ARLINGTON
+    distance_km: 0.99
+  - name: IONE
+    distance_km: 37.38
+  - name: BOARDMAN
+    distance_km: 38.95
+- country: US
+  region: OR
+  name: Ashland
+  lat: '42.1905'
+  long: "-122.6992"
+  nearby_rate_centers:
+  - name: ASHLAND
+    distance_km: 1.95
+  - name: PHOENIX
+    distance_km: 10.66
+  - name: MEDFORD
+    distance_km: 21.58
+- country: US
+  region: OR
+  name: Astoria
+  lat: '46.1856'
+  long: "-123.8053"
+  nearby_rate_centers:
+  - name: ASTORIA
+    distance_km: 2.65
+  - name: WARRENTON
+    distance_km: 9.65
+  - name: KNAPPA
+    distance_km: 17.22
+- country: US
+  region: OR
+  name: Athena
+  lat: '45.8133'
+  long: "-118.4926"
+  nearby_rate_centers:
+  - name: ATHENA
+    distance_km: 0.57
+  - name: HELIX
+    distance_km: 13.64
+  - name: MILTONFWTR
+    distance_km: 15.44
+- country: US
+  region: OR
+  name: Aumsville
+  lat: '44.8462'
+  long: "-122.8700"
+  nearby_rate_centers:
+  - name: AUMSVLTRNR
+    distance_km: 0.57
+  - name: STAYTON
+    distance_km: 8.19
+  - name: SCIO
+    distance_km: 16.26
+- country: US
+  region: OR
+  name: Aurora
+  lat: '45.2284'
+  long: "-122.7573"
+  nearby_rate_centers:
+  - name: AURORA
+    distance_km: 0.48
+  - name: CANBYNEEDY
+    distance_km: 5.61
+  - name: CHARBONNEU
+    distance_km: 6.61
+- country: US
+  region: OR
+  name: Baker City
+  lat: '44.7749'
+  long: "-117.8320"
+  nearby_rate_centers:
+  - name: BAKER
+    distance_km: 1.2
+  - name: HAINES
+    distance_km: 17.62
+  - name: NO POWDER
+    distance_km: 28.83
+- country: US
+  region: OR
+  name: Bandon
+  lat: '43.1141'
+  long: "-124.4158"
+  nearby_rate_centers:
+  - name: BANDON
+    distance_km: 0.6
+  - name: COQUILLE
+    distance_km: 20.25
+  - name: LANGLOIS
+    distance_km: 22.23
+- country: US
+  region: OR
+  name: Banks
+  lat: '45.6150'
+  long: "-123.1071"
+  nearby_rate_centers:
+  - name: NORTH PL
+    distance_km: 9.29
+  - name: FOREST GRV
+    distance_km: 11.13
+  - name: HILLSBORO
+    distance_km: 14.44
+- country: US
+  region: OR
+  name: Barlow
+  lat: '45.2523'
+  long: "-122.7223"
+  nearby_rate_centers:
+  - name: CANBYNEEDY
+    distance_km: 1.98
+  - name: AURORA
+    distance_km: 3.61
+  - name: CHARBONNEU
+    distance_km: 5.22
+- country: US
+  region: OR
+  name: Barnesdale
+  lat: '45.6487'
+  long: "-123.8545"
+  nearby_rate_centers:
+  - name: ROCKAWAY
+    distance_km: 7.98
+  - name: NEHALEM
+    distance_km: 8.17
+  - name: GARIBALDI
+    distance_km: 11.24
+- country: US
+  region: OR
+  name: Barview
+  lat: '43.3470'
+  long: "-124.3073"
+  nearby_rate_centers:
+  - name: COOS BAY
+    distance_km: 7.57
+  - name: COQUILLE
+    distance_km: 21.67
+  - name: LAKESIDE
+    distance_km: 27.72
+- country: US
+  region: OR
+  name: Bay City
+  lat: '45.5216'
+  long: "-123.8858"
+  nearby_rate_centers:
+  - name: BAY CITY
+    distance_km: 0.48
+  - name: GARIBALDI
+    distance_km: 4.73
+  - name: TILLAMOOK
+    distance_km: 8.66
+- country: US
+  region: OR
+  name: Bayshore
+  lat: '44.4419'
+  long: "-124.0754"
+  nearby_rate_centers:
+  - name: WALDPORT
+    distance_km: 1.93
+  - name: YACHATS
+    distance_km: 14.81
+  - name: TIDEWATER
+    distance_km: 14.93
+- country: US
+  region: OR
+  name: Bayside Gardens
+  lat: '45.7143'
+  long: "-123.9165"
+  nearby_rate_centers:
+  - name: NEHALEM
+    distance_km: 1.44
+  - name: ROCKAWAY
+    distance_km: 11.89
+  - name: GARIBALDI
+    distance_km: 17.4
+- country: US
+  region: OR
+  name: Beatty
+  lat: '42.4419'
+  long: "-121.2716"
+  nearby_rate_centers:
+  - name: SPRAGUERIV
+    distance_km: 18.74
+  - name: BLY
+    distance_km: 19.6
+  - name: BONANZA
+    distance_km: 29.07
+- country: US
+  region: OR
+  name: Beaver
+  lat: '45.2781'
+  long: "-123.8222"
+  nearby_rate_centers:
+  - name: BEAVER
+    distance_km: 0.18
+  - name: CLOVERDALE
+    distance_km: 10.09
+  - name: PACIFIC CY
+    distance_km: 13.13
+- country: US
+  region: OR
+  name: Beaver Marsh
+  lat: '43.1364'
+  long: "-121.8042"
+  nearby_rate_centers:
+  - name: CHEMULT
+    distance_km: 9.31
+  - name: DIAMOND LK
+    distance_km: 26.17
+  - name: CRATERLAKE
+    distance_km: 38.11
+- country: US
+  region: OR
+  name: Beavercreek
+  lat: '45.2756'
+  long: "-122.5136"
+  nearby_rate_centers:
+  - name: BEAVER CRK
+    distance_km: 1.68
+  - name: REDLAND
+    distance_km: 7.12
+  - name: OREGONCITY
+    distance_km: 11.29
+- country: US
+  region: OR
+  name: Beaverton
+  lat: '45.4779'
+  long: "-122.8168"
+  nearby_rate_centers:
+  - name: BEAVERTON
+    distance_km: 0.95
+  - name: TIGARD
+    distance_km: 5.81
+  - name: SCHOLLS
+    distance_km: 12.35
+- country: US
+  region: OR
+  name: Bellfountain
+  lat: '44.3654'
+  long: "-123.3559"
+  nearby_rate_centers:
+  - name: BELLFONTAN
+    distance_km: 0.55
+  - name: MONROE
+    distance_km: 7.13
+  - name: HARRISBURG
+    distance_km: 18.4
+- country: US
+  region: OR
+  name: Bend
+  lat: '44.0563'
+  long: "-121.3095"
+  nearby_rate_centers:
+  - name: BEND
+    distance_km: 1.23
+  - name: REDMOND
+    distance_km: 25.84
+  - name: SISTERS
+    distance_km: 32.16
+- country: US
+  region: OR
+  name: Bethany
+  lat: '45.5614'
+  long: "-122.8370"
+  nearby_rate_centers:
+  - name: PORTLAND
+    distance_km: 7.0
+  - name: BEAVERTON
+    distance_km: 8.68
+  - name: BURLINGTON
+    distance_km: 9.89
+- country: US
+  region: OR
+  name: Biggs Junction
+  lat: '45.6640'
+  long: "-120.8390"
+  nearby_rate_centers:
+  - name: RUFUS
+    distance_km: 8.95
+  - name: WASCO
+    distance_km: 13.64
+  - name: MORO
+    distance_km: 21.76
+- country: US
+  region: OR
+  name: Black Butte Ranch
+  lat: '44.3578'
+  long: "-121.6588"
+  nearby_rate_centers:
+  - name: BLACKBUTTE
+    distance_km: 2.13
+  - name: CAMPSHERMN
+    distance_km: 2.13
+  - name: SISTERS
+    distance_km: 11.78
+  - name: THREE RVS
+    distance_km: 33.08
+- country: US
+  region: OR
+  name: Blodgett
+  lat: '44.5969'
+  long: "-123.5211"
+  nearby_rate_centers:
+  - name: BLODGETT
+    distance_km: 0.55
+  - name: SUMMIT
+    distance_km: 6.07
+  - name: PHILOMATH
+    distance_km: 14.11
+- country: US
+  region: OR
+  name: Bly
+  lat: '42.3916'
+  long: "-121.0435"
+  nearby_rate_centers:
+  - name: BLY
+    distance_km: 1.17
+  - name: BONANZA
+    distance_km: 36.8
+  - name: SPRAGUERIV
+    distance_km: 38.12
+- country: US
+  region: OR
+  name: Boardman
+  lat: '45.8378'
+  long: "-119.6937"
+  nearby_rate_centers:
+  - name: BOARDMAN
+    distance_km: 1.61
+  - name: UMATILLA
+    distance_km: 27.93
+  - name: HERMISTON
+    distance_km: 32.36
+- country: US
+  region: OR
+  name: Bonanza
+  lat: '42.2003'
+  long: "-121.4066"
+  nearby_rate_centers:
+  - name: BONANZA
+    distance_km: 0.25
+  - name: MALIN
+    distance_km: 21.24
+  - name: MERRILL
+    distance_km: 25.38
+- country: US
+  region: OR
+  name: Boring
+  lat: '45.4304'
+  long: "-122.3716"
+  nearby_rate_centers:
+  - name: SUNNYSIDE
+    distance_km: 8.83
+  - name: GRESHAM
+    distance_km: 9.33
+  - name: REDLAND
+    distance_km: 13.57
+- country: US
+  region: OR
+  name: Brogan
+  lat: '44.2475'
+  long: "-117.5187"
+  nearby_rate_centers:
+  - name: HUNTINGTON
+    distance_km: 22.49
+  - name: VALE
+    distance_km: 36.8
+  - name: DURKEE
+    distance_km: 37.48
+- country: US
+  region: OR
+  name: Brookings
+  lat: '42.0697'
+  long: "-124.3002"
+  nearby_rate_centers:
+  - name: BROOKINGS
+    distance_km: 2.9
+  - name: GOLD BEACH
+    distance_km: 38.67
+  - name: O BRIEN
+    distance_km: 49.44
+- country: US
+  region: OR
+  name: Brooks
+  lat: '45.0508'
+  long: "-122.9575"
+  nearby_rate_centers:
+  - name: GERVAIS
+    distance_km: 8.31
+  - name: SALEM
+    distance_km: 12.0
+  - name: GRAND IS
+    distance_km: 12.11
+- country: US
+  region: OR
+  name: Brownsville
+  lat: '44.3922'
+  long: "-122.9834"
+  nearby_rate_centers:
+  - name: BROWNSVL
+    distance_km: 0.24
+  - name: HALSEY
+    distance_km: 9.75
+  - name: SHEDD
+    distance_km: 12.64
+- country: US
+  region: OR
+  name: Bull Mountain
+  lat: '45.4125'
+  long: "-122.8320"
+  nearby_rate_centers:
+  - name: TIGARD
+    distance_km: 4.88
+  - name: SHERWOOD
+    distance_km: 5.92
+  - name: SCHOLLS
+    distance_km: 7.83
+- country: US
+  region: OR
+  name: Bunker Hill
+  lat: '43.3502'
+  long: "-124.2082"
+  nearby_rate_centers:
+  - name: COOS BAY
+    distance_km: 1.05
+  - name: COQUILLE
+    distance_km: 19.57
+  - name: LAKESIDE
+    distance_km: 25.1
+- country: US
+  region: OR
+  name: Burns
+  lat: '43.5883'
+  long: "-119.0612"
+  nearby_rate_centers:
+  - name: BURNS
+    distance_km: 1.07
+  - name: NO HARNEY
+    distance_km: 36.31
+  - name: SENECA
+    distance_km: 61.16
+- country: US
+  region: OR
+  name: Butte Falls
+  lat: '42.5414'
+  long: "-122.5691"
+  nearby_rate_centers:
+  - name: BUTTEFALLS
+    distance_km: 0.65
+  - name: SHADY COVE
+    distance_km: 21.25
+  - name: PROSPECT
+    distance_km: 24.24
+- country: US
+  region: OR
+  name: Butteville
+  lat: '45.2562'
+  long: "-122.8357"
+  nearby_rate_centers:
+  - name: CHARBONNEU
+    distance_km: 6.45
+  - name: AURORA
+    distance_km: 6.56
+  - name: CANBYNEEDY
+    distance_km: 10.8
+- country: US
+  region: OR
+  name: Camp Sherman
+  lat: '44.4493'
+  long: "-121.6496"
+  nearby_rate_centers:
+  - name: BLACKBUTTE
+    distance_km: 8.59
+  - name: CAMPSHERMN
+    distance_km: 8.59
+  - name: SISTERS
+    distance_km: 19.41
+  - name: THREE RVS
+    distance_km: 27.98
+- country: US
+  region: OR
+  name: Canby
+  lat: '45.2652'
+  long: "-122.6867"
+  nearby_rate_centers:
+  - name: CANBYNEEDY
+    distance_km: 1.3
+  - name: CHARBONNEU
+    distance_km: 6.7
+  - name: AURORA
+    distance_km: 6.72
+- country: US
+  region: OR
+  name: Cannon Beach
+  lat: '45.8884'
+  long: "-123.9603"
+  nearby_rate_centers:
+  - name: CANNON BCH
+    distance_km: 0.39
+  - name: SEASIDE
+    distance_km: 11.94
+  - name: NEHALEM
+    distance_km: 19.81
+- country: US
+  region: OR
+  name: Canyon City
+  lat: '44.3931'
+  long: "-118.9494"
+  nearby_rate_centers:
+  - name: JOHN DAY
+    distance_km: 2.68
+  - name: MT VERNON
+    distance_km: 12.91
+  - name: PRAIRIE CY
+    distance_km: 20.17
+- country: US
+  region: OR
+  name: Canyonville
+  lat: '42.9273'
+  long: "-123.2789"
+  nearby_rate_centers:
+  - name: CANYONVL
+    distance_km: 0.88
+  - name: RIDDLE
+    distance_km: 7.16
+  - name: MYRTLE CRK
+    distance_km: 10.78
+- country: US
+  region: OR
+  name: Cape Meares
+  lat: '45.5153'
+  long: "-123.9536"
+  nearby_rate_centers:
+  - name: GARIBALDI
+    distance_km: 5.49
+  - name: BAY CITY
+    distance_km: 5.73
+  - name: ROCKAWAY
+    distance_km: 10.43
+- country: US
+  region: OR
+  name: Carlton
+  lat: '45.2945'
+  long: "-123.1753"
+  nearby_rate_centers:
+  - name: CARLTON
+    distance_km: 0.72
+  - name: YAMHILL
+    distance_km: 5.28
+  - name: MCMINNVL
+    distance_km: 9.47
+- country: US
+  region: OR
+  name: Cascade Locks
+  lat: '45.6763'
+  long: "-121.8719"
+  nearby_rate_centers:
+  - name: CASCADELKS
+    distance_km: 2.07
+  - name: ODELL
+    distance_km: 25.73
+  - name: HOOD RIVER
+    distance_km: 27.17
+- country: US
+  region: OR
+  name: Cascadia
+  lat: '44.3930'
+  long: "-122.5027"
+  nearby_rate_centers:
+  - name: SWEET HOME
+    distance_km: 18.23
+  - name: BLUE RIVER
+    distance_km: 29.9
+  - name: LEABURG
+    distance_km: 34.39
+- country: US
+  region: OR
+  name: Cave Junction
+  lat: '42.1672'
+  long: "-123.6473"
+  nearby_rate_centers:
+  - name: CAVE JCT
+    distance_km: 0.57
+  - name: SELMA
+    distance_km: 12.32
+  - name: O BRIEN
+    distance_km: 14.02
+- country: US
+  region: OR
+  name: Cayuse
+  lat: '45.6765'
+  long: "-118.5736"
+  nearby_rate_centers:
+  - name: ATHENA
+    distance_km: 16.16
+  - name: PENDLETON
+    distance_km: 16.42
+  - name: HELIX
+    distance_km: 20.62
+- country: US
+  region: OR
+  name: Cedar Hills
+  lat: '45.5047'
+  long: "-122.8053"
+  nearby_rate_centers:
+  - name: BEAVERTON
+    distance_km: 2.19
+  - name: TIGARD
+    distance_km: 8.2
+  - name: PORTLAND
+    distance_km: 9.96
+- country: US
+  region: OR
+  name: Cedar Mill
+  lat: '45.5355'
+  long: "-122.8006"
+  nearby_rate_centers:
+  - name: BEAVERTON
+    distance_km: 5.63
+  - name: PORTLAND
+    distance_km: 6.74
+  - name: TIGARD
+    distance_km: 11.47
+- country: US
+  region: OR
+  name: Central Point
+  lat: '42.3764'
+  long: "-122.9111"
+  nearby_rate_centers:
+  - name: CENTRAL PT
+    distance_km: 0.46
+  - name: MEDFORD
+    distance_km: 5.6
+  - name: WHITE CITY
+    distance_km: 8.36
+- country: US
+  region: OR
+  name: Chemult
+  lat: '43.2150'
+  long: "-121.7850"
+  nearby_rate_centers:
+  - name: CHEMULT
+    distance_km: 0.47
+  - name: DIAMOND LK
+    distance_km: 29.2
+  - name: GILCHRIST
+    distance_km: 30.18
+- country: US
+  region: OR
+  name: Chenoweth
+  lat: '45.6206'
+  long: "-121.2363"
+  nearby_rate_centers:
+  - name: THE DALLES
+    distance_km: 4.61
+  - name: MOSIER
+    distance_km: 13.86
+  - name: DUFUR
+    distance_km: 19.65
+- country: US
+  region: OR
+  name: Cherry Grove
+  lat: '45.4508'
+  long: "-123.2482"
+  nearby_rate_centers:
+  - name: FOREST GRV
+    distance_km: 12.54
+  - name: YAMHILL
+    distance_km: 13.12
+  - name: CARLTON
+    distance_km: 18.43
+- country: US
+  region: OR
+  name: Cheshire
+  lat: '44.1901'
+  long: "-123.2834"
+  nearby_rate_centers:
+  - name: JUNCTIONCY
+    distance_km: 7.26
+  - name: HARRISBURG
+    distance_km: 12.63
+  - name: MONROE
+    distance_km: 14.07
+- country: US
+  region: OR
+  name: Chiloquin
+  lat: '42.5764'
+  long: "-121.8677"
+  nearby_rate_centers:
+  - name: CHILOQUIN
+    distance_km: 0.81
+  - name: FT KLAMATH
+    distance_km: 17.03
+  - name: ROCKYPOINT
+    distance_km: 23.5
+- country: US
+  region: OR
+  name: Clatskanie
+  lat: '46.1047'
+  long: "-123.2045"
+  nearby_rate_centers:
+  - name: CLATSKANIE
+    distance_km: 0.66
+  - name: WESTPORT
+    distance_km: 13.42
+  - name: RAINIER
+    distance_km: 20.89
+- country: US
+  region: OR
+  name: Cloverdale
+  lat: '45.2006'
+  long: "-123.8842"
+  nearby_rate_centers:
+  - name: CLOVERDALE
+    distance_km: 0.31
+  - name: PACIFIC CY
+    distance_km: 6.02
+  - name: BEAVER
+    distance_km: 9.72
+- country: US
+  region: OR
+  name: Coburg
+  lat: '44.1394'
+  long: "-123.0588"
+  nearby_rate_centers:
+  - name: EUGENE
+    distance_km: 10.1
+  - name: JUNCTIONCY
+    distance_km: 14.05
+  - name: MARCOLA
+    distance_km: 16.2
+- country: US
+  region: OR
+  name: Columbia City
+  lat: '45.8950'
+  long: "-122.8116"
+  nearby_rate_centers:
+  - name: ST HELENS
+    distance_km: 3.16
+  - name: SCAPPOOSE
+    distance_km: 16.12
+  - name: RAINIER
+    distance_km: 22.97
+- country: US
+  region: OR
+  name: Condon
+  lat: '45.2366'
+  long: "-120.1860"
+  nearby_rate_centers:
+  - name: CONDON
+    distance_km: 0.44
+  - name: FOSSIL
+    distance_km: 26.39
+  - name: IONE
+    distance_km: 40.7
+- country: US
+  region: OR
+  name: Coos Bay
+  lat: '43.3789'
+  long: "-124.2330"
+  nearby_rate_centers:
+  - name: COOS BAY
+    distance_km: 2.71
+  - name: LAKESIDE
+    distance_km: 22.35
+  - name: COQUILLE
+    distance_km: 23.03
+- country: US
+  region: OR
+  name: Coquille
+  lat: '43.1802'
+  long: "-124.1841"
+  nearby_rate_centers:
+  - name: COQUILLE
+    distance_km: 0.61
+  - name: MYRTLE PT
+    distance_km: 13.82
+  - name: COOS BAY
+    distance_km: 19.96
+- country: US
+  region: OR
+  name: Cornelius
+  lat: '45.5188'
+  long: "-123.0510"
+  nearby_rate_centers:
+  - name: FOREST GRV
+    distance_km: 5.08
+  - name: HILLSBORO
+    distance_km: 5.16
+  - name: NORTH PL
+    distance_km: 10.16
+- country: US
+  region: OR
+  name: Corvallis
+  lat: '44.5698'
+  long: "-123.2779"
+  nearby_rate_centers:
+  - name: CORVALLIS
+    distance_km: 0.87
+  - name: PHILOMATH
+    distance_km: 8.16
+  - name: ALBANY
+    distance_km: 15.77
+- country: US
+  region: OR
+  name: Cottage Grove
+  lat: '43.7960'
+  long: "-123.0573"
+  nearby_rate_centers:
+  - name: COTTAGEGRV
+    distance_km: 0.71
+  - name: CRESWELL
+    distance_km: 14.05
+  - name: LOWELL
+    distance_km: 25.62
+- country: US
+  region: OR
+  name: Cove
+  lat: '45.2964'
+  long: "-117.8102"
+  nearby_rate_centers:
+  - name: COVE
+    distance_km: 0.66
+  - name: UNION
+    distance_km: 10.8
+  - name: IMBLER
+    distance_km: 21.56
+- country: US
+  region: OR
+  name: Crabtree
+  lat: '44.6376'
+  long: "-122.9059"
+  nearby_rate_centers:
+  - name: SCIO
+    distance_km: 8.43
+  - name: JEFFERSON
+    distance_km: 11.68
+  - name: LEBANON
+    distance_km: 11.79
+- country: US
+  region: OR
+  name: Crane
+  lat: '43.4179'
+  long: "-118.5875"
+  nearby_rate_centers:
+  - name: NO HARNEY
+    distance_km: 6.44
+  - name: BURNS
+    distance_km: 41.64
+  - name: JUNTURA
+    distance_km: 54.58
+- country: US
+  region: OR
+  name: Crawfordsville
+  lat: '44.3561'
+  long: "-122.8649"
+  nearby_rate_centers:
+  - name: BROWNSVL
+    distance_km: 10.1
+  - name: SWEET HOME
+    distance_km: 11.2
+  - name: HALSEY
+    distance_km: 19.36
+- country: US
+  region: OR
+  name: Crescent
+  lat: '43.4550'
+  long: "-121.7013"
+  nearby_rate_centers:
+  - name: GILCHRIST
+    distance_km: 2.72
+  - name: CHEMULT
+    distance_km: 27.09
+  - name: LAPINE
+    distance_km: 28.06
+- country: US
+  region: OR
+  name: Crescent Lake
+  lat: '43.5097'
+  long: "-121.9354"
+  nearby_rate_centers:
+  - name: GILCHRIST
+    distance_km: 20.51
+  - name: CHEMULT
+    distance_km: 34.68
+  - name: LAPINE
+    distance_km: 38.48
+- country: US
+  region: OR
+  name: Creswell
+  lat: '43.9212'
+  long: "-123.0160"
+  nearby_rate_centers:
+  - name: CRESWELL
+    distance_km: 0.33
+  - name: COTTAGEGRV
+    distance_km: 15.02
+  - name: EUGENE
+    distance_km: 15.27
+- country: US
+  region: OR
+  name: Crooked River Ranch
+  lat: '44.4242'
+  long: "-121.2757"
+  nearby_rate_centers:
+  - name: THREE RVS
+    distance_km: 11.4
+  - name: CULVER
+    distance_km: 12.42
+  - name: REDMOND
+    distance_km: 19.31
+- country: US
+  region: OR
+  name: Culver
+  lat: '44.5234'
+  long: "-121.2110"
+  nearby_rate_centers:
+  - name: CULVER
+    distance_km: 0.26
+  - name: THREE RVS
+    distance_km: 8.05
+  - name: MADRAS
+    distance_km: 14.05
+- country: US
+  region: OR
+  name: Dallas
+  lat: '44.9221'
+  long: "-123.3130"
+  nearby_rate_centers:
+  - name: DALLAS
+    distance_km: 6.36
+  - name: FALLS CITY
+    distance_km: 11.13
+  - name: SHERIDAN
+    distance_km: 20.63
+- country: US
+  region: OR
+  name: Damascus
+  lat: '45.4233'
+  long: "-122.4436"
+  nearby_rate_centers:
+  - name: SUNNYSIDE
+    distance_km: 3.17
+  - name: GRESHAM
+    distance_km: 8.66
+  - name: REDLAND
+    distance_km: 10.21
+- country: US
+  region: OR
+  name: Days Creek
+  lat: '42.9705'
+  long: "-123.1658"
+  nearby_rate_centers:
+  - name: DAYS CREEK
+    distance_km: 1.0
+  - name: CANYONVL
+    distance_km: 9.88
+  - name: MYRTLE CRK
+    distance_km: 10.0
+- country: US
+  region: OR
+  name: Dayton
+  lat: '45.2198'
+  long: "-123.0781"
+  nearby_rate_centers:
+  - name: DAYTON
+    distance_km: 0.45
+  - name: ST PAUL
+    distance_km: 8.06
+  - name: MCMINNVL
+    distance_km: 8.94
+- country: US
+  region: OR
+  name: Dayville
+  lat: '44.4667'
+  long: "-119.5322"
+  nearby_rate_centers:
+  - name: DAYVILLE
+    distance_km: 0.19
+  - name: MT VERNON
+    distance_km: 34.09
+  - name: MONUMENT
+    distance_km: 40.88
+- country: US
+  region: OR
+  name: Deer Island
+  lat: '45.9330'
+  long: "-122.8498"
+  nearby_rate_centers:
+  - name: ST HELENS
+    distance_km: 8.12
+  - name: RAINIER
+    distance_km: 17.92
+  - name: SCAPPOOSE
+    distance_km: 19.67
+- country: US
+  region: OR
+  name: Depoe Bay
+  lat: '44.8091'
+  long: "-124.0599"
+  nearby_rate_centers:
+  - name: DEPOE BAY
+    distance_km: 0.68
+  - name: SILETZ
+    distance_km: 15.08
+  - name: LINCOLN CY
+    distance_km: 16.99
+- country: US
+  region: OR
+  name: Deschutes River Woods
+  lat: '43.9887'
+  long: "-121.3608"
+  nearby_rate_centers:
+  - name: BEND
+    distance_km: 9.79
+  - name: REDMOND
+    distance_km: 34.39
+  - name: SISTERS
+    distance_km: 36.76
+- country: US
+  region: OR
+  name: Detroit
+  lat: '44.7338'
+  long: "-122.1513"
+  nearby_rate_centers:
+  - name: DETROIT
+    distance_km: 1.22
+  - name: MILL CITY
+    distance_km: 26.52
+  - name: LYONS
+    distance_km: 37.24
+- country: US
+  region: OR
+  name: Dexter
+  lat: '43.9188'
+  long: "-122.8220"
+  nearby_rate_centers:
+  - name: LOWELL
+    distance_km: 3.1
+  - name: CRESWELL
+    distance_km: 15.79
+  - name: COTTAGEGRV
+    distance_km: 23.77
+- country: US
+  region: OR
+  name: Dillard
+  lat: '43.1082'
+  long: "-123.4262"
+  nearby_rate_centers:
+  - name: ROSEBURG
+    distance_km: 12.14
+  - name: MYRTLE CRK
+    distance_km: 16.12
+  - name: RIDDLE
+    distance_km: 18.21
+- country: US
+  region: OR
+  name: Dilley
+  lat: '45.4917'
+  long: "-123.1222"
+  nearby_rate_centers:
+  - name: FOREST GRV
+    distance_km: 2.64
+  - name: HILLSBORO
+    distance_km: 11.08
+  - name: NORTH PL
+    distance_km: 15.81
+- country: US
+  region: OR
+  name: Donald
+  lat: '45.2227'
+  long: "-122.8389"
+  nearby_rate_centers:
+  - name: AURORA
+    distance_km: 6.36
+  - name: WOODBURN
+    distance_km: 9.05
+  - name: CHARBONNEU
+    distance_km: 9.18
+- country: US
+  region: OR
+  name: Drain
+  lat: '43.6623'
+  long: "-123.3143"
+  nearby_rate_centers:
+  - name: DRAIN
+    distance_km: 0.6
+  - name: YONCALLA
+    distance_km: 8.16
+  - name: ELKTON
+    distance_km: 20.74
+- country: US
+  region: OR
+  name: Dufur
+  lat: '45.4531'
+  long: "-121.1288"
+  nearby_rate_centers:
+  - name: DUFUR
+    distance_km: 0.8
+  - name: THE DALLES
+    distance_km: 16.98
+  - name: TYGHVALLEY
+    distance_km: 23.03
+- country: US
+  region: OR
+  name: Dundee
+  lat: '45.2759'
+  long: "-123.0070"
+  nearby_rate_centers:
+  - name: NEWBERG
+    distance_km: 3.62
+  - name: ST PAUL
+    distance_km: 7.92
+  - name: DAYTON
+    distance_km: 8.31
+- country: US
+  region: OR
+  name: Dunes City
+  lat: '43.9079'
+  long: "-124.0985"
+  nearby_rate_centers:
+  - name: FLORENCE
+    distance_km: 6.37
+  - name: REEDSPORT
+    distance_km: 22.86
+  - name: MAPLETON
+    distance_km: 24.03
+- country: US
+  region: OR
+  name: Dunthorpe
+  lat: '45.4417'
+  long: "-122.6594"
+  nearby_rate_centers:
+  - name: LAKEOSWEGO
+    distance_km: 2.66
+  - name: CLACKAMAS
+    distance_km: 5.56
+  - name: TIGARD
+    distance_km: 9.24
+- country: US
+  region: OR
+  name: Durham
+  lat: '45.3941'
+  long: "-122.7580"
+  nearby_rate_centers:
+  - name: TIGARD
+    distance_km: 4.64
+  - name: STFRD-SNDY
+    distance_km: 6.54
+  - name: LAKEOSWEGO
+    distance_km: 7.56
+- country: US
+  region: OR
+  name: Eagle Crest
+  lat: '44.2614'
+  long: "-121.2995"
+  nearby_rate_centers:
+  - name: REDMOND
+    distance_km: 10.11
+  - name: SISTERS
+    distance_km: 19.62
+  - name: BEND
+    distance_km: 21.72
+- country: US
+  region: OR
+  name: Eagle Point
+  lat: '42.4677'
+  long: "-122.8016"
+  nearby_rate_centers:
+  - name: WHITE CITY
+    distance_km: 5.22
+  - name: CENTRAL PT
+    distance_km: 13.92
+  - name: MEDFORD
+    distance_km: 16.3
+- country: US
+  region: OR
+  name: Echo
+  lat: '45.7431'
+  long: "-119.1917"
+  nearby_rate_centers:
+  - name: ECHO
+    distance_km: 0.2
+  - name: STANFIELD
+    distance_km: 3.83
+  - name: HERMISTON
+    distance_km: 13.13
+- country: US
+  region: OR
+  name: Elgin
+  lat: '45.5646'
+  long: "-117.9213"
+  nearby_rate_centers:
+  - name: ELGIN
+    distance_km: 0.46
+  - name: IMBLER
+    distance_km: 12.46
+  - name: LA GRANDE
+    distance_km: 28.77
+- country: US
+  region: OR
+  name: Elkton
+  lat: '43.6378'
+  long: "-123.5687"
+  nearby_rate_centers:
+  - name: ELKTON
+    distance_km: 0.29
+  - name: SCOTTSBURG
+    distance_km: 18.56
+  - name: DRAIN
+    distance_km: 20.18
+- country: US
+  region: OR
+  name: Elmira
+  lat: '44.0700'
+  long: "-123.3588"
+  nearby_rate_centers:
+  - name: VENETA
+    distance_km: 2.24
+  - name: HORTON
+    distance_km: 19.92
+  - name: JUNCTIONCY
+    distance_km: 20.58
+- country: US
+  region: OR
+  name: Enterprise
+  lat: '45.4258'
+  long: "-117.2789"
+  nearby_rate_centers:
+  - name: ENTERPRISE
+    distance_km: 0.45
+  - name: JOSEPH
+    distance_km: 8.44
+  - name: LOSTINE
+    distance_km: 13.13
+- country: US
+  region: OR
+  name: Eola
+  lat: '44.9312'
+  long: "-123.1202"
+  nearby_rate_centers:
+  - name: SALEM
+    distance_km: 8.53
+  - name: DALLAS
+    distance_km: 12.01
+  - name: AMITY
+    distance_km: 21.41
+- country: US
+  region: OR
+  name: Estacada
+  lat: '45.2986'
+  long: "-122.3337"
+  nearby_rate_centers:
+  - name: ESTACADA
+    distance_km: 1.92
+  - name: REDLAND
+    distance_km: 12.18
+  - name: BEAVER CRK
+    distance_km: 15.58
+- country: US
+  region: OR
+  name: Eugene
+  lat: '44.0564'
+  long: "-123.1174"
+  nearby_rate_centers:
+  - name: EUGENE
+    distance_km: 2.91
+  - name: CRESWELL
+    distance_km: 17.15
+  - name: VENETA
+    distance_km: 18.62
+- country: US
+  region: OR
+  name: Fair Oaks
+  lat: '43.4109'
+  long: "-123.2194"
+  nearby_rate_centers:
+  - name: OAKLAND
+    distance_km: 6.53
+  - name: GLIDE
+    distance_km: 16.09
+  - name: YONCALLA
+    distance_km: 20.84
+- country: US
+  region: OR
+  name: Fairview
+  lat: '45.4583'
+  long: "-123.7927"
+  nearby_rate_centers:
+  - name: TILLAMOOK
+    distance_km: 3.93
+  - name: BAY CITY
+    distance_km: 10.08
+  - name: GARIBALDI
+    distance_km: 14.74
+- country: US
+  region: OR
+  name: Fairview
+  lat: '45.5469'
+  long: "-122.4390"
+  nearby_rate_centers:
+  - name: GRESHAM
+    distance_km: 5.1
+  - name: CORBETT
+    distance_km: 12.84
+  - name: SUNNYSIDE
+    distance_km: 14.34
+- country: US
+  region: OR
+  name: Falcon Heights
+  lat: '42.1314'
+  long: "-121.7566"
+  nearby_rate_centers:
+  - name: KLAMATHFLS
+    distance_km: 10.67
+  - name: MERRILL
+    distance_km: 17.58
+  - name: BONANZA
+    distance_km: 29.65
+- country: US
+  region: OR
+  name: Falls City
+  lat: '44.8648'
+  long: "-123.4372"
+  nearby_rate_centers:
+  - name: FALLS CITY
+    distance_km: 0.55
+  - name: DALLAS
+    distance_km: 14.42
+  - name: WILLAMINA
+    distance_km: 23.64
+- country: US
+  region: OR
+  name: Florence
+  lat: '43.9916'
+  long: "-124.1063"
+  nearby_rate_centers:
+  - name: FLORENCE
+    distance_km: 3.0
+  - name: MAPLETON
+    distance_km: 20.59
+  - name: DEADWOOD
+    distance_km: 29.88
+- country: US
+  region: OR
+  name: Foots Creek
+  lat: '42.3845'
+  long: "-123.1408"
+  nearby_rate_centers:
+  - name: ROGUERIVER
+    distance_km: 5.6
+  - name: GOLD HILL
+    distance_km: 9.83
+  - name: PROVOTMPHY
+    distance_km: 13.07
+- country: US
+  region: OR
+  name: Forest Grove
+  lat: '45.5243'
+  long: "-123.1097"
+  nearby_rate_centers:
+  - name: FOREST GRV
+    distance_km: 1.14
+  - name: HILLSBORO
+    distance_km: 9.76
+  - name: NORTH PL
+    distance_km: 12.53
+- country: US
+  region: OR
+  name: Fort Hill
+  lat: '45.0670'
+  long: "-123.5605"
+  nearby_rate_centers:
+  - name: GRANDRONDE
+    distance_km: 3.92
+  - name: WILLAMINA
+    distance_km: 6.08
+  - name: SHERIDAN
+    distance_km: 13.26
+- country: US
+  region: OR
+  name: Fort Klamath
+  lat: '42.7048'
+  long: "-121.9943"
+  nearby_rate_centers:
+  - name: FT KLAMATH
+    distance_km: 0.65
+  - name: CHILOQUIN
+    distance_km: 18.17
+  - name: CRATERLAKE
+    distance_km: 23.51
+- country: US
+  region: OR
+  name: Fossil
+  lat: '44.9981'
+  long: "-120.2146"
+  nearby_rate_centers:
+  - name: FOSSIL
+    distance_km: 0.5
+  - name: CONDON
+    distance_km: 27.06
+  - name: SPRAY
+    distance_km: 38.37
+- country: US
+  region: OR
+  name: Four Corners
+  lat: '44.9290'
+  long: "-122.9732"
+  nearby_rate_centers:
+  - name: SALEM
+    distance_km: 4.13
+  - name: AUMSVLTRNR
+    distance_km: 12.85
+  - name: SILVERTON
+    distance_km: 17.29
+- country: US
+  region: OR
+  name: Garden Home-Whitford
+  lat: '45.4642'
+  long: "-122.7588"
+  nearby_rate_centers:
+  - name: TIGARD
+    distance_km: 3.69
+  - name: BEAVERTON
+    distance_km: 4.72
+  - name: LAKEOSWEGO
+    distance_km: 8.74
+- country: US
+  region: OR
+  name: Gardiner
+  lat: '43.7327'
+  long: "-124.1068"
+  nearby_rate_centers:
+  - name: REEDSPORT
+    distance_km: 3.4
+  - name: LAKESIDE
+    distance_km: 18.28
+  - name: FLORENCE
+    distance_km: 25.86
+- country: US
+  region: OR
+  name: Garibaldi
+  lat: '45.5607'
+  long: "-123.9112"
+  nearby_rate_centers:
+  - name: GARIBALDI
+    distance_km: 0.6
+  - name: BAY CITY
+    distance_km: 4.66
+  - name: ROCKAWAY
+    distance_km: 5.77
+- country: US
+  region: OR
+  name: Gaston
+  lat: '45.4348'
+  long: "-123.1449"
+  nearby_rate_centers:
+  - name: FOREST GRV
+    distance_km: 9.21
+  - name: YAMHILL
+    distance_km: 10.84
+  - name: HILLSBORO
+    distance_km: 15.5
+- country: US
+  region: OR
+  name: Gates
+  lat: '44.7561'
+  long: "-122.4201"
+  nearby_rate_centers:
+  - name: MILL CITY
+    distance_km: 5.31
+  - name: LYONS
+    distance_km: 15.87
+  - name: DETROIT
+    distance_km: 20.89
+- country: US
+  region: OR
+  name: Gearhart
+  lat: '46.0289'
+  long: "-123.9173"
+  nearby_rate_centers:
+  - name: SEASIDE
+    distance_km: 4.03
+  - name: WARRENTON
+    distance_km: 15.23
+  - name: CANNON BCH
+    distance_km: 15.69
+- country: US
+  region: OR
+  name: Gervais
+  lat: '45.1081'
+  long: "-122.8964"
+  nearby_rate_centers:
+  - name: GERVAIS
+    distance_km: 0.57
+  - name: WOODBURN
+    distance_km: 4.8
+  - name: MOUNTANGEL
+    distance_km: 8.7
+- country: US
+  region: OR
+  name: Gilchrist
+  lat: '43.4770'
+  long: "-121.6900"
+  nearby_rate_centers:
+  - name: GILCHRIST
+    distance_km: 0.38
+  - name: LAPINE
+    distance_km: 25.52
+  - name: CHEMULT
+    distance_km: 29.68
+- country: US
+  region: OR
+  name: Gladstone
+  lat: '45.3864'
+  long: "-122.5934"
+  nearby_rate_centers:
+  - name: CLACKAMAS
+    distance_km: 3.55
+  - name: OREGONCITY
+    distance_km: 4.06
+  - name: LAKEOSWEGO
+    distance_km: 6.81
+- country: US
+  region: OR
+  name: Glasgow
+  lat: '43.4371'
+  long: "-124.1961"
+  nearby_rate_centers:
+  - name: COOS BAY
+    distance_km: 8.89
+  - name: LAKESIDE
+    distance_km: 15.4
+  - name: COQUILLE
+    distance_km: 29.14
+- country: US
+  region: OR
+  name: Glendale
+  lat: '42.7381'
+  long: "-123.4294"
+  nearby_rate_centers:
+  - name: GLENDALE
+    distance_km: 1.4
+  - name: WOLF CREEK
+    distance_km: 6.1
+  - name: AZALEA
+    distance_km: 15.65
+- country: US
+  region: OR
+  name: Glide
+  lat: '43.3029'
+  long: "-123.0666"
+  nearby_rate_centers:
+  - name: GLIDE
+    distance_km: 1.99
+  - name: OAKLAND
+    distance_km: 22.7
+  - name: ROSEBURG
+    distance_km: 25.4
+- country: US
+  region: OR
+  name: Gold Beach
+  lat: '42.3974'
+  long: "-124.4171"
+  nearby_rate_centers:
+  - name: GOLD BEACH
+    distance_km: 1.0
+  - name: PORTORFORD
+    distance_km: 38.72
+  - name: BROOKINGS
+    distance_km: 40.29
+- country: US
+  region: OR
+  name: Gold Hill
+  lat: '42.4358'
+  long: "-123.0527"
+  nearby_rate_centers:
+  - name: GOLD HILL
+    distance_km: 1.01
+  - name: ROGUERIVER
+    distance_km: 9.27
+  - name: CENTRAL PT
+    distance_km: 13.02
+- country: US
+  region: OR
+  name: Gopher Flats
+  lat: '45.6658'
+  long: "-118.7225"
+  nearby_rate_centers:
+  - name: PENDLETON
+    distance_km: 4.81
+  - name: HELIX
+    distance_km: 21.27
+  - name: PILOT ROCK
+    distance_km: 22.63
+- country: US
+  region: OR
+  name: Government Camp
+  lat: '45.3022'
+  long: "-121.7527"
+  nearby_rate_centers:
+  - name: GOVENTCAMP
+    distance_km: 0.19
+  - name: HOOD LAND
+    distance_km: 16.75
+  - name: PARKDALE
+    distance_km: 27.19
+- country: US
+  region: OR
+  name: Grand Ronde
+  lat: '45.0739'
+  long: "-123.6211"
+  nearby_rate_centers:
+  - name: GRANDRONDE
+    distance_km: 1.99
+  - name: WILLAMINA
+    distance_km: 10.77
+  - name: SHERIDAN
+    distance_km: 17.77
+- country: US
+  region: OR
+  name: Granite
+  lat: '44.8100'
+  long: "-118.4187"
+  nearby_rate_centers:
+  - name: GRANITE
+    distance_km: 18.65
+  - name: SUMPTER
+    distance_km: 18.65
+  - name: BATES
+    distance_km: 26.17
+  - name: HAINES
+    distance_km: 39.84
+- country: US
+  region: OR
+  name: Grants Pass
+  lat: '42.4333'
+  long: "-123.3317"
+  nearby_rate_centers:
+  - name: GRANTSPASS
+    distance_km: 1.63
+  - name: ROGUERIVER
+    distance_km: 13.64
+  - name: PROVOTMPHY
+    distance_km: 18.7
+- country: US
+  region: OR
+  name: Grass Valley
+  lat: '45.3591'
+  long: "-120.7844"
+  nearby_rate_centers:
+  - name: GRASS VLY
+    distance_km: 1.19
+  - name: MORO
+    distance_km: 14.28
+  - name: WASCO
+    distance_km: 26.49
+- country: US
+  region: OR
+  name: Green
+  lat: '43.1509'
+  long: "-123.3854"
+  nearby_rate_centers:
+  - name: ROSEBURG
+    distance_km: 6.37
+  - name: MYRTLE CRK
+    distance_km: 17.2
+  - name: RIDDLE
+    distance_km: 22.24
+- country: US
+  region: OR
+  name: Green Meadows
+  lat: '45.6131'
+  long: "-118.8000"
+  nearby_rate_centers:
+  - name: PENDLETON
+    distance_km: 5.96
+  - name: PILOT ROCK
+    distance_km: 15.34
+  - name: HELIX
+    distance_km: 28.71
+- country: US
+  region: OR
+  name: Greenhorn
+  lat: '44.7087'
+  long: "-118.4968"
+  nearby_rate_centers:
+  - name: BATES
+    distance_km: 13.93
+  - name: GRANITE
+    distance_km: 23.6
+  - name: SUMPTER
+    distance_km: 23.6
+  - name: PRAIRIE CY
+    distance_km: 33.25
+- country: US
+  region: OR
+  name: Gresham
+  lat: '45.5021'
+  long: "-122.4413"
+  nearby_rate_centers:
+  - name: GRESHAM
+    distance_km: 0.41
+  - name: SUNNYSIDE
+    distance_km: 9.52
+  - name: CORBETT
+    distance_km: 13.36
+- country: US
+  region: OR
+  name: Haines
+  lat: '44.9123'
+  long: "-117.9396"
+  nearby_rate_centers:
+  - name: HAINES
+    distance_km: 0.46
+  - name: NO POWDER
+    distance_km: 12.58
+  - name: BAKER
+    distance_km: 16.36
+- country: US
+  region: OR
+  name: Halfway
+  lat: '44.8781'
+  long: "-117.1097"
+  nearby_rate_centers:
+  - name: HALFWAY
+    distance_km: 0.57
+  - name: RICHLAND
+    distance_km: 13.04
+  - name: OXBOW
+    distance_km: 22.54
+- country: US
+  region: OR
+  name: Halsey
+  lat: '44.3827'
+  long: "-123.1110"
+  nearby_rate_centers:
+  - name: HALSEY
+    distance_km: 0.44
+  - name: SHEDD
+    distance_km: 8.67
+  - name: BROWNSVL
+    distance_km: 10.23
+- country: US
+  region: OR
+  name: Happy Valley
+  lat: '45.4358'
+  long: "-122.5081"
+  nearby_rate_centers:
+  - name: SUNNYSIDE
+    distance_km: 2.43
+  - name: GRESHAM
+    distance_km: 9.17
+  - name: CLACKAMAS
+    distance_km: 11.11
+- country: US
+  region: OR
+  name: Harbor
+  lat: '42.0385'
+  long: "-124.2516"
+  nearby_rate_centers:
+  - name: BROOKINGS
+    distance_km: 2.45
+  - name: GOLD BEACH
+    distance_km: 43.14
+  - name: O BRIEN
+    distance_km: 45.39
+- country: US
+  region: OR
+  name: Harper
+  lat: '43.8570'
+  long: "-117.6265"
+  nearby_rate_centers:
+  - name: HARPER
+    distance_km: 2.08
+  - name: VALE
+    distance_km: 33.75
+  - name: JUNTURA
+    distance_km: 38.72
+- country: US
+  region: OR
+  name: Harrisburg
+  lat: '44.2719'
+  long: "-123.1656"
+  nearby_rate_centers:
+  - name: HARRISBURG
+    distance_km: 0.45
+  - name: JUNCTIONCY
+    distance_km: 6.83
+  - name: MONROE
+    distance_km: 11.66
+- country: US
+  region: OR
+  name: Hayesville
+  lat: '44.9793'
+  long: "-122.9738"
+  nearby_rate_centers:
+  - name: SALEM
+    distance_km: 4.55
+  - name: SILVERTON
+    distance_km: 15.33
+  - name: GERVAIS
+    distance_km: 15.76
+- country: US
+  region: OR
+  name: Hebo
+  lat: '45.2260'
+  long: "-123.8586"
+  nearby_rate_centers:
+  - name: CLOVERDALE
+    distance_km: 3.64
+  - name: BEAVER
+    distance_km: 6.29
+  - name: PACIFIC CY
+    distance_km: 8.11
+- country: US
+  region: OR
+  name: Heceta Beach
+  lat: '44.0248'
+  long: "-124.1208"
+  nearby_rate_centers:
+  - name: FLORENCE
+    distance_km: 6.86
+  - name: MAPLETON
+    distance_km: 21.19
+  - name: DEADWOOD
+    distance_km: 29.92
+- country: US
+  region: OR
+  name: Helix
+  lat: '45.8507'
+  long: "-118.6591"
+  nearby_rate_centers:
+  - name: HELIX
+    distance_km: 0.15
+  - name: ATHENA
+    distance_km: 14.01
+  - name: MILTONFWTR
+    distance_km: 22.55
+- country: US
+  region: OR
+  name: Heppner
+  lat: '45.3547'
+  long: "-119.5560"
+  nearby_rate_centers:
+  - name: HEPPNER
+    distance_km: 0.62
+  - name: LEXINGTON
+    distance_km: 14.0
+  - name: IONE
+    distance_km: 26.56
+- country: US
+  region: OR
+  name: Hermiston
+  lat: '45.8326'
+  long: "-119.2854"
+  nearby_rate_centers:
+  - name: HERMISTON
+    distance_km: 1.6
+  - name: STANFIELD
+    distance_km: 8.72
+  - name: UMATILLA
+    distance_km: 10.55
+- country: US
+  region: OR
+  name: Hillsboro
+  lat: '45.5273'
+  long: "-122.9360"
+  nearby_rate_centers:
+  - name: HILLSBORO
+    distance_km: 3.96
+  - name: NORTH PL
+    distance_km: 9.05
+  - name: BEAVERTON
+    distance_km: 10.78
+- country: US
+  region: OR
+  name: Hines
+  lat: '43.5569'
+  long: "-119.0803"
+  nearby_rate_centers:
+  - name: BURNS
+    distance_km: 3.56
+  - name: NO HARNEY
+    distance_km: 36.23
+  - name: SENECA
+    distance_km: 64.83
+- country: US
+  region: OR
+  name: Holley
+  lat: '44.3490'
+  long: "-122.7855"
+  nearby_rate_centers:
+  - name: SWEET HOME
+    distance_km: 6.2
+  - name: BROWNSVL
+    distance_km: 16.33
+  - name: MARCOLA
+    distance_km: 21.28
+- country: US
+  region: OR
+  name: Hood River
+  lat: '45.7092'
+  long: "-121.5260"
+  nearby_rate_centers:
+  - name: HOOD RIVER
+    distance_km: 0.09
+  - name: ODELL
+    distance_km: 9.55
+  - name: MOSIER
+    distance_km: 10.91
+- country: US
+  region: OR
+  name: Hubbard
+  lat: '45.1819'
+  long: "-122.8072"
+  nearby_rate_centers:
+  - name: WOODBURN
+    distance_km: 5.99
+  - name: AURORA
+    distance_km: 6.78
+  - name: MONITOR
+    distance_km: 10.26
+- country: US
+  region: OR
+  name: Huntington
+  lat: '44.3501'
+  long: "-117.2668"
+  nearby_rate_centers:
+  - name: HUNTINGTON
+    distance_km: 1.07
+  - name: CONNER CRK
+    distance_km: 26.18
+  - name: DURKEE
+    distance_km: 29.97
+- country: US
+  region: OR
+  name: Idanha
+  lat: '44.7029'
+  long: "-122.0843"
+  nearby_rate_centers:
+  - name: DETROIT
+    distance_km: 6.4
+  - name: MILL CITY
+    distance_km: 32.18
+  - name: LYONS
+    distance_km: 43.01
+- country: US
+  region: OR
+  name: Idaville
+  lat: '45.5098'
+  long: "-123.8633"
+  nearby_rate_centers:
+  - name: BAY CITY
+    distance_km: 2.14
+  - name: GARIBALDI
+    distance_km: 6.81
+  - name: TILLAMOOK
+    distance_km: 6.85
+- country: US
+  region: OR
+  name: Imbler
+  lat: '45.4621'
+  long: "-117.9632"
+  nearby_rate_centers:
+  - name: IMBLER
+    distance_km: 0.6
+  - name: ELGIN
+    distance_km: 12.16
+  - name: LA GRANDE
+    distance_km: 17.33
+- country: US
+  region: OR
+  name: Independence
+  lat: '44.8547'
+  long: "-123.1952"
+  nearby_rate_centers:
+  - name: DALLAS
+    distance_km: 5.64
+  - name: SALEM
+    distance_km: 17.74
+  - name: FALLS CITY
+    distance_km: 18.72
+- country: US
+  region: OR
+  name: Ione
+  lat: '45.5029'
+  long: "-119.8220"
+  nearby_rate_centers:
+  - name: IONE
+    distance_km: 0.35
+  - name: LEXINGTON
+    distance_km: 12.68
+  - name: HEPPNER
+    distance_km: 25.98
+- country: US
+  region: OR
+  name: Irrigon
+  lat: '45.8958'
+  long: "-119.4883"
+  nearby_rate_centers:
+  - name: UMATILLA
+    distance_km: 10.87
+  - name: HERMISTON
+    distance_km: 17.35
+  - name: BOARDMAN
+    distance_km: 18.73
+- country: US
+  region: OR
+  name: Island City
+  lat: '45.3358'
+  long: "-118.0492"
+  nearby_rate_centers:
+  - name: LA GRANDE
+    distance_km: 3.41
+  - name: IMBLER
+    distance_km: 14.98
+  - name: COVE
+    distance_km: 18.58
+- country: US
+  region: OR
+  name: Jacksonville
+  lat: '42.3127'
+  long: "-122.9692"
+  nearby_rate_centers:
+  - name: JACKSONVL
+    distance_km: 0.28
+  - name: MEDFORD
+    distance_km: 7.81
+  - name: CENTRAL PT
+    distance_km: 8.23
+- country: US
+  region: OR
+  name: Jasper
+  lat: '43.9892'
+  long: "-122.9100"
+  nearby_rate_centers:
+  - name: CRESWELL
+    distance_km: 11.69
+  - name: LOWELL
+    distance_km: 13.05
+  - name: EUGENE
+    distance_km: 15.33
+- country: US
+  region: OR
+  name: Jeffers Gardens
+  lat: '46.1518'
+  long: "-123.8520"
+  nearby_rate_centers:
+  - name: ASTORIA
+    distance_km: 3.76
+  - name: WARRENTON
+    distance_km: 6.0
+  - name: SEASIDE
+    distance_km: 18.56
+- country: US
+  region: OR
+  name: Jefferson
+  lat: '44.7171'
+  long: "-123.0068"
+  nearby_rate_centers:
+  - name: JEFFERSON
+    distance_km: 0.53
+  - name: ALBANY
+    distance_km: 11.9
+  - name: SCIO
+    distance_km: 12.75
+- country: US
+  region: OR
+  name: Jennings Lodge
+  lat: '45.3927'
+  long: "-122.6152"
+  nearby_rate_centers:
+  - name: CLACKAMAS
+    distance_km: 1.75
+  - name: OREGONCITY
+    distance_km: 4.59
+  - name: LAKEOSWEGO
+    distance_km: 5.0
+- country: US
+  region: OR
+  name: John Day
+  lat: '44.4181'
+  long: "-118.9563"
+  nearby_rate_centers:
+  - name: JOHN DAY
+    distance_km: 0.75
+  - name: MT VERNON
+    distance_km: 12.07
+  - name: PRAIRIE CY
+    distance_km: 20.0
+- country: US
+  region: OR
+  name: Johnson City
+  lat: '45.4046'
+  long: "-122.5794"
+  nearby_rate_centers:
+  - name: CLACKAMAS
+    distance_km: 4.68
+  - name: OREGONCITY
+    distance_km: 6.34
+  - name: LAKEOSWEGO
+    distance_km: 7.06
+- country: US
+  region: OR
+  name: Jordan Valley
+  lat: '42.9793'
+  long: "-117.0574"
+  nearby_rate_centers:
+  - name: JORDAN VLY
+    distance_km: 1.53
+  - name: RIDGEVIEW
+    distance_km: 72.77
+  - name: ADRIAN
+    distance_km: 83.79
+- country: US
+  region: OR
+  name: Joseph
+  lat: '45.3525'
+  long: "-117.2304"
+  nearby_rate_centers:
+  - name: JOSEPH
+    distance_km: 0.55
+  - name: ENTERPRISE
+    distance_km: 8.75
+  - name: LOSTINE
+    distance_km: 21.05
+- country: US
+  region: OR
+  name: Junction City
+  lat: '44.2068'
+  long: "-123.2102"
+  nearby_rate_centers:
+  - name: JUNCTIONCY
+    distance_km: 1.29
+  - name: HARRISBURG
+    distance_km: 7.61
+  - name: MONROE
+    distance_km: 14.04
+- country: US
+  region: OR
+  name: Juniper Canyon
+  lat: '44.2027'
+  long: "-120.7550"
+  nearby_rate_centers:
+  - name: PRINEVILLE
+    distance_km: 12.91
+  - name: REDMOND
+    distance_km: 34.05
+  - name: BEND
+    distance_km: 46.25
+- country: US
+  region: OR
+  name: Juntura
+  lat: '43.7487'
+  long: "-118.0789"
+  nearby_rate_centers:
+  - name: JUNTURA
+    distance_km: 0.48
+  - name: HARPER
+    distance_km: 40.22
+  - name: NO HARNEY
+    distance_km: 58.63
+- country: US
+  region: OR
+  name: Keizer
+  lat: '45.0028'
+  long: "-123.0243"
+  nearby_rate_centers:
+  - name: SALEM
+    distance_km: 5.8
+  - name: GRAND IS
+    distance_km: 14.89
+  - name: GERVAIS
+    distance_km: 15.78
+- country: US
+  region: OR
+  name: Keno
+  lat: '42.1309'
+  long: "-121.9280"
+  nearby_rate_centers:
+  - name: KLAMATHFLS
+    distance_km: 17.09
+  - name: MERRILL
+    distance_km: 29.52
+  - name: FISH LAKE
+    distance_km: 36.02
+- country: US
+  region: OR
+  name: Kerby
+  lat: '42.2045'
+  long: "-123.6490"
+  nearby_rate_centers:
+  - name: CAVE JCT
+    distance_km: 4.21
+  - name: SELMA
+    distance_km: 8.41
+  - name: O BRIEN
+    distance_km: 17.96
+- country: US
+  region: OR
+  name: King City
+  lat: '45.4012'
+  long: "-122.8069"
+  nearby_rate_centers:
+  - name: TIGARD
+    distance_km: 4.28
+  - name: SHERWOOD
+    distance_km: 5.41
+  - name: BEAVERTON
+    distance_km: 9.37
+- country: US
+  region: OR
+  name: Kings Valley
+  lat: '44.6985'
+  long: "-123.4269"
+  nearby_rate_centers:
+  - name: BLODGETT
+    distance_km: 13.02
+  - name: SUMMIT
+    distance_km: 13.81
+  - name: FALLS CITY
+    distance_km: 18.85
+- country: US
+  region: OR
+  name: Kirkpatrick
+  lat: '45.6796'
+  long: "-118.6499"
+  nearby_rate_centers:
+  - name: PENDLETON
+    distance_km: 10.57
+  - name: ATHENA
+    distance_km: 19.09
+  - name: HELIX
+    distance_km: 19.19
+- country: US
+  region: OR
+  name: Klamath Falls
+  lat: '42.2195'
+  long: "-121.7754"
+  nearby_rate_centers:
+  - name: KLAMATHFLS
+    distance_km: 1.14
+  - name: MERRILL
+    distance_km: 26.12
+  - name: BONANZA
+    distance_km: 30.21
+- country: US
+  region: OR
+  name: Knappa
+  lat: '46.1694'
+  long: "-123.5822"
+  nearby_rate_centers:
+  - name: KNAPPA
+    distance_km: 1.42
+  - name: WESTPORT
+    distance_km: 16.56
+  - name: ASTORIA
+    distance_km: 19.9
+- country: US
+  region: OR
+  name: La Grande
+  lat: '45.3242'
+  long: "-118.0865"
+  nearby_rate_centers:
+  - name: LA GRANDE
+    distance_km: 1.36
+  - name: IMBLER
+    distance_km: 17.53
+  - name: COVE
+    distance_km: 21.24
+- country: US
+  region: OR
+  name: La Pine
+  lat: '43.6869'
+  long: "-121.4853"
+  nearby_rate_centers:
+  - name: LAPINE
+    distance_km: 3.06
+  - name: GILCHRIST
+    distance_km: 28.4
+  - name: BEND
+    distance_km: 44.64
+- country: US
+  region: OR
+  name: Labish Village
+  lat: '45.0191'
+  long: "-122.9736"
+  nearby_rate_centers:
+  - name: SALEM
+    distance_km: 8.26
+  - name: GERVAIS
+    distance_km: 11.89
+  - name: GRAND IS
+    distance_km: 14.39
+- country: US
+  region: OR
+  name: Lacomb
+  lat: '44.5844'
+  long: "-122.7417"
+  nearby_rate_centers:
+  - name: LEBANON
+    distance_km: 14.57
+  - name: SCIO
+    distance_km: 15.41
+  - name: SWEET HOME
+    distance_km: 21.66
+- country: US
+  region: OR
+  name: Lafayette
+  lat: '45.2463'
+  long: "-123.1115"
+  nearby_rate_centers:
+  - name: DAYTON
+    distance_km: 4.37
+  - name: MCMINNVL
+    distance_km: 7.44
+  - name: CARLTON
+    distance_km: 7.54
+- country: US
+  region: OR
+  name: Lake Oswego
+  lat: '45.4129'
+  long: "-122.7004"
+  nearby_rate_centers:
+  - name: LAKEOSWEGO
+    distance_km: 2.63
+  - name: CLACKAMAS
+    distance_km: 5.34
+  - name: TIGARD
+    distance_km: 6.43
+- country: US
+  region: OR
+  name: Lakeside
+  lat: '43.5795'
+  long: "-124.1733"
+  nearby_rate_centers:
+  - name: LAKESIDE
+    distance_km: 0.97
+  - name: REEDSPORT
+    distance_km: 14.8
+  - name: COOS BAY
+    distance_km: 24.82
+- country: US
+  region: OR
+  name: Lakeview
+  lat: '42.1919'
+  long: "-120.3527"
+  nearby_rate_centers:
+  - name: LAKEVIEW
+    distance_km: 0.92
+  - name: PAISLEY
+    distance_km: 57.67
+  - name: BLY
+    distance_km: 61.08
+- country: US
+  region: OR
+  name: Langlois
+  lat: '42.9259'
+  long: "-124.4532"
+  nearby_rate_centers:
+  - name: LANGLOIS
+    distance_km: 1.21
+  - name: BANDON
+    distance_km: 20.57
+  - name: PORTORFORD
+    distance_km: 20.85
+- country: US
+  region: OR
+  name: Lebanon
+  lat: '44.5317'
+  long: "-122.9071"
+  nearby_rate_centers:
+  - name: LEBANON
+    distance_km: 0.23
+  - name: BROWNSVL
+    distance_km: 16.85
+  - name: SHEDD
+    distance_km: 17.96
+- country: US
+  region: OR
+  name: Lexington
+  lat: '45.4462'
+  long: "-119.6879"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance_km: 0.48
+  - name: IONE
+    distance_km: 12.31
+  - name: HEPPNER
+    distance_km: 13.92
+- country: US
+  region: OR
+  name: Lincoln Beach
+  lat: '44.8746'
+  long: "-124.0310"
+  nearby_rate_centers:
+  - name: DEPOE BAY
+    distance_km: 7.75
+  - name: LINCOLN CY
+    distance_km: 9.46
+  - name: SILETZ
+    distance_km: 19.5
+- country: US
+  region: OR
+  name: Lincoln City
+  lat: '44.9751'
+  long: "-124.0072"
+  nearby_rate_centers:
+  - name: LINCOLN CY
+    distance_km: 2.02
+  - name: DEPOE BAY
+    distance_km: 19.07
+  - name: PACIFIC CY
+    distance_km: 26.44
+- country: US
+  region: OR
+  name: Lonerock
+  lat: '45.0887'
+  long: "-119.8841"
+  nearby_rate_centers:
+  - name: FOSSIL
+    distance_km: 27.35
+  - name: CONDON
+    distance_km: 29.07
+  - name: SPRAY
+    distance_km: 30.21
+- country: US
+  region: OR
+  name: Long Creek
+  lat: '44.7142'
+  long: "-119.1042"
+  nearby_rate_centers:
+  - name: LONG CREEK
+    distance_km: 1.01
+  - name: MONUMENT
+    distance_km: 28.05
+  - name: MT VERNON
+    distance_km: 32.96
+- country: US
+  region: OR
+  name: Lookingglass
+  lat: '43.1848'
+  long: "-123.4999"
+  nearby_rate_centers:
+  - name: ROSEBURG
+    distance_km: 12.51
+  - name: CAMAS VLY
+    distance_km: 21.72
+  - name: MYRTLE CRK
+    distance_km: 26.17
+- country: US
+  region: OR
+  name: Lostine
+  lat: '45.4868'
+  long: "-117.4296"
+  nearby_rate_centers:
+  - name: LOSTINE
+    distance_km: 0.55
+  - name: WALLOWA
+    distance_km: 11.37
+  - name: ENTERPRISE
+    distance_km: 13.99
+- country: US
+  region: OR
+  name: Lowell
+  lat: '43.9208'
+  long: "-122.7819"
+  nearby_rate_centers:
+  - name: LOWELL
+    distance_km: 0.66
+  - name: CRESWELL
+    distance_km: 19.0
+  - name: LEABURG
+    distance_km: 22.64
+- country: US
+  region: OR
+  name: Lyons
+  lat: '44.7777'
+  long: "-122.6098"
+  nearby_rate_centers:
+  - name: LYONS
+    distance_km: 0.84
+  - name: MILL CITY
+    distance_km: 10.26
+  - name: STAYTON
+    distance_km: 14.53
+- country: US
+  region: OR
+  name: Madras
+  lat: '44.6483'
+  long: "-121.1390"
+  nearby_rate_centers:
+  - name: MADRAS
+    distance_km: 2.07
+  - name: CULVER
+    distance_km: 14.77
+  - name: THREE RVS
+    distance_km: 19.54
+- country: US
+  region: OR
+  name: Malin
+  lat: '42.0133'
+  long: "-121.4096"
+  nearby_rate_centers:
+  - name: MALIN
+    distance_km: 0.45
+  - name: MERRILL
+    distance_km: 15.85
+  - name: BONANZA
+    distance_km: 20.89
+- country: US
+  region: OR
+  name: Manzanita
+  lat: '45.7165'
+  long: "-123.9352"
+  nearby_rate_centers:
+  - name: NEHALEM
+    distance_km: 2.89
+  - name: ROCKAWAY
+    distance_km: 12.0
+  - name: GARIBALDI
+    distance_km: 17.7
+- country: US
+  region: OR
+  name: Mapleton
+  lat: '44.0325'
+  long: "-123.8609"
+  nearby_rate_centers:
+  - name: MAPLETON
+    distance_km: 0.5
+  - name: DEADWOOD
+    distance_km: 10.23
+  - name: FLORENCE
+    distance_km: 20.42
+- country: US
+  region: OR
+  name: Marcola
+  lat: '44.1751'
+  long: "-122.8582"
+  nearby_rate_centers:
+  - name: MARCOLA
+    distance_km: 1.13
+  - name: LEABURG
+    distance_km: 16.51
+  - name: EUGENE
+    distance_km: 22.64
+- country: US
+  region: OR
+  name: Marion
+  lat: '44.7513'
+  long: "-122.9277"
+  nearby_rate_centers:
+  - name: JEFFERSON
+    distance_km: 6.81
+  - name: SCIO
+    distance_km: 8.48
+  - name: AUMSVLTRNR
+    distance_km: 11.33
+- country: US
+  region: OR
+  name: Marlene Village
+  lat: '45.5173'
+  long: "-122.8199"
+  nearby_rate_centers:
+  - name: BEAVERTON
+    distance_km: 3.61
+  - name: PORTLAND
+    distance_km: 9.26
+  - name: TIGARD
+    distance_km: 9.88
+- country: US
+  region: OR
+  name: Maupin
+  lat: '45.1732'
+  long: "-121.0881"
+  nearby_rate_centers:
+  - name: MAUPIN
+    distance_km: 0.37
+  - name: TYGHVALLEY
+    distance_km: 10.97
+  - name: WAMIC
+    distance_km: 15.02
+- country: US
+  region: OR
+  name: Maywood Park
+  lat: '45.5524'
+  long: "-122.5617"
+  nearby_rate_centers:
+  - name: GRESHAM
+    distance_km: 11.32
+  - name: PORTLAND
+    distance_km: 15.52
+  - name: SUNNYSIDE
+    distance_km: 15.72
+- country: US
+  region: OR
+  name: McKay
+  lat: '45.4923'
+  long: "-118.6842"
+  nearby_rate_centers:
+  - name: PILOT ROCK
+    distance_km: 11.5
+  - name: MEACHAM
+    distance_km: 20.75
+  - name: PENDLETON
+    distance_km: 20.79
+- country: US
+  region: OR
+  name: McMinnville
+  lat: '45.2110'
+  long: "-123.1918"
+  nearby_rate_centers:
+  - name: MCMINNVL
+    distance_km: 0.11
+  - name: CARLTON
+    distance_km: 8.97
+  - name: DAYTON
+    distance_km: 9.31
+- country: US
+  region: OR
+  name: Meacham
+  lat: '45.5231'
+  long: "-118.4396"
+  nearby_rate_centers:
+  - name: MEACHAM
+    distance_km: 3.12
+  - name: PILOT ROCK
+    distance_km: 30.86
+  - name: PENDLETON
+    distance_km: 31.16
+- country: US
+  region: OR
+  name: Medford
+  lat: '42.3372'
+  long: "-122.8540"
+  nearby_rate_centers:
+  - name: MEDFORD
+    distance_km: 2.04
+  - name: CENTRAL PT
+    distance_km: 6.7
+  - name: JACKSONVL
+    distance_km: 9.79
+- country: US
+  region: OR
+  name: Mehama
+  lat: '44.7914'
+  long: "-122.6308"
+  nearby_rate_centers:
+  - name: LYONS
+    distance_km: 2.08
+  - name: MILL CITY
+    distance_km: 12.35
+  - name: STAYTON
+    distance_km: 12.71
+- country: US
+  region: OR
+  name: Melrose
+  lat: '43.2529'
+  long: "-123.4574"
+  nearby_rate_centers:
+  - name: ROSEBURG
+    distance_km: 10.63
+  - name: OAKLAND
+    distance_km: 22.21
+  - name: CAMAS VLY
+    distance_km: 29.86
+- country: US
+  region: OR
+  name: Merlin
+  lat: '42.5204'
+  long: "-123.4252"
+  nearby_rate_centers:
+  - name: GRANTSPASS
+    distance_km: 12.78
+  - name: WOLF CREEK
+    distance_km: 19.02
+  - name: ROGUERIVER
+    distance_km: 23.48
+- country: US
+  region: OR
+  name: Merrill
+  lat: '42.0260'
+  long: "-121.6008"
+  nearby_rate_centers:
+  - name: MERRILL
+    distance_km: 0.29
+  - name: MALIN
+    distance_km: 15.8
+  - name: BONANZA
+    distance_km: 25.07
+- country: US
+  region: OR
+  name: Metolius
+  lat: '44.5875'
+  long: "-121.1760"
+  nearby_rate_centers:
+  - name: MADRAS
+    distance_km: 6.58
+  - name: CULVER
+    distance_km: 7.4
+  - name: THREE RVS
+    distance_km: 12.96
+- country: US
+  region: OR
+  name: Metzger
+  lat: '45.4493'
+  long: "-122.7621"
+  nearby_rate_centers:
+  - name: TIGARD
+    distance_km: 2.11
+  - name: BEAVERTON
+    distance_km: 5.55
+  - name: LAKEOSWEGO
+    distance_km: 8.13
+- country: US
+  region: OR
+  name: Mill City
+  lat: '44.7520'
+  long: "-122.4777"
+  nearby_rate_centers:
+  - name: MILL CITY
+    distance_km: 0.79
+  - name: LYONS
+    distance_km: 11.47
+  - name: STAYTON
+    distance_km: 25.3
+- country: US
+  region: OR
+  name: Millersburg
+  lat: '44.6779'
+  long: "-123.0691"
+  nearby_rate_centers:
+  - name: ALBANY
+    distance_km: 5.56
+  - name: JEFFERSON
+    distance_km: 7.05
+  - name: SCIO
+    distance_km: 17.73
+- country: US
+  region: OR
+  name: Milton-Freewater
+  lat: '45.9340'
+  long: "-118.3909"
+  nearby_rate_centers:
+  - name: MILTONFWTR
+    distance_km: 0.19
+  - name: STATELINE
+    distance_km: 6.44
+  - name: ATHENA
+    distance_km: 15.81
+- country: US
+  region: OR
+  name: Milwaukie
+  lat: '45.4445'
+  long: "-122.6219"
+  nearby_rate_centers:
+  - name: LAKEOSWEGO
+    distance_km: 4.59
+  - name: CLACKAMAS
+    distance_km: 5.73
+  - name: OREGONCITY
+    distance_km: 10.37
+- country: US
+  region: OR
+  name: Mission
+  lat: '45.6586'
+  long: "-118.6655"
+  nearby_rate_centers:
+  - name: PENDLETON
+    distance_km: 9.27
+  - name: HELIX
+    distance_km: 21.51
+  - name: ATHENA
+    distance_km: 21.66
+- country: US
+  region: OR
+  name: Mitchell
+  lat: '44.5703'
+  long: "-120.1537"
+  nearby_rate_centers:
+  - name: MITCHELL
+    distance_km: 0.63
+  - name: SPRAY
+    distance_km: 40.15
+  - name: FOSSIL
+    distance_km: 47.96
+- country: US
+  region: OR
+  name: Molalla
+  lat: '45.1502'
+  long: "-122.5845"
+  nearby_rate_centers:
+  - name: MOLALLA
+    distance_km: 0.96
+  - name: COLTON
+    distance_km: 12.02
+  - name: MONITOR
+    distance_km: 13.9
+- country: US
+  region: OR
+  name: Monmouth
+  lat: '44.8505'
+  long: "-123.2284"
+  nearby_rate_centers:
+  - name: DALLAS
+    distance_km: 4.09
+  - name: FALLS CITY
+    distance_km: 16.16
+  - name: SALEM
+    distance_km: 20.15
+- country: US
+  region: OR
+  name: Monroe
+  lat: '44.3168'
+  long: "-123.2989"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 0.08
+  - name: BELLFONTAN
+    distance_km: 7.12
+  - name: HARRISBURG
+    distance_km: 11.69
+- country: US
+  region: OR
+  name: Monument
+  lat: '44.8208'
+  long: "-119.4209"
+  nearby_rate_centers:
+  - name: MONUMENT
+    distance_km: 0.59
+  - name: LONG CREEK
+    distance_km: 28.48
+  - name: SPRAY
+    distance_km: 29.37
+- country: US
+  region: OR
+  name: Moro
+  lat: '45.4837'
+  long: "-120.7333"
+  nearby_rate_centers:
+  - name: MORO
+    distance_km: 0.13
+  - name: WASCO
+    distance_km: 12.09
+  - name: GRASS VLY
+    distance_km: 15.58
+- country: US
+  region: OR
+  name: Mosier
+  lat: '45.6850'
+  long: "-121.3951"
+  nearby_rate_centers:
+  - name: MOSIER
+    distance_km: 0.41
+  - name: HOOD RIVER
+    distance_km: 10.5
+  - name: ODELL
+    distance_km: 13.72
+- country: US
+  region: OR
+  name: Mount Angel
+  lat: '45.0695'
+  long: "-122.7972"
+  nearby_rate_centers:
+  - name: MOUNTANGEL
+    distance_km: 0.51
+  - name: MONITOR
+    distance_km: 5.21
+  - name: SILVERTON
+    distance_km: 7.09
+- country: US
+  region: OR
+  name: Mount Hood
+  lat: '45.5339'
+  long: "-121.5662"
+  nearby_rate_centers:
+  - name: PARKDALE
+    distance_km: 2.49
+  - name: ODELL
+    distance_km: 10.2
+  - name: HOOD RIVER
+    distance_km: 19.83
+- country: US
+  region: OR
+  name: Mount Vernon
+  lat: '44.4169'
+  long: "-119.1132"
+  nearby_rate_centers:
+  - name: MT VERNON
+    distance_km: 0.41
+  - name: JOHN DAY
+    distance_km: 13.21
+  - name: LONG CREEK
+    distance_km: 32.18
+- country: US
+  region: OR
+  name: Mulino
+  lat: '45.2234'
+  long: "-122.5617"
+  nearby_rate_centers:
+  - name: BEAVER CRK
+    distance_km: 7.09
+  - name: MOLALLA
+    distance_km: 8.27
+  - name: CANBYNEEDY
+    distance_km: 11.27
+- country: US
+  region: OR
+  name: Myrtle Creek
+  lat: '43.0227'
+  long: "-123.2812"
+  nearby_rate_centers:
+  - name: MYRTLE CRK
+    distance_km: 1.32
+  - name: RIDDLE
+    distance_km: 10.19
+  - name: CANYONVL
+    distance_km: 11.03
+- country: US
+  region: OR
+  name: Myrtle Point
+  lat: '43.0617'
+  long: "-124.1327"
+  nearby_rate_centers:
+  - name: MYRTLE PT
+    distance_km: 0.68
+  - name: COQUILLE
+    distance_km: 13.22
+  - name: POWERS
+    distance_km: 20.76
+- country: US
+  region: OR
+  name: Neahkahnie
+  lat: '45.7324'
+  long: "-123.9399"
+  nearby_rate_centers:
+  - name: NEHALEM
+    distance_km: 3.75
+  - name: ROCKAWAY
+    distance_km: 13.76
+  - name: CANNON BCH
+    distance_km: 17.61
+- country: US
+  region: OR
+  name: Nehalem
+  lat: '45.7196'
+  long: "-123.8941"
+  nearby_rate_centers:
+  - name: NEHALEM
+    distance_km: 0.54
+  - name: ROCKAWAY
+    distance_km: 12.84
+  - name: GARIBALDI
+    distance_km: 18.09
+- country: US
+  region: OR
+  name: Neotsu
+  lat: '44.9944'
+  long: "-123.9783"
+  nearby_rate_centers:
+  - name: LINCOLN CY
+    distance_km: 5.09
+  - name: DEPOE BAY
+    distance_km: 21.68
+  - name: CLOVERDALE
+    distance_km: 23.85
+- country: US
+  region: OR
+  name: Nesika Beach
+  lat: '42.5045'
+  long: "-124.4065"
+  nearby_rate_centers:
+  - name: GOLD BEACH
+    distance_km: 10.95
+  - name: PORTORFORD
+    distance_km: 27.26
+  - name: LANGLOIS
+    distance_km: 45.84
+- country: US
+  region: OR
+  name: Neskowin
+  lat: '45.1208'
+  long: "-123.9766"
+  nearby_rate_centers:
+  - name: PACIFIC CY
+    distance_km: 10.06
+  - name: CLOVERDALE
+    distance_km: 11.31
+  - name: LINCOLN CY
+    distance_km: 18.28
+- country: US
+  region: OR
+  name: Netarts
+  lat: '45.4356'
+  long: "-123.9344"
+  nearby_rate_centers:
+  - name: TILLAMOOK
+    distance_km: 7.41
+  - name: BAY CITY
+    distance_km: 10.71
+  - name: GARIBALDI
+    distance_km: 13.65
+- country: US
+  region: OR
+  name: New Hope
+  lat: '42.3693'
+  long: "-123.3590"
+  nearby_rate_centers:
+  - name: GRANTSPASS
+    distance_km: 8.68
+  - name: PROVOTMPHY
+    distance_km: 14.48
+  - name: ROGUERIVER
+    distance_km: 17.32
+- country: US
+  region: OR
+  name: New Pine Creek
+  lat: '42.0014'
+  long: "-120.3043"
+  nearby_rate_centers:
+  - name: LAKEVIEW
+    distance_km: 21.18
+  - name: BLY
+    distance_km: 75.13
+  - name: PAISLEY
+    distance_km: 79.17
+- country: US
+  region: OR
+  name: Newberg
+  lat: '45.3075'
+  long: "-122.9601"
+  nearby_rate_centers:
+  - name: NEWBERG
+    distance_km: 1.46
+  - name: SCHOLLS
+    distance_km: 10.64
+  - name: SHERWOOD
+    distance_km: 10.81
+- country: US
+  region: OR
+  name: Newport
+  lat: '44.6242'
+  long: "-124.0513"
+  nearby_rate_centers:
+  - name: NEWPORT
+    distance_km: 1.35
+  - name: SOUTHBEACH
+    distance_km: 2.61
+  - name: TOLEDO
+    distance_km: 9.43
+- country: US
+  region: OR
+  name: North Bend
+  lat: '43.4075'
+  long: "-124.2364"
+  nearby_rate_centers:
+  - name: COOS BAY
+    distance_km: 5.74
+  - name: LAKESIDE
+    distance_km: 19.37
+  - name: COQUILLE
+    distance_km: 26.21
+- country: US
+  region: OR
+  name: North Plains
+  lat: '45.5974'
+  long: "-122.9948"
+  nearby_rate_centers:
+  - name: NORTH PL
+    distance_km: 0.45
+  - name: HILLSBORO
+    distance_km: 8.93
+  - name: FOREST GRV
+    distance_km: 13.15
+- country: US
+  region: OR
+  name: North Powder
+  lat: '45.0300'
+  long: "-117.9205"
+  nearby_rate_centers:
+  - name: NO POWDER
+    distance_km: 0.8
+  - name: HAINES
+    distance_km: 12.8
+  - name: UNION
+    distance_km: 20.23
+- country: US
+  region: OR
+  name: Nyssa
+  lat: '43.8779'
+  long: "-116.9956"
+  nearby_rate_centers:
+  - name: NYSSA
+    distance_km: 0.14
+  - name: ONTARIO
+    distance_km: 15.69
+  - name: ADRIAN
+    distance_km: 17.17
+- country: US
+  region: OR
+  name: O'Brien
+  lat: '42.0702'
+  long: "-123.7077"
+  nearby_rate_centers:
+  - name: O BRIEN
+    distance_km: 2.53
+  - name: CAVE JCT
+    distance_km: 12.13
+  - name: SELMA
+    distance_km: 24.09
+- country: US
+  region: OR
+  name: Oak Grove
+  lat: '45.4156'
+  long: "-122.6349"
+  nearby_rate_centers:
+  - name: CLACKAMAS
+    distance_km: 2.4
+  - name: LAKEOSWEGO
+    distance_km: 2.58
+  - name: OREGONCITY
+    distance_km: 7.39
+- country: US
+  region: OR
+  name: Oak Hills
+  lat: '45.5405'
+  long: "-122.8413"
+  nearby_rate_centers:
+  - name: BEAVERTON
+    distance_km: 6.56
+  - name: PORTLAND
+    distance_km: 8.48
+  - name: HILLSBORO
+    distance_km: 11.47
+- country: US
+  region: OR
+  name: Oakland
+  lat: '43.4233'
+  long: "-123.2969"
+  nearby_rate_centers:
+  - name: OAKLAND
+    distance_km: 0.79
+  - name: YONCALLA
+    distance_km: 18.89
+  - name: GLIDE
+    distance_km: 21.54
+- country: US
+  region: OR
+  name: Oakridge
+  lat: '43.7451'
+  long: "-122.4638"
+  nearby_rate_centers:
+  - name: OAKRIDGE
+    distance_km: 1.07
+  - name: LOWELL
+    distance_km: 31.87
+  - name: LEABURG
+    distance_km: 43.77
+- country: US
+  region: OR
+  name: Oatfield
+  lat: '45.4125'
+  long: "-122.5940"
+  nearby_rate_centers:
+  - name: CLACKAMAS
+    distance_km: 3.96
+  - name: LAKEOSWEGO
+    distance_km: 5.79
+  - name: OREGONCITY
+    distance_km: 6.88
+- country: US
+  region: OR
+  name: Oceanside
+  lat: '45.4549'
+  long: "-123.9610"
+  nearby_rate_centers:
+  - name: TILLAMOOK
+    distance_km: 9.32
+  - name: BAY CITY
+    distance_km: 9.92
+  - name: GARIBALDI
+    distance_km: 11.93
+- country: US
+  region: OR
+  name: Ochoco West
+  lat: '44.4033'
+  long: "-120.9207"
+  nearby_rate_centers:
+  - name: PRINEVILLE
+    distance_km: 13.07
+  - name: REDMOND
+    distance_km: 25.14
+  - name: CULVER
+    distance_km: 26.59
+- country: US
+  region: OR
+  name: Odell
+  lat: '45.6354'
+  long: "-121.5522"
+  nearby_rate_centers:
+  - name: ODELL
+    distance_km: 1.2
+  - name: HOOD RIVER
+    distance_km: 8.54
+  - name: PARKDALE
+    distance_km: 13.37
+- country: US
+  region: OR
+  name: Ontario
+  lat: '44.0259'
+  long: "-116.9760"
+  nearby_rate_centers:
+  - name: ONTARIO
+    distance_km: 1.7
+  - name: OREGONSLOP
+    distance_km: 14.41
+  - name: NYSSA
+    distance_km: 16.61
+- country: US
+  region: OR
+  name: Oregon City
+  lat: '45.3418'
+  long: "-122.5924"
+  nearby_rate_centers:
+  - name: OREGONCITY
+    distance_km: 1.72
+  - name: CLACKAMAS
+    distance_km: 6.8
+  - name: BEAVER CRK
+    distance_km: 8.02
+- country: US
+  region: OR
+  name: Oregon Shores
+  lat: '42.5376'
+  long: "-121.9216"
+  nearby_rate_centers:
+  - name: CHILOQUIN
+    distance_km: 6.73
+  - name: ROCKYPOINT
+    distance_km: 17.41
+  - name: FT KLAMATH
+    distance_km: 18.87
+- country: US
+  region: OR
+  name: Orient
+  lat: '45.4691'
+  long: "-122.3545"
+  nearby_rate_centers:
+  - name: GRESHAM
+    distance_km: 7.29
+  - name: CORBETT
+    distance_km: 9.38
+  - name: SUNNYSIDE
+    distance_km: 11.39
+- country: US
+  region: OR
+  name: Pacific City
+  lat: '45.2054'
+  long: "-123.9536"
+  nearby_rate_centers:
+  - name: PACIFIC CY
+    distance_km: 0.74
+  - name: CLOVERDALE
+    distance_km: 5.62
+  - name: BEAVER
+    distance_km: 12.91
+- country: US
+  region: OR
+  name: Paisley
+  lat: '42.6926'
+  long: "-120.5452"
+  nearby_rate_centers:
+  - name: PAISLEY
+    distance_km: 0.4
+  - name: BLY
+    distance_km: 51.8
+  - name: LAKEVIEW
+    distance_km: 58.34
+- country: US
+  region: OR
+  name: Parkdale
+  lat: '45.5131'
+  long: "-121.5921"
+  nearby_rate_centers:
+  - name: PARKDALE
+    distance_km: 0.6
+  - name: ODELL
+    distance_km: 12.86
+  - name: HOOD RIVER
+    distance_km: 22.49
+- country: US
+  region: OR
+  name: Pendleton
+  lat: '45.6757'
+  long: "-118.8201"
+  nearby_rate_centers:
+  - name: PENDLETON
+    distance_km: 2.99
+  - name: PILOT ROCK
+    distance_km: 22.14
+  - name: HELIX
+    distance_km: 23.22
+- country: US
+  region: OR
+  name: Peoria
+  lat: '44.4508'
+  long: "-123.2043"
+  nearby_rate_centers:
+  - name: SHEDD
+    distance_km: 7.53
+  - name: HALSEY
+    distance_km: 10.87
+  - name: CORVALLIS
+    distance_km: 14.04
+- country: US
+  region: OR
+  name: Philomath
+  lat: '44.5423'
+  long: "-123.3599"
+  nearby_rate_centers:
+  - name: PHILOMATH
+    distance_km: 1.16
+  - name: CORVALLIS
+    distance_km: 7.93
+  - name: BLODGETT
+    distance_km: 13.87
+- country: US
+  region: OR
+  name: Phoenix
+  lat: '42.2749'
+  long: "-122.8154"
+  nearby_rate_centers:
+  - name: PHOENIX
+    distance_km: 3.0
+  - name: MEDFORD
+    distance_km: 8.21
+  - name: ASHLAND
+    distance_km: 11.51
+- country: US
+  region: OR
+  name: Pilot Rock
+  lat: '45.4960'
+  long: "-118.8333"
+  nearby_rate_centers:
+  - name: PILOT ROCK
+    distance_km: 2.16
+  - name: PENDLETON
+    distance_km: 19.24
+  - name: MEACHAM
+    distance_km: 32.36
+- country: US
+  region: OR
+  name: Pine Grove
+  lat: '45.1135'
+  long: "-121.3553"
+  nearby_rate_centers:
+  - name: PINE GROVE
+    distance_km: 1.15
+  - name: WAMIC
+    distance_km: 14.03
+  - name: TYGHVALLEY
+    distance_km: 20.49
+- country: US
+  region: OR
+  name: Pine Hollow
+  lat: '45.2420'
+  long: "-121.2910"
+  nearby_rate_centers:
+  - name: WAMIC
+    distance_km: 2.87
+  - name: TYGHVALLEY
+    distance_km: 8.88
+  - name: PINE GROVE
+    distance_km: 16.18
+- country: US
+  region: OR
+  name: Pistol River
+  lat: '42.2837'
+  long: "-124.3992"
+  nearby_rate_centers:
+  - name: GOLD BEACH
+    distance_km: 13.72
+  - name: BROOKINGS
+    distance_km: 27.85
+  - name: PORTORFORD
+    distance_km: 51.44
+- country: US
+  region: OR
+  name: Pleasant Valley
+  lat: '45.3761'
+  long: "-123.7952"
+  nearby_rate_centers:
+  - name: TILLAMOOK
+    distance_km: 8.99
+  - name: BEAVER
+    distance_km: 11.25
+  - name: BAY CITY
+    distance_km: 17.8
+- country: US
+  region: OR
+  name: Plush
+  lat: '42.4051'
+  long: "-119.8993"
+  nearby_rate_centers:
+  - name: LAKEVIEW
+    distance_km: 43.57
+  - name: PAISLEY
+    distance_km: 61.43
+  - name: BLY
+    distance_km: 93.58
+- country: US
+  region: OR
+  name: Port Orford
+  lat: '42.7497'
+  long: "-124.4973"
+  nearby_rate_centers:
+  - name: PORTORFORD
+    distance_km: 1.0
+  - name: LANGLOIS
+    distance_km: 18.88
+  - name: GOLD BEACH
+    distance_km: 38.73
+- country: US
+  region: OR
+  name: Portland
+  lat: '45.5371'
+  long: "-122.6500"
+  nearby_rate_centers:
+  - name: PORTLAND
+    distance_km: 9.87
+  - name: LAKEOSWEGO
+    distance_km: 13.26
+  - name: BEAVERTON
+    distance_km: 13.81
+- country: US
+  region: OR
+  name: Powers
+  lat: '42.8859'
+  long: "-124.0734"
+  nearby_rate_centers:
+  - name: POWERS
+    distance_km: 1.4
+  - name: MYRTLE PT
+    distance_km: 20.12
+  - name: LANGLOIS
+    distance_km: 30.72
+- country: US
+  region: OR
+  name: Prairie City
+  lat: '44.4611'
+  long: "-118.7094"
+  nearby_rate_centers:
+  - name: PRAIRIE CY
+    distance_km: 1.18
+  - name: JOHN DAY
+    distance_km: 19.48
+  - name: BATES
+    distance_km: 20.88
+- country: US
+  region: OR
+  name: Prescott
+  lat: '46.0487'
+  long: "-122.8879"
+  nearby_rate_centers:
+  - name: RAINIER
+    distance_km: 5.28
+  - name: ST HELENS
+    distance_km: 21.2
+  - name: CLATSKANIE
+    distance_km: 24.64
+- country: US
+  region: OR
+  name: Prineville
+  lat: '44.2985'
+  long: "-120.8607"
+  nearby_rate_centers:
+  - name: PRINEVILLE
+    distance_km: 1.08
+  - name: REDMOND
+    distance_km: 25.09
+  - name: CULVER
+    distance_km: 37.43
+- country: US
+  region: OR
+  name: Prineville Lake Acres
+  lat: '44.1676'
+  long: "-120.7889"
+  nearby_rate_centers:
+  - name: PRINEVILLE
+    distance_km: 15.24
+  - name: REDMOND
+    distance_km: 32.53
+  - name: BEND
+    distance_km: 42.51
+- country: US
+  region: OR
+  name: Pronghorn
+  lat: '44.1881'
+  long: "-121.1817"
+  nearby_rate_centers:
+  - name: REDMOND
+    distance_km: 8.8
+  - name: BEND
+    distance_km: 16.64
+  - name: PRINEVILLE
+    distance_km: 29.32
+- country: US
+  region: OR
+  name: Prospect
+  lat: '42.7526'
+  long: "-122.4757"
+  nearby_rate_centers:
+  - name: PROSPECT
+    distance_km: 0.52
+  - name: BUTTEFALLS
+    distance_km: 24.61
+  - name: SHADY COVE
+    distance_km: 31.22
+- country: US
+  region: OR
+  name: Rainier
+  lat: '46.0768'
+  long: "-122.9405"
+  nearby_rate_centers:
+  - name: RAINIER
+    distance_km: 0.77
+  - name: CLATSKANIE
+    distance_km: 20.06
+  - name: ST HELENS
+    distance_km: 25.57
+- country: US
+  region: OR
+  name: Raleigh Hills
+  lat: '45.4851'
+  long: "-122.7567"
+  nearby_rate_centers:
+  - name: BEAVERTON
+    distance_km: 4.25
+  - name: TIGARD
+    distance_km: 5.94
+  - name: LAKEOSWEGO
+    distance_km: 10.15
+- country: US
+  region: OR
+  name: Redmond
+  lat: '44.2612'
+  long: "-121.1810"
+  nearby_rate_centers:
+  - name: REDMOND
+    distance_km: 0.91
+  - name: BEND
+    distance_km: 23.76
+  - name: PRINEVILLE
+    distance_km: 26.89
+- country: US
+  region: OR
+  name: Redwood
+  lat: '42.4219'
+  long: "-123.3915"
+  nearby_rate_centers:
+  - name: GRANTSPASS
+    distance_km: 6.67
+  - name: ROGUERIVER
+    distance_km: 18.58
+  - name: PROVOTMPHY
+    distance_km: 20.49
+- country: US
+  region: OR
+  name: Reedsport
+  lat: '43.6983'
+  long: "-124.1121"
+  nearby_rate_centers:
+  - name: REEDSPORT
+    distance_km: 0.9
+  - name: LAKESIDE
+    distance_km: 14.48
+  - name: SCOTTSBURG
+    distance_km: 25.72
+- country: US
+  region: OR
+  name: Rhododendron
+  lat: '45.3149'
+  long: "-121.8887"
+  nearby_rate_centers:
+  - name: HOOD LAND
+    distance_km: 6.53
+  - name: GOVENTCAMP
+    distance_km: 10.75
+  - name: PARKDALE
+    distance_km: 32.53
+- country: US
+  region: OR
+  name: Richland
+  lat: '44.7682'
+  long: "-117.1669"
+  nearby_rate_centers:
+  - name: RICHLAND
+    distance_km: 0.16
+  - name: HALFWAY
+    distance_km: 12.53
+  - name: CONNER CRK
+    distance_km: 22.51
+- country: US
+  region: OR
+  name: Rickreall
+  lat: '44.9319'
+  long: "-123.2344"
+  nearby_rate_centers:
+  - name: DALLAS
+    distance_km: 5.82
+  - name: FALLS CITY
+    distance_km: 17.1
+  - name: SALEM
+    distance_km: 17.36
+- country: US
+  region: OR
+  name: Riddle
+  lat: '42.9542'
+  long: "-123.3644"
+  nearby_rate_centers:
+  - name: RIDDLE
+    distance_km: 0.43
+  - name: CANYONVL
+    distance_km: 8.45
+  - name: MYRTLE CRK
+    distance_km: 11.19
+- country: US
+  region: OR
+  name: River Point
+  lat: '46.1434'
+  long: "-123.8041"
+  nearby_rate_centers:
+  - name: ASTORIA
+    distance_km: 5.34
+  - name: WARRENTON
+    distance_km: 9.81
+  - name: KNAPPA
+    distance_km: 17.67
+- country: US
+  region: OR
+  name: River Road
+  lat: '44.0833'
+  long: "-123.1320"
+  nearby_rate_centers:
+  - name: EUGENE
+    distance_km: 5.44
+  - name: JUNCTIONCY
+    distance_km: 15.66
+  - name: VENETA
+    distance_km: 17.81
+- country: US
+  region: OR
+  name: Rivergrove
+  lat: '45.3851'
+  long: "-122.7330"
+  nearby_rate_centers:
+  - name: STFRD-SNDY
+    distance_km: 4.81
+  - name: LAKEOSWEGO
+    distance_km: 6.31
+  - name: TIGARD
+    distance_km: 6.41
+- country: US
+  region: OR
+  name: Riverside
+  lat: '45.6768'
+  long: "-118.7368"
+  nearby_rate_centers:
+  - name: PENDLETON
+    distance_km: 3.9
+  - name: HELIX
+    distance_km: 20.38
+  - name: PILOT ROCK
+    distance_km: 23.4
+- country: US
+  region: OR
+  name: Rockaway Beach
+  lat: '45.6186'
+  long: "-123.9398"
+  nearby_rate_centers:
+  - name: ROCKAWAY
+    distance_km: 1.11
+  - name: GARIBALDI
+    distance_km: 6.98
+  - name: NEHALEM
+    distance_km: 11.26
+- country: US
+  region: OR
+  name: Rockcreek
+  lat: '45.5526'
+  long: "-122.8760"
+  nearby_rate_centers:
+  - name: BEAVERTON
+    distance_km: 9.01
+  - name: HILLSBORO
+    distance_km: 9.33
+  - name: PORTLAND
+    distance_km: 10.17
+- country: US
+  region: OR
+  name: Rocky Point
+  lat: '42.4482'
+  long: "-122.1096"
+  nearby_rate_centers:
+  - name: ROCKYPOINT
+    distance_km: 0.97
+  - name: FISH LAKE
+    distance_km: 10.95
+  - name: CHILOQUIN
+    distance_km: 25.04
+- country: US
+  region: OR
+  name: Rogue River
+  lat: '42.4354'
+  long: "-123.1681"
+  nearby_rate_centers:
+  - name: ROGUERIVER
+    distance_km: 0.49
+  - name: GOLD HILL
+    distance_km: 10.44
+  - name: GRANTSPASS
+    distance_km: 11.98
+- country: US
+  region: OR
+  name: Rose Lodge
+  lat: '45.0187'
+  long: "-123.8882"
+  nearby_rate_centers:
+  - name: LINCOLN CY
+    distance_km: 12.28
+  - name: CLOVERDALE
+    distance_km: 19.94
+  - name: PACIFIC CY
+    distance_km: 22.06
+- country: US
+  region: OR
+  name: Roseburg
+  lat: '43.2231'
+  long: "-123.3520"
+  nearby_rate_centers:
+  - name: ROSEBURG
+    distance_km: 2.49
+  - name: OAKLAND
+    distance_km: 21.92
+  - name: GLIDE
+    distance_km: 22.82
+- country: US
+  region: OR
+  name: Roseburg North
+  lat: '43.2662'
+  long: "-123.3477"
+  nearby_rate_centers:
+  - name: ROSEBURG
+    distance_km: 7.25
+  - name: OAKLAND
+    distance_km: 17.16
+  - name: GLIDE
+    distance_km: 21.13
+- country: US
+  region: OR
+  name: Rowena
+  lat: '45.6701'
+  long: "-121.2749"
+  nearby_rate_centers:
+  - name: MOSIER
+    distance_km: 9.11
+  - name: THE DALLES
+    distance_km: 10.45
+  - name: HOOD RIVER
+    distance_km: 19.96
+- country: US
+  region: OR
+  name: Ruch
+  lat: '42.2314'
+  long: "-123.0403"
+  nearby_rate_centers:
+  - name: JACKSONVL
+    distance_km: 10.64
+  - name: PROVOTMPHY
+    distance_km: 16.31
+  - name: MEDFORD
+    distance_km: 17.45
+- country: US
+  region: OR
+  name: Rufus
+  lat: '45.6919'
+  long: "-120.7434"
+  nearby_rate_centers:
+  - name: RUFUS
+    distance_km: 0.95
+  - name: WASCO
+    distance_km: 11.86
+  - name: MORO
+    distance_km: 23.28
+- country: US
+  region: OR
+  name: Running Y Ranch
+  lat: '42.2751'
+  long: "-121.8747"
+  nearby_rate_centers:
+  - name: KLAMATHFLS
+    distance_km: 10.4
+  - name: ROCKYPOINT
+    distance_km: 26.83
+  - name: FISH LAKE
+    distance_km: 29.72
+- country: US
+  region: OR
+  name: Salem
+  lat: '44.9233'
+  long: "-123.0244"
+  nearby_rate_centers:
+  - name: SALEM
+    distance_km: 3.16
+  - name: AUMSVLTRNR
+    distance_km: 15.45
+  - name: DALLAS
+    distance_km: 18.8
+- country: US
+  region: OR
+  name: San Marine
+  lat: '44.3533'
+  long: "-124.0904"
+  nearby_rate_centers:
+  - name: YACHATS
+    distance_km: 4.89
+  - name: WALDPORT
+    distance_km: 8.36
+  - name: TIDEWATER
+    distance_km: 16.87
+- country: US
+  region: OR
+  name: Sandy
+  lat: '45.3988'
+  long: "-122.2697"
+  nearby_rate_centers:
+  - name: ESTACADA
+    distance_km: 14.05
+  - name: CORBETT
+    distance_km: 14.9
+  - name: SUNNYSIDE
+    distance_km: 16.93
+- country: US
+  region: OR
+  name: Santa Clara
+  lat: '44.1154'
+  long: "-123.1344"
+  nearby_rate_centers:
+  - name: EUGENE
+    distance_km: 8.38
+  - name: JUNCTIONCY
+    distance_km: 12.28
+  - name: HARRISBURG
+    distance_km: 17.23
+- country: US
+  region: OR
+  name: Saunders Lake
+  lat: '43.5214'
+  long: "-124.2110"
+  nearby_rate_centers:
+  - name: LAKESIDE
+    distance_km: 6.92
+  - name: COOS BAY
+    distance_km: 18.14
+  - name: REEDSPORT
+    distance_km: 21.94
+- country: US
+  region: OR
+  name: Scappoose
+  lat: '45.7582'
+  long: "-122.8730"
+  nearby_rate_centers:
+  - name: SCAPPOOSE
+    distance_km: 0.23
+  - name: BURLINGTON
+    distance_km: 12.38
+  - name: ST HELENS
+    distance_km: 13.19
+- country: US
+  region: OR
+  name: Scio
+  lat: '44.7046'
+  long: "-122.8508"
+  nearby_rate_centers:
+  - name: SCIO
+    distance_km: 0.5
+  - name: STAYTON
+    distance_km: 11.37
+  - name: JEFFERSON
+    distance_km: 11.92
+- country: US
+  region: OR
+  name: Scotts Mills
+  lat: '45.0410'
+  long: "-122.6689"
+  nearby_rate_centers:
+  - name: MONITOR
+    distance_km: 8.97
+  - name: SILVERTON
+    distance_km: 9.73
+  - name: MOUNTANGEL
+    distance_km: 10.87
+- country: US
+  region: OR
+  name: Seaside
+  lat: '45.9889'
+  long: "-123.9214"
+  nearby_rate_centers:
+  - name: SEASIDE
+    distance_km: 0.72
+  - name: CANNON BCH
+    distance_km: 11.28
+  - name: WARRENTON
+    distance_km: 19.66
+- country: US
+  region: OR
+  name: Selma
+  lat: '42.2797'
+  long: "-123.6151"
+  nearby_rate_centers:
+  - name: SELMA
+    distance_km: 0.66
+  - name: CAVE JCT
+    distance_km: 12.68
+  - name: O BRIEN
+    distance_km: 26.76
+- country: US
+  region: OR
+  name: Seneca
+  lat: '44.1352'
+  long: "-118.9763"
+  nearby_rate_centers:
+  - name: SENECA
+    distance_km: 1.04
+  - name: JOHN DAY
+    distance_km: 31.43
+  - name: MT VERNON
+    distance_km: 33.13
+- country: US
+  region: OR
+  name: Seventh Mountain
+  lat: '44.0050'
+  long: "-121.3825"
+  nearby_rate_centers:
+  - name: BEND
+    distance_km: 9.34
+  - name: REDMOND
+    distance_km: 33.59
+  - name: SISTERS
+    distance_km: 34.42
+- country: US
+  region: OR
+  name: Shady Cove
+  lat: '42.6117'
+  long: "-122.8179"
+  nearby_rate_centers:
+  - name: SHADY COVE
+    distance_km: 0.85
+  - name: WHITE CITY
+    distance_km: 19.77
+  - name: BUTTEFALLS
+    distance_km: 22.45
+- country: US
+  region: OR
+  name: Shaniko
+  lat: '45.0037'
+  long: "-120.7522"
+  nearby_rate_centers:
+  - name: ANTELOPE
+    distance_km: 9.98
+  - name: MAUPIN
+    distance_km: 32.17
+  - name: GRASS VLY
+    distance_km: 38.6
+- country: US
+  region: OR
+  name: Shedd
+  lat: '44.4579'
+  long: "-123.1119"
+  nearby_rate_centers:
+  - name: SHEDD
+    distance_km: 0.33
+  - name: HALSEY
+    distance_km: 8.33
+  - name: BROWNSVL
+    distance_km: 12.73
+- country: US
+  region: OR
+  name: Sheridan
+  lat: '45.0960'
+  long: "-123.3983"
+  nearby_rate_centers:
+  - name: SHERIDAN
+    distance_km: 0.22
+  - name: WILLAMINA
+    distance_km: 7.12
+  - name: AMITY
+    distance_km: 15.66
+- country: US
+  region: OR
+  name: Sherwood
+  lat: '45.3594'
+  long: "-122.8427"
+  nearby_rate_centers:
+  - name: SHERWOOD
+    distance_km: 0.1
+  - name: SCHOLLS
+    distance_km: 8.3
+  - name: TIGARD
+    distance_km: 9.71
+- country: US
+  region: OR
+  name: Siletz
+  lat: '44.7219'
+  long: "-123.9187"
+  nearby_rate_centers:
+  - name: SILETZ
+    distance_km: 0.36
+  - name: CHITWOOD
+    distance_km: 11.28
+  - name: TOLEDO
+    distance_km: 11.92
+- country: US
+  region: OR
+  name: Silver Lake
+  lat: '43.1264'
+  long: "-121.0495"
+  nearby_rate_centers:
+  - name: SILVERLAKE
+    distance_km: 0.17
+  - name: CHEMULT
+    distance_km: 60.25
+  - name: PAISLEY
+    distance_km: 63.68
+- country: US
+  region: OR
+  name: Silverton
+  lat: '45.0030'
+  long: "-122.7808"
+  nearby_rate_centers:
+  - name: SILVERTON
+    distance_km: 0.42
+  - name: MOUNTANGEL
+    distance_km: 7.29
+  - name: MONITOR
+    distance_km: 11.12
+- country: US
+  region: OR
+  name: Sisters
+  lat: '44.2923'
+  long: "-121.5531"
+  nearby_rate_centers:
+  - name: SISTERS
+    distance_km: 0.88
+  - name: BLACKBUTTE
+    distance_km: 11.32
+  - name: CAMPSHERMN
+    distance_km: 11.32
+  - name: REDMOND
+    distance_km: 30.4
+- country: US
+  region: OR
+  name: Sodaville
+  lat: '44.4831'
+  long: "-122.8691"
+  nearby_rate_centers:
+  - name: LEBANON
+    distance_km: 6.29
+  - name: BROWNSVL
+    distance_km: 13.72
+  - name: SWEET HOME
+    distance_km: 15.04
+- country: US
+  region: OR
+  name: South Lebanon
+  lat: '44.5055'
+  long: "-122.8959"
+  nearby_rate_centers:
+  - name: LEBANON
+    distance_km: 3.11
+  - name: BROWNSVL
+    distance_km: 14.56
+  - name: SHEDD
+    distance_km: 17.74
+- country: US
+  region: OR
+  name: Sportsmans Park
+  lat: '45.2197'
+  long: "-121.3945"
+  nearby_rate_centers:
+  - name: WAMIC
+    distance_km: 10.05
+  - name: PINE GROVE
+    distance_km: 12.78
+  - name: TYGHVALLEY
+    distance_km: 17.26
+- country: US
+  region: OR
+  name: Sprague River
+  lat: '42.4567'
+  long: "-121.5022"
+  nearby_rate_centers:
+  - name: SPRAGUERIV
+    distance_km: 0.38
+  - name: BONANZA
+    distance_km: 29.42
+  - name: CHILOQUIN
+    distance_km: 32.02
+- country: US
+  region: OR
+  name: Spray
+  lat: '44.8335'
+  long: "-119.7949"
+  nearby_rate_centers:
+  - name: SPRAY
+    distance_km: 0.98
+  - name: MONUMENT
+    distance_km: 29.36
+  - name: FOSSIL
+    distance_km: 37.47
+- country: US
+  region: OR
+  name: Springfield
+  lat: '44.0538'
+  long: "-122.9811"
+  nearby_rate_centers:
+  - name: EUGENE
+    distance_km: 8.08
+  - name: CRESWELL
+    distance_km: 15.26
+  - name: MARCOLA
+    distance_km: 15.75
+- country: US
+  region: OR
+  name: St. Helens
+  lat: '45.8572'
+  long: "-122.8164"
+  nearby_rate_centers:
+  - name: ST HELENS
+    distance_km: 1.39
+  - name: SCAPPOOSE
+    distance_km: 12.04
+  - name: BURLINGTON
+    distance_km: 23.05
+- country: US
+  region: OR
+  name: St. Paul
+  lat: '45.2123'
+  long: "-122.9772"
+  nearby_rate_centers:
+  - name: ST PAUL
+    distance_km: 0.49
+  - name: DAYTON
+    distance_km: 7.55
+  - name: NEWBERG
+    distance_km: 9.61
+- country: US
+  region: OR
+  name: Stafford
+  lat: '45.3786'
+  long: "-122.6822"
+  nearby_rate_centers:
+  - name: CLACKAMAS
+    distance_km: 3.89
+  - name: LAKEOSWEGO
+    distance_km: 4.58
+  - name: STFRD-SNDY
+    distance_km: 4.63
+- country: US
+  region: OR
+  name: Stanfield
+  lat: '45.7846'
+  long: "-119.2187"
+  nearby_rate_centers:
+  - name: STANFIELD
+    distance_km: 1.29
+  - name: ECHO
+    distance_km: 5.09
+  - name: HERMISTON
+    distance_km: 8.1
+- country: US
+  region: OR
+  name: Stayton
+  lat: '44.8034'
+  long: "-122.7984"
+  nearby_rate_centers:
+  - name: STAYTON
+    distance_km: 0.81
+  - name: AUMSVLTRNR
+    distance_km: 6.82
+  - name: SCIO
+    distance_km: 12.03
+- country: US
+  region: OR
+  name: Sublimity
+  lat: '44.8294'
+  long: "-122.7923"
+  nearby_rate_centers:
+  - name: STAYTON
+    distance_km: 3.51
+  - name: AUMSVLTRNR
+    distance_km: 5.89
+  - name: SCIO
+    distance_km: 14.93
+- country: US
+  region: OR
+  name: Summerville
+  lat: '45.4897'
+  long: "-118.0040"
+  nearby_rate_centers:
+  - name: IMBLER
+    distance_km: 4.75
+  - name: ELGIN
+    distance_km: 10.69
+  - name: LA GRANDE
+    distance_km: 18.49
+- country: US
+  region: OR
+  name: Summit
+  lat: '44.6363'
+  long: "-123.5769"
+  nearby_rate_centers:
+  - name: SUMMIT
+    distance_km: 0.2
+  - name: BLODGETT
+    distance_km: 6.34
+  - name: HARLAN
+    distance_km: 14.69
+- country: US
+  region: OR
+  name: Sumpter
+  lat: '44.7435'
+  long: "-118.1975"
+  nearby_rate_centers:
+  - name: GRANITE
+    distance_km: 0.36
+  - name: SUMPTER
+    distance_km: 0.36
+  - name: HAINES
+    distance_km: 28.14
+  - name: BAKER
+    distance_km: 28.27
+- country: US
+  region: OR
+  name: Sunriver
+  lat: '43.8815'
+  long: "-121.4368"
+  nearby_rate_centers:
+  - name: BEND
+    distance_km: 23.17
+  - name: LAPINE
+    distance_km: 24.74
+  - name: SISTERS
+    distance_km: 46.48
+- country: US
+  region: OR
+  name: Sutherlin
+  lat: '43.3882'
+  long: "-123.3242"
+  nearby_rate_centers:
+  - name: OAKLAND
+    distance_km: 3.71
+  - name: ROSEBURG
+    distance_km: 20.9
+  - name: GLIDE
+    distance_km: 21.24
+- country: US
+  region: OR
+  name: Svensen
+  lat: '46.1543'
+  long: "-123.6528"
+  nearby_rate_centers:
+  - name: KNAPPA
+    distance_km: 6.29
+  - name: ASTORIA
+    distance_km: 14.78
+  - name: WARRENTON
+    distance_km: 21.18
+- country: US
+  region: OR
+  name: Sweet Home
+  lat: '44.4023'
+  long: "-122.7028"
+  nearby_rate_centers:
+  - name: SWEET HOME
+    distance_km: 2.72
+  - name: LEBANON
+    distance_km: 21.84
+  - name: BROWNSVL
+    distance_km: 22.28
+- country: US
+  region: OR
+  name: Takilma
+  lat: '42.0409'
+  long: "-123.6223"
+  nearby_rate_centers:
+  - name: O BRIEN
+    distance_km: 6.63
+  - name: CAVE JCT
+    distance_km: 14.12
+  - name: SELMA
+    distance_km: 26.01
+- country: US
+  region: OR
+  name: Talent
+  lat: '42.2404'
+  long: "-122.7807"
+  nearby_rate_centers:
+  - name: PHOENIX
+    distance_km: 1.96
+  - name: ASHLAND
+    distance_km: 6.78
+  - name: MEDFORD
+    distance_km: 12.99
+- country: US
+  region: OR
+  name: Tangent
+  lat: '44.5477'
+  long: "-123.1109"
+  nearby_rate_centers:
+  - name: ALBANY
+    distance_km: 9.51
+  - name: SHEDD
+    distance_km: 9.68
+  - name: CORVALLIS
+    distance_km: 12.59
+- country: US
+  region: OR
+  name: Terrebonne
+  lat: '44.3533'
+  long: "-121.1807"
+  nearby_rate_centers:
+  - name: REDMOND
+    distance_km: 9.62
+  - name: CULVER
+    distance_km: 19.25
+  - name: THREE RVS
+    distance_km: 21.6
+- country: US
+  region: OR
+  name: Tetherow
+  lat: '44.0389'
+  long: "-121.3667"
+  nearby_rate_centers:
+  - name: BEND
+    distance_km: 5.96
+  - name: REDMOND
+    distance_km: 29.7
+  - name: SISTERS
+    distance_km: 31.49
+- country: US
+  region: OR
+  name: The Dalles
+  lat: '45.6053'
+  long: "-121.1818"
+  nearby_rate_centers:
+  - name: THE DALLES
+    distance_km: 0.54
+  - name: DUFUR
+    distance_km: 16.62
+  - name: MOSIER
+    distance_km: 18.39
+- country: US
+  region: OR
+  name: Three Rivers
+  lat: '43.8366'
+  long: "-121.4646"
+  nearby_rate_centers:
+  - name: LAPINE
+    distance_km: 19.39
+  - name: BEND
+    distance_km: 28.63
+  - name: GILCHRIST
+    distance_km: 43.8
+- country: US
+  region: OR
+  name: Tigard
+  lat: '45.4237'
+  long: "-122.7845"
+  nearby_rate_centers:
+  - name: TIGARD
+    distance_km: 1.24
+  - name: BEAVERTON
+    distance_km: 7.18
+  - name: SHERWOOD
+    distance_km: 8.46
+- country: US
+  region: OR
+  name: Tillamook
+  lat: '45.4562'
+  long: "-123.8331"
+  nearby_rate_centers:
+  - name: TILLAMOOK
+    distance_km: 0.95
+  - name: BAY CITY
+    distance_km: 8.46
+  - name: GARIBALDI
+    distance_km: 13.08
+- country: US
+  region: OR
+  name: Toledo
+  lat: '44.6198'
+  long: "-123.9341"
+  nearby_rate_centers:
+  - name: TOLEDO
+    distance_km: 0.52
+  - name: SOUTHBEACH
+    distance_km: 7.77
+  - name: NEWPORT
+    distance_km: 10.11
+- country: US
+  region: OR
+  name: Trail
+  lat: '42.6567'
+  long: "-122.8135"
+  nearby_rate_centers:
+  - name: SHADY COVE
+    distance_km: 4.66
+  - name: BUTTEFALLS
+    distance_km: 24.36
+  - name: WHITE CITY
+    distance_km: 24.78
+- country: US
+  region: OR
+  name: Trent
+  lat: '43.9429'
+  long: "-122.8575"
+  nearby_rate_centers:
+  - name: LOWELL
+    distance_km: 6.67
+  - name: CRESWELL
+    distance_km: 13.21
+  - name: EUGENE
+    distance_km: 21.56
+- country: US
+  region: OR
+  name: Tri-City
+  lat: '42.9894'
+  long: "-123.2999"
+  nearby_rate_centers:
+  - name: MYRTLE CRK
+    distance_km: 4.76
+  - name: RIDDLE
+    distance_km: 6.46
+  - name: CANYONVL
+    distance_km: 7.7
+- country: US
+  region: OR
+  name: Troutdale
+  lat: '45.5372'
+  long: "-122.3955"
+  nearby_rate_centers:
+  - name: GRESHAM
+    distance_km: 5.12
+  - name: CORBETT
+    distance_km: 9.36
+  - name: SUNNYSIDE
+    distance_km: 14.57
+- country: US
+  region: OR
+  name: Tualatin
+  lat: '45.3772'
+  long: "-122.7748"
+  nearby_rate_centers:
+  - name: SHERWOOD
+    distance_km: 5.71
+  - name: STFRD-SNDY
+    distance_km: 5.99
+  - name: TIGARD
+    distance_km: 6.28
+- country: US
+  region: OR
+  name: Tumalo
+  lat: '44.1561'
+  long: "-121.3280"
+  nearby_rate_centers:
+  - name: BEND
+    distance_km: 10.22
+  - name: REDMOND
+    distance_km: 17.46
+  - name: SISTERS
+    distance_km: 22.83
+- country: US
+  region: OR
+  name: Turner
+  lat: '44.8489'
+  long: "-122.9518"
+  nearby_rate_centers:
+  - name: AUMSVLTRNR
+    distance_km: 6.91
+  - name: SALEM
+    distance_km: 12.41
+  - name: STAYTON
+    distance_km: 13.85
+- country: US
+  region: OR
+  name: Tutuilla
+  lat: '45.6142'
+  long: "-118.7066"
+  nearby_rate_centers:
+  - name: PENDLETON
+    distance_km: 8.32
+  - name: PILOT ROCK
+    distance_km: 18.06
+  - name: MEACHAM
+    distance_km: 25.83
+- country: US
+  region: OR
+  name: Tygh Valley
+  lat: '45.2417'
+  long: "-121.1693"
+  nearby_rate_centers:
+  - name: TYGHVALLEY
+    distance_km: 1.05
+  - name: WAMIC
+    distance_km: 7.87
+  - name: MAUPIN
+    distance_km: 10.1
+- country: US
+  region: OR
+  name: Ukiah
+  lat: '45.1344'
+  long: "-118.9331"
+  nearby_rate_centers:
+  - name: UKIAH
+    distance_km: 0.46
+  - name: PILOT ROCK
+    distance_km: 38.91
+  - name: LONG CREEK
+    distance_km: 49.37
+- country: US
+  region: OR
+  name: Umapine
+  lat: '45.9760'
+  long: "-118.5010"
+  nearby_rate_centers:
+  - name: STATELINE
+    distance_km: 7.23
+  - name: MILTONFWTR
+    distance_km: 9.55
+  - name: HELIX
+    distance_km: 18.46
+- country: US
+  region: OR
+  name: Umatilla
+  lat: '45.9119'
+  long: "-119.3133"
+  nearby_rate_centers:
+  - name: UMATILLA
+    distance_km: 2.93
+  - name: HERMISTON
+    distance_km: 7.93
+  - name: STANFIELD
+    distance_km: 17.21
+- country: US
+  region: OR
+  name: Union
+  lat: '45.2089'
+  long: "-117.8679"
+  nearby_rate_centers:
+  - name: UNION
+    distance_km: 0.11
+  - name: COVE
+    distance_km: 10.86
+  - name: NO POWDER
+    distance_km: 20.97
+- country: US
+  region: OR
+  name: Unity
+  lat: '44.4491'
+  long: "-118.1881"
+  nearby_rate_centers:
+  - name: HEREFDUNTY
+    distance_km: 1.04
+  - name: BATES
+    distance_km: 29.6
+  - name: GRANITE
+    distance_km: 32.72
+  - name: SUMPTER
+    distance_km: 32.72
+- country: US
+  region: OR
+  name: Vale
+  lat: '43.9840'
+  long: "-117.2418"
+  nearby_rate_centers:
+  - name: VALE
+    distance_km: 0.19
+  - name: ONTARIO
+    distance_km: 22.89
+  - name: NYSSA
+    distance_km: 23.11
+- country: US
+  region: OR
+  name: Veneta
+  lat: '44.0471'
+  long: "-123.3514"
+  nearby_rate_centers:
+  - name: VENETA
+    distance_km: 0.43
+  - name: EUGENE
+    distance_km: 21.53
+  - name: HORTON
+    distance_km: 22.14
+- country: US
+  region: OR
+  name: Vernonia
+  lat: '45.8611'
+  long: "-123.1834"
+  nearby_rate_centers:
+  - name: VERNONIA
+    distance_km: 1.4
+  - name: JEWELL
+    distance_km: 24.88
+  - name: SCAPPOOSE
+    distance_km: 26.52
+- country: US
+  region: OR
+  name: Waldport
+  lat: '44.4172'
+  long: "-124.0665"
+  nearby_rate_centers:
+  - name: WALDPORT
+    distance_km: 1.01
+  - name: YACHATS
+    distance_km: 12.23
+  - name: TIDEWATER
+    distance_km: 13.8
+- country: US
+  region: OR
+  name: Wallowa
+  lat: '45.5704'
+  long: "-117.5286"
+  nearby_rate_centers:
+  - name: WALLOWA
+    distance_km: 0.71
+  - name: LOSTINE
+    distance_km: 12.61
+  - name: ENTERPRISE
+    distance_km: 25.63
+- country: US
+  region: OR
+  name: Wallowa Lake
+  lat: '45.3041'
+  long: "-117.2117"
+  nearby_rate_centers:
+  - name: JOSEPH
+    distance_km: 6.11
+  - name: ENTERPRISE
+    distance_km: 14.3
+  - name: LOSTINE
+    distance_km: 25.97
+- country: US
+  region: OR
+  name: Wamic
+  lat: '45.2256'
+  long: "-121.2927"
+  nearby_rate_centers:
+  - name: WAMIC
+    distance_km: 2.09
+  - name: TYGHVALLEY
+    distance_km: 9.35
+  - name: PINE GROVE
+    distance_km: 14.44
+- country: US
+  region: OR
+  name: Warm Springs
+  lat: '44.7669'
+  long: "-121.2898"
+  nearby_rate_centers:
+  - name: MADRAS
+    distance_km: 19.83
+  - name: THREE RVS
+    distance_km: 27.15
+  - name: CULVER
+    distance_km: 27.62
+- country: US
+  region: OR
+  name: Warren
+  lat: '45.8133'
+  long: "-122.8796"
+  nearby_rate_centers:
+  - name: SCAPPOOSE
+    distance_km: 6.26
+  - name: ST HELENS
+    distance_km: 8.3
+  - name: BURLINGTON
+    distance_km: 18.47
+- country: US
+  region: OR
+  name: Warrenton
+  lat: '46.1685'
+  long: "-123.9302"
+  nearby_rate_centers:
+  - name: WARRENTON
+    distance_km: 0.38
+  - name: ASTORIA
+    distance_km: 7.19
+  - name: SEASIDE
+    distance_km: 19.47
+- country: US
+  region: OR
+  name: Wasco
+  lat: '45.5917'
+  long: "-120.6974"
+  nearby_rate_centers:
+  - name: WASCO
+    distance_km: 0.27
+  - name: RUFUS
+    distance_km: 11.52
+  - name: MORO
+    distance_km: 12.46
+- country: US
+  region: OR
+  name: Waterloo
+  lat: '44.4947'
+  long: "-122.8242"
+  nearby_rate_centers:
+  - name: LEBANON
+    distance_km: 7.95
+  - name: SWEET HOME
+    distance_km: 13.77
+  - name: BROWNSVL
+    distance_km: 17.13
+- country: US
+  region: OR
+  name: Wedderburn
+  lat: '42.4328'
+  long: "-124.4232"
+  nearby_rate_centers:
+  - name: GOLD BEACH
+    distance_km: 2.97
+  - name: PORTORFORD
+    distance_km: 34.75
+  - name: BROOKINGS
+    distance_km: 44.21
+- country: US
+  region: OR
+  name: West Haven-Sylvan
+  lat: '45.5164'
+  long: "-122.7655"
+  nearby_rate_centers:
+  - name: BEAVERTON
+    distance_km: 4.95
+  - name: PORTLAND
+    distance_km: 7.89
+  - name: TIGARD
+    distance_km: 9.25
+- country: US
+  region: OR
+  name: West Linn
+  lat: '45.3670'
+  long: "-122.6399"
+  nearby_rate_centers:
+  - name: OREGONCITY
+    distance_km: 2.94
+  - name: CLACKAMAS
+    distance_km: 3.02
+  - name: LAKEOSWEGO
+    distance_km: 6.12
+- country: US
+  region: OR
+  name: West Scio
+  lat: '44.7098'
+  long: "-122.8812"
+  nearby_rate_centers:
+  - name: SCIO
+    distance_km: 2.87
+  - name: JEFFERSON
+    distance_km: 9.46
+  - name: STAYTON
+    distance_km: 12.08
+- country: US
+  region: OR
+  name: West Slope
+  lat: '45.4962'
+  long: "-122.7730"
+  nearby_rate_centers:
+  - name: BEAVERTON
+    distance_km: 3.21
+  - name: TIGARD
+    distance_km: 6.97
+  - name: PORTLAND
+    distance_km: 10.19
+- country: US
+  region: OR
+  name: Westfir
+  lat: '43.7579'
+  long: "-122.5097"
+  nearby_rate_centers:
+  - name: OAKRIDGE
+    distance_km: 4.73
+  - name: LOWELL
+    distance_km: 28.07
+  - name: LEABURG
+    distance_km: 41.15
+- country: US
+  region: OR
+  name: Weston
+  lat: '45.8165'
+  long: "-118.4258"
+  nearby_rate_centers:
+  - name: ATHENA
+    distance_km: 4.92
+  - name: MILTONFWTR
+    distance_km: 13.28
+  - name: HELIX
+    distance_km: 18.54
+- country: US
+  region: OR
+  name: Westport
+  lat: '46.1303'
+  long: "-123.3715"
+  nearby_rate_centers:
+  - name: WESTPORT
+    distance_km: 0.26
+  - name: CLATSKANIE
+    distance_km: 13.75
+  - name: KNAPPA
+    distance_km: 17.18
+- country: US
+  region: OR
+  name: Wheeler
+  lat: '45.6873'
+  long: "-123.8871"
+  nearby_rate_centers:
+  - name: NEHALEM
+    distance_km: 3.26
+  - name: ROCKAWAY
+    distance_km: 9.66
+  - name: GARIBALDI
+    distance_km: 14.6
+- country: US
+  region: OR
+  name: White City
+  lat: '42.4316'
+  long: "-122.8322"
+  nearby_rate_centers:
+  - name: WHITE CITY
+    distance_km: 1.33
+  - name: CENTRAL PT
+    distance_km: 9.31
+  - name: MEDFORD
+    distance_km: 11.65
+- country: US
+  region: OR
+  name: Willamina
+  lat: '45.0784'
+  long: "-123.4848"
+  nearby_rate_centers:
+  - name: WILLAMINA
+    distance_km: 0.4
+  - name: SHERIDAN
+    distance_km: 7.2
+  - name: GRANDRONDE
+    distance_km: 10.0
+- country: US
+  region: OR
+  name: Williams
+  lat: '42.2194'
+  long: "-123.2922"
+  nearby_rate_centers:
+  - name: PROVOTMPHY
+    distance_km: 9.14
+  - name: GRANTSPASS
+    distance_km: 24.59
+  - name: ROGUERIVER
+    distance_km: 25.77
+- country: US
+  region: OR
+  name: Wilsonville
+  lat: '45.3109'
+  long: "-122.7702"
+  nearby_rate_centers:
+  - name: CHARBONNEU
+    distance_km: 2.62
+  - name: STFRD-SNDY
+    distance_km: 5.68
+  - name: SHERWOOD
+    distance_km: 7.92
+- country: US
+  region: OR
+  name: Wimer
+  lat: '42.5446'
+  long: "-123.1480"
+  nearby_rate_centers:
+  - name: ROGUERIVER
+    distance_km: 12.67
+  - name: GOLD HILL
+    distance_km: 15.18
+  - name: GRANTSPASS
+    distance_km: 17.91
+- country: US
+  region: OR
+  name: Winchester Bay
+  lat: '43.6729'
+  long: "-124.1828"
+  nearby_rate_centers:
+  - name: REEDSPORT
+    distance_km: 7.25
+  - name: LAKESIDE
+    distance_km: 11.13
+  - name: SCOTTSBURG
+    distance_km: 31.27
+- country: US
+  region: OR
+  name: Winston
+  lat: '43.1201'
+  long: "-123.4246"
+  nearby_rate_centers:
+  - name: ROSEBURG
+    distance_km: 10.96
+  - name: MYRTLE CRK
+    distance_km: 16.82
+  - name: RIDDLE
+    distance_km: 19.44
+- country: US
+  region: OR
+  name: Wood Village
+  lat: '45.5358'
+  long: "-122.4205"
+  nearby_rate_centers:
+  - name: GRESHAM
+    distance_km: 4.05
+  - name: CORBETT
+    distance_km: 11.3
+  - name: SUNNYSIDE
+    distance_km: 13.6
+- country: US
+  region: OR
+  name: Woodburn
+  lat: '45.1472'
+  long: "-122.8603"
+  nearby_rate_centers:
+  - name: WOODBURN
+    distance_km: 0.52
+  - name: GERVAIS
+    distance_km: 4.93
+  - name: MOUNTANGEL
+    distance_km: 10.04
+- country: US
+  region: OR
+  name: Yachats
+  lat: '44.3127'
+  long: "-124.1023"
+  nearby_rate_centers:
+  - name: YACHATS
+    distance_km: 0.33
+  - name: WALDPORT
+    distance_km: 12.97
+  - name: TIDEWATER
+    distance_km: 19.8
+- country: US
+  region: OR
+  name: Yamhill
+  lat: '45.3409'
+  long: "-123.1846"
+  nearby_rate_centers:
+  - name: YAMHILL
+    distance_km: 0.07
+  - name: CARLTON
+    distance_km: 5.5
+  - name: MCMINNVL
+    distance_km: 14.56
+- country: US
+  region: OR
+  name: Yoncalla
+  lat: '43.6003'
+  long: "-123.2875"
+  nearby_rate_centers:
+  - name: YONCALLA
+    distance_km: 0.95
+  - name: DRAIN
+    distance_km: 6.96
+  - name: OAKLAND
+    distance_km: 20.46

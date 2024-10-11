@@ -1,0 +1,4832 @@
+---
+cities:
+- country: US
+  region: ND
+  name: Abercrombie
+  lat: '46.4469'
+  long: "-96.7294"
+  nearby_rate_centers:
+  - name: ABERCROMBI
+    distance_km: 1.01
+  - name: COLFAX
+    distance_km: 11.45
+  - name: CHRISTINE
+    distance_km: 12.58
+- country: US
+  region: ND
+  name: Adams
+  lat: '48.4202'
+  long: "-98.0737"
+  nearby_rate_centers:
+  - name: ADAMS
+    distance_km: 0.56
+  - name: FAIRDALE
+    distance_km: 12.41
+  - name: LANKIN
+    distance_km: 16.27
+- country: US
+  region: ND
+  name: Alamo
+  lat: '48.5824'
+  long: "-103.4676"
+  nearby_rate_centers:
+  - name: ALAMO
+    distance_km: 0.53
+  - name: WILDROSE
+    distance_km: 21.56
+  - name: MARMON
+    distance_km: 28.95
+- country: US
+  region: ND
+  name: Alexander
+  lat: '47.8393'
+  long: "-103.6426"
+  nearby_rate_centers:
+  - name: ALEXANDER
+    distance_km: 0.48
+  - name: ARNEGARD
+    distance_km: 16.14
+  - name: WATFORD CY
+    distance_km: 27.53
+- country: US
+  region: ND
+  name: Alice
+  lat: '46.7600'
+  long: "-97.5562"
+  nearby_rate_centers:
+  - name: ALICE
+    distance_km: 0.4
+  - name: ENDERLIN
+    distance_km: 15.97
+  - name: BUFFALO
+    distance_km: 17.6
+- country: US
+  region: ND
+  name: Almont
+  lat: '46.7283'
+  long: "-101.5026"
+  nearby_rate_centers:
+  - name: NEW SALEM
+    distance_km: 14.34
+  - name: GLEN ULLIN
+    distance_km: 26.5
+  - name: CARSON
+    distance_km: 34.16
+- country: US
+  region: ND
+  name: Alsen
+  lat: '48.6303'
+  long: "-98.7048"
+  nearby_rate_centers:
+  - name: MUNICH
+    distance_km: 9.12
+  - name: HAMPDEN
+    distance_km: 11.48
+  - name: STARKWETHR
+    distance_km: 23.88
+- country: US
+  region: ND
+  name: Ambrose
+  lat: '48.9559'
+  long: "-103.4813"
+  nearby_rate_centers:
+  - name: AMBROSE
+    distance_km: 0.61
+  - name: CROSBY
+    distance_km: 14.26
+  - name: FORTUNA
+    distance_km: 22.02
+- country: US
+  region: ND
+  name: Amenia
+  lat: '47.0065'
+  long: "-97.2241"
+  nearby_rate_centers:
+  - name: ARTHUR
+    distance_km: 10.26
+  - name: CASSELTON
+    distance_km: 11.88
+  - name: ABSARAKA
+    distance_km: 13.2
+- country: US
+  region: ND
+  name: Amidon
+  lat: '46.4822'
+  long: "-103.3196"
+  nearby_rate_centers:
+  - name: AMIDON
+    distance_km: 13.97
+  - name: E CARLYLE
+    distance_km: 30.58
+  - name: BOWMAN
+    distance_km: 33.72
+- country: US
+  region: ND
+  name: Anamoose
+  lat: '47.8828'
+  long: "-100.2420"
+  nearby_rate_centers:
+  - name: DRAKE
+    distance_km: 10.45
+  - name: MARTIN
+    distance_km: 11.35
+  - name: HARVEY
+    distance_km: 25.96
+- country: US
+  region: ND
+  name: Aneta
+  lat: '47.6795'
+  long: "-97.9897"
+  nearby_rate_centers:
+  - name: ANETA
+    distance_km: 0.94
+  - name: MCVILLE
+    distance_km: 17.03
+  - name: FINLEY
+    distance_km: 22.12
+- country: US
+  region: ND
+  name: Antler
+  lat: '48.9713'
+  long: "-101.2832"
+  nearby_rate_centers:
+  - name: ANTLER
+    distance_km: 0.41
+  - name: WESTHOPE
+    distance_km: 20.03
+  - name: SHERWOOD
+    distance_km: 25.57
+- country: US
+  region: ND
+  name: Apple Valley
+  lat: '46.8209'
+  long: "-100.5993"
+  nearby_rate_centers:
+  - name: MCKENZIE
+    distance_km: 10.6
+  - name: BISMARCK
+    distance_km: 14.23
+  - name: MANDAN
+    distance_km: 14.23
+  - name: STERLING
+    distance_km: 23.61
+- country: US
+  region: ND
+  name: Ardoch
+  lat: '48.2054'
+  long: "-97.3380"
+  nearby_rate_centers:
+  - name: MINTO
+    distance_km: 9.44
+  - name: WEST OSLO
+    distance_km: 14.91
+  - name: GILBY
+    distance_km: 16.78
+- country: US
+  region: ND
+  name: Argusville
+  lat: '47.0501'
+  long: "-96.9431"
+  nearby_rate_centers:
+  - name: GARDNER
+    distance_km: 10.63
+  - name: WESTPERLEY
+    distance_km: 15.74
+  - name: ARTHUR
+    distance_km: 21.6
+- country: US
+  region: ND
+  name: Arnegard
+  lat: '47.8084'
+  long: "-103.4388"
+  nearby_rate_centers:
+  - name: ARNEGARD
+    distance_km: 0.55
+  - name: WATFORD CY
+    distance_km: 12.0
+  - name: ALEXANDER
+    distance_km: 15.75
+- country: US
+  region: ND
+  name: Arthur
+  lat: '47.1043'
+  long: "-97.2184"
+  nearby_rate_centers:
+  - name: ARTHUR
+    distance_km: 0.62
+  - name: HUNTER
+    distance_km: 9.79
+  - name: ABSARAKA
+    distance_km: 19.01
+- country: US
+  region: ND
+  name: Ashley
+  lat: '46.0347'
+  long: "-99.3736"
+  nearby_rate_centers:
+  - name: ASHLEY
+    distance_km: 0.41
+  - name: VENTURIA
+    distance_km: 14.11
+  - name: NELVIK
+    distance_km: 16.16
+- country: US
+  region: ND
+  name: Auburn
+  lat: '48.5066'
+  long: "-97.4368"
+  nearby_rate_centers:
+  - name: GRAFTON
+    distance_km: 10.1
+  - name: ST THOMAS
+    distance_km: 12.43
+  - name: HOOPLE
+    distance_km: 14.05
+- country: US
+  region: ND
+  name: Ayr
+  lat: '47.0411'
+  long: "-97.4909"
+  nearby_rate_centers:
+  - name: ABSARAKA
+    distance_km: 9.77
+  - name: BUFFALO
+    distance_km: 14.19
+  - name: PAGE
+    distance_km: 14.32
+- country: US
+  region: ND
+  name: Balfour
+  lat: '47.9509'
+  long: "-100.5343"
+  nearby_rate_centers:
+  - name: DRAKE
+    distance_km: 12.82
+  - name: BUTTE
+    distance_km: 15.69
+  - name: KARLSRUHE
+    distance_km: 17.15
+- country: US
+  region: ND
+  name: Balta
+  lat: '48.1666'
+  long: "-100.0369"
+  nearby_rate_centers:
+  - name: BALTA
+    distance_km: 0.46
+  - name: RUGBY
+    distance_km: 22.56
+  - name: ESMOND
+    distance_km: 24.93
+- country: US
+  region: ND
+  name: Bantry
+  lat: '48.4973'
+  long: "-100.6095"
+  nearby_rate_centers:
+  - name: UPHAM
+    distance_km: 13.02
+  - name: TOWNER
+    distance_km: 21.97
+  - name: KRAMER
+    distance_km: 22.13
+- country: US
+  region: ND
+  name: Barney
+  lat: '46.2658'
+  long: "-96.9988"
+  nearby_rate_centers:
+  - name: MOORETON
+    distance_km: 9.29
+  - name: WYNDMERE
+    distance_km: 10.33
+  - name: GREAT BEND
+    distance_km: 19.84
+- country: US
+  region: ND
+  name: Barton
+  lat: '48.5093'
+  long: "-100.1734"
+  nearby_rate_centers:
+  - name: WILLOWCITY
+    distance_km: 13.46
+  - name: RUGBY
+    distance_km: 20.2
+  - name: TOWNER
+    distance_km: 25.02
+- country: US
+  region: ND
+  name: Bathgate
+  lat: '48.8803'
+  long: "-97.4741"
+  nearby_rate_centers:
+  - name: NECHE
+    distance_km: 12.72
+  - name: CAVALIER
+    distance_km: 14.34
+  - name: PEMBINA
+    distance_km: 19.66
+- country: US
+  region: ND
+  name: Beach
+  lat: '46.9189'
+  long: "-104.0055"
+  nearby_rate_centers:
+  - name: BEACH
+    distance_km: 0.48
+  - name: MEDORA
+    distance_km: 37.12
+  - name: E CARLYLE
+    distance_km: 49.99
+- country: US
+  region: ND
+  name: Belcourt
+  lat: '48.8417'
+  long: "-99.7447"
+  nearby_rate_centers:
+  - name: ROLLA
+    distance_km: 9.55
+  - name: ROLETTE
+    distance_km: 21.57
+  - name: DUNSEITH
+    distance_km: 23.17
+- country: US
+  region: ND
+  name: Belfield
+  lat: '46.8860'
+  long: "-103.1952"
+  nearby_rate_centers:
+  - name: BELFIELD
+    distance_km: 0.26
+  - name: SOUTHHEART
+    distance_km: 15.68
+  - name: MEDORA
+    distance_km: 24.85
+- country: US
+  region: ND
+  name: Benedict
+  lat: '47.8301'
+  long: "-101.0843"
+  nearby_rate_centers:
+  - name: MAX
+    distance_km: 15.94
+  - name: SO PRAIRIE
+    distance_km: 26.6
+  - name: VELVA
+    distance_km: 28.19
+- country: US
+  region: ND
+  name: Bergen
+  lat: '48.0037'
+  long: "-100.7199"
+  nearby_rate_centers:
+  - name: KARLSRUHE
+    distance_km: 12.02
+  - name: VELVA
+    distance_km: 16.54
+  - name: BUTTE
+    distance_km: 18.28
+- country: US
+  region: ND
+  name: Berlin
+  lat: '46.3784'
+  long: "-98.4885"
+  nearby_rate_centers:
+  - name: LAMOURE
+    distance_km: 15.35
+  - name: EDGELEY
+    distance_km: 16.95
+  - name: DICKEY
+    distance_km: 17.19
+- country: US
+  region: ND
+  name: Berthold
+  lat: '48.3170'
+  long: "-101.7478"
+  nearby_rate_centers:
+  - name: BERTHOLD
+    distance_km: 1.56
+  - name: CARPIO
+    distance_km: 13.12
+  - name: DES LACS
+    distance_km: 14.68
+- country: US
+  region: ND
+  name: Beulah
+  lat: '47.2665'
+  long: "-101.7734"
+  nearby_rate_centers:
+  - name: BEULAH
+    distance_km: 0.97
+  - name: ZAP
+    distance_km: 11.5
+  - name: HAZEN
+    distance_km: 11.93
+- country: US
+  region: ND
+  name: Binford
+  lat: '47.5604'
+  long: "-98.3456"
+  nearby_rate_centers:
+  - name: BINFORD
+    distance_km: 1.02
+  - name: MCHENRY
+    distance_km: 18.35
+  - name: COOPERSTN
+    distance_km: 21.9
+- country: US
+  region: ND
+  name: Bisbee
+  lat: '48.6272'
+  long: "-99.3788"
+  nearby_rate_centers:
+  - name: BISBEE
+    distance_km: 0.51
+  - name: CANDO
+    distance_km: 20.66
+  - name: ROCK LAKE
+    distance_km: 20.88
+- country: US
+  region: ND
+  name: Bismarck
+  lat: '46.8143'
+  long: "-100.7694"
+  nearby_rate_centers:
+  - name: BISMARCK
+    distance_km: 1.4
+  - name: MANDAN
+    distance_km: 1.4
+  - name: MCKENZIE
+    distance_km: 23.55
+  - name: ST ANTHONY
+    distance_km: 24.37
+- country: US
+  region: ND
+  name: Blacktail
+  lat: '48.4327'
+  long: "-103.7400"
+  nearby_rate_centers:
+  - name: MARMON
+    distance_km: 4.97
+  - name: GRENORA
+    distance_km: 24.87
+  - name: ALAMO
+    distance_km: 25.6
+- country: US
+  region: ND
+  name: Blanchard
+  lat: '47.3432'
+  long: "-97.2228"
+  nearby_rate_centers:
+  - name: HILLSBORO
+    distance_km: 13.8
+  - name: GALESBURG
+    distance_km: 16.62
+  - name: HUNTER
+    distance_km: 16.79
+- country: US
+  region: ND
+  name: Bottineau
+  lat: '48.8248'
+  long: "-100.4426"
+  nearby_rate_centers:
+  - name: BOTTINEAU
+    distance_km: 0.39
+  - name: METIGOSHE
+    distance_km: 18.28
+  - name: METIGOSHE CELLULAR
+    distance_km: 18.28
+  - name: SOURIS
+    distance_km: 19.74
+- country: US
+  region: ND
+  name: Bowbells
+  lat: '48.8027'
+  long: "-102.2457"
+  nearby_rate_centers:
+  - name: BOWBELLS
+    distance_km: 0.28
+  - name: FLAXTON
+    distance_km: 15.73
+  - name: KENMARE
+    distance_km: 19.13
+- country: US
+  region: ND
+  name: Bowdon
+  lat: '47.4685'
+  long: "-99.7089"
+  nearby_rate_centers:
+  - name: BOWDON
+    distance_km: 0.8
+  - name: FESSENDEN
+    distance_km: 21.24
+  - name: SYKESTON
+    distance_km: 23.27
+- country: US
+  region: ND
+  name: Bowman
+  lat: '46.1843'
+  long: "-103.4029"
+  nearby_rate_centers:
+  - name: BOWMAN
+    distance_km: 0.73
+  - name: LADD
+    distance_km: 19.08
+  - name: RHAME
+    distance_km: 19.13
+- country: US
+  region: ND
+  name: Braddock
+  lat: '46.5640'
+  long: "-100.0896"
+  nearby_rate_centers:
+  - name: KINTYRE
+    distance_km: 10.76
+  - name: HAZELTON
+    distance_km: 16.88
+  - name: NAPOLEON
+    distance_km: 25.5
+- country: US
+  region: ND
+  name: Briarwood
+  lat: '46.7870'
+  long: "-96.7949"
+  nearby_rate_centers:
+  - name: FARGO
+    distance_km: 9.9
+  - name: HICKSON
+    distance_km: 15.11
+  - name: KINDRED
+    distance_km: 22.94
+- country: US
+  region: ND
+  name: Brinsmade
+  lat: '48.1840'
+  long: "-99.3236"
+  nearby_rate_centers:
+  - name: MINNEWAKAN
+    distance_km: 13.42
+  - name: LEEDS
+    distance_km: 14.82
+  - name: PENN
+    distance_km: 18.08
+- country: US
+  region: ND
+  name: Brocket
+  lat: '48.2107'
+  long: "-98.3556"
+  nearby_rate_centers:
+  - name: BROCKET
+    distance_km: 0.59
+  - name: LAKOTA
+    distance_km: 18.85
+  - name: EDMORE
+    distance_km: 23.01
+- country: US
+  region: ND
+  name: Brooktree Park
+  lat: '47.0039'
+  long: "-96.8958"
+  nearby_rate_centers:
+  - name: FARGO
+    distance_km: 16.19
+  - name: GARDNER
+    distance_km: 16.54
+  - name: WESTPERLEY
+    distance_km: 19.33
+- country: US
+  region: ND
+  name: Buchanan
+  lat: '47.0626'
+  long: "-98.8290"
+  nearby_rate_centers:
+  - name: JAMESTOWN
+    distance_km: 19.95
+  - name: EDMUNDS
+    distance_km: 23.26
+  - name: WINDSOR
+    distance_km: 23.88
+- country: US
+  region: ND
+  name: Bucyrus
+  lat: '46.0648'
+  long: "-102.7885"
+  nearby_rate_centers:
+  - name: REEDER
+    distance_km: 12.37
+  - name: HETTINGER
+    distance_km: 13.97
+  - name: SCRANTON
+    distance_km: 28.09
+- country: US
+  region: ND
+  name: Buffalo
+  lat: '46.9193'
+  long: "-97.5507"
+  nearby_rate_centers:
+  - name: BUFFALO
+    distance_km: 0.84
+  - name: TOWER CITY
+    distance_km: 8.8
+  - name: ABSARAKA
+    distance_km: 13.78
+- country: US
+  region: ND
+  name: Burlington
+  lat: '48.2572'
+  long: "-101.4146"
+  nearby_rate_centers:
+  - name: MINOT
+    distance_km: 9.4
+  - name: DES LACS
+    distance_km: 11.47
+  - name: MINOT AFB
+    distance_km: 15.23
+- country: US
+  region: ND
+  name: Butte
+  lat: '47.8370'
+  long: "-100.6658"
+  nearby_rate_centers:
+  - name: BUTTE
+    distance_km: 0.7
+  - name: DRAKE
+    distance_km: 24.47
+  - name: KARLSRUHE
+    distance_km: 28.52
+- country: US
+  region: ND
+  name: Buxton
+  lat: '47.6021'
+  long: "-97.0976"
+  nearby_rate_centers:
+  - name: REYNOLDS
+    distance_km: 7.3
+  - name: WESTCLIMAX
+    distance_km: 17.25
+  - name: W NIELSVL
+    distance_km: 18.79
+- country: US
+  region: ND
+  name: Caledonia
+  lat: '47.4577'
+  long: "-96.8892"
+  nearby_rate_centers:
+  - name: WESTSHELLY
+    distance_km: 1.99
+  - name: W NIELSVL
+    distance_km: 7.77
+  - name: W HALSTAD
+    distance_km: 12.25
+- country: US
+  region: ND
+  name: Calio
+  lat: '48.6238'
+  long: "-98.9380"
+  nearby_rate_centers:
+  - name: MUNICH
+    distance_km: 9.29
+  - name: STARKWETHR
+    distance_km: 19.84
+  - name: HAMPDEN
+    distance_km: 23.52
+- country: US
+  region: ND
+  name: Calvin
+  lat: '48.8518'
+  long: "-98.9380"
+  nearby_rate_centers:
+  - name: SARLES
+    distance_km: 11.21
+  - name: ROCK LAKE
+    distance_km: 23.19
+  - name: MUNICH
+    distance_km: 23.25
+- country: US
+  region: ND
+  name: Cando
+  lat: '48.4872'
+  long: "-99.2026"
+  nearby_rate_centers:
+  - name: CANDO
+    distance_km: 0.42
+  - name: BISBEE
+    distance_km: 20.39
+  - name: STARKWETHR
+    distance_km: 24.15
+- country: US
+  region: ND
+  name: Cannon Ball
+  lat: '46.3173'
+  long: "-100.6357"
+  nearby_rate_centers:
+  - name: FORT YATES
+    distance_km: 26.09
+  - name: LINTON
+    distance_km: 32.06
+  - name: HAZELTON
+    distance_km: 33.16
+- country: US
+  region: ND
+  name: Carpio
+  lat: '48.4434'
+  long: "-101.7163"
+  nearby_rate_centers:
+  - name: CARPIO
+    distance_km: 1.44
+  - name: DONNYBROOK
+    distance_km: 13.58
+  - name: BERTHOLD
+    distance_km: 15.29
+- country: US
+  region: ND
+  name: Carrington
+  lat: '47.4520'
+  long: "-99.1307"
+  nearby_rate_centers:
+  - name: CARRINGTON
+    distance_km: 0.32
+  - name: SYKESTON
+    distance_km: 20.26
+  - name: NEW ROCKFD
+    distance_km: 24.8
+- country: US
+  region: ND
+  name: Carson
+  lat: '46.4223'
+  long: "-101.5706"
+  nearby_rate_centers:
+  - name: CARSON
+    distance_km: 0.33
+  - name: ELGIN
+    distance_km: 21.09
+  - name: FLASHER
+    distance_km: 26.63
+- country: US
+  region: ND
+  name: Casselton
+  lat: '46.8973'
+  long: "-97.2128"
+  nearby_rate_centers:
+  - name: CASSELTON
+    distance_km: 0.72
+  - name: ABSARAKA
+    distance_km: 16.75
+  - name: ARTHUR
+    distance_km: 22.41
+- country: US
+  region: ND
+  name: Cathay
+  lat: '47.5542'
+  long: "-99.4108"
+  nearby_rate_centers:
+  - name: SYKESTON
+    distance_km: 9.82
+  - name: FESSENDEN
+    distance_km: 19.27
+  - name: BOWDON
+    distance_km: 24.17
+- country: US
+  region: ND
+  name: Cavalier
+  lat: '48.7939'
+  long: "-97.6226"
+  nearby_rate_centers:
+  - name: CAVALIER
+    distance_km: 0.36
+  - name: NECHE
+    distance_km: 21.74
+  - name: CRYSTAL
+    distance_km: 22.65
+- country: US
+  region: ND
+  name: Cayuga
+  lat: '46.0761'
+  long: "-97.3845"
+  nearby_rate_centers:
+  - name: NO VEBLEN
+    distance_km: 16.46
+  - name: LIDGERWOOD
+    distance_km: 17.93
+  - name: FORMAN
+    distance_km: 19.69
+- country: US
+  region: ND
+  name: Center
+  lat: '47.1149'
+  long: "-101.2977"
+  nearby_rate_centers:
+  - name: CENTER
+    distance_km: 0.51
+  - name: STANTON
+    distance_km: 24.08
+  - name: WASHBURN
+    distance_km: 28.52
+- country: US
+  region: ND
+  name: Christine
+  lat: '46.5752'
+  long: "-96.8066"
+  nearby_rate_centers:
+  - name: CHRISTINE
+    distance_km: 4.69
+  - name: HICKSON
+    distance_km: 9.76
+  - name: WALCOTT
+    distance_km: 10.09
+- country: US
+  region: ND
+  name: Churchs Ferry
+  lat: '48.2686'
+  long: "-99.1944"
+  nearby_rate_centers:
+  - name: PENN
+    distance_km: 10.13
+  - name: LEEDS
+    distance_km: 18.66
+  - name: MINNEWAKAN
+    distance_km: 22.02
+- country: US
+  region: ND
+  name: Cleveland
+  lat: '46.8910'
+  long: "-99.1195"
+  nearby_rate_centers:
+  - name: WINDSOR
+    distance_km: 6.64
+  - name: MEDINA
+    distance_km: 14.01
+  - name: WOODWORTH
+    distance_km: 28.55
+- country: US
+  region: ND
+  name: Clifford
+  lat: '47.3483'
+  long: "-97.4102"
+  nearby_rate_centers:
+  - name: GALESBURG
+    distance_km: 9.17
+  - name: MAYVILLE
+    distance_km: 17.12
+  - name: HUNTER
+    distance_km: 22.74
+- country: US
+  region: ND
+  name: Cogswell
+  lat: '46.1070'
+  long: "-97.7842"
+  nearby_rate_centers:
+  - name: FORMAN
+    distance_km: 11.47
+  - name: GWINNER
+    distance_km: 16.09
+  - name: CRETE
+    distance_km: 17.46
+- country: US
+  region: ND
+  name: Coleharbor
+  lat: '47.5425'
+  long: "-101.2214"
+  nearby_rate_centers:
+  - name: UNDERWOOD
+    distance_km: 11.73
+  - name: PICK CITY
+    distance_km: 17.93
+  - name: GARRISON
+    distance_km: 18.68
+- country: US
+  region: ND
+  name: Colfax
+  lat: '46.4710'
+  long: "-96.8725"
+  nearby_rate_centers:
+  - name: COLFAX
+    distance_km: 0.73
+  - name: WALCOTT
+    distance_km: 10.06
+  - name: ABERCROMBI
+    distance_km: 10.67
+- country: US
+  region: ND
+  name: Columbus
+  lat: '48.9050'
+  long: "-102.7812"
+  nearby_rate_centers:
+  - name: COLUMBUS
+    distance_km: 0.27
+  - name: LIGNITE
+    distance_km: 16.22
+  - name: NOONAN
+    distance_km: 17.49
+- country: US
+  region: ND
+  name: Conway
+  lat: '48.2343'
+  long: "-97.6751"
+  nearby_rate_centers:
+  - name: FORDVILLE
+    distance_km: 8.88
+  - name: INKSTER
+    distance_km: 9.88
+  - name: PARK RIVER
+    distance_km: 18.34
+- country: US
+  region: ND
+  name: Cooperstown
+  lat: '47.4451'
+  long: "-98.1259"
+  nearby_rate_centers:
+  - name: COOPERSTN
+    distance_km: 1.01
+  - name: HANNAFORD
+    distance_km: 15.15
+  - name: BINFORD
+    distance_km: 21.09
+- country: US
+  region: ND
+  name: Courtenay
+  lat: '47.2241'
+  long: "-98.5685"
+  nearby_rate_centers:
+  - name: COURTENAY
+    distance_km: 0.67
+  - name: DAZEY
+    distance_km: 28.1
+  - name: EDMUNDS
+    distance_km: 29.91
+- country: US
+  region: ND
+  name: Crary
+  lat: '48.0716'
+  long: "-98.6385"
+  nearby_rate_centers:
+  - name: CRARY
+    distance_km: 0.5
+  - name: DEVILSLAKE
+    distance_km: 16.84
+  - name: LAKOTA
+    distance_km: 21.83
+- country: US
+  region: ND
+  name: Crosby
+  lat: '48.9162'
+  long: "-103.2966"
+  nearby_rate_centers:
+  - name: CROSBY
+    distance_km: 0.07
+  - name: AMBROSE
+    distance_km: 14.16
+  - name: NOONAN
+    distance_km: 20.59
+- country: US
+  region: ND
+  name: Crystal
+  lat: '48.5981'
+  long: "-97.6685"
+  nearby_rate_centers:
+  - name: CRYSTAL
+    distance_km: 0.62
+  - name: HOOPLE
+    distance_km: 8.15
+  - name: ST THOMAS
+    distance_km: 16.47
+- country: US
+  region: ND
+  name: Dahlen
+  lat: '48.1587'
+  long: "-97.9319"
+  nearby_rate_centers:
+  - name: DAHLEN
+    distance_km: 1.41
+  - name: FORDVILLE
+    distance_km: 12.26
+  - name: LANKIN
+    distance_km: 17.5
+- country: US
+  region: ND
+  name: Davenport
+  lat: '46.7148'
+  long: "-97.0657"
+  nearby_rate_centers:
+  - name: KINDRED
+    distance_km: 8.03
+  - name: LEONARD
+    distance_km: 15.82
+  - name: WALCOTT
+    distance_km: 20.81
+- country: US
+  region: ND
+  name: Dawson
+  lat: '46.8679'
+  long: "-99.7536"
+  nearby_rate_centers:
+  - name: TAPPEN
+    distance_km: 7.28
+  - name: STEELE
+    distance_km: 12.4
+  - name: ROBINSON
+    distance_km: 30.72
+- country: US
+  region: ND
+  name: Dazey
+  lat: '47.1883'
+  long: "-98.2007"
+  nearby_rate_centers:
+  - name: DAZEY
+    distance_km: 0.34
+  - name: HANNAFORD
+    distance_km: 14.13
+  - name: SANBORN
+    distance_km: 27.32
+- country: US
+  region: ND
+  name: De Lamere
+  lat: '46.2668'
+  long: "-97.3332"
+  nearby_rate_centers:
+  - name: MILNOR
+    distance_km: 9.66
+  - name: WYNDMERE
+    distance_km: 15.37
+  - name: LIDGERWOOD
+    distance_km: 25.58
+- country: US
+  region: ND
+  name: Deering
+  lat: '48.3959'
+  long: "-101.0499"
+  nearby_rate_centers:
+  - name: DEERING
+    distance_km: 0.68
+  - name: GLENBURN
+    distance_km: 17.68
+  - name: MINOT AFB
+    distance_km: 19.22
+- country: US
+  region: ND
+  name: Denhoff
+  lat: '47.4786'
+  long: "-100.2592"
+  nearby_rate_centers:
+  - name: GOODRICH
+    distance_km: 9.91
+  - name: MCCLUSKY
+    distance_km: 13.53
+  - name: MERCER
+    distance_km: 33.75
+- country: US
+  region: ND
+  name: Des Lacs
+  lat: '48.2564'
+  long: "-101.5636"
+  nearby_rate_centers:
+  - name: DES LACS
+    distance_km: 0.53
+  - name: BERTHOLD
+    distance_km: 13.78
+  - name: MINOT
+    distance_km: 20.23
+- country: US
+  region: ND
+  name: Dickey
+  lat: '46.5368'
+  long: "-98.4681"
+  nearby_rate_centers:
+  - name: DICKEY
+    distance_km: 0.61
+  - name: MARION
+    distance_km: 12.7
+  - name: LAMOURE
+    distance_km: 24.17
+- country: US
+  region: ND
+  name: Dickinson
+  lat: '46.8918'
+  long: "-102.7925"
+  nearby_rate_centers:
+  - name: DICKINSON
+    distance_km: 1.96
+  - name: SOUTHHEART
+    distance_km: 15.42
+  - name: BELFIELD
+    distance_km: 30.4
+- country: US
+  region: ND
+  name: Dodge
+  lat: '47.3057'
+  long: "-102.2029"
+  nearby_rate_centers:
+  - name: DODGE
+    distance_km: 0.26
+  - name: GOLDEN VLY
+    distance_km: 10.24
+  - name: HALLIDAY
+    distance_km: 11.34
+- country: US
+  region: ND
+  name: Donnybrook
+  lat: '48.5077'
+  long: "-101.8868"
+  nearby_rate_centers:
+  - name: DONNYBROOK
+    distance_km: 1.06
+  - name: CARPIO
+    distance_km: 15.68
+  - name: SPENCER
+    distance_km: 18.68
+- country: US
+  region: ND
+  name: Douglas
+  lat: '47.8579'
+  long: "-101.5018"
+  nearby_rate_centers:
+  - name: DOUGLAS
+    distance_km: 0.35
+  - name: RYDER
+    distance_km: 14.55
+  - name: MAX
+    distance_km: 15.66
+- country: US
+  region: ND
+  name: Drake
+  lat: '47.9226'
+  long: "-100.3745"
+  nearby_rate_centers:
+  - name: DRAKE
+    distance_km: 0.77
+  - name: MARTIN
+    distance_km: 22.09
+  - name: BUTTE
+    distance_km: 23.73
+- country: US
+  region: ND
+  name: Drayton
+  lat: '48.5620'
+  long: "-97.1794"
+  nearby_rate_centers:
+  - name: DRAYTON
+    distance_km: 0.24
+  - name: ST THOMAS
+    distance_km: 20.62
+  - name: GRAFTON
+    distance_km: 23.88
+- country: US
+  region: ND
+  name: Driscoll
+  lat: '46.8427'
+  long: "-100.1439"
+  nearby_rate_centers:
+  - name: STERLING
+    distance_km: 11.24
+  - name: STEELE
+    distance_km: 17.41
+  - name: MCKENZIE
+    distance_km: 24.16
+- country: US
+  region: ND
+  name: Dunn Center
+  lat: '47.3527'
+  long: "-102.6233"
+  nearby_rate_centers:
+  - name: DUNNCENTER
+    distance_km: 0.74
+  - name: KILLDEER
+    distance_km: 9.59
+  - name: MANNING
+    distance_km: 17.71
+- country: US
+  region: ND
+  name: Dunseith
+  lat: '48.8130'
+  long: "-100.0622"
+  nearby_rate_centers:
+  - name: DUNSEITH
+    distance_km: 0.59
+  - name: ROLETTE
+    distance_km: 23.42
+  - name: METIGOSHE
+    distance_km: 26.89
+  - name: METIGOSHE CELLULAR
+    distance_km: 26.89
+- country: US
+  region: ND
+  name: Dwight
+  lat: '46.3039'
+  long: "-96.7402"
+  nearby_rate_centers:
+  - name: WAHPETON
+    distance_km: 11.08
+  - name: MOORETON
+    distance_km: 11.4
+  - name: ABERCROMBI
+    distance_km: 15.3
+- country: US
+  region: ND
+  name: East Dunseith
+  lat: '48.8547'
+  long: "-100.0285"
+  nearby_rate_centers:
+  - name: DUNSEITH
+    distance_km: 5.51
+  - name: ROLETTE
+    distance_km: 25.61
+  - name: METIGOSHE
+    distance_km: 26.14
+  - name: METIGOSHE CELLULAR
+    distance_km: 26.14
+- country: US
+  region: ND
+  name: East Fairview
+  lat: '47.8554'
+  long: "-104.0375"
+  nearby_rate_centers:
+  - name: E FAIRVIEW
+    distance_km: 1.09
+  - name: EASTSIDNEY
+    distance_km: 16.36
+  - name: ALEXANDER
+    distance_km: 29.45
+- country: US
+  region: ND
+  name: Edgeley
+  lat: '46.3625'
+  long: "-98.7126"
+  nearby_rate_centers:
+  - name: EDGELEY
+    distance_km: 0.53
+  - name: MERRICOURT
+    distance_km: 17.79
+  - name: KULM
+    distance_km: 18.92
+- country: US
+  region: ND
+  name: Edinburg
+  lat: '48.4955'
+  long: "-97.8629"
+  nearby_rate_centers:
+  - name: EDINBURG
+    distance_km: 0.66
+  - name: PARK RIVER
+    distance_km: 14.47
+  - name: ADAMS
+    distance_km: 17.19
+- country: US
+  region: ND
+  name: Edmore
+  lat: '48.4124'
+  long: "-98.4536"
+  nearby_rate_centers:
+  - name: EDMORE
+    distance_km: 0.63
+  - name: NEKOMA
+    distance_km: 18.23
+  - name: FAIRDALE
+    distance_km: 19.29
+- country: US
+  region: ND
+  name: Egeland
+  lat: '48.6281'
+  long: "-99.0980"
+  nearby_rate_centers:
+  - name: CANDO
+    distance_km: 17.52
+  - name: MUNICH
+    distance_km: 20.53
+  - name: ROCK LAKE
+    distance_km: 21.0
+- country: US
+  region: ND
+  name: Elgin
+  lat: '46.4014'
+  long: "-101.8474"
+  nearby_rate_centers:
+  - name: ELGIN
+    distance_km: 0.26
+  - name: CARSON
+    distance_km: 21.61
+  - name: MOTT
+    distance_km: 36.83
+- country: US
+  region: ND
+  name: Ellendale
+  lat: '46.0043'
+  long: "-98.5254"
+  nearby_rate_centers:
+  - name: ELLENDALE
+    distance_km: 0.63
+  - name: FULLERTON
+    distance_km: 19.49
+  - name: FORBES
+    distance_km: 20.75
+- country: US
+  region: ND
+  name: Elliott
+  lat: '46.4023'
+  long: "-97.8149"
+  nearby_rate_centers:
+  - name: LISBON
+    distance_km: 11.67
+  - name: FORTRANSOM
+    distance_km: 15.21
+  - name: VERONA
+    distance_km: 20.68
+- country: US
+  region: ND
+  name: Embden
+  lat: '46.8050'
+  long: "-97.4395"
+  nearby_rate_centers:
+  - name: ALICE
+    distance_km: 10.12
+  - name: BUFFALO
+    distance_km: 14.69
+  - name: ABSARAKA
+    distance_km: 20.04
+- country: US
+  region: ND
+  name: Emerado
+  lat: '47.9245'
+  long: "-97.3653"
+  nearby_rate_centers:
+  - name: EMERADO
+    distance_km: 1.02
+  - name: GILBY
+    distance_km: 19.08
+  - name: LARIMORE
+    distance_km: 19.53
+- country: US
+  region: ND
+  name: Enderlin
+  lat: '46.6215'
+  long: "-97.5956"
+  nearby_rate_centers:
+  - name: ENDERLIN
+    distance_km: 0.62
+  - name: SHELDON
+    distance_km: 8.32
+  - name: ALICE
+    distance_km: 15.46
+- country: US
+  region: ND
+  name: Englevale
+  lat: '46.3912'
+  long: "-97.9038"
+  nearby_rate_centers:
+  - name: VERONA
+    distance_km: 13.77
+  - name: FORTRANSOM
+    distance_km: 13.98
+  - name: LISBON
+    distance_km: 18.5
+- country: US
+  region: ND
+  name: Epping
+  lat: '48.2817'
+  long: "-103.3579"
+  nearby_rate_centers:
+  - name: EPPING
+    distance_km: 0.23
+  - name: RAY
+    distance_km: 15.18
+  - name: WILLISTON
+    distance_km: 25.49
+- country: US
+  region: ND
+  name: Erie
+  lat: '47.1154'
+  long: "-97.3879"
+  nearby_rate_centers:
+  - name: ARTHUR
+    distance_km: 12.9
+  - name: PAGE
+    distance_km: 14.39
+  - name: ABSARAKA
+    distance_km: 14.77
+- country: US
+  region: ND
+  name: Esmond
+  lat: '48.0330'
+  long: "-99.7647"
+  nearby_rate_centers:
+  - name: ESMOND
+    distance_km: 0.23
+  - name: MADDOCK
+    distance_km: 19.77
+  - name: BALTA
+    distance_km: 25.49
+- country: US
+  region: ND
+  name: Fairdale
+  lat: '48.4900'
+  long: "-98.2312"
+  nearby_rate_centers:
+  - name: FAIRDALE
+    distance_km: 1.56
+  - name: NEKOMA
+    distance_km: 13.43
+  - name: ADAMS
+    distance_km: 13.93
+- country: US
+  region: ND
+  name: Fairmount
+  lat: '46.0547'
+  long: "-96.6029"
+  nearby_rate_centers:
+  - name: FAIRMOUNT
+    distance_km: 0.33
+  - name: GREAT BEND
+    distance_km: 18.7
+  - name: HANKINSON
+    distance_km: 22.98
+- country: US
+  region: ND
+  name: Fargo
+  lat: '46.8651'
+  long: "-96.8292"
+  nearby_rate_centers:
+  - name: FARGO
+    distance_km: 2.94
+  - name: HICKSON
+    distance_km: 24.16
+  - name: KINDRED
+    distance_km: 27.99
+- country: US
+  region: ND
+  name: Fessenden
+  lat: '47.6494'
+  long: "-99.6267"
+  nearby_rate_centers:
+  - name: FESSENDEN
+    distance_km: 0.24
+  - name: BOWDON
+    distance_km: 20.33
+  - name: SYKESTON
+    distance_km: 26.57
+- country: US
+  region: ND
+  name: Fingal
+  lat: '46.7625'
+  long: "-97.7932"
+  nearby_rate_centers:
+  - name: NOME
+    distance_km: 8.9
+  - name: KATHRYN
+    distance_km: 17.2
+  - name: ALICE
+    distance_km: 18.33
+- country: US
+  region: ND
+  name: Finley
+  lat: '47.5125'
+  long: "-97.8373"
+  nearby_rate_centers:
+  - name: FINLEY
+    distance_km: 0.33
+  - name: ANETA
+    distance_km: 20.87
+  - name: COOPERSTN
+    distance_km: 22.37
+- country: US
+  region: ND
+  name: Flasher
+  lat: '46.4521'
+  long: "-101.2324"
+  nearby_rate_centers:
+  - name: FLASHER
+    distance_km: 0.97
+  - name: CARSON
+    distance_km: 25.86
+  - name: ST ANTHONY
+    distance_km: 30.54
+- country: US
+  region: ND
+  name: Flaxton
+  lat: '48.8974'
+  long: "-102.3933"
+  nearby_rate_centers:
+  - name: FLAXTON
+    distance_km: 0.66
+  - name: LIGNITE
+    distance_km: 12.53
+  - name: BOWBELLS
+    distance_km: 15.34
+- country: US
+  region: ND
+  name: Forbes
+  lat: '45.9425'
+  long: "-98.7820"
+  nearby_rate_centers:
+  - name: FORBES
+    distance_km: 0.69
+  - name: ELLENDALE
+    distance_km: 21.61
+  - name: MERRICOURT
+    distance_km: 29.46
+- country: US
+  region: ND
+  name: Fordville
+  lat: '48.2166'
+  long: "-97.7954"
+  nearby_rate_centers:
+  - name: FORDVILLE
+    distance_km: 0.26
+  - name: DAHLEN
+    distance_km: 13.31
+  - name: INKSTER
+    distance_km: 13.69
+- country: US
+  region: ND
+  name: Forest River
+  lat: '48.2166'
+  long: "-97.4703"
+  nearby_rate_centers:
+  - name: MINTO
+    distance_km: 10.39
+  - name: INKSTER
+    distance_km: 14.82
+  - name: GILBY
+    distance_km: 14.99
+- country: US
+  region: ND
+  name: Forman
+  lat: '46.1040'
+  long: "-97.6369"
+  nearby_rate_centers:
+  - name: FORMAN
+    distance_km: 0.56
+  - name: GWINNER
+    distance_km: 13.92
+  - name: NO BRITTON
+    distance_km: 20.09
+- country: US
+  region: ND
+  name: Fort Ransom
+  lat: '46.5244'
+  long: "-97.9310"
+  nearby_rate_centers:
+  - name: FORTRANSOM
+    distance_km: 1.03
+  - name: KATHRYN
+    distance_km: 17.08
+  - name: NOME
+    distance_km: 19.95
+- country: US
+  region: ND
+  name: Fort Totten
+  lat: '47.9716'
+  long: "-98.9971"
+  nearby_rate_centers:
+  - name: FORTTOTTEN
+    distance_km: 0.98
+  - name: OBERON
+    distance_km: 16.08
+  - name: SHEYENNE
+    distance_km: 17.81
+- country: US
+  region: ND
+  name: Fort Yates
+  lat: '46.0865'
+  long: "-100.6301"
+  nearby_rate_centers:
+  - name: FORT YATES
+    distance_km: 0.59
+  - name: NOMCLAGHLI
+    distance_km: 22.38
+  - name: SELFRIDGE
+    distance_km: 23.25
+- country: US
+  region: ND
+  name: Fortuna
+  lat: '48.9099'
+  long: "-103.7783"
+  nearby_rate_centers:
+  - name: FORTUNA
+    distance_km: 0.57
+  - name: EASTWESTBY
+    distance_km: 19.72
+  - name: AMBROSE
+    distance_km: 22.02
+- country: US
+  region: ND
+  name: Four Bears Village
+  lat: '47.9871'
+  long: "-102.5939"
+  nearby_rate_centers:
+  - name: NEW TOWN
+    distance_km: 8.73
+  - name: KEENE
+    distance_km: 26.8
+  - name: MANDAREE
+    distance_km: 29.2
+- country: US
+  region: ND
+  name: Foxholm
+  lat: '48.3654'
+  long: "-101.5721"
+  nearby_rate_centers:
+  - name: DES LACS
+    distance_km: 11.83
+  - name: CARPIO
+    distance_km: 12.43
+  - name: BERTHOLD
+    distance_km: 13.65
+- country: US
+  region: ND
+  name: Fredonia
+  lat: '46.3291'
+  long: "-99.0955"
+  nearby_rate_centers:
+  - name: FREDONIA
+    distance_km: 0.31
+  - name: KULM
+    distance_km: 12.05
+  - name: LEHR
+    distance_km: 20.61
+- country: US
+  region: ND
+  name: Frontier
+  lat: '46.8002'
+  long: "-96.8331"
+  nearby_rate_centers:
+  - name: FARGO
+    distance_km: 8.94
+  - name: HICKSON
+    distance_km: 17.36
+  - name: KINDRED
+    distance_km: 21.95
+- country: US
+  region: ND
+  name: Fullerton
+  lat: '46.1632'
+  long: "-98.4272"
+  nearby_rate_centers:
+  - name: FULLERTON
+    distance_km: 0.28
+  - name: ELLENDALE
+    distance_km: 18.74
+  - name: GUELPH
+    distance_km: 22.37
+- country: US
+  region: ND
+  name: Gackle
+  lat: '46.6264'
+  long: "-99.1412"
+  nearby_rate_centers:
+  - name: GACKLE
+    distance_km: 1.11
+  - name: STREETER
+    distance_km: 17.19
+  - name: JUD
+    distance_km: 22.66
+- country: US
+  region: ND
+  name: Galesburg
+  lat: '47.2701'
+  long: "-97.4087"
+  nearby_rate_centers:
+  - name: GALESBURG
+    distance_km: 0.52
+  - name: HUNTER
+    distance_km: 16.97
+  - name: PAGE
+    distance_km: 17.2
+- country: US
+  region: ND
+  name: Gardena
+  lat: '48.7012'
+  long: "-100.4981"
+  nearby_rate_centers:
+  - name: BOTTINEAU
+    distance_km: 14.58
+  - name: KRAMER
+    distance_km: 15.69
+  - name: WILLOWCITY
+    distance_km: 18.73
+- country: US
+  region: ND
+  name: Gardner
+  lat: '47.1445'
+  long: "-96.9686"
+  nearby_rate_centers:
+  - name: GARDNER
+    distance_km: 0.04
+  - name: WESTPERLEY
+    distance_km: 10.08
+  - name: HUNTER
+    distance_km: 19.4
+- country: US
+  region: ND
+  name: Garrison
+  lat: '47.6532'
+  long: "-101.4219"
+  nearby_rate_centers:
+  - name: GARRISON
+    distance_km: 0.77
+  - name: EMMET
+    distance_km: 2.11
+  - name: PICK CITY
+    distance_km: 16.05
+- country: US
+  region: ND
+  name: Gascoyne
+  lat: '46.1190'
+  long: "-103.0788"
+  nearby_rate_centers:
+  - name: SCRANTON
+    distance_km: 5.29
+  - name: REEDER
+    distance_km: 11.1
+  - name: BOWMAN
+    distance_km: 25.28
+- country: US
+  region: ND
+  name: Gilby
+  lat: '48.0835'
+  long: "-97.4679"
+  nearby_rate_centers:
+  - name: GILBY
+    distance_km: 0.18
+  - name: INKSTER
+    distance_km: 14.79
+  - name: EMERADO
+    distance_km: 19.77
+- country: US
+  region: ND
+  name: Gladstone
+  lat: '46.8595'
+  long: "-102.5701"
+  nearby_rate_centers:
+  - name: DICKINSON
+    distance_km: 16.24
+  - name: RICHARDTON
+    distance_km: 19.5
+  - name: SOUTHHEART
+    distance_km: 32.03
+- country: US
+  region: ND
+  name: Glen Ullin
+  lat: '46.8120'
+  long: "-101.8333"
+  nearby_rate_centers:
+  - name: GLEN ULLIN
+    distance_km: 0.79
+  - name: HEBRON
+    distance_km: 18.46
+  - name: NEW SALEM
+    distance_km: 32.24
+- country: US
+  region: ND
+  name: Glenburn
+  lat: '48.5136'
+  long: "-101.2211"
+  nearby_rate_centers:
+  - name: GLENBURN
+    distance_km: 0.52
+  - name: MINOT AFB
+    distance_km: 16.75
+  - name: LANSFORD
+    distance_km: 16.86
+- country: US
+  region: ND
+  name: Glenfield
+  lat: '47.4551'
+  long: "-98.5664"
+  nearby_rate_centers:
+  - name: MCHENRY
+    distance_km: 13.38
+  - name: GRACE CITY
+    distance_km: 20.85
+  - name: BINFORD
+    distance_km: 21.22
+- country: US
+  region: ND
+  name: Golden Valley
+  lat: '47.2901'
+  long: "-102.0652"
+  nearby_rate_centers:
+  - name: GOLDEN VLY
+    distance_km: 0.33
+  - name: DODGE
+    distance_km: 10.56
+  - name: ZAP
+    distance_km: 10.69
+- country: US
+  region: ND
+  name: Golva
+  lat: '46.7347'
+  long: "-103.9829"
+  nearby_rate_centers:
+  - name: BEACH
+    distance_km: 20.43
+  - name: E CARLYLE
+    distance_km: 31.76
+  - name: MEDORA
+    distance_km: 41.38
+- country: US
+  region: ND
+  name: Goodrich
+  lat: '47.4759'
+  long: "-100.1247"
+  nearby_rate_centers:
+  - name: GOODRICH
+    distance_km: 0.21
+  - name: MCCLUSKY
+    distance_km: 23.64
+  - name: BOWDON
+    distance_km: 31.1
+- country: US
+  region: ND
+  name: Grace City
+  lat: '47.5513'
+  long: "-98.8039"
+  nearby_rate_centers:
+  - name: GRACE CITY
+    distance_km: 0.07
+  - name: MCHENRY
+    distance_km: 16.31
+  - name: CARRINGTON
+    distance_km: 26.69
+- country: US
+  region: ND
+  name: Grafton
+  lat: '48.4142'
+  long: "-97.4056"
+  nearby_rate_centers:
+  - name: GRAFTON
+    distance_km: 0.94
+  - name: MINTO
+    distance_km: 14.38
+  - name: HOOPLE
+    distance_km: 20.69
+- country: US
+  region: ND
+  name: Grand Forks
+  lat: '47.9214'
+  long: "-97.0884"
+  nearby_rate_centers:
+  - name: GRANDFORKS
+    distance_km: 3.85
+  - name: THOMPSON
+    distance_km: 16.49
+  - name: MANVEL
+    distance_km: 18.22
+- country: US
+  region: ND
+  name: Grand Forks AFB
+  lat: '47.9557'
+  long: "-97.3913"
+  nearby_rate_centers:
+  - name: EMERADO
+    distance_km: 4.47
+  - name: GILBY
+    distance_km: 15.14
+  - name: LARIMORE
+    distance_km: 18.23
+- country: US
+  region: ND
+  name: Grandin
+  lat: '47.2367'
+  long: "-97.0032"
+  nearby_rate_centers:
+  - name: GARDNER
+    distance_km: 10.62
+  - name: WESTPERLEY
+    distance_km: 14.0
+  - name: W HALSTAD
+    distance_km: 16.4
+- country: US
+  region: ND
+  name: Grano
+  lat: '48.6153'
+  long: "-101.5892"
+  nearby_rate_centers:
+  - name: LANSFORD
+    distance_km: 15.62
+  - name: MOHALL
+    distance_km: 17.86
+  - name: TOLLEY
+    distance_km: 21.04
+- country: US
+  region: ND
+  name: Granville
+  lat: '48.2663'
+  long: "-100.8449"
+  nearby_rate_centers:
+  - name: DEERING
+    distance_km: 21.22
+  - name: VELVA
+    distance_km: 23.68
+  - name: KARLSRUHE
+    distance_km: 25.23
+- country: US
+  region: ND
+  name: Great Bend
+  lat: '46.1546'
+  long: "-96.8010"
+  nearby_rate_centers:
+  - name: GREAT BEND
+    distance_km: 0.55
+  - name: HANKINSON
+    distance_km: 12.32
+  - name: MOORETON
+    distance_km: 13.72
+- country: US
+  region: ND
+  name: Green Acres
+  lat: '48.8381'
+  long: "-99.6901"
+  nearby_rate_centers:
+  - name: ROLLA
+    distance_km: 5.85
+  - name: ROLETTE
+    distance_km: 22.88
+  - name: DUNSEITH
+    distance_km: 27.07
+- country: US
+  region: ND
+  name: Grenora
+  lat: '48.6199'
+  long: "-103.9367"
+  nearby_rate_centers:
+  - name: GRENORA
+    distance_km: 0.56
+  - name: EASTWESTBY
+    distance_km: 29.2
+  - name: MARMON
+    distance_km: 29.91
+- country: US
+  region: ND
+  name: Gwinner
+  lat: '46.2358'
+  long: "-97.6696"
+  nearby_rate_centers:
+  - name: GWINNER
+    distance_km: 0.95
+  - name: FORMAN
+    distance_km: 14.35
+  - name: MILNOR
+    distance_km: 16.44
+- country: US
+  region: ND
+  name: Hague
+  lat: '46.0289'
+  long: "-99.9991"
+  nearby_rate_centers:
+  - name: ZEELAND
+    distance_km: 14.6
+  - name: STRASBURG
+    distance_km: 16.87
+  - name: LINTON
+    distance_km: 30.98
+- country: US
+  region: ND
+  name: Halliday
+  lat: '47.3521'
+  long: "-102.3387"
+  nearby_rate_centers:
+  - name: HALLIDAY
+    distance_km: 0.37
+  - name: DODGE
+    distance_km: 11.36
+  - name: DUNNCENTER
+    distance_km: 20.91
+- country: US
+  region: ND
+  name: Hamberg
+  lat: '47.7633'
+  long: "-99.5160"
+  nearby_rate_centers:
+  - name: FESSENDEN
+    distance_km: 14.91
+  - name: MADDOCK
+    distance_km: 21.88
+  - name: OBERON
+    distance_km: 29.52
+- country: US
+  region: ND
+  name: Hamilton
+  lat: '48.8080'
+  long: "-97.4518"
+  nearby_rate_centers:
+  - name: CAVALIER
+    distance_km: 12.29
+  - name: NECHE
+    distance_km: 20.77
+  - name: ST THOMAS
+    distance_km: 21.11
+- country: US
+  region: ND
+  name: Hampden
+  lat: '48.5395'
+  long: "-98.6542"
+  nearby_rate_centers:
+  - name: HAMPDEN
+    distance_km: 0.74
+  - name: MUNICH
+    distance_km: 17.99
+  - name: STARKWETHR
+    distance_km: 19.41
+- country: US
+  region: ND
+  name: Hankinson
+  lat: '46.0734'
+  long: "-96.8918"
+  nearby_rate_centers:
+  - name: HANKINSON
+    distance_km: 0.91
+  - name: GREAT BEND
+    distance_km: 10.92
+  - name: NNWEFFNGTN
+    distance_km: 15.07
+- country: US
+  region: ND
+  name: Hannaford
+  lat: '47.3141'
+  long: "-98.1889"
+  nearby_rate_centers:
+  - name: HANNAFORD
+    distance_km: 0.27
+  - name: DAZEY
+    distance_km: 14.36
+  - name: COOPERSTN
+    distance_km: 15.07
+- country: US
+  region: ND
+  name: Hannah
+  lat: '48.9729'
+  long: "-98.6903"
+  nearby_rate_centers:
+  - name: WALES
+    distance_km: 11.05
+  - name: SARLES
+    distance_km: 22.89
+  - name: LANGDON
+    distance_km: 32.53
+- country: US
+  region: ND
+  name: Hansboro
+  lat: '48.9524'
+  long: "-99.3802"
+  nearby_rate_centers:
+  - name: ROLLA
+    distance_km: 20.16
+  - name: ROCK LAKE
+    distance_km: 20.57
+  - name: SARLES
+    distance_km: 27.73
+- country: US
+  region: ND
+  name: Harmon
+  lat: '46.9443'
+  long: "-100.9526"
+  nearby_rate_centers:
+  - name: BISMARCK
+    distance_km: 19.77
+  - name: MANDAN
+    distance_km: 19.77
+  - name: WILTON
+    distance_km: 27.21
+  - name: CENTER
+    distance_km: 32.82
+- country: US
+  region: ND
+  name: Harvey
+  lat: '47.7766'
+  long: "-99.9301"
+  nearby_rate_centers:
+  - name: HARVEY
+    distance_km: 0.17
+  - name: MARTIN
+    distance_km: 14.9
+  - name: FESSENDEN
+    distance_km: 26.82
+- country: US
+  region: ND
+  name: Harwood
+  lat: '46.9762'
+  long: "-96.8802"
+  nearby_rate_centers:
+  - name: FARGO
+    distance_km: 12.92
+  - name: GARDNER
+    distance_km: 19.84
+  - name: WESTPERLEY
+    distance_km: 22.17
+- country: US
+  region: ND
+  name: Hatton
+  lat: '47.6369'
+  long: "-97.4584"
+  nearby_rate_centers:
+  - name: HATTON
+    distance_km: 0.54
+  - name: NORTHWOOD
+    distance_km: 13.86
+  - name: MAYVILLE
+    distance_km: 19.11
+- country: US
+  region: ND
+  name: Havana
+  lat: '45.9517'
+  long: "-97.6185"
+  nearby_rate_centers:
+  - name: NO BRITTON
+    distance_km: 10.71
+  - name: FORMAN
+    distance_km: 17.54
+  - name: NO VEBLEN
+    distance_km: 25.39
+- country: US
+  region: ND
+  name: Haynes
+  lat: '45.9739'
+  long: "-102.4710"
+  nearby_rate_centers:
+  - name: HETTINGER
+    distance_km: 12.83
+  - name: NO LEMMON
+    distance_km: 23.86
+  - name: REEDER
+    distance_km: 38.89
+- country: US
+  region: ND
+  name: Hazelton
+  lat: '46.4858'
+  long: "-100.2811"
+  nearby_rate_centers:
+  - name: HAZELTON
+    distance_km: 0.71
+  - name: LINTON
+    distance_km: 25.63
+  - name: KINTYRE
+    distance_km: 26.17
+- country: US
+  region: ND
+  name: Hazen
+  lat: '47.2990'
+  long: "-101.6259"
+  nearby_rate_centers:
+  - name: HAZEN
+    distance_km: 0.29
+  - name: BEULAH
+    distance_km: 12.0
+  - name: STANTON
+    distance_km: 18.36
+- country: US
+  region: ND
+  name: Hebron
+  lat: '46.9023'
+  long: "-102.0444"
+  nearby_rate_centers:
+  - name: HEBRON
+    distance_km: 0.47
+  - name: GLEN ULLIN
+    distance_km: 19.16
+  - name: RICHARDTON
+    distance_km: 20.73
+- country: US
+  region: ND
+  name: Heil
+  lat: '46.3892'
+  long: "-101.7012"
+  nearby_rate_centers:
+  - name: CARSON
+    distance_km: 10.97
+  - name: ELGIN
+    distance_km: 11.06
+  - name: FLASHER
+    distance_km: 37.16
+- country: US
+  region: ND
+  name: Heimdal
+  lat: '47.7926'
+  long: "-99.6528"
+  nearby_rate_centers:
+  - name: FESSENDEN
+    distance_km: 15.92
+  - name: HARVEY
+    distance_km: 20.97
+  - name: MADDOCK
+    distance_km: 21.01
+- country: US
+  region: ND
+  name: Hettinger
+  lat: '46.0034'
+  long: "-102.6350"
+  nearby_rate_centers:
+  - name: HETTINGER
+    distance_km: 0.31
+  - name: REEDER
+    distance_km: 26.01
+  - name: NO LEMMON
+    distance_km: 36.85
+- country: US
+  region: ND
+  name: Hillsboro
+  lat: '47.4030'
+  long: "-97.0635"
+  nearby_rate_centers:
+  - name: HILLSBORO
+    distance_km: 0.64
+  - name: W HALSTAD
+    distance_km: 16.29
+  - name: WESTSHELLY
+    distance_km: 16.33
+- country: US
+  region: ND
+  name: Hoople
+  lat: '48.5358'
+  long: "-97.6389"
+  nearby_rate_centers:
+  - name: HOOPLE
+    distance_km: 1.22
+  - name: CRYSTAL
+    distance_km: 6.7
+  - name: ST THOMAS
+    distance_km: 16.86
+- country: US
+  region: ND
+  name: Hope
+  lat: '47.3244'
+  long: "-97.7191"
+  nearby_rate_centers:
+  - name: HOPE
+    distance_km: 0.8
+  - name: PAGE
+    distance_km: 21.68
+  - name: FINLEY
+    distance_km: 22.4
+- country: US
+  region: ND
+  name: Horace
+  lat: '46.7558'
+  long: "-96.9078"
+  nearby_rate_centers:
+  - name: KINDRED
+    distance_km: 14.55
+  - name: FARGO
+    distance_km: 15.92
+  - name: HICKSON
+    distance_km: 16.41
+- country: US
+  region: ND
+  name: Hunter
+  lat: '47.1904'
+  long: "-97.2131"
+  nearby_rate_centers:
+  - name: HUNTER
+    distance_km: 0.27
+  - name: ARTHUR
+    distance_km: 10.2
+  - name: GALESBURG
+    distance_km: 17.16
+- country: US
+  region: ND
+  name: Hurdsfield
+  lat: '47.4468'
+  long: "-99.9310"
+  nearby_rate_centers:
+  - name: GOODRICH
+    distance_km: 15.11
+  - name: BOWDON
+    distance_km: 16.86
+  - name: FESSENDEN
+    distance_km: 32.32
+- country: US
+  region: ND
+  name: Inkster
+  lat: '48.1513'
+  long: "-97.6442"
+  nearby_rate_centers:
+  - name: INKSTER
+    distance_km: 0.38
+  - name: FORDVILLE
+    distance_km: 13.25
+  - name: GILBY
+    distance_km: 15.21
+- country: US
+  region: ND
+  name: Jamestown
+  lat: '46.9063'
+  long: "-98.6937"
+  nearby_rate_centers:
+  - name: JAMESTOWN
+    distance_km: 0.5
+  - name: YPSILANTI
+    distance_km: 17.77
+  - name: WINDSOR
+    distance_km: 25.78
+- country: US
+  region: ND
+  name: Jessie
+  lat: '47.5402'
+  long: "-98.2291"
+  nearby_rate_centers:
+  - name: BINFORD
+    distance_km: 8.84
+  - name: COOPERSTN
+    distance_km: 14.07
+  - name: ANETA
+    distance_km: 23.64
+- country: US
+  region: ND
+  name: Jud
+  lat: '46.5258'
+  long: "-98.8976"
+  nearby_rate_centers:
+  - name: JUD
+    distance_km: 1.14
+  - name: GACKLE
+    distance_km: 21.27
+  - name: EDGELEY
+    distance_km: 23.56
+- country: US
+  region: ND
+  name: Karlsruhe
+  lat: '48.0911'
+  long: "-100.6162"
+  nearby_rate_centers:
+  - name: KARLSRUHE
+    distance_km: 0.8
+  - name: VELVA
+    distance_km: 23.24
+  - name: DRAKE
+    distance_km: 26.1
+- country: US
+  region: ND
+  name: Kathryn
+  lat: '46.6812'
+  long: "-97.9704"
+  nearby_rate_centers:
+  - name: KATHRYN
+    distance_km: 0.98
+  - name: NOME
+    distance_km: 12.28
+  - name: LITCHVILLE
+    distance_km: 16.71
+- country: US
+  region: ND
+  name: Kenmare
+  lat: '48.6729'
+  long: "-102.0721"
+  nearby_rate_centers:
+  - name: KENMARE
+    distance_km: 1.06
+  - name: NORMA
+    distance_km: 9.25
+  - name: SPENCER
+    distance_km: 9.56
+- country: US
+  region: ND
+  name: Kensal
+  lat: '47.3000'
+  long: "-98.7321"
+  nearby_rate_centers:
+  - name: COURTENAY
+    distance_km: 15.42
+  - name: EDMUNDS
+    distance_km: 18.23
+  - name: GRACE CITY
+    distance_km: 28.45
+- country: US
+  region: ND
+  name: Kief
+  lat: '47.8600'
+  long: "-100.5133"
+  nearby_rate_centers:
+  - name: BUTTE
+    distance_km: 11.82
+  - name: DRAKE
+    distance_km: 13.24
+  - name: KARLSRUHE
+    distance_km: 27.16
+- country: US
+  region: ND
+  name: Killdeer
+  lat: '47.3689'
+  long: "-102.7472"
+  nearby_rate_centers:
+  - name: KILLDEER
+    distance_km: 0.15
+  - name: DUNNCENTER
+    distance_km: 10.13
+  - name: MANNING
+    distance_km: 15.93
+- country: US
+  region: ND
+  name: Kindred
+  lat: '46.6494'
+  long: "-97.0169"
+  nearby_rate_centers:
+  - name: KINDRED
+    distance_km: 0.22
+  - name: WALCOTT
+    distance_km: 12.65
+  - name: LEONARD
+    distance_km: 17.75
+- country: US
+  region: ND
+  name: Knox
+  lat: '48.3439'
+  long: "-99.6911"
+  nearby_rate_centers:
+  - name: KNOX
+    distance_km: 0.47
+  - name: YORK
+    distance_km: 10.05
+  - name: LEEDS
+    distance_km: 19.19
+- country: US
+  region: ND
+  name: Kramer
+  lat: '48.6910'
+  long: "-100.7078"
+  nearby_rate_centers:
+  - name: KRAMER
+    distance_km: 0.72
+  - name: UPHAM
+    distance_km: 11.79
+  - name: NEWBURG
+    distance_km: 15.51
+- country: US
+  region: ND
+  name: Kulm
+  lat: '46.3019'
+  long: "-98.9468"
+  nearby_rate_centers:
+  - name: KULM
+    distance_km: 0.28
+  - name: FREDONIA
+    distance_km: 11.55
+  - name: MERRICOURT
+    distance_km: 17.25
+- country: US
+  region: ND
+  name: LaMoure
+  lat: '46.3574'
+  long: "-98.2966"
+  nearby_rate_centers:
+  - name: LAMOURE
+    distance_km: 0.44
+  - name: VERONA
+    distance_km: 16.85
+  - name: DICKEY
+    distance_km: 23.28
+- country: US
+  region: ND
+  name: Lakota
+  lat: '48.0429'
+  long: "-98.3468"
+  nearby_rate_centers:
+  - name: LAKOTA
+    distance_km: 0.21
+  - name: MICHIGAN
+    distance_km: 16.65
+  - name: BROCKET
+    distance_km: 18.52
+- country: US
+  region: ND
+  name: Landa
+  lat: '48.8958'
+  long: "-100.9120"
+  nearby_rate_centers:
+  - name: LANDA
+    distance_km: 0.8
+  - name: WESTHOPE
+    distance_km: 8.38
+  - name: SOURIS
+    distance_km: 16.93
+- country: US
+  region: ND
+  name: Langdon
+  lat: '48.7624'
+  long: "-98.3747"
+  nearby_rate_centers:
+  - name: LANGDON
+    distance_km: 0.42
+  - name: NEKOMA
+    distance_km: 21.72
+  - name: WALES
+    distance_km: 21.83
+- country: US
+  region: ND
+  name: Lankin
+  lat: '48.3147'
+  long: "-97.9203"
+  nearby_rate_centers:
+  - name: LANKIN
+    distance_km: 0.14
+  - name: FORDVILLE
+    distance_km: 14.34
+  - name: PARK RIVER
+    distance_km: 15.82
+- country: US
+  region: ND
+  name: Lansford
+  lat: '48.6270'
+  long: "-101.3760"
+  nearby_rate_centers:
+  - name: LANSFORD
+    distance_km: 0.27
+  - name: GLENBURN
+    distance_km: 17.51
+  - name: MOHALL
+    distance_km: 18.38
+- country: US
+  region: ND
+  name: Larimore
+  lat: '47.9091'
+  long: "-97.6269"
+  nearby_rate_centers:
+  - name: LARIMORE
+    distance_km: 0.16
+  - name: EMERADO
+    distance_km: 18.89
+  - name: NORTHWOOD
+    distance_km: 19.93
+- country: US
+  region: ND
+  name: Larson
+  lat: '48.8916'
+  long: "-102.8626"
+  nearby_rate_centers:
+  - name: COLUMBUS
+    distance_km: 5.88
+  - name: NOONAN
+    distance_km: 11.43
+  - name: LIGNITE
+    distance_km: 21.98
+- country: US
+  region: ND
+  name: Lawton
+  lat: '48.3036'
+  long: "-98.3684"
+  nearby_rate_centers:
+  - name: BROCKET
+    distance_km: 10.58
+  - name: EDMORE
+    distance_km: 13.04
+  - name: FAIRDALE
+    distance_km: 22.87
+- country: US
+  region: ND
+  name: Leal
+  lat: '47.1049'
+  long: "-98.3155"
+  nearby_rate_centers:
+  - name: DAZEY
+    distance_km: 12.44
+  - name: SANBORN
+    distance_km: 19.35
+  - name: COURTENAY
+    distance_km: 22.82
+- country: US
+  region: ND
+  name: Leeds
+  lat: '48.2878'
+  long: "-99.4346"
+  nearby_rate_centers:
+  - name: LEEDS
+    distance_km: 0.78
+  - name: YORK
+    distance_km: 9.96
+  - name: KNOX
+    distance_km: 19.59
+- country: US
+  region: ND
+  name: Lehr
+  lat: '46.2826'
+  long: "-99.3528"
+  nearby_rate_centers:
+  - name: LEHR
+    distance_km: 0.7
+  - name: WISHEK
+    distance_km: 15.98
+  - name: FREDONIA
+    distance_km: 20.58
+- country: US
+  region: ND
+  name: Leith
+  lat: '46.3626'
+  long: "-101.6385"
+  nearby_rate_centers:
+  - name: CARSON
+    distance_km: 8.76
+  - name: ELGIN
+    distance_km: 16.37
+  - name: FLASHER
+    distance_km: 33.33
+- country: US
+  region: ND
+  name: Leonard
+  lat: '46.6523'
+  long: "-97.2499"
+  nearby_rate_centers:
+  - name: LEONARD
+    distance_km: 0.37
+  - name: KINDRED
+    distance_km: 17.58
+  - name: SHELDON
+    distance_km: 20.64
+- country: US
+  region: ND
+  name: Lidgerwood
+  lat: '46.0738'
+  long: "-97.1451"
+  nearby_rate_centers:
+  - name: LIDGERWOOD
+    distance_km: 0.54
+  - name: NO VEBLEN
+    distance_km: 18.34
+  - name: HANKINSON
+    distance_km: 18.91
+- country: US
+  region: ND
+  name: Lignite
+  lat: '48.8771'
+  long: "-102.5645"
+  nearby_rate_centers:
+  - name: LIGNITE
+    distance_km: 0.35
+  - name: FLAXTON
+    distance_km: 12.47
+  - name: PORTAL
+    distance_km: 13.52
+- country: US
+  region: ND
+  name: Lincoln
+  lat: '46.7688'
+  long: "-100.6978"
+  nearby_rate_centers:
+  - name: BISMARCK
+    distance_km: 7.97
+  - name: MANDAN
+    distance_km: 7.97
+  - name: MCKENZIE
+    distance_km: 19.03
+  - name: ST ANTHONY
+    distance_km: 23.5
+- country: US
+  region: ND
+  name: Linton
+  lat: '46.2685'
+  long: "-100.2337"
+  nearby_rate_centers:
+  - name: LINTON
+    distance_km: 1.24
+  - name: STRASBURG
+    distance_km: 16.15
+  - name: HAZELTON
+    distance_km: 23.86
+- country: US
+  region: ND
+  name: Lisbon
+  lat: '46.4385'
+  long: "-97.6841"
+  nearby_rate_centers:
+  - name: LISBON
+    distance_km: 0.88
+  - name: FORTRANSOM
+    distance_km: 20.37
+  - name: ENDERLIN
+    distance_km: 21.26
+- country: US
+  region: ND
+  name: Litchville
+  lat: '46.6566'
+  long: "-98.1917"
+  nearby_rate_centers:
+  - name: LITCHVILLE
+    distance_km: 0.85
+  - name: MARION
+    distance_km: 12.4
+  - name: KATHRYN
+    distance_km: 16.37
+- country: US
+  region: ND
+  name: Logan
+  lat: '48.1557'
+  long: "-101.1664"
+  nearby_rate_centers:
+  - name: SAWYER
+    distance_km: 11.68
+  - name: MINOT
+    distance_km: 12.79
+  - name: SO PRAIRIE
+    distance_km: 15.63
+- country: US
+  region: ND
+  name: Loma
+  lat: '48.6417'
+  long: "-98.5248"
+  nearby_rate_centers:
+  - name: NEKOMA
+    distance_km: 13.99
+  - name: HAMPDEN
+    distance_km: 15.03
+  - name: LANGDON
+    distance_km: 17.64
+- country: US
+  region: ND
+  name: Long Creek
+  lat: '48.1009'
+  long: "-103.2548"
+  nearby_rate_centers:
+  - name: EPPING
+    distance_km: 21.31
+  - name: RAY
+    distance_km: 27.6
+  - name: WILLISTON
+    distance_km: 28.09
+- country: US
+  region: ND
+  name: Loraine
+  lat: '48.8683'
+  long: "-101.5678"
+  nearby_rate_centers:
+  - name: SHERWOOD
+    distance_km: 10.83
+  - name: MOHALL
+    distance_km: 12.06
+  - name: ANTLER
+    distance_km: 23.77
+- country: US
+  region: ND
+  name: Ludden
+  lat: '46.0082'
+  long: "-98.1254"
+  nearby_rate_centers:
+  - name: NORTHHECLA
+    distance_km: 7.57
+  - name: GUELPH
+    distance_km: 8.29
+  - name: OAKES
+    distance_km: 14.85
+- country: US
+  region: ND
+  name: Luverne
+  lat: '47.2514'
+  long: "-97.9348"
+  nearby_rate_centers:
+  - name: HOPE
+    distance_km: 18.22
+  - name: HANNAFORD
+    distance_km: 20.19
+  - name: DAZEY
+    distance_km: 21.4
+- country: US
+  region: ND
+  name: Maddock
+  lat: '47.9624'
+  long: "-99.5293"
+  nearby_rate_centers:
+  - name: MADDOCK
+    distance_km: 0.58
+  - name: ESMOND
+    distance_km: 19.31
+  - name: MINNEWAKAN
+    distance_km: 24.24
+- country: US
+  region: ND
+  name: Makoti
+  lat: '47.9633'
+  long: "-101.8029"
+  nearby_rate_centers:
+  - name: MAKOTI
+    distance_km: 0.83
+  - name: RYDER
+    distance_km: 10.77
+  - name: PLAZA
+    distance_km: 12.92
+- country: US
+  region: ND
+  name: Mandan
+  lat: '46.8290'
+  long: "-100.8870"
+  nearby_rate_centers:
+  - name: BISMARCK
+    distance_km: 8.07
+  - name: MANDAN
+    distance_km: 8.07
+  - name: ST ANTHONY
+    distance_km: 23.39
+  - name: MCKENZIE
+    distance_km: 32.5
+- country: US
+  region: ND
+  name: Mandaree
+  lat: '47.7358'
+  long: "-102.6756"
+  nearby_rate_centers:
+  - name: MANDAREE
+    distance_km: 0.6
+  - name: KEENE
+    distance_km: 28.89
+  - name: NEW TOWN
+    distance_km: 31.16
+- country: US
+  region: ND
+  name: Manning
+  lat: '47.2310'
+  long: "-102.7702"
+  nearby_rate_centers:
+  - name: MANNING
+    distance_km: 0.63
+  - name: KILLDEER
+    distance_km: 15.31
+  - name: DUNNCENTER
+    distance_km: 17.44
+- country: US
+  region: ND
+  name: Mantador
+  lat: '46.1654'
+  long: "-96.9779"
+  nearby_rate_centers:
+  - name: HANKINSON
+    distance_km: 12.41
+  - name: MOORETON
+    distance_km: 13.57
+  - name: GREAT BEND
+    distance_km: 13.59
+- country: US
+  region: ND
+  name: Manvel
+  lat: '48.0727'
+  long: "-97.1779"
+  nearby_rate_centers:
+  - name: MANVEL
+    distance_km: 0.12
+  - name: WEST OSLO
+    distance_km: 13.61
+  - name: GRANDFORKS
+    distance_km: 20.34
+- country: US
+  region: ND
+  name: Mapleton
+  lat: '46.8915'
+  long: "-97.0533"
+  nearby_rate_centers:
+  - name: CASSELTON
+    distance_km: 11.54
+  - name: FARGO
+    distance_km: 19.78
+  - name: ARTHUR
+    distance_km: 26.26
+- country: US
+  region: ND
+  name: Marion
+  lat: '46.6091'
+  long: "-98.3375"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 0.22
+  - name: LITCHVILLE
+    distance_km: 12.54
+  - name: DICKEY
+    distance_km: 12.93
+- country: US
+  region: ND
+  name: Marmarth
+  lat: '46.2960'
+  long: "-103.9331"
+  nearby_rate_centers:
+  - name: RHAME
+    distance_km: 23.5
+  - name: E CARLYLE
+    distance_km: 29.54
+  - name: BOWMAN
+    distance_km: 43.35
+- country: US
+  region: ND
+  name: Martin
+  lat: '47.8268'
+  long: "-100.1154"
+  nearby_rate_centers:
+  - name: MARTIN
+    distance_km: 0.05
+  - name: HARVEY
+    distance_km: 14.77
+  - name: DRAKE
+    distance_km: 21.74
+- country: US
+  region: ND
+  name: Max
+  lat: '47.8204'
+  long: "-101.2911"
+  nearby_rate_centers:
+  - name: MAX
+    distance_km: 0.72
+  - name: DOUGLAS
+    distance_km: 15.92
+  - name: GARRISON
+    distance_km: 21.34
+- country: US
+  region: ND
+  name: Maxbass
+  lat: '48.7225'
+  long: "-101.1426"
+  nearby_rate_centers:
+  - name: MAXBASS
+    distance_km: 1.06
+  - name: NEWBURG
+    distance_km: 16.59
+  - name: LANSFORD
+    distance_km: 20.37
+- country: US
+  region: ND
+  name: Mayville
+  lat: '47.4982'
+  long: "-97.3264"
+  nearby_rate_centers:
+  - name: MAYVILLE
+    distance_km: 0.84
+  - name: HATTON
+    distance_km: 17.96
+  - name: HILLSBORO
+    distance_km: 23.0
+- country: US
+  region: ND
+  name: McClusky
+  lat: '47.4840'
+  long: "-100.4426"
+  nearby_rate_centers:
+  - name: MCCLUSKY
+    distance_km: 0.28
+  - name: MERCER
+    distance_km: 19.96
+  - name: GOODRICH
+    distance_km: 23.7
+- country: US
+  region: ND
+  name: McGregor
+  lat: '48.5957'
+  long: "-102.9281"
+  nearby_rate_centers:
+  - name: MCGREGOR
+    distance_km: 0.21
+  - name: WILDROSE
+    distance_km: 19.19
+  - name: POWERSLAKE
+    distance_km: 20.73
+- country: US
+  region: ND
+  name: McHenry
+  lat: '47.5764'
+  long: "-98.5910"
+  nearby_rate_centers:
+  - name: MCHENRY
+    distance_km: 0.26
+  - name: GRACE CITY
+    distance_km: 16.28
+  - name: BINFORD
+    distance_km: 18.91
+- country: US
+  region: ND
+  name: McLeod
+  lat: '46.3887'
+  long: "-97.2987"
+  nearby_rate_centers:
+  - name: WYNDMERE
+    distance_km: 18.49
+  - name: MILNOR
+    distance_km: 18.94
+  - name: SHELDON
+    distance_km: 26.7
+- country: US
+  region: ND
+  name: McVille
+  lat: '47.7653'
+  long: "-98.1755"
+  nearby_rate_centers:
+  - name: MCVILLE
+    distance_km: 0.32
+  - name: PEKIN
+    distance_km: 11.79
+  - name: ANETA
+    distance_km: 17.74
+- country: US
+  region: ND
+  name: Medina
+  lat: '46.8938'
+  long: "-99.2999"
+  nearby_rate_centers:
+  - name: MEDINA
+    distance_km: 0.7
+  - name: WINDSOR
+    distance_km: 20.3
+  - name: STREETER
+    distance_km: 26.61
+- country: US
+  region: ND
+  name: Medora
+  lat: '46.9124'
+  long: "-103.5251"
+  nearby_rate_centers:
+  - name: MEDORA
+    distance_km: 1.71
+  - name: BELFIELD
+    distance_km: 25.46
+  - name: BEACH
+    distance_km: 36.94
+- country: US
+  region: ND
+  name: Menoken
+  lat: '46.8148'
+  long: "-100.5341"
+  nearby_rate_centers:
+  - name: MCKENZIE
+    distance_km: 5.69
+  - name: STERLING
+    distance_km: 18.68
+  - name: BISMARCK
+    distance_km: 19.14
+  - name: MANDAN
+    distance_km: 19.14
+- country: US
+  region: ND
+  name: Mercer
+  lat: '47.4905'
+  long: "-100.7104"
+  nearby_rate_centers:
+  - name: MERCER
+    distance_km: 0.2
+  - name: TURTLELAKE
+    distance_km: 13.1
+  - name: MCCLUSKY
+    distance_km: 20.4
+- country: US
+  region: ND
+  name: Milnor
+  lat: '46.2604'
+  long: "-97.4575"
+  nearby_rate_centers:
+  - name: MILNOR
+    distance_km: 0.18
+  - name: GWINNER
+    distance_km: 16.6
+  - name: FORMAN
+    distance_km: 21.71
+- country: US
+  region: ND
+  name: Milton
+  lat: '48.6260'
+  long: "-98.0459"
+  nearby_rate_centers:
+  - name: MILTON
+    distance_km: 0.27
+  - name: EDINBURG
+    distance_km: 19.85
+  - name: FAIRDALE
+    distance_km: 20.25
+- country: US
+  region: ND
+  name: Minnewaukan
+  lat: '48.0762'
+  long: "-99.2607"
+  nearby_rate_centers:
+  - name: MINNEWAKAN
+    distance_km: 0.88
+  - name: OBERON
+    distance_km: 17.53
+  - name: PENN
+    distance_km: 20.23
+- country: US
+  region: ND
+  name: Minot
+  lat: '48.2375'
+  long: "-101.2780"
+  nearby_rate_centers:
+  - name: MINOT
+    distance_km: 1.14
+  - name: MINOT AFB
+    distance_km: 15.39
+  - name: DES LACS
+    distance_km: 21.72
+- country: US
+  region: ND
+  name: Minot AFB
+  lat: '48.4209'
+  long: "-101.3381"
+  nearby_rate_centers:
+  - name: MINOT AFB
+    distance_km: 5.62
+  - name: GLENBURN
+    distance_km: 13.3
+  - name: MINOT
+    distance_km: 21.04
+- country: US
+  region: ND
+  name: Minto
+  lat: '48.2924'
+  long: "-97.3730"
+  nearby_rate_centers:
+  - name: MINTO
+    distance_km: 0.74
+  - name: GRAFTON
+    distance_km: 14.21
+  - name: WEST OSLO
+    distance_km: 20.68
+- country: US
+  region: ND
+  name: Mohall
+  lat: '48.7661'
+  long: "-101.5169"
+  nearby_rate_centers:
+  - name: MOHALL
+    distance_km: 0.58
+  - name: LANSFORD
+    distance_km: 18.78
+  - name: SHERWOOD
+    distance_km: 22.74
+- country: US
+  region: ND
+  name: Monango
+  lat: '46.1734'
+  long: "-98.5952"
+  nearby_rate_centers:
+  - name: FULLERTON
+    distance_km: 13.16
+  - name: MERRICOURT
+    distance_km: 13.89
+  - name: ELLENDALE
+    distance_km: 19.44
+- country: US
+  region: ND
+  name: Montpelier
+  lat: '46.6987'
+  long: "-98.5884"
+  nearby_rate_centers:
+  - name: YPSILANTI
+    distance_km: 9.75
+  - name: DICKEY
+    distance_km: 20.82
+  - name: MARION
+    distance_km: 21.7
+- country: US
+  region: ND
+  name: Mooreton
+  lat: '46.2690'
+  long: "-96.8758"
+  nearby_rate_centers:
+  - name: MOORETON
+    distance_km: 0.38
+  - name: GREAT BEND
+    distance_km: 14.39
+  - name: WYNDMERE
+    distance_km: 19.79
+- country: US
+  region: ND
+  name: Mott
+  lat: '46.3744'
+  long: "-102.3189"
+  nearby_rate_centers:
+  - name: MOTT
+    distance_km: 0.55
+  - name: REGENT
+    distance_km: 18.78
+  - name: ELGIN
+    distance_km: 36.54
+- country: US
+  region: ND
+  name: Mountain
+  lat: '48.6843'
+  long: "-97.8648"
+  nearby_rate_centers:
+  - name: MILTON
+    distance_km: 14.58
+  - name: CRYSTAL
+    distance_km: 17.62
+  - name: EDINBURG
+    distance_km: 21.48
+- country: US
+  region: ND
+  name: Munich
+  lat: '48.6729'
+  long: "-98.8385"
+  nearby_rate_centers:
+  - name: MUNICH
+    distance_km: 2.13
+  - name: HAMPDEN
+    distance_km: 20.83
+  - name: STARKWETHR
+    distance_km: 25.03
+- country: US
+  region: ND
+  name: Mylo
+  lat: '48.6358'
+  long: "-99.6179"
+  nearby_rate_centers:
+  - name: ROLETTE
+    distance_km: 16.82
+  - name: BISBEE
+    distance_km: 17.16
+  - name: ROLLA
+    distance_km: 24.87
+- country: US
+  region: ND
+  name: Napoleon
+  lat: '46.5039'
+  long: "-99.7683"
+  nearby_rate_centers:
+  - name: NAPOLEON
+    distance_km: 0.74
+  - name: KINTYRE
+    distance_km: 14.79
+  - name: WISHEK
+    distance_km: 31.5
+- country: US
+  region: ND
+  name: Nash
+  lat: '48.4778'
+  long: "-97.5245"
+  nearby_rate_centers:
+  - name: HOOPLE
+    distance_km: 9.42
+  - name: GRAFTON
+    distance_km: 10.4
+  - name: CRYSTAL
+    distance_km: 16.63
+- country: US
+  region: ND
+  name: Neche
+  lat: '48.9830'
+  long: "-97.5517"
+  nearby_rate_centers:
+  - name: NECHE
+    distance_km: 0.16
+  - name: CAVALIER
+    distance_km: 21.71
+  - name: PEMBINA
+    distance_km: 22.92
+- country: US
+  region: ND
+  name: Nekoma
+  lat: '48.5763'
+  long: "-98.3755"
+  nearby_rate_centers:
+  - name: NEKOMA
+    distance_km: 1.07
+  - name: FAIRDALE
+    distance_km: 15.87
+  - name: EDMORE
+    distance_km: 19.41
+- country: US
+  region: ND
+  name: New England
+  lat: '46.5408'
+  long: "-102.8669"
+  nearby_rate_centers:
+  - name: NEWENGLAND
+    distance_km: 0.12
+  - name: AMIDON
+    distance_km: 21.81
+  - name: REGENT
+    distance_km: 27.29
+- country: US
+  region: ND
+  name: New Leipzig
+  lat: '46.3758'
+  long: "-101.9517"
+  nearby_rate_centers:
+  - name: ELGIN
+    distance_km: 8.75
+  - name: MOTT
+    distance_km: 28.71
+  - name: CARSON
+    distance_km: 29.96
+- country: US
+  region: ND
+  name: New Rockford
+  lat: '47.6798'
+  long: "-99.1377"
+  nearby_rate_centers:
+  - name: NEW ROCKFD
+    distance_km: 0.59
+  - name: SHEYENNE
+    distance_km: 17.2
+  - name: CARRINGTON
+    distance_km: 25.44
+- country: US
+  region: ND
+  name: New Salem
+  lat: '46.8431'
+  long: "-101.4178"
+  nearby_rate_centers:
+  - name: NEW SALEM
+    distance_km: 0.5
+  - name: GLEN ULLIN
+    distance_km: 31.16
+  - name: CENTER
+    distance_km: 31.81
+- country: US
+  region: ND
+  name: New Town
+  lat: '47.9890'
+  long: "-102.4882"
+  nearby_rate_centers:
+  - name: NEW TOWN
+    distance_km: 1.13
+  - name: PARSHALL
+    distance_km: 26.73
+  - name: MANDAREE
+    distance_km: 32.0
+- country: US
+  region: ND
+  name: Newburg
+  lat: '48.7139'
+  long: "-100.9127"
+  nearby_rate_centers:
+  - name: NEWBURG
+    distance_km: 0.66
+  - name: KRAMER
+    distance_km: 15.2
+  - name: MAXBASS
+    distance_km: 16.21
+- country: US
+  region: ND
+  name: Niagara
+  lat: '47.9983'
+  long: "-97.8717"
+  nearby_rate_centers:
+  - name: NIAGARA
+    distance_km: 0.33
+  - name: PETERSBURG
+    distance_km: 10.3
+  - name: DAHLEN
+    distance_km: 17.5
+- country: US
+  region: ND
+  name: Nome
+  lat: '46.6758'
+  long: "-97.8162"
+  nearby_rate_centers:
+  - name: NOME
+    distance_km: 0.97
+  - name: KATHRYN
+    distance_km: 12.4
+  - name: ENDERLIN
+    distance_km: 18.48
+- country: US
+  region: ND
+  name: Noonan
+  lat: '48.8899'
+  long: "-103.0101"
+  nearby_rate_centers:
+  - name: NOONAN
+    distance_km: 0.75
+  - name: COLUMBUS
+    distance_km: 16.57
+  - name: CROSBY
+    distance_km: 21.08
+- country: US
+  region: ND
+  name: North River
+  lat: '46.9503'
+  long: "-96.8019"
+  nearby_rate_centers:
+  - name: FARGO
+    distance_km: 8.28
+  - name: GARDNER
+    distance_km: 24.98
+  - name: WESTPERLEY
+    distance_km: 25.06
+- country: US
+  region: ND
+  name: Northwood
+  lat: '47.7384'
+  long: "-97.5707"
+  nearby_rate_centers:
+  - name: NORTHWOOD
+    distance_km: 0.72
+  - name: HATTON
+    distance_km: 14.43
+  - name: LARIMORE
+    distance_km: 19.59
+- country: US
+  region: ND
+  name: Oakes
+  lat: '46.1397'
+  long: "-98.0871"
+  nearby_rate_centers:
+  - name: OAKES
+    distance_km: 0.41
+  - name: CRETE
+    distance_km: 11.42
+  - name: GUELPH
+    distance_km: 17.91
+- country: US
+  region: ND
+  name: Oberon
+  lat: '47.9242'
+  long: "-99.2059"
+  nearby_rate_centers:
+  - name: OBERON
+    distance_km: 0.38
+  - name: SHEYENNE
+    distance_km: 11.92
+  - name: MINNEWAKAN
+    distance_km: 16.96
+- country: US
+  region: ND
+  name: Oriska
+  lat: '46.9313'
+  long: "-97.7908"
+  nearby_rate_centers:
+  - name: TOWER CITY
+    distance_km: 9.49
+  - name: VALLEYCITY
+    distance_km: 16.13
+  - name: BUFFALO
+    distance_km: 19.12
+- country: US
+  region: ND
+  name: Orrin
+  lat: '48.0910'
+  long: "-100.1671"
+  nearby_rate_centers:
+  - name: BALTA
+    distance_km: 12.51
+  - name: DRAKE
+    distance_km: 23.53
+  - name: MARTIN
+    distance_km: 29.68
+- country: US
+  region: ND
+  name: Osnabrock
+  lat: '48.6700'
+  long: "-98.1488"
+  nearby_rate_centers:
+  - name: MILTON
+    distance_km: 9.25
+  - name: LANGDON
+    distance_km: 19.78
+  - name: NEKOMA
+    distance_km: 19.98
+- country: US
+  region: ND
+  name: Overly
+  lat: '48.6811'
+  long: "-100.1510"
+  nearby_rate_centers:
+  - name: WILLOWCITY
+    distance_km: 13.78
+  - name: DUNSEITH
+    distance_km: 15.78
+  - name: ROLETTE
+    distance_km: 22.67
+- country: US
+  region: ND
+  name: Oxbow
+  lat: '46.6687'
+  long: "-96.8101"
+  nearby_rate_centers:
+  - name: HICKSON
+    distance_km: 4.75
+  - name: CHRISTINE
+    distance_km: 13.02
+  - name: KINDRED
+    distance_km: 16.13
+- country: US
+  region: ND
+  name: Page
+  lat: '47.1592'
+  long: "-97.5681"
+  nearby_rate_centers:
+  - name: PAGE
+    distance_km: 0.08
+  - name: GALESBURG
+    distance_km: 16.75
+  - name: HOPE
+    distance_km: 20.82
+- country: US
+  region: ND
+  name: Palermo
+  lat: '48.3380'
+  long: "-102.2297"
+  nearby_rate_centers:
+  - name: STANLEY
+    distance_km: 12.29
+  - name: ROSS
+    distance_km: 22.97
+  - name: SPENCER
+    distance_km: 29.45
+- country: US
+  region: ND
+  name: Park River
+  lat: '48.3910'
+  long: "-97.7425"
+  nearby_rate_centers:
+  - name: PARK RIVER
+    distance_km: 0.25
+  - name: EDINBURG
+    distance_km: 14.54
+  - name: LANKIN
+    distance_km: 15.52
+- country: US
+  region: ND
+  name: Parshall
+  lat: '47.9595'
+  long: "-102.1338"
+  nearby_rate_centers:
+  - name: PARSHALL
+    distance_km: 1.15
+  - name: PLAZA
+    distance_km: 14.56
+  - name: MAKOTI
+    distance_km: 24.85
+- country: US
+  region: ND
+  name: Pekin
+  lat: '47.7919'
+  long: "-98.3278"
+  nearby_rate_centers:
+  - name: PEKIN
+    distance_km: 1.17
+  - name: TOLNA
+    distance_km: 9.83
+  - name: MCVILLE
+    distance_km: 11.7
+- country: US
+  region: ND
+  name: Pembina
+  lat: '48.9669'
+  long: "-97.2475"
+  nearby_rate_centers:
+  - name: PEMBINA
+    distance_km: 0.65
+  - name: NECHE
+    distance_km: 22.12
+  - name: CAVALIER
+    distance_km: 33.3
+- country: US
+  region: ND
+  name: Perth
+  lat: '48.7148'
+  long: "-99.4582"
+  nearby_rate_centers:
+  - name: BISBEE
+    distance_km: 11.32
+  - name: ROCK LAKE
+    distance_km: 18.05
+  - name: ROLLA
+    distance_km: 19.85
+- country: US
+  region: ND
+  name: Petersburg
+  lat: '48.0132'
+  long: "-98.0004"
+  nearby_rate_centers:
+  - name: PETERSBURG
+    distance_km: 0.95
+  - name: MICHIGAN
+    distance_km: 9.33
+  - name: NIAGARA
+    distance_km: 10.0
+- country: US
+  region: ND
+  name: Pettibone
+  lat: '47.1170'
+  long: "-99.5208"
+  nearby_rate_centers:
+  - name: PETTIBONE
+    distance_km: 0.63
+  - name: ROBINSON
+    distance_km: 19.82
+  - name: WOODWORTH
+    distance_km: 24.9
+- country: US
+  region: ND
+  name: Pick City
+  lat: '47.5110'
+  long: "-101.4574"
+  nearby_rate_centers:
+  - name: PICK CITY
+    distance_km: 0.15
+  - name: GARRISON
+    distance_km: 15.52
+  - name: EMMET
+    distance_km: 15.56
+- country: US
+  region: ND
+  name: Pillsbury
+  lat: '47.2071'
+  long: "-97.7957"
+  nearby_rate_centers:
+  - name: HOPE
+    distance_km: 13.78
+  - name: PAGE
+    distance_km: 18.09
+  - name: GALESBURG
+    distance_km: 29.74
+- country: US
+  region: ND
+  name: Pingree
+  lat: '47.1638'
+  long: "-98.9086"
+  nearby_rate_centers:
+  - name: EDMUNDS
+    distance_km: 10.53
+  - name: WOODWORTH
+    distance_km: 21.69
+  - name: COURTENAY
+    distance_km: 27.23
+- country: US
+  region: ND
+  name: Pisek
+  lat: '48.3107'
+  long: "-97.7104"
+  nearby_rate_centers:
+  - name: PARK RIVER
+    distance_km: 9.46
+  - name: FORDVILLE
+    distance_km: 11.97
+  - name: LANKIN
+    distance_km: 15.47
+- country: US
+  region: ND
+  name: Plaza
+  lat: '48.0260'
+  long: "-101.9594"
+  nearby_rate_centers:
+  - name: PLAZA
+    distance_km: 1.1
+  - name: MAKOTI
+    distance_km: 14.18
+  - name: PARSHALL
+    distance_km: 15.56
+- country: US
+  region: ND
+  name: Porcupine
+  lat: '46.2218'
+  long: "-101.0999"
+  nearby_rate_centers:
+  - name: SELFRIDGE
+    distance_km: 25.04
+  - name: FLASHER
+    distance_km: 28.25
+  - name: NOMCINTOSH
+    distance_km: 36.56
+- country: US
+  region: ND
+  name: Portal
+  lat: '48.9947'
+  long: "-102.5479"
+  nearby_rate_centers:
+  - name: PORTAL
+    distance_km: 0.4
+  - name: LIGNITE
+    distance_km: 12.81
+  - name: FLAXTON
+    distance_km: 14.99
+- country: US
+  region: ND
+  name: Portland
+  lat: '47.4995'
+  long: "-97.3693"
+  nearby_rate_centers:
+  - name: MAYVILLE
+    distance_km: 3.53
+  - name: HATTON
+    distance_km: 16.25
+  - name: HILLSBORO
+    distance_km: 25.94
+- country: US
+  region: ND
+  name: Powers Lake
+  lat: '48.5640'
+  long: "-102.6457"
+  nearby_rate_centers:
+  - name: POWERSLAKE
+    distance_km: 0.34
+  - name: MCGREGOR
+    distance_km: 20.87
+  - name: TIOGA
+    distance_km: 28.36
+- country: US
+  region: ND
+  name: Prairie Rose
+  lat: '46.8171'
+  long: "-96.8353"
+  nearby_rate_centers:
+  - name: FARGO
+    distance_km: 7.26
+  - name: HICKSON
+    distance_km: 19.18
+  - name: KINDRED
+    distance_km: 23.31
+- country: US
+  region: ND
+  name: Raleigh
+  lat: '46.3572'
+  long: "-101.3054"
+  nearby_rate_centers:
+  - name: FLASHER
+    distance_km: 12.91
+  - name: CARSON
+    distance_km: 21.44
+  - name: ELGIN
+    distance_km: 41.63
+- country: US
+  region: ND
+  name: Ray
+  lat: '48.3416'
+  long: "-103.1636"
+  nearby_rate_centers:
+  - name: RAY
+    distance_km: 0.85
+  - name: EPPING
+    distance_km: 15.74
+  - name: TIOGA
+    distance_km: 17.76
+- country: US
+  region: ND
+  name: Reeder
+  lat: '46.1059'
+  long: "-102.9422"
+  nearby_rate_centers:
+  - name: REEDER
+    distance_km: 0.66
+  - name: SCRANTON
+    distance_km: 15.4
+  - name: HETTINGER
+    distance_km: 26.59
+- country: US
+  region: ND
+  name: Regan
+  lat: '47.1568'
+  long: "-100.5273"
+  nearby_rate_centers:
+  - name: REGAN
+    distance_km: 0.14
+  - name: WING
+    distance_km: 18.7
+  - name: WILTON
+    distance_km: 19.4
+- country: US
+  region: ND
+  name: Regent
+  lat: '46.4222'
+  long: "-102.5581"
+  nearby_rate_centers:
+  - name: REGENT
+    distance_km: 0.55
+  - name: MOTT
+    distance_km: 18.63
+  - name: NEWENGLAND
+    distance_km: 27.17
+- country: US
+  region: ND
+  name: Reynolds
+  lat: '47.6685'
+  long: "-97.1060"
+  nearby_rate_centers:
+  - name: REYNOLDS
+    distance_km: 0.72
+  - name: THOMPSON
+    distance_km: 11.67
+  - name: WESTCLIMAX
+    distance_km: 18.99
+- country: US
+  region: ND
+  name: Rhame
+  lat: '46.2347'
+  long: "-103.6550"
+  nearby_rate_centers:
+  - name: RHAME
+    distance_km: 1.07
+  - name: BOWMAN
+    distance_km: 20.91
+  - name: LADD
+    distance_km: 29.46
+- country: US
+  region: ND
+  name: Richardton
+  lat: '46.8841'
+  long: "-102.3332"
+  nearby_rate_centers:
+  - name: RICHARDTON
+    distance_km: 1.37
+  - name: HEBRON
+    distance_km: 22.45
+  - name: DICKINSON
+    distance_km: 34.16
+- country: US
+  region: ND
+  name: Riverdale
+  lat: '47.4975'
+  long: "-101.3661"
+  nearby_rate_centers:
+  - name: PICK CITY
+    distance_km: 6.87
+  - name: GARRISON
+    distance_km: 17.11
+  - name: UNDERWOOD
+    distance_km: 17.58
+- country: US
+  region: ND
+  name: Robinson
+  lat: '47.1421'
+  long: "-99.7817"
+  nearby_rate_centers:
+  - name: ROBINSON
+    distance_km: 0.22
+  - name: TUTTLE
+    distance_km: 16.09
+  - name: PETTIBONE
+    distance_km: 19.33
+- country: US
+  region: ND
+  name: Rogers
+  lat: '47.0740'
+  long: "-98.2031"
+  nearby_rate_centers:
+  - name: DAZEY
+    distance_km: 12.37
+  - name: SANBORN
+    distance_km: 14.64
+  - name: VALLEYCITY
+    distance_km: 22.54
+- country: US
+  region: ND
+  name: Rolette
+  lat: '48.6609'
+  long: "-99.8417"
+  nearby_rate_centers:
+  - name: ROLETTE
+    distance_km: 0.27
+  - name: DUNSEITH
+    distance_km: 22.81
+  - name: ROLLA
+    distance_km: 27.54
+- country: US
+  region: ND
+  name: Rolla
+  lat: '48.8532'
+  long: "-99.6143"
+  nearby_rate_centers:
+  - name: ROLLA
+    distance_km: 0.72
+  - name: ROLETTE
+    distance_km: 27.38
+  - name: ROCK LAKE
+    distance_km: 28.16
+- country: US
+  region: ND
+  name: Ross
+  lat: '48.3128'
+  long: "-102.5435"
+  nearby_rate_centers:
+  - name: ROSS
+    distance_km: 0.54
+  - name: STANLEY
+    distance_km: 11.12
+  - name: POWERSLAKE
+    distance_km: 29.05
+- country: US
+  region: ND
+  name: Rugby
+  lat: '48.3654'
+  long: "-99.9903"
+  nearby_rate_centers:
+  - name: RUGBY
+    distance_km: 0.85
+  - name: BALTA
+    distance_km: 22.39
+  - name: KNOX
+    distance_km: 22.56
+- country: US
+  region: ND
+  name: Ruso
+  lat: '47.8373'
+  long: "-100.9343"
+  nearby_rate_centers:
+  - name: BUTTE
+    distance_km: 19.76
+  - name: VELVA
+    distance_km: 24.8
+  - name: MAX
+    distance_km: 27.16
+- country: US
+  region: ND
+  name: Ruthville
+  lat: '48.3708'
+  long: "-101.3003"
+  nearby_rate_centers:
+  - name: MINOT AFB
+    distance_km: 0.71
+  - name: MINOT
+    distance_km: 15.21
+  - name: GLENBURN
+    distance_km: 16.61
+- country: US
+  region: ND
+  name: Rutland
+  lat: '46.0543'
+  long: "-97.5068"
+  nearby_rate_centers:
+  - name: FORMAN
+    distance_km: 11.63
+  - name: NO VEBLEN
+    distance_km: 20.78
+  - name: NO BRITTON
+    distance_km: 22.88
+- country: US
+  region: ND
+  name: Ryder
+  lat: '47.9211'
+  long: "-101.6694"
+  nearby_rate_centers:
+  - name: RYDER
+    distance_km: 0.59
+  - name: MAKOTI
+    distance_km: 10.49
+  - name: DOUGLAS
+    distance_km: 14.68
+- country: US
+  region: ND
+  name: Sanborn
+  lat: '46.9428'
+  long: "-98.2238"
+  nearby_rate_centers:
+  - name: SANBORN
+    distance_km: 0.15
+  - name: VALLEYCITY
+    distance_km: 16.9
+  - name: DAZEY
+    distance_km: 27.01
+- country: US
+  region: ND
+  name: Sarles
+  lat: '48.9450'
+  long: "-98.9969"
+  nearby_rate_centers:
+  - name: SARLES
+    distance_km: 0.3
+  - name: ROCK LAKE
+    distance_km: 24.7
+  - name: WALES
+    distance_km: 30.28
+- country: US
+  region: ND
+  name: Sawyer
+  lat: '48.0894'
+  long: "-101.0533"
+  nearby_rate_centers:
+  - name: SAWYER
+    distance_km: 0.56
+  - name: VELVA
+    distance_km: 10.03
+  - name: SO PRAIRIE
+    distance_km: 17.34
+- country: US
+  region: ND
+  name: Scranton
+  lat: '46.1498'
+  long: "-103.1429"
+  nearby_rate_centers:
+  - name: SCRANTON
+    distance_km: 0.84
+  - name: REEDER
+    distance_km: 16.6
+  - name: BOWMAN
+    distance_km: 19.66
+- country: US
+  region: ND
+  name: Selfridge
+  lat: '46.0417'
+  long: "-100.9244"
+  nearby_rate_centers:
+  - name: SELFRIDGE
+    distance_km: 0.93
+  - name: NOMCLAGHLI
+    distance_km: 12.96
+  - name: FORT YATES
+    distance_km: 23.57
+- country: US
+  region: ND
+  name: Selz
+  lat: '47.8594'
+  long: "-99.8934"
+  nearby_rate_centers:
+  - name: HARVEY
+    distance_km: 9.67
+  - name: MARTIN
+    distance_km: 16.97
+  - name: ESMOND
+    distance_km: 21.74
+- country: US
+  region: ND
+  name: Sentinel Butte
+  lat: '46.9195'
+  long: "-103.8400"
+  nearby_rate_centers:
+  - name: BEACH
+    distance_km: 13.02
+  - name: MEDORA
+    distance_km: 24.55
+  - name: E CARLYLE
+    distance_km: 45.9
+- country: US
+  region: ND
+  name: Sharon
+  lat: '47.5974'
+  long: "-97.8994"
+  nearby_rate_centers:
+  - name: ANETA
+    distance_km: 10.43
+  - name: FINLEY
+    distance_km: 10.85
+  - name: COOPERSTN
+    distance_km: 23.84
+- country: US
+  region: ND
+  name: Sheldon
+  lat: '46.5886'
+  long: "-97.4944"
+  nearby_rate_centers:
+  - name: SHELDON
+    distance_km: 0.73
+  - name: ENDERLIN
+    distance_km: 7.95
+  - name: ALICE
+    distance_km: 19.28
+- country: US
+  region: ND
+  name: Shell Valley
+  lat: '48.8108'
+  long: "-99.8273"
+  nearby_rate_centers:
+  - name: ROLLA
+    distance_km: 16.31
+  - name: DUNSEITH
+    distance_km: 16.84
+  - name: ROLETTE
+    distance_km: 16.91
+- country: US
+  region: ND
+  name: Sherwood
+  lat: '48.9619'
+  long: "-101.6328"
+  nearby_rate_centers:
+  - name: SHERWOOD
+    distance_km: 0.67
+  - name: MOHALL
+    distance_km: 23.49
+  - name: ANTLER
+    distance_km: 25.38
+- country: US
+  region: ND
+  name: Sheyenne
+  lat: '47.8272'
+  long: "-99.1168"
+  nearby_rate_centers:
+  - name: SHEYENNE
+    distance_km: 0.79
+  - name: OBERON
+    distance_km: 12.43
+  - name: NEW ROCKFD
+    distance_km: 16.97
+- country: US
+  region: ND
+  name: Sibley
+  lat: '47.2188'
+  long: "-97.9654"
+  nearby_rate_centers:
+  - name: DAZEY
+    distance_km: 18.18
+  - name: HANNAFORD
+    distance_km: 19.75
+  - name: HOPE
+    distance_km: 21.94
+- country: US
+  region: ND
+  name: Solen
+  lat: '46.3873'
+  long: "-100.7958"
+  nearby_rate_centers:
+  - name: ST ANTHONY
+    distance_km: 27.41
+  - name: FLASHER
+    distance_km: 34.06
+  - name: FORT YATES
+    distance_km: 36.33
+- country: US
+  region: ND
+  name: Souris
+  lat: '48.9100'
+  long: "-100.6826"
+  nearby_rate_centers:
+  - name: SOURIS
+    distance_km: 0.25
+  - name: LANDA
+    distance_km: 17.37
+  - name: BOTTINEAU
+    distance_km: 20.2
+- country: US
+  region: ND
+  name: South Heart
+  lat: '46.8691'
+  long: "-102.9927"
+  nearby_rate_centers:
+  - name: SOUTHHEART
+    distance_km: 0.56
+  - name: BELFIELD
+    distance_km: 15.28
+  - name: DICKINSON
+    distance_km: 16.0
+- country: US
+  region: ND
+  name: Spiritwood
+  lat: '46.9343'
+  long: "-98.4933"
+  nearby_rate_centers:
+  - name: JAMESTOWN
+    distance_km: 16.03
+  - name: YPSILANTI
+    distance_km: 17.45
+  - name: SANBORN
+    distance_km: 20.64
+- country: US
+  region: ND
+  name: Spiritwood Lake
+  lat: '47.0743'
+  long: "-98.5866"
+  nearby_rate_centers:
+  - name: COURTENAY
+    distance_km: 16.92
+  - name: JAMESTOWN
+    distance_km: 20.59
+  - name: SANBORN
+    distance_km: 31.28
+- country: US
+  region: ND
+  name: Springbrook
+  lat: '48.2521'
+  long: "-103.4618"
+  nearby_rate_centers:
+  - name: EPPING
+    distance_km: 8.48
+  - name: WILLISTON
+    distance_km: 17.54
+  - name: RAY
+    distance_km: 23.53
+- country: US
+  region: ND
+  name: St. John
+  lat: '48.9437'
+  long: "-99.7132"
+  nearby_rate_centers:
+  - name: ROLLA
+    distance_km: 11.71
+  - name: DUNSEITH
+    distance_km: 29.29
+  - name: ROLETTE
+    distance_km: 33.07
+- country: US
+  region: ND
+  name: St. Thomas
+  lat: '48.6192'
+  long: "-97.4471"
+  nearby_rate_centers:
+  - name: ST THOMAS
+    distance_km: 0.12
+  - name: HOOPLE
+    distance_km: 16.3
+  - name: CRYSTAL
+    distance_km: 16.6
+- country: US
+  region: ND
+  name: Stanley
+  lat: '48.3137'
+  long: "-102.3974"
+  nearby_rate_centers:
+  - name: STANLEY
+    distance_km: 0.6
+  - name: ROSS
+    distance_km: 10.45
+  - name: POWERSLAKE
+    distance_km: 33.53
+- country: US
+  region: ND
+  name: Stanton
+  lat: '47.3187'
+  long: "-101.3822"
+  nearby_rate_centers:
+  - name: STANTON
+    distance_km: 0.55
+  - name: HAZEN
+    distance_km: 18.31
+  - name: PICK CITY
+    distance_km: 22.04
+- country: US
+  region: ND
+  name: Starkweather
+  lat: '48.4521'
+  long: "-98.8784"
+  nearby_rate_centers:
+  - name: STARKWETHR
+    distance_km: 0.31
+  - name: WEBSTER
+    distance_km: 18.51
+  - name: HAMPDEN
+    distance_km: 19.24
+- country: US
+  region: ND
+  name: Steele
+  lat: '46.8568'
+  long: "-99.9181"
+  nearby_rate_centers:
+  - name: STEELE
+    distance_km: 0.22
+  - name: TAPPEN
+    distance_km: 19.77
+  - name: STERLING
+    distance_km: 28.45
+- country: US
+  region: ND
+  name: Strasburg
+  lat: '46.1337'
+  long: "-100.1613"
+  nearby_rate_centers:
+  - name: STRASBURG
+    distance_km: 0.24
+  - name: LINTON
+    distance_km: 14.76
+  - name: ZEELAND
+    distance_km: 31.28
+- country: US
+  region: ND
+  name: Streeter
+  lat: '46.6576'
+  long: "-99.3568"
+  nearby_rate_centers:
+  - name: STREETER
+    distance_km: 0.37
+  - name: GACKLE
+    distance_km: 16.98
+  - name: MEDINA
+    distance_km: 27.22
+- country: US
+  region: ND
+  name: Surrey
+  lat: '48.2433'
+  long: "-101.1333"
+  nearby_rate_centers:
+  - name: MINOT
+    distance_km: 11.84
+  - name: SAWYER
+    distance_km: 18.67
+  - name: DEERING
+    distance_km: 18.73
+- country: US
+  region: ND
+  name: Sutton
+  lat: '47.4038'
+  long: "-98.4412"
+  nearby_rate_centers:
+  - name: BINFORD
+    distance_km: 19.85
+  - name: HANNAFORD
+    distance_km: 21.64
+  - name: COURTENAY
+    distance_km: 21.76
+- country: US
+  region: ND
+  name: Sykeston
+  lat: '47.4660'
+  long: "-99.3993"
+  nearby_rate_centers:
+  - name: SYKESTON
+    distance_km: 0.02
+  - name: CARRINGTON
+    distance_km: 20.56
+  - name: BOWDON
+    distance_km: 23.44
+- country: US
+  region: ND
+  name: Tappen
+  lat: '46.8716'
+  long: "-99.6269"
+  nearby_rate_centers:
+  - name: TAPPEN
+    distance_km: 2.61
+  - name: STEELE
+    distance_km: 22.04
+  - name: MEDINA
+    distance_km: 24.78
+- country: US
+  region: ND
+  name: Taylor
+  lat: '46.9018'
+  long: "-102.4222"
+  nearby_rate_centers:
+  - name: RICHARDTON
+    distance_km: 8.41
+  - name: DICKINSON
+    distance_km: 27.53
+  - name: HEBRON
+    distance_km: 29.13
+- country: US
+  region: ND
+  name: Thompson
+  lat: '47.7752'
+  long: "-97.1054"
+  nearby_rate_centers:
+  - name: THOMPSON
+    distance_km: 0.46
+  - name: REYNOLDS
+    distance_km: 11.96
+  - name: GRANDFORKS
+    distance_km: 16.43
+- country: US
+  region: ND
+  name: Tioga
+  lat: '48.3947'
+  long: "-102.9431"
+  nearby_rate_centers:
+  - name: TIOGA
+    distance_km: 0.57
+  - name: RAY
+    distance_km: 18.04
+  - name: MCGREGOR
+    distance_km: 22.29
+- country: US
+  region: ND
+  name: Tolley
+  lat: '48.7303'
+  long: "-101.8274"
+  nearby_rate_centers:
+  - name: TOLLEY
+    distance_km: 0.65
+  - name: NORMA
+    distance_km: 10.83
+  - name: KENMARE
+    distance_km: 20.08
+- country: US
+  region: ND
+  name: Tolna
+  lat: '47.8257'
+  long: "-98.4382"
+  nearby_rate_centers:
+  - name: TOLNA
+    distance_km: 0.97
+  - name: PEKIN
+    distance_km: 8.96
+  - name: WARWICK
+    distance_km: 20.38
+- country: US
+  region: ND
+  name: Tower City
+  lat: '46.9263'
+  long: "-97.6760"
+  nearby_rate_centers:
+  - name: TOWER CITY
+    distance_km: 0.84
+  - name: BUFFALO
+    distance_km: 10.39
+  - name: ALICE
+    distance_km: 21.0
+- country: US
+  region: ND
+  name: Towner
+  lat: '48.3471'
+  long: "-100.4070"
+  nearby_rate_centers:
+  - name: TOWNER
+    distance_km: 0.46
+  - name: WILLOWCITY
+    distance_km: 29.4
+  - name: RUGBY
+    distance_km: 30.08
+- country: US
+  region: ND
+  name: Trenton
+  lat: '48.0700'
+  long: "-103.8429"
+  nearby_rate_centers:
+  - name: ROUNDPRARI
+    distance_km: 15.2
+  - name: WILLISTON
+    distance_km: 17.72
+  - name: E FAIRVIEW
+    distance_km: 27.79
+- country: US
+  region: ND
+  name: Turtle Lake
+  lat: '47.5216'
+  long: "-100.8908"
+  nearby_rate_centers:
+  - name: TURTLELAKE
+    distance_km: 0.97
+  - name: MERCER
+    distance_km: 14.18
+  - name: UNDERWOOD
+    distance_km: 20.44
+- country: US
+  region: ND
+  name: Tuttle
+  lat: '47.1445'
+  long: "-99.9934"
+  nearby_rate_centers:
+  - name: TUTTLE
+    distance_km: 0.17
+  - name: ROBINSON
+    distance_km: 16.15
+  - name: WING
+    distance_km: 21.77
+- country: US
+  region: ND
+  name: Underwood
+  lat: '47.4550'
+  long: "-101.1417"
+  nearby_rate_centers:
+  - name: UNDERWOOD
+    distance_km: 0.39
+  - name: WASHBURN
+    distance_km: 20.27
+  - name: TURTLELAKE
+    distance_km: 20.77
+- country: US
+  region: ND
+  name: Upham
+  lat: '48.5815'
+  long: "-100.7284"
+  nearby_rate_centers:
+  - name: UPHAM
+    distance_km: 0.5
+  - name: KRAMER
+    distance_km: 11.56
+  - name: NEWBURG
+    distance_km: 19.83
+- country: US
+  region: ND
+  name: Valley City
+  lat: '46.9222'
+  long: "-98.0055"
+  nearby_rate_centers:
+  - name: VALLEYCITY
+    distance_km: 0.29
+  - name: SANBORN
+    distance_km: 16.58
+  - name: TOWER CITY
+    distance_km: 25.75
+- country: US
+  region: ND
+  name: Velva
+  lat: '48.0582'
+  long: "-100.9329"
+  nearby_rate_centers:
+  - name: VELVA
+    distance_km: 0.59
+  - name: SAWYER
+    distance_km: 9.21
+  - name: KARLSRUHE
+    distance_km: 23.05
+- country: US
+  region: ND
+  name: Venturia
+  lat: '45.9971'
+  long: "-99.5479"
+  nearby_rate_centers:
+  - name: VENTURIA
+    distance_km: 0.7
+  - name: ASHLEY
+    distance_km: 14.45
+  - name: ZEELAND
+    distance_km: 21.69
+- country: US
+  region: ND
+  name: Verona
+  lat: '46.3626'
+  long: "-98.0771"
+  nearby_rate_centers:
+  - name: VERONA
+    distance_km: 0.43
+  - name: LAMOURE
+    distance_km: 16.42
+  - name: CRETE
+    distance_km: 19.98
+- country: US
+  region: ND
+  name: Voltaire
+  lat: '48.0187'
+  long: "-100.8440"
+  nearby_rate_centers:
+  - name: VELVA
+    distance_km: 7.62
+  - name: SAWYER
+    distance_km: 17.01
+  - name: KARLSRUHE
+    distance_km: 18.09
+- country: US
+  region: ND
+  name: Wahpeton
+  lat: '46.2722'
+  long: "-96.6118"
+  nearby_rate_centers:
+  - name: WAHPETON
+    distance_km: 0.94
+  - name: GREAT BEND
+    distance_km: 20.03
+  - name: MOORETON
+    distance_km: 20.47
+- country: US
+  region: ND
+  name: Walcott
+  lat: '46.5505'
+  long: "-96.9375"
+  nearby_rate_centers:
+  - name: WALCOTT
+    distance_km: 0.29
+  - name: COLFAX
+    distance_km: 10.59
+  - name: KINDRED
+    distance_km: 12.7
+- country: US
+  region: ND
+  name: Wales
+  lat: '48.8952'
+  long: "-98.6008"
+  nearby_rate_centers:
+  - name: WALES
+    distance_km: 1.02
+  - name: LANGDON
+    distance_km: 21.85
+  - name: SARLES
+    distance_km: 29.71
+- country: US
+  region: ND
+  name: Walhalla
+  lat: '48.9211'
+  long: "-97.9176"
+  nearby_rate_centers:
+  - name: WALHALLA
+    distance_km: 0.55
+  - name: CAVALIER
+    distance_km: 26.16
+  - name: NECHE
+    distance_km: 27.75
+- country: US
+  region: ND
+  name: Warwick
+  lat: '47.8547'
+  long: "-98.7056"
+  nearby_rate_centers:
+  - name: WARWICK
+    distance_km: 0.29
+  - name: TOLNA
+    distance_km: 19.67
+  - name: CRARY
+    distance_km: 24.13
+- country: US
+  region: ND
+  name: Washburn
+  lat: '47.2920'
+  long: "-101.0278"
+  nearby_rate_centers:
+  - name: WASHBURN
+    distance_km: 0.33
+  - name: UNDERWOOD
+    distance_km: 19.72
+  - name: WILTON
+    distance_km: 23.54
+- country: US
+  region: ND
+  name: Watford City
+  lat: '47.8027'
+  long: "-103.2678"
+  nearby_rate_centers:
+  - name: WATFORD CY
+    distance_km: 0.9
+  - name: ARNEGARD
+    distance_km: 12.24
+  - name: KEENE
+    distance_km: 27.86
+- country: US
+  region: ND
+  name: West Fargo
+  lat: '46.8573'
+  long: "-96.9057"
+  nearby_rate_centers:
+  - name: FARGO
+    distance_km: 8.74
+  - name: CASSELTON
+    distance_km: 23.22
+  - name: KINDRED
+    distance_km: 24.65
+- country: US
+  region: ND
+  name: Westhope
+  lat: '48.9112'
+  long: "-101.0176"
+  nearby_rate_centers:
+  - name: WESTHOPE
+    distance_km: 0.53
+  - name: LANDA
+    distance_km: 7.63
+  - name: ANTLER
+    distance_km: 20.81
+- country: US
+  region: ND
+  name: Wheatland
+  lat: '46.9049'
+  long: "-97.3455"
+  nearby_rate_centers:
+  - name: ABSARAKA
+    distance_km: 9.42
+  - name: CASSELTON
+    distance_km: 10.72
+  - name: BUFFALO
+    distance_km: 14.83
+- country: US
+  region: ND
+  name: White Earth
+  lat: '48.3799'
+  long: "-102.7718"
+  nearby_rate_centers:
+  - name: TIOGA
+    distance_km: 12.55
+  - name: ROSS
+    distance_km: 18.62
+  - name: POWERSLAKE
+    distance_km: 22.37
+- country: US
+  region: ND
+  name: White Shield
+  lat: '47.6601'
+  long: "-101.8436"
+  nearby_rate_centers:
+  - name: ROSEGLEN
+    distance_km: 11.02
+  - name: EMMET
+    distance_km: 29.51
+  - name: RYDER
+    distance_km: 31.28
+- country: US
+  region: ND
+  name: Wildrose
+  lat: '48.6299'
+  long: "-103.1837"
+  nearby_rate_centers:
+  - name: WILDROSE
+    distance_km: 0.11
+  - name: MCGREGOR
+    distance_km: 19.38
+  - name: ALAMO
+    distance_km: 22.06
+- country: US
+  region: ND
+  name: Williston
+  lat: '48.1814'
+  long: "-103.6364"
+  nearby_rate_centers:
+  - name: WILLISTON
+    distance_km: 4.62
+  - name: ROUNDPRARI
+    distance_km: 20.35
+  - name: EPPING
+    distance_km: 23.54
+- country: US
+  region: ND
+  name: Willow City
+  lat: '48.6047'
+  long: "-100.2933"
+  nearby_rate_centers:
+  - name: WILLOWCITY
+    distance_km: 0.46
+  - name: BOTTINEAU
+    distance_km: 26.8
+  - name: DUNSEITH
+    distance_km: 28.56
+- country: US
+  region: ND
+  name: Wilton
+  lat: '47.1581'
+  long: "-100.7842"
+  nearby_rate_centers:
+  - name: WILTON
+    distance_km: 0.24
+  - name: REGAN
+    distance_km: 19.29
+  - name: WASHBURN
+    distance_km: 23.36
+- country: US
+  region: ND
+  name: Wimbledon
+  lat: '47.1691'
+  long: "-98.4587"
+  nearby_rate_centers:
+  - name: COURTENAY
+    distance_km: 9.88
+  - name: DAZEY
+    distance_km: 19.57
+  - name: HANNAFORD
+    distance_km: 26.24
+- country: US
+  region: ND
+  name: Wing
+  lat: '47.1423'
+  long: "-100.2823"
+  nearby_rate_centers:
+  - name: WING
+    distance_km: 0.22
+  - name: REGAN
+    distance_km: 18.73
+  - name: TUTTLE
+    distance_km: 21.77
+- country: US
+  region: ND
+  name: Wishek
+  lat: '46.2554'
+  long: "-99.5546"
+  nearby_rate_centers:
+  - name: WISHEK
+    distance_km: 0.63
+  - name: LEHR
+    distance_km: 15.7
+  - name: ASHLEY
+    distance_km: 28.5
+- country: US
+  region: ND
+  name: Wolford
+  lat: '48.4975'
+  long: "-99.7038"
+  nearby_rate_centers:
+  - name: KNOX
+    distance_km: 17.5
+  - name: ROLETTE
+    distance_km: 20.72
+  - name: YORK
+    distance_km: 23.2
+- country: US
+  region: ND
+  name: Woodworth
+  lat: '47.1421'
+  long: "-99.3045"
+  nearby_rate_centers:
+  - name: WOODWORTH
+    distance_km: 8.37
+  - name: PETTIBONE
+    distance_km: 17.11
+  - name: MEDINA
+    distance_km: 26.96
+- country: US
+  region: ND
+  name: Wyndmere
+  lat: '46.2641'
+  long: "-97.1312"
+  nearby_rate_centers:
+  - name: WYNDMERE
+    distance_km: 0.45
+  - name: MOORETON
+    distance_km: 19.47
+  - name: LIDGERWOOD
+    distance_km: 21.21
+- country: US
+  region: ND
+  name: York
+  lat: '48.3132'
+  long: "-99.5733"
+  nearby_rate_centers:
+  - name: YORK
+    distance_km: 0.69
+  - name: KNOX
+    distance_km: 8.96
+  - name: LEEDS
+    distance_km: 9.87
+- country: US
+  region: ND
+  name: Ypsilanti
+  lat: '46.7834'
+  long: "-98.5610"
+  nearby_rate_centers:
+  - name: YPSILANTI
+    distance_km: 1.06
+  - name: JAMESTOWN
+    distance_km: 17.28
+  - name: MARION
+    distance_km: 25.98
+- country: US
+  region: ND
+  name: Zap
+  lat: '47.2847'
+  long: "-101.9233"
+  nearby_rate_centers:
+  - name: ZAP
+    distance_km: 0.19
+  - name: GOLDEN VLY
+    distance_km: 10.99
+  - name: BEULAH
+    distance_km: 11.73
+- country: US
+  region: ND
+  name: Zeeland
+  lat: '45.9731'
+  long: "-99.8325"
+  nearby_rate_centers:
+  - name: ZEELAND
+    distance_km: 0.49
+  - name: VENTURIA
+    distance_km: 22.29
+  - name: STRASBURG
+    distance_km: 30.79

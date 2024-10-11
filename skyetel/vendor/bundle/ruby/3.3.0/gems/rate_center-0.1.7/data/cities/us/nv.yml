@@ -1,0 +1,1726 @@
+---
+cities:
+- country: US
+  region: NV
+  name: Alamo
+  lat: '37.3771'
+  long: "-115.1678"
+  nearby_rate_centers:
+  - name: ALAMO
+    distance_km: 1.63
+  - name: SAND SPG
+    distance_km: 59.56
+  - name: CALIENTE
+    distance_km: 63.66
+- country: US
+  region: NV
+  name: Amargosa Valley
+  lat: '36.5424'
+  long: "-116.4877"
+  nearby_rate_centers:
+  - name: LATHROWLLS
+    distance_km: 15.59
+  - name: BEATTY
+    distance_km: 47.2
+  - name: PAHRUMP
+    distance_km: 57.91
+- country: US
+  region: NV
+  name: Austin
+  lat: '39.4976'
+  long: "-117.0740"
+  nearby_rate_centers:
+  - name: AUSTIN
+    distance_km: 0.7
+  - name: ROUND MT
+    distance_km: 87.9
+  - name: EUREKA
+    distance_km: 95.8
+- country: US
+  region: NV
+  name: Baker
+  lat: '39.0150'
+  long: "-114.1233"
+  nearby_rate_centers:
+  - name: BAKER
+    distance_km: 1.48
+  - name: BURBANK
+    distance_km: 38.45
+  - name: SPVLYCHCRK
+    distance_km: 46.33
+- country: US
+  region: NV
+  name: Battle Mountain
+  lat: '40.6299'
+  long: "-116.9518"
+  nearby_rate_centers:
+  - name: BATTLE MT
+    distance_km: 2.08
+  - name: CRESCNTVLY
+    distance_km: 37.7
+  - name: MIDAS
+    distance_km: 69.18
+- country: US
+  region: NV
+  name: Beatty
+  lat: '36.9474'
+  long: "-116.7337"
+  nearby_rate_centers:
+  - name: BEATTY
+    distance_km: 4.72
+  - name: LATHROWLLS
+    distance_km: 44.09
+  - name: GOLDFIELD
+    distance_km: 95.83
+- country: US
+  region: NV
+  name: Beaverdam
+  lat: '37.6898'
+  long: "-114.4491"
+  nearby_rate_centers:
+  - name: CALIENTE
+    distance_km: 10.3
+  - name: PANACA
+    distance_km: 12.97
+  - name: PIOCHE
+    distance_km: 26.01
+- country: US
+  region: NV
+  name: Bennett Springs
+  lat: '37.7141'
+  long: "-114.4667"
+  nearby_rate_centers:
+  - name: PANACA
+    distance_km: 11.71
+  - name: CALIENTE
+    distance_km: 12.14
+  - name: PIOCHE
+    distance_km: 23.36
+- country: US
+  region: NV
+  name: Blue Diamond
+  lat: '36.0400'
+  long: "-115.4128"
+  nearby_rate_centers:
+  - name: BLUEDIAMND
+    distance_km: 2.27
+  - name: LAS VEGAS
+    distance_km: 28.16
+  - name: JEAN
+    distance_km: 30.37
+- country: US
+  region: NV
+  name: Boulder City
+  lat: '35.8407'
+  long: "-114.9257"
+  nearby_rate_centers:
+  - name: NELSON
+    distance_km: 16.14
+  - name: BOULDER CY
+    distance_km: 17.28
+  - name: HENDERSON
+    distance_km: 21.97
+- country: US
+  region: NV
+  name: Bunkerville
+  lat: '36.7594'
+  long: "-114.1412"
+  nearby_rate_centers:
+  - name: MESQUITE
+    distance_km: 8.55
+  - name: TOQUOP
+    distance_km: 13.78
+  - name: LOGANDALE
+    distance_km: 35.55
+- country: US
+  region: NV
+  name: Cal-Nev-Ari
+  lat: '35.2996'
+  long: "-114.8777"
+  nearby_rate_centers:
+  - name: SEARCHLIHT
+    distance_km: 18.73
+  - name: LAUGHLIN
+    distance_km: 30.86
+  - name: SPIRIT MT
+    distance_km: 38.88
+- country: US
+  region: NV
+  name: Caliente
+  lat: '37.6458'
+  long: "-114.4929"
+  nearby_rate_centers:
+  - name: CALIENTE
+    distance_km: 4.21
+  - name: PANACA
+    distance_km: 19.16
+  - name: PIOCHE
+    distance_km: 31.14
+- country: US
+  region: NV
+  name: Carlin
+  lat: '40.7190'
+  long: "-116.1081"
+  nearby_rate_centers:
+  - name: CARLIN
+    distance_km: 0.31
+  - name: ELKO
+    distance_km: 32.17
+  - name: LEE JIGGS
+    distance_km: 42.1
+- country: US
+  region: NV
+  name: Carson City
+  lat: '39.1511'
+  long: "-119.7476"
+  nearby_rate_centers:
+  - name: CARSONCITY
+    distance_km: 3.27
+  - name: DAYTON
+    distance_km: 3.27
+  - name: GLENBROOK
+    distance_km: 19.31
+  - name: VIRGINIACY
+    distance_km: 19.46
+- country: US
+  region: NV
+  name: Carter Springs
+  lat: '38.8619'
+  long: "-119.6413"
+  nearby_rate_centers:
+  - name: GARDNERVL
+    distance_km: 14.44
+  - name: TOPAZ LAKE
+    distance_km: 19.61
+  - name: STATELINE
+    distance_km: 27.73
+- country: US
+  region: NV
+  name: Cold Springs
+  lat: '39.6927'
+  long: "-119.9775"
+  nearby_rate_centers:
+  - name: RED ROCK
+    distance_km: 19.39
+  - name: LOCKWOOD
+    distance_km: 23.55
+  - name: RENO
+    distance_km: 23.55
+  - name: SPARKS
+    distance_km: 23.55
+  - name: STEAD
+    distance_km: 23.55
+  - name: SUN VALLEY
+    distance_km: 23.55
+  - name: VERDI
+    distance_km: 23.55
+  - name: WASHOE VLY
+    distance_km: 23.55
+  - name: COTNWD CRK
+    distance_km: 33.23
+- country: US
+  region: NV
+  name: Crescent Valley
+  lat: '40.4198'
+  long: "-116.5753"
+  nearby_rate_centers:
+  - name: CRESCNTVLY
+    distance_km: 2.18
+  - name: BATTLE MT
+    distance_km: 38.97
+  - name: CARLIN
+    distance_km: 51.37
+- country: US
+  region: NV
+  name: Crystal Bay
+  lat: '39.2314'
+  long: "-120.0019"
+  nearby_rate_centers:
+  - name: CRYSTALBAY
+    distance_km: 0.95
+  - name: GLENBROOK
+    distance_km: 17.94
+  - name: CARSONCITY
+    distance_km: 21.25
+  - name: DAYTON
+    distance_km: 21.25
+- country: US
+  region: NV
+  name: Dayton
+  lat: '39.2592'
+  long: "-119.5653"
+  nearby_rate_centers:
+  - name: CARSON PL
+    distance_km: 6.25
+  - name: VIRGINIACY
+    distance_km: 8.94
+  - name: CARSONCITY
+    distance_km: 19.51
+  - name: DAYTON
+    distance_km: 19.51
+- country: US
+  region: NV
+  name: Denio
+  lat: '41.9888'
+  long: "-118.6375"
+  nearby_rate_centers:
+  - name: DENIO
+    distance_km: 25.92
+  - name: DESERT VLY
+    distance_km: 68.6
+  - name: MCDERMITT
+    distance_km: 75.89
+- country: US
+  region: NV
+  name: Double Spring
+  lat: '38.7788'
+  long: "-119.6154"
+  nearby_rate_centers:
+  - name: TOPAZ LAKE
+    distance_km: 10.38
+  - name: GARDNERVL
+    distance_km: 23.02
+  - name: SMITH VLY
+    distance_km: 25.13
+- country: US
+  region: NV
+  name: Dry Valley
+  lat: '37.8843'
+  long: "-114.3051"
+  nearby_rate_centers:
+  - name: PANACA
+    distance_km: 12.09
+  - name: PIOCHE
+    distance_km: 13.37
+  - name: CALIENTE
+    distance_km: 35.36
+- country: US
+  region: NV
+  name: Dyer
+  lat: '37.6469'
+  long: "-118.0345"
+  nearby_rate_centers:
+  - name: FISHLK VLY
+    distance_km: 4.13
+  - name: SILVERPEAK
+    distance_km: 37.17
+  - name: MONTGYPASS
+    distance_km: 45.5
+- country: US
+  region: NV
+  name: East Valley
+  lat: '38.9452'
+  long: "-119.6993"
+  nearby_rate_centers:
+  - name: GARDNERVL
+    distance_km: 5.48
+  - name: STATELINE
+    distance_km: 20.23
+  - name: GLENBROOK
+    distance_km: 25.99
+- country: US
+  region: NV
+  name: Elko
+  lat: '40.8381'
+  long: "-115.7678"
+  nearby_rate_centers:
+  - name: ELKO
+    distance_km: 0.98
+  - name: CARLIN
+    distance_km: 31.75
+  - name: LEE JIGGS
+    distance_km: 33.51
+- country: US
+  region: NV
+  name: Ely
+  lat: '39.2650'
+  long: "-114.8708"
+  nearby_rate_centers:
+  - name: ELY
+    distance_km: 2.14
+  - name: MCGILL
+    distance_km: 18.2
+  - name: SPVLYCHCRK
+    distance_km: 35.9
+- country: US
+  region: NV
+  name: Empire
+  lat: '40.5759'
+  long: "-119.3430"
+  nearby_rate_centers:
+  - name: EMPIRE
+    distance_km: 1.11
+  - name: SUTCLIFFE
+    distance_km: 73.89
+  - name: NIXON
+    distance_km: 83.28
+- country: US
+  region: NV
+  name: Enterprise
+  lat: '36.0091'
+  long: "-115.2278"
+  nearby_rate_centers:
+  - name: BLUEDIAMND
+    distance_km: 16.31
+  - name: LAS VEGAS
+    distance_km: 19.29
+  - name: HENDERSON
+    distance_km: 21.99
+- country: US
+  region: NV
+  name: Eureka
+  lat: '39.5112'
+  long: "-115.9658"
+  nearby_rate_centers:
+  - name: EUREKA
+    distance_km: 0.94
+  - name: DCKWTRCRNT
+    distance_km: 72.05
+  - name: AUSTIN
+    distance_km: 95.24
+- country: US
+  region: NV
+  name: Fallon
+  lat: '39.4737'
+  long: "-118.7779"
+  nearby_rate_centers:
+  - name: FALLON
+    distance_km: 0.41
+  - name: SILVER SPG
+    distance_km: 39.02
+  - name: FERNLEY
+    distance_km: 40.99
+- country: US
+  region: NV
+  name: Fallon Station
+  lat: '39.4150'
+  long: "-118.7165"
+  nearby_rate_centers:
+  - name: FALLON
+    distance_km: 8.53
+  - name: SILVER SPG
+    distance_km: 43.64
+  - name: FERNLEY
+    distance_km: 48.4
+- country: US
+  region: NV
+  name: Fernley
+  lat: '39.5627'
+  long: "-119.1906"
+  nearby_rate_centers:
+  - name: FERNLEY
+    distance_km: 5.31
+  - name: SILVER SPG
+    distance_km: 17.41
+  - name: STAGECOACH
+    distance_km: 26.54
+- country: US
+  region: NV
+  name: Fish Springs
+  lat: '38.9536'
+  long: "-119.6511"
+  nearby_rate_centers:
+  - name: GARDNERVL
+    distance_km: 9.61
+  - name: STATELINE
+    distance_km: 24.29
+  - name: CARSONCITY
+    distance_km: 26.74
+  - name: DAYTON
+    distance_km: 26.74
+- country: US
+  region: NV
+  name: Fort McDermitt
+  lat: '41.9655'
+  long: "-117.6394"
+  nearby_rate_centers:
+  - name: MCDERMITT
+    distance_km: 7.28
+  - name: OROVADA
+    distance_km: 47.07
+  - name: PARADISVLY
+    distance_km: 53.35
+- country: US
+  region: NV
+  name: Gabbs
+  lat: '38.8621'
+  long: "-117.9330"
+  nearby_rate_centers:
+  - name: GABBS
+    distance_km: 0.54
+  - name: MINA
+    distance_km: 54.41
+  - name: HAWTHORNE
+    distance_km: 70.82
+- country: US
+  region: NV
+  name: Gardnerville
+  lat: '38.9390'
+  long: "-119.7369"
+  nearby_rate_centers:
+  - name: GARDNERVL
+    distance_km: 2.59
+  - name: STATELINE
+    distance_km: 17.13
+  - name: GLENBROOK
+    distance_km: 23.79
+- country: US
+  region: NV
+  name: Gardnerville Ranchos
+  lat: '38.8957'
+  long: "-119.7492"
+  nearby_rate_centers:
+  - name: GARDNERVL
+    distance_km: 6.3
+  - name: STATELINE
+    distance_km: 17.69
+  - name: GLENBROOK
+    distance_km: 26.41
+- country: US
+  region: NV
+  name: Genoa
+  lat: '39.0256'
+  long: "-119.8309"
+  nearby_rate_centers:
+  - name: GARDNERVL
+    distance_km: 10.16
+  - name: STATELINE
+    distance_km: 10.8
+  - name: GLENBROOK
+    distance_km: 11.61
+- country: US
+  region: NV
+  name: Gerlach
+  lat: '40.6452'
+  long: "-119.3614"
+  nearby_rate_centers:
+  - name: EMPIRE
+    distance_km: 8.84
+  - name: SUTCLIFFE
+    distance_km: 80.83
+  - name: LOVELOCK
+    distance_km: 90.88
+- country: US
+  region: NV
+  name: Glenbrook
+  lat: '39.0986'
+  long: "-119.9341"
+  nearby_rate_centers:
+  - name: GLENBROOK
+    distance_km: 2.89
+  - name: STATELINE
+    distance_km: 14.53
+  - name: CRYSTALBAY
+    distance_km: 15.0
+- country: US
+  region: NV
+  name: Golconda
+  lat: '40.9522'
+  long: "-117.4997"
+  nearby_rate_centers:
+  - name: WINNEMUCCA
+    distance_km: 20.37
+  - name: BATTLE MT
+    distance_km: 58.94
+  - name: PARADISVLY
+    distance_km: 60.12
+- country: US
+  region: NV
+  name: Golden Valley
+  lat: '39.6178'
+  long: "-119.8231"
+  nearby_rate_centers:
+  - name: LOCKWOOD
+    distance_km: 10.29
+  - name: RENO
+    distance_km: 10.29
+  - name: SPARKS
+    distance_km: 10.29
+  - name: STEAD
+    distance_km: 10.29
+  - name: SUN VALLEY
+    distance_km: 10.29
+  - name: VERDI
+    distance_km: 10.29
+  - name: WASHOE VLY
+    distance_km: 10.29
+  - name: COTNWD CRK
+    distance_km: 25.02
+  - name: RED ROCK
+    distance_km: 29.84
+- country: US
+  region: NV
+  name: Goldfield
+  lat: '37.7121'
+  long: "-117.2378"
+  nearby_rate_centers:
+  - name: GOLDFIELD
+    distance_km: 0.5
+  - name: SILVERPEAK
+    distance_km: 35.13
+  - name: TONOPAH
+    distance_km: 39.71
+- country: US
+  region: NV
+  name: Goodsprings
+  lat: '35.8319'
+  long: "-115.4352"
+  nearby_rate_centers:
+  - name: JEAN
+    distance_km: 11.55
+  - name: SANDY VLY
+    distance_km: 17.44
+  - name: BLUEDIAMND
+    distance_km: 25.26
+- country: US
+  region: NV
+  name: Grass Valley
+  lat: '40.7971'
+  long: "-117.7603"
+  nearby_rate_centers:
+  - name: WINNEMUCCA
+    distance_km: 18.82
+  - name: IMLAY
+    distance_km: 35.89
+  - name: BATTLE MT
+    distance_km: 71.88
+- country: US
+  region: NV
+  name: Hawthorne
+  lat: '38.5253'
+  long: "-118.6260"
+  nearby_rate_centers:
+  - name: HAWTHORNE
+    distance_km: 0.16
+  - name: MINA
+    distance_km: 47.58
+  - name: SWEETWATER
+    distance_km: 48.11
+- country: US
+  region: NV
+  name: Henderson
+  lat: '36.0133'
+  long: "-115.0381"
+  nearby_rate_centers:
+  - name: HENDERSON
+    distance_km: 5.22
+  - name: BOULDER CY
+    distance_km: 19.02
+  - name: LAS VEGAS
+    distance_km: 19.63
+- country: US
+  region: NV
+  name: Hiko
+  lat: '37.6063'
+  long: "-115.2018"
+  nearby_rate_centers:
+  - name: ALAMO
+    distance_km: 27.29
+  - name: SAND SPG
+    distance_km: 48.62
+  - name: CALIENTE
+    distance_km: 61.06
+- country: US
+  region: NV
+  name: Humboldt River Ranch
+  lat: '40.4318'
+  long: "-118.2719"
+  nearby_rate_centers:
+  - name: IMLAY
+    distance_km: 27.87
+  - name: LOVELOCK
+    distance_km: 32.67
+  - name: WINNEMUCCA
+    distance_km: 74.32
+- country: US
+  region: NV
+  name: Imlay
+  lat: '40.6581'
+  long: "-118.1441"
+  nearby_rate_centers:
+  - name: IMLAY
+    distance_km: 0.78
+  - name: WINNEMUCCA
+    distance_km: 48.14
+  - name: LOVELOCK
+    distance_km: 59.87
+- country: US
+  region: NV
+  name: Incline Village
+  lat: '39.2639'
+  long: "-119.9455"
+  nearby_rate_centers:
+  - name: CRYSTALBAY
+    distance_km: 6.66
+  - name: CARSONCITY
+    distance_km: 18.27
+  - name: DAYTON
+    distance_km: 18.27
+  - name: GLENBROOK
+    distance_km: 20.97
+- country: US
+  region: NV
+  name: Indian Hills
+  lat: '39.0894'
+  long: "-119.7977"
+  nearby_rate_centers:
+  - name: CARSONCITY
+    distance_km: 10.14
+  - name: DAYTON
+    distance_km: 10.14
+  - name: GLENBROOK
+    distance_km: 13.16
+  - name: GARDNERVL
+    distance_km: 15.64
+- country: US
+  region: NV
+  name: Indian Springs
+  lat: '36.5719'
+  long: "-115.7204"
+  nearby_rate_centers:
+  - name: INDIAN SPG
+    distance_km: 4.21
+  - name: MTCHARLETN
+    distance_km: 35.49
+  - name: PAHRUMP
+    distance_km: 47.14
+- country: US
+  region: NV
+  name: Jackpot
+  lat: '41.9797'
+  long: "-114.6645"
+  nearby_rate_centers:
+  - name: JACKPOT
+    distance_km: 0.96
+  - name: JARBIDGE
+    distance_km: 62.19
+  - name: MARYS RIV
+    distance_km: 87.73
+- country: US
+  region: NV
+  name: Johnson Lane
+  lat: '39.0489'
+  long: "-119.7245"
+  nearby_rate_centers:
+  - name: GARDNERVL
+    distance_km: 11.31
+  - name: CARSONCITY
+    distance_km: 14.68
+  - name: DAYTON
+    distance_km: 14.68
+  - name: GLENBROOK
+    distance_km: 19.61
+- country: US
+  region: NV
+  name: Kingsbury
+  lat: '38.9909'
+  long: "-119.8837"
+  nearby_rate_centers:
+  - name: STATELINE
+    distance_km: 4.85
+  - name: GLENBROOK
+    distance_km: 10.96
+  - name: GARDNERVL
+    distance_km: 11.39
+- country: US
+  region: NV
+  name: Kingston
+  lat: '39.2101'
+  long: "-117.0679"
+  nearby_rate_centers:
+  - name: AUSTIN
+    distance_km: 31.29
+  - name: ROUND MT
+    distance_km: 55.93
+  - name: MANHATTAN
+    distance_km: 75.0
+- country: US
+  region: NV
+  name: Lakeridge
+  lat: '39.0382'
+  long: "-119.9397"
+  nearby_rate_centers:
+  - name: GLENBROOK
+    distance_km: 4.21
+  - name: STATELINE
+    distance_km: 7.84
+  - name: GARDNERVL
+    distance_km: 18.12
+- country: US
+  region: NV
+  name: Lamoille
+  lat: '40.7239'
+  long: "-115.4790"
+  nearby_rate_centers:
+  - name: RUBYVALLEY
+    distance_km: 20.14
+  - name: LEE JIGGS
+    distance_km: 25.06
+  - name: ELKO
+    distance_km: 26.45
+- country: US
+  region: NV
+  name: Las Vegas
+  lat: '36.2333'
+  long: "-115.2654"
+  nearby_rate_centers:
+  - name: LAS VEGAS
+    distance_km: 13.18
+  - name: BLUEDIAMND
+    distance_km: 22.97
+  - name: HENDERSON
+    distance_km: 33.66
+- country: US
+  region: NV
+  name: Laughlin
+  lat: '35.1401'
+  long: "-114.6206"
+  nearby_rate_centers:
+  - name: LAUGHLIN
+    distance_km: 5.55
+  - name: SPIRIT MT
+    distance_km: 15.01
+  - name: SEARCHLIHT
+    distance_km: 44.96
+- country: US
+  region: NV
+  name: Lemmon Valley
+  lat: '39.6879'
+  long: "-119.8364"
+  nearby_rate_centers:
+  - name: LOCKWOOD
+    distance_km: 18.17
+  - name: RENO
+    distance_km: 18.17
+  - name: SPARKS
+    distance_km: 18.17
+  - name: STEAD
+    distance_km: 18.17
+  - name: SUN VALLEY
+    distance_km: 18.17
+  - name: VERDI
+    distance_km: 18.17
+  - name: WASHOE VLY
+    distance_km: 18.17
+  - name: COTNWD CRK
+    distance_km: 21.89
+  - name: RED ROCK
+    distance_km: 22.27
+- country: US
+  region: NV
+  name: Logan Creek
+  lat: '39.0626'
+  long: "-119.9295"
+  nearby_rate_centers:
+  - name: GLENBROOK
+    distance_km: 2.21
+  - name: STATELINE
+    distance_km: 10.52
+  - name: CRYSTALBAY
+    distance_km: 18.88
+- country: US
+  region: NV
+  name: Lovelock
+  lat: '40.1787'
+  long: "-118.4775"
+  nearby_rate_centers:
+  - name: LOVELOCK
+    distance_km: 0.46
+  - name: IMLAY
+    distance_km: 60.75
+  - name: FALLON
+    distance_km: 82.09
+- country: US
+  region: NV
+  name: Lund
+  lat: '38.8642'
+  long: "-115.0099"
+  nearby_rate_centers:
+  - name: LUND
+    distance_km: 0.61
+  - name: BURBANK
+    distance_km: 41.55
+  - name: ELY
+    distance_km: 44.09
+- country: US
+  region: NV
+  name: McDermitt
+  lat: '41.9903'
+  long: "-117.7209"
+  nearby_rate_centers:
+  - name: MCDERMITT
+    distance_km: 0.34
+  - name: OROVADA
+    distance_km: 48.45
+  - name: PARADISVLY
+    distance_km: 57.53
+- country: US
+  region: NV
+  name: McGill
+  lat: '39.4019'
+  long: "-114.7775"
+  nearby_rate_centers:
+  - name: MCGILL
+    distance_km: 0.99
+  - name: ELY
+    distance_km: 19.34
+  - name: SPVLYCHCRK
+    distance_km: 27.88
+- country: US
+  region: NV
+  name: Mesquite
+  lat: '36.8032'
+  long: "-114.1330"
+  nearby_rate_centers:
+  - name: MESQUITE
+    distance_km: 6.45
+  - name: TOQUOP
+    distance_km: 9.01
+  - name: LOGANDALE
+    distance_km: 38.85
+- country: US
+  region: NV
+  name: Mina
+  lat: '38.3898'
+  long: "-118.1115"
+  nearby_rate_centers:
+  - name: MINA
+    distance_km: 0.48
+  - name: MONTGYPASS
+    distance_km: 44.66
+  - name: HAWTHORNE
+    distance_km: 47.13
+- country: US
+  region: NV
+  name: Minden
+  lat: '38.9632'
+  long: "-119.7683"
+  nearby_rate_centers:
+  - name: GARDNERVL
+    distance_km: 1.41
+  - name: STATELINE
+    distance_km: 14.11
+  - name: GLENBROOK
+    distance_km: 19.99
+- country: US
+  region: NV
+  name: Moapa Town
+  lat: '36.6925'
+  long: "-114.6356"
+  nearby_rate_centers:
+  - name: GLENDALE
+    distance_km: 6.16
+  - name: UPPERMUDDY
+    distance_km: 6.72
+  - name: LOGANDALE
+    distance_km: 17.27
+- country: US
+  region: NV
+  name: Moapa Valley
+  lat: '36.6078'
+  long: "-114.4566"
+  nearby_rate_centers:
+  - name: LOGANDALE
+    distance_km: 2.76
+  - name: OVERTON
+    distance_km: 7.26
+  - name: GLENDALE
+    distance_km: 12.4
+- country: US
+  region: NV
+  name: Mogul
+  lat: '39.5164'
+  long: "-119.9230"
+  nearby_rate_centers:
+  - name: LOCKWOOD
+    distance_km: 9.92
+  - name: RENO
+    distance_km: 9.92
+  - name: SPARKS
+    distance_km: 9.92
+  - name: STEAD
+    distance_km: 9.92
+  - name: SUN VALLEY
+    distance_km: 9.92
+  - name: VERDI
+    distance_km: 9.92
+  - name: WASHOE VLY
+    distance_km: 9.92
+  - name: VIRGINIACY
+    distance_km: 33.1
+  - name: CRYSTALBAY
+    distance_km: 33.33
+- country: US
+  region: NV
+  name: Montello
+  lat: '41.2671'
+  long: "-114.1970"
+  nearby_rate_centers:
+  - name: MONTELLO
+    distance_km: 0.93
+  - name: PILOT VLY
+    distance_km: 19.18
+  - name: W WENDOVER
+    distance_km: 35.38
+- country: US
+  region: NV
+  name: Mount Charleston
+  lat: '36.2625'
+  long: "-115.6138"
+  nearby_rate_centers:
+  - name: MTCHARLETN
+    distance_km: 3.46
+  - name: BLUEDIAMND
+    distance_km: 29.88
+  - name: PAHRUMP
+    distance_km: 34.4
+- country: US
+  region: NV
+  name: Mount Wilson
+  lat: '38.2350'
+  long: "-114.4504"
+  nearby_rate_centers:
+  - name: LAKEVALLEY
+    distance_km: 17.77
+  - name: PIOCHE
+    distance_km: 34.62
+  - name: PANACA
+    distance_km: 49.8
+- country: US
+  region: NV
+  name: Mountain City
+  lat: '41.8374'
+  long: "-115.9633"
+  nearby_rate_centers:
+  - name: MOUNTAINCY
+    distance_km: 2.65
+  - name: OWYHEE
+    distance_km: 16.75
+  - name: NORTH FORK
+    distance_km: 25.76
+- country: US
+  region: NV
+  name: Nellis AFB
+  lat: '36.2466'
+  long: "-115.0571"
+  nearby_rate_centers:
+  - name: LAS VEGAS
+    distance_km: 11.6
+  - name: HENDERSON
+    distance_km: 24.68
+  - name: BOULDER CY
+    distance_km: 36.25
+- country: US
+  region: NV
+  name: Nelson
+  lat: '35.7179'
+  long: "-114.8313"
+  nearby_rate_centers:
+  - name: NELSON
+    distance_km: 1.35
+  - name: BOULDER CY
+    distance_km: 28.72
+  - name: SEARCHLIHT
+    distance_km: 29.09
+- country: US
+  region: NV
+  name: Nixon
+  lat: '39.8280'
+  long: "-119.3589"
+  nearby_rate_centers:
+  - name: NIXON
+    distance_km: 0.18
+  - name: COTNWD CRK
+    distance_km: 21.82
+  - name: SUTCLIFFE
+    distance_km: 25.08
+- country: US
+  region: NV
+  name: North Las Vegas
+  lat: '36.2883'
+  long: "-115.0888"
+  nearby_rate_centers:
+  - name: LAS VEGAS
+    distance_km: 14.19
+  - name: HENDERSON
+    distance_km: 29.94
+  - name: BLUEDIAMND
+    distance_km: 37.9
+- country: US
+  region: NV
+  name: Oasis
+  lat: '41.0286'
+  long: "-114.4763"
+  nearby_rate_centers:
+  - name: W WENDOVER
+    distance_km: 0.94
+  - name: PILOT VLY
+    distance_km: 29.78
+  - name: MONTELLO
+    distance_km: 34.88
+- country: US
+  region: NV
+  name: Orovada
+  lat: '41.5492'
+  long: "-117.8235"
+  nearby_rate_centers:
+  - name: OROVADA
+    distance_km: 2.8
+  - name: PARADISVLY
+    distance_km: 25.01
+  - name: DESERT VLY
+    distance_km: 25.42
+- country: US
+  region: NV
+  name: Osino
+  lat: '40.9409'
+  long: "-115.6607"
+  nearby_rate_centers:
+  - name: ELKO
+    distance_km: 14.41
+  - name: LEE JIGGS
+    distance_km: 43.77
+  - name: CARLIN
+    distance_km: 45.23
+- country: US
+  region: NV
+  name: Owyhee
+  lat: '41.9165'
+  long: "-116.1825"
+  nearby_rate_centers:
+  - name: OWYHEE
+    distance_km: 6.63
+  - name: MOUNTAINCY
+    distance_km: 17.57
+  - name: NORTH FORK
+    distance_km: 44.06
+- country: US
+  region: NV
+  name: Pahrump
+  lat: '36.2235'
+  long: "-115.9974"
+  nearby_rate_centers:
+  - name: PAHRUMP
+    distance_km: 1.76
+  - name: MTCHARLETN
+    distance_km: 31.22
+  - name: INDIAN SPG
+    distance_km: 49.25
+- country: US
+  region: NV
+  name: Panaca
+  lat: '37.7881'
+  long: "-114.4005"
+  nearby_rate_centers:
+  - name: PANACA
+    distance_km: 2.2
+  - name: PIOCHE
+    distance_km: 15.67
+  - name: CALIENTE
+    distance_km: 21.96
+- country: US
+  region: NV
+  name: Paradise
+  lat: '36.0872'
+  long: "-115.1355"
+  nearby_rate_centers:
+  - name: LAS VEGAS
+    distance_km: 9.04
+  - name: HENDERSON
+    distance_km: 14.84
+  - name: BLUEDIAMND
+    distance_km: 23.93
+- country: US
+  region: NV
+  name: Paradise Valley
+  lat: '41.4937'
+  long: "-117.5470"
+  nearby_rate_centers:
+  - name: PARADISVLY
+    distance_km: 1.19
+  - name: OROVADA
+    distance_km: 21.6
+  - name: DESERT VLY
+    distance_km: 48.01
+- country: US
+  region: NV
+  name: Pioche
+  lat: '37.9519'
+  long: "-114.4434"
+  nearby_rate_centers:
+  - name: PIOCHE
+    distance_km: 3.18
+  - name: PANACA
+    distance_km: 18.85
+  - name: CALIENTE
+    distance_km: 38.44
+- country: US
+  region: NV
+  name: Preston
+  lat: '38.9150'
+  long: "-115.0637"
+  nearby_rate_centers:
+  - name: LUND
+    distance_km: 6.79
+  - name: ELY
+    distance_km: 40.21
+  - name: BURBANK
+    distance_km: 44.15
+- country: US
+  region: NV
+  name: Rachel
+  lat: '37.6414'
+  long: "-115.7681"
+  nearby_rate_centers:
+  - name: SAND SPG
+    distance_km: 1.56
+  - name: ALAMO
+    distance_km: 61.43
+  - name: CALIENTE
+    distance_km: 110.97
+- country: US
+  region: NV
+  name: Reno
+  lat: '39.5497'
+  long: "-119.8483"
+  nearby_rate_centers:
+  - name: LOCKWOOD
+    distance_km: 4.35
+  - name: RENO
+    distance_km: 4.35
+  - name: SPARKS
+    distance_km: 4.35
+  - name: STEAD
+    distance_km: 4.35
+  - name: SUN VALLEY
+    distance_km: 4.35
+  - name: VERDI
+    distance_km: 4.35
+  - name: WASHOE VLY
+    distance_km: 4.35
+  - name: COTNWD CRK
+    distance_km: 31.87
+  - name: VIRGINIACY
+    distance_km: 31.91
+- country: US
+  region: NV
+  name: Round Hill Village
+  lat: '38.9937'
+  long: "-119.9233"
+  nearby_rate_centers:
+  - name: STATELINE
+    distance_km: 2.95
+  - name: GLENBROOK
+    distance_km: 9.35
+  - name: GARDNERVL
+    distance_km: 14.7
+- country: US
+  region: NV
+  name: Ruhenstroth
+  lat: '38.8913'
+  long: "-119.6833"
+  nearby_rate_centers:
+  - name: GARDNERVL
+    distance_km: 9.55
+  - name: STATELINE
+    distance_km: 23.09
+  - name: TOPAZ LAKE
+    distance_km: 24.15
+- country: US
+  region: NV
+  name: Ruth
+  lat: '39.2791'
+  long: "-114.9901"
+  nearby_rate_centers:
+  - name: ELY
+    distance_km: 9.84
+  - name: MCGILL
+    distance_km: 23.73
+  - name: SPVLYCHCRK
+    distance_km: 45.71
+- country: US
+  region: NV
+  name: Sandy Valley
+  lat: '35.8423'
+  long: "-115.6304"
+  nearby_rate_centers:
+  - name: SANDY VLY
+    distance_km: 2.98
+  - name: JEAN
+    distance_km: 28.31
+  - name: BLUEDIAMND
+    distance_km: 31.69
+- country: US
+  region: NV
+  name: Schurz
+  lat: '38.9673'
+  long: "-118.8240"
+  nearby_rate_centers:
+  - name: SCHURZ
+    distance_km: 1.86
+  - name: YERINGTON
+    distance_km: 28.84
+  - name: SMITH VLY
+    distance_km: 47.43
+- country: US
+  region: NV
+  name: Searchlight
+  lat: '35.4555'
+  long: "-114.9204"
+  nearby_rate_centers:
+  - name: SEARCHLIHT
+    distance_km: 1.2
+  - name: NELSON
+    distance_km: 29.3
+  - name: LAUGHLIN
+    distance_km: 44.33
+- country: US
+  region: NV
+  name: Silver City
+  lat: '39.2639'
+  long: "-119.6357"
+  nearby_rate_centers:
+  - name: VIRGINIACY
+    distance_km: 5.02
+  - name: CARSON PL
+    distance_km: 10.71
+  - name: CARSONCITY
+    distance_km: 14.77
+  - name: DAYTON
+    distance_km: 14.77
+- country: US
+  region: NV
+  name: Silver Peak
+  lat: '37.7578'
+  long: "-117.6386"
+  nearby_rate_centers:
+  - name: SILVERPEAK
+    distance_km: 0.67
+  - name: GOLDFIELD
+    distance_km: 36.09
+  - name: FISHLK VLY
+    distance_km: 37.93
+- country: US
+  region: NV
+  name: Silver Springs
+  lat: '39.3826'
+  long: "-119.2148"
+  nearby_rate_centers:
+  - name: SILVER SPG
+    distance_km: 2.98
+  - name: STAGECOACH
+    distance_km: 13.35
+  - name: FERNLEY
+    distance_km: 24.4
+- country: US
+  region: NV
+  name: Skyland
+  lat: '39.0265'
+  long: "-119.9221"
+  nearby_rate_centers:
+  - name: GLENBROOK
+    distance_km: 5.91
+  - name: STATELINE
+    distance_km: 6.56
+  - name: GARDNERVL
+    distance_km: 16.15
+- country: US
+  region: NV
+  name: Smith Valley
+  lat: '38.8109'
+  long: "-119.3517"
+  nearby_rate_centers:
+  - name: SMITH VLY
+    distance_km: 2.66
+  - name: TOPAZ LAKE
+    distance_km: 21.18
+  - name: YERINGTON
+    distance_km: 25.44
+- country: US
+  region: NV
+  name: Spanish Springs
+  lat: '39.6568'
+  long: "-119.6694"
+  nearby_rate_centers:
+  - name: COTNWD CRK
+    distance_km: 13.25
+  - name: LOCKWOOD
+    distance_km: 18.78
+  - name: RENO
+    distance_km: 18.78
+  - name: SPARKS
+    distance_km: 18.78
+  - name: STEAD
+    distance_km: 18.78
+  - name: SUN VALLEY
+    distance_km: 18.78
+  - name: VERDI
+    distance_km: 18.78
+  - name: WASHOE VLY
+    distance_km: 18.78
+  - name: SUTCLIFFE
+    distance_km: 32.28
+- country: US
+  region: NV
+  name: Sparks
+  lat: '39.5736'
+  long: "-119.7161"
+  nearby_rate_centers:
+  - name: LOCKWOOD
+    distance_km: 9.49
+  - name: RENO
+    distance_km: 9.49
+  - name: SPARKS
+    distance_km: 9.49
+  - name: STEAD
+    distance_km: 9.49
+  - name: SUN VALLEY
+    distance_km: 9.49
+  - name: VERDI
+    distance_km: 9.49
+  - name: WASHOE VLY
+    distance_km: 9.49
+  - name: COTNWD CRK
+    distance_km: 23.32
+  - name: VIRGINIACY
+    distance_km: 30.1
+- country: US
+  region: NV
+  name: Spring Creek
+  lat: '40.7450'
+  long: "-115.5983"
+  nearby_rate_centers:
+  - name: ELKO
+    distance_km: 16.65
+  - name: LEE JIGGS
+    distance_km: 22.66
+  - name: RUBYVALLEY
+    distance_km: 30.07
+- country: US
+  region: NV
+  name: Spring Valley
+  lat: '36.0952'
+  long: "-115.2636"
+  nearby_rate_centers:
+  - name: BLUEDIAMND
+    distance_km: 12.89
+  - name: LAS VEGAS
+    distance_km: 13.57
+  - name: HENDERSON
+    distance_km: 26.0
+- country: US
+  region: NV
+  name: Stagecoach
+  lat: '39.3656'
+  long: "-119.3832"
+  nearby_rate_centers:
+  - name: STAGECOACH
+    distance_km: 1.25
+  - name: CARSON PL
+    distance_km: 13.79
+  - name: SILVER SPG
+    distance_km: 14.45
+- country: US
+  region: NV
+  name: Stateline
+  lat: '38.9678'
+  long: "-119.9440"
+  nearby_rate_centers:
+  - name: STATELINE
+    distance_km: 1.09
+  - name: GLENBROOK
+    distance_km: 11.97
+  - name: GARDNERVL
+    distance_km: 15.83
+- country: US
+  region: NV
+  name: Summerlin South
+  lat: '36.1242'
+  long: "-115.3324"
+  nearby_rate_centers:
+  - name: BLUEDIAMND
+    distance_km: 9.56
+  - name: LAS VEGAS
+    distance_km: 17.74
+  - name: MTCHARLETN
+    distance_km: 32.28
+- country: US
+  region: NV
+  name: Sun Valley
+  lat: '39.6104'
+  long: "-119.7770"
+  nearby_rate_centers:
+  - name: LOCKWOOD
+    distance_km: 9.76
+  - name: RENO
+    distance_km: 9.76
+  - name: SPARKS
+    distance_km: 9.76
+  - name: STEAD
+    distance_km: 9.76
+  - name: SUN VALLEY
+    distance_km: 9.76
+  - name: VERDI
+    distance_km: 9.76
+  - name: WASHOE VLY
+    distance_km: 9.76
+  - name: COTNWD CRK
+    distance_km: 22.77
+  - name: RED ROCK
+    distance_km: 32.26
+- country: US
+  region: NV
+  name: Sunrise Manor
+  lat: '36.1783'
+  long: "-115.0487"
+  nearby_rate_centers:
+  - name: LAS VEGAS
+    distance_km: 8.5
+  - name: HENDERSON
+    distance_km: 17.2
+  - name: BOULDER CY
+    distance_km: 29.75
+- country: US
+  region: NV
+  name: Sutcliffe
+  lat: '39.9461'
+  long: "-119.6305"
+  nearby_rate_centers:
+  - name: SUTCLIFFE
+    distance_km: 1.66
+  - name: COTNWD CRK
+    distance_km: 20.5
+  - name: NIXON
+    distance_km: 26.56
+- country: US
+  region: NV
+  name: Tonopah
+  lat: '38.0822'
+  long: "-117.2246"
+  nearby_rate_centers:
+  - name: TONOPAH
+    distance_km: 1.49
+  - name: GOLDFIELD
+    distance_km: 41.09
+  - name: SILVERPEAK
+    distance_km: 51.27
+- country: US
+  region: NV
+  name: Topaz Lake
+  lat: '38.6976'
+  long: "-119.5427"
+  nearby_rate_centers:
+  - name: TOPAZ LAKE
+    distance_km: 0.75
+  - name: SMITH VLY
+    distance_km: 21.78
+  - name: GARDNERVL
+    distance_km: 34.03
+- country: US
+  region: NV
+  name: Topaz Ranch Estates
+  lat: '38.7357'
+  long: "-119.5008"
+  nearby_rate_centers:
+  - name: TOPAZ LAKE
+    distance_km: 5.84
+  - name: SMITH VLY
+    distance_km: 16.59
+  - name: GARDNERVL
+    distance_km: 32.98
+- country: US
+  region: NV
+  name: Unionville
+  lat: '40.4467'
+  long: "-118.1229"
+  nearby_rate_centers:
+  - name: IMLAY
+    distance_km: 24.29
+  - name: LOVELOCK
+    distance_km: 41.94
+  - name: WINNEMUCCA
+    distance_km: 66.06
+- country: US
+  region: NV
+  name: Ursine
+  lat: '37.9771'
+  long: "-114.2289"
+  nearby_rate_centers:
+  - name: PIOCHE
+    distance_km: 20.2
+  - name: PANACA
+    distance_km: 24.38
+  - name: CALIENTE
+    distance_km: 47.64
+- country: US
+  region: NV
+  name: Valmy
+  lat: '40.7908'
+  long: "-117.1266"
+  nearby_rate_centers:
+  - name: BATTLE MT
+    distance_km: 23.32
+  - name: WINNEMUCCA
+    distance_km: 55.24
+  - name: MIDAS
+    distance_km: 56.94
+- country: US
+  region: NV
+  name: Verdi
+  lat: '39.5142'
+  long: "-119.9772"
+  nearby_rate_centers:
+  - name: LOCKWOOD
+    distance_km: 14.58
+  - name: RENO
+    distance_km: 14.58
+  - name: SPARKS
+    distance_km: 14.58
+  - name: STEAD
+    distance_km: 14.58
+  - name: SUN VALLEY
+    distance_km: 14.58
+  - name: VERDI
+    distance_km: 14.58
+  - name: WASHOE VLY
+    distance_km: 14.58
+  - name: CRYSTALBAY
+    distance_km: 32.46
+  - name: VIRGINIACY
+    distance_km: 36.41
+- country: US
+  region: NV
+  name: Virginia City
+  lat: '39.3074'
+  long: "-119.6483"
+  nearby_rate_centers:
+  - name: VIRGINIACY
+    distance_km: 0.09
+  - name: CARSON PL
+    distance_km: 10.78
+  - name: CARSONCITY
+    distance_km: 17.66
+  - name: DAYTON
+    distance_km: 17.66
+- country: US
+  region: NV
+  name: Wadsworth
+  lat: '39.6322'
+  long: "-119.2901"
+  nearby_rate_centers:
+  - name: FERNLEY
+    distance_km: 6.44
+  - name: NIXON
+    distance_km: 22.49
+  - name: SILVER SPG
+    distance_km: 25.52
+- country: US
+  region: NV
+  name: Walker Lake
+  lat: '38.6458'
+  long: "-118.7563"
+  nearby_rate_centers:
+  - name: HAWTHORNE
+    distance_km: 17.7
+  - name: SCHURZ
+    distance_km: 34.38
+  - name: SWEETWATER
+    distance_km: 41.53
+- country: US
+  region: NV
+  name: Washoe Valley
+  lat: '39.2923'
+  long: "-119.7767"
+  nearby_rate_centers:
+  - name: VIRGINIACY
+    distance_km: 11.23
+  - name: CARSONCITY
+    distance_km: 12.85
+  - name: DAYTON
+    distance_km: 12.85
+  - name: CRYSTALBAY
+    distance_km: 20.86
+- country: US
+  region: NV
+  name: Wells
+  lat: '41.1132'
+  long: "-114.9535"
+  nearby_rate_centers:
+  - name: WELLS
+    distance_km: 0.73
+  - name: MARYS RIV
+    distance_km: 34.6
+  - name: W WENDOVER
+    distance_km: 40.27
+- country: US
+  region: NV
+  name: West Wendover
+  lat: '40.7407'
+  long: "-114.0783"
+  nearby_rate_centers:
+  - name: WENDOVER
+    distance_km: 4.56
+  - name: PILOT VLY
+    distance_km: 40.36
+  - name: W WENDOVER
+    distance_km: 47.24
+- country: US
+  region: NV
+  name: Whitney
+  lat: '36.1008'
+  long: "-115.0379"
+  nearby_rate_centers:
+  - name: HENDERSON
+    distance_km: 8.97
+  - name: LAS VEGAS
+    distance_km: 12.03
+  - name: BOULDER CY
+    distance_km: 23.14
+- country: US
+  region: NV
+  name: Winchester
+  lat: '36.1365'
+  long: "-115.1370"
+  nearby_rate_centers:
+  - name: LAS VEGAS
+    distance_km: 3.58
+  - name: HENDERSON
+    distance_km: 17.9
+  - name: BLUEDIAMND
+    distance_km: 25.15
+- country: US
+  region: NV
+  name: Winnemucca
+  lat: '40.9645'
+  long: "-117.7247"
+  nearby_rate_centers:
+  - name: WINNEMUCCA
+    distance_km: 1.42
+  - name: IMLAY
+    distance_km: 48.85
+  - name: PARADISVLY
+    distance_km: 60.84
+- country: US
+  region: NV
+  name: Yerington
+  lat: '38.9554'
+  long: "-119.1101"
+  nearby_rate_centers:
+  - name: YERINGTON
+    distance_km: 5.05
+  - name: SCHURZ
+    distance_km: 25.25
+  - name: SMITH VLY
+    distance_km: 25.69
+- country: US
+  region: NV
+  name: Zephyr Cove
+  lat: '39.0082'
+  long: "-119.9307"
+  nearby_rate_centers:
+  - name: STATELINE
+    distance_km: 4.47
+  - name: GLENBROOK
+    distance_km: 7.64
+  - name: GARDNERVL
+    distance_km: 15.88

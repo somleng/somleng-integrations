@@ -1,0 +1,7850 @@
+---
+cities:
+- country: US
+  region: WA
+  name: Aberdeen
+  lat: '46.9757'
+  long: "-123.8094"
+  nearby_rate_centers:
+  - name: ABERDEEN
+    distance_km: 1.05
+  - name: MONTESANO
+    distance_km: 15.82
+  - name: OCOSTA
+    distance_km: 19.32
+- country: US
+  region: WA
+  name: Aberdeen Gardens
+  lat: '47.0587'
+  long: "-123.7791"
+  nearby_rate_centers:
+  - name: ABERDEEN
+    distance_km: 9.67
+  - name: MONTESANO
+    distance_km: 16.01
+  - name: OCOSTA
+    distance_km: 26.75
+- country: US
+  region: WA
+  name: Acme
+  lat: '48.7158'
+  long: "-122.2077"
+  nearby_rate_centers:
+  - name: ACME
+    distance_km: 12.36
+  - name: DEMING
+    distance_km: 12.36
+  - name: BELLINGHAM
+    distance_km: 19.89
+  - name: SEDROWOLLY
+    distance_km: 24.02
+- country: US
+  region: WA
+  name: Addy
+  lat: '48.3588'
+  long: "-117.8372"
+  nearby_rate_centers:
+  - name: CHEWELAH
+    distance_km: 12.17
+  - name: COLVILLE
+    distance_km: 20.86
+  - name: KETTLE FLS
+    distance_km: 32.25
+- country: US
+  region: WA
+  name: Ahtanum
+  lat: '46.5573'
+  long: "-120.6138"
+  nearby_rate_centers:
+  - name: YAKIMA
+    distance_km: 9.49
+  - name: SELAH
+    distance_km: 13.32
+  - name: COWICHE
+    distance_km: 14.4
+- country: US
+  region: WA
+  name: Airway Heights
+  lat: '47.6459'
+  long: "-117.5792"
+  nearby_rate_centers:
+  - name: SPOKANE
+    distance_km: 10.55
+  - name: MEDICAL LK
+    distance_km: 10.73
+  - name: CHENEY
+    distance_km: 17.23
+- country: US
+  region: WA
+  name: Albion
+  lat: '46.7916'
+  long: "-117.2511"
+  nearby_rate_centers:
+  - name: PULLMAN
+    distance_km: 8.78
+  - name: COLFAX
+    distance_km: 13.31
+  - name: GARRISON
+    distance_km: 15.86
+- country: US
+  region: WA
+  name: Alder
+  lat: '46.7872'
+  long: "-122.2667"
+  nearby_rate_centers:
+  - name: EATONVILLE
+    distance_km: 8.77
+  - name: ASHFORD
+    distance_km: 18.14
+  - name: MORTON
+    distance_km: 25.66
+- country: US
+  region: WA
+  name: Alderton
+  lat: '47.1728'
+  long: "-122.2209"
+  nearby_rate_centers:
+  - name: SUMNER
+    distance_km: 3.18
+  - name: PUYALLUP
+    distance_km: 6.42
+  - name: ORTING
+    distance_km: 9.26
+- country: US
+  region: WA
+  name: Alderwood Manor
+  lat: '47.8146'
+  long: "-122.2672"
+  nearby_rate_centers:
+  - name: HALLS LAKE
+    distance_km: 4.72
+  - name: BOTHELL
+    distance_km: 7.28
+  - name: DUVALL
+    distance_km: 7.28
+  - name: SILVERLAKE
+    distance_km: 9.04
+- country: US
+  region: WA
+  name: Alger
+  lat: '48.6175'
+  long: "-122.3368"
+  nearby_rate_centers:
+  - name: SEDROWOLLY
+    distance_km: 15.0
+  - name: ALGER
+    distance_km: 15.98
+  - name: BURLINGTON
+    distance_km: 15.98
+  - name: EDISON
+    distance_km: 15.98
+  - name: BELLINGHAM
+    distance_km: 17.75
+- country: US
+  region: WA
+  name: Algona
+  lat: '47.2820'
+  long: "-122.2504"
+  nearby_rate_centers:
+  - name: AUBURN
+    distance_km: 3.66
+  - name: TACOMAWVLY
+    distance_km: 6.64
+  - name: SUMNER
+    distance_km: 9.2
+- country: US
+  region: WA
+  name: Allyn
+  lat: '47.3863'
+  long: "-122.8386"
+  nearby_rate_centers:
+  - name: BELFAIR
+    distance_km: 7.05
+  - name: DEWATTO
+    distance_km: 14.63
+  - name: LAKEBAY
+    distance_km: 15.26
+- country: US
+  region: WA
+  name: Almira
+  lat: '47.7105'
+  long: "-118.9369"
+  nearby_rate_centers:
+  - name: ALMIRA
+    distance_km: 0.62
+  - name: WILBUR
+    distance_km: 17.78
+  - name: COULEE DAM
+    distance_km: 28.84
+- country: US
+  region: WA
+  name: Altoona
+  lat: '46.2699'
+  long: "-123.6144"
+  nearby_rate_centers:
+  - name: GRAYSRIVER
+    distance_km: 10.06
+  - name: NASELLE
+    distance_km: 17.77
+  - name: CATHLAMET
+    distance_km: 19.54
+- country: US
+  region: WA
+  name: Amanda Park
+  lat: '47.4532'
+  long: "-123.9194"
+  nearby_rate_centers:
+  - name: LKQUINAULT
+    distance_km: 6.21
+  - name: CLEARWATER
+    distance_km: 31.16
+  - name: PACIFICBCH
+    distance_km: 34.49
+- country: US
+  region: WA
+  name: Amboy
+  lat: '45.9122'
+  long: "-122.4796"
+  nearby_rate_centers:
+  - name: AMBOY
+    distance_km: 2.26
+  - name: YACOLT
+    distance_km: 7.32
+  - name: YALE
+    distance_km: 13.81
+- country: US
+  region: WA
+  name: Ames Lake
+  lat: '47.6346'
+  long: "-121.9664"
+  nearby_rate_centers:
+  - name: AMES LAKE
+    distance_km: 1.65
+  - name: CARNATION
+    distance_km: 4.83
+  - name: FALL CITY
+    distance_km: 9.47
+- country: US
+  region: WA
+  name: Anacortes
+  lat: '48.4878'
+  long: "-122.6292"
+  nearby_rate_centers:
+  - name: ANACORTES
+    distance_km: 1.82
+  - name: OAK HARBOR
+    distance_km: 21.59
+  - name: LOPEZ
+    distance_km: 21.65
+- country: US
+  region: WA
+  name: Anatone
+  lat: '46.1354'
+  long: "-117.1322"
+  nearby_rate_centers:
+  - name: ANATONE
+    distance_km: 0.08
+  - name: ASOTIN
+    distance_km: 22.99
+  - name: CLARKSTON
+    distance_km: 32.02
+- country: US
+  region: WA
+  name: Anderson Island
+  lat: '47.1578'
+  long: "-122.7039"
+  nearby_rate_centers:
+  - name: LAKEBAY
+    distance_km: 12.11
+  - name: FOX ISLAND
+    distance_km: 13.27
+  - name: ARLETTA
+    distance_km: 14.13
+- country: US
+  region: WA
+  name: Arlington
+  lat: '48.1701'
+  long: "-122.1442"
+  nearby_rate_centers:
+  - name: ARLINGTON
+    distance_km: 2.75
+  - name: MARYSVILLE
+    distance_km: 13.36
+  - name: GRANITEFLS
+    distance_km: 15.89
+- country: US
+  region: WA
+  name: Arlington Heights
+  lat: '48.2119'
+  long: "-122.0630"
+  nearby_rate_centers:
+  - name: ARLINGTON
+    distance_km: 5.02
+  - name: GRANITEFLS
+    distance_km: 15.83
+  - name: MARYSVILLE
+    distance_km: 19.71
+- country: US
+  region: WA
+  name: Artondale
+  lat: '47.3021'
+  long: "-122.6406"
+  nearby_rate_centers:
+  - name: ARLETTA
+    distance_km: 2.86
+  - name: FOX ISLAND
+    distance_km: 4.0
+  - name: GIG HARBOR
+    distance_km: 5.8
+- country: US
+  region: WA
+  name: Ashford
+  lat: '46.7551'
+  long: "-122.0143"
+  nearby_rate_centers:
+  - name: ASHFORD
+    distance_km: 1.42
+  - name: EATONVILLE
+    distance_km: 23.39
+  - name: GLENOMA
+    distance_km: 27.47
+- country: US
+  region: WA
+  name: Asotin
+  lat: '46.3366'
+  long: "-117.0414"
+  nearby_rate_centers:
+  - name: ASOTIN
+    distance_km: 0.79
+  - name: CLARKSTON
+    distance_km: 8.87
+  - name: UNIONTOWN
+    distance_km: 23.05
+- country: US
+  region: WA
+  name: Auburn
+  lat: '47.3039'
+  long: "-122.2108"
+  nearby_rate_centers:
+  - name: AUBURN
+    distance_km: 0.98
+  - name: KENT
+    distance_km: 8.87
+  - name: TACOMAWVLY
+    distance_km: 10.31
+- country: US
+  region: WA
+  name: Bainbridge Island
+  lat: '47.6439'
+  long: "-122.5434"
+  nearby_rate_centers:
+  - name: BAINBDG IS
+    distance_km: 2.69
+  - name: BREMERTON
+    distance_km: 11.05
+  - name: SILVERDALE
+    distance_km: 11.51
+- country: US
+  region: WA
+  name: Bangor Base
+  lat: '47.7226'
+  long: "-122.7144"
+  nearby_rate_centers:
+  - name: POULSBO
+    distance_km: 3.41
+  - name: SILVERDALE
+    distance_km: 9.0
+  - name: BRINNON
+    distance_km: 13.1
+  - name: HOOD CANAL
+    distance_km: 13.1
+- country: US
+  region: WA
+  name: Banks Lake South
+  lat: '47.6315'
+  long: "-119.2760"
+  nearby_rate_centers:
+  - name: COULEECITY
+    distance_km: 3.08
+  - name: WILSON CRK
+    distance_km: 25.96
+  - name: ALMIRA
+    distance_km: 26.28
+- country: US
+  region: WA
+  name: Barberton
+  lat: '45.7136'
+  long: "-122.6115"
+  nearby_rate_centers:
+  - name: BATTLEGRND
+    distance_km: 10.32
+  - name: VANCOUVER
+    distance_km: 11.09
+  - name: RIDGEFIELD
+    distance_km: 15.54
+- country: US
+  region: WA
+  name: Baring
+  lat: '47.7661'
+  long: "-121.4803"
+  nearby_rate_centers:
+  - name: SKYKOMISH
+    distance_km: 10.42
+  - name: SULTAN
+    distance_km: 27.39
+  - name: STEVESPASS
+    distance_km: 29.73
+- country: US
+  region: WA
+  name: Barstow
+  lat: '48.7783'
+  long: "-118.1329"
+  nearby_rate_centers:
+  - name: KETTLE FLS
+    distance_km: 19.54
+  - name: NORTHPORT
+    distance_km: 29.91
+  - name: COLVILLE
+    distance_km: 31.36
+- country: US
+  region: WA
+  name: Basin City
+  lat: '46.5890'
+  long: "-119.1566"
+  nearby_rate_centers:
+  - name: BASIN CITY
+    distance_km: 0.69
+  - name: MESA
+    distance_km: 11.38
+  - name: MATHEWSCOR
+    distance_km: 15.11
+- country: US
+  region: WA
+  name: Battle Ground
+  lat: '45.7766'
+  long: "-122.5413"
+  nearby_rate_centers:
+  - name: BATTLEGRND
+    distance_km: 1.55
+  - name: LA CENTER
+    distance_km: 14.1
+  - name: YACOLT
+    distance_km: 14.41
+- country: US
+  region: WA
+  name: Bay Center
+  lat: '46.6213'
+  long: "-123.9533"
+  nearby_rate_centers:
+  - name: SOUTH BEND
+    distance_km: 13.21
+  - name: OCEAN PARK
+    distance_km: 16.05
+  - name: RAYMOND
+    distance_km: 18.65
+- country: US
+  region: WA
+  name: Bay View
+  lat: '48.4870'
+  long: "-122.4628"
+  nearby_rate_centers:
+  - name: ALGER
+    distance_km: 9.56
+  - name: BURLINGTON
+    distance_km: 9.56
+  - name: EDISON
+    distance_km: 9.56
+  - name: ANACORTES
+    distance_km: 11.36
+  - name: BIG LAKE
+    distance_km: 12.47
+  - name: CONWAY
+    distance_km: 12.47
+  - name: MT VERNON
+    distance_km: 12.47
+- country: US
+  region: WA
+  name: Beacon Hill
+  lat: '46.1770'
+  long: "-122.9235"
+  nearby_rate_centers:
+  - name: LONGVIEW
+    distance_km: 5.12
+  - name: CASTLEROCK
+    distance_km: 11.15
+  - name: KALAMA
+    distance_km: 19.58
+- country: US
+  region: WA
+  name: Beaux Arts Village
+  lat: '47.5853'
+  long: "-122.2050"
+  nearby_rate_centers:
+  - name: BELLEVUE
+    distance_km: 2.58
+  - name: RENTON
+    distance_km: 9.44
+  - name: SEATTLE
+    distance_km: 9.97
+- country: US
+  region: WA
+  name: Belfair
+  lat: '47.4495'
+  long: "-122.8487"
+  nearby_rate_centers:
+  - name: BELFAIR
+    distance_km: 1.85
+  - name: DEWATTO
+    distance_km: 9.57
+  - name: BURLEY
+    distance_km: 16.74
+- country: US
+  region: WA
+  name: Bell Hill
+  lat: '48.0550'
+  long: "-123.0869"
+  nearby_rate_centers:
+  - name: SEQUIM
+    distance_km: 3.37
+  - name: GARDINER
+    distance_km: 12.52
+  - name: PT ANGELES
+    distance_km: 14.58
+- country: US
+  region: WA
+  name: Bellevue
+  lat: '47.5951'
+  long: "-122.1535"
+  nearby_rate_centers:
+  - name: BELLEVUE
+    distance_km: 4.52
+  - name: KIRKLAND
+    distance_km: 9.52
+  - name: RENTON
+    distance_km: 10.56
+- country: US
+  region: WA
+  name: Bellingham
+  lat: '48.7548'
+  long: "-122.4690"
+  nearby_rate_centers:
+  - name: BELLINGHAM
+    distance_km: 0.76
+  - name: LAUREL
+    distance_km: 11.57
+  - name: FERNDALE
+    distance_km: 13.79
+- country: US
+  region: WA
+  name: Benton City
+  lat: '46.2622'
+  long: "-119.4812"
+  nearby_rate_centers:
+  - name: BENTONCITY
+    distance_km: 0.38
+  - name: RICHLAND
+    distance_km: 16.12
+  - name: WHITSTRAN
+    distance_km: 17.78
+- country: US
+  region: WA
+  name: Bethel
+  lat: '47.4874'
+  long: "-122.6175"
+  nearby_rate_centers:
+  - name: PORT ORCH
+    distance_km: 6.36
+  - name: BURLEY
+    distance_km: 7.44
+  - name: BREMERTON
+    distance_km: 8.94
+- country: US
+  region: WA
+  name: Beverly
+  lat: '46.8348'
+  long: "-119.9301"
+  nearby_rate_centers:
+  - name: VANTAGE
+    distance_km: 14.42
+  - name: MATTAWA
+    distance_km: 21.27
+  - name: GEORGE
+    distance_km: 27.62
+- country: US
+  region: WA
+  name: Bickleton
+  lat: '46.0056'
+  long: "-120.3081"
+  nearby_rate_centers:
+  - name: BICKLETON
+    distance_km: 1.04
+  - name: ROOSEVELT
+    distance_km: 30.74
+  - name: MABTON
+    distance_km: 32.8
+- country: US
+  region: WA
+  name: Big Lake
+  lat: '48.3890'
+  long: "-122.2435"
+  nearby_rate_centers:
+  - name: BIG LAKE
+    distance_km: 7.24
+  - name: CONWAY
+    distance_km: 7.24
+  - name: MT VERNON
+    distance_km: 7.24
+  - name: ALGER
+    distance_km: 11.58
+  - name: BURLINGTON
+    distance_km: 11.58
+  - name: EDISON
+    distance_km: 11.58
+  - name: SEDROWOLLY
+    distance_km: 12.42
+- country: US
+  region: WA
+  name: Bingen
+  lat: '45.7139'
+  long: "-121.4704"
+  nearby_rate_centers:
+  - name: WH SALMON
+    distance_km: 2.49
+  - name: WILLARD
+    distance_km: 13.42
+  - name: LYLE
+    distance_km: 15.13
+- country: US
+  region: WA
+  name: Birch Bay
+  lat: '48.9243'
+  long: "-122.7519"
+  nearby_rate_centers:
+  - name: BLAINE
+    distance_km: 7.69
+  - name: CUSTER
+    distance_km: 8.27
+  - name: FERNDALE
+    distance_km: 14.45
+- country: US
+  region: WA
+  name: Black Diamond
+  lat: '47.3130'
+  long: "-122.0181"
+  nearby_rate_centers:
+  - name: BLACKDIMND
+    distance_km: 0.56
+  - name: MAPLE VLY
+    distance_km: 9.72
+  - name: ENUMCLAW
+    distance_km: 12.72
+- country: US
+  region: WA
+  name: Blaine
+  lat: '48.9839'
+  long: "-122.7414"
+  nearby_rate_centers:
+  - name: BLAINE
+    distance_km: 1.06
+  - name: CUSTER
+    distance_km: 10.62
+  - name: FERNDALE
+    distance_km: 18.57
+- country: US
+  region: WA
+  name: Blyn
+  lat: '48.0131'
+  long: "-122.9897"
+  nearby_rate_centers:
+  - name: GARDINER
+    distance_km: 6.56
+  - name: SEQUIM
+    distance_km: 11.41
+  - name: CHIMACMCTR
+    distance_km: 16.8
+- country: US
+  region: WA
+  name: Bonney Lake
+  lat: '47.1791'
+  long: "-122.1700"
+  nearby_rate_centers:
+  - name: SUMNER
+    distance_km: 5.32
+  - name: SO PRAIRIE
+    distance_km: 7.4
+  - name: PUYALLUP
+    distance_km: 10.04
+- country: US
+  region: WA
+  name: Bothell
+  lat: '47.7735'
+  long: "-122.2044"
+  nearby_rate_centers:
+  - name: BOTHELL
+    distance_km: 0.8
+  - name: DUVALL
+    distance_km: 0.8
+  - name: HALLS LAKE
+    distance_km: 9.64
+  - name: KIRKLAND
+    distance_km: 10.9
+- country: US
+  region: WA
+  name: Bothell East
+  lat: '47.8064'
+  long: "-122.1844"
+  nearby_rate_centers:
+  - name: BOTHELL
+    distance_km: 4.57
+  - name: DUVALL
+    distance_km: 4.57
+  - name: SILVERLAKE
+    distance_km: 8.25
+  - name: HALLS LAKE
+    distance_km: 10.66
+- country: US
+  region: WA
+  name: Bothell West
+  lat: '47.8056'
+  long: "-122.2401"
+  nearby_rate_centers:
+  - name: BOTHELL
+    distance_km: 5.22
+  - name: DUVALL
+    distance_km: 5.22
+  - name: HALLS LAKE
+    distance_km: 6.5
+  - name: SILVERLAKE
+    distance_km: 8.93
+- country: US
+  region: WA
+  name: Boulevard Park
+  lat: '47.5137'
+  long: "-122.3160"
+  nearby_rate_centers:
+  - name: RENTON
+    distance_km: 10.23
+  - name: SEATTLE
+    distance_km: 10.8
+  - name: DES MOINES
+    distance_km: 12.59
+- country: US
+  region: WA
+  name: Bow
+  lat: '48.5613'
+  long: "-122.4077"
+  nearby_rate_centers:
+  - name: ALGER
+    distance_km: 11.12
+  - name: BURLINGTON
+    distance_km: 11.12
+  - name: EDISON
+    distance_km: 11.12
+  - name: SEDROWOLLY
+    distance_km: 14.39
+  - name: ANACORTES
+    distance_km: 16.68
+- country: US
+  region: WA
+  name: Boyds
+  lat: '48.7245'
+  long: "-118.1321"
+  nearby_rate_centers:
+  - name: KETTLE FLS
+    distance_km: 13.91
+  - name: COLVILLE
+    distance_km: 26.5
+  - name: NORTHPORT
+    distance_km: 33.36
+- country: US
+  region: WA
+  name: Brady
+  lat: '47.0064'
+  long: "-123.5321"
+  nearby_rate_centers:
+  - name: MONTESANO
+    distance_km: 5.93
+  - name: ELMA
+    distance_km: 8.72
+  - name: ABERDEEN
+    distance_km: 22.31
+- country: US
+  region: WA
+  name: Bremerton
+  lat: '47.5436'
+  long: "-122.7121"
+  nearby_rate_centers:
+  - name: PORT ORCH
+    distance_km: 6.03
+  - name: BREMERTON
+    distance_km: 6.24
+  - name: SILVERDALE
+    distance_km: 11.05
+- country: US
+  region: WA
+  name: Brewster
+  lat: '48.1015'
+  long: "-119.7762"
+  nearby_rate_centers:
+  - name: BREWSTER
+    distance_km: 1.11
+  - name: PATEROS
+    distance_km: 10.96
+  - name: BRIDGEPORT
+    distance_km: 12.83
+- country: US
+  region: WA
+  name: Bridgeport
+  lat: '48.0069'
+  long: "-119.6726"
+  nearby_rate_centers:
+  - name: BRIDGEPORT
+    distance_km: 0.37
+  - name: BREWSTER
+    distance_km: 12.48
+  - name: PATEROS
+    distance_km: 18.65
+- country: US
+  region: WA
+  name: Brier
+  lat: '47.7924'
+  long: "-122.2734"
+  nearby_rate_centers:
+  - name: HALLS LAKE
+    distance_km: 4.1
+  - name: BOTHELL
+    distance_km: 6.13
+  - name: DUVALL
+    distance_km: 6.13
+  - name: RICHMNDBCH
+    distance_km: 8.94
+- country: US
+  region: WA
+  name: Brinnon
+  lat: '47.6689'
+  long: "-122.9248"
+  nearby_rate_centers:
+  - name: BRINNON
+    distance_km: 9.67
+  - name: HOOD CANAL
+    distance_km: 9.67
+  - name: SILVERDALE
+    distance_km: 17.31
+  - name: QUILCENE
+    distance_km: 17.59
+- country: US
+  region: WA
+  name: Browns Point
+  lat: '47.3036'
+  long: "-122.4369"
+  nearby_rate_centers:
+  - name: TACOMA
+    distance_km: 5.24
+  - name: TACOMAWVLY
+    distance_km: 8.84
+  - name: GIG HARBOR
+    distance_km: 12.34
+- country: US
+  region: WA
+  name: Brush Prairie
+  lat: '45.7250'
+  long: "-122.5483"
+  nearby_rate_centers:
+  - name: BATTLEGRND
+    distance_km: 6.77
+  - name: VANCOUVER
+    distance_km: 14.85
+  - name: RIDGEFIELD
+    distance_km: 18.4
+- country: US
+  region: WA
+  name: Bryant
+  lat: '48.2400'
+  long: "-122.1638"
+  nearby_rate_centers:
+  - name: ARLINGTON
+    distance_km: 6.35
+  - name: STANWOOD
+    distance_km: 15.91
+  - name: MARYSVILLE
+    distance_km: 20.93
+- country: US
+  region: WA
+  name: Bryn Mawr-Skyway
+  lat: '47.4949'
+  long: "-122.2410"
+  nearby_rate_centers:
+  - name: RENTON
+    distance_km: 4.58
+  - name: DES MOINES
+    distance_km: 12.32
+  - name: KENT
+    distance_km: 12.56
+- country: US
+  region: WA
+  name: Buckley
+  lat: '47.1615'
+  long: "-122.0200"
+  nearby_rate_centers:
+  - name: BUCKLEY
+    distance_km: 1.26
+  - name: ENUMCLAW
+    distance_km: 4.86
+  - name: SO PRAIRIE
+    distance_km: 6.72
+- country: US
+  region: WA
+  name: Bucoda
+  lat: '46.7968'
+  long: "-122.8680"
+  nearby_rate_centers:
+  - name: BUCODA
+    distance_km: 0.65
+  - name: TENINO
+    distance_km: 7.17
+  - name: CENTRALIA
+    distance_km: 11.49
+- country: US
+  region: WA
+  name: Buena
+  lat: '46.4277'
+  long: "-120.3183"
+  nearby_rate_centers:
+  - name: ZILLAH
+    distance_km: 5.48
+  - name: TOPPENISH
+    distance_km: 5.88
+  - name: WAPATO
+    distance_km: 8.2
+- country: US
+  region: WA
+  name: Bunk Foss
+  lat: '47.9618'
+  long: "-122.0944"
+  nearby_rate_centers:
+  - name: SNOHOMISH
+    distance_km: 5.17
+  - name: EVERETT
+    distance_km: 8.16
+  - name: MARYSVILLE
+    distance_km: 11.8
+- country: US
+  region: WA
+  name: Burbank
+  lat: '46.2016'
+  long: "-118.9891"
+  nearby_rate_centers:
+  - name: PASCO
+    distance_km: 9.23
+  - name: KENNEWICK
+    distance_km: 10.38
+  - name: RICHLAND
+    distance_km: 23.31
+- country: US
+  region: WA
+  name: Burien
+  lat: '47.4762'
+  long: "-122.3394"
+  nearby_rate_centers:
+  - name: DES MOINES
+    distance_km: 8.44
+  - name: VASHON
+    distance_km: 9.87
+  - name: RENTON
+    distance_km: 12.24
+- country: US
+  region: WA
+  name: Burley
+  lat: '47.4166'
+  long: "-122.6377"
+  nearby_rate_centers:
+  - name: BURLEY
+    distance_km: 0.75
+  - name: GIG HARBOR
+    distance_km: 9.04
+  - name: VASHON
+    distance_km: 13.69
+- country: US
+  region: WA
+  name: Burlington
+  lat: '48.4676'
+  long: "-122.3298"
+  nearby_rate_centers:
+  - name: ALGER
+    distance_km: 0.78
+  - name: BURLINGTON
+    distance_km: 0.78
+  - name: EDISON
+    distance_km: 0.78
+  - name: BIG LAKE
+    distance_km: 5.89
+  - name: CONWAY
+    distance_km: 5.89
+  - name: MT VERNON
+    distance_km: 5.89
+  - name: SEDROWOLLY
+    distance_km: 7.88
+- country: US
+  region: WA
+  name: Camano
+  lat: '48.1865'
+  long: "-122.4708"
+  nearby_rate_centers:
+  - name: STANWOOD
+    distance_km: 9.04
+  - name: COUPEVILLE
+    distance_km: 16.15
+  - name: OAK HARBOR
+    distance_km: 17.4
+- country: US
+  region: WA
+  name: Camas
+  lat: '45.6005'
+  long: "-122.4304"
+  nearby_rate_centers:
+  - name: CAMAS
+    distance_km: 2.15
+  - name: WASHGL RIV
+    distance_km: 2.15
+  - name: WASHOUGAL
+    distance_km: 2.15
+  - name: VANCOUVER
+    distance_km: 18.99
+  - name: BATTLEGRND
+    distance_km: 21.61
+- country: US
+  region: WA
+  name: Canterwood
+  lat: '47.3765'
+  long: "-122.6021"
+  nearby_rate_centers:
+  - name: GIG HARBOR
+    distance_km: 3.96
+  - name: BURLEY
+    distance_km: 5.39
+  - name: ARLETTA
+    distance_km: 11.51
+- country: US
+  region: WA
+  name: Canyon Creek
+  lat: '48.1157'
+  long: "-121.9832"
+  nearby_rate_centers:
+  - name: GRANITEFLS
+    distance_km: 3.78
+  - name: ARLINGTON
+    distance_km: 13.21
+  - name: MARYSVILLE
+    distance_km: 16.1
+- country: US
+  region: WA
+  name: Carbonado
+  lat: '47.0806'
+  long: "-122.0536"
+  nearby_rate_centers:
+  - name: SO PRAIRIE
+    distance_km: 6.8
+  - name: BUCKLEY
+    distance_km: 8.63
+  - name: ORTING
+    distance_km: 11.99
+- country: US
+  region: WA
+  name: Carlsborg
+  lat: '48.0842'
+  long: "-123.1697"
+  nearby_rate_centers:
+  - name: SEQUIM
+    distance_km: 5.12
+  - name: PT ANGELES
+    distance_km: 7.73
+  - name: GARDINER
+    distance_km: 19.07
+- country: US
+  region: WA
+  name: Carnation
+  lat: '47.6443'
+  long: "-121.9040"
+  nearby_rate_centers:
+  - name: CARNATION
+    distance_km: 0.72
+  - name: AMES LAKE
+    distance_km: 4.31
+  - name: FALL CITY
+    distance_km: 8.61
+- country: US
+  region: WA
+  name: Carson
+  lat: '45.7354'
+  long: "-121.8219"
+  nearby_rate_centers:
+  - name: STEVENSON
+    distance_km: 6.07
+  - name: WILLARD
+    distance_km: 14.98
+  - name: WH SALMON
+    distance_km: 26.31
+- country: US
+  region: WA
+  name: Cascade Valley
+  lat: '47.1417'
+  long: "-119.3260"
+  nearby_rate_centers:
+  - name: MOSES LAKE
+    distance_km: 3.97
+  - name: EPHRATA
+    distance_km: 26.11
+  - name: WARDEN
+    distance_km: 29.15
+- country: US
+  region: WA
+  name: Cashmere
+  lat: '47.5175'
+  long: "-120.4670"
+  nearby_rate_centers:
+  - name: CASHMERE
+    distance_km: 0.31
+  - name: WENATCHEE
+    distance_km: 15.21
+  - name: LEAVENWTH
+    distance_km: 16.7
+- country: US
+  region: WA
+  name: Castle Rock
+  lat: '46.2708'
+  long: "-122.9050"
+  nearby_rate_centers:
+  - name: CASTLEROCK
+    distance_km: 0.77
+  - name: VADER
+    distance_km: 15.12
+  - name: LONGVIEW
+    distance_km: 15.59
+- country: US
+  region: WA
+  name: Cathcart
+  lat: '47.8526'
+  long: "-122.1058"
+  nearby_rate_centers:
+  - name: SNOHOMISH
+    distance_km: 7.09
+  - name: SILVERLAKE
+    distance_km: 7.37
+  - name: MONROE
+    distance_km: 9.98
+- country: US
+  region: WA
+  name: Cathlamet
+  lat: '46.2056'
+  long: "-123.3835"
+  nearby_rate_centers:
+  - name: CATHLAMET
+    distance_km: 0.64
+  - name: PUGET IS
+    distance_km: 5.28
+  - name: GRAYSRIVER
+    distance_km: 24.26
+- country: US
+  region: WA
+  name: Cavalero
+  lat: '47.9875'
+  long: "-122.0748"
+  nearby_rate_centers:
+  - name: SNOHOMISH
+    distance_km: 8.09
+  - name: EVERETT
+    distance_km: 9.21
+  - name: MARYSVILLE
+    distance_km: 10.5
+- country: US
+  region: WA
+  name: Centerville
+  lat: '45.7540'
+  long: "-120.9080"
+  nearby_rate_centers:
+  - name: GOLDENDALE
+    distance_km: 10.37
+  - name: WISHRAM
+    distance_km: 10.55
+  - name: KLICKITAT
+    distance_km: 20.29
+- country: US
+  region: WA
+  name: Central Park
+  lat: '46.9705'
+  long: "-123.7018"
+  nearby_rate_centers:
+  - name: MONTESANO
+    distance_km: 7.74
+  - name: ABERDEEN
+    distance_km: 9.23
+  - name: ELMA
+    distance_km: 22.01
+- country: US
+  region: WA
+  name: Centralia
+  lat: '46.7223'
+  long: "-122.9696"
+  nearby_rate_centers:
+  - name: CENTRALIA
+    distance_km: 1.01
+  - name: CHEHALIS
+    distance_km: 7.3
+  - name: BUCODA
+    distance_km: 11.54
+- country: US
+  region: WA
+  name: Chain Lake
+  lat: '47.9028'
+  long: "-121.9850"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 4.97
+  - name: SNOHOMISH
+    distance_km: 7.91
+  - name: SULTAN
+    distance_km: 13.31
+- country: US
+  region: WA
+  name: Chehalis
+  lat: '46.6638'
+  long: "-122.9650"
+  nearby_rate_centers:
+  - name: CHEHALIS
+    distance_km: 0.8
+  - name: CENTRALIA
+    distance_km: 5.75
+  - name: CURTIS
+    distance_km: 14.17
+- country: US
+  region: WA
+  name: Chelan
+  lat: '47.8415'
+  long: "-120.0262"
+  nearby_rate_centers:
+  - name: CHELAN
+    distance_km: 0.65
+  - name: DOUGLASCO
+    distance_km: 21.41
+  - name: WATERVILLE
+    distance_km: 21.41
+  - name: ENTIAT
+    distance_km: 25.14
+- country: US
+  region: WA
+  name: Chelan Falls
+  lat: '47.7994'
+  long: "-119.9882"
+  nearby_rate_centers:
+  - name: CHELAN
+    distance_km: 4.99
+  - name: DOUGLASCO
+    distance_km: 17.61
+  - name: WATERVILLE
+    distance_km: 17.61
+  - name: ENTIAT
+    distance_km: 23.54
+- country: US
+  region: WA
+  name: Cheney
+  lat: '47.4901'
+  long: "-117.5790"
+  nearby_rate_centers:
+  - name: CHENEY
+    distance_km: 0.38
+  - name: MEDICAL LK
+    distance_km: 11.76
+  - name: SPANGLE
+    distance_km: 16.41
+- country: US
+  region: WA
+  name: Cherry Grove
+  lat: '45.8022'
+  long: "-122.5767"
+  nearby_rate_centers:
+  - name: BATTLEGRND
+    distance_km: 4.59
+  - name: LA CENTER
+    distance_km: 10.15
+  - name: RIDGEFIELD
+    distance_km: 13.11
+- country: US
+  region: WA
+  name: Chewelah
+  lat: '48.2930'
+  long: "-117.7336"
+  nearby_rate_centers:
+  - name: CHEWELAH
+    distance_km: 1.59
+  - name: SPRINGDALE
+    distance_km: 26.09
+  - name: LOON LAKE
+    distance_km: 26.12
+- country: US
+  region: WA
+  name: Chico
+  lat: '47.6226'
+  long: "-122.7193"
+  nearby_rate_centers:
+  - name: SILVERDALE
+    distance_km: 2.77
+  - name: BREMERTON
+    distance_km: 8.79
+  - name: PORT ORCH
+    distance_km: 10.95
+- country: US
+  region: WA
+  name: Chinook
+  lat: '46.2755'
+  long: "-123.9425"
+  nearby_rate_centers:
+  - name: CHINOOK
+    distance_km: 0.31
+  - name: LONG BEACH
+    distance_km: 12.32
+  - name: NASELLE
+    distance_km: 14.1
+- country: US
+  region: WA
+  name: Clallam Bay
+  lat: '48.2534'
+  long: "-124.2579"
+  nearby_rate_centers:
+  - name: CLALLAMBAY
+    distance_km: 0.48
+  - name: NEAH BAY
+    distance_km: 29.06
+  - name: FORKS
+    distance_km: 35.18
+- country: US
+  region: WA
+  name: Clarkston
+  lat: '46.4161'
+  long: "-117.0505"
+  nearby_rate_centers:
+  - name: CLARKSTON
+    distance_km: 0.7
+  - name: ASOTIN
+    distance_km: 9.09
+  - name: UNIONTOWN
+    distance_km: 14.24
+- country: US
+  region: WA
+  name: Clarkston Heights-Vineland
+  lat: '46.3770'
+  long: "-117.0920"
+  nearby_rate_centers:
+  - name: ASOTIN
+    distance_km: 5.68
+  - name: CLARKSTON
+    distance_km: 5.86
+  - name: UNIONTOWN
+    distance_km: 18.26
+- country: US
+  region: WA
+  name: Clayton
+  lat: '48.0012'
+  long: "-117.5610"
+  nearby_rate_centers:
+  - name: DEER PARK
+    distance_km: 7.7
+  - name: LOON LAKE
+    distance_km: 9.23
+  - name: SPRINGDALE
+    distance_km: 14.84
+- country: US
+  region: WA
+  name: Cle Elum
+  lat: '47.1943'
+  long: "-120.9539"
+  nearby_rate_centers:
+  - name: ROSLYN
+    distance_km: 5.0
+  - name: CLE ELUM
+    distance_km: 8.56
+  - name: EASTON
+    distance_km: 17.46
+- country: US
+  region: WA
+  name: Clear Lake
+  lat: '46.9310'
+  long: "-122.2841"
+  nearby_rate_centers:
+  - name: EATONVILLE
+    distance_km: 7.27
+  - name: GRAHAM
+    distance_km: 12.08
+  - name: ORTING
+    distance_km: 18.49
+- country: US
+  region: WA
+  name: Clearview
+  lat: '47.8292'
+  long: "-122.1451"
+  nearby_rate_centers:
+  - name: SILVERLAKE
+    distance_km: 6.81
+  - name: BOTHELL
+    distance_km: 8.09
+  - name: DUVALL
+    distance_km: 8.09
+  - name: SNOHOMISH
+    distance_km: 10.45
+- country: US
+  region: WA
+  name: Cliffdell
+  lat: '46.9222'
+  long: "-121.0431"
+  nearby_rate_centers:
+  - name: NILE
+    distance_km: 15.3
+  - name: RIMROCK
+    distance_km: 29.74
+  - name: THORP
+    distance_km: 30.45
+- country: US
+  region: WA
+  name: Clinton
+  lat: '47.9731'
+  long: "-122.3577"
+  nearby_rate_centers:
+  - name: HAT ISLAND
+    distance_km: 6.07
+  - name: SO WHIDBEY
+    distance_km: 8.76
+  - name: EVERETT
+    distance_km: 11.92
+- country: US
+  region: WA
+  name: Clover Creek
+  lat: '47.1404'
+  long: "-122.3827"
+  nearby_rate_centers:
+  - name: PUYALLUP
+    distance_km: 8.24
+  - name: SUMNER
+    distance_km: 13.1
+  - name: GRAHAM
+    distance_km: 13.2
+- country: US
+  region: WA
+  name: Clyde Hill
+  lat: '47.6304'
+  long: "-122.2180"
+  nearby_rate_centers:
+  - name: BELLEVUE
+    distance_km: 2.54
+  - name: KIRKLAND
+    distance_km: 5.28
+  - name: SEATTLE
+    distance_km: 8.89
+- country: US
+  region: WA
+  name: Cohassett Beach
+  lat: '46.8656'
+  long: "-124.1054"
+  nearby_rate_centers:
+  - name: GRAYHARBCO
+    distance_km: 3.15
+  - name: WESTPORT
+    distance_km: 3.15
+  - name: OCOSTA
+    distance_km: 6.29
+  - name: GRAYLAND
+    distance_km: 6.76
+- country: US
+  region: WA
+  name: Colfax
+  lat: '46.9029'
+  long: "-117.3400"
+  nearby_rate_centers:
+  - name: COLFAX
+    distance_km: 3.06
+  - name: GARFIELD
+    distance_km: 18.49
+  - name: PALOUSE
+    distance_km: 20.01
+- country: US
+  region: WA
+  name: College Place
+  lat: '46.0419'
+  long: "-118.3878"
+  nearby_rate_centers:
+  - name: WALLAWALLA
+    distance_km: 4.82
+  - name: TOUCHET
+    distance_km: 21.52
+  - name: PRESCOTT
+    distance_km: 29.13
+- country: US
+  region: WA
+  name: Colton
+  lat: '46.5675'
+  long: "-117.1284"
+  nearby_rate_centers:
+  - name: UNIONTOWN
+    distance_km: 4.14
+  - name: CLARKSTON
+    distance_km: 18.08
+  - name: PULLMAN
+    distance_km: 18.8
+- country: US
+  region: WA
+  name: Colville
+  lat: '48.5454'
+  long: "-117.8985"
+  nearby_rate_centers:
+  - name: COLVILLE
+    distance_km: 0.47
+  - name: KETTLE FLS
+    distance_km: 13.62
+  - name: CHEWELAH
+    distance_km: 32.13
+- country: US
+  region: WA
+  name: Conconully
+  lat: '48.5586'
+  long: "-119.7521"
+  nearby_rate_centers:
+  - name: OMAK
+    distance_km: 23.23
+  - name: LOOMIS
+    distance_km: 28.05
+  - name: TONASKET
+    distance_km: 28.05
+  - name: WINTHROP
+    distance_km: 32.45
+- country: US
+  region: WA
+  name: Concrete
+  lat: '48.5370'
+  long: "-121.7510"
+  nearby_rate_centers:
+  - name: CONCRETE
+    distance_km: 0.67
+  - name: MARBLEMONT
+    distance_km: 24.22
+  - name: DARRINGTON
+    distance_km: 33.61
+- country: US
+  region: WA
+  name: Connell
+  lat: '46.6622'
+  long: "-118.8405"
+  nearby_rate_centers:
+  - name: CONNELL
+    distance_km: 1.6
+  - name: MESA
+    distance_km: 15.44
+  - name: KAHLOTUS
+    distance_km: 21.89
+- country: US
+  region: WA
+  name: Conway
+  lat: '48.3357'
+  long: "-122.3444"
+  nearby_rate_centers:
+  - name: BIG LAKE
+    distance_km: 8.82
+  - name: CONWAY
+    distance_km: 8.82
+  - name: MT VERNON
+    distance_km: 8.82
+  - name: STANWOOD
+    distance_km: 10.96
+  - name: ALGER
+    distance_km: 15.38
+  - name: BURLINGTON
+    distance_km: 15.38
+  - name: EDISON
+    distance_km: 15.38
+- country: US
+  region: WA
+  name: Copalis Beach
+  lat: '47.1205'
+  long: "-124.1721"
+  nearby_rate_centers:
+  - name: COPALIS
+    distance_km: 0.38
+  - name: PACIFICBCH
+    distance_km: 10.19
+  - name: GRAYHARBCO
+    distance_km: 25.64
+  - name: WESTPORT
+    distance_km: 25.64
+- country: US
+  region: WA
+  name: Cosmopolis
+  lat: '46.9540'
+  long: "-123.7726"
+  nearby_rate_centers:
+  - name: ABERDEEN
+    distance_km: 4.61
+  - name: MONTESANO
+    distance_km: 13.36
+  - name: OCOSTA
+    distance_km: 20.86
+- country: US
+  region: WA
+  name: Cottage Lake
+  lat: '47.7466'
+  long: "-122.0755"
+  nearby_rate_centers:
+  - name: BOTHELL
+    distance_km: 9.63
+  - name: DUVALL
+    distance_km: 9.63
+  - name: KIRKLAND
+    distance_km: 12.02
+  - name: AMES LAKE
+    distance_km: 13.82
+- country: US
+  region: WA
+  name: Cougar
+  lat: '46.0493'
+  long: "-122.3034"
+  nearby_rate_centers:
+  - name: COUGAR
+    distance_km: 4.65
+  - name: YALE
+    distance_km: 6.67
+  - name: AMBOY
+    distance_km: 19.55
+- country: US
+  region: WA
+  name: Coulee City
+  lat: '47.6122'
+  long: "-119.2895"
+  nearby_rate_centers:
+  - name: COULEECITY
+    distance_km: 0.71
+  - name: WILSON CRK
+    distance_km: 24.57
+  - name: ALMIRA
+    distance_km: 27.98
+- country: US
+  region: WA
+  name: Coulee Dam
+  lat: '47.9689'
+  long: "-118.9759"
+  nearby_rate_centers:
+  - name: COULEE DAM
+    distance_km: 1.04
+  - name: NESPELEM
+    distance_km: 22.15
+  - name: ALMIRA
+    distance_km: 29.22
+- country: US
+  region: WA
+  name: Country Homes
+  lat: '47.7479'
+  long: "-117.4199"
+  nearby_rate_centers:
+  - name: SPOKANE
+    distance_km: 10.11
+  - name: ELK-GRNBLF
+    distance_km: 22.22
+  - name: DEER PARK
+    distance_km: 24.04
+- country: US
+  region: WA
+  name: Coupeville
+  lat: '48.2172'
+  long: "-122.6775"
+  nearby_rate_centers:
+  - name: COUPEVILLE
+    distance_km: 0.46
+  - name: OAK HARBOR
+    distance_km: 8.92
+  - name: PTTOWNSEND
+    distance_km: 12.9
+- country: US
+  region: WA
+  name: Covington
+  lat: '47.3667'
+  long: "-122.1045"
+  nearby_rate_centers:
+  - name: MAPLE VLY
+    distance_km: 5.86
+  - name: BLACKDIMND
+    distance_km: 9.06
+  - name: KENT
+    distance_km: 9.93
+- country: US
+  region: WA
+  name: Cowiche
+  lat: '46.6719'
+  long: "-120.7120"
+  nearby_rate_centers:
+  - name: COWICHE
+    distance_km: 0.4
+  - name: TIETON
+    distance_km: 5.4
+  - name: NACHES
+    distance_km: 6.74
+- country: US
+  region: WA
+  name: Crescent Bar
+  lat: '47.2110'
+  long: "-119.9959"
+  nearby_rate_centers:
+  - name: QUINCY
+    distance_km: 11.38
+  - name: GEORGE
+    distance_km: 18.44
+  - name: VANTAGE
+    distance_km: 28.02
+- country: US
+  region: WA
+  name: Creston
+  lat: '47.7594'
+  long: "-118.5200"
+  nearby_rate_centers:
+  - name: CRESTON
+    distance_km: 0.28
+  - name: WILBUR
+    distance_km: 14.15
+  - name: DAVENPORT
+    distance_km: 30.07
+- country: US
+  region: WA
+  name: Crocker
+  lat: '47.0843'
+  long: "-122.1226"
+  nearby_rate_centers:
+  - name: SO PRAIRIE
+    distance_km: 5.76
+  - name: ORTING
+    distance_km: 6.75
+  - name: BUCKLEY
+    distance_km: 10.45
+- country: US
+  region: WA
+  name: Curlew
+  lat: '48.8777'
+  long: "-118.6046"
+  nearby_rate_centers:
+  - name: CURLEW
+    distance_km: 0.87
+  - name: REPUBLIC
+    distance_km: 27.56
+  - name: MOLSON
+    distance_km: 45.1
+- country: US
+  region: WA
+  name: Curlew Lake
+  lat: '48.7311'
+  long: "-118.6663"
+  nearby_rate_centers:
+  - name: REPUBLIC
+    distance_km: 10.72
+  - name: CURLEW
+    distance_km: 17.78
+  - name: KETTLE FLS
+    distance_km: 46.82
+- country: US
+  region: WA
+  name: Cusick
+  lat: '48.3333'
+  long: "-117.2944"
+  nearby_rate_centers:
+  - name: CUSICK
+    distance_km: 0.85
+  - name: NEWPORT
+    distance_km: 24.83
+  - name: CHEWELAH
+    distance_km: 32.0
+- country: US
+  region: WA
+  name: Custer
+  lat: '48.9127'
+  long: "-122.6369"
+  nearby_rate_centers:
+  - name: CUSTER
+    distance_km: 0.39
+  - name: FERNDALE
+    distance_km: 7.79
+  - name: BLAINE
+    distance_km: 11.9
+- country: US
+  region: WA
+  name: Dallesport
+  lat: '45.6316'
+  long: "-121.1749"
+  nearby_rate_centers:
+  - name: DALLESPORT
+    distance_km: 1.03
+  - name: LYLE
+    distance_km: 10.85
+  - name: WISHRAM
+    distance_km: 16.81
+- country: US
+  region: WA
+  name: Danville
+  lat: '48.9938'
+  long: "-118.5068"
+  nearby_rate_centers:
+  - name: CURLEW
+    distance_km: 13.9
+  - name: REPUBLIC
+    distance_km: 42.17
+  - name: MOLSON
+    distance_km: 50.67
+- country: US
+  region: WA
+  name: Darrington
+  lat: '48.2546'
+  long: "-121.6031"
+  nearby_rate_centers:
+  - name: DARRINGTON
+    distance_km: 0.41
+  - name: MARBLEMONT
+    distance_km: 32.79
+  - name: GRANITEFLS
+    distance_km: 33.63
+- country: US
+  region: WA
+  name: Dash Point
+  lat: '47.3130'
+  long: "-122.4154"
+  nearby_rate_centers:
+  - name: TACOMA
+    distance_km: 6.49
+  - name: TACOMAWVLY
+    distance_km: 8.12
+  - name: DES MOINES
+    distance_km: 11.8
+- country: US
+  region: WA
+  name: Davenport
+  lat: '47.6550'
+  long: "-118.1519"
+  nearby_rate_centers:
+  - name: DAVENPORT
+    distance_km: 0.64
+  - name: HARRINGTON
+    distance_km: 20.62
+  - name: REARDAN
+    distance_km: 20.68
+- country: US
+  region: WA
+  name: Dayton
+  lat: '46.3168'
+  long: "-117.9767"
+  nearby_rate_centers:
+  - name: DAYTON
+    distance_km: 0.65
+  - name: WAITSBURG
+    distance_km: 14.3
+  - name: STARBUCK
+    distance_km: 25.89
+- country: US
+  region: WA
+  name: Deep River
+  lat: '46.3521'
+  long: "-123.6985"
+  nearby_rate_centers:
+  - name: GRAYSRIVER
+    distance_km: 7.14
+  - name: NASELLE
+    distance_km: 8.26
+  - name: CHINOOK
+    distance_km: 20.33
+- country: US
+  region: WA
+  name: Deer Park
+  lat: '47.9642'
+  long: "-117.4398"
+  nearby_rate_centers:
+  - name: DEER PARK
+    distance_km: 2.82
+  - name: ELK-GRNBLF
+    distance_km: 12.88
+  - name: LOON LAKE
+    distance_km: 18.56
+- country: US
+  region: WA
+  name: Deming
+  lat: '48.8312'
+  long: "-122.2390"
+  nearby_rate_centers:
+  - name: ACME
+    distance_km: 1.74
+  - name: DEMING
+    distance_km: 1.74
+  - name: EVERSON
+    distance_km: 11.87
+  - name: WHATCOMCTY
+    distance_km: 16.0
+- country: US
+  region: WA
+  name: Des Moines
+  lat: '47.3914'
+  long: "-122.3156"
+  nearby_rate_centers:
+  - name: DES MOINES
+    distance_km: 1.36
+  - name: KENT
+    distance_km: 6.2
+  - name: AUBURN
+    distance_km: 11.6
+- country: US
+  region: WA
+  name: Desert Aire
+  lat: '46.6873'
+  long: "-119.9310"
+  nearby_rate_centers:
+  - name: MATTAWA
+    distance_km: 4.9
+  - name: VANTAGE
+    distance_km: 30.5
+  - name: SUNNYSIDE
+    distance_km: 40.71
+- country: US
+  region: WA
+  name: Disautel
+  lat: '48.3446'
+  long: "-119.2301"
+  nearby_rate_centers:
+  - name: OMAK
+    distance_km: 23.52
+  - name: NESPELEM
+    distance_km: 27.11
+  - name: LOOMIS
+    distance_km: 42.05
+  - name: TONASKET
+    distance_km: 42.05
+- country: US
+  region: WA
+  name: Dixie
+  lat: '46.1399'
+  long: "-118.1521"
+  nearby_rate_centers:
+  - name: WAITSBURG
+    distance_km: 13.95
+  - name: WALLAWALLA
+    distance_km: 16.39
+  - name: PRESCOTT
+    distance_km: 21.66
+- country: US
+  region: WA
+  name: Donald
+  lat: '46.4765'
+  long: "-120.3975"
+  nearby_rate_centers:
+  - name: WAPATO
+    distance_km: 3.25
+  - name: TOPPENISH
+    distance_km: 13.1
+  - name: HARRAH
+    distance_km: 13.13
+- country: US
+  region: WA
+  name: DuPont
+  lat: '47.1079'
+  long: "-122.6495"
+  nearby_rate_centers:
+  - name: ROY
+    distance_km: 14.55
+  - name: FOX ISLAND
+    distance_km: 17.7
+  - name: YELM
+    distance_km: 18.59
+- country: US
+  region: WA
+  name: Duluth
+  lat: '45.7838'
+  long: "-122.6470"
+  nearby_rate_centers:
+  - name: RIDGEFIELD
+    distance_km: 8.45
+  - name: BATTLEGRND
+    distance_km: 9.54
+  - name: LA CENTER
+    distance_km: 9.55
+- country: US
+  region: WA
+  name: Duvall
+  lat: '47.7354'
+  long: "-121.9726"
+  nearby_rate_centers:
+  - name: AMES LAKE
+    distance_km: 9.64
+  - name: CARNATION
+    distance_km: 10.66
+  - name: MONROE
+    distance_km: 13.74
+- country: US
+  region: WA
+  name: East Cathlamet
+  lat: '46.1956'
+  long: "-123.3588"
+  nearby_rate_centers:
+  - name: CATHLAMET
+    distance_km: 1.8
+  - name: PUGET IS
+    distance_km: 4.21
+  - name: GRAYSRIVER
+    distance_km: 26.39
+- country: US
+  region: WA
+  name: East Port Orchard
+  lat: '47.5194'
+  long: "-122.6183"
+  nearby_rate_centers:
+  - name: PORT ORCH
+    distance_km: 2.9
+  - name: BREMERTON
+    distance_km: 5.44
+  - name: BURLEY
+    distance_km: 10.97
+- country: US
+  region: WA
+  name: East Renton Highlands
+  lat: '47.4718'
+  long: "-122.0854"
+  nearby_rate_centers:
+  - name: ISSAQUAH
+    distance_km: 7.07
+  - name: RENTON
+    distance_km: 7.93
+  - name: MAPLE VLY
+    distance_km: 8.73
+- country: US
+  region: WA
+  name: East Wenatchee
+  lat: '47.4174'
+  long: "-120.2822"
+  nearby_rate_centers:
+  - name: WENATCHEE
+    distance_km: 2.72
+  - name: CASHMERE
+    distance_km: 17.59
+  - name: ENTIAT
+    distance_km: 27.09
+- country: US
+  region: WA
+  name: Eastmont
+  lat: '47.8968'
+  long: "-122.1818"
+  nearby_rate_centers:
+  - name: SILVERLAKE
+    distance_km: 2.12
+  - name: SNOHOMISH
+    distance_km: 7.19
+  - name: EVERETT
+    distance_km: 9.88
+- country: US
+  region: WA
+  name: Easton
+  lat: '47.2405'
+  long: "-121.1733"
+  nearby_rate_centers:
+  - name: EASTON
+    distance_km: 0.2
+  - name: CLE ELUM
+    distance_km: 8.78
+  - name: ROSLYN
+    distance_km: 13.16
+- country: US
+  region: WA
+  name: Eatonville
+  lat: '46.8682'
+  long: "-122.2697"
+  nearby_rate_centers:
+  - name: EATONVILLE
+    distance_km: 0.52
+  - name: GRAHAM
+    distance_km: 19.12
+  - name: ASHFORD
+    distance_km: 21.89
+- country: US
+  region: WA
+  name: Edgewood
+  lat: '47.2309'
+  long: "-122.2832"
+  nearby_rate_centers:
+  - name: PUYALLUP
+    distance_km: 4.74
+  - name: SUMNER
+    distance_km: 5.09
+  - name: TACOMAWVLY
+    distance_km: 5.4
+- country: US
+  region: WA
+  name: Edison
+  lat: '48.5640'
+  long: "-122.4348"
+  nearby_rate_centers:
+  - name: ALGER
+    distance_km: 12.45
+  - name: BURLINGTON
+    distance_km: 12.45
+  - name: EDISON
+    distance_km: 12.45
+  - name: ANACORTES
+    distance_km: 15.01
+  - name: SEDROWOLLY
+    distance_km: 16.31
+- country: US
+  region: WA
+  name: Edmonds
+  lat: '47.8115'
+  long: "-122.3533"
+  nearby_rate_centers:
+  - name: HALLS LAKE
+    distance_km: 2.31
+  - name: RICHMNDBCH
+    distance_km: 4.76
+  - name: KINGSTON
+    distance_km: 10.84
+- country: US
+  region: WA
+  name: Elbe
+  lat: '46.7653'
+  long: "-122.1956"
+  nearby_rate_centers:
+  - name: ASHFORD
+    distance_km: 12.44
+  - name: EATONVILLE
+    distance_km: 12.73
+  - name: MORTON
+    distance_km: 24.0
+- country: US
+  region: WA
+  name: Electric City
+  lat: '47.9218'
+  long: "-119.0475"
+  nearby_rate_centers:
+  - name: COULEE DAM
+    distance_km: 6.66
+  - name: ALMIRA
+    distance_km: 25.12
+  - name: NESPELEM
+    distance_km: 27.88
+- country: US
+  region: WA
+  name: Elk Plain
+  lat: '47.0425'
+  long: "-122.3663"
+  nearby_rate_centers:
+  - name: GRAHAM
+    distance_km: 5.73
+  - name: ORTING
+    distance_km: 12.86
+  - name: ROY
+    distance_km: 14.33
+- country: US
+  region: WA
+  name: Ellensburg
+  lat: '46.9999'
+  long: "-120.5475"
+  nearby_rate_centers:
+  - name: ELLENSBURG
+    distance_km: 0.25
+  - name: THORP
+    distance_km: 9.55
+  - name: KITTITAS
+    distance_km: 9.91
+- country: US
+  region: WA
+  name: Elma
+  lat: '47.0055'
+  long: "-123.4112"
+  nearby_rate_centers:
+  - name: ELMA
+    distance_km: 0.63
+  - name: MONTESANO
+    distance_km: 14.65
+  - name: ABERDEEN
+    distance_km: 31.4
+- country: US
+  region: WA
+  name: Elmer City
+  lat: '47.9999'
+  long: "-118.9540"
+  nearby_rate_centers:
+  - name: COULEE DAM
+    distance_km: 4.48
+  - name: NESPELEM
+    distance_km: 18.79
+  - name: ALMIRA
+    distance_km: 32.58
+- country: US
+  region: WA
+  name: Endicott
+  lat: '46.9282'
+  long: "-117.6867"
+  nearby_rate_centers:
+  - name: ENDICOTT
+    distance_km: 0.68
+  - name: LACROSSE
+    distance_km: 19.22
+  - name: ST JOHN
+    distance_km: 19.79
+- country: US
+  region: WA
+  name: Enetai
+  lat: '47.5885'
+  long: "-122.6054"
+  nearby_rate_centers:
+  - name: BREMERTON
+    distance_km: 3.35
+  - name: PORT ORCH
+    distance_km: 5.35
+  - name: BAINBDG IS
+    distance_km: 7.44
+- country: US
+  region: WA
+  name: Entiat
+  lat: '47.6780'
+  long: "-120.2175"
+  nearby_rate_centers:
+  - name: ENTIAT
+    distance_km: 2.29
+  - name: DOUGLASCO
+    distance_km: 11.25
+  - name: WATERVILLE
+    distance_km: 11.25
+  - name: CHELAN
+    distance_km: 23.35
+- country: US
+  region: WA
+  name: Enumclaw
+  lat: '47.2018'
+  long: "-121.9897"
+  nearby_rate_centers:
+  - name: ENUMCLAW
+    distance_km: 0.18
+  - name: BUCKLEY
+    distance_km: 6.04
+  - name: SO PRAIRIE
+    distance_km: 11.21
+- country: US
+  region: WA
+  name: Ephrata
+  lat: '47.3122'
+  long: "-119.5341"
+  nearby_rate_centers:
+  - name: EPHRATA
+    distance_km: 1.84
+  - name: SOAP LAKE
+    distance_km: 8.57
+  - name: QUINCY
+    distance_km: 25.32
+- country: US
+  region: WA
+  name: Erlands Point
+  lat: '47.6038'
+  long: "-122.6940"
+  nearby_rate_centers:
+  - name: SILVERDALE
+    distance_km: 4.31
+  - name: BREMERTON
+    distance_km: 5.97
+  - name: PORT ORCH
+    distance_km: 8.14
+- country: US
+  region: WA
+  name: Eschbach
+  lat: '46.6670'
+  long: "-120.6337"
+  nearby_rate_centers:
+  - name: COWICHE
+    distance_km: 5.86
+  - name: SELAH
+    distance_km: 8.4
+  - name: NACHES
+    distance_km: 8.56
+- country: US
+  region: WA
+  name: Esperance
+  lat: '47.7937'
+  long: "-122.3469"
+  nearby_rate_centers:
+  - name: HALLS LAKE
+    distance_km: 1.69
+  - name: RICHMNDBCH
+    distance_km: 3.77
+  - name: KINGSTON
+    distance_km: 11.28
+- country: US
+  region: WA
+  name: Everett
+  lat: '47.9525'
+  long: "-122.1669"
+  nearby_rate_centers:
+  - name: EVERETT
+    distance_km: 4.3
+  - name: SNOHOMISH
+    distance_km: 7.1
+  - name: SILVERLAKE
+    distance_km: 8.32
+- country: US
+  region: WA
+  name: Everson
+  lat: '48.9125'
+  long: "-122.3507"
+  nearby_rate_centers:
+  - name: EVERSON
+    distance_km: 0.84
+  - name: WHATCOMCTY
+    distance_km: 7.07
+  - name: SUMAS
+    distance_km: 10.75
+- country: US
+  region: WA
+  name: Fairchild AFB
+  lat: '47.6187'
+  long: "-117.6484"
+  nearby_rate_centers:
+  - name: MEDICAL LK
+    distance_km: 5.35
+  - name: CHENEY
+    distance_km: 15.25
+  - name: SPOKANE
+    distance_km: 16.25
+- country: US
+  region: WA
+  name: Fairfield
+  lat: '47.3848'
+  long: "-117.1748"
+  nearby_rate_centers:
+  - name: FAIRFIELD
+    distance_km: 0.24
+  - name: LATAH
+    distance_km: 11.12
+  - name: ROCKFORD
+    distance_km: 14.65
+- country: US
+  region: WA
+  name: Fairwood
+  lat: '47.4467'
+  long: "-122.1430"
+  nearby_rate_centers:
+  - name: RENTON
+    distance_km: 6.77
+  - name: MAPLE VLY
+    distance_km: 9.23
+  - name: KENT
+    distance_km: 9.94
+- country: US
+  region: WA
+  name: Fall City
+  lat: '47.5717'
+  long: "-121.9133"
+  nearby_rate_centers:
+  - name: FALL CITY
+    distance_km: 1.92
+  - name: CARNATION
+    distance_km: 8.78
+  - name: AMES LAKE
+    distance_km: 9.32
+- country: US
+  region: WA
+  name: Farmington
+  lat: '47.0887'
+  long: "-117.0464"
+  nearby_rate_centers:
+  - name: FARMINGTON
+    distance_km: 0.18
+  - name: GARFIELD
+    distance_km: 11.97
+  - name: OAKESDALE
+    distance_km: 15.45
+- country: US
+  region: WA
+  name: Federal Way
+  lat: '47.3091'
+  long: "-122.3358"
+  nearby_rate_centers:
+  - name: TACOMAWVLY
+    distance_km: 4.94
+  - name: AUBURN
+    distance_km: 8.59
+  - name: TACOMA
+    distance_km: 9.61
+- country: US
+  region: WA
+  name: Felida
+  lat: '45.7138'
+  long: "-122.7103"
+  nearby_rate_centers:
+  - name: VANCOUVER
+    distance_km: 10.48
+  - name: RIDGEFIELD
+    distance_km: 11.91
+  - name: BATTLEGRND
+    distance_km: 16.4
+- country: US
+  region: WA
+  name: Fern Prairie
+  lat: '45.6370'
+  long: "-122.3963"
+  nearby_rate_centers:
+  - name: CAMAS
+    distance_km: 5.25
+  - name: WASHGL RIV
+    distance_km: 5.25
+  - name: WASHOUGAL
+    distance_km: 5.25
+  - name: BATTLEGRND
+    distance_km: 19.07
+  - name: VANCOUVER
+    distance_km: 21.52
+- country: US
+  region: WA
+  name: Ferndale
+  lat: '48.8526'
+  long: "-122.5894"
+  nearby_rate_centers:
+  - name: FERNDALE
+    distance_km: 0.31
+  - name: LAUREL
+    distance_km: 7.69
+  - name: CUSTER
+    distance_km: 7.92
+- country: US
+  region: WA
+  name: Fife
+  lat: '47.2329'
+  long: "-122.3518"
+  nearby_rate_centers:
+  - name: TACOMAWVLY
+    distance_km: 3.77
+  - name: PUYALLUP
+    distance_km: 6.06
+  - name: TACOMA
+    distance_km: 6.94
+- country: US
+  region: WA
+  name: Fife Heights
+  lat: '47.2596'
+  long: "-122.3460"
+  nearby_rate_centers:
+  - name: TACOMAWVLY
+    distance_km: 1.03
+  - name: TACOMA
+    distance_km: 6.87
+  - name: PUYALLUP
+    distance_km: 8.41
+- country: US
+  region: WA
+  name: Finley
+  lat: '46.1697'
+  long: "-119.0447"
+  nearby_rate_centers:
+  - name: KENNEWICK
+    distance_km: 7.46
+  - name: PASCO
+    distance_km: 8.32
+  - name: RICHLAND
+    distance_km: 21.14
+- country: US
+  region: WA
+  name: Fircrest
+  lat: '47.2307'
+  long: "-122.5157"
+  nearby_rate_centers:
+  - name: TACOMA
+    distance_km: 6.61
+  - name: FOX ISLAND
+    distance_km: 9.64
+  - name: ARLETTA
+    distance_km: 12.57
+- country: US
+  region: WA
+  name: Five Corners
+  lat: '45.6883'
+  long: "-122.5738"
+  nearby_rate_centers:
+  - name: VANCOUVER
+    distance_km: 10.52
+  - name: BATTLEGRND
+    distance_km: 11.27
+  - name: CAMAS
+    distance_km: 16.95
+  - name: WASHGL RIV
+    distance_km: 16.95
+  - name: WASHOUGAL
+    distance_km: 16.95
+- country: US
+  region: WA
+  name: Fobes Hill
+  lat: '47.9392'
+  long: "-122.1341"
+  nearby_rate_centers:
+  - name: SNOHOMISH
+    distance_km: 4.26
+  - name: EVERETT
+    distance_km: 6.99
+  - name: SILVERLAKE
+    distance_km: 8.01
+- country: US
+  region: WA
+  name: Fords Prairie
+  lat: '46.7459'
+  long: "-123.0030"
+  nearby_rate_centers:
+  - name: CENTRALIA
+    distance_km: 4.67
+  - name: CHEHALIS
+    distance_km: 10.31
+  - name: ROCHESTER
+    distance_km: 11.17
+- country: US
+  region: WA
+  name: Forks
+  lat: '47.9527'
+  long: "-124.3903"
+  nearby_rate_centers:
+  - name: FORKS
+    distance_km: 0.33
+  - name: CLALLAMBAY
+    distance_km: 35.33
+  - name: CLEARWATER
+    distance_km: 42.6
+- country: US
+  region: WA
+  name: Fort Lewis
+  lat: '47.0955'
+  long: "-122.5674"
+  nearby_rate_centers:
+  - name: ROY
+    distance_km: 10.93
+  - name: YELM
+    distance_km: 17.28
+  - name: FOX ISLAND
+    distance_km: 19.65
+- country: US
+  region: WA
+  name: Four Lakes
+  lat: '47.5576'
+  long: "-117.5818"
+  nearby_rate_centers:
+  - name: MEDICAL LK
+    distance_km: 7.19
+  - name: CHENEY
+    distance_km: 7.43
+  - name: SPOKANE
+    distance_km: 15.43
+- country: US
+  region: WA
+  name: Fox Island
+  lat: '47.2477'
+  long: "-122.6256"
+  nearby_rate_centers:
+  - name: FOX ISLAND
+    distance_km: 2.16
+  - name: ARLETTA
+    distance_km: 4.79
+  - name: LAKEBAY
+    distance_km: 10.3
+- country: US
+  region: WA
+  name: Frederickson
+  lat: '47.0916'
+  long: "-122.3603"
+  nearby_rate_centers:
+  - name: GRAHAM
+    distance_km: 7.83
+  - name: ORTING
+    distance_km: 11.28
+  - name: PUYALLUP
+    distance_km: 11.82
+- country: US
+  region: WA
+  name: Freeland
+  lat: '48.0186'
+  long: "-122.5359"
+  nearby_rate_centers:
+  - name: SO WHIDBEY
+    distance_km: 5.53
+  - name: PORTLUDLOW
+    distance_km: 14.55
+  - name: HAT ISLAND
+    distance_km: 16.69
+- country: US
+  region: WA
+  name: Friday Harbor
+  lat: '48.5324'
+  long: "-123.0657"
+  nearby_rate_centers:
+  - name: FRIDAY HBR
+    distance_km: 2.82
+  - name: SAN JUAN
+    distance_km: 2.82
+  - name: LOPEZ
+    distance_km: 10.93
+  - name: EASTSOUND
+    distance_km: 21.15
+- country: US
+  region: WA
+  name: Garfield
+  lat: '47.0103'
+  long: "-117.1395"
+  nearby_rate_centers:
+  - name: GARFIELD
+    distance_km: 0.94
+  - name: FARMINGTON
+    distance_km: 11.31
+  - name: PALOUSE
+    distance_km: 12.25
+- country: US
+  region: WA
+  name: Garrett
+  lat: '46.0608'
+  long: "-118.3990"
+  nearby_rate_centers:
+  - name: WALLAWALLA
+    distance_km: 4.87
+  - name: TOUCHET
+    distance_km: 20.76
+  - name: PRESCOTT
+    distance_km: 27.26
+- country: US
+  region: WA
+  name: Geneva
+  lat: '48.7446'
+  long: "-122.4043"
+  nearby_rate_centers:
+  - name: BELLINGHAM
+    distance_km: 5.14
+  - name: LAUREL
+    distance_km: 13.95
+  - name: WHATCOMCTY
+    distance_km: 16.16
+- country: US
+  region: WA
+  name: George
+  lat: '47.0846'
+  long: "-119.8600"
+  nearby_rate_centers:
+  - name: GEORGE
+    distance_km: 1.03
+  - name: QUINCY
+    distance_km: 16.49
+  - name: VANTAGE
+    distance_km: 16.82
+- country: US
+  region: WA
+  name: Gig Harbor
+  lat: '47.3352'
+  long: "-122.5964"
+  nearby_rate_centers:
+  - name: GIG HARBOR
+    distance_km: 0.85
+  - name: ARLETTA
+    distance_km: 7.82
+  - name: FOX ISLAND
+    distance_km: 8.08
+- country: US
+  region: WA
+  name: Glacier
+  lat: '48.8908'
+  long: "-121.9351"
+  nearby_rate_centers:
+  - name: ACME
+    distance_km: 21.76
+  - name: DEMING
+    distance_km: 21.76
+  - name: SUMAS
+    distance_km: 26.93
+  - name: EVERSON
+    distance_km: 29.7
+- country: US
+  region: WA
+  name: Gleed
+  lat: '46.6594'
+  long: "-120.6025"
+  nearby_rate_centers:
+  - name: SELAH
+    distance_km: 5.98
+  - name: COWICHE
+    distance_km: 8.3
+  - name: YAKIMA
+    distance_km: 9.96
+- country: US
+  region: WA
+  name: Glenwood
+  lat: '46.0228'
+  long: "-121.2925"
+  nearby_rate_centers:
+  - name: GLENWOOD
+    distance_km: 0.97
+  - name: TROUT LAKE
+    distance_km: 18.16
+  - name: KLICKITAT
+    distance_km: 24.52
+- country: US
+  region: WA
+  name: Gold Bar
+  lat: '47.8563'
+  long: "-121.6921"
+  nearby_rate_centers:
+  - name: SULTAN
+    distance_km: 9.19
+  - name: MONROE
+    distance_km: 20.91
+  - name: CARNATION
+    distance_km: 27.93
+- country: US
+  region: WA
+  name: Goldendale
+  lat: '45.8192'
+  long: "-120.8233"
+  nearby_rate_centers:
+  - name: GOLDENDALE
+    distance_km: 0.88
+  - name: WISHRAM
+    distance_km: 20.1
+  - name: KLICKITAT
+    distance_km: 25.19
+- country: US
+  region: WA
+  name: Gorst
+  lat: '47.5239'
+  long: "-122.7053"
+  nearby_rate_centers:
+  - name: PORT ORCH
+    distance_km: 5.95
+  - name: BREMERTON
+    distance_km: 7.04
+  - name: BELFAIR
+    distance_km: 12.22
+- country: US
+  region: WA
+  name: Graham
+  lat: '47.0322'
+  long: "-122.2827"
+  nearby_rate_centers:
+  - name: GRAHAM
+    distance_km: 1.02
+  - name: ORTING
+    distance_km: 8.37
+  - name: PUYALLUP
+    distance_km: 17.63
+- country: US
+  region: WA
+  name: Grand Coulee
+  lat: '47.9392'
+  long: "-119.0029"
+  nearby_rate_centers:
+  - name: COULEE DAM
+    distance_km: 3.29
+  - name: NESPELEM
+    distance_km: 25.52
+  - name: ALMIRA
+    distance_km: 26.2
+- country: US
+  region: WA
+  name: Grand Mound
+  lat: '46.8018'
+  long: "-123.0118"
+  nearby_rate_centers:
+  - name: ROCHESTER
+    distance_km: 6.62
+  - name: CENTRALIA
+    distance_km: 10.36
+  - name: BUCODA
+    distance_km: 10.62
+- country: US
+  region: WA
+  name: Grandview
+  lat: '46.2443'
+  long: "-119.9092"
+  nearby_rate_centers:
+  - name: GRANDVIEW
+    distance_km: 0.67
+  - name: MABTON
+    distance_km: 8.06
+  - name: PROSSER
+    distance_km: 11.56
+- country: US
+  region: WA
+  name: Granger
+  lat: '46.3454'
+  long: "-120.1925"
+  nearby_rate_centers:
+  - name: GRANGER
+    distance_km: 0.98
+  - name: ZILLAH
+    distance_km: 7.9
+  - name: TOPPENISH
+    distance_km: 9.63
+- country: US
+  region: WA
+  name: Granite Falls
+  lat: '48.0874'
+  long: "-121.9706"
+  nearby_rate_centers:
+  - name: GRANITEFLS
+    distance_km: 0.7
+  - name: MARYSVILLE
+    distance_km: 15.89
+  - name: ARLINGTON
+    distance_km: 16.02
+- country: US
+  region: WA
+  name: Grapeview
+  lat: '47.3316'
+  long: "-122.8413"
+  nearby_rate_centers:
+  - name: LAKEBAY
+    distance_km: 10.04
+  - name: BELFAIR
+    distance_km: 13.11
+  - name: ARLETTA
+    distance_km: 14.45
+- country: US
+  region: WA
+  name: Grayland
+  lat: '46.8304'
+  long: "-124.0898"
+  nearby_rate_centers:
+  - name: GRAYLAND
+    distance_km: 2.69
+  - name: GRAYHARBCO
+    distance_km: 7.22
+  - name: WESTPORT
+    distance_km: 7.22
+  - name: OCOSTA
+    distance_km: 8.03
+- country: US
+  region: WA
+  name: Grays River
+  lat: '46.3608'
+  long: "-123.5890"
+  nearby_rate_centers:
+  - name: GRAYSRIVER
+    distance_km: 1.32
+  - name: NASELLE
+    distance_km: 16.62
+  - name: CATHLAMET
+    distance_km: 23.96
+- country: US
+  region: WA
+  name: Green Bluff
+  lat: '47.8184'
+  long: "-117.2748"
+  nearby_rate_centers:
+  - name: ELK-GRNBLF
+    distance_km: 11.69
+  - name: NEWMANLAKE
+    distance_km: 18.11
+  - name: SPOKANE
+    distance_km: 21.68
+- country: US
+  region: WA
+  name: Greenwater
+  lat: '47.1465'
+  long: "-121.6320"
+  nearby_rate_centers:
+  - name: CRYSTAL MT
+    distance_km: 25.55
+  - name: ENUMCLAW
+    distance_km: 27.73
+  - name: BUCKLEY
+    distance_km: 30.53
+- country: US
+  region: WA
+  name: Hamilton
+  lat: '48.5283'
+  long: "-121.9839"
+  nearby_rate_centers:
+  - name: CONCRETE
+    distance_km: 17.08
+  - name: SEDROWOLLY
+    distance_km: 18.76
+  - name: ALGER
+    distance_km: 26.54
+  - name: BURLINGTON
+    distance_km: 26.54
+  - name: EDISON
+    distance_km: 26.54
+- country: US
+  region: WA
+  name: Hansville
+  lat: '47.8979'
+  long: "-122.5579"
+  nearby_rate_centers:
+  - name: PORTLUDLOW
+    distance_km: 10.08
+  - name: KINGSTON
+    distance_km: 11.73
+  - name: SO WHIDBEY
+    distance_km: 14.1
+- country: US
+  region: WA
+  name: Harrah
+  lat: '46.4061'
+  long: "-120.5410"
+  nearby_rate_centers:
+  - name: HARRAH
+    distance_km: 0.45
+  - name: WAPATO
+    distance_km: 10.59
+  - name: WHITE SWAN
+    distance_km: 15.18
+- country: US
+  region: WA
+  name: Harrington
+  lat: '47.4803'
+  long: "-118.2554"
+  nearby_rate_centers:
+  - name: HARRINGTON
+    distance_km: 0.44
+  - name: DAVENPORT
+    distance_km: 20.3
+  - name: SPRAGUE
+    distance_km: 29.08
+- country: US
+  region: WA
+  name: Hartline
+  lat: '47.6894'
+  long: "-119.1081"
+  nearby_rate_centers:
+  - name: ALMIRA
+    distance_km: 12.48
+  - name: COULEECITY
+    distance_km: 16.72
+  - name: WILSON CRK
+    distance_km: 29.6
+- country: US
+  region: WA
+  name: Hat Island
+  lat: '48.0130'
+  long: "-122.3201"
+  nearby_rate_centers:
+  - name: HAT ISLAND
+    distance_km: 0.86
+  - name: EVERETT
+    distance_km: 9.57
+  - name: SO WHIDBEY
+    distance_km: 10.67
+- country: US
+  region: WA
+  name: Hatton
+  lat: '46.7735'
+  long: "-118.8277"
+  nearby_rate_centers:
+  - name: CONNELL
+    distance_km: 11.97
+  - name: MESA
+    distance_km: 25.13
+  - name: KAHLOTUS
+    distance_km: 25.41
+- country: US
+  region: WA
+  name: Hazel Dell
+  lat: '45.6797'
+  long: "-122.6553"
+  nearby_rate_centers:
+  - name: VANCOUVER
+    distance_km: 6.4
+  - name: BATTLEGRND
+    distance_km: 15.4
+  - name: RIDGEFIELD
+    distance_km: 16.88
+- country: US
+  region: WA
+  name: Herron Island
+  lat: '47.2645'
+  long: "-122.8348"
+  nearby_rate_centers:
+  - name: LAKEBAY
+    distance_km: 5.6
+  - name: ARLETTA
+    distance_km: 13.02
+  - name: FOX ISLAND
+    distance_km: 15.32
+- country: US
+  region: WA
+  name: High Bridge
+  lat: '47.7968'
+  long: "-122.0281"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 8.07
+  - name: BOTHELL
+    distance_km: 13.32
+  - name: DUVALL
+    distance_km: 13.32
+  - name: SNOHOMISH
+    distance_km: 13.96
+- country: US
+  region: WA
+  name: Hobart
+  lat: '47.4120'
+  long: "-121.9960"
+  nearby_rate_centers:
+  - name: MAPLE VLY
+    distance_km: 3.82
+  - name: BLACKDIMND
+    distance_km: 10.83
+  - name: ISSAQUAH
+    distance_km: 13.0
+- country: US
+  region: WA
+  name: Hockinson
+  lat: '45.7302'
+  long: "-122.4833"
+  nearby_rate_centers:
+  - name: BATTLEGRND
+    distance_km: 6.71
+  - name: YACOLT
+    distance_km: 16.36
+  - name: CAMAS
+    distance_km: 16.65
+  - name: WASHGL RIV
+    distance_km: 16.65
+  - name: WASHOUGAL
+    distance_km: 16.65
+- country: US
+  region: WA
+  name: Home
+  lat: '47.2790'
+  long: "-122.7745"
+  nearby_rate_centers:
+  - name: LAKEBAY
+    distance_km: 2.39
+  - name: ARLETTA
+    distance_km: 8.33
+  - name: FOX ISLAND
+    distance_km: 10.85
+- country: US
+  region: WA
+  name: Hoodsport
+  lat: '47.4022'
+  long: "-123.1535"
+  nearby_rate_centers:
+  - name: HOODSPORT
+    distance_km: 1.33
+  - name: UNION
+    distance_km: 6.55
+  - name: DEWATTO
+    distance_km: 17.18
+- country: US
+  region: WA
+  name: Hoquiam
+  lat: '46.9863'
+  long: "-123.9022"
+  nearby_rate_centers:
+  - name: ABERDEEN
+    distance_km: 6.09
+  - name: OCOSTA
+    distance_km: 14.47
+  - name: GRAYHARBCO
+    distance_km: 18.92
+  - name: WESTPORT
+    distance_km: 18.92
+- country: US
+  region: WA
+  name: Humptulips
+  lat: '47.2491'
+  long: "-123.9348"
+  nearby_rate_centers:
+  - name: PACIFICBCH
+    distance_km: 20.72
+  - name: COPALIS
+    distance_km: 22.94
+  - name: LKQUINAULT
+    distance_km: 25.29
+- country: US
+  region: WA
+  name: Hunts Point
+  lat: '47.6470'
+  long: "-122.2306"
+  nearby_rate_centers:
+  - name: KIRKLAND
+    distance_km: 4.07
+  - name: BELLEVUE
+    distance_km: 4.57
+  - name: SEATTLE
+    distance_km: 8.69
+- country: US
+  region: WA
+  name: Ilwaco
+  lat: '46.3100'
+  long: "-124.0417"
+  nearby_rate_centers:
+  - name: LONG BEACH
+    distance_km: 5.25
+  - name: CHINOOK
+    distance_km: 8.84
+  - name: NASELLE
+    distance_km: 18.96
+- country: US
+  region: WA
+  name: Inchelium
+  lat: '48.3379'
+  long: "-118.2372"
+  nearby_rate_centers:
+  - name: HUNTERS
+    distance_km: 24.69
+  - name: KETTLE FLS
+    distance_km: 33.09
+  - name: COLVILLE
+    distance_km: 33.58
+- country: US
+  region: WA
+  name: Index
+  lat: '47.8212'
+  long: "-121.5561"
+  nearby_rate_centers:
+  - name: SKYKOMISH
+    distance_km: 18.56
+  - name: SULTAN
+    distance_km: 19.95
+  - name: MONROE
+    distance_km: 31.35
+- country: US
+  region: WA
+  name: Indianola
+  lat: '47.7564'
+  long: "-122.5158"
+  nearby_rate_centers:
+  - name: KINGSTON
+    distance_km: 5.09
+  - name: RICHMNDBCH
+    distance_km: 9.62
+  - name: POULSBO
+    distance_km: 12.23
+- country: US
+  region: WA
+  name: Ione
+  lat: '48.7400'
+  long: "-117.4215"
+  nearby_rate_centers:
+  - name: IONE
+    distance_km: 0.39
+  - name: METALINFLS
+    distance_km: 13.61
+  - name: NORTHPORT
+    distance_km: 32.98
+- country: US
+  region: WA
+  name: Issaquah
+  lat: '47.5439'
+  long: "-122.0471"
+  nearby_rate_centers:
+  - name: ISSAQUAH
+    distance_km: 2.18
+  - name: RENTON
+    distance_km: 11.08
+  - name: FALL CITY
+    distance_km: 12.19
+- country: US
+  region: WA
+  name: Jamestown
+  lat: '48.1229'
+  long: "-123.0911"
+  nearby_rate_centers:
+  - name: SEQUIM
+    distance_km: 4.4
+  - name: PT ANGELES
+    distance_km: 13.58
+  - name: GARDINER
+    distance_km: 15.26
+- country: US
+  region: WA
+  name: Kahlotus
+  lat: '46.6433'
+  long: "-118.5559"
+  nearby_rate_centers:
+  - name: KAHLOTUS
+    distance_km: 0.16
+  - name: WASHTUCNA
+    distance_km: 22.9
+  - name: CONNELL
+    distance_km: 23.34
+- country: US
+  region: WA
+  name: Kalama
+  lat: '46.0164'
+  long: "-122.8402"
+  nearby_rate_centers:
+  - name: KALAMA
+    distance_km: 0.77
+  - name: WOODLAND
+    distance_km: 13.87
+  - name: LONGVIEW
+    distance_km: 15.25
+- country: US
+  region: WA
+  name: Kapowsin
+  lat: '46.9727'
+  long: "-122.2273"
+  nearby_rate_centers:
+  - name: GRAHAM
+    distance_km: 8.85
+  - name: EATONVILLE
+    distance_km: 12.44
+  - name: ORTING
+    distance_km: 13.07
+- country: US
+  region: WA
+  name: Kayak Point
+  lat: '48.1387'
+  long: "-122.3342"
+  nearby_rate_centers:
+  - name: STANWOOD
+    distance_km: 11.71
+  - name: HAT ISLAND
+    distance_km: 13.51
+  - name: MARYSVILLE
+    distance_km: 15.09
+- country: US
+  region: WA
+  name: Keller
+  lat: '48.0852'
+  long: "-118.7164"
+  nearby_rate_centers:
+  - name: NESPELEM
+    distance_km: 21.46
+  - name: COULEE DAM
+    distance_km: 24.18
+  - name: WILBUR
+    distance_km: 36.55
+- country: US
+  region: WA
+  name: Kelso
+  lat: '46.1236'
+  long: "-122.8909"
+  nearby_rate_centers:
+  - name: LONGVIEW
+    distance_km: 4.21
+  - name: KALAMA
+    distance_km: 13.17
+  - name: CASTLEROCK
+    distance_km: 17.1
+- country: US
+  region: WA
+  name: Kendall
+  lat: '48.9156'
+  long: "-122.1336"
+  nearby_rate_centers:
+  - name: ACME
+    distance_km: 11.57
+  - name: DEMING
+    distance_km: 11.57
+  - name: SUMAS
+    distance_km: 13.14
+  - name: EVERSON
+    distance_km: 15.07
+- country: US
+  region: WA
+  name: Kenmore
+  lat: '47.7516'
+  long: "-122.2489"
+  nearby_rate_centers:
+  - name: BOTHELL
+    distance_km: 3.98
+  - name: DUVALL
+    distance_km: 3.98
+  - name: HALLS LAKE
+    distance_km: 7.99
+  - name: KIRKLAND
+    distance_km: 9.31
+- country: US
+  region: WA
+  name: Kennewick
+  lat: '46.1978'
+  long: "-119.1732"
+  nearby_rate_centers:
+  - name: KENNEWICK
+    distance_km: 4.01
+  - name: PASCO
+    distance_km: 6.97
+  - name: RICHLAND
+    distance_km: 11.58
+- country: US
+  region: WA
+  name: Kent
+  lat: '47.3887'
+  long: "-122.2128"
+  nearby_rate_centers:
+  - name: KENT
+    distance_km: 1.78
+  - name: DES MOINES
+    distance_km: 8.72
+  - name: AUBURN
+    distance_km: 8.93
+- country: US
+  region: WA
+  name: Ketron Island
+  lat: '47.1569'
+  long: "-122.6343"
+  nearby_rate_centers:
+  - name: FOX ISLAND
+    distance_km: 12.21
+  - name: ARLETTA
+    distance_km: 14.08
+  - name: LAKEBAY
+    distance_km: 14.89
+- country: US
+  region: WA
+  name: Kettle Falls
+  lat: '48.6055'
+  long: "-118.0620"
+  nearby_rate_centers:
+  - name: KETTLE FLS
+    distance_km: 0.69
+  - name: COLVILLE
+    distance_km: 13.81
+  - name: NORTHPORT
+    distance_km: 40.24
+- country: US
+  region: WA
+  name: Key Center
+  lat: '47.3376'
+  long: "-122.7506"
+  nearby_rate_centers:
+  - name: LAKEBAY
+    distance_km: 8.71
+  - name: ARLETTA
+    distance_km: 8.99
+  - name: FOX ISLAND
+    distance_km: 11.93
+- country: US
+  region: WA
+  name: Keyport
+  lat: '47.6999'
+  long: "-122.6240"
+  nearby_rate_centers:
+  - name: POULSBO
+    distance_km: 3.96
+  - name: SILVERDALE
+    distance_km: 8.41
+  - name: BAINBDG IS
+    distance_km: 11.35
+- country: US
+  region: WA
+  name: Kingston
+  lat: '47.7927'
+  long: "-122.5078"
+  nearby_rate_centers:
+  - name: KINGSTON
+    distance_km: 1.16
+  - name: RICHMNDBCH
+    distance_km: 8.92
+  - name: HALLS LAKE
+    distance_km: 13.54
+- country: US
+  region: WA
+  name: Kirkland
+  lat: '47.6970'
+  long: "-122.2057"
+  nearby_rate_centers:
+  - name: KIRKLAND
+    distance_km: 2.47
+  - name: BOTHELL
+    distance_km: 7.77
+  - name: DUVALL
+    distance_km: 7.77
+  - name: BELLEVUE
+    distance_km: 9.89
+- country: US
+  region: WA
+  name: Kitsap Lake
+  lat: '47.5905'
+  long: "-122.7088"
+  nearby_rate_centers:
+  - name: SILVERDALE
+    distance_km: 5.85
+  - name: BREMERTON
+    distance_km: 6.04
+  - name: PORT ORCH
+    distance_km: 7.77
+- country: US
+  region: WA
+  name: Kittitas
+  lat: '46.9837'
+  long: "-120.4189"
+  nearby_rate_centers:
+  - name: KITTITAS
+    distance_km: 0.78
+  - name: ELLENSBURG
+    distance_km: 9.67
+  - name: THORP
+    distance_km: 19.46
+- country: US
+  region: WA
+  name: Klickitat
+  lat: '45.8180'
+  long: "-121.1626"
+  nearby_rate_centers:
+  - name: KLICKITAT
+    distance_km: 1.46
+  - name: LYLE
+    distance_km: 16.0
+  - name: DALLESPORT
+    distance_km: 21.18
+- country: US
+  region: WA
+  name: Krupp
+  lat: '47.4105'
+  long: "-118.9887"
+  nearby_rate_centers:
+  - name: WILSON CRK
+    distance_km: 9.95
+  - name: ODESSA
+    distance_km: 24.39
+  - name: COULEECITY
+    distance_km: 31.68
+- country: US
+  region: WA
+  name: La Center
+  lat: '45.8601'
+  long: "-122.6756"
+  nearby_rate_centers:
+  - name: LA CENTER
+    distance_km: 1.18
+  - name: RIDGEFIELD
+    distance_km: 7.07
+  - name: WOODLAND
+    distance_km: 7.84
+- country: US
+  region: WA
+  name: La Conner
+  lat: '48.3926'
+  long: "-122.4945"
+  nearby_rate_centers:
+  - name: BIG LAKE
+    distance_km: 12.13
+  - name: CONWAY
+    distance_km: 12.13
+  - name: MT VERNON
+    distance_km: 12.13
+  - name: ALGER
+    distance_km: 14.86
+  - name: BURLINGTON
+    distance_km: 14.86
+  - name: EDISON
+    distance_km: 14.86
+  - name: ANACORTES
+    distance_km: 15.03
+- country: US
+  region: WA
+  name: La Grande
+  lat: '46.8199'
+  long: "-122.2962"
+  nearby_rate_centers:
+  - name: EATONVILLE
+    distance_km: 5.34
+  - name: ASHFORD
+    distance_km: 21.25
+  - name: GRAHAM
+    distance_km: 24.42
+- country: US
+  region: WA
+  name: LaCrosse
+  lat: '46.8013'
+  long: "-117.9025"
+  nearby_rate_centers:
+  - name: LACROSSE
+    distance_km: 2.42
+  - name: BENGE
+    distance_km: 19.9
+  - name: ENDICOTT
+    distance_km: 21.46
+- country: US
+  region: WA
+  name: Lacey
+  lat: '47.0462'
+  long: "-122.7933"
+  nearby_rate_centers:
+  - name: OLYMPIA
+    distance_km: 7.97
+  - name: YELM
+    distance_km: 18.02
+  - name: ROY
+    distance_km: 19.62
+- country: US
+  region: WA
+  name: Lake Bosworth
+  lat: '48.0553'
+  long: "-121.9811"
+  nearby_rate_centers:
+  - name: GRANITEFLS
+    distance_km: 3.0
+  - name: MARYSVILLE
+    distance_km: 14.62
+  - name: SNOHOMISH
+    distance_km: 17.52
+- country: US
+  region: WA
+  name: Lake Cassidy
+  lat: '48.0639'
+  long: "-122.0920"
+  nearby_rate_centers:
+  - name: MARYSVILLE
+    distance_km: 6.51
+  - name: GRANITEFLS
+    distance_km: 8.88
+  - name: EVERETT
+    distance_km: 11.82
+- country: US
+  region: WA
+  name: Lake Cavanaugh
+  lat: '48.3225'
+  long: "-122.0122"
+  nearby_rate_centers:
+  - name: ARLINGTON
+    distance_km: 16.83
+  - name: SEDROWOLLY
+    distance_km: 25.74
+  - name: BIG LAKE
+    distance_km: 25.86
+  - name: CONWAY
+    distance_km: 25.86
+  - name: MT VERNON
+    distance_km: 25.86
+- country: US
+  region: WA
+  name: Lake Forest Park
+  lat: '47.7574'
+  long: "-122.2864"
+  nearby_rate_centers:
+  - name: HALLS LAKE
+    distance_km: 5.69
+  - name: BOTHELL
+    distance_km: 6.49
+  - name: DUVALL
+    distance_km: 6.49
+  - name: RICHMNDBCH
+    distance_km: 8.09
+- country: US
+  region: WA
+  name: Lake Goodwin
+  lat: '48.1343'
+  long: "-122.2785"
+  nearby_rate_centers:
+  - name: MARYSVILLE
+    distance_km: 11.82
+  - name: ARLINGTON
+    distance_km: 13.15
+  - name: HAT ISLAND
+    distance_km: 13.15
+- country: US
+  region: WA
+  name: Lake Holm
+  lat: '47.2985'
+  long: "-122.1335"
+  nearby_rate_centers:
+  - name: AUBURN
+    distance_km: 6.75
+  - name: BLACKDIMND
+    distance_km: 9.4
+  - name: KENT
+    distance_km: 12.0
+- country: US
+  region: WA
+  name: Lake Ketchum
+  lat: '48.2823'
+  long: "-122.3423"
+  nearby_rate_centers:
+  - name: STANWOOD
+    distance_km: 5.44
+  - name: BIG LAKE
+    distance_km: 14.74
+  - name: CONWAY
+    distance_km: 14.74
+  - name: MT VERNON
+    distance_km: 14.74
+  - name: ARLINGTON
+    distance_km: 19.26
+- country: US
+  region: WA
+  name: Lake Marcel-Stillwater
+  lat: '47.6926'
+  long: "-121.9151"
+  nearby_rate_centers:
+  - name: CARNATION
+    distance_km: 4.72
+  - name: AMES LAKE
+    distance_km: 5.94
+  - name: FALL CITY
+    distance_km: 14.04
+- country: US
+  region: WA
+  name: Lake McMurray
+  lat: '48.3178'
+  long: "-122.2320"
+  nearby_rate_centers:
+  - name: BIG LAKE
+    distance_km: 13.13
+  - name: CONWAY
+    distance_km: 13.13
+  - name: MT VERNON
+    distance_km: 13.13
+  - name: STANWOOD
+    distance_km: 13.89
+  - name: ARLINGTON
+    distance_km: 16.37
+- country: US
+  region: WA
+  name: Lake Morton-Berrydale
+  lat: '47.3325'
+  long: "-122.1032"
+  nearby_rate_centers:
+  - name: BLACKDIMND
+    distance_km: 7.19
+  - name: MAPLE VLY
+    distance_km: 8.66
+  - name: AUBURN
+    distance_km: 9.33
+- country: US
+  region: WA
+  name: Lake Roesiger
+  lat: '47.9837'
+  long: "-121.9128"
+  nearby_rate_centers:
+  - name: GRANITEFLS
+    distance_km: 11.89
+  - name: MONROE
+    distance_km: 14.56
+  - name: SULTAN
+    distance_km: 14.79
+- country: US
+  region: WA
+  name: Lake Shore
+  lat: '45.6911'
+  long: "-122.6911"
+  nearby_rate_centers:
+  - name: VANCOUVER
+    distance_km: 7.67
+  - name: RIDGEFIELD
+    distance_km: 14.73
+  - name: BATTLEGRND
+    distance_km: 16.54
+- country: US
+  region: WA
+  name: Lake Stevens
+  lat: '48.0024'
+  long: "-122.0953"
+  nearby_rate_centers:
+  - name: EVERETT
+    distance_km: 7.92
+  - name: MARYSVILLE
+    distance_km: 8.25
+  - name: SNOHOMISH
+    distance_km: 9.68
+- country: US
+  region: WA
+  name: Lake Stickney
+  lat: '47.8733'
+  long: "-122.2582"
+  nearby_rate_centers:
+  - name: SILVERLAKE
+    distance_km: 4.72
+  - name: HALLS LAKE
+    distance_km: 9.56
+  - name: BOTHELL
+    distance_km: 12.6
+  - name: DUVALL
+    distance_km: 12.6
+- country: US
+  region: WA
+  name: Lake Tapps
+  lat: '47.2307'
+  long: "-122.1695"
+  nearby_rate_centers:
+  - name: SUMNER
+    distance_km: 5.9
+  - name: AUBURN
+    distance_km: 9.52
+  - name: PUYALLUP
+    distance_km: 10.97
+- country: US
+  region: WA
+  name: Lakeland North
+  lat: '47.3374'
+  long: "-122.2812"
+  nearby_rate_centers:
+  - name: AUBURN
+    distance_km: 5.5
+  - name: KENT
+    distance_km: 6.09
+  - name: DES MOINES
+    distance_km: 7.85
+- country: US
+  region: WA
+  name: Lakeland South
+  lat: '47.2786'
+  long: "-122.2826"
+  nearby_rate_centers:
+  - name: TACOMAWVLY
+    distance_km: 4.22
+  - name: AUBURN
+    distance_km: 5.67
+  - name: SUMNER
+    distance_km: 9.49
+- country: US
+  region: WA
+  name: Lakeview
+  lat: '47.3755'
+  long: "-119.5044"
+  nearby_rate_centers:
+  - name: SOAP LAKE
+    distance_km: 1.28
+  - name: EPHRATA
+    distance_km: 7.76
+  - name: WILSON CRK
+    distance_km: 29.45
+- country: US
+  region: WA
+  name: Lakewood
+  lat: '47.1628'
+  long: "-122.5299"
+  nearby_rate_centers:
+  - name: TACOMA
+    distance_km: 12.57
+  - name: FOX ISLAND
+    distance_km: 13.88
+  - name: ARLETTA
+    distance_km: 16.68
+- country: US
+  region: WA
+  name: Lamont
+  lat: '47.2007'
+  long: "-117.9049"
+  nearby_rate_centers:
+  - name: SPRAGUE
+    distance_km: 12.17
+  - name: ST JOHN
+    distance_km: 27.24
+  - name: EDWALLTYLR
+    distance_km: 29.79
+- country: US
+  region: WA
+  name: Langley
+  lat: '48.0337'
+  long: "-122.4084"
+  nearby_rate_centers:
+  - name: SO WHIDBEY
+    distance_km: 5.0
+  - name: HAT ISLAND
+    distance_km: 7.41
+  - name: EVERETT
+    distance_km: 16.53
+- country: US
+  region: WA
+  name: Larch Way
+  lat: '47.8429'
+  long: "-122.2528"
+  nearby_rate_centers:
+  - name: SILVERLAKE
+    distance_km: 5.95
+  - name: HALLS LAKE
+    distance_km: 7.25
+  - name: BOTHELL
+    distance_km: 9.31
+  - name: DUVALL
+    distance_km: 9.31
+- country: US
+  region: WA
+  name: Latah
+  lat: '47.2822'
+  long: "-117.1557"
+  nearby_rate_centers:
+  - name: LATAH
+    distance_km: 0.39
+  - name: TEKOA
+    distance_km: 8.73
+  - name: FAIRFIELD
+    distance_km: 11.35
+- country: US
+  region: WA
+  name: Laurier
+  lat: '48.9974'
+  long: "-118.2248"
+  nearby_rate_centers:
+  - name: CURLEW
+    distance_km: 30.17
+  - name: NORTHPORT
+    distance_km: 33.48
+  - name: KETTLE FLS
+    distance_km: 44.81
+- country: US
+  region: WA
+  name: Leavenworth
+  lat: '47.5952'
+  long: "-120.6628"
+  nearby_rate_centers:
+  - name: LEAVENWTH
+    distance_km: 0.41
+  - name: CASHMERE
+    distance_km: 17.23
+  - name: WENATCHEE
+    distance_km: 32.11
+- country: US
+  region: WA
+  name: Lebam
+  lat: '46.5640'
+  long: "-123.5508"
+  nearby_rate_centers:
+  - name: PE ELL
+    distance_km: 19.09
+  - name: RAYMOND
+    distance_km: 19.86
+  - name: SOUTH BEND
+    distance_km: 21.86
+- country: US
+  region: WA
+  name: Lewisville
+  lat: '45.8128'
+  long: "-122.5143"
+  nearby_rate_centers:
+  - name: BATTLEGRND
+    distance_km: 3.35
+  - name: YACOLT
+    distance_km: 10.18
+  - name: AMBOY
+    distance_km: 11.53
+- country: US
+  region: WA
+  name: Lexington
+  lat: '46.1899'
+  long: "-122.9125"
+  nearby_rate_centers:
+  - name: LONGVIEW
+    distance_km: 6.75
+  - name: CASTLEROCK
+    distance_km: 9.66
+  - name: KALAMA
+    distance_km: 20.72
+- country: US
+  region: WA
+  name: Liberty Lake
+  lat: '47.6686'
+  long: "-117.1036"
+  nearby_rate_centers:
+  - name: LIBERTY LK
+    distance_km: 2.77
+  - name: NEWMANLAKE
+    distance_km: 6.54
+  - name: ROCKFORD
+    distance_km: 18.52
+- country: US
+  region: WA
+  name: Lind
+  lat: '46.9705'
+  long: "-118.6165"
+  nearby_rate_centers:
+  - name: LIND
+    distance_km: 0.37
+  - name: RITZVILLE
+    distance_km: 24.49
+  - name: WARDEN
+    distance_km: 32.02
+- country: US
+  region: WA
+  name: Lochsloy
+  lat: '48.0598'
+  long: "-122.0411"
+  nearby_rate_centers:
+  - name: GRANITEFLS
+    distance_km: 5.46
+  - name: MARYSVILLE
+    distance_km: 10.2
+  - name: EVERETT
+    distance_km: 14.36
+- country: US
+  region: WA
+  name: Lofall
+  lat: '47.8114'
+  long: "-122.6563"
+  nearby_rate_centers:
+  - name: POULSBO
+    distance_km: 10.4
+  - name: KINGSTON
+    distance_km: 11.92
+  - name: PORTLUDLOW
+    distance_km: 13.61
+- country: US
+  region: WA
+  name: Long Beach
+  lat: '46.3558'
+  long: "-124.0556"
+  nearby_rate_centers:
+  - name: LONG BEACH
+    distance_km: 0.32
+  - name: CHINOOK
+    distance_km: 12.72
+  - name: OCEAN PARK
+    distance_km: 15.21
+- country: US
+  region: WA
+  name: Longbranch
+  lat: '47.2257'
+  long: "-122.7739"
+  nearby_rate_centers:
+  - name: LAKEBAY
+    distance_km: 3.89
+  - name: ARLETTA
+    distance_km: 10.38
+  - name: FOX ISLAND
+    distance_km: 11.65
+- country: US
+  region: WA
+  name: Longview
+  lat: '46.1461'
+  long: "-122.9630"
+  nearby_rate_centers:
+  - name: LONGVIEW
+    distance_km: 2.06
+  - name: CASTLEROCK
+    distance_km: 15.1
+  - name: KALAMA
+    distance_km: 17.73
+- country: US
+  region: WA
+  name: Longview Heights
+  lat: '46.1794'
+  long: "-122.9568"
+  nearby_rate_centers:
+  - name: LONGVIEW
+    distance_km: 5.24
+  - name: CASTLEROCK
+    distance_km: 11.42
+  - name: KALAMA
+    distance_km: 20.78
+- country: US
+  region: WA
+  name: Loomis
+  lat: '48.8234'
+  long: "-119.6397"
+  nearby_rate_centers:
+  - name: OROVILLE
+    distance_km: 20.01
+  - name: LOOMIS
+    distance_km: 20.55
+  - name: TONASKET
+    distance_km: 20.55
+  - name: MT HULL
+    distance_km: 22.23
+- country: US
+  region: WA
+  name: Loon Lake
+  lat: '48.0661'
+  long: "-117.6288"
+  nearby_rate_centers:
+  - name: LOON LAKE
+    distance_km: 0.56
+  - name: SPRINGDALE
+    distance_km: 8.4
+  - name: DEER PARK
+    distance_km: 16.27
+- country: US
+  region: WA
+  name: Lower Elochoman
+  lat: '46.2184'
+  long: "-123.3697"
+  nearby_rate_centers:
+  - name: CATHLAMET
+    distance_km: 2.22
+  - name: PUGET IS
+    distance_km: 6.63
+  - name: GRAYSRIVER
+    distance_km: 24.06
+- country: US
+  region: WA
+  name: Lyle
+  lat: '45.6956'
+  long: "-121.2805"
+  nearby_rate_centers:
+  - name: LYLE
+    distance_km: 0.4
+  - name: DALLESPORT
+    distance_km: 10.42
+  - name: WH SALMON
+    distance_km: 16.3
+- country: US
+  region: WA
+  name: Lyman
+  lat: '48.5230'
+  long: "-122.0634"
+  nearby_rate_centers:
+  - name: SEDROWOLLY
+    distance_km: 12.89
+  - name: ALGER
+    distance_km: 20.72
+  - name: BURLINGTON
+    distance_km: 20.72
+  - name: EDISON
+    distance_km: 20.72
+  - name: CONCRETE
+    distance_km: 22.96
+- country: US
+  region: WA
+  name: Lynden
+  lat: '48.9502'
+  long: "-122.4545"
+  nearby_rate_centers:
+  - name: WHATCOMCTY
+    distance_km: 7.0
+  - name: EVERSON
+    distance_km: 9.25
+  - name: LAUREL
+    distance_km: 10.44
+- country: US
+  region: WA
+  name: Lynnwood
+  lat: '47.8284'
+  long: "-122.3033"
+  nearby_rate_centers:
+  - name: HALLS LAKE
+    distance_km: 3.54
+  - name: RICHMNDBCH
+    distance_km: 8.69
+  - name: SILVERLAKE
+    distance_km: 9.88
+- country: US
+  region: WA
+  name: Mabton
+  lat: '46.2116'
+  long: "-119.9938"
+  nearby_rate_centers:
+  - name: MABTON
+    distance_km: 0.62
+  - name: GRANDVIEW
+    distance_km: 8.11
+  - name: SUNNYSIDE
+    distance_km: 12.72
+- country: US
+  region: WA
+  name: Machias
+  lat: '47.9918'
+  long: "-122.0517"
+  nearby_rate_centers:
+  - name: SNOHOMISH
+    distance_km: 8.95
+  - name: EVERETT
+    distance_km: 10.95
+  - name: GRANITEFLS
+    distance_km: 11.52
+- country: US
+  region: WA
+  name: Malden
+  lat: '47.2296'
+  long: "-117.4731"
+  nearby_rate_centers:
+  - name: ROSALIA
+    distance_km: 8.14
+  - name: ST JOHN
+    distance_km: 17.46
+  - name: OAKESDALE
+    distance_km: 20.96
+- country: US
+  region: WA
+  name: Malo
+  lat: '48.7997'
+  long: "-118.6119"
+  nearby_rate_centers:
+  - name: CURLEW
+    distance_km: 9.53
+  - name: REPUBLIC
+    distance_km: 19.32
+  - name: KETTLE FLS
+    distance_km: 45.94
+- country: US
+  region: WA
+  name: Malone
+  lat: '46.9779'
+  long: "-123.3035"
+  nearby_rate_centers:
+  - name: ELMA
+    distance_km: 9.31
+  - name: MONTESANO
+    distance_km: 22.58
+  - name: ROCHESTER
+    distance_km: 23.34
+- country: US
+  region: WA
+  name: Malott
+  lat: '48.2918'
+  long: "-119.6955"
+  nearby_rate_centers:
+  - name: OMAK
+    distance_km: 17.58
+  - name: BREWSTER
+    distance_km: 23.09
+  - name: PATEROS
+    distance_km: 30.26
+- country: US
+  region: WA
+  name: Maltby
+  lat: '47.8027'
+  long: "-122.1044"
+  nearby_rate_centers:
+  - name: BOTHELL
+    distance_km: 8.23
+  - name: DUVALL
+    distance_km: 8.23
+  - name: SILVERLAKE
+    distance_km: 10.99
+  - name: MONROE
+    distance_km: 11.68
+- country: US
+  region: WA
+  name: Manchester
+  lat: '47.5519'
+  long: "-122.5517"
+  nearby_rate_centers:
+  - name: PORT ORCH
+    distance_km: 6.08
+  - name: BREMERTON
+    distance_km: 6.56
+  - name: BAINBDG IS
+    distance_km: 8.38
+- country: US
+  region: WA
+  name: Mansfield
+  lat: '47.8119'
+  long: "-119.6379"
+  nearby_rate_centers:
+  - name: MANSFIELD
+    distance_km: 0.74
+  - name: BRIDGEPORT
+    distance_km: 21.87
+  - name: CHELAN
+    distance_km: 28.54
+- country: US
+  region: WA
+  name: Manson
+  lat: '47.8816'
+  long: "-120.1620"
+  nearby_rate_centers:
+  - name: CHELAN
+    distance_km: 11.72
+  - name: ENTIAT
+    distance_km: 25.31
+  - name: DOUGLASCO
+    distance_km: 26.44
+  - name: WATERVILLE
+    distance_km: 26.44
+- country: US
+  region: WA
+  name: Maple Falls
+  lat: '48.9179'
+  long: "-122.0943"
+  nearby_rate_centers:
+  - name: ACME
+    distance_km: 13.49
+  - name: DEMING
+    distance_km: 13.49
+  - name: SUMAS
+    distance_km: 15.27
+  - name: EVERSON
+    distance_km: 17.94
+- country: US
+  region: WA
+  name: Maple Heights-Lake Desire
+  lat: '47.4441'
+  long: "-122.0972"
+  nearby_rate_centers:
+  - name: MAPLE VLY
+    distance_km: 6.49
+  - name: RENTON
+    distance_km: 9.0
+  - name: ISSAQUAH
+    distance_km: 10.19
+- country: US
+  region: WA
+  name: Maple Valley
+  lat: '47.3659'
+  long: "-122.0368"
+  nearby_rate_centers:
+  - name: MAPLE VLY
+    distance_km: 3.69
+  - name: BLACKDIMND
+    distance_km: 5.96
+  - name: KENT
+    distance_km: 14.98
+- country: US
+  region: WA
+  name: Maplewood
+  lat: '47.3715'
+  long: "-122.5689"
+  nearby_rate_centers:
+  - name: GIG HARBOR
+    distance_km: 3.69
+  - name: BURLEY
+    distance_km: 7.19
+  - name: VASHON
+    distance_km: 11.21
+- country: US
+  region: WA
+  name: Marblemount
+  lat: '48.5418'
+  long: "-121.4397"
+  nearby_rate_centers:
+  - name: MARBLEMONT
+    distance_km: 2.33
+  - name: CONCRETE
+    distance_km: 23.07
+  - name: DARRINGTON
+    distance_km: 34.3
+- country: US
+  region: WA
+  name: Marcus
+  lat: '48.6642'
+  long: "-118.0596"
+  nearby_rate_centers:
+  - name: KETTLE FLS
+    distance_km: 6.02
+  - name: COLVILLE
+    distance_km: 17.94
+  - name: NORTHPORT
+    distance_km: 34.67
+- country: US
+  region: WA
+  name: Marietta-Alderwood
+  lat: '48.7934'
+  long: "-122.5573"
+  nearby_rate_centers:
+  - name: FERNDALE
+    distance_km: 6.71
+  - name: BELLINGHAM
+    distance_km: 7.85
+  - name: LAUREL
+    distance_km: 8.97
+- country: US
+  region: WA
+  name: Marine View
+  lat: '46.9637'
+  long: "-119.3508"
+  nearby_rate_centers:
+  - name: MOSES LAKE
+    distance_km: 19.72
+  - name: OTHELLO
+    distance_km: 20.49
+  - name: WARDEN
+    distance_km: 23.7
+- country: US
+  region: WA
+  name: Markham
+  lat: '46.9150'
+  long: "-123.9823"
+  nearby_rate_centers:
+  - name: OCOSTA
+    distance_km: 4.6
+  - name: GRAYHARBCO
+    distance_km: 10.08
+  - name: WESTPORT
+    distance_km: 10.08
+  - name: ABERDEEN
+    distance_km: 13.92
+- country: US
+  region: WA
+  name: Marrowstone
+  lat: '48.0570'
+  long: "-122.6938"
+  nearby_rate_centers:
+  - name: PTTOWNSEND
+    distance_km: 8.78
+  - name: CHIMACMCTR
+    distance_km: 13.56
+  - name: PORTLUDLOW
+    distance_km: 13.87
+- country: US
+  region: WA
+  name: Martha Lake
+  lat: '47.8479'
+  long: "-122.2327"
+  nearby_rate_centers:
+  - name: SILVERLAKE
+    distance_km: 4.53
+  - name: HALLS LAKE
+    distance_km: 8.77
+  - name: BOTHELL
+    distance_km: 9.33
+  - name: DUVALL
+    distance_km: 9.33
+- country: US
+  region: WA
+  name: Maryhill
+  lat: '45.6928'
+  long: "-120.8070"
+  nearby_rate_centers:
+  - name: WISHRAM
+    distance_km: 12.58
+  - name: GOLDENDALE
+    distance_km: 14.99
+  - name: KLICKITAT
+    distance_km: 30.36
+- country: US
+  region: WA
+  name: Marysville
+  lat: '48.0809'
+  long: "-122.1561"
+  nearby_rate_centers:
+  - name: MARYSVILLE
+    distance_km: 3.59
+  - name: EVERETT
+    distance_km: 11.13
+  - name: ARLINGTON
+    distance_km: 12.39
+- country: US
+  region: WA
+  name: Mattawa
+  lat: '46.7370'
+  long: "-119.9043"
+  nearby_rate_centers:
+  - name: MATTAWA
+    distance_km: 10.49
+  - name: VANTAGE
+    distance_km: 25.44
+  - name: GEORGE
+    distance_km: 38.06
+- country: US
+  region: WA
+  name: May Creek
+  lat: '47.8555'
+  long: "-121.6745"
+  nearby_rate_centers:
+  - name: SULTAN
+    distance_km: 10.51
+  - name: MONROE
+    distance_km: 22.22
+  - name: SKYKOMISH
+    distance_km: 27.99
+- country: US
+  region: WA
+  name: McChord AFB
+  lat: '47.1330'
+  long: "-122.4923"
+  nearby_rate_centers:
+  - name: TACOMA
+    distance_km: 14.36
+  - name: ROY
+    distance_km: 15.46
+  - name: PUYALLUP
+    distance_km: 15.74
+- country: US
+  region: WA
+  name: McCleary
+  lat: '47.0584'
+  long: "-123.2723"
+  nearby_rate_centers:
+  - name: ELMA
+    distance_km: 12.26
+  - name: SHELTON
+    distance_km: 21.27
+  - name: MONTESANO
+    distance_km: 26.36
+- country: US
+  region: WA
+  name: McKenna
+  lat: '46.9365'
+  long: "-122.5501"
+  nearby_rate_centers:
+  - name: YELM
+    distance_km: 4.62
+  - name: ROY
+    distance_km: 6.91
+  - name: RAINIER
+    distance_km: 12.16
+- country: US
+  region: WA
+  name: McMillin
+  lat: '47.1286'
+  long: "-122.2374"
+  nearby_rate_centers:
+  - name: ORTING
+    distance_km: 4.75
+  - name: SUMNER
+    distance_km: 7.96
+  - name: PUYALLUP
+    distance_km: 8.41
+- country: US
+  region: WA
+  name: Mead
+  lat: '47.7795'
+  long: "-117.3500"
+  nearby_rate_centers:
+  - name: SPOKANE
+    distance_km: 15.09
+  - name: ELK-GRNBLF
+    distance_km: 16.89
+  - name: NEWMANLAKE
+    distance_km: 21.33
+- country: US
+  region: WA
+  name: Meadow Glade
+  lat: '45.7524'
+  long: "-122.5615"
+  nearby_rate_centers:
+  - name: BATTLEGRND
+    distance_km: 4.52
+  - name: LA CENTER
+    distance_km: 15.27
+  - name: RIDGEFIELD
+    distance_km: 15.95
+- country: US
+  region: WA
+  name: Meadowdale
+  lat: '47.8583'
+  long: "-122.3160"
+  nearby_rate_centers:
+  - name: HALLS LAKE
+    distance_km: 6.45
+  - name: SILVERLAKE
+    distance_km: 9.3
+  - name: RICHMNDBCH
+    distance_km: 10.64
+- country: US
+  region: WA
+  name: Medical Lake
+  lat: '47.5712'
+  long: "-117.6893"
+  nearby_rate_centers:
+  - name: MEDICAL LK
+    distance_km: 1.15
+  - name: CHENEY
+    distance_km: 12.42
+  - name: REARDAN
+    distance_km: 17.53
+- country: US
+  region: WA
+  name: Medina
+  lat: '47.6273'
+  long: "-122.2427"
+  nearby_rate_centers:
+  - name: BELLEVUE
+    distance_km: 3.22
+  - name: KIRKLAND
+    distance_km: 6.39
+  - name: SEATTLE
+    distance_km: 7.02
+- country: US
+  region: WA
+  name: Mercer Island
+  lat: '47.5661'
+  long: "-122.2320"
+  nearby_rate_centers:
+  - name: BELLEVUE
+    distance_km: 4.95
+  - name: RENTON
+    distance_km: 8.1
+  - name: SEATTLE
+    distance_km: 9.01
+- country: US
+  region: WA
+  name: Mesa
+  lat: '46.5735'
+  long: "-119.0013"
+  nearby_rate_centers:
+  - name: MESA
+    distance_km: 1.3
+  - name: BASIN CITY
+    distance_km: 11.32
+  - name: ELTOPIA
+    distance_km: 13.05
+- country: US
+  region: WA
+  name: Metaline
+  lat: '48.8533'
+  long: "-117.3893"
+  nearby_rate_centers:
+  - name: METALINFLS
+    distance_km: 1.69
+  - name: IONE
+    distance_km: 12.55
+  - name: NORTHPORT
+    distance_km: 29.64
+- country: US
+  region: WA
+  name: Metaline Falls
+  lat: '48.8615'
+  long: "-117.3718"
+  nearby_rate_centers:
+  - name: METALINFLS
+    distance_km: 0.62
+  - name: IONE
+    distance_km: 13.7
+  - name: NORTHPORT
+    distance_km: 30.69
+- country: US
+  region: WA
+  name: Methow
+  lat: '48.1286'
+  long: "-120.0055"
+  nearby_rate_centers:
+  - name: PATEROS
+    distance_km: 10.37
+  - name: BREWSTER
+    distance_km: 17.1
+  - name: BRIDGEPORT
+    distance_km: 27.87
+- country: US
+  region: WA
+  name: Midland
+  lat: '47.1734'
+  long: "-122.4120"
+  nearby_rate_centers:
+  - name: PUYALLUP
+    distance_km: 8.53
+  - name: TACOMA
+    distance_km: 9.43
+  - name: TACOMAWVLY
+    distance_km: 11.71
+- country: US
+  region: WA
+  name: Mill Creek
+  lat: '47.8631'
+  long: "-122.2037"
+  nearby_rate_centers:
+  - name: SILVERLAKE
+    distance_km: 1.99
+  - name: SNOHOMISH
+    distance_km: 10.32
+  - name: BOTHELL
+    distance_km: 10.71
+  - name: DUVALL
+    distance_km: 10.71
+- country: US
+  region: WA
+  name: Mill Creek East
+  lat: '47.8361'
+  long: "-122.1877"
+  nearby_rate_centers:
+  - name: SILVERLAKE
+    distance_km: 4.94
+  - name: BOTHELL
+    distance_km: 7.77
+  - name: DUVALL
+    distance_km: 7.77
+  - name: HALLS LAKE
+    distance_km: 11.11
+- country: US
+  region: WA
+  name: Millwood
+  lat: '47.6856'
+  long: "-117.2806"
+  nearby_rate_centers:
+  - name: SPOKANE
+    distance_km: 12.29
+  - name: LIBERTY LK
+    distance_km: 14.32
+  - name: NEWMANLAKE
+    distance_km: 15.86
+- country: US
+  region: WA
+  name: Milton
+  lat: '47.2524'
+  long: "-122.3153"
+  nearby_rate_centers:
+  - name: TACOMAWVLY
+    distance_km: 2.0
+  - name: PUYALLUP
+    distance_km: 6.99
+  - name: SUMNER
+    distance_km: 8.49
+- country: US
+  region: WA
+  name: Mineral
+  lat: '46.7193'
+  long: "-122.1860"
+  nearby_rate_centers:
+  - name: ASHFORD
+    distance_km: 12.39
+  - name: EATONVILLE
+    distance_km: 17.67
+  - name: MORTON
+    distance_km: 19.34
+- country: US
+  region: WA
+  name: Minnehaha
+  lat: '45.6577'
+  long: "-122.6204"
+  nearby_rate_centers:
+  - name: VANCOUVER
+    distance_km: 5.55
+  - name: BATTLEGRND
+    distance_km: 15.86
+  - name: CAMAS
+    distance_km: 18.22
+  - name: WASHGL RIV
+    distance_km: 18.22
+  - name: WASHOUGAL
+    distance_km: 18.22
+- country: US
+  region: WA
+  name: Mirrormont
+  lat: '47.4616'
+  long: "-121.9937"
+  nearby_rate_centers:
+  - name: ISSAQUAH
+    distance_km: 7.81
+  - name: MAPLE VLY
+    distance_km: 7.9
+  - name: FALL CITY
+    distance_km: 14.19
+- country: US
+  region: WA
+  name: Moclips
+  lat: '47.2348'
+  long: "-124.2024"
+  nearby_rate_centers:
+  - name: PACIFICBCH
+    distance_km: 2.79
+  - name: COPALIS
+    distance_km: 13.25
+  - name: LKQUINAULT
+    distance_km: 37.63
+- country: US
+  region: WA
+  name: Monroe
+  lat: '47.8595'
+  long: "-121.9851"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 0.96
+  - name: SNOHOMISH
+    distance_km: 9.95
+  - name: SULTAN
+    distance_km: 12.8
+- country: US
+  region: WA
+  name: Monroe North
+  lat: '47.8828'
+  long: "-121.9886"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 2.92
+  - name: SNOHOMISH
+    distance_km: 8.34
+  - name: SULTAN
+    distance_km: 13.12
+- country: US
+  region: WA
+  name: Montesano
+  lat: '47.0102'
+  long: "-123.5857"
+  nearby_rate_centers:
+  - name: MONTESANO
+    distance_km: 3.42
+  - name: ELMA
+    distance_km: 12.77
+  - name: ABERDEEN
+    distance_km: 18.38
+- country: US
+  region: WA
+  name: Morton
+  lat: '46.5575'
+  long: "-122.2815"
+  nearby_rate_centers:
+  - name: MORTON
+    distance_km: 0.48
+  - name: GLENOMA
+    distance_km: 10.49
+  - name: MOSSYROCK
+    distance_km: 15.82
+- country: US
+  region: WA
+  name: Moses Lake
+  lat: '47.1279'
+  long: "-119.2759"
+  nearby_rate_centers:
+  - name: MOSES LAKE
+    distance_km: 0.61
+  - name: WARDEN
+    distance_km: 25.33
+  - name: EPHRATA
+    distance_km: 29.84
+- country: US
+  region: WA
+  name: Moses Lake North
+  lat: '47.1949'
+  long: "-119.3178"
+  nearby_rate_centers:
+  - name: MOSES LAKE
+    distance_km: 7.57
+  - name: EPHRATA
+    distance_km: 22.57
+  - name: SOAP LAKE
+    distance_km: 24.84
+- country: US
+  region: WA
+  name: Mossyrock
+  lat: '46.5305'
+  long: "-122.4887"
+  nearby_rate_centers:
+  - name: MOSSYROCK
+    distance_km: 0.32
+  - name: SALKUM
+    distance_km: 10.41
+  - name: MORTON
+    distance_km: 16.57
+- country: US
+  region: WA
+  name: Mount Vernon
+  lat: '48.4203'
+  long: "-122.3115"
+  nearby_rate_centers:
+  - name: BIG LAKE
+    distance_km: 1.75
+  - name: CONWAY
+    distance_km: 1.75
+  - name: MT VERNON
+    distance_km: 1.75
+  - name: ALGER
+    distance_km: 6.19
+  - name: BURLINGTON
+    distance_km: 6.19
+  - name: EDISON
+    distance_km: 6.19
+  - name: SEDROWOLLY
+    distance_km: 10.55
+- country: US
+  region: WA
+  name: Mount Vista
+  lat: '45.7373'
+  long: "-122.6316"
+  nearby_rate_centers:
+  - name: BATTLEGRND
+    distance_km: 9.8
+  - name: RIDGEFIELD
+    distance_km: 12.54
+  - name: VANCOUVER
+    distance_km: 13.05
+- country: US
+  region: WA
+  name: Mountlake Terrace
+  lat: '47.7921'
+  long: "-122.3077"
+  nearby_rate_centers:
+  - name: HALLS LAKE
+    distance_km: 1.73
+  - name: RICHMNDBCH
+    distance_km: 6.43
+  - name: BOTHELL
+    distance_km: 8.48
+  - name: DUVALL
+    distance_km: 8.48
+- country: US
+  region: WA
+  name: Moxee
+  lat: '46.5640'
+  long: "-120.3966"
+  nearby_rate_centers:
+  - name: YAKIMA
+    distance_km: 9.22
+  - name: WAPATO
+    distance_km: 12.63
+  - name: SELAH
+    distance_km: 14.45
+- country: US
+  region: WA
+  name: Mukilteo
+  lat: '47.9096'
+  long: "-122.3035"
+  nearby_rate_centers:
+  - name: SILVERLAKE
+    distance_km: 8.68
+  - name: EVERETT
+    distance_km: 11.46
+  - name: HAT ISLAND
+    distance_km: 12.09
+- country: US
+  region: WA
+  name: Naches
+  lat: '46.7258'
+  long: "-120.6909"
+  nearby_rate_centers:
+  - name: NACHES
+    distance_km: 0.7
+  - name: TIETON
+    distance_km: 5.52
+  - name: COWICHE
+    distance_km: 6.54
+- country: US
+  region: WA
+  name: Napavine
+  lat: '46.5843'
+  long: "-122.9007"
+  nearby_rate_centers:
+  - name: CHEHALIS
+    distance_km: 9.49
+  - name: WINLOCK
+    distance_km: 10.75
+  - name: CENTRALIA
+    distance_km: 15.29
+- country: US
+  region: WA
+  name: Naselle
+  lat: '46.3650'
+  long: "-123.8013"
+  nearby_rate_centers:
+  - name: NASELLE
+    distance_km: 0.65
+  - name: CHINOOK
+    distance_km: 14.54
+  - name: GRAYSRIVER
+    distance_km: 14.98
+- country: US
+  region: WA
+  name: Navy Yard City
+  lat: '47.5508'
+  long: "-122.6655"
+  nearby_rate_centers:
+  - name: PORT ORCH
+    distance_km: 2.65
+  - name: BREMERTON
+    distance_km: 2.82
+  - name: SILVERDALE
+    distance_km: 10.46
+- country: US
+  region: WA
+  name: Neah Bay
+  lat: '48.3612'
+  long: "-124.6115"
+  nearby_rate_centers:
+  - name: NEAH BAY
+    distance_km: 0.39
+  - name: CLALLAMBAY
+    distance_km: 28.77
+  - name: FORKS
+    distance_km: 48.57
+- country: US
+  region: WA
+  name: Neilton
+  lat: '47.4031'
+  long: "-123.8782"
+  nearby_rate_centers:
+  - name: LKQUINAULT
+    distance_km: 7.7
+  - name: PACIFICBCH
+    distance_km: 32.59
+  - name: CLEARWATER
+    distance_km: 36.57
+- country: US
+  region: WA
+  name: Nespelem
+  lat: '48.1670'
+  long: "-118.9722"
+  nearby_rate_centers:
+  - name: NESPELEM
+    distance_km: 0.41
+  - name: COULEE DAM
+    distance_km: 22.23
+  - name: OMAK
+    distance_km: 49.44
+- country: US
+  region: WA
+  name: Nespelem Community
+  lat: '48.1715'
+  long: "-119.0244"
+  nearby_rate_centers:
+  - name: NESPELEM
+    distance_km: 3.5
+  - name: COULEE DAM
+    distance_km: 22.84
+  - name: OMAK
+    distance_km: 45.96
+- country: US
+  region: WA
+  name: Newcastle
+  lat: '47.5304'
+  long: "-122.1633"
+  nearby_rate_centers:
+  - name: RENTON
+    distance_km: 3.43
+  - name: BELLEVUE
+    distance_km: 9.34
+  - name: ISSAQUAH
+    distance_km: 9.59
+- country: US
+  region: WA
+  name: Newport
+  lat: '48.1781'
+  long: "-117.0546"
+  nearby_rate_centers:
+  - name: NEWPORT
+    distance_km: 0.74
+  - name: CUSICK
+    distance_km: 25.57
+  - name: ELK-GRNBLF
+    distance_km: 32.82
+- country: US
+  region: WA
+  name: Nile
+  lat: '46.8349'
+  long: "-120.9438"
+  nearby_rate_centers:
+  - name: NILE
+    distance_km: 3.21
+  - name: TIETON
+    distance_km: 19.92
+  - name: NACHES
+    distance_km: 22.15
+- country: US
+  region: WA
+  name: Nisqually Indian Community
+  lat: '47.0164'
+  long: "-122.6725"
+  nearby_rate_centers:
+  - name: YELM
+    distance_km: 9.44
+  - name: ROY
+    distance_km: 9.94
+  - name: RAINIER
+    distance_km: 14.85
+- country: US
+  region: WA
+  name: Nooksack
+  lat: '48.9276'
+  long: "-122.3186"
+  nearby_rate_centers:
+  - name: EVERSON
+    distance_km: 2.1
+  - name: SUMAS
+    distance_km: 8.12
+  - name: WHATCOMCTY
+    distance_km: 9.91
+- country: US
+  region: WA
+  name: Normandy Park
+  lat: '47.4342'
+  long: "-122.3436"
+  nearby_rate_centers:
+  - name: DES MOINES
+    distance_km: 3.92
+  - name: VASHON
+    distance_km: 8.69
+  - name: KENT
+    distance_km: 10.06
+- country: US
+  region: WA
+  name: North Bend
+  lat: '47.4900'
+  long: "-121.7741"
+  nearby_rate_centers:
+  - name: NORTH BEND
+    distance_km: 1.78
+  - name: FALL CITY
+    distance_km: 12.17
+  - name: ISSAQUAH
+    distance_km: 20.05
+- country: US
+  region: WA
+  name: North Bonneville
+  lat: '45.6425'
+  long: "-121.9688"
+  nearby_rate_centers:
+  - name: STEVENSON
+    distance_km: 9.33
+  - name: WILLARD
+    distance_km: 29.16
+  - name: CAMAS
+    distance_km: 34.56
+  - name: WASHGL RIV
+    distance_km: 34.56
+  - name: WASHOUGAL
+    distance_km: 34.56
+- country: US
+  region: WA
+  name: North Fort Lewis
+  lat: '47.1222'
+  long: "-122.5962"
+  nearby_rate_centers:
+  - name: ROY
+    distance_km: 14.31
+  - name: FOX ISLAND
+    distance_km: 16.29
+  - name: ARLETTA
+    distance_km: 18.49
+- country: US
+  region: WA
+  name: North Lynnwood
+  lat: '47.8533'
+  long: "-122.2762"
+  nearby_rate_centers:
+  - name: SILVERLAKE
+    distance_km: 6.71
+  - name: HALLS LAKE
+    distance_km: 6.96
+  - name: BOTHELL
+    distance_km: 11.15
+  - name: DUVALL
+    distance_km: 11.15
+- country: US
+  region: WA
+  name: North Omak
+  lat: '48.4440'
+  long: "-119.4459"
+  nearby_rate_centers:
+  - name: OMAK
+    distance_km: 7.64
+  - name: LOOMIS
+    distance_km: 28.24
+  - name: TONASKET
+    distance_km: 28.24
+  - name: MT HULL
+    distance_km: 43.94
+- country: US
+  region: WA
+  name: North Puyallup
+  lat: '47.2015'
+  long: "-122.2742"
+  nearby_rate_centers:
+  - name: PUYALLUP
+    distance_km: 2.44
+  - name: SUMNER
+    distance_km: 3.09
+  - name: TACOMAWVLY
+    distance_km: 8.38
+- country: US
+  region: WA
+  name: North Sultan
+  lat: '47.8829'
+  long: "-121.8253"
+  nearby_rate_centers:
+  - name: SULTAN
+    distance_km: 1.83
+  - name: MONROE
+    distance_km: 11.28
+  - name: SNOHOMISH
+    distance_km: 20.02
+- country: US
+  region: WA
+  name: North Yelm
+  lat: '46.9648'
+  long: "-122.6027"
+  nearby_rate_centers:
+  - name: YELM
+    distance_km: 2.5
+  - name: ROY
+    distance_km: 5.82
+  - name: RAINIER
+    distance_km: 11.22
+- country: US
+  region: WA
+  name: Northport
+  lat: '48.9158'
+  long: "-117.7797"
+  nearby_rate_centers:
+  - name: NORTHPORT
+    distance_km: 0.28
+  - name: METALINFLS
+    distance_km: 30.89
+  - name: IONE
+    distance_km: 32.84
+- country: US
+  region: WA
+  name: Northwest Stanwood
+  lat: '48.2624'
+  long: "-122.3501"
+  nearby_rate_centers:
+  - name: STANWOOD
+    distance_km: 3.28
+  - name: BIG LAKE
+    distance_km: 16.98
+  - name: CONWAY
+    distance_km: 16.98
+  - name: MT VERNON
+    distance_km: 16.98
+  - name: ARLINGTON
+    distance_km: 18.7
+- country: US
+  region: WA
+  name: Oak Harbor
+  lat: '48.2964'
+  long: "-122.6333"
+  nearby_rate_centers:
+  - name: OAK HARBOR
+    distance_km: 0.7
+  - name: COUPEVILLE
+    distance_km: 9.41
+  - name: STANWOOD
+    distance_km: 19.88
+- country: US
+  region: WA
+  name: Oakesdale
+  lat: '47.1305'
+  long: "-117.2464"
+  nearby_rate_centers:
+  - name: OAKESDALE
+    distance_km: 0.81
+  - name: ROSALIA
+    distance_km: 14.41
+  - name: GARFIELD
+    distance_km: 15.36
+- country: US
+  region: WA
+  name: Oakville
+  lat: '46.8403'
+  long: "-123.2337"
+  nearby_rate_centers:
+  - name: ROCHESTER
+    distance_km: 10.96
+  - name: ELMA
+    distance_km: 23.4
+  - name: CENTRALIA
+    distance_km: 24.99
+- country: US
+  region: WA
+  name: Ocean City
+  lat: '47.0763'
+  long: "-124.1619"
+  nearby_rate_centers:
+  - name: COPALIS
+    distance_km: 4.65
+  - name: PACIFICBCH
+    distance_km: 15.16
+  - name: GRAYHARBCO
+    distance_km: 20.67
+  - name: WESTPORT
+    distance_km: 20.67
+- country: US
+  region: WA
+  name: Ocean Park
+  lat: '46.4961'
+  long: "-124.0443"
+  nearby_rate_centers:
+  - name: OCEAN PARK
+    distance_km: 0.49
+  - name: LONG BEACH
+    distance_km: 15.51
+  - name: NASELLE
+    distance_km: 23.75
+- country: US
+  region: WA
+  name: Ocean Shores
+  lat: '46.9684'
+  long: "-124.1520"
+  nearby_rate_centers:
+  - name: GRAYHARBCO
+    distance_km: 8.87
+  - name: WESTPORT
+    distance_km: 8.87
+  - name: OCOSTA
+    distance_km: 12.63
+  - name: COPALIS
+    distance_km: 16.67
+- country: US
+  region: WA
+  name: Ocosta
+  lat: '46.8913'
+  long: "-124.0236"
+  nearby_rate_centers:
+  - name: OCOSTA
+    distance_km: 0.57
+  - name: GRAYHARBCO
+    distance_km: 6.67
+  - name: WESTPORT
+    distance_km: 6.67
+  - name: GRAYLAND
+    distance_km: 10.49
+- country: US
+  region: WA
+  name: Odessa
+  lat: '47.3326'
+  long: "-118.6894"
+  nearby_rate_centers:
+  - name: ODESSA
+    distance_km: 0.26
+  - name: RITZVILLE
+    distance_km: 32.85
+  - name: WILSON CRK
+    distance_km: 33.93
+- country: US
+  region: WA
+  name: Okanogan
+  lat: '48.3673'
+  long: "-119.5780"
+  nearby_rate_centers:
+  - name: OMAK
+    distance_km: 5.56
+  - name: BREWSTER
+    distance_km: 34.11
+  - name: LOOMIS
+    distance_km: 38.26
+  - name: TONASKET
+    distance_km: 38.26
+- country: US
+  region: WA
+  name: Olympia
+  lat: '47.0417'
+  long: "-122.8959"
+  nearby_rate_centers:
+  - name: OLYMPIA
+    distance_km: 0.78
+  - name: TENINO
+    distance_km: 20.59
+  - name: RAINIER
+    distance_km: 23.54
+- country: US
+  region: WA
+  name: Omak
+  lat: '48.4229'
+  long: "-119.5159"
+  nearby_rate_centers:
+  - name: OMAK
+    distance_km: 2.13
+  - name: LOOMIS
+    distance_km: 31.16
+  - name: TONASKET
+    distance_km: 31.16
+  - name: BREWSTER
+    distance_km: 41.7
+- country: US
+  region: WA
+  name: Onalaska
+  lat: '46.5782'
+  long: "-122.7114"
+  nearby_rate_centers:
+  - name: SALKUM
+    distance_km: 8.21
+  - name: MOSSYROCK
+    distance_km: 18.08
+  - name: TOLEDO
+    distance_km: 18.4
+- country: US
+  region: WA
+  name: Orchards
+  lat: '45.6890'
+  long: "-122.5306"
+  nearby_rate_centers:
+  - name: BATTLEGRND
+    distance_km: 10.52
+  - name: VANCOUVER
+    distance_km: 13.21
+  - name: CAMAS
+    distance_km: 14.59
+  - name: WASHGL RIV
+    distance_km: 14.59
+  - name: WASHOUGAL
+    distance_km: 14.59
+- country: US
+  region: WA
+  name: Orient
+  lat: '48.8637'
+  long: "-118.2059"
+  nearby_rate_centers:
+  - name: CURLEW
+    distance_km: 28.99
+  - name: KETTLE FLS
+    distance_km: 30.28
+  - name: NORTHPORT
+    distance_km: 31.49
+- country: US
+  region: WA
+  name: Oroville
+  lat: '48.9419'
+  long: "-119.4305"
+  nearby_rate_centers:
+  - name: OROVILLE
+    distance_km: 0.2
+  - name: MT HULL
+    distance_km: 13.98
+  - name: MOLSON
+    distance_km: 17.35
+- country: US
+  region: WA
+  name: Orting
+  lat: '47.0967'
+  long: "-122.2112"
+  nearby_rate_centers:
+  - name: ORTING
+    distance_km: 0.77
+  - name: GRAHAM
+    distance_km: 8.76
+  - name: SO PRAIRIE
+    distance_km: 9.44
+- country: US
+  region: WA
+  name: Oso
+  lat: '48.2836'
+  long: "-121.9238"
+  nearby_rate_centers:
+  - name: ARLINGTON
+    distance_km: 18.0
+  - name: GRANITEFLS
+    distance_km: 22.74
+  - name: DARRINGTON
+    distance_km: 24.29
+- country: US
+  region: WA
+  name: Othello
+  lat: '46.8221'
+  long: "-119.1653"
+  nearby_rate_centers:
+  - name: OTHELLO
+    distance_km: 0.88
+  - name: WARDEN
+    distance_km: 18.82
+  - name: BASIN CITY
+    distance_km: 26.2
+- country: US
+  region: WA
+  name: Otis Orchards-East Farms
+  lat: '47.7030'
+  long: "-117.0854"
+  nearby_rate_centers:
+  - name: NEWMANLAKE
+    distance_km: 2.49
+  - name: LIBERTY LK
+    distance_km: 6.66
+  - name: ROCKFORD
+    distance_km: 22.58
+- country: US
+  region: WA
+  name: Outlook
+  lat: '46.3311'
+  long: "-120.0924"
+  nearby_rate_centers:
+  - name: SUNNYSIDE
+    distance_km: 6.28
+  - name: GRANGER
+    distance_km: 8.49
+  - name: ZILLAH
+    distance_km: 14.92
+- country: US
+  region: WA
+  name: Oyehut
+  lat: '47.0233'
+  long: "-124.1631"
+  nearby_rate_centers:
+  - name: COPALIS
+    distance_km: 10.52
+  - name: GRAYHARBCO
+    distance_km: 14.94
+  - name: WESTPORT
+    distance_km: 14.94
+  - name: OCOSTA
+    distance_km: 17.85
+- country: US
+  region: WA
+  name: Pacific
+  lat: '47.2610'
+  long: "-122.2507"
+  nearby_rate_centers:
+  - name: AUBURN
+    distance_km: 5.73
+  - name: TACOMAWVLY
+    distance_km: 6.35
+  - name: SUMNER
+    distance_km: 6.9
+- country: US
+  region: WA
+  name: Pacific Beach
+  lat: '47.2151'
+  long: "-124.1967"
+  nearby_rate_centers:
+  - name: PACIFICBCH
+    distance_km: 0.76
+  - name: COPALIS
+    distance_km: 11.02
+  - name: GRAYHARBCO
+    distance_km: 36.32
+  - name: WESTPORT
+    distance_km: 36.32
+- country: US
+  region: WA
+  name: Packwood
+  lat: '46.6085'
+  long: "-121.6703"
+  nearby_rate_centers:
+  - name: ASHFORD
+    distance_km: 32.18
+  - name: GLENOMA
+    distance_km: 37.92
+  - name: CRYSTAL MT
+    distance_km: 38.45
+- country: US
+  region: WA
+  name: Palouse
+  lat: '46.9104'
+  long: "-117.0751"
+  nearby_rate_centers:
+  - name: PALOUSE
+    distance_km: 0.22
+  - name: GARFIELD
+    distance_km: 12.34
+  - name: GARRISON
+    distance_km: 18.92
+- country: US
+  region: WA
+  name: Parker
+  lat: '46.5021'
+  long: "-120.4668"
+  nearby_rate_centers:
+  - name: WAPATO
+    distance_km: 6.68
+  - name: YAKIMA
+    distance_km: 11.22
+  - name: HARRAH
+    distance_km: 11.65
+- country: US
+  region: WA
+  name: Parkland
+  lat: '47.1417'
+  long: "-122.4376"
+  nearby_rate_centers:
+  - name: PUYALLUP
+    distance_km: 11.59
+  - name: TACOMA
+    distance_km: 12.77
+  - name: TACOMAWVLY
+    distance_km: 15.73
+- country: US
+  region: WA
+  name: Parkwood
+  lat: '47.5266'
+  long: "-122.5986"
+  nearby_rate_centers:
+  - name: PORT ORCH
+    distance_km: 3.14
+  - name: BREMERTON
+    distance_km: 5.29
+  - name: BURLEY
+    distance_km: 11.97
+- country: US
+  region: WA
+  name: Pasco
+  lat: '46.2506'
+  long: "-119.1305"
+  nearby_rate_centers:
+  - name: PASCO
+    distance_km: 3.01
+  - name: KENNEWICK
+    distance_km: 4.69
+  - name: RICHLAND
+    distance_km: 11.27
+- country: US
+  region: WA
+  name: Pataha
+  lat: '46.4727'
+  long: "-117.5445"
+  nearby_rate_centers:
+  - name: POMEROY
+    distance_km: 4.22
+  - name: UNIONTOWN
+    distance_km: 35.61
+  - name: DAYTON
+    distance_km: 38.05
+- country: US
+  region: WA
+  name: Pateros
+  lat: '48.0536'
+  long: "-119.8995"
+  nearby_rate_centers:
+  - name: PATEROS
+    distance_km: 1.1
+  - name: BREWSTER
+    distance_km: 9.75
+  - name: BRIDGEPORT
+    distance_km: 17.3
+- country: US
+  region: WA
+  name: Pe Ell
+  lat: '46.5713'
+  long: "-123.2982"
+  nearby_rate_centers:
+  - name: PE ELL
+    distance_km: 0.31
+  - name: CURTIS
+    distance_km: 14.65
+  - name: CHEHALIS
+    distance_km: 27.06
+- country: US
+  region: WA
+  name: Peaceful Valley
+  lat: '48.9507'
+  long: "-122.1484"
+  nearby_rate_centers:
+  - name: SUMAS
+    distance_km: 10.01
+  - name: EVERSON
+    distance_km: 14.54
+  - name: ACME
+    distance_km: 14.64
+  - name: DEMING
+    distance_km: 14.64
+- country: US
+  region: WA
+  name: Picnic Point
+  lat: '47.8744'
+  long: "-122.3077"
+  nearby_rate_centers:
+  - name: HALLS LAKE
+    distance_km: 8.31
+  - name: SILVERLAKE
+    distance_km: 8.38
+  - name: RICHMNDBCH
+    distance_km: 12.5
+- country: US
+  region: WA
+  name: Pine Grove
+  lat: '48.6501'
+  long: "-118.6839"
+  nearby_rate_centers:
+  - name: REPUBLIC
+    distance_km: 3.16
+  - name: CURLEW
+    distance_km: 26.83
+  - name: KETTLE FLS
+    distance_km: 46.38
+- country: US
+  region: WA
+  name: Point Roberts
+  lat: '48.9882'
+  long: "-123.0577"
+  nearby_rate_centers:
+  - name: PT ROBERTS
+    distance_km: 0.76
+  - name: BLAINE
+    distance_km: 22.89
+  - name: CUSTER
+    distance_km: 31.58
+- country: US
+  region: WA
+  name: Pomeroy
+  lat: '46.4738'
+  long: "-117.5964"
+  nearby_rate_centers:
+  - name: POMEROY
+    distance_km: 0.34
+  - name: DAYTON
+    distance_km: 34.64
+  - name: UNIONTOWN
+    distance_km: 39.47
+- country: US
+  region: WA
+  name: Port Angeles
+  lat: '48.1141'
+  long: "-123.4565"
+  nearby_rate_centers:
+  - name: PT ANGELES
+    distance_km: 13.86
+  - name: SEQUIM
+    distance_km: 26.63
+  - name: GARDINER
+    distance_km: 40.61
+- country: US
+  region: WA
+  name: Port Angeles East
+  lat: '48.1041'
+  long: "-123.3694"
+  nearby_rate_centers:
+  - name: PT ANGELES
+    distance_km: 7.33
+  - name: SEQUIM
+    distance_km: 20.08
+  - name: GARDINER
+    distance_km: 34.05
+- country: US
+  region: WA
+  name: Port Gamble Tribal Community
+  lat: '47.8488'
+  long: "-122.5571"
+  nearby_rate_centers:
+  - name: KINGSTON
+    distance_km: 6.97
+  - name: PORTLUDLOW
+    distance_km: 13.21
+  - name: RICHMNDBCH
+    distance_km: 14.78
+- country: US
+  region: WA
+  name: Port Hadlock-Irondale
+  lat: '48.0316'
+  long: "-122.7890"
+  nearby_rate_centers:
+  - name: CHIMACMCTR
+    distance_km: 8.97
+  - name: PTTOWNSEND
+    distance_km: 9.76
+  - name: GARDINER
+    distance_km: 9.83
+- country: US
+  region: WA
+  name: Port Ludlow
+  lat: '47.9101'
+  long: "-122.7006"
+  nearby_rate_centers:
+  - name: PORTLUDLOW
+    distance_km: 2.81
+  - name: CHIMACMCTR
+    distance_km: 7.69
+  - name: QUILCENE
+    distance_km: 16.32
+- country: US
+  region: WA
+  name: Port Orchard
+  lat: '47.5163'
+  long: "-122.6610"
+  nearby_rate_centers:
+  - name: PORT ORCH
+    distance_km: 3.76
+  - name: BREMERTON
+    distance_km: 5.91
+  - name: BURLEY
+    distance_km: 10.84
+- country: US
+  region: WA
+  name: Port Townsend
+  lat: '48.1220'
+  long: "-122.7877"
+  nearby_rate_centers:
+  - name: PTTOWNSEND
+    distance_km: 1.5
+  - name: GARDINER
+    distance_km: 12.73
+  - name: COUPEVILLE
+    distance_km: 13.24
+- country: US
+  region: WA
+  name: Porter
+  lat: '46.9489'
+  long: "-123.2736"
+  nearby_rate_centers:
+  - name: ELMA
+    distance_km: 12.8
+  - name: ROCHESTER
+    distance_km: 19.45
+  - name: MONTESANO
+    distance_km: 25.11
+- country: US
+  region: WA
+  name: Poulsbo
+  lat: '47.7417'
+  long: "-122.6407"
+  nearby_rate_centers:
+  - name: POULSBO
+    distance_km: 3.37
+  - name: SILVERDALE
+    distance_km: 11.81
+  - name: KINGSTON
+    distance_km: 12.54
+- country: US
+  region: WA
+  name: Prairie Heights
+  lat: '47.1529'
+  long: "-122.1048"
+  nearby_rate_centers:
+  - name: SO PRAIRIE
+    distance_km: 2.2
+  - name: BUCKLEY
+    distance_km: 5.27
+  - name: ENUMCLAW
+    distance_km: 10.13
+- country: US
+  region: WA
+  name: Prairie Ridge
+  lat: '47.1438'
+  long: "-122.1408"
+  nearby_rate_centers:
+  - name: SO PRAIRIE
+    distance_km: 3.38
+  - name: ORTING
+    distance_km: 8.04
+  - name: BUCKLEY
+    distance_km: 8.11
+- country: US
+  region: WA
+  name: Prescott
+  lat: '46.2988'
+  long: "-118.3126"
+  nearby_rate_centers:
+  - name: PRESCOTT
+    distance_km: 0.16
+  - name: WAITSBURG
+    distance_km: 13.24
+  - name: EUREKA
+    distance_km: 23.14
+- country: US
+  region: WA
+  name: Prosser
+  lat: '46.2068'
+  long: "-119.7663"
+  nearby_rate_centers:
+  - name: PROSSER
+    distance_km: 0.26
+  - name: WHITSTRAN
+    distance_km: 5.85
+  - name: GRANDVIEW
+    distance_km: 11.47
+- country: US
+  region: WA
+  name: Puget Island
+  lat: '46.1743'
+  long: "-123.3830"
+  nearby_rate_centers:
+  - name: PUGET IS
+    distance_km: 1.93
+  - name: CATHLAMET
+    distance_km: 2.87
+  - name: GRAYSRIVER
+    distance_km: 26.86
+- country: US
+  region: WA
+  name: Pullman
+  lat: '46.7336'
+  long: "-117.1680"
+  nearby_rate_centers:
+  - name: PULLMAN
+    distance_km: 0.35
+  - name: GARRISON
+    distance_km: 8.53
+  - name: PALOUSE
+    distance_km: 20.68
+- country: US
+  region: WA
+  name: Purdy
+  lat: '47.3934'
+  long: "-122.6117"
+  nearby_rate_centers:
+  - name: BURLEY
+    distance_km: 3.38
+  - name: GIG HARBOR
+    distance_km: 5.95
+  - name: VASHON
+    distance_km: 12.59
+- country: US
+  region: WA
+  name: Puyallup
+  lat: '47.1793'
+  long: "-122.2902"
+  nearby_rate_centers:
+  - name: PUYALLUP
+    distance_km: 1.5
+  - name: SUMNER
+    distance_km: 4.88
+  - name: TACOMAWVLY
+    distance_km: 10.07
+- country: US
+  region: WA
+  name: Queets
+  lat: '47.5314'
+  long: "-124.3385"
+  nearby_rate_centers:
+  - name: CLEARWATER
+    distance_km: 5.95
+  - name: PACIFICBCH
+    distance_km: 37.2
+  - name: LKQUINAULT
+    distance_km: 38.17
+- country: US
+  region: WA
+  name: Qui-nai-elt Village
+  lat: '47.2502'
+  long: "-124.1902"
+  nearby_rate_centers:
+  - name: PACIFICBCH
+    distance_km: 4.6
+  - name: COPALIS
+    distance_km: 14.8
+  - name: LKQUINAULT
+    distance_km: 35.78
+- country: US
+  region: WA
+  name: Quilcene
+  lat: '47.8369'
+  long: "-122.9058"
+  nearby_rate_centers:
+  - name: QUILCENE
+    distance_km: 2.55
+  - name: BRINNON
+    distance_km: 9.63
+  - name: HOOD CANAL
+    distance_km: 9.63
+  - name: CHIMACMCTR
+    distance_km: 15.61
+- country: US
+  region: WA
+  name: Quincy
+  lat: '47.2344'
+  long: "-119.8530"
+  nearby_rate_centers:
+  - name: QUINCY
+    distance_km: 0.38
+  - name: GEORGE
+    distance_km: 17.46
+  - name: EPHRATA
+    distance_km: 24.03
+- country: US
+  region: WA
+  name: Raft Island
+  lat: '47.3290'
+  long: "-122.6687"
+  nearby_rate_centers:
+  - name: ARLETTA
+    distance_km: 5.24
+  - name: GIG HARBOR
+    distance_km: 6.05
+  - name: FOX ISLAND
+    distance_km: 7.47
+- country: US
+  region: WA
+  name: Rainier
+  lat: '46.8917'
+  long: "-122.6866"
+  nearby_rate_centers:
+  - name: RAINIER
+    distance_km: 0.96
+  - name: YELM
+    distance_km: 8.13
+  - name: TENINO
+    distance_km: 12.68
+- country: US
+  region: WA
+  name: Ravensdale
+  lat: '47.3589'
+  long: "-121.9781"
+  nearby_rate_centers:
+  - name: BLACKDIMND
+    distance_km: 5.47
+  - name: MAPLE VLY
+    distance_km: 6.59
+  - name: ENUMCLAW
+    distance_km: 17.67
+- country: US
+  region: WA
+  name: Raymond
+  lat: '46.6839'
+  long: "-123.7380"
+  nearby_rate_centers:
+  - name: RAYMOND
+    distance_km: 1.03
+  - name: SOUTH BEND
+    distance_km: 4.64
+  - name: GRAYLAND
+    distance_km: 29.7
+- country: US
+  region: WA
+  name: Reardan
+  lat: '47.6698'
+  long: "-117.8780"
+  nearby_rate_centers:
+  - name: REARDAN
+    distance_km: 0.45
+  - name: MEDICAL LK
+    distance_km: 18.61
+  - name: DAVENPORT
+    distance_km: 20.72
+- country: US
+  region: WA
+  name: Redmond
+  lat: '47.6763'
+  long: "-122.1169"
+  nearby_rate_centers:
+  - name: KIRKLAND
+    distance_km: 5.97
+  - name: BELLEVUE
+    distance_km: 10.33
+  - name: BOTHELL
+    distance_km: 11.86
+  - name: DUVALL
+    distance_km: 11.86
+- country: US
+  region: WA
+  name: Renton
+  lat: '47.4784'
+  long: "-122.1918"
+  nearby_rate_centers:
+  - name: RENTON
+    distance_km: 2.74
+  - name: KENT
+    distance_km: 11.18
+  - name: ISSAQUAH
+    distance_km: 12.85
+- country: US
+  region: WA
+  name: Republic
+  lat: '48.6483'
+  long: "-118.7333"
+  nearby_rate_centers:
+  - name: REPUBLIC
+    distance_km: 0.83
+  - name: CURLEW
+    distance_km: 28.06
+  - name: MT HULL
+    distance_km: 48.73
+- country: US
+  region: WA
+  name: Richland
+  lat: '46.2824'
+  long: "-119.2939"
+  nearby_rate_centers:
+  - name: RICHLAND
+    distance_km: 1.79
+  - name: BENTONCITY
+    distance_km: 14.48
+  - name: KENNEWICK
+    distance_km: 15.45
+- country: US
+  region: WA
+  name: Ridgefield
+  lat: '45.8114'
+  long: "-122.7051"
+  nearby_rate_centers:
+  - name: RIDGEFIELD
+    distance_km: 3.13
+  - name: LA CENTER
+    distance_km: 7.03
+  - name: WOODLAND
+    distance_km: 11.39
+- country: US
+  region: WA
+  name: Ritzville
+  lat: '47.1253'
+  long: "-118.3809"
+  nearby_rate_centers:
+  - name: RITZVILLE
+    distance_km: 0.32
+  - name: LIND
+    distance_km: 24.71
+  - name: BENGE
+    distance_km: 31.52
+- country: US
+  region: WA
+  name: River Road
+  lat: '48.0677'
+  long: "-123.1276"
+  nearby_rate_centers:
+  - name: SEQUIM
+    distance_km: 2.68
+  - name: PT ANGELES
+    distance_km: 11.25
+  - name: GARDINER
+    distance_km: 15.67
+- country: US
+  region: WA
+  name: Riverbend
+  lat: '47.4653'
+  long: "-121.7493"
+  nearby_rate_centers:
+  - name: NORTH BEND
+    distance_km: 5.0
+  - name: FALL CITY
+    distance_km: 15.44
+  - name: ISSAQUAH
+    distance_km: 22.55
+- country: US
+  region: WA
+  name: Riverpoint
+  lat: '47.4842'
+  long: "-121.7151"
+  nearby_rate_centers:
+  - name: NORTH BEND
+    distance_km: 6.15
+  - name: FALL CITY
+    distance_km: 15.98
+  - name: CARNATION
+    distance_km: 23.41
+- country: US
+  region: WA
+  name: Riverside
+  lat: '48.5048'
+  long: "-119.5100"
+  nearby_rate_centers:
+  - name: OMAK
+    distance_km: 10.92
+  - name: LOOMIS
+    distance_km: 22.19
+  - name: TONASKET
+    distance_km: 22.19
+  - name: MT HULL
+    distance_km: 38.6
+- country: US
+  region: WA
+  name: Roche Harbor
+  lat: '48.6079'
+  long: "-123.1347"
+  nearby_rate_centers:
+  - name: FRIDAY HBR
+    distance_km: 11.37
+  - name: SAN JUAN
+    distance_km: 11.37
+  - name: LOPEZ
+    distance_km: 18.45
+  - name: EASTSOUND
+    distance_km: 19.0
+- country: US
+  region: WA
+  name: Rochester
+  lat: '46.8198'
+  long: "-123.0636"
+  nearby_rate_centers:
+  - name: ROCHESTER
+    distance_km: 2.22
+  - name: CENTRALIA
+    distance_km: 14.0
+  - name: BUCODA
+    distance_km: 14.69
+- country: US
+  region: WA
+  name: Rock Island
+  lat: '47.3733'
+  long: "-120.1420"
+  nearby_rate_centers:
+  - name: WENATCHEE
+    distance_km: 14.35
+  - name: QUINCY
+    distance_km: 27.09
+  - name: CASHMERE
+    distance_km: 29.04
+- country: US
+  region: WA
+  name: Rockford
+  lat: '47.4515'
+  long: "-117.1307"
+  nearby_rate_centers:
+  - name: FAIRFIELD
+    distance_km: 8.16
+  - name: ROCKFORD
+    distance_km: 8.83
+  - name: LATAH
+    distance_km: 18.57
+- country: US
+  region: WA
+  name: Rockport
+  lat: '48.4850'
+  long: "-121.6065"
+  nearby_rate_centers:
+  - name: CONCRETE
+    distance_km: 12.57
+  - name: MARBLEMONT
+    distance_km: 14.22
+  - name: DARRINGTON
+    distance_km: 25.91
+- country: US
+  region: WA
+  name: Rocky Point
+  lat: '47.5886'
+  long: "-122.6673"
+  nearby_rate_centers:
+  - name: BREMERTON
+    distance_km: 3.36
+  - name: PORT ORCH
+    distance_km: 5.65
+  - name: SILVERDALE
+    distance_km: 6.39
+- country: US
+  region: WA
+  name: Ronald
+  lat: '47.2338'
+  long: "-121.0336"
+  nearby_rate_centers:
+  - name: ROSLYN
+    distance_km: 2.65
+  - name: CLE ELUM
+    distance_km: 2.88
+  - name: EASTON
+    distance_km: 10.65
+- country: US
+  region: WA
+  name: Roosevelt
+  lat: '45.7476'
+  long: "-120.2161"
+  nearby_rate_centers:
+  - name: ROOSEVELT
+    distance_km: 1.68
+  - name: BICKLETON
+    distance_km: 28.7
+  - name: GOLDENDALE
+    distance_km: 48.02
+- country: US
+  region: WA
+  name: Rosalia
+  lat: '47.2363'
+  long: "-117.3764"
+  nearby_rate_centers:
+  - name: ROSALIA
+    distance_km: 0.97
+  - name: OAKESDALE
+    distance_km: 16.06
+  - name: LATAH
+    distance_km: 17.4
+- country: US
+  region: WA
+  name: Rosburg
+  lat: '46.3076'
+  long: "-123.6345"
+  nearby_rate_centers:
+  - name: GRAYSRIVER
+    distance_km: 6.24
+  - name: NASELLE
+    distance_km: 14.36
+  - name: CATHLAMET
+    distance_km: 22.84
+- country: US
+  region: WA
+  name: Rosedale
+  lat: '47.3452'
+  long: "-122.6369"
+  nearby_rate_centers:
+  - name: GIG HARBOR
+    distance_km: 3.51
+  - name: ARLETTA
+    distance_km: 7.33
+  - name: BURLEY
+    distance_km: 8.45
+- country: US
+  region: WA
+  name: Roslyn
+  lat: '47.2511'
+  long: "-121.0990"
+  nearby_rate_centers:
+  - name: CLE ELUM
+    distance_km: 4.71
+  - name: EASTON
+    distance_km: 5.75
+  - name: ROSLYN
+    distance_km: 7.95
+- country: US
+  region: WA
+  name: Roy
+  lat: '46.9970'
+  long: "-122.5423"
+  nearby_rate_centers:
+  - name: ROY
+    distance_km: 0.22
+  - name: YELM
+    distance_km: 7.92
+  - name: RAINIER
+    distance_km: 16.89
+- country: US
+  region: WA
+  name: Royal City
+  lat: '46.9018'
+  long: "-119.6205"
+  nearby_rate_centers:
+  - name: GEORGE
+    distance_km: 26.24
+  - name: VANTAGE
+    distance_km: 28.33
+  - name: OTHELLO
+    distance_km: 34.86
+- country: US
+  region: WA
+  name: Ruston
+  lat: '47.2982'
+  long: "-122.5103"
+  nearby_rate_centers:
+  - name: TACOMA
+    distance_km: 7.22
+  - name: GIG HARBOR
+    distance_km: 7.75
+  - name: FOX ISLAND
+    distance_km: 9.82
+- country: US
+  region: WA
+  name: Ryderwood
+  lat: '46.3750'
+  long: "-123.0441"
+  nearby_rate_centers:
+  - name: VADER
+    distance_km: 7.28
+  - name: CASTLEROCK
+    distance_km: 15.02
+  - name: WINLOCK
+    distance_km: 15.17
+- country: US
+  region: WA
+  name: Salmon Creek
+  lat: '45.7099'
+  long: "-122.6632"
+  nearby_rate_centers:
+  - name: VANCOUVER
+    distance_km: 9.64
+  - name: BATTLEGRND
+    distance_km: 13.55
+  - name: RIDGEFIELD
+    distance_km: 13.59
+- country: US
+  region: WA
+  name: Sammamish
+  lat: '47.6017'
+  long: "-122.0416"
+  nearby_rate_centers:
+  - name: AMES LAKE
+    distance_km: 8.01
+  - name: ISSAQUAH
+    distance_km: 8.45
+  - name: CARNATION
+    distance_km: 11.49
+- country: US
+  region: WA
+  name: Santiago
+  lat: '47.2975'
+  long: "-124.2327"
+  nearby_rate_centers:
+  - name: PACIFICBCH
+    distance_km: 10.02
+  - name: COPALIS
+    distance_km: 20.55
+  - name: CLEARWATER
+    distance_km: 31.21
+- country: US
+  region: WA
+  name: Satsop
+  lat: '47.0223'
+  long: "-123.4737"
+  nearby_rate_centers:
+  - name: ELMA
+    distance_km: 4.52
+  - name: MONTESANO
+    distance_km: 10.68
+  - name: ABERDEEN
+    distance_km: 26.97
+- country: US
+  region: WA
+  name: Schwana
+  lat: '46.8214'
+  long: "-119.9232"
+  nearby_rate_centers:
+  - name: VANTAGE
+    distance_km: 16.0
+  - name: MATTAWA
+    distance_km: 19.78
+  - name: GEORGE
+    distance_km: 28.97
+- country: US
+  region: WA
+  name: SeaTac
+  lat: '47.4444'
+  long: "-122.2986"
+  nearby_rate_centers:
+  - name: DES MOINES
+    distance_km: 5.31
+  - name: KENT
+    distance_km: 8.45
+  - name: RENTON
+    distance_km: 10.91
+- country: US
+  region: WA
+  name: Seabeck
+  lat: '47.6436'
+  long: "-122.8222"
+  nearby_rate_centers:
+  - name: SILVERDALE
+    distance_km: 9.38
+  - name: BRINNON
+    distance_km: 12.87
+  - name: HOOD CANAL
+    distance_km: 12.87
+  - name: POULSBO
+    distance_km: 14.14
+- country: US
+  region: WA
+  name: Seattle
+  lat: '47.6211'
+  long: "-122.3244"
+  nearby_rate_centers:
+  - name: SEATTLE
+    distance_km: 1.37
+  - name: BELLEVUE
+    distance_km: 8.66
+  - name: KIRKLAND
+    distance_km: 11.33
+- country: US
+  region: WA
+  name: Sedro-Woolley
+  lat: '48.5112'
+  long: "-122.2321"
+  nearby_rate_centers:
+  - name: SEDROWOLLY
+    distance_km: 1.21
+  - name: ALGER
+    distance_km: 8.62
+  - name: BURLINGTON
+    distance_km: 8.62
+  - name: EDISON
+    distance_km: 8.62
+  - name: BIG LAKE
+    distance_km: 13.08
+  - name: CONWAY
+    distance_km: 13.08
+  - name: MT VERNON
+    distance_km: 13.08
+- country: US
+  region: WA
+  name: Sekiu
+  lat: '48.2639'
+  long: "-124.3015"
+  nearby_rate_centers:
+  - name: CLALLAMBAY
+    distance_km: 3.5
+  - name: NEAH BAY
+    distance_km: 25.64
+  - name: FORKS
+    distance_km: 35.55
+- country: US
+  region: WA
+  name: Selah
+  lat: '46.6481'
+  long: "-120.5390"
+  nearby_rate_centers:
+  - name: SELAH
+    distance_km: 1.75
+  - name: YAKIMA
+    distance_km: 5.98
+  - name: COWICHE
+    distance_km: 13.28
+- country: US
+  region: WA
+  name: Sequim
+  lat: '48.0746'
+  long: "-123.0945"
+  nearby_rate_centers:
+  - name: SEQUIM
+    distance_km: 1.13
+  - name: GARDINER
+    distance_km: 13.38
+  - name: PT ANGELES
+    distance_km: 13.41
+- country: US
+  region: WA
+  name: Shadow Lake
+  lat: '47.4017'
+  long: "-122.0763"
+  nearby_rate_centers:
+  - name: MAPLE VLY
+    distance_km: 2.54
+  - name: BLACKDIMND
+    distance_km: 10.8
+  - name: KENT
+    distance_km: 12.1
+- country: US
+  region: WA
+  name: Shelton
+  lat: '47.2186'
+  long: "-123.1121"
+  nearby_rate_centers:
+  - name: SHELTON
+    distance_km: 1.67
+  - name: UNION
+    distance_km: 15.5
+  - name: HOODSPORT
+    distance_km: 21.33
+- country: US
+  region: WA
+  name: Shoreline
+  lat: '47.7564'
+  long: "-122.3426"
+  nearby_rate_centers:
+  - name: RICHMNDBCH
+    distance_km: 4.26
+  - name: HALLS LAKE
+    distance_km: 5.07
+  - name: BOTHELL
+    distance_km: 10.67
+  - name: DUVALL
+    distance_km: 10.67
+- country: US
+  region: WA
+  name: Silvana
+  lat: '48.2018'
+  long: "-122.2459"
+  nearby_rate_centers:
+  - name: ARLINGTON
+    distance_km: 9.26
+  - name: STANWOOD
+    distance_km: 10.7
+  - name: MARYSVILLE
+    distance_km: 17.4
+- country: US
+  region: WA
+  name: Silver Firs
+  lat: '47.8635'
+  long: "-122.1497"
+  nearby_rate_centers:
+  - name: SILVERLAKE
+    distance_km: 3.9
+  - name: SNOHOMISH
+    distance_km: 7.32
+  - name: BOTHELL
+    distance_km: 11.41
+  - name: DUVALL
+    distance_km: 11.41
+- country: US
+  region: WA
+  name: Silverdale
+  lat: '47.6663'
+  long: "-122.6828"
+  nearby_rate_centers:
+  - name: SILVERDALE
+    distance_km: 2.86
+  - name: POULSBO
+    distance_km: 5.87
+  - name: BREMERTON
+    distance_km: 11.61
+- country: US
+  region: WA
+  name: Sisco Heights
+  lat: '48.1180'
+  long: "-122.1112"
+  nearby_rate_centers:
+  - name: ARLINGTON
+    distance_km: 8.05
+  - name: MARYSVILLE
+    distance_km: 8.85
+  - name: GRANITEFLS
+    distance_km: 10.83
+- country: US
+  region: WA
+  name: Skamokawa Valley
+  lat: '46.3004'
+  long: "-123.4243"
+  nearby_rate_centers:
+  - name: CATHLAMET
+    distance_km: 11.63
+  - name: GRAYSRIVER
+    distance_km: 15.47
+  - name: PUGET IS
+    distance_km: 16.26
+- country: US
+  region: WA
+  name: Skokomish
+  lat: '47.3298'
+  long: "-123.1573"
+  nearby_rate_centers:
+  - name: UNION
+    distance_km: 5.51
+  - name: HOODSPORT
+    distance_km: 8.97
+  - name: SHELTON
+    distance_km: 14.31
+- country: US
+  region: WA
+  name: Skykomish
+  lat: '47.7104'
+  long: "-121.3584"
+  nearby_rate_centers:
+  - name: SKYKOMISH
+    distance_km: 0.93
+  - name: STEVESPASS
+    distance_km: 20.96
+  - name: SNOQUMPASS
+    distance_km: 31.93
+- country: US
+  region: WA
+  name: Snohomish
+  lat: '47.9276'
+  long: "-122.0969"
+  nearby_rate_centers:
+  - name: SNOHOMISH
+    distance_km: 1.47
+  - name: SILVERLAKE
+    distance_km: 9.06
+  - name: EVERETT
+    distance_km: 9.89
+- country: US
+  region: WA
+  name: Snoqualmie
+  lat: '47.5293'
+  long: "-121.8412"
+  nearby_rate_centers:
+  - name: NORTH BEND
+    distance_km: 4.92
+  - name: FALL CITY
+    distance_km: 5.54
+  - name: CARNATION
+    distance_km: 14.34
+- country: US
+  region: WA
+  name: Snoqualmie Pass
+  lat: '47.4014'
+  long: "-121.4110"
+  nearby_rate_centers:
+  - name: SNOQUMPASS
+    distance_km: 2.75
+  - name: EASTON
+    distance_km: 25.15
+  - name: NORTH BEND
+    distance_km: 30.77
+- country: US
+  region: WA
+  name: Soap Lake
+  lat: '47.3914'
+  long: "-119.4893"
+  nearby_rate_centers:
+  - name: SOAP LAKE
+    distance_km: 0.86
+  - name: EPHRATA
+    distance_km: 9.86
+  - name: WILSON CRK
+    distance_km: 28.05
+- country: US
+  region: WA
+  name: South Bend
+  lat: '46.6678'
+  long: "-123.8006"
+  nearby_rate_centers:
+  - name: SOUTH BEND
+    distance_km: 0.5
+  - name: RAYMOND
+    distance_km: 5.9
+  - name: GRAYLAND
+    distance_km: 26.55
+- country: US
+  region: WA
+  name: South Cle Elum
+  lat: '47.1862'
+  long: "-120.9526"
+  nearby_rate_centers:
+  - name: ROSLYN
+    distance_km: 5.74
+  - name: CLE ELUM
+    distance_km: 8.96
+  - name: EASTON
+    distance_km: 17.85
+- country: US
+  region: WA
+  name: South Creek
+  lat: '46.9994'
+  long: "-122.3920"
+  nearby_rate_centers:
+  - name: GRAHAM
+    distance_km: 8.87
+  - name: ROY
+    distance_km: 11.53
+  - name: ORTING
+    distance_km: 16.98
+- country: US
+  region: WA
+  name: South Hill
+  lat: '47.1198'
+  long: "-122.2853"
+  nearby_rate_centers:
+  - name: ORTING
+    distance_km: 6.52
+  - name: PUYALLUP
+    distance_km: 7.93
+  - name: GRAHAM
+    distance_km: 8.94
+- country: US
+  region: WA
+  name: South Prairie
+  lat: '47.1373'
+  long: "-122.0939"
+  nearby_rate_centers:
+  - name: SO PRAIRIE
+    distance_km: 0.56
+  - name: BUCKLEY
+    distance_km: 4.95
+  - name: ORTING
+    distance_km: 10.34
+- country: US
+  region: WA
+  name: South Wenatchee
+  lat: '47.3885'
+  long: "-120.2829"
+  nearby_rate_centers:
+  - name: WENATCHEE
+    distance_km: 4.9
+  - name: CASHMERE
+    distance_km: 19.69
+  - name: ENTIAT
+    distance_km: 30.27
+- country: US
+  region: WA
+  name: Southworth
+  lat: '47.5125'
+  long: "-122.5298"
+  nearby_rate_centers:
+  - name: PORT ORCH
+    distance_km: 8.41
+  - name: VASHON
+    distance_km: 9.71
+  - name: BREMERTON
+    distance_km: 10.02
+- country: US
+  region: WA
+  name: Spanaway
+  lat: '47.0979'
+  long: "-122.4233"
+  nearby_rate_centers:
+  - name: GRAHAM
+    distance_km: 11.95
+  - name: PUYALLUP
+    distance_km: 13.77
+  - name: ROY
+    distance_km: 14.35
+- country: US
+  region: WA
+  name: Spangle
+  lat: '47.4299'
+  long: "-117.3812"
+  nearby_rate_centers:
+  - name: SPANGLE
+    distance_km: 0.34
+  - name: CHENEY
+    distance_km: 16.02
+  - name: FAIRFIELD
+    distance_km: 16.56
+- country: US
+  region: WA
+  name: Spokane
+  lat: '47.6671'
+  long: "-117.4330"
+  nearby_rate_centers:
+  - name: SPOKANE
+    distance_km: 1.13
+  - name: MEDICAL LK
+    distance_km: 20.86
+  - name: CHENEY
+    distance_km: 22.26
+- country: US
+  region: WA
+  name: Spokane Valley
+  lat: '47.6626'
+  long: "-117.2346"
+  nearby_rate_centers:
+  - name: LIBERTY LK
+    distance_km: 10.32
+  - name: NEWMANLAKE
+    distance_km: 13.68
+  - name: SPOKANE
+    distance_km: 15.35
+- country: US
+  region: WA
+  name: Sprague
+  lat: '47.3048'
+  long: "-117.9714"
+  nearby_rate_centers:
+  - name: SPRAGUE
+    distance_km: 0.9
+  - name: EDWALLTYLR
+    distance_km: 19.75
+  - name: HARRINGTON
+    distance_km: 29.35
+- country: US
+  region: WA
+  name: Springdale
+  lat: '48.0572'
+  long: "-117.7466"
+  nearby_rate_centers:
+  - name: SPRINGDALE
+    distance_km: 0.42
+  - name: LOON LAKE
+    distance_km: 8.29
+  - name: DEER PARK
+    distance_km: 22.73
+- country: US
+  region: WA
+  name: St. John
+  lat: '47.0915'
+  long: "-117.5887"
+  nearby_rate_centers:
+  - name: ST JOHN
+    distance_km: 0.46
+  - name: ENDICOTT
+    distance_km: 19.5
+  - name: ROSALIA
+    distance_km: 22.99
+- country: US
+  region: WA
+  name: Stansberry Lake
+  lat: '47.3814'
+  long: "-122.7153"
+  nearby_rate_centers:
+  - name: BURLEY
+    distance_km: 7.78
+  - name: GIG HARBOR
+    distance_km: 10.37
+  - name: BELFAIR
+    distance_km: 11.11
+- country: US
+  region: WA
+  name: Stanwood
+  lat: '48.2449'
+  long: "-122.3426"
+  nearby_rate_centers:
+  - name: STANWOOD
+    distance_km: 2.73
+  - name: ARLINGTON
+    distance_km: 17.43
+  - name: BIG LAKE
+    distance_km: 18.89
+  - name: CONWAY
+    distance_km: 18.89
+  - name: MT VERNON
+    distance_km: 18.89
+- country: US
+  region: WA
+  name: Starbuck
+  lat: '46.5186'
+  long: "-118.1254"
+  nearby_rate_centers:
+  - name: STARBUCK
+    distance_km: 0.77
+  - name: DAYTON
+    distance_km: 25.12
+  - name: WAITSBURG
+    distance_km: 28.22
+- country: US
+  region: WA
+  name: Startup
+  lat: '47.8673'
+  long: "-121.7501"
+  nearby_rate_centers:
+  - name: SULTAN
+    distance_km: 4.77
+  - name: MONROE
+    distance_km: 16.6
+  - name: SNOHOMISH
+    distance_km: 25.86
+- country: US
+  region: WA
+  name: Steilacoom
+  lat: '47.1703'
+  long: "-122.5933"
+  nearby_rate_centers:
+  - name: FOX ISLAND
+    distance_km: 11.1
+  - name: ARLETTA
+    distance_km: 13.52
+  - name: TACOMA
+    distance_km: 15.22
+- country: US
+  region: WA
+  name: Steptoe
+  lat: '47.0075'
+  long: "-117.3502"
+  nearby_rate_centers:
+  - name: COLFAX
+    distance_km: 14.03
+  - name: GARFIELD
+    distance_km: 15.06
+  - name: OAKESDALE
+    distance_km: 15.19
+- country: US
+  region: WA
+  name: Stevenson
+  lat: '45.6927'
+  long: "-121.8949"
+  nearby_rate_centers:
+  - name: STEVENSON
+    distance_km: 1.33
+  - name: WILLARD
+    distance_km: 21.69
+  - name: WH SALMON
+    distance_km: 32.32
+- country: US
+  region: WA
+  name: Sudden Valley
+  lat: '48.7236'
+  long: "-122.3442"
+  nearby_rate_centers:
+  - name: BELLINGHAM
+    distance_km: 9.94
+  - name: ACME
+    distance_km: 14.82
+  - name: DEMING
+    distance_km: 14.82
+  - name: LAUREL
+    distance_km: 18.18
+- country: US
+  region: WA
+  name: Sultan
+  lat: '47.8710'
+  long: "-121.8043"
+  nearby_rate_centers:
+  - name: SULTAN
+    distance_km: 0.79
+  - name: MONROE
+    distance_km: 12.61
+  - name: SNOHOMISH
+    distance_km: 21.82
+- country: US
+  region: WA
+  name: Sumas
+  lat: '48.9955'
+  long: "-122.2694"
+  nearby_rate_centers:
+  - name: SUMAS
+    distance_km: 0.27
+  - name: EVERSON
+    distance_km: 10.34
+  - name: WHATCOMCTY
+    distance_km: 17.27
+- country: US
+  region: WA
+  name: Summit
+  lat: '47.1694'
+  long: "-122.3628"
+  nearby_rate_centers:
+  - name: PUYALLUP
+    distance_km: 5.15
+  - name: SUMNER
+    distance_km: 10.36
+  - name: TACOMAWVLY
+    distance_km: 10.81
+- country: US
+  region: WA
+  name: Summit View
+  lat: '47.1343'
+  long: "-122.3467"
+  nearby_rate_centers:
+  - name: PUYALLUP
+    distance_km: 7.08
+  - name: SUMNER
+    distance_km: 11.27
+  - name: GRAHAM
+    distance_km: 11.36
+- country: US
+  region: WA
+  name: Sumner
+  lat: '47.2189'
+  long: "-122.2338"
+  nearby_rate_centers:
+  - name: SUMNER
+    distance_km: 2.09
+  - name: PUYALLUP
+    distance_km: 6.05
+  - name: TACOMAWVLY
+    distance_km: 9.16
+- country: US
+  region: WA
+  name: Suncrest
+  lat: '47.8297'
+  long: "-117.6056"
+  nearby_rate_centers:
+  - name: DEER PARK
+    distance_km: 17.42
+  - name: SPOKANE
+    distance_km: 22.79
+  - name: LOON LAKE
+    distance_km: 26.51
+- country: US
+  region: WA
+  name: Sunday Lake
+  lat: '48.2265'
+  long: "-122.2537"
+  nearby_rate_centers:
+  - name: STANWOOD
+    distance_km: 9.37
+  - name: ARLINGTON
+    distance_km: 10.56
+  - name: MARYSVILLE
+    distance_km: 20.2
+- country: US
+  region: WA
+  name: Sunland Estates
+  lat: '47.0740'
+  long: "-120.0284"
+  nearby_rate_centers:
+  - name: VANTAGE
+    distance_km: 13.21
+  - name: GEORGE
+    distance_km: 13.39
+  - name: QUINCY
+    distance_km: 22.27
+- country: US
+  region: WA
+  name: Sunnyside
+  lat: '46.3157'
+  long: "-120.0058"
+  nearby_rate_centers:
+  - name: SUNNYSIDE
+    distance_km: 1.15
+  - name: GRANDVIEW
+    distance_km: 10.89
+  - name: MABTON
+    distance_km: 11.73
+- country: US
+  region: WA
+  name: Sunnyslope
+  lat: '47.4913'
+  long: "-120.3493"
+  nearby_rate_centers:
+  - name: WENATCHEE
+    distance_km: 7.62
+  - name: CASHMERE
+    distance_km: 9.19
+  - name: ENTIAT
+    distance_km: 20.82
+- country: US
+  region: WA
+  name: Suquamish
+  lat: '47.7238'
+  long: "-122.5830"
+  nearby_rate_centers:
+  - name: POULSBO
+    distance_km: 6.48
+  - name: KINGSTON
+    distance_km: 10.66
+  - name: BAINBDG IS
+    distance_km: 11.95
+- country: US
+  region: WA
+  name: Swede Heaven
+  lat: '48.2829'
+  long: "-121.7136"
+  nearby_rate_centers:
+  - name: DARRINGTON
+    distance_km: 9.14
+  - name: CONCRETE
+    distance_km: 29.06
+  - name: GRANITEFLS
+    distance_km: 29.6
+- country: US
+  region: WA
+  name: Tacoma
+  lat: '47.2431'
+  long: "-122.4531"
+  nearby_rate_centers:
+  - name: TACOMA
+    distance_km: 1.93
+  - name: TACOMAWVLY
+    distance_km: 9.26
+  - name: PUYALLUP
+    distance_km: 12.85
+- country: US
+  region: WA
+  name: Taholah
+  lat: '47.3283'
+  long: "-124.2728"
+  nearby_rate_centers:
+  - name: PACIFICBCH
+    distance_km: 14.2
+  - name: COPALIS
+    distance_km: 24.68
+  - name: CLEARWATER
+    distance_km: 27.5
+- country: US
+  region: WA
+  name: Tampico
+  lat: '46.5332'
+  long: "-120.8742"
+  nearby_rate_centers:
+  - name: COWICHE
+    distance_km: 19.56
+  - name: WHITE SWAN
+    distance_km: 19.81
+  - name: TIETON
+    distance_km: 21.38
+- country: US
+  region: WA
+  name: Tanglewilde
+  lat: '47.0512'
+  long: "-122.7809"
+  nearby_rate_centers:
+  - name: OLYMPIA
+    distance_km: 8.99
+  - name: YELM
+    distance_km: 17.68
+  - name: ROY
+    distance_km: 18.88
+- country: US
+  region: WA
+  name: Tehaleh
+  lat: '47.1165'
+  long: "-122.1824"
+  nearby_rate_centers:
+  - name: ORTING
+    distance_km: 3.7
+  - name: SO PRAIRIE
+    distance_km: 6.6
+  - name: SUMNER
+    distance_km: 10.06
+- country: US
+  region: WA
+  name: Tekoa
+  lat: '47.2248'
+  long: "-117.0731"
+  nearby_rate_centers:
+  - name: TEKOA
+    distance_km: 0.21
+  - name: LATAH
+    distance_km: 9.28
+  - name: FARMINGTON
+    distance_km: 15.09
+- country: US
+  region: WA
+  name: Tenino
+  lat: '46.8538'
+  long: "-122.8606"
+  nearby_rate_centers:
+  - name: TENINO
+    distance_km: 1.24
+  - name: BUCODA
+    distance_km: 5.85
+  - name: RAINIER
+    distance_km: 13.38
+- country: US
+  region: WA
+  name: Terrace Heights
+  lat: '46.6045'
+  long: "-120.4393"
+  nearby_rate_centers:
+  - name: YAKIMA
+    distance_km: 5.11
+  - name: SELAH
+    distance_km: 8.95
+  - name: WAPATO
+    distance_km: 17.07
+- country: US
+  region: WA
+  name: Thorp
+  lat: '47.0656'
+  long: "-120.6709"
+  nearby_rate_centers:
+  - name: THORP
+    distance_km: 4.87
+  - name: ELLENSBURG
+    distance_km: 12.09
+  - name: LAUDERDALE
+    distance_km: 18.76
+- country: US
+  region: WA
+  name: Three Lakes
+  lat: '47.9420'
+  long: "-121.9924"
+  nearby_rate_centers:
+  - name: SNOHOMISH
+    distance_km: 7.81
+  - name: MONROE
+    distance_km: 9.35
+  - name: SULTAN
+    distance_km: 15.62
+- country: US
+  region: WA
+  name: Tieton
+  lat: '46.7027'
+  long: "-120.7560"
+  nearby_rate_centers:
+  - name: TIETON
+    distance_km: 0.66
+  - name: COWICHE
+    distance_km: 5.15
+  - name: NACHES
+    distance_km: 5.62
+- country: US
+  region: WA
+  name: Tokeland
+  lat: '46.7090'
+  long: "-123.9839"
+  nearby_rate_centers:
+  - name: GRAYLAND
+    distance_km: 13.27
+  - name: SOUTH BEND
+    distance_km: 15.2
+  - name: RAYMOND
+    distance_km: 19.31
+- country: US
+  region: WA
+  name: Toledo
+  lat: '46.4415'
+  long: "-122.8497"
+  nearby_rate_centers:
+  - name: TOLEDO
+    distance_km: 0.19
+  - name: WINLOCK
+    distance_km: 9.04
+  - name: VADER
+    distance_km: 9.37
+- country: US
+  region: WA
+  name: Tonasket
+  lat: '48.7075'
+  long: "-119.4409"
+  nearby_rate_centers:
+  - name: LOOMIS
+    distance_km: 1.19
+  - name: TONASKET
+    distance_km: 1.19
+  - name: MT HULL
+    distance_km: 15.87
+  - name: OROVILLE
+    distance_km: 25.88
+- country: US
+  region: WA
+  name: Toppenish
+  lat: '46.3806'
+  long: "-120.3122"
+  nearby_rate_centers:
+  - name: TOPPENISH
+    distance_km: 0.63
+  - name: ZILLAH
+    distance_km: 4.47
+  - name: GRANGER
+    distance_km: 9.59
+- country: US
+  region: WA
+  name: Torboy
+  lat: '48.6771'
+  long: "-118.6689"
+  nearby_rate_centers:
+  - name: REPUBLIC
+    distance_km: 5.63
+  - name: CURLEW
+    distance_km: 23.66
+  - name: KETTLE FLS
+    distance_km: 45.67
+- country: US
+  region: WA
+  name: Touchet
+  lat: '46.0411'
+  long: "-118.6724"
+  nearby_rate_centers:
+  - name: TOUCHET
+    distance_km: 0.45
+  - name: WALLAWALLA
+    distance_km: 26.08
+  - name: EUREKA
+    distance_km: 29.94
+- country: US
+  region: WA
+  name: Town and Country
+  lat: '47.7259'
+  long: "-117.4220"
+  nearby_rate_centers:
+  - name: SPOKANE
+    distance_km: 7.67
+  - name: ELK-GRNBLF
+    distance_km: 24.47
+  - name: MEDICAL LK
+    distance_km: 25.36
+- country: US
+  region: WA
+  name: Tracyton
+  lat: '47.6094'
+  long: "-122.6533"
+  nearby_rate_centers:
+  - name: BREMERTON
+    distance_km: 4.91
+  - name: SILVERDALE
+    distance_km: 4.92
+  - name: PORT ORCH
+    distance_km: 7.47
+- country: US
+  region: WA
+  name: Trout Lake
+  lat: '45.9976'
+  long: "-121.5290"
+  nearby_rate_centers:
+  - name: TROUT LAKE
+    distance_km: 0.71
+  - name: GLENWOOD
+    distance_km: 19.2
+  - name: WILLARD
+    distance_km: 27.83
+- country: US
+  region: WA
+  name: Tukwila
+  lat: '47.4750'
+  long: "-122.2728"
+  nearby_rate_centers:
+  - name: RENTON
+    distance_km: 7.52
+  - name: DES MOINES
+    distance_km: 9.22
+  - name: KENT
+    distance_km: 10.73
+- country: US
+  region: WA
+  name: Tumwater
+  lat: '46.9891'
+  long: "-122.9175"
+  nearby_rate_centers:
+  - name: OLYMPIA
+    distance_km: 5.3
+  - name: TENINO
+    distance_km: 15.37
+  - name: RAINIER
+    distance_km: 20.89
+- country: US
+  region: WA
+  name: Twin Lakes
+  lat: '48.2622'
+  long: "-118.3591"
+  nearby_rate_centers:
+  - name: HUNTERS
+    distance_km: 19.99
+  - name: KETTLE FLS
+    distance_km: 44.69
+  - name: COLVILLE
+    distance_km: 45.91
+- country: US
+  region: WA
+  name: Twisp
+  lat: '48.3619'
+  long: "-120.1171"
+  nearby_rate_centers:
+  - name: TWISP
+    distance_km: 1.07
+  - name: WINTHROP
+    distance_km: 13.46
+  - name: PATEROS
+    distance_km: 36.86
+- country: US
+  region: WA
+  name: Union
+  lat: '47.3475'
+  long: "-123.0951"
+  nearby_rate_centers:
+  - name: UNION
+    distance_km: 1.13
+  - name: HOODSPORT
+    distance_km: 7.66
+  - name: SHELTON
+    distance_km: 15.53
+- country: US
+  region: WA
+  name: Union Gap
+  lat: '46.5566'
+  long: "-120.4979"
+  nearby_rate_centers:
+  - name: YAKIMA
+    distance_km: 4.79
+  - name: SELAH
+    distance_km: 11.68
+  - name: WAPATO
+    distance_km: 13.13
+- country: US
+  region: WA
+  name: Union Hill-Novelty Hill
+  lat: '47.6788'
+  long: "-122.0284"
+  nearby_rate_centers:
+  - name: AMES LAKE
+    distance_km: 6.03
+  - name: CARNATION
+    distance_km: 9.66
+  - name: KIRKLAND
+    distance_km: 12.6
+- country: US
+  region: WA
+  name: Uniontown
+  lat: '46.5391'
+  long: "-117.0861"
+  nearby_rate_centers:
+  - name: UNIONTOWN
+    distance_km: 0.38
+  - name: CLARKSTON
+    distance_km: 14.07
+  - name: GARRISON
+    distance_km: 22.54
+- country: US
+  region: WA
+  name: University Place
+  lat: '47.2147'
+  long: "-122.5461"
+  nearby_rate_centers:
+  - name: FOX ISLAND
+    distance_km: 8.68
+  - name: TACOMA
+    distance_km: 9.47
+  - name: ARLETTA
+    distance_km: 11.63
+- country: US
+  region: WA
+  name: Upper Elochoman
+  lat: '46.2404'
+  long: "-123.3246"
+  nearby_rate_centers:
+  - name: CATHLAMET
+    distance_km: 6.26
+  - name: PUGET IS
+    distance_km: 9.77
+  - name: GRAYSRIVER
+    distance_km: 25.41
+- country: US
+  region: WA
+  name: Vader
+  lat: '46.4046'
+  long: "-122.9569"
+  nearby_rate_centers:
+  - name: VADER
+    distance_km: 0.31
+  - name: TOLEDO
+    distance_km: 9.36
+  - name: WINLOCK
+    distance_km: 9.78
+- country: US
+  region: WA
+  name: Valley
+  lat: '48.1730'
+  long: "-117.7244"
+  nearby_rate_centers:
+  - name: CHEWELAH
+    distance_km: 12.1
+  - name: SPRINGDALE
+    distance_km: 12.8
+  - name: LOON LAKE
+    distance_km: 13.46
+- country: US
+  region: WA
+  name: Vancouver
+  lat: '45.6366'
+  long: "-122.5967"
+  nearby_rate_centers:
+  - name: VANCOUVER
+    distance_km: 6.06
+  - name: CAMAS
+    distance_km: 15.64
+  - name: WASHGL RIV
+    distance_km: 15.64
+  - name: WASHOUGAL
+    distance_km: 15.64
+  - name: BATTLEGRND
+    distance_km: 17.28
+- country: US
+  region: WA
+  name: Vantage
+  lat: '46.9453'
+  long: "-119.9921"
+  nearby_rate_centers:
+  - name: VANTAGE
+    distance_km: 1.66
+  - name: GEORGE
+    distance_km: 18.14
+  - name: KITTITAS
+    distance_km: 32.67
+- country: US
+  region: WA
+  name: Vashon
+  lat: '47.4122'
+  long: "-122.4726"
+  nearby_rate_centers:
+  - name: VASHON
+    distance_km: 3.21
+  - name: DES MOINES
+    distance_km: 11.01
+  - name: GIG HARBOR
+    distance_km: 11.84
+- country: US
+  region: WA
+  name: Vaughn
+  lat: '47.3550'
+  long: "-122.7773"
+  nearby_rate_centers:
+  - name: LAKEBAY
+    distance_km: 10.68
+  - name: BELFAIR
+    distance_km: 11.02
+  - name: ARLETTA
+    distance_km: 11.78
+- country: US
+  region: WA
+  name: Venersborg
+  lat: '45.7860'
+  long: "-122.4721"
+  nearby_rate_centers:
+  - name: BATTLEGRND
+    distance_km: 4.03
+  - name: YACOLT
+    distance_km: 10.33
+  - name: AMBOY
+    distance_km: 13.53
+- country: US
+  region: WA
+  name: Verlot
+  lat: '48.1003'
+  long: "-121.7679"
+  nearby_rate_centers:
+  - name: GRANITEFLS
+    distance_km: 15.56
+  - name: DARRINGTON
+    distance_km: 21.01
+  - name: SULTAN
+    distance_km: 26.03
+- country: US
+  region: WA
+  name: Waitsburg
+  lat: '46.2698'
+  long: "-118.1509"
+  nearby_rate_centers:
+  - name: WAITSBURG
+    distance_km: 0.58
+  - name: PRESCOTT
+    distance_km: 13.0
+  - name: DAYTON
+    distance_km: 13.72
+- country: US
+  region: WA
+  name: Walla Walla
+  lat: '46.0671'
+  long: "-118.3368"
+  nearby_rate_centers:
+  - name: WALLAWALLA
+    distance_km: 0.07
+  - name: TOUCHET
+    distance_km: 25.61
+  - name: PRESCOTT
+    distance_km: 25.84
+- country: US
+  region: WA
+  name: Walla Walla East
+  lat: '46.0460'
+  long: "-118.3033"
+  nearby_rate_centers:
+  - name: WALLAWALLA
+    distance_km: 3.42
+  - name: WAITSBURG
+    distance_km: 27.18
+  - name: TOUCHET
+    distance_km: 28.04
+- country: US
+  region: WA
+  name: Waller
+  lat: '47.2035'
+  long: "-122.3700"
+  nearby_rate_centers:
+  - name: PUYALLUP
+    distance_km: 5.35
+  - name: TACOMAWVLY
+    distance_km: 7.31
+  - name: TACOMA
+    distance_km: 7.76
+- country: US
+  region: WA
+  name: Wallula
+  lat: '46.0847'
+  long: "-118.9056"
+  nearby_rate_centers:
+  - name: TOUCHET
+    distance_km: 19.08
+  - name: KENNEWICK
+    distance_km: 21.73
+  - name: PASCO
+    distance_km: 22.34
+- country: US
+  region: WA
+  name: Wapato
+  lat: '46.4437'
+  long: "-120.4215"
+  nearby_rate_centers:
+  - name: WAPATO
+    distance_km: 0.89
+  - name: HARRAH
+    distance_km: 9.75
+  - name: TOPPENISH
+    distance_km: 11.43
+- country: US
+  region: WA
+  name: Warden
+  lat: '46.9672'
+  long: "-119.0523"
+  nearby_rate_centers:
+  - name: WARDEN
+    distance_km: 1.05
+  - name: OTHELLO
+    distance_km: 18.62
+  - name: MOSES LAKE
+    distance_km: 25.02
+- country: US
+  region: WA
+  name: Warm Beach
+  lat: '48.1665'
+  long: "-122.3448"
+  nearby_rate_centers:
+  - name: STANWOOD
+    distance_km: 8.52
+  - name: HAT ISLAND
+    distance_km: 16.68
+  - name: ARLINGTON
+    distance_km: 16.71
+- country: US
+  region: WA
+  name: Washougal
+  lat: '45.5825'
+  long: "-122.3451"
+  nearby_rate_centers:
+  - name: CAMAS
+    distance_km: 4.88
+  - name: WASHGL RIV
+    distance_km: 4.88
+  - name: WASHOUGAL
+    distance_km: 4.88
+  - name: VANCOUVER
+    distance_km: 25.86
+  - name: BATTLEGRND
+    distance_km: 26.32
+- country: US
+  region: WA
+  name: Washtucna
+  lat: '46.7539'
+  long: "-118.3106"
+  nearby_rate_centers:
+  - name: WASHTUCNA
+    distance_km: 0.54
+  - name: KAHLOTUS
+    distance_km: 22.43
+  - name: BENGE
+    distance_km: 23.11
+- country: US
+  region: WA
+  name: Waterville
+  lat: '47.6480'
+  long: "-120.0707"
+  nearby_rate_centers:
+  - name: DOUGLASCO
+    distance_km: 0.41
+  - name: WATERVILLE
+    distance_km: 0.41
+  - name: ENTIAT
+    distance_km: 11.37
+  - name: CHELAN
+    distance_km: 21.67
+- country: US
+  region: WA
+  name: Wauna
+  lat: '47.3860'
+  long: "-122.6695"
+  nearby_rate_centers:
+  - name: BURLEY
+    distance_km: 4.89
+  - name: GIG HARBOR
+    distance_km: 7.71
+  - name: ARLETTA
+    distance_km: 11.58
+- country: US
+  region: WA
+  name: Waverly
+  lat: '47.3380'
+  long: "-117.2312"
+  nearby_rate_centers:
+  - name: FAIRFIELD
+    distance_km: 6.75
+  - name: LATAH
+    distance_km: 8.06
+  - name: SPANGLE
+    distance_km: 15.04
+- country: US
+  region: WA
+  name: Wenatchee
+  lat: '47.4360'
+  long: "-120.3295"
+  nearby_rate_centers:
+  - name: WENATCHEE
+    distance_km: 1.47
+  - name: CASHMERE
+    distance_km: 13.52
+  - name: ENTIAT
+    distance_km: 25.93
+- country: US
+  region: WA
+  name: West Clarkston-Highland
+  lat: '46.4017'
+  long: "-117.0624"
+  nearby_rate_centers:
+  - name: CLARKSTON
+    distance_km: 2.3
+  - name: ASOTIN
+    distance_km: 7.54
+  - name: UNIONTOWN
+    distance_km: 15.66
+- country: US
+  region: WA
+  name: West Pasco
+  lat: '46.2498'
+  long: "-119.1687"
+  nearby_rate_centers:
+  - name: PASCO
+    distance_km: 5.6
+  - name: KENNEWICK
+    distance_km: 5.74
+  - name: RICHLAND
+    distance_km: 8.49
+- country: US
+  region: WA
+  name: West Richland
+  lat: '46.3115'
+  long: "-119.3999"
+  nearby_rate_centers:
+  - name: BENTONCITY
+    distance_km: 8.04
+  - name: RICHLAND
+    distance_km: 10.56
+  - name: COLUMBIA
+    distance_km: 18.73
+- country: US
+  region: WA
+  name: Westport
+  lat: '46.8917'
+  long: "-124.1118"
+  nearby_rate_centers:
+  - name: GRAYHARBCO
+    distance_km: 0.22
+  - name: WESTPORT
+    distance_km: 0.22
+  - name: OCOSTA
+    distance_km: 6.14
+  - name: GRAYLAND
+    distance_km: 9.7
+- country: US
+  region: WA
+  name: Wheeler
+  lat: '47.1349'
+  long: "-119.1760"
+  nearby_rate_centers:
+  - name: MOSES LAKE
+    distance_km: 7.49
+  - name: WARDEN
+    distance_km: 21.33
+  - name: WILSON CRK
+    distance_km: 32.35
+- country: US
+  region: WA
+  name: Whidbey Island Station
+  lat: '48.3387'
+  long: "-122.6616"
+  nearby_rate_centers:
+  - name: OAK HARBOR
+    distance_km: 5.2
+  - name: COUPEVILLE
+    distance_km: 13.45
+  - name: ANACORTES
+    distance_km: 18.41
+- country: US
+  region: WA
+  name: White Center
+  lat: '47.5086'
+  long: "-122.3479"
+  nearby_rate_centers:
+  - name: VASHON
+    distance_km: 11.34
+  - name: SEATTLE
+    distance_km: 11.35
+  - name: DES MOINES
+    distance_km: 12.1
+- country: US
+  region: WA
+  name: White Salmon
+  lat: '45.7283'
+  long: "-121.4853"
+  nearby_rate_centers:
+  - name: WH SALMON
+    distance_km: 0.72
+  - name: WILLARD
+    distance_km: 11.81
+  - name: LYLE
+    distance_km: 16.53
+- country: US
+  region: WA
+  name: White Swan
+  lat: '46.3770'
+  long: "-120.7382"
+  nearby_rate_centers:
+  - name: WHITE SWAN
+    distance_km: 0.64
+  - name: HARRAH
+    distance_km: 15.72
+  - name: WAPATO
+    distance_km: 25.79
+- country: US
+  region: WA
+  name: Wilbur
+  lat: '47.7581'
+  long: "-118.7117"
+  nearby_rate_centers:
+  - name: WILBUR
+    distance_km: 0.25
+  - name: CRESTON
+    distance_km: 14.05
+  - name: ALMIRA
+    distance_km: 18.24
+- country: US
+  region: WA
+  name: Wilderness Rim
+  lat: '47.4464'
+  long: "-121.7690"
+  nearby_rate_centers:
+  - name: NORTH BEND
+    distance_km: 6.09
+  - name: FALL CITY
+    distance_km: 16.19
+  - name: MAPLE VLY
+    distance_km: 21.27
+- country: US
+  region: WA
+  name: Wilkeson
+  lat: '47.1033'
+  long: "-122.0494"
+  nearby_rate_centers:
+  - name: SO PRAIRIE
+    distance_km: 5.02
+  - name: BUCKLEY
+    distance_km: 6.09
+  - name: ENUMCLAW
+    distance_km: 11.67
+- country: US
+  region: WA
+  name: Willapa
+  lat: '46.6755'
+  long: "-123.6648"
+  nearby_rate_centers:
+  - name: RAYMOND
+    distance_km: 5.44
+  - name: SOUTH BEND
+    distance_km: 9.9
+  - name: PE ELL
+    distance_km: 30.0
+- country: US
+  region: WA
+  name: Wilson Creek
+  lat: '47.4230'
+  long: "-119.1176"
+  nearby_rate_centers:
+  - name: WILSON CRK
+    distance_km: 0.15
+  - name: COULEECITY
+    distance_km: 24.37
+  - name: SOAP LAKE
+    distance_km: 28.58
+- country: US
+  region: WA
+  name: Winlock
+  lat: '46.4907'
+  long: "-122.9341"
+  nearby_rate_centers:
+  - name: WINLOCK
+    distance_km: 0.64
+  - name: TOLEDO
+    distance_km: 8.6
+  - name: VADER
+    distance_km: 10.04
+- country: US
+  region: WA
+  name: Winthrop
+  lat: '48.4715'
+  long: "-120.1792"
+  nearby_rate_centers:
+  - name: WINTHROP
+    distance_km: 0.65
+  - name: TWISP
+    distance_km: 12.08
+  - name: OMAK
+    distance_km: 48.12
+- country: US
+  region: WA
+  name: Wishram
+  lat: '45.6613'
+  long: "-120.9714"
+  nearby_rate_centers:
+  - name: WISHRAM
+    distance_km: 0.89
+  - name: DALLESPORT
+    distance_km: 17.18
+  - name: GOLDENDALE
+    distance_km: 21.66
+- country: US
+  region: WA
+  name: Wollochet
+  lat: '47.2828'
+  long: "-122.5768"
+  nearby_rate_centers:
+  - name: FOX ISLAND
+    distance_km: 4.52
+  - name: ARLETTA
+    distance_km: 6.59
+  - name: GIG HARBOR
+    distance_km: 6.64
+- country: US
+  region: WA
+  name: Woodinville
+  lat: '47.7570'
+  long: "-122.1477"
+  nearby_rate_centers:
+  - name: BOTHELL
+    distance_km: 4.11
+  - name: DUVALL
+    distance_km: 4.11
+  - name: KIRKLAND
+    distance_km: 9.76
+  - name: SILVERLAKE
+    distance_km: 14.16
+- country: US
+  region: WA
+  name: Woodland
+  lat: '45.9145'
+  long: "-122.7505"
+  nearby_rate_centers:
+  - name: WOODLAND
+    distance_km: 0.6
+  - name: LA CENTER
+    distance_km: 8.26
+  - name: RIDGEFIELD
+    distance_km: 10.71
+- country: US
+  region: WA
+  name: Woods Creek
+  lat: '47.8822'
+  long: "-121.8981"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 6.11
+  - name: SULTAN
+    distance_km: 6.46
+  - name: SNOHOMISH
+    distance_km: 14.73
+- country: US
+  region: WA
+  name: Woodway
+  lat: '47.7904'
+  long: "-122.3851"
+  nearby_rate_centers:
+  - name: RICHMNDBCH
+    distance_km: 1.57
+  - name: HALLS LAKE
+    distance_km: 4.5
+  - name: KINGSTON
+    distance_km: 8.48
+- country: US
+  region: WA
+  name: Yacolt
+  lat: '45.8652'
+  long: "-122.4062"
+  nearby_rate_centers:
+  - name: YACOLT
+    distance_km: 0.41
+  - name: AMBOY
+    distance_km: 5.8
+  - name: BATTLEGRND
+    distance_km: 12.88
+- country: US
+  region: WA
+  name: Yakima
+  lat: '46.5923'
+  long: "-120.5496"
+  nearby_rate_centers:
+  - name: YAKIMA
+    distance_km: 3.44
+  - name: SELAH
+    distance_km: 7.78
+  - name: COWICHE
+    distance_km: 14.92
+- country: US
+  region: WA
+  name: Yarrow Point
+  lat: '47.6492'
+  long: "-122.2191"
+  nearby_rate_centers:
+  - name: KIRKLAND
+    distance_km: 3.39
+  - name: BELLEVUE
+    distance_km: 4.61
+  - name: SEATTLE
+    distance_km: 9.56
+- country: US
+  region: WA
+  name: Yelm
+  lat: '46.9398'
+  long: "-122.6262"
+  nearby_rate_centers:
+  - name: YELM
+    distance_km: 1.26
+  - name: RAINIER
+    distance_km: 7.92
+  - name: ROY
+    distance_km: 9.03
+- country: US
+  region: WA
+  name: Zillah
+  lat: '46.4084'
+  long: "-120.2727"
+  nearby_rate_centers:
+  - name: ZILLAH
+    distance_km: 1.43
+  - name: TOPPENISH
+    distance_km: 4.7
+  - name: GRANGER
+    distance_km: 9.36

@@ -1,0 +1,6966 @@
+---
+cities:
+- country: US
+  region: MD
+  name: Aberdeen
+  lat: '39.5151'
+  long: "-76.1733"
+  nearby_rate_centers:
+  - name: ABERDEEN
+    distance_km: 0.8
+  - name: CHURCHVL
+    distance_km: 7.9
+  - name: HAVREGRACE
+    distance_km: 8.04
+- country: US
+  region: MD
+  name: Aberdeen Proving Ground
+  lat: '39.4672'
+  long: "-76.1308"
+  nearby_rate_centers:
+  - name: ABERDEEN
+    distance_km: 5.65
+  - name: HAVREGRACE
+    distance_km: 9.95
+  - name: PERRYVILLE
+    distance_km: 11.23
+- country: US
+  region: MD
+  name: Abingdon
+  lat: '39.4629'
+  long: "-76.2754"
+  nearby_rate_centers:
+  - name: EDGEWOOD
+    distance_km: 4.83
+  - name: FALLSTON
+    distance_km: 8.81
+  - name: BEL AIR
+    distance_km: 10.13
+- country: US
+  region: MD
+  name: Accident
+  lat: '39.6257'
+  long: "-79.3200"
+  nearby_rate_centers:
+  - name: ACCIDENT
+    distance_km: 0.17
+  - name: FRIENDSVL
+    distance_km: 7.99
+  - name: BITTINGER
+    distance_km: 9.15
+- country: US
+  region: MD
+  name: Accokeek
+  lat: '38.6745'
+  long: "-77.0023"
+  nearby_rate_centers:
+  - name: WALDORF
+    distance_km: 10.1
+  - name: WSNGTNZN16
+    distance_km: 13.65
+  - name: BRANDYWINE
+    distance_km: 13.88
+- country: US
+  region: MD
+  name: Adamstown
+  lat: '39.3070'
+  long: "-77.4692"
+  nearby_rate_centers:
+  - name: BUCKEYSTN
+    distance_km: 4.05
+  - name: BRUNSWICK
+    distance_km: 13.26
+  - name: FREDERICK
+    distance_km: 13.41
+- country: US
+  region: MD
+  name: Adelphi
+  lat: '39.0017'
+  long: "-76.9649"
+  nearby_rate_centers:
+  - name: BERWYN
+    distance_km: 4.58
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 4.58
+  - name: WSNG236Z13
+    distance_km: 4.58
+  - name: WSNG238Z13
+    distance_km: 4.58
+  - name: WSHNGTNZN4
+    distance_km: 5.81
+  - name: WSNGTNZON4
+    distance_km: 5.81
+  - name: WSHNGTNZN3
+    distance_km: 6.6
+- country: US
+  region: MD
+  name: Algonquin
+  lat: '38.5843'
+  long: "-76.0965"
+  nearby_rate_centers:
+  - name: CAMBRIDGE
+    distance_km: 2.59
+  - name: TRAPPE
+    distance_km: 8.63
+  - name: OXFORD
+    distance_km: 12.55
+- country: US
+  region: MD
+  name: Allen
+  lat: '38.2894'
+  long: "-75.6904"
+  nearby_rate_centers:
+  - name: PRINCEANNE
+    distance_km: 8.89
+  - name: SALISBURY
+    distance_km: 11.21
+  - name: NANTICOKE
+    distance_km: 17.44
+- country: US
+  region: MD
+  name: Andrews AFB
+  lat: '38.8054'
+  long: "-76.8744"
+  nearby_rate_centers:
+  - name: WSNGTNZN16
+    distance_km: 4.75
+  - name: WSHNGTNZN5
+    distance_km: 9.41
+  - name: WSHNGTNZN6
+    distance_km: 10.16
+- country: US
+  region: MD
+  name: Annapolis
+  lat: '38.9706'
+  long: "-76.5047"
+  nearby_rate_centers:
+  - name: ANNAPOLIS
+    distance_km: 1.61
+  - name: SHERWD FOR
+    distance_km: 6.63
+  - name: SEVERNA PK
+    distance_km: 11.53
+- country: US
+  region: MD
+  name: Annapolis Neck
+  lat: '38.9409'
+  long: "-76.4997"
+  nearby_rate_centers:
+  - name: ANNAPOLIS
+    distance_km: 4.76
+  - name: SHERWD FOR
+    distance_km: 9.83
+  - name: WEST RIVER
+    distance_km: 13.33
+- country: US
+  region: MD
+  name: Antietam
+  lat: '39.4151'
+  long: "-77.7364"
+  nearby_rate_centers:
+  - name: KEEDYSVL
+    distance_km: 9.37
+  - name: BRUNSWICK
+    distance_km: 14.78
+  - name: MIDDLETOWN
+    distance_km: 17.26
+- country: US
+  region: MD
+  name: Aquasco
+  lat: '38.5913'
+  long: "-76.7074"
+  nearby_rate_centers:
+  - name: HUGHESVL
+    distance_km: 9.39
+  - name: PRINCEFRCK
+    distance_km: 11.89
+  - name: MECHANCSVL
+    distance_km: 16.88
+- country: US
+  region: MD
+  name: Arbutus
+  lat: '39.2428'
+  long: "-76.6922"
+  nearby_rate_centers:
+  - name: ARBUTUS
+    distance_km: 2.28
+  - name: ELKRIDGE
+    distance_km: 3.79
+  - name: CATONSVL
+    distance_km: 5.26
+- country: US
+  region: MD
+  name: Arden on the Severn
+  lat: '39.0677'
+  long: "-76.5964"
+  nearby_rate_centers:
+  - name: SEVERNA PK
+    distance_km: 4.04
+  - name: MILLERSVL
+    distance_km: 4.31
+  - name: SHERWD FOR
+    distance_km: 6.93
+- country: US
+  region: MD
+  name: Arnold
+  lat: '39.0437'
+  long: "-76.4974"
+  nearby_rate_centers:
+  - name: SHERWD FOR
+    distance_km: 4.27
+  - name: SEVERNA PK
+    distance_km: 5.27
+  - name: ANNAPOLIS
+    distance_km: 6.68
+- country: US
+  region: MD
+  name: Ashton-Sandy Spring
+  lat: '39.1515'
+  long: "-77.0065"
+  nearby_rate_centers:
+  - name: ASHTON236
+    distance_km: 1.38
+  - name: ASHTON238
+    distance_km: 1.38
+  - name: WSNGTNZN12
+    distance_km: 8.6
+  - name: LAUREL236
+    distance_km: 14.19
+  - name: LAUREL238
+    distance_km: 14.19
+- country: US
+  region: MD
+  name: Aspen Hill
+  lat: '39.0927'
+  long: "-77.0826"
+  nearby_rate_centers:
+  - name: WSNGTNZN12
+    distance_km: 3.18
+  - name: WSNGTNZN10
+    distance_km: 6.72
+  - name: WSNGTNZN11
+    distance_km: 7.56
+- country: US
+  region: MD
+  name: Baden
+  lat: '38.6720'
+  long: "-76.7428"
+  nearby_rate_centers:
+  - name: BRANDYWINE
+    distance_km: 9.43
+  - name: WALDORF
+    distance_km: 14.95
+  - name: HUGHESVL
+    distance_km: 15.84
+- country: US
+  region: MD
+  name: Bagtown
+  lat: '39.5830'
+  long: "-77.6139"
+  nearby_rate_centers:
+  - name: SMITHSBURG
+    distance_km: 8.22
+  - name: MYERSVILLE
+    distance_km: 9.31
+  - name: HAGERSTOWN
+    distance_km: 11.79
+- country: US
+  region: MD
+  name: Bakersville
+  lat: '39.5148'
+  long: "-77.7570"
+  nearby_rate_centers:
+  - name: KEEDYSVL
+    distance_km: 5.32
+  - name: WILLIAMSPT
+    distance_km: 10.96
+  - name: HAGERSTOWN
+    distance_km: 14.38
+- country: US
+  region: MD
+  name: Ballenger Creek
+  lat: '39.3807'
+  long: "-77.4206"
+  nearby_rate_centers:
+  - name: FREDERICK
+    distance_km: 4.3
+  - name: BUCKEYSTN
+    distance_km: 5.53
+  - name: MIDDLETOWN
+    distance_km: 12.25
+- country: US
+  region: MD
+  name: Baltimore
+  lat: '39.3051'
+  long: "-76.6144"
+  nearby_rate_centers:
+  - name: BALTIMORE
+    distance_km: 0.69
+  - name: ARBUTUS
+    distance_km: 8.22
+  - name: ESSEX
+    distance_km: 9.22
+- country: US
+  region: MD
+  name: Baltimore Highlands
+  lat: '39.2355'
+  long: "-76.6367"
+  nearby_rate_centers:
+  - name: ARBUTUS
+    distance_km: 2.62
+  - name: BRYNPKLNCM
+    distance_km: 2.69
+  - name: BALTIMORE
+    distance_km: 7.29
+- country: US
+  region: MD
+  name: Barclay
+  lat: '39.1451'
+  long: "-75.8655"
+  nearby_rate_centers:
+  - name: SUDLERSVL
+    distance_km: 5.34
+  - name: CHURCHHILL
+    distance_km: 10.34
+  - name: MILLINGTON
+    distance_km: 12.6
+- country: US
+  region: MD
+  name: Barnesville
+  lat: '39.2212'
+  long: "-77.3799"
+  nearby_rate_centers:
+  - name: POOLESVL
+    distance_km: 9.58
+  - name: BUCKEYSTN
+    distance_km: 13.25
+  - name: DAMASCS236
+    distance_km: 16.62
+  - name: DAMASCS240
+    distance_km: 16.62
+- country: US
+  region: MD
+  name: Barrelville
+  lat: '39.7026'
+  long: "-78.8425"
+  nearby_rate_centers:
+  - name: MT SAVAGE
+    distance_km: 3.22
+  - name: FROSTBURG
+    distance_km: 9.26
+  - name: CUMBERLAND
+    distance_km: 9.51
+- country: US
+  region: MD
+  name: Barton
+  lat: '39.5323'
+  long: "-79.0171"
+  nearby_rate_centers:
+  - name: LONACONING
+    distance_km: 5.07
+  - name: WESTERNPT
+    distance_km: 5.24
+  - name: MCCOOLE
+    distance_km: 9.74
+- country: US
+  region: MD
+  name: Bartonsville
+  lat: '39.3901'
+  long: "-77.3513"
+  nearby_rate_centers:
+  - name: FREDERICK
+    distance_km: 5.87
+  - name: NEW MARKET
+    distance_km: 7.18
+  - name: BUCKEYSTN
+    distance_km: 9.67
+- country: US
+  region: MD
+  name: Beaver Creek
+  lat: '39.5816'
+  long: "-77.6514"
+  nearby_rate_centers:
+  - name: HAGERSTOWN
+    distance_km: 9.41
+  - name: SMITHSBURG
+    distance_km: 10.05
+  - name: KEEDYSVL
+    distance_km: 10.54
+- country: US
+  region: MD
+  name: Bel Air
+  lat: '39.5348'
+  long: "-76.3460"
+  nearby_rate_centers:
+  - name: BEL AIR
+    distance_km: 0.22
+  - name: FALLSTON
+    distance_km: 6.4
+  - name: CHURCHVL
+    distance_km: 8.85
+- country: US
+  region: MD
+  name: Bel Air North
+  lat: '39.5543'
+  long: "-76.3732"
+  nearby_rate_centers:
+  - name: BEL AIR
+    distance_km: 3.06
+  - name: FALLSTON
+    distance_km: 8.06
+  - name: CHURCHVL
+    distance_km: 10.81
+- country: US
+  region: MD
+  name: Bel Air South
+  lat: '39.5022'
+  long: "-76.3113"
+  nearby_rate_centers:
+  - name: BEL AIR
+    distance_km: 4.8
+  - name: FALLSTON
+    distance_km: 5.93
+  - name: CHURCHVL
+    distance_km: 8.26
+- country: US
+  region: MD
+  name: Beltsville
+  lat: '39.0394'
+  long: "-76.9211"
+  nearby_rate_centers:
+  - name: BERWYN
+    distance_km: 5.31
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 5.31
+  - name: WSNG236Z13
+    distance_km: 5.31
+  - name: WSNG238Z13
+    distance_km: 5.31
+  - name: LAUREL236
+    distance_km: 9.79
+  - name: LAUREL238
+    distance_km: 9.79
+  - name: WSHNGTNZN4
+    distance_km: 10.18
+  - name: WSNGTNZON4
+    distance_km: 10.18
+- country: US
+  region: MD
+  name: Benedict
+  lat: '38.5116'
+  long: "-76.6797"
+  nearby_rate_centers:
+  - name: PRINCEFRCK
+    distance_km: 8.79
+  - name: MECHANCSVL
+    distance_km: 9.38
+  - name: HUGHESVL
+    distance_km: 9.59
+- country: US
+  region: MD
+  name: Bensville
+  lat: '38.6176'
+  long: "-77.0077"
+  nearby_rate_centers:
+  - name: WALDORF
+    distance_km: 9.02
+  - name: LA PLATA
+    distance_km: 10.85
+  - name: INDIANHEAD
+    distance_km: 14.08
+- country: US
+  region: MD
+  name: Berlin
+  lat: '38.3310'
+  long: "-75.2148"
+  nearby_rate_centers:
+  - name: BERLIN
+    distance_km: 0.66
+  - name: OCEAN CITY
+    distance_km: 10.91
+  - name: BISHOPVL
+    distance_km: 11.38
+- country: US
+  region: MD
+  name: Berwyn Heights
+  lat: '38.9928'
+  long: "-76.9132"
+  nearby_rate_centers:
+  - name: BERWYN
+    distance_km: 0.09
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 0.09
+  - name: WSNG236Z13
+    distance_km: 0.09
+  - name: WSNG238Z13
+    distance_km: 0.09
+  - name: WSHNGTNZN4
+    distance_km: 5.68
+  - name: WSNGTNZON4
+    distance_km: 5.68
+  - name: BOWIE-GLENN DALE (BALTIMORE LATA)
+    distance_km: 8.66
+  - name: BOWIGLNNDL
+    distance_km: 8.66
+  - name: WSNG236Z14
+    distance_km: 8.66
+  - name: WSNG238Z14
+    distance_km: 8.66
+- country: US
+  region: MD
+  name: Bethesda
+  lat: '38.9866'
+  long: "-77.1188"
+  nearby_rate_centers:
+  - name: WSHNGTNZN2
+    distance_km: 1.08
+  - name: WSNGTNZN11
+    distance_km: 5.53
+  - name: WSHNGTNZN3
+    distance_km: 7.26
+- country: US
+  region: MD
+  name: Betterton
+  lat: '39.3652'
+  long: "-76.0690"
+  nearby_rate_centers:
+  - name: STILL POND
+    distance_km: 5.28
+  - name: CECILTON
+    distance_km: 17.01
+  - name: GALENA
+    distance_km: 17.15
+- country: US
+  region: MD
+  name: Bier
+  lat: '39.5525'
+  long: "-78.8692"
+  nearby_rate_centers:
+  - name: LONACONING
+    distance_km: 9.39
+  - name: FROSTBURG
+    distance_km: 11.89
+  - name: CUMBERLAND
+    distance_km: 14.64
+- country: US
+  region: MD
+  name: Big Pool
+  lat: '39.6251'
+  long: "-78.0161"
+  nearby_rate_centers:
+  - name: CLEAR SPG
+    distance_km: 7.9
+  - name: HANCOCK
+    distance_km: 16.33
+  - name: WILLIAMSPT
+    distance_km: 16.68
+- country: US
+  region: MD
+  name: Big Spring
+  lat: '39.6257'
+  long: "-77.9396"
+  nearby_rate_centers:
+  - name: CLEAR SPG
+    distance_km: 3.33
+  - name: WILLIAMSPT
+    distance_km: 10.32
+  - name: HAGERSTOWN
+    distance_km: 18.21
+- country: US
+  region: MD
+  name: Bishopville
+  lat: '38.4413'
+  long: "-75.2092"
+  nearby_rate_centers:
+  - name: BISHOPVL
+    distance_km: 1.27
+  - name: BERLIN
+    distance_km: 12.89
+  - name: OCEAN CITY
+    distance_km: 16.02
+- country: US
+  region: MD
+  name: Bivalve
+  lat: '38.3054'
+  long: "-75.8847"
+  nearby_rate_centers:
+  - name: NANTICOKE
+    distance_km: 0.95
+  - name: DEALISLAND
+    distance_km: 17.32
+  - name: PRINCEANNE
+    distance_km: 20.0
+- country: US
+  region: MD
+  name: Bladensburg
+  lat: '38.9424'
+  long: "-76.9264"
+  nearby_rate_centers:
+  - name: WSHNGTNZN4
+    distance_km: 2.27
+  - name: WSNGTNZON4
+    distance_km: 2.27
+  - name: BERWYN
+    distance_km: 5.63
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 5.63
+  - name: WSNG236Z13
+    distance_km: 5.63
+  - name: WSNG238Z13
+    distance_km: 5.63
+  - name: WSHNGTNZN5
+    distance_km: 6.64
+- country: US
+  region: MD
+  name: Bloomington
+  lat: '39.4794'
+  long: "-79.0768"
+  nearby_rate_centers:
+  - name: WESTERNPT
+    distance_km: 3.12
+  - name: MCCOOLE
+    distance_km: 9.16
+  - name: KITZMILLER
+    distance_km: 12.87
+- country: US
+  region: MD
+  name: Boonsboro
+  lat: '39.5078'
+  long: "-77.6585"
+  nearby_rate_centers:
+  - name: KEEDYSVL
+    distance_km: 3.9
+  - name: MYERSVILLE
+    distance_km: 7.84
+  - name: MIDDLETOWN
+    distance_km: 12.59
+- country: US
+  region: MD
+  name: Bowie
+  lat: '38.9549'
+  long: "-76.7406"
+  nearby_rate_centers:
+  - name: BOWIE-GLENN DALE (BALTIMORE LATA)
+    distance_km: 7.06
+  - name: BOWIGLNNDL
+    distance_km: 7.06
+  - name: WSNG236Z14
+    distance_km: 7.06
+  - name: WSNG238Z14
+    distance_km: 7.06
+  - name: CROFTON
+    distance_km: 7.1
+  - name: MILLERSVL
+    distance_km: 14.19
+- country: US
+  region: MD
+  name: Bowleys Quarters
+  lat: '39.3198'
+  long: "-76.3856"
+  nearby_rate_centers:
+  - name: CHASE
+    distance_km: 4.68
+  - name: ESSEX
+    distance_km: 10.61
+  - name: PARKVILLE
+    distance_km: 12.83
+- country: US
+  region: MD
+  name: Bowling Green
+  lat: '39.6272'
+  long: "-78.8050"
+  nearby_rate_centers:
+  - name: CUMBERLAND
+    distance_km: 5.01
+  - name: MT SAVAGE
+    distance_km: 9.36
+  - name: FROSTBURG
+    distance_km: 10.69
+- country: US
+  region: MD
+  name: Bowmans Addition
+  lat: '39.6863'
+  long: "-78.7551"
+  nearby_rate_centers:
+  - name: CUMBERLAND
+    distance_km: 4.02
+  - name: MT SAVAGE
+    distance_km: 10.43
+  - name: FROSTBURG
+    distance_km: 15.2
+- country: US
+  region: MD
+  name: Braddock Heights
+  lat: '39.4117'
+  long: "-77.4991"
+  nearby_rate_centers:
+  - name: MIDDLETOWN
+    distance_km: 4.82
+  - name: FREDERICK
+    distance_km: 7.77
+  - name: BUCKEYSTN
+    distance_km: 10.39
+- country: US
+  region: MD
+  name: Brandywine
+  lat: '38.6963'
+  long: "-76.8846"
+  nearby_rate_centers:
+  - name: BRANDYWINE
+    distance_km: 3.4
+  - name: WSNGTNZN16
+    distance_km: 8.01
+  - name: WALDORF
+    distance_km: 8.06
+- country: US
+  region: MD
+  name: Breathedsville
+  lat: '39.5460'
+  long: "-77.7246"
+  nearby_rate_centers:
+  - name: KEEDYSVL
+    distance_km: 6.05
+  - name: WILLIAMSPT
+    distance_km: 10.36
+  - name: HAGERSTOWN
+    distance_km: 10.7
+- country: US
+  region: MD
+  name: Brentwood
+  lat: '38.9439'
+  long: "-76.9571"
+  nearby_rate_centers:
+  - name: WSHNGTNZN4
+    distance_km: 0.96
+  - name: WSNGTNZON4
+    distance_km: 0.96
+  - name: BERWYN
+    distance_km: 6.55
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 6.55
+  - name: WSNG236Z13
+    distance_km: 6.55
+  - name: WSNG238Z13
+    distance_km: 6.55
+  - name: WSHNGTNZN5
+    distance_km: 7.58
+- country: US
+  region: MD
+  name: Brock Hall
+  lat: '38.8604'
+  long: "-76.7459"
+  nearby_rate_centers:
+  - name: WSNG236Z15
+    distance_km: 4.88
+  - name: WSNG238Z15
+    distance_km: 4.88
+  - name: WEST RIVER
+    distance_km: 12.51
+  - name: BOWIE-GLENN DALE (BALTIMORE LATA)
+    distance_km: 14.83
+  - name: BOWIGLNNDL
+    distance_km: 14.83
+  - name: WSNG236Z14
+    distance_km: 14.83
+  - name: WSNG238Z14
+    distance_km: 14.83
+- country: US
+  region: MD
+  name: Brookeville
+  lat: '39.1808'
+  long: "-77.0591"
+  nearby_rate_centers:
+  - name: ASHTON236
+    distance_km: 4.59
+  - name: ASHTON238
+    distance_km: 4.59
+  - name: WSNGTNZN12
+    distance_km: 11.08
+  - name: GAITHERSBG
+    distance_km: 13.14
+- country: US
+  region: MD
+  name: Brooklyn Park
+  lat: '39.2170'
+  long: "-76.6174"
+  nearby_rate_centers:
+  - name: BRYNPKLNCM
+    distance_km: 0.05
+  - name: ARBUTUS
+    distance_km: 5.05
+  - name: GLENBURNIE
+    distance_km: 5.73
+- country: US
+  region: MD
+  name: Brookmont
+  lat: '38.9546'
+  long: "-77.1292"
+  nearby_rate_centers:
+  - name: WSHNGTNZN2
+    distance_km: 3.87
+  - name: WSNGTNZN11
+    distance_km: 8.98
+  - name: WSHNGTNZN3
+    distance_km: 9.86
+- country: US
+  region: MD
+  name: Brookview
+  lat: '38.5739'
+  long: "-75.7927"
+  nearby_rate_centers:
+  - name: SHARPTOWN
+    distance_km: 7.44
+  - name: HURLOCK
+    distance_km: 8.66
+  - name: VIENNA
+    distance_km: 10.33
+- country: US
+  region: MD
+  name: Broomes Island
+  lat: '38.4203'
+  long: "-76.5475"
+  nearby_rate_centers:
+  - name: SOLOMONS
+    distance_km: 13.05
+  - name: PRINCEFRCK
+    distance_km: 13.91
+  - name: LEONARDTN
+    distance_km: 15.91
+- country: US
+  region: MD
+  name: Brown Station
+  lat: '38.8539'
+  long: "-76.7978"
+  nearby_rate_centers:
+  - name: WSNG236Z15
+    distance_km: 5.55
+  - name: WSNG238Z15
+    distance_km: 5.55
+  - name: WSHNGTNZN5
+    distance_km: 10.88
+  - name: WSNGTNZN16
+    distance_km: 13.04
+- country: US
+  region: MD
+  name: Brownsville
+  lat: '39.3782'
+  long: "-77.6615"
+  nearby_rate_centers:
+  - name: BRUNSWICK
+    distance_km: 7.75
+  - name: MIDDLETOWN
+    distance_km: 12.75
+  - name: KEEDYSVL
+    distance_km: 13.39
+- country: US
+  region: MD
+  name: Brunswick
+  lat: '39.3180'
+  long: "-77.6253"
+  nearby_rate_centers:
+  - name: BRUNSWICK
+    distance_km: 0.37
+  - name: MIDDLETOWN
+    distance_km: 15.72
+  - name: BUCKEYSTN
+    distance_km: 16.41
+- country: US
+  region: MD
+  name: Bryans Road
+  lat: '38.6145'
+  long: "-77.0851"
+  nearby_rate_centers:
+  - name: INDIANHEAD
+    distance_km: 7.39
+  - name: LA PLATA
+    distance_km: 14.01
+  - name: WALDORF
+    distance_km: 15.75
+- country: US
+  region: MD
+  name: Bryantown
+  lat: '38.5498'
+  long: "-76.8429"
+  nearby_rate_centers:
+  - name: HUGHESVL
+    distance_km: 5.24
+  - name: WALDORF
+    distance_km: 9.97
+  - name: LA PLATA
+    distance_km: 11.71
+- country: US
+  region: MD
+  name: Buckeystown
+  lat: '39.3264'
+  long: "-77.4279"
+  nearby_rate_centers:
+  - name: BUCKEYSTN
+    distance_km: 0.92
+  - name: FREDERICK
+    distance_km: 10.35
+  - name: NEW MARKET
+    distance_km: 15.07
+- country: US
+  region: MD
+  name: Burkittsville
+  lat: '39.3923'
+  long: "-77.6275"
+  nearby_rate_centers:
+  - name: BRUNSWICK
+    distance_km: 8.58
+  - name: MIDDLETOWN
+    distance_km: 9.46
+  - name: KEEDYSVL
+    distance_km: 13.01
+- country: US
+  region: MD
+  name: Burnt Mills
+  lat: '39.0340'
+  long: "-76.9983"
+  nearby_rate_centers:
+  - name: WSHNGTNZN3
+    distance_km: 4.5
+  - name: WSNGTNZN12
+    distance_km: 6.84
+  - name: WSNGTNZN11
+    distance_km: 6.94
+- country: US
+  region: MD
+  name: Burtonsville
+  lat: '39.1166'
+  long: "-76.9356"
+  nearby_rate_centers:
+  - name: LAUREL236
+    distance_km: 7.31
+  - name: LAUREL238
+    distance_km: 7.31
+  - name: ASHTON236
+    distance_km: 8.4
+  - name: ASHTON238
+    distance_km: 8.4
+  - name: WSNGTNZN12
+    distance_km: 10.51
+- country: US
+  region: MD
+  name: Butlertown
+  lat: '39.2817'
+  long: "-76.0995"
+  nearby_rate_centers:
+  - name: STILL POND
+    distance_km: 6.7
+  - name: CHESTERTN
+    distance_km: 8.66
+  - name: CHURCHHILL
+    distance_km: 18.58
+- country: US
+  region: MD
+  name: Cabin John
+  lat: '38.9742'
+  long: "-77.1632"
+  nearby_rate_centers:
+  - name: WSHNGTNZN2
+    distance_km: 5.03
+  - name: WSNGTNZN11
+    distance_km: 9.28
+  - name: WSHNGTNZN3
+    distance_km: 11.34
+- country: US
+  region: MD
+  name: California
+  lat: '38.2969'
+  long: "-76.4949"
+  nearby_rate_centers:
+  - name: SOLOMONS
+    distance_km: 4.62
+  - name: LXTNPKGRML
+    distance_km: 6.37
+  - name: LEONARDTN
+    distance_km: 11.82
+- country: US
+  region: MD
+  name: Callaway
+  lat: '38.2324'
+  long: "-76.5231"
+  nearby_rate_centers:
+  - name: LXTNPKGRML
+    distance_km: 2.8
+  - name: LEONARDTN
+    distance_km: 11.51
+  - name: SOLOMONS
+    distance_km: 11.92
+- country: US
+  region: MD
+  name: Calvert Beach
+  lat: '38.4728'
+  long: "-76.4895"
+  nearby_rate_centers:
+  - name: PRINCEFRCK
+    distance_km: 11.38
+  - name: SOLOMONS
+    distance_km: 16.51
+  - name: MECHANCSVL
+    distance_km: 22.08
+- country: US
+  region: MD
+  name: Calverton
+  lat: '39.0578'
+  long: "-76.9488"
+  nearby_rate_centers:
+  - name: BERWYN
+    distance_km: 7.93
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 7.93
+  - name: WSNG236Z13
+    distance_km: 7.93
+  - name: WSNG238Z13
+    distance_km: 7.93
+  - name: WSNGTNZN12
+    distance_km: 9.02
+  - name: WSHNGTNZN3
+    distance_km: 9.52
+- country: US
+  region: MD
+  name: Cambridge
+  lat: '38.5515'
+  long: "-76.0787"
+  nearby_rate_centers:
+  - name: CAMBRIDGE
+    distance_km: 1.89
+  - name: TRAPPE
+    distance_km: 11.89
+  - name: OXFORD
+    distance_km: 16.5
+- country: US
+  region: MD
+  name: Camp Springs
+  lat: '38.8052'
+  long: "-76.9199"
+  nearby_rate_centers:
+  - name: WSNGTNZN16
+    distance_km: 4.57
+  - name: WSHNGTNZN6
+    distance_km: 6.23
+  - name: WSHNGTNZN5
+    distance_km: 8.66
+- country: US
+  region: MD
+  name: Cape St. Claire
+  lat: '39.0433'
+  long: "-76.4471"
+  nearby_rate_centers:
+  - name: ANNAPOLIS
+    distance_km: 7.9
+  - name: SHERWD FOR
+    distance_km: 8.28
+  - name: SEVERNA PK
+    distance_km: 9.28
+- country: US
+  region: MD
+  name: Capitol Heights
+  lat: '38.8765'
+  long: "-76.9075"
+  nearby_rate_centers:
+  - name: WSHNGTNZN5
+    distance_km: 1.15
+  - name: WSHNGTNZN4
+    distance_km: 9.05
+  - name: WSNGTNZON4
+    distance_km: 9.05
+  - name: WSHNGTNZN6
+    distance_km: 11.16
+- country: US
+  region: MD
+  name: Carlos
+  lat: '39.6237'
+  long: "-78.9567"
+  nearby_rate_centers:
+  - name: FROSTBURG
+    distance_km: 3.91
+  - name: LONACONING
+    distance_km: 6.65
+  - name: MT SAVAGE
+    distance_km: 10.11
+- country: US
+  region: MD
+  name: Carney
+  lat: '39.4050'
+  long: "-76.5235"
+  nearby_rate_centers:
+  - name: PARKVILLE
+    distance_km: 3.45
+  - name: TOWSON
+    distance_km: 6.58
+  - name: ESSEX
+    distance_km: 9.57
+- country: US
+  region: MD
+  name: Catonsville
+  lat: '39.2646'
+  long: "-76.7424"
+  nearby_rate_centers:
+  - name: CATONSVL
+    distance_km: 0.41
+  - name: ELLICOTTCY
+    distance_km: 5.21
+  - name: ELKRIDGE
+    distance_km: 5.79
+- country: US
+  region: MD
+  name: Cavetown
+  lat: '39.6426'
+  long: "-77.5933"
+  nearby_rate_centers:
+  - name: SMITHSBURG
+    distance_km: 1.74
+  - name: HAGERSTOWN
+    distance_km: 11.54
+  - name: HIGHFIELD
+    distance_km: 12.1
+- country: US
+  region: MD
+  name: Cearfoss
+  lat: '39.6990'
+  long: "-77.7765"
+  nearby_rate_centers:
+  - name: HAGERSTOWN
+    distance_km: 7.56
+  - name: WILLIAMSPT
+    distance_km: 11.9
+  - name: CLEAR SPG
+    distance_km: 14.22
+- country: US
+  region: MD
+  name: Cecilton
+  lat: '39.4047'
+  long: "-75.8675"
+  nearby_rate_centers:
+  - name: CECILTON
+    distance_km: 0.94
+  - name: GALENA
+    distance_km: 7.07
+  - name: WARWICK
+    distance_km: 8.18
+- country: US
+  region: MD
+  name: Cedar Heights
+  lat: '38.9037'
+  long: "-76.9059"
+  nearby_rate_centers:
+  - name: WSHNGTNZN5
+    distance_km: 2.52
+  - name: WSHNGTNZN4
+    distance_km: 6.49
+  - name: WSNGTNZON4
+    distance_km: 6.49
+  - name: BERWYN
+    distance_km: 9.84
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 9.84
+  - name: WSNG236Z13
+    distance_km: 9.84
+  - name: WSNG238Z13
+    distance_km: 9.84
+- country: US
+  region: MD
+  name: Cedarville
+  lat: '38.6623'
+  long: "-76.8190"
+  nearby_rate_centers:
+  - name: BRANDYWINE
+    distance_km: 4.72
+  - name: WALDORF
+    distance_km: 8.47
+  - name: WSNGTNZN16
+    distance_km: 13.61
+- country: US
+  region: MD
+  name: Centreville
+  lat: '39.0420'
+  long: "-76.0630"
+  nearby_rate_centers:
+  - name: CENTREVL
+    distance_km: 0.56
+  - name: QUEENSTOWN
+    distance_km: 9.71
+  - name: CHURCHHILL
+    distance_km: 12.8
+- country: US
+  region: MD
+  name: Chance
+  lat: '38.1772'
+  long: "-75.9366"
+  nearby_rate_centers:
+  - name: DEALISLAND
+    distance_km: 2.43
+  - name: NANTICOKE
+    distance_km: 14.03
+  - name: MARION
+    distance_km: 21.36
+- country: US
+  region: MD
+  name: Charlestown
+  lat: '39.5783'
+  long: "-75.9812"
+  nearby_rate_centers:
+  - name: NORTH EAST
+    distance_km: 3.92
+  - name: PERRYVILLE
+    distance_km: 8.15
+  - name: HAVREGRACE
+    distance_km: 9.98
+- country: US
+  region: MD
+  name: Charlotte Hall
+  lat: '38.4667'
+  long: "-76.7848"
+  nearby_rate_centers:
+  - name: MECHANCSVL
+    distance_km: 4.81
+  - name: HUGHESVL
+    distance_km: 7.44
+  - name: LA PLATA
+    distance_km: 17.59
+- country: US
+  region: MD
+  name: Charlton
+  lat: '39.6344'
+  long: "-77.8944"
+  nearby_rate_centers:
+  - name: CLEAR SPG
+    distance_km: 4.0
+  - name: WILLIAMSPT
+    distance_km: 7.2
+  - name: HAGERSTOWN
+    distance_km: 14.27
+- country: US
+  region: MD
+  name: Chesapeake Beach
+  lat: '38.6881'
+  long: "-76.5448"
+  nearby_rate_centers:
+  - name: NORTHBEACH
+    distance_km: 1.36
+  - name: PRINCEFRCK
+    distance_km: 16.67
+  - name: TILGHMAN
+    distance_km: 18.46
+- country: US
+  region: MD
+  name: Chesapeake City
+  lat: '39.5280'
+  long: "-75.8095"
+  nearby_rate_centers:
+  - name: CHESAPKECY
+    distance_km: 0.49
+  - name: ELKTON
+    distance_km: 10.18
+  - name: WARWICK
+    distance_km: 12.84
+- country: US
+  region: MD
+  name: Chesapeake Landing
+  lat: '39.2697'
+  long: "-76.1584"
+  nearby_rate_centers:
+  - name: CHESTERTN
+    distance_km: 10.4
+  - name: STILL POND
+    distance_km: 11.6
+  - name: ROCK HALL
+    distance_km: 16.28
+- country: US
+  region: MD
+  name: Chesapeake Ranch Estates
+  lat: '38.3574'
+  long: "-76.4147"
+  nearby_rate_centers:
+  - name: SOLOMONS
+    distance_km: 5.09
+  - name: LXTNPKGRML
+    distance_km: 14.75
+  - name: WINGATE
+    distance_km: 19.49
+- country: US
+  region: MD
+  name: Chester
+  lat: '38.9677'
+  long: "-76.2824"
+  nearby_rate_centers:
+  - name: STEVENSVL
+    distance_km: 2.47
+  - name: QUEENSTOWN
+    distance_km: 11.28
+  - name: ANNAPOLIS
+    distance_km: 18.6
+- country: US
+  region: MD
+  name: Chestertown
+  lat: '39.2182'
+  long: "-76.0714"
+  nearby_rate_centers:
+  - name: CHESTERTN
+    distance_km: 1.2
+  - name: CHURCHHILL
+    distance_km: 11.44
+  - name: STILL POND
+    distance_km: 11.87
+- country: US
+  region: MD
+  name: Cheverly
+  lat: '38.9254'
+  long: "-76.9141"
+  nearby_rate_centers:
+  - name: WSHNGTNZN4
+    distance_km: 4.22
+  - name: WSNGTNZON4
+    distance_km: 4.22
+  - name: WSHNGTNZN5
+    distance_km: 4.72
+  - name: BERWYN
+    distance_km: 7.41
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 7.41
+  - name: WSNG236Z13
+    distance_km: 7.41
+  - name: WSNG238Z13
+    distance_km: 7.41
+- country: US
+  region: MD
+  name: Chevy Chase
+  lat: '38.9944'
+  long: "-77.0738"
+  nearby_rate_centers:
+  - name: WSHNGTNZN2
+    distance_km: 3.03
+  - name: WSHNGTNZN3
+    distance_km: 3.38
+  - name: WSNGTNZN11
+    distance_km: 3.4
+- country: US
+  region: MD
+  name: Chevy Chase Section Five
+  lat: '38.9840'
+  long: "-77.0740"
+  nearby_rate_centers:
+  - name: WSHNGTNZN2
+    distance_km: 2.81
+  - name: WSHNGTNZN3
+    distance_km: 4.12
+  - name: WSNGTNZN11
+    distance_km: 4.55
+- country: US
+  region: MD
+  name: Chevy Chase Section Three
+  lat: '38.9793'
+  long: "-77.0742"
+  nearby_rate_centers:
+  - name: WSHNGTNZN2
+    distance_km: 2.86
+  - name: WSHNGTNZN3
+    distance_km: 4.52
+  - name: WSNGTNZN11
+    distance_km: 5.07
+- country: US
+  region: MD
+  name: Chevy Chase View
+  lat: '39.0192'
+  long: "-77.0810"
+  nearby_rate_centers:
+  - name: WSNGTNZN11
+    distance_km: 0.68
+  - name: WSHNGTNZN3
+    distance_km: 3.63
+  - name: WSHNGTNZN2
+    distance_km: 4.43
+- country: US
+  region: MD
+  name: Chevy Chase Village
+  lat: '38.9698'
+  long: "-77.0793"
+  nearby_rate_centers:
+  - name: WSHNGTNZN2
+    distance_km: 2.87
+  - name: WSHNGTNZN3
+    distance_km: 5.62
+  - name: WSNGTNZN11
+    distance_km: 6.12
+- country: US
+  region: MD
+  name: Chewsville
+  lat: '39.6484'
+  long: "-77.6311"
+  nearby_rate_centers:
+  - name: SMITHSBURG
+    distance_km: 4.72
+  - name: HAGERSTOWN
+    distance_km: 8.33
+  - name: HIGHFIELD
+    distance_km: 14.3
+- country: US
+  region: MD
+  name: Chillum
+  lat: '38.9666'
+  long: "-76.9791"
+  nearby_rate_centers:
+  - name: WSHNGTNZN4
+    distance_km: 3.05
+  - name: WSNGTNZON4
+    distance_km: 3.05
+  - name: BERWYN
+    distance_km: 6.34
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 6.34
+  - name: WSNG236Z13
+    distance_km: 6.34
+  - name: WSNG238Z13
+    distance_km: 6.34
+  - name: WSHNGTNZN3
+    distance_km: 7.2
+- country: US
+  region: MD
+  name: Choptank
+  lat: '38.6822'
+  long: "-75.9494"
+  nearby_rate_centers:
+  - name: PRESTON
+    distance_km: 5.22
+  - name: HURLOCK
+    distance_km: 9.66
+  - name: TRAPPE
+    distance_km: 10.42
+- country: US
+  region: MD
+  name: Church Creek
+  lat: '38.5036'
+  long: "-76.1531"
+  nearby_rate_centers:
+  - name: CAMBRIDGE
+    distance_km: 9.89
+  - name: WINGATE
+    distance_km: 13.97
+  - name: TRAPPE
+    distance_km: 18.78
+- country: US
+  region: MD
+  name: Church Hill
+  lat: '39.1452'
+  long: "-75.9808"
+  nearby_rate_centers:
+  - name: CHURCHHILL
+    distance_km: 0.69
+  - name: CHESTERTN
+    distance_km: 10.24
+  - name: SUDLERSVL
+    distance_km: 11.92
+- country: US
+  region: MD
+  name: Clarksburg
+  lat: '39.2246'
+  long: "-77.2659"
+  nearby_rate_centers:
+  - name: DAMASCS236
+    distance_km: 8.73
+  - name: DAMASCS240
+    distance_km: 8.73
+  - name: GAITHERSBG
+    distance_km: 10.68
+  - name: POOLESVL
+    distance_km: 16.19
+- country: US
+  region: MD
+  name: Clarysville
+  lat: '39.6421'
+  long: "-78.8887"
+  nearby_rate_centers:
+  - name: FROSTBURG
+    distance_km: 3.34
+  - name: MT SAVAGE
+    distance_km: 5.5
+  - name: LONACONING
+    distance_km: 11.36
+- country: US
+  region: MD
+  name: Clear Spring
+  lat: '39.6562'
+  long: "-77.9304"
+  nearby_rate_centers:
+  - name: CLEAR SPG
+    distance_km: 0.22
+  - name: WILLIAMSPT
+    distance_km: 11.11
+  - name: HAGERSTOWN
+    distance_km: 17.39
+- country: US
+  region: MD
+  name: Clinton
+  lat: '38.7499'
+  long: "-76.9063"
+  nearby_rate_centers:
+  - name: WSNGTNZN16
+    distance_km: 2.04
+  - name: BRANDYWINE
+    distance_km: 7.7
+  - name: WSHNGTNZN6
+    distance_km: 9.28
+- country: US
+  region: MD
+  name: Cloverly
+  lat: '39.1064'
+  long: "-76.9995"
+  nearby_rate_centers:
+  - name: WSNGTNZN12
+    distance_km: 5.07
+  - name: ASHTON236
+    distance_km: 5.32
+  - name: ASHTON238
+    distance_km: 5.32
+  - name: WSHNGTNZN3
+    distance_km: 11.25
+- country: US
+  region: MD
+  name: Cobb Island
+  lat: '38.2647'
+  long: "-76.8496"
+  nearby_rate_centers:
+  - name: TOMPKINSVL
+    distance_km: 12.15
+  - name: LEONARDTN
+    distance_km: 19.4
+  - name: MECHANCSVL
+    distance_km: 21.87
+- country: US
+  region: MD
+  name: Cockeysville
+  lat: '39.4804'
+  long: "-76.6294"
+  nearby_rate_centers:
+  - name: COCKEYSVL
+    distance_km: 1.7
+  - name: SPARKSGLNC
+    distance_km: 7.92
+  - name: TOWSON
+    distance_km: 9.02
+- country: US
+  region: MD
+  name: Colesville
+  lat: '39.0730'
+  long: "-77.0010"
+  nearby_rate_centers:
+  - name: WSNGTNZN12
+    distance_km: 4.22
+  - name: WSHNGTNZN3
+    distance_km: 7.76
+  - name: WSNGTNZN11
+    distance_km: 8.53
+- country: US
+  region: MD
+  name: College Park
+  lat: '38.9960'
+  long: "-76.9337"
+  nearby_rate_centers:
+  - name: BERWYN
+    distance_km: 1.81
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 1.81
+  - name: WSNG236Z13
+    distance_km: 1.81
+  - name: WSNG238Z13
+    distance_km: 1.81
+  - name: WSHNGTNZN4
+    distance_km: 5.24
+  - name: WSNGTNZON4
+    distance_km: 5.24
+  - name: WSHNGTNZN3
+    distance_km: 9.37
+- country: US
+  region: MD
+  name: Colmar Manor
+  lat: '38.9301'
+  long: "-76.9437"
+  nearby_rate_centers:
+  - name: WSHNGTNZN4
+    distance_km: 2.36
+  - name: WSNGTNZON4
+    distance_km: 2.36
+  - name: WSHNGTNZN5
+    distance_km: 5.7
+  - name: BERWYN
+    distance_km: 7.36
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 7.36
+  - name: WSNG236Z13
+    distance_km: 7.36
+  - name: WSNG238Z13
+    distance_km: 7.36
+- country: US
+  region: MD
+  name: Columbia
+  lat: '39.2004'
+  long: "-76.8590"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance_km: 1.85
+  - name: WATERLO236
+    distance_km: 6.97
+  - name: WATERLO238
+    distance_km: 6.97
+  - name: ELLICOTTCY
+    distance_km: 8.81
+- country: US
+  region: MD
+  name: Coral Hills
+  lat: '38.8706'
+  long: "-76.9215"
+  nearby_rate_centers:
+  - name: WSHNGTNZN5
+    distance_km: 1.42
+  - name: WSHNGTNZN4
+    distance_km: 9.25
+  - name: WSNGTNZON4
+    distance_km: 9.25
+  - name: WSHNGTNZN6
+    distance_km: 9.88
+- country: US
+  region: MD
+  name: Cordova
+  lat: '38.8680'
+  long: "-75.9989"
+  nearby_rate_centers:
+  - name: HILLSBORO
+    distance_km: 7.07
+  - name: EASTON
+    distance_km: 12.25
+  - name: RIDGELY
+    distance_km: 13.08
+- country: US
+  region: MD
+  name: Corriganville
+  lat: '39.6947'
+  long: "-78.7970"
+  nearby_rate_centers:
+  - name: CUMBERLAND
+    distance_km: 6.14
+  - name: MT SAVAGE
+    distance_km: 6.84
+  - name: FROSTBURG
+    distance_km: 12.13
+- country: US
+  region: MD
+  name: Cottage City
+  lat: '38.9384'
+  long: "-76.9492"
+  nearby_rate_centers:
+  - name: WSHNGTNZN4
+    distance_km: 1.37
+  - name: WSNGTNZON4
+    distance_km: 1.37
+  - name: BERWYN
+    distance_km: 6.72
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 6.72
+  - name: WSNG236Z13
+    distance_km: 6.72
+  - name: WSNG238Z13
+    distance_km: 6.72
+  - name: WSHNGTNZN5
+    distance_km: 6.73
+- country: US
+  region: MD
+  name: Crellin
+  lat: '39.3886'
+  long: "-79.4685"
+  nearby_rate_centers:
+  - name: OAKLAND
+    distance_km: 5.37
+  - name: KITZMILLER
+    distance_km: 25.16
+  - name: ACCIDENT
+    distance_km: 29.19
+- country: US
+  region: MD
+  name: Cresaptown
+  lat: '39.5944'
+  long: "-78.8356"
+  nearby_rate_centers:
+  - name: CUMBERLAND
+    distance_km: 9.3
+  - name: FROSTBURG
+    distance_km: 9.93
+  - name: MT SAVAGE
+    distance_km: 11.28
+- country: US
+  region: MD
+  name: Crisfield
+  lat: '37.9840'
+  long: "-75.8512"
+  nearby_rate_centers:
+  - name: CRISFIELD
+    distance_km: 0.16
+  - name: MARION
+    distance_km: 9.6
+  - name: SMITH IS
+    distance_km: 15.46
+- country: US
+  region: MD
+  name: Crofton
+  lat: '39.0144'
+  long: "-76.6800"
+  nearby_rate_centers:
+  - name: CROFTON
+    distance_km: 2.88
+  - name: MILLERSVL
+    distance_km: 5.77
+  - name: ODENTON
+    distance_km: 8.0
+- country: US
+  region: MD
+  name: Croom
+  lat: '38.7458'
+  long: "-76.7555"
+  nearby_rate_centers:
+  - name: WSNG236Z15
+    distance_km: 7.93
+  - name: WSNG238Z15
+    distance_km: 7.93
+  - name: BRANDYWINE
+    distance_km: 9.37
+  - name: WSNGTNZN16
+    distance_km: 12.7
+- country: US
+  region: MD
+  name: Crownsville
+  lat: '39.0224'
+  long: "-76.5904"
+  nearby_rate_centers:
+  - name: SHERWD FOR
+    distance_km: 4.39
+  - name: MILLERSVL
+    distance_km: 6.19
+  - name: SEVERNA PK
+    distance_km: 6.2
+- country: US
+  region: MD
+  name: Crumpton
+  lat: '39.2358'
+  long: "-75.9223"
+  nearby_rate_centers:
+  - name: MILLINGTON
+    distance_km: 7.38
+  - name: SUDLERSVL
+    distance_km: 7.41
+  - name: CHURCHHILL
+    distance_km: 11.95
+- country: US
+  region: MD
+  name: Cumberland
+  lat: '39.6515'
+  long: "-78.7584"
+  nearby_rate_centers:
+  - name: CUMBERLAND
+    distance_km: 0.35
+  - name: MT SAVAGE
+    distance_km: 11.03
+  - name: FROSTBURG
+    distance_km: 14.38
+- country: US
+  region: MD
+  name: Damascus
+  lat: '39.2701'
+  long: "-77.1957"
+  nearby_rate_centers:
+  - name: DAMASCS236
+    distance_km: 2.35
+  - name: DAMASCS240
+    distance_km: 2.35
+  - name: MOUNT AIRY
+    distance_km: 12.02
+  - name: NEW MARKET
+    distance_km: 13.96
+- country: US
+  region: MD
+  name: Dames Quarter
+  lat: '38.1697'
+  long: "-75.8895"
+  nearby_rate_centers:
+  - name: DEALISLAND
+    distance_km: 5.56
+  - name: NANTICOKE
+    distance_km: 14.26
+  - name: PRINCEANNE
+    distance_km: 17.91
+- country: US
+  region: MD
+  name: Danville
+  lat: '39.5125'
+  long: "-78.9184"
+  nearby_rate_centers:
+  - name: LONACONING
+    distance_km: 7.8
+  - name: MCCOOLE
+    distance_km: 8.54
+  - name: WESTERNPT
+    distance_km: 10.99
+- country: US
+  region: MD
+  name: Dargan
+  lat: '39.3766'
+  long: "-77.7341"
+  nearby_rate_centers:
+  - name: BRUNSWICK
+    distance_km: 11.74
+  - name: KEEDYSVL
+    distance_km: 13.45
+  - name: MIDDLETOWN
+    distance_km: 18.33
+- country: US
+  region: MD
+  name: Darlington
+  lat: '39.6425'
+  long: "-76.2035"
+  nearby_rate_centers:
+  - name: DARLINGTON
+    distance_km: 0.5
+  - name: PT DEPOSIT
+    distance_km: 8.14
+  - name: CHURCHVL
+    distance_km: 10.15
+- country: US
+  region: MD
+  name: Darnestown
+  lat: '39.0969'
+  long: "-77.3033"
+  nearby_rate_centers:
+  - name: GAITHERSBG
+    distance_km: 10.0
+  - name: POOLESVL
+    distance_km: 11.12
+  - name: WSNGTNZN10
+    distance_km: 12.44
+- country: US
+  region: MD
+  name: Dawson
+  lat: '39.4772'
+  long: "-78.9457"
+  nearby_rate_centers:
+  - name: MCCOOLE
+    distance_km: 4.01
+  - name: WESTERNPT
+    distance_km: 8.46
+  - name: LONACONING
+    distance_km: 10.24
+- country: US
+  region: MD
+  name: Deal Island
+  lat: '38.1444'
+  long: "-75.9417"
+  nearby_rate_centers:
+  - name: DEALISLAND
+    distance_km: 1.82
+  - name: NANTICOKE
+    distance_km: 17.66
+  - name: MARION
+    distance_km: 19.26
+- country: US
+  region: MD
+  name: Deale
+  lat: '38.7910'
+  long: "-76.5469"
+  nearby_rate_centers:
+  - name: WEST RIVER
+    distance_km: 8.22
+  - name: NORTHBEACH
+    distance_km: 12.0
+  - name: WSNG236Z15
+    distance_km: 18.23
+  - name: WSNG238Z15
+    distance_km: 18.23
+- country: US
+  region: MD
+  name: Deer Park
+  lat: '39.4240'
+  long: "-79.3260"
+  nearby_rate_centers:
+  - name: OAKLAND
+    distance_km: 7.53
+  - name: KITZMILLER
+    distance_km: 13.37
+  - name: BITTINGER
+    distance_km: 21.72
+- country: US
+  region: MD
+  name: Delmar
+  lat: '38.4450'
+  long: "-75.5662"
+  nearby_rate_centers:
+  - name: DELMAR
+    distance_km: 1.9
+  - name: SALISBURY
+    distance_km: 9.94
+  - name: WILLARDS
+    distance_km: 14.94
+- country: US
+  region: MD
+  name: Denton
+  lat: '38.8770'
+  long: "-75.8264"
+  nearby_rate_centers:
+  - name: DENTON
+    distance_km: 0.69
+  - name: RIDGELY
+    distance_km: 8.91
+  - name: GREENSBORO
+    distance_km: 11.12
+- country: US
+  region: MD
+  name: Derwood
+  lat: '39.1136'
+  long: "-77.1510"
+  nearby_rate_centers:
+  - name: WSNGTNZN10
+    distance_km: 3.22
+  - name: GAITHERSBG
+    distance_km: 5.47
+  - name: WSNGTNZN12
+    distance_km: 9.53
+- country: US
+  region: MD
+  name: Detmold
+  lat: '39.5574'
+  long: "-78.9912"
+  nearby_rate_centers:
+  - name: LONACONING
+    distance_km: 1.53
+  - name: WESTERNPT
+    distance_km: 8.75
+  - name: FROSTBURG
+    distance_km: 11.7
+- country: US
+  region: MD
+  name: District Heights
+  lat: '38.8588'
+  long: "-76.8885"
+  nearby_rate_centers:
+  - name: WSHNGTNZN5
+    distance_km: 3.7
+  - name: WSNGTNZN16
+    distance_km: 10.21
+  - name: WSHNGTNZN6
+    distance_km: 11.03
+- country: US
+  region: MD
+  name: Downsville
+  lat: '39.5549'
+  long: "-77.8016"
+  nearby_rate_centers:
+  - name: WILLIAMSPT
+    distance_km: 5.23
+  - name: KEEDYSVL
+    distance_km: 10.93
+  - name: HAGERSTOWN
+    distance_km: 11.57
+- country: US
+  region: MD
+  name: Drum Point
+  lat: '38.3324'
+  long: "-76.4307"
+  nearby_rate_centers:
+  - name: SOLOMONS
+    distance_km: 2.44
+  - name: LXTNPKGRML
+    distance_km: 11.64
+  - name: LEONARDTN
+    distance_km: 17.96
+- country: US
+  region: MD
+  name: Dundalk
+  lat: '39.2704'
+  long: "-76.4942"
+  nearby_rate_centers:
+  - name: DUNDALK
+    distance_km: 3.07
+  - name: ESSEX
+    distance_km: 5.63
+  - name: SPARROWSPT
+    distance_km: 5.96
+- country: US
+  region: MD
+  name: Dunkirk
+  lat: '38.7156'
+  long: "-76.6730"
+  nearby_rate_centers:
+  - name: NORTHBEACH
+    distance_km: 12.89
+  - name: WSNG236Z15
+    distance_km: 13.32
+  - name: WSNG238Z15
+    distance_km: 13.32
+  - name: BRANDYWINE
+    distance_km: 15.09
+- country: US
+  region: MD
+  name: Eagle Harbor
+  lat: '38.5664'
+  long: "-76.6871"
+  nearby_rate_centers:
+  - name: PRINCEFRCK
+    distance_km: 9.19
+  - name: HUGHESVL
+    distance_km: 9.36
+  - name: MECHANCSVL
+    distance_km: 14.62
+- country: US
+  region: MD
+  name: Eakles Mill
+  lat: '39.4669'
+  long: "-77.6859"
+  nearby_rate_centers:
+  - name: KEEDYSVL
+    distance_km: 3.35
+  - name: MYERSVILLE
+    distance_km: 11.15
+  - name: MIDDLETOWN
+    distance_km: 12.93
+- country: US
+  region: MD
+  name: East New Market
+  lat: '38.5970'
+  long: "-75.9232"
+  nearby_rate_centers:
+  - name: HURLOCK
+    distance_km: 6.93
+  - name: PRESTON
+    distance_km: 13.47
+  - name: CAMBRIDGE
+    distance_km: 13.58
+- country: US
+  region: MD
+  name: East Riverdale
+  lat: '38.9600'
+  long: "-76.9109"
+  nearby_rate_centers:
+  - name: BERWYN
+    distance_km: 3.56
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 3.56
+  - name: WSNG236Z13
+    distance_km: 3.56
+  - name: WSNG238Z13
+    distance_km: 3.56
+  - name: WSHNGTNZN4
+    distance_km: 3.57
+  - name: WSNGTNZON4
+    distance_km: 3.57
+  - name: WSHNGTNZN5
+    distance_km: 8.58
+- country: US
+  region: MD
+  name: Easton
+  lat: '38.7760'
+  long: "-76.0701"
+  nearby_rate_centers:
+  - name: EASTON
+    distance_km: 0.38
+  - name: OXFORD
+    distance_km: 13.05
+  - name: TRAPPE
+    distance_km: 13.13
+- country: US
+  region: MD
+  name: Eckhart Mines
+  lat: '39.6552'
+  long: "-78.8941"
+  nearby_rate_centers:
+  - name: FROSTBURG
+    distance_km: 2.82
+  - name: MT SAVAGE
+    distance_km: 4.22
+  - name: CUMBERLAND
+    distance_km: 11.95
+- country: US
+  region: MD
+  name: Eden
+  lat: '38.2792'
+  long: "-75.6533"
+  nearby_rate_centers:
+  - name: PRINCEANNE
+    distance_km: 8.42
+  - name: SALISBURY
+    distance_km: 10.12
+  - name: NANTICOKE
+    distance_km: 20.76
+- country: US
+  region: MD
+  name: Edesville
+  lat: '39.1542'
+  long: "-76.2079"
+  nearby_rate_centers:
+  - name: ROCK HALL
+    distance_km: 2.92
+  - name: CHESTERTN
+    distance_km: 13.46
+  - name: CENTREVL
+    distance_km: 17.39
+- country: US
+  region: MD
+  name: Edgemere
+  lat: '39.2273'
+  long: "-76.4590"
+  nearby_rate_centers:
+  - name: SPARROWSPT
+    distance_km: 3.25
+  - name: DUNDALK
+    distance_km: 6.42
+  - name: ESSEX
+    distance_km: 11.14
+- country: US
+  region: MD
+  name: Edgemont
+  lat: '39.6766'
+  long: "-77.5470"
+  nearby_rate_centers:
+  - name: SMITHSBURG
+    distance_km: 3.79
+  - name: HIGHFIELD
+    distance_km: 6.62
+  - name: THURMONT
+    distance_km: 12.94
+- country: US
+  region: MD
+  name: Edgewater
+  lat: '38.9373'
+  long: "-76.5572"
+  nearby_rate_centers:
+  - name: ANNAPOLIS
+    distance_km: 7.35
+  - name: SHERWD FOR
+    distance_km: 9.73
+  - name: WEST RIVER
+    distance_km: 10.32
+- country: US
+  region: MD
+  name: Edgewood
+  lat: '39.4190'
+  long: "-76.2964"
+  nearby_rate_centers:
+  - name: EDGEWOOD
+    distance_km: 0.49
+  - name: CHASE
+    distance_km: 8.91
+  - name: FALLSTON
+    distance_km: 9.72
+- country: US
+  region: MD
+  name: Edmonston
+  lat: '38.9502'
+  long: "-76.9332"
+  nearby_rate_centers:
+  - name: WSHNGTNZN4
+    distance_km: 1.49
+  - name: WSNGTNZON4
+    distance_km: 1.49
+  - name: BERWYN
+    distance_km: 4.95
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 4.95
+  - name: WSNG236Z13
+    distance_km: 4.95
+  - name: WSNG238Z13
+    distance_km: 4.95
+  - name: WSHNGTNZN5
+    distance_km: 7.59
+- country: US
+  region: MD
+  name: Eldersburg
+  lat: '39.4041'
+  long: "-76.9528"
+  nearby_rate_centers:
+  - name: SYKESVILLE
+    distance_km: 4.44
+  - name: GLENWOOD
+    distance_km: 11.34
+  - name: REISTERSTN
+    distance_km: 12.47
+- country: US
+  region: MD
+  name: Eldorado
+  lat: '38.5841'
+  long: "-75.7893"
+  nearby_rate_centers:
+  - name: SHARPTOWN
+    distance_km: 7.78
+  - name: HURLOCK
+    distance_km: 8.06
+  - name: VIENNA
+    distance_km: 11.5
+- country: US
+  region: MD
+  name: Elkridge
+  lat: '39.1941'
+  long: "-76.7428"
+  nearby_rate_centers:
+  - name: ELKRIDGE
+    distance_km: 3.16
+  - name: WATERLO236
+    distance_km: 4.34
+  - name: WATERLO238
+    distance_km: 4.34
+  - name: CATONSVL
+    distance_km: 8.24
+- country: US
+  region: MD
+  name: Elkton
+  lat: '39.6066'
+  long: "-75.8209"
+  nearby_rate_centers:
+  - name: ELKTON
+    distance_km: 1.65
+  - name: CHESAPKECY
+    distance_km: 8.32
+  - name: NORTH EAST
+    distance_km: 10.67
+- country: US
+  region: MD
+  name: Ellerslie
+  lat: '39.7169'
+  long: "-78.7747"
+  nearby_rate_centers:
+  - name: CUMBERLAND
+    distance_km: 7.61
+  - name: MT SAVAGE
+    distance_km: 9.21
+  - name: FROSTBURG
+    distance_km: 14.96
+- country: US
+  region: MD
+  name: Ellicott City
+  lat: '39.2774'
+  long: "-76.8345"
+  nearby_rate_centers:
+  - name: ELLICOTTCY
+    distance_km: 2.97
+  - name: COLUMBIA
+    distance_km: 6.97
+  - name: CATONSVL
+    distance_km: 7.88
+- country: US
+  region: MD
+  name: Elliott
+  lat: '38.3095'
+  long: "-76.0069"
+  nearby_rate_centers:
+  - name: NANTICOKE
+    distance_km: 10.28
+  - name: DEALISLAND
+    distance_km: 17.44
+  - name: WINGATE
+    distance_km: 18.15
+- country: US
+  region: MD
+  name: Emmitsburg
+  lat: '39.7051'
+  long: "-77.3217"
+  nearby_rate_centers:
+  - name: EMMITSBURG
+    distance_km: 0.24
+  - name: THURMONT
+    distance_km: 11.76
+  - name: TANEYTOWN
+    distance_km: 13.85
+- country: US
+  region: MD
+  name: Ernstville
+  lat: '39.6304'
+  long: "-78.0239"
+  nearby_rate_centers:
+  - name: CLEAR SPG
+    distance_km: 8.29
+  - name: HANCOCK
+    distance_km: 15.45
+  - name: WILLIAMSPT
+    distance_km: 17.45
+- country: US
+  region: MD
+  name: Essex
+  lat: '39.3021'
+  long: "-76.4449"
+  nearby_rate_centers:
+  - name: ESSEX
+    distance_km: 5.85
+  - name: DUNDALK
+    distance_km: 8.57
+  - name: CHASE
+    distance_km: 9.34
+- country: US
+  region: MD
+  name: Fairland
+  lat: '39.0803'
+  long: "-76.9527"
+  nearby_rate_centers:
+  - name: WSNGTNZN12
+    distance_km: 8.29
+  - name: LAUREL236
+    distance_km: 9.3
+  - name: LAUREL238
+    distance_km: 9.3
+  - name: ASHTON236
+    distance_km: 9.89
+  - name: ASHTON238
+    distance_km: 9.89
+- country: US
+  region: MD
+  name: Fairlee
+  lat: '39.2268'
+  long: "-76.1654"
+  nearby_rate_centers:
+  - name: CHESTERTN
+    distance_km: 8.66
+  - name: ROCK HALL
+    distance_km: 11.7
+  - name: STILL POND
+    distance_km: 15.03
+- country: US
+  region: MD
+  name: Fairmount
+  lat: '38.1016'
+  long: "-75.8074"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 7.8
+  - name: CRISFIELD
+    distance_km: 13.47
+  - name: DEALISLAND
+    distance_km: 14.12
+- country: US
+  region: MD
+  name: Fairmount Heights
+  lat: '38.9016'
+  long: "-76.9153"
+  nearby_rate_centers:
+  - name: WSHNGTNZN5
+    distance_km: 2.08
+  - name: WSHNGTNZN4
+    distance_km: 6.25
+  - name: WSNGTNZON4
+    distance_km: 6.25
+  - name: BERWYN
+    distance_km: 10.05
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 10.05
+  - name: WSNG236Z13
+    distance_km: 10.05
+  - name: WSNG238Z13
+    distance_km: 10.05
+- country: US
+  region: MD
+  name: Fairplay
+  lat: '39.5357'
+  long: "-77.7463"
+  nearby_rate_centers:
+  - name: KEEDYSVL
+    distance_km: 6.0
+  - name: WILLIAMSPT
+    distance_km: 9.68
+  - name: HAGERSTOWN
+    distance_km: 11.94
+- country: US
+  region: MD
+  name: Fairview
+  lat: '39.7110'
+  long: "-77.8406"
+  nearby_rate_centers:
+  - name: CLEAR SPG
+    distance_km: 10.02
+  - name: HAGERSTOWN
+    distance_km: 12.3
+  - name: WILLIAMSPT
+    distance_km: 12.58
+- country: US
+  region: MD
+  name: Fairwood
+  lat: '38.9565'
+  long: "-76.7780"
+  nearby_rate_centers:
+  - name: BOWIE-GLENN DALE (BALTIMORE LATA)
+    distance_km: 4.27
+  - name: BOWIGLNNDL
+    distance_km: 4.27
+  - name: WSNG236Z14
+    distance_km: 4.27
+  - name: WSNG238Z14
+    distance_km: 4.27
+  - name: CROFTON
+    distance_km: 9.91
+  - name: BERWYN
+    distance_km: 12.35
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 12.35
+  - name: WSNG236Z13
+    distance_km: 12.35
+  - name: WSNG238Z13
+    distance_km: 12.35
+- country: US
+  region: MD
+  name: Fallston
+  lat: '39.5332'
+  long: "-76.4452"
+  nearby_rate_centers:
+  - name: FORK
+    distance_km: 7.37
+  - name: BEL AIR
+    distance_km: 8.29
+  - name: FALLSTON
+    distance_km: 8.3
+- country: US
+  region: MD
+  name: Federalsburg
+  lat: '38.6929'
+  long: "-75.7727"
+  nearby_rate_centers:
+  - name: FEDERALSBG
+    distance_km: 0.74
+  - name: HURLOCK
+    distance_km: 9.97
+  - name: PRESTON
+    distance_km: 12.23
+- country: US
+  region: MD
+  name: Ferndale
+  lat: '39.1869'
+  long: "-76.6331"
+  nearby_rate_centers:
+  - name: GLENBURNIE
+    distance_km: 2.38
+  - name: BRYNPKLNCM
+    distance_km: 3.57
+  - name: SEVERN
+    distance_km: 5.86
+- country: US
+  region: MD
+  name: Finzel
+  lat: '39.7018'
+  long: "-78.9520"
+  nearby_rate_centers:
+  - name: FROSTBURG
+    distance_km: 6.17
+  - name: MT SAVAGE
+    distance_km: 6.55
+  - name: LONACONING
+    distance_km: 15.25
+- country: US
+  region: MD
+  name: Fishing Creek
+  lat: '38.3358'
+  long: "-76.2238"
+  nearby_rate_centers:
+  - name: WINGATE
+    distance_km: 5.78
+  - name: SOLOMONS
+    distance_km: 20.42
+  - name: LXTNPKGRML
+    distance_km: 25.77
+- country: US
+  region: MD
+  name: Flintstone
+  lat: '39.7035'
+  long: "-78.5756"
+  nearby_rate_centers:
+  - name: FLINTSTONE
+    distance_km: 0.81
+  - name: CUMBERLAND
+    distance_km: 16.43
+  - name: OLDTOWN
+    distance_km: 18.27
+- country: US
+  region: MD
+  name: Flower Hill
+  lat: '39.1676'
+  long: "-77.1824"
+  nearby_rate_centers:
+  - name: GAITHERSBG
+    distance_km: 3.36
+  - name: WSNGTNZN10
+    distance_km: 9.33
+  - name: DAMASCS236
+    distance_km: 13.68
+  - name: DAMASCS240
+    distance_km: 13.68
+- country: US
+  region: MD
+  name: Forest Glen
+  lat: '39.0190'
+  long: "-77.0447"
+  nearby_rate_centers:
+  - name: WSHNGTNZN3
+    distance_km: 1.03
+  - name: WSNGTNZN11
+    distance_km: 2.93
+  - name: WSHNGTNZN2
+    distance_km: 6.57
+- country: US
+  region: MD
+  name: Forest Heights
+  lat: '38.8052'
+  long: "-77.0055"
+  nearby_rate_centers:
+  - name: WSHNGTNZN6
+    distance_km: 1.32
+  - name: WSNGTNZN16
+    distance_km: 10.12
+  - name: WSHNGTNZN5
+    distance_km: 11.52
+- country: US
+  region: MD
+  name: Forestville
+  lat: '38.8518'
+  long: "-76.8708"
+  nearby_rate_centers:
+  - name: WSHNGTNZN5
+    distance_km: 5.34
+  - name: WSNGTNZN16
+    distance_km: 9.71
+  - name: WSNG236Z15
+    distance_km: 10.78
+  - name: WSNG238Z15
+    distance_km: 10.78
+- country: US
+  region: MD
+  name: Fort Meade
+  lat: '39.1061'
+  long: "-76.7437"
+  nearby_rate_centers:
+  - name: ODENTON
+    distance_km: 3.94
+  - name: WATERLO236
+    distance_km: 8.36
+  - name: WATERLO238
+    distance_km: 8.36
+  - name: LAUREL236
+    distance_km: 9.3
+  - name: LAUREL238
+    distance_km: 9.3
+- country: US
+  region: MD
+  name: Fort Ritchie
+  lat: '39.7022'
+  long: "-77.5021"
+  nearby_rate_centers:
+  - name: HIGHFIELD
+    distance_km: 1.9
+  - name: SMITHSBURG
+    distance_km: 8.52
+  - name: THURMONT
+    distance_km: 11.56
+- country: US
+  region: MD
+  name: Fort Washington
+  lat: '38.7339'
+  long: "-77.0069"
+  nearby_rate_centers:
+  - name: WSHNGTNZN6
+    distance_km: 7.52
+  - name: WSNGTNZN16
+    distance_km: 10.04
+  - name: BRANDYWINE
+    distance_km: 14.51
+- country: US
+  region: MD
+  name: Fountainhead-Orchard Hills
+  lat: '39.6878'
+  long: "-77.7173"
+  nearby_rate_centers:
+  - name: HAGERSTOWN
+    distance_km: 5.15
+  - name: SMITHSBURG
+    distance_km: 12.77
+  - name: WILLIAMSPT
+    distance_km: 13.51
+- country: US
+  region: MD
+  name: Four Corners
+  lat: '39.0235'
+  long: "-77.0102"
+  nearby_rate_centers:
+  - name: WSHNGTNZN3
+    distance_km: 3.0
+  - name: WSNGTNZN11
+    distance_km: 5.84
+  - name: WSNGTNZN12
+    distance_km: 7.25
+- country: US
+  region: MD
+  name: Franklin
+  lat: '39.4993'
+  long: "-79.0511"
+  nearby_rate_centers:
+  - name: WESTERNPT
+    distance_km: 1.29
+  - name: MCCOOLE
+    distance_km: 8.37
+  - name: LONACONING
+    distance_km: 9.75
+- country: US
+  region: MD
+  name: Frederick
+  lat: '39.4337'
+  long: "-77.4141"
+  nearby_rate_centers:
+  - name: FREDERICK
+    distance_km: 1.77
+  - name: WALKERSVL
+    distance_km: 7.61
+  - name: MIDDLETOWN
+    distance_km: 10.74
+- country: US
+  region: MD
+  name: Frenchtown-Rumbly
+  lat: '38.0831'
+  long: "-75.8521"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 8.92
+  - name: CRISFIELD
+    distance_km: 10.86
+  - name: DEALISLAND
+    distance_km: 12.11
+- country: US
+  region: MD
+  name: Friendly
+  lat: '38.7601'
+  long: "-76.9642"
+  nearby_rate_centers:
+  - name: WSHNGTNZN6
+    distance_km: 5.07
+  - name: WSNGTNZN16
+    distance_km: 5.68
+  - name: BRANDYWINE
+    distance_km: 12.31
+- country: US
+  region: MD
+  name: Friendship
+  lat: '38.7358'
+  long: "-76.5878"
+  nearby_rate_centers:
+  - name: NORTHBEACH
+    distance_km: 7.64
+  - name: WEST RIVER
+    distance_km: 12.89
+  - name: WSNG236Z15
+    distance_km: 17.05
+  - name: WSNG238Z15
+    distance_km: 17.05
+- country: US
+  region: MD
+  name: Friendship Heights Village
+  lat: '38.9633'
+  long: "-77.0898"
+  nearby_rate_centers:
+  - name: WSHNGTNZN2
+    distance_km: 2.78
+  - name: WSHNGTNZN3
+    distance_km: 6.75
+  - name: WSNGTNZN11
+    distance_km: 6.92
+- country: US
+  region: MD
+  name: Friendsville
+  lat: '39.6624'
+  long: "-79.4044"
+  nearby_rate_centers:
+  - name: FRIENDSVL
+    distance_km: 0.56
+  - name: ACCIDENT
+    distance_km: 8.45
+  - name: BITTINGER
+    distance_km: 17.36
+- country: US
+  region: MD
+  name: Frostburg
+  lat: '39.6506'
+  long: "-78.9269"
+  nearby_rate_centers:
+  - name: FROSTBURG
+    distance_km: 0.09
+  - name: MT SAVAGE
+    distance_km: 6.19
+  - name: LONACONING
+    distance_km: 10.35
+- country: US
+  region: MD
+  name: Fruitland
+  lat: '38.3214'
+  long: "-75.6246"
+  nearby_rate_centers:
+  - name: SALISBURY
+    distance_km: 4.81
+  - name: PRINCEANNE
+    distance_km: 13.73
+  - name: DELMAR
+    distance_km: 15.94
+- country: US
+  region: MD
+  name: Fulton
+  lat: '39.1516'
+  long: "-76.9163"
+  nearby_rate_centers:
+  - name: LAUREL236
+    distance_km: 7.33
+  - name: LAUREL238
+    distance_km: 7.33
+  - name: COLUMBIA
+    distance_km: 8.96
+  - name: ASHTON236
+    distance_km: 9.15
+  - name: ASHTON238
+    distance_km: 9.15
+- country: US
+  region: MD
+  name: Funkstown
+  lat: '39.6068'
+  long: "-77.7053"
+  nearby_rate_centers:
+  - name: HAGERSTOWN
+    distance_km: 4.39
+  - name: WILLIAMSPT
+    distance_km: 10.25
+  - name: SMITHSBURG
+    distance_km: 12.11
+- country: US
+  region: MD
+  name: Gaithersburg
+  lat: '39.1346'
+  long: "-77.2131"
+  nearby_rate_centers:
+  - name: GAITHERSBG
+    distance_km: 1.19
+  - name: WSNGTNZN10
+    distance_km: 7.13
+  - name: WSNGTNZN12
+    distance_km: 15.37
+- country: US
+  region: MD
+  name: Galena
+  lat: '39.3425'
+  long: "-75.8787"
+  nearby_rate_centers:
+  - name: GALENA
+    distance_km: 0.59
+  - name: CECILTON
+    distance_km: 6.35
+  - name: MILLINGTON
+    distance_km: 10.06
+- country: US
+  region: MD
+  name: Galestown
+  lat: '38.5633'
+  long: "-75.7149"
+  nearby_rate_centers:
+  - name: SHARPTOWN
+    distance_km: 2.24
+  - name: VIENNA
+    distance_km: 12.81
+  - name: HURLOCK
+    distance_km: 14.64
+- country: US
+  region: MD
+  name: Galesville
+  lat: '38.8379'
+  long: "-76.5514"
+  nearby_rate_centers:
+  - name: WEST RIVER
+    distance_km: 4.62
+  - name: ANNAPOLIS
+    distance_km: 16.88
+  - name: NORTHBEACH
+    distance_km: 17.22
+- country: US
+  region: MD
+  name: Gambrills
+  lat: '39.0927'
+  long: "-76.6511"
+  nearby_rate_centers:
+  - name: MILLERSVL
+    distance_km: 3.83
+  - name: SEVERN
+    distance_km: 4.74
+  - name: ODENTON
+    distance_km: 5.18
+- country: US
+  region: MD
+  name: Gapland
+  lat: '39.4021'
+  long: "-77.6584"
+  nearby_rate_centers:
+  - name: BRUNSWICK
+    distance_km: 10.13
+  - name: KEEDYSVL
+    distance_km: 10.93
+  - name: MIDDLETOWN
+    distance_km: 11.23
+- country: US
+  region: MD
+  name: Garrett Park
+  lat: '39.0360'
+  long: "-77.0934"
+  nearby_rate_centers:
+  - name: WSNGTNZN11
+    distance_km: 1.83
+  - name: WSHNGTNZN3
+    distance_km: 5.39
+  - name: WSHNGTNZN2
+    distance_km: 5.82
+- country: US
+  region: MD
+  name: Garretts Mill
+  lat: '39.3534'
+  long: "-77.6892"
+  nearby_rate_centers:
+  - name: BRUNSWICK
+    distance_km: 7.11
+  - name: KEEDYSVL
+    distance_km: 15.75
+  - name: MIDDLETOWN
+    distance_km: 16.3
+- country: US
+  region: MD
+  name: Garrison
+  lat: '39.4023'
+  long: "-76.7514"
+  nearby_rate_centers:
+  - name: OWINGS ML
+    distance_km: 3.69
+  - name: PIKESVILLE
+    distance_km: 3.69
+  - name: RANDALLSTN
+    distance_km: 6.26
+  - name: WOODLAWN
+    distance_km: 8.71
+- country: US
+  region: MD
+  name: Georgetown
+  lat: '39.2194'
+  long: "-76.1971"
+  nearby_rate_centers:
+  - name: ROCK HALL
+    distance_km: 9.89
+  - name: CHESTERTN
+    distance_km: 11.21
+  - name: STILL POND
+    distance_km: 17.59
+- country: US
+  region: MD
+  name: Germantown
+  lat: '39.1755'
+  long: "-77.2643"
+  nearby_rate_centers:
+  - name: GAITHERSBG
+    distance_km: 6.48
+  - name: WSNGTNZN10
+    distance_km: 13.46
+  - name: DAMASCS236
+    distance_km: 13.53
+  - name: DAMASCS240
+    distance_km: 13.53
+- country: US
+  region: MD
+  name: Gilmore
+  lat: '39.5831'
+  long: "-78.9513"
+  nearby_rate_centers:
+  - name: LONACONING
+    distance_km: 2.93
+  - name: FROSTBURG
+    distance_km: 7.74
+  - name: WESTERNPT
+    distance_km: 13.03
+- country: US
+  region: MD
+  name: Girdletree
+  lat: '38.0989'
+  long: "-75.4003"
+  nearby_rate_centers:
+  - name: SNOW HILL
+    distance_km: 8.63
+  - name: POCOMOKE
+    distance_km: 14.8
+  - name: PRINCEANNE
+    distance_km: 28.23
+- country: US
+  region: MD
+  name: Glassmanor
+  lat: '38.8181'
+  long: "-76.9833"
+  nearby_rate_centers:
+  - name: WSHNGTNZN6
+    distance_km: 2.09
+  - name: WSHNGTNZN5
+    distance_km: 9.19
+  - name: WSNGTNZN16
+    distance_km: 9.21
+- country: US
+  region: MD
+  name: Glen Burnie
+  lat: '39.1560'
+  long: "-76.6071"
+  nearby_rate_centers:
+  - name: GLENBURNIE
+    distance_km: 2.04
+  - name: SEVERN
+    distance_km: 3.77
+  - name: ARGRGBSNIS
+    distance_km: 5.68
+- country: US
+  region: MD
+  name: Glen Echo
+  lat: '38.9683'
+  long: "-77.1412"
+  nearby_rate_centers:
+  - name: WSHNGTNZN2
+    distance_km: 3.5
+  - name: WSNGTNZN11
+    distance_km: 8.34
+  - name: WSHNGTNZN3
+    distance_km: 9.88
+- country: US
+  region: MD
+  name: Glenarden
+  lat: '38.9294'
+  long: "-76.8577"
+  nearby_rate_centers:
+  - name: BOWIE-GLENN DALE (BALTIMORE LATA)
+    distance_km: 7.05
+  - name: BOWIGLNNDL
+    distance_km: 7.05
+  - name: WSNG236Z14
+    distance_km: 7.05
+  - name: WSNG238Z14
+    distance_km: 7.05
+  - name: WSHNGTNZN5
+    distance_km: 7.32
+  - name: WSHNGTNZN4
+    distance_km: 8.36
+  - name: WSNGTNZON4
+    distance_km: 8.36
+- country: US
+  region: MD
+  name: Glenmont
+  lat: '39.0698'
+  long: "-77.0467"
+  nearby_rate_centers:
+  - name: WSNGTNZN12
+    distance_km: 1.31
+  - name: WSNGTNZN11
+    distance_km: 5.68
+  - name: WSHNGTNZN3
+    distance_km: 6.63
+- country: US
+  region: MD
+  name: Glenn Dale
+  lat: '38.9833'
+  long: "-76.8040"
+  nearby_rate_centers:
+  - name: BOWIE-GLENN DALE (BALTIMORE LATA)
+    distance_km: 0.86
+  - name: BOWIGLNNDL
+    distance_km: 0.86
+  - name: WSNG236Z14
+    distance_km: 0.86
+  - name: WSNG238Z14
+    distance_km: 0.86
+  - name: BERWYN
+    distance_km: 9.5
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 9.5
+  - name: WSNG236Z13
+    distance_km: 9.5
+  - name: WSNG238Z13
+    distance_km: 9.5
+  - name: CROFTON
+    distance_km: 11.48
+- country: US
+  region: MD
+  name: Golden Beach
+  lat: '38.4900'
+  long: "-76.7019"
+  nearby_rate_centers:
+  - name: MECHANCSVL
+    distance_km: 6.32
+  - name: HUGHESVL
+    distance_km: 8.8
+  - name: PRINCEFRCK
+    distance_km: 11.59
+- country: US
+  region: MD
+  name: Goldsboro
+  lat: '39.0316'
+  long: "-75.7821"
+  nearby_rate_centers:
+  - name: GREENSBORO
+    distance_km: 6.62
+  - name: RIDGELY
+    distance_km: 13.11
+  - name: DENTON
+    distance_km: 16.93
+- country: US
+  region: MD
+  name: Gorman
+  lat: '39.2923'
+  long: "-79.3527"
+  nearby_rate_centers:
+  - name: OAKLAND
+    distance_km: 13.78
+  - name: KITZMILLER
+    distance_km: 18.86
+  - name: WESTERNPT
+    distance_km: 34.49
+- country: US
+  region: MD
+  name: Graceham
+  lat: '39.6152'
+  long: "-77.3829"
+  nearby_rate_centers:
+  - name: THURMONT
+    distance_km: 2.68
+  - name: EMMITSBURG
+    distance_km: 11.34
+  - name: HIGHFIELD
+    distance_km: 14.42
+- country: US
+  region: MD
+  name: Grahamtown
+  lat: '39.6448'
+  long: "-78.9225"
+  nearby_rate_centers:
+  - name: FROSTBURG
+    distance_km: 0.66
+  - name: MT SAVAGE
+    distance_km: 6.43
+  - name: LONACONING
+    distance_km: 9.94
+- country: US
+  region: MD
+  name: Grantsville
+  lat: '39.6969'
+  long: "-79.1528"
+  nearby_rate_centers:
+  - name: GRANTSVL
+    distance_km: 0.85
+  - name: BITTINGER
+    distance_km: 12.07
+  - name: ACCIDENT
+    distance_km: 16.35
+- country: US
+  region: MD
+  name: Grasonville
+  lat: '38.9559'
+  long: "-76.1947"
+  nearby_rate_centers:
+  - name: QUEENSTOWN
+    distance_km: 5.32
+  - name: STEVENSVL
+    distance_km: 10.12
+  - name: CENTREVL
+    distance_km: 14.36
+- country: US
+  region: MD
+  name: Green Valley
+  lat: '39.3414'
+  long: "-77.2400"
+  nearby_rate_centers:
+  - name: NEW MARKET
+    distance_km: 5.17
+  - name: DAMASCS236
+    distance_km: 6.44
+  - name: DAMASCS240
+    distance_km: 6.44
+  - name: MOUNT AIRY
+    distance_km: 7.81
+- country: US
+  region: MD
+  name: Greenbelt
+  lat: '38.9953'
+  long: "-76.8885"
+  nearby_rate_centers:
+  - name: BERWYN
+    distance_km: 2.18
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 2.18
+  - name: WSNG236Z13
+    distance_km: 2.18
+  - name: WSNG238Z13
+    distance_km: 2.18
+  - name: BOWIE-GLENN DALE (BALTIMORE LATA)
+    distance_km: 6.6
+  - name: BOWIGLNNDL
+    distance_km: 6.6
+  - name: WSNG236Z14
+    distance_km: 6.6
+  - name: WSNG238Z14
+    distance_km: 6.6
+  - name: WSHNGTNZN4
+    distance_km: 7.29
+  - name: WSNGTNZON4
+    distance_km: 7.29
+- country: US
+  region: MD
+  name: Greensboro
+  lat: '38.9764'
+  long: "-75.8080"
+  nearby_rate_centers:
+  - name: GREENSBORO
+    distance_km: 0.18
+  - name: RIDGELY
+    distance_km: 7.45
+  - name: DENTON
+    distance_km: 10.5
+- country: US
+  region: MD
+  name: Greensburg
+  lat: '39.6806'
+  long: "-77.5615"
+  nearby_rate_centers:
+  - name: SMITHSBURG
+    distance_km: 3.53
+  - name: HIGHFIELD
+    distance_km: 7.35
+  - name: THURMONT
+    distance_km: 14.25
+- country: US
+  region: MD
+  name: Hagerstown
+  lat: '39.6401'
+  long: "-77.7217"
+  nearby_rate_centers:
+  - name: HAGERSTOWN
+    distance_km: 0.59
+  - name: WILLIAMSPT
+    distance_km: 9.94
+  - name: SMITHSBURG
+    distance_km: 12.53
+- country: US
+  region: MD
+  name: Halfway
+  lat: '39.6162'
+  long: "-77.7703"
+  nearby_rate_centers:
+  - name: HAGERSTOWN
+    distance_km: 4.63
+  - name: WILLIAMSPT
+    distance_km: 5.03
+  - name: CLEAR SPG
+    distance_km: 14.55
+- country: US
+  region: MD
+  name: Hampstead
+  lat: '39.6105'
+  long: "-76.8549"
+  nearby_rate_centers:
+  - name: HAMPSTEAD
+    distance_km: 1.44
+  - name: WESTMINSTR
+    distance_km: 12.52
+  - name: WORTHINGTN
+    distance_km: 14.09
+- country: US
+  region: MD
+  name: Hampton
+  lat: '39.4237'
+  long: "-76.5685"
+  nearby_rate_centers:
+  - name: TOWSON
+    distance_km: 3.59
+  - name: PARKVILLE
+    distance_km: 7.05
+  - name: COCKEYSVL
+    distance_km: 9.64
+- country: US
+  region: MD
+  name: Hancock
+  lat: '39.7054'
+  long: "-78.1749"
+  nearby_rate_centers:
+  - name: HANCOCK
+    distance_km: 0.39
+  - name: CLEAR SPG
+    distance_km: 21.48
+  - name: WILLIAMSPT
+    distance_km: 32.27
+- country: US
+  region: MD
+  name: Havre de Grace
+  lat: '39.5480'
+  long: "-76.1146"
+  nearby_rate_centers:
+  - name: HAVREGRACE
+    distance_km: 1.95
+  - name: PERRYVILLE
+    distance_km: 3.78
+  - name: ABERDEEN
+    distance_km: 6.32
+- country: US
+  region: MD
+  name: Hebron
+  lat: '38.4242'
+  long: "-75.6871"
+  nearby_rate_centers:
+  - name: DELMAR
+    distance_km: 10.36
+  - name: SALISBURY
+    distance_km: 10.65
+  - name: VIENNA
+    distance_km: 13.44
+- country: US
+  region: MD
+  name: Henderson
+  lat: '39.0750'
+  long: "-75.7660"
+  nearby_rate_centers:
+  - name: GREENSBORO
+    distance_km: 11.63
+  - name: SUDLERSVL
+    distance_km: 15.25
+  - name: RIDGELY
+    distance_km: 17.77
+- country: US
+  region: MD
+  name: Herald Harbor
+  lat: '39.0516'
+  long: "-76.5746"
+  nearby_rate_centers:
+  - name: SEVERNA PK
+    distance_km: 2.84
+  - name: SHERWD FOR
+    distance_km: 4.33
+  - name: MILLERSVL
+    distance_km: 6.12
+- country: US
+  region: MD
+  name: Highfield-Cascade
+  lat: '39.7136'
+  long: "-77.4946"
+  nearby_rate_centers:
+  - name: HIGHFIELD
+    distance_km: 0.55
+  - name: SMITHSBURG
+    distance_km: 9.86
+  - name: THURMONT
+    distance_km: 12.15
+- country: US
+  region: MD
+  name: Highland
+  lat: '39.1814'
+  long: "-76.9570"
+  nearby_rate_centers:
+  - name: ASHTON236
+    distance_km: 6.59
+  - name: ASHTON238
+    distance_km: 6.59
+  - name: COLUMBIA
+    distance_km: 9.62
+  - name: LAUREL236
+    distance_km: 12.15
+  - name: LAUREL238
+    distance_km: 12.15
+- country: US
+  region: MD
+  name: Highland Beach
+  lat: '38.9312'
+  long: "-76.4660"
+  nearby_rate_centers:
+  - name: ANNAPOLIS
+    distance_km: 6.4
+  - name: SHERWD FOR
+    distance_km: 12.09
+  - name: STEVENSVL
+    distance_km: 14.48
+- country: US
+  region: MD
+  name: Hillandale
+  lat: '39.0249'
+  long: "-76.9737"
+  nearby_rate_centers:
+  - name: WSHNGTNZN3
+    distance_km: 6.0
+  - name: BERWYN
+    distance_km: 6.37
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 6.37
+  - name: WSNG236Z13
+    distance_km: 6.37
+  - name: WSNG238Z13
+    distance_km: 6.37
+  - name: WSHNGTNZN4
+    distance_km: 8.49
+  - name: WSNGTNZON4
+    distance_km: 8.49
+- country: US
+  region: MD
+  name: Hillcrest Heights
+  lat: '38.8373'
+  long: "-76.9641"
+  nearby_rate_centers:
+  - name: WSHNGTNZN6
+    distance_km: 4.74
+  - name: WSHNGTNZN5
+    distance_km: 6.48
+  - name: WSNGTNZN16
+    distance_km: 9.59
+- country: US
+  region: MD
+  name: Hillsboro
+  lat: '38.9170'
+  long: "-75.9416"
+  nearby_rate_centers:
+  - name: HILLSBORO
+    distance_km: 0.72
+  - name: RIDGELY
+    distance_km: 5.86
+  - name: DENTON
+    distance_km: 10.9
+- country: US
+  region: MD
+  name: Honeygo
+  lat: '39.4055'
+  long: "-76.4282"
+  nearby_rate_centers:
+  - name: FORK
+    distance_km: 6.93
+  - name: CHASE
+    distance_km: 7.55
+  - name: PARKVILLE
+    distance_km: 8.38
+- country: US
+  region: MD
+  name: Hughesville
+  lat: '38.5376'
+  long: "-76.7748"
+  nearby_rate_centers:
+  - name: HUGHESVL
+    distance_km: 1.09
+  - name: MECHANCSVL
+    distance_km: 11.1
+  - name: WALDORF
+    distance_km: 14.91
+- country: US
+  region: MD
+  name: Huntingtown
+  lat: '38.6117'
+  long: "-76.6187"
+  nearby_rate_centers:
+  - name: PRINCEFRCK
+    distance_km: 8.28
+  - name: NORTHBEACH
+    distance_km: 11.12
+  - name: HUGHESVL
+    distance_km: 16.96
+- country: US
+  region: MD
+  name: Hurlock
+  lat: '38.6268'
+  long: "-75.8640"
+  nearby_rate_centers:
+  - name: HURLOCK
+    distance_km: 0.85
+  - name: PRESTON
+    distance_km: 10.87
+  - name: FEDERALSBG
+    distance_km: 11.13
+- country: US
+  region: MD
+  name: Hutton
+  lat: '39.4145'
+  long: "-79.4801"
+  nearby_rate_centers:
+  - name: OAKLAND
+    distance_km: 5.98
+  - name: KITZMILLER
+    distance_km: 26.26
+  - name: ACCIDENT
+    distance_km: 27.12
+- country: US
+  region: MD
+  name: Hyattsville
+  lat: '38.9613'
+  long: "-76.9548"
+  nearby_rate_centers:
+  - name: WSHNGTNZN4
+    distance_km: 1.24
+  - name: WSNGTNZON4
+    distance_km: 1.24
+  - name: BERWYN
+    distance_km: 4.95
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 4.95
+  - name: WSNG236Z13
+    distance_km: 4.95
+  - name: WSNG238Z13
+    distance_km: 4.95
+  - name: WSHNGTNZN3
+    distance_km: 9.2
+- country: US
+  region: MD
+  name: Ilchester
+  lat: '39.2187'
+  long: "-76.7683"
+  nearby_rate_centers:
+  - name: ELKRIDGE
+    distance_km: 4.26
+  - name: WATERLO236
+    distance_km: 5.22
+  - name: WATERLO238
+    distance_km: 5.22
+  - name: CATONSVL
+    distance_km: 5.89
+- country: US
+  region: MD
+  name: Indian Head
+  lat: '38.5987'
+  long: "-77.1555"
+  nearby_rate_centers:
+  - name: INDIANHEAD
+    distance_km: 1.15
+  - name: NANJEMOY
+    distance_km: 17.42
+  - name: LA PLATA
+    distance_km: 17.9
+- country: US
+  region: MD
+  name: Indian Springs
+  lat: '39.6457'
+  long: "-78.0074"
+  nearby_rate_centers:
+  - name: CLEAR SPG
+    distance_km: 6.49
+  - name: HANCOCK
+    distance_km: 15.81
+  - name: WILLIAMSPT
+    distance_km: 16.53
+- country: US
+  region: MD
+  name: Jarrettsville
+  lat: '39.6031'
+  long: "-76.4752"
+  nearby_rate_centers:
+  - name: JARRETTSVILLE 941
+    distance_km: 0.98
+  - name: JARRETTSVL
+    distance_km: 0.98
+  - name: BEL AIR
+    distance_km: 13.27
+  - name: FORK
+    distance_km: 15.51
+- country: US
+  region: MD
+  name: Jefferson
+  lat: '39.3653'
+  long: "-77.5406"
+  nearby_rate_centers:
+  - name: MIDDLETOWN
+    distance_km: 8.59
+  - name: BRUNSWICK
+    distance_km: 9.01
+  - name: BUCKEYSTN
+    distance_km: 9.76
+- country: US
+  region: MD
+  name: Jennings
+  lat: '39.6487'
+  long: "-79.1835"
+  nearby_rate_centers:
+  - name: BITTINGER
+    distance_km: 6.1
+  - name: GRANTSVL
+    distance_km: 6.35
+  - name: ACCIDENT
+    distance_km: 11.91
+- country: US
+  region: MD
+  name: Jessup
+  lat: '39.1488'
+  long: "-76.7772"
+  nearby_rate_centers:
+  - name: WATERLO236
+    distance_km: 2.88
+  - name: WATERLO238
+    distance_km: 2.88
+  - name: LAUREL236
+    distance_km: 7.79
+  - name: LAUREL238
+    distance_km: 7.79
+  - name: ELKRIDGE
+    distance_km: 8.98
+- country: US
+  region: MD
+  name: Jesterville
+  lat: '38.2897'
+  long: "-75.8928"
+  nearby_rate_centers:
+  - name: NANTICOKE
+    distance_km: 0.95
+  - name: DEALISLAND
+    distance_km: 15.43
+  - name: PRINCEANNE
+    distance_km: 19.75
+- country: US
+  region: MD
+  name: Joppatowne
+  lat: '39.4181'
+  long: "-76.3516"
+  nearby_rate_centers:
+  - name: EDGEWOOD
+    distance_km: 4.62
+  - name: CHASE
+    distance_km: 6.7
+  - name: FALLSTON
+    distance_km: 7.36
+- country: US
+  region: MD
+  name: Jugtown
+  lat: '39.6143'
+  long: "-77.5943"
+  nearby_rate_centers:
+  - name: SMITHSBURG
+    distance_km: 4.36
+  - name: HAGERSTOWN
+    distance_km: 11.87
+  - name: MYERSVILLE
+    distance_km: 12.1
+- country: US
+  region: MD
+  name: Keedysville
+  lat: '39.4867'
+  long: "-77.6980"
+  nearby_rate_centers:
+  - name: KEEDYSVL
+    distance_km: 0.93
+  - name: MYERSVILLE
+    distance_km: 11.47
+  - name: MIDDLETOWN
+    distance_km: 14.54
+- country: US
+  region: MD
+  name: Kemp Mill
+  lat: '39.0412'
+  long: "-77.0215"
+  nearby_rate_centers:
+  - name: WSHNGTNZN3
+    distance_km: 3.8
+  - name: WSNGTNZN12
+    distance_km: 5.06
+  - name: WSNGTNZN11
+    distance_km: 5.19
+- country: US
+  region: MD
+  name: Kemps Mill
+  lat: '39.6268'
+  long: "-77.8137"
+  nearby_rate_centers:
+  - name: WILLIAMSPT
+    distance_km: 3.27
+  - name: HAGERSTOWN
+    distance_km: 7.53
+  - name: CLEAR SPG
+    distance_km: 10.65
+- country: US
+  region: MD
+  name: Kennedyville
+  lat: '39.3032'
+  long: "-75.9949"
+  nearby_rate_centers:
+  - name: STILL POND
+    distance_km: 4.59
+  - name: GALENA
+    distance_km: 11.38
+  - name: CHESTERTN
+    distance_km: 12.33
+- country: US
+  region: MD
+  name: Kensington
+  lat: '39.0269'
+  long: "-77.0736"
+  nearby_rate_centers:
+  - name: WSNGTNZN11
+    distance_km: 0.43
+  - name: WSHNGTNZN3
+    distance_km: 3.4
+  - name: WSHNGTNZN2
+    distance_km: 5.49
+- country: US
+  region: MD
+  name: Kent Narrows
+  lat: '38.9703'
+  long: "-76.2384"
+  nearby_rate_centers:
+  - name: STEVENSVL
+    distance_km: 6.12
+  - name: QUEENSTOWN
+    distance_km: 7.55
+  - name: CENTREVL
+    distance_km: 16.57
+- country: US
+  region: MD
+  name: Kettering
+  lat: '38.8888'
+  long: "-76.7889"
+  nearby_rate_centers:
+  - name: WSNG236Z15
+    distance_km: 8.51
+  - name: WSNG238Z15
+    distance_km: 8.51
+  - name: BOWIE-GLENN DALE (BALTIMORE LATA)
+    distance_km: 10.68
+  - name: BOWIGLNNDL
+    distance_km: 10.68
+  - name: WSNG236Z14
+    distance_km: 10.68
+  - name: WSNG238Z14
+    distance_km: 10.68
+  - name: WSHNGTNZN5
+    distance_km: 11.17
+- country: US
+  region: MD
+  name: Kingstown
+  lat: '39.2036'
+  long: "-76.0465"
+  nearby_rate_centers:
+  - name: CHESTERTN
+    distance_km: 1.9
+  - name: CHURCHHILL
+    distance_km: 8.83
+  - name: STILL POND
+    distance_km: 13.22
+- country: US
+  region: MD
+  name: Kingsville
+  lat: '39.4496'
+  long: "-76.4205"
+  nearby_rate_centers:
+  - name: FORK
+    distance_km: 2.23
+  - name: FALLSTON
+    distance_km: 5.29
+  - name: EDGEWOOD
+    distance_km: 10.91
+- country: US
+  region: MD
+  name: Kitzmiller
+  lat: '39.3894'
+  long: "-79.1833"
+  nearby_rate_centers:
+  - name: KITZMILLER
+    distance_km: 0.73
+  - name: WESTERNPT
+    distance_km: 16.41
+  - name: MCCOOLE
+    distance_km: 18.98
+- country: US
+  region: MD
+  name: Klondike
+  lat: '39.6102'
+  long: "-78.9633"
+  nearby_rate_centers:
+  - name: LONACONING
+    distance_km: 5.06
+  - name: FROSTBURG
+    distance_km: 5.44
+  - name: MT SAVAGE
+    distance_km: 11.62
+- country: US
+  region: MD
+  name: Konterra
+  lat: '39.0774'
+  long: "-76.9023"
+  nearby_rate_centers:
+  - name: LAUREL236
+    distance_km: 5.62
+  - name: LAUREL238
+    distance_km: 5.62
+  - name: BERWYN
+    distance_km: 9.54
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 9.54
+  - name: WSNG236Z13
+    distance_km: 9.54
+  - name: WSNG238Z13
+    distance_km: 9.54
+  - name: WSNGTNZN12
+    distance_km: 12.64
+- country: US
+  region: MD
+  name: La Plata
+  lat: '38.5352'
+  long: "-76.9700"
+  nearby_rate_centers:
+  - name: LA PLATA
+    distance_km: 1.31
+  - name: WALDORF
+    distance_km: 11.54
+  - name: HUGHESVL
+    distance_km: 15.98
+- country: US
+  region: MD
+  name: La Vale
+  lat: '39.6625'
+  long: "-78.8229"
+  nearby_rate_centers:
+  - name: MT SAVAGE
+    distance_km: 5.58
+  - name: CUMBERLAND
+    distance_km: 6.0
+  - name: FROSTBURG
+    distance_km: 8.96
+- country: US
+  region: MD
+  name: Lake Arbor
+  lat: '38.9105'
+  long: "-76.8304"
+  nearby_rate_centers:
+  - name: WSHNGTNZN5
+    distance_km: 8.15
+  - name: BOWIE-GLENN DALE (BALTIMORE LATA)
+    distance_km: 8.17
+  - name: BOWIGLNNDL
+    distance_km: 8.17
+  - name: WSNG236Z14
+    distance_km: 8.17
+  - name: WSNG238Z14
+    distance_km: 8.17
+  - name: WSHNGTNZN4
+    distance_km: 11.3
+  - name: WSNGTNZON4
+    distance_km: 11.3
+- country: US
+  region: MD
+  name: Lake Shore
+  lat: '39.1030'
+  long: "-76.4876"
+  nearby_rate_centers:
+  - name: ARGRGBSNIS
+    distance_km: 6.23
+  - name: SEVERNA PK
+    distance_km: 6.6
+  - name: SHERWD FOR
+    distance_km: 9.89
+- country: US
+  region: MD
+  name: Landover
+  lat: '38.9241'
+  long: "-76.8875"
+  nearby_rate_centers:
+  - name: WSHNGTNZN5
+    distance_km: 5.26
+  - name: WSHNGTNZN4
+    distance_km: 6.19
+  - name: WSNGTNZON4
+    distance_km: 6.19
+  - name: BERWYN
+    distance_km: 7.88
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 7.88
+  - name: WSNG236Z13
+    distance_km: 7.88
+  - name: WSNG238Z13
+    distance_km: 7.88
+- country: US
+  region: MD
+  name: Landover Hills
+  lat: '38.9425'
+  long: "-76.8945"
+  nearby_rate_centers:
+  - name: WSHNGTNZN4
+    distance_km: 4.92
+  - name: WSNGTNZON4
+    distance_km: 4.92
+  - name: BERWYN
+    distance_km: 5.74
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 5.74
+  - name: WSNG236Z13
+    distance_km: 5.74
+  - name: WSNG238Z13
+    distance_km: 5.74
+  - name: WSHNGTNZN5
+    distance_km: 6.91
+- country: US
+  region: MD
+  name: Langley Park
+  lat: '38.9897'
+  long: "-76.9808"
+  nearby_rate_centers:
+  - name: WSHNGTNZN4
+    distance_km: 5.07
+  - name: WSNGTNZON4
+    distance_km: 5.07
+  - name: WSHNGTNZN3
+    distance_km: 5.65
+  - name: BERWYN
+    distance_km: 5.83
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 5.83
+  - name: WSNG236Z13
+    distance_km: 5.83
+  - name: WSNG238Z13
+    distance_km: 5.83
+- country: US
+  region: MD
+  name: Lanham
+  lat: '38.9620'
+  long: "-76.8421"
+  nearby_rate_centers:
+  - name: BOWIE-GLENN DALE (BALTIMORE LATA)
+    distance_km: 3.36
+  - name: BOWIGLNNDL
+    distance_km: 3.36
+  - name: WSNG236Z14
+    distance_km: 3.36
+  - name: WSNG238Z14
+    distance_km: 3.36
+  - name: BERWYN
+    distance_km: 7.01
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 7.01
+  - name: WSNG236Z13
+    distance_km: 7.01
+  - name: WSNG238Z13
+    distance_km: 7.01
+  - name: WSHNGTNZN4
+    distance_km: 9.45
+  - name: WSNGTNZON4
+    distance_km: 9.45
+- country: US
+  region: MD
+  name: Lansdowne
+  lat: '39.2365'
+  long: "-76.6659"
+  nearby_rate_centers:
+  - name: ARBUTUS
+    distance_km: 0.69
+  - name: BRYNPKLNCM
+    distance_km: 4.74
+  - name: ELKRIDGE
+    distance_km: 5.12
+- country: US
+  region: MD
+  name: Largo
+  lat: '38.8800'
+  long: "-76.8289"
+  nearby_rate_centers:
+  - name: WSHNGTNZN5
+    distance_km: 7.7
+  - name: WSNG236Z15
+    distance_km: 9.51
+  - name: WSNG238Z15
+    distance_km: 9.51
+  - name: BOWIE-GLENN DALE (BALTIMORE LATA)
+    distance_km: 11.51
+  - name: BOWIGLNNDL
+    distance_km: 11.51
+  - name: WSNG236Z14
+    distance_km: 11.51
+  - name: WSNG238Z14
+    distance_km: 11.51
+- country: US
+  region: MD
+  name: Laurel
+  lat: '39.0949'
+  long: "-76.8622"
+  nearby_rate_centers:
+  - name: LAUREL236
+    distance_km: 1.82
+  - name: LAUREL238
+    distance_km: 1.82
+  - name: WATERLO236
+    distance_km: 10.97
+  - name: WATERLO238
+    distance_km: 10.97
+  - name: BERWYN
+    distance_km: 12.27
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 12.27
+  - name: WSNG236Z13
+    distance_km: 12.27
+  - name: WSNG238Z13
+    distance_km: 12.27
+- country: US
+  region: MD
+  name: Layhill
+  lat: '39.0871'
+  long: "-77.0404"
+  nearby_rate_centers:
+  - name: WSNGTNZN12
+    distance_km: 0.95
+  - name: ASHTON236
+    distance_km: 7.25
+  - name: ASHTON238
+    distance_km: 7.25
+  - name: WSNGTNZN11
+    distance_km: 7.64
+- country: US
+  region: MD
+  name: Laytonsville
+  lat: '39.2088'
+  long: "-77.1415"
+  nearby_rate_centers:
+  - name: GAITHERSBG
+    distance_km: 9.13
+  - name: DAMASCS236
+    distance_km: 10.6
+  - name: DAMASCS240
+    distance_km: 10.6
+  - name: ASHTON236
+    distance_km: 12.12
+  - name: ASHTON238
+    distance_km: 12.12
+- country: US
+  region: MD
+  name: Leisure World
+  lat: '39.1023'
+  long: "-77.0689"
+  nearby_rate_centers:
+  - name: WSNGTNZN12
+    distance_km: 2.9
+  - name: ASHTON236
+    distance_km: 6.72
+  - name: ASHTON238
+    distance_km: 6.72
+  - name: WSNGTNZN10
+    distance_km: 8.07
+- country: US
+  region: MD
+  name: Leitersburg
+  lat: '39.6928'
+  long: "-77.6206"
+  nearby_rate_centers:
+  - name: SMITHSBURG
+    distance_km: 6.02
+  - name: HAGERSTOWN
+    distance_km: 10.78
+  - name: HIGHFIELD
+    distance_km: 11.56
+- country: US
+  region: MD
+  name: Leonardtown
+  lat: '38.3039'
+  long: "-76.6395"
+  nearby_rate_centers:
+  - name: LEONARDTN
+    distance_km: 1.48
+  - name: LXTNPKGRML
+    distance_km: 14.69
+  - name: SOLOMONS
+    distance_km: 16.07
+- country: US
+  region: MD
+  name: Lewistown
+  lat: '39.5409'
+  long: "-77.4191"
+  nearby_rate_centers:
+  - name: WALKERSVL
+    distance_km: 8.7
+  - name: THURMONT
+    distance_km: 9.38
+  - name: MYERSVILLE
+    distance_km: 13.22
+- country: US
+  region: MD
+  name: Lexington Park
+  lat: '38.2528'
+  long: "-76.4424"
+  nearby_rate_centers:
+  - name: LXTNPKGRML
+    distance_km: 4.61
+  - name: SOLOMONS
+    distance_km: 8.29
+  - name: RIDGE
+    distance_km: 16.57
+- country: US
+  region: MD
+  name: Libertytown
+  lat: '39.4859'
+  long: "-77.2482"
+  nearby_rate_centers:
+  - name: WALKERSVL
+    distance_km: 8.9
+  - name: UNION BDG
+    distance_km: 10.91
+  - name: NEW MARKET
+    distance_km: 11.64
+- country: US
+  region: MD
+  name: Linganore
+  lat: '39.4127'
+  long: "-77.3014"
+  nearby_rate_centers:
+  - name: NEW MARKET
+    distance_km: 4.41
+  - name: WALKERSVL
+    distance_km: 8.87
+  - name: FREDERICK
+    distance_km: 9.27
+- country: US
+  region: MD
+  name: Linthicum
+  lat: '39.2088'
+  long: "-76.6626"
+  nearby_rate_centers:
+  - name: ARBUTUS
+    distance_km: 3.78
+  - name: BRYNPKLNCM
+    distance_km: 4.0
+  - name: ELKRIDGE
+    distance_km: 4.92
+- country: US
+  region: MD
+  name: Lisbon
+  lat: '39.3361'
+  long: "-77.0700"
+  nearby_rate_centers:
+  - name: GLENWOOD
+    distance_km: 4.99
+  - name: MOUNT AIRY
+    distance_km: 8.84
+  - name: SYKESVILLE
+    distance_km: 9.51
+- country: US
+  region: MD
+  name: Little Orleans
+  lat: '39.6300'
+  long: "-78.3949"
+  nearby_rate_centers:
+  - name: FLINTSTONE
+    distance_km: 16.72
+  - name: OLDTOWN
+    distance_km: 20.65
+  - name: HANCOCK
+    distance_km: 20.9
+- country: US
+  region: MD
+  name: Loch Lynn Heights
+  lat: '39.3919'
+  long: "-79.3726"
+  nearby_rate_centers:
+  - name: OAKLAND
+    distance_km: 3.75
+  - name: KITZMILLER
+    distance_km: 16.91
+  - name: ACCIDENT
+    distance_km: 26.26
+- country: US
+  region: MD
+  name: Lochearn
+  lat: '39.3461'
+  long: "-76.7307"
+  nearby_rate_centers:
+  - name: WOODLAWN
+    distance_km: 2.23
+  - name: RANDALLSTN
+    distance_km: 3.05
+  - name: OWINGS ML
+    distance_km: 3.31
+  - name: PIKESVILLE
+    distance_km: 3.31
+- country: US
+  region: MD
+  name: Lonaconing
+  lat: '39.5660'
+  long: "-78.9790"
+  nearby_rate_centers:
+  - name: LONACONING
+    distance_km: 0.15
+  - name: WESTERNPT
+    distance_km: 10.11
+  - name: FROSTBURG
+    distance_km: 10.37
+- country: US
+  region: MD
+  name: Long Beach
+  lat: '38.4568'
+  long: "-76.4737"
+  nearby_rate_centers:
+  - name: PRINCEFRCK
+    distance_km: 13.6
+  - name: SOLOMONS
+    distance_km: 14.56
+  - name: LEONARDTN
+    distance_km: 22.78
+- country: US
+  region: MD
+  name: Luke
+  lat: '39.4766'
+  long: "-79.0593"
+  nearby_rate_centers:
+  - name: WESTERNPT
+    distance_km: 2.01
+  - name: MCCOOLE
+    distance_km: 7.64
+  - name: LONACONING
+    distance_km: 12.18
+- country: US
+  region: MD
+  name: Lusby
+  lat: '38.3620'
+  long: "-76.4372"
+  nearby_rate_centers:
+  - name: SOLOMONS
+    distance_km: 4.34
+  - name: LXTNPKGRML
+    distance_km: 14.44
+  - name: LEONARDTN
+    distance_km: 18.51
+- country: US
+  region: MD
+  name: Lutherville
+  lat: '39.4240'
+  long: "-76.6177"
+  nearby_rate_centers:
+  - name: TOWSON
+    distance_km: 2.83
+  - name: COCKEYSVL
+    distance_km: 7.23
+  - name: PARKVILLE
+    distance_km: 10.26
+- country: US
+  region: MD
+  name: Madison
+  lat: '38.5163'
+  long: "-76.2182"
+  nearby_rate_centers:
+  - name: CAMBRIDGE
+    distance_km: 13.73
+  - name: WINGATE
+    distance_km: 15.09
+  - name: OXFORD
+    distance_km: 19.26
+- country: US
+  region: MD
+  name: Manchester
+  lat: '39.6585'
+  long: "-76.8881"
+  nearby_rate_centers:
+  - name: HAMPSTEAD
+    distance_km: 7.47
+  - name: WESTMINSTR
+    distance_km: 12.95
+  - name: SILVER RUN
+    distance_km: 13.61
+- country: US
+  region: MD
+  name: Mapleville
+  lat: '39.5358'
+  long: "-77.6463"
+  nearby_rate_centers:
+  - name: KEEDYSVL
+    distance_km: 6.53
+  - name: MYERSVILLE
+    distance_km: 7.49
+  - name: HAGERSTOWN
+    distance_km: 13.75
+- country: US
+  region: MD
+  name: Mardela Springs
+  lat: '38.4589'
+  long: "-75.7565"
+  nearby_rate_centers:
+  - name: VIENNA
+    distance_km: 6.29
+  - name: SHARPTOWN
+    distance_km: 9.99
+  - name: DELMAR
+    distance_km: 15.62
+- country: US
+  region: MD
+  name: Marlboro Meadows
+  lat: '38.8374'
+  long: "-76.7144"
+  nearby_rate_centers:
+  - name: WSNG236Z15
+    distance_km: 4.15
+  - name: WSNG238Z15
+    distance_km: 4.15
+  - name: WEST RIVER
+    distance_km: 9.87
+  - name: CROFTON
+    distance_km: 17.3
+- country: US
+  region: MD
+  name: Marlboro Village
+  lat: '38.8307'
+  long: "-76.7699"
+  nearby_rate_centers:
+  - name: WSNG236Z15
+    distance_km: 2.01
+  - name: WSNG238Z15
+    distance_km: 2.01
+  - name: WSNGTNZN16
+    distance_km: 13.24
+  - name: WSHNGTNZN5
+    distance_km: 14.06
+- country: US
+  region: MD
+  name: Marlow Heights
+  lat: '38.8237'
+  long: "-76.9484"
+  nearby_rate_centers:
+  - name: WSHNGTNZN6
+    distance_km: 4.54
+  - name: WSHNGTNZN5
+    distance_km: 7.11
+  - name: WSNGTNZN16
+    distance_km: 7.57
+- country: US
+  region: MD
+  name: Marlton
+  lat: '38.7620'
+  long: "-76.7857"
+  nearby_rate_centers:
+  - name: WSNG236Z15
+    distance_km: 6.69
+  - name: WSNG238Z15
+    distance_km: 6.69
+  - name: BRANDYWINE
+    distance_km: 8.69
+  - name: WSNGTNZN16
+    distance_km: 9.87
+- country: US
+  region: MD
+  name: Martin's Additions
+  lat: '38.9796'
+  long: "-77.0693"
+  nearby_rate_centers:
+  - name: WSHNGTNZN2
+    distance_km: 3.27
+  - name: WSHNGTNZN3
+    distance_km: 4.23
+  - name: WSNGTNZN11
+    distance_km: 5.08
+- country: US
+  region: MD
+  name: Marydel
+  lat: '39.1130'
+  long: "-75.7497"
+  nearby_rate_centers:
+  - name: SUDLERSVL
+    distance_km: 12.8
+  - name: GREENSBORO
+    distance_km: 16.08
+  - name: MILLINGTON
+    distance_km: 17.83
+- country: US
+  region: MD
+  name: Maryland City
+  lat: '39.1016'
+  long: "-76.8051"
+  nearby_rate_centers:
+  - name: LAUREL236
+    distance_km: 4.08
+  - name: LAUREL238
+    distance_km: 4.08
+  - name: WATERLO236
+    distance_km: 8.2
+  - name: WATERLO238
+    distance_km: 8.2
+  - name: ODENTON
+    distance_km: 8.5
+- country: US
+  region: MD
+  name: Maryland Park
+  lat: '38.8889'
+  long: "-76.9077"
+  nearby_rate_centers:
+  - name: WSHNGTNZN5
+    distance_km: 1.09
+  - name: WSHNGTNZN4
+    distance_km: 7.8
+  - name: WSNGTNZON4
+    distance_km: 7.8
+  - name: BERWYN
+    distance_km: 11.47
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 11.47
+  - name: WSNG236Z13
+    distance_km: 11.47
+  - name: WSNG238Z13
+    distance_km: 11.47
+- country: US
+  region: MD
+  name: Maugansville
+  lat: '39.6937'
+  long: "-77.7472"
+  nearby_rate_centers:
+  - name: HAGERSTOWN
+    distance_km: 5.96
+  - name: WILLIAMSPT
+    distance_km: 12.47
+  - name: SMITHSBURG
+    distance_km: 15.4
+- country: US
+  region: MD
+  name: Mayo
+  lat: '38.9042'
+  long: "-76.5179"
+  nearby_rate_centers:
+  - name: ANNAPOLIS
+    distance_km: 9.02
+  - name: WEST RIVER
+    distance_km: 9.36
+  - name: SHERWD FOR
+    distance_km: 13.42
+- country: US
+  region: MD
+  name: Mays Chapel
+  lat: '39.4343'
+  long: "-76.6516"
+  nearby_rate_centers:
+  - name: COCKEYSVL
+    distance_km: 5.59
+  - name: TOWSON
+    distance_km: 5.67
+  - name: OWINGS ML
+    distance_km: 9.13
+  - name: PIKESVILLE
+    distance_km: 9.13
+- country: US
+  region: MD
+  name: McCoole
+  lat: '39.4534'
+  long: "-78.9732"
+  nearby_rate_centers:
+  - name: MCCOOLE
+    distance_km: 0.46
+  - name: WESTERNPT
+    distance_km: 7.21
+  - name: LONACONING
+    distance_km: 12.53
+- country: US
+  region: MD
+  name: Mechanicsville
+  lat: '38.4355'
+  long: "-76.7424"
+  nearby_rate_centers:
+  - name: MECHANCSVL
+    distance_km: 0.71
+  - name: HUGHESVL
+    distance_km: 11.56
+  - name: PRINCEFRCK
+    distance_km: 18.01
+- country: US
+  region: MD
+  name: Melwood
+  lat: '38.8024'
+  long: "-76.8419"
+  nearby_rate_centers:
+  - name: WSNGTNZN16
+    distance_km: 6.32
+  - name: WSNG236Z15
+    distance_km: 7.74
+  - name: WSNG238Z15
+    distance_km: 7.74
+  - name: WSHNGTNZN5
+    distance_km: 11.11
+- country: US
+  region: MD
+  name: Mercersville
+  lat: '39.4968'
+  long: "-77.7672"
+  nearby_rate_centers:
+  - name: KEEDYSVL
+    distance_km: 5.71
+  - name: WILLIAMSPT
+    distance_km: 12.33
+  - name: HAGERSTOWN
+    distance_km: 16.51
+- country: US
+  region: MD
+  name: Middle River
+  lat: '39.3436'
+  long: "-76.4253"
+  nearby_rate_centers:
+  - name: CHASE
+    distance_km: 5.48
+  - name: ESSEX
+    distance_km: 7.67
+  - name: PARKVILLE
+    distance_km: 8.59
+- country: US
+  region: MD
+  name: Middleburg
+  lat: '39.7177'
+  long: "-77.7239"
+  nearby_rate_centers:
+  - name: HAGERSTOWN
+    distance_km: 8.4
+  - name: SMITHSBURG
+    distance_km: 14.67
+  - name: WILLIAMSPT
+    distance_km: 15.8
+- country: US
+  region: MD
+  name: Middletown
+  lat: '39.4415'
+  long: "-77.5347"
+  nearby_rate_centers:
+  - name: MIDDLETOWN
+    distance_km: 0.35
+  - name: MYERSVILLE
+    distance_km: 7.85
+  - name: FREDERICK
+    distance_km: 11.1
+- country: US
+  region: MD
+  name: Midland
+  lat: '39.5896'
+  long: "-78.9486"
+  nearby_rate_centers:
+  - name: LONACONING
+    distance_km: 3.59
+  - name: FROSTBURG
+    distance_km: 6.98
+  - name: MT SAVAGE
+    distance_km: 12.81
+- country: US
+  region: MD
+  name: Midlothian
+  lat: '39.6319'
+  long: "-78.9515"
+  nearby_rate_centers:
+  - name: FROSTBURG
+    distance_km: 2.95
+  - name: LONACONING
+    distance_km: 7.65
+  - name: MT SAVAGE
+    distance_km: 9.15
+- country: US
+  region: MD
+  name: Milford Mill
+  lat: '39.3444'
+  long: "-76.7668"
+  nearby_rate_centers:
+  - name: RANDALLSTN
+    distance_km: 0.31
+  - name: WOODLAWN
+    distance_km: 3.96
+  - name: OWINGS ML
+    distance_km: 4.94
+  - name: PIKESVILLE
+    distance_km: 4.94
+- country: US
+  region: MD
+  name: Millington
+  lat: '39.2629'
+  long: "-75.8360"
+  nearby_rate_centers:
+  - name: MILLINGTON
+    distance_km: 0.8
+  - name: SUDLERSVL
+    distance_km: 8.02
+  - name: GALENA
+    distance_km: 9.24
+- country: US
+  region: MD
+  name: Mitchellville
+  lat: '38.9358'
+  long: "-76.8146"
+  nearby_rate_centers:
+  - name: BOWIE-GLENN DALE (BALTIMORE LATA)
+    distance_km: 5.23
+  - name: BOWIGLNNDL
+    distance_km: 5.23
+  - name: WSNG236Z14
+    distance_km: 5.23
+  - name: WSNG238Z14
+    distance_km: 5.23
+  - name: BERWYN
+    distance_km: 10.58
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 10.58
+  - name: WSNG236Z13
+    distance_km: 10.58
+  - name: WSNG238Z13
+    distance_km: 10.58
+  - name: WSHNGTNZN5
+    distance_km: 10.68
+- country: US
+  region: MD
+  name: Monrovia
+  lat: '39.3570'
+  long: "-77.2747"
+  nearby_rate_centers:
+  - name: NEW MARKET
+    distance_km: 2.88
+  - name: DAMASCS236
+    distance_km: 9.49
+  - name: DAMASCS240
+    distance_km: 9.49
+  - name: MOUNT AIRY
+    distance_km: 10.05
+- country: US
+  region: MD
+  name: Montgomery Village
+  lat: '39.1788'
+  long: "-77.1954"
+  nearby_rate_centers:
+  - name: GAITHERSBG
+    distance_km: 4.16
+  - name: WSNGTNZN10
+    distance_km: 10.81
+  - name: DAMASCS236
+    distance_km: 12.31
+  - name: DAMASCS240
+    distance_km: 12.31
+- country: US
+  region: MD
+  name: Morningside
+  lat: '38.8266'
+  long: "-76.8897"
+  nearby_rate_centers:
+  - name: WSNGTNZN16
+    distance_km: 6.64
+  - name: WSHNGTNZN5
+    distance_km: 6.73
+  - name: WSHNGTNZN6
+    distance_km: 9.29
+- country: US
+  region: MD
+  name: Moscow
+  lat: '39.5393'
+  long: "-79.0082"
+  nearby_rate_centers:
+  - name: LONACONING
+    distance_km: 3.98
+  - name: WESTERNPT
+    distance_km: 6.28
+  - name: MCCOOLE
+    distance_km: 10.24
+- country: US
+  region: MD
+  name: Mount Aetna
+  lat: '39.5989'
+  long: "-77.6127"
+  nearby_rate_centers:
+  - name: SMITHSBURG
+    distance_km: 6.58
+  - name: MYERSVILLE
+    distance_km: 10.89
+  - name: HAGERSTOWN
+    distance_km: 10.99
+- country: US
+  region: MD
+  name: Mount Airy
+  lat: '39.3742'
+  long: "-77.1534"
+  nearby_rate_centers:
+  - name: MOUNT AIRY
+    distance_km: 0.57
+  - name: NEW MARKET
+    distance_km: 9.92
+  - name: DAMASCS236
+    distance_km: 10.57
+  - name: DAMASCS240
+    distance_km: 10.57
+- country: US
+  region: MD
+  name: Mount Briar
+  lat: '39.4426'
+  long: "-77.6873"
+  nearby_rate_centers:
+  - name: KEEDYSVL
+    distance_km: 5.91
+  - name: MYERSVILLE
+    distance_km: 12.59
+  - name: MIDDLETOWN
+    distance_km: 12.77
+- country: US
+  region: MD
+  name: Mount Lena
+  lat: '39.5540'
+  long: "-77.6219"
+  nearby_rate_centers:
+  - name: MYERSVILLE
+    distance_km: 6.99
+  - name: KEEDYSVL
+    distance_km: 9.44
+  - name: SMITHSBURG
+    distance_km: 11.47
+- country: US
+  region: MD
+  name: Mount Rainier
+  lat: '38.9423'
+  long: "-76.9645"
+  nearby_rate_centers:
+  - name: WSHNGTNZN4
+    distance_km: 1.54
+  - name: WSNGTNZON4
+    distance_km: 1.54
+  - name: BERWYN
+    distance_km: 7.08
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 7.08
+  - name: WSNG236Z13
+    distance_km: 7.08
+  - name: WSNG238Z13
+    distance_km: 7.08
+  - name: WSHNGTNZN5
+    distance_km: 7.73
+- country: US
+  region: MD
+  name: Mount Savage
+  lat: '39.6966'
+  long: "-78.8768"
+  nearby_rate_centers:
+  - name: MT SAVAGE
+    distance_km: 0.65
+  - name: FROSTBURG
+    distance_km: 6.7
+  - name: CUMBERLAND
+    distance_km: 11.66
+- country: US
+  region: MD
+  name: Mount Vernon
+  lat: '38.2447'
+  long: "-75.7828"
+  nearby_rate_centers:
+  - name: PRINCEANNE
+    distance_km: 8.93
+  - name: NANTICOKE
+    distance_km: 11.07
+  - name: DEALISLAND
+    distance_km: 17.57
+- country: US
+  region: MD
+  name: Mountain Lake Park
+  lat: '39.4004'
+  long: "-79.3812"
+  nearby_rate_centers:
+  - name: OAKLAND
+    distance_km: 2.69
+  - name: KITZMILLER
+    distance_km: 17.67
+  - name: ACCIDENT
+    distance_km: 25.47
+- country: US
+  region: MD
+  name: Myersville
+  lat: '39.5062'
+  long: "-77.5690"
+  nearby_rate_centers:
+  - name: MYERSVILLE
+    distance_km: 0.22
+  - name: MIDDLETOWN
+    distance_km: 7.55
+  - name: KEEDYSVL
+    distance_km: 11.37
+- country: US
+  region: MD
+  name: Nanticoke
+  lat: '38.2676'
+  long: "-75.8939"
+  nearby_rate_centers:
+  - name: NANTICOKE
+    distance_km: 3.39
+  - name: DEALISLAND
+    distance_km: 13.11
+  - name: PRINCEANNE
+    distance_km: 18.87
+- country: US
+  region: MD
+  name: Nanticoke Acres
+  lat: '38.2578'
+  long: "-75.9059"
+  nearby_rate_centers:
+  - name: NANTICOKE
+    distance_km: 4.68
+  - name: DEALISLAND
+    distance_km: 11.71
+  - name: PRINCEANNE
+    distance_km: 19.53
+- country: US
+  region: MD
+  name: National
+  lat: '39.6111'
+  long: "-78.9401"
+  nearby_rate_centers:
+  - name: FROSTBURG
+    distance_km: 4.48
+  - name: LONACONING
+    distance_km: 5.94
+  - name: MT SAVAGE
+    distance_km: 10.38
+- country: US
+  region: MD
+  name: National Harbor
+  lat: '38.7876'
+  long: "-77.0113"
+  nearby_rate_centers:
+  - name: WSHNGTNZN6
+    distance_km: 2.23
+  - name: WSNGTNZN16
+    distance_km: 9.96
+  - name: WSHNGTNZN5
+    distance_km: 13.35
+- country: US
+  region: MD
+  name: Naval Academy
+  lat: '38.9858'
+  long: "-76.4880"
+  nearby_rate_centers:
+  - name: ANNAPOLIS
+    distance_km: 0.78
+  - name: SHERWD FOR
+    distance_km: 6.13
+  - name: SEVERNA PK
+    distance_km: 10.6
+- country: US
+  region: MD
+  name: New Carrollton
+  lat: '38.9656'
+  long: "-76.8775"
+  nearby_rate_centers:
+  - name: BERWYN
+    distance_km: 4.27
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 4.27
+  - name: WSNG236Z13
+    distance_km: 4.27
+  - name: WSNG238Z13
+    distance_km: 4.27
+  - name: BOWIE-GLENN DALE (BALTIMORE LATA)
+    distance_km: 5.82
+  - name: BOWIGLNNDL
+    distance_km: 5.82
+  - name: WSNG236Z14
+    distance_km: 5.82
+  - name: WSNG238Z14
+    distance_km: 5.82
+  - name: WSHNGTNZN4
+    distance_km: 6.52
+  - name: WSNGTNZON4
+    distance_km: 6.52
+- country: US
+  region: MD
+  name: New Market
+  lat: '39.3889'
+  long: "-77.2789"
+  nearby_rate_centers:
+  - name: NEW MARKET
+    distance_km: 1.16
+  - name: MOUNT AIRY
+    distance_km: 10.34
+  - name: FREDERICK
+    distance_km: 11.65
+- country: US
+  region: MD
+  name: New Windsor
+  lat: '39.5443'
+  long: "-77.1012"
+  nearby_rate_centers:
+  - name: NEWWINDSOR
+    distance_km: 0.77
+  - name: UNION BDG
+    distance_km: 6.8
+  - name: WESTMINSTR
+    distance_km: 9.84
+- country: US
+  region: MD
+  name: Newark
+  lat: '38.2751'
+  long: "-75.2733"
+  nearby_rate_centers:
+  - name: BERLIN
+    distance_km: 7.4
+  - name: SNOW HILL
+    distance_km: 15.08
+  - name: OCEAN CITY
+    distance_km: 17.22
+- country: US
+  region: MD
+  name: Nikep
+  lat: '39.5516'
+  long: "-78.9978"
+  nearby_rate_centers:
+  - name: LONACONING
+    distance_km: 2.38
+  - name: WESTERNPT
+    distance_km: 7.91
+  - name: MCCOOLE
+    distance_km: 11.39
+- country: US
+  region: MD
+  name: North Beach
+  lat: '38.7080'
+  long: "-76.5346"
+  nearby_rate_centers:
+  - name: NORTHBEACH
+    distance_km: 2.71
+  - name: WEST RIVER
+    distance_km: 16.96
+  - name: TILGHMAN
+    distance_km: 17.32
+- country: US
+  region: MD
+  name: North Bethesda
+  lat: '39.0393'
+  long: "-77.1191"
+  nearby_rate_centers:
+  - name: WSNGTNZN11
+    distance_km: 3.91
+  - name: WSHNGTNZN2
+    distance_km: 6.18
+  - name: WSNGTNZN10
+    distance_km: 6.23
+- country: US
+  region: MD
+  name: North Brentwood
+  lat: '38.9450'
+  long: "-76.9510"
+  nearby_rate_centers:
+  - name: WSHNGTNZN4
+    distance_km: 0.64
+  - name: WSNGTNZON4
+    distance_km: 0.64
+  - name: BERWYN
+    distance_km: 6.15
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 6.15
+  - name: WSNG236Z13
+    distance_km: 6.15
+  - name: WSNG238Z13
+    distance_km: 6.15
+  - name: WSHNGTNZN5
+    distance_km: 7.47
+- country: US
+  region: MD
+  name: North Chevy Chase
+  lat: '39.0020'
+  long: "-77.0740"
+  nearby_rate_centers:
+  - name: WSNGTNZN11
+    distance_km: 2.56
+  - name: WSHNGTNZN3
+    distance_km: 3.04
+  - name: WSHNGTNZN2
+    distance_km: 3.41
+- country: US
+  region: MD
+  name: North East
+  lat: '39.6076'
+  long: "-75.9414"
+  nearby_rate_centers:
+  - name: NORTH EAST
+    distance_km: 0.9
+  - name: ELKTON
+    distance_km: 9.28
+  - name: PERRYVILLE
+    distance_km: 12.53
+- country: US
+  region: MD
+  name: North Kensington
+  lat: '39.0393'
+  long: "-77.0723"
+  nearby_rate_centers:
+  - name: WSNGTNZN11
+    distance_km: 1.68
+  - name: WSHNGTNZN3
+    distance_km: 4.23
+  - name: WSNGTNZN12
+    distance_km: 5.11
+- country: US
+  region: MD
+  name: North Laurel
+  lat: '39.1285'
+  long: "-76.8476"
+  nearby_rate_centers:
+  - name: LAUREL236
+    distance_km: 2.2
+  - name: LAUREL238
+    distance_km: 2.2
+  - name: WATERLO236
+    distance_km: 7.33
+  - name: WATERLO238
+    distance_km: 7.33
+  - name: COLUMBIA
+    distance_km: 9.84
+- country: US
+  region: MD
+  name: North Potomac
+  lat: '39.0955'
+  long: "-77.2373"
+  nearby_rate_centers:
+  - name: GAITHERSBG
+    distance_km: 5.95
+  - name: WSNGTNZN10
+    distance_km: 6.77
+  - name: WSNGTNZN11
+    distance_km: 15.86
+- country: US
+  region: MD
+  name: Oakland
+  lat: '39.4165'
+  long: "-79.4022"
+  nearby_rate_centers:
+  - name: OAKLAND
+    distance_km: 1.24
+  - name: KITZMILLER
+    distance_km: 19.64
+  - name: ACCIDENT
+    distance_km: 24.19
+- country: US
+  region: MD
+  name: Ocean
+  lat: '39.6016'
+  long: "-78.9450"
+  nearby_rate_centers:
+  - name: LONACONING
+    distance_km: 4.83
+  - name: FROSTBURG
+    distance_km: 5.61
+  - name: MT SAVAGE
+    distance_km: 11.5
+- country: US
+  region: MD
+  name: Ocean City
+  lat: '38.3998'
+  long: "-75.0715"
+  nearby_rate_centers:
+  - name: OCEAN CITY
+    distance_km: 7.72
+  - name: BISHOPVL
+    distance_km: 13.42
+  - name: BERLIN
+    distance_km: 15.21
+- country: US
+  region: MD
+  name: Ocean Pines
+  lat: '38.3851'
+  long: "-75.1487"
+  nearby_rate_centers:
+  - name: OCEAN CITY
+    distance_km: 7.84
+  - name: BISHOPVL
+    distance_km: 8.17
+  - name: BERLIN
+    distance_km: 8.96
+- country: US
+  region: MD
+  name: Odenton
+  lat: '39.0661'
+  long: "-76.6938"
+  nearby_rate_centers:
+  - name: ODENTON
+    distance_km: 2.28
+  - name: MILLERSVL
+    distance_km: 4.3
+  - name: CROFTON
+    distance_km: 8.75
+- country: US
+  region: MD
+  name: Oldtown
+  lat: '39.5450'
+  long: "-78.6148"
+  nearby_rate_centers:
+  - name: OLDTOWN
+    distance_km: 0.85
+  - name: CUMBERLAND
+    distance_km: 16.74
+  - name: FLINTSTONE
+    distance_km: 17.97
+- country: US
+  region: MD
+  name: Olney
+  lat: '39.1465'
+  long: "-77.0715"
+  nearby_rate_centers:
+  - name: ASHTON236
+    distance_km: 4.26
+  - name: ASHTON238
+    distance_km: 4.26
+  - name: WSNGTNZN12
+    distance_km: 7.49
+  - name: WSNGTNZN10
+    distance_km: 10.21
+- country: US
+  region: MD
+  name: Overlea
+  lat: '39.3642'
+  long: "-76.5175"
+  nearby_rate_centers:
+  - name: PARKVILLE
+    distance_km: 1.13
+  - name: ESSEX
+    distance_km: 5.0
+  - name: TOWSON
+    distance_km: 8.27
+- country: US
+  region: MD
+  name: Owings
+  lat: '38.7117'
+  long: "-76.6055"
+  nearby_rate_centers:
+  - name: NORTHBEACH
+    distance_km: 7.24
+  - name: WEST RIVER
+    distance_km: 15.52
+  - name: WSNG236Z15
+    distance_km: 17.45
+  - name: WSNG238Z15
+    distance_km: 17.45
+- country: US
+  region: MD
+  name: Owings Mills
+  lat: '39.4115'
+  long: "-76.7913"
+  nearby_rate_centers:
+  - name: OWINGS ML
+    distance_km: 6.9
+  - name: PIKESVILLE
+    distance_km: 6.9
+  - name: REISTERSTN
+    distance_km: 7.0
+  - name: RANDALLSTN
+    distance_km: 7.48
+- country: US
+  region: MD
+  name: Oxford
+  lat: '38.6850'
+  long: "-76.1702"
+  nearby_rate_centers:
+  - name: OXFORD
+    distance_km: 0.57
+  - name: TRAPPE
+    distance_km: 9.59
+  - name: STMICHAELS
+    distance_km: 11.98
+- country: US
+  region: MD
+  name: Oxon Hill
+  lat: '38.7884'
+  long: "-76.9727"
+  nearby_rate_centers:
+  - name: WSHNGTNZN6
+    distance_km: 2.11
+  - name: WSNGTNZN16
+    distance_km: 6.78
+  - name: WSHNGTNZN5
+    distance_km: 11.55
+- country: US
+  region: MD
+  name: Paramount-Long Meadow
+  lat: '39.6798'
+  long: "-77.6921"
+  nearby_rate_centers:
+  - name: HAGERSTOWN
+    distance_km: 5.19
+  - name: SMITHSBURG
+    distance_km: 10.44
+  - name: WILLIAMSPT
+    distance_km: 14.49
+- country: US
+  region: MD
+  name: Parkville
+  lat: '39.3832'
+  long: "-76.5519"
+  nearby_rate_centers:
+  - name: PARKVILLE
+    distance_km: 3.16
+  - name: TOWSON
+    distance_km: 4.66
+  - name: ESSEX
+    distance_km: 7.97
+- country: US
+  region: MD
+  name: Parole
+  lat: '38.9863'
+  long: "-76.5518"
+  nearby_rate_centers:
+  - name: SHERWD FOR
+    distance_km: 4.29
+  - name: ANNAPOLIS
+    distance_km: 4.78
+  - name: SEVERNA PK
+    distance_km: 9.12
+- country: US
+  region: MD
+  name: Parsonsburg
+  lat: '38.3936'
+  long: "-75.4748"
+  nearby_rate_centers:
+  - name: WILLARDS
+    distance_km: 5.83
+  - name: SALISBURY
+    distance_km: 11.37
+  - name: DELMAR
+    distance_km: 11.56
+- country: US
+  region: MD
+  name: Pasadena
+  lat: '39.1552'
+  long: "-76.5537"
+  nearby_rate_centers:
+  - name: ARGRGBSNIS
+    distance_km: 2.4
+  - name: GLENBURNIE
+    distance_km: 6.43
+  - name: SEVERN
+    distance_km: 7.87
+- country: US
+  region: MD
+  name: Pecktonville
+  lat: '39.6660'
+  long: "-78.0482"
+  nearby_rate_centers:
+  - name: CLEAR SPG
+    distance_km: 9.97
+  - name: HANCOCK
+    distance_km: 11.69
+  - name: WILLIAMSPT
+    distance_km: 20.58
+- country: US
+  region: MD
+  name: Peppermill Village
+  lat: '38.8939'
+  long: "-76.8878"
+  nearby_rate_centers:
+  - name: WSHNGTNZN5
+    distance_km: 2.86
+  - name: WSHNGTNZN4
+    distance_km: 8.32
+  - name: WSNGTNZON4
+    distance_km: 8.32
+  - name: BERWYN
+    distance_km: 11.13
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 11.13
+  - name: WSNG236Z13
+    distance_km: 11.13
+  - name: WSNG238Z13
+    distance_km: 11.13
+- country: US
+  region: MD
+  name: Perry Hall
+  lat: '39.4068'
+  long: "-76.4780"
+  nearby_rate_centers:
+  - name: PARKVILLE
+    distance_km: 4.93
+  - name: FORK
+    distance_km: 7.86
+  - name: ESSEX
+    distance_km: 10.04
+- country: US
+  region: MD
+  name: Perryman
+  lat: '39.4632'
+  long: "-76.2120"
+  nearby_rate_centers:
+  - name: ABERDEEN
+    distance_km: 6.33
+  - name: EDGEWOOD
+    distance_km: 8.64
+  - name: CHURCHVL
+    distance_km: 10.93
+- country: US
+  region: MD
+  name: Perryville
+  lat: '39.5737'
+  long: "-76.0668"
+  nearby_rate_centers:
+  - name: PERRYVILLE
+    distance_km: 1.86
+  - name: HAVREGRACE
+    distance_km: 3.29
+  - name: PT DEPOSIT
+    distance_km: 6.0
+- country: US
+  region: MD
+  name: Pikesville
+  lat: '39.3893'
+  long: "-76.7020"
+  nearby_rate_centers:
+  - name: OWINGS ML
+    distance_km: 2.55
+  - name: PIKESVILLE
+    distance_km: 2.55
+  - name: RANDALLSTN
+    distance_km: 7.24
+  - name: WOODLAWN
+    distance_km: 7.35
+- country: US
+  region: MD
+  name: Pinesburg
+  lat: '39.6269'
+  long: "-77.8560"
+  nearby_rate_centers:
+  - name: WILLIAMSPT
+    distance_km: 4.15
+  - name: CLEAR SPG
+    distance_km: 7.27
+  - name: HAGERSTOWN
+    distance_km: 11.09
+- country: US
+  region: MD
+  name: Piney Point
+  lat: '38.1483'
+  long: "-76.5201"
+  nearby_rate_centers:
+  - name: LXTNPKGRML
+    distance_km: 10.44
+  - name: RIDGE
+    distance_km: 13.77
+  - name: LEONARDTN
+    distance_km: 18.72
+- country: US
+  region: MD
+  name: Pittsville
+  lat: '38.3937'
+  long: "-75.4073"
+  nearby_rate_centers:
+  - name: WILLARDS
+    distance_km: 0.09
+  - name: DELMAR
+    distance_km: 16.52
+  - name: BISHOPVL
+    distance_km: 16.94
+- country: US
+  region: MD
+  name: Pleasant Grove
+  lat: '39.6802'
+  long: "-78.6904"
+  nearby_rate_centers:
+  - name: CUMBERLAND
+    distance_km: 6.43
+  - name: FLINTSTONE
+    distance_km: 10.9
+  - name: MT SAVAGE
+    distance_km: 15.99
+- country: US
+  region: MD
+  name: Pleasant Hills
+  lat: '39.4861'
+  long: "-76.3908"
+  nearby_rate_centers:
+  - name: FALLSTON
+    distance_km: 1.43
+  - name: FORK
+    distance_km: 4.06
+  - name: BEL AIR
+    distance_km: 6.48
+- country: US
+  region: MD
+  name: Pocomoke City
+  lat: '38.0635'
+  long: "-75.5553"
+  nearby_rate_centers:
+  - name: POCOMOKE
+    distance_km: 0.81
+  - name: MARION
+    distance_km: 18.72
+  - name: SNOW HILL
+    distance_km: 19.04
+- country: US
+  region: MD
+  name: Point of Rocks
+  lat: '39.2782'
+  long: "-77.5291"
+  nearby_rate_centers:
+  - name: BRUNSWICK
+    distance_km: 9.07
+  - name: BUCKEYSTN
+    distance_km: 10.06
+  - name: POOLESVL
+    distance_km: 17.99
+- country: US
+  region: MD
+  name: Pomfret
+  lat: '38.5699'
+  long: "-77.0304"
+  nearby_rate_centers:
+  - name: LA PLATA
+    distance_km: 7.14
+  - name: INDIANHEAD
+    distance_km: 12.49
+  - name: WALDORF
+    distance_km: 12.57
+- country: US
+  region: MD
+  name: Pondsville
+  lat: '39.6234'
+  long: "-77.5916"
+  nearby_rate_centers:
+  - name: SMITHSBURG
+    distance_km: 3.34
+  - name: HAGERSTOWN
+    distance_km: 11.87
+  - name: MYERSVILLE
+    distance_km: 13.06
+- country: US
+  region: MD
+  name: Poolesville
+  lat: '39.1423'
+  long: "-77.4102"
+  nearby_rate_centers:
+  - name: POOLESVL
+    distance_km: 0.8
+  - name: GAITHERSBG
+    distance_km: 17.87
+  - name: BUCKEYSTN
+    distance_km: 21.24
+- country: US
+  region: MD
+  name: Port Deposit
+  lat: '39.6111'
+  long: "-76.0980"
+  nearby_rate_centers:
+  - name: PT DEPOSIT
+    distance_km: 1.72
+  - name: PERRYVILLE
+    distance_km: 6.35
+  - name: HAVREGRACE
+    distance_km: 6.63
+- country: US
+  region: MD
+  name: Port Tobacco Village
+  lat: '38.5124'
+  long: "-77.0211"
+  nearby_rate_centers:
+  - name: LA PLATA
+    distance_km: 4.34
+  - name: WALDORF
+    distance_km: 16.16
+  - name: INDIANHEAD
+    distance_km: 16.17
+- country: US
+  region: MD
+  name: Potomac
+  lat: '39.0141'
+  long: "-77.1943"
+  nearby_rate_centers:
+  - name: WSHNGTNZN2
+    distance_km: 8.26
+  - name: WSNGTNZN10
+    distance_km: 8.48
+  - name: WSNGTNZN11
+    distance_km: 10.13
+- country: US
+  region: MD
+  name: Potomac Heights
+  lat: '38.5988'
+  long: "-77.1371"
+  nearby_rate_centers:
+  - name: INDIANHEAD
+    distance_km: 2.73
+  - name: LA PLATA
+    distance_km: 16.5
+  - name: NANJEMOY
+    distance_km: 17.98
+- country: US
+  region: MD
+  name: Potomac Park
+  lat: '39.6124'
+  long: "-78.8082"
+  nearby_rate_centers:
+  - name: CUMBERLAND
+    distance_km: 6.22
+  - name: MT SAVAGE
+    distance_km: 10.5
+  - name: FROSTBURG
+    distance_km: 10.94
+- country: US
+  region: MD
+  name: Powellville
+  lat: '38.3299'
+  long: "-75.3749"
+  nearby_rate_centers:
+  - name: WILLARDS
+    distance_km: 7.6
+  - name: BERLIN
+    distance_km: 13.69
+  - name: SNOW HILL
+    distance_km: 17.15
+- country: US
+  region: MD
+  name: Preston
+  lat: '38.7112'
+  long: "-75.9087"
+  nearby_rate_centers:
+  - name: PRESTON
+    distance_km: 0.73
+  - name: HURLOCK
+    distance_km: 9.77
+  - name: FEDERALSBG
+    distance_km: 11.63
+- country: US
+  region: MD
+  name: Prince Frederick
+  lat: '38.5440'
+  long: "-76.5879"
+  nearby_rate_centers:
+  - name: PRINCEFRCK
+    distance_km: 0.3
+  - name: NORTHBEACH
+    distance_km: 16.35
+  - name: HUGHESVL
+    distance_km: 17.29
+- country: US
+  region: MD
+  name: Princess Anne
+  lat: '38.2054'
+  long: "-75.6970"
+  nearby_rate_centers:
+  - name: PRINCEANNE
+    distance_km: 0.7
+  - name: SALISBURY
+    distance_km: 19.16
+  - name: POCOMOKE
+    distance_km: 19.41
+- country: US
+  region: MD
+  name: Pylesville
+  lat: '39.6880'
+  long: "-76.3876"
+  nearby_rate_centers:
+  - name: CARDIFF
+    distance_km: 4.96
+  - name: JARRETTSVILLE 941
+    distance_km: 12.15
+  - name: JARRETTSVL
+    distance_km: 12.15
+  - name: DARLINGTON
+    distance_km: 17.02
+- country: US
+  region: MD
+  name: Quantico
+  lat: '38.3755'
+  long: "-75.7540"
+  nearby_rate_centers:
+  - name: VIENNA
+    distance_km: 13.39
+  - name: SALISBURY
+    distance_km: 13.76
+  - name: NANTICOKE
+    distance_km: 14.66
+- country: US
+  region: MD
+  name: Queen Anne
+  lat: '38.9021'
+  long: "-76.6973"
+  nearby_rate_centers:
+  - name: CROFTON
+    distance_km: 9.95
+  - name: WEST RIVER
+    distance_km: 10.01
+  - name: WSNG236Z15
+    distance_km: 10.68
+  - name: WSNG238Z15
+    distance_km: 10.68
+- country: US
+  region: MD
+  name: Queensland
+  lat: '38.8019'
+  long: "-76.7855"
+  nearby_rate_centers:
+  - name: WSNG236Z15
+    distance_km: 3.17
+  - name: WSNG238Z15
+    distance_km: 3.17
+  - name: WSNGTNZN16
+    distance_km: 10.59
+  - name: BRANDYWINE
+    distance_km: 12.54
+- country: US
+  region: MD
+  name: Queenstown
+  lat: '38.9868'
+  long: "-76.1633"
+  nearby_rate_centers:
+  - name: QUEENSTOWN
+    distance_km: 0.94
+  - name: CENTREVL
+    distance_km: 10.09
+  - name: STEVENSVL
+    distance_km: 12.63
+- country: US
+  region: MD
+  name: Randallstown
+  lat: '39.3723'
+  long: "-76.8024"
+  nearby_rate_centers:
+  - name: RANDALLSTN
+    distance_km: 4.19
+  - name: OWINGS ML
+    distance_km: 6.59
+  - name: PIKESVILLE
+    distance_km: 6.59
+  - name: WOODLAWN
+    distance_km: 8.25
+- country: US
+  region: MD
+  name: Rawlings
+  lat: '39.5403'
+  long: "-78.8858"
+  nearby_rate_centers:
+  - name: LONACONING
+    distance_km: 8.35
+  - name: FROSTBURG
+    distance_km: 12.68
+  - name: MCCOOLE
+    distance_km: 12.69
+- country: US
+  region: MD
+  name: Redland
+  lat: '39.1339'
+  long: "-77.1464"
+  nearby_rate_centers:
+  - name: GAITHERSBG
+    distance_km: 4.96
+  - name: WSNGTNZN10
+    distance_km: 5.51
+  - name: WSNGTNZN12
+    distance_km: 10.25
+- country: US
+  region: MD
+  name: Reid
+  lat: '39.7126'
+  long: "-77.6793"
+  nearby_rate_centers:
+  - name: HAGERSTOWN
+    distance_km: 8.87
+  - name: SMITHSBURG
+    distance_km: 11.19
+  - name: HIGHFIELD
+    distance_km: 16.29
+- country: US
+  region: MD
+  name: Reisterstown
+  lat: '39.4550'
+  long: "-76.8140"
+  nearby_rate_centers:
+  - name: REISTERSTN
+    distance_km: 1.97
+  - name: WORTHINGTN
+    distance_km: 4.16
+  - name: OWINGS ML
+    distance_km: 11.63
+  - name: PIKESVILLE
+    distance_km: 11.63
+- country: US
+  region: MD
+  name: Ridgely
+  lat: '38.9528'
+  long: "-75.8828"
+  nearby_rate_centers:
+  - name: RIDGELY
+    distance_km: 1.01
+  - name: GREENSBORO
+    distance_km: 6.81
+  - name: HILLSBORO
+    distance_km: 6.91
+- country: US
+  region: MD
+  name: Ringgold
+  lat: '39.7092'
+  long: "-77.5688"
+  nearby_rate_centers:
+  - name: SMITHSBURG
+    distance_km: 6.51
+  - name: HIGHFIELD
+    distance_km: 6.87
+  - name: HAGERSTOWN
+    distance_km: 15.53
+- country: US
+  region: MD
+  name: Rising Sun
+  lat: '39.7003'
+  long: "-76.0587"
+  nearby_rate_centers:
+  - name: RISING SUN
+    distance_km: 0.43
+  - name: PT DEPOSIT
+    distance_km: 11.2
+  - name: DARLINGTON
+    distance_km: 13.51
+- country: US
+  region: MD
+  name: Riva
+  lat: '38.9448'
+  long: "-76.5876"
+  nearby_rate_centers:
+  - name: CROFTON
+    distance_km: 8.78
+  - name: ANNAPOLIS
+    distance_km: 8.97
+  - name: SHERWD FOR
+    distance_km: 9.71
+- country: US
+  region: MD
+  name: Riverdale Park
+  lat: '38.9643'
+  long: "-76.9266"
+  nearby_rate_centers:
+  - name: WSHNGTNZN4
+    distance_km: 2.55
+  - name: WSNGTNZON4
+    distance_km: 2.55
+  - name: BERWYN
+    distance_km: 3.28
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 3.28
+  - name: WSNG236Z13
+    distance_km: 3.28
+  - name: WSNG238Z13
+    distance_km: 3.28
+  - name: WSHNGTNZN5
+    distance_km: 9.07
+- country: US
+  region: MD
+  name: Riverside
+  lat: '39.4784'
+  long: "-76.2398"
+  nearby_rate_centers:
+  - name: ABERDEEN
+    distance_km: 7.03
+  - name: EDGEWOOD
+    distance_km: 7.93
+  - name: CHURCHVL
+    distance_km: 8.83
+- country: US
+  region: MD
+  name: Riviera Beach
+  lat: '39.1623'
+  long: "-76.5257"
+  nearby_rate_centers:
+  - name: ARGRGBSNIS
+    distance_km: 3.66
+  - name: SPARROWSPT
+    distance_km: 6.64
+  - name: GLENBURNIE
+    distance_km: 8.74
+- country: US
+  region: MD
+  name: Robinwood
+  lat: '39.6265'
+  long: "-77.6630"
+  nearby_rate_centers:
+  - name: HAGERSTOWN
+    distance_km: 5.84
+  - name: SMITHSBURG
+    distance_km: 7.93
+  - name: WILLIAMSPT
+    distance_km: 14.17
+- country: US
+  region: MD
+  name: Rock Hall
+  lat: '39.1390'
+  long: "-76.2430"
+  nearby_rate_centers:
+  - name: ROCK HALL
+    distance_km: 1.27
+  - name: CHESTERTN
+    distance_km: 16.92
+  - name: QUEENSTOWN
+    distance_km: 17.87
+- country: US
+  region: MD
+  name: Rock Point
+  lat: '38.2754'
+  long: "-76.8428"
+  nearby_rate_centers:
+  - name: TOMPKINSVL
+    distance_km: 11.62
+  - name: LEONARDTN
+    distance_km: 18.66
+  - name: MECHANCSVL
+    distance_km: 20.55
+- country: US
+  region: MD
+  name: Rockville
+  lat: '39.0834'
+  long: "-77.1553"
+  nearby_rate_centers:
+  - name: WSNGTNZN10
+    distance_km: 0.46
+  - name: GAITHERSBG
+    distance_km: 7.69
+  - name: WSNGTNZN12
+    distance_km: 9.21
+- country: US
+  region: MD
+  name: Rohrersville
+  lat: '39.4348'
+  long: "-77.6655"
+  nearby_rate_centers:
+  - name: KEEDYSVL
+    distance_km: 7.32
+  - name: MIDDLETOWN
+    distance_km: 10.93
+  - name: MYERSVILLE
+    distance_km: 11.69
+- country: US
+  region: MD
+  name: Romancoke
+  lat: '38.8872'
+  long: "-76.3476"
+  nearby_rate_centers:
+  - name: STEVENSVL
+    distance_km: 10.44
+  - name: STMICHAELS
+    distance_km: 15.68
+  - name: ANNAPOLIS
+    distance_km: 16.77
+- country: US
+  region: MD
+  name: Rosaryville
+  lat: '38.7672'
+  long: "-76.8266"
+  nearby_rate_centers:
+  - name: WSNGTNZN16
+    distance_km: 6.31
+  - name: BRANDYWINE
+    distance_km: 7.72
+  - name: WSNG236Z15
+    distance_km: 8.35
+  - name: WSNG238Z15
+    distance_km: 8.35
+- country: US
+  region: MD
+  name: Rosedale
+  lat: '39.3266'
+  long: "-76.5084"
+  nearby_rate_centers:
+  - name: ESSEX
+    distance_km: 0.77
+  - name: PARKVILLE
+    distance_km: 5.36
+  - name: DUNDALK
+    distance_km: 8.04
+- country: US
+  region: MD
+  name: Rosemont
+  lat: '39.3317'
+  long: "-77.6214"
+  nearby_rate_centers:
+  - name: BRUNSWICK
+    distance_km: 1.84
+  - name: MIDDLETOWN
+    distance_km: 14.23
+  - name: BUCKEYSTN
+    distance_km: 16.0
+- country: US
+  region: MD
+  name: Rossville
+  lat: '39.3572'
+  long: "-76.4767"
+  nearby_rate_centers:
+  - name: PARKVILLE
+    distance_km: 3.96
+  - name: ESSEX
+    distance_km: 5.01
+  - name: CHASE
+    distance_km: 9.64
+- country: US
+  region: MD
+  name: Sabillasville
+  lat: '39.6994'
+  long: "-77.4573"
+  nearby_rate_centers:
+  - name: HIGHFIELD
+    distance_km: 3.27
+  - name: THURMONT
+    distance_km: 9.15
+  - name: EMMITSBURG
+    distance_km: 11.44
+- country: US
+  region: MD
+  name: Salisbury
+  lat: '38.3756'
+  long: "-75.5865"
+  nearby_rate_centers:
+  - name: SALISBURY
+    distance_km: 2.08
+  - name: DELMAR
+    distance_km: 9.4
+  - name: WILLARDS
+    distance_km: 15.68
+- country: US
+  region: MD
+  name: San Mar
+  lat: '39.5521'
+  long: "-77.6410"
+  nearby_rate_centers:
+  - name: MYERSVILLE
+    distance_km: 8.05
+  - name: KEEDYSVL
+    distance_km: 8.18
+  - name: SMITHSBURG
+    distance_km: 12.32
+- country: US
+  region: MD
+  name: Sandy Hook
+  lat: '39.3284'
+  long: "-77.7052"
+  nearby_rate_centers:
+  - name: BRUNSWICK
+    distance_km: 7.22
+  - name: KEEDYSVL
+    distance_km: 18.5
+  - name: MIDDLETOWN
+    distance_km: 19.13
+- country: US
+  region: MD
+  name: Savage
+  lat: '39.1485'
+  long: "-76.8228"
+  nearby_rate_centers:
+  - name: WATERLO236
+    distance_km: 4.25
+  - name: WATERLO238
+    distance_km: 4.25
+  - name: LAUREL236
+    distance_km: 5.05
+  - name: LAUREL238
+    distance_km: 5.05
+  - name: COLUMBIA
+    distance_km: 8.09
+- country: US
+  region: MD
+  name: Scaggsville
+  lat: '39.1416'
+  long: "-76.8843"
+  nearby_rate_centers:
+  - name: LAUREL236
+    distance_km: 4.61
+  - name: LAUREL238
+    distance_km: 4.61
+  - name: COLUMBIA
+    distance_km: 8.73
+  - name: WATERLO236
+    distance_km: 9.22
+  - name: WATERLO238
+    distance_km: 9.22
+- country: US
+  region: MD
+  name: Seabrook
+  lat: '38.9802'
+  long: "-76.8502"
+  nearby_rate_centers:
+  - name: BOWIE-GLENN DALE (BALTIMORE LATA)
+    distance_km: 3.15
+  - name: BOWIGLNNDL
+    distance_km: 3.15
+  - name: WSNG236Z14
+    distance_km: 3.15
+  - name: WSNG238Z14
+    distance_km: 3.15
+  - name: BERWYN
+    distance_km: 5.62
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 5.62
+  - name: WSNG236Z13
+    distance_km: 5.62
+  - name: WSNG238Z13
+    distance_km: 5.62
+  - name: WSHNGTNZN4
+    distance_km: 9.26
+  - name: WSNGTNZON4
+    distance_km: 9.26
+- country: US
+  region: MD
+  name: Seat Pleasant
+  lat: '38.8952'
+  long: "-76.9016"
+  nearby_rate_centers:
+  - name: WSHNGTNZN5
+    distance_km: 1.94
+  - name: WSHNGTNZN4
+    distance_km: 7.48
+  - name: WSNGTNZON4
+    distance_km: 7.48
+  - name: BERWYN
+    distance_km: 10.81
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 10.81
+  - name: WSNG236Z13
+    distance_km: 10.81
+  - name: WSNG238Z13
+    distance_km: 10.81
+- country: US
+  region: MD
+  name: Secretary
+  lat: '38.6081'
+  long: "-75.9470"
+  nearby_rate_centers:
+  - name: HURLOCK
+    distance_km: 8.21
+  - name: TRAPPE
+    distance_km: 11.68
+  - name: CAMBRIDGE
+    distance_km: 11.98
+- country: US
+  region: MD
+  name: Severn
+  lat: '39.1355'
+  long: "-76.6956"
+  nearby_rate_centers:
+  - name: SEVERN
+    distance_km: 4.71
+  - name: ODENTON
+    distance_km: 6.02
+  - name: GLENBURNIE
+    distance_km: 6.82
+- country: US
+  region: MD
+  name: Severna Park
+  lat: '39.0870'
+  long: "-76.5687"
+  nearby_rate_centers:
+  - name: SEVERNA PK
+    distance_km: 2.65
+  - name: ARGRGBSNIS
+    distance_km: 5.55
+  - name: MILLERSVL
+    distance_km: 7.3
+- country: US
+  region: MD
+  name: Shady Side
+  lat: '38.8285'
+  long: "-76.5207"
+  nearby_rate_centers:
+  - name: WEST RIVER
+    distance_km: 7.47
+  - name: NORTHBEACH
+    distance_km: 16.1
+  - name: ANNAPOLIS
+    distance_km: 17.38
+- country: US
+  region: MD
+  name: Shaft
+  lat: '39.6265'
+  long: "-78.9384"
+  nearby_rate_centers:
+  - name: FROSTBURG
+    distance_km: 2.81
+  - name: LONACONING
+    distance_km: 7.51
+  - name: MT SAVAGE
+    distance_km: 8.88
+- country: US
+  region: MD
+  name: Sharpsburg
+  lat: '39.4577'
+  long: "-77.7496"
+  nearby_rate_centers:
+  - name: KEEDYSVL
+    distance_km: 5.88
+  - name: MYERSVILLE
+    distance_km: 16.61
+  - name: WILLIAMSPT
+    distance_km: 16.93
+- country: US
+  region: MD
+  name: Sharptown
+  lat: '38.5381'
+  long: "-75.7190"
+  nearby_rate_centers:
+  - name: SHARPTOWN
+    distance_km: 0.6
+  - name: VIENNA
+    distance_km: 10.76
+  - name: DELMAR
+    distance_km: 15.11
+- country: US
+  region: MD
+  name: Silver Hill
+  lat: '38.8392'
+  long: "-76.9367"
+  nearby_rate_centers:
+  - name: WSHNGTNZN5
+    distance_km: 5.14
+  - name: WSHNGTNZN6
+    distance_km: 6.41
+  - name: WSNGTNZN16
+    distance_km: 8.62
+- country: US
+  region: MD
+  name: Silver Spring
+  lat: '39.0028'
+  long: "-77.0207"
+  nearby_rate_centers:
+  - name: WSHNGTNZN3
+    distance_km: 1.91
+  - name: WSNGTNZN11
+    distance_km: 5.51
+  - name: WSHNGTNZN2
+    distance_km: 7.69
+- country: US
+  region: MD
+  name: Smith Island
+  lat: '37.9748'
+  long: "-76.0251"
+  nearby_rate_centers:
+  - name: SMITH IS
+    distance_km: 1.05
+  - name: CRISFIELD
+    distance_km: 15.3
+  - name: DEALISLAND
+    distance_km: 21.45
+- country: US
+  region: MD
+  name: Smithsburg
+  lat: '39.6559'
+  long: "-77.5750"
+  nearby_rate_centers:
+  - name: SMITHSBURG
+    distance_km: 0.56
+  - name: HIGHFIELD
+    distance_km: 9.94
+  - name: HAGERSTOWN
+    distance_km: 13.19
+- country: US
+  region: MD
+  name: Snow Hill
+  lat: '38.1729'
+  long: "-75.3903"
+  nearby_rate_centers:
+  - name: SNOW HILL
+    distance_km: 0.38
+  - name: POCOMOKE
+    distance_km: 19.32
+  - name: BERLIN
+    distance_km: 22.69
+- country: US
+  region: MD
+  name: Solomons
+  lat: '38.3370'
+  long: "-76.4604"
+  nearby_rate_centers:
+  - name: SOLOMONS
+    distance_km: 1.2
+  - name: LXTNPKGRML
+    distance_km: 11.18
+  - name: LEONARDTN
+    distance_km: 15.61
+- country: US
+  region: MD
+  name: Somerset
+  lat: '38.9666'
+  long: "-77.0963"
+  nearby_rate_centers:
+  - name: WSHNGTNZN2
+    distance_km: 2.19
+  - name: WSNGTNZN11
+    distance_km: 6.67
+  - name: WSHNGTNZN3
+    distance_km: 6.85
+- country: US
+  region: MD
+  name: South Kensington
+  lat: '39.0188'
+  long: "-77.0785"
+  nearby_rate_centers:
+  - name: WSNGTNZN11
+    distance_km: 0.67
+  - name: WSHNGTNZN3
+    distance_km: 3.41
+  - name: WSHNGTNZN2
+    distance_km: 4.51
+- country: US
+  region: MD
+  name: South Laurel
+  lat: '39.0603'
+  long: "-76.8456"
+  nearby_rate_centers:
+  - name: LAUREL236
+    distance_km: 5.43
+  - name: LAUREL238
+    distance_km: 5.43
+  - name: BOWIE-GLENN DALE (BALTIMORE LATA)
+    distance_km: 9.04
+  - name: BOWIGLNNDL
+    distance_km: 9.04
+  - name: WSNG236Z14
+    distance_km: 9.04
+  - name: WSNG238Z14
+    distance_km: 9.04
+  - name: BERWYN
+    distance_km: 9.59
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 9.59
+  - name: WSNG236Z13
+    distance_km: 9.59
+  - name: WSNG238Z13
+    distance_km: 9.59
+- country: US
+  region: MD
+  name: Spencerville
+  lat: '39.1190'
+  long: "-76.9828"
+  nearby_rate_centers:
+  - name: ASHTON236
+    distance_km: 4.92
+  - name: ASHTON238
+    distance_km: 4.92
+  - name: WSNGTNZN12
+    distance_km: 7.05
+  - name: LAUREL236
+    distance_km: 11.39
+  - name: LAUREL238
+    distance_km: 11.39
+- country: US
+  region: MD
+  name: Spring Gap
+  lat: '39.5654'
+  long: "-78.7054"
+  nearby_rate_centers:
+  - name: OLDTOWN
+    distance_km: 8.91
+  - name: CUMBERLAND
+    distance_km: 10.33
+  - name: FLINTSTONE
+    distance_km: 19.32
+- country: US
+  region: MD
+  name: Spring Ridge
+  lat: '39.4043'
+  long: "-77.3405"
+  nearby_rate_centers:
+  - name: FREDERICK
+    distance_km: 6.09
+  - name: NEW MARKET
+    distance_km: 6.66
+  - name: WALKERSVL
+    distance_km: 8.73
+- country: US
+  region: MD
+  name: Springdale
+  lat: '38.9363'
+  long: "-76.8442"
+  nearby_rate_centers:
+  - name: BOWIE-GLENN DALE (BALTIMORE LATA)
+    distance_km: 5.8
+  - name: BOWIGLNNDL
+    distance_km: 5.8
+  - name: WSNG236Z14
+    distance_km: 5.8
+  - name: WSNG238Z14
+    distance_km: 5.8
+  - name: BERWYN
+    distance_km: 8.61
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 8.61
+  - name: WSNG236Z13
+    distance_km: 8.61
+  - name: WSNG238Z13
+    distance_km: 8.61
+  - name: WSHNGTNZN5
+    distance_km: 8.69
+- country: US
+  region: MD
+  name: St. George Island
+  lat: '38.1155'
+  long: "-76.4771"
+  nearby_rate_centers:
+  - name: RIDGE
+    distance_km: 9.52
+  - name: LXTNPKGRML
+    distance_km: 13.87
+  - name: SOLOMONS
+    distance_km: 23.52
+- country: US
+  region: MD
+  name: St. James
+  lat: '39.5738'
+  long: "-77.7482"
+  nearby_rate_centers:
+  - name: WILLIAMSPT
+    distance_km: 7.09
+  - name: HAGERSTOWN
+    distance_km: 7.8
+  - name: KEEDYSVL
+    distance_km: 9.68
+- country: US
+  region: MD
+  name: St. Leonard
+  lat: '38.4658'
+  long: "-76.4972"
+  nearby_rate_centers:
+  - name: PRINCEFRCK
+    distance_km: 11.45
+  - name: SOLOMONS
+    distance_km: 15.88
+  - name: MECHANCSVL
+    distance_km: 21.3
+- country: US
+  region: MD
+  name: St. Michaels
+  lat: '38.7883'
+  long: "-76.2244"
+  nearby_rate_centers:
+  - name: STMICHAELS
+    distance_km: 0.45
+  - name: TILGHMAN
+    distance_km: 12.47
+  - name: OXFORD
+    distance_km: 12.72
+- country: US
+  region: MD
+  name: Stevensville
+  lat: '38.9745'
+  long: "-76.3184"
+  nearby_rate_centers:
+  - name: STEVENSVL
+    distance_km: 0.85
+  - name: QUEENSTOWN
+    distance_km: 14.18
+  - name: ANNAPOLIS
+    distance_km: 15.44
+- country: US
+  region: MD
+  name: Still Pond
+  lat: '39.3260'
+  long: "-76.0424"
+  nearby_rate_centers:
+  - name: STILL POND
+    distance_km: 0.39
+  - name: CHESTERTN
+    distance_km: 13.33
+  - name: GALENA
+    distance_km: 14.75
+- country: US
+  region: MD
+  name: Stockton
+  lat: '38.0659'
+  long: "-75.4134"
+  nearby_rate_centers:
+  - name: SNOW HILL
+    distance_km: 12.41
+  - name: POCOMOKE
+    distance_km: 13.19
+  - name: PRINCEANNE
+    distance_km: 29.05
+- country: US
+  region: MD
+  name: Sudlersville
+  lat: '39.1833'
+  long: "-75.8535"
+  nearby_rate_centers:
+  - name: SUDLERSVL
+    distance_km: 1.08
+  - name: MILLINGTON
+    distance_km: 8.25
+  - name: CHURCHHILL
+    distance_km: 12.34
+- country: US
+  region: MD
+  name: Suitland
+  lat: '38.8492'
+  long: "-76.9225"
+  nearby_rate_centers:
+  - name: WSHNGTNZN5
+    distance_km: 3.78
+  - name: WSHNGTNZN6
+    distance_km: 8.07
+  - name: WSNGTNZN16
+    distance_km: 9.32
+- country: US
+  region: MD
+  name: Summerfield
+  lat: '38.9042'
+  long: "-76.8678"
+  nearby_rate_centers:
+  - name: WSHNGTNZN5
+    distance_km: 4.92
+  - name: WSHNGTNZN4
+    distance_km: 8.82
+  - name: WSNGTNZON4
+    distance_km: 8.82
+  - name: BOWIE-GLENN DALE (BALTIMORE LATA)
+    distance_km: 9.91
+  - name: BOWIGLNNDL
+    distance_km: 9.91
+  - name: WSNG236Z14
+    distance_km: 9.91
+  - name: WSNG238Z14
+    distance_km: 9.91
+- country: US
+  region: MD
+  name: Swanton
+  lat: '39.4598'
+  long: "-79.2328"
+  nearby_rate_centers:
+  - name: KITZMILLER
+    distance_km: 8.94
+  - name: BITTINGER
+    distance_km: 15.72
+  - name: OAKLAND
+    distance_km: 16.37
+- country: US
+  region: MD
+  name: Sykesville
+  lat: '39.3716'
+  long: "-76.9716"
+  nearby_rate_centers:
+  - name: SYKESVILLE
+    distance_km: 0.82
+  - name: GLENWOOD
+    distance_km: 7.41
+  - name: REISTERSTN
+    distance_km: 15.96
+- country: US
+  region: MD
+  name: Takoma Park
+  lat: '38.9810'
+  long: "-77.0028"
+  nearby_rate_centers:
+  - name: WSHNGTNZN3
+    distance_km: 4.61
+  - name: WSHNGTNZN4
+    distance_km: 5.65
+  - name: WSNGTNZON4
+    distance_km: 5.65
+  - name: BERWYN
+    distance_km: 7.82
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 7.82
+  - name: WSNG236Z13
+    distance_km: 7.82
+  - name: WSNG238Z13
+    distance_km: 7.82
+- country: US
+  region: MD
+  name: Tall Timbers
+  lat: '38.1653'
+  long: "-76.5366"
+  nearby_rate_centers:
+  - name: LXTNPKGRML
+    distance_km: 9.12
+  - name: RIDGE
+    distance_km: 15.73
+  - name: LEONARDTN
+    distance_km: 16.36
+- country: US
+  region: MD
+  name: Taneytown
+  lat: '39.6569'
+  long: "-77.1683"
+  nearby_rate_centers:
+  - name: TANEYTOWN
+    distance_km: 0.34
+  - name: UNION BDG
+    distance_km: 10.09
+  - name: SILVER RUN
+    distance_km: 11.44
+- country: US
+  region: MD
+  name: Taylors Island
+  lat: '38.4734'
+  long: "-76.3128"
+  nearby_rate_centers:
+  - name: WINGATE
+    distance_km: 14.54
+  - name: SOLOMONS
+    distance_km: 20.65
+  - name: CAMBRIDGE
+    distance_km: 23.22
+- country: US
+  region: MD
+  name: Temple Hills
+  lat: '38.8106'
+  long: "-76.9495"
+  nearby_rate_centers:
+  - name: WSHNGTNZN6
+    distance_km: 3.81
+  - name: WSNGTNZN16
+    distance_km: 6.48
+  - name: WSHNGTNZN5
+    distance_km: 8.51
+- country: US
+  region: MD
+  name: Templeville
+  lat: '39.1361'
+  long: "-75.7676"
+  nearby_rate_centers:
+  - name: SUDLERSVL
+    distance_km: 9.93
+  - name: MILLINGTON
+    distance_km: 14.84
+  - name: GREENSBORO
+    distance_km: 18.16
+- country: US
+  region: MD
+  name: Ten Mile Creek
+  lat: '39.2267'
+  long: "-77.3101"
+  nearby_rate_centers:
+  - name: DAMASCS236
+    distance_km: 11.2
+  - name: DAMASCS240
+    distance_km: 11.2
+  - name: GAITHERSBG
+    distance_km: 13.2
+  - name: POOLESVL
+    distance_km: 13.42
+- country: US
+  region: MD
+  name: Thurmont
+  lat: '39.6210'
+  long: "-77.4076"
+  nearby_rate_centers:
+  - name: THURMONT
+    distance_km: 0.56
+  - name: EMMITSBURG
+    distance_km: 11.9
+  - name: HIGHFIELD
+    distance_km: 12.65
+- country: US
+  region: MD
+  name: Tilghman Island
+  lat: '38.7008'
+  long: "-76.3353"
+  nearby_rate_centers:
+  - name: TILGHMAN
+    distance_km: 1.79
+  - name: STMICHAELS
+    distance_km: 13.4
+  - name: OXFORD
+    distance_km: 15.01
+- country: US
+  region: MD
+  name: Tilghmanton
+  lat: '39.5286'
+  long: "-77.7437"
+  nearby_rate_centers:
+  - name: KEEDYSVL
+    distance_km: 5.27
+  - name: WILLIAMSPT
+    distance_km: 10.41
+  - name: HAGERSTOWN
+    distance_km: 12.7
+- country: US
+  region: MD
+  name: Timonium
+  lat: '39.4459'
+  long: "-76.6032"
+  nearby_rate_centers:
+  - name: TOWSON
+    distance_km: 4.83
+  - name: COCKEYSVL
+    distance_km: 5.79
+  - name: PARKVILLE
+    distance_km: 10.87
+- country: US
+  region: MD
+  name: Tolchester
+  lat: '39.2219'
+  long: "-76.2349"
+  nearby_rate_centers:
+  - name: ROCK HALL
+    distance_km: 9.77
+  - name: CHESTERTN
+    distance_km: 14.47
+  - name: CHASE
+    distance_km: 18.86
+- country: US
+  region: MD
+  name: Towson
+  lat: '39.3944'
+  long: "-76.6190"
+  nearby_rate_centers:
+  - name: TOWSON
+    distance_km: 1.86
+  - name: PARKVILLE
+    distance_km: 9.04
+  - name: OWINGS ML
+    distance_km: 9.42
+  - name: PIKESVILLE
+    distance_km: 9.42
+- country: US
+  region: MD
+  name: Trappe
+  lat: '38.6634'
+  long: "-76.0518"
+  nearby_rate_centers:
+  - name: TRAPPE
+    distance_km: 1.32
+  - name: OXFORD
+    distance_km: 9.99
+  - name: CAMBRIDGE
+    distance_km: 10.77
+- country: US
+  region: MD
+  name: Travilah
+  lat: '39.0570'
+  long: "-77.2470"
+  nearby_rate_centers:
+  - name: WSNGTNZN10
+    distance_km: 8.16
+  - name: GAITHERSBG
+    distance_km: 10.17
+  - name: WSHNGTNZN2
+    distance_km: 14.56
+- country: US
+  region: MD
+  name: Trego-Rohrersville Station
+  lat: '39.4291'
+  long: "-77.6748"
+  nearby_rate_centers:
+  - name: KEEDYSVL
+    distance_km: 7.63
+  - name: MIDDLETOWN
+    distance_km: 11.79
+  - name: MYERSVILLE
+    distance_km: 12.71
+- country: US
+  region: MD
+  name: Tyaskin
+  lat: '38.3196'
+  long: "-75.8729"
+  nearby_rate_centers:
+  - name: NANTICOKE
+    distance_km: 2.83
+  - name: VIENNA
+    distance_km: 18.8
+  - name: DEALISLAND
+    distance_km: 19.16
+- country: US
+  region: MD
+  name: Union Bridge
+  lat: '39.5731'
+  long: "-77.1744"
+  nearby_rate_centers:
+  - name: UNION BDG
+    distance_km: 0.76
+  - name: NEWWINDSOR
+    distance_km: 6.49
+  - name: TANEYTOWN
+    distance_km: 9.54
+- country: US
+  region: MD
+  name: University Park
+  lat: '38.9719'
+  long: "-76.9445"
+  nearby_rate_centers:
+  - name: WSHNGTNZN4
+    distance_km: 2.41
+  - name: WSNGTNZON4
+    distance_km: 2.41
+  - name: BERWYN
+    distance_km: 3.5
+  - name: BERWYN (BALTIMORE LATA)
+    distance_km: 3.5
+  - name: WSNG236Z13
+    distance_km: 3.5
+  - name: WSNG238Z13
+    distance_km: 3.5
+  - name: WSHNGTNZN3
+    distance_km: 9.34
+- country: US
+  region: MD
+  name: Upper Marlboro
+  lat: '38.8153'
+  long: "-76.7514"
+  nearby_rate_centers:
+  - name: WSNG236Z15
+    distance_km: 0.34
+  - name: WSNG238Z15
+    distance_km: 0.34
+  - name: WEST RIVER
+    distance_km: 13.55
+  - name: WSNGTNZN16
+    distance_km: 13.88
+- country: US
+  region: MD
+  name: Urbana
+  lat: '39.3274'
+  long: "-77.3423"
+  nearby_rate_centers:
+  - name: BUCKEYSTN
+    distance_km: 8.02
+  - name: NEW MARKET
+    distance_km: 8.82
+  - name: FREDERICK
+    distance_km: 11.62
+- country: US
+  region: MD
+  name: Vale Summit
+  lat: '39.6152'
+  long: "-78.9084"
+  nearby_rate_centers:
+  - name: FROSTBURG
+    distance_km: 4.16
+  - name: LONACONING
+    distance_km: 8.05
+  - name: MT SAVAGE
+    distance_km: 8.82
+- country: US
+  region: MD
+  name: Vienna
+  lat: '38.4811'
+  long: "-75.8318"
+  nearby_rate_centers:
+  - name: VIENNA
+    distance_km: 0.95
+  - name: SHARPTOWN
+    distance_km: 12.17
+  - name: HURLOCK
+    distance_km: 17.02
+- country: US
+  region: MD
+  name: Waldorf
+  lat: '38.6085'
+  long: "-76.9194"
+  nearby_rate_centers:
+  - name: WALDORF
+    distance_km: 2.29
+  - name: LA PLATA
+    distance_km: 10.53
+  - name: BRANDYWINE
+    distance_km: 11.96
+- country: US
+  region: MD
+  name: Walker Mill
+  lat: '38.8758'
+  long: "-76.8854"
+  nearby_rate_centers:
+  - name: WSHNGTNZN5
+    distance_km: 2.91
+  - name: WSHNGTNZN4
+    distance_km: 10.05
+  - name: WSNGTNZON4
+    distance_km: 10.05
+  - name: WSNGTNZN16
+    distance_km: 12.12
+- country: US
+  region: MD
+  name: Walkersville
+  lat: '39.4832'
+  long: "-77.3559"
+  nearby_rate_centers:
+  - name: WALKERSVL
+    distance_km: 0.37
+  - name: FREDERICK
+    distance_km: 8.54
+  - name: NEW MARKET
+    distance_km: 13.5
+- country: US
+  region: MD
+  name: Washington Grove
+  lat: '39.1407'
+  long: "-77.1746"
+  nearby_rate_centers:
+  - name: GAITHERSBG
+    distance_km: 2.45
+  - name: WSNGTNZN10
+    distance_km: 6.27
+  - name: WSNGTNZN12
+    distance_km: 12.7
+- country: US
+  region: MD
+  name: Waterview
+  lat: '38.2482'
+  long: "-75.9017"
+  nearby_rate_centers:
+  - name: NANTICOKE
+    distance_km: 5.63
+  - name: DEALISLAND
+    distance_km: 10.85
+  - name: PRINCEANNE
+    distance_km: 18.91
+- country: US
+  region: MD
+  name: West Denton
+  lat: '38.8896'
+  long: "-75.8389"
+  nearby_rate_centers:
+  - name: DENTON
+    distance_km: 1.52
+  - name: RIDGELY
+    distance_km: 7.14
+  - name: GREENSBORO
+    distance_km: 9.94
+- country: US
+  region: MD
+  name: West Laurel
+  lat: '39.1134'
+  long: "-76.8924"
+  nearby_rate_centers:
+  - name: LAUREL236
+    distance_km: 3.57
+  - name: LAUREL238
+    distance_km: 3.57
+  - name: WATERLO236
+    distance_km: 11.39
+  - name: WATERLO238
+    distance_km: 11.39
+  - name: COLUMBIA
+    distance_km: 11.93
+- country: US
+  region: MD
+  name: West Ocean City
+  lat: '38.3466'
+  long: "-75.1122"
+  nearby_rate_centers:
+  - name: OCEAN CITY
+    distance_km: 2.56
+  - name: BERLIN
+    distance_km: 9.52
+  - name: BISHOPVL
+    distance_km: 13.43
+- country: US
+  region: MD
+  name: West Pocomoke
+  lat: '38.0956'
+  long: "-75.5842"
+  nearby_rate_centers:
+  - name: POCOMOKE
+    distance_km: 3.77
+  - name: PRINCEANNE
+    distance_km: 15.73
+  - name: MARION
+    distance_km: 17.18
+- country: US
+  region: MD
+  name: Westernport
+  lat: '39.4880'
+  long: "-79.0429"
+  nearby_rate_centers:
+  - name: WESTERNPT
+    distance_km: 0.18
+  - name: MCCOOLE
+    distance_km: 7.04
+  - name: LONACONING
+    distance_km: 10.34
+- country: US
+  region: MD
+  name: Westminster
+  lat: '39.5796'
+  long: "-77.0067"
+  nearby_rate_centers:
+  - name: WESTMINSTR
+    distance_km: 1.22
+  - name: NEWWINDSOR
+    distance_km: 9.75
+  - name: SILVER RUN
+    distance_km: 12.64
+- country: US
+  region: MD
+  name: Westphalia
+  lat: '38.8356'
+  long: "-76.8298"
+  nearby_rate_centers:
+  - name: WSNG236Z15
+    distance_km: 6.83
+  - name: WSNG238Z15
+    distance_km: 6.83
+  - name: WSHNGTNZN5
+    distance_km: 9.26
+  - name: WSNGTNZN16
+    distance_km: 9.69
+- country: US
+  region: MD
+  name: Whaleyville
+  lat: '38.3917'
+  long: "-75.3004"
+  nearby_rate_centers:
+  - name: BISHOPVL
+    distance_km: 8.43
+  - name: WILLARDS
+    distance_km: 9.38
+  - name: BERLIN
+    distance_km: 10.27
+- country: US
+  region: MD
+  name: Wheaton
+  lat: '39.0492'
+  long: "-77.0573"
+  nearby_rate_centers:
+  - name: WSNGTNZN11
+    distance_km: 3.24
+  - name: WSNGTNZN12
+    distance_km: 3.66
+  - name: WSHNGTNZN3
+    distance_km: 4.56
+- country: US
+  region: MD
+  name: White Marsh
+  lat: '39.3819'
+  long: "-76.4574"
+  nearby_rate_centers:
+  - name: PARKVILLE
+    distance_km: 5.19
+  - name: ESSEX
+    distance_km: 8.21
+  - name: CHASE
+    distance_km: 8.38
+- country: US
+  region: MD
+  name: White Oak
+  lat: '39.0451'
+  long: "-76.9885"
+  nearby_rate_centers:
+  - name: WSHNGTNZN3
+    distance_km: 5.93
+  - name: WSNGTNZN12
+    distance_km: 6.58
+  - name: WSNGTNZN11
+    distance_km: 8.04
+- country: US
+  region: MD
+  name: Whitehaven
+  lat: '38.2705'
+  long: "-75.7935"
+  nearby_rate_centers:
+  - name: NANTICOKE
+    distance_km: 8.96
+  - name: PRINCEANNE
+    distance_km: 11.24
+  - name: DEALISLAND
+    distance_km: 18.57
+- country: US
+  region: MD
+  name: Wildewood
+  lat: '38.3035'
+  long: "-76.5470"
+  nearby_rate_centers:
+  - name: LEONARDTN
+    distance_km: 7.36
+  - name: SOLOMONS
+    distance_km: 8.2
+  - name: LXTNPKGRML
+    distance_km: 8.55
+- country: US
+  region: MD
+  name: Willards
+  lat: '38.3922'
+  long: "-75.3494"
+  nearby_rate_centers:
+  - name: WILLARDS
+    distance_km: 5.1
+  - name: BISHOPVL
+    distance_km: 12.2
+  - name: BERLIN
+    distance_km: 13.64
+- country: US
+  region: MD
+  name: Williamsport
+  lat: '39.5973'
+  long: "-77.8180"
+  nearby_rate_centers:
+  - name: WILLIAMSPT
+    distance_km: 0.57
+  - name: HAGERSTOWN
+    distance_km: 9.18
+  - name: CLEAR SPG
+    distance_km: 11.73
+- country: US
+  region: MD
+  name: Williston
+  lat: '38.8307'
+  long: "-75.8510"
+  nearby_rate_centers:
+  - name: DENTON
+    distance_km: 6.26
+  - name: RIDGELY
+    distance_km: 12.88
+  - name: HILLSBORO
+    distance_km: 12.99
+- country: US
+  region: MD
+  name: Wilson-Conococheague
+  lat: '39.6530'
+  long: "-77.8306"
+  nearby_rate_centers:
+  - name: WILLIAMSPT
+    distance_km: 6.08
+  - name: CLEAR SPG
+    distance_km: 8.73
+  - name: HAGERSTOWN
+    distance_km: 8.86
+- country: US
+  region: MD
+  name: Woodland
+  lat: '39.6083'
+  long: "-78.9502"
+  nearby_rate_centers:
+  - name: FROSTBURG
+    distance_km: 5.07
+  - name: LONACONING
+    distance_km: 5.24
+  - name: MT SAVAGE
+    distance_km: 11.11
+- country: US
+  region: MD
+  name: Woodlawn
+  lat: '39.3054'
+  long: "-76.7489"
+  nearby_rate_centers:
+  - name: WOODLAWN
+    distance_km: 2.97
+  - name: CATONSVL
+    distance_km: 4.16
+  - name: RANDALLSTN
+    distance_km: 4.87
+- country: US
+  region: MD
+  name: Woodmore
+  lat: '38.9222'
+  long: "-76.7810"
+  nearby_rate_centers:
+  - name: BOWIE-GLENN DALE (BALTIMORE LATA)
+    distance_km: 7.32
+  - name: BOWIGLNNDL
+    distance_km: 7.32
+  - name: WSNG236Z14
+    distance_km: 7.32
+  - name: WSNG238Z14
+    distance_km: 7.32
+  - name: WSNG236Z15
+    distance_km: 11.91
+  - name: WSNG238Z15
+    distance_km: 11.91
+  - name: CROFTON
+    distance_km: 12.06
+- country: US
+  region: MD
+  name: Woodsboro
+  lat: '39.5328'
+  long: "-77.3097"
+  nearby_rate_centers:
+  - name: WALKERSVL
+    distance_km: 6.67
+  - name: UNION BDG
+    distance_km: 12.12
+  - name: THURMONT
+    distance_km: 13.47
+- country: US
+  region: MD
+  name: Worton
+  lat: '39.2718'
+  long: "-76.0933"
+  nearby_rate_centers:
+  - name: STILL POND
+    distance_km: 7.15
+  - name: CHESTERTN
+    distance_km: 7.45
+  - name: CHURCHHILL
+    distance_km: 17.36
+- country: US
+  region: MD
+  name: Yarrowsburg
+  lat: '39.3762'
+  long: "-77.6843"
+  nearby_rate_centers:
+  - name: BRUNSWICK
+    distance_km: 8.59
+  - name: KEEDYSVL
+    distance_km: 13.26
+  - name: MIDDLETOWN
+    distance_km: 14.53
+- country: US
+  region: MD
+  name: Zihlman
+  lat: '39.6741'
+  long: "-78.9131"
+  nearby_rate_centers:
+  - name: FROSTBURG
+    distance_km: 2.91
+  - name: MT SAVAGE
+    distance_km: 3.61
+  - name: LONACONING
+    distance_km: 13.22

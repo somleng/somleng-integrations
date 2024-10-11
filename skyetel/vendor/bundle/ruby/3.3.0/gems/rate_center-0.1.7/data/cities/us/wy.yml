@@ -1,0 +1,2450 @@
+---
+cities:
+- country: US
+  region: WY
+  name: Afton
+  lat: '42.7270'
+  long: "-110.9315"
+  nearby_rate_centers:
+  - name: AFTON
+    distance_km: 0.34
+  - name: FREEDOM
+    distance_km: 29.18
+  - name: ALPINE
+    distance_km: 49.35
+- country: US
+  region: WY
+  name: Albany
+  lat: '41.1869'
+  long: "-106.1255"
+  nearby_rate_centers:
+  - name: LARAMIE
+    distance_km: 46.52
+  - name: ENCAMPMENT
+    distance_km: 55.75
+  - name: ROCK RIVER
+    distance_km: 62.78
+- country: US
+  region: WY
+  name: Albin
+  lat: '41.4170'
+  long: "-104.1016"
+  nearby_rate_centers:
+  - name: ALBIN
+    distance_km: 0.73
+  - name: LA GRANGE
+    distance_km: 25.43
+  - name: PINEBLUFFS
+    distance_km: 26.31
+- country: US
+  region: WY
+  name: Alcova
+  lat: '42.5543'
+  long: "-106.7263"
+  nearby_rate_centers:
+  - name: CASPER
+    distance_km: 45.69
+  - name: SHIRLEBSIN
+    distance_km: 50.28
+  - name: HANNA
+    distance_km: 77.6
+- country: US
+  region: WY
+  name: Alpine
+  lat: '43.1646'
+  long: "-111.0200"
+  nearby_rate_centers:
+  - name: ALPINE
+    distance_km: 0.52
+  - name: FREEDOM
+    distance_km: 20.52
+  - name: JACKSON
+    distance_km: 40.28
+- country: US
+  region: WY
+  name: Alpine Northeast
+  lat: '43.1938'
+  long: "-111.0072"
+  nearby_rate_centers:
+  - name: ALPINE
+    distance_km: 3.08
+  - name: FREEDOM
+    distance_km: 23.81
+  - name: JACKSON
+    distance_km: 36.98
+- country: US
+  region: WY
+  name: Alpine Northwest
+  lat: '43.1817'
+  long: "-111.0347"
+  nearby_rate_centers:
+  - name: ALPINE
+    distance_km: 2.36
+  - name: FREEDOM
+    distance_km: 22.43
+  - name: JACKSON
+    distance_km: 39.34
+- country: US
+  region: WY
+  name: Alta
+  lat: '43.7737'
+  long: "-111.0312"
+  nearby_rate_centers:
+  - name: ALTA
+    distance_km: 0.67
+  - name: LEIGHCNYON
+    distance_km: 3.22
+  - name: MORAN
+    distance_km: 37.37
+- country: US
+  region: WY
+  name: Antelope Hills
+  lat: '43.0813'
+  long: "-106.3117"
+  nearby_rate_centers:
+  - name: CASPER
+    distance_km: 26.64
+  - name: MIDWEST
+    distance_km: 37.46
+  - name: GLENROCK
+    distance_km: 44.35
+- country: US
+  region: WY
+  name: Arapahoe
+  lat: '42.9911'
+  long: "-108.4562"
+  nearby_rate_centers:
+  - name: RIVERTON
+    distance_km: 7.14
+  - name: LANDER
+    distance_km: 28.78
+  - name: SHOSHONI
+    distance_km: 38.79
+- country: US
+  region: WY
+  name: Arlington
+  lat: '41.6053'
+  long: "-106.1997"
+  nearby_rate_centers:
+  - name: ROCK RIVER
+    distance_km: 23.89
+  - name: MEDICINBOW
+    distance_km: 32.72
+  - name: HANNA
+    distance_km: 42.08
+- country: US
+  region: WY
+  name: Arrowhead Springs
+  lat: '41.5081'
+  long: "-109.1551"
+  nearby_rate_centers:
+  - name: ROCK SPG
+    distance_km: 10.56
+  - name: GREENRIVER
+    distance_km: 25.59
+  - name: FARSON
+    distance_km: 70.38
+- country: US
+  region: WY
+  name: Arvada
+  lat: '44.6621'
+  long: "-106.1418"
+  nearby_rate_centers:
+  - name: ARVADA
+    distance_km: 1.0
+  - name: CLEARMONT
+    distance_km: 18.67
+  - name: BUFFALO
+    distance_km: 55.81
+- country: US
+  region: WY
+  name: Atlantic City
+  lat: '42.5012'
+  long: "-108.7330"
+  nearby_rate_centers:
+  - name: LANDER
+    distance_km: 36.77
+  - name: RIVERTON
+    distance_km: 65.08
+  - name: FARSON
+    distance_km: 72.28
+- country: US
+  region: WY
+  name: Auburn
+  lat: '42.7969'
+  long: "-111.0216"
+  nearby_rate_centers:
+  - name: AFTON
+    distance_km: 10.98
+  - name: FREEDOM
+    distance_km: 20.37
+  - name: ALPINE
+    distance_km: 41.12
+- country: US
+  region: WY
+  name: Baggs
+  lat: '41.0345'
+  long: "-107.6574"
+  nearby_rate_centers:
+  - name: BAGGS
+    distance_km: 0.52
+  - name: ENCAMPMENT
+    distance_km: 75.13
+  - name: SARATOGA
+    distance_km: 85.92
+- country: US
+  region: WY
+  name: Bairoil
+  lat: '42.2372'
+  long: "-107.5611"
+  nearby_rate_centers:
+  - name: JEFFREY CY
+    distance_km: 35.74
+  - name: RAWLINS
+    distance_km: 56.7
+  - name: GAS HILLS
+    distance_km: 64.99
+- country: US
+  region: WY
+  name: Bar Nunn
+  lat: '42.9220'
+  long: "-106.3475"
+  nearby_rate_centers:
+  - name: CASPER
+    distance_km: 9.05
+  - name: GLENROCK
+    distance_km: 40.36
+  - name: MIDWEST
+    distance_km: 55.35
+- country: US
+  region: WY
+  name: Basin
+  lat: '44.3804'
+  long: "-108.0466"
+  nearby_rate_centers:
+  - name: BASIN
+    distance_km: 0.83
+  - name: GREYBULL
+    distance_km: 12.37
+  - name: BURLINGTON
+    distance_km: 30.47
+- country: US
+  region: WY
+  name: Bear River
+  lat: '41.3858'
+  long: "-111.0271"
+  nearby_rate_centers:
+  - name: EVANSTON
+    distance_km: 14.0
+  - name: URIE
+    distance_km: 58.31
+  - name: MT VIEW
+    distance_km: 59.16
+- country: US
+  region: WY
+  name: Bedford
+  lat: '42.8947'
+  long: "-110.9286"
+  nearby_rate_centers:
+  - name: FREEDOM
+    distance_km: 12.37
+  - name: AFTON
+    distance_km: 18.99
+  - name: ALPINE
+    distance_km: 31.03
+- country: US
+  region: WY
+  name: Bessemer Bend
+  lat: '42.7561'
+  long: "-106.5176"
+  nearby_rate_centers:
+  - name: CASPER
+    distance_km: 18.24
+  - name: GLENROCK
+    distance_km: 54.86
+  - name: SHIRLEBSIN
+    distance_km: 56.74
+- country: US
+  region: WY
+  name: Beulah
+  lat: '44.5460'
+  long: "-104.0829"
+  nearby_rate_centers:
+  - name: WSPEARFISH
+    distance_km: 6.22
+  - name: WBLLFOURCH
+    distance_km: 14.24
+  - name: SUNDANCE
+    distance_km: 27.65
+- country: US
+  region: WY
+  name: Big Horn
+  lat: '44.6791'
+  long: "-106.9971"
+  nearby_rate_centers:
+  - name: SHERIDAN
+    distance_km: 14.03
+  - name: SOUTHESRDN
+    distance_km: 19.66
+  - name: DECKER
+    distance_km: 40.17
+- country: US
+  region: WY
+  name: Big Piney
+  lat: '42.5401'
+  long: "-110.1193"
+  nearby_rate_centers:
+  - name: BIG PINEY
+    distance_km: 0.25
+  - name: LABARGE
+    distance_km: 33.04
+  - name: DANIEL
+    distance_km: 38.39
+- country: US
+  region: WY
+  name: Bondurant
+  lat: '43.1948'
+  long: "-110.4026"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 42.3
+  - name: DANIEL
+    distance_km: 44.04
+  - name: ALPINE
+    distance_km: 49.69
+- country: US
+  region: WY
+  name: Boulder
+  lat: '42.7461'
+  long: "-109.7067"
+  nearby_rate_centers:
+  - name: PINEDALE
+    distance_km: 17.66
+  - name: DANIEL
+    distance_km: 33.18
+  - name: BIG PINEY
+    distance_km: 40.62
+- country: US
+  region: WY
+  name: Boulder Flats
+  lat: '42.9156'
+  long: "-108.7993"
+  nearby_rate_centers:
+  - name: LANDER
+    distance_km: 10.69
+  - name: RIVERTON
+    distance_km: 36.03
+  - name: CROWHEART
+    distance_km: 54.29
+- country: US
+  region: WY
+  name: Brookhurst
+  lat: '42.8618'
+  long: "-106.2272"
+  nearby_rate_centers:
+  - name: CASPER
+    distance_km: 8.44
+  - name: GLENROCK
+    distance_km: 29.95
+  - name: MIDWEST
+    distance_km: 61.95
+- country: US
+  region: WY
+  name: Buffalo
+  lat: '44.3427'
+  long: "-106.7139"
+  nearby_rate_centers:
+  - name: BUFFALO
+    distance_km: 1.93
+  - name: CLEARMONT
+    distance_km: 42.11
+  - name: SHERIDAN
+    distance_km: 54.33
+- country: US
+  region: WY
+  name: Burlington
+  lat: '44.4471'
+  long: "-108.4320"
+  nearby_rate_centers:
+  - name: BURLINGTON
+    distance_km: 3.38
+  - name: GREYBULL
+    distance_km: 30.69
+  - name: BASIN
+    distance_km: 32.22
+- country: US
+  region: WY
+  name: Burns
+  lat: '41.1909'
+  long: "-104.3590"
+  nearby_rate_centers:
+  - name: BURNS
+    distance_km: 0.26
+  - name: CARPENTER
+    distance_km: 16.83
+  - name: PINEBLUFFS
+    distance_km: 24.44
+- country: US
+  region: WY
+  name: Byron
+  lat: '44.7963'
+  long: "-108.5082"
+  nearby_rate_centers:
+  - name: LOVELL
+    distance_km: 10.41
+  - name: POWELL
+    distance_km: 20.22
+  - name: FRANNIE
+    distance_km: 20.89
+- country: US
+  region: WY
+  name: Carpenter
+  lat: '41.0456'
+  long: "-104.3644"
+  nearby_rate_centers:
+  - name: CARPENTER
+    distance_km: 0.7
+  - name: BURNS
+    distance_km: 16.28
+  - name: PINEBLUFFS
+    distance_km: 29.14
+- country: US
+  region: WY
+  name: Carter
+  lat: '41.4405'
+  long: "-110.4303"
+  nearby_rate_centers:
+  - name: LYMAN
+    distance_km: 14.27
+  - name: URIE
+    distance_km: 16.63
+  - name: MT VIEW
+    distance_km: 20.06
+- country: US
+  region: WY
+  name: Casper
+  lat: '42.8420'
+  long: "-106.3208"
+  nearby_rate_centers:
+  - name: CASPER
+    distance_km: 0.51
+  - name: GLENROCK
+    distance_km: 37.63
+  - name: SHIRLEBSIN
+    distance_km: 61.51
+- country: US
+  region: WY
+  name: Casper Mountain
+  lat: '42.7416'
+  long: "-106.3082"
+  nearby_rate_centers:
+  - name: CASPER
+    distance_km: 11.27
+  - name: GLENROCK
+    distance_km: 38.82
+  - name: SHIRLEBSIN
+    distance_km: 50.31
+- country: US
+  region: WY
+  name: Centennial
+  lat: '41.3005'
+  long: "-106.1355"
+  nearby_rate_centers:
+  - name: LARAMIE
+    distance_km: 45.26
+  - name: ROCK RIVER
+    distance_km: 50.67
+  - name: ENCAMPMENT
+    distance_km: 55.73
+- country: US
+  region: WY
+  name: Cheyenne
+  lat: '41.1350'
+  long: "-104.7902"
+  nearby_rate_centers:
+  - name: CHEYENNE
+    distance_km: 2.23
+  - name: BURNS
+    distance_km: 36.88
+  - name: CARPENTER
+    distance_km: 37.01
+- country: US
+  region: WY
+  name: Chugcreek
+  lat: '42.0535'
+  long: "-104.9079"
+  nearby_rate_centers:
+  - name: WHEATLAND
+    distance_km: 3.63
+  - name: GUERNSEY
+    distance_km: 27.83
+  - name: CHUGWATER
+    distance_km: 33.53
+- country: US
+  region: WY
+  name: Chugwater
+  lat: '41.7557'
+  long: "-104.8229"
+  nearby_rate_centers:
+  - name: CHUGWATER
+    distance_km: 0.33
+  - name: WHEATLAND
+    distance_km: 34.2
+  - name: LA GRANGE
+    distance_km: 56.03
+- country: US
+  region: WY
+  name: Clearmont
+  lat: '44.6397'
+  long: "-106.3815"
+  nearby_rate_centers:
+  - name: CLEARMONT
+    distance_km: 0.85
+  - name: ARVADA
+    distance_km: 19.84
+  - name: BUFFALO
+    distance_km: 40.67
+- country: US
+  region: WY
+  name: Clearview Acres
+  lat: '41.5842'
+  long: "-109.2801"
+  nearby_rate_centers:
+  - name: ROCK SPG
+    distance_km: 5.53
+  - name: GREENRIVER
+    distance_km: 16.04
+  - name: FARSON
+    distance_km: 59.43
+- country: US
+  region: WY
+  name: Cody
+  lat: '44.5213'
+  long: "-109.0548"
+  nearby_rate_centers:
+  - name: CODY
+    distance_km: 1.19
+  - name: POWELL
+    distance_km: 34.67
+  - name: MEETEETSE
+    distance_km: 43.16
+- country: US
+  region: WY
+  name: Cokeville
+  lat: '42.0679'
+  long: "-110.9609"
+  nearby_rate_centers:
+  - name: COKEVILLE
+    distance_km: 1.67
+  - name: BORDER
+    distance_km: 12.96
+  - name: KEMMERER
+    distance_km: 46.02
+- country: US
+  region: WY
+  name: Cora
+  lat: '42.9576'
+  long: "-109.9916"
+  nearby_rate_centers:
+  - name: DANIEL
+    distance_km: 10.34
+  - name: PINEDALE
+    distance_km: 15.39
+  - name: BIG PINEY
+    distance_km: 47.33
+- country: US
+  region: WY
+  name: Cowley
+  lat: '44.8834'
+  long: "-108.4693"
+  nearby_rate_centers:
+  - name: LOVELL
+    distance_km: 7.83
+  - name: FRANNIE
+    distance_km: 15.04
+  - name: POWELL
+    distance_km: 27.07
+- country: US
+  region: WY
+  name: Crowheart
+  lat: '43.3398'
+  long: "-109.2298"
+  nearby_rate_centers:
+  - name: CROWHEART
+    distance_km: 4.43
+  - name: DUBOIS
+    distance_km: 39.01
+  - name: LANDER
+    distance_km: 69.32
+- country: US
+  region: WY
+  name: Daniel
+  lat: '42.8657'
+  long: "-110.0766"
+  nearby_rate_centers:
+  - name: DANIEL
+    distance_km: 2.08
+  - name: PINEDALE
+    distance_km: 17.91
+  - name: BIG PINEY
+    distance_km: 36.12
+- country: US
+  region: WY
+  name: Dayton
+  lat: '44.8733'
+  long: "-107.2624"
+  nearby_rate_centers:
+  - name: DYTNRNCHTR
+    distance_km: 15.48
+  - name: SOUTHWYOLA
+    distance_km: 17.93
+  - name: SHERIDAN
+    distance_km: 25.79
+- country: US
+  region: WY
+  name: Deaver
+  lat: '44.8890'
+  long: "-108.5961"
+  nearby_rate_centers:
+  - name: FRANNIE
+    distance_km: 8.84
+  - name: LOVELL
+    distance_km: 17.04
+  - name: POWELL
+    distance_km: 20.01
+- country: US
+  region: WY
+  name: Diamondville
+  lat: '41.7772'
+  long: "-110.5357"
+  nearby_rate_centers:
+  - name: KEMMERER
+    distance_km: 2.0
+  - name: COKEVILLE
+    distance_km: 48.89
+  - name: LYMAN
+    distance_km: 50.8
+- country: US
+  region: WY
+  name: Dixon
+  lat: '41.0345'
+  long: "-107.5356"
+  nearby_rate_centers:
+  - name: BAGGS
+    distance_km: 10.46
+  - name: ENCAMPMENT
+    distance_km: 65.33
+  - name: SARATOGA
+    distance_km: 77.63
+- country: US
+  region: WY
+  name: Douglas
+  lat: '42.7542'
+  long: "-105.3969"
+  nearby_rate_centers:
+  - name: DOUGLAS
+    distance_km: 2.47
+  - name: GLENROCK
+    distance_km: 39.5
+  - name: GLENDO
+    distance_km: 42.08
+- country: US
+  region: WY
+  name: Dubois
+  lat: '43.5389'
+  long: "-109.6443"
+  nearby_rate_centers:
+  - name: DUBOIS
+    distance_km: 1.14
+  - name: CROWHEART
+    distance_km: 44.43
+  - name: PINEDALE
+    distance_km: 77.39
+- country: US
+  region: WY
+  name: East Thermopolis
+  lat: '43.6441'
+  long: "-108.1979"
+  nearby_rate_centers:
+  - name: THERMOPOLS
+    distance_km: 0.87
+  - name: HAMITNDOME
+    distance_km: 33.08
+  - name: WORLAND
+    distance_km: 45.77
+- country: US
+  region: WY
+  name: Eden
+  lat: '42.0601'
+  long: "-109.4392"
+  nearby_rate_centers:
+  - name: FARSON
+    distance_km: 5.21
+  - name: ROCK SPG
+    distance_km: 55.28
+  - name: GREENRIVER
+    distance_km: 58.59
+- country: US
+  region: WY
+  name: Edgerton
+  lat: '43.4134'
+  long: "-106.2474"
+  nearby_rate_centers:
+  - name: MIDWEST
+    distance_km: 2.88
+  - name: KAYCEE
+    distance_km: 45.7
+  - name: CASPER
+    distance_km: 63.87
+- country: US
+  region: WY
+  name: El Rancho
+  lat: '42.2680'
+  long: "-105.0477"
+  nearby_rate_centers:
+  - name: GUERNSEY
+    distance_km: 25.4
+  - name: WHEATLAND
+    distance_km: 25.72
+  - name: GLENDO
+    distance_km: 26.04
+- country: US
+  region: WY
+  name: Elk Mountain
+  lat: '41.6883'
+  long: "-106.4134"
+  nearby_rate_centers:
+  - name: HANNA
+    distance_km: 23.54
+  - name: MEDICINBOW
+    distance_km: 29.27
+  - name: ROCK RIVER
+    distance_km: 36.77
+- country: US
+  region: WY
+  name: Encampment
+  lat: '41.2088'
+  long: "-106.7948"
+  nearby_rate_centers:
+  - name: ENCAMPMENT
+    distance_km: 0.32
+  - name: SARATOGA
+    distance_km: 27.99
+  - name: RAWLINS
+    distance_km: 74.15
+- country: US
+  region: WY
+  name: Esterbrook
+  lat: '42.4062'
+  long: "-105.3858"
+  nearby_rate_centers:
+  - name: GLENDO
+    distance_km: 32.21
+  - name: DOUGLAS
+    distance_km: 39.01
+  - name: WHEATLAND
+    distance_km: 53.54
+- country: US
+  region: WY
+  name: Ethete
+  lat: '43.0008'
+  long: "-108.7230"
+  nearby_rate_centers:
+  - name: LANDER
+    distance_km: 18.8
+  - name: RIVERTON
+    distance_km: 27.75
+  - name: CROWHEART
+    distance_km: 51.36
+- country: US
+  region: WY
+  name: Etna
+  lat: '43.0334'
+  long: "-111.0129"
+  nearby_rate_centers:
+  - name: FREEDOM
+    distance_km: 6.02
+  - name: ALPINE
+    distance_km: 14.81
+  - name: AFTON
+    distance_km: 35.05
+- country: US
+  region: WY
+  name: Evanston
+  lat: '41.2602'
+  long: "-110.9646"
+  nearby_rate_centers:
+  - name: EVANSTON
+    distance_km: 0.92
+  - name: MT VIEW
+    distance_km: 52.73
+  - name: URIE
+    distance_km: 52.79
+- country: US
+  region: WY
+  name: Evansville
+  lat: '42.8680'
+  long: "-106.2524"
+  nearby_rate_centers:
+  - name: CASPER
+    distance_km: 6.74
+  - name: GLENROCK
+    distance_km: 32.02
+  - name: MIDWEST
+    distance_km: 61.15
+- country: US
+  region: WY
+  name: Fairview
+  lat: '42.6871'
+  long: "-110.9866"
+  nearby_rate_centers:
+  - name: AFTON
+    distance_km: 6.11
+  - name: FREEDOM
+    distance_km: 32.74
+  - name: ALPINE
+    distance_km: 53.37
+- country: US
+  region: WY
+  name: Farson
+  lat: '42.1528'
+  long: "-109.4283"
+  nearby_rate_centers:
+  - name: FARSON
+    distance_km: 5.14
+  - name: LABARGE
+    distance_km: 63.87
+  - name: ROCK SPG
+    distance_km: 64.82
+- country: US
+  region: WY
+  name: Fontenelle
+  lat: '41.9973'
+  long: "-110.0626"
+  nearby_rate_centers:
+  - name: LABARGE
+    distance_km: 29.88
+  - name: KEMMERER
+    distance_km: 45.77
+  - name: FARSON
+    distance_km: 53.51
+- country: US
+  region: WY
+  name: Fort Bridger
+  lat: '41.3184'
+  long: "-110.3894"
+  nearby_rate_centers:
+  - name: URIE
+    distance_km: 4.58
+  - name: MT VIEW
+    distance_km: 6.67
+  - name: LYMAN
+    distance_km: 8.28
+- country: US
+  region: WY
+  name: Fort Laramie
+  lat: '42.2131'
+  long: "-104.5175"
+  nearby_rate_centers:
+  - name: LINGLE
+    distance_km: 17.34
+  - name: GUERNSEY
+    distance_km: 19.31
+  - name: TORRINGTON
+    distance_km: 32.07
+- country: US
+  region: WY
+  name: Fort Washakie
+  lat: '43.0069'
+  long: "-108.9205"
+  nearby_rate_centers:
+  - name: LANDER
+    distance_km: 24.64
+  - name: CROWHEART
+    distance_km: 40.33
+  - name: RIVERTON
+    distance_km: 43.7
+- country: US
+  region: WY
+  name: Fox Farm-College
+  lat: '41.1105'
+  long: "-104.7871"
+  nearby_rate_centers:
+  - name: CHEYENNE
+    distance_km: 4.02
+  - name: CARPENTER
+    distance_km: 36.08
+  - name: BURNS
+    distance_km: 37.2
+- country: US
+  region: WY
+  name: Fox Park
+  lat: '41.0801'
+  long: "-106.1534"
+  nearby_rate_centers:
+  - name: LARAMIE
+    distance_km: 53.36
+  - name: ENCAMPMENT
+    distance_km: 55.31
+  - name: SARATOGA
+    distance_km: 68.63
+- country: US
+  region: WY
+  name: Frannie
+  lat: '44.9710'
+  long: "-108.6205"
+  nearby_rate_centers:
+  - name: FRANNIE
+    distance_km: 0.48
+  - name: LOVELL
+    distance_km: 23.21
+  - name: POWELL
+    distance_km: 26.88
+- country: US
+  region: WY
+  name: Freedom
+  lat: '42.9854'
+  long: "-111.0296"
+  nearby_rate_centers:
+  - name: FREEDOM
+    distance_km: 0.66
+  - name: ALPINE
+    distance_km: 20.19
+  - name: AFTON
+    distance_km: 30.16
+- country: US
+  region: WY
+  name: Garland
+  lat: '44.7777'
+  long: "-108.6542"
+  nearby_rate_centers:
+  - name: POWELL
+    distance_km: 8.61
+  - name: FRANNIE
+    distance_km: 21.19
+  - name: LOVELL
+    distance_km: 21.86
+- country: US
+  region: WY
+  name: Gillette
+  lat: '44.2752'
+  long: "-105.4982"
+  nearby_rate_centers:
+  - name: GILLETTE
+    distance_km: 2.11
+  - name: MOORCROFT
+    distance_km: 43.83
+  - name: WRIGHT
+    distance_km: 57.46
+- country: US
+  region: WY
+  name: Glendo
+  lat: '42.5049'
+  long: "-105.0250"
+  nearby_rate_centers:
+  - name: GLENDO
+    distance_km: 0.95
+  - name: GUERNSEY
+    distance_km: 35.11
+  - name: DOUGLAS
+    distance_km: 39.58
+- country: US
+  region: WY
+  name: Glenrock
+  lat: '42.8565'
+  long: "-105.8625"
+  nearby_rate_centers:
+  - name: GLENROCK
+    distance_km: 0.31
+  - name: CASPER
+    distance_km: 37.91
+  - name: DOUGLAS
+    distance_km: 41.93
+- country: US
+  region: WY
+  name: Granger
+  lat: '41.5979'
+  long: "-109.9652"
+  nearby_rate_centers:
+  - name: LYMAN
+    distance_km: 39.01
+  - name: GREENRIVER
+    distance_km: 42.59
+  - name: URIE
+    distance_km: 44.6
+- country: US
+  region: WY
+  name: Green River
+  lat: '41.5127'
+  long: "-109.4710"
+  nearby_rate_centers:
+  - name: GREENRIVER
+    distance_km: 2.46
+  - name: ROCK SPG
+    distance_km: 23.1
+  - name: MANILA
+    distance_km: 60.36
+- country: US
+  region: WY
+  name: Greybull
+  lat: '44.4887'
+  long: "-108.0592"
+  nearby_rate_centers:
+  - name: GREYBULL
+    distance_km: 0.77
+  - name: BASIN
+    distance_km: 12.71
+  - name: BURLINGTON
+    distance_km: 27.74
+- country: US
+  region: WY
+  name: Grover
+  lat: '42.8020'
+  long: "-110.9405"
+  nearby_rate_centers:
+  - name: AFTON
+    distance_km: 8.72
+  - name: FREEDOM
+    distance_km: 20.99
+  - name: ALPINE
+    distance_km: 40.99
+- country: US
+  region: WY
+  name: Guernsey
+  lat: '42.2656'
+  long: "-104.7430"
+  nearby_rate_centers:
+  - name: GUERNSEY
+    distance_km: 0.61
+  - name: WHEATLAND
+    distance_km: 29.66
+  - name: GLENDO
+    distance_km: 34.39
+- country: US
+  region: WY
+  name: Hanna
+  lat: '41.8697'
+  long: "-106.5597"
+  nearby_rate_centers:
+  - name: HANNA
+    distance_km: 0.68
+  - name: MEDICINBOW
+    distance_km: 29.74
+  - name: SARATOGA
+    distance_km: 49.69
+- country: US
+  region: WY
+  name: Hartrandt
+  lat: '42.8836'
+  long: "-106.3492"
+  nearby_rate_centers:
+  - name: CASPER
+    distance_km: 4.97
+  - name: GLENROCK
+    distance_km: 39.99
+  - name: MIDWEST
+    distance_km: 59.61
+- country: US
+  region: WY
+  name: Hartville
+  lat: '42.3277'
+  long: "-104.7245"
+  nearby_rate_centers:
+  - name: GUERNSEY
+    distance_km: 6.5
+  - name: GLENDO
+    distance_km: 30.64
+  - name: WHEATLAND
+    distance_km: 36.28
+- country: US
+  region: WY
+  name: Hawk Springs
+  lat: '41.7853'
+  long: "-104.2650"
+  nearby_rate_centers:
+  - name: LA GRANGE
+    distance_km: 18.07
+  - name: WEST LYMAN
+    distance_km: 23.68
+  - name: TORRINGTON
+    distance_km: 31.89
+- country: US
+  region: WY
+  name: Hill View Heights
+  lat: '43.8159'
+  long: "-104.1517"
+  nearby_rate_centers:
+  - name: NEWCASTLE
+    distance_km: 6.46
+  - name: UPTON
+    distance_km: 49.26
+  - name: W EDGEMONT
+    distance_km: 57.96
+- country: US
+  region: WY
+  name: Hillsdale
+  lat: '41.2079'
+  long: "-104.4744"
+  nearby_rate_centers:
+  - name: BURNS
+    distance_km: 10.06
+  - name: CARPENTER
+    distance_km: 20.76
+  - name: CHEYENNE
+    distance_km: 29.61
+- country: US
+  region: WY
+  name: Hoback
+  lat: '43.3082'
+  long: "-110.7443"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 18.38
+  - name: ALPINE
+    distance_km: 26.95
+  - name: FREEDOM
+    distance_km: 43.05
+- country: US
+  region: WY
+  name: Homa Hills
+  lat: '42.9857'
+  long: "-106.3719"
+  nearby_rate_centers:
+  - name: CASPER
+    distance_km: 16.39
+  - name: GLENROCK
+    distance_km: 44.04
+  - name: MIDWEST
+    distance_km: 48.56
+- country: US
+  region: WY
+  name: Hudson
+  lat: '42.9028'
+  long: "-108.5819"
+  nearby_rate_centers:
+  - name: LANDER
+    distance_km: 14.74
+  - name: RIVERTON
+    distance_km: 21.26
+  - name: SHOSHONI
+    distance_km: 52.97
+- country: US
+  region: WY
+  name: Hulett
+  lat: '44.6829'
+  long: "-104.5982"
+  nearby_rate_centers:
+  - name: HULETT
+    distance_km: 0.21
+  - name: SUNDANCE
+    distance_km: 35.34
+  - name: SO ALZADA
+    distance_km: 38.29
+- country: US
+  region: WY
+  name: Huntley
+  lat: '41.9316'
+  long: "-104.1439"
+  nearby_rate_centers:
+  - name: WEST LYMAN
+    distance_km: 8.85
+  - name: TORRINGTON
+    distance_km: 15.25
+  - name: LINGLE
+    distance_km: 27.58
+- country: US
+  region: WY
+  name: Hyattville
+  lat: '44.2498'
+  long: "-107.6148"
+  nearby_rate_centers:
+  - name: HYATTVILLE
+    distance_km: 1.03
+  - name: TEN SLEEP
+    distance_km: 27.35
+  - name: BASIN
+    distance_km: 36.52
+- country: US
+  region: WY
+  name: Jackson
+  lat: '43.4720'
+  long: "-110.7746"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 1.26
+  - name: ALTA
+    distance_km: 38.85
+  - name: ALPINE
+    distance_km: 39.1
+- country: US
+  region: WY
+  name: James Town
+  lat: '41.5648'
+  long: "-109.5383"
+  nearby_rate_centers:
+  - name: GREENRIVER
+    distance_km: 7.35
+  - name: ROCK SPG
+    distance_km: 27.11
+  - name: FARSON
+    distance_km: 60.89
+- country: US
+  region: WY
+  name: Jeffrey City
+  lat: '42.4809'
+  long: "-107.8256"
+  nearby_rate_centers:
+  - name: JEFFREY CY
+    distance_km: 2.74
+  - name: GAS HILLS
+    distance_km: 41.67
+  - name: RIVERTON
+    distance_km: 75.94
+- country: US
+  region: WY
+  name: Johnstown
+  lat: '43.1118'
+  long: "-108.6955"
+  nearby_rate_centers:
+  - name: RIVERTON
+    distance_km: 27.02
+  - name: LANDER
+    distance_km: 31.29
+  - name: CROWHEART
+    distance_km: 45.97
+- country: US
+  region: WY
+  name: Kaycee
+  lat: '43.7101'
+  long: "-106.6371"
+  nearby_rate_centers:
+  - name: KAYCEE
+    distance_km: 0.66
+  - name: MIDWEST
+    distance_km: 43.3
+  - name: BUFFALO
+    distance_km: 71.07
+- country: US
+  region: WY
+  name: Kelly
+  lat: '43.6227'
+  long: "-110.6273"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 19.73
+  - name: MORAN
+    distance_km: 27.55
+  - name: LEIGHCNYON
+    distance_km: 35.21
+- country: US
+  region: WY
+  name: Kemmerer
+  lat: '41.7761'
+  long: "-110.5555"
+  nearby_rate_centers:
+  - name: KEMMERER
+    distance_km: 2.24
+  - name: COKEVILLE
+    distance_km: 47.81
+  - name: LYMAN
+    distance_km: 51.34
+- country: US
+  region: WY
+  name: Kirby
+  lat: '43.8033'
+  long: "-108.1810"
+  nearby_rate_centers:
+  - name: THERMOPOLS
+    distance_km: 18.18
+  - name: WORLAND
+    distance_km: 29.81
+  - name: HAMITNDOME
+    distance_km: 30.92
+- country: US
+  region: WY
+  name: La Barge
+  lat: '42.2605'
+  long: "-110.1971"
+  nearby_rate_centers:
+  - name: LABARGE
+    distance_km: 1.43
+  - name: BIG PINEY
+    distance_km: 31.99
+  - name: KEMMERER
+    distance_km: 59.22
+- country: US
+  region: WY
+  name: La Grange
+  lat: '41.6387'
+  long: "-104.1629"
+  nearby_rate_centers:
+  - name: LA GRANGE
+    distance_km: 0.33
+  - name: ALBIN
+    distance_km: 24.79
+  - name: WEST LYMAN
+    distance_km: 32.47
+- country: US
+  region: WY
+  name: Lakeview North
+  lat: '42.0969'
+  long: "-104.9586"
+  nearby_rate_centers:
+  - name: WHEATLAND
+    distance_km: 5.47
+  - name: GUERNSEY
+    distance_km: 26.44
+  - name: CHUGWATER
+    distance_km: 39.25
+- country: US
+  region: WY
+  name: Lance Creek
+  lat: '43.0410'
+  long: "-104.6626"
+  nearby_rate_centers:
+  - name: LUSK
+    distance_km: 36.23
+  - name: W EDGEMONT
+    distance_km: 56.77
+  - name: DOUGLAS
+    distance_km: 65.49
+- country: US
+  region: WY
+  name: Lander
+  lat: '42.8312'
+  long: "-108.7599"
+  nearby_rate_centers:
+  - name: LANDER
+    distance_km: 2.05
+  - name: RIVERTON
+    distance_km: 37.6
+  - name: CROWHEART
+    distance_km: 63.84
+- country: US
+  region: WY
+  name: Laramie
+  lat: '41.3099'
+  long: "-105.6085"
+  nearby_rate_centers:
+  - name: LARAMIE
+    distance_km: 1.23
+  - name: ROCK RIVER
+    distance_km: 56.79
+  - name: CHEYENNE
+    distance_km: 68.93
+- country: US
+  region: WY
+  name: Lingle
+  lat: '42.1388'
+  long: "-104.3461"
+  nearby_rate_centers:
+  - name: LINGLE
+    distance_km: 0.98
+  - name: TORRINGTON
+    distance_km: 15.71
+  - name: WEST LYMAN
+    distance_km: 35.47
+- country: US
+  region: WY
+  name: Little America
+  lat: '41.5470'
+  long: "-109.8642"
+  nearby_rate_centers:
+  - name: GREENRIVER
+    distance_km: 33.62
+  - name: LYMAN
+    distance_km: 42.35
+  - name: URIE
+    distance_km: 47.43
+- country: US
+  region: WY
+  name: Lonetree
+  lat: '41.0273'
+  long: "-110.1536"
+  nearby_rate_centers:
+  - name: MT VIEW
+    distance_km: 31.44
+  - name: URIE
+    distance_km: 34.82
+  - name: MANILA
+    distance_km: 36.49
+- country: US
+  region: WY
+  name: Lost Springs
+  lat: '42.7652'
+  long: "-104.9255"
+  nearby_rate_centers:
+  - name: GLENDO
+    distance_km: 30.28
+  - name: DOUGLAS
+    distance_km: 36.04
+  - name: LUSK
+    distance_km: 39.49
+- country: US
+  region: WY
+  name: Lovell
+  lat: '44.8357'
+  long: "-108.3919"
+  nearby_rate_centers:
+  - name: LOVELL
+    distance_km: 0.46
+  - name: FRANNIE
+    distance_km: 23.12
+  - name: POWELL
+    distance_km: 30.27
+- country: US
+  region: WY
+  name: Lucerne
+  lat: '43.7136'
+  long: "-108.1873"
+  nearby_rate_centers:
+  - name: THERMOPOLS
+    distance_km: 8.24
+  - name: HAMITNDOME
+    distance_km: 31.18
+  - name: WORLAND
+    distance_km: 38.49
+- country: US
+  region: WY
+  name: Lusk
+  lat: '42.7613'
+  long: "-104.4584"
+  nearby_rate_centers:
+  - name: LUSK
+    distance_km: 1.39
+  - name: GLENDO
+    distance_km: 53.94
+  - name: GUERNSEY
+    distance_km: 59.25
+- country: US
+  region: WY
+  name: Lyman
+  lat: '41.3274'
+  long: "-110.2977"
+  nearby_rate_centers:
+  - name: LYMAN
+    distance_km: 3.08
+  - name: URIE
+    distance_km: 3.82
+  - name: MT VIEW
+    distance_km: 6.55
+- country: US
+  region: WY
+  name: Mammoth
+  lat: '44.9733'
+  long: "-110.6931"
+  nearby_rate_centers:
+  - name: MAMMOTH
+    distance_km: 1.6
+  - name: LAKE
+    distance_km: 51.53
+  - name: OLDFATHFUL
+    distance_km: 57.53
+- country: US
+  region: WY
+  name: Manderson
+  lat: '44.2698'
+  long: "-107.9640"
+  nearby_rate_centers:
+  - name: BASIN
+    distance_km: 13.16
+  - name: GREYBULL
+    distance_km: 25.6
+  - name: WORLAND
+    distance_km: 28.12
+- country: US
+  region: WY
+  name: Manville
+  lat: '42.7796'
+  long: "-104.6176"
+  nearby_rate_centers:
+  - name: LUSK
+    distance_km: 14.54
+  - name: GLENDO
+    distance_km: 44.89
+  - name: GUERNSEY
+    distance_km: 57.5
+- country: US
+  region: WY
+  name: Marbleton
+  lat: '42.5574'
+  long: "-110.1005"
+  nearby_rate_centers:
+  - name: BIG PINEY
+    distance_km: 2.25
+  - name: LABARGE
+    distance_km: 35.23
+  - name: DANIEL
+    distance_km: 36.34
+- country: US
+  region: WY
+  name: McKinnon
+  lat: '41.0314'
+  long: "-109.9384"
+  nearby_rate_centers:
+  - name: MANILA
+    distance_km: 18.6
+  - name: MT VIEW
+    distance_km: 42.8
+  - name: URIE
+    distance_km: 45.38
+- country: US
+  region: WY
+  name: Meadow Acres
+  lat: '42.8593'
+  long: "-106.0953"
+  nearby_rate_centers:
+  - name: CASPER
+    distance_km: 18.99
+  - name: GLENROCK
+    distance_km: 19.2
+  - name: DOUGLAS
+    distance_km: 60.51
+- country: US
+  region: WY
+  name: Medicine Bow
+  lat: '41.8995'
+  long: "-106.2019"
+  nearby_rate_centers:
+  - name: MEDICINBOW
+    distance_km: 0.07
+  - name: ROCK RIVER
+    distance_km: 25.77
+  - name: HANNA
+    distance_km: 30.42
+- country: US
+  region: WY
+  name: Meeteetse
+  lat: '44.1543'
+  long: "-108.8612"
+  nearby_rate_centers:
+  - name: MEETEETSE
+    distance_km: 0.56
+  - name: CODY
+    distance_km: 44.49
+  - name: HAMITNDOME
+    distance_km: 48.0
+- country: US
+  region: WY
+  name: Midwest
+  lat: '43.4109'
+  long: "-106.2775"
+  nearby_rate_centers:
+  - name: MIDWEST
+    distance_km: 0.84
+  - name: KAYCEE
+    distance_km: 44.25
+  - name: CASPER
+    distance_km: 63.39
+- country: US
+  region: WY
+  name: Mills
+  lat: '42.8473'
+  long: "-106.3830"
+  nearby_rate_centers:
+  - name: CASPER
+    distance_km: 4.6
+  - name: GLENROCK
+    distance_km: 42.67
+  - name: SHIRLEBSIN
+    distance_km: 62.94
+- country: US
+  region: WY
+  name: Moorcroft
+  lat: '44.2645'
+  long: "-104.9476"
+  nearby_rate_centers:
+  - name: MOORCROFT
+    distance_km: 0.06
+  - name: UPTON
+    distance_km: 31.65
+  - name: GILLETTE
+    distance_km: 43.23
+- country: US
+  region: WY
+  name: Moose Wilson Road
+  lat: '43.5315'
+  long: "-110.8340"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 8.87
+  - name: ALTA
+    distance_km: 30.7
+  - name: LEIGHCNYON
+    distance_km: 31.71
+- country: US
+  region: WY
+  name: Mountain View
+  lat: '41.2724'
+  long: "-110.3342"
+  nearby_rate_centers:
+  - name: MT VIEW
+    distance_km: 0.32
+  - name: URIE
+    distance_km: 4.04
+  - name: LYMAN
+    distance_km: 9.53
+- country: US
+  region: WY
+  name: Newcastle
+  lat: '43.8510'
+  long: "-104.2123"
+  nearby_rate_centers:
+  - name: NEWCASTLE
+    distance_km: 1.07
+  - name: UPTON
+    distance_km: 43.03
+  - name: W EDGEMONT
+    distance_km: 62.61
+- country: US
+  region: WY
+  name: Nordic
+  lat: '43.0793'
+  long: "-110.9913"
+  nearby_rate_centers:
+  - name: ALPINE
+    distance_km: 9.89
+  - name: FREEDOM
+    distance_km: 11.39
+  - name: AFTON
+    distance_km: 39.82
+- country: US
+  region: WY
+  name: North Rock Springs
+  lat: '41.6698'
+  long: "-109.2714"
+  nearby_rate_centers:
+  - name: ROCK SPG
+    distance_km: 9.86
+  - name: GREENRIVER
+    distance_km: 21.85
+  - name: FARSON
+    distance_km: 50.34
+- country: US
+  region: WY
+  name: Oakley
+  lat: '41.7510'
+  long: "-110.5261"
+  nearby_rate_centers:
+  - name: KEMMERER
+    distance_km: 5.02
+  - name: LYMAN
+    distance_km: 47.81
+  - name: COKEVILLE
+    distance_km: 51.52
+- country: US
+  region: WY
+  name: Opal
+  lat: '41.7680'
+  long: "-110.3242"
+  nearby_rate_centers:
+  - name: KEMMERER
+    distance_km: 18.43
+  - name: LYMAN
+    distance_km: 45.98
+  - name: URIE
+    distance_km: 51.08
+- country: US
+  region: WY
+  name: Orin
+  lat: '42.6505'
+  long: "-105.1826"
+  nearby_rate_centers:
+  - name: DOUGLAS
+    distance_km: 19.14
+  - name: GLENDO
+    distance_km: 21.57
+  - name: GUERNSEY
+    distance_km: 55.78
+- country: US
+  region: WY
+  name: Osage
+  lat: '43.9848'
+  long: "-104.4269"
+  nearby_rate_centers:
+  - name: UPTON
+    distance_km: 20.3
+  - name: NEWCASTLE
+    distance_km: 22.58
+  - name: SUNDANCE
+    distance_km: 47.3
+- country: US
+  region: WY
+  name: Osmond
+  lat: '42.6777'
+  long: "-110.9408"
+  nearby_rate_centers:
+  - name: AFTON
+    distance_km: 5.2
+  - name: FREEDOM
+    distance_km: 34.33
+  - name: ALPINE
+    distance_km: 54.69
+- country: US
+  region: WY
+  name: Owl Creek
+  lat: '43.7819'
+  long: "-108.5679"
+  nearby_rate_centers:
+  - name: HAMITNDOME
+    distance_km: 0.41
+  - name: THERMOPOLS
+    distance_km: 32.91
+  - name: MEETEETSE
+    distance_km: 48.1
+- country: US
+  region: WY
+  name: Parkman
+  lat: '44.9488'
+  long: "-107.3077"
+  nearby_rate_centers:
+  - name: DYTNRNCHTR
+    distance_km: 6.96
+  - name: SOUTHWYOLA
+    distance_km: 9.5
+  - name: SHERIDAN
+    distance_km: 32.52
+- country: US
+  region: WY
+  name: Pavillion
+  lat: '43.2440'
+  long: "-108.6890"
+  nearby_rate_centers:
+  - name: RIVERTON
+    distance_km: 34.56
+  - name: CROWHEART
+    distance_km: 41.48
+  - name: LANDER
+    distance_km: 45.97
+- country: US
+  region: WY
+  name: Pine Bluffs
+  lat: '41.1802'
+  long: "-104.0748"
+  nearby_rate_centers:
+  - name: PINEBLUFFS
+    distance_km: 0.66
+  - name: BURNS
+    distance_km: 23.58
+  - name: ALBIN
+    distance_km: 26.75
+- country: US
+  region: WY
+  name: Pine Haven
+  lat: '44.3534'
+  long: "-104.8104"
+  nearby_rate_centers:
+  - name: MOORCROFT
+    distance_km: 14.78
+  - name: UPTON
+    distance_km: 31.77
+  - name: SUNDANCE
+    distance_km: 35.28
+- country: US
+  region: WY
+  name: Pinedale
+  lat: '42.8676'
+  long: "-109.8707"
+  nearby_rate_centers:
+  - name: PINEDALE
+    distance_km: 1.37
+  - name: DANIEL
+    distance_km: 16.17
+  - name: BIG PINEY
+    distance_km: 41.47
+- country: US
+  region: WY
+  name: Point of Rocks
+  lat: '41.6831'
+  long: "-108.7755"
+  nearby_rate_centers:
+  - name: ROCK SPG
+    distance_km: 37.86
+  - name: GREENRIVER
+    distance_km: 59.34
+  - name: FARSON
+    distance_km: 71.87
+- country: US
+  region: WY
+  name: Powder Horn
+  lat: '44.6912'
+  long: "-106.9728"
+  nearby_rate_centers:
+  - name: SHERIDAN
+    distance_km: 12.33
+  - name: SOUTHESRDN
+    distance_km: 17.59
+  - name: DECKER
+    distance_km: 38.34
+- country: US
+  region: WY
+  name: Powder River
+  lat: '43.0491'
+  long: "-106.9932"
+  nearby_rate_centers:
+  - name: GAS HILLS
+    distance_km: 56.29
+  - name: CASPER
+    distance_km: 58.91
+  - name: MIDWEST
+    distance_km: 70.66
+- country: US
+  region: WY
+  name: Powell
+  lat: '44.7958'
+  long: "-108.7681"
+  nearby_rate_centers:
+  - name: POWELL
+    distance_km: 5.29
+  - name: FRANNIE
+    distance_km: 22.31
+  - name: LOVELL
+    distance_km: 30.12
+- country: US
+  region: WY
+  name: Purple Sage
+  lat: '41.5515'
+  long: "-109.3199"
+  nearby_rate_centers:
+  - name: ROCK SPG
+    distance_km: 9.86
+  - name: GREENRIVER
+    distance_km: 11.88
+  - name: FARSON
+    distance_km: 62.41
+- country: US
+  region: WY
+  name: Rafter J Ranch
+  lat: '43.4317'
+  long: "-110.7924"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 5.34
+  - name: ALPINE
+    distance_km: 34.51
+  - name: ALTA
+    distance_km: 42.03
+- country: US
+  region: WY
+  name: Ralston
+  lat: '44.7085'
+  long: "-108.8823"
+  nearby_rate_centers:
+  - name: POWELL
+    distance_km: 10.98
+  - name: CODY
+    distance_km: 23.73
+  - name: CLARK
+    distance_km: 33.05
+- country: US
+  region: WY
+  name: Ranchester
+  lat: '44.9075'
+  long: "-107.1674"
+  nearby_rate_centers:
+  - name: DYTNRNCHTR
+    distance_km: 15.2
+  - name: SHERIDAN
+    distance_km: 20.73
+  - name: SOUTHWYOLA
+    distance_km: 21.32
+- country: US
+  region: WY
+  name: Ranchettes
+  lat: '41.2186'
+  long: "-104.7729"
+  nearby_rate_centers:
+  - name: CHEYENNE
+    distance_km: 9.54
+  - name: BURNS
+    distance_km: 35.0
+  - name: CARPENTER
+    distance_km: 39.38
+- country: US
+  region: WY
+  name: Rawlins
+  lat: '41.7849'
+  long: "-107.2265"
+  nearby_rate_centers:
+  - name: RAWLINS
+    distance_km: 0.72
+  - name: SARATOGA
+    distance_km: 50.57
+  - name: HANNA
+    distance_km: 55.42
+- country: US
+  region: WY
+  name: Red Butte
+  lat: '42.8051'
+  long: "-106.4340"
+  nearby_rate_centers:
+  - name: CASPER
+    distance_km: 9.63
+  - name: GLENROCK
+    distance_km: 47.2
+  - name: SHIRLEBSIN
+    distance_km: 59.41
+- country: US
+  region: WY
+  name: Reliance
+  lat: '41.6682'
+  long: "-109.1977"
+  nearby_rate_centers:
+  - name: ROCK SPG
+    distance_km: 8.58
+  - name: GREENRIVER
+    distance_km: 26.5
+  - name: FARSON
+    distance_km: 52.45
+- country: US
+  region: WY
+  name: Riverside
+  lat: '41.2154'
+  long: "-106.7813"
+  nearby_rate_centers:
+  - name: ENCAMPMENT
+    distance_km: 1.05
+  - name: SARATOGA
+    distance_km: 27.3
+  - name: RAWLINS
+    distance_km: 74.08
+- country: US
+  region: WY
+  name: Riverton
+  lat: '43.0421'
+  long: "-108.4144"
+  nearby_rate_centers:
+  - name: RIVERTON
+    distance_km: 2.99
+  - name: SHOSHONI
+    distance_km: 32.46
+  - name: LANDER
+    distance_km: 35.02
+- country: US
+  region: WY
+  name: Robertson
+  lat: '41.1816'
+  long: "-110.4274"
+  nearby_rate_centers:
+  - name: MT VIEW
+    distance_km: 13.02
+  - name: URIE
+    distance_km: 16.06
+  - name: LYMAN
+    distance_km: 21.89
+- country: US
+  region: WY
+  name: Rock River
+  lat: '41.7317'
+  long: "-105.9752"
+  nearby_rate_centers:
+  - name: ROCK RIVER
+    distance_km: 0.95
+  - name: MEDICINBOW
+    distance_km: 26.53
+  - name: HANNA
+    distance_km: 51.27
+- country: US
+  region: WY
+  name: Rock Springs
+  lat: '41.5947'
+  long: "-109.2209"
+  nearby_rate_centers:
+  - name: ROCK SPG
+    distance_km: 0.61
+  - name: GREENRIVER
+    distance_km: 21.07
+  - name: FARSON
+    distance_km: 59.53
+- country: US
+  region: WY
+  name: Rolling Hills
+  lat: '42.9035'
+  long: "-105.8434"
+  nearby_rate_centers:
+  - name: GLENROCK
+    distance_km: 5.19
+  - name: CASPER
+    distance_km: 40.01
+  - name: DOUGLAS
+    distance_km: 42.15
+- country: US
+  region: WY
+  name: Ryan Park
+  lat: '41.3131'
+  long: "-106.4896"
+  nearby_rate_centers:
+  - name: ENCAMPMENT
+    distance_km: 27.71
+  - name: SARATOGA
+    distance_km: 30.65
+  - name: HANNA
+    distance_km: 61.87
+- country: US
+  region: WY
+  name: Saratoga
+  lat: '41.4517'
+  long: "-106.8107"
+  nearby_rate_centers:
+  - name: SARATOGA
+    distance_km: 1.32
+  - name: ENCAMPMENT
+    distance_km: 26.97
+  - name: HANNA
+    distance_km: 50.39
+- country: US
+  region: WY
+  name: Shell
+  lat: '44.5346'
+  long: "-107.7844"
+  nearby_rate_centers:
+  - name: GREYBULL
+    distance_km: 21.62
+  - name: BASIN
+    distance_km: 26.87
+  - name: HYATTVILLE
+    distance_km: 34.86
+- country: US
+  region: WY
+  name: Sheridan
+  lat: '44.7961'
+  long: "-106.9642"
+  nearby_rate_centers:
+  - name: SHERIDAN
+    distance_km: 1.14
+  - name: SOUTHESRDN
+    distance_km: 7.99
+  - name: DECKER
+    distance_km: 27.0
+- country: US
+  region: WY
+  name: Shoshoni
+  lat: '43.2381'
+  long: "-108.1068"
+  nearby_rate_centers:
+  - name: SHOSHONI
+    distance_km: 0.72
+  - name: RIVERTON
+    distance_km: 32.47
+  - name: THERMOPOLS
+    distance_km: 45.54
+- country: US
+  region: WY
+  name: Sinclair
+  lat: '41.7761'
+  long: "-107.1199"
+  nearby_rate_centers:
+  - name: RAWLINS
+    distance_km: 9.46
+  - name: SARATOGA
+    distance_km: 44.03
+  - name: HANNA
+    distance_km: 46.93
+- country: US
+  region: WY
+  name: Slater
+  lat: '41.8776'
+  long: "-104.7887"
+  nearby_rate_centers:
+  - name: CHUGWATER
+    distance_km: 13.54
+  - name: WHEATLAND
+    distance_km: 23.23
+  - name: GUERNSEY
+    distance_km: 43.85
+- country: US
+  region: WY
+  name: Sleepy Hollow
+  lat: '44.2327'
+  long: "-105.4309"
+  nearby_rate_centers:
+  - name: GILLETTE
+    distance_km: 8.15
+  - name: MOORCROFT
+    distance_km: 38.62
+  - name: WRIGHT
+    distance_km: 52.9
+- country: US
+  region: WY
+  name: Smoot
+  lat: '42.6184'
+  long: "-110.9155"
+  nearby_rate_centers:
+  - name: AFTON
+    distance_km: 11.8
+  - name: FREEDOM
+    distance_km: 41.22
+  - name: BORDER
+    distance_km: 51.21
+- country: US
+  region: WY
+  name: South Greeley
+  lat: '41.0929'
+  long: "-104.8066"
+  nearby_rate_centers:
+  - name: CHEYENNE
+    distance_km: 5.21
+  - name: CARPENTER
+    distance_km: 37.32
+  - name: BURNS
+    distance_km: 39.3
+- country: US
+  region: WY
+  name: South Park
+  lat: '43.4234'
+  long: "-110.7994"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 6.42
+  - name: ALPINE
+    distance_km: 33.43
+  - name: ALTA
+    distance_km: 42.61
+- country: US
+  region: WY
+  name: Star Valley Ranch
+  lat: '42.9798'
+  long: "-110.9617"
+  nearby_rate_centers:
+  - name: FREEDOM
+    distance_km: 5.23
+  - name: ALPINE
+    distance_km: 21.21
+  - name: AFTON
+    distance_km: 28.56
+- country: US
+  region: WY
+  name: Story
+  lat: '44.5731'
+  long: "-106.9142"
+  nearby_rate_centers:
+  - name: SHERIDAN
+    distance_km: 25.52
+  - name: SOUTHESRDN
+    distance_km: 29.21
+  - name: BUFFALO
+    distance_km: 30.67
+- country: US
+  region: WY
+  name: Sundance
+  lat: '44.4048'
+  long: "-104.3626"
+  nearby_rate_centers:
+  - name: SUNDANCE
+    distance_km: 0.93
+  - name: WSPEARFISH
+    distance_km: 25.13
+  - name: HULETT
+    distance_km: 36.32
+- country: US
+  region: WY
+  name: Superior
+  lat: '41.7595'
+  long: "-108.9643"
+  nearby_rate_centers:
+  - name: ROCK SPG
+    distance_km: 27.9
+  - name: GREENRIVER
+    distance_km: 48.3
+  - name: FARSON
+    distance_km: 54.62
+- country: US
+  region: WY
+  name: Table Rock
+  lat: '41.6220'
+  long: "-108.4040"
+  nearby_rate_centers:
+  - name: ROCK SPG
+    distance_km: 67.47
+  - name: GREENRIVER
+    distance_km: 88.44
+  - name: BAGGS
+    distance_km: 89.8
+- country: US
+  region: WY
+  name: Taylor
+  lat: '42.0692'
+  long: "-110.9865"
+  nearby_rate_centers:
+  - name: COKEVILLE
+    distance_km: 2.63
+  - name: BORDER
+    distance_km: 11.86
+  - name: KEMMERER
+    distance_km: 47.72
+- country: US
+  region: WY
+  name: Ten Sleep
+  lat: '44.0350'
+  long: "-107.4482"
+  nearby_rate_centers:
+  - name: TEN SLEEP
+    distance_km: 0.15
+  - name: HYATTVILLE
+    distance_km: 26.82
+  - name: WORLAND
+    distance_km: 40.67
+- country: US
+  region: WY
+  name: Teton Village
+  lat: '43.5907'
+  long: "-110.8419"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 14.68
+  - name: ALTA
+    distance_km: 24.9
+  - name: LEIGHCNYON
+    distance_km: 25.55
+- country: US
+  region: WY
+  name: Thayne
+  lat: '42.9194'
+  long: "-110.9968"
+  nearby_rate_centers:
+  - name: FREEDOM
+    distance_km: 7.15
+  - name: AFTON
+    distance_km: 22.39
+  - name: ALPINE
+    distance_km: 27.53
+- country: US
+  region: WY
+  name: Thermopolis
+  lat: '43.6479'
+  long: "-108.2139"
+  nearby_rate_centers:
+  - name: THERMOPOLS
+    distance_km: 0.91
+  - name: HAMITNDOME
+    distance_km: 31.74
+  - name: WORLAND
+    distance_km: 45.95
+- country: US
+  region: WY
+  name: Torrington
+  lat: '42.0653'
+  long: "-104.1737"
+  nearby_rate_centers:
+  - name: TORRINGTON
+    distance_km: 0.8
+  - name: LINGLE
+    distance_km: 15.43
+  - name: WEST LYMAN
+    distance_km: 20.01
+- country: US
+  region: WY
+  name: Turnerville
+  lat: '42.8624'
+  long: "-110.9007"
+  nearby_rate_centers:
+  - name: AFTON
+    distance_km: 15.6
+  - name: FREEDOM
+    distance_km: 16.59
+  - name: ALPINE
+    distance_km: 35.07
+- country: US
+  region: WY
+  name: Upton
+  lat: '44.1039'
+  long: "-104.6362"
+  nearby_rate_centers:
+  - name: UPTON
+    distance_km: 1.15
+  - name: MOORCROFT
+    distance_km: 30.58
+  - name: SUNDANCE
+    distance_km: 39.82
+- country: US
+  region: WY
+  name: Urie
+  lat: '41.3089'
+  long: "-110.3351"
+  nearby_rate_centers:
+  - name: URIE
+    distance_km: 0.09
+  - name: MT VIEW
+    distance_km: 3.74
+  - name: LYMAN
+    distance_km: 5.77
+- country: US
+  region: WY
+  name: Van Tassell
+  lat: '42.6643'
+  long: "-104.0913"
+  nearby_rate_centers:
+  - name: LUSK
+    distance_km: 30.48
+  - name: LINGLE
+    distance_km: 62.22
+  - name: TORRINGTON
+    distance_km: 67.01
+- country: US
+  region: WY
+  name: Veteran
+  lat: '41.9627'
+  long: "-104.3862"
+  nearby_rate_centers:
+  - name: LINGLE
+    distance_km: 19.57
+  - name: TORRINGTON
+    distance_km: 20.29
+  - name: WEST LYMAN
+    distance_km: 29.18
+- country: US
+  region: WY
+  name: Vista West
+  lat: '42.8622'
+  long: "-106.4363"
+  nearby_rate_centers:
+  - name: CASPER
+    distance_km: 9.18
+  - name: GLENROCK
+    distance_km: 47.0
+  - name: MIDWEST
+    distance_km: 62.99
+- country: US
+  region: WY
+  name: Wamsutter
+  lat: '41.6680'
+  long: "-107.9792"
+  nearby_rate_centers:
+  - name: RAWLINS
+    distance_km: 63.42
+  - name: BAGGS
+    distance_km: 74.87
+  - name: JEFFREY CY
+    distance_km: 93.79
+- country: US
+  region: WY
+  name: Warren AFB
+  lat: '41.1488'
+  long: "-104.8618"
+  nearby_rate_centers:
+  - name: CHEYENNE
+    distance_km: 3.97
+  - name: BURNS
+    distance_km: 42.6
+  - name: CARPENTER
+    distance_km: 43.2
+- country: US
+  region: WY
+  name: Washam
+  lat: '41.0056'
+  long: "-109.6992"
+  nearby_rate_centers:
+  - name: MANILA
+    distance_km: 1.75
+  - name: MT VIEW
+    distance_km: 61.03
+  - name: GREENRIVER
+    distance_km: 61.99
+- country: US
+  region: WY
+  name: Westview Circle
+  lat: '42.0605'
+  long: "-105.0715"
+  nearby_rate_centers:
+  - name: WHEATLAND
+    distance_km: 10.03
+  - name: GUERNSEY
+    distance_km: 35.99
+  - name: CHUGWATER
+    distance_km: 39.35
+- country: US
+  region: WY
+  name: Wheatland
+  lat: '42.0517'
+  long: "-104.9595"
+  nearby_rate_centers:
+  - name: WHEATLAND
+    distance_km: 0.8
+  - name: GUERNSEY
+    distance_km: 30.35
+  - name: CHUGWATER
+    distance_km: 34.48
+- country: US
+  region: WY
+  name: Whiting
+  lat: '42.0089'
+  long: "-104.9711"
+  nearby_rate_centers:
+  - name: WHEATLAND
+    distance_km: 4.65
+  - name: CHUGWATER
+    distance_km: 30.4
+  - name: GUERNSEY
+    distance_km: 34.8
+- country: US
+  region: WY
+  name: Wilson
+  lat: '43.4860'
+  long: "-110.8937"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 10.96
+  - name: ALTA
+    distance_km: 33.23
+  - name: LEIGHCNYON
+    distance_km: 34.91
+- country: US
+  region: WY
+  name: Woods Landing-Jelm
+  lat: '41.1014'
+  long: "-106.0288"
+  nearby_rate_centers:
+  - name: LARAMIE
+    distance_km: 43.17
+  - name: ENCAMPMENT
+    distance_km: 64.95
+  - name: ROCK RIVER
+    distance_km: 71.17
+- country: US
+  region: WY
+  name: Worland
+  lat: '44.0025'
+  long: "-107.9544"
+  nearby_rate_centers:
+  - name: WORLAND
+    distance_km: 1.62
+  - name: HYATTVILLE
+    distance_km: 39.32
+  - name: TEN SLEEP
+    distance_km: 40.51
+- country: US
+  region: WY
+  name: Wright
+  lat: '43.7492'
+  long: "-105.4948"
+  nearby_rate_centers:
+  - name: WRIGHT
+    distance_km: 1.32
+  - name: GILLETTE
+    distance_km: 60.47
+  - name: MOORCROFT
+    distance_km: 72.04
+- country: US
+  region: WY
+  name: Y-O Ranch
+  lat: '42.0351'
+  long: "-104.9230"
+  nearby_rate_centers:
+  - name: WHEATLAND
+    distance_km: 2.74
+  - name: GUERNSEY
+    distance_km: 30.23
+  - name: CHUGWATER
+    distance_km: 31.83
+- country: US
+  region: WY
+  name: Yoder
+  lat: '41.9170'
+  long: "-104.2955"
+  nearby_rate_centers:
+  - name: TORRINGTON
+    distance_km: 18.94
+  - name: WEST LYMAN
+    distance_km: 21.22
+  - name: LINGLE
+    distance_km: 24.43

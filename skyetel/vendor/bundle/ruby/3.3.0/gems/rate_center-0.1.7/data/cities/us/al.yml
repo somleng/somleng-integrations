@@ -1,0 +1,7116 @@
+---
+cities:
+- country: US
+  region: AL
+  name: Abanda
+  lat: '33.0926'
+  long: "-85.5253"
+  nearby_rate_centers:
+  - name: WADLEY
+    distance_km: 4.67
+  - name: ROANOKE
+    distance_km: 16.62
+  - name: WEDOWEE
+    distance_km: 23.21
+- country: US
+  region: AL
+  name: Abbeville
+  lat: '31.5664'
+  long: "-85.2528"
+  nearby_rate_centers:
+  - name: ABBEVILLE
+    distance_km: 0.73
+  - name: NEWVILLE
+    distance_km: 17.65
+  - name: ECHO
+    distance_km: 22.68
+- country: US
+  region: AL
+  name: Adamsville
+  lat: '33.6073'
+  long: "-86.9740"
+  nearby_rate_centers:
+  - name: GRAYSVILLE
+    distance_km: 2.75
+  - name: GARDENDALE
+    distance_km: 15.51
+  - name: DORA
+    distance_km: 17.62
+- country: US
+  region: AL
+  name: Addison
+  lat: '34.2017'
+  long: "-87.1765"
+  nearby_rate_centers:
+  - name: GRAYSON
+    distance_km: 14.01
+  - name: DOUBLE SPG
+    distance_km: 21.52
+  - name: MASSEY
+    distance_km: 23.88
+- country: US
+  region: AL
+  name: Akron
+  lat: '32.8785'
+  long: "-87.7429"
+  nearby_rate_centers:
+  - name: EUTAW
+    distance_km: 14.49
+  - name: MOUNDVILLE
+    distance_km: 17.22
+  - name: GREENSBORO
+    distance_km: 23.43
+- country: US
+  region: AL
+  name: Alabaster
+  lat: '33.2198'
+  long: "-86.8225"
+  nearby_rate_centers:
+  - name: ALABASTER
+    distance_km: 1.6
+  - name: CALERA
+    distance_km: 14.01
+  - name: MONTEVALLO
+    distance_km: 14.13
+- country: US
+  region: AL
+  name: Albertville
+  lat: '34.2633'
+  long: "-86.2108"
+  nearby_rate_centers:
+  - name: ALBERTVL
+    distance_km: 0.46
+  - name: BOAZ
+    distance_km: 7.19
+  - name: GUNTERSVL
+    distance_km: 12.8
+- country: US
+  region: AL
+  name: Alexander City
+  lat: '32.9229'
+  long: "-85.9358"
+  nearby_rate_centers:
+  - name: ALEXANDRCY
+    distance_km: 2.67
+  - name: DADEVILLE
+    distance_km: 19.56
+  - name: GOODWATER
+    distance_km: 19.63
+- country: US
+  region: AL
+  name: Alexandria
+  lat: '33.7675'
+  long: "-85.8792"
+  nearby_rate_centers:
+  - name: OHATCHEE
+    distance_km: 8.05
+  - name: JACKSONVL
+    distance_km: 12.36
+  - name: ANNISTON
+    distance_km: 12.77
+- country: US
+  region: AL
+  name: Aliceville
+  lat: '33.1237'
+  long: "-88.1593"
+  nearby_rate_centers:
+  - name: ALICEVILLE
+    distance_km: 1.05
+  - name: CARROLLTON
+    distance_km: 16.47
+  - name: PANOLA
+    distance_km: 22.52
+- country: US
+  region: AL
+  name: Allgood
+  lat: '33.9064'
+  long: "-86.5178"
+  nearby_rate_centers:
+  - name: ONEONTA
+    distance_km: 6.6
+  - name: NECTAR
+    distance_km: 11.47
+  - name: SPRINGVL
+    distance_km: 15.41
+- country: US
+  region: AL
+  name: Altoona
+  lat: '34.0308'
+  long: "-86.3179"
+  nearby_rate_centers:
+  - name: WALNUT GRV
+    distance_km: 4.34
+  - name: SNEAD
+    distance_km: 12.83
+  - name: ONEONTA
+    distance_km: 16.54
+- country: US
+  region: AL
+  name: Andalusia
+  lat: '31.3102'
+  long: "-86.4781"
+  nearby_rate_centers:
+  - name: ANDALUSIA
+    distance_km: 0.9
+  - name: GANTT
+    distance_km: 11.23
+  - name: RED LEVEL
+    distance_km: 16.48
+- country: US
+  region: AL
+  name: Anderson
+  lat: '34.9147'
+  long: "-87.2716"
+  nearby_rate_centers:
+  - name: ROGERSVL
+    distance_km: 10.45
+  - name: LEXINGTON
+    distance_km: 10.59
+  - name: KILLEN
+    distance_km: 21.97
+- country: US
+  region: AL
+  name: Anniston
+  lat: '33.6712'
+  long: "-85.8135"
+  nearby_rate_centers:
+  - name: ANNISTON
+    distance_km: 2.24
+  - name: JACKSONVL
+    distance_km: 16.67
+  - name: OHATCHEE
+    distance_km: 18.08
+- country: US
+  region: AL
+  name: Arab
+  lat: '34.3309'
+  long: "-86.4991"
+  nearby_rate_centers:
+  - name: ARAB
+    distance_km: 1.82
+  - name: UNIONGROVE
+    distance_km: 8.57
+  - name: GUNTERSVL
+    distance_km: 18.26
+- country: US
+  region: AL
+  name: Ardmore
+  lat: '34.9847'
+  long: "-86.8373"
+  nearby_rate_centers:
+  - name: ARDMORE
+    distance_km: 0.72
+  - name: ARDMORE-MA
+    distance_km: 0.72
+  - name: ELKMONT
+    distance_km: 14.19
+  - name: VETO
+    distance_km: 14.76
+- country: US
+  region: AL
+  name: Argo
+  lat: '33.6963'
+  long: "-86.5063"
+  nearby_rate_centers:
+  - name: ODENVILLE
+    distance_km: 9.19
+  - name: SPRINGVL
+    distance_km: 9.49
+  - name: TRUSSVILLE
+    distance_km: 12.47
+- country: US
+  region: AL
+  name: Ariton
+  lat: '31.5978'
+  long: "-85.7131"
+  nearby_rate_centers:
+  - name: ARITON
+    distance_km: 1.46
+  - name: CLIO
+    distance_km: 15.41
+  - name: BRUNDIDGE
+    distance_km: 16.57
+- country: US
+  region: AL
+  name: Arley
+  lat: '34.0885'
+  long: "-87.2075"
+  nearby_rate_centers:
+  - name: DOUBLE SPG
+    distance_km: 19.21
+  - name: GRAYSON
+    distance_km: 22.87
+  - name: NAUVOO
+    distance_km: 28.17
+- country: US
+  region: AL
+  name: Ashford
+  lat: '31.1858'
+  long: "-85.2359"
+  nearby_rate_centers:
+  - name: ASHFORD
+    distance_km: 0.45
+  - name: GORDON
+    distance_km: 13.74
+  - name: DOTHAN
+    distance_km: 15.4
+- country: US
+  region: AL
+  name: Ashland
+  lat: '33.2703'
+  long: "-85.8337"
+  nearby_rate_centers:
+  - name: ASHLAND
+    distance_km: 0.57
+  - name: LINEVILLE
+    distance_km: 10.03
+  - name: DELTA
+    distance_km: 23.16
+- country: US
+  region: AL
+  name: Ashville
+  lat: '33.8331'
+  long: "-86.2698"
+  nearby_rate_centers:
+  - name: ASHVILLE
+    distance_km: 1.67
+  - name: RAGLAND
+    distance_km: 14.75
+  - name: SPRINGVL
+    distance_km: 19.24
+- country: US
+  region: AL
+  name: Athens
+  lat: '34.7843'
+  long: "-86.9503"
+  nearby_rate_centers:
+  - name: ATHENS
+    distance_km: 3.71
+  - name: ELKMONT
+    distance_km: 15.56
+  - name: DECATUR
+    distance_km: 19.73
+- country: US
+  region: AL
+  name: Atmore
+  lat: '31.0927'
+  long: "-87.4762"
+  nearby_rate_centers:
+  - name: ATMORE
+    distance_km: 8.46
+  - name: MCCULLOUGH
+    distance_km: 9.37
+  - name: HUXFORD
+    distance_km: 13.78
+- country: US
+  region: AL
+  name: Attalla
+  lat: '34.0050'
+  long: "-86.1039"
+  nearby_rate_centers:
+  - name: ATTALLA
+    distance_km: 1.98
+  - name: GADSDEN
+    distance_km: 8.81
+  - name: WALNUT GRV
+    distance_km: 19.57
+- country: US
+  region: AL
+  name: Auburn
+  lat: '32.6087'
+  long: "-85.4903"
+  nearby_rate_centers:
+  - name: AUBURN
+    distance_km: 1.21
+  - name: OPELIKA
+    distance_km: 10.6
+  - name: NOTASULGA
+    distance_km: 17.8
+- country: US
+  region: AL
+  name: Autaugaville
+  lat: '32.4320'
+  long: "-86.6578"
+  nearby_rate_centers:
+  - name: LOWNDESBO
+    distance_km: 17.7
+  - name: PRATTVILLE
+    distance_km: 18.47
+  - name: GORDONSVL
+    distance_km: 29.98
+- country: US
+  region: AL
+  name: Avon
+  lat: '31.1797'
+  long: "-85.2790"
+  nearby_rate_centers:
+  - name: ASHFORD
+    distance_km: 3.72
+  - name: DOTHAN
+    distance_km: 11.79
+  - name: COTTONWOOD
+    distance_km: 14.58
+- country: US
+  region: AL
+  name: Axis
+  lat: '30.9309'
+  long: "-88.0180"
+  nearby_rate_centers:
+  - name: MT VERNON
+    distance_km: 17.12
+  - name: BAYMINETTE
+    distance_km: 23.78
+  - name: MOBILE
+    distance_km: 26.7
+- country: US
+  region: AL
+  name: Babbie
+  lat: '31.3022'
+  long: "-86.3229"
+  nearby_rate_centers:
+  - name: OPP
+    distance_km: 5.73
+  - name: ANDALUSIA
+    distance_km: 15.27
+  - name: KINSTON
+    distance_km: 17.0
+- country: US
+  region: AL
+  name: Baileyton
+  lat: '34.2609'
+  long: "-86.6083"
+  nearby_rate_centers:
+  - name: ARAB
+    distance_km: 11.51
+  - name: ODEN RIDGE
+    distance_km: 18.78
+  - name: BLOUNTSVL
+    distance_km: 19.9
+- country: US
+  region: AL
+  name: Bakerhill
+  lat: '31.7769'
+  long: "-85.2955"
+  nearby_rate_centers:
+  - name: CLAYTON
+    distance_km: 18.65
+  - name: EUFAULA
+    distance_km: 18.92
+  - name: ABBEVILLE
+    distance_km: 23.14
+- country: US
+  region: AL
+  name: Ballplay
+  lat: '34.0179'
+  long: "-85.7852"
+  nearby_rate_centers:
+  - name: CENTRE
+    distance_km: 18.21
+  - name: LEESBURG
+    distance_km: 18.26
+  - name: PIEDMONT
+    distance_km: 19.72
+- country: US
+  region: AL
+  name: Banks
+  lat: '31.8132'
+  long: "-85.8364"
+  nearby_rate_centers:
+  - name: BANKS
+    distance_km: 1.17
+  - name: BRUNDIDGE
+    distance_km: 10.94
+  - name: TROY
+    distance_km: 13.13
+- country: US
+  region: AL
+  name: Bay Minette
+  lat: '30.8930'
+  long: "-87.7912"
+  nearby_rate_centers:
+  - name: BAYMINETTE
+    distance_km: 1.8
+  - name: MT VERNON
+    distance_km: 29.84
+  - name: LOXLEY
+    distance_km: 30.11
+- country: US
+  region: AL
+  name: Bayou La Batre
+  lat: '30.4126'
+  long: "-88.2611"
+  nearby_rate_centers:
+  - name: BAYOUBATRE
+    distance_km: 2.13
+  - name: FOWL RIVER
+    distance_km: 10.36
+  - name: GRAND BAY
+    distance_km: 10.54
+- country: US
+  region: AL
+  name: Bear Creek
+  lat: '34.2651'
+  long: "-87.7164"
+  nearby_rate_centers:
+  - name: PHILCMPBLL
+    distance_km: 9.24
+  - name: HALEYVILLE
+    distance_km: 10.09
+  - name: HACKLEBURG
+    distance_km: 10.5
+- country: US
+  region: AL
+  name: Beatrice
+  lat: '31.7332'
+  long: "-87.2090"
+  nearby_rate_centers:
+  - name: BEATRICE
+    distance_km: 1.3
+  - name: VREDENBG
+    distance_km: 14.57
+  - name: PETERMAN
+    distance_km: 17.64
+- country: US
+  region: AL
+  name: Beaverton
+  lat: '33.9354'
+  long: "-88.0218"
+  nearby_rate_centers:
+  - name: GUIN
+    distance_km: 10.62
+  - name: SULLIGENT
+    distance_km: 10.7
+  - name: DETROIT
+    distance_km: 16.2
+- country: US
+  region: AL
+  name: Belgreen
+  lat: '34.4767'
+  long: "-87.8653"
+  nearby_rate_centers:
+  - name: RUSSELLVL
+    distance_km: 12.6
+  - name: PHILCMPBLL
+    distance_km: 20.21
+  - name: HACKLEBURG
+    distance_km: 22.62
+- country: US
+  region: AL
+  name: Belk
+  lat: '33.6517'
+  long: "-87.9286"
+  nearby_rate_centers:
+  - name: KENNEDY
+    distance_km: 9.23
+  - name: FAYETTE
+    distance_km: 10.14
+  - name: MILLPORT
+    distance_km: 16.9
+- country: US
+  region: AL
+  name: Bellamy
+  lat: '32.4582'
+  long: "-88.1277"
+  nearby_rate_centers:
+  - name: LIVINGSTON
+    distance_km: 14.77
+  - name: YORK
+    distance_km: 16.54
+  - name: PENNINGTON
+    distance_km: 27.76
+- country: US
+  region: AL
+  name: Belle Fontaine
+  lat: '30.4920'
+  long: "-88.1131"
+  nearby_rate_centers:
+  - name: BELLEFONTN
+    distance_km: 3.67
+  - name: FOWL RIVER
+    distance_km: 6.36
+  - name: IRNGTNSTEL
+    distance_km: 13.91
+- country: US
+  region: AL
+  name: Benton
+  lat: '32.3078'
+  long: "-86.8180"
+  nearby_rate_centers:
+  - name: GORDONSVL
+    distance_km: 17.16
+  - name: LOWNDESBO
+    distance_km: 20.16
+  - name: SELMA
+    distance_km: 22.76
+- country: US
+  region: AL
+  name: Berlin
+  lat: '34.1862'
+  long: "-86.7473"
+  nearby_rate_centers:
+  - name: CULLMAN
+    distance_km: 8.86
+  - name: HANCEVILLE
+    distance_km: 13.34
+  - name: BLOUNTSVL
+    distance_km: 19.1
+- country: US
+  region: AL
+  name: Berry
+  lat: '33.6623'
+  long: "-87.6079"
+  nearby_rate_centers:
+  - name: BERRY
+    distance_km: 1.03
+  - name: FLATWOOD
+    distance_km: 20.75
+  - name: OAKMAN
+    distance_km: 20.89
+- country: US
+  region: AL
+  name: Bessemer
+  lat: '33.3712'
+  long: "-86.9728"
+  nearby_rate_centers:
+  - name: BESSEMER
+    distance_km: 3.5
+  - name: ALABASTER
+    distance_km: 20.74
+  - name: BIRMINGHAM
+    distance_km: 22.1
+- country: US
+  region: AL
+  name: Billingsley
+  lat: '32.6610'
+  long: "-86.7087"
+  nearby_rate_centers:
+  - name: MAPLESVL
+    distance_km: 20.68
+  - name: CLANTON
+    distance_km: 21.19
+  - name: THORSBY
+    distance_km: 28.34
+- country: US
+  region: AL
+  name: Birmingham
+  lat: '33.5279'
+  long: "-86.7971"
+  nearby_rate_centers:
+  - name: BIRMINGHAM
+    distance_km: 1.76
+  - name: GARDENDALE
+    distance_km: 13.57
+  - name: GRAYSVILLE
+    distance_km: 20.1
+- country: US
+  region: AL
+  name: Black
+  lat: '31.0099'
+  long: "-85.7440"
+  nearby_rate_centers:
+  - name: HARTFORD
+    distance_km: 11.1
+  - name: GENEVA
+    distance_km: 11.72
+  - name: SLOCOMB
+    distance_km: 18.53
+- country: US
+  region: AL
+  name: Blountsville
+  lat: '34.0814'
+  long: "-86.5867"
+  nearby_rate_centers:
+  - name: BLOUNTSVL
+    distance_km: 0.57
+  - name: NECTAR
+    distance_km: 12.85
+  - name: HANCEVILLE
+    distance_km: 16.66
+- country: US
+  region: AL
+  name: Blue Ridge
+  lat: '32.5010'
+  long: "-86.1839"
+  nearby_rate_centers:
+  - name: WETUMPKA
+    distance_km: 6.02
+  - name: MONTGOMERY
+    distance_km: 17.87
+  - name: HOLTVILLE
+    distance_km: 19.69
+- country: US
+  region: AL
+  name: Blue Springs
+  lat: '31.6635'
+  long: "-85.5035"
+  nearby_rate_centers:
+  - name: CLIO
+    distance_km: 11.81
+  - name: LOUISVILLE
+    distance_km: 15.14
+  - name: ECHO
+    distance_km: 22.02
+- country: US
+  region: AL
+  name: Boaz
+  lat: '34.1985'
+  long: "-86.1529"
+  nearby_rate_centers:
+  - name: BOAZ
+    distance_km: 1.78
+  - name: ARONEY
+    distance_km: 6.98
+  - name: ALBERTVL
+    distance_km: 9.32
+- country: US
+  region: AL
+  name: Boligee
+  lat: '32.7699'
+  long: "-88.0264"
+  nearby_rate_centers:
+  - name: EUTAW
+    distance_km: 14.85
+  - name: LIVINGSTON
+    distance_km: 25.33
+  - name: PANOLA
+    distance_km: 29.33
+- country: US
+  region: AL
+  name: Bon Air
+  lat: '33.2621'
+  long: "-86.3319"
+  nearby_rate_centers:
+  - name: CHILDERSBG
+    distance_km: 2.15
+  - name: SYLACAUGA
+    distance_km: 13.0
+  - name: VINCENT
+    distance_km: 15.73
+- country: US
+  region: AL
+  name: Bon Secour
+  lat: '30.3222'
+  long: "-87.7271"
+  nearby_rate_centers:
+  - name: BON SECOUR
+    distance_km: 3.53
+  - name: GULFSHORES
+    distance_km: 8.19
+  - name: FOLEY
+    distance_km: 10.41
+  - name: MARLOW
+    distance_km: 10.41
+- country: US
+  region: AL
+  name: Boykin
+  lat: '32.0696'
+  long: "-87.2915"
+  nearby_rate_centers:
+  - name: CAMDEN
+    distance_km: 8.88
+  - name: CATHERINE
+    distance_km: 20.72
+  - name: ALBERTA
+    distance_km: 21.29
+- country: US
+  region: AL
+  name: Brantley
+  lat: '31.5823'
+  long: "-86.2569"
+  nearby_rate_centers:
+  - name: BRANTLEY
+    distance_km: 0.91
+  - name: DOZIER
+    distance_km: 13.86
+  - name: LUVERNE
+    distance_km: 15.87
+- country: US
+  region: AL
+  name: Brantleyville
+  lat: '33.2196'
+  long: "-86.8820"
+  nearby_rate_centers:
+  - name: ALABASTER
+    distance_km: 5.85
+  - name: MONTEVALLO
+    distance_km: 13.48
+  - name: CALERA
+    distance_km: 17.3
+- country: US
+  region: AL
+  name: Brent
+  lat: '32.9421'
+  long: "-87.1753"
+  nearby_rate_centers:
+  - name: CENTREVL
+    distance_km: 3.82
+  - name: W BLOCTON
+    distance_km: 19.75
+  - name: MAPLESVL
+    distance_km: 33.11
+- country: US
+  region: AL
+  name: Brewton
+  lat: '31.1113'
+  long: "-87.0737"
+  nearby_rate_centers:
+  - name: BREWTON
+    distance_km: 1.02
+  - name: FLOMATON
+    distance_km: 21.38
+  - name: CASTLEBRY
+    distance_km: 22.41
+- country: US
+  region: AL
+  name: Bridgeport
+  lat: '34.9496'
+  long: "-85.7243"
+  nearby_rate_centers:
+  - name: BRIDGEPORT
+    distance_km: 0.09
+  - name: BRYANT
+    distance_km: 10.68
+  - name: STEVENSON
+    distance_km: 13.47
+- country: US
+  region: AL
+  name: Brighton
+  lat: '33.4396'
+  long: "-86.9454"
+  nearby_rate_centers:
+  - name: BESSEMER
+    distance_km: 4.54
+  - name: BIRMINGHAM
+    distance_km: 15.16
+  - name: GRAYSVILLE
+    distance_km: 21.57
+- country: US
+  region: AL
+  name: Brilliant
+  lat: '34.0256'
+  long: "-87.7691"
+  nearby_rate_centers:
+  - name: BRILLIANT
+    distance_km: 0.37
+  - name: WINFIELD
+    distance_km: 11.35
+  - name: GUIN
+    distance_km: 14.75
+- country: US
+  region: AL
+  name: Bristow Cove
+  lat: '34.1092'
+  long: "-86.2410"
+  nearby_rate_centers:
+  - name: WALNUT GRV
+    distance_km: 7.3
+  - name: BOAZ
+    distance_km: 13.21
+  - name: SNEAD
+    distance_km: 14.45
+- country: US
+  region: AL
+  name: Brook Highland
+  lat: '33.4359'
+  long: "-86.6849"
+  nearby_rate_centers:
+  - name: CHELSEA
+    distance_km: 11.85
+  - name: BIRMINGHAM
+    distance_km: 14.74
+  - name: LEEDS
+    distance_km: 18.62
+- country: US
+  region: AL
+  name: Brookside
+  lat: '33.6372'
+  long: "-86.9002"
+  nearby_rate_centers:
+  - name: GRAYSVILLE
+    distance_km: 6.89
+  - name: GARDENDALE
+    distance_km: 8.07
+  - name: BIRMINGHAM
+    distance_km: 15.74
+- country: US
+  region: AL
+  name: Brookwood
+  lat: '33.2398'
+  long: "-87.3277"
+  nearby_rate_centers:
+  - name: TUSCALOOSA
+    distance_km: 22.13
+  - name: W BLOCTON
+    distance_km: 23.42
+  - name: FLATWOOD
+    distance_km: 32.94
+- country: US
+  region: AL
+  name: Broomtown
+  lat: '34.3657'
+  long: "-85.5322"
+  nearby_rate_centers:
+  - name: RINEHART
+    distance_km: 1.82
+  - name: GAYLESVL
+    distance_km: 11.31
+  - name: CEDARBLUFF
+    distance_km: 16.81
+- country: US
+  region: AL
+  name: Brundidge
+  lat: '31.7182'
+  long: "-85.8178"
+  nearby_rate_centers:
+  - name: BRUNDIDGE
+    distance_km: 0.35
+  - name: BANKS
+    distance_km: 11.43
+  - name: ARITON
+    distance_km: 15.7
+- country: US
+  region: AL
+  name: Bucks
+  lat: '31.0169'
+  long: "-88.0249"
+  nearby_rate_centers:
+  - name: MT VERNON
+    distance_km: 7.67
+  - name: CITRONELLE
+    distance_km: 22.13
+  - name: MCINTOSH
+    distance_km: 27.81
+- country: US
+  region: AL
+  name: Butler
+  lat: '32.0965'
+  long: "-88.2108"
+  nearby_rate_centers:
+  - name: BUTLER
+    distance_km: 1.39
+  - name: LISMAN
+    distance_km: 11.33
+  - name: NEEDHAM
+    distance_km: 14.35
+- country: US
+  region: AL
+  name: Calera
+  lat: '33.1254'
+  long: "-86.7449"
+  nearby_rate_centers:
+  - name: CALERA
+    distance_km: 1.98
+  - name: MONTEVALLO
+    distance_km: 11.96
+  - name: COLUMBIANA
+    distance_km: 13.68
+- country: US
+  region: AL
+  name: Calvert
+  lat: '31.1540'
+  long: "-88.0169"
+  nearby_rate_centers:
+  - name: MT VERNON
+    distance_km: 7.73
+  - name: MCINTOSH
+    distance_km: 12.66
+  - name: CITRONELLE
+    distance_km: 22.56
+- country: US
+  region: AL
+  name: Camden
+  lat: '32.0007'
+  long: "-87.2967"
+  nearby_rate_centers:
+  - name: CAMDEN
+    distance_km: 1.31
+  - name: VREDENBG
+    distance_km: 19.66
+  - name: CATHERINE
+    distance_km: 25.8
+- country: US
+  region: AL
+  name: Camp Hill
+  lat: '32.8002'
+  long: "-85.6536"
+  nearby_rate_centers:
+  - name: CAMP HILL
+    distance_km: 0.34
+  - name: DADEVILLE
+    distance_km: 10.27
+  - name: NOTASULGA
+    distance_km: 26.12
+- country: US
+  region: AL
+  name: Carbon Hill
+  lat: '33.8944'
+  long: "-87.5224"
+  nearby_rate_centers:
+  - name: CARBONHILL
+    distance_km: 0.43
+  - name: NAUVOO
+    distance_km: 11.17
+  - name: LYNN
+    distance_km: 17.53
+- country: US
+  region: AL
+  name: Cardiff
+  lat: '33.6473'
+  long: "-86.9308"
+  nearby_rate_centers:
+  - name: GRAYSVILLE
+    distance_km: 4.38
+  - name: GARDENDALE
+    distance_km: 10.8
+  - name: DORA
+    distance_km: 17.63
+- country: US
+  region: AL
+  name: Carlisle-Rockledge
+  lat: '34.1140'
+  long: "-86.1191"
+  nearby_rate_centers:
+  - name: ARONEY
+    distance_km: 9.41
+  - name: ATTALLA
+    distance_km: 11.0
+  - name: BOAZ
+    distance_km: 11.55
+- country: US
+  region: AL
+  name: Carlton
+  lat: '31.3430'
+  long: "-87.8378"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 19.14
+  - name: MCINTOSH
+    distance_km: 20.52
+  - name: URIAH
+    distance_km: 32.45
+- country: US
+  region: AL
+  name: Carolina
+  lat: '31.2337'
+  long: "-86.5227"
+  nearby_rate_centers:
+  - name: ANDALUSIA
+    distance_km: 10.05
+  - name: GANTT
+    distance_km: 19.88
+  - name: RED LEVEL
+    distance_km: 20.97
+- country: US
+  region: AL
+  name: Carrollton
+  lat: '33.2619'
+  long: "-88.0951"
+  nearby_rate_centers:
+  - name: CARROLLTON
+    distance_km: 0.52
+  - name: REFORM
+    distance_km: 15.4
+  - name: ALICEVILLE
+    distance_km: 16.08
+- country: US
+  region: AL
+  name: Castleberry
+  lat: '31.3001'
+  long: "-87.0269"
+  nearby_rate_centers:
+  - name: CASTLEBRY
+    distance_km: 1.27
+  - name: EVERGREEN
+    distance_km: 17.54
+  - name: BREWTON
+    distance_km: 21.49
+- country: US
+  region: AL
+  name: Catherine
+  lat: '32.1860'
+  long: "-87.4699"
+  nearby_rate_centers:
+  - name: CATHERINE
+    distance_km: 0.49
+  - name: ALBERTA
+    distance_km: 7.43
+  - name: ARLINGTON
+    distance_km: 16.7
+- country: US
+  region: AL
+  name: Cedar Bluff
+  lat: '34.2217'
+  long: "-85.5882"
+  nearby_rate_centers:
+  - name: CEDARBLUFF
+    distance_km: 1.23
+  - name: GAYLESVL
+    distance_km: 6.0
+  - name: CENTRE
+    distance_km: 11.23
+- country: US
+  region: AL
+  name: Center Point
+  lat: '33.6447'
+  long: "-86.6852"
+  nearby_rate_centers:
+  - name: PINSON
+    distance_km: 4.97
+  - name: TRUSSVILLE
+    distance_km: 7.19
+  - name: GARDENDALE
+    distance_km: 11.95
+- country: US
+  region: AL
+  name: Centre
+  lat: '34.1537'
+  long: "-85.6689"
+  nearby_rate_centers:
+  - name: CENTRE
+    distance_km: 1.39
+  - name: LEESBURG
+    distance_km: 9.68
+  - name: CEDARBLUFF
+    distance_km: 10.15
+- country: US
+  region: AL
+  name: Centreville
+  lat: '32.9598'
+  long: "-87.1334"
+  nearby_rate_centers:
+  - name: CENTREVL
+    distance_km: 2.06
+  - name: W BLOCTON
+    distance_km: 17.23
+  - name: MONTEVALLO
+    distance_km: 29.07
+- country: US
+  region: AL
+  name: Chatom
+  lat: '31.4691'
+  long: "-88.2460"
+  nearby_rate_centers:
+  - name: CHATOM
+    distance_km: 0.44
+  - name: MILLRY
+    distance_km: 19.29
+  - name: FRANKVILLE
+    distance_km: 21.07
+- country: US
+  region: AL
+  name: Chelsea
+  lat: '33.3262'
+  long: "-86.6300"
+  nearby_rate_centers:
+  - name: CHELSEA
+    distance_km: 1.99
+  - name: COLUMBIANA
+    distance_km: 16.87
+  - name: ALABASTER
+    distance_km: 20.54
+- country: US
+  region: AL
+  name: Cherokee
+  lat: '34.7577'
+  long: "-87.9670"
+  nearby_rate_centers:
+  - name: BARTON
+    distance_km: 0.53
+  - name: CHEROKEE
+    distance_km: 0.53
+  - name: MARGERUM
+    distance_km: 0.53
+  - name: SHEFFIELD
+    distance_km: 24.54
+  - name: FLORENCE
+    distance_km: 27.02
+- country: US
+  region: AL
+  name: Chickasaw
+  lat: '30.7715'
+  long: "-88.0793"
+  nearby_rate_centers:
+  - name: MOBILE
+    distance_km: 9.24
+  - name: BELLEFONTN
+    distance_km: 27.67
+  - name: IRNGTNSTEL
+    distance_km: 31.16
+- country: US
+  region: AL
+  name: Childersburg
+  lat: '33.2962'
+  long: "-86.3456"
+  nearby_rate_centers:
+  - name: CHILDERSBG
+    distance_km: 2.26
+  - name: VINCENT
+    distance_km: 11.82
+  - name: SYLACAUGA
+    distance_km: 16.85
+- country: US
+  region: AL
+  name: Choccolocco
+  lat: '33.6683'
+  long: "-85.7128"
+  nearby_rate_centers:
+  - name: HEFLIN
+    distance_km: 11.11
+  - name: ANNISTON
+    distance_km: 11.17
+  - name: CHULAFINNE
+    distance_km: 14.65
+- country: US
+  region: AL
+  name: Chunchula
+  lat: '30.9237'
+  long: "-88.2072"
+  nearby_rate_centers:
+  - name: CITRONELLE
+    distance_km: 18.68
+  - name: MT VERNON
+    distance_km: 25.94
+  - name: MOBILE
+    distance_km: 29.8
+- country: US
+  region: AL
+  name: Citronelle
+  lat: '31.0952'
+  long: "-88.2467"
+  nearby_rate_centers:
+  - name: CITRONELLE
+    distance_km: 0.85
+  - name: DEER PARK
+    distance_km: 14.89
+  - name: MT VERNON
+    distance_km: 22.55
+- country: US
+  region: AL
+  name: Clanton
+  lat: '32.8444'
+  long: "-86.6233"
+  nearby_rate_centers:
+  - name: CLANTON
+    distance_km: 1.19
+  - name: THORSBY
+    distance_km: 11.91
+  - name: JEMISON
+    distance_km: 17.05
+- country: US
+  region: AL
+  name: Clay
+  lat: '33.6951'
+  long: "-86.6090"
+  nearby_rate_centers:
+  - name: PINSON
+    distance_km: 6.84
+  - name: TRUSSVILLE
+    distance_km: 7.72
+  - name: SPRINGVL
+    distance_km: 15.93
+- country: US
+  region: AL
+  name: Clayhatchee
+  lat: '31.2434'
+  long: "-85.7136"
+  nearby_rate_centers:
+  - name: DALEVILLE
+    distance_km: 7.38
+  - name: WICKSBURG
+    distance_km: 10.19
+  - name: NEWTON
+    distance_km: 14.85
+- country: US
+  region: AL
+  name: Clayton
+  lat: '31.8823'
+  long: "-85.4605"
+  nearby_rate_centers:
+  - name: CLAYTON
+    distance_km: 0.93
+  - name: LOUISVILLE
+    distance_km: 13.0
+  - name: MIDWAY
+    distance_km: 23.05
+- country: US
+  region: AL
+  name: Cleveland
+  lat: '33.9964'
+  long: "-86.5671"
+  nearby_rate_centers:
+  - name: NECTAR
+    distance_km: 5.54
+  - name: BLOUNTSVL
+    distance_km: 9.76
+  - name: ONEONTA
+    distance_km: 10.66
+- country: US
+  region: AL
+  name: Clio
+  lat: '31.7085'
+  long: "-85.6109"
+  nearby_rate_centers:
+  - name: CLIO
+    distance_km: 0.5
+  - name: LOUISVILLE
+    distance_km: 11.07
+  - name: ARITON
+    distance_km: 16.47
+- country: US
+  region: AL
+  name: Coaling
+  lat: '33.1641'
+  long: "-87.3534"
+  nearby_rate_centers:
+  - name: TUSCALOOSA
+    distance_km: 19.67
+  - name: W BLOCTON
+    distance_km: 21.94
+  - name: MOUNDVILLE
+    distance_km: 31.44
+- country: US
+  region: AL
+  name: Coats Bend
+  lat: '34.0774'
+  long: "-85.8742"
+  nearby_rate_centers:
+  - name: GADSDEN
+    distance_km: 14.6
+  - name: LEESBURG
+    distance_km: 15.12
+  - name: CENTRE
+    distance_km: 19.76
+- country: US
+  region: AL
+  name: Coffee Springs
+  lat: '31.1664'
+  long: "-85.9103"
+  nearby_rate_centers:
+  - name: SAMSON
+    distance_km: 14.5
+  - name: GENEVA
+    distance_km: 15.42
+  - name: ENTERPRISE
+    distance_km: 17.16
+- country: US
+  region: AL
+  name: Coffeeville
+  lat: '31.7666'
+  long: "-88.0861"
+  nearby_rate_centers:
+  - name: COFFEEVL
+    distance_km: 1.73
+  - name: FRANKVILLE
+    distance_km: 15.31
+  - name: SILAS
+    distance_km: 23.67
+- country: US
+  region: AL
+  name: Coker
+  lat: '33.2446'
+  long: "-87.6800"
+  nearby_rate_centers:
+  - name: TUSCALOOSA
+    distance_km: 12.21
+  - name: GORDO
+    distance_km: 22.54
+  - name: MOUNDVILLE
+    distance_km: 27.67
+- country: US
+  region: AL
+  name: Collinsville
+  lat: '34.2664'
+  long: "-85.8679"
+  nearby_rate_centers:
+  - name: COLLINSVL
+    distance_km: 1.33
+  - name: SAND ROCK
+    distance_km: 9.72
+  - name: CROSSVILLE
+    distance_km: 11.56
+- country: US
+  region: AL
+  name: Colony
+  lat: '33.9413'
+  long: "-86.9022"
+  nearby_rate_centers:
+  - name: WARRIOR
+    distance_km: 16.28
+  - name: HANCEVILLE
+    distance_km: 18.76
+  - name: NECTAR
+    distance_km: 26.48
+- country: US
+  region: AL
+  name: Columbia
+  lat: '31.2968'
+  long: "-85.1103"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance_km: 0.69
+  - name: GORDON
+    distance_km: 16.61
+  - name: ASHFORD
+    distance_km: 17.6
+- country: US
+  region: AL
+  name: Columbiana
+  lat: '33.1930'
+  long: "-86.6114"
+  nearby_rate_centers:
+  - name: COLUMBIANA
+    distance_km: 1.96
+  - name: CALERA
+    distance_km: 16.1
+  - name: CHELSEA
+    distance_km: 16.71
+- country: US
+  region: AL
+  name: Concord
+  lat: '33.4674'
+  long: "-87.0392"
+  nearby_rate_centers:
+  - name: BESSEMER
+    distance_km: 10.55
+  - name: GRAYSVILLE
+    distance_km: 19.27
+  - name: BIRMINGHAM
+    distance_km: 21.89
+- country: US
+  region: AL
+  name: Coosada
+  lat: '32.4984'
+  long: "-86.3279"
+  nearby_rate_centers:
+  - name: WETUMPKA
+    distance_km: 12.72
+  - name: PRATTVILLE
+    distance_km: 13.38
+  - name: MONTGOMERY
+    distance_km: 14.04
+- country: US
+  region: AL
+  name: Cordova
+  lat: '33.7613'
+  long: "-87.1926"
+  nearby_rate_centers:
+  - name: CORDOVA
+    distance_km: 1.09
+  - name: PARRISH
+    distance_km: 9.0
+  - name: DORA
+    distance_km: 9.86
+- country: US
+  region: AL
+  name: Cottondale
+  lat: '33.1923'
+  long: "-87.4543"
+  nearby_rate_centers:
+  - name: TUSCALOOSA
+    distance_km: 9.92
+  - name: MOUNDVILLE
+    distance_km: 26.84
+  - name: W BLOCTON
+    distance_km: 31.83
+- country: US
+  region: AL
+  name: Cottonwood
+  lat: '31.0552'
+  long: "-85.3008"
+  nearby_rate_centers:
+  - name: COTTONWOOD
+    distance_km: 0.59
+  - name: ASHFORD
+    distance_km: 15.44
+  - name: DOTHAN
+    distance_km: 20.7
+- country: US
+  region: AL
+  name: County Line
+  lat: '33.8208'
+  long: "-86.7195"
+  nearby_rate_centers:
+  - name: WARRIOR
+    distance_km: 8.05
+  - name: PINSON
+    distance_km: 15.01
+  - name: NECTAR
+    distance_km: 18.97
+- country: US
+  region: AL
+  name: Courtland
+  lat: '34.6703'
+  long: "-87.3260"
+  nearby_rate_centers:
+  - name: COURTLAND
+    distance_km: 1.73
+  - name: TOWN CREEK
+    distance_km: 7.78
+  - name: ROGERSVL
+    distance_km: 17.18
+- country: US
+  region: AL
+  name: Cowarts
+  lat: '31.2034'
+  long: "-85.3057"
+  nearby_rate_centers:
+  - name: ASHFORD
+    distance_km: 6.6
+  - name: DOTHAN
+    distance_km: 8.47
+  - name: HEADLAND
+    distance_km: 16.61
+- country: US
+  region: AL
+  name: Creola
+  lat: '30.8906'
+  long: "-88.0132"
+  nearby_rate_centers:
+  - name: MT VERNON
+    distance_km: 21.58
+  - name: MOBILE
+    distance_km: 22.32
+  - name: BAYMINETTE
+    distance_km: 22.79
+- country: US
+  region: AL
+  name: Crossville
+  lat: '34.2852'
+  long: "-85.9996"
+  nearby_rate_centers:
+  - name: CROSSVILLE
+    distance_km: 0.72
+  - name: GERALDINE
+    distance_km: 7.2
+  - name: ARONEY
+    distance_km: 12.66
+- country: US
+  region: AL
+  name: Cuba
+  lat: '32.4410'
+  long: "-88.3755"
+  nearby_rate_centers:
+  - name: YORK
+    distance_km: 8.53
+  - name: LIVINGSTON
+    distance_km: 24.11
+  - name: LISMAN
+    distance_km: 30.58
+- country: US
+  region: AL
+  name: Cullman
+  lat: '34.1775'
+  long: "-86.8407"
+  nearby_rate_centers:
+  - name: CULLMAN
+    distance_km: 0.39
+  - name: HANCEVILLE
+    distance_km: 14.02
+  - name: FALKVILLE
+    distance_km: 21.86
+- country: US
+  region: AL
+  name: Cullomburg
+  lat: '31.7131'
+  long: "-88.2917"
+  nearby_rate_centers:
+  - name: SILAS
+    distance_km: 8.0
+  - name: MILLRY
+    distance_km: 9.05
+  - name: FRANKVILLE
+    distance_km: 15.64
+- country: US
+  region: AL
+  name: Cusseta
+  lat: '32.7876'
+  long: "-85.3057"
+  nearby_rate_centers:
+  - name: HUGULEY
+    distance_km: 8.27
+  - name: LANGDALE
+    distance_km: 12.54
+  - name: SHAWMUT
+    distance_km: 13.43
+- country: US
+  region: AL
+  name: Dadeville
+  lat: '32.8326'
+  long: "-85.7675"
+  nearby_rate_centers:
+  - name: DADEVILLE
+    distance_km: 0.98
+  - name: CAMP HILL
+    distance_km: 11.35
+  - name: ALEXANDRCY
+    distance_km: 21.16
+- country: US
+  region: AL
+  name: Daleville
+  lat: '31.2915'
+  long: "-85.7117"
+  nearby_rate_centers:
+  - name: DALEVILLE
+    distance_km: 2.06
+  - name: WICKSBURG
+    distance_km: 8.44
+  - name: NEWTON
+    distance_km: 11.79
+- country: US
+  region: AL
+  name: Daphne
+  lat: '30.6263'
+  long: "-87.8816"
+  nearby_rate_centers:
+  - name: FAIRHOPE
+    distance_km: 11.53
+  - name: LOXLEY
+    distance_km: 12.66
+  - name: MOBILE
+    distance_km: 17.69
+- country: US
+  region: AL
+  name: Dauphin Island
+  lat: '30.2525'
+  long: "-88.1438"
+  nearby_rate_centers:
+  - name: DAUPHIN IS
+    distance_km: 4.13
+  - name: FORTMORGAN
+    distance_km: 12.48
+  - name: BAYOUBATRE
+    distance_km: 19.65
+- country: US
+  region: AL
+  name: Daviston
+  lat: '33.0557'
+  long: "-85.6371"
+  nearby_rate_centers:
+  - name: WADLEY
+    distance_km: 9.32
+  - name: DADEVILLE
+    distance_km: 27.4
+  - name: ROANOKE
+    distance_km: 27.79
+- country: US
+  region: AL
+  name: Dayton
+  lat: '32.3510'
+  long: "-87.6416"
+  nearby_rate_centers:
+  - name: THOMASTON
+    distance_km: 9.82
+  - name: LINDEN
+    distance_km: 15.71
+  - name: UNIONTOWN
+    distance_km: 16.75
+- country: US
+  region: AL
+  name: Deatsville
+  lat: '32.5864'
+  long: "-86.3917"
+  nearby_rate_centers:
+  - name: HOLTVILLE
+    distance_km: 8.53
+  - name: PRATTVILLE
+    distance_km: 15.12
+  - name: WETUMPKA
+    distance_km: 17.69
+- country: US
+  region: AL
+  name: Decatur
+  lat: '34.5731'
+  long: "-86.9905"
+  nearby_rate_centers:
+  - name: DECATUR
+    distance_km: 4.05
+  - name: HARTSELLE
+    distance_km: 15.53
+  - name: MASSEY
+    distance_km: 22.26
+- country: US
+  region: AL
+  name: Deer Park
+  lat: '31.2198'
+  long: "-88.3226"
+  nearby_rate_centers:
+  - name: DEER PARK
+    distance_km: 1.26
+  - name: FRUITDALE
+    distance_km: 15.87
+  - name: CITRONELLE
+    distance_km: 16.46
+- country: US
+  region: AL
+  name: Delta
+  lat: '33.4470'
+  long: "-85.6746"
+  nearby_rate_centers:
+  - name: DELTA
+    distance_km: 1.75
+  - name: CHULAFINNE
+    distance_km: 11.48
+  - name: LINEVILLE
+    distance_km: 15.68
+- country: US
+  region: AL
+  name: Demopolis
+  lat: '32.4980'
+  long: "-87.8298"
+  nearby_rate_centers:
+  - name: DEMOPOLIS
+    distance_km: 2.11
+  - name: LINDEN
+    distance_km: 21.56
+  - name: UNIONTOWN
+    distance_km: 30.48
+- country: US
+  region: AL
+  name: Detroit
+  lat: '34.0274'
+  long: "-88.1678"
+  nearby_rate_centers:
+  - name: DETROIT
+    distance_km: 0.91
+  - name: SULLIGENT
+    distance_km: 14.47
+  - name: HAMILTON
+    distance_km: 20.61
+- country: US
+  region: AL
+  name: Dodge City
+  lat: '34.0445'
+  long: "-86.8853"
+  nearby_rate_centers:
+  - name: HANCEVILLE
+    distance_km: 11.2
+  - name: CULLMAN
+    distance_km: 14.97
+  - name: NECTAR
+    distance_km: 26.14
+- country: US
+  region: AL
+  name: Dora
+  lat: '33.7288'
+  long: "-87.0842"
+  nearby_rate_centers:
+  - name: DORA
+    distance_km: 0.8
+  - name: CORDOVA
+    distance_km: 9.59
+  - name: GRAYSVILLE
+    distance_km: 14.8
+- country: US
+  region: AL
+  name: Dothan
+  lat: '31.2336'
+  long: "-85.4070"
+  nearby_rate_centers:
+  - name: DOTHAN
+    distance_km: 1.8
+  - name: MIDLAND CY
+    distance_km: 12.36
+  - name: HEADLAND
+    distance_km: 14.65
+- country: US
+  region: AL
+  name: Double Springs
+  lat: '34.1502'
+  long: "-87.3910"
+  nearby_rate_centers:
+  - name: DOUBLE SPG
+    distance_km: 1.03
+  - name: GRAYSON
+    distance_km: 17.01
+  - name: LYNN
+    distance_km: 18.59
+- country: US
+  region: AL
+  name: Douglas
+  lat: '34.1705'
+  long: "-86.3224"
+  nearby_rate_centers:
+  - name: SNEAD
+    distance_km: 8.43
+  - name: WALNUT GRV
+    distance_km: 11.58
+  - name: ALBERTVL
+    distance_km: 14.89
+- country: US
+  region: AL
+  name: Dozier
+  lat: '31.5031'
+  long: "-86.3694"
+  nearby_rate_centers:
+  - name: DOZIER
+    distance_km: 0.7
+  - name: BRANTLEY
+    distance_km: 14.27
+  - name: GANTT
+    distance_km: 15.53
+- country: US
+  region: AL
+  name: Dunnavant
+  lat: '33.4977'
+  long: "-86.5421"
+  nearby_rate_centers:
+  - name: LEEDS
+    distance_km: 5.99
+  - name: TRUSSVILLE
+    distance_km: 15.59
+  - name: VINCENT
+    distance_km: 17.17
+- country: US
+  region: AL
+  name: Dutton
+  lat: '34.6062'
+  long: "-85.9119"
+  nearby_rate_centers:
+  - name: SECTION
+    distance_km: 8.24
+  - name: PISGAH
+    distance_km: 10.66
+  - name: SCOTTSBORO
+    distance_km: 13.45
+- country: US
+  region: AL
+  name: Eagle Point
+  lat: '33.3937'
+  long: "-86.6779"
+  nearby_rate_centers:
+  - name: CHELSEA
+    distance_km: 7.64
+  - name: BIRMINGHAM
+    distance_km: 18.42
+  - name: LEEDS
+    distance_km: 21.74
+- country: US
+  region: AL
+  name: East Brewton
+  lat: '31.0906'
+  long: "-87.0556"
+  nearby_rate_centers:
+  - name: BREWTON
+    distance_km: 2.21
+  - name: FLOMATON
+    distance_km: 21.64
+  - name: CASTLEBRY
+    distance_km: 24.33
+- country: US
+  region: AL
+  name: East Point
+  lat: '34.1857'
+  long: "-86.7928"
+  nearby_rate_centers:
+  - name: CULLMAN
+    distance_km: 4.75
+  - name: HANCEVILLE
+    distance_km: 13.38
+  - name: ODEN RIDGE
+    distance_km: 21.51
+- country: US
+  region: AL
+  name: Eclectic
+  lat: '32.6387'
+  long: "-86.0387"
+  nearby_rate_centers:
+  - name: ECLECTIC
+    distance_km: 0.87
+  - name: KOWALIGA
+    distance_km: 10.2
+  - name: TALLASSEE
+    distance_km: 17.0
+- country: US
+  region: AL
+  name: Edgewater
+  lat: '33.5287'
+  long: "-86.9572"
+  nearby_rate_centers:
+  - name: GRAYSVILLE
+    distance_km: 11.6
+  - name: BIRMINGHAM
+    distance_km: 13.64
+  - name: BESSEMER
+    distance_km: 14.27
+- country: US
+  region: AL
+  name: Edwardsville
+  lat: '33.8409'
+  long: "-85.4523"
+  nearby_rate_centers:
+  - name: FRUITHURST
+    distance_km: 12.18
+  - name: PIEDMONT
+    distance_km: 16.77
+  - name: HEFLIN
+    distance_km: 25.06
+- country: US
+  region: AL
+  name: Egypt
+  lat: '34.0760'
+  long: "-86.1651"
+  nearby_rate_centers:
+  - name: ATTALLA
+    distance_km: 9.49
+  - name: WALNUT GRV
+    distance_km: 12.68
+  - name: BOAZ
+    distance_km: 14.94
+- country: US
+  region: AL
+  name: Elba
+  lat: '31.4172'
+  long: "-86.0759"
+  nearby_rate_centers:
+  - name: ELBA
+    distance_km: 0.75
+  - name: NEWBROCKTN
+    distance_km: 13.92
+  - name: OPP
+    distance_km: 23.3
+- country: US
+  region: AL
+  name: Elberta
+  lat: '30.3855'
+  long: "-87.5888"
+  nearby_rate_centers:
+  - name: ELBERTA
+    distance_km: 3.49
+  - name: FOLEY
+    distance_km: 9.66
+  - name: MARLOW
+    distance_km: 9.66
+  - name: ORANGE BCH
+    distance_km: 11.54
+- country: US
+  region: AL
+  name: Eldridge
+  lat: '33.9220'
+  long: "-87.6202"
+  nearby_rate_centers:
+  - name: CARBONHILL
+    distance_km: 9.24
+  - name: NAUVOO
+    distance_km: 14.27
+  - name: LYNN
+    distance_km: 15.54
+- country: US
+  region: AL
+  name: Elkmont
+  lat: '34.9289'
+  long: "-86.9765"
+  nearby_rate_centers:
+  - name: ELKMONT
+    distance_km: 0.72
+  - name: VETO
+    distance_km: 6.18
+  - name: ATHENS
+    distance_km: 13.29
+- country: US
+  region: AL
+  name: Elmore
+  lat: '32.5552'
+  long: "-86.3425"
+  nearby_rate_centers:
+  - name: HOLTVILLE
+    distance_km: 9.1
+  - name: WETUMPKA
+    distance_km: 12.65
+  - name: PRATTVILLE
+    distance_km: 15.23
+- country: US
+  region: AL
+  name: Emelle
+  lat: '32.7287'
+  long: "-88.3165"
+  nearby_rate_centers:
+  - name: LIVINGSTON
+    distance_km: 20.55
+  - name: PANOLA
+    distance_km: 24.15
+  - name: YORK
+    distance_km: 27.13
+- country: US
+  region: AL
+  name: Emerald Mountain
+  lat: '32.4396'
+  long: "-86.0857"
+  nearby_rate_centers:
+  - name: WETUMPKA
+    distance_km: 16.88
+  - name: TALLASSEE
+    distance_km: 20.7
+  - name: MONTGOMERY
+    distance_km: 21.47
+- country: US
+  region: AL
+  name: Enterprise
+  lat: '31.3275'
+  long: "-85.8463"
+  nearby_rate_centers:
+  - name: ENTERPRISE
+    distance_km: 1.89
+  - name: NEWBROCKTN
+    distance_km: 10.8
+  - name: DALEVILLE
+    distance_km: 12.59
+- country: US
+  region: AL
+  name: Epes
+  lat: '32.6906'
+  long: "-88.1405"
+  nearby_rate_centers:
+  - name: LIVINGSTON
+    distance_km: 12.55
+  - name: YORK
+    distance_km: 27.36
+  - name: EUTAW
+    distance_km: 28.63
+- country: US
+  region: AL
+  name: Equality
+  lat: '32.7634'
+  long: "-86.1060"
+  nearby_rate_centers:
+  - name: KOWALIGA
+    distance_km: 14.46
+  - name: ECLECTIC
+    distance_km: 16.06
+  - name: ROCKFORD
+    distance_km: 18.12
+- country: US
+  region: AL
+  name: Ethelsville
+  lat: '33.4141'
+  long: "-88.2161"
+  nearby_rate_centers:
+  - name: ETHELSVL
+    distance_km: 0.49
+  - name: REFORM
+    distance_km: 19.0
+  - name: CARROLLTON
+    distance_km: 20.75
+- country: US
+  region: AL
+  name: Eufaula
+  lat: '31.9102'
+  long: "-85.1505"
+  nearby_rate_centers:
+  - name: EUFAULA
+    distance_km: 1.93
+  - name: CLAYTON
+    distance_km: 29.06
+  - name: ABBEVILLE
+    distance_km: 38.71
+- country: US
+  region: AL
+  name: Eunola
+  lat: '31.0326'
+  long: "-85.8409"
+  nearby_rate_centers:
+  - name: GENEVA
+    distance_km: 2.19
+  - name: HARTFORD
+    distance_km: 16.13
+  - name: SAMSON
+    distance_km: 21.43
+- country: US
+  region: AL
+  name: Eutaw
+  lat: '32.8436'
+  long: "-87.8986"
+  nearby_rate_centers:
+  - name: EUTAW
+    distance_km: 0.79
+  - name: MOUNDVILLE
+    distance_km: 30.65
+  - name: GREENSBORO
+    distance_km: 31.91
+- country: US
+  region: AL
+  name: Eva
+  lat: '34.3272'
+  long: "-86.7614"
+  nearby_rate_centers:
+  - name: ODEN RIDGE
+    distance_km: 5.53
+  - name: FALKVILLE
+    distance_km: 14.18
+  - name: CULLMAN
+    distance_km: 18.56
+- country: US
+  region: AL
+  name: Evergreen
+  lat: '31.4342'
+  long: "-86.9723"
+  nearby_rate_centers:
+  - name: EVERGREEN
+    distance_km: 2.32
+  - name: CASTLEBRY
+    distance_km: 14.77
+  - name: REPTON
+    distance_km: 25.86
+- country: US
+  region: AL
+  name: Excel
+  lat: '31.4264'
+  long: "-87.3433"
+  nearby_rate_centers:
+  - name: EXCEL
+    distance_km: 0.94
+  - name: FRISCOCITY
+    distance_km: 6.15
+  - name: REPTON
+    distance_km: 9.65
+- country: US
+  region: AL
+  name: Fairfield
+  lat: '33.4747'
+  long: "-86.9194"
+  nearby_rate_centers:
+  - name: BESSEMER
+    distance_km: 9.04
+  - name: BIRMINGHAM
+    distance_km: 11.11
+  - name: GRAYSVILLE
+    distance_km: 18.22
+- country: US
+  region: AL
+  name: Fairford
+  lat: '31.1780'
+  long: "-88.0728"
+  nearby_rate_centers:
+  - name: MCINTOSH
+    distance_km: 10.53
+  - name: MT VERNON
+    distance_km: 11.96
+  - name: CITRONELLE
+    distance_km: 18.85
+- country: US
+  region: AL
+  name: Fairhope
+  lat: '30.5209'
+  long: "-87.8813"
+  nearby_rate_centers:
+  - name: FAIRHOPE
+    distance_km: 2.73
+  - name: MAGNOLISPG
+    distance_km: 16.13
+  - name: ROBERTSDL
+    distance_km: 16.99
+- country: US
+  region: AL
+  name: Fairview
+  lat: '34.2501'
+  long: "-86.6846"
+  nearby_rate_centers:
+  - name: ODEN RIDGE
+    distance_km: 15.58
+  - name: CULLMAN
+    distance_km: 16.79
+  - name: ARAB
+    distance_km: 18.31
+- country: US
+  region: AL
+  name: Falkville
+  lat: '34.3793'
+  long: "-86.9086"
+  nearby_rate_centers:
+  - name: FALKVILLE
+    distance_km: 1.49
+  - name: HARTSELLE
+    distance_km: 7.29
+  - name: MASSEY
+    distance_km: 10.45
+- country: US
+  region: AL
+  name: Faunsdale
+  lat: '32.4576'
+  long: "-87.5938"
+  nearby_rate_centers:
+  - name: UNIONTOWN
+    distance_km: 7.94
+  - name: THOMASTON
+    distance_km: 21.72
+  - name: DEMOPOLIS
+    distance_km: 23.17
+- country: US
+  region: AL
+  name: Fayette
+  lat: '33.6943'
+  long: "-87.8307"
+  nearby_rate_centers:
+  - name: FAYETTE
+    distance_km: 0.17
+  - name: KENNEDY
+    distance_km: 18.88
+  - name: BERRY
+    distance_km: 21.91
+- country: US
+  region: AL
+  name: Fayetteville
+  lat: '33.1643'
+  long: "-86.4412"
+  nearby_rate_centers:
+  - name: CHILDERSBG
+    distance_km: 15.14
+  - name: COLUMBIANA
+    distance_km: 15.82
+  - name: SYLACAUGA
+    distance_km: 17.88
+- country: US
+  region: AL
+  name: Fitzpatrick
+  lat: '32.2113'
+  long: "-85.8784"
+  nearby_rate_centers:
+  - name: FORT DAVIS
+    distance_km: 16.64
+  - name: UNION SPG
+    distance_km: 17.13
+  - name: PINE LEVEL
+    distance_km: 23.22
+- country: US
+  region: AL
+  name: Five Points
+  lat: '33.0173'
+  long: "-85.3516"
+  nearby_rate_centers:
+  - name: FREDONIA
+    distance_km: 7.23
+  - name: OAKLAND
+    distance_km: 8.33
+  - name: LAFAYETTE
+    distance_km: 13.69
+- country: US
+  region: AL
+  name: Flomaton
+  lat: '31.0127'
+  long: "-87.2541"
+  nearby_rate_centers:
+  - name: FLOMATON
+    distance_km: 1.5
+  - name: BREWTON
+    distance_km: 21.11
+  - name: ATMORE
+    distance_km: 22.65
+- country: US
+  region: AL
+  name: Florala
+  lat: '31.0176'
+  long: "-86.3138"
+  nearby_rate_centers:
+  - name: FLORALA
+    distance_km: 2.23
+  - name: KINSTON
+    distance_km: 25.73
+  - name: SAMSON
+    distance_km: 27.35
+- country: US
+  region: AL
+  name: Florence
+  lat: '34.8303'
+  long: "-87.6655"
+  nearby_rate_centers:
+  - name: FLORENCE
+    distance_km: 2.69
+  - name: SHEFFIELD
+    distance_km: 7.85
+  - name: KILLEN
+    distance_km: 15.22
+- country: US
+  region: AL
+  name: Foley
+  lat: '30.3983'
+  long: "-87.6650"
+  nearby_rate_centers:
+  - name: FOLEY
+    distance_km: 2.31
+  - name: MARLOW
+    distance_km: 2.31
+  - name: ELBERTA
+    distance_km: 6.7
+  - name: MAGNOLISPG
+    distance_km: 10.67
+- country: US
+  region: AL
+  name: Forestdale
+  lat: '33.5737'
+  long: "-86.9000"
+  nearby_rate_centers:
+  - name: GRAYSVILLE
+    distance_km: 9.46
+  - name: BIRMINGHAM
+    distance_km: 10.41
+  - name: GARDENDALE
+    distance_km: 11.55
+- country: US
+  region: AL
+  name: Forkland
+  lat: '32.6489'
+  long: "-87.8671"
+  nearby_rate_centers:
+  - name: DEMOPOLIS
+    distance_km: 15.07
+  - name: EUTAW
+    distance_km: 21.38
+  - name: GREENSBORO
+    distance_km: 25.85
+- country: US
+  region: AL
+  name: Fort Deposit
+  lat: '31.9863'
+  long: "-86.5664"
+  nearby_rate_centers:
+  - name: FT DEPOSIT
+    distance_km: 1.73
+  - name: GREENVILLE
+    distance_km: 17.94
+  - name: HAYNEVILLE
+    distance_km: 22.77
+- country: US
+  region: AL
+  name: Fort Payne
+  lat: '34.4559'
+  long: "-85.6965"
+  nearby_rate_centers:
+  - name: FORT PAYNE
+    distance_km: 2.44
+  - name: RAINSVILLE
+    distance_km: 14.55
+  - name: VALLEYHEAD
+    distance_km: 14.65
+- country: US
+  region: AL
+  name: Fort Rucker
+  lat: '31.3428'
+  long: "-85.7154"
+  nearby_rate_centers:
+  - name: DALEVILLE
+    distance_km: 3.68
+  - name: WICKSBURG
+    distance_km: 10.43
+  - name: NEWTON
+    distance_km: 11.27
+- country: US
+  region: AL
+  name: Franklin
+  lat: '32.4513'
+  long: "-85.7864"
+  nearby_rate_centers:
+  - name: TUSKEGEE
+    distance_km: 9.59
+  - name: TALLASSEE
+    distance_km: 14.53
+  - name: NOTASULGA
+    distance_km: 16.58
+- country: US
+  region: AL
+  name: Fredonia
+  lat: '32.9861'
+  long: "-85.2912"
+  nearby_rate_centers:
+  - name: FREDONIA
+    distance_km: 0.62
+  - name: OAKLAND
+    distance_km: 2.27
+  - name: LAFAYETTE
+    distance_km: 13.93
+- country: US
+  region: AL
+  name: Frisco City
+  lat: '31.4353'
+  long: "-87.4037"
+  nearby_rate_centers:
+  - name: FRISCOCITY
+    distance_km: 0.77
+  - name: EXCEL
+    distance_km: 5.72
+  - name: MONROEVL
+    distance_km: 12.5
+- country: US
+  region: AL
+  name: Fruitdale
+  lat: '31.3429'
+  long: "-88.4108"
+  nearby_rate_centers:
+  - name: FRUITDALE
+    distance_km: 0.26
+  - name: DEER PARK
+    distance_km: 16.91
+  - name: CHATOM
+    distance_km: 20.61
+- country: US
+  region: AL
+  name: Fruithurst
+  lat: '33.7295'
+  long: "-85.4313"
+  nearby_rate_centers:
+  - name: FRUITHURST
+    distance_km: 0.4
+  - name: LECTA
+    distance_km: 14.59
+  - name: HEFLIN
+    distance_km: 17.57
+- country: US
+  region: AL
+  name: Fulton
+  lat: '31.7916'
+  long: "-87.7396"
+  nearby_rate_centers:
+  - name: GROVE HILL
+    distance_km: 9.95
+  - name: THOMASVL
+    distance_km: 13.88
+  - name: FINCHBURG
+    distance_km: 24.39
+- country: US
+  region: AL
+  name: Fultondale
+  lat: '33.6174'
+  long: "-86.8014"
+  nearby_rate_centers:
+  - name: GARDENDALE
+    distance_km: 3.72
+  - name: BIRMINGHAM
+    distance_km: 11.21
+  - name: PINSON
+    distance_km: 13.6
+- country: US
+  region: AL
+  name: Fyffe
+  lat: '34.4490'
+  long: "-85.9052"
+  nearby_rate_centers:
+  - name: FYFFE
+    distance_km: 0.56
+  - name: RAINSVILLE
+    distance_km: 7.01
+  - name: GERALDINE
+    distance_km: 13.99
+- country: US
+  region: AL
+  name: Gadsden
+  lat: '34.0086'
+  long: "-86.0157"
+  nearby_rate_centers:
+  - name: GADSDEN
+    distance_km: 0.69
+  - name: ATTALLA
+    distance_km: 6.87
+  - name: ARONEY
+    distance_km: 21.09
+- country: US
+  region: AL
+  name: Gainesville
+  lat: '32.8149'
+  long: "-88.1608"
+  nearby_rate_centers:
+  - name: PANOLA
+    distance_km: 17.1
+  - name: EUTAW
+    distance_km: 25.35
+  - name: LIVINGSTON
+    distance_km: 25.85
+- country: US
+  region: AL
+  name: Gallant
+  lat: '34.0013'
+  long: "-86.2304"
+  nearby_rate_centers:
+  - name: WALNUT GRV
+    distance_km: 9.92
+  - name: ATTALLA
+    distance_km: 13.13
+  - name: ASHVILLE
+    distance_km: 18.6
+- country: US
+  region: AL
+  name: Gantt
+  lat: '31.4092'
+  long: "-86.4842"
+  nearby_rate_centers:
+  - name: GANTT
+    distance_km: 0.75
+  - name: ANDALUSIA
+    distance_km: 10.22
+  - name: RED LEVEL
+    distance_km: 11.87
+- country: US
+  region: AL
+  name: Garden City
+  lat: '34.0150'
+  long: "-86.7493"
+  nearby_rate_centers:
+  - name: HANCEVILLE
+    distance_km: 6.03
+  - name: NECTAR
+    distance_km: 13.25
+  - name: BLOUNTSVL
+    distance_km: 17.27
+- country: US
+  region: AL
+  name: Gardendale
+  lat: '33.6677'
+  long: "-86.8069"
+  nearby_rate_centers:
+  - name: GARDENDALE
+    distance_km: 2.17
+  - name: PINSON
+    distance_km: 11.75
+  - name: GRAYSVILLE
+    distance_km: 16.0
+- country: US
+  region: AL
+  name: Gaylesville
+  lat: '34.2665'
+  long: "-85.5603"
+  nearby_rate_centers:
+  - name: GAYLESVL
+    distance_km: 1.02
+  - name: CEDARBLUFF
+    distance_km: 5.88
+  - name: RINEHART
+    distance_km: 11.12
+- country: US
+  region: AL
+  name: Geiger
+  lat: '32.8696'
+  long: "-88.3133"
+  nearby_rate_centers:
+  - name: PANOLA
+    distance_km: 9.19
+  - name: ALICEVILLE
+    distance_km: 32.24
+  - name: LIVINGSTON
+    distance_km: 34.17
+- country: US
+  region: AL
+  name: Geneva
+  lat: '31.0437'
+  long: "-85.8763"
+  nearby_rate_centers:
+  - name: GENEVA
+    distance_km: 1.63
+  - name: SAMSON
+    distance_km: 17.84
+  - name: HARTFORD
+    distance_km: 18.76
+- country: US
+  region: AL
+  name: Georgiana
+  lat: '31.6391'
+  long: "-86.7468"
+  nearby_rate_centers:
+  - name: GEORGIANA
+    distance_km: 0.37
+  - name: MCKENZIE
+    distance_km: 10.32
+  - name: GREENVILLE
+    distance_km: 24.4
+- country: US
+  region: AL
+  name: Geraldine
+  lat: '34.3579'
+  long: "-86.0037"
+  nearby_rate_centers:
+  - name: GERALDINE
+    distance_km: 0.98
+  - name: CROSSVILLE
+    distance_km: 8.33
+  - name: FYFFE
+    distance_km: 14.12
+- country: US
+  region: AL
+  name: Gilbertown
+  lat: '31.8663'
+  long: "-88.3075"
+  nearby_rate_centers:
+  - name: GILBERTOWN
+    distance_km: 2.6
+  - name: SILAS
+    distance_km: 10.6
+  - name: NEEDHAM
+    distance_km: 13.89
+- country: US
+  region: AL
+  name: Glen Allen
+  lat: '33.8922'
+  long: "-87.7329"
+  nearby_rate_centers:
+  - name: WINFIELD
+    distance_km: 9.11
+  - name: BRILLIANT
+    distance_km: 15.4
+  - name: CARBONHILL
+    distance_km: 19.05
+- country: US
+  region: AL
+  name: Glencoe
+  lat: '33.9447'
+  long: "-85.9322"
+  nearby_rate_centers:
+  - name: GADSDEN
+    distance_km: 9.9
+  - name: ATTALLA
+    distance_km: 16.64
+  - name: OHATCHEE
+    distance_km: 19.36
+- country: US
+  region: AL
+  name: Glenwood
+  lat: '31.6675'
+  long: "-86.1730"
+  nearby_rate_centers:
+  - name: GOSHEN
+    distance_km: 7.1
+  - name: LUVERNE
+    distance_km: 10.91
+  - name: BRANTLEY
+    distance_km: 11.83
+- country: US
+  region: AL
+  name: Goldville
+  lat: '33.0842'
+  long: "-85.7831"
+  nearby_rate_centers:
+  - name: WADLEY
+    distance_km: 20.41
+  - name: ASHLAND
+    distance_km: 21.71
+  - name: ALEXANDRCY
+    distance_km: 22.32
+- country: US
+  region: AL
+  name: Good Hope
+  lat: '34.1102'
+  long: "-86.8662"
+  nearby_rate_centers:
+  - name: CULLMAN
+    distance_km: 7.46
+  - name: HANCEVILLE
+    distance_km: 10.32
+  - name: BLOUNTSVL
+    distance_km: 26.43
+- country: US
+  region: AL
+  name: Goodwater
+  lat: '33.0608'
+  long: "-86.0516"
+  nearby_rate_centers:
+  - name: GOODWATER
+    distance_km: 0.94
+  - name: ALEXANDRCY
+    distance_km: 16.09
+  - name: SYLACAUGA
+    distance_km: 21.92
+- country: US
+  region: AL
+  name: Gordo
+  lat: '33.3221'
+  long: "-87.9040"
+  nearby_rate_centers:
+  - name: GORDO
+    distance_km: 0.21
+  - name: REFORM
+    distance_km: 12.33
+  - name: CARROLLTON
+    distance_km: 18.62
+- country: US
+  region: AL
+  name: Gordon
+  lat: '31.1436'
+  long: "-85.0925"
+  nearby_rate_centers:
+  - name: GORDON
+    distance_km: 0.73
+  - name: ASHFORD
+    distance_km: 14.75
+  - name: COLUMBIA
+    distance_km: 16.75
+- country: US
+  region: AL
+  name: Gordonville
+  lat: '32.1489'
+  long: "-86.6995"
+  nearby_rate_centers:
+  - name: GORDONSVL
+    distance_km: 4.1
+  - name: LOWNDESBO
+    distance_km: 16.91
+  - name: HAYNEVILLE
+    distance_km: 19.13
+- country: US
+  region: AL
+  name: Goshen
+  lat: '31.7182'
+  long: "-86.1242"
+  nearby_rate_centers:
+  - name: GOSHEN
+    distance_km: 0.19
+  - name: LUVERNE
+    distance_km: 13.49
+  - name: TROY
+    distance_km: 17.34
+- country: US
+  region: AL
+  name: Graham
+  lat: '33.4552'
+  long: "-85.3230"
+  nearby_rate_centers:
+  - name: RANBURNE
+    distance_km: 8.52
+  - name: WOODLAND
+    distance_km: 12.9
+  - name: MRNSCRSRDS
+    distance_km: 16.12
+- country: US
+  region: AL
+  name: Grand Bay
+  lat: '30.4717'
+  long: "-88.3450"
+  nearby_rate_centers:
+  - name: GRAND BAY
+    distance_km: 0.5
+  - name: IRNGTNSTEL
+    distance_km: 11.35
+  - name: BAYOUBATRE
+    distance_km: 12.31
+- country: US
+  region: AL
+  name: Grant
+  lat: '34.5190'
+  long: "-86.2492"
+  nearby_rate_centers:
+  - name: GRANT
+    distance_km: 0.86
+  - name: NEW HOPE
+    distance_km: 13.91
+  - name: GUNTERSVL
+    distance_km: 19.34
+- country: US
+  region: AL
+  name: Grayson Valley
+  lat: '33.6467'
+  long: "-86.6417"
+  nearby_rate_centers:
+  - name: TRUSSVILLE
+    distance_km: 3.69
+  - name: PINSON
+    distance_km: 6.07
+  - name: LEEDS
+    distance_km: 14.18
+- country: US
+  region: AL
+  name: Graysville
+  lat: '33.6567'
+  long: "-86.9665"
+  nearby_rate_centers:
+  - name: GRAYSVILLE
+    distance_km: 2.84
+  - name: GARDENDALE
+    distance_km: 14.12
+  - name: DORA
+    distance_km: 14.3
+- country: US
+  region: AL
+  name: Greensboro
+  lat: '32.7014'
+  long: "-87.5950"
+  nearby_rate_centers:
+  - name: GREENSBORO
+    distance_km: 0.63
+  - name: MARION
+    distance_km: 27.34
+  - name: UNIONTOWN
+    distance_km: 28.84
+- country: US
+  region: AL
+  name: Greenville
+  lat: '31.8437'
+  long: "-86.6380"
+  nearby_rate_centers:
+  - name: GREENVILLE
+    distance_km: 1.61
+  - name: FT DEPOSIT
+    distance_km: 16.09
+  - name: FORESTHOME
+    distance_km: 19.45
+- country: US
+  region: AL
+  name: Grimes
+  lat: '31.2999'
+  long: "-85.4503"
+  nearby_rate_centers:
+  - name: MIDLAND CY
+    distance_km: 5.07
+  - name: DOTHAN
+    distance_km: 10.09
+  - name: HEADLAND
+    distance_km: 12.24
+- country: US
+  region: AL
+  name: Grove Hill
+  lat: '31.7006'
+  long: "-87.7748"
+  nearby_rate_centers:
+  - name: GROVE HILL
+    distance_km: 0.88
+  - name: GOSPORT
+    distance_km: 21.63
+  - name: FINCHBURG
+    distance_km: 23.12
+- country: US
+  region: AL
+  name: Gu-Win
+  lat: '33.9443'
+  long: "-87.8705"
+  nearby_rate_centers:
+  - name: WINFIELD
+    distance_km: 4.93
+  - name: GUIN
+    distance_km: 5.47
+  - name: BRILLIANT
+    distance_km: 12.84
+- country: US
+  region: AL
+  name: Guin
+  lat: '33.9832'
+  long: "-87.9023"
+  nearby_rate_centers:
+  - name: GUIN
+    distance_km: 1.63
+  - name: WINFIELD
+    distance_km: 9.54
+  - name: BRILLIANT
+    distance_km: 12.87
+- country: US
+  region: AL
+  name: Gulf Shores
+  lat: '30.2764'
+  long: "-87.7017"
+  nearby_rate_centers:
+  - name: GULFSHORES
+    distance_km: 2.58
+  - name: BON SECOUR
+    distance_km: 5.31
+  - name: ORANGE BCH
+    distance_km: 12.73
+- country: US
+  region: AL
+  name: Gulfcrest
+  lat: '30.9925'
+  long: "-88.2399"
+  nearby_rate_centers:
+  - name: CITRONELLE
+    distance_km: 10.74
+  - name: MT VERNON
+    distance_km: 24.17
+  - name: DEER PARK
+    distance_km: 25.92
+- country: US
+  region: AL
+  name: Guntersville
+  lat: '34.3671'
+  long: "-86.2637"
+  nearby_rate_centers:
+  - name: GUNTERSVL
+    distance_km: 3.94
+  - name: ALBERTVL
+    distance_km: 12.11
+  - name: GRANT
+    distance_km: 17.79
+- country: US
+  region: AL
+  name: Gurley
+  lat: '34.7072'
+  long: "-86.3768"
+  nearby_rate_centers:
+  - name: GURLEY
+    distance_km: 0.85
+  - name: OWNSCRSRDS
+    distance_km: 15.63
+  - name: NEW HOPE
+    distance_km: 18.57
+- country: US
+  region: AL
+  name: Hackleburg
+  lat: '34.2693'
+  long: "-87.8303"
+  nearby_rate_centers:
+  - name: HACKLEBURG
+    distance_km: 0.68
+  - name: PHILCMPBLL
+    distance_km: 14.12
+  - name: HALEYVILLE
+    distance_km: 20.12
+- country: US
+  region: AL
+  name: Hackneyville
+  lat: '33.0567'
+  long: "-85.9312"
+  nearby_rate_centers:
+  - name: GOODWATER
+    distance_km: 12.05
+  - name: ALEXANDRCY
+    distance_km: 12.87
+  - name: ASHLAND
+    distance_km: 25.99
+- country: US
+  region: AL
+  name: Haleburg
+  lat: '31.4099'
+  long: "-85.1381"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance_km: 13.18
+  - name: NEWVILLE
+    distance_km: 19.47
+  - name: HEADLAND
+    distance_km: 19.9
+- country: US
+  region: AL
+  name: Haleyville
+  lat: '34.2331'
+  long: "-87.6175"
+  nearby_rate_centers:
+  - name: HALEYVILLE
+    distance_km: 0.94
+  - name: PHILCMPBLL
+    distance_km: 15.33
+  - name: HACKLEBURG
+    distance_km: 20.09
+- country: US
+  region: AL
+  name: Hamilton
+  lat: '34.1346'
+  long: "-87.9755"
+  nearby_rate_centers:
+  - name: HAMILTON
+    distance_km: 1.89
+  - name: GUIN
+    distance_km: 18.55
+  - name: HACKLEBURG
+    distance_km: 20.59
+- country: US
+  region: AL
+  name: Hammondville
+  lat: '34.5688'
+  long: "-85.6394"
+  nearby_rate_centers:
+  - name: VALLEYHEAD
+    distance_km: 2.75
+  - name: MENTONE
+    distance_km: 5.11
+  - name: HENAGAR
+    distance_km: 12.84
+- country: US
+  region: AL
+  name: Hanceville
+  lat: '34.0632'
+  long: "-86.7645"
+  nearby_rate_centers:
+  - name: HANCEVILLE
+    distance_km: 0.5
+  - name: CULLMAN
+    distance_km: 14.3
+  - name: BLOUNTSVL
+    distance_km: 17.05
+- country: US
+  region: AL
+  name: Hanover
+  lat: '33.0029'
+  long: "-86.1990"
+  nearby_rate_centers:
+  - name: ROCKFORD
+    distance_km: 12.77
+  - name: GOODWATER
+    distance_km: 14.7
+  - name: SYLACAUGA
+    distance_km: 18.94
+- country: US
+  region: AL
+  name: Harpersville
+  lat: '33.3184'
+  long: "-86.4286"
+  nearby_rate_centers:
+  - name: VINCENT
+    distance_km: 7.53
+  - name: CHILDERSBG
+    distance_km: 8.85
+  - name: CHELSEA
+    distance_km: 18.22
+- country: US
+  region: AL
+  name: Hartford
+  lat: '31.1055'
+  long: "-85.6916"
+  nearby_rate_centers:
+  - name: HARTFORD
+    distance_km: 0.82
+  - name: SLOCOMB
+    distance_km: 9.38
+  - name: GENEVA
+    distance_km: 18.26
+- country: US
+  region: AL
+  name: Hartselle
+  lat: '34.4391'
+  long: "-86.9396"
+  nearby_rate_centers:
+  - name: HARTSELLE
+    distance_km: 0.38
+  - name: FALKVILLE
+    distance_km: 8.62
+  - name: MASSEY
+    distance_km: 10.44
+- country: US
+  region: AL
+  name: Harvest
+  lat: '34.8558'
+  long: "-86.7520"
+  nearby_rate_centers:
+  - name: HAZELGREEN
+    distance_km: 16.59
+  - name: ARDMORE
+    distance_km: 17.02
+  - name: ARDMORE-MA
+    distance_km: 17.02
+  - name: MADISON
+    distance_km: 18.15
+- country: US
+  region: AL
+  name: Hatton
+  lat: '34.5611'
+  long: "-87.4136"
+  nearby_rate_centers:
+  - name: TOWN CREEK
+    distance_km: 13.88
+  - name: MOULTON
+    distance_km: 14.08
+  - name: COURTLAND
+    distance_km: 15.31
+- country: US
+  region: AL
+  name: Hayden
+  lat: '33.8818'
+  long: "-86.7842"
+  nearby_rate_centers:
+  - name: WARRIOR
+    distance_km: 7.36
+  - name: NECTAR
+    distance_km: 18.2
+  - name: HANCEVILLE
+    distance_km: 20.69
+- country: US
+  region: AL
+  name: Hayneville
+  lat: '32.1822'
+  long: "-86.5787"
+  nearby_rate_centers:
+  - name: HAYNEVILLE
+    distance_km: 7.37
+  - name: LOWNDESBO
+    distance_km: 11.06
+  - name: GORDONSVL
+    distance_km: 14.76
+- country: US
+  region: AL
+  name: Hazel Green
+  lat: '34.9236'
+  long: "-86.5671"
+  nearby_rate_centers:
+  - name: HAZELGREEN
+    distance_km: 5.98
+  - name: NEW MARKET
+    distance_km: 12.42
+  - name: HUNTSVILLE
+    distance_km: 21.41
+- country: US
+  region: AL
+  name: Headland
+  lat: '31.3501'
+  long: "-85.3523"
+  nearby_rate_centers:
+  - name: HEADLAND
+    distance_km: 1.56
+  - name: NEWVILLE
+    distance_km: 8.62
+  - name: DOTHAN
+    distance_km: 14.45
+- country: US
+  region: AL
+  name: Heath
+  lat: '31.3579'
+  long: "-86.4673"
+  nearby_rate_centers:
+  - name: ANDALUSIA
+    distance_km: 4.74
+  - name: GANTT
+    distance_km: 6.3
+  - name: RED LEVEL
+    distance_km: 14.55
+- country: US
+  region: AL
+  name: Heflin
+  lat: '33.6470'
+  long: "-85.5698"
+  nearby_rate_centers:
+  - name: HEFLIN
+    distance_km: 2.34
+  - name: LECTA
+    distance_km: 13.17
+  - name: CHULAFINNE
+    distance_km: 13.22
+- country: US
+  region: AL
+  name: Helena
+  lat: '33.2837'
+  long: "-86.8791"
+  nearby_rate_centers:
+  - name: ALABASTER
+    distance_km: 7.69
+  - name: BESSEMER
+    distance_km: 14.93
+  - name: MONTEVALLO
+    distance_km: 20.57
+- country: US
+  region: AL
+  name: Henagar
+  lat: '34.6306'
+  long: "-85.7413"
+  nearby_rate_centers:
+  - name: HENAGAR
+    distance_km: 1.35
+  - name: PISGAH
+    distance_km: 11.02
+  - name: VALLEYHEAD
+    distance_km: 14.01
+- country: US
+  region: AL
+  name: Highland Lake
+  lat: '33.8876'
+  long: "-86.4244"
+  nearby_rate_centers:
+  - name: ONEONTA
+    distance_km: 7.81
+  - name: SPRINGVL
+    distance_km: 13.12
+  - name: ASHVILLE
+    distance_km: 16.97
+- country: US
+  region: AL
+  name: Highland Lakes
+  lat: '33.3973'
+  long: "-86.6495"
+  nearby_rate_centers:
+  - name: CHELSEA
+    distance_km: 6.54
+  - name: LEEDS
+    distance_km: 19.95
+  - name: BIRMINGHAM
+    distance_km: 20.01
+- country: US
+  region: AL
+  name: Hillsboro
+  lat: '34.6407'
+  long: "-87.1838"
+  nearby_rate_centers:
+  - name: COURTLAND
+    distance_km: 11.69
+  - name: DECATUR
+    distance_km: 18.47
+  - name: MOULTON
+    distance_km: 20.12
+- country: US
+  region: AL
+  name: Hissop
+  lat: '32.8815'
+  long: "-86.1285"
+  nearby_rate_centers:
+  - name: ROCKFORD
+    distance_km: 9.28
+  - name: ALEXANDRCY
+    distance_km: 17.77
+  - name: GOODWATER
+    distance_km: 21.42
+- country: US
+  region: AL
+  name: Hobson
+  lat: '31.4836'
+  long: "-88.1513"
+  nearby_rate_centers:
+  - name: CHATOM
+    distance_km: 9.37
+  - name: FRANKVILLE
+    distance_km: 17.41
+  - name: MILLRY
+    distance_km: 22.51
+- country: US
+  region: AL
+  name: Hobson City
+  lat: '33.6148'
+  long: "-85.8561"
+  nearby_rate_centers:
+  - name: ANNISTON
+    distance_km: 5.38
+  - name: MUNFORD
+    distance_km: 13.37
+  - name: OHATCHEE
+    distance_km: 20.31
+- country: US
+  region: AL
+  name: Hodges
+  lat: '34.3340'
+  long: "-87.9299"
+  nearby_rate_centers:
+  - name: HACKLEBURG
+    distance_km: 11.25
+  - name: PHILCMPBLL
+    distance_km: 20.28
+  - name: HAMILTON
+    distance_km: 21.99
+- country: US
+  region: AL
+  name: Hokes Bluff
+  lat: '33.9902'
+  long: "-85.8639"
+  nearby_rate_centers:
+  - name: GADSDEN
+    distance_km: 13.45
+  - name: ATTALLA
+    distance_km: 21.02
+  - name: JACKSONVL
+    distance_km: 21.94
+- country: US
+  region: AL
+  name: Hollins
+  lat: '33.1214'
+  long: "-86.1290"
+  nearby_rate_centers:
+  - name: GOODWATER
+    distance_km: 8.95
+  - name: SYLACAUGA
+    distance_km: 12.33
+  - name: ALEXANDRCY
+    distance_km: 25.82
+- country: US
+  region: AL
+  name: Hollis Crossroads
+  lat: '33.5231'
+  long: "-85.6437"
+  nearby_rate_centers:
+  - name: CHULAFINNE
+    distance_km: 2.79
+  - name: DELTA
+    distance_km: 10.09
+  - name: HEFLIN
+    distance_km: 14.74
+- country: US
+  region: AL
+  name: Holly Pond
+  lat: '34.1696'
+  long: "-86.6125"
+  nearby_rate_centers:
+  - name: BLOUNTSVL
+    distance_km: 10.02
+  - name: HANCEVILLE
+    distance_km: 18.2
+  - name: ARAB
+    distance_km: 19.1
+- country: US
+  region: AL
+  name: Hollywood
+  lat: '34.7195'
+  long: "-85.9641"
+  nearby_rate_centers:
+  - name: SCOTTSBORO
+    distance_km: 7.98
+  - name: PISGAH
+    distance_km: 11.76
+  - name: SECTION
+    distance_km: 16.52
+- country: US
+  region: AL
+  name: Holt
+  lat: '33.2302'
+  long: "-87.4827"
+  nearby_rate_centers:
+  - name: TUSCALOOSA
+    distance_km: 8.03
+  - name: MOUNDVILLE
+    distance_km: 28.99
+  - name: FLATWOOD
+    distance_km: 29.99
+- country: US
+  region: AL
+  name: Holtville
+  lat: '32.6314'
+  long: "-86.3268"
+  nearby_rate_centers:
+  - name: HOLTVILLE
+    distance_km: 0.66
+  - name: WETUMPKA
+    distance_km: 14.28
+  - name: PRATTVILLE
+    distance_km: 22.56
+- country: US
+  region: AL
+  name: Homewood
+  lat: '33.4619'
+  long: "-86.8090"
+  nearby_rate_centers:
+  - name: BIRMINGHAM
+    distance_km: 6.11
+  - name: BESSEMER
+    distance_km: 15.49
+  - name: GARDENDALE
+    distance_km: 20.82
+- country: US
+  region: AL
+  name: Hoover
+  lat: '33.3763'
+  long: "-86.8068"
+  nearby_rate_centers:
+  - name: BESSEMER
+    distance_km: 14.36
+  - name: BIRMINGHAM
+    distance_km: 15.63
+  - name: ALABASTER
+    distance_km: 15.87
+- country: US
+  region: AL
+  name: Horn Hill
+  lat: '31.2382'
+  long: "-86.3211"
+  nearby_rate_centers:
+  - name: OPP
+    distance_km: 7.36
+  - name: KINSTON
+    distance_km: 14.1
+  - name: ANDALUSIA
+    distance_km: 17.69
+- country: US
+  region: AL
+  name: Hueytown
+  lat: '33.4239'
+  long: "-87.0220"
+  nearby_rate_centers:
+  - name: BESSEMER
+    distance_km: 6.43
+  - name: BIRMINGHAM
+    distance_km: 22.15
+  - name: GRAYSVILLE
+    distance_km: 23.56
+- country: US
+  region: AL
+  name: Huguley
+  lat: '32.8431'
+  long: "-85.2396"
+  nearby_rate_centers:
+  - name: HUGULEY
+    distance_km: 1.56
+  - name: SHAWMUT
+    distance_km: 5.28
+  - name: WEST POINT
+    distance_km: 5.8
+- country: US
+  region: AL
+  name: Huntsville
+  lat: '34.6981'
+  long: "-86.6412"
+  nearby_rate_centers:
+  - name: HUNTSVILLE
+    distance_km: 5.95
+  - name: MADISON
+    distance_km: 9.88
+  - name: HAZELGREEN
+    distance_km: 20.15
+- country: US
+  region: AL
+  name: Hurtsboro
+  lat: '32.2401'
+  long: "-85.4147"
+  nearby_rate_centers:
+  - name: HURTSBORO
+    distance_km: 0.81
+  - name: MIDWAY
+    distance_km: 20.49
+  - name: FORT DAVIS
+    distance_km: 27.6
+- country: US
+  region: AL
+  name: Hytop
+  lat: '34.8965'
+  long: "-86.0880"
+  nearby_rate_centers:
+  - name: SKYLINE
+    distance_km: 6.13
+  - name: FRANCISCO
+    distance_km: 17.58
+  - name: STEVENSON
+    distance_km: 23.3
+- country: US
+  region: AL
+  name: Ider
+  lat: '34.7026'
+  long: "-85.6690"
+  nearby_rate_centers:
+  - name: FLAT ROCK
+    distance_km: 7.65
+  - name: HENAGAR
+    distance_km: 11.06
+  - name: PISGAH
+    distance_km: 16.05
+- country: US
+  region: AL
+  name: Indian Springs Village
+  lat: '33.3590'
+  long: "-86.7492"
+  nearby_rate_centers:
+  - name: CHELSEA
+    distance_km: 11.91
+  - name: ALABASTER
+    distance_km: 15.43
+  - name: BIRMINGHAM
+    distance_km: 18.46
+- country: US
+  region: AL
+  name: Irondale
+  lat: '33.5439'
+  long: "-86.6606"
+  nearby_rate_centers:
+  - name: TRUSSVILLE
+    distance_km: 10.19
+  - name: LEEDS
+    distance_km: 11.24
+  - name: BIRMINGHAM
+    distance_km: 14.24
+- country: US
+  region: AL
+  name: Ivalee
+  lat: '34.0372'
+  long: "-86.1472"
+  nearby_rate_centers:
+  - name: ATTALLA
+    distance_km: 5.73
+  - name: GADSDEN
+    distance_km: 13.22
+  - name: WALNUT GRV
+    distance_km: 14.69
+- country: US
+  region: AL
+  name: Jackson
+  lat: '31.5318'
+  long: "-87.8915"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 2.53
+  - name: GROVE HILL
+    distance_km: 22.38
+  - name: FRANKVILLE
+    distance_km: 27.32
+- country: US
+  region: AL
+  name: Jacksons' Gap
+  lat: '32.8831'
+  long: "-85.8151"
+  nearby_rate_centers:
+  - name: DADEVILLE
+    distance_km: 7.93
+  - name: ALEXANDRCY
+    distance_km: 14.42
+  - name: CAMP HILL
+    distance_km: 17.72
+- country: US
+  region: AL
+  name: Jacksonville
+  lat: '33.8088'
+  long: "-85.7545"
+  nearby_rate_centers:
+  - name: JACKSONVL
+    distance_km: 0.61
+  - name: ANNISTON
+    distance_km: 18.15
+  - name: PIEDMONT
+    distance_km: 19.19
+- country: US
+  region: AL
+  name: Jasper
+  lat: '33.8508'
+  long: "-87.2710"
+  nearby_rate_centers:
+  - name: JASPER
+    distance_km: 1.89
+  - name: PARRISH
+    distance_km: 13.11
+  - name: CORDOVA
+    distance_km: 13.32
+- country: US
+  region: AL
+  name: Jemison
+  lat: '32.9696'
+  long: "-86.7339"
+  nearby_rate_centers:
+  - name: JEMISON
+    distance_km: 2.1
+  - name: THORSBY
+    distance_km: 6.16
+  - name: CALERA
+    distance_km: 15.54
+- country: US
+  region: AL
+  name: Joppa
+  lat: '34.2982'
+  long: "-86.5506"
+  nearby_rate_centers:
+  - name: ARAB
+    distance_km: 4.89
+  - name: UNIONGROVE
+    distance_km: 14.15
+  - name: MORGANCITY
+    distance_km: 20.76
+- country: US
+  region: AL
+  name: Kansas
+  lat: '33.9029'
+  long: "-87.5568"
+  nearby_rate_centers:
+  - name: CARBONHILL
+    distance_km: 3.02
+  - name: NAUVOO
+    distance_km: 11.6
+  - name: LYNN
+    distance_km: 16.37
+- country: US
+  region: AL
+  name: Kellyton
+  lat: '32.9791'
+  long: "-86.0358"
+  nearby_rate_centers:
+  - name: ALEXANDRCY
+    distance_km: 8.78
+  - name: GOODWATER
+    distance_km: 9.86
+  - name: ROCKFORD
+    distance_km: 20.41
+- country: US
+  region: AL
+  name: Kennedy
+  lat: '33.5810'
+  long: "-87.9859"
+  nearby_rate_centers:
+  - name: KENNEDY
+    distance_km: 0.26
+  - name: MILLPORT
+    distance_km: 8.92
+  - name: FAYETTE
+    distance_km: 18.99
+- country: US
+  region: AL
+  name: Killen
+  lat: '34.8607'
+  long: "-87.5268"
+  nearby_rate_centers:
+  - name: KILLEN
+    distance_km: 2.3
+  - name: FLORENCE
+    distance_km: 14.95
+  - name: LEIGHTON
+    distance_km: 16.68
+- country: US
+  region: AL
+  name: Kimberly
+  lat: '33.7758'
+  long: "-86.7964"
+  nearby_rate_centers:
+  - name: WARRIOR
+    distance_km: 4.82
+  - name: GARDENDALE
+    distance_km: 14.18
+  - name: PINSON
+    distance_km: 14.25
+- country: US
+  region: AL
+  name: Kinsey
+  lat: '31.2926'
+  long: "-85.3353"
+  nearby_rate_centers:
+  - name: HEADLAND
+    distance_km: 6.44
+  - name: DOTHAN
+    distance_km: 9.26
+  - name: NEWVILLE
+    distance_km: 14.98
+- country: US
+  region: AL
+  name: Kinston
+  lat: '31.2200'
+  long: "-86.1705"
+  nearby_rate_centers:
+  - name: KINSTON
+    distance_km: 0.61
+  - name: OPP
+    distance_km: 11.6
+  - name: SAMSON
+    distance_km: 17.0
+- country: US
+  region: AL
+  name: La Fayette
+  lat: '32.8997'
+  long: "-85.4007"
+  nearby_rate_centers:
+  - name: LAFAYETTE
+    distance_km: 0.19
+  - name: FREDONIA
+    distance_km: 14.28
+  - name: HUGULEY
+    distance_km: 14.75
+- country: US
+  region: AL
+  name: Ladonia
+  lat: '32.4609'
+  long: "-85.0877"
+  nearby_rate_centers:
+  - name: PHENIXCITY
+    distance_km: 7.71
+  - name: OPELIKA
+    distance_km: 34.19
+  - name: HURTSBORO
+    distance_km: 38.64
+- country: US
+  region: AL
+  name: Lake View
+  lat: '33.2802'
+  long: "-87.1259"
+  nearby_rate_centers:
+  - name: W BLOCTON
+    distance_km: 18.41
+  - name: BESSEMER
+    distance_km: 20.48
+  - name: ALABASTER
+    distance_km: 28.76
+- country: US
+  region: AL
+  name: Lanett
+  lat: '32.8577'
+  long: "-85.2078"
+  nearby_rate_centers:
+  - name: SHAWMUT
+    distance_km: 2.29
+  - name: WEST POINT
+    distance_km: 2.59
+  - name: HUGULEY
+    distance_km: 4.52
+- country: US
+  region: AL
+  name: Langston
+  lat: '34.5374'
+  long: "-86.0899"
+  nearby_rate_centers:
+  - name: SECTION
+    distance_km: 9.77
+  - name: GRANT
+    distance_km: 14.73
+  - name: SCOTTSBORO
+    distance_km: 16.18
+- country: US
+  region: AL
+  name: Leeds
+  lat: '33.5436'
+  long: "-86.5639"
+  nearby_rate_centers:
+  - name: LEEDS
+    distance_km: 2.41
+  - name: TRUSSVILLE
+    distance_km: 10.11
+  - name: PINSON
+    distance_km: 19.59
+- country: US
+  region: AL
+  name: Leesburg
+  lat: '34.1839'
+  long: "-85.7750"
+  nearby_rate_centers:
+  - name: LEESBURG
+    distance_km: 0.65
+  - name: SAND ROCK
+    distance_km: 6.67
+  - name: CENTRE
+    distance_km: 8.94
+- country: US
+  region: AL
+  name: Leighton
+  lat: '34.6941'
+  long: "-87.5282"
+  nearby_rate_centers:
+  - name: LEIGHTON
+    distance_km: 1.86
+  - name: TOWN CREEK
+    distance_km: 10.94
+  - name: SHEFFIELD
+    distance_km: 17.45
+- country: US
+  region: AL
+  name: Leroy
+  lat: '31.4952'
+  long: "-87.9690"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 7.6
+  - name: FRANKVILLE
+    distance_km: 23.56
+  - name: MCINTOSH
+    distance_km: 26.14
+- country: US
+  region: AL
+  name: Lester
+  lat: '34.9871'
+  long: "-87.1513"
+  nearby_rate_centers:
+  - name: VETO
+    distance_km: 13.87
+  - name: ELKMONT
+    distance_km: 17.7
+  - name: LEXINGTON
+    distance_km: 20.01
+- country: US
+  region: AL
+  name: Level Plains
+  lat: '31.3071'
+  long: "-85.7687"
+  nearby_rate_centers:
+  - name: DALEVILLE
+    distance_km: 5.07
+  - name: ENTERPRISE
+    distance_km: 8.59
+  - name: WICKSBURG
+    distance_km: 13.96
+- country: US
+  region: AL
+  name: Lexington
+  lat: '34.9652'
+  long: "-87.3735"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance_km: 0.38
+  - name: KILLEN
+    distance_km: 16.8
+  - name: ROGERSVL
+    distance_km: 17.61
+- country: US
+  region: AL
+  name: Libertyville
+  lat: '31.2428'
+  long: "-86.4600"
+  nearby_rate_centers:
+  - name: ANDALUSIA
+    distance_km: 8.56
+  - name: GANTT
+    distance_km: 18.89
+  - name: OPP
+    distance_km: 19.01
+- country: US
+  region: AL
+  name: Lillian
+  lat: '30.4122'
+  long: "-87.4320"
+  nearby_rate_centers:
+  - name: LILLIAN
+    distance_km: 1.13
+  - name: ELBERTA
+    distance_km: 15.94
+  - name: SEMINOLE
+    distance_km: 16.42
+- country: US
+  region: AL
+  name: Lincoln
+  lat: '33.5935'
+  long: "-86.1365"
+  nearby_rate_centers:
+  - name: LINCOLN
+    distance_km: 3.1
+  - name: PELL CITY
+    distance_km: 13.56
+  - name: RAGLAND
+    distance_km: 16.33
+- country: US
+  region: AL
+  name: Linden
+  lat: '32.3001'
+  long: "-87.7926"
+  nearby_rate_centers:
+  - name: LINDEN
+    distance_km: 0.93
+  - name: THOMASTON
+    distance_km: 16.34
+  - name: SWEETWATER
+    distance_km: 23.95
+- country: US
+  region: AL
+  name: Lineville
+  lat: '33.3129'
+  long: "-85.7508"
+  nearby_rate_centers:
+  - name: LINEVILLE
+    distance_km: 0.98
+  - name: ASHLAND
+    distance_km: 8.62
+  - name: DELTA
+    distance_km: 15.34
+- country: US
+  region: AL
+  name: Lipscomb
+  lat: '33.4260'
+  long: "-86.9261"
+  nearby_rate_centers:
+  - name: BESSEMER
+    distance_km: 4.16
+  - name: BIRMINGHAM
+    distance_km: 14.71
+  - name: GRAYSVILLE
+    distance_km: 23.35
+- country: US
+  region: AL
+  name: Lisman
+  lat: '32.1792'
+  long: "-88.3002"
+  nearby_rate_centers:
+  - name: LISMAN
+    distance_km: 1.48
+  - name: BUTLER
+    distance_km: 11.85
+  - name: NEEDHAM
+    distance_km: 20.93
+- country: US
+  region: AL
+  name: Littleville
+  lat: '34.5950'
+  long: "-87.6719"
+  nearby_rate_centers:
+  - name: RUSSELLVL
+    distance_km: 11.06
+  - name: LEIGHTON
+    distance_km: 18.58
+  - name: SHEFFIELD
+    distance_km: 19.08
+- country: US
+  region: AL
+  name: Livingston
+  lat: '32.5982'
+  long: "-88.1891"
+  nearby_rate_centers:
+  - name: LIVINGSTON
+    distance_km: 1.83
+  - name: YORK
+    distance_km: 16.39
+  - name: DEMOPOLIS
+    distance_km: 34.79
+- country: US
+  region: AL
+  name: Loachapoka
+  lat: '32.6049'
+  long: "-85.5948"
+  nearby_rate_centers:
+  - name: NOTASULGA
+    distance_km: 8.54
+  - name: AUBURN
+    distance_km: 10.3
+  - name: OPELIKA
+    distance_km: 20.17
+- country: US
+  region: AL
+  name: Lockhart
+  lat: '31.0128'
+  long: "-86.3505"
+  nearby_rate_centers:
+  - name: FLORALA
+    distance_km: 1.66
+  - name: WING
+    distance_km: 25.27
+  - name: KINSTON
+    distance_km: 28.11
+- country: US
+  region: AL
+  name: Locust Fork
+  lat: '33.8957'
+  long: "-86.6302"
+  nearby_rate_centers:
+  - name: NECTAR
+    distance_km: 8.2
+  - name: ONEONTA
+    distance_km: 16.14
+  - name: WARRIOR
+    distance_km: 18.42
+- country: US
+  region: AL
+  name: Lookout Mountain
+  lat: '34.1091'
+  long: "-85.9585"
+  nearby_rate_centers:
+  - name: GADSDEN
+    distance_km: 12.2
+  - name: ARONEY
+    distance_km: 14.26
+  - name: ATTALLA
+    distance_km: 15.73
+- country: US
+  region: AL
+  name: Louisville
+  lat: '31.7810'
+  long: "-85.5583"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 1.6
+  - name: CLIO
+    distance_km: 9.68
+  - name: CLAYTON
+    distance_km: 14.27
+- country: US
+  region: AL
+  name: Lowndesboro
+  lat: '32.2764'
+  long: "-86.6108"
+  nearby_rate_centers:
+  - name: LOWNDESBO
+    distance_km: 0.51
+  - name: HAYNEVILLE
+    distance_km: 14.67
+  - name: GORDONSVL
+    distance_km: 16.59
+- country: US
+  region: AL
+  name: Loxley
+  lat: '30.6812'
+  long: "-87.7416"
+  nearby_rate_centers:
+  - name: LOXLEY
+    distance_km: 6.33
+  - name: ROBERTSDL
+    distance_km: 13.81
+  - name: SUMMERDALE
+    distance_km: 21.19
+- country: US
+  region: AL
+  name: Luverne
+  lat: '31.7186'
+  long: "-86.2687"
+  nearby_rate_centers:
+  - name: LUVERNE
+    distance_km: 0.71
+  - name: GOSHEN
+    distance_km: 13.58
+  - name: BRANTLEY
+    distance_km: 14.3
+- country: US
+  region: AL
+  name: Lynn
+  lat: '34.0548'
+  long: "-87.5555"
+  nearby_rate_centers:
+  - name: LYNN
+    distance_km: 0.59
+  - name: NAUVOO
+    distance_km: 9.31
+  - name: DOUBLE SPG
+    distance_km: 17.7
+- country: US
+  region: AL
+  name: Macedonia
+  lat: '33.4031'
+  long: "-88.2392"
+  nearby_rate_centers:
+  - name: ETHELSVL
+    distance_km: 2.8
+  - name: REFORM
+    distance_km: 20.94
+  - name: CARROLLTON
+    distance_km: 21.1
+- country: US
+  region: AL
+  name: Madison
+  lat: '34.7114'
+  long: "-86.7626"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 2.43
+  - name: HUNTSVILLE
+    distance_km: 15.87
+  - name: ATHENS
+    distance_km: 22.42
+- country: US
+  region: AL
+  name: Madrid
+  lat: '31.0356'
+  long: "-85.3992"
+  nearby_rate_centers:
+  - name: COTTONWOOD
+    distance_km: 9.52
+  - name: SLOCOMB
+    distance_km: 20.57
+  - name: DOTHAN
+    distance_km: 21.02
+- country: US
+  region: AL
+  name: Magnolia Springs
+  lat: '30.4003'
+  long: "-87.7749"
+  nearby_rate_centers:
+  - name: MAGNOLISPG
+    distance_km: 0.85
+  - name: FOLEY
+    distance_km: 8.6
+  - name: MARLOW
+    distance_km: 8.6
+  - name: BON SECOUR
+    distance_km: 11.6
+- country: US
+  region: AL
+  name: Malcolm
+  lat: '31.1946'
+  long: "-88.0016"
+  nearby_rate_centers:
+  - name: MCINTOSH
+    distance_km: 8.62
+  - name: MT VERNON
+    distance_km: 12.25
+  - name: CITRONELLE
+    distance_km: 25.66
+- country: US
+  region: AL
+  name: Malvern
+  lat: '31.1428'
+  long: "-85.5210"
+  nearby_rate_centers:
+  - name: SLOCOMB
+    distance_km: 7.55
+  - name: DOTHAN
+    distance_km: 15.32
+  - name: HARTFORD
+    distance_km: 16.82
+- country: US
+  region: AL
+  name: Maplesville
+  lat: '32.7867'
+  long: "-86.8783"
+  nearby_rate_centers:
+  - name: MAPLESVL
+    distance_km: 0.48
+  - name: THORSBY
+    distance_km: 20.7
+  - name: JEMISON
+    distance_km: 22.33
+- country: US
+  region: AL
+  name: Marbury
+  lat: '32.6793'
+  long: "-86.4608"
+  nearby_rate_centers:
+  - name: HOLTVILLE
+    distance_km: 13.96
+  - name: PRATTVILLE
+    distance_km: 23.79
+  - name: CLANTON
+    distance_km: 24.33
+- country: US
+  region: AL
+  name: Margaret
+  lat: '33.6734'
+  long: "-86.4680"
+  nearby_rate_centers:
+  - name: ODENVILLE
+    distance_km: 5.94
+  - name: SPRINGVL
+    distance_km: 11.27
+  - name: TRUSSVILLE
+    distance_km: 14.26
+- country: US
+  region: AL
+  name: Marion
+  lat: '32.6318'
+  long: "-87.3172"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 0.58
+  - name: UNIONTOWN
+    distance_km: 26.9
+  - name: GREENSBORO
+    distance_km: 27.66
+- country: US
+  region: AL
+  name: Maytown
+  lat: '33.5499'
+  long: "-87.0001"
+  nearby_rate_centers:
+  - name: GRAYSVILLE
+    distance_km: 9.44
+  - name: BESSEMER
+    distance_km: 17.06
+  - name: BIRMINGHAM
+    distance_km: 17.93
+- country: US
+  region: AL
+  name: McCalla
+  lat: '33.3023'
+  long: "-87.0302"
+  nearby_rate_centers:
+  - name: BESSEMER
+    distance_km: 12.76
+  - name: ALABASTER
+    distance_km: 20.83
+  - name: W BLOCTON
+    distance_km: 22.66
+- country: US
+  region: AL
+  name: McDonald Chapel
+  lat: '33.5190'
+  long: "-86.9385"
+  nearby_rate_centers:
+  - name: BIRMINGHAM
+    distance_km: 11.84
+  - name: GRAYSVILLE
+    distance_km: 13.0
+  - name: BESSEMER
+    distance_km: 13.32
+- country: US
+  region: AL
+  name: McIntosh
+  lat: '31.2649'
+  long: "-88.0284"
+  nearby_rate_centers:
+  - name: MCINTOSH
+    distance_km: 0.62
+  - name: MT VERNON
+    distance_km: 20.11
+  - name: DEER PARK
+    distance_km: 27.24
+- country: US
+  region: AL
+  name: McKenzie
+  lat: '31.5429'
+  long: "-86.7246"
+  nearby_rate_centers:
+  - name: MCKENZIE
+    distance_km: 1.18
+  - name: GEORGIANA
+    distance_km: 11.15
+  - name: RED LEVEL
+    distance_km: 18.63
+- country: US
+  region: AL
+  name: McMullen
+  lat: '33.1481'
+  long: "-88.1757"
+  nearby_rate_centers:
+  - name: ALICEVILLE
+    distance_km: 3.7
+  - name: CARROLLTON
+    distance_km: 14.78
+  - name: PANOLA
+    distance_km: 24.43
+- country: US
+  region: AL
+  name: Meadowbrook
+  lat: '33.3935'
+  long: "-86.7041"
+  nearby_rate_centers:
+  - name: CHELSEA
+    distance_km: 9.44
+  - name: BIRMINGHAM
+    distance_km: 16.91
+  - name: ALABASTER
+    distance_km: 20.81
+- country: US
+  region: AL
+  name: Megargel
+  lat: '31.3781'
+  long: "-87.4307"
+  nearby_rate_centers:
+  - name: FRISCOCITY
+    distance_km: 7.51
+  - name: URIAH
+    distance_km: 10.19
+  - name: EXCEL
+    distance_km: 10.41
+- country: US
+  region: AL
+  name: Memphis
+  lat: '33.1369'
+  long: "-88.3008"
+  nearby_rate_centers:
+  - name: ALICEVILLE
+    distance_km: 14.3
+  - name: PANOLA
+    distance_km: 21.98
+  - name: CARROLLTON
+    distance_km: 23.92
+- country: US
+  region: AL
+  name: Mentone
+  lat: '34.5655'
+  long: "-85.5846"
+  nearby_rate_centers:
+  - name: MENTONE
+    distance_km: 1.15
+  - name: VALLEYHEAD
+    distance_km: 2.29
+  - name: HENAGAR
+    distance_km: 17.38
+- country: US
+  region: AL
+  name: Meridianville
+  lat: '34.8729'
+  long: "-86.5722"
+  nearby_rate_centers:
+  - name: HAZELGREEN
+    distance_km: 0.35
+  - name: NEW MARKET
+    distance_km: 13.33
+  - name: HUNTSVILLE
+    distance_km: 15.75
+- country: US
+  region: AL
+  name: Midfield
+  lat: '33.4553'
+  long: "-86.9224"
+  nearby_rate_centers:
+  - name: BESSEMER
+    distance_km: 6.98
+  - name: BIRMINGHAM
+    distance_km: 12.41
+  - name: GRAYSVILLE
+    distance_km: 20.24
+- country: US
+  region: AL
+  name: Midland City
+  lat: '31.3157'
+  long: "-85.4937"
+  nearby_rate_centers:
+  - name: MIDLAND CY
+    distance_km: 1.14
+  - name: NEWTON
+    distance_km: 10.03
+  - name: WICKSBURG
+    distance_km: 12.54
+- country: US
+  region: AL
+  name: Midway
+  lat: '32.0764'
+  long: "-85.5244"
+  nearby_rate_centers:
+  - name: MIDWAY
+    distance_km: 0.64
+  - name: UNION SPG
+    distance_km: 19.48
+  - name: HURTSBORO
+    distance_km: 21.41
+- country: US
+  region: AL
+  name: Mignon
+  lat: '33.1948'
+  long: "-86.2650"
+  nearby_rate_centers:
+  - name: SYLACAUGA
+    distance_km: 3.33
+  - name: CHILDERSBG
+    distance_km: 11.88
+  - name: GOODWATER
+    distance_km: 23.9
+- country: US
+  region: AL
+  name: Millbrook
+  lat: '32.5027'
+  long: "-86.3737"
+  nearby_rate_centers:
+  - name: PRATTVILLE
+    distance_km: 9.52
+  - name: HOLTVILLE
+    distance_km: 15.51
+  - name: MONTGOMERY
+    distance_km: 15.84
+- country: US
+  region: AL
+  name: Millerville
+  lat: '33.1926'
+  long: "-85.9302"
+  nearby_rate_centers:
+  - name: ASHLAND
+    distance_km: 12.96
+  - name: GOODWATER
+    distance_km: 18.61
+  - name: LINEVILLE
+    distance_km: 22.36
+- country: US
+  region: AL
+  name: Millport
+  lat: '33.5586'
+  long: "-88.0817"
+  nearby_rate_centers:
+  - name: MILLPORT
+    distance_km: 1.03
+  - name: KENNEDY
+    distance_km: 9.38
+  - name: ETHELSVL
+    distance_km: 19.91
+- country: US
+  region: AL
+  name: Millry
+  lat: '31.6256'
+  long: "-88.3190"
+  nearby_rate_centers:
+  - name: MILLRY
+    distance_km: 1.15
+  - name: FRANKVILLE
+    distance_km: 16.05
+  - name: SILAS
+    distance_km: 16.61
+- country: US
+  region: AL
+  name: Minor
+  lat: '33.5390'
+  long: "-86.9401"
+  nearby_rate_centers:
+  - name: GRAYSVILLE
+    distance_km: 10.82
+  - name: BIRMINGHAM
+    distance_km: 12.24
+  - name: BESSEMER
+    distance_km: 15.51
+- country: US
+  region: AL
+  name: Mobile
+  lat: '30.6782'
+  long: "-88.1162"
+  nearby_rate_centers:
+  - name: MOBILE
+    distance_km: 6.54
+  - name: BELLEFONTN
+    distance_km: 17.28
+  - name: IRNGTNSTEL
+    distance_km: 20.63
+- country: US
+  region: AL
+  name: Monroeville
+  lat: '31.5162'
+  long: "-87.3279"
+  nearby_rate_centers:
+  - name: MONROEVL
+    distance_km: 1.06
+  - name: EXCEL
+    distance_km: 9.17
+  - name: PETERMAN
+    distance_km: 9.38
+- country: US
+  region: AL
+  name: Montevallo
+  lat: '33.1246'
+  long: "-86.8477"
+  nearby_rate_centers:
+  - name: MONTEVALLO
+    distance_km: 3.5
+  - name: CALERA
+    distance_km: 9.1
+  - name: ALABASTER
+    distance_km: 12.42
+- country: US
+  region: AL
+  name: Montgomery
+  lat: '32.3482'
+  long: "-86.2668"
+  nearby_rate_centers:
+  - name: MONTGOMERY
+    distance_km: 4.31
+  - name: PRATTVILLE
+    distance_km: 22.71
+  - name: WETUMPKA
+    distance_km: 23.26
+- country: US
+  region: AL
+  name: Moody
+  lat: '33.5986'
+  long: "-86.4963"
+  nearby_rate_centers:
+  - name: LEEDS
+    distance_km: 6.6
+  - name: TRUSSVILLE
+    distance_km: 11.04
+  - name: ODENVILLE
+    distance_km: 13.14
+- country: US
+  region: AL
+  name: Moores Mill
+  lat: '34.8491'
+  long: "-86.5222"
+  nearby_rate_centers:
+  - name: HAZELGREEN
+    distance_km: 5.01
+  - name: NEW MARKET
+    distance_km: 10.46
+  - name: HUNTSVILLE
+    distance_km: 14.45
+- country: US
+  region: AL
+  name: Mooresville
+  lat: '34.6257'
+  long: "-86.8802"
+  nearby_rate_centers:
+  - name: DECATUR
+    distance_km: 9.82
+  - name: MADISON
+    distance_km: 14.11
+  - name: HARTSELLE
+    distance_km: 21.18
+- country: US
+  region: AL
+  name: Morris
+  lat: '33.7464'
+  long: "-86.8042"
+  nearby_rate_centers:
+  - name: WARRIOR
+    distance_km: 8.0
+  - name: GARDENDALE
+    distance_km: 10.86
+  - name: PINSON
+    distance_km: 12.91
+- country: US
+  region: AL
+  name: Morrison Crossroads
+  lat: '33.4198'
+  long: "-85.4903"
+  nearby_rate_centers:
+  - name: MRNSCRSRDS
+    distance_km: 0.38
+  - name: WOODLAND
+    distance_km: 7.97
+  - name: WEDOWEE
+    distance_km: 13.47
+- country: US
+  region: AL
+  name: Mosses
+  lat: '32.1802'
+  long: "-86.6888"
+  nearby_rate_centers:
+  - name: GORDONSVL
+    distance_km: 4.48
+  - name: LOWNDESBO
+    distance_km: 13.44
+  - name: HAYNEVILLE
+    distance_km: 17.74
+- country: US
+  region: AL
+  name: Moulton
+  lat: '34.4844'
+  long: "-87.2833"
+  nearby_rate_centers:
+  - name: MOULTON
+    distance_km: 0.83
+  - name: COURTLAND
+    distance_km: 20.48
+  - name: GRAYSON
+    distance_km: 22.64
+- country: US
+  region: AL
+  name: Moundville
+  lat: '32.9968'
+  long: "-87.6272"
+  nearby_rate_centers:
+  - name: MOUNDVILLE
+    distance_km: 0.32
+  - name: TUSCALOOSA
+    distance_km: 23.32
+  - name: EUTAW
+    distance_km: 30.18
+- country: US
+  region: AL
+  name: Mount Olive
+  lat: '33.6778'
+  long: "-86.8727"
+  nearby_rate_centers:
+  - name: GARDENDALE
+    distance_km: 6.29
+  - name: GRAYSVILLE
+    distance_km: 10.7
+  - name: WARRIOR
+    distance_km: 16.78
+- country: US
+  region: AL
+  name: Mount Vernon
+  lat: '31.0889'
+  long: "-88.0137"
+  nearby_rate_centers:
+  - name: MT VERNON
+    distance_km: 0.57
+  - name: MCINTOSH
+    distance_km: 19.89
+  - name: CITRONELLE
+    distance_km: 21.68
+- country: US
+  region: AL
+  name: Mountain Brook
+  lat: '33.4871'
+  long: "-86.7400"
+  nearby_rate_centers:
+  - name: BIRMINGHAM
+    distance_km: 7.35
+  - name: GARDENDALE
+    distance_km: 19.28
+  - name: CHELSEA
+    distance_km: 19.39
+- country: US
+  region: AL
+  name: Movico
+  lat: '31.0628'
+  long: "-88.0266"
+  nearby_rate_centers:
+  - name: MT VERNON
+    distance_km: 2.89
+  - name: CITRONELLE
+    distance_km: 20.66
+  - name: MCINTOSH
+    distance_km: 22.7
+- country: US
+  region: AL
+  name: Mulga
+  lat: '33.5521'
+  long: "-86.9730"
+  nearby_rate_centers:
+  - name: GRAYSVILLE
+    distance_km: 8.89
+  - name: BIRMINGHAM
+    distance_km: 15.54
+  - name: BESSEMER
+    distance_km: 16.92
+- country: US
+  region: AL
+  name: Munford
+  lat: '33.5258'
+  long: "-85.9555"
+  nearby_rate_centers:
+  - name: MUNFORD
+    distance_km: 0.39
+  - name: TALLADEGA
+    distance_km: 16.4
+  - name: LINCOLN
+    distance_km: 18.07
+- country: US
+  region: AL
+  name: Muscle Shoals
+  lat: '34.7432'
+  long: "-87.6343"
+  nearby_rate_centers:
+  - name: SHEFFIELD
+    distance_km: 6.35
+  - name: FLORENCE
+    distance_km: 8.24
+  - name: LEIGHTON
+    distance_km: 10.59
+- country: US
+  region: AL
+  name: Myrtlewood
+  lat: '32.2521'
+  long: "-87.9492"
+  nearby_rate_centers:
+  - name: PENNINGTON
+    distance_km: 10.01
+  - name: LINDEN
+    distance_km: 15.25
+  - name: NANAFALIA
+    distance_km: 16.44
+- country: US
+  region: AL
+  name: Nanafalia
+  lat: '32.1114'
+  long: "-87.9958"
+  nearby_rate_centers:
+  - name: NANAFALIA
+    distance_km: 0.99
+  - name: PENNINGTON
+    distance_km: 12.8
+  - name: SWEETWATER
+    distance_km: 13.33
+- country: US
+  region: AL
+  name: Nances Creek
+  lat: '33.8588'
+  long: "-85.6733"
+  nearby_rate_centers:
+  - name: JACKSONVL
+    distance_km: 9.25
+  - name: PIEDMONT
+    distance_km: 9.97
+  - name: HEFLIN
+    distance_km: 24.39
+- country: US
+  region: AL
+  name: Napier Field
+  lat: '31.3147'
+  long: "-85.4550"
+  nearby_rate_centers:
+  - name: MIDLAND CY
+    distance_km: 4.57
+  - name: DOTHAN
+    distance_km: 11.71
+  - name: HEADLAND
+    distance_km: 11.99
+- country: US
+  region: AL
+  name: Natural Bridge
+  lat: '34.0904'
+  long: "-87.6014"
+  nearby_rate_centers:
+  - name: LYNN
+    distance_km: 6.34
+  - name: HALEYVILLE
+    distance_km: 15.01
+  - name: NAUVOO
+    distance_km: 15.08
+- country: US
+  region: AL
+  name: Nauvoo
+  lat: '33.9874'
+  long: "-87.4875"
+  nearby_rate_centers:
+  - name: NAUVOO
+    distance_km: 0.47
+  - name: LYNN
+    distance_km: 9.2
+  - name: CARBONHILL
+    distance_km: 11.14
+- country: US
+  region: AL
+  name: Nectar
+  lat: '33.9686'
+  long: "-86.6346"
+  nearby_rate_centers:
+  - name: NECTAR
+    distance_km: 1.63
+  - name: BLOUNTSVL
+    distance_km: 13.68
+  - name: ONEONTA
+    distance_km: 15.61
+- country: US
+  region: AL
+  name: Needham
+  lat: '31.9870'
+  long: "-88.3366"
+  nearby_rate_centers:
+  - name: NEEDHAM
+    distance_km: 3.63
+  - name: GILBERTOWN
+    distance_km: 11.53
+  - name: MELVIN
+    distance_km: 13.15
+- country: US
+  region: AL
+  name: New Brockton
+  lat: '31.3785'
+  long: "-85.9228"
+  nearby_rate_centers:
+  - name: NEWBROCKTN
+    distance_km: 1.66
+  - name: ENTERPRISE
+    distance_km: 9.38
+  - name: ELBA
+    distance_km: 14.46
+- country: US
+  region: AL
+  name: New Hope
+  lat: '34.5370'
+  long: "-86.4128"
+  nearby_rate_centers:
+  - name: NEW HOPE
+    distance_km: 1.37
+  - name: OWNSCRSRDS
+    distance_km: 6.75
+  - name: GRANT
+    distance_km: 14.94
+- country: US
+  region: AL
+  name: New Market
+  lat: '34.8892'
+  long: "-86.4226"
+  nearby_rate_centers:
+  - name: NEW MARKET
+    distance_km: 2.22
+  - name: HAZELGREEN
+    distance_km: 13.7
+  - name: FRANCISCO
+    distance_km: 18.91
+- country: US
+  region: AL
+  name: New Site
+  lat: '33.0282'
+  long: "-85.7801"
+  nearby_rate_centers:
+  - name: ALEXANDRCY
+    distance_km: 18.7
+  - name: DADEVILLE
+    distance_km: 22.04
+  - name: WADLEY
+    distance_km: 22.1
+- country: US
+  region: AL
+  name: New Union
+  lat: '34.1422'
+  long: "-86.2218"
+  nearby_rate_centers:
+  - name: BOAZ
+    distance_km: 9.17
+  - name: WALNUT GRV
+    distance_km: 11.12
+  - name: ALBERTVL
+    distance_km: 13.96
+- country: US
+  region: AL
+  name: Newbern
+  lat: '32.5920'
+  long: "-87.5331"
+  nearby_rate_centers:
+  - name: GREENSBORO
+    distance_km: 14.09
+  - name: UNIONTOWN
+    distance_km: 15.7
+  - name: MARION
+    distance_km: 20.62
+- country: US
+  region: AL
+  name: Newton
+  lat: '31.3423'
+  long: "-85.5893"
+  nearby_rate_centers:
+  - name: NEWTON
+    distance_km: 1.31
+  - name: WICKSBURG
+    distance_km: 6.41
+  - name: MIDLAND CY
+    distance_km: 9.03
+- country: US
+  region: AL
+  name: Newville
+  lat: '31.4206'
+  long: "-85.3367"
+  nearby_rate_centers:
+  - name: NEWVILLE
+    distance_km: 0.9
+  - name: HEADLAND
+    distance_km: 7.79
+  - name: ECHO
+    distance_km: 13.09
+- country: US
+  region: AL
+  name: Nixburg
+  lat: '32.8640'
+  long: "-86.0976"
+  nearby_rate_centers:
+  - name: ROCKFORD
+    distance_km: 12.47
+  - name: ALEXANDRCY
+    distance_km: 16.1
+  - name: KOWALIGA
+    distance_km: 21.3
+- country: US
+  region: AL
+  name: North Courtland
+  lat: '34.6788'
+  long: "-87.3083"
+  nearby_rate_centers:
+  - name: COURTLAND
+    distance_km: 1.26
+  - name: TOWN CREEK
+    distance_km: 9.24
+  - name: ROGERSVL
+    distance_km: 16.01
+- country: US
+  region: AL
+  name: North Johns
+  lat: '33.3677'
+  long: "-87.1008"
+  nearby_rate_centers:
+  - name: BESSEMER
+    distance_km: 13.68
+  - name: W BLOCTON
+    distance_km: 28.23
+  - name: ALABASTER
+    distance_km: 29.91
+- country: US
+  region: AL
+  name: Northport
+  lat: '33.2586'
+  long: "-87.5993"
+  nearby_rate_centers:
+  - name: TUSCALOOSA
+    distance_km: 7.54
+  - name: FLATWOOD
+    distance_km: 28.4
+  - name: MOUNDVILLE
+    distance_km: 28.92
+- country: US
+  region: AL
+  name: Notasulga
+  lat: '32.5573'
+  long: "-85.6692"
+  nearby_rate_centers:
+  - name: NOTASULGA
+    distance_km: 1.03
+  - name: TUSKEGEE
+    distance_km: 14.71
+  - name: AUBURN
+    distance_km: 17.86
+- country: US
+  region: AL
+  name: Oak Grove
+  lat: '33.1927'
+  long: "-86.3040"
+  nearby_rate_centers:
+  - name: SYLACAUGA
+    distance_km: 5.8
+  - name: CHILDERSBG
+    distance_km: 10.13
+  - name: VINCENT
+    distance_km: 23.77
+- country: US
+  region: AL
+  name: Oak Hill
+  lat: '31.9216'
+  long: "-87.0852"
+  nearby_rate_centers:
+  - name: PINE APPLE
+    distance_km: 10.34
+  - name: CAMDEN
+    distance_km: 20.89
+  - name: BEATRICE
+    distance_km: 23.5
+- country: US
+  region: AL
+  name: Oakman
+  lat: '33.7141'
+  long: "-87.3890"
+  nearby_rate_centers:
+  - name: OAKMAN
+    distance_km: 0.62
+  - name: PARRISH
+    distance_km: 9.95
+  - name: JASPER
+    distance_km: 16.94
+- country: US
+  region: AL
+  name: Odenville
+  lat: '33.6978'
+  long: "-86.4228"
+  nearby_rate_centers:
+  - name: ODENVILLE
+    distance_km: 1.65
+  - name: SPRINGVL
+    distance_km: 9.43
+  - name: PELL CITY
+    distance_km: 17.48
+- country: US
+  region: AL
+  name: Ohatchee
+  lat: '33.7877'
+  long: "-86.0281"
+  nearby_rate_centers:
+  - name: OHATCHEE
+    distance_km: 5.96
+  - name: RAGLAND
+    distance_km: 13.07
+  - name: LINCOLN
+    distance_km: 20.77
+- country: US
+  region: AL
+  name: Oneonta
+  lat: '33.9394'
+  long: "-86.4932"
+  nearby_rate_centers:
+  - name: ONEONTA
+    distance_km: 2.6
+  - name: NECTAR
+    distance_km: 11.87
+  - name: BLOUNTSVL
+    distance_km: 17.94
+- country: US
+  region: AL
+  name: Onycha
+  lat: '31.2246'
+  long: "-86.2785"
+  nearby_rate_centers:
+  - name: OPP
+    distance_km: 6.8
+  - name: KINSTON
+    distance_km: 9.88
+  - name: ANDALUSIA
+    distance_km: 21.97
+- country: US
+  region: AL
+  name: Opelika
+  lat: '32.6612'
+  long: "-85.3769"
+  nearby_rate_centers:
+  - name: OPELIKA
+    distance_km: 2.37
+  - name: AUBURN
+    distance_km: 12.28
+  - name: HUGULEY
+    distance_km: 23.75
+- country: US
+  region: AL
+  name: Opp
+  lat: '31.2848'
+  long: "-86.2570"
+  nearby_rate_centers:
+  - name: OPP
+    distance_km: 0.86
+  - name: KINSTON
+    distance_km: 10.9
+  - name: ANDALUSIA
+    distance_km: 21.74
+- country: US
+  region: AL
+  name: Orange Beach
+  lat: '30.2942'
+  long: "-87.5849"
+  nearby_rate_centers:
+  - name: ORANGE BCH
+    distance_km: 1.94
+  - name: GULFSHORES
+    distance_km: 10.46
+  - name: ELBERTA
+    distance_km: 13.59
+- country: US
+  region: AL
+  name: Orrville
+  lat: '32.3068'
+  long: "-87.2454"
+  nearby_rate_centers:
+  - name: ORRVILLE
+    distance_km: 0.15
+  - name: ALBERTA
+    distance_km: 17.77
+  - name: SELMA
+    distance_km: 24.14
+- country: US
+  region: AL
+  name: Our Town
+  lat: '32.8304'
+  long: "-85.9687"
+  nearby_rate_centers:
+  - name: ALEXANDRCY
+    distance_km: 12.54
+  - name: KOWALIGA
+    distance_km: 13.68
+  - name: DADEVILLE
+    distance_km: 19.76
+- country: US
+  region: AL
+  name: Owens Cross Roads
+  lat: '34.5845'
+  long: "-86.4574"
+  nearby_rate_centers:
+  - name: OWNSCRSRDS
+    distance_km: 0.18
+  - name: NEW HOPE
+    distance_km: 7.22
+  - name: GURLEY
+    distance_km: 14.72
+- country: US
+  region: AL
+  name: Oxford
+  lat: '33.5967'
+  long: "-85.8687"
+  nearby_rate_centers:
+  - name: ANNISTON
+    distance_km: 7.7
+  - name: MUNFORD
+    distance_km: 11.1
+  - name: CHULAFINNE
+    distance_km: 21.1
+- country: US
+  region: AL
+  name: Ozark
+  lat: '31.4508'
+  long: "-85.6473"
+  nearby_rate_centers:
+  - name: OZARK
+    distance_km: 1.04
+  - name: NEWTON
+    distance_km: 13.96
+  - name: DALEVILLE
+    distance_km: 16.97
+- country: US
+  region: AL
+  name: Paint Rock
+  lat: '34.6601'
+  long: "-86.3310"
+  nearby_rate_centers:
+  - name: GURLEY
+    distance_km: 6.13
+  - name: OWNSCRSRDS
+    distance_km: 14.46
+  - name: NEW HOPE
+    distance_km: 14.61
+- country: US
+  region: AL
+  name: Panola
+  lat: '32.9477'
+  long: "-88.2674"
+  nearby_rate_centers:
+  - name: PANOLA
+    distance_km: 0.73
+  - name: ALICEVILLE
+    distance_km: 22.57
+  - name: EUTAW
+    distance_km: 37.11
+- country: US
+  region: AL
+  name: Parrish
+  lat: '33.7323'
+  long: "-87.2802"
+  nearby_rate_centers:
+  - name: PARRISH
+    distance_km: 0.37
+  - name: CORDOVA
+    distance_km: 9.41
+  - name: OAKMAN
+    distance_km: 10.5
+- country: US
+  region: AL
+  name: Pea Ridge
+  lat: '33.1454'
+  long: "-86.9372"
+  nearby_rate_centers:
+  - name: MONTEVALLO
+    distance_km: 8.17
+  - name: ALABASTER
+    distance_km: 14.6
+  - name: CALERA
+    distance_km: 17.74
+- country: US
+  region: AL
+  name: Pelham
+  lat: '33.3114'
+  long: "-86.7573"
+  nearby_rate_centers:
+  - name: ALABASTER
+    distance_km: 10.46
+  - name: CHELSEA
+    distance_km: 13.01
+  - name: COLUMBIANA
+    distance_km: 20.37
+- country: US
+  region: AL
+  name: Pell City
+  lat: '33.5610'
+  long: "-86.2669"
+  nearby_rate_centers:
+  - name: PELL CITY
+    distance_km: 3.77
+  - name: SURFSIDE
+    distance_km: 6.88
+  - name: LINCOLN
+    distance_km: 15.15
+- country: US
+  region: AL
+  name: Pennington
+  lat: '32.2010'
+  long: "-88.0378"
+  nearby_rate_centers:
+  - name: PENNINGTON
+    distance_km: 2.09
+  - name: NANAFALIA
+    distance_km: 11.46
+  - name: SWEETWATER
+    distance_km: 20.99
+- country: US
+  region: AL
+  name: Penton
+  lat: '33.0090'
+  long: "-85.4722"
+  nearby_rate_centers:
+  - name: LAFAYETTE
+    distance_km: 13.68
+  - name: WADLEY
+    distance_km: 14.8
+  - name: FREDONIA
+    distance_km: 17.67
+- country: US
+  region: AL
+  name: Perdido
+  lat: '31.0034'
+  long: "-87.6323"
+  nearby_rate_centers:
+  - name: ATMORE
+    distance_km: 13.5
+  - name: BAYMINETTE
+    distance_km: 18.86
+  - name: MCCULLOUGH
+    distance_km: 20.98
+- country: US
+  region: AL
+  name: Perdido Beach
+  lat: '30.3554'
+  long: "-87.5036"
+  nearby_rate_centers:
+  - name: LILLIAN
+    distance_km: 9.1
+  - name: ORANGE BCH
+    distance_km: 10.22
+  - name: ELBERTA
+    distance_km: 11.29
+- country: US
+  region: AL
+  name: Peterman
+  lat: '31.5837'
+  long: "-87.2631"
+  nearby_rate_centers:
+  - name: PETERMAN
+    distance_km: 0.34
+  - name: MONROEVL
+    distance_km: 8.73
+  - name: BEATRICE
+    distance_km: 18.18
+- country: US
+  region: AL
+  name: Petrey
+  lat: '31.8495'
+  long: "-86.2057"
+  nearby_rate_centers:
+  - name: LAPINE
+    distance_km: 14.83
+  - name: LUVERNE
+    distance_km: 15.02
+  - name: GOSHEN
+    distance_km: 16.62
+- country: US
+  region: AL
+  name: Phenix City
+  lat: '32.4585'
+  long: "-85.0253"
+  nearby_rate_centers:
+  - name: PHENIXCITY
+    distance_km: 2.08
+  - name: OPELIKA
+    distance_km: 39.22
+  - name: LANGDALE
+    distance_km: 42.26
+- country: US
+  region: AL
+  name: Phil Campbell
+  lat: '34.3519'
+  long: "-87.7072"
+  nearby_rate_centers:
+  - name: PHILCMPBLL
+    distance_km: 0.49
+  - name: HACKLEBURG
+    distance_km: 14.13
+  - name: HALEYVILLE
+    distance_km: 16.34
+- country: US
+  region: AL
+  name: Pickensville
+  lat: '33.2336'
+  long: "-88.2744"
+  nearby_rate_centers:
+  - name: ALICEVILLE
+    distance_km: 16.92
+  - name: CARROLLTON
+    distance_km: 17.39
+  - name: ETHELSVL
+    distance_km: 21.28
+- country: US
+  region: AL
+  name: Piedmont
+  lat: '33.9269'
+  long: "-85.6149"
+  nearby_rate_centers:
+  - name: PIEDMONT
+    distance_km: 1.18
+  - name: JACKSONVL
+    distance_km: 18.21
+  - name: WHORTON
+    distance_km: 25.11
+- country: US
+  region: AL
+  name: Pike Road
+  lat: '32.2939'
+  long: "-86.0900"
+  nearby_rate_centers:
+  - name: MONTGOMERY
+    distance_km: 21.73
+  - name: PINE LEVEL
+    distance_km: 25.32
+  - name: RAMER
+    distance_km: 29.85
+- country: US
+  region: AL
+  name: Pinckard
+  lat: '31.3173'
+  long: "-85.5430"
+  nearby_rate_centers:
+  - name: MIDLAND CY
+    distance_km: 3.95
+  - name: NEWTON
+    distance_km: 5.44
+  - name: WICKSBURG
+    distance_km: 8.08
+- country: US
+  region: AL
+  name: Pine Apple
+  lat: '31.8722'
+  long: "-86.9891"
+  nearby_rate_centers:
+  - name: PINE APPLE
+    distance_km: 0.29
+  - name: FORESTHOME
+    distance_km: 13.92
+  - name: BEATRICE
+    distance_km: 25.95
+- country: US
+  region: AL
+  name: Pine Hill
+  lat: '31.9859'
+  long: "-87.5872"
+  nearby_rate_centers:
+  - name: PINE HILL
+    distance_km: 0.55
+  - name: ARLINGTON
+    distance_km: 8.85
+  - name: THOMASVL
+    distance_km: 16.62
+- country: US
+  region: AL
+  name: Pine Level
+  lat: '32.5785'
+  long: "-86.4523"
+  nearby_rate_centers:
+  - name: PRATTVILLE
+    distance_km: 12.64
+  - name: HOLTVILLE
+    distance_km: 13.79
+  - name: WETUMPKA
+    distance_km: 23.13
+- country: US
+  region: AL
+  name: Pine Ridge
+  lat: '34.4487'
+  long: "-85.7806"
+  nearby_rate_centers:
+  - name: FORT PAYNE
+    distance_km: 5.86
+  - name: RAINSVILLE
+    distance_km: 7.9
+  - name: FYFFE
+    distance_km: 11.0
+- country: US
+  region: AL
+  name: Pinson
+  lat: '33.7055'
+  long: "-86.6678"
+  nearby_rate_centers:
+  - name: PINSON
+    distance_km: 2.26
+  - name: TRUSSVILLE
+    distance_km: 10.32
+  - name: GARDENDALE
+    distance_km: 14.93
+- country: US
+  region: AL
+  name: Pisgah
+  lat: '34.6844'
+  long: "-85.8460"
+  nearby_rate_centers:
+  - name: PISGAH
+    distance_km: 0.28
+  - name: HENAGAR
+    distance_km: 10.02
+  - name: FLAT ROCK
+    distance_km: 15.44
+- country: US
+  region: AL
+  name: Pleasant Grove
+  lat: '33.4940'
+  long: "-86.9782"
+  nearby_rate_centers:
+  - name: BESSEMER
+    distance_km: 10.57
+  - name: GRAYSVILLE
+    distance_km: 15.35
+  - name: BIRMINGHAM
+    distance_km: 15.73
+- country: US
+  region: AL
+  name: Pleasant Groves
+  lat: '34.7350'
+  long: "-86.2054"
+  nearby_rate_centers:
+  - name: GURLEY
+    distance_km: 16.24
+  - name: SCOTTSBORO
+    distance_km: 17.14
+  - name: GRANT
+    distance_km: 23.52
+- country: US
+  region: AL
+  name: Point Clear
+  lat: '30.4898'
+  long: "-87.9112"
+  nearby_rate_centers:
+  - name: FAIRHOPE
+    distance_km: 3.96
+  - name: MAGNOLISPG
+    distance_km: 15.86
+  - name: BELLEFONTN
+    distance_km: 18.58
+- country: US
+  region: AL
+  name: Pollard
+  lat: '31.0235'
+  long: "-87.1736"
+  nearby_rate_centers:
+  - name: FLOMATON
+    distance_km: 8.32
+  - name: BREWTON
+    distance_km: 14.19
+  - name: ATMORE
+    distance_km: 30.31
+- country: US
+  region: AL
+  name: Powell
+  lat: '34.5326'
+  long: "-85.8975"
+  nearby_rate_centers:
+  - name: RAINSVILLE
+    distance_km: 6.34
+  - name: FYFFE
+    distance_km: 8.95
+  - name: SECTION
+    distance_km: 9.75
+- country: US
+  region: AL
+  name: Prattville
+  lat: '32.4597'
+  long: "-86.4573"
+  nearby_rate_centers:
+  - name: PRATTVILLE
+    distance_km: 0.96
+  - name: MONTGOMERY
+    distance_km: 17.49
+  - name: HOLTVILLE
+    distance_km: 23.29
+- country: US
+  region: AL
+  name: Priceville
+  lat: '34.5246'
+  long: "-86.8856"
+  nearby_rate_centers:
+  - name: HARTSELLE
+    distance_km: 10.4
+  - name: DECATUR
+    distance_km: 13.13
+  - name: FALKVILLE
+    distance_km: 17.77
+- country: US
+  region: AL
+  name: Prichard
+  lat: '30.7735'
+  long: "-88.1301"
+  nearby_rate_centers:
+  - name: MOBILE
+    distance_km: 11.85
+  - name: BELLEFONTN
+    distance_km: 27.96
+  - name: IRNGTNSTEL
+    distance_km: 29.11
+- country: US
+  region: AL
+  name: Providence
+  lat: '32.3424'
+  long: "-87.7761"
+  nearby_rate_centers:
+  - name: LINDEN
+    distance_km: 4.65
+  - name: THOMASTON
+    distance_km: 16.74
+  - name: DEMOPOLIS
+    distance_km: 20.07
+- country: US
+  region: AL
+  name: Putnam
+  lat: '32.0181'
+  long: "-88.0331"
+  nearby_rate_centers:
+  - name: NANAFALIA
+    distance_km: 10.89
+  - name: SWEETWATER
+    distance_km: 18.56
+  - name: BUTLER
+    distance_km: 19.96
+- country: US
+  region: AL
+  name: Ragland
+  lat: '33.7469'
+  long: "-86.1384"
+  nearby_rate_centers:
+  - name: RAGLAND
+    distance_km: 1.91
+  - name: ASHVILLE
+    distance_km: 14.35
+  - name: LINCOLN
+    distance_km: 14.64
+- country: US
+  region: AL
+  name: Rainbow City
+  lat: '33.9336'
+  long: "-86.0922"
+  nearby_rate_centers:
+  - name: ATTALLA
+    distance_km: 9.41
+  - name: GADSDEN
+    distance_km: 11.28
+  - name: ASHVILLE
+    distance_km: 18.37
+- country: US
+  region: AL
+  name: Rainsville
+  lat: '34.4938'
+  long: "-85.8436"
+  nearby_rate_centers:
+  - name: RAINSVILLE
+    distance_km: 0.55
+  - name: FYFFE
+    distance_km: 6.97
+  - name: FORT PAYNE
+    distance_km: 12.94
+- country: US
+  region: AL
+  name: Ranburne
+  lat: '33.5259'
+  long: "-85.3390"
+  nearby_rate_centers:
+  - name: RANBURNE
+    distance_km: 0.86
+  - name: LECTA
+    distance_km: 12.36
+  - name: MRNSCRSRDS
+    distance_km: 18.26
+- country: US
+  region: AL
+  name: Ray
+  lat: '32.8795'
+  long: "-86.0388"
+  nearby_rate_centers:
+  - name: ALEXANDRCY
+    distance_km: 10.66
+  - name: ROCKFORD
+    distance_km: 17.65
+  - name: KOWALIGA
+    distance_km: 20.3
+- country: US
+  region: AL
+  name: Red Bay
+  lat: '34.4357'
+  long: "-88.1361"
+  nearby_rate_centers:
+  - name: RED BAY
+    distance_km: 0.62
+  - name: HACKLEBURG
+    distance_km: 33.27
+  - name: HAMILTON
+    distance_km: 35.07
+- country: US
+  region: AL
+  name: Red Level
+  lat: '31.4055'
+  long: "-86.6084"
+  nearby_rate_centers:
+  - name: RED LEVEL
+    distance_km: 0.21
+  - name: GANTT
+    distance_km: 11.07
+  - name: ANDALUSIA
+    distance_km: 15.45
+- country: US
+  region: AL
+  name: Redland
+  lat: '32.4754'
+  long: "-86.1375"
+  nearby_rate_centers:
+  - name: WETUMPKA
+    distance_km: 10.7
+  - name: MONTGOMERY
+    distance_km: 19.02
+  - name: ECLECTIC
+    distance_km: 20.1
+- country: US
+  region: AL
+  name: Redstone Arsenal
+  lat: '34.6645'
+  long: "-86.6530"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 9.32
+  - name: HUNTSVILLE
+    distance_km: 9.42
+  - name: OWNSCRSRDS
+    distance_km: 19.86
+- country: US
+  region: AL
+  name: Reece City
+  lat: '34.0772'
+  long: "-86.0345"
+  nearby_rate_centers:
+  - name: GADSDEN
+    distance_km: 8.12
+  - name: ATTALLA
+    distance_km: 8.28
+  - name: ARONEY
+    distance_km: 13.29
+- country: US
+  region: AL
+  name: Reeltown
+  lat: '32.5788'
+  long: "-85.8189"
+  nearby_rate_centers:
+  - name: TALLASSEE
+    distance_km: 8.73
+  - name: NOTASULGA
+    distance_km: 13.72
+  - name: KOWALIGA
+    distance_km: 19.88
+- country: US
+  region: AL
+  name: Reform
+  lat: '33.3788'
+  long: "-88.0173"
+  nearby_rate_centers:
+  - name: REFORM
+    distance_km: 0.53
+  - name: GORDO
+    distance_km: 12.24
+  - name: CARROLLTON
+    distance_km: 14.84
+- country: US
+  region: AL
+  name: Rehobeth
+  lat: '31.1242'
+  long: "-85.4383"
+  nearby_rate_centers:
+  - name: DOTHAN
+    distance_km: 12.01
+  - name: SLOCOMB
+    distance_km: 14.83
+  - name: COTTONWOOD
+    distance_km: 15.49
+- country: US
+  region: AL
+  name: Remlap
+  lat: '33.8049'
+  long: "-86.5970"
+  nearby_rate_centers:
+  - name: SPRINGVL
+    distance_km: 12.58
+  - name: PINSON
+    distance_km: 15.09
+  - name: NECTAR
+    distance_km: 18.3
+- country: US
+  region: AL
+  name: Repton
+  lat: '31.4096'
+  long: "-87.2394"
+  nearby_rate_centers:
+  - name: REPTON
+    distance_km: 0.38
+  - name: EXCEL
+    distance_km: 10.26
+  - name: MONROEVL
+    distance_km: 15.22
+- country: US
+  region: AL
+  name: Ridgeville
+  lat: '34.0569'
+  long: "-86.1029"
+  nearby_rate_centers:
+  - name: ATTALLA
+    distance_km: 4.48
+  - name: GADSDEN
+    distance_km: 10.3
+  - name: ARONEY
+    distance_km: 15.12
+- country: US
+  region: AL
+  name: River Falls
+  lat: '31.3525'
+  long: "-86.5412"
+  nearby_rate_centers:
+  - name: ANDALUSIA
+    distance_km: 6.8
+  - name: GANTT
+    distance_km: 7.97
+  - name: RED LEVEL
+    distance_km: 8.88
+- country: US
+  region: AL
+  name: Riverside
+  lat: '33.6171'
+  long: "-86.2042"
+  nearby_rate_centers:
+  - name: PELL CITY
+    distance_km: 7.8
+  - name: LINCOLN
+    distance_km: 8.04
+  - name: RAGLAND
+    distance_km: 14.28
+- country: US
+  region: AL
+  name: Riverview
+  lat: '31.0587'
+  long: "-87.0709"
+  nearby_rate_centers:
+  - name: BREWTON
+    distance_km: 5.67
+  - name: FLOMATON
+    distance_km: 18.85
+  - name: CASTLEBRY
+    distance_km: 28.07
+- country: US
+  region: AL
+  name: Roanoke
+  lat: '33.1453'
+  long: "-85.3694"
+  nearby_rate_centers:
+  - name: ROANOKE
+    distance_km: 1.49
+  - name: ROCK MILLS
+    distance_km: 7.64
+  - name: WADLEY
+    distance_km: 18.71
+- country: US
+  region: AL
+  name: Robertsdale
+  lat: '30.5535'
+  long: "-87.7023"
+  nearby_rate_centers:
+  - name: ROBERTSDL
+    distance_km: 1.03
+  - name: SUMMERDALE
+    distance_km: 6.64
+  - name: LOXLEY
+    distance_km: 9.1
+- country: US
+  region: AL
+  name: Rock Creek
+  lat: '33.4772'
+  long: "-87.0812"
+  nearby_rate_centers:
+  - name: BESSEMER
+    distance_km: 14.22
+  - name: GRAYSVILLE
+    distance_km: 19.86
+  - name: BIRMINGHAM
+    distance_km: 25.46
+- country: US
+  region: AL
+  name: Rock Mills
+  lat: '33.1563'
+  long: "-85.2862"
+  nearby_rate_centers:
+  - name: ROCK MILLS
+    distance_km: 0.45
+  - name: ROANOKE
+    distance_km: 7.33
+  - name: OAKLAND
+    distance_km: 18.41
+- country: US
+  region: AL
+  name: Rockford
+  lat: '32.8895'
+  long: "-86.2150"
+  nearby_rate_centers:
+  - name: ROCKFORD
+    distance_km: 1.16
+  - name: GOODWATER
+    distance_km: 24.32
+  - name: ALEXANDRCY
+    distance_km: 25.19
+- country: US
+  region: AL
+  name: Rockville
+  lat: '31.4058'
+  long: "-87.8442"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 12.3
+  - name: MCINTOSH
+    distance_km: 23.78
+  - name: GOSPORT
+    distance_km: 31.0
+- country: US
+  region: AL
+  name: Rogersville
+  lat: '34.8251'
+  long: "-87.2821"
+  nearby_rate_centers:
+  - name: ROGERSVL
+    distance_km: 0.87
+  - name: LEXINGTON
+    distance_km: 17.58
+  - name: COURTLAND
+    distance_km: 17.68
+- country: US
+  region: AL
+  name: Rosa
+  lat: '33.9899'
+  long: "-86.5045"
+  nearby_rate_centers:
+  - name: ONEONTA
+    distance_km: 5.77
+  - name: NECTAR
+    distance_km: 10.63
+  - name: BLOUNTSVL
+    distance_km: 12.56
+- country: US
+  region: AL
+  name: Russellville
+  lat: '34.5055'
+  long: "-87.7283"
+  nearby_rate_centers:
+  - name: RUSSELLVL
+    distance_km: 0.67
+  - name: PHILCMPBLL
+    distance_km: 17.59
+  - name: HACKLEBURG
+    distance_km: 27.23
+- country: US
+  region: AL
+  name: Rutledge
+  lat: '31.7241'
+  long: "-86.3020"
+  nearby_rate_centers:
+  - name: LUVERNE
+    distance_km: 3.35
+  - name: BRANTLEY
+    distance_km: 15.43
+  - name: GOSHEN
+    distance_km: 16.75
+- country: US
+  region: AL
+  name: Saks
+  lat: '33.7118'
+  long: "-85.8536"
+  nearby_rate_centers:
+  - name: ANNISTON
+    distance_km: 6.15
+  - name: OHATCHEE
+    distance_km: 12.42
+  - name: JACKSONVL
+    distance_km: 14.4
+- country: US
+  region: AL
+  name: Samson
+  lat: '31.1124'
+  long: "-86.0462"
+  nearby_rate_centers:
+  - name: SAMSON
+    distance_km: 0.36
+  - name: KINSTON
+    distance_km: 16.84
+  - name: GENEVA
+    distance_km: 19.45
+- country: US
+  region: AL
+  name: Sand Rock
+  lat: '34.2312'
+  long: "-85.7704"
+  nearby_rate_centers:
+  - name: SAND ROCK
+    distance_km: 1.42
+  - name: LEESBURG
+    distance_km: 5.52
+  - name: COLLINSVL
+    distance_km: 8.51
+- country: US
+  region: AL
+  name: Sanford
+  lat: '31.3007'
+  long: "-86.3976"
+  nearby_rate_centers:
+  - name: ANDALUSIA
+    distance_km: 8.29
+  - name: OPP
+    distance_km: 12.62
+  - name: GANTT
+    distance_km: 15.14
+- country: US
+  region: AL
+  name: Saraland
+  lat: '30.8479'
+  long: "-88.1004"
+  nearby_rate_centers:
+  - name: MOBILE
+    distance_km: 17.96
+  - name: MT VERNON
+    distance_km: 27.7
+  - name: CITRONELLE
+    distance_km: 30.0
+- country: US
+  region: AL
+  name: Sardis City
+  lat: '34.1749'
+  long: "-86.1125"
+  nearby_rate_centers:
+  - name: ARONEY
+    distance_km: 3.7
+  - name: BOAZ
+    distance_km: 6.3
+  - name: ALBERTVL
+    distance_km: 13.69
+- country: US
+  region: AL
+  name: Satsuma
+  lat: '30.8578'
+  long: "-88.0631"
+  nearby_rate_centers:
+  - name: MOBILE
+    distance_km: 18.44
+  - name: MT VERNON
+    distance_km: 25.73
+  - name: BAYMINETTE
+    distance_km: 27.72
+- country: US
+  region: AL
+  name: Scottsboro
+  lat: '34.6438'
+  long: "-86.0491"
+  nearby_rate_centers:
+  - name: SCOTTSBORO
+    distance_km: 3.79
+  - name: SECTION
+    distance_km: 9.46
+  - name: PISGAH
+    distance_km: 19.36
+- country: US
+  region: AL
+  name: Section
+  lat: '34.5816'
+  long: "-85.9849"
+  nearby_rate_centers:
+  - name: SECTION
+    distance_km: 1.2
+  - name: SCOTTSBORO
+    distance_km: 11.28
+  - name: RAINSVILLE
+    distance_km: 15.95
+- country: US
+  region: AL
+  name: Selma
+  lat: '32.4166'
+  long: "-87.0336"
+  nearby_rate_centers:
+  - name: SELMA
+    distance_km: 0.95
+  - name: ORRVILLE
+    distance_km: 23.2
+  - name: MARION
+    distance_km: 35.36
+- country: US
+  region: AL
+  name: Selmont-West Selmont
+  lat: '32.3784'
+  long: "-87.0074"
+  nearby_rate_centers:
+  - name: SELMA
+    distance_km: 4.48
+  - name: ORRVILLE
+    distance_km: 23.58
+  - name: GORDONSVL
+    distance_km: 34.51
+- country: US
+  region: AL
+  name: Semmes
+  lat: '30.7899'
+  long: "-88.2389"
+  nearby_rate_centers:
+  - name: MOBILE
+    distance_km: 21.08
+  - name: IRNGTNSTEL
+    distance_km: 28.59
+  - name: BELLEFONTN
+    distance_km: 32.44
+- country: US
+  region: AL
+  name: Sheffield
+  lat: '34.7570'
+  long: "-87.6977"
+  nearby_rate_centers:
+  - name: SHEFFIELD
+    distance_km: 0.91
+  - name: FLORENCE
+    distance_km: 5.98
+  - name: LEIGHTON
+    distance_km: 16.57
+- country: US
+  region: AL
+  name: Shelby
+  lat: '33.1068'
+  long: "-86.5825"
+  nearby_rate_centers:
+  - name: COLUMBIANA
+    distance_km: 8.06
+  - name: CALERA
+    distance_km: 15.78
+  - name: JEMISON
+    distance_km: 22.88
+- country: US
+  region: AL
+  name: Shiloh
+  lat: '34.4604'
+  long: "-85.8767"
+  nearby_rate_centers:
+  - name: FYFFE
+    distance_km: 2.37
+  - name: RAINSVILLE
+    distance_km: 4.31
+  - name: FORT PAYNE
+    distance_km: 14.77
+- country: US
+  region: AL
+  name: Shoal Creek
+  lat: '33.4328'
+  long: "-86.6071"
+  nearby_rate_centers:
+  - name: CHELSEA
+    distance_km: 10.09
+  - name: LEEDS
+    distance_km: 14.61
+  - name: VINCENT
+    distance_km: 18.57
+- country: US
+  region: AL
+  name: Shorter
+  lat: '32.4077'
+  long: "-85.9413"
+  nearby_rate_centers:
+  - name: TALLASSEE
+    distance_km: 15.23
+  - name: TUSKEGEE
+    distance_km: 23.79
+  - name: ECLECTIC
+    distance_km: 26.46
+- country: US
+  region: AL
+  name: Silas
+  lat: '31.7678'
+  long: "-88.3258"
+  nearby_rate_centers:
+  - name: SILAS
+    distance_km: 1.23
+  - name: GILBERTOWN
+    distance_km: 12.89
+  - name: MILLRY
+    distance_km: 15.01
+- country: US
+  region: AL
+  name: Silverhill
+  lat: '30.5455'
+  long: "-87.7506"
+  nearby_rate_centers:
+  - name: ROBERTSDL
+    distance_km: 4.22
+  - name: SUMMERDALE
+    distance_km: 7.44
+  - name: LOXLEY
+    distance_km: 8.8
+- country: US
+  region: AL
+  name: Sims Chapel
+  lat: '31.2365'
+  long: "-88.1435"
+  nearby_rate_centers:
+  - name: MCINTOSH
+    distance_km: 10.9
+  - name: DEER PARK
+    distance_km: 15.93
+  - name: CITRONELLE
+    distance_km: 18.85
+- country: US
+  region: AL
+  name: Sipsey
+  lat: '33.8225'
+  long: "-87.0835"
+  nearby_rate_centers:
+  - name: DORA
+    distance_km: 10.14
+  - name: CORDOVA
+    distance_km: 11.75
+  - name: JASPER
+    distance_km: 17.88
+- country: US
+  region: AL
+  name: Skyline
+  lat: '34.7986'
+  long: "-86.1228"
+  nearby_rate_centers:
+  - name: SCOTTSBORO
+    distance_km: 16.01
+  - name: SKYLINE
+    distance_km: 16.51
+  - name: FRANCISCO
+    distance_km: 23.53
+- country: US
+  region: AL
+  name: Slocomb
+  lat: '31.1103'
+  long: "-85.5954"
+  nearby_rate_centers:
+  - name: SLOCOMB
+    distance_km: 0.63
+  - name: HARTFORD
+    distance_km: 9.09
+  - name: WICKSBURG
+    distance_km: 20.4
+- country: US
+  region: AL
+  name: Smiths Station
+  lat: '32.5280'
+  long: "-85.0943"
+  nearby_rate_centers:
+  - name: PHENIXCITY
+    distance_km: 10.68
+  - name: OPELIKA
+    distance_km: 29.86
+  - name: LANGDALE
+    distance_km: 33.01
+- country: US
+  region: AL
+  name: Smoke Rise
+  lat: '33.8789'
+  long: "-86.8240"
+  nearby_rate_centers:
+  - name: WARRIOR
+    distance_km: 6.93
+  - name: NECTAR
+    distance_km: 21.55
+  - name: HANCEVILLE
+    distance_km: 21.6
+- country: US
+  region: AL
+  name: Snead
+  lat: '34.1162'
+  long: "-86.3902"
+  nearby_rate_centers:
+  - name: SNEAD
+    distance_km: 1.24
+  - name: WALNUT GRV
+    distance_km: 9.72
+  - name: BLOUNTSVL
+    distance_km: 17.94
+- country: US
+  region: AL
+  name: Somerville
+  lat: '34.4679'
+  long: "-86.7909"
+  nearby_rate_centers:
+  - name: ODEN RIDGE
+    distance_km: 10.59
+  - name: HARTSELLE
+    distance_km: 13.64
+  - name: FALKVILLE
+    distance_km: 15.66
+- country: US
+  region: AL
+  name: South Vinemont
+  lat: '34.2349'
+  long: "-86.8642"
+  nearby_rate_centers:
+  - name: CULLMAN
+    distance_km: 7.02
+  - name: FALKVILLE
+    distance_km: 15.13
+  - name: ODEN RIDGE
+    distance_km: 18.6
+- country: US
+  region: AL
+  name: Southside
+  lat: '33.9007'
+  long: "-86.0238"
+  nearby_rate_centers:
+  - name: GADSDEN
+    distance_km: 11.96
+  - name: ATTALLA
+    distance_km: 14.4
+  - name: OHATCHEE
+    distance_km: 15.18
+- country: US
+  region: AL
+  name: Spanish Fort
+  lat: '30.7254'
+  long: "-87.8597"
+  nearby_rate_centers:
+  - name: LOXLEY
+    distance_km: 15.39
+  - name: MOBILE
+    distance_km: 18.55
+  - name: BAYMINETTE
+    distance_km: 19.57
+- country: US
+  region: AL
+  name: Spring Garden
+  lat: '33.9730'
+  long: "-85.5558"
+  nearby_rate_centers:
+  - name: PIEDMONT
+    distance_km: 6.73
+  - name: WHORTON
+    distance_km: 18.35
+  - name: CENTRE
+    distance_km: 23.68
+- country: US
+  region: AL
+  name: Springville
+  lat: '33.7643'
+  long: "-86.4742"
+  nearby_rate_centers:
+  - name: SPRINGVL
+    distance_km: 1.4
+  - name: ODENVILLE
+    distance_km: 10.27
+  - name: TRUSSVILLE
+    distance_km: 19.94
+- country: US
+  region: AL
+  name: Spruce Pine
+  lat: '34.3928'
+  long: "-87.7294"
+  nearby_rate_centers:
+  - name: PHILCMPBLL
+    distance_km: 5.3
+  - name: RUSSELLVL
+    distance_km: 12.98
+  - name: HACKLEBURG
+    distance_km: 15.99
+- country: US
+  region: AL
+  name: St. Florian
+  lat: '34.8739'
+  long: "-87.6241"
+  nearby_rate_centers:
+  - name: FLORENCE
+    distance_km: 8.79
+  - name: KILLEN
+    distance_km: 11.3
+  - name: SHEFFIELD
+    distance_km: 13.87
+- country: US
+  region: AL
+  name: St. Stephens
+  lat: '31.5474'
+  long: "-88.0556"
+  nearby_rate_centers:
+  - name: FRANKVILLE
+    distance_km: 13.67
+  - name: JACKSON
+    distance_km: 16.21
+  - name: CHATOM
+    distance_km: 20.38
+- country: US
+  region: AL
+  name: Standing Rock
+  lat: '33.0863'
+  long: "-85.2449"
+  nearby_rate_centers:
+  - name: ROCK MILLS
+    distance_km: 9.12
+  - name: OAKLAND
+    distance_km: 10.75
+  - name: FREDONIA
+    distance_km: 11.99
+- country: US
+  region: AL
+  name: Stapleton
+  lat: '30.7395'
+  long: "-87.7943"
+  nearby_rate_centers:
+  - name: LOXLEY
+    distance_km: 13.47
+  - name: BAYMINETTE
+    distance_km: 16.34
+  - name: ROBERTSDL
+    distance_km: 21.53
+- country: US
+  region: AL
+  name: Steele
+  lat: '33.9370'
+  long: "-86.2004"
+  nearby_rate_centers:
+  - name: ASHVILLE
+    distance_km: 12.3
+  - name: ATTALLA
+    distance_km: 13.65
+  - name: WALNUT GRV
+    distance_km: 17.31
+- country: US
+  region: AL
+  name: Sterrett
+  lat: '33.4490'
+  long: "-86.4645"
+  nearby_rate_centers:
+  - name: VINCENT
+    distance_km: 8.44
+  - name: LEEDS
+    distance_km: 13.37
+  - name: SURFSIDE
+    distance_km: 16.14
+- country: US
+  region: AL
+  name: Stevenson
+  lat: '34.8487'
+  long: "-85.8437"
+  nearby_rate_centers:
+  - name: STEVENSON
+    distance_km: 2.42
+  - name: FLAT ROCK
+    distance_km: 15.62
+  - name: BRIDGEPORT
+    distance_km: 15.72
+- country: US
+  region: AL
+  name: Stewartville
+  lat: '33.0725'
+  long: "-86.2658"
+  nearby_rate_centers:
+  - name: SYLACAUGA
+    distance_km: 10.72
+  - name: GOODWATER
+    distance_km: 19.19
+  - name: ROCKFORD
+    distance_km: 20.55
+- country: US
+  region: AL
+  name: Stockton
+  lat: '30.9946'
+  long: "-87.8600"
+  nearby_rate_centers:
+  - name: BAYMINETTE
+    distance_km: 14.62
+  - name: MT VERNON
+    distance_km: 17.47
+  - name: MCINTOSH
+    distance_km: 34.53
+- country: US
+  region: AL
+  name: Sulligent
+  lat: '33.8912'
+  long: "-88.1266"
+  nearby_rate_centers:
+  - name: SULLIGENT
+    distance_km: 1.15
+  - name: DETROIT
+    distance_km: 15.43
+  - name: VERNON
+    distance_km: 15.54
+- country: US
+  region: AL
+  name: Sumiton
+  lat: '33.7502'
+  long: "-87.0483"
+  nearby_rate_centers:
+  - name: DORA
+    distance_km: 4.55
+  - name: CORDOVA
+    distance_km: 12.43
+  - name: GRAYSVILLE
+    distance_km: 14.81
+- country: US
+  region: AL
+  name: Summerdale
+  lat: '30.4783'
+  long: "-87.6904"
+  nearby_rate_centers:
+  - name: SUMMERDALE
+    distance_km: 2.01
+  - name: FOLEY
+    distance_km: 7.74
+  - name: MARLOW
+    distance_km: 7.74
+  - name: ROBERTSDL
+    distance_km: 9.28
+- country: US
+  region: AL
+  name: Susan Moore
+  lat: '34.0804'
+  long: "-86.4228"
+  nearby_rate_centers:
+  - name: SNEAD
+    distance_km: 5.62
+  - name: WALNUT GRV
+    distance_km: 11.18
+  - name: BLOUNTSVL
+    distance_km: 14.57
+- country: US
+  region: AL
+  name: Sweet Water
+  lat: '32.1046'
+  long: "-87.8619"
+  nearby_rate_centers:
+  - name: SWEETWATER
+    distance_km: 1.55
+  - name: DIXONS ML
+    distance_km: 8.86
+  - name: NANAFALIA
+    distance_km: 11.72
+- country: US
+  region: AL
+  name: Sylacauga
+  lat: '33.1780'
+  long: "-86.2605"
+  nearby_rate_centers:
+  - name: SYLACAUGA
+    distance_km: 1.54
+  - name: CHILDERSBG
+    distance_km: 13.6
+  - name: GOODWATER
+    distance_km: 22.48
+- country: US
+  region: AL
+  name: Sylvan Springs
+  lat: '33.5302'
+  long: "-87.0312"
+  nearby_rate_centers:
+  - name: GRAYSVILLE
+    distance_km: 12.49
+  - name: BESSEMER
+    distance_km: 15.92
+  - name: BIRMINGHAM
+    distance_km: 20.49
+- country: US
+  region: AL
+  name: Sylvania
+  lat: '34.5616'
+  long: "-85.8056"
+  nearby_rate_centers:
+  - name: RAINSVILLE
+    distance_km: 8.72
+  - name: HENAGAR
+    distance_km: 9.19
+  - name: PISGAH
+    distance_km: 13.99
+- country: US
+  region: AL
+  name: Talladega
+  lat: '33.4333'
+  long: "-86.0986"
+  nearby_rate_centers:
+  - name: TALLADEGA
+    distance_km: 0.79
+  - name: MUNFORD
+    distance_km: 17.0
+  - name: LINCOLN
+    distance_km: 20.43
+- country: US
+  region: AL
+  name: Talladega Springs
+  lat: '33.1191'
+  long: "-86.4421"
+  nearby_rate_centers:
+  - name: COLUMBIANA
+    distance_km: 16.89
+  - name: SYLACAUGA
+    distance_km: 18.76
+  - name: CHILDERSBG
+    distance_km: 19.51
+- country: US
+  region: AL
+  name: Tallassee
+  lat: '32.5315'
+  long: "-85.8903"
+  nearby_rate_centers:
+  - name: TALLASSEE
+    distance_km: 1.32
+  - name: ECLECTIC
+    distance_km: 17.45
+  - name: NOTASULGA
+    distance_km: 20.69
+- country: US
+  region: AL
+  name: Tarrant
+  lat: '33.5945'
+  long: "-86.7685"
+  nearby_rate_centers:
+  - name: GARDENDALE
+    distance_km: 7.4
+  - name: BIRMINGHAM
+    distance_km: 9.48
+  - name: PINSON
+    distance_km: 13.21
+- country: US
+  region: AL
+  name: Taylor
+  lat: '31.1658'
+  long: "-85.4697"
+  nearby_rate_centers:
+  - name: DOTHAN
+    distance_km: 9.91
+  - name: SLOCOMB
+    distance_km: 13.06
+  - name: MIDLAND CY
+    distance_km: 16.21
+- country: US
+  region: AL
+  name: Theodore
+  lat: '30.5408'
+  long: "-88.1885"
+  nearby_rate_centers:
+  - name: IRNGTNSTEL
+    distance_km: 5.98
+  - name: BELLEFONTN
+    distance_km: 8.59
+  - name: FOWL RIVER
+    distance_km: 9.21
+- country: US
+  region: AL
+  name: Thomaston
+  lat: '32.2683'
+  long: "-87.6237"
+  nearby_rate_centers:
+  - name: THOMASTON
+    distance_km: 0.49
+  - name: LINDEN
+    distance_km: 17.08
+  - name: CATHERINE
+    distance_km: 17.6
+- country: US
+  region: AL
+  name: Thomasville
+  lat: '31.9110'
+  long: "-87.7419"
+  nearby_rate_centers:
+  - name: THOMASVL
+    distance_km: 0.61
+  - name: PINE HILL
+    distance_km: 16.27
+  - name: DIXONS ML
+    distance_km: 17.0
+- country: US
+  region: AL
+  name: Thorsby
+  lat: '32.9169'
+  long: "-86.7203"
+  nearby_rate_centers:
+  - name: THORSBY
+    distance_km: 0.21
+  - name: JEMISON
+    distance_km: 5.08
+  - name: CLANTON
+    distance_km: 11.54
+- country: US
+  region: AL
+  name: Tibbie
+  lat: '31.3628'
+  long: "-88.2471"
+  nearby_rate_centers:
+  - name: CHATOM
+    distance_km: 11.41
+  - name: FRUITDALE
+    distance_km: 15.8
+  - name: DEER PARK
+    distance_km: 17.17
+- country: US
+  region: AL
+  name: Tidmore Bend
+  lat: '34.0324'
+  long: "-85.9253"
+  nearby_rate_centers:
+  - name: GADSDEN
+    distance_km: 8.14
+  - name: ATTALLA
+    distance_km: 15.2
+  - name: LEESBURG
+    distance_km: 21.99
+- country: US
+  region: AL
+  name: Tillmans Corner
+  lat: '30.5819'
+  long: "-88.2128"
+  nearby_rate_centers:
+  - name: IRNGTNSTEL
+    distance_km: 6.52
+  - name: BELLEFONTN
+    distance_km: 12.52
+  - name: FOWL RIVER
+    distance_km: 14.23
+- country: US
+  region: AL
+  name: Town Creek
+  lat: '34.6718'
+  long: "-87.4063"
+  nearby_rate_centers:
+  - name: TOWN CREEK
+    distance_km: 1.59
+  - name: COURTLAND
+    distance_km: 9.06
+  - name: LEIGHTON
+    distance_km: 11.71
+- country: US
+  region: AL
+  name: Toxey
+  lat: '31.9109'
+  long: "-88.3092"
+  nearby_rate_centers:
+  - name: GILBERTOWN
+    distance_km: 3.41
+  - name: NEEDHAM
+    distance_km: 8.96
+  - name: MELVIN
+    distance_km: 14.45
+- country: US
+  region: AL
+  name: Trafford
+  lat: '33.8187'
+  long: "-86.7465"
+  nearby_rate_centers:
+  - name: WARRIOR
+    distance_km: 5.55
+  - name: PINSON
+    distance_km: 15.54
+  - name: GARDENDALE
+    distance_km: 19.87
+- country: US
+  region: AL
+  name: Triana
+  lat: '34.5888'
+  long: "-86.7489"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 11.54
+  - name: MORGANCITY
+    distance_km: 19.77
+  - name: HUNTSVILLE
+    distance_km: 21.51
+- country: US
+  region: AL
+  name: Trinity
+  lat: '34.6011'
+  long: "-87.0816"
+  nearby_rate_centers:
+  - name: DECATUR
+    distance_km: 8.83
+  - name: COURTLAND
+    distance_km: 21.94
+  - name: HARTSELLE
+    distance_km: 22.26
+- country: US
+  region: AL
+  name: Troy
+  lat: '31.8021'
+  long: "-85.9664"
+  nearby_rate_centers:
+  - name: TROY
+    distance_km: 1.17
+  - name: BANKS
+    distance_km: 11.37
+  - name: BRUNDIDGE
+    distance_km: 16.84
+- country: US
+  region: AL
+  name: Trussville
+  lat: '33.6405'
+  long: "-86.5815"
+  nearby_rate_centers:
+  - name: TRUSSVILLE
+    distance_km: 3.19
+  - name: LEEDS
+    distance_km: 10.62
+  - name: PINSON
+    distance_km: 10.82
+- country: US
+  region: AL
+  name: Tuscaloosa
+  lat: '33.2348'
+  long: "-87.5268"
+  nearby_rate_centers:
+  - name: TUSCALOOSA
+    distance_km: 5.07
+  - name: MOUNDVILLE
+    distance_km: 27.79
+  - name: FLATWOOD
+    distance_km: 29.57
+- country: US
+  region: AL
+  name: Tuscumbia
+  lat: '34.7204'
+  long: "-87.7035"
+  nearby_rate_centers:
+  - name: SHEFFIELD
+    distance_km: 5.0
+  - name: FLORENCE
+    distance_km: 10.05
+  - name: LEIGHTON
+    distance_km: 16.32
+- country: US
+  region: AL
+  name: Tuskegee
+  lat: '32.4409'
+  long: "-85.7131"
+  nearby_rate_centers:
+  - name: TUSKEGEE
+    distance_km: 2.82
+  - name: NOTASULGA
+    distance_km: 14.39
+  - name: TALLASSEE
+    distance_km: 20.71
+- country: US
+  region: AL
+  name: Twin
+  lat: '33.9978'
+  long: "-87.8497"
+  nearby_rate_centers:
+  - name: GUIN
+    distance_km: 6.7
+  - name: BRILLIANT
+    distance_km: 7.77
+  - name: WINFIELD
+    distance_km: 7.81
+- country: US
+  region: AL
+  name: Underwood-Petersville
+  lat: '34.8770'
+  long: "-87.6975"
+  nearby_rate_centers:
+  - name: FLORENCE
+    distance_km: 7.86
+  - name: SHEFFIELD
+    distance_km: 12.44
+  - name: KILLEN
+    distance_km: 17.98
+- country: US
+  region: AL
+  name: Union
+  lat: '32.9938'
+  long: "-87.9071"
+  nearby_rate_centers:
+  - name: EUTAW
+    distance_km: 17.15
+  - name: MOUNDVILLE
+    distance_km: 26.05
+  - name: ALICEVILLE
+    distance_km: 26.73
+- country: US
+  region: AL
+  name: Union Grove
+  lat: '34.4025'
+  long: "-86.4483"
+  nearby_rate_centers:
+  - name: UNIONGROVE
+    distance_km: 0.97
+  - name: ARAB
+    distance_km: 10.91
+  - name: GUNTERSVL
+    distance_km: 14.65
+- country: US
+  region: AL
+  name: Union Springs
+  lat: '32.1395'
+  long: "-85.7141"
+  nearby_rate_centers:
+  - name: UNION SPG
+    distance_km: 0.29
+  - name: FORT DAVIS
+    distance_km: 12.43
+  - name: MIDWAY
+    distance_km: 18.8
+- country: US
+  region: AL
+  name: Uniontown
+  lat: '32.4490'
+  long: "-87.4958"
+  nearby_rate_centers:
+  - name: UNIONTOWN
+    distance_km: 1.33
+  - name: THOMASTON
+    distance_km: 23.85
+  - name: ALBERTA
+    distance_km: 25.42
+- country: US
+  region: AL
+  name: Uriah
+  lat: '31.3074'
+  long: "-87.4992"
+  nearby_rate_centers:
+  - name: URIAH
+    distance_km: 0.05
+  - name: HUXFORD
+    distance_km: 10.96
+  - name: MCCULLOUGH
+    distance_km: 15.76
+- country: US
+  region: AL
+  name: Valley
+  lat: '32.8088'
+  long: "-85.1810"
+  nearby_rate_centers:
+  - name: LANGDALE
+    distance_km: 0.99
+  - name: SHAWMUT
+    distance_km: 4.83
+  - name: WEST POINT
+    distance_km: 7.69
+- country: US
+  region: AL
+  name: Valley Grande
+  lat: '32.4862'
+  long: "-87.0305"
+  nearby_rate_centers:
+  - name: SELMA
+    distance_km: 7.79
+  - name: ORRVILLE
+    distance_km: 28.24
+  - name: MARION
+    distance_km: 31.04
+- country: US
+  region: AL
+  name: Valley Head
+  lat: '34.5558'
+  long: "-85.6224"
+  nearby_rate_centers:
+  - name: VALLEYHEAD
+    distance_km: 1.67
+  - name: MENTONE
+    distance_km: 4.15
+  - name: HENAGAR
+    distance_km: 14.94
+- country: US
+  region: AL
+  name: Vance
+  lat: '33.1746'
+  long: "-87.2314"
+  nearby_rate_centers:
+  - name: W BLOCTON
+    distance_km: 11.92
+  - name: CENTREVL
+    distance_km: 27.47
+  - name: TUSCALOOSA
+    distance_km: 30.75
+- country: US
+  region: AL
+  name: Vandiver
+  lat: '33.4601'
+  long: "-86.5247"
+  nearby_rate_centers:
+  - name: LEEDS
+    distance_km: 10.27
+  - name: VINCENT
+    distance_km: 13.13
+  - name: CHELSEA
+    distance_km: 15.87
+- country: US
+  region: AL
+  name: Vernon
+  lat: '33.7588'
+  long: "-88.1143"
+  nearby_rate_centers:
+  - name: VERNON
+    distance_km: 0.84
+  - name: SULLIGENT
+    distance_km: 15.89
+  - name: MILLPORT
+    distance_km: 21.46
+- country: US
+  region: AL
+  name: Vestavia Hills
+  lat: '33.4518'
+  long: "-86.7437"
+  nearby_rate_centers:
+  - name: BIRMINGHAM
+    distance_km: 9.54
+  - name: CHELSEA
+    distance_km: 16.53
+  - name: BESSEMER
+    distance_km: 20.76
+- country: US
+  region: AL
+  name: Vina
+  lat: '34.3757'
+  long: "-88.0602"
+  nearby_rate_centers:
+  - name: RED BAY
+    distance_km: 10.24
+  - name: HACKLEBURG
+    distance_km: 23.9
+  - name: HAMILTON
+    distance_km: 26.57
+- country: US
+  region: AL
+  name: Vincent
+  lat: '33.3849'
+  long: "-86.4087"
+  nearby_rate_centers:
+  - name: VINCENT
+    distance_km: 0.62
+  - name: CHILDERSBG
+    distance_km: 13.36
+  - name: SURFSIDE
+    distance_km: 16.71
+- country: US
+  region: AL
+  name: Vinegar Bend
+  lat: '31.2594'
+  long: "-88.3712"
+  nearby_rate_centers:
+  - name: DEER PARK
+    distance_km: 7.46
+  - name: FRUITDALE
+    distance_km: 9.81
+  - name: CITRONELLE
+    distance_km: 22.61
+- country: US
+  region: AL
+  name: Vredenburgh
+  lat: '31.8237'
+  long: "-87.3178"
+  nearby_rate_centers:
+  - name: VREDENBG
+    distance_km: 0.18
+  - name: BEATRICE
+    distance_km: 13.1
+  - name: CAMDEN
+    distance_km: 18.63
+- country: US
+  region: AL
+  name: Wadley
+  lat: '33.1239'
+  long: "-85.5683"
+  nearby_rate_centers:
+  - name: WADLEY
+    distance_km: 0.92
+  - name: ROANOKE
+    distance_km: 19.32
+  - name: WEDOWEE
+    distance_km: 20.9
+- country: US
+  region: AL
+  name: Waldo
+  lat: '33.3892'
+  long: "-86.0360"
+  nearby_rate_centers:
+  - name: TALLADEGA
+    distance_km: 8.2
+  - name: MUNFORD
+    distance_km: 16.98
+  - name: ASHLAND
+    distance_km: 22.82
+- country: US
+  region: AL
+  name: Walnut Grove
+  lat: '34.0641'
+  long: "-86.2863"
+  nearby_rate_centers:
+  - name: WALNUT GRV
+    distance_km: 1.53
+  - name: SNEAD
+    distance_km: 12.27
+  - name: ATTALLA
+    distance_km: 18.85
+- country: US
+  region: AL
+  name: Warrior
+  lat: '33.8149'
+  long: "-86.8157"
+  nearby_rate_centers:
+  - name: WARRIOR
+    distance_km: 0.92
+  - name: GARDENDALE
+    distance_km: 18.43
+  - name: PINSON
+    distance_km: 18.6
+- country: US
+  region: AL
+  name: Waterloo
+  lat: '34.9173'
+  long: "-88.0654"
+  nearby_rate_centers:
+  - name: BARTON
+    distance_km: 19.56
+  - name: CHEROKEE
+    distance_km: 19.56
+  - name: MARGERUM
+    distance_km: 19.56
+  - name: FLORENCE
+    distance_km: 37.4
+  - name: SHEFFIELD
+    distance_km: 37.52
+- country: US
+  region: AL
+  name: Waverly
+  lat: '32.7333'
+  long: "-85.5764"
+  nearby_rate_centers:
+  - name: CAMP HILL
+    distance_km: 10.42
+  - name: AUBURN
+    distance_km: 17.23
+  - name: DADEVILLE
+    distance_km: 20.09
+- country: US
+  region: AL
+  name: Weaver
+  lat: '33.7601'
+  long: "-85.8117"
+  nearby_rate_centers:
+  - name: JACKSONVL
+    distance_km: 7.79
+  - name: ANNISTON
+    distance_km: 11.39
+  - name: OHATCHEE
+    distance_km: 14.34
+- country: US
+  region: AL
+  name: Webb
+  lat: '31.2572'
+  long: "-85.2896"
+  nearby_rate_centers:
+  - name: ASHFORD
+    distance_km: 9.4
+  - name: DOTHAN
+    distance_km: 10.33
+  - name: HEADLAND
+    distance_km: 11.27
+- country: US
+  region: AL
+  name: Wedowee
+  lat: '33.3078'
+  long: "-85.4864"
+  nearby_rate_centers:
+  - name: WEDOWEE
+    distance_km: 1.02
+  - name: WOODLAND
+    distance_km: 9.49
+  - name: MRNSCRSRDS
+    distance_km: 12.8
+- country: US
+  region: AL
+  name: Weogufka
+  lat: '33.0219'
+  long: "-86.3096"
+  nearby_rate_centers:
+  - name: ROCKFORD
+    distance_km: 16.5
+  - name: SYLACAUGA
+    distance_km: 17.18
+  - name: GOODWATER
+    distance_km: 23.76
+- country: US
+  region: AL
+  name: West Blocton
+  lat: '33.1186'
+  long: "-87.1253"
+  nearby_rate_centers:
+  - name: W BLOCTON
+    distance_km: 0.44
+  - name: CENTREVL
+    distance_km: 19.73
+  - name: MONTEVALLO
+    distance_km: 23.94
+- country: US
+  region: AL
+  name: West End-Cobb Town
+  lat: '33.6526'
+  long: "-85.8741"
+  nearby_rate_centers:
+  - name: ANNISTON
+    distance_km: 3.87
+  - name: OHATCHEE
+    distance_km: 15.85
+  - name: MUNFORD
+    distance_km: 15.94
+- country: US
+  region: AL
+  name: West Jefferson
+  lat: '33.6526'
+  long: "-87.0562"
+  nearby_rate_centers:
+  - name: GRAYSVILLE
+    distance_km: 7.91
+  - name: DORA
+    distance_km: 9.4
+  - name: CORDOVA
+    distance_km: 16.41
+- country: US
+  region: AL
+  name: West Point
+  lat: '34.2394'
+  long: "-86.9630"
+  nearby_rate_centers:
+  - name: CULLMAN
+    distance_km: 13.22
+  - name: FALKVILLE
+    distance_km: 14.93
+  - name: MASSEY
+    distance_km: 15.99
+- country: US
+  region: AL
+  name: Westover
+  lat: '33.3684'
+  long: "-86.5346"
+  nearby_rate_centers:
+  - name: CHELSEA
+    distance_km: 8.64
+  - name: VINCENT
+    distance_km: 11.23
+  - name: CHILDERSBG
+    distance_km: 20.15
+- country: US
+  region: AL
+  name: Wetumpka
+  lat: '32.5406'
+  long: "-86.2053"
+  nearby_rate_centers:
+  - name: WETUMPKA
+    distance_km: 1.21
+  - name: HOLTVILLE
+    distance_km: 15.11
+  - name: ECLECTIC
+    distance_km: 19.18
+- country: US
+  region: AL
+  name: Whatley
+  lat: '31.6463'
+  long: "-87.7108"
+  nearby_rate_centers:
+  - name: GROVE HILL
+    distance_km: 9.33
+  - name: GOSPORT
+    distance_km: 13.22
+  - name: FINCHBURG
+    distance_km: 16.6
+- country: US
+  region: AL
+  name: White Hall
+  lat: '32.2993'
+  long: "-86.7148"
+  nearby_rate_centers:
+  - name: LOWNDESBO
+    distance_km: 10.46
+  - name: GORDONSVL
+    distance_km: 14.46
+  - name: HAYNEVILLE
+    distance_km: 23.94
+- country: US
+  region: AL
+  name: White Plains
+  lat: '33.7603'
+  long: "-85.6880"
+  nearby_rate_centers:
+  - name: JACKSONVL
+    distance_km: 8.75
+  - name: HEFLIN
+    distance_km: 15.05
+  - name: ANNISTON
+    distance_km: 17.5
+- country: US
+  region: AL
+  name: Whitesboro
+  lat: '34.1682'
+  long: "-86.0572"
+  nearby_rate_centers:
+  - name: ARONEY
+    distance_km: 3.17
+  - name: BOAZ
+    distance_km: 11.04
+  - name: CROSSVILLE
+    distance_km: 14.17
+- country: US
+  region: AL
+  name: Wilsonville
+  lat: '33.2346'
+  long: "-86.4884"
+  nearby_rate_centers:
+  - name: COLUMBIANA
+    distance_km: 13.14
+  - name: CHILDERSBG
+    distance_km: 13.83
+  - name: CHELSEA
+    distance_km: 17.34
+- country: US
+  region: AL
+  name: Wilton
+  lat: '33.0813'
+  long: "-86.8799"
+  nearby_rate_centers:
+  - name: MONTEVALLO
+    distance_km: 2.19
+  - name: CALERA
+    distance_km: 12.31
+  - name: ALABASTER
+    distance_km: 17.84
+- country: US
+  region: AL
+  name: Winfield
+  lat: '33.9334'
+  long: "-87.7961"
+  nearby_rate_centers:
+  - name: WINFIELD
+    distance_km: 2.12
+  - name: BRILLIANT
+    distance_km: 10.59
+  - name: GUIN
+    distance_km: 12.07
+- country: US
+  region: AL
+  name: Woodland
+  lat: '33.3756'
+  long: "-85.3974"
+  nearby_rate_centers:
+  - name: WOODLAND
+    distance_km: 2.41
+  - name: MRNSCRSRDS
+    distance_km: 10.25
+  - name: WEDOWEE
+    distance_km: 11.85
+- country: US
+  region: AL
+  name: Woodstock
+  lat: '33.2193'
+  long: "-87.1490"
+  nearby_rate_centers:
+  - name: W BLOCTON
+    distance_km: 11.85
+  - name: BESSEMER
+    distance_km: 26.79
+  - name: MONTEVALLO
+    distance_km: 29.28
+- country: US
+  region: AL
+  name: Woodville
+  lat: '34.6256'
+  long: "-86.2792"
+  nearby_rate_centers:
+  - name: GRANT
+    distance_km: 11.32
+  - name: GURLEY
+    distance_km: 12.21
+  - name: NEW HOPE
+    distance_km: 14.42
+- country: US
+  region: AL
+  name: Yellow Bluff
+  lat: '31.9623'
+  long: "-87.4773"
+  nearby_rate_centers:
+  - name: PINE HILL
+    distance_km: 11.17
+  - name: ARLINGTON
+    distance_km: 14.62
+  - name: CAMDEN
+    distance_km: 17.78
+- country: US
+  region: AL
+  name: York
+  lat: '32.4998'
+  long: "-88.2938"
+  nearby_rate_centers:
+  - name: YORK
+    distance_km: 1.78
+  - name: LIVINGSTON
+    distance_km: 14.04
+  - name: LISMAN
+    distance_km: 35.92

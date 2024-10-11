@@ -1,0 +1,950 @@
+---
+cities:
+- country: US
+  region: DE
+  name: Arden
+  lat: '39.8114'
+  long: "-75.4886"
+  nearby_rate_centers:
+  - name: HOLLY OAK
+    distance_km: 3.37
+  - name: WILMINGTON
+    distance_km: 8.8
+  - name: NEW CASTLE
+    distance_km: 17.36
+- country: US
+  region: DE
+  name: Ardencroft
+  lat: '39.8056'
+  long: "-75.4862"
+  nearby_rate_centers:
+  - name: HOLLY OAK
+    distance_km: 2.69
+  - name: WILMINGTON
+    distance_km: 8.39
+  - name: NEW CASTLE
+    distance_km: 16.85
+- country: US
+  region: DE
+  name: Ardentown
+  lat: '39.8083'
+  long: "-75.4809"
+  nearby_rate_centers:
+  - name: HOLLY OAK
+    distance_km: 2.82
+  - name: WILMINGTON
+    distance_km: 8.91
+  - name: NEW CASTLE
+    distance_km: 17.31
+- country: US
+  region: DE
+  name: Bear
+  lat: '39.6189'
+  long: "-75.6808"
+  nearby_rate_centers:
+  - name: DELAWARECY
+    distance_km: 4.98
+  - name: NEWARK
+    distance_km: 9.34
+  - name: NEW CASTLE
+    distance_km: 11.12
+- country: US
+  region: DE
+  name: Bellefonte
+  lat: '39.7668'
+  long: "-75.4982"
+  nearby_rate_centers:
+  - name: HOLLY OAK
+    distance_km: 2.91
+  - name: WILMINGTON
+    distance_km: 4.69
+  - name: NEW CASTLE
+    distance_km: 12.53
+- country: US
+  region: DE
+  name: Bethany Beach
+  lat: '38.5391'
+  long: "-75.0660"
+  nearby_rate_centers:
+  - name: OCEAN VIEW
+    distance_km: 2.37
+  - name: DAGSBORO
+    distance_km: 15.08
+  - name: SELBYVILLE
+    distance_km: 16.46
+- country: US
+  region: DE
+  name: Bethel
+  lat: '38.5711'
+  long: "-75.6195"
+  nearby_rate_centers:
+  - name: LAUREL
+    distance_km: 4.28
+  - name: SEAFORD
+    distance_km: 7.74
+  - name: DELMAR
+    distance_km: 12.91
+- country: US
+  region: DE
+  name: Blades
+  lat: '38.6353'
+  long: "-75.6024"
+  nearby_rate_centers:
+  - name: SEAFORD
+    distance_km: 1.64
+  - name: LAUREL
+    distance_km: 8.92
+  - name: BRIDGEVL
+    distance_km: 11.7
+- country: US
+  region: DE
+  name: Bowers
+  lat: '39.0602'
+  long: "-75.4020"
+  nearby_rate_centers:
+  - name: FREDERICA
+    distance_km: 7.89
+  - name: CAMDEN
+    distance_km: 14.75
+  - name: DOVER
+    distance_km: 15.68
+- country: US
+  region: DE
+  name: Bridgeville
+  lat: '38.7251'
+  long: "-75.6029"
+  nearby_rate_centers:
+  - name: BRIDGEVL
+    distance_km: 1.76
+  - name: GREENWOOD
+    distance_km: 9.34
+  - name: SEAFORD
+    distance_km: 9.5
+- country: US
+  region: DE
+  name: Brookside
+  lat: '39.6665'
+  long: "-75.7152"
+  nearby_rate_centers:
+  - name: NEWARK
+    distance_km: 3.55
+  - name: DELAWARECY
+    distance_km: 11.02
+  - name: NEW CASTLE
+    distance_km: 12.66
+- country: US
+  region: DE
+  name: Camden
+  lat: '39.0990'
+  long: "-75.5571"
+  nearby_rate_centers:
+  - name: CAMDEN
+    distance_km: 1.94
+  - name: DOVER
+    distance_km: 6.99
+  - name: FELTON
+    distance_km: 10.11
+- country: US
+  region: DE
+  name: Cheswold
+  lat: '39.2189'
+  long: "-75.5882"
+  nearby_rate_centers:
+  - name: DOVER
+    distance_km: 8.26
+  - name: SMYRNA
+    distance_km: 9.49
+  - name: CAMDEN
+    distance_km: 11.71
+- country: US
+  region: DE
+  name: Claymont
+  lat: '39.8032'
+  long: "-75.4607"
+  nearby_rate_centers:
+  - name: HOLLY OAK
+    distance_km: 2.37
+  - name: WILMINGTON
+    distance_km: 9.68
+  - name: NEW CASTLE
+    distance_km: 17.63
+- country: US
+  region: DE
+  name: Clayton
+  lat: '39.2849'
+  long: "-75.6366"
+  nearby_rate_centers:
+  - name: SMYRNA
+    distance_km: 3.09
+  - name: DOVER
+    distance_km: 16.67
+  - name: HARTLY
+    distance_km: 17.0
+- country: US
+  region: DE
+  name: Dagsboro
+  lat: '38.5462'
+  long: "-75.2458"
+  nearby_rate_centers:
+  - name: DAGSBORO
+    distance_km: 3.44
+  - name: MILLSBORO
+    distance_km: 6.31
+  - name: SELBYVILLE
+    distance_km: 9.9
+- country: US
+  region: DE
+  name: Delaware City
+  lat: '39.5740'
+  long: "-75.5938"
+  nearby_rate_centers:
+  - name: DELAWARECY
+    distance_km: 4.68
+  - name: NEW CASTLE
+    distance_km: 10.64
+  - name: MIDDLETOWN
+    distance_km: 17.18
+- country: US
+  region: DE
+  name: Delmar
+  lat: '38.4651'
+  long: "-75.5553"
+  nearby_rate_centers:
+  - name: DELMAR
+    distance_km: 1.99
+  - name: LAUREL
+    distance_km: 10.49
+  - name: GUMBORO
+    distance_km: 16.41
+- country: US
+  region: DE
+  name: Dewey Beach
+  lat: '38.6958'
+  long: "-75.0749"
+  nearby_rate_centers:
+  - name: REHOBOTH
+    distance_km: 2.61
+  - name: LEWES
+    distance_km: 10.57
+  - name: ANGOLA
+    distance_km: 11.06
+- country: US
+  region: DE
+  name: Dover
+  lat: '39.1610'
+  long: "-75.5202"
+  nearby_rate_centers:
+  - name: DOVER
+    distance_km: 1.04
+  - name: CAMDEN
+    distance_km: 5.88
+  - name: HARTLY
+    distance_km: 15.81
+- country: US
+  region: DE
+  name: Dover Base Housing
+  lat: '39.1178'
+  long: "-75.4837"
+  nearby_rate_centers:
+  - name: DOVER
+    distance_km: 6.17
+  - name: CAMDEN
+    distance_km: 6.31
+  - name: FREDERICA
+    distance_km: 12.07
+- country: US
+  region: DE
+  name: Edgemoor
+  lat: '39.7547'
+  long: "-75.5069"
+  nearby_rate_centers:
+  - name: WILMINGTON
+    distance_km: 3.45
+  - name: HOLLY OAK
+    distance_km: 4.38
+  - name: NEW CASTLE
+    distance_km: 10.99
+- country: US
+  region: DE
+  name: Ellendale
+  lat: '38.8102'
+  long: "-75.4250"
+  nearby_rate_centers:
+  - name: MILTON
+    distance_km: 10.89
+  - name: MILFORD
+    distance_km: 11.84
+  - name: GEORGETOWN
+    distance_km: 13.45
+- country: US
+  region: DE
+  name: Elsmere
+  lat: '39.7384'
+  long: "-75.5946"
+  nearby_rate_centers:
+  - name: WILMINGTON
+    distance_km: 4.28
+  - name: NEW CASTLE
+    distance_km: 8.22
+  - name: HOCKESSIN
+    distance_km: 10.33
+- country: US
+  region: DE
+  name: Farmington
+  lat: '38.8699'
+  long: "-75.5790"
+  nearby_rate_centers:
+  - name: HARRINGTON
+    distance_km: 5.96
+  - name: GREENWOOD
+    distance_km: 6.9
+  - name: MILFORD
+    distance_km: 13.9
+- country: US
+  region: DE
+  name: Felton
+  lat: '39.0127'
+  long: "-75.5765"
+  nearby_rate_centers:
+  - name: FELTON
+    distance_km: 0.38
+  - name: FREDERICA
+    distance_km: 9.5
+  - name: HARRINGTON
+    distance_km: 9.95
+- country: US
+  region: DE
+  name: Fenwick Island
+  lat: '38.4604'
+  long: "-75.0542"
+  nearby_rate_centers:
+  - name: OCEAN VIEW
+    distance_km: 10.49
+  - name: SELBYVILLE
+    distance_km: 14.86
+  - name: DAGSBORO
+    distance_km: 17.05
+- country: US
+  region: DE
+  name: Frankford
+  lat: '38.5215'
+  long: "-75.2342"
+  nearby_rate_centers:
+  - name: DAGSBORO
+    distance_km: 0.65
+  - name: SELBYVILLE
+    distance_km: 7.03
+  - name: MILLSBORO
+    distance_km: 9.14
+- country: US
+  region: DE
+  name: Frederica
+  lat: '39.0081'
+  long: "-75.4667"
+  nearby_rate_centers:
+  - name: FREDERICA
+    distance_km: 0.22
+  - name: FELTON
+    distance_km: 9.47
+  - name: MILFORD
+    distance_km: 10.65
+- country: US
+  region: DE
+  name: Georgetown
+  lat: '38.6894'
+  long: "-75.3872"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance_km: 0.6
+  - name: MILTON
+    distance_km: 11.77
+  - name: MILLSBORO
+    distance_km: 13.81
+- country: US
+  region: DE
+  name: Glasgow
+  lat: '39.6015'
+  long: "-75.7473"
+  nearby_rate_centers:
+  - name: DELAWARECY
+    distance_km: 8.83
+  - name: NEWARK
+    distance_km: 9.16
+  - name: MIDDLETOWN
+    distance_km: 16.77
+- country: US
+  region: DE
+  name: Greenville
+  lat: '39.7780'
+  long: "-75.6046"
+  nearby_rate_centers:
+  - name: WILMINGTON
+    distance_km: 6.23
+  - name: HOCKESSIN
+    distance_km: 8.11
+  - name: HOLLY OAK
+    distance_km: 11.32
+- country: US
+  region: DE
+  name: Greenwood
+  lat: '38.8072'
+  long: "-75.5900"
+  nearby_rate_centers:
+  - name: GREENWOOD
+    distance_km: 0.19
+  - name: BRIDGEVL
+    distance_km: 7.58
+  - name: HARRINGTON
+    distance_km: 12.93
+- country: US
+  region: DE
+  name: Harrington
+  lat: '38.9243'
+  long: "-75.5707"
+  nearby_rate_centers:
+  - name: HARRINGTON
+    distance_km: 1.1
+  - name: FELTON
+    distance_km: 9.47
+  - name: MILFORD
+    distance_km: 12.2
+- country: US
+  region: DE
+  name: Hartly
+  lat: '39.1683'
+  long: "-75.7124"
+  nearby_rate_centers:
+  - name: HARTLY
+    distance_km: 3.22
+  - name: CAMDEN
+    distance_km: 14.61
+  - name: DOVER
+    distance_km: 15.6
+- country: US
+  region: DE
+  name: Henlopen Acres
+  lat: '38.7257'
+  long: "-75.0849"
+  nearby_rate_centers:
+  - name: REHOBOTH
+    distance_km: 0.89
+  - name: LEWES
+    distance_km: 7.37
+  - name: ANGOLA
+    distance_km: 12.19
+- country: US
+  region: DE
+  name: Highland Acres
+  lat: '39.1163'
+  long: "-75.5216"
+  nearby_rate_centers:
+  - name: CAMDEN
+    distance_km: 3.03
+  - name: DOVER
+    distance_km: 4.81
+  - name: FREDERICA
+    distance_km: 12.73
+- country: US
+  region: DE
+  name: Hockessin
+  lat: '39.7837'
+  long: "-75.6815"
+  nearby_rate_centers:
+  - name: HOCKESSIN
+    distance_km: 1.51
+  - name: WILMINGTON
+    distance_km: 12.39
+  - name: NEWARK
+    distance_km: 12.56
+- country: US
+  region: DE
+  name: Houston
+  lat: '38.9174'
+  long: "-75.5039"
+  nearby_rate_centers:
+  - name: MILFORD
+    distance_km: 6.39
+  - name: HARRINGTON
+    distance_km: 6.91
+  - name: FREDERICA
+    distance_km: 10.8
+- country: US
+  region: DE
+  name: Kent Acres
+  lat: '39.1324'
+  long: "-75.5160"
+  nearby_rate_centers:
+  - name: DOVER
+    distance_km: 3.24
+  - name: CAMDEN
+    distance_km: 3.94
+  - name: FREDERICA
+    distance_km: 14.25
+- country: US
+  region: DE
+  name: Kenton
+  lat: '39.2274'
+  long: "-75.6646"
+  nearby_rate_centers:
+  - name: SMYRNA
+    distance_km: 9.64
+  - name: HARTLY
+    distance_km: 10.17
+  - name: DOVER
+    distance_km: 13.75
+- country: US
+  region: DE
+  name: Laurel
+  lat: '38.5691'
+  long: "-75.5689"
+  nearby_rate_centers:
+  - name: LAUREL
+    distance_km: 1.24
+  - name: SEAFORD
+    distance_km: 9.12
+  - name: DELMAR
+    distance_km: 12.17
+- country: US
+  region: DE
+  name: Leipsic
+  lat: '39.2430'
+  long: "-75.5155"
+  nearby_rate_centers:
+  - name: DOVER
+    distance_km: 9.47
+  - name: SMYRNA
+    distance_km: 10.44
+  - name: CAMDEN
+    distance_km: 14.52
+- country: US
+  region: DE
+  name: Lewes
+  lat: '38.7776'
+  long: "-75.1450"
+  nearby_rate_centers:
+  - name: LEWES
+    distance_km: 0.49
+  - name: REHOBOTH
+    distance_km: 8.42
+  - name: MILTON
+    distance_km: 14.1
+- country: US
+  region: DE
+  name: Lincoln
+  lat: '38.8680'
+  long: "-75.4229"
+  nearby_rate_centers:
+  - name: MILFORD
+    distance_km: 5.44
+  - name: MILTON
+    distance_km: 14.37
+  - name: HARRINGTON
+    distance_km: 15.19
+- country: US
+  region: DE
+  name: Little Creek
+  lat: '39.1659'
+  long: "-75.4481"
+  nearby_rate_centers:
+  - name: DOVER
+    distance_km: 7.27
+  - name: CAMDEN
+    distance_km: 10.87
+  - name: FREDERICA
+    distance_km: 17.4
+- country: US
+  region: DE
+  name: Long Neck
+  lat: '38.6205'
+  long: "-75.1529"
+  nearby_rate_centers:
+  - name: ANGOLA
+    distance_km: 4.79
+  - name: OCEAN VIEW
+    distance_km: 9.55
+  - name: REHOBOTH
+    distance_km: 12.3
+- country: US
+  region: DE
+  name: Magnolia
+  lat: '39.0714'
+  long: "-75.4760"
+  nearby_rate_centers:
+  - name: FREDERICA
+    distance_km: 6.87
+  - name: CAMDEN
+    distance_km: 8.58
+  - name: DOVER
+    distance_km: 10.85
+- country: US
+  region: DE
+  name: Middletown
+  lat: '39.4450'
+  long: "-75.7183"
+  nearby_rate_centers:
+  - name: MIDDLETOWN
+    distance_km: 0.84
+  - name: DELAWARECY
+    distance_km: 16.44
+  - name: SMYRNA
+    distance_km: 18.4
+- country: US
+  region: DE
+  name: Milford
+  lat: '38.9091'
+  long: "-75.4227"
+  nearby_rate_centers:
+  - name: MILFORD
+    distance_km: 1.05
+  - name: FREDERICA
+    distance_km: 11.85
+  - name: HARRINGTON
+    distance_km: 13.99
+- country: US
+  region: DE
+  name: Millsboro
+  lat: '38.5892'
+  long: "-75.3089"
+  nearby_rate_centers:
+  - name: MILLSBORO
+    distance_km: 1.64
+  - name: DAGSBORO
+    distance_km: 10.27
+  - name: ANGOLA
+    distance_km: 12.53
+- country: US
+  region: DE
+  name: Millville
+  lat: '38.5356'
+  long: "-75.1284"
+  nearby_rate_centers:
+  - name: OCEAN VIEW
+    distance_km: 3.83
+  - name: DAGSBORO
+    distance_km: 9.68
+  - name: SELBYVILLE
+    distance_km: 11.98
+- country: US
+  region: DE
+  name: Milton
+  lat: '38.7750'
+  long: "-75.3102"
+  nearby_rate_centers:
+  - name: MILTON
+    distance_km: 0.22
+  - name: GEORGETOWN
+    distance_km: 11.03
+  - name: LEWES
+    distance_km: 14.79
+- country: US
+  region: DE
+  name: New Castle
+  lat: '39.6681'
+  long: "-75.5697"
+  nearby_rate_centers:
+  - name: NEW CASTLE
+    distance_km: 0.21
+  - name: WILMINGTON
+    distance_km: 8.84
+  - name: DELAWARECY
+    distance_km: 11.63
+- country: US
+  region: DE
+  name: Newark
+  lat: '39.6776'
+  long: "-75.7576"
+  nearby_rate_centers:
+  - name: NEWARK
+    distance_km: 0.95
+  - name: HOCKESSIN
+    distance_km: 12.95
+  - name: DELAWARECY
+    distance_km: 14.19
+- country: US
+  region: DE
+  name: Newport
+  lat: '39.7135'
+  long: "-75.6046"
+  nearby_rate_centers:
+  - name: NEW CASTLE
+    distance_km: 6.03
+  - name: WILMINGTON
+    distance_km: 6.18
+  - name: HOCKESSIN
+    distance_km: 11.34
+- country: US
+  region: DE
+  name: North Star
+  lat: '39.7550'
+  long: "-75.7331"
+  nearby_rate_centers:
+  - name: HOCKESSIN
+    distance_km: 4.43
+  - name: NEWARK
+    distance_km: 8.05
+  - name: WILMINGTON
+    distance_km: 16.08
+- country: US
+  region: DE
+  name: Ocean View
+  lat: '38.5355'
+  long: "-75.0984"
+  nearby_rate_centers:
+  - name: OCEAN VIEW
+    distance_km: 1.89
+  - name: DAGSBORO
+    distance_km: 12.23
+  - name: SELBYVILLE
+    distance_km: 13.93
+- country: US
+  region: DE
+  name: Odessa
+  lat: '39.4565'
+  long: "-75.6605"
+  nearby_rate_centers:
+  - name: MIDDLETOWN
+    distance_km: 4.91
+  - name: DELAWARECY
+    distance_km: 14.04
+  - name: SMYRNA
+    distance_km: 17.66
+- country: US
+  region: DE
+  name: Pike Creek
+  lat: '39.7488'
+  long: "-75.6950"
+  nearby_rate_centers:
+  - name: HOCKESSIN
+    distance_km: 4.04
+  - name: NEWARK
+    distance_km: 8.62
+  - name: WILMINGTON
+    distance_km: 12.79
+- country: US
+  region: DE
+  name: Pike Creek Valley
+  lat: '39.7294'
+  long: "-75.6989"
+  nearby_rate_centers:
+  - name: HOCKESSIN
+    distance_km: 6.19
+  - name: NEWARK
+    distance_km: 6.69
+  - name: NEW CASTLE
+    distance_km: 13.19
+- country: US
+  region: DE
+  name: Port Penn
+  lat: '39.5169'
+  long: "-75.5811"
+  nearby_rate_centers:
+  - name: DELAWARECY
+    distance_km: 9.23
+  - name: MIDDLETOWN
+    distance_km: 13.72
+  - name: NEW CASTLE
+    distance_km: 16.79
+- country: US
+  region: DE
+  name: Rehoboth Beach
+  lat: '38.7172'
+  long: "-75.0845"
+  nearby_rate_centers:
+  - name: REHOBOTH
+    distance_km: 0.1
+  - name: LEWES
+    distance_km: 8.13
+  - name: ANGOLA
+    distance_km: 11.61
+- country: US
+  region: DE
+  name: Rising Sun-Lebanon
+  lat: '39.1000'
+  long: "-75.5047"
+  nearby_rate_centers:
+  - name: CAMDEN
+    distance_km: 4.85
+  - name: DOVER
+    distance_km: 6.94
+  - name: FREDERICA
+    distance_km: 10.52
+- country: US
+  region: DE
+  name: Riverview
+  lat: '39.0293'
+  long: "-75.5202"
+  nearby_rate_centers:
+  - name: FREDERICA
+    distance_km: 5.1
+  - name: FELTON
+    distance_km: 5.33
+  - name: CAMDEN
+    distance_km: 10.19
+- country: US
+  region: DE
+  name: Rodney Village
+  lat: '39.1283'
+  long: "-75.5396"
+  nearby_rate_centers:
+  - name: CAMDEN
+    distance_km: 1.99
+  - name: DOVER
+    distance_km: 3.45
+  - name: FELTON
+    distance_km: 13.6
+- country: US
+  region: DE
+  name: Seaford
+  lat: '38.6538'
+  long: "-75.6110"
+  nearby_rate_centers:
+  - name: SEAFORD
+    distance_km: 1.65
+  - name: BRIDGEVL
+    distance_km: 9.64
+  - name: LAUREL
+    distance_km: 11.1
+- country: US
+  region: DE
+  name: Selbyville
+  lat: '38.4629'
+  long: "-75.2117"
+  nearby_rate_centers:
+  - name: SELBYVILLE
+    distance_km: 1.23
+  - name: DAGSBORO
+    distance_km: 6.3
+  - name: GUMBORO
+    distance_km: 13.81
+- country: US
+  region: DE
+  name: Slaughter Beach
+  lat: '38.9150'
+  long: "-75.3090"
+  nearby_rate_centers:
+  - name: MILFORD
+    distance_km: 10.47
+  - name: MILTON
+    distance_km: 15.56
+  - name: FREDERICA
+    distance_km: 17.25
+- country: US
+  region: DE
+  name: Smyrna
+  lat: '39.2935'
+  long: "-75.6083"
+  nearby_rate_centers:
+  - name: SMYRNA
+    distance_km: 1.03
+  - name: DOVER
+    distance_km: 16.36
+  - name: HARTLY
+    distance_km: 18.81
+- country: US
+  region: DE
+  name: South Bethany
+  lat: '38.5160'
+  long: "-75.0589"
+  nearby_rate_centers:
+  - name: OCEAN VIEW
+    distance_km: 4.66
+  - name: DAGSBORO
+    distance_km: 15.48
+  - name: SELBYVILLE
+    distance_km: 15.78
+- country: US
+  region: DE
+  name: St. Georges
+  lat: '39.5606'
+  long: "-75.6514"
+  nearby_rate_centers:
+  - name: DELAWARECY
+    distance_km: 2.44
+  - name: MIDDLETOWN
+    distance_km: 13.29
+  - name: NEW CASTLE
+    distance_km: 13.9
+- country: US
+  region: DE
+  name: Townsend
+  lat: '39.3968'
+  long: "-75.6943"
+  nearby_rate_centers:
+  - name: MIDDLETOWN
+    distance_km: 6.5
+  - name: SMYRNA
+    distance_km: 12.77
+  - name: DELAWARECY
+    distance_km: 21.02
+- country: US
+  region: DE
+  name: Viola
+  lat: '39.0429'
+  long: "-75.5715"
+  nearby_rate_centers:
+  - name: FELTON
+    distance_km: 3.76
+  - name: CAMDEN
+    distance_km: 8.27
+  - name: FREDERICA
+    distance_km: 9.77
+- country: US
+  region: DE
+  name: Wilmington
+  lat: '39.7415'
+  long: "-75.5416"
+  nearby_rate_centers:
+  - name: WILMINGTON
+    distance_km: 0.54
+  - name: HOLLY OAK
+    distance_km: 7.56
+  - name: NEW CASTLE
+    distance_km: 8.52
+- country: US
+  region: DE
+  name: Wilmington Manor
+  lat: '39.6858'
+  long: "-75.5849"
+  nearby_rate_centers:
+  - name: NEW CASTLE
+    distance_km: 2.53
+  - name: WILMINGTON
+    distance_km: 7.44
+  - name: DELAWARECY
+    distance_km: 12.69
+- country: US
+  region: DE
+  name: Woodside
+  lat: '39.0711'
+  long: "-75.5677"
+  nearby_rate_centers:
+  - name: CAMDEN
+    distance_km: 5.13
+  - name: FELTON
+    distance_km: 6.91
+  - name: DOVER
+    distance_km: 10.23
+- country: US
+  region: DE
+  name: Woodside East
+  lat: '39.0676'
+  long: "-75.5376"
+  nearby_rate_centers:
+  - name: CAMDEN
+    distance_km: 5.67
+  - name: FELTON
+    distance_km: 7.29
+  - name: FREDERICA
+    distance_km: 8.86
+- country: US
+  region: DE
+  name: Wyoming
+  lat: '39.1147'
+  long: "-75.5630"
+  nearby_rate_centers:
+  - name: CAMDEN
+    distance_km: 0.57
+  - name: DOVER
+    distance_km: 5.59
+  - name: FELTON
+    distance_km: 11.77

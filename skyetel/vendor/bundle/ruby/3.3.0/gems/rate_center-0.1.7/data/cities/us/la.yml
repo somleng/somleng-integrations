@@ -1,0 +1,5858 @@
+---
+cities:
+- country: US
+  region: LA
+  name: Abbeville
+  lat: '29.9751'
+  long: "-92.1265"
+  nearby_rate_centers:
+  - name: ABBEVILLE
+    distance_km: 0.79
+  - name: ERATH
+    distance_km: 9.07
+  - name: DELCAMBRE
+    distance_km: 13.26
+- country: US
+  region: LA
+  name: Abita Springs
+  lat: '30.4761'
+  long: "-90.0293"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 6.97
+  - name: MANDEVILLE
+    distance_km: 13.38
+  - name: MADISONVL
+    distance_km: 14.23
+- country: US
+  region: LA
+  name: Addis
+  lat: '30.3652'
+  long: "-91.2658"
+  nearby_rate_centers:
+  - name: PLAQUEMINE
+    distance_km: 9.77
+  - name: BATONROUGE
+    distance_km: 12.36
+  - name: ST GABRIEL
+    distance_km: 19.89
+- country: US
+  region: LA
+  name: Albany
+  lat: '30.4993'
+  long: "-90.5839"
+  nearby_rate_centers:
+  - name: ALBANY
+    distance_km: 0.39
+  - name: SPRINGFLD
+    distance_km: 8.62
+  - name: HAMMOND
+    distance_km: 12.11
+- country: US
+  region: LA
+  name: Alexandria
+  lat: '31.2923'
+  long: "-92.4702"
+  nearby_rate_centers:
+  - name: ALEXANDRIA
+    distance_km: 2.47
+  - name: BOYCE
+    distance_km: 21.46
+  - name: LECOMPTE
+    distance_km: 23.2
+- country: US
+  region: LA
+  name: Ama
+  lat: '29.9440'
+  long: "-90.2967"
+  nearby_rate_centers:
+  - name: KENNER
+    distance_km: 6.09
+  - name: LULING
+    distance_km: 6.7
+  - name: NORCO
+    distance_km: 13.05
+- country: US
+  region: LA
+  name: Amelia
+  lat: '29.6645'
+  long: "-91.1072"
+  nearby_rate_centers:
+  - name: MORGANCITY
+    distance_km: 9.93
+  - name: GIBSON
+    distance_km: 11.97
+  - name: PATTERSON
+    distance_km: 19.66
+- country: US
+  region: LA
+  name: Amite City
+  lat: '30.7323'
+  long: "-90.5133"
+  nearby_rate_centers:
+  - name: AMITE CITY
+    distance_km: 1.69
+  - name: INDEPNDNCE
+    distance_km: 11.11
+  - name: MONTPELIER
+    distance_km: 13.89
+- country: US
+  region: LA
+  name: Anacoco
+  lat: '31.2545'
+  long: "-93.3440"
+  nearby_rate_centers:
+  - name: HORNBECK
+    distance_km: 10.13
+  - name: LEESVILLE
+    distance_km: 14.83
+  - name: FLORIEN
+    distance_km: 23.68
+- country: US
+  region: LA
+  name: Angie
+  lat: '30.9633'
+  long: "-89.8177"
+  nearby_rate_centers:
+  - name: ANGIE
+    distance_km: 0.65
+  - name: PINE
+    distance_km: 19.59
+  - name: BOGALUSA
+    distance_km: 20.62
+- country: US
+  region: LA
+  name: Arabi
+  lat: '29.9562'
+  long: "-89.9986"
+  nearby_rate_centers:
+  - name: NEWORLEANS
+    distance_km: 7.49
+  - name: ST BERNARD
+    distance_km: 16.94
+  - name: KENNER
+    distance_km: 23.64
+- country: US
+  region: LA
+  name: Arcadia
+  lat: '32.5506'
+  long: "-92.9218"
+  nearby_rate_centers:
+  - name: ARCADIA
+    distance_km: 0.45
+  - name: GIBSLAND
+    distance_km: 12.12
+  - name: ATHENS
+    distance_km: 14.7
+- country: US
+  region: LA
+  name: Arnaudville
+  lat: '30.4023'
+  long: "-91.9320"
+  nearby_rate_centers:
+  - name: ARNAUDVL
+    distance_km: 0.27
+  - name: LEONVILLE
+    distance_km: 8.57
+  - name: CECELIA
+    distance_km: 10.42
+- country: US
+  region: LA
+  name: Ashland
+  lat: '32.1165'
+  long: "-93.1172"
+  nearby_rate_centers:
+  - name: SALINE
+    distance_km: 14.2
+  - name: CASTOR
+    distance_km: 15.3
+  - name: CRESTON
+    distance_km: 16.36
+- country: US
+  region: LA
+  name: Athens
+  lat: '32.6580'
+  long: "-93.0277"
+  nearby_rate_centers:
+  - name: ATHENS
+    distance_km: 0.87
+  - name: GIBSLAND
+    distance_km: 12.84
+  - name: HOMER
+    distance_km: 15.0
+- country: US
+  region: LA
+  name: Atlanta
+  lat: '31.8064'
+  long: "-92.7383"
+  nearby_rate_centers:
+  - name: WINNFIELD
+    distance_km: 16.44
+  - name: MONTGOMERY
+    distance_km: 21.01
+  - name: COLFAX
+    distance_km: 32.3
+- country: US
+  region: LA
+  name: Avondale
+  lat: '29.9072'
+  long: "-90.1933"
+  nearby_rate_centers:
+  - name: KENNER
+    distance_km: 8.77
+  - name: NEWORLEANS
+    distance_km: 12.2
+  - name: LULING
+    distance_km: 16.78
+- country: US
+  region: LA
+  name: Baker
+  lat: '30.5832'
+  long: "-91.1582"
+  nearby_rate_centers:
+  - name: ZACHARY
+    distance_km: 7.42
+  - name: BATONROUGE
+    distance_km: 14.93
+  - name: ROUGON
+    distance_km: 21.7
+- country: US
+  region: LA
+  name: Baldwin
+  lat: '29.8389'
+  long: "-91.5522"
+  nearby_rate_centers:
+  - name: BALDWIN
+    distance_km: 0.92
+  - name: FRANKLIN
+    distance_km: 7.1
+  - name: JEANERETTE
+    distance_km: 14.11
+- country: US
+  region: LA
+  name: Ball
+  lat: '31.4188'
+  long: "-92.4084"
+  nearby_rate_centers:
+  - name: POLLOCK
+    distance_km: 11.7
+  - name: ALEXANDRIA
+    distance_km: 13.05
+  - name: DRY PRONG
+    distance_km: 20.79
+- country: US
+  region: LA
+  name: Banks Springs
+  lat: '32.0764'
+  long: "-92.0850"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance_km: 2.47
+  - name: OLLA
+    distance_km: 24.38
+  - name: HEBRON
+    distance_km: 24.58
+- country: US
+  region: LA
+  name: Barataria
+  lat: '29.7092'
+  long: "-90.1217"
+  nearby_rate_centers:
+  - name: LAFITTE
+    distance_km: 2.89
+  - name: JESUITBEND
+    distance_km: 9.92
+  - name: NEWORLEANS
+    distance_km: 26.9
+- country: US
+  region: LA
+  name: Basile
+  lat: '30.4855'
+  long: "-92.6009"
+  nearby_rate_centers:
+  - name: BASILE
+    distance_km: 1.2
+  - name: ELTON
+    distance_km: 8.6
+  - name: EUNICE
+    distance_km: 17.72
+- country: US
+  region: LA
+  name: Baskin
+  lat: '32.2591'
+  long: "-91.7473"
+  nearby_rate_centers:
+  - name: MANGHAM
+    distance_km: 6.19
+  - name: WINNSBORO
+    distance_km: 11.73
+  - name: CROWVILLE
+    distance_km: 14.33
+- country: US
+  region: LA
+  name: Bastrop
+  lat: '32.7748'
+  long: "-91.9078"
+  nearby_rate_centers:
+  - name: BASTROP
+    distance_km: 0.99
+  - name: COLLINSTON
+    distance_km: 9.98
+  - name: MER ROUGE
+    distance_km: 10.84
+- country: US
+  region: LA
+  name: Baton Rouge
+  lat: '30.4420'
+  long: "-91.1311"
+  nearby_rate_centers:
+  - name: BATONROUGE
+    distance_km: 5.1
+  - name: DENHAM SPG
+    distance_km: 17.17
+  - name: PLAQUEMINE
+    distance_km: 20.32
+- country: US
+  region: LA
+  name: Bawcomville
+  lat: '32.4702'
+  long: "-92.1736"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 7.07
+  - name: CALHOUN
+    distance_km: 17.91
+  - name: STERLINGTN
+    distance_km: 27.03
+- country: US
+  region: LA
+  name: Bayou Blue
+  lat: '29.6341'
+  long: "-90.6733"
+  nearby_rate_centers:
+  - name: HOUMA
+    distance_km: 5.66
+  - name: RACELAND
+    distance_km: 11.19
+  - name: LOCKPORT
+    distance_km: 13.31
+- country: US
+  region: LA
+  name: Bayou Cane
+  lat: '29.6243'
+  long: "-90.7510"
+  nearby_rate_centers:
+  - name: HOUMA
+    distance_km: 4.45
+  - name: RACELAND
+    distance_km: 17.17
+  - name: THIBODAUX
+    distance_km: 20.56
+- country: US
+  region: LA
+  name: Bayou Corne
+  lat: '30.0158'
+  long: "-91.1528"
+  nearby_rate_centers:
+  - name: PIERREPART
+    distance_km: 7.9
+  - name: NAPOLEONVL
+    distance_km: 14.32
+  - name: WH CASTLE
+    distance_km: 16.64
+- country: US
+  region: LA
+  name: Bayou Country Club
+  lat: '29.7796'
+  long: "-90.7892"
+  nearby_rate_centers:
+  - name: THIBODAUX
+    distance_km: 3.48
+  - name: CHACKBAY
+    distance_km: 10.81
+  - name: LABADIEVL
+    distance_km: 17.13
+- country: US
+  region: LA
+  name: Bayou Gauche
+  lat: '29.8081'
+  long: "-90.4210"
+  nearby_rate_centers:
+  - name: PARADIS
+    distance_km: 7.39
+  - name: LULING
+    distance_km: 14.86
+  - name: RACELAND
+    distance_km: 20.8
+- country: US
+  region: LA
+  name: Bayou Goula
+  lat: '30.2105'
+  long: "-91.1765"
+  nearby_rate_centers:
+  - name: WH CASTLE
+    distance_km: 5.62
+  - name: ST GABRIEL
+    distance_km: 8.99
+  - name: PLAQUEMINE
+    distance_km: 9.64
+- country: US
+  region: LA
+  name: Bayou L'Ourse
+  lat: '29.7174'
+  long: "-91.0607"
+  nearby_rate_centers:
+  - name: GIBSON
+    distance_km: 8.34
+  - name: MORGANCITY
+    distance_km: 13.71
+  - name: LABADIEVL
+    distance_km: 16.4
+- country: US
+  region: LA
+  name: Bayou Vista
+  lat: '29.6912'
+  long: "-91.2672"
+  nearby_rate_centers:
+  - name: PATTERSON
+    distance_km: 3.92
+  - name: MORGANCITY
+    distance_km: 6.45
+  - name: CENTERVL
+    distance_km: 18.07
+- country: US
+  region: LA
+  name: Belcher
+  lat: '32.7522'
+  long: "-93.8372"
+  nearby_rate_centers:
+  - name: BELCHER
+    distance_km: 1.31
+  - name: GILLIAM
+    distance_km: 8.17
+  - name: BENTON
+    distance_km: 11.32
+- country: US
+  region: LA
+  name: Belle Chasse
+  lat: '29.8558'
+  long: "-90.0045"
+  nearby_rate_centers:
+  - name: NEWORLEANS
+    distance_km: 12.32
+  - name: JESUITBEND
+    distance_km: 12.91
+  - name: ST BERNARD
+    distance_km: 14.14
+- country: US
+  region: LA
+  name: Belle Rose
+  lat: '30.0422'
+  long: "-91.0497"
+  nearby_rate_centers:
+  - name: DONALDSNVL
+    distance_km: 8.44
+  - name: NAPOLEONVL
+    distance_km: 11.31
+  - name: WH CASTLE
+    distance_km: 16.76
+- country: US
+  region: LA
+  name: Belmont
+  lat: '31.7182'
+  long: "-93.5082"
+  nearby_rate_centers:
+  - name: PLEASANTHL
+    distance_km: 10.69
+  - name: ZWOLLE
+    distance_km: 15.74
+  - name: MANY
+    distance_km: 16.8
+- country: US
+  region: LA
+  name: Benton
+  lat: '32.6907'
+  long: "-93.7401"
+  nearby_rate_centers:
+  - name: BENTON
+    distance_km: 0.06
+  - name: BELCHER
+    distance_km: 10.37
+  - name: GILLIAM
+    distance_km: 17.82
+- country: US
+  region: LA
+  name: Bernice
+  lat: '32.8276'
+  long: "-92.6584"
+  nearby_rate_centers:
+  - name: BERNICE
+    distance_km: 1.54
+  - name: DUBACH
+    distance_km: 13.98
+  - name: LISBON
+    distance_km: 19.31
+- country: US
+  region: LA
+  name: Berwick
+  lat: '29.7013'
+  long: "-91.2377"
+  nearby_rate_centers:
+  - name: MORGANCITY
+    distance_km: 3.52
+  - name: PATTERSON
+    distance_km: 6.69
+  - name: CENTERVL
+    distance_km: 20.27
+- country: US
+  region: LA
+  name: Bienville
+  lat: '32.3618'
+  long: "-92.9788"
+  nearby_rate_centers:
+  - name: GIBSLAND
+    distance_km: 21.38
+  - name: ARCADIA
+    distance_km: 21.55
+  - name: CASTOR
+    distance_km: 21.62
+- country: US
+  region: LA
+  name: Blanchard
+  lat: '32.6027'
+  long: "-93.8832"
+  nearby_rate_centers:
+  - name: BLANCHARD
+    distance_km: 2.08
+  - name: MOORINGSPT
+    distance_km: 11.3
+  - name: BELCHER
+    distance_km: 16.05
+- country: US
+  region: LA
+  name: Bogalusa
+  lat: '30.7812'
+  long: "-89.8633"
+  nearby_rate_centers:
+  - name: BOGALUSA
+    distance_km: 0.4
+  - name: BUSH
+    distance_km: 19.47
+  - name: PINE
+    distance_km: 20.76
+- country: US
+  region: LA
+  name: Bonita
+  lat: '32.9206'
+  long: "-91.6751"
+  nearby_rate_centers:
+  - name: BONITA
+    distance_km: 0.37
+  - name: MER ROUGE
+    distance_km: 19.58
+  - name: OAK GROVE
+    distance_km: 27.94
+- country: US
+  region: LA
+  name: Boothville
+  lat: '29.3330'
+  long: "-89.4053"
+  nearby_rate_centers:
+  - name: VENICE
+    distance_km: 7.37
+  - name: BURAS
+    distance_km: 13.65
+  - name: PT SULPHUR
+    distance_km: 32.1
+- country: US
+  region: LA
+  name: Bordelonville
+  lat: '31.1012'
+  long: "-91.9005"
+  nearby_rate_centers:
+  - name: BORDELONVL
+    distance_km: 0.76
+  - name: MOREAUVL
+    distance_km: 10.15
+  - name: MANSURA
+    distance_km: 14.77
+- country: US
+  region: LA
+  name: Bossier City
+  lat: '32.5224'
+  long: "-93.6668"
+  nearby_rate_centers:
+  - name: SHREVEPORT
+    distance_km: 8.21
+  - name: HAUGHTON
+    distance_km: 15.53
+  - name: BENTON
+    distance_km: 19.96
+- country: US
+  region: LA
+  name: Bourg
+  lat: '29.5570'
+  long: "-90.6064"
+  nearby_rate_centers:
+  - name: MONTEGUT
+    distance_km: 9.65
+  - name: HOUMA
+    distance_km: 11.53
+  - name: LOCKPORT
+    distance_km: 11.54
+- country: US
+  region: LA
+  name: Boutte
+  lat: '29.8825'
+  long: "-90.3935"
+  nearby_rate_centers:
+  - name: PARADIS
+    distance_km: 3.85
+  - name: LULING
+    distance_km: 6.21
+  - name: NORCO
+    distance_km: 13.27
+- country: US
+  region: LA
+  name: Boyce
+  lat: '31.3907'
+  long: "-92.6700"
+  nearby_rate_centers:
+  - name: BOYCE
+    distance_km: 0.81
+  - name: COLFAX
+    distance_km: 14.56
+  - name: ALEXANDRIA
+    distance_km: 22.78
+- country: US
+  region: LA
+  name: Branch
+  lat: '30.3480'
+  long: "-92.2771"
+  nearby_rate_centers:
+  - name: CHURCH PT
+    distance_km: 8.88
+  - name: CANKTON
+    distance_km: 11.77
+  - name: RAYNE
+    distance_km: 12.84
+- country: US
+  region: LA
+  name: Breaux Bridge
+  lat: '30.2829'
+  long: "-91.9043"
+  nearby_rate_centers:
+  - name: BREAUX BDG
+    distance_km: 0.68
+  - name: CECELIA
+    distance_km: 8.34
+  - name: PARKS
+    distance_km: 9.97
+- country: US
+  region: LA
+  name: Bridge City
+  lat: '29.9321'
+  long: "-90.1594"
+  nearby_rate_centers:
+  - name: NEWORLEANS
+    distance_km: 8.25
+  - name: KENNER
+    distance_km: 9.28
+  - name: LULING
+    distance_km: 19.81
+- country: US
+  region: LA
+  name: Broussard
+  lat: '30.1396'
+  long: "-91.9540"
+  nearby_rate_centers:
+  - name: BROUSSARD
+    distance_km: 1.28
+  - name: YOUNGSVL
+    distance_km: 5.97
+  - name: LAFAYETTE
+    distance_km: 11.21
+- country: US
+  region: LA
+  name: Brownfields
+  lat: '30.5467'
+  long: "-91.1225"
+  nearby_rate_centers:
+  - name: ZACHARY
+    distance_km: 11.96
+  - name: BATONROUGE
+    distance_km: 12.17
+  - name: DENHAM SPG
+    distance_km: 17.05
+- country: US
+  region: LA
+  name: Brownsville
+  lat: '32.4883'
+  long: "-92.1619"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 5.26
+  - name: CALHOUN
+    distance_km: 18.5
+  - name: STERLINGTN
+    distance_km: 24.78
+- country: US
+  region: LA
+  name: Brusly
+  lat: '30.3943'
+  long: "-91.2517"
+  nearby_rate_centers:
+  - name: BATONROUGE
+    distance_km: 9.07
+  - name: PLAQUEMINE
+    distance_km: 12.62
+  - name: ROSEDALE
+    distance_km: 20.42
+- country: US
+  region: LA
+  name: Bryceland
+  lat: '32.4485'
+  long: "-92.9924"
+  nearby_rate_centers:
+  - name: GIBSLAND
+    distance_km: 11.97
+  - name: ARCADIA
+    distance_km: 13.15
+  - name: ATHENS
+    distance_km: 22.69
+- country: US
+  region: LA
+  name: Bunkie
+  lat: '30.9540'
+  long: "-92.1884"
+  nearby_rate_centers:
+  - name: BUNKIE
+    distance_km: 0.92
+  - name: CHENEYVL
+    distance_km: 11.57
+  - name: COTTONPORT
+    distance_km: 12.71
+- country: US
+  region: LA
+  name: Buras
+  lat: '29.3528'
+  long: "-89.5247"
+  nearby_rate_centers:
+  - name: BURAS
+    distance_km: 1.87
+  - name: VENICE
+    distance_km: 18.01
+  - name: PT SULPHUR
+    distance_km: 21.27
+- country: US
+  region: LA
+  name: Cade
+  lat: '30.0926'
+  long: "-91.8996"
+  nearby_rate_centers:
+  - name: STMARTINVL
+    distance_km: 7.21
+  - name: BROUSSARD
+    distance_km: 8.68
+  - name: YOUNGSVL
+    distance_km: 9.19
+- country: US
+  region: LA
+  name: Calhoun
+  lat: '32.5153'
+  long: "-92.3539"
+  nearby_rate_centers:
+  - name: CALHOUN
+    distance_km: 0.35
+  - name: CHOUDRANT
+    distance_km: 15.51
+  - name: MONROE
+    distance_km: 23.09
+- country: US
+  region: LA
+  name: Calvin
+  lat: '31.9617'
+  long: "-92.7758"
+  nearby_rate_centers:
+  - name: WINNFIELD
+    distance_km: 14.22
+  - name: CRESTON
+    distance_km: 26.07
+  - name: SALINE
+    distance_km: 29.57
+- country: US
+  region: LA
+  name: Cameron
+  lat: '29.7870'
+  long: "-93.2925"
+  nearby_rate_centers:
+  - name: CAMERON
+    distance_km: 3.3
+  - name: CREOLE
+    distance_km: 18.25
+  - name: HACKBERRY
+    distance_km: 24.38
+- country: US
+  region: LA
+  name: Campti
+  lat: '31.8980'
+  long: "-93.1158"
+  nearby_rate_centers:
+  - name: CAMPTI
+    distance_km: 0.21
+  - name: CRESTON
+    distance_km: 11.0
+  - name: NATCHITCHS
+    distance_km: 14.69
+- country: US
+  region: LA
+  name: Cankton
+  lat: '30.3455'
+  long: "-92.1130"
+  nearby_rate_centers:
+  - name: CANKTON
+    distance_km: 5.42
+  - name: CARENCRO
+    distance_km: 8.57
+  - name: SUNSET
+    distance_km: 9.33
+- country: US
+  region: LA
+  name: Carencro
+  lat: '30.3126'
+  long: "-92.0388"
+  nearby_rate_centers:
+  - name: CARENCRO
+    distance_km: 1.93
+  - name: LAFAYETTE
+    distance_km: 9.98
+  - name: SUNSET
+    distance_km: 12.05
+- country: US
+  region: LA
+  name: Carlyss
+  lat: '30.1761'
+  long: "-93.3704"
+  nearby_rate_centers:
+  - name: CARLYSS
+    distance_km: 3.56
+  - name: SULPHUR
+    distance_km: 6.35
+  - name: LK CHARLES
+    distance_km: 16.95
+- country: US
+  region: LA
+  name: Castor
+  lat: '32.2549'
+  long: "-93.1660"
+  nearby_rate_centers:
+  - name: CASTOR
+    distance_km: 0.78
+  - name: RINGGOLD
+    distance_km: 13.61
+  - name: SALINE
+    distance_km: 20.32
+- country: US
+  region: LA
+  name: Catahoula
+  lat: '30.2126'
+  long: "-91.7126"
+  nearby_rate_centers:
+  - name: PARKS
+    distance_km: 11.65
+  - name: HENDERSON
+    distance_km: 13.1
+  - name: STMARTINVL
+    distance_km: 15.23
+- country: US
+  region: LA
+  name: Cecilia
+  lat: '30.3368'
+  long: "-91.8476"
+  nearby_rate_centers:
+  - name: CECELIA
+    distance_km: 0.52
+  - name: HENDERSON
+    distance_km: 6.75
+  - name: BREAUX BDG
+    distance_km: 7.57
+- country: US
+  region: LA
+  name: Center Point
+  lat: '31.2524'
+  long: "-92.2099"
+  nearby_rate_centers:
+  - name: MARKSVILLE
+    distance_km: 19.82
+  - name: ALEXANDRIA
+    distance_km: 23.7
+  - name: LECOMPTE
+    distance_km: 25.93
+- country: US
+  region: LA
+  name: Centerville
+  lat: '29.7558'
+  long: "-91.4280"
+  nearby_rate_centers:
+  - name: CENTERVL
+    distance_km: 1.01
+  - name: FRANKLIN
+    distance_km: 8.13
+  - name: PATTERSON
+    distance_km: 13.32
+- country: US
+  region: LA
+  name: Central
+  lat: '30.5593'
+  long: "-91.0369"
+  nearby_rate_centers:
+  - name: DENHAM SPG
+    distance_km: 11.07
+  - name: ZACHARY
+    distance_km: 15.33
+  - name: BATONROUGE
+    distance_km: 18.51
+- country: US
+  region: LA
+  name: Chackbay
+  lat: '29.8809'
+  long: "-90.7750"
+  nearby_rate_centers:
+  - name: CHACKBAY
+    distance_km: 3.51
+  - name: THIBODAUX
+    distance_km: 9.8
+  - name: VACHERIE
+    distance_km: 13.32
+- country: US
+  region: LA
+  name: Chalmette
+  lat: '29.9438'
+  long: "-89.9660"
+  nearby_rate_centers:
+  - name: NEWORLEANS
+    distance_km: 10.58
+  - name: ST BERNARD
+    distance_km: 13.63
+  - name: JESUITBEND
+    distance_km: 23.25
+- country: US
+  region: LA
+  name: Charenton
+  lat: '29.8685'
+  long: "-91.5388"
+  nearby_rate_centers:
+  - name: BALDWIN
+    distance_km: 2.91
+  - name: FRANKLIN
+    distance_km: 9.1
+  - name: JEANERETTE
+    distance_km: 13.48
+- country: US
+  region: LA
+  name: Chataignier
+  lat: '30.5696'
+  long: "-92.3168"
+  nearby_rate_centers:
+  - name: CHATAIGNIR
+    distance_km: 0.73
+  - name: MAMOU
+    distance_km: 12.05
+  - name: EUNICE
+    distance_km: 12.72
+- country: US
+  region: LA
+  name: Chatham
+  lat: '32.3096'
+  long: "-92.4522"
+  nearby_rate_centers:
+  - name: CHATHAM
+    distance_km: 0.24
+  - name: HEBRON
+    distance_km: 24.45
+  - name: CHOUDRANT
+    distance_km: 24.83
+- country: US
+  region: LA
+  name: Chauvin
+  lat: '29.4455'
+  long: "-90.5939"
+  nearby_rate_centers:
+  - name: MONTEGUT
+    distance_km: 5.23
+  - name: DULAC
+    distance_km: 13.23
+  - name: HOUMA
+    distance_km: 20.72
+- country: US
+  region: LA
+  name: Cheneyville
+  lat: '31.0110'
+  long: "-92.2900"
+  nearby_rate_centers:
+  - name: CHENEYVL
+    distance_km: 0.23
+  - name: BUNKIE
+    distance_km: 11.71
+  - name: LECOMPTE
+    distance_km: 14.22
+- country: US
+  region: LA
+  name: Choctaw
+  lat: '29.8457'
+  long: "-90.7238"
+  nearby_rate_centers:
+  - name: CHACKBAY
+    distance_km: 9.0
+  - name: THIBODAUX
+    distance_km: 10.24
+  - name: VACHERIE
+    distance_km: 16.29
+- country: US
+  region: LA
+  name: Choudrant
+  lat: '32.5503'
+  long: "-92.5121"
+  nearby_rate_centers:
+  - name: CHOUDRANT
+    distance_km: 2.81
+  - name: RUSTON
+    distance_km: 12.79
+  - name: CALHOUN
+    distance_km: 15.07
+- country: US
+  region: LA
+  name: Church Point
+  lat: '30.4037'
+  long: "-92.2145"
+  nearby_rate_centers:
+  - name: CHURCH PT
+    distance_km: 0.54
+  - name: CANKTON
+    distance_km: 6.28
+  - name: LAWTELL
+    distance_km: 12.96
+- country: US
+  region: LA
+  name: Claiborne
+  lat: '32.5379'
+  long: "-92.1981"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 9.35
+  - name: CALHOUN
+    distance_km: 14.97
+  - name: STERLINGTN
+    distance_km: 21.08
+- country: US
+  region: LA
+  name: Clarence
+  lat: '31.8198'
+  long: "-93.0292"
+  nearby_rate_centers:
+  - name: NATCHITCHS
+    distance_km: 8.3
+  - name: CAMPTI
+    distance_km: 12.14
+  - name: CRESTON
+    distance_km: 17.97
+- country: US
+  region: LA
+  name: Clarks
+  lat: '32.0288'
+  long: "-92.1408"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance_km: 9.53
+  - name: OLLA
+    distance_km: 17.02
+  - name: HEBRON
+    distance_km: 21.08
+- country: US
+  region: LA
+  name: Clayton
+  lat: '31.7226'
+  long: "-91.5373"
+  nearby_rate_centers:
+  - name: FERRIDAY
+    distance_km: 11.23
+  - name: WATERPROOF
+    distance_km: 17.3
+  - name: SICILY IS
+    distance_km: 18.27
+- country: US
+  region: LA
+  name: Clinton
+  lat: '30.8613'
+  long: "-91.0150"
+  nearby_rate_centers:
+  - name: CLINTON
+    distance_km: 0.72
+  - name: WILSON
+    distance_km: 11.79
+  - name: JACKSON
+    distance_km: 19.41
+- country: US
+  region: LA
+  name: Colfax
+  lat: '31.5208'
+  long: "-92.7001"
+  nearby_rate_centers:
+  - name: COLFAX
+    distance_km: 1.12
+  - name: BOYCE
+    distance_km: 15.55
+  - name: DRY PRONG
+    distance_km: 17.59
+- country: US
+  region: LA
+  name: Collinston
+  lat: '32.6893'
+  long: "-91.8718"
+  nearby_rate_centers:
+  - name: COLLINSTON
+    distance_km: 0.53
+  - name: BASTROP
+    distance_km: 10.33
+  - name: OAK RIDGE
+    distance_km: 11.32
+- country: US
+  region: LA
+  name: Columbia
+  lat: '32.1026'
+  long: "-92.0770"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance_km: 0.65
+  - name: HEBRON
+    distance_km: 25.06
+  - name: FTNECESSTY
+    distance_km: 25.19
+- country: US
+  region: LA
+  name: Convent
+  lat: '30.0132'
+  long: "-90.8232"
+  nearby_rate_centers:
+  - name: CONVENT
+    distance_km: 0.53
+  - name: VACHERIE
+    distance_km: 9.84
+  - name: LUTCHER
+    distance_km: 12.22
+- country: US
+  region: LA
+  name: Converse
+  lat: '31.7795'
+  long: "-93.7001"
+  nearby_rate_centers:
+  - name: CONVERSE
+    distance_km: 0.81
+  - name: PELICAN
+    distance_km: 15.51
+  - name: ZWOLLE
+    distance_km: 16.97
+- country: US
+  region: LA
+  name: Cotton Valley
+  lat: '32.8135'
+  long: "-93.4228"
+  nearby_rate_centers:
+  - name: COTTON VLY
+    distance_km: 0.54
+  - name: SAREPTA
+    distance_km: 8.99
+  - name: SHONGALOO
+    distance_km: 18.06
+- country: US
+  region: LA
+  name: Cottonport
+  lat: '30.9892'
+  long: "-92.0509"
+  nearby_rate_centers:
+  - name: COTTONPORT
+    distance_km: 1.1
+  - name: PLAUCHEVL
+    distance_km: 6.74
+  - name: MANSURA
+    distance_km: 7.8
+- country: US
+  region: LA
+  name: Coushatta
+  lat: '32.0256'
+  long: "-93.3406"
+  nearby_rate_centers:
+  - name: COUSHATTA
+    distance_km: 1.11
+  - name: CAMPTI
+    distance_km: 25.31
+  - name: CRESTON
+    distance_km: 27.74
+- country: US
+  region: LA
+  name: Covington
+  lat: '30.4810'
+  long: "-90.1122"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 1.31
+  - name: MADISONVL
+    distance_km: 9.05
+  - name: MANDEVILLE
+    distance_km: 14.22
+- country: US
+  region: LA
+  name: Creola
+  lat: '31.4300'
+  long: "-92.4829"
+  nearby_rate_centers:
+  - name: POLLOCK
+    distance_km: 12.7
+  - name: ALEXANDRIA
+    distance_km: 13.99
+  - name: DRY PRONG
+    distance_km: 16.8
+- country: US
+  region: LA
+  name: Crescent
+  lat: '30.2406'
+  long: "-91.2864"
+  nearby_rate_centers:
+  - name: PLAQUEMINE
+    distance_km: 6.87
+  - name: WH CASTLE
+    distance_km: 15.55
+  - name: ST GABRIEL
+    distance_km: 17.97
+- country: US
+  region: LA
+  name: Crowley
+  lat: '30.2175'
+  long: "-92.3752"
+  nearby_rate_centers:
+  - name: CROWLEY
+    distance_km: 1.19
+  - name: RAYNE
+    distance_km: 9.91
+  - name: IOTA
+    distance_km: 17.35
+- country: US
+  region: LA
+  name: Cullen
+  lat: '32.9699'
+  long: "-93.4464"
+  nearby_rate_centers:
+  - name: SPRINGHILL
+    distance_km: 3.66
+  - name: SAREPTA
+    distance_km: 8.84
+  - name: SHONGALOO
+    distance_km: 13.99
+- country: US
+  region: LA
+  name: Cut Off
+  lat: '29.5164'
+  long: "-90.3291"
+  nearby_rate_centers:
+  - name: GALLIANO
+    distance_km: 4.37
+  - name: LAROSE
+    distance_km: 7.9
+  - name: GOLDEN MDW
+    distance_km: 15.95
+- country: US
+  region: LA
+  name: Darrow
+  lat: '30.1212'
+  long: "-90.9843"
+  nearby_rate_centers:
+  - name: DONALDSNVL
+    distance_km: 2.51
+  - name: GONZALES
+    distance_km: 12.9
+  - name: SORRENTO
+    distance_km: 13.76
+- country: US
+  region: LA
+  name: DeQuincy
+  lat: '30.4490'
+  long: "-93.4456"
+  nearby_rate_centers:
+  - name: DE QUINCY
+    distance_km: 1.22
+  - name: STARKS
+    distance_km: 24.91
+  - name: SULPHUR
+    distance_km: 24.95
+- country: US
+  region: LA
+  name: DeRidder
+  lat: '30.8468'
+  long: "-93.2931"
+  nearby_rate_centers:
+  - name: DE RIDDER
+    distance_km: 0.39
+  - name: MERRYVILLE
+    distance_km: 26.04
+  - name: SUGARTOWN
+    distance_km: 27.64
+- country: US
+  region: LA
+  name: Delacroix
+  lat: '29.7652'
+  long: "-89.7874"
+  nearby_rate_centers:
+  - name: DELACROIX
+    distance_km: 0.31
+  - name: YSCLOSKEY
+    distance_km: 12.85
+  - name: ST BERNARD
+    distance_km: 12.99
+- country: US
+  region: LA
+  name: Delcambre
+  lat: '29.9516'
+  long: "-91.9916"
+  nearby_rate_centers:
+  - name: DELCAMBRE
+    distance_km: 0.17
+  - name: ERATH
+    distance_km: 4.19
+  - name: ABBEVILLE
+    distance_km: 14.04
+- country: US
+  region: LA
+  name: Delhi
+  lat: '32.4529'
+  long: "-91.4900"
+  nearby_rate_centers:
+  - name: DELHI
+    distance_km: 0.77
+  - name: EPPS
+    distance_km: 16.53
+  - name: RAYVILLE
+    distance_km: 25.28
+- country: US
+  region: LA
+  name: Delta
+  lat: '32.3220'
+  long: "-90.9414"
+  nearby_rate_centers:
+  - name: DELTA
+    distance_km: 1.72
+  - name: EAGLE LAKE
+    distance_km: 21.18
+  - name: TALLULAH
+    distance_km: 25.26
+- country: US
+  region: LA
+  name: Denham Springs
+  lat: '30.4743'
+  long: "-90.9593"
+  nearby_rate_centers:
+  - name: DENHAM SPG
+    distance_km: 1.25
+  - name: GALVEZ
+    distance_km: 19.56
+  - name: LIVINGSTON
+    distance_km: 20.05
+- country: US
+  region: LA
+  name: Des Allemands
+  lat: '29.8162'
+  long: "-90.4746"
+  nearby_rate_centers:
+  - name: PARADIS
+    distance_km: 7.61
+  - name: LULING
+    distance_km: 16.71
+  - name: RACELAND
+    distance_km: 17.01
+- country: US
+  region: LA
+  name: Destrehan
+  lat: '29.9626'
+  long: "-90.3676"
+  nearby_rate_centers:
+  - name: LULING
+    distance_km: 3.35
+  - name: NORCO
+    distance_km: 6.24
+  - name: PARADIS
+    distance_km: 11.67
+- country: US
+  region: LA
+  name: Deville
+  lat: '31.3398'
+  long: "-92.1389"
+  nearby_rate_centers:
+  - name: MARKSVILLE
+    distance_km: 25.07
+  - name: ALEXANDRIA
+    distance_km: 29.86
+  - name: MANSURA
+    distance_km: 32.38
+- country: US
+  region: LA
+  name: Dixie Inn
+  lat: '32.5968'
+  long: "-93.3317"
+  nearby_rate_centers:
+  - name: MINDEN
+    distance_km: 5.01
+  - name: DOYLINE
+    distance_km: 10.83
+  - name: HAUGHTON
+    distance_km: 17.39
+- country: US
+  region: LA
+  name: Dodson
+  lat: '32.0808'
+  long: "-92.6587"
+  nearby_rate_centers:
+  - name: WINNFIELD
+    distance_km: 17.67
+  - name: JONESBORO
+    distance_km: 18.77
+  - name: HEBRON
+    distance_km: 29.93
+- country: US
+  region: LA
+  name: Donaldsonville
+  lat: '30.0954'
+  long: "-90.9925"
+  nearby_rate_centers:
+  - name: DONALDSNVL
+    distance_km: 0.49
+  - name: GONZALES
+    distance_km: 15.83
+  - name: SORRENTO
+    distance_km: 16.01
+- country: US
+  region: LA
+  name: Dorseyville
+  lat: '30.1773'
+  long: "-91.1614"
+  nearby_rate_centers:
+  - name: WH CASTLE
+    distance_km: 1.72
+  - name: ST GABRIEL
+    distance_km: 10.67
+  - name: PLAQUEMINE
+    distance_km: 13.53
+- country: US
+  region: LA
+  name: Downsville
+  lat: '32.6264'
+  long: "-92.4129"
+  nearby_rate_centers:
+  - name: CALHOUN
+    distance_km: 13.19
+  - name: CHOUDRANT
+    distance_km: 14.96
+  - name: FARMERVL
+    distance_km: 16.34
+- country: US
+  region: LA
+  name: Doyline
+  lat: '32.5250'
+  long: "-93.4118"
+  nearby_rate_centers:
+  - name: DOYLINE
+    distance_km: 1.14
+  - name: HAUGHTON
+    distance_km: 8.49
+  - name: MINDEN
+    distance_km: 15.81
+- country: US
+  region: LA
+  name: Dry Prong
+  lat: '31.5806'
+  long: "-92.5305"
+  nearby_rate_centers:
+  - name: DRY PRONG
+    distance_km: 0.61
+  - name: POLLOCK
+    distance_km: 13.31
+  - name: COLFAX
+    distance_km: 18.51
+- country: US
+  region: LA
+  name: Dubach
+  lat: '32.7020'
+  long: "-92.6575"
+  nearby_rate_centers:
+  - name: DUBACH
+    distance_km: 0.04
+  - name: BERNICE
+    distance_km: 12.43
+  - name: RUSTON
+    distance_km: 19.82
+- country: US
+  region: LA
+  name: Dubberly
+  lat: '32.5413'
+  long: "-93.2374"
+  nearby_rate_centers:
+  - name: MINDEN
+    distance_km: 9.71
+  - name: DOYLINE
+    distance_km: 17.06
+  - name: GIBSLAND
+    distance_km: 17.49
+- country: US
+  region: LA
+  name: Dulac
+  lat: '29.3864'
+  long: "-90.7081"
+  nearby_rate_centers:
+  - name: DULAC
+    distance_km: 0.52
+  - name: MONTEGUT
+    distance_km: 17.91
+  - name: HOUMA
+    distance_km: 23.64
+- country: US
+  region: LA
+  name: Duson
+  lat: '30.2365'
+  long: "-92.1930"
+  nearby_rate_centers:
+  - name: DUSON
+    distance_km: 0.77
+  - name: RAYNE
+    distance_km: 7.75
+  - name: CANKTON
+    distance_km: 15.72
+- country: US
+  region: LA
+  name: East Hodge
+  lat: '32.2776'
+  long: "-92.7140"
+  nearby_rate_centers:
+  - name: JONESBORO
+    distance_km: 3.97
+  - name: CHATHAM
+    distance_km: 25.1
+  - name: GRAMBLING
+    distance_km: 26.47
+- country: US
+  region: LA
+  name: Eastwood
+  lat: '32.5607'
+  long: "-93.5625"
+  nearby_rate_centers:
+  - name: HAUGHTON
+    distance_km: 6.42
+  - name: DOYLINE
+    distance_km: 13.78
+  - name: SHREVEPORT
+    distance_km: 18.77
+- country: US
+  region: LA
+  name: Echo
+  lat: '31.1085'
+  long: "-92.2406"
+  nearby_rate_centers:
+  - name: CHENEYVL
+    distance_km: 12.05
+  - name: LECOMPTE
+    distance_km: 15.92
+  - name: MARKSVILLE
+    distance_km: 16.64
+- country: US
+  region: LA
+  name: Eden Isle
+  lat: '30.2268'
+  long: "-89.8043"
+  nearby_rate_centers:
+  - name: SLIDELL
+    distance_km: 5.73
+  - name: LKCATHERIN
+    distance_km: 14.62
+  - name: LACOMBE
+    distance_km: 16.57
+- country: US
+  region: LA
+  name: Edgard
+  lat: '30.0362'
+  long: "-90.5460"
+  nearby_rate_centers:
+  - name: EDGARD
+    distance_km: 1.2
+  - name: RESERVE
+    distance_km: 3.09
+  - name: LAPLACE
+    distance_km: 6.72
+- country: US
+  region: LA
+  name: Edgefield
+  lat: '32.0501'
+  long: "-93.3360"
+  nearby_rate_centers:
+  - name: COUSHATTA
+    distance_km: 3.85
+  - name: CAMPTI
+    distance_km: 26.58
+  - name: CASTOR
+    distance_km: 27.24
+- country: US
+  region: LA
+  name: Egan
+  lat: '30.2460'
+  long: "-92.5135"
+  nearby_rate_centers:
+  - name: IOTA
+    distance_km: 10.2
+  - name: CROWLEY
+    distance_km: 14.08
+  - name: JENNINGS
+    distance_km: 14.21
+- country: US
+  region: LA
+  name: Elizabeth
+  lat: '30.8670'
+  long: "-92.7987"
+  nearby_rate_centers:
+  - name: ELIZABETH
+    distance_km: 0.57
+  - name: OAKDALE
+    distance_km: 14.74
+  - name: PITKIN
+    distance_km: 14.85
+- country: US
+  region: LA
+  name: Elmwood
+  lat: '29.9554'
+  long: "-90.1879"
+  nearby_rate_centers:
+  - name: KENNER
+    distance_km: 5.68
+  - name: NEWORLEANS
+    distance_km: 10.84
+  - name: LULING
+    distance_km: 17.25
+- country: US
+  region: LA
+  name: Elton
+  lat: '30.4813'
+  long: "-92.6976"
+  nearby_rate_centers:
+  - name: ELTON
+    distance_km: 0.68
+  - name: BASILE
+    distance_km: 10.24
+  - name: KINDER
+    distance_km: 14.41
+- country: US
+  region: LA
+  name: Empire
+  lat: '29.4133'
+  long: "-89.6052"
+  nearby_rate_centers:
+  - name: BURAS
+    distance_km: 8.66
+  - name: PT SULPHUR
+    distance_km: 10.98
+  - name: PT HACHE
+    distance_km: 26.45
+- country: US
+  region: LA
+  name: Epps
+  lat: '32.6038'
+  long: "-91.4814"
+  nearby_rate_centers:
+  - name: EPPS
+    distance_km: 0.82
+  - name: DELHI
+    distance_km: 16.05
+  - name: OAK RIDGE
+    distance_km: 27.84
+- country: US
+  region: LA
+  name: Erath
+  lat: '29.9586'
+  long: "-92.0371"
+  nearby_rate_centers:
+  - name: ERATH
+    distance_km: 0.28
+  - name: DELCAMBRE
+    distance_km: 4.45
+  - name: ABBEVILLE
+    distance_km: 9.59
+- country: US
+  region: LA
+  name: Eros
+  lat: '32.3926'
+  long: "-92.4239"
+  nearby_rate_centers:
+  - name: CHATHAM
+    distance_km: 9.48
+  - name: CALHOUN
+    distance_km: 15.32
+  - name: CHOUDRANT
+    distance_km: 17.27
+- country: US
+  region: LA
+  name: Erwinville
+  lat: '30.5410'
+  long: "-91.3885"
+  nearby_rate_centers:
+  - name: ROUGON
+    distance_km: 6.58
+  - name: ROSEDALE
+    distance_km: 12.93
+  - name: MARINGOUIN
+    distance_km: 13.67
+- country: US
+  region: LA
+  name: Estelle
+  lat: '29.8447'
+  long: "-90.1021"
+  nearby_rate_centers:
+  - name: NEWORLEANS
+    distance_km: 11.74
+  - name: LAFITTE
+    distance_km: 12.95
+  - name: JESUITBEND
+    distance_km: 13.66
+- country: US
+  region: LA
+  name: Estherwood
+  lat: '30.1816'
+  long: "-92.4633"
+  nearby_rate_centers:
+  - name: CROWLEY
+    distance_km: 9.02
+  - name: IOTA
+    distance_km: 17.4
+  - name: GUEYDAN
+    distance_km: 17.77
+- country: US
+  region: LA
+  name: Eunice
+  lat: '30.4904'
+  long: "-92.4191"
+  nearby_rate_centers:
+  - name: EUNICE
+    distance_km: 0.46
+  - name: CHATAIGNIR
+    distance_km: 12.59
+  - name: MAMOU
+    distance_km: 15.8
+- country: US
+  region: LA
+  name: Evergreen
+  lat: '30.9527'
+  long: "-92.1052"
+  nearby_rate_centers:
+  - name: COTTONPORT
+    distance_km: 5.48
+  - name: BUNKIE
+    distance_km: 7.4
+  - name: PLAUCHEVL
+    distance_km: 11.59
+- country: US
+  region: LA
+  name: Farmerville
+  lat: '32.7752'
+  long: "-92.4013"
+  nearby_rate_centers:
+  - name: FARMERVL
+    distance_km: 0.8
+  - name: MARION
+    distance_km: 20.56
+  - name: BERNICE
+    distance_km: 24.28
+- country: US
+  region: LA
+  name: Fenton
+  lat: '30.3643'
+  long: "-92.9169"
+  nearby_rate_centers:
+  - name: FENTON
+    distance_km: 0.41
+  - name: LACASSINE
+    distance_km: 14.62
+  - name: KINDER
+    distance_km: 15.75
+- country: US
+  region: LA
+  name: Ferriday
+  lat: '31.6343'
+  long: "-91.5562"
+  nearby_rate_centers:
+  - name: FERRIDAY
+    distance_km: 1.27
+  - name: VIDALIA
+    distance_km: 15.03
+  - name: JONESVILLE
+    distance_km: 24.59
+- country: US
+  region: LA
+  name: Fifth Ward
+  lat: '31.1207'
+  long: "-92.1584"
+  nearby_rate_centers:
+  - name: MARKSVILLE
+    distance_km: 8.74
+  - name: MANSURA
+    distance_km: 12.56
+  - name: CHENEYVL
+    distance_km: 17.72
+- country: US
+  region: LA
+  name: Fisher
+  lat: '31.4934'
+  long: "-93.4597"
+  nearby_rate_centers:
+  - name: FLORIEN
+    distance_km: 5.6
+  - name: MANY
+    distance_km: 8.66
+  - name: HORNBECK
+    distance_km: 18.67
+- country: US
+  region: LA
+  name: Florien
+  lat: '31.4480'
+  long: "-93.4583"
+  nearby_rate_centers:
+  - name: FLORIEN
+    distance_km: 0.58
+  - name: MANY
+    distance_km: 13.62
+  - name: HORNBECK
+    distance_km: 13.97
+- country: US
+  region: LA
+  name: Folsom
+  lat: '30.6310'
+  long: "-90.1941"
+  nearby_rate_centers:
+  - name: FOLSOM
+    distance_km: 0.9
+  - name: COVINGTON
+    distance_km: 19.63
+  - name: FRANKLINTN
+    distance_km: 24.63
+- country: US
+  region: LA
+  name: Fordoche
+  lat: '30.5940'
+  long: "-91.6179"
+  nearby_rate_centers:
+  - name: LIVONIA
+    distance_km: 7.32
+  - name: KROTZ SPG
+    distance_km: 15.06
+  - name: MARINGOUIN
+    distance_km: 15.53
+- country: US
+  region: LA
+  name: Forest
+  lat: '32.7925'
+  long: "-91.4126"
+  nearby_rate_centers:
+  - name: OAK GROVE
+    distance_km: 7.63
+  - name: LKPROVIDNC
+    distance_km: 21.36
+  - name: EPPS
+    distance_km: 22.05
+- country: US
+  region: LA
+  name: Forest Hill
+  lat: '31.0470'
+  long: "-92.5258"
+  nearby_rate_centers:
+  - name: GLENMORA
+    distance_km: 9.94
+  - name: LECOMPTE
+    distance_km: 12.36
+  - name: CALCASIEU
+    distance_km: 20.14
+- country: US
+  region: LA
+  name: Fort Jesup
+  lat: '31.6118'
+  long: "-93.4077"
+  nearby_rate_centers:
+  - name: MANY
+    distance_km: 8.61
+  - name: ROBELINE
+    distance_km: 13.16
+  - name: FLORIEN
+    distance_km: 19.41
+- country: US
+  region: LA
+  name: Fort Polk North
+  lat: '31.1031'
+  long: "-93.1793"
+  nearby_rate_centers:
+  - name: LEESVILLE
+    distance_km: 9.13
+  - name: PITKIN
+    distance_km: 30.07
+  - name: DE RIDDER
+    distance_km: 30.1
+- country: US
+  region: LA
+  name: Fort Polk South
+  lat: '31.0512'
+  long: "-93.2159"
+  nearby_rate_centers:
+  - name: LEESVILLE
+    distance_km: 10.87
+  - name: DE RIDDER
+    distance_km: 23.5
+  - name: PITKIN
+    distance_km: 29.92
+- country: US
+  region: LA
+  name: Franklin
+  lat: '29.7851'
+  long: "-91.5098"
+  nearby_rate_centers:
+  - name: FRANKLIN
+    distance_km: 1.37
+  - name: BALDWIN
+    distance_km: 7.19
+  - name: CENTERVL
+    distance_km: 7.61
+- country: US
+  region: LA
+  name: Franklinton
+  lat: '30.8480'
+  long: "-90.1459"
+  nearby_rate_centers:
+  - name: FRANKLINTN
+    distance_km: 0.63
+  - name: PINE
+    distance_km: 14.52
+  - name: MT HERMON
+    distance_km: 19.17
+- country: US
+  region: LA
+  name: French Settlement
+  lat: '30.3156'
+  long: "-90.8031"
+  nearby_rate_centers:
+  - name: FRENCHSMNT
+    distance_km: 1.56
+  - name: GALVEZ
+    distance_km: 7.81
+  - name: MAUREPAS
+    distance_km: 14.02
+- country: US
+  region: LA
+  name: Frierson
+  lat: '32.2486'
+  long: "-93.6895"
+  nearby_rate_centers:
+  - name: KEITHVILLE
+    distance_km: 16.33
+  - name: KEATCHIE
+    distance_km: 20.52
+  - name: GRAND CANE
+    distance_km: 21.51
+- country: US
+  region: LA
+  name: Galliano
+  lat: '29.4470'
+  long: "-90.3096"
+  nearby_rate_centers:
+  - name: GALLIANO
+    distance_km: 3.6
+  - name: GOLDEN MDW
+    distance_km: 8.15
+  - name: LAROSE
+    distance_km: 15.63
+- country: US
+  region: LA
+  name: Gardere
+  lat: '30.3582'
+  long: "-91.1346"
+  nearby_rate_centers:
+  - name: BATONROUGE
+    distance_km: 11.29
+  - name: ST GABRIEL
+    distance_km: 11.67
+  - name: PLAQUEMINE
+    distance_km: 12.71
+- country: US
+  region: LA
+  name: Garyville
+  lat: '30.0688'
+  long: "-90.6285"
+  nearby_rate_centers:
+  - name: GARYVILLE
+    distance_km: 1.49
+  - name: RESERVE
+    distance_km: 6.21
+  - name: LUTCHER
+    distance_km: 7.53
+- country: US
+  region: LA
+  name: Georgetown
+  lat: '31.7597'
+  long: "-92.3821"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance_km: 0.65
+  - name: TULLOS
+    distance_km: 7.75
+  - name: OLLA
+    distance_km: 20.65
+- country: US
+  region: LA
+  name: Gibsland
+  lat: '32.5395'
+  long: "-93.0541"
+  nearby_rate_centers:
+  - name: GIBSLAND
+    distance_km: 0.6
+  - name: ATHENS
+    distance_km: 12.68
+  - name: ARCADIA
+    distance_km: 12.83
+- country: US
+  region: LA
+  name: Gilbert
+  lat: '32.0507'
+  long: "-91.6567"
+  nearby_rate_centers:
+  - name: WISNER
+    distance_km: 7.4
+  - name: WINNSBORO
+    distance_km: 13.09
+  - name: FTNECESSTY
+    distance_km: 15.14
+- country: US
+  region: LA
+  name: Gilliam
+  lat: '32.8282'
+  long: "-93.8418"
+  nearby_rate_centers:
+  - name: GILLIAM
+    distance_km: 0.33
+  - name: HOSSTON
+    distance_km: 7.76
+  - name: BELCHER
+    distance_km: 9.74
+- country: US
+  region: LA
+  name: Gillis
+  lat: '30.3769'
+  long: "-93.1999"
+  nearby_rate_centers:
+  - name: LK CHARLES
+    distance_km: 15.99
+  - name: RAGLEY
+    distance_km: 18.63
+  - name: REEVES
+    distance_km: 21.17
+- country: US
+  region: LA
+  name: Glencoe
+  lat: '29.8111'
+  long: "-91.6703"
+  nearby_rate_centers:
+  - name: JEANERETTE
+    distance_km: 11.97
+  - name: BALDWIN
+    distance_km: 12.71
+  - name: WEEKS IS
+    distance_km: 14.22
+- country: US
+  region: LA
+  name: Glenmora
+  lat: '30.9733'
+  long: "-92.5824"
+  nearby_rate_centers:
+  - name: GLENMORA
+    distance_km: 0.28
+  - name: CALCASIEU
+    distance_km: 18.83
+  - name: OAKDALE
+    distance_km: 19.11
+- country: US
+  region: LA
+  name: Gloster
+  lat: '32.1921'
+  long: "-93.8112"
+  nearby_rate_centers:
+  - name: KEATCHIE
+    distance_km: 8.11
+  - name: GRAND CANE
+    distance_km: 12.2
+  - name: KEITHVILLE
+    distance_km: 15.94
+- country: US
+  region: LA
+  name: Golden Meadow
+  lat: '29.3876'
+  long: "-90.2739"
+  nearby_rate_centers:
+  - name: GOLDEN MDW
+    distance_km: 0.72
+  - name: GALLIANO
+    distance_km: 11.03
+  - name: LAROSE
+    distance_km: 23.07
+- country: US
+  region: LA
+  name: Goldonna
+  lat: '32.0155'
+  long: "-92.9203"
+  nearby_rate_centers:
+  - name: CRESTON
+    distance_km: 12.96
+  - name: SALINE
+    distance_km: 17.51
+  - name: CAMPTI
+    distance_km: 22.64
+- country: US
+  region: LA
+  name: Gonzales
+  lat: '30.2132'
+  long: "-90.9234"
+  nearby_rate_centers:
+  - name: GONZALES
+    distance_km: 1.34
+  - name: SORRENTO
+    distance_km: 6.96
+  - name: DUTCH TOWN
+    distance_km: 7.65
+- country: US
+  region: LA
+  name: Good Pine
+  lat: '31.6933'
+  long: "-92.1637"
+  nearby_rate_centers:
+  - name: JENA
+    distance_km: 3.64
+  - name: TULLOS
+    distance_km: 21.12
+  - name: GEORGETOWN
+    distance_km: 22.4
+- country: US
+  region: LA
+  name: Grambling
+  lat: '32.5275'
+  long: "-92.7124"
+  nearby_rate_centers:
+  - name: GRAMBLING
+    distance_km: 1.34
+  - name: RUSTON
+    distance_km: 6.34
+  - name: CHOUDRANT
+    distance_km: 18.15
+- country: US
+  region: LA
+  name: Gramercy
+  lat: '30.0610'
+  long: "-90.6929"
+  nearby_rate_centers:
+  - name: LUTCHER
+    distance_km: 2.03
+  - name: GARYVILLE
+    distance_km: 7.31
+  - name: VACHERIE
+    distance_km: 8.21
+- country: US
+  region: LA
+  name: Grand Cane
+  lat: '32.0836'
+  long: "-93.8088"
+  nearby_rate_centers:
+  - name: GRAND CANE
+    distance_km: 0.23
+  - name: MANSFIELD
+    distance_km: 10.98
+  - name: KEATCHIE
+    distance_km: 14.73
+- country: US
+  region: LA
+  name: Grand Coteau
+  lat: '30.4202'
+  long: "-92.0438"
+  nearby_rate_centers:
+  - name: SUNSET
+    distance_km: 2.07
+  - name: LEONVILLE
+    distance_km: 7.86
+  - name: CARENCRO
+    distance_km: 10.57
+- country: US
+  region: LA
+  name: Grand Isle
+  lat: '29.2135'
+  long: "-90.0308"
+  nearby_rate_centers:
+  - name: GRAND ISLE
+    distance_km: 4.42
+  - name: LEEVILLE
+    distance_km: 20.25
+  - name: GOLDEN MDW
+    distance_km: 29.79
+- country: US
+  region: LA
+  name: Grand Point
+  lat: '30.0451'
+  long: "-90.7488"
+  nearby_rate_centers:
+  - name: LUTCHER
+    distance_km: 4.56
+  - name: VACHERIE
+    distance_km: 6.35
+  - name: CONVENT
+    distance_km: 8.31
+- country: US
+  region: LA
+  name: Gray
+  lat: '29.6780'
+  long: "-90.7831"
+  nearby_rate_centers:
+  - name: HOUMA
+    distance_km: 10.96
+  - name: THIBODAUX
+    distance_km: 13.97
+  - name: RACELAND
+    distance_km: 17.31
+- country: US
+  region: LA
+  name: Grayson
+  lat: '32.0492'
+  long: "-92.1116"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance_km: 6.15
+  - name: OLLA
+    distance_km: 20.46
+  - name: HEBRON
+    distance_km: 22.82
+- country: US
+  region: LA
+  name: Greensburg
+  lat: '30.8300'
+  long: "-90.6698"
+  nearby_rate_centers:
+  - name: GREENSBURG
+    distance_km: 0.65
+  - name: MONTPELIER
+    distance_km: 17.25
+  - name: AMITE CITY
+    distance_km: 19.82
+- country: US
+  region: LA
+  name: Greenwood
+  lat: '32.4359'
+  long: "-93.9643"
+  nearby_rate_centers:
+  - name: GREENWOOD
+    distance_km: 2.06
+  - name: KEITHVILLE
+    distance_km: 16.89
+  - name: BLANCHARD
+    distance_km: 17.97
+- country: US
+  region: LA
+  name: Gretna
+  lat: '29.9101'
+  long: "-90.0515"
+  nearby_rate_centers:
+  - name: NEWORLEANS
+    distance_km: 4.8
+  - name: JESUITBEND
+    distance_km: 18.94
+  - name: ST BERNARD
+    distance_km: 19.31
+- country: US
+  region: LA
+  name: Grosse Tete
+  lat: '30.4148'
+  long: "-91.4395"
+  nearby_rate_centers:
+  - name: ROSEDALE
+    distance_km: 3.41
+  - name: MARINGOUIN
+    distance_km: 10.74
+  - name: LIVONIA
+    distance_km: 19.78
+- country: US
+  region: LA
+  name: Gueydan
+  lat: '30.0291'
+  long: "-92.5071"
+  nearby_rate_centers:
+  - name: GUEYDAN
+    distance_km: 0.3
+  - name: LAKEARTHUR
+    distance_km: 17.34
+  - name: KAPLAN
+    distance_km: 21.72
+- country: US
+  region: LA
+  name: Hackberry
+  lat: '29.9717'
+  long: "-93.3947"
+  nearby_rate_centers:
+  - name: HACKBERRY
+    distance_km: 6.11
+  - name: SWEET LAKE
+    distance_km: 17.85
+  - name: CARLYSS
+    distance_km: 19.35
+- country: US
+  region: LA
+  name: Hahnville
+  lat: '29.9641'
+  long: "-90.4141"
+  nearby_rate_centers:
+  - name: NORCO
+    distance_km: 4.03
+  - name: LULING
+    distance_km: 5.89
+  - name: PARADIS
+    distance_km: 10.19
+- country: US
+  region: LA
+  name: Hall Summit
+  lat: '32.1768'
+  long: "-93.3055"
+  nearby_rate_centers:
+  - name: CASTOR
+    distance_km: 15.38
+  - name: RINGGOLD
+    distance_km: 16.54
+  - name: COUSHATTA
+    distance_km: 18.21
+- country: US
+  region: LA
+  name: Hammond
+  lat: '30.5061'
+  long: "-90.4563"
+  nearby_rate_centers:
+  - name: HAMMOND
+    distance_km: 0.6
+  - name: PONCHATOUL
+    distance_km: 7.14
+  - name: ALBANY
+    distance_km: 11.93
+- country: US
+  region: LA
+  name: Harahan
+  lat: '29.9374'
+  long: "-90.2031"
+  nearby_rate_centers:
+  - name: KENNER
+    distance_km: 5.55
+  - name: NEWORLEANS
+    distance_km: 12.33
+  - name: LULING
+    distance_km: 15.6
+- country: US
+  region: LA
+  name: Harrisonburg
+  lat: '31.7681'
+  long: "-91.8250"
+  nearby_rate_centers:
+  - name: HARRISONBG
+    distance_km: 0.26
+  - name: JONESVILLE
+    distance_km: 16.01
+  - name: SICILY IS
+    distance_km: 18.39
+- country: US
+  region: LA
+  name: Harvey
+  lat: '29.8876'
+  long: "-90.0666"
+  nearby_rate_centers:
+  - name: NEWORLEANS
+    distance_km: 6.75
+  - name: JESUITBEND
+    distance_km: 16.75
+  - name: LAFITTE
+    distance_km: 18.55
+- country: US
+  region: LA
+  name: Haughton
+  lat: '32.5277'
+  long: "-93.5041"
+  nearby_rate_centers:
+  - name: HAUGHTON
+    distance_km: 0.75
+  - name: DOYLINE
+    distance_km: 7.99
+  - name: MINDEN
+    distance_km: 22.89
+- country: US
+  region: LA
+  name: Hayes
+  lat: '30.1112'
+  long: "-92.9236"
+  nearby_rate_centers:
+  - name: HAYES
+    distance_km: 1.02
+  - name: THORNWELL
+    distance_km: 11.83
+  - name: LACASSINE
+    distance_km: 13.54
+- country: US
+  region: LA
+  name: Haynesville
+  lat: '32.9667'
+  long: "-93.1376"
+  nearby_rate_centers:
+  - name: HAYNESVL
+    distance_km: 0.57
+  - name: SHONGALOO
+    distance_km: 15.53
+  - name: SODODGE CY
+    distance_km: 16.73
+- country: US
+  region: LA
+  name: Heflin
+  lat: '32.4565'
+  long: "-93.2683"
+  nearby_rate_centers:
+  - name: RINGGOLD
+    distance_km: 14.76
+  - name: DOYLINE
+    distance_km: 16.52
+  - name: MINDEN
+    distance_km: 18.12
+- country: US
+  region: LA
+  name: Henderson
+  lat: '30.3184'
+  long: "-91.8065"
+  nearby_rate_centers:
+  - name: HENDERSON
+    distance_km: 2.36
+  - name: CECELIA
+    distance_km: 4.85
+  - name: BREAUX BDG
+    distance_km: 9.52
+- country: US
+  region: LA
+  name: Hessmer
+  lat: '31.0534'
+  long: "-92.1214"
+  nearby_rate_centers:
+  - name: MANSURA
+    distance_km: 7.06
+  - name: MARKSVILLE
+    distance_km: 9.34
+  - name: COTTONPORT
+    distance_km: 9.88
+- country: US
+  region: LA
+  name: Hester
+  lat: '30.0277'
+  long: "-90.7710"
+  nearby_rate_centers:
+  - name: CONVENT
+    distance_km: 5.66
+  - name: VACHERIE
+    distance_km: 6.01
+  - name: LUTCHER
+    distance_km: 6.94
+- country: US
+  region: LA
+  name: Hodge
+  lat: '32.2720'
+  long: "-92.7304"
+  nearby_rate_centers:
+  - name: JONESBORO
+    distance_km: 3.54
+  - name: SALINE
+    distance_km: 26.12
+  - name: CHATHAM
+    distance_km: 26.72
+- country: US
+  region: LA
+  name: Homer
+  lat: '32.7930'
+  long: "-93.0582"
+  nearby_rate_centers:
+  - name: HOMER
+    distance_km: 0.28
+  - name: ATHENS
+    distance_km: 16.13
+  - name: LISBON
+    distance_km: 18.49
+- country: US
+  region: LA
+  name: Hornbeck
+  lat: '31.3266'
+  long: "-93.3960"
+  nearby_rate_centers:
+  - name: HORNBECK
+    distance_km: 1.07
+  - name: FLORIEN
+    distance_km: 14.3
+  - name: LEESVILLE
+    distance_km: 24.25
+- country: US
+  region: LA
+  name: Hosston
+  lat: '32.8850'
+  long: "-93.8814"
+  nearby_rate_centers:
+  - name: HOSSTON
+    distance_km: 1.12
+  - name: GILLIAM
+    distance_km: 7.52
+  - name: VIVIAN
+    distance_km: 9.73
+- country: US
+  region: LA
+  name: Houma
+  lat: '29.5800'
+  long: "-90.7059"
+  nearby_rate_centers:
+  - name: HOUMA
+    distance_km: 2.3
+  - name: LOCKPORT
+    distance_km: 17.78
+  - name: RACELAND
+    distance_km: 17.96
+- country: US
+  region: LA
+  name: Ida
+  lat: '33.0016'
+  long: "-93.8954"
+  nearby_rate_centers:
+  - name: IDA
+    distance_km: 0.59
+  - name: RODESSA
+    distance_km: 10.02
+  - name: HOSSTON
+    distance_km: 12.28
+- country: US
+  region: LA
+  name: Independence
+  lat: '30.6361'
+  long: "-90.5056"
+  nearby_rate_centers:
+  - name: INDEPNDNCE
+    distance_km: 0.47
+  - name: AMITE CITY
+    distance_km: 9.06
+  - name: MONTPELIER
+    distance_km: 13.92
+- country: US
+  region: LA
+  name: Inniswold
+  lat: '30.3982'
+  long: "-91.0710"
+  nearby_rate_centers:
+  - name: BATONROUGE
+    distance_km: 12.25
+  - name: DENHAM SPG
+    distance_km: 14.46
+  - name: ST GABRIEL
+    distance_km: 15.9
+- country: US
+  region: LA
+  name: Iota
+  lat: '30.3260'
+  long: "-92.4956"
+  nearby_rate_centers:
+  - name: IOTA
+    distance_km: 1.14
+  - name: CROWLEY
+    distance_km: 17.65
+  - name: JENNINGS
+    distance_km: 19.63
+- country: US
+  region: LA
+  name: Iowa
+  lat: '30.2393'
+  long: "-93.0130"
+  nearby_rate_centers:
+  - name: IOWA
+    distance_km: 0.65
+  - name: LACASSINE
+    distance_km: 8.65
+  - name: HAYES
+    distance_km: 16.18
+- country: US
+  region: LA
+  name: Jackson
+  lat: '30.8346'
+  long: "-91.2080"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 1.33
+  - name: WILSON
+    distance_km: 13.35
+  - name: STFRNCISVL
+    distance_km: 18.12
+- country: US
+  region: LA
+  name: Jamestown
+  lat: '32.3397'
+  long: "-93.2065"
+  nearby_rate_centers:
+  - name: RINGGOLD
+    distance_km: 7.58
+  - name: CASTOR
+    distance_km: 10.91
+  - name: GIBSLAND
+    distance_km: 27.02
+- country: US
+  region: LA
+  name: Jean Lafitte
+  lat: '29.7495'
+  long: "-90.1036"
+  nearby_rate_centers:
+  - name: LAFITTE
+    distance_km: 3.69
+  - name: JESUITBEND
+    distance_km: 7.57
+  - name: NEWORLEANS
+    distance_km: 22.21
+- country: US
+  region: LA
+  name: Jeanerette
+  lat: '29.9157'
+  long: "-91.6758"
+  nearby_rate_centers:
+  - name: JEANERETTE
+    distance_km: 1.0
+  - name: BALDWIN
+    distance_km: 15.1
+  - name: LOREAUVL
+    distance_km: 16.72
+- country: US
+  region: LA
+  name: Jefferson
+  lat: '29.9609'
+  long: "-90.1554"
+  nearby_rate_centers:
+  - name: NEWORLEANS
+    distance_km: 7.82
+  - name: KENNER
+    distance_km: 8.57
+  - name: LULING
+    distance_km: 20.43
+- country: US
+  region: LA
+  name: Jena
+  lat: '31.6914'
+  long: "-92.1298"
+  nearby_rate_centers:
+  - name: JENA
+    distance_km: 0.97
+  - name: TULLOS
+    distance_km: 23.78
+  - name: GEORGETOWN
+    distance_km: 25.48
+- country: US
+  region: LA
+  name: Jennings
+  lat: '30.2233'
+  long: "-92.6582"
+  nearby_rate_centers:
+  - name: JENNINGS
+    distance_km: 0.49
+  - name: ROANOKE
+    distance_km: 8.04
+  - name: LAKEARTHUR
+    distance_km: 15.63
+- country: US
+  region: LA
+  name: Jonesboro
+  lat: '32.2348'
+  long: "-92.7098"
+  nearby_rate_centers:
+  - name: JONESBORO
+    distance_km: 1.1
+  - name: CHATHAM
+    distance_km: 25.85
+  - name: SALINE
+    distance_km: 26.37
+- country: US
+  region: LA
+  name: Jonesville
+  lat: '31.6238'
+  long: "-91.8300"
+  nearby_rate_centers:
+  - name: JONESVILLE
+    distance_km: 1.36
+  - name: HARRISONBG
+    distance_km: 15.92
+  - name: MONTEREY
+    distance_km: 22.17
+- country: US
+  region: LA
+  name: Jordan Hill
+  lat: '31.8591'
+  long: "-92.5156"
+  nearby_rate_centers:
+  - name: WINNFIELD
+    distance_km: 13.11
+  - name: GEORGETOWN
+    distance_km: 16.18
+  - name: TULLOS
+    distance_km: 17.8
+- country: US
+  region: LA
+  name: Joyce
+  lat: '31.9347'
+  long: "-92.5850"
+  nearby_rate_centers:
+  - name: WINNFIELD
+    distance_km: 4.61
+  - name: GEORGETOWN
+    distance_km: 26.7
+  - name: TULLOS
+    distance_km: 27.12
+- country: US
+  region: LA
+  name: Junction City
+  lat: '33.0073'
+  long: "-92.7224"
+  nearby_rate_centers:
+  - name: SOJCT CITY
+    distance_km: 1.34
+  - name: BERNICE
+    distance_km: 22.37
+  - name: SODODGE CY
+    distance_km: 22.91
+- country: US
+  region: LA
+  name: Kaplan
+  lat: '30.0060'
+  long: "-92.2840"
+  nearby_rate_centers:
+  - name: KAPLAN
+    distance_km: 0.42
+  - name: ABBEVILLE
+    distance_km: 14.77
+  - name: FORKED IS
+    distance_km: 18.5
+- country: US
+  region: LA
+  name: Keachi
+  lat: '32.1708'
+  long: "-93.9160"
+  nearby_rate_centers:
+  - name: KEATCHIE
+    distance_km: 3.01
+  - name: GRAND CANE
+    distance_km: 14.23
+  - name: KEITHVILLE
+    distance_km: 19.91
+- country: US
+  region: LA
+  name: Kenner
+  lat: '30.0109'
+  long: "-90.2549"
+  nearby_rate_centers:
+  - name: KENNER
+    distance_km: 4.34
+  - name: LULING
+    distance_km: 13.72
+  - name: NORCO
+    distance_km: 15.51
+- country: US
+  region: LA
+  name: Kentwood
+  lat: '30.9339'
+  long: "-90.5153"
+  nearby_rate_centers:
+  - name: KENTWOOD
+    distance_km: 1.24
+  - name: SOUTHOSYKA
+    distance_km: 8.48
+  - name: GREENSBURG
+    distance_km: 18.2
+- country: US
+  region: LA
+  name: Kilbourne
+  lat: '32.9971'
+  long: "-91.3139"
+  nearby_rate_centers:
+  - name: OAK GROVE
+    distance_km: 16.93
+  - name: LKPROVIDNC
+    distance_km: 24.34
+  - name: BONITA
+    distance_km: 35.01
+- country: US
+  region: LA
+  name: Killian
+  lat: '30.3530'
+  long: "-90.5795"
+  nearby_rate_centers:
+  - name: SPRINGFLD
+    distance_km: 8.7
+  - name: MAUREPAS
+    distance_km: 10.14
+  - name: ALBANY
+    distance_km: 16.5
+- country: US
+  region: LA
+  name: Killona
+  lat: '29.9985'
+  long: "-90.4851"
+  nearby_rate_centers:
+  - name: NORCO
+    distance_km: 6.7
+  - name: LAPLACE
+    distance_km: 7.48
+  - name: EDGARD
+    distance_km: 8.37
+- country: US
+  region: LA
+  name: Kinder
+  lat: '30.4835'
+  long: "-92.8508"
+  nearby_rate_centers:
+  - name: KINDER
+    distance_km: 1.06
+  - name: FENTON
+    distance_km: 14.36
+  - name: ELTON
+    distance_km: 15.36
+- country: US
+  region: LA
+  name: Kraemer
+  lat: '29.8606'
+  long: "-90.6337"
+  nearby_rate_centers:
+  - name: RACELAND
+    distance_km: 15.98
+  - name: VACHERIE
+    distance_km: 17.02
+  - name: CHACKBAY
+    distance_km: 17.15
+- country: US
+  region: LA
+  name: Krotz Springs
+  lat: '30.5323'
+  long: "-91.7518"
+  nearby_rate_centers:
+  - name: KROTZ SPG
+    distance_km: 0.71
+  - name: MELVILLE
+    distance_km: 17.54
+  - name: LIVONIA
+    distance_km: 19.77
+- country: US
+  region: LA
+  name: Labadieville
+  lat: '29.8246'
+  long: "-90.9525"
+  nearby_rate_centers:
+  - name: LABADIEVL
+    distance_km: 1.01
+  - name: THIBODAUX
+    distance_km: 13.43
+  - name: CHACKBAY
+    distance_km: 14.77
+- country: US
+  region: LA
+  name: Lacassine
+  lat: '30.2331'
+  long: "-92.9208"
+  nearby_rate_centers:
+  - name: LACASSINE
+    distance_km: 0.24
+  - name: WELSH
+    distance_km: 9.07
+  - name: IOWA
+    distance_km: 9.1
+- country: US
+  region: LA
+  name: Lacombe
+  lat: '30.3141'
+  long: "-89.9310"
+  nearby_rate_centers:
+  - name: LACOMBE
+    distance_km: 1.06
+  - name: MANDEVILLE
+    distance_km: 13.82
+  - name: SLIDELL
+    distance_km: 14.9
+- country: US
+  region: LA
+  name: Lafayette
+  lat: '30.2082'
+  long: "-92.0325"
+  nearby_rate_centers:
+  - name: LAFAYETTE
+    distance_km: 2.47
+  - name: BROUSSARD
+    distance_km: 9.45
+  - name: YOUNGSVL
+    distance_km: 12.65
+- country: US
+  region: LA
+  name: Lafitte
+  lat: '29.6957'
+  long: "-90.0995"
+  nearby_rate_centers:
+  - name: LAFITTE
+    distance_km: 5.36
+  - name: JESUITBEND
+    distance_km: 8.73
+  - name: NEWORLEANS
+    distance_km: 28.13
+- country: US
+  region: LA
+  name: Lafourche Crossing
+  lat: '29.7675'
+  long: "-90.7697"
+  nearby_rate_centers:
+  - name: THIBODAUX
+    distance_km: 5.78
+  - name: CHACKBAY
+    distance_km: 12.59
+  - name: RACELAND
+    distance_km: 16.35
+- country: US
+  region: LA
+  name: Lake Arthur
+  lat: '30.0795'
+  long: "-92.6773"
+  nearby_rate_centers:
+  - name: LAKEARTHUR
+    distance_km: 0.47
+  - name: THORNWELL
+    distance_km: 12.13
+  - name: JENNINGS
+    distance_km: 15.61
+- country: US
+  region: LA
+  name: Lake Charles
+  lat: '30.2010'
+  long: "-93.2111"
+  nearby_rate_centers:
+  - name: LK CHARLES
+    distance_km: 3.6
+  - name: SULPHUR
+    distance_km: 16.11
+  - name: CARLYSS
+    distance_km: 16.33
+- country: US
+  region: LA
+  name: Lake Providence
+  lat: '32.8132'
+  long: "-91.1825"
+  nearby_rate_centers:
+  - name: LKPROVIDNC
+    distance_km: 0.72
+  - name: OAK GROVE
+    distance_km: 19.59
+  - name: EPPS
+    distance_km: 36.03
+- country: US
+  region: LA
+  name: Lakeshore
+  lat: '32.5350'
+  long: "-92.0328"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 7.98
+  - name: STERLINGTN
+    distance_km: 19.08
+  - name: COLLINSTON
+    distance_km: 23.35
+- country: US
+  region: LA
+  name: Lakeview
+  lat: '32.5239'
+  long: "-93.8297"
+  nearby_rate_centers:
+  - name: SHREVEPORT
+    distance_km: 7.44
+  - name: BLANCHARD
+    distance_km: 8.87
+  - name: GREENWOOD
+    distance_km: 16.07
+- country: US
+  region: LA
+  name: Laplace
+  lat: '30.0731'
+  long: "-90.4758"
+  nearby_rate_centers:
+  - name: LAPLACE
+    distance_km: 1.21
+  - name: EDGARD
+    distance_km: 8.69
+  - name: RESERVE
+    distance_km: 8.74
+- country: US
+  region: LA
+  name: Larose
+  lat: '29.5669'
+  long: "-90.3751"
+  nearby_rate_centers:
+  - name: LAROSE
+    distance_km: 1.08
+  - name: GALLIANO
+    distance_km: 11.19
+  - name: LOCKPORT
+    distance_km: 17.57
+- country: US
+  region: LA
+  name: Lawtell
+  lat: '30.5126'
+  long: "-92.1832"
+  nearby_rate_centers:
+  - name: LAWTELL
+    distance_km: 0.49
+  - name: OPELOUSAS
+    distance_km: 10.01
+  - name: CHURCH PT
+    distance_km: 12.03
+- country: US
+  region: LA
+  name: Lecompte
+  lat: '31.0881'
+  long: "-92.4000"
+  nearby_rate_centers:
+  - name: LECOMPTE
+    distance_km: 0.69
+  - name: CHENEYVL
+    distance_km: 13.57
+  - name: GLENMORA
+    distance_km: 21.77
+- country: US
+  region: LA
+  name: Leesville
+  lat: '31.1324'
+  long: "-93.2673"
+  nearby_rate_centers:
+  - name: LEESVILLE
+    distance_km: 0.79
+  - name: HORNBECK
+    distance_km: 25.54
+  - name: DE RIDDER
+    distance_km: 31.48
+- country: US
+  region: LA
+  name: Lemannville
+  lat: '30.1028'
+  long: "-90.9239"
+  nearby_rate_centers:
+  - name: DONALDSNVL
+    distance_km: 6.62
+  - name: SORRENTO
+    distance_km: 10.8
+  - name: CONVENT
+    distance_km: 13.39
+- country: US
+  region: LA
+  name: Leonville
+  lat: '30.4661'
+  long: "-91.9811"
+  nearby_rate_centers:
+  - name: LEONVILLE
+    distance_km: 0.06
+  - name: ARNAUDVL
+    distance_km: 8.49
+  - name: SUNSET
+    distance_km: 9.65
+- country: US
+  region: LA
+  name: Lewisburg
+  lat: '30.3659'
+  long: "-90.1052"
+  nearby_rate_centers:
+  - name: MANDEVILLE
+    distance_km: 3.93
+  - name: MADISONVL
+    distance_km: 6.77
+  - name: COVINGTON
+    distance_km: 11.95
+- country: US
+  region: LA
+  name: Lillie
+  lat: '32.9221'
+  long: "-92.6614"
+  nearby_rate_centers:
+  - name: BERNICE
+    distance_km: 12.05
+  - name: SOJCT CITY
+    distance_km: 12.35
+  - name: LISBON
+    distance_km: 23.63
+- country: US
+  region: LA
+  name: Lisbon
+  lat: '32.7893'
+  long: "-92.8672"
+  nearby_rate_centers:
+  - name: LISBON
+    distance_km: 0.66
+  - name: HOMER
+    distance_km: 17.79
+  - name: BERNICE
+    distance_km: 19.84
+- country: US
+  region: LA
+  name: Livingston
+  lat: '30.4953'
+  long: "-90.7467"
+  nearby_rate_centers:
+  - name: LIVINGSTON
+    distance_km: 0.65
+  - name: ALBANY
+    distance_km: 15.92
+  - name: SPRINGFLD
+    distance_km: 20.24
+- country: US
+  region: LA
+  name: Livonia
+  lat: '30.5623'
+  long: "-91.5501"
+  nearby_rate_centers:
+  - name: LIVONIA
+    distance_km: 0.38
+  - name: MARINGOUIN
+    distance_km: 9.15
+  - name: ROSEDALE
+    distance_km: 16.12
+- country: US
+  region: LA
+  name: Lockport
+  lat: '29.6443'
+  long: "-90.5324"
+  nearby_rate_centers:
+  - name: LOCKPORT
+    distance_km: 0.52
+  - name: RACELAND
+    distance_km: 11.14
+  - name: LAROSE
+    distance_km: 17.18
+- country: US
+  region: LA
+  name: Lockport Heights
+  lat: '29.6564'
+  long: "-90.5486"
+  nearby_rate_centers:
+  - name: LOCKPORT
+    distance_km: 2.14
+  - name: RACELAND
+    distance_km: 9.1
+  - name: HOUMA
+    distance_km: 17.36
+- country: US
+  region: LA
+  name: Logansport
+  lat: '31.9763'
+  long: "-93.9933"
+  nearby_rate_centers:
+  - name: LOGANSPORT
+    distance_km: 0.61
+  - name: GRAND CANE
+    distance_km: 21.19
+  - name: KEATCHIE
+    distance_km: 25.71
+- country: US
+  region: LA
+  name: Longstreet
+  lat: '32.0976'
+  long: "-93.9505"
+  nearby_rate_centers:
+  - name: KEATCHIE
+    distance_km: 11.71
+  - name: GRAND CANE
+    distance_km: 13.65
+  - name: LOGANSPORT
+    distance_km: 14.59
+- country: US
+  region: LA
+  name: Longville
+  lat: '30.6090'
+  long: "-93.2282"
+  nearby_rate_centers:
+  - name: RAGLEY
+    distance_km: 12.26
+  - name: REEVES
+    distance_km: 19.91
+  - name: DE QUINCY
+    distance_km: 26.5
+- country: US
+  region: LA
+  name: Loreauville
+  lat: '30.0602'
+  long: "-91.7378"
+  nearby_rate_centers:
+  - name: LOREAUVL
+    distance_km: 0.5
+  - name: NEW IBERIA
+    distance_km: 10.86
+  - name: STMARTINVL
+    distance_km: 11.9
+- country: US
+  region: LA
+  name: Lucky
+  lat: '32.2443'
+  long: "-93.0158"
+  nearby_rate_centers:
+  - name: SALINE
+    distance_km: 9.49
+  - name: CASTOR
+    distance_km: 14.07
+  - name: RINGGOLD
+    distance_km: 26.84
+- country: US
+  region: LA
+  name: Luling
+  lat: '29.9008'
+  long: "-90.3523"
+  nearby_rate_centers:
+  - name: LULING
+    distance_km: 3.74
+  - name: PARADIS
+    distance_km: 8.26
+  - name: NORCO
+    distance_km: 12.63
+- country: US
+  region: LA
+  name: Lutcher
+  lat: '30.0646'
+  long: "-90.7124"
+  nearby_rate_centers:
+  - name: LUTCHER
+    distance_km: 2.49
+  - name: VACHERIE
+    distance_km: 8.13
+  - name: GARYVILLE
+    distance_km: 9.2
+- country: US
+  region: LA
+  name: Lydia
+  lat: '29.9263'
+  long: "-91.7813"
+  nearby_rate_centers:
+  - name: NEW IBERIA
+    distance_km: 9.26
+  - name: JEANERETTE
+    distance_km: 11.14
+  - name: WEEKS IS
+    distance_km: 13.68
+- country: US
+  region: LA
+  name: Madisonville
+  lat: '30.4003'
+  long: "-90.1653"
+  nearby_rate_centers:
+  - name: MADISONVL
+    distance_km: 1.33
+  - name: COVINGTON
+    distance_km: 10.14
+  - name: MANDEVILLE
+    distance_km: 10.64
+- country: US
+  region: LA
+  name: Mamou
+  lat: '30.6349'
+  long: "-92.4179"
+  nearby_rate_centers:
+  - name: MAMOU
+    distance_km: 0.3
+  - name: CHATAIGNIR
+    distance_km: 11.57
+  - name: VL PLATTE
+    distance_km: 14.51
+- country: US
+  region: LA
+  name: Mandeville
+  lat: '30.3751'
+  long: "-90.0904"
+  nearby_rate_centers:
+  - name: MANDEVILLE
+    distance_km: 2.98
+  - name: MADISONVL
+    distance_km: 7.27
+  - name: COVINGTON
+    distance_km: 10.98
+- country: US
+  region: LA
+  name: Mangham
+  lat: '32.3094'
+  long: "-91.7794"
+  nearby_rate_centers:
+  - name: MANGHAM
+    distance_km: 0.22
+  - name: WINNSBORO
+    distance_km: 17.96
+  - name: RAYVILLE
+    distance_km: 18.5
+- country: US
+  region: LA
+  name: Mansfield
+  lat: '32.0355'
+  long: "-93.7004"
+  nearby_rate_centers:
+  - name: MANSFIELD
+    distance_km: 0.68
+  - name: GRAND CANE
+    distance_km: 11.3
+  - name: PELICAN
+    distance_km: 19.78
+- country: US
+  region: LA
+  name: Mansura
+  lat: '31.0673'
+  long: "-92.0528"
+  nearby_rate_centers:
+  - name: MANSURA
+    distance_km: 1.02
+  - name: MARKSVILLE
+    distance_km: 6.33
+  - name: MOREAUVL
+    distance_km: 8.45
+- country: US
+  region: LA
+  name: Many
+  lat: '31.5660'
+  long: "-93.4773"
+  nearby_rate_centers:
+  - name: MANY
+    distance_km: 0.63
+  - name: FLORIEN
+    distance_km: 13.77
+  - name: ZWOLLE
+    distance_km: 17.44
+- country: US
+  region: LA
+  name: Maringouin
+  lat: '30.4907'
+  long: "-91.5185"
+  nearby_rate_centers:
+  - name: MARINGOUIN
+    distance_km: 0.63
+  - name: ROSEDALE
+    distance_km: 8.02
+  - name: LIVONIA
+    distance_km: 8.82
+- country: US
+  region: LA
+  name: Marion
+  lat: '32.8997'
+  long: "-92.2405"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 0.14
+  - name: SPENCER
+    distance_km: 19.24
+  - name: FARMERVL
+    distance_km: 21.15
+- country: US
+  region: LA
+  name: Marksville
+  lat: '31.1246'
+  long: "-92.0652"
+  nearby_rate_centers:
+  - name: MARKSVILLE
+    distance_km: 0.22
+  - name: MANSURA
+    distance_km: 7.45
+  - name: MOREAUVL
+    distance_km: 13.35
+- country: US
+  region: LA
+  name: Marrero
+  lat: '29.8871'
+  long: "-90.1126"
+  nearby_rate_centers:
+  - name: NEWORLEANS
+    distance_km: 7.63
+  - name: KENNER
+    distance_km: 15.81
+  - name: LAFITTE
+    distance_km: 17.39
+- country: US
+  region: LA
+  name: Marthaville
+  lat: '31.7380'
+  long: "-93.3900"
+  nearby_rate_centers:
+  - name: ROBELINE
+    distance_km: 9.28
+  - name: PLEASANTHL
+    distance_km: 14.55
+  - name: MANY
+    distance_km: 20.8
+- country: US
+  region: LA
+  name: Martin
+  lat: '32.0982'
+  long: "-93.2193"
+  nearby_rate_centers:
+  - name: COUSHATTA
+    distance_km: 14.61
+  - name: CASTOR
+    distance_km: 17.41
+  - name: CRESTON
+    distance_km: 20.55
+- country: US
+  region: LA
+  name: Mathews
+  lat: '29.6821'
+  long: "-90.5559"
+  nearby_rate_centers:
+  - name: LOCKPORT
+    distance_km: 5.0
+  - name: RACELAND
+    distance_km: 6.61
+  - name: HOUMA
+    distance_km: 17.99
+- country: US
+  region: LA
+  name: Maurice
+  lat: '30.1042'
+  long: "-92.1211"
+  nearby_rate_centers:
+  - name: YOUNGSVL
+    distance_km: 12.16
+  - name: ABBEVILLE
+    distance_km: 14.16
+  - name: DUSON
+    distance_km: 15.62
+- country: US
+  region: LA
+  name: McNary
+  lat: '30.9895'
+  long: "-92.5795"
+  nearby_rate_centers:
+  - name: GLENMORA
+    distance_km: 1.85
+  - name: CALCASIEU
+    distance_km: 17.94
+  - name: LECOMPTE
+    distance_km: 19.97
+- country: US
+  region: LA
+  name: Melville
+  lat: '30.6917'
+  long: "-91.7485"
+  nearby_rate_centers:
+  - name: MELVILLE
+    distance_km: 0.82
+  - name: MORGANZA
+    distance_km: 15.42
+  - name: KROTZ SPG
+    distance_km: 17.57
+- country: US
+  region: LA
+  name: Mer Rouge
+  lat: '32.7767'
+  long: "-91.7949"
+  nearby_rate_centers:
+  - name: MER ROUGE
+    distance_km: 0.39
+  - name: BASTROP
+    distance_km: 11.54
+  - name: COLLINSTON
+    distance_km: 11.6
+- country: US
+  region: LA
+  name: Meraux
+  lat: '29.9284'
+  long: "-89.9179"
+  nearby_rate_centers:
+  - name: ST BERNARD
+    distance_km: 9.14
+  - name: NEWORLEANS
+    distance_km: 15.36
+  - name: DELACROIX
+    distance_km: 21.77
+- country: US
+  region: LA
+  name: Mermentau
+  lat: '30.1874'
+  long: "-92.5840"
+  nearby_rate_centers:
+  - name: JENNINGS
+    distance_km: 7.93
+  - name: LAKEARTHUR
+    distance_km: 14.54
+  - name: ROANOKE
+    distance_km: 16.08
+- country: US
+  region: LA
+  name: Merrydale
+  lat: '30.4998'
+  long: "-91.1081"
+  nearby_rate_centers:
+  - name: BATONROUGE
+    distance_km: 9.05
+  - name: DENHAM SPG
+    distance_km: 14.35
+  - name: ZACHARY
+    distance_km: 17.35
+- country: US
+  region: LA
+  name: Merryville
+  lat: '30.7571'
+  long: "-93.5246"
+  nearby_rate_centers:
+  - name: MERRYVILLE
+    distance_km: 1.79
+  - name: DE RIDDER
+    distance_km: 24.54
+  - name: DE QUINCY
+    distance_km: 35.41
+- country: US
+  region: LA
+  name: Metairie
+  lat: '29.9977'
+  long: "-90.1780"
+  nearby_rate_centers:
+  - name: KENNER
+    distance_km: 6.85
+  - name: NEWORLEANS
+    distance_km: 11.31
+  - name: LULING
+    distance_km: 19.41
+- country: US
+  region: LA
+  name: Midland
+  lat: '30.1805'
+  long: "-92.5014"
+  nearby_rate_centers:
+  - name: CROWLEY
+    distance_km: 12.58
+  - name: JENNINGS
+    distance_km: 15.65
+  - name: GUEYDAN
+    distance_km: 17.12
+- country: US
+  region: LA
+  name: Midway
+  lat: '31.6788'
+  long: "-92.1493"
+  nearby_rate_centers:
+  - name: JENA
+    distance_km: 2.13
+  - name: TULLOS
+    distance_km: 23.2
+  - name: GEORGETOWN
+    distance_km: 24.26
+- country: US
+  region: LA
+  name: Milton
+  lat: '30.1123'
+  long: "-92.0710"
+  nearby_rate_centers:
+  - name: YOUNGSVL
+    distance_km: 7.47
+  - name: BROUSSARD
+    distance_km: 11.06
+  - name: LAFAYETTE
+    distance_km: 13.62
+- country: US
+  region: LA
+  name: Minden
+  lat: '32.6187'
+  long: "-93.2762"
+  nearby_rate_centers:
+  - name: MINDEN
+    distance_km: 0.83
+  - name: DOYLINE
+    distance_km: 16.43
+  - name: GIBSLAND
+    distance_km: 22.68
+- country: US
+  region: LA
+  name: Minorca
+  lat: '31.5725'
+  long: "-91.4884"
+  nearby_rate_centers:
+  - name: VIDALIA
+    distance_km: 6.21
+  - name: FERRIDAY
+    distance_km: 8.95
+  - name: MONTEREY
+    distance_km: 25.34
+- country: US
+  region: LA
+  name: Monroe
+  lat: '32.5185'
+  long: "-92.0774"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 3.44
+  - name: STERLINGTN
+    distance_km: 20.32
+  - name: CALHOUN
+    distance_km: 26.13
+- country: US
+  region: LA
+  name: Montegut
+  lat: '29.4656'
+  long: "-90.5617"
+  nearby_rate_centers:
+  - name: MONTEGUT
+    distance_km: 1.74
+  - name: DULAC
+    distance_km: 17.05
+  - name: LOCKPORT
+    distance_km: 19.63
+- country: US
+  region: LA
+  name: Monterey
+  lat: '31.4436'
+  long: "-91.7191"
+  nearby_rate_centers:
+  - name: MONTEREY
+    distance_km: 0.9
+  - name: JONESVILLE
+    distance_km: 22.08
+  - name: FERRIDAY
+    distance_km: 25.0
+- country: US
+  region: LA
+  name: Montgomery
+  lat: '31.6677'
+  long: "-92.8877"
+  nearby_rate_centers:
+  - name: MONTGOMERY
+    distance_km: 0.27
+  - name: NATCHITCHS
+    distance_km: 22.28
+  - name: COLFAX
+    distance_km: 23.7
+- country: US
+  region: LA
+  name: Monticello
+  lat: '30.4881'
+  long: "-91.0448"
+  nearby_rate_centers:
+  - name: DENHAM SPG
+    distance_km: 8.2
+  - name: BATONROUGE
+    distance_km: 13.91
+  - name: ZACHARY
+    distance_km: 20.99
+- country: US
+  region: LA
+  name: Montpelier
+  lat: '30.6823'
+  long: "-90.6545"
+  nearby_rate_centers:
+  - name: MONTPELIER
+    distance_km: 1.24
+  - name: AMITE CITY
+    distance_km: 14.47
+  - name: INDEPNDNCE
+    distance_km: 15.54
+- country: US
+  region: LA
+  name: Montz
+  lat: '30.0168'
+  long: "-90.4634"
+  nearby_rate_centers:
+  - name: NORCO
+    distance_km: 4.96
+  - name: LAPLACE
+    distance_km: 5.83
+  - name: EDGARD
+    distance_km: 9.43
+- country: US
+  region: LA
+  name: Moonshine
+  lat: '29.9701'
+  long: "-90.8132"
+  nearby_rate_centers:
+  - name: CONVENT
+    distance_km: 5.25
+  - name: VACHERIE
+    distance_km: 8.94
+  - name: CHACKBAY
+    distance_km: 10.58
+- country: US
+  region: LA
+  name: Mooringsport
+  lat: '32.6824'
+  long: "-93.9605"
+  nearby_rate_centers:
+  - name: MOORINGSPT
+    distance_km: 0.15
+  - name: OIL CITY
+    distance_km: 6.37
+  - name: BLANCHARD
+    distance_km: 12.66
+- country: US
+  region: LA
+  name: Moreauville
+  lat: '31.0342'
+  long: "-91.9818"
+  nearby_rate_centers:
+  - name: MOREAUVL
+    distance_km: 0.85
+  - name: MANSURA
+    distance_km: 6.87
+  - name: PLAUCHEVL
+    distance_km: 7.41
+- country: US
+  region: LA
+  name: Morgan City
+  lat: '29.7041'
+  long: "-91.1920"
+  nearby_rate_centers:
+  - name: MORGANCITY
+    distance_km: 0.98
+  - name: PATTERSON
+    distance_km: 11.11
+  - name: GIBSON
+    distance_km: 20.16
+- country: US
+  region: LA
+  name: Morganza
+  lat: '30.7384'
+  long: "-91.5920"
+  nearby_rate_centers:
+  - name: MORGANZA
+    distance_km: 0.7
+  - name: MELVILLE
+    distance_km: 15.17
+  - name: NEW ROADS
+    distance_km: 15.58
+- country: US
+  region: LA
+  name: Morrow
+  lat: '30.8294'
+  long: "-92.0828"
+  nearby_rate_centers:
+  - name: BIG CANE
+    distance_km: 7.13
+  - name: ST LANDRY
+    distance_km: 16.64
+  - name: COTTONPORT
+    distance_km: 17.15
+- country: US
+  region: LA
+  name: Morse
+  lat: '30.1221'
+  long: "-92.4985"
+  nearby_rate_centers:
+  - name: GUEYDAN
+    distance_km: 10.66
+  - name: CROWLEY
+    distance_km: 15.23
+  - name: LAKEARTHUR
+    distance_km: 17.59
+- country: US
+  region: LA
+  name: Moss Bluff
+  lat: '30.3039'
+  long: "-93.2051"
+  nearby_rate_centers:
+  - name: LK CHARLES
+    distance_km: 7.86
+  - name: SULPHUR
+    distance_km: 18.09
+  - name: IOWA
+    distance_km: 19.81
+- country: US
+  region: LA
+  name: Mound
+  lat: '32.3330'
+  long: "-91.0241"
+  nearby_rate_centers:
+  - name: DELTA
+    distance_km: 9.43
+  - name: TALLULAH
+    distance_km: 17.71
+  - name: EAGLE LAKE
+    distance_km: 19.69
+- country: US
+  region: LA
+  name: Mount Lebanon
+  lat: '32.5053'
+  long: "-93.0499"
+  nearby_rate_centers:
+  - name: GIBSLAND
+    distance_km: 4.32
+  - name: ARCADIA
+    distance_km: 13.3
+  - name: ATHENS
+    distance_km: 16.35
+- country: US
+  region: LA
+  name: Napoleonville
+  lat: '29.9384'
+  long: "-91.0263"
+  nearby_rate_centers:
+  - name: NAPOLEONVL
+    distance_km: 0.6
+  - name: LABADIEVL
+    distance_km: 13.53
+  - name: PIERREPART
+    distance_km: 18.02
+- country: US
+  region: LA
+  name: Natalbany
+  lat: '30.5486'
+  long: "-90.4848"
+  nearby_rate_centers:
+  - name: HAMMOND
+    distance_km: 5.92
+  - name: INDEPNDNCE
+    distance_km: 9.51
+  - name: ALBANY
+    distance_km: 10.58
+- country: US
+  region: LA
+  name: Natchez
+  lat: '31.6743'
+  long: "-93.0456"
+  nearby_rate_centers:
+  - name: NATCHITCHS
+    distance_km: 11.25
+  - name: MONTGOMERY
+    distance_km: 14.71
+  - name: ROBELINE
+    distance_km: 24.83
+- country: US
+  region: LA
+  name: Natchitoches
+  lat: '31.7315'
+  long: "-93.0975"
+  nearby_rate_centers:
+  - name: NATCHITCHS
+    distance_km: 4.04
+  - name: CAMPTI
+    distance_km: 18.75
+  - name: ROBELINE
+    distance_km: 20.27
+- country: US
+  region: LA
+  name: New Iberia
+  lat: '30.0049'
+  long: "-91.8202"
+  nearby_rate_centers:
+  - name: NEW IBERIA
+    distance_km: 0.82
+  - name: LOREAUVL
+    distance_km: 9.67
+  - name: STMARTINVL
+    distance_km: 13.55
+- country: US
+  region: LA
+  name: New Llano
+  lat: '31.0970'
+  long: "-93.2767"
+  nearby_rate_centers:
+  - name: LEESVILLE
+    distance_km: 4.83
+  - name: DE RIDDER
+    distance_km: 27.49
+  - name: HORNBECK
+    distance_km: 28.73
+- country: US
+  region: LA
+  name: New Orleans
+  lat: '30.0687'
+  long: "-89.9288"
+  nearby_rate_centers:
+  - name: LKCATHERIN
+    distance_km: 15.74
+  - name: NEWORLEANS
+    distance_km: 19.51
+  - name: ST BERNARD
+    distance_km: 23.7
+- country: US
+  region: LA
+  name: New Orleans Station
+  lat: '29.8314'
+  long: "-90.0211"
+  nearby_rate_centers:
+  - name: JESUITBEND
+    distance_km: 10.04
+  - name: NEWORLEANS
+    distance_km: 13.97
+  - name: LAFITTE
+    distance_km: 15.66
+- country: US
+  region: LA
+  name: New Roads
+  lat: '30.6959'
+  long: "-91.4537"
+  nearby_rate_centers:
+  - name: NEW ROADS
+    distance_km: 1.99
+  - name: STFRNCISVL
+    distance_km: 10.94
+  - name: ROUGON
+    distance_km: 12.57
+- country: US
+  region: LA
+  name: New Sarpy
+  lat: '29.9809'
+  long: "-90.3832"
+  nearby_rate_centers:
+  - name: NORCO
+    distance_km: 3.79
+  - name: LULING
+    distance_km: 5.66
+  - name: PARADIS
+    distance_km: 12.81
+- country: US
+  region: LA
+  name: Newellton
+  lat: '32.0724'
+  long: "-91.2392"
+  nearby_rate_centers:
+  - name: NEWELLTON
+    distance_km: 0.59
+  - name: ST JOSEPH
+    distance_km: 16.26
+  - name: WATERPROOF
+    distance_km: 32.47
+- country: US
+  region: LA
+  name: Noble
+  lat: '31.6899'
+  long: "-93.6832"
+  nearby_rate_centers:
+  - name: ZWOLLE
+    distance_km: 7.21
+  - name: CONVERSE
+    distance_km: 10.47
+  - name: PLEASANTHL
+    distance_km: 21.06
+- country: US
+  region: LA
+  name: Norco
+  lat: '29.9986'
+  long: "-90.4036"
+  nearby_rate_centers:
+  - name: NORCO
+    distance_km: 1.17
+  - name: LULING
+    distance_km: 8.23
+  - name: LAPLACE
+    distance_km: 10.83
+- country: US
+  region: LA
+  name: North Hodge
+  lat: '32.2845'
+  long: "-92.7171"
+  nearby_rate_centers:
+  - name: JONESBORO
+    distance_km: 4.72
+  - name: CHATHAM
+    distance_km: 25.29
+  - name: GRAMBLING
+    distance_km: 25.71
+- country: US
+  region: LA
+  name: North Vacherie
+  lat: '30.0048'
+  long: "-90.7109"
+  nearby_rate_centers:
+  - name: VACHERIE
+    distance_km: 1.88
+  - name: LUTCHER
+    distance_km: 4.48
+  - name: GARYVILLE
+    distance_km: 10.93
+- country: US
+  region: LA
+  name: Norwood
+  lat: '30.9682'
+  long: "-91.1125"
+  nearby_rate_centers:
+  - name: WILSON
+    distance_km: 4.91
+  - name: CLINTON
+    distance_km: 14.49
+  - name: JACKSON
+    distance_km: 17.09
+- country: US
+  region: LA
+  name: Oak Grove
+  lat: '32.8619'
+  long: "-91.3911"
+  nearby_rate_centers:
+  - name: OAK GROVE
+    distance_km: 0.74
+  - name: LKPROVIDNC
+    distance_km: 20.23
+  - name: BONITA
+    distance_km: 27.41
+- country: US
+  region: LA
+  name: Oak Hills Place
+  lat: '30.3690'
+  long: "-91.0887"
+  nearby_rate_centers:
+  - name: ST GABRIEL
+    distance_km: 12.45
+  - name: BATONROUGE
+    distance_km: 12.84
+  - name: DUTCH TOWN
+    distance_km: 15.89
+- country: US
+  region: LA
+  name: Oak Ridge
+  lat: '32.6244'
+  long: "-91.7731"
+  nearby_rate_centers:
+  - name: OAK RIDGE
+    distance_km: 0.43
+  - name: COLLINSTON
+    distance_km: 11.56
+  - name: RAYVILLE
+    distance_km: 16.69
+- country: US
+  region: LA
+  name: Oakdale
+  lat: '30.8158'
+  long: "-92.6542"
+  nearby_rate_centers:
+  - name: OAKDALE
+    distance_km: 0.36
+  - name: ELIZABETH
+    distance_km: 14.42
+  - name: GLENMORA
+    distance_km: 18.74
+- country: US
+  region: LA
+  name: Oberlin
+  lat: '30.6069'
+  long: "-92.7724"
+  nearby_rate_centers:
+  - name: OBERLIN
+    distance_km: 1.93
+  - name: KINDER
+    distance_km: 14.6
+  - name: ELTON
+    distance_km: 16.03
+- country: US
+  region: LA
+  name: Oil City
+  lat: '32.7454'
+  long: "-93.9758"
+  nearby_rate_centers:
+  - name: OIL CITY
+    distance_km: 1.21
+  - name: MOORINGSPT
+    distance_km: 7.25
+  - name: BELCHER
+    distance_km: 13.31
+- country: US
+  region: LA
+  name: Old Jefferson
+  lat: '30.3776'
+  long: "-91.0060"
+  nearby_rate_centers:
+  - name: DENHAM SPG
+    distance_km: 12.81
+  - name: DUTCH TOWN
+    distance_km: 13.33
+  - name: GALVEZ
+    distance_km: 13.85
+- country: US
+  region: LA
+  name: Olla
+  lat: '31.8981'
+  long: "-92.2404"
+  nearby_rate_centers:
+  - name: OLLA
+    distance_km: 0.39
+  - name: TULLOS
+    distance_km: 12.7
+  - name: GEORGETOWN
+    distance_km: 20.14
+- country: US
+  region: LA
+  name: Opelousas
+  lat: '30.5252'
+  long: "-92.0816"
+  nearby_rate_centers:
+  - name: OPELOUSAS
+    distance_km: 0.77
+  - name: LAWTELL
+    distance_km: 9.71
+  - name: WASHINGTON
+    distance_km: 10.56
+- country: US
+  region: LA
+  name: Oretta
+  lat: '30.5289'
+  long: "-93.4391"
+  nearby_rate_centers:
+  - name: DE QUINCY
+    distance_km: 8.95
+  - name: MERRYVILLE
+    distance_km: 26.37
+  - name: RAGLEY
+    distance_km: 29.25
+- country: US
+  region: LA
+  name: Ossun
+  lat: '30.2834'
+  long: "-92.1070"
+  nearby_rate_centers:
+  - name: CARENCRO
+    distance_km: 9.08
+  - name: DUSON
+    distance_km: 9.45
+  - name: LAFAYETTE
+    distance_km: 10.9
+- country: US
+  region: LA
+  name: Paincourtville
+  lat: '29.9886'
+  long: "-91.0554"
+  nearby_rate_centers:
+  - name: NAPOLEONVL
+    distance_km: 5.7
+  - name: DONALDSNVL
+    distance_km: 13.77
+  - name: PIERREPART
+    distance_km: 15.18
+- country: US
+  region: LA
+  name: Palmetto
+  lat: '30.7177'
+  long: "-91.9082"
+  nearby_rate_centers:
+  - name: BIG CANE
+    distance_km: 15.22
+  - name: MELVILLE
+    distance_km: 16.36
+  - name: WASHINGTON
+    distance_km: 17.57
+- country: US
+  region: LA
+  name: Paradis
+  lat: '29.8680'
+  long: "-90.4397"
+  nearby_rate_centers:
+  - name: PARADIS
+    distance_km: 0.98
+  - name: LULING
+    distance_km: 10.17
+  - name: NORCO
+    distance_km: 14.89
+- country: US
+  region: LA
+  name: Parks
+  lat: '30.2172'
+  long: "-91.8271"
+  nearby_rate_centers:
+  - name: PARKS
+    distance_km: 0.63
+  - name: BREAUX BDG
+    distance_km: 10.04
+  - name: STMARTINVL
+    distance_km: 10.17
+- country: US
+  region: LA
+  name: Patterson
+  lat: '29.6910'
+  long: "-91.3096"
+  nearby_rate_centers:
+  - name: PATTERSON
+    distance_km: 0.87
+  - name: MORGANCITY
+    distance_km: 10.51
+  - name: CENTERVL
+    distance_km: 14.51
+- country: US
+  region: LA
+  name: Paulina
+  lat: '30.0351'
+  long: "-90.7226"
+  nearby_rate_centers:
+  - name: LUTCHER
+    distance_km: 2.28
+  - name: VACHERIE
+    distance_km: 4.77
+  - name: CONVENT
+    distance_km: 10.38
+- country: US
+  region: LA
+  name: Pearl River
+  lat: '30.3688'
+  long: "-89.7495"
+  nearby_rate_centers:
+  - name: PEARLRIVER
+    distance_km: 0.62
+  - name: SLIDELL
+    distance_km: 10.93
+  - name: PEARLINGTN
+    distance_km: 18.91
+- country: US
+  region: LA
+  name: Perry
+  lat: '29.9521'
+  long: "-92.1540"
+  nearby_rate_centers:
+  - name: ABBEVILLE
+    distance_km: 3.39
+  - name: ERATH
+    distance_km: 11.52
+  - name: KAPLAN
+    distance_km: 13.67
+- country: US
+  region: LA
+  name: Pierre Part
+  lat: '29.9555'
+  long: "-91.2073"
+  nearby_rate_centers:
+  - name: PIERREPART
+    distance_km: 1.16
+  - name: NAPOLEONVL
+    distance_km: 17.04
+  - name: WH CASTLE
+    distance_km: 23.99
+- country: US
+  region: LA
+  name: Pine Prairie
+  lat: '30.7818'
+  long: "-92.4223"
+  nearby_rate_centers:
+  - name: PINEPRAIRI
+    distance_km: 1.06
+  - name: TURKEY CRK
+    distance_km: 10.4
+  - name: MAMOU
+    distance_km: 16.6
+- country: US
+  region: LA
+  name: Pineville
+  lat: '31.3414'
+  long: "-92.4096"
+  nearby_rate_centers:
+  - name: ALEXANDRIA
+    distance_km: 5.46
+  - name: POLLOCK
+    distance_km: 20.3
+  - name: BOYCE
+    distance_km: 25.1
+- country: US
+  region: LA
+  name: Pioneer
+  lat: '32.7381'
+  long: "-91.4381"
+  nearby_rate_centers:
+  - name: OAK GROVE
+    distance_km: 14.13
+  - name: EPPS
+    distance_km: 15.61
+  - name: LKPROVIDNC
+    distance_km: 24.9
+- country: US
+  region: LA
+  name: Pitkin
+  lat: '30.9344'
+  long: "-92.9267"
+  nearby_rate_centers:
+  - name: PITKIN
+    distance_km: 0.68
+  - name: ELIZABETH
+    distance_km: 14.79
+  - name: SUGARTOWN
+    distance_km: 19.91
+- country: US
+  region: LA
+  name: Plain Dealing
+  lat: '32.9074'
+  long: "-93.6991"
+  nearby_rate_centers:
+  - name: PL DEALING
+    distance_km: 0.07
+  - name: GILLIAM
+    distance_km: 16.25
+  - name: HOSSTON
+    distance_km: 16.38
+- country: US
+  region: LA
+  name: Plaquemine
+  lat: '30.2833'
+  long: "-91.2430"
+  nearby_rate_centers:
+  - name: PLAQUEMINE
+    distance_km: 0.94
+  - name: ST GABRIEL
+    distance_km: 14.0
+  - name: WH CASTLE
+    distance_km: 15.86
+- country: US
+  region: LA
+  name: Plaucheville
+  lat: '30.9647'
+  long: "-91.9837"
+  nearby_rate_centers:
+  - name: PLAUCHEVL
+    distance_km: 0.35
+  - name: COTTONPORT
+    distance_km: 7.46
+  - name: MOREAUVL
+    distance_km: 7.8
+- country: US
+  region: LA
+  name: Pleasant Hill
+  lat: '31.8154'
+  long: "-93.5164"
+  nearby_rate_centers:
+  - name: PLEASANTHL
+    distance_km: 0.18
+  - name: PELICAN
+    distance_km: 10.37
+  - name: CONVERSE
+    distance_km: 18.52
+- country: US
+  region: LA
+  name: Pleasure Bend
+  lat: '29.9205'
+  long: "-90.6460"
+  nearby_rate_centers:
+  - name: VACHERIE
+    distance_km: 10.95
+  - name: LUTCHER
+    distance_km: 14.76
+  - name: GARYVILLE
+    distance_km: 15.75
+- country: US
+  region: LA
+  name: Point Place
+  lat: '31.6882'
+  long: "-93.0245"
+  nearby_rate_centers:
+  - name: NATCHITCHS
+    distance_km: 10.88
+  - name: MONTGOMERY
+    distance_km: 12.88
+  - name: CAMPTI
+    distance_km: 25.06
+- country: US
+  region: LA
+  name: Pointe a la Hache
+  lat: '29.5738'
+  long: "-89.7809"
+  nearby_rate_centers:
+  - name: PT HACHE
+    distance_km: 1.9
+  - name: PT SULPHUR
+    distance_km: 13.88
+  - name: DELACROIX
+    distance_km: 21.57
+- country: US
+  region: LA
+  name: Pollock
+  lat: '31.4985'
+  long: "-92.4432"
+  nearby_rate_centers:
+  - name: POLLOCK
+    distance_km: 4.47
+  - name: DRY PRONG
+    distance_km: 11.72
+  - name: ALEXANDRIA
+    distance_km: 21.28
+- country: US
+  region: LA
+  name: Ponchatoula
+  lat: '30.4402'
+  long: "-90.4428"
+  nearby_rate_centers:
+  - name: PONCHATOUL
+    distance_km: 0.32
+  - name: HAMMOND
+    distance_km: 6.89
+  - name: SPRINGFLD
+    distance_km: 10.46
+- country: US
+  region: LA
+  name: Port Allen
+  lat: '30.4456'
+  long: "-91.2098"
+  nearby_rate_centers:
+  - name: BATONROUGE
+    distance_km: 2.6
+  - name: PLAQUEMINE
+    distance_km: 18.33
+  - name: ZACHARY
+    distance_km: 23.26
+- country: US
+  region: LA
+  name: Port Barre
+  lat: '30.5565'
+  long: "-91.9565"
+  nearby_rate_centers:
+  - name: PORT BARRE
+    distance_km: 0.18
+  - name: LEONVILLE
+    distance_km: 10.31
+  - name: WASHINGTON
+    distance_km: 11.01
+- country: US
+  region: LA
+  name: Port Sulphur
+  lat: '29.5046'
+  long: "-89.7206"
+  nearby_rate_centers:
+  - name: PT SULPHUR
+    distance_km: 4.22
+  - name: PT HACHE
+    distance_km: 11.39
+  - name: BURAS
+    distance_km: 23.74
+- country: US
+  region: LA
+  name: Port Vincent
+  lat: '30.3385'
+  long: "-90.8424"
+  nearby_rate_centers:
+  - name: GALVEZ
+    distance_km: 5.07
+  - name: FRENCHSMNT
+    distance_km: 5.69
+  - name: GONZALES
+    distance_km: 14.88
+- country: US
+  region: LA
+  name: Powhatan
+  lat: '31.8738'
+  long: "-93.2032"
+  nearby_rate_centers:
+  - name: CAMPTI
+    distance_km: 8.59
+  - name: NATCHITCHS
+    distance_km: 15.82
+  - name: CRESTON
+    distance_km: 18.6
+- country: US
+  region: LA
+  name: Poydras
+  lat: '29.8626'
+  long: "-89.8877"
+  nearby_rate_centers:
+  - name: ST BERNARD
+    distance_km: 2.85
+  - name: DELACROIX
+    distance_km: 14.22
+  - name: JESUITBEND
+    distance_km: 18.97
+- country: US
+  region: LA
+  name: Prairieville
+  lat: '30.3151'
+  long: "-90.9571"
+  nearby_rate_centers:
+  - name: DUTCH TOWN
+    distance_km: 6.64
+  - name: GALVEZ
+    distance_km: 7.01
+  - name: GONZALES
+    distance_km: 10.47
+- country: US
+  region: LA
+  name: Presquille
+  lat: '29.5586'
+  long: "-90.6385"
+  nearby_rate_centers:
+  - name: HOUMA
+    distance_km: 8.69
+  - name: MONTEGUT
+    distance_km: 11.6
+  - name: LOCKPORT
+    distance_km: 13.49
+- country: US
+  region: LA
+  name: Prien
+  lat: '30.1601'
+  long: "-93.2611"
+  nearby_rate_centers:
+  - name: LK CHARLES
+    distance_km: 9.66
+  - name: CARLYSS
+    distance_km: 10.41
+  - name: SULPHUR
+    distance_km: 13.6
+- country: US
+  region: LA
+  name: Prospect
+  lat: '31.4488'
+  long: "-92.4968"
+  nearby_rate_centers:
+  - name: POLLOCK
+    distance_km: 11.95
+  - name: DRY PRONG
+    distance_km: 14.47
+  - name: ALEXANDRIA
+    distance_km: 16.34
+- country: US
+  region: LA
+  name: Provencal
+  lat: '31.6547'
+  long: "-93.1999"
+  nearby_rate_centers:
+  - name: ROBELINE
+    distance_km: 11.02
+  - name: NATCHITCHS
+    distance_km: 16.18
+  - name: CAMPTI
+    distance_km: 28.29
+- country: US
+  region: LA
+  name: Quitman
+  lat: '32.3507'
+  long: "-92.7236"
+  nearby_rate_centers:
+  - name: JONESBORO
+    distance_km: 12.09
+  - name: GRAMBLING
+    distance_km: 18.36
+  - name: RUSTON
+    distance_km: 20.64
+- country: US
+  region: LA
+  name: Raceland
+  lat: '29.7282'
+  long: "-90.6362"
+  nearby_rate_centers:
+  - name: RACELAND
+    distance_km: 2.75
+  - name: LOCKPORT
+    distance_km: 13.74
+  - name: HOUMA
+    distance_km: 16.29
+- country: US
+  region: LA
+  name: Rayne
+  lat: '30.2403'
+  long: "-92.2668"
+  nearby_rate_centers:
+  - name: RAYNE
+    distance_km: 1.08
+  - name: DUSON
+    distance_km: 7.79
+  - name: CROWLEY
+    distance_km: 10.96
+- country: US
+  region: LA
+  name: Rayville
+  lat: '32.4707'
+  long: "-91.7576"
+  nearby_rate_centers:
+  - name: RAYVILLE
+    distance_km: 0.46
+  - name: OAK RIDGE
+    distance_km: 17.32
+  - name: MANGHAM
+    distance_km: 18.11
+- country: US
+  region: LA
+  name: Red Chute
+  lat: '32.5732'
+  long: "-93.6059"
+  nearby_rate_centers:
+  - name: HAUGHTON
+    distance_km: 10.69
+  - name: SHREVEPORT
+    distance_km: 15.56
+  - name: DOYLINE
+    distance_km: 18.06
+- country: US
+  region: LA
+  name: Reddell
+  lat: '30.6688'
+  long: "-92.4268"
+  nearby_rate_centers:
+  - name: MAMOU
+    distance_km: 4.1
+  - name: PINEPRAIRI
+    distance_km: 12.99
+  - name: VL PLATTE
+    distance_km: 14.45
+- country: US
+  region: LA
+  name: Reeves
+  lat: '30.5215'
+  long: "-93.0428"
+  nearby_rate_centers:
+  - name: REEVES
+    distance_km: 0.87
+  - name: RAGLEY
+    distance_km: 8.83
+  - name: KINDER
+    distance_km: 18.99
+- country: US
+  region: LA
+  name: Reserve
+  lat: '30.0741'
+  long: "-90.5557"
+  nearby_rate_centers:
+  - name: RESERVE
+    distance_km: 1.95
+  - name: EDGARD
+    distance_km: 3.8
+  - name: GARYVILLE
+    distance_km: 6.1
+- country: US
+  region: LA
+  name: Richmond
+  lat: '32.3884'
+  long: "-91.1804"
+  nearby_rate_centers:
+  - name: TALLULAH
+    distance_km: 2.49
+  - name: EAGLE LAKE
+    distance_km: 22.2
+  - name: DELTA
+    distance_km: 25.04
+- country: US
+  region: LA
+  name: Richwood
+  lat: '32.4485'
+  long: "-92.0773"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 6.58
+  - name: CALHOUN
+    distance_km: 27.26
+  - name: STERLINGTN
+    distance_km: 28.1
+- country: US
+  region: LA
+  name: Ridgecrest
+  lat: '31.6018'
+  long: "-91.5304"
+  nearby_rate_centers:
+  - name: FERRIDAY
+    distance_km: 3.81
+  - name: VIDALIA
+    distance_km: 11.09
+  - name: MONTEREY
+    distance_km: 24.21
+- country: US
+  region: LA
+  name: Ringgold
+  lat: '32.3261'
+  long: "-93.2836"
+  nearby_rate_centers:
+  - name: RINGGOLD
+    distance_km: 0.23
+  - name: CASTOR
+    distance_km: 14.11
+  - name: DOYLINE
+    distance_km: 26.3
+- country: US
+  region: LA
+  name: Rio
+  lat: '30.6914'
+  long: "-89.8896"
+  nearby_rate_centers:
+  - name: BUSH
+    distance_km: 9.21
+  - name: BOGALUSA
+    distance_km: 10.42
+  - name: PINE
+    distance_km: 27.58
+- country: US
+  region: LA
+  name: River Ridge
+  lat: '29.9593'
+  long: "-90.2202"
+  nearby_rate_centers:
+  - name: KENNER
+    distance_km: 2.7
+  - name: NEWORLEANS
+    distance_km: 13.98
+  - name: LULING
+    distance_km: 14.26
+- country: US
+  region: LA
+  name: Roanoke
+  lat: '30.2356'
+  long: "-92.7481"
+  nearby_rate_centers:
+  - name: ROANOKE
+    distance_km: 1.04
+  - name: WELSH
+    distance_km: 7.57
+  - name: JENNINGS
+    distance_km: 8.85
+- country: US
+  region: LA
+  name: Robeline
+  lat: '31.6898'
+  long: "-93.3039"
+  nearby_rate_centers:
+  - name: ROBELINE
+    distance_km: 0.5
+  - name: MANY
+    distance_km: 21.67
+  - name: NATCHITCHS
+    distance_km: 21.83
+- country: US
+  region: LA
+  name: Rock Hill
+  lat: '31.4427'
+  long: "-92.5695"
+  nearby_rate_centers:
+  - name: BOYCE
+    distance_km: 11.54
+  - name: DRY PRONG
+    distance_km: 15.42
+  - name: COLFAX
+    distance_km: 15.75
+- country: US
+  region: LA
+  name: Rodessa
+  lat: '32.9735'
+  long: "-93.9966"
+  nearby_rate_centers:
+  - name: RODESSA
+    distance_km: 0.17
+  - name: IDA
+    distance_km: 10.41
+  - name: VIVIAN
+    distance_km: 11.17
+- country: US
+  region: LA
+  name: Romeville
+  lat: '30.0676'
+  long: "-90.8341"
+  nearby_rate_centers:
+  - name: CONVENT
+    distance_km: 5.82
+  - name: LUTCHER
+    distance_km: 13.03
+  - name: SORRENTO
+    distance_km: 13.04
+- country: US
+  region: LA
+  name: Rosedale
+  lat: '30.4429'
+  long: "-91.4601"
+  nearby_rate_centers:
+  - name: ROSEDALE
+    distance_km: 0.3
+  - name: MARINGOUIN
+    distance_km: 7.14
+  - name: LIVONIA
+    distance_km: 16.08
+- country: US
+  region: LA
+  name: Roseland
+  lat: '30.7646'
+  long: "-90.5114"
+  nearby_rate_centers:
+  - name: AMITE CITY
+    distance_km: 5.24
+  - name: INDEPNDNCE
+    distance_km: 14.68
+  - name: MONTPELIER
+    distance_km: 15.97
+- country: US
+  region: LA
+  name: Rosepine
+  lat: '30.9208'
+  long: "-93.2857"
+  nearby_rate_centers:
+  - name: DE RIDDER
+    distance_km: 7.88
+  - name: LEESVILLE
+    distance_km: 24.37
+  - name: SUGARTOWN
+    distance_km: 30.49
+- country: US
+  region: LA
+  name: Ruston
+  lat: '32.5328'
+  long: "-92.6363"
+  nearby_rate_centers:
+  - name: RUSTON
+    distance_km: 1.26
+  - name: GRAMBLING
+    distance_km: 7.61
+  - name: CHOUDRANT
+    distance_km: 11.04
+- country: US
+  region: LA
+  name: Saline
+  lat: '32.1631'
+  long: "-92.9768"
+  nearby_rate_centers:
+  - name: SALINE
+    distance_km: 0.26
+  - name: CASTOR
+    distance_km: 20.09
+  - name: CRESTON
+    distance_km: 21.5
+- country: US
+  region: LA
+  name: Sarepta
+  lat: '32.8963'
+  long: "-93.4517"
+  nearby_rate_centers:
+  - name: SAREPTA
+    distance_km: 0.64
+  - name: COTTON VLY
+    distance_km: 9.32
+  - name: SPRINGHILL
+    distance_km: 11.38
+- country: US
+  region: LA
+  name: Schriever
+  lat: '29.7333'
+  long: "-90.8310"
+  nearby_rate_centers:
+  - name: THIBODAUX
+    distance_km: 7.59
+  - name: CHACKBAY
+    distance_km: 15.87
+  - name: GIBSON
+    distance_km: 15.93
+- country: US
+  region: LA
+  name: Scott
+  lat: '30.2398'
+  long: "-92.0948"
+  nearby_rate_centers:
+  - name: LAFAYETTE
+    distance_km: 7.76
+  - name: DUSON
+    distance_km: 8.81
+  - name: CARENCRO
+    distance_km: 11.64
+- country: US
+  region: LA
+  name: Shenandoah
+  lat: '30.4019'
+  long: "-91.0020"
+  nearby_rate_centers:
+  - name: DENHAM SPG
+    distance_km: 10.17
+  - name: GALVEZ
+    distance_km: 15.18
+  - name: DUTCH TOWN
+    distance_km: 15.95
+- country: US
+  region: LA
+  name: Shongaloo
+  lat: '32.9416'
+  long: "-93.2955"
+  nearby_rate_centers:
+  - name: SHONGALOO
+    distance_km: 0.55
+  - name: HAYNESVL
+    distance_km: 14.42
+  - name: SAREPTA
+    distance_km: 15.67
+- country: US
+  region: LA
+  name: Shreveport
+  lat: '32.4653'
+  long: "-93.7955"
+  nearby_rate_centers:
+  - name: SHREVEPORT
+    distance_km: 6.2
+  - name: KEITHVILLE
+    distance_km: 14.91
+  - name: BLANCHARD
+    distance_km: 16.02
+- country: US
+  region: LA
+  name: Sibley
+  lat: '32.5422'
+  long: "-93.2947"
+  nearby_rate_centers:
+  - name: MINDEN
+    distance_km: 8.57
+  - name: DOYLINE
+    distance_km: 11.71
+  - name: HAUGHTON
+    distance_km: 19.43
+- country: US
+  region: LA
+  name: Sicily Island
+  lat: '31.8493'
+  long: "-91.6599"
+  nearby_rate_centers:
+  - name: SICILY IS
+    distance_km: 0.37
+  - name: WISNER
+    distance_km: 15.0
+  - name: HARRISONBG
+    distance_km: 18.29
+- country: US
+  region: LA
+  name: Sikes
+  lat: '32.0790'
+  long: "-92.4863"
+  nearby_rate_centers:
+  - name: HEBRON
+    distance_km: 13.95
+  - name: WINNFIELD
+    distance_km: 22.08
+  - name: CHATHAM
+    distance_km: 25.93
+- country: US
+  region: LA
+  name: Simmesport
+  lat: '30.9806'
+  long: "-91.8143"
+  nearby_rate_centers:
+  - name: SIMMESPORT
+    distance_km: 0.75
+  - name: BORDELONVL
+    distance_km: 16.02
+  - name: MOREAUVL
+    distance_km: 16.25
+- country: US
+  region: LA
+  name: Simpson
+  lat: '31.2640'
+  long: "-93.0193"
+  nearby_rate_centers:
+  - name: LEESVILLE
+    distance_km: 27.2
+  - name: CALCASIEU
+    distance_km: 33.87
+  - name: BOYCE
+    distance_km: 35.8
+- country: US
+  region: LA
+  name: Simsboro
+  lat: '32.5323'
+  long: "-92.7839"
+  nearby_rate_centers:
+  - name: GRAMBLING
+    distance_km: 6.73
+  - name: ARCADIA
+    distance_km: 12.67
+  - name: RUSTON
+    distance_km: 13.06
+- country: US
+  region: LA
+  name: Singer
+  lat: '30.6512'
+  long: "-93.4117"
+  nearby_rate_centers:
+  - name: MERRYVILLE
+    distance_km: 16.48
+  - name: DE QUINCY
+    distance_km: 22.62
+  - name: DE RIDDER
+    distance_km: 24.92
+- country: US
+  region: LA
+  name: Siracusaville
+  lat: '29.6886'
+  long: "-91.1522"
+  nearby_rate_centers:
+  - name: MORGANCITY
+    distance_km: 4.93
+  - name: PATTERSON
+    distance_km: 14.98
+  - name: GIBSON
+    distance_km: 16.18
+- country: US
+  region: LA
+  name: Slaughter
+  lat: '30.7219'
+  long: "-91.1393"
+  nearby_rate_centers:
+  - name: ZACHARY
+    distance_km: 8.19
+  - name: JACKSON
+    distance_km: 15.44
+  - name: CLINTON
+    distance_km: 20.06
+- country: US
+  region: LA
+  name: Slidell
+  lat: '30.2887'
+  long: "-89.7828"
+  nearby_rate_centers:
+  - name: SLIDELL
+    distance_km: 1.55
+  - name: PEARLRIVER
+    distance_km: 10.0
+  - name: LACOMBE
+    distance_km: 15.55
+- country: US
+  region: LA
+  name: Sorrel
+  lat: '29.8879'
+  long: "-91.6225"
+  nearby_rate_centers:
+  - name: JEANERETTE
+    distance_km: 5.42
+  - name: BALDWIN
+    distance_km: 9.11
+  - name: FRANKLIN
+    distance_km: 15.78
+- country: US
+  region: LA
+  name: Sorrento
+  lat: '30.1828'
+  long: "-90.8674"
+  nearby_rate_centers:
+  - name: SORRENTO
+    distance_km: 0.7
+  - name: GONZALES
+    distance_km: 7.26
+  - name: DUTCH TOWN
+    distance_km: 13.95
+- country: US
+  region: LA
+  name: South Mansfield
+  lat: '32.0181'
+  long: "-93.7237"
+  nearby_rate_centers:
+  - name: MANSFIELD
+    distance_km: 2.39
+  - name: GRAND CANE
+    distance_km: 10.6
+  - name: PELICAN
+    distance_km: 19.49
+- country: US
+  region: LA
+  name: South Vacherie
+  lat: '29.9406'
+  long: "-90.6893"
+  nearby_rate_centers:
+  - name: VACHERIE
+    distance_km: 6.64
+  - name: LUTCHER
+    distance_km: 11.59
+  - name: CHACKBAY
+    distance_km: 13.8
+- country: US
+  region: LA
+  name: Spearsville
+  lat: '32.9320'
+  long: "-92.6001"
+  nearby_rate_centers:
+  - name: BERNICE
+    distance_km: 14.18
+  - name: SOJCT CITY
+    distance_km: 15.24
+  - name: FARMERVL
+    distance_km: 25.06
+- country: US
+  region: LA
+  name: Spokane
+  lat: '31.7130'
+  long: "-91.4453"
+  nearby_rate_centers:
+  - name: WATERPROOF
+    distance_km: 12.0
+  - name: FERRIDAY
+    distance_km: 14.8
+  - name: VIDALIA
+    distance_km: 17.32
+- country: US
+  region: LA
+  name: Springfield
+  lat: '30.4255'
+  long: "-90.5444"
+  nearby_rate_centers:
+  - name: SPRINGFLD
+    distance_km: 0.65
+  - name: ALBANY
+    distance_km: 9.13
+  - name: PONCHATOUL
+    distance_km: 9.98
+- country: US
+  region: LA
+  name: Springhill
+  lat: '33.0019'
+  long: "-93.4613"
+  nearby_rate_centers:
+  - name: SPRINGHILL
+    distance_km: 0.72
+  - name: SAREPTA
+    distance_km: 12.41
+  - name: SHONGALOO
+    distance_km: 16.49
+- country: US
+  region: LA
+  name: St. Francisville
+  lat: '30.7852'
+  long: "-91.3788"
+  nearby_rate_centers:
+  - name: STFRNCISVL
+    distance_km: 1.34
+  - name: NEW ROADS
+    distance_km: 10.61
+  - name: JACKSON
+    distance_km: 16.74
+- country: US
+  region: LA
+  name: St. Gabriel
+  lat: '30.2536'
+  long: "-91.1013"
+  nearby_rate_centers:
+  - name: ST GABRIEL
+    distance_km: 0.44
+  - name: WH CASTLE
+    distance_km: 10.86
+  - name: DUTCH TOWN
+    distance_km: 11.45
+- country: US
+  region: LA
+  name: St. James
+  lat: '30.0185'
+  long: "-90.8513"
+  nearby_rate_centers:
+  - name: CONVENT
+    distance_km: 2.26
+  - name: VACHERIE
+    distance_km: 12.61
+  - name: LUTCHER
+    distance_km: 14.71
+- country: US
+  region: LA
+  name: St. Joseph
+  lat: '31.9203'
+  long: "-91.2400"
+  nearby_rate_centers:
+  - name: ST JOSEPH
+    distance_km: 0.78
+  - name: NEWELLTON
+    distance_km: 17.45
+  - name: WATERPROOF
+    distance_km: 18.5
+- country: US
+  region: LA
+  name: St. Martinville
+  lat: '30.1263'
+  long: "-91.8319"
+  nearby_rate_centers:
+  - name: STMARTINVL
+    distance_km: 0.34
+  - name: PARKS
+    distance_km: 10.11
+  - name: LOREAUVL
+    distance_km: 11.91
+- country: US
+  region: LA
+  name: St. Maurice
+  lat: '31.7613'
+  long: "-92.9389"
+  nearby_rate_centers:
+  - name: MONTGOMERY
+    distance_km: 11.28
+  - name: NATCHITCHS
+    distance_km: 14.48
+  - name: CAMPTI
+    distance_km: 22.8
+- country: US
+  region: LA
+  name: St. Rose
+  lat: '29.9649'
+  long: "-90.3088"
+  nearby_rate_centers:
+  - name: KENNER
+    distance_km: 6.39
+  - name: LULING
+    distance_km: 6.49
+  - name: NORCO
+    distance_km: 11.01
+- country: US
+  region: LA
+  name: Stanley
+  lat: '31.9608'
+  long: "-93.8995"
+  nearby_rate_centers:
+  - name: LOGANSPORT
+    distance_km: 9.42
+  - name: GRAND CANE
+    distance_km: 16.11
+  - name: MANSFIELD
+    distance_km: 19.88
+- country: US
+  region: LA
+  name: Starks
+  lat: '30.3105'
+  long: "-93.6667"
+  nearby_rate_centers:
+  - name: STARKS
+    distance_km: 1.3
+  - name: VINTON
+    distance_km: 15.58
+  - name: DE QUINCY
+    distance_km: 27.18
+- country: US
+  region: LA
+  name: Start
+  lat: '32.4902'
+  long: "-91.8650"
+  nearby_rate_centers:
+  - name: RAYVILLE
+    distance_km: 10.16
+  - name: OAK RIDGE
+    distance_km: 17.14
+  - name: MANGHAM
+    distance_km: 21.8
+- country: US
+  region: LA
+  name: Sterlington
+  lat: '32.6888'
+  long: "-92.0603"
+  nearby_rate_centers:
+  - name: STERLINGTN
+    distance_km: 2.58
+  - name: SPENCER
+    distance_km: 9.82
+  - name: BASTROP
+    distance_km: 16.28
+- country: US
+  region: LA
+  name: Stonewall
+  lat: '32.2716'
+  long: "-93.8099"
+  nearby_rate_centers:
+  - name: KEITHVILLE
+    distance_km: 7.26
+  - name: KEATCHIE
+    distance_km: 12.02
+  - name: GRAND CANE
+    distance_km: 21.03
+- country: US
+  region: LA
+  name: Sugartown
+  lat: '30.8401'
+  long: "-93.0124"
+  nearby_rate_centers:
+  - name: SUGARTOWN
+    distance_km: 7.48
+  - name: PITKIN
+    distance_km: 12.8
+  - name: ELIZABETH
+    distance_km: 21.19
+- country: US
+  region: LA
+  name: Sulphur
+  lat: '30.2286'
+  long: "-93.3566"
+  nearby_rate_centers:
+  - name: SULPHUR
+    distance_km: 1.8
+  - name: CARLYSS
+    distance_km: 9.45
+  - name: LK CHARLES
+    distance_km: 14.4
+- country: US
+  region: LA
+  name: Sun
+  lat: '30.6489'
+  long: "-89.9070"
+  nearby_rate_centers:
+  - name: BUSH
+    distance_km: 4.43
+  - name: BOGALUSA
+    distance_km: 15.42
+  - name: FOLSOM
+    distance_km: 26.64
+- country: US
+  region: LA
+  name: Sunset
+  lat: '30.4083'
+  long: "-92.0644"
+  nearby_rate_centers:
+  - name: SUNSET
+    distance_km: 1.14
+  - name: CANKTON
+    distance_km: 9.76
+  - name: CARENCRO
+    distance_km: 9.81
+- country: US
+  region: LA
+  name: Supreme
+  lat: '29.8604'
+  long: "-90.9955"
+  nearby_rate_centers:
+  - name: LABADIEVL
+    distance_km: 4.89
+  - name: NAPOLEONVL
+    distance_km: 9.68
+  - name: CHACKBAY
+    distance_km: 17.88
+- country: US
+  region: LA
+  name: Swartz
+  lat: '32.5809'
+  long: "-91.9869"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 14.38
+  - name: STERLINGTN
+    distance_km: 16.15
+  - name: COLLINSTON
+    distance_km: 16.68
+- country: US
+  region: LA
+  name: Taft
+  lat: '29.9854'
+  long: "-90.4533"
+  nearby_rate_centers:
+  - name: NORCO
+    distance_km: 3.99
+  - name: LAPLACE
+    distance_km: 9.44
+  - name: LULING
+    distance_km: 10.34
+- country: US
+  region: LA
+  name: Tallulah
+  lat: '32.4068'
+  long: "-91.1916"
+  nearby_rate_centers:
+  - name: TALLULAH
+    distance_km: 0.34
+  - name: EAGLE LAKE
+    distance_km: 21.93
+  - name: DELTA
+    distance_km: 26.67
+- country: US
+  region: LA
+  name: Tangipahoa
+  lat: '30.8758'
+  long: "-90.5138"
+  nearby_rate_centers:
+  - name: KENTWOOD
+    distance_km: 7.52
+  - name: SOUTHOSYKA
+    distance_km: 14.27
+  - name: GREENSBURG
+    distance_km: 15.37
+- country: US
+  region: LA
+  name: Terrytown
+  lat: '29.9014'
+  long: "-90.0279"
+  nearby_rate_centers:
+  - name: NEWORLEANS
+    distance_km: 6.92
+  - name: ST BERNARD
+    distance_km: 16.87
+  - name: JESUITBEND
+    distance_km: 17.81
+- country: US
+  region: LA
+  name: Thibodaux
+  lat: '29.7949'
+  long: "-90.8146"
+  nearby_rate_centers:
+  - name: THIBODAUX
+    distance_km: 0.62
+  - name: CHACKBAY
+    distance_km: 8.91
+  - name: LABADIEVL
+    distance_km: 14.26
+- country: US
+  region: LA
+  name: Tickfaw
+  lat: '30.5769'
+  long: "-90.4871"
+  nearby_rate_centers:
+  - name: INDEPNDNCE
+    distance_km: 6.39
+  - name: HAMMOND
+    distance_km: 8.92
+  - name: ALBANY
+    distance_km: 12.28
+- country: US
+  region: LA
+  name: Timberlane
+  lat: '29.8781'
+  long: "-90.0303"
+  nearby_rate_centers:
+  - name: NEWORLEANS
+    distance_km: 8.9
+  - name: JESUITBEND
+    distance_km: 15.23
+  - name: ST BERNARD
+    distance_km: 16.66
+- country: US
+  region: LA
+  name: Triumph
+  lat: '29.3443'
+  long: "-89.4683"
+  nearby_rate_centers:
+  - name: BURAS
+    distance_km: 7.42
+  - name: VENICE
+    distance_km: 12.79
+  - name: PT SULPHUR
+    distance_km: 26.23
+- country: US
+  region: LA
+  name: Trout
+  lat: '31.6967'
+  long: "-92.1797"
+  nearby_rate_centers:
+  - name: JENA
+    distance_km: 5.19
+  - name: TULLOS
+    distance_km: 19.73
+  - name: GEORGETOWN
+    distance_km: 20.85
+- country: US
+  region: LA
+  name: Tullos
+  lat: '31.8188'
+  long: "-92.3293"
+  nearby_rate_centers:
+  - name: TULLOS
+    distance_km: 0.54
+  - name: GEORGETOWN
+    distance_km: 7.97
+  - name: OLLA
+    distance_km: 12.42
+- country: US
+  region: LA
+  name: Turkey Creek
+  lat: '30.8732'
+  long: "-92.4170"
+  nearby_rate_centers:
+  - name: TURKEY CRK
+    distance_km: 0.31
+  - name: PINEPRAIRI
+    distance_km: 9.87
+  - name: ST LANDRY
+    distance_km: 15.71
+- country: US
+  region: LA
+  name: Union
+  lat: '30.0918'
+  long: "-90.8844"
+  nearby_rate_centers:
+  - name: CONVENT
+    distance_km: 10.07
+  - name: SORRENTO
+    distance_km: 10.38
+  - name: DONALDSNVL
+    distance_km: 10.45
+- country: US
+  region: LA
+  name: Urania
+  lat: '31.8639'
+  long: "-92.2913"
+  nearby_rate_centers:
+  - name: OLLA
+    distance_km: 6.33
+  - name: TULLOS
+    distance_km: 6.67
+  - name: GEORGETOWN
+    distance_km: 14.12
+- country: US
+  region: LA
+  name: Varnado
+  lat: '30.8950'
+  long: "-89.8318"
+  nearby_rate_centers:
+  - name: ANGIE
+    distance_km: 8.28
+  - name: BOGALUSA
+    distance_km: 12.91
+  - name: PINE
+    distance_km: 17.63
+- country: US
+  region: LA
+  name: Venice
+  lat: '29.2875'
+  long: "-89.3637"
+  nearby_rate_centers:
+  - name: VENICE
+    distance_km: 0.9
+  - name: BURAS
+    distance_km: 19.06
+  - name: PT SULPHUR
+    distance_km: 38.18
+- country: US
+  region: LA
+  name: Ventress
+  lat: '30.6825'
+  long: "-91.4248"
+  nearby_rate_centers:
+  - name: NEW ROADS
+    distance_km: 2.42
+  - name: ROUGON
+    distance_km: 9.96
+  - name: STFRNCISVL
+    distance_km: 10.9
+- country: US
+  region: LA
+  name: Vidalia
+  lat: '31.5668'
+  long: "-91.4404"
+  nearby_rate_centers:
+  - name: VIDALIA
+    distance_km: 1.74
+  - name: FERRIDAY
+    distance_km: 13.08
+  - name: WATERPROOF
+    distance_km: 27.29
+- country: US
+  region: LA
+  name: Vienna
+  lat: '32.6093'
+  long: "-92.6481"
+  nearby_rate_centers:
+  - name: RUSTON
+    distance_km: 9.49
+  - name: DUBACH
+    distance_km: 10.33
+  - name: GRAMBLING
+    distance_km: 12.15
+- country: US
+  region: LA
+  name: Vienna Bend
+  lat: '31.7372'
+  long: "-93.0343"
+  nearby_rate_centers:
+  - name: NATCHITCHS
+    distance_km: 6.4
+  - name: MONTGOMERY
+    distance_km: 15.61
+  - name: CAMPTI
+    distance_km: 19.66
+- country: US
+  region: LA
+  name: Village St. George
+  lat: '30.3598'
+  long: "-91.0672"
+  nearby_rate_centers:
+  - name: ST GABRIEL
+    distance_km: 11.82
+  - name: DUTCH TOWN
+    distance_km: 13.82
+  - name: BATONROUGE
+    distance_km: 15.04
+- country: US
+  region: LA
+  name: Ville Platte
+  lat: '30.6901'
+  long: "-92.2746"
+  nearby_rate_centers:
+  - name: VL PLATTE
+    distance_km: 0.9
+  - name: CHATAIGNIR
+    distance_km: 14.29
+  - name: MAMOU
+    distance_km: 15.25
+- country: US
+  region: LA
+  name: Vinton
+  lat: '30.1957'
+  long: "-93.5818"
+  nearby_rate_centers:
+  - name: VINTON
+    distance_km: 0.45
+  - name: STARKS
+    distance_km: 15.28
+  - name: SULPHUR
+    distance_km: 20.34
+- country: US
+  region: LA
+  name: Violet
+  lat: '29.8962'
+  long: "-89.8920"
+  nearby_rate_centers:
+  - name: ST BERNARD
+    distance_km: 4.8
+  - name: DELACROIX
+    distance_km: 17.41
+  - name: NEWORLEANS
+    distance_km: 18.61
+- country: US
+  region: LA
+  name: Vivian
+  lat: '32.8711'
+  long: "-93.9862"
+  nearby_rate_centers:
+  - name: VIVIAN
+    distance_km: 0.3
+  - name: HOSSTON
+    distance_km: 10.78
+  - name: RODESSA
+    distance_km: 11.56
+- country: US
+  region: LA
+  name: Waggaman
+  lat: '29.9373'
+  long: "-90.2354"
+  nearby_rate_centers:
+  - name: KENNER
+    distance_km: 4.06
+  - name: LULING
+    distance_km: 12.49
+  - name: NEWORLEANS
+    distance_km: 15.43
+- country: US
+  region: LA
+  name: Walker
+  lat: '30.4851'
+  long: "-90.8654"
+  nearby_rate_centers:
+  - name: DENHAM SPG
+    distance_km: 8.99
+  - name: LIVINGSTON
+    distance_km: 10.98
+  - name: GALVEZ
+    distance_km: 19.47
+- country: US
+  region: LA
+  name: Wallace
+  lat: '30.0303'
+  long: "-90.6569"
+  nearby_rate_centers:
+  - name: LUTCHER
+    distance_km: 4.56
+  - name: GARYVILLE
+    distance_km: 5.06
+  - name: VACHERIE
+    distance_km: 7.72
+- country: US
+  region: LA
+  name: Wallace Ridge
+  lat: '31.6849'
+  long: "-91.8321"
+  nearby_rate_centers:
+  - name: JONESVILLE
+    distance_km: 6.91
+  - name: HARRISONBG
+    distance_km: 9.14
+  - name: SICILY IS
+    distance_km: 24.85
+- country: US
+  region: LA
+  name: Washington
+  lat: '30.6150'
+  long: "-92.0594"
+  nearby_rate_centers:
+  - name: WASHINGTON
+    distance_km: 1.04
+  - name: OPELOUSAS
+    distance_km: 9.45
+  - name: PORT BARRE
+    distance_km: 11.71
+- country: US
+  region: LA
+  name: Waterproof
+  lat: '31.8073'
+  long: "-91.3861"
+  nearby_rate_centers:
+  - name: WATERPROOF
+    distance_km: 0.2
+  - name: ST JOSEPH
+    distance_km: 19.42
+  - name: SICILY IS
+    distance_km: 26.06
+- country: US
+  region: LA
+  name: Watson
+  lat: '30.5749'
+  long: "-90.9508"
+  nearby_rate_centers:
+  - name: DENHAM SPG
+    distance_km: 9.97
+  - name: LIVINGSTON
+    distance_km: 21.3
+  - name: ZACHARY
+    distance_km: 21.48
+- country: US
+  region: LA
+  name: Welcome
+  lat: '30.0474'
+  long: "-90.8823"
+  nearby_rate_centers:
+  - name: CONVENT
+    distance_km: 6.31
+  - name: DONALDSNVL
+    distance_km: 12.11
+  - name: SORRENTO
+    distance_km: 15.2
+- country: US
+  region: LA
+  name: Welsh
+  lat: '30.2355'
+  long: "-92.8135"
+  nearby_rate_centers:
+  - name: WELSH
+    distance_km: 1.38
+  - name: ROANOKE
+    distance_km: 7.15
+  - name: LACASSINE
+    distance_km: 10.55
+- country: US
+  region: LA
+  name: West Monroe
+  lat: '32.5120'
+  long: "-92.1513"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 4.21
+  - name: CALHOUN
+    distance_km: 19.21
+  - name: STERLINGTN
+    distance_km: 21.97
+- country: US
+  region: LA
+  name: Westlake
+  lat: '30.2606'
+  long: "-93.2638"
+  nearby_rate_centers:
+  - name: LK CHARLES
+    distance_km: 6.26
+  - name: SULPHUR
+    distance_km: 11.08
+  - name: CARLYSS
+    distance_km: 16.35
+- country: US
+  region: LA
+  name: Westminster
+  lat: '30.4080'
+  long: "-91.0906"
+  nearby_rate_centers:
+  - name: BATONROUGE
+    distance_km: 10.08
+  - name: DENHAM SPG
+    distance_km: 15.26
+  - name: ST GABRIEL
+    distance_km: 16.77
+- country: US
+  region: LA
+  name: Westwego
+  lat: '29.9058'
+  long: "-90.1434"
+  nearby_rate_centers:
+  - name: NEWORLEANS
+    distance_km: 8.02
+  - name: KENNER
+    distance_km: 12.19
+  - name: LAFITTE
+    distance_km: 19.34
+- country: US
+  region: LA
+  name: White Castle
+  lat: '30.1611'
+  long: "-91.1495"
+  nearby_rate_centers:
+  - name: WH CASTLE
+    distance_km: 0.49
+  - name: ST GABRIEL
+    distance_km: 11.71
+  - name: PLAQUEMINE
+    distance_km: 15.67
+- country: US
+  region: LA
+  name: Wilson
+  lat: '30.9236'
+  long: "-91.1090"
+  nearby_rate_centers:
+  - name: WILSON
+    distance_km: 0.54
+  - name: CLINTON
+    distance_km: 10.85
+  - name: JACKSON
+    distance_km: 13.64
+- country: US
+  region: LA
+  name: Winnfield
+  lat: '31.9240'
+  long: "-92.6425"
+  nearby_rate_centers:
+  - name: WINNFIELD
+    distance_km: 1.0
+  - name: GEORGETOWN
+    distance_km: 30.07
+  - name: TULLOS
+    distance_km: 31.5
+- country: US
+  region: LA
+  name: Winnsboro
+  lat: '32.1650'
+  long: "-91.7210"
+  nearby_rate_centers:
+  - name: WINNSBORO
+    distance_km: 0.99
+  - name: CROWVILLE
+    distance_km: 13.72
+  - name: FTNECESSTY
+    distance_km: 15.78
+- country: US
+  region: LA
+  name: Wisner
+  lat: '31.9805'
+  long: "-91.6551"
+  nearby_rate_centers:
+  - name: WISNER
+    distance_km: 0.42
+  - name: SICILY IS
+    distance_km: 14.34
+  - name: FTNECESSTY
+    distance_km: 17.08
+- country: US
+  region: LA
+  name: Woodmere
+  lat: '29.8493'
+  long: "-90.0751"
+  nearby_rate_centers:
+  - name: NEWORLEANS
+    distance_km: 10.95
+  - name: JESUITBEND
+    distance_km: 12.93
+  - name: LAFITTE
+    distance_km: 14.31
+- country: US
+  region: LA
+  name: Woodworth
+  lat: '31.1656'
+  long: "-92.5098"
+  nearby_rate_centers:
+  - name: LECOMPTE
+    distance_km: 12.87
+  - name: ALEXANDRIA
+    distance_km: 16.71
+  - name: GLENMORA
+    distance_km: 22.53
+- country: US
+  region: LA
+  name: Youngsville
+  lat: '30.0963'
+  long: "-91.9968"
+  nearby_rate_centers:
+  - name: YOUNGSVL
+    distance_km: 0.37
+  - name: BROUSSARD
+    distance_km: 6.55
+  - name: LAFAYETTE
+    distance_km: 14.43
+- country: US
+  region: LA
+  name: Zachary
+  lat: '30.6643'
+  long: "-91.1634"
+  nearby_rate_centers:
+  - name: ZACHARY
+    distance_km: 1.69
+  - name: JACKSON
+    distance_km: 20.58
+  - name: ROUGON
+    distance_km: 22.28
+- country: US
+  region: LA
+  name: Zwolle
+  lat: '31.6398'
+  long: "-93.6412"
+  nearby_rate_centers:
+  - name: ZWOLLE
+    distance_km: 0.56
+  - name: MANY
+    distance_km: 16.93
+  - name: CONVERSE
+    distance_km: 17.0

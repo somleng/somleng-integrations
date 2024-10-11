@@ -1,0 +1,7415 @@
+---
+rate_centers:
+- country: US
+  region: MA
+  exchange: '301913'
+  name: ABINGTON
+  full_name: Abington
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301914'
+  name: ACCORD
+  full_name: Accord
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301915'
+  name: ACOAXET
+  full_name: Acoaxet
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074120'
+  name: ACTON
+  full_name: Acton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.475602'
+  long: "-71.45511"
+  closest_city:
+    name: West Concord
+    distance_km: 5.0
+- country: US
+  region: MA
+  exchange: '075671'
+  name: ACUSHNET
+  full_name: Acushnet
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074130'
+  name: ADAMS
+  full_name: Adams
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.622868'
+  long: "-73.126033"
+  closest_city:
+    name: North Adams
+    distance_km: 6.89
+- country: US
+  region: MA
+  exchange: '301743'
+  name: ADAMSVILLE
+  full_name: Adamsville
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076273'
+  name: AGAWAM
+  full_name: Agawam
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301745'
+  name: ALFORD
+  full_name: Alford
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301918'
+  name: ALLERTON
+  full_name: Allerton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301919'
+  name: ALLSTON
+  full_name: Allston
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074140'
+  name: AMESBURY
+  full_name: Amesbury
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.853092'
+  long: "-70.935436"
+  closest_city:
+    name: Newburyport
+    distance_km: 5.96
+- country: US
+  region: MA
+  exchange: '074150'
+  name: AMHERST
+  full_name: Amherst
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.373948'
+  long: "-72.518119"
+  closest_city:
+    name: South Deerfield
+    distance_km: 13.31
+- country: US
+  region: MA
+  exchange: '074151'
+  name: AMHRSTFKLN
+  full_name: Amherst (Franklin County)
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.373948'
+  long: "-72.518119"
+  closest_city:
+    name: South Deerfield
+    distance_km: 13.31
+- country: US
+  region: MA
+  exchange: '074160'
+  name: ANDOVER
+  full_name: Andover
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.657701'
+  long: "-71.139799"
+  closest_city:
+    name: Lawrence
+    distance_km: 5.08
+- country: US
+  region: MA
+  exchange: '301922'
+  name: ANNISQUAM
+  full_name: Annisquam
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301923'
+  name: AQUINNAH
+  full_name: Aquinnah
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074170'
+  name: ARLINGTON
+  full_name: Arlington
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.415023'
+  long: "-71.155079"
+  closest_city:
+    name: Medford
+    distance_km: 3.92
+- country: US
+  region: MA
+  exchange: '074180'
+  name: ASHBURNHAM
+  full_name: Ashburnham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.632383'
+  long: "-71.911827"
+  closest_city:
+    name: South Ashburnham
+    distance_km: 3.0
+- country: US
+  region: MA
+  exchange: '074190'
+  name: ASHBY
+  full_name: Ashby
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.678516'
+  long: "-71.821115"
+  closest_city:
+    name: Fitchburg
+    distance_km: 9.72
+- country: US
+  region: MA
+  exchange: '074200'
+  name: ASHFIELD
+  full_name: Ashfield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.527033'
+  long: "-72.795136"
+  closest_city:
+    name: Shelburne Falls
+    distance_km: 9.77
+- country: US
+  region: MA
+  exchange: '074912'
+  name: ASHLAND
+  full_name: Ashland
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301749'
+  name: ASHLEY FLS
+  full_name: Ashley Falls
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301928'
+  name: ASSINIPPI
+  full_name: Assinippi
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074210'
+  name: ASSONET
+  full_name: Assonet
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.796729'
+  long: "-71.069543"
+  closest_city:
+    name: Fall River
+    distance_km: 9.62
+- country: US
+  region: MA
+  exchange: '074220'
+  name: ATHOL
+  full_name: Athol
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.593255'
+  long: "-72.225067"
+  closest_city:
+    name: Baldwinville
+    distance_km: 12.18
+- country: US
+  region: MA
+  exchange: '074221'
+  name: ATHOLFKLN
+  full_name: Athol (Franklin County)
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.593255'
+  long: "-72.225067"
+  closest_city:
+    name: Baldwinville
+    distance_km: 12.18
+- country: US
+  region: MA
+  exchange: '074230'
+  name: ATTLEBORO
+  full_name: Attleboro
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.947655'
+  long: "-71.28328"
+  closest_city:
+    name: Attleboro
+    distance_km: 2.08
+- country: US
+  region: MA
+  exchange: '301932'
+  name: ATTLEBOFLS
+  full_name: Attleboro Falls
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074240'
+  name: AUBURN
+  full_name: Auburn
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.193214'
+  long: "-71.837352"
+  closest_city:
+    name: Worcester
+    distance_km: 8.93
+- country: US
+  region: MA
+  exchange: '301935'
+  name: AUBURNDALE
+  full_name: Auburndale
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301936'
+  name: AVON
+  full_name: Avon
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074250'
+  name: AYER
+  full_name: Ayer
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.561545'
+  long: "-71.591303"
+  closest_city:
+    name: Devens
+    distance_km: 2.74
+- country: US
+  region: MA
+  exchange: '301938'
+  name: BABSONPARK
+  full_name: Babson Park
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301939'
+  name: BAKERS IS
+  full_name: Bakers Island
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301940'
+  name: BALDWINVL
+  full_name: Baldwinville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301941'
+  name: BALLARDVAL
+  full_name: Ballardvale
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074260'
+  name: BARNSTABLE
+  full_name: Barnstable
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.702007'
+  long: "-70.301605"
+  closest_city:
+    name: Yarmouth Port
+    distance_km: 6.61
+- country: US
+  region: MA
+  exchange: '074270'
+  name: BARRE
+  full_name: Barre
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.419342'
+  long: "-72.105363"
+  closest_city:
+    name: Baldwinville
+    distance_km: 20.75
+- country: US
+  region: MA
+  exchange: '301944'
+  name: BARROWSVL
+  full_name: Barrowsville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074731'
+  name: BASS RIVER
+  full_name: Bass River
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301946'
+  name: BASS ROCKS
+  full_name: Bass Rocks
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301750'
+  name: BAY ST VLG
+  full_name: Bay State Village
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074280'
+  name: BECKET
+  full_name: Becket
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.328788'
+  long: "-73.085226"
+  closest_city:
+    name: Lenox Dale
+    distance_km: 13.52
+- country: US
+  region: MA
+  exchange: '075321'
+  name: BEDFORD
+  full_name: Bedford
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074290'
+  name: BELCHERTN
+  full_name: Belchertown
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.27757'
+  long: "-72.401238"
+  closest_city:
+    name: West Warren
+    distance_km: 15.14
+- country: US
+  region: MA
+  exchange: '074300'
+  name: BELLINGHAM
+  full_name: Bellingham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.113098'
+  long: "-71.473681"
+  closest_city:
+    name: Millis-Clicquot
+    distance_km: 11.39
+- country: US
+  region: MA
+  exchange: '074310'
+  name: BELMONT
+  full_name: Belmont
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.397425'
+  long: "-71.174716"
+  closest_city:
+    name: Watertown Town
+    distance_km: 3.06
+- country: US
+  region: MA
+  exchange: '301950'
+  name: BERKLEY
+  full_name: Berkley
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301753'
+  name: BERKSHIRE
+  full_name: Berkshire
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074320'
+  name: BERLIN
+  full_name: Berlin
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.383827'
+  long: "-71.636242"
+  closest_city:
+    name: South Lancaster
+    distance_km: 7.5
+- country: US
+  region: MA
+  exchange: '074330'
+  name: BERNARDSTN
+  full_name: Bernardston
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.671565'
+  long: "-72.552352"
+  closest_city:
+    name: Turners Falls
+    distance_km: 8.25
+- country: US
+  region: MA
+  exchange: '074340'
+  name: BEVERLY
+  full_name: Beverly
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.554801'
+  long: "-70.878002"
+  closest_city:
+    name: Beverly
+    distance_km: 1.94
+- country: US
+  region: MA
+  exchange: '301952'
+  name: BEVELYFRMS
+  full_name: Beverly Farms
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074350'
+  name: BILLERICA
+  full_name: Billerica
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.561335'
+  long: "-71.263757"
+  closest_city:
+    name: Pinehurst
+    distance_km: 3.95
+- country: US
+  region: MA
+  exchange: '074360'
+  name: BLACKSTONE
+  full_name: Blackstone
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.02461'
+  long: "-71.491659"
+  closest_city:
+    name: Whitinsville
+    distance_km: 17.72
+- country: US
+  region: MA
+  exchange: '074370'
+  name: BLANDFORD
+  full_name: Blandford
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.178769'
+  long: "-72.923218"
+  closest_city:
+    name: Westfield
+    distance_km: 14.49
+- country: US
+  region: MA
+  exchange: '074380'
+  name: BOLTON
+  full_name: Bolton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.43693'
+  long: "-71.617471"
+  closest_city:
+    name: South Lancaster
+    distance_km: 6.12
+- country: US
+  region: MA
+  exchange: '301756'
+  name: BONDSVILLE
+  full_name: Bondsville
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074390'
+  name: BOSTON
+  full_name: Boston
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.357889'
+  long: "-71.058993"
+  closest_city:
+    name: Chelsea
+    distance_km: 4.75
+- country: US
+  region: MA
+  exchange: '301958'
+  name: BOURNE
+  full_name: Bourne
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301959'
+  name: BOURNEDALE
+  full_name: Bournedale
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301960'
+  name: BOXBORO
+  full_name: Boxboro
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301961'
+  name: BOXBOROUGH
+  full_name: Boxborough
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301962'
+  name: BOXFORD
+  full_name: Boxford
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074400'
+  name: BOYLSTON
+  full_name: Boylston
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.342768'
+  long: "-71.744973"
+  closest_city:
+    name: Worcester
+    distance_km: 9.56
+- country: US
+  region: MA
+  exchange: '301964'
+  name: BRADFORD
+  full_name: Bradford
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074410'
+  name: BRAINTREE
+  full_name: Braintree
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.217425'
+  long: "-71.000185"
+  closest_city:
+    name: Quincy
+    distance_km: 3.99
+- country: US
+  region: MA
+  exchange: '301966'
+  name: BRANT ROCK
+  full_name: Brant Rock
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076272'
+  name: BRCKWDPARK
+  full_name: Breckwood Park
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074420'
+  name: BREWSTER
+  full_name: Brewster
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.762755'
+  long: "-70.073627"
+  closest_city:
+    name: East Harwich
+    distance_km: 6.91
+- country: US
+  region: MA
+  exchange: '074430'
+  name: BRIDGEWTR
+  full_name: Bridgewater
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.987308'
+  long: "-70.977579"
+  closest_city:
+    name: Raynham Center
+    distance_km: 8.14
+- country: US
+  region: MA
+  exchange: '074440'
+  name: BRIGHTON
+  full_name: Brighton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.347761'
+  long: "-71.150203"
+  closest_city:
+    name: Watertown Town
+    distance_km: 3.33
+- country: US
+  region: MA
+  exchange: '074450'
+  name: BRIMFIELD
+  full_name: Brimfield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.123367'
+  long: "-72.205218"
+  closest_city:
+    name: Fiskdale
+    distance_km: 7.94
+- country: US
+  region: MA
+  exchange: '074460'
+  name: BROCKTON
+  full_name: Brockton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.080946'
+  long: "-71.016708"
+  closest_city:
+    name: Brockton
+    distance_km: 0.63
+- country: US
+  region: MA
+  exchange: '301971'
+  name: BROOKFIELD
+  full_name: Brookfield
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074470'
+  name: BROOKLINE
+  full_name: Brookline
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.340521'
+  long: "-71.118341"
+  closest_city:
+    name: Boston
+    distance_km: 3.64
+- country: US
+  region: MA
+  exchange: '074480'
+  name: BRYANTVL
+  full_name: Bryantville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.042331'
+  long: "-70.844701"
+  closest_city:
+    name: North Pembroke
+    distance_km: 8.13
+- country: US
+  region: MA
+  exchange: '301758'
+  name: BUCKLAND
+  full_name: Buckland
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074490'
+  name: BURLINGTON
+  full_name: Burlington
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.502269'
+  long: "-71.193639"
+  closest_city:
+    name: Woburn
+    distance_km: 3.65
+- country: US
+  region: MA
+  exchange: '074500'
+  name: BUZZARDSBY
+  full_name: Buzzards Bay
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.751072'
+  long: "-70.604666"
+  closest_city:
+    name: Buzzards Bay
+    distance_km: 0.8
+- country: US
+  region: MA
+  exchange: '301976'
+  name: BYFIELD
+  full_name: Byfield
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074510'
+  name: CAMBRIDGE
+  full_name: Cambridge
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.373054'
+  long: "-71.113997"
+  closest_city:
+    name: Cambridge
+    distance_km: 0.49
+- country: US
+  region: MA
+  exchange: '301978'
+  name: CAMPELLO
+  full_name: Campello
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074520'
+  name: CANTON
+  full_name: Canton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.158056'
+  long: "-71.145957"
+  closest_city:
+    name: Brockton
+    distance_km: 13.12
+- country: US
+  region: MA
+  exchange: '301980'
+  name: CARLISLE
+  full_name: Carlisle
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074530'
+  name: CARVER
+  full_name: Carver
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.883984'
+  long: "-70.766527"
+  closest_city:
+    name: West Wareham
+    distance_km: 10.49
+- country: US
+  region: MA
+  exchange: '301982'
+  name: CARYVILLE
+  full_name: Caryville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074540'
+  name: CATAUMET
+  full_name: Cataumet
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.66696'
+  long: "-70.611036"
+  closest_city:
+    name: Pocasset
+    distance_km: 2.41
+- country: US
+  region: MA
+  exchange: '301984'
+  name: CENTERVL
+  full_name: Centerville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074550'
+  name: CHARLEMONT
+  full_name: Charlemont
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.627078'
+  long: "-72.86923"
+  closest_city:
+    name: Shelburne Falls
+    distance_km: 10.54
+- country: US
+  region: MA
+  exchange: '074560'
+  name: CHARLESTN
+  full_name: Charlestown
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.377011'
+  long: "-71.061606"
+  closest_city:
+    name: Chelsea
+    distance_km: 3.18
+- country: US
+  region: MA
+  exchange: '074570'
+  name: CHARLTON
+  full_name: Charlton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.136979'
+  long: "-71.969718"
+  closest_city:
+    name: Fiskdale
+    distance_km: 11.58
+- country: US
+  region: MA
+  exchange: '301987'
+  name: CHARTLEY
+  full_name: Chartley
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074580'
+  name: CHATHAM
+  full_name: Chatham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.683466'
+  long: "-69.963605"
+  closest_city:
+    name: West Chatham
+    distance_km: 2.37
+- country: US
+  region: MA
+  exchange: '301989'
+  name: CHATHAMPT
+  full_name: Chatham Port
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075361'
+  name: CHELMSFORD
+  full_name: Chelmsford
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074590'
+  name: CHELSEA
+  full_name: Chelsea
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.395243'
+  long: "-71.033211"
+  closest_city:
+    name: Chelsea
+    distance_km: 0.09
+- country: US
+  region: MA
+  exchange: '301992'
+  name: CHERRY VLY
+  full_name: Cherry Valley
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301760'
+  name: CHESHIRE
+  full_name: Cheshire
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074600'
+  name: CHESTER
+  full_name: Chester
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.277551'
+  long: "-72.975009"
+  closest_city:
+    name: Lenox Dale
+    distance_km: 23.43
+- country: US
+  region: MA
+  exchange: '074610'
+  name: CHESTERFLD
+  full_name: Chesterfield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.390391'
+  long: "-72.839086"
+  closest_city:
+    name: Northampton
+    distance_km: 15.27
+- country: US
+  region: MA
+  exchange: '301993'
+  name: CHESTNUTHI
+  full_name: Chestnut Hill
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074620'
+  name: CHICOPEE
+  full_name: Chicopee
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.147108'
+  long: "-72.596366"
+  closest_city:
+    name: Chicopee
+    distance_km: 3.83
+- country: US
+  region: MA
+  exchange: '074630'
+  name: CHILMARK
+  full_name: Chilmark
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.341896'
+  long: "-70.741622"
+  closest_city:
+    name: Vineyard Haven
+    distance_km: 17.04
+- country: US
+  region: MA
+  exchange: '301764'
+  name: CLARKSBURG
+  full_name: Clarksburg
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301995'
+  name: CLIFTONDL
+  full_name: Cliftondale
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074640'
+  name: CLINTON
+  full_name: Clinton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.415724'
+  long: "-71.680645"
+  closest_city:
+    name: South Lancaster
+    distance_km: 2.57
+- country: US
+  region: MA
+  exchange: '301997'
+  name: COCHESETT
+  full_name: Cochesett
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301998'
+  name: COCHITUATE
+  full_name: Cochituate
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074650'
+  name: COHASSET
+  full_name: Cohasset
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.241542'
+  long: "-70.80543"
+  closest_city:
+    name: North Scituate
+    distance_km: 4.66
+- country: US
+  region: MA
+  exchange: '302000'
+  name: COLLINSVL
+  full_name: Collinsville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074660'
+  name: COLRAIN
+  full_name: Colrain
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.671134'
+  long: "-72.703265"
+  closest_city:
+    name: Shelburne Falls
+    distance_km: 7.93
+- country: US
+  region: MA
+  exchange: '074670'
+  name: CONCORD
+  full_name: Concord
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.458295'
+  long: "-71.346597"
+  closest_city:
+    name: West Concord
+    distance_km: 4.73
+- country: US
+  region: MA
+  exchange: '074680'
+  name: CONWAY
+  full_name: Conway
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.512978'
+  long: "-72.699797"
+  closest_city:
+    name: South Deerfield
+    distance_km: 9.39
+- country: US
+  region: MA
+  exchange: '302002'
+  name: CORDAVILLE
+  full_name: Cordaville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302003'
+  name: COTUIT
+  full_name: Cotuit
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302004'
+  name: CRAIGVILLE
+  full_name: Craigville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302005'
+  name: CUMMAQUID
+  full_name: Cummaquid
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074690'
+  name: CUMMINGTON
+  full_name: Cummington
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.460122'
+  long: "-72.890428"
+  closest_city:
+    name: Shelburne Falls
+    distance_km: 20.22
+- country: US
+  region: MA
+  exchange: '301768'
+  name: CUSHMAN
+  full_name: Cushman
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075672'
+  name: CUTTY HUNK (COAST GUARD STATION)
+  full_name: Cutty Hunk (Coast Guard Station)
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074700'
+  name: DALTON
+  full_name: Dalton
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.476072'
+  long: "-73.172131"
+  closest_city:
+    name: Pittsfield
+    distance_km: 7.74
+- country: US
+  region: MA
+  exchange: '074710'
+  name: DANVERS
+  full_name: Danvers
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.563692'
+  long: "-70.932265"
+  closest_city:
+    name: Peabody
+    distance_km: 4.7
+- country: US
+  region: MA
+  exchange: '302007'
+  name: DARTMOUTH
+  full_name: Dartmouth
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074720'
+  name: DEDHAM
+  full_name: Dedham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.245961'
+  long: "-71.175756"
+  closest_city:
+    name: Newton
+    distance_km: 9.9
+- country: US
+  region: MA
+  exchange: '302009'
+  name: DEERISLAND
+  full_name: Deer Island
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301770'
+  name: DEERFIELD
+  full_name: Deerfield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074730'
+  name: DENNIS
+  full_name: Dennis
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.668126'
+  long: "-70.188337"
+  closest_city:
+    name: South Yarmouth
+    distance_km: 1.02
+- country: US
+  region: MA
+  exchange: '302011'
+  name: DENNISPORT
+  full_name: Dennisport
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302012'
+  name: DEVENS
+  full_name: Devens
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074740'
+  name: DIGHTON
+  full_name: Dighton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.814698'
+  long: "-71.128881"
+  closest_city:
+    name: Taunton
+    distance_km: 10.29
+- country: US
+  region: MA
+  exchange: '302014'
+  name: DODGEVILLE
+  full_name: Dodgeville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074750'
+  name: DORCHESTER
+  full_name: Dorchester
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.302722'
+  long: "-71.064669"
+  closest_city:
+    name: Boston
+    distance_km: 2.46
+- country: US
+  region: MA
+  exchange: '302016'
+  name: DORCHT CTR
+  full_name: Dorchester Center
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302017'
+  name: DOUGLAS
+  full_name: Douglas
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074760'
+  name: DOVER
+  full_name: Dover
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.24427'
+  long: "-71.281189"
+  closest_city:
+    name: Millis-Clicquot
+    distance_km: 10.7
+- country: US
+  region: MA
+  exchange: '075362'
+  name: DRACUT
+  full_name: Dracut
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301771'
+  name: DRURY
+  full_name: Drury
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302020'
+  name: DUDLEY
+  full_name: Dudley
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302021'
+  name: DUDLEY HL
+  full_name: Dudley Hill
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302022'
+  name: DUNSTABLE
+  full_name: Dunstable
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074770'
+  name: DUXBURY
+  full_name: Duxbury
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.025465'
+  long: "-70.680178"
+  closest_city:
+    name: South Duxbury
+    distance_km: 1.08
+- country: US
+  region: MA
+  exchange: '301772'
+  name: DWIGHT
+  full_name: Dwight
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302042'
+  name: EAST ACTON
+  full_name: East Acton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302024'
+  name: E ARLINGTN
+  full_name: East Arlington
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074780'
+  name: EASTBOSTON
+  full_name: East Boston
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.375465'
+  long: "-71.03934"
+  closest_city:
+    name: Chelsea
+    distance_km: 2.34
+- country: US
+  region: MA
+  exchange: '302025'
+  name: E BOXFORD
+  full_name: East Boxford
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302026'
+  name: E BREWSTER
+  full_name: East Brewster
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074790'
+  name: EBRIDGEWTR
+  full_name: East Bridgewater
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.027516'
+  long: "-70.956751"
+  closest_city:
+    name: Brockton
+    distance_km: 8.24
+- country: US
+  region: MA
+  exchange: '302027'
+  name: E BROOKFLD
+  full_name: East Brookfield
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302028'
+  name: E CAMBRDG
+  full_name: East Cambridge
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301775'
+  name: ECHARLEMNT
+  full_name: East Charlemont
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301776'
+  name: EDEERFIELD
+  full_name: East Deerfield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302045'
+  name: EASTDENNIS
+  full_name: East Dennis
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074800'
+  name: E DOUGLAS
+  full_name: East Douglas
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.071474'
+  long: "-71.709298"
+  closest_city:
+    name: East Douglas
+    distance_km: 0.75
+- country: US
+  region: MA
+  exchange: '302030'
+  name: E FALMOUTH
+  full_name: East Falmouth
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302031'
+  name: E FOXBORO
+  full_name: East Foxboro
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302032'
+  name: E FREETOWN
+  full_name: East Freetown
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302033'
+  name: E HARWICH
+  full_name: East Harwich
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302053'
+  name: EHOLLISTON
+  full_name: East Holliston
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302054'
+  name: ELEXINGTON
+  full_name: East Lexington
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074810'
+  name: ELONGMEDOW
+  full_name: East Longmeadow
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.064067'
+  long: "-72.512575"
+  closest_city:
+    name: Springfield
+    distance_km: 6.14
+- country: US
+  region: MA
+  exchange: '302043'
+  name: EAST LYNN
+  full_name: East Lynn
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302057'
+  name: EMANSFIELD
+  full_name: East Mansfield
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302034'
+  name: E MILLBURY
+  full_name: East Millbury
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302047'
+  name: EASTMILTON
+  full_name: East Milton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302035'
+  name: E ORLEANS
+  full_name: East Orleans
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301773'
+  name: EAST OTIS
+  full_name: East Otis
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302036'
+  name: E PEMBROKE
+  full_name: East Pembroke
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302058'
+  name: EPEPPERELL
+  full_name: East Pepperell
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302059'
+  name: EPRINCETON
+  full_name: East Princeton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302037'
+  name: E SANDWICH
+  full_name: East Sandwich
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302038'
+  name: E TAUNTON
+  full_name: East Taunton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302061'
+  name: ETEMPLETON
+  full_name: East Templeton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302039'
+  name: E WALPOLE
+  full_name: East Walpole
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302040'
+  name: E WAREHAM
+  full_name: East Wareham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302063'
+  name: EWATERTOWN
+  full_name: East Watertown
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302041'
+  name: E WEYMOUTH
+  full_name: East Weymouth
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302046'
+  name: EASTHAM
+  full_name: Eastham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074820'
+  name: EASTHAMPTN
+  full_name: Easthampton
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.269927'
+  long: "-72.66917"
+  closest_city:
+    name: Northampton
+    distance_km: 6.32
+- country: US
+  region: MA
+  exchange: '074830'
+  name: EASTON
+  full_name: Easton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.06796'
+  long: "-71.102726"
+  closest_city:
+    name: Brockton
+    distance_km: 6.67
+- country: US
+  region: MA
+  exchange: '302049'
+  name: EASTONDALE
+  full_name: Eastondale
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074840'
+  name: EDGARTOWN
+  full_name: Edgartown
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.390961'
+  long: "-70.513783"
+  closest_city:
+    name: Oak Bluffs
+    distance_km: 8.34
+- country: US
+  region: MA
+  exchange: '301777'
+  name: EGREMONT
+  full_name: Egremont
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302052'
+  name: EGYPT
+  full_name: Egypt
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302055'
+  name: ELLISVILLE
+  full_name: Ellisville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302056'
+  name: ELMWOOD
+  full_name: Elmwood
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301779'
+  name: ERVING
+  full_name: Erving
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074850'
+  name: ESSEX
+  full_name: Essex
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.632549'
+  long: "-70.782084"
+  closest_city:
+    name: Gloucester
+    distance_km: 7.59
+- country: US
+  region: MA
+  exchange: '074860'
+  name: EVERETT
+  full_name: Everett
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.40668'
+  long: "-71.052421"
+  closest_city:
+    name: Everett
+    distance_km: 0.17
+- country: US
+  region: MA
+  exchange: '302064'
+  name: FAIRHAVEN
+  full_name: Fairhaven
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074870'
+  name: FALL RIVER
+  full_name: Fall River
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.706503'
+  long: "-71.153069"
+  closest_city:
+    name: Fall River
+    distance_km: 4.35
+- country: US
+  region: MA
+  exchange: '074880'
+  name: FALMOUTH
+  full_name: Falmouth
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.55098'
+  long: "-70.613132"
+  closest_city:
+    name: Teaticket
+    distance_km: 2.6
+- country: US
+  region: MA
+  exchange: '301780'
+  name: FARNAMS
+  full_name: Farnams
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302067'
+  name: FARNUMSVL
+  full_name: Farnumsville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302068'
+  name: FAYVILLE
+  full_name: Fayville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301781'
+  name: FEEDINGHLS
+  full_name: Feeding Hills
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302069'
+  name: FISHERVL
+  full_name: Fisherville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302070'
+  name: FISKDALE
+  full_name: Fiskdale
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074890'
+  name: FITCHBURG
+  full_name: Fitchburg
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.582888'
+  long: "-71.806975"
+  closest_city:
+    name: Fitchburg
+    distance_km: 1.16
+- country: US
+  region: MA
+  exchange: '301782'
+  name: FLORENCE
+  full_name: Florence
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301783'
+  name: FLORIDA
+  full_name: Florida
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302072'
+  name: FOREST HLS
+  full_name: Forest Hills
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302073'
+  name: FORESTDALE
+  full_name: Forestdale
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302074'
+  name: FORGE VLG
+  full_name: Forge Village
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302075'
+  name: FORTDEVENS
+  full_name: Fort Devens
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074900'
+  name: FOXBORO
+  full_name: Foxboro
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.062937'
+  long: "-71.251294"
+  closest_city:
+    name: Mansfield Center
+    distance_km: 5.27
+- country: US
+  region: MA
+  exchange: '074910'
+  name: FRAMINGHAM
+  full_name: Framingham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.281516'
+  long: "-71.423011"
+  closest_city:
+    name: Framingham
+    distance_km: 3.21
+- country: US
+  region: MA
+  exchange: '074920'
+  name: FRANKLIN
+  full_name: Franklin
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.086746'
+  long: "-71.399596"
+  closest_city:
+    name: Millis-Clicquot
+    distance_km: 9.45
+- country: US
+  region: MA
+  exchange: '302079'
+  name: FREETOWN
+  full_name: Freetown
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074930'
+  name: GARDNER
+  full_name: Gardner
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.576967'
+  long: "-71.996575"
+  closest_city:
+    name: Gardner
+    distance_km: 1.16
+- country: US
+  region: MA
+  exchange: '302081'
+  name: GAY HEAD
+  full_name: Gay Head
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074940'
+  name: GEORGETOWN
+  full_name: Georgetown
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.723321'
+  long: "-70.993549"
+  closest_city:
+    name: Haverhill
+    distance_km: 10.18
+- country: US
+  region: MA
+  exchange: '074950'
+  name: GILBERTVL
+  full_name: Gilbertville
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.310497'
+  long: "-72.207836"
+  closest_city:
+    name: West Warren
+    distance_km: 10.68
+- country: US
+  region: MA
+  exchange: '301785'
+  name: GILL
+  full_name: Gill
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302083'
+  name: GLEASONDL
+  full_name: Gleasondale
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301786'
+  name: GLENDALE
+  full_name: Glendale
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074960'
+  name: GLOUCESTER
+  full_name: Gloucester
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.612341'
+  long: "-70.659935"
+  closest_city:
+    name: Gloucester
+    distance_km: 2.87
+- country: US
+  region: MA
+  exchange: '301787'
+  name: GOSHEN
+  full_name: Goshen
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302085'
+  name: GOSNOLD
+  full_name: Gosnold
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074970'
+  name: GRAFTON
+  full_name: Grafton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.208898'
+  long: "-71.68558"
+  closest_city:
+    name: Whitinsville
+    distance_km: 10.58
+- country: US
+  region: MA
+  exchange: '074980'
+  name: GRANBY
+  full_name: Granby
+  lata: '126'
+  ilec_name: GRANBY TELEPHONE LLC
+  lat: '42.257648'
+  long: "-72.517178"
+  closest_city:
+    name: Chicopee
+    distance_km: 10.1
+- country: US
+  region: MA
+  exchange: '302087'
+  name: GRANITEVL
+  full_name: Graniteville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074990'
+  name: GRANVILLE
+  full_name: Granville
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.068027'
+  long: "-72.860753"
+  closest_city:
+    name: Westfield
+    distance_km: 11.64
+- country: US
+  region: MA
+  exchange: '075000'
+  name: GREATBNGTN
+  full_name: Great Barrington
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.192306'
+  long: "-73.362135"
+  closest_city:
+    name: Housatonic
+    distance_km: 6.27
+- country: US
+  region: MA
+  exchange: '302088'
+  name: GREEN HBR
+  full_name: Green Harbor
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302089'
+  name: GREENBUSH
+  full_name: Greenbush
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076731'
+  name: GREENDALE
+  full_name: Greendale
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075010'
+  name: GREENFIELD
+  full_name: Greenfield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.589655'
+  long: "-72.601366"
+  closest_city:
+    name: Turners Falls
+    distance_km: 3.71
+- country: US
+  region: MA
+  exchange: '302090'
+  name: GREENWOOD
+  full_name: Greenwood
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301792'
+  name: GRISWOLDVL
+  full_name: Griswoldville
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075020'
+  name: GROTON
+  full_name: Groton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.608255'
+  long: "-71.571472"
+  closest_city:
+    name: East Pepperell
+    distance_km: 6.39
+- country: US
+  region: MA
+  exchange: '302092'
+  name: GROVE HALL
+  full_name: Grove Hall
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302093'
+  name: GROVELAND
+  full_name: Groveland
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301793'
+  name: HADLEY
+  full_name: Hadley
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302094'
+  name: HALIFAX
+  full_name: Halifax
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075030'
+  name: HAMILTON
+  full_name: Hamilton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.609938'
+  long: "-70.872062"
+  closest_city:
+    name: Beverly
+    distance_km: 4.71
+- country: US
+  region: MA
+  exchange: '075040'
+  name: HAMPDEN
+  full_name: Hampden
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.066164'
+  long: "-72.416161"
+  closest_city:
+    name: Monson Center
+    distance_km: 9.89
+- country: US
+  region: MA
+  exchange: '075050'
+  name: HANCOCK
+  full_name: Hancock
+  lata: '134'
+  ilec_name: TACONIC TEL. CORP.
+  lat: '42.542969'
+  long: "-73.321007"
+  closest_city:
+    name: Pittsfield
+    distance_km: 11.3
+- country: US
+  region: MA
+  exchange: '075060'
+  name: HANOVER
+  full_name: Hanover
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.112149'
+  long: "-70.814552"
+  closest_city:
+    name: North Pembroke
+    distance_km: 3.04
+- country: US
+  region: MA
+  exchange: '302097'
+  name: HANSCM AFB
+  full_name: Hanscom AFB
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302098'
+  name: HANSON
+  full_name: Hanson
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302099'
+  name: HARDING
+  full_name: Harding
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301795'
+  name: HARDWICK
+  full_name: Hardwick
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301796'
+  name: HARTSVILLE
+  full_name: Hartsville
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075070'
+  name: HARVARD
+  full_name: Harvard
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.500634'
+  long: "-71.586922"
+  closest_city:
+    name: Devens
+    distance_km: 5.32
+- country: US
+  region: MA
+  exchange: '075080'
+  name: HARWICH
+  full_name: Harwich
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.685706'
+  long: "-70.072844"
+  closest_city:
+    name: Harwich Center
+    distance_km: 0.79
+- country: US
+  region: MA
+  exchange: '302102'
+  name: HARWICH PT
+  full_name: Harwich Port
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302103'
+  name: HATCHVILLE
+  full_name: Hatchville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075090'
+  name: HATFIELD
+  full_name: Hatfield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.37616'
+  long: "-72.602445"
+  closest_city:
+    name: Northampton
+    distance_km: 8.09
+- country: US
+  region: MA
+  exchange: '302104'
+  name: HATHORNE
+  full_name: Hathorne
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075100'
+  name: HAVERHILL
+  full_name: Haverhill
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.778347'
+  long: "-71.076408"
+  closest_city:
+    name: Haverhill
+    distance_km: 1.06
+- country: US
+  region: MA
+  exchange: '301798'
+  name: HAWLEY
+  full_name: Hawley
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301799'
+  name: HAYDENVL
+  full_name: Haydenville
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301800'
+  name: HEATH
+  full_name: Heath
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075110'
+  name: HINGHAM
+  full_name: Hingham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.245644'
+  long: "-70.88079"
+  closest_city:
+    name: North Scituate
+    distance_km: 10.22
+- country: US
+  region: MA
+  exchange: '075120'
+  name: HINSDALE
+  full_name: Hinsdale
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.438315'
+  long: "-73.125866"
+  closest_city:
+    name: Pittsfield
+    distance_km: 11.15
+- country: US
+  region: MA
+  exchange: '302107'
+  name: HOLBROOK
+  full_name: Holbrook
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075130'
+  name: HOLDEN
+  full_name: Holden
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.346217'
+  long: "-71.860221"
+  closest_city:
+    name: Worcester
+    distance_km: 9.45
+- country: US
+  region: MA
+  exchange: '301802'
+  name: HOLLAND
+  full_name: Holland
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075140'
+  name: HOLLISTON
+  full_name: Holliston
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.200114'
+  long: "-71.433397"
+  closest_city:
+    name: Millis-Clicquot
+    distance_km: 7.6
+- country: US
+  region: MA
+  exchange: '075150'
+  name: HOLYOKE
+  full_name: Holyoke
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.203707'
+  long: "-72.61433"
+  closest_city:
+    name: Holyoke
+    distance_km: 2.41
+- country: US
+  region: MA
+  exchange: '302110'
+  name: HOPEDALE
+  full_name: Hopedale
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075160'
+  name: HOPKINTON
+  full_name: Hopkinton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.228602'
+  long: "-71.521133"
+  closest_city:
+    name: Cordaville
+    distance_km: 4.9
+- country: US
+  region: MA
+  exchange: '302112'
+  name: HOUGHSNECK
+  full_name: Houghs Neck
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075170'
+  name: HOUSATONIC
+  full_name: Housatonic
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.253287'
+  long: "-73.368307"
+  closest_city:
+    name: Housatonic
+    distance_km: 0.69
+- country: US
+  region: MA
+  exchange: '075180'
+  name: HUBBARDSTN
+  full_name: Hubbardston
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.479151'
+  long: "-72.00835"
+  closest_city:
+    name: Gardner
+    distance_km: 11.85
+- country: US
+  region: MA
+  exchange: '075190'
+  name: HUDSON
+  full_name: Hudson
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.392261'
+  long: "-71.571245"
+  closest_city:
+    name: Marlborough
+    distance_km: 5.17
+- country: US
+  region: MA
+  exchange: '075200'
+  name: HULL
+  full_name: Hull
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.281667'
+  long: "-70.872414"
+  closest_city:
+    name: North Scituate
+    distance_km: 11.74
+- country: US
+  region: MA
+  exchange: '302116'
+  name: HUMAROCK
+  full_name: Humarock
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075210'
+  name: HUNTINGTON
+  full_name: Huntington
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.234585'
+  long: "-72.879578"
+  closest_city:
+    name: Westfield
+    distance_km: 14.78
+- country: US
+  region: MA
+  exchange: '075220'
+  name: HYANNIS
+  full_name: Hyannis
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.651635'
+  long: "-70.28649"
+  closest_city:
+    name: West Yarmouth
+    distance_km: 3.15
+- country: US
+  region: MA
+  exchange: '302118'
+  name: HYANNIS PT
+  full_name: Hyannis Port
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075230'
+  name: HYDE PARK
+  full_name: Hyde Park
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.25633'
+  long: "-71.124358"
+  closest_city:
+    name: Boston
+    distance_km: 7.66
+- country: US
+  region: MA
+  exchange: '076271'
+  name: INDIANORCH
+  full_name: Indian Orchard
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301807'
+  name: INTERLAKEN
+  full_name: Interlaken
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075240'
+  name: IPSWICH
+  full_name: Ipswich
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.67336'
+  long: "-70.840609"
+  closest_city:
+    name: Beverly
+    distance_km: 11.84
+- country: US
+  region: MA
+  exchange: '302121'
+  name: ISLAND CRK
+  full_name: Island Creek
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302122'
+  name: ISLINGTON
+  full_name: Islington
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075250'
+  name: JAMAICA PL
+  full_name: Jamaica Plain
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.312169'
+  long: "-71.11003"
+  closest_city:
+    name: Boston
+    distance_km: 2.17
+- country: US
+  region: MA
+  exchange: '302124'
+  name: JEFFERSON
+  full_name: Jefferson
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302125'
+  name: KATES CRNR
+  full_name: Kates Corner
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075260'
+  name: KINGSTON
+  full_name: Kingston
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.993296'
+  long: "-70.724148"
+  closest_city:
+    name: North Plymouth
+    distance_km: 3.71
+- country: US
+  region: MA
+  exchange: '301816'
+  name: LKPLEASANT
+  full_name: Lake Pleasant
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302127'
+  name: LAKEVILLE
+  full_name: Lakeville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302128'
+  name: LANCASTER
+  full_name: Lancaster
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301808'
+  name: LANESBORO
+  full_name: Lanesboro
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302129'
+  name: LANESVILLE
+  full_name: Lanesville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075270'
+  name: LAWRENCE
+  full_name: Lawrence
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.707375'
+  long: "-71.164341"
+  closest_city:
+    name: Lawrence
+    distance_km: 0.81
+- country: US
+  region: MA
+  exchange: '075280'
+  name: LEE
+  full_name: Lee
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.306803'
+  long: "-73.249425"
+  closest_city:
+    name: Lenox Dale
+    distance_km: 3.01
+- country: US
+  region: MA
+  exchange: '301810'
+  name: LEEDS
+  full_name: Leeds
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075290'
+  name: LEICESTER
+  full_name: Leicester
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.241983'
+  long: "-71.910737"
+  closest_city:
+    name: Worcester
+    distance_km: 9.04
+- country: US
+  region: MA
+  exchange: '075300'
+  name: LENOX
+  full_name: Lenox
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.355317'
+  long: "-73.284285"
+  closest_city:
+    name: Lenox Dale
+    distance_km: 3.71
+- country: US
+  region: MA
+  exchange: '301812'
+  name: LENOX DALE
+  full_name: Lenox Dale
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075310'
+  name: LEOMINSTER
+  full_name: Leominster
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.528357'
+  long: "-71.763506"
+  closest_city:
+    name: Leominster
+    distance_km: 1.07
+- country: US
+  region: MA
+  exchange: '301813'
+  name: LEVERETT
+  full_name: Leverett
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075320'
+  name: LEXINGTON
+  full_name: Lexington
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.447934'
+  long: "-71.230289"
+  closest_city:
+    name: Hanscom AFB
+    distance_km: 4.18
+- country: US
+  region: MA
+  exchange: '301814'
+  name: LEYDEN
+  full_name: Leyden
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075330'
+  name: LINCOLN
+  full_name: Lincoln
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.422756'
+  long: "-71.306262"
+  closest_city:
+    name: Hanscom AFB
+    distance_km: 4.52
+- country: US
+  region: MA
+  exchange: '302135'
+  name: LINWOOD
+  full_name: Linwood
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301815'
+  name: LITHIA
+  full_name: Lithia
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075340'
+  name: LITTLETON
+  full_name: Littleton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.545038'
+  long: "-71.473859"
+  closest_city:
+    name: Littleton Common
+    distance_km: 1.1
+- country: US
+  region: MA
+  exchange: '302137'
+  name: LONGISLAND
+  full_name: Long Island
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075350'
+  name: LONGMEADOW
+  full_name: Longmeadow
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.057853'
+  long: "-72.581941"
+  closest_city:
+    name: Springfield
+    distance_km: 7.3
+- country: US
+  region: MA
+  exchange: '075360'
+  name: LOWELL
+  full_name: Lowell
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.641516'
+  long: "-71.310367"
+  closest_city:
+    name: Lowell
+    distance_km: 0.97
+- country: US
+  region: MA
+  exchange: '302139'
+  name: LOWELL JCT
+  full_name: Lowell Junction
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075370'
+  name: LUDLOW
+  full_name: Ludlow
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.160756'
+  long: "-72.479646"
+  closest_city:
+    name: Springfield
+    distance_km: 7.05
+- country: US
+  region: MA
+  exchange: '075380'
+  name: LUNENBURG
+  full_name: Lunenburg
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.592815'
+  long: "-71.724274"
+  closest_city:
+    name: Fitchburg
+    distance_km: 7.48
+- country: US
+  region: MA
+  exchange: '075390'
+  name: LYNN
+  full_name: Lynn
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.465497'
+  long: "-70.954435"
+  closest_city:
+    name: Lynn
+    distance_km: 1.71
+- country: US
+  region: MA
+  exchange: '075400'
+  name: LYNNFIELD
+  full_name: Lynnfield
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.538988'
+  long: "-71.048348"
+  closest_city:
+    name: Peabody
+    distance_km: 6.24
+- country: US
+  region: MA
+  exchange: '301819'
+  name: LYONSVILLE
+  full_name: Lyonsville
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302143'
+  name: MAGNOLIA
+  full_name: Magnolia
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075410'
+  name: MALDEN
+  full_name: Malden
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.427347'
+  long: "-71.077313"
+  closest_city:
+    name: Malden
+    distance_km: 1.66
+- country: US
+  region: MA
+  exchange: '302145'
+  name: MANCHAUG
+  full_name: Manchaug
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075420'
+  name: MANCHESTER
+  full_name: Manchester
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.575819'
+  long: "-70.765784"
+  closest_city:
+    name: Beverly
+    distance_km: 7.98
+- country: US
+  region: MA
+  exchange: '302178'
+  name: MNCHTR SEA
+  full_name: Manchester By The Sea
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075921'
+  name: MANOMET
+  full_name: Manomet
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075430'
+  name: MANSFIELD
+  full_name: Mansfield
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.030241'
+  long: "-71.215977"
+  closest_city:
+    name: Mansfield Center
+    distance_km: 0.88
+- country: US
+  region: MA
+  exchange: '075440'
+  name: MARBLEHEAD
+  full_name: Marblehead
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.49457'
+  long: "-70.865562"
+  closest_city:
+    name: Salem
+    distance_km: 3.62
+- country: US
+  region: MA
+  exchange: '075450'
+  name: MARION
+  full_name: Marion
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.700737'
+  long: "-70.763832"
+  closest_city:
+    name: Marion Center
+    distance_km: 0.39
+- country: US
+  region: MA
+  exchange: '075460'
+  name: MARLBORO
+  full_name: Marlboro
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.346189'
+  long: "-71.542519"
+  closest_city:
+    name: Marlborough
+    distance_km: 0.5
+- country: US
+  region: MA
+  exchange: '075470'
+  name: MARSHFIELD
+  full_name: Marshfield
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.102914'
+  long: "-70.721115"
+  closest_city:
+    name: Ocean Bluff-Brant Rock
+    distance_km: 4.83
+- country: US
+  region: MA
+  exchange: '302153'
+  name: MARSTONSML
+  full_name: Marstons Mills
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302183'
+  name: MRHSVNRDIS
+  full_name: Marthas Vineyard Island
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075841'
+  name: MASHPEE
+  full_name: Mashpee
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302155'
+  name: MATFIELD
+  full_name: Matfield
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302156'
+  name: MATTAPAN
+  full_name: Mattapan
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075480'
+  name: MATTAPOSTT
+  full_name: Mattapoisett
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.661488'
+  long: "-70.815254"
+  closest_city:
+    name: Mattapoisett Center
+    distance_km: 0.98
+- country: US
+  region: MA
+  exchange: '075490'
+  name: MAYNARD
+  full_name: Maynard
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.433823'
+  long: "-71.453569"
+  closest_city:
+    name: West Concord
+    distance_km: 4.56
+- country: US
+  region: MA
+  exchange: '075500'
+  name: MEDFIELD
+  full_name: Medfield
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.187716'
+  long: "-71.304032"
+  closest_city:
+    name: Millis-Clicquot
+    distance_km: 4.87
+- country: US
+  region: MA
+  exchange: '075510'
+  name: MEDFORD
+  full_name: Medford
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.418335'
+  long: "-71.111393"
+  closest_city:
+    name: Medford
+    distance_km: 0.61
+- country: US
+  region: MA
+  exchange: '075520'
+  name: MEDWAY
+  full_name: Medway
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.139899'
+  long: "-71.420382"
+  closest_city:
+    name: Millis-Clicquot
+    distance_km: 6.1
+- country: US
+  region: MA
+  exchange: '302162'
+  name: MEGANSETT
+  full_name: Megansett
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075530'
+  name: MELROSE
+  full_name: Melrose
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.457017'
+  long: "-71.068119"
+  closest_city:
+    name: Melrose
+    distance_km: 0.76
+- country: US
+  region: MA
+  exchange: '302164'
+  name: MENDON
+  full_name: Mendon
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302165'
+  name: MENEMSHA
+  full_name: Menemsha
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075540'
+  name: MERRIMAC
+  full_name: Merrimac
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.832328'
+  long: "-70.99931"
+  closest_city:
+    name: Haverhill
+    distance_km: 8.97
+- country: US
+  region: MA
+  exchange: '302167'
+  name: METHUEN
+  full_name: Methuen
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075550'
+  name: MIDDLEBORO
+  full_name: Middleboro
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.892764'
+  long: "-70.907755"
+  closest_city:
+    name: Middleborough Center
+    distance_km: 1.52
+- country: US
+  region: MA
+  exchange: '301820'
+  name: MIDDLEFLD
+  full_name: Middlefield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302169'
+  name: MIDDLETON
+  full_name: Middleton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075560'
+  name: MILFORD
+  full_name: Milford
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.137964'
+  long: "-71.525629"
+  closest_city:
+    name: Whitinsville
+    distance_km: 12.09
+- country: US
+  region: MA
+  exchange: '301821'
+  name: MILL RIVER
+  full_name: Mill River
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302171'
+  name: MILLBROOK
+  full_name: Millbrook
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075570'
+  name: MILLBURY
+  full_name: Millbury
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.189747'
+  long: "-71.761995"
+  closest_city:
+    name: Worcester
+    distance_km: 9.74
+- country: US
+  region: MA
+  exchange: '075580'
+  name: MILLERSFLS
+  full_name: Millers Falls
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.579771'
+  long: "-72.49337"
+  closest_city:
+    name: Millers Falls
+    distance_km: 0.1
+- country: US
+  region: MA
+  exchange: '075590'
+  name: MILLIS
+  full_name: Millis
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.167353'
+  long: "-71.358334"
+  closest_city:
+    name: Millis-Clicquot
+    distance_km: 0.43
+- country: US
+  region: MA
+  exchange: '302174'
+  name: MILLVILLE
+  full_name: Millville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075600'
+  name: MILTON
+  full_name: Milton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.270192'
+  long: "-71.069021"
+  closest_city:
+    name: Quincy
+    distance_km: 4.68
+- country: US
+  region: MA
+  exchange: '302176'
+  name: MINOT
+  full_name: Minot
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302177'
+  name: MISSION HL
+  full_name: Mission Hill
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302179'
+  name: MONPONSETT
+  full_name: Monponsett
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075610'
+  name: MONROE BDG
+  full_name: Monroe Bridge
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.719499'
+  long: "-72.991161"
+  closest_city:
+    name: North Adams
+    distance_km: 10.97
+- country: US
+  region: MA
+  exchange: '075620'
+  name: MONSON
+  full_name: Monson
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.103623'
+  long: "-72.320923"
+  closest_city:
+    name: Monson Center
+    distance_km: 1.43
+- country: US
+  region: MA
+  exchange: '075630'
+  name: MONTAGUE
+  full_name: Montague
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.534106'
+  long: "-72.534849"
+  closest_city:
+    name: Millers Falls
+    distance_km: 6.1
+- country: US
+  region: MA
+  exchange: '301826'
+  name: MONTAGUECY
+  full_name: Montague City
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302180'
+  name: MONTELLO
+  full_name: Montello
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301827'
+  name: MONTEREY
+  full_name: Monterey
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301828'
+  name: MONTGOMERY
+  full_name: Montgomery
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302181'
+  name: MONTSERRAT
+  full_name: Montserrat
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301829'
+  name: MONTVILLE
+  full_name: Montville
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302182'
+  name: MORNINGDL
+  full_name: Morningdale
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301831'
+  name: MT HERMON
+  full_name: Mount Hermon
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301830'
+  name: MOUNT TOM
+  full_name: Mount Tom
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301832'
+  name: MTWASHIGTN
+  full_name: Mount Washington
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302187'
+  name: NABNASSET
+  full_name: Nabnasset
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302188'
+  name: NAHANT
+  full_name: Nahant
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302189'
+  name: NANTAKTBCH
+  full_name: Nantasket Beach
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075640'
+  name: NANTUCKET
+  full_name: Nantucket
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.282434'
+  long: "-70.096537"
+  closest_city:
+    name: Madaket
+    distance_km: 7.43
+- country: US
+  region: MA
+  exchange: '075650'
+  name: NATICK
+  full_name: Natick
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.284822'
+  long: "-71.339761"
+  closest_city:
+    name: Cochituate
+    distance_km: 5.13
+- country: US
+  region: MA
+  exchange: '074881'
+  name: NAUSHON IS
+  full_name: Naushon Island
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075660'
+  name: NEEDHAM
+  full_name: Needham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.280187'
+  long: "-71.233371"
+  closest_city:
+    name: Newton
+    distance_km: 6.07
+- country: US
+  region: MA
+  exchange: '302194'
+  name: NEEDHAM HT
+  full_name: Needham Heights
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301836'
+  name: NEWASHFORD
+  full_name: New Ashford
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075670'
+  name: NEWBEDFORD
+  full_name: New Bedford
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.63389'
+  long: "-70.924868"
+  closest_city:
+    name: Bliss Corner
+    distance_km: 3.49
+- country: US
+  region: MA
+  exchange: '301833'
+  name: NEW BOSTON
+  full_name: New Boston
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302197'
+  name: NEWBRAINTR
+  full_name: New Braintree
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301834'
+  name: NEW MARLBO
+  full_name: New Marlboro
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301835'
+  name: NEW MRLBO
+  full_name: New Marlborough
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302195'
+  name: NEW SALEM
+  full_name: New Salem
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302198'
+  name: NEWBURY
+  full_name: Newbury
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075680'
+  name: NEWBURYPT
+  full_name: Newburyport
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.809442'
+  long: "-70.8719"
+  closest_city:
+    name: Newburyport
+    distance_km: 1.34
+- country: US
+  region: MA
+  exchange: '075690'
+  name: NEWTON
+  full_name: Newton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.352987'
+  long: "-71.208256"
+  closest_city:
+    name: Newton
+    distance_km: 2.38
+- country: US
+  region: MA
+  exchange: '302202'
+  name: NEWTON CTR
+  full_name: Newton Center
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302203'
+  name: NEWTONHLDS
+  full_name: Newton Highlands
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302246'
+  name: NWTNLOWFLS
+  full_name: Newton Lower Falls
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302200'
+  name: NEWTNUPFLS
+  full_name: Newton Upper Falls
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302204'
+  name: NEWTONVL
+  full_name: Newtonville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302230'
+  name: NONANTUM
+  full_name: Nonantum
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302231'
+  name: NONQUITT
+  full_name: Nonquitt
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302234'
+  name: NORFOLK
+  full_name: Norfolk
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302223'
+  name: NOABINGTON
+  full_name: North Abington
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075700'
+  name: NORTHADAMS
+  full_name: North Adams
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.695438'
+  long: "-73.111615"
+  closest_city:
+    name: North Adams
+    distance_km: 1.29
+- country: US
+  region: MA
+  exchange: '301838'
+  name: NO AGAWAM
+  full_name: North Agawam
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301839'
+  name: NO AMHERST
+  full_name: North Amherst
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075271'
+  name: NO ANDOVER
+  full_name: North Andover
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075710'
+  name: NO ATTLEBO
+  full_name: North Attleboro
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.982492'
+  long: "-71.332064"
+  closest_city:
+    name: Attleboro
+    distance_km: 6.48
+- country: US
+  region: MA
+  exchange: '302224'
+  name: NOBILLERIC
+  full_name: North Billerica
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075720'
+  name: NOBROOKFLD
+  full_name: North Brookfield
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.266333'
+  long: "-72.081932"
+  closest_city:
+    name: West Warren
+    distance_km: 13.87
+- country: US
+  region: MA
+  exchange: '302207'
+  name: NO CAMBDG
+  full_name: North Cambridge
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302208'
+  name: NO CARVER
+  full_name: North Carver
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302209'
+  name: NO CHATHAM
+  full_name: North Chatham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075363'
+  name: NOCHELMSFD
+  full_name: North Chelmsford
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301840'
+  name: NO CHESTER
+  full_name: North Chester
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302227'
+  name: NOCOHASSET
+  full_name: North Cohasset
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302210'
+  name: NO DARTMTH
+  full_name: North Dartmouth
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302211'
+  name: NO DIGHTON
+  full_name: North Dighton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302212'
+  name: NO EASTHAM
+  full_name: North Eastham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302213'
+  name: NO EASTON
+  full_name: North Easton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301842'
+  name: NOEGREMONT
+  full_name: North Egremont
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302228'
+  name: NOFALMOUTH
+  full_name: North Falmouth
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '074911'
+  name: NO FRMNGHM
+  full_name: North Framingham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302184'
+  name: N GRAFTON
+  full_name: North Grafton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301841'
+  name: NO HADLEY
+  full_name: North Hadley
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302214'
+  name: NO HANOVER
+  full_name: North Hanover
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302215'
+  name: NO HANSON
+  full_name: North Hanson
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302216'
+  name: NO HARWICH
+  full_name: North Harwich
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301843'
+  name: NOHATFIELD
+  full_name: North Hatfield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301844'
+  name: NOLEVERETT
+  full_name: North Leverett
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302229'
+  name: NOMARSHFLD
+  full_name: North Marshfield
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302217'
+  name: NO ORANGE
+  full_name: North Orange
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302218'
+  name: NO OXFORD
+  full_name: North Oxford
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302232'
+  name: NOPEMBROKE
+  full_name: North Pembroke
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302233'
+  name: NOPLYMOUTH
+  full_name: North Plymouth
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302185'
+  name: N QUINCY
+  full_name: North Quincy
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075730'
+  name: NO READING
+  full_name: North Reading
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.574611'
+  long: "-71.088588"
+  closest_city:
+    name: Peabody
+    distance_km: 10.55
+- country: US
+  region: MA
+  exchange: '302241'
+  name: NOSCITUATE
+  full_name: North Scituate
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302220'
+  name: NO SHIRLEY
+  full_name: North Shirley
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302221'
+  name: NO SUDBURY
+  full_name: North Sudbury
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075740'
+  name: NO SWANSEA
+  full_name: North Swansea
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.771339'
+  long: "-71.271424"
+  closest_city:
+    name: Ocean Grove
+    distance_km: 7.02
+- country: US
+  region: MA
+  exchange: '302237'
+  name: NORTHTRURO
+  full_name: North Truro
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302242'
+  name: NOUXBRIDGE
+  full_name: North Uxbridge
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302186'
+  name: N WALTHAM
+  full_name: North Waltham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302243'
+  name: NOWEYMOUTH
+  full_name: North Weymouth
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301848'
+  name: NOWILBRAHM
+  full_name: North Wilbraham
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302244'
+  name: NOWILMIGTN
+  full_name: North Wilmington
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075750'
+  name: NORTHAMPTN
+  full_name: Northampton
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.318464'
+  long: "-72.632893"
+  closest_city:
+    name: Northampton
+    distance_km: 3.54
+- country: US
+  region: MA
+  exchange: '075760'
+  name: NORTHBORO
+  full_name: Northboro
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.319375'
+  long: "-71.635667"
+  closest_city:
+    name: Marlborough
+    distance_km: 8.03
+- country: US
+  region: MA
+  exchange: '302236'
+  name: NORTHBRDG
+  full_name: Northbridge
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075770'
+  name: NORTHFIELD
+  full_name: Northfield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.696309'
+  long: "-72.454143"
+  closest_city:
+    name: Millers Falls
+    distance_km: 13.39
+- country: US
+  region: MA
+  exchange: '301837'
+  name: NFLD MT HM
+  full_name: Northfield Mount Hermon
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075780'
+  name: NORTON
+  full_name: Norton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.964994'
+  long: "-71.184909"
+  closest_city:
+    name: Norton Center
+    distance_km: 0.84
+- country: US
+  region: MA
+  exchange: '075790'
+  name: NORWELL
+  full_name: Norwell
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.161552'
+  long: "-70.799178"
+  closest_city:
+    name: Marshfield Hills
+    distance_km: 5.76
+- country: US
+  region: MA
+  exchange: '075800'
+  name: NORWOOD
+  full_name: Norwood
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.192289'
+  long: "-71.203492"
+  closest_city:
+    name: Millis-Clicquot
+    distance_km: 12.81
+- country: US
+  region: MA
+  exchange: '302245'
+  name: NUTTING LK
+  full_name: Nutting Lake
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302247'
+  name: OAK BLUFFS
+  full_name: Oak Bluffs
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302248'
+  name: OAKDALE
+  full_name: Oakdale
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075810'
+  name: OAKHAM
+  full_name: Oakham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.353629'
+  long: "-72.04232"
+  closest_city:
+    name: Worcester
+    distance_km: 21.38
+- country: US
+  region: MA
+  exchange: '302250'
+  name: OCEANBLUFF
+  full_name: Ocean Bluff
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302251'
+  name: OCEANGROVE
+  full_name: Ocean Grove
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302252'
+  name: ONSET
+  full_name: Onset
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075820'
+  name: ORANGE
+  full_name: Orange
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.589333'
+  long: "-72.308682"
+  closest_city:
+    name: Millers Falls
+    distance_km: 15.09
+- country: US
+  region: MA
+  exchange: '302254'
+  name: ORIENT HTS
+  full_name: Orient Heights
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075830'
+  name: ORLEANS
+  full_name: Orleans
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.787721'
+  long: "-69.989391"
+  closest_city:
+    name: North Eastham
+    distance_km: 7.38
+- country: US
+  region: MA
+  exchange: '075840'
+  name: OSTERVILLE
+  full_name: Osterville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.625188'
+  long: "-70.387678"
+  closest_city:
+    name: Mashpee Neck
+    distance_km: 6.72
+- country: US
+  region: MA
+  exchange: '075850'
+  name: OTIS
+  full_name: Otis
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.19246'
+  long: "-73.088664"
+  closest_city:
+    name: Lenox Dale
+    distance_km: 20.56
+- country: US
+  region: MA
+  exchange: '302257'
+  name: OTIS ANGB
+  full_name: Otis ANGB
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075860'
+  name: OXFORD
+  full_name: Oxford
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.113103'
+  long: "-71.869345"
+  closest_city:
+    name: East Douglas
+    distance_km: 13.55
+- country: US
+  region: MA
+  exchange: '075870'
+  name: PALMER
+  full_name: Palmer
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.158193'
+  long: "-72.325108"
+  closest_city:
+    name: Monson Center
+    distance_km: 6.79
+- country: US
+  region: MA
+  exchange: '302259'
+  name: PAXTON
+  full_name: Paxton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075880'
+  name: PEABODY
+  full_name: Peabody
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.525448'
+  long: "-70.92714"
+  closest_city:
+    name: Salem
+    distance_km: 2.48
+- country: US
+  region: MA
+  exchange: '301851'
+  name: PELHAM
+  full_name: Pelham
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302261'
+  name: PEMBERTON
+  full_name: Pemberton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302262'
+  name: PEMBROKE
+  full_name: Pembroke
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075890'
+  name: PEPPERELL
+  full_name: Pepperell
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.66563'
+  long: "-71.579735"
+  closest_city:
+    name: East Pepperell
+    distance_km: 1.33
+- country: US
+  region: MA
+  exchange: '301852'
+  name: PERU
+  full_name: Peru
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075900'
+  name: PETERSHAM
+  full_name: Petersham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.48992'
+  long: "-72.18697"
+  closest_city:
+    name: Baldwinville
+    distance_km: 15.63
+- country: US
+  region: MA
+  exchange: '302265'
+  name: PHILLIPSTN
+  full_name: Phillipston
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302266'
+  name: PIGEONCOVE
+  full_name: Pigeon Cove
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302267'
+  name: PINEHURST
+  full_name: Pinehurst
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075910'
+  name: PITTSFIELD
+  full_name: Pittsfield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.448712'
+  long: "-73.256059"
+  closest_city:
+    name: Pittsfield
+    distance_km: 0.49
+- country: US
+  region: MA
+  exchange: '301854'
+  name: PLAINFIELD
+  full_name: Plainfield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302268'
+  name: PLAINVILLE
+  full_name: Plainville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302269'
+  name: PLEASANTLK
+  full_name: Pleasant Lake
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302270'
+  name: PLUMISLAND
+  full_name: Plum Island
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075920'
+  name: PLYMOUTH
+  full_name: Plymouth
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.958861'
+  long: "-70.667016"
+  closest_city:
+    name: North Plymouth
+    distance_km: 2.38
+- country: US
+  region: MA
+  exchange: '302272'
+  name: PLYMPTON
+  full_name: Plympton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302273'
+  name: POCASSET
+  full_name: Pocasset
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302274'
+  name: PONDVILLE
+  full_name: Pondville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302275'
+  name: PRIDESCSNG
+  full_name: Prides Crossing
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075930'
+  name: PRINCETON
+  full_name: Princeton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.448221'
+  long: "-71.87546"
+  closest_city:
+    name: Leominster
+    distance_km: 11.73
+- country: US
+  region: MA
+  exchange: '075940'
+  name: PROVINCETN
+  full_name: Provincetown
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.05054'
+  long: "-70.187932"
+  closest_city:
+    name: North Eastham
+    distance_km: 26.98
+- country: US
+  region: MA
+  exchange: '075950'
+  name: QUINCY
+  full_name: Quincy
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.255669'
+  long: "-71.005393"
+  closest_city:
+    name: Quincy
+    distance_km: 1.23
+- country: US
+  region: MA
+  exchange: '302279'
+  name: QUISSETT
+  full_name: Quissett
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075960'
+  name: RANDOLPH
+  full_name: Randolph
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.166008'
+  long: "-71.041539"
+  closest_city:
+    name: Brockton
+    distance_km: 9.44
+- country: US
+  region: MA
+  exchange: '302281'
+  name: RAYNHAM
+  full_name: Raynham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302282'
+  name: RAYNHAMCTR
+  full_name: Raynham Center
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075970'
+  name: READING
+  full_name: Reading
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.525159'
+  long: "-71.103947"
+  closest_city:
+    name: Woburn
+    distance_km: 5.93
+- country: US
+  region: MA
+  exchange: '302284'
+  name: READVILLE
+  full_name: Readville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075980'
+  name: REHOBOTH
+  full_name: Rehoboth
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.841329'
+  long: "-71.241974"
+  closest_city:
+    name: North Seekonk
+    distance_km: 8.95
+- country: US
+  region: MA
+  exchange: '075990'
+  name: REVERE
+  full_name: Revere
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.406439'
+  long: "-71.012671"
+  closest_city:
+    name: Revere
+    distance_km: 1.56
+- country: US
+  region: MA
+  exchange: '076000'
+  name: RICHMOND
+  full_name: Richmond
+  lata: '126'
+  ilec_name: MAGNA5 RTC LLC DBA RICHMOND TELEPHONE COMPANY
+  lat: '42.379693'
+  long: "-73.368125"
+  closest_city:
+    name: Lenox Dale
+    distance_km: 10.99
+- country: US
+  region: MA
+  exchange: '302287'
+  name: RINGS IS
+  full_name: Rings Island
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302288'
+  name: RIVERSIDE
+  full_name: Riverside
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302289'
+  name: ROCHDALE
+  full_name: Rochdale
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076010'
+  name: ROCHESTER
+  full_name: Rochester
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.780245'
+  long: "-70.905572"
+  closest_city:
+    name: North Lakeville
+    distance_km: 9.56
+- country: US
+  region: MA
+  exchange: '076020'
+  name: ROCKLAND
+  full_name: Rockland
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.130544'
+  long: "-70.913658"
+  closest_city:
+    name: Brockton
+    distance_km: 10.59
+- country: US
+  region: MA
+  exchange: '076030'
+  name: ROCKPORT
+  full_name: Rockport
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.66006'
+  long: "-70.621824"
+  closest_city:
+    name: Gloucester
+    distance_km: 6.72
+- country: US
+  region: MA
+  exchange: '302293'
+  name: ROSLINDALE
+  full_name: Roslindale
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301856'
+  name: ROWE
+  full_name: Rowe
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076040'
+  name: ROWLEY
+  full_name: Rowley
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.718932'
+  long: "-70.877667"
+  closest_city:
+    name: Newburyport
+    distance_km: 10.43
+- country: US
+  region: MA
+  exchange: '076050'
+  name: ROXBURY
+  full_name: Roxbury
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.324043'
+  long: "-71.080811"
+  closest_city:
+    name: Boston
+    distance_km: 0.69
+- country: US
+  region: MA
+  exchange: '302296'
+  name: ROXBY CSNG
+  full_name: Roxbury Crossing
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302297'
+  name: ROYALSTON
+  full_name: Royalston
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076060'
+  name: RUSSELL
+  full_name: Russell
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.18797'
+  long: "-72.85862"
+  closest_city:
+    name: Westfield
+    distance_km: 10.1
+- country: US
+  region: MA
+  exchange: '076070'
+  name: RUTLAND
+  full_name: Rutland
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.374411'
+  long: "-71.94833"
+  closest_city:
+    name: Worcester
+    distance_km: 16.33
+- country: US
+  region: MA
+  exchange: '076080'
+  name: SAGAMORE
+  full_name: Sagamore
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.769461'
+  long: "-70.52848"
+  closest_city:
+    name: Sagamore
+    distance_km: 1.68
+- country: US
+  region: MA
+  exchange: '302299'
+  name: SAGAM BCH
+  full_name: Sagamore Beach
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076090'
+  name: SALEM
+  full_name: Salem
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.51814'
+  long: "-70.89522"
+  closest_city:
+    name: Salem
+    distance_km: 0.81
+- country: US
+  region: MA
+  exchange: '302302'
+  name: SALISBURY
+  full_name: Salisbury
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302303'
+  name: SALSBRY BH
+  full_name: Salisbury Beach
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076100'
+  name: SANDISFLD
+  full_name: Sandisfield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.096015'
+  long: "-73.081146"
+  closest_city:
+    name: Westfield
+    distance_km: 27.22
+- country: US
+  region: MA
+  exchange: '302304'
+  name: SANDWICH
+  full_name: Sandwich
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302305'
+  name: SANTUIT
+  full_name: Santuit
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076110'
+  name: SAUGUS
+  full_name: Saugus
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.45171'
+  long: "-71.009985"
+  closest_city:
+    name: Revere
+    distance_km: 3.68
+- country: US
+  region: MA
+  exchange: '302307'
+  name: SAUNDERSVL
+  full_name: Saundersville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301859'
+  name: SAVOY
+  full_name: Savoy
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302308'
+  name: SAXONVILLE
+  full_name: Saxonville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076120'
+  name: SCITUATE
+  full_name: Scituate
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.200115'
+  long: "-70.755943"
+  closest_city:
+    name: North Scituate
+    distance_km: 1.54
+- country: US
+  region: MA
+  exchange: '076130'
+  name: SEEKONK
+  full_name: Seekonk
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.811172'
+  long: "-71.338307"
+  closest_city:
+    name: North Seekonk
+    distance_km: 8.61
+- country: US
+  region: MA
+  exchange: '302311'
+  name: SEGREGANST
+  full_name: Segreganset
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076140'
+  name: SHARON
+  full_name: Sharon
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.123512'
+  long: "-71.176318"
+  closest_city:
+    name: Mansfield Center
+    distance_km: 11.75
+- country: US
+  region: MA
+  exchange: '301860'
+  name: SHATTUCKVL
+  full_name: Shattuckville
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076150'
+  name: SHEFFIELD
+  full_name: Sheffield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.108593'
+  long: "-73.356417"
+  closest_city:
+    name: Housatonic
+    distance_km: 15.59
+- country: US
+  region: MA
+  exchange: '301863'
+  name: SHELBURNE
+  full_name: Shelburne
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076160'
+  name: SHELBUNFLS
+  full_name: Shelburne Falls
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.603463'
+  long: "-72.736668"
+  closest_city:
+    name: Shelburne Falls
+    distance_km: 0.65
+- country: US
+  region: MA
+  exchange: '302313'
+  name: SHELDONVL
+  full_name: Sheldonville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302314'
+  name: SHERBORN
+  full_name: Sherborn
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076170'
+  name: SHIRLEY
+  full_name: Shirley
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.543904'
+  long: "-71.650714"
+  closest_city:
+    name: Devens
+    distance_km: 2.96
+- country: US
+  region: MA
+  exchange: '302316'
+  name: SHIRLEY CT
+  full_name: Shirley Center
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076180'
+  name: SHREWSBURY
+  full_name: Shrewsbury
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.29673'
+  long: "-71.716131"
+  closest_city:
+    name: Worcester
+    distance_km: 8.09
+- country: US
+  region: MA
+  exchange: '301864'
+  name: SHUTESBURY
+  full_name: Shutesbury
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076190'
+  name: SIASCONSET
+  full_name: Siasconset
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.262348'
+  long: "-69.968436"
+  closest_city:
+    name: Siasconset
+    distance_km: 0.31
+- country: US
+  region: MA
+  exchange: '302319'
+  name: SILVERLAKE
+  full_name: Silver Lake
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301865'
+  name: SIMONS RK
+  full_name: Simons Rock
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302347'
+  name: SOMERSET
+  full_name: Somerset
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076200'
+  name: SOMERVILLE
+  full_name: Somerville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.387124'
+  long: "-71.098283"
+  closest_city:
+    name: Somerville
+    distance_km: 0.48
+- country: US
+  region: MA
+  exchange: '302351'
+  name: SOUTHACTON
+  full_name: South Acton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302342'
+  name: SOASHBUNHM
+  full_name: South Ashburnham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301869'
+  name: SOASHFIELD
+  full_name: South Ashfield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302320'
+  name: SO ATTLEBO
+  full_name: South Attleboro
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302352'
+  name: SOUTHBARRE
+  full_name: South Barre
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302343'
+  name: SOBELINGHM
+  full_name: South Bellingham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076210'
+  name: SO BOSTON
+  full_name: South Boston
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.335908'
+  long: "-71.05158"
+  closest_city:
+    name: Boston
+    distance_km: 3.36
+- country: US
+  region: MA
+  exchange: '302344'
+  name: SOBRIDGETR
+  full_name: South Bridgewater
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302322'
+  name: SO BYFIELD
+  full_name: South Byfield
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302323'
+  name: SO CARVER
+  full_name: South Carver
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302324'
+  name: SO CHATHAM
+  full_name: South Chatham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302345'
+  name: SOCHELMSFD
+  full_name: South Chelmsford
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302325'
+  name: SO DARTMTH
+  full_name: South Dartmouth
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076220'
+  name: SO DEERFLD
+  full_name: South Deerfield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.476145'
+  long: "-72.605275"
+  closest_city:
+    name: South Deerfield
+    distance_km: 0.94
+- country: US
+  region: MA
+  exchange: '302326'
+  name: SO DENNIS
+  full_name: South Dennis
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302327'
+  name: SO DUXBURY
+  full_name: South Duxbury
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302328'
+  name: SO EASTON
+  full_name: South Easton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301870'
+  name: SOEGREMONT
+  full_name: South Egremont
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302329'
+  name: SO GRAFTON
+  full_name: South Grafton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301867'
+  name: SO HADLEY
+  full_name: South Hadley
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301868'
+  name: SO HDLYFL
+  full_name: South Hadley Falls
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302346'
+  name: SOHAMILTON
+  full_name: South Hamilton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302330'
+  name: SO HANOVER
+  full_name: South Hanover
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302331'
+  name: SO HANSON
+  full_name: South Hanson
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302332'
+  name: SO HARWICH
+  full_name: South Harwich
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301871'
+  name: SOUTH LEE
+  full_name: South Lee
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302333'
+  name: SO LYNNFLD
+  full_name: South Lynnfield
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302349'
+  name: SOMIDDLEBO
+  full_name: South Middleboro
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302334'
+  name: SO NATICK
+  full_name: South Natick
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302335'
+  name: SO ORLEANS
+  full_name: South Orleans
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302336'
+  name: SO PEABODY
+  full_name: South Peabody
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302350'
+  name: SOROYALSTN
+  full_name: South Royalston
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302337'
+  name: SO SUDBURY
+  full_name: South Sudbury
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302338'
+  name: SO SUTTON
+  full_name: South Sutton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302339'
+  name: SO SWANSEA
+  full_name: South Swansea
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302340'
+  name: SO WALPOLE
+  full_name: South Walpole
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302341'
+  name: SO WALTHAM
+  full_name: South Waltham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302357'
+  name: SOWELLFLET
+  full_name: South Wellfleet
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302358'
+  name: SOWESTPORT
+  full_name: South Westport
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302359'
+  name: SOWEYMOUTH
+  full_name: South Weymouth
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302360'
+  name: SOYARMOUTH
+  full_name: South Yarmouth
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301872'
+  name: SOUTHAMPTN
+  full_name: Southampton
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302354'
+  name: SOUTHBORO
+  full_name: Southborough
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076230'
+  name: SOUTHBDG
+  full_name: Southbridge
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.073731'
+  long: "-72.030445"
+  closest_city:
+    name: Fiskdale
+    distance_km: 8.47
+- country: US
+  region: MA
+  exchange: '301873'
+  name: SOUTHFIELD
+  full_name: Southfield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076240'
+  name: SOUTHGATE
+  full_name: Southgate
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.899041'
+  long: "-71.368373"
+  closest_city:
+    name: North Seekonk
+    distance_km: 3.42
+- country: US
+  region: MA
+  exchange: '302356'
+  name: SOUTHVILLE
+  full_name: Southville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076250'
+  name: SOUTHWICK
+  full_name: Southwick
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.056876'
+  long: "-72.770916"
+  closest_city:
+    name: Westfield
+    distance_km: 9.13
+- country: US
+  region: MA
+  exchange: '076260'
+  name: SPENCER
+  full_name: Spencer
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.244626'
+  long: "-71.994866"
+  closest_city:
+    name: Worcester
+    distance_km: 15.65
+- country: US
+  region: MA
+  exchange: '076270'
+  name: SPRINGFLD
+  full_name: Springfield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.105278'
+  long: "-72.594007"
+  closest_city:
+    name: Springfield
+    distance_km: 4.64
+- country: US
+  region: MA
+  exchange: '302362'
+  name: SQUANTUM
+  full_name: Squantum
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301876'
+  name: STATE LINE
+  full_name: State Line
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076280'
+  name: STERLING
+  full_name: Sterling
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.438394'
+  long: "-71.759085"
+  closest_city:
+    name: South Lancaster
+    distance_km: 5.51
+- country: US
+  region: MA
+  exchange: '302364'
+  name: STILLRIVER
+  full_name: Still River
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076290'
+  name: STOCKBDG
+  full_name: Stockbridge
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.278261'
+  long: "-73.31079"
+  closest_city:
+    name: Housatonic
+    distance_km: 5.38
+- country: US
+  region: MA
+  exchange: '076300'
+  name: STONEHAM
+  full_name: Stoneham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.477023'
+  long: "-71.101777"
+  closest_city:
+    name: Melrose
+    distance_km: 4.24
+- country: US
+  region: MA
+  exchange: '076310'
+  name: STOUGHTON
+  full_name: Stoughton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.119617'
+  long: "-71.101082"
+  closest_city:
+    name: Brockton
+    distance_km: 7.59
+- country: US
+  region: MA
+  exchange: '302367'
+  name: STOW
+  full_name: Stow
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076320'
+  name: STURBRIDGE
+  full_name: Sturbridge
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.108291'
+  long: "-72.079711"
+  closest_city:
+    name: Fiskdale
+    distance_km: 2.9
+- country: US
+  region: MA
+  exchange: '076330'
+  name: SUDBURY
+  full_name: Sudbury
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.362915'
+  long: "-71.412563"
+  closest_city:
+    name: Cochituate
+    distance_km: 5.88
+- country: US
+  region: MA
+  exchange: '301878'
+  name: SUNDERLAND
+  full_name: Sunderland
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302370'
+  name: SUTTON
+  full_name: Sutton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302371'
+  name: SWAMPSCOTT
+  full_name: Swampscott
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302372'
+  name: SWANSEA
+  full_name: Swansea
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301879'
+  name: SWIFTRIVER
+  full_name: Swift River
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076340'
+  name: TAUNTON
+  full_name: Taunton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.904422'
+  long: "-71.093229"
+  closest_city:
+    name: Taunton
+    distance_km: 0.13
+- country: US
+  region: MA
+  exchange: '302374'
+  name: TEATICKET
+  full_name: Teaticket
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076350'
+  name: TEMPLETON
+  full_name: Templeton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.605822'
+  long: "-72.076282"
+  closest_city:
+    name: Baldwinville
+    distance_km: 0.13
+- country: US
+  region: MA
+  exchange: '075364'
+  name: TEWKSBURY
+  full_name: Tewksbury
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301880'
+  name: THORNDIKE
+  full_name: Thorndike
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301881'
+  name: THREERIVRS
+  full_name: Three Rivers
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302377'
+  name: TISBURY
+  full_name: Tisbury
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301882'
+  name: TOLLAND
+  full_name: Tolland
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076360'
+  name: TOPSFIELD
+  full_name: Topsfield
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.639534'
+  long: "-70.95128"
+  closest_city:
+    name: Beverly
+    distance_km: 10.75
+- country: US
+  region: MA
+  exchange: '302379'
+  name: TOUISSET
+  full_name: Touisset
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076370'
+  name: TOWNSEND
+  full_name: Townsend
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.665057'
+  long: "-71.708249"
+  closest_city:
+    name: East Pepperell
+    distance_km: 11.84
+- country: US
+  region: MA
+  exchange: '302381'
+  name: TRURO
+  full_name: Truro
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076380'
+  name: TURNERSFLS
+  full_name: Turners Falls
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.606269'
+  long: "-72.559676"
+  closest_city:
+    name: Turners Falls
+    distance_km: 0.99
+- country: US
+  region: MA
+  exchange: '076390'
+  name: TYNGSBORO
+  full_name: Tyngsboro
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.674481'
+  long: "-71.425812"
+  closest_city:
+    name: Lowell
+    distance_km: 9.39
+- country: US
+  region: MA
+  exchange: '301884'
+  name: TYRINGHAM
+  full_name: Tyringham
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302383'
+  name: UPHAMS COR
+  full_name: Uphams Corner
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076400'
+  name: UPTON
+  full_name: Upton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.170618'
+  long: "-71.600749"
+  closest_city:
+    name: Whitinsville
+    distance_km: 8.38
+- country: US
+  region: MA
+  exchange: '076410'
+  name: UXBRIDGE
+  full_name: Uxbridge
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.077851'
+  long: "-71.631152"
+  closest_city:
+    name: Whitinsville
+    distance_km: 5.13
+- country: US
+  region: MA
+  exchange: '302387'
+  name: VLG NAG WD
+  full_name: Village Of Nagog Woods
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076420'
+  name: VINEYRDHVN
+  full_name: Vineyard Haven
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.451882'
+  long: "-70.604352"
+  closest_city:
+    name: Vineyard Haven
+    distance_km: 0.63
+- country: US
+  region: MA
+  exchange: '302411'
+  name: WABAN
+  full_name: Waban
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076430'
+  name: WAKEFIELD
+  full_name: Wakefield
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.501636'
+  long: "-71.074208"
+  closest_city:
+    name: Melrose
+    distance_km: 5.27
+- country: US
+  region: MA
+  exchange: '301889'
+  name: WALES
+  full_name: Wales
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076440'
+  name: WALPOLE
+  full_name: Walpole
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.14363'
+  long: "-71.249453"
+  closest_city:
+    name: Millis-Clicquot
+    distance_km: 8.97
+- country: US
+  region: MA
+  exchange: '076450'
+  name: WALTHAM
+  full_name: Waltham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.376475'
+  long: "-71.237993"
+  closest_city:
+    name: Waltham
+    distance_km: 1.43
+- country: US
+  region: MA
+  exchange: '302415'
+  name: WAQUOIT
+  full_name: Waquoit
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302416'
+  name: WARD HILL
+  full_name: Ward Hill
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076460'
+  name: WARE
+  full_name: Ware
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.259312'
+  long: "-72.239585"
+  closest_city:
+    name: West Warren
+    distance_km: 4.73
+- country: US
+  region: MA
+  exchange: '076470'
+  name: WAREHAM
+  full_name: Wareham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.75557'
+  long: "-70.718787"
+  closest_city:
+    name: Wareham Center
+    distance_km: 0.66
+- country: US
+  region: MA
+  exchange: '076480'
+  name: WARREN
+  full_name: Warren
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.211305'
+  long: "-72.196862"
+  closest_city:
+    name: West Warren
+    distance_km: 3.33
+- country: US
+  region: MA
+  exchange: '302418'
+  name: WARWICK
+  full_name: Warwick
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301892'
+  name: WASHINGTON
+  full_name: Washington
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076490'
+  name: WATERTOWN
+  full_name: Watertown
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.36774'
+  long: "-71.18384"
+  closest_city:
+    name: Watertown Town
+    distance_km: 0.59
+- country: US
+  region: MA
+  exchange: '302420'
+  name: WATERVILLE
+  full_name: Waterville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302421'
+  name: WAVERLEY
+  full_name: Waverley
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076500'
+  name: WAYLAND
+  full_name: Wayland
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.363484'
+  long: "-71.364113"
+  closest_city:
+    name: Cochituate
+    distance_km: 3.87
+- country: US
+  region: MA
+  exchange: '076510'
+  name: WEBSTER
+  full_name: Webster
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.047904'
+  long: "-71.87712"
+  closest_city:
+    name: East Douglas
+    distance_km: 14.03
+- country: US
+  region: MA
+  exchange: '302426'
+  name: WEDGEMERE
+  full_name: Wedgemere
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076520'
+  name: WELLESLEY
+  full_name: Wellesley
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.305841'
+  long: "-71.276619"
+  closest_city:
+    name: Newton
+    distance_km: 6.29
+- country: US
+  region: MA
+  exchange: '302429'
+  name: WELSLY HIL
+  full_name: Wellesley Hills
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076530'
+  name: WELLFLEET
+  full_name: Wellfleet
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.93889'
+  long: "-70.034042"
+  closest_city:
+    name: North Eastham
+    distance_km: 9.94
+- country: US
+  region: MA
+  exchange: '302430'
+  name: WENDELL
+  full_name: Wendell
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302431'
+  name: WENDELLDPT
+  full_name: Wendell Depot
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302432'
+  name: WENHAM
+  full_name: Wenham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302433'
+  name: WEST ACTON
+  full_name: West Acton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302388'
+  name: W ANDOVER
+  full_name: West Andover
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302423'
+  name: WBARNSTABL
+  full_name: West Barnstable
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302437'
+  name: WESTBERLIN
+  full_name: West Berlin
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302389'
+  name: W BOXFORD
+  full_name: West Boxford
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076540'
+  name: W BOYLSTON
+  full_name: West Boylston
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.365419'
+  long: "-71.783629"
+  closest_city:
+    name: Worcester
+    distance_km: 10.74
+- country: US
+  region: MA
+  exchange: '302391'
+  name: W BREWSTER
+  full_name: West Brewster
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302424'
+  name: WBRIDGEWTR
+  full_name: West Bridgewater
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301893'
+  name: WBRIMFIELD
+  full_name: West Brimfield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302392'
+  name: W BROOKFLD
+  full_name: West Brookfield
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302393'
+  name: W CHATHAM
+  full_name: West Chatham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302394'
+  name: W CHELMSFD
+  full_name: West Chelmsford
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301885'
+  name: W CHESTFLD
+  full_name: West Chesterfield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302434'
+  name: WEST CHOP
+  full_name: West Chop
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302395'
+  name: W CONCORD
+  full_name: West Concord
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301894'
+  name: WCUMMINGTN
+  full_name: West Cummington
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301895'
+  name: WDEERFIELD
+  full_name: West Deerfield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302440'
+  name: WESTDENNIS
+  full_name: West Dennis
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302441'
+  name: WESTDUDLEY
+  full_name: West Dudley
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302396'
+  name: W DUXBURY
+  full_name: West Duxbury
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302397'
+  name: W FALMOUTH
+  full_name: West Falmouth
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302443'
+  name: WESTGROTON
+  full_name: West Groton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302398'
+  name: W HANOVER
+  full_name: West Hanover
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302399'
+  name: W HARWICH
+  full_name: West Harwich
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301886'
+  name: W HATFIELD
+  full_name: West Hatfield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301899'
+  name: WESTHAWLEY
+  full_name: West Hawley
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302455'
+  name: WHYANNISPT
+  full_name: West Hyannisport
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302435'
+  name: WEST LYNN
+  full_name: West Lynn
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302464'
+  name: WMANSFIELD
+  full_name: West Mansfield
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302400'
+  name: W MEDFORD
+  full_name: West Medford
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302444'
+  name: WESTMEDWAY
+  full_name: West Medway
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302401'
+  name: W MILLBURY
+  full_name: West Millbury
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076550'
+  name: W NEWBURY
+  full_name: West Newbury
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.800457'
+  long: "-70.995034"
+  closest_city:
+    name: Haverhill
+    distance_km: 7.74
+- country: US
+  region: MA
+  exchange: '302446'
+  name: WESTNEWTON
+  full_name: West Newton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301896'
+  name: WEST OTIS
+  full_name: West Otis
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075881'
+  name: W PEABODY
+  full_name: West Peabody
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '075251'
+  name: W ROXBURY
+  full_name: West Roxbury
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302405'
+  name: W SOMERVL
+  full_name: West Somerville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301911'
+  name: WSPRINGFLD
+  full_name: West Springfield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076560'
+  name: W STOCKBDG
+  full_name: West Stockbridge
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.334231'
+  long: "-73.369092"
+  closest_city:
+    name: Housatonic
+    distance_km: 9.53
+- country: US
+  region: MA
+  exchange: '302406'
+  name: W TISBURY
+  full_name: West Tisbury
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302407'
+  name: W TOWNSEND
+  full_name: West Townsend
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302436'
+  name: WEST UPTON
+  full_name: West Upton
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302408'
+  name: W WAREHAM
+  full_name: West Wareham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301901'
+  name: WESTWARREN
+  full_name: West Warren
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301888'
+  name: W WHATELY
+  full_name: West Whately
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302409'
+  name: W WRENTHAM
+  full_name: West Wrentham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302410'
+  name: W YARMOUTH
+  full_name: West Yarmouth
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076570'
+  name: WESTBORO
+  full_name: Westboro
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.272617'
+  long: "-71.615621"
+  closest_city:
+    name: Cordaville
+    distance_km: 7.69
+- country: US
+  region: MA
+  exchange: '302439'
+  name: WESTDALE
+  full_name: Westdale
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076580'
+  name: WESTFIELD
+  full_name: Westfield
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.123008'
+  long: "-72.75538"
+  closest_city:
+    name: Westfield
+    distance_km: 1.69
+- country: US
+  region: MA
+  exchange: '076590'
+  name: WESTFORD
+  full_name: Westford
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.586715'
+  long: "-71.435527"
+  closest_city:
+    name: Littleton Common
+    distance_km: 6.49
+- country: US
+  region: MA
+  exchange: '301898'
+  name: WESTHAMPTN
+  full_name: Westhampton
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076600'
+  name: WESTMINSTR
+  full_name: Westminster
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.548784'
+  long: "-71.90819"
+  closest_city:
+    name: Gardner
+    distance_km: 7.56
+- country: US
+  region: MA
+  exchange: '302447'
+  name: WESTON
+  full_name: Weston
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301900'
+  name: WESTOVRAFB
+  full_name: Westover Air Force Base
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076610'
+  name: WESTPORT
+  full_name: Westport
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.570971'
+  long: "-71.07306"
+  closest_city:
+    name: North Westport
+    distance_km: 9.38
+- country: US
+  region: MA
+  exchange: '302450'
+  name: WESTPT HBR
+  full_name: Westport Harbor
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302449'
+  name: WESTPORTPT
+  full_name: Westport Point
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302451'
+  name: WESTWOOD
+  full_name: Westwood
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076620'
+  name: WEYMOUTH
+  full_name: Weymouth
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.221991'
+  long: "-70.939209"
+  closest_city:
+    name: Quincy
+    distance_km: 7.28
+- country: US
+  region: MA
+  exchange: '301902'
+  name: WHATELY
+  full_name: Whately
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301903'
+  name: WHEELWRIHT
+  full_name: Wheelwright
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076630'
+  name: WHITINSVL
+  full_name: Whitinsville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.11044'
+  long: "-71.6667"
+  closest_city:
+    name: Whitinsville
+    distance_km: 0.49
+- country: US
+  region: MA
+  exchange: '076640'
+  name: WHITMAN
+  full_name: Whitman
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.080464'
+  long: "-70.937618"
+  closest_city:
+    name: Brockton
+    distance_km: 7.15
+- country: US
+  region: MA
+  exchange: '302456'
+  name: WIANNO
+  full_name: Wianno
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076650'
+  name: WILBRAHAM
+  full_name: Wilbraham
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.132722'
+  long: "-72.431145"
+  closest_city:
+    name: Springfield
+    distance_km: 9.14
+- country: US
+  region: MA
+  exchange: '302457'
+  name: WILKINSNVL
+  full_name: Wilkinsonvile
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302458'
+  name: WILKSONVL
+  full_name: Wilkinsonville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076660'
+  name: WILLIAMSBG
+  full_name: Williamsburg
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.390715'
+  long: "-72.728587"
+  closest_city:
+    name: Northampton
+    distance_km: 8.4
+- country: US
+  region: MA
+  exchange: '076670'
+  name: WILLIAMSTN
+  full_name: Williamstown
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.706402'
+  long: "-73.202392"
+  closest_city:
+    name: North Adams
+    distance_km: 7.43
+- country: US
+  region: MA
+  exchange: '301907'
+  name: WILLIMNSTT
+  full_name: Willimansett
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076680'
+  name: WILMINGTON
+  full_name: Wilmington
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.548884'
+  long: "-71.173545"
+  closest_city:
+    name: Pinehurst
+    distance_km: 5.24
+- country: US
+  region: MA
+  exchange: '076690'
+  name: WINCHENDON
+  full_name: Winchendon
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.682433'
+  long: "-72.047993"
+  closest_city:
+    name: Baldwinville
+    distance_km: 8.95
+- country: US
+  region: MA
+  exchange: '076700'
+  name: WINCHESTER
+  full_name: Winchester
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.455258'
+  long: "-71.13413"
+  closest_city:
+    name: Woburn
+    distance_km: 3.89
+- country: US
+  region: MA
+  exchange: '301908'
+  name: WINDSOR
+  full_name: Windsor
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302462'
+  name: WINTERHILL
+  full_name: Winter Hill
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076710'
+  name: WINTHROP
+  full_name: Winthrop
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.376526'
+  long: "-70.982145"
+  closest_city:
+    name: Chelsea
+    distance_km: 4.66
+- country: US
+  region: MA
+  exchange: '076720'
+  name: WOBURN
+  full_name: Woburn
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.482949'
+  long: "-71.151195"
+  closest_city:
+    name: Woburn
+    distance_km: 0.51
+- country: US
+  region: MA
+  exchange: '302466'
+  name: WOLLASTON
+  full_name: Wollaston
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302467'
+  name: WOODS HOLE
+  full_name: Woods Hole
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '302468'
+  name: WOODVILLE
+  full_name: Woodville
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076730'
+  name: WORCESTER
+  full_name: Worcester
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.266932'
+  long: "-71.804295"
+  closest_city:
+    name: Worcester
+    distance_km: 0.5
+- country: US
+  region: MA
+  exchange: '301909'
+  name: WORONOCO
+  full_name: Woronoco
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '076740'
+  name: WORTHINGTN
+  full_name: Worthington
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.410692'
+  long: "-72.935339"
+  closest_city:
+    name: Northampton
+    distance_km: 23.38
+- country: US
+  region: MA
+  exchange: '076750'
+  name: WRENTHAM
+  full_name: Wrentham
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.063198'
+  long: "-71.330363"
+  closest_city:
+    name: Mansfield Center
+    distance_km: 10.32
+- country: US
+  region: MA
+  exchange: '302471'
+  name: YARMOUTH
+  full_name: Yarmouth-Yarmouthport
+  lata: '128'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: MA
+  exchange: '301912'
+  name: ZOAR
+  full_name: Zoar
+  lata: '126'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:

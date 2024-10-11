@@ -1,0 +1,5160 @@
+---
+cities:
+- country: US
+  region: MS
+  name: Abbeville
+  lat: '34.5034'
+  long: "-89.5025"
+  nearby_rate_centers:
+  - name: OXFORD
+    distance_km: 15.43
+  - name: CHULAHOMA
+    distance_km: 21.62
+  - name: HOLLY SPG
+    distance_km: 29.63
+- country: US
+  region: MS
+  name: Aberdeen
+  lat: '33.8287'
+  long: "-88.5539"
+  nearby_rate_centers:
+  - name: ABERDEEN
+    distance_km: 0.79
+  - name: AMORY
+    distance_km: 18.63
+  - name: COLUMBSAFB
+    distance_km: 25.18
+- country: US
+  region: MS
+  name: Ackerman
+  lat: '33.3110'
+  long: "-89.1711"
+  nearby_rate_centers:
+  - name: ACKERMAN
+    distance_km: 0.55
+  - name: CHESTER
+    distance_km: 8.26
+  - name: MCCOOL
+    distance_km: 19.86
+- country: US
+  region: MS
+  name: Agricola
+  lat: '30.8120'
+  long: "-88.5224"
+  nearby_rate_centers:
+  - name: LUCEDALE
+    distance_km: 14.26
+  - name: HURLEY
+    distance_km: 17.47
+  - name: TANNERWLMS
+    distance_km: 21.24
+- country: US
+  region: MS
+  name: Alcorn State University
+  lat: '31.8804'
+  long: "-91.1407"
+  nearby_rate_centers:
+  - name: PORTGIBSON
+    distance_km: 16.93
+  - name: FAYETTE
+    distance_km: 19.83
+  - name: HERMANVL
+    distance_km: 29.21
+- country: US
+  region: MS
+  name: Algoma
+  lat: '34.1788'
+  long: "-89.0336"
+  nearby_rate_centers:
+  - name: PONTOTOC
+    distance_km: 8.75
+  - name: HOULKA
+    distance_km: 16.43
+  - name: VERONA
+    distance_km: 29.14
+- country: US
+  region: MS
+  name: Alligator
+  lat: '34.0899'
+  long: "-90.7206"
+  nearby_rate_centers:
+  - name: DUNCAN
+    distance_km: 5.54
+  - name: SHELBY
+    distance_km: 16.01
+  - name: CLARKSDALE
+    distance_km: 18.31
+- country: US
+  region: MS
+  name: Amory
+  lat: '33.9814'
+  long: "-88.4823"
+  nearby_rate_centers:
+  - name: AMORY
+    distance_km: 0.42
+  - name: SMITHVILLE
+    distance_km: 11.89
+  - name: NETTLETON
+    distance_km: 17.47
+- country: US
+  region: MS
+  name: Anguilla
+  lat: '32.9719'
+  long: "-90.8284"
+  nearby_rate_centers:
+  - name: ROLLNGFORK
+    distance_km: 8.45
+  - name: GLEN ALLAN
+    distance_km: 19.39
+  - name: HOLLYBLUFF
+    distance_km: 20.46
+- country: US
+  region: MS
+  name: Arcola
+  lat: '33.2705'
+  long: "-90.8800"
+  nearby_rate_centers:
+  - name: HOLLANDALE
+    distance_km: 11.75
+  - name: LELAND
+    distance_km: 15.57
+  - name: GREENVILLE
+    distance_km: 22.23
+- country: US
+  region: MS
+  name: Arkabutla
+  lat: '34.7003'
+  long: "-90.1216"
+  nearby_rate_centers:
+  - name: COLDWATER
+    distance_km: 14.44
+  - name: SENATOBIA
+    distance_km: 16.84
+  - name: HERNANDO
+    distance_km: 18.14
+- country: US
+  region: MS
+  name: Arnold Line
+  lat: '31.3372'
+  long: "-89.3771"
+  nearby_rate_centers:
+  - name: HATTIESBG
+    distance_km: 8.26
+  - name: SUMRALL
+    distance_km: 17.9
+  - name: PURVIS
+    distance_km: 22.24
+- country: US
+  region: MS
+  name: Artesia
+  lat: '33.4164'
+  long: "-88.6424"
+  nearby_rate_centers:
+  - name: ARTESICWFD
+    distance_km: 6.35
+  - name: STARKVILLE
+    distance_km: 16.98
+  - name: WEST POINT
+    distance_km: 21.1
+- country: US
+  region: MS
+  name: Ashland
+  lat: '34.8341'
+  long: "-89.1778"
+  nearby_rate_centers:
+  - name: ASHLAND
+    distance_km: 0.48
+  - name: MICHIGANCY
+    distance_km: 18.8
+  - name: SO MOSCOW
+    distance_km: 22.08
+- country: US
+  region: MS
+  name: Austin
+  lat: '34.6423'
+  long: "-90.4480"
+  nearby_rate_centers:
+  - name: TUNICA
+    distance_km: 7.7
+  - name: LULA
+    distance_km: 21.79
+  - name: CRENSHAW
+    distance_km: 27.85
+- country: US
+  region: MS
+  name: Baldwyn
+  lat: '34.5071'
+  long: "-88.6416"
+  nearby_rate_centers:
+  - name: BALDWYN
+    distance_km: 0.28
+  - name: GUNTOWN
+    distance_km: 6.99
+  - name: BOONEVILLE
+    distance_km: 18.29
+- country: US
+  region: MS
+  name: Bassfield
+  lat: '31.4959'
+  long: "-89.7449"
+  nearby_rate_centers:
+  - name: BASSFIELD
+    distance_km: 0.45
+  - name: PRENTISS
+    distance_km: 16.29
+  - name: SUMRALL
+    distance_km: 21.26
+- country: US
+  region: MS
+  name: Batesville
+  lat: '34.3148'
+  long: "-89.9249"
+  nearby_rate_centers:
+  - name: BATESVILLE
+    distance_km: 2.61
+  - name: SARDIS
+    distance_km: 13.09
+  - name: COMO
+    distance_km: 21.35
+- country: US
+  region: MS
+  name: Baxterville
+  lat: '31.0837'
+  long: "-89.5891"
+  nearby_rate_centers:
+  - name: LUMBERTON
+    distance_km: 15.08
+  - name: PURVIS
+    distance_km: 18.36
+  - name: POPLARVL
+    distance_km: 26.58
+- country: US
+  region: MS
+  name: Bay Springs
+  lat: '31.9772'
+  long: "-89.2792"
+  nearby_rate_centers:
+  - name: BAYSPRINGS
+    distance_km: 0.7
+  - name: SYLVARENA
+    distance_km: 10.14
+  - name: LOUIN
+    distance_km: 10.2
+- country: US
+  region: MS
+  name: Bay St. Louis
+  lat: '30.3281'
+  long: "-89.3774"
+  nearby_rate_centers:
+  - name: BAYSTLOUIS
+    distance_km: 4.76
+  - name: PASSCHRSTN
+    distance_km: 12.15
+  - name: PEARLINGTN
+    distance_km: 23.72
+- country: US
+  region: MS
+  name: Beaumont
+  lat: '31.1707'
+  long: "-88.9252"
+  nearby_rate_centers:
+  - name: BEAUMONT
+    distance_km: 1.16
+  - name: NEWAUGUSTA
+    distance_km: 11.1
+  - name: MCLAIN
+    distance_km: 11.11
+- country: US
+  region: MS
+  name: Beauregard
+  lat: '31.7210'
+  long: "-90.3859"
+  nearby_rate_centers:
+  - name: WESSON
+    distance_km: 2.77
+  - name: HAZLEHURST
+    distance_km: 16.33
+  - name: BROOKHAVEN
+    distance_km: 17.29
+- country: US
+  region: MS
+  name: Beechwood
+  lat: '32.3303'
+  long: "-90.8190"
+  nearby_rate_centers:
+  - name: VICKSBURG
+    distance_km: 6.38
+  - name: EDWARDS
+    distance_km: 20.35
+  - name: EAGLE LAKE
+    distance_km: 25.49
+- country: US
+  region: MS
+  name: Belmont
+  lat: '34.5046'
+  long: "-88.2080"
+  nearby_rate_centers:
+  - name: BELMONT
+    distance_km: 0.88
+  - name: RED BAY
+    distance_km: 8.32
+  - name: TISHOMINGO
+    distance_km: 14.33
+- country: US
+  region: MS
+  name: Belzoni
+  lat: '33.1804'
+  long: "-90.4863"
+  nearby_rate_centers:
+  - name: BELZONI
+    distance_km: 0.42
+  - name: ISOLA
+    distance_km: 13.86
+  - name: INVERNESS
+    distance_km: 21.44
+- country: US
+  region: MS
+  name: Benndale
+  lat: '30.8686'
+  long: "-88.8055"
+  nearby_rate_centers:
+  - name: BENNDALE
+    distance_km: 0.18
+  - name: LUCEDALE
+    distance_km: 21.03
+  - name: MCLAIN
+    distance_km: 26.69
+- country: US
+  region: MS
+  name: Benoit
+  lat: '33.6517'
+  long: "-91.0087"
+  nearby_rate_centers:
+  - name: BENOIT
+    distance_km: 0.41
+  - name: PACE
+    distance_km: 20.76
+  - name: SHAW
+    distance_km: 22.71
+- country: US
+  region: MS
+  name: Benton
+  lat: '32.8230'
+  long: "-90.2634"
+  nearby_rate_centers:
+  - name: YAZOO CITY
+    distance_km: 13.1
+  - name: PICKENS
+    distance_km: 27.82
+  - name: FLORA
+    distance_km: 31.67
+- country: US
+  region: MS
+  name: Bentonia
+  lat: '32.6437'
+  long: "-90.3692"
+  nearby_rate_centers:
+  - name: FLORA
+    distance_km: 12.69
+  - name: YAZOO CITY
+    distance_km: 23.17
+  - name: MADISON
+    distance_km: 30.75
+- country: US
+  region: MS
+  name: Bethlehem
+  lat: '34.5774'
+  long: "-89.3289"
+  nearby_rate_centers:
+  - name: MYRTLE
+    distance_km: 19.76
+  - name: HOLLY SPG
+    distance_km: 23.73
+  - name: CHULAHOMA
+    distance_km: 29.06
+- country: US
+  region: MS
+  name: Beulah
+  lat: '33.7905'
+  long: "-90.9802"
+  nearby_rate_centers:
+  - name: ROSEDALE
+    distance_km: 8.56
+  - name: PACE
+    distance_km: 11.94
+  - name: BENOIT
+    distance_km: 16.05
+- country: US
+  region: MS
+  name: Big Creek
+  lat: '33.8464'
+  long: "-89.4159"
+  nearby_rate_centers:
+  - name: CALHOUN CY
+    distance_km: 10.27
+  - name: SLATE SPG
+    distance_km: 13.23
+  - name: BRUCE
+    distance_km: 17.18
+  - name: LONG
+    distance_km: 17.18
+  - name: PARKER
+    distance_km: 17.18
+  - name: PITTSBORO
+    distance_km: 17.18
+- country: US
+  region: MS
+  name: Big Point
+  lat: '30.5905'
+  long: "-88.4846"
+  nearby_rate_centers:
+  - name: TANNERWLMS
+    distance_km: 5.72
+  - name: HURLEY
+    distance_km: 7.43
+  - name: MOSS POINT
+    distance_km: 20.66
+- country: US
+  region: MS
+  name: Biggersville
+  lat: '34.8367'
+  long: "-88.5639"
+  nearby_rate_centers:
+  - name: RIENZI
+    distance_km: 8.53
+  - name: CORINTH
+    distance_km: 12.23
+  - name: BOONEVILLE
+    distance_km: 19.7
+- country: US
+  region: MS
+  name: Biloxi
+  lat: '30.4426'
+  long: "-88.9514"
+  nearby_rate_centers:
+  - name: BILOXI
+    distance_km: 7.04
+  - name: OCEAN SPG
+    distance_km: 11.65
+  - name: GULFPORT
+    distance_km: 15.11
+- country: US
+  region: MS
+  name: Blue Mountain
+  lat: '34.6739'
+  long: "-89.0262"
+  nearby_rate_centers:
+  - name: BLUE MT
+    distance_km: 0.86
+  - name: RIPLEY
+    distance_km: 9.56
+  - name: MYRTLE
+    distance_km: 15.09
+- country: US
+  region: MS
+  name: Blue Springs
+  lat: '34.3922'
+  long: "-88.8779"
+  nearby_rate_centers:
+  - name: NEW ALBANY
+    distance_km: 15.66
+  - name: PONTOTOC
+    distance_km: 19.2
+  - name: GUNTOWN
+    distance_km: 20.43
+- country: US
+  region: MS
+  name: Bobo
+  lat: '34.1336'
+  long: "-90.6776"
+  nearby_rate_centers:
+  - name: DUNCAN
+    distance_km: 11.63
+  - name: CLARKSDALE
+    distance_km: 12.14
+  - name: SHELBY
+    distance_km: 21.91
+- country: US
+  region: MS
+  name: Bogue Chitto
+  lat: '32.8338'
+  long: "-88.9189"
+  nearby_rate_centers:
+  - name: LYNVILLE
+    distance_km: 9.67
+  - name: PHILA
+    distance_km: 18.75
+  - name: NOXAPATER
+    distance_km: 22.31
+- country: US
+  region: MS
+  name: Bolivar
+  lat: '33.6606'
+  long: "-91.0519"
+  nearby_rate_centers:
+  - name: BENOIT
+    distance_km: 4.27
+  - name: ROSEDALE
+    distance_km: 22.22
+  - name: PACE
+    distance_km: 23.13
+- country: US
+  region: MS
+  name: Bolton
+  lat: '32.3546'
+  long: "-90.4586"
+  nearby_rate_centers:
+  - name: BOLTON
+    distance_km: 0.4
+  - name: RAYMOND
+    distance_km: 11.58
+  - name: CLINTON
+    distance_km: 12.45
+- country: US
+  region: MS
+  name: Bond
+  lat: '30.8970'
+  long: "-89.1637"
+  nearby_rate_centers:
+  - name: WIGGINS
+    distance_km: 5.11
+  - name: JANICE
+    distance_km: 18.44
+  - name: LUMBERTON
+    distance_km: 30.67
+- country: US
+  region: MS
+  name: Booneville
+  lat: '34.6643'
+  long: "-88.5684"
+  nearby_rate_centers:
+  - name: BOONEVILLE
+    distance_km: 0.55
+  - name: RIENZI
+    distance_km: 12.04
+  - name: BALDWYN
+    distance_km: 18.45
+- country: US
+  region: MS
+  name: Bovina
+  lat: '32.3499'
+  long: "-90.7359"
+  nearby_rate_centers:
+  - name: EDWARDS
+    distance_km: 12.68
+  - name: VICKSBURG
+    distance_km: 14.09
+  - name: BOLTON
+    distance_km: 25.92
+- country: US
+  region: MS
+  name: Boyle
+  lat: '33.7065'
+  long: "-90.7249"
+  nearby_rate_centers:
+  - name: CLEVELAND
+    distance_km: 4.06
+  - name: SHAW
+    distance_km: 11.71
+  - name: PACE
+    distance_km: 14.56
+- country: US
+  region: MS
+  name: Brandon
+  lat: '32.2778'
+  long: "-89.9896"
+  nearby_rate_centers:
+  - name: BRANDON
+    distance_km: 0.44
+  - name: PELAHATCHI
+    distance_km: 18.4
+  - name: JACKSON
+    distance_km: 19.33
+- country: US
+  region: MS
+  name: Braxton
+  lat: '32.0264'
+  long: "-89.9715"
+  nearby_rate_centers:
+  - name: MENDENHALL
+    distance_km: 11.37
+  - name: FLORENCE
+    distance_km: 20.65
+  - name: GEORGETOWN
+    distance_km: 25.3
+- country: US
+  region: MS
+  name: Bridgetown
+  lat: '34.8907'
+  long: "-89.9069"
+  nearby_rate_centers:
+  - name: HERNANDO
+    distance_km: 10.76
+  - name: MEMPHIS
+    distance_km: 10.89
+  - name: OLIVE BRCH
+    distance_km: 12.06
+- country: US
+  region: MS
+  name: Brookhaven
+  lat: '31.5803'
+  long: "-90.4432"
+  nearby_rate_centers:
+  - name: BROOKHAVEN
+    distance_km: 0.79
+  - name: WESSON
+    distance_km: 13.87
+  - name: MONTICELLO
+    distance_km: 31.82
+- country: US
+  region: MS
+  name: Brooksville
+  lat: '33.2367'
+  long: "-88.5781"
+  nearby_rate_centers:
+  - name: MACON
+    distance_km: 13.6
+  - name: ARTESICWFD
+    distance_km: 14.6
+  - name: SHUQUALAK
+    distance_km: 29.11
+- country: US
+  region: MS
+  name: Bruce
+  lat: '33.9909'
+  long: "-89.3454"
+  nearby_rate_centers:
+  - name: BRUCE
+    distance_km: 0.44
+  - name: LONG
+    distance_km: 0.44
+  - name: PARKER
+    distance_km: 0.44
+  - name: PITTSBORO
+    distance_km: 0.44
+  - name: CALHOUN CY
+    distance_km: 15.16
+  - name: VARDAMAN
+    distance_km: 19.89
+- country: US
+  region: MS
+  name: Buckatunna
+  lat: '31.5424'
+  long: "-88.5292"
+  nearby_rate_centers:
+  - name: BUCKATUNNA
+    distance_km: 1.18
+  - name: STATE LINE
+    distance_km: 13.19
+  - name: WAYNESBORO
+    distance_km: 18.21
+- country: US
+  region: MS
+  name: Bude
+  lat: '31.4630'
+  long: "-90.8509"
+  nearby_rate_centers:
+  - name: MEADVILLE
+    distance_km: 3.94
+  - name: EDDICETON
+    distance_km: 6.97
+  - name: ROXIE
+    distance_km: 20.7
+- country: US
+  region: MS
+  name: Burnsville
+  lat: '34.8348'
+  long: "-88.3177"
+  nearby_rate_centers:
+  - name: BURNSVILLE
+    distance_km: 0.98
+  - name: IUKA
+    distance_km: 11.51
+  - name: YELLOW CRK
+    distance_km: 19.93
+- country: US
+  region: MS
+  name: Byhalia
+  lat: '34.8690'
+  long: "-89.6890"
+  nearby_rate_centers:
+  - name: BYHALIA
+    distance_km: 0.68
+  - name: OLIVE BRCH
+    distance_km: 15.9
+  - name: MTPLEASANT
+    distance_km: 18.16
+- country: US
+  region: MS
+  name: Byram
+  lat: '32.1890'
+  long: "-90.2861"
+  nearby_rate_centers:
+  - name: TERRY
+    distance_km: 9.86
+  - name: RAYMOND
+    distance_km: 14.45
+  - name: FLORENCE
+    distance_km: 14.82
+- country: US
+  region: MS
+  name: Caledonia
+  lat: '33.6836'
+  long: "-88.3260"
+  nearby_rate_centers:
+  - name: CALEDONIA
+    distance_km: 0.11
+  - name: COLUMBSAFB
+    distance_km: 13.61
+  - name: COLUMBUS
+    distance_km: 22.02
+- country: US
+  region: MS
+  name: Calhoun City
+  lat: '33.8588'
+  long: "-89.3145"
+  nearby_rate_centers:
+  - name: CALHOUN CY
+    distance_km: 0.81
+  - name: VARDAMAN
+    distance_km: 13.11
+  - name: SLATE SPG
+    distance_km: 14.65
+- country: US
+  region: MS
+  name: Canton
+  lat: '32.5975'
+  long: "-90.0317"
+  nearby_rate_centers:
+  - name: CANTON
+    distance_km: 1.33
+  - name: MADISON
+    distance_km: 16.71
+  - name: FLORA
+    distance_km: 26.85
+- country: US
+  region: MS
+  name: Carrollton
+  lat: '33.5056'
+  long: "-89.9218"
+  nearby_rate_centers:
+  - name: CARROLLTON
+    distance_km: 0.7
+  - name: WINONA
+    distance_km: 18.46
+  - name: GREENWOOD
+    distance_km: 24.08
+- country: US
+  region: MS
+  name: Carthage
+  lat: '32.7431'
+  long: "-89.5337"
+  nearby_rate_centers:
+  - name: CARTHAGE
+    distance_km: 0.22
+  - name: KOSCIUSKO
+    distance_km: 35.68
+  - name: PHILA
+    distance_km: 40.01
+- country: US
+  region: MS
+  name: Cary
+  lat: '32.8056'
+  long: "-90.9247"
+  nearby_rate_centers:
+  - name: ROLLNGFORK
+    distance_km: 12.17
+  - name: HOLLYBLUFF
+    distance_km: 20.28
+  - name: GLEN ALLAN
+    distance_km: 26.16
+- country: US
+  region: MS
+  name: Centreville
+  lat: '31.0870'
+  long: "-91.0655"
+  nearby_rate_centers:
+  - name: CENTREVL
+    distance_km: 0.42
+  - name: GLOSTER
+    distance_km: 13.52
+  - name: CROSBY
+    distance_km: 22.06
+- country: US
+  region: MS
+  name: Chalybeate
+  lat: '34.9319'
+  long: "-88.8703"
+  nearby_rate_centers:
+  - name: WALNUT
+    distance_km: 4.1
+  - name: RIPLEY
+    distance_km: 23.2
+  - name: ASHLAND
+    distance_km: 29.76
+- country: US
+  region: MS
+  name: Charleston
+  lat: '34.0075'
+  long: "-90.0552"
+  nearby_rate_centers:
+  - name: CHARLESTON
+    distance_km: 0.62
+  - name: OAKLAND
+    distance_km: 14.27
+  - name: SUMNER
+    distance_km: 29.15
+- country: US
+  region: MS
+  name: Chunky
+  lat: '32.3275'
+  long: "-88.9302"
+  nearby_rate_centers:
+  - name: DUFFEE
+    distance_km: 18.88
+  - name: ENTERPRISE
+    distance_km: 19.68
+  - name: DECATUR
+    distance_km: 20.57
+- country: US
+  region: MS
+  name: Clara
+  lat: '31.5831'
+  long: "-88.6916"
+  nearby_rate_centers:
+  - name: WAYNESBORO
+    distance_km: 11.26
+  - name: BUCKATUNNA
+    distance_km: 17.21
+  - name: STATE LINE
+    distance_km: 26.31
+- country: US
+  region: MS
+  name: Clarksdale
+  lat: '34.1933'
+  long: "-90.5693"
+  nearby_rate_centers:
+  - name: CLARKSDALE
+    distance_km: 1.07
+  - name: JONESTOWN
+    distance_km: 17.76
+  - name: FRIARS PT
+    distance_km: 19.97
+- country: US
+  region: MS
+  name: Cleary
+  lat: '32.1635'
+  long: "-90.1819"
+  nearby_rate_centers:
+  - name: FLORENCE
+    distance_km: 4.62
+  - name: TERRY
+    distance_km: 12.33
+  - name: JACKSON
+    distance_km: 15.43
+- country: US
+  region: MS
+  name: Cleveland
+  lat: '33.7440'
+  long: "-90.7285"
+  nearby_rate_centers:
+  - name: CLEVELAND
+    distance_km: 0.57
+  - name: MERIGOLD
+    distance_km: 10.92
+  - name: PACE
+    distance_km: 12.21
+- country: US
+  region: MS
+  name: Clinton
+  lat: '32.3540'
+  long: "-90.3403"
+  nearby_rate_centers:
+  - name: CLINTON
+    distance_km: 1.83
+  - name: BOLTON
+    distance_km: 11.25
+  - name: RAYMOND
+    distance_km: 13.05
+- country: US
+  region: MS
+  name: Cloverdale
+  lat: '31.4960'
+  long: "-91.4152"
+  nearby_rate_centers:
+  - name: NATCHEZ
+    distance_km: 7.09
+  - name: ROXIE
+    distance_km: 33.29
+  - name: CROSBY
+    distance_km: 41.13
+- country: US
+  region: MS
+  name: Coahoma
+  lat: '34.3664'
+  long: "-90.5220"
+  nearby_rate_centers:
+  - name: JONESTOWN
+    distance_km: 7.31
+  - name: LULA
+    distance_km: 9.74
+  - name: FRIARS PT
+    distance_km: 10.3
+- country: US
+  region: MS
+  name: Coffeeville
+  lat: '33.9764'
+  long: "-89.6845"
+  nearby_rate_centers:
+  - name: COFFEEVL
+    distance_km: 1.04
+  - name: WATER VLY
+    distance_km: 21.01
+  - name: OAKLAND
+    distance_km: 22.08
+- country: US
+  region: MS
+  name: Coldwater
+  lat: '34.6902'
+  long: "-89.9757"
+  nearby_rate_centers:
+  - name: COLDWATER
+    distance_km: 1.19
+  - name: SENATOBIA
+    distance_km: 8.05
+  - name: HERNANDO
+    distance_km: 15.06
+- country: US
+  region: MS
+  name: Collins
+  lat: '31.6469'
+  long: "-89.5669"
+  nearby_rate_centers:
+  - name: COLLINS
+    distance_km: 1.2
+  - name: SEMINARY
+    distance_km: 11.44
+  - name: MOUNTOLIVE
+    distance_km: 14.75
+- country: US
+  region: MS
+  name: Collinsville
+  lat: '32.4912'
+  long: "-88.8452"
+  nearby_rate_centers:
+  - name: OBADIAH
+    distance_km: 6.42
+  - name: DUFFEE
+    distance_km: 7.62
+  - name: BRIARWOOD
+    distance_km: 14.68
+- country: US
+  region: MS
+  name: Columbia
+  lat: '31.2564'
+  long: "-89.8266"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance_km: 0.7
+  - name: BASSFIELD
+    distance_km: 28.18
+  - name: SUMRALL
+    distance_km: 32.59
+- country: US
+  region: MS
+  name: Columbus
+  lat: '33.5088'
+  long: "-88.4096"
+  nearby_rate_centers:
+  - name: COLUMBUS
+    distance_km: 1.15
+  - name: COLUMBSAFB
+    distance_km: 12.85
+  - name: CALEDONIA
+    distance_km: 21.01
+- country: US
+  region: MS
+  name: Columbus AFB
+  lat: '33.6276'
+  long: "-88.4454"
+  nearby_rate_centers:
+  - name: COLUMBSAFB
+    distance_km: 1.08
+  - name: CALEDONIA
+    distance_km: 12.79
+  - name: COLUMBUS
+    distance_km: 14.31
+- country: US
+  region: MS
+  name: Como
+  lat: '34.5134'
+  long: "-89.9391"
+  nearby_rate_centers:
+  - name: COMO
+    distance_km: 0.9
+  - name: SARDIS
+    distance_km: 9.27
+  - name: SENATOBIA
+    distance_km: 11.92
+- country: US
+  region: MS
+  name: Conehatta
+  lat: '32.4601'
+  long: "-89.2785"
+  nearby_rate_centers:
+  - name: LAKE
+    distance_km: 13.2
+  - name: DECATUR
+    distance_km: 16.24
+  - name: HICKORY
+    distance_km: 19.21
+  - name: NEWTONHKRY
+    distance_km: 19.21
+- country: US
+  region: MS
+  name: Corinth
+  lat: '34.9474'
+  long: "-88.5143"
+  nearby_rate_centers:
+  - name: CORINTH
+    distance_km: 0.89
+  - name: RIENZI
+    distance_km: 20.12
+  - name: BURNSVILLE
+    distance_km: 22.04
+- country: US
+  region: MS
+  name: Courtland
+  lat: '34.2411'
+  long: "-89.9433"
+  nearby_rate_centers:
+  - name: BATESVILLE
+    distance_km: 7.49
+  - name: SARDIS
+    distance_km: 21.41
+  - name: OAKLAND
+    distance_km: 21.75
+- country: US
+  region: MS
+  name: Crawford
+  lat: '33.3023'
+  long: "-88.6255"
+  nearby_rate_centers:
+  - name: ARTESICWFD
+    distance_km: 6.44
+  - name: MACON
+    distance_km: 21.69
+  - name: STARKVILLE
+    distance_km: 25.04
+- country: US
+  region: MS
+  name: Crenshaw
+  lat: '34.5047'
+  long: "-90.1946"
+  nearby_rate_centers:
+  - name: CRENSHAW
+    distance_km: 0.46
+  - name: COMO
+    distance_km: 23.9
+  - name: SENATOBIA
+    distance_km: 24.38
+- country: US
+  region: MS
+  name: Crosby
+  lat: '31.2791'
+  long: "-91.0630"
+  nearby_rate_centers:
+  - name: CROSBY
+    distance_km: 0.78
+  - name: GLOSTER
+    distance_km: 9.74
+  - name: CENTREVL
+    distance_km: 21.67
+- country: US
+  region: MS
+  name: Crowder
+  lat: '34.1729'
+  long: "-90.1376"
+  nearby_rate_centers:
+  - name: MARKS
+    distance_km: 15.03
+  - name: CHARLESTON
+    distance_km: 20.13
+  - name: BATESVILLE
+    distance_km: 22.73
+- country: US
+  region: MS
+  name: Cruger
+  lat: '33.3230'
+  long: "-90.2355"
+  nearby_rate_centers:
+  - name: TCHULA
+    distance_km: 15.35
+  - name: ITTA BENA
+    distance_km: 21.23
+  - name: GREENWOOD
+    distance_km: 22.1
+- country: US
+  region: MS
+  name: Crystal Springs
+  lat: '31.9903'
+  long: "-90.3540"
+  nearby_rate_centers:
+  - name: CRYSTALSPG
+    distance_km: 0.73
+  - name: TERRY
+    distance_km: 13.66
+  - name: HAZLEHURST
+    distance_km: 14.23
+- country: US
+  region: MS
+  name: D'Iberville
+  lat: '30.4709'
+  long: "-88.9011"
+  nearby_rate_centers:
+  - name: BILOXI
+    distance_km: 7.88
+  - name: OCEAN SPG
+    distance_km: 8.74
+  - name: GULFPORT
+    distance_km: 20.85
+- country: US
+  region: MS
+  name: D'Lo
+  lat: '31.9869'
+  long: "-89.9011"
+  nearby_rate_centers:
+  - name: MENDENHALL
+    distance_km: 3.43
+  - name: MAGEE
+    distance_km: 20.05
+  - name: WHITE OAK
+    distance_km: 22.0
+- country: US
+  region: MS
+  name: Darling
+  lat: '34.3591'
+  long: "-90.2754"
+  nearby_rate_centers:
+  - name: MARKS
+    distance_km: 11.45
+  - name: CRENSHAW
+    distance_km: 17.34
+  - name: JONESTOWN
+    distance_km: 17.38
+- country: US
+  region: MS
+  name: De Kalb
+  lat: '32.7707'
+  long: "-88.6560"
+  nearby_rate_centers:
+  - name: DE KALB
+    distance_km: 0.66
+  - name: LYNVILLE
+    distance_km: 18.35
+  - name: SCOOBA
+    distance_km: 18.39
+- country: US
+  region: MS
+  name: De Soto
+  lat: '31.9699'
+  long: "-88.7205"
+  nearby_rate_centers:
+  - name: QUITMAN
+    distance_km: 7.07
+  - name: SHUBUTA
+    distance_km: 12.91
+  - name: ENTERPRISE
+    distance_km: 24.79
+- country: US
+  region: MS
+  name: DeLisle
+  lat: '30.3848'
+  long: "-89.2746"
+  nearby_rate_centers:
+  - name: PASSCHRSTN
+    distance_km: 7.78
+  - name: BAYSTLOUIS
+    distance_km: 10.33
+  - name: GULFPORT
+    distance_km: 17.88
+- country: US
+  region: MS
+  name: Decatur
+  lat: '32.4339'
+  long: "-89.1092"
+  nearby_rate_centers:
+  - name: DECATUR
+    distance_km: 0.24
+  - name: HICKORY
+    distance_km: 14.17
+  - name: NEWTONHKRY
+    distance_km: 14.17
+  - name: UNION
+    distance_km: 14.93
+- country: US
+  region: MS
+  name: Delta City
+  lat: '33.0738'
+  long: "-90.7925"
+  nearby_rate_centers:
+  - name: HOLLANDALE
+    distance_km: 11.73
+  - name: ROLLNGFORK
+    distance_km: 20.1
+  - name: LOUISE
+    distance_km: 21.38
+- country: US
+  region: MS
+  name: Dennis
+  lat: '34.5590'
+  long: "-88.2303"
+  nearby_rate_centers:
+  - name: BELMONT
+    distance_km: 5.66
+  - name: TISHOMINGO
+    distance_km: 8.09
+  - name: RED BAY
+    distance_km: 14.57
+- country: US
+  region: MS
+  name: Derma
+  lat: '33.8589'
+  long: "-89.2878"
+  nearby_rate_centers:
+  - name: CALHOUN CY
+    distance_km: 1.65
+  - name: VARDAMAN
+    distance_km: 10.69
+  - name: SLATE SPG
+    distance_km: 15.65
+- country: US
+  region: MS
+  name: Diamondhead
+  lat: '30.3791'
+  long: "-89.3707"
+  nearby_rate_centers:
+  - name: BAYSTLOUIS
+    distance_km: 8.72
+  - name: PASSCHRSTN
+    distance_km: 13.33
+  - name: PEARLINGTN
+    distance_km: 26.85
+- country: US
+  region: MS
+  name: Doddsville
+  lat: '33.6598'
+  long: "-90.5214"
+  nearby_rate_centers:
+  - name: RULEVILLE
+    distance_km: 7.63
+  - name: SUNFLOWER
+    distance_km: 12.44
+  - name: DREW
+    distance_km: 16.64
+- country: US
+  region: MS
+  name: Drew
+  lat: '33.8101'
+  long: "-90.5304"
+  nearby_rate_centers:
+  - name: DREW
+    distance_km: 0.15
+  - name: RULEVILLE
+    distance_km: 9.72
+  - name: MERIGOLD
+    distance_km: 18.48
+- country: US
+  region: MS
+  name: Dublin
+  lat: '34.0727'
+  long: "-90.4892"
+  nearby_rate_centers:
+  - name: TUTWILER
+    distance_km: 8.58
+  - name: SUMNER
+    distance_km: 15.59
+  - name: CLARKSDALE
+    distance_km: 16.38
+- country: US
+  region: MS
+  name: Duck Hill
+  lat: '33.6316'
+  long: "-89.7154"
+  nearby_rate_centers:
+  - name: DUCK HILL
+    distance_km: 0.73
+  - name: WINONA
+    distance_km: 16.69
+  - name: GRENADA
+    distance_km: 18.41
+- country: US
+  region: MS
+  name: Dumas
+  lat: '34.6381'
+  long: "-88.8431"
+  nearby_rate_centers:
+  - name: RIPLEY
+    distance_km: 14.59
+  - name: BLUE MT
+    distance_km: 16.87
+  - name: NEW ALBANY
+    distance_km: 21.82
+- country: US
+  region: MS
+  name: Duncan
+  lat: '34.0418'
+  long: "-90.7459"
+  nearby_rate_centers:
+  - name: DUNCAN
+    distance_km: 0.55
+  - name: SHELBY
+    distance_km: 10.26
+  - name: MOUNDBAYOU
+    distance_km: 17.68
+- country: US
+  region: MS
+  name: Dundee
+  lat: '34.5271'
+  long: "-90.4533"
+  nearby_rate_centers:
+  - name: LULA
+    distance_km: 9.21
+  - name: TUNICA
+    distance_km: 18.64
+  - name: JONESTOWN
+    distance_km: 22.47
+- country: US
+  region: MS
+  name: Durant
+  lat: '33.0799'
+  long: "-89.8566"
+  nearby_rate_centers:
+  - name: DURANT
+    distance_km: 0.51
+  - name: GOODMAN
+    distance_km: 13.56
+  - name: WEST
+    distance_km: 15.18
+- country: US
+  region: MS
+  name: Eagle Bend
+  lat: '32.5227'
+  long: "-91.0229"
+  nearby_rate_centers:
+  - name: EAGLE LAKE
+    distance_km: 3.43
+  - name: VICKSBURG
+    distance_km: 23.9
+  - name: HOLLYBLUFF
+    distance_km: 44.12
+- country: US
+  region: MS
+  name: Eastabuchie
+  lat: '31.4335'
+  long: "-89.2847"
+  nearby_rate_centers:
+  - name: HATTIESBG
+    distance_km: 12.99
+  - name: PITTMAN
+    distance_km: 16.97
+  - name: ELLISVILLE
+    distance_km: 20.39
+- country: US
+  region: MS
+  name: Ecru
+  lat: '34.3550'
+  long: "-89.0222"
+  nearby_rate_centers:
+  - name: PONTOTOC
+    distance_km: 11.53
+  - name: NEW ALBANY
+    distance_km: 15.2
+  - name: MYRTLE
+    distance_km: 24.21
+- country: US
+  region: MS
+  name: Eden
+  lat: '32.9837'
+  long: "-90.3240"
+  nearby_rate_centers:
+  - name: YAZOO CITY
+    distance_km: 16.41
+  - name: TCHULA
+    distance_km: 24.18
+  - name: LOUISE
+    distance_km: 24.98
+- country: US
+  region: MS
+  name: Edwards
+  lat: '32.3326'
+  long: "-90.6055"
+  nearby_rate_centers:
+  - name: EDWARDS
+    distance_km: 0.29
+  - name: BOLTON
+    distance_km: 13.82
+  - name: RAYMOND
+    distance_km: 19.6
+- country: US
+  region: MS
+  name: Elizabeth
+  lat: '33.4271'
+  long: "-90.8808"
+  nearby_rate_centers:
+  - name: LELAND
+    distance_km: 2.66
+  - name: GREENVILLE
+    distance_km: 16.03
+  - name: INDIANOLA
+    distance_km: 21.49
+- country: US
+  region: MS
+  name: Elliott
+  lat: '33.6913'
+  long: "-89.7525"
+  nearby_rate_centers:
+  - name: DUCK HILL
+    distance_km: 7.49
+  - name: GRENADA
+    distance_km: 10.94
+  - name: WINONA
+    distance_km: 23.45
+- country: US
+  region: MS
+  name: Ellisville
+  lat: '31.5969'
+  long: "-89.2091"
+  nearby_rate_centers:
+  - name: ELLISVILLE
+    distance_km: 0.98
+  - name: BIG CREEK
+    distance_km: 12.5
+  - name: LAUREL
+    distance_km: 12.8
+- country: US
+  region: MS
+  name: Enterprise
+  lat: '32.1731'
+  long: "-88.8163"
+  nearby_rate_centers:
+  - name: ENTERPRISE
+    distance_km: 0.87
+  - name: ROSE HILL
+    distance_km: 17.48
+  - name: QUITMAN
+    distance_km: 17.68
+- country: US
+  region: MS
+  name: Escatawpa
+  lat: '30.4912'
+  long: "-88.5495"
+  nearby_rate_centers:
+  - name: MOSS POINT
+    distance_km: 9.33
+  - name: VANCLEAVE
+    distance_km: 13.86
+  - name: PASCAGOULA
+    distance_km: 13.97
+- country: US
+  region: MS
+  name: Ethel
+  lat: '33.1220'
+  long: "-89.4650"
+  nearby_rate_centers:
+  - name: ETHEL
+    distance_km: 0.73
+  - name: KOSCIUSKO
+    distance_km: 13.76
+  - name: MCCOOL
+    distance_km: 14.62
+- country: US
+  region: MS
+  name: Eudora
+  lat: '34.8310'
+  long: "-90.1488"
+  nearby_rate_centers:
+  - name: HERNANDO
+    distance_km: 14.21
+  - name: COLDWATER
+    distance_km: 23.41
+  - name: MEMPHIS
+    distance_km: 24.76
+- country: US
+  region: MS
+  name: Eupora
+  lat: '33.5435'
+  long: "-89.2765"
+  nearby_rate_centers:
+  - name: EUPORA
+    distance_km: 0.46
+  - name: MABEN
+    distance_km: 17.85
+  - name: CHESTER
+    distance_km: 21.09
+- country: US
+  region: MS
+  name: Falcon
+  lat: '34.3910'
+  long: "-90.2555"
+  nearby_rate_centers:
+  - name: CRENSHAW
+    distance_km: 13.36
+  - name: MARKS
+    distance_km: 15.0
+  - name: JONESTOWN
+    distance_km: 20.16
+- country: US
+  region: MS
+  name: Falkner
+  lat: '34.8380'
+  long: "-88.9424"
+  nearby_rate_centers:
+  - name: RIPLEY
+    distance_km: 11.57
+  - name: WALNUT
+    distance_km: 13.74
+  - name: BLUE MT
+    distance_km: 20.5
+- country: US
+  region: MS
+  name: Farmington
+  lat: '34.9224'
+  long: "-88.4432"
+  nearby_rate_centers:
+  - name: CORINTH
+    distance_km: 7.16
+  - name: BURNSVILLE
+    distance_km: 15.11
+  - name: RIENZI
+    distance_km: 18.87
+- country: US
+  region: MS
+  name: Farrell
+  lat: '34.2617'
+  long: "-90.6750"
+  nearby_rate_centers:
+  - name: CLARKSDALE
+    distance_km: 11.37
+  - name: FRIARS PT
+    distance_km: 12.05
+  - name: JONESTOWN
+    distance_km: 20.96
+- country: US
+  region: MS
+  name: Fayette
+  lat: '31.7122'
+  long: "-91.0620"
+  nearby_rate_centers:
+  - name: FAYETTE
+    distance_km: 0.47
+  - name: ROXIE
+    distance_km: 23.31
+  - name: PORTGIBSON
+    distance_km: 28.18
+- country: US
+  region: MS
+  name: Fernwood
+  lat: '31.1847'
+  long: "-90.4531"
+  nearby_rate_centers:
+  - name: MAGNOLIA
+    distance_km: 4.7
+  - name: MCCOMB
+    distance_km: 6.38
+  - name: OSYKA
+    distance_km: 20.85
+- country: US
+  region: MS
+  name: Flora
+  lat: '32.5433'
+  long: "-90.3141"
+  nearby_rate_centers:
+  - name: FLORA
+    distance_km: 0.44
+  - name: MADISON
+    distance_km: 20.31
+  - name: CLINTON
+    distance_km: 22.4
+- country: US
+  region: MS
+  name: Florence
+  lat: '32.1557'
+  long: "-90.1225"
+  nearby_rate_centers:
+  - name: FLORENCE
+    distance_km: 1.44
+  - name: TERRY
+    distance_km: 16.89
+  - name: JACKSON
+    distance_km: 17.57
+- country: US
+  region: MS
+  name: Flowood
+  lat: '32.3359'
+  long: "-90.0802"
+  nearby_rate_centers:
+  - name: BRANDON
+    distance_km: 11.11
+  - name: JACKSON
+    distance_km: 11.28
+  - name: MADISON
+    distance_km: 14.89
+- country: US
+  region: MS
+  name: Forest
+  lat: '32.3595'
+  long: "-89.4761"
+  nearby_rate_centers:
+  - name: FOREST
+    distance_km: 0.66
+  - name: HOMEWOOD
+    distance_km: 13.32
+  - name: LAKE
+    distance_km: 13.96
+- country: US
+  region: MS
+  name: Foxworth
+  lat: '31.2385'
+  long: "-89.8828"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance_km: 5.27
+  - name: TYLERTOWN
+    distance_km: 27.62
+  - name: BASSFIELD
+    distance_km: 31.9
+- country: US
+  region: MS
+  name: French Camp
+  lat: '33.2931'
+  long: "-89.3993"
+  nearby_rate_centers:
+  - name: MCCOOL
+    distance_km: 11.65
+  - name: CHESTER
+    distance_km: 16.23
+  - name: ETHEL
+    distance_km: 20.7
+- country: US
+  region: MS
+  name: Friars Point
+  lat: '34.3679'
+  long: "-90.6379"
+  nearby_rate_centers:
+  - name: FRIARS PT
+    distance_km: 0.49
+  - name: LULA
+    distance_km: 16.55
+  - name: JONESTOWN
+    distance_km: 17.0
+- country: US
+  region: MS
+  name: Fulton
+  lat: '34.2616'
+  long: "-88.4021"
+  nearby_rate_centers:
+  - name: FULTON
+    distance_km: 1.73
+  - name: MANTACHIE
+    distance_km: 10.73
+  - name: FAIRVIEW
+    distance_km: 14.01
+- country: US
+  region: MS
+  name: Gattman
+  lat: '33.8848'
+  long: "-88.2367"
+  nearby_rate_centers:
+  - name: CALEDONIA
+    distance_km: 23.76
+  - name: SMITHVILLE
+    distance_km: 25.18
+  - name: AMORY
+    distance_km: 25.21
+- country: US
+  region: MS
+  name: Gautier
+  lat: '30.4106'
+  long: "-88.6568"
+  nearby_rate_centers:
+  - name: PASCAGOULA
+    distance_km: 11.45
+  - name: MOSS POINT
+    distance_km: 12.13
+  - name: VANCLEAVE
+    distance_km: 13.14
+- country: US
+  region: MS
+  name: Georgetown
+  lat: '31.8698'
+  long: "-90.1648"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance_km: 0.27
+  - name: HAZLEHURST
+    distance_km: 21.92
+  - name: CRYSTALSPG
+    distance_km: 22.01
+- country: US
+  region: MS
+  name: Glen
+  lat: '34.8585'
+  long: "-88.4199"
+  nearby_rate_centers:
+  - name: BURNSVILLE
+    distance_km: 10.18
+  - name: CORINTH
+    distance_km: 12.8
+  - name: RIENZI
+    distance_km: 14.04
+- country: US
+  region: MS
+  name: Glen Allan
+  lat: '33.0267'
+  long: "-91.0226"
+  nearby_rate_centers:
+  - name: GLEN ALLAN
+    distance_km: 0.43
+  - name: ROLLNGFORK
+    distance_km: 19.13
+  - name: HOLLANDALE
+    distance_km: 22.56
+- country: US
+  region: MS
+  name: Glendale
+  lat: '31.3680'
+  long: "-89.3086"
+  nearby_rate_centers:
+  - name: HATTIESBG
+    distance_km: 5.86
+  - name: SUMRALL
+    distance_km: 22.68
+  - name: PITTMAN
+    distance_km: 22.92
+- country: US
+  region: MS
+  name: Glendora
+  lat: '33.8275'
+  long: "-90.2926"
+  nearby_rate_centers:
+  - name: SUMNER
+    distance_km: 17.77
+  - name: DREW
+    distance_km: 22.17
+  - name: TUTWILER
+    distance_km: 24.18
+- country: US
+  region: MS
+  name: Gloster
+  lat: '31.1951'
+  long: "-91.0176"
+  nearby_rate_centers:
+  - name: GLOSTER
+    distance_km: 0.67
+  - name: CROSBY
+    distance_km: 10.77
+  - name: CENTREVL
+    distance_km: 13.24
+- country: US
+  region: MS
+  name: Gluckstadt
+  lat: '32.5322'
+  long: "-90.1034"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 7.49
+  - name: CANTON
+    distance_km: 11.01
+  - name: FLORA
+    distance_km: 19.42
+- country: US
+  region: MS
+  name: Golden
+  lat: '34.4866'
+  long: "-88.1863"
+  nearby_rate_centers:
+  - name: BELMONT
+    distance_km: 3.7
+  - name: RED BAY
+    distance_km: 5.57
+  - name: TISHOMINGO
+    distance_km: 16.7
+- country: US
+  region: MS
+  name: Goodman
+  lat: '32.9677'
+  long: "-89.9128"
+  nearby_rate_centers:
+  - name: GOODMAN
+    distance_km: 0.12
+  - name: PICKENS
+    distance_km: 10.41
+  - name: DURANT
+    distance_km: 13.87
+- country: US
+  region: MS
+  name: Grace
+  lat: '32.9915'
+  long: "-90.9569"
+  nearby_rate_centers:
+  - name: GLEN ALLAN
+    distance_km: 7.48
+  - name: ROLLNGFORK
+    distance_km: 12.09
+  - name: HOLLANDALE
+    distance_km: 22.06
+- country: US
+  region: MS
+  name: Greenville
+  lat: '33.3850'
+  long: "-91.0514"
+  nearby_rate_centers:
+  - name: GREENVILLE
+    distance_km: 2.71
+  - name: LELAND
+    distance_km: 14.29
+  - name: BENOIT
+    distance_km: 29.52
+- country: US
+  region: MS
+  name: Greenwood
+  lat: '33.5126'
+  long: "-90.1993"
+  nearby_rate_centers:
+  - name: GREENWOOD
+    distance_km: 1.73
+  - name: ITTA BENA
+    distance_km: 11.12
+  - name: CARROLLTON
+    distance_km: 26.24
+- country: US
+  region: MS
+  name: Grenada
+  lat: '33.7816'
+  long: "-89.8130"
+  nearby_rate_centers:
+  - name: GRENADA
+    distance_km: 1.17
+  - name: DUCK HILL
+    distance_km: 18.97
+  - name: COFFEEVL
+    distance_km: 25.18
+- country: US
+  region: MS
+  name: Gulf Hills
+  lat: '30.4367'
+  long: "-88.8150"
+  nearby_rate_centers:
+  - name: OCEAN SPG
+    distance_km: 2.66
+  - name: BILOXI
+    distance_km: 8.85
+  - name: VANCLEAVE
+    distance_km: 15.63
+- country: US
+  region: MS
+  name: Gulf Park Estates
+  lat: '30.3802'
+  long: "-88.7581"
+  nearby_rate_centers:
+  - name: OCEAN SPG
+    distance_km: 8.36
+  - name: BILOXI
+    distance_km: 13.5
+  - name: VANCLEAVE
+    distance_km: 17.48
+- country: US
+  region: MS
+  name: Gulfport
+  lat: '30.4274'
+  long: "-89.0704"
+  nearby_rate_centers:
+  - name: GULFPORT
+    distance_km: 6.01
+  - name: BILOXI
+    distance_km: 16.91
+  - name: PASSCHRSTN
+    distance_km: 21.21
+- country: US
+  region: MS
+  name: Gunnison
+  lat: '33.9437'
+  long: "-90.9468"
+  nearby_rate_centers:
+  - name: GUNNISON
+    distance_km: 0.35
+  - name: ROSEDALE
+    distance_km: 11.74
+  - name: SHELBY
+    distance_km: 16.51
+- country: US
+  region: MS
+  name: Guntown
+  lat: '34.4447'
+  long: "-88.6641"
+  nearby_rate_centers:
+  - name: GUNTOWN
+    distance_km: 0.33
+  - name: BALDWYN
+    distance_km: 7.51
+  - name: MANTACHIE
+    distance_km: 20.79
+- country: US
+  region: MS
+  name: Hamilton
+  lat: '33.7460'
+  long: "-88.4095"
+  nearby_rate_centers:
+  - name: CALEDONIA
+    distance_km: 10.42
+  - name: COLUMBSAFB
+    distance_km: 14.63
+  - name: ABERDEEN
+    distance_km: 15.51
+- country: US
+  region: MS
+  name: Harperville
+  lat: '32.4928'
+  long: "-89.4879"
+  nearby_rate_centers:
+  - name: FOREST
+    distance_km: 14.21
+  - name: LAKE
+    distance_km: 21.93
+  - name: MORTON
+    distance_km: 22.57
+- country: US
+  region: MS
+  name: Hatley
+  lat: '33.9773'
+  long: "-88.4184"
+  nearby_rate_centers:
+  - name: AMORY
+    distance_km: 5.91
+  - name: SMITHVILLE
+    distance_km: 9.88
+  - name: ABERDEEN
+    distance_km: 21.07
+- country: US
+  region: MS
+  name: Hattiesburg
+  lat: '31.3074'
+  long: "-89.3170"
+  nearby_rate_centers:
+  - name: HATTIESBG
+    distance_km: 2.47
+  - name: PURVIS
+    distance_km: 20.61
+  - name: SUMRALL
+    distance_km: 24.5
+- country: US
+  region: MS
+  name: Hazlehurst
+  lat: '31.8646'
+  long: "-90.3929"
+  nearby_rate_centers:
+  - name: HAZLEHURST
+    distance_km: 0.5
+  - name: CRYSTALSPG
+    distance_km: 13.73
+  - name: WESSON
+    distance_km: 18.33
+- country: US
+  region: MS
+  name: Heidelberg
+  lat: '31.8897'
+  long: "-88.9878"
+  nearby_rate_centers:
+  - name: HEIDELBERG
+    distance_km: 0.69
+  - name: LAUREL
+    distance_km: 25.91
+  - name: SHUBUTA
+    distance_km: 27.55
+- country: US
+  region: MS
+  name: Helena
+  lat: '30.4881'
+  long: "-88.5056"
+  nearby_rate_centers:
+  - name: MOSS POINT
+    distance_km: 9.12
+  - name: PASCAGOULA
+    distance_km: 14.25
+  - name: TANNERWLMS
+    distance_km: 16.87
+- country: US
+  region: MS
+  name: Henderson Point
+  lat: '30.3153'
+  long: "-89.2864"
+  nearby_rate_centers:
+  - name: PASSCHRSTN
+    distance_km: 3.37
+  - name: BAYSTLOUIS
+    distance_km: 4.66
+  - name: GULFPORT
+    distance_km: 20.14
+- country: US
+  region: MS
+  name: Hermanville
+  lat: '31.9570'
+  long: "-90.8405"
+  nearby_rate_centers:
+  - name: HERMANVL
+    distance_km: 0.73
+  - name: PORTGIBSON
+    distance_km: 13.71
+  - name: BARLOW
+    distance_km: 24.06
+- country: US
+  region: MS
+  name: Hernando
+  lat: '34.8500'
+  long: "-89.9921"
+  nearby_rate_centers:
+  - name: HERNANDO
+    distance_km: 2.8
+  - name: MEMPHIS
+    distance_km: 15.21
+  - name: COLDWATER
+    distance_km: 18.59
+- country: US
+  region: MS
+  name: Hickory
+  lat: '32.3167'
+  long: "-89.0217"
+  nearby_rate_centers:
+  - name: HICKORY
+    distance_km: 13.55
+  - name: NEWTONHKRY
+    distance_km: 13.55
+  - name: DECATUR
+    distance_km: 15.51
+  - name: ROSE HILL
+    distance_km: 19.1
+- country: US
+  region: MS
+  name: Hickory Flat
+  lat: '34.6160'
+  long: "-89.1913"
+  nearby_rate_centers:
+  - name: MYRTLE
+    distance_km: 9.48
+  - name: BLUE MT
+    distance_km: 16.27
+  - name: NEW ALBANY
+    distance_km: 22.38
+- country: US
+  region: MS
+  name: Hide-A-Way Lake
+  lat: '30.5740'
+  long: "-89.6418"
+  nearby_rate_centers:
+  - name: PICAYUNE
+    distance_km: 6.11
+  - name: CROSSROADS
+    distance_km: 27.44
+  - name: POPLARVL
+    distance_km: 32.19
+- country: US
+  region: MS
+  name: Hillsboro
+  lat: '32.4491'
+  long: "-89.4889"
+  nearby_rate_centers:
+  - name: FOREST
+    distance_km: 9.39
+  - name: LAKE
+    distance_km: 18.77
+  - name: MORTON
+    distance_km: 19.4
+- country: US
+  region: MS
+  name: Holcomb
+  lat: '33.7642'
+  long: "-89.9732"
+  nearby_rate_centers:
+  - name: GRENADA
+    distance_km: 16.09
+  - name: CHARLESTON
+    distance_km: 27.94
+  - name: DUCK HILL
+    distance_km: 28.41
+- country: US
+  region: MS
+  name: Hollandale
+  lat: '33.1761'
+  long: "-90.8529"
+  nearby_rate_centers:
+  - name: HOLLANDALE
+    distance_km: 0.96
+  - name: GLEN ALLAN
+    distance_km: 23.34
+  - name: LELAND
+    distance_km: 26.33
+- country: US
+  region: MS
+  name: Holly Springs
+  lat: '34.7768'
+  long: "-89.4466"
+  nearby_rate_centers:
+  - name: HOLLY SPG
+    distance_km: 1.21
+  - name: MTPLEASANT
+    distance_km: 20.05
+  - name: CHULAHOMA
+    distance_km: 20.34
+- country: US
+  region: MS
+  name: Horn Lake
+  lat: '34.9512'
+  long: "-90.0501"
+  nearby_rate_centers:
+  - name: MEMPHIS
+    distance_km: 9.8
+  - name: HERNANDO
+    distance_km: 14.97
+  - name: OLIVE BRCH
+    distance_km: 21.55
+- country: US
+  region: MS
+  name: Houston
+  lat: '33.8963'
+  long: "-89.0031"
+  nearby_rate_centers:
+  - name: HOUSTON
+    distance_km: 0.6
+  - name: HOULKA
+    distance_km: 15.1
+  - name: VARDAMAN
+    distance_km: 15.97
+- country: US
+  region: MS
+  name: Hurley
+  lat: '30.6638'
+  long: "-88.4994"
+  nearby_rate_centers:
+  - name: HURLEY
+    distance_km: 0.94
+  - name: TANNERWLMS
+    distance_km: 6.01
+  - name: VANCLEAVE
+    distance_km: 23.75
+- country: US
+  region: MS
+  name: Independence
+  lat: '34.7078'
+  long: "-89.8075"
+  nearby_rate_centers:
+  - name: COLDWATER
+    distance_km: 14.62
+  - name: CHULAHOMA
+    distance_km: 17.12
+  - name: SENATOBIA
+    distance_km: 17.66
+- country: US
+  region: MS
+  name: Indianola
+  lat: '33.4492'
+  long: "-90.6447"
+  nearby_rate_centers:
+  - name: INDIANOLA
+    distance_km: 0.67
+  - name: INVERNESS
+    distance_km: 11.9
+  - name: MOORHEAD
+    distance_km: 13.51
+- country: US
+  region: MS
+  name: Inverness
+  lat: '33.3543'
+  long: "-90.5913"
+  nearby_rate_centers:
+  - name: INVERNESS
+    distance_km: 0.37
+  - name: ISOLA
+    distance_km: 9.54
+  - name: INDIANOLA
+    distance_km: 12.2
+- country: US
+  region: MS
+  name: Isola
+  lat: '33.2634'
+  long: "-90.5923"
+  nearby_rate_centers:
+  - name: ISOLA
+    distance_km: 0.57
+  - name: INVERNESS
+    distance_km: 9.77
+  - name: BELZONI
+    distance_km: 13.57
+- country: US
+  region: MS
+  name: Itta Bena
+  lat: '33.5003'
+  long: "-90.3256"
+  nearby_rate_centers:
+  - name: ITTA BENA
+    distance_km: 0.67
+  - name: GREENWOOD
+    distance_km: 13.51
+  - name: MOORHEAD
+    distance_km: 16.98
+- country: US
+  region: MS
+  name: Iuka
+  lat: '34.8077'
+  long: "-88.1978"
+  nearby_rate_centers:
+  - name: IUKA
+    distance_km: 1.13
+  - name: BURNSVILLE
+    distance_km: 10.92
+  - name: TISHOMINGO
+    distance_km: 19.84
+- country: US
+  region: MS
+  name: Jacinto
+  lat: '34.7622'
+  long: "-88.4276"
+  nearby_rate_centers:
+  - name: RIENZI
+    distance_km: 8.96
+  - name: BURNSVILLE
+    distance_km: 13.85
+  - name: BOONEVILLE
+    distance_km: 17.07
+- country: US
+  region: MS
+  name: Jackson
+  lat: '32.3157'
+  long: "-90.2125"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 2.37
+  - name: CLINTON
+    distance_km: 11.14
+  - name: MADISON
+    distance_km: 18.92
+- country: US
+  region: MS
+  name: Jonestown
+  lat: '34.3222'
+  long: "-90.4541"
+  nearby_rate_centers:
+  - name: JONESTOWN
+    distance_km: 0.64
+  - name: LULA
+    distance_km: 14.41
+  - name: FRIARS PT
+    distance_km: 17.2
+- country: US
+  region: MS
+  name: Jumpertown
+  lat: '34.7079'
+  long: "-88.6619"
+  nearby_rate_centers:
+  - name: BOONEVILLE
+    distance_km: 10.24
+  - name: RIENZI
+    distance_km: 14.07
+  - name: BALDWYN
+    distance_km: 22.18
+- country: US
+  region: MS
+  name: Kearney Park
+  lat: '32.5897'
+  long: "-90.3158"
+  nearby_rate_centers:
+  - name: FLORA
+    distance_km: 5.45
+  - name: MADISON
+    distance_km: 23.1
+  - name: CANTON
+    distance_km: 26.88
+- country: US
+  region: MS
+  name: Kilmichael
+  lat: '33.4403'
+  long: "-89.5665"
+  nearby_rate_centers:
+  - name: KILMICHAEL
+    distance_km: 0.13
+  - name: WINONA
+    distance_km: 15.39
+  - name: VAIDEN
+    distance_km: 20.19
+- country: US
+  region: MS
+  name: Kiln
+  lat: '30.4171'
+  long: "-89.4322"
+  nearby_rate_centers:
+  - name: BAYSTLOUIS
+    distance_km: 15.42
+  - name: PASSCHRSTN
+    distance_km: 20.57
+  - name: PEARLINGTN
+    distance_km: 25.01
+- country: US
+  region: MS
+  name: Kirkville
+  lat: '34.4420'
+  long: "-88.4854"
+  nearby_rate_centers:
+  - name: MANTACHIE
+    distance_km: 13.35
+  - name: BALDWYN
+    distance_km: 16.03
+  - name: GUNTOWN
+    distance_km: 16.52
+- country: US
+  region: MS
+  name: Kokomo
+  lat: '31.1991'
+  long: "-90.0008"
+  nearby_rate_centers:
+  - name: TYLERTOWN
+    distance_km: 15.81
+  - name: COLUMBIA
+    distance_km: 17.31
+  - name: MONTICELLO
+    distance_km: 40.51
+- country: US
+  region: MS
+  name: Kosciusko
+  lat: '33.0585'
+  long: "-89.5893"
+  nearby_rate_centers:
+  - name: KOSCIUSKO
+    distance_km: 0.38
+  - name: ETHEL
+    distance_km: 12.94
+  - name: WEST
+    distance_km: 24.18
+- country: US
+  region: MS
+  name: Kossuth
+  lat: '34.8726'
+  long: "-88.6428"
+  nearby_rate_centers:
+  - name: CORINTH
+    distance_km: 13.59
+  - name: RIENZI
+    distance_km: 15.91
+  - name: BOONEVILLE
+    distance_km: 24.69
+- country: US
+  region: MS
+  name: Lake
+  lat: '32.3359'
+  long: "-89.3158"
+  nearby_rate_centers:
+  - name: LAKE
+    distance_km: 1.85
+  - name: HICKORY
+    distance_km: 14.26
+  - name: NEWTONHKRY
+    distance_km: 14.26
+  - name: FOREST
+    distance_km: 15.36
+- country: US
+  region: MS
+  name: Lakeview
+  lat: '34.9874'
+  long: "-90.1395"
+  nearby_rate_centers:
+  - name: MEMPHIS
+    distance_km: 17.32
+  - name: HERNANDO
+    distance_km: 22.46
+  - name: OLIVE BRCH
+    distance_km: 29.68
+- country: US
+  region: MS
+  name: Lamar
+  lat: '34.9123'
+  long: "-89.3151"
+  nearby_rate_centers:
+  - name: SO MOSCOW
+    distance_km: 8.16
+  - name: MICHIGANCY
+    distance_km: 8.69
+  - name: ASHLAND
+    distance_km: 15.73
+- country: US
+  region: MS
+  name: Lambert
+  lat: '34.2006'
+  long: "-90.2845"
+  nearby_rate_centers:
+  - name: MARKS
+    distance_km: 6.43
+  - name: JONESTOWN
+    distance_km: 21.26
+  - name: TUTWILER
+    distance_km: 25.16
+- country: US
+  region: MS
+  name: Latimer
+  lat: '30.4974'
+  long: "-88.8607"
+  nearby_rate_centers:
+  - name: OCEAN SPG
+    distance_km: 9.15
+  - name: BILOXI
+    distance_km: 11.36
+  - name: VANCLEAVE
+    distance_km: 16.78
+- country: US
+  region: MS
+  name: Lauderdale
+  lat: '32.5104'
+  long: "-88.5264"
+  nearby_rate_centers:
+  - name: NVALAIRSTA
+    distance_km: 6.9
+  - name: TOOMSUBA
+    distance_km: 10.41
+  - name: BRIARWOOD
+    distance_km: 15.43
+- country: US
+  region: MS
+  name: Laurel
+  lat: '31.6956'
+  long: "-89.1449"
+  nearby_rate_centers:
+  - name: LAUREL
+    distance_km: 1.36
+  - name: ELLISVILLE
+    distance_km: 11.65
+  - name: SOSO
+    distance_km: 13.96
+- country: US
+  region: MS
+  name: Leaf
+  lat: '31.0276'
+  long: "-88.7980"
+  nearby_rate_centers:
+  - name: MCLAIN
+    distance_km: 9.53
+  - name: NEELY
+    distance_km: 15.45
+  - name: BENNDALE
+    distance_km: 17.84
+- country: US
+  region: MS
+  name: Leakesville
+  lat: '31.1497'
+  long: "-88.5557"
+  nearby_rate_centers:
+  - name: LEAKESVL
+    distance_km: 1.11
+  - name: NEELY
+    distance_km: 19.58
+  - name: LUCEDALE
+    distance_km: 25.35
+- country: US
+  region: MS
+  name: Learned
+  lat: '32.1972'
+  long: "-90.5486"
+  nearby_rate_centers:
+  - name: UTICA
+    distance_km: 12.46
+  - name: RAYMOND
+    distance_km: 13.99
+  - name: EDWARDS
+    distance_km: 15.93
+- country: US
+  region: MS
+  name: Leland
+  lat: '33.4051'
+  long: "-90.8909"
+  nearby_rate_centers:
+  - name: LELAND
+    distance_km: 1.0
+  - name: GREENVILLE
+    distance_km: 14.98
+  - name: INDIANOLA
+    distance_km: 22.86
+- country: US
+  region: MS
+  name: Lena
+  lat: '32.5939'
+  long: "-89.5948"
+  nearby_rate_centers:
+  - name: CARTHAGE
+    distance_km: 17.35
+  - name: MORTON
+    distance_km: 27.73
+  - name: FOREST
+    distance_km: 27.76
+- country: US
+  region: MS
+  name: Lexington
+  lat: '33.1163'
+  long: "-90.0498"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance_km: 0.3
+  - name: TCHULA
+    distance_km: 18.12
+  - name: DURANT
+    distance_km: 18.13
+- country: US
+  region: MS
+  name: Liberty
+  lat: '31.1611'
+  long: "-90.8006"
+  nearby_rate_centers:
+  - name: LIBERTY
+    distance_km: 1.04
+  - name: GLOSTER
+    distance_km: 21.01
+  - name: CENTREVL
+    distance_km: 26.9
+- country: US
+  region: MS
+  name: Long Beach
+  lat: '30.3608'
+  long: "-89.1651"
+  nearby_rate_centers:
+  - name: GULFPORT
+    distance_km: 7.54
+  - name: PASSCHRSTN
+    distance_km: 9.56
+  - name: BAYSTLOUIS
+    distance_km: 17.27
+- country: US
+  region: MS
+  name: Longview
+  lat: '33.4027'
+  long: "-88.9256"
+  nearby_rate_centers:
+  - name: STARKVILLE
+    distance_km: 11.88
+  - name: MABEN
+    distance_km: 22.75
+  - name: ACKERMAN
+    distance_km: 25.37
+- country: US
+  region: MS
+  name: Louin
+  lat: '32.0722'
+  long: "-89.2627"
+  nearby_rate_centers:
+  - name: LOUIN
+    distance_km: 0.5
+  - name: BAYSPRINGS
+    distance_km: 11.06
+  - name: SYLVARENA
+    distance_km: 12.62
+- country: US
+  region: MS
+  name: Louise
+  lat: '32.9816'
+  long: "-90.5904"
+  nearby_rate_centers:
+  - name: LOUISE
+    distance_km: 0.15
+  - name: HOLLYBLUFF
+    distance_km: 21.25
+  - name: YAZOO CITY
+    distance_km: 23.01
+- country: US
+  region: MS
+  name: Louisville
+  lat: '33.1224'
+  long: "-89.0553"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 0.63
+  - name: NOXAPATER
+    distance_km: 14.55
+  - name: ACKERMAN
+    distance_km: 23.21
+- country: US
+  region: MS
+  name: Lucedale
+  lat: '30.9312'
+  long: "-88.5959"
+  nearby_rate_centers:
+  - name: LUCEDALE
+    distance_km: 0.78
+  - name: BENNDALE
+    distance_km: 21.33
+  - name: LEAKESVL
+    distance_km: 25.57
+- country: US
+  region: MS
+  name: Lula
+  lat: '34.4545'
+  long: "-90.4779"
+  nearby_rate_centers:
+  - name: LULA
+    distance_km: 1.01
+  - name: JONESTOWN
+    distance_km: 14.48
+  - name: FRIARS PT
+    distance_km: 17.47
+- country: US
+  region: MS
+  name: Lumberton
+  lat: '31.0064'
+  long: "-89.4592"
+  nearby_rate_centers:
+  - name: LUMBERTON
+    distance_km: 0.02
+  - name: PURVIS
+    distance_km: 15.54
+  - name: POPLARVL
+    distance_km: 18.99
+- country: US
+  region: MS
+  name: Lyman
+  lat: '30.5044'
+  long: "-89.1348"
+  nearby_rate_centers:
+  - name: GULFPORT
+    distance_km: 14.99
+  - name: PASSCHRSTN
+    distance_km: 23.57
+  - name: BILOXI
+    distance_km: 25.58
+- country: US
+  region: MS
+  name: Lynchburg
+  lat: '34.9623'
+  long: "-90.1052"
+  nearby_rate_centers:
+  - name: MEMPHIS
+    distance_km: 14.36
+  - name: HERNANDO
+    distance_km: 18.38
+  - name: OLIVE BRCH
+    distance_km: 26.5
+- country: US
+  region: MS
+  name: Lyon
+  lat: '34.2169'
+  long: "-90.5430"
+  nearby_rate_centers:
+  - name: CLARKSDALE
+    distance_km: 3.36
+  - name: JONESTOWN
+    distance_km: 14.24
+  - name: FRIARS PT
+    distance_km: 18.44
+- country: US
+  region: MS
+  name: Maben
+  lat: '33.5544'
+  long: "-89.0805"
+  nearby_rate_centers:
+  - name: MABEN
+    distance_km: 0.59
+  - name: EUPORA
+    distance_km: 17.97
+  - name: STARKVILLE
+    distance_km: 26.52
+- country: US
+  region: MS
+  name: Macon
+  lat: '33.1217'
+  long: "-88.5564"
+  nearby_rate_centers:
+  - name: MACON
+    distance_km: 0.71
+  - name: SHUQUALAK
+    distance_km: 16.35
+  - name: ARTESICWFD
+    distance_km: 27.41
+- country: US
+  region: MS
+  name: Madison
+  lat: '32.4738'
+  long: "-90.1300"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 1.43
+  - name: CANTON
+    distance_km: 17.76
+  - name: FLORA
+    distance_km: 18.48
+- country: US
+  region: MS
+  name: Magee
+  lat: '31.8730'
+  long: "-89.7340"
+  nearby_rate_centers:
+  - name: MAGEE
+    distance_km: 0.4
+  - name: MOUNTOLIVE
+    distance_km: 14.94
+  - name: MENDENHALL
+    distance_km: 16.8
+- country: US
+  region: MS
+  name: Magnolia
+  lat: '31.1619'
+  long: "-90.4670"
+  nearby_rate_centers:
+  - name: MAGNOLIA
+    distance_km: 2.36
+  - name: MCCOMB
+    distance_km: 9.07
+  - name: OSYKA
+    distance_km: 18.28
+- country: US
+  region: MS
+  name: Mantachie
+  lat: '34.3251'
+  long: "-88.4961"
+  nearby_rate_centers:
+  - name: MANTACHIE
+    distance_km: 0.43
+  - name: FULTON
+    distance_km: 9.66
+  - name: FAIRVIEW
+    distance_km: 17.09
+- country: US
+  region: MS
+  name: Mantee
+  lat: '33.7226'
+  long: "-89.0597"
+  nearby_rate_centers:
+  - name: MABEN
+    distance_km: 18.4
+  - name: HOUSTON
+    distance_km: 20.46
+  - name: VARDAMAN
+    distance_km: 20.61
+- country: US
+  region: MS
+  name: Marietta
+  lat: '34.5000'
+  long: "-88.4726"
+  nearby_rate_centers:
+  - name: BALDWYN
+    distance_km: 15.38
+  - name: GUNTOWN
+    distance_km: 18.62
+  - name: BOONEVILLE
+    distance_km: 19.72
+- country: US
+  region: MS
+  name: Marion
+  lat: '32.4303'
+  long: "-88.6460"
+  nearby_rate_centers:
+  - name: BRIARWOOD
+    distance_km: 7.56
+  - name: MERIDIAN
+    distance_km: 8.52
+  - name: TOOMSUBA
+    distance_km: 13.29
+- country: US
+  region: MS
+  name: Marks
+  lat: '34.2535'
+  long: "-90.2723"
+  nearby_rate_centers:
+  - name: MARKS
+    distance_km: 0.66
+  - name: JONESTOWN
+    distance_km: 19.0
+  - name: CRENSHAW
+    distance_km: 28.38
+- country: US
+  region: MS
+  name: Mathiston
+  lat: '33.5391'
+  long: "-89.1275"
+  nearby_rate_centers:
+  - name: MABEN
+    distance_km: 4.51
+  - name: EUPORA
+    distance_km: 13.55
+  - name: CHESTER
+    distance_km: 22.95
+- country: US
+  region: MS
+  name: Mayersville
+  lat: '32.8963'
+  long: "-91.0467"
+  nearby_rate_centers:
+  - name: GLEN ALLAN
+    distance_km: 14.41
+  - name: ROLLNGFORK
+    distance_km: 16.03
+  - name: HOLLYBLUFF
+    distance_km: 32.79
+- country: US
+  region: MS
+  name: McComb
+  lat: '31.2442'
+  long: "-90.4716"
+  nearby_rate_centers:
+  - name: MCCOMB
+    distance_km: 2.16
+  - name: MAGNOLIA
+    distance_km: 11.39
+  - name: OSYKA
+    distance_km: 27.43
+- country: US
+  region: MS
+  name: McCool
+  lat: '33.1995'
+  long: "-89.3418"
+  nearby_rate_centers:
+  - name: MCCOOL
+    distance_km: 0.28
+  - name: ETHEL
+    distance_km: 15.01
+  - name: ACKERMAN
+    distance_km: 19.67
+- country: US
+  region: MS
+  name: McLain
+  lat: '31.1037'
+  long: "-88.8239"
+  nearby_rate_centers:
+  - name: MCLAIN
+    distance_km: 1.12
+  - name: NEELY
+    distance_km: 8.9
+  - name: BEAUMONT
+    distance_km: 11.1
+- country: US
+  region: MS
+  name: Meadville
+  lat: '31.4720'
+  long: "-90.8931"
+  nearby_rate_centers:
+  - name: MEADVILLE
+    distance_km: 0.19
+  - name: EDDICETON
+    distance_km: 9.9
+  - name: ROXIE
+    distance_km: 16.58
+- country: US
+  region: MS
+  name: Mendenhall
+  lat: '31.9609'
+  long: "-89.8692"
+  nearby_rate_centers:
+  - name: MENDENHALL
+    distance_km: 0.77
+  - name: MAGEE
+    distance_km: 15.91
+  - name: WHITE OAK
+    distance_km: 20.83
+- country: US
+  region: MS
+  name: Meridian
+  lat: '32.3846'
+  long: "-88.6896"
+  nearby_rate_centers:
+  - name: MERIDIAN
+    distance_km: 2.04
+  - name: BRIARWOOD
+    distance_km: 11.49
+  - name: OBADIAH
+    distance_km: 17.48
+- country: US
+  region: MS
+  name: Meridian Station
+  lat: '32.5484'
+  long: "-88.6090"
+  nearby_rate_centers:
+  - name: NVALAIRSTA
+    distance_km: 3.4
+  - name: BRIARWOOD
+    distance_km: 10.06
+  - name: OBADIAH
+    distance_km: 16.86
+- country: US
+  region: MS
+  name: Merigold
+  lat: '33.8392'
+  long: "-90.7264"
+  nearby_rate_centers:
+  - name: MERIGOLD
+    distance_km: 0.34
+  - name: MOUNDBAYOU
+    distance_km: 4.94
+  - name: CLEVELAND
+    distance_km: 10.71
+- country: US
+  region: MS
+  name: Metcalfe
+  lat: '33.4505'
+  long: "-91.0018"
+  nearby_rate_centers:
+  - name: GREENVILLE
+    distance_km: 6.54
+  - name: LELAND
+    distance_km: 10.47
+  - name: BENOIT
+    distance_km: 21.97
+- country: US
+  region: MS
+  name: Mississippi State
+  lat: '33.4516'
+  long: "-88.7912"
+  nearby_rate_centers:
+  - name: STARKVILLE
+    distance_km: 2.64
+  - name: ARTESICWFD
+    distance_km: 17.94
+  - name: WEST POINT
+    distance_km: 21.59
+- country: US
+  region: MS
+  name: Mississippi Valley State University
+  lat: '33.5172'
+  long: "-90.3444"
+  nearby_rate_centers:
+  - name: ITTA BENA
+    distance_km: 3.02
+  - name: GREENWOOD
+    distance_km: 15.13
+  - name: MOORHEAD
+    distance_km: 16.1
+- country: US
+  region: MS
+  name: Mize
+  lat: '31.8665'
+  long: "-89.5542"
+  nearby_rate_centers:
+  - name: MIZE
+    distance_km: 0.15
+  - name: TAYLORSVL
+    distance_km: 12.51
+  - name: MOUNTOLIVE
+    distance_km: 15.03
+- country: US
+  region: MS
+  name: Monticello
+  lat: '31.5525'
+  long: "-90.1145"
+  nearby_rate_centers:
+  - name: MONTICELLO
+    distance_km: 0.53
+  - name: SILVER CRK
+    distance_km: 12.01
+  - name: NEW HEBRON
+    distance_km: 23.88
+- country: US
+  region: MS
+  name: Montrose
+  lat: '32.1257'
+  long: "-89.2344"
+  nearby_rate_centers:
+  - name: LOUIN
+    distance_km: 6.95
+  - name: BAYSPRINGS
+    distance_km: 17.48
+  - name: SYLVARENA
+    distance_km: 18.35
+- country: US
+  region: MS
+  name: Mooreville
+  lat: '34.2649'
+  long: "-88.5768"
+  nearby_rate_centers:
+  - name: MANTACHIE
+    distance_km: 9.98
+  - name: TUPELO
+    distance_km: 11.96
+  - name: VERONA
+    distance_km: 15.39
+- country: US
+  region: MS
+  name: Moorhead
+  lat: '33.4494'
+  long: "-90.5063"
+  nearby_rate_centers:
+  - name: MOORHEAD
+    distance_km: 0.71
+  - name: SUNFLOWER
+    distance_km: 11.33
+  - name: INDIANOLA
+    distance_km: 13.44
+- country: US
+  region: MS
+  name: Morgan City
+  lat: '33.3787'
+  long: "-90.3461"
+  nearby_rate_centers:
+  - name: ITTA BENA
+    distance_km: 13.83
+  - name: MOORHEAD
+    distance_km: 16.35
+  - name: GREENWOOD
+    distance_km: 21.65
+- country: US
+  region: MS
+  name: Morgantown
+  lat: '31.5751'
+  long: "-91.3521"
+  nearby_rate_centers:
+  - name: NATCHEZ
+    distance_km: 4.99
+  - name: ROXIE
+    distance_km: 28.45
+  - name: FAYETTE
+    distance_km: 31.81
+- country: US
+  region: MS
+  name: Morton
+  lat: '32.3455'
+  long: "-89.6572"
+  nearby_rate_centers:
+  - name: MORTON
+    distance_km: 0.59
+  - name: PELAHATCHI
+    distance_km: 13.73
+  - name: WALTERS
+    distance_km: 16.1
+- country: US
+  region: MS
+  name: Moselle
+  lat: '31.5087'
+  long: "-89.2824"
+  nearby_rate_centers:
+  - name: PITTMAN
+    distance_km: 10.62
+  - name: ELLISVILLE
+    distance_km: 12.96
+  - name: BIG CREEK
+    distance_km: 18.79
+- country: US
+  region: MS
+  name: Moss Point
+  lat: '30.4241'
+  long: "-88.5289"
+  nearby_rate_centers:
+  - name: MOSS POINT
+    distance_km: 1.69
+  - name: PASCAGOULA
+    distance_km: 6.8
+  - name: VANCLEAVE
+    distance_km: 19.01
+- country: US
+  region: MS
+  name: Mound Bayou
+  lat: '33.8808'
+  long: "-90.7280"
+  nearby_rate_centers:
+  - name: MOUNDBAYOU
+    distance_km: 0.31
+  - name: MERIGOLD
+    distance_km: 4.29
+  - name: SHELBY
+    distance_km: 8.67
+- country: US
+  region: MS
+  name: Mount Olive
+  lat: '31.7539'
+  long: "-89.6560"
+  nearby_rate_centers:
+  - name: MOUNTOLIVE
+    distance_km: 0.76
+  - name: MAGEE
+    distance_km: 15.46
+  - name: COLLINS
+    distance_km: 15.69
+- country: US
+  region: MS
+  name: Mount Pleasant
+  lat: '34.9540'
+  long: "-89.5256"
+  nearby_rate_centers:
+  - name: MTPLEASANT
+    distance_km: 1.18
+  - name: BYHALIA
+    distance_km: 17.2
+  - name: SO MOSCOW
+    distance_km: 17.45
+- country: US
+  region: MS
+  name: Myrtle
+  lat: '34.5605'
+  long: "-89.1179"
+  nearby_rate_centers:
+  - name: MYRTLE
+    distance_km: 0.37
+  - name: NEW ALBANY
+    distance_km: 13.3
+  - name: BLUE MT
+    distance_km: 14.55
+- country: US
+  region: MS
+  name: Natchez
+  lat: '31.5437'
+  long: "-91.3867"
+  nearby_rate_centers:
+  - name: NATCHEZ
+    distance_km: 2.15
+  - name: ROXIE
+    distance_km: 30.91
+  - name: FAYETTE
+    distance_km: 36.41
+- country: US
+  region: MS
+  name: Nellieburg
+  lat: '32.3974'
+  long: "-88.7830"
+  nearby_rate_centers:
+  - name: MERIDIAN
+    distance_km: 8.54
+  - name: BRIARWOOD
+    distance_km: 13.4
+  - name: OBADIAH
+    distance_km: 13.57
+- country: US
+  region: MS
+  name: Nettleton
+  lat: '34.0852'
+  long: "-88.6248"
+  nearby_rate_centers:
+  - name: NETTLETON
+    distance_km: 0.25
+  - name: SHANNON
+    distance_km: 9.25
+  - name: VERONA
+    distance_km: 14.36
+- country: US
+  region: MS
+  name: New Albany
+  lat: '34.4909'
+  long: "-89.0201"
+  nearby_rate_centers:
+  - name: NEW ALBANY
+    distance_km: 1.82
+  - name: MYRTLE
+    distance_km: 11.48
+  - name: BLUE MT
+    distance_km: 19.51
+- country: US
+  region: MS
+  name: New Augusta
+  lat: '31.2036'
+  long: "-89.0272"
+  nearby_rate_centers:
+  - name: NEWAUGUSTA
+    distance_km: 0.82
+  - name: BEAUMONT
+    distance_km: 11.53
+  - name: RICHTON
+    distance_km: 18.76
+- country: US
+  region: MS
+  name: New Hamilton
+  lat: '33.7435'
+  long: "-88.4389"
+  nearby_rate_centers:
+  - name: CALEDONIA
+    distance_km: 12.44
+  - name: ABERDEEN
+    distance_km: 13.5
+  - name: COLUMBSAFB
+    distance_km: 13.88
+- country: US
+  region: MS
+  name: New Hebron
+  lat: '31.7332'
+  long: "-89.9833"
+  nearby_rate_centers:
+  - name: NEW HEBRON
+    distance_km: 0.61
+  - name: SILVER CRK
+    distance_km: 15.13
+  - name: PRENTISS
+    distance_km: 18.55
+- country: US
+  region: MS
+  name: New Hope
+  lat: '33.4521'
+  long: "-88.3399"
+  nearby_rate_centers:
+  - name: COLUMBUS
+    distance_km: 9.04
+  - name: COLUMBSAFB
+    distance_km: 21.23
+  - name: CALEDONIA
+    distance_km: 25.83
+- country: US
+  region: MS
+  name: New Houlka
+  lat: '34.0363'
+  long: "-89.0211"
+  nearby_rate_centers:
+  - name: HOULKA
+    distance_km: 0.64
+  - name: HOUSTON
+    distance_km: 15.39
+  - name: VARDAMAN
+    distance_km: 22.35
+- country: US
+  region: MS
+  name: New Site
+  lat: '34.5553'
+  long: "-88.4153"
+  nearby_rate_centers:
+  - name: BOONEVILLE
+    distance_km: 18.06
+  - name: TISHOMINGO
+    distance_km: 18.68
+  - name: BELMONT
+    distance_km: 19.0
+- country: US
+  region: MS
+  name: Newton
+  lat: '32.3296'
+  long: "-89.1534"
+  nearby_rate_centers:
+  - name: HICKORY
+    distance_km: 1.93
+  - name: NEWTONHKRY
+    distance_km: 1.93
+  - name: DECATUR
+    distance_km: 12.55
+  - name: LAKE
+    distance_km: 16.54
+- country: US
+  region: MS
+  name: Nicholson
+  lat: '30.4866'
+  long: "-89.6997"
+  nearby_rate_centers:
+  - name: PICAYUNE
+    distance_km: 5.1
+  - name: PEARLINGTN
+    distance_km: 27.67
+  - name: CROSSROADS
+    distance_km: 34.75
+- country: US
+  region: MS
+  name: Nitta Yuma
+  lat: '33.0236'
+  long: "-90.8487"
+  nearby_rate_centers:
+  - name: ROLLNGFORK
+    distance_km: 13.21
+  - name: HOLLANDALE
+    distance_km: 16.07
+  - name: GLEN ALLAN
+    distance_km: 16.58
+- country: US
+  region: MS
+  name: North Carrollton
+  lat: '33.5187'
+  long: "-89.9193"
+  nearby_rate_centers:
+  - name: CARROLLTON
+    distance_km: 1.02
+  - name: WINONA
+    distance_km: 18.5
+  - name: DUCK HILL
+    distance_km: 23.41
+- country: US
+  region: MS
+  name: North Tunica
+  lat: '34.7031'
+  long: "-90.3797"
+  nearby_rate_centers:
+  - name: TUNICA
+    distance_km: 2.16
+  - name: CRENSHAW
+    distance_km: 28.02
+  - name: LULA
+    distance_km: 29.91
+- country: US
+  region: MS
+  name: Noxapater
+  lat: '32.9936'
+  long: "-89.0636"
+  nearby_rate_centers:
+  - name: NOXAPATER
+    distance_km: 0.31
+  - name: LOUISVILLE
+    distance_km: 14.58
+  - name: PHILA
+    distance_km: 24.45
+- country: US
+  region: MS
+  name: Oak Grove
+  lat: '31.2867'
+  long: "-89.4145"
+  nearby_rate_centers:
+  - name: HATTIESBG
+    distance_km: 11.98
+  - name: PURVIS
+    distance_km: 16.45
+  - name: SUMRALL
+    distance_km: 18.85
+- country: US
+  region: MS
+  name: Oakland
+  lat: '34.0576'
+  long: "-89.9132"
+  nearby_rate_centers:
+  - name: OAKLAND
+    distance_km: 1.2
+  - name: CHARLESTON
+    distance_km: 13.65
+  - name: COFFEEVL
+    distance_km: 23.9
+- country: US
+  region: MS
+  name: Ocean Springs
+  lat: '30.4082'
+  long: "-88.7861"
+  nearby_rate_centers:
+  - name: OCEAN SPG
+    distance_km: 4.65
+  - name: BILOXI
+    distance_km: 10.67
+  - name: VANCLEAVE
+    distance_km: 16.05
+- country: US
+  region: MS
+  name: Okolona
+  lat: '34.0053'
+  long: "-88.7479"
+  nearby_rate_centers:
+  - name: OKOLONA
+    distance_km: 0.54
+  - name: SHANNON
+    distance_km: 12.73
+  - name: NETTLETON
+    distance_km: 14.16
+- country: US
+  region: MS
+  name: Olive Branch
+  lat: '34.9610'
+  long: "-89.8469"
+  nearby_rate_centers:
+  - name: OLIVE BRCH
+    distance_km: 3.06
+  - name: MEMPHIS
+    distance_km: 9.64
+  - name: BYHALIA
+    distance_km: 18.31
+- country: US
+  region: MS
+  name: Osyka
+  lat: '31.0072'
+  long: "-90.4719"
+  nearby_rate_centers:
+  - name: OSYKA
+    distance_km: 1.2
+  - name: MAGNOLIA
+    distance_km: 15.12
+  - name: MCCOMB
+    distance_km: 26.2
+- country: US
+  region: MS
+  name: Ovett
+  lat: '31.4849'
+  long: "-89.0273"
+  nearby_rate_centers:
+  - name: RICHTON
+    distance_km: 17.33
+  - name: ELLISVILLE
+    distance_km: 21.01
+  - name: LAUREL
+    distance_km: 24.98
+- country: US
+  region: MS
+  name: Oxford
+  lat: '34.3627'
+  long: "-89.5336"
+  nearby_rate_centers:
+  - name: OXFORD
+    distance_km: 1.61
+  - name: WATER VLY
+    distance_km: 24.26
+  - name: CHULAHOMA
+    distance_km: 35.1
+- country: US
+  region: MS
+  name: Pace
+  lat: '33.7922'
+  long: "-90.8594"
+  nearby_rate_centers:
+  - name: PACE
+    distance_km: 1.12
+  - name: MERIGOLD
+    distance_km: 13.46
+  - name: CLEVELAND
+    distance_km: 13.79
+- country: US
+  region: MS
+  name: Pachuta
+  lat: '32.0441'
+  long: "-88.8844"
+  nearby_rate_centers:
+  - name: QUITMAN
+    distance_km: 14.88
+  - name: ENTERPRISE
+    distance_km: 15.51
+  - name: ROSE HILL
+    distance_km: 15.66
+- country: US
+  region: MS
+  name: Paden
+  lat: '34.6603'
+  long: "-88.2606"
+  nearby_rate_centers:
+  - name: TISHOMINGO
+    distance_km: 4.03
+  - name: BELMONT
+    distance_km: 17.26
+  - name: IUKA
+    distance_km: 18.5
+- country: US
+  region: MS
+  name: Panther Burn
+  lat: '33.0659'
+  long: "-90.8726"
+  nearby_rate_centers:
+  - name: HOLLANDALE
+    distance_km: 11.57
+  - name: GLEN ALLAN
+    distance_km: 15.06
+  - name: ROLLNGFORK
+    distance_km: 17.68
+- country: US
+  region: MS
+  name: Paris
+  lat: '34.1749'
+  long: "-89.4519"
+  nearby_rate_centers:
+  - name: WATER VLY
+    distance_km: 16.65
+  - name: OXFORD
+    distance_km: 21.97
+  - name: BRUCE
+    distance_km: 22.5
+  - name: LONG
+    distance_km: 22.5
+  - name: PARKER
+    distance_km: 22.5
+  - name: PITTSBORO
+    distance_km: 22.5
+- country: US
+  region: MS
+  name: Pascagoula
+  lat: '30.3666'
+  long: "-88.5506"
+  nearby_rate_centers:
+  - name: PASCAGOULA
+    distance_km: 0.16
+  - name: MOSS POINT
+    distance_km: 5.09
+  - name: VANCLEAVE
+    distance_km: 22.08
+- country: US
+  region: MS
+  name: Pass Christian
+  lat: '30.3270'
+  long: "-89.2436"
+  nearby_rate_centers:
+  - name: PASSCHRSTN
+    distance_km: 1.27
+  - name: BAYSTLOUIS
+    distance_km: 8.95
+  - name: GULFPORT
+    distance_km: 15.84
+- country: US
+  region: MS
+  name: Pattison
+  lat: '31.8908'
+  long: "-90.8839"
+  nearby_rate_centers:
+  - name: HERMANVL
+    distance_km: 8.62
+  - name: PORTGIBSON
+    distance_km: 12.13
+  - name: BARLOW
+    distance_km: 23.91
+- country: US
+  region: MS
+  name: Pearl
+  lat: '32.2730'
+  long: "-90.0918"
+  nearby_rate_centers:
+  - name: BRANDON
+    distance_km: 10.04
+  - name: JACKSON
+    distance_km: 10.07
+  - name: FLORENCE
+    distance_km: 14.37
+- country: US
+  region: MS
+  name: Pearl River
+  lat: '32.7889'
+  long: "-89.2384"
+  nearby_rate_centers:
+  - name: PHILA
+    distance_km: 12.29
+  - name: UNION
+    distance_km: 27.13
+  - name: NOXAPATER
+    distance_km: 27.71
+- country: US
+  region: MS
+  name: Pearlington
+  lat: '30.2492'
+  long: "-89.6048"
+  nearby_rate_centers:
+  - name: PEARLINGTN
+    distance_km: 0.32
+  - name: BAYSTLOUIS
+    distance_km: 26.79
+  - name: PICAYUNE
+    distance_km: 31.72
+- country: US
+  region: MS
+  name: Pelahatchie
+  lat: '32.3148'
+  long: "-89.8083"
+  nearby_rate_centers:
+  - name: PELAHATCHI
+    distance_km: 0.87
+  - name: WALTERS
+    distance_km: 11.48
+  - name: MORTON
+    distance_km: 14.55
+- country: US
+  region: MS
+  name: Petal
+  lat: '31.3477'
+  long: "-89.2359"
+  nearby_rate_centers:
+  - name: HATTIESBG
+    distance_km: 6.45
+  - name: NEWAUGUSTA
+    distance_km: 24.69
+  - name: PITTMAN
+    distance_km: 27.56
+- country: US
+  region: MS
+  name: Pheba
+  lat: '33.5835'
+  long: "-88.9494"
+  nearby_rate_centers:
+  - name: MABEN
+    distance_km: 12.84
+  - name: STARKVILLE
+    distance_km: 18.35
+  - name: WEST POINT
+    distance_km: 27.85
+- country: US
+  region: MS
+  name: Philadelphia
+  lat: '32.7761'
+  long: "-89.1221"
+  nearby_rate_centers:
+  - name: PHILA
+    distance_km: 1.35
+  - name: UNION
+    distance_km: 23.14
+  - name: NOXAPATER
+    distance_km: 24.55
+- country: US
+  region: MS
+  name: Picayune
+  lat: '30.5322'
+  long: "-89.6724"
+  nearby_rate_centers:
+  - name: PICAYUNE
+    distance_km: 0.62
+  - name: CROSSROADS
+    distance_km: 30.56
+  - name: PEARLINGTN
+    distance_km: 31.91
+- country: US
+  region: MS
+  name: Pickens
+  lat: '32.8913'
+  long: "-89.9696"
+  nearby_rate_centers:
+  - name: PICKENS
+    distance_km: 0.67
+  - name: GOODMAN
+    distance_km: 9.97
+  - name: DURANT
+    distance_km: 23.78
+- country: US
+  region: MS
+  name: Pittsboro
+  lat: '33.9400'
+  long: "-89.3373"
+  nearby_rate_centers:
+  - name: BRUCE
+    distance_km: 5.79
+  - name: LONG
+    distance_km: 5.79
+  - name: PARKER
+    distance_km: 5.79
+  - name: PITTSBORO
+    distance_km: 5.79
+  - name: CALHOUN CY
+    distance_km: 9.51
+  - name: VARDAMAN
+    distance_km: 16.33
+- country: US
+  region: MS
+  name: Plantersville
+  lat: '34.2103'
+  long: "-88.6655"
+  nearby_rate_centers:
+  - name: VERONA
+    distance_km: 5.28
+  - name: TUPELO
+    distance_km: 6.47
+  - name: SHANNON
+    distance_km: 11.42
+- country: US
+  region: MS
+  name: Polkville
+  lat: '32.1909'
+  long: "-89.6960"
+  nearby_rate_centers:
+  - name: POLKVILLE
+    distance_km: 0.65
+  - name: WALTERS
+    distance_km: 6.29
+  - name: WHITE OAK
+    distance_km: 13.57
+- country: US
+  region: MS
+  name: Pontotoc
+  lat: '34.2531'
+  long: "-89.0091"
+  nearby_rate_centers:
+  - name: PONTOTOC
+    distance_km: 0.72
+  - name: HOULKA
+    distance_km: 24.63
+  - name: NEW ALBANY
+    distance_km: 26.41
+- country: US
+  region: MS
+  name: Pope
+  lat: '34.2158'
+  long: "-89.9447"
+  nearby_rate_centers:
+  - name: BATESVILLE
+    distance_km: 10.28
+  - name: OAKLAND
+    distance_km: 19.0
+  - name: SARDIS
+    distance_km: 24.22
+- country: US
+  region: MS
+  name: Poplarville
+  lat: '30.8391'
+  long: "-89.5306"
+  nearby_rate_centers:
+  - name: POPLARVL
+    distance_km: 1.23
+  - name: LUMBERTON
+    distance_km: 19.82
+  - name: CROSSROADS
+    distance_km: 24.01
+- country: US
+  region: MS
+  name: Port Gibson
+  lat: '31.9558'
+  long: "-90.9834"
+  nearby_rate_centers:
+  - name: PORTGIBSON
+    distance_km: 0.28
+  - name: HERMANVL
+    distance_km: 12.95
+  - name: FAYETTE
+    distance_km: 27.63
+- country: US
+  region: MS
+  name: Porterville
+  lat: '32.6855'
+  long: "-88.4714"
+  nearby_rate_centers:
+  - name: SCOOBA
+    distance_km: 16.72
+  - name: NVALAIRSTA
+    distance_km: 17.19
+  - name: DE KALB
+    distance_km: 19.06
+- country: US
+  region: MS
+  name: Potts Camp
+  lat: '34.6492'
+  long: "-89.3065"
+  nearby_rate_centers:
+  - name: HOLLY SPG
+    distance_km: 18.47
+  - name: MYRTLE
+    distance_km: 20.25
+  - name: ASHLAND
+    distance_km: 23.71
+- country: US
+  region: MS
+  name: Prentiss
+  lat: '31.5995'
+  long: "-89.8746"
+  nearby_rate_centers:
+  - name: PRENTISS
+    distance_km: 0.68
+  - name: SILVER CRK
+    distance_km: 11.82
+  - name: BASSFIELD
+    distance_km: 16.58
+- country: US
+  region: MS
+  name: Puckett
+  lat: '32.0872'
+  long: "-89.7819"
+  nearby_rate_centers:
+  - name: WHITE OAK
+    distance_km: 9.0
+  - name: POLKVILLE
+    distance_km: 14.64
+  - name: WALTERS
+    distance_km: 15.5
+- country: US
+  region: MS
+  name: Purvis
+  lat: '31.1450'
+  long: "-89.4054"
+  nearby_rate_centers:
+  - name: PURVIS
+    distance_km: 0.7
+  - name: LUMBERTON
+    distance_km: 16.23
+  - name: HATTIESBG
+    distance_km: 21.88
+- country: US
+  region: MS
+  name: Quitman
+  lat: '32.0417'
+  long: "-88.7202"
+  nearby_rate_centers:
+  - name: QUITMAN
+    distance_km: 1.14
+  - name: ENTERPRISE
+    distance_km: 17.77
+  - name: SHUBUTA
+    distance_km: 20.83
+- country: US
+  region: MS
+  name: Raleigh
+  lat: '32.0322'
+  long: "-89.5247"
+  nearby_rate_centers:
+  - name: RALEIGH
+    distance_km: 0.33
+  - name: SYLVARENA
+    distance_km: 14.02
+  - name: WHITE OAK
+    distance_km: 16.0
+- country: US
+  region: MS
+  name: Randolph
+  lat: '34.1810'
+  long: "-89.1677"
+  nearby_rate_centers:
+  - name: PONTOTOC
+    distance_km: 17.26
+  - name: HOULKA
+    distance_km: 21.64
+  - name: BRUCE
+    distance_km: 27.0
+  - name: LONG
+    distance_km: 27.0
+  - name: PARKER
+    distance_km: 27.0
+  - name: PITTSBORO
+    distance_km: 27.0
+- country: US
+  region: MS
+  name: Rawls Springs
+  lat: '31.3797'
+  long: "-89.3878"
+  nearby_rate_centers:
+  - name: HATTIESBG
+    distance_km: 11.36
+  - name: SUMRALL
+    distance_km: 15.08
+  - name: PITTMAN
+    distance_km: 20.9
+- country: US
+  region: MS
+  name: Raymond
+  lat: '32.2610'
+  long: "-90.4090"
+  nearby_rate_centers:
+  - name: RAYMOND
+    distance_km: 0.94
+  - name: BOLTON
+    distance_km: 11.11
+  - name: CLINTON
+    distance_km: 11.88
+- country: US
+  region: MS
+  name: Red Banks
+  lat: '34.8347'
+  long: "-89.5634"
+  nearby_rate_centers:
+  - name: BYHALIA
+    distance_km: 11.4
+  - name: HOLLY SPG
+    distance_km: 12.86
+  - name: MTPLEASANT
+    distance_km: 13.38
+- country: US
+  region: MS
+  name: Redwater
+  lat: '32.7835'
+  long: "-89.5559"
+  nearby_rate_centers:
+  - name: CARTHAGE
+    distance_km: 5.02
+  - name: KOSCIUSKO
+    distance_km: 30.95
+  - name: ETHEL
+    distance_km: 37.88
+- country: US
+  region: MS
+  name: Redwood
+  lat: '32.4734'
+  long: "-90.7969"
+  nearby_rate_centers:
+  - name: VICKSBURG
+    distance_km: 16.84
+  - name: EAGLE LAKE
+    distance_km: 18.59
+  - name: EDWARDS
+    distance_km: 24.02
+- country: US
+  region: MS
+  name: Rena Lara
+  lat: '34.1587'
+  long: "-90.7749"
+  nearby_rate_centers:
+  - name: DUNCAN
+    distance_km: 13.28
+  - name: CLARKSDALE
+    distance_km: 19.03
+  - name: SHELBY
+    distance_km: 23.06
+- country: US
+  region: MS
+  name: Renova
+  lat: '33.7805'
+  long: "-90.7232"
+  nearby_rate_centers:
+  - name: CLEVELAND
+    distance_km: 4.18
+  - name: MERIGOLD
+    distance_km: 6.87
+  - name: MOUNDBAYOU
+    distance_km: 11.47
+- country: US
+  region: MS
+  name: Richland
+  lat: '32.2309'
+  long: "-90.1591"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 8.53
+  - name: FLORENCE
+    distance_km: 9.34
+  - name: BRANDON
+    distance_km: 17.13
+- country: US
+  region: MS
+  name: Richton
+  lat: '31.3495'
+  long: "-88.9407"
+  nearby_rate_centers:
+  - name: RICHTON
+    distance_km: 0.81
+  - name: SAND HILL
+    distance_km: 16.9
+  - name: NEWAUGUSTA
+    distance_km: 17.89
+- country: US
+  region: MS
+  name: Ridgeland
+  lat: '32.4236'
+  long: "-90.1481"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 5.5
+  - name: JACKSON
+    distance_km: 14.18
+  - name: CLINTON
+    distance_km: 19.07
+- country: US
+  region: MS
+  name: Rienzi
+  lat: '34.7633'
+  long: "-88.5340"
+  nearby_rate_centers:
+  - name: RIENZI
+    distance_km: 0.86
+  - name: BOONEVILLE
+    distance_km: 11.91
+  - name: CORINTH
+    distance_km: 19.72
+- country: US
+  region: MS
+  name: Ripley
+  lat: '34.7321'
+  long: "-88.9444"
+  nearby_rate_centers:
+  - name: RIPLEY
+    distance_km: 0.71
+  - name: BLUE MT
+    distance_km: 10.34
+  - name: ASHLAND
+    distance_km: 23.66
+- country: US
+  region: MS
+  name: Robinhood
+  lat: '32.2045'
+  long: "-89.9671"
+  nearby_rate_centers:
+  - name: BRANDON
+    distance_km: 8.19
+  - name: FLORENCE
+    distance_km: 17.03
+  - name: PELAHATCHI
+    distance_km: 20.12
+- country: US
+  region: MS
+  name: Rolling Fork
+  lat: '32.9073'
+  long: "-90.8769"
+  nearby_rate_centers:
+  - name: ROLLNGFORK
+    distance_km: 0.14
+  - name: HOLLYBLUFF
+    distance_km: 18.62
+  - name: GLEN ALLAN
+    distance_km: 19.12
+- country: US
+  region: MS
+  name: Rosedale
+  lat: '33.8525'
+  long: "-91.0339"
+  nearby_rate_centers:
+  - name: ROSEDALE
+    distance_km: 1.27
+  - name: GUNNISON
+    distance_km: 12.65
+  - name: PACE
+    distance_km: 18.48
+- country: US
+  region: MS
+  name: Roxie
+  lat: '31.5077'
+  long: "-91.0711"
+  nearby_rate_centers:
+  - name: ROXIE
+    distance_km: 0.87
+  - name: MEADVILLE
+    distance_km: 17.52
+  - name: FAYETTE
+    distance_km: 23.18
+- country: US
+  region: MS
+  name: Ruleville
+  lat: '33.7245'
+  long: "-90.5500"
+  nearby_rate_centers:
+  - name: RULEVILLE
+    distance_km: 0.03
+  - name: DREW
+    distance_km: 9.57
+  - name: CLEVELAND
+    distance_km: 16.08
+- country: US
+  region: MS
+  name: Runnelstown
+  lat: '31.3779'
+  long: "-89.1143"
+  nearby_rate_centers:
+  - name: RICHTON
+    distance_km: 17.5
+  - name: HATTIESBG
+    distance_km: 18.32
+  - name: NEWAUGUSTA
+    distance_km: 20.29
+- country: US
+  region: MS
+  name: Sallis
+  lat: '33.0215'
+  long: "-89.7647"
+  nearby_rate_centers:
+  - name: DURANT
+    distance_km: 11.21
+  - name: GOODMAN
+    distance_km: 15.16
+  - name: KOSCIUSKO
+    distance_km: 16.58
+- country: US
+  region: MS
+  name: Saltillo
+  lat: '34.3790'
+  long: "-88.6938"
+  nearby_rate_centers:
+  - name: GUNTOWN
+    distance_km: 8.04
+  - name: TUPELO
+    distance_km: 13.56
+  - name: BALDWYN
+    distance_km: 15.3
+- country: US
+  region: MS
+  name: Sandersville
+  lat: '31.7879'
+  long: "-89.0362"
+  nearby_rate_centers:
+  - name: HEIDELBERG
+    distance_km: 11.96
+  - name: LAUREL
+    distance_km: 14.03
+  - name: SOSO
+    distance_km: 22.67
+- country: US
+  region: MS
+  name: Sardis
+  lat: '34.4355'
+  long: "-89.9114"
+  nearby_rate_centers:
+  - name: SARDIS
+    distance_km: 0.54
+  - name: COMO
+    distance_km: 8.17
+  - name: BATESVILLE
+    distance_km: 14.66
+- country: US
+  region: MS
+  name: Satartia
+  lat: '32.6719'
+  long: "-90.5445"
+  nearby_rate_centers:
+  - name: HOLLYBLUFF
+    distance_km: 22.33
+  - name: YAZOO CITY
+    distance_km: 24.03
+  - name: FLORA
+    distance_km: 26.33
+- country: US
+  region: MS
+  name: Saucier
+  lat: '30.6237'
+  long: "-89.1432"
+  nearby_rate_centers:
+  - name: WIGGINS
+    distance_km: 26.27
+  - name: GULFPORT
+    distance_km: 28.07
+  - name: BILOXI
+    distance_km: 34.27
+- country: US
+  region: MS
+  name: Schlater
+  lat: '33.6397'
+  long: "-90.3494"
+  nearby_rate_centers:
+  - name: ITTA BENA
+    distance_km: 15.7
+  - name: SUNFLOWER
+    distance_km: 19.96
+  - name: GREENWOOD
+    distance_km: 20.75
+- country: US
+  region: MS
+  name: Scooba
+  lat: '32.8302'
+  long: "-88.4771"
+  nearby_rate_centers:
+  - name: SCOOBA
+    distance_km: 0.65
+  - name: DE KALB
+    distance_km: 17.7
+  - name: SHUQUALAK
+    distance_km: 18.25
+- country: US
+  region: MS
+  name: Scott
+  lat: '33.5945'
+  long: "-91.0760"
+  nearby_rate_centers:
+  - name: BENOIT
+    distance_km: 8.65
+  - name: GREENVILLE
+    distance_km: 20.7
+  - name: LELAND
+    distance_km: 26.24
+- country: US
+  region: MS
+  name: Sebastopol
+  lat: '32.5679'
+  long: "-89.3340"
+  nearby_rate_centers:
+  - name: UNION
+    distance_km: 20.51
+  - name: LAKE
+    distance_km: 24.35
+  - name: DECATUR
+    distance_km: 25.8
+- country: US
+  region: MS
+  name: Seminary
+  lat: '31.5581'
+  long: "-89.4987"
+  nearby_rate_centers:
+  - name: SEMINARY
+    distance_km: 1.23
+  - name: COLLINS
+    distance_km: 10.73
+  - name: PITTMAN
+    distance_km: 12.14
+- country: US
+  region: MS
+  name: Senatobia
+  lat: '34.6081'
+  long: "-89.9762"
+  nearby_rate_centers:
+  - name: SENATOBIA
+    distance_km: 1.41
+  - name: COLDWATER
+    distance_km: 8.54
+  - name: COMO
+    distance_km: 11.93
+- country: US
+  region: MS
+  name: Shannon
+  lat: '34.1144'
+  long: "-88.6932"
+  nearby_rate_centers:
+  - name: SHANNON
+    distance_km: 2.27
+  - name: NETTLETON
+    distance_km: 7.05
+  - name: VERONA
+    distance_km: 8.62
+- country: US
+  region: MS
+  name: Sharon
+  lat: '31.7922'
+  long: "-89.0983"
+  nearby_rate_centers:
+  - name: LAUREL
+    distance_km: 11.66
+  - name: HEIDELBERG
+    distance_km: 15.06
+  - name: SOSO
+    distance_km: 16.99
+- country: US
+  region: MS
+  name: Shaw
+  lat: '33.6015'
+  long: "-90.7720"
+  nearby_rate_centers:
+  - name: SHAW
+    distance_km: 0.75
+  - name: CLEVELAND
+    distance_km: 16.38
+  - name: INDIANOLA
+    distance_km: 20.05
+- country: US
+  region: MS
+  name: Shelby
+  lat: '33.9508'
+  long: "-90.7653"
+  nearby_rate_centers:
+  - name: SHELBY
+    distance_km: 0.26
+  - name: MOUNDBAYOU
+    distance_km: 8.25
+  - name: DUNCAN
+    distance_km: 10.49
+- country: US
+  region: MS
+  name: Sherman
+  lat: '34.3611'
+  long: "-88.8387"
+  nearby_rate_centers:
+  - name: TUPELO
+    distance_km: 16.72
+  - name: GUNTOWN
+    distance_km: 18.57
+  - name: PONTOTOC
+    distance_km: 19.18
+- country: US
+  region: MS
+  name: Shubuta
+  lat: '31.8620'
+  long: "-88.7021"
+  nearby_rate_centers:
+  - name: SHUBUTA
+    distance_km: 0.81
+  - name: QUITMAN
+    distance_km: 19.19
+  - name: WAYNESBORO
+    distance_km: 21.55
+- country: US
+  region: MS
+  name: Shuqualak
+  lat: '32.9793'
+  long: "-88.5693"
+  nearby_rate_centers:
+  - name: SHUQUALAK
+    distance_km: 0.47
+  - name: MACON
+    distance_km: 15.18
+  - name: SCOOBA
+    distance_km: 18.21
+- country: US
+  region: MS
+  name: Sidon
+  lat: '33.4079'
+  long: "-90.2081"
+  nearby_rate_centers:
+  - name: GREENWOOD
+    distance_km: 12.33
+  - name: ITTA BENA
+    distance_km: 14.55
+  - name: TCHULA
+    distance_km: 24.83
+- country: US
+  region: MS
+  name: Silver City
+  lat: '33.0951'
+  long: "-90.4968"
+  nearby_rate_centers:
+  - name: BELZONI
+    distance_km: 9.84
+  - name: LOUISE
+    distance_km: 15.48
+  - name: ISOLA
+    distance_km: 21.21
+- country: US
+  region: MS
+  name: Silver Creek
+  lat: '31.6048'
+  long: "-90.0023"
+  nearby_rate_centers:
+  - name: SILVER CRK
+    distance_km: 0.83
+  - name: MONTICELLO
+    distance_km: 11.73
+  - name: PRENTISS
+    distance_km: 12.78
+- country: US
+  region: MS
+  name: Skene
+  lat: '33.7040'
+  long: "-90.7974"
+  nearby_rate_centers:
+  - name: CLEVELAND
+    distance_km: 8.17
+  - name: PACE
+    distance_km: 10.27
+  - name: SHAW
+    distance_km: 11.01
+- country: US
+  region: MS
+  name: Slate Springs
+  lat: '33.7417'
+  long: "-89.3752"
+  nearby_rate_centers:
+  - name: SLATE SPG
+    distance_km: 1.09
+  - name: CALHOUN CY
+    distance_km: 14.5
+  - name: VARDAMAN
+    distance_km: 24.13
+- country: US
+  region: MS
+  name: Sledge
+  lat: '34.4326'
+  long: "-90.2212"
+  nearby_rate_centers:
+  - name: CRENSHAW
+    distance_km: 7.93
+  - name: MARKS
+    distance_km: 20.02
+  - name: LULA
+    distance_km: 24.41
+- country: US
+  region: MS
+  name: Smithville
+  lat: '34.0680'
+  long: "-88.3983"
+  nearby_rate_centers:
+  - name: SMITHVILLE
+    distance_km: 0.47
+  - name: AMORY
+    distance_km: 12.0
+  - name: NETTLETON
+    distance_km: 21.09
+- country: US
+  region: MS
+  name: Snow Lake Shores
+  lat: '34.8240'
+  long: "-89.2385"
+  nearby_rate_centers:
+  - name: ASHLAND
+    distance_km: 6.04
+  - name: MICHIGANCY
+    distance_km: 18.02
+  - name: SO MOSCOW
+    distance_km: 19.88
+- country: US
+  region: MS
+  name: Soso
+  lat: '31.7536'
+  long: "-89.2759"
+  nearby_rate_centers:
+  - name: SOSO
+    distance_km: 0.5
+  - name: BIG CREEK
+    distance_km: 8.88
+  - name: OLDTYLRSVL
+    distance_km: 15.25
+- country: US
+  region: MS
+  name: Southaven
+  lat: '34.9514'
+  long: "-89.9786"
+  nearby_rate_centers:
+  - name: MEMPHIS
+    distance_km: 4.33
+  - name: HERNANDO
+    distance_km: 14.13
+  - name: OLIVE BRCH
+    distance_km: 15.07
+- country: US
+  region: MS
+  name: St. Martin
+  lat: '30.4400'
+  long: "-88.8652"
+  nearby_rate_centers:
+  - name: OCEAN SPG
+    distance_km: 3.89
+  - name: BILOXI
+    distance_km: 5.38
+  - name: VANCLEAVE
+    distance_km: 19.42
+- country: US
+  region: MS
+  name: Standing Pine
+  lat: '32.6749'
+  long: "-89.4529"
+  nearby_rate_centers:
+  - name: CARTHAGE
+    distance_km: 10.72
+  - name: UNION
+    distance_km: 33.79
+  - name: PHILA
+    distance_km: 34.22
+- country: US
+  region: MS
+  name: Starkville
+  lat: '33.4608'
+  long: "-88.8297"
+  nearby_rate_centers:
+  - name: STARKVILLE
+    distance_km: 1.11
+  - name: ARTESICWFD
+    distance_km: 21.49
+  - name: WEST POINT
+    distance_km: 23.2
+- country: US
+  region: MS
+  name: State Line
+  lat: '31.4360'
+  long: "-88.4738"
+  nearby_rate_centers:
+  - name: STATE LINE
+    distance_km: 0.58
+  - name: BUCKATUNNA
+    distance_km: 12.07
+  - name: SAND HILL
+    distance_km: 29.25
+- country: US
+  region: MS
+  name: Stewart
+  lat: '33.4522'
+  long: "-89.4381"
+  nearby_rate_centers:
+  - name: KILMICHAEL
+    distance_km: 11.87
+  - name: EUPORA
+    distance_km: 18.11
+  - name: CHESTER
+    distance_km: 21.13
+- country: US
+  region: MS
+  name: Stoneville
+  lat: '33.4238'
+  long: "-90.9216"
+  nearby_rate_centers:
+  - name: LELAND
+    distance_km: 2.54
+  - name: GREENVILLE
+    distance_km: 12.22
+  - name: SHAW
+    distance_km: 24.87
+- country: US
+  region: MS
+  name: Stonewall
+  lat: '32.1364'
+  long: "-88.7958"
+  nearby_rate_centers:
+  - name: ENTERPRISE
+    distance_km: 5.05
+  - name: QUITMAN
+    distance_km: 13.17
+  - name: ROSE HILL
+    distance_km: 19.18
+- country: US
+  region: MS
+  name: Strayhorn
+  lat: '34.6159'
+  long: "-90.1525"
+  nearby_rate_centers:
+  - name: CRENSHAW
+    distance_km: 13.41
+  - name: SENATOBIA
+    distance_km: 16.99
+  - name: COLDWATER
+    distance_km: 18.78
+- country: US
+  region: MS
+  name: Sturgis
+  lat: '33.3452'
+  long: "-89.0458"
+  nearby_rate_centers:
+  - name: ACKERMAN
+    distance_km: 12.6
+  - name: CHESTER
+    distance_km: 18.24
+  - name: MABEN
+    distance_km: 23.98
+- country: US
+  region: MS
+  name: Summit
+  lat: '31.2808'
+  long: "-90.4670"
+  nearby_rate_centers:
+  - name: MCCOMB
+    distance_km: 4.65
+  - name: MAGNOLIA
+    distance_km: 15.41
+  - name: OSYKA
+    distance_km: 31.5
+- country: US
+  region: MS
+  name: Sumner
+  lat: '33.9693'
+  long: "-90.3693"
+  nearby_rate_centers:
+  - name: SUMNER
+    distance_km: 0.55
+  - name: TUTWILER
+    distance_km: 7.51
+  - name: DREW
+    distance_km: 23.27
+- country: US
+  region: MS
+  name: Sumrall
+  lat: '31.4172'
+  long: "-89.5423"
+  nearby_rate_centers:
+  - name: SUMRALL
+    distance_km: 0.21
+  - name: SEMINARY
+    distance_km: 17.35
+  - name: BASSFIELD
+    distance_km: 21.26
+- country: US
+  region: MS
+  name: Sunflower
+  lat: '33.5444'
+  long: "-90.5373"
+  nearby_rate_centers:
+  - name: SUNFLOWER
+    distance_km: 0.5
+  - name: MOORHEAD
+    distance_km: 10.91
+  - name: INDIANOLA
+    distance_km: 14.73
+- country: US
+  region: MS
+  name: Sylvarena
+  lat: '32.0144'
+  long: "-89.3818"
+  nearby_rate_centers:
+  - name: SYLVARENA
+    distance_km: 0.4
+  - name: BAYSPRINGS
+    distance_km: 10.06
+  - name: LOUIN
+    distance_km: 12.75
+- country: US
+  region: MS
+  name: Symonds
+  lat: '33.8339'
+  long: "-90.8895"
+  nearby_rate_centers:
+  - name: PACE
+    distance_km: 6.51
+  - name: ROSEDALE
+    distance_km: 12.6
+  - name: GUNNISON
+    distance_km: 13.34
+- country: US
+  region: MS
+  name: Taylor
+  lat: '34.2691'
+  long: "-89.5833"
+  nearby_rate_centers:
+  - name: OXFORD
+    distance_km: 12.32
+  - name: WATER VLY
+    distance_km: 12.91
+  - name: COFFEEVL
+    distance_km: 33.61
+- country: US
+  region: MS
+  name: Taylorsville
+  lat: '31.8322'
+  long: "-89.4342"
+  nearby_rate_centers:
+  - name: TAYLORSVL
+    distance_km: 0.67
+  - name: OLDTYLRSVL
+    distance_km: 10.96
+  - name: MIZE
+    distance_km: 11.83
+- country: US
+  region: MS
+  name: Tchula
+  lat: '33.1831'
+  long: "-90.2232"
+  nearby_rate_centers:
+  - name: TCHULA
+    distance_km: 0.36
+  - name: LEXINGTON
+    distance_km: 17.49
+  - name: BELZONI
+    distance_km: 24.16
+- country: US
+  region: MS
+  name: Terry
+  lat: '32.1047'
+  long: "-90.2980"
+  nearby_rate_centers:
+  - name: TERRY
+    distance_km: 0.93
+  - name: CRYSTALSPG
+    distance_km: 14.48
+  - name: FLORENCE
+    distance_km: 16.06
+- country: US
+  region: MS
+  name: Thaxton
+  lat: '34.3071'
+  long: "-89.1745"
+  nearby_rate_centers:
+  - name: PONTOTOC
+    distance_km: 17.03
+  - name: NEW ALBANY
+    distance_km: 25.92
+  - name: MYRTLE
+    distance_km: 28.56
+- country: US
+  region: MS
+  name: Tillatoba
+  lat: '33.9851'
+  long: "-89.8960"
+  nearby_rate_centers:
+  - name: OAKLAND
+    distance_km: 7.04
+  - name: CHARLESTON
+    distance_km: 14.28
+  - name: COFFEEVL
+    distance_km: 20.56
+- country: US
+  region: MS
+  name: Tishomingo
+  lat: '34.6382'
+  long: "-88.2291"
+  nearby_rate_centers:
+  - name: TISHOMINGO
+    distance_km: 0.83
+  - name: BELMONT
+    distance_km: 14.36
+  - name: IUKA
+    distance_km: 20.17
+- country: US
+  region: MS
+  name: Toccopola
+  lat: '34.2561'
+  long: "-89.2211"
+  nearby_rate_centers:
+  - name: PONTOTOC
+    distance_km: 20.21
+  - name: OXFORD
+    distance_km: 29.7
+  - name: HOULKA
+    distance_km: 31.24
+- country: US
+  region: MS
+  name: Toomsuba
+  lat: '32.4267'
+  long: "-88.5100"
+  nearby_rate_centers:
+  - name: TOOMSUBA
+    distance_km: 1.02
+  - name: NVALAIRSTA
+    distance_km: 15.75
+  - name: BRIARWOOD
+    distance_km: 18.1
+- country: US
+  region: MS
+  name: Tremont
+  lat: '34.2326'
+  long: "-88.2507"
+  nearby_rate_centers:
+  - name: TREMONT
+    distance_km: 0.74
+  - name: FULTON
+    distance_km: 15.36
+  - name: FAIRVIEW
+    distance_km: 16.02
+- country: US
+  region: MS
+  name: Tucker
+  lat: '32.7080'
+  long: "-89.0498"
+  nearby_rate_centers:
+  - name: PHILA
+    distance_km: 9.38
+  - name: UNION
+    distance_km: 16.72
+  - name: DUFFEE
+    distance_km: 26.14
+- country: US
+  region: MS
+  name: Tula
+  lat: '34.2359'
+  long: "-89.3656"
+  nearby_rate_centers:
+  - name: OXFORD
+    distance_km: 19.95
+  - name: WATER VLY
+    distance_km: 25.91
+  - name: BRUCE
+    distance_km: 27.28
+  - name: LONG
+    distance_km: 27.28
+  - name: PARKER
+    distance_km: 27.28
+  - name: PITTSBORO
+    distance_km: 27.28
+- country: US
+  region: MS
+  name: Tunica
+  lat: '34.6881'
+  long: "-90.3809"
+  nearby_rate_centers:
+  - name: TUNICA
+    distance_km: 0.5
+  - name: CRENSHAW
+    distance_km: 26.77
+  - name: LULA
+    distance_km: 28.3
+- country: US
+  region: MS
+  name: Tunica Resorts
+  lat: '34.8299'
+  long: "-90.3208"
+  nearby_rate_centers:
+  - name: TUNICA
+    distance_km: 17.15
+  - name: HERNANDO
+    distance_km: 29.9
+  - name: COLDWATER
+    distance_km: 36.32
+- country: US
+  region: MS
+  name: Tupelo
+  lat: '34.2692'
+  long: "-88.7318"
+  nearby_rate_centers:
+  - name: TUPELO
+    distance_km: 2.65
+  - name: VERONA
+    distance_km: 8.98
+  - name: SHANNON
+    distance_km: 16.97
+- country: US
+  region: MS
+  name: Tutwiler
+  lat: '34.0172'
+  long: "-90.4333"
+  nearby_rate_centers:
+  - name: TUTWILER
+    distance_km: 0.7
+  - name: SUMNER
+    distance_km: 7.62
+  - name: CLARKSDALE
+    distance_km: 24.31
+- country: US
+  region: MS
+  name: Tylertown
+  lat: '31.1173'
+  long: "-90.1445"
+  nearby_rate_centers:
+  - name: TYLERTOWN
+    distance_km: 1.0
+  - name: MAGNOLIA
+    distance_km: 29.86
+  - name: MCCOMB
+    distance_km: 32.11
+- country: US
+  region: MS
+  name: Union
+  lat: '32.5711'
+  long: "-89.1152"
+  nearby_rate_centers:
+  - name: UNION
+    distance_km: 0.34
+  - name: DECATUR
+    distance_km: 15.07
+  - name: DUFFEE
+    distance_km: 19.54
+- country: US
+  region: MS
+  name: University
+  lat: '34.3655'
+  long: "-89.5379"
+  nearby_rate_centers:
+  - name: OXFORD
+    distance_km: 1.98
+  - name: WATER VLY
+    distance_km: 24.41
+  - name: CHULAHOMA
+    distance_km: 34.7
+- country: US
+  region: MS
+  name: Utica
+  lat: '32.1061'
+  long: "-90.6221"
+  nearby_rate_centers:
+  - name: UTICA
+    distance_km: 0.51
+  - name: EDWARDS
+    distance_km: 25.3
+  - name: RAYMOND
+    distance_km: 25.5
+- country: US
+  region: MS
+  name: Vaiden
+  lat: '33.3332'
+  long: "-89.7533"
+  nearby_rate_centers:
+  - name: VAIDEN
+    distance_km: 0.93
+  - name: WEST
+    distance_km: 14.84
+  - name: WINONA
+    distance_km: 16.72
+- country: US
+  region: MS
+  name: Valley Park
+  lat: '32.6371'
+  long: "-90.8619"
+  nearby_rate_centers:
+  - name: EAGLE LAKE
+    distance_km: 18.78
+  - name: HOLLYBLUFF
+    distance_km: 24.73
+  - name: ROLLNGFORK
+    distance_km: 30.03
+- country: US
+  region: MS
+  name: Van Vleet
+  lat: '33.9833'
+  long: "-88.8972"
+  nearby_rate_centers:
+  - name: HOULKA
+    distance_km: 12.28
+  - name: HOUSTON
+    distance_km: 13.16
+  - name: OKOLONA
+    distance_km: 13.57
+- country: US
+  region: MS
+  name: Vancleave
+  lat: '30.5483'
+  long: "-88.6675"
+  nearby_rate_centers:
+  - name: VANCLEAVE
+    distance_km: 3.23
+  - name: MOSS POINT
+    distance_km: 20.32
+  - name: HURLEY
+    distance_km: 20.55
+- country: US
+  region: MS
+  name: Vardaman
+  lat: '33.8822'
+  long: "-89.1778"
+  nearby_rate_centers:
+  - name: VARDAMAN
+    distance_km: 0.27
+  - name: CALHOUN CY
+    distance_km: 12.1
+  - name: HOUSTON
+    distance_km: 16.73
+- country: US
+  region: MS
+  name: Verona
+  lat: '34.1907'
+  long: "-88.7204"
+  nearby_rate_centers:
+  - name: VERONA
+    distance_km: 0.34
+  - name: TUPELO
+    distance_km: 7.54
+  - name: SHANNON
+    distance_km: 8.19
+- country: US
+  region: MS
+  name: Vicksburg
+  lat: '32.3173'
+  long: "-90.8868"
+  nearby_rate_centers:
+  - name: VICKSBURG
+    distance_km: 2.72
+  - name: EAGLE LAKE
+    distance_km: 23.33
+  - name: EDWARDS
+    distance_km: 26.78
+- country: US
+  region: MS
+  name: Victoria
+  lat: '34.8387'
+  long: "-89.6144"
+  nearby_rate_centers:
+  - name: BYHALIA
+    distance_km: 6.93
+  - name: MTPLEASANT
+    distance_km: 15.19
+  - name: HOLLY SPG
+    distance_km: 17.05
+- country: US
+  region: MS
+  name: Wade
+  lat: '30.6401'
+  long: "-88.5579"
+  nearby_rate_centers:
+  - name: HURLEY
+    distance_km: 6.41
+  - name: TANNERWLMS
+    distance_km: 10.48
+  - name: VANCLEAVE
+    distance_km: 17.85
+- country: US
+  region: MS
+  name: Walls
+  lat: '34.9257'
+  long: "-90.1604"
+  nearby_rate_centers:
+  - name: HERNANDO
+    distance_km: 18.93
+  - name: MEMPHIS
+    distance_km: 20.22
+  - name: OLIVE BRCH
+    distance_km: 31.88
+- country: US
+  region: MS
+  name: Walnut
+  lat: '34.9497'
+  long: "-88.9236"
+  nearby_rate_centers:
+  - name: WALNUT
+    distance_km: 2.05
+  - name: RIPLEY
+    distance_km: 24.1
+  - name: ASHLAND
+    distance_km: 26.24
+- country: US
+  region: MS
+  name: Walnut Grove
+  lat: '32.5931'
+  long: "-89.4578"
+  nearby_rate_centers:
+  - name: CARTHAGE
+    distance_km: 18.06
+  - name: FOREST
+    distance_km: 25.37
+  - name: LAKE
+    distance_km: 29.75
+- country: US
+  region: MS
+  name: Walthall
+  lat: '33.6069'
+  long: "-89.2787"
+  nearby_rate_centers:
+  - name: EUPORA
+    distance_km: 7.44
+  - name: SLATE SPG
+    distance_km: 16.38
+  - name: MABEN
+    distance_km: 18.76
+- country: US
+  region: MS
+  name: Water Valley
+  lat: '34.1622'
+  long: "-89.6300"
+  nearby_rate_centers:
+  - name: WATER VLY
+    distance_km: 0.29
+  - name: COFFEEVL
+    distance_km: 21.07
+  - name: OXFORD
+    distance_km: 24.87
+- country: US
+  region: MS
+  name: Waterford
+  lat: '34.6494'
+  long: "-89.4575"
+  nearby_rate_centers:
+  - name: HOLLY SPG
+    distance_km: 13.02
+  - name: CHULAHOMA
+    distance_km: 15.6
+  - name: BYHALIA
+    distance_km: 31.73
+- country: US
+  region: MS
+  name: Waveland
+  lat: '30.2930'
+  long: "-89.3905"
+  nearby_rate_centers:
+  - name: BAYSTLOUIS
+    distance_km: 5.65
+  - name: PASSCHRSTN
+    distance_km: 13.64
+  - name: PEARLINGTN
+    distance_km: 21.37
+- country: US
+  region: MS
+  name: Waynesboro
+  lat: '31.6774'
+  long: "-88.6353"
+  nearby_rate_centers:
+  - name: WAYNESBORO
+    distance_km: 0.68
+  - name: BUCKATUNNA
+    distance_km: 19.09
+  - name: SHUBUTA
+    distance_km: 20.67
+- country: US
+  region: MS
+  name: Webb
+  lat: '33.9477'
+  long: "-90.3463"
+  nearby_rate_centers:
+  - name: SUMNER
+    distance_km: 3.61
+  - name: TUTWILER
+    distance_km: 10.68
+  - name: DREW
+    distance_km: 23.02
+- country: US
+  region: MS
+  name: Weir
+  lat: '33.2635'
+  long: "-89.2905"
+  nearby_rate_centers:
+  - name: MCCOOL
+    distance_km: 8.31
+  - name: CHESTER
+    distance_km: 11.25
+  - name: ACKERMAN
+    distance_km: 11.89
+- country: US
+  region: MS
+  name: Wesson
+  lat: '31.6999'
+  long: "-90.3961"
+  nearby_rate_centers:
+  - name: WESSON
+    distance_km: 0.51
+  - name: BROOKHAVEN
+    distance_km: 14.76
+  - name: HAZLEHURST
+    distance_km: 18.64
+- country: US
+  region: MS
+  name: West
+  lat: '33.1977'
+  long: "-89.7821"
+  nearby_rate_centers:
+  - name: WEST
+    distance_km: 0.54
+  - name: DURANT
+    distance_km: 14.53
+  - name: VAIDEN
+    distance_km: 15.66
+- country: US
+  region: MS
+  name: West Hattiesburg
+  lat: '31.3114'
+  long: "-89.3740"
+  nearby_rate_centers:
+  - name: HATTIESBG
+    distance_km: 7.67
+  - name: PURVIS
+    distance_km: 19.44
+  - name: SUMRALL
+    distance_km: 19.74
+- country: US
+  region: MS
+  name: West Point
+  lat: '33.6064'
+  long: "-88.6572"
+  nearby_rate_centers:
+  - name: WEST POINT
+    distance_km: 0.67
+  - name: COLUMBSAFB
+    distance_km: 19.15
+  - name: STARKVILLE
+    distance_km: 22.03
+- country: US
+  region: MS
+  name: Wheeler
+  lat: '34.5836'
+  long: "-88.6025"
+  nearby_rate_centers:
+  - name: BALDWYN
+    distance_km: 8.96
+  - name: BOONEVILLE
+    distance_km: 9.07
+  - name: GUNTOWN
+    distance_km: 16.2
+- country: US
+  region: MS
+  name: White Oak
+  lat: '34.6438'
+  long: "-90.3495"
+  nearby_rate_centers:
+  - name: TUNICA
+    distance_km: 5.26
+  - name: CRENSHAW
+    distance_km: 21.15
+  - name: LULA
+    distance_km: 25.04
+- country: US
+  region: MS
+  name: Wiggins
+  lat: '30.8557'
+  long: "-89.1386"
+  nearby_rate_centers:
+  - name: WIGGINS
+    distance_km: 0.75
+  - name: JANICE
+    distance_km: 21.18
+  - name: BENNDALE
+    distance_km: 31.71
+- country: US
+  region: MS
+  name: Winona
+  lat: '33.4899'
+  long: "-89.7280"
+  nearby_rate_centers:
+  - name: WINONA
+    distance_km: 0.96
+  - name: KILMICHAEL
+    distance_km: 16.06
+  - name: DUCK HILL
+    distance_km: 16.21
+- country: US
+  region: MS
+  name: Winstonville
+  lat: '33.9123'
+  long: "-90.7528"
+  nearby_rate_centers:
+  - name: MOUNDBAYOU
+    distance_km: 3.96
+  - name: SHELBY
+    distance_km: 4.57
+  - name: MERIGOLD
+    distance_km: 8.16
+- country: US
+  region: MS
+  name: Winterville
+  lat: '33.5024'
+  long: "-91.0603"
+  nearby_rate_centers:
+  - name: GREENVILLE
+    distance_km: 10.37
+  - name: BENOIT
+    distance_km: 16.9
+  - name: LELAND
+    distance_km: 18.09
+- country: US
+  region: MS
+  name: Woodland
+  lat: '33.7797'
+  long: "-89.0507"
+  nearby_rate_centers:
+  - name: HOUSTON
+    distance_km: 14.17
+  - name: VARDAMAN
+    distance_km: 16.1
+  - name: MABEN
+    distance_km: 24.81
+- country: US
+  region: MS
+  name: Woodville
+  lat: '31.1029'
+  long: "-91.2992"
+  nearby_rate_centers:
+  - name: WOODVILLE
+    distance_km: 0.56
+  - name: CENTREVL
+    distance_km: 22.06
+  - name: GLOSTER
+    distance_km: 29.04
+- country: US
+  region: MS
+  name: Yazoo City
+  lat: '32.8619'
+  long: "-90.4075"
+  nearby_rate_centers:
+  - name: YAZOO CITY
+    distance_km: 1.46
+  - name: LOUISE
+    distance_km: 21.7
+  - name: HOLLYBLUFF
+    distance_km: 28.51

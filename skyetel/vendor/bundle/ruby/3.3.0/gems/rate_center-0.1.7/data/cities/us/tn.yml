@@ -1,0 +1,6206 @@
+---
+cities:
+- country: US
+  region: TN
+  name: Adams
+  lat: '36.5828'
+  long: "-87.0651"
+  nearby_rate_centers:
+  - name: ADMSCDARHL
+    distance_km: 1.84
+  - name: SO GUTHRIE
+    distance_km: 12.03
+  - name: EASTSANGO
+    distance_km: 15.69
+  - name: SANGO
+    distance_km: 15.69
+- country: US
+  region: TN
+  name: Adamsville
+  lat: '35.2564'
+  long: "-88.3862"
+  nearby_rate_centers:
+  - name: ADAMSVILLE
+    distance_km: 2.49
+  - name: ENVILLE
+    distance_km: 13.28
+  - name: MILLEDGEVL
+    distance_km: 13.28
+  - name: SAVANNAH
+    distance_km: 13.6
+- country: US
+  region: TN
+  name: Alamo
+  lat: '35.7830'
+  long: "-89.1168"
+  nearby_rate_centers:
+  - name: ALAMO
+    distance_km: 0.21
+  - name: BELLS
+    distance_km: 7.95
+  - name: MAURY CITY
+    distance_km: 10.43
+- country: US
+  region: TN
+  name: Alcoa
+  lat: '35.8076'
+  long: "-83.9753"
+  nearby_rate_centers:
+  - name: MARYVILLE
+    distance_km: 5.55
+  - name: CONCORD
+    distance_km: 16.4
+  - name: KNOXVILLE
+    distance_km: 18.5
+- country: US
+  region: TN
+  name: Alexandria
+  lat: '36.0791'
+  long: "-86.0382"
+  nearby_rate_centers:
+  - name: ALEXANDRIA
+    distance_km: 0.79
+  - name: ALEXANDRIA (WILSON)
+    distance_km: 0.79
+  - name: WATERTOWN
+    distance_km: 9.0
+  - name: LIBERTY
+    distance_km: 10.34
+- country: US
+  region: TN
+  name: Algood
+  lat: '36.2000'
+  long: "-85.4468"
+  nearby_rate_centers:
+  - name: COOKEVILLE
+    distance_km: 6.85
+  - name: RICKMAN
+    distance_km: 9.41
+  - name: COOKEVL SO
+    distance_km: 14.71
+- country: US
+  region: TN
+  name: Allardt
+  lat: '36.3811'
+  long: "-84.8814"
+  nearby_rate_centers:
+  - name: JAMESTOWN
+    distance_km: 6.71
+  - name: DEER LODGE
+    distance_km: 22.37
+  - name: SUNBRIGHT
+    distance_km: 24.6
+- country: US
+  region: TN
+  name: Altamont
+  lat: '35.4325'
+  long: "-85.7433"
+  nearby_rate_centers:
+  - name: BEERSHEBA
+    distance_km: 8.63
+  - name: LAAGER
+    distance_km: 14.53
+  - name: VIOLA
+    distance_km: 16.13
+- country: US
+  region: TN
+  name: Andersonville
+  lat: '36.1970'
+  long: "-84.0330"
+  nearby_rate_centers:
+  - name: NORRIS
+    distance_km: 3.39
+  - name: LAKE CITY
+    distance_km: 11.04
+  - name: CLINTON
+    distance_km: 13.33
+- country: US
+  region: TN
+  name: Apison
+  lat: '35.0104'
+  long: "-85.0142"
+  nearby_rate_centers:
+  - name: APISON
+    distance_km: 2.08
+  - name: COLLEGEDL
+    distance_km: 4.91
+  - name: OOLTEWAH
+    distance_km: 8.31
+- country: US
+  region: TN
+  name: Ardmore
+  lat: '35.0031'
+  long: "-86.8548"
+  nearby_rate_centers:
+  - name: ARDMORE
+    distance_km: 1.42
+  - name: ELKTON
+    distance_km: 6.14
+  - name: BLANCHE
+    distance_km: 9.87
+- country: US
+  region: TN
+  name: Arlington
+  lat: '35.2594'
+  long: "-89.6680"
+  nearby_rate_centers:
+  - name: ARLINGTON
+    distance_km: 3.65
+  - name: ROSEMARK
+    distance_km: 14.2
+  - name: MASON
+    distance_km: 20.82
+  - name: MASON (TIPTON)
+    distance_km: 20.82
+- country: US
+  region: TN
+  name: Ashland City
+  lat: '36.2607'
+  long: "-87.0412"
+  nearby_rate_centers:
+  - name: ASHLAND CY
+    distance_km: 2.62
+  - name: PLEASANTVW
+    distance_km: 14.67
+  - name: KINGSTNSPG
+    distance_km: 20.56
+- country: US
+  region: TN
+  name: Athens
+  lat: '35.4573'
+  long: "-84.6045"
+  nearby_rate_centers:
+  - name: ATHENS
+    distance_km: 0.72
+  - name: NIOTA
+    distance_km: 8.49
+  - name: ENGLEWOOD
+    distance_km: 11.04
+- country: US
+  region: TN
+  name: Atoka
+  lat: '35.4239'
+  long: "-89.7861"
+  nearby_rate_centers:
+  - name: MUNFORD
+    distance_km: 3.46
+  - name: ROSEMARK
+    distance_km: 7.59
+  - name: DRUMMONDS
+    distance_km: 12.16
+- country: US
+  region: TN
+  name: Atwood
+  lat: '35.9747'
+  long: "-88.6689"
+  nearby_rate_centers:
+  - name: ATWOOD
+    distance_km: 0.63
+  - name: TREZEVANT
+    distance_km: 6.37
+  - name: MILAN
+    distance_km: 10.17
+- country: US
+  region: TN
+  name: Auburntown
+  lat: '35.9511'
+  long: "-86.0969"
+  nearby_rate_centers:
+  - name: AUBURNTOWN
+    distance_km: 0.3
+  - name: MILTON
+    distance_km: 8.24
+  - name: LIBERTY
+    distance_km: 13.3
+- country: US
+  region: TN
+  name: Baileyton
+  lat: '36.3304'
+  long: "-82.8292"
+  nearby_rate_centers:
+  - name: BAILEYTON
+    distance_km: 0.71
+  - name: SURGOINSVL
+    distance_km: 16.25
+  - name: GREENEVL
+    distance_km: 18.42
+- country: US
+  region: TN
+  name: Baneberry
+  lat: '36.0465'
+  long: "-83.2782"
+  nearby_rate_centers:
+  - name: WHITE PINE
+    distance_km: 6.69
+  - name: BENTCREEK
+    distance_km: 11.62
+  - name: CHESTNUTHI
+    distance_km: 11.62
+  - name: NEWPORT
+    distance_km: 11.62
+  - name: DANDRIDGE
+    distance_km: 12.85
+- country: US
+  region: TN
+  name: Banner Hill
+  lat: '36.1223'
+  long: "-82.4203"
+  nearby_rate_centers:
+  - name: ERWIN
+    distance_km: 2.2
+  - name: JONESBORO
+    distance_km: 19.77
+  - name: LIMESTONE
+    distance_km: 22.03
+- country: US
+  region: TN
+  name: Bartlett
+  lat: '35.2337'
+  long: "-89.8195"
+  nearby_rate_centers:
+  - name: ROSEMARK
+    distance_km: 14.48
+  - name: MILLINGTON
+    distance_km: 14.55
+  - name: ARLINGTON
+    distance_km: 15.99
+- country: US
+  region: TN
+  name: Baxter
+  lat: '36.1536'
+  long: "-85.6348"
+  nearby_rate_centers:
+  - name: BAXTER
+    distance_km: 0.72
+  - name: COOKEVL SO
+    distance_km: 7.32
+  - name: COOKEVILLE
+    distance_km: 11.33
+- country: US
+  region: TN
+  name: Bean Station
+  lat: '36.3323'
+  long: "-83.2852"
+  nearby_rate_centers:
+  - name: BEAN STATN
+    distance_km: 1.07
+  - name: TATE SPG
+    distance_km: 8.24
+  - name: MORRISTOWN
+    distance_km: 12.92
+- country: US
+  region: TN
+  name: Beech Bluff
+  lat: '35.6047'
+  long: "-88.6292"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 17.1
+  - name: HENDERSON
+    distance_km: 17.97
+  - name: LEXINGTON
+    distance_km: 22.05
+- country: US
+  region: TN
+  name: Beersheba Springs
+  lat: '35.4590'
+  long: "-85.6689"
+  nearby_rate_centers:
+  - name: BEERSHEBA
+    distance_km: 1.38
+  - name: LAAGER
+    distance_km: 11.37
+  - name: VIOLA
+    distance_km: 19.57
+- country: US
+  region: TN
+  name: Bell Buckle
+  lat: '35.5908'
+  long: "-86.3538"
+  nearby_rate_centers:
+  - name: WARTRACE
+    distance_km: 6.55
+  - name: FOSTERVILLE (BEDFORD)
+    distance_km: 8.43
+  - name: FOSTERVL
+    distance_km: 8.43
+  - name: BEECHGROVE
+    distance_km: 10.91
+- country: US
+  region: TN
+  name: Belle Meade
+  lat: '36.0994'
+  long: "-86.8562"
+  nearby_rate_centers:
+  - name: NASHVILLE
+    distance_km: 9.98
+  - name: FRANKLIN
+    distance_km: 19.74
+  - name: NOLENSVILLE (DAVIDSON)
+    distance_km: 23.76
+  - name: NOLENSVL
+    distance_km: 23.76
+- country: US
+  region: TN
+  name: Bells
+  lat: '35.7203'
+  long: "-89.0859"
+  nearby_rate_centers:
+  - name: BELLS
+    distance_km: 0.84
+  - name: ALAMO
+    distance_km: 7.57
+  - name: MAURY CITY
+    distance_km: 16.47
+- country: US
+  region: TN
+  name: Belvidere
+  lat: '35.1281'
+  long: "-86.1881"
+  nearby_rate_centers:
+  - name: WINCHESTER
+    distance_km: 9.15
+  - name: HUNTLAND
+    distance_km: 11.44
+  - name: ESTILL SPG
+    distance_km: 16.2
+- country: US
+  region: TN
+  name: Benton
+  lat: '35.1749'
+  long: "-84.6516"
+  nearby_rate_centers:
+  - name: BENTON
+    distance_km: 0.33
+  - name: CHARLESTON
+    distance_km: 15.65
+  - name: CLEVELAND
+    distance_km: 19.66
+- country: US
+  region: TN
+  name: Berry Hill
+  lat: '36.1196'
+  long: "-86.7673"
+  nearby_rate_centers:
+  - name: NASHVILLE
+    distance_km: 4.45
+  - name: OLDHICKORY
+    distance_km: 18.57
+  - name: LAVERGNE
+    distance_km: 20.0
+  - name: LAVERGNE (DAVIDSON)
+    distance_km: 20.0
+- country: US
+  region: TN
+  name: Bethel Springs
+  lat: '35.2342'
+  long: "-88.6131"
+  nearby_rate_centers:
+  - name: BETHEL SPG
+    distance_km: 0.51
+  - name: SELMER
+    distance_km: 6.55
+  - name: ADAMSVILLE
+    distance_km: 20.04
+- country: US
+  region: TN
+  name: Bethpage
+  lat: '36.4843'
+  long: "-86.3085"
+  nearby_rate_centers:
+  - name: BETHPAGE
+    distance_km: 0.86
+  - name: WESTMORELD
+    distance_km: 10.3
+  - name: OAK GROVE
+    distance_km: 11.44
+- country: US
+  region: TN
+  name: Big Rock
+  lat: '36.5767'
+  long: "-87.7579"
+  nearby_rate_centers:
+  - name: DOVER
+    distance_km: 12.75
+  - name: CUMBERLDCY
+    distance_km: 23.62
+  - name: PALMYRA
+    distance_km: 29.34
+- country: US
+  region: TN
+  name: Big Sandy
+  lat: '36.2327'
+  long: "-88.0850"
+  nearby_rate_centers:
+  - name: BIG SANDY
+    distance_km: 1.04
+  - name: CAMDEN
+    distance_km: 19.5
+  - name: PARIS
+    distance_km: 22.81
+- country: US
+  region: TN
+  name: Biltmore
+  lat: '36.3675'
+  long: "-82.2243"
+  nearby_rate_centers:
+  - name: ELIZABTHTN
+    distance_km: 2.22
+  - name: HAMPTON
+    distance_km: 10.06
+  - name: BLUFF CITY
+    distance_km: 12.26
+- country: US
+  region: TN
+  name: Blaine
+  lat: '36.1478'
+  long: "-83.6939"
+  nearby_rate_centers:
+  - name: MASCOT
+    distance_km: 9.86
+  - name: MAYNARDVL
+    distance_km: 14.71
+  - name: JEFFERSNCY
+    distance_km: 17.53
+- country: US
+  region: TN
+  name: Blanche
+  lat: '35.0437'
+  long: "-86.7532"
+  nearby_rate_centers:
+  - name: BLANCHE
+    distance_km: 0.43
+  - name: ARDMORE
+    distance_km: 10.24
+  - name: ELKTON
+    distance_km: 12.66
+- country: US
+  region: TN
+  name: Bloomingdale
+  lat: '36.5793'
+  long: "-82.5096"
+  nearby_rate_centers:
+  - name: KINGSPORT
+    distance_km: 5.43
+  - name: SULIVNGDNS
+    distance_km: 13.79
+  - name: MIDWAY
+    distance_km: 14.59
+  - name: MIDWAY SUL
+    distance_km: 14.59
+- country: US
+  region: TN
+  name: Blountville
+  lat: '36.5330'
+  long: "-82.3290"
+  nearby_rate_centers:
+  - name: BLOUNTVL
+    distance_km: 0.53
+  - name: BLUFF CITY
+    distance_km: 9.01
+  - name: BRISTOL
+    distance_km: 14.54
+- country: US
+  region: TN
+  name: Bluff City
+  lat: '36.4589'
+  long: "-82.2768"
+  nearby_rate_centers:
+  - name: BLUFF CITY
+    distance_km: 2.26
+  - name: BLOUNTVL
+    distance_km: 9.1
+  - name: ELIZABTHTN
+    distance_km: 13.33
+- country: US
+  region: TN
+  name: Bogota
+  lat: '36.1620'
+  long: "-89.4390"
+  nearby_rate_centers:
+  - name: RIDGELY
+    distance_km: 12.6
+  - name: DYERSBURG
+    distance_km: 14.27
+  - name: NEWBERN
+    distance_km: 16.71
+- country: US
+  region: TN
+  name: Bolivar
+  lat: '35.2645'
+  long: "-89.0118"
+  nearby_rate_centers:
+  - name: BOLIVAR
+    distance_km: 2.84
+  - name: WESTWHITEV
+    distance_km: 14.09
+  - name: WHITEVILLE
+    distance_km: 14.09
+  - name: MIDDLETON
+    distance_km: 24.53
+- country: US
+  region: TN
+  name: Bon Air
+  lat: '35.9359'
+  long: "-85.3644"
+  nearby_rate_centers:
+  - name: BONDECROFT
+    distance_km: 5.57
+  - name: SPARTA
+    distance_km: 9.28
+  - name: SPARTA RL
+    distance_km: 9.28
+  - name: PLEASANTHL
+    distance_km: 16.37
+- country: US
+  region: TN
+  name: Bon Aqua Junction
+  lat: '35.9281'
+  long: "-87.3124"
+  nearby_rate_centers:
+  - name: LYLES
+    distance_km: 1.3
+  - name: SPENCERMIL
+    distance_km: 1.3
+  - name: DICKSON
+    distance_km: 17.33
+  - name: FAIRVIEW
+    distance_km: 17.83
+- country: US
+  region: TN
+  name: Bowman
+  lat: '36.0586'
+  long: "-85.0305"
+  nearby_rate_centers:
+  - name: CROSSVILLE
+    distance_km: 12.23
+  - name: CLARKRANGE
+    distance_km: 13.67
+  - name: PLEASANTHL
+    distance_km: 17.16
+- country: US
+  region: TN
+  name: Braden
+  lat: '35.3685'
+  long: "-89.5718"
+  nearby_rate_centers:
+  - name: MASON
+    distance_km: 5.89
+  - name: MASON (TIPTON)
+    distance_km: 5.89
+  - name: ARLINGTON
+    distance_km: 11.62
+  - name: ROSEMARK
+    distance_km: 17.9
+- country: US
+  region: TN
+  name: Bradford
+  lat: '36.0737'
+  long: "-88.8163"
+  nearby_rate_centers:
+  - name: BRADFORD
+    distance_km: 0.48
+  - name: GREENFIELD
+    distance_km: 9.45
+  - name: TRENTON
+    distance_km: 15.92
+- country: US
+  region: TN
+  name: Bransford
+  lat: '36.5133'
+  long: "-86.2853"
+  nearby_rate_centers:
+  - name: BETHPAGE
+    distance_km: 4.4
+  - name: WESTMORELD
+    distance_km: 6.47
+  - name: OAK GROVE
+    distance_km: 10.74
+- country: US
+  region: TN
+  name: Brentwood
+  lat: '35.9918'
+  long: "-86.7758"
+  nearby_rate_centers:
+  - name: NOLENSVILLE (DAVIDSON)
+    distance_km: 10.82
+  - name: NOLENSVL
+    distance_km: 10.82
+  - name: FRANKLIN
+    distance_km: 11.2
+  - name: LAVERGNE
+    distance_km: 17.54
+  - name: LAVERGNE (DAVIDSON)
+    distance_km: 17.54
+- country: US
+  region: TN
+  name: Briceville
+  lat: '36.1777'
+  long: "-84.1837"
+  nearby_rate_centers:
+  - name: LAKE CITY
+    distance_km: 5.86
+  - name: CLINTON
+    distance_km: 8.81
+  - name: NORRIS
+    distance_km: 10.31
+- country: US
+  region: TN
+  name: Brighton
+  lat: '35.4813'
+  long: "-89.7353"
+  nearby_rate_centers:
+  - name: MUNFORD
+    distance_km: 7.34
+  - name: COVINGTON
+    distance_km: 12.27
+  - name: ROSEMARK
+    distance_km: 14.13
+- country: US
+  region: TN
+  name: Bristol
+  lat: '36.5572'
+  long: "-82.2154"
+  nearby_rate_centers:
+  - name: BRISTOL
+    distance_km: 4.84
+  - name: BLOUNTVL
+    distance_km: 10.04
+  - name: BLUFF CITY
+    distance_km: 10.07
+- country: US
+  region: TN
+  name: Brownsville
+  lat: '35.5890'
+  long: "-89.2578"
+  nearby_rate_centers:
+  - name: BROWNSVL
+    distance_km: 1.37
+  - name: STANTON
+    distance_km: 18.99
+  - name: BELLS
+    distance_km: 20.49
+- country: US
+  region: TN
+  name: Bruceton
+  lat: '36.0349'
+  long: "-88.2466"
+  nearby_rate_centers:
+  - name: BRUCETON
+    distance_km: 1.12
+  - name: CAMDEN
+    distance_km: 13.24
+  - name: HUNTINGDON
+    distance_km: 16.43
+- country: US
+  region: TN
+  name: Buchanan
+  lat: '36.4340'
+  long: "-88.2027"
+  nearby_rate_centers:
+  - name: CYPRESS
+    distance_km: 9.78
+  - name: PURYEAR
+    distance_km: 11.54
+  - name: SOUTHHAZEL
+    distance_km: 13.22
+- country: US
+  region: TN
+  name: Bulls Gap
+  lat: '36.2615'
+  long: "-83.0788"
+  nearby_rate_centers:
+  - name: BULLS GAP
+    distance_km: 0.71
+  - name: MOSHEIM
+    distance_km: 13.3
+  - name: ROGERSVL
+    distance_km: 17.46
+- country: US
+  region: TN
+  name: Burlison
+  lat: '35.5569'
+  long: "-89.7847"
+  nearby_rate_centers:
+  - name: MUNFORD
+    distance_km: 12.05
+  - name: COVINGTON
+    distance_km: 12.35
+  - name: DRUMMONDS
+    distance_km: 15.16
+- country: US
+  region: TN
+  name: Burns
+  lat: '36.0508'
+  long: "-87.2984"
+  nearby_rate_centers:
+  - name: DICKSON
+    distance_km: 7.94
+  - name: WHITEBLUFF
+    distance_km: 9.34
+  - name: LYLES
+    distance_km: 14.36
+  - name: SPENCERMIL
+    distance_km: 14.36
+- country: US
+  region: TN
+  name: Butler
+  lat: '36.3562'
+  long: "-82.0347"
+  nearby_rate_centers:
+  - name: BUTLER
+    distance_km: 0.56
+  - name: STONEY CRK
+    distance_km: 7.54
+  - name: HAMPTON
+    distance_km: 14.63
+- country: US
+  region: TN
+  name: Byrdstown
+  lat: '36.5737'
+  long: "-85.1342"
+  nearby_rate_centers:
+  - name: BYRDSTOWN
+    distance_km: 0.91
+  - name: JAMESTOWN
+    distance_km: 24.45
+  - name: LIVINGSTON
+    distance_km: 26.67
+- country: US
+  region: TN
+  name: Calhoun
+  lat: '35.2993'
+  long: "-84.7472"
+  nearby_rate_centers:
+  - name: CHARLESTON
+    distance_km: 2.21
+  - name: RICEVILLE
+    distance_km: 10.11
+  - name: BENTON
+    distance_km: 16.1
+- country: US
+  region: TN
+  name: Camden
+  lat: '36.0663'
+  long: "-88.1047"
+  nearby_rate_centers:
+  - name: CAMDEN
+    distance_km: 0.97
+  - name: BRUCETON
+    distance_km: 12.36
+  - name: NEWJHNSNVL
+    distance_km: 13.43
+- country: US
+  region: TN
+  name: Carthage
+  lat: '36.2566'
+  long: "-85.9430"
+  nearby_rate_centers:
+  - name: CARTHAGE
+    distance_km: 0.78
+  - name: DEFEATED
+    distance_km: 7.45
+  - name: GORDONSVILLE
+    distance_km: 8.88
+- country: US
+  region: TN
+  name: Caryville
+  lat: '36.3252'
+  long: "-84.2199"
+  nearby_rate_centers:
+  - name: LAFOLLETTE
+    distance_km: 11.21
+  - name: LAKE CITY
+    distance_km: 12.85
+  - name: NORRIS
+    distance_km: 20.1
+- country: US
+  region: TN
+  name: Castalian Springs
+  lat: '36.4012'
+  long: "-86.3067"
+  nearby_rate_centers:
+  - name: BETHPAGE
+    distance_km: 9.24
+  - name: GALLATIN
+    distance_km: 12.34
+  - name: HARTSVILLE
+    distance_km: 12.58
+- country: US
+  region: TN
+  name: Cedar Hill
+  lat: '36.5512'
+  long: "-87.0010"
+  nearby_rate_centers:
+  - name: ADMSCDARHL
+    distance_km: 4.89
+  - name: SPRINGFLD
+    distance_km: 10.93
+  - name: PLEASANTVW
+    distance_km: 17.87
+- country: US
+  region: TN
+  name: Celina
+  lat: '36.5469'
+  long: "-85.5043"
+  nearby_rate_centers:
+  - name: CELINA
+    distance_km: 0.27
+  - name: MOSS
+    distance_km: 10.98
+  - name: NORTH SPG
+    distance_km: 23.92
+- country: US
+  region: TN
+  name: Centertown
+  lat: '35.7251'
+  long: "-85.9197"
+  nearby_rate_centers:
+  - name: CENTERTOWN
+    distance_km: 0.37
+  - name: WOODLAND
+    distance_km: 12.95
+  - name: DIBRELL
+    distance_km: 14.1
+- country: US
+  region: TN
+  name: Centerville
+  lat: '35.8042'
+  long: "-87.4577"
+  nearby_rate_centers:
+  - name: CENTERVL
+    distance_km: 3.29
+  - name: LYLES
+    distance_km: 17.83
+  - name: SPENCERMIL
+    distance_km: 17.83
+  - name: WILLIAMSPT
+    distance_km: 24.3
+- country: US
+  region: TN
+  name: Central
+  lat: '36.3289'
+  long: "-82.2940"
+  nearby_rate_centers:
+  - name: JOHNSON CY
+    distance_km: 5.4
+  - name: ELIZABTHTN
+    distance_km: 6.86
+  - name: HAMPTON
+    distance_km: 11.77
+- country: US
+  region: TN
+  name: Chapel Hill
+  lat: '35.6283'
+  long: "-86.6970"
+  nearby_rate_centers:
+  - name: CHAPELHILL
+    distance_km: 0.58
+  - name: UNIONVILLE
+    distance_km: 11.37
+  - name: EAGLEVILLE
+    distance_km: 13.48
+- country: US
+  region: TN
+  name: Charleston
+  lat: '35.2862'
+  long: "-84.7611"
+  nearby_rate_centers:
+  - name: CHARLESTON
+    distance_km: 0.33
+  - name: RICEVILLE
+    distance_km: 11.97
+  - name: BENTON
+    distance_km: 15.62
+- country: US
+  region: TN
+  name: Charlotte
+  lat: '36.1861'
+  long: "-87.3389"
+  nearby_rate_centers:
+  - name: CHARLOTTE
+    distance_km: 0.61
+  - name: VANLEER
+    distance_km: 10.38
+  - name: W VANLEER
+    distance_km: 10.38
+  - name: DICKSON
+    distance_km: 13.12
+- country: US
+  region: TN
+  name: Chattanooga
+  lat: '35.0660'
+  long: "-85.2481"
+  nearby_rate_centers:
+  - name: CHATTNOOGA
+    distance_km: 6.41
+  - name: OOLTEWAH
+    distance_km: 17.45
+  - name: COLLEGEDL
+    distance_km: 19.4
+- country: US
+  region: TN
+  name: Chesterfield
+  lat: '35.6468'
+  long: "-88.2700"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance_km: 11.0
+  - name: PARSONS
+    distance_km: 13.14
+  - name: SCOTTSHILL
+    distance_km: 14.66
+- country: US
+  region: TN
+  name: Chewalla
+  lat: '35.0209'
+  long: "-88.6426"
+  nearby_rate_centers:
+  - name: MICHIE
+    distance_km: 17.68
+  - name: SELMER
+    distance_km: 17.76
+  - name: MIDDLETON
+    distance_km: 23.3
+- country: US
+  region: TN
+  name: Childers Hill
+  lat: '35.0816'
+  long: "-88.3267"
+  nearby_rate_centers:
+  - name: SHILOH
+    distance_km: 5.82
+  - name: MICHIE
+    distance_km: 12.1
+  - name: SAVANNAH
+    distance_km: 17.47
+- country: US
+  region: TN
+  name: Christiana
+  lat: '35.7193'
+  long: "-86.4129"
+  nearby_rate_centers:
+  - name: FOSTERVILLE (BEDFORD)
+    distance_km: 7.47
+  - name: FOSTERVL
+    distance_km: 7.47
+  - name: MURFREESBO
+    distance_km: 14.95
+  - name: UNIONVILLE
+    distance_km: 16.39
+- country: US
+  region: TN
+  name: Church Hill
+  lat: '36.5204'
+  long: "-82.7151"
+  nearby_rate_centers:
+  - name: CHURCHHILL
+    distance_km: 0.44
+  - name: SULIVNGDNS
+    distance_km: 12.15
+  - name: SURGOINSVL
+    distance_km: 13.02
+- country: US
+  region: TN
+  name: Clarkrange
+  lat: '36.1857'
+  long: "-85.0096"
+  nearby_rate_centers:
+  - name: CLARKRANGE
+    distance_km: 1.33
+  - name: CRAWFORD
+    distance_km: 14.62
+  - name: DEER LODGE
+    distance_km: 21.75
+- country: US
+  region: TN
+  name: Clarksburg
+  lat: '35.8705'
+  long: "-88.3937"
+  nearby_rate_centers:
+  - name: HUNTINGDON
+    distance_km: 14.83
+  - name: CEDARGROVE
+    distance_km: 15.12
+  - name: BRUCETON
+    distance_km: 23.69
+- country: US
+  region: TN
+  name: Clarksville
+  lat: '36.5692'
+  long: "-87.3413"
+  nearby_rate_centers:
+  - name: CLARKSVL
+    distance_km: 4.99
+  - name: SOOAKGROVE
+    distance_km: 11.03
+  - name: EASTSANGO
+    distance_km: 14.3
+  - name: SANGO
+    distance_km: 14.3
+- country: US
+  region: TN
+  name: Cleveland
+  lat: '35.1817'
+  long: "-84.8707"
+  nearby_rate_centers:
+  - name: CLEVELAND
+    distance_km: 2.7
+  - name: GEORGETOWN
+    distance_km: 13.66
+  - name: CHARLESTON
+    distance_km: 15.03
+- country: US
+  region: TN
+  name: Clifton
+  lat: '35.3792'
+  long: "-87.9927"
+  nearby_rate_centers:
+  - name: CLIFTON
+    distance_km: 0.23
+  - name: WAYNESBORO
+    distance_km: 21.68
+  - name: DECATURVL
+    distance_km: 25.44
+- country: US
+  region: TN
+  name: Clinton
+  lat: '36.0981'
+  long: "-84.1283"
+  nearby_rate_centers:
+  - name: CLINTON
+    distance_km: 1.36
+  - name: CLAXTON
+    distance_km: 8.88
+  - name: OAK RIDGE
+    distance_km: 9.13
+- country: US
+  region: TN
+  name: Coalfield
+  lat: '36.0219'
+  long: "-84.4414"
+  nearby_rate_centers:
+  - name: PETROS
+    distance_km: 8.56
+  - name: OLIVER SPG
+    distance_km: 9.39
+  - name: OAKDALE
+    distance_km: 11.24
+- country: US
+  region: TN
+  name: Coalmont
+  lat: '35.3458'
+  long: "-85.7113"
+  nearby_rate_centers:
+  - name: TRACY CITY
+    distance_km: 9.75
+  - name: LAAGER
+    distance_km: 10.5
+  - name: BEERSHEBA
+    distance_km: 14.42
+- country: US
+  region: TN
+  name: Coker Creek
+  lat: '35.2632'
+  long: "-84.2882"
+  nearby_rate_centers:
+  - name: COKERCREEK
+    distance_km: 0.56
+  - name: TELLICO PL
+    distance_km: 10.83
+  - name: ETOWAH
+    distance_km: 23.25
+- country: US
+  region: TN
+  name: Collegedale
+  lat: '35.0526'
+  long: "-85.0488"
+  nearby_rate_centers:
+  - name: COLLEGEDL
+    distance_km: 1.21
+  - name: OOLTEWAH
+    distance_km: 2.76
+  - name: APISON
+    distance_km: 3.57
+- country: US
+  region: TN
+  name: Collierville
+  lat: '35.0470'
+  long: "-89.6987"
+  nearby_rate_centers:
+  - name: COLLIERVL
+    distance_km: 3.54
+  - name: ARLINGTON
+    distance_km: 27.41
+  - name: MOSCOW
+    distance_km: 27.46
+- country: US
+  region: TN
+  name: Collinwood
+  lat: '35.1746'
+  long: "-87.7442"
+  nearby_rate_centers:
+  - name: COLLINWOOD
+    distance_km: 0.19
+  - name: WAYNESBORO
+    distance_km: 15.82
+  - name: ST JOSEPH
+    distance_km: 25.85
+- country: US
+  region: TN
+  name: Colonial Heights
+  lat: '36.4853'
+  long: "-82.5069"
+  nearby_rate_centers:
+  - name: MIDWAY
+    distance_km: 5.01
+  - name: MIDWAY SUL
+    distance_km: 5.01
+  - name: SULIVNGDNS
+    distance_km: 7.69
+  - name: KINGSPORT
+    distance_km: 8.33
+- country: US
+  region: TN
+  name: Columbia
+  lat: '35.6238'
+  long: "-87.0484"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance_km: 2.3
+  - name: SANTA FE
+    distance_km: 13.81
+  - name: CULLEOKA
+    distance_km: 16.66
+- country: US
+  region: TN
+  name: Conasauga
+  lat: '35.0052'
+  long: "-84.7276"
+  nearby_rate_centers:
+  - name: BENTON
+    distance_km: 20.05
+  - name: CLEVELAND
+    distance_km: 21.16
+  - name: APISON
+    distance_km: 27.37
+- country: US
+  region: TN
+  name: Cookeville
+  lat: '36.1482'
+  long: "-85.5109"
+  nearby_rate_centers:
+  - name: COOKEVILLE
+    distance_km: 1.84
+  - name: COOKEVL SO
+    distance_km: 6.61
+  - name: BAXTER
+    distance_km: 11.78
+- country: US
+  region: TN
+  name: Coopertown
+  lat: '36.4142'
+  long: "-86.9658"
+  nearby_rate_centers:
+  - name: PLEASANTVW
+    distance_km: 6.4
+  - name: SPRINGFLD
+    distance_km: 12.51
+  - name: GREENBRIER
+    distance_km: 15.06
+- country: US
+  region: TN
+  name: Copperhill
+  lat: '34.9952'
+  long: "-84.3749"
+  nearby_rate_centers:
+  - name: COPPERBSIN
+    distance_km: 1.52
+  - name: COKERCREEK
+    distance_km: 30.28
+  - name: BENTON
+    distance_km: 32.44
+- country: US
+  region: TN
+  name: Cornersville
+  lat: '35.3634'
+  long: "-86.8584"
+  nearby_rate_centers:
+  - name: CORNERSVL
+    distance_km: 1.77
+  - name: LEWISBURG
+    distance_km: 11.35
+  - name: LYNNVILLE
+    distance_km: 13.79
+- country: US
+  region: TN
+  name: Cosby
+  lat: '35.7952'
+  long: "-83.2457"
+  nearby_rate_centers:
+  - name: BENTCREEK
+    distance_km: 19.71
+  - name: CHESTNUTHI
+    distance_km: 19.71
+  - name: NEWPORT
+    distance_km: 19.71
+  - name: GATLINBURG
+    distance_km: 25.32
+  - name: DANDRIDGE
+    distance_km: 28.81
+- country: US
+  region: TN
+  name: Cottage Grove
+  lat: '36.3783'
+  long: "-88.4786"
+  nearby_rate_centers:
+  - name: COTTAGEGRV
+    distance_km: 0.61
+  - name: PALMERSVL
+    distance_km: 9.51
+  - name: PURYEAR
+    distance_km: 14.88
+- country: US
+  region: TN
+  name: Cottontown
+  lat: '36.4490'
+  long: "-86.5336"
+  nearby_rate_centers:
+  - name: GALLATIN
+    distance_km: 10.18
+  - name: WHITEHOUSE
+    distance_km: 10.36
+  - name: PORTLAND
+    distance_km: 14.88
+- country: US
+  region: TN
+  name: Counce
+  lat: '35.0404'
+  long: "-88.2717"
+  nearby_rate_centers:
+  - name: SHILOH
+    distance_km: 1.94
+  - name: MICHIE
+    distance_km: 16.23
+  - name: SAVANNAH
+    distance_km: 20.45
+- country: US
+  region: TN
+  name: Covington
+  lat: '35.5660'
+  long: "-89.6482"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 0.05
+  - name: HENNING
+    distance_km: 13.86
+  - name: MUNFORD
+    distance_km: 19.29
+- country: US
+  region: TN
+  name: Cowan
+  lat: '35.1629'
+  long: "-86.0142"
+  nearby_rate_centers:
+  - name: WINCHESTER
+    distance_km: 9.59
+  - name: SEWANEE
+    distance_km: 9.93
+  - name: ESTILL SPG
+    distance_km: 15.76
+- country: US
+  region: TN
+  name: Crab Orchard
+  lat: '35.9066'
+  long: "-84.8847"
+  nearby_rate_centers:
+  - name: CROSSVILLE
+    distance_km: 14.29
+  - name: TANSI
+    distance_km: 15.71
+  - name: ROCKWOOD
+    distance_km: 18.74
+- country: US
+  region: TN
+  name: Cross Plains
+  lat: '36.5412'
+  long: "-86.6765"
+  nearby_rate_centers:
+  - name: CRSPLORLND
+    distance_km: 3.95
+  - name: WHITEHOUSE
+    distance_km: 8.77
+  - name: PORTLAND
+    distance_km: 14.88
+- country: US
+  region: TN
+  name: Crossville
+  lat: '35.9526'
+  long: "-85.0295"
+  nearby_rate_centers:
+  - name: CROSSVILLE
+    distance_km: 0.64
+  - name: TANSI
+    distance_km: 9.75
+  - name: PLEASANTHL
+    distance_km: 14.39
+- country: US
+  region: TN
+  name: Crump
+  lat: '35.2315'
+  long: "-88.3381"
+  nearby_rate_centers:
+  - name: ADAMSVILLE
+    distance_km: 4.95
+  - name: SAVANNAH
+    distance_km: 8.76
+  - name: ENVILLE
+    distance_km: 16.17
+  - name: MILLEDGEVL
+    distance_km: 16.17
+- country: US
+  region: TN
+  name: Cumberland City
+  lat: '36.3828'
+  long: "-87.6403"
+  nearby_rate_centers:
+  - name: CUMBERLDCY
+    distance_km: 1.03
+  - name: ERIN
+    distance_km: 8.77
+  - name: TENNESSRDG
+    distance_km: 14.53
+- country: US
+  region: TN
+  name: Cumberland Gap
+  lat: '36.5974'
+  long: "-83.6658"
+  nearby_rate_centers:
+  - name: CUMBERLDGP
+    distance_km: 0.12
+  - name: FORK RIDGE
+    distance_km: 10.61
+  - name: NEWTAZWELL
+    distance_km: 18.09
+- country: US
+  region: TN
+  name: Dancyville
+  lat: '35.4067'
+  long: "-89.2970"
+  nearby_rate_centers:
+  - name: STANTON
+    distance_km: 11.53
+  - name: WESTWHITEV
+    distance_km: 16.27
+  - name: WHITEVILLE
+    distance_km: 16.27
+  - name: SOMERVILLE
+    distance_km: 18.96
+- country: US
+  region: TN
+  name: Dandridge
+  lat: '36.0284'
+  long: "-83.4308"
+  nearby_rate_centers:
+  - name: DANDRIDGE
+    distance_km: 2.04
+  - name: JEFFERSNCY
+    distance_km: 12.41
+  - name: WHITE PINE
+    distance_km: 15.81
+- country: US
+  region: TN
+  name: Darden
+  lat: '35.6384'
+  long: "-88.2261"
+  nearby_rate_centers:
+  - name: PARSONS
+    distance_km: 9.28
+  - name: DECATURVL
+    distance_km: 11.62
+  - name: SCOTTSHILL
+    distance_km: 13.73
+- country: US
+  region: TN
+  name: Dayton
+  lat: '35.4912'
+  long: "-85.0120"
+  nearby_rate_centers:
+  - name: DAYTON
+    distance_km: 0.57
+  - name: DECATUR
+    distance_km: 20.22
+  - name: PIKEVILLE
+    distance_km: 21.08
+- country: US
+  region: TN
+  name: Decatur
+  lat: '35.5290'
+  long: "-84.7933"
+  nearby_rate_centers:
+  - name: DECATUR
+    distance_km: 1.74
+  - name: RICEVILLE
+    distance_km: 18.41
+  - name: SPRINGCITY
+    distance_km: 18.93
+- country: US
+  region: TN
+  name: Decaturville
+  lat: '35.5819'
+  long: "-88.1195"
+  nearby_rate_centers:
+  - name: DECATURVL
+    distance_km: 0.48
+  - name: PARSONS
+    distance_km: 7.71
+  - name: SCOTTSHILL
+    distance_km: 13.71
+- country: US
+  region: TN
+  name: Decherd
+  lat: '35.2156'
+  long: "-86.0757"
+  nearby_rate_centers:
+  - name: WINCHESTER
+    distance_km: 4.96
+  - name: ESTILL SPG
+    distance_km: 7.67
+  - name: SEWANEE
+    distance_km: 14.72
+- country: US
+  region: TN
+  name: Delano
+  lat: '35.2545'
+  long: "-84.5579"
+  nearby_rate_centers:
+  - name: ETOWAH
+    distance_km: 8.16
+  - name: BENTON
+    distance_km: 12.46
+  - name: CHARLESTON
+    distance_km: 18.76
+- country: US
+  region: TN
+  name: Dellrose
+  lat: '35.1159'
+  long: "-86.8036"
+  nearby_rate_centers:
+  - name: MCBURG
+    distance_km: 8.21
+  - name: BLANCHE
+    distance_km: 9.25
+  - name: ELKTON
+    distance_km: 10.96
+- country: US
+  region: TN
+  name: Dickson
+  lat: '36.0637'
+  long: "-87.3665"
+  nearby_rate_centers:
+  - name: DICKSON
+    distance_km: 1.77
+  - name: CHARLOTTE
+    distance_km: 13.32
+  - name: WHITEBLUFF
+    distance_km: 13.78
+- country: US
+  region: TN
+  name: Dodson Branch
+  lat: '36.3149'
+  long: "-85.5322"
+  nearby_rate_centers:
+  - name: GAINESBORO
+    distance_km: 12.78
+  - name: RICKMAN
+    distance_km: 15.06
+  - name: COOKEVILLE
+    distance_km: 16.83
+- country: US
+  region: TN
+  name: Dover
+  lat: '36.4818'
+  long: "-87.8438"
+  nearby_rate_centers:
+  - name: DOVER
+    distance_km: 0.3
+  - name: TENNESSRDG
+    distance_km: 20.15
+  - name: CUMBERLDCY
+    distance_km: 21.49
+- country: US
+  region: TN
+  name: Dowelltown
+  lat: '36.0125'
+  long: "-85.9426"
+  nearby_rate_centers:
+  - name: LIBERTY
+    distance_km: 2.2
+  - name: TEMPERANCE HALL
+    distance_km: 8.67
+  - name: ALEXANDRIA
+    distance_km: 11.16
+  - name: ALEXANDRIA (WILSON)
+    distance_km: 11.16
+- country: US
+  region: TN
+  name: Doyle
+  lat: '35.8553'
+  long: "-85.5120"
+  nearby_rate_centers:
+  - name: DOYLE
+    distance_km: 0.56
+  - name: SPARTA
+    distance_km: 8.65
+  - name: SPARTA RL
+    distance_km: 8.65
+  - name: OLD ZION
+    distance_km: 12.12
+- country: US
+  region: TN
+  name: Dresden
+  lat: '36.2790'
+  long: "-88.6940"
+  nearby_rate_centers:
+  - name: DRESDEN
+    distance_km: 1.8
+  - name: GLEASON
+    distance_km: 10.01
+  - name: SHARON
+    distance_km: 13.05
+- country: US
+  region: TN
+  name: Ducktown
+  lat: '35.0360'
+  long: "-84.3848"
+  nearby_rate_centers:
+  - name: COPPERBSIN
+    distance_km: 6.09
+  - name: COKERCREEK
+    distance_km: 26.21
+  - name: BENTON
+    distance_km: 29.08
+- country: US
+  region: TN
+  name: Dukedom
+  lat: '36.4949'
+  long: "-88.7163"
+  nearby_rate_centers:
+  - name: LATHAM
+    distance_km: 7.73
+  - name: SO FULTON
+    distance_km: 14.26
+  - name: PALMERSVL
+    distance_km: 16.06
+- country: US
+  region: TN
+  name: Dunlap
+  lat: '35.3675'
+  long: "-85.3899"
+  nearby_rate_centers:
+  - name: DUNLAP
+    distance_km: 0.21
+  - name: LAAGER
+    distance_km: 19.1
+  - name: COLLEGESTA
+    distance_km: 20.94
+- country: US
+  region: TN
+  name: Dyer
+  lat: '36.0710'
+  long: "-88.9921"
+  nearby_rate_centers:
+  - name: DYER
+    distance_km: 0.41
+  - name: RUTHERFORD
+    distance_km: 6.09
+  - name: TRENTON
+    distance_km: 11.61
+- country: US
+  region: TN
+  name: Dyersburg
+  lat: '36.0465'
+  long: "-89.3777"
+  nearby_rate_centers:
+  - name: DYERSBURG
+    distance_km: 0.76
+  - name: NEWBERN
+    distance_km: 12.96
+  - name: HALLS
+    distance_km: 19.19
+- country: US
+  region: TN
+  name: Eagleton Village
+  lat: '35.7882'
+  long: "-83.9363"
+  nearby_rate_centers:
+  - name: MARYVILLE
+    distance_km: 4.16
+  - name: KNOXVILLE
+    distance_km: 20.14
+  - name: CONCORD
+    distance_km: 20.5
+- country: US
+  region: TN
+  name: Eagleville
+  lat: '35.7391'
+  long: "-86.6528"
+  nearby_rate_centers:
+  - name: EAGLEVILLE
+    distance_km: 0.55
+  - name: COLLEGEGRV
+    distance_km: 5.44
+  - name: UNIONVILLE
+    distance_km: 11.93
+- country: US
+  region: TN
+  name: East Cleveland
+  lat: '35.1524'
+  long: "-84.8541"
+  nearby_rate_centers:
+  - name: CLEVELAND
+    distance_km: 1.29
+  - name: CHARLESTON
+    distance_km: 16.8
+  - name: GEORGETOWN
+    distance_km: 17.24
+- country: US
+  region: TN
+  name: East Ridge
+  lat: '34.9973'
+  long: "-85.2285"
+  nearby_rate_centers:
+  - name: CHATTNOOGA
+    distance_km: 8.98
+  - name: OOLTEWAH
+    distance_km: 17.94
+  - name: COLLEGEDL
+    distance_km: 18.54
+- country: US
+  region: TN
+  name: Eastview
+  lat: '35.0877'
+  long: "-88.5518"
+  nearby_rate_centers:
+  - name: MICHIE
+    distance_km: 10.63
+  - name: SELMER
+    distance_km: 10.75
+  - name: BETHEL SPG
+    distance_km: 16.87
+- country: US
+  region: TN
+  name: Elgin
+  lat: '36.3285'
+  long: "-84.6091"
+  nearby_rate_centers:
+  - name: ROBBINS
+    distance_km: 2.69
+  - name: SUNBRIGHT
+    distance_km: 11.12
+  - name: HUNTSVILLE
+    distance_km: 13.72
+- country: US
+  region: TN
+  name: Elizabethton
+  lat: '36.3367'
+  long: "-82.2370"
+  nearby_rate_centers:
+  - name: ELIZABTHTN
+    distance_km: 1.88
+  - name: HAMPTON
+    distance_km: 7.94
+  - name: JOHNSON CY
+    distance_km: 10.56
+- country: US
+  region: TN
+  name: Elkton
+  lat: '35.0627'
+  long: "-86.8957"
+  nearby_rate_centers:
+  - name: ELKTON
+    distance_km: 1.55
+  - name: ARDMORE
+    distance_km: 9.02
+  - name: BLANCHE
+    distance_km: 12.81
+- country: US
+  region: TN
+  name: Embreeville
+  lat: '36.1767'
+  long: "-82.4494"
+  nearby_rate_centers:
+  - name: ERWIN
+    distance_km: 5.05
+  - name: JONESBORO
+    distance_km: 13.19
+  - name: LIMESTONE
+    distance_km: 17.09
+- country: US
+  region: TN
+  name: Englewood
+  lat: '35.4228'
+  long: "-84.4883"
+  nearby_rate_centers:
+  - name: ENGLEWOOD
+    distance_km: 0.38
+  - name: ATHENS
+    distance_km: 10.65
+  - name: NIOTA
+    distance_km: 11.43
+- country: US
+  region: TN
+  name: Enville
+  lat: '35.3911'
+  long: "-88.4303"
+  nearby_rate_centers:
+  - name: ENVILLE
+    distance_km: 5.93
+  - name: MILLEDGEVL
+    distance_km: 5.93
+  - name: SARDIS
+    distance_km: 13.59
+  - name: ADAMSVILLE
+    distance_km: 17.74
+- country: US
+  region: TN
+  name: Erin
+  lat: '36.3160'
+  long: "-87.7025"
+  nearby_rate_centers:
+  - name: ERIN
+    distance_km: 0.85
+  - name: TENNESSRDG
+    distance_km: 6.49
+  - name: CUMBERLDCY
+    distance_km: 10.31
+- country: US
+  region: TN
+  name: Erwin
+  lat: '36.1456'
+  long: "-82.4115"
+  nearby_rate_centers:
+  - name: ERWIN
+    distance_km: 0.51
+  - name: JONESBORO
+    distance_km: 17.69
+  - name: JOHNSON CY
+    distance_km: 19.57
+- country: US
+  region: TN
+  name: Essary Springs
+  lat: '35.0113'
+  long: "-88.8025"
+  nearby_rate_centers:
+  - name: MIDDLETON
+    distance_km: 10.24
+  - name: SELMER
+    distance_km: 26.11
+  - name: BETHEL SPG
+    distance_km: 30.28
+- country: US
+  region: TN
+  name: Estill Springs
+  lat: '35.2755'
+  long: "-86.1400"
+  nearby_rate_centers:
+  - name: ESTILL SPG
+    distance_km: 1.2
+  - name: WINCHESTER
+    distance_km: 10.24
+  - name: TULLAHOMA
+    distance_km: 10.94
+- country: US
+  region: TN
+  name: Ethridge
+  lat: '35.3218'
+  long: "-87.3013"
+  nearby_rate_centers:
+  - name: ETHRIDGE
+    distance_km: 0.92
+  - name: LAWRENCEBG
+    distance_km: 8.7
+  - name: SUMMERTOWN
+    distance_km: 12.45
+- country: US
+  region: TN
+  name: Etowah
+  lat: '35.3381'
+  long: "-84.5282"
+  nearby_rate_centers:
+  - name: ETOWAH
+    distance_km: 1.52
+  - name: ENGLEWOOD
+    distance_km: 10.43
+  - name: ATHENS
+    distance_km: 14.23
+- country: US
+  region: TN
+  name: Eva
+  lat: '36.0687'
+  long: "-88.0081"
+  nearby_rate_centers:
+  - name: NEWJHNSNVL
+    distance_km: 5.3
+  - name: CAMDEN
+    distance_km: 8.53
+  - name: WAVERLY
+    distance_km: 19.44
+- country: US
+  region: TN
+  name: Fairfield
+  lat: '36.6208'
+  long: "-86.3425"
+  nearby_rate_centers:
+  - name: OAK GROVE
+    distance_km: 7.2
+  - name: WESTMORELD
+    distance_km: 10.31
+  - name: BETHPAGE
+    distance_km: 15.39
+- country: US
+  region: TN
+  name: Fairfield Glade
+  lat: '36.0028'
+  long: "-84.8711"
+  nearby_rate_centers:
+  - name: CROSSVILLE
+    distance_km: 15.9
+  - name: TANSI
+    distance_km: 22.23
+  - name: ROCKWOOD
+    distance_km: 22.78
+- country: US
+  region: TN
+  name: Fairgarden
+  lat: '35.8982'
+  long: "-83.4119"
+  nearby_rate_centers:
+  - name: DANDRIDGE
+    distance_km: 12.96
+  - name: SEVIERVL
+    distance_km: 14.33
+  - name: BENTCREEK
+    distance_km: 21.09
+  - name: CHESTNUTHI
+    distance_km: 21.09
+  - name: NEWPORT
+    distance_km: 21.09
+- country: US
+  region: TN
+  name: Fairmount
+  lat: '35.1865'
+  long: "-85.3303"
+  nearby_rate_centers:
+  - name: SODDYDAISY
+    distance_km: 14.35
+  - name: CHATTNOOGA
+    distance_km: 16.28
+  - name: WHITWELL
+    distance_km: 17.19
+- country: US
+  region: TN
+  name: Fairview
+  lat: '35.9815'
+  long: "-87.1291"
+  nearby_rate_centers:
+  - name: FAIRVIEW
+    distance_km: 0.33
+  - name: KINGSTNSPG
+    distance_km: 12.46
+  - name: WHITEBLUFF
+    distance_km: 16.59
+- country: US
+  region: TN
+  name: Fall Branch
+  lat: '36.4161'
+  long: "-82.6242"
+  nearby_rate_centers:
+  - name: FALLBRANCH
+    distance_km: 0.45
+  - name: SULIVNGDNS
+    distance_km: 7.1
+  - name: CHURCHHILL
+    distance_km: 13.96
+- country: US
+  region: TN
+  name: Falling Water
+  lat: '35.1959'
+  long: "-85.2594"
+  nearby_rate_centers:
+  - name: SODDYDAISY
+    distance_km: 8.31
+  - name: CHATTNOOGA
+    distance_km: 17.88
+  - name: DUNLAP
+    distance_km: 22.61
+- country: US
+  region: TN
+  name: Farner
+  lat: '35.1543'
+  long: "-84.3191"
+  nearby_rate_centers:
+  - name: COKERCREEK
+    distance_km: 11.88
+  - name: COPPERBSIN
+    distance_km: 19.91
+  - name: TELLICO PL
+    distance_km: 22.92
+- country: US
+  region: TN
+  name: Farragut
+  lat: '35.8731'
+  long: "-84.1821"
+  nearby_rate_centers:
+  - name: CONCORD
+    distance_km: 3.73
+  - name: LENOIRCITY
+    distance_km: 11.59
+  - name: SOLWAY
+    distance_km: 11.6
+- country: US
+  region: TN
+  name: Fayetteville
+  lat: '35.1490'
+  long: "-86.5634"
+  nearby_rate_centers:
+  - name: FAYETTEVL
+    distance_km: 0.91
+  - name: FLINTVILLE
+    distance_km: 17.2
+  - name: PETERSBURG
+    distance_km: 19.84
+- country: US
+  region: TN
+  name: Fincastle
+  lat: '36.4038'
+  long: "-84.0480"
+  nearby_rate_centers:
+  - name: LAFOLLETTE
+    distance_km: 6.62
+  - name: JELLICO
+    distance_km: 21.15
+  - name: LAKE CITY
+    distance_km: 22.08
+- country: US
+  region: TN
+  name: Finger
+  lat: '35.3570'
+  long: "-88.6169"
+  nearby_rate_centers:
+  - name: HENDERSON
+    distance_km: 9.85
+  - name: BETHEL SPG
+    distance_km: 13.89
+  - name: SELMER
+    distance_km: 20.14
+- country: US
+  region: TN
+  name: Finley
+  lat: '36.0357'
+  long: "-89.4799"
+  nearby_rate_centers:
+  - name: DYERSBURG
+    distance_km: 8.68
+  - name: HALLS
+    distance_km: 19.63
+  - name: NEWBERN
+    distance_km: 21.53
+- country: US
+  region: TN
+  name: Flat Top Mountain
+  lat: '35.3319'
+  long: "-85.2000"
+  nearby_rate_centers:
+  - name: SODDYDAISY
+    distance_km: 9.99
+  - name: DUNLAP
+    distance_km: 17.89
+  - name: COLLEGESTA
+    distance_km: 22.41
+- country: US
+  region: TN
+  name: Flintville
+  lat: '35.0602'
+  long: "-86.4164"
+  nearby_rate_centers:
+  - name: FLINTVILLE
+    distance_km: 0.68
+  - name: HUNTLAND
+    distance_km: 13.44
+  - name: FAYETTEVL
+    distance_km: 17.34
+- country: US
+  region: TN
+  name: Forest Hills
+  lat: '36.0652'
+  long: "-86.8403"
+  nearby_rate_centers:
+  - name: NASHVILLE
+    distance_km: 12.07
+  - name: FRANKLIN
+    distance_km: 16.08
+  - name: NOLENSVILLE (DAVIDSON)
+    distance_km: 20.15
+  - name: NOLENSVL
+    distance_km: 20.15
+- country: US
+  region: TN
+  name: Fowlkes
+  lat: '35.9720'
+  long: "-89.3880"
+  nearby_rate_centers:
+  - name: DYERSBURG
+    distance_km: 7.76
+  - name: HALLS
+    distance_km: 10.87
+  - name: FRIENDSHIP
+    distance_km: 14.76
+- country: US
+  region: TN
+  name: Frankewing
+  lat: '35.1943'
+  long: "-86.8570"
+  nearby_rate_centers:
+  - name: MCBURG
+    distance_km: 4.54
+  - name: PULASKI
+    distance_km: 16.19
+  - name: ELKTON
+    distance_km: 16.46
+- country: US
+  region: TN
+  name: Franklin
+  lat: '35.9200'
+  long: "-86.8516"
+  nearby_rate_centers:
+  - name: FRANKLIN
+    distance_km: 1.27
+  - name: NOLENSVILLE (DAVIDSON)
+    distance_km: 16.95
+  - name: NOLENSVL
+    distance_km: 16.95
+  - name: TRIUNE
+    distance_km: 18.8
+- country: US
+  region: TN
+  name: Friendship
+  lat: '35.9084'
+  long: "-89.2414"
+  nearby_rate_centers:
+  - name: FRIENDSHIP
+    distance_km: 0.35
+  - name: MAURY CITY
+    distance_km: 10.36
+  - name: HALLS
+    distance_km: 14.05
+- country: US
+  region: TN
+  name: Friendsville
+  lat: '35.7563'
+  long: "-84.1319"
+  nearby_rate_centers:
+  - name: GREENBACK
+    distance_km: 11.48
+  - name: CONCORD
+    distance_km: 12.47
+  - name: LENOIRCITY
+    distance_km: 12.72
+- country: US
+  region: TN
+  name: Gadsden
+  lat: '35.7768'
+  long: "-88.9861"
+  nearby_rate_centers:
+  - name: HUMBOLDT
+    distance_km: 8.1
+  - name: BELLS
+    distance_km: 11.79
+  - name: ALAMO
+    distance_km: 12.02
+- country: US
+  region: TN
+  name: Gainesboro
+  lat: '36.3617'
+  long: "-85.6496"
+  nearby_rate_centers:
+  - name: GAINESBORO
+    distance_km: 1.92
+  - name: HIGHLAND
+    distance_km: 12.12
+  - name: NORTH SPG
+    distance_km: 16.71
+- country: US
+  region: TN
+  name: Gallatin
+  lat: '36.3782'
+  long: "-86.4698"
+  nearby_rate_centers:
+  - name: GALLATIN
+    distance_km: 2.78
+  - name: HENDERSNVL
+    distance_km: 15.71
+  - name: BETHPAGE
+    distance_km: 17.95
+- country: US
+  region: TN
+  name: Gallaway
+  lat: '35.3272'
+  long: "-89.6080"
+  nearby_rate_centers:
+  - name: ARLINGTON
+    distance_km: 6.06
+  - name: MASON
+    distance_km: 11.52
+  - name: MASON (TIPTON)
+    distance_km: 11.52
+  - name: ROSEMARK
+    distance_km: 14.95
+- country: US
+  region: TN
+  name: Garland
+  lat: '35.5823'
+  long: "-89.7525"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 9.56
+  - name: MUNFORD
+    distance_km: 15.5
+  - name: HENNING
+    distance_km: 19.06
+- country: US
+  region: TN
+  name: Gates
+  lat: '35.8406'
+  long: "-89.4081"
+  nearby_rate_centers:
+  - name: HALLS
+    distance_km: 4.03
+  - name: RIPLEY
+    distance_km: 15.88
+  - name: FRIENDSHIP
+    distance_km: 16.46
+- country: US
+  region: TN
+  name: Gatlinburg
+  lat: '35.7250'
+  long: "-83.4938"
+  nearby_rate_centers:
+  - name: GATLINBURG
+    distance_km: 1.62
+  - name: SEVIERVL
+    distance_km: 17.22
+  - name: DANDRIDGE
+    distance_km: 32.98
+- country: US
+  region: TN
+  name: Germantown
+  lat: '35.0829'
+  long: "-89.7824"
+  nearby_rate_centers:
+  - name: COLLIERVL
+    distance_km: 11.76
+  - name: MEMPHIS
+    distance_km: 24.43
+  - name: ARLINGTON
+    distance_km: 25.77
+- country: US
+  region: TN
+  name: Gibson
+  lat: '35.8743'
+  long: "-88.8437"
+  nearby_rate_centers:
+  - name: GIBSON
+    distance_km: 0.27
+  - name: HUMBOLDT
+    distance_km: 8.71
+  - name: MILAN
+    distance_km: 9.17
+- country: US
+  region: TN
+  name: Gilt Edge
+  lat: '35.5336'
+  long: "-89.8303"
+  nearby_rate_centers:
+  - name: MUNFORD
+    distance_km: 9.53
+  - name: DRUMMONDS
+    distance_km: 10.39
+  - name: COVINGTON
+    distance_km: 16.82
+- country: US
+  region: TN
+  name: Gladeville
+  lat: '36.1158'
+  long: "-86.4316"
+  nearby_rate_centers:
+  - name: MT JULIET
+    distance_km: 11.86
+  - name: SMYRNA
+    distance_km: 16.58
+  - name: LEBANON
+    distance_km: 16.61
+- country: US
+  region: TN
+  name: Gleason
+  lat: '36.2174'
+  long: "-88.6107"
+  nearby_rate_centers:
+  - name: GLEASON
+    distance_km: 0.36
+  - name: DRESDEN
+    distance_km: 11.92
+  - name: MCKENZIE
+    distance_km: 12.35
+- country: US
+  region: TN
+  name: Goodlettsville
+  lat: '36.3330'
+  long: "-86.7026"
+  nearby_rate_centers:
+  - name: GOODLETSVL
+    distance_km: 2.08
+  - name: HENDERSNVL
+    distance_km: 8.61
+  - name: OLDHICKORY
+    distance_km: 9.62
+- country: US
+  region: TN
+  name: Gordonsville
+  lat: '36.1817'
+  long: "-85.9324"
+  nearby_rate_centers:
+  - name: GORDONSVILLE
+    distance_km: 0.58
+  - name: CARTHAGE
+    distance_km: 7.94
+  - name: CHSTNUMOND
+    distance_km: 10.06
+- country: US
+  region: TN
+  name: Graball
+  lat: '36.4838'
+  long: "-86.4396"
+  nearby_rate_centers:
+  - name: GALLATIN
+    distance_km: 10.18
+  - name: OAK GROVE
+    distance_km: 10.34
+  - name: BETHPAGE
+    distance_km: 10.87
+- country: US
+  region: TN
+  name: Grand Junction
+  lat: '35.0500'
+  long: "-89.1889"
+  nearby_rate_centers:
+  - name: GRAND JCT
+    distance_km: 0.17
+  - name: LAGRANGE
+    distance_km: 0.17
+  - name: MOSCOW
+    distance_km: 19.01
+  - name: SOMERVILLE
+    distance_km: 25.85
+- country: US
+  region: TN
+  name: Gray
+  lat: '36.4219'
+  long: "-82.4767"
+  nearby_rate_centers:
+  - name: MIDWAY
+    distance_km: 3.45
+  - name: MIDWAY SUL
+    distance_km: 3.45
+  - name: SULIVNGDNS
+    distance_km: 11.84
+  - name: FALLBRANCH
+    distance_km: 12.83
+- country: US
+  region: TN
+  name: Graysville
+  lat: '35.4494'
+  long: "-85.0762"
+  nearby_rate_centers:
+  - name: DAYTON
+    distance_km: 7.06
+  - name: COLLEGESTA
+    distance_km: 19.15
+  - name: PIKEVILLE
+    distance_km: 20.4
+- country: US
+  region: TN
+  name: Green Hill
+  lat: '36.2349'
+  long: "-86.5733"
+  nearby_rate_centers:
+  - name: MT JULIET
+    distance_km: 6.59
+  - name: OLDHICKORY
+    distance_km: 7.36
+  - name: HENDERSNVL
+    distance_km: 8.17
+- country: US
+  region: TN
+  name: Greenback
+  lat: '35.6487'
+  long: "-84.1725"
+  nearby_rate_centers:
+  - name: GREENBACK
+    distance_km: 1.08
+  - name: VONORE
+    distance_km: 8.97
+  - name: LOUDON
+    distance_km: 17.32
+- country: US
+  region: TN
+  name: Greenbrier
+  lat: '36.4243'
+  long: "-86.7975"
+  nearby_rate_centers:
+  - name: GREENBRIER
+    distance_km: 0.92
+  - name: SPRINGFLD
+    distance_km: 12.56
+  - name: GOODLETSVL
+    distance_km: 14.08
+- country: US
+  region: TN
+  name: Greeneville
+  lat: '36.1680'
+  long: "-82.8197"
+  nearby_rate_centers:
+  - name: GREENEVL
+    distance_km: 0.7
+  - name: MOSHEIM
+    distance_km: 12.75
+  - name: BAILEYTON
+    distance_km: 18.13
+- country: US
+  region: TN
+  name: Greenfield
+  lat: '36.1600'
+  long: "-88.8036"
+  nearby_rate_centers:
+  - name: GREENFIELD
+    distance_km: 0.61
+  - name: SHARON
+    distance_km: 8.28
+  - name: BRADFORD
+    distance_km: 9.5
+- country: US
+  region: TN
+  name: Greenvale
+  lat: '36.0055'
+  long: "-86.2012"
+  nearby_rate_centers:
+  - name: NORENE
+    distance_km: 7.22
+  - name: MILTON
+    distance_km: 9.16
+  - name: AUBURNTOWN
+    distance_km: 10.92
+- country: US
+  region: TN
+  name: Griffith Creek
+  lat: '35.2761'
+  long: "-85.5361"
+  nearby_rate_centers:
+  - name: WHITWELL
+    distance_km: 8.71
+  - name: LAAGER
+    distance_km: 12.28
+  - name: DUNLAP
+    distance_km: 16.57
+- country: US
+  region: TN
+  name: Grimsley
+  lat: '36.2761'
+  long: "-84.9970"
+  nearby_rate_centers:
+  - name: CLARKRANGE
+    distance_km: 10.79
+  - name: CRAWFORD
+    distance_km: 14.14
+  - name: JAMESTOWN
+    distance_km: 17.58
+- country: US
+  region: TN
+  name: Gruetli-Laager
+  lat: '35.3726'
+  long: "-85.6375"
+  nearby_rate_centers:
+  - name: LAAGER
+    distance_km: 3.36
+  - name: BEERSHEBA
+    distance_km: 10.79
+  - name: TRACY CITY
+    distance_km: 15.27
+- country: US
+  region: TN
+  name: Guys
+  lat: '35.0191'
+  long: "-88.5427"
+  nearby_rate_centers:
+  - name: MICHIE
+    distance_km: 8.78
+  - name: SELMER
+    distance_km: 18.22
+  - name: BETHEL SPG
+    distance_km: 24.44
+- country: US
+  region: TN
+  name: Halls
+  lat: '35.8795'
+  long: "-89.4050"
+  nearby_rate_centers:
+  - name: HALLS
+    distance_km: 1.34
+  - name: FRIENDSHIP
+    distance_km: 14.74
+  - name: MAURY CITY
+    distance_km: 17.68
+- country: US
+  region: TN
+  name: Halls
+  lat: '36.0817'
+  long: "-83.9344"
+  nearby_rate_centers:
+  - name: HLSCRSSRDS
+    distance_km: 1.46
+  - name: POWELL
+    distance_km: 11.09
+  - name: KNOXVILLE
+    distance_km: 12.54
+- country: US
+  region: TN
+  name: Hampton
+  lat: '36.2772'
+  long: "-82.1728"
+  nearby_rate_centers:
+  - name: HAMPTON
+    distance_km: 1.07
+  - name: ELIZABTHTN
+    distance_km: 8.96
+  - name: ROAN MT
+    distance_km: 13.07
+- country: US
+  region: TN
+  name: Harriman
+  lat: '35.9307'
+  long: "-84.5602"
+  nearby_rate_centers:
+  - name: HARRIMAN
+    distance_km: 0.77
+  - name: OAKDALE
+    distance_km: 5.74
+  - name: KINGSTON
+    distance_km: 7.57
+- country: US
+  region: TN
+  name: Harrison
+  lat: '35.1271'
+  long: "-85.1453"
+  nearby_rate_centers:
+  - name: OOLTEWAH
+    distance_km: 9.82
+  - name: COLLEGEDL
+    distance_km: 13.08
+  - name: SODDYDAISY
+    distance_km: 13.42
+- country: US
+  region: TN
+  name: Harrogate
+  lat: '36.5752'
+  long: "-83.6462"
+  nearby_rate_centers:
+  - name: CUMBERLDGP
+    distance_km: 3.11
+  - name: FORK RIDGE
+    distance_km: 12.27
+  - name: NEWTAZWELL
+    distance_km: 15.22
+- country: US
+  region: TN
+  name: Hartsville
+  lat: '36.3921'
+  long: "-86.1568"
+  nearby_rate_centers:
+  - name: HARTSVILLE
+    distance_km: 0.91
+  - name: GREENGROVE
+    distance_km: 8.17
+  - name: HILLSDALE
+    distance_km: 10.35
+- country: US
+  region: TN
+  name: Helenwood
+  lat: '36.4227'
+  long: "-84.5429"
+  nearby_rate_centers:
+  - name: HUNTSVILLE
+    distance_km: 4.77
+  - name: ROBBINS
+    distance_km: 9.34
+  - name: ONEIDA
+    distance_km: 9.9
+- country: US
+  region: TN
+  name: Henderson
+  lat: '35.4446'
+  long: "-88.6531"
+  nearby_rate_centers:
+  - name: HENDERSON
+    distance_km: 1.12
+  - name: BETHEL SPG
+    distance_km: 23.96
+  - name: JACKSON
+    distance_km: 24.2
+- country: US
+  region: TN
+  name: Hendersonville
+  lat: '36.3063'
+  long: "-86.5997"
+  nearby_rate_centers:
+  - name: HENDERSNVL
+    distance_km: 1.61
+  - name: OLDHICKORY
+    distance_km: 7.09
+  - name: GOODLETSVL
+    distance_km: 10.33
+- country: US
+  region: TN
+  name: Henning
+  lat: '35.6820'
+  long: "-89.5770"
+  nearby_rate_centers:
+  - name: HENNING
+    distance_km: 0.69
+  - name: RIPLEY
+    distance_km: 7.65
+  - name: COVINGTON
+    distance_km: 14.41
+- country: US
+  region: TN
+  name: Henry
+  lat: '36.2011'
+  long: "-88.4114"
+  nearby_rate_centers:
+  - name: HENRY
+    distance_km: 0.28
+  - name: MCKENZIE
+    distance_km: 12.16
+  - name: PARIS
+    distance_km: 13.21
+- country: US
+  region: TN
+  name: Hickman
+  lat: '36.1451'
+  long: "-85.9413"
+  nearby_rate_centers:
+  - name: GORDONSVILLE
+    distance_km: 3.59
+  - name: TEMPERANCE HALL
+    distance_km: 7.76
+  - name: ALEXANDRIA
+    distance_km: 10.6
+  - name: ALEXANDRIA (WILSON)
+    distance_km: 10.6
+- country: US
+  region: TN
+  name: Hickory Valley
+  lat: '35.1550'
+  long: "-89.1260"
+  nearby_rate_centers:
+  - name: GRAND JCT
+    distance_km: 12.92
+  - name: LAGRANGE
+    distance_km: 12.92
+  - name: BOLIVAR
+    distance_km: 17.54
+  - name: WESTWHITEV
+    distance_km: 18.91
+  - name: WHITEVILLE
+    distance_km: 18.91
+- country: US
+  region: TN
+  name: Hilham
+  lat: '36.4100'
+  long: "-85.4421"
+  nearby_rate_centers:
+  - name: LIVINGSTON
+    distance_km: 11.83
+  - name: CELINA
+    distance_km: 16.44
+  - name: RICKMAN
+    distance_km: 17.34
+- country: US
+  region: TN
+  name: Hillsboro
+  lat: '35.4085'
+  long: "-85.9639"
+  nearby_rate_centers:
+  - name: HILLSBORO
+    distance_km: 1.11
+  - name: MANCHESTER
+    distance_km: 13.72
+  - name: PELHAM
+    distance_km: 13.78
+- country: US
+  region: TN
+  name: Hohenwald
+  lat: '35.5515'
+  long: "-87.5539"
+  nearby_rate_centers:
+  - name: HOHENWALD
+    distance_km: 0.6
+  - name: HAMPSHIRE
+    distance_km: 24.05
+  - name: CENTERVL
+    distance_km: 26.13
+- country: US
+  region: TN
+  name: Holladay
+  lat: '35.8720'
+  long: "-88.1449"
+  nearby_rate_centers:
+  - name: BRUCETON
+    distance_km: 20.81
+  - name: CAMDEN
+    distance_km: 21.02
+  - name: PARSONS
+    distance_km: 24.63
+- country: US
+  region: TN
+  name: Hollow Rock
+  lat: '36.0355'
+  long: "-88.2740"
+  nearby_rate_centers:
+  - name: BRUCETON
+    distance_km: 3.25
+  - name: HUNTINGDON
+    distance_km: 14.06
+  - name: CAMDEN
+    distance_km: 15.66
+- country: US
+  region: TN
+  name: Hopewell
+  lat: '35.2388'
+  long: "-84.9139"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance_km: 6.21
+  - name: CLEVELAND
+    distance_km: 9.99
+  - name: CHARLESTON
+    distance_km: 14.69
+- country: US
+  region: TN
+  name: Hornbeak
+  lat: '36.3352'
+  long: "-89.2983"
+  nearby_rate_centers:
+  - name: HORNBEAK
+    distance_km: 0.25
+  - name: TROY
+    distance_km: 11.78
+  - name: TIPTONVL
+    distance_km: 16.59
+- country: US
+  region: TN
+  name: Hornsby
+  lat: '35.2285'
+  long: "-88.8293"
+  nearby_rate_centers:
+  - name: BOLIVAR
+    distance_km: 14.22
+  - name: MIDDLETON
+    distance_km: 18.88
+  - name: BETHEL SPG
+    distance_km: 20.11
+- country: US
+  region: TN
+  name: Humboldt
+  lat: '35.8271'
+  long: "-88.9058"
+  nearby_rate_centers:
+  - name: HUMBOLDT
+    distance_km: 1.09
+  - name: GIBSON
+    distance_km: 7.88
+  - name: MEDINA
+    distance_km: 12.95
+- country: US
+  region: TN
+  name: Hunter
+  lat: '36.3978'
+  long: "-82.1511"
+  nearby_rate_centers:
+  - name: STONEY CRK
+    distance_km: 5.55
+  - name: ELIZABTHTN
+    distance_km: 8.38
+  - name: BUTLER
+    distance_km: 11.83
+- country: US
+  region: TN
+  name: Huntingdon
+  lat: '36.0052'
+  long: "-88.4181"
+  nearby_rate_centers:
+  - name: HUNTINGDON
+    distance_km: 0.71
+  - name: BRUCETON
+    distance_km: 16.64
+  - name: MCKENZIE
+    distance_km: 17.0
+- country: US
+  region: TN
+  name: Huntland
+  lat: '35.0579'
+  long: "-86.2689"
+  nearby_rate_centers:
+  - name: HUNTLAND
+    distance_km: 0.92
+  - name: FLINTVILLE
+    distance_km: 12.75
+  - name: WINCHESTER
+    distance_km: 19.87
+- country: US
+  region: TN
+  name: Huntsville
+  lat: '36.4112'
+  long: "-84.5056"
+  nearby_rate_centers:
+  - name: HUNTSVILLE
+    distance_km: 1.2
+  - name: ROBBINS
+    distance_km: 10.46
+  - name: ONEIDA
+    distance_km: 10.86
+- country: US
+  region: TN
+  name: Huron
+  lat: '35.5935'
+  long: "-88.5361"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance_km: 14.48
+  - name: HENDERSON
+    distance_km: 19.2
+  - name: JACKSON
+    distance_km: 25.59
+- country: US
+  region: TN
+  name: Iron City
+  lat: '35.0227'
+  long: "-87.5855"
+  nearby_rate_centers:
+  - name: ST JOSEPH
+    distance_km: 7.24
+  - name: LORETTO
+    distance_km: 14.63
+  - name: COLLINWOOD
+    distance_km: 22.12
+- country: US
+  region: TN
+  name: Jacks Creek
+  lat: '35.4691'
+  long: "-88.5146"
+  nearby_rate_centers:
+  - name: HENDERSON
+    distance_km: 11.79
+  - name: ENVILLE
+    distance_km: 16.92
+  - name: MILLEDGEVL
+    distance_km: 16.92
+  - name: SARDIS
+    distance_km: 20.19
+- country: US
+  region: TN
+  name: Jacksboro
+  lat: '36.3351'
+  long: "-84.1928"
+  nearby_rate_centers:
+  - name: LAFOLLETTE
+    distance_km: 8.61
+  - name: LAKE CITY
+    distance_km: 12.94
+  - name: NORRIS
+    distance_km: 19.46
+- country: US
+  region: TN
+  name: Jackson
+  lat: '35.6538'
+  long: "-88.8354"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 4.49
+  - name: MEDINA
+    distance_km: 17.61
+  - name: HUMBOLDT
+    distance_km: 20.23
+- country: US
+  region: TN
+  name: Jamestown
+  lat: '36.4319'
+  long: "-84.9341"
+  nearby_rate_centers:
+  - name: JAMESTOWN
+    distance_km: 0.74
+  - name: BYRDSTOWN
+    distance_km: 23.35
+  - name: CRAWFORD
+    distance_km: 28.04
+- country: US
+  region: TN
+  name: Jasper
+  lat: '35.0663'
+  long: "-85.6227"
+  nearby_rate_centers:
+  - name: JASPER
+    distance_km: 1.05
+  - name: SO PITTSBG
+    distance_km: 11.31
+  - name: WHITWELL
+    distance_km: 17.53
+- country: US
+  region: TN
+  name: Jefferson City
+  lat: '36.1201'
+  long: "-83.4829"
+  nearby_rate_centers:
+  - name: JEFFERSNCY
+    distance_km: 1.68
+  - name: DANDRIDGE
+    distance_km: 13.18
+  - name: WHITE PINE
+    distance_km: 17.95
+- country: US
+  region: TN
+  name: Jellico
+  lat: '36.5651'
+  long: "-84.1355"
+  nearby_rate_centers:
+  - name: JELLICO
+    distance_km: 2.22
+  - name: LAFOLLETTE
+    distance_km: 20.33
+  - name: FORK RIDGE
+    distance_km: 31.52
+- country: US
+  region: TN
+  name: John Sevier
+  lat: '36.0380'
+  long: "-83.8257"
+  nearby_rate_centers:
+  - name: MASCOT
+    distance_km: 8.44
+  - name: HLSCRSSRDS
+    distance_km: 10.33
+  - name: KNOXVILLE
+    distance_km: 11.85
+- country: US
+  region: TN
+  name: Johnson City
+  lat: '36.3406'
+  long: "-82.3806"
+  nearby_rate_centers:
+  - name: JOHNSON CY
+    distance_km: 3.85
+  - name: JONESBORO
+    distance_km: 11.9
+  - name: ELIZABTHTN
+    distance_km: 14.31
+- country: US
+  region: TN
+  name: Jonesborough
+  lat: '36.2959'
+  long: "-82.4766"
+  nearby_rate_centers:
+  - name: JONESBORO
+    distance_km: 1.98
+  - name: JOHNSON CY
+    distance_km: 11.38
+  - name: LIMESTONE
+    distance_km: 15.86
+- country: US
+  region: TN
+  name: Kahite
+  lat: '35.5690'
+  long: "-84.2358"
+  nearby_rate_centers:
+  - name: VONORE
+    distance_km: 2.7
+  - name: GREENBACK
+    distance_km: 11.63
+  - name: BALL PLAY
+    distance_km: 11.81
+- country: US
+  region: TN
+  name: Karns
+  lat: '35.9778'
+  long: "-84.1091"
+  nearby_rate_centers:
+  - name: CLAXTON
+    distance_km: 5.49
+  - name: SOLWAY
+    distance_km: 6.53
+  - name: POWELL
+    distance_km: 8.67
+- country: US
+  region: TN
+  name: Kenton
+  lat: '36.2021'
+  long: "-89.0155"
+  nearby_rate_centers:
+  - name: KENTON
+    distance_km: 0.84
+  - name: MASON HALL
+    distance_km: 6.84
+  - name: RUTHERFORD
+    distance_km: 9.02
+- country: US
+  region: TN
+  name: Kimball
+  lat: '35.0469'
+  long: "-85.6740"
+  nearby_rate_centers:
+  - name: JASPER
+    distance_km: 5.24
+  - name: SO PITTSBG
+    distance_km: 6.53
+  - name: WHITWELL
+    distance_km: 22.03
+- country: US
+  region: TN
+  name: Kingsport
+  lat: '36.5224'
+  long: "-82.5454"
+  nearby_rate_centers:
+  - name: KINGSPORT
+    distance_km: 3.08
+  - name: SULIVNGDNS
+    distance_km: 6.76
+  - name: MIDWAY
+    distance_km: 10.38
+  - name: MIDWAY SUL
+    distance_km: 10.38
+- country: US
+  region: TN
+  name: Kingston
+  lat: '35.8713'
+  long: "-84.4959"
+  nearby_rate_centers:
+  - name: KINGSTON
+    distance_km: 1.76
+  - name: HARRIMAN
+    distance_km: 8.48
+  - name: OAKDALE
+    distance_km: 13.48
+- country: US
+  region: TN
+  name: Kingston Springs
+  lat: '36.0842'
+  long: "-87.1039"
+  nearby_rate_centers:
+  - name: KINGSTNSPG
+    distance_km: 3.25
+  - name: WHITEBLUFF
+    distance_km: 11.15
+  - name: FAIRVIEW
+    distance_km: 11.37
+- country: US
+  region: TN
+  name: Knoxville
+  lat: '35.9692'
+  long: "-83.9496"
+  nearby_rate_centers:
+  - name: KNOXVILLE
+    distance_km: 2.1
+  - name: POWELL
+    distance_km: 11.13
+  - name: HLSCRSSRDS
+    distance_km: 11.14
+- country: US
+  region: TN
+  name: La Follette
+  lat: '36.3718'
+  long: "-84.1256"
+  nearby_rate_centers:
+  - name: LAFOLLETTE
+    distance_km: 1.44
+  - name: LAKE CITY
+    distance_km: 16.64
+  - name: NORRIS
+    distance_km: 20.73
+- country: US
+  region: TN
+  name: La Grange
+  lat: '35.0476'
+  long: "-89.2409"
+  nearby_rate_centers:
+  - name: GRAND JCT
+    distance_km: 4.66
+  - name: LAGRANGE
+    distance_km: 4.66
+  - name: MOSCOW
+    distance_km: 14.31
+  - name: SOMERVILLE
+    distance_km: 23.75
+- country: US
+  region: TN
+  name: La Vergne
+  lat: '36.0200'
+  long: "-86.5586"
+  nearby_rate_centers:
+  - name: LAVERGNE
+    distance_km: 2.25
+  - name: LAVERGNE (DAVIDSON)
+    distance_km: 2.25
+  - name: SMYRNA
+    distance_km: 5.55
+  - name: NOLENSVILLE (DAVIDSON)
+    distance_km: 12.47
+  - name: NOLENSVL
+    distance_km: 12.47
+- country: US
+  region: TN
+  name: Lafayette
+  lat: '36.5241'
+  long: "-86.0304"
+  nearby_rate_centers:
+  - name: LAFAYETTE
+    distance_km: 0.72
+  - name: HILLSDALE
+    distance_km: 9.39
+  - name: GREENGROVE
+    distance_km: 13.99
+- country: US
+  region: TN
+  name: Lake Tansi
+  lat: '35.8701'
+  long: "-85.0614"
+  nearby_rate_centers:
+  - name: TANSI
+    distance_km: 0.92
+  - name: CROSSVILLE
+    distance_km: 9.06
+  - name: PLEASANTHL
+    distance_km: 15.99
+- country: US
+  region: TN
+  name: Lakeland
+  lat: '35.2585'
+  long: "-89.7308"
+  nearby_rate_centers:
+  - name: ARLINGTON
+    distance_km: 7.54
+  - name: ROSEMARK
+    distance_km: 11.49
+  - name: MILLINGTON
+    distance_km: 17.83
+- country: US
+  region: TN
+  name: Lakesite
+  lat: '35.2027'
+  long: "-85.1413"
+  nearby_rate_centers:
+  - name: SODDYDAISY
+    distance_km: 6.14
+  - name: OOLTEWAH
+    distance_km: 16.0
+  - name: COLLEGEDL
+    distance_km: 19.42
+- country: US
+  region: TN
+  name: Lakewood Park
+  lat: '35.6481'
+  long: "-86.1357"
+  nearby_rate_centers:
+  - name: WOODLAND
+    distance_km: 8.75
+  - name: BEECHGROVE
+    distance_km: 9.83
+  - name: MANCHESTER
+    distance_km: 19.03
+- country: US
+  region: TN
+  name: Lavinia
+  lat: '35.8508'
+  long: "-88.6527"
+  nearby_rate_centers:
+  - name: CEDARGROVE
+    distance_km: 8.33
+  - name: MEDINA
+    distance_km: 11.55
+  - name: MILAN
+    distance_km: 11.96
+- country: US
+  region: TN
+  name: Lawrenceburg
+  lat: '35.2497'
+  long: "-87.3325"
+  nearby_rate_centers:
+  - name: LAWRENCEBG
+    distance_km: 0.23
+  - name: ETHRIDGE
+    distance_km: 8.78
+  - name: LEOMA
+    distance_km: 9.42
+- country: US
+  region: TN
+  name: Lebanon
+  lat: '36.2040'
+  long: "-86.3481"
+  nearby_rate_centers:
+  - name: LEBANON
+    distance_km: 5.74
+  - name: MT JULIET
+    distance_km: 15.04
+  - name: NORENE
+    distance_km: 18.53
+- country: US
+  region: TN
+  name: Lenoir City
+  lat: '35.8111'
+  long: "-84.2818"
+  nearby_rate_centers:
+  - name: LENOIRCITY
+    distance_km: 2.45
+  - name: LOUDON
+    distance_km: 9.63
+  - name: CONCORD
+    distance_km: 14.18
+- country: US
+  region: TN
+  name: Lenox
+  lat: '36.0876'
+  long: "-89.4972"
+  nearby_rate_centers:
+  - name: DYERSBURG
+    distance_km: 11.41
+  - name: RIDGELY
+    distance_km: 20.22
+  - name: NEWBERN
+    distance_km: 21.38
+- country: US
+  region: TN
+  name: Leoma
+  lat: '35.1582'
+  long: "-87.3464"
+  nearby_rate_centers:
+  - name: LEOMA
+    distance_km: 0.91
+  - name: LAWRENCEBG
+    distance_km: 10.09
+  - name: LORETTO
+    distance_km: 12.18
+- country: US
+  region: TN
+  name: Lewisburg
+  lat: '35.4510'
+  long: "-86.7901"
+  nearby_rate_centers:
+  - name: LEWISBURG
+    distance_km: 0.19
+  - name: BELFAST
+    distance_km: 8.17
+  - name: CORNERSVL
+    distance_km: 10.45
+- country: US
+  region: TN
+  name: Lexington
+  lat: '35.6618'
+  long: "-88.3944"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance_km: 1.34
+  - name: SCOTTSHILL
+    distance_km: 20.93
+  - name: PARSONS
+    distance_km: 24.4
+- country: US
+  region: TN
+  name: Liberty
+  lat: '36.0046'
+  long: "-85.9779"
+  nearby_rate_centers:
+  - name: LIBERTY
+    distance_km: 1.09
+  - name: ALEXANDRIA
+    distance_km: 9.94
+  - name: ALEXANDRIA (WILSON)
+    distance_km: 9.94
+  - name: TEMPERANCE HALL
+    distance_km: 11.1
+- country: US
+  region: TN
+  name: Linden
+  lat: '35.6123'
+  long: "-87.8429"
+  nearby_rate_centers:
+  - name: LINDEN
+    distance_km: 0.71
+  - name: LOBELVILLE
+    distance_km: 17.92
+  - name: DECATURVL
+    distance_km: 24.85
+- country: US
+  region: TN
+  name: Livingston
+  lat: '36.3875'
+  long: "-85.3265"
+  nearby_rate_centers:
+  - name: LIVINGSTON
+    distance_km: 1.22
+  - name: RICKMAN
+    distance_km: 14.55
+  - name: CRAWFORD
+    distance_km: 21.87
+- country: US
+  region: TN
+  name: Lobelville
+  lat: '35.7508'
+  long: "-87.7958"
+  nearby_rate_centers:
+  - name: LOBELVILLE
+    distance_km: 2.01
+  - name: LINDEN
+    distance_km: 15.27
+  - name: CENTERVL
+    distance_km: 29.86
+- country: US
+  region: TN
+  name: Lone Oak
+  lat: '35.2007'
+  long: "-85.3685"
+  nearby_rate_centers:
+  - name: WHITWELL
+    distance_km: 13.66
+  - name: SODDYDAISY
+    distance_km: 17.05
+  - name: CHATTNOOGA
+    distance_km: 18.51
+- country: US
+  region: TN
+  name: Lookout Mountain
+  lat: '34.9944'
+  long: "-85.3516"
+  nearby_rate_centers:
+  - name: CHATTNOOGA
+    distance_km: 6.33
+  - name: JASPER
+    distance_km: 26.68
+  - name: WHITWELL
+    distance_km: 27.37
+- country: US
+  region: TN
+  name: Loretto
+  lat: '35.0792'
+  long: "-87.4401"
+  nearby_rate_centers:
+  - name: LORETTO
+    distance_km: 0.24
+  - name: ST JOSEPH
+    distance_km: 7.52
+  - name: FIVEPOINTS
+    distance_km: 10.62
+- country: US
+  region: TN
+  name: Loudon
+  lat: '35.7414'
+  long: "-84.3701"
+  nearby_rate_centers:
+  - name: LOUDON
+    distance_km: 3.48
+  - name: LENOIRCITY
+    distance_km: 11.1
+  - name: SWEETWATER
+    distance_km: 17.85
+  - name: WESTSWEETW
+    distance_km: 17.85
+- country: US
+  region: TN
+  name: Louisville
+  lat: '35.8247'
+  long: "-84.0552"
+  nearby_rate_centers:
+  - name: CONCORD
+    distance_km: 9.13
+  - name: MARYVILLE
+    distance_km: 11.01
+  - name: LENOIRCITY
+    distance_km: 19.25
+- country: US
+  region: TN
+  name: Luray
+  lat: '35.6017'
+  long: "-88.5703"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance_km: 17.01
+  - name: HENDERSON
+    distance_km: 18.73
+  - name: JACKSON
+    distance_km: 22.43
+- country: US
+  region: TN
+  name: Luttrell
+  lat: '36.2096'
+  long: "-83.7485"
+  nearby_rate_centers:
+  - name: MAYNARDVL
+    distance_km: 6.32
+  - name: SHARPSCHPL
+    distance_km: 15.79
+  - name: MASCOT
+    distance_km: 15.89
+- country: US
+  region: TN
+  name: Lyles
+  lat: '35.9195'
+  long: "-87.3450"
+  nearby_rate_centers:
+  - name: LYLES
+    distance_km: 1.8
+  - name: SPENCERMIL
+    distance_km: 1.8
+  - name: DICKSON
+    distance_km: 17.43
+  - name: CENTERVL
+    distance_km: 19.39
+- country: US
+  region: TN
+  name: Lynchburg
+  lat: '35.2846'
+  long: "-86.3587"
+  nearby_rate_centers:
+  - name: LYNCHBURG
+    distance_km: 1.5
+  - name: FLAT CREEK
+    distance_km: 12.57
+  - name: TULLAHOMA
+    distance_km: 16.01
+- country: US
+  region: TN
+  name: Lynnville
+  lat: '35.3782'
+  long: "-87.0054"
+  nearby_rate_centers:
+  - name: LYNNVILLE
+    distance_km: 0.37
+  - name: CULLEOKA
+    distance_km: 11.77
+  - name: CORNERSVL
+    distance_km: 15.14
+- country: US
+  region: TN
+  name: Madisonville
+  lat: '35.5232'
+  long: "-84.3630"
+  nearby_rate_centers:
+  - name: MADISONVL
+    distance_km: 0.71
+  - name: SWEETWATER
+    distance_km: 12.61
+  - name: WESTSWEETW
+    distance_km: 12.61
+  - name: VONORE
+    distance_km: 13.27
+- country: US
+  region: TN
+  name: Manchester
+  lat: '35.4630'
+  long: "-86.0774"
+  nearby_rate_centers:
+  - name: MANCHESTER
+    distance_km: 2.23
+  - name: HILLSBORO
+    distance_km: 11.16
+  - name: TULLAHOMA
+    distance_km: 16.57
+- country: US
+  region: TN
+  name: Martin
+  lat: '36.3385'
+  long: "-88.8513"
+  nearby_rate_centers:
+  - name: MARTIN
+    distance_km: 1.28
+  - name: SIDONIA
+    distance_km: 10.61
+  - name: SHARON
+    distance_km: 12.04
+- country: US
+  region: TN
+  name: Maryville
+  lat: '35.7468'
+  long: "-83.9789"
+  nearby_rate_centers:
+  - name: MARYVILLE
+    distance_km: 1.85
+  - name: GREENBACK
+    distance_km: 19.63
+  - name: CONCORD
+    distance_km: 19.91
+- country: US
+  region: TN
+  name: Mascot
+  lat: '36.0673'
+  long: "-83.7649"
+  nearby_rate_centers:
+  - name: MASCOT
+    distance_km: 2.34
+  - name: HLSCRSSRDS
+    distance_km: 15.21
+  - name: KNOXVILLE
+    distance_km: 18.16
+- country: US
+  region: TN
+  name: Mason
+  lat: '35.4128'
+  long: "-89.5412"
+  nearby_rate_centers:
+  - name: MASON
+    distance_km: 1.06
+  - name: MASON (TIPTON)
+    distance_km: 1.06
+  - name: STANTON
+    distance_km: 13.87
+  - name: ARLINGTON
+    distance_km: 17.18
+- country: US
+  region: TN
+  name: Maury City
+  lat: '35.8145'
+  long: "-89.2239"
+  nearby_rate_centers:
+  - name: MAURY CITY
+    distance_km: 0.21
+  - name: ALAMO
+    distance_km: 10.08
+  - name: FRIENDSHIP
+    distance_km: 10.47
+- country: US
+  region: TN
+  name: Mayland
+  lat: '36.0459'
+  long: "-85.2069"
+  nearby_rate_centers:
+  - name: PLEASANTHL
+    distance_km: 8.49
+  - name: MONTEREY
+    distance_km: 12.71
+  - name: BONDECROFT
+    distance_km: 13.79
+- country: US
+  region: TN
+  name: Maynardville
+  lat: '36.2470'
+  long: "-83.8057"
+  nearby_rate_centers:
+  - name: MAYNARDVL
+    distance_km: 0.69
+  - name: SHARPSCHPL
+    distance_km: 12.11
+  - name: WASHBURN
+    distance_km: 19.4
+- country: US
+  region: TN
+  name: McDonald
+  lat: '35.1088'
+  long: "-84.9853"
+  nearby_rate_centers:
+  - name: OOLTEWAH
+    distance_km: 7.43
+  - name: COLLEGEDL
+    distance_km: 7.9
+  - name: APISON
+    distance_km: 9.98
+- country: US
+  region: TN
+  name: McEwen
+  lat: '36.1099'
+  long: "-87.6355"
+  nearby_rate_centers:
+  - name: MCEWEN
+    distance_km: 0.14
+  - name: WAVERLY
+    distance_km: 14.43
+  - name: VANLEER
+    distance_km: 22.39
+  - name: W VANLEER
+    distance_km: 22.39
+- country: US
+  region: TN
+  name: McKenzie
+  lat: '36.1372'
+  long: "-88.5077"
+  nearby_rate_centers:
+  - name: MCKENZIE
+    distance_km: 1.05
+  - name: HENRY
+    distance_km: 10.91
+  - name: GLEASON
+    distance_km: 12.97
+- country: US
+  region: TN
+  name: McLemoresville
+  lat: '35.9863'
+  long: "-88.5800"
+  nearby_rate_centers:
+  - name: TREZEVANT
+    distance_km: 4.8
+  - name: ATWOOD
+    distance_km: 8.65
+  - name: HUNTINGDON
+    distance_km: 14.09
+- country: US
+  region: TN
+  name: McMinnville
+  lat: '35.6864'
+  long: "-85.7812"
+  nearby_rate_centers:
+  - name: MCMINNVL
+    distance_km: 1.57
+  - name: MCMINNVLRL
+    distance_km: 1.57
+  - name: CENTERTOWN
+    distance_km: 12.95
+  - name: DIBRELL
+    distance_km: 13.3
+- country: US
+  region: TN
+  name: Medina
+  lat: '35.8152'
+  long: "-88.7901"
+  nearby_rate_centers:
+  - name: MEDINA
+    distance_km: 2.66
+  - name: GIBSON
+    distance_km: 8.02
+  - name: HUMBOLDT
+    distance_km: 11.47
+- country: US
+  region: TN
+  name: Medon
+  lat: '35.4556'
+  long: "-88.8636"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 18.32
+  - name: HENDERSON
+    distance_km: 20.22
+  - name: BOLIVAR
+    distance_km: 24.29
+- country: US
+  region: TN
+  name: Memphis
+  lat: '35.1087'
+  long: "-89.9663"
+  nearby_rate_centers:
+  - name: MEMPHIS
+    distance_km: 7.77
+  - name: SHELBY FOR
+    distance_km: 25.09
+  - name: MILLINGTON
+    distance_km: 27.73
+- country: US
+  region: TN
+  name: Mercer
+  lat: '35.4745'
+  long: "-89.0394"
+  nearby_rate_centers:
+  - name: WESTWHITEV
+    distance_km: 19.45
+  - name: WHITEVILLE
+    distance_km: 19.45
+  - name: BROWNSVL
+    distance_km: 24.14
+  - name: BOLIVAR
+    distance_km: 24.5
+- country: US
+  region: TN
+  name: Michie
+  lat: '35.0604'
+  long: "-88.4257"
+  nearby_rate_centers:
+  - name: MICHIE
+    distance_km: 3.1
+  - name: SHILOH
+    distance_km: 14.2
+  - name: ADAMSVILLE
+    distance_km: 19.61
+- country: US
+  region: TN
+  name: Middle Valley
+  lat: '35.1877'
+  long: "-85.1959"
+  nearby_rate_centers:
+  - name: SODDYDAISY
+    distance_km: 6.15
+  - name: OOLTEWAH
+    distance_km: 17.69
+  - name: CHATTNOOGA
+    distance_km: 19.42
+- country: US
+  region: TN
+  name: Middleton
+  lat: '35.0593'
+  long: "-88.8902"
+  nearby_rate_centers:
+  - name: MIDDLETON
+    distance_km: 0.85
+  - name: BOLIVAR
+    distance_km: 23.73
+  - name: GRAND JCT
+    distance_km: 27.3
+  - name: LAGRANGE
+    distance_km: 27.3
+- country: US
+  region: TN
+  name: Midtown
+  lat: '35.8813'
+  long: "-84.5715"
+  nearby_rate_centers:
+  - name: KINGSTON
+    distance_km: 5.14
+  - name: HARRIMAN
+    distance_km: 5.96
+  - name: ROCKWOOD
+    distance_km: 10.17
+- country: US
+  region: TN
+  name: Milan
+  lat: '35.9126'
+  long: "-88.7554"
+  nearby_rate_centers:
+  - name: MILAN
+    distance_km: 0.55
+  - name: GIBSON
+    distance_km: 8.78
+  - name: ATWOOD
+    distance_km: 10.14
+- country: US
+  region: TN
+  name: Milledgeville
+  lat: '35.3776'
+  long: "-88.3660"
+  nearby_rate_centers:
+  - name: ENVILLE
+    distance_km: 0.35
+  - name: MILLEDGEVL
+    distance_km: 0.35
+  - name: SARDIS
+    distance_km: 9.71
+  - name: ADAMSVILLE
+    distance_km: 16.08
+- country: US
+  region: TN
+  name: Millersville
+  lat: '36.3969'
+  long: "-86.7111"
+  nearby_rate_centers:
+  - name: GREENBRIER
+    distance_km: 8.81
+  - name: GOODLETSVL
+    distance_km: 8.91
+  - name: WHITEHOUSE
+    distance_km: 9.55
+- country: US
+  region: TN
+  name: Millington
+  lat: '35.3350'
+  long: "-89.8991"
+  nearby_rate_centers:
+  - name: MILLINGTON
+    distance_km: 1.86
+  - name: SHELBY FOR
+    distance_km: 8.19
+  - name: ROSEMARK
+    distance_km: 12.08
+- country: US
+  region: TN
+  name: Minor Hill
+  lat: '35.0424'
+  long: "-87.1654"
+  nearby_rate_centers:
+  - name: MINOR HILL
+    distance_km: 1.71
+  - name: FIVEPOINTS
+    distance_km: 14.98
+  - name: PULASKI
+    distance_km: 21.25
+- country: US
+  region: TN
+  name: Miston
+  lat: '36.1604'
+  long: "-89.4940"
+  nearby_rate_centers:
+  - name: RIDGELY
+    distance_km: 12.12
+  - name: DYERSBURG
+    distance_km: 16.5
+  - name: NEWBERN
+    distance_km: 21.42
+- country: US
+  region: TN
+  name: Mitchellville
+  lat: '36.6344'
+  long: "-86.5400"
+  nearby_rate_centers:
+  - name: PORTLAND
+    distance_km: 6.13
+  - name: CRSPLORLND
+    distance_km: 14.39
+  - name: OAK GROVE
+    distance_km: 15.71
+- country: US
+  region: TN
+  name: Monteagle
+  lat: '35.2367'
+  long: "-85.8513"
+  nearby_rate_centers:
+  - name: MONTEAGLE
+    distance_km: 1.62
+  - name: SEWANEE
+    distance_km: 7.07
+  - name: PELHAM
+    distance_km: 8.22
+- country: US
+  region: TN
+  name: Monterey
+  lat: '36.1447'
+  long: "-85.2643"
+  nearby_rate_centers:
+  - name: MONTEREY
+    distance_km: 0.58
+  - name: CRAWFORD
+    distance_km: 15.52
+  - name: RICKMAN
+    distance_km: 16.6
+- country: US
+  region: TN
+  name: Mooresburg
+  lat: '36.3531'
+  long: "-83.2362"
+  nearby_rate_centers:
+  - name: BEAN STATN
+    distance_km: 3.89
+  - name: TATE SPG
+    distance_km: 12.83
+  - name: MORRISTOWN
+    distance_km: 16.27
+- country: US
+  region: TN
+  name: Morris Chapel
+  lat: '35.3139'
+  long: "-88.3558"
+  nearby_rate_centers:
+  - name: ENVILLE
+    distance_km: 6.87
+  - name: MILLEDGEVL
+    distance_km: 6.87
+  - name: ADAMSVILLE
+    distance_km: 9.42
+  - name: SAVANNAH
+    distance_km: 14.46
+- country: US
+  region: TN
+  name: Morrison
+  lat: '35.6048'
+  long: "-85.9117"
+  nearby_rate_centers:
+  - name: VIOLA
+    distance_km: 8.38
+  - name: CENTERTOWN
+    distance_km: 13.53
+  - name: MCMINNVL
+    distance_km: 16.01
+  - name: MCMINNVLRL
+    distance_km: 16.01
+- country: US
+  region: TN
+  name: Morristown
+  lat: '36.2043'
+  long: "-83.3001"
+  nearby_rate_centers:
+  - name: MORRISTOWN
+    distance_km: 1.42
+  - name: WHITE PINE
+    distance_km: 10.97
+  - name: BEAN STATN
+    distance_km: 14.94
+- country: US
+  region: TN
+  name: Moscow
+  lat: '35.0611'
+  long: "-89.3893"
+  nearby_rate_centers:
+  - name: MOSCOW
+    distance_km: 0.75
+  - name: GRAND JCT
+    distance_km: 18.18
+  - name: LAGRANGE
+    distance_km: 18.18
+  - name: SOMERVILLE
+    distance_km: 20.4
+- country: US
+  region: TN
+  name: Mosheim
+  lat: '36.1955'
+  long: "-82.9655"
+  nearby_rate_centers:
+  - name: MOSHEIM
+    distance_km: 0.77
+  - name: BULLS GAP
+    distance_km: 12.51
+  - name: GREENEVL
+    distance_km: 12.94
+- country: US
+  region: TN
+  name: Mount Carmel
+  lat: '36.5620'
+  long: "-82.6618"
+  nearby_rate_centers:
+  - name: CHURCHHILL
+    distance_km: 6.3
+  - name: KINGSPORT
+    distance_km: 9.49
+  - name: SULIVNGDNS
+    distance_km: 11.57
+- country: US
+  region: TN
+  name: Mount Juliet
+  lat: '36.1990'
+  long: "-86.5115"
+  nearby_rate_centers:
+  - name: MT JULIET
+    distance_km: 0.38
+  - name: OLDHICKORY
+    distance_km: 14.05
+  - name: HENDERSNVL
+    distance_km: 14.6
+- country: US
+  region: TN
+  name: Mount Pleasant
+  lat: '35.5483'
+  long: "-87.1872"
+  nearby_rate_centers:
+  - name: MTPLEASANT
+    distance_km: 3.23
+  - name: HAMPSHIRE
+    distance_km: 10.6
+  - name: COLUMBIA
+    distance_km: 15.49
+- country: US
+  region: TN
+  name: Mountain City
+  lat: '36.4696'
+  long: "-81.8049"
+  nearby_rate_centers:
+  - name: MOUNTAINCY
+    distance_km: 0.42
+  - name: SHADY VLY
+    distance_km: 12.58
+  - name: BUTLER
+    distance_km: 24.18
+- country: US
+  region: TN
+  name: Mowbray Mountain
+  lat: '35.2751'
+  long: "-85.2225"
+  nearby_rate_centers:
+  - name: SODDYDAISY
+    distance_km: 4.78
+  - name: DUNLAP
+    distance_km: 18.53
+  - name: GEORGETOWN
+    distance_km: 25.28
+- country: US
+  region: TN
+  name: Munford
+  lat: '35.4434'
+  long: "-89.8147"
+  nearby_rate_centers:
+  - name: MUNFORD
+    distance_km: 1.03
+  - name: DRUMMONDS
+    distance_km: 8.99
+  - name: ROSEMARK
+    distance_km: 10.46
+- country: US
+  region: TN
+  name: Murfreesboro
+  lat: '35.8490'
+  long: "-86.4121"
+  nearby_rate_centers:
+  - name: MURFREESBO
+    distance_km: 2.45
+  - name: SMYRNA
+    distance_km: 17.66
+  - name: FOSTERVILLE (BEDFORD)
+    distance_km: 21.88
+  - name: FOSTERVL
+    distance_km: 21.88
+- country: US
+  region: TN
+  name: Nashville
+  lat: '36.1715'
+  long: "-86.7842"
+  nearby_rate_centers:
+  - name: NASHVILLE
+    distance_km: 1.66
+  - name: OLDHICKORY
+    distance_km: 15.34
+  - name: GOODLETSVL
+    distance_km: 17.34
+- country: US
+  region: TN
+  name: New Deal
+  lat: '36.5139'
+  long: "-86.5629"
+  nearby_rate_centers:
+  - name: PORTLAND
+    distance_km: 8.59
+  - name: WHITEHOUSE
+    distance_km: 9.26
+  - name: CRSPLORLND
+    distance_km: 12.85
+- country: US
+  region: TN
+  name: New Hope
+  lat: '35.0044'
+  long: "-85.6598"
+  nearby_rate_centers:
+  - name: SO PITTSBG
+    distance_km: 5.18
+  - name: JASPER
+    distance_km: 8.36
+  - name: WHITWELL
+    distance_km: 25.16
+- country: US
+  region: TN
+  name: New Johnsonville
+  lat: '36.0163'
+  long: "-87.9696"
+  nearby_rate_centers:
+  - name: NEWJHNSNVL
+    distance_km: 3.2
+  - name: CAMDEN
+    distance_km: 12.77
+  - name: WAVERLY
+    distance_km: 17.54
+- country: US
+  region: TN
+  name: New Market
+  lat: '36.1096'
+  long: "-83.5493"
+  nearby_rate_centers:
+  - name: JEFFERSNCY
+    distance_km: 4.67
+  - name: DANDRIDGE
+    distance_km: 15.99
+  - name: MASCOT
+    distance_km: 17.68
+- country: US
+  region: TN
+  name: New Tazewell
+  lat: '36.4381'
+  long: "-83.6053"
+  nearby_rate_centers:
+  - name: NEWTAZWELL
+    distance_km: 0.75
+  - name: WASHBURN
+    distance_km: 16.19
+  - name: SHARPSCHPL
+    distance_km: 17.3
+- country: US
+  region: TN
+  name: New Union
+  lat: '35.5340'
+  long: "-86.0832"
+  nearby_rate_centers:
+  - name: MANCHESTER
+    distance_km: 5.8
+  - name: HILLSBORO
+    distance_km: 17.21
+  - name: BEECHGROVE
+    distance_km: 17.46
+- country: US
+  region: TN
+  name: Newbern
+  lat: '36.1169'
+  long: "-89.2713"
+  nearby_rate_centers:
+  - name: NEWBERN
+    distance_km: 0.85
+  - name: TRIMBLE
+    distance_km: 11.9
+  - name: DYERSBURG
+    distance_km: 13.11
+- country: US
+  region: TN
+  name: Newport
+  lat: '35.9617'
+  long: "-83.1976"
+  nearby_rate_centers:
+  - name: BENTCREEK
+    distance_km: 0.72
+  - name: CHESTNUTHI
+    distance_km: 0.72
+  - name: NEWPORT
+    distance_km: 0.72
+  - name: WHITE PINE
+    distance_km: 17.87
+  - name: DANDRIDGE
+    distance_km: 20.48
+- country: US
+  region: TN
+  name: Niota
+  lat: '35.5171'
+  long: "-84.5499"
+  nearby_rate_centers:
+  - name: NIOTA
+    distance_km: 0.62
+  - name: ATHENS
+    distance_km: 8.58
+  - name: ENGLEWOOD
+    distance_km: 11.53
+- country: US
+  region: TN
+  name: Nixon
+  lat: '35.1148'
+  long: "-88.2583"
+  nearby_rate_centers:
+  - name: SHILOH
+    distance_km: 6.43
+  - name: SAVANNAH
+    distance_km: 12.09
+  - name: ADAMSVILLE
+    distance_km: 18.06
+- country: US
+  region: TN
+  name: Nolensville
+  lat: '35.9572'
+  long: "-86.6719"
+  nearby_rate_centers:
+  - name: NOLENSVILLE (DAVIDSON)
+    distance_km: 0.89
+  - name: NOLENSVL
+    distance_km: 0.89
+  - name: LAVERGNE
+    distance_km: 10.46
+  - name: LAVERGNE (DAVIDSON)
+    distance_km: 10.46
+  - name: TRIUNE
+    distance_km: 11.21
+- country: US
+  region: TN
+  name: Norene
+  lat: '36.0541'
+  long: "-86.2382"
+  nearby_rate_centers:
+  - name: NORENE
+    distance_km: 0.97
+  - name: WATERTOWN
+    distance_km: 10.81
+  - name: MILTON
+    distance_km: 15.26
+- country: US
+  region: TN
+  name: Normandy
+  lat: '35.4523'
+  long: "-86.2582"
+  nearby_rate_centers:
+  - name: NORMANDY
+    distance_km: 0.34
+  - name: WARTRACE
+    distance_km: 11.35
+  - name: TULLAHOMA
+    distance_km: 11.53
+- country: US
+  region: TN
+  name: Norris
+  lat: '36.2137'
+  long: "-84.0629"
+  nearby_rate_centers:
+  - name: NORRIS
+    distance_km: 2.63
+  - name: LAKE CITY
+    distance_km: 8.03
+  - name: CLINTON
+    distance_km: 13.26
+- country: US
+  region: TN
+  name: Oak Grove
+  lat: '36.4222'
+  long: "-82.4293"
+  nearby_rate_centers:
+  - name: MIDWAY
+    distance_km: 4.87
+  - name: MIDWAY SUL
+    distance_km: 4.87
+  - name: JOHNSON CY
+    distance_km: 13.81
+  - name: BLOUNTVL
+    distance_km: 15.44
+- country: US
+  region: TN
+  name: Oak Hill
+  lat: '36.0735'
+  long: "-86.7856"
+  nearby_rate_centers:
+  - name: NASHVILLE
+    distance_km: 9.6
+  - name: NOLENSVILLE (DAVIDSON)
+    distance_km: 17.37
+  - name: NOLENSVL
+    distance_km: 17.37
+  - name: FRANKLIN
+    distance_km: 18.31
+- country: US
+  region: TN
+  name: Oak Ridge
+  lat: '35.9639'
+  long: "-84.2938"
+  nearby_rate_centers:
+  - name: OLIVER SPG
+    distance_km: 9.46
+  - name: SOLWAY
+    distance_km: 10.21
+  - name: OAK RIDGE
+    distance_km: 12.11
+- country: US
+  region: TN
+  name: Oakdale
+  lat: '35.9895'
+  long: "-84.5573"
+  nearby_rate_centers:
+  - name: OAKDALE
+    distance_km: 0.81
+  - name: HARRIMAN
+    distance_km: 6.36
+  - name: KINGSTON
+    distance_km: 13.48
+- country: US
+  region: TN
+  name: Oakland
+  lat: '35.2256'
+  long: "-89.5372"
+  nearby_rate_centers:
+  - name: ARLINGTON
+    distance_km: 13.18
+  - name: SOMERVILLE
+    distance_km: 17.12
+  - name: MASON
+    distance_km: 20.43
+  - name: MASON (TIPTON)
+    distance_km: 20.43
+- country: US
+  region: TN
+  name: Obion
+  lat: '36.2647'
+  long: "-89.1948"
+  nearby_rate_centers:
+  - name: TRIMBLE
+    distance_km: 7.42
+  - name: TROY
+    distance_km: 8.84
+  - name: MASON HALL
+    distance_km: 11.31
+- country: US
+  region: TN
+  name: Ocoee
+  lat: '35.1235'
+  long: "-84.7167"
+  nearby_rate_centers:
+  - name: BENTON
+    distance_km: 8.05
+  - name: CLEVELAND
+    distance_km: 14.17
+  - name: CHARLESTON
+    distance_km: 18.22
+- country: US
+  region: TN
+  name: Oliver Springs
+  lat: '36.0399'
+  long: "-84.3285"
+  nearby_rate_centers:
+  - name: OLIVER SPG
+    distance_km: 0.99
+  - name: OAK RIDGE
+    distance_km: 10.74
+  - name: PETROS
+    distance_km: 12.14
+- country: US
+  region: TN
+  name: Olivet
+  lat: '35.2048'
+  long: "-88.1939"
+  nearby_rate_centers:
+  - name: SAVANNAH
+    distance_km: 4.83
+  - name: SHILOH
+    distance_km: 17.75
+  - name: ADAMSVILLE
+    distance_km: 18.34
+- country: US
+  region: TN
+  name: Oneida
+  lat: '36.5171'
+  long: "-84.5108"
+  nearby_rate_centers:
+  - name: ONEIDA
+    distance_km: 0.98
+  - name: HUNTSVILLE
+    distance_km: 12.17
+  - name: ROBBINS
+    distance_km: 20.09
+- country: US
+  region: TN
+  name: Ooltewah
+  lat: '35.0723'
+  long: "-85.0545"
+  nearby_rate_centers:
+  - name: OOLTEWAH
+    distance_km: 0.51
+  - name: COLLEGEDL
+    distance_km: 2.93
+  - name: APISON
+    distance_km: 5.74
+- country: US
+  region: TN
+  name: Orebank
+  lat: '36.5560'
+  long: "-82.4642"
+  nearby_rate_centers:
+  - name: KINGSPORT
+    distance_km: 8.32
+  - name: MIDWAY
+    distance_km: 11.54
+  - name: MIDWAY SUL
+    distance_km: 11.54
+  - name: BLOUNTVL
+    distance_km: 12.88
+- country: US
+  region: TN
+  name: Orlinda
+  lat: '36.5938'
+  long: "-86.7015"
+  nearby_rate_centers:
+  - name: CRSPLORLND
+    distance_km: 2.5
+  - name: WHITEHOUSE
+    distance_km: 15.02
+  - name: PORTLAND
+    distance_km: 16.44
+- country: US
+  region: TN
+  name: Orme
+  lat: '35.0147'
+  long: "-85.8048"
+  nearby_rate_centers:
+  - name: SO PITTSBG
+    distance_km: 8.24
+  - name: JASPER
+    distance_km: 17.46
+  - name: SEWANEE
+    distance_km: 22.9
+- country: US
+  region: TN
+  name: Palmer
+  lat: '35.3576'
+  long: "-85.5656"
+  nearby_rate_centers:
+  - name: LAAGER
+    distance_km: 3.61
+  - name: BEERSHEBA
+    distance_km: 14.9
+  - name: DUNLAP
+    distance_km: 15.77
+- country: US
+  region: TN
+  name: Palmersville
+  lat: '36.4084'
+  long: "-88.5842"
+  nearby_rate_centers:
+  - name: PALMERSVL
+    distance_km: 1.01
+  - name: COTTAGEGRV
+    distance_km: 9.87
+  - name: LATHAM
+    distance_km: 12.17
+- country: US
+  region: TN
+  name: Paris
+  lat: '36.2933'
+  long: "-88.3065"
+  nearby_rate_centers:
+  - name: PARIS
+    distance_km: 1.84
+  - name: HENRY
+    distance_km: 14.19
+  - name: PURYEAR
+    distance_km: 16.53
+- country: US
+  region: TN
+  name: Park City
+  lat: '35.0782'
+  long: "-86.5834"
+  nearby_rate_centers:
+  - name: FAYETTEVL
+    distance_km: 7.89
+  - name: FLINTVILLE
+    distance_km: 16.0
+  - name: BLANCHE
+    distance_km: 16.34
+- country: US
+  region: TN
+  name: Parker's Crossroads
+  lat: '35.7894'
+  long: "-88.3905"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance_km: 15.51
+  - name: CEDARGROVE
+    distance_km: 17.02
+  - name: HUNTINGDON
+    distance_km: 23.78
+- country: US
+  region: TN
+  name: Parrottsville
+  lat: '36.0082'
+  long: "-83.0916"
+  nearby_rate_centers:
+  - name: BENTCREEK
+    distance_km: 10.25
+  - name: CHESTNUTHI
+    distance_km: 10.25
+  - name: NEWPORT
+    distance_km: 10.25
+  - name: WHITE PINE
+    distance_km: 20.45
+  - name: MOSHEIM
+    distance_km: 23.58
+- country: US
+  region: TN
+  name: Parsons
+  lat: '35.6513'
+  long: "-88.1231"
+  nearby_rate_centers:
+  - name: PARSONS
+    distance_km: 0.14
+  - name: DECATURVL
+    distance_km: 7.41
+  - name: SCOTTSHILL
+    distance_km: 18.78
+- country: US
+  region: TN
+  name: Pegram
+  lat: '36.1037'
+  long: "-87.0565"
+  nearby_rate_centers:
+  - name: KINGSTNSPG
+    distance_km: 7.44
+  - name: FAIRVIEW
+    distance_km: 14.77
+  - name: WHITEBLUFF
+    distance_km: 15.06
+- country: US
+  region: TN
+  name: Pelham
+  lat: '35.3342'
+  long: "-85.8703"
+  nearby_rate_centers:
+  - name: PELHAM
+    distance_km: 2.93
+  - name: MONTEAGLE
+    distance_km: 10.65
+  - name: HILLSBORO
+    distance_km: 12.48
+- country: US
+  region: TN
+  name: Petersburg
+  lat: '35.3173'
+  long: "-86.6407"
+  nearby_rate_centers:
+  - name: PETERSBURG
+    distance_km: 0.53
+  - name: BELFAST
+    distance_km: 12.85
+  - name: CORNERSVL
+    distance_km: 18.79
+- country: US
+  region: TN
+  name: Petros
+  lat: '36.1028'
+  long: "-84.4504"
+  nearby_rate_centers:
+  - name: PETROS
+    distance_km: 0.86
+  - name: OLIVER SPG
+    distance_km: 12.13
+  - name: WARTBURG
+    distance_km: 13.35
+- country: US
+  region: TN
+  name: Philadelphia
+  lat: '35.6791'
+  long: "-84.3999"
+  nearby_rate_centers:
+  - name: LOUDON
+    distance_km: 8.69
+  - name: SWEETWATER
+    distance_km: 10.53
+  - name: WESTSWEETW
+    distance_km: 10.53
+  - name: VONORE
+    distance_km: 17.1
+- country: US
+  region: TN
+  name: Pigeon Forge
+  lat: '35.7977'
+  long: "-83.5623"
+  nearby_rate_centers:
+  - name: SEVIERVL
+    distance_km: 7.84
+  - name: GATLINBURG
+    distance_km: 9.98
+  - name: DANDRIDGE
+    distance_km: 27.51
+- country: US
+  region: TN
+  name: Pikeville
+  lat: '35.6027'
+  long: "-85.1984"
+  nearby_rate_centers:
+  - name: PIKEVILLE
+    distance_km: 0.23
+  - name: COLLEGESTA
+    distance_km: 10.45
+  - name: FLCRKFALLS
+    distance_km: 11.6
+- country: US
+  region: TN
+  name: Pine Crest
+  lat: '36.2965'
+  long: "-82.3106"
+  nearby_rate_centers:
+  - name: JOHNSON CY
+    distance_km: 4.22
+  - name: ELIZABTHTN
+    distance_km: 9.83
+  - name: HAMPTON
+    distance_km: 12.33
+- country: US
+  region: TN
+  name: Pinson
+  lat: '35.4818'
+  long: "-88.7306"
+  nearby_rate_centers:
+  - name: HENDERSON
+    distance_km: 9.18
+  - name: JACKSON
+    distance_km: 16.88
+  - name: BETHEL SPG
+    distance_km: 29.89
+- country: US
+  region: TN
+  name: Piperton
+  lat: '35.0512'
+  long: "-89.6091"
+  nearby_rate_centers:
+  - name: COLLIERVL
+    distance_km: 4.63
+  - name: MOSCOW
+    distance_km: 19.29
+  - name: ARLINGTON
+    distance_km: 27.06
+- country: US
+  region: TN
+  name: Pittman Center
+  lat: '35.7595'
+  long: "-83.3886"
+  nearby_rate_centers:
+  - name: GATLINBURG
+    distance_km: 11.86
+  - name: SEVIERVL
+    distance_km: 20.09
+  - name: DANDRIDGE
+    distance_km: 28.49
+- country: US
+  region: TN
+  name: Plainview
+  lat: '36.1807'
+  long: "-83.7933"
+  nearby_rate_centers:
+  - name: MAYNARDVL
+    distance_km: 7.67
+  - name: MASCOT
+    distance_km: 13.56
+  - name: HLSCRSSRDS
+    distance_km: 17.76
+- country: US
+  region: TN
+  name: Pleasant Hill
+  lat: '35.9767'
+  long: "-85.1996"
+  nearby_rate_centers:
+  - name: PLEASANTHL
+    distance_km: 1.23
+  - name: BONDECROFT
+    distance_km: 9.95
+  - name: CROSSVILLE
+    distance_km: 15.17
+- country: US
+  region: TN
+  name: Pleasant View
+  lat: '36.3893'
+  long: "-87.0455"
+  nearby_rate_centers:
+  - name: PLEASANTVW
+    distance_km: 1.25
+  - name: ASHLAND CY
+    distance_km: 12.77
+  - name: FREDONIA
+    distance_km: 16.58
+  - name: SOFREDONIA
+    distance_km: 16.58
+- country: US
+  region: TN
+  name: Pocahontas
+  lat: '35.0547'
+  long: "-88.8019"
+  nearby_rate_centers:
+  - name: MIDDLETON
+    distance_km: 8.34
+  - name: SELMER
+    distance_km: 22.92
+  - name: BETHEL SPG
+    distance_km: 26.48
+- country: US
+  region: TN
+  name: Portland
+  lat: '36.5921'
+  long: "-86.5239"
+  nearby_rate_centers:
+  - name: PORTLAND
+    distance_km: 1.22
+  - name: OAK GROVE
+    distance_km: 12.65
+  - name: CRSPLORLND
+    distance_km: 14.4
+- country: US
+  region: TN
+  name: Powell
+  lat: '36.0358'
+  long: "-84.0296"
+  nearby_rate_centers:
+  - name: POWELL
+    distance_km: 1.23
+  - name: CLAXTON
+    distance_km: 5.53
+  - name: HLSCRSSRDS
+    distance_km: 9.32
+- country: US
+  region: TN
+  name: Powells Crossroads
+  lat: '35.1849'
+  long: "-85.4848"
+  nearby_rate_centers:
+  - name: WHITWELL
+    distance_km: 3.47
+  - name: JASPER
+    distance_km: 17.84
+  - name: DUNLAP
+    distance_km: 22.02
+- country: US
+  region: TN
+  name: Prospect
+  lat: '35.0219'
+  long: "-86.9990"
+  nearby_rate_centers:
+  - name: ELKTON
+    distance_km: 10.19
+  - name: ARDMORE
+    distance_km: 14.28
+  - name: MINOR HILL
+    distance_km: 15.12
+- country: US
+  region: TN
+  name: Pulaski
+  lat: '35.1933'
+  long: "-87.0350"
+  nearby_rate_centers:
+  - name: PULASKI
+    distance_km: 0.86
+  - name: MINOR HILL
+    distance_km: 18.92
+  - name: ELKTON
+    distance_km: 20.64
+- country: US
+  region: TN
+  name: Puryear
+  lat: '36.4413'
+  long: "-88.3324"
+  nearby_rate_centers:
+  - name: PURYEAR
+    distance_km: 0.12
+  - name: SOUTHHAZEL
+    distance_km: 6.61
+  - name: COTTAGEGRV
+    distance_km: 15.39
+- country: US
+  region: TN
+  name: Ramer
+  lat: '35.0718'
+  long: "-88.6147"
+  nearby_rate_centers:
+  - name: SELMER
+    distance_km: 11.73
+  - name: MICHIE
+    distance_km: 15.38
+  - name: BETHEL SPG
+    distance_km: 17.86
+- country: US
+  region: TN
+  name: Randolph
+  lat: '35.5195'
+  long: "-89.8825"
+  nearby_rate_centers:
+  - name: DRUMMONDS
+    distance_km: 6.42
+  - name: MUNFORD
+    distance_km: 10.33
+  - name: MILLINGTON
+    distance_km: 18.81
+- country: US
+  region: TN
+  name: Red Bank
+  lat: '35.1117'
+  long: "-85.2962"
+  nearby_rate_centers:
+  - name: CHATTNOOGA
+    distance_km: 8.0
+  - name: SODDYDAISY
+    distance_km: 17.57
+  - name: OOLTEWAH
+    distance_km: 22.13
+- country: US
+  region: TN
+  name: Red Boiling Springs
+  lat: '36.5301'
+  long: "-85.8481"
+  nearby_rate_centers:
+  - name: RDBOLNGSPG
+    distance_km: 0.38
+  - name: NORTH SPG
+    distance_km: 9.46
+  - name: LAFAYETTE
+    distance_km: 15.63
+- country: US
+  region: TN
+  name: Riceville
+  lat: '35.3895'
+  long: "-84.6989"
+  nearby_rate_centers:
+  - name: RICEVILLE
+    distance_km: 0.87
+  - name: ATHENS
+    distance_km: 11.3
+  - name: CHARLESTON
+    distance_km: 13.11
+- country: US
+  region: TN
+  name: Ridgely
+  lat: '36.2632'
+  long: "-89.4806"
+  nearby_rate_centers:
+  - name: RIDGELY
+    distance_km: 0.76
+  - name: TIPTONVL
+    distance_km: 12.39
+  - name: HORNBEAK
+    distance_km: 18.02
+- country: US
+  region: TN
+  name: Ridgeside
+  lat: '35.0349'
+  long: "-85.2470"
+  nearby_rate_centers:
+  - name: CHATTNOOGA
+    distance_km: 5.91
+  - name: OOLTEWAH
+    distance_km: 17.92
+  - name: COLLEGEDL
+    distance_km: 19.32
+- country: US
+  region: TN
+  name: Ridgetop
+  lat: '36.4044'
+  long: "-86.7681"
+  nearby_rate_centers:
+  - name: GREENBRIER
+    distance_km: 4.17
+  - name: GOODLETSVL
+    distance_km: 10.86
+  - name: WHITEHOUSE
+    distance_km: 12.77
+- country: US
+  region: TN
+  name: Ripley
+  lat: '35.7449'
+  long: "-89.5358"
+  nearby_rate_centers:
+  - name: RIPLEY
+    distance_km: 0.32
+  - name: HENNING
+    distance_km: 8.48
+  - name: HALLS
+    distance_km: 19.4
+- country: US
+  region: TN
+  name: Rives
+  lat: '36.3560'
+  long: "-89.0495"
+  nearby_rate_centers:
+  - name: UNION CITY
+    distance_km: 7.93
+  - name: TROY
+    distance_km: 10.65
+  - name: MASON HALL
+    distance_km: 17.06
+- country: US
+  region: TN
+  name: Roan Mountain
+  lat: '36.1866'
+  long: "-82.0706"
+  nearby_rate_centers:
+  - name: ROAN MT
+    distance_km: 0.76
+  - name: HAMPTON
+    distance_km: 14.47
+  - name: BUTLER
+    distance_km: 18.69
+- country: US
+  region: TN
+  name: Robbins
+  lat: '36.3536'
+  long: "-84.5839"
+  nearby_rate_centers:
+  - name: ROBBINS
+    distance_km: 0.98
+  - name: HUNTSVILLE
+    distance_km: 10.21
+  - name: SUNBRIGHT
+    distance_km: 14.66
+- country: US
+  region: TN
+  name: Rockford
+  lat: '35.8328'
+  long: "-83.9358"
+  nearby_rate_centers:
+  - name: MARYVILLE
+    distance_km: 8.65
+  - name: KNOXVILLE
+    distance_km: 15.18
+  - name: CONCORD
+    distance_km: 18.92
+- country: US
+  region: TN
+  name: Rockvale
+  lat: '35.7669'
+  long: "-86.5210"
+  nearby_rate_centers:
+  - name: EAGLEVILLE
+    distance_km: 11.89
+  - name: UNIONVILLE
+    distance_km: 13.61
+  - name: COLLEGEGRV
+    distance_km: 13.88
+- country: US
+  region: TN
+  name: Rockwood
+  lat: '35.8692'
+  long: "-84.6731"
+  nearby_rate_centers:
+  - name: ROCKWOOD
+    distance_km: 0.94
+  - name: HARRIMAN
+    distance_km: 12.98
+  - name: KINGSTON
+    distance_km: 14.22
+- country: US
+  region: TN
+  name: Rocky Top
+  lat: '36.2250'
+  long: "-84.1548"
+  nearby_rate_centers:
+  - name: LAKE CITY
+    distance_km: 0.33
+  - name: NORRIS
+    distance_km: 8.51
+  - name: CLINTON
+    distance_km: 13.0
+- country: US
+  region: TN
+  name: Rogersville
+  lat: '36.4081'
+  long: "-83.0043"
+  nearby_rate_centers:
+  - name: ROGERSVL
+    distance_km: 0.63
+  - name: SURGOINSVL
+    distance_km: 15.74
+  - name: BAILEYTON
+    distance_km: 17.28
+- country: US
+  region: TN
+  name: Rossville
+  lat: '35.0324'
+  long: "-89.5612"
+  nearby_rate_centers:
+  - name: COLLIERVL
+    distance_km: 9.18
+  - name: MOSCOW
+    distance_km: 15.22
+  - name: ARLINGTON
+    distance_km: 30.1
+- country: US
+  region: TN
+  name: Rural Hill
+  lat: '36.1157'
+  long: "-86.5145"
+  nearby_rate_centers:
+  - name: MT JULIET
+    distance_km: 9.17
+  - name: LAVERGNE
+    distance_km: 12.49
+  - name: LAVERGNE (DAVIDSON)
+    distance_km: 12.49
+  - name: SMYRNA
+    distance_km: 14.71
+- country: US
+  region: TN
+  name: Russellville
+  lat: '36.2580'
+  long: "-83.1966"
+  nearby_rate_centers:
+  - name: BULLS GAP
+    distance_km: 10.18
+  - name: MORRISTOWN
+    distance_km: 10.55
+  - name: BEAN STATN
+    distance_km: 11.25
+- country: US
+  region: TN
+  name: Rutherford
+  lat: '36.1249'
+  long: "-88.9920"
+  nearby_rate_centers:
+  - name: RUTHERFORD
+    distance_km: 0.81
+  - name: DYER
+    distance_km: 6.38
+  - name: KENTON
+    distance_km: 8.22
+- country: US
+  region: TN
+  name: Rutledge
+  lat: '36.2757'
+  long: "-83.5311"
+  nearby_rate_centers:
+  - name: RUTLEDGE
+    distance_km: 1.33
+  - name: WASHBURN
+    distance_km: 6.19
+  - name: TATE SPG
+    distance_km: 15.17
+- country: US
+  region: TN
+  name: Sale Creek
+  lat: '35.3894'
+  long: "-85.0874"
+  nearby_rate_centers:
+  - name: DAYTON
+    distance_km: 13.01
+  - name: GEORGETOWN
+    distance_km: 17.13
+  - name: SODDYDAISY
+    distance_km: 18.7
+- country: US
+  region: TN
+  name: Saltillo
+  lat: '35.3821'
+  long: "-88.2396"
+  nearby_rate_centers:
+  - name: SARDIS
+    distance_km: 8.32
+  - name: ENVILLE
+    distance_km: 11.66
+  - name: MILLEDGEVL
+    distance_km: 11.66
+  - name: SCOTTSHILL
+    distance_km: 14.93
+- country: US
+  region: TN
+  name: Samburg
+  lat: '36.3823'
+  long: "-89.3533"
+  nearby_rate_centers:
+  - name: HORNBEAK
+    distance_km: 7.32
+  - name: TIPTONVL
+    distance_km: 11.11
+  - name: RIDGELY
+    distance_km: 17.23
+- country: US
+  region: TN
+  name: Sardis
+  lat: '35.4424'
+  long: "-88.2913"
+  nearby_rate_centers:
+  - name: SARDIS
+    distance_km: 0.26
+  - name: SCOTTSHILL
+    distance_km: 9.11
+  - name: ENVILLE
+    distance_km: 10.23
+  - name: MILLEDGEVL
+    distance_km: 10.23
+- country: US
+  region: TN
+  name: Saulsbury
+  lat: '35.0488'
+  long: "-89.0884"
+  nearby_rate_centers:
+  - name: GRAND JCT
+    distance_km: 9.25
+  - name: LAGRANGE
+    distance_km: 9.25
+  - name: MIDDLETON
+    distance_km: 17.96
+  - name: BOLIVAR
+    distance_km: 25.36
+- country: US
+  region: TN
+  name: Savannah
+  lat: '35.2210'
+  long: "-88.2360"
+  nearby_rate_centers:
+  - name: SAVANNAH
+    distance_km: 0.6
+  - name: ADAMSVILLE
+    distance_km: 14.29
+  - name: SHILOH
+    distance_km: 18.41
+- country: US
+  region: TN
+  name: Scotts Hill
+  lat: '35.5188'
+  long: "-88.2527"
+  nearby_rate_centers:
+  - name: SCOTTSHILL
+    distance_km: 0.54
+  - name: SARDIS
+    distance_km: 9.29
+  - name: DECATURVL
+    distance_km: 14.41
+- country: US
+  region: TN
+  name: Selmer
+  lat: '35.1708'
+  long: "-88.5955"
+  nearby_rate_centers:
+  - name: SELMER
+    distance_km: 0.69
+  - name: BETHEL SPG
+    distance_km: 6.94
+  - name: MICHIE
+    distance_km: 19.59
+- country: US
+  region: TN
+  name: Sequatchie
+  lat: '35.1115'
+  long: "-85.5965"
+  nearby_rate_centers:
+  - name: JASPER
+    distance_km: 4.96
+  - name: WHITWELL
+    distance_km: 12.03
+  - name: SO PITTSBG
+    distance_km: 16.56
+- country: US
+  region: TN
+  name: Sevierville
+  lat: '35.8872'
+  long: "-83.5678"
+  nearby_rate_centers:
+  - name: SEVIERVL
+    distance_km: 2.12
+  - name: GATLINBURG
+    distance_km: 19.46
+  - name: DANDRIDGE
+    distance_km: 19.72
+- country: US
+  region: TN
+  name: Sewanee
+  lat: '35.1975'
+  long: "-85.9213"
+  nearby_rate_centers:
+  - name: SEWANEE
+    distance_km: 0.65
+  - name: MONTEAGLE
+    distance_km: 9.31
+  - name: PELHAM
+    distance_km: 13.0
+- country: US
+  region: TN
+  name: Seymour
+  lat: '35.8783'
+  long: "-83.7669"
+  nearby_rate_centers:
+  - name: KNOXVILLE
+    distance_km: 17.55
+  - name: SEVIERVL
+    distance_km: 18.08
+  - name: MASCOT
+    distance_km: 21.13
+- country: US
+  region: TN
+  name: Shackle Island
+  lat: '36.3775'
+  long: "-86.6168"
+  nearby_rate_centers:
+  - name: HENDERSNVL
+    distance_km: 8.63
+  - name: WHITEHOUSE
+    distance_km: 10.2
+  - name: GOODLETSVL
+    distance_km: 11.03
+- country: US
+  region: TN
+  name: Sharon
+  lat: '36.2349'
+  long: "-88.8252"
+  nearby_rate_centers:
+  - name: SHARON
+    distance_km: 0.38
+  - name: SIDONIA
+    distance_km: 6.79
+  - name: GREENFIELD
+    distance_km: 8.97
+- country: US
+  region: TN
+  name: Shelbyville
+  lat: '35.4987'
+  long: "-86.4517"
+  nearby_rate_centers:
+  - name: SHELBYVL
+    distance_km: 1.64
+  - name: WARTRACE
+    distance_km: 11.5
+  - name: FLAT CREEK
+    distance_km: 12.69
+- country: US
+  region: TN
+  name: Sherwood
+  lat: '35.0749'
+  long: "-85.9259"
+  nearby_rate_centers:
+  - name: SEWANEE
+    distance_km: 13.94
+  - name: MONTEAGLE
+    distance_km: 20.41
+  - name: SO PITTSBG
+    distance_km: 20.85
+- country: US
+  region: TN
+  name: Shiloh
+  lat: '35.1104'
+  long: "-88.3638"
+  nearby_rate_centers:
+  - name: SHILOH
+    distance_km: 10.37
+  - name: MICHIE
+    distance_km: 11.01
+  - name: ADAMSVILLE
+    distance_km: 14.05
+- country: US
+  region: TN
+  name: Signal Mountain
+  lat: '35.1448'
+  long: "-85.3457"
+  nearby_rate_centers:
+  - name: CHATTNOOGA
+    distance_km: 11.97
+  - name: WHITWELL
+    distance_km: 16.85
+  - name: SODDYDAISY
+    distance_km: 17.99
+- country: US
+  region: TN
+  name: Silerton
+  lat: '35.3424'
+  long: "-88.8098"
+  nearby_rate_centers:
+  - name: BOLIVAR
+    distance_km: 18.09
+  - name: HENDERSON
+    distance_km: 18.99
+  - name: BETHEL SPG
+    distance_km: 22.03
+- country: US
+  region: TN
+  name: Slayden
+  lat: '36.2913'
+  long: "-87.4656"
+  nearby_rate_centers:
+  - name: VANLEER
+    distance_km: 6.87
+  - name: W VANLEER
+    distance_km: 6.87
+  - name: CUNNINGHAM
+    distance_km: 10.91
+  - name: SCUNNINGHA
+    distance_km: 10.91
+  - name: PALMYRA
+    distance_km: 15.99
+- country: US
+  region: TN
+  name: Smithville
+  lat: '35.9584'
+  long: "-85.8211"
+  nearby_rate_centers:
+  - name: SMITHVILLE
+    distance_km: 0.88
+  - name: LIBERTY
+    distance_km: 14.1
+  - name: TEMPERANCE HALL
+    distance_km: 15.64
+- country: US
+  region: TN
+  name: Smyrna
+  lat: '35.9687'
+  long: "-86.5264"
+  nearby_rate_centers:
+  - name: SMYRNA
+    distance_km: 1.87
+  - name: LAVERGNE
+    distance_km: 7.54
+  - name: LAVERGNE (DAVIDSON)
+    distance_km: 7.54
+  - name: NOLENSVILLE (DAVIDSON)
+    distance_km: 12.83
+  - name: NOLENSVL
+    distance_km: 12.83
+- country: US
+  region: TN
+  name: Sneedville
+  lat: '36.5366'
+  long: "-83.2098"
+  nearby_rate_centers:
+  - name: SNEEDVILLE
+    distance_km: 0.74
+  - name: ROGERSVL
+    distance_km: 22.74
+  - name: BEAN STATN
+    distance_km: 22.93
+- country: US
+  region: TN
+  name: Soddy-Daisy
+  lat: '35.2571'
+  long: "-85.1739"
+  nearby_rate_centers:
+  - name: SODDYDAISY
+    distance_km: 2.06
+  - name: GEORGETOWN
+    distance_km: 21.12
+  - name: OOLTEWAH
+    distance_km: 22.73
+- country: US
+  region: TN
+  name: Somerville
+  lat: '35.2352'
+  long: "-89.3869"
+  nearby_rate_centers:
+  - name: SOMERVILLE
+    distance_km: 3.45
+  - name: MOSCOW
+    distance_km: 19.52
+  - name: MASON
+    distance_km: 23.32
+  - name: MASON (TIPTON)
+    distance_km: 23.32
+- country: US
+  region: TN
+  name: South Carthage
+  lat: '36.2414'
+  long: "-85.9575"
+  nearby_rate_centers:
+  - name: CARTHAGE
+    distance_km: 1.36
+  - name: GORDONSVILLE
+    distance_km: 7.43
+  - name: DEFEATED
+    distance_km: 9.55
+- country: US
+  region: TN
+  name: South Cleveland
+  lat: '35.1096'
+  long: "-84.9097"
+  nearby_rate_centers:
+  - name: CLEVELAND
+    distance_km: 6.61
+  - name: COLLEGEDL
+    distance_km: 13.19
+  - name: OOLTEWAH
+    distance_km: 13.88
+- country: US
+  region: TN
+  name: South Fulton
+  lat: '36.4931'
+  long: "-88.8835"
+  nearby_rate_centers:
+  - name: SO FULTON
+    distance_km: 1.11
+  - name: MARTIN
+    distance_km: 16.22
+  - name: UNION CITY
+    distance_km: 16.54
+- country: US
+  region: TN
+  name: South Pittsburg
+  lat: '35.0111'
+  long: "-85.7183"
+  nearby_rate_centers:
+  - name: SO PITTSBG
+    distance_km: 1.31
+  - name: JASPER
+    distance_km: 10.88
+  - name: SEWANEE
+    distance_km: 27.58
+- country: US
+  region: TN
+  name: Sparta
+  lat: '35.9347'
+  long: "-85.4726"
+  nearby_rate_centers:
+  - name: SPARTA
+    distance_km: 1.34
+  - name: SPARTA RL
+    distance_km: 1.34
+  - name: OLD ZION
+    distance_km: 8.9
+  - name: DOYLE
+    distance_km: 10.06
+- country: US
+  region: TN
+  name: Spencer
+  lat: '35.7393'
+  long: "-85.4560"
+  nearby_rate_centers:
+  - name: SPENCER
+    distance_km: 1.13
+  - name: DOYLE
+    distance_km: 13.56
+  - name: ROCKISLAND
+    distance_km: 16.1
+- country: US
+  region: TN
+  name: Spring City
+  lat: '35.6881'
+  long: "-84.8622"
+  nearby_rate_centers:
+  - name: SPRINGCITY
+    distance_km: 0.74
+  - name: DECATUR
+    distance_km: 20.47
+  - name: NINE MILE
+    distance_km: 21.48
+- country: US
+  region: TN
+  name: Spring Hill
+  lat: '35.7437'
+  long: "-86.9116"
+  nearby_rate_centers:
+  - name: NSPRINGHIL
+    distance_km: 2.13
+  - name: SPRINGHILL
+    distance_km: 2.13
+  - name: COLUMBIA
+    distance_km: 18.64
+  - name: SANTA FE
+    distance_km: 19.24
+- country: US
+  region: TN
+  name: Springfield
+  lat: '36.4949'
+  long: "-86.8711"
+  nearby_rate_centers:
+  - name: SPRINGFLD
+    distance_km: 2.34
+  - name: GREENBRIER
+    distance_km: 9.47
+  - name: ADMSCDARHL
+    distance_km: 18.08
+- country: US
+  region: TN
+  name: Spurgeon
+  lat: '36.4430'
+  long: "-82.4621"
+  nearby_rate_centers:
+  - name: MIDWAY
+    distance_km: 1.19
+  - name: MIDWAY SUL
+    distance_km: 1.19
+  - name: SULIVNGDNS
+    distance_km: 12.12
+  - name: FALLBRANCH
+    distance_km: 14.39
+- country: US
+  region: TN
+  name: St. Joseph
+  lat: '35.0331'
+  long: "-87.5007"
+  nearby_rate_centers:
+  - name: ST JOSEPH
+    distance_km: 1.38
+  - name: LORETTO
+    distance_km: 7.58
+  - name: FIVEPOINTS
+    distance_km: 15.65
+- country: US
+  region: TN
+  name: Stanton
+  lat: '35.4613'
+  long: "-89.4012"
+  nearby_rate_centers:
+  - name: STANTON
+    distance_km: 0.42
+  - name: MASON
+    distance_km: 13.05
+  - name: MASON (TIPTON)
+    distance_km: 13.05
+  - name: BROWNSVL
+    distance_km: 20.37
+- country: US
+  region: TN
+  name: Stantonville
+  lat: '35.1569'
+  long: "-88.4302"
+  nearby_rate_centers:
+  - name: ADAMSVILLE
+    distance_km: 9.3
+  - name: MICHIE
+    distance_km: 13.02
+  - name: SELMER
+    distance_km: 15.46
+- country: US
+  region: TN
+  name: Statesville
+  lat: '36.0198'
+  long: "-86.1206"
+  nearby_rate_centers:
+  - name: AUBURNTOWN
+    distance_km: 7.87
+  - name: WATERTOWN
+    distance_km: 9.29
+  - name: ALEXANDRIA
+    distance_km: 10.7
+  - name: ALEXANDRIA (WILSON)
+    distance_km: 10.7
+- country: US
+  region: TN
+  name: Strawberry Plains
+  lat: '36.0632'
+  long: "-83.6594"
+  nearby_rate_centers:
+  - name: MASCOT
+    distance_km: 7.16
+  - name: JEFFERSNCY
+    distance_km: 15.8
+  - name: DANDRIDGE
+    distance_km: 22.57
+- country: US
+  region: TN
+  name: Sullivan Gardens
+  lat: '36.4877'
+  long: "-82.5912"
+  nearby_rate_centers:
+  - name: SULIVNGDNS
+    distance_km: 1.48
+  - name: KINGSPORT
+    distance_km: 7.43
+  - name: FALLBRANCH
+    distance_km: 8.13
+- country: US
+  region: TN
+  name: Summertown
+  lat: '35.4344'
+  long: "-87.3084"
+  nearby_rate_centers:
+  - name: SUMMERTOWN
+    distance_km: 1.52
+  - name: ETHRIDGE
+    distance_km: 12.01
+  - name: MTPLEASANT
+    distance_km: 13.63
+- country: US
+  region: TN
+  name: Sunbright
+  lat: '36.2428'
+  long: "-84.6798"
+  nearby_rate_centers:
+  - name: SUNBRIGHT
+    distance_km: 0.99
+  - name: DEER LODGE
+    distance_km: 9.14
+  - name: ROBBINS
+    distance_km: 14.14
+- country: US
+  region: TN
+  name: Surgoinsville
+  lat: '36.4745'
+  long: "-82.8593"
+  nearby_rate_centers:
+  - name: SURGOINSVL
+    distance_km: 0.87
+  - name: CHURCHHILL
+    distance_km: 14.29
+  - name: ROGERSVL
+    distance_km: 15.43
+- country: US
+  region: TN
+  name: Sweetwater
+  lat: '35.6029'
+  long: "-84.4716"
+  nearby_rate_centers:
+  - name: SWEETWATER
+    distance_km: 0.66
+  - name: WESTSWEETW
+    distance_km: 0.66
+  - name: NIOTA
+    distance_km: 11.71
+  - name: MADISONVL
+    distance_km: 13.39
+- country: US
+  region: TN
+  name: Taft
+  lat: '35.0261'
+  long: "-86.7176"
+  nearby_rate_centers:
+  - name: BLANCHE
+    distance_km: 4.02
+  - name: ARDMORE
+    distance_km: 12.32
+  - name: ELKTON
+    distance_km: 16.09
+- country: US
+  region: TN
+  name: Tazewell
+  lat: '36.4625'
+  long: "-83.5669"
+  nearby_rate_centers:
+  - name: NEWTAZWELL
+    distance_km: 3.65
+  - name: CUMBERLDGP
+    distance_km: 17.49
+  - name: WASHBURN
+    distance_km: 19.07
+- country: US
+  region: TN
+  name: Telford
+  lat: '36.2534'
+  long: "-82.5478"
+  nearby_rate_centers:
+  - name: JONESBORO
+    distance_km: 6.04
+  - name: LIMESTONE
+    distance_km: 8.03
+  - name: ERWIN
+    distance_km: 17.29
+- country: US
+  region: TN
+  name: Tellico Plains
+  lat: '35.3665'
+  long: "-84.2982"
+  nearby_rate_centers:
+  - name: TELLICO PL
+    distance_km: 0.81
+  - name: COKERCREEK
+    distance_km: 12.08
+  - name: BALL PLAY
+    distance_km: 13.59
+- country: US
+  region: TN
+  name: Tellico Village
+  lat: '35.6984'
+  long: "-84.2641"
+  nearby_rate_centers:
+  - name: LOUDON
+    distance_km: 7.37
+  - name: GREENBACK
+    distance_km: 9.99
+  - name: LENOIRCITY
+    distance_km: 10.59
+- country: US
+  region: TN
+  name: Tennessee Ridge
+  lat: '36.3194'
+  long: "-87.7631"
+  nearby_rate_centers:
+  - name: TENNESSRDG
+    distance_km: 1.51
+  - name: ERIN
+    distance_km: 6.29
+  - name: CUMBERLDCY
+    distance_km: 14.06
+- country: US
+  region: TN
+  name: Thompson's Station
+  lat: '35.8106'
+  long: "-86.9003"
+  nearby_rate_centers:
+  - name: NSPRINGHIL
+    distance_km: 7.61
+  - name: SPRINGHILL
+    distance_km: 7.61
+  - name: FRANKLIN
+    distance_km: 12.78
+  - name: COLLEGEGRV
+    distance_km: 20.67
+- country: US
+  region: TN
+  name: Three Way
+  lat: '35.7720'
+  long: "-88.8572"
+  nearby_rate_centers:
+  - name: HUMBOLDT
+    distance_km: 7.84
+  - name: MEDINA
+    distance_km: 8.89
+  - name: GIBSON
+    distance_km: 11.49
+- country: US
+  region: TN
+  name: Tiptonville
+  lat: '36.3871'
+  long: "-89.4712"
+  nearby_rate_centers:
+  - name: TIPTONVL
+    distance_km: 1.49
+  - name: RIDGELY
+    distance_km: 13.17
+  - name: HORNBEAK
+    distance_km: 16.54
+- country: US
+  region: TN
+  name: Toone
+  lat: '35.3565'
+  long: "-88.9542"
+  nearby_rate_centers:
+  - name: BOLIVAR
+    distance_km: 11.08
+  - name: WESTWHITEV
+    distance_km: 18.03
+  - name: WHITEVILLE
+    distance_km: 18.03
+  - name: HENDERSON
+    distance_km: 30.0
+- country: US
+  region: TN
+  name: Townsend
+  lat: '35.6763'
+  long: "-83.7529"
+  nearby_rate_centers:
+  - name: MARYVILLE
+    distance_km: 21.17
+  - name: GATLINBURG
+    distance_km: 22.44
+  - name: SEVIERVL
+    distance_km: 27.16
+- country: US
+  region: TN
+  name: Tracy City
+  lat: '35.2620'
+  long: "-85.7515"
+  nearby_rate_centers:
+  - name: TRACY CITY
+    distance_km: 1.6
+  - name: MONTEAGLE
+    distance_km: 7.89
+  - name: PELHAM
+    distance_km: 12.31
+- country: US
+  region: TN
+  name: Trenton
+  lat: '35.9689'
+  long: "-88.9450"
+  nearby_rate_centers:
+  - name: TRENTON
+    distance_km: 0.61
+  - name: BRAZIL
+    distance_km: 11.49
+  - name: DYER
+    distance_km: 11.8
+- country: US
+  region: TN
+  name: Trezevant
+  lat: '36.0110'
+  long: "-88.6206"
+  nearby_rate_centers:
+  - name: TREZEVANT
+    distance_km: 0.52
+  - name: ATWOOD
+    distance_km: 6.23
+  - name: MILAN
+    distance_km: 16.09
+- country: US
+  region: TN
+  name: Trimble
+  lat: '36.2020'
+  long: "-89.1879"
+  nearby_rate_centers:
+  - name: TRIMBLE
+    distance_km: 0.46
+  - name: MASON HALL
+    distance_km: 8.66
+  - name: NEWBERN
+    distance_km: 11.65
+- country: US
+  region: TN
+  name: Troy
+  lat: '36.3420'
+  long: "-89.1583"
+  nearby_rate_centers:
+  - name: TROY
+    distance_km: 0.78
+  - name: HORNBEAK
+    distance_km: 12.66
+  - name: UNION CITY
+    distance_km: 13.6
+- country: US
+  region: TN
+  name: Tuckers Crossroads
+  lat: '36.2066'
+  long: "-86.1676"
+  nearby_rate_centers:
+  - name: LEBANON
+    distance_km: 10.46
+  - name: WATERTOWN
+    distance_km: 11.94
+  - name: NORENE
+    distance_km: 17.96
+- country: US
+  region: TN
+  name: Tullahoma
+  lat: '35.3721'
+  long: "-86.2172"
+  nearby_rate_centers:
+  - name: TULLAHOMA
+    distance_km: 1.89
+  - name: NORMANDY
+    distance_km: 9.5
+  - name: ESTILL SPG
+    distance_km: 14.03
+- country: US
+  region: TN
+  name: Tusculum
+  lat: '36.1750'
+  long: "-82.7454"
+  nearby_rate_centers:
+  - name: GREENEVL
+    distance_km: 7.36
+  - name: LIMESTONE
+    distance_km: 11.74
+  - name: BAILEYTON
+    distance_km: 19.14
+- country: US
+  region: TN
+  name: Unicoi
+  lat: '36.2217'
+  long: "-82.3292"
+  nearby_rate_centers:
+  - name: JOHNSON CY
+    distance_km: 10.56
+  - name: ERWIN
+    distance_km: 11.73
+  - name: HAMPTON
+    distance_km: 15.73
+- country: US
+  region: TN
+  name: Union City
+  lat: '36.4267'
+  long: "-89.0474"
+  nearby_rate_centers:
+  - name: UNION CITY
+    distance_km: 0.19
+  - name: TROY
+    distance_km: 14.33
+  - name: SO FULTON
+    distance_km: 17.43
+- country: US
+  region: TN
+  name: Unionville
+  lat: '35.6117'
+  long: "-86.5739"
+  nearby_rate_centers:
+  - name: UNIONVILLE
+    distance_km: 4.55
+  - name: CHAPELHILL
+    distance_km: 11.65
+  - name: FOSTERVILLE (BEDFORD)
+    distance_km: 15.62
+  - name: FOSTERVL
+    distance_km: 15.62
+- country: US
+  region: TN
+  name: Valley Forge
+  lat: '36.3043'
+  long: "-82.1948"
+  nearby_rate_centers:
+  - name: HAMPTON
+    distance_km: 2.72
+  - name: ELIZABTHTN
+    distance_km: 5.37
+  - name: JOHNSON CY
+    distance_km: 14.11
+- country: US
+  region: TN
+  name: Vanleer
+  lat: '36.2358'
+  long: "-87.4446"
+  nearby_rate_centers:
+  - name: VANLEER
+    distance_km: 0.6
+  - name: W VANLEER
+    distance_km: 0.6
+  - name: CHARLOTTE
+    distance_km: 10.85
+  - name: CUNNINGHAM
+    distance_km: 14.92
+  - name: SCUNNINGHA
+    distance_km: 14.92
+- country: US
+  region: TN
+  name: Viola
+  lat: '35.5387'
+  long: "-85.8604"
+  nearby_rate_centers:
+  - name: VIOLA
+    distance_km: 0.49
+  - name: HILLSBORO
+    distance_km: 18.06
+  - name: MCMINNVL
+    distance_km: 18.39
+  - name: MCMINNVLRL
+    distance_km: 18.39
+- country: US
+  region: TN
+  name: Vonore
+  lat: '35.5977'
+  long: "-84.2364"
+  nearby_rate_centers:
+  - name: VONORE
+    distance_km: 0.87
+  - name: GREENBACK
+    distance_km: 9.15
+  - name: MADISONVL
+    distance_km: 14.79
+- country: US
+  region: TN
+  name: Walden
+  lat: '35.1635'
+  long: "-85.3098"
+  nearby_rate_centers:
+  - name: CHATTNOOGA
+    distance_km: 13.64
+  - name: SODDYDAISY
+    distance_km: 14.14
+  - name: WHITWELL
+    distance_km: 19.4
+- country: US
+  region: TN
+  name: Walland
+  lat: '35.7320'
+  long: "-83.8069"
+  nearby_rate_centers:
+  - name: MARYVILLE
+    distance_km: 14.51
+  - name: SEVIERVL
+    distance_km: 26.43
+  - name: GATLINBURG
+    distance_km: 26.85
+- country: US
+  region: TN
+  name: Walnut Grove
+  lat: '36.4890'
+  long: "-86.6057"
+  nearby_rate_centers:
+  - name: WHITEHOUSE
+    distance_km: 4.54
+  - name: CRSPLORLND
+    distance_km: 11.96
+  - name: PORTLAND
+    distance_km: 13.0
+- country: US
+  region: TN
+  name: Walnut Hill
+  lat: '36.5679'
+  long: "-82.2655"
+  nearby_rate_centers:
+  - name: BLOUNTVL
+    distance_km: 6.54
+  - name: BRISTOL
+    distance_km: 7.77
+  - name: BLUFF CITY
+    distance_km: 10.45
+- country: US
+  region: TN
+  name: Walterhill
+  lat: '35.9573'
+  long: "-86.3679"
+  nearby_rate_centers:
+  - name: MURFREESBO
+    distance_km: 11.82
+  - name: SMYRNA
+    distance_km: 13.69
+  - name: NORENE
+    distance_km: 15.62
+- country: US
+  region: TN
+  name: Wartburg
+  lat: '36.1038'
+  long: "-84.5859"
+  nearby_rate_centers:
+  - name: WARTBURG
+    distance_km: 1.25
+  - name: PETROS
+    distance_km: 12.93
+  - name: OAKDALE
+    distance_km: 13.78
+- country: US
+  region: TN
+  name: Wartrace
+  lat: '35.5253'
+  long: "-86.3301"
+  nearby_rate_centers:
+  - name: WARTRACE
+    distance_km: 1.05
+  - name: NORMANDY
+    distance_km: 10.49
+  - name: SHELBYVL
+    distance_km: 12.22
+- country: US
+  region: TN
+  name: Watauga
+  lat: '36.3687'
+  long: "-82.2919"
+  nearby_rate_centers:
+  - name: ELIZABTHTN
+    distance_km: 6.76
+  - name: JOHNSON CY
+    distance_km: 8.03
+  - name: BLUFF CITY
+    distance_km: 12.05
+- country: US
+  region: TN
+  name: Watertown
+  lat: '36.1007'
+  long: "-86.1394"
+  nearby_rate_centers:
+  - name: WATERTOWN
+    distance_km: 0.53
+  - name: ALEXANDRIA
+    distance_km: 9.94
+  - name: ALEXANDRIA (WILSON)
+    distance_km: 9.94
+  - name: NORENE
+    distance_km: 10.78
+- country: US
+  region: TN
+  name: Waverly
+  lat: '36.0939'
+  long: "-87.7847"
+  nearby_rate_centers:
+  - name: WAVERLY
+    distance_km: 1.45
+  - name: MCEWEN
+    distance_km: 13.58
+  - name: NEWJHNSNVL
+    distance_km: 16.55
+- country: US
+  region: TN
+  name: Waynesboro
+  lat: '35.3235'
+  long: "-87.7593"
+  nearby_rate_centers:
+  - name: WAYNESBORO
+    distance_km: 1.09
+  - name: COLLINWOOD
+    distance_km: 16.6
+  - name: CLIFTON
+    distance_km: 21.98
+- country: US
+  region: TN
+  name: Westmoreland
+  lat: '36.5620'
+  long: "-86.2460"
+  nearby_rate_centers:
+  - name: WESTMORELD
+    distance_km: 0.5
+  - name: BETHPAGE
+    distance_km: 10.82
+  - name: OAK GROVE
+    distance_km: 12.5
+- country: US
+  region: TN
+  name: Westpoint
+  lat: '35.1349'
+  long: "-87.5377"
+  nearby_rate_centers:
+  - name: ST JOSEPH
+    distance_km: 10.53
+  - name: LORETTO
+    distance_km: 10.61
+  - name: LEOMA
+    distance_km: 17.49
+- country: US
+  region: TN
+  name: White Bluff
+  lat: '36.1005'
+  long: "-87.2117"
+  nearby_rate_centers:
+  - name: WHITEBLUFF
+    distance_km: 1.49
+  - name: KINGSTNSPG
+    distance_km: 6.64
+  - name: CHARLOTTE
+    distance_km: 14.92
+- country: US
+  region: TN
+  name: White House
+  lat: '36.4648'
+  long: "-86.6666"
+  nearby_rate_centers:
+  - name: WHITEHOUSE
+    distance_km: 1.71
+  - name: GREENBRIER
+    distance_km: 12.38
+  - name: CRSPLORLND
+    distance_km: 12.49
+- country: US
+  region: TN
+  name: White Pine
+  lat: '36.1087'
+  long: "-83.2970"
+  nearby_rate_centers:
+  - name: WHITE PINE
+    distance_km: 1.21
+  - name: MORRISTOWN
+    distance_km: 12.04
+  - name: DANDRIDGE
+    distance_km: 14.93
+- country: US
+  region: TN
+  name: Whiteside
+  lat: '34.9946'
+  long: "-85.4868"
+  nearby_rate_centers:
+  - name: JASPER
+    distance_km: 15.62
+  - name: CHATTNOOGA
+    distance_km: 16.77
+  - name: SO PITTSBG
+    distance_km: 20.91
+- country: US
+  region: TN
+  name: Whiteville
+  lat: '35.3180'
+  long: "-89.1498"
+  nearby_rate_centers:
+  - name: WESTWHITEV
+    distance_km: 0.68
+  - name: WHITEVILLE
+    distance_km: 0.68
+  - name: BOLIVAR
+    distance_km: 16.63
+  - name: SOMERVILLE
+    distance_km: 20.03
+- country: US
+  region: TN
+  name: Whitlock
+  lat: '36.3707'
+  long: "-88.3612"
+  nearby_rate_centers:
+  - name: PURYEAR
+    distance_km: 8.21
+  - name: PARIS
+    distance_km: 8.67
+  - name: COTTAGEGRV
+    distance_km: 10.88
+- country: US
+  region: TN
+  name: Whitwell
+  lat: '35.1918'
+  long: "-85.5212"
+  nearby_rate_centers:
+  - name: WHITWELL
+    distance_km: 0.84
+  - name: JASPER
+    distance_km: 16.21
+  - name: TRACY CITY
+    distance_km: 20.77
+- country: US
+  region: TN
+  name: Wildersville
+  lat: '35.7766'
+  long: "-88.3561"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance_km: 14.45
+  - name: CEDARGROVE
+    distance_km: 20.44
+  - name: PARSONS
+    distance_km: 25.13
+- country: US
+  region: TN
+  name: Wildwood
+  lat: '35.7999'
+  long: "-83.8685"
+  nearby_rate_centers:
+  - name: MARYVILLE
+    distance_km: 9.8
+  - name: KNOXVILLE
+    distance_km: 19.52
+  - name: CONCORD
+    distance_km: 25.73
+- country: US
+  region: TN
+  name: Wildwood Lake
+  lat: '35.0893'
+  long: "-84.8512"
+  nearby_rate_centers:
+  - name: CLEVELAND
+    distance_km: 7.73
+  - name: COLLEGEDL
+    distance_km: 17.33
+  - name: APISON
+    distance_km: 17.5
+- country: US
+  region: TN
+  name: Williston
+  lat: '35.1585'
+  long: "-89.3754"
+  nearby_rate_centers:
+  - name: SOMERVILLE
+    distance_km: 9.54
+  - name: MOSCOW
+    distance_km: 11.15
+  - name: GRAND JCT
+    distance_km: 20.66
+  - name: LAGRANGE
+    distance_km: 20.66
+- country: US
+  region: TN
+  name: Winchester
+  lat: '35.1898'
+  long: "-86.1075"
+  nearby_rate_centers:
+  - name: WINCHESTER
+    distance_km: 0.91
+  - name: ESTILL SPG
+    distance_km: 8.83
+  - name: SEWANEE
+    distance_km: 17.54
+- country: US
+  region: TN
+  name: Winfield
+  lat: '36.5640'
+  long: "-84.4455"
+  nearby_rate_centers:
+  - name: ONEIDA
+    distance_km: 8.67
+  - name: HUNTSVILLE
+    distance_km: 17.78
+  - name: ROBBINS
+    distance_km: 27.31
+- country: US
+  region: TN
+  name: Woodbury
+  lat: '35.8247'
+  long: "-86.0723"
+  nearby_rate_centers:
+  - name: WOODBURY
+    distance_km: 0.3
+  - name: WOODBURY (RUTHERFORD)
+    distance_km: 0.3
+  - name: AUBURNTOWN
+    distance_km: 14.26
+  - name: WOODLAND
+    distance_km: 14.39
+- country: US
+  region: TN
+  name: Woodland Mills
+  lat: '36.4766'
+  long: "-89.1104"
+  nearby_rate_centers:
+  - name: UNION CITY
+    distance_km: 7.73
+  - name: TROY
+    distance_km: 15.91
+  - name: SO FULTON
+    distance_km: 21.16
+- country: US
+  region: TN
+  name: Wrigley
+  lat: '35.8997'
+  long: "-87.3536"
+  nearby_rate_centers:
+  - name: LYLES
+    distance_km: 3.66
+  - name: SPENCERMIL
+    distance_km: 3.66
+  - name: CENTERVL
+    distance_km: 17.14
+  - name: DICKSON
+    distance_km: 19.48
+- country: US
+  region: TN
+  name: Wynnburg
+  lat: '36.3301'
+  long: "-89.4686"
+  nearby_rate_centers:
+  - name: TIPTONVL
+    distance_km: 5.0
+  - name: RIDGELY
+    distance_km: 6.93
+  - name: HORNBEAK
+    distance_km: 15.18
+- country: US
+  region: TN
+  name: Yorkville
+  lat: '36.0976'
+  long: "-89.1183"
+  nearby_rate_centers:
+  - name: YORKVILLE
+    distance_km: 0.22
+  - name: DYER
+    distance_km: 11.7
+  - name: MASON HALL
+    distance_km: 12.33
+- country: US
+  region: TN
+  name: Yuma
+  lat: '35.8438'
+  long: "-88.3372"
+  nearby_rate_centers:
+  - name: HUNTINGDON
+    distance_km: 19.22
+  - name: CEDARGROVE
+    distance_km: 20.17
+  - name: LEXINGTON
+    distance_km: 22.11

@@ -1,0 +1,2250 @@
+---
+cities:
+- country: US
+  region: CT
+  name: Ansonia
+  lat: '41.3443'
+  long: "-73.0689"
+  nearby_rate_centers:
+  - name: ANSONIDRBY
+    distance_km: 2.83
+  - name: SEYMOUR
+    distance_km: 5.87
+  - name: HUNTINGTON
+    distance_km: 8.67
+- country: US
+  region: CT
+  name: Ball Pond
+  lat: '41.4618'
+  long: "-73.5268"
+  nearby_rate_centers:
+  - name: DANBURY
+    distance_km: 9.51
+  - name: NEWMILFORD
+    distance_km: 16.02
+  - name: NEWTOWN
+    distance_km: 19.22
+- country: US
+  region: CT
+  name: Baltic
+  lat: '41.6139'
+  long: "-72.0865"
+  nearby_rate_centers:
+  - name: JEWETTCITY
+    distance_km: 8.66
+  - name: NORWICH
+    distance_km: 9.68
+  - name: LEBANON
+    distance_km: 11.43
+- country: US
+  region: CT
+  name: Bantam
+  lat: '41.7247'
+  long: "-73.2422"
+  nearby_rate_centers:
+  - name: LITCHFIELD
+    distance_km: 4.71
+  - name: WASHINGTON
+    distance_km: 11.43
+  - name: TORRINGTON
+    distance_km: 13.18
+- country: US
+  region: CT
+  name: Bethlehem Village
+  lat: '41.6401'
+  long: "-73.2031"
+  nearby_rate_centers:
+  - name: WATERTOWN
+    distance_km: 9.27
+  - name: WASHINGTON
+    distance_km: 10.01
+  - name: WOODBURY
+    distance_km: 10.44
+- country: US
+  region: CT
+  name: Bigelow Corners
+  lat: '41.4694'
+  long: "-73.5057"
+  nearby_rate_centers:
+  - name: DANBURY
+    distance_km: 9.26
+  - name: NEWMILFORD
+    distance_km: 14.33
+  - name: NEWTOWN
+    distance_km: 17.81
+- country: US
+  region: CT
+  name: Blue Hills
+  lat: '41.8133'
+  long: "-72.6954"
+  nearby_rate_centers:
+  - name: HARTFORD
+    distance_km: 5.25
+  - name: POQUONOCK
+    distance_km: 5.46
+  - name: WINDSOR
+    distance_km: 5.46
+  - name: SIMSBURY
+    distance_km: 11.03
+- country: US
+  region: CT
+  name: Bogus Hill
+  lat: '41.5075'
+  long: "-73.4625"
+  nearby_rate_centers:
+  - name: NEWMILFORD
+    distance_km: 8.85
+  - name: DANBURY
+    distance_km: 12.49
+  - name: NEWTOWN
+    distance_km: 16.75
+- country: US
+  region: CT
+  name: Botsford
+  lat: '41.3589'
+  long: "-73.2671"
+  nearby_rate_centers:
+  - name: NEWTOWN
+    distance_km: 6.85
+  - name: REDDING
+    distance_km: 8.74
+  - name: TRUMBULL
+    distance_km: 11.32
+- country: US
+  region: CT
+  name: Branchville
+  lat: '41.2680'
+  long: "-73.4433"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance_km: 1.32
+  - name: RIDGEFIELD
+    distance_km: 5.09
+  - name: WILTON
+    distance_km: 8.36
+- country: US
+  region: CT
+  name: Branford Center
+  lat: '41.2780'
+  long: "-72.8148"
+  nearby_rate_centers:
+  - name: BRANFORD
+    distance_km: 0.25
+  - name: NEW HAVEN
+    distance_km: 9.69
+  - name: GUILFORD
+    distance_km: 11.04
+- country: US
+  region: CT
+  name: Bridgeport
+  lat: '41.1918'
+  long: "-73.1954"
+  nearby_rate_centers:
+  - name: BRIDGEPORT
+    distance_km: 1.55
+  - name: STRATFORD
+    distance_km: 4.53
+  - name: FAIRFIELD
+    distance_km: 7.81
+- country: US
+  region: CT
+  name: Bridgewater
+  lat: '41.5347'
+  long: "-73.3646"
+  nearby_rate_centers:
+  - name: NEWMILFORD
+    distance_km: 6.26
+  - name: WASHINGTON
+    distance_km: 12.39
+  - name: WOODBURY
+    distance_km: 13.23
+- country: US
+  region: CT
+  name: Bristol
+  lat: '41.6812'
+  long: "-72.9407"
+  nearby_rate_centers:
+  - name: BRISTOL
+    distance_km: 1.07
+  - name: PLAINVILLE
+    distance_km: 6.11
+  - name: SOUTHINGTN
+    distance_km: 10.36
+- country: US
+  region: CT
+  name: Broad Brook
+  lat: '41.9097'
+  long: "-72.5426"
+  nearby_rate_centers:
+  - name: WINDSORLKS
+    distance_km: 7.72
+  - name: ROCKVILLE
+    distance_km: 9.07
+  - name: ENFIELD
+    distance_km: 10.42
+- country: US
+  region: CT
+  name: Brookfield Center
+  lat: '41.4623'
+  long: "-73.3875"
+  nearby_rate_centers:
+  - name: NEWTOWN
+    distance_km: 8.73
+  - name: DANBURY
+    distance_km: 9.33
+  - name: NEWMILFORD
+    distance_km: 13.03
+- country: US
+  region: CT
+  name: Byram
+  lat: '41.0011'
+  long: "-73.6528"
+  nearby_rate_centers:
+  - name: BYRAM
+    distance_km: 1.57
+  - name: GREENWICH
+    distance_km: 3.32
+  - name: OLDGRNWICH
+    distance_km: 7.81
+- country: US
+  region: CT
+  name: Canaan
+  lat: '42.0347'
+  long: "-73.3322"
+  nearby_rate_centers:
+  - name: CANAAN
+    distance_km: 0.91
+  - name: NORFOLK
+    distance_km: 11.5
+  - name: LAKEVILLE
+    distance_km: 11.75
+- country: US
+  region: CT
+  name: Candlewood Isle
+  lat: '41.4777'
+  long: "-73.4523"
+  nearby_rate_centers:
+  - name: DANBURY
+    distance_km: 9.16
+  - name: NEWMILFORD
+    distance_km: 11.61
+  - name: NEWTOWN
+    distance_km: 14.17
+- country: US
+  region: CT
+  name: Candlewood Knolls
+  lat: '41.4791'
+  long: "-73.4636"
+  nearby_rate_centers:
+  - name: DANBURY
+    distance_km: 9.34
+  - name: NEWMILFORD
+    distance_km: 11.77
+  - name: NEWTOWN
+    distance_km: 15.07
+- country: US
+  region: CT
+  name: Candlewood Lake Club
+  lat: '41.4939'
+  long: "-73.4373"
+  nearby_rate_centers:
+  - name: NEWMILFORD
+    distance_km: 9.56
+  - name: DANBURY
+    distance_km: 11.06
+  - name: NEWTOWN
+    distance_km: 14.17
+- country: US
+  region: CT
+  name: Candlewood Orchards
+  lat: '41.4728'
+  long: "-73.4381"
+  nearby_rate_centers:
+  - name: DANBURY
+    distance_km: 8.73
+  - name: NEWMILFORD
+    distance_km: 11.87
+  - name: NEWTOWN
+    distance_km: 12.88
+- country: US
+  region: CT
+  name: Candlewood Shores
+  lat: '41.4811'
+  long: "-73.4379"
+  nearby_rate_centers:
+  - name: DANBURY
+    distance_km: 9.64
+  - name: NEWMILFORD
+    distance_km: 10.96
+  - name: NEWTOWN
+    distance_km: 13.36
+- country: US
+  region: CT
+  name: Cannondale
+  lat: '41.2161'
+  long: "-73.4252"
+  nearby_rate_centers:
+  - name: WILTON
+    distance_km: 2.61
+  - name: GEORGETOWN
+    distance_km: 4.72
+  - name: NEW CANAAN
+    distance_km: 9.49
+- country: US
+  region: CT
+  name: Canton Valley
+  lat: '41.8316'
+  long: "-72.8977"
+  nearby_rate_centers:
+  - name: CANTON
+    distance_km: 3.21
+  - name: SIMSBURY
+    distance_km: 9.63
+  - name: FARMINGTON
+    distance_km: 13.28
+- country: US
+  region: CT
+  name: Cheshire Village
+  lat: '41.5041'
+  long: "-72.8969"
+  nearby_rate_centers:
+  - name: CHESHIRE
+    distance_km: 0.46
+  - name: MERIDEN
+    distance_km: 8.24
+  - name: WALLINGFD
+    distance_km: 8.78
+  - name: YALESVILLE
+    distance_km: 8.78
+- country: US
+  region: CT
+  name: Chester Center
+  lat: '41.4018'
+  long: "-72.4578"
+  nearby_rate_centers:
+  - name: DEEP RIVER
+    distance_km: 2.42
+  - name: ESSEX
+    distance_km: 7.12
+  - name: KILLINGWTH
+    distance_km: 9.82
+- country: US
+  region: CT
+  name: Chimney Point
+  lat: '41.5025'
+  long: "-73.4414"
+  nearby_rate_centers:
+  - name: NEWMILFORD
+    distance_km: 8.71
+  - name: DANBURY
+    distance_km: 11.97
+  - name: NEWTOWN
+    distance_km: 15.05
+- country: US
+  region: CT
+  name: Coleytown
+  lat: '41.1742'
+  long: "-73.3461"
+  nearby_rate_centers:
+  - name: WESTPORT
+    distance_km: 4.02
+  - name: WILTON
+    distance_km: 7.51
+  - name: FAIRFIELD
+    distance_km: 8.86
+- country: US
+  region: CT
+  name: Collinsville
+  lat: '41.8189'
+  long: "-72.9220"
+  nearby_rate_centers:
+  - name: CANTON
+    distance_km: 1.02
+  - name: SIMSBURY
+    distance_km: 12.08
+  - name: FARMINGTON
+    distance_km: 13.15
+- country: US
+  region: CT
+  name: Compo
+  lat: '41.1225'
+  long: "-73.3516"
+  nearby_rate_centers:
+  - name: WESTPORT
+    distance_km: 1.91
+  - name: NORWALK
+    distance_km: 6.25
+  - name: FAIRFIELD
+    distance_km: 8.41
+- country: US
+  region: CT
+  name: Conning Towers Nautilus Park
+  lat: '41.3850'
+  long: "-72.0684"
+  nearby_rate_centers:
+  - name: NEW LONDON
+    distance_km: 4.26
+  - name: LEDYARD
+    distance_km: 4.94
+  - name: MYSTIC
+    distance_km: 9.14
+- country: US
+  region: CT
+  name: Cornwall
+  lat: '41.8443'
+  long: "-73.3327"
+  nearby_rate_centers:
+  - name: CORNWALL
+    distance_km: 0.39
+  - name: SHARON
+    distance_km: 12.74
+  - name: LITCHFIELD
+    distance_km: 16.01
+- country: US
+  region: CT
+  name: Cornwall Bridge
+  lat: '41.8054'
+  long: "-73.3852"
+  nearby_rate_centers:
+  - name: CORNWALL
+    distance_km: 6.49
+  - name: SHARON
+    distance_km: 11.32
+  - name: KENT
+    distance_km: 11.89
+- country: US
+  region: CT
+  name: Cos Cob
+  lat: '41.0513'
+  long: "-73.5934"
+  nearby_rate_centers:
+  - name: OLDGRNWICH
+    distance_km: 3.15
+  - name: GREENWICH
+    distance_km: 4.17
+  - name: STAMFORD
+    distance_km: 4.69
+- country: US
+  region: CT
+  name: Coventry Lake
+  lat: '41.7732'
+  long: "-72.3299"
+  nearby_rate_centers:
+  - name: COVENTRY
+    distance_km: 2.08
+  - name: STORRS
+    distance_km: 7.73
+  - name: COLUMBIA
+    distance_km: 8.93
+- country: US
+  region: CT
+  name: Crystal Lake
+  lat: '41.9334'
+  long: "-72.3812"
+  nearby_rate_centers:
+  - name: STAFFD SPG
+    distance_km: 6.24
+  - name: ROCKVILLE
+    distance_km: 9.42
+  - name: STORRS
+    distance_km: 17.94
+- country: US
+  region: CT
+  name: Danbury
+  lat: '41.4015'
+  long: "-73.4709"
+  nearby_rate_centers:
+  - name: DANBURY
+    distance_km: 1.5
+  - name: RIDGEFIELD
+    distance_km: 13.33
+  - name: REDDING
+    distance_km: 13.76
+- country: US
+  region: CT
+  name: Daniels Farm
+  lat: '41.2778'
+  long: "-73.2022"
+  nearby_rate_centers:
+  - name: TRUMBULL
+    distance_km: 2.4
+  - name: HUNTINGTON
+    distance_km: 4.79
+  - name: STRATFORD
+    distance_km: 10.07
+- country: US
+  region: CT
+  name: Danielson
+  lat: '41.8086'
+  long: "-71.8854"
+  nearby_rate_centers:
+  - name: DANIELSON
+    distance_km: 0.05
+  - name: PLAINFIELD
+    distance_km: 10.75
+  - name: PUTNAM
+    distance_km: 12.12
+- country: US
+  region: CT
+  name: Darien Downtown
+  lat: '41.0768'
+  long: "-73.4699"
+  nearby_rate_centers:
+  - name: DARIEN
+    distance_km: 0.33
+  - name: NORWALK
+    distance_km: 4.93
+  - name: STAMFORD
+    distance_km: 6.26
+- country: US
+  region: CT
+  name: Dayville
+  lat: '41.8443'
+  long: "-71.8823"
+  nearby_rate_centers:
+  - name: DANIELSON
+    distance_km: 4.0
+  - name: PUTNAM
+    distance_km: 8.3
+  - name: PLAINFIELD
+    distance_km: 14.71
+- country: US
+  region: CT
+  name: Deep River Center
+  lat: '41.3789'
+  long: "-72.4411"
+  nearby_rate_centers:
+  - name: DEEP RIVER
+    distance_km: 1.22
+  - name: ESSEX
+    distance_km: 4.32
+  - name: KILLINGWTH
+    distance_km: 10.51
+- country: US
+  region: CT
+  name: Derby
+  lat: '41.3265'
+  long: "-73.0833"
+  nearby_rate_centers:
+  - name: ANSONIDRBY
+    distance_km: 0.59
+  - name: HUNTINGTON
+    distance_km: 6.55
+  - name: SEYMOUR
+    distance_km: 7.84
+- country: US
+  region: CT
+  name: Dodgingtown
+  lat: '41.3799'
+  long: "-73.3524"
+  nearby_rate_centers:
+  - name: NEWTOWN
+    distance_km: 5.4
+  - name: REDDING
+    distance_km: 7.26
+  - name: DANBURY
+    distance_km: 8.72
+- country: US
+  region: CT
+  name: East Brooklyn
+  lat: '41.7981'
+  long: "-71.9020"
+  nearby_rate_centers:
+  - name: DANIELSON
+    distance_km: 1.83
+  - name: PLAINFIELD
+    distance_km: 9.76
+  - name: CANTERBURY
+    distance_km: 12.63
+- country: US
+  region: CT
+  name: East Village
+  lat: '41.3612'
+  long: "-73.1845"
+  nearby_rate_centers:
+  - name: HUNTINGTON
+    distance_km: 7.83
+  - name: ANSONIDRBY
+    distance_km: 8.91
+  - name: SEYMOUR
+    distance_km: 9.88
+- country: US
+  region: CT
+  name: Essex Village
+  lat: '41.3559'
+  long: "-72.3919"
+  nearby_rate_centers:
+  - name: ESSEX
+    distance_km: 0.97
+  - name: DEEP RIVER
+    distance_km: 5.11
+  - name: LYME
+    distance_km: 6.61
+- country: US
+  region: CT
+  name: Fairfield University
+  lat: '41.1590'
+  long: "-73.2571"
+  nearby_rate_centers:
+  - name: FAIRFIELD
+    distance_km: 2.53
+  - name: BRIDGEPORT
+    distance_km: 5.61
+  - name: WESTPORT
+    distance_km: 8.7
+- country: US
+  region: CT
+  name: Falls Village
+  lat: '41.9576'
+  long: "-73.3561"
+  nearby_rate_centers:
+  - name: LAKEVILLE
+    distance_km: 7.17
+  - name: CANAAN
+    distance_km: 7.89
+  - name: CORNWALL
+    distance_km: 12.67
+- country: US
+  region: CT
+  name: Fenwick
+  lat: '41.2711'
+  long: "-72.3546"
+  nearby_rate_centers:
+  - name: OLD SAYBRK
+    distance_km: 2.78
+  - name: LYME
+    distance_km: 5.47
+  - name: ESSEX
+    distance_km: 9.94
+- country: US
+  region: CT
+  name: Gales Ferry
+  lat: '41.4215'
+  long: "-72.0854"
+  nearby_rate_centers:
+  - name: LEDYARD
+    distance_km: 0.74
+  - name: NEW LONDON
+    distance_km: 7.58
+  - name: NORWICH
+    distance_km: 11.76
+- country: US
+  region: CT
+  name: Gaylordsville
+  lat: '41.6410'
+  long: "-73.4826"
+  nearby_rate_centers:
+  - name: NEWMILFORD
+    distance_km: 9.1
+  - name: KENT
+    distance_km: 9.22
+  - name: WASHINGTON
+    distance_km: 13.22
+- country: US
+  region: CT
+  name: Georgetown
+  lat: '41.2494'
+  long: "-73.4343"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance_km: 0.94
+  - name: WILTON
+    distance_km: 6.24
+  - name: RIDGEFIELD
+    distance_km: 6.72
+- country: US
+  region: CT
+  name: Glastonbury Center
+  lat: '41.7016'
+  long: "-72.6002"
+  nearby_rate_centers:
+  - name: GLASTONBY
+    distance_km: 1.11
+  - name: HARTFORD
+    distance_km: 9.86
+  - name: NEWINGTON
+    distance_km: 10.33
+- country: US
+  region: CT
+  name: Glenville
+  lat: '41.0351'
+  long: "-73.6657"
+  nearby_rate_centers:
+  - name: BYRAM
+    distance_km: 2.49
+  - name: GREENWICH
+    distance_km: 3.41
+  - name: OLDGRNWICH
+    distance_km: 8.2
+- country: US
+  region: CT
+  name: Greens Farms
+  lat: '41.1264'
+  long: "-73.3220"
+  nearby_rate_centers:
+  - name: WESTPORT
+    distance_km: 3.29
+  - name: FAIRFIELD
+    distance_km: 5.9
+  - name: NORWALK
+    distance_km: 8.72
+- country: US
+  region: CT
+  name: Groton Long Point
+  lat: '41.3144'
+  long: "-72.0087"
+  nearby_rate_centers:
+  - name: MYSTIC
+    distance_km: 5.44
+  - name: NEW LONDON
+    distance_km: 8.7
+  - name: LEDYARD
+    distance_km: 14.2
+- country: US
+  region: CT
+  name: Guilford Center
+  lat: '41.2818'
+  long: "-72.6763"
+  nearby_rate_centers:
+  - name: GUILFORD
+    distance_km: 0.67
+  - name: EAST RIVER
+    distance_km: 6.77
+  - name: MADISON
+    distance_km: 6.77
+  - name: BRANFORD
+    distance_km: 11.38
+- country: US
+  region: CT
+  name: Hartford
+  lat: '41.7661'
+  long: "-72.6834"
+  nearby_rate_centers:
+  - name: HARTFORD
+    distance_km: 0.36
+  - name: GLASTONBY
+    distance_km: 8.84
+  - name: NEWINGTON
+    distance_km: 9.19
+- country: US
+  region: CT
+  name: Hawleyville
+  lat: '41.4288'
+  long: "-73.3506"
+  nearby_rate_centers:
+  - name: NEWTOWN
+    distance_km: 4.13
+  - name: DANBURY
+    distance_km: 9.46
+  - name: REDDING
+    distance_km: 12.7
+- country: US
+  region: CT
+  name: Hazardville
+  lat: '41.9921'
+  long: "-72.5344"
+  nearby_rate_centers:
+  - name: ENFIELD
+    distance_km: 4.92
+  - name: WINDSORLKS
+    distance_km: 10.56
+  - name: ROCKVILLE
+    distance_km: 15.67
+- country: US
+  region: CT
+  name: Heritage Village
+  lat: '41.4855'
+  long: "-73.2349"
+  nearby_rate_centers:
+  - name: WOODBURY
+    distance_km: 7.16
+  - name: NEWTOWN
+    distance_km: 9.95
+  - name: NAUGATUCK
+    distance_km: 15.16
+- country: US
+  region: CT
+  name: Higganum
+  lat: '41.4905'
+  long: "-72.5580"
+  nearby_rate_centers:
+  - name: HADDAM
+    distance_km: 0.76
+  - name: MOODUS
+    distance_km: 9.23
+  - name: E HAMPTON
+    distance_km: 10.26
+- country: US
+  region: CT
+  name: Indian Field
+  lat: '41.0218'
+  long: "-73.6071"
+  nearby_rate_centers:
+  - name: GREENWICH
+    distance_km: 1.75
+  - name: OLDGRNWICH
+    distance_km: 3.4
+  - name: BYRAM
+    distance_km: 3.85
+- country: US
+  region: CT
+  name: Inglenook
+  lat: '41.5229'
+  long: "-73.4736"
+  nearby_rate_centers:
+  - name: NEWMILFORD
+    distance_km: 7.93
+  - name: DANBURY
+    distance_km: 14.27
+  - name: WASHINGTON
+    distance_km: 18.18
+- country: US
+  region: CT
+  name: Jewett City
+  lat: '41.6070'
+  long: "-71.9806"
+  nearby_rate_centers:
+  - name: JEWETTCITY
+    distance_km: 0.86
+  - name: CANTERBURY
+    distance_km: 10.09
+  - name: NORWICH
+    distance_km: 12.0
+- country: US
+  region: CT
+  name: Kellogg Point
+  lat: '41.4681'
+  long: "-73.4597"
+  nearby_rate_centers:
+  - name: DANBURY
+    distance_km: 8.1
+  - name: NEWMILFORD
+    distance_km: 12.81
+  - name: NEWTOWN
+    distance_km: 14.22
+- country: US
+  region: CT
+  name: Kensington
+  lat: '41.6284'
+  long: "-72.7686"
+  nearby_rate_centers:
+  - name: BERLIN
+    distance_km: 1.89
+  - name: NEWBRITAIN
+    distance_km: 4.54
+  - name: NEWINGTON
+    distance_km: 7.72
+- country: US
+  region: CT
+  name: Knollcrest
+  lat: '41.5012'
+  long: "-73.4669"
+  nearby_rate_centers:
+  - name: NEWMILFORD
+    distance_km: 9.64
+  - name: DANBURY
+    distance_km: 11.81
+  - name: NEWTOWN
+    distance_km: 16.62
+- country: US
+  region: CT
+  name: Lake Bungee
+  lat: '41.9542'
+  long: "-72.0652"
+  nearby_rate_centers:
+  - name: NOTHOMPSON
+    distance_km: 12.01
+  - name: PUTNAM
+    distance_km: 13.53
+  - name: STAFFD SPG
+    distance_km: 20.27
+- country: US
+  region: CT
+  name: Lake Chaffee
+  lat: '41.9389'
+  long: "-72.1961"
+  nearby_rate_centers:
+  - name: STAFFD SPG
+    distance_km: 9.57
+  - name: STORRS
+    distance_km: 15.36
+  - name: NOTHOMPSON
+    distance_km: 22.18
+- country: US
+  region: CT
+  name: Lake Pocotopaug
+  lat: '41.5960'
+  long: "-72.5100"
+  nearby_rate_centers:
+  - name: E HAMPTON
+    distance_km: 2.58
+  - name: HADDAM
+    distance_km: 11.8
+  - name: MIDDLETOWN
+    distance_km: 12.3
+- country: US
+  region: CT
+  name: Lakes East
+  lat: '41.3314'
+  long: "-73.4911"
+  nearby_rate_centers:
+  - name: RIDGEFIELD
+    distance_km: 5.36
+  - name: DANBURY
+    distance_km: 7.72
+  - name: GEORGETOWN
+    distance_km: 9.43
+- country: US
+  region: CT
+  name: Lakes West
+  lat: '41.3350'
+  long: "-73.5130"
+  nearby_rate_centers:
+  - name: RIDGEFIELD
+    distance_km: 5.8
+  - name: DANBURY
+    distance_km: 8.28
+  - name: GEORGETOWN
+    distance_km: 10.77
+- country: US
+  region: CT
+  name: Lakeside Woods
+  lat: '41.5548'
+  long: "-73.4840"
+  nearby_rate_centers:
+  - name: NEWMILFORD
+    distance_km: 6.45
+  - name: WASHINGTON
+    distance_km: 16.48
+  - name: DANBURY
+    distance_km: 17.9
+- country: US
+  region: CT
+  name: Lakeville
+  lat: '41.9595'
+  long: "-73.4485"
+  nearby_rate_centers:
+  - name: LAKEVILLE
+    distance_km: 1.04
+  - name: SHARON
+    distance_km: 9.26
+  - name: CANAAN
+    distance_km: 12.09
+- country: US
+  region: CT
+  name: Long Hill
+  lat: '41.3536'
+  long: "-72.0517"
+  nearby_rate_centers:
+  - name: NEW LONDON
+    distance_km: 3.91
+  - name: MYSTIC
+    distance_km: 7.0
+  - name: LEDYARD
+    distance_km: 8.7
+- country: US
+  region: CT
+  name: Long Hill
+  lat: '41.2666'
+  long: "-73.2283"
+  nearby_rate_centers:
+  - name: TRUMBULL
+    distance_km: 0.64
+  - name: HUNTINGTON
+    distance_km: 7.29
+  - name: BRIDGEPORT
+    distance_km: 10.25
+- country: US
+  region: CT
+  name: Lordship
+  lat: '41.1533'
+  long: "-73.1197"
+  nearby_rate_centers:
+  - name: STRATFORD
+    distance_km: 5.44
+  - name: BRIDGEPORT
+    distance_km: 6.87
+  - name: MILFORD
+    distance_km: 9.02
+- country: US
+  region: CT
+  name: Madison Center
+  lat: '41.2794'
+  long: "-72.6003"
+  nearby_rate_centers:
+  - name: EAST RIVER
+    distance_km: 0.43
+  - name: MADISON
+    distance_km: 0.43
+  - name: CLINTON
+    distance_km: 5.92
+  - name: GUILFORD
+    distance_km: 6.94
+- country: US
+  region: CT
+  name: Mamanasco Lake
+  lat: '41.3189'
+  long: "-73.5253"
+  nearby_rate_centers:
+  - name: RIDGEFIELD
+    distance_km: 4.43
+  - name: GEORGETOWN
+    distance_km: 10.15
+  - name: DANBURY
+    distance_km: 10.33
+- country: US
+  region: CT
+  name: Mansfield Center
+  lat: '41.7614'
+  long: "-72.1945"
+  nearby_rate_centers:
+  - name: WILLIMNTIC
+    distance_km: 5.59
+  - name: STORRS
+    distance_km: 6.67
+  - name: COVENTRY
+    distance_km: 9.98
+- country: US
+  region: CT
+  name: Mashantucket
+  lat: '41.4645'
+  long: "-71.9745"
+  nearby_rate_centers:
+  - name: LEDYARD
+    distance_km: 10.73
+  - name: NORWICH
+    distance_km: 11.05
+  - name: MYSTIC
+    distance_km: 12.47
+- country: US
+  region: CT
+  name: Mechanicsville
+  lat: '41.9545'
+  long: "-71.8851"
+  nearby_rate_centers:
+  - name: PUTNAM
+    distance_km: 4.74
+  - name: NOTHOMPSON
+    distance_km: 9.36
+  - name: DANIELSON
+    distance_km: 16.25
+- country: US
+  region: CT
+  name: Meriden
+  lat: '41.5369'
+  long: "-72.7946"
+  nearby_rate_centers:
+  - name: MERIDEN
+    distance_km: 1.07
+  - name: WALLINGFD
+    distance_km: 9.38
+  - name: YALESVILLE
+    distance_km: 9.38
+  - name: CHESHIRE
+    distance_km: 9.69
+- country: US
+  region: CT
+  name: Middletown
+  lat: '41.5476'
+  long: "-72.6549"
+  nearby_rate_centers:
+  - name: MIDDLETOWN
+    distance_km: 1.44
+  - name: HADDAM
+    distance_km: 9.63
+  - name: BERLIN
+    distance_km: 11.31
+- country: US
+  region: CT
+  name: 'Milford city '
+  lat: '41.2255'
+  long: "-73.0625"
+  nearby_rate_centers:
+  - name: MILFORD
+    distance_km: 0.65
+  - name: STRATFORD
+    distance_km: 7.28
+  - name: HUNTINGTON
+    distance_km: 10.7
+- country: US
+  region: CT
+  name: Mill Plain
+  lat: '41.1539'
+  long: "-73.2695"
+  nearby_rate_centers:
+  - name: FAIRFIELD
+    distance_km: 2.38
+  - name: BRIDGEPORT
+    distance_km: 6.79
+  - name: WESTPORT
+    distance_km: 7.55
+- country: US
+  region: CT
+  name: Moodus
+  lat: '41.5047'
+  long: "-72.4448"
+  nearby_rate_centers:
+  - name: MOODUS
+    distance_km: 1.17
+  - name: E HAMPTON
+    distance_km: 9.07
+  - name: HADDAM
+    distance_km: 9.72
+- country: US
+  region: CT
+  name: Moosup
+  lat: '41.7173'
+  long: "-71.8757"
+  nearby_rate_centers:
+  - name: PLAINFIELD
+    distance_km: 0.64
+  - name: CANTERBURY
+    distance_km: 8.36
+  - name: DANIELSON
+    distance_km: 10.16
+- country: US
+  region: CT
+  name: Murray
+  lat: '41.1974'
+  long: "-73.2895"
+  nearby_rate_centers:
+  - name: FAIRFIELD
+    distance_km: 7.43
+  - name: BRIDGEPORT
+    distance_km: 8.2
+  - name: WESTPORT
+    distance_km: 8.63
+- country: US
+  region: CT
+  name: Mystic
+  lat: '41.3562'
+  long: "-71.9546"
+  nearby_rate_centers:
+  - name: MYSTIC
+    distance_km: 1.18
+  - name: PAWCATUCK
+    distance_km: 10.14
+  - name: NEW LONDON
+    distance_km: 12.02
+- country: US
+  region: CT
+  name: Naugatuck
+  lat: '41.4890'
+  long: "-73.0518"
+  nearby_rate_centers:
+  - name: NAUGATUCK
+    distance_km: 0.46
+  - name: WATERBURY
+    distance_km: 7.02
+  - name: SEYMOUR
+    distance_km: 10.45
+- country: US
+  region: CT
+  name: New Britain
+  lat: '41.6759'
+  long: "-72.7862"
+  nearby_rate_centers:
+  - name: NEWBRITAIN
+    distance_km: 0.97
+  - name: NEWINGTON
+    distance_km: 5.41
+  - name: FARMINGTON
+    distance_km: 6.36
+- country: US
+  region: CT
+  name: New Canaan
+  lat: '41.1420'
+  long: "-73.4905"
+  nearby_rate_centers:
+  - name: NEW CANAAN
+    distance_km: 0.74
+  - name: DARIEN
+    distance_km: 7.17
+  - name: NORWALK
+    distance_km: 7.49
+- country: US
+  region: CT
+  name: New Hartford Center
+  lat: '41.8802'
+  long: "-72.9753"
+  nearby_rate_centers:
+  - name: CANTON
+    distance_km: 8.95
+  - name: WINSTED
+    distance_km: 9.08
+  - name: SIMSBURY
+    distance_km: 14.67
+- country: US
+  region: CT
+  name: New Haven
+  lat: '41.3113'
+  long: "-72.9246"
+  nearby_rate_centers:
+  - name: NEW HAVEN
+    distance_km: 0.77
+  - name: BRANFORD
+    distance_km: 10.01
+  - name: ANSONIDRBY
+    distance_km: 13.87
+- country: US
+  region: CT
+  name: New London
+  lat: '41.3502'
+  long: "-72.1022"
+  nearby_rate_centers:
+  - name: NEW LONDON
+    distance_km: 0.53
+  - name: LEDYARD
+    distance_km: 8.43
+  - name: NIANTIC
+    distance_km: 8.91
+- country: US
+  region: CT
+  name: New Preston
+  lat: '41.6813'
+  long: "-73.3523"
+  nearby_rate_centers:
+  - name: WASHINGTON
+    distance_km: 5.0
+  - name: KENT
+    distance_km: 11.46
+  - name: NEWMILFORD
+    distance_km: 12.55
+- country: US
+  region: CT
+  name: Niantic
+  lat: '41.3258'
+  long: "-72.1952"
+  nearby_rate_centers:
+  - name: NIANTIC
+    distance_km: 0.7
+  - name: NEW LONDON
+    distance_km: 8.66
+  - name: LYME
+    distance_km: 11.45
+- country: US
+  region: CT
+  name: Noank
+  lat: '41.3339'
+  long: "-71.9978"
+  nearby_rate_centers:
+  - name: MYSTIC
+    distance_km: 3.24
+  - name: NEW LONDON
+    distance_km: 8.7
+  - name: LEDYARD
+    distance_km: 12.89
+- country: US
+  region: CT
+  name: Noroton
+  lat: '41.0595'
+  long: "-73.4922"
+  nearby_rate_centers:
+  - name: DARIEN
+    distance_km: 2.7
+  - name: STAMFORD
+    distance_km: 3.87
+  - name: OLDGRNWICH
+    distance_km: 7.15
+- country: US
+  region: CT
+  name: Noroton Heights
+  lat: '41.0741'
+  long: "-73.4972"
+  nearby_rate_centers:
+  - name: DARIEN
+    distance_km: 2.12
+  - name: STAMFORD
+    distance_km: 4.12
+  - name: NORWALK
+    distance_km: 7.09
+- country: US
+  region: CT
+  name: North Granby
+  lat: '42.0152'
+  long: "-72.8440"
+  nearby_rate_centers:
+  - name: SIMSBURY
+    distance_km: 15.89
+  - name: WINDSORLKS
+    distance_km: 19.93
+  - name: ENFIELD
+    distance_km: 20.79
+- country: US
+  region: CT
+  name: North Grosvenor Dale
+  lat: '41.9862'
+  long: "-71.9033"
+  nearby_rate_centers:
+  - name: NOTHOMPSON
+    distance_km: 5.7
+  - name: PUTNAM
+    distance_km: 7.82
+  - name: DANIELSON
+    distance_km: 19.83
+- country: US
+  region: CT
+  name: Northford
+  lat: '41.3949'
+  long: "-72.7826"
+  nearby_rate_centers:
+  - name: WALLINGFD
+    distance_km: 7.12
+  - name: YALESVILLE
+    distance_km: 7.12
+  - name: BRANFORD
+    distance_km: 13.08
+  - name: GUILFORD
+    distance_km: 14.77
+- country: US
+  region: CT
+  name: Northwest Harwinton
+  lat: '41.7769'
+  long: "-73.0794"
+  nearby_rate_centers:
+  - name: HARWINTON
+    distance_km: 0.93
+  - name: TORRINGTON
+    distance_km: 4.73
+  - name: LITCHFIELD
+    distance_km: 10.02
+- country: US
+  region: CT
+  name: Norwalk
+  lat: '41.1144'
+  long: "-73.4215"
+  nearby_rate_centers:
+  - name: NORWALK
+    distance_km: 1.56
+  - name: DARIEN
+    distance_km: 5.83
+  - name: WESTPORT
+    distance_km: 6.02
+- country: US
+  region: CT
+  name: Norwich
+  lat: '41.5495'
+  long: "-72.0882"
+  nearby_rate_centers:
+  - name: NORWICH
+    distance_km: 2.64
+  - name: JEWETTCITY
+    distance_km: 10.31
+  - name: LEDYARD
+    distance_km: 13.77
+- country: US
+  region: CT
+  name: Oakville
+  lat: '41.5893'
+  long: "-73.0905"
+  nearby_rate_centers:
+  - name: WATERTOWN
+    distance_km: 1.71
+  - name: WATERBURY
+    distance_km: 5.57
+  - name: THOMASTON
+    distance_km: 9.32
+- country: US
+  region: CT
+  name: Old Greenwich
+  lat: '41.0254'
+  long: "-73.5692"
+  nearby_rate_centers:
+  - name: OLDGRNWICH
+    distance_km: 0.55
+  - name: STAMFORD
+    distance_km: 4.05
+  - name: GREENWICH
+    distance_km: 4.92
+- country: US
+  region: CT
+  name: Old Hill
+  lat: '41.1491'
+  long: "-73.3764"
+  nearby_rate_centers:
+  - name: WESTPORT
+    distance_km: 1.93
+  - name: NORWALK
+    distance_km: 6.54
+  - name: WILTON
+    distance_km: 6.78
+- country: US
+  region: CT
+  name: Old Mystic
+  lat: '41.3852'
+  long: "-71.9851"
+  nearby_rate_centers:
+  - name: MYSTIC
+    distance_km: 3.91
+  - name: LEDYARD
+    distance_km: 10.01
+  - name: NEW LONDON
+    distance_km: 10.08
+- country: US
+  region: CT
+  name: Old Saybrook Center
+  lat: '41.2918'
+  long: "-72.3682"
+  nearby_rate_centers:
+  - name: OLD SAYBRK
+    distance_km: 0.61
+  - name: LYME
+    distance_km: 4.15
+  - name: ESSEX
+    distance_km: 7.37
+- country: US
+  region: CT
+  name: Oronoque
+  lat: '41.2527'
+  long: "-73.1089"
+  nearby_rate_centers:
+  - name: MILFORD
+    distance_km: 5.52
+  - name: HUNTINGTON
+    distance_km: 5.89
+  - name: STRATFORD
+    distance_km: 6.56
+- country: US
+  region: CT
+  name: Oxoboxo River
+  lat: '41.4441'
+  long: "-72.1249"
+  nearby_rate_centers:
+  - name: LEDYARD
+    distance_km: 3.41
+  - name: NORWICH
+    distance_km: 10.04
+  - name: NEW LONDON
+    distance_km: 10.25
+- country: US
+  region: CT
+  name: Pawcatuck
+  lat: '41.3774'
+  long: "-71.8492"
+  nearby_rate_centers:
+  - name: PAWCATUCK
+    distance_km: 1.03
+  - name: MYSTIC
+    distance_km: 10.28
+  - name: NEW LONDON
+    distance_km: 20.97
+- country: US
+  region: CT
+  name: Pemberwick
+  lat: '41.0225'
+  long: "-73.6564"
+  nearby_rate_centers:
+  - name: BYRAM
+    distance_km: 0.89
+  - name: GREENWICH
+    distance_km: 2.41
+  - name: OLDGRNWICH
+    distance_km: 7.45
+- country: US
+  region: CT
+  name: Plainfield Village
+  lat: '41.6766'
+  long: "-71.9250"
+  nearby_rate_centers:
+  - name: CANTERBURY
+    distance_km: 4.61
+  - name: PLAINFIELD
+    distance_km: 5.49
+  - name: JEWETTCITY
+    distance_km: 9.86
+- country: US
+  region: CT
+  name: Plantsville
+  lat: '41.5832'
+  long: "-72.8919"
+  nearby_rate_centers:
+  - name: SOUTHINGTN
+    distance_km: 2.16
+  - name: WOLCOTT
+    distance_km: 6.73
+  - name: MERIDEN
+    distance_km: 8.8
+- country: US
+  region: CT
+  name: Plattsville
+  lat: '41.2260'
+  long: "-73.2591"
+  nearby_rate_centers:
+  - name: TRUMBULL
+    distance_km: 5.09
+  - name: BRIDGEPORT
+    distance_km: 7.58
+  - name: FAIRFIELD
+    distance_km: 9.96
+- country: US
+  region: CT
+  name: Pleasant Valley
+  lat: '41.9083'
+  long: "-72.9924"
+  nearby_rate_centers:
+  - name: WINSTED
+    distance_km: 6.55
+  - name: CANTON
+    distance_km: 12.37
+  - name: TORRINGTON
+    distance_km: 15.92
+- country: US
+  region: CT
+  name: Poplar Plains
+  lat: '41.1714'
+  long: "-73.3771"
+  nearby_rate_centers:
+  - name: WESTPORT
+    distance_km: 3.95
+  - name: WILTON
+    distance_km: 5.22
+  - name: NORWALK
+    distance_km: 8.68
+- country: US
+  region: CT
+  name: Poquonock Bridge
+  lat: '41.3379'
+  long: "-72.0176"
+  nearby_rate_centers:
+  - name: MYSTIC
+    distance_km: 4.46
+  - name: NEW LONDON
+    distance_km: 6.99
+  - name: LEDYARD
+    distance_km: 11.58
+- country: US
+  region: CT
+  name: Quasset Lake
+  lat: '41.9226'
+  long: "-71.9840"
+  nearby_rate_centers:
+  - name: PUTNAM
+    distance_km: 6.18
+  - name: NOTHOMPSON
+    distance_km: 11.38
+  - name: DANIELSON
+    distance_km: 15.12
+- country: US
+  region: CT
+  name: Quinebaug
+  lat: '42.0107'
+  long: "-71.9370"
+  nearby_rate_centers:
+  - name: NOTHOMPSON
+    distance_km: 1.8
+  - name: PUTNAM
+    distance_km: 10.76
+  - name: DANIELSON
+    distance_km: 22.91
+- country: US
+  region: CT
+  name: Quinnipiac University
+  lat: '41.4174'
+  long: "-72.8992"
+  nearby_rate_centers:
+  - name: WALLINGFD
+    distance_km: 8.08
+  - name: YALESVILLE
+    distance_km: 8.08
+  - name: CHESHIRE
+    distance_km: 9.64
+  - name: NEW HAVEN
+    distance_km: 12.76
+- country: US
+  region: CT
+  name: Redding Center
+  lat: '41.3067'
+  long: "-73.3831"
+  nearby_rate_centers:
+  - name: REDDING
+    distance_km: 2.62
+  - name: GEORGETOWN
+    distance_km: 6.95
+  - name: RIDGEFIELD
+    distance_km: 10.13
+- country: US
+  region: CT
+  name: Ridgebury
+  lat: '41.3570'
+  long: "-73.5267"
+  nearby_rate_centers:
+  - name: DANBURY
+    distance_km: 7.35
+  - name: RIDGEFIELD
+    distance_km: 8.44
+  - name: GEORGETOWN
+    distance_km: 13.42
+- country: US
+  region: CT
+  name: Riverside
+  lat: '41.0318'
+  long: "-73.5827"
+  nearby_rate_centers:
+  - name: OLDGRNWICH
+    distance_km: 1.23
+  - name: GREENWICH
+    distance_km: 3.87
+  - name: STAMFORD
+    distance_km: 4.46
+- country: US
+  region: CT
+  name: Riverton
+  lat: '41.9631'
+  long: "-73.0166"
+  nearby_rate_centers:
+  - name: WINSTED
+    distance_km: 6.29
+  - name: NORFOLK
+    distance_km: 15.9
+  - name: CANTON
+    distance_km: 18.73
+- country: US
+  region: CT
+  name: Rock Ridge
+  lat: '41.0345'
+  long: "-73.6484"
+  nearby_rate_centers:
+  - name: GREENWICH
+    distance_km: 2.08
+  - name: BYRAM
+    distance_km: 2.17
+  - name: OLDGRNWICH
+    distance_km: 6.75
+- country: US
+  region: CT
+  name: Rockville
+  lat: '41.8665'
+  long: "-72.4512"
+  nearby_rate_centers:
+  - name: ROCKVILLE
+    distance_km: 0.11
+  - name: MANCHESTER
+    distance_km: 11.76
+  - name: STAFFD SPG
+    distance_km: 15.09
+- country: US
+  region: CT
+  name: Route 7 Gateway
+  lat: '41.3171'
+  long: "-73.4746"
+  nearby_rate_centers:
+  - name: RIDGEFIELD
+    distance_km: 4.29
+  - name: GEORGETOWN
+    distance_km: 7.37
+  - name: DANBURY
+    distance_km: 8.85
+- country: US
+  region: CT
+  name: Sacred Heart University
+  lat: '41.2215'
+  long: "-73.2442"
+  nearby_rate_centers:
+  - name: TRUMBULL
+    distance_km: 4.92
+  - name: BRIDGEPORT
+    distance_km: 6.37
+  - name: STRATFORD
+    distance_km: 8.89
+- country: US
+  region: CT
+  name: Sail Harbor
+  lat: '41.5265'
+  long: "-73.4653"
+  nearby_rate_centers:
+  - name: NEWMILFORD
+    distance_km: 7.19
+  - name: DANBURY
+    distance_km: 14.61
+  - name: WASHINGTON
+    distance_km: 17.42
+- country: US
+  region: CT
+  name: Salmon Brook
+  lat: '41.9575'
+  long: "-72.7919"
+  nearby_rate_centers:
+  - name: SIMSBURY
+    distance_km: 9.04
+  - name: WINDSORLKS
+    distance_km: 13.6
+  - name: ENFIELD
+    distance_km: 16.91
+- country: US
+  region: CT
+  name: Sandy Hook
+  lat: '41.4128'
+  long: "-73.2440"
+  nearby_rate_centers:
+  - name: NEWTOWN
+    distance_km: 5.13
+  - name: SEYMOUR
+    distance_km: 14.12
+  - name: REDDING
+    distance_km: 14.24
+- country: US
+  region: CT
+  name: Saugatuck
+  lat: '41.1143'
+  long: "-73.3717"
+  nearby_rate_centers:
+  - name: WESTPORT
+    distance_km: 3.0
+  - name: NORWALK
+    distance_km: 4.34
+  - name: DARIEN
+    distance_km: 9.34
+- country: US
+  region: CT
+  name: Saybrook Manor
+  lat: '41.2825'
+  long: "-72.4063"
+  nearby_rate_centers:
+  - name: OLD SAYBRK
+    distance_km: 2.74
+  - name: LYME
+    distance_km: 7.32
+  - name: ESSEX
+    distance_km: 7.83
+- country: US
+  region: CT
+  name: Shelton
+  lat: '41.3060'
+  long: "-73.1383"
+  nearby_rate_centers:
+  - name: HUNTINGTON
+    distance_km: 1.51
+  - name: ANSONIDRBY
+    distance_km: 4.53
+  - name: TRUMBULL
+    distance_km: 8.54
+- country: US
+  region: CT
+  name: Sherman
+  lat: '41.5746'
+  long: "-73.4957"
+  nearby_rate_centers:
+  - name: NEWMILFORD
+    distance_km: 6.9
+  - name: WASHINGTON
+    distance_km: 16.15
+  - name: KENT
+    distance_km: 16.66
+- country: US
+  region: CT
+  name: Sherwood Manor
+  lat: '42.0101'
+  long: "-72.5667"
+  nearby_rate_centers:
+  - name: ENFIELD
+    distance_km: 2.78
+  - name: WINDSORLKS
+    distance_km: 10.35
+  - name: ROCKVILLE
+    distance_km: 18.71
+- country: US
+  region: CT
+  name: Simsbury Center
+  lat: '41.8808'
+  long: "-72.8111"
+  nearby_rate_centers:
+  - name: SIMSBURY
+    distance_km: 1.17
+  - name: CANTON
+    distance_km: 12.19
+  - name: POQUONOCK
+    distance_km: 13.92
+  - name: WINDSOR
+    distance_km: 13.92
+- country: US
+  region: CT
+  name: South Coventry
+  lat: '41.7731'
+  long: "-72.3084"
+  nearby_rate_centers:
+  - name: COVENTRY
+    distance_km: 1.72
+  - name: STORRS
+    distance_km: 6.23
+  - name: COLUMBIA
+    distance_km: 8.82
+- country: US
+  region: CT
+  name: South Wilton
+  lat: '41.1730'
+  long: "-73.4166"
+  nearby_rate_centers:
+  - name: WILTON
+    distance_km: 2.61
+  - name: WESTPORT
+    distance_km: 6.22
+  - name: NEW CANAAN
+    distance_km: 7.02
+- country: US
+  region: CT
+  name: South Windham
+  lat: '41.6850'
+  long: "-72.1845"
+  nearby_rate_centers:
+  - name: WILLIMNTIC
+    distance_km: 4.47
+  - name: LEBANON
+    distance_km: 5.33
+  - name: COLUMBIA
+    distance_km: 10.73
+- country: US
+  region: CT
+  name: South Woodstock
+  lat: '41.9312'
+  long: "-71.9555"
+  nearby_rate_centers:
+  - name: PUTNAM
+    distance_km: 4.13
+  - name: NOTHOMPSON
+    distance_km: 10.12
+  - name: DANIELSON
+    distance_km: 14.86
+- country: US
+  region: CT
+  name: Southport
+  lat: '41.1350'
+  long: "-73.2873"
+  nearby_rate_centers:
+  - name: FAIRFIELD
+    distance_km: 2.89
+  - name: WESTPORT
+    distance_km: 5.9
+  - name: BRIDGEPORT
+    distance_km: 9.08
+- country: US
+  region: CT
+  name: Southwood Acres
+  lat: '41.9582'
+  long: "-72.5726"
+  nearby_rate_centers:
+  - name: ENFIELD
+    distance_km: 4.49
+  - name: WINDSORLKS
+    distance_km: 5.77
+  - name: POQUONOCK
+    distance_km: 13.78
+  - name: WINDSOR
+    distance_km: 13.78
+- country: US
+  region: CT
+  name: Stafford Springs
+  lat: '41.9595'
+  long: "-72.3105"
+  nearby_rate_centers:
+  - name: STAFFD SPG
+    distance_km: 0.76
+  - name: ROCKVILLE
+    distance_km: 15.54
+  - name: STORRS
+    distance_km: 17.81
+- country: US
+  region: CT
+  name: Stamford
+  lat: '41.1039'
+  long: "-73.5585"
+  nearby_rate_centers:
+  - name: STAMFORD
+    distance_km: 5.94
+  - name: NEW CANAAN
+    distance_km: 7.32
+  - name: DARIEN
+    distance_km: 7.71
+- country: US
+  region: CT
+  name: Staples
+  lat: '41.1508'
+  long: "-73.3283"
+  nearby_rate_centers:
+  - name: WESTPORT
+    distance_km: 2.77
+  - name: FAIRFIELD
+    distance_km: 6.51
+  - name: NORWALK
+    distance_km: 9.52
+- country: US
+  region: CT
+  name: Stepney
+  lat: '41.3256'
+  long: "-73.2674"
+  nearby_rate_centers:
+  - name: REDDING
+    distance_km: 7.3
+  - name: TRUMBULL
+    distance_km: 7.93
+  - name: NEWTOWN
+    distance_km: 10.27
+- country: US
+  region: CT
+  name: Storrs
+  lat: '41.8083'
+  long: "-72.2514"
+  nearby_rate_centers:
+  - name: STORRS
+    distance_km: 0.37
+  - name: COVENTRY
+    distance_km: 7.64
+  - name: WILLIMNTIC
+    distance_km: 10.69
+- country: US
+  region: CT
+  name: Stratford Downtown
+  lat: '41.1989'
+  long: "-73.1276"
+  nearby_rate_centers:
+  - name: STRATFORD
+    distance_km: 1.22
+  - name: BRIDGEPORT
+    distance_km: 6.1
+  - name: MILFORD
+    distance_km: 6.22
+- country: US
+  region: CT
+  name: Suffield Depot
+  lat: '41.9843'
+  long: "-72.6465"
+  nearby_rate_centers:
+  - name: ENFIELD
+    distance_km: 4.52
+  - name: WINDSORLKS
+    distance_km: 6.11
+  - name: POQUONOCK
+    distance_km: 15.15
+  - name: WINDSOR
+    distance_km: 15.15
+- country: US
+  region: CT
+  name: Tariffville
+  lat: '41.9071'
+  long: "-72.7684"
+  nearby_rate_centers:
+  - name: SIMSBURY
+    distance_km: 4.22
+  - name: WINDSORLKS
+    distance_km: 11.61
+  - name: POQUONOCK
+    distance_km: 11.88
+  - name: WINDSOR
+    distance_km: 11.88
+- country: US
+  region: CT
+  name: Tashua
+  lat: '41.2761'
+  long: "-73.2536"
+  nearby_rate_centers:
+  - name: TRUMBULL
+    distance_km: 2.98
+  - name: HUNTINGTON
+    distance_km: 8.92
+  - name: REDDING
+    distance_km: 9.39
+- country: US
+  region: CT
+  name: Taylor Corners
+  lat: '41.4464'
+  long: "-73.5288"
+  nearby_rate_centers:
+  - name: DANBURY
+    distance_km: 8.38
+  - name: NEWMILFORD
+    distance_km: 17.52
+  - name: RIDGEFIELD
+    distance_km: 18.24
+- country: US
+  region: CT
+  name: Terramuggus
+  lat: '41.6343'
+  long: "-72.4693"
+  nearby_rate_centers:
+  - name: E HAMPTON
+    distance_km: 7.36
+  - name: COLCHESTER
+    distance_km: 13.31
+  - name: GLASTONBY
+    distance_km: 14.27
+- country: US
+  region: CT
+  name: Terryville
+  lat: '41.6784'
+  long: "-73.0064"
+  nearby_rate_centers:
+  - name: BRISTOL
+    distance_km: 5.26
+  - name: THOMASTON
+    distance_km: 5.74
+  - name: WOLCOTT
+    distance_km: 10.77
+- country: US
+  region: CT
+  name: Thompsonville
+  lat: '41.9915'
+  long: "-72.5965"
+  nearby_rate_centers:
+  - name: ENFIELD
+    distance_km: 0.48
+  - name: WINDSORLKS
+    distance_km: 7.38
+  - name: POQUONOCK
+    distance_km: 16.53
+  - name: WINDSOR
+    distance_km: 16.53
+- country: US
+  region: CT
+  name: Tokeneke
+  lat: '41.0619'
+  long: "-73.4643"
+  nearby_rate_centers:
+  - name: DARIEN
+    distance_km: 2.02
+  - name: NORWALK
+    distance_km: 5.66
+  - name: STAMFORD
+    distance_km: 6.22
+- country: US
+  region: CT
+  name: Topstone
+  lat: '41.2964'
+  long: "-73.4466"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance_km: 4.39
+  - name: RIDGEFIELD
+    distance_km: 4.72
+  - name: REDDING
+    distance_km: 8.03
+- country: US
+  region: CT
+  name: Torrington
+  lat: '41.8349'
+  long: "-73.1282"
+  nearby_rate_centers:
+  - name: TORRINGTON
+    distance_km: 3.49
+  - name: HARWINTON
+    distance_km: 8.54
+  - name: WINSTED
+    distance_km: 10.87
+- country: US
+  region: CT
+  name: Trumbull Center
+  lat: '41.2415'
+  long: "-73.1836"
+  nearby_rate_centers:
+  - name: TRUMBULL
+    distance_km: 4.03
+  - name: STRATFORD
+    distance_km: 5.84
+  - name: HUNTINGTON
+    distance_km: 6.64
+- country: US
+  region: CT
+  name: Wallingford Center
+  lat: '41.4499'
+  long: "-72.8189"
+  nearby_rate_centers:
+  - name: WALLINGFD
+    distance_km: 0.53
+  - name: YALESVILLE
+    distance_km: 0.53
+  - name: CHESHIRE
+    distance_km: 9.2
+  - name: MERIDEN
+    distance_km: 9.59
+- country: US
+  region: CT
+  name: Waterbury
+  lat: '41.5582'
+  long: "-73.0361"
+  nearby_rate_centers:
+  - name: WATERBURY
+    distance_km: 1.06
+  - name: WOLCOTT
+    distance_km: 6.05
+  - name: WATERTOWN
+    distance_km: 7.34
+- country: US
+  region: CT
+  name: Wauregan
+  lat: '41.7498'
+  long: "-71.9138"
+  nearby_rate_centers:
+  - name: PLAINFIELD
+    distance_km: 5.1
+  - name: DANIELSON
+    distance_km: 6.94
+  - name: CANTERBURY
+    distance_km: 7.6
+- country: US
+  region: CT
+  name: Weatogue
+  lat: '41.8459'
+  long: "-72.8294"
+  nearby_rate_centers:
+  - name: SIMSBURY
+    distance_km: 4.26
+  - name: CANTON
+    distance_km: 8.74
+  - name: FARMINGTON
+    distance_km: 13.45
+- country: US
+  region: CT
+  name: West Cornwall
+  lat: '41.8642'
+  long: "-73.3608"
+  nearby_rate_centers:
+  - name: CORNWALL
+    distance_km: 3.4
+  - name: SHARON
+    distance_km: 9.94
+  - name: LAKEVILLE
+    distance_km: 13.29
+- country: US
+  region: CT
+  name: West Haven
+  lat: '41.2739'
+  long: "-72.9672"
+  nearby_rate_centers:
+  - name: NEW HAVEN
+    distance_km: 4.87
+  - name: MILFORD
+    distance_km: 9.71
+  - name: ANSONIDRBY
+    distance_km: 11.67
+- country: US
+  region: CT
+  name: West Mountain
+  lat: '41.2993'
+  long: "-73.5383"
+  nearby_rate_centers:
+  - name: RIDGEFIELD
+    distance_km: 3.6
+  - name: GEORGETOWN
+    distance_km: 9.79
+  - name: DANBURY
+    distance_km: 12.75
+- country: US
+  region: CT
+  name: West Simsbury
+  lat: '41.8757'
+  long: "-72.8450"
+  nearby_rate_centers:
+  - name: SIMSBURY
+    distance_km: 3.87
+  - name: CANTON
+    distance_km: 9.78
+  - name: POQUONOCK
+    distance_km: 16.53
+  - name: WINDSOR
+    distance_km: 16.53
+- country: US
+  region: CT
+  name: Westbrook Center
+  lat: '41.2811'
+  long: "-72.4424"
+  nearby_rate_centers:
+  - name: OLD SAYBRK
+    distance_km: 5.7
+  - name: CLINTON
+    distance_km: 7.3
+  - name: ESSEX
+    distance_km: 8.64
+- country: US
+  region: CT
+  name: Weston
+  lat: '41.2033'
+  long: "-73.3788"
+  nearby_rate_centers:
+  - name: WILTON
+    distance_km: 4.61
+  - name: WESTPORT
+    distance_km: 7.36
+  - name: GEORGETOWN
+    distance_km: 7.67
+- country: US
+  region: CT
+  name: Westport Village
+  lat: '41.1428'
+  long: "-73.3609"
+  nearby_rate_centers:
+  - name: WESTPORT
+    distance_km: 0.5
+  - name: NORWALK
+    distance_km: 6.85
+  - name: WILTON
+    distance_km: 8.19
+- country: US
+  region: CT
+  name: Willimantic
+  lat: '41.7171'
+  long: "-72.2114"
+  nearby_rate_centers:
+  - name: WILLIMNTIC
+    distance_km: 0.78
+  - name: LEBANON
+    distance_km: 8.14
+  - name: COLUMBIA
+    distance_km: 8.84
+- country: US
+  region: CT
+  name: Wilton Center
+  lat: '41.1914'
+  long: "-73.4262"
+  nearby_rate_centers:
+  - name: WILTON
+    distance_km: 0.55
+  - name: NEW CANAAN
+    distance_km: 7.42
+  - name: GEORGETOWN
+    distance_km: 7.43
+- country: US
+  region: CT
+  name: Winsted
+  lat: '41.9262'
+  long: "-73.0675"
+  nearby_rate_centers:
+  - name: WINSTED
+    distance_km: 0.46
+  - name: NORFOLK
+    distance_km: 13.58
+  - name: TORRINGTON
+    distance_km: 14.39
+- country: US
+  region: CT
+  name: Witches Woods
+  lat: '41.9485'
+  long: "-72.0724"
+  nearby_rate_centers:
+  - name: NOTHOMPSON
+    distance_km: 12.87
+  - name: PUTNAM
+    distance_km: 13.92
+  - name: STAFFD SPG
+    distance_km: 19.68
+- country: US
+  region: CT
+  name: Woodbury Center
+  lat: '41.5439'
+  long: "-73.2048"
+  nearby_rate_centers:
+  - name: WOODBURY
+    distance_km: 0.29
+  - name: WATERTOWN
+    distance_km: 9.7
+  - name: WATERBURY
+    distance_km: 13.26
+- country: US
+  region: CT
+  name: Woodmont
+  lat: '41.2282'
+  long: "-72.9930"
+  nearby_rate_centers:
+  - name: MILFORD
+    distance_km: 5.58
+  - name: NEW HAVEN
+    distance_km: 10.18
+  - name: STRATFORD
+    distance_km: 12.89

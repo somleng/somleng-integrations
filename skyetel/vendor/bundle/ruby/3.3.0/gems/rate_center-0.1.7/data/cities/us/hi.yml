@@ -1,0 +1,1898 @@
+---
+cities:
+- country: US
+  region: HI
+  name: Ahuimanu
+  lat: '21.4379'
+  long: "-157.8404"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 13.95
+  - name: KAUNAKAKAI
+    distance_km: 92.82
+  - name: LANAI CITY
+    distance_km: 117.23
+- country: US
+  region: HI
+  name: Aiea
+  lat: '21.3865'
+  long: "-157.9232"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 10.14
+  - name: KAUNAKAKAI
+    distance_km: 98.64
+  - name: LANAI CITY
+    distance_km: 121.3
+- country: US
+  region: HI
+  name: Ainaloa
+  lat: '19.5215'
+  long: "-154.9944"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 25.02
+  - name: WAILUKU
+    distance_km: 222.09
+  - name: LANAI CITY
+    distance_km: 247.85
+- country: US
+  region: HI
+  name: Anahola
+  lat: '22.1455'
+  long: "-159.3151"
+  nearby_rate_centers:
+  - name: LIHUE
+    distance_km: 19.58
+  - name: HONOLULU
+    distance_km: 176.14
+  - name: KAUNAKAKAI
+    distance_km: 264.12
+- country: US
+  region: HI
+  name: Black Sands
+  lat: '19.4136'
+  long: "-154.9588"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 37.52
+  - name: WAILUKU
+    distance_km: 233.3
+  - name: LANAI CITY
+    distance_km: 258.05
+- country: US
+  region: HI
+  name: Captain Cook
+  lat: '19.4995'
+  long: "-155.8937"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 87.72
+  - name: WAILUKU
+    distance_km: 171.4
+  - name: LANAI CITY
+    distance_km: 182.26
+- country: US
+  region: HI
+  name: Discovery Harbour
+  lat: '19.0415'
+  long: "-155.6254"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 94.56
+  - name: WAILUKU
+    distance_km: 229.23
+  - name: LANAI CITY
+    distance_km: 240.14
+- country: US
+  region: HI
+  name: East Honolulu
+  lat: '21.2975'
+  long: "-157.7211"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 14.87
+  - name: KAUNAKAKAI
+    distance_km: 75.65
+  - name: LANAI CITY
+    distance_km: 98.28
+- country: US
+  region: HI
+  name: East Kapolei
+  lat: '21.3633'
+  long: "-158.0410"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 19.18
+  - name: KAUNAKAKAI
+    distance_km: 109.49
+  - name: LANAI CITY
+    distance_km: 130.73
+- country: US
+  region: HI
+  name: Eden Roc
+  lat: '19.4917'
+  long: "-155.0958"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 26.16
+  - name: WAILUKU
+    distance_km: 217.17
+  - name: LANAI CITY
+    distance_km: 241.38
+- country: US
+  region: HI
+  name: Eleele
+  lat: '21.9087'
+  long: "-159.5802"
+  nearby_rate_centers:
+  - name: LIHUE
+    distance_km: 22.85
+  - name: HONOLULU
+    distance_km: 189.38
+  - name: KAUNAKAKAI
+    distance_km: 279.47
+- country: US
+  region: HI
+  name: Ewa Beach
+  lat: '21.3181'
+  long: "-158.0073"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 14.9
+  - name: KAUNAKAKAI
+    distance_km: 104.82
+  - name: LANAI CITY
+    distance_km: 125.37
+- country: US
+  region: HI
+  name: Ewa Gentry
+  lat: '21.3344'
+  long: "-158.0262"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 17.0
+  - name: KAUNAKAKAI
+    distance_km: 107.16
+  - name: LANAI CITY
+    distance_km: 127.93
+- country: US
+  region: HI
+  name: Ewa Villages
+  lat: '21.3417'
+  long: "-158.0389"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 18.42
+  - name: KAUNAKAKAI
+    distance_km: 108.64
+  - name: LANAI CITY
+    distance_km: 129.46
+- country: US
+  region: HI
+  name: Fern Acres
+  lat: '19.5080'
+  long: "-155.0787"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 24.38
+  - name: WAILUKU
+    distance_km: 217.05
+  - name: LANAI CITY
+    distance_km: 241.68
+- country: US
+  region: HI
+  name: Fern Forest
+  lat: '19.4648'
+  long: "-155.1324"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 29.46
+  - name: WAILUKU
+    distance_km: 216.85
+  - name: LANAI CITY
+    distance_km: 240.26
+- country: US
+  region: HI
+  name: Haena
+  lat: '22.2186'
+  long: "-159.5610"
+  nearby_rate_centers:
+  - name: LIHUE
+    distance_km: 33.18
+  - name: HONOLULU
+    distance_km: 202.09
+  - name: KAUNAKAKAI
+    distance_km: 290.47
+- country: US
+  region: HI
+  name: Haiku-Pauwela
+  lat: '20.9156'
+  long: "-156.3022"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 20.87
+  - name: LANAI CITY
+    distance_km: 65.03
+  - name: KAUNAKAKAI
+    distance_km: 77.62
+- country: US
+  region: HI
+  name: Halaula
+  lat: '20.2233'
+  long: "-155.7739"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 90.15
+  - name: WAILUKU
+    distance_km: 109.3
+  - name: LANAI CITY
+    distance_km: 136.89
+- country: US
+  region: HI
+  name: Halawa
+  lat: '21.3753'
+  long: "-157.9185"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 8.86
+  - name: KAUNAKAKAI
+    distance_km: 97.78
+  - name: LANAI CITY
+    distance_km: 120.25
+- country: US
+  region: HI
+  name: Haleiwa
+  lat: '21.5965'
+  long: "-158.1003"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 39.82
+  - name: KAUNAKAKAI
+    distance_km: 124.7
+  - name: LIHUE
+    distance_km: 137.91
+- country: US
+  region: HI
+  name: Haliimaile
+  lat: '20.8671'
+  long: "-156.3381"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 18.5
+  - name: LANAI CITY
+    distance_km: 60.7
+  - name: KAUNAKAKAI
+    distance_km: 75.62
+- country: US
+  region: HI
+  name: Hana
+  lat: '20.7720'
+  long: "-156.0107"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 54.07
+  - name: LANAI CITY
+    distance_km: 94.76
+  - name: KAUNAKAKAI
+    distance_km: 111.23
+- country: US
+  region: HI
+  name: Hanalei
+  lat: '22.2041'
+  long: "-159.4977"
+  nearby_rate_centers:
+  - name: LIHUE
+    distance_km: 28.37
+  - name: HONOLULU
+    distance_km: 195.63
+  - name: KAUNAKAKAI
+    distance_km: 283.89
+- country: US
+  region: HI
+  name: Hanamaulu
+  lat: '21.9953'
+  long: "-159.3494"
+  nearby_rate_centers:
+  - name: LIHUE
+    distance_km: 3.02
+  - name: HONOLULU
+    distance_km: 171.22
+  - name: KAUNAKAKAI
+    distance_km: 260.52
+- country: US
+  region: HI
+  name: Hanapepe
+  lat: '21.9141'
+  long: "-159.5874"
+  nearby_rate_centers:
+  - name: LIHUE
+    distance_km: 23.36
+  - name: HONOLULU
+    distance_km: 190.28
+  - name: KAUNAKAKAI
+    distance_km: 280.37
+- country: US
+  region: HI
+  name: Hauula
+  lat: '21.6111'
+  long: "-157.9118"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 33.38
+  - name: KAUNAKAKAI
+    distance_km: 108.5
+  - name: LANAI CITY
+    distance_km: 134.88
+- country: US
+  region: HI
+  name: Hawaiian Acres
+  lat: '19.5324'
+  long: "-155.0498"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 22.07
+  - name: WAILUKU
+    distance_km: 217.16
+  - name: LANAI CITY
+    distance_km: 242.46
+- country: US
+  region: HI
+  name: Hawaiian Beaches
+  lat: '19.5447'
+  long: "-154.9288"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 26.5
+  - name: WAILUKU
+    distance_km: 225.21
+  - name: LANAI CITY
+    distance_km: 251.95
+- country: US
+  region: HI
+  name: Hawaiian Ocean View
+  lat: '19.0959'
+  long: "-155.7750"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 100.29
+  - name: WAILUKU
+    distance_km: 217.76
+  - name: LANAI CITY
+    distance_km: 226.52
+- country: US
+  region: HI
+  name: Hawaiian Paradise Park
+  lat: '19.5828'
+  long: "-154.9695"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 20.51
+  - name: WAILUKU
+    distance_km: 219.2
+  - name: LANAI CITY
+    distance_km: 246.04
+- country: US
+  region: HI
+  name: Hawi
+  lat: '20.2263'
+  long: "-155.8389"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 95.81
+  - name: WAILUKU
+    distance_km: 104.47
+  - name: LANAI CITY
+    distance_km: 130.85
+- country: US
+  region: HI
+  name: Heeia
+  lat: '21.4205'
+  long: "-157.8205"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 12.62
+  - name: KAUNAKAKAI
+    distance_km: 90.15
+  - name: LANAI CITY
+    distance_km: 114.43
+- country: US
+  region: HI
+  name: Helemano
+  lat: '21.5362'
+  long: "-158.0194"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 29.49
+  - name: KAUNAKAKAI
+    distance_km: 114.23
+  - name: LANAI CITY
+    distance_km: 138.67
+- country: US
+  region: HI
+  name: Hickam Housing
+  lat: '21.3311'
+  long: "-157.9474"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 8.89
+  - name: KAUNAKAKAI
+    distance_km: 99.19
+  - name: LANAI CITY
+    distance_km: 120.48
+- country: US
+  region: HI
+  name: Hilo
+  lat: '19.6883'
+  long: "-155.0863"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 4.33
+  - name: WAILUKU
+    distance_km: 202.25
+  - name: LANAI CITY
+    distance_km: 229.33
+- country: US
+  region: HI
+  name: Holualoa
+  lat: '19.6548'
+  long: "-155.9207"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 87.15
+  - name: WAILUKU
+    distance_km: 154.35
+  - name: LANAI CITY
+    distance_km: 166.79
+- country: US
+  region: HI
+  name: Honalo
+  lat: '19.5810'
+  long: "-155.8985"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 86.02
+  - name: WAILUKU
+    distance_km: 162.81
+  - name: LANAI CITY
+    distance_km: 174.69
+- country: US
+  region: HI
+  name: Honaunau-Napoopoo
+  lat: '19.4538'
+  long: "-155.8588"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 85.9
+  - name: WAILUKU
+    distance_km: 177.47
+  - name: LANAI CITY
+    distance_km: 188.52
+- country: US
+  region: HI
+  name: Honokaa
+  lat: '20.0776'
+  long: "-155.4644"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 55.12
+  - name: WAILUKU
+    distance_km: 143.86
+  - name: LANAI CITY
+    distance_km: 172.99
+- country: US
+  region: HI
+  name: Honolulu
+  lat: '21.3294'
+  long: "-157.8460"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 2.47
+  - name: KAUNAKAKAI
+    distance_km: 89.06
+  - name: LANAI CITY
+    distance_km: 111.19
+- country: US
+  region: HI
+  name: Honomu
+  lat: '19.8697'
+  long: "-155.1123"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 16.02
+  - name: WAILUKU
+    distance_km: 186.87
+  - name: LANAI CITY
+    distance_km: 216.4
+- country: US
+  region: HI
+  name: Iroquois Point
+  lat: '21.3218'
+  long: "-157.9803"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 12.13
+  - name: KAUNAKAKAI
+    distance_km: 102.21
+  - name: LANAI CITY
+    distance_km: 123.04
+- country: US
+  region: HI
+  name: Kaaawa
+  lat: '21.5485'
+  long: "-157.8534"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 26.07
+  - name: KAUNAKAKAI
+    distance_km: 99.72
+  - name: LANAI CITY
+    distance_km: 125.79
+- country: US
+  region: HI
+  name: Kaanapali
+  lat: '20.9277'
+  long: "-156.6794"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 18.39
+  - name: LANAI CITY
+    distance_km: 27.52
+  - name: KAUNAKAKAI
+    distance_km: 40.26
+- country: US
+  region: HI
+  name: Kahaluu
+  lat: '21.4575'
+  long: "-157.8453"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 16.04
+  - name: KAUNAKAKAI
+    distance_km: 94.21
+  - name: LANAI CITY
+    distance_km: 118.92
+- country: US
+  region: HI
+  name: Kahaluu-Keauhou
+  lat: '19.5669'
+  long: "-155.9533"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 91.96
+  - name: WAILUKU
+    distance_km: 162.15
+  - name: LANAI CITY
+    distance_km: 172.53
+- country: US
+  region: HI
+  name: Kahuku
+  lat: '21.6793'
+  long: "-157.9473"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 41.51
+  - name: KAUNAKAKAI
+    distance_km: 115.72
+  - name: LANAI CITY
+    distance_km: 142.62
+- country: US
+  region: HI
+  name: Kahului
+  lat: '20.8715'
+  long: "-156.4603"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 7.95
+  - name: LANAI CITY
+    distance_km: 48.1
+  - name: KAUNAKAKAI
+    distance_km: 63.57
+- country: US
+  region: HI
+  name: Kailua
+  lat: '21.3920'
+  long: "-157.7396"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 15.47
+  - name: KAUNAKAKAI
+    distance_km: 81.21
+  - name: LANAI CITY
+    distance_km: 105.79
+- country: US
+  region: HI
+  name: Kalaeloa
+  lat: '21.3136'
+  long: "-158.0650"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 20.87
+  - name: KAUNAKAKAI
+    distance_km: 110.52
+  - name: LANAI CITY
+    distance_km: 130.58
+- country: US
+  region: HI
+  name: Kalaheo
+  lat: '21.9159'
+  long: "-159.5236"
+  nearby_rate_centers:
+  - name: LIHUE
+    distance_km: 17.12
+  - name: HONOLULU
+    distance_km: 184.19
+  - name: KAUNAKAKAI
+    distance_km: 274.2
+- country: US
+  region: HI
+  name: Kalapana
+  lat: '19.3566'
+  long: "-154.9752"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 42.95
+  - name: WAILUKU
+    distance_km: 236.79
+  - name: LANAI CITY
+    distance_km: 260.64
+- country: US
+  region: HI
+  name: Kalihiwai
+  lat: '22.2165'
+  long: "-159.4405"
+  nearby_rate_centers:
+  - name: LIHUE
+    distance_km: 27.53
+  - name: HONOLULU
+    distance_km: 191.27
+  - name: KAUNAKAKAI
+    distance_km: 279.19
+- country: US
+  region: HI
+  name: Kaloko
+  lat: '19.7216'
+  long: "-155.9505"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 89.88
+  - name: WAILUKU
+    distance_km: 146.29
+  - name: LANAI CITY
+    distance_km: 159.05
+- country: US
+  region: HI
+  name: Kamaili
+  lat: '19.4391'
+  long: "-154.9189"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 36.78
+  - name: WAILUKU
+    distance_km: 234.17
+  - name: LANAI CITY
+    distance_km: 259.66
+- country: US
+  region: HI
+  name: Kaneohe
+  lat: '21.4062'
+  long: "-157.7904"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 12.72
+  - name: KAUNAKAKAI
+    distance_km: 86.66
+  - name: LANAI CITY
+    distance_km: 110.97
+- country: US
+  region: HI
+  name: Kapaa
+  lat: '22.0910'
+  long: "-159.3521"
+  nearby_rate_centers:
+  - name: LIHUE
+    distance_km: 12.79
+  - name: HONOLULU
+    distance_km: 176.38
+  - name: KAUNAKAKAI
+    distance_km: 264.99
+- country: US
+  region: HI
+  name: Kapaau
+  lat: '20.2340'
+  long: "-155.8028"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 93.27
+  - name: WAILUKU
+    distance_km: 106.36
+  - name: LANAI CITY
+    distance_km: 133.68
+- country: US
+  region: HI
+  name: Kapalua
+  lat: '20.9959'
+  long: "-156.6418"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 16.16
+  - name: LANAI CITY
+    distance_km: 34.62
+  - name: KAUNAKAKAI
+    distance_km: 41.24
+- country: US
+  region: HI
+  name: Kapolei
+  lat: '21.3399'
+  long: "-158.0677"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 21.34
+  - name: KAUNAKAKAI
+    distance_km: 111.48
+  - name: LANAI CITY
+    distance_km: 132.06
+- country: US
+  region: HI
+  name: Kaumakani
+  lat: '21.9187'
+  long: "-159.6240"
+  nearby_rate_centers:
+  - name: LIHUE
+    distance_km: 26.85
+  - name: HONOLULU
+    distance_km: 194.0
+  - name: KAUNAKAKAI
+    distance_km: 284.11
+- country: US
+  region: HI
+  name: Kaunakakai
+  lat: '21.0905'
+  long: "-156.9981"
+  nearby_rate_centers:
+  - name: KAUNAKAKAI
+    distance_km: 2.93
+  - name: LANAI CITY
+    distance_km: 30.58
+  - name: WAILUKU
+    distance_km: 54.42
+- country: US
+  region: HI
+  name: Kawela Bay
+  lat: '21.6991'
+  long: "-158.0026"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 45.15
+  - name: KAUNAKAKAI
+    distance_km: 121.69
+  - name: LIHUE
+    distance_km: 144.63
+- country: US
+  region: HI
+  name: Keaau
+  lat: '19.6233'
+  long: "-155.0483"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 12.39
+  - name: WAILUKU
+    distance_km: 210.12
+  - name: LANAI CITY
+    distance_km: 236.69
+- country: US
+  region: HI
+  name: Kealakekua
+  lat: '19.5286'
+  long: "-155.9112"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 88.61
+  - name: WAILUKU
+    distance_km: 167.71
+  - name: LANAI CITY
+    distance_km: 178.56
+- country: US
+  region: HI
+  name: Kekaha
+  lat: '21.9684'
+  long: "-159.7141"
+  nearby_rate_centers:
+  - name: LIHUE
+    distance_km: 35.35
+  - name: HONOLULU
+    distance_km: 204.63
+  - name: KAUNAKAKAI
+    distance_km: 294.68
+- country: US
+  region: HI
+  name: Keokea
+  lat: '20.7211'
+  long: "-156.3625"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 27.51
+  - name: LANAI CITY
+    distance_km: 59.16
+  - name: KAUNAKAKAI
+    distance_km: 80.21
+- country: US
+  region: HI
+  name: Kihei
+  lat: '20.7653'
+  long: "-156.4454"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 19.37
+  - name: LANAI CITY
+    distance_km: 49.84
+  - name: KAUNAKAKAI
+    distance_km: 70.29
+- country: US
+  region: HI
+  name: Kilauea
+  lat: '22.2108'
+  long: "-159.3965"
+  nearby_rate_centers:
+  - name: LIHUE
+    distance_km: 26.09
+  - name: HONOLULU
+    distance_km: 187.08
+  - name: KAUNAKAKAI
+    distance_km: 274.85
+- country: US
+  region: HI
+  name: Ko Olina
+  lat: '21.3378'
+  long: "-158.1188"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 26.57
+  - name: KAUNAKAKAI
+    distance_km: 116.56
+  - name: LANAI CITY
+    distance_km: 136.76
+- country: US
+  region: HI
+  name: Koloa
+  lat: '21.9031'
+  long: "-159.4611"
+  nearby_rate_centers:
+  - name: LIHUE
+    distance_km: 12.4
+  - name: HONOLULU
+    distance_km: 177.66
+  - name: KAUNAKAKAI
+    distance_km: 267.65
+- country: US
+  region: HI
+  name: Kualapuu
+  lat: '21.1564'
+  long: "-157.0591"
+  nearby_rate_centers:
+  - name: KAUNAKAKAI
+    distance_km: 8.17
+  - name: LANAI CITY
+    distance_km: 39.53
+  - name: WAILUKU
+    distance_km: 62.97
+- country: US
+  region: HI
+  name: Kukuihaele
+  lat: '20.1195'
+  long: "-155.5654"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 66.01
+  - name: WAILUKU
+    distance_km: 132.91
+  - name: LANAI CITY
+    distance_km: 161.51
+- country: US
+  region: HI
+  name: Kula
+  lat: '20.7706'
+  long: "-156.3284"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 25.41
+  - name: LANAI CITY
+    distance_km: 61.85
+  - name: KAUNAKAKAI
+    distance_km: 80.7
+- country: US
+  region: HI
+  name: Kurtistown
+  lat: '19.5860'
+  long: "-155.0713"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 15.82
+  - name: WAILUKU
+    distance_km: 211.32
+  - name: LANAI CITY
+    distance_km: 237.11
+- country: US
+  region: HI
+  name: Lahaina
+  lat: '20.8848'
+  long: "-156.6618"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 17.34
+  - name: LANAI CITY
+    distance_km: 27.69
+  - name: KAUNAKAKAI
+    distance_km: 44.17
+- country: US
+  region: HI
+  name: Laie
+  lat: '21.6442'
+  long: "-157.9279"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 37.29
+  - name: KAUNAKAKAI
+    distance_km: 111.89
+  - name: LANAI CITY
+    distance_km: 138.54
+- country: US
+  region: HI
+  name: Lanai City
+  lat: '20.8279'
+  long: "-156.9147"
+  nearby_rate_centers:
+  - name: LANAI CITY
+    distance_km: 0.68
+  - name: KAUNAKAKAI
+    distance_km: 31.33
+  - name: WAILUKU
+    distance_km: 44.35
+- country: US
+  region: HI
+  name: Launiupoko
+  lat: '20.8541'
+  long: "-156.6424"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 16.88
+  - name: LANAI CITY
+    distance_km: 29.08
+  - name: KAUNAKAKAI
+    distance_km: 47.7
+- country: US
+  region: HI
+  name: Laupahoehoe
+  lat: '19.9723'
+  long: "-155.2345"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 31.1
+  - name: WAILUKU
+    distance_km: 169.76
+  - name: LANAI CITY
+    distance_km: 199.68
+- country: US
+  region: HI
+  name: Lawai
+  lat: '21.9204'
+  long: "-159.5006"
+  nearby_rate_centers:
+  - name: LIHUE
+    distance_km: 14.75
+  - name: HONOLULU
+    distance_km: 182.16
+  - name: KAUNAKAKAI
+    distance_km: 272.13
+- country: US
+  region: HI
+  name: Leilani Estates
+  lat: '19.4659'
+  long: "-154.9157"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 34.39
+  - name: WAILUKU
+    distance_km: 232.3
+  - name: LANAI CITY
+    distance_km: 258.16
+- country: US
+  region: HI
+  name: Lihue
+  lat: '21.9721'
+  long: "-159.3564"
+  nearby_rate_centers:
+  - name: LIHUE
+    distance_km: 1.65
+  - name: HONOLULU
+    distance_km: 170.76
+  - name: KAUNAKAKAI
+    distance_km: 260.22
+- country: US
+  region: HI
+  name: Maalaea
+  lat: '20.8047'
+  long: "-156.4898"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 14.12
+  - name: LANAI CITY
+    distance_km: 44.83
+  - name: KAUNAKAKAI
+    distance_km: 64.09
+- country: US
+  region: HI
+  name: Mahinahina
+  lat: '20.9540'
+  long: "-156.6564"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 16.19
+  - name: LANAI CITY
+    distance_km: 30.95
+  - name: KAUNAKAKAI
+    distance_km: 41.25
+- country: US
+  region: HI
+  name: Maili
+  lat: '21.4133'
+  long: "-158.1701"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 33.61
+  - name: KAUNAKAKAI
+    distance_km: 123.88
+  - name: LIHUE
+    distance_km: 139.06
+- country: US
+  region: HI
+  name: Makaha
+  lat: '21.4739'
+  long: "-158.2102"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 40.04
+  - name: KAUNAKAKAI
+    distance_km: 129.89
+  - name: LIHUE
+    distance_km: 132.37
+- country: US
+  region: HI
+  name: Makaha Valley
+  lat: '21.4844'
+  long: "-158.1843"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 38.22
+  - name: KAUNAKAKAI
+    distance_km: 127.75
+  - name: LIHUE
+    distance_km: 134.31
+- country: US
+  region: HI
+  name: Makakilo
+  lat: '21.3591'
+  long: "-158.0813"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 23.1
+  - name: KAUNAKAKAI
+    distance_km: 113.38
+  - name: LANAI CITY
+    distance_km: 134.26
+- country: US
+  region: HI
+  name: Makawao
+  lat: '20.8480'
+  long: "-156.3190"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 21.18
+  - name: LANAI CITY
+    distance_km: 62.57
+  - name: KAUNAKAKAI
+    distance_km: 78.2
+- country: US
+  region: HI
+  name: Makena
+  lat: '20.6310'
+  long: "-156.4252"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 34.33
+  - name: LANAI CITY
+    distance_km: 55.86
+  - name: KAUNAKAKAI
+    distance_km: 80.63
+- country: US
+  region: HI
+  name: Manele
+  lat: '20.7419'
+  long: "-156.9012"
+  nearby_rate_centers:
+  - name: LANAI CITY
+    distance_km: 9.48
+  - name: KAUNAKAKAI
+    distance_km: 40.79
+  - name: WAILUKU
+    distance_km: 46.48
+- country: US
+  region: HI
+  name: Mauna Loa Estates
+  lat: '19.4274'
+  long: "-155.2213"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 35.96
+  - name: WAILUKU
+    distance_km: 214.09
+  - name: LANAI CITY
+    distance_km: 235.86
+- country: US
+  region: HI
+  name: Maunaloa
+  lat: '21.1334'
+  long: "-157.2123"
+  nearby_rate_centers:
+  - name: KAUNAKAKAI
+    distance_km: 19.9
+  - name: LANAI CITY
+    distance_km: 45.74
+  - name: HONOLULU
+    distance_km: 70.43
+- country: US
+  region: HI
+  name: Maunawili
+  lat: '21.3667'
+  long: "-157.7713"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 11.19
+  - name: KAUNAKAKAI
+    distance_km: 83.14
+  - name: LANAI CITY
+    distance_km: 106.84
+- country: US
+  region: HI
+  name: Mililani Mauka
+  lat: '21.4756'
+  long: "-157.9948"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 22.51
+  - name: KAUNAKAKAI
+    distance_km: 109.14
+  - name: LANAI CITY
+    distance_km: 132.82
+- country: US
+  region: HI
+  name: Mililani Town
+  lat: '21.4465'
+  long: "-158.0147"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 21.48
+  - name: KAUNAKAKAI
+    distance_km: 109.84
+  - name: LANAI CITY
+    distance_km: 132.85
+- country: US
+  region: HI
+  name: Mokuleia
+  lat: '21.5771'
+  long: "-158.1714"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 43.24
+  - name: KAUNAKAKAI
+    distance_km: 130.4
+  - name: LIHUE
+    distance_km: 131.66
+- country: US
+  region: HI
+  name: Mountain View
+  lat: '19.5366'
+  long: "-155.1590"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 22.3
+  - name: WAILUKU
+    distance_km: 209.02
+  - name: LANAI CITY
+    distance_km: 233.09
+- country: US
+  region: HI
+  name: Naalehu
+  lat: '19.0698'
+  long: "-155.5751"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 88.93
+  - name: WAILUKU
+    distance_km: 228.53
+  - name: LANAI CITY
+    distance_km: 240.57
+- country: US
+  region: HI
+  name: Nanakuli
+  lat: '21.3892'
+  long: "-158.1445"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 30.27
+  - name: KAUNAKAKAI
+    distance_km: 120.58
+  - name: LANAI CITY
+    distance_km: 141.61
+- country: US
+  region: HI
+  name: Nanawale Estates
+  lat: '19.5035'
+  long: "-154.9104"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 31.28
+  - name: WAILUKU
+    distance_km: 229.77
+  - name: LANAI CITY
+    distance_km: 256.16
+- country: US
+  region: HI
+  name: Napili-Honokowai
+  lat: '20.9767'
+  long: "-156.6646"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 17.59
+  - name: LANAI CITY
+    distance_km: 31.47
+  - name: KAUNAKAKAI
+    distance_km: 39.59
+- country: US
+  region: HI
+  name: Ocean Pointe
+  lat: '21.3145'
+  long: "-158.0289"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 17.13
+  - name: KAUNAKAKAI
+    distance_km: 106.9
+  - name: LANAI CITY
+    distance_km: 127.22
+- country: US
+  region: HI
+  name: Olinda
+  lat: '20.8261'
+  long: "-156.2917"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 24.81
+  - name: LANAI CITY
+    distance_km: 65.36
+  - name: KAUNAKAKAI
+    distance_km: 81.72
+- country: US
+  region: HI
+  name: Olowalu
+  lat: '20.8222'
+  long: "-156.6169"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 16.98
+  - name: LANAI CITY
+    distance_km: 31.56
+  - name: KAUNAKAKAI
+    distance_km: 51.88
+- country: US
+  region: HI
+  name: Omao
+  lat: '21.9236'
+  long: "-159.4814"
+  nearby_rate_centers:
+  - name: LIHUE
+    distance_km: 12.82
+  - name: HONOLULU
+    distance_km: 180.45
+  - name: KAUNAKAKAI
+    distance_km: 270.38
+- country: US
+  region: HI
+  name: Orchidlands Estates
+  lat: '19.5570'
+  long: "-155.0142"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 20.57
+  - name: WAILUKU
+    distance_km: 217.83
+  - name: LANAI CITY
+    distance_km: 243.85
+- country: US
+  region: HI
+  name: Paauilo
+  lat: '20.0398'
+  long: "-155.3708"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 45.4
+  - name: WAILUKU
+    distance_km: 154.0
+  - name: LANAI CITY
+    distance_km: 183.58
+- country: US
+  region: HI
+  name: Pahala
+  lat: '19.1993'
+  long: "-155.4772"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 71.24
+  - name: WAILUKU
+    distance_km: 220.34
+  - name: LANAI CITY
+    distance_km: 235.43
+- country: US
+  region: HI
+  name: Pahoa
+  lat: '19.4960'
+  long: "-154.9453"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 29.91
+  - name: WAILUKU
+    distance_km: 227.74
+  - name: LANAI CITY
+    distance_km: 253.68
+- country: US
+  region: HI
+  name: Paia
+  lat: '20.9062'
+  long: "-156.3677"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 14.26
+  - name: LANAI CITY
+    distance_km: 58.14
+  - name: KAUNAKAKAI
+    distance_km: 71.35
+- country: US
+  region: HI
+  name: Pakala Village
+  lat: '21.9445'
+  long: "-159.6436"
+  nearby_rate_centers:
+  - name: LIHUE
+    distance_km: 28.31
+  - name: HONOLULU
+    distance_km: 196.89
+  - name: KAUNAKAKAI
+    distance_km: 286.94
+- country: US
+  region: HI
+  name: Papaikou
+  lat: '19.7917'
+  long: "-155.0963"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 7.22
+  - name: WAILUKU
+    distance_km: 193.75
+  - name: LANAI CITY
+    distance_km: 222.25
+- country: US
+  region: HI
+  name: Paukaa
+  lat: '19.7625'
+  long: "-155.0931"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 3.96
+  - name: WAILUKU
+    distance_km: 196.15
+  - name: LANAI CITY
+    distance_km: 224.25
+- country: US
+  region: HI
+  name: Pearl City
+  lat: '21.4031'
+  long: "-157.9566"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 13.8
+  - name: KAUNAKAKAI
+    distance_km: 102.52
+  - name: LANAI CITY
+    distance_km: 125.21
+- country: US
+  region: HI
+  name: Pepeekeo
+  lat: '19.8325'
+  long: "-155.1056"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 11.83
+  - name: WAILUKU
+    distance_km: 190.06
+  - name: LANAI CITY
+    distance_km: 219.08
+- country: US
+  region: HI
+  name: Poipu
+  lat: '21.8834'
+  long: "-159.4600"
+  nearby_rate_centers:
+  - name: LIHUE
+    distance_km: 13.88
+  - name: HONOLULU
+    distance_km: 176.77
+  - name: KAUNAKAKAI
+    distance_km: 266.82
+- country: US
+  region: HI
+  name: Princeville
+  lat: '22.2181'
+  long: "-159.4801"
+  nearby_rate_centers:
+  - name: LIHUE
+    distance_km: 29.02
+  - name: HONOLULU
+    distance_km: 194.86
+  - name: KAUNAKAKAI
+    distance_km: 282.93
+- country: US
+  region: HI
+  name: Puako
+  lat: '19.9628'
+  long: "-155.8389"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 82.42
+  - name: WAILUKU
+    distance_km: 127.96
+  - name: LANAI CITY
+    distance_km: 148.0
+- country: US
+  region: HI
+  name: Puhi
+  lat: '21.9622'
+  long: "-159.3917"
+  nearby_rate_centers:
+  - name: LIHUE
+    distance_km: 2.68
+  - name: HONOLULU
+    distance_km: 173.61
+  - name: KAUNAKAKAI
+    distance_km: 263.2
+- country: US
+  region: HI
+  name: Pukalani
+  lat: '20.8329'
+  long: "-156.3415"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 19.97
+  - name: LANAI CITY
+    distance_km: 60.18
+  - name: KAUNAKAKAI
+    distance_km: 76.62
+- country: US
+  region: HI
+  name: Punaluu
+  lat: '21.5810'
+  long: "-157.8901"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 29.79
+  - name: KAUNAKAKAI
+    distance_km: 104.83
+  - name: LANAI CITY
+    distance_km: 131.01
+- country: US
+  region: HI
+  name: Pupukea
+  lat: '21.6511'
+  long: "-158.0437"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 41.84
+  - name: KAUNAKAKAI
+    distance_km: 122.46
+  - name: LIHUE
+    distance_km: 141.78
+- country: US
+  region: HI
+  name: Royal Hawaiian Estates
+  lat: '19.4413'
+  long: "-155.1841"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 33.2
+  - name: WAILUKU
+    distance_km: 215.34
+  - name: LANAI CITY
+    distance_km: 237.79
+- country: US
+  region: HI
+  name: Royal Kunia
+  lat: '21.4053'
+  long: "-158.0318"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 20.16
+  - name: KAUNAKAKAI
+    distance_km: 109.96
+  - name: LANAI CITY
+    distance_km: 132.09
+- country: US
+  region: HI
+  name: Schofield Barracks
+  lat: '21.4936'
+  long: "-158.0617"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 28.61
+  - name: KAUNAKAKAI
+    distance_km: 116.3
+  - name: LANAI CITY
+    distance_km: 139.74
+- country: US
+  region: HI
+  name: Seaview
+  lat: '19.4067'
+  long: "-154.9214"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 39.83
+  - name: WAILUKU
+    distance_km: 236.57
+  - name: LANAI CITY
+    distance_km: 261.62
+- country: US
+  region: HI
+  name: Tiki Gardens
+  lat: '19.5287'
+  long: "-155.0031"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 23.92
+  - name: WAILUKU
+    distance_km: 220.88
+  - name: LANAI CITY
+    distance_km: 246.64
+- country: US
+  region: HI
+  name: Ualapue
+  lat: '21.0704'
+  long: "-156.8355"
+  nearby_rate_centers:
+  - name: KAUNAKAKAI
+    distance_km: 19.91
+  - name: LANAI CITY
+    distance_km: 28.66
+  - name: WAILUKU
+    distance_km: 37.89
+- country: US
+  region: HI
+  name: Volcano
+  lat: '19.4864'
+  long: "-155.2774"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 33.07
+  - name: WAILUKU
+    distance_km: 205.3
+  - name: LANAI CITY
+    distance_km: 227.11
+- country: US
+  region: HI
+  name: Volcano Golf Course
+  lat: '19.4424'
+  long: "-155.2789"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 37.22
+  - name: WAILUKU
+    distance_km: 209.06
+  - name: LANAI CITY
+    distance_km: 230.25
+- country: US
+  region: HI
+  name: Wahiawa
+  lat: '21.5012'
+  long: "-158.0178"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 26.22
+  - name: KAUNAKAKAI
+    distance_km: 112.45
+  - name: LANAI CITY
+    distance_km: 136.37
+- country: US
+  region: HI
+  name: Waialua
+  lat: '21.5660'
+  long: "-158.1199"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 38.57
+  - name: KAUNAKAKAI
+    distance_km: 125.05
+  - name: LIHUE
+    distance_km: 137.09
+- country: US
+  region: HI
+  name: Waianae
+  lat: '21.4568'
+  long: "-158.1758"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 36.01
+  - name: KAUNAKAKAI
+    distance_km: 125.91
+  - name: LIHUE
+    distance_km: 136.4
+- country: US
+  region: HI
+  name: Waihee-Waiehu
+  lat: '20.9188'
+  long: "-156.5063"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 1.43
+  - name: LANAI CITY
+    distance_km: 44.28
+  - name: KAUNAKAKAI
+    distance_km: 57.23
+- country: US
+  region: HI
+  name: Waikapu
+  lat: '20.8391'
+  long: "-156.5221"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 10.44
+  - name: LANAI CITY
+    distance_km: 41.44
+  - name: KAUNAKAKAI
+    distance_km: 59.3
+- country: US
+  region: HI
+  name: Waikele
+  lat: '21.4025'
+  long: "-158.0058"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 17.7
+  - name: KAUNAKAKAI
+    distance_km: 107.31
+  - name: LANAI CITY
+    distance_km: 129.59
+- country: US
+  region: HI
+  name: Waikoloa Beach Resort
+  lat: '19.9279'
+  long: "-155.8704"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 84.45
+  - name: WAILUKU
+    distance_km: 129.54
+  - name: LANAI CITY
+    distance_km: 148.11
+- country: US
+  region: HI
+  name: Waikoloa Village
+  lat: '19.9443'
+  long: "-155.8053"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 78.45
+  - name: WAILUKU
+    distance_km: 131.59
+  - name: LANAI CITY
+    distance_km: 152.01
+- country: US
+  region: HI
+  name: Wailea
+  lat: '20.6873'
+  long: "-156.4291"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 28.17
+  - name: LANAI CITY
+    distance_km: 53.35
+  - name: KAUNAKAKAI
+    distance_km: 76.49
+- country: US
+  region: HI
+  name: Wailua
+  lat: '22.0551'
+  long: "-159.3401"
+  nearby_rate_centers:
+  - name: LIHUE
+    distance_km: 9.23
+  - name: HONOLULU
+    distance_km: 173.39
+  - name: KAUNAKAKAI
+    distance_km: 262.24
+- country: US
+  region: HI
+  name: Wailua Homesteads
+  lat: '22.0650'
+  long: "-159.3771"
+  nearby_rate_centers:
+  - name: LIHUE
+    distance_km: 9.77
+  - name: HONOLULU
+    distance_km: 177.27
+  - name: KAUNAKAKAI
+    distance_km: 266.17
+- country: US
+  region: HI
+  name: Wailuku
+  lat: '20.8834'
+  long: "-156.5059"
+  nearby_rate_centers:
+  - name: WAILUKU
+    distance_km: 5.32
+  - name: LANAI CITY
+    distance_km: 43.57
+  - name: KAUNAKAKAI
+    distance_km: 58.69
+- country: US
+  region: HI
+  name: Waimalu
+  lat: '21.3913'
+  long: "-157.9345"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 11.29
+  - name: KAUNAKAKAI
+    distance_km: 99.92
+  - name: LANAI CITY
+    distance_km: 122.58
+- country: US
+  region: HI
+  name: Waimanalo
+  lat: '21.3421'
+  long: "-157.7303"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 14.14
+  - name: KAUNAKAKAI
+    distance_km: 78.19
+  - name: LANAI CITY
+    distance_km: 101.79
+- country: US
+  region: HI
+  name: Waimanalo Beach
+  lat: '21.3288'
+  long: "-157.6974"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 17.28
+  - name: KAUNAKAKAI
+    distance_km: 74.48
+  - name: LANAI CITY
+    distance_km: 98.14
+- country: US
+  region: HI
+  name: Waimea
+  lat: '20.0124'
+  long: "-155.6381"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 65.36
+  - name: WAILUKU
+    distance_km: 136.17
+  - name: LANAI CITY
+    distance_km: 161.33
+- country: US
+  region: HI
+  name: Wainaku
+  lat: '19.7449'
+  long: "-155.0984"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 2.11
+  - name: WAILUKU
+    distance_km: 197.05
+  - name: LANAI CITY
+    distance_km: 224.83
+- country: US
+  region: HI
+  name: Wainiha
+  lat: '22.1984'
+  long: "-159.5458"
+  nearby_rate_centers:
+  - name: LIHUE
+    distance_km: 30.45
+  - name: HONOLULU
+    distance_km: 199.62
+  - name: KAUNAKAKAI
+    distance_km: 288.1
+- country: US
+  region: HI
+  name: Waiohinu
+  lat: '19.0714'
+  long: "-155.6145"
+  nearby_rate_centers:
+  - name: HILO
+    distance_km: 91.21
+  - name: WAILUKU
+    distance_km: 226.65
+  - name: LANAI CITY
+    distance_km: 238.04
+- country: US
+  region: HI
+  name: Waipahu
+  lat: '21.3859'
+  long: "-158.0101"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 17.15
+  - name: KAUNAKAKAI
+    distance_km: 107.15
+  - name: LANAI CITY
+    distance_km: 129.08
+- country: US
+  region: HI
+  name: Waipio
+  lat: '21.4143'
+  long: "-157.9966"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 17.71
+  - name: KAUNAKAKAI
+    distance_km: 106.84
+  - name: LANAI CITY
+    distance_km: 129.41
+- country: US
+  region: HI
+  name: Waipio Acres
+  lat: '21.4688'
+  long: "-158.0173"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 23.43
+  - name: KAUNAKAKAI
+    distance_km: 111.0
+  - name: LANAI CITY
+    distance_km: 134.38
+- country: US
+  region: HI
+  name: West Loch Estate
+  lat: '21.3617'
+  long: "-158.0246"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 17.5
+  - name: KAUNAKAKAI
+    distance_km: 107.81
+  - name: LANAI CITY
+    distance_km: 129.14
+- country: US
+  region: HI
+  name: Wheeler AFB
+  lat: '21.4756'
+  long: "-158.0352"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 25.26
+  - name: KAUNAKAKAI
+    distance_km: 113.0
+  - name: LANAI CITY
+    distance_km: 136.35
+- country: US
+  region: HI
+  name: Whitmore Village
+  lat: '21.5119'
+  long: "-158.0274"
+  nearby_rate_centers:
+  - name: HONOLULU
+    distance_km: 27.76
+  - name: KAUNAKAKAI
+    distance_km: 113.84
+  - name: LANAI CITY
+    distance_km: 137.85

@@ -1,0 +1,8042 @@
+---
+cities:
+- country: US
+  region: GA
+  name: Abbeville
+  lat: '31.9925'
+  long: "-83.3068"
+  nearby_rate_centers:
+  - name: ABBEVILLE
+    distance_km: 0.09
+  - name: RHINE
+    distance_km: 10.02
+  - name: ROCHELLE
+    distance_km: 15.56
+- country: US
+  region: GA
+  name: Acworth
+  lat: '34.0566'
+  long: "-84.6716"
+  nearby_rate_centers:
+  - name: WOODSTOCK
+    distance_km: 14.93
+  - name: ATLANTA NW
+    distance_km: 15.85
+  - name: MARIETTA
+    distance_km: 16.74
+- country: US
+  region: GA
+  name: Adairsville
+  lat: '34.3709'
+  long: "-84.9212"
+  nearby_rate_centers:
+  - name: ADAIRSVL
+    distance_km: 1.76
+  - name: CALHOUN
+    distance_km: 14.42
+  - name: KINGSTON
+    distance_km: 15.59
+- country: US
+  region: GA
+  name: Adel
+  lat: '31.1264'
+  long: "-83.4229"
+  nearby_rate_centers:
+  - name: ADEL
+    distance_km: 1.7
+  - name: SPARKS
+    distance_km: 4.92
+  - name: HAHIRA
+    distance_km: 15.79
+- country: US
+  region: GA
+  name: Adrian
+  lat: '32.5306'
+  long: "-82.5920"
+  nearby_rate_centers:
+  - name: ADRIAN
+    distance_km: 2.25
+  - name: SOPERTON
+    distance_km: 17.24
+  - name: KITE
+    distance_km: 18.35
+- country: US
+  region: GA
+  name: Ailey
+  lat: '32.1882'
+  long: "-82.5698"
+  nearby_rate_centers:
+  - name: MT VERNON
+    distance_km: 2.47
+  - name: GLENWOOD
+    distance_km: 9.28
+  - name: VIDALIA
+    distance_km: 15.56
+- country: US
+  region: GA
+  name: Alamo
+  lat: '32.1469'
+  long: "-82.7798"
+  nearby_rate_centers:
+  - name: ALAMO
+    distance_km: 0.75
+  - name: GLENWOOD
+    distance_km: 11.1
+  - name: CEDARGROVE
+    distance_km: 11.58
+- country: US
+  region: GA
+  name: Alapaha
+  lat: '31.3832'
+  long: "-83.2237"
+  nearby_rate_centers:
+  - name: ALAPAHA
+    distance_km: 0.59
+  - name: ENIGMA
+    distance_km: 10.59
+  - name: WILLACOCHE
+    distance_km: 17.3
+- country: US
+  region: GA
+  name: Albany
+  lat: '31.5776'
+  long: "-84.1762"
+  nearby_rate_centers:
+  - name: ALBANY
+    distance_km: 1.76
+  - name: LEESBURG
+    distance_km: 17.17
+  - name: BACONTON
+    distance_km: 22.34
+- country: US
+  region: GA
+  name: Aldora
+  lat: '33.0508'
+  long: "-84.1758"
+  nearby_rate_centers:
+  - name: BARNESVL
+    distance_km: 2.59
+  - name: YATESVILLE
+    distance_km: 15.35
+  - name: ZEBULON
+    distance_km: 16.16
+- country: US
+  region: GA
+  name: Allenhurst
+  lat: '31.7839'
+  long: "-81.6078"
+  nearby_rate_centers:
+  - name: HINESVILLE
+    distance_km: 7.26
+  - name: LUDOWICI
+    distance_km: 15.49
+  - name: MIDWAY
+    distance_km: 17.69
+- country: US
+  region: GA
+  name: Allentown
+  lat: '32.5855'
+  long: "-83.2273"
+  nearby_rate_centers:
+  - name: DANVILLE
+    distance_km: 1.98
+  - name: MONTROSE
+    distance_km: 8.02
+  - name: DUDLEY
+    distance_km: 14.79
+- country: US
+  region: GA
+  name: Alma
+  lat: '31.5432'
+  long: "-82.4745"
+  nearby_rate_centers:
+  - name: ALMA
+    distance_km: 0.89
+  - name: NICHOLLS
+    distance_km: 16.42
+  - name: BAXLEY
+    distance_km: 28.54
+- country: US
+  region: GA
+  name: Alpharetta
+  lat: '34.0704'
+  long: "-84.2738"
+  nearby_rate_centers:
+  - name: ALPHARETTA
+    distance_km: 1.66
+  - name: ROSWELL
+    distance_km: 10.08
+  - name: DULUTH
+    distance_km: 13.98
+- country: US
+  region: GA
+  name: Alston
+  lat: '32.0810'
+  long: "-82.4789"
+  nearby_rate_centers:
+  - name: UVALDA
+    distance_km: 5.96
+  - name: MT VERNON
+    distance_km: 15.16
+  - name: VIDALIA
+    distance_km: 16.58
+- country: US
+  region: GA
+  name: Alto
+  lat: '34.4649'
+  long: "-83.5727"
+  nearby_rate_centers:
+  - name: CORNELIA
+    distance_km: 6.41
+  - name: LULA
+    distance_km: 12.51
+  - name: HOMER
+    distance_km: 16.18
+- country: US
+  region: GA
+  name: Ambrose
+  lat: '31.5945'
+  long: "-83.0137"
+  nearby_rate_centers:
+  - name: BROXTON
+    distance_km: 11.88
+  - name: DOUGLAS
+    distance_km: 18.31
+  - name: OCILLA
+    distance_km: 22.55
+- country: US
+  region: GA
+  name: Americus
+  lat: '32.0736'
+  long: "-84.2248"
+  nearby_rate_centers:
+  - name: AMERICUS
+    distance_km: 1.26
+  - name: PLAINS
+    distance_km: 16.13
+  - name: LESLIE
+    distance_km: 18.58
+- country: US
+  region: GA
+  name: Andersonville
+  lat: '32.1965'
+  long: "-84.1454"
+  nearby_rate_centers:
+  - name: MONTEZUMA
+    distance_km: 16.09
+  - name: ELLAVILLE
+    distance_km: 16.2
+  - name: AMERICUS
+    distance_km: 16.81
+- country: US
+  region: GA
+  name: Antioch
+  lat: '32.6790'
+  long: "-85.0577"
+  nearby_rate_centers:
+  - name: HAMILTON
+    distance_km: 19.12
+  - name: COLUMBUS
+    distance_km: 23.58
+  - name: WEST POINT
+    distance_km: 24.38
+- country: US
+  region: GA
+  name: Appling
+  lat: '33.5588'
+  long: "-82.3183"
+  nearby_rate_centers:
+  - name: APPLING
+    distance_km: 1.62
+  - name: HARLEM
+    distance_km: 15.83
+  - name: THOMSON
+    distance_km: 19.81
+- country: US
+  region: GA
+  name: Arabi
+  lat: '31.8282'
+  long: "-83.7302"
+  nearby_rate_centers:
+  - name: ASHBURN
+    distance_km: 16.07
+  - name: CORDELE
+    distance_km: 16.3
+  - name: WARWICK
+    distance_km: 18.6
+- country: US
+  region: GA
+  name: Aragon
+  lat: '34.0458'
+  long: "-85.0570"
+  nearby_rate_centers:
+  - name: ROCKMART
+    distance_km: 5.07
+  - name: CEDARTOWN
+    distance_km: 18.21
+  - name: KINGSTON
+    distance_km: 23.17
+- country: US
+  region: GA
+  name: Arcade
+  lat: '34.0693'
+  long: "-83.5399"
+  nearby_rate_centers:
+  - name: JEFFERSON
+    distance_km: 7.26
+  - name: NICHOLSON
+    distance_km: 11.26
+  - name: BOGARTSTHM
+    distance_km: 13.85
+- country: US
+  region: GA
+  name: Argyle
+  lat: '31.0732'
+  long: "-82.6489"
+  nearby_rate_centers:
+  - name: HOMERVILLE
+    distance_km: 10.62
+  - name: PEARSON
+    distance_km: 31.45
+  - name: WAYCROSS
+    distance_km: 31.72
+- country: US
+  region: GA
+  name: Arlington
+  lat: '31.4383'
+  long: "-84.7253"
+  nearby_rate_centers:
+  - name: ARLINGTON
+    distance_km: 0.67
+  - name: EDISON
+    distance_km: 13.16
+  - name: MORGAN
+    distance_km: 16.37
+- country: US
+  region: GA
+  name: Arnoldsville
+  lat: '33.9103'
+  long: "-83.2180"
+  nearby_rate_centers:
+  - name: WINTERVL
+    distance_km: 7.93
+  - name: LEXINGTON
+    distance_km: 9.06
+  - name: COLBERT
+    distance_km: 13.71
+- country: US
+  region: GA
+  name: Ashburn
+  lat: '31.7096'
+  long: "-83.6528"
+  nearby_rate_centers:
+  - name: ASHBURN
+    distance_km: 1.04
+  - name: REBECCA
+    distance_km: 18.68
+  - name: IRWINVILLE
+    distance_km: 26.49
+- country: US
+  region: GA
+  name: Athens
+  lat: '33.9508'
+  long: "-83.3689"
+  nearby_rate_centers:
+  - name: ATHENS
+    distance_km: 1.35
+  - name: WINTERVL
+    distance_km: 8.88
+  - name: WATKINSVL
+    distance_km: 10.23
+- country: US
+  region: GA
+  name: Atlanta
+  lat: '33.7628'
+  long: "-84.4220"
+  nearby_rate_centers:
+  - name: ATLANTA
+    distance_km: 4.02
+  - name: SMYRNA
+    distance_km: 15.51
+  - name: CHAMBLEE
+    distance_km: 18.19
+- country: US
+  region: GA
+  name: Attapulgus
+  lat: '30.7495'
+  long: "-84.4839"
+  nearby_rate_centers:
+  - name: ATTAPULGUS
+    distance_km: 0.26
+  - name: CALVAYRENO
+    distance_km: 15.16
+  - name: BAINBRIDGE
+    distance_km: 18.63
+- country: US
+  region: GA
+  name: Auburn
+  lat: '34.0156'
+  long: "-83.8319"
+  nearby_rate_centers:
+  - name: WINDER
+    distance_km: 11.14
+  - name: BRASELTON
+    distance_km: 12.89
+  - name: LAWRENCEVL
+    distance_km: 15.88
+- country: US
+  region: GA
+  name: Augusta
+  lat: '33.3645'
+  long: "-82.0708"
+  nearby_rate_centers:
+  - name: HEPHZIBAH
+    distance_km: 5.86
+  - name: AUGUSTA
+    distance_km: 15.65
+  - name: HARLEM
+    distance_km: 23.61
+- country: US
+  region: GA
+  name: Austell
+  lat: '33.8201'
+  long: "-84.6451"
+  nearby_rate_centers:
+  - name: AUSTELL
+    distance_km: 1.12
+  - name: ATLANTA NW
+    distance_km: 10.67
+  - name: SMYRNA
+    distance_km: 14.6
+- country: US
+  region: GA
+  name: Avalon
+  lat: '34.5027'
+  long: "-83.1967"
+  nearby_rate_centers:
+  - name: EASTANOLLE
+    distance_km: 5.46
+  - name: LAVONIA
+    distance_km: 11.41
+  - name: TOCCOA
+    distance_km: 14.57
+- country: US
+  region: GA
+  name: Avera
+  lat: '33.1934'
+  long: "-82.5287"
+  nearby_rate_centers:
+  - name: GIBSON
+    distance_km: 7.43
+  - name: WRENS
+    distance_km: 12.69
+  - name: LOUISVILLE
+    distance_km: 24.24
+- country: US
+  region: GA
+  name: Avondale Estates
+  lat: '33.7699'
+  long: "-84.2648"
+  nearby_rate_centers:
+  - name: STONE MT
+    distance_km: 9.96
+  - name: TUCKER
+    distance_km: 10.6
+  - name: ATLANTA
+    distance_km: 11.01
+- country: US
+  region: GA
+  name: Axson
+  lat: '31.2766'
+  long: "-82.7236"
+  nearby_rate_centers:
+  - name: PEARSON
+    distance_km: 12.04
+  - name: HOMERVILLE
+    distance_km: 27.36
+  - name: NICHOLLS
+    distance_km: 27.68
+- country: US
+  region: GA
+  name: Baconton
+  lat: '31.3804'
+  long: "-84.1592"
+  nearby_rate_centers:
+  - name: BACONTON
+    distance_km: 0.81
+  - name: CAMILLA
+    distance_km: 16.95
+  - name: NEWTON
+    distance_km: 18.97
+- country: US
+  region: GA
+  name: Bainbridge
+  lat: '30.9052'
+  long: "-84.5732"
+  nearby_rate_centers:
+  - name: BAINBRIDGE
+    distance_km: 0.78
+  - name: ATTAPULGUS
+    distance_km: 19.46
+  - name: REYNOLDSVL
+    distance_km: 20.29
+- country: US
+  region: GA
+  name: Baldwin
+  lat: '34.4860'
+  long: "-83.5497"
+  nearby_rate_centers:
+  - name: CORNELIA
+    distance_km: 3.26
+  - name: CLARKESVL
+    distance_km: 14.83
+  - name: LULA
+    distance_km: 15.66
+- country: US
+  region: GA
+  name: Ball Ground
+  lat: '34.3426'
+  long: "-84.3637"
+  nearby_rate_centers:
+  - name: NELSON
+    distance_km: 4.68
+  - name: MARBLEHILL
+    distance_km: 10.34
+  - name: BIG CANOE
+    distance_km: 15.07
+- country: US
+  region: GA
+  name: Barnesville
+  lat: '33.0508'
+  long: "-84.1528"
+  nearby_rate_centers:
+  - name: BARNESVL
+    distance_km: 0.69
+  - name: YATESVILLE
+    distance_km: 14.96
+  - name: ZEBULON
+    distance_km: 18.2
+- country: US
+  region: GA
+  name: Bartow
+  lat: '32.8816'
+  long: "-82.4712"
+  nearby_rate_centers:
+  - name: BARTOW
+    distance_km: 0.74
+  - name: WADLEY
+    distance_km: 7.31
+  - name: LOUISVILLE
+    distance_km: 14.64
+- country: US
+  region: GA
+  name: Barwick
+  lat: '30.8933'
+  long: "-83.7391"
+  nearby_rate_centers:
+  - name: BARWICK
+    distance_km: 0.21
+  - name: PAVO
+    distance_km: 6.97
+  - name: BOSTON
+    distance_km: 12.49
+- country: US
+  region: GA
+  name: Baxley
+  lat: '31.7641'
+  long: "-82.3509"
+  nearby_rate_centers:
+  - name: BAXLEY
+    distance_km: 1.39
+  - name: HAZLEHURST
+    distance_km: 25.55
+  - name: ALMA
+    distance_km: 26.92
+- country: US
+  region: GA
+  name: Bellville
+  lat: '32.1526'
+  long: "-81.9743"
+  nearby_rate_centers:
+  - name: CLAXTON
+    distance_km: 6.4
+  - name: COLLINS
+    distance_km: 12.96
+  - name: REIDSVILLE
+    distance_km: 15.32
+- country: US
+  region: GA
+  name: Belvedere Park
+  lat: '33.7489'
+  long: "-84.2599"
+  nearby_rate_centers:
+  - name: PANOLA
+    distance_km: 9.6
+  - name: STONE MT
+    distance_km: 10.74
+  - name: ATLANTA
+    distance_km: 11.24
+- country: US
+  region: GA
+  name: Bemiss
+  lat: '30.9318'
+  long: "-83.2386"
+  nearby_rate_centers:
+  - name: VALDOSTA
+    distance_km: 11.77
+  - name: HAHIRA
+    distance_km: 14.53
+  - name: RAY CITY
+    distance_km: 16.19
+- country: US
+  region: GA
+  name: Berkeley Lake
+  lat: '33.9805'
+  long: "-84.1839"
+  nearby_rate_centers:
+  - name: DULUTH
+    distance_km: 3.83
+  - name: NORCROSS
+    distance_km: 4.78
+  - name: ATLANTA NE
+    distance_km: 10.15
+- country: US
+  region: GA
+  name: Berlin
+  lat: '31.0680'
+  long: "-83.6232"
+  nearby_rate_centers:
+  - name: BERLIN
+    distance_km: 0.2
+  - name: PAVO
+    distance_km: 16.81
+  - name: MORVEN
+    distance_km: 18.37
+- country: US
+  region: GA
+  name: Berry College
+  lat: '34.2911'
+  long: "-85.1878"
+  nearby_rate_centers:
+  - name: ROME
+    distance_km: 3.76
+  - name: KINGSTON
+    distance_km: 23.34
+  - name: LYERLY
+    distance_km: 24.23
+- country: US
+  region: GA
+  name: Bethlehem
+  lat: '33.9368'
+  long: "-83.7102"
+  nearby_rate_centers:
+  - name: WINDER
+    distance_km: 6.16
+  - name: BOGARTSTHM
+    distance_km: 11.75
+  - name: MONROE
+    distance_km: 16.16
+- country: US
+  region: GA
+  name: Between
+  lat: '33.8177'
+  long: "-83.8043"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 9.54
+  - name: SOCIALCRCL
+    distance_km: 19.6
+  - name: WINDER
+    distance_km: 21.09
+- country: US
+  region: GA
+  name: Bishop
+  lat: '33.8171'
+  long: "-83.4372"
+  nearby_rate_centers:
+  - name: WATKINSVL
+    distance_km: 5.95
+  - name: ATHENS
+    distance_km: 16.5
+  - name: BOGARTSTHM
+    distance_km: 20.06
+- country: US
+  region: GA
+  name: Blackshear
+  lat: '31.2954'
+  long: "-82.2453"
+  nearby_rate_centers:
+  - name: BLACKSHEAR
+    distance_km: 1.19
+  - name: PATTERSON
+    distance_km: 13.76
+  - name: WAYCROSS
+    distance_km: 14.21
+- country: US
+  region: GA
+  name: Blairsville
+  lat: '34.8760'
+  long: "-83.9546"
+  nearby_rate_centers:
+  - name: BLAIRSVL
+    distance_km: 0.63
+  - name: YOUNGHRRIS
+    distance_km: 11.51
+  - name: SUCHES
+    distance_km: 19.05
+- country: US
+  region: GA
+  name: Blakely
+  lat: '31.3827'
+  long: "-84.9228"
+  nearby_rate_centers:
+  - name: BLAKELY
+    distance_km: 1.47
+  - name: BLUFFTON
+    distance_km: 15.35
+  - name: ARLINGTON
+    distance_km: 19.43
+- country: US
+  region: GA
+  name: Bloomingdale
+  lat: '32.1249'
+  long: "-81.3077"
+  nearby_rate_centers:
+  - name: POOLER
+    distance_km: 6.18
+  - name: SO GUYTON
+    distance_km: 8.39
+  - name: ELLABELLE
+    distance_km: 16.04
+- country: US
+  region: GA
+  name: Blue Ridge
+  lat: '34.8666'
+  long: "-84.3218"
+  nearby_rate_centers:
+  - name: BLUE RIDGE
+    distance_km: 0.46
+  - name: LAKEWOOD
+    distance_km: 5.76
+  - name: MCCAYSVL
+    distance_km: 13.01
+- country: US
+  region: GA
+  name: Bluffton
+  lat: '31.5198'
+  long: "-84.8691"
+  nearby_rate_centers:
+  - name: BLUFFTON
+    distance_km: 0.85
+  - name: EDISON
+    distance_km: 13.58
+  - name: ARLINGTON
+    distance_km: 16.65
+- country: US
+  region: GA
+  name: Blythe
+  lat: '33.3011'
+  long: "-82.2025"
+  nearby_rate_centers:
+  - name: HEPHZIBAH
+    distance_km: 9.71
+  - name: HARLEM
+    distance_km: 16.68
+  - name: WRENS
+    distance_km: 20.52
+- country: US
+  region: GA
+  name: Bogart
+  lat: '33.9479'
+  long: "-83.5341"
+  nearby_rate_centers:
+  - name: BOGARTSTHM
+    distance_km: 4.6
+  - name: ATHENS
+    distance_km: 14.19
+  - name: WATKINSVL
+    distance_km: 14.93
+- country: US
+  region: GA
+  name: Bolingbroke
+  lat: '32.9401'
+  long: "-83.7985"
+  nearby_rate_centers:
+  - name: LIZELLA
+    distance_km: 14.78
+  - name: FORSYTH
+    distance_km: 16.11
+  - name: MACON
+    distance_km: 19.95
+- country: US
+  region: GA
+  name: Bonanza
+  lat: '33.4589'
+  long: "-84.3379"
+  nearby_rate_centers:
+  - name: ATLANTA SO
+    distance_km: 5.68
+  - name: STOCKBDG
+    distance_km: 13.4
+  - name: GRIFFIN
+    distance_km: 24.33
+- country: US
+  region: GA
+  name: Boston
+  lat: '30.7920'
+  long: "-83.7899"
+  nearby_rate_centers:
+  - name: BOSTON
+    distance_km: 0.41
+  - name: BARWICK
+    distance_km: 12.06
+  - name: PAVO
+    distance_km: 18.8
+- country: US
+  region: GA
+  name: Bostwick
+  lat: '33.7373'
+  long: "-83.5141"
+  nearby_rate_centers:
+  - name: RUTLEDGE
+    distance_km: 14.58
+  - name: MADISON
+    distance_km: 16.77
+  - name: WATKINSVL
+    distance_km: 17.24
+- country: US
+  region: GA
+  name: Bowdon
+  lat: '33.5378'
+  long: "-85.2540"
+  nearby_rate_centers:
+  - name: BOWDON
+    distance_km: 0.5
+  - name: ROOPVILLE
+    distance_km: 14.64
+  - name: CARROLLTON
+    distance_km: 17.28
+- country: US
+  region: GA
+  name: Bowersville
+  lat: '34.3730'
+  long: "-83.0838"
+  nearby_rate_centers:
+  - name: LAVONIA
+    distance_km: 6.86
+  - name: ROYSTON
+    distance_km: 10.24
+  - name: HARTWELL
+    distance_km: 13.87
+- country: US
+  region: GA
+  name: Bowman
+  lat: '34.2051'
+  long: "-83.0309"
+  nearby_rate_centers:
+  - name: ROYSTON
+    distance_km: 11.24
+  - name: CARLTON
+    distance_km: 17.25
+  - name: COMER
+    distance_km: 17.59
+- country: US
+  region: GA
+  name: Box Springs
+  lat: '32.5495'
+  long: "-84.6568"
+  nearby_rate_centers:
+  - name: GENEVA
+    distance_km: 10.58
+  - name: WAVELYHALL
+    distance_km: 17.43
+  - name: TALBOTTON
+    distance_km: 17.51
+- country: US
+  region: GA
+  name: Boykin
+  lat: '31.1017'
+  long: "-84.6848"
+  nearby_rate_centers:
+  - name: COLQUITT
+    distance_km: 8.49
+  - name: IRON CITY
+    distance_km: 15.64
+  - name: DONALSONVL
+    distance_km: 19.31
+- country: US
+  region: GA
+  name: Braselton
+  lat: '34.1087'
+  long: "-83.8127"
+  nearby_rate_centers:
+  - name: BRASELTON
+    distance_km: 5.08
+  - name: FLOWEYBRCH
+    distance_km: 12.51
+  - name: PENDERGRSS
+    distance_km: 13.11
+- country: US
+  region: GA
+  name: Braswell
+  lat: '33.9836'
+  long: "-84.9591"
+  nearby_rate_centers:
+  - name: ROCKMART
+    distance_km: 8.42
+  - name: CARTERSVL
+    distance_km: 24.9
+  - name: CEDARTOWN
+    distance_km: 26.99
+- country: US
+  region: GA
+  name: Bremen
+  lat: '33.7085'
+  long: "-85.1495"
+  nearby_rate_centers:
+  - name: BREMEN
+    distance_km: 1.95
+  - name: BUCHANAN
+    distance_km: 10.98
+  - name: TEMPLE
+    distance_km: 11.41
+- country: US
+  region: GA
+  name: Brinson
+  lat: '30.9784'
+  long: "-84.7379"
+  nearby_rate_centers:
+  - name: IRON CITY
+    distance_km: 8.57
+  - name: REYNOLDSVL
+    distance_km: 14.09
+  - name: DONALSONVL
+    distance_km: 14.69
+- country: US
+  region: GA
+  name: Bristol
+  lat: '31.4507'
+  long: "-82.2148"
+  nearby_rate_centers:
+  - name: PATTERSON
+    distance_km: 10.03
+  - name: BLACKSHEAR
+    distance_km: 16.34
+  - name: SCREVEN
+    distance_km: 19.02
+- country: US
+  region: GA
+  name: Bronwood
+  lat: '31.8305'
+  long: "-84.3644"
+  nearby_rate_centers:
+  - name: DAWSON
+    distance_km: 9.6
+  - name: SASSER
+    distance_km: 12.84
+  - name: SMITHVILLE
+    distance_km: 13.17
+- country: US
+  region: GA
+  name: Brookhaven
+  lat: '33.8743'
+  long: "-84.3314"
+  nearby_rate_centers:
+  - name: CHAMBLEE
+    distance_km: 3.5
+  - name: TUCKER
+    distance_km: 10.97
+  - name: NORCROSS
+    distance_km: 13.74
+- country: US
+  region: GA
+  name: Brooklet
+  lat: '32.3897'
+  long: "-81.6668"
+  nearby_rate_centers:
+  - name: BROOKLET
+    distance_km: 0.52
+  - name: STATESBORO
+    distance_km: 12.5
+  - name: STILSON
+    distance_km: 13.03
+- country: US
+  region: GA
+  name: Brooks
+  lat: '33.2925'
+  long: "-84.4588"
+  nearby_rate_centers:
+  - name: SENOIA
+    distance_km: 8.54
+  - name: GRIFFIN
+    distance_km: 19.35
+  - name: CONCORD
+    distance_km: 22.6
+- country: US
+  region: GA
+  name: Broxton
+  lat: '31.6248'
+  long: "-82.8877"
+  nearby_rate_centers:
+  - name: BROXTON
+    distance_km: 0.6
+  - name: DOUGLAS
+    distance_km: 13.5
+  - name: JACKSONVL
+    distance_km: 22.7
+- country: US
+  region: GA
+  name: Brunswick
+  lat: '31.1449'
+  long: "-81.4746"
+  nearby_rate_centers:
+  - name: BRUNSWICK
+    distance_km: 2.02
+  - name: JEKYLL IS
+    distance_km: 6.21
+  - name: STSIMONSIS
+    distance_km: 9.38
+- country: US
+  region: GA
+  name: Buchanan
+  lat: '33.8030'
+  long: "-85.1804"
+  nearby_rate_centers:
+  - name: BUCHANAN
+    distance_km: 1.3
+  - name: BREMEN
+    distance_km: 9.05
+  - name: TALLAPOOSA
+    distance_km: 12.38
+- country: US
+  region: GA
+  name: Buckhead
+  lat: '33.5686'
+  long: "-83.3623"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 10.18
+  - name: GREENSBORO
+    distance_km: 16.68
+  - name: RUTLEDGE
+    distance_km: 24.15
+- country: US
+  region: GA
+  name: Buckhead
+  lat: '31.8613'
+  long: "-81.2623"
+  nearby_rate_centers:
+  - name: KELLER
+    distance_km: 2.1
+  - name: RICHMONDHL
+    distance_km: 4.57
+  - name: MIDWAY
+    distance_km: 16.26
+- country: US
+  region: GA
+  name: Buena Vista
+  lat: '32.3188'
+  long: "-84.5177"
+  nearby_rate_centers:
+  - name: BUENAVISTA
+    distance_km: 0.34
+  - name: ELLAVILLE
+    distance_km: 21.38
+  - name: CUSSETA
+    distance_km: 23.59
+- country: US
+  region: GA
+  name: Buford
+  lat: '34.1192'
+  long: "-83.9903"
+  nearby_rate_centers:
+  - name: BUFORD
+    distance_km: 2.59
+  - name: FLOWEYBRCH
+    distance_km: 10.03
+  - name: CUMMING
+    distance_km: 16.92
+- country: US
+  region: GA
+  name: Butler
+  lat: '32.5570'
+  long: "-84.2377"
+  nearby_rate_centers:
+  - name: BUTLER
+    distance_km: 0.59
+  - name: REYNOLDS
+    distance_km: 13.51
+  - name: IDEAL
+    distance_km: 20.93
+- country: US
+  region: GA
+  name: Byromville
+  lat: '32.2017'
+  long: "-83.9072"
+  nearby_rate_centers:
+  - name: BYROMVILLE
+    distance_km: 0.52
+  - name: PINEHURST
+    distance_km: 14.13
+  - name: VIENNA
+    distance_km: 16.16
+- country: US
+  region: GA
+  name: Byron
+  lat: '32.6476'
+  long: "-83.7539"
+  nearby_rate_centers:
+  - name: BYRON
+    distance_km: 0.66
+  - name: CENTERVL
+    distance_km: 6.33
+  - name: WARNERRBNS
+    distance_km: 15.93
+- country: US
+  region: GA
+  name: Cadwell
+  lat: '32.3396'
+  long: "-83.0420"
+  nearby_rate_centers:
+  - name: CADWELL
+    distance_km: 0.64
+  - name: RENTZ
+    distance_km: 6.73
+  - name: DEXTER
+    distance_km: 10.37
+- country: US
+  region: GA
+  name: Cairo
+  lat: '30.8790'
+  long: "-84.2050"
+  nearby_rate_centers:
+  - name: CAIRO
+    distance_km: 0.76
+  - name: WHIGHAM
+    distance_km: 11.64
+  - name: CALVAYRENO
+    distance_km: 17.33
+- country: US
+  region: GA
+  name: Calhoun
+  lat: '34.4910'
+  long: "-84.9386"
+  nearby_rate_centers:
+  - name: CALHOUN
+    distance_km: 1.28
+  - name: ADAIRSVL
+    distance_km: 14.62
+  - name: RANGER
+    distance_km: 20.96
+- country: US
+  region: GA
+  name: Calvary
+  lat: '30.7224'
+  long: "-84.3541"
+  nearby_rate_centers:
+  - name: CALVAYRENO
+    distance_km: 5.24
+  - name: ATTAPULGUS
+    distance_km: 12.51
+  - name: WHIGHAM
+    distance_km: 18.23
+- country: US
+  region: GA
+  name: Camak
+  lat: '33.4526'
+  long: "-82.6462"
+  nearby_rate_centers:
+  - name: WARRENTON
+    distance_km: 4.79
+  - name: THOMSON
+    distance_km: 13.63
+  - name: GIBSON
+    distance_km: 24.86
+- country: US
+  region: GA
+  name: Camilla
+  lat: '31.2337'
+  long: "-84.2088"
+  nearby_rate_centers:
+  - name: CAMILLA
+    distance_km: 0.16
+  - name: PELHAM
+    distance_km: 13.11
+  - name: NEWTON
+    distance_km: 15.0
+- country: US
+  region: GA
+  name: Candler-McAfee
+  lat: '33.7267'
+  long: "-84.2723"
+  nearby_rate_centers:
+  - name: PANOLA
+    distance_km: 9.49
+  - name: ATLANTA
+    distance_km: 10.41
+  - name: STONE MT
+    distance_km: 13.19
+- country: US
+  region: GA
+  name: Canon
+  lat: '34.3455'
+  long: "-83.1107"
+  nearby_rate_centers:
+  - name: ROYSTON
+    distance_km: 6.93
+  - name: LAVONIA
+    distance_km: 9.59
+  - name: CARNESVL
+    distance_km: 11.75
+- country: US
+  region: GA
+  name: Canoochee
+  lat: '32.6786'
+  long: "-82.1785"
+  nearby_rate_centers:
+  - name: TWIN CITY
+    distance_km: 12.58
+  - name: SWAINSBORO
+    distance_km: 16.74
+  - name: MIDVILLE
+    distance_km: 16.85
+- country: US
+  region: GA
+  name: Canton
+  lat: '34.2467'
+  long: "-84.4897"
+  nearby_rate_centers:
+  - name: CANTON
+    distance_km: 0.61
+  - name: WOODSTOCK
+    distance_km: 16.46
+  - name: NELSON
+    distance_km: 18.35
+- country: US
+  region: GA
+  name: Carl
+  lat: '34.0045'
+  long: "-83.8129"
+  nearby_rate_centers:
+  - name: WINDER
+    distance_km: 9.19
+  - name: BRASELTON
+    distance_km: 13.18
+  - name: LAWRENCEVL
+    distance_km: 17.11
+- country: US
+  region: GA
+  name: Carlton
+  lat: '34.0426'
+  long: "-83.0386"
+  nearby_rate_centers:
+  - name: CARLTON
+    distance_km: 0.89
+  - name: COMER
+    distance_km: 8.45
+  - name: COLBERT
+    distance_km: 16.68
+- country: US
+  region: GA
+  name: Carnesville
+  lat: '34.3729'
+  long: "-83.2328"
+  nearby_rate_centers:
+  - name: CARNESVL
+    distance_km: 0.75
+  - name: LAVONIA
+    distance_km: 13.28
+  - name: ROYSTON
+    distance_km: 15.16
+- country: US
+  region: GA
+  name: Carrollton
+  lat: '33.5818'
+  long: "-85.0838"
+  nearby_rate_centers:
+  - name: CARROLLTON
+    distance_km: 0.85
+  - name: ROOPVILLE
+    distance_km: 15.31
+  - name: BOWDON
+    distance_km: 16.84
+- country: US
+  region: GA
+  name: Cartersville
+  lat: '34.1644'
+  long: "-84.8009"
+  nearby_rate_centers:
+  - name: CARTERSVL
+    distance_km: 0.15
+  - name: KINGSTON
+    distance_km: 15.16
+  - name: ADAIRSVL
+    distance_km: 24.94
+- country: US
+  region: GA
+  name: Cataula
+  lat: '32.6566'
+  long: "-84.8674"
+  nearby_rate_centers:
+  - name: HAMILTON
+    distance_km: 11.49
+  - name: WAVELYHALL
+    distance_km: 13.02
+  - name: COLUMBUS
+    distance_km: 23.16
+- country: US
+  region: GA
+  name: Cave Spring
+  lat: '34.1081'
+  long: "-85.3388"
+  nearby_rate_centers:
+  - name: CAVESPRING
+    distance_km: 0.67
+  - name: CEDARTOWN
+    distance_km: 13.58
+  - name: ROME
+    distance_km: 22.72
+- country: US
+  region: GA
+  name: Cecil
+  lat: '31.0466'
+  long: "-83.3906"
+  nearby_rate_centers:
+  - name: HAHIRA
+    distance_km: 6.42
+  - name: ADEL
+    distance_km: 10.99
+  - name: SPARKS
+    distance_km: 14.31
+- country: US
+  region: GA
+  name: Cedar Springs
+  lat: '31.1873'
+  long: "-85.0324"
+  nearby_rate_centers:
+  - name: CEDAR SPG
+    distance_km: 2.42
+  - name: JAKIN
+    distance_km: 11.68
+  - name: DONALSONVL
+    distance_km: 22.25
+- country: US
+  region: GA
+  name: Cedartown
+  lat: '34.0223'
+  long: "-85.2479"
+  nearby_rate_centers:
+  - name: CEDARTOWN
+    distance_km: 1.31
+  - name: CAVESPRING
+    distance_km: 12.14
+  - name: ROCKMART
+    distance_km: 18.58
+- country: US
+  region: GA
+  name: Centerville
+  lat: '32.6342'
+  long: "-83.6853"
+  nearby_rate_centers:
+  - name: CENTERVL
+    distance_km: 0.96
+  - name: BYRON
+    distance_km: 7.11
+  - name: WARNERRBNS
+    distance_km: 9.35
+- country: US
+  region: GA
+  name: Centralhatchee
+  lat: '33.3689'
+  long: "-85.1037"
+  nearby_rate_centers:
+  - name: ROOPVILLE
+    distance_km: 9.59
+  - name: FRANKLIN
+    distance_km: 9.61
+  - name: CARROLLTON
+    distance_km: 23.71
+- country: US
+  region: GA
+  name: Chamblee
+  lat: '33.8842'
+  long: "-84.3007"
+  nearby_rate_centers:
+  - name: CHAMBLEE
+    distance_km: 0.72
+  - name: TUCKER
+    distance_km: 8.55
+  - name: NORCROSS
+    distance_km: 10.78
+- country: US
+  region: GA
+  name: Chatsworth
+  lat: '34.7808'
+  long: "-84.7835"
+  nearby_rate_centers:
+  - name: CHATSWORTH
+    distance_km: 2.1
+  - name: DALTON
+    distance_km: 16.69
+  - name: TENNGA
+    distance_km: 22.82
+- country: US
+  region: GA
+  name: Chattahoochee Hills
+  lat: '33.5694'
+  long: "-84.7441"
+  nearby_rate_centers:
+  - name: NEWNAN
+    distance_km: 21.94
+  - name: VILLA RICA
+    distance_km: 24.57
+  - name: AUSTELL
+    distance_km: 29.32
+- country: US
+  region: GA
+  name: Chattanooga Valley
+  lat: '34.9241'
+  long: "-85.3431"
+  nearby_rate_centers:
+  - name: WEST BROW
+    distance_km: 6.14
+  - name: CHICKAMAGA
+    distance_km: 7.78
+  - name: ROSSVILLE
+    distance_km: 7.83
+- country: US
+  region: GA
+  name: Chauncey
+  lat: '32.1059'
+  long: "-83.0646"
+  nearby_rate_centers:
+  - name: MILAN
+    distance_km: 10.06
+  - name: EASTMAN
+    distance_km: 14.6
+  - name: MCRAE
+    distance_km: 15.45
+- country: US
+  region: GA
+  name: Cherry Log
+  lat: '34.7864'
+  long: "-84.3839"
+  nearby_rate_centers:
+  - name: BLUE RIDGE
+    distance_km: 10.46
+  - name: ELLIJAY
+    distance_km: 13.86
+  - name: DIAL
+    distance_km: 14.66
+- country: US
+  region: GA
+  name: Chester
+  lat: '32.3945'
+  long: "-83.1551"
+  nearby_rate_centers:
+  - name: CHESTER
+    distance_km: 0.58
+  - name: DEXTER
+    distance_km: 9.99
+  - name: CADWELL
+    distance_km: 12.45
+- country: US
+  region: GA
+  name: Chickamauga
+  lat: '34.8753'
+  long: "-85.2885"
+  nearby_rate_centers:
+  - name: CHICKAMAGA
+    distance_km: 0.53
+  - name: HIGH POINT
+    distance_km: 9.41
+  - name: ROSSVILLE
+    distance_km: 11.19
+- country: US
+  region: GA
+  name: Clarkesville
+  lat: '34.6103'
+  long: "-83.5284"
+  nearby_rate_centers:
+  - name: CLARKESVL
+    distance_km: 0.94
+  - name: CORNELIA
+    distance_km: 11.58
+  - name: BATESVILLE
+    distance_km: 18.44
+- country: US
+  region: GA
+  name: Clarkston
+  lat: '33.8117'
+  long: "-84.2403"
+  nearby_rate_centers:
+  - name: TUCKER
+    distance_km: 5.43
+  - name: STONE MT
+    distance_km: 6.89
+  - name: CHAMBLEE
+    distance_km: 10.3
+- country: US
+  region: GA
+  name: Claxton
+  lat: '32.1613'
+  long: "-81.9094"
+  nearby_rate_centers:
+  - name: CLAXTON
+    distance_km: 0.27
+  - name: NEVILS
+    distance_km: 17.38
+  - name: COLLINS
+    distance_km: 18.85
+- country: US
+  region: GA
+  name: Clayton
+  lat: '34.8775'
+  long: "-83.4027"
+  nearby_rate_centers:
+  - name: CLAYTON
+    distance_km: 0.35
+  - name: DILLRDMTCY
+    distance_km: 4.39
+  - name: BATESVILLE
+    distance_km: 21.16
+- country: US
+  region: GA
+  name: Clermont
+  lat: '34.4783'
+  long: "-83.7720"
+  nearby_rate_centers:
+  - name: CLERMONT
+    distance_km: 0.25
+  - name: CLEVELAND
+    distance_km: 13.69
+  - name: LULA
+    distance_km: 14.26
+- country: US
+  region: GA
+  name: Cleveland
+  lat: '34.5970'
+  long: "-83.7622"
+  nearby_rate_centers:
+  - name: CLEVELAND
+    distance_km: 0.59
+  - name: HELEN
+    distance_km: 12.05
+  - name: CLERMONT
+    distance_km: 13.29
+- country: US
+  region: GA
+  name: Climax
+  lat: '30.8757'
+  long: "-84.4312"
+  nearby_rate_centers:
+  - name: WHIGHAM
+    distance_km: 10.01
+  - name: BAINBRIDGE
+    distance_km: 13.22
+  - name: ATTAPULGUS
+    distance_km: 14.87
+- country: US
+  region: GA
+  name: Clyattville
+  lat: '30.6880'
+  long: "-83.3154"
+  nearby_rate_centers:
+  - name: LAKE PARK
+    distance_km: 12.73
+  - name: VALDOSTA
+    distance_km: 16.41
+  - name: QUITMAN
+    distance_km: 25.68
+- country: US
+  region: GA
+  name: Cobbtown
+  lat: '32.2806'
+  long: "-82.1387"
+  nearby_rate_centers:
+  - name: COBBTOWN
+    distance_km: 0.62
+  - name: COLLINS
+    distance_km: 11.79
+  - name: METTER
+    distance_km: 15.11
+- country: US
+  region: GA
+  name: Cochran
+  lat: '32.3875'
+  long: "-83.3523"
+  nearby_rate_centers:
+  - name: COCHRAN
+    distance_km: 0.38
+  - name: HAWKINSVL
+    distance_km: 16.4
+  - name: CHESTER
+    distance_km: 18.01
+- country: US
+  region: GA
+  name: Cogdell
+  lat: '31.1663'
+  long: "-82.7217"
+  nearby_rate_centers:
+  - name: HOMERVILLE
+    distance_km: 15.21
+  - name: PEARSON
+    distance_km: 19.02
+  - name: WAYCROSS
+    distance_km: 35.1
+- country: US
+  region: GA
+  name: Cohutta
+  lat: '34.9539'
+  long: "-84.9592"
+  nearby_rate_centers:
+  - name: COHUTTA
+    distance_km: 0.93
+  - name: RINGGOLD
+    distance_km: 14.24
+  - name: TUNNELHILL
+    distance_km: 14.5
+- country: US
+  region: GA
+  name: Colbert
+  lat: '34.0370'
+  long: "-83.2139"
+  nearby_rate_centers:
+  - name: COLBERT
+    distance_km: 0.63
+  - name: COMER
+    distance_km: 8.85
+  - name: WINTERVL
+    distance_km: 9.79
+- country: US
+  region: GA
+  name: Coleman
+  lat: '31.6717'
+  long: "-84.8903"
+  nearby_rate_centers:
+  - name: CUTHBERT
+    distance_km: 14.75
+  - name: FORTGAINES
+    distance_km: 15.89
+  - name: BLUFFTON
+    distance_km: 17.5
+- country: US
+  region: GA
+  name: College Park
+  lat: '33.6363'
+  long: "-84.4640"
+  nearby_rate_centers:
+  - name: ATLANTA
+    distance_km: 14.75
+  - name: ATLANTA SO
+    distance_km: 17.66
+  - name: STOCKBDG
+    distance_km: 24.0
+- country: US
+  region: GA
+  name: Collins
+  lat: '32.1794'
+  long: "-82.1103"
+  nearby_rate_centers:
+  - name: COLLINS
+    distance_km: 0.24
+  - name: REIDSVILLE
+    distance_km: 10.47
+  - name: COBBTOWN
+    distance_km: 11.01
+- country: US
+  region: GA
+  name: Colquitt
+  lat: '31.1741'
+  long: "-84.7319"
+  nearby_rate_centers:
+  - name: COLQUITT
+    distance_km: 0.87
+  - name: IRON CITY
+    distance_km: 19.21
+  - name: DONALSONVL
+    distance_km: 20.16
+- country: US
+  region: GA
+  name: Columbus
+  lat: '32.5100'
+  long: "-84.8771"
+  nearby_rate_centers:
+  - name: COLUMBUS
+    distance_km: 11.15
+  - name: CUSSETA
+    distance_km: 23.69
+  - name: WAVELYHALL
+    distance_km: 24.22
+- country: US
+  region: GA
+  name: Comer
+  lat: '34.0625'
+  long: "-83.1263"
+  nearby_rate_centers:
+  - name: COMER
+    distance_km: 0.57
+  - name: CARLTON
+    distance_km: 8.52
+  - name: COLBERT
+    distance_km: 9.15
+- country: US
+  region: GA
+  name: Commerce
+  lat: '34.2134'
+  long: "-83.4733"
+  nearby_rate_centers:
+  - name: COMMERCE
+    distance_km: 1.68
+  - name: MAYSVILLE
+    distance_km: 9.59
+  - name: NICHOLSON
+    distance_km: 11.57
+- country: US
+  region: GA
+  name: Concord
+  lat: '33.0917'
+  long: "-84.4387"
+  nearby_rate_centers:
+  - name: CONCORD
+    distance_km: 0.23
+  - name: ZEBULON
+    distance_km: 9.32
+  - name: GAY
+    distance_km: 12.84
+- country: US
+  region: GA
+  name: Conley
+  lat: '33.6399'
+  long: "-84.3376"
+  nearby_rate_centers:
+  - name: ATLANTA
+    distance_km: 12.87
+  - name: STOCKBDG
+    distance_km: 14.76
+  - name: PANOLA
+    distance_km: 16.4
+- country: US
+  region: GA
+  name: Conyers
+  lat: '33.6646'
+  long: "-83.9966"
+  nearby_rate_centers:
+  - name: CONYERS
+    distance_km: 1.7
+  - name: COVINGTON
+    distance_km: 14.85
+  - name: PANOLA
+    distance_km: 16.97
+- country: US
+  region: GA
+  name: Coolidge
+  lat: '31.0113'
+  long: "-83.8660"
+  nearby_rate_centers:
+  - name: COOLIDGE
+    distance_km: 0.44
+  - name: PAVO
+    distance_km: 13.36
+  - name: OCHLOCKNEE
+    distance_km: 17.81
+- country: US
+  region: GA
+  name: Cordele
+  lat: '31.9563'
+  long: "-83.7694"
+  nearby_rate_centers:
+  - name: CORDELE
+    distance_km: 2.27
+  - name: VIENNA
+    distance_km: 15.41
+  - name: LKBLACKSHE
+    distance_km: 16.46
+- country: US
+  region: GA
+  name: Cornelia
+  lat: '34.5170'
+  long: "-83.5311"
+  nearby_rate_centers:
+  - name: CORNELIA
+    distance_km: 1.37
+  - name: CLARKESVL
+    distance_km: 11.21
+  - name: LULA
+    distance_km: 19.37
+- country: US
+  region: GA
+  name: Country Club Estates
+  lat: '31.2113'
+  long: "-81.4622"
+  nearby_rate_centers:
+  - name: BRUNSWICK
+    distance_km: 6.5
+  - name: STSIMONSIS
+    distance_km: 11.29
+  - name: JEKYLL IS
+    distance_km: 11.41
+- country: US
+  region: GA
+  name: Covington
+  lat: '33.6049'
+  long: "-83.8463"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 1.18
+  - name: SOCIALCRCL
+    distance_km: 13.49
+  - name: CONYERS
+    distance_km: 16.96
+- country: US
+  region: GA
+  name: Crawford
+  lat: '33.8831'
+  long: "-83.1551"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance_km: 2.86
+  - name: MAXEYS
+    distance_km: 11.89
+  - name: WINTERVL
+    distance_km: 14.22
+- country: US
+  region: GA
+  name: Crawfordville
+  lat: '33.5545'
+  long: "-82.8966"
+  nearby_rate_centers:
+  - name: CRAWFORDVL
+    distance_km: 0.59
+  - name: WHITE PL
+    distance_km: 15.41
+  - name: UNIONPOINT
+    distance_km: 17.99
+- country: US
+  region: GA
+  name: Crescent
+  lat: '31.5153'
+  long: "-81.3752"
+  nearby_rate_centers:
+  - name: EULONIA
+    distance_km: 4.88
+  - name: SAPELO IS
+    distance_km: 12.9
+  - name: DARIEN
+    distance_km: 16.58
+- country: US
+  region: GA
+  name: Crooked Creek
+  lat: '33.2616'
+  long: "-83.2679"
+  nearby_rate_centers:
+  - name: EATONTON
+    distance_km: 13.52
+  - name: LKSINCLAIR
+    distance_km: 13.69
+  - name: MILLEDGEVL
+    distance_km: 20.32
+- country: US
+  region: GA
+  name: Culloden
+  lat: '32.8632'
+  long: "-84.0939"
+  nearby_rate_centers:
+  - name: CULLODEN
+    distance_km: 0.27
+  - name: YATESVILLE
+    distance_km: 7.12
+  - name: ROBERTA
+    distance_km: 17.51
+- country: US
+  region: GA
+  name: Cumming
+  lat: '34.2063'
+  long: "-84.1339"
+  nearby_rate_centers:
+  - name: CUMMING
+    distance_km: 0.61
+  - name: BUFORD
+    distance_km: 13.93
+  - name: ALPHARETTA
+    distance_km: 19.28
+- country: US
+  region: GA
+  name: Cusseta
+  lat: '32.3470'
+  long: "-84.7870"
+  nearby_rate_centers:
+  - name: CUSSETA
+    distance_km: 3.69
+  - name: COLUMBUS
+    distance_km: 23.68
+  - name: BUENAVISTA
+    distance_km: 25.81
+- country: US
+  region: GA
+  name: Cuthbert
+  lat: '31.7713'
+  long: "-84.7940"
+  nearby_rate_centers:
+  - name: CUTHBERT
+    distance_km: 0.49
+  - name: SHELLMAN
+    distance_km: 17.74
+  - name: EDISON
+    distance_km: 24.59
+- country: US
+  region: GA
+  name: Dacula
+  lat: '33.9815'
+  long: "-83.8952"
+  nearby_rate_centers:
+  - name: LAWRENCEVL
+    distance_km: 9.12
+  - name: WINDER
+    distance_km: 16.71
+  - name: BRASELTON
+    distance_km: 19.42
+- country: US
+  region: GA
+  name: Dahlonega
+  lat: '34.5311'
+  long: "-83.9804"
+  nearby_rate_centers:
+  - name: DAHLONEGA
+    distance_km: 0.66
+  - name: DAWSONVL
+    distance_km: 17.69
+  - name: CLERMONT
+    distance_km: 19.75
+- country: US
+  region: GA
+  name: Daisy
+  lat: '32.1510'
+  long: "-81.8362"
+  nearby_rate_centers:
+  - name: CLAXTON
+    distance_km: 6.73
+  - name: NEVILS
+    distance_km: 13.22
+  - name: PEMBROKE
+    distance_km: 20.11
+- country: US
+  region: GA
+  name: Dallas
+  lat: '33.9152'
+  long: "-84.8416"
+  nearby_rate_centers:
+  - name: ATLANTA NW
+    distance_km: 18.34
+  - name: ROCKMART
+    distance_km: 21.28
+  - name: VILLA RICA
+    distance_km: 21.78
+- country: US
+  region: GA
+  name: Dalton
+  lat: '34.7690'
+  long: "-84.9720"
+  nearby_rate_centers:
+  - name: DALTON
+    distance_km: 0.92
+  - name: TUNNELHILL
+    distance_km: 10.41
+  - name: VILLANOW
+    distance_km: 17.01
+- country: US
+  region: GA
+  name: Damascus
+  lat: '31.2989'
+  long: "-84.7170"
+  nearby_rate_centers:
+  - name: COLQUITT
+    distance_km: 14.82
+  - name: ARLINGTON
+    distance_km: 14.87
+  - name: BLAKELY
+    distance_km: 22.37
+- country: US
+  region: GA
+  name: Danielsville
+  lat: '34.1238'
+  long: "-83.2202"
+  nearby_rate_centers:
+  - name: DANIELSVL
+    distance_km: 0.53
+  - name: ILA
+    distance_km: 8.2
+  - name: COLBERT
+    distance_km: 10.03
+- country: US
+  region: GA
+  name: Danville
+  lat: '32.6060'
+  long: "-83.2460"
+  nearby_rate_centers:
+  - name: DANVILLE
+    distance_km: 0.94
+  - name: MONTROSE
+    distance_km: 10.63
+  - name: JEFFERSNVL
+    distance_km: 12.21
+- country: US
+  region: GA
+  name: Darien
+  lat: '31.3568'
+  long: "-81.4314"
+  nearby_rate_centers:
+  - name: DARIEN
+    distance_km: 1.96
+  - name: SAPELO IS
+    distance_km: 15.25
+  - name: EULONIA
+    distance_km: 19.33
+- country: US
+  region: GA
+  name: Dasher
+  lat: '30.7462'
+  long: "-83.2253"
+  nearby_rate_centers:
+  - name: LAKE PARK
+    distance_km: 7.76
+  - name: VALDOSTA
+    distance_km: 11.07
+  - name: HAHIRA
+    distance_km: 30.68
+- country: US
+  region: GA
+  name: Davisboro
+  lat: '32.9826'
+  long: "-82.6032"
+  nearby_rate_centers:
+  - name: DAVISBORO
+    distance_km: 1.01
+  - name: BARTOW
+    distance_km: 16.9
+  - name: LOUISVILLE
+    distance_km: 18.53
+- country: US
+  region: GA
+  name: Dawson
+  lat: '31.7721'
+  long: "-84.4437"
+  nearby_rate_centers:
+  - name: DAWSON
+    distance_km: 0.37
+  - name: SASSER
+    distance_km: 10.72
+  - name: SHELLMAN
+    distance_km: 15.48
+- country: US
+  region: GA
+  name: Dawsonville
+  lat: '34.4362'
+  long: "-84.1250"
+  nearby_rate_centers:
+  - name: DAWSONVL
+    distance_km: 2.11
+  - name: BIG CANOE
+    distance_km: 15.46
+  - name: DAHLONEGA
+    distance_km: 16.98
+- country: US
+  region: GA
+  name: De Soto
+  lat: '31.9548'
+  long: "-84.0636"
+  nearby_rate_centers:
+  - name: LESLIE
+    distance_km: 2.87
+  - name: LKBLACKSHE
+    distance_km: 11.32
+  - name: SMITHVILLE
+    distance_km: 18.7
+- country: US
+  region: GA
+  name: Dearing
+  lat: '33.4149'
+  long: "-82.3852"
+  nearby_rate_centers:
+  - name: HARLEM
+    distance_km: 6.3
+  - name: THOMSON
+    distance_km: 12.03
+  - name: APPLING
+    distance_km: 15.74
+- country: US
+  region: GA
+  name: Decatur
+  lat: '33.7711'
+  long: "-84.2963"
+  nearby_rate_centers:
+  - name: ATLANTA
+    distance_km: 8.22
+  - name: TUCKER
+    distance_km: 12.05
+  - name: STONE MT
+    distance_km: 12.64
+- country: US
+  region: GA
+  name: Deenwood
+  lat: '31.2477'
+  long: "-82.3677"
+  nearby_rate_centers:
+  - name: WAYCROSS
+    distance_km: 4.37
+  - name: BLACKSHEAR
+    distance_km: 13.64
+  - name: HOBOKEN
+    distance_km: 23.47
+- country: US
+  region: GA
+  name: Deepstep
+  lat: '33.0176'
+  long: "-82.9678"
+  nearby_rate_centers:
+  - name: SANDERSVL
+    distance_km: 15.14
+  - name: TOOMSBORO
+    distance_km: 23.83
+  - name: MILLEDGEVL
+    distance_km: 24.88
+- country: US
+  region: GA
+  name: Demorest
+  lat: '34.5648'
+  long: "-83.5424"
+  nearby_rate_centers:
+  - name: CLARKESVL
+    distance_km: 6.12
+  - name: CORNELIA
+    distance_km: 6.73
+  - name: TOCCOA
+    distance_km: 20.34
+- country: US
+  region: GA
+  name: Denton
+  lat: '31.7222'
+  long: "-82.6968"
+  nearby_rate_centers:
+  - name: HAZLEHURST
+    distance_km: 18.98
+  - name: BROXTON
+    distance_km: 21.5
+  - name: NICHOLLS
+    distance_km: 23.42
+- country: US
+  region: GA
+  name: Dewy Rose
+  lat: '34.1681'
+  long: "-82.9395"
+  nearby_rate_centers:
+  - name: ELBERTON
+    distance_km: 8.84
+  - name: CARLTON
+    distance_km: 15.8
+  - name: ROYSTON
+    distance_km: 20.13
+- country: US
+  region: GA
+  name: Dexter
+  lat: '32.4331'
+  long: "-83.0595"
+  nearby_rate_centers:
+  - name: DEXTER
+    distance_km: 0.18
+  - name: RENTZ
+    distance_km: 8.5
+  - name: CHESTER
+    distance_km: 10.52
+- country: US
+  region: GA
+  name: Dillard
+  lat: '34.9749'
+  long: "-83.3820"
+  nearby_rate_centers:
+  - name: DILLRDMTCY
+    distance_km: 6.62
+  - name: CLAYTON
+    distance_km: 10.99
+  - name: BATESVILLE
+    distance_km: 29.96
+- country: US
+  region: GA
+  name: Dixie
+  lat: '30.7875'
+  long: "-83.6680"
+  nearby_rate_centers:
+  - name: QUITMAN
+    distance_km: 10.42
+  - name: BOSTON
+    distance_km: 12.06
+  - name: BARWICK
+    distance_km: 13.52
+- country: US
+  region: GA
+  name: Dixie Union
+  lat: '31.3419'
+  long: "-82.4608"
+  nearby_rate_centers:
+  - name: WAYCROSS
+    distance_km: 17.75
+  - name: BLACKSHEAR
+    distance_km: 21.26
+  - name: ALMA
+    distance_km: 22.3
+- country: US
+  region: GA
+  name: Dock Junction
+  lat: '31.2031'
+  long: "-81.5155"
+  nearby_rate_centers:
+  - name: BRUNSWICK
+    distance_km: 5.61
+  - name: JEKYLL IS
+    distance_km: 13.38
+  - name: STSIMONSIS
+    distance_km: 14.93
+- country: US
+  region: GA
+  name: Doerun
+  lat: '31.3218'
+  long: "-83.9170"
+  nearby_rate_centers:
+  - name: DOERUN
+    distance_km: 0.49
+  - name: FUNSTON
+    distance_km: 14.28
+  - name: MOULTRIE
+    distance_km: 19.73
+- country: US
+  region: GA
+  name: Donalsonville
+  lat: '31.0404'
+  long: "-84.8792"
+  nearby_rate_centers:
+  - name: DONALSONVL
+    distance_km: 0.47
+  - name: IRON CITY
+    distance_km: 6.58
+  - name: JAKIN
+    distance_km: 11.3
+- country: US
+  region: GA
+  name: Dooling
+  lat: '32.2300'
+  long: "-83.9289"
+  nearby_rate_centers:
+  - name: BYROMVILLE
+    distance_km: 4.18
+  - name: MONTEZUMA
+    distance_km: 13.25
+  - name: PINEHURST
+    distance_km: 16.65
+- country: US
+  region: GA
+  name: Doraville
+  lat: '33.9073'
+  long: "-84.2711"
+  nearby_rate_centers:
+  - name: CHAMBLEE
+    distance_km: 3.17
+  - name: NORCROSS
+    distance_km: 7.07
+  - name: TUCKER
+    distance_km: 7.75
+- country: US
+  region: GA
+  name: Douglas
+  lat: '31.5065'
+  long: "-82.8544"
+  nearby_rate_centers:
+  - name: DOUGLAS
+    distance_km: 0.49
+  - name: BROXTON
+    distance_km: 13.8
+  - name: NICHOLLS
+    distance_km: 19.9
+- country: US
+  region: GA
+  name: Douglasville
+  lat: '33.7384'
+  long: "-84.7054"
+  nearby_rate_centers:
+  - name: AUSTELL
+    distance_km: 10.93
+  - name: VILLA RICA
+    distance_km: 20.25
+  - name: ATLANTA NW
+    distance_km: 20.58
+- country: US
+  region: GA
+  name: Druid Hills
+  lat: '33.7842'
+  long: "-84.3272"
+  nearby_rate_centers:
+  - name: ATLANTA
+    distance_km: 6.31
+  - name: CHAMBLEE
+    distance_km: 12.1
+  - name: TUCKER
+    distance_km: 13.08
+- country: US
+  region: GA
+  name: Du Pont
+  lat: '30.9891'
+  long: "-82.8691"
+  nearby_rate_centers:
+  - name: HOMERVILLE
+    distance_km: 12.36
+  - name: LAKELAND
+    distance_km: 20.54
+  - name: RAY CITY
+    distance_km: 33.12
+- country: US
+  region: GA
+  name: Dublin
+  lat: '32.5360'
+  long: "-82.9280"
+  nearby_rate_centers:
+  - name: DUBLIN
+    distance_km: 1.94
+  - name: DUDLEY
+    distance_km: 14.23
+  - name: DEXTER
+    distance_km: 16.84
+- country: US
+  region: GA
+  name: Dudley
+  lat: '32.5320'
+  long: "-83.0805"
+  nearby_rate_centers:
+  - name: DUDLEY
+    distance_km: 0.7
+  - name: MONTROSE
+    distance_km: 6.97
+  - name: DEXTER
+    distance_km: 11.34
+- country: US
+  region: GA
+  name: Duluth
+  lat: '34.0053'
+  long: "-84.1492"
+  nearby_rate_centers:
+  - name: DULUTH
+    distance_km: 0.7
+  - name: NORCROSS
+    distance_km: 8.83
+  - name: ATLANTA NE
+    distance_km: 12.86
+- country: US
+  region: GA
+  name: Dunwoody
+  lat: '33.9418'
+  long: "-84.3122"
+  nearby_rate_centers:
+  - name: CHAMBLEE
+    distance_km: 5.84
+  - name: ROSWELL
+    distance_km: 9.28
+  - name: NORCROSS
+    distance_km: 9.72
+- country: US
+  region: GA
+  name: Dutch Island
+  lat: '32.0047'
+  long: "-81.0317"
+  nearby_rate_centers:
+  - name: SAVANNAH
+    distance_km: 9.54
+  - name: TYBEE IS
+    distance_km: 18.0
+  - name: POOLER
+    distance_km: 23.51
+- country: US
+  region: GA
+  name: Eagle Grove
+  lat: '34.2918'
+  long: "-83.0043"
+  nearby_rate_centers:
+  - name: ROYSTON
+    distance_km: 9.62
+  - name: HARTWELL
+    distance_km: 9.78
+  - name: LAVONIA
+    distance_km: 18.18
+- country: US
+  region: GA
+  name: East Dublin
+  lat: '32.5468'
+  long: "-82.8675"
+  nearby_rate_centers:
+  - name: DUBLIN
+    distance_km: 4.09
+  - name: DUDLEY
+    distance_km: 19.92
+  - name: RENTZ
+    distance_km: 21.65
+- country: US
+  region: GA
+  name: East Ellijay
+  lat: '34.6760'
+  long: "-84.4761"
+  nearby_rate_centers:
+  - name: ELLIJAY
+    distance_km: 2.1
+  - name: JASPER
+    distance_km: 23.42
+  - name: DIAL
+    distance_km: 24.77
+- country: US
+  region: GA
+  name: East Griffin
+  lat: '33.2439'
+  long: "-84.2318"
+  nearby_rate_centers:
+  - name: GRIFFIN
+    distance_km: 2.45
+  - name: ZEBULON
+    distance_km: 18.88
+  - name: BARNESVL
+    distance_km: 22.29
+- country: US
+  region: GA
+  name: East Newnan
+  lat: '33.3461'
+  long: "-84.7763"
+  nearby_rate_centers:
+  - name: NEWNAN
+    distance_km: 4.19
+  - name: GRANTVILLE
+    distance_km: 12.9
+  - name: LUTHERSVL
+    distance_km: 15.62
+- country: US
+  region: GA
+  name: East Point
+  lat: '33.6696'
+  long: "-84.4701"
+  nearby_rate_centers:
+  - name: ATLANTA
+    distance_km: 12.11
+  - name: ATLANTA SO
+    distance_km: 21.28
+  - name: AUSTELL
+    distance_km: 22.28
+- country: US
+  region: GA
+  name: Eastman
+  lat: '32.1973'
+  long: "-83.1714"
+  nearby_rate_centers:
+  - name: EASTMAN
+    distance_km: 0.4
+  - name: CADWELL
+    distance_km: 19.38
+  - name: CHESTER
+    distance_km: 21.69
+- country: US
+  region: GA
+  name: Eatonton
+  lat: '33.3258'
+  long: "-83.3886"
+  nearby_rate_centers:
+  - name: EATONTON
+    distance_km: 0.32
+  - name: LKSINCLAIR
+    distance_km: 17.87
+  - name: MONTICELLO
+    distance_km: 27.38
+- country: US
+  region: GA
+  name: Edge Hill
+  lat: '33.1534'
+  long: "-82.6250"
+  nearby_rate_centers:
+  - name: GIBSON
+    distance_km: 9.42
+  - name: DAVISBORO
+    distance_km: 19.94
+  - name: WRENS
+    distance_km: 22.4
+- country: US
+  region: GA
+  name: Edison
+  lat: '31.5608'
+  long: "-84.7374"
+  nearby_rate_centers:
+  - name: EDISON
+    distance_km: 0.68
+  - name: MORGAN
+    distance_km: 13.1
+  - name: BLUFFTON
+    distance_km: 14.09
+- country: US
+  region: GA
+  name: Elberton
+  lat: '34.1063'
+  long: "-82.8705"
+  nearby_rate_centers:
+  - name: ELBERTON
+    distance_km: 1.2
+  - name: CARLTON
+    distance_km: 16.39
+  - name: COMER
+    distance_km: 23.85
+- country: US
+  region: GA
+  name: Ellaville
+  lat: '32.2380'
+  long: "-84.3089"
+  nearby_rate_centers:
+  - name: ELLAVILLE
+    distance_km: 0.67
+  - name: IDEAL
+    distance_km: 18.59
+  - name: AMERICUS
+    distance_km: 20.48
+- country: US
+  region: GA
+  name: Ellenton
+  lat: '31.1760'
+  long: "-83.5877"
+  nearby_rate_centers:
+  - name: BERLIN
+    distance_km: 12.57
+  - name: NORMANPARK
+    distance_km: 13.67
+  - name: SPARKS
+    distance_km: 13.87
+- country: US
+  region: GA
+  name: Ellerslie
+  lat: '32.6341'
+  long: "-84.7978"
+  nearby_rate_centers:
+  - name: WAVELYHALL
+    distance_km: 8.72
+  - name: HAMILTON
+    distance_km: 15.81
+  - name: GENEVA
+    distance_km: 23.8
+- country: US
+  region: GA
+  name: Ellijay
+  lat: '34.6914'
+  long: "-84.4839"
+  nearby_rate_centers:
+  - name: ELLIJAY
+    distance_km: 0.24
+  - name: BLUE RIDGE
+    distance_km: 24.32
+  - name: DIAL
+    distance_km: 24.83
+- country: US
+  region: GA
+  name: Emerson
+  lat: '34.1303'
+  long: "-84.7483"
+  nearby_rate_centers:
+  - name: CARTERSVL
+    distance_km: 6.01
+  - name: KINGSTON
+    distance_km: 21.26
+  - name: WOODSTOCK
+    distance_km: 21.42
+- country: US
+  region: GA
+  name: Empire
+  lat: '32.3394'
+  long: "-83.2950"
+  nearby_rate_centers:
+  - name: COCHRAN
+    distance_km: 7.64
+  - name: CHESTER
+    distance_km: 13.92
+  - name: HAWKINSVL
+    distance_km: 17.97
+- country: US
+  region: GA
+  name: Enigma
+  lat: '31.4076'
+  long: "-83.3290"
+  nearby_rate_centers:
+  - name: ENIGMA
+    distance_km: 0.26
+  - name: ALAPAHA
+    distance_km: 10.88
+  - name: TIFTON
+    distance_km: 17.63
+- country: US
+  region: GA
+  name: Ephesus
+  lat: '33.4069'
+  long: "-85.2568"
+  nearby_rate_centers:
+  - name: ROOPVILLE
+    distance_km: 12.29
+  - name: BOWDON
+    distance_km: 14.83
+  - name: FRANKLIN
+    distance_km: 19.95
+- country: US
+  region: GA
+  name: Epworth
+  lat: '34.9510'
+  long: "-84.3808"
+  nearby_rate_centers:
+  - name: MCCAYSVL
+    distance_km: 2.76
+  - name: BLUE RIDGE
+    distance_km: 10.48
+  - name: LAKEWOOD
+    distance_km: 12.97
+- country: US
+  region: GA
+  name: Eton
+  lat: '34.8282'
+  long: "-84.7655"
+  nearby_rate_centers:
+  - name: CHATSWORTH
+    distance_km: 6.75
+  - name: TENNGA
+    distance_km: 17.37
+  - name: DALTON
+    distance_km: 19.23
+- country: US
+  region: GA
+  name: Euharlee
+  lat: '34.1441'
+  long: "-84.9327"
+  nearby_rate_centers:
+  - name: KINGSTON
+    distance_km: 9.83
+  - name: CARTERSVL
+    distance_km: 12.48
+  - name: ROCKMART
+    distance_km: 19.15
+- country: US
+  region: GA
+  name: Eulonia
+  lat: '31.5254'
+  long: "-81.4320"
+  nearby_rate_centers:
+  - name: EULONIA
+    distance_km: 0.98
+  - name: DARIEN
+    distance_km: 16.79
+  - name: SAPELO IS
+    distance_km: 17.47
+- country: US
+  region: GA
+  name: Evans
+  lat: '33.5619'
+  long: "-82.1351"
+  nearby_rate_centers:
+  - name: APPLING
+    distance_km: 16.91
+  - name: AUGUSTA
+    distance_km: 18.18
+  - name: HARLEM
+    distance_km: 23.39
+- country: US
+  region: GA
+  name: Everett
+  lat: '31.3921'
+  long: "-81.6398"
+  nearby_rate_centers:
+  - name: DARIEN
+    distance_km: 19.78
+  - name: WAYNESVL
+    distance_km: 23.87
+  - name: EULONIA
+    distance_km: 25.64
+- country: US
+  region: GA
+  name: Experiment
+  lat: '33.2790'
+  long: "-84.2760"
+  nearby_rate_centers:
+  - name: GRIFFIN
+    distance_km: 3.61
+  - name: ZEBULON
+    distance_km: 20.77
+  - name: SENOIA
+    distance_km: 25.6
+- country: US
+  region: GA
+  name: Faceville
+  lat: '30.7537'
+  long: "-84.6372"
+  nearby_rate_centers:
+  - name: ATTAPULGUS
+    distance_km: 14.91
+  - name: CHATAHOCHE
+    distance_km: 15.55
+  - name: REYNOLDSVL
+    distance_km: 17.65
+- country: US
+  region: GA
+  name: Fair Oaks
+  lat: '33.9193'
+  long: "-84.5445"
+  nearby_rate_centers:
+  - name: MARIETTA
+    distance_km: 3.3
+  - name: SMYRNA
+    distance_km: 5.32
+  - name: ATLANTA NW
+    distance_km: 9.08
+- country: US
+  region: GA
+  name: Fairburn
+  lat: '33.5496'
+  long: "-84.5914"
+  nearby_rate_centers:
+  - name: ATLANTA SO
+    distance_km: 20.22
+  - name: NEWNAN
+    distance_km: 27.24
+  - name: SENOIA
+    distance_km: 27.89
+- country: US
+  region: GA
+  name: Fairfield Plantation
+  lat: '33.6457'
+  long: "-84.9254"
+  nearby_rate_centers:
+  - name: VILLA RICA
+    distance_km: 9.56
+  - name: TEMPLE
+    distance_km: 13.77
+  - name: CARROLLTON
+    distance_km: 15.6
+- country: US
+  region: GA
+  name: Fairmount
+  lat: '34.4383'
+  long: "-84.6998"
+  nearby_rate_centers:
+  - name: FAIRMOUNT
+    distance_km: 0.91
+  - name: RANGER
+    distance_km: 7.26
+  - name: ADAIRSVL
+    distance_km: 23.25
+- country: US
+  region: GA
+  name: Fairplay
+  lat: '33.6187'
+  long: "-84.8605"
+  nearby_rate_centers:
+  - name: VILLA RICA
+    distance_km: 13.88
+  - name: TEMPLE
+    distance_km: 20.24
+  - name: CARROLLTON
+    distance_km: 20.29
+- country: US
+  region: GA
+  name: Fairview
+  lat: '34.9295'
+  long: "-85.2940"
+  nearby_rate_centers:
+  - name: ROSSVILLE
+    distance_km: 5.22
+  - name: CHICKAMAGA
+    distance_km: 6.18
+  - name: WEST BROW
+    distance_km: 10.55
+- country: US
+  region: GA
+  name: Fargo
+  lat: '30.6881'
+  long: "-82.5721"
+  nearby_rate_centers:
+  - name: FARGO
+    distance_km: 0.99
+  - name: HOMERVILLE
+    distance_km: 41.77
+  - name: ST GEORGE
+    distance_km: 54.32
+- country: US
+  region: GA
+  name: Fayetteville
+  lat: '33.4501'
+  long: "-84.4710"
+  nearby_rate_centers:
+  - name: ATLANTA SO
+    distance_km: 9.27
+  - name: SENOIA
+    distance_km: 18.12
+  - name: STOCKBDG
+    distance_km: 24.36
+- country: US
+  region: GA
+  name: Fitzgerald
+  lat: '31.7134'
+  long: "-83.2514"
+  nearby_rate_centers:
+  - name: FITZGERALD
+    distance_km: 0.62
+  - name: OCILLA
+    distance_km: 13.44
+  - name: IRWINVILLE
+    distance_km: 14.44
+- country: US
+  region: GA
+  name: Flemington
+  lat: '31.8507'
+  long: "-81.5603"
+  nearby_rate_centers:
+  - name: HINESVILLE
+    distance_km: 2.89
+  - name: MIDWAY
+    distance_km: 13.79
+  - name: LUDOWICI
+    distance_km: 23.61
+- country: US
+  region: GA
+  name: Flovilla
+  lat: '33.2524'
+  long: "-83.9030"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 7.87
+  - name: MONTICELLO
+    distance_km: 21.4
+  - name: FORSYTH
+    distance_km: 24.76
+- country: US
+  region: GA
+  name: Flowery Branch
+  lat: '34.1712'
+  long: "-83.9142"
+  nearby_rate_centers:
+  - name: FLOWEYBRCH
+    distance_km: 1.39
+  - name: BUFORD
+    distance_km: 10.66
+  - name: BRASELTON
+    distance_km: 15.73
+- country: US
+  region: GA
+  name: Folkston
+  lat: '30.8392'
+  long: "-82.0073"
+  nearby_rate_centers:
+  - name: FOLKSTON
+    distance_km: 0.59
+  - name: ST GEORGE
+    distance_km: 35.75
+  - name: HOBOKEN
+    distance_km: 39.86
+- country: US
+  region: GA
+  name: Forest Park
+  lat: '33.6209'
+  long: "-84.3590"
+  nearby_rate_centers:
+  - name: ATLANTA
+    distance_km: 14.48
+  - name: ATLANTA SO
+    distance_km: 14.53
+  - name: STOCKBDG
+    distance_km: 14.78
+- country: US
+  region: GA
+  name: Forsyth
+  lat: '33.0352'
+  long: "-83.9390"
+  nearby_rate_centers:
+  - name: FORSYTH
+    distance_km: 0.73
+  - name: BARNESVL
+    distance_km: 19.68
+  - name: YATESVILLE
+    distance_km: 22.53
+- country: US
+  region: GA
+  name: Fort Gaines
+  lat: '31.6238'
+  long: "-85.0528"
+  nearby_rate_centers:
+  - name: FORTGAINES
+    distance_km: 1.85
+  - name: BLUFFTON
+    distance_km: 20.68
+  - name: GEORGETOWN
+    distance_km: 29.26
+- country: US
+  region: GA
+  name: Fort Oglethorpe
+  lat: '34.9318'
+  long: "-85.2460"
+  nearby_rate_centers:
+  - name: ROSSVILLE
+    distance_km: 6.05
+  - name: CHICKAMAGA
+    distance_km: 7.18
+  - name: RINGGOLD
+    distance_km: 12.69
+- country: US
+  region: GA
+  name: Fort Stewart
+  lat: '31.8811'
+  long: "-81.6131"
+  nearby_rate_centers:
+  - name: HINESVILLE
+    distance_km: 4.29
+  - name: MIDWAY
+    distance_km: 19.68
+  - name: LUDOWICI
+    distance_km: 22.95
+- country: US
+  region: GA
+  name: Fort Valley
+  lat: '32.5520'
+  long: "-83.8817"
+  nearby_rate_centers:
+  - name: FORTVALLEY
+    distance_km: 0.28
+  - name: MARSHALLVL
+    distance_km: 11.89
+  - name: BYRON
+    distance_km: 15.37
+- country: US
+  region: GA
+  name: Franklin
+  lat: '33.2797'
+  long: "-85.0985"
+  nearby_rate_centers:
+  - name: FRANKLIN
+    distance_km: 0.46
+  - name: ROOPVILLE
+    distance_km: 19.35
+  - name: HOGANSVL
+    distance_km: 20.58
+- country: US
+  region: GA
+  name: Franklin Springs
+  lat: '34.2840'
+  long: "-83.1459"
+  nearby_rate_centers:
+  - name: ROYSTON
+    distance_km: 3.44
+  - name: CARNESVL
+    distance_km: 12.38
+  - name: LAVONIA
+    distance_km: 16.81
+- country: US
+  region: GA
+  name: Funston
+  lat: '31.1989'
+  long: "-83.8771"
+  nearby_rate_centers:
+  - name: FUNSTON
+    distance_km: 0.63
+  - name: MOULTRIE
+    distance_km: 8.48
+  - name: DOERUN
+    distance_km: 13.7
+- country: US
+  region: GA
+  name: Gainesville
+  lat: '34.2902'
+  long: "-83.8294"
+  nearby_rate_centers:
+  - name: GAINESVL
+    distance_km: 1.23
+  - name: FLOWEYBRCH
+    distance_km: 14.17
+  - name: LULA
+    distance_km: 18.18
+- country: US
+  region: GA
+  name: Garden City
+  lat: '32.0867'
+  long: "-81.1773"
+  nearby_rate_centers:
+  - name: POOLER
+    distance_km: 7.05
+  - name: SAVANNAH
+    distance_km: 8.38
+  - name: SO GUYTON
+    distance_km: 16.96
+- country: US
+  region: GA
+  name: Gardi
+  lat: '31.5409'
+  long: "-81.7970"
+  nearby_rate_centers:
+  - name: JESUP
+    distance_km: 11.05
+  - name: LUDOWICI
+    distance_km: 19.19
+  - name: SCREVEN
+    distance_km: 21.88
+- country: US
+  region: GA
+  name: Garfield
+  lat: '32.6496'
+  long: "-82.0962"
+  nearby_rate_centers:
+  - name: TWIN CITY
+    distance_km: 10.93
+  - name: PORTAL
+    distance_km: 20.13
+  - name: SWAINSBORO
+    distance_km: 22.68
+- country: US
+  region: GA
+  name: Gay
+  lat: '33.0937'
+  long: "-84.5755"
+  nearby_rate_centers:
+  - name: GAY
+    distance_km: 0.24
+  - name: WOODBURY
+    distance_km: 12.17
+  - name: CONCORD
+    distance_km: 12.64
+- country: US
+  region: GA
+  name: Geneva
+  lat: '32.5790'
+  long: "-84.5516"
+  nearby_rate_centers:
+  - name: GENEVA
+    distance_km: 0.44
+  - name: TALBOTTON
+    distance_km: 10.53
+  - name: WAVELYHALL
+    distance_km: 21.25
+- country: US
+  region: GA
+  name: Georgetown
+  lat: '31.9849'
+  long: "-81.2260"
+  nearby_rate_centers:
+  - name: RICHMONDHL
+    distance_km: 9.8
+  - name: POOLER
+    distance_km: 14.83
+  - name: KELLER
+    distance_km: 15.88
+- country: US
+  region: GA
+  name: Gibson
+  lat: '33.2334'
+  long: "-82.5959"
+  nearby_rate_centers:
+  - name: GIBSON
+    distance_km: 0.32
+  - name: WRENS
+    distance_km: 19.02
+  - name: WARRENTON
+    distance_km: 20.6
+- country: US
+  region: GA
+  name: Gillsville
+  lat: '34.3085'
+  long: "-83.6352"
+  nearby_rate_centers:
+  - name: LULA
+    distance_km: 8.86
+  - name: MAYSVILLE
+    distance_km: 8.96
+  - name: HOMER
+    distance_km: 13.0
+- country: US
+  region: GA
+  name: Girard
+  lat: '33.0400'
+  long: "-81.7122"
+  nearby_rate_centers:
+  - name: SARDIS
+    distance_km: 8.6
+  - name: HILLTONIA
+    distance_km: 18.18
+  - name: WAYNESBORO
+    distance_km: 28.98
+- country: US
+  region: GA
+  name: Glenn
+  lat: '33.1493'
+  long: "-85.2092"
+  nearby_rate_centers:
+  - name: FRANKLIN
+    distance_km: 17.85
+  - name: LAGRANGE
+    distance_km: 20.17
+  - name: HOGANSVL
+    distance_km: 27.36
+- country: US
+  region: GA
+  name: Glennville
+  lat: '31.9379'
+  long: "-81.9305"
+  nearby_rate_centers:
+  - name: GLENNVILLE
+    distance_km: 0.42
+  - name: REIDSVILLE
+    distance_km: 23.99
+  - name: CLAXTON
+    distance_km: 24.81
+- country: US
+  region: GA
+  name: Glenwood
+  lat: '32.1805'
+  long: "-82.6709"
+  nearby_rate_centers:
+  - name: GLENWOOD
+    distance_km: 0.43
+  - name: MT VERNON
+    distance_km: 7.37
+  - name: ALAMO
+    distance_km: 10.21
+- country: US
+  region: GA
+  name: Godfrey
+  lat: '33.4513'
+  long: "-83.5030"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 15.88
+  - name: EATONTON
+    distance_km: 17.41
+  - name: RUTLEDGE
+    distance_km: 22.63
+- country: US
+  region: GA
+  name: Good Hope
+  lat: '33.7850'
+  long: "-83.6094"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 8.96
+  - name: RUTLEDGE
+    distance_km: 16.81
+  - name: SOCIALCRCL
+    distance_km: 17.19
+- country: US
+  region: GA
+  name: Gordon
+  lat: '32.8866'
+  long: "-83.3349"
+  nearby_rate_centers:
+  - name: GORDON
+    distance_km: 0.69
+  - name: IRWINTON
+    distance_km: 17.04
+  - name: HADDOCK
+    distance_km: 18.51
+- country: US
+  region: GA
+  name: Gough
+  lat: '33.0880'
+  long: "-82.2286"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 19.13
+  - name: WAYNESBORO
+    distance_km: 19.77
+  - name: WRENS
+    distance_km: 20.41
+- country: US
+  region: GA
+  name: Graham
+  lat: '31.8292'
+  long: "-82.5030"
+  nearby_rate_centers:
+  - name: HAZLEHURST
+    distance_km: 9.45
+  - name: BAXLEY
+    distance_km: 15.73
+  - name: LUMBERCITY
+    distance_km: 20.73
+- country: US
+  region: GA
+  name: Grantville
+  lat: '33.2371'
+  long: "-84.8293"
+  nearby_rate_centers:
+  - name: GRANTVILLE
+    distance_km: 0.68
+  - name: LUTHERSVL
+    distance_km: 8.58
+  - name: HOGANSVL
+    distance_km: 10.74
+- country: US
+  region: GA
+  name: Gray
+  lat: '33.0021'
+  long: "-83.5374"
+  nearby_rate_centers:
+  - name: GRAY
+    distance_km: 0.6
+  - name: HADDOCK
+    distance_km: 10.88
+  - name: MACON
+    distance_km: 20.44
+- country: US
+  region: GA
+  name: Grayson
+  lat: '33.8904'
+  long: "-83.9576"
+  nearby_rate_centers:
+  - name: LAWRENCEVL
+    distance_km: 8.37
+  - name: ATLANTA NE
+    distance_km: 19.2
+  - name: DULUTH
+    distance_km: 21.38
+- country: US
+  region: GA
+  name: Greensboro
+  lat: '33.5687'
+  long: "-83.1872"
+  nearby_rate_centers:
+  - name: GREENSBORO
+    distance_km: 0.7
+  - name: UNIONPOINT
+    distance_km: 11.64
+  - name: WHITE PL
+    distance_km: 13.91
+- country: US
+  region: GA
+  name: Greenville
+  lat: '33.0322'
+  long: "-84.7163"
+  nearby_rate_centers:
+  - name: GREENVILLE
+    distance_km: 1.18
+  - name: WOODBURY
+    distance_km: 14.4
+  - name: GAY
+    distance_km: 14.61
+- country: US
+  region: GA
+  name: Gresham Park
+  lat: '33.7053'
+  long: "-84.3155"
+  nearby_rate_centers:
+  - name: ATLANTA
+    distance_km: 7.85
+  - name: PANOLA
+    distance_km: 12.99
+  - name: STONE MT
+    distance_km: 17.78
+- country: US
+  region: GA
+  name: Griffin
+  lat: '33.2418'
+  long: "-84.2748"
+  nearby_rate_centers:
+  - name: GRIFFIN
+    distance_km: 1.96
+  - name: ZEBULON
+    distance_km: 16.88
+  - name: CONCORD
+    distance_km: 22.83
+- country: US
+  region: GA
+  name: Grovetown
+  lat: '33.4503'
+  long: "-82.2073"
+  nearby_rate_centers:
+  - name: HARLEM
+    distance_km: 10.88
+  - name: APPLING
+    distance_km: 14.54
+  - name: HEPHZIBAH
+    distance_km: 17.79
+- country: US
+  region: GA
+  name: Gumbranch
+  lat: '31.8367'
+  long: "-81.6838"
+  nearby_rate_centers:
+  - name: HINESVILLE
+    distance_km: 8.87
+  - name: LUDOWICI
+    distance_km: 15.46
+  - name: MIDWAY
+    distance_km: 24.84
+- country: US
+  region: GA
+  name: Gumlog
+  lat: '34.4950'
+  long: "-83.0975"
+  nearby_rate_centers:
+  - name: LAVONIA
+    distance_km: 7.09
+  - name: EASTANOLLE
+    distance_km: 14.56
+  - name: CARNESVL
+    distance_km: 19.11
+- country: US
+  region: GA
+  name: Guyton
+  lat: '32.3410'
+  long: "-81.4224"
+  nearby_rate_centers:
+  - name: GUYTON
+    distance_km: 2.91
+  - name: SPRINGFLD
+    distance_km: 10.11
+  - name: STILSON
+    distance_km: 12.19
+- country: US
+  region: GA
+  name: Hagan
+  lat: '32.1536'
+  long: "-81.9304"
+  nearby_rate_centers:
+  - name: CLAXTON
+    distance_km: 2.33
+  - name: COLLINS
+    distance_km: 17.0
+  - name: REIDSVILLE
+    distance_km: 19.08
+- country: US
+  region: GA
+  name: Hahira
+  lat: '30.9941'
+  long: "-83.3786"
+  nearby_rate_centers:
+  - name: HAHIRA
+    distance_km: 0.54
+  - name: MORVEN
+    distance_km: 12.92
+  - name: ADEL
+    distance_km: 16.93
+- country: US
+  region: GA
+  name: Hamilton
+  lat: '32.7647'
+  long: "-84.8753"
+  nearby_rate_centers:
+  - name: HAMILTON
+    distance_km: 0.59
+  - name: PINE MT
+    distance_km: 11.73
+  - name: WAVELYHALL
+    distance_km: 15.44
+- country: US
+  region: GA
+  name: Hampton
+  lat: '33.3774'
+  long: "-84.2969"
+  nearby_rate_centers:
+  - name: GRIFFIN
+    distance_km: 14.56
+  - name: ATLANTA SO
+    distance_km: 15.11
+  - name: STOCKBDG
+    distance_km: 19.13
+- country: US
+  region: GA
+  name: Hannahs Mill
+  lat: '32.9369'
+  long: "-84.3406"
+  nearby_rate_centers:
+  - name: THOMASTON
+    distance_km: 5.06
+  - name: ZEBULON
+    distance_km: 18.12
+  - name: YATESVILLE
+    distance_km: 19.3
+- country: US
+  region: GA
+  name: Hapeville
+  lat: '33.6609'
+  long: "-84.4093"
+  nearby_rate_centers:
+  - name: ATLANTA
+    distance_km: 10.21
+  - name: ATLANTA SO
+    distance_km: 18.93
+  - name: STOCKBDG
+    distance_km: 21.19
+- country: US
+  region: GA
+  name: Haralson
+  lat: '33.2285'
+  long: "-84.5690"
+  nearby_rate_centers:
+  - name: SENOIA
+    distance_km: 8.27
+  - name: GAY
+    distance_km: 15.22
+  - name: LUTHERSVL
+    distance_km: 16.41
+- country: US
+  region: GA
+  name: Hardwick
+  lat: '33.0523'
+  long: "-83.2440"
+  nearby_rate_centers:
+  - name: MILLEDGEVL
+    distance_km: 3.9
+  - name: LKSINCLAIR
+    distance_km: 16.78
+  - name: HADDOCK
+    distance_km: 17.19
+- country: US
+  region: GA
+  name: Harlem
+  lat: '33.4275'
+  long: "-82.3131"
+  nearby_rate_centers:
+  - name: HARLEM
+    distance_km: 1.29
+  - name: APPLING
+    distance_km: 12.99
+  - name: THOMSON
+    distance_km: 17.84
+- country: US
+  region: GA
+  name: Harrison
+  lat: '32.8263'
+  long: "-82.7258"
+  nearby_rate_centers:
+  - name: WRIGHTSVL
+    distance_km: 11.23
+  - name: SANDERSVL
+    distance_km: 19.3
+  - name: DAVISBORO
+    distance_km: 19.81
+- country: US
+  region: GA
+  name: Hartwell
+  lat: '34.3496'
+  long: "-82.9289"
+  nearby_rate_centers:
+  - name: HARTWELL
+    distance_km: 1.01
+  - name: ROYSTON
+    distance_km: 18.07
+  - name: LAVONIA
+    distance_km: 18.7
+- country: US
+  region: GA
+  name: Hawkinsville
+  lat: '32.2965'
+  long: "-83.4815"
+  nearby_rate_centers:
+  - name: HAWKINSVL
+    distance_km: 1.85
+  - name: COCHRAN
+    distance_km: 16.17
+  - name: PINEVIEW
+    distance_km: 20.88
+- country: US
+  region: GA
+  name: Hazlehurst
+  lat: '31.8651'
+  long: "-82.5994"
+  nearby_rate_centers:
+  - name: HAZLEHURST
+    distance_km: 0.76
+  - name: LUMBERCITY
+    distance_km: 11.14
+  - name: UVALDA
+    distance_km: 20.61
+- country: US
+  region: GA
+  name: Helen
+  lat: '34.7046'
+  long: "-83.7214"
+  nearby_rate_centers:
+  - name: HELEN
+    distance_km: 1.16
+  - name: CLEVELAND
+    distance_km: 12.19
+  - name: BATESVILLE
+    distance_km: 13.75
+- country: US
+  region: GA
+  name: Henderson
+  lat: '32.0102'
+  long: "-81.2655"
+  nearby_rate_centers:
+  - name: RICHMONDHL
+    distance_km: 11.99
+  - name: POOLER
+    distance_km: 12.12
+  - name: SAVANNAH
+    distance_km: 18.1
+- country: US
+  region: GA
+  name: Hephzibah
+  lat: '33.2906'
+  long: "-82.0994"
+  nearby_rate_centers:
+  - name: HEPHZIBAH
+    distance_km: 3.02
+  - name: WAYNESBORO
+    distance_km: 23.22
+  - name: AUGUSTA
+    distance_km: 23.96
+- country: US
+  region: GA
+  name: Heron Bay
+  lat: '33.3393'
+  long: "-84.1922"
+  nearby_rate_centers:
+  - name: GRIFFIN
+    distance_km: 11.52
+  - name: JACKSON
+    distance_km: 21.57
+  - name: STOCKBDG
+    distance_km: 22.69
+- country: US
+  region: GA
+  name: Hiawassee
+  lat: '34.9495'
+  long: "-83.7531"
+  nearby_rate_centers:
+  - name: HIAWASSEE
+    distance_km: 0.41
+  - name: YOUNGHRRIS
+    distance_km: 8.99
+  - name: BLAIRSVL
+    distance_km: 20.71
+- country: US
+  region: GA
+  name: Hickox
+  lat: '31.1471'
+  long: "-81.9952"
+  nearby_rate_centers:
+  - name: NAHUNTA
+    distance_km: 6.31
+  - name: HOBOKEN
+    distance_km: 13.69
+  - name: WAYNESVL
+    distance_km: 20.25
+- country: US
+  region: GA
+  name: Higgston
+  lat: '32.2164'
+  long: "-82.4670"
+  nearby_rate_centers:
+  - name: VIDALIA
+    distance_km: 5.55
+  - name: MT VERNON
+    distance_km: 12.6
+  - name: LYONS
+    distance_km: 13.5
+- country: US
+  region: GA
+  name: Hilltop
+  lat: '33.1063'
+  long: "-84.4382"
+  nearby_rate_centers:
+  - name: CONCORD
+    distance_km: 1.83
+  - name: ZEBULON
+    distance_km: 9.26
+  - name: GAY
+    distance_km: 12.99
+- country: US
+  region: GA
+  name: Hiltonia
+  lat: '32.8833'
+  long: "-81.6613"
+  nearby_rate_centers:
+  - name: HILLTONIA
+    distance_km: 0.47
+  - name: SARDIS
+    distance_km: 13.46
+  - name: SYLVANIA
+    distance_km: 15.33
+- country: US
+  region: GA
+  name: Hinesville
+  lat: '31.8248'
+  long: "-81.6137"
+  nearby_rate_centers:
+  - name: HINESVILLE
+    distance_km: 3.33
+  - name: LUDOWICI
+    distance_km: 17.98
+  - name: MIDWAY
+    distance_km: 18.11
+- country: US
+  region: GA
+  name: Hiram
+  lat: '33.8777'
+  long: "-84.7710"
+  nearby_rate_centers:
+  - name: ATLANTA NW
+    distance_km: 12.58
+  - name: AUSTELL
+    distance_km: 14.38
+  - name: VILLA RICA
+    distance_km: 21.54
+- country: US
+  region: GA
+  name: Hoboken
+  lat: '31.1813'
+  long: "-82.1313"
+  nearby_rate_centers:
+  - name: HOBOKEN
+    distance_km: 0.22
+  - name: NAHUNTA
+    distance_km: 14.91
+  - name: BLACKSHEAR
+    distance_km: 17.31
+- country: US
+  region: GA
+  name: Hogansville
+  lat: '33.1674'
+  long: "-84.9027"
+  nearby_rate_centers:
+  - name: HOGANSVL
+    distance_km: 1.5
+  - name: GRANTVILLE
+    distance_km: 10.32
+  - name: LUTHERSVL
+    distance_km: 15.47
+- country: US
+  region: GA
+  name: Holly Springs
+  lat: '34.1681'
+  long: "-84.4847"
+  nearby_rate_centers:
+  - name: WOODSTOCK
+    distance_km: 8.13
+  - name: CANTON
+    distance_km: 8.23
+  - name: ROSWELL
+    distance_km: 20.51
+- country: US
+  region: GA
+  name: Homeland
+  lat: '30.8603'
+  long: "-82.0214"
+  nearby_rate_centers:
+  - name: FOLKSTON
+    distance_km: 3.05
+  - name: HOBOKEN
+    distance_km: 37.22
+  - name: ST GEORGE
+    distance_km: 38.0
+- country: US
+  region: GA
+  name: Homer
+  lat: '34.3355'
+  long: "-83.4986"
+  nearby_rate_centers:
+  - name: HOMER
+    distance_km: 0.27
+  - name: MAYSVILLE
+    distance_km: 11.36
+  - name: COMMERCE
+    distance_km: 14.75
+- country: US
+  region: GA
+  name: Homerville
+  lat: '31.0385'
+  long: "-82.7420"
+  nearby_rate_centers:
+  - name: HOMERVILLE
+    distance_km: 1.04
+  - name: PEARSON
+    distance_km: 30.69
+  - name: LAKELAND
+    distance_km: 31.78
+- country: US
+  region: GA
+  name: Hortense
+  lat: '31.3327'
+  long: "-81.9517"
+  nearby_rate_centers:
+  - name: HORTENSE
+    distance_km: 0.76
+  - name: NAHUNTA
+    distance_km: 14.77
+  - name: WAYNESVL
+    distance_km: 17.82
+- country: US
+  region: GA
+  name: Hoschton
+  lat: '34.0853'
+  long: "-83.7594"
+  nearby_rate_centers:
+  - name: BRASELTON
+    distance_km: 3.19
+  - name: PENDERGRSS
+    distance_km: 10.68
+  - name: WINDER
+    distance_km: 11.17
+- country: US
+  region: GA
+  name: Howard
+  lat: '32.5982'
+  long: "-84.3786"
+  nearby_rate_centers:
+  - name: BUTLER
+    distance_km: 14.41
+  - name: GENEVA
+    distance_km: 16.25
+  - name: TALBOTTON
+    distance_km: 17.37
+- country: US
+  region: GA
+  name: Hull
+  lat: '34.0155'
+  long: "-83.2938"
+  nearby_rate_centers:
+  - name: WINTERVL
+    distance_km: 5.96
+  - name: COLBERT
+    distance_km: 7.15
+  - name: ATHENS
+    distance_km: 10.26
+- country: US
+  region: GA
+  name: Ideal
+  lat: '32.3726'
+  long: "-84.1894"
+  nearby_rate_centers:
+  - name: IDEAL
+    distance_km: 0.23
+  - name: MONTEZUMA
+    distance_km: 16.13
+  - name: ELLAVILLE
+    distance_km: 18.14
+- country: US
+  region: GA
+  name: Ila
+  lat: '34.1729'
+  long: "-83.2929"
+  nearby_rate_centers:
+  - name: ILA
+    distance_km: 0.81
+  - name: DANIELSVL
+    distance_km: 8.11
+  - name: NICHOLSON
+    distance_km: 14.23
+- country: US
+  region: GA
+  name: Indian Springs
+  lat: '34.9606'
+  long: "-85.1590"
+  nearby_rate_centers:
+  - name: RINGGOLD
+    distance_km: 6.83
+  - name: ROSSVILLE
+    distance_km: 11.6
+  - name: CHICKAMAGA
+    distance_km: 14.78
+- country: US
+  region: GA
+  name: Iron City
+  lat: '31.0136'
+  long: "-84.8133"
+  nearby_rate_centers:
+  - name: IRON CITY
+    distance_km: 0.44
+  - name: DONALSONVL
+    distance_km: 6.51
+  - name: REYNOLDSVL
+    distance_km: 17.79
+- country: US
+  region: GA
+  name: Irondale
+  lat: '33.4773'
+  long: "-84.3601"
+  nearby_rate_centers:
+  - name: ATLANTA SO
+    distance_km: 2.79
+  - name: STOCKBDG
+    distance_km: 13.83
+  - name: SENOIA
+    distance_km: 26.36
+- country: US
+  region: GA
+  name: Irwinton
+  lat: '32.8107'
+  long: "-83.1737"
+  nearby_rate_centers:
+  - name: IRWINTON
+    distance_km: 0.32
+  - name: TOOMSBORO
+    distance_km: 9.44
+  - name: GORDON
+    distance_km: 17.57
+- country: US
+  region: GA
+  name: Isle of Hope
+  lat: '31.9848'
+  long: "-81.0532"
+  nearby_rate_centers:
+  - name: SAVANNAH
+    distance_km: 10.61
+  - name: TYBEE IS
+    distance_km: 20.28
+  - name: RICHMONDHL
+    distance_km: 21.77
+- country: US
+  region: GA
+  name: Ivey
+  lat: '32.9092'
+  long: "-83.2983"
+  nearby_rate_centers:
+  - name: GORDON
+    distance_km: 3.83
+  - name: IRWINTON
+    distance_km: 15.82
+  - name: HADDOCK
+    distance_km: 18.36
+- country: US
+  region: GA
+  name: Jackson
+  lat: '33.2920'
+  long: "-83.9679"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 1.04
+  - name: MONTICELLO
+    distance_km: 26.59
+  - name: GRIFFIN
+    distance_km: 27.24
+- country: US
+  region: GA
+  name: Jacksonville
+  lat: '31.8125'
+  long: "-82.9790"
+  nearby_rate_centers:
+  - name: JACKSONVL
+    distance_km: 0.74
+  - name: BROXTON
+    distance_km: 22.25
+  - name: MILAN
+    distance_km: 24.02
+- country: US
+  region: GA
+  name: Jakin
+  lat: '31.0901'
+  long: "-84.9822"
+  nearby_rate_centers:
+  - name: JAKIN
+    distance_km: 0.18
+  - name: CEDAR SPG
+    distance_km: 9.98
+  - name: DONALSONVL
+    distance_km: 11.69
+- country: US
+  region: GA
+  name: Jasper
+  lat: '34.4710'
+  long: "-84.4497"
+  nearby_rate_centers:
+  - name: JASPER
+    distance_km: 1.46
+  - name: MARBLEHILL
+    distance_km: 11.18
+  - name: NELSON
+    distance_km: 11.81
+- country: US
+  region: GA
+  name: Jefferson
+  lat: '34.1373'
+  long: "-83.6021"
+  nearby_rate_centers:
+  - name: JEFFERSON
+    distance_km: 2.63
+  - name: PENDERGRSS
+    distance_km: 7.78
+  - name: MAYSVILLE
+    distance_km: 12.99
+- country: US
+  region: GA
+  name: Jeffersonville
+  lat: '32.6863'
+  long: "-83.3433"
+  nearby_rate_centers:
+  - name: JEFFERSNVL
+    distance_km: 0.55
+  - name: DANVILLE
+    distance_km: 13.69
+  - name: IRWINTON
+    distance_km: 20.75
+- country: US
+  region: GA
+  name: Jekyll Island
+  lat: '31.0732'
+  long: "-81.4206"
+  nearby_rate_centers:
+  - name: JEKYLL IS
+    distance_km: 4.72
+  - name: STSIMONSIS
+    distance_km: 8.69
+  - name: BRUNSWICK
+    distance_km: 11.47
+- country: US
+  region: GA
+  name: Jenkinsburg
+  lat: '33.3224'
+  long: "-84.0389"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 7.3
+  - name: GRIFFIN
+    distance_km: 21.76
+  - name: STOCKBDG
+    distance_km: 30.16
+- country: US
+  region: GA
+  name: Jersey
+  lat: '33.7177'
+  long: "-83.8000"
+  nearby_rate_centers:
+  - name: SOCIALCRCL
+    distance_km: 10.29
+  - name: MONROE
+    distance_km: 11.95
+  - name: COVINGTON
+    distance_km: 14.21
+- country: US
+  region: GA
+  name: Jesup
+  lat: '31.5992'
+  long: "-81.8895"
+  nearby_rate_centers:
+  - name: JESUP
+    distance_km: 1.13
+  - name: ODUM
+    distance_km: 15.34
+  - name: SCREVEN
+    distance_km: 17.62
+- country: US
+  region: GA
+  name: Johns Creek
+  lat: '34.0333'
+  long: "-84.2027"
+  nearby_rate_centers:
+  - name: DULUTH
+    distance_km: 6.26
+  - name: ALPHARETTA
+    distance_km: 9.2
+  - name: NORCROSS
+    distance_km: 10.17
+- country: US
+  region: GA
+  name: Jonesboro
+  lat: '33.5211'
+  long: "-84.3548"
+  nearby_rate_centers:
+  - name: ATLANTA SO
+    distance_km: 4.26
+  - name: STOCKBDG
+    distance_km: 11.61
+  - name: ATLANTA
+    distance_km: 25.55
+- country: US
+  region: GA
+  name: Juliette
+  lat: '33.1109'
+  long: "-83.8094"
+  nearby_rate_centers:
+  - name: FORSYTH
+    distance_km: 14.53
+  - name: MONTICELLO
+    distance_km: 24.84
+  - name: JACKSON
+    distance_km: 25.6
+- country: US
+  region: GA
+  name: Junction City
+  lat: '32.6032'
+  long: "-84.4573"
+  nearby_rate_centers:
+  - name: GENEVA
+    distance_km: 9.07
+  - name: TALBOTTON
+    distance_km: 11.07
+  - name: BUTLER
+    distance_km: 21.61
+- country: US
+  region: GA
+  name: Kennesaw
+  lat: '34.0260'
+  long: "-84.6177"
+  nearby_rate_centers:
+  - name: MARIETTA
+    distance_km: 10.9
+  - name: WOODSTOCK
+    distance_km: 12.34
+  - name: ATLANTA NW
+    distance_km: 12.44
+- country: US
+  region: GA
+  name: Kennesaw State University
+  lat: '34.0379'
+  long: "-84.5826"
+  nearby_rate_centers:
+  - name: WOODSTOCK
+    distance_km: 9.14
+  - name: MARIETTA
+    distance_km: 10.49
+  - name: ATLANTA NW
+    distance_km: 14.64
+- country: US
+  region: GA
+  name: Keysville
+  lat: '33.2374'
+  long: "-82.2290"
+  nearby_rate_centers:
+  - name: HEPHZIBAH
+    distance_km: 14.96
+  - name: WRENS
+    distance_km: 15.64
+  - name: HARLEM
+    distance_km: 21.54
+- country: US
+  region: GA
+  name: Kings Bay Base
+  lat: '30.7985'
+  long: "-81.5628"
+  nearby_rate_centers:
+  - name: ST MARYS
+    distance_km: 8.23
+  - name: JEKYLL IS
+    distance_km: 37.83
+  - name: BRUNSWICK
+    distance_km: 40.55
+- country: US
+  region: GA
+  name: Kingsland
+  lat: '30.8194'
+  long: "-81.7216"
+  nearby_rate_centers:
+  - name: ST MARYS
+    distance_km: 19.27
+  - name: FOLKSTON
+    distance_km: 27.62
+  - name: BRUNSWICK
+    distance_km: 43.65
+- country: US
+  region: GA
+  name: Kingston
+  lat: '34.2319'
+  long: "-84.9444"
+  nearby_rate_centers:
+  - name: KINGSTON
+    distance_km: 0.03
+  - name: ADAIRSVL
+    distance_km: 14.23
+  - name: CARTERSVL
+    distance_km: 15.33
+- country: US
+  region: GA
+  name: Kite
+  lat: '32.6921'
+  long: "-82.5136"
+  nearby_rate_centers:
+  - name: KITE
+    distance_km: 1.11
+  - name: ADRIAN
+    distance_km: 17.38
+  - name: WRIGHTSVL
+    distance_km: 19.48
+- country: US
+  region: GA
+  name: Knoxville
+  lat: '32.7233'
+  long: "-83.9959"
+  nearby_rate_centers:
+  - name: ROBERTA
+    distance_km: 1.15
+  - name: CULLODEN
+    distance_km: 18.31
+  - name: LIZELLA
+    distance_km: 18.6
+- country: US
+  region: GA
+  name: LaFayette
+  lat: '34.7089'
+  long: "-85.2815"
+  nearby_rate_centers:
+  - name: LA FAYETTE
+    distance_km: 0.47
+  - name: NOBLE
+    distance_km: 4.78
+  - name: KENSINGTON
+    distance_km: 9.59
+- country: US
+  region: GA
+  name: LaGrange
+  lat: '33.0274'
+  long: "-85.0384"
+  nearby_rate_centers:
+  - name: LAGRANGE
+    distance_km: 1.47
+  - name: HOGANSVL
+    distance_km: 19.86
+  - name: WEST POINT
+    distance_km: 21.29
+- country: US
+  region: GA
+  name: Lake City
+  lat: '33.6065'
+  long: "-84.3411"
+  nearby_rate_centers:
+  - name: STOCKBDG
+    distance_km: 12.5
+  - name: ATLANTA SO
+    distance_km: 13.36
+  - name: ATLANTA
+    distance_km: 16.36
+- country: US
+  region: GA
+  name: Lake Park
+  lat: '30.6851'
+  long: "-83.1873"
+  nearby_rate_centers:
+  - name: LAKE PARK
+    distance_km: 0.53
+  - name: VALDOSTA
+    distance_km: 18.77
+  - name: QUITMAN
+    distance_km: 37.24
+- country: US
+  region: GA
+  name: Lakeland
+  lat: '31.0409'
+  long: "-83.0748"
+  nearby_rate_centers:
+  - name: LAKELAND
+    distance_km: 0.16
+  - name: RAY CITY
+    distance_km: 12.69
+  - name: NASHVILLE
+    distance_km: 24.92
+- country: US
+  region: GA
+  name: Lakeview
+  lat: '34.9777'
+  long: "-85.2539"
+  nearby_rate_centers:
+  - name: ROSSVILLE
+    distance_km: 2.83
+  - name: CHICKAMAGA
+    distance_km: 11.75
+  - name: RINGGOLD
+    distance_km: 14.97
+- country: US
+  region: GA
+  name: Lakeview Estates
+  lat: '33.7047'
+  long: "-84.0367"
+  nearby_rate_centers:
+  - name: CONYERS
+    distance_km: 4.9
+  - name: PANOLA
+    distance_km: 12.83
+  - name: STONE MT
+    distance_km: 16.42
+- country: US
+  region: GA
+  name: Lavonia
+  lat: '34.4341'
+  long: "-83.1079"
+  nearby_rate_centers:
+  - name: LAVONIA
+    distance_km: 0.29
+  - name: CARNESVL
+    distance_km: 13.95
+  - name: EASTANOLLE
+    distance_km: 16.14
+- country: US
+  region: GA
+  name: Lawrenceville
+  lat: '33.9523'
+  long: "-83.9932"
+  nearby_rate_centers:
+  - name: LAWRENCEVL
+    distance_km: 0.94
+  - name: DULUTH
+    distance_km: 15.27
+  - name: ATLANTA NE
+    distance_km: 17.33
+- country: US
+  region: GA
+  name: Leary
+  lat: '31.4847'
+  long: "-84.5133"
+  nearby_rate_centers:
+  - name: LEARY
+    distance_km: 0.49
+  - name: MORGAN
+    distance_km: 10.4
+  - name: ARLINGTON
+    distance_km: 21.04
+- country: US
+  region: GA
+  name: Leesburg
+  lat: '31.7324'
+  long: "-84.1688"
+  nearby_rate_centers:
+  - name: LEESBURG
+    distance_km: 0.07
+  - name: ALBANY
+    distance_km: 16.42
+  - name: SASSER
+    distance_km: 17.42
+- country: US
+  region: GA
+  name: Lenox
+  lat: '31.2672'
+  long: "-83.4673"
+  nearby_rate_centers:
+  - name: LENOX
+    distance_km: 1.01
+  - name: SPARKS
+    distance_km: 11.34
+  - name: OMEGA
+    distance_km: 14.47
+- country: US
+  region: GA
+  name: Leslie
+  lat: '31.9545'
+  long: "-84.0864"
+  nearby_rate_centers:
+  - name: LESLIE
+    distance_km: 0.87
+  - name: LKBLACKSHE
+    distance_km: 13.47
+  - name: SMITHVILLE
+    distance_km: 16.67
+- country: US
+  region: GA
+  name: Lexington
+  lat: '33.8701'
+  long: "-83.1102"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance_km: 2.19
+  - name: MAXEYS
+    distance_km: 11.9
+  - name: WINTERVL
+    distance_km: 18.4
+- country: US
+  region: GA
+  name: Lilburn
+  lat: '33.8897'
+  long: "-84.1364"
+  nearby_rate_centers:
+  - name: ATLANTA NE
+    distance_km: 2.7
+  - name: TUCKER
+    distance_km: 8.16
+  - name: NORCROSS
+    distance_km: 8.72
+- country: US
+  region: GA
+  name: Lilly
+  lat: '32.1465'
+  long: "-83.8775"
+  nearby_rate_centers:
+  - name: BYROMVILLE
+    distance_km: 6.38
+  - name: VIENNA
+    distance_km: 9.93
+  - name: PINEHURST
+    distance_km: 12.42
+- country: US
+  region: GA
+  name: Lincoln Park
+  lat: '32.8674'
+  long: "-84.3348"
+  nearby_rate_centers:
+  - name: THOMASTON
+    distance_km: 2.93
+  - name: YATESVILLE
+    distance_km: 19.44
+  - name: CULLODEN
+    distance_km: 22.45
+- country: US
+  region: GA
+  name: Lincolnton
+  lat: '33.7931'
+  long: "-82.4776"
+  nearby_rate_centers:
+  - name: LINCOLNTON
+    distance_km: 0.45
+  - name: METASVILLE
+    distance_km: 11.76
+  - name: WASHINGTON
+    distance_km: 25.06
+- country: US
+  region: GA
+  name: Lindale
+  lat: '34.1884'
+  long: "-85.1808"
+  nearby_rate_centers:
+  - name: ROME
+    distance_km: 7.94
+  - name: CAVESPRING
+    distance_km: 16.61
+  - name: CEDARTOWN
+    distance_km: 20.77
+- country: US
+  region: GA
+  name: Lithia Springs
+  lat: '33.7811'
+  long: "-84.6487"
+  nearby_rate_centers:
+  - name: AUSTELL
+    distance_km: 4.18
+  - name: ATLANTA NW
+    distance_km: 15.02
+  - name: SMYRNA
+    distance_km: 17.36
+- country: US
+  region: GA
+  name: Lithonia
+  lat: '33.7129'
+  long: "-84.1060"
+  nearby_rate_centers:
+  - name: PANOLA
+    distance_km: 6.59
+  - name: CONYERS
+    distance_km: 9.99
+  - name: STONE MT
+    distance_km: 11.73
+- country: US
+  region: GA
+  name: Locust Grove
+  lat: '33.3446'
+  long: "-84.1071"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 14.1
+  - name: GRIFFIN
+    distance_km: 17.38
+  - name: STOCKBDG
+    distance_km: 24.68
+- country: US
+  region: GA
+  name: Loganville
+  lat: '33.8353'
+  long: "-83.8958"
+  nearby_rate_centers:
+  - name: LAWRENCEVL
+    distance_km: 16.45
+  - name: MONROE
+    distance_km: 18.2
+  - name: CONYERS
+    distance_km: 21.96
+- country: US
+  region: GA
+  name: Lone Oak
+  lat: '33.1723'
+  long: "-84.8173"
+  nearby_rate_centers:
+  - name: GRANTVILLE
+    distance_km: 7.81
+  - name: LUTHERSVL
+    distance_km: 7.93
+  - name: HOGANSVL
+    distance_km: 9.26
+- country: US
+  region: GA
+  name: Lookout Mountain
+  lat: '34.9664'
+  long: "-85.3622"
+  nearby_rate_centers:
+  - name: WEST BROW
+    distance_km: 5.7
+  - name: ROSSVILLE
+    distance_km: 7.12
+  - name: CHICKAMAGA
+    distance_km: 12.51
+- country: US
+  region: GA
+  name: Louisville
+  lat: '32.9955'
+  long: "-82.4001"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 0.83
+  - name: BARTOW
+    distance_km: 15.04
+  - name: WADLEY
+    distance_km: 15.24
+- country: US
+  region: GA
+  name: Lovejoy
+  lat: '33.4426'
+  long: "-84.3177"
+  nearby_rate_centers:
+  - name: ATLANTA SO
+    distance_km: 8.28
+  - name: STOCKBDG
+    distance_km: 13.51
+  - name: GRIFFIN
+    distance_km: 22.06
+- country: US
+  region: GA
+  name: Ludowici
+  lat: '31.7093'
+  long: "-81.7452"
+  nearby_rate_centers:
+  - name: LUDOWICI
+    distance_km: 0.18
+  - name: JESUP
+    distance_km: 17.26
+  - name: HINESVILLE
+    distance_km: 21.2
+- country: US
+  region: GA
+  name: Lula
+  lat: '34.3955'
+  long: "-83.6659"
+  nearby_rate_centers:
+  - name: LULA
+    distance_km: 1.31
+  - name: CLERMONT
+    distance_km: 13.55
+  - name: HOMER
+    distance_km: 16.98
+- country: US
+  region: GA
+  name: Lumber City
+  lat: '31.9330'
+  long: "-82.6828"
+  nearby_rate_centers:
+  - name: LUMBERCITY
+    distance_km: 0.27
+  - name: HAZLEHURST
+    distance_km: 11.21
+  - name: UVALDA
+    distance_km: 19.84
+- country: US
+  region: GA
+  name: Lumpkin
+  lat: '32.0487'
+  long: "-84.7981"
+  nearby_rate_centers:
+  - name: LUMPKIN
+    distance_km: 0.39
+  - name: RICHLAND
+    distance_km: 13.0
+  - name: PRESTON
+    distance_km: 24.16
+- country: US
+  region: GA
+  name: Luthersville
+  lat: '33.2096'
+  long: "-84.7442"
+  nearby_rate_centers:
+  - name: LUTHERSVL
+    distance_km: 0.15
+  - name: GRANTVILLE
+    distance_km: 9.13
+  - name: HOGANSVL
+    distance_km: 16.54
+- country: US
+  region: GA
+  name: Lyerly
+  lat: '34.4035'
+  long: "-85.4041"
+  nearby_rate_centers:
+  - name: LYERLY
+    distance_km: 0.89
+  - name: SUMMERVL
+    distance_km: 9.2
+  - name: MENLO
+    distance_km: 10.96
+- country: US
+  region: GA
+  name: Lyons
+  lat: '32.2062'
+  long: "-82.3215"
+  nearby_rate_centers:
+  - name: LYONS
+    distance_km: 0.56
+  - name: VIDALIA
+    distance_km: 8.24
+  - name: JOHNSONCOR
+    distance_km: 16.11
+- country: US
+  region: GA
+  name: Mableton
+  lat: '33.8133'
+  long: "-84.5655"
+  nearby_rate_centers:
+  - name: AUSTELL
+    distance_km: 6.32
+  - name: SMYRNA
+    distance_km: 9.5
+  - name: ATLANTA NW
+    distance_km: 13.48
+- country: US
+  region: GA
+  name: Macon
+  lat: '32.8065'
+  long: "-83.6974"
+  nearby_rate_centers:
+  - name: MACON
+    distance_km: 7.33
+  - name: LIZELLA
+    distance_km: 11.94
+  - name: BYRON
+    distance_km: 18.91
+- country: US
+  region: GA
+  name: Madison
+  lat: '33.5793'
+  long: "-83.4758"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 1.48
+  - name: RUTLEDGE
+    distance_km: 13.91
+  - name: SOCIALCRCL
+    distance_km: 23.82
+- country: US
+  region: GA
+  name: Manassas
+  lat: '32.1603'
+  long: "-82.0200"
+  nearby_rate_centers:
+  - name: COLLINS
+    distance_km: 8.57
+  - name: CLAXTON
+    distance_km: 10.65
+  - name: REIDSVILLE
+    distance_km: 12.32
+- country: US
+  region: GA
+  name: Manchester
+  lat: '32.8565'
+  long: "-84.6329"
+  nearby_rate_centers:
+  - name: MANCHESTER
+    distance_km: 1.34
+  - name: WARM SPG
+    distance_km: 5.74
+  - name: WOODLAND
+    distance_km: 10.95
+- country: US
+  region: GA
+  name: Manor
+  lat: '31.1044'
+  long: "-82.5665"
+  nearby_rate_centers:
+  - name: HOMERVILLE
+    distance_km: 19.2
+  - name: WAYCROSS
+    distance_km: 23.18
+  - name: PEARSON
+    distance_km: 34.41
+- country: US
+  region: GA
+  name: Mansfield
+  lat: '33.5180'
+  long: "-83.7348"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 14.46
+  - name: SOCIALCRCL
+    distance_km: 15.65
+  - name: RUTLEDGE
+    distance_km: 17.25
+- country: US
+  region: GA
+  name: Marietta
+  lat: '33.9533'
+  long: "-84.5422"
+  nearby_rate_centers:
+  - name: MARIETTA
+    distance_km: 0.53
+  - name: SMYRNA
+    distance_km: 8.45
+  - name: ATLANTA NW
+    distance_km: 10.17
+- country: US
+  region: GA
+  name: Marshallville
+  lat: '32.4564'
+  long: "-83.9407"
+  nearby_rate_centers:
+  - name: MARSHALLVL
+    distance_km: 0.2
+  - name: FORTVALLEY
+    distance_km: 11.82
+  - name: REYNOLDS
+    distance_km: 18.26
+- country: US
+  region: GA
+  name: Martin
+  lat: '34.4856'
+  long: "-83.1985"
+  nearby_rate_centers:
+  - name: EASTANOLLE
+    distance_km: 6.05
+  - name: LAVONIA
+    distance_km: 10.32
+  - name: CARNESVL
+    distance_km: 13.66
+- country: US
+  region: GA
+  name: Martinez
+  lat: '33.5209'
+  long: "-82.0985"
+  nearby_rate_centers:
+  - name: AUGUSTA
+    distance_km: 13.08
+  - name: APPLING
+    distance_km: 20.36
+  - name: HEPHZIBAH
+    distance_km: 22.59
+- country: US
+  region: GA
+  name: Matthews
+  lat: '33.2176'
+  long: "-82.3079"
+  nearby_rate_centers:
+  - name: WRENS
+    distance_km: 8.03
+  - name: HARLEM
+    distance_km: 22.13
+  - name: HEPHZIBAH
+    distance_km: 22.31
+- country: US
+  region: GA
+  name: Maxeys
+  lat: '33.7555'
+  long: "-83.1737"
+  nearby_rate_centers:
+  - name: MAXEYS
+    distance_km: 2.43
+  - name: LEXINGTON
+    distance_km: 15.2
+  - name: UNIONPOINT
+    distance_km: 17.87
+- country: US
+  region: GA
+  name: Maysville
+  lat: '34.2555'
+  long: "-83.5521"
+  nearby_rate_centers:
+  - name: MAYSVILLE
+    distance_km: 1.51
+  - name: HOMER
+    distance_km: 10.05
+  - name: COMMERCE
+    distance_km: 10.28
+- country: US
+  region: GA
+  name: McCaysville
+  lat: '34.9811'
+  long: "-84.3706"
+  nearby_rate_centers:
+  - name: MCCAYSVL
+    distance_km: 0.75
+  - name: BLUE RIDGE
+    distance_km: 13.21
+  - name: LAKEWOOD
+    distance_km: 14.46
+- country: US
+  region: GA
+  name: McDonough
+  lat: '33.4397'
+  long: "-84.1505"
+  nearby_rate_centers:
+  - name: STOCKBDG
+    distance_km: 13.52
+  - name: ATLANTA SO
+    distance_km: 22.47
+  - name: JACKSON
+    distance_km: 23.15
+- country: US
+  region: GA
+  name: McIntyre
+  lat: '32.8466'
+  long: "-83.2011"
+  nearby_rate_centers:
+  - name: IRWINTON
+    distance_km: 4.66
+  - name: TOOMSBORO
+    distance_km: 12.2
+  - name: GORDON
+    distance_km: 13.47
+- country: US
+  region: GA
+  name: McRae-Helena
+  lat: '32.0636'
+  long: "-82.8968"
+  nearby_rate_centers:
+  - name: MCRAE
+    distance_km: 1.07
+  - name: ALAMO
+    distance_km: 15.14
+  - name: MILAN
+    distance_km: 16.84
+- country: US
+  region: GA
+  name: Meansville
+  lat: '33.0508'
+  long: "-84.3082"
+  nearby_rate_centers:
+  - name: ZEBULON
+    distance_km: 6.17
+  - name: CONCORD
+    distance_km: 13.02
+  - name: BARNESVL
+    distance_km: 14.87
+- country: US
+  region: GA
+  name: Meigs
+  lat: '31.0714'
+  long: "-84.0922"
+  nearby_rate_centers:
+  - name: MEIGS
+    distance_km: 1.2
+  - name: PELHAM
+    distance_km: 8.34
+  - name: OCHLOCKNEE
+    distance_km: 11.52
+- country: US
+  region: GA
+  name: Mendes
+  lat: '31.9953'
+  long: "-81.9709"
+  nearby_rate_centers:
+  - name: GLENNVILLE
+    distance_km: 7.29
+  - name: REIDSVILLE
+    distance_km: 16.97
+  - name: CLAXTON
+    distance_km: 19.3
+- country: US
+  region: GA
+  name: Menlo
+  lat: '34.4835'
+  long: "-85.4776"
+  nearby_rate_centers:
+  - name: MENLO
+    distance_km: 0.3
+  - name: LYERLY
+    distance_km: 10.29
+  - name: SUMMERVL
+    distance_km: 11.46
+- country: US
+  region: GA
+  name: Mershon
+  lat: '31.4636'
+  long: "-82.2538"
+  nearby_rate_centers:
+  - name: PATTERSON
+    distance_km: 13.69
+  - name: BLACKSHEAR
+    distance_km: 17.62
+  - name: ALMA
+    distance_km: 21.87
+- country: US
+  region: GA
+  name: Metter
+  lat: '32.3958'
+  long: "-82.0621"
+  nearby_rate_centers:
+  - name: METTER
+    distance_km: 0.75
+  - name: COBBTOWN
+    distance_km: 14.93
+  - name: REGISTER
+    distance_km: 17.22
+- country: US
+  region: GA
+  name: Midville
+  lat: '32.8217'
+  long: "-82.2347"
+  nearby_rate_centers:
+  - name: MIDVILLE
+    distance_km: 0.26
+  - name: WADLEY
+    distance_km: 15.79
+  - name: BARTOW
+    distance_km: 23.2
+- country: US
+  region: GA
+  name: Midway
+  lat: '31.8003'
+  long: "-81.4190"
+  nearby_rate_centers:
+  - name: MIDWAY
+    distance_km: 1.02
+  - name: KELLER
+    distance_km: 16.39
+  - name: HINESVILLE
+    distance_km: 17.05
+- country: US
+  region: GA
+  name: Milan
+  lat: '32.0194'
+  long: "-83.0631"
+  nearby_rate_centers:
+  - name: MILAN
+    distance_km: 0.52
+  - name: RHINE
+    distance_km: 13.31
+  - name: MCRAE
+    distance_km: 15.43
+- country: US
+  region: GA
+  name: Milledgeville
+  lat: '33.0874'
+  long: "-83.2414"
+  nearby_rate_centers:
+  - name: MILLEDGEVL
+    distance_km: 1.77
+  - name: LKSINCLAIR
+    distance_km: 14.24
+  - name: HADDOCK
+    distance_km: 18.29
+- country: US
+  region: GA
+  name: Millen
+  lat: '32.8071'
+  long: "-81.9423"
+  nearby_rate_centers:
+  - name: MILLEN
+    distance_km: 0.37
+  - name: SARDIS
+    distance_km: 25.22
+  - name: MIDVILLE
+    distance_km: 27.18
+- country: US
+  region: GA
+  name: Millwood
+  lat: '31.2656'
+  long: "-82.6603"
+  nearby_rate_centers:
+  - name: PEARSON
+    distance_km: 18.18
+  - name: HOMERVILLE
+    distance_km: 27.37
+  - name: NICHOLLS
+    distance_km: 27.91
+- country: US
+  region: GA
+  name: Milner
+  lat: '33.1176'
+  long: "-84.1931"
+  nearby_rate_centers:
+  - name: BARNESVL
+    distance_km: 8.01
+  - name: ZEBULON
+    distance_km: 13.74
+  - name: GRIFFIN
+    distance_km: 15.96
+- country: US
+  region: GA
+  name: Milstead
+  lat: '33.6867'
+  long: "-83.9904"
+  nearby_rate_centers:
+  - name: CONYERS
+    distance_km: 3.35
+  - name: COVINGTON
+    distance_km: 15.75
+  - name: PANOLA
+    distance_km: 17.15
+- country: US
+  region: GA
+  name: Milton
+  lat: '34.1353'
+  long: "-84.3139"
+  nearby_rate_centers:
+  - name: ALPHARETTA
+    distance_km: 6.45
+  - name: ROSWELL
+    distance_km: 14.04
+  - name: CUMMING
+    distance_km: 17.84
+- country: US
+  region: GA
+  name: Mineral Bluff
+  lat: '34.9140'
+  long: "-84.2776"
+  nearby_rate_centers:
+  - name: LAKEWOOD
+    distance_km: 3.43
+  - name: BLUE RIDGE
+    distance_km: 6.81
+  - name: MCCAYSVL
+    distance_km: 11.17
+- country: US
+  region: GA
+  name: Mitchell
+  lat: '33.2198'
+  long: "-82.7032"
+  nearby_rate_centers:
+  - name: GIBSON
+    distance_km: 10.41
+  - name: WARRENTON
+    distance_km: 21.64
+  - name: SPARTA
+    distance_km: 26.14
+- country: US
+  region: GA
+  name: Molena
+  lat: '33.0122'
+  long: "-84.5006"
+  nearby_rate_centers:
+  - name: WOODBURY
+    distance_km: 7.41
+  - name: CONCORD
+    distance_km: 10.33
+  - name: GAY
+    distance_km: 11.33
+- country: US
+  region: GA
+  name: Monroe
+  lat: '33.7990'
+  long: "-83.7161"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 1.25
+  - name: SOCIALCRCL
+    distance_km: 15.7
+  - name: BOGARTSTHM
+    distance_km: 20.78
+- country: US
+  region: GA
+  name: Montezuma
+  lat: '32.2997'
+  long: "-84.0246"
+  nearby_rate_centers:
+  - name: MONTEZUMA
+    distance_km: 1.38
+  - name: BYROMVILLE
+    distance_km: 15.99
+  - name: IDEAL
+    distance_km: 17.69
+- country: US
+  region: GA
+  name: Montgomery
+  lat: '31.9438'
+  long: "-81.1081"
+  nearby_rate_centers:
+  - name: SAVANNAH
+    distance_km: 14.71
+  - name: RICHMONDHL
+    distance_km: 15.28
+  - name: KELLER
+    distance_km: 17.64
+- country: US
+  region: GA
+  name: Monticello
+  lat: '33.2955'
+  long: "-83.6860"
+  nearby_rate_centers:
+  - name: MONTICELLO
+    distance_km: 1.37
+  - name: JACKSON
+    distance_km: 25.9
+  - name: EATONTON
+    distance_km: 27.52
+- country: US
+  region: GA
+  name: Montrose
+  lat: '32.5595'
+  long: "-83.1535"
+  nearby_rate_centers:
+  - name: MONTROSE
+    distance_km: 0.54
+  - name: DUDLEY
+    distance_km: 7.3
+  - name: DANVILLE
+    distance_km: 9.16
+- country: US
+  region: GA
+  name: Moody AFB
+  lat: '30.9714'
+  long: "-83.1954"
+  nearby_rate_centers:
+  - name: RAY CITY
+    distance_km: 11.43
+  - name: LAKELAND
+    distance_km: 13.87
+  - name: HAHIRA
+    distance_km: 17.23
+- country: US
+  region: GA
+  name: Moreland
+  lat: '33.2861'
+  long: "-84.7699"
+  nearby_rate_centers:
+  - name: GRANTVILLE
+    distance_km: 7.86
+  - name: LUTHERSVL
+    distance_km: 8.99
+  - name: NEWNAN
+    distance_km: 10.59
+- country: US
+  region: GA
+  name: Morgan
+  lat: '31.5381'
+  long: "-84.6033"
+  nearby_rate_centers:
+  - name: MORGAN
+    distance_km: 0.34
+  - name: LEARY
+    distance_km: 10.77
+  - name: EDISON
+    distance_km: 12.4
+- country: US
+  region: GA
+  name: Morganton
+  lat: '34.8749'
+  long: "-84.2442"
+  nearby_rate_centers:
+  - name: LAKEWOOD
+    distance_km: 2.09
+  - name: BLUE RIDGE
+    distance_km: 7.56
+  - name: DIAL
+    distance_km: 12.65
+- country: US
+  region: GA
+  name: Morrow
+  lat: '33.5815'
+  long: "-84.3391"
+  nearby_rate_centers:
+  - name: ATLANTA SO
+    distance_km: 10.81
+  - name: STOCKBDG
+    distance_km: 10.93
+  - name: ATLANTA
+    distance_km: 19.12
+- country: US
+  region: GA
+  name: Morven
+  lat: '30.9434'
+  long: "-83.5003"
+  nearby_rate_centers:
+  - name: MORVEN
+    distance_km: 0.24
+  - name: HAHIRA
+    distance_km: 13.07
+  - name: BERLIN
+    distance_km: 18.24
+- country: US
+  region: GA
+  name: Moultrie
+  lat: '31.1591'
+  long: "-83.7708"
+  nearby_rate_centers:
+  - name: MOULTRIE
+    distance_km: 3.08
+  - name: FUNSTON
+    distance_km: 10.5
+  - name: NORMANPARK
+    distance_km: 14.5
+- country: US
+  region: GA
+  name: Mount Airy
+  lat: '34.5221'
+  long: "-83.4976"
+  nearby_rate_centers:
+  - name: CORNELIA
+    distance_km: 2.99
+  - name: CLARKESVL
+    distance_km: 10.87
+  - name: TOCCOA
+    distance_km: 17.53
+- country: US
+  region: GA
+  name: Mount Vernon
+  lat: '32.1834'
+  long: "-82.5959"
+  nearby_rate_centers:
+  - name: MT VERNON
+    distance_km: 0.73
+  - name: GLENWOOD
+    distance_km: 6.78
+  - name: CEDARGROVE
+    distance_km: 16.8
+- country: US
+  region: GA
+  name: Mount Zion
+  lat: '33.6408'
+  long: "-85.1803"
+  nearby_rate_centers:
+  - name: BREMEN
+    distance_km: 9.93
+  - name: CARROLLTON
+    distance_km: 11.84
+  - name: BOWDON
+    distance_km: 13.32
+- country: US
+  region: GA
+  name: Mountain City
+  lat: '34.9196'
+  long: "-83.3854"
+  nearby_rate_centers:
+  - name: DILLRDMTCY
+    distance_km: 0.66
+  - name: CLAYTON
+    distance_km: 4.89
+  - name: BATESVILLE
+    distance_km: 25.31
+- country: US
+  region: GA
+  name: Mountain Park
+  lat: '33.8458'
+  long: "-84.1314"
+  nearby_rate_centers:
+  - name: STONE MT
+    distance_km: 5.47
+  - name: ATLANTA NE
+    distance_km: 5.89
+  - name: TUCKER
+    distance_km: 7.77
+- country: US
+  region: GA
+  name: Musella
+  lat: '32.8009'
+  long: "-84.0334"
+  nearby_rate_centers:
+  - name: ROBERTA
+    distance_km: 8.96
+  - name: CULLODEN
+    distance_km: 9.18
+  - name: YATESVILLE
+    distance_km: 16.04
+- country: US
+  region: GA
+  name: Nahunta
+  lat: '31.2065'
+  long: "-81.9814"
+  nearby_rate_centers:
+  - name: NAHUNTA
+    distance_km: 0.73
+  - name: HORTENSE
+    distance_km: 14.62
+  - name: HOBOKEN
+    distance_km: 14.75
+- country: US
+  region: GA
+  name: Nashville
+  lat: '31.2048'
+  long: "-83.2478"
+  nearby_rate_centers:
+  - name: NASHVILLE
+    distance_km: 0.43
+  - name: RAY CITY
+    distance_km: 15.18
+  - name: ADEL
+    distance_km: 18.04
+- country: US
+  region: GA
+  name: Naylor
+  lat: '30.9088'
+  long: "-83.0774"
+  nearby_rate_centers:
+  - name: LAKELAND
+    distance_km: 14.83
+  - name: VALDOSTA
+    distance_km: 21.3
+  - name: RAY CITY
+    distance_km: 21.89
+- country: US
+  region: GA
+  name: Nelson
+  lat: '34.3789'
+  long: "-84.3707"
+  nearby_rate_centers:
+  - name: NELSON
+    distance_km: 0.77
+  - name: MARBLEHILL
+    distance_km: 6.76
+  - name: JASPER
+    distance_km: 11.51
+- country: US
+  region: GA
+  name: New England
+  lat: '34.9079'
+  long: "-85.4880"
+  nearby_rate_centers:
+  - name: TRENTON
+    distance_km: 4.83
+  - name: WEST BROW
+    distance_km: 7.67
+  - name: HIGH POINT
+    distance_km: 13.89
+- country: US
+  region: GA
+  name: Newborn
+  lat: '33.5164'
+  long: "-83.6959"
+  nearby_rate_centers:
+  - name: RUTLEDGE
+    distance_km: 15.25
+  - name: SOCIALCRCL
+    distance_km: 15.83
+  - name: COVINGTON
+    distance_km: 17.52
+- country: US
+  region: GA
+  name: Newington
+  lat: '32.5887'
+  long: "-81.5063"
+  nearby_rate_centers:
+  - name: NEWINGTON
+    distance_km: 0.76
+  - name: DOVER
+    distance_km: 20.32
+  - name: SYLVANIA
+    distance_km: 21.23
+- country: US
+  region: GA
+  name: Newnan
+  lat: '33.3767'
+  long: "-84.7761"
+  nearby_rate_centers:
+  - name: NEWNAN
+    distance_km: 2.29
+  - name: GRANTVILLE
+    distance_km: 16.06
+  - name: LUTHERSVL
+    distance_km: 18.97
+- country: US
+  region: GA
+  name: Newton
+  lat: '31.3167'
+  long: "-84.3379"
+  nearby_rate_centers:
+  - name: NEWTON
+    distance_km: 0.95
+  - name: CAMILLA
+    distance_km: 15.19
+  - name: BACONTON
+    distance_km: 17.59
+- country: US
+  region: GA
+  name: Nicholls
+  lat: '31.5186'
+  long: "-82.6396"
+  nearby_rate_centers:
+  - name: NICHOLLS
+    distance_km: 0.56
+  - name: ALMA
+    distance_km: 16.74
+  - name: DOUGLAS
+    distance_km: 19.93
+- country: US
+  region: GA
+  name: Nicholson
+  lat: '34.1172'
+  long: "-83.4289"
+  nearby_rate_centers:
+  - name: NICHOLSON
+    distance_km: 0.28
+  - name: COMMERCE
+    distance_km: 10.36
+  - name: ILA
+    distance_km: 13.57
+- country: US
+  region: GA
+  name: Norcross
+  lat: '33.9379'
+  long: "-84.2065"
+  nearby_rate_centers:
+  - name: NORCROSS
+    distance_km: 0.45
+  - name: ATLANTA NE
+    distance_km: 6.48
+  - name: DULUTH
+    distance_km: 8.63
+- country: US
+  region: GA
+  name: Norman Park
+  lat: '31.2692'
+  long: "-83.6843"
+  nearby_rate_centers:
+  - name: NORMANPARK
+    distance_km: 0.28
+  - name: OMEGA
+    distance_km: 11.99
+  - name: MOULTRIE
+    distance_km: 14.05
+- country: US
+  region: GA
+  name: Norristown
+  lat: '32.5064'
+  long: "-82.4982"
+  nearby_rate_centers:
+  - name: ADRIAN
+    distance_km: 10.16
+  - name: SOPERTON
+    distance_km: 17.12
+  - name: SWAINSBORO
+    distance_km: 18.82
+- country: US
+  region: GA
+  name: North Decatur
+  lat: '33.8074'
+  long: "-84.2889"
+  nearby_rate_centers:
+  - name: TUCKER
+    distance_km: 8.7
+  - name: CHAMBLEE
+    distance_km: 9.28
+  - name: ATLANTA
+    distance_km: 10.69
+- country: US
+  region: GA
+  name: North Druid Hills
+  lat: '33.8185'
+  long: "-84.3254"
+  nearby_rate_centers:
+  - name: CHAMBLEE
+    distance_km: 8.37
+  - name: ATLANTA
+    distance_km: 9.23
+  - name: TUCKER
+    distance_km: 11.03
+- country: US
+  region: GA
+  name: North High Shoals
+  lat: '33.8271'
+  long: "-83.5014"
+  nearby_rate_centers:
+  - name: WATKINSVL
+    distance_km: 9.63
+  - name: BOGARTSTHM
+    distance_km: 15.66
+  - name: ATHENS
+    distance_km: 18.32
+- country: US
+  region: GA
+  name: Norwood
+  lat: '33.4625'
+  long: "-82.7055"
+  nearby_rate_centers:
+  - name: WARRENTON
+    distance_km: 7.16
+  - name: THOMSON
+    distance_km: 19.06
+  - name: CRAWFORDVL
+    distance_km: 20.45
+- country: US
+  region: GA
+  name: Nunez
+  lat: '32.4919'
+  long: "-82.3467"
+  nearby_rate_centers:
+  - name: LEXSY
+    distance_km: 5.35
+  - name: SWAINSBORO
+    distance_km: 12.16
+  - name: OAK PARK
+    distance_km: 15.13
+- country: US
+  region: GA
+  name: Oak Park
+  lat: '32.3822'
+  long: "-82.3153"
+  nearby_rate_centers:
+  - name: OAK PARK
+    distance_km: 2.67
+  - name: LEXSY
+    distance_km: 9.49
+  - name: LYONS
+    distance_km: 20.06
+- country: US
+  region: GA
+  name: Oakwood
+  lat: '34.2236'
+  long: "-83.8851"
+  nearby_rate_centers:
+  - name: FLOWEYBRCH
+    distance_km: 5.17
+  - name: GAINESVL
+    distance_km: 10.15
+  - name: BUFORD
+    distance_km: 16.21
+- country: US
+  region: GA
+  name: Ochlocknee
+  lat: '30.9751'
+  long: "-84.0517"
+  nearby_rate_centers:
+  - name: OCHLOCKNEE
+    distance_km: 0.35
+  - name: MEIGS
+    distance_km: 11.51
+  - name: THOMASVL
+    distance_km: 16.26
+- country: US
+  region: GA
+  name: Ocilla
+  lat: '31.5987'
+  long: "-83.2498"
+  nearby_rate_centers:
+  - name: OCILLA
+    distance_km: 0.71
+  - name: FITZGERALD
+    distance_km: 13.29
+  - name: IRWINVILLE
+    distance_km: 13.68
+- country: US
+  region: GA
+  name: Oconee
+  lat: '32.8535'
+  long: "-82.9576"
+  nearby_rate_centers:
+  - name: TOOMSBORO
+    distance_km: 11.38
+  - name: SANDERSVL
+    distance_km: 20.05
+  - name: IRWINTON
+    distance_km: 21.07
+- country: US
+  region: GA
+  name: Odum
+  lat: '31.6665'
+  long: "-82.0269"
+  nearby_rate_centers:
+  - name: ODUM
+    distance_km: 1.14
+  - name: JESUP
+    distance_km: 15.08
+  - name: SCREVEN
+    distance_km: 20.21
+- country: US
+  region: GA
+  name: Offerman
+  lat: '31.4088'
+  long: "-82.1132"
+  nearby_rate_centers:
+  - name: PATTERSON
+    distance_km: 4.03
+  - name: SCREVEN
+    distance_km: 12.35
+  - name: BLACKSHEAR
+    distance_km: 16.72
+- country: US
+  region: GA
+  name: Oglethorpe
+  lat: '32.2934'
+  long: "-84.0625"
+  nearby_rate_centers:
+  - name: MONTEZUMA
+    distance_km: 2.96
+  - name: IDEAL
+    distance_km: 15.02
+  - name: BYROMVILLE
+    distance_km: 18.32
+- country: US
+  region: GA
+  name: Ohoopee
+  lat: '32.1808'
+  long: "-82.2209"
+  nearby_rate_centers:
+  - name: LYONS
+    distance_km: 10.04
+  - name: COLLINS
+    distance_km: 10.56
+  - name: COBBTOWN
+    distance_km: 13.37
+- country: US
+  region: GA
+  name: Oliver
+  lat: '32.5215'
+  long: "-81.5330"
+  nearby_rate_centers:
+  - name: NEWINGTON
+    distance_km: 7.55
+  - name: BROOKLET
+    distance_km: 19.7
+  - name: CLITO
+    distance_km: 20.6
+- country: US
+  region: GA
+  name: Omega
+  lat: '31.3389'
+  long: "-83.5950"
+  nearby_rate_centers:
+  - name: OMEGA
+    distance_km: 0.51
+  - name: NORMANPARK
+    distance_km: 11.71
+  - name: LENOX
+    distance_km: 13.86
+- country: US
+  region: GA
+  name: Orchard Hill
+  lat: '33.1851'
+  long: "-84.2123"
+  nearby_rate_centers:
+  - name: GRIFFIN
+    distance_km: 8.4
+  - name: ZEBULON
+    distance_km: 15.14
+  - name: BARNESVL
+    distance_km: 15.53
+- country: US
+  region: GA
+  name: Oxford
+  lat: '33.6277'
+  long: "-83.8721"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 3.49
+  - name: CONYERS
+    distance_km: 13.84
+  - name: SOCIALCRCL
+    distance_km: 14.91
+- country: US
+  region: GA
+  name: Palmetto
+  lat: '33.5310'
+  long: "-84.6678"
+  nearby_rate_centers:
+  - name: NEWNAN
+    distance_km: 21.03
+  - name: ATLANTA SO
+    distance_km: 26.62
+  - name: SENOIA
+    distance_km: 27.79
+- country: US
+  region: GA
+  name: Panthersville
+  lat: '33.7059'
+  long: "-84.2763"
+  nearby_rate_centers:
+  - name: PANOLA
+    distance_km: 9.38
+  - name: ATLANTA
+    distance_km: 10.88
+  - name: STONE MT
+    distance_km: 15.08
+- country: US
+  region: GA
+  name: Parrott
+  lat: '31.8944'
+  long: "-84.5117"
+  nearby_rate_centers:
+  - name: PARROTT
+    distance_km: 0.92
+  - name: DAWSON
+    distance_km: 14.77
+  - name: SHELLMAN
+    distance_km: 17.47
+- country: US
+  region: GA
+  name: Patterson
+  lat: '31.3853'
+  long: "-82.1373"
+  nearby_rate_centers:
+  - name: PATTERSON
+    distance_km: 0.65
+  - name: BLACKSHEAR
+    distance_km: 13.27
+  - name: SCREVEN
+    distance_km: 15.81
+- country: US
+  region: GA
+  name: Pavo
+  lat: '30.9597'
+  long: "-83.7380"
+  nearby_rate_centers:
+  - name: PAVO
+    distance_km: 0.54
+  - name: BARWICK
+    distance_km: 7.54
+  - name: COOLIDGE
+    distance_km: 13.43
+- country: US
+  region: GA
+  name: Peachtree City
+  lat: '33.3942'
+  long: "-84.5710"
+  nearby_rate_centers:
+  - name: SENOIA
+    distance_km: 10.53
+  - name: ATLANTA SO
+    distance_km: 20.43
+  - name: NEWNAN
+    distance_km: 21.4
+- country: US
+  region: GA
+  name: Peachtree Corners
+  lat: '33.9670'
+  long: "-84.2320"
+  nearby_rate_centers:
+  - name: NORCROSS
+    distance_km: 3.63
+  - name: DULUTH
+    distance_km: 8.45
+  - name: ATLANTA NE
+    distance_km: 10.48
+- country: US
+  region: GA
+  name: Pearson
+  lat: '31.2970'
+  long: "-82.8544"
+  nearby_rate_centers:
+  - name: PEARSON
+    distance_km: 0.71
+  - name: WILLACOCHE
+    distance_km: 19.06
+  - name: DOUGLAS
+    distance_km: 23.45
+- country: US
+  region: GA
+  name: Pelham
+  lat: '31.1267'
+  long: "-84.1515"
+  nearby_rate_centers:
+  - name: PELHAM
+    distance_km: 0.04
+  - name: MEIGS
+    distance_km: 8.83
+  - name: CAMILLA
+    distance_km: 13.22
+- country: US
+  region: GA
+  name: Pembroke
+  lat: '32.1455'
+  long: "-81.6185"
+  nearby_rate_centers:
+  - name: PEMBROKE
+    distance_km: 1.53
+  - name: ELLABELLE
+    distance_km: 14.59
+  - name: NEVILS
+    distance_km: 17.34
+- country: US
+  region: GA
+  name: Pendergrass
+  lat: '34.1646'
+  long: "-83.6827"
+  nearby_rate_centers:
+  - name: PENDERGRSS
+    distance_km: 0.78
+  - name: BRASELTON
+    distance_km: 8.92
+  - name: JEFFERSON
+    distance_km: 10.64
+- country: US
+  region: GA
+  name: Perkins
+  lat: '32.9149'
+  long: "-81.9490"
+  nearby_rate_centers:
+  - name: MILLEN
+    distance_km: 11.65
+  - name: SARDIS
+    distance_km: 18.94
+  - name: WAYNESBORO
+    distance_km: 20.85
+- country: US
+  region: GA
+  name: Perry
+  lat: '32.4720'
+  long: "-83.7283"
+  nearby_rate_centers:
+  - name: PERRY
+    distance_km: 1.71
+  - name: FORTVALLEY
+    distance_km: 16.68
+  - name: CENTERVL
+    distance_km: 17.58
+- country: US
+  region: GA
+  name: Phillipsburg
+  lat: '31.4389'
+  long: "-83.5203"
+  nearby_rate_centers:
+  - name: TIFTON
+    distance_km: 1.65
+  - name: OMEGA
+    distance_km: 12.68
+  - name: ENIGMA
+    distance_km: 18.26
+- country: US
+  region: GA
+  name: Pine Lake
+  lat: '33.7906'
+  long: "-84.2061"
+  nearby_rate_centers:
+  - name: STONE MT
+    distance_km: 4.07
+  - name: TUCKER
+    distance_km: 7.27
+  - name: PANOLA
+    distance_km: 10.58
+- country: US
+  region: GA
+  name: Pine Mountain
+  lat: '32.8522'
+  long: "-84.8521"
+  nearby_rate_centers:
+  - name: PINE MT
+    distance_km: 1.76
+  - name: HAMILTON
+    distance_km: 10.55
+  - name: WARM SPG
+    distance_km: 16.86
+- country: US
+  region: GA
+  name: Pinehurst
+  lat: '32.1956'
+  long: "-83.7596"
+  nearby_rate_centers:
+  - name: PINEHURST
+    distance_km: 0.37
+  - name: UNADILLA
+    distance_km: 7.59
+  - name: VIENNA
+    distance_km: 11.77
+- country: US
+  region: GA
+  name: Pineview
+  lat: '32.1084'
+  long: "-83.5029"
+  nearby_rate_centers:
+  - name: PINEVIEW
+    distance_km: 0.16
+  - name: PITTS
+    distance_km: 18.79
+  - name: ROCHELLE
+    distance_km: 19.15
+- country: US
+  region: GA
+  name: Piney Grove
+  lat: '32.6218'
+  long: "-85.0368"
+  nearby_rate_centers:
+  - name: COLUMBUS
+    distance_km: 16.93
+  - name: HAMILTON
+    distance_km: 21.4
+  - name: WAVELYHALL
+    distance_km: 29.33
+- country: US
+  region: GA
+  name: Pitts
+  lat: '31.9462'
+  long: "-83.5417"
+  nearby_rate_centers:
+  - name: PITTS
+    distance_km: 0.5
+  - name: ROCHELLE
+    distance_km: 7.76
+  - name: REBECCA
+    distance_km: 16.08
+- country: US
+  region: GA
+  name: Plains
+  lat: '32.0331'
+  long: "-84.3946"
+  nearby_rate_centers:
+  - name: PLAINS
+    distance_km: 0.5
+  - name: PRESTON
+    distance_km: 14.44
+  - name: AMERICUS
+    distance_km: 15.57
+- country: US
+  region: GA
+  name: Plainville
+  lat: '34.4053'
+  long: "-85.0312"
+  nearby_rate_centers:
+  - name: ADAIRSVL
+    distance_km: 10.22
+  - name: CALHOUN
+    distance_km: 12.8
+  - name: ROME
+    distance_km: 20.79
+- country: US
+  region: GA
+  name: Pooler
+  lat: '32.1043'
+  long: "-81.2569"
+  nearby_rate_centers:
+  - name: POOLER
+    distance_km: 1.98
+  - name: SO GUYTON
+    distance_km: 11.31
+  - name: SAVANNAH
+    distance_km: 16.11
+- country: US
+  region: GA
+  name: Port Wentworth
+  lat: '32.1951'
+  long: "-81.1991"
+  nearby_rate_centers:
+  - name: SO GUYTON
+    distance_km: 9.33
+  - name: POOLER
+    distance_km: 9.56
+  - name: RINCON
+    distance_km: 11.03
+- country: US
+  region: GA
+  name: Portal
+  lat: '32.5383'
+  long: "-81.9297"
+  nearby_rate_centers:
+  - name: PORTAL
+    distance_km: 0.82
+  - name: CLITO
+    distance_km: 16.81
+  - name: STATESBORO
+    distance_km: 17.26
+- country: US
+  region: GA
+  name: Porterdale
+  lat: '33.5739'
+  long: "-83.8941"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 4.43
+  - name: CONYERS
+    distance_km: 15.06
+  - name: SOCIALCRCL
+    distance_km: 19.02
+- country: US
+  region: GA
+  name: Poulan
+  lat: '31.5145'
+  long: "-83.7898"
+  nearby_rate_centers:
+  - name: SYLVESTER
+    distance_km: 5.92
+  - name: ASHBURN
+    distance_km: 24.5
+  - name: DOERUN
+    distance_km: 24.98
+- country: US
+  region: GA
+  name: Powder Springs
+  lat: '33.8659'
+  long: "-84.6840"
+  nearby_rate_centers:
+  - name: ATLANTA NW
+    distance_km: 6.75
+  - name: AUSTELL
+    distance_km: 7.18
+  - name: MARIETTA
+    distance_km: 15.83
+- country: US
+  region: GA
+  name: Pulaski
+  lat: '32.3904'
+  long: "-81.9565"
+  nearby_rate_centers:
+  - name: REGISTER
+    distance_km: 7.47
+  - name: ANDERSON
+    distance_km: 8.47
+  - name: METTER
+    distance_km: 10.34
+- country: US
+  region: GA
+  name: Putney
+  lat: '31.4755'
+  long: "-84.1010"
+  nearby_rate_centers:
+  - name: BACONTON
+    distance_km: 12.61
+  - name: ALBANY
+    distance_km: 13.39
+  - name: SYLVESTER
+    distance_km: 24.78
+- country: US
+  region: GA
+  name: Quitman
+  lat: '30.7849'
+  long: "-83.5603"
+  nearby_rate_centers:
+  - name: QUITMAN
+    distance_km: 0.15
+  - name: MORVEN
+    distance_km: 18.35
+  - name: BARWICK
+    distance_km: 20.93
+- country: US
+  region: GA
+  name: Ranger
+  lat: '34.5013'
+  long: "-84.7111"
+  nearby_rate_centers:
+  - name: RANGER
+    distance_km: 0.2
+  - name: FAIRMOUNT
+    distance_km: 7.64
+  - name: CALHOUN
+    distance_km: 21.83
+- country: US
+  region: GA
+  name: Raoul
+  lat: '34.4548'
+  long: "-83.5996"
+  nearby_rate_centers:
+  - name: CORNELIA
+    distance_km: 8.98
+  - name: LULA
+    distance_km: 10.04
+  - name: CLERMONT
+    distance_km: 16.26
+- country: US
+  region: GA
+  name: Ray City
+  lat: '31.0729'
+  long: "-83.1960"
+  nearby_rate_centers:
+  - name: RAY CITY
+    distance_km: 0.61
+  - name: LAKELAND
+    distance_km: 11.98
+  - name: NASHVILLE
+    distance_km: 15.89
+- country: US
+  region: GA
+  name: Rayle
+  lat: '33.7902'
+  long: "-82.9031"
+  nearby_rate_centers:
+  - name: RAYLE
+    distance_km: 1.25
+  - name: WASHINGTON
+    distance_km: 16.43
+  - name: TIGNALL
+    distance_km: 17.31
+- country: US
+  region: GA
+  name: Rebecca
+  lat: '31.8072'
+  long: "-83.4876"
+  nearby_rate_centers:
+  - name: REBECCA
+    distance_km: 0.46
+  - name: ROCHELLE
+    distance_km: 15.01
+  - name: PITTS
+    distance_km: 15.79
+- country: US
+  region: GA
+  name: Redan
+  lat: '33.7394'
+  long: "-84.1644"
+  nearby_rate_centers:
+  - name: PANOLA
+    distance_km: 4.6
+  - name: STONE MT
+    distance_km: 7.39
+  - name: TUCKER
+    distance_km: 13.73
+- country: US
+  region: GA
+  name: Reed Creek
+  lat: '34.4395'
+  long: "-82.9103"
+  nearby_rate_centers:
+  - name: HARTWELL
+    distance_km: 9.34
+  - name: LAVONIA
+    distance_km: 18.05
+  - name: ROYSTON
+    distance_km: 25.16
+- country: US
+  region: GA
+  name: Register
+  lat: '32.3658'
+  long: "-81.8845"
+  nearby_rate_centers:
+  - name: REGISTER
+    distance_km: 0.26
+  - name: ANDERSON
+    distance_km: 2.62
+  - name: STATESBORO
+    distance_km: 12.95
+- country: US
+  region: GA
+  name: Reidsville
+  lat: '32.0871'
+  long: "-82.1244"
+  nearby_rate_centers:
+  - name: REIDSVILLE
+    distance_km: 0.79
+  - name: COLLINS
+    distance_km: 10.18
+  - name: JOHNSONCOR
+    distance_km: 16.95
+- country: US
+  region: GA
+  name: Remerton
+  lat: '30.8441'
+  long: "-83.3085"
+  nearby_rate_centers:
+  - name: VALDOSTA
+    distance_km: 2.8
+  - name: HAHIRA
+    distance_km: 17.46
+  - name: MORVEN
+    distance_km: 21.19
+- country: US
+  region: GA
+  name: Rentz
+  lat: '32.3835'
+  long: "-82.9917"
+  nearby_rate_centers:
+  - name: RENTZ
+    distance_km: 0.1
+  - name: CADWELL
+    distance_km: 7.35
+  - name: DEXTER
+    distance_km: 8.24
+- country: US
+  region: GA
+  name: Resaca
+  lat: '34.5789'
+  long: "-84.9439"
+  nearby_rate_centers:
+  - name: CALHOUN
+    distance_km: 8.96
+  - name: VILLANOW
+    distance_km: 18.58
+  - name: DALTON
+    distance_km: 21.98
+- country: US
+  region: GA
+  name: Rest Haven
+  lat: '34.1363'
+  long: "-83.9747"
+  nearby_rate_centers:
+  - name: BUFORD
+    distance_km: 4.02
+  - name: FLOWEYBRCH
+    distance_km: 7.67
+  - name: CUMMING
+    distance_km: 17.16
+- country: US
+  region: GA
+  name: Reynolds
+  lat: '32.5608'
+  long: "-84.0943"
+  nearby_rate_centers:
+  - name: REYNOLDS
+    distance_km: 0.31
+  - name: BUTLER
+    distance_km: 13.2
+  - name: MARSHALLVL
+    distance_km: 18.31
+- country: US
+  region: GA
+  name: Rhine
+  lat: '31.9891'
+  long: "-83.2000"
+  nearby_rate_centers:
+  - name: RHINE
+    distance_km: 0.33
+  - name: ABBEVILLE
+    distance_km: 10.07
+  - name: MILAN
+    distance_km: 12.95
+- country: US
+  region: GA
+  name: Riceboro
+  lat: '31.7264'
+  long: "-81.4438"
+  nearby_rate_centers:
+  - name: MIDWAY
+    distance_km: 9.38
+  - name: HINESVILLE
+    distance_km: 19.35
+  - name: EULONIA
+    distance_km: 21.87
+- country: US
+  region: GA
+  name: Richland
+  lat: '32.0885'
+  long: "-84.6625"
+  nearby_rate_centers:
+  - name: RICHLAND
+    distance_km: 0.68
+  - name: PRESTON
+    distance_km: 11.56
+  - name: LUMPKIN
+    distance_km: 13.13
+- country: US
+  region: GA
+  name: Richmond Hill
+  lat: '31.9012'
+  long: "-81.3125"
+  nearby_rate_centers:
+  - name: RICHMONDHL
+    distance_km: 4.72
+  - name: KELLER
+    distance_km: 8.47
+  - name: MIDWAY
+    distance_km: 14.64
+- country: US
+  region: GA
+  name: Riddleville
+  lat: '32.9069'
+  long: "-82.6661"
+  nearby_rate_centers:
+  - name: DAVISBORO
+    distance_km: 9.26
+  - name: SANDERSVL
+    distance_km: 15.99
+  - name: BARTOW
+    distance_km: 18.21
+- country: US
+  region: GA
+  name: Rincon
+  lat: '32.2947'
+  long: "-81.2353"
+  nearby_rate_centers:
+  - name: RINCON
+    distance_km: 0.9
+  - name: SPRINGFLD
+    distance_km: 11.2
+  - name: SO GUYTON
+    distance_km: 12.08
+- country: US
+  region: GA
+  name: Ringgold
+  lat: '34.9136'
+  long: "-85.1215"
+  nearby_rate_centers:
+  - name: RINGGOLD
+    distance_km: 1.23
+  - name: TUNNELHILL
+    distance_km: 10.69
+  - name: CHICKAMAGA
+    distance_km: 15.33
+- country: US
+  region: GA
+  name: Riverdale
+  lat: '33.5639'
+  long: "-84.4103"
+  nearby_rate_centers:
+  - name: ATLANTA SO
+    distance_km: 8.35
+  - name: STOCKBDG
+    distance_km: 16.74
+  - name: ATLANTA
+    distance_km: 20.84
+- country: US
+  region: GA
+  name: Roberta
+  lat: '32.7196'
+  long: "-84.0104"
+  nearby_rate_centers:
+  - name: ROBERTA
+    distance_km: 0.45
+  - name: CULLODEN
+    distance_km: 18.03
+  - name: REYNOLDS
+    distance_km: 19.58
+- country: US
+  region: GA
+  name: Robins AFB
+  lat: '32.6092'
+  long: "-83.5846"
+  nearby_rate_centers:
+  - name: WARNERRBNS
+    distance_km: 0.5
+  - name: CENTERVL
+    distance_km: 10.15
+  - name: BYRON
+    distance_km: 16.92
+- country: US
+  region: GA
+  name: Rochelle
+  lat: '31.9488'
+  long: "-83.4569"
+  nearby_rate_centers:
+  - name: ROCHELLE
+    distance_km: 1.0
+  - name: PITTS
+    distance_km: 7.8
+  - name: ABBEVILLE
+    distance_km: 14.95
+- country: US
+  region: GA
+  name: Rock Spring
+  lat: '34.8147'
+  long: "-85.2389"
+  nearby_rate_centers:
+  - name: NOBLE
+    distance_km: 7.66
+  - name: CHICKAMAGA
+    distance_km: 7.78
+  - name: HIGH POINT
+    distance_km: 12.27
+- country: US
+  region: GA
+  name: Rockingham
+  lat: '31.5441'
+  long: "-82.4145"
+  nearby_rate_centers:
+  - name: ALMA
+    distance_km: 4.81
+  - name: NICHOLLS
+    distance_km: 22.05
+  - name: BAXLEY
+    distance_km: 26.58
+- country: US
+  region: GA
+  name: Rockmart
+  lat: '34.0103'
+  long: "-85.0440"
+  nearby_rate_centers:
+  - name: ROCKMART
+    distance_km: 1.12
+  - name: CEDARTOWN
+    distance_km: 18.99
+  - name: KINGSTON
+    distance_km: 26.31
+- country: US
+  region: GA
+  name: Rocky Ford
+  lat: '32.6636'
+  long: "-81.8297"
+  nearby_rate_centers:
+  - name: PORTAL
+    distance_km: 16.01
+  - name: DOVER
+    distance_km: 17.11
+  - name: CLITO
+    distance_km: 18.07
+- country: US
+  region: GA
+  name: Rome
+  lat: '34.2662'
+  long: "-85.1863"
+  nearby_rate_centers:
+  - name: ROME
+    distance_km: 1.43
+  - name: CAVESPRING
+    distance_km: 22.23
+  - name: KINGSTON
+    distance_km: 22.59
+- country: US
+  region: GA
+  name: Roopville
+  lat: '33.4566'
+  long: "-85.1304"
+  nearby_rate_centers:
+  - name: ROOPVILLE
+    distance_km: 0.77
+  - name: CARROLLTON
+    distance_km: 14.74
+  - name: BOWDON
+    distance_km: 15.09
+- country: US
+  region: GA
+  name: Rossville
+  lat: '34.9747'
+  long: "-85.2898"
+  nearby_rate_centers:
+  - name: ROSSVILLE
+    distance_km: 0.46
+  - name: CHICKAMAGA
+    distance_km: 11.14
+  - name: WEST BROW
+    distance_km: 11.86
+- country: US
+  region: GA
+  name: Roswell
+  lat: '34.0391'
+  long: "-84.3513"
+  nearby_rate_centers:
+  - name: ROSWELL
+    distance_km: 2.8
+  - name: ALPHARETTA
+    distance_km: 8.09
+  - name: WOODSTOCK
+    distance_km: 16.84
+- country: US
+  region: GA
+  name: Royston
+  lat: '34.2861'
+  long: "-83.1106"
+  nearby_rate_centers:
+  - name: ROYSTON
+    distance_km: 0.37
+  - name: CARNESVL
+    distance_km: 14.6
+  - name: LAVONIA
+    distance_km: 16.19
+- country: US
+  region: GA
+  name: Russell
+  lat: '33.9797'
+  long: "-83.6919"
+  nearby_rate_centers:
+  - name: WINDER
+    distance_km: 2.49
+  - name: BOGARTSTHM
+    distance_km: 10.49
+  - name: BRASELTON
+    distance_km: 16.12
+- country: US
+  region: GA
+  name: Rutledge
+  lat: '33.6263'
+  long: "-83.6112"
+  nearby_rate_centers:
+  - name: RUTLEDGE
+    distance_km: 0.84
+  - name: SOCIALCRCL
+    distance_km: 10.24
+  - name: MADISON
+    distance_km: 13.75
+- country: US
+  region: GA
+  name: Sale City
+  lat: '31.2626'
+  long: "-84.0214"
+  nearby_rate_centers:
+  - name: DOERUN
+    distance_km: 11.71
+  - name: FUNSTON
+    distance_km: 15.96
+  - name: CAMILLA
+    distance_km: 18.23
+- country: US
+  region: GA
+  name: Salem
+  lat: '32.7588'
+  long: "-84.1933"
+  nearby_rate_centers:
+  - name: CULLODEN
+    distance_km: 15.04
+  - name: ROBERTA
+    distance_km: 17.76
+  - name: YATESVILLE
+    distance_km: 18.41
+- country: US
+  region: GA
+  name: Sandersville
+  lat: '32.9827'
+  long: "-82.8089"
+  nearby_rate_centers:
+  - name: SANDERSVL
+    distance_km: 0.26
+  - name: DAVISBORO
+    distance_km: 18.73
+  - name: WRIGHTSVL
+    distance_km: 29.84
+- country: US
+  region: GA
+  name: Sandy Springs
+  lat: '33.9366'
+  long: "-84.3703"
+  nearby_rate_centers:
+  - name: CHAMBLEE
+    distance_km: 8.35
+  - name: ROSWELL
+    distance_km: 8.77
+  - name: SMYRNA
+    distance_km: 13.9
+- country: US
+  region: GA
+  name: Santa Claus
+  lat: '32.1712'
+  long: "-82.3297"
+  nearby_rate_centers:
+  - name: LYONS
+    distance_km: 3.45
+  - name: VIDALIA
+    distance_km: 8.99
+  - name: JOHNSONCOR
+    distance_km: 12.39
+- country: US
+  region: GA
+  name: Sardis
+  lat: '32.9756'
+  long: "-81.7621"
+  nearby_rate_centers:
+  - name: SARDIS
+    distance_km: 0.47
+  - name: HILLTONIA
+    distance_km: 14.23
+  - name: MILLEN
+    distance_km: 24.99
+- country: US
+  region: GA
+  name: Sasser
+  lat: '31.7199'
+  long: "-84.3478"
+  nearby_rate_centers:
+  - name: SASSER
+    distance_km: 0.62
+  - name: DAWSON
+    distance_km: 10.87
+  - name: LEESBURG
+    distance_km: 17.03
+- country: US
+  region: GA
+  name: Satilla
+  lat: '31.7919'
+  long: "-82.5638"
+  nearby_rate_centers:
+  - name: HAZLEHURST
+    distance_km: 8.86
+  - name: LUMBERCITY
+    distance_km: 19.55
+  - name: BAXLEY
+    distance_km: 20.42
+- country: US
+  region: GA
+  name: Sautee-Nacoochee
+  lat: '34.6895'
+  long: "-83.6860"
+  nearby_rate_centers:
+  - name: HELEN
+    distance_km: 4.62
+  - name: BATESVILLE
+    distance_km: 12.23
+  - name: CLEVELAND
+    distance_km: 12.24
+- country: US
+  region: GA
+  name: Savannah
+  lat: '32.0286'
+  long: "-81.1821"
+  nearby_rate_centers:
+  - name: SAVANNAH
+    distance_km: 10.16
+  - name: POOLER
+    distance_km: 11.41
+  - name: RICHMONDHL
+    distance_km: 15.95
+- country: US
+  region: GA
+  name: Scotland
+  lat: '32.0472'
+  long: "-82.8181"
+  nearby_rate_centers:
+  - name: MCRAE
+    distance_km: 8.69
+  - name: ALAMO
+    distance_km: 12.29
+  - name: LUMBERCITY
+    distance_km: 17.77
+- country: US
+  region: GA
+  name: Scottdale
+  lat: '33.7950'
+  long: "-84.2634"
+  nearby_rate_centers:
+  - name: TUCKER
+    distance_km: 8.1
+  - name: STONE MT
+    distance_km: 9.08
+  - name: CHAMBLEE
+    distance_km: 11.11
+- country: US
+  region: GA
+  name: Screven
+  lat: '31.4840'
+  long: "-82.0171"
+  nearby_rate_centers:
+  - name: SCREVEN
+    distance_km: 0.15
+  - name: PATTERSON
+    distance_km: 16.4
+  - name: HORTENSE
+    distance_km: 17.33
+- country: US
+  region: GA
+  name: Senoia
+  lat: '33.3082'
+  long: "-84.5546"
+  nearby_rate_centers:
+  - name: SENOIA
+    distance_km: 0.89
+  - name: LUTHERSVL
+    distance_km: 20.8
+  - name: NEWNAN
+    distance_km: 24.14
+- country: US
+  region: GA
+  name: Seville
+  lat: '31.9608'
+  long: "-83.6012"
+  nearby_rate_centers:
+  - name: PITTS
+    distance_km: 6.21
+  - name: ROCHELLE
+    distance_km: 13.54
+  - name: CORDELE
+    distance_km: 17.9
+- country: US
+  region: GA
+  name: Shady Dale
+  lat: '33.4008'
+  long: "-83.5880"
+  nearby_rate_centers:
+  - name: MONTICELLO
+    distance_km: 13.59
+  - name: EATONTON
+    distance_km: 20.06
+  - name: MADISON
+    distance_km: 23.89
+- country: US
+  region: GA
+  name: Shannon
+  lat: '34.3406'
+  long: "-85.0854"
+  nearby_rate_centers:
+  - name: ROME
+    distance_km: 12.08
+  - name: ADAIRSVL
+    distance_km: 14.01
+  - name: KINGSTON
+    distance_km: 17.73
+- country: US
+  region: GA
+  name: Sharon
+  lat: '33.5601'
+  long: "-82.7950"
+  nearby_rate_centers:
+  - name: CRAWFORDVL
+    distance_km: 9.1
+  - name: WASHINGTON
+    distance_km: 19.96
+  - name: WARRENTON
+    distance_km: 20.83
+- country: US
+  region: GA
+  name: Sharpsburg
+  lat: '33.3370'
+  long: "-84.6504"
+  nearby_rate_centers:
+  - name: SENOIA
+    distance_km: 10.13
+  - name: NEWNAN
+    distance_km: 14.68
+  - name: LUTHERSVL
+    distance_km: 16.74
+- country: US
+  region: GA
+  name: Shellman
+  lat: '31.7571'
+  long: "-84.6159"
+  nearby_rate_centers:
+  - name: SHELLMAN
+    distance_km: 0.9
+  - name: DAWSON
+    distance_km: 16.52
+  - name: CUTHBERT
+    distance_km: 16.93
+- country: US
+  region: GA
+  name: Shiloh
+  lat: '32.8115'
+  long: "-84.6989"
+  nearby_rate_centers:
+  - name: MANCHESTER
+    distance_km: 9.12
+  - name: WARM SPG
+    distance_km: 9.14
+  - name: WOODLAND
+    distance_km: 13.66
+- country: US
+  region: GA
+  name: Siloam
+  lat: '33.5367'
+  long: "-83.0812"
+  nearby_rate_centers:
+  - name: WHITE PL
+    distance_km: 3.83
+  - name: UNIONPOINT
+    distance_km: 8.95
+  - name: GREENSBORO
+    distance_km: 10.23
+- country: US
+  region: GA
+  name: Skidaway Island
+  lat: '31.9372'
+  long: "-81.0449"
+  nearby_rate_centers:
+  - name: SAVANNAH
+    distance_km: 15.9
+  - name: RICHMONDHL
+    distance_km: 20.9
+  - name: TYBEE IS
+    distance_km: 21.08
+- country: US
+  region: GA
+  name: Sky Valley
+  lat: '34.9841'
+  long: "-83.3314"
+  nearby_rate_centers:
+  - name: DILLRDMTCY
+    distance_km: 9.33
+  - name: CLAYTON
+    distance_km: 13.4
+  - name: BATESVILLE
+    distance_km: 33.82
+- country: US
+  region: GA
+  name: Smarr
+  lat: '32.9870'
+  long: "-83.8830"
+  nearby_rate_centers:
+  - name: FORSYTH
+    distance_km: 6.76
+  - name: LIZELLA
+    distance_km: 20.51
+  - name: CULLODEN
+    distance_km: 23.91
+- country: US
+  region: GA
+  name: Smithville
+  lat: '31.9011'
+  long: "-84.2552"
+  nearby_rate_centers:
+  - name: SMITHVILLE
+    distance_km: 0.53
+  - name: LESLIE
+    distance_km: 16.19
+  - name: AMERICUS
+    distance_km: 18.35
+- country: US
+  region: GA
+  name: Smyrna
+  lat: '33.8633'
+  long: "-84.5168"
+  nearby_rate_centers:
+  - name: SMYRNA
+    distance_km: 2.42
+  - name: MARIETTA
+    distance_km: 9.87
+  - name: AUSTELL
+    distance_km: 11.98
+- country: US
+  region: GA
+  name: Snellville
+  lat: '33.8562'
+  long: "-84.0038"
+  nearby_rate_centers:
+  - name: LAWRENCEVL
+    distance_km: 11.66
+  - name: ATLANTA NE
+    distance_km: 15.42
+  - name: STONE MT
+    distance_km: 16.0
+- country: US
+  region: GA
+  name: Social Circle
+  lat: '33.6505'
+  long: "-83.7116"
+  nearby_rate_centers:
+  - name: SOCIALCRCL
+    distance_km: 0.88
+  - name: RUTLEDGE
+    distance_km: 9.5
+  - name: COVINGTON
+    distance_km: 14.62
+- country: US
+  region: GA
+  name: Soperton
+  lat: '32.3782'
+  long: "-82.5945"
+  nearby_rate_centers:
+  - name: SOPERTON
+    distance_km: 0.3
+  - name: ADRIAN
+    distance_km: 19.19
+  - name: CEDARGROVE
+    distance_km: 20.93
+- country: US
+  region: GA
+  name: South Fulton
+  lat: '33.6273'
+  long: "-84.5800"
+  nearby_rate_centers:
+  - name: AUSTELL
+    distance_km: 21.63
+  - name: ATLANTA
+    distance_km: 22.87
+  - name: ATLANTA SO
+    distance_km: 23.55
+- country: US
+  region: GA
+  name: Sparks
+  lat: '31.1693'
+  long: "-83.4405"
+  nearby_rate_centers:
+  - name: SPARKS
+    distance_km: 0.27
+  - name: ADEL
+    distance_km: 3.52
+  - name: LENOX
+    distance_km: 12.19
+- country: US
+  region: GA
+  name: Sparta
+  lat: '33.2766'
+  long: "-82.9704"
+  nearby_rate_centers:
+  - name: SPARTA
+    distance_km: 0.59
+  - name: WHITE PL
+    distance_km: 27.16
+  - name: MILLEDGEVL
+    distance_km: 31.91
+- country: US
+  region: GA
+  name: Springfield
+  lat: '32.3636'
+  long: "-81.3030"
+  nearby_rate_centers:
+  - name: SPRINGFLD
+    distance_km: 1.54
+  - name: GUYTON
+    distance_km: 8.99
+  - name: RINCON
+    distance_km: 10.76
+- country: US
+  region: GA
+  name: St. Marys
+  lat: '30.7567'
+  long: "-81.5722"
+  nearby_rate_centers:
+  - name: ST MARYS
+    distance_km: 4.0
+  - name: JEKYLL IS
+    distance_km: 42.5
+  - name: FOLKSTON
+    distance_km: 42.74
+- country: US
+  region: GA
+  name: St. Simons
+  lat: '31.1775'
+  long: "-81.3857"
+  nearby_rate_centers:
+  - name: STSIMONSIS
+    distance_km: 4.12
+  - name: JEKYLL IS
+    distance_km: 7.58
+  - name: BRUNSWICK
+    distance_km: 10.12
+- country: US
+  region: GA
+  name: Stapleton
+  lat: '33.2169'
+  long: "-82.4672"
+  nearby_rate_centers:
+  - name: WRENS
+    distance_km: 6.91
+  - name: GIBSON
+    distance_km: 11.8
+  - name: LOUISVILLE
+    distance_km: 24.65
+- country: US
+  region: GA
+  name: Statesboro
+  lat: '32.4375'
+  long: "-81.7751"
+  nearby_rate_centers:
+  - name: STATESBORO
+    distance_km: 1.08
+  - name: CLITO
+    distance_km: 8.84
+  - name: BROOKLET
+    distance_km: 11.72
+- country: US
+  region: GA
+  name: Statham
+  lat: '33.9647'
+  long: "-83.6018"
+  nearby_rate_centers:
+  - name: BOGARTSTHM
+    distance_km: 2.31
+  - name: WINDER
+    distance_km: 10.82
+  - name: JEFFERSON
+    distance_km: 18.23
+- country: US
+  region: GA
+  name: Sterling
+  lat: '31.2603'
+  long: "-81.5525"
+  nearby_rate_centers:
+  - name: BRUNSWICK
+    distance_km: 12.88
+  - name: DARIEN
+    distance_km: 17.06
+  - name: JEKYLL IS
+    distance_km: 20.5
+- country: US
+  region: GA
+  name: Stillmore
+  lat: '32.4410'
+  long: "-82.2145"
+  nearby_rate_centers:
+  - name: LEXSY
+    distance_km: 8.36
+  - name: OAK PARK
+    distance_km: 13.31
+  - name: METTER
+    distance_km: 14.62
+- country: US
+  region: GA
+  name: Stockbridge
+  lat: '33.5254'
+  long: "-84.2295"
+  nearby_rate_centers:
+  - name: STOCKBDG
+    distance_km: 1.71
+  - name: ATLANTA SO
+    distance_km: 14.85
+  - name: PANOLA
+    distance_km: 19.95
+- country: US
+  region: GA
+  name: Stockton
+  lat: '30.9428'
+  long: "-83.0029"
+  nearby_rate_centers:
+  - name: LAKELAND
+    distance_km: 13.04
+  - name: RAY CITY
+    distance_km: 23.96
+  - name: HOMERVILLE
+    distance_km: 26.12
+- country: US
+  region: GA
+  name: Stone Mountain
+  lat: '33.8035'
+  long: "-84.1723"
+  nearby_rate_centers:
+  - name: STONE MT
+    distance_km: 0.63
+  - name: TUCKER
+    distance_km: 7.0
+  - name: ATLANTA NE
+    distance_km: 9.69
+- country: US
+  region: GA
+  name: Stonecrest
+  lat: '33.6842'
+  long: "-84.1372"
+  nearby_rate_centers:
+  - name: PANOLA
+    distance_km: 3.88
+  - name: CONYERS
+    distance_km: 11.52
+  - name: STONE MT
+    distance_km: 13.79
+- country: US
+  region: GA
+  name: Sugar Hill
+  lat: '34.1080'
+  long: "-84.0558"
+  nearby_rate_centers:
+  - name: BUFORD
+    distance_km: 4.15
+  - name: CUMMING
+    distance_km: 13.49
+  - name: DULUTH
+    distance_km: 14.84
+- country: US
+  region: GA
+  name: Summertown
+  lat: '32.7458'
+  long: "-82.2763"
+  nearby_rate_centers:
+  - name: MIDVILLE
+    distance_km: 9.52
+  - name: WADLEY
+    distance_km: 16.91
+  - name: SWAINSBORO
+    distance_km: 16.96
+- country: US
+  region: GA
+  name: Summerville
+  lat: '34.4788'
+  long: "-85.3491"
+  nearby_rate_centers:
+  - name: SUMMERVL
+    distance_km: 0.58
+  - name: TRION
+    distance_km: 8.12
+  - name: LYERLY
+    distance_km: 9.32
+- country: US
+  region: GA
+  name: Sumner
+  lat: '31.5103'
+  long: "-83.7369"
+  nearby_rate_centers:
+  - name: SYLVESTER
+    distance_km: 10.87
+  - name: ASHBURN
+    distance_km: 22.65
+  - name: TIFTON
+    distance_km: 22.72
+- country: US
+  region: GA
+  name: Sunnyside
+  lat: '31.2406'
+  long: "-82.3411"
+  nearby_rate_centers:
+  - name: WAYCROSS
+    distance_km: 3.73
+  - name: BLACKSHEAR
+    distance_km: 11.93
+  - name: HOBOKEN
+    distance_km: 20.82
+- country: US
+  region: GA
+  name: Sunset Village
+  lat: '32.8946'
+  long: "-84.4057"
+  nearby_rate_centers:
+  - name: THOMASTON
+    distance_km: 7.37
+  - name: WOODBURY
+    distance_km: 18.51
+  - name: WOODLAND
+    distance_km: 18.95
+- country: US
+  region: GA
+  name: Surrency
+  lat: '31.7215'
+  long: "-82.1988"
+  nearby_rate_centers:
+  - name: BAXLEY
+    distance_km: 15.42
+  - name: ODUM
+    distance_km: 16.94
+  - name: SCREVEN
+    distance_km: 31.38
+- country: US
+  region: GA
+  name: Suwanee
+  lat: '34.0508'
+  long: "-84.0686"
+  nearby_rate_centers:
+  - name: DULUTH
+    distance_km: 9.37
+  - name: BUFORD
+    distance_km: 9.7
+  - name: LAWRENCEVL
+    distance_km: 12.34
+- country: US
+  region: GA
+  name: Swainsboro
+  lat: '32.5866'
+  long: "-82.3345"
+  nearby_rate_centers:
+  - name: SWAINSBORO
+    distance_km: 1.57
+  - name: LEXSY
+    distance_km: 13.79
+  - name: TWIN CITY
+    distance_km: 16.6
+- country: US
+  region: GA
+  name: Sycamore
+  lat: '31.6711'
+  long: "-83.6352"
+  nearby_rate_centers:
+  - name: ASHBURN
+    distance_km: 3.58
+  - name: REBECCA
+    distance_km: 20.32
+  - name: IRWINVILLE
+    distance_km: 24.05
+- country: US
+  region: GA
+  name: Sylvania
+  lat: '32.7466'
+  long: "-81.6409"
+  nearby_rate_centers:
+  - name: SYLVANIA
+    distance_km: 0.84
+  - name: DOVER
+    distance_km: 3.54
+  - name: HILLTONIA
+    distance_km: 15.28
+- country: US
+  region: GA
+  name: Sylvester
+  lat: '31.5300'
+  long: "-83.8338"
+  nearby_rate_centers:
+  - name: SYLVESTER
+    distance_km: 1.42
+  - name: DOERUN
+    distance_km: 24.9
+  - name: ASHBURN
+    distance_km: 25.67
+- country: US
+  region: GA
+  name: Talahi Island
+  lat: '32.0331'
+  long: "-80.9760"
+  nearby_rate_centers:
+  - name: SAVANNAH
+    distance_km: 11.66
+  - name: TYBEE IS
+    distance_km: 12.87
+  - name: POOLER
+    distance_km: 26.82
+- country: US
+  region: GA
+  name: Talbotton
+  lat: '32.6773'
+  long: "-84.5406"
+  nearby_rate_centers:
+  - name: TALBOTTON
+    distance_km: 0.45
+  - name: GENEVA
+    distance_km: 10.54
+  - name: WOODLAND
+    distance_km: 11.67
+- country: US
+  region: GA
+  name: Talking Rock
+  lat: '34.5239'
+  long: "-84.4895"
+  nearby_rate_centers:
+  - name: JASPER
+    distance_km: 8.0
+  - name: MARBLEHILL
+    distance_km: 17.26
+  - name: NELSON
+    distance_km: 18.73
+- country: US
+  region: GA
+  name: Tallapoosa
+  lat: '33.7335'
+  long: "-85.2859"
+  nearby_rate_centers:
+  - name: TALLAPOOSA
+    distance_km: 0.81
+  - name: BUCHANAN
+    distance_km: 11.26
+  - name: BREMEN
+    distance_km: 12.73
+- country: US
+  region: GA
+  name: Tallulah Falls
+  lat: '34.7263'
+  long: "-83.3826"
+  nearby_rate_centers:
+  - name: TOCCOA
+    distance_km: 16.78
+  - name: CLAYTON
+    distance_km: 16.83
+  - name: CLARKESVL
+    distance_km: 17.65
+- country: US
+  region: GA
+  name: Talmo
+  lat: '34.1831'
+  long: "-83.7210"
+  nearby_rate_centers:
+  - name: PENDERGRSS
+    distance_km: 4.5
+  - name: BRASELTON
+    distance_km: 8.4
+  - name: JEFFERSON
+    distance_km: 14.7
+- country: US
+  region: GA
+  name: Tarrytown
+  lat: '32.3187'
+  long: "-82.5595"
+  nearby_rate_centers:
+  - name: SOPERTON
+    distance_km: 7.12
+  - name: MT VERNON
+    distance_km: 16.02
+  - name: VIDALIA
+    distance_km: 18.15
+- country: US
+  region: GA
+  name: Tate City
+  lat: '34.9789'
+  long: "-83.5540"
+  nearby_rate_centers:
+  - name: DILLRDMTCY
+    distance_km: 16.43
+  - name: HIAWASSEE
+    distance_km: 18.04
+  - name: CLAYTON
+    distance_km: 18.11
+- country: US
+  region: GA
+  name: Taylorsville
+  lat: '34.0860'
+  long: "-84.9875"
+  nearby_rate_centers:
+  - name: ROCKMART
+    distance_km: 10.99
+  - name: KINGSTON
+    distance_km: 16.72
+  - name: CARTERSVL
+    distance_km: 19.38
+- country: US
+  region: GA
+  name: Tazewell
+  lat: '32.3796'
+  long: "-84.4401"
+  nearby_rate_centers:
+  - name: BUENAVISTA
+    distance_km: 9.86
+  - name: ELLAVILLE
+    distance_km: 19.52
+  - name: IDEAL
+    distance_km: 23.33
+- country: US
+  region: GA
+  name: Temple
+  lat: '33.7342'
+  long: "-85.0289"
+  nearby_rate_centers:
+  - name: TEMPLE
+    distance_km: 0.1
+  - name: VILLA RICA
+    distance_km: 9.69
+  - name: BREMEN
+    distance_km: 11.1
+- country: US
+  region: GA
+  name: Tennille
+  lat: '32.9359'
+  long: "-82.8134"
+  nearby_rate_centers:
+  - name: SANDERSVL
+    distance_km: 5.44
+  - name: DAVISBORO
+    distance_km: 19.62
+  - name: WRIGHTSVL
+    distance_km: 25.04
+- country: US
+  region: GA
+  name: The Rock
+  lat: '32.9635'
+  long: "-84.2378"
+  nearby_rate_centers:
+  - name: YATESVILLE
+    distance_km: 10.88
+  - name: THOMASTON
+    distance_km: 11.43
+  - name: BARNESVL
+    distance_km: 13.22
+- country: US
+  region: GA
+  name: Thomaston
+  lat: '32.8907'
+  long: "-84.3272"
+  nearby_rate_centers:
+  - name: THOMASTON
+    distance_km: 0.25
+  - name: YATESVILLE
+    distance_km: 18.16
+  - name: CULLODEN
+    distance_km: 21.91
+- country: US
+  region: GA
+  name: Thomasville
+  lat: '30.8394'
+  long: "-83.9782"
+  nearby_rate_centers:
+  - name: THOMASVL
+    distance_km: 0.42
+  - name: OCHLOCKNEE
+    distance_km: 16.48
+  - name: BOSTON
+    distance_km: 18.37
+- country: US
+  region: GA
+  name: Thomson
+  lat: '33.4679'
+  long: "-82.4968"
+  nearby_rate_centers:
+  - name: THOMSON
+    distance_km: 0.43
+  - name: WARRENTON
+    distance_km: 16.34
+  - name: HARLEM
+    distance_km: 17.61
+- country: US
+  region: GA
+  name: Thunderbolt
+  lat: '32.0339'
+  long: "-81.0479"
+  nearby_rate_centers:
+  - name: SAVANNAH
+    distance_km: 6.03
+  - name: TYBEE IS
+    distance_km: 19.6
+  - name: POOLER
+    distance_km: 20.57
+- country: US
+  region: GA
+  name: Tifton
+  lat: '31.4624'
+  long: "-83.5203"
+  nearby_rate_centers:
+  - name: TIFTON
+    distance_km: 1.84
+  - name: OMEGA
+    distance_km: 14.96
+  - name: ENIGMA
+    distance_km: 18.91
+- country: US
+  region: GA
+  name: Tiger
+  lat: '34.8458'
+  long: "-83.4330"
+  nearby_rate_centers:
+  - name: CLAYTON
+    distance_km: 4.66
+  - name: DILLRDMTCY
+    distance_km: 8.68
+  - name: BATESVILLE
+    distance_km: 16.91
+- country: US
+  region: GA
+  name: Tignall
+  lat: '33.8674'
+  long: "-82.7420"
+  nearby_rate_centers:
+  - name: TIGNALL
+    distance_km: 0.14
+  - name: WASHINGTON
+    distance_km: 14.89
+  - name: RAYLE
+    distance_km: 16.02
+- country: US
+  region: GA
+  name: Toccoa
+  lat: '34.5810'
+  long: "-83.3263"
+  nearby_rate_centers:
+  - name: TOCCOA
+    distance_km: 0.55
+  - name: EASTANOLLE
+    distance_km: 9.91
+  - name: CLARKESVL
+    distance_km: 18.48
+- country: US
+  region: GA
+  name: Toomsboro
+  lat: '32.8225'
+  long: "-83.0826"
+  nearby_rate_centers:
+  - name: TOOMSBORO
+    distance_km: 0.83
+  - name: IRWINTON
+    distance_km: 8.93
+  - name: GORDON
+    distance_km: 24.79
+- country: US
+  region: GA
+  name: Trenton
+  lat: '34.8741'
+  long: "-85.5096"
+  nearby_rate_centers:
+  - name: TRENTON
+    distance_km: 0.63
+  - name: WEST BROW
+    distance_km: 11.23
+  - name: RISINGFAWN
+    distance_km: 13.11
+- country: US
+  region: GA
+  name: Trion
+  lat: '34.5480'
+  long: "-85.3114"
+  nearby_rate_centers:
+  - name: TRION
+    distance_km: 0.65
+  - name: SUMMERVL
+    distance_km: 8.99
+  - name: MENLO
+    distance_km: 16.58
+- country: US
+  region: GA
+  name: Tucker
+  lat: '33.8436'
+  long: "-84.2024"
+  nearby_rate_centers:
+  - name: TUCKER
+    distance_km: 1.75
+  - name: STONE MT
+    distance_km: 5.37
+  - name: ATLANTA NE
+    distance_km: 6.22
+- country: US
+  region: GA
+  name: Tunnel Hill
+  lat: '34.8496'
+  long: "-85.0393"
+  nearby_rate_centers:
+  - name: TUNNELHILL
+    distance_km: 0.81
+  - name: RINGGOLD
+    distance_km: 9.65
+  - name: DALTON
+    distance_km: 10.59
+- country: US
+  region: GA
+  name: Turin
+  lat: '33.3234'
+  long: "-84.6374"
+  nearby_rate_centers:
+  - name: SENOIA
+    distance_km: 8.48
+  - name: LUTHERSVL
+    distance_km: 16.18
+  - name: NEWNAN
+    distance_km: 16.33
+- country: US
+  region: GA
+  name: Twin City
+  lat: '32.5829'
+  long: "-82.1575"
+  nearby_rate_centers:
+  - name: TWIN CITY
+    distance_km: 1.81
+  - name: SWAINSBORO
+    distance_km: 16.4
+  - name: LEXSY
+    distance_km: 18.51
+- country: US
+  region: GA
+  name: Ty Ty
+  lat: '31.4720'
+  long: "-83.6509"
+  nearby_rate_centers:
+  - name: TIFTON
+    distance_km: 13.76
+  - name: OMEGA
+    distance_km: 15.47
+  - name: SYLVESTER
+    distance_km: 19.91
+- country: US
+  region: GA
+  name: Tybee Island
+  lat: '32.0095'
+  long: "-80.8531"
+  nearby_rate_centers:
+  - name: TYBEE IS
+    distance_km: 1.28
+  - name: SAVANNAH
+    distance_km: 23.44
+  - name: POOLER
+    distance_km: 38.63
+- country: US
+  region: GA
+  name: Tyrone
+  lat: '33.4752'
+  long: "-84.5941"
+  nearby_rate_centers:
+  - name: ATLANTA SO
+    distance_km: 19.52
+  - name: SENOIA
+    distance_km: 19.78
+  - name: NEWNAN
+    distance_km: 22.02
+- country: US
+  region: GA
+  name: Unadilla
+  lat: '32.2583'
+  long: "-83.7356"
+  nearby_rate_centers:
+  - name: UNADILLA
+    distance_km: 0.42
+  - name: PINEHURST
+    distance_km: 7.56
+  - name: BYROMVILLE
+    distance_km: 16.94
+- country: US
+  region: GA
+  name: Union City
+  lat: '33.5942'
+  long: "-84.5629"
+  nearby_rate_centers:
+  - name: ATLANTA SO
+    distance_km: 20.06
+  - name: ATLANTA
+    distance_km: 24.11
+  - name: AUSTELL
+    distance_km: 25.59
+- country: US
+  region: GA
+  name: Union Point
+  lat: '33.6178'
+  long: "-83.0751"
+  nearby_rate_centers:
+  - name: UNIONPOINT
+    distance_km: 0.1
+  - name: GREENSBORO
+    distance_km: 11.08
+  - name: WHITE PL
+    distance_km: 12.08
+- country: US
+  region: GA
+  name: Unionville
+  lat: '31.4363'
+  long: "-83.5084"
+  nearby_rate_centers:
+  - name: TIFTON
+    distance_km: 1.47
+  - name: OMEGA
+    distance_km: 13.09
+  - name: ENIGMA
+    distance_km: 17.1
+- country: US
+  region: GA
+  name: Uvalda
+  lat: '32.0371'
+  long: "-82.5081"
+  nearby_rate_centers:
+  - name: UVALDA
+    distance_km: 0.36
+  - name: MT VERNON
+    distance_km: 17.52
+  - name: JOHNSONCOR
+    distance_km: 19.64
+- country: US
+  region: GA
+  name: Valdosta
+  lat: '30.8502'
+  long: "-83.2788"
+  nearby_rate_centers:
+  - name: VALDOSTA
+    distance_km: 1.96
+  - name: HAHIRA
+    distance_km: 18.09
+  - name: LAKE PARK
+    distance_km: 20.35
+- country: US
+  region: GA
+  name: Varnell
+  lat: '34.9015'
+  long: "-84.9645"
+  nearby_rate_centers:
+  - name: COHUTTA
+    distance_km: 6.49
+  - name: TUNNELHILL
+    distance_km: 9.65
+  - name: RINGGOLD
+    distance_km: 13.2
+- country: US
+  region: GA
+  name: Vernonburg
+  lat: '31.9637'
+  long: "-81.1259"
+  nearby_rate_centers:
+  - name: SAVANNAH
+    distance_km: 12.86
+  - name: RICHMONDHL
+    distance_km: 14.58
+  - name: KELLER
+    distance_km: 17.94
+- country: US
+  region: GA
+  name: Vidalia
+  lat: '32.2125'
+  long: "-82.4019"
+  nearby_rate_centers:
+  - name: VIDALIA
+    distance_km: 0.8
+  - name: LYONS
+    distance_km: 7.37
+  - name: OAK PARK
+    distance_km: 18.07
+- country: US
+  region: GA
+  name: Vidette
+  lat: '33.0376'
+  long: "-82.2474"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 15.31
+  - name: WAYNESBORO
+    distance_km: 22.4
+  - name: WRENS
+    distance_km: 23.41
+- country: US
+  region: GA
+  name: Vienna
+  lat: '32.0926'
+  long: "-83.7868"
+  nearby_rate_centers:
+  - name: VIENNA
+    distance_km: 0.56
+  - name: PINEHURST
+    distance_km: 11.48
+  - name: CORDELE
+    distance_km: 14.14
+- country: US
+  region: GA
+  name: Villa Rica
+  lat: '33.7294'
+  long: "-84.9177"
+  nearby_rate_centers:
+  - name: VILLA RICA
+    distance_km: 0.65
+  - name: TEMPLE
+    distance_km: 10.39
+  - name: BREMEN
+    distance_km: 21.35
+- country: US
+  region: GA
+  name: Vinings
+  lat: '33.8608'
+  long: "-84.4686"
+  nearby_rate_centers:
+  - name: SMYRNA
+    distance_km: 4.31
+  - name: MARIETTA
+    distance_km: 12.06
+  - name: ATLANTA
+    distance_km: 14.74
+- country: US
+  region: GA
+  name: Waco
+  lat: '33.7026'
+  long: "-85.1893"
+  nearby_rate_centers:
+  - name: BREMEN
+    distance_km: 4.59
+  - name: TALLAPOOSA
+    distance_km: 10.23
+  - name: BUCHANAN
+    distance_km: 10.84
+- country: US
+  region: GA
+  name: Wadley
+  lat: '32.8663'
+  long: "-82.4014"
+  nearby_rate_centers:
+  - name: WADLEY
+    distance_km: 0.93
+  - name: BARTOW
+    distance_km: 6.92
+  - name: LOUISVILLE
+    distance_km: 15.01
+- country: US
+  region: GA
+  name: Waleska
+  lat: '34.3172'
+  long: "-84.5499"
+  nearby_rate_centers:
+  - name: CANTON
+    distance_km: 9.9
+  - name: NELSON
+    distance_km: 17.46
+  - name: FAIRMOUNT
+    distance_km: 19.31
+- country: US
+  region: GA
+  name: Walnut Grove
+  lat: '33.7452'
+  long: "-83.8512"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 14.37
+  - name: SOCIALCRCL
+    distance_km: 15.9
+  - name: COVINGTON
+    distance_km: 16.27
+- country: US
+  region: GA
+  name: Walthourville
+  lat: '31.7716'
+  long: "-81.6216"
+  nearby_rate_centers:
+  - name: HINESVILLE
+    distance_km: 8.94
+  - name: LUDOWICI
+    distance_km: 13.66
+  - name: MIDWAY
+    distance_km: 19.23
+- country: US
+  region: GA
+  name: Waresboro
+  lat: '31.2451'
+  long: "-82.4721"
+  nearby_rate_centers:
+  - name: WAYCROSS
+    distance_km: 11.7
+  - name: BLACKSHEAR
+    distance_km: 22.96
+  - name: HOBOKEN
+    distance_km: 32.98
+- country: US
+  region: GA
+  name: Warm Springs
+  lat: '32.8870'
+  long: "-84.6781"
+  nearby_rate_centers:
+  - name: WARM SPG
+    distance_km: 0.53
+  - name: MANCHESTER
+    distance_km: 6.4
+  - name: WOODBURY
+    distance_km: 14.62
+- country: US
+  region: GA
+  name: Warner Robins
+  lat: '32.5961'
+  long: "-83.6527"
+  nearby_rate_centers:
+  - name: CENTERVL
+    distance_km: 4.95
+  - name: WARNERRBNS
+    distance_km: 6.06
+  - name: BYRON
+    distance_km: 11.44
+- country: US
+  region: GA
+  name: Warrenton
+  lat: '33.4067'
+  long: "-82.6653"
+  nearby_rate_centers:
+  - name: WARRENTON
+    distance_km: 0.74
+  - name: THOMSON
+    distance_km: 16.66
+  - name: GIBSON
+    distance_km: 20.4
+- country: US
+  region: GA
+  name: Warthen
+  lat: '33.0997'
+  long: "-82.8033"
+  nearby_rate_centers:
+  - name: SANDERSVL
+    distance_km: 12.8
+  - name: DAVISBORO
+    distance_km: 22.89
+  - name: GIBSON
+    distance_km: 24.63
+- country: US
+  region: GA
+  name: Warwick
+  lat: '31.8298'
+  long: "-83.9206"
+  nearby_rate_centers:
+  - name: WARWICK
+    distance_km: 0.77
+  - name: LKBLACKSHE
+    distance_km: 13.57
+  - name: CORDELE
+    distance_km: 19.43
+- country: US
+  region: GA
+  name: Washington
+  lat: '33.7355'
+  long: "-82.7426"
+  nearby_rate_centers:
+  - name: WASHINGTON
+    distance_km: 0.4
+  - name: METASVILLE
+    distance_km: 13.56
+  - name: TIGNALL
+    distance_km: 14.7
+- country: US
+  region: GA
+  name: Watkinsville
+  lat: '33.8610'
+  long: "-83.4072"
+  nearby_rate_centers:
+  - name: WATKINSVL
+    distance_km: 0.38
+  - name: ATHENS
+    distance_km: 11.05
+  - name: WINTERVL
+    distance_km: 16.84
+- country: US
+  region: GA
+  name: Waverly
+  lat: '31.1012'
+  long: "-81.7279"
+  nearby_rate_centers:
+  - name: WAYNESVL
+    distance_km: 16.29
+  - name: BRUNSWICK
+    distance_km: 23.54
+  - name: NAHUNTA
+    distance_km: 26.15
+- country: US
+  region: GA
+  name: Waverly Hall
+  lat: '32.6837'
+  long: "-84.7378"
+  nearby_rate_centers:
+  - name: WAVELYHALL
+    distance_km: 0.95
+  - name: HAMILTON
+    distance_km: 15.53
+  - name: TALBOTTON
+    distance_km: 18.43
+- country: US
+  region: GA
+  name: Waycross
+  lat: '31.2108'
+  long: "-82.3579"
+  nearby_rate_centers:
+  - name: WAYCROSS
+    distance_km: 0.2
+  - name: BLACKSHEAR
+    distance_km: 15.3
+  - name: HOBOKEN
+    distance_km: 21.6
+- country: US
+  region: GA
+  name: Waynesboro
+  lat: '33.0909'
+  long: "-82.0145"
+  nearby_rate_centers:
+  - name: WAYNESBORO
+    distance_km: 0.36
+  - name: HEPHZIBAH
+    distance_km: 26.45
+  - name: SARDIS
+    distance_km: 27.26
+- country: US
+  region: GA
+  name: Waynesville
+  lat: '31.2263'
+  long: "-81.7880"
+  nearby_rate_centers:
+  - name: WAYNESVL
+    distance_km: 1.84
+  - name: NAHUNTA
+    distance_km: 18.13
+  - name: HORTENSE
+    distance_km: 20.3
+- country: US
+  region: GA
+  name: Wenona
+  lat: '31.9061'
+  long: "-83.7552"
+  nearby_rate_centers:
+  - name: CORDELE
+    distance_km: 7.41
+  - name: LKBLACKSHE
+    distance_km: 18.46
+  - name: WARWICK
+    distance_km: 18.53
+- country: US
+  region: GA
+  name: West Brow
+  lat: '34.9148'
+  long: "-85.4186"
+  nearby_rate_centers:
+  - name: WEST BROW
+    distance_km: 2.18
+  - name: TRENTON
+    distance_km: 9.82
+  - name: HIGH POINT
+    distance_km: 10.69
+- country: US
+  region: GA
+  name: West Point
+  lat: '32.8937'
+  long: "-85.1453"
+  nearby_rate_centers:
+  - name: WEST POINT
+    distance_km: 3.56
+  - name: LAGRANGE
+    distance_km: 19.25
+  - name: PINE MT
+    distance_km: 27.76
+- country: US
+  region: GA
+  name: Whigham
+  lat: '30.8845'
+  long: "-84.3247"
+  nearby_rate_centers:
+  - name: WHIGHAM
+    distance_km: 0.2
+  - name: CAIRO
+    distance_km: 12.06
+  - name: CALVAYRENO
+    distance_km: 13.53
+- country: US
+  region: GA
+  name: White
+  lat: '34.2823'
+  long: "-84.7481"
+  nearby_rate_centers:
+  - name: CARTERSVL
+    distance_km: 13.95
+  - name: FAIRMOUNT
+    distance_km: 17.15
+  - name: KINGSTON
+    distance_km: 18.86
+- country: US
+  region: GA
+  name: White Plains
+  lat: '33.4804'
+  long: "-83.0377"
+  nearby_rate_centers:
+  - name: WHITE PL
+    distance_km: 3.69
+  - name: UNIONPOINT
+    distance_km: 15.6
+  - name: CRAWFORDVL
+    distance_km: 15.99
+- country: US
+  region: GA
+  name: Whitemarsh Island
+  lat: '32.0304'
+  long: "-81.0109"
+  nearby_rate_centers:
+  - name: SAVANNAH
+    distance_km: 8.92
+  - name: TYBEE IS
+    distance_km: 16.09
+  - name: POOLER
+    distance_km: 23.89
+- country: US
+  region: GA
+  name: Whitesburg
+  lat: '33.4928'
+  long: "-84.9137"
+  nearby_rate_centers:
+  - name: NEWNAN
+    distance_km: 16.53
+  - name: CARROLLTON
+    distance_km: 17.85
+  - name: ROOPVILLE
+    distance_km: 21.07
+- country: US
+  region: GA
+  name: Wildwood
+  lat: '34.9706'
+  long: "-85.4078"
+  nearby_rate_centers:
+  - name: WEST BROW
+    distance_km: 4.18
+  - name: ROSSVILLE
+    distance_km: 11.21
+  - name: TRENTON
+    distance_km: 14.7
+- country: US
+  region: GA
+  name: Willacoochee
+  lat: '31.3358'
+  long: "-83.0446"
+  nearby_rate_centers:
+  - name: WILLACOCHE
+    distance_km: 0.75
+  - name: ALAPAHA
+    distance_km: 17.29
+  - name: PEARSON
+    distance_km: 19.16
+- country: US
+  region: GA
+  name: Williamson
+  lat: '33.1777'
+  long: "-84.3581"
+  nearby_rate_centers:
+  - name: ZEBULON
+    distance_km: 8.84
+  - name: CONCORD
+    distance_km: 12.38
+  - name: GRIFFIN
+    distance_km: 12.45
+- country: US
+  region: GA
+  name: Wilmington Island
+  lat: '32.0033'
+  long: "-80.9752"
+  nearby_rate_centers:
+  - name: TYBEE IS
+    distance_km: 12.71
+  - name: SAVANNAH
+    distance_km: 13.41
+  - name: POOLER
+    distance_km: 28.23
+- country: US
+  region: GA
+  name: Winder
+  lat: '33.9917'
+  long: "-83.7218"
+  nearby_rate_centers:
+  - name: WINDER
+    distance_km: 0.68
+  - name: BOGARTSTHM
+    distance_km: 13.53
+  - name: BRASELTON
+    distance_km: 13.99
+- country: US
+  region: GA
+  name: Winterville
+  lat: '33.9666'
+  long: "-83.2815"
+  nearby_rate_centers:
+  - name: WINTERVL
+    distance_km: 0.73
+  - name: ATHENS
+    distance_km: 9.2
+  - name: COLBERT
+    distance_km: 9.4
+- country: US
+  region: GA
+  name: Woodbine
+  lat: '30.9598'
+  long: "-81.7176"
+  nearby_rate_centers:
+  - name: ST MARYS
+    distance_km: 30.5
+  - name: BRUNSWICK
+    distance_km: 30.93
+  - name: FOLKSTON
+    distance_km: 31.21
+- country: US
+  region: GA
+  name: Woodbury
+  lat: '32.9849'
+  long: "-84.5819"
+  nearby_rate_centers:
+  - name: WOODBURY
+    distance_km: 0.85
+  - name: GAY
+    distance_km: 11.89
+  - name: GREENVILLE
+    distance_km: 12.66
+- country: US
+  region: GA
+  name: Woodland
+  lat: '32.7877'
+  long: "-84.5606"
+  nearby_rate_centers:
+  - name: WOODLAND
+    distance_km: 0.77
+  - name: MANCHESTER
+    distance_km: 9.55
+  - name: TALBOTTON
+    distance_km: 12.85
+- country: US
+  region: GA
+  name: Woodstock
+  lat: '34.1026'
+  long: "-84.5091"
+  nearby_rate_centers:
+  - name: WOODSTOCK
+    distance_km: 0.89
+  - name: CANTON
+    distance_km: 15.55
+  - name: ROSWELL
+    distance_km: 16.81
+- country: US
+  region: GA
+  name: Woodville
+  lat: '33.6713'
+  long: "-83.1068"
+  nearby_rate_centers:
+  - name: UNIONPOINT
+    distance_km: 6.68
+  - name: GREENSBORO
+    distance_km: 12.93
+  - name: MAXEYS
+    distance_km: 13.35
+- country: US
+  region: GA
+  name: Woolsey
+  lat: '33.3626'
+  long: "-84.4113"
+  nearby_rate_centers:
+  - name: SENOIA
+    distance_km: 14.59
+  - name: ATLANTA SO
+    distance_km: 14.6
+  - name: GRIFFIN
+    distance_km: 18.99
+- country: US
+  region: GA
+  name: Wrens
+  lat: '33.2070'
+  long: "-82.3878"
+  nearby_rate_centers:
+  - name: WRENS
+    distance_km: 0.58
+  - name: GIBSON
+    distance_km: 19.27
+  - name: LOUISVILLE
+    distance_km: 22.94
+- country: US
+  region: GA
+  name: Wrightsville
+  lat: '32.7270'
+  long: "-82.7191"
+  nearby_rate_centers:
+  - name: WRIGHTSVL
+    distance_km: 0.2
+  - name: KITE
+    distance_km: 19.79
+  - name: ADRIAN
+    distance_km: 22.88
+- country: US
+  region: GA
+  name: Yatesville
+  lat: '32.9133'
+  long: "-84.1423"
+  nearby_rate_centers:
+  - name: YATESVILLE
+    distance_km: 0.78
+  - name: CULLODEN
+    distance_km: 6.94
+  - name: BARNESVL
+    distance_km: 15.87
+- country: US
+  region: GA
+  name: Yonah
+  lat: '34.6437'
+  long: "-83.7411"
+  nearby_rate_centers:
+  - name: CLEVELAND
+    distance_km: 5.23
+  - name: HELEN
+    distance_km: 6.61
+  - name: CLERMONT
+    distance_km: 18.68
+- country: US
+  region: GA
+  name: Young Harris
+  lat: '34.9348'
+  long: "-83.8472"
+  nearby_rate_centers:
+  - name: YOUNGHRRIS
+    distance_km: 0.27
+  - name: HIAWASSEE
+    distance_km: 9.12
+  - name: BLAIRSVL
+    distance_km: 12.34
+- country: US
+  region: GA
+  name: Zebulon
+  lat: '33.0930'
+  long: "-84.3427"
+  nearby_rate_centers:
+  - name: ZEBULON
+    distance_km: 0.83
+  - name: CONCORD
+    distance_km: 9.06
+  - name: BARNESVL
+    distance_km: 18.54

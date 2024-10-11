@@ -1,0 +1,1175 @@
+---
+rate_centers:
+- country: US
+  region: RI
+  exchange: '302472'
+  name: ADAMSVILLE
+  full_name: Adamsville
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302473'
+  name: ALBION
+  full_name: Albion
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302474'
+  name: ALTON
+  full_name: Alton
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302475'
+  name: ANTHONY
+  full_name: Anthony
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302476'
+  name: APPONAUG
+  full_name: Apponaug
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302477'
+  name: ARTIC
+  full_name: Artic
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '176101'
+  name: ASHAWAY
+  full_name: Ashaway
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '176011'
+  name: ASHTON
+  full_name: Ashton
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302480'
+  name: BARRINGTON
+  full_name: Barrington
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '175870'
+  name: BLOCK IS
+  full_name: Block Island
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.173346'
+  long: "-71.56758"
+  closest_city:
+    name: Quonochontaug
+    distance_km: 22.29
+- country: US
+  region: RI
+  exchange: '302482'
+  name: BONNETSHRS
+  full_name: Bonnet Shores
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302483'
+  name: BRADFORD
+  full_name: Bradford
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '175880'
+  name: BRISTOL
+  full_name: Bristol
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.667985'
+  long: "-71.274208"
+  closest_city:
+    name: Melville
+    distance_km: 12.0
+- country: US
+  region: RI
+  exchange: '302484'
+  name: BRISTOFRRY
+  full_name: Bristol Ferry
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302486'
+  name: BURRILLVL
+  full_name: Burrillville
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302487'
+  name: BUTTONWODS
+  full_name: Buttonwoods
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '175890'
+  name: CAROLINA
+  full_name: Carolina
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.45592'
+  long: "-71.661683"
+  closest_city:
+    name: Carolina
+    distance_km: 0.78
+- country: US
+  region: RI
+  exchange: '302489'
+  name: CENTRALFLS
+  full_name: Central Falls
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '175900'
+  name: CENTREDALE
+  full_name: Centredale
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.857476'
+  long: "-71.484996"
+  closest_city:
+    name: Greenville
+    distance_km: 6.4
+- country: US
+  region: RI
+  exchange: '302491'
+  name: CHARLESTN
+  full_name: Charlestown
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302492'
+  name: CHEPACHET
+  full_name: Chepachet
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302493'
+  name: CLAYVILLE
+  full_name: Clayville
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302494'
+  name: CONIMICUT
+  full_name: Conimicut
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '175910'
+  name: COVENTRY
+  full_name: Coventry
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.709529'
+  long: "-71.638267"
+  closest_city:
+    name: Greene
+    distance_km: 8.03
+- country: US
+  region: RI
+  exchange: '176031'
+  name: CRANSTON
+  full_name: Cranston
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302497'
+  name: CUMBERLAND
+  full_name: Cumberland
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '175920'
+  name: CUMBLND HL
+  full_name: Cumberland Hill
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.975696'
+  long: "-71.458272"
+  closest_city:
+    name: Cumberland Hill
+    distance_km: 0.3
+- country: US
+  region: RI
+  exchange: '302499'
+  name: DAVISVILLE
+  full_name: Davisville
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302500'
+  name: DIAMOND HL
+  full_name: Diamond Hill
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302503'
+  name: EGREENWICH
+  full_name: East Greenwich
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302501'
+  name: E MATUNUCK
+  full_name: East Matunuck
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '176033'
+  name: EPROVIDNCE
+  full_name: East Providence
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302502'
+  name: EDGEWOOD
+  full_name: Edgewood
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302504'
+  name: ELMWOOD
+  full_name: Elmwood
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302506'
+  name: ESCOHEAG
+  full_name: Escoheag
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302507'
+  name: ESMOND
+  full_name: Esmond
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302508'
+  name: EXETER
+  full_name: Exeter
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302509'
+  name: FISKEVILLE
+  full_name: Fiskeville
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302510'
+  name: FORESTDALE
+  full_name: Forestdale
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302511'
+  name: FOSTER
+  full_name: Foster
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302512'
+  name: GLENDALE
+  full_name: Glendale
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302513'
+  name: GLOCESTER
+  full_name: Glocester
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302514'
+  name: GREENE
+  full_name: Greene
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302515'
+  name: GREENVILLE
+  full_name: Greenville
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '175930'
+  name: GREENWICH
+  full_name: Greenwich
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.6634'
+  long: "-71.452481"
+  closest_city:
+    name: Warwick
+    distance_km: 5.02
+- country: US
+  region: RI
+  exchange: '302517'
+  name: HAMILTON
+  full_name: Hamilton
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302518'
+  name: HARMONY
+  full_name: Harmony
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302519'
+  name: HARRISVL
+  full_name: Harrisville
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302520'
+  name: HILLSGROVE
+  full_name: Hillsgrove
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302521'
+  name: HOPE
+  full_name: Hope
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '175940'
+  name: HOPEVALLEY
+  full_name: Hope Valley
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.509705'
+  long: "-71.713248"
+  closest_city:
+    name: Hope Valley
+    distance_km: 0.83
+- country: US
+  region: RI
+  exchange: '302523'
+  name: HOPKINTON
+  full_name: Hopkinton
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302524'
+  name: HOXSIE
+  full_name: Hoxsie
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '175950'
+  name: JAMESTOWN
+  full_name: Jamestown
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.496153'
+  long: "-71.367267"
+  closest_city:
+    name: Newport
+    distance_km: 4.3
+- country: US
+  region: RI
+  exchange: '302526'
+  name: JOHNSTON
+  full_name: Johnston
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302527'
+  name: KENYON
+  full_name: Kenyon
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302528'
+  name: KINGSTON
+  full_name: Kingston
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302529'
+  name: LINCOLN
+  full_name: Lincoln
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '175960'
+  name: LTLCOMPTON
+  full_name: Little Compton
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.504174'
+  long: "-71.185601"
+  closest_city:
+    name: Newport East
+    distance_km: 8.61
+- country: US
+  region: RI
+  exchange: '302530'
+  name: LONSDALE
+  full_name: Lonsdale
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302532'
+  name: LYMANSVL
+  full_name: Lymansville
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302533'
+  name: MANVILLE
+  full_name: Manville
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302534'
+  name: MAPLEVILLE
+  full_name: Mapleville
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302535'
+  name: MATUNUCK
+  full_name: Matunuck
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302536'
+  name: MELVILLE
+  full_name: Melville
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302537'
+  name: MIDDLETOWN
+  full_name: Middletown
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302538'
+  name: MISQUMICUT
+  full_name: Misquamicut
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302539'
+  name: MOHEGAN
+  full_name: Mohegan
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '175970'
+  name: NARRAGNSTT
+  full_name: Narragansett
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.441066'
+  long: "-71.489805"
+  closest_city:
+    name: Narragansett Pier
+    distance_km: 2.4
+- country: US
+  region: RI
+  exchange: '302541'
+  name: NASONVILLE
+  full_name: Nasonville
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302542'
+  name: NATICK
+  full_name: Natick
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302544'
+  name: NEWSHOREHM
+  full_name: New Shoreham
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '175980'
+  name: NEWPORT
+  full_name: Newport
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.491079'
+  long: "-71.309954"
+  closest_city:
+    name: Newport
+    distance_km: 1.49
+- country: US
+  region: RI
+  exchange: '175990'
+  name: NO KINGSTN
+  full_name: North Kingstown
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.569922'
+  long: "-71.451993"
+  closest_city:
+    name: Kingston
+    distance_km: 12.24
+- country: US
+  region: RI
+  exchange: '176032'
+  name: NOPRVDENCE
+  full_name: North Providence
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302546'
+  name: NOPROVIDNC
+  full_name: North Providence
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302547'
+  name: NOSCITUATE
+  full_name: North Scituate
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302548'
+  name: NOSMITHFLD
+  full_name: North Smithfield
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302549'
+  name: NOTIVERTON
+  full_name: North Tiverton
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302550'
+  name: OAKLAND
+  full_name: Oakland
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302551'
+  name: OAKLAWN
+  full_name: Oaklawn
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302552'
+  name: OLNEYVILLE
+  full_name: Olneyville
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '176000'
+  name: PASCOAG
+  full_name: Pascoag
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.956013'
+  long: "-71.700994"
+  closest_city:
+    name: Pascoag
+    distance_km: 0.52
+- country: US
+  region: RI
+  exchange: '176010'
+  name: PAWTUCKET
+  full_name: Pawtucket
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.878541'
+  long: "-71.382955"
+  closest_city:
+    name: Pawtucket
+    distance_km: 0.85
+- country: US
+  region: RI
+  exchange: '302555'
+  name: PEACE DALE
+  full_name: Peace Dale
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302556'
+  name: PHENIX
+  full_name: Phenix
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302557'
+  name: PHILLIPSDL
+  full_name: Phillipsdale
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302561'
+  name: PT JUDITH
+  full_name: Point Judith
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '176020'
+  name: PORTSMOUTH
+  full_name: Portsmouth
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.609135'
+  long: "-71.244034"
+  closest_city:
+    name: Melville
+    distance_km: 6.75
+- country: US
+  region: RI
+  exchange: '176030'
+  name: PROVIDENCE
+  full_name: Providence
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.82125'
+  long: "-71.414117"
+  closest_city:
+    name: Providence
+    distance_km: 0.43
+- country: US
+  region: RI
+  exchange: '302560'
+  name: PRUDENCEIS
+  full_name: Prudence Island
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302562'
+  name: RICHMOND
+  full_name: Richmond
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '176034'
+  name: RIVERSIDE
+  full_name: Riverside
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302564'
+  name: ROCKVILLE
+  full_name: Rockville
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302565'
+  name: RUMFORD
+  full_name: Rumford
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302566'
+  name: SAUNDERSTN
+  full_name: Saunderstown
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302567'
+  name: SAYLESVL
+  full_name: Saylesville
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '176040'
+  name: SCITUATE
+  full_name: Scituate
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.832773'
+  long: "-71.590825"
+  closest_city:
+    name: Greenville
+    distance_km: 6.23
+- country: US
+  region: RI
+  exchange: '302569'
+  name: SHANNOCK
+  full_name: Shannock
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302570'
+  name: SLATERSVL
+  full_name: Slatersville
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302571'
+  name: SLOCUM
+  full_name: Slocum
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302572'
+  name: SMITHFIELD
+  full_name: Smithfield
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302573'
+  name: SO KINGSTN
+  full_name: South Kingstown
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302574'
+  name: SOPORTSMTH
+  full_name: South Portsmouth
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '176050'
+  name: TIVERTON
+  full_name: Tiverton
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.630979'
+  long: "-71.212247"
+  closest_city:
+    name: Melville
+    distance_km: 10.31
+- country: US
+  region: RI
+  exchange: '302576'
+  name: VALLEY FLS
+  full_name: Valley Falls
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302579'
+  name: WAKEFIELD
+  full_name: Wakefield
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302580'
+  name: WALLUMLAKE
+  full_name: Wallum Lake
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '176060'
+  name: WARREN
+  full_name: Warren
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.729565'
+  long: "-71.269863"
+  closest_city:
+    name: East Providence
+    distance_km: 11.17
+- country: US
+  region: RI
+  exchange: '176070'
+  name: WARWICK
+  full_name: Warwick
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.705123'
+  long: "-71.41486"
+  closest_city:
+    name: Warwick
+    distance_km: 1.54
+- country: US
+  region: RI
+  exchange: '302583'
+  name: WATCH HILL
+  full_name: Watch Hill
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '176102'
+  name: WEEKAPAUG
+  full_name: Weekapaug
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302584'
+  name: WBARRINGTN
+  full_name: West Barrington
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '176080'
+  name: WGLOCESTER
+  full_name: West Glocester
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.916259'
+  long: "-71.791539"
+  closest_city:
+    name: Pascoag
+    distance_km: 8.25
+- country: US
+  region: RI
+  exchange: '302589'
+  name: WGREENWICH
+  full_name: West Greenwich
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302577'
+  name: W KINGSTON
+  full_name: West Kingston
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '176090'
+  name: W WARWICK
+  full_name: West Warwick
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.709501'
+  long: "-71.520318"
+  closest_city:
+    name: Cranston
+    distance_km: 6.88
+- country: US
+  region: RI
+  exchange: '176100'
+  name: WESTERLY
+  full_name: Westerly
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '41.376989'
+  long: "-71.832504"
+  closest_city:
+    name: Misquamicut
+    distance_km: 5.99
+- country: US
+  region: RI
+  exchange: '302590'
+  name: WICKFORD
+  full_name: Wickford
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '302585'
+  name: WD RIV JCT
+  full_name: Wood River Junction
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:
+- country: US
+  region: RI
+  exchange: '176110'
+  name: WOONSOCKET
+  full_name: Woonsocket
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat: '42.006933'
+  long: "-71.511043"
+  closest_city:
+    name: Woonsocket
+    distance_km: 1.17
+- country: US
+  region: RI
+  exchange: '302592'
+  name: WYOMING
+  full_name: Wyoming
+  lata: '130'
+  ilec_name: VERIZON NEW ENGLAND INC.
+  lat:
+  long:

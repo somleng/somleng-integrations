@@ -1,0 +1,29 @@
+---
+rate_centers:
+- country: US
+  region: MP
+  exchange: '128570'
+  name: ROTA
+  full_name: Rota
+  lata: '870'
+  ilec_name: MICRONESIAN TELECOMMUNICATIONS CORPORATION
+  lat:
+  long:
+- country: US
+  region: MP
+  exchange: '128580'
+  name: SAIPAN
+  full_name: Saipan
+  lata: '870'
+  ilec_name: MICRONESIAN TELECOMMUNICATIONS CORPORATION
+  lat:
+  long:
+- country: US
+  region: MP
+  exchange: '128590'
+  name: TINIAN
+  full_name: Tinian
+  lata: '870'
+  ilec_name: MICRONESIAN TELECOMMUNICATIONS CORPORATION
+  lat:
+  long:

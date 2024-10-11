@@ -1,0 +1,4148 @@
+---
+cities:
+- country: US
+  region: UT
+  name: Alpine
+  lat: '40.4629'
+  long: "-111.7724"
+  nearby_rate_centers:
+  - name: AMERCNFORK
+    distance_km: 9.8
+  - name: CEDAR VLY
+    distance_km: 10.72
+  - name: EAGLE MTN
+    distance_km: 10.72
+  - name: LEHI
+    distance_km: 10.72
+  - name: PLEASATGRV
+    distance_km: 10.92
+- country: US
+  region: UT
+  name: Alta
+  lat: '40.5818'
+  long: "-111.6229"
+  nearby_rate_centers:
+  - name: ALTA
+    distance_km: 1.76
+  - name: PARK CITY
+    distance_km: 13.03
+  - name: HOLLADAY
+    distance_km: 17.44
+- country: US
+  region: UT
+  name: Altamont
+  lat: '40.3589'
+  long: "-110.2881"
+  nearby_rate_centers:
+  - name: ALTAMONT
+    distance_km: 1.04
+  - name: FLATTOP
+    distance_km: 21.88
+  - name: DUCHESNE
+    distance_km: 23.42
+- country: US
+  region: UT
+  name: Alton
+  lat: '37.4303'
+  long: "-112.5061"
+  nearby_rate_centers:
+  - name: DUCK CREEK
+    distance_km: 16.55
+  - name: ORDERVILLE
+    distance_km: 20.87
+  - name: BRYCECNYON
+    distance_km: 36.65
+- country: US
+  region: UT
+  name: Amalga
+  lat: '41.8564'
+  long: "-111.8974"
+  nearby_rate_centers:
+  - name: SMITHFIELD
+    distance_km: 5.78
+  - name: RICHMOND
+    distance_km: 10.75
+  - name: LOGAN
+    distance_km: 14.72
+- country: US
+  region: UT
+  name: American Fork
+  lat: '40.3783'
+  long: "-111.7953"
+  nearby_rate_centers:
+  - name: AMERCNFORK
+    distance_km: 0.44
+  - name: CEDAR VLY
+    distance_km: 4.47
+  - name: EAGLE MTN
+    distance_km: 4.47
+  - name: LEHI
+    distance_km: 4.47
+  - name: PLEASATGRV
+    distance_km: 4.7
+- country: US
+  region: UT
+  name: Aneth
+  lat: '37.2050'
+  long: "-109.1623"
+  nearby_rate_centers:
+  - name: MNZMCRANTH
+    distance_km: 14.07
+  - name: BLUFF
+    distance_km: 35.63
+  - name: BLANDING
+    distance_km: 54.82
+- country: US
+  region: UT
+  name: Annabella
+  lat: '38.7059'
+  long: "-112.0587"
+  nearby_rate_centers:
+  - name: RICHFIELD
+    distance_km: 7.14
+  - name: MONROE
+    distance_km: 9.69
+  - name: KOOSHAREM
+    distance_km: 26.71
+- country: US
+  region: UT
+  name: Antimony
+  lat: '38.1030'
+  long: "-111.9823"
+  nearby_rate_centers:
+  - name: ANTIMONY
+    distance_km: 2.34
+  - name: CIRCLEVL
+    distance_km: 25.37
+  - name: MARYSVALE
+    distance_km: 43.86
+- country: US
+  region: UT
+  name: Apple Valley
+  lat: '37.0810'
+  long: "-113.1034"
+  nearby_rate_centers:
+  - name: APPLE VLLY
+    distance_km: 4.61
+  - name: SPRINGDALE
+    distance_km: 15.33
+  - name: HURRICANE
+    distance_km: 18.76
+- country: US
+  region: UT
+  name: Aurora
+  lat: '38.9202'
+  long: "-111.9335"
+  nearby_rate_centers:
+  - name: SALINA
+    distance_km: 7.54
+  - name: RICHFIELD
+    distance_km: 21.27
+  - name: GUNNISON
+    distance_km: 27.57
+- country: US
+  region: UT
+  name: Avon
+  lat: '41.5354'
+  long: "-111.8125"
+  nearby_rate_centers:
+  - name: HYRUM
+    distance_km: 12.35
+  - name: BRIGHAM CY
+    distance_km: 17.68
+  - name: LOGAN
+    distance_km: 22.05
+- country: US
+  region: UT
+  name: Ballard
+  lat: '40.2949'
+  long: "-109.9493"
+  nearby_rate_centers:
+  - name: ROOSEVELT
+    distance_km: 3.74
+  - name: FLATTOP
+    distance_km: 15.49
+  - name: NEOLA
+    distance_km: 16.14
+- country: US
+  region: UT
+  name: Bear River City
+  lat: '41.6124'
+  long: "-112.1250"
+  nearby_rate_centers:
+  - name: BEARRIV CY
+    distance_km: 1.03
+  - name: TREMONTON
+    distance_km: 12.47
+  - name: BRIGHAM CY
+    distance_km: 14.26
+- country: US
+  region: UT
+  name: Beaver
+  lat: '38.2759'
+  long: "-112.6383"
+  nearby_rate_centers:
+  - name: BEAVER
+    distance_km: 0.46
+  - name: MINERSVL
+    distance_km: 25.98
+  - name: MILFORD
+    distance_km: 34.95
+- country: US
+  region: UT
+  name: Benjamin
+  lat: '40.0968'
+  long: "-111.7290"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 6.12
+  - name: SPANIHFORK
+    distance_km: 6.27
+  - name: SPRINGVL
+    distance_km: 12.44
+- country: US
+  region: UT
+  name: Benson
+  lat: '41.7492'
+  long: "-111.9173"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 7.24
+  - name: SMITHFIELD
+    distance_km: 11.46
+  - name: HYRUM
+    distance_km: 13.04
+- country: US
+  region: UT
+  name: Beryl Junction
+  lat: '37.7010'
+  long: "-113.6535"
+  nearby_rate_centers:
+  - name: BERYL
+    distance_km: 2.32
+  - name: ENTERPRISE
+    distance_km: 15.97
+  - name: CEDAR CITY
+    distance_km: 51.41
+- country: US
+  region: UT
+  name: Bicknell
+  lat: '38.3406'
+  long: "-111.5442"
+  nearby_rate_centers:
+  - name: BICKNELL
+    distance_km: 0.48
+  - name: LOA
+    distance_km: 10.62
+  - name: KOOSHAREM
+    distance_km: 35.02
+- country: US
+  region: UT
+  name: Big Water
+  lat: '37.0729'
+  long: "-111.6608"
+  nearby_rate_centers:
+  - name: GLNCNYONCY
+    distance_km: 2.12
+  - name: DNGLNG RPE
+    distance_km: 52.38
+  - name: CANNONVL
+    distance_km: 71.53
+- country: US
+  region: UT
+  name: Blanding
+  lat: '37.6213'
+  long: "-109.5073"
+  nearby_rate_centers:
+  - name: BLANDING
+    distance_km: 1.95
+  - name: MONTICELLO
+    distance_km: 31.03
+  - name: BLUFF
+    distance_km: 37.88
+- country: US
+  region: UT
+  name: Bluebell
+  lat: '40.3576'
+  long: "-110.2232"
+  nearby_rate_centers:
+  - name: ALTAMONT
+    distance_km: 5.9
+  - name: FLATTOP
+    distance_km: 18.24
+  - name: NEOLA
+    distance_km: 19.59
+- country: US
+  region: UT
+  name: Bluff
+  lat: '37.2871'
+  long: "-109.5730"
+  nearby_rate_centers:
+  - name: BLUFF
+    distance_km: 1.85
+  - name: MNZMCRANTH
+    distance_km: 23.92
+  - name: MEXICANHAT
+    distance_km: 30.15
+- country: US
+  region: UT
+  name: Bluffdale
+  lat: '40.4744'
+  long: "-111.9381"
+  nearby_rate_centers:
+  - name: CEDAR VLY
+    distance_km: 12.54
+  - name: EAGLE MTN
+    distance_km: 12.54
+  - name: LEHI
+    distance_km: 12.54
+  - name: AMERCNFORK
+    distance_km: 15.88
+  - name: MIDVALE
+    distance_km: 16.02
+- country: US
+  region: UT
+  name: Bonanza
+  lat: '40.0304'
+  long: "-109.1884"
+  nearby_rate_centers:
+  - name: RANDLETT
+    distance_km: 54.54
+  - name: VERNAL
+    distance_km: 55.02
+  - name: LAPOINT
+    distance_km: 67.94
+- country: US
+  region: UT
+  name: Boulder
+  lat: '37.9228'
+  long: "-111.4319"
+  nearby_rate_centers:
+  - name: BOULDER
+    distance_km: 2.15
+  - name: ESCALANTE
+    distance_km: 22.17
+  - name: BICKNELL
+    distance_km: 47.58
+- country: US
+  region: UT
+  name: Bountiful
+  lat: '40.8721'
+  long: "-111.8647"
+  nearby_rate_centers:
+  - name: BOUNTIFUL
+    distance_km: 2.44
+  - name: FARMINGTON
+    distance_km: 12.64
+  - name: SALT LAKE
+    distance_km: 12.76
+- country: US
+  region: UT
+  name: Brian Head
+  lat: '37.6977'
+  long: "-112.8416"
+  nearby_rate_centers:
+  - name: BRIAN HEAD
+    distance_km: 0.49
+  - name: PAROWAN
+    distance_km: 15.89
+  - name: CEDAR CITY
+    distance_km: 20.14
+- country: US
+  region: UT
+  name: Brigham City
+  lat: '41.5035'
+  long: "-112.0453"
+  nearby_rate_centers:
+  - name: BRIGHAM CY
+    distance_km: 2.06
+  - name: BEARRIV CY
+    distance_km: 14.72
+  - name: HYRUM
+    distance_km: 22.25
+- country: US
+  region: UT
+  name: Brighton
+  lat: '40.6196'
+  long: "-111.6005"
+  nearby_rate_centers:
+  - name: ALTA
+    distance_km: 4.65
+  - name: PARK CITY
+    distance_km: 9.28
+  - name: JORDANELLE
+    distance_km: 16.47
+- country: US
+  region: UT
+  name: Bryce Canyon City
+  lat: '37.6814'
+  long: "-112.1588"
+  nearby_rate_centers:
+  - name: BRYCECNYON
+    distance_km: 7.0
+  - name: CANNONVL
+    distance_km: 9.21
+  - name: HATCH
+    distance_km: 29.42
+  - name: PANGUITCH
+    distance_km: 29.42
+- country: US
+  region: UT
+  name: Cache
+  lat: '41.8309'
+  long: "-112.0053"
+  nearby_rate_centers:
+  - name: FIELDING
+    distance_km: 9.83
+  - name: SMITHFIELD
+    distance_km: 14.07
+  - name: LOGAN
+    distance_km: 17.97
+- country: US
+  region: UT
+  name: Cannonville
+  lat: '37.5689'
+  long: "-112.0531"
+  nearby_rate_centers:
+  - name: CANNONVL
+    distance_km: 6.38
+  - name: BRYCECNYON
+    distance_km: 11.3
+  - name: HATCH
+    distance_km: 44.39
+  - name: PANGUITCH
+    distance_km: 44.39
+- country: US
+  region: UT
+  name: Carbonville
+  lat: '39.6268'
+  long: "-110.8332"
+  nearby_rate_centers:
+  - name: PRICE
+    distance_km: 3.46
+  - name: HELPER
+    distance_km: 6.64
+  - name: SCOFIELD
+    distance_km: 29.79
+- country: US
+  region: UT
+  name: Castle Dale
+  lat: '39.2218'
+  long: "-111.0230"
+  nearby_rate_centers:
+  - name: CASTLEDALE
+    distance_km: 0.34
+  - name: HUNTINGTON
+    distance_km: 12.23
+  - name: FERRON
+    distance_km: 17.35
+- country: US
+  region: UT
+  name: Castle Valley
+  lat: '38.6326'
+  long: "-109.3966"
+  nearby_rate_centers:
+  - name: MOAB
+    distance_km: 14.44
+  - name: LA SAL
+    distance_km: 38.3
+  - name: THOMPSON
+    distance_km: 46.0
+- country: US
+  region: UT
+  name: Cedar City
+  lat: '37.6834'
+  long: "-113.0956"
+  nearby_rate_centers:
+  - name: CEDAR CITY
+    distance_km: 2.28
+  - name: BRIAN HEAD
+    distance_km: 21.92
+  - name: PAROWAN
+    distance_km: 29.0
+- country: US
+  region: UT
+  name: Cedar Fort
+  lat: '40.3414'
+  long: "-112.1086"
+  nearby_rate_centers:
+  - name: CEDAR VLY
+    distance_km: 22.67
+  - name: EAGLE MTN
+    distance_km: 22.67
+  - name: LEHI
+    distance_km: 22.67
+  - name: AMERCNFORK
+    distance_km: 26.42
+  - name: TOOELE
+    distance_km: 26.79
+- country: US
+  region: UT
+  name: Cedar Highlands
+  lat: '37.6295'
+  long: "-113.0667"
+  nearby_rate_centers:
+  - name: CEDAR CITY
+    distance_km: 5.89
+  - name: BRIAN HEAD
+    distance_km: 20.74
+  - name: PAROWAN
+    distance_km: 31.23
+- country: US
+  region: UT
+  name: Cedar Hills
+  lat: '40.4135'
+  long: "-111.7531"
+  nearby_rate_centers:
+  - name: PLEASATGRV
+    distance_km: 5.2
+  - name: AMERCNFORK
+    distance_km: 5.67
+  - name: CEDAR VLY
+    distance_km: 8.58
+  - name: EAGLE MTN
+    distance_km: 8.58
+  - name: LEHI
+    distance_km: 8.58
+- country: US
+  region: UT
+  name: Centerfield
+  lat: '39.1274'
+  long: "-111.8184"
+  nearby_rate_centers:
+  - name: GUNNISON
+    distance_km: 2.61
+  - name: SALINA
+    distance_km: 19.96
+  - name: MANTI
+    distance_km: 22.19
+- country: US
+  region: UT
+  name: Centerville
+  lat: '40.9284'
+  long: "-111.8848"
+  nearby_rate_centers:
+  - name: BOUNTIFUL
+    distance_km: 4.3
+  - name: FARMINGTON
+    distance_km: 6.26
+  - name: KAYSVILLE
+    distance_km: 12.57
+- country: US
+  region: UT
+  name: Central
+  lat: '37.4150'
+  long: "-113.6262"
+  nearby_rate_centers:
+  - name: ENTERPRISE
+    distance_km: 18.79
+  - name: BERYL
+    distance_km: 33.75
+  - name: LEEDS
+    distance_km: 34.18
+  - name: ST GEORGE
+    distance_km: 34.18
+  - name: VEYO
+    distance_km: 34.18
+- country: US
+  region: UT
+  name: Central Valley
+  lat: '38.6991'
+  long: "-112.0967"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 7.63
+  - name: RICHFIELD
+    distance_km: 7.73
+  - name: KOOSHAREM
+    distance_km: 28.13
+- country: US
+  region: UT
+  name: Charleston
+  lat: '40.4661'
+  long: "-111.4600"
+  nearby_rate_centers:
+  - name: HEBER CITY
+    distance_km: 6.13
+  - name: TIMBERLAKE
+    distance_km: 15.0
+  - name: ALTA
+    distance_km: 20.58
+- country: US
+  region: UT
+  name: Circleville
+  lat: '38.1684'
+  long: "-112.2716"
+  nearby_rate_centers:
+  - name: CIRCLEVL
+    distance_km: 8.77
+  - name: ANTIMONY
+    distance_km: 24.3
+  - name: MARYSVALE
+    distance_km: 31.39
+- country: US
+  region: UT
+  name: Clarkston
+  lat: '41.9205'
+  long: "-112.0503"
+  nearby_rate_centers:
+  - name: FIELDING
+    distance_km: 12.93
+  - name: PORTAGE
+    distance_km: 16.47
+  - name: RICHMOND
+    distance_km: 20.04
+- country: US
+  region: UT
+  name: Clawson
+  lat: '39.1391'
+  long: "-111.0934"
+  nearby_rate_centers:
+  - name: FERRON
+    distance_km: 6.34
+  - name: CASTLEDALE
+    distance_km: 10.85
+  - name: HUNTINGTON
+    distance_km: 23.16
+- country: US
+  region: UT
+  name: Clear Creek
+  lat: '39.6433'
+  long: "-111.1548"
+  nearby_rate_centers:
+  - name: SCOFIELD
+    distance_km: 9.07
+  - name: FAIRVIEW
+    distance_km: 23.65
+  - name: HELPER
+    distance_km: 26.37
+- country: US
+  region: UT
+  name: Clearfield
+  lat: '41.1030'
+  long: "-112.0238"
+  nearby_rate_centers:
+  - name: CLEARFIELD
+    distance_km: 0.82
+  - name: KAYSVILLE
+    distance_km: 10.68
+  - name: HUNTSVILLE
+    distance_km: 14.23
+  - name: OGDEN
+    distance_km: 14.23
+- country: US
+  region: UT
+  name: Cleveland
+  lat: '39.3494'
+  long: "-110.8556"
+  nearby_rate_centers:
+  - name: CLEVELAND
+    distance_km: 1.12
+  - name: HUNTINGTON
+    distance_km: 9.96
+  - name: CASTLEDALE
+    distance_km: 20.33
+- country: US
+  region: UT
+  name: Clinton
+  lat: '41.1395'
+  long: "-112.0656"
+  nearby_rate_centers:
+  - name: CLEARFIELD
+    distance_km: 4.78
+  - name: HUNTSVILLE
+    distance_km: 12.49
+  - name: OGDEN
+    distance_km: 12.49
+  - name: KAYSVILLE
+    distance_km: 16.02
+- country: US
+  region: UT
+  name: Coalville
+  lat: '40.9120'
+  long: "-111.4130"
+  nearby_rate_centers:
+  - name: COALVILLE
+    distance_km: 1.95
+  - name: MORGAN
+    distance_km: 26.85
+  - name: JORDANELLE
+    distance_km: 28.52
+- country: US
+  region: UT
+  name: Copperton
+  lat: '40.5662'
+  long: "-112.0977"
+  nearby_rate_centers:
+  - name: KEARNS
+    distance_km: 13.44
+  - name: MAGNA
+    distance_km: 16.04
+  - name: MIDVALE
+    distance_km: 16.79
+- country: US
+  region: UT
+  name: Corinne
+  lat: '41.5497'
+  long: "-112.1227"
+  nearby_rate_centers:
+  - name: BEARRIV CY
+    distance_km: 7.6
+  - name: BRIGHAM CY
+    distance_km: 9.47
+  - name: TREMONTON
+    distance_km: 19.21
+- country: US
+  region: UT
+  name: Cornish
+  lat: '41.9717'
+  long: "-111.9565"
+  nearby_rate_centers:
+  - name: RICHMOND
+    distance_km: 13.24
+  - name: SMITHFIELD
+    distance_km: 18.45
+  - name: FIELDING
+    distance_km: 21.99
+- country: US
+  region: UT
+  name: Cottonwood Heights
+  lat: '40.6137'
+  long: "-111.8144"
+  nearby_rate_centers:
+  - name: HOLLADAY
+    distance_km: 4.26
+  - name: MIDVALE
+    distance_km: 8.12
+  - name: MURRAY
+    distance_km: 8.45
+- country: US
+  region: UT
+  name: Cove
+  lat: '41.9683'
+  long: "-111.7794"
+  nearby_rate_centers:
+  - name: RICHMOND
+    distance_km: 5.21
+  - name: SMITHFIELD
+    distance_km: 15.82
+  - name: LOGAN
+    distance_km: 26.52
+- country: US
+  region: UT
+  name: Dammeron Valley
+  lat: '37.3042'
+  long: "-113.6658"
+  nearby_rate_centers:
+  - name: LEEDS
+    distance_km: 22.82
+  - name: ST GEORGE
+    distance_km: 22.82
+  - name: VEYO
+    distance_km: 22.82
+  - name: ENTERPRISE
+    distance_km: 29.61
+  - name: HURRICANE
+    distance_km: 37.06
+- country: US
+  region: UT
+  name: Daniel
+  lat: '40.4668'
+  long: "-111.4096"
+  nearby_rate_centers:
+  - name: HEBER CITY
+    distance_km: 4.88
+  - name: TIMBERLAKE
+    distance_km: 10.84
+  - name: JORDANELLE
+    distance_km: 20.99
+- country: US
+  region: UT
+  name: Delta
+  lat: '39.3623'
+  long: "-112.5471"
+  nearby_rate_centers:
+  - name: DELTA
+    distance_km: 2.98
+  - name: OAK CITY
+    distance_km: 17.88
+  - name: LYNNDYL
+    distance_km: 22.83
+- country: US
+  region: UT
+  name: Deseret
+  lat: '39.2876'
+  long: "-112.6511"
+  nearby_rate_centers:
+  - name: DELTA
+    distance_km: 9.33
+  - name: OAK CITY
+    distance_km: 28.51
+  - name: LYNNDYL
+    distance_km: 34.99
+- country: US
+  region: UT
+  name: Deweyville
+  lat: '41.6930'
+  long: "-112.0883"
+  nearby_rate_centers:
+  - name: TREMONTON
+    distance_km: 7.78
+  - name: BEARRIV CY
+    distance_km: 9.27
+  - name: FIELDING
+    distance_km: 14.12
+- country: US
+  region: UT
+  name: Draper
+  lat: '40.4957'
+  long: "-111.8605"
+  nearby_rate_centers:
+  - name: CEDAR VLY
+    distance_km: 12.33
+  - name: EAGLE MTN
+    distance_km: 12.33
+  - name: LEHI
+    distance_km: 12.33
+  - name: AMERCNFORK
+    distance_km: 14.11
+  - name: MIDVALE
+    distance_km: 14.13
+- country: US
+  region: UT
+  name: Duchesne
+  lat: '40.1753'
+  long: "-110.3940"
+  nearby_rate_centers:
+  - name: DUCHESNE
+    distance_km: 1.11
+  - name: ALTAMONT
+    distance_km: 21.27
+  - name: FLATTOP
+    distance_km: 25.14
+- country: US
+  region: UT
+  name: Dugway
+  lat: '40.2307'
+  long: "-112.7541"
+  nearby_rate_centers:
+  - name: DUGWAY
+    distance_km: 1.92
+  - name: RUSHVALLEY
+    distance_km: 27.39
+  - name: VERNON
+    distance_km: 29.74
+- country: US
+  region: UT
+  name: Dutch John
+  lat: '40.9301'
+  long: "-109.4042"
+  nearby_rate_centers:
+  - name: DUTCH JOHN
+    distance_km: 0.99
+  - name: GREENDALE
+    distance_km: 7.89
+  - name: MANILA
+    distance_km: 27.17
+- country: US
+  region: UT
+  name: Eagle Mountain
+  lat: '40.3137'
+  long: "-112.0114"
+  nearby_rate_centers:
+  - name: CEDAR VLY
+    distance_km: 16.02
+  - name: EAGLE MTN
+    distance_km: 16.02
+  - name: LEHI
+    distance_km: 16.02
+  - name: AMERCNFORK
+    distance_km: 19.23
+  - name: PLEASATGRV
+    distance_km: 23.63
+- country: US
+  region: UT
+  name: East Basin
+  lat: '40.7359'
+  long: "-111.4708"
+  nearby_rate_centers:
+  - name: PARK CITY
+    distance_km: 9.67
+  - name: JORDANELLE
+    distance_km: 10.26
+  - name: KAMAS
+    distance_km: 19.71
+- country: US
+  region: UT
+  name: Echo
+  lat: '40.9803'
+  long: "-111.4393"
+  nearby_rate_centers:
+  - name: COALVILLE
+    distance_km: 8.25
+  - name: MORGAN
+    distance_km: 21.56
+  - name: JORDANELLE
+    distance_km: 36.19
+- country: US
+  region: UT
+  name: Eden
+  lat: '41.3022'
+  long: "-111.8085"
+  nearby_rate_centers:
+  - name: HUNTSVILLE
+    distance_km: 15.85
+  - name: OGDEN
+    distance_km: 15.85
+  - name: CLEARFIELD
+    distance_km: 27.91
+  - name: BRIGHAM CY
+    distance_km: 29.16
+- country: US
+  region: UT
+  name: Elberta
+  lat: '39.9559'
+  long: "-111.9569"
+  nearby_rate_centers:
+  - name: GOSHEN
+    distance_km: 4.01
+  - name: EUREKA
+    distance_km: 14.13
+  - name: PAYSON
+    distance_km: 20.62
+- country: US
+  region: UT
+  name: Elk Ridge
+  lat: '40.0099'
+  long: "-111.6775"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 6.68
+  - name: SPANIHFORK
+    distance_km: 11.08
+  - name: SPNSFKCNYN
+    distance_km: 15.61
+- country: US
+  region: UT
+  name: Elmo
+  lat: '39.3877'
+  long: "-110.8156"
+  nearby_rate_centers:
+  - name: CLEVELAND
+    distance_km: 6.16
+  - name: HUNTINGTON
+    distance_km: 14.83
+  - name: PRICE
+    distance_km: 23.8
+- country: US
+  region: UT
+  name: Elsinore
+  lat: '38.6834'
+  long: "-112.1488"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 6.18
+  - name: RICHFIELD
+    distance_km: 11.03
+  - name: MARYSVALE
+    distance_km: 26.96
+- country: US
+  region: UT
+  name: Elwood
+  lat: '41.6759'
+  long: "-112.1376"
+  nearby_rate_centers:
+  - name: TREMONTON
+    distance_km: 5.65
+  - name: BEARRIV CY
+    distance_km: 6.51
+  - name: THATCHER
+    distance_km: 13.8
+- country: US
+  region: UT
+  name: Emery
+  lat: '38.9252'
+  long: "-111.2522"
+  nearby_rate_centers:
+  - name: EMERY
+    distance_km: 1.07
+  - name: FERRON
+    distance_km: 21.17
+  - name: CASTLEDALE
+    distance_km: 38.28
+- country: US
+  region: UT
+  name: Emigration Canyon
+  lat: '40.7886'
+  long: "-111.7414"
+  nearby_rate_centers:
+  - name: SALT LAKE
+    distance_km: 12.35
+  - name: HOLLADAY
+    distance_km: 16.23
+  - name: BOUNTIFUL
+    distance_km: 16.32
+- country: US
+  region: UT
+  name: Enoch
+  lat: '37.7669'
+  long: "-113.0449"
+  nearby_rate_centers:
+  - name: CEDAR CITY
+    distance_km: 9.65
+  - name: BRIAN HEAD
+    distance_km: 19.05
+  - name: PAROWAN
+    distance_km: 20.4
+- country: US
+  region: UT
+  name: Enterprise
+  lat: '37.5717'
+  long: "-113.7431"
+  nearby_rate_centers:
+  - name: ENTERPRISE
+    distance_km: 2.17
+  - name: BERYL
+    distance_km: 18.71
+  - name: LEEDS
+    distance_km: 53.27
+  - name: ST GEORGE
+    distance_km: 53.27
+  - name: VEYO
+    distance_km: 53.27
+- country: US
+  region: UT
+  name: Ephraim
+  lat: '39.3563'
+  long: "-111.5845"
+  nearby_rate_centers:
+  - name: EPHRAIM
+    distance_km: 0.54
+  - name: MANTI
+    distance_km: 10.93
+  - name: MORONI
+    distance_km: 18.77
+- country: US
+  region: UT
+  name: Erda
+  lat: '40.6028'
+  long: "-112.3214"
+  nearby_rate_centers:
+  - name: TOOELE
+    distance_km: 7.84
+  - name: MAGNA
+    distance_km: 21.73
+  - name: KEARNS
+    distance_km: 27.39
+- country: US
+  region: UT
+  name: Escalante
+  lat: '37.7650'
+  long: "-111.6001"
+  nearby_rate_centers:
+  - name: ESCALANTE
+    distance_km: 0.97
+  - name: BOULDER
+    distance_km: 22.39
+  - name: CANNONVL
+    distance_km: 46.58
+- country: US
+  region: UT
+  name: Eureka
+  lat: '39.9588'
+  long: "-112.1149"
+  nearby_rate_centers:
+  - name: EUREKA
+    distance_km: 0.74
+  - name: GOSHEN
+    distance_km: 17.44
+  - name: VERNON
+    distance_km: 32.47
+- country: US
+  region: UT
+  name: Fairfield
+  lat: '40.2462'
+  long: "-112.0842"
+  nearby_rate_centers:
+  - name: CEDAR VLY
+    distance_km: 25.34
+  - name: EAGLE MTN
+    distance_km: 25.34
+  - name: LEHI
+    distance_km: 25.34
+  - name: AMERCNFORK
+    distance_km: 28.14
+  - name: PLEASATGRV
+    distance_km: 32.03
+- country: US
+  region: UT
+  name: Fairview
+  lat: '39.6299'
+  long: "-111.4368"
+  nearby_rate_centers:
+  - name: FAIRVIEW
+    distance_km: 0.7
+  - name: MTPLEASANT
+    distance_km: 8.99
+  - name: FOUNTAGREN
+    distance_km: 16.73
+- country: US
+  region: UT
+  name: Farmington
+  lat: '40.9845'
+  long: "-111.9065"
+  nearby_rate_centers:
+  - name: FARMINGTON
+    distance_km: 1.75
+  - name: KAYSVILLE
+    distance_km: 6.09
+  - name: BOUNTIFUL
+    distance_km: 10.73
+- country: US
+  region: UT
+  name: Farr West
+  lat: '41.3015'
+  long: "-112.0318"
+  nearby_rate_centers:
+  - name: HUNTSVILLE
+    distance_km: 10.25
+  - name: OGDEN
+    distance_km: 10.25
+  - name: CLEARFIELD
+    distance_km: 21.26
+  - name: BRIGHAM CY
+    distance_km: 23.19
+- country: US
+  region: UT
+  name: Fayette
+  lat: '39.2244'
+  long: "-111.8539"
+  nearby_rate_centers:
+  - name: GUNNISON
+    distance_km: 8.8
+  - name: MANTI
+    distance_km: 19.63
+  - name: SCIPIO
+    distance_km: 21.19
+- country: US
+  region: UT
+  name: Ferron
+  lat: '39.0914'
+  long: "-111.1337"
+  nearby_rate_centers:
+  - name: FERRON
+    distance_km: 0.38
+  - name: CASTLEDALE
+    distance_km: 17.19
+  - name: EMERY
+    distance_km: 21.41
+- country: US
+  region: UT
+  name: Fielding
+  lat: '41.8127'
+  long: "-112.1173"
+  nearby_rate_centers:
+  - name: FIELDING
+    distance_km: 0.68
+  - name: TREMONTON
+    distance_km: 11.61
+  - name: THATCHER
+    distance_km: 20.48
+- country: US
+  region: UT
+  name: Fillmore
+  lat: '38.9642'
+  long: "-112.3386"
+  nearby_rate_centers:
+  - name: FILLMORE
+    distance_km: 1.2
+  - name: MEADOW
+    distance_km: 10.82
+  - name: HOLDEN
+    distance_km: 16.2
+- country: US
+  region: UT
+  name: Flaming Gorge
+  lat: '40.8889'
+  long: "-109.4751"
+  nearby_rate_centers:
+  - name: GREENDALE
+    distance_km: 0.91
+  - name: DUTCH JOHN
+    distance_km: 8.45
+  - name: MANILA
+    distance_km: 23.38
+- country: US
+  region: UT
+  name: Fort Duchesne
+  lat: '40.2809'
+  long: "-109.8774"
+  nearby_rate_centers:
+  - name: ROOSEVELT
+    distance_km: 10.02
+  - name: RANDLETT
+    distance_km: 10.39
+  - name: LAPOINT
+    distance_km: 15.2
+- country: US
+  region: UT
+  name: Fountain Green
+  lat: '39.6281'
+  long: "-111.6413"
+  nearby_rate_centers:
+  - name: FOUNTAGREN
+    distance_km: 0.96
+  - name: MORONI
+    distance_km: 12.55
+  - name: FAIRVIEW
+    distance_km: 18.09
+- country: US
+  region: UT
+  name: Francis
+  lat: '40.6102'
+  long: "-111.2729"
+  nearby_rate_centers:
+  - name: KAMAS
+    distance_km: 3.47
+  - name: JORDANELLE
+    distance_km: 12.71
+  - name: TIMBERLAKE
+    distance_km: 13.11
+- country: US
+  region: UT
+  name: Fremont
+  lat: '38.4556'
+  long: "-111.6148"
+  nearby_rate_centers:
+  - name: LOA
+    distance_km: 6.68
+  - name: BICKNELL
+    distance_km: 13.99
+  - name: KOOSHAREM
+    distance_km: 24.22
+- country: US
+  region: UT
+  name: Fruit Heights
+  lat: '41.0277'
+  long: "-111.9082"
+  nearby_rate_centers:
+  - name: KAYSVILLE
+    distance_km: 2.28
+  - name: FARMINGTON
+    distance_km: 5.14
+  - name: CLEARFIELD
+    distance_km: 13.35
+- country: US
+  region: UT
+  name: Garden
+  lat: '41.8866'
+  long: "-111.4326"
+  nearby_rate_centers:
+  - name: GARDENCITY
+    distance_km: 7.58
+  - name: RICHMOND
+    distance_km: 31.41
+  - name: RANDOLPH
+    distance_km: 32.14
+- country: US
+  region: UT
+  name: Garden City
+  lat: '41.9371'
+  long: "-111.4121"
+  nearby_rate_centers:
+  - name: GARDENCITY
+    distance_km: 2.02
+  - name: RICHMOND
+    distance_km: 32.79
+  - name: RANDOLPH
+    distance_km: 35.63
+- country: US
+  region: UT
+  name: Garland
+  lat: '41.7362'
+  long: "-112.1627"
+  nearby_rate_centers:
+  - name: TREMONTON
+    distance_km: 2.32
+  - name: FIELDING
+    distance_km: 9.62
+  - name: THATCHER
+    distance_km: 12.65
+- country: US
+  region: UT
+  name: Genola
+  lat: '40.0118'
+  long: "-111.8465"
+  nearby_rate_centers:
+  - name: GOSHEN
+    distance_km: 8.9
+  - name: PAYSON
+    distance_km: 9.46
+  - name: SPANIHFORK
+    distance_km: 19.38
+- country: US
+  region: UT
+  name: Glendale
+  lat: '37.3342'
+  long: "-112.6035"
+  nearby_rate_centers:
+  - name: ORDERVILLE
+    distance_km: 7.23
+  - name: DUCK CREEK
+    distance_km: 20.75
+  - name: KANAB
+    distance_km: 32.05
+- country: US
+  region: UT
+  name: Glenwood
+  lat: '38.7625'
+  long: "-111.9876"
+  nearby_rate_centers:
+  - name: RICHFIELD
+    distance_km: 8.17
+  - name: MONROE
+    distance_km: 18.41
+  - name: SALINA
+    distance_km: 23.81
+- country: US
+  region: UT
+  name: Goshen
+  lat: '39.9511'
+  long: "-111.9008"
+  nearby_rate_centers:
+  - name: GOSHEN
+    distance_km: 0.89
+  - name: PAYSON
+    distance_km: 16.87
+  - name: EUREKA
+    distance_km: 18.92
+- country: US
+  region: UT
+  name: Granite
+  lat: '40.5686'
+  long: "-111.8011"
+  nearby_rate_centers:
+  - name: HOLLADAY
+    distance_km: 9.25
+  - name: MIDVALE
+    distance_km: 10.68
+  - name: MURRAY
+    distance_km: 13.13
+- country: US
+  region: UT
+  name: Grantsville
+  lat: '40.6148'
+  long: "-112.4777"
+  nearby_rate_centers:
+  - name: TOOELE
+    distance_km: 17.63
+  - name: RUSHVALLEY
+    distance_km: 31.65
+  - name: MAGNA
+    distance_km: 33.08
+- country: US
+  region: UT
+  name: Green River
+  lat: '38.9935'
+  long: "-110.1723"
+  nearby_rate_centers:
+  - name: GREENRIVER
+    distance_km: 1.35
+  - name: THOMPSON
+    distance_km: 40.06
+  - name: EASTCARBON
+    distance_km: 64.92
+- country: US
+  region: UT
+  name: Gunnison
+  lat: '39.1569'
+  long: "-111.8135"
+  nearby_rate_centers:
+  - name: GUNNISON
+    distance_km: 0.71
+  - name: MANTI
+    distance_km: 19.73
+  - name: SALINA
+    distance_km: 23.26
+- country: US
+  region: UT
+  name: Halchita
+  lat: '37.1314'
+  long: "-109.9131"
+  nearby_rate_centers:
+  - name: HALCHITA
+    distance_km: 1.52
+  - name: MEXICANHAT
+    distance_km: 4.6
+  - name: MONUMNTVLY
+    distance_km: 29.41
+- country: US
+  region: UT
+  name: Halls Crossing
+  lat: '37.4578'
+  long: "-110.6829"
+  nearby_rate_centers:
+  - name: LAKEPOWELL
+    distance_km: 10.01
+  - name: TICABOO
+    distance_km: 33.71
+  - name: DNGLNG RPE
+    distance_km: 48.32
+- country: US
+  region: UT
+  name: Hanksville
+  lat: '38.3724'
+  long: "-110.7138"
+  nearby_rate_centers:
+  - name: HANKSVILLE
+    distance_km: 1.34
+  - name: CAINEVILLE
+    distance_km: 27.09
+  - name: TICABOO
+    distance_km: 68.04
+- country: US
+  region: UT
+  name: Harrisville
+  lat: '41.2852'
+  long: "-111.9859"
+  nearby_rate_centers:
+  - name: HUNTSVILLE
+    distance_km: 7.06
+  - name: OGDEN
+    distance_km: 7.06
+  - name: CLEARFIELD
+    distance_km: 19.69
+  - name: BRIGHAM CY
+    distance_km: 25.17
+- country: US
+  region: UT
+  name: Hatch
+  lat: '37.6493'
+  long: "-112.4348"
+  nearby_rate_centers:
+  - name: HATCH
+    distance_km: 19.64
+  - name: PANGUITCH
+    distance_km: 19.64
+  - name: BRYCECNYON
+    distance_km: 24.0
+  - name: DUCK CREEK
+    distance_km: 24.83
+- country: US
+  region: UT
+  name: Heber
+  lat: '40.5070'
+  long: "-111.3986"
+  nearby_rate_centers:
+  - name: HEBER CITY
+    distance_km: 1.57
+  - name: TIMBERLAKE
+    distance_km: 9.64
+  - name: JORDANELLE
+    distance_km: 16.55
+- country: US
+  region: UT
+  name: Helper
+  lat: '39.6898'
+  long: "-110.8596"
+  nearby_rate_centers:
+  - name: HELPER
+    distance_km: 0.88
+  - name: PRICE
+    distance_km: 10.7
+  - name: SCOFIELD
+    distance_km: 25.75
+- country: US
+  region: UT
+  name: Henefer
+  lat: '41.0137'
+  long: "-111.4931"
+  nearby_rate_centers:
+  - name: COALVILLE
+    distance_km: 13.87
+  - name: MORGAN
+    distance_km: 16.24
+  - name: FARMINGTON
+    distance_km: 33.11
+- country: US
+  region: UT
+  name: Henrieville
+  lat: '37.5638'
+  long: "-112.0020"
+  nearby_rate_centers:
+  - name: CANNONVL
+    distance_km: 10.02
+  - name: BRYCECNYON
+    distance_km: 15.6
+  - name: ESCALANTE
+    distance_km: 42.41
+- country: US
+  region: UT
+  name: Herriman
+  lat: '40.4899'
+  long: "-112.0170"
+  nearby_rate_centers:
+  - name: MIDVALE
+    distance_km: 16.75
+  - name: CEDAR VLY
+    distance_km: 18.48
+  - name: EAGLE MTN
+    distance_km: 18.48
+  - name: LEHI
+    distance_km: 18.48
+  - name: KEARNS
+    distance_km: 19.59
+- country: US
+  region: UT
+  name: Hideout
+  lat: '40.6437'
+  long: "-111.4014"
+  nearby_rate_centers:
+  - name: JORDANELLE
+    distance_km: 1.55
+  - name: PARK CITY
+    distance_km: 8.27
+  - name: KAMAS
+    distance_km: 10.83
+- country: US
+  region: UT
+  name: Highland
+  lat: '40.4276'
+  long: "-111.7957"
+  nearby_rate_centers:
+  - name: AMERCNFORK
+    distance_km: 5.6
+  - name: CEDAR VLY
+    distance_km: 6.43
+  - name: EAGLE MTN
+    distance_km: 6.43
+  - name: LEHI
+    distance_km: 6.43
+  - name: PLEASATGRV
+    distance_km: 8.1
+- country: US
+  region: UT
+  name: Hildale
+  lat: '37.0170'
+  long: "-112.9787"
+  nearby_rate_centers:
+  - name: APPLE VLLY
+    distance_km: 17.23
+  - name: HILDALE
+    distance_km: 17.3
+  - name: SPRINGDALE
+    distance_km: 19.52
+- country: US
+  region: UT
+  name: Hinckley
+  lat: '39.3336'
+  long: "-112.6736"
+  nearby_rate_centers:
+  - name: DELTA
+    distance_km: 8.46
+  - name: OAK CITY
+    distance_km: 29.08
+  - name: LYNNDYL
+    distance_km: 32.93
+- country: US
+  region: UT
+  name: Hobble Creek
+  lat: '40.2084'
+  long: "-111.4859"
+  nearby_rate_centers:
+  - name: SPRINGVL
+    distance_km: 11.9
+  - name: PROVO
+    distance_km: 15.85
+  - name: SPANIHFORK
+    distance_km: 18.3
+- country: US
+  region: UT
+  name: Holden
+  lat: '39.1003'
+  long: "-112.2705"
+  nearby_rate_centers:
+  - name: HOLDEN
+    distance_km: 0.59
+  - name: FILLMORE
+    distance_km: 15.38
+  - name: SCIPIO
+    distance_km: 21.55
+- country: US
+  region: UT
+  name: Holladay
+  lat: '40.6600'
+  long: "-111.8226"
+  nearby_rate_centers:
+  - name: HOLLADAY
+    distance_km: 1.55
+  - name: MURRAY
+    distance_km: 5.21
+  - name: MIDVALE
+    distance_km: 8.83
+- country: US
+  region: UT
+  name: Honeyville
+  lat: '41.6361'
+  long: "-112.0857"
+  nearby_rate_centers:
+  - name: BEARRIV CY
+    distance_km: 4.63
+  - name: TREMONTON
+    distance_km: 11.78
+  - name: BRIGHAM CY
+    distance_km: 15.0
+- country: US
+  region: UT
+  name: Hooper
+  lat: '41.1599'
+  long: "-112.2871"
+  nearby_rate_centers:
+  - name: CLEARFIELD
+    distance_km: 22.74
+  - name: HUNTSVILLE
+    distance_km: 27.74
+  - name: OGDEN
+    distance_km: 27.74
+  - name: KAYSVILLE
+    distance_km: 32.71
+- country: US
+  region: UT
+  name: Howell
+  lat: '41.7733'
+  long: "-112.4450"
+  nearby_rate_centers:
+  - name: HOWELL
+    distance_km: 2.7
+  - name: THATCHER
+    distance_km: 14.95
+  - name: TREMONTON
+    distance_km: 23.16
+- country: US
+  region: UT
+  name: Hoytsville
+  lat: '40.8757'
+  long: "-111.3847"
+  nearby_rate_centers:
+  - name: COALVILLE
+    distance_km: 4.5
+  - name: JORDANELLE
+    distance_km: 24.58
+  - name: PARK CITY
+    distance_km: 26.71
+- country: US
+  region: UT
+  name: Huntington
+  lat: '39.3302'
+  long: "-110.9628"
+  nearby_rate_centers:
+  - name: HUNTINGTON
+    distance_km: 0.89
+  - name: CLEVELAND
+    distance_km: 9.62
+  - name: CASTLEDALE
+    distance_km: 13.34
+- country: US
+  region: UT
+  name: Huntsville
+  lat: '41.2602'
+  long: "-111.7740"
+  nearby_rate_centers:
+  - name: HUNTSVILLE
+    distance_km: 16.61
+  - name: OGDEN
+    distance_km: 16.61
+  - name: MORGAN
+    distance_km: 25.51
+  - name: CLEARFIELD
+    distance_km: 26.72
+- country: US
+  region: UT
+  name: Hurricane
+  lat: '37.1487'
+  long: "-113.3517"
+  nearby_rate_centers:
+  - name: HURRICANE
+    distance_km: 6.79
+  - name: APPLE VLLY
+    distance_km: 20.34
+  - name: LEEDS
+    distance_km: 21.12
+  - name: ST GEORGE
+    distance_km: 21.12
+  - name: VEYO
+    distance_km: 21.12
+- country: US
+  region: UT
+  name: Hyde Park
+  lat: '41.8008'
+  long: "-111.8121"
+  nearby_rate_centers:
+  - name: SMITHFIELD
+    distance_km: 4.01
+  - name: LOGAN
+    distance_km: 7.72
+  - name: RICHMOND
+    distance_km: 14.0
+- country: US
+  region: UT
+  name: Hyrum
+  lat: '41.6325'
+  long: "-111.8445"
+  nearby_rate_centers:
+  - name: HYRUM
+    distance_km: 1.28
+  - name: LOGAN
+    distance_km: 11.23
+  - name: BRIGHAM CY
+    distance_km: 20.1
+- country: US
+  region: UT
+  name: Independence
+  lat: '40.4108'
+  long: "-111.2958"
+  nearby_rate_centers:
+  - name: TIMBERLAKE
+    distance_km: 9.14
+  - name: HEBER CITY
+    distance_km: 15.07
+  - name: KAMAS
+    distance_km: 25.71
+- country: US
+  region: UT
+  name: Interlaken
+  lat: '40.5413'
+  long: "-111.4749"
+  nearby_rate_centers:
+  - name: HEBER CITY
+    distance_km: 6.0
+  - name: PARK CITY
+    distance_km: 12.43
+  - name: JORDANELLE
+    distance_km: 13.79
+- country: US
+  region: UT
+  name: Ivins
+  lat: '37.1742'
+  long: "-113.6809"
+  nearby_rate_centers:
+  - name: LEEDS
+    distance_km: 11.16
+  - name: ST GEORGE
+    distance_km: 11.16
+  - name: VEYO
+    distance_km: 11.16
+  - name: HURRICANE
+    distance_km: 35.42
+  - name: ENTERPRISE
+    distance_km: 43.82
+- country: US
+  region: UT
+  name: Jensen
+  lat: '40.3695'
+  long: "-109.3555"
+  nearby_rate_centers:
+  - name: VERNAL
+    distance_km: 17.34
+  - name: RANDLETT
+    distance_km: 38.69
+  - name: LAPOINT
+    distance_km: 39.26
+- country: US
+  region: UT
+  name: Joseph
+  lat: '38.6249'
+  long: "-112.2198"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 8.76
+  - name: MARYSVALE
+    distance_km: 19.64
+  - name: RICHFIELD
+    distance_km: 19.89
+- country: US
+  region: UT
+  name: Junction
+  lat: '38.2358'
+  long: "-112.2238"
+  nearby_rate_centers:
+  - name: CIRCLEVL
+    distance_km: 0.45
+  - name: ANTIMONY
+    distance_km: 23.46
+  - name: MARYSVALE
+    distance_km: 23.63
+- country: US
+  region: UT
+  name: Kamas
+  lat: '40.6499'
+  long: "-111.2723"
+  nearby_rate_centers:
+  - name: KAMAS
+    distance_km: 0.95
+  - name: JORDANELLE
+    distance_km: 11.73
+  - name: TIMBERLAKE
+    distance_km: 17.52
+- country: US
+  region: UT
+  name: Kanab
+  lat: '37.0262'
+  long: "-112.5219"
+  nearby_rate_centers:
+  - name: KANAB
+    distance_km: 2.99
+  - name: ORDERVILLE
+    distance_km: 29.87
+  - name: HILDALE
+    distance_km: 37.48
+- country: US
+  region: UT
+  name: Kanarraville
+  lat: '37.5378'
+  long: "-113.1810"
+  nearby_rate_centers:
+  - name: CEDAR CITY
+    distance_km: 18.83
+  - name: BRIAN HEAD
+    distance_km: 34.33
+  - name: HURRICANE
+    distance_km: 41.57
+- country: US
+  region: UT
+  name: Kanosh
+  lat: '38.8014'
+  long: "-112.4374"
+  nearby_rate_centers:
+  - name: KANOSH
+    distance_km: 0.24
+  - name: MEADOW
+    distance_km: 9.51
+  - name: FILLMORE
+    distance_km: 20.97
+- country: US
+  region: UT
+  name: Kaysville
+  lat: '41.0290'
+  long: "-111.9456"
+  nearby_rate_centers:
+  - name: KAYSVILLE
+    distance_km: 1.24
+  - name: FARMINGTON
+    distance_km: 7.04
+  - name: CLEARFIELD
+    distance_km: 11.17
+- country: US
+  region: UT
+  name: Kearns
+  lat: '40.6519'
+  long: "-112.0095"
+  nearby_rate_centers:
+  - name: KEARNS
+    distance_km: 1.57
+  - name: MIDVALE
+    distance_km: 9.22
+  - name: MAGNA
+    distance_km: 10.43
+- country: US
+  region: UT
+  name: Kenilworth
+  lat: '39.6803'
+  long: "-110.8146"
+  nearby_rate_centers:
+  - name: HELPER
+    distance_km: 3.2
+  - name: PRICE
+    distance_km: 8.75
+  - name: SCOFIELD
+    distance_km: 29.72
+- country: US
+  region: UT
+  name: Kingston
+  lat: '38.2067'
+  long: "-112.1793"
+  nearby_rate_centers:
+  - name: CIRCLEVL
+    distance_km: 4.69
+  - name: ANTIMONY
+    distance_km: 18.44
+  - name: MARYSVALE
+    distance_km: 27.16
+- country: US
+  region: UT
+  name: Koosharem
+  lat: '38.5134'
+  long: "-111.8819"
+  nearby_rate_centers:
+  - name: KOOSHAREM
+    distance_km: 0.69
+  - name: MONROE
+    distance_km: 24.55
+  - name: LOA
+    distance_km: 24.56
+- country: US
+  region: UT
+  name: La Sal
+  lat: '38.3026'
+  long: "-109.2646"
+  nearby_rate_centers:
+  - name: LA SAL
+    distance_km: 2.02
+  - name: MOAB
+    distance_km: 38.75
+  - name: MONTICELLO
+    distance_km: 48.78
+- country: US
+  region: UT
+  name: La Verkin
+  lat: '37.2309'
+  long: "-113.2523"
+  nearby_rate_centers:
+  - name: HURRICANE
+    distance_km: 6.98
+  - name: APPLE VLLY
+    distance_km: 16.81
+  - name: SPRINGDALE
+    distance_km: 22.73
+- country: US
+  region: UT
+  name: Lake Shore
+  lat: '40.1294'
+  long: "-111.7362"
+  nearby_rate_centers:
+  - name: SPANIHFORK
+    distance_km: 7.15
+  - name: PAYSON
+    distance_km: 9.65
+  - name: SPRINGVL
+    distance_km: 11.11
+- country: US
+  region: UT
+  name: Laketown
+  lat: '41.8275'
+  long: "-111.3242"
+  nearby_rate_centers:
+  - name: GARDENCITY
+    distance_km: 14.53
+  - name: RANDOLPH
+    distance_km: 21.45
+  - name: RICHMOND
+    distance_km: 41.57
+- country: US
+  region: UT
+  name: Lapoint
+  lat: '40.4043'
+  long: "-109.7969"
+  nearby_rate_centers:
+  - name: LAPOINT
+    distance_km: 1.72
+  - name: NEOLA
+    distance_km: 18.57
+  - name: RANDLETT
+    distance_km: 19.38
+- country: US
+  region: UT
+  name: Layton
+  lat: '41.0770'
+  long: "-111.9620"
+  nearby_rate_centers:
+  - name: KAYSVILLE
+    distance_km: 5.21
+  - name: CLEARFIELD
+    distance_km: 6.36
+  - name: FARMINGTON
+    distance_km: 12.1
+- country: US
+  region: UT
+  name: Leamington
+  lat: '39.5313'
+  long: "-112.2855"
+  nearby_rate_centers:
+  - name: LYNNDYL
+    distance_km: 7.67
+  - name: OAK CITY
+    distance_km: 17.92
+  - name: DELTA
+    distance_km: 32.22
+- country: US
+  region: UT
+  name: Leeds
+  lat: '37.2373'
+  long: "-113.3471"
+  nearby_rate_centers:
+  - name: HURRICANE
+    distance_km: 9.27
+  - name: APPLE VLLY
+    distance_km: 23.67
+  - name: LEEDS
+    distance_km: 25.41
+  - name: ST GEORGE
+    distance_km: 25.41
+  - name: VEYO
+    distance_km: 25.41
+- country: US
+  region: UT
+  name: Lehi
+  lat: '40.4136'
+  long: "-111.8725"
+  nearby_rate_centers:
+  - name: CEDAR VLY
+    distance_km: 3.81
+  - name: EAGLE MTN
+    distance_km: 3.81
+  - name: LEHI
+    distance_km: 3.81
+  - name: AMERCNFORK
+    distance_km: 7.32
+  - name: PLEASATGRV
+    distance_km: 12.21
+- country: US
+  region: UT
+  name: Levan
+  lat: '39.5561'
+  long: "-111.8607"
+  nearby_rate_centers:
+  - name: NEPHI
+    distance_km: 17.22
+  - name: FOUNTAGREN
+    distance_km: 20.98
+  - name: MORONI
+    distance_km: 24.21
+- country: US
+  region: UT
+  name: Lewiston
+  lat: '41.9619'
+  long: "-111.8799"
+  nearby_rate_centers:
+  - name: RICHMOND
+    distance_km: 7.1
+  - name: SMITHFIELD
+    distance_km: 14.87
+  - name: FIELDING
+    distance_km: 25.72
+- country: US
+  region: UT
+  name: Liberty
+  lat: '41.3426'
+  long: "-111.8649"
+  nearby_rate_centers:
+  - name: HUNTSVILLE
+    distance_km: 15.74
+  - name: OGDEN
+    distance_km: 15.74
+  - name: BRIGHAM CY
+    distance_km: 22.75
+  - name: CLEARFIELD
+    distance_km: 29.03
+- country: US
+  region: UT
+  name: Lindon
+  lat: '40.3414'
+  long: "-111.7187"
+  nearby_rate_centers:
+  - name: PLEASATGRV
+    distance_km: 3.5
+  - name: AMERCNFORK
+    distance_km: 7.99
+  - name: CEDAR VLY
+    distance_km: 11.94
+  - name: EAGLE MTN
+    distance_km: 11.94
+  - name: LEHI
+    distance_km: 11.94
+- country: US
+  region: UT
+  name: Loa
+  lat: '38.4037'
+  long: "-111.6454"
+  nearby_rate_centers:
+  - name: LOA
+    distance_km: 0.67
+  - name: BICKNELL
+    distance_km: 10.91
+  - name: KOOSHAREM
+    distance_km: 23.85
+- country: US
+  region: UT
+  name: Logan
+  lat: '41.7399'
+  long: "-111.8422"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 1.09
+  - name: SMITHFIELD
+    distance_km: 10.29
+  - name: HYRUM
+    distance_km: 10.89
+- country: US
+  region: UT
+  name: Lyman
+  lat: '38.3966'
+  long: "-111.5893"
+  nearby_rate_centers:
+  - name: LOA
+    distance_km: 4.47
+  - name: BICKNELL
+    distance_km: 7.13
+  - name: KOOSHAREM
+    distance_km: 28.56
+- country: US
+  region: UT
+  name: Lynndyl
+  lat: '39.5085'
+  long: "-112.3933"
+  nearby_rate_centers:
+  - name: LYNNDYL
+    distance_km: 2.0
+  - name: OAK CITY
+    distance_km: 15.46
+  - name: DELTA
+    distance_km: 23.75
+- country: US
+  region: UT
+  name: Maeser
+  lat: '40.4718'
+  long: "-109.5786"
+  nearby_rate_centers:
+  - name: VERNAL
+    distance_km: 4.7
+  - name: LAPOINT
+    distance_km: 21.26
+  - name: RANDLETT
+    distance_km: 31.49
+- country: US
+  region: UT
+  name: Magna
+  lat: '40.7634'
+  long: "-112.1599"
+  nearby_rate_centers:
+  - name: MAGNA
+    distance_km: 7.44
+  - name: KEARNS
+    distance_km: 16.8
+  - name: SALT LAKE
+    distance_km: 23.38
+- country: US
+  region: UT
+  name: Manila
+  lat: '40.9922'
+  long: "-109.7209"
+  nearby_rate_centers:
+  - name: MANILA
+    distance_km: 0.36
+  - name: GREENDALE
+    distance_km: 24.28
+  - name: DUTCH JOHN
+    distance_km: 28.32
+- country: US
+  region: UT
+  name: Manti
+  lat: '39.2668'
+  long: "-111.6351"
+  nearby_rate_centers:
+  - name: MANTI
+    distance_km: 0.32
+  - name: EPHRAIM
+    distance_km: 11.38
+  - name: GUNNISON
+    distance_km: 20.24
+- country: US
+  region: UT
+  name: Mantua
+  lat: '41.5006'
+  long: "-111.9344"
+  nearby_rate_centers:
+  - name: BRIGHAM CY
+    distance_km: 7.37
+  - name: HYRUM
+    distance_km: 17.16
+  - name: BEARRIV CY
+    distance_km: 21.18
+- country: US
+  region: UT
+  name: Mapleton
+  lat: '40.1188'
+  long: "-111.5742"
+  nearby_rate_centers:
+  - name: SPRINGVL
+    distance_km: 6.41
+  - name: SPANIHFORK
+    distance_km: 7.12
+  - name: SPNSFKCNYN
+    distance_km: 12.01
+- country: US
+  region: UT
+  name: Marion
+  lat: '40.6810'
+  long: "-111.2773"
+  nearby_rate_centers:
+  - name: KAMAS
+    distance_km: 4.42
+  - name: JORDANELLE
+    distance_km: 11.64
+  - name: PARK CITY
+    distance_km: 18.97
+- country: US
+  region: UT
+  name: Marriott-Slaterville
+  lat: '41.2624'
+  long: "-112.0366"
+  nearby_rate_centers:
+  - name: HUNTSVILLE
+    distance_km: 7.29
+  - name: OGDEN
+    distance_km: 7.29
+  - name: CLEARFIELD
+    distance_km: 16.94
+  - name: KAYSVILLE
+    distance_km: 26.68
+- country: US
+  region: UT
+  name: Marysvale
+  lat: '38.4384'
+  long: "-112.2544"
+  nearby_rate_centers:
+  - name: MARYSVALE
+    distance_km: 2.79
+  - name: CIRCLEVL
+    distance_km: 22.78
+  - name: MONROE
+    distance_km: 24.6
+- country: US
+  region: UT
+  name: Mayfield
+  lat: '39.1193'
+  long: "-111.7079"
+  nearby_rate_centers:
+  - name: GUNNISON
+    distance_km: 9.98
+  - name: MANTI
+    distance_km: 17.49
+  - name: SALINA
+    distance_km: 22.7
+- country: US
+  region: UT
+  name: Meadow
+  lat: '38.8863'
+  long: "-112.4073"
+  nearby_rate_centers:
+  - name: MEADOW
+    distance_km: 0.32
+  - name: KANOSH
+    distance_km: 10.02
+  - name: FILLMORE
+    distance_km: 11.57
+- country: US
+  region: UT
+  name: Mendon
+  lat: '41.7102'
+  long: "-111.9776"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 12.29
+  - name: HYRUM
+    distance_km: 12.84
+  - name: TREMONTON
+    distance_km: 16.48
+- country: US
+  region: UT
+  name: Mexican Hat
+  lat: '37.1731'
+  long: "-109.8730"
+  nearby_rate_centers:
+  - name: MEXICANHAT
+    distance_km: 2.63
+  - name: HALCHITA
+    distance_km: 5.0
+  - name: BLUFF
+    distance_km: 30.84
+- country: US
+  region: UT
+  name: Midvale
+  lat: '40.6148'
+  long: "-111.8927"
+  nearby_rate_centers:
+  - name: MIDVALE
+    distance_km: 1.52
+  - name: MURRAY
+    distance_km: 6.07
+  - name: HOLLADAY
+    distance_km: 8.25
+- country: US
+  region: UT
+  name: Midway
+  lat: '40.5183'
+  long: "-111.4746"
+  nearby_rate_centers:
+  - name: HEBER CITY
+    distance_km: 4.98
+  - name: PARK CITY
+    distance_km: 14.96
+  - name: ALTA
+    distance_km: 16.14
+- country: US
+  region: UT
+  name: Milford
+  lat: '38.3945'
+  long: "-113.0123"
+  nearby_rate_centers:
+  - name: MILFORD
+    distance_km: 0.37
+  - name: MINERSVL
+    distance_km: 21.03
+  - name: BEAVER
+    distance_km: 34.86
+- country: US
+  region: UT
+  name: Millcreek
+  lat: '40.6892'
+  long: "-111.8292"
+  nearby_rate_centers:
+  - name: HOLLADAY
+    distance_km: 4.55
+  - name: MURRAY
+    distance_km: 5.09
+  - name: SALT LAKE
+    distance_km: 8.88
+- country: US
+  region: UT
+  name: Millville
+  lat: '41.6850'
+  long: "-111.8211"
+  nearby_rate_centers:
+  - name: HYRUM
+    distance_km: 5.42
+  - name: LOGAN
+    distance_km: 5.44
+  - name: SMITHFIELD
+    distance_km: 16.43
+- country: US
+  region: UT
+  name: Minersville
+  lat: '38.2333'
+  long: "-112.9602"
+  nearby_rate_centers:
+  - name: MINERSVL
+    distance_km: 3.41
+  - name: MILFORD
+    distance_km: 18.12
+  - name: BEAVER
+    distance_km: 28.05
+- country: US
+  region: UT
+  name: Moab
+  lat: '38.5701'
+  long: "-109.5478"
+  nearby_rate_centers:
+  - name: MOAB
+    distance_km: 0.47
+  - name: LA SAL
+    distance_km: 39.26
+  - name: THOMPSON
+    distance_km: 46.26
+- country: US
+  region: UT
+  name: Modena
+  lat: '37.7947'
+  long: "-113.9275"
+  nearby_rate_centers:
+  - name: BERYL
+    distance_km: 26.76
+  - name: ENTERPRISE
+    distance_km: 31.25
+  - name: CEDAR CITY
+    distance_km: 76.46
+- country: US
+  region: UT
+  name: Mona
+  lat: '39.8121'
+  long: "-111.8495"
+  nearby_rate_centers:
+  - name: NEPHI
+    distance_km: 11.5
+  - name: GOSHEN
+    distance_km: 16.06
+  - name: PAYSON
+    distance_km: 27.21
+- country: US
+  region: UT
+  name: Monroe
+  lat: '38.6230'
+  long: "-112.1196"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 1.09
+  - name: RICHFIELD
+    distance_km: 16.41
+  - name: MARYSVALE
+    distance_km: 21.47
+- country: US
+  region: UT
+  name: Montezuma Creek
+  lat: '37.2563'
+  long: "-109.3030"
+  nearby_rate_centers:
+  - name: MNZMCRANTH
+    distance_km: 0.56
+  - name: BLUFF
+    distance_km: 22.3
+  - name: BLANDING
+    distance_km: 44.14
+- country: US
+  region: UT
+  name: Monticello
+  lat: '37.8683'
+  long: "-109.3380"
+  nearby_rate_centers:
+  - name: MONTICELLO
+    distance_km: 0.44
+  - name: BLANDING
+    distance_km: 29.94
+  - name: LA SAL
+    distance_km: 49.78
+- country: US
+  region: UT
+  name: Morgan
+  lat: '41.0414'
+  long: "-111.6802"
+  nearby_rate_centers:
+  - name: MORGAN
+    distance_km: 0.26
+  - name: FARMINGTON
+    distance_km: 18.36
+  - name: KAYSVILLE
+    distance_km: 21.25
+- country: US
+  region: UT
+  name: Moroni
+  lat: '39.5270'
+  long: "-111.5830"
+  nearby_rate_centers:
+  - name: MORONI
+    distance_km: 0.26
+  - name: MTPLEASANT
+    distance_km: 11.49
+  - name: FOUNTAGREN
+    distance_km: 11.51
+- country: US
+  region: UT
+  name: Mount Pleasant
+  lat: '39.5406'
+  long: "-111.4560"
+  nearby_rate_centers:
+  - name: MTPLEASANT
+    distance_km: 1.09
+  - name: FAIRVIEW
+    distance_km: 9.78
+  - name: MORONI
+    distance_km: 10.88
+- country: US
+  region: UT
+  name: Mountain Green
+  lat: '41.1476'
+  long: "-111.7901"
+  nearby_rate_centers:
+  - name: MORGAN
+    distance_km: 14.84
+  - name: HUNTSVILLE
+    distance_km: 17.0
+  - name: OGDEN
+    distance_km: 17.0
+  - name: KAYSVILLE
+    distance_km: 17.32
+- country: US
+  region: UT
+  name: Murray
+  lat: '40.6498'
+  long: "-111.8874"
+  nearby_rate_centers:
+  - name: MURRAY
+    distance_km: 2.15
+  - name: MIDVALE
+    distance_km: 4.14
+  - name: HOLLADAY
+    distance_km: 6.71
+- country: US
+  region: UT
+  name: Myton
+  lat: '40.1933'
+  long: "-110.0624"
+  nearby_rate_centers:
+  - name: FLATTOP
+    distance_km: 4.69
+  - name: ROOSEVELT
+    distance_km: 13.25
+  - name: RANDLETT
+    distance_km: 24.85
+- country: US
+  region: UT
+  name: Naples
+  lat: '40.4317'
+  long: "-109.4913"
+  nearby_rate_centers:
+  - name: VERNAL
+    distance_km: 3.93
+  - name: LAPOINT
+    distance_km: 27.61
+  - name: RANDLETT
+    distance_km: 32.75
+- country: US
+  region: UT
+  name: Navajo Mountain
+  lat: '37.0470'
+  long: "-110.7900"
+  nearby_rate_centers:
+  - name: DNGLNG RPE
+    distance_km: 28.61
+  - name: MONUMNTVLY
+    distance_km: 52.03
+  - name: LAKEPOWELL
+    distance_km: 55.8
+- country: US
+  region: UT
+  name: Neola
+  lat: '40.4343'
+  long: "-110.0309"
+  nearby_rate_centers:
+  - name: NEOLA
+    distance_km: 1.52
+  - name: ROOSEVELT
+    distance_km: 15.28
+  - name: LAPOINT
+    distance_km: 18.39
+- country: US
+  region: UT
+  name: Nephi
+  lat: '39.7069'
+  long: "-111.8326"
+  nearby_rate_centers:
+  - name: NEPHI
+    distance_km: 0.28
+  - name: FOUNTAGREN
+    distance_km: 19.53
+  - name: GOSHEN
+    distance_km: 27.7
+- country: US
+  region: UT
+  name: New Harmony
+  lat: '37.4803'
+  long: "-113.3096"
+  nearby_rate_centers:
+  - name: CEDAR CITY
+    distance_km: 30.85
+  - name: HURRICANE
+    distance_km: 34.32
+  - name: ENTERPRISE
+    distance_km: 37.38
+- country: US
+  region: UT
+  name: Newcastle
+  lat: '37.6628'
+  long: "-113.5644"
+  nearby_rate_centers:
+  - name: BERYL
+    distance_km: 9.01
+  - name: ENTERPRISE
+    distance_km: 17.29
+  - name: CEDAR CITY
+    distance_km: 43.59
+- country: US
+  region: UT
+  name: Newton
+  lat: '41.8612'
+  long: "-111.9909"
+  nearby_rate_centers:
+  - name: FIELDING
+    distance_km: 11.95
+  - name: SMITHFIELD
+    distance_km: 13.27
+  - name: RICHMOND
+    distance_km: 16.78
+- country: US
+  region: UT
+  name: Nibley
+  lat: '41.6726'
+  long: "-111.8461"
+  nearby_rate_centers:
+  - name: HYRUM
+    distance_km: 3.41
+  - name: LOGAN
+    distance_km: 6.82
+  - name: SMITHFIELD
+    distance_km: 17.78
+- country: US
+  region: UT
+  name: North Logan
+  lat: '41.7759'
+  long: "-111.8066"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 5.23
+  - name: SMITHFIELD
+    distance_km: 6.72
+  - name: HYRUM
+    distance_km: 15.34
+- country: US
+  region: UT
+  name: North Ogden
+  lat: '41.3123'
+  long: "-111.9584"
+  nearby_rate_centers:
+  - name: HUNTSVILLE
+    distance_km: 9.9
+  - name: OGDEN
+    distance_km: 9.9
+  - name: BRIGHAM CY
+    distance_km: 22.6
+  - name: CLEARFIELD
+    distance_km: 23.11
+- country: US
+  region: UT
+  name: North Salt Lake
+  lat: '40.8439'
+  long: "-111.9187"
+  nearby_rate_centers:
+  - name: BOUNTIFUL
+    distance_km: 5.97
+  - name: SALT LAKE
+    distance_km: 10.01
+  - name: FARMINGTON
+    distance_km: 15.9
+- country: US
+  region: UT
+  name: Oak City
+  lat: '39.3761'
+  long: "-112.3390"
+  nearby_rate_centers:
+  - name: OAK CITY
+    distance_km: 0.08
+  - name: LYNNDYL
+    distance_km: 16.01
+  - name: DELTA
+    distance_km: 20.7
+- country: US
+  region: UT
+  name: Oakley
+  lat: '40.7257'
+  long: "-111.2788"
+  nearby_rate_centers:
+  - name: KAMAS
+    distance_km: 9.39
+  - name: JORDANELLE
+    distance_km: 13.62
+  - name: PARK CITY
+    distance_km: 20.3
+- country: US
+  region: UT
+  name: Oasis
+  lat: '39.2923'
+  long: "-112.6290"
+  nearby_rate_centers:
+  - name: DELTA
+    distance_km: 7.72
+  - name: OAK CITY
+    distance_km: 26.54
+  - name: LYNNDYL
+    distance_km: 33.33
+- country: US
+  region: UT
+  name: Ogden
+  lat: '41.2279'
+  long: "-111.9682"
+  nearby_rate_centers:
+  - name: HUNTSVILLE
+    distance_km: 0.51
+  - name: OGDEN
+    distance_km: 0.51
+  - name: CLEARFIELD
+    distance_km: 13.87
+  - name: KAYSVILLE
+    distance_km: 21.61
+- country: US
+  region: UT
+  name: Oljato-Monument Valley
+  lat: '37.0309'
+  long: "-110.2512"
+  nearby_rate_centers:
+  - name: MONUMNTVLY
+    distance_km: 4.78
+  - name: HALCHITA
+    distance_km: 33.45
+  - name: MEXICANHAT
+    distance_km: 36.58
+- country: US
+  region: UT
+  name: Ophir
+  lat: '40.3716'
+  long: "-112.2507"
+  nearby_rate_centers:
+  - name: RUSHVALLEY
+    distance_km: 18.23
+  - name: TOOELE
+    distance_km: 18.56
+  - name: CEDAR VLY
+    distance_km: 34.2
+  - name: EAGLE MTN
+    distance_km: 34.2
+  - name: LEHI
+    distance_km: 34.2
+- country: US
+  region: UT
+  name: Orangeville
+  lat: '39.2309'
+  long: "-111.0592"
+  nearby_rate_centers:
+  - name: CASTLEDALE
+    distance_km: 3.52
+  - name: HUNTINGTON
+    distance_km: 12.97
+  - name: FERRON
+    distance_km: 16.71
+- country: US
+  region: UT
+  name: Orderville
+  lat: '37.2540'
+  long: "-112.6574"
+  nearby_rate_centers:
+  - name: ORDERVILLE
+    distance_km: 2.88
+  - name: HILDALE
+    distance_km: 24.47
+  - name: KANAB
+    distance_km: 25.05
+- country: US
+  region: UT
+  name: Orem
+  lat: '40.2981'
+  long: "-111.6994"
+  nearby_rate_centers:
+  - name: PROVO
+    distance_km: 7.67
+  - name: PLEASATGRV
+    distance_km: 8.51
+  - name: AMERCNFORK
+    distance_km: 12.29
+- country: US
+  region: UT
+  name: Palmyra
+  lat: '40.1346'
+  long: "-111.6925"
+  nearby_rate_centers:
+  - name: SPANIHFORK
+    distance_km: 4.22
+  - name: SPRINGVL
+    distance_km: 7.5
+  - name: PAYSON
+    distance_km: 11.08
+- country: US
+  region: UT
+  name: Panguitch
+  lat: '37.8236'
+  long: "-112.4342"
+  nearby_rate_centers:
+  - name: HATCH
+    distance_km: 0.5
+  - name: PANGUITCH
+    distance_km: 0.5
+  - name: BRYCECNYON
+    distance_km: 32.86
+  - name: PAROWAN
+    distance_km: 35.0
+- country: US
+  region: UT
+  name: Paradise
+  lat: '41.5683'
+  long: "-111.8334"
+  nearby_rate_centers:
+  - name: HYRUM
+    distance_km: 8.38
+  - name: BRIGHAM CY
+    distance_km: 16.99
+  - name: LOGAN
+    distance_km: 18.33
+- country: US
+  region: UT
+  name: Paragonah
+  lat: '37.8853'
+  long: "-112.7707"
+  nearby_rate_centers:
+  - name: PAROWAN
+    distance_km: 7.35
+  - name: BRIAN HEAD
+    distance_km: 21.97
+  - name: HATCH
+    distance_km: 29.85
+  - name: PANGUITCH
+    distance_km: 29.85
+- country: US
+  region: UT
+  name: Park City
+  lat: '40.6502'
+  long: "-111.5013"
+  nearby_rate_centers:
+  - name: PARK CITY
+    distance_km: 0.25
+  - name: JORDANELLE
+    distance_km: 7.63
+  - name: ALTA
+    distance_km: 13.46
+- country: US
+  region: UT
+  name: Parowan
+  lat: '37.8326'
+  long: "-112.8296"
+  nearby_rate_centers:
+  - name: PAROWAN
+    distance_km: 0.89
+  - name: BRIAN HEAD
+    distance_km: 15.14
+  - name: CEDAR CITY
+    distance_km: 26.92
+- country: US
+  region: UT
+  name: Payson
+  lat: '40.0355'
+  long: "-111.7390"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 0.88
+  - name: SPANIHFORK
+    distance_km: 10.7
+  - name: GOSHEN
+    distance_km: 17.53
+- country: US
+  region: UT
+  name: Peoa
+  lat: '40.7295'
+  long: "-111.3434"
+  nearby_rate_centers:
+  - name: JORDANELLE
+    distance_km: 10.01
+  - name: KAMAS
+    distance_km: 11.46
+  - name: PARK CITY
+    distance_km: 15.71
+- country: US
+  region: UT
+  name: Perry
+  lat: '41.4648'
+  long: "-112.0401"
+  nearby_rate_centers:
+  - name: BRIGHAM CY
+    distance_km: 5.23
+  - name: BEARRIV CY
+    distance_km: 18.73
+  - name: HYRUM
+    distance_km: 25.16
+- country: US
+  region: UT
+  name: Peter
+  lat: '41.7716'
+  long: "-111.9859"
+  nearby_rate_centers:
+  - name: FIELDING
+    distance_km: 12.42
+  - name: LOGAN
+    distance_km: 13.41
+  - name: SMITHFIELD
+    distance_km: 14.18
+- country: US
+  region: UT
+  name: Pine Valley
+  lat: '37.3904'
+  long: "-113.5061"
+  nearby_rate_centers:
+  - name: ENTERPRISE
+    distance_km: 27.19
+  - name: HURRICANE
+    distance_km: 31.35
+  - name: LEEDS
+    distance_km: 32.01
+  - name: ST GEORGE
+    distance_km: 32.01
+  - name: VEYO
+    distance_km: 32.01
+- country: US
+  region: UT
+  name: Plain City
+  lat: '41.3071'
+  long: "-112.0877"
+  nearby_rate_centers:
+  - name: HUNTSVILLE
+    distance_km: 13.75
+  - name: OGDEN
+    distance_km: 13.75
+  - name: CLEARFIELD
+    distance_km: 22.52
+  - name: BRIGHAM CY
+    distance_km: 23.2
+- country: US
+  region: UT
+  name: Pleasant Grove
+  lat: '40.3716'
+  long: "-111.7412"
+  nearby_rate_centers:
+  - name: PLEASATGRV
+    distance_km: 0.46
+  - name: AMERCNFORK
+    distance_km: 5.05
+  - name: CEDAR VLY
+    distance_km: 9.12
+  - name: EAGLE MTN
+    distance_km: 9.12
+  - name: LEHI
+    distance_km: 9.12
+- country: US
+  region: UT
+  name: Pleasant View
+  lat: '41.3249'
+  long: "-112.0011"
+  nearby_rate_centers:
+  - name: HUNTSVILLE
+    distance_km: 11.65
+  - name: OGDEN
+    distance_km: 11.65
+  - name: BRIGHAM CY
+    distance_km: 20.64
+  - name: CLEARFIELD
+    distance_km: 23.93
+- country: US
+  region: UT
+  name: Plymouth
+  lat: '41.8734'
+  long: "-112.1454"
+  nearby_rate_centers:
+  - name: FIELDING
+    distance_km: 6.51
+  - name: PORTAGE
+    distance_km: 13.61
+  - name: TREMONTON
+    distance_km: 17.48
+- country: US
+  region: UT
+  name: Portage
+  lat: '41.9756'
+  long: "-112.2405"
+  nearby_rate_centers:
+  - name: PORTAGE
+    distance_km: 0.47
+  - name: FIELDING
+    distance_km: 20.12
+  - name: HOWELL
+    distance_km: 25.9
+- country: US
+  region: UT
+  name: Price
+  lat: '39.6040'
+  long: "-110.8003"
+  nearby_rate_centers:
+  - name: PRICE
+    distance_km: 0.82
+  - name: HELPER
+    distance_km: 10.0
+  - name: CLEVELAND
+    distance_km: 29.7
+- country: US
+  region: UT
+  name: Providence
+  lat: '41.7035'
+  long: "-111.8123"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 3.7
+  - name: HYRUM
+    distance_km: 7.59
+  - name: SMITHFIELD
+    distance_km: 14.45
+- country: US
+  region: UT
+  name: Provo
+  lat: '40.2457'
+  long: "-111.6457"
+  nearby_rate_centers:
+  - name: PROVO
+    distance_km: 2.49
+  - name: SPRINGVL
+    distance_km: 9.11
+  - name: SPANIHFORK
+    distance_km: 15.31
+- country: US
+  region: UT
+  name: Randlett
+  lat: '40.2267'
+  long: "-109.8308"
+  nearby_rate_centers:
+  - name: RANDLETT
+    distance_km: 4.85
+  - name: ROOSEVELT
+    distance_km: 15.99
+  - name: LAPOINT
+    distance_km: 20.35
+- country: US
+  region: UT
+  name: Randolph
+  lat: '41.6655'
+  long: "-111.1846"
+  nearby_rate_centers:
+  - name: RANDOLPH
+    distance_km: 0.43
+  - name: GARDENCITY
+    distance_km: 35.82
+  - name: WASATCH
+    distance_km: 51.28
+- country: US
+  region: UT
+  name: Redmond
+  lat: '39.0057'
+  long: "-111.8670"
+  nearby_rate_centers:
+  - name: SALINA
+    distance_km: 6.25
+  - name: GUNNISON
+    distance_km: 16.72
+  - name: RICHFIELD
+    distance_km: 32.34
+- country: US
+  region: UT
+  name: Richfield
+  lat: '38.7613'
+  long: "-112.0931"
+  nearby_rate_centers:
+  - name: RICHFIELD
+    distance_km: 1.22
+  - name: MONROE
+    distance_km: 14.47
+  - name: SALINA
+    distance_km: 29.42
+- country: US
+  region: UT
+  name: Richmond
+  lat: '41.9231'
+  long: "-111.8076"
+  nearby_rate_centers:
+  - name: RICHMOND
+    distance_km: 0.4
+  - name: SMITHFIELD
+    distance_km: 10.35
+  - name: LOGAN
+    distance_km: 21.23
+- country: US
+  region: UT
+  name: River Heights
+  lat: '41.7221'
+  long: "-111.8193"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 1.66
+  - name: HYRUM
+    distance_km: 9.3
+  - name: SMITHFIELD
+    distance_km: 12.33
+- country: US
+  region: UT
+  name: Riverdale
+  lat: '41.1732'
+  long: "-112.0023"
+  nearby_rate_centers:
+  - name: HUNTSVILLE
+    distance_km: 6.34
+  - name: OGDEN
+    distance_km: 6.34
+  - name: CLEARFIELD
+    distance_km: 7.21
+  - name: KAYSVILLE
+    distance_km: 16.38
+- country: US
+  region: UT
+  name: Riverside
+  lat: '41.8106'
+  long: "-112.1403"
+  nearby_rate_centers:
+  - name: FIELDING
+    distance_km: 1.65
+  - name: TREMONTON
+    distance_km: 10.73
+  - name: THATCHER
+    distance_km: 18.92
+- country: US
+  region: UT
+  name: Riverton
+  lat: '40.5176'
+  long: "-111.9636"
+  nearby_rate_centers:
+  - name: MIDVALE
+    distance_km: 11.92
+  - name: KEARNS
+    distance_km: 16.91
+  - name: CEDAR VLY
+    distance_km: 17.7
+  - name: EAGLE MTN
+    distance_km: 17.7
+  - name: LEHI
+    distance_km: 17.7
+- country: US
+  region: UT
+  name: Rockville
+  lat: '37.1478'
+  long: "-113.0548"
+  nearby_rate_centers:
+  - name: SPRINGDALE
+    distance_km: 6.86
+  - name: APPLE VLLY
+    distance_km: 7.05
+  - name: HILDALE
+    distance_km: 13.06
+- country: US
+  region: UT
+  name: Rocky Ridge
+  lat: '39.9197'
+  long: "-111.8258"
+  nearby_rate_centers:
+  - name: GOSHEN
+    distance_km: 7.93
+  - name: PAYSON
+    distance_km: 15.4
+  - name: NEPHI
+    distance_km: 23.38
+- country: US
+  region: UT
+  name: Roosevelt
+  lat: '40.2924'
+  long: "-110.0093"
+  nearby_rate_centers:
+  - name: ROOSEVELT
+    distance_km: 1.63
+  - name: FLATTOP
+    distance_km: 11.3
+  - name: NEOLA
+    distance_km: 15.49
+- country: US
+  region: UT
+  name: Roy
+  lat: '41.1714'
+  long: "-112.0485"
+  nearby_rate_centers:
+  - name: CLEARFIELD
+    distance_km: 7.1
+  - name: HUNTSVILLE
+    distance_km: 8.97
+  - name: OGDEN
+    distance_km: 8.97
+  - name: KAYSVILLE
+    distance_km: 17.94
+- country: US
+  region: UT
+  name: Rush Valley
+  lat: '40.3613'
+  long: "-112.4506"
+  nearby_rate_centers:
+  - name: RUSHVALLEY
+    distance_km: 3.49
+  - name: TOOELE
+    distance_km: 23.22
+  - name: VERNON
+    distance_km: 29.19
+- country: US
+  region: UT
+  name: Salem
+  lat: '40.0539'
+  long: "-111.6718"
+  nearby_rate_centers:
+  - name: SPANIHFORK
+    distance_km: 6.18
+  - name: PAYSON
+    distance_km: 6.19
+  - name: SPRINGVL
+    distance_km: 13.48
+- country: US
+  region: UT
+  name: Salina
+  lat: '38.9387'
+  long: "-111.8652"
+  nearby_rate_centers:
+  - name: SALINA
+    distance_km: 1.54
+  - name: GUNNISON
+    distance_km: 23.96
+  - name: RICHFIELD
+    distance_km: 26.7
+- country: US
+  region: UT
+  name: Salt Lake City
+  lat: '40.7776'
+  long: "-111.9311"
+  nearby_rate_centers:
+  - name: SALT LAKE
+    distance_km: 4.64
+  - name: MURRAY
+    distance_km: 12.74
+  - name: BOUNTIFUL
+    distance_km: 13.15
+- country: US
+  region: UT
+  name: Samak
+  lat: '40.6389'
+  long: "-111.2413"
+  nearby_rate_centers:
+  - name: KAMAS
+    distance_km: 2.69
+  - name: JORDANELLE
+    distance_km: 14.45
+  - name: TIMBERLAKE
+    distance_km: 16.69
+- country: US
+  region: UT
+  name: Sandy
+  lat: '40.5709'
+  long: "-111.8506"
+  nearby_rate_centers:
+  - name: MIDVALE
+    distance_km: 7.19
+  - name: HOLLADAY
+    distance_km: 9.68
+  - name: MURRAY
+    distance_km: 11.24
+- country: US
+  region: UT
+  name: Santa Clara
+  lat: '37.1312'
+  long: "-113.6560"
+  nearby_rate_centers:
+  - name: LEEDS
+    distance_km: 6.77
+  - name: ST GEORGE
+    distance_km: 6.77
+  - name: VEYO
+    distance_km: 6.77
+  - name: HURRICANE
+    distance_km: 33.53
+  - name: APPLE VLLY
+    distance_km: 47.06
+- country: US
+  region: UT
+  name: Santaquin
+  lat: '39.9708'
+  long: "-111.7941"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 9.11
+  - name: GOSHEN
+    distance_km: 10.24
+  - name: SPANIHFORK
+    distance_km: 19.24
+- country: US
+  region: UT
+  name: Saratoga Springs
+  lat: '40.3450'
+  long: "-111.9154"
+  nearby_rate_centers:
+  - name: CEDAR VLY
+    distance_km: 7.3
+  - name: EAGLE MTN
+    distance_km: 7.3
+  - name: LEHI
+    distance_km: 7.3
+  - name: AMERCNFORK
+    distance_km: 10.39
+  - name: PLEASATGRV
+    distance_km: 14.93
+- country: US
+  region: UT
+  name: Scipio
+  lat: '39.2490'
+  long: "-112.1045"
+  nearby_rate_centers:
+  - name: SCIPIO
+    distance_km: 0.98
+  - name: HOLDEN
+    distance_km: 22.11
+  - name: OAK CITY
+    distance_km: 24.67
+- country: US
+  region: UT
+  name: Scofield
+  lat: '39.7198'
+  long: "-111.1623"
+  nearby_rate_centers:
+  - name: SCOFIELD
+    distance_km: 0.71
+  - name: FAIRVIEW
+    distance_km: 25.17
+  - name: SOLDER SMT
+    distance_km: 25.78
+- country: US
+  region: UT
+  name: Sigurd
+  lat: '38.8494'
+  long: "-111.9680"
+  nearby_rate_centers:
+  - name: RICHFIELD
+    distance_km: 13.4
+  - name: SALINA
+    distance_km: 14.86
+  - name: MONROE
+    distance_km: 27.43
+- country: US
+  region: UT
+  name: Silver Summit
+  lat: '40.7489'
+  long: "-111.5140"
+  nearby_rate_centers:
+  - name: PARK CITY
+    distance_km: 10.9
+  - name: JORDANELLE
+    distance_km: 13.53
+  - name: ALTA
+    distance_km: 20.57
+- country: US
+  region: UT
+  name: Smithfield
+  lat: '41.8349'
+  long: "-111.8265"
+  nearby_rate_centers:
+  - name: SMITHFIELD
+    distance_km: 0.8
+  - name: RICHMOND
+    distance_km: 10.32
+  - name: LOGAN
+    distance_km: 11.33
+- country: US
+  region: UT
+  name: Snowville
+  lat: '41.9728'
+  long: "-112.7164"
+  nearby_rate_centers:
+  - name: SNOWVILLE
+    distance_km: 0.69
+  - name: HOWELL
+    distance_km: 29.93
+  - name: PORTAGE
+    distance_km: 39.81
+- country: US
+  region: UT
+  name: Snyderville
+  lat: '40.7041'
+  long: "-111.5434"
+  nearby_rate_centers:
+  - name: PARK CITY
+    distance_km: 6.94
+  - name: JORDANELLE
+    distance_km: 12.39
+  - name: ALTA
+    distance_km: 15.03
+- country: US
+  region: UT
+  name: South Jordan
+  lat: '40.5570'
+  long: "-111.9784"
+  nearby_rate_centers:
+  - name: MIDVALE
+    distance_km: 8.79
+  - name: KEARNS
+    distance_km: 12.36
+  - name: MURRAY
+    distance_km: 14.81
+- country: US
+  region: UT
+  name: South Ogden
+  lat: '41.1722'
+  long: "-111.9576"
+  nearby_rate_centers:
+  - name: HUNTSVILLE
+    distance_km: 5.75
+  - name: OGDEN
+    distance_km: 5.75
+  - name: CLEARFIELD
+    distance_km: 8.82
+  - name: KAYSVILLE
+    distance_km: 15.35
+- country: US
+  region: UT
+  name: South Salt Lake
+  lat: '40.7057'
+  long: "-111.8986"
+  nearby_rate_centers:
+  - name: MURRAY
+    distance_km: 4.29
+  - name: SALT LAKE
+    distance_km: 5.99
+  - name: HOLLADAY
+    distance_km: 9.73
+- country: US
+  region: UT
+  name: South Weber
+  lat: '41.1334'
+  long: "-111.9393"
+  nearby_rate_centers:
+  - name: CLEARFIELD
+    distance_km: 7.51
+  - name: HUNTSVILLE
+    distance_km: 10.27
+  - name: OGDEN
+    distance_km: 10.27
+  - name: KAYSVILLE
+    distance_km: 10.91
+- country: US
+  region: UT
+  name: South Willard
+  lat: '41.3583'
+  long: "-112.0408"
+  nearby_rate_centers:
+  - name: HUNTSVILLE
+    distance_km: 16.23
+  - name: OGDEN
+    distance_km: 16.23
+  - name: BRIGHAM CY
+    distance_km: 16.93
+  - name: CLEARFIELD
+    distance_km: 27.6
+- country: US
+  region: UT
+  name: Spanish Fork
+  lat: '40.1101'
+  long: "-111.6405"
+  nearby_rate_centers:
+  - name: SPANIHFORK
+    distance_km: 1.4
+  - name: SPRINGVL
+    distance_km: 6.7
+  - name: PAYSON
+    distance_km: 11.5
+- country: US
+  region: UT
+  name: Spanish Valley
+  lat: '38.4743'
+  long: "-109.4210"
+  nearby_rate_centers:
+  - name: MOAB
+    distance_km: 15.4
+  - name: LA SAL
+    distance_km: 23.97
+  - name: THOMPSON
+    distance_km: 60.2
+- country: US
+  region: UT
+  name: Spring City
+  lat: '39.4799'
+  long: "-111.4918"
+  nearby_rate_centers:
+  - name: MTPLEASANT
+    distance_km: 8.49
+  - name: MORONI
+    distance_km: 9.17
+  - name: EPHRAIM
+    distance_km: 15.36
+- country: US
+  region: UT
+  name: Spring Glen
+  lat: '39.6561'
+  long: "-110.8461"
+  nearby_rate_centers:
+  - name: HELPER
+    distance_km: 3.23
+  - name: PRICE
+    distance_km: 6.82
+  - name: SCOFIELD
+    distance_km: 27.69
+- country: US
+  region: UT
+  name: Spring Lake
+  lat: '40.0060'
+  long: "-111.7503"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 4.14
+  - name: SPANIHFORK
+    distance_km: 13.88
+  - name: GOSHEN
+    distance_km: 15.09
+- country: US
+  region: UT
+  name: Springdale
+  lat: '37.1816'
+  long: "-113.0049"
+  nearby_rate_centers:
+  - name: SPRINGDALE
+    distance_km: 1.19
+  - name: HILDALE
+    distance_km: 8.81
+  - name: APPLE VLLY
+    distance_km: 12.78
+- country: US
+  region: UT
+  name: Springville
+  lat: '40.1638'
+  long: "-111.6205"
+  nearby_rate_centers:
+  - name: SPRINGVL
+    distance_km: 0.58
+  - name: SPANIHFORK
+    distance_km: 6.9
+  - name: PROVO
+    distance_km: 8.76
+- country: US
+  region: UT
+  name: St. George
+  lat: '37.0758'
+  long: "-113.5752"
+  nearby_rate_centers:
+  - name: LEEDS
+    distance_km: 3.83
+  - name: ST GEORGE
+    distance_km: 3.83
+  - name: VEYO
+    distance_km: 3.83
+  - name: HURRICANE
+    distance_km: 28.2
+  - name: APPLE VLLY
+    distance_km: 40.17
+- country: US
+  region: UT
+  name: Stansbury Park
+  lat: '40.6356'
+  long: "-112.3054"
+  nearby_rate_centers:
+  - name: TOOELE
+    distance_km: 11.25
+  - name: MAGNA
+    distance_km: 18.74
+  - name: KEARNS
+    distance_km: 25.34
+- country: US
+  region: UT
+  name: Sterling
+  lat: '39.1934'
+  long: "-111.6904"
+  nearby_rate_centers:
+  - name: MANTI
+    distance_km: 9.43
+  - name: GUNNISON
+    distance_km: 11.83
+  - name: EPHRAIM
+    distance_km: 20.8
+- country: US
+  region: UT
+  name: Stockton
+  lat: '40.4496'
+  long: "-112.3672"
+  nearby_rate_centers:
+  - name: TOOELE
+    distance_km: 11.14
+  - name: RUSHVALLEY
+    distance_km: 15.35
+  - name: MAGNA
+    distance_km: 36.42
+- country: US
+  region: UT
+  name: Summit
+  lat: '37.8013'
+  long: "-112.9350"
+  nearby_rate_centers:
+  - name: PAROWAN
+    distance_km: 10.02
+  - name: BRIAN HEAD
+    distance_km: 13.92
+  - name: CEDAR CITY
+    distance_km: 17.75
+- country: US
+  region: UT
+  name: Summit Park
+  lat: '40.7423'
+  long: "-111.5872"
+  nearby_rate_centers:
+  - name: PARK CITY
+    distance_km: 12.54
+  - name: ALTA
+    distance_km: 17.45
+  - name: JORDANELLE
+    distance_km: 17.7
+- country: US
+  region: UT
+  name: Sundance
+  lat: '40.3937'
+  long: "-111.5913"
+  nearby_rate_centers:
+  - name: PLEASATGRV
+    distance_km: 13.07
+  - name: AMERCNFORK
+    distance_km: 17.8
+  - name: PROVO
+    distance_km: 19.07
+- country: US
+  region: UT
+  name: Sunset
+  lat: '41.1392'
+  long: "-112.0285"
+  nearby_rate_centers:
+  - name: CLEARFIELD
+    distance_km: 3.23
+  - name: HUNTSVILLE
+    distance_km: 10.71
+  - name: OGDEN
+    distance_km: 10.71
+  - name: KAYSVILLE
+    distance_km: 14.03
+- country: US
+  region: UT
+  name: Sutherland
+  lat: '39.3896'
+  long: "-112.6399"
+  nearby_rate_centers:
+  - name: DELTA
+    distance_km: 7.02
+  - name: OAK CITY
+    distance_km: 25.83
+  - name: LYNNDYL
+    distance_km: 26.96
+- country: US
+  region: UT
+  name: Syracuse
+  lat: '41.0859'
+  long: "-112.0698"
+  nearby_rate_centers:
+  - name: CLEARFIELD
+    distance_km: 4.73
+  - name: KAYSVILLE
+    distance_km: 12.74
+  - name: HUNTSVILLE
+    distance_km: 17.57
+  - name: OGDEN
+    distance_km: 17.57
+- country: US
+  region: UT
+  name: Tabiona
+  lat: '40.3544'
+  long: "-110.7096"
+  nearby_rate_centers:
+  - name: TABIONA
+    distance_km: 0.43
+  - name: FRUITLAND
+    distance_km: 18.2
+  - name: DUCHESNE
+    distance_km: 33.71
+- country: US
+  region: UT
+  name: Taylorsville
+  lat: '40.6569'
+  long: "-111.9493"
+  nearby_rate_centers:
+  - name: KEARNS
+    distance_km: 5.02
+  - name: MIDVALE
+    distance_km: 5.52
+  - name: MURRAY
+    distance_km: 5.73
+- country: US
+  region: UT
+  name: Teasdale
+  lat: '38.2851'
+  long: "-111.4724"
+  nearby_rate_centers:
+  - name: BICKNELL
+    distance_km: 9.14
+  - name: LOA
+    distance_km: 19.38
+  - name: CAINEVILLE
+    distance_km: 39.81
+- country: US
+  region: UT
+  name: Thatcher
+  lat: '41.6815'
+  long: "-112.3201"
+  nearby_rate_centers:
+  - name: THATCHER
+    distance_km: 1.8
+  - name: TREMONTON
+    distance_km: 12.63
+  - name: HOWELL
+    distance_km: 16.4
+- country: US
+  region: UT
+  name: Thompson Springs
+  lat: '38.9636'
+  long: "-109.7037"
+  nearby_rate_centers:
+  - name: THOMPSON
+    distance_km: 0.64
+  - name: GREENRIVER
+    distance_km: 39.33
+  - name: MOAB
+    distance_km: 45.52
+- country: US
+  region: UT
+  name: Timber Lakes
+  lat: '40.4733'
+  long: "-111.2533"
+  nearby_rate_centers:
+  - name: TIMBERLAKE
+    distance_km: 3.51
+  - name: HEBER CITY
+    distance_km: 14.42
+  - name: KAMAS
+    distance_km: 18.76
+- country: US
+  region: UT
+  name: Tooele
+  lat: '40.5393'
+  long: "-112.3082"
+  nearby_rate_centers:
+  - name: TOOELE
+    distance_km: 1.04
+  - name: MAGNA
+    distance_km: 25.54
+  - name: RUSHVALLEY
+    distance_km: 26.49
+- country: US
+  region: UT
+  name: Toquerville
+  lat: '37.2666'
+  long: "-113.2951"
+  nearby_rate_centers:
+  - name: HURRICANE
+    distance_km: 10.54
+  - name: APPLE VLLY
+    distance_km: 22.29
+  - name: SPRINGDALE
+    distance_km: 27.39
+- country: US
+  region: UT
+  name: Torrey
+  lat: '38.3078'
+  long: "-111.4269"
+  nearby_rate_centers:
+  - name: BICKNELL
+    distance_km: 11.31
+  - name: LOA
+    distance_km: 21.21
+  - name: CAINEVILLE
+    distance_km: 35.6
+- country: US
+  region: UT
+  name: Tremonton
+  lat: '41.7187'
+  long: "-112.1890"
+  nearby_rate_centers:
+  - name: TREMONTON
+    distance_km: 1.09
+  - name: THATCHER
+    distance_km: 9.92
+  - name: BEARRIV CY
+    distance_km: 12.11
+- country: US
+  region: UT
+  name: Trenton
+  lat: '41.9116'
+  long: "-111.9356"
+  nearby_rate_centers:
+  - name: RICHMOND
+    distance_km: 10.67
+  - name: SMITHFIELD
+    distance_km: 12.1
+  - name: FIELDING
+    distance_km: 18.69
+- country: US
+  region: UT
+  name: Tropic
+  lat: '37.6294'
+  long: "-112.0913"
+  nearby_rate_centers:
+  - name: CANNONVL
+    distance_km: 1.54
+  - name: BRYCECNYON
+    distance_km: 6.6
+  - name: HATCH
+    distance_km: 37.59
+  - name: PANGUITCH
+    distance_km: 37.59
+- country: US
+  region: UT
+  name: Tselakai Dezza
+  lat: '37.2100'
+  long: "-109.6090"
+  nearby_rate_centers:
+  - name: BLUFF
+    distance_km: 9.47
+  - name: MEXICANHAT
+    distance_km: 23.79
+  - name: HALCHITA
+    distance_km: 26.87
+- country: US
+  region: UT
+  name: Uintah
+  lat: '41.1428'
+  long: "-111.9334"
+  nearby_rate_centers:
+  - name: CLEARFIELD
+    distance_km: 8.37
+  - name: HUNTSVILLE
+    distance_km: 9.39
+  - name: OGDEN
+    distance_km: 9.39
+  - name: KAYSVILLE
+    distance_km: 11.95
+- country: US
+  region: UT
+  name: Vernal
+  lat: '40.4517'
+  long: "-109.5378"
+  nearby_rate_centers:
+  - name: VERNAL
+    distance_km: 0.64
+  - name: LAPOINT
+    distance_km: 24.02
+  - name: RANDLETT
+    distance_km: 31.68
+- country: US
+  region: UT
+  name: Vernon
+  lat: '40.0956'
+  long: "-112.4458"
+  nearby_rate_centers:
+  - name: VERNON
+    distance_km: 0.48
+  - name: RUSHVALLEY
+    distance_km: 26.15
+  - name: DUGWAY
+    distance_km: 28.51
+- country: US
+  region: UT
+  name: Veyo
+  lat: '37.3375'
+  long: "-113.6931"
+  nearby_rate_centers:
+  - name: ENTERPRISE
+    distance_km: 25.63
+  - name: LEEDS
+    distance_km: 27.11
+  - name: ST GEORGE
+    distance_km: 27.11
+  - name: VEYO
+    distance_km: 27.11
+  - name: HURRICANE
+    distance_km: 40.81
+- country: US
+  region: UT
+  name: Vineyard
+  lat: '40.3059'
+  long: "-111.7545"
+  nearby_rate_centers:
+  - name: PLEASATGRV
+    distance_km: 6.94
+  - name: AMERCNFORK
+    distance_km: 8.85
+  - name: PROVO
+    distance_km: 10.83
+- country: US
+  region: UT
+  name: Virgin
+  lat: '37.1979'
+  long: "-113.2071"
+  nearby_rate_centers:
+  - name: HURRICANE
+    distance_km: 7.15
+  - name: APPLE VLLY
+    distance_km: 11.41
+  - name: SPRINGDALE
+    distance_km: 18.32
+- country: US
+  region: UT
+  name: Wales
+  lat: '39.4851'
+  long: "-111.6361"
+  nearby_rate_centers:
+  - name: MORONI
+    distance_km: 6.48
+  - name: EPHRAIM
+    distance_km: 14.71
+  - name: FOUNTAGREN
+    distance_km: 15.38
+- country: US
+  region: UT
+  name: Wallsburg
+  lat: '40.3869'
+  long: "-111.4194"
+  nearby_rate_centers:
+  - name: HEBER CITY
+    distance_km: 13.73
+  - name: TIMBERLAKE
+    distance_km: 16.3
+  - name: PROVO
+    distance_km: 27.28
+- country: US
+  region: UT
+  name: Wanship
+  lat: '40.8167'
+  long: "-111.4151"
+  nearby_rate_centers:
+  - name: COALVILLE
+    distance_km: 11.23
+  - name: JORDANELLE
+    distance_km: 17.93
+  - name: PARK CITY
+    distance_km: 19.67
+- country: US
+  region: UT
+  name: Washington
+  lat: '37.1303'
+  long: "-113.4878"
+  nearby_rate_centers:
+  - name: LEEDS
+    distance_km: 8.9
+  - name: ST GEORGE
+    distance_km: 8.9
+  - name: VEYO
+    distance_km: 8.9
+  - name: HURRICANE
+    distance_km: 18.9
+  - name: APPLE VLLY
+    distance_km: 32.15
+- country: US
+  region: UT
+  name: Washington Terrace
+  lat: '41.1683'
+  long: "-111.9783"
+  nearby_rate_centers:
+  - name: HUNTSVILLE
+    distance_km: 6.21
+  - name: OGDEN
+    distance_km: 6.21
+  - name: CLEARFIELD
+    distance_km: 7.48
+  - name: KAYSVILLE
+    distance_km: 15.25
+- country: US
+  region: UT
+  name: Wellington
+  lat: '39.5358'
+  long: "-110.7344"
+  nearby_rate_centers:
+  - name: PRICE
+    distance_km: 9.75
+  - name: HELPER
+    distance_km: 19.37
+  - name: CLEVELAND
+    distance_km: 24.0
+- country: US
+  region: UT
+  name: Wellsville
+  lat: '41.6223'
+  long: "-111.9430"
+  nearby_rate_centers:
+  - name: HYRUM
+    distance_km: 7.83
+  - name: BRIGHAM CY
+    distance_km: 14.12
+  - name: LOGAN
+    distance_km: 15.35
+- country: US
+  region: UT
+  name: Wendover
+  lat: '40.7241'
+  long: "-114.0250"
+  nearby_rate_centers:
+  - name: WENDOVER
+    distance_km: 1.76
+  - name: IBAPAH
+    distance_km: 81.37
+  - name: GROUSE CRK
+    distance_km: 110.68
+- country: US
+  region: UT
+  name: West Bountiful
+  lat: '40.8984'
+  long: "-111.9082"
+  nearby_rate_centers:
+  - name: BOUNTIFUL
+    distance_km: 2.41
+  - name: FARMINGTON
+    distance_km: 9.78
+  - name: KAYSVILLE
+    distance_km: 15.38
+- country: US
+  region: UT
+  name: West Haven
+  lat: '41.2083'
+  long: "-112.0541"
+  nearby_rate_centers:
+  - name: HUNTSVILLE
+    distance_km: 7.52
+  - name: OGDEN
+    distance_km: 7.52
+  - name: CLEARFIELD
+    distance_km: 11.18
+  - name: KAYSVILLE
+    distance_km: 21.73
+- country: US
+  region: UT
+  name: West Jordan
+  lat: '40.6024'
+  long: "-112.0008"
+  nearby_rate_centers:
+  - name: KEARNS
+    distance_km: 7.09
+  - name: MIDVALE
+    distance_km: 7.8
+  - name: MURRAY
+    distance_km: 12.37
+- country: US
+  region: UT
+  name: West Mountain
+  lat: '40.0510'
+  long: "-111.7850"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 3.68
+  - name: SPANIHFORK
+    distance_km: 12.63
+  - name: GOSHEN
+    distance_km: 15.63
+- country: US
+  region: UT
+  name: West Point
+  lat: '41.1220'
+  long: "-112.0995"
+  nearby_rate_centers:
+  - name: CLEARFIELD
+    distance_km: 6.49
+  - name: HUNTSVILLE
+    distance_km: 15.85
+  - name: OGDEN
+    distance_km: 15.85
+  - name: KAYSVILLE
+    distance_km: 16.93
+- country: US
+  region: UT
+  name: West Valley City
+  lat: '40.6886'
+  long: "-112.0123"
+  nearby_rate_centers:
+  - name: KEARNS
+    distance_km: 2.55
+  - name: MAGNA
+    distance_km: 8.28
+  - name: MURRAY
+    distance_km: 11.1
+- country: US
+  region: UT
+  name: West Wood
+  lat: '39.6051'
+  long: "-110.8424"
+  nearby_rate_centers:
+  - name: PRICE
+    distance_km: 2.85
+  - name: HELPER
+    distance_km: 8.9
+  - name: CLEVELAND
+    distance_km: 29.5
+- country: US
+  region: UT
+  name: White City
+  lat: '40.5666'
+  long: "-111.8636"
+  nearby_rate_centers:
+  - name: MIDVALE
+    distance_km: 6.85
+  - name: HOLLADAY
+    distance_km: 10.56
+  - name: MURRAY
+    distance_km: 11.49
+- country: US
+  region: UT
+  name: White Mesa
+  lat: '37.4596'
+  long: "-109.4600"
+  nearby_rate_centers:
+  - name: BLANDING
+    distance_km: 18.61
+  - name: BLUFF
+    distance_km: 21.33
+  - name: MNZMCRANTH
+    distance_km: 25.99
+- country: US
+  region: UT
+  name: Whiterocks
+  lat: '40.4721'
+  long: "-109.9412"
+  nearby_rate_centers:
+  - name: NEOLA
+    distance_km: 7.58
+  - name: LAPOINT
+    distance_km: 12.68
+  - name: ROOSEVELT
+    distance_km: 19.63
+- country: US
+  region: UT
+  name: Willard
+  lat: '41.4148'
+  long: "-112.0448"
+  nearby_rate_centers:
+  - name: BRIGHAM CY
+    distance_km: 10.74
+  - name: HUNTSVILLE
+    distance_km: 22.26
+  - name: OGDEN
+    distance_km: 22.26
+  - name: BEARRIV CY
+    distance_km: 23.76
+- country: US
+  region: UT
+  name: Wolf Creek
+  lat: '41.3253'
+  long: "-111.8288"
+  nearby_rate_centers:
+  - name: HUNTSVILLE
+    distance_km: 16.15
+  - name: OGDEN
+    distance_km: 16.15
+  - name: BRIGHAM CY
+    distance_km: 26.1
+  - name: CLEARFIELD
+    distance_km: 28.92
+- country: US
+  region: UT
+  name: Woodland
+  lat: '40.5838'
+  long: "-111.2358"
+  nearby_rate_centers:
+  - name: KAMAS
+    distance_km: 7.13
+  - name: TIMBERLAKE
+    distance_km: 10.99
+  - name: JORDANELLE
+    distance_km: 16.81
+- country: US
+  region: UT
+  name: Woodland Hills
+  lat: '40.0132'
+  long: "-111.6558"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 8.13
+  - name: SPANIHFORK
+    distance_km: 10.57
+  - name: SPNSFKCNYN
+    distance_km: 13.73
+- country: US
+  region: UT
+  name: Woodruff
+  lat: '41.5212'
+  long: "-111.1639"
+  nearby_rate_centers:
+  - name: RANDOLPH
+    distance_km: 16.31
+  - name: WASATCH
+    distance_km: 35.14
+  - name: GARDENCITY
+    distance_km: 51.1
+- country: US
+  region: UT
+  name: Woods Cross
+  lat: '40.8731'
+  long: "-111.9170"
+  nearby_rate_centers:
+  - name: BOUNTIFUL
+    distance_km: 3.49
+  - name: FARMINGTON
+    distance_km: 12.68
+  - name: SALT LAKE
+    distance_km: 13.11

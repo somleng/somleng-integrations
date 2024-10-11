@@ -1,0 +1,9646 @@
+---
+cities:
+- country: US
+  region: WI
+  name: Abbotsford
+  lat: '44.9435'
+  long: "-90.3174"
+  nearby_rate_centers:
+  - name: COLBY
+    distance_km: 4.04
+  - name: DORCHESTER
+    distance_km: 7.56
+  - name: STETSONVL
+    distance_km: 15.48
+- country: US
+  region: WI
+  name: Abrams
+  lat: '44.7796'
+  long: "-88.0604"
+  nearby_rate_centers:
+  - name: ABRAMS
+    distance_km: 1.21
+  - name: OCONTO FLS
+    distance_km: 12.07
+  - name: KRAKOW
+    distance_km: 15.07
+- country: US
+  region: WI
+  name: Adams
+  lat: '43.9554'
+  long: "-89.8169"
+  nearby_rate_centers:
+  - name: ADAMS
+    distance_km: 0.56
+  - name: MONROE CTR
+    distance_km: 14.59
+  - name: BROOKS
+    distance_km: 20.56
+- country: US
+  region: WI
+  name: Adell
+  lat: '43.6212'
+  long: "-87.9482"
+  nearby_rate_centers:
+  - name: CASCADE
+    distance_km: 6.58
+  - name: RANDOMLAKE
+    distance_km: 7.8
+  - name: CEDARGROVE
+    distance_km: 11.88
+- country: US
+  region: WI
+  name: Albany
+  lat: '42.7069'
+  long: "-89.4367"
+  nearby_rate_centers:
+  - name: ALBANY
+    distance_km: 0.46
+  - name: BRODHEAD
+    distance_km: 11.58
+  - name: EVANSVILLE
+    distance_km: 13.49
+- country: US
+  region: WI
+  name: Algoma
+  lat: '44.6058'
+  long: "-87.4465"
+  nearby_rate_centers:
+  - name: ALGOMA
+    distance_km: 0.68
+  - name: FORESTVL
+    distance_km: 8.79
+  - name: CASCO
+    distance_km: 15.02
+- country: US
+  region: WI
+  name: Allens Grove
+  lat: '42.5783'
+  long: "-88.7668"
+  nearby_rate_centers:
+  - name: DARIEN
+    distance_km: 5.55
+  - name: CLINTON
+    distance_km: 8.59
+  - name: SHARON
+    distance_km: 9.35
+- country: US
+  region: WI
+  name: Allenton
+  lat: '43.4218'
+  long: "-88.3448"
+  nearby_rate_centers:
+  - name: ALLENTON
+    distance_km: 0.69
+  - name: SLINGER
+    distance_km: 10.85
+  - name: HARTFORD
+    distance_km: 11.14
+- country: US
+  region: WI
+  name: Allouez
+  lat: '44.4721'
+  long: "-88.0259"
+  nearby_rate_centers:
+  - name: DE PERE
+    distance_km: 3.87
+  - name: GREEN BAY
+    distance_km: 4.36
+  - name: ONEIDA
+    distance_km: 13.55
+- country: US
+  region: WI
+  name: Alma
+  lat: '44.3374'
+  long: "-91.9221"
+  nearby_rate_centers:
+  - name: ALMA
+    distance_km: 1.46
+  - name: NELSON
+    distance_km: 11.37
+  - name: COCHRANE
+    distance_km: 13.65
+- country: US
+  region: WI
+  name: Alma Center
+  lat: '44.4370'
+  long: "-90.9128"
+  nearby_rate_centers:
+  - name: ALMACENTER
+    distance_km: 0.7
+  - name: MERRILLAN
+    distance_km: 5.83
+  - name: HIXTON
+    distance_km: 9.91
+- country: US
+  region: WI
+  name: Almena
+  lat: '45.4149'
+  long: "-92.0384"
+  nearby_rate_centers:
+  - name: ALMENA
+    distance_km: 1.2
+  - name: TURTLELAKE
+    distance_km: 8.32
+  - name: CUMBERLAND
+    distance_km: 13.18
+- country: US
+  region: WI
+  name: Almond
+  lat: '44.2607'
+  long: "-89.4087"
+  nearby_rate_centers:
+  - name: ALMOND
+    distance_km: 0.51
+  - name: PLAINFIELD
+    distance_km: 7.7
+  - name: WILD ROSE
+    distance_km: 15.91
+- country: US
+  region: WI
+  name: Alto
+  lat: '43.6728'
+  long: "-88.7949"
+  nearby_rate_centers:
+  - name: BRANDON
+    distance_km: 6.86
+  - name: WAUPUN
+    distance_km: 7.59
+  - name: FOX LAKE
+    distance_km: 15.85
+- country: US
+  region: WI
+  name: Altoona
+  lat: '44.8029'
+  long: "-91.4385"
+  nearby_rate_centers:
+  - name: EAU CLAIRE
+    distance_km: 4.4
+  - name: FALL CREEK
+    distance_km: 13.3
+  - name: CHIPPEWFLS
+    distance_km: 15.78
+- country: US
+  region: WI
+  name: Amberg
+  lat: '45.5062'
+  long: "-87.9873"
+  nearby_rate_centers:
+  - name: AMBERG
+    distance_km: 0.55
+  - name: PEMBINE
+    distance_km: 14.29
+  - name: WAUSAUKEE
+    distance_km: 14.83
+- country: US
+  region: WI
+  name: Amery
+  lat: '45.3045'
+  long: "-92.3635"
+  nearby_rate_centers:
+  - name: AMERY
+    distance_km: 1.43
+  - name: CLEAR LAKE
+    distance_km: 10.3
+  - name: DEER PARK
+    distance_km: 12.44
+- country: US
+  region: WI
+  name: Amherst
+  lat: '44.4475'
+  long: "-89.2832"
+  nearby_rate_centers:
+  - name: AMHERST
+    distance_km: 0.26
+  - name: SCANDINVIA
+    distance_km: 11.9
+  - name: IOLA
+    distance_km: 14.22
+- country: US
+  region: WI
+  name: Amherst Junction
+  lat: '44.4687'
+  long: "-89.3167"
+  nearby_rate_centers:
+  - name: AMHERST
+    distance_km: 3.39
+  - name: POLONIA
+    distance_km: 13.18
+  - name: SCANDINVIA
+    distance_km: 14.56
+- country: US
+  region: WI
+  name: Angelica
+  lat: '44.6750'
+  long: "-88.3216"
+  nearby_rate_centers:
+  - name: PULASKI
+    distance_km: 6.21
+  - name: KRAKOW
+    distance_km: 10.83
+  - name: BONDUEL
+    distance_km: 11.44
+- country: US
+  region: WI
+  name: Aniwa
+  lat: '45.0117'
+  long: "-89.2089"
+  nearby_rate_centers:
+  - name: BIRNAMWOOD
+    distance_km: 8.82
+  - name: MATTOON
+    distance_km: 13.86
+  - name: ANTIGO
+    distance_km: 15.45
+- country: US
+  region: WI
+  name: Antigo
+  lat: '45.1410'
+  long: "-89.1552"
+  nearby_rate_centers:
+  - name: ANTIGO
+    distance_km: 0.5
+  - name: MATTOON
+    distance_km: 17.69
+  - name: BIRNAMWOOD
+    distance_km: 23.61
+- country: US
+  region: WI
+  name: Appleton
+  lat: '44.2780'
+  long: "-88.3892"
+  nearby_rate_centers:
+  - name: APPLETON
+    distance_km: 2.6
+  - name: LTL CHUTE
+    distance_km: 6.47
+  - name: KAUKAUNA
+    distance_km: 9.87
+- country: US
+  region: WI
+  name: Arcadia
+  lat: '44.2486'
+  long: "-91.4916"
+  nearby_rate_centers:
+  - name: ARCADIA
+    distance_km: 0.5
+  - name: INDEPNDNCE
+    distance_km: 13.2
+  - name: WAUMANDEE
+    distance_km: 17.81
+- country: US
+  region: WI
+  name: Arena
+  lat: '43.1636'
+  long: "-89.9103"
+  nearby_rate_centers:
+  - name: ARENA
+    distance_km: 0.73
+  - name: MAZOMANIE
+    distance_km: 9.64
+  - name: SPG GREEN
+    distance_km: 12.96
+- country: US
+  region: WI
+  name: Argonne
+  lat: '45.6582'
+  long: "-88.8777"
+  nearby_rate_centers:
+  - name: ARGONNE
+    distance_km: 0.09
+  - name: CRANDON
+    distance_km: 10.21
+  - name: LAONA
+    distance_km: 19.45
+- country: US
+  region: WI
+  name: Argyle
+  lat: '42.7014'
+  long: "-89.8657"
+  nearby_rate_centers:
+  - name: ARGYLE
+    distance_km: 0.08
+  - name: WOODFORD
+    distance_km: 5.63
+  - name: WIOTA
+    distance_km: 9.28
+- country: US
+  region: WI
+  name: Arkansaw
+  lat: '44.6334'
+  long: "-92.0220"
+  nearby_rate_centers:
+  - name: ARKANSAW
+    distance_km: 0.77
+  - name: DURAND
+    distance_km: 4.62
+  - name: EAU GALLE
+    distance_km: 7.19
+- country: US
+  region: WI
+  name: Arkdale
+  lat: '44.0253'
+  long: "-89.8861"
+  nearby_rate_centers:
+  - name: MONROE CTR
+    distance_km: 6.52
+  - name: ADAMS
+    distance_km: 9.22
+  - name: NECEDAH
+    distance_km: 14.51
+- country: US
+  region: WI
+  name: Arlington
+  lat: '43.3351'
+  long: "-89.3726"
+  nearby_rate_centers:
+  - name: POYNETTE
+    distance_km: 6.92
+  - name: DE FOREST
+    distance_km: 9.75
+  - name: LODI
+    distance_km: 12.68
+- country: US
+  region: WI
+  name: Arpin
+  lat: '44.5394'
+  long: "-90.0315"
+  nearby_rate_centers:
+  - name: VESPER
+    distance_km: 8.41
+  - name: AUBURNDALE
+    distance_km: 11.09
+  - name: MILL CREEK
+    distance_km: 13.1
+- country: US
+  region: WI
+  name: Ashippun
+  lat: '43.2182'
+  long: "-88.5159"
+  nearby_rate_centers:
+  - name: MAPLETON
+    distance_km: 6.75
+  - name: NEOSHO
+    distance_km: 10.01
+  - name: LEBANON
+    distance_km: 10.11
+- country: US
+  region: WI
+  name: Ashland
+  lat: '46.5799'
+  long: "-90.8713"
+  nearby_rate_centers:
+  - name: ASHLAND
+    distance_km: 1.76
+  - name: WASHBURN
+    distance_km: 10.56
+  - name: BENOIT
+    distance_km: 18.09
+- country: US
+  region: WI
+  name: Ashwaubenon
+  lat: '44.4796'
+  long: "-88.0889"
+  nearby_rate_centers:
+  - name: DE PERE
+    distance_km: 5.39
+  - name: GREEN BAY
+    distance_km: 7.38
+  - name: ONEIDA
+    distance_km: 8.51
+- country: US
+  region: WI
+  name: Athens
+  lat: '45.0349'
+  long: "-90.0792"
+  nearby_rate_centers:
+  - name: ATHENS
+    distance_km: 0.15
+  - name: EDGAR
+    distance_km: 15.37
+  - name: STETSONVL
+    distance_km: 19.65
+- country: US
+  region: WI
+  name: Auburndale
+  lat: '44.6266'
+  long: "-90.0144"
+  nearby_rate_centers:
+  - name: AUBURNDALE
+    distance_km: 1.96
+  - name: MILL CREEK
+    distance_km: 10.13
+  - name: MARSHFIELD
+    distance_km: 13.28
+- country: US
+  region: WI
+  name: Augusta
+  lat: '44.6784'
+  long: "-91.1204"
+  nearby_rate_centers:
+  - name: AUGUSTA
+    distance_km: 0.89
+  - name: OSSEO
+    distance_km: 13.17
+  - name: FAIRCHILD
+    distance_km: 14.76
+- country: US
+  region: WI
+  name: Avoca
+  lat: '43.1906'
+  long: "-90.3260"
+  nearby_rate_centers:
+  - name: AVOCA
+    distance_km: 0.96
+  - name: MUSCODA
+    distance_km: 8.66
+  - name: LONE ROCK
+    distance_km: 10.73
+- country: US
+  region: WI
+  name: Babcock
+  lat: '44.3044'
+  long: "-90.1076"
+  nearby_rate_centers:
+  - name: PITTSVILLE
+    distance_km: 14.58
+  - name: NEKOOSA
+    distance_km: 16.98
+  - name: PT EDWARDS
+    distance_km: 20.66
+- country: US
+  region: WI
+  name: Bagley
+  lat: '42.9015'
+  long: "-91.0971"
+  nearby_rate_centers:
+  - name: BAGLEY
+    distance_km: 0.94
+  - name: BEETOWN
+    distance_km: 13.97
+  - name: BLOOMINGTN
+    distance_km: 14.73
+- country: US
+  region: WI
+  name: Baileys Harbor
+  lat: '45.0659'
+  long: "-87.1330"
+  nearby_rate_centers:
+  - name: BAILEYSHBR
+    distance_km: 0.87
+  - name: JACKSONPT
+    distance_km: 11.35
+  - name: EGG HARBOR
+    distance_km: 11.42
+- country: US
+  region: WI
+  name: Baldwin
+  lat: '44.9540'
+  long: "-92.3709"
+  nearby_rate_centers:
+  - name: BALDWIN
+    distance_km: 1.36
+  - name: HAMMOND
+    distance_km: 5.31
+  - name: WOODVILLE
+    distance_km: 6.68
+- country: US
+  region: WI
+  name: Balsam Lake
+  lat: '45.4585'
+  long: "-92.4528"
+  nearby_rate_centers:
+  - name: BALSAMLAKE
+    distance_km: 1.0
+  - name: CENTURIA
+    distance_km: 7.57
+  - name: MILLTOWN
+    distance_km: 9.16
+- country: US
+  region: WI
+  name: Bancroft
+  lat: '44.3093'
+  long: "-89.5073"
+  nearby_rate_centers:
+  - name: ALMOND
+    distance_km: 9.95
+  - name: PLAINFIELD
+    distance_km: 10.37
+  - name: HANCOCK
+    distance_km: 19.85
+- country: US
+  region: WI
+  name: Bangor
+  lat: '43.8937'
+  long: "-90.9934"
+  nearby_rate_centers:
+  - name: BANGOR
+    distance_km: 1.0
+  - name: WEST SALEM
+    distance_km: 7.13
+  - name: SPARTA
+    distance_km: 16.21
+- country: US
+  region: WI
+  name: Baraboo
+  lat: '43.4695'
+  long: "-89.7376"
+  nearby_rate_centers:
+  - name: BARABOO
+    distance_km: 0.36
+  - name: NO FREEDOM
+    distance_km: 9.81
+  - name: MERRIMAC
+    distance_km: 14.15
+- country: US
+  region: WI
+  name: Barneveld
+  lat: '43.0117'
+  long: "-89.8969"
+  nearby_rate_centers:
+  - name: RIDGEWAY
+    distance_km: 7.67
+  - name: MOUNTHOREB
+    distance_km: 13.4
+  - name: HOLLANDALE
+    distance_km: 15.38
+- country: US
+  region: WI
+  name: Barron
+  lat: '45.4015'
+  long: "-91.8476"
+  nearby_rate_centers:
+  - name: BARRON
+    distance_km: 0.74
+  - name: CAMERON
+    distance_km: 8.93
+  - name: RICE LAKE
+    distance_km: 14.04
+- country: US
+  region: WI
+  name: Barronett
+  lat: '45.6363'
+  long: "-91.9942"
+  nearby_rate_centers:
+  - name: CUMBERLAND
+    distance_km: 11.68
+  - name: SHELL LAKE
+    distance_km: 13.96
+  - name: SARONA
+    distance_km: 17.45
+- country: US
+  region: WI
+  name: Batavia
+  lat: '43.5934'
+  long: "-88.0480"
+  nearby_rate_centers:
+  - name: CASCADE
+    distance_km: 7.79
+  - name: RANDOMLAKE
+    distance_km: 7.91
+  - name: WAUBEKA
+    distance_km: 14.24
+- country: US
+  region: WI
+  name: Bay City
+  lat: '44.5873'
+  long: "-92.4573"
+  nearby_rate_centers:
+  - name: BAY CITY
+    distance_km: 0.52
+  - name: HAGER CITY
+    distance_km: 6.22
+  - name: MAIDENROCK
+    distance_km: 12.04
+- country: US
+  region: WI
+  name: Bayfield
+  lat: '46.8142'
+  long: "-90.8228"
+  nearby_rate_centers:
+  - name: BAYFIELD
+    distance_km: 0.7
+  - name: LA POINTE
+    distance_km: 4.1
+  - name: WASHBURN
+    distance_km: 16.53
+- country: US
+  region: WI
+  name: Bayfront
+  lat: '46.6235'
+  long: "-90.7898"
+  nearby_rate_centers:
+  - name: ASHLAND
+    distance_km: 7.94
+  - name: WASHBURN
+    distance_km: 9.67
+  - name: LA POINTE
+    distance_km: 17.82
+- country: US
+  region: WI
+  name: Bayside
+  lat: '43.1827'
+  long: "-87.9017"
+  nearby_rate_centers:
+  - name: THIENSVL
+    distance_km: 8.91
+  - name: CEDARBURG
+    distance_km: 14.59
+  - name: MILWAUKZN1
+    distance_km: 16.03
+  - name: MILWAUKZN2
+    distance_km: 16.03
+  - name: MILWAUKZN3
+    distance_km: 16.03
+  - name: MILWAUKZN4
+    distance_km: 16.03
+  - name: MILWAUKZN5
+    distance_km: 16.03
+- country: US
+  region: WI
+  name: Bear Creek
+  lat: '44.5313'
+  long: "-88.7275"
+  nearby_rate_centers:
+  - name: BEAR CREEK
+    distance_km: 0.4
+  - name: CLINTONVL
+    distance_km: 9.72
+  - name: SHIOCTON
+    distance_km: 16.38
+- country: US
+  region: WI
+  name: Beaver Dam
+  lat: '43.4688'
+  long: "-88.8309"
+  nearby_rate_centers:
+  - name: BEAVER DAM
+    distance_km: 1.27
+  - name: BURNETT
+    distance_km: 10.5
+  - name: FOX LAKE
+    distance_km: 11.82
+- country: US
+  region: WI
+  name: Belgium
+  lat: '43.5018'
+  long: "-87.8476"
+  nearby_rate_centers:
+  - name: BELGIUM
+    distance_km: 0.8
+  - name: CEDARGROVE
+    distance_km: 7.25
+  - name: RANDOMLAKE
+    distance_km: 11.2
+- country: US
+  region: WI
+  name: Bell Center
+  lat: '43.2916'
+  long: "-90.8257"
+  nearby_rate_centers:
+  - name: GAYS MILLS
+    distance_km: 3.66
+  - name: MOUNT ZION
+    distance_km: 8.48
+  - name: STEUBEN
+    distance_km: 12.52
+- country: US
+  region: WI
+  name: Belleville
+  lat: '42.8643'
+  long: "-89.5402"
+  nearby_rate_centers:
+  - name: BELLEVILLE
+    distance_km: 0.9
+  - name: NEW GLARUS
+    distance_km: 9.28
+  - name: MONTICELLO
+    distance_km: 13.47
+- country: US
+  region: WI
+  name: Bellevue
+  lat: '44.4592'
+  long: "-87.9550"
+  nearby_rate_centers:
+  - name: GREEN BAY
+    distance_km: 6.76
+  - name: DE PERE
+    distance_km: 7.64
+  - name: NEWFRANKEN
+    distance_km: 12.48
+- country: US
+  region: WI
+  name: Belmont
+  lat: '42.7379'
+  long: "-90.3346"
+  nearby_rate_centers:
+  - name: BELMONT
+    distance_km: 0.65
+  - name: PLATTEVL
+    distance_km: 11.54
+  - name: CUBA CITY
+    distance_km: 16.33
+- country: US
+  region: WI
+  name: Beloit
+  lat: '42.5230'
+  long: "-89.0184"
+  nearby_rate_centers:
+  - name: BELOIT
+    distance_km: 1.71
+  - name: BERGEN
+    distance_km: 12.69
+  - name: CLINTON
+    distance_km: 12.92
+- country: US
+  region: WI
+  name: Benton
+  lat: '42.5700'
+  long: "-90.3835"
+  nearby_rate_centers:
+  - name: BENTON
+    distance_km: 0.66
+  - name: HAZELGREEN
+    distance_km: 5.88
+  - name: CUBA CITY
+    distance_km: 6.08
+- country: US
+  region: WI
+  name: Berlin
+  lat: '43.9704'
+  long: "-88.9504"
+  nearby_rate_centers:
+  - name: BERLIN
+    distance_km: 0.95
+  - name: REDGRANITE
+    distance_km: 14.41
+  - name: GREEN LAKE
+    distance_km: 14.42
+- country: US
+  region: WI
+  name: Big Bend
+  lat: '42.9021'
+  long: "-88.2121"
+  nearby_rate_centers:
+  - name: BIG BEND
+    distance_km: 2.09
+  - name: MUSKEGO
+    distance_km: 6.6
+  - name: MUKWONAGO
+    distance_km: 10.57
+- country: US
+  region: WI
+  name: Big Falls
+  lat: '44.6175'
+  long: "-89.0166"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 11.91
+  - name: TIGERTON
+    distance_km: 14.18
+  - name: IOLA
+    distance_km: 15.52
+- country: US
+  region: WI
+  name: Big Foot Prairie
+  lat: '42.4956'
+  long: "-88.5983"
+  nearby_rate_centers:
+  - name: WALWORTH
+    distance_km: 4.17
+  - name: WILLIAMSBY
+    distance_km: 10.39
+  - name: SHARON
+    distance_km: 10.62
+- country: US
+  region: WI
+  name: Birch Hill
+  lat: '46.5209'
+  long: "-90.5555"
+  nearby_rate_centers:
+  - name: MARENGO
+    distance_km: 23.21
+  - name: MELLEN
+    distance_km: 23.56
+  - name: ASHLAND
+    distance_km: 26.36
+- country: US
+  region: WI
+  name: Birchwood
+  lat: '45.6577'
+  long: "-91.5507"
+  nearby_rate_centers:
+  - name: BIRCHWOOD
+    distance_km: 1.11
+  - name: SARONA
+    distance_km: 20.46
+  - name: STONE LAKE
+    distance_km: 20.66
+- country: US
+  region: WI
+  name: Birnamwood
+  lat: '44.9319'
+  long: "-89.2094"
+  nearby_rate_centers:
+  - name: BIRNAMWOOD
+    distance_km: 0.11
+  - name: HATLEY
+    distance_km: 10.84
+  - name: WITTENBERG
+    distance_km: 12.6
+- country: US
+  region: WI
+  name: Biron
+  lat: '44.4281'
+  long: "-89.7660"
+  nearby_rate_centers:
+  - name: WISCOSNRPD
+    distance_km: 7.15
+  - name: RUDOLPH
+    distance_km: 7.28
+  - name: PT EDWARDS
+    distance_km: 12.3
+- country: US
+  region: WI
+  name: Black Creek
+  lat: '44.4742'
+  long: "-88.4506"
+  nearby_rate_centers:
+  - name: BLACKCREEK
+    distance_km: 0.8
+  - name: NICHOLS
+    distance_km: 9.45
+  - name: SEYMOUR
+    distance_km: 10.86
+- country: US
+  region: WI
+  name: Black Earth
+  lat: '43.1344'
+  long: "-89.7470"
+  nearby_rate_centers:
+  - name: BLACKEARTH
+    distance_km: 0.31
+  - name: MAZOMANIE
+    distance_km: 5.89
+  - name: CROSS PL
+    distance_km: 8.09
+- country: US
+  region: WI
+  name: Black River Falls
+  lat: '44.2981'
+  long: "-90.8420"
+  nearby_rate_centers:
+  - name: BLCKRIVFLS
+    distance_km: 1.53
+  - name: ALMACENTER
+    distance_km: 16.22
+  - name: MERRILLAN
+    distance_km: 17.13
+- country: US
+  region: WI
+  name: Blair
+  lat: '44.3083'
+  long: "-91.2426"
+  nearby_rate_centers:
+  - name: BLAIR
+    distance_km: 1.94
+  - name: WHITEHALL
+    distance_km: 8.96
+  - name: TAYLOR
+    distance_km: 9.21
+- country: US
+  region: WI
+  name: Blanchardville
+  lat: '42.8094'
+  long: "-89.8606"
+  nearby_rate_centers:
+  - name: BLANCHADVL
+    distance_km: 0.84
+  - name: HOLLANDALE
+    distance_km: 9.56
+  - name: ARGYLE
+    distance_km: 12.1
+- country: US
+  region: WI
+  name: Bloomer
+  lat: '45.1033'
+  long: "-91.4915"
+  nearby_rate_centers:
+  - name: BLOOMER
+    distance_km: 0.63
+  - name: EAGLEPOINT
+    distance_km: 9.94
+  - name: NEW AUBURN
+    distance_km: 12.9
+- country: US
+  region: WI
+  name: Bloomington
+  lat: '42.8931'
+  long: "-90.9264"
+  nearby_rate_centers:
+  - name: BLOOMINGTN
+    distance_km: 1.24
+  - name: BEETOWN
+    distance_km: 8.87
+  - name: MOUNT HOPE
+    distance_km: 10.36
+- country: US
+  region: WI
+  name: Blue Mounds
+  lat: '43.0178'
+  long: "-89.8269"
+  nearby_rate_centers:
+  - name: MOUNTHOREB
+    distance_km: 7.77
+  - name: RIDGEWAY
+    distance_km: 13.39
+  - name: BLACKEARTH
+    distance_km: 14.35
+- country: US
+  region: WI
+  name: Blue River
+  lat: '43.1844'
+  long: "-90.5719"
+  nearby_rate_centers:
+  - name: BLUE RIVER
+    distance_km: 0.59
+  - name: MUSCODA
+    distance_km: 11.32
+  - name: BOSCOBEL
+    distance_km: 11.86
+- country: US
+  region: WI
+  name: Bluffview
+  lat: '43.3641'
+  long: "-89.7730"
+  nearby_rate_centers:
+  - name: SAUK CITY
+    distance_km: 10.7
+  - name: BARABOO
+    distance_km: 11.72
+  - name: WITWEN
+    distance_km: 11.96
+- country: US
+  region: WI
+  name: Boaz
+  lat: '43.3299'
+  long: "-90.5277"
+  nearby_rate_centers:
+  - name: BOAZ
+    distance_km: 0.57
+  - name: RICHLD CTR
+    distance_km: 11.54
+  - name: SABIN
+    distance_km: 11.73
+- country: US
+  region: WI
+  name: Bohners Lake
+  lat: '42.6241'
+  long: "-88.2879"
+  nearby_rate_centers:
+  - name: BOHNERS LK
+    distance_km: 0.97
+  - name: BURLINGTON
+    distance_km: 5.62
+  - name: WHEATLAND
+    distance_km: 7.05
+- country: US
+  region: WI
+  name: Bonduel
+  lat: '44.7383'
+  long: "-88.4476"
+  nearby_rate_centers:
+  - name: BONDUEL
+    distance_km: 0.87
+  - name: CECIL
+    distance_km: 7.73
+  - name: SHAWANO
+    distance_km: 12.68
+- country: US
+  region: WI
+  name: Boscobel
+  lat: '43.1437'
+  long: "-90.6948"
+  nearby_rate_centers:
+  - name: BOSCOBEL
+    distance_km: 1.08
+  - name: WOODMAN
+    distance_km: 10.19
+  - name: BLUE RIVER
+    distance_km: 11.46
+- country: US
+  region: WI
+  name: Boulder Junction
+  lat: '46.1136'
+  long: "-89.6487"
+  nearby_rate_centers:
+  - name: BOULDERJCT
+    distance_km: 0.73
+  - name: MANISHWTRS
+    distance_km: 14.06
+  - name: SAYNER
+    distance_km: 16.3
+- country: US
+  region: WI
+  name: Bowler
+  lat: '44.8627'
+  long: "-88.9814"
+  nearby_rate_centers:
+  - name: BOWLER
+    distance_km: 0.66
+  - name: TIGERTON
+    distance_km: 14.8
+  - name: WITTENBERG
+    distance_km: 15.27
+- country: US
+  region: WI
+  name: Boyceville
+  lat: '45.0427'
+  long: "-92.0384"
+  nearby_rate_centers:
+  - name: BOYCEVILLE
+    distance_km: 1.07
+  - name: KNAPP
+    distance_km: 9.86
+  - name: WHEELER
+    distance_km: 10.15
+- country: US
+  region: WI
+  name: Boyd
+  lat: '44.9533'
+  long: "-91.0398"
+  nearby_rate_centers:
+  - name: BOYD
+    distance_km: 0.57
+  - name: CADOTT
+    distance_km: 8.44
+  - name: STANLEY
+    distance_km: 8.54
+- country: US
+  region: WI
+  name: Brandon
+  lat: '43.7352'
+  long: "-88.7819"
+  nearby_rate_centers:
+  - name: BRANDON
+    distance_km: 0.31
+  - name: ROSENDALE
+    distance_km: 11.7
+  - name: RIPON
+    distance_km: 13.04
+- country: US
+  region: WI
+  name: Brice Prairie
+  lat: '43.9375'
+  long: "-91.3073"
+  nearby_rate_centers:
+  - name: HOLMEN
+    distance_km: 5.23
+  - name: TREMPEALEU
+    distance_km: 12.66
+  - name: LA CROSSE
+    distance_km: 14.06
+- country: US
+  region: WI
+  name: Briggsville
+  lat: '43.6561'
+  long: "-89.5897"
+  nearby_rate_centers:
+  - name: BRIGGSVL
+    distance_km: 0.44
+  - name: ENDEAVOR
+    distance_km: 12.12
+  - name: OXFORD
+    distance_km: 14.43
+- country: US
+  region: WI
+  name: Brillion
+  lat: '44.1758'
+  long: "-88.0707"
+  nearby_rate_centers:
+  - name: BRILLION
+    distance_km: 1.33
+  - name: HILBERT
+    distance_km: 8.62
+  - name: REEDSVILLE
+    distance_km: 9.09
+- country: US
+  region: WI
+  name: Bristol
+  lat: '42.5377'
+  long: "-88.0151"
+  nearby_rate_centers:
+  - name: BRISTOL
+    distance_km: 3.59
+  - name: SALEM
+    distance_km: 7.87
+  - name: NO ANTIOCH
+    distance_km: 8.82
+- country: US
+  region: WI
+  name: Brodhead
+  lat: '42.6168'
+  long: "-89.3756"
+  nearby_rate_centers:
+  - name: BRODHEAD
+    distance_km: 0.86
+  - name: ORFORDVL
+    distance_km: 10.34
+  - name: JUDA
+    distance_km: 11.1
+- country: US
+  region: WI
+  name: Brookfield
+  lat: '43.0640'
+  long: "-88.1231"
+  nearby_rate_centers:
+  - name: WAUKESHA
+    distance_km: 10.31
+  - name: PEWAUKEE
+    distance_km: 11.1
+  - name: SUSSEX
+    distance_km: 11.11
+- country: US
+  region: WI
+  name: Brooklyn
+  lat: '42.8524'
+  long: "-89.3723"
+  nearby_rate_centers:
+  - name: BROOKLYN
+    distance_km: 0.65
+  - name: OREGON
+    distance_km: 8.1
+  - name: EVANSVILLE
+    distance_km: 10.6
+- country: US
+  region: WI
+  name: Brothertown
+  lat: '43.9713'
+  long: "-88.3127"
+  nearby_rate_centers:
+  - name: JOHNSBURG
+    distance_km: 9.73
+  - name: STOCKBDG
+    distance_km: 11.83
+  - name: CHILTON
+    distance_km: 13.36
+- country: US
+  region: WI
+  name: Brown Deer
+  lat: '43.1743'
+  long: "-87.9750"
+  nearby_rate_centers:
+  - name: THIENSVL
+    distance_km: 6.8
+  - name: MENOMONFLS
+    distance_km: 11.48
+  - name: CEDARBURG
+    distance_km: 14.09
+- country: US
+  region: WI
+  name: Browns Lake
+  lat: '42.6909'
+  long: "-88.2370"
+  nearby_rate_centers:
+  - name: BURLINGTON
+    distance_km: 3.66
+  - name: BOHNERS LK
+    distance_km: 7.81
+  - name: WATERFORD
+    distance_km: 7.87
+- country: US
+  region: WI
+  name: Brownsville
+  lat: '43.6147'
+  long: "-88.4953"
+  nearby_rate_centers:
+  - name: LOMIRA
+    distance_km: 4.25
+  - name: OAKFIELD
+    distance_km: 8.77
+  - name: THERESA
+    distance_km: 11.39
+- country: US
+  region: WI
+  name: Browntown
+  lat: '42.5788'
+  long: "-89.7894"
+  nearby_rate_centers:
+  - name: BROWNTOWN
+    distance_km: 0.48
+  - name: SOUTHWAYNE
+    distance_km: 7.16
+  - name: WOODFORD
+    distance_km: 9.78
+- country: US
+  region: WI
+  name: Brule
+  lat: '46.5589'
+  long: "-91.5712"
+  nearby_rate_centers:
+  - name: IRON RIVER
+    distance_km: 11.67
+  - name: MAPLE
+    distance_km: 12.38
+  - name: LKNEBAGMON
+    distance_km: 14.39
+- country: US
+  region: WI
+  name: Buffalo City
+  lat: '44.2203'
+  long: "-91.8579"
+  nearby_rate_centers:
+  - name: COCHRANE
+    distance_km: 2.26
+  - name: ALMA
+    distance_km: 12.54
+  - name: FOUNTAINCY
+    distance_km: 14.85
+- country: US
+  region: WI
+  name: Burlington
+  lat: '42.6744'
+  long: "-88.2721"
+  nearby_rate_centers:
+  - name: BURLINGTON
+    distance_km: 0.26
+  - name: BOHNERS LK
+    distance_km: 4.87
+  - name: WHEATLAND
+    distance_km: 9.74
+- country: US
+  region: WI
+  name: Burnett
+  lat: '43.5065'
+  long: "-88.7084"
+  nearby_rate_centers:
+  - name: BURNETT
+    distance_km: 0.48
+  - name: HORICON
+    distance_km: 8.84
+  - name: BEAVER DAM
+    distance_km: 10.91
+- country: US
+  region: WI
+  name: Butler
+  lat: '43.1084'
+  long: "-88.0713"
+  nearby_rate_centers:
+  - name: MENOMONFLS
+    distance_km: 8.88
+  - name: MILWAUKZN1
+    distance_km: 12.47
+  - name: MILWAUKZN2
+    distance_km: 12.47
+  - name: MILWAUKZN3
+    distance_km: 12.47
+  - name: MILWAUKZN4
+    distance_km: 12.47
+  - name: MILWAUKZN5
+    distance_km: 12.47
+  - name: SUSSEX
+    distance_km: 12.51
+- country: US
+  region: WI
+  name: Butte des Morts
+  lat: '44.1058'
+  long: "-88.6564"
+  nearby_rate_centers:
+  - name: WINNECONNE
+    distance_km: 4.48
+  - name: OMRO
+    distance_km: 9.37
+  - name: LARSEN
+    distance_km: 10.7
+- country: US
+  region: WI
+  name: Butternut
+  lat: '46.0133'
+  long: "-90.4974"
+  nearby_rate_centers:
+  - name: BUTTERNUT
+    distance_km: 0.44
+  - name: PARK FALLS
+    distance_km: 9.74
+  - name: GLIDDEN
+    distance_km: 15.66
+- country: US
+  region: WI
+  name: Cable
+  lat: '46.2011'
+  long: "-91.2937"
+  nearby_rate_centers:
+  - name: CABLE
+    distance_km: 1.1
+  - name: DRUMMOND
+    distance_km: 15.52
+  - name: NAMEKGONLK
+    distance_km: 17.64
+- country: US
+  region: WI
+  name: Cadott
+  lat: '44.9502'
+  long: "-91.1532"
+  nearby_rate_centers:
+  - name: CADOTT
+    distance_km: 0.5
+  - name: BOYD
+    distance_km: 9.39
+  - name: JIM FALLS
+    distance_km: 14.23
+- country: US
+  region: WI
+  name: Caledonia
+  lat: '42.7986'
+  long: "-87.8762"
+  nearby_rate_centers:
+  - name: CALEDONIA
+    distance_km: 5.88
+  - name: RACINE
+    distance_km: 10.48
+  - name: PARKSIDE
+    distance_km: 15.12
+- country: US
+  region: WI
+  name: Cambria
+  lat: '43.5416'
+  long: "-89.1108"
+  nearby_rate_centers:
+  - name: CAMBRIA
+    distance_km: 0.37
+  - name: RANDOLPH
+    distance_km: 8.32
+  - name: RIO
+    distance_km: 14.25
+- country: US
+  region: WI
+  name: Cambridge
+  lat: '43.0071'
+  long: "-89.0214"
+  nearby_rate_centers:
+  - name: CAMBRIDGE
+    distance_km: 1.0
+  - name: DEERFIELD
+    distance_km: 6.62
+  - name: LAKE MILLS
+    distance_km: 12.53
+- country: US
+  region: WI
+  name: Cameron
+  lat: '45.4059'
+  long: "-91.7422"
+  nearby_rate_centers:
+  - name: CAMERON
+    distance_km: 1.37
+  - name: CANTON
+    distance_km: 7.8
+  - name: BARRON
+    distance_km: 7.87
+- country: US
+  region: WI
+  name: Camp Douglas
+  lat: '43.9197'
+  long: "-90.2697"
+  nearby_rate_centers:
+  - name: CAMPDOUGLS
+    distance_km: 0.59
+  - name: NEW LISBON
+    distance_km: 9.76
+  - name: KENDALL
+    distance_km: 16.06
+- country: US
+  region: WI
+  name: Campbellsport
+  lat: '43.5975'
+  long: "-88.2814"
+  nearby_rate_centers:
+  - name: CAMPBELSPT
+    distance_km: 0.34
+  - name: KEWASKUM
+    distance_km: 9.48
+  - name: EDEN
+    distance_km: 12.43
+- country: US
+  region: WI
+  name: Caroline
+  lat: '44.7220'
+  long: "-88.8948"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 6.33
+  - name: TIGERTON
+    distance_km: 13.14
+  - name: CLINTONVL
+    distance_km: 16.28
+- country: US
+  region: WI
+  name: Cascade
+  lat: '43.6599'
+  long: "-88.0070"
+  nearby_rate_centers:
+  - name: CASCADE
+    distance_km: 0.42
+  - name: PLYMOUTH
+    distance_km: 10.33
+  - name: RANDOMLAKE
+    distance_km: 12.36
+- country: US
+  region: WI
+  name: Casco
+  lat: '44.5558'
+  long: "-87.6197"
+  nearby_rate_centers:
+  - name: CASCO
+    distance_km: 0.76
+  - name: LUXEMBURG
+    distance_km: 7.0
+  - name: KEWAUNEE
+    distance_km: 14.58
+- country: US
+  region: WI
+  name: Cashton
+  lat: '43.7412'
+  long: "-90.7866"
+  nearby_rate_centers:
+  - name: CASHTON
+    distance_km: 0.14
+  - name: WESTBY
+    distance_km: 10.69
+  - name: ONTARIO
+    distance_km: 15.68
+- country: US
+  region: WI
+  name: Cassville
+  lat: '42.7150'
+  long: "-90.9891"
+  nearby_rate_centers:
+  - name: CASSVILLE
+    distance_km: 0.42
+  - name: BEETOWN
+    distance_km: 11.73
+  - name: BLOOMINGTN
+    distance_km: 19.64
+- country: US
+  region: WI
+  name: Cataract
+  lat: '44.0867'
+  long: "-90.8383"
+  nearby_rate_centers:
+  - name: CATARACT
+    distance_km: 1.31
+  - name: MELROSE
+    distance_km: 14.06
+  - name: SPARTA
+    distance_km: 15.34
+- country: US
+  region: WI
+  name: Catawba
+  lat: '45.5370'
+  long: "-90.5335"
+  nearby_rate_centers:
+  - name: KENNAN
+    distance_km: 4.04
+  - name: HAWKINS
+    distance_km: 14.63
+  - name: SOO LAKE
+    distance_km: 16.59
+- country: US
+  region: WI
+  name: Cazenovia
+  lat: '43.5237'
+  long: "-90.1991"
+  nearby_rate_centers:
+  - name: CAZENOVIA
+    distance_km: 1.42
+  - name: LIME RIDGE
+    distance_km: 7.56
+  - name: LA VALLE
+    distance_km: 8.78
+- country: US
+  region: WI
+  name: Cecil
+  lat: '44.8108'
+  long: "-88.4485"
+  nearby_rate_centers:
+  - name: CECIL
+    distance_km: 0.43
+  - name: BONDUEL
+    distance_km: 8.86
+  - name: SHAWANO
+    distance_km: 12.61
+- country: US
+  region: WI
+  name: Cedar Grove
+  lat: '43.5682'
+  long: "-87.8243"
+  nearby_rate_centers:
+  - name: CEDARGROVE
+    distance_km: 0.42
+  - name: OOSTBURG
+    distance_km: 5.89
+  - name: BELGIUM
+    distance_km: 8.12
+- country: US
+  region: WI
+  name: Cedarburg
+  lat: '43.2990'
+  long: "-87.9887"
+  nearby_rate_centers:
+  - name: CEDARBURG
+    distance_km: 0.75
+  - name: THIENSVL
+    distance_km: 7.13
+  - name: PTWASHIGTN
+    distance_km: 13.69
+- country: US
+  region: WI
+  name: Ceex Haci
+  lat: '44.2818'
+  long: "-89.9650"
+  nearby_rate_centers:
+  - name: NEKOOSA
+    distance_km: 6.72
+  - name: PT EDWARDS
+    distance_km: 10.84
+  - name: WISCOSNRPD
+    distance_km: 15.7
+- country: US
+  region: WI
+  name: Centuria
+  lat: '45.4498'
+  long: "-92.5579"
+  nearby_rate_centers:
+  - name: CENTURIA
+    distance_km: 1.15
+  - name: STCROIXFLS
+    distance_km: 7.48
+  - name: BALSAMLAKE
+    distance_km: 8.61
+- country: US
+  region: WI
+  name: Chain O' Lakes
+  lat: '44.3318'
+  long: "-89.1672"
+  nearby_rate_centers:
+  - name: WAUPACA
+    distance_km: 7.49
+  - name: SCANDINVIA
+    distance_km: 14.19
+  - name: AMHERST
+    distance_km: 16.03
+- country: US
+  region: WI
+  name: Chaseburg
+  lat: '43.6598'
+  long: "-91.0968"
+  nearby_rate_centers:
+  - name: CHASEBURG
+    distance_km: 0.41
+  - name: COONVALLEY
+    distance_km: 8.11
+  - name: STODDARD
+    distance_km: 9.55
+- country: US
+  region: WI
+  name: Chelsea
+  lat: '45.2927'
+  long: "-90.3054"
+  nearby_rate_centers:
+  - name: RIB LAKE
+    distance_km: 8.94
+  - name: MEDFORD
+    distance_km: 15.83
+  - name: OGEMA
+    distance_km: 16.4
+- country: US
+  region: WI
+  name: Chenequa
+  lat: '43.1229'
+  long: "-88.3838"
+  nearby_rate_centers:
+  - name: HARTLAND
+    distance_km: 3.65
+  - name: NORTH LAKE
+    distance_km: 4.12
+  - name: DELAFIELD
+    distance_km: 6.77
+- country: US
+  region: WI
+  name: Chetek
+  lat: '45.3160'
+  long: "-91.6532"
+  nearby_rate_centers:
+  - name: CHETEK
+    distance_km: 1.2
+  - name: CAMERON
+    distance_km: 12.96
+  - name: CANTON
+    distance_km: 13.23
+- country: US
+  region: WI
+  name: Chief Lake
+  lat: '45.9209'
+  long: "-91.3303"
+  nearby_rate_centers:
+  - name: SPIDERLAKE
+    distance_km: 15.44
+  - name: HAYWARD
+    distance_km: 16.01
+  - name: STONE LAKE
+    distance_km: 18.34
+- country: US
+  region: WI
+  name: Chili
+  lat: '44.6296'
+  long: "-90.3583"
+  nearby_rate_centers:
+  - name: CHILI
+    distance_km: 0.76
+  - name: GRANTON
+    distance_km: 9.38
+  - name: LINDSEY
+    distance_km: 10.4
+- country: US
+  region: WI
+  name: Chilton
+  lat: '44.0293'
+  long: "-88.1625"
+  nearby_rate_centers:
+  - name: CHILTON
+    distance_km: 0.59
+  - name: NEWHOLSTEN
+    distance_km: 9.72
+  - name: STOCKBDG
+    distance_km: 12.29
+- country: US
+  region: WI
+  name: Chippewa Falls
+  lat: '44.9358'
+  long: "-91.3902"
+  nearby_rate_centers:
+  - name: CHIPPEWFLS
+    distance_km: 0.52
+  - name: EAGLEPOINT
+    distance_km: 11.79
+  - name: JIM FALLS
+    distance_km: 16.24
+- country: US
+  region: WI
+  name: Clam Lake
+  lat: '46.1579'
+  long: "-90.9056"
+  nearby_rate_centers:
+  - name: NAMEKGONLK
+    distance_km: 13.16
+  - name: GLIDDEN
+    distance_km: 25.36
+  - name: MELLEN
+    distance_km: 25.93
+- country: US
+  region: WI
+  name: Clarks Mills
+  lat: '44.0918'
+  long: "-87.8637"
+  nearby_rate_centers:
+  - name: VALDERS
+    distance_km: 2.97
+  - name: WHITELAW
+    distance_km: 7.32
+  - name: COLLINS
+    distance_km: 9.39
+- country: US
+  region: WI
+  name: Clayton
+  lat: '45.3260'
+  long: "-92.1710"
+  nearby_rate_centers:
+  - name: CLAYTON
+    distance_km: 0.7
+  - name: TURTLELAKE
+    distance_km: 8.55
+  - name: CLEAR LAKE
+    distance_km: 10.88
+- country: US
+  region: WI
+  name: Clear Lake
+  lat: '45.2491'
+  long: "-92.2675"
+  nearby_rate_centers:
+  - name: CLEAR LAKE
+    distance_km: 0.77
+  - name: AMERY
+    distance_km: 9.16
+  - name: DEER PARK
+    distance_km: 10.82
+- country: US
+  region: WI
+  name: Cleveland
+  lat: '43.9177'
+  long: "-87.7469"
+  nearby_rate_centers:
+  - name: CLEVELAND
+    distance_km: 0.19
+  - name: NEWTON
+    distance_km: 8.13
+  - name: HOWARDSGRV
+    distance_km: 10.84
+- country: US
+  region: WI
+  name: Clinton
+  lat: '42.5574'
+  long: "-88.8680"
+  nearby_rate_centers:
+  - name: CLINTON
+    distance_km: 0.11
+  - name: BERGEN
+    distance_km: 6.33
+  - name: SHARON
+    distance_km: 13.19
+- country: US
+  region: WI
+  name: Clintonville
+  lat: '44.6222'
+  long: "-88.7513"
+  nearby_rate_centers:
+  - name: CLINTONVL
+    distance_km: 0.57
+  - name: BEAR CREEK
+    distance_km: 10.0
+  - name: MARION
+    distance_km: 11.43
+- country: US
+  region: WI
+  name: Clyman
+  lat: '43.3116'
+  long: "-88.7232"
+  nearby_rate_centers:
+  - name: CLYMAN
+    distance_km: 0.94
+  - name: REESEVILLE
+    distance_km: 9.52
+  - name: LEBANON
+    distance_km: 9.74
+- country: US
+  region: WI
+  name: Cobb
+  lat: '42.9661'
+  long: "-90.3296"
+  nearby_rate_centers:
+  - name: COBB
+    distance_km: 1.91
+  - name: MONTFORT
+    distance_km: 7.93
+  - name: HIGHLAND
+    distance_km: 9.2
+- country: US
+  region: WI
+  name: Cochrane
+  lat: '44.2279'
+  long: "-91.8380"
+  nearby_rate_centers:
+  - name: COCHRANE
+    distance_km: 0.51
+  - name: ALMA
+    distance_km: 12.44
+  - name: WAUMANDEE
+    distance_km: 14.22
+- country: US
+  region: WI
+  name: Colby
+  lat: '44.9107'
+  long: "-90.3159"
+  nearby_rate_centers:
+  - name: COLBY
+    distance_km: 0.52
+  - name: DORCHESTER
+    distance_km: 11.18
+  - name: SPENCER
+    distance_km: 16.73
+- country: US
+  region: WI
+  name: Coleman
+  lat: '45.0673'
+  long: "-88.0358"
+  nearby_rate_centers:
+  - name: COLEMAN
+    distance_km: 0.32
+  - name: LENA
+    distance_km: 13.0
+  - name: HARMONY
+    distance_km: 18.06
+- country: US
+  region: WI
+  name: Colfax
+  lat: '44.9970'
+  long: "-91.7264"
+  nearby_rate_centers:
+  - name: COLFAX
+    distance_km: 0.27
+  - name: ELK MOUND
+    distance_km: 13.89
+  - name: WHEELER
+    distance_km: 15.61
+- country: US
+  region: WI
+  name: Collins
+  lat: '44.0856'
+  long: "-87.9809"
+  nearby_rate_centers:
+  - name: COLLINS
+    distance_km: 0.63
+  - name: REEDSVILLE
+    distance_km: 8.57
+  - name: VALDERS
+    distance_km: 8.57
+- country: US
+  region: WI
+  name: Coloma
+  lat: '44.0387'
+  long: "-89.5311"
+  nearby_rate_centers:
+  - name: COLOMA
+    distance_km: 1.33
+  - name: HANCOCK
+    distance_km: 10.32
+  - name: WESTFIELD
+    distance_km: 16.78
+- country: US
+  region: WI
+  name: Columbus
+  lat: '43.3354'
+  long: "-89.0300"
+  nearby_rate_centers:
+  - name: COLUMBUS
+    distance_km: 1.32
+  - name: FALL RIVER
+    distance_km: 5.36
+  - name: REESEVILLE
+    distance_km: 15.63
+- country: US
+  region: WI
+  name: Combined Locks
+  lat: '44.2642'
+  long: "-88.3064"
+  nearby_rate_centers:
+  - name: LTL CHUTE
+    distance_km: 2.19
+  - name: KAUKAUNA
+    distance_km: 3.89
+  - name: APPLETON
+    distance_km: 7.56
+- country: US
+  region: WI
+  name: Como
+  lat: '42.6126'
+  long: "-88.4858"
+  nearby_rate_centers:
+  - name: LAKEGENEVA
+    distance_km: 4.54
+  - name: WILLIAMSBY
+    distance_km: 6.29
+  - name: ELKHORN
+    distance_km: 8.16
+- country: US
+  region: WI
+  name: Coon Valley
+  lat: '43.7024'
+  long: "-91.0112"
+  nearby_rate_centers:
+  - name: COONVALLEY
+    distance_km: 0.39
+  - name: CHASEBURG
+    distance_km: 8.75
+  - name: WESTBY
+    distance_km: 13.42
+- country: US
+  region: WI
+  name: Cornell
+  lat: '45.1632'
+  long: "-91.1497"
+  nearby_rate_centers:
+  - name: CORNELL
+    distance_km: 1.48
+  - name: HOLCOMBE
+    distance_km: 7.52
+  - name: JIM FALLS
+    distance_km: 15.33
+- country: US
+  region: WI
+  name: Cornucopia
+  lat: '46.8566'
+  long: "-91.1082"
+  nearby_rate_centers:
+  - name: CORNUCOPIA
+    distance_km: 0.37
+  - name: BAYFIELD
+    distance_km: 22.61
+  - name: PORT WING
+    distance_km: 22.7
+- country: US
+  region: WI
+  name: Cottage Grove
+  lat: '43.0922'
+  long: "-89.2054"
+  nearby_rate_centers:
+  - name: COTTAGEGRV
+    distance_km: 1.97
+  - name: SUNPRAIRIE
+    distance_km: 10.27
+  - name: MCFARLAND
+    distance_km: 11.1
+- country: US
+  region: WI
+  name: Couderay
+  lat: '45.7976'
+  long: "-91.3005"
+  nearby_rate_centers:
+  - name: RADISSON
+    distance_km: 7.05
+  - name: EXELAND
+    distance_km: 14.73
+  - name: STONE LAKE
+    distance_km: 19.2
+- country: US
+  region: WI
+  name: Crandon
+  lat: '45.5686'
+  long: "-88.8973"
+  nearby_rate_centers:
+  - name: CRANDON
+    distance_km: 0.2
+  - name: ARGONNE
+    distance_km: 10.1
+  - name: LAONA
+    distance_km: 18.02
+- country: US
+  region: WI
+  name: Crivitz
+  lat: '45.2337'
+  long: "-88.0067"
+  nearby_rate_centers:
+  - name: CRIVITZ
+    distance_km: 0.33
+  - name: WAUSAUKEE
+    distance_km: 16.51
+  - name: COLEMAN
+    distance_km: 18.54
+- country: US
+  region: WI
+  name: Cross Plains
+  lat: '43.1145'
+  long: "-89.6479"
+  nearby_rate_centers:
+  - name: CROSS PL
+    distance_km: 0.38
+  - name: BLACKEARTH
+    distance_km: 8.64
+  - name: MIDDLETON
+    distance_km: 12.35
+- country: US
+  region: WI
+  name: Cuba City
+  lat: '42.6036'
+  long: "-90.4318"
+  nearby_rate_centers:
+  - name: CUBA CITY
+    distance_km: 0.77
+  - name: BENTON
+    distance_km: 5.23
+  - name: HAZELGREEN
+    distance_km: 7.75
+- country: US
+  region: WI
+  name: Cudahy
+  lat: '42.9467'
+  long: "-87.8641"
+  nearby_rate_centers:
+  - name: MILWAUKZN1
+    distance_km: 12.61
+  - name: MILWAUKZN2
+    distance_km: 12.61
+  - name: MILWAUKZN3
+    distance_km: 12.61
+  - name: MILWAUKZN4
+    distance_km: 12.61
+  - name: MILWAUKZN5
+    distance_km: 12.61
+  - name: CALEDONIA
+    distance_km: 16.93
+  - name: MUSKEGO
+    distance_km: 22.23
+- country: US
+  region: WI
+  name: Cumberland
+  lat: '45.5358'
+  long: "-92.0291"
+  nearby_rate_centers:
+  - name: CUMBERLAND
+    distance_km: 0.92
+  - name: ALMENA
+    distance_km: 12.33
+  - name: TURTLELAKE
+    distance_km: 17.49
+- country: US
+  region: WI
+  name: Curtiss
+  lat: '44.9521'
+  long: "-90.4350"
+  nearby_rate_centers:
+  - name: DORCHESTER
+    distance_km: 10.21
+  - name: COLBY
+    distance_km: 10.32
+  - name: OWEN
+    distance_km: 10.32
+- country: US
+  region: WI
+  name: Dale
+  lat: '44.2757'
+  long: "-88.6730"
+  nearby_rate_centers:
+  - name: HORTONVL
+    distance_km: 7.14
+  - name: READFIELD
+    distance_km: 7.63
+  - name: LARSEN
+    distance_km: 9.44
+- country: US
+  region: WI
+  name: Dallas
+  lat: '45.2591'
+  long: "-91.8142"
+  nearby_rate_centers:
+  - name: DALLAS
+    distance_km: 1.06
+  - name: RIDGELAND
+    distance_km: 8.22
+  - name: PRAIRIFARM
+    distance_km: 12.77
+- country: US
+  region: WI
+  name: Dalton
+  lat: '43.6562'
+  long: "-89.2069"
+  nearby_rate_centers:
+  - name: KINGSTON
+    distance_km: 7.14
+  - name: CAMBRIA
+    distance_km: 15.0
+  - name: PARDEEVL
+    distance_km: 15.21
+- country: US
+  region: WI
+  name: Danbury
+  lat: '46.0088'
+  long: "-92.3777"
+  nearby_rate_centers:
+  - name: DANBURY
+    distance_km: 1.08
+  - name: WEBSTER
+    distance_km: 13.92
+  - name: WEBB LAKE
+    distance_km: 20.18
+- country: US
+  region: WI
+  name: Dane
+  lat: '43.2497'
+  long: "-89.4993"
+  nearby_rate_centers:
+  - name: WAUNAKEE
+    distance_km: 7.43
+  - name: LODI
+    distance_km: 7.65
+  - name: DE FOREST
+    distance_km: 12.94
+- country: US
+  region: WI
+  name: Darien
+  lat: '42.6007'
+  long: "-88.7129"
+  nearby_rate_centers:
+  - name: DARIEN
+    distance_km: 0.57
+  - name: DELAVAN
+    distance_km: 6.86
+  - name: SHARON
+    distance_km: 11.34
+- country: US
+  region: WI
+  name: Darlington
+  lat: '42.6765'
+  long: "-90.1201"
+  nearby_rate_centers:
+  - name: DARLINGTON
+    distance_km: 0.98
+  - name: GRATIOT
+    distance_km: 13.64
+  - name: WIOTA
+    distance_km: 14.68
+- country: US
+  region: WI
+  name: De Pere
+  lat: '44.4308'
+  long: "-88.0785"
+  nearby_rate_centers:
+  - name: DE PERE
+    distance_km: 2.68
+  - name: GREEN BAY
+    distance_km: 10.41
+  - name: ONEIDA
+    distance_km: 11.91
+- country: US
+  region: WI
+  name: De Soto
+  lat: '43.4283'
+  long: "-91.1963"
+  nearby_rate_centers:
+  - name: DE SOTO
+    distance_km: 6.48
+  - name: GENOA
+    distance_km: 14.33
+  - name: SENECA
+    distance_km: 20.18
+- country: US
+  region: WI
+  name: DeForest
+  lat: '43.2301'
+  long: "-89.3431"
+  nearby_rate_centers:
+  - name: DE FOREST
+    distance_km: 2.32
+  - name: WAUNAKEE
+    distance_km: 9.56
+  - name: SUNPRAIRIE
+    distance_km: 11.43
+- country: US
+  region: WI
+  name: Deer Park
+  lat: '45.1887'
+  long: "-92.3879"
+  nearby_rate_centers:
+  - name: DEER PARK
+    distance_km: 0.76
+  - name: STARPRAIRI
+    distance_km: 11.56
+  - name: CLEAR LAKE
+    distance_km: 12.23
+- country: US
+  region: WI
+  name: Deerfield
+  lat: '43.0491'
+  long: "-89.0762"
+  nearby_rate_centers:
+  - name: DEERFIELD
+    distance_km: 0.23
+  - name: CAMBRIDGE
+    distance_km: 7.43
+  - name: COTTAGEGRV
+    distance_km: 10.6
+- country: US
+  region: WI
+  name: Dekorra
+  lat: '43.4539'
+  long: "-89.4603"
+  nearby_rate_centers:
+  - name: POYNETTE
+    distance_km: 8.19
+  - name: PORTAGE
+    distance_km: 9.65
+  - name: MERRIMAC
+    distance_km: 15.52
+- country: US
+  region: WI
+  name: Delafield
+  lat: '43.0720'
+  long: "-88.3913"
+  nearby_rate_centers:
+  - name: DELAFIELD
+    distance_km: 1.8
+  - name: HARTLAND
+    distance_km: 4.46
+  - name: DOUSMAN
+    distance_km: 9.14
+- country: US
+  region: WI
+  name: Delavan
+  lat: '42.6282'
+  long: "-88.6323"
+  nearby_rate_centers:
+  - name: DELAVAN
+    distance_km: 0.87
+  - name: DARIEN
+    distance_km: 6.78
+  - name: WILLIAMSBY
+    distance_km: 8.42
+- country: US
+  region: WI
+  name: Delavan Lake
+  lat: '42.5992'
+  long: "-88.6176"
+  nearby_rate_centers:
+  - name: DELAVAN
+    distance_km: 4.19
+  - name: WILLIAMSBY
+    distance_km: 5.81
+  - name: DARIEN
+    distance_km: 7.23
+- country: US
+  region: WI
+  name: Dellwood
+  lat: '43.9545'
+  long: "-89.9341"
+  nearby_rate_centers:
+  - name: ADAMS
+    distance_km: 9.57
+  - name: NECEDAH
+    distance_km: 13.32
+  - name: MONROE CTR
+    distance_km: 15.21
+- country: US
+  region: WI
+  name: Denmark
+  lat: '44.3493'
+  long: "-87.8313"
+  nearby_rate_centers:
+  - name: DENMARK
+    distance_km: 0.21
+  - name: WAYSIDE
+    distance_km: 13.69
+  - name: TISCHMILLS
+    distance_km: 16.54
+- country: US
+  region: WI
+  name: Diamond Bluff
+  lat: '44.6489'
+  long: "-92.6189"
+  nearby_rate_centers:
+  - name: HAGER CITY
+    distance_km: 8.6
+  - name: ELLSWORTH
+    distance_km: 14.17
+  - name: BAY CITY
+    distance_km: 15.02
+- country: US
+  region: WI
+  name: Diaperville
+  lat: '46.6059'
+  long: "-90.7095"
+  nearby_rate_centers:
+  - name: ASHLAND
+    distance_km: 13.4
+  - name: WASHBURN
+    distance_km: 15.93
+  - name: LA POINTE
+    distance_km: 20.76
+- country: US
+  region: WI
+  name: Dickeyville
+  lat: '42.6246'
+  long: "-90.5914"
+  nearby_rate_centers:
+  - name: DICKEYVL
+    distance_km: 1.19
+  - name: FAIRPLAY
+    distance_km: 9.69
+  - name: POTOSI
+    distance_km: 11.87
+- country: US
+  region: WI
+  name: Dodge
+  lat: '44.1344'
+  long: "-91.5493"
+  nearby_rate_centers:
+  - name: CENTERVL
+    distance_km: 10.27
+  - name: FOUNTAINCY
+    distance_km: 13.25
+  - name: ARCADIA
+    distance_km: 13.4
+- country: US
+  region: WI
+  name: Dodgeville
+  lat: '42.9660'
+  long: "-90.1297"
+  nearby_rate_centers:
+  - name: DODGEVILLE
+    distance_km: 1.15
+  - name: RIDGEWAY
+    distance_km: 11.99
+  - name: MINERAL PT
+    distance_km: 12.65
+- country: US
+  region: WI
+  name: Dorchester
+  lat: '45.0025'
+  long: "-90.3308"
+  nearby_rate_centers:
+  - name: DORCHESTER
+    distance_km: 0.93
+  - name: STETSONVL
+    distance_km: 8.96
+  - name: COLBY
+    distance_km: 10.63
+- country: US
+  region: WI
+  name: Dousman
+  lat: '43.0092'
+  long: "-88.4771"
+  nearby_rate_centers:
+  - name: DOUSMAN
+    distance_km: 0.87
+  - name: DELAFIELD
+    distance_km: 8.22
+  - name: SULLIVAN
+    distance_km: 8.49
+- country: US
+  region: WI
+  name: Downing
+  lat: '45.0498'
+  long: "-92.1243"
+  nearby_rate_centers:
+  - name: GLENWOODCY
+    distance_km: 3.63
+  - name: BOYCEVILLE
+    distance_km: 7.3
+  - name: KNAPP
+    distance_km: 11.07
+- country: US
+  region: WI
+  name: Downsville
+  lat: '44.7709'
+  long: "-91.9257"
+  nearby_rate_centers:
+  - name: DOWNSVILLE
+    distance_km: 1.03
+  - name: EAU GALLE
+    distance_km: 10.8
+  - name: MENOMONIE
+    distance_km: 11.81
+- country: US
+  region: WI
+  name: Doylestown
+  lat: '43.4276'
+  long: "-89.1457"
+  nearby_rate_centers:
+  - name: RIO
+    distance_km: 7.65
+  - name: FALL RIVER
+    distance_km: 9.27
+  - name: CAMBRIA
+    distance_km: 13.18
+- country: US
+  region: WI
+  name: Dresser
+  lat: '45.3616'
+  long: "-92.6344"
+  nearby_rate_centers:
+  - name: DRESSER
+    distance_km: 1.39
+  - name: STCROIXFLS
+    distance_km: 6.21
+  - name: OSCEOLA
+    distance_km: 6.94
+- country: US
+  region: WI
+  name: Drummond
+  lat: '46.3437'
+  long: "-91.2500"
+  nearby_rate_centers:
+  - name: DRUMMOND
+    distance_km: 0.74
+  - name: GRANDVIEW
+    distance_km: 10.61
+  - name: CABLE
+    distance_km: 15.41
+- country: US
+  region: WI
+  name: Dunbar
+  lat: '45.6470'
+  long: "-88.1754"
+  nearby_rate_centers:
+  - name: GOODMAN
+    distance_km: 13.64
+  - name: PEMBINE
+    distance_km: 14.18
+  - name: AURORA
+    distance_km: 17.96
+- country: US
+  region: WI
+  name: Durand
+  lat: '44.6270'
+  long: "-91.9607"
+  nearby_rate_centers:
+  - name: DURAND
+    distance_km: 0.45
+  - name: ARKANSAW
+    distance_km: 5.61
+  - name: EAU GALLE
+    distance_km: 9.01
+- country: US
+  region: WI
+  name: Dyckesville
+  lat: '44.6403'
+  long: "-87.7647"
+  nearby_rate_centers:
+  - name: LUXEMBURG
+    distance_km: 12.79
+  - name: NEWFRANKEN
+    distance_km: 13.83
+  - name: BRUSSELS
+    distance_km: 15.15
+- country: US
+  region: WI
+  name: Eagle
+  lat: '42.8790'
+  long: "-88.4697"
+  nearby_rate_centers:
+  - name: EAGLE
+    distance_km: 0.82
+  - name: NO PRAIRIE
+    distance_km: 8.53
+  - name: PALMYRA
+    distance_km: 9.86
+- country: US
+  region: WI
+  name: Eagle Lake
+  lat: '42.7014'
+  long: "-88.1291"
+  nearby_rate_centers:
+  - name: UNIONGROVE
+    distance_km: 6.42
+  - name: WATERFORD
+    distance_km: 9.49
+  - name: WIND LAKE
+    distance_km: 12.26
+- country: US
+  region: WI
+  name: Eagle River
+  lat: '45.9250'
+  long: "-89.2561"
+  nearby_rate_centers:
+  - name: EAGLERIVER
+    distance_km: 0.76
+  - name: THREELAKES
+    distance_km: 15.37
+  - name: SUGAR CAMP
+    distance_km: 16.66
+- country: US
+  region: WI
+  name: East Troy
+  lat: '42.7846'
+  long: "-88.3973"
+  nearby_rate_centers:
+  - name: EAST TROY
+    distance_km: 0.84
+  - name: MUKWONAGO
+    distance_km: 10.68
+  - name: EAGLE
+    distance_km: 12.75
+- country: US
+  region: WI
+  name: Eastman
+  lat: '43.1622'
+  long: "-91.0254"
+  nearby_rate_centers:
+  - name: EASTMAN
+    distance_km: 0.83
+  - name: STEUBEN
+    distance_km: 13.63
+  - name: WAUZEKA
+    distance_km: 14.93
+- country: US
+  region: WI
+  name: Easton
+  lat: '43.8383'
+  long: "-89.8049"
+  nearby_rate_centers:
+  - name: BROOKS
+    distance_km: 13.16
+  - name: ADAMS
+    distance_km: 13.57
+  - name: LYNDON STA
+    distance_km: 15.5
+- country: US
+  region: WI
+  name: Eau Claire
+  lat: '44.8197'
+  long: "-91.4948"
+  nearby_rate_centers:
+  - name: EAU CLAIRE
+    distance_km: 1.41
+  - name: ELK LAKE
+    distance_km: 12.5
+  - name: CHIPPEWFLS
+    distance_km: 15.78
+- country: US
+  region: WI
+  name: Eden
+  lat: '43.6928'
+  long: "-88.3642"
+  nearby_rate_centers:
+  - name: EDEN
+    distance_km: 0.38
+  - name: FONDDU LAC
+    distance_km: 11.34
+  - name: CAMPBELSPT
+    distance_km: 12.19
+- country: US
+  region: WI
+  name: Edgar
+  lat: '44.9229'
+  long: "-89.9626"
+  nearby_rate_centers:
+  - name: EDGAR
+    distance_km: 0.16
+  - name: MARATHON
+    distance_km: 10.37
+  - name: ATHENS
+    distance_km: 15.39
+- country: US
+  region: WI
+  name: Edgerton
+  lat: '42.8385'
+  long: "-89.0699"
+  nearby_rate_centers:
+  - name: EDGERTON
+    distance_km: 0.69
+  - name: MILTON
+    distance_km: 12.7
+  - name: STOUGHTON
+    distance_km: 14.61
+- country: US
+  region: WI
+  name: Edmund
+  lat: '42.9662'
+  long: "-90.2644"
+  nearby_rate_centers:
+  - name: COBB
+    distance_km: 3.39
+  - name: DODGEVILLE
+    distance_km: 11.46
+  - name: HIGHLAND
+    distance_km: 12.26
+- country: US
+  region: WI
+  name: Egg Harbor
+  lat: '45.0528'
+  long: "-87.2826"
+  nearby_rate_centers:
+  - name: EGG HARBOR
+    distance_km: 1.47
+  - name: JACKSONPT
+    distance_km: 11.27
+  - name: BAILEYSHBR
+    distance_km: 12.71
+- country: US
+  region: WI
+  name: Eland
+  lat: '44.8670'
+  long: "-89.2090"
+  nearby_rate_centers:
+  - name: WITTENBERG
+    distance_km: 5.95
+  - name: BIRNAMWOOD
+    distance_km: 7.27
+  - name: ELDERON
+    distance_km: 9.4
+- country: US
+  region: WI
+  name: Elcho
+  lat: '45.4354'
+  long: "-89.1861"
+  nearby_rate_centers:
+  - name: ELCHO
+    distance_km: 0.96
+  - name: PELICAN LK
+    distance_km: 10.01
+  - name: PICKEREL
+    distance_km: 24.36
+- country: US
+  region: WI
+  name: Elderon
+  lat: '44.7843'
+  long: "-89.2480"
+  nearby_rate_centers:
+  - name: ELDERON
+    distance_km: 1.35
+  - name: WITTENBERG
+    distance_km: 7.7
+  - name: HATLEY
+    distance_km: 12.47
+- country: US
+  region: WI
+  name: Eleva
+  lat: '44.5764'
+  long: "-91.4705"
+  nearby_rate_centers:
+  - name: ELEVA
+    distance_km: 0.53
+  - name: STRUM
+    distance_km: 7.11
+  - name: CLEGHORN
+    distance_km: 9.95
+- country: US
+  region: WI
+  name: Elk Mound
+  lat: '44.8744'
+  long: "-91.6862"
+  nearby_rate_centers:
+  - name: ELK MOUND
+    distance_km: 0.43
+  - name: ELK LAKE
+    distance_km: 6.03
+  - name: COLFAX
+    distance_km: 14.05
+- country: US
+  region: WI
+  name: Elkhart Lake
+  lat: '43.8322'
+  long: "-88.0147"
+  nearby_rate_centers:
+  - name: ELKHART LK
+    distance_km: 1.1
+  - name: GREENBUSH
+    distance_km: 8.45
+  - name: PLYMOUTH
+    distance_km: 9.47
+- country: US
+  region: WI
+  name: Elkhorn
+  lat: '42.6713'
+  long: "-88.5377"
+  nearby_rate_centers:
+  - name: ELKHORN
+    distance_km: 0.44
+  - name: DELAVAN
+    distance_km: 9.49
+  - name: WILLIAMSBY
+    distance_km: 9.97
+- country: US
+  region: WI
+  name: Ellison Bay
+  lat: '45.2551'
+  long: "-87.0729"
+  nearby_rate_centers:
+  - name: SISTER BAY
+    distance_km: 8.46
+  - name: WASHIGTNIS
+    distance_km: 16.33
+  - name: BAILEYSHBR
+    distance_km: 21.32
+- country: US
+  region: WI
+  name: Ellsworth
+  lat: '44.7364'
+  long: "-92.4806"
+  nearby_rate_centers:
+  - name: ELLSWORTH
+    distance_km: 0.51
+  - name: HAGER CITY
+    distance_km: 15.62
+  - name: BAY CITY
+    distance_km: 17.07
+- country: US
+  region: WI
+  name: Elm Grove
+  lat: '43.0480'
+  long: "-88.0867"
+  nearby_rate_centers:
+  - name: MILWAUKZN1
+    distance_km: 11.36
+  - name: MILWAUKZN2
+    distance_km: 11.36
+  - name: MILWAUKZN3
+    distance_km: 11.36
+  - name: MILWAUKZN4
+    distance_km: 11.36
+  - name: MILWAUKZN5
+    distance_km: 11.36
+  - name: WAUKESHA
+    distance_km: 12.08
+  - name: PEWAUKEE
+    distance_km: 14.4
+- country: US
+  region: WI
+  name: Elmwood
+  lat: '44.7800'
+  long: "-92.1491"
+  nearby_rate_centers:
+  - name: ELMWOOD
+    distance_km: 0.42
+  - name: SPRING VLY
+    distance_km: 10.31
+  - name: SPRINGLAKE
+    distance_km: 11.33
+- country: US
+  region: WI
+  name: Elmwood Park
+  lat: '42.6917'
+  long: "-87.8223"
+  nearby_rate_centers:
+  - name: PARKSIDE
+    distance_km: 2.81
+  - name: RACINE
+    distance_km: 4.48
+  - name: SOMERS
+    distance_km: 8.32
+- country: US
+  region: WI
+  name: Elroy
+  lat: '43.7419'
+  long: "-90.2704"
+  nearby_rate_centers:
+  - name: ELROY
+    distance_km: 0.52
+  - name: KENDALL
+    distance_km: 9.32
+  - name: WONEWOC
+    distance_km: 11.2
+- country: US
+  region: WI
+  name: Embarrass
+  lat: '44.6684'
+  long: "-88.7037"
+  nearby_rate_centers:
+  - name: CLINTONVL
+    distance_km: 6.83
+  - name: MARION
+    distance_km: 14.12
+  - name: SHAWANO
+    distance_km: 14.36
+- country: US
+  region: WI
+  name: Emerald
+  lat: '45.0833'
+  long: "-92.2579"
+  nearby_rate_centers:
+  - name: GLENWOODCY
+    distance_km: 7.5
+  - name: WOODVILLE
+    distance_km: 14.17
+  - name: DEER PARK
+    distance_km: 15.57
+- country: US
+  region: WI
+  name: Endeavor
+  lat: '43.7146'
+  long: "-89.4684"
+  nearby_rate_centers:
+  - name: ENDEAVOR
+    distance_km: 0.43
+  - name: PACKWAUKEE
+    distance_km: 8.64
+  - name: OXFORD
+    distance_km: 10.74
+- country: US
+  region: WI
+  name: Ephraim
+  lat: '45.1589'
+  long: "-87.1667"
+  nearby_rate_centers:
+  - name: SISTER BAY
+    distance_km: 4.85
+  - name: BAILEYSHBR
+    distance_km: 10.86
+  - name: EGG HARBOR
+    distance_km: 15.58
+- country: US
+  region: WI
+  name: Ettrick
+  lat: '44.1695'
+  long: "-91.2651"
+  nearby_rate_centers:
+  - name: ETTRICK
+    distance_km: 0.24
+  - name: GALESVILLE
+    distance_km: 12.24
+  - name: BLAIR
+    distance_km: 13.77
+- country: US
+  region: WI
+  name: Eureka
+  lat: '44.0074'
+  long: "-88.8425"
+  nearby_rate_centers:
+  - name: BERLIN
+    distance_km: 9.26
+  - name: OMRO
+    distance_km: 9.48
+  - name: PICKETT
+    distance_km: 14.2
+- country: US
+  region: WI
+  name: Evansville
+  lat: '42.7781'
+  long: "-89.2967"
+  nearby_rate_centers:
+  - name: EVANSVILLE
+    distance_km: 0.52
+  - name: BROOKLYN
+    distance_km: 9.77
+  - name: ALBANY
+    distance_km: 13.48
+- country: US
+  region: WI
+  name: Exeland
+  lat: '45.6670'
+  long: "-91.2426"
+  nearby_rate_centers:
+  - name: EXELAND
+    distance_km: 0.93
+  - name: RADISSON
+    distance_km: 12.16
+  - name: BRUCE
+    distance_km: 22.15
+- country: US
+  region: WI
+  name: Fairchild
+  lat: '44.6036'
+  long: "-90.9577"
+  nearby_rate_centers:
+  - name: FAIRCHILD
+    distance_km: 1.06
+  - name: AUGUSTA
+    distance_km: 16.13
+  - name: MERRILLAN
+    distance_km: 19.15
+- country: US
+  region: WI
+  name: Fairwater
+  lat: '43.7424'
+  long: "-88.8680"
+  nearby_rate_centers:
+  - name: BRANDON
+    distance_km: 6.7
+  - name: MARKESAN
+    distance_km: 10.56
+  - name: RIPON
+    distance_km: 11.49
+- country: US
+  region: WI
+  name: Fall Creek
+  lat: '44.7639'
+  long: "-91.2783"
+  nearby_rate_centers:
+  - name: FALL CREEK
+    distance_km: 0.49
+  - name: AUGUSTA
+    distance_km: 14.86
+  - name: CLEGHORN
+    distance_km: 16.13
+- country: US
+  region: WI
+  name: Fall River
+  lat: '43.3856'
+  long: "-89.0455"
+  nearby_rate_centers:
+  - name: FALL RIVER
+    distance_km: 0.62
+  - name: COLUMBUS
+    distance_km: 6.51
+  - name: RIO
+    distance_km: 16.92
+- country: US
+  region: WI
+  name: Fennimore
+  lat: '42.9794'
+  long: "-90.6491"
+  nearby_rate_centers:
+  - name: FENNIMORE
+    distance_km: 0.41
+  - name: LANCASTER
+    distance_km: 15.21
+  - name: MOUNT HOPE
+    distance_km: 16.32
+- country: US
+  region: WI
+  name: Fenwood
+  lat: '44.8658'
+  long: "-90.0146"
+  nearby_rate_centers:
+  - name: EDGAR
+    distance_km: 7.71
+  - name: STRATFORD
+    distance_km: 8.92
+  - name: MARATHON
+    distance_km: 16.29
+- country: US
+  region: WI
+  name: Ferryville
+  lat: '43.3516'
+  long: "-91.0936"
+  nearby_rate_centers:
+  - name: SENECA
+    distance_km: 8.5
+  - name: DE SOTO
+    distance_km: 14.33
+  - name: GAYS MILLS
+    distance_km: 19.86
+- country: US
+  region: WI
+  name: Fitchburg
+  lat: '42.9859'
+  long: "-89.4255"
+  nearby_rate_centers:
+  - name: OREGON
+    distance_km: 7.61
+  - name: VERONA
+    distance_km: 8.81
+  - name: MADISON
+    distance_km: 10.52
+- country: US
+  region: WI
+  name: Florence
+  lat: '45.9266'
+  long: "-88.2463"
+  nearby_rate_centers:
+  - name: FLORENCE
+    distance_km: 0.43
+  - name: SPREADEAGL
+    distance_km: 10.66
+  - name: AURORA
+    distance_km: 18.22
+- country: US
+  region: WI
+  name: Fond du Lac
+  lat: '43.7718'
+  long: "-88.4397"
+  nearby_rate_centers:
+  - name: FONDDU LAC
+    distance_km: 0.85
+  - name: EDEN
+    distance_km: 10.76
+  - name: VAN DYNE
+    distance_km: 13.17
+- country: US
+  region: WI
+  name: Footville
+  lat: '42.6715'
+  long: "-89.2084"
+  nearby_rate_centers:
+  - name: FOOTVILLE
+    distance_km: 0.66
+  - name: ORFORDVL
+    distance_km: 5.68
+  - name: EVANSVILLE
+    distance_km: 13.56
+- country: US
+  region: WI
+  name: Forest Junction
+  lat: '44.2139'
+  long: "-88.1496"
+  nearby_rate_centers:
+  - name: BRILLION
+    distance_km: 8.09
+  - name: HILBERT
+    distance_km: 8.17
+  - name: SHERWOOD
+    distance_km: 9.6
+- country: US
+  region: WI
+  name: Forestville
+  lat: '44.6908'
+  long: "-87.4787"
+  nearby_rate_centers:
+  - name: FORESTVL
+    distance_km: 1.01
+  - name: ALGOMA
+    distance_km: 10.41
+  - name: BRUSSELS
+    distance_km: 11.56
+- country: US
+  region: WI
+  name: Fort Atkinson
+  lat: '42.9253'
+  long: "-88.8442"
+  nearby_rate_centers:
+  - name: FTATKINSON
+    distance_km: 1.39
+  - name: JEFFERSON
+    distance_km: 9.7
+  - name: WHITEWATER
+    distance_km: 14.21
+- country: US
+  region: WI
+  name: Fountain City
+  lat: '44.1202'
+  long: "-91.6970"
+  nearby_rate_centers:
+  - name: FOUNTAINCY
+    distance_km: 2.16
+  - name: COCHRANE
+    distance_km: 16.57
+  - name: CENTERVL
+    distance_km: 20.24
+- country: US
+  region: WI
+  name: Fox Crossing
+  lat: '44.2228'
+  long: "-88.4763"
+  nearby_rate_centers:
+  - name: NEENAH
+    distance_km: 4.43
+  - name: APPLETON
+    distance_km: 7.07
+  - name: LARSEN
+    distance_km: 11.94
+- country: US
+  region: WI
+  name: Fox Lake
+  lat: '43.5619'
+  long: "-88.9130"
+  nearby_rate_centers:
+  - name: FOX LAKE
+    distance_km: 0.49
+  - name: RANDOLPH
+    distance_km: 7.94
+  - name: BEAVER DAM
+    distance_km: 13.53
+- country: US
+  region: WI
+  name: Fox Point
+  lat: '43.1581'
+  long: "-87.9013"
+  nearby_rate_centers:
+  - name: THIENSVL
+    distance_km: 10.92
+  - name: MILWAUKZN1
+    distance_km: 13.39
+  - name: MILWAUKZN2
+    distance_km: 13.39
+  - name: MILWAUKZN3
+    distance_km: 13.39
+  - name: MILWAUKZN4
+    distance_km: 13.39
+  - name: MILWAUKZN5
+    distance_km: 13.39
+  - name: CEDARBURG
+    distance_km: 17.11
+- country: US
+  region: WI
+  name: Francis Creek
+  lat: '44.2006'
+  long: "-87.7209"
+  nearby_rate_centers:
+  - name: MISHICOT
+    distance_km: 7.15
+  - name: WHITELAW
+    distance_km: 9.81
+  - name: MANITOWOC
+    distance_km: 12.54
+- country: US
+  region: WI
+  name: Franklin
+  lat: '42.8854'
+  long: "-88.0104"
+  nearby_rate_centers:
+  - name: MUSKEGO
+    distance_km: 10.07
+  - name: CALEDONIA
+    distance_km: 10.1
+  - name: WIND LAKE
+    distance_km: 15.23
+- country: US
+  region: WI
+  name: Franks Field
+  lat: '46.5522'
+  long: "-90.5989"
+  nearby_rate_centers:
+  - name: ASHLAND
+    distance_km: 22.26
+  - name: MARENGO
+    distance_km: 22.57
+  - name: MELLEN
+    distance_km: 25.93
+- country: US
+  region: WI
+  name: Frederic
+  lat: '45.6548'
+  long: "-92.4646"
+  nearby_rate_centers:
+  - name: FREDERIC
+    distance_km: 1.39
+  - name: LEWIS
+    distance_km: 8.0
+  - name: LUCK
+    distance_km: 8.8
+- country: US
+  region: WI
+  name: Fredonia
+  lat: '43.4715'
+  long: "-87.9490"
+  nearby_rate_centers:
+  - name: WAUBEKA
+    distance_km: 3.35
+  - name: BELGIUM
+    distance_km: 8.05
+  - name: RANDOMLAKE
+    distance_km: 9.13
+- country: US
+  region: WI
+  name: Fremont
+  lat: '44.2602'
+  long: "-88.8715"
+  nearby_rate_centers:
+  - name: FREMONT
+    distance_km: 0.6
+  - name: WEYAUWEGA
+    distance_km: 7.65
+  - name: READFIELD
+    distance_km: 8.33
+- country: US
+  region: WI
+  name: French Island
+  lat: '43.8593'
+  long: "-91.2614"
+  nearby_rate_centers:
+  - name: LA CROSSE
+    distance_km: 4.67
+  - name: HOLMEN
+    distance_km: 10.89
+  - name: WEST SALEM
+    distance_km: 15.02
+- country: US
+  region: WI
+  name: Friendship
+  lat: '43.9720'
+  long: "-89.8203"
+  nearby_rate_centers:
+  - name: ADAMS
+    distance_km: 1.39
+  - name: MONROE CTR
+    distance_km: 12.74
+  - name: NECEDAH
+    distance_km: 20.68
+- country: US
+  region: WI
+  name: Friesland
+  lat: '43.5886'
+  long: "-89.0670"
+  nearby_rate_centers:
+  - name: CAMBRIA
+    distance_km: 6.01
+  - name: RANDOLPH
+    distance_km: 7.06
+  - name: KINGSTON
+    distance_km: 12.87
+- country: US
+  region: WI
+  name: Fulton
+  lat: '42.8074'
+  long: "-89.1269"
+  nearby_rate_centers:
+  - name: EDGERTON
+    distance_km: 5.47
+  - name: STOUGHTON
+    distance_km: 14.14
+  - name: EVANSVILLE
+    distance_km: 14.52
+- country: US
+  region: WI
+  name: Galesville
+  lat: '44.0839'
+  long: "-91.3580"
+  nearby_rate_centers:
+  - name: GALESVILLE
+    distance_km: 0.23
+  - name: CENTERVL
+    distance_km: 7.57
+  - name: TREMPEALEU
+    distance_km: 10.54
+- country: US
+  region: WI
+  name: Gays Mills
+  lat: '43.3220'
+  long: "-90.8489"
+  nearby_rate_centers:
+  - name: GAYS MILLS
+    distance_km: 0.51
+  - name: SOLDIRSGRV
+    distance_km: 10.38
+  - name: MOUNT ZION
+    distance_km: 11.83
+- country: US
+  region: WI
+  name: Genoa
+  lat: '43.5732'
+  long: "-91.2262"
+  nearby_rate_centers:
+  - name: GENOA
+    distance_km: 6.46
+  - name: STODDARD
+    distance_km: 10.57
+  - name: DE SOTO
+    distance_km: 12.69
+- country: US
+  region: WI
+  name: Genoa City
+  lat: '42.5065'
+  long: "-88.3192"
+  nearby_rate_centers:
+  - name: GENOA CITY
+    distance_km: 0.92
+  - name: TWIN LAKES
+    distance_km: 6.48
+  - name: SILVERLAKE
+    distance_km: 13.26
+- country: US
+  region: WI
+  name: Germantown
+  lat: '43.2343'
+  long: "-88.1217"
+  nearby_rate_centers:
+  - name: MENOMONFLS
+    distance_km: 5.91
+  - name: HUBERTUS
+    distance_km: 8.52
+  - name: JACKSON
+    distance_km: 10.9
+- country: US
+  region: WI
+  name: Gibbsville
+  lat: '43.6521'
+  long: "-87.8318"
+  nearby_rate_centers:
+  - name: OOSTBURG
+    distance_km: 4.67
+  - name: SHEBOGNFLS
+    distance_km: 9.02
+  - name: CEDARGROVE
+    distance_km: 9.77
+- country: US
+  region: WI
+  name: Gillett
+  lat: '44.8897'
+  long: "-88.3063"
+  nearby_rate_centers:
+  - name: GILLETT
+    distance_km: 0.34
+  - name: SURING
+    distance_km: 13.23
+  - name: OCONTO FLS
+    distance_km: 13.83
+- country: US
+  region: WI
+  name: Gilman
+  lat: '45.1662'
+  long: "-90.8072"
+  nearby_rate_centers:
+  - name: GILMAN
+    distance_km: 0.25
+  - name: SHELDON
+    distance_km: 20.35
+  - name: JUMP RIVER
+    distance_km: 20.57
+- country: US
+  region: WI
+  name: Gilmanton
+  lat: '44.4738'
+  long: "-91.6785"
+  nearby_rate_centers:
+  - name: GILMANTON
+    distance_km: 0.89
+  - name: MONDOVI
+    distance_km: 10.63
+  - name: WAUMANDEE
+    distance_km: 18.48
+- country: US
+  region: WI
+  name: Glen Haven
+  lat: '42.8313'
+  long: "-91.0633"
+  nearby_rate_centers:
+  - name: BEETOWN
+    distance_km: 7.93
+  - name: BAGLEY
+    distance_km: 9.2
+  - name: BLOOMINGTN
+    distance_km: 13.21
+- country: US
+  region: WI
+  name: Glenbeulah
+  lat: '43.7982'
+  long: "-88.0464"
+  nearby_rate_centers:
+  - name: GREENBUSH
+    distance_km: 3.97
+  - name: ELKHART LK
+    distance_km: 5.55
+  - name: PLYMOUTH
+    distance_km: 7.5
+- country: US
+  region: WI
+  name: Glendale
+  lat: '43.1287'
+  long: "-87.9277"
+  nearby_rate_centers:
+  - name: MILWAUKZN1
+    distance_km: 9.72
+  - name: MILWAUKZN2
+    distance_km: 9.72
+  - name: MILWAUKZN3
+    distance_km: 9.72
+  - name: MILWAUKZN4
+    distance_km: 9.72
+  - name: MILWAUKZN5
+    distance_km: 9.72
+  - name: THIENSVL
+    distance_km: 12.7
+  - name: MENOMONFLS
+    distance_km: 16.37
+- country: US
+  region: WI
+  name: Glenwood City
+  lat: '45.0521'
+  long: "-92.1658"
+  nearby_rate_centers:
+  - name: GLENWOODCY
+    distance_km: 1.0
+  - name: BOYCEVILLE
+    distance_km: 10.56
+  - name: KNAPP
+    distance_km: 12.86
+- country: US
+  region: WI
+  name: Glidden
+  lat: '46.1346'
+  long: "-90.5721"
+  nearby_rate_centers:
+  - name: GLIDDEN
+    distance_km: 1.0
+  - name: BUTTERNUT
+    distance_km: 14.26
+  - name: MELLEN
+    distance_km: 22.35
+- country: US
+  region: WI
+  name: Goodman
+  lat: '45.6230'
+  long: "-88.3518"
+  nearby_rate_centers:
+  - name: GOODMAN
+    distance_km: 0.4
+  - name: LAONA
+    distance_km: 25.26
+  - name: AURORA
+    distance_km: 27.78
+- country: US
+  region: WI
+  name: Gordon
+  lat: '46.2409'
+  long: "-91.7995"
+  nearby_rate_centers:
+  - name: GORDON
+    distance_km: 0.23
+  - name: SOLON SPG
+    distance_km: 12.41
+  - name: MINONG
+    distance_km: 16.04
+- country: US
+  region: WI
+  name: Gotham
+  lat: '43.2225'
+  long: "-90.2970"
+  nearby_rate_centers:
+  - name: AVOCA
+    distance_km: 4.78
+  - name: LONE ROCK
+    distance_km: 9.41
+  - name: MUSCODA
+    distance_km: 11.48
+- country: US
+  region: WI
+  name: Grafton
+  lat: '43.3204'
+  long: "-87.9480"
+  nearby_rate_centers:
+  - name: CEDARBURG
+    distance_km: 3.37
+  - name: PTWASHIGTN
+    distance_km: 9.78
+  - name: THIENSVL
+    distance_km: 9.96
+- country: US
+  region: WI
+  name: Grand Marsh
+  lat: '43.8852'
+  long: "-89.7072"
+  nearby_rate_centers:
+  - name: BROOKS
+    distance_km: 8.94
+  - name: ADAMS
+    distance_km: 11.99
+  - name: OXFORD
+    distance_km: 16.23
+- country: US
+  region: WI
+  name: Grand View
+  lat: '46.3680'
+  long: "-91.1036"
+  nearby_rate_centers:
+  - name: GRANDVIEW
+    distance_km: 0.99
+  - name: MASON
+    distance_km: 7.83
+  - name: DRUMMOND
+    distance_km: 12.11
+- country: US
+  region: WI
+  name: Granton
+  lat: '44.5886'
+  long: "-90.4614"
+  nearby_rate_centers:
+  - name: GRANTON
+    distance_km: 0.5
+  - name: CHILI
+    distance_km: 9.51
+  - name: NEILLSVL
+    distance_km: 10.75
+- country: US
+  region: WI
+  name: Grantsburg
+  lat: '45.7813'
+  long: "-92.6836"
+  nearby_rate_centers:
+  - name: GRANTSBURG
+    distance_km: 0.38
+  - name: TRADE LAKE
+    distance_km: 10.47
+  - name: FALUN
+    distance_km: 11.55
+- country: US
+  region: WI
+  name: Gratiot
+  lat: '42.5799'
+  long: "-90.0238"
+  nearby_rate_centers:
+  - name: GRATIOT
+    distance_km: 0.67
+  - name: NO WARREN
+    distance_km: 8.32
+  - name: WIOTA
+    distance_km: 9.43
+- country: US
+  region: WI
+  name: Green Bay
+  lat: '44.5148'
+  long: "-87.9895"
+  nearby_rate_centers:
+  - name: GREEN BAY
+    distance_km: 1.43
+  - name: DE PERE
+    distance_km: 9.42
+  - name: NEWFRANKEN
+    distance_km: 12.97
+- country: US
+  region: WI
+  name: Green Lake
+  lat: '43.8441'
+  long: "-88.9561"
+  nearby_rate_centers:
+  - name: GREEN LAKE
+    distance_km: 0.42
+  - name: RIPON
+    distance_km: 9.13
+  - name: BERLIN
+    distance_km: 13.45
+- country: US
+  region: WI
+  name: Green Valley
+  lat: '44.7969'
+  long: "-88.2682"
+  nearby_rate_centers:
+  - name: KRAKOW
+    distance_km: 4.63
+  - name: GILLETT
+    distance_km: 10.92
+  - name: PULASKI
+    distance_km: 13.48
+- country: US
+  region: WI
+  name: Greenbush
+  lat: '43.7778'
+  long: "-88.0907"
+  nearby_rate_centers:
+  - name: GREENBUSH
+    distance_km: 0.61
+  - name: ST CLOUD
+    distance_km: 8.68
+  - name: PLYMOUTH
+    distance_km: 9.38
+- country: US
+  region: WI
+  name: Greendale
+  lat: '42.9371'
+  long: "-88.0018"
+  nearby_rate_centers:
+  - name: MUSKEGO
+    distance_km: 11.12
+  - name: MILWAUKZN1
+    distance_km: 12.53
+  - name: MILWAUKZN2
+    distance_km: 12.53
+  - name: MILWAUKZN3
+    distance_km: 12.53
+  - name: MILWAUKZN4
+    distance_km: 12.53
+  - name: MILWAUKZN5
+    distance_km: 12.53
+  - name: CALEDONIA
+    distance_km: 15.11
+- country: US
+  region: WI
+  name: Greenfield
+  lat: '42.9619'
+  long: "-88.0052"
+  nearby_rate_centers:
+  - name: MILWAUKZN1
+    distance_km: 10.12
+  - name: MILWAUKZN2
+    distance_km: 10.12
+  - name: MILWAUKZN3
+    distance_km: 10.12
+  - name: MILWAUKZN4
+    distance_km: 10.12
+  - name: MILWAUKZN5
+    distance_km: 10.12
+  - name: MUSKEGO
+    distance_km: 12.05
+  - name: CALEDONIA
+    distance_km: 17.84
+- country: US
+  region: WI
+  name: Greenleaf
+  lat: '44.3170'
+  long: "-88.0972"
+  nearby_rate_centers:
+  - name: WRIGHTSTN
+    distance_km: 4.71
+  - name: WAYSIDE
+    distance_km: 8.99
+  - name: KAUKAUNA
+    distance_km: 13.91
+- country: US
+  region: WI
+  name: Greenville
+  lat: '44.3003'
+  long: "-88.5365"
+  nearby_rate_centers:
+  - name: HORTONVL
+    distance_km: 8.49
+  - name: APPLETON
+    distance_km: 11.87
+  - name: LARSEN
+    distance_km: 13.19
+- country: US
+  region: WI
+  name: Greenwood
+  lat: '44.7655'
+  long: "-90.5989"
+  nearby_rate_centers:
+  - name: GREENWOOD
+    distance_km: 0.28
+  - name: LOYAL
+    distance_km: 9.2
+  - name: OWEN
+    distance_km: 20.4
+- country: US
+  region: WI
+  name: Gresham
+  lat: '44.8478'
+  long: "-88.7856"
+  nearby_rate_centers:
+  - name: GRESHAM
+    distance_km: 0.08
+  - name: KESHENA
+    distance_km: 12.68
+  - name: BOWLER
+    distance_km: 15.1
+- country: US
+  region: WI
+  name: Hager City
+  lat: '44.6012'
+  long: "-92.5337"
+  nearby_rate_centers:
+  - name: HAGER CITY
+    distance_km: 0.02
+  - name: BAY CITY
+    distance_km: 6.71
+  - name: ELLSWORTH
+    distance_km: 15.11
+- country: US
+  region: WI
+  name: Hales Corners
+  lat: '42.9409'
+  long: "-88.0491"
+  nearby_rate_centers:
+  - name: MUSKEGO
+    distance_km: 7.78
+  - name: MILWAUKZN1
+    distance_km: 14.01
+  - name: MILWAUKZN2
+    distance_km: 14.01
+  - name: MILWAUKZN3
+    distance_km: 14.01
+  - name: MILWAUKZN4
+    distance_km: 14.01
+  - name: MILWAUKZN5
+    distance_km: 14.01
+  - name: BIG BEND
+    distance_km: 14.59
+- country: US
+  region: WI
+  name: Hammond
+  lat: '44.9690'
+  long: "-92.4381"
+  nearby_rate_centers:
+  - name: HAMMOND
+    distance_km: 0.88
+  - name: BALDWIN
+    distance_km: 5.12
+  - name: ROBERTS
+    distance_km: 9.85
+- country: US
+  region: WI
+  name: Hancock
+  lat: '44.1333'
+  long: "-89.5209"
+  nearby_rate_centers:
+  - name: HANCOCK
+    distance_km: 0.42
+  - name: PLAINFIELD
+    distance_km: 9.81
+  - name: COLOMA
+    distance_km: 10.15
+- country: US
+  region: WI
+  name: Hanover
+  lat: '42.6389'
+  long: "-89.1712"
+  nearby_rate_centers:
+  - name: FOOTVILLE
+    distance_km: 4.12
+  - name: ORFORDVL
+    distance_km: 6.57
+  - name: JANESVILLE
+    distance_km: 13.41
+- country: US
+  region: WI
+  name: Harrison
+  lat: '44.1935'
+  long: "-88.2941"
+  nearby_rate_centers:
+  - name: SHERWOOD
+    distance_km: 3.5
+  - name: LTL CHUTE
+    distance_km: 10.11
+  - name: KAUKAUNA
+    distance_km: 10.24
+- country: US
+  region: WI
+  name: Harrisville
+  lat: '43.8808'
+  long: "-89.4078"
+  nearby_rate_centers:
+  - name: WESTFIELD
+    distance_km: 6.37
+  - name: PACKWAUKEE
+    distance_km: 10.83
+  - name: MONTELLO
+    distance_km: 11.78
+- country: US
+  region: WI
+  name: Hartford
+  lat: '43.3223'
+  long: "-88.3784"
+  nearby_rate_centers:
+  - name: HARTFORD
+    distance_km: 0.41
+  - name: SLINGER
+    distance_km: 7.14
+  - name: ALLENTON
+    distance_km: 10.72
+- country: US
+  region: WI
+  name: Hartland
+  lat: '43.1029'
+  long: "-88.3396"
+  nearby_rate_centers:
+  - name: HARTLAND
+    distance_km: 1.04
+  - name: MERTON
+    distance_km: 5.92
+  - name: NORTH LAKE
+    distance_km: 6.5
+- country: US
+  region: WI
+  name: Hatfield
+  lat: '44.4164'
+  long: "-90.7409"
+  nearby_rate_centers:
+  - name: MERRILLAN
+    distance_km: 8.99
+  - name: ALMACENTER
+    distance_km: 14.32
+  - name: BLCKRIVFLS
+    distance_km: 16.16
+- country: US
+  region: WI
+  name: Hatley
+  lat: '44.8866'
+  long: "-89.3371"
+  nearby_rate_centers:
+  - name: HATLEY
+    distance_km: 0.97
+  - name: BIRNAMWOOD
+    distance_km: 11.18
+  - name: ELDERON
+    distance_km: 14.16
+- country: US
+  region: WI
+  name: Haugen
+  lat: '45.6078'
+  long: "-91.7788"
+  nearby_rate_centers:
+  - name: SARONA
+    distance_km: 12.13
+  - name: RICE LAKE
+    distance_km: 12.77
+  - name: BIRCHWOOD
+    distance_km: 18.94
+- country: US
+  region: WI
+  name: Hawkins
+  lat: '45.5115'
+  long: "-90.7148"
+  nearby_rate_centers:
+  - name: HAWKINS
+    distance_km: 0.65
+  - name: KENNAN
+    distance_km: 10.37
+  - name: GLEN FLORA
+    distance_km: 13.81
+- country: US
+  region: WI
+  name: Hayward
+  lat: '46.0094'
+  long: "-91.4826"
+  nearby_rate_centers:
+  - name: HAYWARD
+    distance_km: 0.74
+  - name: SPRINGBRK
+    distance_km: 17.39
+  - name: STONE LAKE
+    distance_km: 18.98
+- country: US
+  region: WI
+  name: Hazel Green
+  lat: '42.5341'
+  long: "-90.4361"
+  nearby_rate_centers:
+  - name: HAZELGREEN
+    distance_km: 0.02
+  - name: BENTON
+    distance_km: 6.47
+  - name: CUBA CITY
+    distance_km: 8.48
+- country: US
+  region: WI
+  name: Hebron
+  lat: '42.9232'
+  long: "-88.6916"
+  nearby_rate_centers:
+  - name: PALMYRA
+    distance_km: 9.92
+  - name: WHITEWATER
+    distance_km: 10.55
+  - name: FTATKINSON
+    distance_km: 11.76
+- country: US
+  region: WI
+  name: Helenville
+  lat: '43.0165'
+  long: "-88.6999"
+  nearby_rate_centers:
+  - name: JEFFERSON
+    distance_km: 8.63
+  - name: JOHNSONCRK
+    distance_km: 9.55
+  - name: SULLIVAN
+    distance_km: 9.66
+- country: US
+  region: WI
+  name: Herbster
+  lat: '46.8422'
+  long: "-91.2419"
+  nearby_rate_centers:
+  - name: CORNUCOPIA
+    distance_km: 10.25
+  - name: PORT WING
+    distance_km: 12.82
+  - name: BAYFIELD
+    distance_km: 32.36
+- country: US
+  region: WI
+  name: Hewitt
+  lat: '44.6425'
+  long: "-90.1048"
+  nearby_rate_centers:
+  - name: MILL CREEK
+    distance_km: 3.45
+  - name: MARSHFIELD
+    distance_km: 5.96
+  - name: AUBURNDALE
+    distance_km: 8.89
+- country: US
+  region: WI
+  name: Highland
+  lat: '43.0475'
+  long: "-90.3801"
+  nearby_rate_centers:
+  - name: HIGHLAND
+    distance_km: 0.79
+  - name: MONTFORT
+    distance_km: 9.01
+  - name: COBB
+    distance_km: 10.86
+- country: US
+  region: WI
+  name: Hilbert
+  lat: '44.1415'
+  long: "-88.1611"
+  nearby_rate_centers:
+  - name: HILBERT
+    distance_km: 0.52
+  - name: SHERWOOD
+    distance_km: 8.6
+  - name: BRILLION
+    distance_km: 9.47
+- country: US
+  region: WI
+  name: Hillsboro
+  lat: '43.6560'
+  long: "-90.3365"
+  nearby_rate_centers:
+  - name: HILLSBORO
+    distance_km: 0.78
+  - name: WONEWOC
+    distance_km: 9.93
+  - name: ELROY
+    distance_km: 11.07
+- country: US
+  region: WI
+  name: Hingham
+  lat: '43.6465'
+  long: "-87.9151"
+  nearby_rate_centers:
+  - name: CASCADE
+    distance_km: 7.9
+  - name: OOSTBURG
+    distance_km: 9.92
+  - name: RANDOMLAKE
+    distance_km: 11.28
+- country: US
+  region: WI
+  name: Hixton
+  lat: '44.3831'
+  long: "-91.0147"
+  nearby_rate_centers:
+  - name: HIXTON
+    distance_km: 0.94
+  - name: ALMACENTER
+    distance_km: 9.37
+  - name: NORTHFIELD
+    distance_km: 10.96
+- country: US
+  region: WI
+  name: Hobart
+  lat: '44.4967'
+  long: "-88.1602"
+  nearby_rate_centers:
+  - name: ONEIDA
+    distance_km: 2.56
+  - name: MILLCENTER
+    distance_km: 9.84
+  - name: DE PERE
+    distance_km: 10.86
+- country: US
+  region: WI
+  name: Holcombe
+  lat: '45.2261'
+  long: "-91.1217"
+  nearby_rate_centers:
+  - name: HOLCOMBE
+    distance_km: 0.49
+  - name: CORNELL
+    distance_km: 5.94
+  - name: SHELDON
+    distance_km: 16.88
+- country: US
+  region: WI
+  name: Hollandale
+  lat: '42.8756'
+  long: "-89.9342"
+  nearby_rate_centers:
+  - name: HOLLANDALE
+    distance_km: 0.06
+  - name: BLANCHADVL
+    distance_km: 9.14
+  - name: RIDGEWAY
+    distance_km: 14.56
+- country: US
+  region: WI
+  name: Holmen
+  lat: '43.9706'
+  long: "-91.2654"
+  nearby_rate_centers:
+  - name: HOLMEN
+    distance_km: 2.09
+  - name: TREMPEALEU
+    distance_km: 14.02
+  - name: MINDORO
+    distance_km: 14.2
+- country: US
+  region: WI
+  name: Horicon
+  lat: '43.4454'
+  long: "-88.6403"
+  nearby_rate_centers:
+  - name: HORICON
+    distance_km: 0.55
+  - name: JUNEAU
+    distance_km: 6.79
+  - name: BURNETT
+    distance_km: 8.42
+- country: US
+  region: WI
+  name: Hortonville
+  lat: '44.3368'
+  long: "-88.6361"
+  nearby_rate_centers:
+  - name: HORTONVL
+    distance_km: 0.48
+  - name: NEW LONDON
+    distance_km: 9.28
+  - name: SHIOCTON
+    distance_km: 11.58
+- country: US
+  region: WI
+  name: Houlton
+  lat: '45.0609'
+  long: "-92.7903"
+  nearby_rate_centers:
+  - name: HOULTON
+    distance_km: 0.29
+  - name: HUDSON
+    distance_km: 9.33
+  - name: SOMERSET
+    distance_km: 11.03
+- country: US
+  region: WI
+  name: Howard
+  lat: '44.5703'
+  long: "-88.0928"
+  nearby_rate_centers:
+  - name: MILLCENTER
+    distance_km: 6.02
+  - name: GREEN BAY
+    distance_km: 9.78
+  - name: ONEIDA
+    distance_km: 11.01
+- country: US
+  region: WI
+  name: Howards Grove
+  lat: '43.8261'
+  long: "-87.8232"
+  nearby_rate_centers:
+  - name: HOWARDSGRV
+    distance_km: 1.05
+  - name: SHEBOGNFLS
+    distance_km: 10.6
+  - name: SHEBOYGAN
+    distance_km: 11.81
+- country: US
+  region: WI
+  name: Hudson
+  lat: '44.9639'
+  long: "-92.7312"
+  nearby_rate_centers:
+  - name: HUDSON
+    distance_km: 2.44
+  - name: HOULTON
+    distance_km: 11.48
+  - name: ROBERTS
+    distance_km: 13.5
+- country: US
+  region: WI
+  name: Humbird
+  lat: '44.5295'
+  long: "-90.8862"
+  nearby_rate_centers:
+  - name: MERRILLAN
+    distance_km: 9.27
+  - name: FAIRCHILD
+    distance_km: 10.26
+  - name: ALMACENTER
+    distance_km: 11.05
+- country: US
+  region: WI
+  name: Hurley
+  lat: '46.4462'
+  long: "-90.1983"
+  nearby_rate_centers:
+  - name: HURLEY
+    distance_km: 1.86
+  - name: MERCER
+    distance_km: 32.67
+  - name: MELLEN
+    distance_km: 38.58
+- country: US
+  region: WI
+  name: Hustisford
+  lat: '43.3441'
+  long: "-88.6031"
+  nearby_rate_centers:
+  - name: HUSTISFORD
+    distance_km: 0.61
+  - name: NEOSHO
+    distance_km: 8.22
+  - name: CLYMAN
+    distance_km: 9.47
+- country: US
+  region: WI
+  name: Hustler
+  lat: '43.8773'
+  long: "-90.2658"
+  nearby_rate_centers:
+  - name: CAMPDOUGLS
+    distance_km: 4.34
+  - name: NEW LISBON
+    distance_km: 8.11
+  - name: KENDALL
+    distance_km: 12.29
+- country: US
+  region: WI
+  name: Independence
+  lat: '44.3328'
+  long: "-91.4172"
+  nearby_rate_centers:
+  - name: INDEPNDNCE
+    distance_km: 2.83
+  - name: WHITEHALL
+    distance_km: 8.63
+  - name: ARCADIA
+    distance_km: 11.3
+- country: US
+  region: WI
+  name: Iola
+  lat: '44.5091'
+  long: "-89.1249"
+  nearby_rate_centers:
+  - name: IOLA
+    distance_km: 1.29
+  - name: SCANDINVIA
+    distance_km: 5.82
+  - name: OGDENSBURG
+    distance_km: 10.42
+- country: US
+  region: WI
+  name: Iron Belt
+  lat: '46.4031'
+  long: "-90.3194"
+  nearby_rate_centers:
+  - name: HURLEY
+    distance_km: 12.18
+  - name: MELLEN
+    distance_km: 28.24
+  - name: MERCER
+    distance_km: 32.9
+- country: US
+  region: WI
+  name: Iron Ridge
+  lat: '43.3982'
+  long: "-88.5320"
+  nearby_rate_centers:
+  - name: HUSTISFORD
+    distance_km: 8.37
+  - name: HORICON
+    distance_km: 9.94
+  - name: NEOSHO
+    distance_km: 10.11
+- country: US
+  region: WI
+  name: Iron River
+  lat: '46.5671'
+  long: "-91.4069"
+  nearby_rate_centers:
+  - name: IRON RIVER
+    distance_km: 1.41
+  - name: PORT WING
+    distance_km: 24.03
+  - name: MAPLE
+    distance_km: 24.51
+- country: US
+  region: WI
+  name: Ironton
+  lat: '43.5453'
+  long: "-90.1436"
+  nearby_rate_centers:
+  - name: LA VALLE
+    distance_km: 4.34
+  - name: CAZENOVIA
+    distance_km: 4.68
+  - name: LIME RIDGE
+    distance_km: 8.78
+- country: US
+  region: WI
+  name: Ixonia
+  lat: '43.1396'
+  long: "-88.5963"
+  nearby_rate_centers:
+  - name: OCONOMOWOC
+    distance_km: 8.47
+  - name: WATERTOWN
+    distance_km: 12.55
+  - name: MAPLETON
+    distance_km: 13.02
+- country: US
+  region: WI
+  name: Jackson
+  lat: '43.3233'
+  long: "-88.1666"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 0.36
+  - name: SLINGER
+    distance_km: 10.13
+  - name: HUBERTUS
+    distance_km: 11.02
+- country: US
+  region: WI
+  name: Janesville
+  lat: '42.6854'
+  long: "-89.0135"
+  nearby_rate_centers:
+  - name: JANESVILLE
+    distance_km: 0.49
+  - name: MILTON
+    distance_km: 11.43
+  - name: FOOTVILLE
+    distance_km: 15.86
+- country: US
+  region: WI
+  name: Jefferson
+  lat: '43.0044'
+  long: "-88.8084"
+  nearby_rate_centers:
+  - name: JEFFERSON
+    distance_km: 0.45
+  - name: FTATKINSON
+    distance_km: 7.93
+  - name: JOHNSONCRK
+    distance_km: 9.3
+- country: US
+  region: WI
+  name: Jim Falls
+  lat: '45.0472'
+  long: "-91.2712"
+  nearby_rate_centers:
+  - name: JIM FALLS
+    distance_km: 0.73
+  - name: EAGLEPOINT
+    distance_km: 10.13
+  - name: CADOTT
+    distance_km: 14.63
+- country: US
+  region: WI
+  name: Johnson Creek
+  lat: '43.0812'
+  long: "-88.7702"
+  nearby_rate_centers:
+  - name: JOHNSONCRK
+    distance_km: 0.36
+  - name: JEFFERSON
+    distance_km: 8.65
+  - name: LAKE MILLS
+    distance_km: 11.14
+- country: US
+  region: WI
+  name: Jolmaville
+  lat: '46.4330'
+  long: "-90.7498"
+  nearby_rate_centers:
+  - name: MARENGO
+    distance_km: 5.53
+  - name: MELLEN
+    distance_km: 13.6
+  - name: ASHLAND
+    distance_km: 20.56
+- country: US
+  region: WI
+  name: Juda
+  lat: '42.5900'
+  long: "-89.5092"
+  nearby_rate_centers:
+  - name: JUDA
+    distance_km: 0.35
+  - name: MONROE
+    distance_km: 10.84
+  - name: BRODHEAD
+    distance_km: 12.18
+- country: US
+  region: WI
+  name: Jump River
+  lat: '45.3555'
+  long: "-90.7965"
+  nearby_rate_centers:
+  - name: JUMP RIVER
+    distance_km: 0.67
+  - name: SHELDON
+    distance_km: 12.74
+  - name: GLEN FLORA
+    distance_km: 17.56
+- country: US
+  region: WI
+  name: Junction City
+  lat: '44.5930'
+  long: "-89.7679"
+  nearby_rate_centers:
+  - name: JUNCTIONCY
+    distance_km: 1.51
+  - name: RUDOLPH
+    distance_km: 11.55
+  - name: STEVENS PT
+    distance_km: 18.09
+- country: US
+  region: WI
+  name: Juneau
+  lat: '43.4053'
+  long: "-88.7041"
+  nearby_rate_centers:
+  - name: JUNEAU
+    distance_km: 0.27
+  - name: HORICON
+    distance_km: 7.35
+  - name: CLYMAN
+    distance_km: 9.9
+- country: US
+  region: WI
+  name: Kaukauna
+  lat: '44.2773'
+  long: "-88.2641"
+  nearby_rate_centers:
+  - name: KAUKAUNA
+    distance_km: 0.67
+  - name: LTL CHUTE
+    distance_km: 3.6
+  - name: WRIGHTSTN
+    distance_km: 10.15
+- country: US
+  region: WI
+  name: Kekoskee
+  lat: '43.5019'
+  long: "-88.5863"
+  nearby_rate_centers:
+  - name: MAYVILLE
+    distance_km: 3.08
+  - name: HORICON
+    distance_km: 7.16
+  - name: BURNETT
+    distance_km: 9.91
+- country: US
+  region: WI
+  name: Kellnersville
+  lat: '44.2253'
+  long: "-87.8021"
+  nearby_rate_centers:
+  - name: WHITELAW
+    distance_km: 8.47
+  - name: MISHICOT
+    distance_km: 12.07
+  - name: DENMARK
+    distance_km: 13.95
+- country: US
+  region: WI
+  name: Kendall
+  lat: '43.7926'
+  long: "-90.3677"
+  nearby_rate_centers:
+  - name: KENDALL
+    distance_km: 0.35
+  - name: ELROY
+    distance_km: 10.12
+  - name: WILTON
+    distance_km: 12.73
+- country: US
+  region: WI
+  name: Kennan
+  lat: '45.5301'
+  long: "-90.5868"
+  nearby_rate_centers:
+  - name: KENNAN
+    distance_km: 0.24
+  - name: HAWKINS
+    distance_km: 10.41
+  - name: SOO LAKE
+    distance_km: 17.27
+- country: US
+  region: WI
+  name: Kenosha
+  lat: '42.5865'
+  long: "-87.8773"
+  nearby_rate_centers:
+  - name: KENOSHA
+    distance_km: 4.18
+  - name: SOMERS
+    distance_km: 6.31
+  - name: PARKSIDE
+    distance_km: 9.76
+- country: US
+  region: WI
+  name: Keshena
+  lat: '44.8697'
+  long: "-88.6002"
+  nearby_rate_centers:
+  - name: KESHENA
+    distance_km: 3.24
+  - name: SHAWANO
+    distance_km: 10.6
+  - name: CECIL
+    distance_km: 13.58
+- country: US
+  region: WI
+  name: Kewaskum
+  lat: '43.5177'
+  long: "-88.2306"
+  nearby_rate_centers:
+  - name: KEWASKUM
+    distance_km: 0.35
+  - name: CAMPBELSPT
+    distance_km: 10.11
+  - name: WEST BEND
+    distance_km: 10.98
+- country: US
+  region: WI
+  name: Kewaunee
+  lat: '44.4607'
+  long: "-87.5132"
+  nearby_rate_centers:
+  - name: KEWAUNEE
+    distance_km: 1.21
+  - name: CASCO
+    distance_km: 12.9
+  - name: ALGOMA
+    distance_km: 16.64
+- country: US
+  region: WI
+  name: Kiel
+  lat: '43.9167'
+  long: "-88.0266"
+  nearby_rate_centers:
+  - name: KIEL
+    distance_km: 0.32
+  - name: NEWHOLSTEN
+    distance_km: 7.03
+  - name: ELKHART LK
+    distance_km: 8.36
+- country: US
+  region: WI
+  name: Kieler
+  lat: '42.5823'
+  long: "-90.6051"
+  nearby_rate_centers:
+  - name: DICKEYVL
+    distance_km: 5.8
+  - name: FAIRPLAY
+    distance_km: 6.08
+  - name: CUBA CITY
+    distance_km: 14.38
+- country: US
+  region: WI
+  name: Kimberly
+  lat: '44.2670'
+  long: "-88.3378"
+  nearby_rate_centers:
+  - name: LTL CHUTE
+    distance_km: 3.0
+  - name: APPLETON
+    distance_km: 5.15
+  - name: KAUKAUNA
+    distance_km: 6.04
+- country: US
+  region: WI
+  name: King
+  lat: '44.3402'
+  long: "-89.1228"
+  nearby_rate_centers:
+  - name: WAUPACA
+    distance_km: 3.94
+  - name: SCANDINVIA
+    distance_km: 13.04
+  - name: OGDENSBURG
+    distance_km: 14.29
+- country: US
+  region: WI
+  name: Kingston
+  lat: '43.6935'
+  long: "-89.1304"
+  nearby_rate_centers:
+  - name: KINGSTON
+    distance_km: 0.34
+  - name: MARKESAN
+    distance_km: 11.39
+  - name: CAMBRIA
+    distance_km: 16.88
+- country: US
+  region: WI
+  name: Knapp
+  lat: '44.9514'
+  long: "-92.0769"
+  nearby_rate_centers:
+  - name: KNAPP
+    distance_km: 0.75
+  - name: SPRINGLAKE
+    distance_km: 10.46
+  - name: BOYCEVILLE
+    distance_km: 11.64
+- country: US
+  region: WI
+  name: Knowlton
+  lat: '44.7189'
+  long: "-89.6803"
+  nearby_rate_centers:
+  - name: MOSINEE
+    distance_km: 9.22
+  - name: JUNCTIONCY
+    distance_km: 14.93
+  - name: STEVENS PT
+    distance_km: 24.2
+- country: US
+  region: WI
+  name: Kohler
+  lat: '43.7364'
+  long: "-87.7795"
+  nearby_rate_centers:
+  - name: SHEBOGNFLS
+    distance_km: 2.35
+  - name: SHEBOYGAN
+    distance_km: 6.37
+  - name: HOWARDSGRV
+    distance_km: 11.36
+- country: US
+  region: WI
+  name: Krakow
+  lat: '44.7585'
+  long: "-88.2611"
+  nearby_rate_centers:
+  - name: KRAKOW
+    distance_km: 0.98
+  - name: PULASKI
+    distance_km: 9.17
+  - name: BONDUEL
+    distance_km: 14.66
+- country: US
+  region: WI
+  name: Kronenwetter
+  lat: '44.8164'
+  long: "-89.5807"
+  nearby_rate_centers:
+  - name: MOSINEE
+    distance_km: 9.85
+  - name: WAUSAU
+    distance_km: 15.22
+  - name: HATLEY
+    distance_km: 21.25
+- country: US
+  region: WI
+  name: La Crosse
+  lat: '43.8241'
+  long: "-91.2268"
+  nearby_rate_centers:
+  - name: LA CROSSE
+    distance_km: 1.85
+  - name: WEST SALEM
+    distance_km: 14.26
+  - name: HOLMEN
+    distance_km: 14.85
+- country: US
+  region: WI
+  name: La Farge
+  lat: '43.5782'
+  long: "-90.6381"
+  nearby_rate_centers:
+  - name: LA FARGE
+    distance_km: 0.72
+  - name: VIOLA
+    distance_km: 8.0
+  - name: ONTARIO
+    distance_km: 16.71
+- country: US
+  region: WI
+  name: La Valle
+  lat: '43.5830'
+  long: "-90.1303"
+  nearby_rate_centers:
+  - name: LA VALLE
+    distance_km: 0.38
+  - name: CAZENOVIA
+    distance_km: 8.67
+  - name: WONEWOC
+    distance_km: 10.01
+- country: US
+  region: WI
+  name: Lac La Belle
+  lat: '43.1432'
+  long: "-88.5300"
+  nearby_rate_centers:
+  - name: OCONOMOWOC
+    distance_km: 4.42
+  - name: MAPLETON
+    distance_km: 8.06
+  - name: DELAFIELD
+    distance_km: 12.92
+- country: US
+  region: WI
+  name: Lac du Flambeau
+  lat: '45.9696'
+  long: "-89.8994"
+  nearby_rate_centers:
+  - name: LCDFLAMBEU
+    distance_km: 0.5
+  - name: MANISHWTRS
+    distance_km: 17.02
+  - name: SPRINGSTED
+    distance_km: 17.93
+- country: US
+  region: WI
+  name: Ladysmith
+  lat: '45.4606'
+  long: "-91.0973"
+  nearby_rate_centers:
+  - name: LADYSMITH
+    distance_km: 0.64
+  - name: BRUCE
+    distance_km: 13.27
+  - name: GLEN FLORA
+    distance_km: 16.63
+- country: US
+  region: WI
+  name: Lake Arrowhead
+  lat: '44.2036'
+  long: "-89.8377"
+  nearby_rate_centers:
+  - name: NEKOOSA
+    distance_km: 13.22
+  - name: MONROE CTR
+    distance_km: 13.7
+  - name: PT EDWARDS
+    distance_km: 14.76
+- country: US
+  region: WI
+  name: Lake Camelot
+  lat: '44.2147'
+  long: "-89.7624"
+  nearby_rate_centers:
+  - name: PT EDWARDS
+    distance_km: 15.24
+  - name: NEKOOSA
+    distance_km: 15.37
+  - name: MONROE CTR
+    distance_km: 16.88
+- country: US
+  region: WI
+  name: Lake Delton
+  lat: '43.5932'
+  long: "-89.7841"
+  nearby_rate_centers:
+  - name: WISCONDLLS
+    distance_km: 4.53
+  - name: BARABOO
+    distance_km: 14.52
+  - name: NO FREEDOM
+    distance_km: 16.13
+- country: US
+  region: WI
+  name: Lake Geneva
+  lat: '42.5824'
+  long: "-88.4281"
+  nearby_rate_centers:
+  - name: LAKEGENEVA
+    distance_km: 1.93
+  - name: WILLIAMSBY
+    distance_km: 10.03
+  - name: GENOA CITY
+    distance_km: 12.23
+- country: US
+  region: WI
+  name: Lake Hallie
+  lat: '44.8921'
+  long: "-91.4199"
+  nearby_rate_centers:
+  - name: CHIPPEWFLS
+    distance_km: 5.89
+  - name: EAU CLAIRE
+    distance_km: 11.12
+  - name: EAGLEPOINT
+    distance_km: 16.7
+- country: US
+  region: WI
+  name: Lake Ivanhoe
+  lat: '42.5792'
+  long: "-88.3359"
+  nearby_rate_centers:
+  - name: BOHNERS LK
+    distance_km: 7.02
+  - name: LAKEGENEVA
+    distance_km: 8.28
+  - name: GENOA CITY
+    distance_km: 8.71
+- country: US
+  region: WI
+  name: Lake Koshkonong
+  lat: '42.8838'
+  long: "-88.9424"
+  nearby_rate_centers:
+  - name: FTATKINSON
+    distance_km: 10.49
+  - name: EDGERTON
+    distance_km: 11.8
+  - name: MILTON
+    distance_km: 12.25
+- country: US
+  region: WI
+  name: Lake Lorraine
+  lat: '42.7330'
+  long: "-88.7374"
+  nearby_rate_centers:
+  - name: RICHMOND
+    distance_km: 2.15
+  - name: WHITEWATER
+    distance_km: 11.01
+  - name: DELAVAN
+    distance_km: 13.66
+- country: US
+  region: WI
+  name: Lake Mills
+  lat: '43.0775'
+  long: "-88.9055"
+  nearby_rate_centers:
+  - name: LAKE MILLS
+    distance_km: 0.63
+  - name: JOHNSONCRK
+    distance_km: 10.8
+  - name: JEFFERSON
+    distance_km: 11.24
+- country: US
+  region: WI
+  name: Lake Nebagamon
+  lat: '46.5120'
+  long: "-91.6995"
+  nearby_rate_centers:
+  - name: LKNEBAGMON
+    distance_km: 3.28
+  - name: MAPLE
+    distance_km: 9.19
+  - name: POPLAR
+    distance_km: 10.86
+- country: US
+  region: WI
+  name: Lake Ripley
+  lat: '43.0045'
+  long: "-88.9829"
+  nearby_rate_centers:
+  - name: CAMBRIDGE
+    distance_km: 2.72
+  - name: DEERFIELD
+    distance_km: 9.26
+  - name: LAKE MILLS
+    distance_km: 10.67
+- country: US
+  region: WI
+  name: Lake Sherwood
+  lat: '44.2057'
+  long: "-89.7942"
+  nearby_rate_centers:
+  - name: NEKOOSA
+    distance_km: 14.58
+  - name: MONROE CTR
+    distance_km: 14.87
+  - name: PT EDWARDS
+    distance_km: 15.19
+- country: US
+  region: WI
+  name: Lake Tomahawk
+  lat: '45.8110'
+  long: "-89.5873"
+  nearby_rate_centers:
+  - name: LKTOMAHAWK
+    distance_km: 0.77
+  - name: MINOCQUA
+    distance_km: 11.54
+  - name: SAYNER
+    distance_km: 20.68
+- country: US
+  region: WI
+  name: Lake Wazeecha
+  lat: '44.3696'
+  long: "-89.7549"
+  nearby_rate_centers:
+  - name: WISCOSNRPD
+    distance_km: 4.97
+  - name: PT EDWARDS
+    distance_km: 8.55
+  - name: NEKOOSA
+    distance_km: 12.65
+- country: US
+  region: WI
+  name: Lake Wisconsin
+  lat: '43.3739'
+  long: "-89.5858"
+  nearby_rate_centers:
+  - name: MERRIMAC
+    distance_km: 2.72
+  - name: LODI
+    distance_km: 8.04
+  - name: POYNETTE
+    distance_km: 15.0
+- country: US
+  region: WI
+  name: Lake Wissota
+  lat: '44.9220'
+  long: "-91.3013"
+  nearby_rate_centers:
+  - name: CHIPPEWFLS
+    distance_km: 7.25
+  - name: CADOTT
+    distance_km: 12.53
+  - name: JIM FALLS
+    distance_km: 14.68
+- country: US
+  region: WI
+  name: Lakewood
+  lat: '45.3006'
+  long: "-88.5145"
+  nearby_rate_centers:
+  - name: LAKEWOOD
+    distance_km: 7.46
+  - name: WABENO
+    distance_km: 18.67
+  - name: TWINBRIDGE
+    distance_km: 24.99
+- country: US
+  region: WI
+  name: Lancaster
+  lat: '42.8473'
+  long: "-90.7065"
+  nearby_rate_centers:
+  - name: LANCASTER
+    distance_km: 0.49
+  - name: FENNIMORE
+    distance_km: 15.76
+  - name: POTOSI
+    distance_km: 17.58
+- country: US
+  region: WI
+  name: Lannon
+  lat: '43.1521'
+  long: "-88.1605"
+  nearby_rate_centers:
+  - name: MENOMONFLS
+    distance_km: 4.84
+  - name: SUSSEX
+    distance_km: 5.39
+  - name: HUBERTUS
+    distance_km: 10.62
+- country: US
+  region: WI
+  name: Laona
+  lat: '45.5597'
+  long: "-88.6697"
+  nearby_rate_centers:
+  - name: LAONA
+    distance_km: 0.7
+  - name: WABENO
+    distance_km: 13.48
+  - name: CRANDON
+    distance_km: 17.91
+- country: US
+  region: WI
+  name: Lauderdale Lakes
+  lat: '42.7709'
+  long: "-88.5778"
+  nearby_rate_centers:
+  - name: ELKHORN
+    distance_km: 11.27
+  - name: PALMYRA
+    distance_km: 11.47
+  - name: WHITEWATER
+    distance_km: 13.82
+- country: US
+  region: WI
+  name: Lebanon
+  lat: '43.2587'
+  long: "-88.6292"
+  nearby_rate_centers:
+  - name: LEBANON
+    distance_km: 0.13
+  - name: CLYMAN
+    distance_km: 9.4
+  - name: HUSTISFORD
+    distance_km: 9.4
+- country: US
+  region: WI
+  name: Legend Lake
+  lat: '44.8909'
+  long: "-88.5440"
+  nearby_rate_centers:
+  - name: KESHENA
+    distance_km: 7.11
+  - name: CECIL
+    distance_km: 11.76
+  - name: SHAWANO
+    distance_km: 13.69
+- country: US
+  region: WI
+  name: Lena
+  lat: '44.9530'
+  long: "-88.0476"
+  nearby_rate_centers:
+  - name: LENA
+    distance_km: 0.7
+  - name: OCONTO FLS
+    distance_km: 10.88
+  - name: COLEMAN
+    distance_km: 12.84
+- country: US
+  region: WI
+  name: Leopolis
+  lat: '44.7654'
+  long: "-88.8447"
+  nearby_rate_centers:
+  - name: GRESHAM
+    distance_km: 10.36
+  - name: MARION
+    distance_km: 11.47
+  - name: BOWLER
+    distance_km: 15.26
+- country: US
+  region: WI
+  name: Lewis
+  lat: '45.7159'
+  long: "-92.3965"
+  nearby_rate_centers:
+  - name: LEWIS
+    distance_km: 0.71
+  - name: SIREN
+    distance_km: 7.41
+  - name: FREDERIC
+    distance_km: 7.88
+- country: US
+  region: WI
+  name: Lily Lake
+  lat: '42.5629'
+  long: "-88.2130"
+  nearby_rate_centers:
+  - name: SILVERLAKE
+    distance_km: 4.04
+  - name: WHEATLAND
+    distance_km: 4.21
+  - name: TWIN LAKES
+    distance_km: 4.43
+- country: US
+  region: WI
+  name: Lime Ridge
+  lat: '43.4676'
+  long: "-90.1577"
+  nearby_rate_centers:
+  - name: LIME RIDGE
+    distance_km: 0.74
+  - name: CAZENOVIA
+    distance_km: 5.81
+  - name: LOGANVILLE
+    distance_km: 10.52
+- country: US
+  region: WI
+  name: Linden
+  lat: '42.9184'
+  long: "-90.2742"
+  nearby_rate_centers:
+  - name: COBB
+    distance_km: 5.91
+  - name: MINERAL PT
+    distance_km: 9.92
+  - name: DODGEVILLE
+    distance_km: 12.92
+- country: US
+  region: WI
+  name: Little Chute
+  lat: '44.2906'
+  long: "-88.3208"
+  nearby_rate_centers:
+  - name: LTL CHUTE
+    distance_km: 1.25
+  - name: KAUKAUNA
+    distance_km: 4.48
+  - name: APPLETON
+    distance_km: 7.43
+- country: US
+  region: WI
+  name: Little Round Lake
+  lat: '45.9699'
+  long: "-91.3662"
+  nearby_rate_centers:
+  - name: HAYWARD
+    distance_km: 10.59
+  - name: SPIDERLAKE
+    distance_km: 14.23
+  - name: STONE LAKE
+    distance_km: 19.43
+- country: US
+  region: WI
+  name: Little Sturgeon
+  lat: '44.8422'
+  long: "-87.5744"
+  nearby_rate_centers:
+  - name: LTLSTURGEN
+    distance_km: 3.04
+  - name: BRUSSELS
+    distance_km: 13.29
+  - name: STURGEONBY
+    distance_km: 16.47
+- country: US
+  region: WI
+  name: Livingston
+  lat: '42.9001'
+  long: "-90.4337"
+  nearby_rate_centers:
+  - name: MONTFORT
+    distance_km: 8.23
+  - name: COBB
+    distance_km: 12.72
+  - name: HIGHLAND
+    distance_km: 16.56
+- country: US
+  region: WI
+  name: Lodi
+  lat: '43.3154'
+  long: "-89.5367"
+  nearby_rate_centers:
+  - name: LODI
+    distance_km: 0.78
+  - name: MERRIMAC
+    distance_km: 9.46
+  - name: POYNETTE
+    distance_km: 13.92
+- country: US
+  region: WI
+  name: Loganville
+  lat: '43.4389'
+  long: "-90.0371"
+  nearby_rate_centers:
+  - name: LOGANVILLE
+    distance_km: 0.34
+  - name: LIME RIDGE
+    distance_km: 9.51
+  - name: REEDSBURG
+    distance_km: 10.66
+- country: US
+  region: WI
+  name: Lohrville
+  lat: '44.0382'
+  long: "-89.1201"
+  nearby_rate_centers:
+  - name: REDGRANITE
+    distance_km: 1.43
+  - name: NESHKORO
+    distance_km: 10.99
+  - name: WAUTOMA
+    distance_km: 13.76
+- country: US
+  region: WI
+  name: Lomira
+  lat: '43.5946'
+  long: "-88.4421"
+  nearby_rate_centers:
+  - name: LOMIRA
+    distance_km: 0.87
+  - name: THERESA
+    distance_km: 8.83
+  - name: EDEN
+    distance_km: 12.22
+- country: US
+  region: WI
+  name: Lone Rock
+  lat: '43.1857'
+  long: "-90.2012"
+  nearby_rate_centers:
+  - name: LONE ROCK
+    distance_km: 0.63
+  - name: AVOCA
+    distance_km: 9.67
+  - name: SPG GREEN
+    distance_km: 10.83
+- country: US
+  region: WI
+  name: Long Lake
+  lat: '45.8431'
+  long: "-88.6673"
+  nearby_rate_centers:
+  - name: ARGONNE
+    distance_km: 26.2
+  - name: LAONA
+    distance_km: 30.88
+  - name: FLORENCE
+    distance_km: 33.59
+- country: US
+  region: WI
+  name: Lowell
+  lat: '43.3363'
+  long: "-88.8182"
+  nearby_rate_centers:
+  - name: REESEVILLE
+    distance_km: 3.69
+  - name: CLYMAN
+    distance_km: 8.72
+  - name: JUNEAU
+    distance_km: 12.03
+- country: US
+  region: WI
+  name: Loyal
+  lat: '44.7366'
+  long: "-90.4956"
+  nearby_rate_centers:
+  - name: LOYAL
+    distance_km: 0.44
+  - name: GREENWOOD
+    distance_km: 8.73
+  - name: SPENCER
+    distance_km: 15.65
+- country: US
+  region: WI
+  name: Lublin
+  lat: '45.0749'
+  long: "-90.7238"
+  nearby_rate_centers:
+  - name: GILMAN
+    distance_km: 12.28
+  - name: THORP
+    distance_km: 13.34
+  - name: OWEN
+    distance_km: 18.83
+- country: US
+  region: WI
+  name: Luck
+  lat: '45.5718'
+  long: "-92.4666"
+  nearby_rate_centers:
+  - name: LUCK
+    distance_km: 0.63
+  - name: MILLTOWN
+    distance_km: 4.95
+  - name: FREDERIC
+    distance_km: 10.57
+- country: US
+  region: WI
+  name: Luxemburg
+  lat: '44.5447'
+  long: "-87.7065"
+  nearby_rate_centers:
+  - name: LUXEMBURG
+    distance_km: 1.22
+  - name: CASCO
+    distance_km: 6.98
+  - name: NEWFRANKEN
+    distance_km: 9.78
+- country: US
+  region: WI
+  name: Lyndon Station
+  lat: '43.7088'
+  long: "-89.8937"
+  nearby_rate_centers:
+  - name: LYNDON STA
+    distance_km: 0.96
+  - name: WISCONDLLS
+    distance_km: 13.34
+  - name: MAUSTON
+    distance_km: 17.63
+- country: US
+  region: WI
+  name: Lynxville
+  lat: '43.2493'
+  long: "-91.0464"
+  nearby_rate_centers:
+  - name: SENECA
+    distance_km: 8.14
+  - name: EASTMAN
+    distance_km: 9.59
+  - name: STEUBEN
+    distance_km: 16.91
+- country: US
+  region: WI
+  name: Lyons
+  lat: '42.6485'
+  long: "-88.3599"
+  nearby_rate_centers:
+  - name: BOHNERS LK
+    distance_km: 5.95
+  - name: BURLINGTON
+    distance_km: 7.47
+  - name: LAKEGENEVA
+    distance_km: 8.12
+- country: US
+  region: WI
+  name: Madison
+  lat: '43.0822'
+  long: "-89.3930"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 1.04
+  - name: MIDDLETON
+    distance_km: 8.67
+  - name: MCFARLAND
+    distance_km: 11.05
+- country: US
+  region: WI
+  name: Maiden Rock
+  lat: '44.5659'
+  long: "-92.3082"
+  nearby_rate_centers:
+  - name: MAIDENROCK
+    distance_km: 0.06
+  - name: PLUM CITY
+    distance_km: 11.27
+  - name: BAY CITY
+    distance_km: 11.6
+- country: US
+  region: WI
+  name: Maine
+  lat: '45.0497'
+  long: "-89.6817"
+  nearby_rate_centers:
+  - name: WAUSAU
+    distance_km: 12.1
+  - name: MERRILL
+    distance_km: 14.71
+  - name: MARATHON
+    distance_km: 17.42
+- country: US
+  region: WI
+  name: Manawa
+  lat: '44.4613'
+  long: "-88.9204"
+  nearby_rate_centers:
+  - name: MANAWA
+    distance_km: 0.39
+  - name: OGDENSBURG
+    distance_km: 8.44
+  - name: WEYAUWEGA
+    distance_km: 16.01
+- country: US
+  region: WI
+  name: Manitowoc
+  lat: '44.0991'
+  long: "-87.6812"
+  nearby_rate_centers:
+  - name: MANITOWOC
+    distance_km: 2.47
+  - name: NEWTONBURG
+    distance_km: 7.08
+  - name: TWO RIVERS
+    distance_km: 10.78
+- country: US
+  region: WI
+  name: Maple Bluff
+  lat: '43.1131'
+  long: "-89.3718"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 4.3
+  - name: MIDDLETON
+    distance_km: 10.56
+  - name: WAUNAKEE
+    distance_km: 10.95
+- country: US
+  region: WI
+  name: Marengo
+  lat: '46.4219'
+  long: "-90.8081"
+  nearby_rate_centers:
+  - name: MARENGO
+    distance_km: 0.97
+  - name: MELLEN
+    distance_km: 15.23
+  - name: MASON
+    distance_km: 19.63
+- country: US
+  region: WI
+  name: Maribel
+  lat: '44.2775'
+  long: "-87.8025"
+  nearby_rate_centers:
+  - name: DENMARK
+    distance_km: 8.3
+  - name: MISHICOT
+    distance_km: 12.57
+  - name: WHITELAW
+    distance_km: 14.21
+- country: US
+  region: WI
+  name: Marinette
+  lat: '45.0871'
+  long: "-87.6336"
+  nearby_rate_centers:
+  - name: MARINETTE
+    distance_km: 1.87
+  - name: PESHTIGO
+    distance_km: 10.11
+  - name: HARMONY
+    distance_km: 13.93
+- country: US
+  region: WI
+  name: Marion
+  lat: '44.6743'
+  long: "-88.8903"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 1.15
+  - name: CLINTONVL
+    distance_km: 12.71
+  - name: TIGERTON
+    distance_km: 15.28
+- country: US
+  region: WI
+  name: Markesan
+  lat: '43.7098'
+  long: "-88.9907"
+  nearby_rate_centers:
+  - name: MARKESAN
+    distance_km: 0.32
+  - name: KINGSTON
+    distance_km: 11.71
+  - name: GREEN LAKE
+    distance_km: 14.8
+- country: US
+  region: WI
+  name: Marquette
+  lat: '43.7464'
+  long: "-89.1384"
+  nearby_rate_centers:
+  - name: KINGSTON
+    distance_km: 5.89
+  - name: PRINCETON
+    distance_km: 11.34
+  - name: MARKESAN
+    distance_km: 12.71
+- country: US
+  region: WI
+  name: Marshall
+  lat: '43.1726'
+  long: "-89.0613"
+  nearby_rate_centers:
+  - name: MARSHALL
+    distance_km: 0.55
+  - name: WATERLOO
+    distance_km: 6.42
+  - name: SUNPRAIRIE
+    distance_km: 12.68
+- country: US
+  region: WI
+  name: Marshfield
+  lat: '44.6627'
+  long: "-90.1728"
+  nearby_rate_centers:
+  - name: MARSHFIELD
+    distance_km: 0.16
+  - name: MILL CREEK
+    distance_km: 4.66
+  - name: AUBURNDALE
+    distance_km: 14.56
+- country: US
+  region: WI
+  name: Mason
+  lat: '46.4355'
+  long: "-91.0599"
+  nearby_rate_centers:
+  - name: MASON
+    distance_km: 0.42
+  - name: BENOIT
+    distance_km: 7.15
+  - name: GRANDVIEW
+    distance_km: 8.64
+- country: US
+  region: WI
+  name: Mattoon
+  lat: '45.0046'
+  long: "-89.0411"
+  nearby_rate_centers:
+  - name: MATTOON
+    distance_km: 0.74
+  - name: BIRNAMWOOD
+    distance_km: 15.57
+  - name: BOWLER
+    distance_km: 16.18
+- country: US
+  region: WI
+  name: Mauston
+  lat: '43.7995'
+  long: "-90.0775"
+  nearby_rate_centers:
+  - name: MAUSTON
+    distance_km: 0.77
+  - name: NEW LISBON
+    distance_km: 10.95
+  - name: ELROY
+    distance_km: 16.35
+- country: US
+  region: WI
+  name: Mayville
+  lat: '43.4986'
+  long: "-88.5474"
+  nearby_rate_centers:
+  - name: MAYVILLE
+    distance_km: 0.08
+  - name: THERESA
+    distance_km: 7.5
+  - name: HORICON
+    distance_km: 9.01
+- country: US
+  region: WI
+  name: Mazomanie
+  lat: '43.1731'
+  long: "-89.7954"
+  nearby_rate_centers:
+  - name: MAZOMANIE
+    distance_km: 0.36
+  - name: BLACKEARTH
+    distance_km: 5.63
+  - name: ARENA
+    distance_km: 10.06
+- country: US
+  region: WI
+  name: McFarland
+  lat: '43.0203'
+  long: "-89.2828"
+  nearby_rate_centers:
+  - name: MCFARLAND
+    distance_km: 0.97
+  - name: COTTAGEGRV
+    distance_km: 8.93
+  - name: MADISON
+    distance_km: 10.27
+- country: US
+  region: WI
+  name: Medford
+  lat: '45.1365'
+  long: "-90.3436"
+  nearby_rate_centers:
+  - name: MEDFORD
+    distance_km: 1.82
+  - name: STETSONVL
+    distance_km: 6.26
+  - name: DORCHESTER
+    distance_km: 14.04
+- country: US
+  region: WI
+  name: Mellen
+  lat: '46.3240'
+  long: "-90.6605"
+  nearby_rate_centers:
+  - name: MELLEN
+    distance_km: 0.66
+  - name: MARENGO
+    distance_km: 15.81
+  - name: GLIDDEN
+    distance_km: 21.14
+- country: US
+  region: WI
+  name: Melrose
+  lat: '44.1316'
+  long: "-90.9969"
+  nearby_rate_centers:
+  - name: MELROSE
+    distance_km: 0.45
+  - name: CATARACT
+    distance_km: 12.3
+  - name: MINDORO
+    distance_km: 15.09
+- country: US
+  region: WI
+  name: Melvina
+  lat: '43.8024'
+  long: "-90.7815"
+  nearby_rate_centers:
+  - name: CASHTON
+    distance_km: 6.71
+  - name: NORWALK
+    distance_km: 13.54
+  - name: SPARTA
+    distance_km: 16.6
+- country: US
+  region: WI
+  name: Menasha
+  lat: '44.2125'
+  long: "-88.4271"
+  nearby_rate_centers:
+  - name: NEENAH
+    distance_km: 4.06
+  - name: APPLETON
+    distance_km: 5.29
+  - name: LTL CHUTE
+    distance_km: 12.34
+- country: US
+  region: WI
+  name: Menomonee Falls
+  lat: '43.1487'
+  long: "-88.1227"
+  nearby_rate_centers:
+  - name: MENOMONFLS
+    distance_km: 3.66
+  - name: SUSSEX
+    distance_km: 8.21
+  - name: HUBERTUS
+    distance_km: 12.73
+- country: US
+  region: WI
+  name: Menomonie
+  lat: '44.8893'
+  long: "-91.9084"
+  nearby_rate_centers:
+  - name: MENOMONIE
+    distance_km: 1.91
+  - name: DOWNSVILLE
+    distance_km: 12.57
+  - name: KNAPP
+    distance_km: 14.95
+- country: US
+  region: WI
+  name: Mequon
+  lat: '43.2352'
+  long: "-87.9839"
+  nearby_rate_centers:
+  - name: THIENSVL
+    distance_km: 0.1
+  - name: CEDARBURG
+    distance_km: 7.32
+  - name: MENOMONFLS
+    distance_km: 12.29
+- country: US
+  region: WI
+  name: Mercer
+  lat: '46.1635'
+  long: "-90.0528"
+  nearby_rate_centers:
+  - name: MERCER
+    distance_km: 0.71
+  - name: SPRINGSTED
+    distance_km: 16.26
+  - name: MANISHWTRS
+    distance_km: 17.91
+- country: US
+  region: WI
+  name: Merrill
+  lat: '45.1820'
+  long: "-89.6994"
+  nearby_rate_centers:
+  - name: MERRILL
+    distance_km: 1.17
+  - name: GLEASON
+    distance_km: 21.61
+  - name: WAUSAU
+    distance_km: 26.51
+- country: US
+  region: WI
+  name: Merrillan
+  lat: '44.4488'
+  long: "-90.8340"
+  nearby_rate_centers:
+  - name: MERRILLAN
+    distance_km: 0.77
+  - name: ALMACENTER
+    distance_km: 7.02
+  - name: HIXTON
+    distance_km: 16.08
+- country: US
+  region: WI
+  name: Merrimac
+  lat: '43.3741'
+  long: "-89.6272"
+  nearby_rate_centers:
+  - name: MERRIMAC
+    distance_km: 0.66
+  - name: LODI
+    distance_km: 10.39
+  - name: SAUK CITY
+    distance_km: 13.57
+- country: US
+  region: WI
+  name: Merton
+  lat: '43.1416'
+  long: "-88.3082"
+  nearby_rate_centers:
+  - name: MERTON
+    distance_km: 1.04
+  - name: NORTH LAKE
+    distance_km: 5.09
+  - name: HARTLAND
+    distance_km: 5.83
+- country: US
+  region: WI
+  name: Middle Village
+  lat: '44.9347'
+  long: "-88.7334"
+  nearby_rate_centers:
+  - name: NEOPIT
+    distance_km: 8.59
+  - name: KESHENA
+    distance_km: 9.5
+  - name: GRESHAM
+    distance_km: 10.42
+- country: US
+  region: WI
+  name: Middleton
+  lat: '43.1064'
+  long: "-89.5059"
+  nearby_rate_centers:
+  - name: MIDDLETON
+    distance_km: 1.65
+  - name: MADISON
+    distance_km: 10.47
+  - name: WAUNAKEE
+    distance_km: 10.69
+- country: US
+  region: WI
+  name: Milladore
+  lat: '44.6056'
+  long: "-89.8552"
+  nearby_rate_centers:
+  - name: JUNCTIONCY
+    distance_km: 8.52
+  - name: AUBURNDALE
+    distance_km: 11.38
+  - name: RUDOLPH
+    distance_km: 13.69
+- country: US
+  region: WI
+  name: Millston
+  lat: '44.1885'
+  long: "-90.6446"
+  nearby_rate_centers:
+  - name: WARRENS
+    distance_km: 13.18
+  - name: CATARACT
+    distance_km: 19.92
+  - name: BLCKRIVFLS
+    distance_km: 21.2
+- country: US
+  region: WI
+  name: Milltown
+  lat: '45.5261'
+  long: "-92.5015"
+  nearby_rate_centers:
+  - name: MILLTOWN
+    distance_km: 0.88
+  - name: LUCK
+    distance_km: 5.98
+  - name: CENTURIA
+    distance_km: 8.41
+- country: US
+  region: WI
+  name: Milton
+  lat: '42.7750'
+  long: "-88.9429"
+  nearby_rate_centers:
+  - name: MILTON
+    distance_km: 0.18
+  - name: JANESVILLE
+    distance_km: 11.93
+  - name: EDGERTON
+    distance_km: 12.1
+- country: US
+  region: WI
+  name: Milwaukee
+  lat: '43.0642'
+  long: "-87.9675"
+  nearby_rate_centers:
+  - name: MILWAUKZN1
+    distance_km: 2.93
+  - name: MILWAUKZN2
+    distance_km: 2.93
+  - name: MILWAUKZN3
+    distance_km: 2.93
+  - name: MILWAUKZN4
+    distance_km: 2.93
+  - name: MILWAUKZN5
+    distance_km: 2.93
+  - name: MENOMONFLS
+    distance_km: 17.75
+  - name: THIENSVL
+    distance_km: 19.04
+- country: US
+  region: WI
+  name: Mindoro
+  lat: '44.0202'
+  long: "-91.1019"
+  nearby_rate_centers:
+  - name: MINDORO
+    distance_km: 0.24
+  - name: WEST SALEM
+    distance_km: 13.61
+  - name: HOLMEN
+    distance_km: 13.63
+- country: US
+  region: WI
+  name: Mineral Point
+  lat: '42.8632'
+  long: "-90.1814"
+  nearby_rate_centers:
+  - name: MINERAL PT
+    distance_km: 0.46
+  - name: DODGEVILLE
+    distance_km: 11.36
+  - name: COBB
+    distance_km: 15.31
+- country: US
+  region: WI
+  name: Minocqua
+  lat: '45.8795'
+  long: "-89.7037"
+  nearby_rate_centers:
+  - name: MINOCQUA
+    distance_km: 0.27
+  - name: LKTOMAHAWK
+    distance_km: 11.13
+  - name: LCDFLAMBEU
+    distance_km: 17.66
+- country: US
+  region: WI
+  name: Minong
+  lat: '46.0978'
+  long: "-91.8263"
+  nearby_rate_centers:
+  - name: MINONG
+    distance_km: 0.17
+  - name: GORDON
+    distance_km: 16.25
+  - name: SPRINGBRK
+    distance_km: 19.39
+- country: US
+  region: WI
+  name: Mishicot
+  lat: '44.2303'
+  long: "-87.6423"
+  nearby_rate_centers:
+  - name: MISHICOT
+    distance_km: 1.56
+  - name: TWO RIVERS
+    distance_km: 10.54
+  - name: TISCHMILLS
+    distance_km: 10.76
+- country: US
+  region: WI
+  name: Mission
+  lat: '44.3454'
+  long: "-90.7631"
+  nearby_rate_centers:
+  - name: BLCKRIVFLS
+    distance_km: 9.34
+  - name: MERRILLAN
+    distance_km: 13.44
+  - name: ALMACENTER
+    distance_km: 15.8
+- country: US
+  region: WI
+  name: Mole Lake
+  lat: '45.4859'
+  long: "-88.9823"
+  nearby_rate_centers:
+  - name: CRANDON
+    distance_km: 11.15
+  - name: PELICAN LK
+    distance_km: 14.96
+  - name: ELCHO
+    distance_km: 16.05
+- country: US
+  region: WI
+  name: Mondovi
+  lat: '44.5712'
+  long: "-91.6668"
+  nearby_rate_centers:
+  - name: MONDOVI
+    distance_km: 0.24
+  - name: GILMANTON
+    distance_km: 11.61
+  - name: ELEVA
+    distance_km: 16.08
+- country: US
+  region: WI
+  name: Monona
+  lat: '43.0540'
+  long: "-89.3334"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 4.76
+  - name: MCFARLAND
+    distance_km: 5.44
+  - name: COTTAGEGRV
+    distance_km: 10.93
+- country: US
+  region: WI
+  name: Monroe
+  lat: '42.6030'
+  long: "-89.6381"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 0.28
+  - name: JUDA
+    distance_km: 10.77
+  - name: BROWNTOWN
+    distance_km: 12.91
+- country: US
+  region: WI
+  name: Montello
+  lat: '43.7940'
+  long: "-89.3333"
+  nearby_rate_centers:
+  - name: MONTELLO
+    distance_km: 0.47
+  - name: PACKWAUKEE
+    distance_km: 7.0
+  - name: ENDEAVOR
+    distance_km: 13.58
+- country: US
+  region: WI
+  name: Montfort
+  lat: '42.9697'
+  long: "-90.4331"
+  nearby_rate_centers:
+  - name: MONTFORT
+    distance_km: 0.72
+  - name: HIGHLAND
+    distance_km: 9.42
+  - name: COBB
+    distance_km: 10.34
+- country: US
+  region: WI
+  name: Monticello
+  lat: '42.7456'
+  long: "-89.5899"
+  nearby_rate_centers:
+  - name: MONTICELLO
+    distance_km: 0.63
+  - name: NEW GLARUS
+    distance_km: 8.6
+  - name: BELLEVILLE
+    distance_km: 13.19
+- country: US
+  region: WI
+  name: Montreal
+  lat: '46.4312'
+  long: "-90.2382"
+  nearby_rate_centers:
+  - name: HURLEY
+    distance_km: 5.23
+  - name: MERCER
+    distance_km: 32.29
+  - name: MELLEN
+    distance_km: 35.14
+- country: US
+  region: WI
+  name: Mosinee
+  lat: '44.7874'
+  long: "-89.6839"
+  nearby_rate_centers:
+  - name: MOSINEE
+    distance_km: 2.1
+  - name: WAUSAU
+    distance_km: 18.89
+  - name: MARATHON
+    distance_km: 20.1
+- country: US
+  region: WI
+  name: Mount Calvary
+  lat: '43.8263'
+  long: "-88.2461"
+  nearby_rate_centers:
+  - name: MT CALVARY
+    distance_km: 0.81
+  - name: ST CLOUD
+    distance_km: 5.63
+  - name: JOHNSBURG
+    distance_km: 7.46
+- country: US
+  region: WI
+  name: Mount Hope
+  lat: '42.9697'
+  long: "-90.8596"
+  nearby_rate_centers:
+  - name: MOUNT HOPE
+    distance_km: 0.92
+  - name: BLOOMINGTN
+    distance_km: 10.67
+  - name: WAUZEKA
+    distance_km: 12.83
+- country: US
+  region: WI
+  name: Mount Horeb
+  lat: '43.0060'
+  long: "-89.7316"
+  nearby_rate_centers:
+  - name: MOUNTHOREB
+    distance_km: 0.26
+  - name: MT VERNON
+    distance_km: 8.5
+  - name: CROSS PL
+    distance_km: 14.07
+- country: US
+  region: WI
+  name: Mount Pleasant
+  lat: '42.7129'
+  long: "-87.8876"
+  nearby_rate_centers:
+  - name: PARKSIDE
+    distance_km: 6.96
+  - name: RACINE
+    distance_km: 7.79
+  - name: SOMERS
+    distance_km: 8.0
+- country: US
+  region: WI
+  name: Mount Sterling
+  lat: '43.3163'
+  long: "-90.9292"
+  nearby_rate_centers:
+  - name: SENECA
+    distance_km: 5.85
+  - name: GAYS MILLS
+    distance_km: 6.22
+  - name: SOLDIRSGRV
+    distance_km: 15.38
+- country: US
+  region: WI
+  name: Mountain
+  lat: '45.1863'
+  long: "-88.4680"
+  nearby_rate_centers:
+  - name: LAKEWOOD
+    distance_km: 6.46
+  - name: SURING
+    distance_km: 22.11
+  - name: WHITE LAKE
+    distance_km: 23.28
+- country: US
+  region: WI
+  name: Mukwonago
+  lat: '42.8570'
+  long: "-88.3269"
+  nearby_rate_centers:
+  - name: MUKWONAGO
+    distance_km: 1.39
+  - name: EAST TROY
+    distance_km: 9.61
+  - name: BIG BEND
+    distance_km: 9.96
+- country: US
+  region: WI
+  name: Muscoda
+  lat: '43.1872'
+  long: "-90.4333"
+  nearby_rate_centers:
+  - name: MUSCODA
+    distance_km: 0.63
+  - name: AVOCA
+    distance_km: 9.17
+  - name: BLUE RIVER
+    distance_km: 10.66
+- country: US
+  region: WI
+  name: Muskego
+  lat: '42.8860'
+  long: "-88.1291"
+  nearby_rate_centers:
+  - name: MUSKEGO
+    distance_km: 2.11
+  - name: BIG BEND
+    distance_km: 6.6
+  - name: WIND LAKE
+    distance_km: 9.11
+- country: US
+  region: WI
+  name: Nashotah
+  lat: '43.0938'
+  long: "-88.4038"
+  nearby_rate_centers:
+  - name: DELAFIELD
+    distance_km: 3.2
+  - name: HARTLAND
+    distance_km: 4.28
+  - name: NORTH LAKE
+    distance_km: 7.73
+- country: US
+  region: WI
+  name: Navarino
+  lat: '44.6109'
+  long: "-88.4934"
+  nearby_rate_centers:
+  - name: NICHOLS
+    distance_km: 6.18
+  - name: BONDUEL
+    distance_km: 13.97
+  - name: BLACKCREEK
+    distance_km: 16.37
+- country: US
+  region: WI
+  name: Necedah
+  lat: '44.0233'
+  long: "-90.0717"
+  nearby_rate_centers:
+  - name: NECEDAH
+    distance_km: 0.46
+  - name: MONROE CTR
+    distance_km: 17.76
+  - name: NEW LISBON
+    distance_km: 18.07
+- country: US
+  region: WI
+  name: Neenah
+  lat: '44.1669'
+  long: "-88.4767"
+  nearby_rate_centers:
+  - name: NEENAH
+    distance_km: 2.38
+  - name: APPLETON
+    distance_km: 11.63
+  - name: LARSEN
+    distance_km: 12.15
+- country: US
+  region: WI
+  name: Neillsville
+  lat: '44.5605'
+  long: "-90.5906"
+  nearby_rate_centers:
+  - name: NEILLSVL
+    distance_km: 0.15
+  - name: GRANTON
+    distance_km: 10.8
+  - name: CHILI
+    distance_km: 20.16
+- country: US
+  region: WI
+  name: Nekoosa
+  lat: '44.3134'
+  long: "-89.9073"
+  nearby_rate_centers:
+  - name: NEKOOSA
+    distance_km: 1.02
+  - name: PT EDWARDS
+    distance_km: 5.09
+  - name: WISCOSNRPD
+    distance_km: 9.94
+- country: US
+  region: WI
+  name: Nelson
+  lat: '44.4213'
+  long: "-92.0041"
+  nearby_rate_centers:
+  - name: NELSON
+    distance_km: 0.41
+  - name: PEPIN
+    distance_km: 11.74
+  - name: ALMA
+    distance_km: 12.82
+- country: US
+  region: WI
+  name: Nelsonville
+  lat: '44.4937'
+  long: "-89.3090"
+  nearby_rate_centers:
+  - name: AMHERST
+    distance_km: 5.29
+  - name: POLONIA
+    distance_km: 11.37
+  - name: SCANDINVIA
+    distance_km: 14.47
+- country: US
+  region: WI
+  name: Neopit
+  lat: '44.9877'
+  long: "-88.8227"
+  nearby_rate_centers:
+  - name: NEOPIT
+    distance_km: 0.59
+  - name: GRESHAM
+    distance_km: 15.75
+  - name: MATTOON
+    distance_km: 16.66
+- country: US
+  region: WI
+  name: Neosho
+  lat: '43.3101'
+  long: "-88.5192"
+  nearby_rate_centers:
+  - name: NEOSHO
+    distance_km: 0.45
+  - name: HUSTISFORD
+    distance_km: 7.18
+  - name: LEBANON
+    distance_km: 10.56
+- country: US
+  region: WI
+  name: Neshkoro
+  lat: '43.9649'
+  long: "-89.2159"
+  nearby_rate_centers:
+  - name: NESHKORO
+    distance_km: 0.43
+  - name: REDGRANITE
+    distance_km: 12.34
+  - name: WAUTOMA
+    distance_km: 13.52
+- country: US
+  region: WI
+  name: New Auburn
+  lat: '45.1988'
+  long: "-91.5666"
+  nearby_rate_centers:
+  - name: NEW AUBURN
+    distance_km: 1.26
+  - name: SAND CREEK
+    distance_km: 9.57
+  - name: LONG LAKE
+    distance_km: 10.55
+- country: US
+  region: WI
+  name: New Berlin
+  lat: '42.9726'
+  long: "-88.1291"
+  nearby_rate_centers:
+  - name: MUSKEGO
+    distance_km: 7.52
+  - name: WAUKESHA
+    distance_km: 8.86
+  - name: BIG BEND
+    distance_km: 11.91
+- country: US
+  region: WI
+  name: New Glarus
+  lat: '42.8132'
+  long: "-89.6337"
+  nearby_rate_centers:
+  - name: NEW GLARUS
+    distance_km: 0.33
+  - name: MONTICELLO
+    distance_km: 7.72
+  - name: BELLEVILLE
+    distance_km: 9.41
+- country: US
+  region: WI
+  name: New Holstein
+  lat: '43.9491'
+  long: "-88.0942"
+  nearby_rate_centers:
+  - name: NEWHOLSTEN
+    distance_km: 0.86
+  - name: KIEL
+    distance_km: 6.24
+  - name: CHILTON
+    distance_km: 10.99
+- country: US
+  region: WI
+  name: New Lisbon
+  lat: '43.8781'
+  long: "-90.1624"
+  nearby_rate_centers:
+  - name: NEW LISBON
+    distance_km: 0.37
+  - name: CAMPDOUGLS
+    distance_km: 9.19
+  - name: MAUSTON
+    distance_km: 11.57
+- country: US
+  region: WI
+  name: New London
+  lat: '44.3949'
+  long: "-88.7395"
+  nearby_rate_centers:
+  - name: NEW LONDON
+    distance_km: 1.52
+  - name: HORTONVL
+    distance_km: 10.91
+  - name: READFIELD
+    distance_km: 13.57
+- country: US
+  region: WI
+  name: New Munster
+  lat: '42.5758'
+  long: "-88.2311"
+  nearby_rate_centers:
+  - name: WHEATLAND
+    distance_km: 3.35
+  - name: TWIN LAKES
+    distance_km: 4.97
+  - name: SILVERLAKE
+    distance_km: 6.01
+- country: US
+  region: WI
+  name: New Odanah
+  lat: '46.5986'
+  long: "-90.6509"
+  nearby_rate_centers:
+  - name: ASHLAND
+    distance_km: 17.81
+  - name: WASHBURN
+    distance_km: 20.3
+  - name: LA POINTE
+    distance_km: 23.25
+- country: US
+  region: WI
+  name: New Post
+  lat: '45.8964'
+  long: "-91.1929"
+  nearby_rate_centers:
+  - name: RADISSON
+    distance_km: 13.64
+  - name: SPIDERLAKE
+    distance_km: 14.52
+  - name: WINTER
+    distance_km: 16.58
+- country: US
+  region: WI
+  name: New Richmond
+  lat: '45.1250'
+  long: "-92.5377"
+  nearby_rate_centers:
+  - name: NEWRICHMND
+    distance_km: 0.81
+  - name: STARPRAIRI
+    distance_km: 8.16
+  - name: SOMERSET
+    distance_km: 11.39
+- country: US
+  region: WI
+  name: Newald
+  lat: '45.7396'
+  long: "-88.7004"
+  nearby_rate_centers:
+  - name: ARGONNE
+    distance_km: 16.4
+  - name: LAONA
+    distance_km: 19.56
+  - name: CRANDON
+    distance_km: 24.6
+- country: US
+  region: WI
+  name: Newburg
+  lat: '43.4321'
+  long: "-88.0477"
+  nearby_rate_centers:
+  - name: NEWBURG
+    distance_km: 0.05
+  - name: WAUBEKA
+    distance_km: 6.43
+  - name: WEST BEND
+    distance_km: 10.79
+- country: US
+  region: WI
+  name: Niagara
+  lat: '45.7801'
+  long: "-87.9991"
+  nearby_rate_centers:
+  - name: NIAGARA
+    distance_km: 0.8
+  - name: AURORA
+    distance_km: 7.98
+  - name: SPREADEAGL
+    distance_km: 14.92
+- country: US
+  region: WI
+  name: Nichols
+  lat: '44.5672'
+  long: "-88.4678"
+  nearby_rate_centers:
+  - name: NICHOLS
+    distance_km: 1.0
+  - name: BLACKCREEK
+    distance_km: 11.22
+  - name: SEYMOUR
+    distance_km: 12.62
+- country: US
+  region: WI
+  name: North Bay
+  lat: '42.7644'
+  long: "-87.7812"
+  nearby_rate_centers:
+  - name: RACINE
+    distance_km: 4.37
+  - name: PARKSIDE
+    distance_km: 11.53
+  - name: CALEDONIA
+    distance_km: 14.37
+- country: US
+  region: WI
+  name: North Fond du Lac
+  lat: '43.8107'
+  long: "-88.4860"
+  nearby_rate_centers:
+  - name: FONDDU LAC
+    distance_km: 5.02
+  - name: VAN DYNE
+    distance_km: 7.99
+  - name: OAKFIELD
+    distance_km: 15.23
+- country: US
+  region: WI
+  name: North Freedom
+  lat: '43.4590'
+  long: "-89.8603"
+  nearby_rate_centers:
+  - name: NO FREEDOM
+    distance_km: 0.18
+  - name: BARABOO
+    distance_km: 9.77
+  - name: REEDSBURG
+    distance_km: 13.73
+- country: US
+  region: WI
+  name: North Hudson
+  lat: '44.9973'
+  long: "-92.7564"
+  nearby_rate_centers:
+  - name: HUDSON
+    distance_km: 1.77
+  - name: HOULTON
+    distance_km: 7.29
+  - name: SOMERSET
+    distance_km: 15.31
+- country: US
+  region: WI
+  name: North Lake
+  lat: '43.1559'
+  long: "-88.3700"
+  nearby_rate_centers:
+  - name: NORTH LAKE
+    distance_km: 0.34
+  - name: MERTON
+    distance_km: 5.05
+  - name: HARTLAND
+    distance_km: 6.4
+- country: US
+  region: WI
+  name: North Prairie
+  lat: '42.9357'
+  long: "-88.4037"
+  nearby_rate_centers:
+  - name: NO PRAIRIE
+    distance_km: 0.41
+  - name: GENESEE
+    distance_km: 4.35
+  - name: EAGLE
+    distance_km: 8.47
+- country: US
+  region: WI
+  name: Northport
+  lat: '44.4082'
+  long: "-88.8038"
+  nearby_rate_centers:
+  - name: NEW LONDON
+    distance_km: 6.24
+  - name: MANAWA
+    distance_km: 10.59
+  - name: WEYAUWEGA
+    distance_km: 13.96
+- country: US
+  region: WI
+  name: Norwalk
+  lat: '43.8342'
+  long: "-90.6269"
+  nearby_rate_centers:
+  - name: NORWALK
+    distance_km: 1.28
+  - name: WILTON
+    distance_km: 8.58
+  - name: ONTARIO
+    distance_km: 12.47
+- country: US
+  region: WI
+  name: Oak Creek
+  lat: '42.8803'
+  long: "-87.9009"
+  nearby_rate_centers:
+  - name: CALEDONIA
+    distance_km: 8.96
+  - name: MILWAUKZN1
+    distance_km: 18.42
+  - name: MILWAUKZN2
+    distance_km: 18.42
+  - name: MILWAUKZN3
+    distance_km: 18.42
+  - name: MILWAUKZN4
+    distance_km: 18.42
+  - name: MILWAUKZN5
+    distance_km: 18.42
+  - name: MUSKEGO
+    distance_km: 18.95
+- country: US
+  region: WI
+  name: Oakdale
+  lat: '43.9622'
+  long: "-90.3791"
+  nearby_rate_centers:
+  - name: TOMAH
+    distance_km: 9.79
+  - name: CAMPDOUGLS
+    distance_km: 10.53
+  - name: KENDALL
+    distance_km: 18.96
+- country: US
+  region: WI
+  name: Oakfield
+  lat: '43.6843'
+  long: "-88.5476"
+  nearby_rate_centers:
+  - name: OAKFIELD
+    distance_km: 0.4
+  - name: FONDDU LAC
+    distance_km: 12.68
+  - name: LOMIRA
+    distance_km: 12.78
+- country: US
+  region: WI
+  name: Oconomowoc
+  lat: '43.0996'
+  long: "-88.4948"
+  nearby_rate_centers:
+  - name: OCONOMOWOC
+    distance_km: 1.23
+  - name: DELAFIELD
+    distance_km: 7.74
+  - name: DOUSMAN
+    distance_km: 9.35
+- country: US
+  region: WI
+  name: Oconomowoc Lake
+  lat: '43.0975'
+  long: "-88.4521"
+  nearby_rate_centers:
+  - name: OCONOMOWOC
+    distance_km: 4.14
+  - name: DELAFIELD
+    distance_km: 4.84
+  - name: HARTLAND
+    distance_km: 8.15
+- country: US
+  region: WI
+  name: Oconto
+  lat: '44.8923'
+  long: "-87.8715"
+  nearby_rate_centers:
+  - name: OCONTO
+    distance_km: 1.15
+  - name: LENA
+    distance_km: 14.72
+  - name: ABRAMS
+    distance_km: 18.97
+- country: US
+  region: WI
+  name: Oconto Falls
+  lat: '44.8738'
+  long: "-88.1444"
+  nearby_rate_centers:
+  - name: OCONTO FLS
+    distance_km: 1.0
+  - name: LENA
+    distance_km: 11.87
+  - name: GILLETT
+    distance_km: 13.21
+- country: US
+  region: WI
+  name: Odanah
+  lat: '46.5999'
+  long: "-90.6878"
+  nearby_rate_centers:
+  - name: ASHLAND
+    distance_km: 15.0
+  - name: WASHBURN
+    distance_km: 17.7
+  - name: LA POINTE
+    distance_km: 21.94
+- country: US
+  region: WI
+  name: Ogdensburg
+  lat: '44.4535'
+  long: "-89.0316"
+  nearby_rate_centers:
+  - name: OGDENSBURG
+    distance_km: 0.78
+  - name: SCANDINVIA
+    distance_km: 8.13
+  - name: IOLA
+    distance_km: 8.53
+- country: US
+  region: WI
+  name: Ogema
+  lat: '45.4510'
+  long: "-90.2927"
+  nearby_rate_centers:
+  - name: OGEMA
+    distance_km: 1.23
+  - name: PRENTICE
+    distance_km: 10.71
+  - name: RIB LAKE
+    distance_km: 15.8
+- country: US
+  region: WI
+  name: Okauchee Lake
+  lat: '43.1256'
+  long: "-88.4385"
+  nearby_rate_centers:
+  - name: OCONOMOWOC
+    distance_km: 5.3
+  - name: MAPLETON
+    distance_km: 6.49
+  - name: NORTH LAKE
+    distance_km: 6.83
+- country: US
+  region: WI
+  name: Oliver
+  lat: '46.6493'
+  long: "-92.1885"
+  nearby_rate_centers:
+  - name: SUPERIOR
+    distance_km: 11.23
+  - name: MONTDU LAC
+    distance_km: 13.22
+  - name: POPLAR
+    distance_km: 30.65
+- country: US
+  region: WI
+  name: Omro
+  lat: '44.0391'
+  long: "-88.7378"
+  nearby_rate_centers:
+  - name: OMRO
+    distance_km: 0.51
+  - name: WINNECONNE
+    distance_km: 8.97
+  - name: PICKETT
+    distance_km: 14.69
+- country: US
+  region: WI
+  name: Onalaska
+  lat: '43.8883'
+  long: "-91.2075"
+  nearby_rate_centers:
+  - name: HOLMEN
+    distance_km: 8.27
+  - name: LA CROSSE
+    distance_km: 8.44
+  - name: WEST SALEM
+    distance_km: 10.11
+- country: US
+  region: WI
+  name: Ontario
+  lat: '43.7222'
+  long: "-90.5941"
+  nearby_rate_centers:
+  - name: ONTARIO
+    distance_km: 0.31
+  - name: NORWALK
+    distance_km: 11.66
+  - name: WILTON
+    distance_km: 12.13
+- country: US
+  region: WI
+  name: Oostburg
+  lat: '43.6237'
+  long: "-87.7888"
+  nearby_rate_centers:
+  - name: OOSTBURG
+    distance_km: 1.02
+  - name: CEDARGROVE
+    distance_km: 7.14
+  - name: SHEBOGNFLS
+    distance_km: 12.07
+- country: US
+  region: WI
+  name: Oregon
+  lat: '42.9253'
+  long: "-89.3892"
+  nearby_rate_centers:
+  - name: OREGON
+    distance_km: 0.48
+  - name: BROOKLYN
+    distance_km: 8.56
+  - name: MCFARLAND
+    distance_km: 12.73
+- country: US
+  region: WI
+  name: Orfordville
+  lat: '42.6294'
+  long: "-89.2572"
+  nearby_rate_centers:
+  - name: ORFORDVL
+    distance_km: 0.56
+  - name: FOOTVILLE
+    distance_km: 5.85
+  - name: BRODHEAD
+    distance_km: 8.93
+- country: US
+  region: WI
+  name: Osceola
+  lat: '45.3193'
+  long: "-92.6936"
+  nearby_rate_centers:
+  - name: OSCEOLA
+    distance_km: 0.43
+  - name: DRESSER
+    distance_km: 5.58
+  - name: STCROIXFLS
+    distance_km: 11.62
+- country: US
+  region: WI
+  name: Oshkosh
+  lat: '44.0227'
+  long: "-88.5619"
+  nearby_rate_centers:
+  - name: OSHKOSH
+    distance_km: 2.45
+  - name: OMRO
+    distance_km: 14.02
+  - name: WINNECONNE
+    distance_km: 15.84
+- country: US
+  region: WI
+  name: Osseo
+  lat: '44.5795'
+  long: "-91.2120"
+  nearby_rate_centers:
+  - name: OSSEO
+    distance_km: 1.05
+  - name: AUGUSTA
+    distance_km: 13.57
+  - name: STRUM
+    distance_km: 14.38
+- country: US
+  region: WI
+  name: Owen
+  lat: '44.9485'
+  long: "-90.5621"
+  nearby_rate_centers:
+  - name: OWEN
+    distance_km: 0.32
+  - name: THORP
+    distance_km: 18.62
+  - name: DORCHESTER
+    distance_km: 19.17
+- country: US
+  region: WI
+  name: Oxford
+  lat: '43.7799'
+  long: "-89.5657"
+  nearby_rate_centers:
+  - name: OXFORD
+    distance_km: 0.61
+  - name: BROOKS
+    distance_km: 7.6
+  - name: ENDEAVOR
+    distance_km: 10.6
+- country: US
+  region: WI
+  name: Paac Ciinak
+  lat: '44.8579'
+  long: "-89.1550"
+  nearby_rate_centers:
+  - name: WITTENBERG
+    distance_km: 4.02
+  - name: BIRNAMWOOD
+    distance_km: 9.37
+  - name: ELDERON
+    distance_km: 10.18
+- country: US
+  region: WI
+  name: Packwaukee
+  lat: '43.7653'
+  long: "-89.4599"
+  nearby_rate_centers:
+  - name: PACKWAUKEE
+    distance_km: 3.85
+  - name: ENDEAVOR
+    distance_km: 5.29
+  - name: OXFORD
+    distance_km: 8.39
+- country: US
+  region: WI
+  name: Paddock Lake
+  lat: '42.5707'
+  long: "-88.1044"
+  nearby_rate_centers:
+  - name: SALEM
+    distance_km: 2.15
+  - name: BRISTOL
+    distance_km: 4.81
+  - name: SILVERLAKE
+    distance_km: 5.75
+- country: US
+  region: WI
+  name: Palmyra
+  lat: '42.8811'
+  long: "-88.6000"
+  nearby_rate_centers:
+  - name: PALMYRA
+    distance_km: 1.14
+  - name: EAGLE
+    distance_km: 9.91
+  - name: WHITEWATER
+    distance_km: 11.62
+- country: US
+  region: WI
+  name: Pardeeville
+  lat: '43.5358'
+  long: "-89.3010"
+  nearby_rate_centers:
+  - name: PARDEEVL
+    distance_km: 0.92
+  - name: RIO
+    distance_km: 10.87
+  - name: PORTAGE
+    distance_km: 11.87
+- country: US
+  region: WI
+  name: Park Falls
+  lat: '45.9348'
+  long: "-90.4464"
+  nearby_rate_centers:
+  - name: PARK FALLS
+    distance_km: 0.24
+  - name: BUTTERNUT
+    distance_km: 9.98
+  - name: GLIDDEN
+    distance_km: 25.24
+- country: US
+  region: WI
+  name: Park Ridge
+  lat: '44.5200'
+  long: "-89.5463"
+  nearby_rate_centers:
+  - name: STEVENS PT
+    distance_km: 1.6
+  - name: POLONIA
+    distance_km: 12.24
+  - name: JUNCTIONCY
+    distance_km: 18.03
+- country: US
+  region: WI
+  name: Patch Grove
+  lat: '42.9403'
+  long: "-90.9723"
+  nearby_rate_centers:
+  - name: BLOOMINGTN
+    distance_km: 7.69
+  - name: MOUNT HOPE
+    distance_km: 10.47
+  - name: BAGLEY
+    distance_km: 11.18
+- country: US
+  region: WI
+  name: Pella
+  lat: '44.7419'
+  long: "-88.8237"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 9.65
+  - name: GRESHAM
+    distance_km: 12.24
+  - name: CLINTONVL
+    distance_km: 15.02
+- country: US
+  region: WI
+  name: Pembine
+  lat: '45.6369'
+  long: "-87.9916"
+  nearby_rate_centers:
+  - name: PEMBINE
+    distance_km: 0.31
+  - name: AMBERG
+    distance_km: 14.25
+  - name: NIAGARA
+    distance_km: 15.14
+- country: US
+  region: WI
+  name: Pence
+  lat: '46.4104'
+  long: "-90.2695"
+  nearby_rate_centers:
+  - name: HURLEY
+    distance_km: 8.39
+  - name: MERCER
+    distance_km: 31.4
+  - name: MELLEN
+    distance_km: 32.13
+- country: US
+  region: WI
+  name: Pepin
+  lat: '44.4425'
+  long: "-92.1481"
+  nearby_rate_centers:
+  - name: PEPIN
+    distance_km: 0.16
+  - name: NELSON
+    distance_km: 11.41
+  - name: MAIDENROCK
+    distance_km: 18.74
+- country: US
+  region: WI
+  name: Peshtigo
+  lat: '45.0560'
+  long: "-87.7471"
+  nearby_rate_centers:
+  - name: PESHTIGO
+    distance_km: 0.68
+  - name: HARMONY
+    distance_km: 6.91
+  - name: MARINETTE
+    distance_km: 11.42
+- country: US
+  region: WI
+  name: Phillips
+  lat: '45.6958'
+  long: "-90.4018"
+  nearby_rate_centers:
+  - name: PHILLIPS
+    distance_km: 0.9
+  - name: SOO LAKE
+    distance_km: 12.71
+  - name: PRENTICE
+    distance_km: 18.66
+- country: US
+  region: WI
+  name: Pigeon Falls
+  lat: '44.4247'
+  long: "-91.2082"
+  nearby_rate_centers:
+  - name: PIGEON FLS
+    distance_km: 0.17
+  - name: PLEASANTVL
+    distance_km: 8.27
+  - name: NORTHFIELD
+    distance_km: 9.42
+- country: US
+  region: WI
+  name: Pine River
+  lat: '44.1483'
+  long: "-89.0756"
+  nearby_rate_centers:
+  - name: POY SIPPI
+    distance_km: 6.51
+  - name: REDGRANITE
+    distance_km: 12.22
+  - name: WILD ROSE
+    distance_km: 14.25
+- country: US
+  region: WI
+  name: Pittsville
+  lat: '44.4390'
+  long: "-90.1301"
+  nearby_rate_centers:
+  - name: PITTSVILLE
+    distance_km: 0.57
+  - name: VESPER
+    distance_km: 13.88
+  - name: LINDSEY
+    distance_km: 17.66
+- country: US
+  region: WI
+  name: Plain
+  lat: '43.2779'
+  long: "-90.0423"
+  nearby_rate_centers:
+  - name: PLAIN
+    distance_km: 0.28
+  - name: SPG GREEN
+    distance_km: 10.68
+  - name: WITWEN
+    distance_km: 13.08
+- country: US
+  region: WI
+  name: Plainfield
+  lat: '44.2175'
+  long: "-89.4969"
+  nearby_rate_centers:
+  - name: PLAINFIELD
+    distance_km: 1.01
+  - name: ALMOND
+    distance_km: 8.4
+  - name: HANCOCK
+    distance_km: 9.76
+- country: US
+  region: WI
+  name: Platteville
+  lat: '42.7280'
+  long: "-90.4681"
+  nearby_rate_centers:
+  - name: PLATTEVL
+    distance_km: 0.93
+  - name: BELMONT
+    distance_km: 11.22
+  - name: CUBA CITY
+    distance_km: 13.38
+- country: US
+  region: WI
+  name: Pleasant Prairie
+  lat: '42.5266'
+  long: "-87.8895"
+  nearby_rate_centers:
+  - name: KENOSHA
+    distance_km: 8.96
+  - name: SOMERS
+    distance_km: 12.77
+  - name: BRISTOL
+    distance_km: 13.47
+- country: US
+  region: WI
+  name: Plover
+  lat: '44.4615'
+  long: "-89.5382"
+  nearby_rate_centers:
+  - name: STEVENS PT
+    distance_km: 6.56
+  - name: POLONIA
+    distance_km: 15.75
+  - name: AMHERST
+    distance_km: 20.29
+- country: US
+  region: WI
+  name: Plum City
+  lat: '44.6338'
+  long: "-92.1918"
+  nearby_rate_centers:
+  - name: PLUM CITY
+    distance_km: 0.74
+  - name: MAIDENROCK
+    distance_km: 11.87
+  - name: ARKANSAW
+    distance_km: 12.7
+- country: US
+  region: WI
+  name: Plymouth
+  lat: '43.7447'
+  long: "-87.9660"
+  nearby_rate_centers:
+  - name: PLYMOUTH
+    distance_km: 1.32
+  - name: GREENBUSH
+    distance_km: 10.07
+  - name: CASCADE
+    distance_km: 10.28
+- country: US
+  region: WI
+  name: Polonia
+  lat: '44.5756'
+  long: "-89.4118"
+  nearby_rate_centers:
+  - name: POLONIA
+    distance_km: 0.91
+  - name: ROSHOLT
+    distance_km: 10.77
+  - name: STEVENS PT
+    distance_km: 13.85
+- country: US
+  region: WI
+  name: Poplar
+  lat: '46.5828'
+  long: "-91.7836"
+  nearby_rate_centers:
+  - name: POPLAR
+    distance_km: 1.23
+  - name: MAPLE
+    distance_km: 4.58
+  - name: LKNEBAGMON
+    distance_km: 9.88
+- country: US
+  region: WI
+  name: Port Edwards
+  lat: '44.3484'
+  long: "-89.8540"
+  nearby_rate_centers:
+  - name: PT EDWARDS
+    distance_km: 1.4
+  - name: WISCOSNRPD
+    distance_km: 4.18
+  - name: NEKOOSA
+    distance_km: 4.9
+- country: US
+  region: WI
+  name: Port Washington
+  lat: '43.3846'
+  long: "-87.8855"
+  nearby_rate_centers:
+  - name: PTWASHIGTN
+    distance_km: 1.04
+  - name: CEDARBURG
+    distance_km: 12.03
+  - name: WAUBEKA
+    distance_km: 12.93
+- country: US
+  region: WI
+  name: Port Wing
+  lat: '46.7757'
+  long: "-91.3807"
+  nearby_rate_centers:
+  - name: PORT WING
+    distance_km: 0.89
+  - name: CORNUCOPIA
+    distance_km: 22.65
+  - name: IRON RIVER
+    distance_km: 24.46
+- country: US
+  region: WI
+  name: Portage
+  lat: '43.5489'
+  long: "-89.4658"
+  nearby_rate_centers:
+  - name: PORTAGE
+    distance_km: 1.72
+  - name: PARDEEVL
+    distance_km: 14.27
+  - name: BRIGGSVL
+    distance_km: 15.51
+- country: US
+  region: WI
+  name: Post Lake
+  lat: '45.4352'
+  long: "-89.0921"
+  nearby_rate_centers:
+  - name: ELCHO
+    distance_km: 6.4
+  - name: PELICAN LK
+    distance_km: 11.47
+  - name: PICKEREL
+    distance_km: 17.84
+- country: US
+  region: WI
+  name: Potosi
+  lat: '42.6876'
+  long: "-90.7105"
+  nearby_rate_centers:
+  - name: POTOSI
+    distance_km: 0.35
+  - name: DICKEYVL
+    distance_km: 10.96
+  - name: LANCASTER
+    distance_km: 18.1
+- country: US
+  region: WI
+  name: Potter
+  lat: '44.1203'
+  long: "-88.0989"
+  nearby_rate_centers:
+  - name: HILBERT
+    distance_km: 5.97
+  - name: BRILLION
+    distance_km: 7.73
+  - name: COLLINS
+    distance_km: 9.93
+- country: US
+  region: WI
+  name: Potter Lake
+  lat: '42.8195'
+  long: "-88.3490"
+  nearby_rate_centers:
+  - name: EAST TROY
+    distance_km: 5.42
+  - name: MUKWONAGO
+    distance_km: 5.59
+  - name: EAGLE
+    distance_km: 12.67
+- country: US
+  region: WI
+  name: Pound
+  lat: '45.0956'
+  long: "-88.0334"
+  nearby_rate_centers:
+  - name: COLEMAN
+    distance_km: 3.08
+  - name: CRIVITZ
+    distance_km: 15.34
+  - name: LENA
+    distance_km: 16.15
+- country: US
+  region: WI
+  name: Powers Lake
+  lat: '42.5386'
+  long: "-88.2943"
+  nearby_rate_centers:
+  - name: TWIN LAKES
+    distance_km: 3.77
+  - name: GENOA CITY
+    distance_km: 4.99
+  - name: WHEATLAND
+    distance_km: 9.88
+- country: US
+  region: WI
+  name: Poy Sippi
+  lat: '44.1360'
+  long: "-88.9964"
+  nearby_rate_centers:
+  - name: POY SIPPI
+    distance_km: 0.51
+  - name: REDGRANITE
+    distance_km: 13.62
+  - name: FREMONT
+    distance_km: 17.59
+- country: US
+  region: WI
+  name: Poynette
+  lat: '43.3922'
+  long: "-89.4059"
+  nearby_rate_centers:
+  - name: POYNETTE
+    distance_km: 0.33
+  - name: LODI
+    distance_km: 12.99
+  - name: RIO
+    distance_km: 15.25
+- country: US
+  region: WI
+  name: Prairie Farm
+  lat: '45.2368'
+  long: "-91.9804"
+  nearby_rate_centers:
+  - name: PRAIRIFARM
+    distance_km: 0.69
+  - name: RIDGELAND
+    distance_km: 7.72
+  - name: DALLAS
+    distance_km: 13.94
+- country: US
+  region: WI
+  name: Prairie du Chien
+  lat: '43.0429'
+  long: "-91.1372"
+  nearby_rate_centers:
+  - name: PRARIDCHIN
+    distance_km: 1.2
+  - name: BAGLEY
+    distance_km: 15.17
+  - name: EASTMAN
+    distance_km: 16.82
+- country: US
+  region: WI
+  name: Prairie du Sac
+  lat: '43.2920'
+  long: "-89.7353"
+  nearby_rate_centers:
+  - name: SAUK CITY
+    distance_km: 2.12
+  - name: WITWEN
+    distance_km: 11.85
+  - name: MERRIMAC
+    distance_km: 13.21
+- country: US
+  region: WI
+  name: Prentice
+  lat: '45.5409'
+  long: "-90.2897"
+  nearby_rate_centers:
+  - name: PRENTICE
+    distance_km: 0.71
+  - name: OGEMA
+    distance_km: 11.23
+  - name: BRANTWOOD
+    distance_km: 14.78
+- country: US
+  region: WI
+  name: Prescott
+  lat: '44.7523'
+  long: "-92.7882"
+  nearby_rate_centers:
+  - name: PRESCOTT
+    distance_km: 0.83
+  - name: RIVERFALLS
+    distance_km: 17.33
+  - name: ELLSWORTH
+    distance_km: 24.17
+- country: US
+  region: WI
+  name: Princeton
+  lat: '43.8526'
+  long: "-89.1305"
+  nearby_rate_centers:
+  - name: PRINCETON
+    distance_km: 0.49
+  - name: GREEN LAKE
+    distance_km: 13.84
+  - name: NESHKORO
+    distance_km: 14.66
+- country: US
+  region: WI
+  name: Pulaski
+  lat: '44.6684'
+  long: "-88.2351"
+  nearby_rate_centers:
+  - name: PULASKI
+    distance_km: 1.15
+  - name: KRAKOW
+    distance_km: 9.97
+  - name: MILLCENTER
+    distance_km: 10.76
+- country: US
+  region: WI
+  name: Pulcifer
+  lat: '44.8476'
+  long: "-88.3592"
+  nearby_rate_centers:
+  - name: GILLETT
+    distance_km: 6.12
+  - name: CECIL
+    distance_km: 8.54
+  - name: KRAKOW
+    distance_km: 13.27
+- country: US
+  region: WI
+  name: Racine
+  lat: '42.7274'
+  long: "-87.8135"
+  nearby_rate_centers:
+  - name: RACINE
+    distance_km: 1.6
+  - name: PARKSIDE
+    distance_km: 6.85
+  - name: SOMERS
+    distance_km: 11.78
+- country: US
+  region: WI
+  name: Radisson
+  lat: '45.7678'
+  long: "-91.2180"
+  nearby_rate_centers:
+  - name: RADISSON
+    distance_km: 0.79
+  - name: EXELAND
+    distance_km: 10.58
+  - name: WINTER
+    distance_km: 17.0
+- country: US
+  region: WI
+  name: Randolph
+  lat: '43.5397'
+  long: "-89.0029"
+  nearby_rate_centers:
+  - name: RANDOLPH
+    distance_km: 0.45
+  - name: FOX LAKE
+    distance_km: 7.66
+  - name: CAMBRIA
+    distance_km: 8.35
+- country: US
+  region: WI
+  name: Random Lake
+  lat: '43.5541'
+  long: "-87.9548"
+  nearby_rate_centers:
+  - name: RANDOMLAKE
+    distance_km: 1.06
+  - name: WAUBEKA
+    distance_km: 9.53
+  - name: BELGIUM
+    distance_km: 10.0
+- country: US
+  region: WI
+  name: Raymond
+  lat: '42.8003'
+  long: "-88.0118"
+  nearby_rate_centers:
+  - name: CALEDONIA
+    distance_km: 5.32
+  - name: WIND LAKE
+    distance_km: 12.53
+  - name: UNIONGROVE
+    distance_km: 12.56
+- country: US
+  region: WI
+  name: Readstown
+  lat: '43.4485'
+  long: "-90.7590"
+  nearby_rate_centers:
+  - name: READSTOWN
+    distance_km: 0.12
+  - name: SOLDIRSGRV
+    distance_km: 5.66
+  - name: VIOLA
+    distance_km: 10.01
+- country: US
+  region: WI
+  name: Redgranite
+  lat: '44.0513'
+  long: "-89.1059"
+  nearby_rate_centers:
+  - name: REDGRANITE
+    distance_km: 1.28
+  - name: NESHKORO
+    distance_km: 12.82
+  - name: POY SIPPI
+    distance_km: 13.3
+- country: US
+  region: WI
+  name: Reedsburg
+  lat: '43.5348'
+  long: "-89.9965"
+  nearby_rate_centers:
+  - name: REEDSBURG
+    distance_km: 0.49
+  - name: LOGANVILLE
+    distance_km: 10.97
+  - name: LA VALLE
+    distance_km: 11.67
+- country: US
+  region: WI
+  name: Reedsville
+  lat: '44.1524'
+  long: "-87.9516"
+  nearby_rate_centers:
+  - name: REEDSVILLE
+    distance_km: 1.11
+  - name: COLLINS
+    distance_km: 7.2
+  - name: BRILLION
+    distance_km: 9.13
+- country: US
+  region: WI
+  name: Reeseville
+  lat: '43.3062'
+  long: "-88.8445"
+  nearby_rate_centers:
+  - name: REESEVILLE
+    distance_km: 0.34
+  - name: CLYMAN
+    distance_km: 10.63
+  - name: COLUMBUS
+    distance_km: 14.05
+- country: US
+  region: WI
+  name: Reserve
+  lat: '45.8337'
+  long: "-91.3545"
+  nearby_rate_centers:
+  - name: RADISSON
+    distance_km: 12.6
+  - name: STONE LAKE
+    distance_km: 14.36
+  - name: EXELAND
+    distance_km: 20.1
+- country: US
+  region: WI
+  name: Rewey
+  lat: '42.8419'
+  long: "-90.3961"
+  nearby_rate_centers:
+  - name: BELMONT
+    distance_km: 13.26
+  - name: PLATTEVL
+    distance_km: 13.64
+  - name: MONTFORT
+    distance_km: 14.89
+- country: US
+  region: WI
+  name: Rhinelander
+  lat: '45.6358'
+  long: "-89.4261"
+  nearby_rate_centers:
+  - name: RHINELANDR
+    distance_km: 1.86
+  - name: CRESCENTLK
+    distance_km: 9.68
+  - name: SUGAR CAMP
+    distance_km: 18.28
+- country: US
+  region: WI
+  name: Rib Lake
+  lat: '45.3195'
+  long: "-90.2030"
+  nearby_rate_centers:
+  - name: RIB LAKE
+    distance_km: 0.6
+  - name: OGEMA
+    distance_km: 15.13
+  - name: MEDFORD
+    distance_km: 21.54
+- country: US
+  region: WI
+  name: Rib Mountain
+  lat: '44.9195'
+  long: "-89.6757"
+  nearby_rate_centers:
+  - name: WAUSAU
+    distance_km: 5.72
+  - name: MARATHON
+    distance_km: 12.41
+  - name: MOSINEE
+    distance_km: 13.45
+- country: US
+  region: WI
+  name: Rice Lake
+  lat: '45.4864'
+  long: "-91.7447"
+  nearby_rate_centers:
+  - name: RICE LAKE
+    distance_km: 1.64
+  - name: CAMERON
+    distance_km: 7.73
+  - name: CANTON
+    distance_km: 9.26
+- country: US
+  region: WI
+  name: Richfield
+  lat: '43.2372'
+  long: "-88.2413"
+  nearby_rate_centers:
+  - name: HUBERTUS
+    distance_km: 1.21
+  - name: MERTON
+    distance_km: 11.02
+  - name: SLINGER
+    distance_km: 11.32
+- country: US
+  region: WI
+  name: Ridgeland
+  lat: '45.2025'
+  long: "-91.8965"
+  nearby_rate_centers:
+  - name: RIDGELAND
+    distance_km: 0.8
+  - name: PRAIRIFARM
+    distance_km: 7.59
+  - name: DALLAS
+    distance_km: 10.02
+- country: US
+  region: WI
+  name: Ridgeway
+  lat: '42.9986'
+  long: "-89.9930"
+  nearby_rate_centers:
+  - name: RIDGEWAY
+    distance_km: 0.3
+  - name: DODGEVILLE
+    distance_km: 11.66
+  - name: HOLLANDALE
+    distance_km: 14.43
+- country: US
+  region: WI
+  name: Rio
+  lat: '43.4497'
+  long: "-89.2388"
+  nearby_rate_centers:
+  - name: RIO
+    distance_km: 0.32
+  - name: PARDEEVL
+    distance_km: 10.19
+  - name: POYNETTE
+    distance_km: 14.6
+- country: US
+  region: WI
+  name: Ripon
+  lat: '43.8436'
+  long: "-88.8386"
+  nearby_rate_centers:
+  - name: RIPON
+    distance_km: 0.3
+  - name: GREEN LAKE
+    distance_km: 9.64
+  - name: PICKETT
+    distance_km: 11.03
+- country: US
+  region: WI
+  name: River Falls
+  lat: '44.8609'
+  long: "-92.6247"
+  nearby_rate_centers:
+  - name: RIVERFALLS
+    distance_km: 0.62
+  - name: ROBERTS
+    distance_km: 14.44
+  - name: HUDSON
+    distance_km: 16.62
+- country: US
+  region: WI
+  name: River Hills
+  lat: '43.1716'
+  long: "-87.9353"
+  nearby_rate_centers:
+  - name: THIENSVL
+    distance_km: 8.12
+  - name: MILWAUKZN1
+    distance_km: 14.39
+  - name: MILWAUKZN2
+    distance_km: 14.39
+  - name: MILWAUKZN3
+    distance_km: 14.39
+  - name: MILWAUKZN4
+    distance_km: 14.39
+  - name: MILWAUKZN5
+    distance_km: 14.39
+  - name: MENOMONFLS
+    distance_km: 14.71
+- country: US
+  region: WI
+  name: Roberts
+  lat: '44.9733'
+  long: "-92.5505"
+  nearby_rate_centers:
+  - name: ROBERTS
+    distance_km: 1.38
+  - name: HAMMOND
+    distance_km: 9.38
+  - name: BALDWIN
+    distance_km: 13.98
+- country: US
+  region: WI
+  name: Rochester
+  lat: '42.7338'
+  long: "-88.2489"
+  nearby_rate_centers:
+  - name: WATERFORD
+    distance_km: 4.04
+  - name: BURLINGTON
+    distance_km: 7.01
+  - name: WIND LAKE
+    distance_km: 10.76
+- country: US
+  region: WI
+  name: Rock Falls
+  lat: '44.7209'
+  long: "-91.6917"
+  nearby_rate_centers:
+  - name: ROCK FALLS
+    distance_km: 0.61
+  - name: ELK LAKE
+    distance_km: 12.02
+  - name: MONDOVI
+    distance_km: 16.99
+- country: US
+  region: WI
+  name: Rock Springs
+  lat: '43.4790'
+  long: "-89.9177"
+  nearby_rate_centers:
+  - name: NO FREEDOM
+    distance_km: 5.32
+  - name: REEDSBURG
+    distance_km: 8.71
+  - name: LOGANVILLE
+    distance_km: 10.28
+- country: US
+  region: WI
+  name: Rockdale
+  lat: '42.9717'
+  long: "-89.0318"
+  nearby_rate_centers:
+  - name: CAMBRIDGE
+    distance_km: 3.33
+  - name: DEERFIELD
+    distance_km: 9.43
+  - name: EDGERTON
+    distance_km: 15.79
+- country: US
+  region: WI
+  name: Rockland
+  lat: '43.9077'
+  long: "-90.9165"
+  nearby_rate_centers:
+  - name: BANGOR
+    distance_km: 5.68
+  - name: SPARTA
+    distance_km: 9.98
+  - name: WEST SALEM
+    distance_km: 13.31
+- country: US
+  region: WI
+  name: Rome
+  lat: '42.9823'
+  long: "-88.6389"
+  nearby_rate_centers:
+  - name: SULLIVAN
+    distance_km: 6.0
+  - name: PALMYRA
+    distance_km: 12.71
+  - name: JEFFERSON
+    distance_km: 13.83
+- country: US
+  region: WI
+  name: Rosendale
+  lat: '43.8080'
+  long: "-88.6732"
+  nearby_rate_centers:
+  - name: ROSENDALE
+    distance_km: 0.22
+  - name: PICKETT
+    distance_km: 12.0
+  - name: BRANDON
+    distance_km: 12.19
+- country: US
+  region: WI
+  name: Rosholt
+  lat: '44.6301'
+  long: "-89.3053"
+  nearby_rate_centers:
+  - name: ROSHOLT
+    distance_km: 0.44
+  - name: POLONIA
+    distance_km: 10.63
+  - name: ELDERON
+    distance_km: 18.08
+- country: US
+  region: WI
+  name: Rothschild
+  lat: '44.8761'
+  long: "-89.6173"
+  nearby_rate_centers:
+  - name: WAUSAU
+    distance_km: 8.29
+  - name: MOSINEE
+    distance_km: 10.83
+  - name: MARATHON
+    distance_km: 18.11
+- country: US
+  region: WI
+  name: Rubicon
+  lat: '43.3371'
+  long: "-88.4525"
+  nearby_rate_centers:
+  - name: HARTFORD
+    distance_km: 5.89
+  - name: NEOSHO
+    distance_km: 5.94
+  - name: HUSTISFORD
+    distance_km: 11.76
+- country: US
+  region: WI
+  name: Rudolph
+  lat: '44.4972'
+  long: "-89.8018"
+  nearby_rate_centers:
+  - name: RUDOLPH
+    distance_km: 1.01
+  - name: JUNCTIONCY
+    distance_km: 11.54
+  - name: VESPER
+    distance_km: 13.09
+- country: US
+  region: WI
+  name: Salem Lakes
+  lat: '42.5366'
+  long: "-88.1306"
+  nearby_rate_centers:
+  - name: SALEM
+    distance_km: 2.42
+  - name: TREVOR
+    distance_km: 3.26
+  - name: SILVERLAKE
+    distance_km: 3.32
+- country: US
+  region: WI
+  name: Sand Pillow
+  lat: '44.3313'
+  long: "-90.7637"
+  nearby_rate_centers:
+  - name: BLCKRIVFLS
+    distance_km: 8.54
+  - name: MERRILLAN
+    distance_km: 14.83
+  - name: ALMACENTER
+    distance_km: 16.78
+- country: US
+  region: WI
+  name: Sandy Hook
+  lat: '42.5466'
+  long: "-90.6168"
+  nearby_rate_centers:
+  - name: FAIRPLAY
+    distance_km: 5.05
+  - name: DICKEYVL
+    distance_km: 9.86
+  - name: HAZELGREEN
+    distance_km: 14.88
+- country: US
+  region: WI
+  name: Sauk City
+  lat: '43.2722'
+  long: "-89.7312"
+  nearby_rate_centers:
+  - name: SAUK CITY
+    distance_km: 0.61
+  - name: MAZOMANIE
+    distance_km: 11.84
+  - name: WITWEN
+    distance_km: 12.37
+- country: US
+  region: WI
+  name: Saukville
+  lat: '43.3847'
+  long: "-87.9439"
+  nearby_rate_centers:
+  - name: PTWASHIGTN
+    distance_km: 5.4
+  - name: CEDARBURG
+    distance_km: 9.76
+  - name: NEWBURG
+    distance_km: 9.94
+- country: US
+  region: WI
+  name: Saxon
+  lat: '46.4940'
+  long: "-90.4098"
+  nearby_rate_centers:
+  - name: HURLEY
+    distance_km: 18.78
+  - name: MELLEN
+    distance_km: 27.43
+  - name: MARENGO
+    distance_km: 32.42
+- country: US
+  region: WI
+  name: Sayner
+  lat: '45.9910'
+  long: "-89.5332"
+  nearby_rate_centers:
+  - name: SAYNER
+    distance_km: 0.34
+  - name: BOULDERJCT
+    distance_km: 16.02
+  - name: MINOCQUA
+    distance_km: 18.13
+- country: US
+  region: WI
+  name: Scandinavia
+  lat: '44.4608'
+  long: "-89.1461"
+  nearby_rate_centers:
+  - name: SCANDINVIA
+    distance_km: 1.05
+  - name: IOLA
+    distance_km: 4.71
+  - name: OGDENSBURG
+    distance_km: 9.7
+- country: US
+  region: WI
+  name: Schofield
+  lat: '44.9152'
+  long: "-89.6144"
+  nearby_rate_centers:
+  - name: WAUSAU
+    distance_km: 3.95
+  - name: MOSINEE
+    distance_km: 14.59
+  - name: MARATHON
+    distance_km: 17.26
+- country: US
+  region: WI
+  name: Seneca
+  lat: '43.2658'
+  long: "-90.9566"
+  nearby_rate_centers:
+  - name: SENECA
+    distance_km: 6.54
+  - name: GAYS MILLS
+    distance_km: 10.25
+  - name: EASTMAN
+    distance_km: 12.12
+- country: US
+  region: WI
+  name: Sextonville
+  lat: '43.2795'
+  long: "-90.2924"
+  nearby_rate_centers:
+  - name: ITHACA
+    distance_km: 7.49
+  - name: RICHLD CTR
+    distance_km: 9.76
+  - name: AVOCA
+    distance_km: 10.97
+- country: US
+  region: WI
+  name: Seymour
+  lat: '44.5142'
+  long: "-88.3271"
+  nearby_rate_centers:
+  - name: SEYMOUR
+    distance_km: 0.13
+  - name: ONEIDA
+    distance_km: 10.82
+  - name: BLACKCREEK
+    distance_km: 10.95
+- country: US
+  region: WI
+  name: Sharon
+  lat: '42.5049'
+  long: "-88.7402"
+  nearby_rate_centers:
+  - name: SHARON
+    distance_km: 1.2
+  - name: BERGEN
+    distance_km: 10.37
+  - name: DARIEN
+    distance_km: 10.97
+- country: US
+  region: WI
+  name: Shawano
+  lat: '44.7748'
+  long: "-88.5843"
+  nearby_rate_centers:
+  - name: SHAWANO
+    distance_km: 1.23
+  - name: CECIL
+    distance_km: 11.08
+  - name: BONDUEL
+    distance_km: 12.18
+- country: US
+  region: WI
+  name: Sheboygan
+  lat: '43.7403'
+  long: "-87.7316"
+  nearby_rate_centers:
+  - name: SHEBOYGAN
+    distance_km: 2.97
+  - name: SHEBOGNFLS
+    distance_km: 6.21
+  - name: HOWARDSGRV
+    distance_km: 12.58
+- country: US
+  region: WI
+  name: Sheboygan Falls
+  lat: '43.7290'
+  long: "-87.8266"
+  nearby_rate_centers:
+  - name: SHEBOGNFLS
+    distance_km: 1.52
+  - name: SHEBOYGAN
+    distance_km: 10.19
+  - name: HOWARDSGRV
+    distance_km: 11.77
+- country: US
+  region: WI
+  name: Sheldon
+  lat: '45.3119'
+  long: "-90.9567"
+  nearby_rate_centers:
+  - name: SHELDON
+    distance_km: 0.89
+  - name: JUMP RIVER
+    distance_km: 13.66
+  - name: HOLCOMBE
+    distance_km: 15.65
+- country: US
+  region: WI
+  name: Shell Lake
+  lat: '45.7322'
+  long: "-91.9033"
+  nearby_rate_centers:
+  - name: SHELL LAKE
+    distance_km: 2.54
+  - name: SARONA
+    distance_km: 8.18
+  - name: SPOONER
+    distance_km: 10.22
+- country: US
+  region: WI
+  name: Sherwood
+  lat: '44.1763'
+  long: "-88.2756"
+  nearby_rate_centers:
+  - name: SHERWOOD
+    distance_km: 1.43
+  - name: HILBERT
+    distance_km: 9.44
+  - name: STOCKBDG
+    distance_km: 11.18
+- country: US
+  region: WI
+  name: Shiocton
+  lat: '44.4449'
+  long: "-88.5768"
+  nearby_rate_centers:
+  - name: SHIOCTON
+    distance_km: 1.49
+  - name: BLACKCREEK
+    distance_km: 10.49
+  - name: HORTONVL
+    distance_km: 13.2
+- country: US
+  region: WI
+  name: Shopiere
+  lat: '42.5722'
+  long: "-88.9362"
+  nearby_rate_centers:
+  - name: CLINTON
+    distance_km: 5.78
+  - name: BERGEN
+    distance_km: 9.8
+  - name: BELOIT
+    distance_km: 10.03
+- country: US
+  region: WI
+  name: Shorewood
+  lat: '43.0913'
+  long: "-87.8864"
+  nearby_rate_centers:
+  - name: MILWAUKZN1
+    distance_km: 7.34
+  - name: MILWAUKZN2
+    distance_km: 7.34
+  - name: MILWAUKZN3
+    distance_km: 7.34
+  - name: MILWAUKZN4
+    distance_km: 7.34
+  - name: MILWAUKZN5
+    distance_km: 7.34
+  - name: THIENSVL
+    distance_km: 17.87
+  - name: MENOMONFLS
+    distance_km: 21.16
+- country: US
+  region: WI
+  name: Shorewood Hills
+  lat: '43.0789'
+  long: "-89.4468"
+  nearby_rate_centers:
+  - name: MIDDLETON
+    distance_km: 4.48
+  - name: MADISON
+    distance_km: 5.11
+  - name: VERONA
+    distance_km: 12.02
+- country: US
+  region: WI
+  name: Shullsburg
+  lat: '42.5733'
+  long: "-90.2348"
+  nearby_rate_centers:
+  - name: SHULLSBURG
+    distance_km: 0.13
+  - name: BENTON
+    distance_km: 11.94
+  - name: NOAPPLERIV
+    distance_km: 13.21
+- country: US
+  region: WI
+  name: Siren
+  lat: '45.7826'
+  long: "-92.3823"
+  nearby_rate_centers:
+  - name: SIREN
+    distance_km: 0.26
+  - name: LEWIS
+    distance_km: 8.21
+  - name: WEBSTER
+    distance_km: 11.3
+- country: US
+  region: WI
+  name: Sister Bay
+  lat: '45.1835'
+  long: "-87.1271"
+  nearby_rate_centers:
+  - name: SISTER BAY
+    distance_km: 0.75
+  - name: BAILEYSHBR
+    distance_km: 13.02
+  - name: EGG HARBOR
+    distance_km: 19.59
+- country: US
+  region: WI
+  name: Slinger
+  lat: '43.3317'
+  long: "-88.2798"
+  nearby_rate_centers:
+  - name: SLINGER
+    distance_km: 0.92
+  - name: HARTFORD
+    distance_km: 8.26
+  - name: JACKSON
+    distance_km: 9.1
+- country: US
+  region: WI
+  name: Sobieski
+  lat: '44.7227'
+  long: "-88.0659"
+  nearby_rate_centers:
+  - name: ABRAMS
+    distance_km: 6.04
+  - name: PULASKI
+    distance_km: 14.89
+  - name: KRAKOW
+    distance_km: 14.96
+- country: US
+  region: WI
+  name: Soldiers Grove
+  lat: '43.3922'
+  long: "-90.7735"
+  nearby_rate_centers:
+  - name: SOLDIRSGRV
+    distance_km: 0.84
+  - name: READSTOWN
+    distance_km: 6.45
+  - name: GAYS MILLS
+    distance_km: 10.41
+- country: US
+  region: WI
+  name: Solon Springs
+  lat: '46.3495'
+  long: "-91.8207"
+  nearby_rate_centers:
+  - name: SOLON SPG
+    distance_km: 0.32
+  - name: BENNETT
+    distance_km: 11.32
+  - name: GORDON
+    distance_km: 12.02
+- country: US
+  region: WI
+  name: Somers
+  lat: '42.6411'
+  long: "-87.8919"
+  nearby_rate_centers:
+  - name: SOMERS
+    distance_km: 0.46
+  - name: PARKSIDE
+    distance_km: 5.84
+  - name: KENOSHA
+    distance_km: 7.57
+- country: US
+  region: WI
+  name: Somerset
+  lat: '45.1257'
+  long: "-92.6731"
+  nearby_rate_centers:
+  - name: SOMERSET
+    distance_km: 0.78
+  - name: NEWRICHMND
+    distance_km: 10.66
+  - name: HOULTON
+    distance_km: 11.87
+- country: US
+  region: WI
+  name: South Milwaukee
+  lat: '42.9120'
+  long: "-87.8627"
+  nearby_rate_centers:
+  - name: CALEDONIA
+    distance_km: 13.54
+  - name: MILWAUKZN1
+    distance_km: 16.05
+  - name: MILWAUKZN2
+    distance_km: 16.05
+  - name: MILWAUKZN3
+    distance_km: 16.05
+  - name: MILWAUKZN4
+    distance_km: 16.05
+  - name: MILWAUKZN5
+    distance_km: 16.05
+  - name: RACINE
+    distance_km: 21.4
+- country: US
+  region: WI
+  name: South Wayne
+  lat: '42.5676'
+  long: "-89.8763"
+  nearby_rate_centers:
+  - name: SOUTHWAYNE
+    distance_km: 0.39
+  - name: BROWNTOWN
+    distance_km: 7.02
+  - name: WOODFORD
+    distance_km: 9.41
+- country: US
+  region: WI
+  name: Sparta
+  lat: '43.9377'
+  long: "-90.8131"
+  nearby_rate_centers:
+  - name: SPARTA
+    distance_km: 1.51
+  - name: BANGOR
+    distance_km: 14.61
+  - name: CATARACT
+    distance_km: 17.32
+- country: US
+  region: WI
+  name: Spencer
+  lat: '44.7544'
+  long: "-90.2983"
+  nearby_rate_centers:
+  - name: SPENCER
+    distance_km: 0.72
+  - name: MARSHFIELD
+    distance_km: 14.06
+  - name: CHILI
+    distance_km: 15.09
+- country: US
+  region: WI
+  name: Spooner
+  lat: '45.8271'
+  long: "-91.8860"
+  nearby_rate_centers:
+  - name: SPOONER
+    distance_km: 0.72
+  - name: SHELL LAKE
+    distance_km: 8.89
+  - name: SARONA
+    distance_km: 14.04
+- country: US
+  region: WI
+  name: Spring Green
+  lat: '43.1776'
+  long: "-90.0688"
+  nearby_rate_centers:
+  - name: SPG GREEN
+    distance_km: 0.68
+  - name: LONE ROCK
+    distance_km: 10.18
+  - name: PLAIN
+    distance_km: 11.27
+- country: US
+  region: WI
+  name: Spring Valley
+  lat: '44.8498'
+  long: "-92.2442"
+  nearby_rate_centers:
+  - name: SPRING VLY
+    distance_km: 0.62
+  - name: SPRINGLAKE
+    distance_km: 7.13
+  - name: ELMWOOD
+    distance_km: 10.83
+- country: US
+  region: WI
+  name: Springbrook
+  lat: '45.9469'
+  long: "-91.6889"
+  nearby_rate_centers:
+  - name: SPRINGBRK
+    distance_km: 0.47
+  - name: STONE LAKE
+    distance_km: 16.32
+  - name: HAYWARD
+    distance_km: 17.39
+- country: US
+  region: WI
+  name: Springfield
+  lat: '42.6407'
+  long: "-88.4135"
+  nearby_rate_centers:
+  - name: LAKEGENEVA
+    distance_km: 4.87
+  - name: BOHNERS LK
+    distance_km: 10.11
+  - name: ELKHORN
+    distance_km: 11.15
+- country: US
+  region: WI
+  name: St. Cloud
+  lat: '43.8245'
+  long: "-88.1687"
+  nearby_rate_centers:
+  - name: ST CLOUD
+    distance_km: 0.6
+  - name: MT CALVARY
+    distance_km: 6.55
+  - name: GREENBUSH
+    distance_km: 8.74
+- country: US
+  region: WI
+  name: St. Croix Falls
+  lat: '45.4100'
+  long: "-92.6266"
+  nearby_rate_centers:
+  - name: STCROIXFLS
+    distance_km: 1.43
+  - name: DRESSER
+    distance_km: 6.81
+  - name: CENTURIA
+    distance_km: 8.05
+- country: US
+  region: WI
+  name: St. Francis
+  lat: '42.9716'
+  long: "-87.8730"
+  nearby_rate_centers:
+  - name: MILWAUKZN1
+    distance_km: 9.92
+  - name: MILWAUKZN2
+    distance_km: 9.92
+  - name: MILWAUKZN3
+    distance_km: 9.92
+  - name: MILWAUKZN4
+    distance_km: 9.92
+  - name: MILWAUKZN5
+    distance_km: 9.92
+  - name: CALEDONIA
+    distance_km: 19.26
+  - name: MUSKEGO
+    distance_km: 22.28
+- country: US
+  region: WI
+  name: St. Joseph
+  lat: '43.7855'
+  long: "-91.0436"
+  nearby_rate_centers:
+  - name: COONVALLEY
+    distance_km: 9.96
+  - name: BANGOR
+    distance_km: 12.53
+  - name: WEST SALEM
+    distance_km: 12.95
+- country: US
+  region: WI
+  name: St. Nazianz
+  lat: '44.0067'
+  long: "-87.9246"
+  nearby_rate_centers:
+  - name: ST NAZIANZ
+    distance_km: 0.56
+  - name: VALDERS
+    distance_km: 7.7
+  - name: COLLINS
+    distance_km: 10.43
+- country: US
+  region: WI
+  name: St. Peter
+  lat: '43.8377'
+  long: "-88.3466"
+  nearby_rate_centers:
+  - name: JOHNSBURG
+    distance_km: 6.96
+  - name: MT CALVARY
+    distance_km: 7.81
+  - name: FONDDU LAC
+    distance_km: 10.91
+- country: US
+  region: WI
+  name: Stanley
+  lat: '44.9597'
+  long: "-90.9423"
+  nearby_rate_centers:
+  - name: STANLEY
+    distance_km: 1.15
+  - name: BOYD
+    distance_km: 7.24
+  - name: THORP
+    distance_km: 11.44
+- country: US
+  region: WI
+  name: Star Prairie
+  lat: '45.1975'
+  long: "-92.5321"
+  nearby_rate_centers:
+  - name: STARPRAIRI
+    distance_km: 0.23
+  - name: NEWRICHMND
+    distance_km: 8.88
+  - name: DEER PARK
+    distance_km: 11.87
+- country: US
+  region: WI
+  name: Stetsonville
+  lat: '45.0772'
+  long: "-90.3143"
+  nearby_rate_centers:
+  - name: STETSONVL
+    distance_km: 0.76
+  - name: DORCHESTER
+    distance_km: 7.6
+  - name: MEDFORD
+    distance_km: 8.71
+- country: US
+  region: WI
+  name: Steuben
+  lat: '43.1833'
+  long: "-90.8569"
+  nearby_rate_centers:
+  - name: STEUBEN
+    distance_km: 0.27
+  - name: WOODMAN
+    distance_km: 11.02
+  - name: WAUZEKA
+    distance_km: 11.08
+- country: US
+  region: WI
+  name: Stevens Point
+  lat: '44.5241'
+  long: "-89.5507"
+  nearby_rate_centers:
+  - name: STEVENS PT
+    distance_km: 1.45
+  - name: POLONIA
+    distance_km: 12.37
+  - name: JUNCTIONCY
+    distance_km: 17.51
+- country: US
+  region: WI
+  name: Stockbridge
+  lat: '44.0717'
+  long: "-88.3104"
+  nearby_rate_centers:
+  - name: STOCKBDG
+    distance_km: 0.98
+  - name: CHILTON
+    distance_km: 12.15
+  - name: SHERWOOD
+    distance_km: 12.32
+- country: US
+  region: WI
+  name: Stockholm
+  lat: '44.4852'
+  long: "-92.2633"
+  nearby_rate_centers:
+  - name: MAIDENROCK
+    distance_km: 9.71
+  - name: PEPIN
+    distance_km: 10.28
+  - name: PLUM CITY
+    distance_km: 17.11
+- country: US
+  region: WI
+  name: Stoddard
+  lat: '43.6624'
+  long: "-91.2179"
+  nearby_rate_centers:
+  - name: STODDARD
+    distance_km: 0.66
+  - name: CHASEBURG
+    distance_km: 9.36
+  - name: GENOA
+    distance_km: 13.31
+- country: US
+  region: WI
+  name: Stone Lake
+  lat: '45.8445'
+  long: "-91.5502"
+  nearby_rate_centers:
+  - name: STONE LAKE
+    distance_km: 0.85
+  - name: SPRINGBRK
+    distance_km: 16.09
+  - name: HAYWARD
+    distance_km: 19.63
+- country: US
+  region: WI
+  name: Stoughton
+  lat: '42.9237'
+  long: "-89.2225"
+  nearby_rate_centers:
+  - name: STOUGHTON
+    distance_km: 1.02
+  - name: MCFARLAND
+    distance_km: 11.66
+  - name: OREGON
+    distance_km: 13.09
+- country: US
+  region: WI
+  name: Stratford
+  lat: '44.8009'
+  long: "-90.0722"
+  nearby_rate_centers:
+  - name: STRATFORD
+    distance_km: 0.95
+  - name: EDGAR
+    distance_km: 16.24
+  - name: MARSHFIELD
+    distance_km: 17.22
+- country: US
+  region: WI
+  name: Strum
+  lat: '44.5531'
+  long: "-91.3876"
+  nearby_rate_centers:
+  - name: STRUM
+    distance_km: 0.35
+  - name: ELEVA
+    distance_km: 6.56
+  - name: CLEGHORN
+    distance_km: 11.79
+- country: US
+  region: WI
+  name: Sturgeon Bay
+  lat: '44.8228'
+  long: "-87.3660"
+  nearby_rate_centers:
+  - name: STURGEONBY
+    distance_km: 1.33
+  - name: LTLSTURGEN
+    distance_km: 15.55
+  - name: FORESTVL
+    distance_km: 17.81
+- country: US
+  region: WI
+  name: Sturtevant
+  lat: '42.6995'
+  long: "-87.9019"
+  nearby_rate_centers:
+  - name: SOMERS
+    distance_km: 6.48
+  - name: PARKSIDE
+    distance_km: 6.92
+  - name: RACINE
+    distance_km: 9.3
+- country: US
+  region: WI
+  name: Suamico
+  lat: '44.6354'
+  long: "-88.0683"
+  nearby_rate_centers:
+  - name: MILLCENTER
+    distance_km: 9.53
+  - name: PULASKI
+    distance_km: 14.58
+  - name: GREEN BAY
+    distance_km: 14.98
+- country: US
+  region: WI
+  name: Sullivan
+  lat: '43.0118'
+  long: "-88.5903"
+  nearby_rate_centers:
+  - name: SULLIVAN
+    distance_km: 0.87
+  - name: DOUSMAN
+    distance_km: 9.42
+  - name: OCONOMOWOC
+    distance_km: 13.14
+- country: US
+  region: WI
+  name: Summit Lake
+  lat: '45.3759'
+  long: "-89.2044"
+  nearby_rate_centers:
+  - name: ELCHO
+    distance_km: 6.84
+  - name: PELICAN LK
+    distance_km: 16.77
+  - name: GLEASON
+    distance_km: 23.58
+- country: US
+  region: WI
+  name: Sun Prairie
+  lat: '43.1825'
+  long: "-89.2362"
+  nearby_rate_centers:
+  - name: SUNPRAIRIE
+    distance_km: 1.57
+  - name: DE FOREST
+    distance_km: 11.3
+  - name: COTTAGEGRV
+    distance_km: 12.31
+- country: US
+  region: WI
+  name: Superior
+  lat: '46.6941'
+  long: "-92.0823"
+  nearby_rate_centers:
+  - name: SUPERIOR
+    distance_km: 4.77
+  - name: MONTDU LAC
+    distance_km: 6.62
+  - name: POPLAR
+    distance_km: 24.96
+- country: US
+  region: WI
+  name: Suring
+  lat: '45.0007'
+  long: "-88.3692"
+  nearby_rate_centers:
+  - name: SURING
+    distance_km: 0.15
+  - name: GILLETT
+    distance_km: 13.1
+  - name: CECIL
+    distance_km: 22.42
+- country: US
+  region: WI
+  name: Sussex
+  lat: '43.1346'
+  long: "-88.2226"
+  nearby_rate_centers:
+  - name: SUSSEX
+    distance_km: 0.17
+  - name: PEWAUKEE
+    distance_km: 6.26
+  - name: MERTON
+    distance_km: 7.17
+- country: US
+  region: WI
+  name: Tainter Lake
+  lat: '44.9882'
+  long: "-91.8437"
+  nearby_rate_centers:
+  - name: WHEELER
+    distance_km: 8.69
+  - name: COLFAX
+    distance_km: 9.54
+  - name: MENOMONIE
+    distance_km: 13.93
+- country: US
+  region: WI
+  name: Taycheedah
+  lat: '43.8118'
+  long: "-88.3916"
+  nearby_rate_centers:
+  - name: FONDDU LAC
+    distance_km: 6.3
+  - name: JOHNSBURG
+    distance_km: 11.53
+  - name: MT CALVARY
+    distance_km: 11.65
+- country: US
+  region: WI
+  name: Taylor
+  lat: '44.3217'
+  long: "-91.1204"
+  nearby_rate_centers:
+  - name: TAYLOR
+    distance_km: 0.89
+  - name: BLAIR
+    distance_km: 9.77
+  - name: HIXTON
+    distance_km: 11.11
+- country: US
+  region: WI
+  name: Tennyson
+  lat: '42.6907'
+  long: "-90.6868"
+  nearby_rate_centers:
+  - name: POTOSI
+    distance_km: 1.65
+  - name: DICKEYVL
+    distance_km: 9.61
+  - name: LANCASTER
+    distance_km: 17.86
+- country: US
+  region: WI
+  name: Theresa
+  lat: '43.5164'
+  long: "-88.4541"
+  nearby_rate_centers:
+  - name: THERESA
+    distance_km: 0.28
+  - name: MAYVILLE
+    distance_km: 7.86
+  - name: LOMIRA
+    distance_km: 8.44
+- country: US
+  region: WI
+  name: Thiensville
+  lat: '43.2361'
+  long: "-87.9785"
+  nearby_rate_centers:
+  - name: THIENSVL
+    distance_km: 0.55
+  - name: CEDARBURG
+    distance_km: 7.21
+  - name: MENOMONFLS
+    distance_km: 12.72
+- country: US
+  region: WI
+  name: Thornton
+  lat: '44.7984'
+  long: "-88.6916"
+  nearby_rate_centers:
+  - name: SHAWANO
+    distance_km: 7.72
+  - name: GRESHAM
+    distance_km: 9.25
+  - name: KESHENA
+    distance_km: 10.76
+- country: US
+  region: WI
+  name: Thorp
+  lat: '44.9579'
+  long: "-90.8022"
+  nearby_rate_centers:
+  - name: THORP
+    distance_km: 1.06
+  - name: STANLEY
+    distance_km: 10.36
+  - name: BOYD
+    distance_km: 18.26
+- country: US
+  region: WI
+  name: Three Lakes
+  lat: '45.8047'
+  long: "-89.1708"
+  nearby_rate_centers:
+  - name: THREELAKES
+    distance_km: 0.45
+  - name: SUGAR CAMP
+    distance_km: 11.55
+  - name: EAGLERIVER
+    distance_km: 14.16
+- country: US
+  region: WI
+  name: Tichigan
+  lat: '42.8087'
+  long: "-88.2150"
+  nearby_rate_centers:
+  - name: WIND LAKE
+    distance_km: 4.08
+  - name: WATERFORD
+    distance_km: 5.46
+  - name: BIG BEND
+    distance_km: 8.31
+- country: US
+  region: WI
+  name: Tigerton
+  lat: '44.7409'
+  long: "-89.0459"
+  nearby_rate_centers:
+  - name: TIGERTON
+    distance_km: 1.03
+  - name: WITTENBERG
+    distance_km: 13.18
+  - name: BOWLER
+    distance_km: 15.06
+- country: US
+  region: WI
+  name: Tilleda
+  lat: '44.8156'
+  long: "-88.9125"
+  nearby_rate_centers:
+  - name: BOWLER
+    distance_km: 7.54
+  - name: GRESHAM
+    distance_km: 10.68
+  - name: TIGERTON
+    distance_km: 14.19
+- country: US
+  region: WI
+  name: Tomah
+  lat: '43.9879'
+  long: "-90.4999"
+  nearby_rate_centers:
+  - name: TOMAH
+    distance_km: 1.41
+  - name: WARRENS
+    distance_km: 16.27
+  - name: WILTON
+    distance_km: 18.96
+- country: US
+  region: WI
+  name: Tomahawk
+  lat: '45.4746'
+  long: "-89.7228"
+  nearby_rate_centers:
+  - name: TOMAHAWK
+    distance_km: 0.12
+  - name: CRESCENTLK
+    distance_km: 20.39
+  - name: GLEASON
+    distance_km: 25.8
+- country: US
+  region: WI
+  name: Tony
+  lat: '45.4804'
+  long: "-90.9971"
+  nearby_rate_centers:
+  - name: LADYSMITH
+    distance_km: 7.8
+  - name: GLEN FLORA
+    distance_km: 8.51
+  - name: SHELDON
+    distance_km: 18.34
+- country: US
+  region: WI
+  name: Townsend
+  lat: '45.3241'
+  long: "-88.5904"
+  nearby_rate_centers:
+  - name: LAKEWOOD
+    distance_km: 11.63
+  - name: WABENO
+    distance_km: 13.61
+  - name: WHITE LAKE
+    distance_km: 22.87
+- country: US
+  region: WI
+  name: Trego
+  lat: '45.9048'
+  long: "-91.8287"
+  nearby_rate_centers:
+  - name: SPOONER
+    distance_km: 10.32
+  - name: SPRINGBRK
+    distance_km: 11.79
+  - name: SHELL LAKE
+    distance_km: 18.54
+- country: US
+  region: WI
+  name: Trempealeau
+  lat: '44.0029'
+  long: "-91.4284"
+  nearby_rate_centers:
+  - name: TREMPEALEU
+    distance_km: 0.55
+  - name: CENTERVL
+    distance_km: 8.14
+  - name: GALESVILLE
+    distance_km: 10.47
+- country: US
+  region: WI
+  name: Tunnel City
+  lat: '44.0050'
+  long: "-90.5679"
+  nearby_rate_centers:
+  - name: TOMAH
+    distance_km: 6.36
+  - name: WARRENS
+    distance_km: 15.43
+  - name: SPARTA
+    distance_km: 20.07
+- country: US
+  region: WI
+  name: Turtle Lake
+  lat: '45.3933'
+  long: "-92.1452"
+  nearby_rate_centers:
+  - name: TURTLELAKE
+    distance_km: 0.8
+  - name: CLAYTON
+    distance_km: 7.06
+  - name: ALMENA
+    distance_km: 9.45
+- country: US
+  region: WI
+  name: Tustin
+  lat: '44.1698'
+  long: "-88.8960"
+  nearby_rate_centers:
+  - name: POY SIPPI
+    distance_km: 8.53
+  - name: FREMONT
+    distance_km: 10.83
+  - name: READFIELD
+    distance_km: 15.45
+- country: US
+  region: WI
+  name: Twin Lakes
+  lat: '42.5190'
+  long: "-88.2484"
+  nearby_rate_centers:
+  - name: TWIN LAKES
+    distance_km: 1.56
+  - name: GENOA CITY
+    distance_km: 6.79
+  - name: SILVERLAKE
+    distance_km: 7.37
+- country: US
+  region: WI
+  name: Two Rivers
+  lat: '44.1565'
+  long: "-87.5824"
+  nearby_rate_centers:
+  - name: TWO RIVERS
+    distance_km: 1.25
+  - name: MANITOWOC
+    distance_km: 8.3
+  - name: MISHICOT
+    distance_km: 11.05
+- country: US
+  region: WI
+  name: Union Center
+  lat: '43.6826'
+  long: "-90.2634"
+  nearby_rate_centers:
+  - name: WONEWOC
+    distance_km: 5.42
+  - name: ELROY
+    distance_km: 6.47
+  - name: HILLSBORO
+    distance_km: 7.21
+- country: US
+  region: WI
+  name: Union Grove
+  lat: '42.6864'
+  long: "-88.0496"
+  nearby_rate_centers:
+  - name: UNIONGROVE
+    distance_km: 0.56
+  - name: SOMERS
+    distance_km: 13.41
+  - name: BRISTOL
+    distance_km: 14.16
+- country: US
+  region: WI
+  name: Unity
+  lat: '44.8511'
+  long: "-90.3131"
+  nearby_rate_centers:
+  - name: COLBY
+    distance_km: 6.26
+  - name: SPENCER
+    distance_km: 10.1
+  - name: DORCHESTER
+    distance_km: 17.79
+- country: US
+  region: WI
+  name: Valders
+  lat: '44.0696'
+  long: "-87.8858"
+  nearby_rate_centers:
+  - name: VALDERS
+    distance_km: 0.78
+  - name: ST NAZIANZ
+    distance_km: 7.16
+  - name: COLLINS
+    distance_km: 8.0
+- country: US
+  region: WI
+  name: Van Dyne
+  lat: '43.8862'
+  long: "-88.5012"
+  nearby_rate_centers:
+  - name: VAN DYNE
+    distance_km: 0.49
+  - name: FONDDU LAC
+    distance_km: 13.15
+  - name: OSHKOSH
+    distance_km: 14.47
+- country: US
+  region: WI
+  name: Vernon
+  lat: '42.8840'
+  long: "-88.2494"
+  nearby_rate_centers:
+  - name: BIG BEND
+    distance_km: 3.2
+  - name: MUKWONAGO
+    distance_km: 7.07
+  - name: MUSKEGO
+    distance_km: 9.91
+- country: US
+  region: WI
+  name: Verona
+  lat: '42.9892'
+  long: "-89.5383"
+  nearby_rate_centers:
+  - name: VERONA
+    distance_km: 0.45
+  - name: MT VERNON
+    distance_km: 10.8
+  - name: MIDDLETON
+    distance_km: 11.92
+- country: US
+  region: WI
+  name: Vesper
+  lat: '44.4805'
+  long: "-89.9676"
+  nearby_rate_centers:
+  - name: VESPER
+    distance_km: 0.19
+  - name: PITTSVILLE
+    distance_km: 13.55
+  - name: RUDOLPH
+    distance_km: 13.9
+- country: US
+  region: WI
+  name: Village of Waukesha
+  lat: '42.9601'
+  long: "-88.2480"
+  nearby_rate_centers:
+  - name: WAUKESHA
+    distance_km: 5.78
+  - name: BIG BEND
+    distance_km: 9.07
+  - name: GENESEE
+    distance_km: 9.93
+- country: US
+  region: WI
+  name: Viola
+  lat: '43.5070'
+  long: "-90.6735"
+  nearby_rate_centers:
+  - name: VIOLA
+    distance_km: 0.54
+  - name: LA FARGE
+    distance_km: 8.16
+  - name: READSTOWN
+    distance_km: 9.37
+- country: US
+  region: WI
+  name: Viroqua
+  lat: '43.5603'
+  long: "-90.8858"
+  nearby_rate_centers:
+  - name: VIROQUA
+    distance_km: 0.47
+  - name: LIBETYPOLE
+    distance_km: 8.73
+  - name: WESTBY
+    distance_km: 11.24
+- country: US
+  region: WI
+  name: Wabeno
+  lat: '45.4394'
+  long: "-88.6580"
+  nearby_rate_centers:
+  - name: WABENO
+    distance_km: 0.68
+  - name: LAONA
+    distance_km: 14.02
+  - name: PICKEREL
+    distance_km: 21.37
+- country: US
+  region: WI
+  name: Waldo
+  lat: '43.6766'
+  long: "-87.9478"
+  nearby_rate_centers:
+  - name: CASCADE
+    distance_km: 5.53
+  - name: PLYMOUTH
+    distance_km: 8.64
+  - name: SHEBOGNFLS
+    distance_km: 12.79
+- country: US
+  region: WI
+  name: Wales
+  lat: '43.0042'
+  long: "-88.3740"
+  nearby_rate_centers:
+  - name: GENESEE
+    distance_km: 4.26
+  - name: DELAFIELD
+    distance_km: 7.48
+  - name: NO PRAIRIE
+    distance_km: 7.91
+- country: US
+  region: WI
+  name: Walworth
+  lat: '42.5305'
+  long: "-88.5939"
+  nearby_rate_centers:
+  - name: WALWORTH
+    distance_km: 0.52
+  - name: WILLIAMSBY
+    distance_km: 6.75
+  - name: SHARON
+    distance_km: 11.5
+- country: US
+  region: WI
+  name: Warrens
+  lat: '44.1287'
+  long: "-90.5156"
+  nearby_rate_centers:
+  - name: WARRENS
+    distance_km: 1.56
+  - name: TOMAH
+    distance_km: 17.11
+  - name: CATARACT
+    distance_km: 27.32
+- country: US
+  region: WI
+  name: Washburn
+  lat: '46.6770'
+  long: "-90.9018"
+  nearby_rate_centers:
+  - name: WASHBURN
+    distance_km: 0.75
+  - name: ASHLAND
+    distance_km: 9.42
+  - name: LA POINTE
+    distance_km: 14.5
+- country: US
+  region: WI
+  name: Waterford
+  lat: '42.7645'
+  long: "-88.2160"
+  nearby_rate_centers:
+  - name: WATERFORD
+    distance_km: 0.57
+  - name: WIND LAKE
+    distance_km: 6.42
+  - name: BURLINGTON
+    distance_km: 11.19
+- country: US
+  region: WI
+  name: Waterloo
+  lat: '43.1835'
+  long: "-88.9899"
+  nearby_rate_centers:
+  - name: WATERLOO
+    distance_km: 0.51
+  - name: MARSHALL
+    distance_km: 6.35
+  - name: LAKE MILLS
+    distance_km: 13.03
+- country: US
+  region: WI
+  name: Watertown
+  lat: '43.1893'
+  long: "-88.7285"
+  nearby_rate_centers:
+  - name: WATERTOWN
+    distance_km: 1.84
+  - name: LEBANON
+    distance_km: 11.15
+  - name: JOHNSONCRK
+    distance_km: 12.26
+- country: US
+  region: WI
+  name: Waubeka
+  lat: '43.4708'
+  long: "-87.9926"
+  nearby_rate_centers:
+  - name: WAUBEKA
+    distance_km: 0.25
+  - name: NEWBURG
+    distance_km: 6.23
+  - name: RANDOMLAKE
+    distance_km: 9.3
+- country: US
+  region: WI
+  name: Waukau
+  lat: '43.9862'
+  long: "-88.7705"
+  nearby_rate_centers:
+  - name: OMRO
+    distance_km: 6.95
+  - name: PICKETT
+    distance_km: 9.31
+  - name: BERLIN
+    distance_km: 13.91
+- country: US
+  region: WI
+  name: Waukesha
+  lat: '43.0087'
+  long: "-88.2464"
+  nearby_rate_centers:
+  - name: WAUKESHA
+    distance_km: 1.69
+  - name: PEWAUKEE
+    distance_km: 8.44
+  - name: GENESEE
+    distance_km: 11.1
+- country: US
+  region: WI
+  name: Waumandee
+  lat: '44.3024'
+  long: "-91.7051"
+  nearby_rate_centers:
+  - name: WAUMANDEE
+    distance_km: 0.81
+  - name: COCHRANE
+    distance_km: 12.96
+  - name: ALMA
+    distance_km: 16.83
+- country: US
+  region: WI
+  name: Waunakee
+  lat: '43.1829'
+  long: "-89.4447"
+  nearby_rate_centers:
+  - name: WAUNAKEE
+    distance_km: 1.25
+  - name: MIDDLETON
+    distance_km: 10.97
+  - name: DE FOREST
+    distance_km: 11.39
+- country: US
+  region: WI
+  name: Waupaca
+  lat: '44.3506'
+  long: "-89.0719"
+  nearby_rate_centers:
+  - name: WAUPACA
+    distance_km: 1.28
+  - name: OGDENSBURG
+    distance_km: 11.47
+  - name: WEYAUWEGA
+    distance_km: 12.25
+- country: US
+  region: WI
+  name: Waupun
+  lat: '43.6314'
+  long: "-88.7381"
+  nearby_rate_centers:
+  - name: WAUPUN
+    distance_km: 1.1
+  - name: BRANDON
+    distance_km: 12.04
+  - name: BURNETT
+    distance_km: 14.55
+- country: US
+  region: WI
+  name: Wausau
+  lat: '44.9620'
+  long: "-89.6459"
+  nearby_rate_centers:
+  - name: WAUSAU
+    distance_km: 2.54
+  - name: MARATHON
+    distance_km: 14.96
+  - name: MOSINEE
+    distance_km: 18.55
+- country: US
+  region: WI
+  name: Wausaukee
+  lat: '45.3780'
+  long: "-87.9553"
+  nearby_rate_centers:
+  - name: WAUSAUKEE
+    distance_km: 0.73
+  - name: AMBERG
+    distance_km: 14.84
+  - name: CRIVITZ
+    distance_km: 16.73
+- country: US
+  region: WI
+  name: Wautoma
+  lat: '44.0668'
+  long: "-89.2915"
+  nearby_rate_centers:
+  - name: WAUTOMA
+    distance_km: 1.21
+  - name: WILD ROSE
+    distance_km: 12.25
+  - name: NESHKORO
+    distance_km: 12.42
+- country: US
+  region: WI
+  name: Wauwatosa
+  lat: '43.0616'
+  long: "-88.0347"
+  nearby_rate_centers:
+  - name: MILWAUKZN1
+    distance_km: 7.42
+  - name: MILWAUKZN2
+    distance_km: 7.42
+  - name: MILWAUKZN3
+    distance_km: 7.42
+  - name: MILWAUKZN4
+    distance_km: 7.42
+  - name: MILWAUKZN5
+    distance_km: 7.42
+  - name: MENOMONFLS
+    distance_km: 14.86
+  - name: WAUKESHA
+    distance_km: 16.57
+- country: US
+  region: WI
+  name: Wauzeka
+  lat: '43.0851'
+  long: "-90.8995"
+  nearby_rate_centers:
+  - name: WAUZEKA
+    distance_km: 1.96
+  - name: WOODMAN
+    distance_km: 8.16
+  - name: STEUBEN
+    distance_km: 11.23
+- country: US
+  region: WI
+  name: Webster
+  lat: '45.8798'
+  long: "-92.3628"
+  nearby_rate_centers:
+  - name: WEBSTER
+    distance_km: 0.62
+  - name: SIREN
+    distance_km: 11.0
+  - name: DANBURY
+    distance_km: 14.46
+- country: US
+  region: WI
+  name: West Allis
+  lat: '43.0068'
+  long: "-88.0296"
+  nearby_rate_centers:
+  - name: MILWAUKZN1
+    distance_km: 7.79
+  - name: MILWAUKZN2
+    distance_km: 7.79
+  - name: MILWAUKZN3
+    distance_km: 7.79
+  - name: MILWAUKZN4
+    distance_km: 7.79
+  - name: MILWAUKZN5
+    distance_km: 7.79
+  - name: MUSKEGO
+    distance_km: 14.02
+  - name: WAUKESHA
+    distance_km: 15.94
+- country: US
+  region: WI
+  name: West Baraboo
+  lat: '43.4815'
+  long: "-89.7718"
+  nearby_rate_centers:
+  - name: BARABOO
+    distance_km: 3.08
+  - name: NO FREEDOM
+    distance_km: 7.42
+  - name: WISCONDLLS
+    distance_km: 16.72
+- country: US
+  region: WI
+  name: West Bend
+  lat: '43.4173'
+  long: "-88.1818"
+  nearby_rate_centers:
+  - name: WEST BEND
+    distance_km: 0.94
+  - name: JACKSON
+    distance_km: 10.17
+  - name: NEWBURG
+    distance_km: 10.9
+- country: US
+  region: WI
+  name: West Milwaukee
+  lat: '43.0124'
+  long: "-87.9710"
+  nearby_rate_centers:
+  - name: MILWAUKZN1
+    distance_km: 3.86
+  - name: MILWAUKZN2
+    distance_km: 3.86
+  - name: MILWAUKZN3
+    distance_km: 3.86
+  - name: MILWAUKZN4
+    distance_km: 3.86
+  - name: MILWAUKZN5
+    distance_km: 3.86
+  - name: MUSKEGO
+    distance_km: 17.68
+  - name: WAUKESHA
+    distance_km: 20.71
+- country: US
+  region: WI
+  name: West Salem
+  lat: '43.8989'
+  long: "-91.0882"
+  nearby_rate_centers:
+  - name: WEST SALEM
+    distance_km: 0.49
+  - name: BANGOR
+    distance_km: 8.53
+  - name: MINDORO
+    distance_km: 13.31
+- country: US
+  region: WI
+  name: Westboro
+  lat: '45.3608'
+  long: "-90.2934"
+  nearby_rate_centers:
+  - name: RIB LAKE
+    distance_km: 8.31
+  - name: OGEMA
+    distance_km: 8.8
+  - name: PRENTICE
+    distance_km: 20.74
+- country: US
+  region: WI
+  name: Westby
+  lat: '43.6530'
+  long: "-90.8584"
+  nearby_rate_centers:
+  - name: WESTBY
+    distance_km: 0.7
+  - name: VIROQUA
+    distance_km: 10.53
+  - name: CASHTON
+    distance_km: 11.52
+- country: US
+  region: WI
+  name: Westfield
+  lat: '43.8851'
+  long: "-89.4926"
+  nearby_rate_centers:
+  - name: WESTFIELD
+    distance_km: 0.88
+  - name: OXFORD
+    distance_km: 12.49
+  - name: PACKWAUKEE
+    distance_km: 12.71
+- country: US
+  region: WI
+  name: Weston
+  lat: '44.8906'
+  long: "-89.5487"
+  nearby_rate_centers:
+  - name: WAUSAU
+    distance_km: 8.62
+  - name: MOSINEE
+    distance_km: 15.81
+  - name: HATLEY
+    distance_km: 17.48
+- country: US
+  region: WI
+  name: Weyauwega
+  lat: '44.3240'
+  long: "-88.9333"
+  nearby_rate_centers:
+  - name: WEYAUWEGA
+    distance_km: 0.99
+  - name: FREMONT
+    distance_km: 8.29
+  - name: WAUPACA
+    distance_km: 12.44
+- country: US
+  region: WI
+  name: Wheeler
+  lat: '45.0441'
+  long: "-91.9037"
+  nearby_rate_centers:
+  - name: WHEELER
+    distance_km: 0.9
+  - name: BOYCEVILLE
+    distance_km: 10.06
+  - name: COLFAX
+    distance_km: 15.08
+- country: US
+  region: WI
+  name: White Lake
+  lat: '45.1617'
+  long: "-88.7704"
+  nearby_rate_centers:
+  - name: WHITE LAKE
+    distance_km: 0.77
+  - name: NEOPIT
+    distance_km: 19.97
+  - name: LAKEWOOD
+    distance_km: 21.47
+- country: US
+  region: WI
+  name: Whitefish Bay
+  lat: '43.1131'
+  long: "-87.9003"
+  nearby_rate_centers:
+  - name: MILWAUKZN1
+    distance_km: 8.73
+  - name: MILWAUKZN2
+    distance_km: 8.73
+  - name: MILWAUKZN3
+    distance_km: 8.73
+  - name: MILWAUKZN4
+    distance_km: 8.73
+  - name: MILWAUKZN5
+    distance_km: 8.73
+  - name: THIENSVL
+    distance_km: 15.2
+  - name: MENOMONFLS
+    distance_km: 19.09
+- country: US
+  region: WI
+  name: Whitehall
+  lat: '44.3605'
+  long: "-91.3377"
+  nearby_rate_centers:
+  - name: WHITEHALL
+    distance_km: 1.6
+  - name: INDEPNDNCE
+    distance_km: 6.99
+  - name: BLAIR
+    distance_km: 11.16
+- country: US
+  region: WI
+  name: Whitelaw
+  lat: '44.1453'
+  long: "-87.8278"
+  nearby_rate_centers:
+  - name: WHITELAW
+    distance_km: 0.73
+  - name: VALDERS
+    distance_km: 9.57
+  - name: REEDSVILLE
+    distance_km: 10.58
+- country: US
+  region: WI
+  name: Whitewater
+  lat: '42.8372'
+  long: "-88.7341"
+  nearby_rate_centers:
+  - name: WHITEWATER
+    distance_km: 0.93
+  - name: PALMYRA
+    distance_km: 12.39
+  - name: RICHMOND
+    distance_km: 13.52
+- country: US
+  region: WI
+  name: Whiting
+  lat: '44.4907'
+  long: "-89.5600"
+  nearby_rate_centers:
+  - name: STEVENS PT
+    distance_km: 2.97
+  - name: POLONIA
+    distance_km: 14.85
+  - name: RUDOLPH
+    distance_km: 18.48
+- country: US
+  region: WI
+  name: Whittlesey
+  lat: '45.2206'
+  long: "-90.3232"
+  nearby_rate_centers:
+  - name: MEDFORD
+    distance_km: 7.7
+  - name: RIB LAKE
+    distance_km: 15.03
+  - name: STETSONVL
+    distance_km: 15.34
+- country: US
+  region: WI
+  name: Wild Rose
+  lat: '44.1788'
+  long: "-89.2442"
+  nearby_rate_centers:
+  - name: WILD ROSE
+    distance_km: 0.83
+  - name: WAUTOMA
+    distance_km: 11.84
+  - name: ALMOND
+    distance_km: 15.55
+- country: US
+  region: WI
+  name: Williams Bay
+  lat: '42.5788'
+  long: "-88.5457"
+  nearby_rate_centers:
+  - name: WILLIAMSBY
+    distance_km: 0.55
+  - name: WALWORTH
+    distance_km: 6.7
+  - name: LAKEGENEVA
+    distance_km: 9.48
+- country: US
+  region: WI
+  name: Wilson
+  lat: '44.9586'
+  long: "-92.1705"
+  nearby_rate_centers:
+  - name: KNAPP
+    distance_km: 7.74
+  - name: SPRINGLAKE
+    distance_km: 8.61
+  - name: WOODVILLE
+    distance_km: 9.1
+- country: US
+  region: WI
+  name: Wilton
+  lat: '43.8132'
+  long: "-90.5268"
+  nearby_rate_centers:
+  - name: WILTON
+    distance_km: 0.66
+  - name: NORWALK
+    distance_km: 7.29
+  - name: ONTARIO
+    distance_km: 11.16
+- country: US
+  region: WI
+  name: Winchester
+  lat: '44.1982'
+  long: "-88.6599"
+  nearby_rate_centers:
+  - name: LARSEN
+    distance_km: 2.99
+  - name: WINNECONNE
+    distance_km: 9.85
+  - name: READFIELD
+    distance_km: 12.15
+- country: US
+  region: WI
+  name: Wind Lake
+  lat: '42.8239'
+  long: "-88.1563"
+  nearby_rate_centers:
+  - name: WIND LAKE
+    distance_km: 1.86
+  - name: BIG BEND
+    distance_km: 7.93
+  - name: WATERFORD
+    distance_km: 8.56
+- country: US
+  region: WI
+  name: Wind Point
+  lat: '42.7814'
+  long: "-87.7721"
+  nearby_rate_centers:
+  - name: RACINE
+    distance_km: 6.39
+  - name: PARKSIDE
+    distance_km: 13.56
+  - name: CALEDONIA
+    distance_km: 14.58
+- country: US
+  region: WI
+  name: Winneconne
+  lat: '44.1111'
+  long: "-88.7116"
+  nearby_rate_centers:
+  - name: WINNECONNE
+    distance_km: 0.7
+  - name: OMRO
+    distance_km: 7.77
+  - name: LARSEN
+    distance_km: 12.08
+- country: US
+  region: WI
+  name: Winter
+  lat: '45.8221'
+  long: "-91.0130"
+  nearby_rate_centers:
+  - name: WINTER
+    distance_km: 0.49
+  - name: RADISSON
+    distance_km: 16.57
+  - name: EXELAND
+    distance_km: 23.87
+- country: US
+  region: WI
+  name: Wiota
+  lat: '42.6368'
+  long: "-89.9493"
+  nearby_rate_centers:
+  - name: WIOTA
+    distance_km: 0.7
+  - name: WOODFORD
+    distance_km: 7.68
+  - name: GRATIOT
+    distance_km: 9.42
+- country: US
+  region: WI
+  name: Wisconsin Dells
+  lat: '43.6336'
+  long: "-89.7752"
+  nearby_rate_centers:
+  - name: WISCONDLLS
+    distance_km: 0.73
+  - name: LYNDON STA
+    distance_km: 13.57
+  - name: BRIGGSVL
+    distance_km: 15.54
+- country: US
+  region: WI
+  name: Wisconsin Rapids
+  lat: '44.3927'
+  long: "-89.8265"
+  nearby_rate_centers:
+  - name: WISCOSNRPD
+    distance_km: 2.1
+  - name: PT EDWARDS
+    distance_km: 6.62
+  - name: NEKOOSA
+    distance_km: 10.17
+- country: US
+  region: WI
+  name: Withee
+  lat: '44.9508'
+  long: "-90.5989"
+  nearby_rate_centers:
+  - name: OWEN
+    distance_km: 2.62
+  - name: THORP
+    distance_km: 15.71
+  - name: GREENWOOD
+    distance_km: 20.36
+- country: US
+  region: WI
+  name: Wittenberg
+  lat: '44.8270'
+  long: "-89.1664"
+  nearby_rate_centers:
+  - name: WITTENBERG
+    distance_km: 0.48
+  - name: ELDERON
+    distance_km: 6.99
+  - name: BIRNAMWOOD
+    distance_km: 12.22
+- country: US
+  region: WI
+  name: Wonewoc
+  lat: '43.6531'
+  long: "-90.2239"
+  nearby_rate_centers:
+  - name: WONEWOC
+    distance_km: 0.92
+  - name: HILLSBORO
+    distance_km: 9.4
+  - name: ELROY
+    distance_km: 10.27
+- country: US
+  region: WI
+  name: Woodford
+  lat: '42.6476'
+  long: "-89.8599"
+  nearby_rate_centers:
+  - name: WOODFORD
+    distance_km: 0.44
+  - name: ARGYLE
+    distance_km: 5.92
+  - name: WIOTA
+    distance_km: 7.11
+- country: US
+  region: WI
+  name: Woodman
+  lat: '43.0925'
+  long: "-90.7978"
+  nearby_rate_centers:
+  - name: WOODMAN
+    distance_km: 0.19
+  - name: WAUZEKA
+    distance_km: 6.36
+  - name: BOSCOBEL
+    distance_km: 9.13
+- country: US
+  region: WI
+  name: Woodruff
+  lat: '45.8946'
+  long: "-89.6912"
+  nearby_rate_centers:
+  - name: MINOCQUA
+    distance_km: 2.06
+  - name: LKTOMAHAWK
+    distance_km: 11.57
+  - name: SAYNER
+    distance_km: 16.59
+- country: US
+  region: WI
+  name: Woodville
+  lat: '44.9483'
+  long: "-92.2851"
+  nearby_rate_centers:
+  - name: WOODVILLE
+    distance_km: 1.02
+  - name: BALDWIN
+    distance_km: 7.2
+  - name: SPRING VLY
+    distance_km: 11.7
+- country: US
+  region: WI
+  name: Wrightstown
+  lat: '44.3263'
+  long: "-88.1756"
+  nearby_rate_centers:
+  - name: WRIGHTSTN
+    distance_km: 1.62
+  - name: KAUKAUNA
+    distance_km: 8.61
+  - name: LTL CHUTE
+    distance_km: 11.57
+- country: US
+  region: WI
+  name: Wyeville
+  lat: '44.0279'
+  long: "-90.3861"
+  nearby_rate_centers:
+  - name: TOMAH
+    distance_km: 10.83
+  - name: WARRENS
+    distance_km: 14.81
+  - name: CAMPDOUGLS
+    distance_km: 15.79
+- country: US
+  region: WI
+  name: Wyocena
+  lat: '43.4931'
+  long: "-89.3099"
+  nearby_rate_centers:
+  - name: PARDEEVL
+    distance_km: 4.76
+  - name: RIO
+    distance_km: 7.68
+  - name: PORTAGE
+    distance_km: 12.32
+- country: US
+  region: WI
+  name: Yorkville
+  lat: '42.7155'
+  long: "-88.0097"
+  nearby_rate_centers:
+  - name: UNIONGROVE
+    distance_km: 4.37
+  - name: CALEDONIA
+    distance_km: 11.4
+  - name: SOMERS
+    distance_km: 12.34
+- country: US
+  region: WI
+  name: Yuba
+  lat: '43.5364'
+  long: "-90.4267"
+  nearby_rate_centers:
+  - name: YUBA
+    distance_km: 0.62
+  - name: BLOOM CITY
+    distance_km: 5.67
+  - name: HILLSBORO
+    distance_km: 14.37
+- country: US
+  region: WI
+  name: Zoar
+  lat: '45.0178'
+  long: "-88.8945"
+  nearby_rate_centers:
+  - name: NEOPIT
+    distance_km: 7.15
+  - name: MATTOON
+    distance_km: 10.92
+  - name: BOWLER
+    distance_km: 17.96

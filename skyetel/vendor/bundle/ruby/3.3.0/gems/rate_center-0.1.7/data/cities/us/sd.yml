@@ -1,0 +1,5822 @@
+---
+cities:
+- country: US
+  region: SD
+  name: Aberdeen
+  lat: '45.4649'
+  long: "-98.4686"
+  nearby_rate_centers:
+  - name: ABERDEEN
+    distance_km: 1.04
+  - name: COLUMBIA
+    distance_km: 21.14
+  - name: GROTON
+    distance_km: 28.88
+- country: US
+  region: SD
+  name: Agar
+  lat: '44.8397'
+  long: "-100.0732"
+  nearby_rate_centers:
+  - name: ONIDA
+    distance_km: 14.58
+  - name: GETTYSBURG
+    distance_km: 21.04
+  - name: LEBANON
+    distance_km: 35.09
+- country: US
+  region: SD
+  name: Agency Village
+  lat: '45.5796'
+  long: "-97.0782"
+  nearby_rate_centers:
+  - name: SISSETON
+    distance_km: 9.92
+  - name: PEEVER
+    distance_km: 9.99
+  - name: WBROWNSVLY
+    distance_km: 13.96
+- country: US
+  region: SD
+  name: Akaska
+  lat: '45.3310'
+  long: "-100.1208"
+  nearby_rate_centers:
+  - name: SELBY
+    distance_km: 20.68
+  - name: GLENHAM
+    distance_km: 25.22
+  - name: HOVEN
+    distance_km: 28.9
+- country: US
+  region: SD
+  name: Albee
+  lat: '45.0513'
+  long: "-96.5535"
+  nearby_rate_centers:
+  - name: REVILLO
+    distance_km: 3.83
+  - name: W MARIETTA
+    distance_km: 6.6
+  - name: STOCKHOLM
+    distance_km: 20.1
+- country: US
+  region: SD
+  name: Alcester
+  lat: '43.0278'
+  long: "-96.6268"
+  nearby_rate_centers:
+  - name: ALCESTER
+    distance_km: 0.67
+  - name: W HAWARDEN
+    distance_km: 8.66
+  - name: ALSEN
+    distance_km: 13.62
+- country: US
+  region: SD
+  name: Alexandria
+  lat: '43.6541'
+  long: "-97.7798"
+  nearby_rate_centers:
+  - name: ALEXANDRIA
+    distance_km: 0.74
+  - name: EMERY
+    distance_km: 13.82
+  - name: SPENCER
+    distance_km: 17.05
+- country: US
+  region: SD
+  name: Allen
+  lat: '43.2792'
+  long: "-101.9265"
+  nearby_rate_centers:
+  - name: MARTIN
+    distance_km: 18.87
+  - name: KYLE
+    distance_km: 26.23
+  - name: NO GORDON
+    distance_km: 37.76
+- country: US
+  region: SD
+  name: Alpena
+  lat: '44.1829'
+  long: "-98.3683"
+  nearby_rate_centers:
+  - name: ALPENA
+    distance_km: 0.03
+  - name: WOONSOCKET
+    distance_km: 16.71
+  - name: WESIGTNSPG
+    distance_km: 20.13
+- country: US
+  region: SD
+  name: Altamont
+  lat: '44.8408'
+  long: "-96.6901"
+  nearby_rate_centers:
+  - name: CLEAR LAKE
+    distance_km: 9.82
+  - name: GOODWIN
+    distance_km: 13.25
+  - name: GARY
+    distance_km: 19.51
+- country: US
+  region: SD
+  name: Anderson
+  lat: '43.5194'
+  long: "-96.6141"
+  nearby_rate_centers:
+  - name: BRANDON
+    distance_km: 8.6
+  - name: SIOUX FLS
+    distance_km: 9.32
+  - name: HARISBGTEA
+    distance_km: 12.55
+- country: US
+  region: SD
+  name: Andover
+  lat: '45.4102'
+  long: "-97.9037"
+  nearby_rate_centers:
+  - name: ANDOVER
+    distance_km: 0.23
+  - name: PIERPONT
+    distance_km: 11.17
+  - name: BRISTOL
+    distance_km: 14.44
+- country: US
+  region: SD
+  name: Angostura
+  lat: '43.3192'
+  long: "-103.3860"
+  nearby_rate_centers:
+  - name: ORAL
+    distance_km: 13.65
+  - name: HOTSPRINGS
+    distance_km: 13.95
+  - name: OELRICHS
+    distance_km: 20.1
+- country: US
+  region: SD
+  name: Antelope
+  lat: '43.3087'
+  long: "-100.6306"
+  nearby_rate_centers:
+  - name: MISSION
+    distance_km: 2.39
+  - name: ROSEBUD
+    distance_km: 19.36
+  - name: WOOD
+    distance_km: 24.48
+- country: US
+  region: SD
+  name: Ardmore
+  lat: '43.0192'
+  long: "-103.6543"
+  nearby_rate_centers:
+  - name: ARDMORE
+    distance_km: 0.41
+  - name: EDGEMONT
+    distance_km: 33.91
+  - name: OELRICHS
+    distance_km: 38.19
+- country: US
+  region: SD
+  name: Arlington
+  lat: '44.3635'
+  long: "-97.1338"
+  nearby_rate_centers:
+  - name: ARLINGTON
+    distance_km: 0.35
+  - name: SINAI
+    distance_km: 15.37
+  - name: VOLGA
+    distance_km: 17.1
+- country: US
+  region: SD
+  name: Armour
+  lat: '43.3190'
+  long: "-98.3448"
+  nearby_rate_centers:
+  - name: ARMOUR
+    distance_km: 0.64
+  - name: CORSICA
+    distance_km: 12.96
+  - name: DELMONT
+    distance_km: 15.42
+- country: US
+  region: SD
+  name: Artas
+  lat: '45.8873'
+  long: "-99.8069"
+  nearby_rate_centers:
+  - name: EUREKA
+    distance_km: 18.94
+  - name: SOVENTURIA
+    distance_km: 20.73
+  - name: HERREID
+    distance_km: 21.08
+- country: US
+  region: SD
+  name: Artesian
+  lat: '44.0079'
+  long: "-97.9237"
+  nearby_rate_centers:
+  - name: ARTESIAN
+    distance_km: 0.1
+  - name: FORESTBURG
+    distance_km: 14.87
+  - name: LETCHER
+    distance_km: 20.6
+- country: US
+  region: SD
+  name: Ashland Heights
+  lat: '44.1293'
+  long: "-103.1286"
+  nearby_rate_centers:
+  - name: RAPID CITY
+    distance_km: 8.95
+  - name: NEWUNDERWD
+    distance_km: 24.17
+  - name: HERMOSA
+    distance_km: 33.13
+- country: US
+  region: SD
+  name: Ashton
+  lat: '44.9931'
+  long: "-98.4991"
+  nearby_rate_centers:
+  - name: REDFIELD
+    distance_km: 13.32
+  - name: MELLETTE
+    distance_km: 17.48
+  - name: TULARE
+    distance_km: 27.9
+- country: US
+  region: SD
+  name: Astoria
+  lat: '44.5577'
+  long: "-96.5465"
+  nearby_rate_centers:
+  - name: ASTORIA
+    distance_km: 0.42
+  - name: WHENDRICKS
+    distance_km: 6.99
+  - name: TORONTO
+    distance_km: 8.69
+- country: US
+  region: SD
+  name: Aurora
+  lat: '44.2823'
+  long: "-96.6868"
+  nearby_rate_centers:
+  - name: BROOKINGS
+    distance_km: 8.71
+  - name: BROOKINGSR
+    distance_km: 8.71
+  - name: WHITE
+    distance_km: 17.01
+  - name: ELKTON
+    distance_km: 17.29
+- country: US
+  region: SD
+  name: Aurora Center
+  lat: '43.5272'
+  long: "-98.5894"
+  nearby_rate_centers:
+  - name: NEWHOLLAND
+    distance_km: 11.41
+  - name: STICKNEY
+    distance_km: 14.03
+  - name: CORSICA
+    distance_km: 18.44
+- country: US
+  region: SD
+  name: Avon
+  lat: '43.0052'
+  long: "-98.0593"
+  nearby_rate_centers:
+  - name: AVON
+    distance_km: 0.47
+  - name: TYNDALL
+    distance_km: 15.57
+  - name: SPRINGFLD
+    distance_km: 20.79
+- country: US
+  region: SD
+  name: Badger
+  lat: '44.4855'
+  long: "-97.2079"
+  nearby_rate_centers:
+  - name: LAKENORDEN
+    distance_km: 11.08
+  - name: ARLINGTON
+    distance_km: 14.49
+  - name: LK PRESTON
+    distance_km: 18.57
+- country: US
+  region: SD
+  name: Baltic
+  lat: '43.7603'
+  long: "-96.7371"
+  nearby_rate_centers:
+  - name: BALTIC
+    distance_km: 0.31
+  - name: DELLRAPIDS
+    distance_km: 7.64
+  - name: CROOKS
+    distance_km: 12.49
+- country: US
+  region: SD
+  name: Bancroft
+  lat: '44.4894'
+  long: "-97.7505"
+  nearby_rate_centers:
+  - name: IROQUOIS
+    distance_km: 15.95
+  - name: BRYNTWLWLK
+    distance_km: 17.29
+  - name: DE SMET
+    distance_km: 19.13
+- country: US
+  region: SD
+  name: Batesland
+  lat: '43.1278'
+  long: "-102.1017"
+  nearby_rate_centers:
+  - name: NO GORDON
+    distance_km: 15.85
+  - name: MARTIN
+    distance_km: 29.75
+  - name: KYLE
+    distance_km: 34.19
+- country: US
+  region: SD
+  name: Bath
+  lat: '45.4692'
+  long: "-98.3236"
+  nearby_rate_centers:
+  - name: ABERDEEN
+    distance_km: 12.31
+  - name: COLUMBIA
+    distance_km: 16.64
+  - name: GROTON
+    distance_km: 17.64
+- country: US
+  region: SD
+  name: Bath Corner
+  lat: '45.4627'
+  long: "-98.3329"
+  nearby_rate_centers:
+  - name: ABERDEEN
+    distance_km: 11.59
+  - name: COLUMBIA
+    distance_km: 17.43
+  - name: GROTON
+    distance_km: 18.3
+- country: US
+  region: SD
+  name: Belle Fourche
+  lat: '44.6640'
+  long: "-103.8564"
+  nearby_rate_centers:
+  - name: BELLEFORCH
+    distance_km: 1.19
+  - name: SPEARFISH
+    distance_km: 18.95
+  - name: NISLAND
+    distance_km: 25.16
+- country: US
+  region: SD
+  name: Belvidere
+  lat: '43.8321'
+  long: "-101.2711"
+  nearby_rate_centers:
+  - name: BELVIDERE
+    distance_km: 1.38
+  - name: KADOKA
+    distance_km: 19.55
+  - name: MIDLAND
+    distance_km: 28.09
+- country: US
+  region: SD
+  name: Beresford
+  lat: '43.0797'
+  long: "-96.7803"
+  nearby_rate_centers:
+  - name: BERESFD RL
+    distance_km: 0.46
+  - name: BERESFORD
+    distance_km: 0.46
+  - name: ALSEN
+    distance_km: 10.66
+  - name: ALCESTER
+    distance_km: 13.5
+- country: US
+  region: SD
+  name: Big Stone City
+  lat: '45.2985'
+  long: "-96.4657"
+  nearby_rate_centers:
+  - name: BIGSTONECY
+    distance_km: 0.59
+  - name: MILBANK
+    distance_km: 15.15
+  - name: W MARIETTA
+    distance_km: 31.14
+- country: US
+  region: SD
+  name: Bijou Hills
+  lat: '43.5285'
+  long: "-99.1439"
+  nearby_rate_centers:
+  - name: ACADEMY
+    distance_km: 9.76
+  - name: PUKWANA
+    distance_km: 27.64
+  - name: KIMBALL
+    distance_km: 29.07
+- country: US
+  region: SD
+  name: Bison
+  lat: '45.5235'
+  long: "-102.4677"
+  nearby_rate_centers:
+  - name: BISON
+    distance_km: 0.54
+  - name: MEADOW
+    distance_km: 19.03
+  - name: SORUM
+    distance_km: 36.79
+- country: US
+  region: SD
+  name: Blackhawk
+  lat: '44.1514'
+  long: "-103.3340"
+  nearby_rate_centers:
+  - name: RAPID CITY
+    distance_km: 11.66
+  - name: KEYSTONE
+    distance_km: 29.56
+  - name: HILL CITY
+    distance_km: 30.95
+- country: US
+  region: SD
+  name: Blucksberg Mountain
+  lat: '44.3593'
+  long: "-103.4538"
+  nearby_rate_centers:
+  - name: STURGIS
+    distance_km: 7.13
+  - name: WHITEWOOD
+    distance_km: 18.13
+  - name: DEADWOOD
+    distance_km: 20.27
+- country: US
+  region: SD
+  name: Blumengard Colony
+  lat: '45.2415'
+  long: "-99.1700"
+  nearby_rate_centers:
+  - name: CRESBARD
+    distance_km: 18.72
+  - name: FAULKTON
+    distance_km: 23.12
+  - name: ONAKA
+    distance_km: 23.94
+- country: US
+  region: SD
+  name: Blunt
+  lat: '44.5159'
+  long: "-99.9885"
+  nearby_rate_centers:
+  - name: BLUNT
+    distance_km: 0.26
+  - name: HARROLD
+    distance_km: 19.62
+  - name: ONIDA
+    distance_km: 22.29
+- country: US
+  region: SD
+  name: Bon Homme Colony
+  lat: '42.8649'
+  long: "-97.7056"
+  nearby_rate_centers:
+  - name: TABOR
+    distance_km: 10.04
+  - name: SPRINGFLD
+    distance_km: 15.83
+  - name: TYNDALL
+    distance_km: 19.56
+- country: US
+  region: SD
+  name: Bonesteel
+  lat: '43.0775'
+  long: "-98.9467"
+  nearby_rate_centers:
+  - name: BONESTEEL
+    distance_km: 0.58
+  - name: NORTHNAPER
+    distance_km: 18.18
+  - name: NO BRISTOW
+    distance_km: 30.07
+- country: US
+  region: SD
+  name: Boulder Canyon
+  lat: '44.3971'
+  long: "-103.6046"
+  nearby_rate_centers:
+  - name: WHITEWOOD
+    distance_km: 7.37
+  - name: DEADWOOD
+    distance_km: 8.2
+  - name: STURGIS
+    distance_km: 8.66
+- country: US
+  region: SD
+  name: Bowdle
+  lat: '45.4512'
+  long: "-99.6565"
+  nearby_rate_centers:
+  - name: BOWDLE
+    distance_km: 0.32
+  - name: HOSMER
+    distance_km: 20.5
+  - name: HOVEN
+    distance_km: 24.92
+- country: US
+  region: SD
+  name: Box Elder
+  lat: '44.1120'
+  long: "-103.0818"
+  nearby_rate_centers:
+  - name: RAPID CITY
+    distance_km: 11.58
+  - name: NEWUNDERWD
+    distance_km: 20.18
+  - name: HERMOSA
+    distance_km: 32.05
+- country: US
+  region: SD
+  name: Bradley
+  lat: '45.0904'
+  long: "-97.6420"
+  nearby_rate_centers:
+  - name: BRADLEY
+    distance_km: 0.14
+  - name: FLORENCE
+    distance_km: 25.05
+  - name: CLARK
+    distance_km: 25.13
+- country: US
+  region: SD
+  name: Brandon
+  lat: '43.5928'
+  long: "-96.5799"
+  nearby_rate_centers:
+  - name: BRANDON
+    distance_km: 0.08
+  - name: VALLEY SPG
+    distance_km: 9.2
+  - name: SIOUX FLS
+    distance_km: 13.08
+- country: US
+  region: SD
+  name: Brandt
+  lat: '44.6669'
+  long: "-96.6252"
+  nearby_rate_centers:
+  - name: BRANDT
+    distance_km: 0.29
+  - name: TORONTO
+    distance_km: 10.59
+  - name: CLEAR LAKE
+    distance_km: 10.61
+- country: US
+  region: SD
+  name: Brant Lake
+  lat: '43.9308'
+  long: "-96.9436"
+  nearby_rate_centers:
+  - name: CHESTER
+    distance_km: 4.68
+  - name: WENTWORTH
+    distance_km: 7.03
+  - name: COLMAN
+    distance_km: 11.38
+- country: US
+  region: SD
+  name: Brant Lake South
+  lat: '43.9139'
+  long: "-96.9380"
+  nearby_rate_centers:
+  - name: CHESTER
+    distance_km: 2.75
+  - name: WENTWORTH
+    distance_km: 8.96
+  - name: COLMAN
+    distance_km: 11.99
+- country: US
+  region: SD
+  name: Brentford
+  lat: '45.1591'
+  long: "-98.3223"
+  nearby_rate_centers:
+  - name: MELLETTE
+    distance_km: 13.9
+  - name: CONDE
+    distance_km: 17.56
+  - name: TURTON
+    distance_km: 21.07
+- country: US
+  region: SD
+  name: Brentwood Colony
+  lat: '45.1513'
+  long: "-99.2984"
+  nearby_rate_centers:
+  - name: ONAKA
+    distance_km: 14.02
+  - name: FAULKTON
+    distance_km: 18.22
+  - name: SENECA
+    distance_km: 18.95
+- country: US
+  region: SD
+  name: Bridger
+  lat: '44.5421'
+  long: "-101.9136"
+  nearby_rate_centers:
+  - name: MILESVILLE
+    distance_km: 22.6
+  - name: CREIGHTON
+    distance_km: 39.86
+  - name: ENNING
+    distance_km: 51.16
+- country: US
+  region: SD
+  name: Bridgewater
+  lat: '43.5502'
+  long: "-97.4984"
+  nearby_rate_centers:
+  - name: BRIDGEWTR
+    distance_km: 0.37
+  - name: EMERY
+    distance_km: 11.62
+  - name: CANISTOTA
+    distance_km: 18.11
+- country: US
+  region: SD
+  name: Bristol
+  lat: '45.3466'
+  long: "-97.7485"
+  nearby_rate_centers:
+  - name: BRISTOL
+    distance_km: 0.72
+  - name: ANDOVER
+    distance_km: 14.1
+  - name: WEBSTER
+    distance_km: 18.12
+- country: US
+  region: SD
+  name: Britton
+  lat: '45.7924'
+  long: "-97.7529"
+  nearby_rate_centers:
+  - name: BRITTON
+    distance_km: 0.99
+  - name: SO FORMAN
+    distance_km: 15.9
+  - name: LANGFORD
+    distance_km: 21.54
+- country: US
+  region: SD
+  name: Broadland
+  lat: '44.4938'
+  long: "-98.3466"
+  nearby_rate_centers:
+  - name: WOLSEY
+    distance_km: 13.7
+  - name: HITCHCOCK
+    distance_km: 15.36
+  - name: HURON
+    distance_km: 18.42
+- country: US
+  region: SD
+  name: Brookings
+  lat: '44.3022'
+  long: "-96.7859"
+  nearby_rate_centers:
+  - name: BROOKINGS
+    distance_km: 0.82
+  - name: BROOKINGSR
+    distance_km: 0.82
+  - name: VOLGA
+    distance_km: 11.41
+  - name: WHITE
+    distance_km: 18.09
+- country: US
+  region: SD
+  name: Bruce
+  lat: '44.4378'
+  long: "-96.8906"
+  nearby_rate_centers:
+  - name: VOLGA
+    distance_km: 12.97
+  - name: ESTELLINE
+    distance_km: 15.43
+  - name: BROOKINGS
+    distance_km: 16.41
+  - name: BROOKINGSR
+    distance_km: 16.41
+- country: US
+  region: SD
+  name: Bryant
+  lat: '44.5899'
+  long: "-97.4673"
+  nearby_rate_centers:
+  - name: BRYNTWLWLK
+    distance_km: 14.4
+  - name: LAKENORDEN
+    distance_km: 20.52
+  - name: HAYTI
+    distance_km: 22.31
+- country: US
+  region: SD
+  name: Buffalo
+  lat: '45.5863'
+  long: "-103.5434"
+  nearby_rate_centers:
+  - name: BUFFALO
+    distance_km: 0.69
+  - name: CAMP CROOK
+    distance_km: 33.91
+  - name: SOUTH LADD
+    distance_km: 37.73
+- country: US
+  region: SD
+  name: Buffalo Chip
+  lat: '44.4166'
+  long: "-103.4058"
+  nearby_rate_centers:
+  - name: STURGIS
+    distance_km: 7.36
+  - name: WHITEWOOD
+    distance_km: 18.69
+  - name: DEADWOOD
+    distance_km: 24.13
+- country: US
+  region: SD
+  name: Buffalo Gap
+  lat: '43.4921'
+  long: "-103.3154"
+  nearby_rate_centers:
+  - name: BUFFALOGAP
+    distance_km: 0.61
+  - name: ORAL
+    distance_km: 10.33
+  - name: HOTSPRINGS
+    distance_km: 14.92
+- country: US
+  region: SD
+  name: Bullhead
+  lat: '45.7693'
+  long: "-101.0809"
+  nearby_rate_centers:
+  - name: MCLAUGHLIN
+    distance_km: 21.33
+  - name: MCINTOSH
+    distance_km: 26.75
+  - name: TIMBERLAKE
+    distance_km: 37.39
+- country: US
+  region: SD
+  name: Burbank
+  lat: '42.7461'
+  long: "-96.8326"
+  nearby_rate_centers:
+  - name: VERMILLION
+    distance_km: 9.23
+  - name: ELK POINT
+    distance_km: 13.86
+  - name: WEST AKRON
+    distance_km: 21.8
+- country: US
+  region: SD
+  name: Burke
+  lat: '43.1827'
+  long: "-99.2923"
+  nearby_rate_centers:
+  - name: BURKE
+    distance_km: 0.58
+  - name: GREGORY
+    distance_km: 12.89
+  - name: NORTHNAPER
+    distance_km: 19.77
+- country: US
+  region: SD
+  name: Bushnell
+  lat: '44.3274'
+  long: "-96.6424"
+  nearby_rate_centers:
+  - name: WHITE
+    distance_km: 11.77
+  - name: BROOKINGS
+    distance_km: 11.89
+  - name: BROOKINGSR
+    distance_km: 11.89
+  - name: ELKTON
+    distance_km: 16.6
+- country: US
+  region: SD
+  name: Butler
+  lat: '45.2620'
+  long: "-97.7117"
+  nearby_rate_centers:
+  - name: BRISTOL
+    distance_km: 9.14
+  - name: WEBSTER
+    distance_km: 16.68
+  - name: BRADLEY
+    distance_km: 19.73
+- country: US
+  region: SD
+  name: Cameron Colony
+  lat: '43.1878'
+  long: "-97.2627"
+  nearby_rate_centers:
+  - name: FLYGER
+    distance_km: 4.41
+  - name: IRENE
+    distance_km: 14.1
+  - name: VIBORG
+    distance_km: 14.9
+- country: US
+  region: SD
+  name: Camp Crook
+  lat: '45.5500'
+  long: "-103.9750"
+  nearby_rate_centers:
+  - name: CAMP CROOK
+    distance_km: 0.3
+  - name: BUFFALO
+    distance_km: 33.17
+  - name: SOUTH LADD
+    distance_km: 58.12
+- country: US
+  region: SD
+  name: Camrose Colony
+  lat: '44.9343'
+  long: "-98.2202"
+  nearby_rate_centers:
+  - name: DOLAND
+    distance_km: 10.72
+  - name: TURTON
+    distance_km: 15.98
+  - name: REDFIELD
+    distance_km: 24.71
+- country: US
+  region: SD
+  name: Canistota
+  lat: '43.5978'
+  long: "-97.2926"
+  nearby_rate_centers:
+  - name: CANISTOTA
+    distance_km: 0.72
+  - name: SALEM
+    distance_km: 15.71
+  - name: BRIDGEWTR
+    distance_km: 17.76
+- country: US
+  region: SD
+  name: Canova
+  lat: '43.8813'
+  long: "-97.5040"
+  nearby_rate_centers:
+  - name: CANOVA
+    distance_km: 0.39
+  - name: HOWARD
+    distance_km: 14.33
+  - name: CENTER
+    distance_km: 14.57
+- country: US
+  region: SD
+  name: Canton
+  lat: '43.3032'
+  long: "-96.5848"
+  nearby_rate_centers:
+  - name: CANTON
+    distance_km: 0.73
+  - name: WORTHING
+    distance_km: 14.76
+  - name: HARISBGTEA
+    distance_km: 19.18
+- country: US
+  region: SD
+  name: Caputa
+  lat: '43.9961'
+  long: "-102.9844"
+  nearby_rate_centers:
+  - name: NEWUNDERWD
+    distance_km: 16.09
+  - name: RAPID CITY
+    distance_km: 21.35
+  - name: HERMOSA
+    distance_km: 24.43
+- country: US
+  region: SD
+  name: Carthage
+  lat: '44.1686'
+  long: "-97.7150"
+  nearby_rate_centers:
+  - name: HOWARD
+    distance_km: 23.29
+  - name: ARTESIAN
+    distance_km: 24.35
+  - name: IROQUOIS
+    distance_km: 24.52
+- country: US
+  region: SD
+  name: Castlewood
+  lat: '44.7242'
+  long: "-97.0309"
+  nearby_rate_centers:
+  - name: CASTLEWOOD
+    distance_km: 0.21
+  - name: HAYTI
+    distance_km: 15.4
+  - name: ESTELLINE
+    distance_km: 19.35
+- country: US
+  region: SD
+  name: Cavour
+  lat: '44.3693'
+  long: "-98.0420"
+  nearby_rate_centers:
+  - name: CAVOUR
+    distance_km: 1.14
+  - name: HURON
+    distance_km: 13.7
+  - name: IROQUOIS
+    distance_km: 15.06
+- country: US
+  region: SD
+  name: Cedar Grove Colony
+  lat: '43.5317'
+  long: "-98.8045"
+  nearby_rate_centers:
+  - name: PLATTE
+    distance_km: 16.82
+  - name: NEWHOLLAND
+    distance_km: 20.48
+  - name: ACADEMY
+    distance_km: 23.15
+- country: US
+  region: SD
+  name: Centerville
+  lat: '43.1165'
+  long: "-96.9596"
+  nearby_rate_centers:
+  - name: CENTERVL
+    distance_km: 0.05
+  - name: VIBORG
+    distance_km: 11.37
+  - name: BERESFD RL
+    distance_km: 14.85
+  - name: BERESFORD
+    distance_km: 14.85
+- country: US
+  region: SD
+  name: Central City
+  lat: '44.3685'
+  long: "-103.7706"
+  nearby_rate_centers:
+  - name: LEAD
+    distance_km: 2.02
+  - name: DEADWOOD
+    distance_km: 5.42
+  - name: WHITEWOOD
+    distance_km: 14.93
+- country: US
+  region: SD
+  name: Chamberlain
+  lat: '43.7956'
+  long: "-99.3263"
+  nearby_rate_centers:
+  - name: CHAMBERLAN
+    distance_km: 1.6
+  - name: PUKWANA
+    distance_km: 11.45
+  - name: RELIANCE
+    distance_km: 23.84
+- country: US
+  region: SD
+  name: Chancellor
+  lat: '43.3719'
+  long: "-96.9875"
+  nearby_rate_centers:
+  - name: LENNOX
+    distance_km: 7.51
+  - name: PARKER
+    distance_km: 12.06
+  - name: HURLEY
+    distance_km: 12.79
+- country: US
+  region: SD
+  name: Chelsea
+  lat: '45.1675'
+  long: "-98.7434"
+  nearby_rate_centers:
+  - name: CRESBARD
+    distance_km: 16.31
+  - name: MELLETTE
+    distance_km: 19.25
+  - name: FAULKTON
+    distance_km: 34.08
+- country: US
+  region: SD
+  name: Cherry Creek
+  lat: '44.6048'
+  long: "-101.4996"
+  nearby_rate_centers:
+  - name: MILESVILLE
+    distance_km: 24.5
+  - name: HAYES
+    distance_km: 46.46
+  - name: EAGLEBUTTE
+    distance_km: 48.62
+- country: US
+  region: SD
+  name: Chester
+  lat: '43.8996'
+  long: "-96.9277"
+  nearby_rate_centers:
+  - name: CHESTER
+    distance_km: 1.03
+  - name: WENTWORTH
+    distance_km: 10.72
+  - name: COLMAN
+    distance_km: 12.39
+- country: US
+  region: SD
+  name: Claire City
+  lat: '45.8566'
+  long: "-97.1035"
+  nearby_rate_centers:
+  - name: CLAIRECITY
+    distance_km: 0.53
+  - name: SOLIDGERWD
+    distance_km: 10.94
+  - name: NEWEFFNGTN
+    distance_km: 13.88
+- country: US
+  region: SD
+  name: Claremont
+  lat: '45.6719'
+  long: "-98.0157"
+  nearby_rate_centers:
+  - name: CLAREMONT
+    distance_km: 0.59
+  - name: LANGFORD
+    distance_km: 16.05
+  - name: HOUGHTON
+    distance_km: 18.11
+- country: US
+  region: SD
+  name: Claremont Colony
+  lat: '44.7129'
+  long: "-96.9512"
+  nearby_rate_centers:
+  - name: CASTLEWOOD
+    distance_km: 6.62
+  - name: ESTELLINE
+    distance_km: 15.68
+  - name: GOODWIN
+    distance_km: 19.79
+- country: US
+  region: SD
+  name: Clark
+  lat: '44.8809'
+  long: "-97.7348"
+  nearby_rate_centers:
+  - name: CLARK
+    distance_km: 0.77
+  - name: BRADLEY
+    distance_km: 24.55
+  - name: DOLAND
+    distance_km: 28.66
+- country: US
+  region: SD
+  name: Clark Colony
+  lat: '44.7914'
+  long: "-97.9815"
+  nearby_rate_centers:
+  - name: DOLAND
+    distance_km: 14.44
+  - name: CLARK
+    distance_km: 21.58
+  - name: TURTON
+    distance_km: 30.38
+- country: US
+  region: SD
+  name: Clear Lake
+  lat: '45.6933'
+  long: "-97.3572"
+  nearby_rate_centers:
+  - name: VEBLEN
+    distance_km: 20.18
+  - name: ROSLYN
+    distance_km: 23.69
+  - name: SISSETON
+    distance_km: 23.87
+- country: US
+  region: SD
+  name: Clear Lake
+  lat: '44.7644'
+  long: "-96.6768"
+  nearby_rate_centers:
+  - name: CLEAR LAKE
+    distance_km: 1.43
+  - name: BRANDT
+    distance_km: 11.86
+  - name: GARY
+    distance_km: 18.09
+- country: US
+  region: SD
+  name: Clearfield Colony
+  lat: '43.1439'
+  long: "-98.1423"
+  nearby_rate_centers:
+  - name: DELMONT
+    distance_km: 14.02
+  - name: WAGNER
+    distance_km: 14.39
+  - name: AVON
+    distance_km: 16.62
+- country: US
+  region: SD
+  name: Cloverleaf Colony
+  lat: '44.1840'
+  long: "-97.5385"
+  nearby_rate_centers:
+  - name: HOWARD
+    distance_km: 19.46
+  - name: OLDHAMRMON
+    distance_km: 21.58
+  - name: DE SMET
+    distance_km: 22.17
+- country: US
+  region: SD
+  name: Collins Colony
+  lat: '44.5478'
+  long: "-97.7013"
+  nearby_rate_centers:
+  - name: BRYNTWLWLK
+    distance_km: 9.72
+  - name: DE SMET
+    distance_km: 21.45
+  - name: IROQUOIS
+    distance_km: 23.52
+- country: US
+  region: SD
+  name: Colman
+  lat: '43.9835'
+  long: "-96.8148"
+  nearby_rate_centers:
+  - name: COLMAN
+    distance_km: 0.68
+  - name: WENTWORTH
+    distance_km: 12.22
+  - name: CHESTER
+    distance_km: 13.74
+- country: US
+  region: SD
+  name: Colome
+  lat: '43.2599'
+  long: "-99.7174"
+  nearby_rate_centers:
+  - name: WINNER
+    distance_km: 17.23
+  - name: GREGORY
+    distance_km: 23.12
+  - name: CLEARFIELD
+    distance_km: 27.87
+- country: US
+  region: SD
+  name: Colonial Pine Hills
+  lat: '44.0141'
+  long: "-103.3146"
+  nearby_rate_centers:
+  - name: RAPID CITY
+    distance_km: 10.78
+  - name: KEYSTONE
+    distance_km: 15.89
+  - name: HERMOSA
+    distance_km: 22.24
+- country: US
+  region: SD
+  name: Colton
+  lat: '43.7871'
+  long: "-96.9280"
+  nearby_rate_centers:
+  - name: COLTON
+    distance_km: 0.68
+  - name: CHESTER
+    distance_km: 11.48
+  - name: BALTIC
+    distance_km: 15.88
+- country: US
+  region: SD
+  name: Columbia
+  lat: '45.6148'
+  long: "-98.3107"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance_km: 0.44
+  - name: HOUGHTON
+    distance_km: 18.47
+  - name: ABERDEEN
+    distance_km: 21.11
+- country: US
+  region: SD
+  name: Conde
+  lat: '45.1573'
+  long: "-98.0955"
+  nearby_rate_centers:
+  - name: CONDE
+    distance_km: 0.31
+  - name: TURTON
+    distance_km: 11.82
+  - name: FERNEY
+    distance_km: 19.6
+- country: US
+  region: SD
+  name: Corn Creek
+  lat: '43.5744'
+  long: "-101.2059"
+  nearby_rate_centers:
+  - name: LONGVALLEY
+    distance_km: 26.87
+  - name: BELVIDERE
+    distance_km: 28.47
+  - name: WHITERIVER
+    distance_km: 36.65
+- country: US
+  region: SD
+  name: Corona
+  lat: '45.3352'
+  long: "-96.7646"
+  nearby_rate_centers:
+  - name: WILMOT
+    distance_km: 10.69
+  - name: MILBANK
+    distance_km: 16.05
+  - name: SUMMIT
+    distance_km: 21.14
+- country: US
+  region: SD
+  name: Corsica
+  lat: '43.4223'
+  long: "-98.4073"
+  nearby_rate_centers:
+  - name: CORSICA
+    distance_km: 0.43
+  - name: ARMOUR
+    distance_km: 12.67
+  - name: NEWHOLLAND
+    distance_km: 15.38
+- country: US
+  region: SD
+  name: Cottonwood
+  lat: '43.9657'
+  long: "-101.9021"
+  nearby_rate_centers:
+  - name: QUINN
+    distance_km: 18.03
+  - name: PHILIP
+    distance_km: 20.73
+  - name: WALL
+    distance_km: 27.1
+- country: US
+  region: SD
+  name: Cow Creek
+  lat: '44.5538'
+  long: "-100.4754"
+  nearby_rate_centers:
+  - name: PIERRE
+    distance_km: 23.08
+  - name: ONIDA
+    distance_km: 36.71
+  - name: BLUNT
+    distance_km: 38.59
+- country: US
+  region: SD
+  name: Cresbard
+  lat: '45.1692'
+  long: "-98.9477"
+  nearby_rate_centers:
+  - name: CRESBARD
+    distance_km: 0.56
+  - name: FAULKTON
+    distance_km: 20.94
+  - name: ORIENT
+    distance_km: 32.0
+- country: US
+  region: SD
+  name: Crocker
+  lat: '45.1070'
+  long: "-97.7805"
+  nearby_rate_centers:
+  - name: BRADLEY
+    distance_km: 11.04
+  - name: CONDE
+    distance_km: 25.6
+  - name: TURTON
+    distance_km: 25.98
+- country: US
+  region: SD
+  name: Crook City
+  lat: '44.4381'
+  long: "-103.6434"
+  nearby_rate_centers:
+  - name: WHITEWOOD
+    distance_km: 2.58
+  - name: DEADWOOD
+    distance_km: 7.75
+  - name: STURGIS
+    distance_km: 11.8
+- country: US
+  region: SD
+  name: Crooks
+  lat: '43.6592'
+  long: "-96.8094"
+  nearby_rate_centers:
+  - name: CROOKS
+    distance_km: 0.17
+  - name: HARTFORD
+    distance_km: 12.18
+  - name: BALTIC
+    distance_km: 12.58
+- country: US
+  region: SD
+  name: Custer
+  lat: '43.7668'
+  long: "-103.6006"
+  nearby_rate_centers:
+  - name: CUSTER
+    distance_km: 0.61
+  - name: HILL CITY
+    distance_km: 18.65
+  - name: KEYSTONE
+    distance_km: 20.19
+- country: US
+  region: SD
+  name: Dakota Dunes
+  lat: '42.4920'
+  long: "-96.4870"
+  nearby_rate_centers:
+  - name: NOSIOUX CY
+    distance_km: 2.92
+  - name: JEFFERSON
+    distance_km: 13.42
+  - name: ELK POINT
+    distance_km: 26.87
+- country: US
+  region: SD
+  name: Dallas
+  lat: '43.2379'
+  long: "-99.5175"
+  nearby_rate_centers:
+  - name: GREGORY
+    distance_km: 6.78
+  - name: BURKE
+    distance_km: 18.68
+  - name: WINNER
+    distance_km: 31.62
+- country: US
+  region: SD
+  name: Dante
+  lat: '43.0399'
+  long: "-98.1856"
+  nearby_rate_centers:
+  - name: WAGNER
+    distance_km: 10.35
+  - name: AVON
+    distance_km: 11.13
+  - name: DELMONT
+    distance_km: 25.48
+- country: US
+  region: SD
+  name: Davis
+  lat: '43.2595'
+  long: "-96.9945"
+  nearby_rate_centers:
+  - name: HURLEY
+    distance_km: 8.33
+  - name: VIBORG
+    distance_km: 12.42
+  - name: LENNOX
+    distance_km: 12.47
+- country: US
+  region: SD
+  name: De Smet
+  lat: '44.3862'
+  long: "-97.5496"
+  nearby_rate_centers:
+  - name: DE SMET
+    distance_km: 1.03
+  - name: LK PRESTON
+    distance_km: 13.91
+  - name: IROQUOIS
+    distance_km: 24.18
+- country: US
+  region: SD
+  name: Deadwood
+  lat: '44.3871'
+  long: "-103.7207"
+  nearby_rate_centers:
+  - name: DEADWOOD
+    distance_km: 1.17
+  - name: LEAD
+    distance_km: 5.55
+  - name: WHITEWOOD
+    distance_km: 10.69
+- country: US
+  region: SD
+  name: Deerfield Colony
+  lat: '45.5874'
+  long: "-98.8995"
+  nearby_rate_centers:
+  - name: LEOLA
+    distance_km: 15.59
+  - name: IPSWICH
+    distance_km: 18.27
+  - name: SO FORBES
+    distance_km: 34.7
+- country: US
+  region: SD
+  name: Dell Rapids
+  lat: '43.8244'
+  long: "-96.7143"
+  nearby_rate_centers:
+  - name: DELLRAPIDS
+    distance_km: 0.39
+  - name: BALTIC
+    distance_km: 7.51
+  - name: COLTON
+    distance_km: 18.16
+- country: US
+  region: SD
+  name: Delmont
+  lat: '43.2666'
+  long: "-98.1592"
+  nearby_rate_centers:
+  - name: DELMONT
+    distance_km: 0.7
+  - name: TRIPP
+    distance_km: 16.17
+  - name: ARMOUR
+    distance_km: 16.49
+- country: US
+  region: SD
+  name: Dimock
+  lat: '43.4764'
+  long: "-97.9888"
+  nearby_rate_centers:
+  - name: ETHAN
+    distance_km: 7.45
+  - name: PARKSTON
+    distance_km: 9.68
+  - name: MITCHELL
+    distance_km: 25.96
+- country: US
+  region: SD
+  name: Doland
+  lat: '44.8944'
+  long: "-98.0997"
+  nearby_rate_centers:
+  - name: DOLAND
+    distance_km: 0.35
+  - name: TURTON
+    distance_km: 17.42
+  - name: CLARK
+    distance_km: 28.92
+- country: US
+  region: SD
+  name: Dolton
+  lat: '43.4911'
+  long: "-97.3848"
+  nearby_rate_centers:
+  - name: BRIDGEWTR
+    distance_km: 11.55
+  - name: MARION
+    distance_km: 12.58
+  - name: CANISTOTA
+    distance_km: 14.64
+- country: US
+  region: SD
+  name: Draper
+  lat: '43.9262'
+  long: "-100.5372"
+  nearby_rate_centers:
+  - name: MURDO
+    distance_km: 15.12
+  - name: VIVIAN
+    distance_km: 19.62
+  - name: PRESHO
+    distance_km: 38.45
+- country: US
+  region: SD
+  name: Dudley
+  lat: '43.3082'
+  long: "-103.8192"
+  nearby_rate_centers:
+  - name: EDGEMONT
+    distance_km: 0.9
+  - name: HOTSPRINGS
+    distance_km: 30.66
+  - name: ARDMORE
+    distance_km: 34.4
+- country: US
+  region: SD
+  name: Dupree
+  lat: '45.0495'
+  long: "-101.6013"
+  nearby_rate_centers:
+  - name: DUPREE
+    distance_km: 0.63
+  - name: EAGLEBUTTE
+    distance_km: 28.77
+  - name: FAITH
+    distance_km: 34.8
+  - name: FAITHRURAL
+    distance_km: 34.8
+- country: US
+  region: SD
+  name: Eagle Butte
+  lat: '44.9939'
+  long: "-101.2310"
+  nearby_rate_centers:
+  - name: EAGLEBUTTE
+    distance_km: 1.2
+  - name: DUPREE
+    distance_km: 30.32
+  - name: ISABEL
+    distance_km: 46.8
+- country: US
+  region: SD
+  name: Eden
+  lat: '45.6168'
+  long: "-97.4196"
+  nearby_rate_centers:
+  - name: ROSLYN
+    distance_km: 13.93
+  - name: SISSETON
+    distance_km: 29.09
+  - name: VEBLEN
+    distance_km: 29.75
+- country: US
+  region: SD
+  name: Edgemont
+  lat: '43.2973'
+  long: "-103.8323"
+  nearby_rate_centers:
+  - name: EDGEMONT
+    distance_km: 1.53
+  - name: HOTSPRINGS
+    distance_km: 32.14
+  - name: ARDMORE
+    distance_km: 33.72
+- country: US
+  region: SD
+  name: Egan
+  lat: '44.0004'
+  long: "-96.6485"
+  nearby_rate_centers:
+  - name: FLANDREAU
+    distance_km: 6.46
+  - name: COLMAN
+    distance_km: 13.73
+  - name: WESTJASPER
+    distance_km: 19.91
+- country: US
+  region: SD
+  name: Elk Point
+  lat: '42.6812'
+  long: "-96.6805"
+  nearby_rate_centers:
+  - name: ELK POINT
+    distance_km: 0.54
+  - name: JEFFERSON
+    distance_km: 13.23
+  - name: WEST AKRON
+    distance_km: 19.81
+- country: US
+  region: SD
+  name: Elkton
+  lat: '44.2351'
+  long: "-96.4794"
+  nearby_rate_centers:
+  - name: ELKTON
+    distance_km: 0.26
+  - name: FLANDREAU
+    distance_km: 23.38
+  - name: WHITE
+    distance_km: 25.88
+- country: US
+  region: SD
+  name: Emery
+  lat: '43.6020'
+  long: "-97.6195"
+  nearby_rate_centers:
+  - name: EMERY
+    distance_km: 0.5
+  - name: BRIDGEWTR
+    distance_km: 11.03
+  - name: SPENCER
+    distance_km: 13.84
+- country: US
+  region: SD
+  name: Enemy Swim
+  lat: '45.4319'
+  long: "-97.2868"
+  nearby_rate_centers:
+  - name: WAUBAY
+    distance_km: 11.04
+  - name: ROSLYN
+    distance_km: 17.66
+  - name: WEBSTER
+    distance_km: 21.62
+- country: US
+  region: SD
+  name: Erwin
+  lat: '44.4880'
+  long: "-97.4409"
+  nearby_rate_centers:
+  - name: LK PRESTON
+    distance_km: 14.15
+  - name: DE SMET
+    distance_km: 15.13
+  - name: LAKENORDEN
+    distance_km: 21.37
+- country: US
+  region: SD
+  name: Estelline
+  lat: '44.5768'
+  long: "-96.9011"
+  nearby_rate_centers:
+  - name: ESTELLINE
+    distance_km: 0.07
+  - name: CASTLEWOOD
+    distance_km: 19.46
+  - name: TORONTO
+    distance_km: 19.59
+- country: US
+  region: SD
+  name: Ethan
+  lat: '43.5463'
+  long: "-97.9834"
+  nearby_rate_centers:
+  - name: ETHAN
+    distance_km: 0.39
+  - name: PARKSTON
+    distance_km: 17.44
+  - name: MITCHELL
+    distance_km: 18.32
+- country: US
+  region: SD
+  name: Eureka
+  lat: '45.7707'
+  long: "-99.6207"
+  nearby_rate_centers:
+  - name: EUREKA
+    distance_km: 0.5
+  - name: SOVENTURIA
+    distance_km: 17.3
+  - name: HOSMER
+    distance_km: 23.85
+- country: US
+  region: SD
+  name: Evergreen Colony
+  lat: '45.1217'
+  long: "-99.0425"
+  nearby_rate_centers:
+  - name: CRESBARD
+    distance_km: 9.19
+  - name: FAULKTON
+    distance_km: 12.06
+  - name: ORIENT
+    distance_km: 25.0
+- country: US
+  region: SD
+  name: Fairburn
+  lat: '43.6869'
+  long: "-103.2087"
+  nearby_rate_centers:
+  - name: HERMOSA
+    distance_km: 16.5
+  - name: BUFFALOGAP
+    distance_km: 22.95
+  - name: KEYSTONE
+    distance_km: 28.45
+- country: US
+  region: SD
+  name: Fairfax
+  lat: '43.0281'
+  long: "-98.8890"
+  nearby_rate_centers:
+  - name: BONESTEEL
+    distance_km: 7.77
+  - name: NORTHNAPER
+    distance_km: 22.18
+  - name: NO BRISTOW
+    distance_km: 24.82
+- country: US
+  region: SD
+  name: Fairview
+  lat: '43.2221'
+  long: "-96.4876"
+  nearby_rate_centers:
+  - name: HUDSON
+    distance_km: 10.4
+  - name: CANTON
+    distance_km: 12.34
+  - name: ALCESTER
+    distance_km: 25.01
+- country: US
+  region: SD
+  name: Faith
+  lat: '45.0258'
+  long: "-102.0363"
+  nearby_rate_centers:
+  - name: FAITH
+    distance_km: 0.53
+  - name: FAITHRURAL
+    distance_km: 0.53
+  - name: DUPREE
+    distance_km: 33.66
+  - name: MAURINE
+    distance_km: 43.46
+- country: US
+  region: SD
+  name: Farmer
+  lat: '43.7252'
+  long: "-97.6890"
+  nearby_rate_centers:
+  - name: SPENCER
+    distance_km: 7.82
+  - name: ALEXANDRIA
+    distance_km: 10.44
+  - name: EMERY
+    distance_km: 14.83
+- country: US
+  region: SD
+  name: Faulkton
+  lat: '45.0342'
+  long: "-99.1266"
+  nearby_rate_centers:
+  - name: FAULKTON
+    distance_km: 0.66
+  - name: ORIENT
+    distance_km: 15.3
+  - name: CRESBARD
+    distance_km: 20.72
+- country: US
+  region: SD
+  name: Fedora
+  lat: '44.0067'
+  long: "-97.7895"
+  nearby_rate_centers:
+  - name: ARTESIAN
+    distance_km: 10.64
+  - name: HOWARD
+    distance_km: 21.1
+  - name: FORESTBURG
+    distance_km: 25.6
+- country: US
+  region: SD
+  name: Ferney
+  lat: '45.3346'
+  long: "-98.0939"
+  nearby_rate_centers:
+  - name: FERNEY
+    distance_km: 0.55
+  - name: GROTON
+    distance_km: 13.06
+  - name: ANDOVER
+    distance_km: 16.85
+- country: US
+  region: SD
+  name: Flandreau
+  lat: '44.0465'
+  long: "-96.5983"
+  nearby_rate_centers:
+  - name: FLANDREAU
+    distance_km: 0.96
+  - name: COLMAN
+    distance_km: 19.11
+  - name: WESTJASPER
+    distance_km: 21.95
+- country: US
+  region: SD
+  name: Florence
+  lat: '45.0548'
+  long: "-97.3263"
+  nearby_rate_centers:
+  - name: FLORENCE
+    distance_km: 0.28
+  - name: WATERTOWN
+    distance_km: 24.74
+  - name: BRADLEY
+    distance_km: 25.1
+- country: US
+  region: SD
+  name: Fordham Colony
+  lat: '44.7678'
+  long: "-97.9068"
+  nearby_rate_centers:
+  - name: CLARK
+    distance_km: 18.04
+  - name: DOLAND
+    distance_km: 20.42
+  - name: BRYNTWLWLK
+    distance_km: 26.27
+- country: US
+  region: SD
+  name: Forestburg
+  lat: '44.0212'
+  long: "-98.1032"
+  nearby_rate_centers:
+  - name: FORESTBURG
+    distance_km: 0.73
+  - name: WOONSOCKET
+    distance_km: 13.6
+  - name: LETCHER
+    distance_km: 13.83
+- country: US
+  region: SD
+  name: Fort Pierre
+  lat: '44.3680'
+  long: "-100.3831"
+  nearby_rate_centers:
+  - name: PIERRE
+    distance_km: 2.4
+  - name: BLUNT
+    distance_km: 35.25
+  - name: ONIDA
+    distance_km: 45.48
+- country: US
+  region: SD
+  name: Fort Thompson
+  lat: '44.0527'
+  long: "-99.4079"
+  nearby_rate_centers:
+  - name: FTTHOMPSON
+    distance_km: 3.57
+  - name: RELIANCE
+    distance_km: 24.89
+  - name: CHAMBERLAN
+    distance_km: 27.73
+- country: US
+  region: SD
+  name: Frankfort
+  lat: '44.8777'
+  long: "-98.3092"
+  nearby_rate_centers:
+  - name: DOLAND
+    distance_km: 16.68
+  - name: REDFIELD
+    distance_km: 16.8
+  - name: TULARE
+    distance_km: 21.86
+- country: US
+  region: SD
+  name: Frederick
+  lat: '45.8319'
+  long: "-98.5067"
+  nearby_rate_centers:
+  - name: FREDERICK
+    distance_km: 0.16
+  - name: SO ELLENDL
+    distance_km: 7.75
+  - name: SO GUELPH
+    distance_km: 14.48
+- country: US
+  region: SD
+  name: Freeman
+  lat: '43.3475'
+  long: "-97.4306"
+  nearby_rate_centers:
+  - name: FREEMAN
+    distance_km: 0.49
+  - name: MARION
+    distance_km: 16.26
+  - name: MENNO
+    distance_km: 17.18
+- country: US
+  region: SD
+  name: Fruitdale
+  lat: '44.6692'
+  long: "-103.6955"
+  nearby_rate_centers:
+  - name: BELLEFORCH
+    distance_km: 12.21
+  - name: NISLAND
+    distance_km: 12.42
+  - name: NEWELL
+    distance_km: 22.99
+- country: US
+  region: SD
+  name: Fulton
+  lat: '43.7288'
+  long: "-97.8226"
+  nearby_rate_centers:
+  - name: ALEXANDRIA
+    distance_km: 8.25
+  - name: MITCHELL
+    distance_km: 16.17
+  - name: SPENCER
+    distance_km: 18.56
+- country: US
+  region: SD
+  name: Gann Valley
+  lat: '44.0336'
+  long: "-98.9887"
+  nearby_rate_centers:
+  - name: GANNVALLEY
+    distance_km: 0.29
+  - name: KIMBALL
+    distance_km: 31.49
+  - name: PUKWANA
+    distance_km: 32.82
+- country: US
+  region: SD
+  name: Garden City
+  lat: '44.9593'
+  long: "-97.5804"
+  nearby_rate_centers:
+  - name: CLARK
+    distance_km: 15.36
+  - name: BRADLEY
+    distance_km: 15.48
+  - name: FLORENCE
+    distance_km: 22.74
+- country: US
+  region: SD
+  name: Garretson
+  lat: '43.7147'
+  long: "-96.5028"
+  nearby_rate_centers:
+  - name: GARRETSON
+    distance_km: 0.57
+  - name: BRANDON
+    distance_km: 14.93
+  - name: VALLEY SPG
+    distance_km: 15.85
+- country: US
+  region: SD
+  name: Gary
+  lat: '44.7941'
+  long: "-96.4574"
+  nearby_rate_centers:
+  - name: GARY
+    distance_km: 0.46
+  - name: CLEAR LAKE
+    distance_km: 18.49
+  - name: BRANDT
+    distance_km: 19.44
+- country: US
+  region: SD
+  name: Gayville
+  lat: '42.8889'
+  long: "-97.1738"
+  nearby_rate_centers:
+  - name: WAKONDA
+    distance_km: 14.06
+  - name: YANKTON
+    distance_km: 18.01
+  - name: IRENE
+    distance_km: 21.93
+- country: US
+  region: SD
+  name: Geddes
+  lat: '43.2540'
+  long: "-98.6974"
+  nearby_rate_centers:
+  - name: LAKE ANDES
+    distance_km: 16.6
+  - name: PLATTE
+    distance_km: 18.1
+  - name: NEWHOLLAND
+    distance_km: 20.63
+- country: US
+  region: SD
+  name: Gettysburg
+  lat: '45.0060'
+  long: "-99.9539"
+  nearby_rate_centers:
+  - name: GETTYSBURG
+    distance_km: 0.38
+  - name: LEBANON
+    distance_km: 16.31
+  - name: HOVEN
+    distance_km: 29.89
+- country: US
+  region: SD
+  name: Glendale Colony
+  lat: '44.7979'
+  long: "-98.2868"
+  nearby_rate_centers:
+  - name: DOLAND
+    distance_km: 18.13
+  - name: TULARE
+    distance_km: 18.68
+  - name: REDFIELD
+    distance_km: 20.43
+- country: US
+  region: SD
+  name: Glenham
+  lat: '45.5330'
+  long: "-100.2711"
+  nearby_rate_centers:
+  - name: GLENHAM
+    distance_km: 0.15
+  - name: MOBRIDGE
+    distance_km: 12.73
+  - name: SELBY
+    distance_km: 18.78
+- country: US
+  region: SD
+  name: Golden View Colony
+  lat: '43.6954'
+  long: "-97.4487"
+  nearby_rate_centers:
+  - name: SALEM
+    distance_km: 6.27
+  - name: SPENCER
+    distance_km: 11.95
+  - name: BRIDGEWTR
+    distance_km: 16.76
+- country: US
+  region: SD
+  name: Goodwin
+  lat: '44.8775'
+  long: "-96.8497"
+  nearby_rate_centers:
+  - name: GOODWIN
+    distance_km: 0.19
+  - name: CLEAR LAKE
+    distance_km: 19.06
+  - name: WATERTOWN
+    distance_km: 20.03
+- country: US
+  region: SD
+  name: Graceville Colony
+  lat: '43.9289'
+  long: "-97.2840"
+  nearby_rate_centers:
+  - name: WINFRED
+    distance_km: 10.22
+  - name: CENTER
+    distance_km: 11.24
+  - name: MADISON
+    distance_km: 16.27
+- country: US
+  region: SD
+  name: Grass Ranch Colony
+  lat: '43.6500'
+  long: "-98.8836"
+  nearby_rate_centers:
+  - name: KIMBALL
+    distance_km: 12.66
+  - name: WHITE LAKE
+    distance_km: 16.57
+  - name: ACADEMY
+    distance_km: 26.27
+- country: US
+  region: SD
+  name: Grassland Colony
+  lat: '45.6682'
+  long: "-98.7965"
+  nearby_rate_centers:
+  - name: LEOLA
+    distance_km: 12.15
+  - name: SO FORBES
+    distance_km: 24.26
+  - name: FREDERICK
+    distance_km: 28.77
+- country: US
+  region: SD
+  name: Green Grass
+  lat: '45.1714'
+  long: "-101.2573"
+  nearby_rate_centers:
+  - name: EAGLEBUTTE
+    distance_km: 18.9
+  - name: ISABEL
+    distance_km: 27.89
+  - name: DUPREE
+    distance_km: 30.83
+- country: US
+  region: SD
+  name: Green Valley
+  lat: '44.0390'
+  long: "-103.1116"
+  nearby_rate_centers:
+  - name: RAPID CITY
+    distance_km: 10.14
+  - name: NEWUNDERWD
+    distance_km: 23.12
+  - name: HERMOSA
+    distance_km: 23.59
+- country: US
+  region: SD
+  name: Greenwood Colony
+  lat: '43.2145'
+  long: "-98.1536"
+  nearby_rate_centers:
+  - name: DELMONT
+    distance_km: 6.12
+  - name: TRIPP
+    distance_km: 15.15
+  - name: WAGNER
+    distance_km: 18.79
+- country: US
+  region: SD
+  name: Gregory
+  lat: '43.2300'
+  long: "-99.4208"
+  nearby_rate_centers:
+  - name: GREGORY
+    distance_km: 1.23
+  - name: BURKE
+    distance_km: 11.1
+  - name: NORTHNAPER
+    distance_km: 30.39
+- country: US
+  region: SD
+  name: Grenville
+  lat: '45.4670'
+  long: "-97.3901"
+  nearby_rate_centers:
+  - name: ROSLYN
+    distance_km: 8.7
+  - name: WAUBAY
+    distance_km: 16.56
+  - name: WEBSTER
+    distance_km: 18.65
+- country: US
+  region: SD
+  name: Groton
+  lat: '45.4517'
+  long: "-98.1000"
+  nearby_rate_centers:
+  - name: GROTON
+    distance_km: 0.11
+  - name: FERNEY
+    distance_km: 13.14
+  - name: ANDOVER
+    distance_km: 15.88
+- country: US
+  region: SD
+  name: Hamill
+  lat: '43.5939'
+  long: "-99.6907"
+  nearby_rate_centers:
+  - name: WINNER
+    distance_km: 27.88
+  - name: RELIANCE
+    distance_km: 32.33
+  - name: WITTEN
+    distance_km: 36.34
+- country: US
+  region: SD
+  name: Harrisburg
+  lat: '43.4324'
+  long: "-96.7041"
+  nearby_rate_centers:
+  - name: HARISBGTEA
+    distance_km: 2.08
+  - name: SIOUX FLS
+    distance_km: 12.21
+  - name: WORTHING
+    distance_km: 13.12
+- country: US
+  region: SD
+  name: Harrison
+  lat: '43.4310'
+  long: "-98.5268"
+  nearby_rate_centers:
+  - name: NEWHOLLAND
+    distance_km: 5.77
+  - name: CORSICA
+    distance_km: 9.59
+  - name: ARMOUR
+    distance_km: 19.1
+- country: US
+  region: SD
+  name: Harrold
+  lat: '44.5258'
+  long: "-99.7416"
+  nearby_rate_centers:
+  - name: HARROLD
+    distance_km: 0.05
+  - name: BLUNT
+    distance_km: 19.82
+  - name: HIGHMORE
+    distance_km: 23.02
+- country: US
+  region: SD
+  name: Hartford
+  lat: '43.6210'
+  long: "-96.9424"
+  nearby_rate_centers:
+  - name: HARTFORD
+    distance_km: 0.69
+  - name: WALL LAKE
+    distance_km: 8.74
+  - name: HUMBOLDT
+    distance_km: 10.74
+- country: US
+  region: SD
+  name: Hayti
+  lat: '44.6580'
+  long: "-97.2049"
+  nearby_rate_centers:
+  - name: HAYTI
+    distance_km: 0.22
+  - name: LAKENORDEN
+    distance_km: 8.1
+  - name: CASTLEWOOD
+    distance_km: 15.42
+- country: US
+  region: SD
+  name: Hazel
+  lat: '44.7582'
+  long: "-97.3810"
+  nearby_rate_centers:
+  - name: HAYTI
+    distance_km: 17.99
+  - name: LAKENORDEN
+    distance_km: 23.6
+  - name: BRYNTWLWLK
+    distance_km: 25.46
+- country: US
+  region: SD
+  name: Hecla
+  lat: '45.8822'
+  long: "-98.1520"
+  nearby_rate_centers:
+  - name: HECLA
+    distance_km: 0.18
+  - name: HOUGHTON
+    distance_km: 13.78
+  - name: SO GUELPH
+    distance_km: 16.81
+- country: US
+  region: SD
+  name: Henry
+  lat: '44.8809'
+  long: "-97.4616"
+  nearby_rate_centers:
+  - name: CLARK
+    distance_km: 21.46
+  - name: FLORENCE
+    distance_km: 22.31
+  - name: BRADLEY
+    distance_km: 27.37
+- country: US
+  region: SD
+  name: Hermosa
+  lat: '43.8399'
+  long: "-103.1930"
+  nearby_rate_centers:
+  - name: HERMOSA
+    distance_km: 0.58
+  - name: KEYSTONE
+    distance_km: 19.07
+  - name: RAPID CITY
+    distance_km: 27.28
+- country: US
+  region: SD
+  name: Herreid
+  lat: '45.8378'
+  long: "-100.0748"
+  nearby_rate_centers:
+  - name: HERREID
+    distance_km: 0.44
+  - name: MOUND CITY
+    distance_km: 11.74
+  - name: POLLOCK
+    distance_km: 17.73
+- country: US
+  region: SD
+  name: Herrick
+  lat: '43.1150'
+  long: "-99.1882"
+  nearby_rate_centers:
+  - name: NORTHNAPER
+    distance_km: 9.41
+  - name: BURKE
+    distance_km: 11.83
+  - name: BONESTEEL
+    distance_km: 19.74
+- country: US
+  region: SD
+  name: Hetland
+  lat: '44.3772'
+  long: "-97.2347"
+  nearby_rate_centers:
+  - name: ARLINGTON
+    distance_km: 7.85
+  - name: LK PRESTON
+    distance_km: 11.27
+  - name: SINAI
+    distance_km: 21.52
+- country: US
+  region: SD
+  name: Highmore
+  lat: '44.5214'
+  long: "-99.4394"
+  nearby_rate_centers:
+  - name: HIGHMORE
+    distance_km: 1.05
+  - name: REEHEIGHTS
+    distance_km: 19.0
+  - name: HARROLD
+    distance_km: 23.94
+- country: US
+  region: SD
+  name: Hill City
+  lat: '43.9337'
+  long: "-103.5694"
+  nearby_rate_centers:
+  - name: HILL CITY
+    distance_km: 0.43
+  - name: KEYSTONE
+    distance_km: 12.86
+  - name: CUSTER
+    distance_km: 18.5
+- country: US
+  region: SD
+  name: Hillcrest Colony
+  lat: '44.9425'
+  long: "-97.6672"
+  nearby_rate_centers:
+  - name: CLARK
+    distance_km: 9.25
+  - name: BRADLEY
+    distance_km: 16.7
+  - name: FLORENCE
+    distance_km: 29.67
+- country: US
+  region: SD
+  name: Hillside Colony
+  lat: '44.7382'
+  long: "-98.0473"
+  nearby_rate_centers:
+  - name: DOLAND
+    distance_km: 17.5
+  - name: CLARK
+    distance_km: 28.97
+  - name: HITCHCOCK
+    distance_km: 31.14
+- country: US
+  region: SD
+  name: Hillsview
+  lat: '45.6642'
+  long: "-99.5607"
+  nearby_rate_centers:
+  - name: HOSMER
+    distance_km: 11.35
+  - name: EUREKA
+    distance_km: 13.23
+  - name: BOWDLE
+    distance_km: 25.09
+- country: US
+  region: SD
+  name: Hitchcock
+  lat: '44.6294'
+  long: "-98.4082"
+  nearby_rate_centers:
+  - name: HITCHCOCK
+    distance_km: 0.5
+  - name: TULARE
+    distance_km: 14.92
+  - name: WOLSEY
+    distance_km: 24.9
+- country: US
+  region: SD
+  name: Horse Creek
+  lat: '43.5330'
+  long: "-100.7419"
+  nearby_rate_centers:
+  - name: WHITERIVER
+    distance_km: 3.69
+  - name: WOOD
+    distance_km: 21.32
+  - name: MISSION
+    distance_km: 26.66
+- country: US
+  region: SD
+  name: Hosmer
+  lat: '45.5788'
+  long: "-99.4736"
+  nearby_rate_centers:
+  - name: HOSMER
+    distance_km: 0.47
+  - name: ROSCOE
+    distance_km: 18.14
+  - name: BOWDLE
+    distance_km: 20.43
+- country: US
+  region: SD
+  name: Hot Springs
+  lat: '43.4195'
+  long: "-103.4657"
+  nearby_rate_centers:
+  - name: HOTSPRINGS
+    distance_km: 1.13
+  - name: BUFFALOGAP
+    distance_km: 15.14
+  - name: ORAL
+    distance_km: 16.13
+- country: US
+  region: SD
+  name: Hoven
+  lat: '45.2416'
+  long: "-99.7775"
+  nearby_rate_centers:
+  - name: HOVEN
+    distance_km: 0.34
+  - name: TOLSTOY
+    distance_km: 13.0
+  - name: LEBANON
+    distance_km: 19.26
+- country: US
+  region: SD
+  name: Howard
+  lat: '44.0117'
+  long: "-97.5246"
+  nearby_rate_centers:
+  - name: HOWARD
+    distance_km: 0.28
+  - name: WINFRED
+    distance_km: 12.66
+  - name: CANOVA
+    distance_km: 14.54
+- country: US
+  region: SD
+  name: Hudson
+  lat: '43.1301'
+  long: "-96.4556"
+  nearby_rate_centers:
+  - name: HUDSON
+    distance_km: 0.24
+  - name: W HAWARDEN
+    distance_km: 17.97
+  - name: ALCESTER
+    distance_km: 18.63
+- country: US
+  region: SD
+  name: Humboldt
+  lat: '43.6447'
+  long: "-97.0745"
+  nearby_rate_centers:
+  - name: HUMBOLDT
+    distance_km: 0.65
+  - name: HARTFORD
+    distance_km: 10.54
+  - name: WALL LAKE
+    distance_km: 15.17
+- country: US
+  region: SD
+  name: Hurley
+  lat: '43.2794'
+  long: "-97.0894"
+  nearby_rate_centers:
+  - name: HURLEY
+    distance_km: 0.64
+  - name: VIBORG
+    distance_km: 12.47
+  - name: PARKER
+    distance_km: 13.08
+- country: US
+  region: SD
+  name: Huron
+  lat: '44.3623'
+  long: "-98.2094"
+  nearby_rate_centers:
+  - name: HURON
+    distance_km: 0.58
+  - name: CAVOUR
+    distance_km: 14.18
+  - name: WOLSEY
+    distance_km: 21.67
+- country: US
+  region: SD
+  name: Huron Colony
+  lat: '44.5634'
+  long: "-98.2055"
+  nearby_rate_centers:
+  - name: HITCHCOCK
+    distance_km: 17.39
+  - name: HURON
+    distance_km: 22.84
+  - name: CAVOUR
+    distance_km: 24.91
+- country: US
+  region: SD
+  name: Hutterville Colony
+  lat: '45.2663'
+  long: "-98.2115"
+  nearby_rate_centers:
+  - name: FERNEY
+    distance_km: 11.44
+  - name: CONDE
+    distance_km: 14.84
+  - name: GROTON
+    distance_km: 22.45
+- country: US
+  region: SD
+  name: Ideal
+  lat: '43.5400'
+  long: "-99.9218"
+  nearby_rate_centers:
+  - name: WITTEN
+    distance_km: 17.56
+  - name: WINNER
+    distance_km: 19.0
+  - name: KENNEBEC
+    distance_km: 40.55
+- country: US
+  region: SD
+  name: Interior
+  lat: '43.7269'
+  long: "-101.9837"
+  nearby_rate_centers:
+  - name: QUINN
+    distance_km: 31.68
+  - name: WALL
+    distance_km: 35.86
+  - name: KYLE
+    distance_km: 36.38
+- country: US
+  region: SD
+  name: Ipswich
+  lat: '45.4435'
+  long: "-99.0300"
+  nearby_rate_centers:
+  - name: IPSWICH
+    distance_km: 1.0
+  - name: ROSCOE
+    distance_km: 23.74
+  - name: CRESBARD
+    distance_km: 30.64
+- country: US
+  region: SD
+  name: Irene
+  lat: '43.0837'
+  long: "-97.1576"
+  nearby_rate_centers:
+  - name: IRENE
+    distance_km: 0.27
+  - name: WAKONDA
+    distance_km: 9.53
+  - name: VIBORG
+    distance_km: 11.19
+- country: US
+  region: SD
+  name: Iroquois
+  lat: '44.3679'
+  long: "-97.8495"
+  nearby_rate_centers:
+  - name: IROQUOIS
+    distance_km: 0.33
+  - name: CAVOUR
+    distance_km: 14.55
+  - name: DE SMET
+    distance_km: 22.95
+- country: US
+  region: SD
+  name: Isabel
+  lat: '45.3939'
+  long: "-101.4325"
+  nearby_rate_centers:
+  - name: ISABEL
+    distance_km: 0.4
+  - name: TIMBERLAKE
+    distance_km: 27.36
+  - name: DUPREE
+    distance_km: 40.86
+- country: US
+  region: SD
+  name: Jamesville Colony
+  lat: '43.1015'
+  long: "-97.4818"
+  nearby_rate_centers:
+  - name: LESTERVL
+    distance_km: 11.1
+  - name: MENNO
+    distance_km: 17.39
+  - name: FLYGER
+    distance_km: 18.49
+- country: US
+  region: SD
+  name: Java
+  lat: '45.5038'
+  long: "-99.8839"
+  nearby_rate_centers:
+  - name: SELBY
+    distance_km: 11.62
+  - name: BOWDLE
+    distance_km: 18.48
+  - name: MOUND CITY
+    distance_km: 29.26
+- country: US
+  region: SD
+  name: Jefferson
+  lat: '42.6043'
+  long: "-96.5661"
+  nearby_rate_centers:
+  - name: JEFFERSON
+    distance_km: 0.69
+  - name: NOSIOUX CY
+    distance_km: 11.85
+  - name: ELK POINT
+    distance_km: 13.21
+- country: US
+  region: SD
+  name: Johnson Siding
+  lat: '44.0846'
+  long: "-103.4380"
+  nearby_rate_centers:
+  - name: RAPID CITY
+    distance_km: 17.28
+  - name: HILL CITY
+    distance_km: 20.05
+  - name: KEYSTONE
+    distance_km: 21.39
+- country: US
+  region: SD
+  name: Kadoka
+  lat: '43.8325'
+  long: "-101.5081"
+  nearby_rate_centers:
+  - name: KADOKA
+    distance_km: 0.54
+  - name: BELVIDERE
+    distance_km: 17.98
+  - name: PHILIP
+    distance_km: 26.42
+- country: US
+  region: SD
+  name: Kaylor
+  lat: '43.1926'
+  long: "-97.8405"
+  nearby_rate_centers:
+  - name: TRIPP
+    distance_km: 10.94
+  - name: SCOTLAND
+    distance_km: 10.99
+  - name: MENNO
+    distance_km: 21.55
+- country: US
+  region: SD
+  name: Kenel
+  lat: '45.8545'
+  long: "-100.4592"
+  nearby_rate_centers:
+  - name: POLLOCK
+    distance_km: 15.09
+  - name: MCLAUGHLIN
+    distance_km: 27.82
+  - name: HERREID
+    distance_km: 30.13
+- country: US
+  region: SD
+  name: Kennebec
+  lat: '43.9035'
+  long: "-99.8619"
+  nearby_rate_centers:
+  - name: KENNEBEC
+    distance_km: 0.29
+  - name: PRESHO
+    distance_km: 15.71
+  - name: RELIANCE
+    distance_km: 21.1
+- country: US
+  region: SD
+  name: Keystone
+  lat: '43.8949'
+  long: "-103.4268"
+  nearby_rate_centers:
+  - name: KEYSTONE
+    distance_km: 0.65
+  - name: HILL CITY
+    distance_km: 12.61
+  - name: CUSTER
+    distance_km: 19.41
+- country: US
+  region: SD
+  name: Kidder
+  lat: '45.8817'
+  long: "-97.7139"
+  nearby_rate_centers:
+  - name: SO FORMAN
+    distance_km: 7.68
+  - name: BRITTON
+    distance_km: 9.71
+  - name: LANGFORD
+    distance_km: 31.91
+- country: US
+  region: SD
+  name: Kimball
+  lat: '43.7468'
+  long: "-98.9569"
+  nearby_rate_centers:
+  - name: KIMBALL
+    distance_km: 0.53
+  - name: PUKWANA
+    distance_km: 18.71
+  - name: WHITE LAKE
+    distance_km: 19.59
+- country: US
+  region: SD
+  name: Kranzburg
+  lat: '44.8888'
+  long: "-96.9092"
+  nearby_rate_centers:
+  - name: GOODWIN
+    distance_km: 4.83
+  - name: WATERTOWN
+    distance_km: 15.25
+  - name: CASTLEWOOD
+    distance_km: 20.76
+- country: US
+  region: SD
+  name: Kyle
+  lat: '43.4245'
+  long: "-102.1801"
+  nearby_rate_centers:
+  - name: KYLE
+    distance_km: 0.78
+  - name: NO GORDON
+    distance_km: 43.72
+  - name: MARTIN
+    distance_km: 44.97
+- country: US
+  region: SD
+  name: La Plant
+  lat: '45.1353'
+  long: "-100.6648"
+  nearby_rate_centers:
+  - name: LAPLANT
+    distance_km: 2.91
+  - name: TIMBERLAKE
+    distance_km: 46.74
+  - name: EAGLEBUTTE
+    distance_km: 47.66
+- country: US
+  region: SD
+  name: Lake Andes
+  lat: '43.1560'
+  long: "-98.5361"
+  nearby_rate_centers:
+  - name: LAKE ANDES
+    distance_km: 0.49
+  - name: NO BRISTOW
+    distance_km: 15.1
+  - name: WAGNER
+    distance_km: 20.92
+- country: US
+  region: SD
+  name: Lake City
+  lat: '45.7248'
+  long: "-97.4139"
+  nearby_rate_centers:
+  - name: VEBLEN
+    distance_km: 18.64
+  - name: SOLIDGERWD
+    distance_km: 24.29
+  - name: SO FORMAN
+    distance_km: 25.15
+- country: US
+  region: SD
+  name: Lake Madison
+  lat: '43.9593'
+  long: "-97.0210"
+  nearby_rate_centers:
+  - name: WENTWORTH
+    distance_km: 5.62
+  - name: MADISON
+    distance_km: 9.37
+  - name: CHESTER
+    distance_km: 10.72
+- country: US
+  region: SD
+  name: Lake Norden
+  lat: '44.5799'
+  long: "-97.2109"
+  nearby_rate_centers:
+  - name: LAKENORDEN
+    distance_km: 0.62
+  - name: HAYTI
+    distance_km: 8.73
+  - name: CASTLEWOOD
+    distance_km: 21.32
+- country: US
+  region: SD
+  name: Lake Poinsett
+  lat: '44.5664'
+  long: "-97.0798"
+  nearby_rate_centers:
+  - name: LAKENORDEN
+    distance_km: 10.38
+  - name: HAYTI
+    distance_km: 14.07
+  - name: ESTELLINE
+    distance_km: 14.14
+- country: US
+  region: SD
+  name: Lake Preston
+  lat: '44.3617'
+  long: "-97.3760"
+  nearby_rate_centers:
+  - name: LK PRESTON
+    distance_km: 0.86
+  - name: DE SMET
+    distance_km: 14.93
+  - name: ARLINGTON
+    distance_km: 18.98
+- country: US
+  region: SD
+  name: Lakeview Colony
+  lat: '43.2202'
+  long: "-98.4564"
+  nearby_rate_centers:
+  - name: LAKE ANDES
+    distance_km: 9.92
+  - name: ARMOUR
+    distance_km: 13.62
+  - name: WAGNER
+    distance_km: 19.93
+- country: US
+  region: SD
+  name: Lane
+  lat: '44.0697'
+  long: "-98.4246"
+  nearby_rate_centers:
+  - name: WESIGTNSPG
+    distance_km: 12.38
+  - name: WOONSOCKET
+    distance_km: 12.67
+  - name: ALPENA
+    distance_km: 13.38
+- country: US
+  region: SD
+  name: Langford
+  lat: '45.6024'
+  long: "-97.8303"
+  nearby_rate_centers:
+  - name: LANGFORD
+    distance_km: 0.48
+  - name: PIERPONT
+    distance_km: 11.56
+  - name: CLAREMONT
+    distance_km: 16.23
+- country: US
+  region: SD
+  name: Lantry
+  lat: '45.0183'
+  long: "-101.4328"
+  nearby_rate_centers:
+  - name: DUPREE
+    distance_km: 14.25
+  - name: EAGLEBUTTE
+    distance_km: 15.15
+  - name: ISABEL
+    distance_km: 41.39
+- country: US
+  region: SD
+  name: Lead
+  lat: '44.3528'
+  long: "-103.7671"
+  nearby_rate_centers:
+  - name: LEAD
+    distance_km: 0.28
+  - name: DEADWOOD
+    distance_km: 6.0
+  - name: WHITEWOOD
+    distance_km: 15.99
+- country: US
+  region: SD
+  name: Lebanon
+  lat: '45.0688'
+  long: "-99.7664"
+  nearby_rate_centers:
+  - name: LEBANON
+    distance_km: 0.04
+  - name: GETTYSBURG
+    distance_km: 16.21
+  - name: TOLSTOY
+    distance_km: 19.27
+- country: US
+  region: SD
+  name: Lemmon
+  lat: '45.9383'
+  long: "-102.1598"
+  nearby_rate_centers:
+  - name: LEMMON
+    distance_km: 0.79
+  - name: MORRISTOWN
+    distance_km: 33.9
+  - name: SOHETTINGR
+    distance_km: 34.31
+- country: US
+  region: SD
+  name: Lennox
+  lat: '43.3495'
+  long: "-96.8937"
+  nearby_rate_centers:
+  - name: LENNOX
+    distance_km: 0.56
+  - name: WORTHING
+    distance_km: 10.8
+  - name: HARISBGTEA
+    distance_km: 16.93
+- country: US
+  region: SD
+  name: Leola
+  lat: '45.7212'
+  long: "-98.9386"
+  nearby_rate_centers:
+  - name: LEOLA
+    distance_km: 0.9
+  - name: SO FORBES
+    distance_km: 22.6
+  - name: LONG LAKE
+    distance_km: 25.94
+- country: US
+  region: SD
+  name: Lesterville
+  lat: '43.0385'
+  long: "-97.5905"
+  nearby_rate_centers:
+  - name: LESTERVL
+    distance_km: 0.62
+  - name: TABOR
+    distance_km: 11.44
+  - name: SCOTLAND
+    distance_km: 16.14
+- country: US
+  region: SD
+  name: Letcher
+  lat: '43.8995'
+  long: "-98.1442"
+  nearby_rate_centers:
+  - name: LETCHER
+    distance_km: 1.04
+  - name: FORESTBURG
+    distance_km: 13.28
+  - name: WOONSOCKET
+    distance_km: 19.55
+- country: US
+  region: SD
+  name: Little Eagle
+  lat: '45.6832'
+  long: "-100.7966"
+  nearby_rate_centers:
+  - name: MCLAUGHLIN
+    distance_km: 14.84
+  - name: MOBRIDGE
+    distance_km: 32.64
+  - name: TIMBERLAKE
+    distance_km: 35.81
+- country: US
+  region: SD
+  name: Long Hollow
+  lat: '45.6823'
+  long: "-97.1611"
+  nearby_rate_centers:
+  - name: SISSETON
+    distance_km: 8.62
+  - name: CLAIRECITY
+    distance_km: 20.28
+  - name: PEEVER
+    distance_km: 22.02
+- country: US
+  region: SD
+  name: Long Lake
+  lat: '45.8567'
+  long: "-99.2058"
+  nearby_rate_centers:
+  - name: LONG LAKE
+    distance_km: 0.33
+  - name: SO NELVIK
+    distance_km: 7.38
+  - name: SO ASHLEY
+    distance_km: 14.14
+- country: US
+  region: SD
+  name: Long Lake Colony
+  lat: '45.6040'
+  long: "-98.8253"
+  nearby_rate_centers:
+  - name: LEOLA
+    distance_km: 15.79
+  - name: IPSWICH
+    distance_km: 23.38
+  - name: ABERDEEN
+    distance_km: 30.8
+- country: US
+  region: SD
+  name: Loomis
+  lat: '43.7931'
+  long: "-98.1040"
+  nearby_rate_centers:
+  - name: MITCHELL
+    distance_km: 11.48
+  - name: LETCHER
+    distance_km: 11.92
+  - name: MT VERNON
+    distance_km: 14.95
+- country: US
+  region: SD
+  name: Lower Brule
+  lat: '44.0742'
+  long: "-99.5838"
+  nearby_rate_centers:
+  - name: FTTHOMPSON
+    distance_km: 11.54
+  - name: RELIANCE
+    distance_km: 21.94
+  - name: KENNEBEC
+    distance_km: 29.2
+- country: US
+  region: SD
+  name: Lowry
+  lat: '45.3155'
+  long: "-99.9812"
+  nearby_rate_centers:
+  - name: HOVEN
+    distance_km: 18.16
+  - name: SELBY
+    distance_km: 21.62
+  - name: BOWDLE
+    distance_km: 29.18
+- country: US
+  region: SD
+  name: Lyons
+  lat: '43.7249'
+  long: "-96.8662"
+  nearby_rate_centers:
+  - name: COLTON
+    distance_km: 8.32
+  - name: CROOKS
+    distance_km: 8.48
+  - name: BALTIC
+    distance_km: 11.24
+- country: US
+  region: SD
+  name: Madison
+  lat: '44.0062'
+  long: "-97.1085"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 0.64
+  - name: WENTWORTH
+    distance_km: 11.43
+  - name: NUNDA
+    distance_km: 18.18
+- country: US
+  region: SD
+  name: Manderson-White Horse Creek
+  lat: '43.2350'
+  long: "-102.4916"
+  nearby_rate_centers:
+  - name: PINE RIDGE
+    distance_km: 24.23
+  - name: NO GORDON
+    distance_km: 29.72
+  - name: KYLE
+    distance_km: 33.58
+- country: US
+  region: SD
+  name: Mansfield
+  lat: '45.2465'
+  long: "-98.5581"
+  nearby_rate_centers:
+  - name: MELLETTE
+    distance_km: 11.65
+  - name: ABERDEEN
+    distance_km: 25.27
+  - name: CRESBARD
+    distance_km: 31.85
+- country: US
+  region: SD
+  name: Marion
+  lat: '43.4236'
+  long: "-97.2605"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 0.12
+  - name: PARKER
+    distance_km: 10.79
+  - name: FREEMAN
+    distance_km: 16.23
+- country: US
+  region: SD
+  name: Martin
+  lat: '43.1749'
+  long: "-101.7323"
+  nearby_rate_centers:
+  - name: MARTIN
+    distance_km: 0.74
+  - name: LONGVALLEY
+    distance_km: 36.7
+  - name: NO GORDON
+    distance_km: 44.78
+- country: US
+  region: SD
+  name: Marty
+  lat: '42.9965'
+  long: "-98.4302"
+  nearby_rate_centers:
+  - name: NO BRISTOW
+    distance_km: 12.87
+  - name: WAGNER
+    distance_km: 14.37
+  - name: LAKE ANDES
+    distance_km: 19.99
+- country: US
+  region: SD
+  name: Marvin
+  lat: '45.2605'
+  long: "-96.9154"
+  nearby_rate_centers:
+  - name: SUMMIT
+    distance_km: 10.5
+  - name: WILMOT
+    distance_km: 16.88
+  - name: SOUTHSHORE
+    distance_km: 17.65
+- country: US
+  region: SD
+  name: Maverick Junction
+  lat: '43.4087'
+  long: "-103.3958"
+  nearby_rate_centers:
+  - name: HOTSPRINGS
+    distance_km: 6.79
+  - name: ORAL
+    distance_km: 10.42
+  - name: BUFFALOGAP
+    distance_km: 11.78
+- country: US
+  region: SD
+  name: Maxwell Colony
+  lat: '43.1825'
+  long: "-97.6352"
+  nearby_rate_centers:
+  - name: MENNO
+    distance_km: 7.65
+  - name: SCOTLAND
+    distance_km: 7.67
+  - name: LESTERVL
+    distance_km: 15.8
+- country: US
+  region: SD
+  name: Mayfield Colony
+  lat: '44.6943'
+  long: "-97.5811"
+  nearby_rate_centers:
+  - name: BRYNTWLWLK
+    distance_km: 9.15
+  - name: CLARK
+    distance_km: 23.33
+  - name: HAYTI
+    distance_km: 30.23
+- country: US
+  region: SD
+  name: McIntosh
+  lat: '45.9214'
+  long: "-101.3491"
+  nearby_rate_centers:
+  - name: MCINTOSH
+    distance_km: 0.93
+  - name: MORRISTOWN
+    distance_km: 28.84
+  - name: MCLAUGHLIN
+    distance_km: 43.05
+- country: US
+  region: SD
+  name: McLaughlin
+  lat: '45.8132'
+  long: "-100.8108"
+  nearby_rate_centers:
+  - name: MCLAUGHLIN
+    distance_km: 0.41
+  - name: POLLOCK
+    distance_km: 42.43
+  - name: MOBRIDGE
+    distance_km: 42.57
+- country: US
+  region: SD
+  name: Meadow View Addition
+  lat: '43.6233'
+  long: "-96.7023"
+  nearby_rate_centers:
+  - name: SIOUX FLS
+    distance_km: 9.33
+  - name: CROOKS
+    distance_km: 9.55
+  - name: BRANDON
+    distance_km: 10.34
+- country: US
+  region: SD
+  name: Meckling
+  lat: '42.8402'
+  long: "-97.0673"
+  nearby_rate_centers:
+  - name: VERMILLION
+    distance_km: 12.6
+  - name: WAKONDA
+    distance_km: 18.73
+  - name: YANKTON
+    distance_km: 26.94
+- country: US
+  region: SD
+  name: Mellette
+  lat: '45.1544'
+  long: "-98.4983"
+  nearby_rate_centers:
+  - name: MELLETTE
+    distance_km: 0.46
+  - name: REDFIELD
+    distance_km: 31.19
+  - name: CONDE
+    distance_km: 31.37
+- country: US
+  region: SD
+  name: Menno
+  lat: '43.2386'
+  long: "-97.5774"
+  nearby_rate_centers:
+  - name: MENNO
+    distance_km: 0.43
+  - name: SCOTLAND
+    distance_km: 15.11
+  - name: FREEMAN
+    distance_km: 17.01
+- country: US
+  region: SD
+  name: Midland
+  lat: '44.0711'
+  long: "-101.1554"
+  nearby_rate_centers:
+  - name: MIDLAND
+    distance_km: 0.84
+  - name: BELVIDERE
+    distance_km: 29.34
+  - name: HAYES
+    distance_km: 34.85
+- country: US
+  region: SD
+  name: Milbank
+  lat: '45.2195'
+  long: "-96.6338"
+  nearby_rate_centers:
+  - name: MILBANK
+    distance_km: 0.82
+  - name: BIGSTONECY
+    distance_km: 16.4
+  - name: STOCKHOLM
+    distance_km: 18.53
+- country: US
+  region: SD
+  name: Millbrook Colony
+  lat: '43.6700'
+  long: "-97.8717"
+  nearby_rate_centers:
+  - name: ALEXANDRIA
+    distance_km: 7.23
+  - name: MITCHELL
+    distance_km: 12.81
+  - name: ETHAN
+    distance_km: 16.63
+- country: US
+  region: SD
+  name: Miller
+  lat: '44.5204'
+  long: "-98.9869"
+  nearby_rate_centers:
+  - name: MILLER
+    distance_km: 0.55
+  - name: REEHEIGHTS
+    distance_km: 16.91
+  - name: WESSINGTON
+    distance_km: 23.64
+- country: US
+  region: SD
+  name: Millerdale Colony
+  lat: '44.3990'
+  long: "-99.1111"
+  nearby_rate_centers:
+  - name: REEHEIGHTS
+    distance_km: 14.64
+  - name: MILLER
+    distance_km: 16.2
+  - name: HIGHMORE
+    distance_km: 30.06
+- country: US
+  region: SD
+  name: Milltown
+  lat: '43.4252'
+  long: "-97.8081"
+  nearby_rate_centers:
+  - name: CLAYTON
+    distance_km: 11.43
+  - name: PARKSTON
+    distance_km: 14.59
+  - name: ETHAN
+    distance_km: 19.16
+- country: US
+  region: SD
+  name: Mina
+  lat: '45.4521'
+  long: "-98.7414"
+  nearby_rate_centers:
+  - name: ABERDEEN
+    distance_km: 20.35
+  - name: IPSWICH
+    distance_km: 22.75
+  - name: LEOLA
+    distance_km: 33.79
+- country: US
+  region: SD
+  name: Mission
+  lat: '43.3063'
+  long: "-100.6610"
+  nearby_rate_centers:
+  - name: MISSION
+    distance_km: 0.62
+  - name: ROSEBUD
+    distance_km: 17.09
+  - name: WOOD
+    distance_km: 26.0
+- country: US
+  region: SD
+  name: Mission Hill
+  lat: '42.9208'
+  long: "-97.2791"
+  nearby_rate_centers:
+  - name: YANKTON
+    distance_km: 10.62
+  - name: WAKONDA
+    distance_km: 16.81
+  - name: IRENE
+    distance_km: 20.77
+- country: US
+  region: SD
+  name: Mitchell
+  lat: '43.7294'
+  long: "-98.0337"
+  nearby_rate_centers:
+  - name: MITCHELL
+    distance_km: 2.5
+  - name: MT VERNON
+    distance_km: 17.92
+  - name: LETCHER
+    distance_km: 20.37
+- country: US
+  region: SD
+  name: Mobridge
+  lat: '45.5409'
+  long: "-100.4349"
+  nearby_rate_centers:
+  - name: MOBRIDGE
+    distance_km: 0.66
+  - name: GLENHAM
+    distance_km: 12.92
+  - name: SELBY
+    distance_km: 31.54
+- country: US
+  region: SD
+  name: Monroe
+  lat: '43.4865'
+  long: "-97.2166"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 7.74
+  - name: PARKER
+    distance_km: 12.4
+  - name: CANISTOTA
+    distance_km: 13.87
+- country: US
+  region: SD
+  name: Montrose
+  lat: '43.6999'
+  long: "-97.1844"
+  nearby_rate_centers:
+  - name: HUMBOLDT
+    distance_km: 11.21
+  - name: CANISTOTA
+    distance_km: 13.65
+  - name: SALEM
+    distance_km: 16.04
+- country: US
+  region: SD
+  name: Morningside
+  lat: '44.3663'
+  long: "-98.1836"
+  nearby_rate_centers:
+  - name: HURON
+    distance_km: 2.56
+  - name: CAVOUR
+    distance_km: 12.1
+  - name: WOLSEY
+    distance_km: 23.57
+- country: US
+  region: SD
+  name: Morristown
+  lat: '45.9386'
+  long: "-101.7188"
+  nearby_rate_centers:
+  - name: MORRISTOWN
+    distance_km: 0.54
+  - name: MCINTOSH
+    distance_km: 28.18
+  - name: LEMMON
+    distance_km: 34.76
+- country: US
+  region: SD
+  name: Mound City
+  lat: '45.7262'
+  long: "-100.0688"
+  nearby_rate_centers:
+  - name: MOUND CITY
+    distance_km: 0.69
+  - name: HERREID
+    distance_km: 12.71
+  - name: SELBY
+    distance_km: 24.59
+- country: US
+  region: SD
+  name: Mount Vernon
+  lat: '43.7127'
+  long: "-98.2612"
+  nearby_rate_centers:
+  - name: MT VERNON
+    distance_km: 0.52
+  - name: PLANKINTON
+    distance_km: 18.09
+  - name: MITCHELL
+    distance_km: 19.24
+- country: US
+  region: SD
+  name: Mountain Plains
+  lat: '44.4670'
+  long: "-103.8636"
+  nearby_rate_centers:
+  - name: SPEARFISH
+    distance_km: 2.99
+  - name: LEAD
+    distance_km: 15.01
+  - name: DEADWOOD
+    distance_km: 15.48
+- country: US
+  region: SD
+  name: Murdo
+  lat: '43.8893'
+  long: "-100.7142"
+  nearby_rate_centers:
+  - name: MURDO
+    distance_km: 0.51
+  - name: VIVIAN
+    distance_km: 34.07
+  - name: WHITERIVER
+    distance_km: 36.13
+- country: US
+  region: SD
+  name: Naples
+  lat: '44.7716'
+  long: "-97.5131"
+  nearby_rate_centers:
+  - name: BRYNTWLWLK
+    distance_km: 19.29
+  - name: CLARK
+    distance_km: 20.8
+  - name: HAYTI
+    distance_km: 27.62
+- country: US
+  region: SD
+  name: New Effington
+  lat: '45.8558'
+  long: "-96.9174"
+  nearby_rate_centers:
+  - name: NEWEFFNGTN
+    distance_km: 1.18
+  - name: CLAIRECITY
+    distance_km: 13.97
+  - name: ROSHOLT
+    distance_km: 14.29
+- country: US
+  region: SD
+  name: New Elm Spring Colony
+  lat: '43.4892'
+  long: "-97.8284"
+  nearby_rate_centers:
+  - name: ETHAN
+    distance_km: 13.71
+  - name: CLAYTON
+    distance_km: 13.84
+  - name: PARKSTON
+    distance_km: 16.63
+- country: US
+  region: SD
+  name: New Holland
+  lat: '43.4288'
+  long: "-98.6075"
+  nearby_rate_centers:
+  - name: NEWHOLLAND
+    distance_km: 0.9
+  - name: CORSICA
+    distance_km: 16.1
+  - name: PLATTE
+    distance_km: 19.13
+- country: US
+  region: SD
+  name: New Underwood
+  lat: '44.0987'
+  long: "-102.8405"
+  nearby_rate_centers:
+  - name: NEWUNDERWD
+    distance_km: 1.25
+  - name: WICKSVILLE
+    distance_km: 21.54
+  - name: RAPID CITY
+    distance_km: 30.48
+- country: US
+  region: SD
+  name: Newdale Colony
+  lat: '44.2900'
+  long: "-96.5242"
+  nearby_rate_centers:
+  - name: ELKTON
+    distance_km: 7.21
+  - name: WHITE
+    distance_km: 18.82
+  - name: BROOKINGS
+    distance_km: 21.23
+  - name: BROOKINGSR
+    distance_km: 21.23
+- country: US
+  region: SD
+  name: Newell
+  lat: '44.7174'
+  long: "-103.4183"
+  nearby_rate_centers:
+  - name: NEWELL
+    distance_km: 0.92
+  - name: NISLAND
+    distance_km: 10.57
+  - name: WHITEWOOD
+    distance_km: 33.28
+- country: US
+  region: SD
+  name: Newport Colony
+  lat: '45.6791'
+  long: "-97.9328"
+  nearby_rate_centers:
+  - name: CLAREMONT
+    distance_km: 6.06
+  - name: LANGFORD
+    distance_km: 11.27
+  - name: BRITTON
+    distance_km: 19.06
+- country: US
+  region: SD
+  name: Nisland
+  lat: '44.6731'
+  long: "-103.5538"
+  nearby_rate_centers:
+  - name: NISLAND
+    distance_km: 1.24
+  - name: NEWELL
+    distance_km: 12.37
+  - name: BELLEFORCH
+    distance_km: 23.41
+- country: US
+  region: SD
+  name: Norfeld Colony
+  lat: '44.4233'
+  long: "-96.5561"
+  nearby_rate_centers:
+  - name: WHITE
+    distance_km: 7.58
+  - name: WHENDRICKS
+    distance_km: 8.94
+  - name: ASTORIA
+    distance_km: 15.08
+- country: US
+  region: SD
+  name: Norris
+  lat: '43.4721'
+  long: "-101.1928"
+  nearby_rate_centers:
+  - name: LONGVALLEY
+    distance_km: 24.64
+  - name: WHITERIVER
+    distance_km: 37.1
+  - name: ROSEBUD
+    distance_km: 39.48
+- country: US
+  region: SD
+  name: North Eagle Butte
+  lat: '45.0172'
+  long: "-101.2362"
+  nearby_rate_centers:
+  - name: EAGLEBUTTE
+    distance_km: 1.76
+  - name: DUPREE
+    distance_km: 29.5
+  - name: ISABEL
+    distance_km: 44.22
+- country: US
+  region: SD
+  name: North Sioux City
+  lat: '42.5350'
+  long: "-96.4998"
+  nearby_rate_centers:
+  - name: NOSIOUX CY
+    distance_km: 2.43
+  - name: JEFFERSON
+    distance_km: 8.81
+  - name: ELK POINT
+    distance_km: 22.51
+- country: US
+  region: SD
+  name: North Spearfish
+  lat: '44.5107'
+  long: "-103.9045"
+  nearby_rate_centers:
+  - name: SPEARFISH
+    distance_km: 3.51
+  - name: BELLEFORCH
+    distance_km: 18.63
+  - name: LEAD
+    distance_km: 20.85
+- country: US
+  region: SD
+  name: Northville
+  lat: '45.1554'
+  long: "-98.5793"
+  nearby_rate_centers:
+  - name: MELLETTE
+    distance_km: 6.31
+  - name: CRESBARD
+    distance_km: 29.24
+  - name: REDFIELD
+    distance_km: 31.56
+- country: US
+  region: SD
+  name: Nunda
+  lat: '44.1599'
+  long: "-97.0194"
+  nearby_rate_centers:
+  - name: NUNDA
+    distance_km: 0.51
+  - name: SINAI
+    distance_km: 9.34
+  - name: MADISON
+    distance_km: 18.34
+- country: US
+  region: SD
+  name: Oacoma
+  lat: '43.8038'
+  long: "-99.3721"
+  nearby_rate_centers:
+  - name: CHAMBERLAN
+    distance_km: 3.34
+  - name: PUKWANA
+    distance_km: 15.23
+  - name: RELIANCE
+    distance_km: 20.1
+- country: US
+  region: SD
+  name: Oahe Acres
+  lat: '44.4648'
+  long: "-100.3449"
+  nearby_rate_centers:
+  - name: PIERRE
+    distance_km: 11.06
+  - name: BLUNT
+    distance_km: 28.65
+  - name: ONIDA
+    distance_km: 34.99
+- country: US
+  region: SD
+  name: Oak Lane Colony
+  lat: '43.5099'
+  long: "-97.7412"
+  nearby_rate_centers:
+  - name: CLAYTON
+    distance_km: 9.4
+  - name: EMERY
+    distance_km: 13.72
+  - name: ALEXANDRIA
+    distance_km: 17.06
+- country: US
+  region: SD
+  name: Oelrichs
+  lat: '43.1820'
+  long: "-103.2334"
+  nearby_rate_centers:
+  - name: OELRICHS
+    distance_km: 0.74
+  - name: ORAL
+    distance_km: 25.07
+  - name: HOTSPRINGS
+    distance_km: 33.52
+- country: US
+  region: SD
+  name: Oglala
+  lat: '43.1849'
+  long: "-102.7268"
+  nearby_rate_centers:
+  - name: PINE RIDGE
+    distance_km: 22.66
+  - name: OELRICHS
+    distance_km: 41.25
+  - name: NO GORDON
+    distance_km: 42.22
+- country: US
+  region: SD
+  name: Okaton
+  lat: '43.8621'
+  long: "-100.9049"
+  nearby_rate_centers:
+  - name: MURDO
+    distance_km: 15.27
+  - name: BELVIDERE
+    distance_km: 30.72
+  - name: MIDLAND
+    distance_km: 31.39
+- country: US
+  region: SD
+  name: Okreek
+  lat: '43.3533'
+  long: "-100.3826"
+  nearby_rate_centers:
+  - name: WOOD
+    distance_km: 18.19
+  - name: MISSION
+    distance_km: 23.04
+  - name: WITTEN
+    distance_km: 25.74
+- country: US
+  region: SD
+  name: Ola
+  lat: '43.6005'
+  long: "-99.2114"
+  nearby_rate_centers:
+  - name: ACADEMY
+    distance_km: 19.44
+  - name: PUKWANA
+    distance_km: 19.53
+  - name: CHAMBERLAN
+    distance_km: 25.16
+- country: US
+  region: SD
+  name: Old Elm Spring Colony
+  lat: '43.4924'
+  long: "-97.7990"
+  nearby_rate_centers:
+  - name: CLAYTON
+    distance_km: 11.82
+  - name: ETHAN
+    distance_km: 15.74
+  - name: EMERY
+    distance_km: 18.43
+- country: US
+  region: SD
+  name: Oldham
+  lat: '44.2281'
+  long: "-97.3096"
+  nearby_rate_centers:
+  - name: OLDHAMRMON
+    distance_km: 7.78
+  - name: LK PRESTON
+    distance_km: 16.58
+  - name: ARLINGTON
+    distance_km: 20.52
+- country: US
+  region: SD
+  name: Olivet
+  lat: '43.2430'
+  long: "-97.6747"
+  nearby_rate_centers:
+  - name: MENNO
+    distance_km: 7.48
+  - name: SCOTLAND
+    distance_km: 10.96
+  - name: CLAYTON
+    distance_km: 22.32
+- country: US
+  region: SD
+  name: Onaka
+  lat: '45.1912'
+  long: "-99.4659"
+  nearby_rate_centers:
+  - name: ONAKA
+    distance_km: 0.18
+  - name: TOLSTOY
+    distance_km: 12.12
+  - name: SENECA
+    distance_km: 14.45
+- country: US
+  region: SD
+  name: Onida
+  lat: '44.7049'
+  long: "-100.0675"
+  nearby_rate_centers:
+  - name: ONIDA
+    distance_km: 0.44
+  - name: BLUNT
+    distance_km: 21.73
+  - name: HARROLD
+    distance_km: 32.63
+- country: US
+  region: SD
+  name: Oral
+  lat: '43.4100'
+  long: "-103.2648"
+  nearby_rate_centers:
+  - name: ORAL
+    distance_km: 0.46
+  - name: BUFFALOGAP
+    distance_km: 9.91
+  - name: HOTSPRINGS
+    distance_km: 17.18
+- country: US
+  region: SD
+  name: Orient
+  lat: '44.9017'
+  long: "-99.0888"
+  nearby_rate_centers:
+  - name: ORIENT
+    distance_km: 0.27
+  - name: FAULKTON
+    distance_km: 15.26
+  - name: CRESBARD
+    distance_km: 32.11
+- country: US
+  region: SD
+  name: Orland Colony
+  lat: '43.8216'
+  long: "-97.1990"
+  nearby_rate_centers:
+  - name: CENTER
+    distance_km: 10.94
+  - name: SALEM
+    distance_km: 18.24
+  - name: COLTON
+    distance_km: 21.8
+- country: US
+  region: SD
+  name: Ortley
+  lat: '45.3349'
+  long: "-97.2050"
+  nearby_rate_centers:
+  - name: WAUBAY
+    distance_km: 7.24
+  - name: SUMMIT
+    distance_km: 13.87
+  - name: WEBSTER
+    distance_km: 24.54
+- country: US
+  region: SD
+  name: Parker
+  lat: '43.3978'
+  long: "-97.1334"
+  nearby_rate_centers:
+  - name: PARKER
+    distance_km: 0.6
+  - name: MARION
+    distance_km: 10.57
+  - name: HURLEY
+    distance_km: 12.99
+- country: US
+  region: SD
+  name: Parkston
+  lat: '43.3929'
+  long: "-97.9864"
+  nearby_rate_centers:
+  - name: PARKSTON
+    distance_km: 0.53
+  - name: ETHAN
+    distance_km: 16.72
+  - name: TRIPP
+    distance_km: 18.58
+- country: US
+  region: SD
+  name: Parmelee
+  lat: '43.3241'
+  long: "-101.0410"
+  nearby_rate_centers:
+  - name: ROSEBUD
+    distance_km: 19.53
+  - name: MISSION
+    distance_km: 31.08
+  - name: NORTH CODY
+    distance_km: 31.13
+- country: US
+  region: SD
+  name: Pearl Creek Colony
+  lat: '44.3260'
+  long: "-97.9185"
+  nearby_rate_centers:
+  - name: IROQUOIS
+    distance_km: 6.87
+  - name: CAVOUR
+    distance_km: 10.65
+  - name: HURON
+    distance_km: 23.74
+- country: US
+  region: SD
+  name: Peever
+  lat: '45.5422'
+  long: "-96.9560"
+  nearby_rate_centers:
+  - name: PEEVER
+    distance_km: 0.47
+  - name: WBROWNSVLY
+    distance_km: 7.63
+  - name: SISSETON
+    distance_km: 15.77
+- country: US
+  region: SD
+  name: Peever Flats
+  lat: '45.5234'
+  long: "-96.9356"
+  nearby_rate_centers:
+  - name: PEEVER
+    distance_km: 2.87
+  - name: WBROWNSVLY
+    distance_km: 8.82
+  - name: WILMOT
+    distance_km: 14.39
+- country: US
+  region: SD
+  name: Pembrook Colony
+  lat: '45.3728'
+  long: "-98.9940"
+  nearby_rate_centers:
+  - name: IPSWICH
+    distance_km: 9.35
+  - name: CRESBARD
+    distance_km: 22.4
+  - name: ROSCOE
+    distance_km: 27.85
+- country: US
+  region: SD
+  name: Philip
+  lat: '44.0407'
+  long: "-101.6645"
+  nearby_rate_centers:
+  - name: PHILIP
+    distance_km: 0.1
+  - name: KADOKA
+    distance_km: 26.02
+  - name: QUINN
+    distance_km: 37.14
+- country: US
+  region: SD
+  name: Pickstown
+  lat: '43.0671'
+  long: "-98.5295"
+  nearby_rate_centers:
+  - name: NO BRISTOW
+    distance_km: 6.45
+  - name: LAKE ANDES
+    distance_km: 10.0
+  - name: WAGNER
+    distance_km: 18.83
+- country: US
+  region: SD
+  name: Piedmont
+  lat: '44.2136'
+  long: "-103.3717"
+  nearby_rate_centers:
+  - name: RAPID CITY
+    distance_km: 18.7
+  - name: STURGIS
+    distance_km: 24.55
+  - name: DEADWOOD
+    distance_km: 32.73
+- country: US
+  region: SD
+  name: Pierpont
+  lat: '45.4953'
+  long: "-97.8321"
+  nearby_rate_centers:
+  - name: PIERPONT
+    distance_km: 0.43
+  - name: ANDOVER
+    distance_km: 11.21
+  - name: LANGFORD
+    distance_km: 12.38
+- country: US
+  region: SD
+  name: Pierre
+  lat: '44.3748'
+  long: "-100.3205"
+  nearby_rate_centers:
+  - name: PIERRE
+    distance_km: 2.79
+  - name: BLUNT
+    distance_km: 30.56
+  - name: ONIDA
+    distance_km: 42.26
+- country: US
+  region: SD
+  name: Pine Lakes Addition
+  lat: '43.5510'
+  long: "-96.6355"
+  nearby_rate_centers:
+  - name: BRANDON
+    distance_km: 6.41
+  - name: SIOUX FLS
+    distance_km: 7.35
+  - name: VALLEY SPG
+    distance_km: 13.7
+- country: US
+  region: SD
+  name: Pine Ridge
+  lat: '43.0270'
+  long: "-102.5524"
+  nearby_rate_centers:
+  - name: PINE RIDGE
+    distance_km: 0.67
+  - name: NO GORDON
+    distance_km: 24.65
+  - name: KYLE
+    distance_km: 54.29
+- country: US
+  region: SD
+  name: Plainview Colony
+  lat: '45.5808'
+  long: "-99.0095"
+  nearby_rate_centers:
+  - name: IPSWICH
+    distance_km: 14.41
+  - name: LEOLA
+    distance_km: 17.31
+  - name: ROSCOE
+    distance_km: 29.29
+- country: US
+  region: SD
+  name: Plankinton
+  lat: '43.7155'
+  long: "-98.4837"
+  nearby_rate_centers:
+  - name: PLANKINTON
+    distance_km: 0.21
+  - name: STICKNEY
+    distance_km: 13.92
+  - name: MT VERNON
+    distance_km: 18.31
+- country: US
+  region: SD
+  name: Platte
+  lat: '43.3869'
+  long: "-98.8435"
+  nearby_rate_centers:
+  - name: PLATTE
+    distance_km: 0.84
+  - name: ACADEMY
+    distance_km: 20.1
+  - name: NEWHOLLAND
+    distance_km: 20.29
+- country: US
+  region: SD
+  name: Platte Colony
+  lat: '43.4678'
+  long: "-99.1261"
+  nearby_rate_centers:
+  - name: ACADEMY
+    distance_km: 4.46
+  - name: PLATTE
+    distance_km: 25.33
+  - name: KIMBALL
+    distance_km: 34.41
+- country: US
+  region: SD
+  name: Pleasant Valley Colony
+  lat: '44.0584'
+  long: "-96.4706"
+  nearby_rate_centers:
+  - name: FLANDREAU
+    distance_km: 9.74
+  - name: ELKTON
+    distance_km: 19.44
+  - name: WESTJASPER
+    distance_km: 21.18
+- country: US
+  region: SD
+  name: Poinsett Colony
+  lat: '44.6414'
+  long: "-96.9003"
+  nearby_rate_centers:
+  - name: ESTELLINE
+    distance_km: 7.23
+  - name: CASTLEWOOD
+    distance_km: 13.99
+  - name: TORONTO
+    distance_km: 20.9
+- country: US
+  region: SD
+  name: Pollock
+  lat: '45.9005'
+  long: "-100.2885"
+  nearby_rate_centers:
+  - name: POLLOCK
+    distance_km: 1.08
+  - name: HERREID
+    distance_km: 18.13
+  - name: MOUND CITY
+    distance_km: 25.21
+- country: US
+  region: SD
+  name: Porcupine
+  lat: '43.2687'
+  long: "-102.3353"
+  nearby_rate_centers:
+  - name: KYLE
+    distance_km: 22.17
+  - name: NO GORDON
+    distance_km: 26.96
+  - name: PINE RIDGE
+    distance_km: 32.8
+- country: US
+  region: SD
+  name: Prairie City
+  lat: '45.5312'
+  long: "-102.8164"
+  nearby_rate_centers:
+  - name: SORUM
+    distance_km: 12.04
+  - name: BISON
+    distance_km: 27.7
+  - name: SO REEDER
+    distance_km: 43.38
+- country: US
+  region: SD
+  name: Prairiewood Village
+  lat: '45.5094'
+  long: "-98.4194"
+  nearby_rate_centers:
+  - name: ABERDEEN
+    distance_km: 6.73
+  - name: COLUMBIA
+    distance_km: 14.89
+  - name: GROTON
+    distance_km: 25.8
+- country: US
+  region: SD
+  name: Presho
+  lat: '43.9071'
+  long: "-100.0583"
+  nearby_rate_centers:
+  - name: PRESHO
+    distance_km: 0.33
+  - name: KENNEBEC
+    distance_km: 15.96
+  - name: VIVIAN
+    distance_km: 18.87
+- country: US
+  region: SD
+  name: Pringle
+  lat: '43.6090'
+  long: "-103.5946"
+  nearby_rate_centers:
+  - name: CUSTER
+    distance_km: 17.7
+  - name: HOTSPRINGS
+    distance_km: 22.46
+  - name: BUFFALOGAP
+    distance_km: 26.42
+- country: US
+  region: SD
+  name: Provo
+  lat: '43.1937'
+  long: "-103.8329"
+  nearby_rate_centers:
+  - name: EDGEMONT
+    distance_km: 12.03
+  - name: ARDMORE
+    distance_km: 23.81
+  - name: HOTSPRINGS
+    distance_km: 38.73
+- country: US
+  region: SD
+  name: Pukwana
+  lat: '43.7792'
+  long: "-99.1843"
+  nearby_rate_centers:
+  - name: PUKWANA
+    distance_km: 0.48
+  - name: CHAMBERLAN
+    distance_km: 12.27
+  - name: KIMBALL
+    distance_km: 18.66
+- country: US
+  region: SD
+  name: Quinn
+  lat: '43.9866'
+  long: "-102.1264"
+  nearby_rate_centers:
+  - name: QUINN
+    distance_km: 0.75
+  - name: WALL
+    distance_km: 9.01
+  - name: WASTA
+    distance_km: 27.09
+- country: US
+  region: SD
+  name: Ramona
+  lat: '44.1199'
+  long: "-97.2154"
+  nearby_rate_centers:
+  - name: OLDHAMRMON
+    distance_km: 6.55
+  - name: MADISON
+    distance_km: 14.65
+  - name: NUNDA
+    distance_km: 15.76
+- country: US
+  region: SD
+  name: Rapid City
+  lat: '44.0716'
+  long: "-103.2204"
+  nearby_rate_centers:
+  - name: RAPID CITY
+    distance_km: 1.42
+  - name: KEYSTONE
+    distance_km: 25.47
+  - name: HERMOSA
+    distance_km: 26.43
+- country: US
+  region: SD
+  name: Rapid Valley
+  lat: '44.0674'
+  long: "-103.1223"
+  nearby_rate_centers:
+  - name: RAPID CITY
+    distance_km: 8.16
+  - name: NEWUNDERWD
+    distance_km: 23.4
+  - name: HERMOSA
+    distance_km: 26.45
+- country: US
+  region: SD
+  name: Ravinia
+  lat: '43.1365'
+  long: "-98.4268"
+  nearby_rate_centers:
+  - name: LAKE ANDES
+    distance_km: 9.62
+  - name: WAGNER
+    distance_km: 12.0
+  - name: NO BRISTOW
+    distance_km: 17.8
+- country: US
+  region: SD
+  name: Raymond
+  lat: '44.9105'
+  long: "-97.9372"
+  nearby_rate_centers:
+  - name: DOLAND
+    distance_km: 12.87
+  - name: CLARK
+    distance_km: 16.53
+  - name: TURTON
+    distance_km: 20.29
+- country: US
+  region: SD
+  name: Redfield
+  lat: '44.8725'
+  long: "-98.5187"
+  nearby_rate_centers:
+  - name: REDFIELD
+    distance_km: 0.36
+  - name: TULARE
+    distance_km: 14.49
+  - name: HITCHCOCK
+    distance_km: 28.9
+- country: US
+  region: SD
+  name: Ree Heights
+  lat: '44.5158'
+  long: "-99.2005"
+  nearby_rate_centers:
+  - name: REEHEIGHTS
+    distance_km: 0.16
+  - name: MILLER
+    distance_km: 16.47
+  - name: HIGHMORE
+    distance_km: 19.9
+- country: US
+  region: SD
+  name: Reliance
+  lat: '43.8800'
+  long: "-99.6018"
+  nearby_rate_centers:
+  - name: RELIANCE
+    distance_km: 0.3
+  - name: KENNEBEC
+    distance_km: 20.77
+  - name: CHAMBERLAN
+    distance_km: 23.07
+- country: US
+  region: SD
+  name: Renner Corner
+  lat: '43.6524'
+  long: "-96.7044"
+  nearby_rate_centers:
+  - name: CROOKS
+    distance_km: 8.48
+  - name: BRANDON
+    distance_km: 11.94
+  - name: BALTIC
+    distance_km: 12.03
+- country: US
+  region: SD
+  name: Revillo
+  lat: '45.0154'
+  long: "-96.5712"
+  nearby_rate_centers:
+  - name: REVILLO
+    distance_km: 0.44
+  - name: W MARIETTA
+    distance_km: 6.92
+  - name: STOCKHOLM
+    distance_km: 20.3
+- country: US
+  region: SD
+  name: Richland
+  lat: '42.7634'
+  long: "-96.6480"
+  nearby_rate_centers:
+  - name: ELK POINT
+    distance_km: 9.26
+  - name: WEST AKRON
+    distance_km: 10.3
+  - name: JEFFERSON
+    distance_km: 19.59
+- country: US
+  region: SD
+  name: Riverside Colony
+  lat: '44.4823'
+  long: "-98.1366"
+  nearby_rate_centers:
+  - name: CAVOUR
+    distance_km: 14.38
+  - name: HURON
+    distance_km: 15.11
+  - name: IROQUOIS
+    distance_km: 26.01
+- country: US
+  region: SD
+  name: Rockham
+  lat: '44.9043'
+  long: "-98.8234"
+  nearby_rate_centers:
+  - name: ORIENT
+    distance_km: 20.91
+  - name: REDFIELD
+    distance_km: 23.95
+  - name: FAULKTON
+    distance_km: 28.49
+- country: US
+  region: SD
+  name: Rockport Colony
+  lat: '43.5820'
+  long: "-97.8431"
+  nearby_rate_centers:
+  - name: ALEXANDRIA
+    distance_km: 9.97
+  - name: ETHAN
+    distance_km: 11.94
+  - name: EMERY
+    distance_km: 17.67
+- country: US
+  region: SD
+  name: Rolland Colony
+  lat: '44.3437'
+  long: "-96.5923"
+  nearby_rate_centers:
+  - name: WHITE
+    distance_km: 10.96
+  - name: ELKTON
+    distance_km: 15.17
+  - name: BROOKINGS
+    distance_km: 16.16
+  - name: BROOKINGSR
+    distance_km: 16.16
+- country: US
+  region: SD
+  name: Roscoe
+  lat: '45.4501'
+  long: "-99.3367"
+  nearby_rate_centers:
+  - name: ROSCOE
+    distance_km: 0.3
+  - name: HOSMER
+    distance_km: 18.16
+  - name: IPSWICH
+    distance_km: 23.69
+- country: US
+  region: SD
+  name: Rosebud
+  lat: '43.2398'
+  long: "-100.8229"
+  nearby_rate_centers:
+  - name: ROSEBUD
+    distance_km: 2.12
+  - name: MISSION
+    distance_km: 14.98
+  - name: NOCROOKSTN
+    distance_km: 21.66
+- country: US
+  region: SD
+  name: Rosedale Colony
+  lat: '43.6267'
+  long: "-97.8754"
+  nearby_rate_centers:
+  - name: ALEXANDRIA
+    distance_km: 8.34
+  - name: ETHAN
+    distance_km: 12.6
+  - name: MITCHELL
+    distance_km: 14.89
+- country: US
+  region: SD
+  name: Rosholt
+  lat: '45.8662'
+  long: "-96.7318"
+  nearby_rate_centers:
+  - name: ROSHOLT
+    distance_km: 0.15
+  - name: NEWEFFNGTN
+    distance_km: 14.94
+  - name: CLAIRECITY
+    distance_km: 28.35
+- country: US
+  region: SD
+  name: Roslyn
+  lat: '45.4966'
+  long: "-97.4928"
+  nearby_rate_centers:
+  - name: ROSLYN
+    distance_km: 0.6
+  - name: WEBSTER
+    distance_km: 19.12
+  - name: WAUBAY
+    distance_km: 23.73
+- country: US
+  region: SD
+  name: Roswell
+  lat: '44.0060'
+  long: "-97.6975"
+  nearby_rate_centers:
+  - name: HOWARD
+    distance_km: 13.75
+  - name: ARTESIAN
+    distance_km: 18.0
+  - name: CANOVA
+    distance_km: 21.0
+- country: US
+  region: SD
+  name: Rowena
+  lat: '43.5191'
+  long: "-96.5561"
+  nearby_rate_centers:
+  - name: BRANDON
+    distance_km: 8.45
+  - name: VALLEY SPG
+    distance_km: 9.35
+  - name: NLARCHWOOD
+    distance_km: 12.13
+- country: US
+  region: SD
+  name: Running Water
+  lat: '42.7822'
+  long: "-97.9816"
+  nearby_rate_centers:
+  - name: SPRINGFLD
+    distance_km: 10.86
+  - name: TYNDALL
+    distance_km: 25.32
+  - name: AVON
+    distance_km: 25.87
+- country: US
+  region: SD
+  name: Rustic Acres Colony
+  lat: '43.8698'
+  long: "-97.0990"
+  nearby_rate_centers:
+  - name: CHESTER
+    distance_km: 13.93
+  - name: MADISON
+    distance_km: 15.63
+  - name: COLTON
+    distance_km: 16.51
+- country: US
+  region: SD
+  name: Salem
+  lat: '43.7229'
+  long: "-97.3893"
+  nearby_rate_centers:
+  - name: SALEM
+    distance_km: 0.65
+  - name: CENTER
+    distance_km: 13.18
+  - name: CANISTOTA
+    distance_km: 15.95
+- country: US
+  region: SD
+  name: Scotland
+  lat: '43.1481'
+  long: "-97.7199"
+  nearby_rate_centers:
+  - name: SCOTLAND
+    distance_km: 0.22
+  - name: MENNO
+    distance_km: 15.09
+  - name: LESTERVL
+    distance_km: 15.51
+- country: US
+  region: SD
+  name: Selby
+  lat: '45.5057'
+  long: "-100.0329"
+  nearby_rate_centers:
+  - name: SELBY
+    distance_km: 0.09
+  - name: GLENHAM
+    distance_km: 18.67
+  - name: MOUND CITY
+    distance_km: 25.37
+- country: US
+  region: SD
+  name: Seneca
+  lat: '45.0608'
+  long: "-99.5092"
+  nearby_rate_centers:
+  - name: SENECA
+    distance_km: 0.47
+  - name: ONAKA
+    distance_km: 14.98
+  - name: TOLSTOY
+    distance_km: 18.42
+- country: US
+  region: SD
+  name: Shamrock Colony
+  lat: '44.6207'
+  long: "-97.9592"
+  nearby_rate_centers:
+  - name: BRYNTWLWLK
+    distance_km: 25.07
+  - name: CAVOUR
+    distance_km: 27.74
+  - name: IROQUOIS
+    distance_km: 29.57
+- country: US
+  region: SD
+  name: Shannon Colony
+  lat: '43.9826'
+  long: "-97.4251"
+  nearby_rate_centers:
+  - name: WINFRED
+    distance_km: 4.94
+  - name: HOWARD
+    distance_km: 8.58
+  - name: CANOVA
+    distance_km: 12.64
+- country: US
+  region: SD
+  name: Sherman
+  lat: '43.7577'
+  long: "-96.4762"
+  nearby_rate_centers:
+  - name: GARRETSON
+    distance_km: 4.74
+  - name: WESTJASPER
+    distance_km: 12.28
+  - name: BRANDON
+    distance_km: 20.17
+- country: US
+  region: SD
+  name: Shindler
+  lat: '43.4676'
+  long: "-96.6354"
+  nearby_rate_centers:
+  - name: HARISBGTEA
+    distance_km: 7.92
+  - name: SIOUX FLS
+    distance_km: 10.95
+  - name: BRANDON
+    distance_km: 14.61
+- country: US
+  region: SD
+  name: Sicangu Village
+  lat: '43.0137'
+  long: "-100.5757"
+  nearby_rate_centers:
+  - name: NOVALENTIN
+    distance_km: 2.14
+  - name: NOCROOKSTN
+    distance_km: 15.96
+  - name: NO KILGORE
+    distance_km: 30.51
+- country: US
+  region: SD
+  name: Silver Lake Colony
+  lat: '44.8657'
+  long: "-97.6084"
+  nearby_rate_centers:
+  - name: CLARK
+    distance_km: 9.93
+  - name: BRADLEY
+    distance_km: 25.26
+  - name: BRYNTWLWLK
+    distance_km: 26.95
+- country: US
+  region: SD
+  name: Sinai
+  lat: '44.2445'
+  long: "-97.0440"
+  nearby_rate_centers:
+  - name: SINAI
+    distance_km: 0.36
+  - name: NUNDA
+    distance_km: 9.69
+  - name: VOLGA
+    distance_km: 12.89
+- country: US
+  region: SD
+  name: Sioux Falls
+  lat: '43.5396'
+  long: "-96.7311"
+  nearby_rate_centers:
+  - name: SIOUX FLS
+    distance_km: 0.46
+  - name: HARISBGTEA
+    distance_km: 10.92
+  - name: BRANDON
+    distance_km: 13.47
+- country: US
+  region: SD
+  name: Sisseton
+  lat: '45.6625'
+  long: "-97.0454"
+  nearby_rate_centers:
+  - name: SISSETON
+    distance_km: 0.73
+  - name: WBROWNSVLY
+    distance_km: 13.27
+  - name: PEEVER
+    distance_km: 14.94
+- country: US
+  region: SD
+  name: Smithwick
+  lat: '43.2976'
+  long: "-103.2163"
+  nearby_rate_centers:
+  - name: ORAL
+    distance_km: 12.74
+  - name: OELRICHS
+    distance_km: 13.66
+  - name: BUFFALOGAP
+    distance_km: 23.0
+- country: US
+  region: SD
+  name: Soldier Creek
+  lat: '43.3237'
+  long: "-100.8883"
+  nearby_rate_centers:
+  - name: ROSEBUD
+    distance_km: 11.53
+  - name: MISSION
+    distance_km: 18.79
+  - name: WHITERIVER
+    distance_km: 29.08
+- country: US
+  region: SD
+  name: South Shore
+  lat: '45.1016'
+  long: "-96.9300"
+  nearby_rate_centers:
+  - name: SOUTHSHORE
+    distance_km: 0.41
+  - name: STOCKHOLM
+    distance_km: 10.23
+  - name: SUMMIT
+    distance_km: 24.22
+- country: US
+  region: SD
+  name: Spearfish
+  lat: '44.4909'
+  long: "-103.8155"
+  nearby_rate_centers:
+  - name: SPEARFISH
+    distance_km: 4.11
+  - name: DEADWOOD
+    distance_km: 14.64
+  - name: WHITEWOOD
+    distance_km: 14.86
+- country: US
+  region: SD
+  name: Spencer
+  lat: '43.7273'
+  long: "-97.5911"
+  nearby_rate_centers:
+  - name: SPENCER
+    distance_km: 0.28
+  - name: EMERY
+    distance_km: 14.4
+  - name: SALEM
+    distance_km: 16.87
+- country: US
+  region: SD
+  name: Spink Colony
+  lat: '44.7449'
+  long: "-98.2895"
+  nearby_rate_centers:
+  - name: HITCHCOCK
+    distance_km: 16.28
+  - name: TULARE
+    distance_km: 17.42
+  - name: DOLAND
+    distance_km: 22.2
+- country: US
+  region: SD
+  name: Spring Creek
+  lat: '43.1154'
+  long: "-101.0306"
+  nearby_rate_centers:
+  - name: NO KILGORE
+    distance_km: 13.45
+  - name: NORTH CODY
+    distance_km: 14.02
+  - name: ROSEBUD
+    distance_km: 19.69
+- country: US
+  region: SD
+  name: Spring Creek Colony
+  lat: '45.9077'
+  long: "-98.8806"
+  nearby_rate_centers:
+  - name: SO FORBES
+    distance_km: 9.15
+  - name: LEOLA
+    distance_km: 20.55
+  - name: SO NELVIK
+    distance_km: 21.95
+- country: US
+  region: SD
+  name: Spring Lake Colony
+  lat: '44.2349'
+  long: "-97.1748"
+  nearby_rate_centers:
+  - name: SINAI
+    distance_km: 10.74
+  - name: OLDHAMRMON
+    distance_km: 10.87
+  - name: NUNDA
+    distance_km: 14.64
+- country: US
+  region: SD
+  name: Spring Valley Colony
+  lat: '44.0395'
+  long: "-98.8811"
+  nearby_rate_centers:
+  - name: GANNVALLEY
+    distance_km: 8.92
+  - name: WESIGTNSPG
+    distance_km: 24.65
+  - name: KIMBALL
+    distance_km: 32.58
+- country: US
+  region: SD
+  name: Springfield
+  lat: '42.8624'
+  long: "-97.8964"
+  nearby_rate_centers:
+  - name: SPRINGFLD
+    distance_km: 0.44
+  - name: TYNDALL
+    distance_km: 14.84
+  - name: AVON
+    distance_km: 20.78
+- country: US
+  region: SD
+  name: St. Charles
+  lat: '43.0881'
+  long: "-99.0949"
+  nearby_rate_centers:
+  - name: NORTHNAPER
+    distance_km: 8.23
+  - name: BONESTEEL
+    distance_km: 11.85
+  - name: BURKE
+    distance_km: 19.71
+- country: US
+  region: SD
+  name: St. Francis
+  lat: '43.1426'
+  long: "-100.9028"
+  nearby_rate_centers:
+  - name: ROSEBUD
+    distance_km: 10.54
+  - name: NOCROOKSTN
+    distance_km: 15.19
+  - name: NO KILGORE
+    distance_km: 15.32
+- country: US
+  region: SD
+  name: St. Lawrence
+  lat: '44.5166'
+  long: "-98.9379"
+  nearby_rate_centers:
+  - name: MILLER
+    distance_km: 4.35
+  - name: WESSINGTON
+    distance_km: 19.81
+  - name: REEHEIGHTS
+    distance_km: 20.78
+- country: US
+  region: SD
+  name: St. Onge
+  lat: '44.5458'
+  long: "-103.7198"
+  nearby_rate_centers:
+  - name: WHITEWOOD
+    distance_km: 11.74
+  - name: SPEARFISH
+    distance_km: 13.04
+  - name: BELLEFORCH
+    distance_km: 17.55
+- country: US
+  region: SD
+  name: Stephan
+  lat: '44.2482'
+  long: "-99.4576"
+  nearby_rate_centers:
+  - name: FTTHOMPSON
+    distance_km: 19.26
+  - name: HIGHMORE
+    distance_km: 29.96
+  - name: REEHEIGHTS
+    distance_km: 35.99
+- country: US
+  region: SD
+  name: Stickney
+  lat: '43.5894'
+  long: "-98.4376"
+  nearby_rate_centers:
+  - name: STICKNEY
+    distance_km: 0.61
+  - name: PLANKINTON
+    distance_km: 14.56
+  - name: CORSICA
+    distance_km: 18.32
+- country: US
+  region: SD
+  name: Stockholm
+  lat: '45.1018'
+  long: "-96.7998"
+  nearby_rate_centers:
+  - name: STOCKHOLM
+    distance_km: 0.12
+  - name: SOUTHSHORE
+    distance_km: 9.81
+  - name: MILBANK
+    distance_km: 19.22
+- country: US
+  region: SD
+  name: Storla
+  lat: '43.8625'
+  long: "-98.3526"
+  nearby_rate_centers:
+  - name: MT VERNON
+    distance_km: 18.12
+  - name: LETCHER
+    distance_km: 18.18
+  - name: PLANKINTON
+    distance_km: 19.55
+- country: US
+  region: SD
+  name: Strandburg
+  lat: '45.0441'
+  long: "-96.7604"
+  nearby_rate_centers:
+  - name: STOCKHOLM
+    distance_km: 7.01
+  - name: SOUTHSHORE
+    distance_km: 14.42
+  - name: REVILLO
+    distance_km: 15.44
+- country: US
+  region: SD
+  name: Stratford
+  lat: '45.3174'
+  long: "-98.3043"
+  nearby_rate_centers:
+  - name: FERNEY
+    distance_km: 16.02
+  - name: ABERDEEN
+    distance_km: 21.66
+  - name: GROTON
+    distance_km: 21.95
+- country: US
+  region: SD
+  name: Sturgis
+  lat: '44.4110'
+  long: "-103.4973"
+  nearby_rate_centers:
+  - name: STURGIS
+    distance_km: 0.44
+  - name: WHITEWOOD
+    distance_km: 12.1
+  - name: DEADWOOD
+    distance_km: 16.86
+- country: US
+  region: SD
+  name: Summerset
+  lat: '44.1912'
+  long: "-103.3394"
+  nearby_rate_centers:
+  - name: RAPID CITY
+    distance_km: 15.15
+  - name: STURGIS
+    distance_km: 27.91
+  - name: KEYSTONE
+    distance_km: 33.8
+- country: US
+  region: SD
+  name: Summit
+  lat: '45.3056'
+  long: "-97.0391"
+  nearby_rate_centers:
+  - name: SUMMIT
+    distance_km: 0.58
+  - name: WILMOT
+    distance_km: 18.16
+  - name: WAUBAY
+    distance_km: 20.44
+- country: US
+  region: SD
+  name: Sunset Colony
+  lat: '45.8059'
+  long: "-97.8857"
+  nearby_rate_centers:
+  - name: BRITTON
+    distance_km: 9.84
+  - name: CLAREMONT
+    distance_km: 17.41
+  - name: HECLA
+    distance_km: 22.16
+- country: US
+  region: SD
+  name: Swift Bird
+  lat: '45.0601'
+  long: "-100.3545"
+  nearby_rate_centers:
+  - name: LAPLANT
+    distance_km: 23.0
+  - name: GETTYSBURG
+    distance_km: 31.92
+  - name: ONIDA
+    distance_km: 45.22
+- country: US
+  region: SD
+  name: Tabor
+  lat: '42.9476'
+  long: "-97.6594"
+  nearby_rate_centers:
+  - name: TABOR
+    distance_km: 0.14
+  - name: LESTERVL
+    distance_km: 11.97
+  - name: TYNDALL
+    distance_km: 17.78
+- country: US
+  region: SD
+  name: Tea
+  lat: '43.4564'
+  long: "-96.8257"
+  nearby_rate_centers:
+  - name: HARISBGTEA
+    distance_km: 8.17
+  - name: SIOUX FLS
+    distance_km: 12.4
+  - name: LENNOX
+    distance_km: 13.45
+- country: US
+  region: SD
+  name: Thunderbird Colony
+  lat: '45.1911'
+  long: "-99.2675"
+  nearby_rate_centers:
+  - name: ONAKA
+    distance_km: 15.68
+  - name: FAULKTON
+    distance_km: 20.23
+  - name: SENECA
+    distance_km: 23.43
+- country: US
+  region: SD
+  name: Timber Lake
+  lat: '45.4294'
+  long: "-101.0715"
+  nearby_rate_centers:
+  - name: TIMBERLAKE
+    distance_km: 1.23
+  - name: ISABEL
+    distance_km: 28.39
+  - name: MCLAUGHLIN
+    distance_km: 47.43
+- country: US
+  region: SD
+  name: Tolstoy
+  lat: '45.2083'
+  long: "-99.6140"
+  nearby_rate_centers:
+  - name: TOLSTOY
+    distance_km: 0.39
+  - name: ONAKA
+    distance_km: 11.61
+  - name: HOVEN
+    distance_km: 13.06
+- country: US
+  region: SD
+  name: Toronto
+  lat: '44.5724'
+  long: "-96.6414"
+  nearby_rate_centers:
+  - name: TORONTO
+    distance_km: 1.0
+  - name: ASTORIA
+    distance_km: 7.28
+  - name: BRANDT
+    distance_km: 10.38
+- country: US
+  region: SD
+  name: Trent
+  lat: '43.9063'
+  long: "-96.6578"
+  nearby_rate_centers:
+  - name: DELLRAPIDS
+    distance_km: 9.85
+  - name: WESTJASPER
+    distance_km: 14.79
+  - name: COLMAN
+    distance_km: 15.03
+- country: US
+  region: SD
+  name: Tripp
+  lat: '43.2254'
+  long: "-97.9659"
+  nearby_rate_centers:
+  - name: TRIPP
+    distance_km: 0.16
+  - name: DELMONT
+    distance_km: 17.01
+  - name: PARKSTON
+    distance_km: 18.29
+- country: US
+  region: SD
+  name: Tschetter Colony
+  lat: '43.3681'
+  long: "-97.6880"
+  nearby_rate_centers:
+  - name: CLAYTON
+    distance_km: 8.54
+  - name: MENNO
+    distance_km: 16.65
+  - name: FREEMAN
+    distance_km: 20.58
+- country: US
+  region: SD
+  name: Tulare
+  lat: '44.7382'
+  long: "-98.5089"
+  nearby_rate_centers:
+  - name: TULARE
+    distance_km: 0.47
+  - name: HITCHCOCK
+    distance_km: 14.93
+  - name: REDFIELD
+    distance_km: 15.18
+- country: US
+  region: SD
+  name: Turton
+  lat: '45.0490'
+  long: "-98.0974"
+  nearby_rate_centers:
+  - name: TURTON
+    distance_km: 0.41
+  - name: CONDE
+    distance_km: 12.26
+  - name: DOLAND
+    distance_km: 17.53
+- country: US
+  region: SD
+  name: Twin Brooks
+  lat: '45.2090'
+  long: "-96.7855"
+  nearby_rate_centers:
+  - name: STOCKHOLM
+    distance_km: 12.09
+  - name: MILBANK
+    distance_km: 12.35
+  - name: SOUTHSHORE
+    distance_km: 16.16
+- country: US
+  region: SD
+  name: Two Strike
+  lat: '43.2141'
+  long: "-100.8988"
+  nearby_rate_centers:
+  - name: ROSEBUD
+    distance_km: 4.87
+  - name: NOCROOKSTN
+    distance_km: 21.25
+  - name: MISSION
+    distance_km: 21.75
+- country: US
+  region: SD
+  name: Tyndall
+  lat: '42.9899'
+  long: "-97.8642"
+  nearby_rate_centers:
+  - name: TYNDALL
+    distance_km: 0.59
+  - name: SPRINGFLD
+    distance_km: 14.81
+  - name: AVON
+    distance_km: 15.71
+- country: US
+  region: SD
+  name: Upland Colony
+  lat: '43.8775'
+  long: "-97.9763"
+  nearby_rate_centers:
+  - name: LETCHER
+    distance_km: 12.64
+  - name: ARTESIAN
+    distance_km: 15.16
+  - name: FORESTBURG
+    distance_km: 18.75
+- country: US
+  region: SD
+  name: Utica
+  lat: '42.9810'
+  long: "-97.4967"
+  nearby_rate_centers:
+  - name: LESTERVL
+    distance_km: 10.5
+  - name: TABOR
+    distance_km: 13.61
+  - name: YANKTON
+    distance_km: 14.36
+- country: US
+  region: SD
+  name: Vale
+  lat: '44.6183'
+  long: "-103.3986"
+  nearby_rate_centers:
+  - name: NEWELL
+    distance_km: 11.99
+  - name: NISLAND
+    distance_km: 12.8
+  - name: STURGIS
+    distance_km: 23.96
+- country: US
+  region: SD
+  name: Valley Springs
+  lat: '43.5824'
+  long: "-96.4656"
+  nearby_rate_centers:
+  - name: VALLEY SPG
+    distance_km: 0.93
+  - name: BRANDON
+    distance_km: 9.36
+  - name: NLARCHWOOD
+    distance_km: 14.09
+- country: US
+  region: SD
+  name: Veblen
+  lat: '45.8620'
+  long: "-97.2869"
+  nearby_rate_centers:
+  - name: VEBLEN
+    distance_km: 0.78
+  - name: SOLIDGERWD
+    distance_km: 6.24
+  - name: CLAIRECITY
+    distance_km: 14.65
+- country: US
+  region: SD
+  name: Verdon
+  lat: '45.2442'
+  long: "-98.0992"
+  nearby_rate_centers:
+  - name: CONDE
+    distance_km: 9.44
+  - name: FERNEY
+    distance_km: 9.94
+  - name: TURTON
+    distance_km: 21.48
+- country: US
+  region: SD
+  name: Vermillion
+  lat: '42.7811'
+  long: "-96.9256"
+  nearby_rate_centers:
+  - name: VERMILLION
+    distance_km: 0.7
+  - name: ELK POINT
+    distance_km: 22.38
+  - name: ALSEN
+    distance_km: 25.36
+- country: US
+  region: SD
+  name: Viborg
+  lat: '43.1722'
+  long: "-97.0824"
+  nearby_rate_centers:
+  - name: VIBORG
+    distance_km: 0.55
+  - name: IRENE
+    distance_km: 11.46
+  - name: CENTERVL
+    distance_km: 11.69
+- country: US
+  region: SD
+  name: Vienna
+  lat: '44.7031'
+  long: "-97.5000"
+  nearby_rate_centers:
+  - name: BRYNTWLWLK
+    distance_km: 14.26
+  - name: HAYTI
+    distance_km: 24.07
+  - name: CLARK
+    distance_km: 26.49
+- country: US
+  region: SD
+  name: Vilas
+  lat: '44.0084'
+  long: "-97.5956"
+  nearby_rate_centers:
+  - name: HOWARD
+    distance_km: 5.59
+  - name: CANOVA
+    distance_km: 16.01
+  - name: WINFRED
+    distance_km: 18.28
+- country: US
+  region: SD
+  name: Virgil
+  lat: '44.2909'
+  long: "-98.4276"
+  nearby_rate_centers:
+  - name: ALPENA
+    distance_km: 12.88
+  - name: WOLSEY
+    distance_km: 13.78
+  - name: HURON
+    distance_km: 18.58
+- country: US
+  region: SD
+  name: Vivian
+  lat: '43.9273'
+  long: "-100.3011"
+  nearby_rate_centers:
+  - name: VIVIAN
+    distance_km: 0.71
+  - name: PRESHO
+    distance_km: 19.59
+  - name: MURDO
+    distance_km: 33.66
+- country: US
+  region: SD
+  name: Volga
+  lat: '44.3219'
+  long: "-96.9219"
+  nearby_rate_centers:
+  - name: VOLGA
+    distance_km: 0.4
+  - name: BROOKINGS
+    distance_km: 10.62
+  - name: BROOKINGSR
+    distance_km: 10.62
+  - name: SINAI
+    distance_km: 12.92
+- country: US
+  region: SD
+  name: Volin
+  lat: '42.9586'
+  long: "-97.1812"
+  nearby_rate_centers:
+  - name: WAKONDA
+    distance_km: 7.92
+  - name: IRENE
+    distance_km: 14.25
+  - name: YANKTON
+    distance_km: 19.63
+- country: US
+  region: SD
+  name: Wagner
+  lat: '43.0768'
+  long: "-98.2934"
+  nearby_rate_centers:
+  - name: WAGNER
+    distance_km: 0.79
+  - name: AVON
+    distance_km: 20.76
+  - name: LAKE ANDES
+    distance_km: 22.05
+- country: US
+  region: SD
+  name: Wakonda
+  lat: '43.0081'
+  long: "-97.1060"
+  nearby_rate_centers:
+  - name: WAKONDA
+    distance_km: 0.31
+  - name: IRENE
+    distance_km: 9.67
+  - name: CENTERVL
+    distance_km: 16.91
+- country: US
+  region: SD
+  name: Wakpala
+  lat: '45.6594'
+  long: "-100.5355"
+  nearby_rate_centers:
+  - name: MOBRIDGE
+    distance_km: 15.92
+  - name: GLENHAM
+    distance_km: 25.06
+  - name: MCLAUGHLIN
+    distance_km: 27.77
+- country: US
+  region: SD
+  name: Wall
+  lat: '43.9914'
+  long: "-102.2422"
+  nearby_rate_centers:
+  - name: WALL
+    distance_km: 0.27
+  - name: QUINN
+    distance_km: 9.44
+  - name: WASTA
+    distance_km: 18.49
+- country: US
+  region: SD
+  name: Wallace
+  lat: '45.0845'
+  long: "-97.4781"
+  nearby_rate_centers:
+  - name: FLORENCE
+    distance_km: 12.28
+  - name: BRADLEY
+    distance_km: 12.86
+  - name: WEBSTER
+    distance_km: 26.99
+- country: US
+  region: SD
+  name: Wanblee
+  lat: '43.5705'
+  long: "-101.6614"
+  nearby_rate_centers:
+  - name: LONGVALLEY
+    distance_km: 18.26
+  - name: KADOKA
+    distance_km: 31.48
+  - name: BELVIDERE
+    distance_km: 41.4
+- country: US
+  region: SD
+  name: Ward
+  lat: '44.1548'
+  long: "-96.4626"
+  nearby_rate_centers:
+  - name: ELKTON
+    distance_km: 8.82
+  - name: FLANDREAU
+    distance_km: 16.28
+  - name: BROOKINGS
+    distance_km: 31.19
+  - name: BROOKINGSR
+    distance_km: 31.19
+- country: US
+  region: SD
+  name: Warner
+  lat: '45.3252'
+  long: "-98.4952"
+  nearby_rate_centers:
+  - name: ABERDEEN
+    distance_km: 15.84
+  - name: MELLETTE
+    distance_km: 19.45
+  - name: FERNEY
+    distance_km: 30.85
+- country: US
+  region: SD
+  name: Wasta
+  lat: '44.0696'
+  long: "-102.4464"
+  nearby_rate_centers:
+  - name: WASTA
+    distance_km: 0.68
+  - name: WICKSVILLE
+    distance_km: 11.91
+  - name: WALL
+    distance_km: 18.72
+- country: US
+  region: SD
+  name: Watertown
+  lat: '44.9094'
+  long: "-97.1532"
+  nearby_rate_centers:
+  - name: WATERTOWN
+    distance_km: 4.19
+  - name: FLORENCE
+    distance_km: 21.36
+  - name: CASTLEWOOD
+    distance_km: 22.65
+- country: US
+  region: SD
+  name: Waubay
+  lat: '45.3345'
+  long: "-97.3055"
+  nearby_rate_centers:
+  - name: WAUBAY
+    distance_km: 0.64
+  - name: WEBSTER
+    distance_km: 16.69
+  - name: SUMMIT
+    distance_km: 21.59
+- country: US
+  region: SD
+  name: Waverly
+  lat: '44.9987'
+  long: "-96.9742"
+  nearby_rate_centers:
+  - name: SOUTHSHORE
+    distance_km: 12.11
+  - name: WATERTOWN
+    distance_km: 15.02
+  - name: GOODWIN
+    distance_km: 16.76
+- country: US
+  region: SD
+  name: Webster
+  lat: '45.3366'
+  long: "-97.5219"
+  nearby_rate_centers:
+  - name: WEBSTER
+    distance_km: 1.25
+  - name: WAUBAY
+    distance_km: 17.53
+  - name: BRISTOL
+    distance_km: 17.69
+- country: US
+  region: SD
+  name: Wentworth
+  lat: '43.9970'
+  long: "-96.9645"
+  nearby_rate_centers:
+  - name: WENTWORTH
+    distance_km: 0.62
+  - name: COLMAN
+    distance_km: 11.98
+  - name: MADISON
+    distance_km: 12.09
+- country: US
+  region: SD
+  name: Wessington
+  lat: '44.4552'
+  long: "-98.6967"
+  nearby_rate_centers:
+  - name: WESSINGTON
+    distance_km: 0.54
+  - name: WOLSEY
+    distance_km: 18.4
+  - name: MILLER
+    distance_km: 24.5
+- country: US
+  region: SD
+  name: Wessington Springs
+  lat: '44.0805'
+  long: "-98.5712"
+  nearby_rate_centers:
+  - name: WESIGTNSPG
+    distance_km: 0.64
+  - name: ALPENA
+    distance_km: 19.79
+  - name: WOONSOCKET
+    distance_km: 24.43
+- country: US
+  region: SD
+  name: West Brule
+  lat: '44.0727'
+  long: "-99.6383"
+  nearby_rate_centers:
+  - name: FTTHOMPSON
+    distance_km: 15.89
+  - name: RELIANCE
+    distance_km: 21.93
+  - name: KENNEBEC
+    distance_km: 25.95
+- country: US
+  region: SD
+  name: Westport
+  lat: '45.6478'
+  long: "-98.4981"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance_km: 15.1
+  - name: ABERDEEN
+    distance_km: 20.11
+  - name: FREDERICK
+    distance_km: 20.39
+- country: US
+  region: SD
+  name: Westwood Colony
+  lat: '45.8929'
+  long: "-97.7814"
+  nearby_rate_centers:
+  - name: BRITTON
+    distance_km: 10.45
+  - name: SO FORMAN
+    distance_km: 12.65
+  - name: HECLA
+    distance_km: 28.54
+- country: US
+  region: SD
+  name: Wetonka
+  lat: '45.6242'
+  long: "-98.7717"
+  nearby_rate_centers:
+  - name: LEOLA
+    distance_km: 16.68
+  - name: IPSWICH
+    distance_km: 27.92
+  - name: ABERDEEN
+    distance_km: 28.55
+- country: US
+  region: SD
+  name: White
+  lat: '44.4359'
+  long: "-96.6460"
+  nearby_rate_centers:
+  - name: WHITE
+    distance_km: 0.48
+  - name: WHENDRICKS
+    distance_km: 12.41
+  - name: TORONTO
+    distance_km: 15.36
+- country: US
+  region: SD
+  name: White Lake
+  lat: '43.7283'
+  long: "-98.7120"
+  nearby_rate_centers:
+  - name: WHITE LAKE
+    distance_km: 0.67
+  - name: PLANKINTON
+    distance_km: 18.19
+  - name: KIMBALL
+    distance_km: 19.7
+- country: US
+  region: SD
+  name: White River
+  lat: '43.5671'
+  long: "-100.7449"
+  nearby_rate_centers:
+  - name: WHITERIVER
+    distance_km: 0.53
+  - name: WOOD
+    distance_km: 22.5
+  - name: MISSION
+    distance_km: 30.4
+- country: US
+  region: SD
+  name: White Rock
+  lat: '45.9248'
+  long: "-96.5760"
+  nearby_rate_centers:
+  - name: ROSHOLT
+    distance_km: 13.85
+  - name: NEWEFFNGTN
+    distance_km: 27.79
+  - name: CLAIRECITY
+    distance_km: 41.03
+- country: US
+  region: SD
+  name: White Rock Colony
+  lat: '45.9109'
+  long: "-96.6311"
+  nearby_rate_centers:
+  - name: ROSHOLT
+    distance_km: 9.39
+  - name: NEWEFFNGTN
+    distance_km: 23.29
+  - name: CLAIRECITY
+    distance_km: 36.58
+- country: US
+  region: SD
+  name: Whitehorse
+  lat: '45.2746'
+  long: "-100.9012"
+  nearby_rate_centers:
+  - name: TIMBERLAKE
+    distance_km: 22.8
+  - name: LAPLANT
+    distance_km: 27.05
+  - name: EAGLEBUTTE
+    distance_km: 40.4
+- country: US
+  region: SD
+  name: Whitewood
+  lat: '44.4617'
+  long: "-103.6381"
+  nearby_rate_centers:
+  - name: WHITEWOOD
+    distance_km: 0.43
+  - name: DEADWOOD
+    distance_km: 10.12
+  - name: STURGIS
+    distance_km: 12.25
+- country: US
+  region: SD
+  name: Willow Lake
+  lat: '44.6279'
+  long: "-97.6386"
+  nearby_rate_centers:
+  - name: BRYNTWLWLK
+    distance_km: 0.49
+  - name: DE SMET
+    distance_km: 27.94
+  - name: CLARK
+    distance_km: 28.38
+- country: US
+  region: SD
+  name: Wilmot
+  lat: '45.4091'
+  long: "-96.8546"
+  nearby_rate_centers:
+  - name: WILMOT
+    distance_km: 0.32
+  - name: PEEVER
+    distance_km: 16.94
+  - name: SUMMIT
+    distance_km: 17.91
+- country: US
+  region: SD
+  name: Winfred
+  lat: '44.0009'
+  long: "-97.3598"
+  nearby_rate_centers:
+  - name: WINFRED
+    distance_km: 0.66
+  - name: HOWARD
+    distance_km: 13.3
+  - name: CANOVA
+    distance_km: 17.29
+- country: US
+  region: SD
+  name: Winner
+  lat: '43.3776'
+  long: "-99.8552"
+  nearby_rate_centers:
+  - name: WINNER
+    distance_km: 0.45
+  - name: WITTEN
+    distance_km: 19.61
+  - name: CLEARFIELD
+    distance_km: 27.68
+- country: US
+  region: SD
+  name: Wolf Creek Colony
+  lat: '43.3527'
+  long: "-97.6161"
+  nearby_rate_centers:
+  - name: CLAYTON
+    distance_km: 10.97
+  - name: MENNO
+    distance_km: 12.87
+  - name: FREEMAN
+    distance_km: 14.68
+- country: US
+  region: SD
+  name: Wolsey
+  lat: '44.4105'
+  long: "-98.4738"
+  nearby_rate_centers:
+  - name: WOLSEY
+    distance_km: 0.01
+  - name: WESSINGTON
+    distance_km: 18.88
+  - name: HURON
+    distance_km: 21.48
+- country: US
+  region: SD
+  name: Wonderland Homes
+  lat: '44.2029'
+  long: "-103.3433"
+  nearby_rate_centers:
+  - name: RAPID CITY
+    distance_km: 16.37
+  - name: STURGIS
+    distance_km: 26.61
+  - name: KEYSTONE
+    distance_km: 35.02
+- country: US
+  region: SD
+  name: Wood
+  lat: '43.4971'
+  long: "-100.4802"
+  nearby_rate_centers:
+  - name: WOOD
+    distance_km: 0.37
+  - name: WHITERIVER
+    distance_km: 23.13
+  - name: MISSION
+    distance_km: 26.11
+- country: US
+  region: SD
+  name: Woonsocket
+  lat: '44.0541'
+  long: "-98.2724"
+  nearby_rate_centers:
+  - name: WOONSOCKET
+    distance_km: 0.49
+  - name: FORESTBURG
+    distance_km: 13.7
+  - name: ALPENA
+    distance_km: 16.27
+- country: US
+  region: SD
+  name: Worthing
+  lat: '43.3300'
+  long: "-96.7683"
+  nearby_rate_centers:
+  - name: WORTHING
+    distance_km: 0.81
+  - name: LENNOX
+    distance_km: 10.88
+  - name: HARISBGTEA
+    distance_km: 12.85
+- country: US
+  region: SD
+  name: Wounded Knee
+  lat: '43.1435'
+  long: "-102.3681"
+  nearby_rate_centers:
+  - name: NO GORDON
+    distance_km: 15.49
+  - name: PINE RIDGE
+    distance_km: 20.47
+  - name: KYLE
+    distance_km: 35.53
+- country: US
+  region: SD
+  name: Yale
+  lat: '44.4337'
+  long: "-97.9885"
+  nearby_rate_centers:
+  - name: CAVOUR
+    distance_km: 7.22
+  - name: IROQUOIS
+    distance_km: 13.17
+  - name: HURON
+    distance_km: 19.77
+- country: US
+  region: SD
+  name: Yankton
+  lat: '42.8901'
+  long: "-97.3927"
+  nearby_rate_centers:
+  - name: YANKTON
+    distance_km: 1.58
+  - name: TABOR
+    distance_km: 22.53
+  - name: LESTERVL
+    distance_km: 23.62

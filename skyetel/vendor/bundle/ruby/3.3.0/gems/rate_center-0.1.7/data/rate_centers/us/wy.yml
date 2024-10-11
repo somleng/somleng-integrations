@@ -1,0 +1,2666 @@
+---
+rate_centers:
+- country: US
+  region: WY
+  exchange: '341725'
+  name: ACME
+  full_name: Acme
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217630'
+  name: AFTON
+  full_name: Afton
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '42.723922'
+  long: "-110.931035"
+  closest_city:
+    name: Afton
+    distance_km: 0.34
+- country: US
+  region: WY
+  exchange: '340373'
+  name: ALADDIN
+  full_name: Aladdin
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217640'
+  name: ALBIN
+  full_name: Albin
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat: '41.419366'
+  long: "-104.109747"
+  closest_city:
+    name: Albin
+    distance_km: 0.73
+- country: US
+  region: WY
+  exchange: '341728'
+  name: ALCOVA
+  full_name: Alcova
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341729'
+  name: ALLENDALE
+  full_name: Allendale
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217650'
+  name: ALPINE
+  full_name: Alpine
+  lata: '654'
+  ilec_name: SILVER STAR TEL CO INC
+  lat: '43.166623'
+  long: "-111.014268"
+  closest_city:
+    name: Alpine
+    distance_km: 0.52
+- country: US
+  region: WY
+  exchange: '217660'
+  name: ALTA
+  full_name: Alta
+  lata: '652'
+  ilec_name: COLUMBINE TELCO DBA SILVER STAR COMMUNICATIONS
+  lat: '43.767691'
+  long: "-111.031604"
+  closest_city:
+    name: Alta
+    distance_km: 0.67
+- country: US
+  region: WY
+  exchange: '341731'
+  name: ALVA
+  full_name: Alva
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341732'
+  name: ARAPAHOE
+  full_name: Arapahoe
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341733'
+  name: ARLINGTON
+  full_name: Arlington
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341734'
+  name: ARMINTO
+  full_name: Arminto
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217670'
+  name: ARVADA
+  full_name: Arvada
+  lata: '654'
+  ilec_name: RANGE TEL COOP INC
+  lat: '44.656587'
+  long: "-106.131781"
+  closest_city:
+    name: Arvada
+    distance_km: 1.0
+- country: US
+  region: WY
+  exchange: '341736'
+  name: ATLNTIC CY
+  full_name: Atlantic City
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341737'
+  name: AUBURN
+  full_name: Auburn
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217680'
+  name: BAGGS
+  full_name: Baggs
+  lata: '654'
+  ilec_name: DUBOIS TEL. EXCH., INC.
+  lat: '41.03869'
+  long: "-107.66019"
+  closest_city:
+    name: Baggs
+    distance_km: 0.52
+- country: US
+  region: WY
+  exchange: '341739'
+  name: BAIROIL
+  full_name: Bairoil
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341740'
+  name: BANNER
+  full_name: Banner
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341741'
+  name: BAR NUNN
+  full_name: Bar Nunn
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217690'
+  name: BASIN
+  full_name: Basin
+  lata: '654'
+  ilec_name: TRI-COUNTY TEL. ASSN., INC.
+  lat: '44.375276'
+  long: "-108.038997"
+  closest_city:
+    name: Basin
+    distance_km: 0.83
+- country: US
+  region: WY
+  exchange: '341743'
+  name: BEAR RIVER
+  full_name: Bear River
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341744'
+  name: BEDFORD
+  full_name: Bedford
+  lata: '654'
+  ilec_name: SILVER STAR TEL CO INC
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '340374'
+  name: BEULAH
+  full_name: Beulah
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218363'
+  name: BIG HORN
+  full_name: Big Horn
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217700'
+  name: BIG PINEY
+  full_name: Big Piney
+  lata: '654'
+  ilec_name: CENTURYTEL OF WYOMING, INC. DBA CENTURYLINK
+  lat: '42.542323'
+  long: "-110.118897"
+  closest_city:
+    name: Big Piney
+    distance_km: 0.25
+- country: US
+  region: WY
+  exchange: '341747'
+  name: BITTER CRK
+  full_name: Bitter Creek
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218251'
+  name: BLACKSFORK
+  full_name: Blacks Fork
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341748'
+  name: BONDURANT
+  full_name: Bondurant
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341749'
+  name: BORDEAUX
+  full_name: Bordeaux
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217710'
+  name: BORDER
+  full_name: Border
+  lata: '652'
+  ilec_name: QWEST CORPORATION
+  lat: '42.167476'
+  long: "-111.042499"
+  closest_city:
+    name: Taylor
+    distance_km: 11.86
+- country: US
+  region: WY
+  exchange: '341750'
+  name: BOSLER
+  full_name: Bosler
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218291'
+  name: BOULDER
+  full_name: Boulder
+  lata: '654'
+  ilec_name: CENTURYTEL OF WYOMING, INC. DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217720'
+  name: BUFFALO
+  full_name: Buffalo
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '44.348044'
+  long: "-106.690826"
+  closest_city:
+    name: Buffalo
+    distance_km: 1.93
+- country: US
+  region: WY
+  exchange: '341753'
+  name: BUFORD
+  full_name: Buford
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217730'
+  name: BURLINGTON
+  full_name: Burlington
+  lata: '654'
+  ilec_name: TRI-COUNTY TEL. ASSN., INC.
+  lat: '44.472293'
+  long: "-108.408082"
+  closest_city:
+    name: Burlington
+    distance_km: 3.38
+- country: US
+  region: WY
+  exchange: '217740'
+  name: BURNS
+  full_name: Burns
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat: '41.191835'
+  long: "-104.356105"
+  closest_city:
+    name: Burns
+    distance_km: 0.26
+- country: US
+  region: WY
+  exchange: '341756'
+  name: BURRIS
+  full_name: Burris
+  lata: '654'
+  ilec_name: DUBOIS TEL. EXCH., INC.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341757'
+  name: BYRON
+  full_name: Byron
+  lata: '654'
+  ilec_name: TRI-COUNTY TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341758'
+  name: CALPET
+  full_name: Calpet
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341704'
+  name: CANYON
+  full_name: Canyon Thomas Fork (Lincoln)
+  lata: '652'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341423'
+  name: CANYON
+  full_name: Canyon-Yellowstone National Park (Teton)
+  lata: '650'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341759'
+  name: CARLILE
+  full_name: Carlile
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217750'
+  name: CARPENTER
+  full_name: Carpenter
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat: '41.039645'
+  long: "-104.367097"
+  closest_city:
+    name: Carpenter
+    distance_km: 0.7
+- country: US
+  region: WY
+  exchange: '341761'
+  name: CARTER
+  full_name: Carter
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217760'
+  name: CASPER
+  full_name: Casper
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '42.84196'
+  long: "-106.327097"
+  closest_city:
+    name: Casper
+    distance_km: 0.51
+- country: US
+  region: WY
+  exchange: '217770'
+  name: CHEYENNE
+  full_name: Cheyenne
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '41.139234'
+  long: "-104.816176"
+  closest_city:
+    name: Cheyenne
+    distance_km: 2.23
+- country: US
+  region: WY
+  exchange: '217780'
+  name: CHUGWATER
+  full_name: Chugwater
+  lata: '654'
+  ilec_name: CHUGWATER TEL. CO.
+  lat: '41.758612'
+  long: "-104.823315"
+  closest_city:
+    name: Chugwater
+    distance_km: 0.33
+- country: US
+  region: WY
+  exchange: '341765'
+  name: CLARETON
+  full_name: Clareton
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217790'
+  name: CLARK
+  full_name: Clark
+  lata: '650'
+  ilec_name: PROJECT TEL. CO., INC.
+  lat: '44.915032'
+  long: "-109.183675"
+  closest_city:
+    name: Ralston
+    distance_km: 33.05
+- country: US
+  region: WY
+  exchange: '217800'
+  name: CLEARMONT
+  full_name: Clearmont
+  lata: '654'
+  ilec_name: RANGE TEL COOP INC
+  lat: '44.633894'
+  long: "-106.374442"
+  closest_city:
+    name: Clearmont
+    distance_km: 0.85
+- country: US
+  region: WY
+  exchange: '217810'
+  name: CODY
+  full_name: Cody
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '44.531166'
+  long: "-109.049063"
+  closest_city:
+    name: Cody
+    distance_km: 1.19
+- country: US
+  region: WY
+  exchange: '217820'
+  name: COKEVILLE
+  full_name: Cokeville
+  lata: '654'
+  ilec_name: ALL WEST COMMUNICATIONS - WY
+  lat: '42.082909'
+  long: "-110.960476"
+  closest_city:
+    name: Cokeville
+    distance_km: 1.67
+- country: US
+  region: WY
+  exchange: '340375'
+  name: COLONY
+  full_name: Colony
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341769'
+  name: CORA
+  full_name: Cora
+  lata: '654'
+  ilec_name: CENTURYTEL OF WYOMING, INC. DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341770'
+  name: COWLEY
+  full_name: Cowley
+  lata: '654'
+  ilec_name: TRI-COUNTY TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341771'
+  name: CRESTON
+  full_name: Creston
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217830'
+  name: CROWHEART
+  full_name: Crowheart
+  lata: '654'
+  ilec_name: DUBOIS TEL. EXCH., INC.
+  lat: '43.310169'
+  long: "-109.193198"
+  closest_city:
+    name: Crowheart
+    distance_km: 4.43
+- country: US
+  region: WY
+  exchange: '217840'
+  name: DANIEL
+  full_name: Daniel
+  lata: '654'
+  ilec_name: CENTURYTEL OF WYOMING, INC. DBA CENTURYLINK
+  lat: '42.883296'
+  long: "-110.06797"
+  closest_city:
+    name: Daniel
+    distance_km: 2.08
+- country: US
+  region: WY
+  exchange: '341774'
+  name: DAYTON
+  full_name: Dayton
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218361'
+  name: DYTNRNCHTR
+  full_name: Dayton-Ranchester
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '45.010643'
+  long: "-107.294186"
+  closest_city:
+    name: Parkman
+    distance_km: 6.96
+- country: US
+  region: WY
+  exchange: '341775'
+  name: DEAVER
+  full_name: Deaver
+  lata: '654'
+  ilec_name: TRI-COUNTY TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217850'
+  name: DECKER
+  full_name: Decker
+  lata: '654'
+  ilec_name: RANGE TEL COOP INC
+  lat: '45.02421'
+  long: "-106.846605"
+  closest_city:
+    name: Sheridan
+    distance_km: 27.0
+- country: US
+  region: WY
+  exchange: '341777'
+  name: DEVILS TWR
+  full_name: Devils Tower
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341778'
+  name: DIAMOND
+  full_name: Diamond
+  lata: '654'
+  ilec_name: CHUGWATER TEL. CO.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341779'
+  name: DIXON
+  full_name: Dixon
+  lata: '654'
+  ilec_name: DUBOIS TEL. EXCH., INC.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217860'
+  name: DOUGLAS
+  full_name: Douglas
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '42.75677'
+  long: "-105.366795"
+  closest_city:
+    name: Douglas
+    distance_km: 2.47
+- country: US
+  region: WY
+  exchange: '217870'
+  name: DUBOIS
+  full_name: Dubois
+  lata: '654'
+  ilec_name: DUBOIS TEL. EXCH., INC.
+  lat: '43.535205'
+  long: "-109.631047"
+  closest_city:
+    name: Dubois
+    distance_km: 1.14
+- country: US
+  region: WY
+  exchange: '341782'
+  name: EDEN
+  full_name: Eden
+  lata: '654'
+  ilec_name: CENTURYTEL OF WYOMING, INC. DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341783'
+  name: EDGERTON
+  full_name: Edgerton
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341784'
+  name: EGBERT
+  full_name: Egbert
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218011'
+  name: ELK MT
+  full_name: Elk Mountain
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341786'
+  name: ELMO
+  full_name: Elmo
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341787'
+  name: EMBLEM
+  full_name: Emblem
+  lata: '654'
+  ilec_name: TRI-COUNTY TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217880'
+  name: ENCAMPMENT
+  full_name: Encampment
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat: '41.209571'
+  long: "-106.791133"
+  closest_city:
+    name: Encampment
+    distance_km: 0.32
+- country: US
+  region: WY
+  exchange: '341789'
+  name: ETHETE
+  full_name: Ethete
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341790'
+  name: ETNA
+  full_name: Etna
+  lata: '654'
+  ilec_name: SILVER STAR TEL CO INC
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217890'
+  name: EVANSTON
+  full_name: Evanston
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '41.268072'
+  long: "-110.967819"
+  closest_city:
+    name: Evanston
+    distance_km: 0.92
+- country: US
+  region: WY
+  exchange: '341792'
+  name: EVANSVILLE
+  full_name: Evansville
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217900'
+  name: FARSON
+  full_name: Farson
+  lata: '654'
+  ilec_name: CENTURYTEL OF WYOMING, INC. DBA CENTURYLINK
+  lat: '42.106593'
+  long: "-109.431463"
+  closest_city:
+    name: Farson
+    distance_km: 5.14
+- country: US
+  region: WY
+  exchange: '341794'
+  name: FEDERAL
+  full_name: Federal
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341795'
+  name: FONTENELLE
+  full_name: Fontenelle
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218252'
+  name: FT BRIDGER
+  full_name: Fort Bridger
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '406490'
+  name: FT LARAMIE
+  full_name: Fort Laramie
+  lata: '646'
+  ilec_name: UNITED TEL CO WEST - WY DBA CENTURYLINK WEST - WY
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218451'
+  name: FT LARAMIE
+  full_name: Fort Laramie
+  lata: '646'
+  ilec_name: UNITED TEL CO WEST - WY DBA CENTURYLINK WEST - WY
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341796'
+  name: FORTSTEELE
+  full_name: Fort Steele
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341803'
+  name: FTWASHAKIE
+  full_name: Fort Washakie
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341797'
+  name: FOUR CNRS
+  full_name: Four Corners
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341798'
+  name: FOXPARK
+  full_name: Foxpark
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341800'
+  name: FRCSEWRAFB
+  full_name: Francis E Warren Air Force Base
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217910'
+  name: FRANNIE
+  full_name: Frannie
+  lata: '654'
+  ilec_name: TRI-COUNTY TEL. ASSN., INC.
+  lat: '44.966696'
+  long: "-108.619856"
+  closest_city:
+    name: Frannie
+    distance_km: 0.48
+- country: US
+  region: WY
+  exchange: '217920'
+  name: FREEDOM
+  full_name: Freedom
+  lata: '654'
+  ilec_name: SILVER STAR TEL CO INC
+  lat: '42.980087'
+  long: "-111.025977"
+  closest_city:
+    name: Freedom
+    distance_km: 0.66
+- country: US
+  region: WY
+  exchange: '341804'
+  name: GARLAND
+  full_name: Garland
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341805'
+  name: GARRETT
+  full_name: Garrett
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217930'
+  name: GAS HILLS
+  full_name: Gas Hills
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat: '42.820566'
+  long: "-107.61024"
+  closest_city:
+    name: Jeffrey City
+    distance_km: 41.67
+- country: US
+  region: WY
+  exchange: '217940'
+  name: GILLETTE
+  full_name: Gillette
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '44.293011'
+  long: "-105.489166"
+  closest_city:
+    name: Gillette
+    distance_km: 2.11
+- country: US
+  region: WY
+  exchange: '217950'
+  name: GLENDO
+  full_name: Glendo
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '42.500942'
+  long: "-105.014757"
+  closest_city:
+    name: Glendo
+    distance_km: 0.95
+- country: US
+  region: WY
+  exchange: '217960'
+  name: GLENROCK
+  full_name: Glenrock
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '42.858386'
+  long: "-105.859746"
+  closest_city:
+    name: Glenrock
+    distance_km: 0.31
+- country: US
+  region: WY
+  exchange: '341810'
+  name: GRANGER
+  full_name: Granger
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341811'
+  name: GRASSCREEK
+  full_name: Grass Creek
+  lata: '654'
+  ilec_name: TRI-COUNTY TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217970'
+  name: GREENRIVER
+  full_name: Green River
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '41.533454'
+  long: "-109.460607"
+  closest_city:
+    name: Green River
+    distance_km: 2.46
+- country: US
+  region: WY
+  exchange: '217980'
+  name: GREYBULL
+  full_name: Greybull
+  lata: '654'
+  ilec_name: TRI-COUNTY TEL. ASSN., INC.
+  lat: '44.491587'
+  long: "-108.050308"
+  closest_city:
+    name: Greybull
+    distance_km: 0.77
+- country: US
+  region: WY
+  exchange: '341814'
+  name: GROVER
+  full_name: Grover
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217990'
+  name: GUERNSEY
+  full_name: Guernsey
+  lata: '646'
+  ilec_name: UNITED TEL CO WEST - WY DBA CENTURYLINK WEST - WY
+  lat: '42.270254'
+  long: "-104.739003"
+  closest_city:
+    name: Guernsey
+    distance_km: 0.61
+- country: US
+  region: WY
+  exchange: '218000'
+  name: HAMITNDOME
+  full_name: Hamilton Dome
+  lata: '654'
+  ilec_name: TRI-COUNTY TEL. ASSN., INC.
+  lat: '43.778984'
+  long: "-108.56477"
+  closest_city:
+    name: Owl Creek
+    distance_km: 0.41
+- country: US
+  region: WY
+  exchange: '341816'
+  name: HAMSFORK
+  full_name: Hamsfork
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218010'
+  name: HANNA
+  full_name: Hanna
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat: '41.866541'
+  long: "-106.566671"
+  closest_city:
+    name: Hanna
+    distance_km: 0.68
+- country: US
+  region: WY
+  exchange: '217991'
+  name: HARTVILLE
+  full_name: Hartville
+  lata: '646'
+  ilec_name: UNITED TEL CO WEST - WY DBA CENTURYLINK WEST - WY
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218161'
+  name: HAT CREEK
+  full_name: Hat Creek
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218452'
+  name: HAWK SPG
+  full_name: Hawk Springs
+  lata: '646'
+  ilec_name: UNITED TEL CO WEST - WY DBA CENTURYLINK WEST - WY
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217751'
+  name: HEREFORD
+  full_name: Hereford
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341818'
+  name: HILAND
+  full_name: Hiland
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '217741'
+  name: HILLSDALE
+  full_name: Hillsdale
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341819'
+  name: HOBACK JCT
+  full_name: Hoback Junction
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341820'
+  name: HORSECREEK
+  full_name: Horse Creek
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341821'
+  name: HUDSON
+  full_name: Hudson
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218020'
+  name: HULETT
+  full_name: Hulett
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat: '44.684682'
+  long: "-104.598879"
+  closest_city:
+    name: Hulett
+    distance_km: 0.21
+- country: US
+  region: WY
+  exchange: '218453'
+  name: HUNTLEY
+  full_name: Huntley
+  lata: '646'
+  ilec_name: UNITED TEL CO WEST - WY DBA CENTURYLINK WEST - WY
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218030'
+  name: HYATTVILLE
+  full_name: Hyattville
+  lata: '654'
+  ilec_name: TRI-COUNTY TEL. ASSN., INC.
+  lat: '44.249516'
+  long: "-107.601867"
+  closest_city:
+    name: Hyattville
+    distance_km: 1.03
+- country: US
+  region: WY
+  exchange: '341824'
+  name: IRON MTN
+  full_name: Iron Mountain
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218040'
+  name: JACKSON
+  full_name: Jackson
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '43.473152'
+  long: "-110.759067"
+  closest_city:
+    name: Jackson
+    distance_km: 1.26
+- country: US
+  region: WY
+  exchange: '341826'
+  name: JACKSON HL
+  full_name: Jackson Hole
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218454'
+  name: JAY EM
+  full_name: Jay Em
+  lata: '646'
+  ilec_name: UNITED TEL CO WEST - WY DBA CENTURYLINK WEST - WY
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218050'
+  name: JEFFREY CY
+  full_name: Jeffrey City
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat: '42.501826'
+  long: "-107.807981"
+  closest_city:
+    name: Jeffrey City
+    distance_km: 2.74
+- country: US
+  region: WY
+  exchange: '341828'
+  name: JELM
+  full_name: Jelm
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341829'
+  name: JENNY LAKE
+  full_name: Jenny Lake
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218060'
+  name: KAYCEE
+  full_name: Kaycee
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat: '43.707133'
+  long: "-106.644148"
+  closest_city:
+    name: Kaycee
+    distance_km: 0.66
+- country: US
+  region: WY
+  exchange: '341831'
+  name: KEELINE
+  full_name: Keeline
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341832'
+  name: KELLY
+  full_name: Kelly
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218070'
+  name: KEMMERER
+  full_name: Kemmerer
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '41.794225'
+  long: "-110.543611"
+  closest_city:
+    name: Diamondville
+    distance_km: 2.0
+- country: US
+  region: WY
+  exchange: '341834'
+  name: KINNEAR
+  full_name: Kinnear
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218162'
+  name: KIRTLEY
+  full_name: Kirtley
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341836'
+  name: KORTES DAM
+  full_name: Kortes Dam
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218080'
+  name: LA GRANGE
+  full_name: La Grange
+  lata: '646'
+  ilec_name: UNITED TEL CO WEST - WY DBA CENTURYLINK WEST - WY
+  lat: '41.640623'
+  long: "-104.165852"
+  closest_city:
+    name: La Grange
+    distance_km: 0.33
+- country: US
+  region: WY
+  exchange: '218090'
+  name: LABARGE
+  full_name: Labarge
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat: '42.247999'
+  long: "-110.192977"
+  closest_city:
+    name: La Barge
+    distance_km: 1.43
+- country: US
+  region: WY
+  exchange: '218100'
+  name: LAKE
+  full_name: Lake
+  lata: '650'
+  ilec_name: QWEST CORPORATION
+  lat: '44.559495'
+  long: "-110.399324"
+  closest_city:
+    name: Mammoth
+    distance_km: 51.53
+- country: US
+  region: WY
+  exchange: '341838'
+  name: LAMONT
+  full_name: Lamont
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218163'
+  name: LANA CREEK
+  full_name: Lana Creek
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341839'
+  name: LANCECREEK
+  full_name: Lance Creek
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218110'
+  name: LANDER
+  full_name: Lander
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '42.83192'
+  long: "-108.734809"
+  closest_city:
+    name: Lander
+    distance_km: 2.05
+- country: US
+  region: WY
+  exchange: '218120'
+  name: LARAMIE
+  full_name: Laramie
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '41.310254'
+  long: "-105.593792"
+  closest_city:
+    name: Laramie
+    distance_km: 1.23
+- country: US
+  region: WY
+  exchange: '218130'
+  name: LEIGHCNYON
+  full_name: Leigh Canyon
+  lata: '652'
+  ilec_name: COLUMBINE TELCO DBA SILVER STAR COMMUNICATIONS
+  lat: '43.790584'
+  long: "-110.998635"
+  closest_city:
+    name: Alta
+    distance_km: 3.22
+- country: US
+  region: WY
+  exchange: '341842'
+  name: LEITER
+  full_name: Leiter
+  lata: '654'
+  ilec_name: RANGE TEL COOP INC
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341843'
+  name: LEO
+  full_name: Leo
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341844'
+  name: LINCH
+  full_name: Linch
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218140'
+  name: LINGLE
+  full_name: Lingle
+  lata: '646'
+  ilec_name: UNITED TEL CO WEST - WY DBA CENTURYLINK WEST - WY
+  lat: '42.134646'
+  long: "-104.335634"
+  closest_city:
+    name: Lingle
+    distance_km: 0.98
+- country: US
+  region: WY
+  exchange: '341849'
+  name: LTLAMERICA
+  full_name: Little America
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341845'
+  name: LONETREE
+  full_name: Lonetree
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341846'
+  name: LOST CABIN
+  full_name: Lost Cabin
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218164'
+  name: LOST SPG
+  full_name: Lost Springs
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218150'
+  name: LOVELL
+  full_name: Lovell
+  lata: '654'
+  ilec_name: TRI-COUNTY TEL. ASSN., INC.
+  lat: '44.839815'
+  long: "-108.391318"
+  closest_city:
+    name: Lovell
+    distance_km: 0.46
+- country: US
+  region: WY
+  exchange: '341850'
+  name: LUCKY MCMP
+  full_name: Lucky Maccamp
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218160'
+  name: LUSK
+  full_name: Lusk
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '42.758081'
+  long: "-104.441888"
+  closest_city:
+    name: Lusk
+    distance_km: 1.39
+- country: US
+  region: WY
+  exchange: '218170'
+  name: LYMAN
+  full_name: Lyman
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat: '41.354835'
+  long: "-110.302932"
+  closest_city:
+    name: Lyman
+    distance_km: 3.08
+- country: US
+  region: WY
+  exchange: '341853'
+  name: LYSITE
+  full_name: Lysite
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218180'
+  name: MAMMOTH
+  full_name: Mammoth
+  lata: '650'
+  ilec_name: QWEST CORPORATION
+  lat: '44.982455'
+  long: "-110.708841"
+  closest_city:
+    name: Mammoth
+    distance_km: 1.6
+- country: US
+  region: WY
+  exchange: '341427'
+  name: MMMTHHTSPG
+  full_name: Mammoth Hot Springs (Yellowstone Natl Pk) (Park)
+  lata: '650'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341854'
+  name: MANDERSON
+  full_name: Manderson
+  lata: '654'
+  ilec_name: TRI-COUNTY TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218190'
+  name: MANILA
+  full_name: Manila
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat: '41.003143'
+  long: "-109.719859"
+  closest_city:
+    name: Washam
+    distance_km: 1.75
+- country: US
+  region: WY
+  exchange: '341856'
+  name: MANTUA
+  full_name: Mantua
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218165'
+  name: MANVILLE
+  full_name: Manville
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341858'
+  name: MARBLETON
+  full_name: Marbleton
+  lata: '654'
+  ilec_name: CENTURYTEL OF WYOMING, INC. DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341859'
+  name: MAYOWORTH
+  full_name: Mayoworth
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341860'
+  name: MCFADDEN
+  full_name: McFadden
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218191'
+  name: MCKINNON
+  full_name: McKinnon
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218200'
+  name: MEDICINBOW
+  full_name: Medicine Bow
+  lata: '654'
+  ilec_name: CENTURYTEL OF WYOMING, INC. DBA CENTURYLINK
+  lat: '41.899545'
+  long: "-106.202733"
+  closest_city:
+    name: Medicine Bow
+    distance_km: 0.07
+- country: US
+  region: WY
+  exchange: '218210'
+  name: MEETEETSE
+  full_name: Meeteetse
+  lata: '654'
+  ilec_name: TRI-COUNTY TEL. ASSN., INC.
+  lat: '44.157104'
+  long: "-108.867102"
+  closest_city:
+    name: Meeteetse
+    distance_km: 0.56
+- country: US
+  region: WY
+  exchange: '341864'
+  name: MERIDEN
+  full_name: Meriden
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341865'
+  name: MIDVAL
+  full_name: Midval
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218220'
+  name: MIDWEST
+  full_name: Midwest
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat: '43.417497'
+  long: "-106.282589"
+  closest_city:
+    name: Midwest
+    distance_km: 0.84
+- country: US
+  region: WY
+  exchange: '341867'
+  name: MILLS
+  full_name: Mills
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341868'
+  name: MONETA
+  full_name: Moneta
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218230'
+  name: MOORCROFT
+  full_name: Moorcroft
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat: '44.26403'
+  long: "-104.94796"
+  closest_city:
+    name: Moorcroft
+    distance_km: 0.06
+- country: US
+  region: WY
+  exchange: '341870'
+  name: MOOSE
+  full_name: Moose
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218240'
+  name: MORAN
+  full_name: Moran
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '43.868498'
+  long: "-110.584272"
+  closest_city:
+    name: Kelly
+    distance_km: 27.55
+- country: US
+  region: WY
+  exchange: '341872'
+  name: MORTON
+  full_name: Morton
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341874'
+  name: MTN HOME
+  full_name: Mountain Home
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218250'
+  name: MT VIEW
+  full_name: Mountain View
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat: '41.275234'
+  long: "-110.334009"
+  closest_city:
+    name: Mountain View
+    distance_km: 0.32
+- country: US
+  region: WY
+  exchange: '341875'
+  name: MUDDY GAP
+  full_name: Muddy Gap
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341876'
+  name: NATRONA
+  full_name: Natrona
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341877'
+  name: NEW HAVEN
+  full_name: New Haven
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218260'
+  name: NEWCASTLE
+  full_name: Newcastle
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat: '43.859193'
+  long: "-104.205363"
+  closest_city:
+    name: Newcastle
+    distance_km: 1.07
+- country: US
+  region: WY
+  exchange: '218166'
+  name: NODE
+  full_name: Node
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218270'
+  name: OLDFATHFUL
+  full_name: Old Faithful
+  lata: '650'
+  ilec_name: QWEST CORPORATION
+  lat: '44.466082'
+  long: "-110.836604"
+  closest_city:
+    name: Mammoth
+    distance_km: 57.53
+- country: US
+  region: WY
+  exchange: '341880'
+  name: OPAL
+  full_name: Opal
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341881'
+  name: ORIN
+  full_name: Orin
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218261'
+  name: OSAGE
+  full_name: Osage
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341883'
+  name: OSHOTO
+  full_name: Oshoto
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341884'
+  name: OTTO
+  full_name: Otto
+  lata: '654'
+  ilec_name: TRI-COUNTY TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341885'
+  name: PARKERTON
+  full_name: Parkerton
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218362'
+  name: PARKMAN
+  full_name: Parkman
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341887'
+  name: PAVILLION
+  full_name: Pavillion
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218081'
+  name: PHILLIPS
+  full_name: Phillips
+  lata: '646'
+  ilec_name: UNITED TEL CO WEST - WY DBA CENTURYLINK WEST - WY
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341888'
+  name: PIEDMONT
+  full_name: Piedmont
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218280'
+  name: PINEBLUFFS
+  full_name: Pine Bluffs
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat: '41.181794'
+  long: "-104.067164"
+  closest_city:
+    name: Pine Bluffs
+    distance_km: 0.66
+- country: US
+  region: WY
+  exchange: '341889'
+  name: PINE HAVEN
+  full_name: Pine Haven
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218290'
+  name: PINEDALE
+  full_name: Pinedale
+  lata: '654'
+  ilec_name: CENTURYTEL OF WYOMING, INC. DBA CENTURYLINK
+  lat: '42.860448'
+  long: "-109.857002"
+  closest_city:
+    name: Pinedale
+    distance_km: 1.37
+- country: US
+  region: WY
+  exchange: '341892'
+  name: POINTROCKS
+  full_name: Point Of Rocks
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341893'
+  name: POWDER RVR
+  full_name: Powder River
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218300'
+  name: POWELL
+  full_name: Powell
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '44.749056'
+  long: "-108.755524"
+  closest_city:
+    name: Powell
+    distance_km: 5.29
+- country: US
+  region: WY
+  exchange: '340963'
+  name: PRAIRIECTR
+  full_name: Prairie Center
+  lata: '646'
+  ilec_name: UNITED TEL CO WEST - WY DBA CENTURYLINK WEST - WY
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341895'
+  name: QUEALY
+  full_name: Quealy
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341896'
+  name: RANCHESTER
+  full_name: Ranchester
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218310'
+  name: RAWLINS
+  full_name: Rawlins
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '41.789513'
+  long: "-107.232543"
+  closest_city:
+    name: Rawlins
+    distance_km: 0.72
+- country: US
+  region: WY
+  exchange: '341898'
+  name: RAYMOND
+  full_name: Raymond
+  lata: '654'
+  ilec_name: ALL WEST COMMUNICATIONS - WY
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341899'
+  name: RECLUSE
+  full_name: Recluse
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341900'
+  name: RINER
+  full_name: Riner
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341901'
+  name: RIVERSIDE
+  full_name: Riverside
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218320'
+  name: RIVERTON
+  full_name: Riverton
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '43.027285'
+  long: "-108.383651"
+  closest_city:
+    name: Riverton
+    distance_km: 2.99
+- country: US
+  region: WY
+  exchange: '218253'
+  name: ROBERTSON
+  full_name: Robertson
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218330'
+  name: ROCK RIVER
+  full_name: Rock River
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat: '41.740256'
+  long: "-105.97589"
+  closest_city:
+    name: Rock River
+    distance_km: 0.95
+- country: US
+  region: WY
+  exchange: '218340'
+  name: ROCK SPG
+  full_name: Rock Springs
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '41.592024'
+  long: "-109.214472"
+  closest_city:
+    name: Rock Springs
+    distance_km: 0.61
+- country: US
+  region: WY
+  exchange: '340964'
+  name: ROCKEAGLE
+  full_name: Rockeagle
+  lata: '646'
+  ilec_name: UNITED TEL CO WEST - WY DBA CENTURYLINK WEST - WY
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341906'
+  name: ROLLINGHLS
+  full_name: Rolling Hills
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341907'
+  name: ROZET
+  full_name: Rozet
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341908'
+  name: RYAN PARK
+  full_name: Ryan Park
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341909'
+  name: SAND DRAW
+  full_name: Sand Draw
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218350'
+  name: SARATOGA
+  full_name: Saratoga
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat: '41.460532'
+  long: "-106.800052"
+  closest_city:
+    name: Saratoga
+    distance_km: 1.32
+- country: US
+  region: WY
+  exchange: '341911'
+  name: SAVERY
+  full_name: Savery
+  lata: '654'
+  ilec_name: DUBOIS TEL. EXCH., INC.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341912'
+  name: SEMINOEDAM
+  full_name: Seminoe Dam
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341913'
+  name: SHAWNEE
+  full_name: Shawnee
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341914'
+  name: SHELL
+  full_name: Shell
+  lata: '654'
+  ilec_name: TRI-COUNTY TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218360'
+  name: SHERIDAN
+  full_name: Sheridan
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '44.801087'
+  long: "-106.951516"
+  closest_city:
+    name: Sheridan
+    distance_km: 1.14
+- country: US
+  region: WY
+  exchange: '218370'
+  name: SHIRLEBSIN
+  full_name: Shirley Basin
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat: '42.29319'
+  long: "-106.2262"
+  closest_city:
+    name: Medicine Bow
+    distance_km: 43.82
+- country: US
+  region: WY
+  exchange: '218380'
+  name: SHOSHONI
+  full_name: Shoshoni
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat: '43.23236'
+  long: "-108.111008"
+  closest_city:
+    name: Shoshoni
+    distance_km: 0.72
+- country: US
+  region: WY
+  exchange: '341918'
+  name: SINCLAIR
+  full_name: Sinclair
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341919'
+  name: SLATER
+  full_name: Slater
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341920'
+  name: SMOOT
+  full_name: Smoot
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218390'
+  name: SO ALZADA
+  full_name: South Alzada
+  lata: '650'
+  ilec_name: RANGE TEL COOP INC
+  lat: '45.000747'
+  long: "-104.411288"
+  closest_city:
+    name: Hulett
+    distance_km: 38.29
+- country: US
+  region: WY
+  exchange: '341922'
+  name: SOUTHPSCTY
+  full_name: South Pass City
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218400'
+  name: SOUTHWYOLA
+  full_name: South Wyola
+  lata: '650'
+  ilec_name: PROJECT TEL. CO., INC.
+  lat: '44.998605'
+  long: "-107.405816"
+  closest_city:
+    name: Parkman
+    distance_km: 9.5
+- country: US
+  region: WY
+  exchange: '218410'
+  name: SOUTHESRDN
+  full_name: Southeast Sheridan
+  lata: '654'
+  ilec_name: RANGE TEL COOP INC
+  lat: '44.834586'
+  long: "-106.87864"
+  closest_city:
+    name: Sheridan
+    distance_km: 7.99
+- country: US
+  region: WY
+  exchange: '341923'
+  name: STARVLYRCH
+  full_name: Star Valley Ranch
+  lata: '654'
+  ilec_name: SILVER STAR TEL CO INC
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218364'
+  name: STORY
+  full_name: Story
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218420'
+  name: SUNDANCE
+  full_name: Sundance
+  lata: '654'
+  ilec_name: RANGE TEL COOP INC
+  lat: '44.408469'
+  long: "-104.373174"
+  closest_city:
+    name: Sundance
+    distance_km: 0.93
+- country: US
+  region: WY
+  exchange: '217992'
+  name: SUNRISE
+  full_name: Sunrise
+  lata: '646'
+  ilec_name: UNITED TEL CO WEST - WY DBA CENTURYLINK WEST - WY
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341926'
+  name: SUPERIOR
+  full_name: Superior
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341927'
+  name: SUSSEX
+  full_name: Sussex
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341928'
+  name: SWATER STA
+  full_name: Sweetwater Station
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218430'
+  name: TEN SLEEP
+  full_name: Ten Sleep
+  lata: '654'
+  ilec_name: TRI-COUNTY TEL. ASSN., INC.
+  lat: '44.034195'
+  long: "-107.449738"
+  closest_city:
+    name: Ten Sleep
+    distance_km: 0.15
+- country: US
+  region: WY
+  exchange: '341930'
+  name: THAYNE
+  full_name: Thayne
+  lata: '654'
+  ilec_name: SILVER STAR TEL CO INC
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218440'
+  name: THERMOPOLS
+  full_name: Thermopolis
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat: '43.640989'
+  long: "-108.207818"
+  closest_city:
+    name: East Thermopolis
+    distance_km: 0.87
+- country: US
+  region: WY
+  exchange: '218450'
+  name: TORRINGTON
+  full_name: Torrington
+  lata: '646'
+  ilec_name: UNITED TEL CO WEST - WY DBA CENTURYLINK WEST - WY
+  lat: '42.065549'
+  long: "-104.183341"
+  closest_city:
+    name: Torrington
+    distance_km: 0.8
+- country: US
+  region: WY
+  exchange: '341932'
+  name: TURNERVL
+  full_name: Turnerville
+  lata: '654'
+  ilec_name: SILVER STAR TEL CO INC
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341933'
+  name: ULM
+  full_name: Ulm
+  lata: '654'
+  ilec_name: RANGE TEL COOP INC
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218460'
+  name: UPTON
+  full_name: Upton
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat: '44.101475'
+  long: "-104.622248"
+  closest_city:
+    name: Upton
+    distance_km: 1.15
+- country: US
+  region: WY
+  exchange: '218470'
+  name: URIE
+  full_name: Urie
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat: '41.308713'
+  long: "-110.336105"
+  closest_city:
+    name: Urie
+    distance_km: 0.09
+- country: US
+  region: WY
+  exchange: '341936'
+  name: UVA
+  full_name: Uva
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341937'
+  name: VALLEY
+  full_name: Valley
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218167'
+  name: VANTASSELL
+  full_name: Van Tassell
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218455'
+  name: VETERAN
+  full_name: Veteran
+  lata: '646'
+  ilec_name: UNITED TEL CO WEST - WY DBA CENTURYLINK WEST - WY
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341939'
+  name: WAMSUTTER
+  full_name: Wamsutter
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218480'
+  name: WBLLFOURCH
+  full_name: West Belle Fourche
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '44.673498'
+  long: "-104.065442"
+  closest_city:
+    name: Beulah
+    distance_km: 14.24
+- country: US
+  region: WY
+  exchange: '218490'
+  name: W EDGEMONT
+  full_name: West Edgemont
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '43.299072'
+  long: "-104.058605"
+  closest_city:
+    name: Lance Creek
+    distance_km: 56.77
+- country: US
+  region: WY
+  exchange: '218500'
+  name: WEST LYMAN
+  full_name: West Lyman
+  lata: '646'
+  ilec_name: UNITED TEL CO WEST - WY DBA CENTURYLINK WEST - WY
+  lat: '41.915769'
+  long: "-104.039067"
+  closest_city:
+    name: Huntley
+    distance_km: 8.85
+- country: US
+  region: WY
+  exchange: '218510'
+  name: WSPEARFISH
+  full_name: West Spearfish
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '44.490858'
+  long: "-104.069906"
+  closest_city:
+    name: Beulah
+    distance_km: 6.22
+- country: US
+  region: WY
+  exchange: '341940'
+  name: WESTON
+  full_name: Weston
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218520'
+  name: WHEATLAND
+  full_name: Wheatland
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '42.048035'
+  long: "-104.951228"
+  closest_city:
+    name: Wheatland
+    distance_km: 0.8
+- country: US
+  region: WY
+  exchange: '218168'
+  name: WHITMAN
+  full_name: Whitman
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341942'
+  name: WILLWOOD
+  full_name: Willwood
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341943'
+  name: WILSON
+  full_name: Wilson
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '341944'
+  name: WOLF
+  full_name: Wolf
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218530'
+  name: WORLAND
+  full_name: Worland
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat: '44.016984'
+  long: "-107.956246"
+  closest_city:
+    name: Worland
+    distance_km: 1.62
+- country: US
+  region: WY
+  exchange: '218540'
+  name: WRIGHT
+  full_name: Wright
+  lata: '654'
+  ilec_name: QWEST CORPORATION
+  lat: '43.758583'
+  long: "-105.48481"
+  closest_city:
+    name: Wright
+    distance_km: 1.32
+- country: US
+  region: WY
+  exchange: '341431'
+  name: YLSTNNTLPK
+  full_name: Yellowstone National Park
+  lata: '650'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: WY
+  exchange: '218456'
+  name: YODER
+  full_name: Yoder
+  lata: '646'
+  ilec_name: UNITED TEL CO WEST - WY DBA CENTURYLINK WEST - WY
+  lat:
+  long:

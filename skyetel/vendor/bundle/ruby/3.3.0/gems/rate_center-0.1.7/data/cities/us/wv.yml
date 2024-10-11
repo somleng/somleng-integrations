@@ -1,0 +1,5310 @@
+---
+cities:
+- country: US
+  region: WV
+  name: Accoville
+  lat: '37.7652'
+  long: "-81.8270"
+  nearby_rate_centers:
+  - name: MAN
+    distance_km: 4.78
+  - name: GILBERT
+    distance_km: 16.99
+  - name: LOGAN
+    distance_km: 17.09
+- country: US
+  region: WV
+  name: Addison
+  lat: '38.4782'
+  long: "-80.4082"
+  nearby_rate_centers:
+  - name: WEBSTERSPG
+    distance_km: 0.95
+  - name: COWEN
+    distance_km: 15.46
+  - name: HACKER VLY
+    distance_km: 18.01
+- country: US
+  region: WV
+  name: Adrian
+  lat: '38.9069'
+  long: "-80.2729"
+  nearby_rate_centers:
+  - name: BUCKHANNON
+    distance_km: 10.25
+  - name: ROCK CAVE
+    distance_km: 10.28
+  - name: WALKERSVL
+    distance_km: 15.91
+- country: US
+  region: WV
+  name: Albright
+  lat: '39.4937'
+  long: "-79.6399"
+  nearby_rate_centers:
+  - name: KINGWOOD
+    distance_km: 5.19
+  - name: TERRA ALTA
+    distance_km: 10.48
+  - name: TUNNELTON
+    distance_km: 14.14
+- country: US
+  region: WV
+  name: Alderson
+  lat: '37.7277'
+  long: "-80.6436"
+  nearby_rate_centers:
+  - name: ALDERSON
+    distance_km: 0.4
+  - name: UNION
+    distance_km: 17.5
+  - name: LEWISBURG
+    distance_km: 17.66
+- country: US
+  region: WV
+  name: Alum Creek
+  lat: '38.2875'
+  long: "-81.8330"
+  nearby_rate_centers:
+  - name: CHRLSTNZN7
+    distance_km: 1.46
+  - name: CHRLSTNZN5
+    distance_km: 10.59
+  - name: GRIFITHSVL
+    distance_km: 12.83
+- country: US
+  region: WV
+  name: Amherstdale
+  lat: '37.7799'
+  long: "-81.8183"
+  nearby_rate_centers:
+  - name: MAN
+    distance_km: 6.34
+  - name: LOGAN
+    distance_km: 16.94
+  - name: OCEANA
+    distance_km: 17.79
+- country: US
+  region: WV
+  name: Anawalt
+  lat: '37.3364'
+  long: "-81.4407"
+  nearby_rate_centers:
+  - name: ANAWALT
+    distance_km: 0.86
+  - name: MAYBEURY
+    distance_km: 6.56
+  - name: NORTHFORK
+    distance_km: 9.12
+- country: US
+  region: WV
+  name: Anmoore
+  lat: '39.2611'
+  long: "-80.2862"
+  nearby_rate_centers:
+  - name: BRIDGEPORT
+    distance_km: 3.85
+  - name: CLARKSBURG
+    distance_km: 5.01
+  - name: W MILFORD
+    distance_km: 11.45
+- country: US
+  region: WV
+  name: Ansted
+  lat: '38.1356'
+  long: "-81.1038"
+  nearby_rate_centers:
+  - name: ANSTED
+    distance_km: 0.87
+  - name: GAULEY BDG
+    distance_km: 8.2
+  - name: FAYETTEVL
+    distance_km: 8.65
+- country: US
+  region: WV
+  name: Apple Grove
+  lat: '38.6663'
+  long: "-82.1706"
+  nearby_rate_centers:
+  - name: APPLEGROVE
+    distance_km: 1.58
+  - name: UNIONRIDGE
+    distance_km: 16.29
+  - name: BUFFALO
+    distance_km: 18.16
+- country: US
+  region: WV
+  name: Arbovale
+  lat: '38.4353'
+  long: "-79.8116"
+  nearby_rate_centers:
+  - name: ARBOVALE
+    distance_km: 0.71
+  - name: SNOWSHOE
+    distance_km: 16.19
+  - name: MARLINTON
+    distance_km: 33.68
+- country: US
+  region: WV
+  name: Arthurdale
+  lat: '39.4953'
+  long: "-79.8168"
+  nearby_rate_centers:
+  - name: REEDSVILLE
+    distance_km: 0.69
+  - name: KINGWOOD
+    distance_km: 10.72
+  - name: NEWBURG
+    distance_km: 11.74
+- country: US
+  region: WV
+  name: Athens
+  lat: '37.4231'
+  long: "-81.0151"
+  nearby_rate_centers:
+  - name: ATHENS
+    distance_km: 0.11
+  - name: PRINCETON
+    distance_km: 9.29
+  - name: OAKVALE
+    distance_km: 11.38
+- country: US
+  region: WV
+  name: Auburn
+  lat: '39.0961'
+  long: "-80.8562"
+  nearby_rate_centers:
+  - name: LAWFORD
+    distance_km: 7.11
+  - name: GLENVILLE
+    distance_km: 17.62
+  - name: HARRISVL
+    distance_km: 20.66
+- country: US
+  region: WV
+  name: Aurora
+  lat: '39.3254'
+  long: "-79.5546"
+  nearby_rate_centers:
+  - name: EGLON
+    distance_km: 4.31
+  - name: ROWLESBURG
+    distance_km: 10.25
+  - name: TERRA ALTA
+    distance_km: 12.79
+- country: US
+  region: WV
+  name: Bancroft
+  lat: '38.5107'
+  long: "-81.8417"
+  nearby_rate_centers:
+  - name: WINFIELD
+    distance_km: 4.45
+  - name: CHRLSTNZN6
+    distance_km: 9.58
+  - name: SCOTTDEPOT
+    distance_km: 10.31
+- country: US
+  region: WV
+  name: Barboursville
+  lat: '38.4067'
+  long: "-82.2964"
+  nearby_rate_centers:
+  - name: HNTNGTNZN2
+    distance_km: 0.34
+  - name: HNTNGTNZN1
+    distance_km: 12.58
+  - name: MILTON
+    distance_km: 14.68
+- country: US
+  region: WV
+  name: Barrackville
+  lat: '39.5014'
+  long: "-80.1696"
+  nearby_rate_centers:
+  - name: FAIRMONT
+    distance_km: 3.26
+  - name: RIVESVILLE
+    distance_km: 6.45
+  - name: FARMINGTON
+    distance_km: 7.32
+- country: US
+  region: WV
+  name: Bartley
+  lat: '37.3372'
+  long: "-81.7334"
+  nearby_rate_centers:
+  - name: WAR
+    distance_km: 4.65
+  - name: BRADSHAW
+    distance_km: 6.22
+  - name: COALWOOD
+    distance_km: 8.75
+- country: US
+  region: WV
+  name: Bartow
+  lat: '38.5422'
+  long: "-79.7859"
+  nearby_rate_centers:
+  - name: ARBOVALE
+    distance_km: 12.52
+  - name: SNOWSHOE
+    distance_km: 21.9
+  - name: MILL CREEK
+    distance_km: 26.47
+- country: US
+  region: WV
+  name: Bath
+  lat: '39.6247'
+  long: "-78.2275"
+  nearby_rate_centers:
+  - name: BERKELYSPG
+    distance_km: 0.22
+  - name: HEDGESVL
+    distance_km: 21.45
+  - name: PAW PAW
+    distance_km: 22.59
+- country: US
+  region: WV
+  name: Baxter
+  lat: '39.5410'
+  long: "-80.1439"
+  nearby_rate_centers:
+  - name: RIVESVILLE
+    distance_km: 2.26
+  - name: FAIRMONT
+    distance_km: 6.42
+  - name: FARMINGTON
+    distance_km: 9.66
+- country: US
+  region: WV
+  name: Bayard
+  lat: '39.2711'
+  long: "-79.3662"
+  nearby_rate_centers:
+  - name: GORMANIA
+    distance_km: 2.58
+  - name: EGLON
+    distance_km: 13.26
+  - name: DAVIS
+    distance_km: 17.49
+- country: US
+  region: WV
+  name: Beards Fork
+  lat: '38.0645'
+  long: "-81.2279"
+  nearby_rate_centers:
+  - name: ALLOY
+    distance_km: 6.92
+  - name: FAYETTEVL
+    distance_km: 10.95
+  - name: GAULEY BDG
+    distance_km: 11.7
+- country: US
+  region: WV
+  name: Beaver
+  lat: '37.7356'
+  long: "-81.1500"
+  nearby_rate_centers:
+  - name: BECKLEY
+    distance_km: 5.6
+  - name: SHADY SPG
+    distance_km: 5.6
+  - name: SOPHIA
+    distance_km: 9.24
+  - name: FLAT TOP
+    distance_km: 13.69
+- country: US
+  region: WV
+  name: Beckley
+  lat: '37.7877'
+  long: "-81.1841"
+  nearby_rate_centers:
+  - name: BECKLEY
+    distance_km: 1.43
+  - name: SHADY SPG
+    distance_km: 1.43
+  - name: SOPHIA
+    distance_km: 10.57
+  - name: MOUNT HOPE
+    distance_km: 11.86
+- country: US
+  region: WV
+  name: Beech Bottom
+  lat: '40.2181'
+  long: "-80.6588"
+  nearby_rate_centers:
+  - name: BEECHBTTOM
+    distance_km: 1.15
+  - name: WELLSBURG
+    distance_km: 7.71
+  - name: WHELNGZON2
+    distance_km: 8.31
+- country: US
+  region: WV
+  name: Belington
+  lat: '39.0219'
+  long: "-79.9383"
+  nearby_rate_centers:
+  - name: BELINGTON
+    distance_km: 0.7
+  - name: ELKINS
+    distance_km: 13.14
+  - name: PHILIPPI
+    distance_km: 17.66
+- country: US
+  region: WV
+  name: Belle
+  lat: '38.2336'
+  long: "-81.5385"
+  nearby_rate_centers:
+  - name: CHRLSTNZN4
+    distance_km: 0.16
+  - name: EAST BANK
+    distance_km: 8.74
+  - name: CHRLSTNZN1
+    distance_km: 15.43
+- country: US
+  region: WV
+  name: Belmont
+  lat: '39.3787'
+  long: "-81.2634"
+  nearby_rate_centers:
+  - name: BELMONT
+    distance_km: 0.43
+  - name: ST MARYS
+    distance_km: 5.55
+  - name: VALLEY ML
+    distance_km: 12.67
+- country: US
+  region: WV
+  name: Belva
+  lat: '38.2327'
+  long: "-81.1894"
+  nearby_rate_centers:
+  - name: GAULEY BDG
+    distance_km: 7.49
+  - name: ANSTED
+    distance_km: 12.86
+  - name: ALLOY
+    distance_km: 13.14
+- country: US
+  region: WV
+  name: Benwood
+  lat: '40.0139'
+  long: "-80.7328"
+  nearby_rate_centers:
+  - name: WHELNGZON1
+    distance_km: 5.07
+  - name: WHELNGZON3
+    distance_km: 9.1
+  - name: WHELNGZON5
+    distance_km: 11.16
+- country: US
+  region: WV
+  name: Bergoo
+  lat: '38.4849'
+  long: "-80.2981"
+  nearby_rate_centers:
+  - name: WEBSTERSPG
+    distance_km: 10.38
+  - name: HACKER VLY
+    distance_km: 19.12
+  - name: COWEN
+    distance_km: 24.47
+- country: US
+  region: WV
+  name: Berwind
+  lat: '37.2660'
+  long: "-81.6632"
+  nearby_rate_centers:
+  - name: WAR
+    distance_km: 5.6
+  - name: COALWOOD
+    distance_km: 12.9
+  - name: GARY
+    distance_km: 14.8
+- country: US
+  region: WV
+  name: Bethany
+  lat: '40.2053'
+  long: "-80.5629"
+  nearby_rate_centers:
+  - name: BETHANY
+    distance_km: 0.44
+  - name: WHELNGZON2
+    distance_km: 5.2
+  - name: BEECHBTTOM
+    distance_km: 7.51
+- country: US
+  region: WV
+  name: Bethlehem
+  lat: '40.0451'
+  long: "-80.6898"
+  nearby_rate_centers:
+  - name: WHELNGZON1
+    distance_km: 3.11
+  - name: WHELNGZON3
+    distance_km: 4.54
+  - name: WHELNGZON5
+    distance_km: 15.4
+- country: US
+  region: WV
+  name: Beverly
+  lat: '38.8443'
+  long: "-79.8717"
+  nearby_rate_centers:
+  - name: ELKINS
+    distance_km: 9.08
+  - name: MILL CREEK
+    distance_km: 15.05
+  - name: BELINGTON
+    distance_km: 20.63
+- country: US
+  region: WV
+  name: Big Chimney
+  lat: '38.4119'
+  long: "-81.5374"
+  nearby_rate_centers:
+  - name: CHRLSTNZN3
+    distance_km: 4.63
+  - name: CHRLSTNZN1
+    distance_km: 10.88
+  - name: CHRLSTNZN2
+    distance_km: 13.92
+- country: US
+  region: WV
+  name: Big Creek
+  lat: '38.0054'
+  long: "-82.0361"
+  nearby_rate_centers:
+  - name: CHAPMANVL
+    distance_km: 3.8
+  - name: LOGAN
+    distance_km: 17.88
+  - name: MADISON
+    distance_km: 19.34
+- country: US
+  region: WV
+  name: Big Sandy
+  lat: '37.4608'
+  long: "-81.7051"
+  nearby_rate_centers:
+  - name: DAVY
+    distance_km: 4.47
+  - name: IAEGER
+    distance_km: 9.89
+  - name: COALWOOD
+    distance_km: 9.98
+- country: US
+  region: WV
+  name: Birch River
+  lat: '38.4961'
+  long: "-80.7497"
+  nearby_rate_centers:
+  - name: BIRCHRIVER
+    distance_km: 0.55
+  - name: WIDEN
+    distance_km: 11.18
+  - name: COWEN
+    distance_km: 19.12
+- country: US
+  region: WV
+  name: Blacksville
+  lat: '39.7175'
+  long: "-80.2146"
+  nearby_rate_centers:
+  - name: BLACKSVL
+    distance_km: 0.8
+  - name: DAYBROOK
+    distance_km: 5.36
+  - name: CORE
+    distance_km: 9.93
+- country: US
+  region: WV
+  name: Blennerhassett
+  lat: '39.2562'
+  long: "-81.6316"
+  nearby_rate_centers:
+  - name: PRKRSBGZN3
+    distance_km: 1.94
+  - name: PRKRSBGZN1
+    distance_km: 6.34
+  - name: MINERLWLLS
+    distance_km: 12.62
+- country: US
+  region: WV
+  name: Bluefield
+  lat: '37.2608'
+  long: "-81.2143"
+  nearby_rate_centers:
+  - name: BLUEFIELD
+    distance_km: 1.76
+  - name: BLUEWELL
+    distance_km: 5.95
+  - name: BRAMWELL
+    distance_km: 10.99
+- country: US
+  region: WV
+  name: Bluewell
+  lat: '37.3144'
+  long: "-81.2580"
+  nearby_rate_centers:
+  - name: BLUEWELL
+    distance_km: 4.31
+  - name: BRAMWELL
+    distance_km: 4.83
+  - name: BLUEFIELD
+    distance_km: 5.74
+- country: US
+  region: WV
+  name: Boaz
+  lat: '39.3671'
+  long: "-81.4854"
+  nearby_rate_centers:
+  - name: WILLIAMSTN
+    distance_km: 3.42
+  - name: VALLEY ML
+    distance_km: 8.3
+  - name: PRKRSBGZN1
+    distance_km: 13.0
+- country: US
+  region: WV
+  name: Bolivar
+  lat: '39.3241'
+  long: "-77.7517"
+  nearby_rate_centers:
+  - name: HARPESFRRY
+    distance_km: 0.63
+  - name: CHARLES TN
+    distance_km: 10.03
+  - name: SHEPHEDSTN
+    distance_km: 13.01
+- country: US
+  region: WV
+  name: Bolt
+  lat: '37.7623'
+  long: "-81.4189"
+  nearby_rate_centers:
+  - name: GLENDANIEL
+    distance_km: 7.45
+  - name: SOPHIA
+    distance_km: 16.13
+  - name: HELEN
+    distance_km: 17.13
+- country: US
+  region: WV
+  name: Boomer
+  lat: '38.1490'
+  long: "-81.2800"
+  nearby_rate_centers:
+  - name: ALLOY
+    distance_km: 3.83
+  - name: MONTGOMERY
+    distance_km: 4.95
+  - name: GAULEY BDG
+    distance_km: 8.11
+- country: US
+  region: WV
+  name: Booth
+  lat: '39.5976'
+  long: "-80.0191"
+  nearby_rate_centers:
+  - name: LAUREL PT
+    distance_km: 2.39
+  - name: MORGANTOWN
+    distance_km: 6.57
+  - name: RIVESVILLE
+    distance_km: 10.38
+- country: US
+  region: WV
+  name: Bowden
+  lat: '38.9091'
+  long: "-79.7090"
+  nearby_rate_centers:
+  - name: ELKINS
+    distance_km: 12.5
+  - name: HARMAN
+    distance_km: 16.09
+  - name: PARSONS
+    distance_km: 20.63
+- country: US
+  region: WV
+  name: Bradley
+  lat: '37.8675'
+  long: "-81.2046"
+  nearby_rate_centers:
+  - name: MOUNT HOPE
+    distance_km: 4.53
+  - name: BECKLEY
+    distance_km: 10.33
+  - name: SHADY SPG
+    distance_km: 10.33
+  - name: OAK HILL
+    distance_km: 13.06
+- country: US
+  region: WV
+  name: Bradshaw
+  lat: '37.3534'
+  long: "-81.8012"
+  nearby_rate_centers:
+  - name: BRADSHAW
+    distance_km: 0.43
+  - name: WAR
+    distance_km: 10.69
+  - name: IAEGER
+    distance_km: 11.6
+- country: US
+  region: WV
+  name: Bramwell
+  lat: '37.3270'
+  long: "-81.3130"
+  nearby_rate_centers:
+  - name: BRAMWELL
+    distance_km: 0.56
+  - name: MAYBEURY
+    distance_km: 6.76
+  - name: BLUEWELL
+    distance_km: 9.28
+- country: US
+  region: WV
+  name: Brandonville
+  lat: '39.6671'
+  long: "-79.6277"
+  nearby_rate_centers:
+  - name: BRUCETONML
+    distance_km: 1.03
+  - name: CHEAT LAKE
+    distance_km: 21.11
+  - name: KINGWOOD
+    distance_km: 22.21
+- country: US
+  region: WV
+  name: Brandywine
+  lat: '38.6218'
+  long: "-79.2415"
+  nearby_rate_centers:
+  - name: BRANDYWINE
+    distance_km: 0.32
+  - name: FRANKLIN
+    distance_km: 7.53
+  - name: RIVERTON
+    distance_km: 22.16
+- country: US
+  region: WV
+  name: Brenton
+  lat: '37.6004'
+  long: "-81.6351"
+  nearby_rate_centers:
+  - name: PINEVILLE
+    distance_km: 8.28
+  - name: OCEANA
+    distance_km: 11.2
+  - name: DAVY
+    distance_km: 13.82
+- country: US
+  region: WV
+  name: Bridgeport
+  lat: '39.3036'
+  long: "-80.2478"
+  nearby_rate_centers:
+  - name: BRIDGEPORT
+    distance_km: 2.41
+  - name: CLARKSBURG
+    distance_km: 8.81
+  - name: SHINNSTON
+    distance_km: 11.44
+- country: US
+  region: WV
+  name: Brookhaven
+  lat: '39.6062'
+  long: "-79.8812"
+  nearby_rate_centers:
+  - name: CHEAT LAKE
+    distance_km: 5.67
+  - name: MORGANTOWN
+    distance_km: 7.2
+  - name: LAUREL PT
+    distance_km: 12.54
+- country: US
+  region: WV
+  name: Bruceton Mills
+  lat: '39.6594'
+  long: "-79.6406"
+  nearby_rate_centers:
+  - name: BRUCETONML
+    distance_km: 0.67
+  - name: CHEAT LAKE
+    distance_km: 19.97
+  - name: KINGWOOD
+    distance_km: 21.11
+- country: US
+  region: WV
+  name: Bruno
+  lat: '37.6880'
+  long: "-81.8737"
+  nearby_rate_centers:
+  - name: MAN
+    distance_km: 6.21
+  - name: GILBERT
+    distance_km: 8.12
+  - name: OCEANA
+    distance_km: 20.41
+- country: US
+  region: WV
+  name: Brush Fork
+  lat: '37.2805'
+  long: "-81.2450"
+  nearby_rate_centers:
+  - name: BLUEFIELD
+    distance_km: 1.87
+  - name: BLUEWELL
+    distance_km: 4.9
+  - name: BRAMWELL
+    distance_km: 7.5
+- country: US
+  region: WV
+  name: Buckhannon
+  lat: '38.9927'
+  long: "-80.2281"
+  nearby_rate_centers:
+  - name: BUCKHANNON
+    distance_km: 0.36
+  - name: JANE LEW
+    distance_km: 20.18
+  - name: WESTON
+    distance_km: 20.43
+- country: US
+  region: WV
+  name: Bud
+  lat: '37.5329'
+  long: "-81.3821"
+  nearby_rate_centers:
+  - name: MULLENS
+    distance_km: 5.6
+  - name: HELEN
+    distance_km: 12.52
+  - name: NORTHFORK
+    distance_km: 13.42
+- country: US
+  region: WV
+  name: Buffalo
+  lat: '38.6108'
+  long: "-81.9817"
+  nearby_rate_centers:
+  - name: BUFFALO
+    distance_km: 0.67
+  - name: WINFIELD
+    distance_km: 12.61
+  - name: LEON
+    distance_km: 15.61
+- country: US
+  region: WV
+  name: Burlington
+  lat: '39.3370'
+  long: "-78.9223"
+  nearby_rate_centers:
+  - name: BURLINGTON
+    distance_km: 0.86
+  - name: KEYSER
+    distance_km: 12.75
+  - name: ROMNEY
+    distance_km: 14.69
+- country: US
+  region: WV
+  name: Burnsville
+  lat: '38.8579'
+  long: "-80.6538"
+  nearby_rate_centers:
+  - name: BURNSVILLE
+    distance_km: 0.61
+  - name: WALKERSVL
+    distance_km: 17.67
+  - name: GLENVILLE
+    distance_km: 17.91
+- country: US
+  region: WV
+  name: Cairo
+  lat: '39.2068'
+  long: "-81.1543"
+  nearby_rate_centers:
+  - name: CAIRO
+    distance_km: 0.48
+  - name: HARRISVL
+    distance_km: 9.46
+  - name: ELLENBORO
+    distance_km: 10.37
+- country: US
+  region: WV
+  name: Camden-on-Gauley
+  lat: '38.3686'
+  long: "-80.5973"
+  nearby_rate_centers:
+  - name: COWEN
+    distance_km: 5.37
+  - name: CRAIGSVL
+    distance_km: 6.49
+  - name: RICHWOOD
+    distance_km: 17.25
+- country: US
+  region: WV
+  name: Cameron
+  lat: '39.8279'
+  long: "-80.5692"
+  nearby_rate_centers:
+  - name: CAMERON
+    distance_km: 0.79
+  - name: WHELNGZON5
+    distance_km: 18.14
+  - name: HUNDRED
+    distance_km: 18.48
+- country: US
+  region: WV
+  name: Capon Bridge
+  lat: '39.3000'
+  long: "-78.4341"
+  nearby_rate_centers:
+  - name: CAPON BDG
+    distance_km: 1.28
+  - name: AUGUSTA
+    distance_km: 17.28
+  - name: LEVELS
+    distance_km: 23.39
+- country: US
+  region: WV
+  name: Carolina
+  lat: '39.4795'
+  long: "-80.2728"
+  nearby_rate_centers:
+  - name: WORTHINGTN
+    distance_km: 3.49
+  - name: FARMINGTON
+    distance_km: 4.57
+  - name: MANNINGTON
+    distance_km: 7.99
+- country: US
+  region: WV
+  name: Carpendale
+  lat: '39.6278'
+  long: "-78.7896"
+  nearby_rate_centers:
+  - name: RIDGELEY
+    distance_km: 2.78
+  - name: FORT ASHBY
+    distance_km: 13.37
+  - name: LEVELS
+    distance_km: 25.58
+- country: US
+  region: WV
+  name: Cass
+  lat: '38.3970'
+  long: "-79.9200"
+  nearby_rate_centers:
+  - name: SNOWSHOE
+    distance_km: 8.0
+  - name: ARBOVALE
+    distance_km: 9.65
+  - name: MARLINTON
+    distance_km: 24.13
+- country: US
+  region: WV
+  name: Cassville
+  lat: '39.6750'
+  long: "-80.0678"
+  nearby_rate_centers:
+  - name: CORE
+    distance_km: 3.57
+  - name: MT MORRIS
+    distance_km: 4.62
+  - name: LAUREL PT
+    distance_km: 7.22
+- country: US
+  region: WV
+  name: Cedar Grove
+  lat: '38.2223'
+  long: "-81.4378"
+  nearby_rate_centers:
+  - name: EAST BANK
+    distance_km: 1.6
+  - name: CHRLSTNZN4
+    distance_km: 9.04
+  - name: MONTGOMERY
+    distance_km: 11.08
+- country: US
+  region: WV
+  name: Century
+  lat: '39.1003'
+  long: "-80.1883"
+  nearby_rate_centers:
+  - name: BUCKHANNON
+    distance_km: 12.54
+  - name: PHILIPPI
+    distance_km: 13.94
+  - name: JANE LEW
+    distance_km: 18.92
+- country: US
+  region: WV
+  name: Ceredo
+  lat: '38.3961'
+  long: "-82.5535"
+  nearby_rate_centers:
+  - name: HNTNGTNZN4
+    distance_km: 2.44
+  - name: HNTNGTNZN1
+    distance_km: 10.06
+  - name: PRICHARD
+    distance_km: 17.67
+- country: US
+  region: WV
+  name: Chapmanville
+  lat: '37.9727'
+  long: "-82.0215"
+  nearby_rate_centers:
+  - name: CHAPMANVL
+    distance_km: 0.22
+  - name: LOGAN
+    distance_km: 14.06
+  - name: MADISON
+    distance_km: 19.66
+- country: US
+  region: WV
+  name: Charles Town
+  lat: '39.2746'
+  long: "-77.8631"
+  nearby_rate_centers:
+  - name: CHARLES TN
+    distance_km: 1.79
+  - name: HARPESFRRY
+    distance_km: 11.59
+  - name: INWOOD
+    distance_km: 18.1
+- country: US
+  region: WV
+  name: Charleston
+  lat: '38.3484'
+  long: "-81.6322"
+  nearby_rate_centers:
+  - name: CHRLSTNZN1
+    distance_km: 0.27
+  - name: CHRLSTNZN4
+    distance_km: 15.03
+  - name: CHRLSTNZN3
+    distance_km: 15.24
+- country: US
+  region: WV
+  name: Charlton Heights
+  lat: '38.1255'
+  long: "-81.2333"
+  nearby_rate_centers:
+  - name: ALLOY
+    distance_km: 1.41
+  - name: GAULEY BDG
+    distance_km: 5.85
+  - name: MONTGOMERY
+    distance_km: 9.8
+- country: US
+  region: WV
+  name: Chattaroy
+  lat: '37.7062'
+  long: "-82.2737"
+  nearby_rate_centers:
+  - name: WILLIAMSON
+    distance_km: 3.63
+  - name: DELBARTON
+    distance_km: 7.07
+  - name: MATEWAN
+    distance_km: 12.84
+- country: US
+  region: WV
+  name: Chauncey
+  lat: '37.7652'
+  long: "-81.9834"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 9.3
+  - name: MAN
+    distance_km: 9.89
+  - name: DELBARTON
+    distance_km: 19.34
+- country: US
+  region: WV
+  name: Cheat Lake
+  lat: '39.6670'
+  long: "-79.8564"
+  nearby_rate_centers:
+  - name: CHEAT LAKE
+    distance_km: 1.87
+  - name: MORGANTOWN
+    distance_km: 9.46
+  - name: LAUREL PT
+    distance_km: 15.56
+- country: US
+  region: WV
+  name: Chelyan
+  lat: '38.1958'
+  long: "-81.4928"
+  nearby_rate_centers:
+  - name: EAST BANK
+    distance_km: 4.53
+  - name: CHRLSTNZN4
+    distance_km: 5.94
+  - name: MONTGOMERY
+    distance_km: 14.68
+- country: US
+  region: WV
+  name: Chesapeake
+  lat: '38.2232'
+  long: "-81.5363"
+  nearby_rate_centers:
+  - name: CHRLSTNZN4
+    distance_km: 1.27
+  - name: EAST BANK
+    distance_km: 8.26
+  - name: SETH
+    distance_km: 14.97
+- country: US
+  region: WV
+  name: Chester
+  lat: '40.6129'
+  long: "-80.5628"
+  nearby_rate_centers:
+  - name: CHESTER
+    distance_km: 0.63
+  - name: NEWCUMBRLD
+    distance_km: 13.98
+  - name: WEIRTON
+    distance_km: 21.84
+- country: US
+  region: WV
+  name: Clarksburg
+  lat: '39.2862'
+  long: "-80.3232"
+  nearby_rate_centers:
+  - name: CLARKSBURG
+    distance_km: 2.2
+  - name: BRIDGEPORT
+    distance_km: 6.27
+  - name: LUMBERPORT
+    distance_km: 10.11
+- country: US
+  region: WV
+  name: Clay
+  lat: '38.4662'
+  long: "-81.0813"
+  nearby_rate_centers:
+  - name: CLAY
+    distance_km: 1.31
+  - name: IVYDALE
+    distance_km: 8.5
+  - name: NEWTON
+    distance_km: 16.82
+- country: US
+  region: WV
+  name: Clearview
+  lat: '40.1399'
+  long: "-80.6898"
+  nearby_rate_centers:
+  - name: WHELNGZON2
+    distance_km: 8.78
+  - name: WHELNGZON1
+    distance_km: 9.43
+  - name: BEECHBTTOM
+    distance_km: 10.02
+- country: US
+  region: WV
+  name: Clendenin
+  lat: '38.4859'
+  long: "-81.3503"
+  nearby_rate_centers:
+  - name: CLENDENIN
+    distance_km: 0.38
+  - name: NEWTON
+    distance_km: 11.66
+  - name: CHRLSTNZN3
+    distance_km: 13.71
+- country: US
+  region: WV
+  name: Clifton
+  lat: '39.0041'
+  long: "-82.0393"
+  nearby_rate_centers:
+  - name: MASON
+    distance_km: 1.54
+  - name: NEW HAVEN
+    distance_km: 6.5
+  - name: LETART
+    distance_km: 15.28
+- country: US
+  region: WV
+  name: Coal City
+  lat: '37.6776'
+  long: "-81.2180"
+  nearby_rate_centers:
+  - name: SOPHIA
+    distance_km: 4.31
+  - name: HELEN
+    distance_km: 9.92
+  - name: BECKLEY
+    distance_km: 11.17
+  - name: SHADY SPG
+    distance_km: 11.17
+- country: US
+  region: WV
+  name: Coal Fork
+  lat: '38.3185'
+  long: "-81.5229"
+  nearby_rate_centers:
+  - name: CHRLSTNZN4
+    distance_km: 9.5
+  - name: CHRLSTNZN1
+    distance_km: 10.33
+  - name: CHRLSTNZN3
+    distance_km: 12.18
+- country: US
+  region: WV
+  name: Colcord
+  lat: '37.9451'
+  long: "-81.4374"
+  nearby_rate_centers:
+  - name: WHITESVL
+    distance_km: 10.36
+  - name: GLENDANIEL
+    distance_km: 19.85
+  - name: WHARTON
+    distance_km: 21.23
+- country: US
+  region: WV
+  name: Colliers
+  lat: '40.3651'
+  long: "-80.5377"
+  nearby_rate_centers:
+  - name: FOLLANSBEE
+    distance_km: 6.48
+  - name: WEIRTON
+    distance_km: 7.09
+  - name: WELLSBURG
+    distance_km: 11.62
+- country: US
+  region: WV
+  name: Comfort
+  lat: '38.1317'
+  long: "-81.6102"
+  nearby_rate_centers:
+  - name: SETH
+    distance_km: 2.93
+  - name: BRUSHTON
+    distance_km: 9.53
+  - name: CHRLSTNZN4
+    distance_km: 12.94
+- country: US
+  region: WV
+  name: Corinne
+  lat: '37.5710'
+  long: "-81.3614"
+  nearby_rate_centers:
+  - name: MULLENS
+    distance_km: 2.14
+  - name: HELEN
+    distance_km: 7.93
+  - name: PINEVILLE
+    distance_km: 16.13
+- country: US
+  region: WV
+  name: Cottageville
+  lat: '38.8667'
+  long: "-81.8242"
+  nearby_rate_centers:
+  - name: RAVENSWOOD
+    distance_km: 9.87
+  - name: LETART
+    distance_km: 10.29
+  - name: RIPLEY
+    distance_km: 11.08
+- country: US
+  region: WV
+  name: Covel
+  lat: '37.4907'
+  long: "-81.3195"
+  nearby_rate_centers:
+  - name: MATOAKA
+    distance_km: 10.3
+  - name: MULLENS
+    distance_km: 11.6
+  - name: NORTHFORK
+    distance_km: 12.52
+- country: US
+  region: WV
+  name: Cowen
+  lat: '38.4110'
+  long: "-80.5542"
+  nearby_rate_centers:
+  - name: COWEN
+    distance_km: 0.72
+  - name: CRAIGSVL
+    distance_km: 12.51
+  - name: WEBSTERSPG
+    distance_km: 14.35
+- country: US
+  region: WV
+  name: Crab Orchard
+  lat: '37.7410'
+  long: "-81.2298"
+  nearby_rate_centers:
+  - name: SOPHIA
+    distance_km: 4.07
+  - name: BECKLEY
+    distance_km: 5.25
+  - name: SHADY SPG
+    distance_km: 5.25
+  - name: GLENDANIEL
+    distance_km: 10.73
+- country: US
+  region: WV
+  name: Craigsville
+  lat: '38.3246'
+  long: "-80.6450"
+  nearby_rate_centers:
+  - name: CRAIGSVL
+    distance_km: 0.3
+  - name: COWEN
+    distance_km: 11.78
+  - name: RICHWOOD
+    distance_km: 15.42
+- country: US
+  region: WV
+  name: Crooked Creek
+  lat: '37.8839'
+  long: "-81.9747"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 4.15
+  - name: CHAPMANVL
+    distance_km: 10.77
+  - name: MAN
+    distance_km: 17.9
+- country: US
+  region: WV
+  name: Cross Lanes
+  lat: '38.4351'
+  long: "-81.7707"
+  nearby_rate_centers:
+  - name: CHRLSTNZN6
+    distance_km: 6.46
+  - name: CHRLSTNZN5
+    distance_km: 8.09
+  - name: CHRLSTNZN2
+    distance_km: 11.54
+- country: US
+  region: WV
+  name: Crum
+  lat: '37.9095'
+  long: "-82.4470"
+  nearby_rate_centers:
+  - name: KERMIT
+    distance_km: 8.26
+  - name: DUNLOW
+    distance_km: 12.79
+  - name: FORT GAY
+    distance_km: 26.37
+- country: US
+  region: WV
+  name: Crumpler
+  lat: '37.4262'
+  long: "-81.3313"
+  nearby_rate_centers:
+  - name: MAYBEURY
+    distance_km: 7.99
+  - name: MATOAKA
+    distance_km: 8.03
+  - name: NORTHFORK
+    distance_km: 8.55
+- country: US
+  region: WV
+  name: Cucumber
+  lat: '37.2786'
+  long: "-81.6241"
+  nearby_rate_centers:
+  - name: WAR
+    distance_km: 7.05
+  - name: GARY
+    distance_km: 11.55
+  - name: COALWOOD
+    distance_km: 11.72
+- country: US
+  region: WV
+  name: Culloden
+  lat: '38.4154'
+  long: "-82.0705"
+  nearby_rate_centers:
+  - name: HURRICANE
+    distance_km: 4.32
+  - name: MILTON
+    distance_km: 6.12
+  - name: SCOTTDEPOT
+    distance_km: 12.66
+- country: US
+  region: WV
+  name: Cunard
+  lat: '37.9994'
+  long: "-81.0402"
+  nearby_rate_centers:
+  - name: FAYETTEVL
+    distance_km: 8.52
+  - name: OAK HILL
+    distance_km: 9.35
+  - name: MOUNT HOPE
+    distance_km: 16.07
+- country: US
+  region: WV
+  name: Dailey
+  lat: '38.7968'
+  long: "-79.8967"
+  nearby_rate_centers:
+  - name: MILL CREEK
+    distance_km: 9.54
+  - name: ELKINS
+    distance_km: 14.71
+  - name: BELINGTON
+    distance_km: 25.45
+- country: US
+  region: WV
+  name: Daniels
+  lat: '37.7240'
+  long: "-81.1267"
+  nearby_rate_centers:
+  - name: BECKLEY
+    distance_km: 7.91
+  - name: SHADY SPG
+    distance_km: 7.91
+  - name: SOPHIA
+    distance_km: 10.91
+  - name: FLAT TOP
+    distance_km: 12.12
+- country: US
+  region: WV
+  name: Danville
+  lat: '38.0808'
+  long: "-81.8342"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 2.37
+  - name: BRUSHTON
+    distance_km: 14.38
+  - name: VAN
+    distance_km: 15.73
+- country: US
+  region: WV
+  name: Davis
+  lat: '39.1266'
+  long: "-79.4609"
+  nearby_rate_centers:
+  - name: DAVIS
+    distance_km: 0.93
+  - name: THOMAS
+    distance_km: 3.35
+  - name: CANAAN VLY
+    distance_km: 12.19
+- country: US
+  region: WV
+  name: Davy
+  lat: '37.4759'
+  long: "-81.6475"
+  nearby_rate_centers:
+  - name: DAVY
+    distance_km: 1.04
+  - name: WELCH
+    distance_km: 7.2
+  - name: COALWOOD
+    distance_km: 10.48
+- country: US
+  region: WV
+  name: Deep Water
+  lat: '38.1217'
+  long: "-81.2528"
+  nearby_rate_centers:
+  - name: ALLOY
+    distance_km: 0.42
+  - name: GAULEY BDG
+    distance_km: 7.36
+  - name: MONTGOMERY
+    distance_km: 8.69
+- country: US
+  region: WV
+  name: Delbarton
+  lat: '37.7052'
+  long: "-82.1860"
+  nearby_rate_centers:
+  - name: DELBARTON
+    distance_km: 1.38
+  - name: WILLIAMSON
+    distance_km: 8.49
+  - name: MATEWAN
+    distance_km: 8.8
+- country: US
+  region: WV
+  name: Despard
+  lat: '39.2874'
+  long: "-80.3158"
+  nearby_rate_centers:
+  - name: CLARKSBURG
+    distance_km: 2.78
+  - name: BRIDGEPORT
+    distance_km: 5.65
+  - name: LUMBERPORT
+    distance_km: 10.14
+- country: US
+  region: WV
+  name: Dixie
+  lat: '38.2511'
+  long: "-81.1944"
+  nearby_rate_centers:
+  - name: GAULEY BDG
+    distance_km: 9.55
+  - name: MONTGOMERY
+    distance_km: 14.47
+  - name: ANSTED
+    distance_km: 14.76
+- country: US
+  region: WV
+  name: Dorothy
+  lat: '37.9559'
+  long: "-81.4503"
+  nearby_rate_centers:
+  - name: WHITESVL
+    distance_km: 8.86
+  - name: WHARTON
+    distance_km: 20.42
+  - name: GLENDANIEL
+    distance_km: 21.43
+- country: US
+  region: WV
+  name: Dunbar
+  lat: '38.3688'
+  long: "-81.7345"
+  nearby_rate_centers:
+  - name: CHRLSTNZN5
+    distance_km: 8.92
+  - name: CHRLSTNZN1
+    distance_km: 8.98
+  - name: CHRLSTNZN6
+    distance_km: 11.36
+- country: US
+  region: WV
+  name: Dupont City
+  lat: '38.2657'
+  long: "-81.5691"
+  nearby_rate_centers:
+  - name: CHRLSTNZN4
+    distance_km: 4.32
+  - name: CHRLSTNZN1
+    distance_km: 10.98
+  - name: EAST BANK
+    distance_km: 12.66
+- country: US
+  region: WV
+  name: Durbin
+  lat: '38.5471'
+  long: "-79.8278"
+  nearby_rate_centers:
+  - name: ARBOVALE
+    distance_km: 12.75
+  - name: SNOWSHOE
+    distance_km: 19.29
+  - name: MILL CREEK
+    distance_km: 23.99
+- country: US
+  region: WV
+  name: Earling
+  lat: '37.7668'
+  long: "-81.9161"
+  nearby_rate_centers:
+  - name: MAN
+    distance_km: 4.49
+  - name: LOGAN
+    distance_km: 11.2
+  - name: GILBERT
+    distance_km: 17.44
+- country: US
+  region: WV
+  name: East Bank
+  lat: '38.2153'
+  long: "-81.4442"
+  nearby_rate_centers:
+  - name: EAST BANK
+    distance_km: 0.74
+  - name: CHRLSTNZN4
+    distance_km: 8.64
+  - name: MONTGOMERY
+    distance_km: 11.23
+- country: US
+  region: WV
+  name: East Dailey
+  lat: '38.7795'
+  long: "-79.8911"
+  nearby_rate_centers:
+  - name: MILL CREEK
+    distance_km: 8.58
+  - name: ELKINS
+    distance_km: 16.47
+  - name: BELINGTON
+    distance_km: 27.41
+- country: US
+  region: WV
+  name: East View
+  lat: '39.2691'
+  long: "-80.3051"
+  nearby_rate_centers:
+  - name: CLARKSBURG
+    distance_km: 3.23
+  - name: BRIDGEPORT
+    distance_km: 4.91
+  - name: W MILFORD
+    distance_km: 10.6
+- country: US
+  region: WV
+  name: Eccles
+  lat: '37.7817'
+  long: "-81.2649"
+  nearby_rate_centers:
+  - name: GLENDANIEL
+    distance_km: 6.51
+  - name: BECKLEY
+    distance_km: 6.71
+  - name: SHADY SPG
+    distance_km: 6.71
+  - name: SOPHIA
+    distance_km: 8.35
+- country: US
+  region: WV
+  name: Eleanor
+  lat: '38.5371'
+  long: "-81.9254"
+  nearby_rate_centers:
+  - name: WINFIELD
+    distance_km: 3.43
+  - name: BUFFALO
+    distance_km: 8.91
+  - name: SCOTTDEPOT
+    distance_km: 9.57
+- country: US
+  region: WV
+  name: Elizabeth
+  lat: '39.0616'
+  long: "-81.3979"
+  nearby_rate_centers:
+  - name: ELIZABETH
+    distance_km: 0.75
+  - name: ROCKPORT
+    distance_km: 13.9
+  - name: MINERLWLLS
+    distance_km: 17.07
+- country: US
+  region: WV
+  name: Elk Garden
+  lat: '39.3862'
+  long: "-79.1556"
+  nearby_rate_centers:
+  - name: ELK GARDEN
+    distance_km: 2.3
+  - name: PIEDMONT
+    distance_km: 14.01
+  - name: KEYSER
+    distance_km: 16.77
+- country: US
+  region: WV
+  name: Elkins
+  lat: '38.9237'
+  long: "-79.8541"
+  nearby_rate_centers:
+  - name: ELKINS
+    distance_km: 0.19
+  - name: BELINGTON
+    distance_km: 12.98
+  - name: MILL CREEK
+    distance_km: 23.5
+- country: US
+  region: WV
+  name: Elkview
+  lat: '38.4327'
+  long: "-81.4771"
+  nearby_rate_centers:
+  - name: CHRLSTNZN3
+    distance_km: 1.25
+  - name: CLENDENIN
+    distance_km: 12.3
+  - name: DUTCHRIDGE
+    distance_km: 15.59
+- country: US
+  region: WV
+  name: Ellenboro
+  lat: '39.2678'
+  long: "-81.0551"
+  nearby_rate_centers:
+  - name: ELLENBORO
+    distance_km: 0.99
+  - name: HARRISVL
+    distance_km: 6.41
+  - name: PENNSBORO
+    distance_km: 8.17
+- country: US
+  region: WV
+  name: Enterprise
+  lat: '39.4197'
+  long: "-80.2833"
+  nearby_rate_centers:
+  - name: SHINNSTON
+    distance_km: 1.92
+  - name: WORTHINGTN
+    distance_km: 3.95
+  - name: LUMBERPORT
+    distance_km: 7.57
+- country: US
+  region: WV
+  name: Eskdale
+  lat: '38.0909'
+  long: "-81.4471"
+  nearby_rate_centers:
+  - name: EAST BANK
+    distance_km: 13.1
+  - name: MONTGOMERY
+    distance_km: 13.93
+  - name: WHITESVL
+    distance_km: 14.78
+- country: US
+  region: WV
+  name: Fairlea
+  lat: '37.7756'
+  long: "-80.4582"
+  nearby_rate_centers:
+  - name: LEWISBURG
+    distance_km: 1.01
+  - name: WHSLPHRSPG
+    distance_km: 14.14
+  - name: ALDERSON
+    distance_km: 17.0
+- country: US
+  region: WV
+  name: Fairmont
+  lat: '39.4768'
+  long: "-80.1491"
+  nearby_rate_centers:
+  - name: FAIRMONT
+    distance_km: 1.09
+  - name: RIVESVILLE
+    distance_km: 7.88
+  - name: WORTHINGTN
+    distance_km: 9.91
+- country: US
+  region: WV
+  name: Fairview
+  lat: '39.5927'
+  long: "-80.2469"
+  nearby_rate_centers:
+  - name: FAIRVIEW
+    distance_km: 0.67
+  - name: FARMINGTON
+    distance_km: 8.38
+  - name: DAYBROOK
+    distance_km: 8.88
+- country: US
+  region: WV
+  name: Falling Spring
+  lat: '37.9926'
+  long: "-80.3576"
+  nearby_rate_centers:
+  - name: FRANKFORD
+    distance_km: 7.99
+  - name: HILLSBORO
+    distance_km: 21.32
+  - name: WHSLPHRSPG
+    distance_km: 22.87
+- country: US
+  region: WV
+  name: Falling Waters
+  lat: '39.5637'
+  long: "-77.8875"
+  nearby_rate_centers:
+  - name: FALLNGWTRS
+    distance_km: 3.71
+  - name: HEDGESVL
+    distance_km: 9.47
+  - name: MARTINSBG
+    distance_km: 13.63
+- country: US
+  region: WV
+  name: Falls View
+  lat: '38.1296'
+  long: "-81.2539"
+  nearby_rate_centers:
+  - name: ALLOY
+    distance_km: 0.7
+  - name: GAULEY BDG
+    distance_km: 6.89
+  - name: MONTGOMERY
+    distance_km: 8.06
+- country: US
+  region: WV
+  name: Farmington
+  lat: '39.5119'
+  long: "-80.2515"
+  nearby_rate_centers:
+  - name: FARMINGTON
+    distance_km: 0.62
+  - name: WORTHINGTN
+    distance_km: 6.92
+  - name: MANNINGTON
+    distance_km: 8.13
+- country: US
+  region: WV
+  name: Fayetteville
+  lat: '38.0622'
+  long: "-81.1083"
+  nearby_rate_centers:
+  - name: FAYETTEVL
+    distance_km: 0.67
+  - name: ANSTED
+    distance_km: 8.92
+  - name: OAK HILL
+    distance_km: 10.23
+- country: US
+  region: WV
+  name: Fenwick
+  lat: '38.2287'
+  long: "-80.5803"
+  nearby_rate_centers:
+  - name: RICHWOOD
+    distance_km: 5.11
+  - name: CRAIGSVL
+    distance_km: 12.32
+  - name: COWEN
+    distance_km: 19.98
+- country: US
+  region: WV
+  name: Flatwoods
+  lat: '38.7187'
+  long: "-80.6540"
+  nearby_rate_centers:
+  - name: SUTTON
+    distance_km: 7.55
+  - name: GASSAWAY
+    distance_km: 11.44
+  - name: BURNSVILLE
+    distance_km: 15.63
+- country: US
+  region: WV
+  name: Flemington
+  lat: '39.2666'
+  long: "-80.1285"
+  nearby_rate_centers:
+  - name: FLEMINGTON
+    distance_km: 0.99
+  - name: BRIDGEPORT
+    distance_km: 10.65
+  - name: GRAFTON
+    distance_km: 12.45
+- country: US
+  region: WV
+  name: Follansbee
+  lat: '40.3385'
+  long: "-80.5975"
+  nearby_rate_centers:
+  - name: FOLLANSBEE
+    distance_km: 0.79
+  - name: WELLSBURG
+    distance_km: 7.16
+  - name: WEIRTON
+    distance_km: 8.82
+- country: US
+  region: WV
+  name: Fort Ashby
+  lat: '39.4973'
+  long: "-78.7646"
+  nearby_rate_centers:
+  - name: FORT ASHBY
+    distance_km: 1.64
+  - name: RIDGELEY
+    distance_km: 16.44
+  - name: ROMNEY
+    distance_km: 17.5
+- country: US
+  region: WV
+  name: Fort Gay
+  lat: '38.1201'
+  long: "-82.5950"
+  nearby_rate_centers:
+  - name: FORT GAY
+    distance_km: 0.4
+  - name: PRICHARD
+    distance_km: 13.38
+  - name: DUNLOW
+    distance_km: 17.73
+- country: US
+  region: WV
+  name: Frank
+  lat: '38.5462'
+  long: "-79.8080"
+  nearby_rate_centers:
+  - name: ARBOVALE
+    distance_km: 12.67
+  - name: SNOWSHOE
+    distance_km: 20.58
+  - name: MILL CREEK
+    distance_km: 24.99
+- country: US
+  region: WV
+  name: Franklin
+  lat: '38.6452'
+  long: "-79.3332"
+  nearby_rate_centers:
+  - name: FRANKLIN
+    distance_km: 0.89
+  - name: BRANDYWINE
+    distance_km: 8.41
+  - name: RIVERTON
+    distance_km: 14.78
+- country: US
+  region: WV
+  name: Friendly
+  lat: '39.5137'
+  long: "-81.0618"
+  nearby_rate_centers:
+  - name: SISTERSVL
+    distance_km: 7.87
+  - name: MIDDLEBORN
+    distance_km: 13.48
+  - name: PADEN CITY
+    distance_km: 14.05
+- country: US
+  region: WV
+  name: Gallipolis Ferry
+  lat: '38.7745'
+  long: "-82.2040"
+  nearby_rate_centers:
+  - name: PTPLEASANT
+    distance_km: 11.93
+  - name: APPLEGROVE
+    distance_km: 13.45
+  - name: LEON
+    distance_km: 21.34
+- country: US
+  region: WV
+  name: Galloway
+  lat: '39.2339'
+  long: "-80.1277"
+  nearby_rate_centers:
+  - name: FLEMINGTON
+    distance_km: 3.55
+  - name: PHILIPPI
+    distance_km: 11.11
+  - name: BRIDGEPORT
+    distance_km: 11.86
+- country: US
+  region: WV
+  name: Garten
+  lat: '38.0335'
+  long: "-81.0750"
+  nearby_rate_centers:
+  - name: FAYETTEVL
+    distance_km: 3.65
+  - name: OAK HILL
+    distance_km: 8.83
+  - name: ANSTED
+    distance_km: 12.23
+- country: US
+  region: WV
+  name: Gary
+  lat: '37.3619'
+  long: "-81.5415"
+  nearby_rate_centers:
+  - name: GARY
+    distance_km: 0.8
+  - name: KIMBALL
+    distance_km: 7.6
+  - name: WELCH
+    distance_km: 9.04
+- country: US
+  region: WV
+  name: Gassaway
+  lat: '38.6702'
+  long: "-80.7717"
+  nearby_rate_centers:
+  - name: GASSAWAY
+    distance_km: 0.7
+  - name: SUTTON
+    distance_km: 5.65
+  - name: BIRCHRIVER
+    distance_km: 18.92
+- country: US
+  region: WV
+  name: Gatewood
+  lat: '38.0052'
+  long: "-81.0663"
+  nearby_rate_centers:
+  - name: FAYETTEVL
+    distance_km: 6.68
+  - name: OAK HILL
+    distance_km: 7.48
+  - name: MOUNT HOPE
+    distance_km: 15.14
+- country: US
+  region: WV
+  name: Gauley Bridge
+  lat: '38.1681'
+  long: "-81.2039"
+  nearby_rate_centers:
+  - name: GAULEY BDG
+    distance_km: 1.29
+  - name: ALLOY
+    distance_km: 6.28
+  - name: ANSTED
+    distance_km: 9.69
+- country: US
+  region: WV
+  name: Ghent
+  lat: '37.6221'
+  long: "-81.1057"
+  nearby_rate_centers:
+  - name: FLAT TOP
+    distance_km: 1.24
+  - name: SOPHIA
+    distance_km: 15.79
+  - name: HELEN
+    distance_km: 18.46
+- country: US
+  region: WV
+  name: Gilbert
+  lat: '37.6142'
+  long: "-81.8689"
+  nearby_rate_centers:
+  - name: GILBERT
+    distance_km: 0.4
+  - name: MAN
+    distance_km: 14.42
+  - name: IAEGER
+    distance_km: 18.07
+- country: US
+  region: WV
+  name: Gilbert Creek
+  lat: '37.5697'
+  long: "-81.8906"
+  nearby_rate_centers:
+  - name: GILBERT
+    distance_km: 5.57
+  - name: IAEGER
+    distance_km: 14.11
+  - name: MAN
+    distance_km: 19.42
+- country: US
+  region: WV
+  name: Glasgow
+  lat: '38.2109'
+  long: "-81.4218"
+  nearby_rate_centers:
+  - name: EAST BANK
+    distance_km: 1.92
+  - name: MONTGOMERY
+    distance_km: 9.25
+  - name: CHRLSTNZN4
+    distance_km: 10.66
+- country: US
+  region: WV
+  name: Glen Dale
+  lat: '39.9466'
+  long: "-80.7565"
+  nearby_rate_centers:
+  - name: WHELNGZON5
+    distance_km: 3.64
+  - name: WHELNGZON1
+    distance_km: 12.81
+  - name: WHELNGZON3
+    distance_km: 15.36
+- country: US
+  region: WV
+  name: Glen Ferris
+  lat: '38.1519'
+  long: "-81.2185"
+  nearby_rate_centers:
+  - name: GAULEY BDG
+    distance_km: 2.94
+  - name: ALLOY
+    distance_km: 4.08
+  - name: MONTGOMERY
+    distance_km: 9.81
+- country: US
+  region: WV
+  name: Glen Fork
+  lat: '37.6982'
+  long: "-81.5362"
+  nearby_rate_centers:
+  - name: OCEANA
+    distance_km: 9.34
+  - name: PINEVILLE
+    distance_km: 12.87
+  - name: MULLENS
+    distance_km: 18.76
+- country: US
+  region: WV
+  name: Glen Jean
+  lat: '37.9272'
+  long: "-81.1531"
+  nearby_rate_centers:
+  - name: MOUNT HOPE
+    distance_km: 3.91
+  - name: OAK HILL
+    distance_km: 5.3
+  - name: FAYETTEVL
+    distance_km: 15.17
+- country: US
+  region: WV
+  name: Glen White
+  lat: '37.7300'
+  long: "-81.2797"
+  nearby_rate_centers:
+  - name: SOPHIA
+    distance_km: 3.67
+  - name: GLENDANIEL
+    distance_km: 7.98
+  - name: BECKLEY
+    distance_km: 9.44
+  - name: SHADY SPG
+    distance_km: 9.44
+- country: US
+  region: WV
+  name: Glenville
+  lat: '38.9379'
+  long: "-80.8340"
+  nearby_rate_centers:
+  - name: GLENVILLE
+    distance_km: 0.14
+  - name: LAWFORD
+    distance_km: 16.68
+  - name: BURNSVILLE
+    distance_km: 17.37
+- country: US
+  region: WV
+  name: Grafton
+  lat: '39.3409'
+  long: "-80.0162"
+  nearby_rate_centers:
+  - name: GRAFTON
+    distance_km: 0.69
+  - name: FLEMINGTON
+    distance_km: 12.13
+  - name: NEWBURG
+    distance_km: 15.53
+- country: US
+  region: WV
+  name: Grant Town
+  lat: '39.5590'
+  long: "-80.1771"
+  nearby_rate_centers:
+  - name: RIVESVILLE
+    distance_km: 5.38
+  - name: FAIRVIEW
+    distance_km: 6.5
+  - name: FARMINGTON
+    distance_km: 7.94
+- country: US
+  region: WV
+  name: Grantsville
+  lat: '38.9204'
+  long: "-81.0933"
+  nearby_rate_centers:
+  - name: GRANTSVL
+    distance_km: 0.58
+  - name: ARNOLDSBG
+    distance_km: 14.8
+  - name: SMITHVILLE
+    distance_km: 16.87
+- country: US
+  region: WV
+  name: Granville
+  lat: '39.6472'
+  long: "-79.9975"
+  nearby_rate_centers:
+  - name: MORGANTOWN
+    distance_km: 3.75
+  - name: LAUREL PT
+    distance_km: 4.08
+  - name: MT MORRIS
+    distance_km: 9.24
+- country: US
+  region: WV
+  name: Great Cacapon
+  lat: '39.6144'
+  long: "-78.2857"
+  nearby_rate_centers:
+  - name: BERKELYSPG
+    distance_km: 5.33
+  - name: PAW PAW
+    distance_km: 17.75
+  - name: HEDGESVL
+    distance_km: 25.79
+- country: US
+  region: WV
+  name: Green Bank
+  lat: '38.4267'
+  long: "-79.8343"
+  nearby_rate_centers:
+  - name: ARBOVALE
+    distance_km: 1.49
+  - name: SNOWSHOE
+    distance_km: 14.25
+  - name: MARLINTON
+    distance_km: 31.59
+- country: US
+  region: WV
+  name: Green Spring
+  lat: '39.5242'
+  long: "-78.6301"
+  nearby_rate_centers:
+  - name: LEVELS
+    distance_km: 7.81
+  - name: FORT ASHBY
+    distance_km: 12.8
+  - name: PAW PAW
+    distance_km: 14.89
+- country: US
+  region: WV
+  name: Greenview
+  lat: '37.9964'
+  long: "-81.8202"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 7.13
+  - name: VAN
+    distance_km: 9.46
+  - name: WHARTON
+    distance_km: 16.33
+- country: US
+  region: WV
+  name: Greenville
+  lat: '37.7227'
+  long: "-81.8745"
+  nearby_rate_centers:
+  - name: MAN
+    distance_km: 2.35
+  - name: GILBERT
+    distance_km: 11.97
+  - name: LOGAN
+    distance_km: 17.32
+- country: US
+  region: WV
+  name: Gypsy
+  lat: '39.3648'
+  long: "-80.3070"
+  nearby_rate_centers:
+  - name: LUMBERPORT
+    distance_km: 3.83
+  - name: SHINNSTON
+    distance_km: 4.62
+  - name: WORTHINGTN
+    distance_km: 10.32
+- country: US
+  region: WV
+  name: Hambleton
+  lat: '39.0815'
+  long: "-79.6455"
+  nearby_rate_centers:
+  - name: PARSONS
+    distance_km: 2.96
+  - name: THOMAS
+    distance_km: 14.76
+  - name: DAVIS
+    distance_km: 16.57
+- country: US
+  region: WV
+  name: Hamlin
+  lat: '38.2805'
+  long: "-82.1084"
+  nearby_rate_centers:
+  - name: HAMLIN
+    distance_km: 0.35
+  - name: BRANCHLAND
+    distance_km: 10.43
+  - name: GRIFITHSVL
+    distance_km: 14.51
+- country: US
+  region: WV
+  name: Handley
+  lat: '38.1863'
+  long: "-81.3673"
+  nearby_rate_centers:
+  - name: MONTGOMERY
+    distance_km: 3.78
+  - name: EAST BANK
+    distance_km: 7.12
+  - name: ALLOY
+    distance_km: 12.4
+- country: US
+  region: WV
+  name: Hansford
+  lat: '38.2067'
+  long: "-81.3960"
+  nearby_rate_centers:
+  - name: EAST BANK
+    distance_km: 4.16
+  - name: MONTGOMERY
+    distance_km: 7.05
+  - name: CHRLSTNZN4
+    distance_km: 12.96
+- country: US
+  region: WV
+  name: Harman
+  lat: '38.9211'
+  long: "-79.5245"
+  nearby_rate_centers:
+  - name: HARMAN
+    distance_km: 0.17
+  - name: CANAAN VLY
+    distance_km: 12.42
+  - name: RIVERTON
+    distance_km: 20.37
+- country: US
+  region: WV
+  name: Harpers Ferry
+  lat: '39.3252'
+  long: "-77.7410"
+  nearby_rate_centers:
+  - name: HARPESFRRY
+    distance_km: 0.33
+  - name: CHARLES TN
+    distance_km: 10.93
+  - name: SHEPHEDSTN
+    distance_km: 13.25
+- country: US
+  region: WV
+  name: Harrisville
+  lat: '39.2104'
+  long: "-81.0485"
+  nearby_rate_centers:
+  - name: HARRISVL
+    distance_km: 0.33
+  - name: ELLENBORO
+    distance_km: 5.42
+  - name: CAIRO
+    distance_km: 9.28
+- country: US
+  region: WV
+  name: Hartford City
+  lat: '38.9978'
+  long: "-81.9905"
+  nearby_rate_centers:
+  - name: NEW HAVEN
+    distance_km: 2.37
+  - name: MASON
+    distance_km: 4.26
+  - name: LETART
+    distance_km: 12.68
+- country: US
+  region: WV
+  name: Harts
+  lat: '38.0343'
+  long: "-82.1290"
+  nearby_rate_centers:
+  - name: CHAPMANVL
+    distance_km: 11.48
+  - name: BRANCHLAND
+    distance_km: 21.17
+  - name: LOGAN
+    distance_km: 23.96
+- country: US
+  region: WV
+  name: Hedgesville
+  lat: '39.5544'
+  long: "-77.9944"
+  nearby_rate_centers:
+  - name: HEDGESVL
+    distance_km: 0.49
+  - name: FALLNGWTRS
+    distance_km: 5.52
+  - name: MARTINSBG
+    distance_km: 10.85
+- country: US
+  region: WV
+  name: Helen
+  lat: '37.6374'
+  long: "-81.3130"
+  nearby_rate_centers:
+  - name: HELEN
+    distance_km: 0.62
+  - name: MULLENS
+    distance_km: 8.45
+  - name: SOPHIA
+    distance_km: 9.63
+- country: US
+  region: WV
+  name: Helvetia
+  lat: '38.7058'
+  long: "-80.1993"
+  nearby_rate_centers:
+  - name: HACKER VLY
+    distance_km: 18.41
+  - name: ROCK CAVE
+    distance_km: 18.64
+  - name: MILL CREEK
+    distance_km: 20.17
+- country: US
+  region: WV
+  name: Henderson
+  lat: '38.8305'
+  long: "-82.1360"
+  nearby_rate_centers:
+  - name: PTPLEASANT
+    distance_km: 3.44
+  - name: LEON
+    distance_km: 17.68
+  - name: LETART
+    distance_km: 18.35
+- country: US
+  region: WV
+  name: Hendricks
+  lat: '39.0755'
+  long: "-79.6299"
+  nearby_rate_centers:
+  - name: PARSONS
+    distance_km: 4.46
+  - name: THOMAS
+    distance_km: 13.93
+  - name: DAVIS
+    distance_km: 15.59
+- country: US
+  region: WV
+  name: Henlawson
+  lat: '37.9000'
+  long: "-81.9820"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 5.75
+  - name: CHAPMANVL
+    distance_km: 8.88
+  - name: MAN
+    distance_km: 19.78
+- country: US
+  region: WV
+  name: Hepzibah
+  lat: '39.3309'
+  long: "-80.3341"
+  nearby_rate_centers:
+  - name: LUMBERPORT
+    distance_km: 5.06
+  - name: CLARKSBURG
+    distance_km: 6.47
+  - name: SARDIS
+    distance_km: 8.0
+- country: US
+  region: WV
+  name: Hico
+  lat: '38.1166'
+  long: "-81.0112"
+  nearby_rate_centers:
+  - name: ANSTED
+    distance_km: 8.11
+  - name: FAYETTEVL
+    distance_km: 10.37
+  - name: GAULEY BDG
+    distance_km: 16.51
+- country: US
+  region: WV
+  name: Hillsboro
+  lat: '38.1384'
+  long: "-80.2107"
+  nearby_rate_centers:
+  - name: HILLSBORO
+    distance_km: 0.64
+  - name: MARLINTON
+    distance_km: 14.31
+  - name: FRANKFORD
+    distance_km: 28.43
+- country: US
+  region: WV
+  name: Hilltop
+  lat: '37.9392'
+  long: "-81.1526"
+  nearby_rate_centers:
+  - name: OAK HILL
+    distance_km: 3.99
+  - name: MOUNT HOPE
+    distance_km: 5.22
+  - name: FAYETTEVL
+    distance_km: 13.88
+- country: US
+  region: WV
+  name: Hinkleville
+  lat: '38.9240'
+  long: "-80.2636"
+  nearby_rate_centers:
+  - name: BUCKHANNON
+    distance_km: 8.19
+  - name: ROCK CAVE
+    distance_km: 12.3
+  - name: WALKERSVL
+    distance_km: 17.27
+- country: US
+  region: WV
+  name: Hinton
+  lat: '37.6652'
+  long: "-80.8828"
+  nearby_rate_centers:
+  - name: HINTON
+    distance_km: 1.46
+  - name: FLAT TOP
+    distance_km: 21.34
+  - name: MDW BRIDGE
+    distance_km: 21.73
+- country: US
+  region: WV
+  name: Holden
+  lat: '37.8238'
+  long: "-82.0788"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 8.25
+  - name: DELBARTON
+    distance_km: 15.72
+  - name: CHAPMANVL
+    distance_km: 17.23
+- country: US
+  region: WV
+  name: Hollygrove
+  lat: '38.1908'
+  long: "-81.3946"
+  nearby_rate_centers:
+  - name: EAST BANK
+    distance_km: 4.72
+  - name: MONTGOMERY
+    distance_km: 6.19
+  - name: CHRLSTNZN4
+    distance_km: 13.6
+- country: US
+  region: WV
+  name: Hometown
+  lat: '38.5289'
+  long: "-81.8552"
+  nearby_rate_centers:
+  - name: WINFIELD
+    distance_km: 3.15
+  - name: SCOTTDEPOT
+    distance_km: 10.95
+  - name: CHRLSTNZN6
+    distance_km: 11.65
+- country: US
+  region: WV
+  name: Hooverson Heights
+  lat: '40.3189'
+  long: "-80.5825"
+  nearby_rate_centers:
+  - name: FOLLANSBEE
+    distance_km: 2.09
+  - name: WELLSBURG
+    distance_km: 5.32
+  - name: WEIRTON
+    distance_km: 10.95
+- country: US
+  region: WV
+  name: Hundred
+  lat: '39.6835'
+  long: "-80.4575"
+  nearby_rate_centers:
+  - name: HUNDRED
+    distance_km: 0.21
+  - name: WADESTOWN
+    distance_km: 10.11
+  - name: CAMERON
+    distance_km: 18.22
+- country: US
+  region: WV
+  name: Huntersville
+  lat: '38.1860'
+  long: "-80.0152"
+  nearby_rate_centers:
+  - name: MARLINTON
+    distance_km: 8.09
+  - name: HILLSBORO
+    distance_km: 17.48
+  - name: SNOWSHOE
+    distance_km: 27.79
+- country: US
+  region: WV
+  name: Huntington
+  lat: '38.4109'
+  long: "-82.4345"
+  nearby_rate_centers:
+  - name: HNTNGTNZN1
+    distance_km: 0.65
+  - name: HNTNGTNZN2
+    distance_km: 12.23
+  - name: HNTNGTNZN4
+    distance_km: 12.81
+- country: US
+  region: WV
+  name: Hurricane
+  lat: '38.4293'
+  long: "-82.0182"
+  nearby_rate_centers:
+  - name: HURRICANE
+    distance_km: 0.66
+  - name: SCOTTDEPOT
+    distance_km: 7.84
+  - name: MILTON
+    distance_km: 10.1
+- country: US
+  region: WV
+  name: Huttonsville
+  lat: '38.7139'
+  long: "-79.9765"
+  nearby_rate_centers:
+  - name: MILL CREEK
+    distance_km: 2.14
+  - name: ELKINS
+    distance_km: 25.78
+  - name: SNOWSHOE
+    distance_km: 31.01
+- country: US
+  region: WV
+  name: Iaeger
+  lat: '37.4642'
+  long: "-81.8111"
+  nearby_rate_centers:
+  - name: IAEGER
+    distance_km: 0.96
+  - name: BRADSHAW
+    distance_km: 11.97
+  - name: DAVY
+    distance_km: 13.49
+- country: US
+  region: WV
+  name: Idamay
+  lat: '39.4930'
+  long: "-80.2572"
+  nearby_rate_centers:
+  - name: FARMINGTON
+    distance_km: 2.75
+  - name: WORTHINGTN
+    distance_km: 4.79
+  - name: MANNINGTON
+    distance_km: 8.32
+- country: US
+  region: WV
+  name: Institute
+  lat: '38.3797'
+  long: "-81.7662"
+  nearby_rate_centers:
+  - name: CHRLSTNZN5
+    distance_km: 6.03
+  - name: CHRLSTNZN6
+    distance_km: 8.39
+  - name: CHRLSTNZN7
+    distance_km: 11.7
+- country: US
+  region: WV
+  name: Inwood
+  lat: '39.3538'
+  long: "-78.0552"
+  nearby_rate_centers:
+  - name: INWOOD
+    distance_km: 1.19
+  - name: MARTINSBG
+    distance_km: 13.79
+  - name: CHARLES TN
+    distance_km: 18.22
+- country: US
+  region: WV
+  name: Itmann
+  lat: '37.5734'
+  long: "-81.4146"
+  nearby_rate_centers:
+  - name: MULLENS
+    distance_km: 3.22
+  - name: HELEN
+    distance_km: 10.94
+  - name: PINEVILLE
+    distance_km: 11.43
+- country: US
+  region: WV
+  name: Jacksonburg
+  lat: '39.5304'
+  long: "-80.6404"
+  nearby_rate_centers:
+  - name: PINE GROVE
+    distance_km: 4.37
+  - name: SMITHFIELD
+    distance_km: 8.46
+  - name: READER
+    distance_km: 8.89
+- country: US
+  region: WV
+  name: Jane Lew
+  lat: '39.1100'
+  long: "-80.4085"
+  nearby_rate_centers:
+  - name: JANE LEW
+    distance_km: 0.14
+  - name: WESTON
+    distance_km: 8.72
+  - name: W MILFORD
+    distance_km: 11.12
+- country: US
+  region: WV
+  name: Jefferson
+  lat: '38.3702'
+  long: "-81.7710"
+  nearby_rate_centers:
+  - name: CHRLSTNZN5
+    distance_km: 5.77
+  - name: CHRLSTNZN6
+    distance_km: 8.75
+  - name: CHRLSTNZN7
+    distance_km: 10.57
+- country: US
+  region: WV
+  name: Junior
+  lat: '38.9782'
+  long: "-79.9504"
+  nearby_rate_centers:
+  - name: BELINGTON
+    distance_km: 5.38
+  - name: ELKINS
+    distance_km: 10.38
+  - name: PHILIPPI
+    distance_km: 21.54
+- country: US
+  region: WV
+  name: Justice
+  lat: '37.5993'
+  long: "-81.8381"
+  nearby_rate_centers:
+  - name: GILBERT
+    distance_km: 2.94
+  - name: IAEGER
+    distance_km: 15.93
+  - name: MAN
+    distance_km: 16.38
+- country: US
+  region: WV
+  name: Justice Addition
+  lat: '37.8916'
+  long: "-81.9928"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 4.78
+  - name: CHAPMANVL
+    distance_km: 9.42
+  - name: MAN
+    distance_km: 19.46
+- country: US
+  region: WV
+  name: Kanawha
+  lat: '39.2017'
+  long: "-81.4592"
+  nearby_rate_centers:
+  - name: MINERLWLLS
+    distance_km: 5.77
+  - name: PRKRSBGZN2
+    distance_km: 8.05
+  - name: PRKRSBGZN1
+    distance_km: 11.09
+- country: US
+  region: WV
+  name: Kenova
+  lat: '38.4026'
+  long: "-82.5822"
+  nearby_rate_centers:
+  - name: HNTNGTNZN4
+    distance_km: 0.26
+  - name: HNTNGTNZN1
+    distance_km: 12.42
+  - name: PRICHARD
+    distance_km: 18.06
+- country: US
+  region: WV
+  name: Kermit
+  lat: '37.8425'
+  long: "-82.4086"
+  nearby_rate_centers:
+  - name: KERMIT
+    distance_km: 0.21
+  - name: DUNLOW
+    distance_km: 20.3
+  - name: WILLIAMSON
+    distance_km: 22.21
+- country: US
+  region: WV
+  name: Keyser
+  lat: '39.4394'
+  long: "-78.9821"
+  nearby_rate_centers:
+  - name: KEYSER
+    distance_km: 0.78
+  - name: PIEDMONT
+    distance_km: 7.48
+  - name: BURLINGTON
+    distance_km: 13.32
+- country: US
+  region: WV
+  name: Keystone
+  lat: '37.4158'
+  long: "-81.4463"
+  nearby_rate_centers:
+  - name: NORTHFORK
+    distance_km: 1.68
+  - name: KIMBALL
+    distance_km: 5.21
+  - name: MAYBEURY
+    distance_km: 8.63
+- country: US
+  region: WV
+  name: Kimball
+  lat: '37.4268'
+  long: "-81.5078"
+  nearby_rate_centers:
+  - name: KIMBALL
+    distance_km: 0.46
+  - name: WELCH
+    distance_km: 6.73
+  - name: NORTHFORK
+    distance_km: 7.16
+- country: US
+  region: WV
+  name: Kimberly
+  lat: '38.1407'
+  long: "-81.2967"
+  nearby_rate_centers:
+  - name: ALLOY
+    distance_km: 4.52
+  - name: MONTGOMERY
+    distance_km: 4.52
+  - name: GAULEY BDG
+    distance_km: 9.76
+- country: US
+  region: WV
+  name: Kincaid
+  lat: '38.0382'
+  long: "-81.2759"
+  nearby_rate_centers:
+  - name: ALLOY
+    distance_km: 9.86
+  - name: OAK HILL
+    distance_km: 13.74
+  - name: FAYETTEVL
+    distance_km: 15.29
+- country: US
+  region: WV
+  name: Kingwood
+  lat: '39.4719'
+  long: "-79.6822"
+  nearby_rate_centers:
+  - name: KINGWOOD
+    distance_km: 1.12
+  - name: TUNNELTON
+    distance_km: 10.08
+  - name: REEDSVILLE
+    distance_km: 11.75
+- country: US
+  region: WV
+  name: Kistler
+  lat: '37.7656'
+  long: "-81.8578"
+  nearby_rate_centers:
+  - name: MAN
+    distance_km: 2.81
+  - name: LOGAN
+    distance_km: 14.86
+  - name: GILBERT
+    distance_km: 16.72
+- country: US
+  region: WV
+  name: Kopperston
+  lat: '37.7502'
+  long: "-81.5764"
+  nearby_rate_centers:
+  - name: OCEANA
+    distance_km: 7.97
+  - name: PINEVILLE
+    distance_km: 18.85
+  - name: WHARTON
+    distance_km: 19.27
+- country: US
+  region: WV
+  name: Lashmeet
+  lat: '37.4228'
+  long: "-81.1967"
+  nearby_rate_centers:
+  - name: MATOAKA
+    distance_km: 3.87
+  - name: PRINCETON
+    distance_km: 9.99
+  - name: BLUEWELL
+    distance_km: 12.13
+- country: US
+  region: WV
+  name: Lavalette
+  lat: '38.3224'
+  long: "-82.4479"
+  nearby_rate_centers:
+  - name: HNTNGTNZN1
+    distance_km: 10.25
+  - name: WAYNE
+    distance_km: 10.65
+  - name: HNTNGTNZN4
+    distance_km: 14.49
+- country: US
+  region: WV
+  name: Leon
+  lat: '38.7471'
+  long: "-81.9555"
+  nearby_rate_centers:
+  - name: LEON
+    distance_km: 0.51
+  - name: BUFFALO
+    distance_km: 15.7
+  - name: LETART
+    distance_km: 16.07
+- country: US
+  region: WV
+  name: Lesage
+  lat: '38.4870'
+  long: "-82.2930"
+  nearby_rate_centers:
+  - name: UNIONRIDGE
+    distance_km: 6.36
+  - name: HNTNGTNZN2
+    distance_km: 8.66
+  - name: MILTON
+    distance_km: 14.85
+- country: US
+  region: WV
+  name: Lester
+  lat: '37.7349'
+  long: "-81.3014"
+  nearby_rate_centers:
+  - name: SOPHIA
+    distance_km: 5.52
+  - name: GLENDANIEL
+    distance_km: 6.41
+  - name: BECKLEY
+    distance_km: 10.86
+  - name: SHADY SPG
+    distance_km: 10.86
+- country: US
+  region: WV
+  name: Lewisburg
+  lat: '37.8096'
+  long: "-80.4327"
+  nearby_rate_centers:
+  - name: LEWISBURG
+    distance_km: 3.46
+  - name: WHSLPHRSPG
+    distance_km: 11.93
+  - name: FRANKFORD
+    distance_km: 13.42
+- country: US
+  region: WV
+  name: Littleton
+  lat: '39.7024'
+  long: "-80.5147"
+  nearby_rate_centers:
+  - name: HUNDRED
+    distance_km: 5.15
+  - name: CAMERON
+    distance_km: 14.4
+  - name: WADESTOWN
+    distance_km: 15.26
+- country: US
+  region: WV
+  name: Logan
+  lat: '37.8509'
+  long: "-81.9857"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 0.48
+  - name: CHAPMANVL
+    distance_km: 13.95
+  - name: MAN
+    distance_km: 15.42
+- country: US
+  region: WV
+  name: Lost Creek
+  lat: '39.1628'
+  long: "-80.3483"
+  nearby_rate_centers:
+  - name: W MILFORD
+    distance_km: 6.96
+  - name: JANE LEW
+    distance_km: 7.84
+  - name: CLARKSBURG
+    distance_km: 12.28
+- country: US
+  region: WV
+  name: Lubeck
+  lat: '39.2276'
+  long: "-81.6265"
+  nearby_rate_centers:
+  - name: PRKRSBGZN3
+    distance_km: 1.27
+  - name: PRKRSBGZN1
+    distance_km: 7.16
+  - name: MINERLWLLS
+    distance_km: 10.42
+- country: US
+  region: WV
+  name: Lumberport
+  lat: '39.3741'
+  long: "-80.3484"
+  nearby_rate_centers:
+  - name: LUMBERPORT
+    distance_km: 0.13
+  - name: SHINNSTON
+    distance_km: 6.34
+  - name: SARDIS
+    distance_km: 7.58
+- country: US
+  region: WV
+  name: Mabscott
+  lat: '37.7690'
+  long: "-81.2133"
+  nearby_rate_centers:
+  - name: BECKLEY
+    distance_km: 2.26
+  - name: SHADY SPG
+    distance_km: 2.26
+  - name: SOPHIA
+    distance_km: 7.51
+  - name: GLENDANIEL
+    distance_km: 11.17
+- country: US
+  region: WV
+  name: MacArthur
+  lat: '37.7551'
+  long: "-81.2079"
+  nearby_rate_centers:
+  - name: BECKLEY
+    distance_km: 2.81
+  - name: SHADY SPG
+    distance_km: 2.81
+  - name: SOPHIA
+    distance_km: 6.39
+  - name: GLENDANIEL
+    distance_km: 11.96
+- country: US
+  region: WV
+  name: Madison
+  lat: '38.0631'
+  long: "-81.8046"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 1.94
+  - name: VAN
+    distance_km: 12.56
+  - name: BRUSHTON
+    distance_km: 14.08
+- country: US
+  region: WV
+  name: Malden
+  lat: '38.3008'
+  long: "-81.5580"
+  nearby_rate_centers:
+  - name: CHRLSTNZN4
+    distance_km: 7.57
+  - name: CHRLSTNZN1
+    distance_km: 8.63
+  - name: EAST BANK
+    distance_km: 14.31
+- country: US
+  region: WV
+  name: Mallory
+  lat: '37.7302'
+  long: "-81.8243"
+  nearby_rate_centers:
+  - name: MAN
+    distance_km: 4.64
+  - name: GILBERT
+    distance_km: 13.26
+  - name: OCEANA
+    distance_km: 16.34
+- country: US
+  region: WV
+  name: Man
+  lat: '37.7522'
+  long: "-81.8923"
+  nearby_rate_centers:
+  - name: MAN
+    distance_km: 1.85
+  - name: LOGAN
+    distance_km: 13.76
+  - name: GILBERT
+    distance_km: 15.41
+- country: US
+  region: WV
+  name: Mannington
+  lat: '39.5274'
+  long: "-80.3409"
+  nearby_rate_centers:
+  - name: MANNINGTON
+    distance_km: 0.42
+  - name: FARMINGTON
+    distance_km: 7.68
+  - name: JOETOWN
+    distance_km: 9.61
+- country: US
+  region: WV
+  name: Marlinton
+  lat: '38.2245'
+  long: "-80.0905"
+  nearby_rate_centers:
+  - name: MARLINTON
+    distance_km: 0.28
+  - name: HILLSBORO
+    distance_km: 13.63
+  - name: SNOWSHOE
+    distance_km: 24.83
+- country: US
+  region: WV
+  name: Marmet
+  lat: '38.2458'
+  long: "-81.5711"
+  nearby_rate_centers:
+  - name: CHRLSTNZN4
+    distance_km: 3.0
+  - name: EAST BANK
+    distance_km: 11.88
+  - name: CHRLSTNZN1
+    distance_km: 12.85
+- country: US
+  region: WV
+  name: Martinsburg
+  lat: '39.4582'
+  long: "-77.9776"
+  nearby_rate_centers:
+  - name: MARTINSBG
+    distance_km: 0.69
+  - name: HEDGESVL
+    distance_km: 10.37
+  - name: FALLNGWTRS
+    distance_km: 12.02
+- country: US
+  region: WV
+  name: Mason
+  lat: '39.0181'
+  long: "-82.0316"
+  nearby_rate_centers:
+  - name: MASON
+    distance_km: 0.17
+  - name: NEW HAVEN
+    distance_km: 6.57
+  - name: LETART
+    distance_km: 16.24
+- country: US
+  region: WV
+  name: Masontown
+  lat: '39.5512'
+  long: "-79.8003"
+  nearby_rate_centers:
+  - name: REEDSVILLE
+    distance_km: 5.7
+  - name: KINGWOOD
+    distance_km: 12.45
+  - name: CHEAT LAKE
+    distance_km: 13.33
+- country: US
+  region: WV
+  name: Matewan
+  lat: '37.6251'
+  long: "-82.1696"
+  nearby_rate_centers:
+  - name: MATEWAN
+    distance_km: 0.35
+  - name: DELBARTON
+    distance_km: 10.31
+  - name: WILLIAMSON
+    distance_km: 10.65
+- country: US
+  region: WV
+  name: Matheny
+  lat: '37.6640'
+  long: "-81.5985"
+  nearby_rate_centers:
+  - name: OCEANA
+    distance_km: 5.63
+  - name: PINEVILLE
+    distance_km: 10.25
+  - name: MULLENS
+    distance_km: 21.22
+- country: US
+  region: WV
+  name: Matoaka
+  lat: '37.4182'
+  long: "-81.2417"
+  nearby_rate_centers:
+  - name: MATOAKA
+    distance_km: 0.48
+  - name: BLUEWELL
+    distance_km: 11.92
+  - name: BRAMWELL
+    distance_km: 12.35
+- country: US
+  region: WV
+  name: Maybeury
+  lat: '37.3675'
+  long: "-81.3572"
+  nearby_rate_centers:
+  - name: MAYBEURY
+    distance_km: 1.61
+  - name: BRAMWELL
+    distance_km: 6.46
+  - name: ANAWALT
+    distance_km: 7.65
+- country: US
+  region: WV
+  name: McConnell
+  lat: '37.8282'
+  long: "-81.9652"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 3.17
+  - name: MAN
+    distance_km: 12.33
+  - name: CHAPMANVL
+    distance_km: 16.87
+- country: US
+  region: WV
+  name: McMechen
+  lat: '39.9854'
+  long: "-80.7335"
+  nearby_rate_centers:
+  - name: WHELNGZON5
+    distance_km: 8.02
+  - name: WHELNGZON1
+    distance_km: 8.21
+  - name: WHELNGZON3
+    distance_km: 10.92
+- country: US
+  region: WV
+  name: Meadow Bridge
+  lat: '37.8613'
+  long: "-80.8561"
+  nearby_rate_centers:
+  - name: MDW BRIDGE
+    distance_km: 0.21
+  - name: RAINELLE
+    distance_km: 14.63
+  - name: RUPERT
+    distance_km: 17.79
+- country: US
+  region: WV
+  name: Middlebourne
+  lat: '39.4947'
+  long: "-80.9070"
+  nearby_rate_centers:
+  - name: MIDDLEBORN
+    distance_km: 0.39
+  - name: SISTERSVL
+    distance_km: 10.25
+  - name: PADEN CITY
+    distance_km: 12.26
+- country: US
+  region: WV
+  name: Middleway
+  lat: '39.3032'
+  long: "-77.9810"
+  nearby_rate_centers:
+  - name: INWOOD
+    distance_km: 8.18
+  - name: CHARLES TN
+    distance_km: 10.52
+  - name: MARTINSBG
+    distance_km: 17.32
+- country: US
+  region: WV
+  name: Mill Creek
+  lat: '38.7319'
+  long: "-79.9725"
+  nearby_rate_centers:
+  - name: MILL CREEK
+    distance_km: 0.28
+  - name: ELKINS
+    distance_km: 23.82
+  - name: BELINGTON
+    distance_km: 32.69
+- country: US
+  region: WV
+  name: Milton
+  lat: '38.4330'
+  long: "-82.1303"
+  nearby_rate_centers:
+  - name: MILTON
+    distance_km: 0.81
+  - name: HURRICANE
+    distance_km: 9.47
+  - name: HNTNGTNZN2
+    distance_km: 14.51
+- country: US
+  region: WV
+  name: Mineralwells
+  lat: '39.1807'
+  long: "-81.5130"
+  nearby_rate_centers:
+  - name: MINERLWLLS
+    distance_km: 0.7
+  - name: PRKRSBGZN1
+    distance_km: 10.17
+  - name: PRKRSBGZN3
+    distance_km: 11.86
+- country: US
+  region: WV
+  name: Mitchell Heights
+  lat: '37.9087'
+  long: "-81.9867"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 6.68
+  - name: CHAPMANVL
+    distance_km: 7.82
+  - name: MAN
+    distance_km: 20.83
+- country: US
+  region: WV
+  name: Monaville
+  lat: '37.8136'
+  long: "-81.9915"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 3.9
+  - name: MAN
+    distance_km: 12.9
+  - name: CHAPMANVL
+    distance_km: 17.91
+- country: US
+  region: WV
+  name: Monongah
+  lat: '39.4598'
+  long: "-80.2185"
+  nearby_rate_centers:
+  - name: WORTHINGTN
+    distance_km: 3.66
+  - name: FARMINGTON
+    distance_km: 7.04
+  - name: FAIRMONT
+    distance_km: 7.26
+- country: US
+  region: WV
+  name: Montcalm
+  lat: '37.3516'
+  long: "-81.2513"
+  nearby_rate_centers:
+  - name: BLUEWELL
+    distance_km: 5.58
+  - name: BRAMWELL
+    distance_km: 6.27
+  - name: MATOAKA
+    distance_km: 7.93
+- country: US
+  region: WV
+  name: Montgomery
+  lat: '38.1750'
+  long: "-81.3245"
+  nearby_rate_centers:
+  - name: MONTGOMERY
+    distance_km: 0.3
+  - name: ALLOY
+    distance_km: 8.65
+  - name: EAST BANK
+    distance_km: 11.06
+- country: US
+  region: WV
+  name: Montrose
+  lat: '39.0673'
+  long: "-79.8143"
+  nearby_rate_centers:
+  - name: BELINGTON
+    distance_km: 11.14
+  - name: PARSONS
+    distance_km: 12.23
+  - name: ELKINS
+    distance_km: 16.21
+- country: US
+  region: WV
+  name: Moorefield
+  lat: '39.0675'
+  long: "-78.9623"
+  nearby_rate_centers:
+  - name: MOOREFIELD
+    distance_km: 0.95
+  - name: LOST RIVER
+    distance_km: 14.8
+  - name: PETERSBURG
+    distance_km: 16.11
+- country: US
+  region: WV
+  name: Morgantown
+  lat: '39.6383'
+  long: "-79.9464"
+  nearby_rate_centers:
+  - name: MORGANTOWN
+    distance_km: 1.13
+  - name: CHEAT LAKE
+    distance_km: 6.54
+  - name: LAUREL PT
+    distance_km: 7.23
+- country: US
+  region: WV
+  name: Moundsville
+  lat: '39.9221'
+  long: "-80.7422"
+  nearby_rate_centers:
+  - name: WHELNGZON5
+    distance_km: 1.06
+  - name: WHELNGZON1
+    distance_km: 15.29
+  - name: WHELNGZON3
+    distance_km: 16.81
+- country: US
+  region: WV
+  name: Mount Carbon
+  lat: '38.1442'
+  long: "-81.2890"
+  nearby_rate_centers:
+  - name: ALLOY
+    distance_km: 4.11
+  - name: MONTGOMERY
+    distance_km: 4.67
+  - name: GAULEY BDG
+    distance_km: 9.01
+- country: US
+  region: WV
+  name: Mount Gay-Shamrock
+  lat: '37.8512'
+  long: "-82.0230"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 2.88
+  - name: CHAPMANVL
+    distance_km: 13.5
+  - name: MAN
+    distance_km: 17.71
+- country: US
+  region: WV
+  name: Mount Hope
+  lat: '37.8976'
+  long: "-81.1737"
+  nearby_rate_centers:
+  - name: MOUNT HOPE
+    distance_km: 0.94
+  - name: OAK HILL
+    distance_km: 8.95
+  - name: BECKLEY
+    distance_km: 13.65
+  - name: SHADY SPG
+    distance_km: 13.65
+- country: US
+  region: WV
+  name: Mullens
+  lat: '37.5812'
+  long: "-81.3855"
+  nearby_rate_centers:
+  - name: MULLENS
+    distance_km: 0.51
+  - name: HELEN
+    distance_km: 8.41
+  - name: PINEVILLE
+    distance_km: 13.95
+- country: US
+  region: WV
+  name: Neibert
+  lat: '37.7861'
+  long: "-81.9341"
+  nearby_rate_centers:
+  - name: MAN
+    distance_km: 7.06
+  - name: LOGAN
+    distance_km: 8.53
+  - name: GILBERT
+    distance_km: 19.95
+- country: US
+  region: WV
+  name: Nettie
+  lat: '38.2183'
+  long: "-80.6889"
+  nearby_rate_centers:
+  - name: CRAIGSVL
+    distance_km: 12.49
+  - name: RICHWOOD
+    distance_km: 14.6
+  - name: SUMMERSVL
+    distance_km: 15.26
+- country: US
+  region: WV
+  name: New Cumberland
+  lat: '40.5072'
+  long: "-80.6115"
+  nearby_rate_centers:
+  - name: NEWCUMBRLD
+    distance_km: 1.97
+  - name: WEIRTON
+    distance_km: 10.23
+  - name: CHESTER
+    distance_km: 11.9
+- country: US
+  region: WV
+  name: New Haven
+  lat: '38.9876'
+  long: "-81.9656"
+  nearby_rate_centers:
+  - name: NEW HAVEN
+    distance_km: 0.27
+  - name: MASON
+    distance_km: 6.69
+  - name: LETART
+    distance_km: 10.98
+- country: US
+  region: WV
+  name: New Martinsville
+  lat: '39.6635'
+  long: "-80.8569"
+  nearby_rate_centers:
+  - name: NEWMRTNSVL
+    distance_km: 2.37
+  - name: PADEN CITY
+    distance_km: 10.16
+  - name: READER
+    distance_km: 15.07
+- country: US
+  region: WV
+  name: New Richmond
+  lat: '37.5734'
+  long: "-81.4870"
+  nearby_rate_centers:
+  - name: PINEVILLE
+    distance_km: 5.11
+  - name: MULLENS
+    distance_km: 9.47
+  - name: HELEN
+    distance_km: 16.5
+- country: US
+  region: WV
+  name: Newark
+  lat: '39.1219'
+  long: "-81.3910"
+  nearby_rate_centers:
+  - name: ELIZABETH
+    distance_km: 7.01
+  - name: MINERLWLLS
+    distance_km: 13.04
+  - name: PRKRSBGZN2
+    distance_km: 13.84
+- country: US
+  region: WV
+  name: Newburg
+  lat: '39.3889'
+  long: "-79.8536"
+  nearby_rate_centers:
+  - name: NEWBURG
+    distance_km: 0.61
+  - name: TUNNELTON
+    distance_km: 9.65
+  - name: REEDSVILLE
+    distance_km: 12.93
+- country: US
+  region: WV
+  name: Newell
+  lat: '40.6175'
+  long: "-80.5997"
+  nearby_rate_centers:
+  - name: CHESTER
+    distance_km: 3.4
+  - name: NEWCUMBRLD
+    distance_km: 14.08
+  - name: WEIRTON
+    distance_km: 22.29
+- country: US
+  region: WV
+  name: Nitro
+  lat: '38.4117'
+  long: "-81.8193"
+  nearby_rate_centers:
+  - name: CHRLSTNZN6
+    distance_km: 2.56
+  - name: CHRLSTNZN5
+    distance_km: 3.51
+  - name: SCOTTDEPOT
+    distance_km: 10.8
+- country: US
+  region: WV
+  name: North Hills
+  lat: '39.3150'
+  long: "-81.5088"
+  nearby_rate_centers:
+  - name: PRKRSBGZN1
+    distance_km: 7.04
+  - name: WILLIAMSTN
+    distance_km: 9.37
+  - name: VALLEY ML
+    distance_km: 9.69
+- country: US
+  region: WV
+  name: Northfork
+  lat: '37.4196'
+  long: "-81.4274"
+  nearby_rate_centers:
+  - name: NORTHFORK
+    distance_km: 0.21
+  - name: KIMBALL
+    distance_km: 6.82
+  - name: MAYBEURY
+    distance_km: 7.83
+- country: US
+  region: WV
+  name: Norton
+  lat: '38.9316'
+  long: "-79.9692"
+  nearby_rate_centers:
+  - name: ELKINS
+    distance_km: 10.16
+  - name: BELINGTON
+    distance_km: 10.81
+  - name: MILL CREEK
+    distance_km: 22.16
+- country: US
+  region: WV
+  name: Nutter Fort
+  lat: '39.2604'
+  long: "-80.3265"
+  nearby_rate_centers:
+  - name: CLARKSBURG
+    distance_km: 1.96
+  - name: BRIDGEPORT
+    distance_km: 6.97
+  - name: W MILFORD
+    distance_km: 8.57
+- country: US
+  region: WV
+  name: Oak Hill
+  lat: '37.9844'
+  long: "-81.1277"
+  nearby_rate_centers:
+  - name: OAK HILL
+    distance_km: 1.69
+  - name: FAYETTEVL
+    distance_km: 8.44
+  - name: MOUNT HOPE
+    distance_km: 10.64
+- country: US
+  region: WV
+  name: Oakvale
+  lat: '37.3323'
+  long: "-80.9704"
+  nearby_rate_centers:
+  - name: OAKVALE
+    distance_km: 1.04
+  - name: ATHENS
+    distance_km: 10.94
+  - name: PRINCETON
+    distance_km: 12.48
+- country: US
+  region: WV
+  name: Oceana
+  lat: '37.6927'
+  long: "-81.6324"
+  nearby_rate_centers:
+  - name: OCEANA
+    distance_km: 1.26
+  - name: PINEVILLE
+    distance_km: 14.52
+  - name: MAN
+    distance_km: 22.01
+- country: US
+  region: WV
+  name: Omar
+  lat: '37.7583'
+  long: "-81.9974"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 10.07
+  - name: MAN
+    distance_km: 10.96
+  - name: DELBARTON
+    distance_km: 17.94
+- country: US
+  region: WV
+  name: Osage
+  lat: '39.6593'
+  long: "-80.0070"
+  nearby_rate_centers:
+  - name: LAUREL PT
+    distance_km: 4.86
+  - name: MORGANTOWN
+    distance_km: 5.13
+  - name: MT MORRIS
+    distance_km: 7.67
+- country: US
+  region: WV
+  name: Paden City
+  lat: '39.6034'
+  long: "-80.9351"
+  nearby_rate_centers:
+  - name: PADEN CITY
+    distance_km: 0.78
+  - name: SISTERSVL
+    distance_km: 6.89
+  - name: NEWMRTNSVL
+    distance_km: 7.7
+- country: US
+  region: WV
+  name: Page
+  lat: '38.0506'
+  long: "-81.2717"
+  nearby_rate_centers:
+  - name: ALLOY
+    distance_km: 8.43
+  - name: OAK HILL
+    distance_km: 14.2
+  - name: MONTGOMERY
+    distance_km: 14.5
+- country: US
+  region: WV
+  name: Pageton
+  lat: '37.3598'
+  long: "-81.4648"
+  nearby_rate_centers:
+  - name: ANAWALT
+    distance_km: 4.16
+  - name: NORTHFORK
+    distance_km: 7.24
+  - name: GARY
+    distance_km: 7.56
+- country: US
+  region: WV
+  name: Parcoal
+  lat: '38.4604'
+  long: "-80.3731"
+  nearby_rate_centers:
+  - name: WEBSTERSPG
+    distance_km: 4.59
+  - name: COWEN
+    distance_km: 17.41
+  - name: HACKER VLY
+    distance_km: 20.02
+- country: US
+  region: WV
+  name: Parkersburg
+  lat: '39.2623'
+  long: "-81.5420"
+  nearby_rate_centers:
+  - name: PRKRSBGZN1
+    distance_km: 1.48
+  - name: PRKRSBGZN3
+    distance_km: 7.88
+  - name: MINERLWLLS
+    distance_km: 9.13
+- country: US
+  region: WV
+  name: Parsons
+  lat: '39.0942'
+  long: "-79.6785"
+  nearby_rate_centers:
+  - name: PARSONS
+    distance_km: 0.22
+  - name: THOMAS
+    distance_km: 16.83
+  - name: DAVIS
+    distance_km: 18.88
+- country: US
+  region: WV
+  name: Paw Paw
+  lat: '39.5313'
+  long: "-78.4553"
+  nearby_rate_centers:
+  - name: PAW PAW
+    distance_km: 0.79
+  - name: LEVELS
+    distance_km: 9.37
+  - name: BERKELYSPG
+    distance_km: 22.32
+- country: US
+  region: WV
+  name: Pax
+  lat: '37.9098'
+  long: "-81.2648"
+  nearby_rate_centers:
+  - name: MOUNT HOPE
+    distance_km: 8.98
+  - name: OAK HILL
+    distance_km: 12.93
+  - name: GLENDANIEL
+    distance_km: 15.39
+- country: US
+  region: WV
+  name: Pea Ridge
+  lat: '38.4155'
+  long: "-82.3195"
+  nearby_rate_centers:
+  - name: HNTNGTNZN2
+    distance_km: 2.32
+  - name: HNTNGTNZN1
+    distance_km: 10.54
+  - name: UNIONRIDGE
+    distance_km: 14.46
+- country: US
+  region: WV
+  name: Peach Creek
+  lat: '37.8770'
+  long: "-81.9797"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 3.29
+  - name: CHAPMANVL
+    distance_km: 11.32
+  - name: MAN
+    distance_km: 17.47
+- country: US
+  region: WV
+  name: Pennsboro
+  lat: '39.2874'
+  long: "-80.9755"
+  nearby_rate_centers:
+  - name: PENNSBORO
+    distance_km: 0.99
+  - name: ELLENBORO
+    distance_km: 7.5
+  - name: HARRISVL
+    distance_km: 10.4
+- country: US
+  region: WV
+  name: Pentress
+  lat: '39.7101'
+  long: "-80.1684"
+  nearby_rate_centers:
+  - name: BLACKSVL
+    distance_km: 3.27
+  - name: CORE
+    distance_km: 6.05
+  - name: DAYBROOK
+    distance_km: 6.18
+- country: US
+  region: WV
+  name: Petersburg
+  lat: '38.9958'
+  long: "-79.1277"
+  nearby_rate_centers:
+  - name: PETERSBURG
+    distance_km: 0.47
+  - name: MAYSVILLE
+    distance_km: 14.16
+  - name: MOOREFIELD
+    distance_km: 15.79
+- country: US
+  region: WV
+  name: Peterstown
+  lat: '37.3991'
+  long: "-80.7950"
+  nearby_rate_centers:
+  - name: PETERSTOWN
+    distance_km: 0.44
+  - name: OAKVALE
+    distance_km: 16.32
+  - name: GREENVILLE
+    distance_km: 18.53
+- country: US
+  region: WV
+  name: Philippi
+  lat: '39.1488'
+  long: "-80.0417"
+  nearby_rate_centers:
+  - name: PHILIPPI
+    distance_km: 1.01
+  - name: FLEMINGTON
+    distance_km: 14.45
+  - name: BELINGTON
+    distance_km: 16.85
+- country: US
+  region: WV
+  name: Pickens
+  lat: '38.6559'
+  long: "-80.2160"
+  nearby_rate_centers:
+  - name: HACKER VLY
+    distance_km: 15.55
+  - name: ROCK CAVE
+    distance_km: 22.36
+  - name: MILL CREEK
+    distance_km: 23.03
+- country: US
+  region: WV
+  name: Piedmont
+  lat: '39.4778'
+  long: "-79.0466"
+  nearby_rate_centers:
+  - name: PIEDMONT
+    distance_km: 0.52
+  - name: KEYSER
+    distance_km: 7.18
+  - name: ELK GARDEN
+    distance_km: 15.58
+- country: US
+  region: WV
+  name: Pinch
+  lat: '38.4062'
+  long: "-81.4810"
+  nearby_rate_centers:
+  - name: CHRLSTNZN3
+    distance_km: 2.07
+  - name: CLENDENIN
+    distance_km: 14.15
+  - name: DUTCHRIDGE
+    distance_km: 14.53
+- country: US
+  region: WV
+  name: Pine Grove
+  lat: '39.5642'
+  long: "-80.6825"
+  nearby_rate_centers:
+  - name: PINE GROVE
+    distance_km: 0.85
+  - name: READER
+    distance_km: 4.24
+  - name: SMITHFIELD
+    distance_km: 13.54
+- country: US
+  region: WV
+  name: Pineville
+  lat: '37.5846'
+  long: "-81.5355"
+  nearby_rate_centers:
+  - name: PINEVILLE
+    distance_km: 0.77
+  - name: MULLENS
+    distance_km: 13.68
+  - name: OCEANA
+    distance_km: 15.99
+- country: US
+  region: WV
+  name: Piney View
+  lat: '37.8350'
+  long: "-81.1275"
+  nearby_rate_centers:
+  - name: MOUNT HOPE
+    distance_km: 7.25
+  - name: BECKLEY
+    distance_km: 8.55
+  - name: SHADY SPG
+    distance_km: 8.55
+  - name: OAK HILL
+    distance_km: 15.51
+- country: US
+  region: WV
+  name: Pleasant Valley
+  lat: '39.4504'
+  long: "-80.1552"
+  nearby_rate_centers:
+  - name: FAIRMONT
+    distance_km: 3.9
+  - name: WORTHINGTN
+    distance_km: 8.92
+  - name: RIVESVILLE
+    distance_km: 10.83
+- country: US
+  region: WV
+  name: Poca
+  lat: '38.4748'
+  long: "-81.8119"
+  nearby_rate_centers:
+  - name: CHRLSTNZN6
+    distance_km: 6.23
+  - name: WINFIELD
+    distance_km: 8.67
+  - name: CHRLSTNZN5
+    distance_km: 10.44
+- country: US
+  region: WV
+  name: Point Pleasant
+  lat: '38.8530'
+  long: "-82.1303"
+  nearby_rate_centers:
+  - name: PTPLEASANT
+    distance_km: 1.27
+  - name: LETART
+    distance_km: 17.11
+  - name: LEON
+    distance_km: 18.68
+- country: US
+  region: WV
+  name: Powellton
+  lat: '38.0941'
+  long: "-81.3220"
+  nearby_rate_centers:
+  - name: ALLOY
+    distance_km: 7.19
+  - name: MONTGOMERY
+    distance_km: 8.83
+  - name: GAULEY BDG
+    distance_km: 14.03
+- country: US
+  region: WV
+  name: Pratt
+  lat: '38.2082'
+  long: "-81.3869"
+  nearby_rate_centers:
+  - name: EAST BANK
+    distance_km: 4.95
+  - name: MONTGOMERY
+    distance_km: 6.49
+  - name: CHRLSTNZN4
+    distance_km: 13.7
+- country: US
+  region: WV
+  name: Prichard
+  lat: '38.2362'
+  long: "-82.6028"
+  nearby_rate_centers:
+  - name: PRICHARD
+    distance_km: 0.87
+  - name: FORT GAY
+    distance_km: 13.32
+  - name: WAYNE
+    distance_km: 14.14
+- country: US
+  region: WV
+  name: Prince
+  lat: '37.8593'
+  long: "-81.0722"
+  nearby_rate_centers:
+  - name: MOUNT HOPE
+    distance_km: 8.94
+  - name: BECKLEY
+    distance_km: 13.86
+  - name: SHADY SPG
+    distance_km: 13.86
+  - name: OAK HILL
+    distance_km: 14.15
+- country: US
+  region: WV
+  name: Princeton
+  lat: '37.3689'
+  long: "-81.0961"
+  nearby_rate_centers:
+  - name: PRINCETON
+    distance_km: 0.8
+  - name: ATHENS
+    distance_km: 9.43
+  - name: BLUEWELL
+    distance_km: 11.71
+- country: US
+  region: WV
+  name: Prosperity
+  lat: '37.8385'
+  long: "-81.1986"
+  nearby_rate_centers:
+  - name: MOUNT HOPE
+    distance_km: 6.78
+  - name: BECKLEY
+    distance_km: 7.07
+  - name: SHADY SPG
+    distance_km: 7.07
+  - name: GLENDANIEL
+    distance_km: 13.71
+- country: US
+  region: WV
+  name: Pullman
+  lat: '39.1880'
+  long: "-80.9490"
+  nearby_rate_centers:
+  - name: HARRISVL
+    distance_km: 8.62
+  - name: PENNSBORO
+    distance_km: 11.58
+  - name: ELLENBORO
+    distance_km: 12.03
+- country: US
+  region: WV
+  name: Quinwood
+  lat: '38.0586'
+  long: "-80.7060"
+  nearby_rate_centers:
+  - name: RAINELLE
+    distance_km: 10.96
+  - name: RUPERT
+    distance_km: 11.2
+  - name: RICHWOOD
+    distance_km: 24.53
+- country: US
+  region: WV
+  name: Rachel
+  lat: '39.5207'
+  long: "-80.2997"
+  nearby_rate_centers:
+  - name: MANNINGTON
+    distance_km: 3.9
+  - name: FARMINGTON
+    distance_km: 4.08
+  - name: WORTHINGTN
+    distance_km: 8.61
+- country: US
+  region: WV
+  name: Racine
+  lat: '38.1398'
+  long: "-81.6540"
+  nearby_rate_centers:
+  - name: SETH
+    distance_km: 4.32
+  - name: BRUSHTON
+    distance_km: 5.7
+  - name: CHRLSTNZN4
+    distance_km: 14.46
+- country: US
+  region: WV
+  name: Rainelle
+  lat: '37.9678'
+  long: "-80.7718"
+  nearby_rate_centers:
+  - name: RAINELLE
+    distance_km: 0.69
+  - name: RUPERT
+    distance_km: 6.84
+  - name: MDW BRIDGE
+    distance_km: 14.12
+- country: US
+  region: WV
+  name: Raleigh
+  lat: '37.7575'
+  long: "-81.1699"
+  nearby_rate_centers:
+  - name: BECKLEY
+    distance_km: 2.6
+  - name: SHADY SPG
+    distance_km: 2.6
+  - name: SOPHIA
+    distance_km: 8.89
+  - name: MOUNT HOPE
+    distance_km: 15.1
+- country: US
+  region: WV
+  name: Rand
+  lat: '38.2818'
+  long: "-81.5653"
+  nearby_rate_centers:
+  - name: CHRLSTNZN4
+    distance_km: 5.73
+  - name: CHRLSTNZN1
+    distance_km: 9.7
+  - name: EAST BANK
+    distance_km: 13.38
+- country: US
+  region: WV
+  name: Ranson
+  lat: '39.3250'
+  long: "-77.8667"
+  nearby_rate_centers:
+  - name: CHARLES TN
+    distance_km: 3.88
+  - name: HARPESFRRY
+    distance_km: 10.52
+  - name: SHEPHEDSTN
+    distance_km: 13.16
+- country: US
+  region: WV
+  name: Ravenswood
+  lat: '38.9561'
+  long: "-81.7619"
+  nearby_rate_centers:
+  - name: RAVENSWOOD
+    distance_km: 1.7
+  - name: RIPLEY
+    distance_km: 15.42
+  - name: LETART
+    distance_km: 16.93
+- country: US
+  region: WV
+  name: Raymond City
+  lat: '38.4838'
+  long: "-81.8195"
+  nearby_rate_centers:
+  - name: CHRLSTNZN6
+    distance_km: 6.92
+  - name: WINFIELD
+    distance_km: 7.54
+  - name: SCOTTDEPOT
+    distance_km: 10.49
+- country: US
+  region: WV
+  name: Raysal
+  lat: '37.3367'
+  long: "-81.7712"
+  nearby_rate_centers:
+  - name: BRADSHAW
+    distance_km: 3.35
+  - name: WAR
+    distance_km: 7.5
+  - name: COALWOOD
+    distance_km: 11.69
+- country: US
+  region: WV
+  name: Reader
+  lat: '39.5689'
+  long: "-80.7316"
+  nearby_rate_centers:
+  - name: READER
+    distance_km: 0.06
+  - name: PINE GROVE
+    distance_km: 4.85
+  - name: NEWMRTNSVL
+    distance_km: 13.76
+- country: US
+  region: WV
+  name: Red Jacket
+  lat: '37.6488'
+  long: "-82.1316"
+  nearby_rate_centers:
+  - name: MATEWAN
+    distance_km: 3.92
+  - name: DELBARTON
+    distance_km: 9.26
+  - name: WILLIAMSON
+    distance_km: 12.82
+- country: US
+  region: WV
+  name: Reedsville
+  lat: '39.5103'
+  long: "-79.8005"
+  nearby_rate_centers:
+  - name: REEDSVILLE
+    distance_km: 1.54
+  - name: KINGWOOD
+    distance_km: 9.91
+  - name: NEWBURG
+    distance_km: 13.72
+- country: US
+  region: WV
+  name: Reedy
+  lat: '38.8996'
+  long: "-81.4264"
+  nearby_rate_centers:
+  - name: SPENCER
+    distance_km: 13.03
+  - name: ELIZABETH
+    distance_km: 17.99
+  - name: ROCKPORT
+    distance_km: 21.65
+- country: US
+  region: WV
+  name: Reynoldsville
+  lat: '39.2916'
+  long: "-80.4412"
+  nearby_rate_centers:
+  - name: SARDIS
+    distance_km: 5.73
+  - name: CLARKSBURG
+    distance_km: 8.76
+  - name: W MILFORD
+    distance_km: 9.71
+- country: US
+  region: WV
+  name: Rhodell
+  lat: '37.6094'
+  long: "-81.3049"
+  nearby_rate_centers:
+  - name: HELEN
+    distance_km: 2.67
+  - name: MULLENS
+    distance_km: 7.25
+  - name: SOPHIA
+    distance_km: 11.98
+- country: US
+  region: WV
+  name: Richwood
+  lat: '38.2221'
+  long: "-80.5363"
+  nearby_rate_centers:
+  - name: RICHWOOD
+    distance_km: 1.29
+  - name: CRAIGSVL
+    distance_km: 15.11
+  - name: COWEN
+    distance_km: 20.76
+- country: US
+  region: WV
+  name: Ridgeley
+  lat: '39.6432'
+  long: "-78.7711"
+  nearby_rate_centers:
+  - name: RIDGELEY
+    distance_km: 0.47
+  - name: FORT ASHBY
+    distance_km: 15.05
+  - name: LEVELS
+    distance_km: 25.44
+- country: US
+  region: WV
+  name: Ripley
+  lat: '38.8201'
+  long: "-81.7091"
+  nearby_rate_centers:
+  - name: RIPLEY
+    distance_km: 0.4
+  - name: RAVENSWOOD
+    distance_km: 14.16
+  - name: LETART
+    distance_km: 21.4
+- country: US
+  region: WV
+  name: Rivesville
+  lat: '39.5319'
+  long: "-80.1205"
+  nearby_rate_centers:
+  - name: RIVESVILLE
+    distance_km: 1.3
+  - name: FAIRMONT
+    distance_km: 5.64
+  - name: FARMINGTON
+    distance_km: 11.42
+- country: US
+  region: WV
+  name: Robinette
+  lat: '37.7856'
+  long: "-81.7879"
+  nearby_rate_centers:
+  - name: MAN
+    distance_km: 8.89
+  - name: OCEANA
+    distance_km: 15.89
+  - name: WHARTON
+    distance_km: 16.64
+- country: US
+  region: WV
+  name: Rock Cave
+  lat: '38.8404'
+  long: "-80.3375"
+  nearby_rate_centers:
+  - name: ROCK CAVE
+    distance_km: 1.05
+  - name: WALKERSVL
+    distance_km: 10.28
+  - name: BUCKHANNON
+    distance_km: 19.4
+- country: US
+  region: WV
+  name: Roderfield
+  lat: '37.4501'
+  long: "-81.7029"
+  nearby_rate_centers:
+  - name: DAVY
+    distance_km: 4.93
+  - name: COALWOOD
+    distance_km: 8.85
+  - name: IAEGER
+    distance_km: 10.1
+- country: US
+  region: WV
+  name: Romney
+  lat: '39.3454'
+  long: "-78.7564"
+  nearby_rate_centers:
+  - name: ROMNEY
+    distance_km: 0.71
+  - name: AUGUSTA
+    distance_km: 11.5
+  - name: BURLINGTON
+    distance_km: 13.8
+- country: US
+  region: WV
+  name: Ronceverte
+  lat: '37.7503'
+  long: "-80.4715"
+  nearby_rate_centers:
+  - name: LEWISBURG
+    distance_km: 4.04
+  - name: ALDERSON
+    distance_km: 15.14
+  - name: WHSLPHRSPG
+    distance_km: 15.89
+- country: US
+  region: WV
+  name: Rossmore
+  lat: '37.8050'
+  long: "-81.9923"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 4.86
+  - name: MAN
+    distance_km: 12.41
+  - name: CHAPMANVL
+    distance_km: 18.85
+- country: US
+  region: WV
+  name: Rowlesburg
+  lat: '39.3483'
+  long: "-79.6764"
+  nearby_rate_centers:
+  - name: ROWLESBURG
+    distance_km: 0.79
+  - name: TUNNELTON
+    distance_km: 7.53
+  - name: KINGWOOD
+    distance_km: 14.09
+- country: US
+  region: WV
+  name: Rupert
+  lat: '37.9649'
+  long: "-80.6870"
+  nearby_rate_centers:
+  - name: RUPERT
+    distance_km: 1.0
+  - name: RAINELLE
+    distance_km: 6.98
+  - name: MDW BRIDGE
+    distance_km: 18.89
+- country: US
+  region: WV
+  name: Salem
+  lat: '39.2849'
+  long: "-80.5645"
+  nearby_rate_centers:
+  - name: SALEM
+    distance_km: 1.03
+  - name: SARDIS
+    distance_km: 13.49
+  - name: WALLACE
+    distance_km: 14.94
+- country: US
+  region: WV
+  name: Salt Rock
+  lat: '38.3243'
+  long: "-82.2172"
+  nearby_rate_centers:
+  - name: HAMLIN
+    distance_km: 10.79
+  - name: HNTNGTNZN2
+    distance_km: 11.57
+  - name: BRANCHLAND
+    distance_km: 12.05
+- country: US
+  region: WV
+  name: Sand Fork
+  lat: '38.9154'
+  long: "-80.7477"
+  nearby_rate_centers:
+  - name: GLENVILLE
+    distance_km: 7.81
+  - name: BURNSVILLE
+    distance_km: 9.79
+  - name: LAWFORD
+    distance_km: 23.16
+- country: US
+  region: WV
+  name: Sarah Ann
+  lat: '37.7086'
+  long: "-81.9880"
+  nearby_rate_centers:
+  - name: MAN
+    distance_km: 10.75
+  - name: GILBERT
+    distance_km: 15.02
+  - name: LOGAN
+    distance_km: 15.58
+- country: US
+  region: WV
+  name: Scarbro
+  lat: '37.9503'
+  long: "-81.1665"
+  nearby_rate_centers:
+  - name: OAK HILL
+    distance_km: 3.41
+  - name: MOUNT HOPE
+    distance_km: 6.35
+  - name: FAYETTEVL
+    distance_km: 13.18
+- country: US
+  region: WV
+  name: Shady Spring
+  lat: '37.7032'
+  long: "-81.0914"
+  nearby_rate_centers:
+  - name: FLAT TOP
+    distance_km: 10.03
+  - name: BECKLEY
+    distance_km: 11.75
+  - name: SHADY SPG
+    distance_km: 11.75
+  - name: SOPHIA
+    distance_km: 13.87
+- country: US
+  region: WV
+  name: Shannondale
+  lat: '39.2123'
+  long: "-77.8105"
+  nearby_rate_centers:
+  - name: CHARLES TN
+    distance_km: 9.68
+  - name: HARPESFRRY
+    distance_km: 13.65
+  - name: SHEPHEDSTN
+    distance_km: 24.6
+- country: US
+  region: WV
+  name: Shenandoah Junction
+  lat: '39.3530'
+  long: "-77.8375"
+  nearby_rate_centers:
+  - name: CHARLES TN
+    distance_km: 7.21
+  - name: HARPESFRRY
+    distance_km: 8.64
+  - name: SHEPHEDSTN
+    distance_km: 9.36
+- country: US
+  region: WV
+  name: Shepherdstown
+  lat: '39.4320'
+  long: "-77.8046"
+  nearby_rate_centers:
+  - name: SHEPHEDSTN
+    distance_km: 0.17
+  - name: HARPESFRRY
+    distance_km: 13.09
+  - name: MARTINSBG
+    distance_km: 14.48
+- country: US
+  region: WV
+  name: Shinnston
+  lat: '39.3923'
+  long: "-80.2989"
+  nearby_rate_centers:
+  - name: SHINNSTON
+    distance_km: 1.68
+  - name: LUMBERPORT
+    distance_km: 4.77
+  - name: WORTHINGTN
+    distance_km: 7.26
+- country: US
+  region: WV
+  name: Shrewsbury
+  lat: '38.2079'
+  long: "-81.4671"
+  nearby_rate_centers:
+  - name: EAST BANK
+    distance_km: 2.06
+  - name: CHRLSTNZN4
+    distance_km: 7.02
+  - name: MONTGOMERY
+    distance_km: 12.8
+- country: US
+  region: WV
+  name: Sissonville
+  lat: '38.5042'
+  long: "-81.6398"
+  nearby_rate_centers:
+  - name: CHRLSTNZN2
+    distance_km: 2.2
+  - name: CHRLSTNZN3
+    distance_km: 16.03
+  - name: CHRLSTNZN1
+    distance_km: 17.13
+- country: US
+  region: WV
+  name: Sistersville
+  lat: '39.5597'
+  long: "-80.9988"
+  nearby_rate_centers:
+  - name: SISTERSVL
+    distance_km: 0.59
+  - name: PADEN CITY
+    distance_km: 6.61
+  - name: MIDDLEBORN
+    distance_km: 10.93
+- country: US
+  region: WV
+  name: Smithers
+  lat: '38.1685'
+  long: "-81.2991"
+  nearby_rate_centers:
+  - name: MONTGOMERY
+    distance_km: 2.53
+  - name: ALLOY
+    distance_km: 6.55
+  - name: GAULEY BDG
+    distance_km: 9.58
+- country: US
+  region: WV
+  name: Smithfield
+  lat: '39.5010'
+  long: "-80.5549"
+  nearby_rate_centers:
+  - name: SMITHFIELD
+    distance_km: 0.95
+  - name: WALLACE
+    distance_km: 11.78
+  - name: PINE GROVE
+    distance_km: 12.23
+- country: US
+  region: WV
+  name: Sophia
+  lat: '37.7117'
+  long: "-81.2525"
+  nearby_rate_centers:
+  - name: SOPHIA
+    distance_km: 0.55
+  - name: BECKLEY
+    distance_km: 9.02
+  - name: SHADY SPG
+    distance_km: 9.02
+  - name: HELEN
+    distance_km: 10.42
+- country: US
+  region: WV
+  name: South Charleston
+  lat: '38.3426'
+  long: "-81.7155"
+  nearby_rate_centers:
+  - name: CHRLSTNZN1
+    distance_km: 7.13
+  - name: CHRLSTNZN7
+    distance_km: 11.13
+  - name: CHRLSTNZN5
+    distance_km: 11.35
+- country: US
+  region: WV
+  name: Spelter
+  lat: '39.3432'
+  long: "-80.3163"
+  nearby_rate_centers:
+  - name: LUMBERPORT
+    distance_km: 4.53
+  - name: SHINNSTON
+    distance_km: 7.14
+  - name: CLARKSBURG
+    distance_km: 8.11
+- country: US
+  region: WV
+  name: Spencer
+  lat: '38.8024'
+  long: "-81.3531"
+  nearby_rate_centers:
+  - name: SPENCER
+    distance_km: 0.58
+  - name: WALTON
+    distance_km: 18.4
+  - name: ARNOLDSBG
+    distance_km: 19.68
+- country: US
+  region: WV
+  name: Sprague
+  lat: '37.7938'
+  long: "-81.1822"
+  nearby_rate_centers:
+  - name: BECKLEY
+    distance_km: 2.13
+  - name: SHADY SPG
+    distance_km: 2.13
+  - name: MOUNT HOPE
+    distance_km: 11.16
+  - name: SOPHIA
+    distance_km: 11.23
+- country: US
+  region: WV
+  name: Springfield
+  lat: '39.4450'
+  long: "-78.6976"
+  nearby_rate_centers:
+  - name: FORT ASHBY
+    distance_km: 9.82
+  - name: ROMNEY
+    distance_km: 12.53
+  - name: LEVELS
+    distance_km: 13.58
+- country: US
+  region: WV
+  name: St. Albans
+  lat: '38.3769'
+  long: "-81.8198"
+  nearby_rate_centers:
+  - name: CHRLSTNZN5
+    distance_km: 1.49
+  - name: CHRLSTNZN6
+    distance_km: 5.69
+  - name: CHRLSTNZN7
+    distance_km: 10.5
+- country: US
+  region: WV
+  name: St. George
+  lat: '39.1662'
+  long: "-79.6987"
+  nearby_rate_centers:
+  - name: PARSONS
+    distance_km: 8.37
+  - name: THOMAS
+    distance_km: 17.87
+  - name: ROWLESBURG
+    distance_km: 19.7
+- country: US
+  region: WV
+  name: St. Marys
+  lat: '39.4023'
+  long: "-81.1951"
+  nearby_rate_centers:
+  - name: ST MARYS
+    distance_km: 1.49
+  - name: BELMONT
+    distance_km: 6.38
+  - name: VALLEY ML
+    distance_km: 19.1
+- country: US
+  region: WV
+  name: Stanaford
+  lat: '37.8156'
+  long: "-81.1491"
+  nearby_rate_centers:
+  - name: BECKLEY
+    distance_km: 5.68
+  - name: SHADY SPG
+    distance_km: 5.68
+  - name: MOUNT HOPE
+    distance_km: 8.74
+  - name: SOPHIA
+    distance_km: 14.87
+- country: US
+  region: WV
+  name: Star City
+  lat: '39.6587'
+  long: "-79.9868"
+  nearby_rate_centers:
+  - name: MORGANTOWN
+    distance_km: 3.79
+  - name: LAUREL PT
+    distance_km: 5.65
+  - name: MT MORRIS
+    distance_km: 8.82
+- country: US
+  region: WV
+  name: Stollings
+  lat: '37.8409'
+  long: "-81.9625"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 2.59
+  - name: MAN
+    distance_km: 13.29
+  - name: CHAPMANVL
+    distance_km: 15.61
+- country: US
+  region: WV
+  name: Stonewood
+  lat: '39.2502'
+  long: "-80.3054"
+  nearby_rate_centers:
+  - name: CLARKSBURG
+    distance_km: 4.07
+  - name: BRIDGEPORT
+    distance_km: 5.9
+  - name: W MILFORD
+    distance_km: 9.42
+- country: US
+  region: WV
+  name: Summersville
+  lat: '38.2864'
+  long: "-80.8409"
+  nearby_rate_centers:
+  - name: SUMMERSVL
+    distance_km: 1.59
+  - name: CRAIGSVL
+    distance_km: 17.39
+  - name: WIDEN
+    distance_km: 19.07
+- country: US
+  region: WV
+  name: Sutton
+  lat: '38.6663'
+  long: "-80.7116"
+  nearby_rate_centers:
+  - name: SUTTON
+    distance_km: 0.43
+  - name: GASSAWAY
+    distance_km: 5.54
+  - name: BIRCHRIVER
+    distance_km: 18.67
+- country: US
+  region: WV
+  name: Switzer
+  lat: '37.7879'
+  long: "-81.9865"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 6.77
+  - name: MAN
+    distance_km: 11.02
+  - name: DELBARTON
+    distance_km: 19.95
+- country: US
+  region: WV
+  name: Sylvester
+  lat: '38.0080'
+  long: "-81.5623"
+  nearby_rate_centers:
+  - name: WHITESVL
+    distance_km: 3.16
+  - name: SETH
+    distance_km: 12.43
+  - name: VAN
+    distance_km: 13.98
+- country: US
+  region: WV
+  name: Teays Valley
+  lat: '38.4482'
+  long: "-81.9246"
+  nearby_rate_centers:
+  - name: SCOTTDEPOT
+    distance_km: 0.77
+  - name: CHRLSTNZN6
+    distance_km: 7.52
+  - name: WINFIELD
+    distance_km: 8.79
+- country: US
+  region: WV
+  name: Terra Alta
+  lat: '39.4442'
+  long: "-79.5435"
+  nearby_rate_centers:
+  - name: TERRA ALTA
+    distance_km: 0.58
+  - name: KINGWOOD
+    distance_km: 13.42
+  - name: ROWLESBURG
+    distance_km: 15.82
+- country: US
+  region: WV
+  name: Thomas
+  lat: '39.1458'
+  long: "-79.4958"
+  nearby_rate_centers:
+  - name: THOMAS
+    distance_km: 0.39
+  - name: DAVIS
+    distance_km: 2.9
+  - name: CANAAN VLY
+    distance_km: 14.81
+- country: US
+  region: WV
+  name: Thurmond
+  lat: '37.9610'
+  long: "-81.0796"
+  nearby_rate_centers:
+  - name: OAK HILL
+    distance_km: 5.65
+  - name: MOUNT HOPE
+    distance_km: 10.6
+  - name: FAYETTEVL
+    distance_km: 10.96
+- country: US
+  region: WV
+  name: Tioga
+  lat: '38.4220'
+  long: "-80.6548"
+  nearby_rate_centers:
+  - name: COWEN
+    distance_km: 8.3
+  - name: CRAIGSVL
+    distance_km: 10.7
+  - name: BIRCHRIVER
+    distance_km: 12.03
+- country: US
+  region: WV
+  name: Tornado
+  lat: '38.3369'
+  long: "-81.8550"
+  nearby_rate_centers:
+  - name: CHRLSTNZN5
+    distance_km: 5.38
+  - name: CHRLSTNZN7
+    distance_km: 6.87
+  - name: CHRLSTNZN6
+    distance_km: 9.8
+- country: US
+  region: WV
+  name: Triadelphia
+  lat: '40.0483'
+  long: "-80.6230"
+  nearby_rate_centers:
+  - name: WHELNGZON3
+    distance_km: 1.19
+  - name: WHELNGZON1
+    distance_km: 8.49
+  - name: WHELNGZON2
+    distance_km: 13.14
+- country: US
+  region: WV
+  name: Tunnelton
+  lat: '39.3929'
+  long: "-79.7466"
+  nearby_rate_centers:
+  - name: TUNNELTON
+    distance_km: 0.45
+  - name: ROWLESBURG
+    distance_km: 8.56
+  - name: NEWBURG
+    distance_km: 8.75
+- country: US
+  region: WV
+  name: Twilight
+  lat: '37.9252'
+  long: "-81.6176"
+  nearby_rate_centers:
+  - name: WHARTON
+    distance_km: 5.43
+  - name: WHITESVL
+    distance_km: 9.01
+  - name: VAN
+    distance_km: 10.21
+- country: US
+  region: WV
+  name: Union
+  lat: '37.5905'
+  long: "-80.5419"
+  nearby_rate_centers:
+  - name: UNION
+    distance_km: 0.34
+  - name: GREENVILLE
+    distance_km: 13.73
+  - name: ALDERSON
+    distance_km: 17.3
+- country: US
+  region: WV
+  name: Valley Bend
+  lat: '38.7694'
+  long: "-79.9280"
+  nearby_rate_centers:
+  - name: MILL CREEK
+    distance_km: 5.46
+  - name: ELKINS
+    distance_km: 18.45
+  - name: BELINGTON
+    distance_km: 28.32
+- country: US
+  region: WV
+  name: Valley Grove
+  lat: '40.0901'
+  long: "-80.5691"
+  nearby_rate_centers:
+  - name: WHELNGZON3
+    distance_km: 7.29
+  - name: WHELNGZON2
+    distance_km: 8.43
+  - name: BETHANY
+    distance_km: 13.24
+- country: US
+  region: WV
+  name: Valley Head
+  lat: '38.5472'
+  long: "-80.0320"
+  nearby_rate_centers:
+  - name: SNOWSHOE
+    distance_km: 12.77
+  - name: MILL CREEK
+    distance_km: 21.29
+  - name: ARBOVALE
+    distance_km: 22.5
+- country: US
+  region: WV
+  name: Van
+  lat: '37.9712'
+  long: "-81.7138"
+  nearby_rate_centers:
+  - name: VAN
+    distance_km: 0.39
+  - name: WHARTON
+    distance_km: 8.11
+  - name: MADISON
+    distance_km: 13.99
+- country: US
+  region: WV
+  name: Verdunville
+  lat: '37.8532'
+  long: "-82.0603"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 6.16
+  - name: CHAPMANVL
+    distance_km: 13.66
+  - name: DELBARTON
+    distance_km: 19.29
+- country: US
+  region: WV
+  name: Vienna
+  lat: '39.3240'
+  long: "-81.5383"
+  nearby_rate_centers:
+  - name: PRKRSBGZN1
+    distance_km: 6.8
+  - name: WILLIAMSTN
+    distance_km: 10.03
+  - name: VALLEY ML
+    distance_km: 12.04
+- country: US
+  region: WV
+  name: Vivian
+  lat: '37.4172'
+  long: "-81.4923"
+  nearby_rate_centers:
+  - name: KIMBALL
+    distance_km: 1.29
+  - name: NORTHFORK
+    distance_km: 5.72
+  - name: GARY
+    distance_km: 7.8
+- country: US
+  region: WV
+  name: Wallace
+  lat: '39.4072'
+  long: "-80.4911"
+  nearby_rate_centers:
+  - name: WALLACE
+    distance_km: 0.07
+  - name: JOETOWN
+    distance_km: 9.13
+  - name: SARDIS
+    distance_km: 9.17
+- country: US
+  region: WV
+  name: War
+  lat: '37.3040'
+  long: "-81.6802"
+  nearby_rate_centers:
+  - name: WAR
+    distance_km: 1.34
+  - name: COALWOOD
+    distance_km: 9.0
+  - name: BRADSHAW
+    distance_km: 12.06
+- country: US
+  region: WV
+  name: Wardensville
+  lat: '39.0768'
+  long: "-78.5930"
+  nearby_rate_centers:
+  - name: WARDENSVL
+    distance_km: 0.39
+  - name: LOST RIVER
+    distance_km: 17.75
+  - name: AUGUSTA
+    distance_km: 25.32
+- country: US
+  region: WV
+  name: Washington
+  lat: '39.2422'
+  long: "-81.6679"
+  nearby_rate_centers:
+  - name: PRKRSBGZN3
+    distance_km: 3.42
+  - name: PRKRSBGZN1
+    distance_km: 9.73
+  - name: MINERLWLLS
+    distance_km: 14.33
+- country: US
+  region: WV
+  name: Waverly
+  lat: '39.3328'
+  long: "-81.3813"
+  nearby_rate_centers:
+  - name: VALLEY ML
+    distance_km: 1.52
+  - name: WILLIAMSTN
+    distance_km: 9.18
+  - name: PRKRSBGZN2
+    distance_km: 9.62
+- country: US
+  region: WV
+  name: Wayne
+  lat: '38.2301'
+  long: "-82.4415"
+  nearby_rate_centers:
+  - name: WAYNE
+    distance_km: 0.38
+  - name: EAST LYNN
+    distance_km: 9.02
+  - name: PRICHARD
+    distance_km: 13.4
+- country: US
+  region: WV
+  name: Weirton
+  lat: '40.4060'
+  long: "-80.5671"
+  nearby_rate_centers:
+  - name: WEIRTON
+    distance_km: 2.02
+  - name: FOLLANSBEE
+    distance_km: 8.72
+  - name: NEWCUMBRLD
+    distance_km: 9.9
+- country: US
+  region: WV
+  name: Welch
+  lat: '37.4455'
+  long: "-81.5721"
+  nearby_rate_centers:
+  - name: WELCH
+    distance_km: 1.42
+  - name: KIMBALL
+    distance_km: 6.45
+  - name: DAVY
+    distance_km: 8.47
+- country: US
+  region: WV
+  name: Wellsburg
+  lat: '40.2810'
+  long: "-80.6102"
+  nearby_rate_centers:
+  - name: WELLSBURG
+    distance_km: 0.82
+  - name: FOLLANSBEE
+    distance_km: 5.71
+  - name: BEECHBTTOM
+    distance_km: 7.09
+- country: US
+  region: WV
+  name: West Dunbar
+  lat: '38.3725'
+  long: "-81.7558"
+  nearby_rate_centers:
+  - name: CHRLSTNZN5
+    distance_km: 7.02
+  - name: CHRLSTNZN6
+    distance_km: 9.6
+  - name: CHRLSTNZN1
+    distance_km: 10.88
+- country: US
+  region: WV
+  name: West Hamlin
+  lat: '38.2802'
+  long: "-82.1940"
+  nearby_rate_centers:
+  - name: BRANCHLAND
+    distance_km: 7.01
+  - name: HAMLIN
+    distance_km: 7.44
+  - name: HNTNGTNZN2
+    distance_km: 16.79
+- country: US
+  region: WV
+  name: West Liberty
+  lat: '40.1648'
+  long: "-80.5972"
+  nearby_rate_centers:
+  - name: WHELNGZON2
+    distance_km: 0.5
+  - name: BETHANY
+    distance_km: 5.8
+  - name: BEECHBTTOM
+    distance_km: 7.87
+- country: US
+  region: WV
+  name: West Logan
+  lat: '37.8679'
+  long: "-81.9907"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 2.14
+  - name: CHAPMANVL
+    distance_km: 12.01
+  - name: MAN
+    distance_km: 17.18
+- country: US
+  region: WV
+  name: West Milford
+  lat: '39.2045'
+  long: "-80.4034"
+  nearby_rate_centers:
+  - name: W MILFORD
+    distance_km: 0.62
+  - name: CLARKSBURG
+    distance_km: 9.27
+  - name: JANE LEW
+    distance_km: 10.6
+- country: US
+  region: WV
+  name: West Union
+  lat: '39.2963'
+  long: "-80.7751"
+  nearby_rate_centers:
+  - name: WEST UNION
+    distance_km: 0.57
+  - name: PENNSBORO
+    distance_km: 16.37
+  - name: SALEM
+    distance_km: 18.69
+- country: US
+  region: WV
+  name: Weston
+  lat: '39.0391'
+  long: "-80.4616"
+  nearby_rate_centers:
+  - name: WESTON
+    distance_km: 0.5
+  - name: JANE LEW
+    distance_km: 9.1
+  - name: WALKERSVL
+    distance_km: 18.91
+- country: US
+  region: WV
+  name: Westover
+  lat: '39.6329'
+  long: "-79.9882"
+  nearby_rate_centers:
+  - name: MORGANTOWN
+    distance_km: 2.61
+  - name: LAUREL PT
+    distance_km: 3.68
+  - name: CHEAT LAKE
+    distance_km: 10.14
+- country: US
+  region: WV
+  name: Wheeling
+  lat: '40.0752'
+  long: "-80.6951"
+  nearby_rate_centers:
+  - name: WHELNGZON1
+    distance_km: 2.92
+  - name: WHELNGZON3
+    distance_km: 5.7
+  - name: WHELNGZON2
+    distance_km: 13.23
+- country: US
+  region: WV
+  name: White Hall
+  lat: '39.4240'
+  long: "-80.1889"
+  nearby_rate_centers:
+  - name: WORTHINGTN
+    distance_km: 6.69
+  - name: FAIRMONT
+    distance_km: 7.84
+  - name: SHINNSTON
+    distance_km: 8.55
+- country: US
+  region: WV
+  name: White Sulphur Springs
+  lat: '37.7981'
+  long: "-80.3005"
+  nearby_rate_centers:
+  - name: WHSLPHRSPG
+    distance_km: 0.67
+  - name: LEWISBURG
+    distance_km: 13.75
+  - name: FRANKFORD
+    distance_km: 16.25
+- country: US
+  region: WV
+  name: Whitesville
+  lat: '37.9823'
+  long: "-81.5367"
+  nearby_rate_centers:
+  - name: WHITESVL
+    distance_km: 0.77
+  - name: WHARTON
+    distance_km: 14.78
+  - name: VAN
+    distance_km: 15.74
+- country: US
+  region: WV
+  name: Whitmer
+  lat: '38.8149'
+  long: "-79.5451"
+  nearby_rate_centers:
+  - name: RIVERTON
+    distance_km: 11.84
+  - name: HARMAN
+    distance_km: 12.11
+  - name: CANAAN VLY
+    distance_km: 23.91
+- country: US
+  region: WV
+  name: Wiley Ford
+  lat: '39.6151'
+  long: "-78.7615"
+  nearby_rate_centers:
+  - name: RIDGELEY
+    distance_km: 3.36
+  - name: FORT ASHBY
+    distance_km: 12.0
+  - name: LEVELS
+    distance_km: 22.81
+- country: US
+  region: WV
+  name: Williamson
+  lat: '37.6741'
+  long: "-82.2709"
+  nearby_rate_centers:
+  - name: WILLIAMSON
+    distance_km: 0.27
+  - name: DELBARTON
+    distance_km: 8.19
+  - name: MATEWAN
+    distance_km: 10.52
+- country: US
+  region: WV
+  name: Williamstown
+  lat: '39.3987'
+  long: "-81.4549"
+  nearby_rate_centers:
+  - name: WILLIAMSTN
+    distance_km: 1.04
+  - name: VALLEY ML
+    distance_km: 8.66
+  - name: BELMONT
+    distance_km: 16.89
+- country: US
+  region: WV
+  name: Windsor Heights
+  lat: '40.1913'
+  long: "-80.6649"
+  nearby_rate_centers:
+  - name: BEECHBTTOM
+    distance_km: 3.93
+  - name: WHELNGZON2
+    distance_km: 6.94
+  - name: BETHANY
+    distance_km: 9.05
+- country: US
+  region: WV
+  name: Winfield
+  lat: '38.5292'
+  long: "-81.8857"
+  nearby_rate_centers:
+  - name: WINFIELD
+    distance_km: 0.84
+  - name: SCOTTDEPOT
+    distance_km: 9.58
+  - name: BUFFALO
+    distance_km: 11.66
+- country: US
+  region: WV
+  name: Wolf Summit
+  lat: '39.2822'
+  long: "-80.4620"
+  nearby_rate_centers:
+  - name: SARDIS
+    distance_km: 7.31
+  - name: SALEM
+    distance_km: 8.34
+  - name: W MILFORD
+    distance_km: 9.58
+- country: US
+  region: WV
+  name: Womelsdorf
+  lat: '38.8980'
+  long: "-79.9637"
+  nearby_rate_centers:
+  - name: ELKINS
+    distance_km: 10.09
+  - name: BELINGTON
+    distance_km: 14.31
+  - name: MILL CREEK
+    distance_km: 18.43
+- country: US
+  region: WV
+  name: Worthington
+  lat: '39.4568'
+  long: "-80.2635"
+  nearby_rate_centers:
+  - name: WORTHINGTN
+    distance_km: 0.85
+  - name: SHINNSTON
+    distance_km: 6.3
+  - name: FARMINGTON
+    distance_km: 6.81

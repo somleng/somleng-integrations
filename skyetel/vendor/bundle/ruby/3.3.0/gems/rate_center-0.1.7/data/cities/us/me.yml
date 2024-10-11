@@ -1,0 +1,796 @@
+---
+cities:
+- country: US
+  region: ME
+  name: Auburn
+  lat: '44.0851'
+  long: "-70.2492"
+  nearby_rate_centers:
+  - name: LEWISTON
+    distance_km: 2.86
+  - name: POLAND
+    distance_km: 11.76
+  - name: SABATTUS
+    distance_km: 11.78
+- country: US
+  region: ME
+  name: Augusta
+  lat: '44.3341'
+  long: "-69.7319"
+  nearby_rate_centers:
+  - name: AUGUSTA
+    distance_km: 4.29
+  - name: SIDNEY
+    distance_km: 10.13
+  - name: GARDINER
+    distance_km: 12.12
+- country: US
+  region: ME
+  name: Bangor
+  lat: '44.8323'
+  long: "-68.7906"
+  nearby_rate_centers:
+  - name: BANGOR
+    distance_km: 3.72
+  - name: HERMON
+    distance_km: 9.71
+  - name: HAMPDEN
+    distance_km: 10.45
+- country: US
+  region: ME
+  name: Bath
+  lat: '43.9346'
+  long: "-69.8346"
+  nearby_rate_centers:
+  - name: BATH
+    distance_km: 2.53
+  - name: BOWDOINHAM
+    distance_km: 9.94
+  - name: BRUNSWICK
+    distance_km: 10.63
+- country: US
+  region: ME
+  name: Belfast
+  lat: '44.4279'
+  long: "-69.0325"
+  nearby_rate_centers:
+  - name: BELFAST
+    distance_km: 2.05
+  - name: SEARSPORT
+    distance_km: 8.67
+  - name: MORRILL
+    distance_km: 9.15
+- country: US
+  region: ME
+  name: Bethel
+  lat: '44.4038'
+  long: "-70.7863"
+  nearby_rate_centers:
+  - name: BETHEL
+    distance_km: 0.71
+  - name: WESTBETHEL
+    distance_km: 6.05
+  - name: LOCKEMILLS
+    distance_km: 6.69
+- country: US
+  region: ME
+  name: Biddeford
+  lat: '43.4673'
+  long: "-70.4511"
+  nearby_rate_centers:
+  - name: BIDDEFORD
+    distance_km: 3.05
+  - name: OLDORCHBCH
+    distance_km: 7.99
+  - name: GOODWINSML
+    distance_km: 11.52
+- country: US
+  region: ME
+  name: Bradley
+  lat: '44.9127'
+  long: "-68.6246"
+  nearby_rate_centers:
+  - name: OLD TOWN
+    distance_km: 2.87
+  - name: ORONO
+    distance_km: 5.01
+  - name: ALTON
+    distance_km: 15.08
+- country: US
+  region: ME
+  name: Brewer
+  lat: '44.7835'
+  long: "-68.7352"
+  nearby_rate_centers:
+  - name: BANGOR
+    distance_km: 3.36
+  - name: ORRINGTON
+    distance_km: 9.27
+  - name: HAMPDEN
+    distance_km: 9.32
+- country: US
+  region: ME
+  name: Brownville Junction
+  lat: '45.3488'
+  long: "-69.0555"
+  nearby_rate_centers:
+  - name: BROWNVILLE
+    distance_km: 4.84
+  - name: MILO
+    distance_km: 12.08
+  - name: DOVERFCRFT
+    distance_km: 22.72
+- country: US
+  region: ME
+  name: Calais
+  lat: '45.1340'
+  long: "-67.2240"
+  nearby_rate_centers:
+  - name: CALAIS
+    distance_km: 7.25
+  - name: WOODLAND
+    distance_km: 14.62
+  - name: PEMBROKE
+    distance_km: 21.29
+- country: US
+  region: ME
+  name: Cape Neddick
+  lat: '43.1706'
+  long: "-70.6220"
+  nearby_rate_centers:
+  - name: YORK
+    distance_km: 3.91
+  - name: WELLS
+    distance_km: 11.42
+  - name: KITTERY
+    distance_km: 13.65
+- country: US
+  region: ME
+  name: Caribou
+  lat: '46.8662'
+  long: "-67.9920"
+  nearby_rate_centers:
+  - name: CARIBOU
+    distance_km: 1.84
+  - name: NEW SWEDEN
+    distance_km: 12.82
+  - name: LIMESTONE
+    distance_km: 13.45
+- country: US
+  region: ME
+  name: Chisholm
+  lat: '44.4916'
+  long: "-70.1923"
+  nearby_rate_centers:
+  - name: LIVERMRFLS
+    distance_km: 1.91
+  - name: WILTON
+    distance_km: 11.2
+  - name: CANTON
+    distance_km: 11.42
+- country: US
+  region: ME
+  name: Corinna
+  lat: '44.9223'
+  long: "-69.2628"
+  nearby_rate_centers:
+  - name: CORINNA
+    distance_km: 0.22
+  - name: NEWPORT
+    distance_km: 9.76
+  - name: STETSON
+    distance_km: 9.83
+- country: US
+  region: ME
+  name: Cornish
+  lat: '43.8005'
+  long: "-70.7994"
+  nearby_rate_centers:
+  - name: CORNISH
+    distance_km: 0.62
+  - name: LIMINGTON
+    distance_km: 11.09
+  - name: STEEPFALLS
+    distance_km: 12.42
+- country: US
+  region: ME
+  name: Cousins Island
+  lat: '43.7631'
+  long: "-70.1409"
+  nearby_rate_centers:
+  - name: YARMOUTH
+    distance_km: 5.76
+  - name: CUMBERLAND
+    distance_km: 9.91
+  - name: FREEPORT
+    distance_km: 10.82
+- country: US
+  region: ME
+  name: Cumberland Center
+  lat: '43.7982'
+  long: "-70.2541"
+  nearby_rate_centers:
+  - name: CUMBERLAND
+    distance_km: 0.61
+  - name: YARMOUTH
+    distance_km: 5.12
+  - name: GRAY
+    distance_km: 11.91
+- country: US
+  region: ME
+  name: Danforth
+  lat: '45.6595'
+  long: "-67.8682"
+  nearby_rate_centers:
+  - name: DANFORTH
+    distance_km: 0.08
+  - name: WYTOPITLK
+    distance_km: 16.53
+  - name: KINGMAN
+    distance_km: 28.51
+- country: US
+  region: ME
+  name: Dunstan
+  lat: '43.5691'
+  long: "-70.3884"
+  nearby_rate_centers:
+  - name: SCARBOROGH
+    distance_km: 4.9
+  - name: OLDORCHBCH
+    distance_km: 5.65
+  - name: BIDDEFORD
+    distance_km: 10.12
+- country: US
+  region: ME
+  name: Eastport
+  lat: '44.9137'
+  long: "-67.0183"
+  nearby_rate_centers:
+  - name: EASTPORT
+    distance_km: 2.88
+  - name: LUBEC
+    distance_km: 6.65
+  - name: PEMBROKE
+    distance_km: 12.81
+- country: US
+  region: ME
+  name: Ellsworth
+  lat: '44.5847'
+  long: "-68.4875"
+  nearby_rate_centers:
+  - name: ELLSWORTH
+    distance_km: 7.16
+  - name: OTIS
+    distance_km: 13.38
+  - name: FRANKLIN
+    distance_km: 20.17
+- country: US
+  region: ME
+  name: Falmouth Foreside
+  lat: '43.7348'
+  long: "-70.2152"
+  nearby_rate_centers:
+  - name: CUMBERLAND
+    distance_km: 7.31
+  - name: YARMOUTH
+    distance_km: 7.59
+  - name: PORTLAND
+    distance_km: 9.71
+- country: US
+  region: ME
+  name: Gardiner
+  lat: '44.1910'
+  long: "-69.7921"
+  nearby_rate_centers:
+  - name: GARDINER
+    distance_km: 4.5
+  - name: W GARDINER
+    distance_km: 9.05
+  - name: RICHMOND
+    distance_km: 11.18
+- country: US
+  region: ME
+  name: Grand Isle
+  lat: '47.3065'
+  long: "-68.1552"
+  nearby_rate_centers:
+  - name: GRAND ISLE
+    distance_km: 0.31
+  - name: MADAWASKA
+    distance_km: 14.15
+  - name: FRENCHVL
+    distance_km: 17.25
+- country: US
+  region: ME
+  name: Greene
+  lat: '44.1898'
+  long: "-70.1418"
+  nearby_rate_centers:
+  - name: GREENE
+    distance_km: 0.26
+  - name: SABATTUS
+    distance_km: 8.14
+  - name: MONMOUTH
+    distance_km: 9.86
+- country: US
+  region: ME
+  name: Hallowell
+  lat: '44.2905'
+  long: "-69.8140"
+  nearby_rate_centers:
+  - name: AUGUSTA
+    distance_km: 3.87
+  - name: W GARDINER
+    distance_km: 6.85
+  - name: GARDINER
+    distance_km: 7.31
+- country: US
+  region: ME
+  name: Island Falls
+  lat: '46.0081'
+  long: "-68.2648"
+  nearby_rate_centers:
+  - name: ISLAND FLS
+    distance_km: 0.49
+  - name: PATTEN
+    distance_km: 14.1
+  - name: SMYRNA ML
+    distance_km: 15.5
+- country: US
+  region: ME
+  name: Jonesport
+  lat: '44.5338'
+  long: "-67.6152"
+  nearby_rate_centers:
+  - name: JONESPORT
+    distance_km: 0.58
+  - name: JONESBORO
+    distance_km: 15.16
+  - name: COLUMBIA
+    distance_km: 17.11
+- country: US
+  region: ME
+  name: Kezar Falls
+  lat: '43.8080'
+  long: "-70.8831"
+  nearby_rate_centers:
+  - name: CORNISH
+    distance_km: 6.33
+  - name: LIMERICK
+    distance_km: 15.29
+  - name: LIMINGTON
+    distance_km: 17.42
+- country: US
+  region: ME
+  name: Kingfield
+  lat: '44.9582'
+  long: "-70.1592"
+  nearby_rate_centers:
+  - name: KINGFIELD
+    distance_km: 0.06
+  - name: SALEM
+    distance_km: 10.55
+  - name: NNEWPORTLD
+    distance_km: 11.4
+- country: US
+  region: ME
+  name: Kittery Point
+  lat: '43.0883'
+  long: "-70.6988"
+  nearby_rate_centers:
+  - name: KITTERY
+    distance_km: 3.63
+  - name: YORK
+    distance_km: 7.18
+  - name: ELIOT
+    distance_km: 13.84
+- country: US
+  region: ME
+  name: Lake Arrowhead
+  lat: '43.6634'
+  long: "-70.7382"
+  nearby_rate_centers:
+  - name: LIMERICK
+    distance_km: 5.15
+  - name: LIMINGTON
+    distance_km: 10.12
+  - name: WATERBORO
+    distance_km: 14.11
+- country: US
+  region: ME
+  name: Lewiston
+  lat: '44.0915'
+  long: "-70.1681"
+  nearby_rate_centers:
+  - name: LEWISTON
+    distance_km: 3.82
+  - name: SABATTUS
+    distance_km: 5.63
+  - name: GREENE
+    distance_km: 11.39
+- country: US
+  region: ME
+  name: Lisbon
+  lat: '44.0289'
+  long: "-70.1076"
+  nearby_rate_centers:
+  - name: LISBON FLS
+    distance_km: 4.88
+  - name: SABATTUS
+    distance_km: 10.15
+  - name: LEWISTON
+    distance_km: 11.29
+- country: US
+  region: ME
+  name: Lisbon Falls
+  lat: '44.0086'
+  long: "-70.0571"
+  nearby_rate_centers:
+  - name: LISBON FLS
+    distance_km: 0.84
+  - name: BOWDOINHAM
+    distance_km: 12.7
+  - name: BRUNSWICK
+    distance_km: 12.85
+- country: US
+  region: ME
+  name: Little Falls
+  lat: '43.7312'
+  long: "-70.4301"
+  nearby_rate_centers:
+  - name: GORHAM
+    distance_km: 5.95
+  - name: WINDHAM
+    distance_km: 6.7
+  - name: WESTBROOK
+    distance_km: 7.71
+- country: US
+  region: ME
+  name: Littlejohn Island
+  lat: '43.7599'
+  long: "-70.1284"
+  nearby_rate_centers:
+  - name: YARMOUTH
+    distance_km: 6.73
+  - name: FREEPORT
+    distance_km: 10.97
+  - name: CUMBERLAND
+    distance_km: 10.97
+- country: US
+  region: ME
+  name: Mattawamkeag
+  lat: '45.5177'
+  long: "-68.3523"
+  nearby_rate_centers:
+  - name: MATTAWMKEG
+    distance_km: 0.44
+  - name: KINGMAN
+    distance_km: 12.48
+  - name: LEE
+    distance_km: 18.43
+- country: US
+  region: ME
+  name: Milbridge
+  lat: '44.5343'
+  long: "-67.8903"
+  nearby_rate_centers:
+  - name: MILBRIDGE
+    distance_km: 1.26
+  - name: COLUMBIA
+    distance_km: 15.54
+  - name: WINTER HBR
+    distance_km: 21.99
+- country: US
+  region: ME
+  name: North Anson
+  lat: '44.8614'
+  long: "-69.8975"
+  nearby_rate_centers:
+  - name: NORTHANSON
+    distance_km: 0.75
+  - name: MADISON
+    distance_km: 6.8
+  - name: EMBDENLAKE
+    distance_km: 8.99
+- country: US
+  region: ME
+  name: North Windham
+  lat: '43.8233'
+  long: "-70.4293"
+  nearby_rate_centers:
+  - name: WINDHAM
+    distance_km: 4.05
+  - name: WEST GRAY
+    distance_km: 6.49
+  - name: RAYMOND
+    distance_km: 9.24
+- country: US
+  region: ME
+  name: Northeast Harbor
+  lat: '44.2936'
+  long: "-68.2914"
+  nearby_rate_centers:
+  - name: NORTHETHBR
+    distance_km: 1.23
+  - name: SOUTHWEHBR
+    distance_km: 2.95
+  - name: BAR HARBOR
+    distance_km: 12.26
+- country: US
+  region: ME
+  name: Oakfield
+  lat: '46.1020'
+  long: "-68.1518"
+  nearby_rate_centers:
+  - name: SMYRNA ML
+    distance_km: 3.28
+  - name: ISLAND FLS
+    distance_km: 13.66
+  - name: HOULTON
+    distance_km: 23.95
+- country: US
+  region: ME
+  name: Old Town
+  lat: '44.9491'
+  long: "-68.7249"
+  nearby_rate_centers:
+  - name: OLD TOWN
+    distance_km: 6.44
+  - name: ORONO
+    distance_km: 8.25
+  - name: ALTON
+    distance_km: 8.88
+- country: US
+  region: ME
+  name: Patten
+  lat: '46.0043'
+  long: "-68.4427"
+  nearby_rate_centers:
+  - name: PATTEN
+    distance_km: 0.89
+  - name: ISLAND FLS
+    distance_km: 13.35
+  - name: SHERMAN ML
+    distance_km: 15.05
+- country: US
+  region: ME
+  name: Portland
+  lat: '43.6773'
+  long: "-70.2715"
+  nearby_rate_centers:
+  - name: PORTLAND
+    distance_km: 2.6
+  - name: WESTBROOK
+    distance_km: 7.54
+  - name: SCARBOROGH
+    distance_km: 10.82
+- country: US
+  region: ME
+  name: Presque Isle
+  lat: '46.6868'
+  long: "-67.9874"
+  nearby_rate_centers:
+  - name: PRESQUE IS
+    distance_km: 1.97
+  - name: EASTON
+    distance_km: 7.6
+  - name: FT FAIRFLD
+    distance_km: 15.31
+- country: US
+  region: ME
+  name: Rangeley
+  lat: '44.9643'
+  long: "-70.6467"
+  nearby_rate_centers:
+  - name: RANGELEY
+    distance_km: 0.34
+  - name: STRATTON
+    distance_km: 25.46
+  - name: BIGELOW
+    distance_km: 27.59
+- country: US
+  region: ME
+  name: Rockland
+  lat: '44.1274'
+  long: "-69.1369"
+  nearby_rate_centers:
+  - name: ROCKLAND
+    distance_km: 2.98
+  - name: THOMASTON
+    distance_km: 6.55
+  - name: WARREN
+    distance_km: 8.28
+- country: US
+  region: ME
+  name: Sabattus
+  lat: '44.1210'
+  long: "-70.1070"
+  nearby_rate_centers:
+  - name: SABATTUS
+    distance_km: 0.25
+  - name: GREENE
+    distance_km: 8.35
+  - name: LEWISTON
+    distance_km: 9.17
+- country: US
+  region: ME
+  name: Saco
+  lat: '43.5390'
+  long: "-70.4624"
+  nearby_rate_centers:
+  - name: BIDDEFORD
+    distance_km: 5.0
+  - name: OLDORCHBCH
+    distance_km: 6.91
+  - name: GOODWINSML
+    distance_km: 10.25
+- country: US
+  region: ME
+  name: Sanford
+  lat: '43.4244'
+  long: "-70.7573"
+  nearby_rate_centers:
+  - name: SANFORD
+    distance_km: 2.3
+  - name: LEBANON
+    distance_km: 9.24
+  - name: WATERBORO
+    distance_km: 13.15
+- country: US
+  region: ME
+  name: South Berwick
+  lat: '43.2321'
+  long: "-70.7963"
+  nearby_rate_centers:
+  - name: SO BERWICK
+    distance_km: 0.97
+  - name: ELIOT
+    distance_km: 5.92
+  - name: BERWICK
+    distance_km: 6.05
+- country: US
+  region: ME
+  name: South Eliot
+  lat: '43.1287'
+  long: "-70.7952"
+  nearby_rate_centers:
+  - name: ELIOT
+    distance_km: 5.93
+  - name: KITTERY
+    distance_km: 6.38
+  - name: YORK
+    distance_km: 11.68
+- country: US
+  region: ME
+  name: South Paris
+  lat: '44.2190'
+  long: "-70.5113"
+  nearby_rate_centers:
+  - name: NORWAY
+    distance_km: 1.78
+  - name: HEBRON
+    distance_km: 8.94
+  - name: NO NORWAY
+    distance_km: 10.23
+- country: US
+  region: ME
+  name: South Portland
+  lat: '43.6310'
+  long: "-70.2895"
+  nearby_rate_centers:
+  - name: PORTLAND
+    distance_km: 3.38
+  - name: SCARBOROGH
+    distance_km: 5.75
+  - name: WESTBROOK
+    distance_km: 8.18
+- country: US
+  region: ME
+  name: South Windham
+  lat: '43.7380'
+  long: "-70.4236"
+  nearby_rate_centers:
+  - name: WINDHAM
+    distance_km: 5.84
+  - name: GORHAM
+    distance_km: 6.79
+  - name: WESTBROOK
+    distance_km: 7.96
+- country: US
+  region: ME
+  name: Steep Falls
+  lat: '43.7905'
+  long: "-70.6275"
+  nearby_rate_centers:
+  - name: STEEPFALLS
+    distance_km: 1.43
+  - name: LIMINGTON
+    distance_km: 6.75
+  - name: SEBAGO
+    distance_km: 7.57
+- country: US
+  region: ME
+  name: Turner
+  lat: '44.2581'
+  long: "-70.2580"
+  nearby_rate_centers:
+  - name: NO TURNER
+    distance_km: 2.46
+  - name: TURNER
+    distance_km: 2.46
+  - name: LEEDS
+    distance_km: 7.96
+  - name: BUCKFIELD
+    distance_km: 8.34
+- country: US
+  region: ME
+  name: Vanceboro
+  lat: '45.5674'
+  long: "-67.4293"
+  nearby_rate_centers:
+  - name: VANCEBORO
+    distance_km: 0.33
+  - name: DANFORTH
+    distance_km: 35.59
+  - name: PRINCETON
+    distance_km: 40.09
+- country: US
+  region: ME
+  name: Veazie
+  lat: '44.8407'
+  long: "-68.7134"
+  nearby_rate_centers:
+  - name: ORONO
+    distance_km: 5.76
+  - name: BANGOR
+    distance_km: 5.98
+  - name: OLD TOWN
+    distance_km: 11.61
+- country: US
+  region: ME
+  name: Waterville
+  lat: '44.5441'
+  long: "-69.6624"
+  nearby_rate_centers:
+  - name: WATERVILLE
+    distance_km: 2.74
+  - name: OAKLAND
+    distance_km: 4.24
+  - name: FAIRFIELD
+    distance_km: 7.01
+- country: US
+  region: ME
+  name: West Kennebunk
+  lat: '43.4142'
+  long: "-70.5810"
+  nearby_rate_centers:
+  - name: KENNEBUNK
+    distance_km: 4.85
+  - name: KENNEBNKPT
+    distance_km: 10.43
+  - name: GOODWINSML
+    distance_km: 10.46
+- country: US
+  region: ME
+  name: Westbrook
+  lat: '43.6954'
+  long: "-70.3539"
+  nearby_rate_centers:
+  - name: WESTBROOK
+    distance_km: 1.92
+  - name: GORHAM
+    distance_km: 7.29
+  - name: PORTLAND
+    distance_km: 8.59
+- country: US
+  region: ME
+  name: York Harbor
+  lat: '43.1435'
+  long: "-70.6490"
+  nearby_rate_centers:
+  - name: YORK
+    distance_km: 0.29
+  - name: KITTERY
+    distance_km: 10.0
+  - name: ELIOT
+    distance_km: 13.97

@@ -1,0 +1,1526 @@
+---
+cities:
+- country: US
+  region: MA
+  name: Acushnet Center
+  lat: '41.6850'
+  long: "-70.9064"
+  nearby_rate_centers:
+  - name: NEWBEDFORD
+    distance_km: 5.89
+  - name: MATTAPOSTT
+    distance_km: 8.01
+  - name: ROCHESTER
+    distance_km: 10.59
+- country: US
+  region: MA
+  name: Attleboro
+  lat: '41.9311'
+  long: "-71.2950"
+  nearby_rate_centers:
+  - name: ATTLEBORO
+    distance_km: 2.08
+  - name: NO ATTLEBO
+    distance_km: 6.48
+  - name: SOUTHGATE
+    distance_km: 7.04
+- country: US
+  region: MA
+  name: Baldwinville
+  lat: '42.6048'
+  long: "-72.0771"
+  nearby_rate_centers:
+  - name: TEMPLETON
+    distance_km: 0.13
+  - name: GARDNER
+    distance_km: 7.28
+  - name: WINCHENDON
+    distance_km: 8.95
+- country: US
+  region: MA
+  name: Beverly
+  lat: '42.5681'
+  long: "-70.8627"
+  nearby_rate_centers:
+  - name: BEVERLY
+    distance_km: 1.94
+  - name: HAMILTON
+    distance_km: 4.71
+  - name: DANVERS
+    distance_km: 5.72
+- country: US
+  region: MA
+  name: Bliss Corner
+  lat: '41.6053'
+  long: "-70.9421"
+  nearby_rate_centers:
+  - name: NEWBEDFORD
+    distance_km: 3.49
+  - name: WESTPORT
+    distance_km: 11.54
+  - name: MATTAPOSTT
+    distance_km: 12.25
+- country: US
+  region: MA
+  name: Boston
+  lat: '42.3188'
+  long: "-71.0852"
+  nearby_rate_centers:
+  - name: ROXBURY
+    distance_km: 0.69
+  - name: JAMAICA PL
+    distance_km: 2.17
+  - name: DORCHESTER
+    distance_km: 2.46
+- country: US
+  region: MA
+  name: Brockton
+  lat: '42.0821'
+  long: "-71.0242"
+  nearby_rate_centers:
+  - name: BROCKTON
+    distance_km: 0.63
+  - name: EASTON
+    distance_km: 6.67
+  - name: WHITMAN
+    distance_km: 7.15
+- country: US
+  region: MA
+  name: Buzzards Bay
+  lat: '41.7550'
+  long: "-70.6128"
+  nearby_rate_centers:
+  - name: BUZZARDSBY
+    distance_km: 0.8
+  - name: SAGAMORE
+    distance_km: 7.18
+  - name: WAREHAM
+    distance_km: 8.79
+- country: US
+  region: MA
+  name: Cambridge
+  lat: '42.3759'
+  long: "-71.1185"
+  nearby_rate_centers:
+  - name: CAMBRIDGE
+    distance_km: 0.49
+  - name: SOMERVILLE
+    distance_km: 2.08
+  - name: BROOKLINE
+    distance_km: 3.93
+- country: US
+  region: MA
+  name: Cedar Crest
+  lat: '42.0764'
+  long: "-70.6613"
+  nearby_rate_centers:
+  - name: MARSHFIELD
+    distance_km: 5.75
+  - name: DUXBURY
+    distance_km: 5.87
+  - name: KINGSTON
+    distance_km: 10.6
+- country: US
+  region: MA
+  name: Chelsea
+  lat: '42.3959'
+  long: "-71.0325"
+  nearby_rate_centers:
+  - name: CHELSEA
+    distance_km: 0.09
+  - name: REVERE
+    distance_km: 2.01
+  - name: EVERETT
+    distance_km: 2.03
+- country: US
+  region: MA
+  name: Chicopee
+  lat: '42.1764'
+  long: "-72.5719"
+  nearby_rate_centers:
+  - name: CHICOPEE
+    distance_km: 3.83
+  - name: HOLYOKE
+    distance_km: 4.63
+  - name: LUDLOW
+    distance_km: 7.8
+- country: US
+  region: MA
+  name: Cochituate
+  lat: '42.3290'
+  long: "-71.3576"
+  nearby_rate_centers:
+  - name: WAYLAND
+    distance_km: 3.87
+  - name: NATICK
+    distance_km: 5.13
+  - name: SUDBURY
+    distance_km: 5.88
+- country: US
+  region: MA
+  name: Cordaville
+  lat: '42.2727'
+  long: "-71.5221"
+  nearby_rate_centers:
+  - name: HOPKINTON
+    distance_km: 4.9
+  - name: WESTBORO
+    distance_km: 7.69
+  - name: FRAMINGHAM
+    distance_km: 8.21
+- country: US
+  region: MA
+  name: Dennis Port
+  lat: '41.6677'
+  long: "-70.1358"
+  nearby_rate_centers:
+  - name: DENNIS
+    distance_km: 4.36
+  - name: HARWICH
+    distance_km: 5.6
+  - name: BREWSTER
+    distance_km: 11.76
+- country: US
+  region: MA
+  name: Devens
+  lat: '42.5439'
+  long: "-71.6146"
+  nearby_rate_centers:
+  - name: AYER
+    distance_km: 2.74
+  - name: SHIRLEY
+    distance_km: 2.96
+  - name: HARVARD
+    distance_km: 5.32
+- country: US
+  region: MA
+  name: East Dennis
+  lat: '41.7392'
+  long: "-70.1577"
+  nearby_rate_centers:
+  - name: BREWSTER
+    distance_km: 7.45
+  - name: DENNIS
+    distance_km: 8.3
+  - name: HARWICH
+    distance_km: 9.22
+- country: US
+  region: MA
+  name: East Douglas
+  lat: '42.0779'
+  long: "-71.7121"
+  nearby_rate_centers:
+  - name: E DOUGLAS
+    distance_km: 0.75
+  - name: WHITINSVL
+    distance_km: 5.21
+  - name: UXBRIDGE
+    distance_km: 6.68
+- country: US
+  region: MA
+  name: East Falmouth
+  lat: '41.5708'
+  long: "-70.5556"
+  nearby_rate_centers:
+  - name: FALMOUTH
+    distance_km: 5.27
+  - name: CATAUMET
+    distance_km: 11.64
+  - name: VINEYRDHVN
+    distance_km: 13.83
+- country: US
+  region: MA
+  name: East Harwich
+  lat: '41.7081'
+  long: "-70.0339"
+  nearby_rate_centers:
+  - name: HARWICH
+    distance_km: 4.08
+  - name: CHATHAM
+    distance_km: 6.45
+  - name: BREWSTER
+    distance_km: 6.91
+- country: US
+  region: MA
+  name: East Pepperell
+  lat: '42.6654'
+  long: "-71.5635"
+  nearby_rate_centers:
+  - name: PEPPERELL
+    distance_km: 1.33
+  - name: GROTON
+    distance_km: 6.39
+  - name: TYNGSBORO
+    distance_km: 11.3
+- country: US
+  region: MA
+  name: East Sandwich
+  lat: '41.7365'
+  long: "-70.4341"
+  nearby_rate_centers:
+  - name: SAGAMORE
+    distance_km: 8.64
+  - name: BARNSTABLE
+    distance_km: 11.65
+  - name: OSTERVILLE
+    distance_km: 12.96
+- country: US
+  region: MA
+  name: Everett
+  lat: '42.4064'
+  long: "-71.0545"
+  nearby_rate_centers:
+  - name: EVERETT
+    distance_km: 0.17
+  - name: CHELSEA
+    distance_km: 2.14
+  - name: MALDEN
+    distance_km: 2.99
+- country: US
+  region: MA
+  name: Fall River
+  lat: '41.7136'
+  long: "-71.1015"
+  nearby_rate_centers:
+  - name: FALL RIVER
+    distance_km: 4.35
+  - name: ASSONET
+    distance_km: 9.62
+  - name: DIGHTON
+    distance_km: 11.47
+- country: US
+  region: MA
+  name: Fiskdale
+  lat: '42.1229'
+  long: "-72.1089"
+  nearby_rate_centers:
+  - name: STURBRIDGE
+    distance_km: 2.9
+  - name: BRIMFIELD
+    distance_km: 7.94
+  - name: SOUTHBDG
+    distance_km: 8.47
+- country: US
+  region: MA
+  name: Fitchburg
+  lat: '42.5912'
+  long: "-71.8156"
+  nearby_rate_centers:
+  - name: FITCHBURG
+    distance_km: 1.16
+  - name: LUNENBURG
+    distance_km: 7.48
+  - name: LEOMINSTER
+    distance_km: 8.19
+- country: US
+  region: MA
+  name: Forestdale
+  lat: '41.6846'
+  long: "-70.5082"
+  nearby_rate_centers:
+  - name: CATAUMET
+    distance_km: 8.76
+  - name: SAGAMORE
+    distance_km: 9.59
+  - name: BUZZARDSBY
+    distance_km: 10.9
+- country: US
+  region: MA
+  name: Framingham
+  lat: '42.3085'
+  long: "-71.4368"
+  nearby_rate_centers:
+  - name: FRAMINGHAM
+    distance_km: 3.21
+  - name: SUDBURY
+    distance_km: 6.37
+  - name: NATICK
+    distance_km: 8.4
+- country: US
+  region: MA
+  name: Gardner
+  lat: '42.5845'
+  long: "-71.9868"
+  nearby_rate_centers:
+  - name: GARDNER
+    distance_km: 1.16
+  - name: WESTMINSTR
+    distance_km: 7.56
+  - name: TEMPLETON
+    distance_km: 7.7
+- country: US
+  region: MA
+  name: Gloucester
+  lat: '42.6260'
+  long: "-70.6897"
+  nearby_rate_centers:
+  - name: GLOUCESTER
+    distance_km: 2.87
+  - name: ROCKPORT
+    distance_km: 6.72
+  - name: ESSEX
+    distance_km: 7.59
+- country: US
+  region: MA
+  name: Green Harbor
+  lat: '42.0680'
+  long: "-70.6499"
+  nearby_rate_centers:
+  - name: DUXBURY
+    distance_km: 5.35
+  - name: MARSHFIELD
+    distance_km: 7.04
+  - name: KINGSTON
+    distance_km: 10.33
+- country: US
+  region: MA
+  name: Hanscom AFB
+  lat: '42.4582'
+  long: "-71.2793"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance_km: 4.18
+  - name: LINCOLN
+    distance_km: 4.52
+  - name: CONCORD
+    distance_km: 5.52
+- country: US
+  region: MA
+  name: Harwich Center
+  lat: '41.6923'
+  long: "-70.0694"
+  nearby_rate_centers:
+  - name: HARWICH
+    distance_km: 0.79
+  - name: BREWSTER
+    distance_km: 7.84
+  - name: CHATHAM
+    distance_km: 8.84
+- country: US
+  region: MA
+  name: Harwich Port
+  lat: '41.6724'
+  long: "-70.0641"
+  nearby_rate_centers:
+  - name: HARWICH
+    distance_km: 1.65
+  - name: CHATHAM
+    distance_km: 8.44
+  - name: BREWSTER
+    distance_km: 10.08
+- country: US
+  region: MA
+  name: Haverhill
+  lat: '42.7838'
+  long: "-71.0871"
+  nearby_rate_centers:
+  - name: HAVERHILL
+    distance_km: 1.06
+  - name: W NEWBURY
+    distance_km: 7.74
+  - name: MERRIMAC
+    distance_km: 8.97
+- country: US
+  region: MA
+  name: Holyoke
+  lat: '42.2125'
+  long: "-72.6411"
+  nearby_rate_centers:
+  - name: HOLYOKE
+    distance_km: 2.41
+  - name: EASTHAMPTN
+    distance_km: 6.79
+  - name: CHICOPEE
+    distance_km: 8.15
+- country: US
+  region: MA
+  name: Housatonic
+  lat: '42.2487'
+  long: "-73.3626"
+  nearby_rate_centers:
+  - name: HOUSATONIC
+    distance_km: 0.69
+  - name: STOCKBDG
+    distance_km: 5.38
+  - name: GREATBNGTN
+    distance_km: 6.27
+- country: US
+  region: MA
+  name: Lawrence
+  lat: '42.7002'
+  long: "-71.1626"
+  nearby_rate_centers:
+  - name: LAWRENCE
+    distance_km: 0.81
+  - name: ANDOVER
+    distance_km: 5.08
+  - name: HAVERHILL
+    distance_km: 11.18
+- country: US
+  region: MA
+  name: Lenox Dale
+  lat: '42.3339'
+  long: "-73.2496"
+  nearby_rate_centers:
+  - name: LEE
+    distance_km: 3.01
+  - name: LENOX
+    distance_km: 3.71
+  - name: STOCKBDG
+    distance_km: 7.97
+- country: US
+  region: MA
+  name: Leominster
+  lat: '42.5209'
+  long: "-71.7717"
+  nearby_rate_centers:
+  - name: LEOMINSTER
+    distance_km: 1.07
+  - name: FITCHBURG
+    distance_km: 7.47
+  - name: LUNENBURG
+    distance_km: 8.89
+- country: US
+  region: MA
+  name: Littleton Common
+  lat: '42.5352'
+  long: "-71.4727"
+  nearby_rate_centers:
+  - name: LITTLETON
+    distance_km: 1.1
+  - name: WESTFORD
+    distance_km: 6.49
+  - name: ACTON
+    distance_km: 6.78
+- country: US
+  region: MA
+  name: Lowell
+  lat: '42.6389'
+  long: "-71.3217"
+  nearby_rate_centers:
+  - name: LOWELL
+    distance_km: 0.97
+  - name: TYNGSBORO
+    distance_km: 9.39
+  - name: BILLERICA
+    distance_km: 9.84
+- country: US
+  region: MA
+  name: Lynn
+  lat: '42.4781'
+  long: "-70.9664"
+  nearby_rate_centers:
+  - name: LYNN
+    distance_km: 1.71
+  - name: SAUGUS
+    distance_km: 4.63
+  - name: PEABODY
+    distance_km: 6.17
+- country: US
+  region: MA
+  name: Madaket
+  lat: '41.2826'
+  long: "-70.1855"
+  nearby_rate_centers:
+  - name: NANTUCKET
+    distance_km: 7.43
+  - name: SIASCONSET
+    distance_km: 18.28
+  - name: EDGARTOWN
+    distance_km: 29.94
+- country: US
+  region: MA
+  name: Malden
+  lat: '42.4305'
+  long: "-71.0576"
+  nearby_rate_centers:
+  - name: MALDEN
+    distance_km: 1.66
+  - name: EVERETT
+    distance_km: 2.68
+  - name: MELROSE
+    distance_km: 3.07
+- country: US
+  region: MA
+  name: Mansfield Center
+  lat: '42.0225'
+  long: "-71.2180"
+  nearby_rate_centers:
+  - name: MANSFIELD
+    distance_km: 0.88
+  - name: FOXBORO
+    distance_km: 5.27
+  - name: NORTON
+    distance_km: 6.95
+- country: US
+  region: MA
+  name: Marion Center
+  lat: '41.7042'
+  long: "-70.7629"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 0.39
+  - name: MATTAPOSTT
+    distance_km: 6.44
+  - name: WAREHAM
+    distance_km: 6.78
+- country: US
+  region: MA
+  name: Marlborough
+  lat: '42.3494'
+  long: "-71.5468"
+  nearby_rate_centers:
+  - name: MARLBORO
+    distance_km: 0.5
+  - name: HUDSON
+    distance_km: 5.17
+  - name: NORTHBORO
+    distance_km: 8.03
+- country: US
+  region: MA
+  name: Marshfield Hills
+  lat: '42.1487'
+  long: "-70.7315"
+  nearby_rate_centers:
+  - name: MARSHFIELD
+    distance_km: 5.16
+  - name: NORWELL
+    distance_km: 5.76
+  - name: SCITUATE
+    distance_km: 6.06
+- country: US
+  region: MA
+  name: Mashpee Neck
+  lat: '41.6119'
+  long: "-70.4666"
+  nearby_rate_centers:
+  - name: OSTERVILLE
+    distance_km: 6.72
+  - name: CATAUMET
+    distance_km: 13.47
+  - name: FALMOUTH
+    distance_km: 13.94
+- country: US
+  region: MA
+  name: Mattapoisett Center
+  lat: '41.6666'
+  long: "-70.8056"
+  nearby_rate_centers:
+  - name: MATTAPOSTT
+    distance_km: 0.98
+  - name: MARION
+    distance_km: 5.14
+  - name: NEWBEDFORD
+    distance_km: 10.56
+- country: US
+  region: MA
+  name: Medford
+  lat: '42.4234'
+  long: "-71.1087"
+  nearby_rate_centers:
+  - name: MEDFORD
+    distance_km: 0.61
+  - name: MALDEN
+    distance_km: 2.61
+  - name: ARLINGTON
+    distance_km: 3.92
+- country: US
+  region: MA
+  name: Melrose
+  lat: '42.4556'
+  long: "-71.0590"
+  nearby_rate_centers:
+  - name: MELROSE
+    distance_km: 0.76
+  - name: MALDEN
+    distance_km: 3.48
+  - name: SAUGUS
+    distance_km: 4.04
+- country: US
+  region: MA
+  name: Methuen Town
+  lat: '42.7340'
+  long: "-71.1889"
+  nearby_rate_centers:
+  - name: LAWRENCE
+    distance_km: 3.58
+  - name: ANDOVER
+    distance_km: 9.39
+  - name: HAVERHILL
+    distance_km: 10.42
+- country: US
+  region: MA
+  name: Middleborough Center
+  lat: '41.8945'
+  long: "-70.9260"
+  nearby_rate_centers:
+  - name: MIDDLEBORO
+    distance_km: 1.52
+  - name: BRIDGEWTR
+    distance_km: 11.17
+  - name: ROCHESTER
+    distance_km: 12.82
+- country: US
+  region: MA
+  name: Millers Falls
+  lat: '42.5792'
+  long: "-72.4925"
+  nearby_rate_centers:
+  - name: MILLERSFLS
+    distance_km: 0.1
+  - name: MONTAGUE
+    distance_km: 6.1
+  - name: TURNERSFLS
+    distance_km: 6.27
+- country: US
+  region: MA
+  name: Millis-Clicquot
+  lat: '42.1648'
+  long: "-71.3544"
+  nearby_rate_centers:
+  - name: MILLIS
+    distance_km: 0.43
+  - name: MEDFIELD
+    distance_km: 4.87
+  - name: MEDWAY
+    distance_km: 6.1
+- country: US
+  region: MA
+  name: Monomoscoy Island
+  lat: '41.5712'
+  long: "-70.5026"
+  nearby_rate_centers:
+  - name: FALMOUTH
+    distance_km: 9.47
+  - name: OSTERVILLE
+    distance_km: 11.29
+  - name: CATAUMET
+    distance_km: 13.95
+- country: US
+  region: MA
+  name: Monson Center
+  lat: '42.0990'
+  long: "-72.3048"
+  nearby_rate_centers:
+  - name: MONSON
+    distance_km: 1.43
+  - name: PALMER
+    distance_km: 6.79
+  - name: BRIMFIELD
+    distance_km: 8.65
+- country: US
+  region: MA
+  name: Monument Beach
+  lat: '41.7192'
+  long: "-70.6060"
+  nearby_rate_centers:
+  - name: BUZZARDSBY
+    distance_km: 3.55
+  - name: CATAUMET
+    distance_km: 5.82
+  - name: SAGAMORE
+    distance_km: 8.52
+- country: US
+  region: MA
+  name: New Bedford
+  lat: '41.6697'
+  long: "-70.9428"
+  nearby_rate_centers:
+  - name: NEWBEDFORD
+    distance_km: 4.25
+  - name: MATTAPOSTT
+    distance_km: 10.63
+  - name: ROCHESTER
+    distance_km: 12.67
+- country: US
+  region: MA
+  name: New Seabury
+  lat: '41.5689'
+  long: "-70.4812"
+  nearby_rate_centers:
+  - name: OSTERVILLE
+    distance_km: 9.98
+  - name: FALMOUTH
+    distance_km: 11.16
+  - name: CATAUMET
+    distance_km: 15.34
+- country: US
+  region: MA
+  name: Newburyport
+  lat: '42.8124'
+  long: "-70.8878"
+  nearby_rate_centers:
+  - name: NEWBURYPT
+    distance_km: 1.34
+  - name: AMESBURY
+    distance_km: 5.96
+  - name: W NEWBURY
+    distance_km: 8.85
+- country: US
+  region: MA
+  name: Newton
+  lat: '42.3316'
+  long: "-71.2085"
+  nearby_rate_centers:
+  - name: NEWTON
+    distance_km: 2.38
+  - name: WATERTOWN
+    distance_km: 4.5
+  - name: BRIGHTON
+    distance_km: 5.12
+- country: US
+  region: MA
+  name: North Adams
+  lat: '42.6844'
+  long: "-73.1166"
+  nearby_rate_centers:
+  - name: NORTHADAMS
+    distance_km: 1.29
+  - name: ADAMS
+    distance_km: 6.89
+  - name: WILLIAMSTN
+    distance_km: 7.43
+- country: US
+  region: MA
+  name: North Eastham
+  lat: '41.8539'
+  long: "-69.9968"
+  nearby_rate_centers:
+  - name: ORLEANS
+    distance_km: 7.38
+  - name: WELLFLEET
+    distance_km: 9.94
+  - name: BREWSTER
+    distance_km: 11.97
+- country: US
+  region: MA
+  name: North Falmouth
+  lat: '41.6394'
+  long: "-70.6251"
+  nearby_rate_centers:
+  - name: CATAUMET
+    distance_km: 3.28
+  - name: FALMOUTH
+    distance_km: 9.88
+  - name: BUZZARDSBY
+    distance_km: 12.53
+- country: US
+  region: MA
+  name: North Lakeville
+  lat: '41.8620'
+  long: "-70.9411"
+  nearby_rate_centers:
+  - name: MIDDLEBORO
+    distance_km: 4.4
+  - name: ROCHESTER
+    distance_km: 9.56
+  - name: ASSONET
+    distance_km: 12.88
+- country: US
+  region: MA
+  name: North Pembroke
+  lat: '42.0989'
+  long: "-70.7823"
+  nearby_rate_centers:
+  - name: HANOVER
+    distance_km: 3.04
+  - name: MARSHFIELD
+    distance_km: 5.07
+  - name: NORWELL
+    distance_km: 7.1
+- country: US
+  region: MA
+  name: North Plymouth
+  lat: '41.9727'
+  long: "-70.6889"
+  nearby_rate_centers:
+  - name: PLYMOUTH
+    distance_km: 2.38
+  - name: KINGSTON
+    distance_km: 3.71
+  - name: DUXBURY
+    distance_km: 5.91
+- country: US
+  region: MA
+  name: North Scituate
+  lat: '42.2121'
+  long: "-70.7652"
+  nearby_rate_centers:
+  - name: SCITUATE
+    distance_km: 1.54
+  - name: COHASSET
+    distance_km: 4.66
+  - name: NORWELL
+    distance_km: 6.28
+- country: US
+  region: MA
+  name: North Seekonk
+  lat: '41.8883'
+  long: "-71.3297"
+  nearby_rate_centers:
+  - name: SOUTHGATE
+    distance_km: 3.42
+  - name: ATTLEBORO
+    distance_km: 7.64
+  - name: SEEKONK
+    distance_km: 8.61
+- country: US
+  region: MA
+  name: North Westport
+  lat: '41.6540'
+  long: "-71.0927"
+  nearby_rate_centers:
+  - name: FALL RIVER
+    distance_km: 7.7
+  - name: WESTPORT
+    distance_km: 9.38
+  - name: NEWBEDFORD
+    distance_km: 14.12
+- country: US
+  region: MA
+  name: Northampton
+  lat: '42.3266'
+  long: "-72.6745"
+  nearby_rate_centers:
+  - name: NORTHAMPTN
+    distance_km: 3.54
+  - name: EASTHAMPTN
+    distance_km: 6.32
+  - name: HATFIELD
+    distance_km: 8.09
+- country: US
+  region: MA
+  name: Northwest Harwich
+  lat: '41.6917'
+  long: "-70.1026"
+  nearby_rate_centers:
+  - name: HARWICH
+    distance_km: 2.56
+  - name: DENNIS
+    distance_km: 7.59
+  - name: BREWSTER
+    distance_km: 8.26
+- country: US
+  region: MA
+  name: Norton Center
+  lat: '41.9725'
+  long: "-71.1854"
+  nearby_rate_centers:
+  - name: NORTON
+    distance_km: 0.84
+  - name: MANSFIELD
+    distance_km: 6.9
+  - name: ATTLEBORO
+    distance_km: 8.55
+- country: US
+  region: MA
+  name: Oak Bluffs
+  lat: '41.4551'
+  long: "-70.5657"
+  nearby_rate_centers:
+  - name: VINEYRDHVN
+    distance_km: 3.24
+  - name: EDGARTOWN
+    distance_km: 8.34
+  - name: FALMOUTH
+    distance_km: 11.37
+- country: US
+  region: MA
+  name: Ocean Bluff-Brant Rock
+  lat: '42.1006'
+  long: "-70.6626"
+  nearby_rate_centers:
+  - name: MARSHFIELD
+    distance_km: 4.83
+  - name: DUXBURY
+    distance_km: 8.48
+  - name: HANOVER
+    distance_km: 12.6
+- country: US
+  region: MA
+  name: Ocean Grove
+  lat: '41.7281'
+  long: "-71.2098"
+  nearby_rate_centers:
+  - name: FALL RIVER
+    distance_km: 5.29
+  - name: NO SWANSEA
+    distance_km: 7.02
+  - name: DIGHTON
+    distance_km: 11.74
+- country: US
+  region: MA
+  name: Onset
+  lat: '41.7481'
+  long: "-70.6670"
+  nearby_rate_centers:
+  - name: WAREHAM
+    distance_km: 4.38
+  - name: BUZZARDSBY
+    distance_km: 5.18
+  - name: MARION
+    distance_km: 9.61
+- country: US
+  region: MA
+  name: Peabody
+  lat: '42.5335'
+  long: "-70.9725"
+  nearby_rate_centers:
+  - name: PEABODY
+    distance_km: 3.82
+  - name: DANVERS
+    distance_km: 4.7
+  - name: LYNNFIELD
+    distance_km: 6.24
+- country: US
+  region: MA
+  name: Pinehurst
+  lat: '42.5334'
+  long: "-71.2339"
+  nearby_rate_centers:
+  - name: BILLERICA
+    distance_km: 3.95
+  - name: BURLINGTON
+    distance_km: 4.78
+  - name: WILMINGTON
+    distance_km: 5.24
+- country: US
+  region: MA
+  name: Pittsfield
+  lat: '42.4517'
+  long: "-73.2605"
+  nearby_rate_centers:
+  - name: PITTSFIELD
+    distance_km: 0.49
+  - name: DALTON
+    distance_km: 7.74
+  - name: LENOX
+    distance_km: 10.89
+- country: US
+  region: MA
+  name: Pocasset
+  lat: '41.6877'
+  long: "-70.6195"
+  nearby_rate_centers:
+  - name: CATAUMET
+    distance_km: 2.41
+  - name: BUZZARDSBY
+    distance_km: 7.15
+  - name: WAREHAM
+    distance_km: 11.17
+- country: US
+  region: MA
+  name: Popponesset
+  lat: '41.5737'
+  long: "-70.4636"
+  nearby_rate_centers:
+  - name: OSTERVILLE
+    distance_km: 8.52
+  - name: FALMOUTH
+    distance_km: 12.69
+  - name: CATAUMET
+    distance_km: 16.05
+- country: US
+  region: MA
+  name: Popponesset Island
+  lat: '41.5855'
+  long: "-70.4591"
+  nearby_rate_centers:
+  - name: OSTERVILLE
+    distance_km: 7.4
+  - name: FALMOUTH
+    distance_km: 13.38
+  - name: CATAUMET
+    distance_km: 15.54
+- country: US
+  region: MA
+  name: Quincy
+  lat: '42.2506'
+  long: "-71.0187"
+  nearby_rate_centers:
+  - name: QUINCY
+    distance_km: 1.23
+  - name: BRAINTREE
+    distance_km: 3.99
+  - name: MILTON
+    distance_km: 4.68
+- country: US
+  region: MA
+  name: Raynham Center
+  lat: '41.9327'
+  long: "-71.0431"
+  nearby_rate_centers:
+  - name: TAUNTON
+    distance_km: 5.2
+  - name: BRIDGEWTR
+    distance_km: 8.14
+  - name: MIDDLEBORO
+    distance_km: 12.05
+- country: US
+  region: MA
+  name: Revere
+  lat: '42.4189'
+  long: "-71.0040"
+  nearby_rate_centers:
+  - name: REVERE
+    distance_km: 1.56
+  - name: CHELSEA
+    distance_km: 3.56
+  - name: SAUGUS
+    distance_km: 3.68
+- country: US
+  region: MA
+  name: Sagamore
+  lat: '41.7842'
+  long: "-70.5332"
+  nearby_rate_centers:
+  - name: SAGAMORE
+    distance_km: 1.68
+  - name: BUZZARDSBY
+    distance_km: 6.98
+  - name: CATAUMET
+    distance_km: 14.55
+- country: US
+  region: MA
+  name: Salem
+  lat: '42.5129'
+  long: "-70.9021"
+  nearby_rate_centers:
+  - name: SALEM
+    distance_km: 0.81
+  - name: PEABODY
+    distance_km: 2.48
+  - name: MARBLEHEAD
+    distance_km: 3.62
+- country: US
+  region: MA
+  name: Seabrook
+  lat: '41.5831'
+  long: "-70.4992"
+  nearby_rate_centers:
+  - name: FALMOUTH
+    distance_km: 10.13
+  - name: OSTERVILLE
+    distance_km: 10.39
+  - name: CATAUMET
+    distance_km: 13.17
+- country: US
+  region: MA
+  name: Seconsett Island
+  lat: '41.5662'
+  long: "-70.5123"
+  nearby_rate_centers:
+  - name: FALMOUTH
+    distance_km: 8.56
+  - name: OSTERVILLE
+    distance_km: 12.26
+  - name: CATAUMET
+    distance_km: 13.89
+- country: US
+  region: MA
+  name: Shelburne Falls
+  lat: '42.6063'
+  long: "-72.7436"
+  nearby_rate_centers:
+  - name: SHELBUNFLS
+    distance_km: 0.65
+  - name: COLRAIN
+    distance_km: 7.93
+  - name: ASHFIELD
+    distance_km: 9.77
+- country: US
+  region: MA
+  name: Siasconset
+  lat: '41.2636'
+  long: "-69.9718"
+  nearby_rate_centers:
+  - name: SIASCONSET
+    distance_km: 0.31
+  - name: NANTUCKET
+    distance_km: 10.63
+  - name: CHATHAM
+    distance_km: 46.69
+- country: US
+  region: MA
+  name: Smith Mills
+  lat: '41.6432'
+  long: "-70.9922"
+  nearby_rate_centers:
+  - name: NEWBEDFORD
+    distance_km: 5.69
+  - name: WESTPORT
+    distance_km: 10.47
+  - name: MATTAPOSTT
+    distance_km: 14.84
+- country: US
+  region: MA
+  name: Somerville
+  lat: '42.3908'
+  long: "-71.1014"
+  nearby_rate_centers:
+  - name: SOMERVILLE
+    distance_km: 0.48
+  - name: CAMBRIDGE
+    distance_km: 2.23
+  - name: MEDFORD
+    distance_km: 3.17
+- country: US
+  region: MA
+  name: South Ashburnham
+  lat: '42.6138'
+  long: "-71.9384"
+  nearby_rate_centers:
+  - name: ASHBURNHAM
+    distance_km: 3.0
+  - name: GARDNER
+    distance_km: 6.28
+  - name: WESTMINSTR
+    distance_km: 7.64
+- country: US
+  region: MA
+  name: South Deerfield
+  lat: '42.4795'
+  long: "-72.5947"
+  nearby_rate_centers:
+  - name: SO DEERFLD
+    distance_km: 0.94
+  - name: MONTAGUE
+    distance_km: 7.81
+  - name: CONWAY
+    distance_km: 9.39
+- country: US
+  region: MA
+  name: South Dennis
+  lat: '41.7051'
+  long: "-70.1537"
+  nearby_rate_centers:
+  - name: DENNIS
+    distance_km: 5.02
+  - name: HARWICH
+    distance_km: 7.05
+  - name: BREWSTER
+    distance_km: 9.23
+- country: US
+  region: MA
+  name: South Duxbury
+  lat: '42.0203'
+  long: "-70.6913"
+  nearby_rate_centers:
+  - name: DUXBURY
+    distance_km: 1.08
+  - name: KINGSTON
+    distance_km: 4.05
+  - name: PLYMOUTH
+    distance_km: 7.12
+- country: US
+  region: MA
+  name: South Lancaster
+  lat: '42.4373'
+  long: "-71.6920"
+  nearby_rate_centers:
+  - name: CLINTON
+    distance_km: 2.57
+  - name: STERLING
+    distance_km: 5.51
+  - name: BOLTON
+    distance_km: 6.12
+- country: US
+  region: MA
+  name: South Yarmouth
+  lat: '41.6692'
+  long: "-70.2005"
+  nearby_rate_centers:
+  - name: DENNIS
+    distance_km: 1.02
+  - name: HYANNIS
+    distance_km: 7.41
+  - name: BARNSTABLE
+    distance_km: 9.15
+- country: US
+  region: MA
+  name: Springfield
+  lat: '42.1155'
+  long: "-72.5395"
+  nearby_rate_centers:
+  - name: SPRINGFLD
+    distance_km: 4.64
+  - name: CHICOPEE
+    distance_km: 5.86
+  - name: ELONGMEDOW
+    distance_km: 6.14
+- country: US
+  region: MA
+  name: Taunton
+  lat: '41.9036'
+  long: "-71.0943"
+  nearby_rate_centers:
+  - name: TAUNTON
+    distance_km: 0.13
+  - name: NORTON
+    distance_km: 10.14
+  - name: DIGHTON
+    distance_km: 10.29
+- country: US
+  region: MA
+  name: Teaticket
+  lat: '41.5624'
+  long: "-70.5858"
+  nearby_rate_centers:
+  - name: FALMOUTH
+    distance_km: 2.6
+  - name: CATAUMET
+    distance_km: 11.81
+  - name: VINEYRDHVN
+    distance_km: 12.39
+- country: US
+  region: MA
+  name: The Pinehills
+  lat: '41.8946'
+  long: "-70.5966"
+  nearby_rate_centers:
+  - name: PLYMOUTH
+    distance_km: 9.22
+  - name: CARVER
+    distance_km: 14.12
+  - name: SAGAMORE
+    distance_km: 15.02
+- country: US
+  region: MA
+  name: Turners Falls
+  lat: '42.5975'
+  long: "-72.5573"
+  nearby_rate_centers:
+  - name: TURNERSFLS
+    distance_km: 0.99
+  - name: GREENFIELD
+    distance_km: 3.71
+  - name: MILLERSFLS
+    distance_km: 5.59
+- country: US
+  region: MA
+  name: Vineyard Haven
+  lat: '41.4572'
+  long: "-70.6070"
+  nearby_rate_centers:
+  - name: VINEYRDHVN
+    distance_km: 0.63
+  - name: FALMOUTH
+    distance_km: 10.44
+  - name: EDGARTOWN
+    distance_km: 10.71
+- country: US
+  region: MA
+  name: Waltham
+  lat: '42.3889'
+  long: "-71.2423"
+  nearby_rate_centers:
+  - name: WALTHAM
+    distance_km: 1.43
+  - name: NEWTON
+    distance_km: 4.88
+  - name: WATERTOWN
+    distance_km: 5.35
+- country: US
+  region: MA
+  name: Wareham Center
+  lat: '41.7498'
+  long: "-70.7207"
+  nearby_rate_centers:
+  - name: WAREHAM
+    distance_km: 0.66
+  - name: MARION
+    distance_km: 6.53
+  - name: BUZZARDSBY
+    distance_km: 9.63
+- country: US
+  region: MA
+  name: Watertown Town
+  lat: '42.3700'
+  long: "-71.1774"
+  nearby_rate_centers:
+  - name: WATERTOWN
+    distance_km: 0.59
+  - name: BELMONT
+    distance_km: 3.06
+  - name: NEWTON
+    distance_km: 3.16
+- country: US
+  region: MA
+  name: West Chatham
+  lat: '41.6804'
+  long: "-69.9918"
+  nearby_rate_centers:
+  - name: CHATHAM
+    distance_km: 2.37
+  - name: HARWICH
+    distance_km: 6.76
+  - name: BREWSTER
+    distance_km: 11.4
+- country: US
+  region: MA
+  name: West Concord
+  lat: '42.4517'
+  long: "-71.4035"
+  nearby_rate_centers:
+  - name: MAYNARD
+    distance_km: 4.56
+  - name: CONCORD
+    distance_km: 4.73
+  - name: ACTON
+    distance_km: 5.0
+- country: US
+  region: MA
+  name: West Dennis
+  lat: '41.6666'
+  long: "-70.1656"
+  nearby_rate_centers:
+  - name: DENNIS
+    distance_km: 1.9
+  - name: HARWICH
+    distance_km: 7.99
+  - name: HYANNIS
+    distance_km: 10.18
+- country: US
+  region: MA
+  name: West Falmouth
+  lat: '41.6012'
+  long: "-70.6364"
+  nearby_rate_centers:
+  - name: FALMOUTH
+    distance_km: 5.91
+  - name: CATAUMET
+    distance_km: 7.61
+  - name: MARION
+    distance_km: 15.32
+- country: US
+  region: MA
+  name: West Wareham
+  lat: '41.7900'
+  long: "-70.7550"
+  nearby_rate_centers:
+  - name: WAREHAM
+    distance_km: 4.87
+  - name: MARION
+    distance_km: 9.95
+  - name: CARVER
+    distance_km: 10.49
+- country: US
+  region: MA
+  name: West Warren
+  lat: '42.2168'
+  long: "-72.2366"
+  nearby_rate_centers:
+  - name: WARREN
+    distance_km: 3.33
+  - name: WARE
+    distance_km: 4.73
+  - name: PALMER
+    distance_km: 9.78
+- country: US
+  region: MA
+  name: West Yarmouth
+  lat: '41.6496'
+  long: "-70.2487"
+  nearby_rate_centers:
+  - name: HYANNIS
+    distance_km: 3.15
+  - name: DENNIS
+    distance_km: 5.42
+  - name: BARNSTABLE
+    distance_km: 7.3
+- country: US
+  region: MA
+  name: Westfield
+  lat: '42.1382'
+  long: "-72.7561"
+  nearby_rate_centers:
+  - name: WESTFIELD
+    distance_km: 1.69
+  - name: SOUTHWICK
+    distance_km: 9.13
+  - name: RUSSELL
+    distance_km: 10.1
+- country: US
+  region: MA
+  name: Weweantic
+  lat: '41.7396'
+  long: "-70.7346"
+  nearby_rate_centers:
+  - name: WAREHAM
+    distance_km: 2.21
+  - name: MARION
+    distance_km: 4.96
+  - name: BUZZARDSBY
+    distance_km: 10.86
+- country: US
+  region: MA
+  name: White Island Shores
+  lat: '41.7932'
+  long: "-70.6389"
+  nearby_rate_centers:
+  - name: BUZZARDSBY
+    distance_km: 5.48
+  - name: WAREHAM
+    distance_km: 7.84
+  - name: SAGAMORE
+    distance_km: 9.53
+- country: US
+  region: MA
+  name: Whitinsville
+  lat: '42.1146'
+  long: "-71.6688"
+  nearby_rate_centers:
+  - name: WHITINSVL
+    distance_km: 0.49
+  - name: UXBRIDGE
+    distance_km: 5.13
+  - name: E DOUGLAS
+    distance_km: 5.84
+- country: US
+  region: MA
+  name: Woburn
+  lat: '42.4869'
+  long: "-71.1543"
+  nearby_rate_centers:
+  - name: WOBURN
+    distance_km: 0.51
+  - name: BURLINGTON
+    distance_km: 3.65
+  - name: WINCHESTER
+    distance_km: 3.89
+- country: US
+  region: MA
+  name: Woods Hole
+  lat: '41.5303'
+  long: "-70.6614"
+  nearby_rate_centers:
+  - name: FALMOUTH
+    distance_km: 4.63
+  - name: VINEYRDHVN
+    distance_km: 9.93
+  - name: CATAUMET
+    distance_km: 15.76
+- country: US
+  region: MA
+  name: Worcester
+  lat: '42.2705'
+  long: "-71.8079"
+  nearby_rate_centers:
+  - name: WORCESTER
+    distance_km: 0.5
+  - name: SHREWSBURY
+    distance_km: 8.09
+  - name: AUBURN
+    distance_km: 8.93
+- country: US
+  region: MA
+  name: Yarmouth Port
+  lat: '41.7091'
+  long: "-70.2225"
+  nearby_rate_centers:
+  - name: DENNIS
+    distance_km: 5.37
+  - name: BARNSTABLE
+    distance_km: 6.61
+  - name: HYANNIS
+    distance_km: 8.31

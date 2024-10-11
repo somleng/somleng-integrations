@@ -1,0 +1,7890 @@
+---
+cities:
+- country: US
+  region: NJ
+  name: Absecon
+  lat: '39.4229'
+  long: "-74.4944"
+  nearby_rate_centers:
+  - name: PLEASANTVL
+    distance_km: 4.61
+  - name: ATLNTIC CY
+    distance_km: 8.78
+  - name: BRIGANTINE
+    distance_km: 10.94
+- country: US
+  region: NJ
+  name: Absecon Highlands
+  lat: '39.4409'
+  long: "-74.4735"
+  nearby_rate_centers:
+  - name: PLEASANTVL
+    distance_km: 7.28
+  - name: ATLNTIC CY
+    distance_km: 9.68
+  - name: BRIGANTINE
+    distance_km: 9.87
+- country: US
+  region: NJ
+  name: Allendale
+  lat: '41.0332'
+  long: "-74.1333"
+  nearby_rate_centers:
+  - name: RAMSEY
+    distance_km: 2.57
+  - name: WYCKOFF
+    distance_km: 3.99
+  - name: RIDGEWOOD
+    distance_km: 6.16
+- country: US
+  region: NJ
+  name: Allenhurst
+  lat: '40.2362'
+  long: "-74.0017"
+  nearby_rate_centers:
+  - name: DEAL
+    distance_km: 0.32
+  - name: ASBURYPARK
+    distance_km: 2.39
+  - name: BELMAR
+    distance_km: 6.86
+- country: US
+  region: NJ
+  name: Allentown
+  lat: '40.1778'
+  long: "-74.5873"
+  nearby_rate_centers:
+  - name: ALLENTOWN
+    distance_km: 0.28
+  - name: MERCERVL
+    distance_km: 10.9
+  - name: BORDENTOWN
+    distance_km: 11.17
+- country: US
+  region: NJ
+  name: Allenwood
+  lat: '40.1384'
+  long: "-74.1032"
+  nearby_rate_centers:
+  - name: MANASQUAN
+    distance_km: 5.08
+  - name: SPRINGLAKE
+    distance_km: 6.28
+  - name: PTPLEASANT
+    distance_km: 7.1
+- country: US
+  region: NJ
+  name: Alpha
+  lat: '40.6598'
+  long: "-75.1571"
+  nearby_rate_centers:
+  - name: PHILLIPSBG
+    distance_km: 5.17
+  - name: BLOOMSBURY
+    distance_km: 6.15
+  - name: MILFORD
+    distance_km: 11.63
+- country: US
+  region: NJ
+  name: Alpine
+  lat: '40.9616'
+  long: "-73.9198"
+  nearby_rate_centers:
+  - name: CLOSTER
+    distance_km: 3.87
+  - name: DUMONT
+    distance_km: 6.93
+  - name: ENGLEWOOD
+    distance_km: 8.7
+- country: US
+  region: NJ
+  name: Ampere North
+  lat: '40.7758'
+  long: "-74.1918"
+  nearby_rate_centers:
+  - name: BLOOMFIELD
+    distance_km: 2.67
+  - name: ORANGE
+    distance_km: 3.29
+  - name: KEARNY
+    distance_km: 3.7
+- country: US
+  region: NJ
+  name: Anderson
+  lat: '40.7617'
+  long: "-74.9301"
+  nearby_rate_centers:
+  - name: WASHINGTON
+    distance_km: 4.29
+  - name: HAMPTON
+    distance_km: 6.52
+  - name: OXFORD
+    distance_km: 7.36
+- country: US
+  region: NJ
+  name: Annandale
+  lat: '40.6468'
+  long: "-74.8881"
+  nearby_rate_centers:
+  - name: CLINTON
+    distance_km: 2.37
+  - name: HIGHBRIDGE
+    distance_km: 2.5
+  - name: LEBANON
+    distance_km: 4.04
+- country: US
+  region: NJ
+  name: Arrowhead Lake
+  lat: '39.4757'
+  long: "-75.3174"
+  nearby_rate_centers:
+  - name: BRIDGETON
+    distance_km: 9.31
+  - name: SALEM
+    distance_km: 17.19
+  - name: ELMER
+    distance_km: 18.15
+- country: US
+  region: NJ
+  name: Asbury
+  lat: '40.7003'
+  long: "-75.0121"
+  nearby_rate_centers:
+  - name: HAMPTON
+    distance_km: 4.67
+  - name: WASHINGTON
+    distance_km: 7.09
+  - name: BLOOMSBURY
+    distance_km: 8.08
+- country: US
+  region: NJ
+  name: Asbury Park
+  lat: '40.2226'
+  long: "-74.0119"
+  nearby_rate_centers:
+  - name: ASBURYPARK
+    distance_km: 0.66
+  - name: DEAL
+    distance_km: 1.44
+  - name: BELMAR
+    distance_km: 5.19
+- country: US
+  region: NJ
+  name: Ashland
+  lat: '39.8782'
+  long: "-75.0085"
+  nearby_rate_centers:
+  - name: HADDONFLD
+    distance_km: 3.01
+  - name: HADDON HTS
+    distance_km: 4.53
+  - name: LAUREL SPG
+    distance_km: 6.36
+- country: US
+  region: NJ
+  name: Atco
+  lat: '39.7682'
+  long: "-74.8618"
+  nearby_rate_centers:
+  - name: BERLIN
+    distance_km: 6.64
+  - name: LAUREL SPG
+    distance_km: 13.33
+  - name: WILLIAMSTN
+    distance_km: 14.4
+- country: US
+  region: NJ
+  name: Atlantic City
+  lat: '39.3797'
+  long: "-74.4527"
+  nearby_rate_centers:
+  - name: ATLNTIC CY
+    distance_km: 2.78
+  - name: PLEASANTVL
+    distance_km: 6.19
+  - name: BRIGANTINE
+    distance_km: 7.57
+- country: US
+  region: NJ
+  name: Atlantic Highlands
+  lat: '40.4112'
+  long: "-74.0295"
+  nearby_rate_centers:
+  - name: ATLATCHLDS
+    distance_km: 0.71
+  - name: MIDDLETOWN
+    distance_km: 7.55
+  - name: RED BANK
+    distance_km: 7.63
+- country: US
+  region: NJ
+  name: Auburn
+  lat: '39.6969'
+  long: "-75.3561"
+  nearby_rate_centers:
+  - name: WOODSTOWN
+    distance_km: 5.23
+  - name: SWEDESBORO
+    distance_km: 6.62
+  - name: PENNSGROVE
+    distance_km: 10.49
+- country: US
+  region: NJ
+  name: Audubon
+  lat: '39.8906'
+  long: "-75.0722"
+  nearby_rate_centers:
+  - name: HADDON HTS
+    distance_km: 1.28
+  - name: BEAVER BRK
+    distance_km: 2.81
+  - name: COLLINGSWD
+    distance_km: 2.95
+- country: US
+  region: NJ
+  name: Audubon Park
+  lat: '39.8969'
+  long: "-75.0890"
+  nearby_rate_centers:
+  - name: GLOUCESTER
+    distance_km: 2.6
+  - name: COLLINGSWD
+    distance_km: 2.65
+  - name: HADDON HTS
+    distance_km: 2.85
+- country: US
+  region: NJ
+  name: Avalon
+  lat: '39.0906'
+  long: "-74.7356"
+  nearby_rate_centers:
+  - name: AVALON
+    distance_km: 2.04
+  - name: CAPMAYCTHS
+    distance_km: 7.57
+  - name: SEAIS CITY
+    distance_km: 8.09
+- country: US
+  region: NJ
+  name: Avenel
+  lat: '40.5842'
+  long: "-74.2716"
+  nearby_rate_centers:
+  - name: RAHWAY
+    distance_km: 2.68
+  - name: WOODBRIDGE
+    distance_km: 3.29
+  - name: CARTERET
+    distance_km: 4.44
+- country: US
+  region: NJ
+  name: Avon-by-the-Sea
+  lat: '40.1913'
+  long: "-74.0166"
+  nearby_rate_centers:
+  - name: BELMAR
+    distance_km: 1.72
+  - name: ASBURYPARK
+    distance_km: 2.85
+  - name: SPRINGLAKE
+    distance_km: 4.44
+- country: US
+  region: NJ
+  name: Barclay
+  lat: '39.9013'
+  long: "-75.0009"
+  nearby_rate_centers:
+  - name: HADDONFLD
+    distance_km: 2.53
+  - name: HADDON HTS
+    distance_km: 5.56
+  - name: COLLINGSWD
+    distance_km: 6.37
+- country: US
+  region: NJ
+  name: Bargaintown
+  lat: '39.3687'
+  long: "-74.5924"
+  nearby_rate_centers:
+  - name: SOMERS PT
+    distance_km: 5.98
+  - name: PLEASANTVL
+    distance_km: 6.28
+  - name: OCEAN CITY
+    distance_km: 10.55
+- country: US
+  region: NJ
+  name: Barnegat Light
+  lat: '39.7530'
+  long: "-74.1095"
+  nearby_rate_centers:
+  - name: BARNEGAT
+    distance_km: 9.84
+  - name: SEASIDE PK
+    distance_km: 18.47
+  - name: TOMS RIVER
+    distance_km: 23.47
+- country: US
+  region: NJ
+  name: Barrington
+  lat: '39.8689'
+  long: "-75.0514"
+  nearby_rate_centers:
+  - name: HADDON HTS
+    distance_km: 1.74
+  - name: BEAVER BRK
+    distance_km: 2.77
+  - name: HADDONFLD
+    distance_km: 3.83
+- country: US
+  region: NJ
+  name: Basking Ridge
+  lat: '40.7061'
+  long: "-74.5568"
+  nearby_rate_centers:
+  - name: BERNARDSVL
+    distance_km: 1.78
+  - name: MILLINGTON
+    distance_km: 4.5
+  - name: MENDHAM
+    distance_km: 8.3
+- country: US
+  region: NJ
+  name: Bay Head
+  lat: '40.0701'
+  long: "-74.0482"
+  nearby_rate_centers:
+  - name: PTPLEASANT
+    distance_km: 2.14
+  - name: MANASQUAN
+    distance_km: 5.78
+  - name: SPRINGLAKE
+    distance_km: 9.33
+- country: US
+  region: NJ
+  name: Bayonne
+  lat: '40.6668'
+  long: "-74.1158"
+  nearby_rate_centers:
+  - name: BAYONNE
+    distance_km: 0.07
+  - name: ELIZABETH
+    distance_km: 8.35
+  - name: JERSEYCITY
+    distance_km: 8.44
+- country: US
+  region: NJ
+  name: Beach Haven
+  lat: '39.5660'
+  long: "-74.2492"
+  nearby_rate_centers:
+  - name: BEACHHAVEN
+    distance_km: 0.77
+  - name: TUCKERTON
+    distance_km: 8.76
+  - name: BARNEGAT
+    distance_km: 20.7
+- country: US
+  region: NJ
+  name: Beach Haven West
+  lat: '39.6703'
+  long: "-74.2338"
+  nearby_rate_centers:
+  - name: BARNEGAT
+    distance_km: 9.03
+  - name: BEACHHAVEN
+    distance_km: 11.48
+  - name: TUCKERTON
+    distance_km: 11.92
+- country: US
+  region: NJ
+  name: Beachwood
+  lat: '39.9286'
+  long: "-74.2022"
+  nearby_rate_centers:
+  - name: TOMS RIVER
+    distance_km: 2.67
+  - name: SEASIDE PK
+    distance_km: 10.74
+  - name: LAKEHURST
+    distance_km: 13.19
+- country: US
+  region: NJ
+  name: Beattystown
+  lat: '40.8222'
+  long: "-74.8502"
+  nearby_rate_centers:
+  - name: HACKETTSTN
+    distance_km: 3.68
+  - name: LONGVALLEY
+    distance_km: 7.51
+  - name: GREAT MDW
+    distance_km: 7.76
+- country: US
+  region: NJ
+  name: Beckett
+  lat: '39.7559'
+  long: "-75.3569"
+  nearby_rate_centers:
+  - name: SWEDESBORO
+    distance_km: 3.67
+  - name: PENNSGROVE
+    distance_km: 10.03
+  - name: MULLICA HL
+    distance_km: 11.43
+- country: US
+  region: NJ
+  name: Bedminster
+  lat: '40.6745'
+  long: "-74.6592"
+  nearby_rate_centers:
+  - name: PEAPACK
+    distance_km: 4.82
+  - name: OLDWICK
+    distance_km: 7.79
+  - name: BERNARDSVL
+    distance_km: 8.93
+- country: US
+  region: NJ
+  name: Beesleys Point
+  lat: '39.2777'
+  long: "-74.6333"
+  nearby_rate_centers:
+  - name: OCEAN CITY
+    distance_km: 5.15
+  - name: SOMERS PT
+    distance_km: 5.34
+  - name: TUCKAHOE
+    distance_km: 10.6
+- country: US
+  region: NJ
+  name: Belford
+  lat: '40.4261'
+  long: "-74.0802"
+  nearby_rate_centers:
+  - name: ATLATCHLDS
+    distance_km: 3.9
+  - name: MIDDLETOWN
+    distance_km: 4.65
+  - name: KEANSBURG
+    distance_km: 4.98
+- country: US
+  region: NJ
+  name: Belle Mead
+  lat: '40.4684'
+  long: "-74.6559"
+  nearby_rate_centers:
+  - name: BELLE MEAD
+    distance_km: 0.79
+  - name: EMILLSTONE
+    distance_km: 7.44
+  - name: NESHANIC
+    distance_km: 7.79
+- country: US
+  region: NJ
+  name: Belleplain
+  lat: '39.2662'
+  long: "-74.8672"
+  nearby_rate_centers:
+  - name: DENNISVL
+    distance_km: 9.03
+  - name: TUCKAHOE
+    distance_km: 10.11
+  - name: MAURICETN
+    distance_km: 14.49
+  - name: PORTNORRIS
+    distance_km: 14.49
+- country: US
+  region: NJ
+  name: Bellmawr
+  lat: '39.8666'
+  long: "-75.0941"
+  nearby_rate_centers:
+  - name: BEAVER BRK
+    distance_km: 0.89
+  - name: HADDON HTS
+    distance_km: 3.32
+  - name: GLOUCESTER
+    distance_km: 3.53
+- country: US
+  region: NJ
+  name: Belmar
+  lat: '40.1798'
+  long: "-74.0255"
+  nearby_rate_centers:
+  - name: BELMAR
+    distance_km: 0.38
+  - name: SPRINGLAKE
+    distance_km: 3.02
+  - name: ASBURYPARK
+    distance_km: 4.23
+- country: US
+  region: NJ
+  name: Belvidere
+  lat: '40.8295'
+  long: "-75.0728"
+  nearby_rate_centers:
+  - name: BELVIDERE
+    distance_km: 0.78
+  - name: OXFORD
+    distance_km: 6.92
+  - name: COLUMBIA
+    distance_km: 10.85
+- country: US
+  region: NJ
+  name: Bergenfield
+  lat: '40.9236'
+  long: "-73.9982"
+  nearby_rate_centers:
+  - name: DUMONT
+    distance_km: 2.19
+  - name: ENGLEWOOD
+    distance_km: 3.94
+  - name: ORADELL
+    distance_km: 4.46
+- country: US
+  region: NJ
+  name: Berlin
+  lat: '39.7915'
+  long: "-74.9374"
+  nearby_rate_centers:
+  - name: BERLIN
+    distance_km: 0.5
+  - name: LAUREL SPG
+    distance_km: 6.42
+  - name: MARLTON
+    distance_km: 10.97
+- country: US
+  region: NJ
+  name: Bernardsville
+  lat: '40.7268'
+  long: "-74.5918"
+  nearby_rate_centers:
+  - name: BERNARDSVL
+    distance_km: 2.03
+  - name: MENDHAM
+    distance_km: 5.25
+  - name: PEAPACK
+    distance_km: 5.93
+- country: US
+  region: NJ
+  name: Beverly
+  lat: '40.0652'
+  long: "-74.9221"
+  nearby_rate_centers:
+  - name: RIVERSIDE
+    distance_km: 4.64
+  - name: BURLINGTON
+    distance_km: 5.35
+  - name: RIVERTON
+    distance_km: 11.02
+- country: US
+  region: NJ
+  name: Blackwells Mills
+  lat: '40.4773'
+  long: "-74.5976"
+  nearby_rate_centers:
+  - name: EMILLSTONE
+    distance_km: 3.16
+  - name: BELLE MEAD
+    distance_km: 5.73
+  - name: FRANKLINPK
+    distance_km: 8.68
+- country: US
+  region: NJ
+  name: Blackwood
+  lat: '39.7982'
+  long: "-75.0629"
+  nearby_rate_centers:
+  - name: BLACKWOOD
+    distance_km: 0.36
+  - name: LAUREL SPG
+    distance_km: 5.81
+  - name: WENONAH
+    distance_km: 7.81
+- country: US
+  region: NJ
+  name: Blawenburg
+  lat: '40.4056'
+  long: "-74.6971"
+  nearby_rate_centers:
+  - name: HOPEWELL
+    distance_km: 5.97
+  - name: PRINCETON
+    distance_km: 6.89
+  - name: BELLE MEAD
+    distance_km: 7.07
+- country: US
+  region: NJ
+  name: Bloomingdale
+  lat: '41.0300'
+  long: "-74.3319"
+  nearby_rate_centers:
+  - name: BUTLER
+    distance_km: 3.63
+  - name: POMPTONLKS
+    distance_km: 4.76
+  - name: OAKLAND
+    distance_km: 7.85
+- country: US
+  region: NJ
+  name: Bloomsbury
+  lat: '40.6537'
+  long: "-75.0840"
+  nearby_rate_centers:
+  - name: BLOOMSBURY
+    distance_km: 0.11
+  - name: MILFORD
+    distance_km: 9.66
+  - name: PHILLIPSBG
+    distance_km: 10.23
+- country: US
+  region: NJ
+  name: Bogota
+  lat: '40.8751'
+  long: "-74.0293"
+  nearby_rate_centers:
+  - name: TEANECK
+    distance_km: 1.52
+  - name: HACKENSACK
+    distance_km: 1.6
+  - name: LEONIA
+    distance_km: 3.71
+- country: US
+  region: NJ
+  name: Boonton
+  lat: '40.9047'
+  long: "-74.4048"
+  nearby_rate_centers:
+  - name: BOONTON
+    distance_km: 0.26
+  - name: ROCKAWAY
+    distance_km: 8.91
+  - name: WHIPPANY
+    distance_km: 9.05
+- country: US
+  region: NJ
+  name: Bound Brook
+  lat: '40.5676'
+  long: "-74.5383"
+  nearby_rate_centers:
+  - name: BOUNDBROOK
+    distance_km: 1.06
+  - name: SOMERVILLE
+    distance_km: 6.41
+  - name: DUNELLEN
+    distance_km: 6.8
+- country: US
+  region: NJ
+  name: Bradley Beach
+  lat: '40.2018'
+  long: "-74.0128"
+  nearby_rate_centers:
+  - name: ASBURYPARK
+    distance_km: 1.67
+  - name: BELMAR
+    distance_km: 2.93
+  - name: DEAL
+    distance_km: 3.67
+- country: US
+  region: NJ
+  name: Bradley Gardens
+  lat: '40.5711'
+  long: "-74.6678"
+  nearby_rate_centers:
+  - name: SOMERVILLE
+    distance_km: 4.55
+  - name: NESHANIC
+    distance_km: 8.88
+  - name: WHITEHOUSE
+    distance_km: 9.9
+- country: US
+  region: NJ
+  name: Brainards
+  lat: '40.7718'
+  long: "-75.1699"
+  nearby_rate_centers:
+  - name: PHILLIPSBG
+    distance_km: 8.23
+  - name: BELVIDERE
+    distance_km: 9.62
+  - name: OXFORD
+    distance_km: 14.86
+- country: US
+  region: NJ
+  name: Branchville
+  lat: '41.1471'
+  long: "-74.7494"
+  nearby_rate_centers:
+  - name: BRANCHVL
+    distance_km: 0.07
+  - name: NEWTON
+    distance_km: 10.22
+  - name: FRANKLINBO
+    distance_km: 13.85
+- country: US
+  region: NJ
+  name: Brass Castle
+  lat: '40.7621'
+  long: "-75.0140"
+  nearby_rate_centers:
+  - name: WASHINGTON
+    distance_km: 2.8
+  - name: OXFORD
+    distance_km: 4.75
+  - name: HAMPTON
+    distance_km: 7.78
+- country: US
+  region: NJ
+  name: Bridgeport
+  lat: '39.8009'
+  long: "-75.3468"
+  nearby_rate_centers:
+  - name: SWEDESBORO
+    distance_km: 6.51
+  - name: PAULSBORO
+    distance_km: 9.49
+  - name: MULLICA HL
+    distance_km: 12.79
+- country: US
+  region: NJ
+  name: Bridgeville
+  lat: '40.8427'
+  long: "-75.0303"
+  nearby_rate_centers:
+  - name: BELVIDERE
+    distance_km: 4.64
+  - name: OXFORD
+    distance_km: 5.16
+  - name: HOPE
+    distance_km: 9.22
+- country: US
+  region: NJ
+  name: Bridgewater Center
+  lat: '40.6037'
+  long: "-74.6445"
+  nearby_rate_centers:
+  - name: SOMERVILLE
+    distance_km: 4.83
+  - name: WHITEHOUSE
+    distance_km: 10.68
+  - name: BOUNDBROOK
+    distance_km: 10.76
+- country: US
+  region: NJ
+  name: Brielle
+  lat: '40.1048'
+  long: "-74.0637"
+  nearby_rate_centers:
+  - name: PTPLEASANT
+    distance_km: 2.09
+  - name: MANASQUAN
+    distance_km: 2.37
+  - name: SPRINGLAKE
+    distance_km: 6.01
+- country: US
+  region: NJ
+  name: Brigantine
+  lat: '39.4138'
+  long: "-74.3787"
+  nearby_rate_centers:
+  - name: BRIGANTINE
+    distance_km: 1.45
+  - name: ATLNTIC CY
+    distance_km: 7.65
+  - name: PLEASANTVL
+    distance_km: 12.79
+- country: US
+  region: NJ
+  name: Broadway
+  lat: '40.7356'
+  long: "-75.0495"
+  nearby_rate_centers:
+  - name: WASHINGTON
+    distance_km: 6.36
+  - name: HAMPTON
+    distance_km: 8.4
+  - name: OXFORD
+    distance_km: 8.66
+- country: US
+  region: NJ
+  name: Brookdale
+  lat: '40.8348'
+  long: "-74.1798"
+  nearby_rate_centers:
+  - name: NUTLEY
+    distance_km: 2.37
+  - name: BLOOMFIELD
+    distance_km: 4.65
+  - name: PASSAIC
+    distance_km: 5.38
+- country: US
+  region: NJ
+  name: Brookfield
+  lat: '40.8163'
+  long: "-75.0645"
+  nearby_rate_centers:
+  - name: BELVIDERE
+    distance_km: 1.77
+  - name: OXFORD
+    distance_km: 5.76
+  - name: WASHINGTON
+    distance_km: 9.46
+- country: US
+  region: NJ
+  name: Brooklawn
+  lat: '39.8788'
+  long: "-75.1207"
+  nearby_rate_centers:
+  - name: GLOUCESTER
+    distance_km: 1.49
+  - name: BEAVER BRK
+    distance_km: 3.42
+  - name: HADDON HTS
+    distance_km: 5.09
+- country: US
+  region: NJ
+  name: Brookside
+  lat: '40.7944'
+  long: "-74.5661"
+  nearby_rate_centers:
+  - name: MT FREEDOM
+    distance_km: 2.43
+  - name: MENDHAM
+    distance_km: 3.57
+  - name: MORRISTOWN
+    distance_km: 7.46
+- country: US
+  region: NJ
+  name: Browns Mills
+  lat: '39.9737'
+  long: "-74.5690"
+  nearby_rate_centers:
+  - name: FORT DIX
+    distance_km: 8.01
+  - name: PEMBERTON
+    distance_km: 9.97
+  - name: NEW EGYPT
+    distance_km: 10.9
+- country: US
+  region: NJ
+  name: Brownville
+  lat: '40.4014'
+  long: "-74.2959"
+  nearby_rate_centers:
+  - name: MATAWAN
+    distance_km: 5.64
+  - name: SOUTHRIVER
+    distance_km: 8.69
+  - name: KEYPORT
+    distance_km: 8.92
+- country: US
+  region: NJ
+  name: Budd Lake
+  lat: '40.8733'
+  long: "-74.7375"
+  nearby_rate_centers:
+  - name: NETCONG
+    distance_km: 3.62
+  - name: HACKETTSTN
+    distance_km: 8.18
+  - name: SUCCASUNNA
+    distance_km: 8.71
+- country: US
+  region: NJ
+  name: Buena
+  lat: '39.5282'
+  long: "-74.9448"
+  nearby_rate_centers:
+  - name: VINELAND
+    distance_km: 7.87
+  - name: MILMAY
+    distance_km: 12.34
+  - name: FRANKLINVL
+    distance_km: 15.13
+- country: US
+  region: NJ
+  name: Burleigh
+  lat: '39.0490'
+  long: "-74.8465"
+  nearby_rate_centers:
+  - name: CAPMAYCTHS
+    distance_km: 4.26
+  - name: WILDWOOD
+    distance_km: 7.63
+  - name: AVALON
+    distance_km: 12.64
+- country: US
+  region: NJ
+  name: Butler
+  lat: '40.9990'
+  long: "-74.3472"
+  nearby_rate_centers:
+  - name: BUTLER
+    distance_km: 0.74
+  - name: POMPTONLKS
+    distance_km: 5.03
+  - name: OAKLAND
+    distance_km: 9.42
+- country: US
+  region: NJ
+  name: Buttzville
+  lat: '40.8293'
+  long: "-75.0060"
+  nearby_rate_centers:
+  - name: OXFORD
+    distance_km: 2.98
+  - name: BELVIDERE
+    distance_km: 6.32
+  - name: WASHINGTON
+    distance_km: 8.04
+- country: US
+  region: NJ
+  name: Byram Center
+  lat: '40.9325'
+  long: "-74.7179"
+  nearby_rate_centers:
+  - name: NETCONG
+    distance_km: 3.9
+  - name: ANDOVER
+    distance_km: 6.27
+  - name: HOPATCONG
+    distance_km: 7.11
+- country: US
+  region: NJ
+  name: Caldwell
+  lat: '40.8389'
+  long: "-74.2776"
+  nearby_rate_centers:
+  - name: CALDWELL
+    distance_km: 0.46
+  - name: VERONA
+    distance_km: 2.27
+  - name: LIVINGSTON
+    distance_km: 5.66
+- country: US
+  region: NJ
+  name: Califon
+  lat: '40.7193'
+  long: "-74.8371"
+  nearby_rate_centers:
+  - name: CALIFON
+    distance_km: 0.31
+  - name: HIGHBRIDGE
+    distance_km: 7.65
+  - name: LEBANON
+    distance_km: 8.59
+- country: US
+  region: NJ
+  name: Camden
+  lat: '39.9361'
+  long: "-75.1073"
+  nearby_rate_centers:
+  - name: CAMDEN
+    distance_km: 1.46
+  - name: COLLINGSWD
+    distance_km: 3.63
+  - name: GLOUCESTER
+    distance_km: 4.99
+- country: US
+  region: NJ
+  name: Cape May
+  lat: '38.9409'
+  long: "-74.9042"
+  nearby_rate_centers:
+  - name: WILDWOOD
+    distance_km: 9.44
+  - name: CAPMAYCTHS
+    distance_km: 17.25
+  - name: AVALON
+    distance_km: 24.12
+- country: US
+  region: NJ
+  name: Cape May Court House
+  lat: '39.0788'
+  long: "-74.8205"
+  nearby_rate_centers:
+  - name: CAPMAYCTHS
+    distance_km: 0.45
+  - name: AVALON
+    distance_km: 9.31
+  - name: WILDWOOD
+    distance_km: 10.35
+- country: US
+  region: NJ
+  name: Cape May Point
+  lat: '38.9372'
+  long: "-74.9651"
+  nearby_rate_centers:
+  - name: WILDWOOD
+    distance_km: 14.33
+  - name: CAPMAYCTHS
+    distance_km: 20.31
+  - name: AVALON
+    distance_km: 28.2
+- country: US
+  region: NJ
+  name: Carlls Corner
+  lat: '39.4659'
+  long: "-75.2036"
+  nearby_rate_centers:
+  - name: BRIDGETON
+    distance_km: 4.66
+  - name: ELMER
+    distance_km: 14.6
+  - name: CEDARVILLE
+    distance_km: 14.68
+- country: US
+  region: NJ
+  name: Carlstadt
+  lat: '40.8247'
+  long: "-74.0613"
+  nearby_rate_centers:
+  - name: RUTHERFORD
+    distance_km: 3.86
+  - name: HASBROKHTS
+    distance_km: 4.54
+  - name: CLIFFSIDE
+    distance_km: 6.04
+- country: US
+  region: NJ
+  name: Carteret
+  lat: '40.5849'
+  long: "-74.2284"
+  nearby_rate_centers:
+  - name: CARTERET
+    distance_km: 1.06
+  - name: RAHWAY
+    distance_km: 5.1
+  - name: WOODBRIDGE
+    distance_km: 5.46
+- country: US
+  region: NJ
+  name: Cedar Glen Lakes
+  lat: '39.9527'
+  long: "-74.3995"
+  nearby_rate_centers:
+  - name: LAKEHURST
+    distance_km: 9.85
+  - name: TOMS RIVER
+    distance_km: 17.08
+  - name: NEW EGYPT
+    distance_km: 17.17
+- country: US
+  region: NJ
+  name: Cedar Glen West
+  lat: '40.0418'
+  long: "-74.2851"
+  nearby_rate_centers:
+  - name: LAKEHURST
+    distance_km: 4.13
+  - name: LAKEWOOD
+    distance_km: 8.23
+  - name: TOMS RIVER
+    distance_km: 12.34
+- country: US
+  region: NJ
+  name: Cedar Knolls
+  lat: '40.8199'
+  long: "-74.4551"
+  nearby_rate_centers:
+  - name: MORRISTOWN
+    distance_km: 3.17
+  - name: WHIPPANY
+    distance_km: 3.53
+  - name: MADISON
+    distance_km: 7.32
+- country: US
+  region: NJ
+  name: Cedarville
+  lat: '39.3382'
+  long: "-75.2068"
+  nearby_rate_centers:
+  - name: CEDARVILLE
+    distance_km: 0.76
+  - name: BRIDGETON
+    distance_km: 10.2
+  - name: MILLVILLE
+    distance_km: 15.82
+- country: US
+  region: NJ
+  name: Centre Grove
+  lat: '39.3628'
+  long: "-75.1351"
+  nearby_rate_centers:
+  - name: CEDARVILLE
+    distance_km: 6.43
+  - name: MILLVILLE
+    distance_km: 9.07
+  - name: BRIDGETON
+    distance_km: 10.81
+- country: US
+  region: NJ
+  name: Cherry Hill Mall
+  lat: '39.9384'
+  long: "-75.0117"
+  nearby_rate_centers:
+  - name: MERCHANTVL
+    distance_km: 3.83
+  - name: HADDONFLD
+    distance_km: 4.63
+  - name: COLLINGSWD
+    distance_km: 5.71
+- country: US
+  region: NJ
+  name: Chesilhurst
+  lat: '39.7306'
+  long: "-74.8785"
+  nearby_rate_centers:
+  - name: BERLIN
+    distance_km: 8.37
+  - name: WILLIAMSTN
+    distance_km: 10.88
+  - name: HAMMONTON
+    distance_km: 12.37
+- country: US
+  region: NJ
+  name: Clayton
+  lat: '39.6627'
+  long: "-75.0782"
+  nearby_rate_centers:
+  - name: FRANKLINVL
+    distance_km: 5.17
+  - name: GLASSBORO
+    distance_km: 5.47
+  - name: WILLIAMSTN
+    distance_km: 7.86
+- country: US
+  region: NJ
+  name: Clementon
+  lat: '39.8046'
+  long: "-74.9850"
+  nearby_rate_centers:
+  - name: LAUREL SPG
+    distance_km: 2.34
+  - name: BERLIN
+    distance_km: 4.68
+  - name: BLACKWOOD
+    distance_km: 6.93
+- country: US
+  region: NJ
+  name: Cliffside Park
+  lat: '40.8222'
+  long: "-73.9879"
+  nearby_rate_centers:
+  - name: CLIFFSIDE
+    distance_km: 0.24
+  - name: LEONIA
+    distance_km: 4.56
+  - name: UNION CITY
+    distance_km: 6.56
+- country: US
+  region: NJ
+  name: Cliffwood Beach
+  lat: '40.4427'
+  long: "-74.2179"
+  nearby_rate_centers:
+  - name: KEYPORT
+    distance_km: 1.53
+  - name: MATAWAN
+    distance_km: 3.37
+  - name: SOUTHAMBOY
+    distance_km: 6.64
+- country: US
+  region: NJ
+  name: Clifton
+  lat: '40.8630'
+  long: "-74.1575"
+  nearby_rate_centers:
+  - name: PASSAIC
+    distance_km: 2.63
+  - name: NUTLEY
+    distance_km: 4.95
+  - name: PATERSON
+    distance_km: 5.54
+- country: US
+  region: NJ
+  name: Closter
+  lat: '40.9733'
+  long: "-73.9604"
+  nearby_rate_centers:
+  - name: CLOSTER
+    distance_km: 0.54
+  - name: DUMONT
+    distance_km: 4.64
+  - name: WESTWOOD
+    distance_km: 6.48
+- country: US
+  region: NJ
+  name: Clyde
+  lat: '40.4874'
+  long: "-74.5132"
+  nearby_rate_centers:
+  - name: NEWBRNSWCK
+    distance_km: 5.83
+  - name: EMILLSTONE
+    distance_km: 5.89
+  - name: FRANKLINPK
+    distance_km: 6.21
+- country: US
+  region: NJ
+  name: Collings Lakes
+  lat: '39.5939'
+  long: "-74.8821"
+  nearby_rate_centers:
+  - name: HAMMONTON
+    distance_km: 8.28
+  - name: WILLIAMSTN
+    distance_km: 13.82
+  - name: VINELAND
+    distance_km: 16.75
+- country: US
+  region: NJ
+  name: Cologne
+  lat: '39.4933'
+  long: "-74.6091"
+  nearby_rate_centers:
+  - name: EGG HARBOR
+    distance_km: 5.67
+  - name: MAYS LDG
+    distance_km: 11.13
+  - name: PLEASANTVL
+    distance_km: 13.79
+- country: US
+  region: NJ
+  name: Colonia
+  lat: '40.5926'
+  long: "-74.3148"
+  nearby_rate_centers:
+  - name: RAHWAY
+    distance_km: 3.26
+  - name: WOODBRIDGE
+    distance_km: 5.09
+  - name: LINDEN
+    distance_km: 6.68
+- country: US
+  region: NJ
+  name: Columbia
+  lat: '40.9260'
+  long: "-75.0945"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance_km: 0.2
+  - name: HOPE
+    distance_km: 10.76
+  - name: BELVIDERE
+    distance_km: 11.16
+- country: US
+  region: NJ
+  name: Concordia
+  lat: '40.3125'
+  long: "-74.4461"
+  nearby_rate_centers:
+  - name: JAMESBURG
+    distance_km: 4.11
+  - name: CRANBURY
+    distance_km: 6.05
+  - name: ENGLISHTN
+    distance_km: 7.46
+- country: US
+  region: NJ
+  name: Connecticut Farms
+  lat: '40.6930'
+  long: "-74.2716"
+  nearby_rate_centers:
+  - name: UNIONVILLE
+    distance_km: 0.49
+  - name: ROSELLE
+    distance_km: 3.6
+  - name: MILLBURN
+    distance_km: 4.17
+- country: US
+  region: NJ
+  name: Cookstown
+  lat: '40.0446'
+  long: "-74.5547"
+  nearby_rate_centers:
+  - name: NEW EGYPT
+    distance_km: 3.15
+  - name: FORT DIX
+    distance_km: 5.41
+  - name: PEMBERTON
+    distance_km: 13.77
+- country: US
+  region: NJ
+  name: Corbin City
+  lat: '39.3046'
+  long: "-74.7199"
+  nearby_rate_centers:
+  - name: TUCKAHOE
+    distance_km: 3.29
+  - name: SOMERS PT
+    distance_km: 10.88
+  - name: OCEAN CITY
+    distance_km: 13.02
+- country: US
+  region: NJ
+  name: Country Lake Estates
+  lat: '39.9486'
+  long: "-74.5409"
+  nearby_rate_centers:
+  - name: FORT DIX
+    distance_km: 11.66
+  - name: PEMBERTON
+    distance_km: 12.64
+  - name: NEW EGYPT
+    distance_km: 13.28
+- country: US
+  region: NJ
+  name: Crandon Lakes
+  lat: '41.1234'
+  long: "-74.8403"
+  nearby_rate_centers:
+  - name: BRANCHVL
+    distance_km: 8.02
+  - name: NEWTON
+    distance_km: 10.24
+  - name: ANDOVER
+    distance_km: 17.34
+- country: US
+  region: NJ
+  name: Cranford
+  lat: '40.6548'
+  long: "-74.3053"
+  nearby_rate_centers:
+  - name: CRANFORD
+    distance_km: 0.27
+  - name: ROSELLE
+    distance_km: 3.42
+  - name: WESTFIELD
+    distance_km: 3.44
+- country: US
+  region: NJ
+  name: Cream Ridge
+  lat: '40.1326'
+  long: "-74.5348"
+  nearby_rate_centers:
+  - name: ALLENTOWN
+    distance_km: 6.44
+  - name: NEW EGYPT
+    distance_km: 7.19
+  - name: FORT DIX
+    distance_km: 12.86
+- country: US
+  region: NJ
+  name: Cresskill
+  lat: '40.9405'
+  long: "-73.9596"
+  nearby_rate_centers:
+  - name: CLOSTER
+    distance_km: 3.27
+  - name: DUMONT
+    distance_km: 3.3
+  - name: ENGLEWOOD
+    distance_km: 5.27
+- country: US
+  region: NJ
+  name: Crestwood Village
+  lat: '39.9568'
+  long: "-74.3524"
+  nearby_rate_centers:
+  - name: LAKEHURST
+    distance_km: 6.94
+  - name: TOMS RIVER
+    distance_km: 13.07
+  - name: LAKEWOOD
+    distance_km: 19.07
+- country: US
+  region: NJ
+  name: Crosswicks
+  lat: '40.1439'
+  long: "-74.6409"
+  nearby_rate_centers:
+  - name: ALLENTOWN
+    distance_km: 5.96
+  - name: BORDENTOWN
+    distance_km: 6.02
+  - name: MERCERVL
+    distance_km: 11.05
+- country: US
+  region: NJ
+  name: Cumberland-Hesstown
+  lat: '39.3641'
+  long: "-74.9284"
+  nearby_rate_centers:
+  - name: MILLVILLE
+    distance_km: 10.11
+  - name: MILMAY
+    distance_km: 10.5
+  - name: VINELAND
+    distance_km: 15.66
+- country: US
+  region: NJ
+  name: Dayton
+  lat: '40.3768'
+  long: "-74.5112"
+  nearby_rate_centers:
+  - name: MONMTH JCT
+    distance_km: 2.72
+  - name: FRANKLINPK
+    distance_km: 6.09
+  - name: JAMESBURG
+    distance_km: 6.91
+- country: US
+  region: NJ
+  name: Deal
+  lat: '40.2497'
+  long: "-73.9976"
+  nearby_rate_centers:
+  - name: DEAL
+    distance_km: 1.82
+  - name: ASBURYPARK
+    distance_km: 3.91
+  - name: LONGBRANCH
+    distance_km: 6.12
+- country: US
+  region: NJ
+  name: Deans
+  lat: '40.4037'
+  long: "-74.5130"
+  nearby_rate_centers:
+  - name: FRANKLINPK
+    distance_km: 3.1
+  - name: MONMTH JCT
+    distance_km: 3.71
+  - name: JAMESBURG
+    distance_km: 8.78
+- country: US
+  region: NJ
+  name: Deerfield Street
+  lat: '39.5212'
+  long: "-75.2421"
+  nearby_rate_centers:
+  - name: ELMER
+    distance_km: 10.13
+  - name: BRIDGETON
+    distance_km: 10.39
+  - name: WOODSTOWN
+    distance_km: 16.61
+- country: US
+  region: NJ
+  name: Delaware Park
+  lat: '40.7051'
+  long: "-75.1883"
+  nearby_rate_centers:
+  - name: PHILLIPSBG
+    distance_km: 0.65
+  - name: BLOOMSBURY
+    distance_km: 10.48
+  - name: BELVIDERE
+    distance_km: 16.21
+- country: US
+  region: NJ
+  name: Delmont
+  lat: '39.2152'
+  long: "-74.9494"
+  nearby_rate_centers:
+  - name: MAURICETN
+    distance_km: 8.03
+  - name: PORTNORRIS
+    distance_km: 8.03
+  - name: DENNISVL
+    distance_km: 11.43
+  - name: CAPMAYCTHS
+    distance_km: 18.36
+- country: US
+  region: NJ
+  name: Demarest
+  lat: '40.9550'
+  long: "-73.9568"
+  nearby_rate_centers:
+  - name: CLOSTER
+    distance_km: 1.76
+  - name: DUMONT
+    distance_km: 3.75
+  - name: ORADELL
+    distance_km: 6.58
+- country: US
+  region: NJ
+  name: Dennisville
+  lat: '39.2018'
+  long: "-74.8217"
+  nearby_rate_centers:
+  - name: DENNISVL
+    distance_km: 0.91
+  - name: TUCKAHOE
+    distance_km: 11.64
+  - name: SEAIS CITY
+    distance_km: 12.62
+- country: US
+  region: NJ
+  name: Diamond Beach
+  lat: '38.9595'
+  long: "-74.8531"
+  nearby_rate_centers:
+  - name: WILDWOOD
+    distance_km: 4.64
+  - name: CAPMAYCTHS
+    distance_km: 13.93
+  - name: AVALON
+    distance_km: 19.72
+- country: US
+  region: NJ
+  name: Dividing Creek
+  lat: '39.2709'
+  long: "-75.1007"
+  nearby_rate_centers:
+  - name: MAURICETN
+    distance_km: 6.39
+  - name: PORTNORRIS
+    distance_km: 6.39
+  - name: CEDARVILLE
+    distance_km: 11.04
+  - name: MILLVILLE
+    distance_km: 14.89
+- country: US
+  region: NJ
+  name: Dorchester
+  lat: '39.2711'
+  long: "-74.9729"
+  nearby_rate_centers:
+  - name: MAURICETN
+    distance_km: 5.9
+  - name: PORTNORRIS
+    distance_km: 5.9
+  - name: MILLVILLE
+    distance_km: 14.99
+  - name: DENNISVL
+    distance_km: 15.75
+- country: US
+  region: NJ
+  name: Dorothy
+  lat: '39.4054'
+  long: "-74.8333"
+  nearby_rate_centers:
+  - name: MILMAY
+    distance_km: 4.39
+  - name: MAYS LDG
+    distance_km: 10.49
+  - name: TUCKAHOE
+    distance_km: 14.22
+- country: US
+  region: NJ
+  name: Dover
+  lat: '40.8859'
+  long: "-74.5597"
+  nearby_rate_centers:
+  - name: DOVER
+    distance_km: 0.4
+  - name: ROCKAWAY
+    distance_km: 4.44
+  - name: SUCCASUNNA
+    distance_km: 6.59
+- country: US
+  region: NJ
+  name: Dover Beaches North
+  lat: '39.9921'
+  long: "-74.0715"
+  nearby_rate_centers:
+  - name: SEASIDE PK
+    distance_km: 8.34
+  - name: PTPLEASANT
+    distance_km: 10.97
+  - name: TOMS RIVER
+    distance_km: 11.73
+- country: US
+  region: NJ
+  name: Dover Beaches South
+  lat: '39.9539'
+  long: "-74.0806"
+  nearby_rate_centers:
+  - name: SEASIDE PK
+    distance_km: 4.09
+  - name: TOMS RIVER
+    distance_km: 10.11
+  - name: PTPLEASANT
+    distance_km: 15.28
+- country: US
+  region: NJ
+  name: Dumont
+  lat: '40.9452'
+  long: "-73.9923"
+  nearby_rate_centers:
+  - name: DUMONT
+    distance_km: 0.58
+  - name: CLOSTER
+    distance_km: 3.58
+  - name: ORADELL
+    distance_km: 3.68
+- country: US
+  region: NJ
+  name: Dunellen
+  lat: '40.5903'
+  long: "-74.4656"
+  nearby_rate_centers:
+  - name: DUNELLEN
+    distance_km: 0.18
+  - name: PLAINFIELD
+    distance_km: 4.82
+  - name: BOUNDBROOK
+    distance_km: 6.47
+- country: US
+  region: NJ
+  name: Dutch Neck
+  lat: '39.4017'
+  long: "-75.2787"
+  nearby_rate_centers:
+  - name: BRIDGETON
+    distance_km: 5.28
+  - name: CEDARVILLE
+    distance_km: 10.14
+  - name: MILLVILLE
+    distance_km: 20.64
+- country: US
+  region: NJ
+  name: East Franklin
+  lat: '40.4933'
+  long: "-74.4710"
+  nearby_rate_centers:
+  - name: NEWBRNSWCK
+    distance_km: 2.21
+  - name: FRANKLINPK
+    distance_km: 7.79
+  - name: BOUNDBROOK
+    distance_km: 8.97
+- country: US
+  region: NJ
+  name: East Freehold
+  lat: '40.2718'
+  long: "-74.2425"
+  nearby_rate_centers:
+  - name: FREEHOLD
+    distance_km: 2.73
+  - name: HOLMDEL
+    distance_km: 9.27
+  - name: ENGLISHTN
+    distance_km: 10.41
+- country: US
+  region: NJ
+  name: East Millstone
+  lat: '40.5011'
+  long: "-74.5661"
+  nearby_rate_centers:
+  - name: EMILLSTONE
+    distance_km: 1.18
+  - name: BOUNDBROOK
+    distance_km: 7.19
+  - name: SOMERVILLE
+    distance_km: 8.37
+- country: US
+  region: NJ
+  name: East Newark
+  lat: '40.7510'
+  long: "-74.1623"
+  nearby_rate_centers:
+  - name: NEWARK
+    distance_km: 1.55
+  - name: KEARNY
+    distance_km: 2.54
+  - name: BELLEVILLE
+    distance_km: 4.46
+- country: US
+  region: NJ
+  name: East Orange
+  lat: '40.7651'
+  long: "-74.2117"
+  nearby_rate_centers:
+  - name: ORANGE
+    distance_km: 1.77
+  - name: BLOOMFIELD
+    distance_km: 3.66
+  - name: SO ORANGE
+    distance_km: 4.26
+- country: US
+  region: NJ
+  name: East Rocky Hill
+  lat: '40.4079'
+  long: "-74.6128"
+  nearby_rate_centers:
+  - name: MONMTH JCT
+    distance_km: 6.7
+  - name: BELLE MEAD
+    distance_km: 7.51
+  - name: PRINCETON
+    distance_km: 7.69
+- country: US
+  region: NJ
+  name: East Rutherford
+  lat: '40.8179'
+  long: "-74.0854"
+  nearby_rate_centers:
+  - name: RUTHERFORD
+    distance_km: 2.12
+  - name: HASBROKHTS
+    distance_km: 5.07
+  - name: PASSAIC
+    distance_km: 5.94
+- country: US
+  region: NJ
+  name: East Vineland
+  lat: '39.4805'
+  long: "-74.9158"
+  nearby_rate_centers:
+  - name: MILMAY
+    distance_km: 6.75
+  - name: VINELAND
+    distance_km: 8.87
+  - name: MILLVILLE
+    distance_km: 14.13
+- country: US
+  region: NJ
+  name: Eatontown
+  lat: '40.2913'
+  long: "-74.0558"
+  nearby_rate_centers:
+  - name: EATONTOWN
+    distance_km: 1.69
+  - name: LONGBRANCH
+    distance_km: 5.98
+  - name: RED BANK
+    distance_km: 6.33
+- country: US
+  region: NJ
+  name: Echelon
+  lat: '39.8482'
+  long: "-74.9957"
+  nearby_rate_centers:
+  - name: LAUREL SPG
+    distance_km: 3.05
+  - name: HADDONFLD
+    distance_km: 6.42
+  - name: HADDON HTS
+    distance_km: 6.78
+- country: US
+  region: NJ
+  name: Edgewater
+  lat: '40.8237'
+  long: "-73.9740"
+  nearby_rate_centers:
+  - name: CLIFFSIDE
+    distance_km: 1.31
+  - name: LEONIA
+    distance_km: 4.55
+  - name: UNION CITY
+    distance_km: 7.36
+- country: US
+  region: NJ
+  name: Elizabeth
+  lat: '40.6658'
+  long: "-74.1913"
+  nearby_rate_centers:
+  - name: ELIZABETH
+    distance_km: 1.99
+  - name: ROSELLE
+    distance_km: 6.29
+  - name: BAYONNE
+    distance_km: 6.37
+- country: US
+  region: NJ
+  name: Ellisburg
+  lat: '39.9199'
+  long: "-75.0093"
+  nearby_rate_centers:
+  - name: HADDONFLD
+    distance_km: 2.91
+  - name: MERCHANTVL
+    distance_km: 5.31
+  - name: COLLINGSWD
+    distance_km: 5.41
+- country: US
+  region: NJ
+  name: Elmer
+  lat: '39.5919'
+  long: "-75.1740"
+  nearby_rate_centers:
+  - name: ELMER
+    distance_km: 0.36
+  - name: FRANKLINVL
+    distance_km: 8.54
+  - name: GLASSBORO
+    distance_km: 13.41
+- country: US
+  region: NJ
+  name: Elmwood Park
+  lat: '40.9049'
+  long: "-74.1201"
+  nearby_rate_centers:
+  - name: FAIR LAWN
+    distance_km: 1.98
+  - name: PATERSON
+    distance_km: 3.97
+  - name: PASSAIC
+    distance_km: 4.87
+- country: US
+  region: NJ
+  name: Elwood
+  lat: '39.5731'
+  long: "-74.7148"
+  nearby_rate_centers:
+  - name: EGG HARBOR
+    distance_km: 7.1
+  - name: HAMMONTON
+    distance_km: 10.27
+  - name: MAYS LDG
+    distance_km: 13.45
+- country: US
+  region: NJ
+  name: Emerson
+  lat: '40.9748'
+  long: "-74.0240"
+  nearby_rate_centers:
+  - name: WESTWOOD
+    distance_km: 2.04
+  - name: ORADELL
+    distance_km: 2.66
+  - name: DUMONT
+    distance_km: 4.1
+- country: US
+  region: NJ
+  name: Encore at Monroe
+  lat: '40.3197'
+  long: "-74.4663"
+  nearby_rate_centers:
+  - name: JAMESBURG
+    distance_km: 4.03
+  - name: CRANBURY
+    distance_km: 4.38
+  - name: HIGHTSTOWN
+    distance_km: 7.67
+- country: US
+  region: NJ
+  name: Englewood
+  lat: '40.8917'
+  long: "-73.9736"
+  nearby_rate_centers:
+  - name: ENGLEWOOD
+    distance_km: 0.29
+  - name: LEONIA
+    distance_km: 3.4
+  - name: TEANECK
+    distance_km: 3.82
+- country: US
+  region: NJ
+  name: Englewood Cliffs
+  lat: '40.8823'
+  long: "-73.9467"
+  nearby_rate_centers:
+  - name: ENGLEWOOD
+    distance_km: 2.52
+  - name: LEONIA
+    distance_km: 4.08
+  - name: TEANECK
+    distance_km: 6.04
+- country: US
+  region: NJ
+  name: English Creek
+  lat: '39.3795'
+  long: "-74.6481"
+  nearby_rate_centers:
+  - name: SOMERS PT
+    distance_km: 8.55
+  - name: MAYS LDG
+    distance_km: 10.6
+  - name: PLEASANTVL
+    distance_km: 10.72
+- country: US
+  region: NJ
+  name: Englishtown
+  lat: '40.2971'
+  long: "-74.3607"
+  nearby_rate_centers:
+  - name: ENGLISHTN
+    distance_km: 0.24
+  - name: FREEHOLD
+    distance_km: 8.66
+  - name: JAMESBURG
+    distance_km: 8.74
+- country: US
+  region: NJ
+  name: Erma
+  lat: '38.9953'
+  long: "-74.8932"
+  nearby_rate_centers:
+  - name: WILDWOOD
+    distance_km: 7.13
+  - name: CAPMAYCTHS
+    distance_km: 11.45
+  - name: AVALON
+    distance_km: 19.29
+- country: US
+  region: NJ
+  name: Essex Fells
+  lat: '40.8271'
+  long: "-74.2798"
+  nearby_rate_centers:
+  - name: CALDWELL
+    distance_km: 1.74
+  - name: VERONA
+    distance_km: 2.56
+  - name: LIVINGSTON
+    distance_km: 4.47
+- country: US
+  region: NJ
+  name: Estell Manor
+  lat: '39.3587'
+  long: "-74.7752"
+  nearby_rate_centers:
+  - name: TUCKAHOE
+    distance_km: 7.54
+  - name: MAYS LDG
+    distance_km: 11.21
+  - name: MILMAY
+    distance_km: 11.48
+- country: US
+  region: NJ
+  name: Fair Haven
+  lat: '40.3618'
+  long: "-74.0392"
+  nearby_rate_centers:
+  - name: RED BANK
+    distance_km: 2.62
+  - name: ATLATCHLDS
+    distance_km: 5.64
+  - name: EATONTOWN
+    distance_km: 6.46
+- country: US
+  region: NJ
+  name: Fair Lawn
+  lat: '40.9359'
+  long: "-74.1177"
+  nearby_rate_centers:
+  - name: FAIR LAWN
+    distance_km: 1.68
+  - name: HAWTHORNE
+    distance_km: 3.35
+  - name: PATERSON
+    distance_km: 4.85
+- country: US
+  region: NJ
+  name: Fairton
+  lat: '39.3758'
+  long: "-75.2130"
+  nearby_rate_centers:
+  - name: CEDARVILLE
+    distance_km: 4.79
+  - name: BRIDGETON
+    distance_km: 5.99
+  - name: MILLVILLE
+    distance_km: 15.15
+- country: US
+  region: NJ
+  name: Fairview
+  lat: '40.8182'
+  long: "-74.0022"
+  nearby_rate_centers:
+  - name: CLIFFSIDE
+    distance_km: 1.25
+  - name: LEONIA
+    distance_km: 5.14
+  - name: UNION CITY
+    distance_km: 5.63
+- country: US
+  region: NJ
+  name: Fanwood
+  lat: '40.6417'
+  long: "-74.3857"
+  nearby_rate_centers:
+  - name: FANWOOD
+    distance_km: 0.25
+  - name: WESTFIELD
+    distance_km: 3.5
+  - name: PLAINFIELD
+    distance_km: 4.02
+- country: US
+  region: NJ
+  name: Far Hills
+  lat: '40.6906'
+  long: "-74.6257"
+  nearby_rate_centers:
+  - name: PEAPACK
+    distance_km: 4.26
+  - name: BERNARDSVL
+    distance_km: 5.59
+  - name: MILLINGTON
+    distance_km: 8.83
+- country: US
+  region: NJ
+  name: Farmingdale
+  lat: '40.1985'
+  long: "-74.1702"
+  nearby_rate_centers:
+  - name: FARMINGDL
+    distance_km: 0.74
+  - name: FREEHOLD
+    distance_km: 10.96
+  - name: LAKEWOOD
+    distance_km: 12.5
+- country: US
+  region: NJ
+  name: Fieldsboro
+  lat: '40.1364'
+  long: "-74.7315"
+  nearby_rate_centers:
+  - name: BORDENTOWN
+    distance_km: 1.95
+  - name: FLORENCE
+    distance_km: 6.87
+  - name: TRENTON
+    distance_km: 9.71
+- country: US
+  region: NJ
+  name: Finderne
+  lat: '40.5626'
+  long: "-74.5743"
+  nearby_rate_centers:
+  - name: SOMERVILLE
+    distance_km: 3.4
+  - name: BOUNDBROOK
+    distance_km: 3.68
+  - name: EMILLSTONE
+    distance_km: 6.72
+- country: US
+  region: NJ
+  name: Finesville
+  lat: '40.6110'
+  long: "-75.1738"
+  nearby_rate_centers:
+  - name: MILFORD
+    distance_km: 8.37
+  - name: BLOOMSBURY
+    distance_km: 8.84
+  - name: PHILLIPSBG
+    distance_km: 9.91
+- country: US
+  region: NJ
+  name: Flagtown
+  lat: '40.5232'
+  long: "-74.6909"
+  nearby_rate_centers:
+  - name: NESHANIC
+    distance_km: 3.87
+  - name: BELLE MEAD
+    distance_km: 7.04
+  - name: SOMERVILLE
+    distance_km: 8.1
+- country: US
+  region: NJ
+  name: Flanders
+  lat: '40.8412'
+  long: "-74.7102"
+  nearby_rate_centers:
+  - name: CHESTER
+    distance_km: 6.29
+  - name: NETCONG
+    distance_km: 6.32
+  - name: SUCCASUNNA
+    distance_km: 7.03
+- country: US
+  region: NJ
+  name: Flemington
+  lat: '40.5087'
+  long: "-74.8599"
+  nearby_rate_centers:
+  - name: FLEMINGTON
+    distance_km: 0.25
+  - name: NESHANIC
+    distance_km: 10.82
+  - name: WHITEHOUSE
+    distance_km: 13.97
+- country: US
+  region: NJ
+  name: Florham Park
+  lat: '40.7773'
+  long: "-74.3953"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 2.38
+  - name: CHATHAM
+    distance_km: 4.36
+  - name: WHIPPANY
+    distance_km: 5.37
+- country: US
+  region: NJ
+  name: Folsom
+  lat: '39.5929'
+  long: "-74.8424"
+  nearby_rate_centers:
+  - name: HAMMONTON
+    distance_km: 5.89
+  - name: WILLIAMSTN
+    distance_km: 16.38
+  - name: MILMAY
+    distance_km: 16.99
+- country: US
+  region: NJ
+  name: Fords
+  lat: '40.5359'
+  long: "-74.3126"
+  nearby_rate_centers:
+  - name: WOODBRIDGE
+    distance_km: 3.5
+  - name: METUCHEN
+    distance_km: 4.29
+  - name: PERTHAMBOY
+    distance_km: 4.47
+- country: US
+  region: NJ
+  name: Forked River
+  lat: '39.8257'
+  long: "-74.1819"
+  nearby_rate_centers:
+  - name: BARNEGAT
+    distance_km: 9.05
+  - name: SEASIDE PK
+    distance_km: 13.54
+  - name: TOMS RIVER
+    distance_km: 14.18
+- country: US
+  region: NJ
+  name: Forsgate
+  lat: '40.3487'
+  long: "-74.4637"
+  nearby_rate_centers:
+  - name: JAMESBURG
+    distance_km: 2.16
+  - name: CRANBURY
+    distance_km: 5.97
+  - name: MONMTH JCT
+    distance_km: 7.55
+- country: US
+  region: NJ
+  name: Fort Dix
+  lat: '40.0060'
+  long: "-74.6089"
+  nearby_rate_centers:
+  - name: FORT DIX
+    distance_km: 3.37
+  - name: PEMBERTON
+    distance_km: 7.56
+  - name: NEW EGYPT
+    distance_km: 9.41
+- country: US
+  region: NJ
+  name: Fort Lee
+  lat: '40.8509'
+  long: "-73.9713"
+  nearby_rate_centers:
+  - name: LEONIA
+    distance_km: 1.97
+  - name: CLIFFSIDE
+    distance_km: 3.36
+  - name: ENGLEWOOD
+    distance_km: 4.8
+- country: US
+  region: NJ
+  name: Fortescue
+  lat: '39.2359'
+  long: "-75.1701"
+  nearby_rate_centers:
+  - name: CEDARVILLE
+    distance_km: 11.2
+  - name: MAURICETN
+    distance_km: 11.82
+  - name: PORTNORRIS
+    distance_km: 11.82
+  - name: MILLVILLE
+    distance_km: 21.08
+- country: US
+  region: NJ
+  name: Franklin
+  lat: '41.1101'
+  long: "-74.5886"
+  nearby_rate_centers:
+  - name: FRANKLINBO
+    distance_km: 1.1
+  - name: LAKEMOHAWK
+    distance_km: 8.94
+  - name: SUSSEX
+    distance_km: 11.11
+- country: US
+  region: NJ
+  name: Franklin Center
+  lat: '40.5321'
+  long: "-74.5415"
+  nearby_rate_centers:
+  - name: BOUNDBROOK
+    distance_km: 3.22
+  - name: EMILLSTONE
+    distance_km: 4.64
+  - name: SOMERVILLE
+    distance_km: 7.26
+- country: US
+  region: NJ
+  name: Franklin Lakes
+  lat: '41.0086'
+  long: "-74.2083"
+  nearby_rate_centers:
+  - name: OAKLAND
+    distance_km: 2.95
+  - name: WYCKOFF
+    distance_km: 3.07
+  - name: POMPTONLKS
+    distance_km: 6.68
+- country: US
+  region: NJ
+  name: Franklin Park
+  lat: '40.4439'
+  long: "-74.5431"
+  nearby_rate_centers:
+  - name: FRANKLINPK
+    distance_km: 2.78
+  - name: MONMTH JCT
+    distance_km: 7.16
+  - name: EMILLSTONE
+    distance_km: 7.21
+- country: US
+  region: NJ
+  name: Franklinville
+  lat: '39.6194'
+  long: "-75.0738"
+  nearby_rate_centers:
+  - name: FRANKLINVL
+    distance_km: 0.6
+  - name: ELMER
+    distance_km: 8.92
+  - name: GLASSBORO
+    distance_km: 9.96
+- country: US
+  region: NJ
+  name: Frenchtown
+  lat: '40.5272'
+  long: "-75.0571"
+  nearby_rate_centers:
+  - name: FRENCHTOWN
+    distance_km: 0.57
+  - name: MILFORD
+    distance_km: 5.39
+  - name: BLOOMSBURY
+    distance_km: 14.17
+- country: US
+  region: NJ
+  name: Gandys Beach
+  lat: '39.2715'
+  long: "-75.2316"
+  nearby_rate_centers:
+  - name: CEDARVILLE
+    distance_km: 7.46
+  - name: MAURICETN
+    distance_km: 17.28
+  - name: PORTNORRIS
+    distance_km: 17.28
+  - name: BRIDGETON
+    distance_km: 17.45
+- country: US
+  region: NJ
+  name: Garfield
+  lat: '40.8791'
+  long: "-74.1085"
+  nearby_rate_centers:
+  - name: PASSAIC
+    distance_km: 2.47
+  - name: HASBROKHTS
+    distance_km: 3.04
+  - name: FAIR LAWN
+    distance_km: 4.72
+- country: US
+  region: NJ
+  name: Garwood
+  lat: '40.6513'
+  long: "-74.3231"
+  nearby_rate_centers:
+  - name: CRANFORD
+    distance_km: 1.4
+  - name: WESTFIELD
+    distance_km: 1.89
+  - name: ROSELLE
+    distance_km: 4.97
+- country: US
+  region: NJ
+  name: Germania
+  lat: '39.5088'
+  long: "-74.5922"
+  nearby_rate_centers:
+  - name: EGG HARBOR
+    distance_km: 5.66
+  - name: MAYS LDG
+    distance_km: 13.19
+  - name: PLEASANTVL
+    distance_km: 14.63
+- country: US
+  region: NJ
+  name: Gibbsboro
+  lat: '39.8333'
+  long: "-74.9657"
+  nearby_rate_centers:
+  - name: LAUREL SPG
+    distance_km: 3.36
+  - name: BERLIN
+    distance_km: 5.26
+  - name: MARLTON
+    distance_km: 7.28
+- country: US
+  region: NJ
+  name: Gibbstown
+  lat: '39.8233'
+  long: "-75.2782"
+  nearby_rate_centers:
+  - name: PAULSBORO
+    distance_km: 3.13
+  - name: SWEDESBORO
+    distance_km: 9.0
+  - name: WOODBURY
+    distance_km: 10.67
+- country: US
+  region: NJ
+  name: Gillette
+  lat: '40.6921'
+  long: "-74.4629"
+  nearby_rate_centers:
+  - name: MILLINGTON
+    distance_km: 5.43
+  - name: CHATHAM
+    distance_km: 8.44
+  - name: MADISON
+    distance_km: 8.74
+- country: US
+  region: NJ
+  name: Glassboro
+  lat: '39.7014'
+  long: "-75.1113"
+  nearby_rate_centers:
+  - name: GLASSBORO
+    distance_km: 0.34
+  - name: PITMAN
+    distance_km: 4.4
+  - name: FRANKLINVL
+    distance_km: 9.86
+- country: US
+  region: NJ
+  name: Glen Gardner
+  lat: '40.7004'
+  long: "-74.9395"
+  nearby_rate_centers:
+  - name: HAMPTON
+    distance_km: 1.66
+  - name: HIGHBRIDGE
+    distance_km: 5.04
+  - name: CLINTON
+    distance_km: 7.4
+- country: US
+  region: NJ
+  name: Glen Ridge
+  lat: '40.8041'
+  long: "-74.2043"
+  nearby_rate_centers:
+  - name: BLOOMFIELD
+    distance_km: 0.73
+  - name: NUTLEY
+    distance_km: 3.94
+  - name: ORANGE
+    distance_km: 4.19
+- country: US
+  region: NJ
+  name: Glen Rock
+  lat: '40.9601'
+  long: "-74.1250"
+  nearby_rate_centers:
+  - name: RIDGEWOOD
+    distance_km: 2.38
+  - name: HAWTHORNE
+    distance_km: 2.98
+  - name: FAIR LAWN
+    distance_km: 4.44
+- country: US
+  region: NJ
+  name: Glendora
+  lat: '39.8405'
+  long: "-75.0677"
+  nearby_rate_centers:
+  - name: BEAVER BRK
+    distance_km: 3.24
+  - name: BLACKWOOD
+    distance_km: 4.45
+  - name: HADDON HTS
+    distance_km: 4.72
+- country: US
+  region: NJ
+  name: Gloucester City
+  lat: '39.8924'
+  long: "-75.1172"
+  nearby_rate_centers:
+  - name: GLOUCESTER
+    distance_km: 0.14
+  - name: BEAVER BRK
+    distance_km: 4.02
+  - name: COLLINGSWD
+    distance_km: 4.7
+- country: US
+  region: NJ
+  name: Golden Triangle
+  lat: '39.9288'
+  long: "-75.0398"
+  nearby_rate_centers:
+  - name: COLLINGSWD
+    distance_km: 3.08
+  - name: MERCHANTVL
+    distance_km: 3.13
+  - name: HADDONFLD
+    distance_km: 3.37
+- country: US
+  region: NJ
+  name: Goshen
+  lat: '39.1465'
+  long: "-74.8524"
+  nearby_rate_centers:
+  - name: DENNISVL
+    distance_km: 5.96
+  - name: CAPMAYCTHS
+    distance_km: 7.56
+  - name: AVALON
+    distance_km: 12.73
+- country: US
+  region: NJ
+  name: Gouldtown
+  lat: '39.4152'
+  long: "-75.1912"
+  nearby_rate_centers:
+  - name: BRIDGETON
+    distance_km: 3.48
+  - name: CEDARVILLE
+    distance_km: 9.07
+  - name: MILLVILLE
+    distance_km: 13.28
+- country: US
+  region: NJ
+  name: Great Meadows
+  lat: '40.8770'
+  long: "-74.9034"
+  nearby_rate_centers:
+  - name: GREAT MDW
+    distance_km: 1.77
+  - name: HOPE
+    distance_km: 6.61
+  - name: HACKETTSTN
+    distance_km: 6.75
+- country: US
+  region: NJ
+  name: Great Notch
+  lat: '40.8705'
+  long: "-74.2084"
+  nearby_rate_centers:
+  - name: LITTLE FLS
+    distance_km: 2.03
+  - name: VERONA
+    distance_km: 5.35
+  - name: PATERSON
+    distance_km: 5.85
+- country: US
+  region: NJ
+  name: Green Knoll
+  lat: '40.6047'
+  long: "-74.6147"
+  nearby_rate_centers:
+  - name: SOMERVILLE
+    distance_km: 4.21
+  - name: BOUNDBROOK
+    distance_km: 8.65
+  - name: MILLINGTON
+    distance_km: 10.98
+- country: US
+  region: NJ
+  name: Green Village
+  lat: '40.7386'
+  long: "-74.4460"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 3.69
+  - name: CHATHAM
+    distance_km: 5.2
+  - name: MORRISTOWN
+    distance_km: 7.02
+- country: US
+  region: NJ
+  name: Greentree
+  lat: '39.8989'
+  long: "-74.9613"
+  nearby_rate_centers:
+  - name: MARLTON
+    distance_km: 3.54
+  - name: HADDONFLD
+    distance_km: 5.9
+  - name: MOORESTOWN
+    distance_km: 7.46
+- country: US
+  region: NJ
+  name: Greenwich
+  lat: '39.3910'
+  long: "-75.3432"
+  nearby_rate_centers:
+  - name: BRIDGETON
+    distance_km: 10.74
+  - name: CEDARVILLE
+    distance_km: 13.86
+  - name: SALEM
+    distance_km: 23.21
+- country: US
+  region: NJ
+  name: Grenloch
+  lat: '39.7825'
+  long: "-75.0562"
+  nearby_rate_centers:
+  - name: BLACKWOOD
+    distance_km: 2.17
+  - name: LAUREL SPG
+    distance_km: 6.33
+  - name: PITMAN
+    distance_km: 8.36
+- country: US
+  region: NJ
+  name: Griggstown
+  lat: '40.4400'
+  long: "-74.5989"
+  nearby_rate_centers:
+  - name: BELLE MEAD
+    distance_km: 6.02
+  - name: EMILLSTONE
+    distance_km: 7.11
+  - name: FRANKLINPK
+    distance_km: 7.2
+- country: US
+  region: NJ
+  name: Groveville
+  lat: '40.1679'
+  long: "-74.6523"
+  nearby_rate_centers:
+  - name: BORDENTOWN
+    distance_km: 5.64
+  - name: ALLENTOWN
+    distance_km: 5.8
+  - name: MERCERVL
+    distance_km: 8.22
+- country: US
+  region: NJ
+  name: Guttenberg
+  lat: '40.7928'
+  long: "-74.0049"
+  nearby_rate_centers:
+  - name: UNION CITY
+    distance_km: 3.05
+  - name: CLIFFSIDE
+    distance_km: 3.71
+  - name: LEONIA
+    distance_km: 7.95
+- country: US
+  region: NJ
+  name: Hackensack
+  lat: '40.8891'
+  long: "-74.0462"
+  nearby_rate_centers:
+  - name: HACKENSACK
+    distance_km: 0.56
+  - name: TEANECK
+    distance_km: 2.37
+  - name: HASBROKHTS
+    distance_km: 3.99
+- country: US
+  region: NJ
+  name: Hackettstown
+  lat: '40.8540'
+  long: "-74.8257"
+  nearby_rate_centers:
+  - name: HACKETTSTN
+    distance_km: 0.47
+  - name: GREAT MDW
+    distance_km: 8.1
+  - name: LONGVALLEY
+    distance_km: 8.88
+- country: US
+  region: NJ
+  name: Haddon Heights
+  lat: '39.8792'
+  long: "-75.0645"
+  nearby_rate_centers:
+  - name: HADDON HTS
+    distance_km: 0.47
+  - name: BEAVER BRK
+    distance_km: 2.14
+  - name: HADDONFLD
+    distance_km: 3.66
+- country: US
+  region: NJ
+  name: Hainesburg
+  lat: '40.9577'
+  long: "-75.0503"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance_km: 5.31
+  - name: BLAIRSTOWN
+    distance_km: 7.97
+  - name: STROUDSBG
+    distance_km: 8.51
+- country: US
+  region: NJ
+  name: Haledon
+  lat: '40.9363'
+  long: "-74.1887"
+  nearby_rate_centers:
+  - name: HAWTHORNE
+    distance_km: 3.01
+  - name: PATERSON
+    distance_km: 3.26
+  - name: FAIR LAWN
+    distance_km: 6.68
+- country: US
+  region: NJ
+  name: Hamburg
+  lat: '41.1485'
+  long: "-74.5736"
+  nearby_rate_centers:
+  - name: FRANKLINBO
+    distance_km: 3.39
+  - name: SUSSEX
+    distance_km: 7.26
+  - name: VERNON
+    distance_km: 10.26
+- country: US
+  region: NJ
+  name: Hamilton Square
+  lat: '40.2248'
+  long: "-74.6526"
+  nearby_rate_centers:
+  - name: MERCERVL
+    distance_km: 3.47
+  - name: ALLENTOWN
+    distance_km: 7.9
+  - name: TRENTON
+    distance_km: 8.86
+- country: US
+  region: NJ
+  name: Hammonton
+  lat: '39.6572'
+  long: "-74.7678"
+  nearby_rate_centers:
+  - name: HAMMONTON
+    distance_km: 3.79
+  - name: EGG HARBOR
+    distance_km: 17.08
+  - name: WILLIAMSTN
+    distance_km: 19.39
+- country: US
+  region: NJ
+  name: Hancocks Bridge
+  lat: '39.5051'
+  long: "-75.4605"
+  nearby_rate_centers:
+  - name: SALEM
+    distance_km: 7.81
+  - name: WOODSTOWN
+    distance_km: 20.01
+  - name: BRIDGETON
+    distance_km: 21.71
+- country: US
+  region: NJ
+  name: Harlingen
+  lat: '40.4502'
+  long: "-74.6581"
+  nearby_rate_centers:
+  - name: BELLE MEAD
+    distance_km: 1.55
+  - name: EMILLSTONE
+    distance_km: 8.79
+  - name: NESHANIC
+    distance_km: 8.95
+- country: US
+  region: NJ
+  name: Harrington Park
+  lat: '40.9899'
+  long: "-73.9804"
+  nearby_rate_centers:
+  - name: CLOSTER
+    distance_km: 2.61
+  - name: WESTWOOD
+    distance_km: 4.48
+  - name: DUMONT
+    distance_km: 5.41
+- country: US
+  region: NJ
+  name: Harrison
+  lat: '40.7431'
+  long: "-74.1531"
+  nearby_rate_centers:
+  - name: NEWARK
+    distance_km: 1.69
+  - name: KEARNY
+    distance_km: 3.16
+  - name: BELLEVILLE
+    distance_km: 5.26
+- country: US
+  region: NJ
+  name: Harrisonville
+  lat: '39.6881'
+  long: "-75.2701"
+  nearby_rate_centers:
+  - name: MULLICA HL
+    distance_km: 6.14
+  - name: WOODSTOWN
+    distance_km: 6.36
+  - name: SWEDESBORO
+    distance_km: 7.66
+- country: US
+  region: NJ
+  name: Harvey Cedars
+  lat: '39.6995'
+  long: "-74.1426"
+  nearby_rate_centers:
+  - name: BARNEGAT
+    distance_km: 9.07
+  - name: BEACHHAVEN
+    distance_km: 16.93
+  - name: TUCKERTON
+    distance_km: 20.15
+- country: US
+  region: NJ
+  name: Hasbrouck Heights
+  lat: '40.8618'
+  long: "-74.0741"
+  nearby_rate_centers:
+  - name: HASBROKHTS
+    distance_km: 0.45
+  - name: HACKENSACK
+    distance_km: 3.99
+  - name: PASSAIC
+    distance_km: 4.39
+- country: US
+  region: NJ
+  name: Haworth
+  lat: '40.9622'
+  long: "-73.9976"
+  nearby_rate_centers:
+  - name: DUMONT
+    distance_km: 2.11
+  - name: CLOSTER
+    distance_km: 2.89
+  - name: ORADELL
+    distance_km: 3.33
+- country: US
+  region: NJ
+  name: Hawthorne
+  lat: '40.9579'
+  long: "-74.1582"
+  nearby_rate_centers:
+  - name: HAWTHORNE
+    distance_km: 1.34
+  - name: RIDGEWOOD
+    distance_km: 4.44
+  - name: PATERSON
+    distance_km: 5.11
+- country: US
+  region: NJ
+  name: Heathcote
+  lat: '40.3878'
+  long: "-74.5780"
+  nearby_rate_centers:
+  - name: MONMTH JCT
+    distance_km: 3.1
+  - name: PLAINSBORO
+    distance_km: 6.08
+  - name: FRANKLINPK
+    distance_km: 7.25
+- country: US
+  region: NJ
+  name: Heislerville
+  lat: '39.2236'
+  long: "-74.9915"
+  nearby_rate_centers:
+  - name: MAURICETN
+    distance_km: 4.42
+  - name: PORTNORRIS
+    distance_km: 4.42
+  - name: DENNISVL
+    distance_km: 15.17
+  - name: MILLVILLE
+    distance_km: 19.58
+- country: US
+  region: NJ
+  name: Helmetta
+  lat: '40.3777'
+  long: "-74.4238"
+  nearby_rate_centers:
+  - name: JAMESBURG
+    distance_km: 3.42
+  - name: SOUTHRIVER
+    distance_km: 8.52
+  - name: FRANKLINPK
+    distance_km: 9.74
+- country: US
+  region: NJ
+  name: Hewitt
+  lat: '41.1601'
+  long: "-74.3311"
+  nearby_rate_centers:
+  - name: UPGRENWDLK
+    distance_km: 4.42
+  - name: W MILFORD
+    distance_km: 5.28
+  - name: ERSKINELKS
+    distance_km: 6.31
+- country: US
+  region: NJ
+  name: Hi-Nella
+  lat: '39.8367'
+  long: "-75.0220"
+  nearby_rate_centers:
+  - name: LAUREL SPG
+    distance_km: 2.44
+  - name: BLACKWOOD
+    distance_km: 5.5
+  - name: HADDON HTS
+    distance_km: 6.11
+- country: US
+  region: NJ
+  name: Hibernia
+  lat: '40.9423'
+  long: "-74.5011"
+  nearby_rate_centers:
+  - name: ROCKAWAY
+    distance_km: 4.69
+  - name: DOVER
+    distance_km: 8.26
+  - name: BOONTON
+    distance_km: 8.85
+- country: US
+  region: NJ
+  name: High Bridge
+  lat: '40.6684'
+  long: "-74.8940"
+  nearby_rate_centers:
+  - name: HIGHBRIDGE
+    distance_km: 0.31
+  - name: CLINTON
+    distance_km: 3.85
+  - name: LEBANON
+    distance_km: 5.37
+- country: US
+  region: NJ
+  name: Highland Lakes
+  lat: '41.1716'
+  long: "-74.4643"
+  nearby_rate_centers:
+  - name: VERNON
+    distance_km: 4.11
+  - name: UPGRENWDLK
+    distance_km: 7.3
+  - name: W MILFORD
+    distance_km: 8.88
+- country: US
+  region: NJ
+  name: Highland Park
+  lat: '40.5006'
+  long: "-74.4283"
+  nearby_rate_centers:
+  - name: NEWBRNSWCK
+    distance_km: 1.55
+  - name: METUCHEN
+    distance_km: 7.01
+  - name: SOUTHRIVER
+    distance_km: 7.28
+- country: US
+  region: NJ
+  name: Highlands
+  lat: '40.4036'
+  long: "-73.9898"
+  nearby_rate_centers:
+  - name: ATLATCHLDS
+    distance_km: 4.17
+  - name: RED BANK
+    distance_km: 8.84
+  - name: MIDDLETOWN
+    distance_km: 10.73
+- country: US
+  region: NJ
+  name: Hightstown
+  lat: '40.2686'
+  long: "-74.5253"
+  nearby_rate_centers:
+  - name: HIGHTSTOWN
+    distance_km: 0.12
+  - name: CRANBURY
+    distance_km: 5.09
+  - name: PLAINSBORO
+    distance_km: 9.4
+- country: US
+  region: NJ
+  name: Hillsborough
+  lat: '40.5069'
+  long: "-74.6523"
+  nearby_rate_centers:
+  - name: BELLE MEAD
+    distance_km: 4.89
+  - name: EMILLSTONE
+    distance_km: 6.13
+  - name: NESHANIC
+    distance_km: 6.73
+- country: US
+  region: NJ
+  name: Hillsdale
+  lat: '41.0074'
+  long: "-74.0440"
+  nearby_rate_centers:
+  - name: WESTWOOD
+    distance_km: 1.96
+  - name: PARK RIDGE
+    distance_km: 2.77
+  - name: ORADELL
+    distance_km: 6.16
+- country: US
+  region: NJ
+  name: Ho-Ho-Kus
+  lat: '41.0001'
+  long: "-74.0972"
+  nearby_rate_centers:
+  - name: RIDGEWOOD
+    distance_km: 2.66
+  - name: WESTWOOD
+    distance_km: 5.41
+  - name: PARK RIDGE
+    distance_km: 6.42
+- country: US
+  region: NJ
+  name: Hoboken
+  lat: '40.7452'
+  long: "-74.0281"
+  nearby_rate_centers:
+  - name: UNION CITY
+    distance_km: 2.9
+  - name: JERSEYCITY
+    distance_km: 3.49
+  - name: CLIFFSIDE
+    distance_km: 9.35
+- country: US
+  region: NJ
+  name: Holiday City South
+  lat: '39.9533'
+  long: "-74.2367"
+  nearby_rate_centers:
+  - name: TOMS RIVER
+    distance_km: 3.2
+  - name: LAKEHURST
+    distance_km: 9.17
+  - name: SEASIDE PK
+    distance_km: 14.18
+- country: US
+  region: NJ
+  name: Holiday City-Berkeley
+  lat: '39.9639'
+  long: "-74.2787"
+  nearby_rate_centers:
+  - name: LAKEHURST
+    distance_km: 6.04
+  - name: TOMS RIVER
+    distance_km: 6.9
+  - name: LAKEWOOD
+    distance_km: 15.2
+- country: US
+  region: NJ
+  name: Holiday Heights
+  lat: '39.9396'
+  long: "-74.2572"
+  nearby_rate_centers:
+  - name: TOMS RIVER
+    distance_km: 5.15
+  - name: LAKEHURST
+    distance_km: 9.3
+  - name: SEASIDE PK
+    distance_km: 15.55
+- country: US
+  region: NJ
+  name: Hopatcong
+  lat: '40.9541'
+  long: "-74.6593"
+  nearby_rate_centers:
+  - name: HOPATCONG
+    distance_km: 3.51
+  - name: NETCONG
+    distance_km: 7.53
+  - name: ANDOVER
+    distance_km: 7.92
+- country: US
+  region: NJ
+  name: Hopelawn
+  lat: '40.5286'
+  long: "-74.2936"
+  nearby_rate_centers:
+  - name: PERTHAMBOY
+    distance_km: 2.74
+  - name: WOODBRIDGE
+    distance_km: 3.18
+  - name: SOUTHAMBOY
+    distance_km: 5.49
+- country: US
+  region: NJ
+  name: Hopewell
+  lat: '40.3893'
+  long: "-74.7638"
+  nearby_rate_centers:
+  - name: HOPEWELL
+    distance_km: 0.11
+  - name: PENNINGTON
+    distance_km: 7.47
+  - name: PRINCETON
+    distance_km: 9.69
+- country: US
+  region: NJ
+  name: Hutchinson
+  lat: '40.7800'
+  long: "-75.1204"
+  nearby_rate_centers:
+  - name: BELVIDERE
+    distance_km: 6.11
+  - name: OXFORD
+    distance_km: 10.59
+  - name: PHILLIPSBG
+    distance_km: 10.69
+- country: US
+  region: NJ
+  name: Interlaken
+  lat: '40.2350'
+  long: "-74.0166"
+  nearby_rate_centers:
+  - name: DEAL
+    distance_km: 1.06
+  - name: ASBURYPARK
+    distance_km: 2.04
+  - name: BELMAR
+    distance_km: 6.5
+- country: US
+  region: NJ
+  name: Iselin
+  lat: '40.5697'
+  long: "-74.3172"
+  nearby_rate_centers:
+  - name: WOODBRIDGE
+    distance_km: 3.53
+  - name: METUCHEN
+    distance_km: 5.13
+  - name: RAHWAY
+    distance_km: 5.16
+- country: US
+  region: NJ
+  name: Island Heights
+  lat: '39.9424'
+  long: "-74.1454"
+  nearby_rate_centers:
+  - name: TOMS RIVER
+    distance_km: 4.72
+  - name: SEASIDE PK
+    distance_km: 6.46
+  - name: LAKEHURST
+    distance_km: 16.21
+- country: US
+  region: NJ
+  name: Jamesburg
+  lat: '40.3493'
+  long: "-74.4399"
+  nearby_rate_centers:
+  - name: JAMESBURG
+    distance_km: 0.15
+  - name: CRANBURY
+    distance_km: 7.65
+  - name: ENGLISHTN
+    distance_km: 8.78
+- country: US
+  region: NJ
+  name: Jersey City
+  lat: '40.7184'
+  long: "-74.0686"
+  nearby_rate_centers:
+  - name: JERSEYCITY
+    distance_km: 2.59
+  - name: UNION CITY
+    distance_km: 6.83
+  - name: BAYONNE
+    distance_km: 6.92
+- country: US
+  region: NJ
+  name: Jobstown
+  lat: '40.0334'
+  long: "-74.6945"
+  nearby_rate_centers:
+  - name: FORT DIX
+    distance_km: 6.59
+  - name: PEMBERTON
+    distance_km: 6.83
+  - name: MOUNTHOLLY
+    distance_km: 9.52
+- country: US
+  region: NJ
+  name: Johnsonburg
+  lat: '40.9623'
+  long: "-74.8765"
+  nearby_rate_centers:
+  - name: BLAIRSTOWN
+    distance_km: 7.31
+  - name: HOPE
+    distance_km: 9.58
+  - name: GREAT MDW
+    distance_km: 11.16
+- country: US
+  region: NJ
+  name: Juliustown
+  lat: '40.0121'
+  long: "-74.6715"
+  nearby_rate_centers:
+  - name: PEMBERTON
+    distance_km: 4.59
+  - name: FORT DIX
+    distance_km: 5.31
+  - name: MOUNTHOLLY
+    distance_km: 10.55
+- country: US
+  region: NJ
+  name: Kean University
+  lat: '40.6791'
+  long: "-74.2314"
+  nearby_rate_centers:
+  - name: ELIZABETH
+    distance_km: 1.98
+  - name: ROSELLE
+    distance_km: 3.52
+  - name: UNIONVILLE
+    distance_km: 3.64
+- country: US
+  region: NJ
+  name: Keansburg
+  lat: '40.4469'
+  long: "-74.1315"
+  nearby_rate_centers:
+  - name: KEANSBURG
+    distance_km: 0.35
+  - name: MIDDLETOWN
+    distance_km: 6.0
+  - name: KEYPORT
+    distance_km: 6.02
+- country: US
+  region: NJ
+  name: Kearny
+  lat: '40.7528'
+  long: "-74.1202"
+  nearby_rate_centers:
+  - name: KEARNY
+    distance_km: 3.13
+  - name: NEWARK
+    distance_km: 4.65
+  - name: BELLEVILLE
+    distance_km: 4.96
+- country: US
+  region: NJ
+  name: Keasbey
+  lat: '40.5143'
+  long: "-74.3078"
+  nearby_rate_centers:
+  - name: PERTHAMBOY
+    distance_km: 3.1
+  - name: SOUTHAMBOY
+    distance_km: 4.49
+  - name: WOODBRIDGE
+    distance_km: 5.13
+- country: US
+  region: NJ
+  name: Kendall Park
+  lat: '40.4135'
+  long: "-74.5631"
+  nearby_rate_centers:
+  - name: MONMTH JCT
+    distance_km: 4.14
+  - name: FRANKLINPK
+    distance_km: 4.58
+  - name: PLAINSBORO
+    distance_km: 9.17
+- country: US
+  region: NJ
+  name: Kenilworth
+  lat: '40.6781'
+  long: "-74.2890"
+  nearby_rate_centers:
+  - name: UNIONVILLE
+    distance_km: 2.7
+  - name: ROSELLE
+    distance_km: 2.75
+  - name: CRANFORD
+    distance_km: 2.9
+- country: US
+  region: NJ
+  name: Kenvil
+  lat: '40.8816'
+  long: "-74.6220"
+  nearby_rate_centers:
+  - name: SUCCASUNNA
+    distance_km: 1.88
+  - name: DOVER
+    distance_km: 5.29
+  - name: HOPATCONG
+    distance_km: 5.4
+- country: US
+  region: NJ
+  name: Keyport
+  lat: '40.4328'
+  long: "-74.2011"
+  nearby_rate_centers:
+  - name: KEYPORT
+    distance_km: 0.47
+  - name: MATAWAN
+    distance_km: 3.3
+  - name: KEANSBURG
+    distance_km: 5.82
+- country: US
+  region: NJ
+  name: Kingston
+  lat: '40.3838'
+  long: "-74.6122"
+  nearby_rate_centers:
+  - name: PRINCETON
+    distance_km: 5.67
+  - name: PLAINSBORO
+    distance_km: 5.67
+  - name: MONMTH JCT
+    distance_km: 5.87
+- country: US
+  region: NJ
+  name: Kingston Estates
+  lat: '39.9188'
+  long: "-74.9898"
+  nearby_rate_centers:
+  - name: HADDONFLD
+    distance_km: 4.09
+  - name: MOORESTOWN
+    distance_km: 6.37
+  - name: MERCHANTVL
+    distance_km: 6.6
+- country: US
+  region: NJ
+  name: Kinnelon
+  lat: '40.9847'
+  long: "-74.3862"
+  nearby_rate_centers:
+  - name: BUTLER
+    distance_km: 4.25
+  - name: POMPTONLKS
+    distance_km: 8.53
+  - name: NEWFOUNDLD
+    distance_km: 8.86
+- country: US
+  region: NJ
+  name: Lake Como
+  lat: '40.1706'
+  long: "-74.0262"
+  nearby_rate_centers:
+  - name: BELMAR
+    distance_km: 0.72
+  - name: SPRINGLAKE
+    distance_km: 2.01
+  - name: ASBURYPARK
+    distance_km: 5.24
+- country: US
+  region: NJ
+  name: Lake Hiawatha
+  lat: '40.8816'
+  long: "-74.3826"
+  nearby_rate_centers:
+  - name: BOONTON
+    distance_km: 3.4
+  - name: WHIPPANY
+    distance_km: 6.95
+  - name: MT VIEW
+    distance_km: 10.09
+- country: US
+  region: NJ
+  name: Lake Hopatcong
+  lat: '40.9599'
+  long: "-74.6094"
+  nearby_rate_centers:
+  - name: HOPATCONG
+    distance_km: 3.94
+  - name: LAKEMOHAWK
+    distance_km: 8.78
+  - name: DOVER
+    distance_km: 9.6
+- country: US
+  region: NJ
+  name: Lake Mohawk
+  lat: '41.0149'
+  long: "-74.6640"
+  nearby_rate_centers:
+  - name: LAKEMOHAWK
+    distance_km: 3.59
+  - name: ANDOVER
+    distance_km: 7.49
+  - name: NEWTON
+    distance_km: 9.08
+- country: US
+  region: NJ
+  name: Lake Telemark
+  lat: '40.9610'
+  long: "-74.4970"
+  nearby_rate_centers:
+  - name: ROCKAWAY
+    distance_km: 6.8
+  - name: BOONTON
+    distance_km: 9.71
+  - name: DOVER
+    distance_km: 10.19
+- country: US
+  region: NJ
+  name: Lakehurst
+  lat: '40.0133'
+  long: "-74.3201"
+  nearby_rate_centers:
+  - name: LAKEHURST
+    distance_km: 0.64
+  - name: TOMS RIVER
+    distance_km: 12.32
+  - name: LAKEWOOD
+    distance_km: 12.57
+- country: US
+  region: NJ
+  name: Lakeside-Beebe Run
+  lat: '39.4522'
+  long: "-75.2497"
+  nearby_rate_centers:
+  - name: BRIDGETON
+    distance_km: 3.24
+  - name: CEDARVILLE
+    distance_km: 13.83
+  - name: ELMER
+    distance_km: 17.2
+- country: US
+  region: NJ
+  name: Lambertville
+  lat: '40.3687'
+  long: "-74.9430"
+  nearby_rate_centers:
+  - name: LAMBERTVL
+    distance_km: 0.34
+  - name: PENNINGTON
+    distance_km: 13.81
+  - name: HOPEWELL
+    distance_km: 15.3
+- country: US
+  region: NJ
+  name: Lamington
+  lat: '40.6633'
+  long: "-74.7079"
+  nearby_rate_centers:
+  - name: OLDWICK
+    distance_km: 3.79
+  - name: PEAPACK
+    distance_km: 7.24
+  - name: WHITEHOUSE
+    distance_km: 7.58
+- country: US
+  region: NJ
+  name: Landing
+  lat: '40.9078'
+  long: "-74.6593"
+  nearby_rate_centers:
+  - name: HOPATCONG
+    distance_km: 3.24
+  - name: NETCONG
+    distance_km: 4.36
+  - name: SUCCASUNNA
+    distance_km: 4.96
+- country: US
+  region: NJ
+  name: Laurel Heights
+  lat: '39.4570'
+  long: "-75.2235"
+  nearby_rate_centers:
+  - name: BRIDGETON
+    distance_km: 3.2
+  - name: CEDARVILLE
+    distance_km: 13.84
+  - name: ELMER
+    distance_km: 15.95
+- country: US
+  region: NJ
+  name: Laurel Lake
+  lat: '39.3265'
+  long: "-75.0305"
+  nearby_rate_centers:
+  - name: MILLVILLE
+    distance_km: 7.75
+  - name: MAURICETN
+    distance_km: 8.91
+  - name: PORTNORRIS
+    distance_km: 8.91
+  - name: CEDARVILLE
+    distance_km: 14.59
+- country: US
+  region: NJ
+  name: Laurel Springs
+  lat: '39.8213'
+  long: "-75.0053"
+  nearby_rate_centers:
+  - name: LAUREL SPG
+    distance_km: 0.3
+  - name: BLACKWOOD
+    distance_km: 5.67
+  - name: BERLIN
+    distance_km: 6.97
+- country: US
+  region: NJ
+  name: Laurence Harbor
+  lat: '40.4489'
+  long: "-74.2494"
+  nearby_rate_centers:
+  - name: MATAWAN
+    distance_km: 4.15
+  - name: KEYPORT
+    distance_km: 4.27
+  - name: SOUTHAMBOY
+    distance_km: 4.3
+- country: US
+  region: NJ
+  name: Lavallette
+  lat: '39.9699'
+  long: "-74.0723"
+  nearby_rate_centers:
+  - name: SEASIDE PK
+    distance_km: 5.87
+  - name: TOMS RIVER
+    distance_km: 10.98
+  - name: PTPLEASANT
+    distance_km: 13.42
+- country: US
+  region: NJ
+  name: Lawnside
+  lat: '39.8673'
+  long: "-75.0289"
+  nearby_rate_centers:
+  - name: HADDON HTS
+    distance_km: 3.25
+  - name: HADDONFLD
+    distance_km: 3.57
+  - name: BEAVER BRK
+    distance_km: 4.68
+- country: US
+  region: NJ
+  name: Lawrenceville
+  lat: '40.3018'
+  long: "-74.7378"
+  nearby_rate_centers:
+  - name: LAWRENCEVL
+    distance_km: 0.97
+  - name: PENNINGTON
+    distance_km: 5.16
+  - name: EWING
+    distance_km: 5.65
+- country: US
+  region: NJ
+  name: Layton
+  lat: '41.2192'
+  long: "-74.8229"
+  nearby_rate_centers:
+  - name: BRANCHVL
+    distance_km: 10.04
+  - name: MONTAGUE
+    distance_km: 18.04
+  - name: SUSSEX
+    distance_km: 18.22
+- country: US
+  region: NJ
+  name: Ledgewood
+  lat: '40.8769'
+  long: "-74.6724"
+  nearby_rate_centers:
+  - name: SUCCASUNNA
+    distance_km: 3.38
+  - name: NETCONG
+    distance_km: 3.91
+  - name: HOPATCONG
+    distance_km: 6.7
+- country: US
+  region: NJ
+  name: Leeds Point
+  lat: '39.4906'
+  long: "-74.4433"
+  nearby_rate_centers:
+  - name: BRIGANTINE
+    distance_km: 11.63
+  - name: PLEASANTVL
+    distance_km: 13.32
+  - name: ATLNTIC CY
+    distance_km: 14.59
+- country: US
+  region: NJ
+  name: Leesburg
+  lat: '39.2593'
+  long: "-74.9849"
+  nearby_rate_centers:
+  - name: MAURICETN
+    distance_km: 4.43
+  - name: PORTNORRIS
+    distance_km: 4.43
+  - name: MILLVILLE
+    distance_km: 15.88
+  - name: DENNISVL
+    distance_km: 15.99
+- country: US
+  region: NJ
+  name: Leisure Knoll
+  lat: '40.0186'
+  long: "-74.2909"
+  nearby_rate_centers:
+  - name: LAKEHURST
+    distance_km: 2.05
+  - name: LAKEWOOD
+    distance_km: 10.44
+  - name: TOMS RIVER
+    distance_km: 10.73
+- country: US
+  region: NJ
+  name: Leisure Village
+  lat: '40.0445'
+  long: "-74.1852"
+  nearby_rate_centers:
+  - name: LAKEWOOD
+    distance_km: 5.67
+  - name: TOMS RIVER
+    distance_km: 10.3
+  - name: LAKEHURST
+    distance_km: 11.49
+- country: US
+  region: NJ
+  name: Leisure Village East
+  lat: '40.0384'
+  long: "-74.1678"
+  nearby_rate_centers:
+  - name: LAKEWOOD
+    distance_km: 6.98
+  - name: TOMS RIVER
+    distance_km: 9.92
+  - name: PTPLEASANT
+    distance_km: 11.53
+- country: US
+  region: NJ
+  name: Leisure Village West
+  lat: '40.0104'
+  long: "-74.2806"
+  nearby_rate_centers:
+  - name: LAKEHURST
+    distance_km: 2.76
+  - name: TOMS RIVER
+    distance_km: 9.46
+  - name: LAKEWOOD
+    distance_km: 10.66
+- country: US
+  region: NJ
+  name: Leisuretowne
+  lat: '39.8987'
+  long: "-74.7059"
+  nearby_rate_centers:
+  - name: VINCENTOWN
+    distance_km: 5.63
+  - name: PEMBERTON
+    distance_km: 8.36
+  - name: MEDFORD
+    distance_km: 10.16
+- country: US
+  region: NJ
+  name: Leonardo
+  lat: '40.4190'
+  long: "-74.0599"
+  nearby_rate_centers:
+  - name: ATLATCHLDS
+    distance_km: 2.01
+  - name: MIDDLETOWN
+    distance_km: 5.48
+  - name: KEANSBURG
+    distance_km: 6.88
+- country: US
+  region: NJ
+  name: Leonia
+  lat: '40.8638'
+  long: "-73.9900"
+  nearby_rate_centers:
+  - name: LEONIA
+    distance_km: 0.17
+  - name: TEANECK
+    distance_km: 3.43
+  - name: ENGLEWOOD
+    distance_km: 3.68
+- country: US
+  region: NJ
+  name: Liberty Corner
+  lat: '40.6647'
+  long: "-74.5807"
+  nearby_rate_centers:
+  - name: MILLINGTON
+    distance_km: 4.99
+  - name: BERNARDSVL
+    distance_km: 6.02
+  - name: PEAPACK
+    distance_km: 9.0
+- country: US
+  region: NJ
+  name: Lincoln Park
+  lat: '40.9239'
+  long: "-74.3035"
+  nearby_rate_centers:
+  - name: MT VIEW
+    distance_km: 2.97
+  - name: LITTLE FLS
+    distance_km: 7.95
+  - name: BUTLER
+    distance_km: 8.72
+- country: US
+  region: NJ
+  name: Lincroft
+  lat: '40.3391'
+  long: "-74.1282"
+  nearby_rate_centers:
+  - name: HOLMDEL
+    distance_km: 5.1
+  - name: RED BANK
+    distance_km: 5.51
+  - name: MIDDLETOWN
+    distance_km: 6.23
+- country: US
+  region: NJ
+  name: Linden
+  lat: '40.6251'
+  long: "-74.2383"
+  nearby_rate_centers:
+  - name: LINDEN
+    distance_km: 1.71
+  - name: RAHWAY
+    distance_km: 4.14
+  - name: ROSELLE
+    distance_km: 4.6
+- country: US
+  region: NJ
+  name: Lindenwold
+  lat: '39.8173'
+  long: "-74.9898"
+  nearby_rate_centers:
+  - name: LAUREL SPG
+    distance_km: 1.11
+  - name: BERLIN
+    distance_km: 5.58
+  - name: BLACKWOOD
+    distance_km: 6.76
+- country: US
+  region: NJ
+  name: Little Ferry
+  lat: '40.8464'
+  long: "-74.0388"
+  nearby_rate_centers:
+  - name: HASBROKHTS
+    distance_km: 3.87
+  - name: HACKENSACK
+    distance_km: 4.5
+  - name: LEONIA
+    distance_km: 4.65
+- country: US
+  region: NJ
+  name: Little Silver
+  lat: '40.3357'
+  long: "-74.0346"
+  nearby_rate_centers:
+  - name: RED BANK
+    distance_km: 2.85
+  - name: EATONTOWN
+    distance_km: 3.97
+  - name: LONGBRANCH
+    distance_km: 5.32
+- country: US
+  region: NJ
+  name: Llewellyn Park
+  lat: '40.7895'
+  long: "-74.2415"
+  nearby_rate_centers:
+  - name: ORANGE
+    distance_km: 2.14
+  - name: BLOOMFIELD
+    distance_km: 3.19
+  - name: SO ORANGE
+    distance_km: 4.93
+- country: US
+  region: NJ
+  name: Loch Arbour
+  lat: '40.2323'
+  long: "-74.0013"
+  nearby_rate_centers:
+  - name: DEAL
+    distance_km: 0.32
+  - name: ASBURYPARK
+    distance_km: 2.02
+  - name: BELMAR
+    distance_km: 6.46
+- country: US
+  region: NJ
+  name: Lodi
+  lat: '40.8784'
+  long: "-74.0814"
+  nearby_rate_centers:
+  - name: HASBROKHTS
+    distance_km: 1.7
+  - name: HACKENSACK
+    distance_km: 3.59
+  - name: PASSAIC
+    distance_km: 4.22
+- country: US
+  region: NJ
+  name: Long Branch
+  lat: '40.2965'
+  long: "-73.9915"
+  nearby_rate_centers:
+  - name: LONGBRANCH
+    distance_km: 0.93
+  - name: EATONTOWN
+    distance_km: 5.96
+  - name: DEAL
+    distance_km: 7.02
+- country: US
+  region: NJ
+  name: Long Valley
+  lat: '40.7826'
+  long: "-74.7776"
+  nearby_rate_centers:
+  - name: LONGVALLEY
+    distance_km: 0.03
+  - name: CHESTER
+    distance_km: 6.51
+  - name: CALIFON
+    distance_km: 8.64
+- country: US
+  region: NJ
+  name: Longport
+  lat: '39.3136'
+  long: "-74.5261"
+  nearby_rate_centers:
+  - name: SOMERS PT
+    distance_km: 5.85
+  - name: OCEAN CITY
+    distance_km: 5.93
+  - name: PLEASANTVL
+    distance_km: 8.3
+- country: US
+  region: NJ
+  name: Lopatcong Overlook
+  lat: '40.6971'
+  long: "-75.1452"
+  nearby_rate_centers:
+  - name: PHILLIPSBG
+    distance_km: 3.73
+  - name: BLOOMSBURY
+    distance_km: 7.08
+  - name: MILFORD
+    distance_km: 15.11
+- country: US
+  region: NJ
+  name: Lower Berkshire Valley
+  lat: '40.9132'
+  long: "-74.6104"
+  nearby_rate_centers:
+  - name: HOPATCONG
+    distance_km: 2.64
+  - name: SUCCASUNNA
+    distance_km: 5.47
+  - name: DOVER
+    distance_km: 5.51
+- country: US
+  region: NJ
+  name: Lyons
+  lat: '40.6811'
+  long: "-74.5493"
+  nearby_rate_centers:
+  - name: MILLINGTON
+    distance_km: 2.32
+  - name: BERNARDSVL
+    distance_km: 4.5
+  - name: PEAPACK
+    distance_km: 10.28
+- country: US
+  region: NJ
+  name: Macopin
+  lat: '41.0336'
+  long: "-74.3828"
+  nearby_rate_centers:
+  - name: BUTLER
+    distance_km: 5.45
+  - name: NEWFOUNDLD
+    distance_km: 5.52
+  - name: POMPTONLKS
+    distance_km: 8.67
+- country: US
+  region: NJ
+  name: Madison
+  lat: '40.7586'
+  long: "-74.4169"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 0.4
+  - name: CHATHAM
+    distance_km: 3.51
+  - name: SUMMIT
+    distance_km: 6.65
+- country: US
+  region: NJ
+  name: Madison Park
+  lat: '40.4454'
+  long: "-74.2966"
+  nearby_rate_centers:
+  - name: SOUTHAMBOY
+    distance_km: 4.2
+  - name: MATAWAN
+    distance_km: 6.51
+  - name: SOUTHRIVER
+    distance_km: 7.03
+- country: US
+  region: NJ
+  name: Magnolia
+  lat: '39.8562'
+  long: "-75.0365"
+  nearby_rate_centers:
+  - name: HADDON HTS
+    distance_km: 3.62
+  - name: BEAVER BRK
+    distance_km: 4.2
+  - name: HADDONFLD
+    distance_km: 4.82
+- country: US
+  region: NJ
+  name: Malaga
+  lat: '39.5787'
+  long: "-75.0589"
+  nearby_rate_centers:
+  - name: FRANKLINVL
+    distance_km: 4.52
+  - name: ELMER
+    distance_km: 9.95
+  - name: VINELAND
+    distance_km: 10.82
+- country: US
+  region: NJ
+  name: Manahawkin
+  lat: '39.6931'
+  long: "-74.2495"
+  nearby_rate_centers:
+  - name: BARNEGAT
+    distance_km: 6.8
+  - name: TUCKERTON
+    distance_km: 12.83
+  - name: BEACHHAVEN
+    distance_km: 14.03
+- country: US
+  region: NJ
+  name: Manasquan
+  lat: '40.1186'
+  long: "-74.0450"
+  nearby_rate_centers:
+  - name: MANASQUAN
+    distance_km: 0.44
+  - name: PTPLEASANT
+    distance_km: 3.28
+  - name: SPRINGLAKE
+    distance_km: 3.99
+- country: US
+  region: NJ
+  name: Mantoloking
+  lat: '40.0435'
+  long: "-74.0514"
+  nearby_rate_centers:
+  - name: PTPLEASANT
+    distance_km: 5.1
+  - name: MANASQUAN
+    distance_km: 8.75
+  - name: SPRINGLAKE
+    distance_km: 12.3
+- country: US
+  region: NJ
+  name: Manville
+  lat: '40.5420'
+  long: "-74.5892"
+  nearby_rate_centers:
+  - name: SOMERVILLE
+    distance_km: 3.48
+  - name: EMILLSTONE
+    distance_km: 4.48
+  - name: BOUNDBROOK
+    distance_km: 5.31
+- country: US
+  region: NJ
+  name: Margate City
+  lat: '39.3307'
+  long: "-74.5070"
+  nearby_rate_centers:
+  - name: PLEASANTVL
+    distance_km: 6.56
+  - name: ATLNTIC CY
+    distance_km: 7.09
+  - name: SOMERS PT
+    distance_km: 7.7
+- country: US
+  region: NJ
+  name: Marksboro
+  lat: '40.9811'
+  long: "-74.9082"
+  nearby_rate_centers:
+  - name: BLAIRSTOWN
+    distance_km: 4.37
+  - name: HOPE
+    distance_km: 9.28
+  - name: STROUDSBG
+    distance_km: 12.21
+- country: US
+  region: NJ
+  name: Marlboro
+  lat: '39.4860'
+  long: "-75.3215"
+  nearby_rate_centers:
+  - name: BRIDGETON
+    distance_km: 10.27
+  - name: SALEM
+    distance_km: 16.2
+  - name: ELMER
+    distance_km: 17.59
+- country: US
+  region: NJ
+  name: Marlton
+  lat: '39.9014'
+  long: "-74.9294"
+  nearby_rate_centers:
+  - name: MARLTON
+    distance_km: 1.49
+  - name: MOORESTOWN
+    distance_km: 7.19
+  - name: HADDONFLD
+    distance_km: 8.63
+- country: US
+  region: NJ
+  name: Marmora
+  lat: '39.2594'
+  long: "-74.6570"
+  nearby_rate_centers:
+  - name: OCEAN CITY
+    distance_km: 7.39
+  - name: SOMERS PT
+    distance_km: 8.21
+  - name: TUCKAHOE
+    distance_km: 9.21
+- country: US
+  region: NJ
+  name: Marshallville
+  lat: '39.2929'
+  long: "-74.7751"
+  nearby_rate_centers:
+  - name: TUCKAHOE
+    distance_km: 1.74
+  - name: DENNISVL
+    distance_km: 11.67
+  - name: SOMERS PT
+    distance_km: 15.76
+- country: US
+  region: NJ
+  name: Martinsville
+  lat: '40.6030'
+  long: "-74.5751"
+  nearby_rate_centers:
+  - name: SOMERVILLE
+    distance_km: 5.2
+  - name: BOUNDBROOK
+    distance_km: 6.07
+  - name: MILLINGTON
+    distance_km: 9.11
+- country: US
+  region: NJ
+  name: Matawan
+  lat: '40.4127'
+  long: "-74.2365"
+  nearby_rate_centers:
+  - name: MATAWAN
+    distance_km: 0.46
+  - name: KEYPORT
+    distance_km: 4.02
+  - name: SOUTHAMBOY
+    distance_km: 8.35
+- country: US
+  region: NJ
+  name: Mauricetown
+  lat: '39.2920'
+  long: "-75.0097"
+  nearby_rate_centers:
+  - name: MAURICETN
+    distance_km: 5.47
+  - name: PORTNORRIS
+    distance_km: 5.47
+  - name: MILLVILLE
+    distance_km: 11.82
+  - name: CEDARVILLE
+    distance_km: 17.01
+- country: US
+  region: NJ
+  name: Mays Landing
+  lat: '39.4506'
+  long: "-74.7098"
+  nearby_rate_centers:
+  - name: MAYS LDG
+    distance_km: 1.53
+  - name: EGG HARBOR
+    distance_km: 10.52
+  - name: MILMAY
+    distance_km: 12.66
+- country: US
+  region: NJ
+  name: Maywood
+  lat: '40.9025'
+  long: "-74.0634"
+  nearby_rate_centers:
+  - name: HACKENSACK
+    distance_km: 2.61
+  - name: TEANECK
+    distance_km: 4.21
+  - name: HASBROKHTS
+    distance_km: 4.56
+- country: US
+  region: NJ
+  name: McGuire AFB
+  lat: '40.0285'
+  long: "-74.5883"
+  nearby_rate_centers:
+  - name: FORT DIX
+    distance_km: 2.58
+  - name: NEW EGYPT
+    distance_km: 6.39
+  - name: PEMBERTON
+    distance_km: 10.41
+- country: US
+  region: NJ
+  name: McKee City
+  lat: '39.4465'
+  long: "-74.6445"
+  nearby_rate_centers:
+  - name: MAYS LDG
+    distance_km: 7.16
+  - name: EGG HARBOR
+    distance_km: 9.66
+  - name: PLEASANTVL
+    distance_km: 12.22
+- country: US
+  region: NJ
+  name: Medford Lakes
+  lat: '39.8581'
+  long: "-74.8053"
+  nearby_rate_centers:
+  - name: MEDFORD
+    distance_km: 4.69
+  - name: VINCENTOWN
+    distance_km: 9.75
+  - name: MARLTON
+    distance_km: 10.52
+- country: US
+  region: NJ
+  name: Menlo Park Terrace
+  lat: '40.5534'
+  long: "-74.3243"
+  nearby_rate_centers:
+  - name: METUCHEN
+    distance_km: 3.62
+  - name: WOODBRIDGE
+    distance_km: 3.75
+  - name: PERTHAMBOY
+    distance_km: 6.52
+- country: US
+  region: NJ
+  name: Mercerville
+  lat: '40.2360'
+  long: "-74.6917"
+  nearby_rate_centers:
+  - name: MERCERVL
+    distance_km: 0.07
+  - name: TRENTON
+    distance_km: 5.76
+  - name: LAWRENCEVL
+    distance_km: 7.42
+- country: US
+  region: NJ
+  name: Merchantville
+  lat: '39.9502'
+  long: "-75.0504"
+  nearby_rate_centers:
+  - name: MERCHANTVL
+    distance_km: 0.61
+  - name: COLLINGSWD
+    distance_km: 4.13
+  - name: HADDONFLD
+    distance_km: 5.9
+- country: US
+  region: NJ
+  name: Metuchen
+  lat: '40.5424'
+  long: "-74.3628"
+  nearby_rate_centers:
+  - name: METUCHEN
+    distance_km: 0.32
+  - name: WOODBRIDGE
+    distance_km: 7.15
+  - name: PERTHAMBOY
+    distance_km: 8.49
+- country: US
+  region: NJ
+  name: Mickleton
+  lat: '39.7921'
+  long: "-75.2437"
+  nearby_rate_centers:
+  - name: PAULSBORO
+    distance_km: 4.37
+  - name: MULLICA HL
+    distance_km: 6.82
+  - name: WENONAH
+    distance_km: 7.66
+- country: US
+  region: NJ
+  name: Middlebush
+  lat: '40.5015'
+  long: "-74.5349"
+  nearby_rate_centers:
+  - name: EMILLSTONE
+    distance_km: 3.82
+  - name: BOUNDBROOK
+    distance_km: 6.51
+  - name: NEWBRNSWCK
+    distance_km: 7.64
+- country: US
+  region: NJ
+  name: Middlesex
+  lat: '40.5744'
+  long: "-74.5011"
+  nearby_rate_centers:
+  - name: BOUNDBROOK
+    distance_km: 2.99
+  - name: DUNELLEN
+    distance_km: 3.63
+  - name: PLAINFIELD
+    distance_km: 8.28
+- country: US
+  region: NJ
+  name: Midland Park
+  lat: '40.9952'
+  long: "-74.1410"
+  nearby_rate_centers:
+  - name: RIDGEWOOD
+    distance_km: 2.85
+  - name: WYCKOFF
+    distance_km: 3.25
+  - name: HAWTHORNE
+    distance_km: 5.59
+- country: US
+  region: NJ
+  name: Milford
+  lat: '40.5694'
+  long: "-75.0916"
+  nearby_rate_centers:
+  - name: MILFORD
+    distance_km: 0.29
+  - name: FRENCHTOWN
+    distance_km: 5.15
+  - name: BLOOMSBURY
+    distance_km: 9.3
+- country: US
+  region: NJ
+  name: Millington
+  lat: '40.6763'
+  long: "-74.5159"
+  nearby_rate_centers:
+  - name: MILLINGTON
+    distance_km: 0.63
+  - name: BERNARDSVL
+    distance_km: 6.55
+  - name: PLAINFIELD
+    distance_km: 10.3
+- country: US
+  region: NJ
+  name: Milltown
+  lat: '40.4504'
+  long: "-74.4351"
+  nearby_rate_centers:
+  - name: SOUTHRIVER
+    distance_km: 4.71
+  - name: NEWBRNSWCK
+    distance_km: 4.99
+  - name: FRANKLINPK
+    distance_km: 7.04
+- country: US
+  region: NJ
+  name: Millville
+  lat: '39.3903'
+  long: "-75.0561"
+  nearby_rate_centers:
+  - name: MILLVILLE
+    distance_km: 1.62
+  - name: VINELAND
+    distance_km: 11.15
+  - name: CEDARVILLE
+    distance_km: 13.86
+- country: US
+  region: NJ
+  name: Milmay
+  lat: '39.4433'
+  long: "-74.8668"
+  nearby_rate_centers:
+  - name: MILMAY
+    distance_km: 0.92
+  - name: MAYS LDG
+    distance_km: 12.01
+  - name: VINELAND
+    distance_km: 13.91
+- country: US
+  region: NJ
+  name: Mizpah
+  lat: '39.4814'
+  long: "-74.8385"
+  nearby_rate_centers:
+  - name: MILMAY
+    distance_km: 4.81
+  - name: MAYS LDG
+    distance_km: 10.06
+  - name: VINELAND
+    distance_km: 15.49
+- country: US
+  region: NJ
+  name: Money Island
+  lat: '39.2855'
+  long: "-75.2352"
+  nearby_rate_centers:
+  - name: CEDARVILLE
+    distance_km: 6.18
+  - name: BRIDGETON
+    distance_km: 15.91
+  - name: MAURICETN
+    distance_km: 17.9
+  - name: PORTNORRIS
+    distance_km: 17.9
+- country: US
+  region: NJ
+  name: Monmouth Beach
+  lat: '40.3364'
+  long: "-73.9863"
+  nearby_rate_centers:
+  - name: LONGBRANCH
+    distance_km: 3.58
+  - name: RED BANK
+    distance_km: 6.72
+  - name: EATONTOWN
+    distance_km: 7.15
+- country: US
+  region: NJ
+  name: Monmouth Junction
+  lat: '40.3754'
+  long: "-74.5582"
+  nearby_rate_centers:
+  - name: MONMTH JCT
+    distance_km: 1.36
+  - name: PLAINSBORO
+    distance_km: 5.48
+  - name: FRANKLINPK
+    distance_km: 7.26
+- country: US
+  region: NJ
+  name: Monroe Manor
+  lat: '40.2591'
+  long: "-74.4743"
+  nearby_rate_centers:
+  - name: HIGHTSTOWN
+    distance_km: 4.44
+  - name: CRANBURY
+    distance_km: 7.12
+  - name: JAMESBURG
+    distance_km: 10.45
+- country: US
+  region: NJ
+  name: Montclair State University
+  lat: '40.8660'
+  long: "-74.1984"
+  nearby_rate_centers:
+  - name: LITTLE FLS
+    distance_km: 3.01
+  - name: VERONA
+    distance_km: 5.63
+  - name: PATERSON
+    distance_km: 5.82
+- country: US
+  region: NJ
+  name: Montvale
+  lat: '41.0529'
+  long: "-74.0499"
+  nearby_rate_centers:
+  - name: PARK RIDGE
+    distance_km: 2.87
+  - name: WESTWOOD
+    distance_km: 6.95
+  - name: RAMSEY
+    distance_km: 8.0
+- country: US
+  region: NJ
+  name: Moonachie
+  lat: '40.8408'
+  long: "-74.0590"
+  nearby_rate_centers:
+  - name: HASBROKHTS
+    distance_km: 3.01
+  - name: RUTHERFORD
+    distance_km: 4.29
+  - name: HACKENSACK
+    distance_km: 5.36
+- country: US
+  region: NJ
+  name: Moorestown-Lenola
+  lat: '39.9659'
+  long: "-74.9643"
+  nearby_rate_centers:
+  - name: MOORESTOWN
+    distance_km: 1.61
+  - name: RIVERTON
+    distance_km: 6.27
+  - name: MERCHANTVL
+    distance_km: 7.44
+- country: US
+  region: NJ
+  name: Morganville
+  lat: '40.3756'
+  long: "-74.2444"
+  nearby_rate_centers:
+  - name: MATAWAN
+    distance_km: 4.43
+  - name: HOLMDEL
+    distance_km: 5.92
+  - name: KEYPORT
+    distance_km: 7.74
+- country: US
+  region: NJ
+  name: Morris Plains
+  lat: '40.8356'
+  long: "-74.4786"
+  nearby_rate_centers:
+  - name: MORRISTOWN
+    distance_km: 4.29
+  - name: WHIPPANY
+    distance_km: 5.64
+  - name: ROCKAWAY
+    distance_km: 7.73
+- country: US
+  region: NJ
+  name: Morristown
+  lat: '40.7967'
+  long: "-74.4772"
+  nearby_rate_centers:
+  - name: MORRISTOWN
+    distance_km: 0.05
+  - name: WHIPPANY
+    distance_km: 6.14
+  - name: MADISON
+    distance_km: 6.56
+- country: US
+  region: NJ
+  name: Mount Arlington
+  lat: '40.9190'
+  long: "-74.6390"
+  nearby_rate_centers:
+  - name: HOPATCONG
+    distance_km: 1.25
+  - name: SUCCASUNNA
+    distance_km: 5.75
+  - name: NETCONG
+    distance_km: 6.37
+- country: US
+  region: NJ
+  name: Mount Ephraim
+  lat: '39.8805'
+  long: "-75.0918"
+  nearby_rate_centers:
+  - name: BEAVER BRK
+    distance_km: 1.66
+  - name: HADDON HTS
+    distance_km: 2.61
+  - name: GLOUCESTER
+    distance_km: 2.64
+- country: US
+  region: NJ
+  name: Mount Hermon
+  lat: '40.9227'
+  long: "-74.9961"
+  nearby_rate_centers:
+  - name: HOPE
+    distance_km: 2.7
+  - name: BLAIRSTOWN
+    distance_km: 7.07
+  - name: COLUMBIA
+    distance_km: 8.46
+- country: US
+  region: NJ
+  name: Mount Hope
+  lat: '40.9182'
+  long: "-74.5508"
+  nearby_rate_centers:
+  - name: ROCKAWAY
+    distance_km: 3.89
+  - name: DOVER
+    distance_km: 4.05
+  - name: HOPATCONG
+    distance_km: 7.05
+- country: US
+  region: NJ
+  name: Mount Royal
+  lat: '39.8099'
+  long: "-75.2137"
+  nearby_rate_centers:
+  - name: PAULSBORO
+    distance_km: 3.47
+  - name: WENONAH
+    distance_km: 5.42
+  - name: WOODBURY
+    distance_km: 5.96
+- country: US
+  region: NJ
+  name: Mount Tabor
+  lat: '40.8717'
+  long: "-74.4759"
+  nearby_rate_centers:
+  - name: ROCKAWAY
+    distance_km: 4.36
+  - name: BOONTON
+    distance_km: 6.87
+  - name: DOVER
+    distance_km: 7.1
+- country: US
+  region: NJ
+  name: Mountain Lake
+  lat: '40.8614'
+  long: "-74.9858"
+  nearby_rate_centers:
+  - name: GREAT MDW
+    distance_km: 5.55
+  - name: HOPE
+    distance_km: 5.71
+  - name: OXFORD
+    distance_km: 6.56
+- country: US
+  region: NJ
+  name: Mountain Lakes
+  lat: '40.8907'
+  long: "-74.4406"
+  nearby_rate_centers:
+  - name: BOONTON
+    distance_km: 3.23
+  - name: ROCKAWAY
+    distance_km: 6.0
+  - name: WHIPPANY
+    distance_km: 7.8
+- country: US
+  region: NJ
+  name: Mountainside
+  lat: '40.6811'
+  long: "-74.3601"
+  nearby_rate_centers:
+  - name: WESTFIELD
+    distance_km: 3.79
+  - name: SUMMIT
+    distance_km: 3.82
+  - name: FANWOOD
+    distance_km: 4.8
+- country: US
+  region: NJ
+  name: Mullica Hill
+  lat: '39.7270'
+  long: "-75.2194"
+  nearby_rate_centers:
+  - name: MULLICA HL
+    distance_km: 0.86
+  - name: PITMAN
+    distance_km: 7.39
+  - name: SWEDESBORO
+    distance_km: 8.52
+- country: US
+  region: NJ
+  name: Mystic Island
+  lat: '39.5659'
+  long: "-74.3831"
+  nearby_rate_centers:
+  - name: TUCKERTON
+    distance_km: 5.38
+  - name: BEACHHAVEN
+    distance_km: 12.24
+  - name: BRIGANTINE
+    distance_km: 18.18
+- country: US
+  region: NJ
+  name: National Park
+  lat: '39.8676'
+  long: "-75.1852"
+  nearby_rate_centers:
+  - name: WOODBURY
+    distance_km: 4.12
+  - name: GLOUCESTER
+    distance_km: 6.29
+  - name: PAULSBORO
+    distance_km: 6.37
+- country: US
+  region: NJ
+  name: Navesink
+  lat: '40.4020'
+  long: "-74.0387"
+  nearby_rate_centers:
+  - name: ATLATCHLDS
+    distance_km: 1.18
+  - name: RED BANK
+    distance_km: 6.39
+  - name: MIDDLETOWN
+    distance_km: 6.59
+- country: US
+  region: NJ
+  name: Neptune City
+  lat: '40.2005'
+  long: "-74.0333"
+  nearby_rate_centers:
+  - name: ASBURYPARK
+    distance_km: 2.45
+  - name: BELMAR
+    distance_km: 2.77
+  - name: DEAL
+    distance_km: 4.48
+- country: US
+  region: NJ
+  name: Nesco
+  lat: '39.6380'
+  long: "-74.6954"
+  nearby_rate_centers:
+  - name: HAMMONTON
+    distance_km: 9.17
+  - name: EGG HARBOR
+    distance_km: 12.28
+  - name: MAYS LDG
+    distance_km: 20.81
+- country: US
+  region: NJ
+  name: Neshanic
+  lat: '40.5043'
+  long: "-74.7175"
+  nearby_rate_centers:
+  - name: NESHANIC
+    distance_km: 1.28
+  - name: BELLE MEAD
+    distance_km: 6.46
+  - name: SOMERVILLE
+    distance_km: 11.16
+- country: US
+  region: NJ
+  name: Neshanic Station
+  lat: '40.5291'
+  long: "-74.7358"
+  nearby_rate_centers:
+  - name: NESHANIC
+    distance_km: 2.38
+  - name: BELLE MEAD
+    distance_km: 9.54
+  - name: WHITEHOUSE
+    distance_km: 9.91
+- country: US
+  region: NJ
+  name: Netcong
+  lat: '40.8985'
+  long: "-74.7019"
+  nearby_rate_centers:
+  - name: NETCONG
+    distance_km: 0.65
+  - name: SUCCASUNNA
+    distance_km: 6.66
+  - name: HOPATCONG
+    distance_km: 6.71
+- country: US
+  region: NJ
+  name: New Brunswick
+  lat: '40.4870'
+  long: "-74.4450"
+  nearby_rate_centers:
+  - name: NEWBRNSWCK
+    distance_km: 0.85
+  - name: SOUTHRIVER
+    distance_km: 7.12
+  - name: FRANKLINPK
+    distance_km: 8.52
+- country: US
+  region: NJ
+  name: New Egypt
+  lat: '40.0645'
+  long: "-74.5284"
+  nearby_rate_centers:
+  - name: NEW EGYPT
+    distance_km: 0.59
+  - name: FORT DIX
+    distance_km: 8.21
+  - name: ALLENTOWN
+    distance_km: 13.31
+- country: US
+  region: NJ
+  name: New Gretna
+  lat: '39.5909'
+  long: "-74.4550"
+  nearby_rate_centers:
+  - name: TUCKERTON
+    distance_km: 9.88
+  - name: EGG HARBOR
+    distance_km: 17.91
+  - name: BEACHHAVEN
+    distance_km: 18.59
+- country: US
+  region: NJ
+  name: New Milford
+  lat: '40.9337'
+  long: "-74.0196"
+  nearby_rate_centers:
+  - name: DUMONT
+    distance_km: 2.05
+  - name: ORADELL
+    distance_km: 2.46
+  - name: TEANECK
+    distance_km: 5.31
+- country: US
+  region: NJ
+  name: New Providence
+  lat: '40.6996'
+  long: "-74.4035"
+  nearby_rate_centers:
+  - name: SUMMIT
+    distance_km: 3.88
+  - name: CHATHAM
+    distance_km: 4.67
+  - name: FANWOOD
+    distance_km: 6.69
+- country: US
+  region: NJ
+  name: New Vernon
+  lat: '40.7343'
+  long: "-74.4877"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 6.87
+  - name: MORRISTOWN
+    distance_km: 7.02
+  - name: BERNARDSVL
+    distance_km: 7.19
+- country: US
+  region: NJ
+  name: New Village
+  lat: '40.7184'
+  long: "-75.0773"
+  nearby_rate_centers:
+  - name: BLOOMSBURY
+    distance_km: 7.31
+  - name: WASHINGTON
+    distance_km: 9.32
+  - name: PHILLIPSBG
+    distance_km: 9.68
+- country: US
+  region: NJ
+  name: Newark
+  lat: '40.7245'
+  long: "-74.1725"
+  nearby_rate_centers:
+  - name: NEWARK
+    distance_km: 1.65
+  - name: KEARNY
+    distance_km: 5.58
+  - name: ORANGE
+    distance_km: 7.21
+- country: US
+  region: NJ
+  name: Newfield
+  lat: '39.5484'
+  long: "-75.0167"
+  nearby_rate_centers:
+  - name: VINELAND
+    distance_km: 6.9
+  - name: FRANKLINVL
+    distance_km: 9.26
+  - name: ELMER
+    distance_km: 14.37
+- country: US
+  region: NJ
+  name: Newfoundland
+  lat: '41.0594'
+  long: "-74.4308"
+  nearby_rate_centers:
+  - name: NEWFOUNDLD
+    distance_km: 1.45
+  - name: W MILFORD
+    distance_km: 8.8
+  - name: BUTLER
+    distance_km: 10.34
+- country: US
+  region: NJ
+  name: Newport
+  lat: '39.2937'
+  long: "-75.1707"
+  nearby_rate_centers:
+  - name: CEDARVILLE
+    distance_km: 5.13
+  - name: MAURICETN
+    distance_km: 12.93
+  - name: PORTNORRIS
+    distance_km: 12.93
+  - name: BRIDGETON
+    distance_km: 15.77
+- country: US
+  region: NJ
+  name: Newton
+  lat: '41.0534'
+  long: "-74.7527"
+  nearby_rate_centers:
+  - name: NEWTON
+    distance_km: 0.5
+  - name: ANDOVER
+    distance_km: 7.6
+  - name: LAKEMOHAWK
+    distance_km: 10.23
+- country: US
+  region: NJ
+  name: Newtonville
+  lat: '39.5633'
+  long: "-74.8559"
+  nearby_rate_centers:
+  - name: HAMMONTON
+    distance_km: 9.3
+  - name: MILMAY
+    distance_km: 13.65
+  - name: VINELAND
+    distance_km: 16.39
+- country: US
+  region: NJ
+  name: North Arlington
+  lat: '40.7874'
+  long: "-74.1273"
+  nearby_rate_centers:
+  - name: BELLEVILLE
+    distance_km: 2.1
+  - name: KEARNY
+    distance_km: 2.52
+  - name: NUTLEY
+    distance_km: 4.51
+- country: US
+  region: NJ
+  name: North Beach Haven
+  lat: '39.6008'
+  long: "-74.2123"
+  nearby_rate_centers:
+  - name: BEACHHAVEN
+    distance_km: 4.45
+  - name: TUCKERTON
+    distance_km: 10.98
+  - name: BARNEGAT
+    distance_km: 16.75
+- country: US
+  region: NJ
+  name: North Caldwell
+  lat: '40.8629'
+  long: "-74.2576"
+  nearby_rate_centers:
+  - name: CALDWELL
+    distance_km: 2.7
+  - name: LITTLE FLS
+    distance_km: 3.01
+  - name: VERONA
+    distance_km: 3.16
+- country: US
+  region: NJ
+  name: North Cape May
+  lat: '38.9804'
+  long: "-74.9509"
+  nearby_rate_centers:
+  - name: WILDWOOD
+    distance_km: 12.05
+  - name: CAPMAYCTHS
+    distance_km: 15.86
+  - name: AVALON
+    distance_km: 24.31
+- country: US
+  region: NJ
+  name: North Haledon
+  lat: '40.9628'
+  long: "-74.1844"
+  nearby_rate_centers:
+  - name: HAWTHORNE
+    distance_km: 3.07
+  - name: WYCKOFF
+    distance_km: 5.62
+  - name: PATERSON
+    distance_km: 5.81
+- country: US
+  region: NJ
+  name: North Middletown
+  lat: '40.4395'
+  long: "-74.1179"
+  nearby_rate_centers:
+  - name: KEANSBURG
+    distance_km: 1.46
+  - name: MIDDLETOWN
+    distance_km: 5.03
+  - name: KEYPORT
+    distance_km: 7.07
+- country: US
+  region: NJ
+  name: North Plainfield
+  lat: '40.6209'
+  long: "-74.4386"
+  nearby_rate_centers:
+  - name: PLAINFIELD
+    distance_km: 1.5
+  - name: DUNELLEN
+    distance_km: 4.0
+  - name: FANWOOD
+    distance_km: 5.24
+- country: US
+  region: NJ
+  name: North Wildwood
+  lat: '39.0033'
+  long: "-74.8006"
+  nearby_rate_centers:
+  - name: WILDWOOD
+    distance_km: 2.15
+  - name: CAPMAYCTHS
+    distance_km: 9.01
+  - name: AVALON
+    distance_km: 13.12
+- country: US
+  region: NJ
+  name: Northfield
+  lat: '39.3718'
+  long: "-74.5543"
+  nearby_rate_centers:
+  - name: PLEASANTVL
+    distance_km: 3.19
+  - name: SOMERS PT
+    distance_km: 7.19
+  - name: ATLNTIC CY
+    distance_km: 10.48
+- country: US
+  region: NJ
+  name: Northvale
+  lat: '41.0101'
+  long: "-73.9505"
+  nearby_rate_centers:
+  - name: CLOSTER
+    distance_km: 4.65
+  - name: PARK RIDGE
+    distance_km: 7.24
+  - name: WESTWOOD
+    distance_km: 7.28
+- country: US
+  region: NJ
+  name: Norwood
+  lat: '40.9933'
+  long: "-73.9510"
+  nearby_rate_centers:
+  - name: CLOSTER
+    distance_km: 2.87
+  - name: DUMONT
+    distance_km: 6.85
+  - name: WESTWOOD
+    distance_km: 6.95
+- country: US
+  region: NJ
+  name: Oak Ridge
+  lat: '41.0323'
+  long: "-74.4971"
+  nearby_rate_centers:
+  - name: NEWFOUNDLD
+    distance_km: 4.9
+  - name: LAKEMOHAWK
+    distance_km: 11.38
+  - name: FRANKLINBO
+    distance_km: 12.38
+- country: US
+  region: NJ
+  name: Oak Valley
+  lat: '39.8055'
+  long: "-75.1589"
+  nearby_rate_centers:
+  - name: WENONAH
+    distance_km: 1.43
+  - name: WOODBURY
+    distance_km: 3.72
+  - name: PAULSBORO
+    distance_km: 7.75
+- country: US
+  region: NJ
+  name: Oakhurst
+  lat: '40.2607'
+  long: "-74.0263"
+  nearby_rate_centers:
+  - name: DEAL
+    distance_km: 3.5
+  - name: ASBURYPARK
+    distance_km: 5.0
+  - name: EATONTOWN
+    distance_km: 5.82
+- country: US
+  region: NJ
+  name: Oakland
+  lat: '41.0313'
+  long: "-74.2408"
+  nearby_rate_centers:
+  - name: OAKLAND
+    distance_km: 1.09
+  - name: POMPTONLKS
+    distance_km: 5.01
+  - name: WYCKOFF
+    distance_km: 6.13
+- country: US
+  region: NJ
+  name: Oaklyn
+  lat: '39.9023'
+  long: "-75.0813"
+  nearby_rate_centers:
+  - name: COLLINGSWD
+    distance_km: 1.81
+  - name: HADDON HTS
+    distance_km: 2.77
+  - name: GLOUCESTER
+    distance_km: 3.39
+- country: US
+  region: NJ
+  name: Ocean Acres
+  lat: '39.7430'
+  long: "-74.2805"
+  nearby_rate_centers:
+  - name: BARNEGAT
+    distance_km: 4.86
+  - name: TUCKERTON
+    distance_km: 16.56
+  - name: BEACHHAVEN
+    distance_km: 19.85
+- country: US
+  region: NJ
+  name: Ocean City
+  lat: '39.2681'
+  long: "-74.6020"
+  nearby_rate_centers:
+  - name: OCEAN CITY
+    distance_km: 2.57
+  - name: SOMERS PT
+    distance_km: 5.25
+  - name: TUCKAHOE
+    distance_km: 13.44
+- country: US
+  region: NJ
+  name: Ocean Gate
+  lat: '39.9269'
+  long: "-74.1348"
+  nearby_rate_centers:
+  - name: SEASIDE PK
+    distance_km: 5.03
+  - name: TOMS RIVER
+    distance_km: 6.18
+  - name: LAKEHURST
+    distance_km: 17.86
+- country: US
+  region: NJ
+  name: Ocean Grove
+  lat: '40.2119'
+  long: "-74.0083"
+  nearby_rate_centers:
+  - name: ASBURYPARK
+    distance_km: 0.72
+  - name: DEAL
+    distance_km: 2.49
+  - name: BELMAR
+    distance_km: 4.12
+- country: US
+  region: NJ
+  name: Ocean View
+  lat: '39.1932'
+  long: "-74.7373"
+  nearby_rate_centers:
+  - name: SEAIS CITY
+    distance_km: 6.04
+  - name: DENNISVL
+    distance_km: 7.1
+  - name: AVALON
+    distance_km: 10.33
+- country: US
+  region: NJ
+  name: Oceanport
+  lat: '40.3160'
+  long: "-74.0205"
+  nearby_rate_centers:
+  - name: LONGBRANCH
+    distance_km: 3.11
+  - name: EATONTOWN
+    distance_km: 3.58
+  - name: RED BANK
+    distance_km: 5.13
+- country: US
+  region: NJ
+  name: Oceanville
+  lat: '39.4774'
+  long: "-74.4569"
+  nearby_rate_centers:
+  - name: BRIGANTINE
+    distance_km: 11.18
+  - name: PLEASANTVL
+    distance_km: 11.46
+  - name: ATLNTIC CY
+    distance_km: 13.26
+- country: US
+  region: NJ
+  name: Ogdensburg
+  lat: '41.0769'
+  long: "-74.5973"
+  nearby_rate_centers:
+  - name: FRANKLINBO
+    distance_km: 4.85
+  - name: LAKEMOHAWK
+    distance_km: 5.35
+  - name: NEWFOUNDLD
+    distance_km: 13.14
+- country: US
+  region: NJ
+  name: Old Tappan
+  lat: '41.0163'
+  long: "-73.9855"
+  nearby_rate_centers:
+  - name: PARK RIDGE
+    distance_km: 4.24
+  - name: WESTWOOD
+    distance_km: 4.89
+  - name: CLOSTER
+    distance_km: 5.48
+- country: US
+  region: NJ
+  name: Oldwick
+  lat: '40.6700'
+  long: "-74.7443"
+  nearby_rate_centers:
+  - name: OLDWICK
+    distance_km: 0.64
+  - name: WHITEHOUSE
+    distance_km: 6.57
+  - name: LEBANON
+    distance_km: 8.7
+- country: US
+  region: NJ
+  name: Olivet
+  lat: '39.5402'
+  long: "-75.1727"
+  nearby_rate_centers:
+  - name: ELMER
+    distance_km: 6.1
+  - name: FRANKLINVL
+    distance_km: 11.63
+  - name: BRIDGETON
+    distance_km: 13.3
+- country: US
+  region: NJ
+  name: Oradell
+  lat: '40.9562'
+  long: "-74.0314"
+  nearby_rate_centers:
+  - name: ORADELL
+    distance_km: 0.52
+  - name: DUMONT
+    distance_km: 3.1
+  - name: WESTWOOD
+    distance_km: 3.94
+- country: US
+  region: NJ
+  name: Othello
+  lat: '39.4114'
+  long: "-75.3426"
+  nearby_rate_centers:
+  - name: BRIDGETON
+    distance_km: 10.03
+  - name: CEDARVILLE
+    distance_km: 14.99
+  - name: SALEM
+    distance_km: 21.26
+- country: US
+  region: NJ
+  name: Packanack Lake
+  lat: '40.9382'
+  long: "-74.2564"
+  nearby_rate_centers:
+  - name: MT VIEW
+    distance_km: 2.93
+  - name: LITTLE FLS
+    distance_km: 6.91
+  - name: POMPTONLKS
+    distance_km: 7.7
+- country: US
+  region: NJ
+  name: Palermo
+  lat: '39.2333'
+  long: "-74.6859"
+  nearby_rate_centers:
+  - name: SEAIS CITY
+    distance_km: 8.84
+  - name: TUCKAHOE
+    distance_km: 8.89
+  - name: OCEAN CITY
+    distance_km: 10.73
+- country: US
+  region: NJ
+  name: Palisades Park
+  lat: '40.8472'
+  long: "-73.9966"
+  nearby_rate_centers:
+  - name: LEONIA
+    distance_km: 1.91
+  - name: CLIFFSIDE
+    distance_km: 2.65
+  - name: TEANECK
+    distance_km: 4.68
+- country: US
+  region: NJ
+  name: Palmyra
+  lat: '40.0025'
+  long: "-75.0360"
+  nearby_rate_centers:
+  - name: RIVERTON
+    distance_km: 1.25
+  - name: MERCHANTVL
+    distance_km: 5.35
+  - name: RIVERSIDE
+    distance_km: 7.44
+- country: US
+  region: NJ
+  name: Panther Valley
+  lat: '40.9078'
+  long: "-74.8412"
+  nearby_rate_centers:
+  - name: HACKETTSTN
+    distance_km: 6.3
+  - name: GREAT MDW
+    distance_km: 8.01
+  - name: HOPE
+    distance_km: 10.66
+- country: US
+  region: NJ
+  name: Paramus
+  lat: '40.9455'
+  long: "-74.0712"
+  nearby_rate_centers:
+  - name: ORADELL
+    distance_km: 3.13
+  - name: FAIR LAWN
+    distance_km: 4.32
+  - name: RIDGEWOOD
+    distance_km: 5.23
+- country: US
+  region: NJ
+  name: Park Ridge
+  lat: '41.0352'
+  long: "-74.0423"
+  nearby_rate_centers:
+  - name: PARK RIDGE
+    distance_km: 0.97
+  - name: WESTWOOD
+    distance_km: 4.91
+  - name: RIDGEWOOD
+    distance_km: 8.61
+- country: US
+  region: NJ
+  name: Parsippany
+  lat: '40.8645'
+  long: "-74.4135"
+  nearby_rate_centers:
+  - name: WHIPPANY
+    distance_km: 4.55
+  - name: BOONTON
+    distance_km: 4.6
+  - name: ROCKAWAY
+    distance_km: 9.11
+- country: US
+  region: NJ
+  name: Passaic
+  lat: '40.8574'
+  long: "-74.1282"
+  nearby_rate_centers:
+  - name: PASSAIC
+    distance_km: 0.47
+  - name: RUTHERFORD
+    distance_km: 3.75
+  - name: HASBROKHTS
+    distance_km: 4.18
+- country: US
+  region: NJ
+  name: Paterson
+  lat: '40.9147'
+  long: "-74.1624"
+  nearby_rate_centers:
+  - name: PATERSON
+    distance_km: 0.41
+  - name: HAWTHORNE
+    distance_km: 3.54
+  - name: FAIR LAWN
+    distance_km: 4.33
+- country: US
+  region: NJ
+  name: Paulsboro
+  lat: '39.8400'
+  long: "-75.2397"
+  nearby_rate_centers:
+  - name: PAULSBORO
+    distance_km: 1.0
+  - name: WOODBURY
+    distance_km: 7.24
+  - name: WENONAH
+    distance_km: 8.98
+- country: US
+  region: NJ
+  name: Pedricktown
+  lat: '39.7658'
+  long: "-75.4085"
+  nearby_rate_centers:
+  - name: PENNSGROVE
+    distance_km: 6.47
+  - name: SWEDESBORO
+    distance_km: 8.22
+  - name: WOODSTOWN
+    distance_km: 14.09
+- country: US
+  region: NJ
+  name: Pemberton Heights
+  lat: '39.9563'
+  long: "-74.6768"
+  nearby_rate_centers:
+  - name: PEMBERTON
+    distance_km: 1.94
+  - name: VINCENTOWN
+    distance_km: 6.77
+  - name: FORT DIX
+    distance_km: 10.17
+- country: US
+  region: NJ
+  name: Pennington
+  lat: '40.3262'
+  long: "-74.7908"
+  nearby_rate_centers:
+  - name: PENNINGTON
+    distance_km: 0.11
+  - name: LAWRENCEVL
+    distance_km: 6.21
+  - name: EWING
+    distance_km: 6.93
+- country: US
+  region: NJ
+  name: Penns Grove
+  lat: '39.7275'
+  long: "-75.4691"
+  nearby_rate_centers:
+  - name: PENNSGROVE
+    distance_km: 0.49
+  - name: SWEDESBORO
+    distance_km: 13.33
+  - name: WOODSTOWN
+    distance_km: 14.41
+- country: US
+  region: NJ
+  name: Perth Amboy
+  lat: '40.5202'
+  long: "-74.2724"
+  nearby_rate_centers:
+  - name: PERTHAMBOY
+    distance_km: 1.07
+  - name: WOODBRIDGE
+    distance_km: 3.95
+  - name: SOUTHAMBOY
+    distance_km: 4.44
+- country: US
+  region: NJ
+  name: Phillipsburg
+  lat: '40.6894'
+  long: "-75.1821"
+  nearby_rate_centers:
+  - name: PHILLIPSBG
+    distance_km: 1.26
+  - name: BLOOMSBURY
+    distance_km: 9.16
+  - name: MILFORD
+    distance_km: 15.53
+- country: US
+  region: NJ
+  name: Pine Beach
+  lat: '39.9359'
+  long: "-74.1700"
+  nearby_rate_centers:
+  - name: TOMS RIVER
+    distance_km: 3.1
+  - name: SEASIDE PK
+    distance_km: 8.19
+  - name: LAKEHURST
+    distance_km: 14.8
+- country: US
+  region: NJ
+  name: Pine Brook
+  lat: '40.8676'
+  long: "-74.3438"
+  nearby_rate_centers:
+  - name: CALDWELL
+    distance_km: 6.5
+  - name: BOONTON
+    distance_km: 6.83
+  - name: WHIPPANY
+    distance_km: 7.63
+- country: US
+  region: NJ
+  name: Pine Hill
+  lat: '39.7879'
+  long: "-74.9857"
+  nearby_rate_centers:
+  - name: LAUREL SPG
+    distance_km: 3.95
+  - name: BERLIN
+    distance_km: 4.62
+  - name: BLACKWOOD
+    distance_km: 6.99
+- country: US
+  region: NJ
+  name: Pine Lake Park
+  lat: '40.0017'
+  long: "-74.2595"
+  nearby_rate_centers:
+  - name: LAKEHURST
+    distance_km: 4.68
+  - name: TOMS RIVER
+    distance_km: 7.51
+  - name: LAKEWOOD
+    distance_km: 10.69
+- country: US
+  region: NJ
+  name: Pine Ridge at Crestwood
+  lat: '39.9586'
+  long: "-74.3169"
+  nearby_rate_centers:
+  - name: LAKEHURST
+    distance_km: 5.88
+  - name: TOMS RIVER
+    distance_km: 10.06
+  - name: LAKEWOOD
+    distance_km: 17.18
+- country: US
+  region: NJ
+  name: Pines Lake
+  lat: '40.9983'
+  long: "-74.2643"
+  nearby_rate_centers:
+  - name: POMPTONLKS
+    distance_km: 2.03
+  - name: OAKLAND
+    distance_km: 3.35
+  - name: BUTLER
+    distance_km: 6.23
+- country: US
+  region: NJ
+  name: Pitman
+  lat: '39.7335'
+  long: "-75.1306"
+  nearby_rate_centers:
+  - name: PITMAN
+    distance_km: 0.47
+  - name: GLASSBORO
+    distance_km: 3.63
+  - name: WENONAH
+    distance_km: 6.94
+- country: US
+  region: NJ
+  name: Plainfield
+  lat: '40.6154'
+  long: "-74.4157"
+  nearby_rate_centers:
+  - name: PLAINFIELD
+    distance_km: 0.54
+  - name: FANWOOD
+    distance_km: 4.02
+  - name: DUNELLEN
+    distance_km: 4.91
+- country: US
+  region: NJ
+  name: Plainsboro Center
+  lat: '40.3311'
+  long: "-74.5925"
+  nearby_rate_centers:
+  - name: PLAINSBORO
+    distance_km: 0.42
+  - name: PRINCETON
+    distance_km: 6.24
+  - name: CRANBURY
+    distance_km: 6.64
+- country: US
+  region: NJ
+  name: Pleasant Plains
+  lat: '40.4523'
+  long: "-74.5696"
+  nearby_rate_centers:
+  - name: FRANKLINPK
+    distance_km: 5.2
+  - name: EMILLSTONE
+    distance_km: 5.63
+  - name: BELLE MEAD
+    distance_km: 7.99
+- country: US
+  region: NJ
+  name: Pleasantdale
+  lat: '40.8061'
+  long: "-74.2713"
+  nearby_rate_centers:
+  - name: VERONA
+    distance_km: 3.62
+  - name: LIVINGSTON
+    distance_km: 3.69
+  - name: CALDWELL
+    distance_km: 4.01
+- country: US
+  region: NJ
+  name: Pleasantville
+  lat: '39.3900'
+  long: "-74.5169"
+  nearby_rate_centers:
+  - name: PLEASANTVL
+    distance_km: 0.63
+  - name: ATLNTIC CY
+    distance_km: 7.93
+  - name: SOMERS PT
+    distance_km: 10.67
+- country: US
+  region: NJ
+  name: Pluckemin
+  lat: '40.6454'
+  long: "-74.6355"
+  nearby_rate_centers:
+  - name: PEAPACK
+    distance_km: 8.34
+  - name: SOMERVILLE
+    distance_km: 8.92
+  - name: BERNARDSVL
+    distance_km: 9.79
+- country: US
+  region: NJ
+  name: Point Pleasant
+  lat: '40.0772'
+  long: "-74.0702"
+  nearby_rate_centers:
+  - name: PTPLEASANT
+    distance_km: 2.2
+  - name: MANASQUAN
+    distance_km: 5.36
+  - name: SPRINGLAKE
+    distance_km: 9.04
+- country: US
+  region: NJ
+  name: Point Pleasant Beach
+  lat: '40.0928'
+  long: "-74.0459"
+  nearby_rate_centers:
+  - name: PTPLEASANT
+    distance_km: 0.51
+  - name: MANASQUAN
+    distance_km: 3.26
+  - name: SPRINGLAKE
+    distance_km: 6.81
+- country: US
+  region: NJ
+  name: Pomona
+  lat: '39.4688'
+  long: "-74.5502"
+  nearby_rate_centers:
+  - name: PLEASANTVL
+    distance_km: 9.24
+  - name: EGG HARBOR
+    distance_km: 11.17
+  - name: MAYS LDG
+    distance_km: 15.33
+- country: US
+  region: NJ
+  name: Pompton Lakes
+  lat: '41.0024'
+  long: "-74.2859"
+  nearby_rate_centers:
+  - name: POMPTONLKS
+    distance_km: 0.17
+  - name: BUTLER
+    distance_km: 4.45
+  - name: OAKLAND
+    distance_km: 4.48
+- country: US
+  region: NJ
+  name: Pompton Plains
+  lat: '40.9679'
+  long: "-74.3075"
+  nearby_rate_centers:
+  - name: BUTLER
+    distance_km: 4.22
+  - name: POMPTONLKS
+    distance_km: 4.28
+  - name: MT VIEW
+    distance_km: 6.74
+- country: US
+  region: NJ
+  name: Port Colden
+  lat: '40.7661'
+  long: "-74.9548"
+  nearby_rate_centers:
+  - name: WASHINGTON
+    distance_km: 2.32
+  - name: OXFORD
+    distance_km: 5.51
+  - name: HAMPTON
+    distance_km: 6.59
+- country: US
+  region: NJ
+  name: Port Elizabeth
+  lat: '39.3079'
+  long: "-74.9757"
+  nearby_rate_centers:
+  - name: MAURICETN
+    distance_km: 8.46
+  - name: PORTNORRIS
+    distance_km: 8.46
+  - name: MILLVILLE
+    distance_km: 11.18
+  - name: MILMAY
+    distance_km: 17.95
+- country: US
+  region: NJ
+  name: Port Monmouth
+  lat: '40.4338'
+  long: "-74.1009"
+  nearby_rate_centers:
+  - name: KEANSBURG
+    distance_km: 3.04
+  - name: MIDDLETOWN
+    distance_km: 4.57
+  - name: ATLATCHLDS
+    distance_km: 5.85
+- country: US
+  region: NJ
+  name: Port Morris
+  lat: '40.9061'
+  long: "-74.6845"
+  nearby_rate_centers:
+  - name: NETCONG
+    distance_km: 2.29
+  - name: HOPATCONG
+    distance_km: 5.02
+  - name: SUCCASUNNA
+    distance_km: 6.03
+- country: US
+  region: NJ
+  name: Port Murray
+  lat: '40.7915'
+  long: "-74.9240"
+  nearby_rate_centers:
+  - name: WASHINGTON
+    distance_km: 5.97
+  - name: OXFORD
+    distance_km: 6.39
+  - name: GREAT MDW
+    distance_km: 8.46
+- country: US
+  region: NJ
+  name: Port Norris
+  lat: '39.2521'
+  long: "-75.0412"
+  nearby_rate_centers:
+  - name: MAURICETN
+    distance_km: 0.91
+  - name: PORTNORRIS
+    distance_km: 0.91
+  - name: MILLVILLE
+    distance_km: 15.99
+  - name: CEDARVILLE
+    distance_km: 16.41
+- country: US
+  region: NJ
+  name: Port Reading
+  lat: '40.5685'
+  long: "-74.2469"
+  nearby_rate_centers:
+  - name: CARTERET
+    distance_km: 2.54
+  - name: WOODBRIDGE
+    distance_km: 3.16
+  - name: RAHWAY
+    distance_km: 5.19
+- country: US
+  region: NJ
+  name: Port Republic
+  lat: '39.5328'
+  long: "-74.4852"
+  nearby_rate_centers:
+  - name: EGG HARBOR
+    distance_km: 14.14
+  - name: TUCKERTON
+    distance_km: 14.57
+  - name: PLEASANTVL
+    distance_km: 16.41
+- country: US
+  region: NJ
+  name: Pottersville
+  lat: '40.7133'
+  long: "-74.7253"
+  nearby_rate_centers:
+  - name: OLDWICK
+    distance_km: 5.11
+  - name: PEAPACK
+    distance_km: 5.43
+  - name: CHESTER
+    distance_km: 8.25
+- country: US
+  region: NJ
+  name: Preakness
+  lat: '40.9382'
+  long: "-74.2242"
+  nearby_rate_centers:
+  - name: MT VIEW
+    distance_km: 4.73
+  - name: PATERSON
+    distance_km: 5.65
+  - name: HAWTHORNE
+    distance_km: 5.86
+- country: US
+  region: NJ
+  name: Presidential Lakes Estates
+  lat: '39.9151'
+  long: "-74.5654"
+  nearby_rate_centers:
+  - name: PEMBERTON
+    distance_km: 12.09
+  - name: FORT DIX
+    distance_km: 14.11
+  - name: VINCENTOWN
+    distance_km: 16.02
+- country: US
+  region: NJ
+  name: Princeton
+  lat: '40.3562'
+  long: "-74.6693"
+  nearby_rate_centers:
+  - name: PRINCETON
+    distance_km: 0.95
+  - name: PLAINSBORO
+    distance_km: 6.78
+  - name: LAWRENCEVL
+    distance_km: 8.34
+- country: US
+  region: NJ
+  name: Princeton Junction
+  lat: '40.3206'
+  long: "-74.6237"
+  nearby_rate_centers:
+  - name: PLAINSBORO
+    distance_km: 2.92
+  - name: PRINCETON
+    distance_km: 4.58
+  - name: CRANBURY
+    distance_km: 9.04
+- country: US
+  region: NJ
+  name: Princeton Meadows
+  lat: '40.3347'
+  long: "-74.5651"
+  nearby_rate_centers:
+  - name: PLAINSBORO
+    distance_km: 2.49
+  - name: CRANBURY
+    distance_km: 4.65
+  - name: MONMTH JCT
+    distance_km: 5.32
+- country: US
+  region: NJ
+  name: Prospect Park
+  lat: '40.9380'
+  long: "-74.1736"
+  nearby_rate_centers:
+  - name: HAWTHORNE
+    distance_km: 1.78
+  - name: PATERSON
+    distance_km: 2.92
+  - name: FAIR LAWN
+    distance_km: 5.52
+- country: US
+  region: NJ
+  name: Rahway
+  lat: '40.6077'
+  long: "-74.2807"
+  nearby_rate_centers:
+  - name: RAHWAY
+    distance_km: 0.07
+  - name: LINDEN
+    distance_km: 3.48
+  - name: WOODBRIDGE
+    distance_km: 5.83
+- country: US
+  region: NJ
+  name: Rainbow Lakes
+  lat: '40.8750'
+  long: "-74.4535"
+  nearby_rate_centers:
+  - name: BOONTON
+    distance_km: 5.14
+  - name: ROCKAWAY
+    distance_km: 5.6
+  - name: WHIPPANY
+    distance_km: 6.63
+- country: US
+  region: NJ
+  name: Ramapo College of New Jersey
+  lat: '41.0814'
+  long: "-74.1750"
+  nearby_rate_centers:
+  - name: CRAGMERE
+    distance_km: 2.93
+  - name: RAMSEY
+    distance_km: 3.9
+  - name: WYCKOFF
+    distance_km: 7.66
+- country: US
+  region: NJ
+  name: Ramblewood
+  lat: '39.9322'
+  long: "-74.9527"
+  nearby_rate_centers:
+  - name: MOORESTOWN
+    distance_km: 3.68
+  - name: MARLTON
+    distance_km: 5.45
+  - name: HADDONFLD
+    distance_km: 7.57
+- country: US
+  region: NJ
+  name: Ramsey
+  lat: '41.0595'
+  long: "-74.1454"
+  nearby_rate_centers:
+  - name: RAMSEY
+    distance_km: 0.57
+  - name: CRAGMERE
+    distance_km: 3.79
+  - name: WYCKOFF
+    distance_km: 5.68
+- country: US
+  region: NJ
+  name: Ramtown
+  lat: '40.1145'
+  long: "-74.1492"
+  nearby_rate_centers:
+  - name: LAKEWOOD
+    distance_km: 6.01
+  - name: MANASQUAN
+    distance_km: 8.7
+  - name: PTPLEASANT
+    distance_km: 8.91
+- country: US
+  region: NJ
+  name: Red Bank
+  lat: '40.3480'
+  long: "-74.0672"
+  nearby_rate_centers:
+  - name: RED BANK
+    distance_km: 0.25
+  - name: EATONTOWN
+    distance_km: 4.7
+  - name: MIDDLETOWN
+    distance_km: 6.6
+- country: US
+  region: NJ
+  name: Regency at Monroe
+  lat: '40.3208'
+  long: "-74.3862"
+  nearby_rate_centers:
+  - name: ENGLISHTN
+    distance_km: 3.29
+  - name: JAMESBURG
+    distance_km: 5.41
+  - name: CRANBURY
+    distance_km: 11.15
+- country: US
+  region: NJ
+  name: Renaissance at Monroe
+  lat: '40.2634'
+  long: "-74.4807"
+  nearby_rate_centers:
+  - name: HIGHTSTOWN
+    distance_km: 3.83
+  - name: CRANBURY
+    distance_km: 6.43
+  - name: JAMESBURG
+    distance_km: 10.17
+- country: US
+  region: NJ
+  name: Richland
+  lat: '39.4927'
+  long: "-74.8765"
+  nearby_rate_centers:
+  - name: MILMAY
+    distance_km: 6.05
+  - name: VINELAND
+    distance_km: 12.24
+  - name: MAYS LDG
+    distance_km: 13.55
+- country: US
+  region: NJ
+  name: Richwood
+  lat: '39.7139'
+  long: "-75.1731"
+  nearby_rate_centers:
+  - name: PITMAN
+    distance_km: 4.21
+  - name: MULLICA HL
+    distance_km: 5.03
+  - name: GLASSBORO
+    distance_km: 5.17
+- country: US
+  region: NJ
+  name: Ridgefield
+  lat: '40.8313'
+  long: "-74.0147"
+  nearby_rate_centers:
+  - name: CLIFFSIDE
+    distance_km: 2.27
+  - name: LEONIA
+    distance_km: 4.19
+  - name: TEANECK
+    distance_km: 6.08
+- country: US
+  region: NJ
+  name: Ridgefield Park
+  lat: '40.8543'
+  long: "-74.0201"
+  nearby_rate_centers:
+  - name: LEONIA
+    distance_km: 2.86
+  - name: TEANECK
+    distance_km: 3.52
+  - name: HACKENSACK
+    distance_km: 4.0
+- country: US
+  region: NJ
+  name: Ridgewood
+  lat: '40.9821'
+  long: "-74.1127"
+  nearby_rate_centers:
+  - name: RIDGEWOOD
+    distance_km: 0.28
+  - name: HAWTHORNE
+    distance_km: 5.37
+  - name: WYCKOFF
+    distance_km: 6.03
+- country: US
+  region: NJ
+  name: Ringoes
+  lat: '40.4327'
+  long: "-74.8722"
+  nearby_rate_centers:
+  - name: FLEMINGTON
+    distance_km: 8.66
+  - name: LAMBERTVL
+    distance_km: 9.63
+  - name: HOPEWELL
+    distance_km: 10.27
+- country: US
+  region: NJ
+  name: Ringwood
+  lat: '41.1065'
+  long: "-74.2749"
+  nearby_rate_centers:
+  - name: ERSKINELKS
+    distance_km: 2.57
+  - name: W MILFORD
+    distance_km: 8.8
+  - name: OAKLAND
+    distance_km: 9.91
+- country: US
+  region: NJ
+  name: Rio Grande
+  lat: '39.0193'
+  long: "-74.8787"
+  nearby_rate_centers:
+  - name: WILDWOOD
+    distance_km: 6.88
+  - name: CAPMAYCTHS
+    distance_km: 8.53
+  - name: AVALON
+    distance_km: 16.72
+- country: US
+  region: NJ
+  name: River Edge
+  lat: '40.9269'
+  long: "-74.0387"
+  nearby_rate_centers:
+  - name: ORADELL
+    distance_km: 2.85
+  - name: DUMONT
+    distance_km: 3.82
+  - name: HACKENSACK
+    distance_km: 4.45
+- country: US
+  region: NJ
+  name: Riverdale
+  lat: '40.9921'
+  long: "-74.3125"
+  nearby_rate_centers:
+  - name: BUTLER
+    distance_km: 2.28
+  - name: POMPTONLKS
+    distance_km: 2.44
+  - name: OAKLAND
+    distance_km: 6.99
+- country: US
+  region: NJ
+  name: Riverton
+  lat: '40.0115'
+  long: "-75.0148"
+  nearby_rate_centers:
+  - name: RIVERTON
+    distance_km: 1.24
+  - name: RIVERSIDE
+    distance_km: 5.38
+  - name: MERCHANTVL
+    distance_km: 6.91
+- country: US
+  region: NJ
+  name: Roadstown
+  lat: '39.4431'
+  long: "-75.3169"
+  nearby_rate_centers:
+  - name: BRIDGETON
+    distance_km: 7.82
+  - name: CEDARVILLE
+    distance_km: 15.77
+  - name: SALEM
+    distance_km: 19.74
+- country: US
+  region: NJ
+  name: Robertsville
+  lat: '40.3395'
+  long: "-74.2939"
+  nearby_rate_centers:
+  - name: ENGLISHTN
+    distance_km: 7.17
+  - name: HOLMDEL
+    distance_km: 8.98
+  - name: FREEHOLD
+    distance_km: 9.03
+- country: US
+  region: NJ
+  name: Rockleigh
+  lat: '41.0026'
+  long: "-73.9327"
+  nearby_rate_centers:
+  - name: CLOSTER
+    distance_km: 4.54
+  - name: WESTWOOD
+    distance_km: 8.57
+  - name: DUMONT
+    distance_km: 8.62
+- country: US
+  region: NJ
+  name: Rocky Hill
+  lat: '40.4001'
+  long: "-74.6405"
+  nearby_rate_centers:
+  - name: PRINCETON
+    distance_km: 5.89
+  - name: BELLE MEAD
+    distance_km: 7.31
+  - name: PLAINSBORO
+    distance_km: 8.26
+- country: US
+  region: NJ
+  name: Roebling
+  lat: '40.1167'
+  long: "-74.7775"
+  nearby_rate_centers:
+  - name: FLORENCE
+    distance_km: 2.78
+  - name: BORDENTOWN
+    distance_km: 6.43
+  - name: BURLINGTON
+    distance_km: 8.41
+- country: US
+  region: NJ
+  name: Roosevelt
+  lat: '40.2212'
+  long: "-74.4730"
+  nearby_rate_centers:
+  - name: HIGHTSTOWN
+    distance_km: 6.81
+  - name: ALLENTOWN
+    distance_km: 10.74
+  - name: CRANBURY
+    distance_km: 10.99
+- country: US
+  region: NJ
+  name: Roseland
+  lat: '40.8208'
+  long: "-74.3086"
+  nearby_rate_centers:
+  - name: LIVINGSTON
+    distance_km: 2.82
+  - name: CALDWELL
+    distance_km: 3.74
+  - name: VERONA
+    distance_km: 5.08
+- country: US
+  region: NJ
+  name: Roselle
+  lat: '40.6527'
+  long: "-74.2599"
+  nearby_rate_centers:
+  - name: ROSELLE
+    distance_km: 1.03
+  - name: LINDEN
+    distance_km: 2.25
+  - name: CRANFORD
+    distance_km: 4.07
+- country: US
+  region: NJ
+  name: Roselle Park
+  lat: '40.6653'
+  long: "-74.2666"
+  nearby_rate_centers:
+  - name: ROSELLE
+    distance_km: 0.49
+  - name: UNIONVILLE
+    distance_km: 3.46
+  - name: CRANFORD
+    distance_km: 3.62
+- country: US
+  region: NJ
+  name: Rosenhayn
+  lat: '39.4787'
+  long: "-75.1380"
+  nearby_rate_centers:
+  - name: BRIDGETON
+    distance_km: 9.53
+  - name: VINELAND
+    distance_km: 10.26
+  - name: MILLVILLE
+    distance_km: 12.55
+- country: US
+  region: NJ
+  name: Ross Corner
+  lat: '41.1243'
+  long: "-74.7190"
+  nearby_rate_centers:
+  - name: BRANCHVL
+    distance_km: 3.66
+  - name: NEWTON
+    distance_km: 8.33
+  - name: FRANKLINBO
+    distance_km: 10.98
+- country: US
+  region: NJ
+  name: Rossmoor
+  lat: '40.3349'
+  long: "-74.4708"
+  nearby_rate_centers:
+  - name: JAMESBURG
+    distance_km: 3.17
+  - name: CRANBURY
+    distance_km: 4.58
+  - name: MONMTH JCT
+    distance_km: 7.88
+- country: US
+  region: NJ
+  name: Rumson
+  lat: '40.3626'
+  long: "-74.0046"
+  nearby_rate_centers:
+  - name: RED BANK
+    distance_km: 5.31
+  - name: ATLATCHLDS
+    distance_km: 6.22
+  - name: LONGBRANCH
+    distance_km: 6.66
+- country: US
+  region: NJ
+  name: Runnemede
+  lat: '39.8522'
+  long: "-75.0740"
+  nearby_rate_centers:
+  - name: BEAVER BRK
+    distance_km: 1.83
+  - name: HADDON HTS
+    distance_km: 3.55
+  - name: BLACKWOOD
+    distance_km: 5.79
+- country: US
+  region: NJ
+  name: Rutgers University-Busch Campus
+  lat: '40.5214'
+  long: "-74.4654"
+  nearby_rate_centers:
+  - name: NEWBRNSWCK
+    distance_km: 3.44
+  - name: BOUNDBROOK
+    distance_km: 7.0
+  - name: DUNELLEN
+    distance_km: 7.66
+- country: US
+  region: NJ
+  name: Rutgers University-Livingston Campus
+  lat: '40.5198'
+  long: "-74.4403"
+  nearby_rate_centers:
+  - name: NEWBRNSWCK
+    distance_km: 2.82
+  - name: METUCHEN
+    distance_km: 6.88
+  - name: DUNELLEN
+    distance_km: 8.08
+- country: US
+  region: NJ
+  name: Rutherford
+  lat: '40.8203'
+  long: "-74.1057"
+  nearby_rate_centers:
+  - name: RUTHERFORD
+    distance_km: 0.83
+  - name: NUTLEY
+    distance_km: 4.7
+  - name: PASSAIC
+    distance_km: 4.89
+- country: US
+  region: NJ
+  name: Saddle River
+  lat: '41.0273'
+  long: "-74.0956"
+  nearby_rate_centers:
+  - name: RAMSEY
+    distance_km: 5.14
+  - name: PARK RIDGE
+    distance_km: 5.32
+  - name: RIDGEWOOD
+    distance_km: 5.51
+- country: US
+  region: NJ
+  name: Salem
+  lat: '39.5681'
+  long: "-75.4724"
+  nearby_rate_centers:
+  - name: SALEM
+    distance_km: 0.76
+  - name: WOODSTOWN
+    distance_km: 15.51
+  - name: PENNSGROVE
+    distance_km: 18.21
+- country: US
+  region: NJ
+  name: Sayreville
+  lat: '40.4656'
+  long: "-74.3237"
+  nearby_rate_centers:
+  - name: SOUTHAMBOY
+    distance_km: 4.16
+  - name: SOUTHRIVER
+    distance_km: 5.19
+  - name: PERTHAMBOY
+    distance_km: 6.68
+- country: US
+  region: NJ
+  name: Sea Bright
+  lat: '40.3653'
+  long: "-73.9770"
+  nearby_rate_centers:
+  - name: LONGBRANCH
+    distance_km: 6.85
+  - name: ATLATCHLDS
+    distance_km: 7.35
+  - name: RED BANK
+    distance_km: 7.64
+- country: US
+  region: NJ
+  name: Sea Girt
+  lat: '40.1308'
+  long: "-74.0358"
+  nearby_rate_centers:
+  - name: MANASQUAN
+    distance_km: 1.38
+  - name: SPRINGLAKE
+    distance_km: 2.5
+  - name: PTPLEASANT
+    distance_km: 4.76
+- country: US
+  region: NJ
+  name: Sea Isle City
+  lat: '39.1523'
+  long: "-74.6976"
+  nearby_rate_centers:
+  - name: SEAIS CITY
+    distance_km: 0.76
+  - name: AVALON
+    distance_km: 5.87
+  - name: DENNISVL
+    distance_km: 11.49
+- country: US
+  region: NJ
+  name: Seabrook Farms
+  lat: '39.5015'
+  long: "-75.2190"
+  nearby_rate_centers:
+  - name: BRIDGETON
+    distance_km: 8.16
+  - name: ELMER
+    distance_km: 11.13
+  - name: VINELAND
+    distance_km: 17.25
+- country: US
+  region: NJ
+  name: Seaside Heights
+  lat: '39.9452'
+  long: "-74.0790"
+  nearby_rate_centers:
+  - name: SEASIDE PK
+    distance_km: 3.12
+  - name: TOMS RIVER
+    distance_km: 10.27
+  - name: PTPLEASANT
+    distance_km: 16.22
+- country: US
+  region: NJ
+  name: Seaside Park
+  lat: '39.9264'
+  long: "-74.0785"
+  nearby_rate_centers:
+  - name: SEASIDE PK
+    distance_km: 1.03
+  - name: TOMS RIVER
+    distance_km: 10.69
+  - name: PTPLEASANT
+    distance_km: 18.28
+- country: US
+  region: NJ
+  name: Seaville
+  lat: '39.2093'
+  long: "-74.7136"
+  nearby_rate_centers:
+  - name: SEAIS CITY
+    distance_km: 6.52
+  - name: DENNISVL
+    distance_km: 9.3
+  - name: TUCKAHOE
+    distance_km: 9.94
+- country: US
+  region: NJ
+  name: Secaucus
+  lat: '40.7810'
+  long: "-74.0659"
+  nearby_rate_centers:
+  - name: UNION CITY
+    distance_km: 3.43
+  - name: RUTHERFORD
+    distance_km: 6.24
+  - name: KEARNY
+    distance_km: 7.02
+- country: US
+  region: NJ
+  name: Seeley
+  lat: '39.4852'
+  long: "-75.2455"
+  nearby_rate_centers:
+  - name: BRIDGETON
+    distance_km: 6.49
+  - name: ELMER
+    distance_km: 13.71
+  - name: CEDARVILLE
+    distance_km: 17.27
+- country: US
+  region: NJ
+  name: Sewaren
+  lat: '40.5519'
+  long: "-74.2581"
+  nearby_rate_centers:
+  - name: WOODBRIDGE
+    distance_km: 1.88
+  - name: CARTERET
+    distance_km: 4.37
+  - name: PERTHAMBOY
+    distance_km: 4.72
+- country: US
+  region: NJ
+  name: Sewell
+  lat: '39.7696'
+  long: "-75.1443"
+  nearby_rate_centers:
+  - name: WENONAH
+    distance_km: 2.75
+  - name: PITMAN
+    distance_km: 3.74
+  - name: BLACKWOOD
+    distance_km: 7.53
+- country: US
+  region: NJ
+  name: Shark River Hills
+  lat: '40.1923'
+  long: "-74.0463"
+  nearby_rate_centers:
+  - name: BELMAR
+    distance_km: 2.6
+  - name: ASBURYPARK
+    distance_km: 3.88
+  - name: SPRINGLAKE
+    distance_km: 4.53
+- country: US
+  region: NJ
+  name: Sheppards Mill
+  lat: '39.4124'
+  long: "-75.3136"
+  nearby_rate_centers:
+  - name: BRIDGETON
+    distance_km: 7.57
+  - name: CEDARVILLE
+    distance_km: 13.11
+  - name: SALEM
+    distance_km: 22.56
+- country: US
+  region: NJ
+  name: Shiloh
+  lat: '39.4595'
+  long: "-75.2970"
+  nearby_rate_centers:
+  - name: BRIDGETON
+    distance_km: 6.87
+  - name: CEDARVILLE
+    distance_km: 16.27
+  - name: ELMER
+    distance_km: 18.45
+- country: US
+  region: NJ
+  name: Ship Bottom
+  lat: '39.6459'
+  long: "-74.1835"
+  nearby_rate_centers:
+  - name: BEACHHAVEN
+    distance_km: 10.02
+  - name: BARNEGAT
+    distance_km: 12.22
+  - name: TUCKERTON
+    distance_km: 14.32
+- country: US
+  region: NJ
+  name: Short Hills
+  lat: '40.7389'
+  long: "-74.3278"
+  nearby_rate_centers:
+  - name: MILLBURN
+    distance_km: 2.81
+  - name: SUMMIT
+    distance_km: 3.92
+  - name: CHATHAM
+    distance_km: 4.75
+- country: US
+  region: NJ
+  name: Shrewsbury
+  lat: '40.3249'
+  long: "-74.0600"
+  nearby_rate_centers:
+  - name: EATONTOWN
+    distance_km: 2.1
+  - name: RED BANK
+    distance_km: 2.58
+  - name: LONGBRANCH
+    distance_km: 6.58
+- country: US
+  region: NJ
+  name: Sicklerville
+  lat: '39.7452'
+  long: "-74.9934"
+  nearby_rate_centers:
+  - name: WILLIAMSTN
+    distance_km: 6.65
+  - name: BERLIN
+    distance_km: 7.5
+  - name: LAUREL SPG
+    distance_km: 8.48
+- country: US
+  region: NJ
+  name: Silver Lake
+  lat: '40.7804'
+  long: "-74.1829"
+  nearby_rate_centers:
+  - name: BLOOMFIELD
+    distance_km: 2.68
+  - name: BELLEVILLE
+    distance_km: 2.84
+  - name: KEARNY
+    distance_km: 3.09
+- country: US
+  region: NJ
+  name: Silver Lake
+  lat: '39.4675'
+  long: "-75.2408"
+  nearby_rate_centers:
+  - name: BRIDGETON
+    distance_km: 4.48
+  - name: CEDARVILLE
+    distance_km: 15.27
+  - name: ELMER
+    distance_km: 15.33
+- country: US
+  region: NJ
+  name: Silver Ridge
+  lat: '39.9621'
+  long: "-74.2358"
+  nearby_rate_centers:
+  - name: TOMS RIVER
+    distance_km: 3.3
+  - name: LAKEHURST
+    distance_km: 8.57
+  - name: SEASIDE PK
+    distance_km: 14.42
+- country: US
+  region: NJ
+  name: Singac
+  lat: '40.8849'
+  long: "-74.2431"
+  nearby_rate_centers:
+  - name: LITTLE FLS
+    distance_km: 1.3
+  - name: MT VIEW
+    distance_km: 3.98
+  - name: CALDWELL
+    distance_km: 5.43
+- country: US
+  region: NJ
+  name: Six Mile Run
+  lat: '40.4730'
+  long: "-74.5334"
+  nearby_rate_centers:
+  - name: FRANKLINPK
+    distance_km: 4.88
+  - name: EMILLSTONE
+    distance_km: 5.12
+  - name: NEWBRNSWCK
+    distance_km: 7.86
+- country: US
+  region: NJ
+  name: Skillman
+  lat: '40.4247'
+  long: "-74.7140"
+  nearby_rate_centers:
+  - name: HOPEWELL
+    distance_km: 5.76
+  - name: BELLE MEAD
+    distance_km: 6.12
+  - name: NESHANIC
+    distance_km: 9.37
+- country: US
+  region: NJ
+  name: Smithville
+  lat: '39.4929'
+  long: "-74.4801"
+  nearby_rate_centers:
+  - name: PLEASANTVL
+    distance_km: 12.23
+  - name: BRIGANTINE
+    distance_km: 13.79
+  - name: EGG HARBOR
+    distance_km: 15.26
+- country: US
+  region: NJ
+  name: Somerdale
+  lat: '39.8455'
+  long: "-75.0218"
+  nearby_rate_centers:
+  - name: LAUREL SPG
+    distance_km: 3.2
+  - name: HADDON HTS
+    distance_km: 5.33
+  - name: BEAVER BRK
+    distance_km: 5.8
+- country: US
+  region: NJ
+  name: Somers Point
+  lat: '39.3167'
+  long: "-74.6066"
+  nearby_rate_centers:
+  - name: SOMERS PT
+    distance_km: 1.09
+  - name: OCEAN CITY
+    distance_km: 5.45
+  - name: PLEASANTVL
+    distance_km: 10.67
+- country: US
+  region: NJ
+  name: Somerset
+  lat: '40.5083'
+  long: "-74.5010"
+  nearby_rate_centers:
+  - name: NEWBRNSWCK
+    distance_km: 4.97
+  - name: BOUNDBROOK
+    distance_km: 6.27
+  - name: EMILLSTONE
+    distance_km: 6.71
+- country: US
+  region: NJ
+  name: Somerville
+  lat: '40.5696'
+  long: "-74.6092"
+  nearby_rate_centers:
+  - name: SOMERVILLE
+    distance_km: 0.52
+  - name: BOUNDBROOK
+    distance_km: 6.7
+  - name: EMILLSTONE
+    distance_km: 7.88
+- country: US
+  region: NJ
+  name: South Amboy
+  lat: '40.4852'
+  long: "-74.2831"
+  nearby_rate_centers:
+  - name: SOUTHAMBOY
+    distance_km: 0.64
+  - name: PERTHAMBOY
+    distance_km: 3.0
+  - name: WOODBRIDGE
+    distance_km: 7.79
+- country: US
+  region: NJ
+  name: South Bound Brook
+  lat: '40.5535'
+  long: "-74.5277"
+  nearby_rate_centers:
+  - name: BOUNDBROOK
+    distance_km: 0.77
+  - name: DUNELLEN
+    distance_km: 6.79
+  - name: EMILLSTONE
+    distance_km: 7.21
+- country: US
+  region: NJ
+  name: South Dennis
+  lat: '39.1684'
+  long: "-74.8000"
+  nearby_rate_centers:
+  - name: DENNISVL
+    distance_km: 3.29
+  - name: SEAIS CITY
+    distance_km: 9.7
+  - name: CAPMAYCTHS
+    distance_km: 9.75
+- country: US
+  region: NJ
+  name: South Plainfield
+  lat: '40.5748'
+  long: "-74.4152"
+  nearby_rate_centers:
+  - name: DUNELLEN
+    distance_km: 4.42
+  - name: PLAINFIELD
+    distance_km: 4.8
+  - name: METUCHEN
+    distance_km: 5.89
+- country: US
+  region: NJ
+  name: South River
+  lat: '40.4455'
+  long: "-74.3783"
+  nearby_rate_centers:
+  - name: SOUTHRIVER
+    distance_km: 0.17
+  - name: NEWBRNSWCK
+    distance_km: 7.86
+  - name: SOUTHAMBOY
+    distance_km: 9.29
+- country: US
+  region: NJ
+  name: South Seaville
+  lat: '39.1825'
+  long: "-74.7575"
+  nearby_rate_centers:
+  - name: DENNISVL
+    distance_km: 5.5
+  - name: SEAIS CITY
+    distance_km: 6.71
+  - name: AVALON
+    distance_km: 9.66
+- country: US
+  region: NJ
+  name: South Toms River
+  lat: '39.9418'
+  long: "-74.2087"
+  nearby_rate_centers:
+  - name: TOMS RIVER
+    distance_km: 1.44
+  - name: SEASIDE PK
+    distance_km: 11.55
+  - name: LAKEHURST
+    distance_km: 11.79
+- country: US
+  region: NJ
+  name: Spotswood
+  lat: '40.3949'
+  long: "-74.3920"
+  nearby_rate_centers:
+  - name: SOUTHRIVER
+    distance_km: 5.84
+  - name: JAMESBURG
+    distance_km: 6.44
+  - name: ENGLISHTN
+    distance_km: 10.99
+- country: US
+  region: NJ
+  name: Spring Lake
+  lat: '40.1539'
+  long: "-74.0273"
+  nearby_rate_centers:
+  - name: SPRINGLAKE
+    distance_km: 0.4
+  - name: BELMAR
+    distance_km: 2.56
+  - name: MANASQUAN
+    distance_km: 3.93
+- country: US
+  region: NJ
+  name: Spring Lake Heights
+  lat: '40.1521'
+  long: "-74.0430"
+  nearby_rate_centers:
+  - name: SPRINGLAKE
+    distance_km: 0.96
+  - name: BELMAR
+    distance_km: 3.2
+  - name: MANASQUAN
+    distance_km: 3.36
+- country: US
+  region: NJ
+  name: Springdale
+  lat: '39.8769'
+  long: "-74.9724"
+  nearby_rate_centers:
+  - name: MARLTON
+    distance_km: 4.55
+  - name: HADDONFLD
+    distance_km: 5.55
+  - name: LAUREL SPG
+    distance_km: 6.68
+- country: US
+  region: NJ
+  name: Springfield
+  lat: '40.7060'
+  long: "-74.3130"
+  nearby_rate_centers:
+  - name: MILLBURN
+    distance_km: 1.95
+  - name: UNIONVILLE
+    distance_km: 3.94
+  - name: SUMMIT
+    distance_km: 4.29
+- country: US
+  region: NJ
+  name: Stanhope
+  lat: '40.9141'
+  long: "-74.7027"
+  nearby_rate_centers:
+  - name: NETCONG
+    distance_km: 1.88
+  - name: HOPATCONG
+    distance_km: 6.07
+  - name: SUCCASUNNA
+    distance_km: 7.75
+- country: US
+  region: NJ
+  name: Stewartsville
+  lat: '40.6889'
+  long: "-75.1022"
+  nearby_rate_centers:
+  - name: BLOOMSBURY
+    distance_km: 4.27
+  - name: PHILLIPSBG
+    distance_km: 7.44
+  - name: HAMPTON
+    distance_km: 12.38
+- country: US
+  region: NJ
+  name: Stirling
+  lat: '40.6782'
+  long: "-74.4936"
+  nearby_rate_centers:
+  - name: MILLINGTON
+    distance_km: 2.51
+  - name: BERNARDSVL
+    distance_km: 7.86
+  - name: PLAINFIELD
+    distance_km: 9.08
+- country: US
+  region: NJ
+  name: Stockton
+  lat: '40.4061'
+  long: "-74.9758"
+  nearby_rate_centers:
+  - name: LAMBERTVL
+    distance_km: 5.17
+  - name: FLEMINGTON
+    distance_km: 15.28
+  - name: FRENCHTOWN
+    distance_km: 15.48
+- country: US
+  region: NJ
+  name: Stockton University
+  lat: '39.4889'
+  long: "-74.5417"
+  nearby_rate_centers:
+  - name: EGG HARBOR
+    distance_km: 10.53
+  - name: PLEASANTVL
+    distance_km: 11.3
+  - name: MAYS LDG
+    distance_km: 16.45
+- country: US
+  region: NJ
+  name: Stone Harbor
+  lat: '39.0483'
+  long: "-74.7653"
+  nearby_rate_centers:
+  - name: CAPMAYCTHS
+    distance_km: 6.24
+  - name: AVALON
+    distance_km: 7.27
+  - name: WILDWOOD
+    distance_km: 8.0
+- country: US
+  region: NJ
+  name: Stonebridge
+  lat: '40.2947'
+  long: "-74.4653"
+  nearby_rate_centers:
+  - name: CRANBURY
+    distance_km: 4.91
+  - name: HIGHTSTOWN
+    distance_km: 5.93
+  - name: JAMESBURG
+    distance_km: 6.45
+- country: US
+  region: NJ
+  name: Stratford
+  lat: '39.8290'
+  long: "-75.0156"
+  nearby_rate_centers:
+  - name: LAUREL SPG
+    distance_km: 1.46
+  - name: BLACKWOOD
+    distance_km: 5.34
+  - name: HADDON HTS
+    distance_km: 7.13
+- country: US
+  region: NJ
+  name: Strathmere
+  lat: '39.1944'
+  long: "-74.6618"
+  nearby_rate_centers:
+  - name: SEAIS CITY
+    distance_km: 5.09
+  - name: AVALON
+    distance_km: 11.35
+  - name: OCEAN CITY
+    distance_km: 11.75
+- country: US
+  region: NJ
+  name: Strathmore
+  lat: '40.4018'
+  long: "-74.2194"
+  nearby_rate_centers:
+  - name: MATAWAN
+    distance_km: 1.72
+  - name: KEYPORT
+    distance_km: 4.2
+  - name: HOLMDEL
+    distance_km: 6.94
+- country: US
+  region: NJ
+  name: Succasunna
+  lat: '40.8530'
+  long: "-74.6568"
+  nearby_rate_centers:
+  - name: SUCCASUNNA
+    distance_km: 2.49
+  - name: NETCONG
+    distance_km: 6.69
+  - name: MT FREEDOM
+    distance_km: 8.24
+- country: US
+  region: NJ
+  name: Summit
+  lat: '40.7154'
+  long: "-74.3647"
+  nearby_rate_centers:
+  - name: SUMMIT
+    distance_km: 0.19
+  - name: CHATHAM
+    distance_km: 3.1
+  - name: MILLBURN
+    distance_km: 5.24
+- country: US
+  region: NJ
+  name: Sunset Lake
+  lat: '39.4520'
+  long: "-75.2337"
+  nearby_rate_centers:
+  - name: BRIDGETON
+    distance_km: 2.67
+  - name: CEDARVILLE
+    distance_km: 13.45
+  - name: ELMER
+    distance_km: 16.74
+- country: US
+  region: NJ
+  name: Surf City
+  lat: '39.6646'
+  long: "-74.1711"
+  nearby_rate_centers:
+  - name: BARNEGAT
+    distance_km: 10.66
+  - name: BEACHHAVEN
+    distance_km: 12.35
+  - name: TUCKERTON
+    distance_km: 16.11
+- country: US
+  region: NJ
+  name: Sussex
+  lat: '41.2096'
+  long: "-74.6079"
+  nearby_rate_centers:
+  - name: SUSSEX
+    distance_km: 0.21
+  - name: FRANKLINBO
+    distance_km: 10.1
+  - name: VERNON
+    distance_km: 10.81
+- country: US
+  region: NJ
+  name: Swedesboro
+  lat: '39.7459'
+  long: "-75.3117"
+  nearby_rate_centers:
+  - name: SWEDESBORO
+    distance_km: 0.36
+  - name: MULLICA HL
+    distance_km: 7.41
+  - name: WOODSTOWN
+    distance_km: 10.3
+- country: US
+  region: NJ
+  name: Sweetwater
+  lat: '39.6170'
+  long: "-74.6415"
+  nearby_rate_centers:
+  - name: EGG HARBOR
+    distance_km: 9.34
+  - name: HAMMONTON
+    distance_km: 13.95
+  - name: MAYS LDG
+    distance_km: 19.72
+- country: US
+  region: NJ
+  name: Tavistock
+  lat: '39.8758'
+  long: "-75.0273"
+  nearby_rate_centers:
+  - name: HADDONFLD
+    distance_km: 2.63
+  - name: HADDON HTS
+    distance_km: 3.0
+  - name: BEAVER BRK
+    distance_km: 4.92
+- country: US
+  region: NJ
+  name: Ten Mile Run
+  lat: '40.4218'
+  long: "-74.5890"
+  nearby_rate_centers:
+  - name: MONMTH JCT
+    distance_km: 6.1
+  - name: FRANKLINPK
+    distance_km: 6.4
+  - name: BELLE MEAD
+    distance_km: 7.79
+- country: US
+  region: NJ
+  name: Tenafly
+  lat: '40.9176'
+  long: "-73.9532"
+  nearby_rate_centers:
+  - name: ENGLEWOOD
+    distance_km: 3.07
+  - name: DUMONT
+    distance_km: 4.77
+  - name: CLOSTER
+    distance_km: 5.87
+- country: US
+  region: NJ
+  name: Teterboro
+  lat: '40.8580'
+  long: "-74.0594"
+  nearby_rate_centers:
+  - name: HASBROKHTS
+    distance_km: 1.75
+  - name: HACKENSACK
+    distance_km: 3.59
+  - name: TEANECK
+    distance_km: 4.64
+- country: US
+  region: NJ
+  name: The College of New Jersey
+  lat: '40.2689'
+  long: "-74.7764"
+  nearby_rate_centers:
+  - name: EWING
+    distance_km: 0.74
+  - name: LAWRENCEVL
+    distance_km: 5.07
+  - name: TRENTON
+    distance_km: 5.52
+- country: US
+  region: NJ
+  name: The Hills
+  lat: '40.6561'
+  long: "-74.6215"
+  nearby_rate_centers:
+  - name: PEAPACK
+    distance_km: 7.64
+  - name: BERNARDSVL
+    distance_km: 8.15
+  - name: MILLINGTON
+    distance_km: 8.56
+- country: US
+  region: NJ
+  name: Thorofare
+  lat: '39.8515'
+  long: "-75.1988"
+  nearby_rate_centers:
+  - name: WOODBURY
+    distance_km: 4.01
+  - name: PAULSBORO
+    distance_km: 4.39
+  - name: WENONAH
+    distance_km: 7.52
+- country: US
+  region: NJ
+  name: Three Bridges
+  lat: '40.5205'
+  long: "-74.8002"
+  nearby_rate_centers:
+  - name: FLEMINGTON
+    distance_km: 4.98
+  - name: NESHANIC
+    distance_km: 5.94
+  - name: WHITEHOUSE
+    distance_km: 10.73
+- country: US
+  region: NJ
+  name: Tinton Falls
+  lat: '40.2708'
+  long: "-74.0949"
+  nearby_rate_centers:
+  - name: EATONTOWN
+    distance_km: 4.88
+  - name: DEAL
+    distance_km: 8.71
+  - name: RED BANK
+    distance_km: 8.96
+- country: US
+  region: NJ
+  name: Titusville
+  lat: '40.3087'
+  long: "-74.8767"
+  nearby_rate_centers:
+  - name: PENNINGTON
+    distance_km: 7.54
+  - name: LAMBERTVL
+    distance_km: 8.6
+  - name: EWING
+    distance_km: 9.39
+- country: US
+  region: NJ
+  name: Totowa
+  lat: '40.9039'
+  long: "-74.2214"
+  nearby_rate_centers:
+  - name: LITTLE FLS
+    distance_km: 2.79
+  - name: MT VIEW
+    distance_km: 4.28
+  - name: PATERSON
+    distance_km: 4.73
+- country: US
+  region: NJ
+  name: Towaco
+  lat: '40.9263'
+  long: "-74.3451"
+  nearby_rate_centers:
+  - name: BOONTON
+    distance_km: 5.73
+  - name: MT VIEW
+    distance_km: 6.41
+  - name: BUTLER
+    distance_km: 7.96
+- country: US
+  region: NJ
+  name: Trenton
+  lat: '40.2237'
+  long: "-74.7641"
+  nearby_rate_centers:
+  - name: TRENTON
+    distance_km: 0.66
+  - name: EWING
+    distance_km: 4.77
+  - name: MERCERVL
+    distance_km: 6.35
+- country: US
+  region: NJ
+  name: Troy Hills
+  lat: '40.8483'
+  long: "-74.3993"
+  nearby_rate_centers:
+  - name: WHIPPANY
+    distance_km: 2.99
+  - name: BOONTON
+    distance_km: 6.41
+  - name: MORRISTOWN
+    distance_km: 8.71
+- country: US
+  region: NJ
+  name: Tuckahoe
+  lat: '39.2892'
+  long: "-74.7497"
+  nearby_rate_centers:
+  - name: TUCKAHOE
+    distance_km: 0.6
+  - name: DENNISVL
+    distance_km: 12.2
+  - name: SOMERS PT
+    distance_km: 13.69
+- country: US
+  region: NJ
+  name: Tuckerton
+  lat: '39.5973'
+  long: "-74.3306"
+  nearby_rate_centers:
+  - name: TUCKERTON
+    distance_km: 0.96
+  - name: BEACHHAVEN
+    distance_km: 8.43
+  - name: BARNEGAT
+    distance_km: 19.37
+- country: US
+  region: NJ
+  name: Turnersville
+  lat: '39.7666'
+  long: "-75.0613"
+  nearby_rate_centers:
+  - name: BLACKWOOD
+    distance_km: 3.79
+  - name: PITMAN
+    distance_km: 7.04
+  - name: LAUREL SPG
+    distance_km: 7.92
+- country: US
+  region: NJ
+  name: Twin Rivers
+  lat: '40.2631'
+  long: "-74.4917"
+  nearby_rate_centers:
+  - name: HIGHTSTOWN
+    distance_km: 2.91
+  - name: CRANBURY
+    distance_km: 6.07
+  - name: JAMESBURG
+    distance_km: 10.57
+- country: US
+  region: NJ
+  name: Union
+  lat: '40.6966'
+  long: "-74.2693"
+  nearby_rate_centers:
+  - name: UNIONVILLE
+    distance_km: 0.11
+  - name: ROSELLE
+    distance_km: 3.98
+  - name: MILLBURN
+    distance_km: 4.0
+- country: US
+  region: NJ
+  name: Union Beach
+  lat: '40.4454'
+  long: "-74.1699"
+  nearby_rate_centers:
+  - name: KEYPORT
+    distance_km: 2.83
+  - name: KEANSBURG
+    distance_km: 3.04
+  - name: MATAWAN
+    distance_km: 6.26
+- country: US
+  region: NJ
+  name: Union City
+  lat: '40.7675'
+  long: "-74.0323"
+  nearby_rate_centers:
+  - name: UNION CITY
+    distance_km: 0.6
+  - name: JERSEYCITY
+    distance_km: 5.88
+  - name: CLIFFSIDE
+    distance_km: 7.24
+- country: US
+  region: NJ
+  name: Upper Greenwood Lake
+  lat: '41.1856'
+  long: "-74.3787"
+  nearby_rate_centers:
+  - name: UPGRENWDLK
+    distance_km: 0.75
+  - name: W MILFORD
+    distance_km: 6.52
+  - name: VERNON
+    distance_km: 8.7
+- country: US
+  region: NJ
+  name: Upper Montclair
+  lat: '40.8433'
+  long: "-74.2006"
+  nearby_rate_centers:
+  - name: NUTLEY
+    distance_km: 4.28
+  - name: VERONA
+    distance_km: 4.36
+  - name: LITTLE FLS
+    distance_km: 4.7
+- country: US
+  region: NJ
+  name: Upper Pohatcong
+  lat: '40.6774'
+  long: "-75.1558"
+  nearby_rate_centers:
+  - name: PHILLIPSBG
+    distance_km: 3.74
+  - name: BLOOMSBURY
+    distance_km: 6.58
+  - name: MILFORD
+    distance_km: 13.35
+- country: US
+  region: NJ
+  name: Upper Saddle River
+  lat: '41.0634'
+  long: "-74.0985"
+  nearby_rate_centers:
+  - name: RAMSEY
+    distance_km: 4.05
+  - name: CRAGMERE
+    distance_km: 5.08
+  - name: PARK RIDGE
+    distance_km: 6.63
+- country: US
+  region: NJ
+  name: Upper Stewartsville
+  lat: '40.7048'
+  long: "-75.1205"
+  nearby_rate_centers:
+  - name: PHILLIPSBG
+    distance_km: 5.84
+  - name: BLOOMSBURY
+    distance_km: 6.51
+  - name: WASHINGTON
+    distance_km: 13.24
+- country: US
+  region: NJ
+  name: Vauxhall
+  lat: '40.7174'
+  long: "-74.2838"
+  nearby_rate_centers:
+  - name: MILLBURN
+    distance_km: 1.7
+  - name: UNIONVILLE
+    distance_km: 2.68
+  - name: SO ORANGE
+    distance_km: 4.0
+- country: US
+  region: NJ
+  name: Ventnor City
+  lat: '39.3457'
+  long: "-74.4860"
+  nearby_rate_centers:
+  - name: ATLNTIC CY
+    distance_km: 4.77
+  - name: PLEASANTVL
+    distance_km: 5.74
+  - name: SOMERS PT
+    distance_km: 9.91
+- country: US
+  region: NJ
+  name: Vernon Center
+  lat: '41.1874'
+  long: "-74.5015"
+  nearby_rate_centers:
+  - name: VERNON
+    distance_km: 2.89
+  - name: SUSSEX
+    distance_km: 9.03
+  - name: UPGRENWDLK
+    distance_km: 10.41
+- country: US
+  region: NJ
+  name: Vernon Valley
+  lat: '41.2396'
+  long: "-74.4833"
+  nearby_rate_centers:
+  - name: VERNON
+    distance_km: 3.66
+  - name: SUSSEX
+    distance_km: 10.76
+  - name: UPGRENWDLK
+    distance_km: 11.12
+- country: US
+  region: NJ
+  name: Victory Gardens
+  lat: '40.8762'
+  long: "-74.5435"
+  nearby_rate_centers:
+  - name: DOVER
+    distance_km: 1.48
+  - name: ROCKAWAY
+    distance_km: 3.88
+  - name: MT FREEDOM
+    distance_km: 7.14
+- country: US
+  region: NJ
+  name: Victory Lakes
+  lat: '39.6305'
+  long: "-74.9663"
+  nearby_rate_centers:
+  - name: WILLIAMSTN
+    distance_km: 6.47
+  - name: FRANKLINVL
+    distance_km: 9.82
+  - name: HAMMONTON
+    distance_km: 14.04
+- country: US
+  region: NJ
+  name: Vienna
+  lat: '40.8698'
+  long: "-74.8810"
+  nearby_rate_centers:
+  - name: GREAT MDW
+    distance_km: 3.31
+  - name: HACKETTSTN
+    distance_km: 4.7
+  - name: HOPE
+    distance_km: 8.63
+- country: US
+  region: NJ
+  name: Villas
+  lat: '39.0157'
+  long: "-74.9350"
+  nearby_rate_centers:
+  - name: WILDWOOD
+    distance_km: 11.16
+  - name: CAPMAYCTHS
+    distance_km: 12.22
+  - name: AVALON
+    distance_km: 21.14
+- country: US
+  region: NJ
+  name: Vincentown
+  lat: '39.9367'
+  long: "-74.7519"
+  nearby_rate_centers:
+  - name: VINCENTOWN
+    distance_km: 0.15
+  - name: PEMBERTON
+    distance_km: 6.87
+  - name: MOUNTHOLLY
+    distance_km: 7.11
+- country: US
+  region: NJ
+  name: Vineland
+  lat: '39.4653'
+  long: "-74.9981"
+  nearby_rate_centers:
+  - name: VINELAND
+    distance_km: 2.95
+  - name: MILLVILLE
+    distance_km: 8.47
+  - name: MILMAY
+    distance_km: 12.45
+- country: US
+  region: NJ
+  name: Vista Center
+  lat: '40.1585'
+  long: "-74.3227"
+  nearby_rate_centers:
+  - name: LAKEWOOD
+    distance_km: 11.99
+  - name: FREEHOLD
+    distance_km: 12.14
+  - name: FARMINGDL
+    distance_km: 14.06
+- country: US
+  region: NJ
+  name: Waldwick
+  lat: '41.0133'
+  long: "-74.1259"
+  nearby_rate_centers:
+  - name: RIDGEWOOD
+    distance_km: 3.86
+  - name: WYCKOFF
+    distance_km: 3.88
+  - name: RAMSEY
+    distance_km: 4.85
+- country: US
+  region: NJ
+  name: Wallington
+  lat: '40.8536'
+  long: "-74.1069"
+  nearby_rate_centers:
+  - name: PASSAIC
+    distance_km: 1.85
+  - name: HASBROKHTS
+    distance_km: 2.57
+  - name: RUTHERFORD
+    distance_km: 2.88
+- country: US
+  region: NJ
+  name: Wanamassa
+  lat: '40.2366'
+  long: "-74.0294"
+  nearby_rate_centers:
+  - name: DEAL
+    distance_km: 2.16
+  - name: ASBURYPARK
+    distance_km: 2.57
+  - name: BELMAR
+    distance_km: 6.68
+- country: US
+  region: NJ
+  name: Wanaque
+  lat: '41.0440'
+  long: "-74.2900"
+  nearby_rate_centers:
+  - name: POMPTONLKS
+    distance_km: 4.53
+  - name: OAKLAND
+    distance_km: 4.96
+  - name: BUTLER
+    distance_km: 6.56
+- country: US
+  region: NJ
+  name: Waretown
+  lat: '39.7896'
+  long: "-74.1926"
+  nearby_rate_centers:
+  - name: BARNEGAT
+    distance_km: 5.07
+  - name: SEASIDE PK
+    distance_km: 17.28
+  - name: TOMS RIVER
+    distance_km: 18.12
+- country: US
+  region: NJ
+  name: Washington
+  lat: '40.7587'
+  long: "-74.9825"
+  nearby_rate_centers:
+  - name: WASHINGTON
+    distance_km: 0.16
+  - name: OXFORD
+    distance_km: 5.12
+  - name: HAMPTON
+    distance_km: 6.15
+- country: US
+  region: NJ
+  name: Washington Crossing
+  lat: '40.2960'
+  long: "-74.8615"
+  nearby_rate_centers:
+  - name: PENNINGTON
+    distance_km: 6.85
+  - name: EWING
+    distance_km: 7.57
+  - name: LAMBERTVL
+    distance_km: 10.51
+- country: US
+  region: NJ
+  name: Watchung
+  lat: '40.6431'
+  long: "-74.4391"
+  nearby_rate_centers:
+  - name: PLAINFIELD
+    distance_km: 3.19
+  - name: FANWOOD
+    distance_km: 4.76
+  - name: DUNELLEN
+    distance_km: 6.22
+- country: US
+  region: NJ
+  name: Watsessing
+  lat: '40.7866'
+  long: "-74.2007"
+  nearby_rate_centers:
+  - name: BLOOMFIELD
+    distance_km: 1.28
+  - name: ORANGE
+    distance_km: 2.99
+  - name: BELLEVILLE
+    distance_km: 4.13
+- country: US
+  region: NJ
+  name: Wenonah
+  lat: '39.7913'
+  long: "-75.1486"
+  nearby_rate_centers:
+  - name: WENONAH
+    distance_km: 0.51
+  - name: WOODBURY
+    distance_km: 5.31
+  - name: PITMAN
+    distance_km: 6.18
+- country: US
+  region: NJ
+  name: West Belmar
+  lat: '40.1707'
+  long: "-74.0376"
+  nearby_rate_centers:
+  - name: BELMAR
+    distance_km: 1.38
+  - name: SPRINGLAKE
+    distance_km: 2.02
+  - name: MANASQUAN
+    distance_km: 5.47
+- country: US
+  region: NJ
+  name: West Berlin
+  lat: '39.8104'
+  long: "-74.9407"
+  nearby_rate_centers:
+  - name: BERLIN
+    distance_km: 2.01
+  - name: LAUREL SPG
+    distance_km: 5.36
+  - name: MARLTON
+    distance_km: 8.93
+- country: US
+  region: NJ
+  name: West Cape May
+  lat: '38.9423'
+  long: "-74.9378"
+  nearby_rate_centers:
+  - name: WILDWOOD
+    distance_km: 11.94
+  - name: CAPMAYCTHS
+    distance_km: 18.5
+  - name: AVALON
+    distance_km: 26.05
+- country: US
+  region: NJ
+  name: West Freehold
+  lat: '40.2324'
+  long: "-74.2943"
+  nearby_rate_centers:
+  - name: FREEHOLD
+    distance_km: 3.68
+  - name: ENGLISHTN
+    distance_km: 9.27
+  - name: FARMINGDL
+    distance_km: 11.88
+- country: US
+  region: NJ
+  name: West Long Branch
+  lat: '40.2883'
+  long: "-74.0185"
+  nearby_rate_centers:
+  - name: LONGBRANCH
+    distance_km: 3.18
+  - name: EATONTOWN
+    distance_km: 4.08
+  - name: DEAL
+    distance_km: 6.15
+- country: US
+  region: NJ
+  name: West New York
+  lat: '40.7857'
+  long: "-74.0094"
+  nearby_rate_centers:
+  - name: UNION CITY
+    distance_km: 2.2
+  - name: CLIFFSIDE
+    distance_km: 4.58
+  - name: JERSEYCITY
+    distance_km: 8.25
+- country: US
+  region: NJ
+  name: West Park
+  lat: '39.4400'
+  long: "-75.2624"
+  nearby_rate_centers:
+  - name: BRIDGETON
+    distance_km: 3.23
+  - name: CEDARVILLE
+    distance_km: 12.96
+  - name: ELMER
+    distance_km: 18.87
+- country: US
+  region: NJ
+  name: West Wildwood
+  lat: '39.0006'
+  long: "-74.8233"
+  nearby_rate_centers:
+  - name: WILDWOOD
+    distance_km: 1.91
+  - name: CAPMAYCTHS
+    distance_km: 9.11
+  - name: AVALON
+    distance_km: 14.53
+- country: US
+  region: NJ
+  name: Westfield
+  lat: '40.6516'
+  long: "-74.3432"
+  nearby_rate_centers:
+  - name: WESTFIELD
+    distance_km: 0.35
+  - name: CRANFORD
+    distance_km: 3.02
+  - name: FANWOOD
+    distance_km: 3.52
+- country: US
+  region: NJ
+  name: Westmont
+  lat: '39.9082'
+  long: "-75.0551"
+  nearby_rate_centers:
+  - name: COLLINGSWD
+    distance_km: 1.8
+  - name: HADDONFLD
+    distance_km: 2.32
+  - name: HADDON HTS
+    distance_km: 2.89
+- country: US
+  region: NJ
+  name: Weston
+  lat: '40.5224'
+  long: "-74.5765"
+  nearby_rate_centers:
+  - name: EMILLSTONE
+    distance_km: 2.25
+  - name: BOUNDBROOK
+    distance_km: 5.68
+  - name: SOMERVILLE
+    distance_km: 5.88
+- country: US
+  region: NJ
+  name: Westville
+  lat: '39.8704'
+  long: "-75.1302"
+  nearby_rate_centers:
+  - name: GLOUCESTER
+    distance_km: 2.6
+  - name: BEAVER BRK
+    distance_km: 3.99
+  - name: WOODBURY
+    distance_km: 4.1
+- country: US
+  region: NJ
+  name: Westwood
+  lat: '40.9878'
+  long: "-74.0308"
+  nearby_rate_centers:
+  - name: WESTWOOD
+    distance_km: 0.49
+  - name: ORADELL
+    distance_km: 3.95
+  - name: PARK RIDGE
+    distance_km: 4.77
+- country: US
+  region: NJ
+  name: Wharton
+  lat: '40.8998'
+  long: "-74.5808"
+  nearby_rate_centers:
+  - name: DOVER
+    distance_km: 2.66
+  - name: HOPATCONG
+    distance_km: 5.51
+  - name: SUCCASUNNA
+    distance_km: 5.75
+- country: US
+  region: NJ
+  name: Whippany
+  lat: '40.8233'
+  long: "-74.4184"
+  nearby_rate_centers:
+  - name: WHIPPANY
+    distance_km: 0.41
+  - name: MORRISTOWN
+    distance_km: 5.78
+  - name: MADISON
+    distance_km: 6.86
+- country: US
+  region: NJ
+  name: White Horse
+  lat: '40.1919'
+  long: "-74.7023"
+  nearby_rate_centers:
+  - name: MERCERVL
+    distance_km: 4.96
+  - name: BORDENTOWN
+    distance_km: 5.24
+  - name: TRENTON
+    distance_km: 5.69
+- country: US
+  region: NJ
+  name: White House Station
+  lat: '40.6216'
+  long: "-74.7737"
+  nearby_rate_centers:
+  - name: WHITEHOUSE
+    distance_km: 0.86
+  - name: OLDWICK
+    distance_km: 5.89
+  - name: LEBANON
+    distance_km: 6.09
+- country: US
+  region: NJ
+  name: White Meadow Lake
+  lat: '40.9241'
+  long: "-74.5107"
+  nearby_rate_centers:
+  - name: ROCKAWAY
+    distance_km: 2.6
+  - name: DOVER
+    distance_km: 6.18
+  - name: BOONTON
+    distance_km: 8.9
+- country: US
+  region: NJ
+  name: Whitesboro
+  lat: '39.0419'
+  long: "-74.8677"
+  nearby_rate_centers:
+  - name: CAPMAYCTHS
+    distance_km: 5.96
+  - name: WILDWOOD
+    distance_km: 7.88
+  - name: AVALON
+    distance_km: 14.63
+- country: US
+  region: NJ
+  name: Whittingham
+  lat: '40.3268'
+  long: "-74.4458"
+  nearby_rate_centers:
+  - name: JAMESBURG
+    distance_km: 2.55
+  - name: CRANBURY
+    distance_km: 6.23
+  - name: ENGLISHTN
+    distance_km: 7.91
+- country: US
+  region: NJ
+  name: Wildwood
+  lat: '38.9881'
+  long: "-74.8195"
+  nearby_rate_centers:
+  - name: WILDWOOD
+    distance_km: 0.72
+  - name: CAPMAYCTHS
+    distance_km: 10.5
+  - name: AVALON
+    distance_km: 15.44
+- country: US
+  region: NJ
+  name: Wildwood Crest
+  lat: '38.9718'
+  long: "-74.8377"
+  nearby_rate_centers:
+  - name: WILDWOOD
+    distance_km: 2.75
+  - name: CAPMAYCTHS
+    distance_km: 12.38
+  - name: AVALON
+    distance_km: 17.82
+- country: US
+  region: NJ
+  name: William Paterson University of New Jersey
+  lat: '40.9478'
+  long: "-74.1989"
+  nearby_rate_centers:
+  - name: HAWTHORNE
+    distance_km: 3.67
+  - name: PATERSON
+    distance_km: 4.8
+  - name: MT VIEW
+    distance_km: 7.09
+- country: US
+  region: NJ
+  name: Williamstown
+  lat: '39.6874'
+  long: "-74.9786"
+  nearby_rate_centers:
+  - name: WILLIAMSTN
+    distance_km: 1.11
+  - name: FRANKLINVL
+    distance_km: 11.71
+  - name: GLASSBORO
+    distance_km: 11.74
+- country: US
+  region: NJ
+  name: Windsor
+  lat: '40.2465'
+  long: "-74.5814"
+  nearby_rate_centers:
+  - name: HIGHTSTOWN
+    distance_km: 5.29
+  - name: ALLENTOWN
+    distance_km: 7.83
+  - name: CRANBURY
+    distance_km: 9.26
+- country: US
+  region: NJ
+  name: Wood-Ridge
+  lat: '40.8508'
+  long: "-74.0878"
+  nearby_rate_centers:
+  - name: HASBROKHTS
+    distance_km: 1.56
+  - name: RUTHERFORD
+    distance_km: 3.03
+  - name: PASSAIC
+    distance_km: 3.45
+- country: US
+  region: NJ
+  name: Woodbine
+  lat: '39.2283'
+  long: "-74.8096"
+  nearby_rate_centers:
+  - name: DENNISVL
+    distance_km: 3.94
+  - name: TUCKAHOE
+    distance_km: 8.58
+  - name: SEAIS CITY
+    distance_km: 13.29
+- country: US
+  region: NJ
+  name: Woodbury
+  lat: '39.8379'
+  long: "-75.1524"
+  nearby_rate_centers:
+  - name: WOODBURY
+    distance_km: 0.23
+  - name: WENONAH
+    distance_km: 4.97
+  - name: GLOUCESTER
+    distance_km: 6.67
+- country: US
+  region: NJ
+  name: Woodbury Heights
+  lat: '39.8160'
+  long: "-75.1511"
+  nearby_rate_centers:
+  - name: WENONAH
+    distance_km: 2.55
+  - name: WOODBURY
+    distance_km: 2.56
+  - name: BLACKWOOD
+    distance_km: 7.48
+- country: US
+  region: NJ
+  name: Woodcliff Lake
+  lat: '41.0253'
+  long: "-74.0604"
+  nearby_rate_centers:
+  - name: PARK RIDGE
+    distance_km: 2.43
+  - name: WESTWOOD
+    distance_km: 4.37
+  - name: RIDGEWOOD
+    distance_km: 6.77
+- country: US
+  region: NJ
+  name: Woodlynne
+  lat: '39.9167'
+  long: "-75.0957"
+  nearby_rate_centers:
+  - name: COLLINGSWD
+    distance_km: 1.97
+  - name: GLOUCESTER
+    distance_km: 3.37
+  - name: CAMDEN
+    distance_km: 3.72
+- country: US
+  region: NJ
+  name: Woodstown
+  lat: '39.6503'
+  long: "-75.3251"
+  nearby_rate_centers:
+  - name: WOODSTOWN
+    distance_km: 0.62
+  - name: SWEDESBORO
+    distance_km: 10.85
+  - name: MULLICA HL
+    distance_km: 12.39
+- country: US
+  region: NJ
+  name: Wrightstown
+  lat: '40.0258'
+  long: "-74.6318"
+  nearby_rate_centers:
+  - name: FORT DIX
+    distance_km: 1.65
+  - name: PEMBERTON
+    distance_km: 7.53
+  - name: NEW EGYPT
+    distance_km: 9.58
+- country: US
+  region: NJ
+  name: Yardville
+  lat: '40.1849'
+  long: "-74.6604"
+  nearby_rate_centers:
+  - name: BORDENTOWN
+    distance_km: 6.2
+  - name: MERCERVL
+    distance_km: 6.21
+  - name: ALLENTOWN
+    distance_km: 6.49
+- country: US
+  region: NJ
+  name: Yorketown
+  lat: '40.3064'
+  long: "-74.3385"
+  nearby_rate_centers:
+  - name: ENGLISHTN
+    distance_km: 1.98
+  - name: FREEHOLD
+    distance_km: 7.7
+  - name: JAMESBURG
+    distance_km: 9.69
+- country: US
+  region: NJ
+  name: Zarephath
+  lat: '40.5362'
+  long: "-74.5744"
+  nearby_rate_centers:
+  - name: EMILLSTONE
+    distance_km: 3.8
+  - name: BOUNDBROOK
+    distance_km: 4.52
+  - name: SOMERVILLE
+    distance_km: 4.79

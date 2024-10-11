@@ -1,0 +1,9002 @@
+---
+cities:
+- country: US
+  region: MI
+  name: Addison
+  lat: '41.9862'
+  long: "-84.3491"
+  nearby_rate_centers:
+  - name: ADDISON
+    distance_km: 0.38
+  - name: BUNDY HILL
+    distance_km: 12.06
+  - name: ONSTED
+    distance_km: 13.3
+- country: US
+  region: MI
+  name: Adrian
+  lat: '41.8994'
+  long: "-84.0447"
+  nearby_rate_centers:
+  - name: ADRIAN
+    distance_km: 1.11
+  - name: SAND CREEK
+    distance_km: 9.35
+  - name: TIPTON
+    distance_km: 12.94
+- country: US
+  region: MI
+  name: Advance
+  lat: '45.2161'
+  long: "-85.0807"
+  nearby_rate_centers:
+  - name: BOYNE CITY
+    distance_km: 5.0
+  - name: EASTJORDAN
+    distance_km: 8.46
+  - name: WALLOON LK
+    distance_km: 12.72
+- country: US
+  region: MI
+  name: Ahmeek
+  lat: '47.2985'
+  long: "-88.3971"
+  nearby_rate_centers:
+  - name: CALUMET
+    distance_km: 7.66
+  - name: LAKELINDEN
+    distance_km: 12.12
+  - name: HOUGHTON
+    distance_km: 23.49
+- country: US
+  region: MI
+  name: Akron
+  lat: '43.5667'
+  long: "-83.5143"
+  nearby_rate_centers:
+  - name: AKRON
+    distance_km: 0.33
+  - name: FAIRGROVE
+    distance_km: 6.04
+  - name: UNIONVILLE
+    distance_km: 10.04
+- country: US
+  region: MI
+  name: Alanson
+  lat: '45.4425'
+  long: "-84.7871"
+  nearby_rate_centers:
+  - name: ALANSON
+    distance_km: 0.24
+  - name: BRUTUS
+    distance_km: 5.53
+  - name: PELLSTON
+    distance_km: 11.94
+- country: US
+  region: MI
+  name: Alba
+  lat: '44.9786'
+  long: "-84.9695"
+  nearby_rate_centers:
+  - name: ALBA
+    distance_km: 0.86
+  - name: LAKE NORTH
+    distance_km: 11.53
+  - name: MANCELONA
+    distance_km: 11.78
+- country: US
+  region: MI
+  name: Albion
+  lat: '42.2478'
+  long: "-84.7572"
+  nearby_rate_centers:
+  - name: ALBION
+    distance_km: 0.75
+  - name: HOMER
+    distance_km: 12.31
+  - name: CONCORD
+    distance_km: 12.61
+- country: US
+  region: MI
+  name: Alden
+  lat: '44.8792'
+  long: "-85.2729"
+  nearby_rate_centers:
+  - name: ALDEN
+    distance_km: 0.52
+  - name: TRCHRIVBDG
+    distance_km: 5.26
+  - name: CLAM RIVER
+    distance_km: 8.0
+- country: US
+  region: MI
+  name: Algonac
+  lat: '42.6207'
+  long: "-82.5339"
+  nearby_rate_centers:
+  - name: ALGONAC
+    distance_km: 0.52
+  - name: MARINECITY
+    distance_km: 10.87
+  - name: NEWBALTIMR
+    distance_km: 17.58
+- country: US
+  region: MI
+  name: Allegan
+  lat: '42.5299'
+  long: "-85.8462"
+  nearby_rate_centers:
+  - name: ALLEGAN
+    distance_km: 0.81
+  - name: HOPKINS
+    distance_km: 12.25
+  - name: OTSEGO
+    distance_km: 15.06
+- country: US
+  region: MI
+  name: Allen
+  lat: '41.9581'
+  long: "-84.7680"
+  nearby_rate_centers:
+  - name: ALLEN
+    distance_km: 0.35
+  - name: JONESVILLE
+    distance_km: 9.35
+  - name: LITCHFIELD
+    distance_km: 9.41
+- country: US
+  region: MI
+  name: Allen Park
+  lat: '42.2595'
+  long: "-83.2107"
+  nearby_rate_centers:
+  - name: WYANDOTTE
+    distance_km: 7.84
+  - name: TRENTON
+    distance_km: 13.14
+  - name: WAYNE
+    distance_km: 14.39
+- country: US
+  region: MI
+  name: Allendale
+  lat: '42.9845'
+  long: "-85.9499"
+  nearby_rate_centers:
+  - name: ALLENDALE
+    distance_km: 1.77
+  - name: COOPERSVL
+    distance_km: 8.15
+  - name: MARNE
+    distance_km: 10.66
+- country: US
+  region: MI
+  name: Alma
+  lat: '43.3799'
+  long: "-84.6556"
+  nearby_rate_centers:
+  - name: ALMA
+    distance_km: 1.21
+  - name: ST LOUIS
+    distance_km: 4.78
+  - name: ITHACA
+    distance_km: 10.66
+- country: US
+  region: MI
+  name: Almont
+  lat: '42.9206'
+  long: "-83.0434"
+  nearby_rate_centers:
+  - name: ALMONT
+    distance_km: 0.62
+  - name: DRYDEN
+    distance_km: 7.28
+  - name: IMLAY CITY
+    distance_km: 12.02
+- country: US
+  region: MI
+  name: Alpena
+  lat: '45.0740'
+  long: "-83.4402"
+  nearby_rate_centers:
+  - name: ALPENA
+    distance_km: 1.57
+  - name: LONG LAKE
+    distance_km: 14.06
+  - name: OSSINEKE
+    distance_km: 16.55
+- country: US
+  region: MI
+  name: Alpha
+  lat: '46.0441'
+  long: "-88.3776"
+  nearby_rate_centers:
+  - name: CRYSTALFLS
+    distance_km: 6.14
+  - name: IRON RIVER
+    distance_km: 20.13
+  - name: AMASA
+    distance_km: 21.1
+- country: US
+  region: MI
+  name: Amasa
+  lat: '46.2295'
+  long: "-88.4579"
+  nearby_rate_centers:
+  - name: AMASA
+    distance_km: 0.68
+  - name: CRYSTALFLS
+    distance_km: 17.96
+  - name: IRON RIVER
+    distance_km: 20.93
+- country: US
+  region: MI
+  name: Ann Arbor
+  lat: '42.2759'
+  long: "-83.7310"
+  nearby_rate_centers:
+  - name: ANN ARBOR
+    distance_km: 0.99
+  - name: YPSILANTI
+    distance_km: 10.34
+  - name: SALINE
+    distance_km: 12.75
+- country: US
+  region: MI
+  name: Applegate
+  lat: '43.3554'
+  long: "-82.6371"
+  nearby_rate_centers:
+  - name: APPLEGATE
+    distance_km: 0.73
+  - name: CROSWELL
+    distance_km: 7.99
+  - name: CARSONVL
+    distance_km: 8.3
+- country: US
+  region: MI
+  name: Arcadia
+  lat: '44.4927'
+  long: "-86.2362"
+  nearby_rate_centers:
+  - name: BEAR LAKE
+    distance_km: 10.98
+  - name: ONEKAMA
+    distance_km: 14.22
+  - name: FRANKFORT
+    distance_km: 15.54
+- country: US
+  region: MI
+  name: Argentine
+  lat: '42.7905'
+  long: "-83.8356"
+  nearby_rate_centers:
+  - name: LINDEN
+    distance_km: 5.78
+  - name: BYRON
+    distance_km: 9.2
+  - name: GAINES
+    distance_km: 10.81
+- country: US
+  region: MI
+  name: Armada
+  lat: '42.8424'
+  long: "-82.8832"
+  nearby_rate_centers:
+  - name: ARMADA
+    distance_km: 0.16
+  - name: RICHMOND
+    distance_km: 10.85
+  - name: MEMPHIS
+    distance_km: 11.54
+- country: US
+  region: MI
+  name: Ashley
+  lat: '43.1873'
+  long: "-84.4762"
+  nearby_rate_centers:
+  - name: ASHLEY
+    distance_km: 0.26
+  - name: POMPEII
+    distance_km: 10.02
+  - name: ELSIE
+    distance_km: 13.9
+- country: US
+  region: MI
+  name: Athens
+  lat: '42.0866'
+  long: "-85.2356"
+  nearby_rate_centers:
+  - name: ATHENS
+    distance_km: 0.68
+  - name: UNION CITY
+    distance_km: 8.92
+  - name: FULTON
+    distance_km: 9.85
+- country: US
+  region: MI
+  name: Atlanta
+  lat: '45.0012'
+  long: "-84.1513"
+  nearby_rate_centers:
+  - name: ATLANTA
+    distance_km: 0.24
+  - name: LEWISTON
+    distance_km: 17.37
+  - name: HILLMAN
+    distance_km: 21.01
+- country: US
+  region: MI
+  name: Atlantic Mine
+  lat: '47.1037'
+  long: "-88.6281"
+  nearby_rate_centers:
+  - name: HOUGHTON
+    distance_km: 5.56
+  - name: LAKELINDEN
+    distance_km: 19.05
+  - name: CALUMET
+    distance_km: 20.16
+- country: US
+  region: MI
+  name: Attica
+  lat: '43.0313'
+  long: "-83.1607"
+  nearby_rate_centers:
+  - name: IMLAY CITY
+    distance_km: 6.99
+  - name: DRYDEN
+    distance_km: 9.49
+  - name: LAPEER
+    distance_km: 12.41
+- country: US
+  region: MI
+  name: Au Gres
+  lat: '44.0432'
+  long: "-83.6934"
+  nearby_rate_centers:
+  - name: AU GRES
+    distance_km: 0.57
+  - name: TWINING
+    distance_km: 12.0
+  - name: OMER
+    distance_km: 12.62
+- country: US
+  region: MI
+  name: Au Sable
+  lat: '44.4105'
+  long: "-83.3423"
+  nearby_rate_centers:
+  - name: OSCODA
+    distance_km: 1.66
+  - name: EAST TAWAS
+    distance_km: 18.39
+  - name: HARRISVL
+    distance_km: 27.76
+- country: US
+  region: MI
+  name: Auburn
+  lat: '43.6021'
+  long: "-84.0756"
+  nearby_rate_centers:
+  - name: AUBURN
+    distance_km: 0.67
+  - name: FREELAND
+    distance_km: 9.39
+  - name: MIDLAND
+    distance_km: 13.76
+- country: US
+  region: MI
+  name: Auburn Hills
+  lat: '42.6735'
+  long: "-83.2448"
+  nearby_rate_centers:
+  - name: AUBURN HTS
+    distance_km: 4.7
+  - name: PONTIAC
+    distance_km: 4.9
+  - name: ROCHESTER
+    distance_km: 9.11
+- country: US
+  region: MI
+  name: Augusta
+  lat: '42.3378'
+  long: "-85.3525"
+  nearby_rate_centers:
+  - name: AUGUSTA
+    distance_km: 0.58
+  - name: GALESBURG
+    distance_km: 7.66
+  - name: RICHLAND
+    distance_km: 8.87
+- country: US
+  region: MI
+  name: Bad Axe
+  lat: '43.8043'
+  long: "-82.9985"
+  nearby_rate_centers:
+  - name: BAD AXE
+    distance_km: 0.35
+  - name: UBLY
+    distance_km: 12.04
+  - name: ELKTON
+    distance_km: 14.53
+- country: US
+  region: MI
+  name: Baldwin
+  lat: '43.8971'
+  long: "-85.8531"
+  nearby_rate_centers:
+  - name: BALDWIN
+    distance_km: 0.55
+  - name: CARR
+    distance_km: 17.72
+  - name: LUTHER
+    distance_km: 20.91
+- country: US
+  region: MI
+  name: Bancroft
+  lat: '42.8766'
+  long: "-84.0658"
+  nearby_rate_centers:
+  - name: BANCROFT
+    distance_km: 0.23
+  - name: DURAND
+    distance_km: 7.97
+  - name: BYRON
+    distance_km: 11.89
+- country: US
+  region: MI
+  name: Bangor
+  lat: '42.3120'
+  long: "-86.1135"
+  nearby_rate_centers:
+  - name: BANGOR
+    distance_km: 0.55
+  - name: GRAND JCT
+    distance_km: 10.42
+  - name: LACOTA
+    distance_km: 11.64
+- country: US
+  region: MI
+  name: Baraga
+  lat: '46.7766'
+  long: "-88.4966"
+  nearby_rate_centers:
+  - name: BARAGA
+    distance_km: 1.06
+  - name: L ANSE
+    distance_km: 4.17
+  - name: TAPIOLA
+    distance_km: 17.0
+- country: US
+  region: MI
+  name: Barnes Lake
+  lat: '43.1792'
+  long: "-83.3002"
+  nearby_rate_centers:
+  - name: COLUMBIAVL
+    distance_km: 9.37
+  - name: FOSTORIA
+    distance_km: 9.8
+  - name: NORTH BRCH
+    distance_km: 10.79
+- country: US
+  region: MI
+  name: Baroda
+  lat: '41.9541'
+  long: "-86.4879"
+  nearby_rate_centers:
+  - name: BARODA
+    distance_km: 0.35
+  - name: BRIDGMAN
+    distance_km: 5.54
+  - name: SAWYER
+    distance_km: 11.81
+- country: US
+  region: MI
+  name: Barryton
+  lat: '43.7505'
+  long: "-85.1436"
+  nearby_rate_centers:
+  - name: BARRYTON
+    distance_km: 0.25
+  - name: CHIPPEWALK
+    distance_km: 11.97
+  - name: WEIDMAN
+    distance_km: 16.11
+- country: US
+  region: MI
+  name: Barton Hills
+  lat: '42.3167'
+  long: "-83.7561"
+  nearby_rate_centers:
+  - name: ANN ARBOR
+    distance_km: 4.04
+  - name: DEXTER
+    distance_km: 10.68
+  - name: WHITMORELK
+    distance_km: 10.98
+- country: US
+  region: MI
+  name: Bath
+  lat: '42.8199'
+  long: "-84.4544"
+  nearby_rate_centers:
+  - name: BATH
+    distance_km: 0.46
+  - name: DE WITT
+    distance_km: 9.63
+  - name: LAINGSBURG
+    distance_km: 11.63
+- country: US
+  region: MI
+  name: Battle Creek
+  lat: '42.2985'
+  long: "-85.2296"
+  nearby_rate_centers:
+  - name: BATTLE CRK
+    distance_km: 4.0
+  - name: AUGUSTA
+    distance_km: 10.77
+  - name: CLIMAX
+    distance_km: 10.88
+- country: US
+  region: MI
+  name: Bay City
+  lat: '43.5902'
+  long: "-83.8887"
+  nearby_rate_centers:
+  - name: BAY CITY
+    distance_km: 1.15
+  - name: MUNGER
+    distance_km: 12.2
+  - name: AUBURN
+    distance_km: 14.52
+- country: US
+  region: MI
+  name: Bay Port
+  lat: '43.8375'
+  long: "-83.3740"
+  nearby_rate_centers:
+  - name: BAY PORT
+    distance_km: 0.44
+  - name: PIGEON
+    distance_km: 8.54
+  - name: SEBEWAING
+    distance_km: 13.01
+- country: US
+  region: MI
+  name: Bay Shore
+  lat: '45.3609'
+  long: "-85.1115"
+  nearby_rate_centers:
+  - name: HARBOR SPG
+    distance_km: 12.33
+  - name: CHARLEVOIX
+    distance_km: 12.46
+  - name: PETOSKEY
+    distance_km: 12.67
+- country: US
+  region: MI
+  name: Bay View
+  lat: '45.3860'
+  long: "-84.9290"
+  nearby_rate_centers:
+  - name: PETOSKEY
+    distance_km: 2.17
+  - name: HARBOR SPG
+    distance_km: 7.13
+  - name: ALANSON
+    distance_km: 12.51
+- country: US
+  region: MI
+  name: Beal City
+  lat: '43.6692'
+  long: "-84.9086"
+  nearby_rate_centers:
+  - name: WEIDMAN
+    distance_km: 4.85
+  - name: ROSEBUSH
+    distance_km: 11.58
+  - name: MTPLEASANT
+    distance_km: 13.54
+- country: US
+  region: MI
+  name: Bear Lake
+  lat: '44.7182'
+  long: "-84.9486"
+  nearby_rate_centers:
+  - name: MANISTE RV
+    distance_km: 11.6
+  - name: KALKASKA
+    distance_km: 18.55
+  - name: GRAYLING
+    distance_km: 19.25
+- country: US
+  region: MI
+  name: Beaverton
+  lat: '43.8809'
+  long: "-84.4883"
+  nearby_rate_centers:
+  - name: BEAVERTON
+    distance_km: 0.41
+  - name: GLADWIN
+    distance_km: 11.23
+  - name: COLEMAN
+    distance_km: 15.55
+- country: US
+  region: MI
+  name: Beecher
+  lat: '43.0903'
+  long: "-83.7039"
+  nearby_rate_centers:
+  - name: CLIMTMORRS
+    distance_km: 5.69
+  - name: FLINT
+    distance_km: 8.3
+  - name: FLUSHING
+    distance_km: 12.32
+- country: US
+  region: MI
+  name: Beechwood
+  lat: '42.7982'
+  long: "-86.1227"
+  nearby_rate_centers:
+  - name: HOLLAND
+    distance_km: 2.03
+  - name: ZEELAND
+    distance_km: 8.93
+  - name: BORCULO
+    distance_km: 12.11
+- country: US
+  region: MI
+  name: Belding
+  lat: '43.0968'
+  long: "-85.2331"
+  nearby_rate_centers:
+  - name: BELDING
+    distance_km: 1.03
+  - name: ORLEANS
+    distance_km: 8.75
+  - name: GREENVILLE
+    distance_km: 9.69
+- country: US
+  region: MI
+  name: Bellaire
+  lat: '44.9739'
+  long: "-85.2057"
+  nearby_rate_centers:
+  - name: BELLAIRE
+    distance_km: 0.38
+  - name: CLAM RIVER
+    distance_km: 5.89
+  - name: CENTRAL LK
+    distance_km: 11.44
+- country: US
+  region: MI
+  name: Belleville
+  lat: '42.2022'
+  long: "-83.4839"
+  nearby_rate_centers:
+  - name: BELLEVILLE
+    distance_km: 0.57
+  - name: WILLIS
+    distance_km: 7.66
+  - name: NEW BOSTON
+    distance_km: 7.92
+- country: US
+  region: MI
+  name: Bellevue
+  lat: '42.4443'
+  long: "-85.0187"
+  nearby_rate_centers:
+  - name: BELLEVUE
+    distance_km: 0.35
+  - name: OLIVET
+    distance_km: 7.77
+  - name: LACEY
+    distance_km: 16.46
+- country: US
+  region: MI
+  name: Bendon
+  lat: '44.6370'
+  long: "-85.8378"
+  nearby_rate_centers:
+  - name: INTERLOCHN
+    distance_km: 5.93
+  - name: LAKE ANN
+    distance_km: 9.72
+  - name: HONOR
+    distance_km: 15.3
+- country: US
+  region: MI
+  name: Benton Harbor
+  lat: '42.1159'
+  long: "-86.4488"
+  nearby_rate_centers:
+  - name: BENTON HBR
+    distance_km: 0.18
+  - name: ST JOSEPH
+    distance_km: 2.87
+  - name: COLOMA
+    distance_km: 14.27
+- country: US
+  region: MI
+  name: Benton Heights
+  lat: '42.1211'
+  long: "-86.4137"
+  nearby_rate_centers:
+  - name: BENTON HBR
+    distance_km: 2.95
+  - name: ST JOSEPH
+    distance_km: 5.82
+  - name: COLOMA
+    distance_km: 11.55
+- country: US
+  region: MI
+  name: Benzonia
+  lat: '44.6161'
+  long: "-86.0989"
+  nearby_rate_centers:
+  - name: BEULAH
+    distance_km: 1.05
+  - name: HONOR
+    distance_km: 8.01
+  - name: FRANKFORT
+    distance_km: 11.71
+- country: US
+  region: MI
+  name: Bergland
+  lat: '46.5913'
+  long: "-89.5754"
+  nearby_rate_centers:
+  - name: BERGLAND
+    distance_km: 0.9
+  - name: WHITE PINE
+    distance_km: 18.58
+  - name: LK GOGEBIC
+    distance_km: 20.31
+- country: US
+  region: MI
+  name: Berkley
+  lat: '42.4986'
+  long: "-83.1853"
+  nearby_rate_centers:
+  - name: ROYAL OAK
+    distance_km: 4.37
+  - name: BIRMINGHAM
+    distance_km: 5.5
+  - name: SOUTHFIELD
+    distance_km: 6.25
+- country: US
+  region: MI
+  name: Berrien Springs
+  lat: '41.9474'
+  long: "-86.3403"
+  nearby_rate_centers:
+  - name: BERRIENSPG
+    distance_km: 0.5
+  - name: EAU CLAIRE
+    distance_km: 5.07
+  - name: BARODA
+    distance_km: 12.54
+- country: US
+  region: MI
+  name: Bessemer
+  lat: '46.4775'
+  long: "-90.0498"
+  nearby_rate_centers:
+  - name: BESSEMER
+    distance_km: 0.6
+  - name: WAKEFIELD
+    distance_km: 8.92
+  - name: IRONWOOD
+    distance_km: 9.37
+- country: US
+  region: MI
+  name: Beulah
+  lat: '44.6292'
+  long: "-86.0963"
+  nearby_rate_centers:
+  - name: BEULAH
+    distance_km: 0.81
+  - name: HONOR
+    distance_km: 6.9
+  - name: FRANKFORT
+    distance_km: 11.78
+- country: US
+  region: MI
+  name: Beverly Hills
+  lat: '42.5220'
+  long: "-83.2423"
+  nearby_rate_centers:
+  - name: BIRMINGHAM
+    distance_km: 2.87
+  - name: SOUTHFIELD
+    distance_km: 4.46
+  - name: ROYAL OAK
+    distance_km: 9.71
+- country: US
+  region: MI
+  name: Big Bay
+  lat: '46.8145'
+  long: "-87.6997"
+  nearby_rate_centers:
+  - name: BIG BAY
+    distance_km: 2.46
+  - name: NEGAUNEE
+    distance_km: 35.42
+  - name: ISHPEMING
+    distance_km: 35.82
+- country: US
+  region: MI
+  name: Big Rapids
+  lat: '43.6992'
+  long: "-85.4806"
+  nearby_rate_centers:
+  - name: BIG RAPIDS
+    distance_km: 0.4
+  - name: STANWOOD
+    distance_km: 14.09
+  - name: CHIPPEWALK
+    distance_km: 15.85
+- country: US
+  region: MI
+  name: Bingham Farms
+  lat: '42.5176'
+  long: "-83.2780"
+  nearby_rate_centers:
+  - name: SOUTHFIELD
+    distance_km: 4.07
+  - name: BIRMINGHAM
+    distance_km: 5.5
+  - name: W BLOOMFLD
+    distance_km: 7.3
+- country: US
+  region: MI
+  name: Birch Run
+  lat: '43.2503'
+  long: "-83.7911"
+  nearby_rate_centers:
+  - name: BIRCH RUN
+    distance_km: 0.17
+  - name: FRANKENMTH
+    distance_km: 10.21
+  - name: MONTROSE
+    distance_km: 11.78
+- country: US
+  region: MI
+  name: Birmingham
+  lat: '42.5446'
+  long: "-83.2166"
+  nearby_rate_centers:
+  - name: BIRMINGHAM
+    distance_km: 0.41
+  - name: SOUTHFIELD
+    distance_km: 7.6
+  - name: TROY
+    distance_km: 7.66
+- country: US
+  region: MI
+  name: Blissfield
+  lat: '41.8311'
+  long: "-83.8635"
+  nearby_rate_centers:
+  - name: BLISSFIELD
+    distance_km: 0.71
+  - name: DEERFIELD
+    distance_km: 9.07
+  - name: OGDEN CTR
+    distance_km: 10.35
+- country: US
+  region: MI
+  name: Bloomfield Hills
+  lat: '42.5780'
+  long: "-83.2456"
+  nearby_rate_centers:
+  - name: BIRMINGHAM
+    distance_km: 4.61
+  - name: AUBURN HTS
+    distance_km: 6.55
+  - name: PONTIAC
+    distance_km: 7.55
+- country: US
+  region: MI
+  name: Bloomingdale
+  lat: '42.3833'
+  long: "-85.9590"
+  nearby_rate_centers:
+  - name: BLOOMINGDL
+    distance_km: 0.2
+  - name: GOBLES
+    distance_km: 7.06
+  - name: GRAND JCT
+    distance_km: 9.7
+- country: US
+  region: MI
+  name: Boon
+  lat: '44.2877'
+  long: "-85.6013"
+  nearby_rate_centers:
+  - name: HARRIETTA
+    distance_km: 8.18
+  - name: HOXEYVILLE
+    distance_km: 15.03
+  - name: MESICK
+    distance_km: 15.33
+- country: US
+  region: MI
+  name: Boyne City
+  lat: '45.2136'
+  long: "-85.0132"
+  nearby_rate_centers:
+  - name: BOYNE CITY
+    distance_km: 0.71
+  - name: WALLOON LK
+    distance_km: 8.46
+  - name: BOYNEFALLS
+    distance_km: 9.09
+- country: US
+  region: MI
+  name: Boyne Falls
+  lat: '45.1678'
+  long: "-84.9131"
+  nearby_rate_centers:
+  - name: BOYNEFALLS
+    distance_km: 0.32
+  - name: BOYNE CITY
+    distance_km: 9.96
+  - name: WALLOON LK
+    distance_km: 10.98
+- country: US
+  region: MI
+  name: Breckenridge
+  lat: '43.4074'
+  long: "-84.4784"
+  nearby_rate_centers:
+  - name: BRECKENRDG
+    distance_km: 0.51
+  - name: ST LOUIS
+    distance_km: 10.66
+  - name: MERRILL
+    distance_km: 11.69
+- country: US
+  region: MI
+  name: Breedsville
+  lat: '42.3489'
+  long: "-86.0716"
+  nearby_rate_centers:
+  - name: GRAND JCT
+    distance_km: 5.82
+  - name: BANGOR
+    distance_km: 5.89
+  - name: LACOTA
+    distance_km: 9.04
+- country: US
+  region: MI
+  name: Brethren
+  lat: '44.3048'
+  long: "-86.0168"
+  nearby_rate_centers:
+  - name: BRETHREN
+    distance_km: 0.59
+  - name: KALEVA
+    distance_km: 6.96
+  - name: WELLSTON
+    distance_km: 11.12
+- country: US
+  region: MI
+  name: Bridgeport
+  lat: '43.3706'
+  long: "-83.8827"
+  nearby_rate_centers:
+  - name: SAGINAW
+    distance_km: 8.28
+  - name: FRANKENMTH
+    distance_km: 12.02
+  - name: BIRCH RUN
+    distance_km: 15.45
+- country: US
+  region: MI
+  name: Bridgman
+  lat: '41.9396'
+  long: "-86.5652"
+  nearby_rate_centers:
+  - name: BRIDGMAN
+    distance_km: 1.96
+  - name: SAWYER
+    distance_km: 6.25
+  - name: BARODA
+    distance_km: 6.36
+- country: US
+  region: MI
+  name: Brighton
+  lat: '42.5298'
+  long: "-83.7848"
+  nearby_rate_centers:
+  - name: BRIGHTON
+    distance_km: 0.34
+  - name: WHITMORELK
+    distance_km: 13.1
+  - name: SOUTH LYON
+    distance_km: 13.75
+- country: US
+  region: MI
+  name: Brimley
+  lat: '46.4060'
+  long: "-84.5786"
+  nearby_rate_centers:
+  - name: BRIMLEY
+    distance_km: 0.92
+  - name: KINROSS
+    distance_km: 15.55
+  - name: RUDYARD
+    distance_km: 19.1
+- country: US
+  region: MI
+  name: Britton
+  lat: '41.9877'
+  long: "-83.8304"
+  nearby_rate_centers:
+  - name: BRITTON
+    distance_km: 0.51
+  - name: TECUMSEH
+    distance_km: 9.27
+  - name: DEERFIELD
+    distance_km: 12.45
+- country: US
+  region: MI
+  name: Bronson
+  lat: '41.8727'
+  long: "-85.1915"
+  nearby_rate_centers:
+  - name: BRONSON
+    distance_km: 0.45
+  - name: BURR OAK
+    distance_km: 11.01
+  - name: COLON
+    distance_km: 14.95
+- country: US
+  region: MI
+  name: Brooklyn
+  lat: '42.1054'
+  long: "-84.2487"
+  nearby_rate_centers:
+  - name: BROOKLYN
+    distance_km: 0.52
+  - name: NAPOLEON
+    distance_km: 6.7
+  - name: CLARKLAKE
+    distance_km: 8.49
+- country: US
+  region: MI
+  name: Brown City
+  lat: '43.2115'
+  long: "-82.9880"
+  nearby_rate_centers:
+  - name: BROWN CITY
+    distance_km: 0.97
+  - name: PECK
+    distance_km: 14.73
+  - name: MARLETTE
+    distance_km: 14.84
+- country: US
+  region: MI
+  name: Brownlee Park
+  lat: '42.3257'
+  long: "-85.1357"
+  nearby_rate_centers:
+  - name: BATTLE CRK
+    distance_km: 4.36
+  - name: MARSHALL
+    distance_km: 15.23
+  - name: BELLEVUE
+    distance_km: 16.03
+- country: US
+  region: MI
+  name: Bruce Crossing
+  lat: '46.5394'
+  long: "-89.1779"
+  nearby_rate_centers:
+  - name: BRUCECRSNG
+    distance_km: 0.92
+  - name: EWEN
+    distance_km: 8.24
+  - name: TROUTCREEK
+    distance_km: 14.29
+- country: US
+  region: MI
+  name: Brutus
+  lat: '45.4942'
+  long: "-84.7818"
+  nearby_rate_centers:
+  - name: BRUTUS
+    distance_km: 0.29
+  - name: ALANSON
+    distance_km: 5.96
+  - name: PELLSTON
+    distance_km: 6.18
+- country: US
+  region: MI
+  name: Buchanan
+  lat: '41.8283'
+  long: "-86.3656"
+  nearby_rate_centers:
+  - name: BUCHANAN
+    distance_km: 0.71
+  - name: NILES
+    distance_km: 8.85
+  - name: GALIEN
+    distance_km: 11.55
+- country: US
+  region: MI
+  name: Buckley
+  lat: '44.5033'
+  long: "-85.6720"
+  nearby_rate_centers:
+  - name: BUCKLEY
+    distance_km: 0.7
+  - name: MESICK
+    distance_km: 12.19
+  - name: KINGSLEY
+    distance_km: 14.23
+- country: US
+  region: MI
+  name: Buena Vista
+  lat: '43.4176'
+  long: "-83.9005"
+  nearby_rate_centers:
+  - name: SAGINAW
+    distance_km: 3.65
+  - name: MUNGER
+    distance_km: 14.82
+  - name: FRANKENMTH
+    distance_km: 15.74
+- country: US
+  region: MI
+  name: Burlington
+  lat: '42.1047'
+  long: "-85.0776"
+  nearby_rate_centers:
+  - name: BURLINGTON
+    distance_km: 0.53
+  - name: UNION CITY
+    distance_km: 6.36
+  - name: TEKONSHA
+    distance_km: 7.93
+- country: US
+  region: MI
+  name: Burr Oak
+  lat: '41.8472'
+  long: "-85.3212"
+  nearby_rate_centers:
+  - name: BURR OAK
+    distance_km: 0.84
+  - name: STURGIS
+    distance_km: 9.75
+  - name: BRONSON
+    distance_km: 11.31
+- country: US
+  region: MI
+  name: Burt
+  lat: '43.2358'
+  long: "-83.9027"
+  nearby_rate_centers:
+  - name: MONTROSE
+    distance_km: 6.73
+  - name: BIRCH RUN
+    distance_km: 9.17
+  - name: NEWLOTHROP
+    distance_km: 14.33
+- country: US
+  region: MI
+  name: Burton
+  lat: '42.9974'
+  long: "-83.6175"
+  nearby_rate_centers:
+  - name: FLINT
+    distance_km: 6.15
+  - name: GRANDBLANC
+    distance_km: 8.39
+  - name: DAVISON
+    distance_km: 9.15
+- country: US
+  region: MI
+  name: Byron
+  lat: '42.8239'
+  long: "-83.9467"
+  nearby_rate_centers:
+  - name: BYRON
+    distance_km: 0.72
+  - name: GAINES
+    distance_km: 5.11
+  - name: DURAND
+    distance_km: 10.43
+- country: US
+  region: MI
+  name: Byron Center
+  lat: '42.8121'
+  long: "-85.7279"
+  nearby_rate_centers:
+  - name: BYRON CTR
+    distance_km: 0.73
+  - name: JAMESTOWN
+    distance_km: 9.24
+  - name: DORR
+    distance_km: 9.91
+- country: US
+  region: MI
+  name: Caberfae
+  lat: '44.2492'
+  long: "-85.7256"
+  nearby_rate_centers:
+  - name: HARRIETTA
+    distance_km: 6.73
+  - name: HOXEYVILLE
+    distance_km: 7.51
+  - name: MESICK
+    distance_km: 16.6
+- country: US
+  region: MI
+  name: Cadillac
+  lat: '44.2493'
+  long: "-85.4164"
+  nearby_rate_centers:
+  - name: CADILLAC
+    distance_km: 1.18
+  - name: TUSTIN
+    distance_km: 16.7
+  - name: MCBAIN
+    distance_km: 17.01
+- country: US
+  region: MI
+  name: Caledonia
+  lat: '42.7945'
+  long: "-85.5153"
+  nearby_rate_centers:
+  - name: CALEDONIA
+    distance_km: 1.45
+  - name: DUTTON
+    distance_km: 7.59
+  - name: MIDDLEVL
+    distance_km: 10.11
+- country: US
+  region: MI
+  name: Calumet
+  lat: '47.2478'
+  long: "-88.4535"
+  nearby_rate_centers:
+  - name: CALUMET
+    distance_km: 0.61
+  - name: LAKELINDEN
+    distance_km: 7.21
+  - name: HOUGHTON
+    distance_km: 16.48
+- country: US
+  region: MI
+  name: Cambria
+  lat: '41.8181'
+  long: "-84.6628"
+  nearby_rate_centers:
+  - name: CAMBRIA
+    distance_km: 0.53
+  - name: FRONTIER
+    distance_km: 6.74
+  - name: READING
+    distance_km: 7.68
+- country: US
+  region: MI
+  name: Camden
+  lat: '41.7550'
+  long: "-84.7562"
+  nearby_rate_centers:
+  - name: CAMDEN
+    distance_km: 0.63
+  - name: MONTGOMERY
+    distance_km: 4.36
+  - name: READING
+    distance_km: 9.68
+- country: US
+  region: MI
+  name: Canada Creek Ranch
+  lat: '45.1738'
+  long: "-84.2128"
+  nearby_rate_centers:
+  - name: ATLANTA
+    distance_km: 20.03
+  - name: ONAWAY
+    distance_km: 20.75
+  - name: HILLMAN
+    distance_km: 27.9
+- country: US
+  region: MI
+  name: Canadian Lakes
+  lat: '43.5815'
+  long: "-85.2986"
+  nearby_rate_centers:
+  - name: MECOSTA
+    distance_km: 7.25
+  - name: REMUS
+    distance_km: 12.13
+  - name: STANWOOD
+    distance_km: 12.45
+- country: US
+  region: MI
+  name: Cannonsburg
+  lat: '43.0538'
+  long: "-85.4714"
+  nearby_rate_centers:
+  - name: GRATTAN
+    distance_km: 7.99
+  - name: ROCKFORD
+    distance_km: 9.38
+  - name: ADA
+    distance_km: 11.84
+- country: US
+  region: MI
+  name: Capac
+  lat: '43.0074'
+  long: "-82.9271"
+  nearby_rate_centers:
+  - name: CAPAC
+    distance_km: 0.78
+  - name: IMLAY CITY
+    distance_km: 12.2
+  - name: EMMETT
+    distance_km: 13.13
+- country: US
+  region: MI
+  name: Carleton
+  lat: '42.0572'
+  long: "-83.3899"
+  nearby_rate_centers:
+  - name: CARLETON
+    distance_km: 0.42
+  - name: NEWPORT
+    distance_km: 9.89
+  - name: FLAT ROCK
+    distance_km: 10.26
+- country: US
+  region: MI
+  name: Carney
+  lat: '45.5935'
+  long: "-87.5547"
+  nearby_rate_centers:
+  - name: CARNEY
+    distance_km: 0.92
+  - name: POWERS
+    distance_km: 10.28
+  - name: HERMANSVL
+    distance_km: 12.95
+- country: US
+  region: MI
+  name: Caro
+  lat: '43.4891'
+  long: "-83.4025"
+  nearby_rate_centers:
+  - name: CARO
+    distance_km: 0.38
+  - name: FAIRGROVE
+    distance_km: 11.64
+  - name: AKRON
+    distance_km: 12.45
+- country: US
+  region: MI
+  name: Carp Lake
+  lat: '45.6890'
+  long: "-84.7582"
+  nearby_rate_centers:
+  - name: LEVERING
+    distance_km: 6.62
+  - name: MACKINAWCY
+    distance_km: 10.4
+  - name: PELLSTON
+    distance_km: 15.58
+- country: US
+  region: MI
+  name: Carson City
+  lat: '43.1815'
+  long: "-84.8462"
+  nearby_rate_centers:
+  - name: CARSONCITY
+    distance_km: 1.02
+  - name: VICKERYVL
+    distance_km: 9.68
+  - name: HUBBARDSTN
+    distance_km: 10.08
+- country: US
+  region: MI
+  name: Carsonville
+  lat: '43.4257'
+  long: "-82.6730"
+  nearby_rate_centers:
+  - name: CARSONVL
+    distance_km: 0.56
+  - name: APPLEGATE
+    distance_km: 9.05
+  - name: PT SANILAC
+    distance_km: 10.44
+- country: US
+  region: MI
+  name: Caseville
+  lat: '43.9416'
+  long: "-83.2734"
+  nearby_rate_centers:
+  - name: CASEVILLE
+    distance_km: 0.93
+  - name: PIGEON
+    distance_km: 12.72
+  - name: BAY PORT
+    distance_km: 13.8
+- country: US
+  region: MI
+  name: Casnovia
+  lat: '43.2336'
+  long: "-85.7895"
+  nearby_rate_centers:
+  - name: CASNOVIA
+    distance_km: 0.3
+  - name: KENT CITY
+    distance_km: 3.53
+  - name: GRANT
+    distance_km: 11.14
+- country: US
+  region: MI
+  name: Caspian
+  lat: '46.0653'
+  long: "-88.6266"
+  nearby_rate_centers:
+  - name: IRON RIVER
+    distance_km: 2.21
+  - name: CRYSTALFLS
+    distance_km: 22.55
+  - name: AMASA
+    distance_km: 22.57
+- country: US
+  region: MI
+  name: Cass City
+  lat: '43.6007'
+  long: "-83.1767"
+  nearby_rate_centers:
+  - name: CASS CITY
+    distance_km: 0.2
+  - name: GAGETOWN
+    distance_km: 7.39
+  - name: OWENDALE
+    distance_km: 15.48
+- country: US
+  region: MI
+  name: Cassopolis
+  lat: '41.9116'
+  long: "-86.0085"
+  nearby_rate_centers:
+  - name: CASSOPOLIS
+    distance_km: 0.73
+  - name: VANDALIA
+    distance_km: 7.76
+  - name: DOWAGIAC
+    distance_km: 12.01
+- country: US
+  region: MI
+  name: Cedar
+  lat: '44.8466'
+  long: "-85.7941"
+  nearby_rate_centers:
+  - name: GLEN LAKE
+    distance_km: 12.28
+  - name: LAKE ANN
+    distance_km: 14.08
+  - name: LKLEELANAU
+    distance_km: 16.24
+- country: US
+  region: MI
+  name: Cedar Springs
+  lat: '43.2201'
+  long: "-85.5535"
+  nearby_rate_centers:
+  - name: CEDAR SPG
+    distance_km: 0.81
+  - name: SAND LAKE
+    distance_km: 7.98
+  - name: ROCKFORD
+    distance_km: 11.62
+- country: US
+  region: MI
+  name: Cement City
+  lat: '42.0682'
+  long: "-84.3282"
+  nearby_rate_centers:
+  - name: CLARKLAKE
+    distance_km: 5.72
+  - name: BROOKLYN
+    distance_km: 8.04
+  - name: ADDISON
+    distance_km: 9.65
+- country: US
+  region: MI
+  name: Center Line
+  lat: '42.4805'
+  long: "-83.0274"
+  nearby_rate_centers:
+  - name: CENTERLINE
+    distance_km: 1.39
+  - name: WARREN
+    distance_km: 5.33
+  - name: ROSEVILLE
+    distance_km: 7.98
+- country: US
+  region: MI
+  name: Central Lake
+  lat: '45.0694'
+  long: "-85.2625"
+  nearby_rate_centers:
+  - name: CENTRAL LK
+    distance_km: 0.61
+  - name: EASTPORT
+    distance_km: 7.92
+  - name: ELLSWORTH
+    distance_km: 10.65
+- country: US
+  region: MI
+  name: Centreville
+  lat: '41.9213'
+  long: "-85.5259"
+  nearby_rate_centers:
+  - name: CENTREVL
+    distance_km: 0.43
+  - name: THREERIVRS
+    distance_km: 9.72
+  - name: MENDON
+    distance_km: 10.96
+- country: US
+  region: MI
+  name: Charlevoix
+  lat: '45.3137'
+  long: "-85.2558"
+  nearby_rate_centers:
+  - name: CHARLEVOIX
+    distance_km: 0.5
+  - name: ELLSWORTH
+    distance_km: 16.58
+  - name: EASTJORDAN
+    distance_km: 20.57
+- country: US
+  region: MI
+  name: Charlotte
+  lat: '42.5662'
+  long: "-84.8304"
+  nearby_rate_centers:
+  - name: CHARLOTTE
+    distance_km: 0.46
+  - name: POTTERVL
+    distance_km: 9.97
+  - name: EATON RPD
+    distance_km: 15.51
+- country: US
+  region: MI
+  name: Chassell
+  lat: '47.0316'
+  long: "-88.5285"
+  nearby_rate_centers:
+  - name: HOUGHTON
+    distance_km: 9.8
+  - name: TAPIOLA
+    distance_km: 16.2
+  - name: LAKELINDEN
+    distance_km: 19.74
+- country: US
+  region: MI
+  name: Chatham
+  lat: '46.3441'
+  long: "-86.9313"
+  nearby_rate_centers:
+  - name: CHATHAM
+    distance_km: 0.84
+  - name: AU TRAIN
+    distance_km: 12.7
+  - name: TRENARY
+    distance_km: 16.09
+- country: US
+  region: MI
+  name: Cheboygan
+  lat: '45.6410'
+  long: "-84.4687"
+  nearby_rate_centers:
+  - name: CHEBOYGAN
+    distance_km: 0.99
+  - name: BOIS BLANC
+    distance_km: 10.26
+  - name: GRACE HBR
+    distance_km: 23.8
+- country: US
+  region: MI
+  name: Chelsea
+  lat: '42.3132'
+  long: "-84.0188"
+  nearby_rate_centers:
+  - name: CHELSEA
+    distance_km: 0.66
+  - name: DEXTER
+    distance_km: 11.4
+  - name: GREGORY
+    distance_km: 16.95
+- country: US
+  region: MI
+  name: Chesaning
+  lat: '43.1851'
+  long: "-84.1200"
+  nearby_rate_centers:
+  - name: CHESANING
+    distance_km: 0.61
+  - name: ST CHARLES
+    distance_km: 12.13
+  - name: BRANT
+    distance_km: 12.39
+- country: US
+  region: MI
+  name: Chums Corner
+  lat: '44.6767'
+  long: "-85.6564"
+  nearby_rate_centers:
+  - name: INTERLOCHN
+    distance_km: 9.08
+  - name: TRAVERSECY
+    distance_km: 10.86
+  - name: KINGSLEY
+    distance_km: 14.28
+- country: US
+  region: MI
+  name: Clare
+  lat: '43.8259'
+  long: "-84.7630"
+  nearby_rate_centers:
+  - name: CLARE
+    distance_km: 1.28
+  - name: FARWELL
+    distance_km: 8.37
+  - name: ROSEBUSH
+    distance_km: 14.09
+- country: US
+  region: MI
+  name: Clarksville
+  lat: '42.8421'
+  long: "-85.2425"
+  nearby_rate_centers:
+  - name: CLARKSVL
+    distance_km: 0.23
+  - name: SARANAC
+    distance_km: 10.05
+  - name: FREEPORT
+    distance_km: 10.14
+- country: US
+  region: MI
+  name: Clawson
+  lat: '42.5367'
+  long: "-83.1504"
+  nearby_rate_centers:
+  - name: TROY
+    distance_km: 3.21
+  - name: BIRMINGHAM
+    distance_km: 5.65
+  - name: ROYAL OAK
+    distance_km: 6.07
+- country: US
+  region: MI
+  name: Clayton
+  lat: '41.8649'
+  long: "-84.2347"
+  nearby_rate_centers:
+  - name: CLAYTON
+    distance_km: 0.82
+  - name: HUDSON
+    distance_km: 10.58
+  - name: SAND CREEK
+    distance_km: 11.87
+- country: US
+  region: MI
+  name: Clifford
+  lat: '43.3148'
+  long: "-83.1793"
+  nearby_rate_centers:
+  - name: CLIFFORD
+    distance_km: 0.49
+  - name: MARLETTE
+    distance_km: 7.91
+  - name: NORTH BRCH
+    distance_km: 9.15
+- country: US
+  region: MI
+  name: Climax
+  lat: '42.2383'
+  long: "-85.3360"
+  nearby_rate_centers:
+  - name: CLIMAX
+    distance_km: 0.34
+  - name: SCOTTS
+    distance_km: 7.89
+  - name: GALESBURG
+    distance_km: 9.56
+- country: US
+  region: MI
+  name: Clinton
+  lat: '42.0699'
+  long: "-83.9687"
+  nearby_rate_centers:
+  - name: CLINTON
+    distance_km: 0.28
+  - name: TECUMSEH
+    distance_km: 7.87
+  - name: TIPTON
+    distance_km: 10.17
+- country: US
+  region: MI
+  name: Clio
+  lat: '43.1773'
+  long: "-83.7355"
+  nearby_rate_centers:
+  - name: CLIMTMORRS
+    distance_km: 5.55
+  - name: BIRCH RUN
+    distance_km: 9.12
+  - name: MONTROSE
+    distance_km: 12.87
+- country: US
+  region: MI
+  name: Coldwater
+  lat: '41.9465'
+  long: "-84.9989"
+  nearby_rate_centers:
+  - name: COLDWATER
+    distance_km: 0.38
+  - name: QUINCY
+    distance_km: 9.53
+  - name: COLDWTR LK
+    distance_km: 13.46
+- country: US
+  region: MI
+  name: Coleman
+  lat: '43.7588'
+  long: "-84.5869"
+  nearby_rate_centers:
+  - name: COLEMAN
+    distance_km: 0.27
+  - name: CLARE
+    distance_km: 15.66
+  - name: BEAVERTON
+    distance_km: 16.05
+- country: US
+  region: MI
+  name: Coloma
+  lat: '42.1864'
+  long: "-86.3083"
+  nearby_rate_centers:
+  - name: COLOMA
+    distance_km: 0.65
+  - name: WATERVLIET
+    distance_km: 3.54
+  - name: HARTFORD
+    distance_km: 11.65
+- country: US
+  region: MI
+  name: Colon
+  lat: '41.9592'
+  long: "-85.3229"
+  nearby_rate_centers:
+  - name: COLON
+    distance_km: 1.07
+  - name: MENDON
+    distance_km: 12.45
+  - name: BURR OAK
+    distance_km: 13.23
+- country: US
+  region: MI
+  name: Columbiaville
+  lat: '43.1567'
+  long: "-83.4069"
+  nearby_rate_centers:
+  - name: COLUMBIAVL
+    distance_km: 0.54
+  - name: OTISVILLE
+    distance_km: 9.52
+  - name: FOSTORIA
+    distance_km: 10.64
+- country: US
+  region: MI
+  name: Comstock Northwest
+  lat: '42.3219'
+  long: "-85.5180"
+  nearby_rate_centers:
+  - name: KALAMAZOO
+    distance_km: 6.29
+  - name: RICHLAND
+    distance_km: 8.05
+  - name: GALESBURG
+    distance_km: 8.29
+- country: US
+  region: MI
+  name: Comstock Park
+  lat: '43.0438'
+  long: "-85.6778"
+  nearby_rate_centers:
+  - name: GRAND RPDS
+    distance_km: 8.6
+  - name: SPARTA
+    distance_km: 12.59
+  - name: MARNE
+    distance_km: 12.97
+- country: US
+  region: MI
+  name: Concord
+  lat: '42.1762'
+  long: "-84.6456"
+  nearby_rate_centers:
+  - name: CONCORD
+    distance_km: 0.45
+  - name: PARMA
+    distance_km: 10.21
+  - name: HANOVER
+    distance_km: 11.02
+- country: US
+  region: MI
+  name: Constantine
+  lat: '41.8378'
+  long: "-85.6650"
+  nearby_rate_centers:
+  - name: CONSTANTIN
+    distance_km: 0.4
+  - name: WH PIGEON
+    distance_km: 4.65
+  - name: THREERIVRS
+    distance_km: 12.59
+- country: US
+  region: MI
+  name: Conway
+  lat: '45.4188'
+  long: "-84.8634"
+  nearby_rate_centers:
+  - name: ALANSON
+    distance_km: 6.3
+  - name: PETOSKEY
+    distance_km: 8.46
+  - name: HARBOR SPG
+    distance_km: 10.11
+- country: US
+  region: MI
+  name: Coopersville
+  lat: '43.0658'
+  long: "-85.9341"
+  nearby_rate_centers:
+  - name: COOPERSVL
+    distance_km: 1.01
+  - name: CONKLIN
+    distance_km: 7.89
+  - name: MARNE
+    distance_km: 8.72
+- country: US
+  region: MI
+  name: Copemish
+  lat: '44.4804'
+  long: "-85.9242"
+  nearby_rate_centers:
+  - name: COPESHTNVL
+    distance_km: 0.49
+  - name: KALEVA
+    distance_km: 14.18
+  - name: MESICK
+    distance_km: 18.86
+- country: US
+  region: MI
+  name: Copper City
+  lat: '47.2842'
+  long: "-88.3877"
+  nearby_rate_centers:
+  - name: CALUMET
+    distance_km: 7.01
+  - name: LAKELINDEN
+    distance_km: 10.63
+  - name: HOUGHTON
+    distance_km: 22.54
+- country: US
+  region: MI
+  name: Copper Harbor
+  lat: '47.4700'
+  long: "-87.8767"
+  nearby_rate_centers:
+  - name: KEWEENAW
+    distance_km: 11.34
+  - name: CALUMET
+    distance_km: 50.58
+  - name: LAKELINDEN
+    distance_km: 50.88
+- country: US
+  region: MI
+  name: Corunna
+  lat: '42.9837'
+  long: "-84.1162"
+  nearby_rate_centers:
+  - name: OWOSSO
+    distance_km: 5.61
+  - name: BANCROFT
+    distance_km: 12.82
+  - name: DURAND
+    distance_km: 13.37
+- country: US
+  region: MI
+  name: Covington
+  lat: '46.5388'
+  long: "-88.5522"
+  nearby_rate_centers:
+  - name: WATTON
+    distance_km: 3.66
+  - name: L ANSE
+    distance_km: 25.77
+  - name: BARAGA
+    distance_km: 27.75
+- country: US
+  region: MI
+  name: Cross Village
+  lat: '45.6439'
+  long: "-85.0312"
+  nearby_rate_centers:
+  - name: LEVERING
+    distance_km: 18.5
+  - name: PELLSTON
+    distance_km: 22.07
+  - name: HARBOR SPG
+    distance_km: 23.68
+- country: US
+  region: MI
+  name: Croswell
+  lat: '43.2736'
+  long: "-82.6177"
+  nearby_rate_centers:
+  - name: CROSWELL
+    distance_km: 1.3
+  - name: LEXINGTON
+    distance_km: 6.63
+  - name: APPLEGATE
+    distance_km: 8.5
+- country: US
+  region: MI
+  name: Crystal
+  lat: '43.2642'
+  long: "-84.9276"
+  nearby_rate_centers:
+  - name: CRYSTAL
+    distance_km: 0.72
+  - name: VICKERYVL
+    distance_km: 8.82
+  - name: CARSONCITY
+    distance_km: 12.05
+- country: US
+  region: MI
+  name: Crystal Downs Country Club
+  lat: '44.7014'
+  long: "-86.2311"
+  nearby_rate_centers:
+  - name: FRANKFORT
+    distance_km: 7.76
+  - name: BEULAH
+    distance_km: 14.12
+  - name: HONOR
+    distance_km: 16.62
+- country: US
+  region: MI
+  name: Crystal Falls
+  lat: '46.0967'
+  long: "-88.3264"
+  nearby_rate_centers:
+  - name: CRYSTALFLS
+    distance_km: 0.98
+  - name: AMASA
+    distance_km: 17.34
+  - name: CHANNING
+    distance_km: 19.27
+- country: US
+  region: MI
+  name: Crystal Mountain
+  lat: '44.5216'
+  long: "-86.0032"
+  nearby_rate_centers:
+  - name: COPESHTNVL
+    distance_km: 7.29
+  - name: BEULAH
+    distance_km: 13.25
+  - name: HONOR
+    distance_km: 16.23
+- country: US
+  region: MI
+  name: Custer
+  lat: '43.9511'
+  long: "-86.2196"
+  nearby_rate_centers:
+  - name: SCOTTVILLE
+    distance_km: 5.27
+  - name: FOUNTAIN
+    distance_km: 11.66
+  - name: FREESOIL
+    distance_km: 16.24
+- country: US
+  region: MI
+  name: Cutlerville
+  lat: '42.8403'
+  long: "-85.6734"
+  nearby_rate_centers:
+  - name: BYRON CTR
+    distance_km: 5.6
+  - name: DUTTON
+    distance_km: 7.49
+  - name: MOLINE
+    distance_km: 11.84
+- country: US
+  region: MI
+  name: Daggett
+  lat: '45.4620'
+  long: "-87.6047"
+  nearby_rate_centers:
+  - name: STEPHENSON
+    distance_km: 5.02
+  - name: CARNEY
+    distance_km: 14.21
+  - name: WALLACE
+    distance_km: 15.07
+- country: US
+  region: MI
+  name: Dansville
+  lat: '42.5558'
+  long: "-84.3030"
+  nearby_rate_centers:
+  - name: DANSVILLE
+    distance_km: 0.66
+  - name: MASON
+    distance_km: 11.58
+  - name: FITCHBURG
+    distance_km: 14.07
+- country: US
+  region: MI
+  name: Davison
+  lat: '43.0318'
+  long: "-83.5187"
+  nearby_rate_centers:
+  - name: DAVISON
+    distance_km: 0.26
+  - name: GOODRICH
+    distance_km: 12.88
+  - name: HADLEY
+    distance_km: 13.24
+- country: US
+  region: MI
+  name: De Tour Village
+  lat: '45.9891'
+  long: "-83.9146"
+  nearby_rate_centers:
+  - name: DE TOUR
+    distance_km: 1.14
+  - name: DRUMMONDIS
+    distance_km: 14.46
+  - name: CEDARVILLE
+    distance_km: 34.12
+- country: US
+  region: MI
+  name: DeWitt
+  lat: '42.8364'
+  long: "-84.5750"
+  nearby_rate_centers:
+  - name: DE WITT
+    distance_km: 0.67
+  - name: BATH
+    distance_km: 10.35
+  - name: LANSING
+    distance_km: 11.67
+- country: US
+  region: MI
+  name: Dearborn
+  lat: '42.3127'
+  long: "-83.2130"
+  nearby_rate_centers:
+  - name: LIVONIA
+    distance_km: 12.11
+  - name: WYANDOTTE
+    distance_km: 13.21
+  - name: DETROITZN1
+    distance_km: 13.54
+  - name: DETROITZN2
+    distance_km: 13.54
+  - name: DETROITZN3
+    distance_km: 13.54
+  - name: DETROITZN4
+    distance_km: 13.54
+  - name: DETROITZN5
+    distance_km: 13.54
+  - name: DETROITZN6
+    distance_km: 13.54
+- country: US
+  region: MI
+  name: Dearborn Heights
+  lat: '42.3164'
+  long: "-83.2769"
+  nearby_rate_centers:
+  - name: LIVONIA
+    distance_km: 7.35
+  - name: WAYNE
+    distance_km: 9.89
+  - name: ROMULUS
+    distance_km: 13.76
+- country: US
+  region: MI
+  name: Decatur
+  lat: '42.1075'
+  long: "-85.9746"
+  nearby_rate_centers:
+  - name: DECATUR
+    distance_km: 0.22
+  - name: LAWTON
+    distance_km: 12.16
+  - name: LAWRENCE
+    distance_km: 13.67
+- country: US
+  region: MI
+  name: Deckerville
+  lat: '43.5265'
+  long: "-82.7420"
+  nearby_rate_centers:
+  - name: DECKERVL
+    distance_km: 0.92
+  - name: CARSONVL
+    distance_km: 12.64
+  - name: SANDUSKY
+    distance_km: 14.44
+- country: US
+  region: MI
+  name: Deerfield
+  lat: '41.8901'
+  long: "-83.7790"
+  nearby_rate_centers:
+  - name: DEERFIELD
+    distance_km: 0.84
+  - name: PETERSBURG
+    distance_km: 5.26
+  - name: BLISSFIELD
+    distance_km: 10.25
+- country: US
+  region: MI
+  name: Delton
+  lat: '42.4951'
+  long: "-85.4117"
+  nearby_rate_centers:
+  - name: DELTON
+    distance_km: 0.56
+  - name: HICKORYCOR
+    distance_km: 6.57
+  - name: BANFIELD
+    distance_km: 9.58
+- country: US
+  region: MI
+  name: Detroit
+  lat: '42.3834'
+  long: "-83.1024"
+  nearby_rate_centers:
+  - name: DETROITZN1
+    distance_km: 7.17
+  - name: DETROITZN2
+    distance_km: 7.17
+  - name: DETROITZN3
+    distance_km: 7.17
+  - name: DETROITZN4
+    distance_km: 7.17
+  - name: DETROITZN5
+    distance_km: 7.17
+  - name: DETROITZN6
+    distance_km: 7.17
+  - name: ROYAL OAK
+    distance_km: 11.43
+  - name: CENTERLINE
+    distance_km: 13.25
+- country: US
+  region: MI
+  name: Detroit Beach
+  lat: '41.9314'
+  long: "-83.3294"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 6.0
+  - name: NEWPORT
+    distance_km: 8.2
+  - name: CARLETON
+    distance_km: 15.25
+- country: US
+  region: MI
+  name: Dexter
+  lat: '42.3319'
+  long: "-83.8803"
+  nearby_rate_centers:
+  - name: DEXTER
+    distance_km: 0.48
+  - name: CHELSEA
+    distance_km: 11.03
+  - name: ANN ARBOR
+    distance_km: 12.86
+- country: US
+  region: MI
+  name: Dimondale
+  lat: '42.6484'
+  long: "-84.6475"
+  nearby_rate_centers:
+  - name: DIMONDALE
+    distance_km: 0.95
+  - name: POTTERVL
+    distance_km: 7.9
+  - name: HOLT
+    distance_km: 10.69
+- country: US
+  region: MI
+  name: Dodgeville
+  lat: '47.0909'
+  long: "-88.5828"
+  nearby_rate_centers:
+  - name: HOUGHTON
+    distance_km: 3.53
+  - name: LAKELINDEN
+    distance_km: 17.06
+  - name: CALUMET
+    distance_km: 19.42
+- country: US
+  region: MI
+  name: Dollar Bay
+  lat: '47.1272'
+  long: "-88.5091"
+  nearby_rate_centers:
+  - name: HOUGHTON
+    distance_km: 3.81
+  - name: LAKELINDEN
+    distance_km: 10.21
+  - name: CALUMET
+    distance_km: 13.53
+- country: US
+  region: MI
+  name: Dorr
+  lat: '42.7270'
+  long: "-85.7190"
+  nearby_rate_centers:
+  - name: DORR
+    distance_km: 0.47
+  - name: MOLINE
+    distance_km: 4.48
+  - name: WAYLAND
+    distance_km: 8.71
+- country: US
+  region: MI
+  name: Douglas
+  lat: '42.6411'
+  long: "-86.2083"
+  nearby_rate_centers:
+  - name: SAUGATUCK
+    distance_km: 2.57
+  - name: GANGES
+    distance_km: 7.5
+  - name: FENNVILLE
+    distance_km: 10.33
+- country: US
+  region: MI
+  name: Dowagiac
+  lat: '41.9834'
+  long: "-86.1126"
+  nearby_rate_centers:
+  - name: DOWAGIAC
+    distance_km: 1.07
+  - name: CASSOPOLIS
+    distance_km: 11.02
+  - name: SISTER LKS
+    distance_km: 12.32
+- country: US
+  region: MI
+  name: Dowling
+  lat: '42.5227'
+  long: "-85.2531"
+  nearby_rate_centers:
+  - name: BANFIELD
+    distance_km: 4.29
+  - name: LACEY
+    distance_km: 5.09
+  - name: DELTON
+    distance_km: 13.04
+- country: US
+  region: MI
+  name: Dryden
+  lat: '42.9456'
+  long: "-83.1240"
+  nearby_rate_centers:
+  - name: DRYDEN
+    distance_km: 0.56
+  - name: ALMONT
+    distance_km: 7.43
+  - name: IMLAY CITY
+    distance_km: 9.81
+- country: US
+  region: MI
+  name: Dundee
+  lat: '41.9642'
+  long: "-83.6636"
+  nearby_rate_centers:
+  - name: DUNDEE
+    distance_km: 0.64
+  - name: PETERSBURG
+    distance_km: 8.57
+  - name: IDA
+    distance_km: 10.28
+- country: US
+  region: MI
+  name: Durand
+  lat: '42.9127'
+  long: "-83.9890"
+  nearby_rate_centers:
+  - name: DURAND
+    distance_km: 0.56
+  - name: BANCROFT
+    distance_km: 7.48
+  - name: GAINES
+    distance_km: 7.7
+- country: US
+  region: MI
+  name: Eagle
+  lat: '42.8098'
+  long: "-84.7909"
+  nearby_rate_centers:
+  - name: GRANDLEDGE
+    distance_km: 7.39
+  - name: MULLIKEN
+    distance_km: 9.74
+  - name: PORTLAND
+    distance_km: 11.02
+- country: US
+  region: MI
+  name: Eagle Harbor
+  lat: '47.4542'
+  long: "-88.1569"
+  nearby_rate_centers:
+  - name: KEWEENAW
+    distance_km: 10.01
+  - name: CALUMET
+    distance_km: 32.64
+  - name: LAKELINDEN
+    distance_km: 35.06
+- country: US
+  region: MI
+  name: Eagle River
+  lat: '47.4100'
+  long: "-88.2647"
+  nearby_rate_centers:
+  - name: KEWEENAW
+    distance_km: 19.26
+  - name: CALUMET
+    distance_km: 23.57
+  - name: LAKELINDEN
+    distance_km: 26.83
+- country: US
+  region: MI
+  name: East Grand Rapids
+  lat: '42.9464'
+  long: "-85.6088"
+  nearby_rate_centers:
+  - name: GRAND RPDS
+    distance_km: 5.11
+  - name: ADA
+    distance_km: 9.47
+  - name: DUTTON
+    distance_km: 11.78
+- country: US
+  region: MI
+  name: East Jordan
+  lat: '45.1547'
+  long: "-85.1300"
+  nearby_rate_centers:
+  - name: EASTJORDAN
+    distance_km: 0.62
+  - name: ELLSWORTH
+    distance_km: 9.38
+  - name: BOYNE CITY
+    distance_km: 11.41
+- country: US
+  region: MI
+  name: East Lansing
+  lat: '42.7480'
+  long: "-84.4836"
+  nearby_rate_centers:
+  - name: LANSING
+    distance_km: 5.96
+  - name: BATH
+    distance_km: 8.09
+  - name: HOLT
+    distance_km: 12.07
+- country: US
+  region: MI
+  name: East Tawas
+  lat: '44.2884'
+  long: "-83.4849"
+  nearby_rate_centers:
+  - name: EAST TAWAS
+    distance_km: 0.75
+  - name: SANDLK HTS
+    distance_km: 15.68
+  - name: OSCODA
+    distance_km: 19.17
+- country: US
+  region: MI
+  name: Eastlake
+  lat: '44.2449'
+  long: "-86.2927"
+  nearby_rate_centers:
+  - name: MANISTEE
+    distance_km: 3.11
+  - name: ONEKAMA
+    distance_km: 15.33
+  - name: FREESOIL
+    distance_km: 17.53
+- country: US
+  region: MI
+  name: Eastpointe
+  lat: '42.4657'
+  long: "-82.9461"
+  nearby_rate_centers:
+  - name: ROSEVILLE
+    distance_km: 3.97
+  - name: CENTERLINE
+    distance_km: 7.85
+  - name: WARREN
+    distance_km: 10.43
+- country: US
+  region: MI
+  name: Eastport
+  lat: '45.1112'
+  long: "-85.3518"
+  nearby_rate_centers:
+  - name: EASTPORT
+    distance_km: 0.49
+  - name: CENTRAL LK
+    distance_km: 8.18
+  - name: ELLSWORTH
+    distance_km: 10.03
+- country: US
+  region: MI
+  name: Eastwood
+  lat: '42.3027'
+  long: "-85.5447"
+  nearby_rate_centers:
+  - name: KALAMAZOO
+    distance_km: 3.35
+  - name: GALESBURG
+    distance_km: 9.94
+  - name: RICHLAND
+    distance_km: 11.12
+- country: US
+  region: MI
+  name: Eaton Rapids
+  lat: '42.5091'
+  long: "-84.6531"
+  nearby_rate_centers:
+  - name: EATON RPD
+    distance_km: 0.34
+  - name: ONONDAGA
+    distance_km: 10.36
+  - name: DIMONDALE
+    distance_km: 14.55
+- country: US
+  region: MI
+  name: Eau Claire
+  lat: '41.9853'
+  long: "-86.3040"
+  nearby_rate_centers:
+  - name: EAU CLAIRE
+    distance_km: 0.26
+  - name: BERRIENSPG
+    distance_km: 4.76
+  - name: SISTER LKS
+    distance_km: 12.97
+- country: US
+  region: MI
+  name: Ecorse
+  lat: '42.2489'
+  long: "-83.1399"
+  nearby_rate_centers:
+  - name: WYANDOTTE
+    distance_km: 5.43
+  - name: DETROITZN1
+    distance_km: 11.79
+  - name: DETROITZN2
+    distance_km: 11.79
+  - name: DETROITZN3
+    distance_km: 11.79
+  - name: DETROITZN4
+    distance_km: 11.79
+  - name: DETROITZN5
+    distance_km: 11.79
+  - name: DETROITZN6
+    distance_km: 11.79
+  - name: TRENTON
+    distance_km: 12.25
+- country: US
+  region: MI
+  name: Edgemont Park
+  lat: '42.7468'
+  long: "-84.5926"
+  nearby_rate_centers:
+  - name: LANSING
+    distance_km: 3.55
+  - name: DE WITT
+    distance_km: 10.61
+  - name: GRANDLEDGE
+    distance_km: 12.66
+- country: US
+  region: MI
+  name: Edmore
+  lat: '43.4073'
+  long: "-85.0367"
+  nearby_rate_centers:
+  - name: EDMORE
+    distance_km: 0.5
+  - name: MCBRIDES
+    distance_km: 6.42
+  - name: SIX LAKES
+    distance_km: 9.6
+- country: US
+  region: MI
+  name: Edwardsburg
+  lat: '41.7965'
+  long: "-86.0836"
+  nearby_rate_centers:
+  - name: EDWARDSBG
+    distance_km: 0.11
+  - name: CASSOPOLIS
+    distance_km: 14.53
+  - name: NILES
+    distance_km: 15.1
+- country: US
+  region: MI
+  name: Elberta
+  lat: '44.6209'
+  long: "-86.2310"
+  nearby_rate_centers:
+  - name: FRANKFORT
+    distance_km: 1.69
+  - name: BEULAH
+    distance_km: 11.14
+  - name: HONOR
+    distance_km: 16.94
+- country: US
+  region: MI
+  name: Elk Rapids
+  lat: '44.8949'
+  long: "-85.4053"
+  nearby_rate_centers:
+  - name: ELK RAPIDS
+    distance_km: 0.97
+  - name: TRCHRIVBDG
+    distance_km: 8.03
+  - name: OLDMISSION
+    distance_km: 8.72
+- country: US
+  region: MI
+  name: Elkton
+  lat: '43.8183'
+  long: "-83.1809"
+  nearby_rate_centers:
+  - name: ELKTON
+    distance_km: 0.3
+  - name: PIGEON
+    distance_km: 7.09
+  - name: OWENDALE
+    distance_km: 12.53
+- country: US
+  region: MI
+  name: Ellsworth
+  lat: '45.1665'
+  long: "-85.2435"
+  nearby_rate_centers:
+  - name: ELLSWORTH
+    distance_km: 0.46
+  - name: EASTJORDAN
+    distance_km: 8.79
+  - name: EASTPORT
+    distance_km: 10.33
+- country: US
+  region: MI
+  name: Elm Hall
+  lat: '43.3624'
+  long: "-84.8335"
+  nearby_rate_centers:
+  - name: RIVERDALE
+    distance_km: 2.43
+  - name: VESTABURG
+    distance_km: 7.29
+  - name: CRYSTAL
+    distance_km: 12.74
+- country: US
+  region: MI
+  name: Elsie
+  lat: '43.0895'
+  long: "-84.3889"
+  nearby_rate_centers:
+  - name: ELSIE
+    distance_km: 0.94
+  - name: CHAPIN
+    distance_km: 8.54
+  - name: OVID
+    distance_km: 8.98
+- country: US
+  region: MI
+  name: Emmett
+  lat: '42.9934'
+  long: "-82.7653"
+  nearby_rate_centers:
+  - name: EMMETT
+    distance_km: 0.25
+  - name: GOODELLS
+    distance_km: 8.3
+  - name: AVOCA
+    distance_km: 9.6
+- country: US
+  region: MI
+  name: Empire
+  lat: '44.8126'
+  long: "-86.0594"
+  nearby_rate_centers:
+  - name: GLEN LAKE
+    distance_km: 9.48
+  - name: HONOR
+    distance_km: 16.44
+  - name: LAKE ANN
+    distance_km: 19.85
+- country: US
+  region: MI
+  name: Escanaba
+  lat: '45.7477'
+  long: "-87.0900"
+  nearby_rate_centers:
+  - name: ESCANABA
+    distance_km: 3.29
+  - name: GLADSTONE
+    distance_km: 12.94
+  - name: BARK RIVER
+    distance_km: 16.84
+- country: US
+  region: MI
+  name: Essexville
+  lat: '43.6123'
+  long: "-83.8423"
+  nearby_rate_centers:
+  - name: BAY CITY
+    distance_km: 3.64
+  - name: MUNGER
+    distance_km: 11.91
+  - name: LINWOOD
+    distance_km: 17.55
+- country: US
+  region: MI
+  name: Estral Beach
+  lat: '41.9869'
+  long: "-83.2357"
+  nearby_rate_centers:
+  - name: NEWPORT
+    distance_km: 5.31
+  - name: ROCKWOOD
+    distance_km: 9.07
+  - name: FLAT ROCK
+    distance_km: 13.26
+- country: US
+  region: MI
+  name: Eureka
+  lat: '43.1036'
+  long: "-84.5136"
+  nearby_rate_centers:
+  - name: ASHLEY
+    distance_km: 9.55
+  - name: ELSIE
+    distance_km: 10.78
+  - name: POMPEII
+    distance_km: 11.38
+- country: US
+  region: MI
+  name: Evart
+  lat: '43.9003'
+  long: "-85.2751"
+  nearby_rate_centers:
+  - name: EVART
+    distance_km: 0.61
+  - name: CHIPPEWALK
+    distance_km: 17.74
+  - name: REED CITY
+    distance_km: 18.97
+- country: US
+  region: MI
+  name: Ewen
+  lat: '46.5331'
+  long: "-89.2852"
+  nearby_rate_centers:
+  - name: EWEN
+    distance_km: 0.11
+  - name: BRUCECRSNG
+    distance_km: 8.4
+  - name: TROUTCREEK
+    distance_km: 21.77
+- country: US
+  region: MI
+  name: Fair Plain
+  lat: '42.0823'
+  long: "-86.4516"
+  nearby_rate_centers:
+  - name: BENTON HBR
+    distance_km: 3.92
+  - name: ST JOSEPH
+    distance_km: 4.03
+  - name: BARODA
+    distance_km: 14.45
+- country: US
+  region: MI
+  name: Fairgrove
+  lat: '43.5245'
+  long: "-83.5434"
+  nearby_rate_centers:
+  - name: FAIRGROVE
+    distance_km: 0.93
+  - name: AKRON
+    distance_km: 4.93
+  - name: CARO
+    distance_km: 12.1
+- country: US
+  region: MI
+  name: Falmouth
+  lat: '44.2429'
+  long: "-85.0848"
+  nearby_rate_centers:
+  - name: FALMOUTH
+    distance_km: 0.28
+  - name: MCBAIN
+    distance_km: 11.88
+  - name: LAKE CITY
+    distance_km: 14.12
+- country: US
+  region: MI
+  name: Farmington
+  lat: '42.4614'
+  long: "-83.3784"
+  nearby_rate_centers:
+  - name: FARMINGTON
+    distance_km: 0.53
+  - name: W BLOOMFLD
+    distance_km: 7.81
+  - name: NORTHVILLE
+    distance_km: 9.07
+- country: US
+  region: MI
+  name: Farmington Hills
+  lat: '42.4860'
+  long: "-83.3771"
+  nearby_rate_centers:
+  - name: FARMINGTON
+    distance_km: 2.29
+  - name: W BLOOMFLD
+    distance_km: 5.09
+  - name: SOUTHFIELD
+    distance_km: 9.7
+- country: US
+  region: MI
+  name: Farwell
+  lat: '43.8363'
+  long: "-84.8677"
+  nearby_rate_centers:
+  - name: FARWELL
+    distance_km: 0.14
+  - name: CLARE
+    distance_km: 8.51
+  - name: ROSEBUSH
+    distance_km: 17.11
+- country: US
+  region: MI
+  name: Fennville
+  lat: '42.5947'
+  long: "-86.1051"
+  nearby_rate_centers:
+  - name: FENNVILLE
+    distance_km: 0.45
+  - name: SAUGATUCK
+    distance_km: 10.19
+  - name: GANGES
+    distance_km: 10.26
+- country: US
+  region: MI
+  name: Fenton
+  lat: '42.7994'
+  long: "-83.7144"
+  nearby_rate_centers:
+  - name: FENTON
+    distance_km: 1.68
+  - name: LINDEN
+    distance_km: 5.5
+  - name: HOLLY
+    distance_km: 7.34
+- country: US
+  region: MI
+  name: Ferndale
+  lat: '42.4592'
+  long: "-83.1313"
+  nearby_rate_centers:
+  - name: ROYAL OAK
+    distance_km: 2.68
+  - name: CENTERLINE
+    distance_km: 8.68
+  - name: WARREN
+    distance_km: 10.51
+- country: US
+  region: MI
+  name: Ferrysburg
+  lat: '43.0850'
+  long: "-86.2221"
+  nearby_rate_centers:
+  - name: GRANDHAVEN
+    distance_km: 2.14
+  - name: FRUITPORT
+    distance_km: 6.54
+  - name: MUSKEGON
+    distance_km: 16.83
+- country: US
+  region: MI
+  name: Fife Lake
+  lat: '44.5731'
+  long: "-85.3511"
+  nearby_rate_centers:
+  - name: FIFE LAKE
+    distance_km: 0.18
+  - name: SOBOARDMAN
+    distance_km: 9.28
+  - name: KINGSLEY
+    distance_km: 14.39
+- country: US
+  region: MI
+  name: Filer City
+  lat: '44.2149'
+  long: "-86.2890"
+  nearby_rate_centers:
+  - name: MANISTEE
+    distance_km: 5.09
+  - name: FREESOIL
+    distance_km: 14.33
+  - name: ONEKAMA
+    distance_km: 18.24
+- country: US
+  region: MI
+  name: Flat Rock
+  lat: '42.0991'
+  long: "-83.2716"
+  nearby_rate_centers:
+  - name: FLAT ROCK
+    distance_km: 0.8
+  - name: ROCKWOOD
+    distance_km: 4.17
+  - name: TRENTON
+    distance_km: 8.86
+- country: US
+  region: MI
+  name: Flint
+  lat: '43.0236'
+  long: "-83.6921"
+  nearby_rate_centers:
+  - name: FLINT
+    distance_km: 0.84
+  - name: GRANDBLANC
+    distance_km: 12.16
+  - name: RANKIN
+    distance_km: 12.6
+- country: US
+  region: MI
+  name: Flushing
+  lat: '43.0637'
+  long: "-83.8403"
+  nearby_rate_centers:
+  - name: FLUSHING
+    distance_km: 0.88
+  - name: LENNON
+    distance_km: 11.09
+  - name: NEWLOTHROP
+    distance_km: 11.64
+- country: US
+  region: MI
+  name: Forest Hills
+  lat: '42.9577'
+  long: "-85.4895"
+  nearby_rate_centers:
+  - name: ADA
+    distance_km: 1.06
+  - name: LOWELL
+    distance_km: 12.37
+  - name: GRAND RPDS
+    distance_km: 14.31
+- country: US
+  region: MI
+  name: Forestville
+  lat: '43.6599'
+  long: "-82.6126"
+  nearby_rate_centers:
+  - name: MINDENCITY
+    distance_km: 13.15
+  - name: DECKERVL
+    distance_km: 17.68
+  - name: HARBOR BCH
+    distance_km: 20.25
+- country: US
+  region: MI
+  name: Fostoria
+  lat: '43.2492'
+  long: "-83.3720"
+  nearby_rate_centers:
+  - name: FOSTORIA
+    distance_km: 0.13
+  - name: MAYVILLE
+    distance_km: 9.69
+  - name: COLUMBIAVL
+    distance_km: 11.21
+- country: US
+  region: MI
+  name: Fountain
+  lat: '44.0484'
+  long: "-86.1810"
+  nearby_rate_centers:
+  - name: FOUNTAIN
+    distance_km: 0.58
+  - name: FREESOIL
+    distance_km: 6.09
+  - name: SCOTTVILLE
+    distance_km: 13.7
+- country: US
+  region: MI
+  name: Fowler
+  lat: '43.0041'
+  long: "-84.7411"
+  nearby_rate_centers:
+  - name: FOWLERPWMO
+    distance_km: 2.23
+  - name: WESTPHALIA
+    distance_km: 10.21
+  - name: MAPLE RPD
+    distance_km: 11.44
+- country: US
+  region: MI
+  name: Fowlerville
+  lat: '42.6596'
+  long: "-84.0743"
+  nearby_rate_centers:
+  - name: FOWLERVL
+    distance_km: 0.24
+  - name: WEBBERVL
+    distance_km: 8.21
+  - name: BELL OAK
+    distance_km: 10.89
+- country: US
+  region: MI
+  name: Frankenmuth
+  lat: '43.3322'
+  long: "-83.7391"
+  nearby_rate_centers:
+  - name: FRANKENMTH
+    distance_km: 0.4
+  - name: BIRCH RUN
+    distance_km: 10.18
+  - name: VASSAR
+    distance_km: 13.19
+- country: US
+  region: MI
+  name: Frankfort
+  lat: '44.6361'
+  long: "-86.2332"
+  nearby_rate_centers:
+  - name: FRANKFORT
+    distance_km: 1.03
+  - name: BEULAH
+    distance_km: 11.4
+  - name: HONOR
+    distance_km: 16.68
+- country: US
+  region: MI
+  name: Franklin
+  lat: '42.5187'
+  long: "-83.3030"
+  nearby_rate_centers:
+  - name: W BLOOMFLD
+    distance_km: 5.28
+  - name: SOUTHFIELD
+    distance_km: 5.31
+  - name: BIRMINGHAM
+    distance_km: 7.32
+- country: US
+  region: MI
+  name: Fraser
+  lat: '42.5388'
+  long: "-82.9496"
+  nearby_rate_centers:
+  - name: ROSEVILLE
+    distance_km: 4.48
+  - name: WARREN
+    distance_km: 7.7
+  - name: MT CLEMENS
+    distance_km: 7.96
+- country: US
+  region: MI
+  name: Free Soil
+  lat: '44.1071'
+  long: "-86.2110"
+  nearby_rate_centers:
+  - name: FREESOIL
+    distance_km: 1.17
+  - name: FOUNTAIN
+    distance_km: 6.39
+  - name: IRONS
+    distance_km: 18.33
+- country: US
+  region: MI
+  name: Freeland
+  lat: '43.5198'
+  long: "-84.1124"
+  nearby_rate_centers:
+  - name: FREELAND
+    distance_km: 0.44
+  - name: AUBURN
+    distance_km: 9.48
+  - name: HEMLOCK
+    distance_km: 14.91
+- country: US
+  region: MI
+  name: Freeport
+  lat: '42.7642'
+  long: "-85.3160"
+  nearby_rate_centers:
+  - name: FREEPORT
+    distance_km: 0.48
+  - name: CLARKSVL
+    distance_km: 10.69
+  - name: ALTO
+    distance_km: 10.92
+- country: US
+  region: MI
+  name: Fremont
+  lat: '43.4633'
+  long: "-85.9537"
+  nearby_rate_centers:
+  - name: FREMONT
+    distance_km: 1.1
+  - name: HOLTON
+    distance_km: 11.8
+  - name: HESPERIA
+    distance_km: 13.12
+- country: US
+  region: MI
+  name: Fruitport
+  lat: '43.1248'
+  long: "-86.1561"
+  nearby_rate_centers:
+  - name: FRUITPORT
+    distance_km: 0.47
+  - name: GRANDHAVEN
+    distance_km: 8.71
+  - name: MUSKEGON
+    distance_km: 14.15
+- country: US
+  region: MI
+  name: Fulton
+  lat: '47.2992'
+  long: "-88.3607"
+  nearby_rate_centers:
+  - name: CALUMET
+    distance_km: 9.64
+  - name: LAKELINDEN
+    distance_km: 12.72
+  - name: HOUGHTON
+    distance_km: 25.08
+- country: US
+  region: MI
+  name: Gaastra
+  lat: '46.0557'
+  long: "-88.6050"
+  nearby_rate_centers:
+  - name: IRON RIVER
+    distance_km: 3.85
+  - name: CRYSTALFLS
+    distance_km: 21.08
+  - name: AMASA
+    distance_km: 22.5
+- country: US
+  region: MI
+  name: Gagetown
+  lat: '43.6572'
+  long: "-83.2449"
+  nearby_rate_centers:
+  - name: GAGETOWN
+    distance_km: 1.05
+  - name: OWENDALE
+    distance_km: 7.62
+  - name: CASS CITY
+    distance_km: 8.37
+- country: US
+  region: MI
+  name: Gaines
+  lat: '42.8725'
+  long: "-83.9108"
+  nearby_rate_centers:
+  - name: GAINES
+    distance_km: 1.08
+  - name: BYRON
+    distance_km: 5.72
+  - name: DURAND
+    distance_km: 7.43
+- country: US
+  region: MI
+  name: Galesburg
+  lat: '42.2911'
+  long: "-85.4182"
+  nearby_rate_centers:
+  - name: GALESBURG
+    distance_km: 0.61
+  - name: AUGUSTA
+    distance_km: 7.12
+  - name: CLIMAX
+    distance_km: 8.69
+- country: US
+  region: MI
+  name: Galien
+  lat: '41.8015'
+  long: "-86.4995"
+  nearby_rate_centers:
+  - name: GALIEN
+    distance_km: 0.06
+  - name: THREE OAKS
+    distance_km: 8.97
+  - name: BUCHANAN
+    distance_km: 11.85
+- country: US
+  region: MI
+  name: Garden
+  lat: '45.7730'
+  long: "-86.5529"
+  nearby_rate_centers:
+  - name: GARDEN
+    distance_km: 0.56
+  - name: MANISTIQUE
+    distance_km: 31.12
+  - name: RAPIDRIVER
+    distance_km: 36.13
+- country: US
+  region: MI
+  name: Garden City
+  lat: '42.3244'
+  long: "-83.3412"
+  nearby_rate_centers:
+  - name: LIVONIA
+    distance_km: 3.63
+  - name: WAYNE
+    distance_km: 6.42
+  - name: ROMULUS
+    distance_km: 11.75
+- country: US
+  region: MI
+  name: Gaylord
+  lat: '45.0208'
+  long: "-84.6809"
+  nearby_rate_centers:
+  - name: GAYLORD
+    distance_km: 0.69
+  - name: VANDERBILT
+    distance_km: 13.36
+  - name: ELMIRA
+    distance_km: 14.3
+- country: US
+  region: MI
+  name: Gibraltar
+  lat: '42.0960'
+  long: "-83.2029"
+  nearby_rate_centers:
+  - name: ROCKWOOD
+    distance_km: 4.51
+  - name: TRENTON
+    distance_km: 5.52
+  - name: FLAT ROCK
+    distance_km: 6.45
+- country: US
+  region: MI
+  name: Gladstone
+  lat: '45.8521'
+  long: "-87.0358"
+  nearby_rate_centers:
+  - name: GLADSTONE
+    distance_km: 2.06
+  - name: RAPIDRIVER
+    distance_km: 9.51
+  - name: ESCANABA
+    distance_km: 12.13
+- country: US
+  region: MI
+  name: Gladwin
+  lat: '43.9837'
+  long: "-84.4876"
+  nearby_rate_centers:
+  - name: GLADWIN
+    distance_km: 0.36
+  - name: BEAVERTON
+    distance_km: 11.25
+  - name: HARRISON
+    distance_km: 25.39
+- country: US
+  region: MI
+  name: Glen Arbor
+  lat: '44.8960'
+  long: "-85.9899"
+  nearby_rate_centers:
+  - name: GLEN LAKE
+    distance_km: 6.23
+  - name: LAKE ANN
+    distance_km: 22.42
+  - name: LKLEELANAU
+    distance_km: 23.53
+- country: US
+  region: MI
+  name: Gobles
+  lat: '42.3617'
+  long: "-85.8774"
+  nearby_rate_centers:
+  - name: GOBLES
+    distance_km: 0.51
+  - name: BLOOMINGDL
+    distance_km: 7.19
+  - name: PAW PAW
+    distance_km: 16.28
+- country: US
+  region: MI
+  name: Goodrich
+  lat: '42.9147'
+  long: "-83.5092"
+  nearby_rate_centers:
+  - name: GOODRICH
+    distance_km: 0.18
+  - name: ORTONVILLE
+    distance_km: 9.27
+  - name: HADLEY
+    distance_km: 9.63
+- country: US
+  region: MI
+  name: Grand Beach
+  lat: '41.7740'
+  long: "-86.7887"
+  nearby_rate_centers:
+  - name: NEWBUFFALO
+    distance_km: 4.38
+  - name: THREE OAKS
+    distance_km: 15.25
+  - name: SAWYER
+    distance_km: 20.16
+- country: US
+  region: MI
+  name: Grand Blanc
+  lat: '42.9258'
+  long: "-83.6181"
+  nearby_rate_centers:
+  - name: GRANDBLANC
+    distance_km: 1.32
+  - name: GOODRICH
+    distance_km: 9.0
+  - name: RANKIN
+    distance_km: 10.07
+- country: US
+  region: MI
+  name: Grand Haven
+  lat: '43.0553'
+  long: "-86.2201"
+  nearby_rate_centers:
+  - name: GRANDHAVEN
+    distance_km: 1.34
+  - name: FRUITPORT
+    distance_km: 8.98
+  - name: MUSKEGON
+    distance_km: 20.14
+- country: US
+  region: MI
+  name: Grand Ledge
+  lat: '42.7534'
+  long: "-84.7448"
+  nearby_rate_centers:
+  - name: GRANDLEDGE
+    distance_km: 0.3
+  - name: MULLIKEN
+    distance_km: 12.29
+  - name: POTTERVL
+    distance_km: 14.25
+- country: US
+  region: MI
+  name: Grand Marais
+  lat: '46.6685'
+  long: "-85.9751"
+  nearby_rate_centers:
+  - name: GRANDMRAIS
+    distance_km: 0.45
+  - name: DEER PARK
+    distance_km: 28.81
+  - name: SENEY
+    distance_km: 36.38
+- country: US
+  region: MI
+  name: Grand Rapids
+  lat: '42.9619'
+  long: "-85.6562"
+  nearby_rate_centers:
+  - name: GRAND RPDS
+    distance_km: 0.91
+  - name: ADA
+    distance_km: 13.4
+  - name: DUTTON
+    distance_km: 14.61
+- country: US
+  region: MI
+  name: Grandville
+  lat: '42.9004'
+  long: "-85.7564"
+  nearby_rate_centers:
+  - name: HUDSONVL
+    distance_km: 9.72
+  - name: GRAND RPDS
+    distance_km: 10.51
+  - name: BYRON CTR
+    distance_km: 10.8
+- country: US
+  region: MI
+  name: Grant
+  lat: '43.3348'
+  long: "-85.8094"
+  nearby_rate_centers:
+  - name: GRANT
+    distance_km: 0.28
+  - name: NEWAYGO
+    distance_km: 8.98
+  - name: CASNOVIA
+    distance_km: 11.58
+- country: US
+  region: MI
+  name: Grass Lake
+  lat: '42.2511'
+  long: "-84.2073"
+  nearby_rate_centers:
+  - name: GRASS LAKE
+    distance_km: 0.41
+  - name: NAPOLEON
+    distance_km: 9.92
+  - name: MUNITH
+    distance_km: 14.98
+- country: US
+  region: MI
+  name: Grawn
+  lat: '44.6611'
+  long: "-85.6883"
+  nearby_rate_centers:
+  - name: INTERLOCHN
+    distance_km: 6.21
+  - name: TRAVERSECY
+    distance_km: 13.5
+  - name: LAKE ANN
+    distance_km: 13.96
+- country: US
+  region: MI
+  name: Grayling
+  lat: '44.6566'
+  long: "-84.7091"
+  nearby_rate_centers:
+  - name: GRAYLING
+    distance_km: 1.4
+  - name: MANISTE RV
+    distance_km: 16.74
+  - name: ROSCOMMON
+    distance_km: 19.53
+- country: US
+  region: MI
+  name: Greenland
+  lat: '46.7803'
+  long: "-89.0954"
+  nearby_rate_centers:
+  - name: MASS
+    distance_km: 2.28
+  - name: ROCKLAND
+    distance_km: 7.91
+  - name: ONTONAGON
+    distance_km: 19.25
+- country: US
+  region: MI
+  name: Greenville
+  lat: '43.1797'
+  long: "-85.2534"
+  nearby_rate_centers:
+  - name: GREENVILLE
+    distance_km: 0.35
+  - name: BELDING
+    distance_km: 10.18
+  - name: SIDNEY
+    distance_km: 12.43
+- country: US
+  region: MI
+  name: Greilickville
+  lat: '44.8050'
+  long: "-85.6634"
+  nearby_rate_centers:
+  - name: TRAVERSECY
+    distance_km: 6.1
+  - name: OLDMISSION
+    distance_km: 15.01
+  - name: LAKE ANN
+    distance_km: 16.63
+- country: US
+  region: MI
+  name: Grosse Pointe
+  lat: '42.3915'
+  long: "-82.9118"
+  nearby_rate_centers:
+  - name: ROSEVILLE
+    distance_km: 12.22
+  - name: DETROITZN1
+    distance_km: 13.18
+  - name: DETROITZN2
+    distance_km: 13.18
+  - name: DETROITZN3
+    distance_km: 13.18
+  - name: DETROITZN4
+    distance_km: 13.18
+  - name: DETROITZN5
+    distance_km: 13.18
+  - name: DETROITZN6
+    distance_km: 13.18
+  - name: CENTERLINE
+    distance_km: 15.05
+- country: US
+  region: MI
+  name: Grosse Pointe Farms
+  lat: '42.4068'
+  long: "-82.8993"
+  nearby_rate_centers:
+  - name: ROSEVILLE
+    distance_km: 10.77
+  - name: CENTERLINE
+    distance_km: 14.6
+  - name: DETROITZN1
+    distance_km: 14.95
+  - name: DETROITZN2
+    distance_km: 14.95
+  - name: DETROITZN3
+    distance_km: 14.95
+  - name: DETROITZN4
+    distance_km: 14.95
+  - name: DETROITZN5
+    distance_km: 14.95
+  - name: DETROITZN6
+    distance_km: 14.95
+- country: US
+  region: MI
+  name: Grosse Pointe Park
+  lat: '42.3794'
+  long: "-82.9287"
+  nearby_rate_centers:
+  - name: DETROITZN1
+    distance_km: 11.31
+  - name: DETROITZN2
+    distance_km: 11.31
+  - name: DETROITZN3
+    distance_km: 11.31
+  - name: DETROITZN4
+    distance_km: 11.31
+  - name: DETROITZN5
+    distance_km: 11.31
+  - name: DETROITZN6
+    distance_km: 11.31
+  - name: ROSEVILLE
+    distance_km: 13.44
+  - name: CENTERLINE
+    distance_km: 15.23
+- country: US
+  region: MI
+  name: Grosse Pointe Woods
+  lat: '42.4366'
+  long: "-82.8987"
+  nearby_rate_centers:
+  - name: ROSEVILLE
+    distance_km: 7.64
+  - name: CENTERLINE
+    distance_km: 12.75
+  - name: WARREN
+    distance_km: 15.49
+- country: US
+  region: MI
+  name: Gwinn
+  lat: '46.2858'
+  long: "-87.4425"
+  nearby_rate_centers:
+  - name: GWINN
+    distance_km: 0.4
+  - name: SKANDIA
+    distance_km: 18.36
+  - name: MICHIGMFOR
+    distance_km: 25.65
+- country: US
+  region: MI
+  name: Hamtramck
+  lat: '42.3954'
+  long: "-83.0559"
+  nearby_rate_centers:
+  - name: DETROITZN1
+    distance_km: 7.1
+  - name: DETROITZN2
+    distance_km: 7.1
+  - name: DETROITZN3
+    distance_km: 7.1
+  - name: DETROITZN4
+    distance_km: 7.1
+  - name: DETROITZN5
+    distance_km: 7.1
+  - name: DETROITZN6
+    distance_km: 7.1
+  - name: CENTERLINE
+    distance_km: 10.84
+  - name: ROYAL OAK
+    distance_km: 11.77
+- country: US
+  region: MI
+  name: Hancock
+  lat: '47.1367'
+  long: "-88.5979"
+  nearby_rate_centers:
+  - name: HOUGHTON
+    distance_km: 3.73
+  - name: LAKELINDEN
+    distance_km: 15.35
+  - name: CALUMET
+    distance_km: 15.88
+- country: US
+  region: MI
+  name: Hanover
+  lat: '42.1001'
+  long: "-84.5542"
+  nearby_rate_centers:
+  - name: HANOVER
+    distance_km: 6.5
+  - name: BUNDY HILL
+    distance_km: 9.09
+  - name: MOSHERVL
+    distance_km: 9.85
+- country: US
+  region: MI
+  name: Harbor Beach
+  lat: '43.8451'
+  long: "-82.6563"
+  nearby_rate_centers:
+  - name: HARBOR BCH
+    distance_km: 0.68
+  - name: PORT HOPE
+    distance_km: 11.74
+  - name: MINDENCITY
+    distance_km: 22.25
+- country: US
+  region: MI
+  name: Harbor Springs
+  lat: '45.4326'
+  long: "-84.9890"
+  nearby_rate_centers:
+  - name: HARBOR SPG
+    distance_km: 0.19
+  - name: PETOSKEY
+    distance_km: 7.25
+  - name: ALANSON
+    distance_km: 15.63
+- country: US
+  region: MI
+  name: Hardwood Acres
+  lat: '44.7213'
+  long: "-85.8263"
+  nearby_rate_centers:
+  - name: LAKE ANN
+    distance_km: 1.2
+  - name: INTERLOCHN
+    distance_km: 9.1
+  - name: HONOR
+    distance_km: 16.97
+- country: US
+  region: MI
+  name: Haring
+  lat: '44.2819'
+  long: "-85.4007"
+  nearby_rate_centers:
+  - name: CADILLAC
+    distance_km: 3.7
+  - name: MANTON
+    distance_km: 13.96
+  - name: LAKE CITY
+    distance_km: 16.37
+- country: US
+  region: MI
+  name: Harper Woods
+  lat: '42.4390'
+  long: "-82.9293"
+  nearby_rate_centers:
+  - name: ROSEVILLE
+    distance_km: 6.82
+  - name: CENTERLINE
+    distance_km: 10.47
+  - name: WARREN
+    distance_km: 13.49
+- country: US
+  region: MI
+  name: Harrietta
+  lat: '44.3091'
+  long: "-85.7007"
+  nearby_rate_centers:
+  - name: HARRIETTA
+    distance_km: 0.23
+  - name: MESICK
+    distance_km: 10.0
+  - name: HOXEYVILLE
+    distance_km: 14.22
+- country: US
+  region: MI
+  name: Harrison
+  lat: '44.0168'
+  long: "-84.8080"
+  nearby_rate_centers:
+  - name: HARRISON
+    distance_km: 0.5
+  - name: FARWELL
+    distance_km: 20.71
+  - name: CLARE
+    distance_km: 22.74
+- country: US
+  region: MI
+  name: Harrisville
+  lat: '44.6575'
+  long: "-83.2945"
+  nearby_rate_centers:
+  - name: HARRISVL
+    distance_km: 0.22
+  - name: LINCOLN
+    distance_km: 9.59
+  - name: OSCODA
+    distance_km: 26.94
+- country: US
+  region: MI
+  name: Hart
+  lat: '43.6955'
+  long: "-86.3679"
+  nearby_rate_centers:
+  - name: HART
+    distance_km: 0.48
+  - name: SHELBY
+    distance_km: 9.65
+  - name: PENTWATER
+    distance_km: 10.7
+- country: US
+  region: MI
+  name: Hartford
+  lat: '42.2047'
+  long: "-86.1661"
+  nearby_rate_centers:
+  - name: HARTFORD
+    distance_km: 0.5
+  - name: WATERVLIET
+    distance_km: 8.49
+  - name: LAWRENCE
+    distance_km: 9.63
+- country: US
+  region: MI
+  name: Hartland
+  lat: '42.6597'
+  long: "-83.7446"
+  nearby_rate_centers:
+  - name: HARTLAND
+    distance_km: 0.96
+  - name: BRIGHTON
+    distance_km: 14.48
+  - name: MILFDWH LK
+    distance_km: 14.68
+- country: US
+  region: MI
+  name: Harvey
+  lat: '46.4832'
+  long: "-87.3569"
+  nearby_rate_centers:
+  - name: MARQUETTE
+    distance_km: 6.87
+  - name: SKANDIA
+    distance_km: 14.97
+  - name: NEGAUNEE
+    distance_km: 19.34
+- country: US
+  region: MI
+  name: Haslett
+  lat: '42.7525'
+  long: "-84.4020"
+  nearby_rate_centers:
+  - name: BATH
+    distance_km: 8.18
+  - name: SHAFTSBURG
+    distance_km: 10.6
+  - name: WILLIAMSTN
+    distance_km: 11.82
+- country: US
+  region: MI
+  name: Hastings
+  lat: '42.6498'
+  long: "-85.2886"
+  nearby_rate_centers:
+  - name: HASTINGS
+    distance_km: 0.2
+  - name: FREEPORT
+    distance_km: 13.39
+  - name: WOODLAND
+    distance_km: 15.03
+- country: US
+  region: MI
+  name: Hazel Park
+  lat: '42.4619'
+  long: "-83.0977"
+  nearby_rate_centers:
+  - name: ROYAL OAK
+    distance_km: 3.95
+  - name: CENTERLINE
+    distance_km: 6.11
+  - name: WARREN
+    distance_km: 8.56
+- country: US
+  region: MI
+  name: Hemlock
+  lat: '43.4186'
+  long: "-84.2311"
+  nearby_rate_centers:
+  - name: HEMLOCK
+    distance_km: 0.18
+  - name: MERRILL
+    distance_km: 8.38
+  - name: FREELAND
+    distance_km: 14.86
+- country: US
+  region: MI
+  name: Henderson
+  lat: '43.0872'
+  long: "-84.1933"
+  nearby_rate_centers:
+  - name: OWOSSO
+    distance_km: 9.74
+  - name: CHAPIN
+    distance_km: 10.03
+  - name: CHESANING
+    distance_km: 12.11
+- country: US
+  region: MI
+  name: Hermansville
+  lat: '45.7093'
+  long: "-87.6079"
+  nearby_rate_centers:
+  - name: HERMANSVL
+    distance_km: 0.84
+  - name: POWERS
+    distance_km: 6.96
+  - name: FAITHORN
+    distance_km: 11.29
+- country: US
+  region: MI
+  name: Hersey
+  lat: '43.8513'
+  long: "-85.4419"
+  nearby_rate_centers:
+  - name: REED CITY
+    distance_km: 5.89
+  - name: EVART
+    distance_km: 15.03
+  - name: CHIPPEWALK
+    distance_km: 17.16
+- country: US
+  region: MI
+  name: Hesperia
+  lat: '43.5691'
+  long: "-86.0407"
+  nearby_rate_centers:
+  - name: HESPERIA
+    distance_km: 0.85
+  - name: FREMONT
+    distance_km: 13.85
+  - name: HOLTON
+    distance_km: 17.55
+- country: US
+  region: MI
+  name: Hickory Corners
+  lat: '42.4363'
+  long: "-85.3793"
+  nearby_rate_centers:
+  - name: HICKORYCOR
+    distance_km: 0.82
+  - name: DELTON
+    distance_km: 7.47
+  - name: RICHLAND
+    distance_km: 9.04
+- country: US
+  region: MI
+  name: Highland Park
+  lat: '42.4052'
+  long: "-83.0977"
+  nearby_rate_centers:
+  - name: DETROITZN1
+    distance_km: 9.06
+  - name: DETROITZN2
+    distance_km: 9.06
+  - name: DETROITZN3
+    distance_km: 9.06
+  - name: DETROITZN4
+    distance_km: 9.06
+  - name: DETROITZN5
+    distance_km: 9.06
+  - name: DETROITZN6
+    distance_km: 9.06
+  - name: ROYAL OAK
+    distance_km: 9.22
+  - name: CENTERLINE
+    distance_km: 10.9
+- country: US
+  region: MI
+  name: Hillman
+  lat: '45.0648'
+  long: "-83.8974"
+  nearby_rate_centers:
+  - name: HILLMAN
+    distance_km: 0.65
+  - name: LACHINE
+    distance_km: 14.15
+  - name: ATLANTA
+    distance_km: 21.14
+- country: US
+  region: MI
+  name: Hillsdale
+  lat: '41.9267'
+  long: "-84.6356"
+  nearby_rate_centers:
+  - name: HILLSDALE
+    distance_km: 1.26
+  - name: JONESVILLE
+    distance_km: 6.75
+  - name: OSSEO
+    distance_km: 9.25
+- country: US
+  region: MI
+  name: Holland
+  lat: '42.7677'
+  long: "-86.0984"
+  nearby_rate_centers:
+  - name: HOLLAND
+    distance_km: 2.69
+  - name: ZEELAND
+    distance_km: 8.3
+  - name: HAMILTON
+    distance_km: 12.57
+- country: US
+  region: MI
+  name: Holly
+  lat: '42.7987'
+  long: "-83.6220"
+  nearby_rate_centers:
+  - name: HOLLY
+    distance_km: 0.96
+  - name: FENTON
+    distance_km: 6.28
+  - name: LINDEN
+    distance_km: 12.78
+- country: US
+  region: MI
+  name: Holt
+  lat: '42.6416'
+  long: "-84.5308"
+  nearby_rate_centers:
+  - name: HOLT
+    distance_km: 1.13
+  - name: DIMONDALE
+    distance_km: 9.62
+  - name: LANSING
+    distance_km: 10.29
+- country: US
+  region: MI
+  name: Homer
+  lat: '42.1461'
+  long: "-84.8103"
+  nearby_rate_centers:
+  - name: HOMER
+    distance_km: 0.37
+  - name: ALBION
+    distance_km: 11.71
+  - name: LITCHFIELD
+    distance_km: 12.32
+- country: US
+  region: MI
+  name: Honor
+  lat: '44.6666'
+  long: "-86.0201"
+  nearby_rate_centers:
+  - name: HONOR
+    distance_km: 0.52
+  - name: BEULAH
+    distance_km: 7.35
+  - name: LAKE ANN
+    distance_km: 15.56
+- country: US
+  region: MI
+  name: Hopkins
+  lat: '42.6251'
+  long: "-85.7633"
+  nearby_rate_centers:
+  - name: HOPKINS
+    distance_km: 0.68
+  - name: WAYLAND
+    distance_km: 10.07
+  - name: DORR
+    distance_km: 11.6
+- country: US
+  region: MI
+  name: Horton Bay
+  lat: '45.2814'
+  long: "-85.0742"
+  nearby_rate_centers:
+  - name: BOYNE CITY
+    distance_km: 8.22
+  - name: WALLOON LK
+    distance_km: 11.1
+  - name: PETOSKEY
+    distance_km: 14.09
+- country: US
+  region: MI
+  name: Houghton
+  lat: '47.1118'
+  long: "-88.5675"
+  nearby_rate_centers:
+  - name: HOUGHTON
+    distance_km: 0.99
+  - name: LAKELINDEN
+    distance_km: 14.71
+  - name: CALUMET
+    distance_km: 16.83
+- country: US
+  region: MI
+  name: Houghton Lake
+  lat: '44.3019'
+  long: "-84.7491"
+  nearby_rate_centers:
+  - name: HOUGHTONLK
+    distance_km: 0.53
+  - name: MERRITT
+    distance_km: 15.77
+  - name: HIGGINS LK
+    distance_km: 17.61
+- country: US
+  region: MI
+  name: Howard City
+  lat: '43.3947'
+  long: "-85.4683"
+  nearby_rate_centers:
+  - name: HOWARDCITY
+    distance_km: 0.39
+  - name: CORAL
+    distance_km: 7.08
+  - name: AMBLE
+    distance_km: 8.18
+- country: US
+  region: MI
+  name: Howell
+  lat: '42.6078'
+  long: "-83.9339"
+  nearby_rate_centers:
+  - name: HOWELL
+    distance_km: 0.91
+  - name: FOWLERVL
+    distance_km: 12.61
+  - name: BRIGHTON
+    distance_km: 14.92
+- country: US
+  region: MI
+  name: Hubbard Lake
+  lat: '44.8108'
+  long: "-83.5605"
+  nearby_rate_centers:
+  - name: HUBBARD LK
+    distance_km: 7.7
+  - name: OSSINEKE
+    distance_km: 16.35
+  - name: LINCOLN
+    distance_km: 18.39
+- country: US
+  region: MI
+  name: Hubbardston
+  lat: '43.0943'
+  long: "-84.8420"
+  nearby_rate_centers:
+  - name: HUBBARDSTN
+    distance_km: 0.81
+  - name: CARSONCITY
+    distance_km: 8.71
+  - name: PALO
+    distance_km: 11.79
+- country: US
+  region: MI
+  name: Hubbell
+  lat: '47.1770'
+  long: "-88.4360"
+  nearby_rate_centers:
+  - name: LAKELINDEN
+    distance_km: 2.4
+  - name: CALUMET
+    distance_km: 7.68
+  - name: HOUGHTON
+    distance_km: 11.32
+- country: US
+  region: MI
+  name: Hudson
+  lat: '41.8569'
+  long: "-84.3451"
+  nearby_rate_centers:
+  - name: HUDSON
+    distance_km: 1.55
+  - name: CLAYTON
+    distance_km: 9.27
+  - name: PRATTVILLE
+    distance_km: 10.13
+- country: US
+  region: MI
+  name: Hudsonville
+  lat: '42.8632'
+  long: "-85.8627"
+  nearby_rate_centers:
+  - name: HUDSONVL
+    distance_km: 0.27
+  - name: JAMESTOWN
+    distance_km: 4.87
+  - name: DRENTHE
+    distance_km: 10.8
+- country: US
+  region: MI
+  name: Huntington Woods
+  lat: '42.4816'
+  long: "-83.1685"
+  nearby_rate_centers:
+  - name: ROYAL OAK
+    distance_km: 2.64
+  - name: SOUTHFIELD
+    distance_km: 7.41
+  - name: BIRMINGHAM
+    distance_km: 7.83
+- country: US
+  region: MI
+  name: Hurontown
+  lat: '47.1091'
+  long: "-88.5737"
+  nearby_rate_centers:
+  - name: HOUGHTON
+    distance_km: 1.54
+  - name: LAKELINDEN
+    distance_km: 15.27
+  - name: CALUMET
+    distance_km: 17.32
+- country: US
+  region: MI
+  name: Ida
+  lat: '41.9063'
+  long: "-83.5719"
+  nearby_rate_centers:
+  - name: IDA
+    distance_km: 0.45
+  - name: DUNDEE
+    distance_km: 9.39
+  - name: MAYBEE
+    distance_km: 11.57
+- country: US
+  region: MI
+  name: Imlay City
+  lat: '43.0171'
+  long: "-83.0771"
+  nearby_rate_centers:
+  - name: IMLAY CITY
+    distance_km: 1.03
+  - name: DRYDEN
+    distance_km: 8.29
+  - name: CAPAC
+    distance_km: 11.47
+- country: US
+  region: MI
+  name: Indian River
+  lat: '45.4235'
+  long: "-84.6236"
+  nearby_rate_centers:
+  - name: INDIAN RIV
+    distance_km: 1.11
+  - name: ALANSON
+    distance_km: 13.06
+  - name: BRUTUS
+    distance_km: 14.66
+- country: US
+  region: MI
+  name: Inkster
+  lat: '42.2935'
+  long: "-83.3148"
+  nearby_rate_centers:
+  - name: WAYNE
+    distance_km: 6.02
+  - name: LIVONIA
+    distance_km: 7.53
+  - name: ROMULUS
+    distance_km: 9.8
+- country: US
+  region: MI
+  name: Interlochen
+  lat: '44.6497'
+  long: "-85.7678"
+  nearby_rate_centers:
+  - name: INTERLOCHN
+    distance_km: 0.27
+  - name: LAKE ANN
+    distance_km: 10.11
+  - name: BUCKLEY
+    distance_km: 18.03
+- country: US
+  region: MI
+  name: Ionia
+  lat: '42.9773'
+  long: "-85.0727"
+  nearby_rate_centers:
+  - name: IONIA
+    distance_km: 0.76
+  - name: MUIR
+    distance_km: 10.96
+  - name: ORLEANS
+    distance_km: 11.27
+- country: US
+  region: MI
+  name: Iron Mountain
+  lat: '45.8275'
+  long: "-88.0599"
+  nearby_rate_centers:
+  - name: IRON MT
+    distance_km: 1.1
+  - name: NORWAY
+    distance_km: 12.8
+  - name: FELCH
+    distance_km: 25.66
+- country: US
+  region: MI
+  name: Iron River
+  lat: '46.0966'
+  long: "-88.6396"
+  nearby_rate_centers:
+  - name: IRON RIVER
+    distance_km: 1.44
+  - name: AMASA
+    distance_km: 20.6
+  - name: GOLDENLAKE
+    distance_km: 21.24
+- country: US
+  region: MI
+  name: Ironton
+  lat: '45.2570'
+  long: "-85.1929"
+  nearby_rate_centers:
+  - name: CHARLEVOIX
+    distance_km: 8.48
+  - name: ELLSWORTH
+    distance_km: 11.16
+  - name: EASTJORDAN
+    distance_km: 12.78
+- country: US
+  region: MI
+  name: Ironwood
+  lat: '46.4522'
+  long: "-90.1505"
+  nearby_rate_centers:
+  - name: IRONWOOD
+    distance_km: 1.16
+  - name: BESSEMER
+    distance_km: 8.25
+  - name: WAKEFIELD
+    distance_km: 16.96
+- country: US
+  region: MI
+  name: Ishpeming
+  lat: '46.4862'
+  long: "-87.6658"
+  nearby_rate_centers:
+  - name: ISHPEMING
+    distance_km: 0.78
+  - name: NEGAUNEE
+    distance_km: 4.77
+  - name: MICHIGMFOR
+    distance_km: 21.57
+- country: US
+  region: MI
+  name: Ithaca
+  lat: '43.2911'
+  long: "-84.5956"
+  nearby_rate_centers:
+  - name: ITHACA
+    distance_km: 1.16
+  - name: ALMA
+    distance_km: 10.79
+  - name: POMPEII
+    distance_km: 11.87
+- country: US
+  region: MI
+  name: Jackson
+  lat: '42.2431'
+  long: "-84.4038"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 1.4
+  - name: HANOVER
+    distance_km: 13.78
+  - name: CLARKLAKE
+    distance_km: 14.7
+- country: US
+  region: MI
+  name: Jasper
+  lat: '41.7859'
+  long: "-84.0403"
+  nearby_rate_centers:
+  - name: SAND CREEK
+    distance_km: 6.76
+  - name: OGDEN CTR
+    distance_km: 7.35
+  - name: ADRIAN
+    distance_km: 11.96
+- country: US
+  region: MI
+  name: Jenison
+  lat: '42.9063'
+  long: "-85.8269"
+  nearby_rate_centers:
+  - name: HUDSONVL
+    distance_km: 5.59
+  - name: JAMESTOWN
+    distance_km: 9.37
+  - name: ALLENDALE
+    distance_km: 12.22
+- country: US
+  region: MI
+  name: Jennings
+  lat: '44.3325'
+  long: "-85.2969"
+  nearby_rate_centers:
+  - name: LAKE CITY
+    distance_km: 7.05
+  - name: MANTON
+    distance_km: 11.69
+  - name: CADILLAC
+    distance_km: 12.51
+- country: US
+  region: MI
+  name: Jonesville
+  lat: '41.9785'
+  long: "-84.6656"
+  nearby_rate_centers:
+  - name: JONESVILLE
+    distance_km: 0.79
+  - name: HILLSDALE
+    distance_km: 7.43
+  - name: ALLEN
+    distance_km: 8.45
+- country: US
+  region: MI
+  name: K. I. Sawyer
+  lat: '46.3299'
+  long: "-87.3673"
+  nearby_rate_centers:
+  - name: GWINN
+    distance_km: 7.8
+  - name: SKANDIA
+    distance_km: 10.9
+  - name: MARQUETTE
+    distance_km: 23.7
+- country: US
+  region: MI
+  name: Kalamazoo
+  lat: '42.2749'
+  long: "-85.5882"
+  nearby_rate_centers:
+  - name: KALAMAZOO
+    distance_km: 1.92
+  - name: GALESBURG
+    distance_km: 13.64
+  - name: RICHLAND
+    distance_km: 15.84
+- country: US
+  region: MI
+  name: Kaleva
+  lat: '44.3723'
+  long: "-86.0135"
+  nearby_rate_centers:
+  - name: KALEVA
+    distance_km: 0.89
+  - name: BRETHREN
+    distance_km: 7.47
+  - name: BEAR LAKE
+    distance_km: 11.91
+- country: US
+  region: MI
+  name: Kalkaska
+  lat: '44.7318'
+  long: "-85.1834"
+  nearby_rate_centers:
+  - name: KALKASKA
+    distance_km: 0.16
+  - name: SOBOARDMAN
+    distance_km: 12.81
+  - name: TRCHRIVBDG
+    distance_km: 17.28
+- country: US
+  region: MI
+  name: Keego Harbor
+  lat: '42.6088'
+  long: "-83.3442"
+  nearby_rate_centers:
+  - name: PONTIAC
+    distance_km: 6.04
+  - name: DRAYTON PL
+    distance_km: 8.64
+  - name: W BLOOMFLD
+    distance_km: 8.83
+- country: US
+  region: MI
+  name: Kent City
+  lat: '43.2202'
+  long: "-85.7539"
+  nearby_rate_centers:
+  - name: KENT CITY
+    distance_km: 0.51
+  - name: CASNOVIA
+    distance_km: 3.31
+  - name: SPARTA
+    distance_km: 8.42
+- country: US
+  region: MI
+  name: Kentwood
+  lat: '42.8852'
+  long: "-85.5926"
+  nearby_rate_centers:
+  - name: DUTTON
+    distance_km: 4.84
+  - name: ADA
+    distance_km: 10.77
+  - name: GRAND RPDS
+    distance_km: 10.84
+- country: US
+  region: MI
+  name: Kincheloe
+  lat: '46.2688'
+  long: "-84.4568"
+  nearby_rate_centers:
+  - name: KINROSS
+    distance_km: 3.73
+  - name: RUDYARD
+    distance_km: 11.66
+  - name: PICKFORD
+    distance_km: 14.41
+- country: US
+  region: MI
+  name: Kinde
+  lat: '43.9405'
+  long: "-82.9963"
+  nearby_rate_centers:
+  - name: KINDE
+    distance_km: 0.45
+  - name: PORTAUSTIN
+    distance_km: 11.38
+  - name: BAD AXE
+    distance_km: 15.44
+- country: US
+  region: MI
+  name: Kingsford
+  lat: '45.8061'
+  long: "-88.0995"
+  nearby_rate_centers:
+  - name: IRON MT
+    distance_km: 2.85
+  - name: NORWAY
+    distance_km: 15.38
+  - name: FELCH
+    distance_km: 29.51
+- country: US
+  region: MI
+  name: Kingsley
+  lat: '44.5845'
+  long: "-85.5347"
+  nearby_rate_centers:
+  - name: KINGSLEY
+    distance_km: 0.23
+  - name: FIFE LAKE
+    distance_km: 14.77
+  - name: BUCKLEY
+    distance_km: 14.83
+- country: US
+  region: MI
+  name: Kingston
+  lat: '43.4128'
+  long: "-83.1863"
+  nearby_rate_centers:
+  - name: KINGSTON
+    distance_km: 0.67
+  - name: CLIFFORD
+    distance_km: 10.49
+  - name: MARLETTE
+    distance_km: 12.8
+- country: US
+  region: MI
+  name: L'Anse
+  lat: '46.7526'
+  long: "-88.4477"
+  nearby_rate_centers:
+  - name: L ANSE
+    distance_km: 0.74
+  - name: BARAGA
+    distance_km: 4.74
+  - name: TAPIOLA
+    distance_km: 21.38
+- country: US
+  region: MI
+  name: Laingsburg
+  lat: '42.8906'
+  long: "-84.3500"
+  nearby_rate_centers:
+  - name: LAINGSBURG
+    distance_km: 0.09
+  - name: SHAFTSBURG
+    distance_km: 11.1
+  - name: BATH
+    distance_km: 11.63
+- country: US
+  region: MI
+  name: Lake Angelus
+  lat: '42.6921'
+  long: "-83.3216"
+  nearby_rate_centers:
+  - name: DRAYTON PL
+    distance_km: 4.14
+  - name: PONTIAC
+    distance_km: 6.58
+  - name: CLARKSTON
+    distance_km: 9.1
+- country: US
+  region: MI
+  name: Lake Ann
+  lat: '44.7251'
+  long: "-85.8451"
+  nearby_rate_centers:
+  - name: LAKE ANN
+    distance_km: 0.35
+  - name: INTERLOCHN
+    distance_km: 10.3
+  - name: HONOR
+    distance_km: 15.76
+- country: US
+  region: MI
+  name: Lake City
+  lat: '44.3297'
+  long: "-85.2085"
+  nearby_rate_centers:
+  - name: LAKE CITY
+    distance_km: 0.48
+  - name: FALMOUTH
+    distance_km: 13.99
+  - name: MCBAIN
+    distance_km: 15.09
+- country: US
+  region: MI
+  name: Lake Fenton
+  lat: '42.8453'
+  long: "-83.7086"
+  nearby_rate_centers:
+  - name: FENTON
+    distance_km: 6.19
+  - name: LINDEN
+    distance_km: 6.25
+  - name: RANKIN
+    distance_km: 8.31
+- country: US
+  region: MI
+  name: Lake Gogebic
+  lat: '46.5719'
+  long: "-89.6212"
+  nearby_rate_centers:
+  - name: BERGLAND
+    distance_km: 4.9
+  - name: LK GOGEBIC
+    distance_km: 18.88
+  - name: WHITE PINE
+    distance_km: 21.14
+- country: US
+  region: MI
+  name: Lake Isabella
+  lat: '43.6417'
+  long: "-85.0030"
+  nearby_rate_centers:
+  - name: WEIDMAN
+    distance_km: 5.69
+  - name: REMUS
+    distance_km: 12.99
+  - name: WINN
+    distance_km: 15.26
+- country: US
+  region: MI
+  name: Lake LeAnn
+  lat: '42.0599'
+  long: "-84.4309"
+  nearby_rate_centers:
+  - name: BUNDY HILL
+    distance_km: 3.18
+  - name: CLARKLAKE
+    distance_km: 9.18
+  - name: ADDISON
+    distance_km: 10.94
+- country: US
+  region: MI
+  name: Lake Leelanau
+  lat: '44.9806'
+  long: "-85.7157"
+  nearby_rate_centers:
+  - name: LKLEELANAU
+    distance_km: 0.18
+  - name: SUTTONSBAY
+    distance_km: 4.71
+  - name: NORTHPORT
+    distance_km: 18.63
+- country: US
+  region: MI
+  name: Lake Linden
+  lat: '47.1939'
+  long: "-88.4054"
+  nearby_rate_centers:
+  - name: LAKELINDEN
+    distance_km: 0.59
+  - name: CALUMET
+    distance_km: 6.92
+  - name: HOUGHTON
+    distance_km: 14.29
+- country: US
+  region: MI
+  name: Lake Michigan Beach
+  lat: '42.2127'
+  long: "-86.3760"
+  nearby_rate_centers:
+  - name: COLOMA
+    distance_km: 6.95
+  - name: WATERVLIET
+    distance_km: 9.64
+  - name: BENTON HBR
+    distance_km: 12.18
+- country: US
+  region: MI
+  name: Lake Odessa
+  lat: '42.7824'
+  long: "-85.1374"
+  nearby_rate_centers:
+  - name: LAKEODESSA
+    distance_km: 0.24
+  - name: WOODLAND
+    distance_km: 6.46
+  - name: CLARKSVL
+    distance_km: 11.01
+- country: US
+  region: MI
+  name: Lake Orion
+  lat: '42.7827'
+  long: "-83.2453"
+  nearby_rate_centers:
+  - name: LAKE ORION
+    distance_km: 0.44
+  - name: OXFORD
+    distance_km: 5.26
+  - name: ROCHESTER
+    distance_km: 14.52
+- country: US
+  region: MI
+  name: Lake Victoria
+  lat: '42.9168'
+  long: "-84.3749"
+  nearby_rate_centers:
+  - name: LAINGSBURG
+    distance_km: 3.62
+  - name: OVID
+    distance_km: 10.28
+  - name: BATH
+    distance_km: 12.74
+- country: US
+  region: MI
+  name: Lakeport
+  lat: '43.1072'
+  long: "-82.4937"
+  nearby_rate_centers:
+  - name: JEDDO
+    distance_km: 8.68
+  - name: AVOCA
+    distance_km: 16.72
+  - name: PORT HURON
+    distance_km: 16.73
+- country: US
+  region: MI
+  name: Lakes of the North
+  lat: '44.9361'
+  long: "-84.8845"
+  nearby_rate_centers:
+  - name: LAKE NORTH
+    distance_km: 3.51
+  - name: ALBA
+    distance_km: 8.55
+  - name: ELMIRA
+    distance_km: 14.68
+- country: US
+  region: MI
+  name: Lakeview
+  lat: '43.4434'
+  long: "-85.2738"
+  nearby_rate_centers:
+  - name: LAKEVIEW
+    distance_km: 1.37
+  - name: AMBLE
+    distance_km: 8.81
+  - name: SIX LAKES
+    distance_km: 10.03
+- country: US
+  region: MI
+  name: Lakewood Club
+  lat: '43.3761'
+  long: "-86.2563"
+  nearby_rate_centers:
+  - name: TWIN LAKE
+    distance_km: 7.32
+  - name: WHITEHALL
+    distance_km: 8.2
+  - name: HOLTON
+    distance_km: 14.61
+- country: US
+  region: MI
+  name: Lambertville
+  lat: '41.7484'
+  long: "-83.6244"
+  nearby_rate_centers:
+  - name: LAMBERTVL
+    distance_km: 1.42
+  - name: TEMPERANCE
+    distance_km: 5.51
+  - name: NOSYLVANIA
+    distance_km: 7.71
+- country: US
+  region: MI
+  name: Lamont
+  lat: '43.0125'
+  long: "-85.9061"
+  nearby_rate_centers:
+  - name: COOPERSVL
+    distance_km: 5.39
+  - name: ALLENDALE
+    distance_km: 6.07
+  - name: MARNE
+    distance_km: 6.08
+- country: US
+  region: MI
+  name: Lansing
+  lat: '42.7142'
+  long: "-84.5601"
+  nearby_rate_centers:
+  - name: LANSING
+    distance_km: 2.12
+  - name: HOLT
+    distance_km: 8.73
+  - name: DIMONDALE
+    distance_km: 10.97
+- country: US
+  region: MI
+  name: Lapeer
+  lat: '43.0447'
+  long: "-83.3253"
+  nearby_rate_centers:
+  - name: LAPEER
+    distance_km: 1.28
+  - name: METAMORA
+    distance_km: 12.0
+  - name: HADLEY
+    distance_km: 12.23
+- country: US
+  region: MI
+  name: Lathrup Village
+  lat: '42.4921'
+  long: "-83.2273"
+  nearby_rate_centers:
+  - name: SOUTHFIELD
+    distance_km: 2.75
+  - name: BIRMINGHAM
+    distance_km: 5.52
+  - name: ROYAL OAK
+    distance_km: 7.53
+- country: US
+  region: MI
+  name: Laurium
+  lat: '47.2351'
+  long: "-88.4382"
+  nearby_rate_centers:
+  - name: CALUMET
+    distance_km: 1.9
+  - name: LAKELINDEN
+    distance_km: 5.45
+  - name: HOUGHTON
+    distance_km: 15.88
+- country: US
+  region: MI
+  name: Lawrence
+  lat: '42.2157'
+  long: "-86.0534"
+  nearby_rate_centers:
+  - name: LAWRENCE
+    distance_km: 0.28
+  - name: HARTFORD
+    distance_km: 9.63
+  - name: BANGOR
+    distance_km: 11.47
+- country: US
+  region: MI
+  name: Lawton
+  lat: '42.1678'
+  long: "-85.8461"
+  nearby_rate_centers:
+  - name: LAWTON
+    distance_km: 0.41
+  - name: PAW PAW
+    distance_km: 6.71
+  - name: MATTAWAN
+    distance_km: 6.73
+- country: US
+  region: MI
+  name: Le Roy
+  lat: '44.0381'
+  long: "-85.4538"
+  nearby_rate_centers:
+  - name: LE ROY
+    distance_km: 0.69
+  - name: TUSTIN
+    distance_km: 7.15
+  - name: LUTHER
+    distance_km: 18.38
+- country: US
+  region: MI
+  name: Leland
+  lat: '45.0214'
+  long: "-85.7575"
+  nearby_rate_centers:
+  - name: LKLEELANAU
+    distance_km: 5.43
+  - name: SUTTONSBAY
+    distance_km: 9.55
+  - name: NORTHPORT
+    distance_km: 16.59
+- country: US
+  region: MI
+  name: Lennon
+  lat: '42.9855'
+  long: "-83.9325"
+  nearby_rate_centers:
+  - name: LENNON
+    distance_km: 0.63
+  - name: DURAND
+    distance_km: 8.93
+  - name: SWARTZ CRK
+    distance_km: 9.23
+- country: US
+  region: MI
+  name: Leonard
+  lat: '42.8652'
+  long: "-83.1429"
+  nearby_rate_centers:
+  - name: DRYDEN
+    distance_km: 9.63
+  - name: ALMONT
+    distance_km: 9.86
+  - name: OXFORD
+    distance_km: 11.1
+- country: US
+  region: MI
+  name: Leslie
+  lat: '42.4508'
+  long: "-84.4334"
+  nearby_rate_centers:
+  - name: LESLIE
+    distance_km: 0.18
+  - name: RIVES JCT
+    distance_km: 7.92
+  - name: ONONDAGA
+    distance_km: 9.0
+- country: US
+  region: MI
+  name: Level Park-Oak Park
+  lat: '42.3642'
+  long: "-85.2664"
+  nearby_rate_centers:
+  - name: AUGUSTA
+    distance_km: 7.88
+  - name: BATTLE CRK
+    distance_km: 8.45
+  - name: HICKORYCOR
+    distance_km: 12.45
+- country: US
+  region: MI
+  name: Levering
+  lat: '45.6347'
+  long: "-84.7838"
+  nearby_rate_centers:
+  - name: LEVERING
+    distance_km: 0.76
+  - name: PELLSTON
+    distance_km: 9.44
+  - name: BRUTUS
+    distance_km: 15.85
+- country: US
+  region: MI
+  name: Lewiston
+  lat: '44.8771'
+  long: "-84.3047"
+  nearby_rate_centers:
+  - name: LEWISTON
+    distance_km: 0.98
+  - name: CHESTER
+    distance_km: 16.25
+  - name: ATLANTA
+    distance_km: 18.24
+- country: US
+  region: MI
+  name: Lexington
+  lat: '43.2671'
+  long: "-82.5374"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance_km: 0.11
+  - name: CROSWELL
+    distance_km: 7.31
+  - name: APPLEGATE
+    distance_km: 12.11
+- country: US
+  region: MI
+  name: Lincoln
+  lat: '44.6842'
+  long: "-83.4133"
+  nearby_rate_centers:
+  - name: LINCOLN
+    distance_km: 0.31
+  - name: HARRISVL
+    distance_km: 9.63
+  - name: HUBBARD LK
+    distance_km: 25.61
+- country: US
+  region: MI
+  name: Lincoln Park
+  lat: '42.2432'
+  long: "-83.1811"
+  nearby_rate_centers:
+  - name: WYANDOTTE
+    distance_km: 5.06
+  - name: TRENTON
+    distance_km: 11.12
+  - name: DETROITZN1
+    distance_km: 14.58
+  - name: DETROITZN2
+    distance_km: 14.58
+  - name: DETROITZN3
+    distance_km: 14.58
+  - name: DETROITZN4
+    distance_km: 14.58
+  - name: DETROITZN5
+    distance_km: 14.58
+  - name: DETROITZN6
+    distance_km: 14.58
+- country: US
+  region: MI
+  name: Linden
+  lat: '42.8194'
+  long: "-83.7811"
+  nearby_rate_centers:
+  - name: LINDEN
+    distance_km: 0.4
+  - name: FENTON
+    distance_km: 7.51
+  - name: RANKIN
+    distance_km: 11.24
+- country: US
+  region: MI
+  name: Litchfield
+  lat: '42.0413'
+  long: "-84.7578"
+  nearby_rate_centers:
+  - name: LITCHFIELD
+    distance_km: 0.12
+  - name: MOSHERVL
+    distance_km: 8.32
+  - name: ALLEN
+    distance_km: 9.04
+- country: US
+  region: MI
+  name: Livonia
+  lat: '42.3972'
+  long: "-83.3733"
+  nearby_rate_centers:
+  - name: LIVONIA
+    distance_km: 4.97
+  - name: FARMINGTON
+    distance_km: 7.59
+  - name: PLYMOUTH
+    distance_km: 8.06
+- country: US
+  region: MI
+  name: Loomis
+  lat: '43.7882'
+  long: "-84.6659"
+  nearby_rate_centers:
+  - name: COLEMAN
+    distance_km: 7.36
+  - name: CLARE
+    distance_km: 8.55
+  - name: ROSEBUSH
+    distance_km: 12.99
+- country: US
+  region: MI
+  name: Lost Lake Woods
+  lat: '44.7926'
+  long: "-83.4223"
+  nearby_rate_centers:
+  - name: LINCOLN
+    distance_km: 12.02
+  - name: OSSINEKE
+    distance_km: 14.77
+  - name: HUBBARD LK
+    distance_km: 16.33
+- country: US
+  region: MI
+  name: Lowell
+  lat: '42.9351'
+  long: "-85.3457"
+  nearby_rate_centers:
+  - name: LOWELL
+    distance_km: 1.01
+  - name: ALTO
+    distance_km: 9.98
+  - name: SARANAC
+    distance_km: 11.89
+- country: US
+  region: MI
+  name: Ludington
+  lat: '43.9573'
+  long: "-86.4434"
+  nearby_rate_centers:
+  - name: LUDINGTON
+    distance_km: 1.18
+  - name: SCOTTVILLE
+    distance_km: 12.66
+  - name: PENTWATER
+    distance_km: 19.39
+- country: US
+  region: MI
+  name: Luna Pier
+  lat: '41.8049'
+  long: "-83.4426"
+  nearby_rate_centers:
+  - name: ERIE
+    distance_km: 5.06
+  - name: LOSTPNNSUL
+    distance_km: 7.03
+  - name: TEMPERANCE
+    distance_km: 10.88
+- country: US
+  region: MI
+  name: Lupton
+  lat: '44.4297'
+  long: "-84.0225"
+  nearby_rate_centers:
+  - name: LUPTON
+    distance_km: 6.73
+  - name: ROSE CITY
+    distance_km: 7.74
+  - name: SIXTYLAKES
+    distance_km: 12.97
+- country: US
+  region: MI
+  name: Luther
+  lat: '44.0386'
+  long: "-85.6827"
+  nearby_rate_centers:
+  - name: LUTHER
+    distance_km: 0.21
+  - name: HOXEYVILLE
+    distance_km: 16.18
+  - name: LE ROY
+    distance_km: 18.8
+- country: US
+  region: MI
+  name: Lyons
+  lat: '42.9834'
+  long: "-84.9456"
+  nearby_rate_centers:
+  - name: MUIR
+    distance_km: 1.15
+  - name: IONIA
+    distance_km: 10.07
+  - name: PORTLAND
+    distance_km: 13.58
+- country: US
+  region: MI
+  name: Mackinac Island
+  lat: '45.8593'
+  long: "-84.6253"
+  nearby_rate_centers:
+  - name: MACKINACIS
+    distance_km: 1.01
+  - name: ST IGNACE
+    distance_km: 7.9
+  - name: MACKINAWCY
+    distance_km: 12.04
+- country: US
+  region: MI
+  name: Mackinaw City
+  lat: '45.7751'
+  long: "-84.7479"
+  nearby_rate_centers:
+  - name: MACKINAWCY
+    distance_km: 1.37
+  - name: ST IGNACE
+    distance_km: 10.59
+  - name: MACKINACIS
+    distance_km: 12.5
+- country: US
+  region: MI
+  name: Madison Heights
+  lat: '42.5073'
+  long: "-83.1034"
+  nearby_rate_centers:
+  - name: ROYAL OAK
+    distance_km: 3.82
+  - name: WARREN
+    distance_km: 5.48
+  - name: CENTERLINE
+    distance_km: 5.86
+- country: US
+  region: MI
+  name: Mancelona
+  lat: '44.9024'
+  long: "-85.0613"
+  nearby_rate_centers:
+  - name: MANCELONA
+    distance_km: 0.7
+  - name: ALBA
+    distance_km: 10.32
+  - name: BELLAIRE
+    distance_km: 14.16
+- country: US
+  region: MI
+  name: Manchester
+  lat: '42.1483'
+  long: "-84.0346"
+  nearby_rate_centers:
+  - name: MANCHESTER
+    distance_km: 0.24
+  - name: CLINTON
+    distance_km: 10.54
+  - name: TIPTON
+    distance_km: 15.1
+- country: US
+  region: MI
+  name: Manistee
+  lat: '44.2439'
+  long: "-86.3242"
+  nearby_rate_centers:
+  - name: MANISTEE
+    distance_km: 0.82
+  - name: ONEKAMA
+    distance_km: 16.74
+  - name: FREESOIL
+    distance_km: 18.46
+- country: US
+  region: MI
+  name: Manistee Lake
+  lat: '44.7841'
+  long: "-85.0211"
+  nearby_rate_centers:
+  - name: MANCELONA
+    distance_km: 13.41
+  - name: KALKASKA
+    distance_km: 13.94
+  - name: LAKE NORTH
+    distance_km: 18.87
+- country: US
+  region: MI
+  name: Manistique
+  lat: '45.9591'
+  long: "-86.2507"
+  nearby_rate_centers:
+  - name: MANISTIQUE
+    distance_km: 0.31
+  - name: GULLIVER
+    distance_km: 19.13
+  - name: GARDEN
+    distance_km: 30.73
+- country: US
+  region: MI
+  name: Manitou Beach-Devils Lake
+  lat: '41.9786'
+  long: "-84.2857"
+  nearby_rate_centers:
+  - name: ADDISON
+    distance_km: 5.23
+  - name: ONSTED
+    distance_km: 8.55
+  - name: CLAYTON
+    distance_km: 14.13
+- country: US
+  region: MI
+  name: Manton
+  lat: '44.4114'
+  long: "-85.4010"
+  nearby_rate_centers:
+  - name: MANTON
+    distance_km: 0.45
+  - name: LAKE CITY
+    distance_km: 17.57
+  - name: CADILLAC
+    distance_km: 18.1
+- country: US
+  region: MI
+  name: Maple City
+  lat: '44.8556'
+  long: "-85.8573"
+  nearby_rate_centers:
+  - name: GLEN LAKE
+    distance_km: 7.35
+  - name: LAKE ANN
+    distance_km: 14.65
+  - name: LKLEELANAU
+    distance_km: 17.89
+- country: US
+  region: MI
+  name: Maple Grove
+  lat: '44.7091'
+  long: "-85.8538"
+  nearby_rate_centers:
+  - name: LAKE ANN
+    distance_km: 1.98
+  - name: INTERLOCHN
+    distance_km: 9.45
+  - name: HONOR
+    distance_km: 14.46
+- country: US
+  region: MI
+  name: Maple Rapids
+  lat: '43.1077'
+  long: "-84.6898"
+  nearby_rate_centers:
+  - name: MAPLE RPD
+    distance_km: 0.9
+  - name: MIDDLETON
+    distance_km: 8.53
+  - name: POMPEII
+    distance_km: 11.23
+- country: US
+  region: MI
+  name: Marcellus
+  lat: '42.0261'
+  long: "-85.8131"
+  nearby_rate_centers:
+  - name: MARCELLUS
+    distance_km: 0.54
+  - name: VANDALIA
+    distance_km: 14.74
+  - name: LAWTON
+    distance_km: 15.7
+- country: US
+  region: MI
+  name: Marenisco
+  lat: '46.3737'
+  long: "-89.7120"
+  nearby_rate_centers:
+  - name: MARENISCO
+    distance_km: 1.7
+  - name: LK GOGEBIC
+    distance_km: 13.13
+  - name: WAKEFIELD
+    distance_km: 20.85
+- country: US
+  region: MI
+  name: Marine City
+  lat: '42.7137'
+  long: "-82.5012"
+  nearby_rate_centers:
+  - name: MARINECITY
+    distance_km: 0.19
+  - name: ALGONAC
+    distance_km: 11.13
+  - name: ST CLAIR
+    distance_km: 12.1
+- country: US
+  region: MI
+  name: Marion
+  lat: '44.1006'
+  long: "-85.1438"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 0.61
+  - name: MCBAIN
+    distance_km: 11.94
+  - name: FALMOUTH
+    distance_km: 16.24
+- country: US
+  region: MI
+  name: Marlette
+  lat: '43.3268'
+  long: "-83.0806"
+  nearby_rate_centers:
+  - name: MARLETTE
+    distance_km: 0.2
+  - name: CLIFFORD
+    distance_km: 7.82
+  - name: KINGSTON
+    distance_km: 13.06
+- country: US
+  region: MI
+  name: Marquette
+  lat: '46.5440'
+  long: "-87.4082"
+  nearby_rate_centers:
+  - name: MARQUETTE
+    distance_km: 2.16
+  - name: NEGAUNEE
+    distance_km: 15.98
+  - name: ISHPEMING
+    distance_km: 20.66
+- country: US
+  region: MI
+  name: Marshall
+  lat: '42.2618'
+  long: "-84.9598"
+  nearby_rate_centers:
+  - name: MARSHALL
+    distance_km: 0.89
+  - name: ALBION
+    distance_km: 17.23
+  - name: HOMER
+    distance_km: 18.18
+- country: US
+  region: MI
+  name: Martin
+  lat: '42.5370'
+  long: "-85.6389"
+  nearby_rate_centers:
+  - name: MARTIN
+    distance_km: 0.46
+  - name: PINE LAKE
+    distance_km: 8.26
+  - name: OTSEGO
+    distance_km: 9.69
+- country: US
+  region: MI
+  name: Marysville
+  lat: '42.9084'
+  long: "-82.4806"
+  nearby_rate_centers:
+  - name: PORT HURON
+    distance_km: 8.01
+  - name: ST CLAIR
+    distance_km: 9.66
+  - name: SMITHS CRK
+    distance_km: 10.62
+- country: US
+  region: MI
+  name: Mason
+  lat: '42.5806'
+  long: "-84.4427"
+  nearby_rate_centers:
+  - name: MASON
+    distance_km: 0.86
+  - name: HOLT
+    distance_km: 9.17
+  - name: DANSVILLE
+    distance_km: 11.98
+- country: US
+  region: MI
+  name: Mass City
+  lat: '46.7616'
+  long: "-89.0849"
+  nearby_rate_centers:
+  - name: MASS
+    distance_km: 0.93
+  - name: ROCKLAND
+    distance_km: 7.44
+  - name: ONTONAGON
+    distance_km: 21.1
+- country: US
+  region: MI
+  name: Mattawan
+  lat: '42.2165'
+  long: "-85.7858"
+  nearby_rate_centers:
+  - name: MATTAWAN
+    distance_km: 1.21
+  - name: LAWTON
+    distance_km: 7.76
+  - name: PAW PAW
+    distance_km: 9.03
+- country: US
+  region: MI
+  name: Maybee
+  lat: '42.0125'
+  long: "-83.5096"
+  nearby_rate_centers:
+  - name: MAYBEE
+    distance_km: 1.35
+  - name: CARLETON
+    distance_km: 10.98
+  - name: IDA
+    distance_km: 12.69
+- country: US
+  region: MI
+  name: Mayville
+  lat: '43.3363'
+  long: "-83.3520"
+  nearby_rate_centers:
+  - name: MAYVILLE
+    distance_km: 0.44
+  - name: FOSTORIA
+    distance_km: 9.83
+  - name: CLIFFORD
+    distance_km: 14.32
+- country: US
+  region: MI
+  name: McBain
+  lat: '44.1961'
+  long: "-85.2154"
+  nearby_rate_centers:
+  - name: MCBAIN
+    distance_km: 0.27
+  - name: FALMOUTH
+    distance_km: 11.52
+  - name: MARION
+    distance_km: 11.58
+- country: US
+  region: MI
+  name: McBride
+  lat: '43.3521'
+  long: "-85.0441"
+  nearby_rate_centers:
+  - name: MCBRIDES
+    distance_km: 0.33
+  - name: EDMORE
+    distance_km: 6.42
+  - name: STANTON
+    distance_km: 7.43
+- country: US
+  region: MI
+  name: Mears
+  lat: '43.6835'
+  long: "-86.4222"
+  nearby_rate_centers:
+  - name: HART
+    distance_km: 4.57
+  - name: SHELBY
+    distance_km: 9.41
+  - name: PENTWATER
+    distance_km: 11.13
+- country: US
+  region: MI
+  name: Mecosta
+  lat: '43.6210'
+  long: "-85.2304"
+  nearby_rate_centers:
+  - name: MECOSTA
+    distance_km: 0.76
+  - name: REMUS
+    distance_km: 7.38
+  - name: CHIPPEWALK
+    distance_km: 14.26
+- country: US
+  region: MI
+  name: Melvin
+  lat: '43.1864'
+  long: "-82.8617"
+  nearby_rate_centers:
+  - name: YALE
+    distance_km: 7.49
+  - name: PECK
+    distance_km: 8.6
+  - name: BROWN CITY
+    distance_km: 11.47
+- country: US
+  region: MI
+  name: Melvindale
+  lat: '42.2802'
+  long: "-83.1782"
+  nearby_rate_centers:
+  - name: WYANDOTTE
+    distance_km: 8.93
+  - name: DETROITZN1
+    distance_km: 11.98
+  - name: DETROITZN2
+    distance_km: 11.98
+  - name: DETROITZN3
+    distance_km: 11.98
+  - name: DETROITZN4
+    distance_km: 11.98
+  - name: DETROITZN5
+    distance_km: 11.98
+  - name: DETROITZN6
+    distance_km: 11.98
+  - name: TRENTON
+    distance_km: 15.23
+- country: US
+  region: MI
+  name: Memphis
+  lat: '42.8956'
+  long: "-82.7689"
+  nearby_rate_centers:
+  - name: MEMPHIS
+    distance_km: 0.51
+  - name: RICHMOND
+    distance_km: 9.61
+  - name: EMMETT
+    distance_km: 10.68
+- country: US
+  region: MI
+  name: Mendon
+  lat: '42.0089'
+  long: "-85.4544"
+  nearby_rate_centers:
+  - name: MENDON
+    distance_km: 0.48
+  - name: CENTREVL
+    distance_km: 11.21
+  - name: COLON
+    distance_km: 12.09
+- country: US
+  region: MI
+  name: Menominee
+  lat: '45.1221'
+  long: "-87.6234"
+  nearby_rate_centers:
+  - name: MENOMINEE
+    distance_km: 3.36
+  - name: WALLACE
+    distance_km: 22.76
+  - name: STEPHENSON
+    distance_km: 32.86
+- country: US
+  region: MI
+  name: Merrill
+  lat: '43.4091'
+  long: "-84.3345"
+  nearby_rate_centers:
+  - name: MERRILL
+    distance_km: 0.2
+  - name: HEMLOCK
+    distance_km: 8.4
+  - name: BRECKENRDG
+    distance_km: 11.11
+- country: US
+  region: MI
+  name: Mesick
+  lat: '44.4043'
+  long: "-85.7171"
+  nearby_rate_centers:
+  - name: MESICK
+    distance_km: 0.67
+  - name: HARRIETTA
+    distance_km: 10.9
+  - name: BUCKLEY
+    distance_km: 11.06
+- country: US
+  region: MI
+  name: Metamora
+  lat: '42.9422'
+  long: "-83.2897"
+  nearby_rate_centers:
+  - name: METAMORA
+    distance_km: 0.48
+  - name: HADLEY
+    distance_km: 9.09
+  - name: LAPEER
+    distance_km: 12.1
+- country: US
+  region: MI
+  name: Michiana
+  lat: '41.7637'
+  long: "-86.8113"
+  nearby_rate_centers:
+  - name: NEWBUFFALO
+    distance_km: 6.56
+  - name: THREE OAKS
+    distance_km: 17.32
+  - name: SAWYER
+    distance_km: 22.33
+- country: US
+  region: MI
+  name: Michigamme
+  lat: '46.5335'
+  long: "-88.0627"
+  nearby_rate_centers:
+  - name: MICHIGAMME
+    distance_km: 3.52
+  - name: CHAMPION
+    distance_km: 7.61
+  - name: FENCERIVER
+    distance_km: 9.45
+- country: US
+  region: MI
+  name: Michigan Center
+  lat: '42.2268'
+  long: "-84.3230"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 8.14
+  - name: GRASS LAKE
+    distance_km: 9.54
+  - name: NAPOLEON
+    distance_km: 9.62
+- country: US
+  region: MI
+  name: Middletown
+  lat: '42.9869'
+  long: "-84.1445"
+  nearby_rate_centers:
+  - name: OWOSSO
+    distance_km: 3.34
+  - name: BANCROFT
+    distance_km: 14.07
+  - name: DURAND
+    distance_km: 15.49
+- country: US
+  region: MI
+  name: Middleville
+  lat: '42.7138'
+  long: "-85.4693"
+  nearby_rate_centers:
+  - name: MIDDLEVL
+    distance_km: 0.39
+  - name: CALEDONIA
+    distance_km: 8.32
+  - name: FREEPORT
+    distance_km: 13.92
+- country: US
+  region: MI
+  name: Midland
+  lat: '43.6241'
+  long: "-84.2319"
+  nearby_rate_centers:
+  - name: MIDLAND
+    distance_km: 1.44
+  - name: SANFORD
+    distance_km: 12.81
+  - name: AUBURN
+    distance_km: 13.44
+- country: US
+  region: MI
+  name: Milan
+  lat: '42.0816'
+  long: "-83.6854"
+  nearby_rate_centers:
+  - name: MILAN
+    distance_km: 0.11
+  - name: SALINE
+    distance_km: 12.36
+  - name: WILLIS
+    distance_km: 13.69
+- country: US
+  region: MI
+  name: Milford
+  lat: '42.5870'
+  long: "-83.6012"
+  nearby_rate_centers:
+  - name: MILFDWH LK
+    distance_km: 1.1
+  - name: COMMERCE
+    distance_km: 9.13
+  - name: WALLEDLAKE
+    distance_km: 11.14
+- country: US
+  region: MI
+  name: Millburg
+  lat: '42.1236'
+  long: "-86.3466"
+  nearby_rate_centers:
+  - name: COLOMA
+    distance_km: 7.61
+  - name: BENTON HBR
+    distance_km: 8.48
+  - name: WATERVLIET
+    distance_km: 9.5
+- country: US
+  region: MI
+  name: Millers Lake
+  lat: '43.1800'
+  long: "-83.3257"
+  nearby_rate_centers:
+  - name: COLUMBIAVL
+    distance_km: 7.47
+  - name: FOSTORIA
+    distance_km: 8.62
+  - name: NORTH BRCH
+    distance_km: 12.52
+- country: US
+  region: MI
+  name: Millersburg
+  lat: '45.3344'
+  long: "-84.0601"
+  nearby_rate_centers:
+  - name: ONAWAY
+    distance_km: 13.64
+  - name: ROGERSCITY
+    distance_km: 20.95
+  - name: POSEN
+    distance_km: 29.64
+- country: US
+  region: MI
+  name: Millington
+  lat: '43.2784'
+  long: "-83.5273"
+  nearby_rate_centers:
+  - name: MILLINGTON
+    distance_km: 0.59
+  - name: VASSAR
+    distance_km: 10.94
+  - name: OTISVILLE
+    distance_km: 12.66
+- country: US
+  region: MI
+  name: Minden City
+  lat: '43.6715'
+  long: "-82.7757"
+  nearby_rate_centers:
+  - name: MINDENCITY
+    distance_km: 0.76
+  - name: UBLY
+    distance_km: 13.23
+  - name: DECKERVL
+    distance_km: 16.6
+- country: US
+  region: MI
+  name: Mio
+  lat: '44.6605'
+  long: "-84.1418"
+  nearby_rate_centers:
+  - name: MIO
+    distance_km: 1.3
+  - name: FAIRVIEW
+    distance_km: 10.37
+  - name: ROSE CITY
+    distance_km: 27.01
+- country: US
+  region: MI
+  name: Mohawk
+  lat: '47.3078'
+  long: "-88.3542"
+  nearby_rate_centers:
+  - name: CALUMET
+    distance_km: 10.64
+  - name: LAKELINDEN
+    distance_km: 13.78
+  - name: HOUGHTON
+    distance_km: 26.14
+- country: US
+  region: MI
+  name: Monroe
+  lat: '41.9155'
+  long: "-83.3849"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 1.26
+  - name: NEWPORT
+    distance_km: 11.98
+  - name: MAYBEE
+    distance_km: 14.18
+- country: US
+  region: MI
+  name: Montague
+  lat: '43.4128'
+  long: "-86.3636"
+  nearby_rate_centers:
+  - name: WHITEHALL
+    distance_km: 1.4
+  - name: TWIN LAKE
+    distance_km: 16.83
+  - name: SHELBY
+    distance_km: 21.79
+- country: US
+  region: MI
+  name: Montgomery
+  lat: '41.7775'
+  long: "-84.8064"
+  nearby_rate_centers:
+  - name: MONTGOMERY
+    distance_km: 0.52
+  - name: CAMDEN
+    distance_km: 5.12
+  - name: READING
+    distance_km: 8.57
+- country: US
+  region: MI
+  name: Montrose
+  lat: '43.1765'
+  long: "-83.8932"
+  nearby_rate_centers:
+  - name: MONTROSE
+    distance_km: 0.12
+  - name: NEWLOTHROP
+    distance_km: 8.96
+  - name: BIRCH RUN
+    distance_km: 11.55
+- country: US
+  region: MI
+  name: Morenci
+  lat: '41.7226'
+  long: "-84.2169"
+  nearby_rate_centers:
+  - name: MORENCI
+    distance_km: 0.5
+  - name: SAND CREEK
+    distance_km: 15.03
+  - name: CLAYTON
+    distance_km: 15.08
+- country: US
+  region: MI
+  name: Morley
+  lat: '43.4908'
+  long: "-85.4456"
+  nearby_rate_centers:
+  - name: MORLEY
+    distance_km: 0.68
+  - name: AMBLE
+    distance_km: 8.21
+  - name: STANWOOD
+    distance_km: 9.27
+- country: US
+  region: MI
+  name: Morrice
+  lat: '42.8362'
+  long: "-84.1833"
+  nearby_rate_centers:
+  - name: PERRY
+    distance_km: 3.04
+  - name: SHAFTSBURG
+    distance_km: 9.55
+  - name: BANCROFT
+    distance_km: 10.57
+- country: US
+  region: MI
+  name: Mount Clemens
+  lat: '42.5977'
+  long: "-82.8821"
+  nearby_rate_centers:
+  - name: MT CLEMENS
+    distance_km: 0.86
+  - name: ROSEVILLE
+    distance_km: 11.64
+  - name: UTICA
+    distance_km: 12.8
+- country: US
+  region: MI
+  name: Mount Morris
+  lat: '43.1176'
+  long: "-83.6987"
+  nearby_rate_centers:
+  - name: CLIMTMORRS
+    distance_km: 2.64
+  - name: FLINT
+    distance_km: 11.27
+  - name: FLUSHING
+    distance_km: 13.84
+- country: US
+  region: MI
+  name: Mount Pleasant
+  lat: '43.5966'
+  long: "-84.7759"
+  nearby_rate_centers:
+  - name: MTPLEASANT
+    distance_km: 0.88
+  - name: SHEPHERD
+    distance_km: 10.41
+  - name: ROSEBUSH
+    distance_km: 11.43
+- country: US
+  region: MI
+  name: Muir
+  lat: '42.9973'
+  long: "-84.9359"
+  nearby_rate_centers:
+  - name: MUIR
+    distance_km: 0.59
+  - name: IONIA
+    distance_km: 10.96
+  - name: PALO
+    distance_km: 12.98
+- country: US
+  region: MI
+  name: Mulliken
+  lat: '42.7630'
+  long: "-84.8963"
+  nearby_rate_centers:
+  - name: MULLIKEN
+    distance_km: 0.37
+  - name: SUNFIELD
+    distance_km: 7.88
+  - name: PORTLAND
+    distance_km: 11.4
+- country: US
+  region: MI
+  name: Munising
+  lat: '46.4172'
+  long: "-86.6439"
+  nearby_rate_centers:
+  - name: MUNISING
+    distance_km: 1.15
+  - name: AU TRAIN
+    distance_km: 14.48
+  - name: SHINGLETON
+    distance_km: 15.42
+- country: US
+  region: MI
+  name: Muskegon
+  lat: '43.2281'
+  long: "-86.2562"
+  nearby_rate_centers:
+  - name: MUSKEGON
+    distance_km: 1.45
+  - name: FRUITPORT
+    distance_km: 13.89
+  - name: TWIN LAKE
+    distance_km: 16.21
+- country: US
+  region: MI
+  name: Muskegon Heights
+  lat: '43.2023'
+  long: "-86.2421"
+  nearby_rate_centers:
+  - name: MUSKEGON
+    distance_km: 3.72
+  - name: FRUITPORT
+    distance_km: 10.88
+  - name: GRANDHAVEN
+    distance_km: 15.19
+- country: US
+  region: MI
+  name: Napoleon
+  lat: '42.1658'
+  long: "-84.2416"
+  nearby_rate_centers:
+  - name: NAPOLEON
+    distance_km: 0.08
+  - name: BROOKLYN
+    distance_km: 6.23
+  - name: GRASS LAKE
+    distance_km: 9.54
+- country: US
+  region: MI
+  name: Nashville
+  lat: '42.6032'
+  long: "-85.0941"
+  nearby_rate_centers:
+  - name: NASHVILLE
+    distance_km: 0.62
+  - name: VERMONTVL
+    distance_km: 6.07
+  - name: WOODLAND
+    distance_km: 13.88
+- country: US
+  region: MI
+  name: Naubinway
+  lat: '46.0911'
+  long: "-85.4518"
+  nearby_rate_centers:
+  - name: ENGADINE
+    distance_km: 9.35
+  - name: REXTON
+    distance_km: 17.67
+  - name: SCOTTPOINT
+    distance_km: 19.51
+- country: US
+  region: MI
+  name: Negaunee
+  lat: '46.4970'
+  long: "-87.5968"
+  nearby_rate_centers:
+  - name: NEGAUNEE
+    distance_km: 1.04
+  - name: ISHPEMING
+    distance_km: 5.46
+  - name: MARQUETTE
+    distance_km: 17.36
+- country: US
+  region: MI
+  name: Nessen City
+  lat: '44.5202'
+  long: "-85.8729"
+  nearby_rate_centers:
+  - name: COPESHTNVL
+    distance_km: 5.94
+  - name: BUCKLEY
+    distance_km: 15.48
+  - name: INTERLOCHN
+    distance_km: 16.9
+- country: US
+  region: MI
+  name: New Baltimore
+  lat: '42.6904'
+  long: "-82.7398"
+  nearby_rate_centers:
+  - name: NEWBALTIMR
+    distance_km: 1.01
+  - name: NEW HAVEN
+    distance_km: 6.77
+  - name: RICHMOND
+    distance_km: 13.33
+- country: US
+  region: MI
+  name: New Buffalo
+  lat: '41.7922'
+  long: "-86.7424"
+  nearby_rate_centers:
+  - name: NEWBUFFALO
+    distance_km: 0.39
+  - name: THREE OAKS
+    distance_km: 11.2
+  - name: SAWYER
+    distance_km: 15.95
+- country: US
+  region: MI
+  name: New Era
+  lat: '43.5595'
+  long: "-86.3477"
+  nearby_rate_centers:
+  - name: SHELBY
+    distance_km: 5.7
+  - name: HART
+    distance_km: 15.68
+  - name: WHITEHALL
+    distance_km: 17.06
+- country: US
+  region: MI
+  name: New Haven
+  lat: '42.7306'
+  long: "-82.7953"
+  nearby_rate_centers:
+  - name: NEW HAVEN
+    distance_km: 0.46
+  - name: NEWBALTIMR
+    distance_km: 7.38
+  - name: RICHMOND
+    distance_km: 9.29
+- country: US
+  region: MI
+  name: New Lothrop
+  lat: '43.1168'
+  long: "-83.9693"
+  nearby_rate_centers:
+  - name: NEWLOTHROP
+    distance_km: 0.39
+  - name: MONTROSE
+    distance_km: 8.94
+  - name: FLUSHING
+    distance_km: 11.59
+- country: US
+  region: MI
+  name: New Troy
+  lat: '41.8790'
+  long: "-86.5475"
+  nearby_rate_centers:
+  - name: SAWYER
+    distance_km: 4.74
+  - name: BRIDGMAN
+    distance_km: 8.52
+  - name: GALIEN
+    distance_km: 9.49
+- country: US
+  region: MI
+  name: Newaygo
+  lat: '43.4162'
+  long: "-85.8031"
+  nearby_rate_centers:
+  - name: NEWAYGO
+    distance_km: 0.19
+  - name: GRANT
+    distance_km: 9.26
+  - name: FREMONT
+    distance_km: 12.53
+- country: US
+  region: MI
+  name: Newberry
+  lat: '46.3538'
+  long: "-85.5098"
+  nearby_rate_centers:
+  - name: NEWBERRY
+    distance_km: 0.42
+  - name: CURTIS
+    distance_km: 24.31
+  - name: ENGADINE
+    distance_km: 26.68
+- country: US
+  region: MI
+  name: Niles
+  lat: '41.8346'
+  long: "-86.2473"
+  nearby_rate_centers:
+  - name: NILES
+    distance_km: 0.98
+  - name: BUCHANAN
+    distance_km: 9.62
+  - name: EDWARDSBG
+    distance_km: 14.29
+- country: US
+  region: MI
+  name: North Adams
+  lat: '41.9707'
+  long: "-84.5251"
+  nearby_rate_centers:
+  - name: NORTHADAMS
+    distance_km: 0.3
+  - name: OSSEO
+    distance_km: 9.69
+  - name: BUNDY HILL
+    distance_km: 10.05
+- country: US
+  region: MI
+  name: North Branch
+  lat: '43.2286'
+  long: "-83.1920"
+  nearby_rate_centers:
+  - name: NORTH BRCH
+    distance_km: 0.52
+  - name: CLIFFORD
+    distance_km: 10.1
+  - name: MARLETTE
+    distance_km: 13.97
+- country: US
+  region: MI
+  name: North Muskegon
+  lat: '43.2517'
+  long: "-86.2715"
+  nearby_rate_centers:
+  - name: MUSKEGON
+    distance_km: 3.0
+  - name: TWIN LAKE
+    distance_km: 14.57
+  - name: FRUITPORT
+    distance_km: 16.77
+- country: US
+  region: MI
+  name: Northport
+  lat: '45.1303'
+  long: "-85.6171"
+  nearby_rate_centers:
+  - name: NORTHPORT
+    distance_km: 0.32
+  - name: SUTTONSBAY
+    distance_km: 17.69
+  - name: LKLEELANAU
+    distance_km: 18.25
+- country: US
+  region: MI
+  name: Northview
+  lat: '43.0427'
+  long: "-85.6016"
+  nearby_rate_centers:
+  - name: ROCKFORD
+    distance_km: 9.12
+  - name: GRAND RPDS
+    distance_km: 9.86
+  - name: ADA
+    distance_km: 13.73
+- country: US
+  region: MI
+  name: Northville
+  lat: '42.4355'
+  long: "-83.4890"
+  nearby_rate_centers:
+  - name: NORTHVILLE
+    distance_km: 0.72
+  - name: PLYMOUTH
+    distance_km: 6.66
+  - name: FARMINGTON
+    distance_km: 9.93
+- country: US
+  region: MI
+  name: Norton Shores
+  lat: '43.1621'
+  long: "-86.2519"
+  nearby_rate_centers:
+  - name: MUSKEGON
+    distance_km: 8.23
+  - name: FRUITPORT
+    distance_km: 8.46
+  - name: GRANDHAVEN
+    distance_km: 10.86
+- country: US
+  region: MI
+  name: Norway
+  lat: '45.7997'
+  long: "-87.9140"
+  nearby_rate_centers:
+  - name: NORWAY
+    distance_km: 1.13
+  - name: IRON MT
+    distance_km: 12.14
+  - name: FAITHORN
+    distance_km: 18.17
+- country: US
+  region: MI
+  name: Norwood
+  lat: '45.2239'
+  long: "-85.3791"
+  nearby_rate_centers:
+  - name: ELLSWORTH
+    distance_km: 12.15
+  - name: EASTPORT
+    distance_km: 13.06
+  - name: CHARLEVOIX
+    distance_km: 14.06
+- country: US
+  region: MI
+  name: Novi
+  lat: '42.4786'
+  long: "-83.4893"
+  nearby_rate_centers:
+  - name: NORTHVILLE
+    distance_km: 5.21
+  - name: WALLEDLAKE
+    distance_km: 6.33
+  - name: FARMINGTON
+    distance_km: 9.49
+- country: US
+  region: MI
+  name: Nunica
+  lat: '43.0810'
+  long: "-86.0721"
+  nearby_rate_centers:
+  - name: FRUITPORT
+    distance_km: 8.7
+  - name: COOPERSVL
+    distance_km: 11.6
+  - name: GRANDHAVEN
+    distance_km: 12.71
+- country: US
+  region: MI
+  name: Oak Hill
+  lat: '44.2197'
+  long: "-86.3031"
+  nearby_rate_centers:
+  - name: MANISTEE
+    distance_km: 3.98
+  - name: FREESOIL
+    distance_km: 15.3
+  - name: ONEKAMA
+    distance_km: 18.21
+- country: US
+  region: MI
+  name: Oak Park
+  lat: '42.4649'
+  long: "-83.1824"
+  nearby_rate_centers:
+  - name: ROYAL OAK
+    distance_km: 4.28
+  - name: SOUTHFIELD
+    distance_km: 6.61
+  - name: BIRMINGHAM
+    distance_km: 9.02
+- country: US
+  region: MI
+  name: Oakley
+  lat: '43.1434'
+  long: "-84.1685"
+  nearby_rate_centers:
+  - name: CHESANING
+    distance_km: 5.92
+  - name: CHAPIN
+    distance_km: 10.82
+  - name: BRANT
+    distance_km: 13.88
+- country: US
+  region: MI
+  name: Oden
+  lat: '45.4251'
+  long: "-84.8257"
+  nearby_rate_centers:
+  - name: ALANSON
+    distance_km: 3.35
+  - name: BRUTUS
+    distance_km: 8.13
+  - name: PETOSKEY
+    distance_km: 11.3
+- country: US
+  region: MI
+  name: Okemos
+  lat: '42.7057'
+  long: "-84.4135"
+  nearby_rate_centers:
+  - name: WILLIAMSTN
+    distance_km: 10.73
+  - name: HOLT
+    distance_km: 11.01
+  - name: LANSING
+    distance_km: 11.83
+- country: US
+  region: MI
+  name: Olivet
+  lat: '42.4440'
+  long: "-84.9246"
+  nearby_rate_centers:
+  - name: OLIVET
+    distance_km: 0.08
+  - name: BELLEVUE
+    distance_km: 7.73
+  - name: CHARLOTTE
+    distance_km: 15.34
+- country: US
+  region: MI
+  name: Omena
+  lat: '45.0599'
+  long: "-85.5956"
+  nearby_rate_centers:
+  - name: NORTHPORT
+    distance_km: 8.33
+  - name: SUTTONSBAY
+    distance_km: 10.72
+  - name: LKLEELANAU
+    distance_km: 12.87
+- country: US
+  region: MI
+  name: Omer
+  lat: '44.0487'
+  long: "-83.8565"
+  nearby_rate_centers:
+  - name: OMER
+    distance_km: 0.6
+  - name: TWINING
+    distance_km: 8.25
+  - name: STANDISH
+    distance_km: 10.73
+- country: US
+  region: MI
+  name: Onaway
+  lat: '45.3589'
+  long: "-84.2274"
+  nearby_rate_centers:
+  - name: ONAWAY
+    distance_km: 0.29
+  - name: GRACE HBR
+    distance_km: 26.31
+  - name: WOLVERINE
+    distance_km: 30.56
+- country: US
+  region: MI
+  name: Onekama
+  lat: '44.3656'
+  long: "-86.2021"
+  nearby_rate_centers:
+  - name: ONEKAMA
+    distance_km: 0.17
+  - name: BEAR LAKE
+    distance_km: 6.82
+  - name: KALEVA
+    distance_km: 15.64
+- country: US
+  region: MI
+  name: Onsted
+  lat: '42.0061'
+  long: "-84.1893"
+  nearby_rate_centers:
+  - name: ONSTED
+    distance_km: 0.51
+  - name: TIPTON
+    distance_km: 10.17
+  - name: BROOKLYN
+    distance_km: 12.56
+- country: US
+  region: MI
+  name: Ontonagon
+  lat: '46.8665'
+  long: "-89.3122"
+  nearby_rate_centers:
+  - name: ONTONAGON
+    distance_km: 0.97
+  - name: ROCKLAND
+    distance_km: 18.17
+  - name: MASS
+    distance_km: 21.29
+- country: US
+  region: MI
+  name: Ortonville
+  lat: '42.8510'
+  long: "-83.4427"
+  nearby_rate_centers:
+  - name: ORTONVILLE
+    distance_km: 0.35
+  - name: GOODRICH
+    distance_km: 9.01
+  - name: HADLEY
+    distance_km: 11.48
+- country: US
+  region: MI
+  name: Oscoda
+  lat: '44.4250'
+  long: "-83.3339"
+  nearby_rate_centers:
+  - name: OSCODA
+    distance_km: 1.32
+  - name: EAST TAWAS
+    distance_km: 20.06
+  - name: HARRISVL
+    distance_km: 26.08
+- country: US
+  region: MI
+  name: Ossineke
+  lat: '44.9072'
+  long: "-83.4287"
+  nearby_rate_centers:
+  - name: OSSINEKE
+    distance_km: 2.02
+  - name: HUBBARD LK
+    distance_km: 13.36
+  - name: ALPENA
+    distance_km: 17.04
+- country: US
+  region: MI
+  name: Otisville
+  lat: '43.1661'
+  long: "-83.5247"
+  nearby_rate_centers:
+  - name: OTISVILLE
+    distance_km: 0.19
+  - name: COLUMBIAVL
+    distance_km: 9.46
+  - name: MILLINGTON
+    distance_km: 12.3
+- country: US
+  region: MI
+  name: Otsego
+  lat: '42.4576'
+  long: "-85.6980"
+  nearby_rate_centers:
+  - name: OTSEGO
+    distance_km: 0.65
+  - name: PLAINWELL
+    distance_km: 4.1
+  - name: MARTIN
+    distance_km: 9.63
+- country: US
+  region: MI
+  name: Otter Lake
+  lat: '43.2138'
+  long: "-83.4595"
+  nearby_rate_centers:
+  - name: OTISVILLE
+    distance_km: 7.55
+  - name: COLUMBIAVL
+    distance_km: 7.95
+  - name: FOSTORIA
+    distance_km: 8.0
+- country: US
+  region: MI
+  name: Ovid
+  lat: '43.0031'
+  long: "-84.3742"
+  nearby_rate_centers:
+  - name: OVID
+    distance_km: 0.72
+  - name: ELSIE
+    distance_km: 8.79
+  - name: LAINGSBURG
+    distance_km: 12.7
+- country: US
+  region: MI
+  name: Owendale
+  lat: '43.7273'
+  long: "-83.2671"
+  nearby_rate_centers:
+  - name: OWENDALE
+    distance_km: 0.38
+  - name: GAGETOWN
+    distance_km: 9.04
+  - name: PIGEON
+    distance_km: 11.11
+- country: US
+  region: MI
+  name: Owosso
+  lat: '42.9955'
+  long: "-84.1760"
+  nearby_rate_centers:
+  - name: OWOSSO
+    distance_km: 0.67
+  - name: BANCROFT
+    distance_km: 16.2
+  - name: OVID
+    distance_km: 16.42
+- country: US
+  region: MI
+  name: Oxford
+  lat: '42.8218'
+  long: "-83.2563"
+  nearby_rate_centers:
+  - name: OXFORD
+    distance_km: 1.15
+  - name: LAKE ORION
+    distance_km: 4.64
+  - name: METAMORA
+    distance_km: 13.45
+- country: US
+  region: MI
+  name: Painesdale
+  lat: '47.0435'
+  long: "-88.6715"
+  nearby_rate_centers:
+  - name: HOUGHTON
+    distance_km: 11.93
+  - name: DONKEN
+    distance_km: 14.61
+  - name: TAPIOLA
+    distance_km: 16.16
+- country: US
+  region: MI
+  name: Palmer
+  lat: '46.4436'
+  long: "-87.5817"
+  nearby_rate_centers:
+  - name: NEGAUNEE
+    distance_km: 6.82
+  - name: ISHPEMING
+    distance_km: 8.59
+  - name: MARQUETTE
+    distance_km: 18.98
+- country: US
+  region: MI
+  name: Palo
+  lat: '43.1106'
+  long: "-84.9861"
+  nearby_rate_centers:
+  - name: PALO
+    distance_km: 0.28
+  - name: VICKERYVL
+    distance_km: 8.97
+  - name: FENWICK
+    distance_km: 9.01
+- country: US
+  region: MI
+  name: Parchment
+  lat: '42.3277'
+  long: "-85.5667"
+  nearby_rate_centers:
+  - name: KALAMAZOO
+    distance_km: 4.22
+  - name: RICHLAND
+    distance_km: 10.92
+  - name: GALESBURG
+    distance_km: 12.28
+- country: US
+  region: MI
+  name: Paris
+  lat: '43.7814'
+  long: "-85.5067"
+  nearby_rate_centers:
+  - name: BIG RAPIDS
+    distance_km: 9.32
+  - name: REED CITY
+    distance_km: 10.2
+  - name: CHIPPEWALK
+    distance_km: 17.81
+- country: US
+  region: MI
+  name: Parkdale
+  lat: '44.2720'
+  long: "-86.2805"
+  nearby_rate_centers:
+  - name: MANISTEE
+    distance_km: 4.78
+  - name: ONEKAMA
+    distance_km: 12.22
+  - name: BEAR LAKE
+    distance_km: 18.93
+- country: US
+  region: MI
+  name: Parma
+  lat: '42.2633'
+  long: "-84.5793"
+  nearby_rate_centers:
+  - name: PARMA
+    distance_km: 1.37
+  - name: CONCORD
+    distance_km: 11.23
+  - name: HANOVER
+    distance_km: 13.49
+- country: US
+  region: MI
+  name: Paw Paw
+  lat: '42.2148'
+  long: "-85.8919"
+  nearby_rate_centers:
+  - name: PAW PAW
+    distance_km: 0.31
+  - name: LAWTON
+    distance_km: 6.59
+  - name: MATTAWAN
+    distance_km: 9.06
+- country: US
+  region: MI
+  name: Paw Paw Lake
+  lat: '42.2113'
+  long: "-86.2759"
+  nearby_rate_centers:
+  - name: WATERVLIET
+    distance_km: 3.12
+  - name: COLOMA
+    distance_km: 3.76
+  - name: HARTFORD
+    distance_km: 8.73
+- country: US
+  region: MI
+  name: Pearl Beach
+  lat: '42.6295'
+  long: "-82.5834"
+  nearby_rate_centers:
+  - name: ALGONAC
+    distance_km: 4.44
+  - name: MARINECITY
+    distance_km: 11.7
+  - name: NEWBALTIMR
+    distance_km: 13.5
+- country: US
+  region: MI
+  name: Peck
+  lat: '43.2588'
+  long: "-82.8167"
+  nearby_rate_centers:
+  - name: PECK
+    distance_km: 0.25
+  - name: YALE
+    distance_km: 13.72
+  - name: BROWN CITY
+    distance_km: 15.27
+- country: US
+  region: MI
+  name: Pelkie
+  lat: '46.8124'
+  long: "-88.6373"
+  nearby_rate_centers:
+  - name: TAPIOLA
+    distance_km: 9.97
+  - name: ALSTON
+    distance_km: 10.48
+  - name: BARAGA
+    distance_km: 11.72
+- country: US
+  region: MI
+  name: Pellston
+  lat: '45.5519'
+  long: "-84.7830"
+  nearby_rate_centers:
+  - name: PELLSTON
+    distance_km: 0.27
+  - name: BRUTUS
+    distance_km: 6.64
+  - name: LEVERING
+    distance_km: 9.26
+- country: US
+  region: MI
+  name: Pentwater
+  lat: '43.7793'
+  long: "-86.4303"
+  nearby_rate_centers:
+  - name: PENTWATER
+    distance_km: 0.86
+  - name: HART
+    distance_km: 10.1
+  - name: LUDINGTON
+    distance_km: 19.02
+- country: US
+  region: MI
+  name: Perrinton
+  lat: '43.1807'
+  long: "-84.6793"
+  nearby_rate_centers:
+  - name: MIDDLETON
+    distance_km: 2.47
+  - name: POMPEII
+    distance_km: 6.46
+  - name: MAPLE RPD
+    distance_km: 9.05
+- country: US
+  region: MI
+  name: Perry
+  lat: '42.8195'
+  long: "-84.2320"
+  nearby_rate_centers:
+  - name: PERRY
+    distance_km: 1.39
+  - name: SHAFTSBURG
+    distance_km: 5.17
+  - name: BELL OAK
+    distance_km: 11.24
+- country: US
+  region: MI
+  name: Petersburg
+  lat: '41.8993'
+  long: "-83.7136"
+  nearby_rate_centers:
+  - name: PETERSBURG
+    distance_km: 0.28
+  - name: DEERFIELD
+    distance_km: 5.69
+  - name: DUNDEE
+    distance_km: 7.95
+- country: US
+  region: MI
+  name: Petoskey
+  lat: '45.3649'
+  long: "-84.9888"
+  nearby_rate_centers:
+  - name: PETOSKEY
+    distance_km: 3.15
+  - name: HARBOR SPG
+    distance_km: 7.55
+  - name: WALLOON LK
+    distance_km: 11.85
+- country: US
+  region: MI
+  name: Pewamo
+  lat: '43.0020'
+  long: "-84.8473"
+  nearby_rate_centers:
+  - name: FOWLERPWMO
+    distance_km: 6.46
+  - name: MUIR
+    distance_km: 7.58
+  - name: WESTPHALIA
+    distance_km: 9.61
+- country: US
+  region: MI
+  name: Pierson
+  lat: '43.3196'
+  long: "-85.4975"
+  nearby_rate_centers:
+  - name: SAND LAKE
+    distance_km: 4.12
+  - name: HOWARDCITY
+    distance_km: 8.59
+  - name: CORAL
+    distance_km: 8.88
+- country: US
+  region: MI
+  name: Pigeon
+  lat: '43.8295'
+  long: "-83.2702"
+  nearby_rate_centers:
+  - name: PIGEON
+    distance_km: 0.29
+  - name: ELKTON
+    distance_km: 7.45
+  - name: BAY PORT
+    distance_km: 8.51
+- country: US
+  region: MI
+  name: Pilgrim
+  lat: '44.6645'
+  long: "-86.2498"
+  nearby_rate_centers:
+  - name: FRANKFORT
+    distance_km: 3.6
+  - name: BEULAH
+    distance_km: 13.42
+  - name: HONOR
+    distance_km: 17.65
+- country: US
+  region: MI
+  name: Pinckney
+  lat: '42.4543'
+  long: "-83.9457"
+  nearby_rate_centers:
+  - name: PINCKNEY
+    distance_km: 0.47
+  - name: GREGORY
+    distance_km: 11.03
+  - name: DEXTER
+    distance_km: 14.16
+- country: US
+  region: MI
+  name: Pinconning
+  lat: '43.8573'
+  long: "-83.9638"
+  nearby_rate_centers:
+  - name: PINCONNING
+    distance_km: 0.88
+  - name: LINWOOD
+    distance_km: 12.78
+  - name: STANDISH
+    distance_km: 14.24
+- country: US
+  region: MI
+  name: Pittsford
+  lat: '41.8619'
+  long: "-84.4771"
+  nearby_rate_centers:
+  - name: OSSEO
+    distance_km: 5.73
+  - name: HUDSON
+    distance_km: 9.75
+  - name: RANSOM
+    distance_km: 10.74
+- country: US
+  region: MI
+  name: Plainwell
+  lat: '42.4457'
+  long: "-85.6435"
+  nearby_rate_centers:
+  - name: PLAINWELL
+    distance_km: 0.8
+  - name: OTSEGO
+    distance_km: 4.08
+  - name: MARTIN
+    distance_km: 9.71
+- country: US
+  region: MI
+  name: Pleasant Ridge
+  lat: '42.4715'
+  long: "-83.1445"
+  nearby_rate_centers:
+  - name: ROYAL OAK
+    distance_km: 1.45
+  - name: CENTERLINE
+    distance_km: 9.25
+  - name: SOUTHFIELD
+    distance_km: 9.48
+- country: US
+  region: MI
+  name: Plymouth
+  lat: '42.3718'
+  long: "-83.4680"
+  nearby_rate_centers:
+  - name: PLYMOUTH
+    distance_km: 0.66
+  - name: NORTHVILLE
+    distance_km: 6.8
+  - name: LIVONIA
+    distance_km: 10.02
+- country: US
+  region: MI
+  name: Ponshewaing
+  lat: '45.4208'
+  long: "-84.8060"
+  nearby_rate_centers:
+  - name: ALANSON
+    distance_km: 2.59
+  - name: BRUTUS
+    distance_km: 8.12
+  - name: PETOSKEY
+    distance_km: 12.44
+- country: US
+  region: MI
+  name: Pontiac
+  lat: '42.6493'
+  long: "-83.2878"
+  nearby_rate_centers:
+  - name: PONTIAC
+    distance_km: 1.1
+  - name: AUBURN HTS
+    distance_km: 5.57
+  - name: DRAYTON PL
+    distance_km: 7.82
+- country: US
+  region: MI
+  name: Port Austin
+  lat: '44.0431'
+  long: "-82.9945"
+  nearby_rate_centers:
+  - name: PORTAUSTIN
+    distance_km: 0.25
+  - name: KINDE
+    distance_km: 11.07
+  - name: CASEVILLE
+    distance_km: 24.96
+- country: US
+  region: MI
+  name: Port Hope
+  lat: '43.9394'
+  long: "-82.7153"
+  nearby_rate_centers:
+  - name: PORT HOPE
+    distance_km: 0.6
+  - name: HARBOR BCH
+    distance_km: 12.08
+  - name: KINDE
+    distance_km: 22.2
+- country: US
+  region: MI
+  name: Port Huron
+  lat: '42.9821'
+  long: "-82.4388"
+  nearby_rate_centers:
+  - name: PORT HURON
+    distance_km: 2.24
+  - name: SMITHS CRK
+    distance_km: 15.79
+  - name: GOODELLS
+    distance_km: 18.33
+- country: US
+  region: MI
+  name: Port Sanilac
+  lat: '43.4275'
+  long: "-82.5449"
+  nearby_rate_centers:
+  - name: PT SANILAC
+    distance_km: 0.49
+  - name: CARSONVL
+    distance_km: 9.8
+  - name: APPLEGATE
+    distance_km: 11.45
+- country: US
+  region: MI
+  name: Portage
+  lat: '42.2000'
+  long: "-85.5906"
+  nearby_rate_centers:
+  - name: KALAMAZOO
+    distance_km: 10.21
+  - name: VICKSBURG
+    distance_km: 10.48
+  - name: SCHOOLCFT
+    distance_km: 11.02
+- country: US
+  region: MI
+  name: Portland
+  lat: '42.8697'
+  long: "-84.8991"
+  nearby_rate_centers:
+  - name: PORTLAND
+    distance_km: 0.56
+  - name: WESTPHALIA
+    distance_km: 10.02
+  - name: MULLIKEN
+    distance_km: 11.53
+- country: US
+  region: MI
+  name: Posen
+  lat: '45.2622'
+  long: "-83.6989"
+  nearby_rate_centers:
+  - name: POSEN
+    distance_km: 0.39
+  - name: ROGERSCITY
+    distance_km: 20.82
+  - name: LACHINE
+    distance_km: 20.91
+- country: US
+  region: MI
+  name: Potterville
+  lat: '42.6299'
+  long: "-84.7433"
+  nearby_rate_centers:
+  - name: POTTERVL
+    distance_km: 0.63
+  - name: DIMONDALE
+    distance_km: 7.85
+  - name: CHARLOTTE
+    distance_km: 10.43
+- country: US
+  region: MI
+  name: Powers
+  lat: '45.6878'
+  long: "-87.5266"
+  nearby_rate_centers:
+  - name: POWERS
+    distance_km: 0.45
+  - name: HERMANSVL
+    distance_km: 5.91
+  - name: CARNEY
+    distance_km: 11.63
+- country: US
+  region: MI
+  name: Prescott
+  lat: '44.1916'
+  long: "-83.9323"
+  nearby_rate_centers:
+  - name: PRESCOTT
+    distance_km: 0.33
+  - name: WHITTEMORE
+    distance_km: 10.73
+  - name: TWINING
+    distance_km: 13.22
+- country: US
+  region: MI
+  name: Presque Isle Harbor
+  lat: '45.3226'
+  long: "-83.4858"
+  nearby_rate_centers:
+  - name: LONG LAKE
+    distance_km: 13.98
+  - name: POSEN
+    distance_km: 17.94
+  - name: ROGERSCITY
+    distance_km: 29.0
+- country: US
+  region: MI
+  name: Prudenville
+  lat: '44.3013'
+  long: "-84.6654"
+  nearby_rate_centers:
+  - name: HOUGHTONLK
+    distance_km: 7.18
+  - name: HIGGINS LK
+    distance_km: 17.74
+  - name: ST HELEN
+    distance_km: 22.06
+- country: US
+  region: MI
+  name: Quincy
+  lat: '41.9424'
+  long: "-84.8826"
+  nearby_rate_centers:
+  - name: QUINCY
+    distance_km: 1.17
+  - name: COLDWATER
+    distance_km: 9.53
+  - name: ALLEN
+    distance_km: 9.94
+- country: US
+  region: MI
+  name: Quinnesec
+  lat: '45.8030'
+  long: "-87.9958"
+  nearby_rate_centers:
+  - name: IRON MT
+    distance_km: 5.89
+  - name: NORWAY
+    distance_km: 7.35
+  - name: FAITHORN
+    distance_km: 23.3
+- country: US
+  region: MI
+  name: Ramsay
+  lat: '46.4700'
+  long: "-89.9978"
+  nearby_rate_centers:
+  - name: BESSEMER
+    distance_km: 4.4
+  - name: WAKEFIELD
+    distance_km: 5.12
+  - name: IRONWOOD
+    distance_km: 13.02
+- country: US
+  region: MI
+  name: Rapid City
+  lat: '44.8366'
+  long: "-85.2871"
+  nearby_rate_centers:
+  - name: TRCHRIVBDG
+    distance_km: 3.37
+  - name: ALDEN
+    distance_km: 5.25
+  - name: WILLIAMSBG
+    distance_km: 11.54
+- country: US
+  region: MI
+  name: Rapid River
+  lat: '45.9264'
+  long: "-86.9743"
+  nearby_rate_centers:
+  - name: RAPIDRIVER
+    distance_km: 0.7
+  - name: GLADSTONE
+    distance_km: 8.96
+  - name: PERKINS
+    distance_km: 9.07
+- country: US
+  region: MI
+  name: Ravenna
+  lat: '43.1888'
+  long: "-85.9415"
+  nearby_rate_centers:
+  - name: RAVENNA
+    distance_km: 0.66
+  - name: CONKLIN
+    distance_km: 8.62
+  - name: CASNOVIA
+    distance_km: 13.03
+- country: US
+  region: MI
+  name: Reading
+  lat: '41.8396'
+  long: "-84.7478"
+  nearby_rate_centers:
+  - name: READING
+    distance_km: 0.31
+  - name: CAMBRIA
+    distance_km: 6.95
+  - name: MONTGOMERY
+    distance_km: 8.57
+- country: US
+  region: MI
+  name: Reed City
+  lat: '43.8725'
+  long: "-85.5068"
+  nearby_rate_centers:
+  - name: REED CITY
+    distance_km: 0.17
+  - name: LE ROY
+    distance_km: 18.55
+  - name: BIG RAPIDS
+    distance_km: 19.37
+- country: US
+  region: MI
+  name: Reese
+  lat: '43.4528'
+  long: "-83.6893"
+  nearby_rate_centers:
+  - name: REESE
+    distance_km: 0.13
+  - name: MUNGER
+    distance_km: 9.98
+  - name: VASSAR
+    distance_km: 12.74
+- country: US
+  region: MI
+  name: Republic
+  lat: '46.3956'
+  long: "-87.9819"
+  nearby_rate_centers:
+  - name: REPUBLIC
+    distance_km: 1.47
+  - name: CHAMPION
+    distance_km: 13.32
+  - name: MICHIGAMME
+    distance_km: 18.36
+- country: US
+  region: MI
+  name: Richland
+  lat: '42.3762'
+  long: "-85.4553"
+  nearby_rate_centers:
+  - name: RICHLAND
+    distance_km: 0.6
+  - name: GALESBURG
+    distance_km: 9.48
+  - name: AUGUSTA
+    distance_km: 9.76
+- country: US
+  region: MI
+  name: Richmond
+  lat: '42.8094'
+  long: "-82.7518"
+  nearby_rate_centers:
+  - name: RICHMOND
+    distance_km: 0.5
+  - name: NEW HAVEN
+    distance_km: 9.53
+  - name: MEMPHIS
+    distance_km: 9.97
+- country: US
+  region: MI
+  name: River Rouge
+  lat: '42.2731'
+  long: "-83.1245"
+  nearby_rate_centers:
+  - name: WYANDOTTE
+    distance_km: 8.37
+  - name: DETROITZN1
+    distance_km: 8.93
+  - name: DETROITZN2
+    distance_km: 8.93
+  - name: DETROITZN3
+    distance_km: 8.93
+  - name: DETROITZN4
+    distance_km: 8.93
+  - name: DETROITZN5
+    distance_km: 8.93
+  - name: DETROITZN6
+    distance_km: 8.93
+  - name: TRENTON
+    distance_km: 15.2
+- country: US
+  region: MI
+  name: Riverdale
+  lat: '43.3828'
+  long: "-84.8392"
+  nearby_rate_centers:
+  - name: RIVERDALE
+    distance_km: 0.55
+  - name: VESTABURG
+    distance_km: 5.84
+  - name: ALMA
+    distance_km: 13.94
+- country: US
+  region: MI
+  name: Riverview
+  lat: '42.1723'
+  long: "-83.1946"
+  nearby_rate_centers:
+  - name: TRENTON
+    distance_km: 3.39
+  - name: WYANDOTTE
+    distance_km: 4.53
+  - name: FLAT ROCK
+    distance_km: 10.62
+- country: US
+  region: MI
+  name: Robin Glen-Indiantown
+  lat: '43.4618'
+  long: "-83.8408"
+  nearby_rate_centers:
+  - name: MUNGER
+    distance_km: 7.95
+  - name: SAGINAW
+    distance_km: 8.78
+  - name: REESE
+    distance_km: 12.19
+- country: US
+  region: MI
+  name: Rochester
+  lat: '42.6866'
+  long: "-83.1198"
+  nearby_rate_centers:
+  - name: ROCHESTER
+    distance_km: 1.3
+  - name: WASHINGTON
+    distance_km: 8.08
+  - name: UTICA
+    distance_km: 9.76
+- country: US
+  region: MI
+  name: Rochester Hills
+  lat: '42.6645'
+  long: "-83.1563"
+  nearby_rate_centers:
+  - name: ROCHESTER
+    distance_km: 2.59
+  - name: AUBURN HTS
+    distance_km: 6.38
+  - name: PONTIAC
+    distance_km: 10.77
+- country: US
+  region: MI
+  name: Rock
+  lat: '46.0686'
+  long: "-87.1616"
+  nearby_rate_centers:
+  - name: ROCK
+    distance_km: 0.44
+  - name: PERKINS
+    distance_km: 12.57
+  - name: CORNELL
+    distance_km: 19.35
+- country: US
+  region: MI
+  name: Rockford
+  lat: '43.1267'
+  long: "-85.5582"
+  nearby_rate_centers:
+  - name: ROCKFORD
+    distance_km: 1.4
+  - name: CEDAR SPG
+    distance_km: 11.17
+  - name: SPARTA
+    distance_km: 11.86
+- country: US
+  region: MI
+  name: Rockland
+  lat: '46.7394'
+  long: "-89.1795"
+  nearby_rate_centers:
+  - name: ROCKLAND
+    distance_km: 0.8
+  - name: MASS
+    distance_km: 8.53
+  - name: ONTONAGON
+    distance_km: 17.92
+- country: US
+  region: MI
+  name: Rockwood
+  lat: '42.0705'
+  long: "-83.2430"
+  nearby_rate_centers:
+  - name: ROCKWOOD
+    distance_km: 0.25
+  - name: FLAT ROCK
+    distance_km: 4.63
+  - name: NEWPORT
+    distance_km: 8.91
+- country: US
+  region: MI
+  name: Rogers City
+  lat: '45.4150'
+  long: "-83.8186"
+  nearby_rate_centers:
+  - name: ROGERSCITY
+    distance_km: 1.43
+  - name: POSEN
+    distance_km: 19.78
+  - name: ONAWAY
+    distance_km: 32.77
+- country: US
+  region: MI
+  name: Romeo
+  lat: '42.8049'
+  long: "-83.0041"
+  nearby_rate_centers:
+  - name: ROMEO
+    distance_km: 0.98
+  - name: WASHINGTON
+    distance_km: 9.46
+  - name: ARMADA
+    distance_km: 10.79
+- country: US
+  region: MI
+  name: Romulus
+  lat: '42.2237'
+  long: "-83.3660"
+  nearby_rate_centers:
+  - name: ROMULUS
+    distance_km: 1.94
+  - name: WAYNE
+    distance_km: 6.02
+  - name: NEW BOSTON
+    distance_km: 7.07
+- country: US
+  region: MI
+  name: Roosevelt Park
+  lat: '43.1982'
+  long: "-86.2733"
+  nearby_rate_centers:
+  - name: MUSKEGON
+    distance_km: 4.9
+  - name: FRUITPORT
+    distance_km: 12.25
+  - name: GRANDHAVEN
+    distance_km: 15.15
+- country: US
+  region: MI
+  name: Roscommon
+  lat: '44.4915'
+  long: "-84.5914"
+  nearby_rate_centers:
+  - name: ROSCOMMON
+    distance_km: 1.14
+  - name: HIGGINS LK
+    distance_km: 10.09
+  - name: ST HELEN
+    distance_km: 19.6
+- country: US
+  region: MI
+  name: Rose City
+  lat: '44.4209'
+  long: "-84.1160"
+  nearby_rate_centers:
+  - name: ROSE CITY
+    distance_km: 0.37
+  - name: LUPTON
+    distance_km: 11.72
+  - name: WESTBRANCH
+    distance_km: 18.82
+- country: US
+  region: MI
+  name: Rosebush
+  lat: '43.6998'
+  long: "-84.7657"
+  nearby_rate_centers:
+  - name: ROSEBUSH
+    distance_km: 0.41
+  - name: MTPLEASANT
+    distance_km: 10.85
+  - name: CLARE
+    distance_km: 12.76
+- country: US
+  region: MI
+  name: Roseville
+  lat: '42.5074'
+  long: "-82.9369"
+  nearby_rate_centers:
+  - name: ROSEVILLE
+    distance_km: 0.84
+  - name: CENTERLINE
+    distance_km: 8.24
+  - name: WARREN
+    distance_km: 8.91
+- country: US
+  region: MI
+  name: Rothbury
+  lat: '43.5199'
+  long: "-86.3588"
+  nearby_rate_centers:
+  - name: SHELBY
+    distance_km: 9.9
+  - name: WHITEHALL
+    distance_km: 12.68
+  - name: HART
+    distance_km: 20.0
+- country: US
+  region: MI
+  name: Royal Oak
+  lat: '42.5084'
+  long: "-83.1539"
+  nearby_rate_centers:
+  - name: ROYAL OAK
+    distance_km: 3.16
+  - name: TROY
+    distance_km: 6.07
+  - name: BIRMINGHAM
+    distance_km: 6.48
+- country: US
+  region: MI
+  name: Ruby
+  lat: '43.0323'
+  long: "-82.6118"
+  nearby_rate_centers:
+  - name: GOODELLS
+    distance_km: 6.91
+  - name: AVOCA
+    distance_km: 6.92
+  - name: SMITHS CRK
+    distance_km: 12.92
+- country: US
+  region: MI
+  name: Saginaw
+  lat: '43.4199'
+  long: "-83.9501"
+  nearby_rate_centers:
+  - name: SAGINAW
+    distance_km: 1.49
+  - name: MUNGER
+    distance_km: 17.61
+  - name: FREELAND
+    distance_km: 17.61
+- country: US
+  region: MI
+  name: Saline
+  lat: '42.1740'
+  long: "-83.7780"
+  nearby_rate_centers:
+  - name: SALINE
+    distance_km: 0.78
+  - name: ANN ARBOR
+    distance_km: 12.52
+  - name: MILAN
+    distance_km: 12.84
+- country: US
+  region: MI
+  name: Sand Lake
+  lat: '44.3276'
+  long: "-83.6711"
+  nearby_rate_centers:
+  - name: SANDLK HTS
+    distance_km: 0.38
+  - name: HALE
+    distance_km: 11.87
+  - name: EAST TAWAS
+    distance_km: 14.93
+- country: US
+  region: MI
+  name: Sandusky
+  lat: '43.4212'
+  long: "-82.8333"
+  nearby_rate_centers:
+  - name: SANDUSKY
+    distance_km: 0.78
+  - name: SNOVER
+    distance_km: 12.0
+  - name: CARSONVL
+    distance_km: 13.5
+- country: US
+  region: MI
+  name: Sanford
+  lat: '43.6777'
+  long: "-84.3803"
+  nearby_rate_centers:
+  - name: SANFORD
+    distance_km: 1.15
+  - name: HOPE
+    distance_km: 10.49
+  - name: MIDLAND
+    distance_km: 12.85
+- country: US
+  region: MI
+  name: Saranac
+  lat: '42.9294'
+  long: "-85.2105"
+  nearby_rate_centers:
+  - name: SARANAC
+    distance_km: 0.89
+  - name: CLARKSVL
+    distance_km: 9.85
+  - name: LOWELL
+    distance_km: 10.55
+- country: US
+  region: MI
+  name: Saugatuck
+  lat: '42.6592'
+  long: "-86.2061"
+  nearby_rate_centers:
+  - name: SAUGATUCK
+    distance_km: 1.2
+  - name: GANGES
+    distance_km: 9.51
+  - name: FENNVILLE
+    distance_km: 11.39
+- country: US
+  region: MI
+  name: Sault Ste. Marie
+  lat: '46.4817'
+  long: "-84.3723"
+  nearby_rate_centers:
+  - name: SALTSTMARI
+    distance_km: 2.86
+  - name: BRIMLEY
+    distance_km: 17.0
+  - name: KINROSS
+    distance_km: 25.02
+- country: US
+  region: MI
+  name: Schoolcraft
+  lat: '42.1170'
+  long: "-85.6337"
+  nearby_rate_centers:
+  - name: SCHOOLCFT
+    distance_km: 1.27
+  - name: VICKSBURG
+    distance_km: 8.43
+  - name: MATTAWAN
+    distance_km: 15.75
+- country: US
+  region: MI
+  name: Scotts
+  lat: '42.1941'
+  long: "-85.4137"
+  nearby_rate_centers:
+  - name: SCOTTS
+    distance_km: 0.83
+  - name: CLIMAX
+    distance_km: 8.21
+  - name: FULTON
+    distance_km: 10.39
+- country: US
+  region: MI
+  name: Scottville
+  lat: '43.9511'
+  long: "-86.2798"
+  nearby_rate_centers:
+  - name: SCOTTVILLE
+    distance_km: 0.46
+  - name: FOUNTAIN
+    distance_km: 13.64
+  - name: LUDINGTON
+    distance_km: 13.9
+- country: US
+  region: MI
+  name: Sebewaing
+  lat: '43.7318'
+  long: "-83.4497"
+  nearby_rate_centers:
+  - name: SEBEWAING
+    distance_km: 0.25
+  - name: UNIONVILLE
+    distance_km: 9.16
+  - name: BAY PORT
+    distance_km: 13.58
+- country: US
+  region: MI
+  name: Shaftsburg
+  lat: '42.8059'
+  long: "-84.2950"
+  nearby_rate_centers:
+  - name: SHAFTSBURG
+    distance_km: 0.68
+  - name: PERRY
+    distance_km: 6.74
+  - name: LAINGSBURG
+    distance_km: 10.37
+- country: US
+  region: MI
+  name: Shelby
+  lat: '43.6114'
+  long: "-86.3648"
+  nearby_rate_centers:
+  - name: SHELBY
+    distance_km: 0.35
+  - name: HART
+    distance_km: 9.82
+  - name: PENTWATER
+    distance_km: 19.68
+- country: US
+  region: MI
+  name: Shepherd
+  lat: '43.5235'
+  long: "-84.6927"
+  nearby_rate_centers:
+  - name: SHEPHERD
+    distance_km: 0.41
+  - name: MTPLEASANT
+    distance_km: 10.66
+  - name: ST LOUIS
+    distance_km: 14.5
+- country: US
+  region: MI
+  name: Sheridan
+  lat: '43.2086'
+  long: "-85.0739"
+  nearby_rate_centers:
+  - name: SHERIDAN
+    distance_km: 0.71
+  - name: FENWICK
+    distance_km: 6.65
+  - name: SIDNEY
+    distance_km: 6.75
+- country: US
+  region: MI
+  name: Sherwood
+  lat: '41.9997'
+  long: "-85.2394"
+  nearby_rate_centers:
+  - name: COLON
+    distance_km: 7.43
+  - name: ATHENS
+    distance_km: 9.49
+  - name: UNION CITY
+    distance_km: 11.41
+- country: US
+  region: MI
+  name: Shields
+  lat: '43.4211'
+  long: "-84.0747"
+  nearby_rate_centers:
+  - name: SAGINAW
+    distance_km: 10.84
+  - name: FREELAND
+    distance_km: 11.79
+  - name: HEMLOCK
+    distance_km: 12.63
+- country: US
+  region: MI
+  name: Shoreham
+  lat: '42.0604'
+  long: "-86.5115"
+  nearby_rate_centers:
+  - name: ST JOSEPH
+    distance_km: 6.03
+  - name: BENTON HBR
+    distance_km: 8.18
+  - name: BARODA
+    distance_km: 11.75
+- country: US
+  region: MI
+  name: Shorewood-Tower Hills-Harbert
+  lat: '41.8817'
+  long: "-86.6142"
+  nearby_rate_centers:
+  - name: SAWYER
+    distance_km: 1.4
+  - name: THREE OAKS
+    distance_km: 9.32
+  - name: BRIDGMAN
+    distance_km: 9.56
+- country: US
+  region: MI
+  name: Skanee
+  lat: '46.8789'
+  long: "-88.2040"
+  nearby_rate_centers:
+  - name: L ANSE
+    distance_km: 22.84
+  - name: BARAGA
+    distance_km: 24.07
+  - name: TAPIOLA
+    distance_km: 32.1
+- country: US
+  region: MI
+  name: Skidway Lake
+  lat: '44.1918'
+  long: "-84.0467"
+  nearby_rate_centers:
+  - name: PRESCOTT
+    distance_km: 8.82
+  - name: ALGER
+    distance_km: 9.5
+  - name: STERLING
+    distance_km: 17.68
+- country: US
+  region: MI
+  name: Snover
+  lat: '43.4564'
+  long: "-82.9684"
+  nearby_rate_centers:
+  - name: SNOVER
+    distance_km: 0.47
+  - name: SANDUSKY
+    distance_km: 11.97
+  - name: MARLETTE
+    distance_km: 17.21
+- country: US
+  region: MI
+  name: South Boardman
+  lat: '44.6400'
+  long: "-85.2864"
+  nearby_rate_centers:
+  - name: SOBOARDMAN
+    distance_km: 0.26
+  - name: FIFE LAKE
+    distance_km: 8.99
+  - name: KALKASKA
+    distance_km: 13.22
+- country: US
+  region: MI
+  name: South Gull Lake
+  lat: '42.3901'
+  long: "-85.4008"
+  nearby_rate_centers:
+  - name: RICHLAND
+    distance_km: 4.38
+  - name: HICKORYCOR
+    distance_km: 6.24
+  - name: AUGUSTA
+    distance_km: 7.54
+- country: US
+  region: MI
+  name: South Haven
+  lat: '42.4011'
+  long: "-86.2677"
+  nearby_rate_centers:
+  - name: SOUTHHAVEN
+    distance_km: 0.13
+  - name: LACOTA
+    distance_km: 11.03
+  - name: COVERT
+    distance_km: 12.16
+- country: US
+  region: MI
+  name: South Lyon
+  lat: '42.4614'
+  long: "-83.6526"
+  nearby_rate_centers:
+  - name: SOUTH LYON
+    distance_km: 0.54
+  - name: WHITMORELK
+    distance_km: 9.34
+  - name: BRIGHTON
+    distance_km: 13.31
+- country: US
+  region: MI
+  name: South Monroe
+  lat: '41.8927'
+  long: "-83.4186"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 3.23
+  - name: IDA
+    distance_km: 12.34
+  - name: ERIE
+    distance_km: 13.15
+- country: US
+  region: MI
+  name: South Range
+  lat: '47.0703'
+  long: "-88.6440"
+  nearby_rate_centers:
+  - name: HOUGHTON
+    distance_km: 8.4
+  - name: DONKEN
+    distance_km: 18.24
+  - name: TAPIOLA
+    distance_km: 18.8
+- country: US
+  region: MI
+  name: South Rockwood
+  lat: '42.0597'
+  long: "-83.2654"
+  nearby_rate_centers:
+  - name: ROCKWOOD
+    distance_km: 2.09
+  - name: FLAT ROCK
+    distance_km: 4.8
+  - name: NEWPORT
+    distance_km: 7.01
+- country: US
+  region: MI
+  name: Southfield
+  lat: '42.4765'
+  long: "-83.2605"
+  nearby_rate_centers:
+  - name: SOUTHFIELD
+    distance_km: 0.82
+  - name: BIRMINGHAM
+    distance_km: 7.97
+  - name: FARMINGTON
+    distance_km: 9.47
+- country: US
+  region: MI
+  name: Southgate
+  lat: '42.2047'
+  long: "-83.2057"
+  nearby_rate_centers:
+  - name: WYANDOTTE
+    distance_km: 4.08
+  - name: TRENTON
+    distance_km: 7.11
+  - name: FLAT ROCK
+    distance_km: 13.06
+- country: US
+  region: MI
+  name: Sparta
+  lat: '43.1571'
+  long: "-85.7106"
+  nearby_rate_centers:
+  - name: SPARTA
+    distance_km: 0.97
+  - name: KENT CITY
+    distance_km: 7.38
+  - name: CASNOVIA
+    distance_km: 10.56
+- country: US
+  region: MI
+  name: Spring Arbor
+  lat: '42.2055'
+  long: "-84.5551"
+  nearby_rate_centers:
+  - name: HANOVER
+    distance_km: 6.82
+  - name: PARMA
+    distance_km: 6.92
+  - name: CONCORD
+    distance_km: 7.97
+- country: US
+  region: MI
+  name: Spring Lake
+  lat: '43.0733'
+  long: "-86.1944"
+  nearby_rate_centers:
+  - name: GRANDHAVEN
+    distance_km: 2.78
+  - name: FRUITPORT
+    distance_km: 6.22
+  - name: MUSKEGON
+    distance_km: 18.46
+- country: US
+  region: MI
+  name: Springfield
+  lat: '42.3246'
+  long: "-85.2371"
+  nearby_rate_centers:
+  - name: BATTLE CRK
+    distance_km: 4.23
+  - name: AUGUSTA
+    distance_km: 9.5
+  - name: CLIMAX
+    distance_km: 12.38
+- country: US
+  region: MI
+  name: Springport
+  lat: '42.3783'
+  long: "-84.6965"
+  nearby_rate_centers:
+  - name: SPRINGPORT
+    distance_km: 0.55
+  - name: EATON RPD
+    distance_km: 15.04
+  - name: PARMA
+    distance_km: 15.55
+- country: US
+  region: MI
+  name: St. Charles
+  lat: '43.2988'
+  long: "-84.1476"
+  nearby_rate_centers:
+  - name: ST CHARLES
+    distance_km: 0.8
+  - name: BRANT
+    distance_km: 8.4
+  - name: CHESANING
+    distance_km: 13.41
+- country: US
+  region: MI
+  name: St. Clair
+  lat: '42.8262'
+  long: "-82.4930"
+  nearby_rate_centers:
+  - name: ST CLAIR
+    distance_km: 0.62
+  - name: MARINECITY
+    distance_km: 12.34
+  - name: SMITHS CRK
+    distance_km: 13.84
+- country: US
+  region: MI
+  name: St. Clair Shores
+  lat: '42.4925'
+  long: "-82.8961"
+  nearby_rate_centers:
+  - name: ROSEVILLE
+    distance_km: 3.21
+  - name: MT CLEMENS
+    distance_km: 10.9
+  - name: CENTERLINE
+    distance_km: 11.4
+- country: US
+  region: MI
+  name: St. Helen
+  lat: '44.3592'
+  long: "-84.4117"
+  nearby_rate_centers:
+  - name: ST HELEN
+    distance_km: 1.69
+  - name: WESTBRANCH
+    distance_km: 16.26
+  - name: ROSCOMMON
+    distance_km: 21.63
+- country: US
+  region: MI
+  name: St. Ignace
+  lat: '45.8694'
+  long: "-84.7258"
+  nearby_rate_centers:
+  - name: ST IGNACE
+    distance_km: 0.05
+  - name: MACKINACIS
+    distance_km: 7.85
+  - name: MACKINAWCY
+    distance_km: 9.87
+- country: US
+  region: MI
+  name: St. James
+  lat: '45.7473'
+  long: "-85.5173"
+  nearby_rate_centers:
+  - name: ST JAMES
+    distance_km: 0.72
+  - name: SCOTTPOINT
+    distance_km: 33.72
+  - name: ENGADINE
+    distance_km: 41.3
+- country: US
+  region: MI
+  name: St. Johns
+  lat: '43.0006'
+  long: "-84.5554"
+  nearby_rate_centers:
+  - name: ST JOHNS
+    distance_km: 0.17
+  - name: OVID
+    distance_km: 14.54
+  - name: MAPLE RPD
+    distance_km: 15.46
+- country: US
+  region: MI
+  name: St. Joseph
+  lat: '42.0968'
+  long: "-86.4849"
+  nearby_rate_centers:
+  - name: ST JOSEPH
+    distance_km: 1.51
+  - name: BENTON HBR
+    distance_km: 3.74
+  - name: BARODA
+    distance_km: 15.69
+- country: US
+  region: MI
+  name: St. Louis
+  lat: '43.4082'
+  long: "-84.6118"
+  nearby_rate_centers:
+  - name: ST LOUIS
+    distance_km: 0.13
+  - name: ALMA
+    distance_km: 5.95
+  - name: BRECKENRDG
+    distance_km: 11.29
+- country: US
+  region: MI
+  name: Standish
+  lat: '43.9794'
+  long: "-83.9637"
+  nearby_rate_centers:
+  - name: STANDISH
+    distance_km: 0.81
+  - name: STERLING
+    distance_km: 7.6
+  - name: OMER
+    distance_km: 12.12
+- country: US
+  region: MI
+  name: Stanton
+  lat: '43.2928'
+  long: "-85.0789"
+  nearby_rate_centers:
+  - name: STANTON
+    distance_km: 0.52
+  - name: SIDNEY
+    distance_km: 6.53
+  - name: MCBRIDES
+    distance_km: 7.0
+- country: US
+  region: MI
+  name: Stanwood
+  lat: '43.5805'
+  long: "-85.4481"
+  nearby_rate_centers:
+  - name: STANWOOD
+    distance_km: 0.81
+  - name: MORLEY
+    distance_km: 10.63
+  - name: BIG RAPIDS
+    distance_km: 13.52
+- country: US
+  region: MI
+  name: Stephenson
+  lat: '45.4137'
+  long: "-87.6091"
+  nearby_rate_centers:
+  - name: STEPHENSON
+    distance_km: 0.96
+  - name: WALLACE
+    distance_km: 9.69
+  - name: CARNEY
+    distance_km: 19.52
+- country: US
+  region: MI
+  name: Sterling
+  lat: '44.0325'
+  long: "-84.0194"
+  nearby_rate_centers:
+  - name: STERLING
+    distance_km: 0.21
+  - name: STANDISH
+    distance_km: 7.2
+  - name: ALGER
+    distance_km: 12.77
+- country: US
+  region: MI
+  name: Sterling Heights
+  lat: '42.5809'
+  long: "-83.0305"
+  nearby_rate_centers:
+  - name: UTICA
+    distance_km: 4.99
+  - name: WARREN
+    distance_km: 6.05
+  - name: TROY
+    distance_km: 8.13
+- country: US
+  region: MI
+  name: Stevensville
+  lat: '42.0139'
+  long: "-86.5243"
+  nearby_rate_centers:
+  - name: BRIDGMAN
+    distance_km: 6.97
+  - name: BARODA
+    distance_km: 7.01
+  - name: ST JOSEPH
+    distance_km: 11.25
+- country: US
+  region: MI
+  name: Stockbridge
+  lat: '42.4483'
+  long: "-84.1757"
+  nearby_rate_centers:
+  - name: STOCKBDG
+    distance_km: 0.45
+  - name: GREGORY
+    distance_km: 7.94
+  - name: FITCHBURG
+    distance_km: 8.33
+- country: US
+  region: MI
+  name: Stony Point
+  lat: '41.9451'
+  long: "-83.2751"
+  nearby_rate_centers:
+  - name: NEWPORT
+    distance_km: 6.49
+  - name: MONROE
+    distance_km: 10.73
+  - name: ROCKWOOD
+    distance_km: 13.95
+- country: US
+  region: MI
+  name: Stronach
+  lat: '44.2131'
+  long: "-86.2731"
+  nearby_rate_centers:
+  - name: MANISTEE
+    distance_km: 6.13
+  - name: FREESOIL
+    distance_km: 13.68
+  - name: ONEKAMA
+    distance_km: 17.99
+- country: US
+  region: MI
+  name: Sturgis
+  lat: '41.7991'
+  long: "-85.4184"
+  nearby_rate_centers:
+  - name: STURGIS
+    distance_km: 0.08
+  - name: BURR OAK
+    distance_km: 9.56
+  - name: CENTREVL
+    distance_km: 16.67
+- country: US
+  region: MI
+  name: Sunfield
+  lat: '42.7612'
+  long: "-84.9952"
+  nearby_rate_centers:
+  - name: SUNFIELD
+    distance_km: 0.26
+  - name: MULLIKEN
+    distance_km: 8.25
+  - name: LAKEODESSA
+    distance_km: 12.0
+- country: US
+  region: MI
+  name: Suttons Bay
+  lat: '44.9800'
+  long: "-85.6506"
+  nearby_rate_centers:
+  - name: SUTTONSBAY
+    distance_km: 0.84
+  - name: LKLEELANAU
+    distance_km: 5.21
+  - name: OLDMISSION
+    distance_km: 14.57
+- country: US
+  region: MI
+  name: Swartz Creek
+  lat: '42.9631'
+  long: "-83.8251"
+  nearby_rate_centers:
+  - name: SWARTZ CRK
+    distance_km: 1.56
+  - name: LENNON
+    distance_km: 8.47
+  - name: RANKIN
+    distance_km: 8.61
+- country: US
+  region: MI
+  name: Sylvan Lake
+  lat: '42.6172'
+  long: "-83.3331"
+  nearby_rate_centers:
+  - name: PONTIAC
+    distance_km: 4.77
+  - name: DRAYTON PL
+    distance_km: 8.04
+  - name: AUBURN HTS
+    distance_km: 9.23
+- country: US
+  region: MI
+  name: Tawas City
+  lat: '44.2679'
+  long: "-83.5244"
+  nearby_rate_centers:
+  - name: EAST TAWAS
+    distance_km: 3.14
+  - name: SANDLK HTS
+    distance_km: 13.6
+  - name: OSCODA
+    distance_km: 22.98
+- country: US
+  region: MI
+  name: Taylor
+  lat: '42.2260'
+  long: "-83.2688"
+  nearby_rate_centers:
+  - name: WYANDOTTE
+    distance_km: 9.66
+  - name: ROMULUS
+    distance_km: 9.94
+  - name: WAYNE
+    distance_km: 11.01
+- country: US
+  region: MI
+  name: Tecumseh
+  lat: '42.0066'
+  long: "-83.9450"
+  nearby_rate_centers:
+  - name: TECUMSEH
+    distance_km: 0.6
+  - name: CLINTON
+    distance_km: 7.03
+  - name: BRITTON
+    distance_km: 10.1
+- country: US
+  region: MI
+  name: Tekonsha
+  lat: '42.0964'
+  long: "-84.9903"
+  nearby_rate_centers:
+  - name: TEKONSHA
+    distance_km: 0.83
+  - name: BURLINGTON
+    distance_km: 7.2
+  - name: UNION CITY
+    distance_km: 12.23
+- country: US
+  region: MI
+  name: Temperance
+  lat: '41.7653'
+  long: "-83.5755"
+  nearby_rate_centers:
+  - name: TEMPERANCE
+    distance_km: 1.1
+  - name: LAMBERTVL
+    distance_km: 4.16
+  - name: ERIE
+    distance_km: 6.83
+- country: US
+  region: MI
+  name: Thompsonville
+  lat: '44.5205'
+  long: "-85.9388"
+  nearby_rate_centers:
+  - name: COPESHTNVL
+    distance_km: 4.16
+  - name: BEULAH
+    distance_km: 16.57
+  - name: HONOR
+    distance_km: 17.68
+- country: US
+  region: MI
+  name: Three Lakes
+  lat: '46.5410'
+  long: "-88.1933"
+  nearby_rate_centers:
+  - name: FENCERIVER
+    distance_km: 2.84
+  - name: MICHIGAMME
+    distance_km: 6.5
+  - name: CHAMPION
+    distance_km: 17.56
+- country: US
+  region: MI
+  name: Three Oaks
+  lat: '41.7985'
+  long: "-86.6139"
+  nearby_rate_centers:
+  - name: THREE OAKS
+    distance_km: 0.53
+  - name: GALIEN
+    distance_km: 9.43
+  - name: SAWYER
+    distance_km: 10.3
+- country: US
+  region: MI
+  name: Three Rivers
+  lat: '41.9470'
+  long: "-85.6281"
+  nearby_rate_centers:
+  - name: THREERIVRS
+    distance_km: 0.79
+  - name: CENTREVL
+    distance_km: 8.59
+  - name: CONSTANTIN
+    distance_km: 12.91
+- country: US
+  region: MI
+  name: Tower
+  lat: '45.3543'
+  long: "-84.2976"
+  nearby_rate_centers:
+  - name: ONAWAY
+    distance_km: 5.25
+  - name: WOLVERINE
+    distance_km: 25.19
+  - name: INDIAN RIV
+    distance_km: 25.61
+- country: US
+  region: MI
+  name: Traverse City
+  lat: '44.7546'
+  long: "-85.6038"
+  nearby_rate_centers:
+  - name: TRAVERSECY
+    distance_km: 1.48
+  - name: WILLIAMSBG
+    distance_km: 15.76
+  - name: OLDMISSION
+    distance_km: 16.6
+- country: US
+  region: MI
+  name: Trenton
+  lat: '42.1394'
+  long: "-83.1929"
+  nearby_rate_centers:
+  - name: TRENTON
+    distance_km: 0.99
+  - name: WYANDOTTE
+    distance_km: 7.54
+  - name: FLAT ROCK
+    distance_km: 8.39
+- country: US
+  region: MI
+  name: Trimountain
+  lat: '47.0557'
+  long: "-88.6587"
+  nearby_rate_centers:
+  - name: HOUGHTON
+    distance_km: 10.3
+  - name: DONKEN
+    distance_km: 16.27
+  - name: TAPIOLA
+    distance_km: 17.31
+- country: US
+  region: MI
+  name: Trowbridge Park
+  lat: '46.5565'
+  long: "-87.4417"
+  nearby_rate_centers:
+  - name: MARQUETTE
+    distance_km: 4.96
+  - name: NEGAUNEE
+    distance_km: 14.08
+  - name: ISHPEMING
+    distance_km: 18.69
+- country: US
+  region: MI
+  name: Troy
+  lat: '42.5817'
+  long: "-83.1457"
+  nearby_rate_centers:
+  - name: TROY
+    distance_km: 3.06
+  - name: BIRMINGHAM
+    distance_km: 7.5
+  - name: AUBURN HTS
+    distance_km: 8.61
+- country: US
+  region: MI
+  name: Trufant
+  lat: '43.3172'
+  long: "-85.3528"
+  nearby_rate_centers:
+  - name: TRUFANT
+    distance_km: 1.27
+  - name: CORAL
+    distance_km: 5.68
+  - name: HOWARDCITY
+    distance_km: 12.33
+- country: US
+  region: MI
+  name: Turner
+  lat: '44.1422'
+  long: "-83.7875"
+  nearby_rate_centers:
+  - name: TWINING
+    distance_km: 3.52
+  - name: WHITTEMORE
+    distance_km: 10.35
+  - name: OMER
+    distance_km: 11.22
+- country: US
+  region: MI
+  name: Tustin
+  lat: '44.1009'
+  long: "-85.4589"
+  nearby_rate_centers:
+  - name: TUSTIN
+    distance_km: 0.16
+  - name: LE ROY
+    distance_km: 7.51
+  - name: CADILLAC
+    distance_km: 17.05
+- country: US
+  region: MI
+  name: Twin Lake
+  lat: '43.3696'
+  long: "-86.1837"
+  nearby_rate_centers:
+  - name: TWIN LAKE
+    distance_km: 1.66
+  - name: HOLTON
+    distance_km: 9.52
+  - name: WHITEHALL
+    distance_km: 13.96
+- country: US
+  region: MI
+  name: Twining
+  lat: '44.1131'
+  long: "-83.8075"
+  nearby_rate_centers:
+  - name: TWINING
+    distance_km: 0.09
+  - name: OMER
+    distance_km: 7.61
+  - name: AU GRES
+    distance_km: 11.77
+- country: US
+  region: MI
+  name: Ubly
+  lat: '43.7082'
+  long: "-82.9356"
+  nearby_rate_centers:
+  - name: UBLY
+    distance_km: 0.26
+  - name: BAD AXE
+    distance_km: 11.65
+  - name: MINDENCITY
+    distance_km: 13.72
+- country: US
+  region: MI
+  name: Union City
+  lat: '42.0662'
+  long: "-85.1432"
+  nearby_rate_centers:
+  - name: UNION CITY
+    distance_km: 0.96
+  - name: BURLINGTON
+    distance_km: 7.34
+  - name: ATHENS
+    distance_km: 8.55
+- country: US
+  region: MI
+  name: Unionville
+  lat: '43.6538'
+  long: "-83.4671"
+  nearby_rate_centers:
+  - name: UNIONVILLE
+    distance_km: 0.37
+  - name: SEBEWAING
+    distance_km: 9.03
+  - name: AKRON
+    distance_km: 10.72
+- country: US
+  region: MI
+  name: Utica
+  lat: '42.6290'
+  long: "-83.0218"
+  nearby_rate_centers:
+  - name: UTICA
+    distance_km: 1.05
+  - name: WASHINGTON
+    distance_km: 10.46
+  - name: ROCHESTER
+    distance_km: 10.83
+- country: US
+  region: MI
+  name: Vandalia
+  lat: '41.9189'
+  long: "-85.9143"
+  nearby_rate_centers:
+  - name: VANDALIA
+    distance_km: 0.18
+  - name: CASSOPOLIS
+    distance_km: 8.28
+  - name: MARCELLUS
+    distance_km: 14.21
+- country: US
+  region: MI
+  name: Vanderbilt
+  lat: '45.1436'
+  long: "-84.6639"
+  nearby_rate_centers:
+  - name: VANDERBILT
+    distance_km: 0.56
+  - name: GAYLORD
+    distance_km: 13.17
+  - name: WOLVERINE
+    distance_km: 15.73
+- country: US
+  region: MI
+  name: Vandercook Lake
+  lat: '42.1917'
+  long: "-84.3855"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 7.15
+  - name: CLARKLAKE
+    distance_km: 8.8
+  - name: HANOVER
+    distance_km: 11.67
+- country: US
+  region: MI
+  name: Vassar
+  lat: '43.3719'
+  long: "-83.5770"
+  nearby_rate_centers:
+  - name: VASSAR
+    distance_km: 0.69
+  - name: MILLINGTON
+    distance_km: 11.16
+  - name: REESE
+    distance_km: 12.77
+- country: US
+  region: MI
+  name: Vermontville
+  lat: '42.6270'
+  long: "-85.0249"
+  nearby_rate_centers:
+  - name: VERMONTVL
+    distance_km: 0.24
+  - name: NASHVILLE
+    distance_km: 6.15
+  - name: WOODLAND
+    distance_km: 14.09
+- country: US
+  region: MI
+  name: Vernon
+  lat: '42.9392'
+  long: "-84.0330"
+  nearby_rate_centers:
+  - name: DURAND
+    distance_km: 4.99
+  - name: BANCROFT
+    distance_km: 7.62
+  - name: LENNON
+    distance_km: 10.2
+- country: US
+  region: MI
+  name: Vicksburg
+  lat: '42.1185'
+  long: "-85.5413"
+  nearby_rate_centers:
+  - name: VICKSBURG
+    distance_km: 0.84
+  - name: SCHOOLCFT
+    distance_km: 7.6
+  - name: SCOTTS
+    distance_km: 13.72
+- country: US
+  region: MI
+  name: Vineyard Lake
+  lat: '42.0868'
+  long: "-84.2102"
+  nearby_rate_centers:
+  - name: BROOKLYN
+    distance_km: 4.1
+  - name: ONSTED
+    distance_km: 8.64
+  - name: NAPOLEON
+    distance_km: 9.1
+- country: US
+  region: MI
+  name: Wacousta
+  lat: '42.8202'
+  long: "-84.6907"
+  nearby_rate_centers:
+  - name: GRANDLEDGE
+    distance_km: 8.93
+  - name: DE WITT
+    distance_km: 10.18
+  - name: WESTPHALIA
+    distance_km: 14.47
+- country: US
+  region: MI
+  name: Wakefield
+  lat: '46.4767'
+  long: "-89.9336"
+  nearby_rate_centers:
+  - name: WAKEFIELD
+    distance_km: 0.66
+  - name: BESSEMER
+    distance_km: 9.11
+  - name: IRONWOOD
+    distance_km: 17.99
+- country: US
+  region: MI
+  name: Waldron
+  lat: '41.7242'
+  long: "-84.4188"
+  nearby_rate_centers:
+  - name: WALDRON
+    distance_km: 0.25
+  - name: PRATTVILLE
+    distance_km: 5.88
+  - name: RANSOM
+    distance_km: 10.97
+- country: US
+  region: MI
+  name: Walker
+  lat: '42.9853'
+  long: "-85.7446"
+  nearby_rate_centers:
+  - name: GRAND RPDS
+    distance_km: 6.8
+  - name: MARNE
+    distance_km: 9.17
+  - name: HUDSONVL
+    distance_km: 16.63
+- country: US
+  region: MI
+  name: Walkerville
+  lat: '43.7143'
+  long: "-86.1259"
+  nearby_rate_centers:
+  - name: CARR
+    distance_km: 15.98
+  - name: HESPERIA
+    distance_km: 18.05
+  - name: HART
+    distance_km: 19.69
+- country: US
+  region: MI
+  name: Walled Lake
+  lat: '42.5379'
+  long: "-83.4786"
+  nearby_rate_centers:
+  - name: WALLEDLAKE
+    distance_km: 0.56
+  - name: COMMERCE
+    distance_km: 6.02
+  - name: W BLOOMFLD
+    distance_km: 9.32
+- country: US
+  region: MI
+  name: Walloon Lake
+  lat: '45.2718'
+  long: "-84.9412"
+  nearby_rate_centers:
+  - name: WALLOON LK
+    distance_km: 0.89
+  - name: BOYNE CITY
+    distance_km: 8.32
+  - name: PETOSKEY
+    distance_km: 11.32
+- country: US
+  region: MI
+  name: Warren
+  lat: '42.4934'
+  long: "-83.0270"
+  nearby_rate_centers:
+  - name: CENTERLINE
+    distance_km: 0.69
+  - name: WARREN
+    distance_km: 3.96
+  - name: ROSEVILLE
+    distance_km: 7.68
+- country: US
+  region: MI
+  name: Watersmeet
+  lat: '46.2872'
+  long: "-89.1937"
+  nearby_rate_centers:
+  - name: WATERSMEET
+    distance_km: 2.93
+  - name: NOLANDOLKS
+    distance_km: 9.82
+  - name: TROUTCREEK
+    distance_km: 25.88
+- country: US
+  region: MI
+  name: Watervliet
+  lat: '42.1883'
+  long: "-86.2576"
+  nearby_rate_centers:
+  - name: WATERVLIET
+    distance_km: 0.78
+  - name: COLOMA
+    distance_km: 3.66
+  - name: HARTFORD
+    distance_km: 7.55
+- country: US
+  region: MI
+  name: Waverly
+  lat: '42.7401'
+  long: "-84.6354"
+  nearby_rate_centers:
+  - name: LANSING
+    distance_km: 6.73
+  - name: GRANDLEDGE
+    distance_km: 9.24
+  - name: DIMONDALE
+    distance_km: 11.19
+- country: US
+  region: MI
+  name: Wayland
+  lat: '42.6725'
+  long: "-85.6408"
+  nearby_rate_centers:
+  - name: WAYLAND
+    distance_km: 1.27
+  - name: MOLINE
+    distance_km: 7.11
+  - name: DORR
+    distance_km: 8.35
+- country: US
+  region: MI
+  name: Wayne
+  lat: '42.2774'
+  long: "-83.3877"
+  nearby_rate_centers:
+  - name: WAYNE
+    distance_km: 0.32
+  - name: ROMULUS
+    distance_km: 5.84
+  - name: LIVONIA
+    distance_km: 9.41
+- country: US
+  region: MI
+  name: Webberville
+  lat: '42.6643'
+  long: "-84.1797"
+  nearby_rate_centers:
+  - name: WEBBERVL
+    distance_km: 0.45
+  - name: BELL OAK
+    distance_km: 7.52
+  - name: FOWLERVL
+    distance_km: 8.85
+- country: US
+  region: MI
+  name: Wedgewood
+  lat: '44.1937'
+  long: "-85.4902"
+  nearby_rate_centers:
+  - name: CADILLAC
+    distance_km: 9.34
+  - name: TUSTIN
+    distance_km: 10.46
+  - name: LE ROY
+    distance_km: 18.1
+- country: US
+  region: MI
+  name: Weidman
+  lat: '43.7014'
+  long: "-84.9745"
+  nearby_rate_centers:
+  - name: WEIDMAN
+    distance_km: 2.0
+  - name: BARRYTON
+    distance_km: 14.84
+  - name: ROSEBUSH
+    distance_km: 16.38
+- country: US
+  region: MI
+  name: Wellston
+  lat: '44.2179'
+  long: "-85.9620"
+  nearby_rate_centers:
+  - name: WELLSTON
+    distance_km: 0.58
+  - name: DUBLIN
+    distance_km: 4.66
+  - name: BRETHREN
+    distance_km: 10.93
+- country: US
+  region: MI
+  name: West Branch
+  lat: '44.2737'
+  long: "-84.2362"
+  nearby_rate_centers:
+  - name: WESTBRANCH
+    distance_km: 0.64
+  - name: ST HELEN
+    distance_km: 17.6
+  - name: ROSE CITY
+    distance_km: 18.58
+- country: US
+  region: MI
+  name: West Ishpeming
+  lat: '46.4884'
+  long: "-87.7170"
+  nearby_rate_centers:
+  - name: ISHPEMING
+    distance_km: 3.79
+  - name: NEGAUNEE
+    distance_km: 8.48
+  - name: CHAMPION
+    distance_km: 19.35
+- country: US
+  region: MI
+  name: West Monroe
+  lat: '41.9143'
+  long: "-83.4317"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 2.68
+  - name: IDA
+    distance_km: 11.19
+  - name: MAYBEE
+    distance_km: 11.7
+- country: US
+  region: MI
+  name: Westland
+  lat: '42.3192'
+  long: "-83.3805"
+  nearby_rate_centers:
+  - name: WAYNE
+    distance_km: 4.79
+  - name: LIVONIA
+    distance_km: 4.96
+  - name: PLYMOUTH
+    distance_km: 9.69
+- country: US
+  region: MI
+  name: Westphalia
+  lat: '42.9303'
+  long: "-84.7981"
+  nearby_rate_centers:
+  - name: WESTPHALIA
+    distance_km: 0.83
+  - name: FOWLERPWMO
+    distance_km: 8.12
+  - name: PORTLAND
+    distance_km: 11.17
+- country: US
+  region: MI
+  name: Westwood
+  lat: '42.3031'
+  long: "-85.6286"
+  nearby_rate_centers:
+  - name: KALAMAZOO
+    distance_km: 3.99
+  - name: PLAINWELL
+    distance_km: 15.64
+  - name: MATTAWAN
+    distance_km: 16.66
+- country: US
+  region: MI
+  name: White Cloud
+  lat: '43.5541'
+  long: "-85.7720"
+  nearby_rate_centers:
+  - name: WHITECLOUD
+    distance_km: 0.75
+  - name: NEWAYGO
+    distance_km: 15.61
+  - name: FREMONT
+    distance_km: 16.71
+- country: US
+  region: MI
+  name: White Pigeon
+  lat: '41.7977'
+  long: "-85.6485"
+  nearby_rate_centers:
+  - name: WH PIGEON
+    distance_km: 0.32
+  - name: CONSTANTIN
+    distance_km: 4.39
+  - name: THREERIVRS
+    distance_km: 16.86
+- country: US
+  region: MI
+  name: White Pine
+  lat: '46.7402'
+  long: "-89.5813"
+  nearby_rate_centers:
+  - name: WHITE PINE
+    distance_km: 2.3
+  - name: BERGLAND
+    distance_km: 16.63
+  - name: ONTONAGON
+    distance_km: 25.64
+- country: US
+  region: MI
+  name: Whitehall
+  lat: '43.4003'
+  long: "-86.3405"
+  nearby_rate_centers:
+  - name: WHITEHALL
+    distance_km: 0.94
+  - name: TWIN LAKE
+    distance_km: 14.61
+  - name: MUSKEGON
+    distance_km: 19.97
+- country: US
+  region: MI
+  name: Whitmore Lake
+  lat: '42.4258'
+  long: "-83.7530"
+  nearby_rate_centers:
+  - name: WHITMORELK
+    distance_km: 1.26
+  - name: SOUTH LYON
+    distance_km: 9.26
+  - name: BRIGHTON
+    distance_km: 12.13
+- country: US
+  region: MI
+  name: Whittemore
+  lat: '44.2337'
+  long: "-83.8033"
+  nearby_rate_centers:
+  - name: WHITTEMORE
+    distance_km: 0.63
+  - name: PRESCOTT
+    distance_km: 11.62
+  - name: TWINING
+    distance_km: 13.33
+- country: US
+  region: MI
+  name: Williamston
+  lat: '42.6834'
+  long: "-84.2836"
+  nearby_rate_centers:
+  - name: WILLIAMSTN
+    distance_km: 0.88
+  - name: WEBBERVL
+    distance_km: 9.14
+  - name: BELL OAK
+    distance_km: 11.02
+- country: US
+  region: MI
+  name: Winn
+  lat: '43.5187'
+  long: "-84.9011"
+  nearby_rate_centers:
+  - name: WINN
+    distance_km: 0.75
+  - name: VESTABURG
+    distance_km: 13.23
+  - name: MTPLEASANT
+    distance_km: 14.18
+- country: US
+  region: MI
+  name: Wixom
+  lat: '42.5243'
+  long: "-83.5346"
+  nearby_rate_centers:
+  - name: WALLEDLAKE
+    distance_km: 4.28
+  - name: COMMERCE
+    distance_km: 8.31
+  - name: MILFDWH LK
+    distance_km: 8.85
+- country: US
+  region: MI
+  name: Wolf Lake
+  lat: '43.2451'
+  long: "-86.1074"
+  nearby_rate_centers:
+  - name: MUSKEGON
+    distance_km: 10.92
+  - name: TWIN LAKE
+    distance_km: 13.64
+  - name: FRUITPORT
+    distance_km: 14.18
+- country: US
+  region: MI
+  name: Wolverine
+  lat: '45.2732'
+  long: "-84.6052"
+  nearby_rate_centers:
+  - name: WOLVERINE
+    distance_km: 0.62
+  - name: VANDERBILT
+    distance_km: 15.57
+  - name: INDIAN RIV
+    distance_km: 15.97
+- country: US
+  region: MI
+  name: Wolverine Lake
+  lat: '42.5550'
+  long: "-83.4883"
+  nearby_rate_centers:
+  - name: WALLEDLAKE
+    distance_km: 2.2
+  - name: COMMERCE
+    distance_km: 4.05
+  - name: MILFDWH LK
+    distance_km: 9.33
+- country: US
+  region: MI
+  name: Woodhaven
+  lat: '42.1320'
+  long: "-83.2374"
+  nearby_rate_centers:
+  - name: TRENTON
+    distance_km: 4.73
+  - name: FLAT ROCK
+    distance_km: 4.94
+  - name: ROCKWOOD
+    distance_km: 7.1
+- country: US
+  region: MI
+  name: Woodland
+  lat: '42.7268'
+  long: "-85.1344"
+  nearby_rate_centers:
+  - name: WOODLAND
+    distance_km: 0.28
+  - name: LAKEODESSA
+    distance_km: 6.4
+  - name: SUNFIELD
+    distance_km: 12.14
+- country: US
+  region: MI
+  name: Woodland Beach
+  lat: '41.9419'
+  long: "-83.3140"
+  nearby_rate_centers:
+  - name: NEWPORT
+    distance_km: 6.74
+  - name: MONROE
+    distance_km: 7.57
+  - name: CARLETON
+    distance_km: 14.68
+- country: US
+  region: MI
+  name: Wyandotte
+  lat: '42.2113'
+  long: "-83.1558"
+  nearby_rate_centers:
+  - name: WYANDOTTE
+    distance_km: 1.08
+  - name: TRENTON
+    distance_km: 7.87
+  - name: DETROITZN1
+    distance_km: 15.95
+  - name: DETROITZN2
+    distance_km: 15.95
+  - name: DETROITZN3
+    distance_km: 15.95
+  - name: DETROITZN4
+    distance_km: 15.95
+  - name: DETROITZN5
+    distance_km: 15.95
+  - name: DETROITZN6
+    distance_km: 15.95
+- country: US
+  region: MI
+  name: Wyoming
+  lat: '42.8908'
+  long: "-85.7066"
+  nearby_rate_centers:
+  - name: GRAND RPDS
+    distance_km: 9.14
+  - name: BYRON CTR
+    distance_km: 9.51
+  - name: DUTTON
+    distance_km: 11.52
+- country: US
+  region: MI
+  name: Yale
+  lat: '43.1277'
+  long: "-82.7972"
+  nearby_rate_centers:
+  - name: YALE
+    distance_km: 0.96
+  - name: AVOCA
+    distance_km: 11.65
+  - name: PECK
+    distance_km: 14.42
+- country: US
+  region: MI
+  name: Ypsilanti
+  lat: '42.2440'
+  long: "-83.6208"
+  nearby_rate_centers:
+  - name: YPSILANTI
+    distance_km: 0.69
+  - name: ANN ARBOR
+    distance_km: 10.62
+  - name: WILLIS
+    distance_km: 10.74
+- country: US
+  region: MI
+  name: Zeba
+  lat: '46.7928'
+  long: "-88.4133"
+  nearby_rate_centers:
+  - name: L ANSE
+    distance_km: 4.57
+  - name: BARAGA
+    distance_km: 5.82
+  - name: TAPIOLA
+    distance_km: 20.15
+- country: US
+  region: MI
+  name: Zeeland
+  lat: '42.8139'
+  long: "-86.0129"
+  nearby_rate_centers:
+  - name: ZEELAND
+    distance_km: 0.47
+  - name: BORCULO
+    distance_km: 6.66
+  - name: DRENTHE
+    distance_km: 6.73
+- country: US
+  region: MI
+  name: Zilwaukee
+  lat: '43.4809'
+  long: "-83.9223"
+  nearby_rate_centers:
+  - name: SAGINAW
+    distance_km: 5.68
+  - name: MUNGER
+    distance_km: 12.37
+  - name: BAY CITY
+    distance_km: 13.6

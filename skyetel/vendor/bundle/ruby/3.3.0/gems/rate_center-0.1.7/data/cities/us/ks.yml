@@ -1,0 +1,9028 @@
+---
+cities:
+- country: US
+  region: KS
+  name: Abbyville
+  lat: '37.9705'
+  long: "-98.2027"
+  nearby_rate_centers:
+  - name: ABBYVLPLVN
+    distance_km: 4.84
+  - name: ARLINGTON
+    distance_km: 7.88
+  - name: PARTRIDGE
+    distance_km: 9.58
+- country: US
+  region: KS
+  name: Abilene
+  lat: '38.9230'
+  long: "-97.2252"
+  nearby_rate_centers:
+  - name: ABILENE
+    distance_km: 1.4
+  - name: SOLOMON
+    distance_km: 12.45
+  - name: BUCKEYE
+    distance_km: 13.85
+- country: US
+  region: KS
+  name: Ada
+  lat: '39.1622'
+  long: "-97.8860"
+  nearby_rate_centers:
+  - name: BARNARD
+    distance_km: 13.88
+  - name: DELPHOS
+    distance_km: 16.23
+  - name: TESCOTT
+    distance_km: 16.36
+- country: US
+  region: KS
+  name: Admire
+  lat: '38.6410'
+  long: "-96.1020"
+  nearby_rate_centers:
+  - name: ALLEN
+    distance_km: 6.46
+  - name: READING
+    distance_km: 18.5
+  - name: AMERICUS
+    distance_km: 20.01
+- country: US
+  region: KS
+  name: Agenda
+  lat: '39.7066'
+  long: "-97.4322"
+  nearby_rate_centers:
+  - name: AGENDA
+    distance_km: 0.32
+  - name: CUBA
+    distance_km: 10.93
+  - name: CLYDE
+    distance_km: 13.17
+- country: US
+  region: KS
+  name: Agra
+  lat: '39.7612'
+  long: "-99.1195"
+  nearby_rate_centers:
+  - name: AGRA
+    distance_km: 0.44
+  - name: KENSINGTON
+    distance_km: 7.27
+  - name: PHILLIPSBG
+    distance_km: 16.69
+- country: US
+  region: KS
+  name: Albert
+  lat: '38.4540'
+  long: "-99.0111"
+  nearby_rate_centers:
+  - name: ALBERT
+    distance_km: 0.68
+  - name: OTIS
+    distance_km: 9.3
+  - name: OLMITZ
+    distance_km: 9.71
+- country: US
+  region: KS
+  name: Alden
+  lat: '38.2444'
+  long: "-98.3118"
+  nearby_rate_centers:
+  - name: ALDEN
+    distance_km: 0.31
+  - name: STERLING
+    distance_km: 10.5
+  - name: CHASE
+    distance_km: 12.8
+- country: US
+  region: KS
+  name: Alexander
+  lat: '38.4695'
+  long: "-99.5530"
+  nearby_rate_centers:
+  - name: ALEXANDER
+    distance_km: 0.43
+  - name: BAZINE
+    distance_km: 12.42
+  - name: MCCRACKEN
+    distance_km: 12.75
+- country: US
+  region: KS
+  name: Allen
+  lat: '38.6550'
+  long: "-96.1697"
+  nearby_rate_centers:
+  - name: ALLEN
+    distance_km: 0.61
+  - name: AMERICUS
+    distance_km: 18.03
+  - name: DUNLAP
+    distance_km: 19.44
+- country: US
+  region: KS
+  name: Alma
+  lat: '39.0152'
+  long: "-96.2871"
+  nearby_rate_centers:
+  - name: ALMA
+    distance_km: 0.24
+  - name: PAXICO
+    distance_km: 11.73
+  - name: WAMEGO
+    distance_km: 20.41
+- country: US
+  region: KS
+  name: Almena
+  lat: '39.8913'
+  long: "-99.7097"
+  nearby_rate_centers:
+  - name: ALMENA
+    distance_km: 0.74
+  - name: PRAIRIE VW
+    distance_km: 14.04
+  - name: LONGISLAND
+    distance_km: 16.58
+- country: US
+  region: KS
+  name: Alta Vista
+  lat: '38.8628'
+  long: "-96.4888"
+  nearby_rate_centers:
+  - name: ALTA VISTA
+    distance_km: 0.61
+  - name: DWIGHT
+    distance_km: 9.67
+  - name: COUNCILGRV
+    distance_km: 21.81
+- country: US
+  region: KS
+  name: Altamont
+  lat: '37.1875'
+  long: "-95.2898"
+  nearby_rate_centers:
+  - name: ALTAMONT
+    distance_km: 0.4
+  - name: MOUND VLY
+    distance_km: 10.55
+  - name: EDNA
+    distance_km: 15.57
+- country: US
+  region: KS
+  name: Alton
+  lat: '39.4678'
+  long: "-98.9486"
+  nearby_rate_centers:
+  - name: ALTON
+    distance_km: 0.35
+  - name: WOODSTON
+    distance_km: 13.11
+  - name: GAYLORD
+    distance_km: 21.99
+- country: US
+  region: KS
+  name: Altoona
+  lat: '37.5249'
+  long: "-95.6615"
+  nearby_rate_centers:
+  - name: ALTOONA
+    distance_km: 0.26
+  - name: NEODESHA
+    distance_km: 11.23
+  - name: BENEDICT
+    distance_km: 13.3
+- country: US
+  region: KS
+  name: Americus
+  lat: '38.5066'
+  long: "-96.2615"
+  nearby_rate_centers:
+  - name: AMERICUS
+    distance_km: 0.43
+  - name: DUNLAP
+    distance_km: 11.91
+  - name: EMPORIA
+    distance_km: 13.94
+- country: US
+  region: KS
+  name: Ames
+  lat: '39.5689'
+  long: "-97.4510"
+  nearby_rate_centers:
+  - name: CLYDE
+    distance_km: 4.88
+  - name: CLIFTON
+    distance_km: 14.28
+  - name: AURORA
+    distance_km: 14.77
+- country: US
+  region: KS
+  name: Andale
+  lat: '37.7916'
+  long: "-97.6276"
+  nearby_rate_centers:
+  - name: ANDALE
+    distance_km: 0.52
+  - name: ANDALE METRO
+    distance_km: 0.52
+  - name: COLWIHBTLY
+    distance_km: 7.45
+  - name: MOUNT HOPE
+    distance_km: 9.85
+  - name: MOUNT HOPE METRO
+    distance_km: 9.85
+- country: US
+  region: KS
+  name: Andover
+  lat: '37.6873'
+  long: "-97.1352"
+  nearby_rate_centers:
+  - name: ANDOVER
+    distance_km: 3.21
+  - name: BENTON
+    distance_km: 11.96
+  - name: AUGUSTA
+    distance_km: 14.1
+- country: US
+  region: KS
+  name: Anthony
+  lat: '37.1588'
+  long: "-98.0418"
+  nearby_rate_centers:
+  - name: ANTHONY
+    distance_km: 0.62
+  - name: HARPER
+    distance_km: 14.82
+  - name: NOMANCHETR
+    distance_km: 16.53
+- country: US
+  region: KS
+  name: Arcadia
+  lat: '37.6412'
+  long: "-94.6240"
+  nearby_rate_centers:
+  - name: ARCADIA
+    distance_km: 0.37
+  - name: MULBERRY
+    distance_km: 9.41
+  - name: ARMA
+    distance_km: 12.43
+- country: US
+  region: KS
+  name: Argonia
+  lat: '37.2679'
+  long: "-97.7629"
+  nearby_rate_centers:
+  - name: ARGONIA
+    distance_km: 0.54
+  - name: FREEPORT
+    distance_km: 11.54
+  - name: CONWAY SPG
+    distance_km: 17.17
+- country: US
+  region: KS
+  name: Arkansas City
+  lat: '37.0726'
+  long: "-97.0385"
+  nearby_rate_centers:
+  - name: ARKANSASCY
+    distance_km: 0.66
+  - name: GEUDA SPG
+    distance_km: 10.92
+  - name: WINFIELD
+    distance_km: 19.21
+- country: US
+  region: KS
+  name: Arlington
+  lat: '37.8962'
+  long: "-98.1780"
+  nearby_rate_centers:
+  - name: ARLINGTON
+    distance_km: 0.69
+  - name: ABBYVLPLVN
+    distance_km: 10.29
+  - name: PARTRIDGE
+    distance_km: 10.94
+- country: US
+  region: KS
+  name: Arma
+  lat: '37.5429'
+  long: "-94.7023"
+  nearby_rate_centers:
+  - name: ARMA
+    distance_km: 0.67
+  - name: MULBERRY
+    distance_km: 7.08
+  - name: ARCADIA
+    distance_km: 13.0
+- country: US
+  region: KS
+  name: Asherville
+  lat: '39.4076'
+  long: "-97.9733"
+  nearby_rate_centers:
+  - name: SIMPSON
+    distance_km: 4.28
+  - name: BELOIT
+    distance_km: 12.72
+  - name: GLASCO
+    distance_km: 13.33
+- country: US
+  region: KS
+  name: Ashland
+  lat: '37.1867'
+  long: "-99.7697"
+  nearby_rate_centers:
+  - name: ASHLAND
+    distance_km: 0.82
+  - name: ENGLEWOOD
+    distance_km: 25.43
+  - name: PROTECTION
+    distance_km: 25.56
+- country: US
+  region: KS
+  name: Assaria
+  lat: '38.6802'
+  long: "-97.6040"
+  nearby_rate_centers:
+  - name: ASSARIA
+    distance_km: 0.22
+  - name: SALEMSBURG
+    distance_km: 7.75
+  - name: LINDSBORG
+    distance_km: 13.24
+- country: US
+  region: KS
+  name: Atchison
+  lat: '39.5625'
+  long: "-95.1367"
+  nearby_rate_centers:
+  - name: ATCHISON
+    distance_km: 1.16
+  - name: LANCASTER
+    distance_km: 14.28
+  - name: LANCASTER METRO
+    distance_km: 14.28
+  - name: HURON
+    distance_km: 19.75
+- country: US
+  region: KS
+  name: Athol
+  lat: '39.7663'
+  long: "-98.9196"
+  nearby_rate_centers:
+  - name: ATHOL
+    distance_km: 0.77
+  - name: KENSINGTON
+    distance_km: 9.86
+  - name: SMITH CTR
+    distance_km: 12.32
+- country: US
+  region: KS
+  name: Atlanta
+  lat: '37.4358'
+  long: "-96.7670"
+  nearby_rate_centers:
+  - name: ATLANTA
+    distance_km: 0.35
+  - name: BURDEN
+    distance_km: 13.25
+  - name: LATHAM
+    distance_km: 15.41
+- country: US
+  region: KS
+  name: Attica
+  lat: '37.2426'
+  long: "-98.2276"
+  nearby_rate_centers:
+  - name: ATTICA
+    distance_km: 0.7
+  - name: SHARON
+    distance_km: 16.8
+  - name: HARPER
+    distance_km: 18.6
+- country: US
+  region: KS
+  name: Atwood
+  lat: '39.8101'
+  long: "-101.0418"
+  nearby_rate_centers:
+  - name: ATWOOD
+    distance_km: 1.3
+  - name: HERNDON
+    distance_km: 24.21
+  - name: MCDONALD
+    distance_km: 28.35
+- country: US
+  region: KS
+  name: Auburn
+  lat: '38.9077'
+  long: "-95.8158"
+  nearby_rate_centers:
+  - name: PAULINE
+    distance_km: 11.66
+  - name: TOPEKAGFLD
+    distance_km: 14.13
+  - name: W TOPEKA
+    distance_km: 14.39
+- country: US
+  region: KS
+  name: Augusta
+  lat: '37.6955'
+  long: "-96.9919"
+  nearby_rate_centers:
+  - name: AUGUSTA
+    distance_km: 1.88
+  - name: TOWANDA
+    distance_km: 11.86
+  - name: TOWANDA METRO
+    distance_km: 11.86
+  - name: ANDOVER
+    distance_km: 12.71
+- country: US
+  region: KS
+  name: Aurora
+  lat: '39.4520'
+  long: "-97.5300"
+  nearby_rate_centers:
+  - name: AURORA
+    distance_km: 0.11
+  - name: MILTONVALE
+    distance_km: 13.32
+  - name: CONCORDIA
+    distance_km: 17.57
+- country: US
+  region: KS
+  name: Axtell
+  lat: '39.8711'
+  long: "-96.2566"
+  nearby_rate_centers:
+  - name: AXTELL
+    distance_km: 0.64
+  - name: BEATTIE
+    distance_km: 13.68
+  - name: SUMMERFLD
+    distance_km: 15.49
+- country: US
+  region: KS
+  name: Baileyville
+  lat: '39.8485'
+  long: "-96.1903"
+  nearby_rate_centers:
+  - name: AXTELL
+    distance_km: 6.4
+  - name: SENECA
+    distance_km: 11.51
+  - name: CENTRALIA
+    distance_km: 14.67
+- country: US
+  region: KS
+  name: Bala
+  lat: '39.3108'
+  long: "-96.9504"
+  nearby_rate_centers:
+  - name: LEONARDVL
+    distance_km: 9.75
+  - name: RILEY
+    distance_km: 11.52
+  - name: WAKEFIELD
+    distance_km: 11.99
+- country: US
+  region: KS
+  name: Baldwin City
+  lat: '38.7782'
+  long: "-95.1880"
+  nearby_rate_centers:
+  - name: BALDWIN
+    distance_km: 0.66
+  - name: WELLSVILLE
+    distance_km: 11.3
+  - name: EDGERTON
+    distance_km: 14.71
+  - name: EDGERTON METRO
+    distance_km: 14.71
+- country: US
+  region: KS
+  name: Barnard
+  lat: '39.1891'
+  long: "-98.0441"
+  nearby_rate_centers:
+  - name: BARNARD
+    distance_km: 0.17
+  - name: LINCOLN
+    distance_km: 18.08
+  - name: BEVERLY
+    distance_km: 20.05
+- country: US
+  region: KS
+  name: Barnes
+  lat: '39.7116'
+  long: "-96.8733"
+  nearby_rate_centers:
+  - name: BARNES
+    distance_km: 0.66
+  - name: GREENLEAF
+    distance_km: 9.75
+  - name: BLRP-WTVL
+    distance_km: 17.09
+- country: US
+  region: KS
+  name: Bartlett
+  lat: '37.0549'
+  long: "-95.2112"
+  nearby_rate_centers:
+  - name: BARTLETT
+    distance_km: 0.38
+  - name: CHETOPA
+    distance_km: 10.81
+  - name: EDNA
+    distance_km: 13.15
+- country: US
+  region: KS
+  name: Basehor
+  lat: '39.1332'
+  long: "-94.9333"
+  nearby_rate_centers:
+  - name: BASEHOR
+    distance_km: 1.22
+  - name: BASEHOR METRO
+    distance_km: 1.22
+  - name: BONNER SPG
+    distance_km: 9.36
+  - name: TONGANOXIE
+    distance_km: 13.05
+  - name: TONGANOXIE METRO
+    distance_km: 13.05
+- country: US
+  region: KS
+  name: Bassett
+  lat: '37.9063'
+  long: "-95.4076"
+  nearby_rate_centers:
+  - name: IOLA
+    distance_km: 2.14
+  - name: LA HARPE
+    distance_km: 9.68
+  - name: PIQUA
+    distance_km: 11.27
+- country: US
+  region: KS
+  name: Bavaria
+  lat: '38.7955'
+  long: "-97.7548"
+  nearby_rate_centers:
+  - name: BROOKVILLE
+    distance_km: 9.9
+  - name: SALEMSBURG
+    distance_km: 12.95
+  - name: SALINA
+    distance_km: 13.68
+- country: US
+  region: KS
+  name: Baxter Springs
+  lat: '37.0195'
+  long: "-94.7351"
+  nearby_rate_centers:
+  - name: BAXTER SPG
+    distance_km: 0.61
+  - name: RIVERTON
+    distance_km: 4.69
+  - name: TREECE
+    distance_km: 10.21
+- country: US
+  region: KS
+  name: Bazine
+  lat: '38.4462'
+  long: "-99.6930"
+  nearby_rate_centers:
+  - name: BAZINE
+    distance_km: 0.32
+  - name: ALEXANDER
+    distance_km: 12.64
+  - name: NESS CITY
+    distance_km: 18.08
+- country: US
+  region: KS
+  name: Beattie
+  lat: '39.8624'
+  long: "-96.4178"
+  nearby_rate_centers:
+  - name: BEATTIE
+    distance_km: 0.76
+  - name: HOME
+    distance_km: 9.59
+  - name: AXTELL
+    distance_km: 13.35
+- country: US
+  region: KS
+  name: Beaumont
+  lat: '37.6565'
+  long: "-96.5316"
+  nearby_rate_centers:
+  - name: BEAUMONT
+    distance_km: 0.18
+  - name: PIEDMONT
+    distance_km: 14.8
+  - name: LATHAM
+    distance_km: 16.88
+- country: US
+  region: KS
+  name: Beaver
+  lat: '38.6379'
+  long: "-98.6736"
+  nearby_rate_centers:
+  - name: HOISINGTON
+    distance_km: 15.94
+  - name: CLAFLIN
+    distance_km: 17.42
+  - name: HOLYROOD
+    distance_km: 23.65
+- country: US
+  region: KS
+  name: Belle Plaine
+  lat: '37.3934'
+  long: "-97.2795"
+  nearby_rate_centers:
+  - name: BELLEPLAIN
+    distance_km: 0.58
+  - name: MULVANE
+    distance_km: 9.8
+  - name: RIVERDALE
+    distance_km: 10.34
+- country: US
+  region: KS
+  name: Belleville
+  lat: '39.8245'
+  long: "-97.6337"
+  nearby_rate_centers:
+  - name: BELLEVILLE
+    distance_km: 0.52
+  - name: SCANDIA
+    distance_km: 12.78
+  - name: MUNDEN
+    distance_km: 13.15
+- country: US
+  region: KS
+  name: Beloit
+  lat: '39.4645'
+  long: "-98.1082"
+  nearby_rate_centers:
+  - name: BELOIT
+    distance_km: 0.75
+  - name: SIMPSON
+    distance_km: 17.46
+  - name: GLEN ELDER
+    distance_km: 17.61
+- country: US
+  region: KS
+  name: Belpre
+  lat: '37.9507'
+  long: "-99.0998"
+  nearby_rate_centers:
+  - name: BELPRE
+    distance_km: 0.42
+  - name: MACKSVILLE
+    distance_km: 11.48
+  - name: LEWIS
+    distance_km: 13.15
+- country: US
+  region: KS
+  name: Belvue
+  lat: '39.2164'
+  long: "-96.1789"
+  nearby_rate_centers:
+  - name: ST MARYS
+    distance_km: 10.02
+  - name: WAMEGO
+    distance_km: 10.73
+  - name: EMMETT
+    distance_km: 14.99
+- country: US
+  region: KS
+  name: Bendena
+  lat: '39.7436'
+  long: "-95.1811"
+  nearby_rate_centers:
+  - name: BENDENA
+    distance_km: 0.33
+  - name: DENTON
+    distance_km: 7.58
+  - name: TROY
+    distance_km: 8.77
+- country: US
+  region: KS
+  name: Benedict
+  lat: '37.6269'
+  long: "-95.7433"
+  nearby_rate_centers:
+  - name: BENEDICT
+    distance_km: 0.14
+  - name: BUFFALO
+    distance_km: 9.68
+  - name: FREDONIA
+    distance_km: 12.65
+- country: US
+  region: KS
+  name: Bennington
+  lat: '39.0334'
+  long: "-97.5932"
+  nearby_rate_centers:
+  - name: BENNINGTON
+    distance_km: 0.71
+  - name: MINNEAPOLS
+    distance_km: 13.85
+  - name: SALINA
+    distance_km: 21.21
+- country: US
+  region: KS
+  name: Bentley
+  lat: '37.8868'
+  long: "-97.5147"
+  nearby_rate_centers:
+  - name: SEDGWICK
+    distance_km: 8.59
+  - name: COLWIHBTLY
+    distance_km: 11.96
+  - name: MOUNT HOPE
+    distance_km: 13.32
+  - name: MOUNT HOPE METRO
+    distance_km: 13.32
+- country: US
+  region: KS
+  name: Benton
+  lat: '37.7882'
+  long: "-97.1078"
+  nearby_rate_centers:
+  - name: BENTON
+    distance_km: 0.5
+  - name: ANDOVER
+    distance_km: 8.33
+  - name: TOWANDA
+    distance_km: 8.72
+  - name: TOWANDA METRO
+    distance_km: 8.72
+- country: US
+  region: KS
+  name: Bern
+  lat: '39.9612'
+  long: "-95.9713"
+  nearby_rate_centers:
+  - name: SO DU BOIS
+    distance_km: 7.69
+  - name: SENECA
+    distance_km: 15.19
+  - name: SOPAWNEECY
+    distance_km: 16.06
+- country: US
+  region: KS
+  name: Beverly
+  lat: '39.0138'
+  long: "-97.9755"
+  nearby_rate_centers:
+  - name: BEVERLY
+    distance_km: 0.34
+  - name: TESCOTT
+    distance_km: 8.51
+  - name: LINCOLN
+    distance_km: 15.67
+- country: US
+  region: KS
+  name: Big Bow
+  lat: '37.5609'
+  long: "-101.5573"
+  nearby_rate_centers:
+  - name: BIG BOW
+    distance_km: 0.83
+  - name: JOHNSON
+    distance_km: 17.53
+  - name: ULYSSES
+    distance_km: 17.83
+- country: US
+  region: KS
+  name: Bird City
+  lat: '39.7495'
+  long: "-101.5328"
+  nearby_rate_centers:
+  - name: BIRD CITY
+    distance_km: 1.18
+  - name: MCDONALD
+    distance_km: 14.28
+  - name: ST FRANCIS
+    distance_km: 23.08
+- country: US
+  region: KS
+  name: Bison
+  lat: '38.5201'
+  long: "-99.1977"
+  nearby_rate_centers:
+  - name: BISON
+    distance_km: 0.48
+  - name: TIMKEN
+    distance_km: 4.97
+  - name: LA CROSSE
+    distance_km: 9.07
+- country: US
+  region: KS
+  name: Blue Mound
+  lat: '38.0890'
+  long: "-95.0100"
+  nearby_rate_centers:
+  - name: BLUE MOUND
+    distance_km: 0.38
+  - name: KINCAID
+    distance_km: 13.13
+  - name: MAPLETON
+    distance_km: 13.57
+- country: US
+  region: KS
+  name: Blue Rapids
+  lat: '39.6791'
+  long: "-96.6593"
+  nearby_rate_centers:
+  - name: BLRP-WTVL
+    distance_km: 5.42
+  - name: MARYSVILLE
+    distance_km: 17.89
+  - name: BARNES
+    distance_km: 18.62
+- country: US
+  region: KS
+  name: Bluff City
+  lat: '37.0761'
+  long: "-97.8747"
+  nearby_rate_centers:
+  - name: BLUFF CITY
+    distance_km: 0.25
+  - name: FREEPORT
+    distance_km: 13.81
+  - name: NOMANCHETR
+    distance_km: 15.88
+- country: US
+  region: KS
+  name: Bogue
+  lat: '39.3595'
+  long: "-99.6874"
+  nearby_rate_centers:
+  - name: DAMAR
+    distance_km: 10.29
+  - name: HILL CITY
+    distance_km: 13.85
+  - name: PALCO
+    distance_km: 15.77
+- country: US
+  region: KS
+  name: Bonner Springs
+  lat: '39.0817'
+  long: "-94.8776"
+  nearby_rate_centers:
+  - name: BONNER SPG
+    distance_km: 2.7
+  - name: BASEHOR
+    distance_km: 8.69
+  - name: BASEHOR METRO
+    distance_km: 8.69
+  - name: BETHEL
+    distance_km: 13.25
+- country: US
+  region: KS
+  name: Bremen
+  lat: '39.8965'
+  long: "-96.7948"
+  nearby_rate_centers:
+  - name: HANOVRHNBG
+    distance_km: 6.8
+  - name: SOUTHODELL
+    distance_km: 10.69
+  - name: MARYSVILLE
+    distance_km: 13.9
+- country: US
+  region: KS
+  name: Brewster
+  lat: '39.3631'
+  long: "-101.3771"
+  nearby_rate_centers:
+  - name: BREWSTER
+    distance_km: 1.05
+  - name: LEVANT
+    distance_km: 15.13
+  - name: COLBY
+    distance_km: 27.58
+- country: US
+  region: KS
+  name: Bridgeport
+  lat: '38.6272'
+  long: "-97.6140"
+  nearby_rate_centers:
+  - name: ASSARIA
+    distance_km: 6.12
+  - name: LINDSBORG
+    distance_km: 7.86
+  - name: SALEMSBURG
+    distance_km: 9.73
+- country: US
+  region: KS
+  name: Bronson
+  lat: '37.8958'
+  long: "-95.0732"
+  nearby_rate_centers:
+  - name: BRONSON
+    distance_km: 0.38
+  - name: MORAN
+    distance_km: 9.09
+  - name: UNIONTOWN
+    distance_km: 10.17
+- country: US
+  region: KS
+  name: Brookville
+  lat: '38.7736'
+  long: "-97.8645"
+  nearby_rate_centers:
+  - name: BROOKVILLE
+    distance_km: 0.1
+  - name: SALEMSBURG
+    distance_km: 17.6
+  - name: SALINA
+    distance_km: 23.43
+- country: US
+  region: KS
+  name: Brownell
+  lat: '38.6406'
+  long: "-99.7443"
+  nearby_rate_centers:
+  - name: BROWNELL
+    distance_km: 0.42
+  - name: RANSOM
+    distance_km: 15.86
+  - name: MCCRACKEN
+    distance_km: 16.92
+- country: US
+  region: KS
+  name: Bucklin
+  lat: '37.5488'
+  long: "-99.6343"
+  nearby_rate_centers:
+  - name: BUCKLIN
+    distance_km: 0.29
+  - name: FORD
+    distance_km: 13.95
+  - name: MULLINVL
+    distance_km: 14.76
+- country: US
+  region: KS
+  name: Bucyrus
+  lat: '38.7237'
+  long: "-94.7140"
+  nearby_rate_centers:
+  - name: BUCYRUS
+    distance_km: 0.19
+  - name: BUCYRUS METRO
+    distance_km: 0.19
+  - name: WCLEVELAND
+    distance_km: 9.54
+  - name: WEST CLEVELAND METRO
+    distance_km: 9.54
+  - name: SPRING HILL METRO
+    distance_km: 9.91
+  - name: SPRINGHILL
+    distance_km: 9.91
+- country: US
+  region: KS
+  name: Buffalo
+  lat: '37.7090'
+  long: "-95.6970"
+  nearby_rate_centers:
+  - name: BUFFALO
+    distance_km: 0.35
+  - name: BENEDICT
+    distance_km: 10.08
+  - name: COYVILLE
+    distance_km: 18.12
+- country: US
+  region: KS
+  name: Buhler
+  lat: '38.1384'
+  long: "-97.7704"
+  nearby_rate_centers:
+  - name: BUHLER
+    distance_km: 0.39
+  - name: INMAN
+    distance_km: 10.79
+  - name: BURRTON
+    distance_km: 15.6
+- country: US
+  region: KS
+  name: Bunker Hill
+  lat: '38.8753'
+  long: "-98.6989"
+  nearby_rate_centers:
+  - name: DORRANCE
+    distance_km: 9.86
+  - name: RUSSELL
+    distance_km: 14.01
+  - name: WILSON
+    distance_km: 20.1
+- country: US
+  region: KS
+  name: Burden
+  lat: '37.3151'
+  long: "-96.7554"
+  nearby_rate_centers:
+  - name: BURDEN
+    distance_km: 0.54
+  - name: CAMBRIDGE
+    distance_km: 7.56
+  - name: ATLANTA
+    distance_km: 13.11
+- country: US
+  region: KS
+  name: Burdett
+  lat: '38.1935'
+  long: "-99.5264"
+  nearby_rate_centers:
+  - name: BURDETT
+    distance_km: 0.97
+  - name: ROZEL
+    distance_km: 10.97
+  - name: HANSTON
+    distance_km: 17.88
+- country: US
+  region: KS
+  name: Burdick
+  lat: '38.5589'
+  long: "-96.8472"
+  nearby_rate_centers:
+  - name: LOST SPG
+    distance_km: 10.39
+  - name: DELAVAN
+    distance_km: 11.78
+  - name: LINCOLNVL
+    distance_km: 12.82
+- country: US
+  region: KS
+  name: Burlingame
+  lat: '38.7517'
+  long: "-95.8351"
+  nearby_rate_centers:
+  - name: BURLINGAME
+    distance_km: 0.42
+  - name: SCRANTON
+    distance_km: 9.62
+  - name: HARVEYVL
+    distance_km: 12.33
+- country: US
+  region: KS
+  name: Burlington
+  lat: '38.1931'
+  long: "-95.7452"
+  nearby_rate_centers:
+  - name: BURLINGTON
+    distance_km: 0.62
+  - name: LEROY
+    distance_km: 15.73
+  - name: GRIDLEY
+    distance_km: 15.96
+- country: US
+  region: KS
+  name: Burns
+  lat: '38.0897'
+  long: "-96.8877"
+  nearby_rate_centers:
+  - name: BURNS
+    distance_km: 0.48
+  - name: FLORENCE
+    distance_km: 17.32
+  - name: POTWIN
+    distance_km: 19.77
+- country: US
+  region: KS
+  name: Burr Oak
+  lat: '39.8700'
+  long: "-98.3055"
+  nearby_rate_centers:
+  - name: BURR OAK
+    distance_km: 0.54
+  - name: ESBON
+    distance_km: 12.08
+  - name: MANKATO
+    distance_km: 12.58
+- country: US
+  region: KS
+  name: Burrton
+  lat: '38.0237'
+  long: "-97.6715"
+  nearby_rate_centers:
+  - name: BURRTON
+    distance_km: 0.45
+  - name: HALSTEAD
+    distance_km: 14.63
+  - name: HALSTEAD METRO
+    distance_km: 14.63
+  - name: BUHLER
+    distance_km: 15.03
+- country: US
+  region: KS
+  name: Bushong
+  lat: '38.6428'
+  long: "-96.2567"
+  nearby_rate_centers:
+  - name: ALLEN
+    distance_km: 7.15
+  - name: DUNLAP
+    distance_km: 12.33
+  - name: AMERICUS
+    distance_km: 15.01
+- country: US
+  region: KS
+  name: Bushton
+  lat: '38.5124'
+  long: "-98.3959"
+  nearby_rate_centers:
+  - name: BUSHTON
+    distance_km: 0.55
+  - name: HOLYROOD
+    distance_km: 8.83
+  - name: CLAFLIN
+    distance_km: 12.12
+- country: US
+  region: KS
+  name: Byers
+  lat: '37.7879'
+  long: "-98.8671"
+  nearby_rate_centers:
+  - name: IUKA
+    distance_km: 13.08
+  - name: CULLISON
+    distance_km: 17.26
+  - name: PRATT
+    distance_km: 19.66
+- country: US
+  region: KS
+  name: Caldwell
+  lat: '37.0350'
+  long: "-97.6089"
+  nearby_rate_centers:
+  - name: CALDWELL
+    distance_km: 0.03
+  - name: CORBIN
+    distance_km: 11.38
+  - name: SOUTHHAVEN
+    distance_km: 18.69
+- country: US
+  region: KS
+  name: Cambridge
+  lat: '37.3177'
+  long: "-96.6673"
+  nearby_rate_centers:
+  - name: CAMBRIDGE
+    distance_km: 0.28
+  - name: BURDEN
+    distance_km: 7.32
+  - name: ATLANTA
+    distance_km: 15.49
+- country: US
+  region: KS
+  name: Caney
+  lat: '37.0140'
+  long: "-95.9315"
+  nearby_rate_centers:
+  - name: CANEY
+    distance_km: 0.48
+  - name: HAVANA
+    distance_km: 9.62
+  - name: TYRO
+    distance_km: 10.55
+- country: US
+  region: KS
+  name: Canton
+  lat: '38.3857'
+  long: "-97.4303"
+  nearby_rate_centers:
+  - name: CANTON
+    distance_km: 0.82
+  - name: GALVA
+    distance_km: 9.86
+  - name: LEHIGH
+    distance_km: 11.13
+- country: US
+  region: KS
+  name: Carbondale
+  lat: '38.8192'
+  long: "-95.6932"
+  nearby_rate_centers:
+  - name: S TOPEKA
+    distance_km: 0.1
+  - name: SCRANTON
+    distance_km: 5.29
+  - name: OVERBROOK
+    distance_km: 12.36
+- country: US
+  region: KS
+  name: Carlton
+  lat: '38.6866'
+  long: "-97.2931"
+  nearby_rate_centers:
+  - name: CARLTON
+    distance_km: 0.86
+  - name: GYPSUM
+    distance_km: 11.7
+  - name: ROXBURY
+    distance_km: 18.83
+- country: US
+  region: KS
+  name: Cassoday
+  lat: '38.0386'
+  long: "-96.6386"
+  nearby_rate_centers:
+  - name: CASSODAY
+    distance_km: 0.57
+  - name: MATFLDGREN
+    distance_km: 14.7
+  - name: BURNS
+    distance_km: 22.08
+- country: US
+  region: KS
+  name: Catharine
+  lat: '38.9302'
+  long: "-99.2144"
+  nearby_rate_centers:
+  - name: VICTORIA
+    distance_km: 10.69
+  - name: HAYS
+    distance_km: 11.43
+  - name: GORHAM
+    distance_km: 17.09
+- country: US
+  region: KS
+  name: Cawker City
+  lat: '39.5095'
+  long: "-98.4331"
+  nearby_rate_centers:
+  - name: CAWKERCITY
+    distance_km: 0.36
+  - name: DOWNS
+    distance_km: 9.09
+  - name: GLEN ELDER
+    distance_km: 10.76
+- country: US
+  region: KS
+  name: Cedar
+  lat: '39.6571'
+  long: "-98.9402"
+  nearby_rate_centers:
+  - name: GAYLORD
+    distance_km: 8.18
+  - name: ATHOL
+    distance_km: 11.53
+  - name: KENSINGTON
+    distance_km: 14.83
+- country: US
+  region: KS
+  name: Cedar Point
+  lat: '38.2600'
+  long: "-96.8225"
+  nearby_rate_centers:
+  - name: CEDARPOINT
+    distance_km: 0.68
+  - name: FLORENCE
+    distance_km: 9.02
+  - name: MARION
+    distance_km: 19.4
+- country: US
+  region: KS
+  name: Cedar Vale
+  lat: '37.1061'
+  long: "-96.5018"
+  nearby_rate_centers:
+  - name: CEDAR VALE
+    distance_km: 0.52
+  - name: HEWINS
+    distance_km: 11.18
+  - name: DEXTER
+    distance_km: 21.05
+- country: US
+  region: KS
+  name: Centerville
+  lat: '38.2287'
+  long: "-95.0148"
+  nearby_rate_centers:
+  - name: PARKER
+    distance_km: 10.83
+  - name: BLUE MOUND
+    distance_km: 15.16
+  - name: GREELEY
+    distance_km: 18.5
+- country: US
+  region: KS
+  name: Centralia
+  lat: '39.7243'
+  long: "-96.1301"
+  nearby_rate_centers:
+  - name: CENTRALIA
+    distance_km: 0.08
+  - name: VERMILLION
+    distance_km: 11.46
+  - name: CORNING
+    distance_km: 11.56
+- country: US
+  region: KS
+  name: Centropolis
+  lat: '38.7166'
+  long: "-95.3498"
+  nearby_rate_centers:
+  - name: CENTROPOLS
+    distance_km: 0.2
+  - name: OTTAWA
+    distance_km: 13.27
+  - name: BALDWIN
+    distance_km: 14.99
+- country: US
+  region: KS
+  name: Chanute
+  lat: '37.6695'
+  long: "-95.4621"
+  nearby_rate_centers:
+  - name: CHANUTE
+    distance_km: 1.41
+  - name: HUMBOLDT
+    distance_km: 15.26
+  - name: THAYER
+    distance_km: 19.76
+- country: US
+  region: KS
+  name: Chapman
+  lat: '38.9746'
+  long: "-97.0236"
+  nearby_rate_centers:
+  - name: CHAPMAN
+    distance_km: 1.24
+  - name: BUCKEYE
+    distance_km: 14.86
+  - name: ABILENE
+    distance_km: 17.35
+- country: US
+  region: KS
+  name: Chase
+  lat: '38.3551'
+  long: "-98.3489"
+  nearby_rate_centers:
+  - name: CHASE
+    distance_km: 0.77
+  - name: ALDEN
+    distance_km: 12.92
+  - name: LYONS
+    distance_km: 12.96
+- country: US
+  region: KS
+  name: Chautauqua
+  lat: '37.0241'
+  long: "-96.1774"
+  nearby_rate_centers:
+  - name: ELGIN
+    distance_km: 8.94
+  - name: SEDAN
+    distance_km: 11.31
+  - name: HEWINS
+    distance_km: 20.46
+- country: US
+  region: KS
+  name: Cheney
+  lat: '37.6353'
+  long: "-97.7797"
+  nearby_rate_centers:
+  - name: CHENEY
+    distance_km: 0.5
+  - name: CHENEY METRO
+    distance_km: 0.5
+  - name: GARDEN PL
+    distance_km: 8.58
+  - name: GARDEN PLAIN METRO
+    distance_km: 8.58
+  - name: MURDOCK
+    distance_km: 13.78
+- country: US
+  region: KS
+  name: Cherokee
+  lat: '37.3450'
+  long: "-94.8215"
+  nearby_rate_centers:
+  - name: CHEROKEE
+    distance_km: 0.44
+  - name: WEIR CITY
+    distance_km: 5.28
+  - name: SCAMMON
+    distance_km: 7.94
+- country: US
+  region: KS
+  name: Cherryvale
+  lat: '37.2690'
+  long: "-95.5536"
+  nearby_rate_centers:
+  - name: CHERRYVALE
+    distance_km: 0.55
+  - name: LIBERTY
+    distance_km: 13.23
+  - name: INDEPNDNCE
+    distance_km: 14.72
+- country: US
+  region: KS
+  name: Chetopa
+  lat: '37.0376'
+  long: "-95.0923"
+  nearby_rate_centers:
+  - name: CHETOPA
+    distance_km: 0.52
+  - name: BARTLETT
+    distance_km: 10.7
+  - name: OSWEGO
+    distance_km: 14.49
+- country: US
+  region: KS
+  name: Chicopee
+  lat: '37.3835'
+  long: "-94.7444"
+  nearby_rate_centers:
+  - name: PITTSBURG
+    distance_km: 4.73
+  - name: CHEROKEE
+    distance_km: 8.46
+  - name: WEIR CITY
+    distance_km: 8.96
+- country: US
+  region: KS
+  name: Cimarron
+  lat: '37.8097'
+  long: "-100.3453"
+  nearby_rate_centers:
+  - name: CIMARRON
+    distance_km: 0.21
+  - name: INGALLS
+    distance_km: 9.59
+  - name: ENSIGN
+    distance_km: 20.59
+- country: US
+  region: KS
+  name: Circleville
+  lat: '39.5095'
+  long: "-95.8555"
+  nearby_rate_centers:
+  - name: CIRCLEVL
+    distance_km: 0.56
+  - name: SOLDIER
+    distance_km: 10.14
+  - name: HOLTON
+    distance_km: 11.38
+- country: US
+  region: KS
+  name: Claflin
+  lat: '38.5246'
+  long: "-98.5367"
+  nearby_rate_centers:
+  - name: CLAFLIN
+    distance_km: 0.23
+  - name: BUSHTON
+    distance_km: 11.82
+  - name: HOLYROOD
+    distance_km: 13.42
+- country: US
+  region: KS
+  name: Clay Center
+  lat: '39.3812'
+  long: "-97.1276"
+  nearby_rate_centers:
+  - name: CLAYCENTER
+    distance_km: 0.88
+  - name: MORGANVL
+    distance_km: 11.79
+  - name: GREEN
+    distance_km: 12.0
+- country: US
+  region: KS
+  name: Clayton
+  lat: '39.7369'
+  long: "-100.1765"
+  nearby_rate_centers:
+  - name: NORCATUR
+    distance_km: 10.6
+  - name: JENNINGS
+    distance_km: 12.06
+  - name: LENORA
+    distance_km: 20.86
+- country: US
+  region: KS
+  name: Clearwater
+  lat: '37.5096'
+  long: "-97.4975"
+  nearby_rate_centers:
+  - name: CLEARWATER
+    distance_km: 0.9
+  - name: WICHITJKSN
+    distance_km: 17.55
+  - name: GODDARD
+    distance_km: 17.73
+- country: US
+  region: KS
+  name: Clifton
+  lat: '39.5682'
+  long: "-97.2808"
+  nearby_rate_centers:
+  - name: CLIFTON
+    distance_km: 0.33
+  - name: CLYDE
+    distance_km: 10.63
+  - name: MORGANVL
+    distance_km: 12.88
+- country: US
+  region: KS
+  name: Climax
+  lat: '37.7191'
+  long: "-96.2240"
+  nearby_rate_centers:
+  - name: SEVERY
+    distance_km: 10.7
+  - name: EUREKA
+    distance_km: 12.99
+  - name: PIEDMONT
+    distance_km: 16.23
+- country: US
+  region: KS
+  name: Clyde
+  lat: '39.5918'
+  long: "-97.4003"
+  nearby_rate_centers:
+  - name: CLYDE
+    distance_km: 0.17
+  - name: CLIFTON
+    distance_km: 10.24
+  - name: AGENDA
+    distance_km: 13.29
+- country: US
+  region: KS
+  name: Coats
+  lat: '37.5108'
+  long: "-98.8253"
+  nearby_rate_centers:
+  - name: COATS
+    distance_km: 1.05
+  - name: SAWYER
+    distance_km: 12.37
+  - name: CULLISON
+    distance_km: 15.27
+- country: US
+  region: KS
+  name: Codell
+  lat: '39.1954'
+  long: "-99.1702"
+  nearby_rate_centers:
+  - name: PLAINVILLE
+    distance_km: 11.91
+  - name: NATOMA
+    distance_km: 12.69
+  - name: ZURICH
+    distance_km: 22.38
+- country: US
+  region: KS
+  name: Coffeyville
+  lat: '37.0519'
+  long: "-95.6180"
+  nearby_rate_centers:
+  - name: COFFEYVL
+    distance_km: 2.34
+  - name: LIBERTY
+    distance_km: 11.7
+  - name: TYRO
+    distance_km: 17.61
+- country: US
+  region: KS
+  name: Colby
+  lat: '39.3848'
+  long: "-101.0452"
+  nearby_rate_centers:
+  - name: COLBY
+    distance_km: 1.28
+  - name: LEVANT
+    distance_km: 13.57
+  - name: REXFORD
+    distance_km: 27.59
+- country: US
+  region: KS
+  name: Coldwater
+  lat: '37.2582'
+  long: "-99.3378"
+  nearby_rate_centers:
+  - name: COLDWATER
+    distance_km: 0.94
+  - name: WILMORE
+    distance_km: 13.79
+  - name: PROTECTION
+    distance_km: 14.02
+- country: US
+  region: KS
+  name: Collyer
+  lat: '39.0372'
+  long: "-100.1184"
+  nearby_rate_centers:
+  - name: COLLYER
+    distance_km: 0.36
+  - name: QUINTER
+    distance_km: 10.46
+  - name: WAKEENEY
+    distance_km: 20.45
+- country: US
+  region: KS
+  name: Colony
+  lat: '38.0712'
+  long: "-95.3629"
+  nearby_rate_centers:
+  - name: COLONY
+    distance_km: 0.52
+  - name: IOLA
+    distance_km: 16.68
+  - name: WESTPHALIA
+    distance_km: 16.88
+- country: US
+  region: KS
+  name: Columbus
+  lat: '37.1716'
+  long: "-94.8440"
+  nearby_rate_centers:
+  - name: COLUMBUS
+    distance_km: 0.23
+  - name: COLUBSRURL
+    distance_km: 2.57
+  - name: SCAMMON
+    distance_km: 11.46
+- country: US
+  region: KS
+  name: Colwich
+  lat: '37.7818'
+  long: "-97.5363"
+  nearby_rate_centers:
+  - name: COLWIHBTLY
+    distance_km: 0.65
+  - name: ANDALE
+    distance_km: 8.55
+  - name: ANDALE METRO
+    distance_km: 8.55
+  - name: WICHITPKVW
+    distance_km: 9.62
+- country: US
+  region: KS
+  name: Concordia
+  lat: '39.5669'
+  long: "-97.6467"
+  nearby_rate_centers:
+  - name: CONCORDIA
+    distance_km: 1.36
+  - name: AURORA
+    distance_km: 16.32
+  - name: JAMESTOWN
+    distance_km: 18.34
+- country: US
+  region: KS
+  name: Conway Springs
+  lat: '37.3899'
+  long: "-97.6430"
+  nearby_rate_centers:
+  - name: CONWAY SPG
+    distance_km: 0.12
+  - name: MAYFIELD
+    distance_km: 16.02
+  - name: CLEARWATER
+    distance_km: 17.65
+- country: US
+  region: KS
+  name: Coolidge
+  lat: '38.0415'
+  long: "-102.0078"
+  nearby_rate_centers:
+  - name: COOLIDGE
+    distance_km: 0.92
+  - name: SYRACUSE
+    distance_km: 23.65
+  - name: KENDALL
+    distance_km: 43.53
+- country: US
+  region: KS
+  name: Copeland
+  lat: '37.5405'
+  long: "-100.6288"
+  nearby_rate_centers:
+  - name: COPELAND
+    distance_km: 0.61
+  - name: MONTEZUMA
+    distance_km: 17.72
+  - name: SUBLETTE
+    distance_km: 19.6
+- country: US
+  region: KS
+  name: Corning
+  lat: '39.6570'
+  long: "-96.0288"
+  nearby_rate_centers:
+  - name: CORNING
+    distance_km: 0.55
+  - name: GOFF
+    distance_km: 7.99
+  - name: CENTRALIA
+    distance_km: 11.54
+- country: US
+  region: KS
+  name: Cottonwood Falls
+  lat: '38.3686'
+  long: "-96.5425"
+  nearby_rate_centers:
+  - name: COTONWDFLS
+    distance_km: 0.51
+  - name: SAFFORDVL
+    distance_km: 14.12
+  - name: MATFLDGREN
+    distance_km: 23.57
+- country: US
+  region: KS
+  name: Council Grove
+  lat: '38.6617'
+  long: "-96.4909"
+  nearby_rate_centers:
+  - name: COUNCILGRV
+    distance_km: 0.8
+  - name: DUNLAP
+    distance_km: 14.47
+  - name: WILSEY
+    distance_km: 17.01
+- country: US
+  region: KS
+  name: Courtland
+  lat: '39.7835'
+  long: "-97.8961"
+  nearby_rate_centers:
+  - name: COURTLAND
+    distance_km: 0.23
+  - name: FORMOSO
+    distance_km: 8.19
+  - name: SCANDIA
+    distance_km: 10.09
+- country: US
+  region: KS
+  name: Coyville
+  lat: '37.6873'
+  long: "-95.8958"
+  nearby_rate_centers:
+  - name: COYVILLE
+    distance_km: 0.58
+  - name: TORONTO
+    distance_km: 13.57
+  - name: FALL RIVER
+    distance_km: 14.35
+- country: US
+  region: KS
+  name: Crestline
+  lat: '37.1701'
+  long: "-94.7065"
+  nearby_rate_centers:
+  - name: CRESTLINE
+    distance_km: 0.81
+  - name: LAWTON
+    distance_km: 9.07
+  - name: COLUBSRURL
+    distance_km: 9.76
+- country: US
+  region: KS
+  name: Croweburg
+  lat: '37.5529'
+  long: "-94.6686"
+  nearby_rate_centers:
+  - name: ARMA
+    distance_km: 3.11
+  - name: MULBERRY
+    distance_km: 3.97
+  - name: ARCADIA
+    distance_km: 10.72
+- country: US
+  region: KS
+  name: Cuba
+  lat: '39.8023'
+  long: "-97.4576"
+  nearby_rate_centers:
+  - name: CUBA
+    distance_km: 0.14
+  - name: AGENDA
+    distance_km: 10.63
+  - name: MUNDEN
+    distance_km: 14.29
+- country: US
+  region: KS
+  name: Cullison
+  lat: '37.6303'
+  long: "-98.9054"
+  nearby_rate_centers:
+  - name: CULLISON
+    distance_km: 0.71
+  - name: PRATT
+    distance_km: 14.45
+  - name: COATS
+    distance_km: 15.13
+- country: US
+  region: KS
+  name: Culver
+  lat: '38.9701'
+  long: "-97.7592"
+  nearby_rate_centers:
+  - name: TESCOTT
+    distance_km: 11.35
+  - name: BENNINGTON
+    distance_km: 15.43
+  - name: MINNEAPOLS
+    distance_km: 17.98
+- country: US
+  region: KS
+  name: Cunningham
+  lat: '37.6447'
+  long: "-98.4312"
+  nearby_rate_centers:
+  - name: CUNNINGHAM
+    distance_km: 0.77
+  - name: PRESTON
+    distance_km: 16.73
+  - name: TURON
+    distance_km: 18.15
+- country: US
+  region: KS
+  name: Damar
+  lat: '39.3192'
+  long: "-99.5844"
+  nearby_rate_centers:
+  - name: DAMAR
+    distance_km: 0.49
+  - name: PALCO
+    distance_km: 7.63
+  - name: ZURICH
+    distance_km: 16.62
+- country: US
+  region: KS
+  name: Danville
+  lat: '37.2860'
+  long: "-97.8921"
+  nearby_rate_centers:
+  - name: FREEPORT
+    distance_km: 9.96
+  - name: ARGONIA
+    distance_km: 11.25
+  - name: HARPER
+    distance_km: 11.91
+- country: US
+  region: KS
+  name: De Soto
+  lat: '38.9688'
+  long: "-94.9549"
+  nearby_rate_centers:
+  - name: DE SOTO
+    distance_km: 1.9
+  - name: DE SOTO METRO
+    distance_km: 1.9
+  - name: LINWOOD
+    distance_km: 7.52
+  - name: LINWOOD METRO
+    distance_km: 7.52
+  - name: BONNER SPG
+    distance_km: 11.63
+- country: US
+  region: KS
+  name: Dearing
+  lat: '37.0534'
+  long: "-95.6954"
+  nearby_rate_centers:
+  - name: COFFEYVL
+    distance_km: 7.41
+  - name: TYRO
+    distance_km: 10.86
+  - name: LIBERTY
+    distance_km: 14.17
+- country: US
+  region: KS
+  name: Deerfield
+  lat: '37.9819'
+  long: "-101.1332"
+  nearby_rate_centers:
+  - name: DEERFIELD
+    distance_km: 0.19
+  - name: LAKIN
+    distance_km: 11.84
+  - name: GARDENCITY
+    distance_km: 22.87
+- country: US
+  region: KS
+  name: Delia
+  lat: '39.2394'
+  long: "-95.9651"
+  nearby_rate_centers:
+  - name: DELIA
+    distance_km: 1.23
+  - name: ST MARYS
+    distance_km: 9.82
+  - name: EMMETT
+    distance_km: 10.64
+- country: US
+  region: KS
+  name: Delphos
+  lat: '39.2744'
+  long: "-97.7653"
+  nearby_rate_centers:
+  - name: DELPHOS
+    distance_km: 0.05
+  - name: GLASCO
+    distance_km: 11.02
+  - name: MINNEAPOLS
+    distance_km: 17.46
+- country: US
+  region: KS
+  name: Denison
+  lat: '39.3938'
+  long: "-95.6285"
+  nearby_rate_centers:
+  - name: DENISON
+    distance_km: 0.46
+  - name: MAYETTA
+    distance_km: 10.72
+  - name: HOLTON
+    distance_km: 12.21
+- country: US
+  region: KS
+  name: Dennis
+  lat: '37.3469'
+  long: "-95.4078"
+  nearby_rate_centers:
+  - name: PARSONS
+    distance_km: 12.78
+  - name: GALESBURG
+    distance_km: 15.01
+  - name: CHERRYVALE
+    distance_km: 15.58
+- country: US
+  region: KS
+  name: Denton
+  lat: '39.7320'
+  long: "-95.2696"
+  nearby_rate_centers:
+  - name: DENTON
+    distance_km: 0.92
+  - name: BENDENA
+    distance_km: 7.35
+  - name: HURON
+    distance_km: 13.15
+- country: US
+  region: KS
+  name: Derby
+  lat: '37.5571'
+  long: "-97.2551"
+  nearby_rate_centers:
+  - name: DERBY
+    distance_km: 1.39
+  - name: WICHITJKSN
+    distance_km: 8.56
+  - name: MULVANE
+    distance_km: 9.06
+- country: US
+  region: KS
+  name: Detroit
+  lat: '38.9360'
+  long: "-97.1269"
+  nearby_rate_centers:
+  - name: ABILENE
+    distance_km: 7.51
+  - name: CHAPMAN
+    distance_km: 10.27
+  - name: BUCKEYE
+    distance_km: 12.31
+- country: US
+  region: KS
+  name: Devon
+  lat: '37.9227'
+  long: "-94.8160"
+  nearby_rate_centers:
+  - name: DEVON
+    distance_km: 0.74
+  - name: MAPLETON
+    distance_km: 12.0
+  - name: FULTON
+    distance_km: 12.75
+- country: US
+  region: KS
+  name: Dexter
+  lat: '37.1794'
+  long: "-96.7161"
+  nearby_rate_centers:
+  - name: DEXTER
+    distance_km: 0.42
+  - name: BURDEN
+    distance_km: 15.64
+  - name: CAMBRIDGE
+    distance_km: 15.76
+- country: US
+  region: KS
+  name: Dighton
+  lat: '38.4810'
+  long: "-100.4663"
+  nearby_rate_centers:
+  - name: DIGHTON
+    distance_km: 0.68
+  - name: HEALY
+    distance_km: 18.54
+  - name: BEELER
+    distance_km: 23.37
+- country: US
+  region: KS
+  name: Dodge City
+  lat: '37.7611'
+  long: "-100.0182"
+  nearby_rate_centers:
+  - name: DODGE CITY
+    distance_km: 0.42
+  - name: ENSIGN
+    distance_km: 21.81
+  - name: SPEARVILLE
+    distance_km: 25.46
+- country: US
+  region: KS
+  name: Dorrance
+  lat: '38.8469'
+  long: "-98.5900"
+  nearby_rate_centers:
+  - name: DORRANCE
+    distance_km: 0.29
+  - name: WILSON
+    distance_km: 10.17
+  - name: RUSSELL
+    distance_km: 23.83
+- country: US
+  region: KS
+  name: Douglass
+  lat: '37.5169'
+  long: "-97.0105"
+  nearby_rate_centers:
+  - name: DOUGLASS
+    distance_km: 0.04
+  - name: DOUGLASS METRO
+    distance_km: 0.04
+  - name: ROCK
+    distance_km: 7.4
+  - name: ROSE HILL
+    distance_km: 11.68
+- country: US
+  region: KS
+  name: Downs
+  lat: '39.5045'
+  long: "-98.5472"
+  nearby_rate_centers:
+  - name: DOWNS
+    distance_km: 0.83
+  - name: CAWKERCITY
+    distance_km: 9.88
+  - name: OSBORNE
+    distance_km: 14.5
+- country: US
+  region: KS
+  name: Dresden
+  lat: '39.6228'
+  long: "-100.4191"
+  nearby_rate_centers:
+  - name: JENNINGS
+    distance_km: 12.32
+  - name: SELDEN
+    distance_km: 15.65
+  - name: OBERLIN
+    distance_km: 23.39
+- country: US
+  region: KS
+  name: Dunlap
+  lat: '38.5763'
+  long: "-96.3676"
+  nearby_rate_centers:
+  - name: DUNLAP
+    distance_km: 0.26
+  - name: AMERICUS
+    distance_km: 12.28
+  - name: COUNCILGRV
+    distance_km: 14.28
+- country: US
+  region: KS
+  name: Durham
+  lat: '38.4846'
+  long: "-97.2268"
+  nearby_rate_centers:
+  - name: DURHAM
+    distance_km: 0.86
+  - name: LEHIGH
+    distance_km: 14.03
+  - name: HILLSBORO
+    distance_km: 14.53
+- country: US
+  region: KS
+  name: Dwight
+  lat: '38.8449'
+  long: "-96.5921"
+  nearby_rate_centers:
+  - name: DWIGHT
+    distance_km: 0.73
+  - name: ALTA VISTA
+    distance_km: 8.7
+  - name: WHITE CITY
+    distance_km: 15.21
+- country: US
+  region: KS
+  name: Earlton
+  lat: '37.5873'
+  long: "-95.4696"
+  nearby_rate_centers:
+  - name: CHANUTE
+    distance_km: 10.57
+  - name: THAYER
+    distance_km: 10.59
+  - name: GALESBURG
+    distance_km: 15.83
+- country: US
+  region: KS
+  name: Eastborough
+  lat: '37.6856'
+  long: "-97.2591"
+  nearby_rate_centers:
+  - name: WICHITA
+    distance_km: 6.6
+  - name: ANDOVER
+    distance_km: 11.52
+  - name: WICHITJKSN
+    distance_km: 11.55
+- country: US
+  region: KS
+  name: Easton
+  lat: '39.3456'
+  long: "-95.1172"
+  nearby_rate_centers:
+  - name: EASTON
+    distance_km: 0.49
+  - name: WINCHESTER
+    distance_km: 12.86
+  - name: MCLOUTH
+    distance_km: 17.82
+- country: US
+  region: KS
+  name: Eastshore
+  lat: '38.3839'
+  long: "-97.0682"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 6.18
+  - name: HILLSBORO
+    distance_km: 11.86
+  - name: LINCOLNVL
+    distance_km: 14.87
+- country: US
+  region: KS
+  name: Edgerton
+  lat: '38.7717'
+  long: "-94.9706"
+  nearby_rate_centers:
+  - name: EDGERTON
+    distance_km: 4.25
+  - name: EDGERTON METRO
+    distance_km: 4.25
+  - name: GARDNER
+    distance_km: 5.78
+  - name: GARDNER METRO
+    distance_km: 5.78
+  - name: WELLSVILLE
+    distance_km: 11.55
+- country: US
+  region: KS
+  name: Edmond
+  lat: '39.6272'
+  long: "-99.8199"
+  nearby_rate_centers:
+  - name: EDMOND
+    distance_km: 0.54
+  - name: LENORA
+    distance_km: 15.63
+  - name: LOGAN
+    distance_km: 22.05
+- country: US
+  region: KS
+  name: Edna
+  lat: '37.0587'
+  long: "-95.3592"
+  nearby_rate_centers:
+  - name: EDNA
+    distance_km: 0.03
+  - name: BARTLETT
+    distance_km: 13.23
+  - name: ALTAMONT
+    distance_km: 15.96
+- country: US
+  region: KS
+  name: Edson
+  lat: '39.3350'
+  long: "-101.5495"
+  nearby_rate_centers:
+  - name: GOODLAND
+    distance_km: 13.58
+  - name: BREWSTER
+    distance_km: 14.21
+  - name: LEVANT
+    distance_km: 30.15
+- country: US
+  region: KS
+  name: Edwardsville
+  lat: '39.0765'
+  long: "-94.8166"
+  nearby_rate_centers:
+  - name: BONNER SPG
+    distance_km: 6.22
+  - name: BETHEL
+    distance_km: 9.86
+  - name: BASEHOR
+    distance_km: 12.99
+  - name: BASEHOR METRO
+    distance_km: 12.99
+- country: US
+  region: KS
+  name: Effingham
+  lat: '39.5228'
+  long: "-95.3969"
+  nearby_rate_centers:
+  - name: EFFINGHAM
+    distance_km: 0.72
+  - name: LANCASTER
+    distance_km: 9.98
+  - name: LANCASTER METRO
+    distance_km: 9.98
+  - name: MUSCOTAH
+    distance_km: 10.67
+- country: US
+  region: KS
+  name: El Dorado
+  lat: '37.8210'
+  long: "-96.8613"
+  nearby_rate_centers:
+  - name: EL DORADO
+    distance_km: 0.5
+  - name: EL DORADO METRO
+    distance_km: 0.5
+  - name: TOWANDA
+    distance_km: 13.24
+  - name: TOWANDA METRO
+    distance_km: 13.24
+  - name: LEON
+    distance_km: 15.76
+  - name: LEON METRO
+    distance_km: 15.76
+- country: US
+  region: KS
+  name: Elbing
+  lat: '38.0534'
+  long: "-97.1283"
+  nearby_rate_centers:
+  - name: WHITEWATER
+    distance_km: 9.89
+  - name: PEABODY
+    distance_km: 12.73
+  - name: WALTON
+    distance_km: 12.87
+- country: US
+  region: KS
+  name: Elgin
+  lat: '37.0019'
+  long: "-96.2806"
+  nearby_rate_centers:
+  - name: ELGIN
+    distance_km: 0.65
+  - name: HEWINS
+    distance_km: 11.99
+  - name: SEDAN
+    distance_km: 16.26
+- country: US
+  region: KS
+  name: Elk City
+  lat: '37.2896'
+  long: "-95.9099"
+  nearby_rate_centers:
+  - name: ELK CITY
+    distance_km: 0.17
+  - name: LAFONTAINE
+    distance_km: 13.47
+  - name: LONGTON
+    distance_km: 18.39
+- country: US
+  region: KS
+  name: Elk Falls
+  lat: '37.3733'
+  long: "-96.1934"
+  nearby_rate_centers:
+  - name: ELK FALLS
+    distance_km: 0.16
+  - name: MOLINE
+    distance_km: 9.67
+  - name: LONGTON
+    distance_km: 9.92
+- country: US
+  region: KS
+  name: Elkhart
+  lat: '37.0038'
+  long: "-101.8944"
+  nearby_rate_centers:
+  - name: ELKHART
+    distance_km: 0.68
+  - name: ROLLA
+    distance_km: 26.43
+  - name: RICHFIELD
+    distance_km: 30.89
+- country: US
+  region: KS
+  name: Ellinwood
+  lat: '38.3574'
+  long: "-98.5837"
+  nearby_rate_centers:
+  - name: ELLINWOOD
+    distance_km: 0.64
+  - name: GREAT BEND
+    distance_km: 16.02
+  - name: CLAFLIN
+    distance_km: 19.16
+- country: US
+  region: KS
+  name: Ellis
+  lat: '38.9346'
+  long: "-99.5568"
+  nearby_rate_centers:
+  - name: ELLIS
+    distance_km: 0.28
+  - name: HAYS
+    distance_km: 21.07
+  - name: WAKEENEY
+    distance_km: 29.91
+- country: US
+  region: KS
+  name: Ellsworth
+  lat: '38.7327'
+  long: "-98.2285"
+  nearby_rate_centers:
+  - name: ELLSWORTH
+    distance_km: 0.37
+  - name: HOLYROOD
+    distance_km: 22.14
+  - name: WILSON
+    distance_km: 23.79
+- country: US
+  region: KS
+  name: Elmdale
+  lat: '38.3732'
+  long: "-96.6456"
+  nearby_rate_centers:
+  - name: COTONWDFLS
+    distance_km: 9.26
+  - name: CEDARPOINT
+    distance_km: 19.56
+  - name: SAFFORDVL
+    distance_km: 22.44
+- country: US
+  region: KS
+  name: Elsmore
+  lat: '37.7941'
+  long: "-95.1500"
+  nearby_rate_centers:
+  - name: SAVONBURG
+    distance_km: 4.94
+  - name: BRONSON
+    distance_km: 13.31
+  - name: MORAN
+    distance_km: 13.77
+- country: US
+  region: KS
+  name: Elwood
+  lat: '39.7519'
+  long: "-94.8890"
+  nearby_rate_centers:
+  - name: ELWOOD
+    distance_km: 0.84
+  - name: WATHENA
+    distance_km: 6.08
+  - name: TROY
+    distance_km: 17.64
+- country: US
+  region: KS
+  name: Elyria
+  lat: '38.2896'
+  long: "-97.6339"
+  nearby_rate_centers:
+  - name: MCPHERSON
+    distance_km: 9.07
+  - name: GALVA
+    distance_km: 13.16
+  - name: INMAN
+    distance_km: 13.18
+- country: US
+  region: KS
+  name: Emmett
+  lat: '39.3071'
+  long: "-96.0578"
+  nearby_rate_centers:
+  - name: EMMETT
+    distance_km: 0.58
+  - name: DELIA
+    distance_km: 10.07
+  - name: ST MARYS
+    distance_km: 12.23
+- country: US
+  region: KS
+  name: Emporia
+  lat: '38.4028'
+  long: "-96.1932"
+  nearby_rate_centers:
+  - name: EMPORIA
+    distance_km: 1.15
+  - name: AMERICUS
+    distance_km: 12.93
+  - name: OLPE
+    distance_km: 16.29
+- country: US
+  region: KS
+  name: Englewood
+  lat: '37.0405'
+  long: "-99.9876"
+  nearby_rate_centers:
+  - name: ENGLEWOOD
+    distance_km: 0.79
+  - name: ASHLAND
+    distance_km: 25.01
+  - name: MEADE
+    distance_km: 41.01
+- country: US
+  region: KS
+  name: Ensign
+  lat: '37.6531'
+  long: "-100.2329"
+  nearby_rate_centers:
+  - name: ENSIGN
+    distance_km: 0.83
+  - name: MONTEZUMA
+    distance_km: 19.37
+  - name: CIMARRON
+    distance_km: 19.86
+- country: US
+  region: KS
+  name: Enterprise
+  lat: '38.9029'
+  long: "-97.1163"
+  nearby_rate_centers:
+  - name: ABILENE
+    distance_km: 8.32
+  - name: CHAPMAN
+    distance_km: 11.25
+  - name: NAVARRE
+    distance_km: 12.4
+- country: US
+  region: KS
+  name: Erie
+  lat: '37.5717'
+  long: "-95.2418"
+  nearby_rate_centers:
+  - name: ERIE
+    distance_km: 0.55
+  - name: ST PAUL
+    distance_km: 8.73
+  - name: WALNUT
+    distance_km: 14.15
+- country: US
+  region: KS
+  name: Esbon
+  lat: '39.8219'
+  long: "-98.4339"
+  nearby_rate_centers:
+  - name: ESBON
+    distance_km: 0.27
+  - name: LEBANON
+    distance_km: 10.0
+  - name: BURR OAK
+    distance_km: 11.67
+- country: US
+  region: KS
+  name: Eskridge
+  lat: '38.8595'
+  long: "-96.1049"
+  nearby_rate_centers:
+  - name: ESKRIDGE
+    distance_km: 0.42
+  - name: HARVEYVL
+    distance_km: 14.02
+  - name: W TOPEKA
+    distance_km: 16.76
+- country: US
+  region: KS
+  name: Eudora
+  lat: '38.9345'
+  long: "-95.0956"
+  nearby_rate_centers:
+  - name: EUDORA
+    distance_km: 1.18
+  - name: LINWOOD
+    distance_km: 9.31
+  - name: LINWOOD METRO
+    distance_km: 9.31
+  - name: DE SOTO
+    distance_km: 11.18
+  - name: DE SOTO METRO
+    distance_km: 11.18
+- country: US
+  region: KS
+  name: Eureka
+  lat: '37.8261'
+  long: "-96.2890"
+  nearby_rate_centers:
+  - name: EUREKA
+    distance_km: 0.42
+  - name: REECE
+    distance_km: 14.3
+  - name: HAMILTON
+    distance_km: 20.44
+- country: US
+  region: KS
+  name: Everest
+  lat: '39.6770'
+  long: "-95.4248"
+  nearby_rate_centers:
+  - name: EVEREST
+    distance_km: 0.31
+  - name: HURON
+    distance_km: 8.24
+  - name: WILLIS
+    distance_km: 8.26
+- country: US
+  region: KS
+  name: Fairview
+  lat: '39.8397'
+  long: "-95.7282"
+  nearby_rate_centers:
+  - name: FAIRVIEW
+    distance_km: 0.12
+  - name: SABETHA
+    distance_km: 8.87
+  - name: MORRILL
+    distance_km: 10.91
+- country: US
+  region: KS
+  name: Fairway
+  lat: '39.0245'
+  long: "-94.6287"
+  nearby_rate_centers:
+  - name: MELROSE
+    distance_km: 6.38
+  - name: KANSASCITY
+    distance_km: 10.05
+  - name: BETHEL
+    distance_km: 17.4
+- country: US
+  region: KS
+  name: Fall River
+  lat: '37.6078'
+  long: "-96.0286"
+  nearby_rate_centers:
+  - name: FALL RIVER
+    distance_km: 0.32
+  - name: COYVILLE
+    distance_km: 14.08
+  - name: SEVERY
+    distance_km: 18.02
+- country: US
+  region: KS
+  name: Falun
+  lat: '38.6745'
+  long: "-97.7511"
+  nearby_rate_centers:
+  - name: SALEMSBURG
+    distance_km: 5.36
+  - name: LINDSBORG
+    distance_km: 12.95
+  - name: ASSARIA
+    distance_km: 12.97
+- country: US
+  region: KS
+  name: Farlington
+  lat: '37.6155'
+  long: "-94.8226"
+  nearby_rate_centers:
+  - name: FARLINGTON
+    distance_km: 0.69
+  - name: GIRARD
+    distance_km: 12.11
+  - name: HIATTVILLE
+    distance_km: 12.82
+- country: US
+  region: KS
+  name: Florence
+  lat: '38.2428'
+  long: "-96.9289"
+  nearby_rate_centers:
+  - name: FLORENCE
+    distance_km: 0.47
+  - name: CEDARPOINT
+    distance_km: 10.08
+  - name: MARION
+    distance_km: 13.82
+- country: US
+  region: KS
+  name: Fontana
+  lat: '38.4239'
+  long: "-94.8441"
+  nearby_rate_centers:
+  - name: FONTANA
+    distance_km: 0.17
+  - name: LA CYGNE
+    distance_km: 10.43
+  - name: OSAWATOMIE
+    distance_km: 12.31
+  - name: OSAWATOMIE METRO
+    distance_km: 12.31
+- country: US
+  region: KS
+  name: Ford
+  lat: '37.6366'
+  long: "-99.7539"
+  nearby_rate_centers:
+  - name: FORD
+    distance_km: 0.5
+  - name: BUCKLIN
+    distance_km: 14.65
+  - name: SPEARVILLE
+    distance_km: 22.96
+- country: US
+  region: KS
+  name: Formoso
+  lat: '39.7784'
+  long: "-97.9927"
+  nearby_rate_centers:
+  - name: FORMOSO
+    distance_km: 0.29
+  - name: COURTLAND
+    distance_km: 8.06
+  - name: RANDALL
+    distance_km: 16.17
+- country: US
+  region: KS
+  name: Fort Dodge
+  lat: '37.7304'
+  long: "-99.9370"
+  nearby_rate_centers:
+  - name: DODGE CITY
+    distance_km: 7.52
+  - name: FORD
+    distance_km: 19.57
+  - name: SPEARVILLE
+    distance_km: 20.83
+- country: US
+  region: KS
+  name: Fort Riley
+  lat: '39.1064'
+  long: "-96.8117"
+  nearby_rate_centers:
+  - name: JUNCTIONCY
+    distance_km: 8.93
+  - name: MILFORD
+    distance_km: 10.92
+  - name: RILEY
+    distance_km: 21.33
+- country: US
+  region: KS
+  name: Fort Scott
+  lat: '37.8283'
+  long: "-94.7038"
+  nearby_rate_centers:
+  - name: FORT SCOTT
+    distance_km: 1.44
+  - name: DEVON
+    distance_km: 14.15
+  - name: HIATTVILLE
+    distance_km: 18.94
+- country: US
+  region: KS
+  name: Fowler
+  lat: '37.3829'
+  long: "-100.1957"
+  nearby_rate_centers:
+  - name: FOWLER
+    distance_km: 0.22
+  - name: MEADE
+    distance_km: 16.43
+  - name: MINNEOLA
+    distance_km: 17.89
+- country: US
+  region: KS
+  name: Frankfort
+  lat: '39.7039'
+  long: "-96.4169"
+  nearby_rate_centers:
+  - name: FRANKFORT
+    distance_km: 0.46
+  - name: VERMILLION
+    distance_km: 13.18
+  - name: BEATTIE
+    distance_km: 16.89
+- country: US
+  region: KS
+  name: Franklin
+  lat: '37.5230'
+  long: "-94.6994"
+  nearby_rate_centers:
+  - name: ARMA
+    distance_km: 2.9
+  - name: MULBERRY
+    distance_km: 7.64
+  - name: PITTSBURG
+    distance_km: 13.01
+- country: US
+  region: KS
+  name: Frederick
+  lat: '38.5127'
+  long: "-98.2673"
+  nearby_rate_centers:
+  - name: GENESEO
+    distance_km: 9.62
+  - name: BUSHTON
+    distance_km: 11.67
+  - name: HOLYROOD
+    distance_km: 15.03
+- country: US
+  region: KS
+  name: Fredonia
+  lat: '37.5327'
+  long: "-95.8220"
+  nearby_rate_centers:
+  - name: FREDONIA
+    distance_km: 0.1
+  - name: BENEDICT
+    distance_km: 12.5
+  - name: ALTOONA
+    distance_km: 13.94
+- country: US
+  region: KS
+  name: Frontenac
+  lat: '37.4581'
+  long: "-94.7012"
+  nearby_rate_centers:
+  - name: PITTSBURG
+    distance_km: 5.79
+  - name: ARMA
+    distance_km: 10.1
+  - name: MULBERRY
+    distance_km: 12.9
+- country: US
+  region: KS
+  name: Fulton
+  lat: '38.0098'
+  long: "-94.7197"
+  nearby_rate_centers:
+  - name: FULTON
+    distance_km: 0.16
+  - name: PRESCOTT
+    distance_km: 6.57
+  - name: WEST HUME
+    distance_km: 12.39
+- country: US
+  region: KS
+  name: Furley
+  lat: '37.8801'
+  long: "-97.2119"
+  nearby_rate_centers:
+  - name: KECHI
+    distance_km: 10.35
+  - name: WHITEWATER
+    distance_km: 10.95
+  - name: BENTON
+    distance_km: 13.34
+- country: US
+  region: KS
+  name: Galatia
+  lat: '38.6411'
+  long: "-98.9578"
+  nearby_rate_centers:
+  - name: GALATIA
+    distance_km: 0.29
+  - name: OLMITZ
+    distance_km: 14.04
+  - name: OTIS
+    distance_km: 14.61
+- country: US
+  region: KS
+  name: Galena
+  lat: '37.0751'
+  long: "-94.6354"
+  nearby_rate_centers:
+  - name: GALENA
+    distance_km: 0.72
+  - name: RIVERTON
+    distance_km: 7.03
+  - name: BAXTER SPG
+    distance_km: 10.44
+- country: US
+  region: KS
+  name: Galesburg
+  lat: '37.4721'
+  long: "-95.3563"
+  nearby_rate_centers:
+  - name: GALESBURG
+    distance_km: 0.45
+  - name: THAYER
+    distance_km: 11.2
+  - name: ERIE
+    distance_km: 14.67
+- country: US
+  region: KS
+  name: Galva
+  lat: '38.3836'
+  long: "-97.5381"
+  nearby_rate_centers:
+  - name: GALVA
+    distance_km: 0.46
+  - name: CANTON
+    distance_km: 9.8
+  - name: MCPHERSON
+    distance_km: 11.19
+- country: US
+  region: KS
+  name: Garden City
+  lat: '37.9753'
+  long: "-100.8527"
+  nearby_rate_centers:
+  - name: GARDENCITY
+    distance_km: 1.73
+  - name: DEERFIELD
+    distance_km: 24.6
+  - name: LAKIN
+    distance_km: 35.68
+- country: US
+  region: KS
+  name: Garden Plain
+  lat: '37.6627'
+  long: "-97.6793"
+  nearby_rate_centers:
+  - name: GARDEN PL
+    distance_km: 0.86
+  - name: GARDEN PLAIN METRO
+    distance_km: 0.86
+  - name: GODDARD
+    distance_km: 9.24
+  - name: CHENEY
+    distance_km: 9.85
+  - name: CHENEY METRO
+    distance_km: 9.85
+- country: US
+  region: KS
+  name: Gardner
+  lat: '38.8122'
+  long: "-94.9275"
+  nearby_rate_centers:
+  - name: GARDNER
+    distance_km: 0.38
+  - name: GARDNER METRO
+    distance_km: 0.38
+  - name: EDGERTON
+    distance_km: 9.47
+  - name: EDGERTON METRO
+    distance_km: 9.47
+  - name: SPRING HILL METRO
+    distance_km: 11.39
+  - name: SPRINGHILL
+    distance_km: 11.39
+- country: US
+  region: KS
+  name: Garfield
+  lat: '38.0770'
+  long: "-99.2445"
+  nearby_rate_centers:
+  - name: GARFIELD
+    distance_km: 0.32
+  - name: LEWIS
+    distance_km: 16.08
+  - name: LARNED
+    distance_km: 17.77
+- country: US
+  region: KS
+  name: Garland
+  lat: '37.7305'
+  long: "-94.6244"
+  nearby_rate_centers:
+  - name: ARCADIA
+    distance_km: 9.68
+  - name: FORT SCOTT
+    distance_km: 14.1
+  - name: MULBERRY
+    distance_km: 19.34
+- country: US
+  region: KS
+  name: Garnett
+  lat: '38.2845'
+  long: "-95.2408"
+  nearby_rate_centers:
+  - name: GARNETT
+    distance_km: 0.3
+  - name: RICHMOND
+    distance_km: 12.66
+  - name: GREELEY
+    distance_km: 13.03
+- country: US
+  region: KS
+  name: Gas
+  lat: '37.9230'
+  long: "-95.3454"
+  nearby_rate_centers:
+  - name: LA HARPE
+    distance_km: 4.15
+  - name: IOLA
+    distance_km: 5.52
+  - name: MORAN
+    distance_km: 15.11
+- country: US
+  region: KS
+  name: Gaylord
+  lat: '39.6463'
+  long: "-98.8473"
+  nearby_rate_centers:
+  - name: GAYLORD
+    distance_km: 0.33
+  - name: ATHOL
+    distance_km: 13.98
+  - name: SMITH CTR
+    distance_km: 15.76
+- country: US
+  region: KS
+  name: Gem
+  lat: '39.4260'
+  long: "-100.8973"
+  nearby_rate_centers:
+  - name: REXFORD
+    distance_km: 14.08
+  - name: COLBY
+    distance_km: 14.38
+  - name: MENLO
+    distance_km: 17.11
+- country: US
+  region: KS
+  name: Geneseo
+  lat: '38.5170'
+  long: "-98.1545"
+  nearby_rate_centers:
+  - name: GENESEO
+    distance_km: 0.33
+  - name: LITTLE RIV
+    distance_km: 17.45
+  - name: LYONS
+    distance_km: 19.08
+- country: US
+  region: KS
+  name: Geuda Springs
+  lat: '37.1114'
+  long: "-97.1505"
+  nearby_rate_centers:
+  - name: GEUDA SPG
+    distance_km: 0.64
+  - name: ARKANSASCY
+    distance_km: 10.69
+  - name: OXFORD
+    distance_km: 18.09
+- country: US
+  region: KS
+  name: Girard
+  lat: '37.5094'
+  long: "-94.8456"
+  nearby_rate_centers:
+  - name: GIRARD
+    distance_km: 0.46
+  - name: BRAZILTON
+    distance_km: 11.14
+  - name: FARLINGTON
+    distance_km: 12.12
+- country: US
+  region: KS
+  name: Glade
+  lat: '39.6837'
+  long: "-99.3116"
+  nearby_rate_centers:
+  - name: PHILLIPSBG
+    distance_km: 8.06
+  - name: AGRA
+    distance_km: 18.61
+  - name: LOGAN
+    distance_km: 21.97
+- country: US
+  region: KS
+  name: Glasco
+  lat: '39.3609'
+  long: "-97.8372"
+  nearby_rate_centers:
+  - name: GLASCO
+    distance_km: 0.54
+  - name: SIMPSON
+    distance_km: 8.65
+  - name: DELPHOS
+    distance_km: 11.39
+- country: US
+  region: KS
+  name: Glen Elder
+  lat: '39.5001'
+  long: "-98.3066"
+  nearby_rate_centers:
+  - name: GLEN ELDER
+    distance_km: 0.2
+  - name: CAWKERCITY
+    distance_km: 10.79
+  - name: BELOIT
+    distance_km: 17.82
+- country: US
+  region: KS
+  name: Goddard
+  lat: '37.6652'
+  long: "-97.5617"
+  nearby_rate_centers:
+  - name: GODDARD
+    distance_km: 1.46
+  - name: WICHITPKVW
+    distance_km: 8.48
+  - name: GARDEN PL
+    distance_km: 11.0
+  - name: GARDEN PLAIN METRO
+    distance_km: 11.0
+- country: US
+  region: KS
+  name: Goessel
+  lat: '38.2473'
+  long: "-97.3454"
+  nearby_rate_centers:
+  - name: GOESSEL
+    distance_km: 1.85
+  - name: HESSTON
+    distance_km: 14.15
+  - name: LEHIGH
+    distance_km: 14.52
+- country: US
+  region: KS
+  name: Goff
+  lat: '39.6641'
+  long: "-95.9317"
+  nearby_rate_centers:
+  - name: GOFF
+    distance_km: 0.51
+  - name: CORNING
+    distance_km: 7.89
+  - name: WETMORE
+    distance_km: 11.29
+- country: US
+  region: KS
+  name: Goodland
+  lat: '39.3489'
+  long: "-101.7143"
+  nearby_rate_centers:
+  - name: GOODLAND
+    distance_km: 1.09
+  - name: KANORADO
+    distance_km: 27.62
+  - name: BREWSTER
+    distance_km: 28.18
+- country: US
+  region: KS
+  name: Gorham
+  lat: '38.8806'
+  long: "-99.0237"
+  nearby_rate_centers:
+  - name: GORHAM
+    distance_km: 0.55
+  - name: VICTORIA
+    distance_km: 11.54
+  - name: RUSSELL
+    distance_km: 14.25
+- country: US
+  region: KS
+  name: Gove City
+  lat: '38.9595'
+  long: "-100.4871"
+  nearby_rate_centers:
+  - name: GOVE
+    distance_km: 0.42
+  - name: GRAINFIELD
+    distance_km: 17.76
+  - name: GRINNELL
+    distance_km: 22.34
+- country: US
+  region: KS
+  name: Grainfield
+  lat: '39.1143'
+  long: "-100.4684"
+  nearby_rate_centers:
+  - name: GRAINFIELD
+    distance_km: 0.48
+  - name: GRINNELL
+    distance_km: 14.23
+  - name: GOVE
+    distance_km: 17.63
+- country: US
+  region: KS
+  name: Grandview Plaza
+  lat: '39.0327'
+  long: "-96.7930"
+  nearby_rate_centers:
+  - name: JUNCTIONCY
+    distance_km: 3.28
+  - name: MILFORD
+    distance_km: 18.12
+  - name: CHAPMAN
+    distance_km: 20.54
+- country: US
+  region: KS
+  name: Grantville
+  lat: '39.0806'
+  long: "-95.5611"
+  nearby_rate_centers:
+  - name: TECUMSEH
+    distance_km: 4.13
+  - name: TOPEKA
+    distance_km: 10.55
+  - name: MERIDEN
+    distance_km: 11.57
+- country: US
+  region: KS
+  name: Great Bend
+  lat: '38.3593'
+  long: "-98.8015"
+  nearby_rate_centers:
+  - name: GREAT BEND
+    distance_km: 3.15
+  - name: HOISINGTON
+    distance_km: 17.87
+  - name: PAWNEEROCK
+    distance_km: 18.74
+- country: US
+  region: KS
+  name: Greeley
+  lat: '38.3676'
+  long: "-95.1272"
+  nearby_rate_centers:
+  - name: GREELEY
+    distance_km: 0.6
+  - name: LANE
+    distance_km: 8.4
+  - name: RICHMOND
+    distance_km: 11.77
+- country: US
+  region: KS
+  name: Green
+  lat: '39.4301'
+  long: "-96.9999"
+  nearby_rate_centers:
+  - name: GREEN
+    distance_km: 0.49
+  - name: CLAYCENTER
+    distance_km: 12.25
+  - name: LEONARDVL
+    distance_km: 13.55
+- country: US
+  region: KS
+  name: Greenleaf
+  lat: '39.7273'
+  long: "-96.9800"
+  nearby_rate_centers:
+  - name: GREENLEAF
+    distance_km: 0.53
+  - name: BARNES
+    distance_km: 9.36
+  - name: LINN
+    distance_km: 10.34
+- country: US
+  region: KS
+  name: Greensburg
+  lat: '37.6049'
+  long: "-99.2895"
+  nearby_rate_centers:
+  - name: GREENSBURG
+    distance_km: 0.39
+  - name: MULLINVL
+    distance_km: 16.32
+  - name: HAVILAND
+    distance_km: 16.73
+- country: US
+  region: KS
+  name: Greenwich
+  lat: '37.7832'
+  long: "-97.2037"
+  nearby_rate_centers:
+  - name: KECHI
+    distance_km: 6.35
+  - name: BENTON
+    distance_km: 8.48
+  - name: ANDOVER
+    distance_km: 9.65
+- country: US
+  region: KS
+  name: Grenola
+  lat: '37.3507'
+  long: "-96.4494"
+  nearby_rate_centers:
+  - name: GRENOLA
+    distance_km: 0.25
+  - name: MOLINE
+    distance_km: 13.09
+  - name: CAMBRIDGE
+    distance_km: 19.87
+- country: US
+  region: KS
+  name: Gridley
+  lat: '38.1007'
+  long: "-95.8826"
+  nearby_rate_centers:
+  - name: GRIDLEY
+    distance_km: 0.16
+  - name: BURLINGTON
+    distance_km: 16.34
+  - name: LEROY
+    distance_km: 21.83
+- country: US
+  region: KS
+  name: Grinnell
+  lat: '39.1266'
+  long: "-100.6311"
+  nearby_rate_centers:
+  - name: GRINNELL
+    distance_km: 0.18
+  - name: GRAINFIELD
+    distance_km: 14.21
+  - name: OAKLEY
+    distance_km: 19.78
+- country: US
+  region: KS
+  name: Gypsum
+  lat: '38.7058'
+  long: "-97.4266"
+  nearby_rate_centers:
+  - name: GYPSUM
+    distance_km: 0.1
+  - name: CARLTON
+    distance_km: 11.7
+  - name: ASSARIA
+    distance_km: 15.46
+- country: US
+  region: KS
+  name: Haddam
+  lat: '39.8553'
+  long: "-97.3045"
+  nearby_rate_centers:
+  - name: HADDAM
+    distance_km: 0.45
+  - name: MORROWVL
+    distance_km: 11.03
+  - name: CUBA
+    distance_km: 14.45
+- country: US
+  region: KS
+  name: Hallowell
+  lat: '37.1733'
+  long: "-95.0027"
+  nearby_rate_centers:
+  - name: HALLOWELL
+    distance_km: 0.58
+  - name: OSWEGO
+    distance_km: 10.0
+  - name: W MINERAL
+    distance_km: 13.89
+- country: US
+  region: KS
+  name: Halstead
+  lat: '37.9999'
+  long: "-97.5102"
+  nearby_rate_centers:
+  - name: HALSTEAD
+    distance_km: 1.07
+  - name: HALSTEAD METRO
+    distance_km: 1.07
+  - name: SEDGWICK
+    distance_km: 11.69
+  - name: BURRTON
+    distance_km: 13.96
+- country: US
+  region: KS
+  name: Hamilton
+  lat: '37.9805'
+  long: "-96.1638"
+  nearby_rate_centers:
+  - name: HAMILTON
+    distance_km: 0.2
+  - name: MADISON
+    distance_km: 17.74
+  - name: QUINCY
+    distance_km: 18.63
+- country: US
+  region: KS
+  name: Hamlin
+  lat: '39.9156'
+  long: "-95.6275"
+  nearby_rate_centers:
+  - name: MORRILL
+    distance_km: 5.61
+  - name: HIAWATHA
+    distance_km: 10.27
+  - name: FAIRVIEW
+    distance_km: 11.94
+- country: US
+  region: KS
+  name: Hanover
+  lat: '39.8934'
+  long: "-96.8753"
+  nearby_rate_centers:
+  - name: HANOVRHNBG
+    distance_km: 0.35
+  - name: SOUTHODELL
+    distance_km: 12.7
+  - name: WASHINGTON
+    distance_km: 17.15
+- country: US
+  region: KS
+  name: Hanston
+  lat: '38.1229'
+  long: "-99.7127"
+  nearby_rate_centers:
+  - name: HANSTON
+    distance_km: 0.2
+  - name: JETMORE
+    distance_km: 16.22
+  - name: BURDETT
+    distance_km: 18.65
+- country: US
+  region: KS
+  name: Hardtner
+  lat: '37.0144'
+  long: "-98.6492"
+  nearby_rate_centers:
+  - name: HARDTNER
+    distance_km: 0.46
+  - name: KIOWA
+    distance_km: 14.57
+  - name: HAZELTON
+    distance_km: 23.59
+- country: US
+  region: KS
+  name: Harper
+  lat: '37.2851'
+  long: "-98.0276"
+  nearby_rate_centers:
+  - name: HARPER
+    distance_km: 0.72
+  - name: ANTHONY
+    distance_km: 13.93
+  - name: FREEPORT
+    distance_km: 17.51
+- country: US
+  region: KS
+  name: Harris
+  lat: '38.3206'
+  long: "-95.4450"
+  nearby_rate_centers:
+  - name: WESTPHALIA
+    distance_km: 15.64
+  - name: WAVERLY
+    distance_km: 15.85
+  - name: WILLIAMSBG
+    distance_km: 18.1
+- country: US
+  region: KS
+  name: Hartford
+  lat: '38.3084'
+  long: "-95.9566"
+  nearby_rate_centers:
+  - name: HARTFORD
+    distance_km: 0.08
+  - name: LEBO
+    distance_km: 14.89
+  - name: OLPE
+    distance_km: 19.15
+- country: US
+  region: KS
+  name: Harveyville
+  lat: '38.7896'
+  long: "-95.9624"
+  nearby_rate_centers:
+  - name: HARVEYVL
+    distance_km: 0.61
+  - name: BURLINGAME
+    distance_km: 12.22
+  - name: ESKRIDGE
+    distance_km: 15.0
+- country: US
+  region: KS
+  name: Havana
+  lat: '37.0921'
+  long: "-95.9418"
+  nearby_rate_centers:
+  - name: HAVANA
+    distance_km: 0.9
+  - name: CANEY
+    distance_km: 8.31
+  - name: TYRO
+    distance_km: 13.06
+- country: US
+  region: KS
+  name: Haven
+  lat: '37.9016'
+  long: "-97.7831"
+  nearby_rate_centers:
+  - name: HAVEN
+    distance_km: 0.76
+  - name: MOUNT HOPE
+    distance_km: 10.72
+  - name: MOUNT HOPE METRO
+    distance_km: 10.72
+  - name: BURRTON
+    distance_km: 17.07
+- country: US
+  region: KS
+  name: Havensville
+  lat: '39.5115'
+  long: "-96.0762"
+  nearby_rate_centers:
+  - name: HAVENSVL
+    distance_km: 1.53
+  - name: ONAGA
+    distance_km: 8.04
+  - name: SOLDIER
+    distance_km: 9.41
+- country: US
+  region: KS
+  name: Haviland
+  lat: '37.6173'
+  long: "-99.1059"
+  nearby_rate_centers:
+  - name: HAVILAND
+    distance_km: 0.53
+  - name: GREENSBURG
+    distance_km: 16.15
+  - name: CULLISON
+    distance_km: 18.26
+- country: US
+  region: KS
+  name: Hays
+  lat: '38.8821'
+  long: "-99.3221"
+  nearby_rate_centers:
+  - name: HAYS
+    distance_km: 0.86
+  - name: VICTORIA
+    distance_km: 15.36
+  - name: ELLIS
+    distance_km: 20.99
+- country: US
+  region: KS
+  name: Haysville
+  lat: '37.5648'
+  long: "-97.3527"
+  nearby_rate_centers:
+  - name: WICHITJKSN
+    distance_km: 4.3
+  - name: DERBY
+    distance_km: 7.71
+  - name: MULVANE
+    distance_km: 13.88
+- country: US
+  region: KS
+  name: Hazelton
+  lat: '37.0894'
+  long: "-98.4015"
+  nearby_rate_centers:
+  - name: HAZELTON
+    distance_km: 0.11
+  - name: KIOWA
+    distance_km: 10.94
+  - name: SHARON
+    distance_km: 17.82
+- country: US
+  region: KS
+  name: Healy
+  lat: '38.6030'
+  long: "-100.6176"
+  nearby_rate_centers:
+  - name: HEALY
+    distance_km: 0.38
+  - name: DIGHTON
+    distance_km: 19.57
+  - name: SCOTT CITY
+    distance_km: 28.55
+- country: US
+  region: KS
+  name: Hepler
+  lat: '37.6637'
+  long: "-94.9697"
+  nearby_rate_centers:
+  - name: HEPLER
+    distance_km: 0.66
+  - name: HIATTVILLE
+    distance_km: 10.75
+  - name: BRAZILTON
+    distance_km: 12.05
+- country: US
+  region: KS
+  name: Herington
+  lat: '38.6862'
+  long: "-96.8669"
+  nearby_rate_centers:
+  - name: DELAVAN
+    distance_km: 6.17
+  - name: HERINGTON
+    distance_km: 6.74
+  - name: WOODBINE
+    distance_km: 14.25
+- country: US
+  region: KS
+  name: Herkimer
+  lat: '39.8924'
+  long: "-96.7090"
+  nearby_rate_centers:
+  - name: MARYSVILLE
+    distance_km: 7.74
+  - name: OKETO
+    distance_km: 12.14
+  - name: SOUTHODELL
+    distance_km: 13.63
+- country: US
+  region: KS
+  name: Herndon
+  lat: '39.9092'
+  long: "-100.7865"
+  nearby_rate_centers:
+  - name: HERNDON
+    distance_km: 1.18
+  - name: OBERLIN
+    distance_km: 24.71
+  - name: ATWOOD
+    distance_km: 25.17
+- country: US
+  region: KS
+  name: Hesston
+  lat: '38.1401'
+  long: "-97.4270"
+  nearby_rate_centers:
+  - name: HESSTON
+    distance_km: 0.56
+  - name: MOUNDRIDGE
+    distance_km: 10.32
+  - name: NEWTON
+    distance_km: 12.45
+  - name: NEWTON METRO
+    distance_km: 12.45
+- country: US
+  region: KS
+  name: Hiawatha
+  lat: '39.8519'
+  long: "-95.5380"
+  nearby_rate_centers:
+  - name: HIAWATHA
+    distance_km: 0.21
+  - name: ROBINSON
+    distance_km: 11.14
+  - name: POWHATTAN
+    distance_km: 13.16
+- country: US
+  region: KS
+  name: Highland
+  lat: '39.8603'
+  long: "-95.2649"
+  nearby_rate_centers:
+  - name: HIGHLAND
+    distance_km: 0.2
+  - name: WHITECLOUD
+    distance_km: 13.4
+  - name: ROBINSON
+    distance_km: 13.63
+- country: US
+  region: KS
+  name: Hill City
+  lat: '39.3670'
+  long: "-99.8460"
+  nearby_rate_centers:
+  - name: HILL CITY
+    distance_km: 0.19
+  - name: MORLAND
+    distance_km: 19.79
+  - name: DAMAR
+    distance_km: 23.39
+- country: US
+  region: KS
+  name: Hillsboro
+  lat: '38.3527'
+  long: "-97.1992"
+  nearby_rate_centers:
+  - name: HILLSBORO
+    distance_km: 0.34
+  - name: LEHIGH
+    distance_km: 9.39
+  - name: DURHAM
+    distance_km: 14.74
+- country: US
+  region: KS
+  name: Hillsdale
+  lat: '38.6597'
+  long: "-94.8569"
+  nearby_rate_centers:
+  - name: HILLSDALE
+    distance_km: 1.14
+  - name: PAOLA
+    distance_km: 10.37
+  - name: PAOLA METRO
+    distance_km: 10.37
+  - name: SPRING HILL METRO
+    distance_km: 10.45
+  - name: SPRINGHILL
+    distance_km: 10.45
+- country: US
+  region: KS
+  name: Hoisington
+  lat: '38.5181'
+  long: "-98.7774"
+  nearby_rate_centers:
+  - name: HOISINGTON
+    distance_km: 0.18
+  - name: OLMITZ
+    distance_km: 13.54
+  - name: GREAT BEND
+    distance_km: 16.77
+- country: US
+  region: KS
+  name: Holcomb
+  lat: '37.9859'
+  long: "-100.9936"
+  nearby_rate_centers:
+  - name: GARDENCITY
+    distance_km: 10.7
+  - name: DEERFIELD
+    distance_km: 12.23
+  - name: LAKIN
+    distance_km: 23.67
+- country: US
+  region: KS
+  name: Hollenberg
+  lat: '39.9810'
+  long: "-96.9917"
+  nearby_rate_centers:
+  - name: HANOVRHNBG
+    distance_km: 14.21
+  - name: SOUTHODELL
+    distance_km: 16.27
+  - name: WASHINGTON
+    distance_km: 19.07
+- country: US
+  region: KS
+  name: Holton
+  lat: '39.4699'
+  long: "-95.7319"
+  nearby_rate_centers:
+  - name: HOLTON
+    distance_km: 0.51
+  - name: CIRCLEVL
+    distance_km: 11.85
+  - name: DENISON
+    distance_km: 12.04
+- country: US
+  region: KS
+  name: Holyrood
+  lat: '38.5876'
+  long: "-98.4119"
+  nearby_rate_centers:
+  - name: HOLYROOD
+    distance_km: 0.53
+  - name: BUSHTON
+    distance_km: 8.15
+  - name: CLAFLIN
+    distance_km: 12.69
+- country: US
+  region: KS
+  name: Home
+  lat: '39.8415'
+  long: "-96.5199"
+  nearby_rate_centers:
+  - name: HOME
+    distance_km: 0.58
+  - name: BEATTIE
+    distance_km: 9.04
+  - name: MARYSVILLE
+    distance_km: 11.07
+- country: US
+  region: KS
+  name: Hope
+  lat: '38.6912'
+  long: "-97.0765"
+  nearby_rate_centers:
+  - name: HOPE
+    distance_km: 0.28
+  - name: RAMONA
+    distance_km: 10.27
+  - name: NAVARRE
+    distance_km: 11.53
+- country: US
+  region: KS
+  name: Horace
+  lat: '38.4769'
+  long: "-101.7905"
+  nearby_rate_centers:
+  - name: TRIBUNE
+    distance_km: 3.88
+  - name: LEOTI
+    distance_km: 37.7
+  - name: WESKAN
+    distance_km: 45.9
+- country: US
+  region: KS
+  name: Horton
+  lat: '39.6635'
+  long: "-95.5326"
+  nearby_rate_centers:
+  - name: HORTON
+    distance_km: 0.96
+  - name: WILLIS
+    distance_km: 7.46
+  - name: EVEREST
+    distance_km: 9.53
+- country: US
+  region: KS
+  name: Howard
+  lat: '37.4695'
+  long: "-96.2631"
+  nearby_rate_centers:
+  - name: HOWARD
+    distance_km: 0.41
+  - name: MOLINE
+    distance_km: 12.06
+  - name: ELK FALLS
+    distance_km: 12.31
+- country: US
+  region: KS
+  name: Hoxie
+  lat: '39.3558'
+  long: "-100.4397"
+  nearby_rate_centers:
+  - name: HOXIE
+    distance_km: 0.42
+  - name: SELDEN
+    distance_km: 22.19
+  - name: MENLO
+    distance_km: 24.61
+- country: US
+  region: KS
+  name: Hoyt
+  lat: '39.2493'
+  long: "-95.7080"
+  nearby_rate_centers:
+  - name: HOYT
+    distance_km: 0.31
+  - name: MAYETTA
+    distance_km: 9.29
+  - name: MERIDEN
+    distance_km: 14.18
+- country: US
+  region: KS
+  name: Hudson
+  lat: '38.1049'
+  long: "-98.6609"
+  nearby_rate_centers:
+  - name: HUDSON
+    distance_km: 0.3
+  - name: ST JOHN
+    distance_km: 14.59
+  - name: STAFFORD
+    distance_km: 16.48
+- country: US
+  region: KS
+  name: Hugoton
+  lat: '37.1745'
+  long: "-101.3447"
+  nearby_rate_centers:
+  - name: HUGOTON
+    distance_km: 0.89
+  - name: MOSCOW
+    distance_km: 20.4
+  - name: ROLLA
+    distance_km: 26.32
+- country: US
+  region: KS
+  name: Humboldt
+  lat: '37.8125'
+  long: "-95.4363"
+  nearby_rate_centers:
+  - name: HUMBOLDT
+    distance_km: 0.84
+  - name: IOLA
+    distance_km: 12.81
+  - name: CHANUTE
+    distance_km: 14.67
+- country: US
+  region: KS
+  name: Hunnewell
+  lat: '37.0042'
+  long: "-97.4076"
+  nearby_rate_centers:
+  - name: SOUTHHAVEN
+    distance_km: 4.92
+  - name: CALDWELL
+    distance_km: 18.19
+  - name: CORBIN
+    distance_km: 18.66
+- country: US
+  region: KS
+  name: Hunter
+  lat: '39.2349'
+  long: "-98.3960"
+  nearby_rate_centers:
+  - name: HUNTER
+    distance_km: 0.8
+  - name: TIPTON
+    distance_km: 12.91
+  - name: DENMARK
+    distance_km: 18.89
+- country: US
+  region: KS
+  name: Huron
+  lat: '39.6384'
+  long: "-95.3512"
+  nearby_rate_centers:
+  - name: HURON
+    distance_km: 0.84
+  - name: EVEREST
+    distance_km: 7.32
+  - name: LANCASTER
+    distance_km: 8.17
+  - name: LANCASTER METRO
+    distance_km: 8.17
+- country: US
+  region: KS
+  name: Hutchinson
+  lat: '38.0671'
+  long: "-97.9081"
+  nearby_rate_centers:
+  - name: HUTCHINSON
+    distance_km: 2.01
+  - name: BUHLER
+    distance_km: 14.48
+  - name: NICKERSON
+    distance_km: 18.05
+- country: US
+  region: KS
+  name: Idana
+  lat: '39.3595'
+  long: "-97.2662"
+  nearby_rate_centers:
+  - name: CLAYCENTER
+    distance_km: 12.44
+  - name: MORGANVL
+    distance_km: 12.82
+  - name: MILTONVALE
+    distance_km: 15.61
+- country: US
+  region: KS
+  name: Independence
+  lat: '37.2119'
+  long: "-95.7327"
+  nearby_rate_centers:
+  - name: INDEPNDNCE
+    distance_km: 2.39
+  - name: LIBERTY
+    distance_km: 13.2
+  - name: CHERRYVALE
+    distance_km: 17.17
+- country: US
+  region: KS
+  name: Ingalls
+  lat: '37.8287'
+  long: "-100.4534"
+  nearby_rate_centers:
+  - name: INGALLS
+    distance_km: 0.35
+  - name: CIMARRON
+    distance_km: 9.94
+  - name: MONTEZUMA
+    distance_km: 25.28
+- country: US
+  region: KS
+  name: Inman
+  lat: '38.2323'
+  long: "-97.7715"
+  nearby_rate_centers:
+  - name: INMAN
+    distance_km: 0.46
+  - name: BUHLER
+    distance_km: 10.74
+  - name: CONWAY
+    distance_km: 14.82
+- country: US
+  region: KS
+  name: Iola
+  lat: '37.9274'
+  long: "-95.4006"
+  nearby_rate_centers:
+  - name: IOLA
+    distance_km: 0.7
+  - name: LA HARPE
+    distance_km: 9.02
+  - name: PIQUA
+    distance_km: 11.64
+- country: US
+  region: KS
+  name: Ionia
+  lat: '39.6626'
+  long: "-98.3439"
+  nearby_rate_centers:
+  - name: IONIA
+    distance_km: 0.54
+  - name: JEWELL
+    distance_km: 16.13
+  - name: MANKATO
+    distance_km: 17.5
+- country: US
+  region: KS
+  name: Isabel
+  lat: '37.4672'
+  long: "-98.5515"
+  nearby_rate_centers:
+  - name: ISABEL
+    distance_km: 0.42
+  - name: NASHVILLE
+    distance_km: 12.2
+  - name: SAWYER
+    distance_km: 12.4
+- country: US
+  region: KS
+  name: Iuka
+  lat: '37.7290'
+  long: "-98.7327"
+  nearby_rate_centers:
+  - name: IUKA
+    distance_km: 0.54
+  - name: PRATT
+    distance_km: 9.77
+  - name: PRESTON
+    distance_km: 15.88
+- country: US
+  region: KS
+  name: Jamestown
+  lat: '39.5996'
+  long: "-97.8613"
+  nearby_rate_centers:
+  - name: JAMESTOWN
+    distance_km: 0.45
+  - name: RANDALL
+    distance_km: 17.05
+  - name: CONCORDIA
+    distance_km: 17.59
+- country: US
+  region: KS
+  name: Jennings
+  lat: '39.6806'
+  long: "-100.2933"
+  nearby_rate_centers:
+  - name: JENNINGS
+    distance_km: 0.71
+  - name: NORCATUR
+    distance_km: 19.14
+  - name: OBERLIN
+    distance_km: 24.83
+- country: US
+  region: KS
+  name: Jetmore
+  lat: '38.0301'
+  long: "-99.9098"
+  nearby_rate_centers:
+  - name: JETMORE
+    distance_km: 6.02
+  - name: HANSTON
+    distance_km: 20.3
+  - name: SPEARVILLE
+    distance_km: 25.2
+- country: US
+  region: KS
+  name: Jewell
+  lat: '39.6715'
+  long: "-98.1525"
+  nearby_rate_centers:
+  - name: JEWELL
+    distance_km: 0.66
+  - name: RANDALL
+    distance_km: 9.18
+  - name: MANKATO
+    distance_km: 13.37
+- country: US
+  region: KS
+  name: Johnson City
+  lat: '37.5703'
+  long: "-101.7447"
+  nearby_rate_centers:
+  - name: JOHNSON
+    distance_km: 1.03
+  - name: MANTER
+    distance_km: 13.31
+  - name: BIG BOW
+    distance_km: 16.24
+- country: US
+  region: KS
+  name: Junction City
+  lat: '39.0277'
+  long: "-96.8508"
+  nearby_rate_centers:
+  - name: JUNCTIONCY
+    distance_km: 1.76
+  - name: CHAPMAN
+    distance_km: 15.73
+  - name: MILFORD
+    distance_km: 16.4
+- country: US
+  region: KS
+  name: Kanopolis
+  lat: '38.7081'
+  long: "-98.1581"
+  nearby_rate_centers:
+  - name: ELLSWORTH
+    distance_km: 6.95
+  - name: GENESEO
+    distance_km: 21.51
+  - name: HOLYROOD
+    distance_km: 25.29
+- country: US
+  region: KS
+  name: Kanorado
+  lat: '39.3366'
+  long: "-102.0373"
+  nearby_rate_centers:
+  - name: KANORADO
+    distance_km: 0.26
+  - name: GOODLAND
+    distance_km: 28.39
+  - name: ST FRANCIS
+    distance_km: 51.94
+- country: US
+  region: KS
+  name: Kansas City
+  lat: '39.1235'
+  long: "-94.7443"
+  nearby_rate_centers:
+  - name: BETHEL
+    distance_km: 2.89
+  - name: KANSASCITY
+    distance_km: 9.5
+  - name: BONNER SPG
+    distance_km: 14.13
+- country: US
+  region: KS
+  name: Keats
+  lat: '39.2217'
+  long: "-96.7109"
+  nearby_rate_centers:
+  - name: RILEY
+    distance_km: 12.51
+  - name: MANHATTAN
+    distance_km: 12.78
+  - name: MILFORD
+    distance_km: 18.22
+- country: US
+  region: KS
+  name: Kechi
+  lat: '37.8234'
+  long: "-97.2891"
+  nearby_rate_centers:
+  - name: KECHI
+    distance_km: 2.95
+  - name: VALLEY CTR
+    distance_km: 7.6
+  - name: WICHITA
+    distance_km: 15.32
+- country: US
+  region: KS
+  name: Kelly
+  lat: '39.7368'
+  long: "-96.0008"
+  nearby_rate_centers:
+  - name: CORNING
+    distance_km: 8.75
+  - name: GOFF
+    distance_km: 9.52
+  - name: CENTRALIA
+    distance_km: 11.21
+- country: US
+  region: KS
+  name: Kensington
+  lat: '39.7667'
+  long: "-99.0329"
+  nearby_rate_centers:
+  - name: KENSINGTON
+    distance_km: 0.29
+  - name: AGRA
+    distance_km: 7.22
+  - name: ATHOL
+    distance_km: 9.81
+- country: US
+  region: KS
+  name: Kickapoo Site 1
+  lat: '39.7145'
+  long: "-95.6484"
+  nearby_rate_centers:
+  - name: POWHATTAN
+    distance_km: 5.16
+  - name: HORTON
+    distance_km: 11.91
+  - name: WILLIS
+    distance_km: 12.89
+- country: US
+  region: KS
+  name: Kickapoo Site 2
+  lat: '39.7029'
+  long: "-95.6495"
+  nearby_rate_centers:
+  - name: POWHATTAN
+    distance_km: 6.44
+  - name: HORTON
+    distance_km: 11.5
+  - name: NETAWAKA
+    distance_km: 12.73
+- country: US
+  region: KS
+  name: Kickapoo Site 5
+  lat: '39.6735'
+  long: "-95.6842"
+  nearby_rate_centers:
+  - name: NETAWAKA
+    distance_km: 8.58
+  - name: POWHATTAN
+    distance_km: 10.48
+  - name: WHITING
+    distance_km: 11.17
+- country: US
+  region: KS
+  name: Kickapoo Site 6
+  lat: '39.6917'
+  long: "-95.6905"
+  nearby_rate_centers:
+  - name: POWHATTAN
+    distance_km: 8.94
+  - name: NETAWAKA
+    distance_km: 10.41
+  - name: WETMORE
+    distance_km: 11.72
+- country: US
+  region: KS
+  name: Kickapoo Site 7
+  lat: '39.6895'
+  long: "-95.6713"
+  nearby_rate_centers:
+  - name: POWHATTAN
+    distance_km: 8.41
+  - name: NETAWAKA
+    distance_km: 10.62
+  - name: WHITING
+    distance_km: 12.16
+- country: US
+  region: KS
+  name: Kickapoo Tribal Center
+  lat: '39.6722'
+  long: "-95.6453"
+  nearby_rate_centers:
+  - name: WHITING
+    distance_km: 9.53
+  - name: POWHATTAN
+    distance_km: 9.77
+  - name: NETAWAKA
+    distance_km: 9.99
+- country: US
+  region: KS
+  name: Kincaid
+  lat: '38.0812'
+  long: "-95.1554"
+  nearby_rate_centers:
+  - name: KINCAID
+    distance_km: 0.44
+  - name: BLUE MOUND
+    distance_km: 12.85
+  - name: COLONY
+    distance_km: 18.37
+- country: US
+  region: KS
+  name: Kingman
+  lat: '37.6480'
+  long: "-98.1167"
+  nearby_rate_centers:
+  - name: KINGMAN
+    distance_km: 0.21
+  - name: MURDOCK
+    distance_km: 16.72
+  - name: PRETTYPRRI
+    distance_km: 17.67
+- country: US
+  region: KS
+  name: Kinsley
+  lat: '37.9224'
+  long: "-99.4114"
+  nearby_rate_centers:
+  - name: KINSLEY
+    distance_km: 0.62
+  - name: LEWIS
+    distance_km: 14.38
+  - name: GARFIELD
+    distance_km: 22.43
+- country: US
+  region: KS
+  name: Kiowa
+  lat: '37.0174'
+  long: "-98.4848"
+  nearby_rate_centers:
+  - name: KIOWA
+    distance_km: 0.05
+  - name: HAZELTON
+    distance_km: 11.0
+  - name: HARDTNER
+    distance_km: 14.69
+- country: US
+  region: KS
+  name: Kipp
+  lat: '38.7850'
+  long: "-97.4568"
+  nearby_rate_centers:
+  - name: GYPSUM
+    distance_km: 9.18
+  - name: SALINA
+    distance_km: 14.69
+  - name: SOLOMON
+    distance_km: 16.6
+- country: US
+  region: KS
+  name: Kirwin
+  lat: '39.6698'
+  long: "-99.1217"
+  nearby_rate_centers:
+  - name: AGRA
+    distance_km: 9.81
+  - name: KENSINGTON
+    distance_km: 13.27
+  - name: PHILLIPSBG
+    distance_km: 19.09
+- country: US
+  region: KS
+  name: Kismet
+  lat: '37.2046'
+  long: "-100.7018"
+  nearby_rate_centers:
+  - name: PLAINS
+    distance_km: 11.65
+  - name: LIBERAL
+    distance_km: 26.85
+  - name: SUBLETTE
+    distance_km: 33.31
+- country: US
+  region: KS
+  name: La Crosse
+  lat: '38.5318'
+  long: "-99.3095"
+  nearby_rate_centers:
+  - name: LA CROSSE
+    distance_km: 0.75
+  - name: RUSHCENTER
+    distance_km: 7.5
+  - name: BISON
+    distance_km: 9.53
+- country: US
+  region: KS
+  name: La Cygne
+  lat: '38.3479'
+  long: "-94.7613"
+  nearby_rate_centers:
+  - name: LA CYGNE
+    distance_km: 0.68
+  - name: FONTANA
+    distance_km: 10.98
+  - name: WEST DREXEL METRO
+    distance_km: 19.41
+  - name: WESTDREXEL
+    distance_km: 19.41
+- country: US
+  region: KS
+  name: La Harpe
+  lat: '37.9166'
+  long: "-95.3023"
+  nearby_rate_centers:
+  - name: LA HARPE
+    distance_km: 0.41
+  - name: IOLA
+    distance_km: 9.34
+  - name: MORAN
+    distance_km: 11.31
+- country: US
+  region: KS
+  name: Labette
+  lat: '37.2300'
+  long: "-95.1836"
+  nearby_rate_centers:
+  - name: OSWEGO
+    distance_km: 9.29
+  - name: ALTAMONT
+    distance_km: 10.34
+  - name: PARSONS
+    distance_km: 13.53
+- country: US
+  region: KS
+  name: Lafontaine
+  lat: '37.4004'
+  long: "-95.8430"
+  nearby_rate_centers:
+  - name: LAFONTAINE
+    distance_km: 0.24
+  - name: ELK CITY
+    distance_km: 13.6
+  - name: NEODESHA
+    distance_km: 14.25
+- country: US
+  region: KS
+  name: Lake City
+  lat: '37.3569'
+  long: "-98.8279"
+  nearby_rate_centers:
+  - name: LAKE CITY
+    distance_km: 1.76
+  - name: SUN CITY
+    distance_km: 7.16
+  - name: COATS
+    distance_km: 17.6
+- country: US
+  region: KS
+  name: Lake Quivira
+  lat: '39.0393'
+  long: "-94.7685"
+  nearby_rate_centers:
+  - name: MELROSE
+    distance_km: 9.71
+  - name: BONNER SPG
+    distance_km: 10.24
+  - name: BETHEL
+    distance_km: 12.3
+- country: US
+  region: KS
+  name: Lakin
+  lat: '37.9400'
+  long: "-101.2585"
+  nearby_rate_centers:
+  - name: LAKIN
+    distance_km: 0.13
+  - name: DEERFIELD
+    distance_km: 12.01
+  - name: KENDALL
+    distance_km: 23.9
+- country: US
+  region: KS
+  name: Lancaster
+  lat: '39.5710'
+  long: "-95.3037"
+  nearby_rate_centers:
+  - name: LANCASTER
+    distance_km: 0.48
+  - name: LANCASTER METRO
+    distance_km: 0.48
+  - name: HURON
+    distance_km: 7.73
+  - name: EFFINGHAM
+    distance_km: 10.17
+- country: US
+  region: KS
+  name: Lane
+  lat: '38.4398'
+  long: "-95.0819"
+  nearby_rate_centers:
+  - name: LANE
+    distance_km: 0.55
+  - name: GREELEY
+    distance_km: 9.34
+  - name: RANTOUL
+    distance_km: 12.39
+- country: US
+  region: KS
+  name: Langdon
+  lat: '37.8532'
+  long: "-98.3240"
+  nearby_rate_centers:
+  - name: LANGDON
+    distance_km: 0.56
+  - name: TURON
+    distance_km: 10.32
+  - name: ARLINGTON
+    distance_km: 13.56
+- country: US
+  region: KS
+  name: Lansing
+  lat: '39.2428'
+  long: "-94.8972"
+  nearby_rate_centers:
+  - name: LEAVENWORTH METRO
+    distance_km: 7.55
+  - name: LEAVENWTH
+    distance_km: 7.55
+  - name: BASEHOR
+    distance_km: 11.77
+  - name: BASEHOR METRO
+    distance_km: 11.77
+  - name: BETHEL
+    distance_km: 16.36
+- country: US
+  region: KS
+  name: Larned
+  lat: '38.1833'
+  long: "-99.1012"
+  nearby_rate_centers:
+  - name: LARNED
+    distance_km: 0.78
+  - name: PAWNEEROCK
+    distance_km: 14.05
+  - name: GARFIELD
+    distance_km: 17.34
+- country: US
+  region: KS
+  name: Latham
+  lat: '37.5357'
+  long: "-96.6427"
+  nearby_rate_centers:
+  - name: LATHAM
+    distance_km: 0.44
+  - name: ATLANTA
+    distance_km: 15.82
+  - name: BEAUMONT
+    distance_km: 16.55
+- country: US
+  region: KS
+  name: Latimer
+  lat: '38.7386'
+  long: "-96.8459"
+  nearby_rate_centers:
+  - name: DELAVAN
+    distance_km: 9.5
+  - name: WHITE CITY
+    distance_km: 10.21
+  - name: HERINGTON
+    distance_km: 11.09
+- country: US
+  region: KS
+  name: Lawrence
+  lat: '38.9597'
+  long: "-95.2642"
+  nearby_rate_centers:
+  - name: LAWRENCE
+    distance_km: 2.04
+  - name: CLINTON
+    distance_km: 12.09
+  - name: EUDORA
+    distance_km: 14.24
+- country: US
+  region: KS
+  name: LeRoy
+  lat: '38.0863'
+  long: "-95.6331"
+  nearby_rate_centers:
+  - name: LEROY
+    distance_km: 0.51
+  - name: NEOSHO FLS
+    distance_km: 10.89
+  - name: BURLINGTON
+    distance_km: 15.74
+- country: US
+  region: KS
+  name: Leavenworth
+  lat: '39.3239'
+  long: "-94.9240"
+  nearby_rate_centers:
+  - name: LEAVENWORTH METRO
+    distance_km: 1.84
+  - name: LEAVENWTH
+    distance_km: 1.84
+  - name: EASTON
+    distance_km: 16.5
+  - name: BASEHOR
+    distance_km: 20.22
+  - name: BASEHOR METRO
+    distance_km: 20.22
+- country: US
+  region: KS
+  name: Leawood
+  lat: '38.9075'
+  long: "-94.6258"
+  nearby_rate_centers:
+  - name: STANLEY
+    distance_km: 6.46
+  - name: MELROSE
+    distance_km: 9.79
+  - name: OLATHE
+    distance_km: 17.1
+- country: US
+  region: KS
+  name: Lebanon
+  lat: '39.8101'
+  long: "-98.5572"
+  nearby_rate_centers:
+  - name: LEBANON
+    distance_km: 0.64
+  - name: ESBON
+    distance_km: 10.66
+  - name: SMITH CTR
+    distance_km: 19.07
+- country: US
+  region: KS
+  name: Lebo
+  lat: '38.4156'
+  long: "-95.8622"
+  nearby_rate_centers:
+  - name: LEBO
+    distance_km: 0.59
+  - name: READING
+    distance_km: 14.12
+  - name: HARTFORD
+    distance_km: 14.41
+- country: US
+  region: KS
+  name: Lecompton
+  lat: '39.0358'
+  long: "-95.3929"
+  nearby_rate_centers:
+  - name: LECOMPTON
+    distance_km: 0.82
+  - name: PERRY
+    distance_km: 4.61
+  - name: CLINTON
+    distance_km: 14.04
+- country: US
+  region: KS
+  name: Lehigh
+  lat: '38.3744'
+  long: "-97.3024"
+  nearby_rate_centers:
+  - name: LEHIGH
+    distance_km: 0.13
+  - name: HILLSBORO
+    distance_km: 9.21
+  - name: CANTON
+    distance_km: 10.97
+- country: US
+  region: KS
+  name: Lenexa
+  lat: '38.9609'
+  long: "-94.8018"
+  nearby_rate_centers:
+  - name: OLATHE
+    distance_km: 9.72
+  - name: MELROSE
+    distance_km: 10.73
+  - name: BONNER SPG
+    distance_km: 12.95
+- country: US
+  region: KS
+  name: Lenora
+  lat: '39.6109'
+  long: "-100.0014"
+  nearby_rate_centers:
+  - name: LENORA
+    distance_km: 0.42
+  - name: EDMOND
+    distance_km: 15.98
+  - name: JENNINGS
+    distance_km: 25.84
+- country: US
+  region: KS
+  name: Leon
+  lat: '37.6898'
+  long: "-96.7837"
+  nearby_rate_centers:
+  - name: LEON
+    distance_km: 0.38
+  - name: LEON METRO
+    distance_km: 0.38
+  - name: EL DORADO
+    distance_km: 15.61
+  - name: EL DORADO METRO
+    distance_km: 15.61
+  - name: AUGUSTA
+    distance_km: 16.84
+- country: US
+  region: KS
+  name: Leona
+  lat: '39.7861'
+  long: "-95.3214"
+  nearby_rate_centers:
+  - name: DENTON
+    distance_km: 8.35
+  - name: ROBINSON
+    distance_km: 8.77
+  - name: HIGHLAND
+    distance_km: 9.52
+- country: US
+  region: KS
+  name: Leonardville
+  lat: '39.3642'
+  long: "-96.8596"
+  nearby_rate_centers:
+  - name: LEONARDVL
+    distance_km: 0.57
+  - name: RILEY
+    distance_km: 8.19
+  - name: GREEN
+    distance_km: 13.9
+- country: US
+  region: KS
+  name: Leoti
+  lat: '38.4834'
+  long: "-101.3579"
+  nearby_rate_centers:
+  - name: LEOTI
+    distance_km: 0.15
+  - name: MARIENTHAL
+    distance_km: 13.09
+  - name: TRIBUNE
+    distance_km: 34.02
+- country: US
+  region: KS
+  name: Levant
+  lat: '39.3881'
+  long: "-101.1948"
+  nearby_rate_centers:
+  - name: LEVANT
+    distance_km: 2.55
+  - name: COLBY
+    distance_km: 11.74
+  - name: BREWSTER
+    distance_km: 16.85
+- country: US
+  region: KS
+  name: Lewis
+  lat: '37.9370'
+  long: "-99.2547"
+  nearby_rate_centers:
+  - name: LEWIS
+    distance_km: 0.78
+  - name: BELPRE
+    distance_km: 13.75
+  - name: KINSLEY
+    distance_km: 14.29
+- country: US
+  region: KS
+  name: Liberal
+  lat: '37.0466'
+  long: "-100.9295"
+  nearby_rate_centers:
+  - name: LIBERAL
+    distance_km: 0.73
+  - name: PLAINS
+    distance_km: 38.31
+  - name: MOSCOW
+    distance_km: 39.48
+- country: US
+  region: KS
+  name: Liberty
+  lat: '37.1564'
+  long: "-95.5977"
+  nearby_rate_centers:
+  - name: LIBERTY
+    distance_km: 0.3
+  - name: INDEPNDNCE
+    distance_km: 12.37
+  - name: CHERRYVALE
+    distance_km: 12.75
+- country: US
+  region: KS
+  name: Liebenthal
+  lat: '38.6544'
+  long: "-99.3202"
+  nearby_rate_centers:
+  - name: LA CROSSE
+    distance_km: 13.77
+  - name: BISON
+    distance_km: 18.43
+  - name: RUSHCENTER
+    distance_km: 21.16
+- country: US
+  region: KS
+  name: Lincoln Center
+  lat: '39.0430'
+  long: "-98.1468"
+  nearby_rate_centers:
+  - name: LINCOLN
+    distance_km: 0.79
+  - name: DENMARK
+    distance_km: 12.84
+  - name: BEVERLY
+    distance_km: 14.91
+- country: US
+  region: KS
+  name: Lincolnville
+  lat: '38.4943'
+  long: "-96.9613"
+  nearby_rate_centers:
+  - name: LINCOLNVL
+    distance_km: 0.57
+  - name: LOST SPG
+    distance_km: 8.01
+  - name: RAMONA
+    distance_km: 14.97
+- country: US
+  region: KS
+  name: Lindsborg
+  lat: '38.5774'
+  long: "-97.6738"
+  nearby_rate_centers:
+  - name: LINDSBORG
+    distance_km: 0.32
+  - name: SALEMSBURG
+    distance_km: 12.59
+  - name: ASSARIA
+    distance_km: 13.15
+- country: US
+  region: KS
+  name: Linn
+  lat: '39.6793'
+  long: "-97.0869"
+  nearby_rate_centers:
+  - name: LINN
+    distance_km: 0.32
+  - name: PALMER
+    distance_km: 6.84
+  - name: GREENLEAF
+    distance_km: 10.07
+- country: US
+  region: KS
+  name: Linn Valley
+  lat: '38.3758'
+  long: "-94.7120"
+  nearby_rate_centers:
+  - name: LA CYGNE
+    distance_km: 5.42
+  - name: FONTANA
+    distance_km: 12.53
+  - name: WEST DREXEL METRO
+    distance_km: 14.39
+  - name: WESTDREXEL
+    distance_km: 14.39
+- country: US
+  region: KS
+  name: Linwood
+  lat: '39.0019'
+  long: "-95.0362"
+  nearby_rate_centers:
+  - name: LINWOOD
+    distance_km: 0.45
+  - name: LINWOOD METRO
+    distance_km: 0.45
+  - name: DE SOTO
+    distance_km: 6.11
+  - name: DE SOTO METRO
+    distance_km: 6.11
+  - name: EUDORA
+    distance_km: 8.49
+- country: US
+  region: KS
+  name: Little River
+  lat: '38.3983'
+  long: "-98.0149"
+  nearby_rate_centers:
+  - name: LITTLE RIV
+    distance_km: 0.51
+  - name: WINDOM
+    distance_km: 9.47
+  - name: LYONS
+    distance_km: 17.07
+- country: US
+  region: KS
+  name: Logan
+  lat: '39.6617'
+  long: "-99.5673"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 0.48
+  - name: PRAIRIE VW
+    distance_km: 19.03
+  - name: EDMOND
+    distance_km: 21.68
+- country: US
+  region: KS
+  name: Lone Elm
+  lat: '38.0796'
+  long: "-95.2430"
+  nearby_rate_centers:
+  - name: KINCAID
+    distance_km: 7.29
+  - name: COLONY
+    distance_km: 10.73
+  - name: LA HARPE
+    distance_km: 18.55
+- country: US
+  region: KS
+  name: Long Island
+  lat: '39.9462'
+  long: "-99.5340"
+  nearby_rate_centers:
+  - name: LONGISLAND
+    distance_km: 0.68
+  - name: WOODRUFF
+    distance_km: 11.26
+  - name: PRAIRIE VW
+    distance_km: 12.86
+- country: US
+  region: KS
+  name: Longford
+  lat: '39.1721'
+  long: "-97.3290"
+  nearby_rate_centers:
+  - name: LONGFORD
+    distance_km: 0.29
+  - name: BUCKEYE
+    distance_km: 19.86
+  - name: MILTONVALE
+    distance_km: 22.32
+- country: US
+  region: KS
+  name: Longton
+  lat: '37.3779'
+  long: "-96.0821"
+  nearby_rate_centers:
+  - name: LONGTON
+    distance_km: 0.54
+  - name: ELK FALLS
+    distance_km: 9.73
+  - name: ELK CITY
+    distance_km: 17.95
+- country: US
+  region: KS
+  name: Lorraine
+  lat: '38.5690'
+  long: "-98.3174"
+  nearby_rate_centers:
+  - name: HOLYROOD
+    distance_km: 8.25
+  - name: BUSHTON
+    distance_km: 9.47
+  - name: GENESEO
+    distance_km: 15.22
+- country: US
+  region: KS
+  name: Lost Springs
+  lat: '38.5665'
+  long: "-96.9658"
+  nearby_rate_centers:
+  - name: LOST SPG
+    distance_km: 0.06
+  - name: LINCOLNVL
+    distance_km: 8.35
+  - name: RAMONA
+    distance_km: 9.71
+- country: US
+  region: KS
+  name: Louisburg
+  lat: '38.6202'
+  long: "-94.6770"
+  nearby_rate_centers:
+  - name: LOUISBURG
+    distance_km: 0.78
+  - name: WCLEVELAND
+    distance_km: 8.89
+  - name: WEST CLEVELAND METRO
+    distance_km: 8.89
+  - name: BUCYRUS
+    distance_km: 11.99
+  - name: BUCYRUS METRO
+    distance_km: 11.99
+- country: US
+  region: KS
+  name: Louisville
+  lat: '39.2499'
+  long: "-96.3145"
+  nearby_rate_centers:
+  - name: WAMEGO
+    distance_km: 5.84
+  - name: ST GEORGE
+    distance_km: 10.31
+  - name: WESTMORELD
+    distance_km: 19.04
+- country: US
+  region: KS
+  name: Lowell
+  lat: '37.0509'
+  long: "-94.7032"
+  nearby_rate_centers:
+  - name: RIVERTON
+    distance_km: 1.0
+  - name: BAXTER SPG
+    distance_km: 4.02
+  - name: GALENA
+    distance_km: 7.16
+- country: US
+  region: KS
+  name: Lucas
+  lat: '39.0587'
+  long: "-98.5378"
+  nearby_rate_centers:
+  - name: LUCAS
+    distance_km: 0.85
+  - name: SYLVAN GRV
+    distance_km: 13.22
+  - name: LURAY
+    distance_km: 14.88
+- country: US
+  region: KS
+  name: Ludell
+  lat: '39.8566'
+  long: "-100.9583"
+  nearby_rate_centers:
+  - name: ATWOOD
+    distance_km: 9.74
+  - name: HERNDON
+    distance_km: 15.7
+  - name: MCDONALD
+    distance_km: 36.23
+- country: US
+  region: KS
+  name: Luray
+  lat: '39.1151'
+  long: "-98.6922"
+  nearby_rate_centers:
+  - name: LURAY
+    distance_km: 0.33
+  - name: WALDO
+    distance_km: 9.37
+  - name: LUCAS
+    distance_km: 14.65
+- country: US
+  region: KS
+  name: Lyndon
+  lat: '38.6120'
+  long: "-95.6844"
+  nearby_rate_centers:
+  - name: LYNDON
+    distance_km: 0.24
+  - name: MELVERN
+    distance_km: 12.23
+  - name: OSAGE CITY
+    distance_km: 12.31
+- country: US
+  region: KS
+  name: Lyons
+  lat: '38.3462'
+  long: "-98.2045"
+  nearby_rate_centers:
+  - name: LYONS
+    distance_km: 0.48
+  - name: CHASE
+    distance_km: 11.92
+  - name: ALDEN
+    distance_km: 14.61
+- country: US
+  region: KS
+  name: Macksville
+  lat: '37.9572'
+  long: "-98.9689"
+  nearby_rate_centers:
+  - name: MACKSVILLE
+    distance_km: 0.08
+  - name: BELPRE
+    distance_km: 11.41
+  - name: ST JOHN
+    distance_km: 19.08
+- country: US
+  region: KS
+  name: Madison
+  lat: '38.1336'
+  long: "-96.1372"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 0.65
+  - name: OLPE
+    distance_km: 14.04
+  - name: HAMILTON
+    distance_km: 17.05
+- country: US
+  region: KS
+  name: Mahaska
+  lat: '39.9873'
+  long: "-97.3537"
+  nearby_rate_centers:
+  - name: MAHASKA
+    distance_km: 0.75
+  - name: NARKA
+    distance_km: 6.98
+  - name: HADDAM
+    distance_km: 14.95
+- country: US
+  region: KS
+  name: Maize
+  lat: '37.7749'
+  long: "-97.4620"
+  nearby_rate_centers:
+  - name: COLWIHBTLY
+    distance_km: 7.22
+  - name: WICHITPKVW
+    distance_km: 7.73
+  - name: VALLEY CTR
+    distance_km: 10.01
+- country: US
+  region: KS
+  name: Manchester
+  lat: '39.0933'
+  long: "-97.3201"
+  nearby_rate_centers:
+  - name: LONGFORD
+    distance_km: 8.52
+  - name: BUCKEYE
+    distance_km: 13.97
+  - name: SOLOMON
+    distance_km: 19.98
+- country: US
+  region: KS
+  name: Manhattan
+  lat: '39.1886'
+  long: "-96.6048"
+  nearby_rate_centers:
+  - name: MANHATTAN
+    distance_km: 2.94
+  - name: ST GEORGE
+    distance_km: 16.37
+  - name: RILEY
+    distance_km: 22.0
+- country: US
+  region: KS
+  name: Mankato
+  lat: '39.7871'
+  long: "-98.2083"
+  nearby_rate_centers:
+  - name: MANKATO
+    distance_km: 0.57
+  - name: BURR OAK
+    distance_km: 12.44
+  - name: JEWELL
+    distance_km: 13.06
+- country: US
+  region: KS
+  name: Manter
+  lat: '37.5245'
+  long: "-101.8834"
+  nearby_rate_centers:
+  - name: MANTER
+    distance_km: 0.09
+  - name: JOHNSON
+    distance_km: 12.23
+  - name: BIG BOW
+    distance_km: 28.88
+- country: US
+  region: KS
+  name: Maple Hill
+  lat: '39.0855'
+  long: "-96.0278"
+  nearby_rate_centers:
+  - name: ROSSVILLE
+    distance_km: 9.06
+  - name: PAXICO
+    distance_km: 12.26
+  - name: ST MARYS
+    distance_km: 12.84
+- country: US
+  region: KS
+  name: Mapleton
+  lat: '38.0155'
+  long: "-94.8834"
+  nearby_rate_centers:
+  - name: MAPLETON
+    distance_km: 0.27
+  - name: DEVON
+    distance_km: 12.32
+  - name: BLUE MOUND
+    distance_km: 13.95
+- country: US
+  region: KS
+  name: Marienthal
+  lat: '38.4891'
+  long: "-101.2200"
+  nearby_rate_centers:
+  - name: MARIENTHAL
+    distance_km: 1.18
+  - name: LEOTI
+    distance_km: 11.99
+  - name: SCOTT CITY
+    distance_km: 27.02
+- country: US
+  region: KS
+  name: Marion
+  lat: '38.3547'
+  long: "-97.0082"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 1.04
+  - name: FLORENCE
+    distance_km: 14.46
+  - name: LINCOLNVL
+    distance_km: 15.63
+- country: US
+  region: KS
+  name: Marquette
+  lat: '38.5555'
+  long: "-97.8344"
+  nearby_rate_centers:
+  - name: MARQUETTE
+    distance_km: 0.77
+  - name: LINDSBORG
+    distance_km: 14.07
+  - name: SALEMSBURG
+    distance_km: 19.36
+- country: US
+  region: KS
+  name: Marysville
+  lat: '39.8432'
+  long: "-96.6387"
+  nearby_rate_centers:
+  - name: MARYSVILLE
+    distance_km: 1.0
+  - name: HOME
+    distance_km: 9.57
+  - name: OKETO
+    distance_km: 13.89
+- country: US
+  region: KS
+  name: Matfield Green
+  lat: '38.1596'
+  long: "-96.5623"
+  nearby_rate_centers:
+  - name: MATFLDGREN
+    distance_km: 0.34
+  - name: CASSODAY
+    distance_km: 14.8
+  - name: COTONWDFLS
+    distance_km: 22.86
+- country: US
+  region: KS
+  name: Mayetta
+  lat: '39.3386'
+  long: "-95.7216"
+  nearby_rate_centers:
+  - name: MAYETTA
+    distance_km: 0.77
+  - name: DENISON
+    distance_km: 9.66
+  - name: HOYT
+    distance_km: 9.71
+- country: US
+  region: KS
+  name: Mayfield
+  lat: '37.2632'
+  long: "-97.5404"
+  nearby_rate_centers:
+  - name: MAYFIELD
+    distance_km: 0.97
+  - name: WELLINGTON
+    distance_km: 12.79
+  - name: CORBIN
+    distance_km: 15.23
+- country: US
+  region: KS
+  name: McConnell AFB
+  lat: '37.6250'
+  long: "-97.2600"
+  nearby_rate_centers:
+  - name: WICHITJKSN
+    distance_km: 7.13
+  - name: DERBY
+    distance_km: 8.44
+  - name: WICHITA
+    distance_km: 9.74
+- country: US
+  region: KS
+  name: McCracken
+  lat: '38.5821'
+  long: "-99.5684"
+  nearby_rate_centers:
+  - name: MCCRACKEN
+    distance_km: 0.46
+  - name: ALEXANDER
+    distance_km: 12.97
+  - name: BROWNELL
+    distance_km: 17.02
+- country: US
+  region: KS
+  name: McCune
+  lat: '37.3538'
+  long: "-95.0191"
+  nearby_rate_centers:
+  - name: MCCUNE
+    distance_km: 0.47
+  - name: W MINERAL
+    distance_km: 10.76
+  - name: CHEROKEE
+    distance_km: 17.07
+- country: US
+  region: KS
+  name: McDonald
+  lat: '39.7848'
+  long: "-101.3702"
+  nearby_rate_centers:
+  - name: MCDONALD
+    distance_km: 0.16
+  - name: BIRD CITY
+    distance_km: 13.94
+  - name: SOBENKELMN
+    distance_km: 26.95
+- country: US
+  region: KS
+  name: McFarland
+  lat: '39.0545'
+  long: "-96.2381"
+  nearby_rate_centers:
+  - name: PAXICO
+    distance_km: 6.22
+  - name: ALMA
+    distance_km: 6.31
+  - name: WAMEGO
+    distance_km: 16.9
+- country: US
+  region: KS
+  name: McLouth
+  lat: '39.1961'
+  long: "-95.2083"
+  nearby_rate_centers:
+  - name: MCLOUTH
+    distance_km: 0.71
+  - name: OSKALOOSA
+    distance_km: 10.28
+  - name: TONGANOXIE
+    distance_km: 14.62
+  - name: TONGANOXIE METRO
+    distance_km: 14.62
+- country: US
+  region: KS
+  name: McPherson
+  lat: '38.3714'
+  long: "-97.6605"
+  nearby_rate_centers:
+  - name: MCPHERSON
+    distance_km: 0.58
+  - name: GALVA
+    distance_km: 10.31
+  - name: CONWAY
+    distance_km: 10.89
+- country: US
+  region: KS
+  name: Meade
+  lat: '37.2836'
+  long: "-100.3430"
+  nearby_rate_centers:
+  - name: MEADE
+    distance_km: 0.76
+  - name: FOWLER
+    distance_km: 16.91
+  - name: PLAINS
+    distance_km: 22.02
+- country: US
+  region: KS
+  name: Medicine Lodge
+  lat: '37.2851'
+  long: "-98.5812"
+  nearby_rate_centers:
+  - name: MEDICNLODG
+    distance_km: 0.72
+  - name: SHARON
+    distance_km: 15.06
+  - name: ISABEL
+    distance_km: 20.53
+- country: US
+  region: KS
+  name: Melvern
+  lat: '38.5073'
+  long: "-95.6377"
+  nearby_rate_centers:
+  - name: MELVERN
+    distance_km: 0.3
+  - name: LYNDON
+    distance_km: 12.1
+  - name: QUENEMO
+    distance_km: 12.68
+- country: US
+  region: KS
+  name: Menlo
+  lat: '39.3561'
+  long: "-100.7242"
+  nearby_rate_centers:
+  - name: MENLO
+    distance_km: 0.92
+  - name: REXFORD
+    distance_km: 12.23
+  - name: SELDEN
+    distance_km: 24.21
+- country: US
+  region: KS
+  name: Mentor
+  lat: '38.7407'
+  long: "-97.5979"
+  nearby_rate_centers:
+  - name: ASSARIA
+    distance_km: 6.59
+  - name: SALEMSBURG
+    distance_km: 9.98
+  - name: SALINA
+    distance_km: 11.42
+- country: US
+  region: KS
+  name: Meriden
+  lat: '39.1897'
+  long: "-95.5680"
+  nearby_rate_centers:
+  - name: MERIDEN
+    distance_km: 0.59
+  - name: OZAWKIE
+    distance_km: 10.09
+  - name: HOYT
+    distance_km: 14.01
+- country: US
+  region: KS
+  name: Merriam
+  lat: '39.0186'
+  long: "-94.6933"
+  nearby_rate_centers:
+  - name: MELROSE
+    distance_km: 3.96
+  - name: KANSASCITY
+    distance_km: 11.82
+  - name: BETHEL
+    distance_km: 15.33
+- country: US
+  region: KS
+  name: Milan
+  lat: '37.2571'
+  long: "-97.6741"
+  nearby_rate_centers:
+  - name: ARGONIA
+    distance_km: 8.33
+  - name: MAYFIELD
+    distance_km: 10.95
+  - name: CONWAY SPG
+    distance_km: 15.02
+- country: US
+  region: KS
+  name: Mildred
+  lat: '38.0235'
+  long: "-95.1717"
+  nearby_rate_centers:
+  - name: KINCAID
+    distance_km: 6.71
+  - name: MORAN
+    distance_km: 11.89
+  - name: LA HARPE
+    distance_km: 16.1
+- country: US
+  region: KS
+  name: Milford
+  lat: '39.1729'
+  long: "-96.9105"
+  nearby_rate_centers:
+  - name: MILFORD
+    distance_km: 0.57
+  - name: WAKEFIELD
+    distance_km: 10.55
+  - name: RILEY
+    distance_km: 16.07
+- country: US
+  region: KS
+  name: Milton
+  lat: '37.4432'
+  long: "-97.7694"
+  nearby_rate_centers:
+  - name: NORWICH
+    distance_km: 7.48
+  - name: CONWAY SPG
+    distance_km: 12.53
+  - name: ARGONIA
+    distance_km: 19.83
+- country: US
+  region: KS
+  name: Miltonvale
+  lat: '39.3496'
+  long: "-97.4523"
+  nearby_rate_centers:
+  - name: MILTONVALE
+    distance_km: 0.44
+  - name: AURORA
+    distance_km: 13.11
+  - name: LONGFORD
+    distance_km: 22.63
+- country: US
+  region: KS
+  name: Minneapolis
+  lat: '39.1243'
+  long: "-97.6997"
+  nearby_rate_centers:
+  - name: MINNEAPOLS
+    distance_km: 0.19
+  - name: BENNINGTON
+    distance_km: 13.1
+  - name: DELPHOS
+    distance_km: 17.66
+- country: US
+  region: KS
+  name: Minneola
+  lat: '37.4421'
+  long: "-100.0131"
+  nearby_rate_centers:
+  - name: MINNEOLA
+    distance_km: 0.61
+  - name: FOWLER
+    distance_km: 17.62
+  - name: ENSIGN
+    distance_km: 29.78
+- country: US
+  region: KS
+  name: Mission
+  lat: '39.0270'
+  long: "-94.6568"
+  nearby_rate_centers:
+  - name: MELROSE
+    distance_km: 5.21
+  - name: KANSASCITY
+    distance_km: 9.94
+  - name: BETHEL
+    distance_km: 15.81
+- country: US
+  region: KS
+  name: Mission Hills
+  lat: '39.0141'
+  long: "-94.6172"
+  nearby_rate_centers:
+  - name: MELROSE
+    distance_km: 6.46
+  - name: KANSASCITY
+    distance_km: 11.29
+  - name: STANLEY
+    distance_km: 18.17
+- country: US
+  region: KS
+  name: Mission Woods
+  lat: '39.0341'
+  long: "-94.6107"
+  nearby_rate_centers:
+  - name: MELROSE
+    distance_km: 8.25
+  - name: KANSASCITY
+    distance_km: 9.2
+  - name: BETHEL
+    distance_km: 17.6
+- country: US
+  region: KS
+  name: Moline
+  lat: '37.3637'
+  long: "-96.3025"
+  nearby_rate_centers:
+  - name: MOLINE
+    distance_km: 0.22
+  - name: ELK FALLS
+    distance_km: 9.83
+  - name: HOWARD
+    distance_km: 12.15
+- country: US
+  region: KS
+  name: Mont Ida
+  lat: '38.2170'
+  long: "-95.3658"
+  nearby_rate_centers:
+  - name: WESTPHALIA
+    distance_km: 11.53
+  - name: GARNETT
+    distance_km: 12.97
+  - name: COLONY
+    distance_km: 16.71
+- country: US
+  region: KS
+  name: Montezuma
+  lat: '37.5925'
+  long: "-100.4500"
+  nearby_rate_centers:
+  - name: MONTEZUMA
+    distance_km: 1.17
+  - name: COPELAND
+    distance_km: 17.18
+  - name: ENSIGN
+    distance_km: 20.98
+- country: US
+  region: KS
+  name: Monument
+  lat: '39.1049'
+  long: "-101.0079"
+  nearby_rate_centers:
+  - name: OAKLEY
+    distance_km: 13.16
+  - name: WINONA
+    distance_km: 21.21
+  - name: RUSSELLSPG
+    distance_km: 25.05
+- country: US
+  region: KS
+  name: Moran
+  lat: '37.9166'
+  long: "-95.1716"
+  nearby_rate_centers:
+  - name: MORAN
+    distance_km: 0.16
+  - name: BRONSON
+    distance_km: 8.64
+  - name: LA HARPE
+    distance_km: 11.13
+- country: US
+  region: KS
+  name: Morganville
+  lat: '39.4666'
+  long: "-97.2038"
+  nearby_rate_centers:
+  - name: MORGANVL
+    distance_km: 0.5
+  - name: CLAYCENTER
+    distance_km: 12.4
+  - name: CLIFTON
+    distance_km: 13.35
+- country: US
+  region: KS
+  name: Morland
+  lat: '39.3489'
+  long: "-100.0743"
+  nearby_rate_centers:
+  - name: MORLAND
+    distance_km: 0.74
+  - name: HILL CITY
+    distance_km: 19.54
+  - name: LENORA
+    distance_km: 29.41
+- country: US
+  region: KS
+  name: Morrill
+  lat: '39.9291'
+  long: "-95.6944"
+  nearby_rate_centers:
+  - name: MORRILL
+    distance_km: 0.63
+  - name: SABETHA
+    distance_km: 9.52
+  - name: FAIRVIEW
+    distance_km: 10.3
+- country: US
+  region: KS
+  name: Morrowville
+  lat: '39.8452'
+  long: "-97.1724"
+  nearby_rate_centers:
+  - name: MORROWVL
+    distance_km: 0.69
+  - name: WASHINGTON
+    distance_km: 11.1
+  - name: HADDAM
+    distance_km: 11.17
+- country: US
+  region: KS
+  name: Moscow
+  lat: '37.3249'
+  long: "-101.2069"
+  nearby_rate_centers:
+  - name: MOSCOW
+    distance_km: 0.3
+  - name: HUGOTON
+    distance_km: 20.42
+  - name: SATANTA
+    distance_km: 22.62
+- country: US
+  region: KS
+  name: Mound City
+  lat: '38.1325'
+  long: "-94.8506"
+  nearby_rate_centers:
+  - name: MOUND CITY
+    distance_km: 3.92
+  - name: PLEASANTON
+    distance_km: 13.24
+  - name: MAPLETON
+    distance_km: 13.41
+- country: US
+  region: KS
+  name: Mound Valley
+  lat: '37.2071'
+  long: "-95.4046"
+  nearby_rate_centers:
+  - name: MOUND VLY
+    distance_km: 0.23
+  - name: ALTAMONT
+    distance_km: 10.34
+  - name: CHERRYVALE
+    distance_km: 14.42
+- country: US
+  region: KS
+  name: Moundridge
+  lat: '38.2021'
+  long: "-97.5150"
+  nearby_rate_centers:
+  - name: MOUNDRIDGE
+    distance_km: 0.11
+  - name: HESSTON
+    distance_km: 9.89
+  - name: GOESSEL
+    distance_km: 13.98
+- country: US
+  region: KS
+  name: Mount Hope
+  lat: '37.8735'
+  long: "-97.6619"
+  nearby_rate_centers:
+  - name: MOUNT HOPE
+    distance_km: 0.37
+  - name: MOUNT HOPE METRO
+    distance_km: 0.37
+  - name: ANDALE
+    distance_km: 9.63
+  - name: ANDALE METRO
+    distance_km: 9.63
+  - name: HAVEN
+    distance_km: 11.59
+- country: US
+  region: KS
+  name: Mulberry
+  lat: '37.5561'
+  long: "-94.6235"
+  nearby_rate_centers:
+  - name: MULBERRY
+    distance_km: 0.06
+  - name: ARMA
+    distance_km: 7.1
+  - name: ARCADIA
+    distance_km: 9.72
+- country: US
+  region: KS
+  name: Mullinville
+  lat: '37.5885'
+  long: "-99.4754"
+  nearby_rate_centers:
+  - name: MULLINVL
+    distance_km: 0.53
+  - name: BUCKLIN
+    distance_km: 14.51
+  - name: GREENSBURG
+    distance_km: 16.58
+- country: US
+  region: KS
+  name: Mulvane
+  lat: '37.4789'
+  long: "-97.2724"
+  nearby_rate_centers:
+  - name: MULVANE
+    distance_km: 2.72
+  - name: DERBY
+    distance_km: 7.84
+  - name: BELLEPLAIN
+    distance_km: 9.92
+- country: US
+  region: KS
+  name: Munden
+  lat: '39.9126'
+  long: "-97.5385"
+  nearby_rate_centers:
+  - name: MUNDEN
+    distance_km: 0.42
+  - name: NARKA
+    distance_km: 10.83
+  - name: SO CHESTER
+    distance_km: 11.14
+- country: US
+  region: KS
+  name: Munjor
+  lat: '38.8089'
+  long: "-99.2674"
+  nearby_rate_centers:
+  - name: HAYS
+    distance_km: 8.91
+  - name: VICTORIA
+    distance_km: 11.04
+  - name: GORHAM
+    distance_km: 22.61
+- country: US
+  region: KS
+  name: Murdock
+  lat: '37.6111'
+  long: "-97.9316"
+  nearby_rate_centers:
+  - name: MURDOCK
+    distance_km: 0.15
+  - name: CHENEY
+    distance_km: 13.16
+  - name: CHENEY METRO
+    distance_km: 13.16
+  - name: KINGMAN
+    distance_km: 17.02
+- country: US
+  region: KS
+  name: Muscotah
+  lat: '39.5535'
+  long: "-95.5204"
+  nearby_rate_centers:
+  - name: MUSCOTAH
+    distance_km: 0.53
+  - name: WHITING
+    distance_km: 8.73
+  - name: EFFINGHAM
+    distance_km: 11.19
+- country: US
+  region: KS
+  name: Narka
+  lat: '39.9598'
+  long: "-97.4268"
+  nearby_rate_centers:
+  - name: NARKA
+    distance_km: 0.38
+  - name: MAHASKA
+    distance_km: 7.22
+  - name: MUNDEN
+    distance_km: 10.51
+- country: US
+  region: KS
+  name: Nashville
+  lat: '37.4384'
+  long: "-98.4227"
+  nearby_rate_centers:
+  - name: NASHVILLE
+    distance_km: 0.7
+  - name: ISABEL
+    distance_km: 11.43
+  - name: ZENDA
+    distance_km: 12.41
+- country: US
+  region: KS
+  name: Natoma
+  lat: '39.1885'
+  long: "-99.0241"
+  nearby_rate_centers:
+  - name: NATOMA
+    distance_km: 0.34
+  - name: PARADISE
+    distance_km: 11.53
+  - name: WALDO
+    distance_km: 20.88
+- country: US
+  region: KS
+  name: Navarre
+  lat: '38.7989'
+  long: "-97.1069"
+  nearby_rate_centers:
+  - name: NAVARRE
+    distance_km: 0.87
+  - name: HOPE
+    distance_km: 12.44
+  - name: WOODBINE
+    distance_km: 12.96
+- country: US
+  region: KS
+  name: Neal
+  lat: '37.8337'
+  long: "-96.0809"
+  nearby_rate_centers:
+  - name: QUINCY
+    distance_km: 9.73
+  - name: TORONTO
+    distance_km: 11.9
+  - name: HAMILTON
+    distance_km: 18.06
+- country: US
+  region: KS
+  name: Neodesha
+  lat: '37.4241'
+  long: "-95.6848"
+  nearby_rate_centers:
+  - name: NEODESHA
+    distance_km: 0.17
+  - name: ALTOONA
+    distance_km: 11.28
+  - name: LAFONTAINE
+    distance_km: 14.24
+- country: US
+  region: KS
+  name: Neosho Falls
+  lat: '38.0058'
+  long: "-95.5556"
+  nearby_rate_centers:
+  - name: NEOSHO FLS
+    distance_km: 0.44
+  - name: PIQUA
+    distance_km: 8.94
+  - name: LEROY
+    distance_km: 10.9
+- country: US
+  region: KS
+  name: Neosho Rapids
+  lat: '38.3685'
+  long: "-95.9916"
+  nearby_rate_centers:
+  - name: HARTFORD
+    distance_km: 7.29
+  - name: LEBO
+    distance_km: 13.0
+  - name: READING
+    distance_km: 16.65
+- country: US
+  region: KS
+  name: Ness City
+  lat: '38.4540'
+  long: "-99.9047"
+  nearby_rate_centers:
+  - name: NESS CITY
+    distance_km: 0.58
+  - name: BAZINE
+    distance_km: 18.58
+  - name: RANSOM
+    distance_km: 20.21
+- country: US
+  region: KS
+  name: Netawaka
+  lat: '39.6030'
+  long: "-95.7189"
+  nearby_rate_centers:
+  - name: NETAWAKA
+    distance_km: 0.49
+  - name: WETMORE
+    distance_km: 8.21
+  - name: WHITING
+    distance_km: 9.43
+- country: US
+  region: KS
+  name: New Albany
+  lat: '37.5678'
+  long: "-95.9363"
+  nearby_rate_centers:
+  - name: FALL RIVER
+    distance_km: 9.22
+  - name: FREDONIA
+    distance_km: 10.75
+  - name: COYVILLE
+    distance_km: 13.25
+- country: US
+  region: KS
+  name: New Cambria
+  lat: '38.8790'
+  long: "-97.5066"
+  nearby_rate_centers:
+  - name: SALINA
+    distance_km: 9.74
+  - name: SOLOMON
+    distance_km: 12.66
+  - name: BENNINGTON
+    distance_km: 19.15
+- country: US
+  region: KS
+  name: New Salem
+  lat: '37.3143'
+  long: "-96.8897"
+  nearby_rate_centers:
+  - name: WINFIELD
+    distance_km: 12.22
+  - name: BURDEN
+    distance_km: 12.35
+  - name: ATLANTA
+    distance_km: 17.09
+- country: US
+  region: KS
+  name: New Strawn
+  lat: '38.2622'
+  long: "-95.7423"
+  nearby_rate_centers:
+  - name: BURLINGTON
+    distance_km: 7.1
+  - name: WAVERLY
+    distance_km: 18.97
+  - name: HARTFORD
+    distance_km: 19.39
+- country: US
+  region: KS
+  name: Newbury
+  lat: '39.0846'
+  long: "-96.1740"
+  nearby_rate_centers:
+  - name: PAXICO
+    distance_km: 2.26
+  - name: ALMA
+    distance_km: 12.68
+  - name: ST MARYS
+    distance_km: 15.65
+- country: US
+  region: KS
+  name: Newton
+  lat: '38.0368'
+  long: "-97.3449"
+  nearby_rate_centers:
+  - name: NEWTON
+    distance_km: 1.66
+  - name: NEWTON METRO
+    distance_km: 1.66
+  - name: WALTON
+    distance_km: 12.19
+  - name: HESSTON
+    distance_km: 13.89
+- country: US
+  region: KS
+  name: Nickerson
+  lat: '38.1488'
+  long: "-98.0883"
+  nearby_rate_centers:
+  - name: NICKERSON
+    distance_km: 0.27
+  - name: STERLING
+    distance_km: 11.89
+  - name: HUTCHINSON
+    distance_km: 17.59
+- country: US
+  region: KS
+  name: Nicodemus
+  lat: '39.3862'
+  long: "-99.6135"
+  nearby_rate_centers:
+  - name: DAMAR
+    distance_km: 8.35
+  - name: PALCO
+    distance_km: 15.45
+  - name: HILL CITY
+    distance_km: 20.29
+- country: US
+  region: KS
+  name: Niles
+  lat: '38.9688'
+  long: "-97.4574"
+  nearby_rate_centers:
+  - name: SOLOMON
+    distance_km: 9.53
+  - name: BENNINGTON
+    distance_km: 14.43
+  - name: SALINA
+    distance_km: 19.18
+- country: US
+  region: KS
+  name: Niotaze
+  lat: '37.0678'
+  long: "-96.0147"
+  nearby_rate_centers:
+  - name: HAVANA
+    distance_km: 7.43
+  - name: CANEY
+    distance_km: 9.05
+  - name: SEDAN
+    distance_km: 16.27
+- country: US
+  region: KS
+  name: Norcatur
+  lat: '39.8347'
+  long: "-100.1888"
+  nearby_rate_centers:
+  - name: NORCATUR
+    distance_km: 0.36
+  - name: SOWILSONVL
+    distance_km: 18.81
+  - name: JENNINGS
+    distance_km: 19.88
+- country: US
+  region: KS
+  name: North Newton
+  lat: '38.0766'
+  long: "-97.3475"
+  nearby_rate_centers:
+  - name: NEWTON
+    distance_km: 2.88
+  - name: NEWTON METRO
+    distance_km: 2.88
+  - name: WALTON
+    distance_km: 9.62
+  - name: HESSTON
+    distance_km: 10.34
+- country: US
+  region: KS
+  name: Norton
+  lat: '39.8362'
+  long: "-99.8916"
+  nearby_rate_centers:
+  - name: NORTON
+    distance_km: 0.39
+  - name: ALMENA
+    distance_km: 16.35
+  - name: EDMOND
+    distance_km: 24.52
+- country: US
+  region: KS
+  name: Nortonville
+  lat: '39.4159'
+  long: "-95.3304"
+  nearby_rate_centers:
+  - name: NORTONVL
+    distance_km: 0.27
+  - name: WINCHESTER
+    distance_km: 11.47
+  - name: EFFINGHAM
+    distance_km: 12.65
+- country: US
+  region: KS
+  name: Norway
+  lat: '39.6965'
+  long: "-97.7738"
+  nearby_rate_centers:
+  - name: SCANDIA
+    distance_km: 11.67
+  - name: JAMESTOWN
+    distance_km: 12.78
+  - name: COURTLAND
+    distance_km: 14.34
+- country: US
+  region: KS
+  name: Norwich
+  lat: '37.4572'
+  long: "-97.8480"
+  nearby_rate_centers:
+  - name: NORWICH
+    distance_km: 0.46
+  - name: MURDOCK
+    distance_km: 18.6
+  - name: CONWAY SPG
+    distance_km: 19.47
+- country: US
+  region: KS
+  name: Oak Hill
+  lat: '39.2466'
+  long: "-97.3428"
+  nearby_rate_centers:
+  - name: LONGFORD
+    distance_km: 8.64
+  - name: MILTONVALE
+    distance_km: 14.66
+  - name: CLAYCENTER
+    distance_km: 23.66
+- country: US
+  region: KS
+  name: Oaklawn-Sunview
+  lat: '37.6084'
+  long: "-97.2984"
+  nearby_rate_centers:
+  - name: WICHITJKSN
+    distance_km: 3.33
+  - name: DERBY
+    distance_km: 7.11
+  - name: WICHITA
+    distance_km: 9.62
+- country: US
+  region: KS
+  name: Oakley
+  lat: '39.1233'
+  long: "-100.8449"
+  nearby_rate_centers:
+  - name: OAKLEY
+    distance_km: 1.84
+  - name: GRINNELL
+    distance_km: 18.31
+  - name: MENLO
+    distance_km: 27.01
+- country: US
+  region: KS
+  name: Oberlin
+  lat: '39.8230'
+  long: "-100.5308"
+  nearby_rate_centers:
+  - name: OBERLIN
+    distance_km: 0.92
+  - name: SO DANBURY
+    distance_km: 21.68
+  - name: HERNDON
+    distance_km: 23.11
+- country: US
+  region: KS
+  name: Odin
+  lat: '38.5654'
+  long: "-98.6087"
+  nearby_rate_centers:
+  - name: CLAFLIN
+    distance_km: 7.87
+  - name: HOISINGTON
+    distance_km: 15.4
+  - name: HOLYROOD
+    distance_km: 17.68
+- country: US
+  region: KS
+  name: Offerle
+  lat: '37.8907'
+  long: "-99.5603"
+  nearby_rate_centers:
+  - name: KINSLEY
+    distance_km: 13.04
+  - name: SPEARVILLE
+    distance_km: 17.27
+  - name: LEWIS
+    distance_km: 27.79
+- country: US
+  region: KS
+  name: Ogallah
+  lat: '38.9946'
+  long: "-99.7326"
+  nearby_rate_centers:
+  - name: WAKEENEY
+    distance_km: 13.38
+  - name: ELLIS
+    distance_km: 16.77
+  - name: PALCO
+    distance_km: 31.91
+- country: US
+  region: KS
+  name: Ogden
+  lat: '39.1128'
+  long: "-96.7028"
+  nearby_rate_centers:
+  - name: MANHATTAN
+    distance_km: 13.09
+  - name: JUNCTIONCY
+    distance_km: 14.54
+  - name: MILFORD
+    distance_km: 18.93
+- country: US
+  region: KS
+  name: Oketo
+  lat: '39.9632'
+  long: "-96.5989"
+  nearby_rate_centers:
+  - name: OKETO
+    distance_km: 0.4
+  - name: SOBARNESTN
+    distance_km: 3.72
+  - name: SO LIBERTY
+    distance_km: 10.26
+- country: US
+  region: KS
+  name: Olathe
+  lat: '38.8833'
+  long: "-94.8200"
+  nearby_rate_centers:
+  - name: OLATHE
+    distance_km: 0.99
+  - name: GARDNER
+    distance_km: 12.23
+  - name: GARDNER METRO
+    distance_km: 12.23
+  - name: SPRING HILL METRO
+    distance_km: 14.84
+  - name: SPRINGHILL
+    distance_km: 14.84
+- country: US
+  region: KS
+  name: Olivet
+  lat: '38.4813'
+  long: "-95.7519"
+  nearby_rate_centers:
+  - name: MELVERN
+    distance_km: 10.63
+  - name: LEBO
+    distance_km: 11.55
+  - name: LYNDON
+    distance_km: 15.55
+- country: US
+  region: KS
+  name: Olmitz
+  lat: '38.5164'
+  long: "-98.9367"
+  nearby_rate_centers:
+  - name: OLMITZ
+    distance_km: 0.32
+  - name: ALBERT
+    distance_km: 8.94
+  - name: OTIS
+    distance_km: 10.07
+- country: US
+  region: KS
+  name: Olpe
+  lat: '38.2569'
+  long: "-96.1726"
+  nearby_rate_centers:
+  - name: OLPE
+    distance_km: 0.56
+  - name: MADISON
+    distance_km: 13.42
+  - name: EMPORIA
+    distance_km: 15.72
+- country: US
+  region: KS
+  name: Olsburg
+  lat: '39.4320'
+  long: "-96.6158"
+  nearby_rate_centers:
+  - name: OLSBURG
+    distance_km: 0.39
+  - name: WESTMORELD
+    distance_km: 17.31
+  - name: LEONARDVL
+    distance_km: 22.51
+- country: US
+  region: KS
+  name: Onaga
+  lat: '39.4892'
+  long: "-96.1703"
+  nearby_rate_centers:
+  - name: ONAGA
+    distance_km: 0.41
+  - name: HAVENSVL
+    distance_km: 7.48
+  - name: WHEATON
+    distance_km: 13.48
+- country: US
+  region: KS
+  name: Oneida
+  lat: '39.8668'
+  long: "-95.9398"
+  nearby_rate_centers:
+  - name: SENECA
+    distance_km: 10.31
+  - name: SABETHA
+    distance_km: 12.55
+  - name: SO DU BOIS
+    distance_km: 16.8
+- country: US
+  region: KS
+  name: Opolis
+  lat: '37.3449'
+  long: "-94.6245"
+  nearby_rate_centers:
+  - name: PITTSBURG
+    distance_km: 9.46
+  - name: LAWTON
+    distance_km: 13.18
+  - name: WEIR CITY
+    distance_km: 14.54
+- country: US
+  region: KS
+  name: Osage City
+  lat: '38.6337'
+  long: "-95.8218"
+  nearby_rate_centers:
+  - name: OSAGE CITY
+    distance_km: 0.28
+  - name: LYNDON
+    distance_km: 12.36
+  - name: BURLINGAME
+    distance_km: 12.91
+- country: US
+  region: KS
+  name: Osawatomie
+  lat: '38.5063'
+  long: "-94.9486"
+  nearby_rate_centers:
+  - name: OSAWATOMIE
+    distance_km: 0.75
+  - name: OSAWATOMIE METRO
+    distance_km: 0.75
+  - name: PAOLA
+    distance_km: 8.95
+  - name: PAOLA METRO
+    distance_km: 8.95
+  - name: FONTANA
+    distance_km: 13.05
+- country: US
+  region: KS
+  name: Osborne
+  lat: '39.4404'
+  long: "-98.6994"
+  nearby_rate_centers:
+  - name: OSBORNE
+    distance_km: 1.06
+  - name: DOWNS
+    distance_km: 15.71
+  - name: ALTON
+    distance_km: 21.95
+- country: US
+  region: KS
+  name: Oskaloosa
+  lat: '39.2158'
+  long: "-95.3145"
+  nearby_rate_centers:
+  - name: OSKALOOSA
+    distance_km: 0.9
+  - name: MCLOUTH
+    distance_km: 9.12
+  - name: OZAWKIE
+    distance_km: 12.99
+- country: US
+  region: KS
+  name: Oswego
+  lat: '37.1674'
+  long: "-95.1123"
+  nearby_rate_centers:
+  - name: OSWEGO
+    distance_km: 0.27
+  - name: HALLOWELL
+    distance_km: 10.22
+  - name: BARTLETT
+    distance_km: 14.92
+- country: US
+  region: KS
+  name: Otis
+  lat: '38.5347'
+  long: "-99.0533"
+  nearby_rate_centers:
+  - name: OTIS
+    distance_km: 0.4
+  - name: ALBERT
+    distance_km: 9.11
+  - name: OLMITZ
+    distance_km: 10.66
+- country: US
+  region: KS
+  name: Ottawa
+  lat: '38.5996'
+  long: "-95.2636"
+  nearby_rate_centers:
+  - name: OTTAWA
+    distance_km: 1.95
+  - name: PRINCETON
+    distance_km: 12.89
+  - name: CENTROPOLS
+    distance_km: 15.09
+- country: US
+  region: KS
+  name: Overbrook
+  lat: '38.7794'
+  long: "-95.5569"
+  nearby_rate_centers:
+  - name: OVERBROOK
+    distance_km: 0.6
+  - name: MICHIGNVLY
+    distance_km: 10.96
+  - name: S TOPEKA
+    distance_km: 12.52
+- country: US
+  region: KS
+  name: Overland Park
+  lat: '38.8870'
+  long: "-94.6870"
+  nearby_rate_centers:
+  - name: STANLEY
+    distance_km: 4.89
+  - name: MELROSE
+    distance_km: 10.82
+  - name: OLATHE
+    distance_km: 11.49
+- country: US
+  region: KS
+  name: Oxford
+  lat: '37.2741'
+  long: "-97.1696"
+  nearby_rate_centers:
+  - name: OXFORD
+    distance_km: 0.08
+  - name: UDALL
+    distance_km: 12.8
+  - name: WINFIELD
+    distance_km: 16.03
+- country: US
+  region: KS
+  name: Ozawkie
+  lat: '39.2354'
+  long: "-95.4659"
+  nearby_rate_centers:
+  - name: OZAWKIE
+    distance_km: 0.49
+  - name: MERIDEN
+    distance_km: 10.32
+  - name: VALLEY FLS
+    distance_km: 11.6
+- country: US
+  region: KS
+  name: Palco
+  lat: '39.2532'
+  long: "-99.5634"
+  nearby_rate_centers:
+  - name: PALCO
+    distance_km: 0.45
+  - name: DAMAR
+    distance_km: 7.07
+  - name: ZURICH
+    distance_km: 12.09
+- country: US
+  region: KS
+  name: Palmer
+  lat: '39.6333'
+  long: "-97.1399"
+  nearby_rate_centers:
+  - name: PALMER
+    distance_km: 0.23
+  - name: LINN
+    distance_km: 7.14
+  - name: CLIFTON
+    distance_km: 14.28
+- country: US
+  region: KS
+  name: Paola
+  lat: '38.5788'
+  long: "-94.8617"
+  nearby_rate_centers:
+  - name: PAOLA
+    distance_km: 2.23
+  - name: PAOLA METRO
+    distance_km: 2.23
+  - name: HILLSDALE
+    distance_km: 9.97
+  - name: OSAWATOMIE
+    distance_km: 11.53
+  - name: OSAWATOMIE METRO
+    distance_km: 11.53
+- country: US
+  region: KS
+  name: Paradise
+  lat: '39.1145'
+  long: "-98.9184"
+  nearby_rate_centers:
+  - name: PARADISE
+    distance_km: 0.76
+  - name: WALDO
+    distance_km: 10.14
+  - name: NATOMA
+    distance_km: 12.43
+- country: US
+  region: KS
+  name: Park
+  lat: '39.1117'
+  long: "-100.3614"
+  nearby_rate_centers:
+  - name: GRAINFIELD
+    distance_km: 9.11
+  - name: QUINTER
+    distance_km: 12.12
+  - name: GOVE
+    distance_km: 20.3
+- country: US
+  region: KS
+  name: Park City
+  lat: '37.8101'
+  long: "-97.3256"
+  nearby_rate_centers:
+  - name: KECHI
+    distance_km: 4.78
+  - name: VALLEY CTR
+    distance_km: 5.01
+  - name: WICHITA
+    distance_km: 13.35
+- country: US
+  region: KS
+  name: Parker
+  lat: '38.3285'
+  long: "-94.9899"
+  nearby_rate_centers:
+  - name: PARKER
+    distance_km: 0.75
+  - name: GREELEY
+    distance_km: 13.24
+  - name: LANE
+    distance_km: 14.41
+- country: US
+  region: KS
+  name: Parkerfield
+  lat: '37.0679'
+  long: "-96.9957"
+  nearby_rate_centers:
+  - name: ARKANSASCY
+    distance_km: 4.2
+  - name: GEUDA SPG
+    distance_km: 14.6
+  - name: WINFIELD
+    distance_km: 19.3
+- country: US
+  region: KS
+  name: Parkerville
+  lat: '38.7638'
+  long: "-96.6615"
+  nearby_rate_centers:
+  - name: WHITE CITY
+    distance_km: 9.24
+  - name: DWIGHT
+    distance_km: 10.88
+  - name: WILSEY
+    distance_km: 14.36
+- country: US
+  region: KS
+  name: Parsons
+  lat: '37.3405'
+  long: "-95.2958"
+  nearby_rate_centers:
+  - name: PARSONS
+    distance_km: 2.9
+  - name: GALESBURG
+    distance_km: 16.03
+  - name: ALTAMONT
+    distance_km: 16.62
+- country: US
+  region: KS
+  name: Partridge
+  lat: '37.9666'
+  long: "-98.0922"
+  nearby_rate_centers:
+  - name: PARTRIDGE
+    distance_km: 0.23
+  - name: ARLINGTON
+    distance_km: 10.71
+  - name: ABBYVLPLVN
+    distance_km: 14.48
+- country: US
+  region: KS
+  name: Pawnee Rock
+  lat: '38.2649'
+  long: "-98.9823"
+  nearby_rate_centers:
+  - name: PAWNEEROCK
+    distance_km: 0.44
+  - name: LARNED
+    distance_km: 13.25
+  - name: ALBERT
+    distance_km: 21.84
+- country: US
+  region: KS
+  name: Paxico
+  lat: '39.0689'
+  long: "-96.1671"
+  nearby_rate_centers:
+  - name: PAXICO
+    distance_km: 0.44
+  - name: ALMA
+    distance_km: 12.2
+  - name: ST MARYS
+    distance_km: 16.76
+- country: US
+  region: KS
+  name: Peabody
+  lat: '38.1683'
+  long: "-97.1043"
+  nearby_rate_centers:
+  - name: PEABODY
+    distance_km: 0.29
+  - name: WALTON
+    distance_km: 13.99
+  - name: FLORENCE
+    distance_km: 17.84
+- country: US
+  region: KS
+  name: Peck
+  lat: '37.4777'
+  long: "-97.3695"
+  nearby_rate_centers:
+  - name: MULVANE
+    distance_km: 11.27
+  - name: DERBY
+    distance_km: 12.02
+  - name: BELLEPLAIN
+    distance_km: 12.27
+- country: US
+  region: KS
+  name: Penalosa
+  lat: '37.7156'
+  long: "-98.3202"
+  nearby_rate_centers:
+  - name: CUNNINGHAM
+    distance_km: 12.29
+  - name: TURON
+    distance_km: 13.88
+  - name: LANGDON
+    distance_km: 15.75
+- country: US
+  region: KS
+  name: Perry
+  lat: '39.0732'
+  long: "-95.3866"
+  nearby_rate_centers:
+  - name: PERRY
+    distance_km: 0.75
+  - name: LECOMPTON
+    distance_km: 3.95
+  - name: OSKALOOSA
+    distance_km: 16.68
+- country: US
+  region: KS
+  name: Peru
+  lat: '37.0803'
+  long: "-96.0962"
+  nearby_rate_centers:
+  - name: SEDAN
+    distance_km: 9.22
+  - name: HAVANA
+    distance_km: 13.9
+  - name: CANEY
+    distance_km: 15.96
+- country: US
+  region: KS
+  name: Phillipsburg
+  lat: '39.7512'
+  long: "-99.3210"
+  nearby_rate_centers:
+  - name: PHILLIPSBG
+    distance_km: 0.78
+  - name: AGRA
+    distance_km: 17.49
+  - name: PRAIRIE VW
+    distance_km: 22.65
+- country: US
+  region: KS
+  name: Piedmont
+  lat: '37.6206'
+  long: "-96.3708"
+  nearby_rate_centers:
+  - name: PIEDMONT
+    distance_km: 0.82
+  - name: SEVERY
+    distance_km: 12.2
+  - name: BEAUMONT
+    distance_km: 14.9
+- country: US
+  region: KS
+  name: Pierceville
+  lat: '37.8824'
+  long: "-100.6768"
+  nearby_rate_centers:
+  - name: GARDENCITY
+    distance_km: 19.97
+  - name: INGALLS
+    distance_km: 20.67
+  - name: CIMARRON
+    distance_km: 30.42
+- country: US
+  region: KS
+  name: Pilsen
+  lat: '38.4711'
+  long: "-97.0389"
+  nearby_rate_centers:
+  - name: LINCOLNVL
+    distance_km: 6.68
+  - name: LOST SPG
+    distance_km: 12.32
+  - name: MARION
+    distance_km: 13.95
+- country: US
+  region: KS
+  name: Piqua
+  lat: '37.9220'
+  long: "-95.5375"
+  nearby_rate_centers:
+  - name: PIQUA
+    distance_km: 0.7
+  - name: NEOSHO FLS
+    distance_km: 9.65
+  - name: IOLA
+    distance_km: 11.35
+- country: US
+  region: KS
+  name: Pittsburg
+  lat: '37.4129'
+  long: "-94.6985"
+  nearby_rate_centers:
+  - name: PITTSBURG
+    distance_km: 0.76
+  - name: CHEROKEE
+    distance_km: 13.64
+  - name: WEIR CITY
+    distance_km: 13.75
+- country: US
+  region: KS
+  name: Plains
+  lat: '37.2642'
+  long: "-100.5898"
+  nearby_rate_centers:
+  - name: PLAINS
+    distance_km: 0.47
+  - name: MEADE
+    distance_km: 22.7
+  - name: COPELAND
+    distance_km: 31.29
+- country: US
+  region: KS
+  name: Plainville
+  lat: '39.2341'
+  long: "-99.3009"
+  nearby_rate_centers:
+  - name: PLAINVILLE
+    distance_km: 0.16
+  - name: ZURICH
+    distance_km: 10.69
+  - name: STOCKTON
+    distance_km: 22.11
+- country: US
+  region: KS
+  name: Pleasanton
+  lat: '38.1790'
+  long: "-94.7053"
+  nearby_rate_centers:
+  - name: PLEASANTON
+    distance_km: 0.49
+  - name: MOUND CITY
+    distance_km: 9.9
+  - name: WEST HUME
+    distance_km: 12.09
+- country: US
+  region: KS
+  name: Plevna
+  lat: '37.9717'
+  long: "-98.3095"
+  nearby_rate_centers:
+  - name: ABBYVLPLVN
+    distance_km: 4.65
+  - name: SYLVIA
+    distance_km: 9.0
+  - name: LANGDON
+    distance_km: 12.85
+- country: US
+  region: KS
+  name: Pomona
+  lat: '38.6108'
+  long: "-95.4529"
+  nearby_rate_centers:
+  - name: POMONA
+    distance_km: 0.87
+  - name: QUENEMO
+    distance_km: 7.37
+  - name: MICHIGNVLY
+    distance_km: 10.74
+- country: US
+  region: KS
+  name: Portis
+  lat: '39.5638'
+  long: "-98.6916"
+  nearby_rate_centers:
+  - name: OSBORNE
+    distance_km: 14.39
+  - name: DOWNS
+    distance_km: 14.46
+  - name: GAYLORD
+    distance_km: 16.21
+- country: US
+  region: KS
+  name: Potwin
+  lat: '37.9385'
+  long: "-97.0184"
+  nearby_rate_centers:
+  - name: POTWIN
+    distance_km: 0.58
+  - name: WHITEWATER
+    distance_km: 12.08
+  - name: TOWANDA
+    distance_km: 15.29
+  - name: TOWANDA METRO
+    distance_km: 15.29
+- country: US
+  region: KS
+  name: Powhattan
+  lat: '39.7619'
+  long: "-95.6342"
+  nearby_rate_centers:
+  - name: POWHATTAN
+    distance_km: 0.25
+  - name: FAIRVIEW
+    distance_km: 11.74
+  - name: WILLIS
+    distance_km: 12.32
+- country: US
+  region: KS
+  name: Prairie View
+  lat: '39.8320'
+  long: "-99.5732"
+  nearby_rate_centers:
+  - name: PRAIRIE VW
+    distance_km: 0.8
+  - name: ALMENA
+    distance_km: 13.13
+  - name: LONGISLAND
+    distance_km: 13.81
+- country: US
+  region: KS
+  name: Prairie Village
+  lat: '38.9874'
+  long: "-94.6362"
+  nearby_rate_centers:
+  - name: MELROSE
+    distance_km: 3.92
+  - name: KANSASCITY
+    distance_km: 14.16
+  - name: STANLEY
+    distance_km: 15.01
+- country: US
+  region: KS
+  name: Pratt
+  lat: '37.6765'
+  long: "-98.7451"
+  nearby_rate_centers:
+  - name: PRATT
+    distance_km: 3.91
+  - name: IUKA
+    distance_km: 6.4
+  - name: CULLISON
+    distance_km: 14.38
+- country: US
+  region: KS
+  name: Prescott
+  lat: '38.0630'
+  long: "-94.6929"
+  nearby_rate_centers:
+  - name: PRESCOTT
+    distance_km: 0.31
+  - name: FULTON
+    distance_km: 6.5
+  - name: WEST HUME
+    distance_km: 6.86
+- country: US
+  region: KS
+  name: Preston
+  lat: '37.7584'
+  long: "-98.5578"
+  nearby_rate_centers:
+  - name: PRESTON
+    distance_km: 0.17
+  - name: TURON
+    distance_km: 12.78
+  - name: IUKA
+    distance_km: 15.83
+- country: US
+  region: KS
+  name: Pretty Prairie
+  lat: '37.7800'
+  long: "-98.0224"
+  nearby_rate_centers:
+  - name: PRETTYPRRI
+    distance_km: 0.86
+  - name: KINGMAN
+    distance_km: 16.92
+  - name: ARLINGTON
+    distance_km: 19.48
+- country: US
+  region: KS
+  name: Princeton
+  lat: '38.4874'
+  long: "-95.2698"
+  nearby_rate_centers:
+  - name: PRINCETON
+    distance_km: 0.52
+  - name: RICHMOND
+    distance_km: 10.04
+  - name: OTTAWA
+    distance_km: 14.42
+- country: US
+  region: KS
+  name: Protection
+  lat: '37.2004'
+  long: "-99.4808"
+  nearby_rate_centers:
+  - name: PROTECTION
+    distance_km: 0.69
+  - name: COLDWATER
+    distance_km: 15.01
+  - name: ASHLAND
+    distance_km: 26.31
+- country: US
+  region: KS
+  name: Quenemo
+  lat: '38.5801'
+  long: "-95.5266"
+  nearby_rate_centers:
+  - name: QUENEMO
+    distance_km: 0.66
+  - name: POMONA
+    distance_km: 6.39
+  - name: MICHIGNVLY
+    distance_km: 11.38
+- country: US
+  region: KS
+  name: Quinter
+  lat: '39.0666'
+  long: "-100.2347"
+  nearby_rate_centers:
+  - name: QUINTER
+    distance_km: 0.16
+  - name: COLLYER
+    distance_km: 10.8
+  - name: GRAINFIELD
+    distance_km: 20.83
+- country: US
+  region: KS
+  name: Radium
+  lat: '38.1738'
+  long: "-98.8944"
+  nearby_rate_centers:
+  - name: PAWNEEROCK
+    distance_km: 13.09
+  - name: LARNED
+    distance_km: 17.32
+  - name: HUDSON
+    distance_km: 21.68
+- country: US
+  region: KS
+  name: Radley
+  lat: '37.4851'
+  long: "-94.7617"
+  nearby_rate_centers:
+  - name: GIRARD
+    distance_km: 8.29
+  - name: ARMA
+    distance_km: 8.75
+  - name: PITTSBURG
+    distance_km: 10.39
+- country: US
+  region: KS
+  name: Ramona
+  lat: '38.5979'
+  long: "-97.0637"
+  nearby_rate_centers:
+  - name: RAMONA
+    distance_km: 0.52
+  - name: LOST SPG
+    distance_km: 9.17
+  - name: HOPE
+    distance_km: 10.29
+- country: US
+  region: KS
+  name: Randall
+  lat: '39.6417'
+  long: "-98.0456"
+  nearby_rate_centers:
+  - name: RANDALL
+    distance_km: 0.66
+  - name: JEWELL
+    distance_km: 10.24
+  - name: FORMOSO
+    distance_km: 15.63
+- country: US
+  region: KS
+  name: Randolph
+  lat: '39.4290'
+  long: "-96.7598"
+  nearby_rate_centers:
+  - name: LEONARDVL
+    distance_km: 11.26
+  - name: OLSBURG
+    distance_km: 12.17
+  - name: RILEY
+    distance_km: 15.37
+- country: US
+  region: KS
+  name: Ransom
+  lat: '38.6367'
+  long: "-99.9328"
+  nearby_rate_centers:
+  - name: RANSOM
+    distance_km: 0.56
+  - name: BROWNELL
+    distance_km: 16.03
+  - name: UTICA
+    distance_km: 20.41
+- country: US
+  region: KS
+  name: Rantoul
+  lat: '38.5483'
+  long: "-95.1011"
+  nearby_rate_centers:
+  - name: RANTOUL
+    distance_km: 0.38
+  - name: LANE
+    distance_km: 12.68
+  - name: OSAWATOMIE
+    distance_km: 14.44
+  - name: OSAWATOMIE METRO
+    distance_km: 14.44
+- country: US
+  region: KS
+  name: Raymond
+  lat: '38.2780'
+  long: "-98.4143"
+  nearby_rate_centers:
+  - name: ALDEN
+    distance_km: 10.01
+  - name: CHASE
+    distance_km: 10.92
+  - name: ELLINWOOD
+    distance_km: 16.85
+- country: US
+  region: KS
+  name: Reading
+  lat: '38.5192'
+  long: "-95.9574"
+  nearby_rate_centers:
+  - name: READING
+    distance_km: 0.45
+  - name: LEBO
+    distance_km: 14.48
+  - name: OSAGE CITY
+    distance_km: 17.07
+- country: US
+  region: KS
+  name: Redfield
+  lat: '37.8366'
+  long: "-94.8820"
+  nearby_rate_centers:
+  - name: UNIONTOWN
+    distance_km: 8.68
+  - name: DEVON
+    distance_km: 10.46
+  - name: HIATTVILLE
+    distance_km: 12.6
+- country: US
+  region: KS
+  name: Republic
+  lat: '39.9239'
+  long: "-97.8245"
+  nearby_rate_centers:
+  - name: REPUBLIC
+    distance_km: 1.04
+  - name: SOUTHBYRON
+    distance_km: 8.96
+  - name: SOUTHHARDY
+    distance_km: 11.51
+- country: US
+  region: KS
+  name: Reserve
+  lat: '39.9770'
+  long: "-95.5654"
+  nearby_rate_centers:
+  - name: MORRILL
+    distance_km: 11.62
+  - name: HIAWATHA
+    distance_km: 13.9
+  - name: FAIRVIEW
+    distance_km: 20.54
+- country: US
+  region: KS
+  name: Rexford
+  lat: '39.4705'
+  long: "-100.7439"
+  nearby_rate_centers:
+  - name: REXFORD
+    distance_km: 0.62
+  - name: MENLO
+    distance_km: 13.72
+  - name: SELDEN
+    distance_km: 17.28
+- country: US
+  region: KS
+  name: Richfield
+  lat: '37.2653'
+  long: "-101.7828"
+  nearby_rate_centers:
+  - name: RICHFIELD
+    distance_km: 0.18
+  - name: ROLLA
+    distance_km: 21.1
+  - name: MANTER
+    distance_km: 30.22
+- country: US
+  region: KS
+  name: Richmond
+  lat: '38.4004'
+  long: "-95.2520"
+  nearby_rate_centers:
+  - name: RICHMOND
+    distance_km: 0.51
+  - name: PRINCETON
+    distance_km: 9.48
+  - name: GREELEY
+    distance_km: 10.97
+- country: US
+  region: KS
+  name: Riley
+  lat: '39.2990'
+  long: "-96.8277"
+  nearby_rate_centers:
+  - name: RILEY
+    distance_km: 0.88
+  - name: LEONARDVL
+    distance_km: 8.28
+  - name: MILFORD
+    distance_km: 16.25
+- country: US
+  region: KS
+  name: Ringo
+  lat: '37.5064'
+  long: "-94.7649"
+  nearby_rate_centers:
+  - name: ARMA
+    distance_km: 7.18
+  - name: GIRARD
+    distance_km: 7.58
+  - name: PITTSBURG
+    distance_km: 12.59
+- country: US
+  region: KS
+  name: Riverton
+  lat: '37.0732'
+  long: "-94.7060"
+  nearby_rate_centers:
+  - name: RIVERTON
+    distance_km: 1.84
+  - name: BAXTER SPG
+    distance_km: 5.94
+  - name: GALENA
+    distance_km: 6.96
+- country: US
+  region: KS
+  name: Robinson
+  lat: '39.8157'
+  long: "-95.4117"
+  nearby_rate_centers:
+  - name: ROBINSON
+    distance_km: 0.42
+  - name: HIAWATHA
+    distance_km: 11.59
+  - name: WILLIS
+    distance_km: 12.5
+- country: US
+  region: KS
+  name: Rock
+  lat: '37.4417'
+  long: "-97.0070"
+  nearby_rate_centers:
+  - name: ROCK
+    distance_km: 0.97
+  - name: DOUGLASS
+    distance_km: 8.34
+  - name: DOUGLASS METRO
+    distance_km: 8.34
+  - name: UDALL
+    distance_km: 11.74
+- country: US
+  region: KS
+  name: Roeland Park
+  lat: '39.0359'
+  long: "-94.6374"
+  nearby_rate_centers:
+  - name: MELROSE
+    distance_km: 6.89
+  - name: KANSASCITY
+    distance_km: 8.77
+  - name: BETHEL
+    distance_km: 15.94
+- country: US
+  region: KS
+  name: Rolla
+  lat: '37.1179'
+  long: "-101.6318"
+  nearby_rate_centers:
+  - name: ROLLA
+    distance_km: 0.11
+  - name: RICHFIELD
+    distance_km: 21.22
+  - name: HUGOTON
+    distance_km: 25.92
+- country: US
+  region: KS
+  name: Rosalia
+  lat: '37.8158'
+  long: "-96.6250"
+  nearby_rate_centers:
+  - name: ROSALIA
+    distance_km: 0.22
+  - name: REECE
+    distance_km: 15.65
+  - name: BEAUMONT
+    distance_km: 19.41
+- country: US
+  region: KS
+  name: Rose Hill
+  lat: '37.5702'
+  long: "-97.1361"
+  nearby_rate_centers:
+  - name: ROSE HILL
+    distance_km: 1.57
+  - name: DERBY
+    distance_km: 11.81
+  - name: DOUGLASS
+    distance_km: 12.6
+  - name: DOUGLASS METRO
+    distance_km: 12.6
+- country: US
+  region: KS
+  name: Roseland
+  lat: '37.2805'
+  long: "-94.8438"
+  nearby_rate_centers:
+  - name: SCAMMON
+    distance_km: 1.7
+  - name: WEIR CITY
+    distance_km: 6.27
+  - name: CHEROKEE
+    distance_km: 7.25
+- country: US
+  region: KS
+  name: Rossville
+  lat: '39.1358'
+  long: "-95.9496"
+  nearby_rate_centers:
+  - name: ROSSVILLE
+    distance_km: 0.4
+  - name: SILVERLAKE
+    distance_km: 8.59
+  - name: ST MARYS
+    distance_km: 12.09
+- country: US
+  region: KS
+  name: Roxbury
+  lat: '38.5511'
+  long: "-97.4274"
+  nearby_rate_centers:
+  - name: ROXBURY
+    distance_km: 0.47
+  - name: GYPSUM
+    distance_km: 17.24
+  - name: CANTON
+    distance_km: 17.65
+- country: US
+  region: KS
+  name: Rozel
+  lat: '38.1954'
+  long: "-99.4032"
+  nearby_rate_centers:
+  - name: ROZEL
+    distance_km: 0.57
+  - name: BURDETT
+    distance_km: 10.64
+  - name: GARFIELD
+    distance_km: 19.42
+- country: US
+  region: KS
+  name: Rush Center
+  lat: '38.4650'
+  long: "-99.3110"
+  nearby_rate_centers:
+  - name: RUSHCENTER
+    distance_km: 0.29
+  - name: LA CROSSE
+    distance_km: 7.45
+  - name: BISON
+    distance_km: 11.14
+- country: US
+  region: KS
+  name: Russell
+  lat: '38.8874'
+  long: "-98.8514"
+  nearby_rate_centers:
+  - name: RUSSELL
+    distance_km: 0.78
+  - name: GORHAM
+    distance_km: 15.07
+  - name: DORRANCE
+    distance_km: 23.02
+- country: US
+  region: KS
+  name: Russell Springs
+  lat: '38.9128'
+  long: "-101.1757"
+  nearby_rate_centers:
+  - name: RUSSELLSPG
+    distance_km: 1.26
+  - name: WINONA
+    distance_km: 18.03
+  - name: WALLACE
+    distance_km: 36.66
+- country: US
+  region: KS
+  name: Sabetha
+  lat: '39.9130'
+  long: "-95.7913"
+  nearby_rate_centers:
+  - name: SABETHA
+    distance_km: 1.74
+  - name: MORRILL
+    distance_km: 8.99
+  - name: FAIRVIEW
+    distance_km: 9.81
+- country: US
+  region: KS
+  name: Saint Benedict
+  lat: '39.8928'
+  long: "-96.1029"
+  nearby_rate_centers:
+  - name: SENECA
+    distance_km: 7.03
+  - name: SO DU BOIS
+    distance_km: 11.66
+  - name: SOPAWNEECY
+    distance_km: 12.01
+- country: US
+  region: KS
+  name: Saint Marks
+  lat: '37.7360'
+  long: "-97.5629"
+  nearby_rate_centers:
+  - name: COLWIHBTLY
+    distance_km: 5.35
+  - name: WICHITPKVW
+    distance_km: 7.87
+  - name: ANDALE
+    distance_km: 8.6
+  - name: ANDALE METRO
+    distance_km: 8.6
+- country: US
+  region: KS
+  name: Salina
+  lat: '38.8136'
+  long: "-97.6143"
+  nearby_rate_centers:
+  - name: SALINA
+    distance_km: 3.3
+  - name: ASSARIA
+    distance_km: 14.73
+  - name: SALEMSBURG
+    distance_km: 15.36
+- country: US
+  region: KS
+  name: Satanta
+  lat: '37.4378'
+  long: "-100.9880"
+  nearby_rate_centers:
+  - name: SATANTA
+    distance_km: 0.57
+  - name: SUBLETTE
+    distance_km: 14.09
+  - name: RYUS
+    distance_km: 14.39
+- country: US
+  region: KS
+  name: Savonburg
+  lat: '37.7489'
+  long: "-95.1428"
+  nearby_rate_centers:
+  - name: SAVONBURG
+    distance_km: 0.13
+  - name: WALNUT
+    distance_km: 17.38
+  - name: UNIONTOWN
+    distance_km: 17.53
+- country: US
+  region: KS
+  name: Sawyer
+  lat: '37.4985'
+  long: "-98.6830"
+  nearby_rate_centers:
+  - name: SAWYER
+    distance_km: 0.31
+  - name: COATS
+    distance_km: 11.75
+  - name: ISABEL
+    distance_km: 12.49
+- country: US
+  region: KS
+  name: Scammon
+  lat: '37.2781'
+  long: "-94.8230"
+  nearby_rate_centers:
+  - name: SCAMMON
+    distance_km: 0.58
+  - name: WEIR CITY
+    distance_km: 4.95
+  - name: CHEROKEE
+    distance_km: 7.36
+- country: US
+  region: KS
+  name: Scandia
+  lat: '39.7969'
+  long: "-97.7840"
+  nearby_rate_centers:
+  - name: SCANDIA
+    distance_km: 0.59
+  - name: COURTLAND
+    distance_km: 9.92
+  - name: REPUBLIC
+    distance_km: 13.55
+- country: US
+  region: KS
+  name: Schoenchen
+  lat: '38.7130'
+  long: "-99.3325"
+  nearby_rate_centers:
+  - name: HAYS
+    distance_km: 18.01
+  - name: LA CROSSE
+    distance_km: 20.37
+  - name: VICTORIA
+    distance_km: 21.79
+- country: US
+  region: KS
+  name: Scott City
+  lat: '38.4789'
+  long: "-100.9031"
+  nearby_rate_centers:
+  - name: SCOTT CITY
+    distance_km: 0.94
+  - name: MARIENTHAL
+    distance_km: 26.51
+  - name: HEALY
+    distance_km: 28.37
+- country: US
+  region: KS
+  name: Scottsville
+  lat: '39.5426'
+  long: "-97.9523"
+  nearby_rate_centers:
+  - name: JAMESTOWN
+    distance_km: 10.47
+  - name: RANDALL
+    distance_km: 13.9
+  - name: BELOIT
+    distance_km: 16.22
+- country: US
+  region: KS
+  name: Scranton
+  lat: '38.7778'
+  long: "-95.7402"
+  nearby_rate_centers:
+  - name: SCRANTON
+    distance_km: 0.91
+  - name: S TOPEKA
+    distance_km: 6.21
+  - name: BURLINGAME
+    distance_km: 8.48
+- country: US
+  region: KS
+  name: Sedan
+  lat: '37.1284'
+  long: "-96.1848"
+  nearby_rate_centers:
+  - name: SEDAN
+    distance_km: 0.33
+  - name: ELGIN
+    distance_km: 15.8
+  - name: HAVANA
+    distance_km: 21.8
+- country: US
+  region: KS
+  name: Sedgwick
+  lat: '37.9180'
+  long: "-97.4201"
+  nearby_rate_centers:
+  - name: SEDGWICK
+    distance_km: 0.49
+  - name: VALLEY CTR
+    distance_km: 10.27
+  - name: HALSTEAD
+    distance_km: 12.57
+  - name: HALSTEAD METRO
+    distance_km: 12.57
+- country: US
+  region: KS
+  name: Selden
+  lat: '39.5414'
+  long: "-100.5671"
+  nearby_rate_centers:
+  - name: SELDEN
+    distance_km: 1.18
+  - name: REXFORD
+    distance_km: 17.18
+  - name: HOXIE
+    distance_km: 23.67
+- country: US
+  region: KS
+  name: Seneca
+  lat: '39.8380'
+  long: "-96.0696"
+  nearby_rate_centers:
+  - name: SENECA
+    distance_km: 1.22
+  - name: CENTRALIA
+    distance_km: 13.64
+  - name: AXTELL
+    distance_km: 16.69
+- country: US
+  region: KS
+  name: Severance
+  lat: '39.7668'
+  long: "-95.2492"
+  nearby_rate_centers:
+  - name: DENTON
+    distance_km: 4.95
+  - name: BENDENA
+    distance_km: 6.13
+  - name: HIGHLAND
+    distance_km: 10.33
+- country: US
+  region: KS
+  name: Severy
+  lat: '37.6220'
+  long: "-96.2273"
+  nearby_rate_centers:
+  - name: SEVERY
+    distance_km: 0.45
+  - name: PIEDMONT
+    distance_km: 12.36
+  - name: HOWARD
+    distance_km: 17.33
+- country: US
+  region: KS
+  name: Seward
+  lat: '38.1778'
+  long: "-98.7943"
+  nearby_rate_centers:
+  - name: HUDSON
+    distance_km: 14.01
+  - name: PAWNEEROCK
+    distance_km: 19.33
+  - name: ST JOHN
+    distance_km: 20.25
+- country: US
+  region: KS
+  name: Shallow Water
+  lat: '38.3738'
+  long: "-100.9104"
+  nearby_rate_centers:
+  - name: SCOTT CITY
+    distance_km: 12.44
+  - name: MARIENTHAL
+    distance_km: 28.68
+  - name: HEALY
+    distance_km: 35.9
+- country: US
+  region: KS
+  name: Sharon
+  lat: '37.2498'
+  long: "-98.4177"
+  nearby_rate_centers:
+  - name: SHARON
+    distance_km: 0.09
+  - name: MEDICNLODG
+    distance_km: 14.28
+  - name: ATTICA
+    distance_km: 16.15
+- country: US
+  region: KS
+  name: Sharon Springs
+  lat: '38.8943'
+  long: "-101.7511"
+  nearby_rate_centers:
+  - name: SHARON SPG
+    distance_km: 0.36
+  - name: WALLACE
+    distance_km: 13.2
+  - name: WESKAN
+    distance_km: 18.71
+- country: US
+  region: KS
+  name: Shawnee
+  lat: '39.0158'
+  long: "-94.8076"
+  nearby_rate_centers:
+  - name: BONNER SPG
+    distance_km: 8.14
+  - name: MELROSE
+    distance_km: 11.46
+  - name: DE SOTO
+    distance_km: 15.33
+  - name: DE SOTO METRO
+    distance_km: 15.33
+- country: US
+  region: KS
+  name: Silver Lake
+  lat: '39.0994'
+  long: "-95.8563"
+  nearby_rate_centers:
+  - name: SILVERLAKE
+    distance_km: 0.42
+  - name: TOPEKAGFLD
+    distance_km: 8.1
+  - name: ROSSVILLE
+    distance_km: 9.15
+- country: US
+  region: KS
+  name: Silverdale
+  lat: '37.0424'
+  long: "-96.9018"
+  nearby_rate_centers:
+  - name: ARKANSASCY
+    distance_km: 12.85
+  - name: DEXTER
+    distance_km: 22.46
+  - name: GEUDA SPG
+    distance_km: 23.39
+- country: US
+  region: KS
+  name: Simpson
+  lat: '39.3860'
+  long: "-97.9340"
+  nearby_rate_centers:
+  - name: SIMPSON
+    distance_km: 0.13
+  - name: GLASCO
+    distance_km: 9.31
+  - name: BELOIT
+    distance_km: 16.82
+- country: US
+  region: KS
+  name: Smith Center
+  lat: '39.7740'
+  long: "-98.7831"
+  nearby_rate_centers:
+  - name: SMITH CTR
+    distance_km: 0.68
+  - name: ATHOL
+    distance_km: 11.69
+  - name: GAYLORD
+    distance_km: 14.9
+- country: US
+  region: KS
+  name: Smolan
+  lat: '38.7381'
+  long: "-97.6843"
+  nearby_rate_centers:
+  - name: SALEMSBURG
+    distance_km: 5.43
+  - name: ASSARIA
+    distance_km: 9.52
+  - name: SALINA
+    distance_km: 13.36
+- country: US
+  region: KS
+  name: Soldier
+  lat: '39.5372'
+  long: "-95.9657"
+  nearby_rate_centers:
+  - name: SOLDIER
+    distance_km: 0.64
+  - name: CIRCLEVL
+    distance_km: 9.56
+  - name: HAVENSVL
+    distance_km: 11.0
+- country: US
+  region: KS
+  name: Solomon
+  lat: '38.9215'
+  long: "-97.3692"
+  nearby_rate_centers:
+  - name: SOLOMON
+    distance_km: 0.43
+  - name: ABILENE
+    distance_km: 13.74
+  - name: BUCKEYE
+    distance_km: 21.53
+- country: US
+  region: KS
+  name: Somerset
+  lat: '38.6058'
+  long: "-94.7779"
+  nearby_rate_centers:
+  - name: LOUISBURG
+    distance_km: 8.16
+  - name: HILLSDALE
+    distance_km: 9.26
+  - name: PAOLA
+    distance_km: 10.09
+  - name: PAOLA METRO
+    distance_km: 10.09
+- country: US
+  region: KS
+  name: South Haven
+  lat: '37.0495'
+  long: "-97.4013"
+  nearby_rate_centers:
+  - name: SOUTHHAVEN
+    distance_km: 0.28
+  - name: CORBIN
+    distance_km: 15.84
+  - name: CALDWELL
+    distance_km: 18.48
+- country: US
+  region: KS
+  name: South Hutchinson
+  lat: '38.0278'
+  long: "-97.9429"
+  nearby_rate_centers:
+  - name: HUTCHINSON
+    distance_km: 3.44
+  - name: PARTRIDGE
+    distance_km: 14.75
+  - name: NICKERSON
+    distance_km: 18.45
+- country: US
+  region: KS
+  name: South Mound
+  lat: '37.4350'
+  long: "-95.2245"
+  nearby_rate_centers:
+  - name: ST PAUL
+    distance_km: 9.85
+  - name: PARSONS
+    distance_km: 11.83
+  - name: GALESBURG
+    distance_km: 12.62
+- country: US
+  region: KS
+  name: Spearville
+  lat: '37.8481'
+  long: "-99.7548"
+  nearby_rate_centers:
+  - name: SPEARVILLE
+    distance_km: 0.85
+  - name: FORD
+    distance_km: 24.0
+  - name: DODGE CITY
+    distance_km: 24.93
+- country: US
+  region: KS
+  name: Speed
+  lat: '39.6764'
+  long: "-99.4209"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 12.58
+  - name: PHILLIPSBG
+    distance_km: 12.7
+  - name: PRAIRIE VW
+    distance_km: 21.26
+- country: US
+  region: KS
+  name: Spivey
+  lat: '37.4484'
+  long: "-98.1658"
+  nearby_rate_centers:
+  - name: ZENDA
+    distance_km: 10.35
+  - name: HARPER
+    distance_km: 21.35
+  - name: NASHVILLE
+    distance_km: 22.17
+- country: US
+  region: KS
+  name: Spring Hill
+  lat: '38.7565'
+  long: "-94.8201"
+  nearby_rate_centers:
+  - name: SPRING HILL METRO
+    distance_km: 0.78
+  - name: SPRINGHILL
+    distance_km: 0.78
+  - name: BUCYRUS
+    distance_km: 9.73
+  - name: BUCYRUS METRO
+    distance_km: 9.73
+  - name: HILLSDALE
+    distance_km: 10.17
+- country: US
+  region: KS
+  name: St. Francis
+  lat: '39.7714'
+  long: "-101.8015"
+  nearby_rate_centers:
+  - name: ST FRANCIS
+    distance_km: 0.49
+  - name: BIRD CITY
+    distance_km: 24.0
+  - name: SO HAIGLER
+    distance_km: 27.15
+- country: US
+  region: KS
+  name: St. George
+  lat: '39.1915'
+  long: "-96.4185"
+  nearby_rate_centers:
+  - name: ST GEORGE
+    distance_km: 0.99
+  - name: WAMEGO
+    distance_km: 10.13
+  - name: MANHATTAN
+    distance_km: 13.58
+- country: US
+  region: KS
+  name: St. John
+  lat: '38.0000'
+  long: "-98.7611"
+  nearby_rate_centers:
+  - name: ST JOHN
+    distance_km: 0.39
+  - name: STAFFORD
+    distance_km: 14.71
+  - name: HUDSON
+    distance_km: 14.82
+- country: US
+  region: KS
+  name: St. Marys
+  lat: '39.1942'
+  long: "-96.0643"
+  nearby_rate_centers:
+  - name: ST MARYS
+    distance_km: 0.35
+  - name: DELIA
+    distance_km: 10.49
+  - name: ROSSVILLE
+    distance_km: 11.66
+- country: US
+  region: KS
+  name: St. Paul
+  lat: '37.5186'
+  long: "-95.1742"
+  nearby_rate_centers:
+  - name: ST PAUL
+    distance_km: 0.49
+  - name: ERIE
+    distance_km: 7.94
+  - name: WALNUT
+    distance_km: 11.94
+- country: US
+  region: KS
+  name: Stafford
+  lat: '37.9624'
+  long: "-98.5995"
+  nearby_rate_centers:
+  - name: STAFFORD
+    distance_km: 0.27
+  - name: ST JOHN
+    distance_km: 14.4
+  - name: SYLVIA
+    distance_km: 16.59
+- country: US
+  region: KS
+  name: Stark
+  lat: '37.6898'
+  long: "-95.1441"
+  nearby_rate_centers:
+  - name: SAVONBURG
+    distance_km: 6.7
+  - name: WALNUT
+    distance_km: 11.32
+  - name: ERIE
+    distance_km: 16.09
+- country: US
+  region: KS
+  name: Sterling
+  lat: '38.2094'
+  long: "-98.2064"
+  nearby_rate_centers:
+  - name: STERLING
+    distance_km: 0.57
+  - name: ALDEN
+    distance_km: 9.69
+  - name: NICKERSON
+    distance_km: 12.46
+- country: US
+  region: KS
+  name: Stockton
+  lat: '39.4251'
+  long: "-99.2764"
+  nearby_rate_centers:
+  - name: STOCKTON
+    distance_km: 1.0
+  - name: WOODSTON
+    distance_km: 15.44
+  - name: PLAINVILLE
+    distance_km: 21.46
+- country: US
+  region: KS
+  name: Strong City
+  lat: '38.3955'
+  long: "-96.5370"
+  nearby_rate_centers:
+  - name: COTONWDFLS
+    distance_km: 3.46
+  - name: SAFFORDVL
+    distance_km: 12.66
+  - name: DUNLAP
+    distance_km: 24.71
+- country: US
+  region: KS
+  name: Stuttgart
+  lat: '39.7995'
+  long: "-99.4546"
+  nearby_rate_centers:
+  - name: PRAIRIE VW
+    distance_km: 10.04
+  - name: PHILLIPSBG
+    distance_km: 12.9
+  - name: LOGAN
+    distance_km: 17.7
+- country: US
+  region: KS
+  name: Sublette
+  lat: '37.4822'
+  long: "-100.8466"
+  nearby_rate_centers:
+  - name: SUBLETTE
+    distance_km: 0.68
+  - name: SATANTA
+    distance_km: 13.79
+  - name: COPELAND
+    distance_km: 19.88
+- country: US
+  region: KS
+  name: Summerfield
+  lat: '39.9968'
+  long: "-96.3493"
+  nearby_rate_centers:
+  - name: SUMMERFLD
+    distance_km: 0.73
+  - name: SO LIBERTY
+    distance_km: 11.56
+  - name: AXTELL
+    distance_km: 16.29
+- country: US
+  region: KS
+  name: Sun City
+  lat: '37.3785'
+  long: "-98.9166"
+  nearby_rate_centers:
+  - name: SUN CITY
+    distance_km: 1.06
+  - name: LAKE CITY
+    distance_km: 9.81
+  - name: COATS
+    distance_km: 17.64
+- country: US
+  region: KS
+  name: Susank
+  lat: '38.6407'
+  long: "-98.7745"
+  nearby_rate_centers:
+  - name: HOISINGTON
+    distance_km: 13.57
+  - name: GALATIA
+    distance_km: 16.1
+  - name: OLMITZ
+    distance_km: 19.52
+- country: US
+  region: KS
+  name: Sycamore
+  lat: '37.3247'
+  long: "-95.7153"
+  nearby_rate_centers:
+  - name: INDEPNDNCE
+    distance_km: 11.32
+  - name: NEODESHA
+    distance_km: 11.54
+  - name: LAFONTAINE
+    distance_km: 13.92
+- country: US
+  region: KS
+  name: Sylvan Grove
+  lat: '39.0123'
+  long: "-98.3944"
+  nearby_rate_centers:
+  - name: SYLVAN GRV
+    distance_km: 0.7
+  - name: DENMARK
+    distance_km: 12.88
+  - name: LUCAS
+    distance_km: 13.5
+- country: US
+  region: KS
+  name: Sylvia
+  lat: '37.9589'
+  long: "-98.4085"
+  nearby_rate_centers:
+  - name: SYLVIA
+    distance_km: 0.29
+  - name: ABBYVLPLVN
+    distance_km: 13.27
+  - name: LANGDON
+    distance_km: 13.34
+- country: US
+  region: KS
+  name: Syracuse
+  lat: '37.9620'
+  long: "-101.7782"
+  nearby_rate_centers:
+  - name: SYRACUSE
+    distance_km: 3.41
+  - name: KENDALL
+    distance_km: 21.94
+  - name: COOLIDGE
+    distance_km: 22.77
+- country: US
+  region: KS
+  name: Talmage
+  lat: '39.0269'
+  long: "-97.2598"
+  nearby_rate_centers:
+  - name: BUCKEYE
+    distance_km: 7.65
+  - name: ABILENE
+    distance_km: 12.85
+  - name: SOLOMON
+    distance_km: 15.38
+- country: US
+  region: KS
+  name: Tampa
+  lat: '38.5481'
+  long: "-97.1542"
+  nearby_rate_centers:
+  - name: RAMONA
+    distance_km: 9.28
+  - name: DURHAM
+    distance_km: 10.24
+  - name: LOST SPG
+    distance_km: 16.46
+- country: US
+  region: KS
+  name: Tecumseh
+  lat: '39.0419'
+  long: "-95.5807"
+  nearby_rate_centers:
+  - name: TECUMSEH
+    distance_km: 1.57
+  - name: TOPEKA
+    distance_km: 8.36
+  - name: PAULINE
+    distance_km: 14.06
+- country: US
+  region: KS
+  name: Tescott
+  lat: '39.0130'
+  long: "-97.8781"
+  nearby_rate_centers:
+  - name: TESCOTT
+    distance_km: 0.27
+  - name: BEVERLY
+    distance_km: 8.61
+  - name: MINNEAPOLS
+    distance_km: 19.73
+- country: US
+  region: KS
+  name: Thayer
+  lat: '37.4851'
+  long: "-95.4845"
+  nearby_rate_centers:
+  - name: THAYER
+    distance_km: 0.88
+  - name: GALESBURG
+    distance_km: 11.22
+  - name: ALTOONA
+    distance_km: 16.45
+- country: US
+  region: KS
+  name: The Highlands
+  lat: '38.1659'
+  long: "-97.9497"
+  nearby_rate_centers:
+  - name: NICKERSON
+    distance_km: 12.01
+  - name: HUTCHINSON
+    distance_km: 12.43
+  - name: BUHLER
+    distance_km: 16.28
+- country: US
+  region: KS
+  name: Timken
+  lat: '38.4732'
+  long: "-99.1779"
+  nearby_rate_centers:
+  - name: TIMKEN
+    distance_km: 0.62
+  - name: BISON
+    distance_km: 5.29
+  - name: RUSHCENTER
+    distance_km: 11.35
+- country: US
+  region: KS
+  name: Tipton
+  lat: '39.3395'
+  long: "-98.4709"
+  nearby_rate_centers:
+  - name: TIPTON
+    distance_km: 0.53
+  - name: HUNTER
+    distance_km: 12.88
+  - name: CAWKERCITY
+    distance_km: 18.85
+- country: US
+  region: KS
+  name: Tonganoxie
+  lat: '39.1088'
+  long: "-95.0811"
+  nearby_rate_centers:
+  - name: TONGANOXIE
+    distance_km: 0.03
+  - name: TONGANOXIE METRO
+    distance_km: 0.03
+  - name: BASEHOR
+    distance_km: 12.66
+  - name: BASEHOR METRO
+    distance_km: 12.66
+  - name: LINWOOD
+    distance_km: 12.69
+  - name: LINWOOD METRO
+    distance_km: 12.69
+- country: US
+  region: KS
+  name: Topeka
+  lat: '39.0346'
+  long: "-95.6955"
+  nearby_rate_centers:
+  - name: TOPEKA
+    distance_km: 2.37
+  - name: TECUMSEH
+    distance_km: 9.12
+  - name: PAULINE
+    distance_km: 9.42
+- country: US
+  region: KS
+  name: Toronto
+  lat: '37.7986'
+  long: "-95.9497"
+  nearby_rate_centers:
+  - name: TORONTO
+    distance_km: 0.33
+  - name: QUINCY
+    distance_km: 10.13
+  - name: COYVILLE
+    distance_km: 13.51
+- country: US
+  region: KS
+  name: Towanda
+  lat: '37.7954'
+  long: "-96.9963"
+  nearby_rate_centers:
+  - name: TOWANDA
+    distance_km: 1.36
+  - name: TOWANDA METRO
+    distance_km: 1.36
+  - name: BENTON
+    distance_km: 9.81
+  - name: EL DORADO
+    distance_km: 12.38
+  - name: EL DORADO METRO
+    distance_km: 12.38
+- country: US
+  region: KS
+  name: Tribune
+  lat: '38.4720'
+  long: "-101.7546"
+  nearby_rate_centers:
+  - name: TRIBUNE
+    distance_km: 0.86
+  - name: LEOTI
+    distance_km: 34.59
+  - name: SHARON SPG
+    distance_km: 46.7
+- country: US
+  region: KS
+  name: Troy
+  lat: '39.7846'
+  long: "-95.0937"
+  nearby_rate_centers:
+  - name: TROY
+    distance_km: 0.32
+  - name: BENDENA
+    distance_km: 9.07
+  - name: WATHENA
+    distance_km: 11.83
+- country: US
+  region: KS
+  name: Turon
+  lat: '37.8075'
+  long: "-98.4278"
+  nearby_rate_centers:
+  - name: TURON
+    distance_km: 0.12
+  - name: LANGDON
+    distance_km: 10.34
+  - name: PRESTON
+    distance_km: 12.52
+- country: US
+  region: KS
+  name: Tyro
+  lat: '37.0368'
+  long: "-95.8218"
+  nearby_rate_centers:
+  - name: TYRO
+    distance_km: 0.77
+  - name: CANEY
+    distance_km: 10.23
+  - name: HAVANA
+    distance_km: 12.75
+- country: US
+  region: KS
+  name: Udall
+  lat: '37.3889'
+  long: "-97.1177"
+  nearby_rate_centers:
+  - name: UDALL
+    distance_km: 0.91
+  - name: ROCK
+    distance_km: 12.0
+  - name: OXFORD
+    distance_km: 13.63
+- country: US
+  region: KS
+  name: Ulysses
+  lat: '37.5774'
+  long: "-101.3546"
+  nearby_rate_centers:
+  - name: ULYSSES
+    distance_km: 0.89
+  - name: BIG BOW
+    distance_km: 18.17
+  - name: RYUS
+    distance_km: 22.48
+- country: US
+  region: KS
+  name: Uniontown
+  lat: '37.8471'
+  long: "-94.9755"
+  nearby_rate_centers:
+  - name: UNIONTOWN
+    distance_km: 0.83
+  - name: BRONSON
+    distance_km: 10.5
+  - name: DEVON
+    distance_km: 15.72
+- country: US
+  region: KS
+  name: Urbana
+  lat: '37.5580'
+  long: "-95.3999"
+  nearby_rate_centers:
+  - name: GALESBURG
+    distance_km: 9.85
+  - name: THAYER
+    distance_km: 10.19
+  - name: ERIE
+    distance_km: 14.08
+- country: US
+  region: KS
+  name: Utica
+  lat: '38.6427'
+  long: "-100.1698"
+  nearby_rate_centers:
+  - name: UTICA
+    distance_km: 0.35
+  - name: RANSOM
+    distance_km: 21.12
+  - name: BEELER
+    distance_km: 22.37
+- country: US
+  region: KS
+  name: Valley Center
+  lat: '37.8332'
+  long: "-97.3646"
+  nearby_rate_centers:
+  - name: VALLEY CTR
+    distance_km: 0.9
+  - name: KECHI
+    distance_km: 8.87
+  - name: SEDGWICK
+    distance_km: 10.91
+- country: US
+  region: KS
+  name: Valley Falls
+  lat: '39.3407'
+  long: "-95.4612"
+  nearby_rate_centers:
+  - name: VALLEY FLS
+    distance_km: 0.41
+  - name: OZAWKIE
+    distance_km: 12.17
+  - name: NORTONVL
+    distance_km: 13.75
+- country: US
+  region: KS
+  name: Vassar
+  lat: '38.6495'
+  long: "-95.6114"
+  nearby_rate_centers:
+  - name: MICHIGNVLY
+    distance_km: 7.48
+  - name: LYNDON
+    distance_km: 7.58
+  - name: QUENEMO
+    distance_km: 10.02
+- country: US
+  region: KS
+  name: Vermillion
+  lat: '39.7183'
+  long: "-96.2659"
+  nearby_rate_centers:
+  - name: VERMILLION
+    distance_km: 0.22
+  - name: CENTRALIA
+    distance_km: 11.57
+  - name: FRANKFORT
+    distance_km: 12.86
+- country: US
+  region: KS
+  name: Victoria
+  lat: '38.8538'
+  long: "-99.1473"
+  nearby_rate_centers:
+  - name: VICTORIA
+    distance_km: 0.69
+  - name: GORHAM
+    distance_km: 11.11
+  - name: HAYS
+    distance_km: 15.63
+- country: US
+  region: KS
+  name: Vining
+  lat: '39.5674'
+  long: "-97.2937"
+  nearby_rate_centers:
+  - name: CLIFTON
+    distance_km: 0.82
+  - name: CLYDE
+    distance_km: 9.58
+  - name: MORGANVL
+    distance_km: 13.37
+- country: US
+  region: KS
+  name: Viola
+  lat: '37.4829'
+  long: "-97.6444"
+  nearby_rate_centers:
+  - name: CONWAY SPG
+    distance_km: 10.32
+  - name: CLEARWATER
+    distance_km: 12.43
+  - name: NORWICH
+    distance_km: 18.44
+- country: US
+  region: KS
+  name: Virgil
+  lat: '37.9807'
+  long: "-96.0116"
+  nearby_rate_centers:
+  - name: QUINCY
+    distance_km: 10.92
+  - name: HAMILTON
+    distance_km: 13.48
+  - name: GRIDLEY
+    distance_km: 17.32
+- country: US
+  region: KS
+  name: WaKeeney
+  lat: '39.0234'
+  long: "-99.8815"
+  nearby_rate_centers:
+  - name: WAKEENEY
+    distance_km: 0.33
+  - name: COLLYER
+    distance_km: 20.36
+  - name: ELLIS
+    distance_km: 29.91
+- country: US
+  region: KS
+  name: Wabaunsee
+  lat: '39.1431'
+  long: "-96.3422"
+  nearby_rate_centers:
+  - name: WAMEGO
+    distance_km: 7.09
+  - name: ST GEORGE
+    distance_km: 8.94
+  - name: ALMA
+    distance_km: 15.01
+- country: US
+  region: KS
+  name: Wakarusa
+  lat: '38.8911'
+  long: "-95.6999"
+  nearby_rate_centers:
+  - name: PAULINE
+    distance_km: 6.57
+  - name: S TOPEKA
+    distance_km: 8.02
+  - name: SCRANTON
+    distance_km: 12.44
+- country: US
+  region: KS
+  name: Wakefield
+  lat: '39.2164'
+  long: "-97.0187"
+  nearby_rate_centers:
+  - name: WAKEFIELD
+    distance_km: 0.06
+  - name: MILFORD
+    distance_km: 10.78
+  - name: RILEY
+    distance_km: 19.57
+- country: US
+  region: KS
+  name: Waldo
+  lat: '39.1200'
+  long: "-98.7983"
+  nearby_rate_centers:
+  - name: WALDO
+    distance_km: 0.52
+  - name: LURAY
+    distance_km: 9.14
+  - name: PARADISE
+    distance_km: 11.01
+- country: US
+  region: KS
+  name: Waldron
+  lat: '37.0018'
+  long: "-98.1825"
+  nearby_rate_centers:
+  - name: WALDRON
+    distance_km: 0.51
+  - name: NOMANCHETR
+    distance_km: 13.26
+  - name: HAZELTON
+    distance_km: 21.74
+- country: US
+  region: KS
+  name: Wallace
+  lat: '38.9127'
+  long: "-101.5930"
+  nearby_rate_centers:
+  - name: WALLACE
+    distance_km: 0.96
+  - name: SHARON SPG
+    distance_km: 13.64
+  - name: WESKAN
+    distance_km: 32.55
+- country: US
+  region: KS
+  name: Walnut
+  lat: '37.6018'
+  long: "-95.0743"
+  nearby_rate_centers:
+  - name: WALNUT
+    distance_km: 0.98
+  - name: BRAZILTON
+    distance_km: 11.49
+  - name: HEPLER
+    distance_km: 11.54
+- country: US
+  region: KS
+  name: Walton
+  lat: '38.1187'
+  long: "-97.2582"
+  nearby_rate_centers:
+  - name: WALTON
+    distance_km: 0.67
+  - name: NEWTON
+    distance_km: 10.39
+  - name: NEWTON METRO
+    distance_km: 10.39
+  - name: PEABODY
+    distance_km: 14.27
+- country: US
+  region: KS
+  name: Wamego
+  lat: '39.2054'
+  long: "-96.3099"
+  nearby_rate_centers:
+  - name: WAMEGO
+    distance_km: 1.08
+  - name: ST GEORGE
+    distance_km: 9.11
+  - name: PAXICO
+    distance_km: 19.88
+- country: US
+  region: KS
+  name: Washington
+  lat: '39.8160'
+  long: "-97.0487"
+  nearby_rate_centers:
+  - name: WASHINGTON
+    distance_km: 0.1
+  - name: MORROWVL
+    distance_km: 11.26
+  - name: GREENLEAF
+    distance_km: 11.4
+- country: US
+  region: KS
+  name: Waterville
+  lat: '39.6919'
+  long: "-96.7470"
+  nearby_rate_centers:
+  - name: BLRP-WTVL
+    distance_km: 7.21
+  - name: BARNES
+    distance_km: 10.99
+  - name: MARYSVILLE
+    distance_km: 18.44
+- country: US
+  region: KS
+  name: Wathena
+  lat: '39.7602'
+  long: "-94.9396"
+  nearby_rate_centers:
+  - name: WATHENA
+    distance_km: 1.71
+  - name: ELWOOD
+    distance_km: 4.73
+  - name: TROY
+    distance_km: 13.22
+- country: US
+  region: KS
+  name: Waverly
+  lat: '38.3962'
+  long: "-95.6048"
+  nearby_rate_centers:
+  - name: WAVERLY
+    distance_km: 0.47
+  - name: MELVERN
+    distance_km: 12.82
+  - name: WILLIAMSBG
+    distance_km: 15.51
+- country: US
+  region: KS
+  name: Wayside
+  lat: '37.1259'
+  long: "-95.8696"
+  nearby_rate_centers:
+  - name: HAVANA
+    distance_km: 6.99
+  - name: TYRO
+    distance_km: 11.46
+  - name: CANEY
+    distance_km: 13.35
+- country: US
+  region: KS
+  name: Webber
+  lat: '39.9344'
+  long: "-98.0351"
+  nearby_rate_centers:
+  - name: WEBBER
+    distance_km: 0.19
+  - name: SOSUPERIOR
+    distance_km: 7.07
+  - name: SOUTHHARDY
+    distance_km: 11.04
+- country: US
+  region: KS
+  name: Weir
+  lat: '37.3095'
+  long: "-94.7741"
+  nearby_rate_centers:
+  - name: WEIR CITY
+    distance_km: 0.76
+  - name: CHEROKEE
+    distance_km: 6.02
+  - name: SCAMMON
+    distance_km: 6.12
+- country: US
+  region: KS
+  name: Welda
+  lat: '38.1747'
+  long: "-95.2915"
+  nearby_rate_centers:
+  - name: GARNETT
+    distance_km: 12.7
+  - name: COLONY
+    distance_km: 13.6
+  - name: KINCAID
+    distance_km: 15.38
+- country: US
+  region: KS
+  name: Wellington
+  lat: '37.2625'
+  long: "-97.4260"
+  nearby_rate_centers:
+  - name: WELLINGTON
+    distance_km: 2.7
+  - name: MAYFIELD
+    distance_km: 11.05
+  - name: RIVERDALE
+    distance_km: 11.74
+- country: US
+  region: KS
+  name: Wells
+  lat: '39.1391'
+  long: "-97.5512"
+  nearby_rate_centers:
+  - name: BENNINGTON
+    distance_km: 12.38
+  - name: MINNEAPOLS
+    distance_km: 13.04
+  - name: LONGFORD
+    distance_km: 19.4
+- country: US
+  region: KS
+  name: Wellsville
+  lat: '38.7175'
+  long: "-95.0778"
+  nearby_rate_centers:
+  - name: WELLSVILLE
+    distance_km: 0.53
+  - name: EDGERTON
+    distance_km: 7.4
+  - name: EDGERTON METRO
+    distance_km: 7.4
+  - name: BALDWIN
+    distance_km: 11.83
+- country: US
+  region: KS
+  name: Weskan
+  lat: '38.8653'
+  long: "-101.9681"
+  nearby_rate_centers:
+  - name: WESKAN
+    distance_km: 0.36
+  - name: SHARON SPG
+    distance_km: 19.26
+  - name: WALLACE
+    distance_km: 32.24
+- country: US
+  region: KS
+  name: West Mineral
+  lat: '37.2839'
+  long: "-94.9268"
+  nearby_rate_centers:
+  - name: W MINERAL
+    distance_km: 0.58
+  - name: SCAMMON
+    distance_km: 8.94
+  - name: MCCUNE
+    distance_km: 10.87
+- country: US
+  region: KS
+  name: Westmoreland
+  lat: '39.3941'
+  long: "-96.4137"
+  nearby_rate_centers:
+  - name: WESTMORELD
+    distance_km: 0.88
+  - name: WHEATON
+    distance_km: 14.14
+  - name: OLSBURG
+    distance_km: 18.15
+- country: US
+  region: KS
+  name: Westphalia
+  lat: '38.1818'
+  long: "-95.4906"
+  nearby_rate_centers:
+  - name: WESTPHALIA
+    distance_km: 0.32
+  - name: LEROY
+    distance_km: 16.78
+  - name: COLONY
+    distance_km: 16.9
+- country: US
+  region: KS
+  name: Westwood
+  lat: '39.0394'
+  long: "-94.6156"
+  nearby_rate_centers:
+  - name: MELROSE
+    distance_km: 8.36
+  - name: KANSASCITY
+    distance_km: 8.54
+  - name: BETHEL
+    distance_km: 16.88
+- country: US
+  region: KS
+  name: Westwood Hills
+  lat: '39.0389'
+  long: "-94.6097"
+  nearby_rate_centers:
+  - name: MELROSE
+    distance_km: 8.68
+  - name: KANSASCITY
+    distance_km: 8.71
+  - name: BETHEL
+    distance_km: 17.27
+- country: US
+  region: KS
+  name: Wetmore
+  lat: '39.6357'
+  long: "-95.8112"
+  nearby_rate_centers:
+  - name: WETMORE
+    distance_km: 0.5
+  - name: NETAWAKA
+    distance_km: 9.17
+  - name: GOFF
+    distance_km: 11.26
+- country: US
+  region: KS
+  name: Wheaton
+  lat: '39.5020'
+  long: "-96.3189"
+  nearby_rate_centers:
+  - name: WHEATON
+    distance_km: 0.66
+  - name: ONAGA
+    distance_km: 13.2
+  - name: WESTMORELD
+    distance_km: 14.09
+- country: US
+  region: KS
+  name: White City
+  lat: '38.7938'
+  long: "-96.7349"
+  nearby_rate_centers:
+  - name: WHITE CITY
+    distance_km: 2.08
+  - name: DWIGHT
+    distance_km: 13.26
+  - name: DELAVAN
+    distance_km: 16.11
+- country: US
+  region: KS
+  name: White Cloud
+  lat: '39.9744'
+  long: "-95.2991"
+  nearby_rate_centers:
+  - name: WHITECLOUD
+    distance_km: 0.41
+  - name: HIGHLAND
+    distance_km: 13.19
+  - name: ROBINSON
+    distance_km: 19.96
+- country: US
+  region: KS
+  name: Whitewater
+  lat: '37.9636'
+  long: "-97.1460"
+  nearby_rate_centers:
+  - name: WHITEWATER
+    distance_km: 0.58
+  - name: POTWIN
+    distance_km: 11.85
+  - name: BENTON
+    distance_km: 19.3
+- country: US
+  region: KS
+  name: Whiting
+  lat: '39.5878'
+  long: "-95.6112"
+  nearby_rate_centers:
+  - name: WHITING
+    distance_km: 0.36
+  - name: NETAWAKA
+    distance_km: 8.97
+  - name: MUSCOTAH
+    distance_km: 9.17
+- country: US
+  region: KS
+  name: Wichita
+  lat: '37.6895'
+  long: "-97.3443"
+  nearby_rate_centers:
+  - name: WICHITA
+    distance_km: 0.92
+  - name: WICHITJKSN
+    distance_km: 9.89
+  - name: WICHITPKVW
+    distance_km: 12.2
+- country: US
+  region: KS
+  name: Willard
+  lat: '39.0941'
+  long: "-95.9427"
+  nearby_rate_centers:
+  - name: ROSSVILLE
+    distance_km: 5.06
+  - name: SILVERLAKE
+    distance_km: 7.09
+  - name: TOPEKAGFLD
+    distance_km: 13.0
+- country: US
+  region: KS
+  name: Williamsburg
+  lat: '38.4807'
+  long: "-95.4681"
+  nearby_rate_centers:
+  - name: WILLIAMSBG
+    distance_km: 0.34
+  - name: QUENEMO
+    distance_km: 12.82
+  - name: POMONA
+    distance_km: 14.08
+- country: US
+  region: KS
+  name: Williamstown
+  lat: '39.0642'
+  long: "-95.3324"
+  nearby_rate_centers:
+  - name: PERRY
+    distance_km: 5.47
+  - name: LECOMPTON
+    distance_km: 6.54
+  - name: LAWRENCE
+    distance_km: 13.36
+- country: US
+  region: KS
+  name: Willis
+  lat: '39.7226'
+  long: "-95.5058"
+  nearby_rate_centers:
+  - name: WILLIS
+    distance_km: 0.7
+  - name: HORTON
+    distance_km: 6.26
+  - name: EVEREST
+    distance_km: 8.89
+- country: US
+  region: KS
+  name: Willowbrook
+  lat: '38.1012'
+  long: "-97.9919"
+  nearby_rate_centers:
+  - name: HUTCHINSON
+    distance_km: 7.69
+  - name: NICKERSON
+    distance_km: 9.82
+  - name: PARTRIDGE
+    distance_km: 17.23
+- country: US
+  region: KS
+  name: Wilmore
+  lat: '37.3350'
+  long: "-99.2102"
+  nearby_rate_centers:
+  - name: WILMORE
+    distance_km: 0.38
+  - name: COLDWATER
+    distance_km: 13.28
+  - name: SUN CITY
+    distance_km: 27.24
+- country: US
+  region: KS
+  name: Wilroads Gardens
+  lat: '37.7153'
+  long: "-99.9269"
+  nearby_rate_centers:
+  - name: DODGE CITY
+    distance_km: 9.1
+  - name: FORD
+    distance_km: 17.92
+  - name: SPEARVILLE
+    distance_km: 21.21
+- country: US
+  region: KS
+  name: Wilsey
+  lat: '38.6357'
+  long: "-96.6764"
+  nearby_rate_centers:
+  - name: WILSEY
+    distance_km: 0.65
+  - name: DELAVAN
+    distance_km: 11.45
+  - name: COUNCILGRV
+    distance_km: 17.03
+- country: US
+  region: KS
+  name: Wilson
+  lat: '38.8255'
+  long: "-98.4750"
+  nearby_rate_centers:
+  - name: WILSON
+    distance_km: 0.09
+  - name: DORRANCE
+    distance_km: 10.31
+  - name: SYLVAN GRV
+    distance_km: 22.59
+- country: US
+  region: KS
+  name: Winchester
+  lat: '39.3226'
+  long: "-95.2688"
+  nearby_rate_centers:
+  - name: WINCHESTER
+    distance_km: 0.54
+  - name: NORTONVL
+    distance_km: 11.55
+  - name: OSKALOOSA
+    distance_km: 12.86
+- country: US
+  region: KS
+  name: Windom
+  lat: '38.3841'
+  long: "-97.9102"
+  nearby_rate_centers:
+  - name: WINDOM
+    distance_km: 0.22
+  - name: LITTLE RIV
+    distance_km: 9.58
+  - name: CONWAY
+    distance_km: 11.1
+- country: US
+  region: KS
+  name: Winfield
+  lat: '37.2740'
+  long: "-96.9500"
+  nearby_rate_centers:
+  - name: WINFIELD
+    distance_km: 5.26
+  - name: BURDEN
+    distance_km: 18.33
+  - name: UDALL
+    distance_km: 18.86
+- country: US
+  region: KS
+  name: Winona
+  lat: '39.0618'
+  long: "-101.2449"
+  nearby_rate_centers:
+  - name: WINONA
+    distance_km: 0.44
+  - name: RUSSELLSPG
+    distance_km: 16.35
+  - name: LEVANT
+    distance_km: 34.0
+- country: US
+  region: KS
+  name: Woodbine
+  lat: '38.7956'
+  long: "-96.9594"
+  nearby_rate_centers:
+  - name: WOODBINE
+    distance_km: 0.32
+  - name: NAVARRE
+    distance_km: 13.08
+  - name: HERINGTON
+    distance_km: 13.64
+- country: US
+  region: KS
+  name: Woodruff
+  lat: '39.9876'
+  long: "-99.4316"
+  nearby_rate_centers:
+  - name: WOODRUFF
+    distance_km: 1.39
+  - name: SOUTH ALMA
+    distance_km: 6.09
+  - name: LONGISLAND
+    distance_km: 9.44
+- country: US
+  region: KS
+  name: Woodston
+  lat: '39.4539'
+  long: "-99.0981"
+  nearby_rate_centers:
+  - name: WOODSTON
+    distance_km: 0.31
+  - name: ALTON
+    distance_km: 12.58
+  - name: STOCKTON
+    distance_km: 14.79
+- country: US
+  region: KS
+  name: Wright
+  lat: '37.7753'
+  long: "-99.8905"
+  nearby_rate_centers:
+  - name: DODGE CITY
+    distance_km: 11.1
+  - name: SPEARVILLE
+    distance_km: 14.64
+  - name: FORD
+    distance_km: 20.01
+- country: US
+  region: KS
+  name: Yale
+  lat: '37.4901'
+  long: "-94.6470"
+  nearby_rate_centers:
+  - name: MULBERRY
+    distance_km: 7.67
+  - name: ARMA
+    distance_km: 8.22
+  - name: PITTSBURG
+    distance_km: 10.41
+- country: US
+  region: KS
+  name: Yates Center
+  lat: '37.8668'
+  long: "-95.7539"
+  nearby_rate_centers:
+  - name: YATES CTR
+    distance_km: 2.64
+  - name: BUFFALO
+    distance_km: 18.4
+  - name: TORONTO
+    distance_km: 18.86
+- country: US
+  region: KS
+  name: Yoder
+  lat: '37.9455'
+  long: "-97.8682"
+  nearby_rate_centers:
+  - name: HAVEN
+    distance_km: 8.29
+  - name: HUTCHINSON
+    distance_km: 13.25
+  - name: MOUNT HOPE
+    distance_km: 19.42
+  - name: MOUNT HOPE METRO
+    distance_km: 19.42
+- country: US
+  region: KS
+  name: Zeandale
+  lat: '39.1627'
+  long: "-96.4279"
+  nearby_rate_centers:
+  - name: ST GEORGE
+    distance_km: 4.29
+  - name: WAMEGO
+    distance_km: 11.62
+  - name: MANHATTAN
+    distance_km: 12.75
+- country: US
+  region: KS
+  name: Zenda
+  lat: '37.4440'
+  long: "-98.2819"
+  nearby_rate_centers:
+  - name: ZENDA
+    distance_km: 0.77
+  - name: NASHVILLE
+    distance_km: 11.91
+  - name: ATTICA
+    distance_km: 22.79
+- country: US
+  region: KS
+  name: Zurich
+  lat: '39.2322'
+  long: "-99.4347"
+  nearby_rate_centers:
+  - name: ZURICH
+    distance_km: 0.89
+  - name: PLAINVILLE
+    distance_km: 11.63
+  - name: PALCO
+    distance_km: 11.71

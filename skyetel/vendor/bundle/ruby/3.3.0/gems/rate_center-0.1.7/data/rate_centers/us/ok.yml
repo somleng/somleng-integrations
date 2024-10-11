@@ -1,0 +1,8906 @@
+---
+rate_centers:
+- country: US
+  region: OK
+  exchange: '146380'
+  name: ACHILLE
+  full_name: Achille
+  lata: '536'
+  ilec_name: CHEROKEE TEL. CO.
+  lat: '33.832478'
+  long: "-96.386518"
+  closest_city:
+    name: Achille
+    distance_km: 0.41
+- country: US
+  region: OK
+  exchange: '146390'
+  name: ADA
+  full_name: Ada
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.771703'
+  long: "-96.674179"
+  closest_city:
+    name: Ada
+    distance_km: 0.83
+- country: US
+  region: OK
+  exchange: '146400'
+  name: ADAIR
+  full_name: Adair
+  lata: '538'
+  ilec_name: OKLAHOMA COMMUNICATION SYSTEM, INC.
+  lat: '36.443453'
+  long: "-95.26654"
+  closest_city:
+    name: Adair
+    distance_km: 0.99
+- country: US
+  region: OK
+  exchange: '146410'
+  name: ADAMS
+  full_name: Adams
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat: '36.757937'
+  long: "-101.085486"
+  closest_city:
+    name: Adams
+    distance_km: 0.99
+- country: US
+  region: OK
+  exchange: '333795'
+  name: ADDINGTON
+  full_name: Addington
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '146420'
+  name: AFTON
+  full_name: Afton
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.695066'
+  long: "-94.960523"
+  closest_city:
+    name: Afton
+    distance_km: 0.31
+- country: US
+  region: OK
+  exchange: '146430'
+  name: AGRA
+  full_name: Agra
+  lata: '538'
+  ilec_name: CENTRAL OKLAHOMA TELEPHONE CO., L.L.C.
+  lat: '35.901597'
+  long: "-96.868037"
+  closest_city:
+    name: Agra
+    distance_km: 0.76
+- country: US
+  region: OK
+  exchange: '333796'
+  name: ALBERT
+  full_name: Albert
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '146440'
+  name: ALBION
+  full_name: Albion
+  lata: '538'
+  ilec_name: OKLAHOMA WESTERN TEL. CO.
+  lat: '34.667835'
+  long: "-95.098467"
+  closest_city:
+    name: Albion
+    distance_km: 0.63
+- country: US
+  region: OK
+  exchange: '334310'
+  name: ALDERSON
+  full_name: Alderson
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '146450'
+  name: ALEX
+  full_name: Alex
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.91722'
+  long: "-97.774501"
+  closest_city:
+    name: Alex
+    distance_km: 0.64
+- country: US
+  region: OK
+  exchange: '146460'
+  name: ALFALFA
+  full_name: Alfalfa
+  lata: '536'
+  ilec_name: CARNEGIE TEL. CO.
+  lat: '35.219969'
+  long: "-98.60943"
+  closest_city:
+    name: Eakly
+    distance_km: 10.68
+- country: US
+  region: OK
+  exchange: '146470'
+  name: ALINE
+  full_name: Aline
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.514495'
+  long: "-98.448937"
+  closest_city:
+    name: Aline
+    distance_km: 0.53
+- country: US
+  region: OK
+  exchange: '146480'
+  name: ALLEN
+  full_name: Allen
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.877784'
+  long: "-96.411227"
+  closest_city:
+    name: Allen
+    distance_km: 0.15
+- country: US
+  region: OK
+  exchange: '146490'
+  name: ALLUWE
+  full_name: Alluwe
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.61033'
+  long: "-95.488688"
+  closest_city:
+    name: New Alluwe
+    distance_km: 0.03
+- country: US
+  region: OK
+  exchange: '333801'
+  name: ALMA
+  full_name: Alma
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334312'
+  name: ALSUMA
+  full_name: Alsuma
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333802'
+  name: ALTONA
+  full_name: Altona
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '146500'
+  name: ALTUS
+  full_name: Altus
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.639624'
+  long: "-99.334525"
+  closest_city:
+    name: Altus
+    distance_km: 3.21
+- country: US
+  region: OK
+  exchange: '146510'
+  name: ALVA
+  full_name: Alva
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.800692'
+  long: "-98.66768"
+  closest_city:
+    name: Alva
+    distance_km: 1.27
+- country: US
+  region: OK
+  exchange: '333805'
+  name: AMBER
+  full_name: Amber
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333806'
+  name: AMERICA
+  full_name: America
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '146520'
+  name: AMES
+  full_name: Ames
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.242768'
+  long: "-98.200414"
+  closest_city:
+    name: Ames
+    distance_km: 1.37
+- country: US
+  region: OK
+  exchange: '333808'
+  name: AMORITA
+  full_name: Amorita
+  lata: '536'
+  ilec_name: SOUTH CENTRAL TEL ASSN INC
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '146530'
+  name: ANADARKO
+  full_name: Anadarko
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.07445'
+  long: "-98.245731"
+  closest_city:
+    name: Anadarko
+    distance_km: 1.06
+- country: US
+  region: OK
+  exchange: '146540'
+  name: ANTLERS
+  full_name: Antlers
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.233193'
+  long: "-95.620342"
+  closest_city:
+    name: Antlers
+    distance_km: 0.24
+- country: US
+  region: OK
+  exchange: '146550'
+  name: APACHE
+  full_name: Apache
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '34.889988'
+  long: "-98.367947"
+  closest_city:
+    name: Apache
+    distance_km: 0.96
+- country: US
+  region: OK
+  exchange: '333812'
+  name: ARAPAHO
+  full_name: Arapaho
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '146560'
+  name: ARCADIA
+  full_name: Arcadia
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.667052'
+  long: "-97.323533"
+  closest_city:
+    name: Arcadia
+    distance_km: 0.25
+- country: US
+  region: OK
+  exchange: '146570'
+  name: ARDMORE
+  full_name: Ardmore
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.175772'
+  long: "-97.130922"
+  closest_city:
+    name: Ardmore
+    distance_km: 2.18
+- country: US
+  region: OK
+  exchange: '146580'
+  name: ARDMRAIRPK
+  full_name: Ardmore Air Park
+  lata: '536'
+  ilec_name: CHICKASAW TEL. CO.
+  lat: '34.307319'
+  long: "-97.031842"
+  closest_city:
+    name: Gene Autry
+    distance_km: 1.05
+- country: US
+  region: OK
+  exchange: '148233'
+  name: ARKOMA
+  full_name: Arkoma
+  lata: '526'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333816'
+  name: ARMSTRONG
+  full_name: Armstrong
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '146590'
+  name: ARNETT
+  full_name: Arnett
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.131301'
+  long: "-99.767717"
+  closest_city:
+    name: Arnett
+    distance_km: 0.57
+- country: US
+  region: OK
+  exchange: '146600'
+  name: ARPELAR
+  full_name: Arpelar
+  lata: '538'
+  ilec_name: CHEROKEE TEL. CO.
+  lat: '34.950486'
+  long: "-95.964556"
+  closest_city:
+    name: Arpelar
+    distance_km: 1.73
+- country: US
+  region: OK
+  exchange: '146610'
+  name: ASHER
+  full_name: Asher
+  lata: '536'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '34.991827'
+  long: "-96.927477"
+  closest_city:
+    name: Asher
+    distance_km: 0.43
+- country: US
+  region: OK
+  exchange: '146620'
+  name: ASHLAND
+  full_name: Ashland
+  lata: '538'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '34.765757'
+  long: "-96.069138"
+  closest_city:
+    name: Ashland
+    distance_km: 0.18
+- country: US
+  region: OK
+  exchange: '146630'
+  name: ATOKA
+  full_name: Atoka
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.384381'
+  long: "-96.126693"
+  closest_city:
+    name: Atoka
+    distance_km: 0.49
+- country: US
+  region: OK
+  exchange: '146640'
+  name: ATWOOD
+  full_name: Atwood
+  lata: '536'
+  ilec_name: CHEROKEE TEL. CO.
+  lat: '34.957249'
+  long: "-96.335637"
+  closest_city:
+    name: Atwood
+    distance_km: 0.28
+- country: US
+  region: OK
+  exchange: '146650'
+  name: AVANT
+  full_name: Avant
+  lata: '538'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '36.490969'
+  long: "-96.069094"
+  closest_city:
+    name: Avant
+    distance_km: 2.17
+- country: US
+  region: OK
+  exchange: '333821'
+  name: AVARD
+  full_name: Avard
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334317'
+  name: BACHE
+  full_name: Bache
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334783'
+  name: BAKER
+  full_name: Baker
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '146660'
+  name: BALKO
+  full_name: Balko
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat: '36.633512'
+  long: "-100.685924"
+  closest_city:
+    name: Beaver
+    distance_km: 24.83
+- country: US
+  region: OK
+  exchange: '333822'
+  name: BANNER
+  full_name: Banner
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '146670'
+  name: BARNSDALL
+  full_name: Barnsdall
+  lata: '538'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '36.558052'
+  long: "-96.164298"
+  closest_city:
+    name: Barnsdall
+    distance_km: 2.33
+- country: US
+  region: OK
+  exchange: '146680'
+  name: BARON
+  full_name: Baron
+  lata: '538'
+  ilec_name: OKLAHOMA WINDSTREAM, INC.
+  lat: '35.923828'
+  long: "-94.602248"
+  closest_city:
+    name: Baron
+    distance_km: 0.98
+- country: US
+  region: OK
+  exchange: '146690'
+  name: BARTLESVL
+  full_name: Bartlesville
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.745422'
+  long: "-95.975673"
+  closest_city:
+    name: Bartlesville
+    distance_km: 2.86
+- country: US
+  region: OK
+  exchange: '146700'
+  name: BATTIEST
+  full_name: Battiest
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '34.402287'
+  long: "-94.932893"
+  closest_city:
+    name: Nashoba
+    distance_km: 27.27
+- country: US
+  region: OK
+  exchange: '334321'
+  name: BEARDEN
+  full_name: Bearden
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '146710'
+  name: BEAVER
+  full_name: Beaver
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat: '36.812261'
+  long: "-100.52173"
+  closest_city:
+    name: Beaver
+    distance_km: 0.35
+- country: US
+  region: OK
+  exchange: '146720'
+  name: BEGGS
+  full_name: Beggs
+  lata: '538'
+  ilec_name: BEGGS TEL. CO., INC.
+  lat: '35.741157'
+  long: "-96.076234"
+  closest_city:
+    name: Beggs
+    distance_km: 5.87
+- country: US
+  region: OK
+  exchange: '334323'
+  name: BENGAL
+  full_name: Bengal
+  lata: '538'
+  ilec_name: OKLAHOMA WESTERN TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '146730'
+  name: BENNINGTON
+  full_name: Bennington
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.0265'
+  long: "-96.03473"
+  closest_city:
+    name: Bennington
+    distance_km: 2.54
+- country: US
+  region: OK
+  exchange: '333825'
+  name: BERLIN
+  full_name: Berlin
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334324'
+  name: BERNICE
+  full_name: Bernice
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '146740'
+  name: BESSIE
+  full_name: Bessie
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.383826'
+  long: "-98.989484"
+  closest_city:
+    name: Bessie
+    distance_km: 0.18
+- country: US
+  region: OK
+  exchange: '146750'
+  name: BETHANY
+  full_name: Bethany
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.490689'
+  long: "-97.63882"
+  closest_city:
+    name: Bethany
+    distance_km: 1.84
+- country: US
+  region: OK
+  exchange: '333828'
+  name: BETHEL
+  full_name: Bethel
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333829'
+  name: BETHEL ACR
+  full_name: Bethel Acres
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '146760'
+  name: BIG CABIN
+  full_name: Big Cabin
+  lata: '538'
+  ilec_name: ATLAS TEL. CO.
+  lat: '36.54148'
+  long: "-95.215168"
+  closest_city:
+    name: Big Cabin
+    distance_km: 0.62
+- country: US
+  region: OK
+  exchange: '146770'
+  name: BILLINGS
+  full_name: Billings
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.529303'
+  long: "-97.445028"
+  closest_city:
+    name: Billings
+    distance_km: 0.91
+- country: US
+  region: OK
+  exchange: '146780'
+  name: BINGER
+  full_name: Binger
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.309956'
+  long: "-98.345295"
+  closest_city:
+    name: Binger
+    distance_km: 0.21
+- country: US
+  region: OK
+  exchange: '333832'
+  name: BISON
+  full_name: Bison
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '146790'
+  name: BIXBY
+  full_name: Bixby
+  lata: '538'
+  ilec_name: BIXBY TEL. CO., INC.
+  lat: '35.941243'
+  long: "-95.882891"
+  closest_city:
+    name: Bixby
+    distance_km: 0.66
+- country: US
+  region: OK
+  exchange: '146800'
+  name: BIXBYNORTH
+  full_name: Bixby North
+  lata: '538'
+  ilec_name: BIXBY TEL. CO., INC.
+  lat: '35.995727'
+  long: "-95.91023"
+  closest_city:
+    name: Jenks
+    distance_km: 5.71
+- country: US
+  region: OK
+  exchange: '146810'
+  name: BLACKBURN
+  full_name: Blackburn
+  lata: '538'
+  ilec_name: CIMARRON TEL. CO.
+  lat: '36.367539'
+  long: "-96.59909"
+  closest_city:
+    name: Blackburn
+    distance_km: 0.66
+- country: US
+  region: OK
+  exchange: '146820'
+  name: BLACKWELL
+  full_name: Blackwell
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.802173'
+  long: "-97.286135"
+  closest_city:
+    name: Blackwell
+    distance_km: 1.32
+- country: US
+  region: OK
+  exchange: '146830'
+  name: BLAIR
+  full_name: Blair
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.78327'
+  long: "-99.33501"
+  closest_city:
+    name: Blair
+    distance_km: 0.36
+- country: US
+  region: OK
+  exchange: '146840'
+  name: BLANCHARD
+  full_name: Blanchard
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '35.1423'
+  long: "-97.655177"
+  closest_city:
+    name: Blanchard
+    distance_km: 1.21
+- country: US
+  region: OK
+  exchange: '334329'
+  name: BLANCO
+  full_name: Blanco
+  lata: '538'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334330'
+  name: BLOCKER
+  full_name: Blocker
+  lata: '538'
+  ilec_name: CROSS TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333836'
+  name: BLUE
+  full_name: Blue
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '146850'
+  name: BLUEJACKET
+  full_name: Bluejacket
+  lata: '538'
+  ilec_name: ATLAS TEL. CO.
+  lat: '36.799522'
+  long: "-95.073"
+  closest_city:
+    name: Bluejacket
+    distance_km: 0.12
+- country: US
+  region: OK
+  exchange: '146860'
+  name: BOISE CITY
+  full_name: Boise City
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat: '36.733575'
+  long: "-102.515032"
+  closest_city:
+    name: Boise City
+    distance_km: 0.55
+- country: US
+  region: OK
+  exchange: '146870'
+  name: BOKCHITO
+  full_name: Bokchito
+  lata: '536'
+  ilec_name: CHEROKEE TEL. CO.
+  lat: '34.018048'
+  long: "-96.140421"
+  closest_city:
+    name: Bokchito
+    distance_km: 0.83
+- country: US
+  region: OK
+  exchange: '146880'
+  name: BOKOSHE
+  full_name: Bokoshe
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.187282'
+  long: "-94.787229"
+  closest_city:
+    name: Bokoshe
+    distance_km: 0.45
+- country: US
+  region: OK
+  exchange: '146890'
+  name: BOLEY
+  full_name: Boley
+  lata: '538'
+  ilec_name: CENTRAL OKLAHOMA TELEPHONE CO., L.L.C.
+  lat: '35.498356'
+  long: "-96.484222"
+  closest_city:
+    name: Boley
+    distance_km: 0.98
+- country: US
+  region: OK
+  exchange: '146900'
+  name: BOSWELL
+  full_name: Boswell
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.029904'
+  long: "-95.871705"
+  closest_city:
+    name: Boswell
+    distance_km: 0.38
+- country: US
+  region: OK
+  exchange: '146910'
+  name: BOWLEGS
+  full_name: Bowlegs
+  lata: '536'
+  ilec_name: POTTAWATOMIE TEL. CO.
+  lat: '35.150124'
+  long: "-96.668882"
+  closest_city:
+    name: Bowlegs
+    distance_km: 0.32
+- country: US
+  region: OK
+  exchange: '334334'
+  name: BOWRING
+  full_name: Bowring
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '146920'
+  name: BOYNTON
+  full_name: Boynton
+  lata: '538'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '35.651154'
+  long: "-95.651923"
+  closest_city:
+    name: Boynton
+    distance_km: 0.23
+- country: US
+  region: OK
+  exchange: '146930'
+  name: BRADLEY
+  full_name: Bradley
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '34.876274'
+  long: "-97.710064"
+  closest_city:
+    name: Bradley
+    distance_km: 0.22
+- country: US
+  region: OK
+  exchange: '146940'
+  name: BRAGGS
+  full_name: Braggs
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.664831'
+  long: "-95.198528"
+  closest_city:
+    name: Braggs
+    distance_km: 0.16
+- country: US
+  region: OK
+  exchange: '146950'
+  name: BRAMAN
+  full_name: Braman
+  lata: '536'
+  ilec_name: KANOKLA TEL ASSN
+  lat: '36.927637'
+  long: "-97.33498"
+  closest_city:
+    name: Braman
+    distance_km: 0.45
+- country: US
+  region: OK
+  exchange: '333842'
+  name: BRAY
+  full_name: Bray
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '146960'
+  name: BRECKENRDG
+  full_name: Breckinridge
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.436201'
+  long: "-97.729166"
+  closest_city:
+    name: Breckenridge
+    distance_km: 2.88
+- country: US
+  region: OK
+  exchange: '333844'
+  name: BRIDGEPORT
+  full_name: Bridgeport
+  lata: '536'
+  ilec_name: HINTON TEL. CO. OF HINTON OK, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333845'
+  name: BRINKMAN
+  full_name: Brinkman
+  lata: '536'
+  ilec_name: SOUTHWEST OKLAHOMA TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '146970'
+  name: BRISTOW
+  full_name: Bristow
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.832301'
+  long: "-96.39035"
+  closest_city:
+    name: Bristow
+    distance_km: 0.39
+- country: US
+  region: OK
+  exchange: '146980'
+  name: BRITTON
+  full_name: Britton
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.550443'
+  long: "-97.531448"
+  closest_city:
+    name: Nichols Hills
+    distance_km: 1.25
+- country: US
+  region: OK
+  exchange: '146990'
+  name: BROKENARRW
+  full_name: Broken Arrow
+  lata: '538'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '36.050241'
+  long: "-95.790388"
+  closest_city:
+    name: Broken Arrow
+    distance_km: 1.62
+- country: US
+  region: OK
+  exchange: '147000'
+  name: BROKEN BOW
+  full_name: Broken Bow
+  lata: '536'
+  ilec_name: PINE TEL. CO.
+  lat: '34.025783'
+  long: "-94.741152"
+  closest_city:
+    name: Broken Bow
+    distance_km: 0.4
+- country: US
+  region: OK
+  exchange: '147010'
+  name: BROMIDE
+  full_name: Bromide
+  lata: '536'
+  ilec_name: MID-AMERICA TEL., INC.
+  lat: '34.415546'
+  long: "-96.494897"
+  closest_city:
+    name: Bromide
+    distance_km: 0.31
+- country: US
+  region: OK
+  exchange: '333849'
+  name: BROOKSVL
+  full_name: Brooksville
+  lata: '536'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147020'
+  name: BRYANS COR
+  full_name: Bryans Corner
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat: '36.609609'
+  long: "-100.841731"
+  closest_city:
+    name: Adams
+    distance_km: 26.33
+- country: US
+  region: OK
+  exchange: '147030'
+  name: BUFFALO
+  full_name: Buffalo
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.832587'
+  long: "-99.636217"
+  closest_city:
+    name: Buffalo
+    distance_km: 1.06
+- country: US
+  region: OK
+  exchange: '147040'
+  name: BUFFALOVLY
+  full_name: Buffalo Valley
+  lata: '538'
+  ilec_name: OKLAHOMA WESTERN TEL. CO.
+  lat: '34.758731'
+  long: "-95.227277"
+  closest_city:
+    name: Tuskahoma
+    distance_km: 15.34
+- country: US
+  region: OK
+  exchange: '334341'
+  name: BUNCH
+  full_name: Bunch
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147050'
+  name: BURBANK
+  full_name: Burbank
+  lata: '538'
+  ilec_name: TOTAH COMMUNICATIONS, INC.
+  lat: '36.701741'
+  long: "-96.732628"
+  closest_city:
+    name: Burbank
+    distance_km: 0.66
+- country: US
+  region: OK
+  exchange: '147060'
+  name: BURLINGTON
+  full_name: Burlington
+  lata: '536'
+  ilec_name: SOUTH CENTRAL TEL ASSN INC
+  lat: '36.90179'
+  long: "-98.417451"
+  closest_city:
+    name: Burlington
+    distance_km: 0.57
+- country: US
+  region: OK
+  exchange: '333852'
+  name: BURNEYVL
+  full_name: Burneyville
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147070'
+  name: BURNS FLAT
+  full_name: Burns Flat
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '35.33193'
+  long: "-99.157182"
+  closest_city:
+    name: Burns Flat
+    distance_km: 3.01
+- country: US
+  region: OK
+  exchange: '147080'
+  name: BUTLER
+  full_name: Butler
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '35.634904'
+  long: "-99.192491"
+  closest_city:
+    name: Butler
+    distance_km: 0.6
+- country: US
+  region: OK
+  exchange: '147090'
+  name: BYARS
+  full_name: Byars
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.875039'
+  long: "-97.056523"
+  closest_city:
+    name: Byars
+    distance_km: 0.36
+- country: US
+  region: OK
+  exchange: '333856'
+  name: BYNG
+  full_name: Byng
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147100'
+  name: BYRON
+  full_name: Byron
+  lata: '536'
+  ilec_name: SOUTH CENTRAL TEL ASSN INC
+  lat: '36.901436'
+  long: "-98.288778"
+  closest_city:
+    name: Byron
+    distance_km: 0.5
+- country: US
+  region: OK
+  exchange: '147110'
+  name: CACHE
+  full_name: Cache
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.625377'
+  long: "-98.627854"
+  closest_city:
+    name: Cache
+    distance_km: 0.97
+- country: US
+  region: OK
+  exchange: '147120'
+  name: CADDO
+  full_name: Caddo
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.120605'
+  long: "-96.263047"
+  closest_city:
+    name: Caddo
+    distance_km: 0.56
+- country: US
+  region: OK
+  exchange: '147130'
+  name: CALERA
+  full_name: Calera
+  lata: '536'
+  ilec_name: CHEROKEE TEL. CO.
+  lat: '33.933436'
+  long: "-96.432413"
+  closest_city:
+    name: Calera
+    distance_km: 0.45
+- country: US
+  region: OK
+  exchange: '147140'
+  name: CALUMET
+  full_name: Calumet
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '35.59761'
+  long: "-98.125295"
+  closest_city:
+    name: Calumet
+    distance_km: 0.42
+- country: US
+  region: OK
+  exchange: '147150'
+  name: CALVIN
+  full_name: Calvin
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.972928'
+  long: "-96.249361"
+  closest_city:
+    name: Calvin
+    distance_km: 0.75
+- country: US
+  region: OK
+  exchange: '147160'
+  name: CAMARGO
+  full_name: Camargo
+  lata: '536'
+  ilec_name: DOBSON TEL. CO.
+  lat: '36.017454'
+  long: "-99.294193"
+  closest_city:
+    name: Camargo
+    distance_km: 0.51
+- country: US
+  region: OK
+  exchange: '147170'
+  name: CAMERON
+  full_name: Cameron
+  lata: '538'
+  ilec_name: OKLAHOMA WINDSTREAM, INC.
+  lat: '35.132651'
+  long: "-94.535363"
+  closest_city:
+    name: Cameron
+    distance_km: 0.64
+- country: US
+  region: OK
+  exchange: '147180'
+  name: CANADIAN
+  full_name: Canadian
+  lata: '538'
+  ilec_name: CANADIAN VALLEY TEL. CO.
+  lat: '35.173806'
+  long: "-95.651829"
+  closest_city:
+    name: Canadian
+    distance_km: 0.22
+- country: US
+  region: OK
+  exchange: '333864'
+  name: CANEY
+  full_name: Caney
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147190'
+  name: CANTON
+  full_name: Canton
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.050232'
+  long: "-98.5831"
+  closest_city:
+    name: Canton
+    distance_km: 0.71
+- country: US
+  region: OK
+  exchange: '147200'
+  name: CANUTE
+  full_name: Canute
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '35.416418'
+  long: "-99.286398"
+  closest_city:
+    name: Canute
+    distance_km: 0.97
+- country: US
+  region: OK
+  exchange: '147210'
+  name: CAPRON
+  full_name: Capron
+  lata: '536'
+  ilec_name: KANOKLA TEL ASSN
+  lat: '36.898941'
+  long: "-98.584356"
+  closest_city:
+    name: Capron
+    distance_km: 0.65
+- country: US
+  region: OK
+  exchange: '334345'
+  name: CARDIN
+  full_name: Cardin
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147220'
+  name: CARMEN
+  full_name: Carmen
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.582305'
+  long: "-98.459463"
+  closest_city:
+    name: Carmen
+    distance_km: 0.38
+- country: US
+  region: OK
+  exchange: '147230'
+  name: CARNEGIE
+  full_name: Carnegie
+  lata: '536'
+  ilec_name: CARNEGIE TEL. CO.
+  lat: '35.10826'
+  long: "-98.601401"
+  closest_city:
+    name: Carnegie
+    distance_km: 0.61
+- country: US
+  region: OK
+  exchange: '147240'
+  name: CARNEY
+  full_name: Carney
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.808991'
+  long: "-97.011153"
+  closest_city:
+    name: Carney
+    distance_km: 0.5
+- country: US
+  region: OK
+  exchange: '147250'
+  name: CARRIER
+  full_name: Carrier
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.474736'
+  long: "-98.022242"
+  closest_city:
+    name: Carrier
+    distance_km: 0.62
+- country: US
+  region: OK
+  exchange: '147260'
+  name: CARTER
+  full_name: Carter
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '35.217588'
+  long: "-99.508294"
+  closest_city:
+    name: Carter
+    distance_km: 0.43
+- country: US
+  region: OK
+  exchange: '147270'
+  name: CARTWRIGHT
+  full_name: Cartwright
+  lata: '536'
+  ilec_name: CHEROKEE TEL. CO.
+  lat: '33.851675'
+  long: "-96.573438"
+  closest_city:
+    name: Cartwright
+    distance_km: 1.23
+- country: US
+  region: OK
+  exchange: '147280'
+  name: CASHION
+  full_name: Cashion
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.797526'
+  long: "-97.678772"
+  closest_city:
+    name: Cashion
+    distance_km: 0.4
+- country: US
+  region: OK
+  exchange: '147290'
+  name: CASTLE
+  full_name: Castle
+  lata: '538'
+  ilec_name: CENTRAL OKLAHOMA TELEPHONE CO., L.L.C.
+  lat: '35.476145'
+  long: "-96.373833"
+  closest_city:
+    name: Castle
+    distance_km: 1.73
+- country: US
+  region: OK
+  exchange: '147300'
+  name: CATOOSA
+  full_name: Catoosa
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.189839'
+  long: "-95.743315"
+  closest_city:
+    name: Catoosa
+    distance_km: 2.33
+- country: US
+  region: OK
+  exchange: '147310'
+  name: CEDARCREST
+  full_name: Cedar Crest
+  lata: '538'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF OKLAHOMA COMPANY
+  lat: '36.106208'
+  long: "-95.208328"
+  closest_city:
+    name: Cedar Crest
+    distance_km: 3.68
+- country: US
+  region: OK
+  exchange: '147320'
+  name: CEDAR LAKE
+  full_name: Cedar Lake
+  lata: '536'
+  ilec_name: HINTON TEL. CO. OF HINTON OK, INC.
+  lat: '35.439776'
+  long: "-98.175871"
+  closest_city:
+    name: Cedar Lake
+    distance_km: 2.06
+- country: US
+  region: OK
+  exchange: '148230'
+  name: CEDARS
+  full_name: Cedars
+  lata: '526'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.275804'
+  long: "-94.441714"
+  closest_city:
+    name: Pocola
+    distance_km: 4.68
+- country: US
+  region: OK
+  exchange: '147330'
+  name: CEMENT
+  full_name: Cement
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.935259'
+  long: "-98.137382"
+  closest_city:
+    name: Cement
+    distance_km: 0.16
+- country: US
+  region: OK
+  exchange: '333877'
+  name: CENTRAHOMA
+  full_name: Centrahoma
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333878'
+  name: CENTRAL HI
+  full_name: Central High
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334349'
+  name: CENTRALIA
+  full_name: Centralia
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333879'
+  name: CESTOS
+  full_name: Cestos
+  lata: '536'
+  ilec_name: DOBSON TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147340'
+  name: CHANDLER
+  full_name: Chandler
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.699525'
+  long: "-96.876599"
+  closest_city:
+    name: Chandler
+    distance_km: 2.92
+- country: US
+  region: OK
+  exchange: '147350'
+  name: CHATTANOGA
+  full_name: Chattanooga
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '34.423807'
+  long: "-98.649354"
+  closest_city:
+    name: Chattanooga
+    distance_km: 0.43
+- country: US
+  region: OK
+  exchange: '147360'
+  name: CHECOTAH
+  full_name: Checotah
+  lata: '538'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '35.475612'
+  long: "-95.522123"
+  closest_city:
+    name: Checotah
+    distance_km: 0.71
+- country: US
+  region: OK
+  exchange: '147370'
+  name: CHELSEA
+  full_name: Chelsea
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.536424'
+  long: "-95.4344"
+  closest_city:
+    name: Chelsea
+    distance_km: 0.48
+- country: US
+  region: OK
+  exchange: '147380'
+  name: CHEROKEE
+  full_name: Cherokee
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.757193'
+  long: "-98.351691"
+  closest_city:
+    name: Cherokee
+    distance_km: 0.9
+- country: US
+  region: OK
+  exchange: '147390'
+  name: CHESTER
+  full_name: Chester
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.208055'
+  long: "-98.915482"
+  closest_city:
+    name: Chester
+    distance_km: 1.05
+- country: US
+  region: OK
+  exchange: '147400'
+  name: CHEYENNE
+  full_name: Cheyenne
+  lata: '536'
+  ilec_name: DOBSON TEL. CO.
+  lat: '35.61476'
+  long: "-99.676208"
+  closest_city:
+    name: Cheyenne
+    distance_km: 0.43
+- country: US
+  region: OK
+  exchange: '147410'
+  name: CHICKASHA
+  full_name: Chickasha
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.050358'
+  long: "-97.939233"
+  closest_city:
+    name: Chickasha
+    distance_km: 1.29
+- country: US
+  region: OK
+  exchange: '333339'
+  name: CHILOCSCHL
+  full_name: Chilocco School
+  lata: '532'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147420'
+  name: CHOCTAW
+  full_name: Choctaw
+  lata: '536'
+  ilec_name: OKLAHOMA COMMUNICATION SYSTEM, INC.
+  lat: '35.498565'
+  long: "-97.266156"
+  closest_city:
+    name: Choctaw
+    distance_km: 2.04
+- country: US
+  region: OK
+  exchange: '147430'
+  name: CHOUTEAU
+  full_name: Chouteau
+  lata: '538'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF OKLAHOMA COMPANY
+  lat: '36.182378'
+  long: "-95.341055"
+  closest_city:
+    name: Chouteau
+    distance_km: 0.85
+- country: US
+  region: OK
+  exchange: '333887'
+  name: CIMRN CTY
+  full_name: Cimarron City
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147440'
+  name: CLAREMORE
+  full_name: Claremore
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.311113'
+  long: "-95.613098"
+  closest_city:
+    name: Claremore
+    distance_km: 0.5
+- country: US
+  region: OK
+  exchange: '147450'
+  name: CLARITA
+  full_name: Clarita
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '34.483968'
+  long: "-96.431297"
+  closest_city:
+    name: Clarita
+    distance_km: 0.52
+- country: US
+  region: OK
+  exchange: '147460'
+  name: CLAYTON
+  full_name: Clayton
+  lata: '538'
+  ilec_name: OKLAHOMA WESTERN TEL. CO.
+  lat: '34.584376'
+  long: "-95.346479"
+  closest_city:
+    name: Clayton
+    distance_km: 0.89
+- country: US
+  region: OK
+  exchange: '334788'
+  name: CLEARLAKE
+  full_name: Clear Lake
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333889'
+  name: CLEARVIEW
+  full_name: Clearview
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333890'
+  name: CLEBIT
+  full_name: Clebit
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333891'
+  name: CLEMSCOT
+  full_name: Clemscot
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147470'
+  name: CLEO SPG
+  full_name: Cleo Springs
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.409786'
+  long: "-98.431557"
+  closest_city:
+    name: Cleo Springs
+    distance_km: 0.96
+- country: US
+  region: OK
+  exchange: '334355'
+  name: CLEORA
+  full_name: Cleora
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147480'
+  name: CLEVELAND
+  full_name: Cleveland
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.3135'
+  long: "-96.466672"
+  closest_city:
+    name: Cleveland
+    distance_km: 1.44
+- country: US
+  region: OK
+  exchange: '147490'
+  name: CLINTON
+  full_name: Clinton
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.514954'
+  long: "-98.965101"
+  closest_city:
+    name: Clinton
+    distance_km: 1.02
+- country: US
+  region: OK
+  exchange: '333894'
+  name: CLTNSHMNAF
+  full_name: Clinton Sherman Air Force Base
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333895'
+  name: CLYDE
+  full_name: Clyde
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147500'
+  name: COALGATE
+  full_name: Coalgate
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.54087'
+  long: "-96.217139"
+  closest_city:
+    name: Coalgate
+    distance_km: 1.01
+- country: US
+  region: OK
+  exchange: '147510'
+  name: COLBERT
+  full_name: Colbert
+  lata: '536'
+  ilec_name: CHEROKEE TEL. CO.
+  lat: '33.856428'
+  long: "-96.499757"
+  closest_city:
+    name: Colbert
+    distance_km: 0.59
+- country: US
+  region: OK
+  exchange: '147520'
+  name: COLCORD
+  full_name: Colcord
+  lata: '526'
+  ilec_name: BRIGHTSPEED OF NORTHWEST ARKANSAS, LLC
+  lat: '36.257198'
+  long: "-94.703167"
+  closest_city:
+    name: Colcord
+    distance_km: 1.28
+- country: US
+  region: OK
+  exchange: '333898'
+  name: COLE
+  full_name: Cole
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333899'
+  name: COLEMAN
+  full_name: Coleman
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147530'
+  name: COLLINSVL
+  full_name: Collinsville
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.362982'
+  long: "-95.838941"
+  closest_city:
+    name: Collinsville
+    distance_km: 2.22
+- country: US
+  region: OK
+  exchange: '147540'
+  name: COLONY
+  full_name: Colony
+  lata: '536'
+  ilec_name: HINTON TEL. CO. OF HINTON OK, INC.
+  lat: '35.354156'
+  long: "-98.673084"
+  closest_city:
+    name: Colony
+    distance_km: 0.63
+- country: US
+  region: OK
+  exchange: '147550'
+  name: COMANCHE
+  full_name: Comanche
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '34.368064'
+  long: "-97.968141"
+  closest_city:
+    name: Comanche
+    distance_km: 2.03
+- country: US
+  region: OK
+  exchange: '147560'
+  name: COMMERCE
+  full_name: Commerce
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.933354'
+  long: "-94.877419"
+  closest_city:
+    name: Commerce
+    distance_km: 1.43
+- country: US
+  region: OK
+  exchange: '333902'
+  name: CONCHO
+  full_name: Concho
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147570'
+  name: CONNERVL
+  full_name: Connerville
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '34.442074'
+  long: "-96.631624"
+  closest_city:
+    name: Connerville
+    distance_km: 0.43
+- country: US
+  region: OK
+  exchange: '334359'
+  name: COOKSON
+  full_name: Cookson
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333904'
+  name: COOPERTON
+  full_name: Cooperton
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147580'
+  name: COPAN
+  full_name: Copan
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.899683'
+  long: "-95.92715"
+  closest_city:
+    name: Copan
+    distance_km: 0.18
+- country: US
+  region: OK
+  exchange: '147590'
+  name: CORDELL
+  full_name: Cordell
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.290057'
+  long: "-98.990637"
+  closest_city:
+    name: New Cordell
+    distance_km: 0.97
+- country: US
+  region: OK
+  exchange: '147600'
+  name: CORN
+  full_name: Corn
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '35.384404'
+  long: "-98.785151"
+  closest_city:
+    name: Corn
+    distance_km: 0.67
+- country: US
+  region: OK
+  exchange: '333907'
+  name: CORNISH
+  full_name: Cornish
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147610'
+  name: COUNCIL HL
+  full_name: Council Hill
+  lata: '538'
+  ilec_name: OKLATEL COMMUNICATIONS, INC.
+  lat: '35.559958'
+  long: "-95.649726"
+  closest_city:
+    name: Council Hill
+    distance_km: 0.53
+- country: US
+  region: OK
+  exchange: '333908'
+  name: COUNTYLINE
+  full_name: County Line
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147620'
+  name: COVINGTON
+  full_name: Covington
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.309592'
+  long: "-97.582925"
+  closest_city:
+    name: Covington
+    distance_km: 0.4
+- country: US
+  region: OK
+  exchange: '147630'
+  name: COWETA
+  full_name: Coweta
+  lata: '538'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '35.956417'
+  long: "-95.648387"
+  closest_city:
+    name: Coweta
+    distance_km: 1.43
+- country: US
+  region: OK
+  exchange: '334363'
+  name: COWLINGTON
+  full_name: Cowlington
+  lata: '538'
+  ilec_name: CROSS TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333910'
+  name: COX CITY
+  full_name: Cox City
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148471'
+  name: COYLE
+  full_name: Coyle
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333912'
+  name: CRATERVLPK
+  full_name: Craterville Park
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333913'
+  name: CRAWFORD
+  full_name: Crawford
+  lata: '536'
+  ilec_name: DOBSON TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147640'
+  name: CRESCENT
+  full_name: Crescent
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '35.957861'
+  long: "-97.58916"
+  closest_city:
+    name: Crescent
+    distance_km: 0.84
+- country: US
+  region: OK
+  exchange: '147650'
+  name: CROMWELL
+  full_name: Cromwell
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.33821'
+  long: "-96.454725"
+  closest_city:
+    name: Cromwell
+    distance_km: 1.59
+- country: US
+  region: OK
+  exchange: '147660'
+  name: CROWDER
+  full_name: Crowder
+  lata: '538'
+  ilec_name: CANADIAN VALLEY TEL. CO.
+  lat: '35.123239'
+  long: "-95.665386"
+  closest_city:
+    name: Crowder
+    distance_km: 1.44
+- country: US
+  region: OK
+  exchange: '333916'
+  name: CRUSHER
+  full_name: Crusher
+  lata: '536'
+  ilec_name: CHICKASAW TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147670'
+  name: CUSHING
+  full_name: Cushing
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.982174'
+  long: "-96.779299"
+  closest_city:
+    name: Cushing
+    distance_km: 1.68
+- country: US
+  region: OK
+  exchange: '147680'
+  name: CUSTERCITY
+  full_name: Custer City
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '35.667626'
+  long: "-98.882489"
+  closest_city:
+    name: Custer City
+    distance_km: 0.58
+- country: US
+  region: OK
+  exchange: '147690'
+  name: CYRIL
+  full_name: Cyril
+  lata: '536'
+  ilec_name: OKLAHOMA COMMUNICATION SYSTEM, INC.
+  lat: '34.901134'
+  long: "-98.201278"
+  closest_city:
+    name: Cyril
+    distance_km: 0.33
+- country: US
+  region: OK
+  exchange: '147700'
+  name: DACOMA
+  full_name: Dacoma
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.665281'
+  long: "-98.566702"
+  closest_city:
+    name: Dacoma
+    distance_km: 0.69
+- country: US
+  region: OK
+  exchange: '333920'
+  name: DAISY
+  full_name: Daisy
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333921'
+  name: DALE
+  full_name: Dale
+  lata: '536'
+  ilec_name: MCLOUD TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147710'
+  name: DAVENPORT
+  full_name: Davenport
+  lata: '538'
+  ilec_name: CENTRAL OKLAHOMA TELEPHONE CO., L.L.C.
+  lat: '35.708669'
+  long: "-96.768724"
+  closest_city:
+    name: Davenport
+    distance_km: 0.39
+- country: US
+  region: OK
+  exchange: '147720'
+  name: DAVIDSON
+  full_name: Davidson
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '34.243417'
+  long: "-99.081159"
+  closest_city:
+    name: Davidson
+    distance_km: 0.32
+- country: US
+  region: OK
+  exchange: '147730'
+  name: DAVIS
+  full_name: Davis
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.50694'
+  long: "-97.120747"
+  closest_city:
+    name: Davis
+    distance_km: 6.4
+- country: US
+  region: OK
+  exchange: '334367'
+  name: DAWSON
+  full_name: Dawson
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147740'
+  name: DEER CREEK
+  full_name: Deer Creek
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.806819'
+  long: "-97.517639"
+  closest_city:
+    name: Deer Creek
+    distance_km: 0.17
+- country: US
+  region: OK
+  exchange: '333925'
+  name: DEL CITY
+  full_name: Del City
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147750'
+  name: DELAWARE
+  full_name: Delaware
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.77845'
+  long: "-95.642762"
+  closest_city:
+    name: Delaware
+    distance_km: 0.07
+- country: US
+  region: OK
+  exchange: '333926'
+  name: DELHI
+  full_name: Delhi
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147760'
+  name: DEPEW
+  full_name: Depew
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.802083'
+  long: "-96.509157"
+  closest_city:
+    name: Depew
+    distance_km: 1.98
+- country: US
+  region: OK
+  exchange: '147770'
+  name: DEVOL
+  full_name: Devol
+  lata: '536'
+  ilec_name: SANTA ROSA TEL COOP INC
+  lat: '34.20012'
+  long: "-98.586174"
+  closest_city:
+    name: Devol
+    distance_km: 0.56
+- country: US
+  region: OK
+  exchange: '334370'
+  name: DEWAR
+  full_name: Dewar
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147780'
+  name: DEWEY
+  full_name: Dewey
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.801736'
+  long: "-95.934298"
+  closest_city:
+    name: Dewey
+    distance_km: 1.17
+- country: US
+  region: OK
+  exchange: '147790'
+  name: DIBBLE
+  full_name: Dibble
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '35.035744'
+  long: "-97.634001"
+  closest_city:
+    name: Dibble
+    distance_km: 2.38
+- country: US
+  region: OK
+  exchange: '147800'
+  name: DILL CITY
+  full_name: Dill City
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '35.276635'
+  long: "-99.122585"
+  closest_city:
+    name: Dill City
+    distance_km: 1.14
+- country: US
+  region: OK
+  exchange: '147810'
+  name: DISNEY
+  full_name: Disney
+  lata: '538'
+  ilec_name: GRAND TEL. CO., INC.
+  lat: '36.480467'
+  long: "-94.981013"
+  closest_city:
+    name: Disney
+    distance_km: 3.46
+- country: US
+  region: OK
+  exchange: '147820'
+  name: DOUGHERTY
+  full_name: Dougherty
+  lata: '536'
+  ilec_name: CHICKASAW TEL. CO.
+  lat: '34.399379'
+  long: "-97.0531"
+  closest_city:
+    name: Dougherty
+    distance_km: 0.2
+- country: US
+  region: OK
+  exchange: '147830'
+  name: DOUGLAS
+  full_name: Douglas
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.257635'
+  long: "-97.66921"
+  closest_city:
+    name: Douglas
+    distance_km: 0.4
+- country: US
+  region: OK
+  exchange: '147840'
+  name: DOVER
+  full_name: Dover
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '35.981945'
+  long: "-97.911745"
+  closest_city:
+    name: Dover
+    distance_km: 0.09
+- country: US
+  region: OK
+  exchange: '334373'
+  name: DOW
+  full_name: Dow
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333933'
+  name: DRIFTWOOD
+  full_name: Driftwood
+  lata: '536'
+  ilec_name: SOUTH CENTRAL TEL ASSN INC
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147850'
+  name: DRUMMOND
+  full_name: Drummond
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.300911'
+  long: "-98.038613"
+  closest_city:
+    name: Drummond
+    distance_km: 0.28
+- country: US
+  region: OK
+  exchange: '147860'
+  name: DRUMRIGHT
+  full_name: Drumright
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.987456'
+  long: "-96.599608"
+  closest_city:
+    name: Drumright
+    distance_km: 0.38
+- country: US
+  region: OK
+  exchange: '147870'
+  name: DUKE
+  full_name: Duke
+  lata: '536'
+  ilec_name: SOUTHWEST OKLAHOMA TEL. CO.
+  lat: '34.666703'
+  long: "-99.565617"
+  closest_city:
+    name: East Duke
+    distance_km: 0.57
+- country: US
+  region: OK
+  exchange: '334375'
+  name: DUNBAR
+  full_name: Dunbar
+  lata: '538'
+  ilec_name: OKLAHOMA WESTERN TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147880'
+  name: DUNCAN
+  full_name: Duncan
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.495416'
+  long: "-97.96191"
+  closest_city:
+    name: Duncan
+    distance_km: 6.26
+- country: US
+  region: OK
+  exchange: '147890'
+  name: DURANT
+  full_name: Durant
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '33.995011'
+  long: "-96.378445"
+  closest_city:
+    name: Durant
+    distance_km: 1.28
+- country: US
+  region: OK
+  exchange: '333939'
+  name: DURHAM
+  full_name: Durham
+  lata: '536'
+  ilec_name: DOBSON TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147900'
+  name: DUSTIN
+  full_name: Dustin
+  lata: '538'
+  ilec_name: OKLATEL COMMUNICATIONS, INC.
+  lat: '35.274577'
+  long: "-96.031741"
+  closest_city:
+    name: Dustin
+    distance_km: 0.48
+- country: US
+  region: OK
+  exchange: '333940'
+  name: EAGLE CITY
+  full_name: Eagle City
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147910'
+  name: EAGLETOWN
+  full_name: Eagletown
+  lata: '536'
+  ilec_name: PINE TEL. CO.
+  lat: '34.033958'
+  long: "-94.568635"
+  closest_city:
+    name: Eagletown
+    distance_km: 0.87
+- country: US
+  region: OK
+  exchange: '147920'
+  name: EAKLY
+  full_name: Eakly
+  lata: '536'
+  ilec_name: HINTON TEL. CO. OF HINTON OK, INC.
+  lat: '35.307509'
+  long: "-98.556685"
+  closest_city:
+    name: Eakly
+    distance_km: 0.23
+- country: US
+  region: OK
+  exchange: '147930'
+  name: EARLSBORO
+  full_name: Earlsboro
+  lata: '536'
+  ilec_name: POTTAWATOMIE TEL. CO.
+  lat: '35.268435'
+  long: "-96.797979"
+  closest_city:
+    name: Earlsboro
+    distance_km: 6.65
+- country: US
+  region: OK
+  exchange: '333944'
+  name: EDDY
+  full_name: Eddy
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147940'
+  name: EDMOND
+  full_name: Edmond
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.6538'
+  long: "-97.481489"
+  closest_city:
+    name: Edmond
+    distance_km: 6.15
+- country: US
+  region: OK
+  exchange: '334377'
+  name: EDNA
+  full_name: Edna
+  lata: '538'
+  ilec_name: BEGGS TEL. CO., INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '147950'
+  name: EL RENO
+  full_name: El Reno
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.533584'
+  long: "-97.956493"
+  closest_city:
+    name: El Reno
+    distance_km: 1.35
+- country: US
+  region: OK
+  exchange: '147960'
+  name: ELDORADO
+  full_name: Eldorado
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.473967'
+  long: "-99.645833"
+  closest_city:
+    name: Eldorado
+    distance_km: 0.36
+- country: US
+  region: OK
+  exchange: '147970'
+  name: ELGIN
+  full_name: Elgin
+  lata: '536'
+  ilec_name: OKLAHOMA COMMUNICATION SYSTEM, INC.
+  lat: '34.77555'
+  long: "-98.289924"
+  closest_city:
+    name: Elgin
+    distance_km: 1.45
+- country: US
+  region: OK
+  exchange: '147980'
+  name: ELK CITY
+  full_name: Elk City
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.409713'
+  long: "-99.409307"
+  closest_city:
+    name: Elk City
+    distance_km: 3.22
+- country: US
+  region: OK
+  exchange: '147990'
+  name: ELMER
+  full_name: Elmer
+  lata: '536'
+  ilec_name: SANTA ROSA TEL COOP INC
+  lat: '34.481855'
+  long: "-99.352256"
+  closest_city:
+    name: Elmer
+    distance_km: 0.12
+- country: US
+  region: OK
+  exchange: '148000'
+  name: ELMORECITY
+  full_name: Elmore City
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '34.615904'
+  long: "-97.403301"
+  closest_city:
+    name: Elmore City
+    distance_km: 1.73
+- country: US
+  region: OK
+  exchange: '148010'
+  name: ELMOREWEST
+  full_name: Elmore West
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '34.635199'
+  long: "-97.567497"
+  closest_city:
+    name: Foster
+    distance_km: 7.81
+- country: US
+  region: OK
+  exchange: '334789'
+  name: ELMWOOD
+  full_name: Elmwood
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333953'
+  name: EMPIRE CTY
+  full_name: Empire City
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148020'
+  name: ENID
+  full_name: Enid
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.397439'
+  long: "-97.888459"
+  closest_city:
+    name: Enid
+    distance_km: 1.92
+- country: US
+  region: OK
+  exchange: '148030'
+  name: ENTERPRISE
+  full_name: Enterprise
+  lata: '538'
+  ilec_name: CROSS TEL. CO.
+  lat: '35.22398'
+  long: "-95.377097"
+  closest_city:
+    name: Enterprise
+    distance_km: 0.1
+- country: US
+  region: OK
+  exchange: '148040'
+  name: ERICK
+  full_name: Erick
+  lata: '536'
+  ilec_name: DOBSON TEL. CO.
+  lat: '35.218097'
+  long: "-99.866257"
+  closest_city:
+    name: Erick
+    distance_km: 0.35
+- country: US
+  region: OK
+  exchange: '333956'
+  name: ERIN SPRGS
+  full_name: Erin Springs
+  lata: '536'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333957'
+  name: ETOWAH
+  full_name: Etowah
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334379'
+  name: EUCHA
+  full_name: Eucha
+  lata: '538'
+  ilec_name: GRAND TEL. CO., INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148050'
+  name: EUFAULA
+  full_name: Eufaula
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.285535'
+  long: "-95.582776"
+  closest_city:
+    name: Eufaula
+    distance_km: 0.82
+- country: US
+  region: OK
+  exchange: '148060'
+  name: EVA
+  full_name: Eva
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat: '36.791817'
+  long: "-101.905561"
+  closest_city:
+    name: Hough
+    distance_km: 30.77
+- country: US
+  region: OK
+  exchange: '334381'
+  name: FAIR OAKS
+  full_name: Fair Oaks
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148070'
+  name: FAIRFAX
+  full_name: Fairfax
+  lata: '538'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '36.568367'
+  long: "-96.707229"
+  closest_city:
+    name: Fairfax
+    distance_km: 0.18
+- country: US
+  region: OK
+  exchange: '148080'
+  name: FAIRLAND
+  full_name: Fairland
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.752198'
+  long: "-94.849378"
+  closest_city:
+    name: Fairland
+    distance_km: 0.22
+- country: US
+  region: OK
+  exchange: '148090'
+  name: FAIRMONT
+  full_name: Fairmont
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.354621'
+  long: "-97.707634"
+  closest_city:
+    name: Fairmont
+    distance_km: 0.25
+- country: US
+  region: OK
+  exchange: '148100'
+  name: FAIRVIEW
+  full_name: Fairview
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.27079'
+  long: "-98.479127"
+  closest_city:
+    name: Fairview
+    distance_km: 0.2
+- country: US
+  region: OK
+  exchange: '333960'
+  name: FALLIS
+  full_name: Fallis
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148110'
+  name: FANSHAWE
+  full_name: Fanshawe
+  lata: '538'
+  ilec_name: OKLAHOMA WESTERN TEL. CO.
+  lat: '34.948972'
+  long: "-94.911096"
+  closest_city:
+    name: Fanshawe
+    distance_km: 5.87
+- country: US
+  region: OK
+  exchange: '148120'
+  name: FARGO
+  full_name: Fargo
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.375294'
+  long: "-99.626566"
+  closest_city:
+    name: Fargo
+    distance_km: 0.41
+- country: US
+  region: OK
+  exchange: '333962'
+  name: FARRIS
+  full_name: Farris
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333963'
+  name: FAXON
+  full_name: Faxon
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148130'
+  name: FAY
+  full_name: Fay
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '35.815354'
+  long: "-98.656892"
+  closest_city:
+    name: Fay
+    distance_km: 0.18
+- country: US
+  region: OK
+  exchange: '334385'
+  name: FEATHERSTN
+  full_name: Featherston
+  lata: '538'
+  ilec_name: CROSS TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334791'
+  name: FELT
+  full_name: Felt
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148140'
+  name: FELTWHLESS
+  full_name: Felt-Wheeless
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat: '36.633754'
+  long: "-102.81488"
+  closest_city:
+    name: Felt
+    distance_km: 8.03
+- country: US
+  region: OK
+  exchange: '333965'
+  name: FINLEY
+  full_name: Finley
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148150'
+  name: FITTSTOWN
+  full_name: Fittstown
+  lata: '536'
+  ilec_name: MID-AMERICA TEL., INC.
+  lat: '34.618425'
+  long: "-96.635207"
+  closest_city:
+    name: Fittstown
+    distance_km: 1.14
+- country: US
+  region: OK
+  exchange: '333967'
+  name: FITZHUGH
+  full_name: Fitzhugh
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148160'
+  name: FLETCHER
+  full_name: Fletcher
+  lata: '536'
+  ilec_name: OKLAHOMA COMMUNICATION SYSTEM, INC.
+  lat: '34.814736'
+  long: "-98.241746"
+  closest_city:
+    name: Fletcher
+    distance_km: 1.22
+- country: US
+  region: OK
+  exchange: '148170'
+  name: FLINT
+  full_name: Flint
+  lata: '538'
+  ilec_name: SALINA-SPAVINAW TEL. CO.
+  lat: '36.16974'
+  long: "-94.755698"
+  closest_city:
+    name: Flint Creek
+    distance_km: 1.32
+- country: US
+  region: OK
+  exchange: '148180'
+  name: FLORIS
+  full_name: Floris
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat: '36.867957'
+  long: "-100.697447"
+  closest_city:
+    name: Forgan
+    distance_km: 14.82
+- country: US
+  region: OK
+  exchange: '148190'
+  name: FORAKER
+  full_name: Foraker
+  lata: '538'
+  ilec_name: SHIDLER TEL. CO.
+  lat: '36.867824'
+  long: "-96.568676"
+  closest_city:
+    name: Foraker
+    distance_km: 0.56
+- country: US
+  region: OK
+  exchange: '333969'
+  name: FOREST PK
+  full_name: Forest Park
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148200'
+  name: FORGAN
+  full_name: Forgan
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat: '36.906303'
+  long: "-100.540625"
+  closest_city:
+    name: Forgan
+    distance_km: 0.24
+- country: US
+  region: OK
+  exchange: '148210'
+  name: FORT COBB
+  full_name: Fort Cobb
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.096479'
+  long: "-98.439176"
+  closest_city:
+    name: Fort Cobb
+    distance_km: 0.89
+- country: US
+  region: OK
+  exchange: '334390'
+  name: FT COFFEE
+  full_name: Fort Coffee
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148220'
+  name: FORTGIBSON
+  full_name: Fort Gibson
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.799048'
+  long: "-95.251417"
+  closest_city:
+    name: Fort Gibson
+    distance_km: 2.65
+- country: US
+  region: OK
+  exchange: '333971'
+  name: FORT SILL
+  full_name: Fort Sill
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148240'
+  name: FORTSUPPLY
+  full_name: Fort Supply
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.567325'
+  long: "-99.575189"
+  closest_city:
+    name: Fort Supply
+    distance_km: 0.55
+- country: US
+  region: OK
+  exchange: '148250'
+  name: FORTTOWSON
+  full_name: Fort Towson
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.017867'
+  long: "-95.267241"
+  closest_city:
+    name: Fort Towson
+    distance_km: 2.86
+- country: US
+  region: OK
+  exchange: '148260'
+  name: FOSS
+  full_name: Foss
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '35.458218'
+  long: "-99.165335"
+  closest_city:
+    name: Foss
+    distance_km: 1.03
+- country: US
+  region: OK
+  exchange: '333975'
+  name: FOSTER
+  full_name: Foster
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333976'
+  name: FOX
+  full_name: Fox
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334389'
+  name: FOYIL
+  full_name: Foyil
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333977'
+  name: FRANCIS
+  full_name: Francis
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148270'
+  name: FREDERICK
+  full_name: Frederick
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '34.390793'
+  long: "-99.014319"
+  closest_city:
+    name: Frederick
+    distance_km: 2.55
+- country: US
+  region: OK
+  exchange: '148280'
+  name: FREEDOM
+  full_name: Freedom
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.765382'
+  long: "-99.118205"
+  closest_city:
+    name: Freedom
+    distance_km: 0.58
+- country: US
+  region: OK
+  exchange: '148290'
+  name: GAGE
+  full_name: Gage
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.315604'
+  long: "-99.7567"
+  closest_city:
+    name: Gage
+    distance_km: 0.3
+- country: US
+  region: OK
+  exchange: '334391'
+  name: GANS
+  full_name: Gans
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148300'
+  name: GARBER
+  full_name: Garber
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.440281'
+  long: "-97.586516"
+  closest_city:
+    name: Garber
+    distance_km: 0.63
+- country: US
+  region: OK
+  exchange: '333982'
+  name: GARVIN
+  full_name: Garvin
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148310'
+  name: GATE
+  full_name: Gate
+  lata: '536'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat: '36.849987'
+  long: "-100.060875"
+  closest_city:
+    name: Gate
+    distance_km: 0.54
+- country: US
+  region: OK
+  exchange: '148320'
+  name: GEARY
+  full_name: Geary
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '35.624157'
+  long: "-98.317971"
+  closest_city:
+    name: Geary
+    distance_km: 4.3
+- country: US
+  region: OK
+  exchange: '148330'
+  name: GENE AUTRY
+  full_name: Gene Autry
+  lata: '536'
+  ilec_name: CHICKASAW TEL. CO.
+  lat: '34.285825'
+  long: "-97.042207"
+  closest_city:
+    name: Gene Autry
+    distance_km: 3.27
+- country: US
+  region: OK
+  exchange: '333986'
+  name: GERONIMO
+  full_name: Geronimo
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148340'
+  name: GERTY
+  full_name: Gerty
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '34.842179'
+  long: "-96.248063"
+  closest_city:
+    name: Gerty
+    distance_km: 3.8
+- country: US
+  region: OK
+  exchange: '148350'
+  name: GLENCOE
+  full_name: Glencoe
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.23195'
+  long: "-96.930291"
+  closest_city:
+    name: Glencoe
+    distance_km: 0.09
+- country: US
+  region: OK
+  exchange: '334392'
+  name: GLENPOOL
+  full_name: Glenpool
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333989'
+  name: GLOVER
+  full_name: Glover
+  lata: '536'
+  ilec_name: PINE TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333990'
+  name: GOLDEN
+  full_name: Golden
+  lata: '536'
+  ilec_name: PINE TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333991'
+  name: GOLDSBY
+  full_name: Goldsby
+  lata: '536'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148360'
+  name: GOLTRY
+  full_name: Goltry
+  lata: '536'
+  ilec_name: KANOKLA TEL ASSN
+  lat: '36.535574'
+  long: "-98.15189"
+  closest_city:
+    name: Goltry
+    distance_km: 0.42
+- country: US
+  region: OK
+  exchange: '148370'
+  name: GOODWELL
+  full_name: Goodwell
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat: '36.598243'
+  long: "-101.631944"
+  closest_city:
+    name: Goodwell
+    distance_km: 0.93
+- country: US
+  region: OK
+  exchange: '148380'
+  name: GORE
+  full_name: Gore
+  lata: '538'
+  ilec_name: CROSS TEL. CO.
+  lat: '35.534302'
+  long: "-95.113325"
+  closest_city:
+    name: Gore
+    distance_km: 0.83
+- country: US
+  region: OK
+  exchange: '148390'
+  name: GOTEBO
+  full_name: Gotebo
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '35.067549'
+  long: "-98.865532"
+  closest_city:
+    name: Gotebo
+    distance_km: 0.9
+- country: US
+  region: OK
+  exchange: '148400'
+  name: GOULD
+  full_name: Gould
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '34.66473'
+  long: "-99.768087"
+  closest_city:
+    name: Gould
+    distance_km: 0.71
+- country: US
+  region: OK
+  exchange: '334394'
+  name: GOWEN
+  full_name: Gowen
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148410'
+  name: GRACEMONT
+  full_name: Gracemont
+  lata: '536'
+  ilec_name: OKLAHOMA COMMUNICATION SYSTEM, INC.
+  lat: '35.192176'
+  long: "-98.256439"
+  closest_city:
+    name: Gracemont
+    distance_km: 0.53
+- country: US
+  region: OK
+  exchange: '333996'
+  name: GRADY
+  full_name: Grady
+  lata: '536'
+  ilec_name: TERRAL TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '333997'
+  name: GRAHAM
+  full_name: Graham
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148420'
+  name: GRAINOLA
+  full_name: Grainola
+  lata: '538'
+  ilec_name: SHIDLER TEL. CO.
+  lat: '36.939576'
+  long: "-96.64986"
+  closest_city:
+    name: Grainola
+    distance_km: 0.21
+- country: US
+  region: OK
+  exchange: '148430'
+  name: GRANDFIELD
+  full_name: Grandfield
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '34.231505'
+  long: "-98.684268"
+  closest_city:
+    name: Grandfield
+    distance_km: 0.31
+- country: US
+  region: OK
+  exchange: '148440'
+  name: GRANITE
+  full_name: Granite
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.960444'
+  long: "-99.379906"
+  closest_city:
+    name: Granite
+    distance_km: 1.09
+- country: US
+  region: OK
+  exchange: '334000'
+  name: GRANT
+  full_name: Grant
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334796'
+  name: GRAY
+  full_name: Gray
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334001'
+  name: GREENFIELD
+  full_name: Greenfield
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148450'
+  name: GRIGGS
+  full_name: Griggs
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat: '36.607377'
+  long: "-102.2486"
+  closest_city:
+    name: Keyes
+    distance_km: 22.27
+- country: US
+  region: OK
+  exchange: '148460'
+  name: GROVE
+  full_name: Grove
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.594079'
+  long: "-94.77196"
+  closest_city:
+    name: Grove
+    distance_km: 1.41
+- country: US
+  region: OK
+  exchange: '148470'
+  name: GUTHRIE
+  full_name: Guthrie
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.882718'
+  long: "-97.418956"
+  closest_city:
+    name: Guthrie
+    distance_km: 4.76
+- country: US
+  region: OK
+  exchange: '148480'
+  name: GUYMON
+  full_name: Guymon
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat: '36.683279'
+  long: "-101.480776"
+  closest_city:
+    name: Guymon
+    distance_km: 0.84
+- country: US
+  region: OK
+  exchange: '334397'
+  name: HAILEYVL
+  full_name: Haileyville
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148490'
+  name: HALLETT
+  full_name: Hallett
+  lata: '538'
+  ilec_name: CIMARRON TEL. CO.
+  lat: '36.232381'
+  long: "-96.568781"
+  closest_city:
+    name: Hallett
+    distance_km: 0.1
+- country: US
+  region: OK
+  exchange: '148500'
+  name: HAMMON
+  full_name: Hammon
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '35.634686'
+  long: "-99.384952"
+  closest_city:
+    name: Hammon
+    distance_km: 0.31
+- country: US
+  region: OK
+  exchange: '148510'
+  name: HANNA
+  full_name: Hanna
+  lata: '538'
+  ilec_name: OKLATEL COMMUNICATIONS, INC.
+  lat: '35.201713'
+  long: "-95.892543"
+  closest_city:
+    name: Hanna
+    distance_km: 0.27
+- country: US
+  region: OK
+  exchange: '334004'
+  name: HARDENCITY
+  full_name: Harden City
+  lata: '536'
+  ilec_name: MID-AMERICA TEL., INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148520'
+  name: HARDESTY
+  full_name: Hardesty
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat: '36.618829'
+  long: "-101.200493"
+  closest_city:
+    name: Hardesty
+    distance_km: 0.76
+- country: US
+  region: OK
+  exchange: '148530'
+  name: HARMON
+  full_name: Harmon
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.150689'
+  long: "-99.553492"
+  closest_city:
+    name: Arnett
+    distance_km: 19.77
+- country: US
+  region: OK
+  exchange: '148540'
+  name: HARRAH
+  full_name: Harrah
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.489162'
+  long: "-97.161782"
+  closest_city:
+    name: Harrah
+    distance_km: 2.59
+- country: US
+  region: OK
+  exchange: '148550'
+  name: HARTSHORNE
+  full_name: Hartshorne
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.844799'
+  long: "-95.558424"
+  closest_city:
+    name: Hartshorne
+    distance_km: 0.63
+- country: US
+  region: OK
+  exchange: '148560'
+  name: HASKELL
+  full_name: Haskell
+  lata: '538'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '35.824304'
+  long: "-95.673304"
+  closest_city:
+    name: Haskell
+    distance_km: 0.9
+- country: US
+  region: OK
+  exchange: '148570'
+  name: HASTINGS
+  full_name: Hastings
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '34.224173'
+  long: "-98.106756"
+  closest_city:
+    name: Hastings
+    distance_km: 0.19
+- country: US
+  region: OK
+  exchange: '334008'
+  name: HAWLEY
+  full_name: Hawley
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334009'
+  name: HAWORTH
+  full_name: Haworth
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334010'
+  name: HAYWARD
+  full_name: Hayward
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334402'
+  name: HAYWOOD
+  full_name: Haywood
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148580'
+  name: HEADRICK
+  full_name: Headrick
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.627803'
+  long: "-99.138016"
+  closest_city:
+    name: Headrick
+    distance_km: 0.11
+- country: US
+  region: OK
+  exchange: '148590'
+  name: HEALDTON
+  full_name: Healdton
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.235483'
+  long: "-97.489347"
+  closest_city:
+    name: Healdton
+    distance_km: 0.33
+- country: US
+  region: OK
+  exchange: '148600'
+  name: HEAVENER
+  full_name: Heavener
+  lata: '538'
+  ilec_name: OKLAHOMA WINDSTREAM, INC.
+  lat: '34.893272'
+  long: "-94.599834"
+  closest_city:
+    name: Heavener
+    distance_km: 0.72
+- country: US
+  region: OK
+  exchange: '148610'
+  name: HELENA
+  full_name: Helena
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.551699'
+  long: "-98.266373"
+  closest_city:
+    name: Helena
+    distance_km: 0.77
+- country: US
+  region: OK
+  exchange: '334014'
+  name: HENDRIX
+  full_name: Hendrix
+  lata: '536'
+  ilec_name: CHEROKEE TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148620'
+  name: HENNEPIN
+  full_name: Hennepin
+  lata: '536'
+  ilec_name: MID-AMERICA TEL., INC.
+  lat: '34.507636'
+  long: "-97.347554"
+  closest_city:
+    name: Hennepin
+    distance_km: 0.75
+- country: US
+  region: OK
+  exchange: '148630'
+  name: HENNESSEY
+  full_name: Hennessey
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.107574'
+  long: "-97.900054"
+  closest_city:
+    name: Hennessey
+    distance_km: 0.24
+- country: US
+  region: OK
+  exchange: '148640'
+  name: HENRYETTA
+  full_name: Henryetta
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.439236'
+  long: "-95.985161"
+  closest_city:
+    name: Henryetta
+    distance_km: 0.3
+- country: US
+  region: OK
+  exchange: '334017'
+  name: HICKORY
+  full_name: Hickory
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334405'
+  name: HIGGINS
+  full_name: Higgins
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148650'
+  name: HILLSDALE
+  full_name: Hillsdale
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.564397'
+  long: "-97.991295"
+  closest_city:
+    name: Hillsdale
+    distance_km: 0.18
+- country: US
+  region: OK
+  exchange: '148660'
+  name: HINTON
+  full_name: Hinton
+  lata: '536'
+  ilec_name: HINTON TEL. CO. OF HINTON OK, INC.
+  lat: '35.47322'
+  long: "-98.358871"
+  closest_city:
+    name: Hinton
+    distance_km: 1.81
+- country: US
+  region: OK
+  exchange: '148670'
+  name: HITCHCOCK
+  full_name: Hitchcock
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.96696'
+  long: "-98.349622"
+  closest_city:
+    name: Hitchcock
+    distance_km: 0.07
+- country: US
+  region: OK
+  exchange: '148680'
+  name: HITCHITA
+  full_name: Hitchita
+  lata: '538'
+  ilec_name: OKLATEL COMMUNICATIONS, INC.
+  lat: '35.525168'
+  long: "-95.752842"
+  closest_city:
+    name: Hitchita
+    distance_km: 0.59
+- country: US
+  region: OK
+  exchange: '334800'
+  name: HITCHLAND
+  full_name: Hitchland
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148690'
+  name: HOBART
+  full_name: Hobart
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.025115'
+  long: "-99.094076"
+  closest_city:
+    name: Hobart
+    distance_km: 0.6
+- country: US
+  region: OK
+  exchange: '148700'
+  name: HOCHATOWN
+  full_name: Hochatown
+  lata: '536'
+  ilec_name: PINE TEL. CO.
+  lat: '34.192918'
+  long: "-94.673095"
+  closest_city:
+    name: Hochatown
+    distance_km: 8.39
+- country: US
+  region: OK
+  exchange: '334407'
+  name: HOCKERVL
+  full_name: Hockerville
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334408'
+  name: HODGEN
+  full_name: Hodgen
+  lata: '538'
+  ilec_name: OKLAHOMA WINDSTREAM, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334409'
+  name: HOFFMAN
+  full_name: Hoffman
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148710'
+  name: HOLDENVL
+  full_name: Holdenville
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.085886'
+  long: "-96.404612"
+  closest_city:
+    name: Holdenville
+    distance_km: 0.35
+- country: US
+  region: OK
+  exchange: '148720'
+  name: HOLLIS
+  full_name: Hollis
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '34.684464'
+  long: "-99.91339"
+  closest_city:
+    name: Hollis
+    distance_km: 0.61
+- country: US
+  region: OK
+  exchange: '334026'
+  name: HOLLISTER
+  full_name: Hollister
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334027'
+  name: HOLLYCREEK
+  full_name: Holly Creek
+  lata: '536'
+  ilec_name: PINE TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334028'
+  name: HOMESTEAD
+  full_name: Homestead
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148730'
+  name: HOMINY
+  full_name: Hominy
+  lata: '538'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '36.409343'
+  long: "-96.393736"
+  closest_city:
+    name: Hominy
+    distance_km: 1.4
+- country: US
+  region: OK
+  exchange: '334029'
+  name: HONOBIA
+  full_name: Honobia
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148740'
+  name: HOOKER
+  full_name: Hooker
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat: '36.861926'
+  long: "-101.209814"
+  closest_city:
+    name: Hooker
+    distance_km: 0.57
+- country: US
+  region: OK
+  exchange: '148750'
+  name: HOPETON
+  full_name: Hopeton
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.682015'
+  long: "-98.668764"
+  closest_city:
+    name: Hopeton
+    distance_km: 0.91
+- country: US
+  region: OK
+  exchange: '334031'
+  name: HORNTOWN
+  full_name: Horntown
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334411'
+  name: HOWE
+  full_name: Howe
+  lata: '538'
+  ilec_name: OKLAHOMA WINDSTREAM, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334412'
+  name: HOYT
+  full_name: Hoyt
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148760'
+  name: HUGO
+  full_name: Hugo
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.00883'
+  long: "-95.511377"
+  closest_city:
+    name: Hugo
+    distance_km: 0.33
+- country: US
+  region: OK
+  exchange: '334413'
+  name: HULBERT
+  full_name: Hulbert
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148770'
+  name: HUNTER
+  full_name: Hunter
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.565485'
+  long: "-97.66632"
+  closest_city:
+    name: Hunter
+    distance_km: 0.38
+- country: US
+  region: OK
+  exchange: '148780'
+  name: HYDRO
+  full_name: Hydro
+  lata: '536'
+  ilec_name: HINTON TEL. CO. OF HINTON OK, INC.
+  lat: '35.54886'
+  long: "-98.582382"
+  closest_city:
+    name: Hydro
+    distance_km: 0.27
+- country: US
+  region: OK
+  exchange: '148790'
+  name: IDABEL
+  full_name: Idabel
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '33.895097'
+  long: "-94.826201"
+  closest_city:
+    name: Idabel
+    distance_km: 1.01
+- country: US
+  region: OK
+  exchange: '148800'
+  name: INDIAHOMA
+  full_name: Indiahoma
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.619404'
+  long: "-98.749593"
+  closest_city:
+    name: Indiahoma
+    distance_km: 0.24
+- country: US
+  region: OK
+  exchange: '148810'
+  name: INDIANOLA
+  full_name: Indianola
+  lata: '538'
+  ilec_name: OKLATEL COMMUNICATIONS, INC.
+  lat: '35.166807'
+  long: "-95.776744"
+  closest_city:
+    name: Indianola
+    distance_km: 0.35
+- country: US
+  region: OK
+  exchange: '148820'
+  name: INOLA
+  full_name: Inola
+  lata: '538'
+  ilec_name: OKLAHOMA COMMUNICATION SYSTEM, INC.
+  lat: '36.148789'
+  long: "-95.506201"
+  closest_city:
+    name: Inola
+    distance_km: 3.32
+- country: US
+  region: OK
+  exchange: '334037'
+  name: ISABELLA
+  full_name: Isabella
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148830'
+  name: JAY
+  full_name: Jay
+  lata: '538'
+  ilec_name: GRAND TEL. CO., INC.
+  lat: '36.426938'
+  long: "-94.798757"
+  closest_city:
+    name: Jay
+    distance_km: 0.28
+- country: US
+  region: OK
+  exchange: '334038'
+  name: JEFFERSON
+  full_name: Jefferson
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148840'
+  name: JENKS
+  full_name: Jenks
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.021317'
+  long: "-95.970721"
+  closest_city:
+    name: Jenks
+    distance_km: 2.59
+- country: US
+  region: OK
+  exchange: '148850'
+  name: JENNINGS
+  full_name: Jennings
+  lata: '538'
+  ilec_name: CIMARRON TEL. CO.
+  lat: '36.182509'
+  long: "-96.569284"
+  closest_city:
+    name: Jennings
+    distance_km: 0.02
+- country: US
+  region: OK
+  exchange: '334039'
+  name: JESTER
+  full_name: Jester
+  lata: '536'
+  ilec_name: SOUTHWEST OKLAHOMA TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148860'
+  name: JET
+  full_name: Jet
+  lata: '536'
+  ilec_name: KANOKLA TEL ASSN
+  lat: '36.664284'
+  long: "-98.181899"
+  closest_city:
+    name: Jet
+    distance_km: 0.25
+- country: US
+  region: OK
+  exchange: '334041'
+  name: JOHNSON
+  full_name: Johnson
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148870'
+  name: JONES
+  full_name: Jones
+  lata: '536'
+  ilec_name: OKLAHOMA COMMUNICATION SYSTEM, INC.
+  lat: '35.56821'
+  long: "-97.280716"
+  closest_city:
+    name: Jones
+    distance_km: 0.88
+- country: US
+  region: OK
+  exchange: '148880'
+  name: KANSAS
+  full_name: Kansas
+  lata: '538'
+  ilec_name: SALINA-SPAVINAW TEL. CO.
+  lat: '36.209302'
+  long: "-94.79652"
+  closest_city:
+    name: Kansas
+    distance_km: 0.82
+- country: US
+  region: OK
+  exchange: '148890'
+  name: KAW CITY
+  full_name: Kaw City
+  lata: '536'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '36.758025'
+  long: "-96.85847"
+  closest_city:
+    name: Kaw City
+    distance_km: 1.06
+- country: US
+  region: OK
+  exchange: '148900'
+  name: KEEFETON
+  full_name: Keefeton
+  lata: '538'
+  ilec_name: CROSS TEL. CO.
+  lat: '35.592568'
+  long: "-95.352117"
+  closest_city:
+    name: Keefton
+    distance_km: 4.47
+- country: US
+  region: OK
+  exchange: '148910'
+  name: KELLYVILLE
+  full_name: Kellyville
+  lata: '538'
+  ilec_name: OKLAHOMA COMMUNICATION SYSTEM, INC.
+  lat: '35.934192'
+  long: "-96.216908"
+  closest_city:
+    name: Kellyville
+    distance_km: 2.55
+- country: US
+  region: OK
+  exchange: '148920'
+  name: KEMP
+  full_name: Kemp
+  lata: '536'
+  ilec_name: CHEROKEE TEL. CO.
+  lat: '33.767762'
+  long: "-96.358676"
+  closest_city:
+    name: Kemp
+    distance_km: 0.46
+- country: US
+  region: OK
+  exchange: '148930'
+  name: KENDRICK
+  full_name: Kendrick
+  lata: '538'
+  ilec_name: CENTRAL OKLAHOMA TELEPHONE CO., L.L.C.
+  lat: '35.785223'
+  long: "-96.773397"
+  closest_city:
+    name: Kendrick
+    distance_km: 0.19
+- country: US
+  region: OK
+  exchange: '334045'
+  name: KENEFIC
+  full_name: Kenefic
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148940'
+  name: KENTON
+  full_name: Kenton
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat: '36.878962'
+  long: "-102.985088"
+  closest_city:
+    name: Kenton
+    distance_km: 3.52
+- country: US
+  region: OK
+  exchange: '334423'
+  name: KENWOOD
+  full_name: Kenwood
+  lata: '538'
+  ilec_name: SALINA-SPAVINAW TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148950'
+  name: KEOTA
+  full_name: Keota
+  lata: '538'
+  ilec_name: CROSS TEL. CO.
+  lat: '35.257249'
+  long: "-94.927581"
+  closest_city:
+    name: Keota
+    distance_km: 0.45
+- country: US
+  region: OK
+  exchange: '148960'
+  name: KETCHUM
+  full_name: Ketchum
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.509615'
+  long: "-95.021373"
+  closest_city:
+    name: Grand Lake Towne
+    distance_km: 0.64
+- country: US
+  region: OK
+  exchange: '148970'
+  name: KEYES
+  full_name: Keyes
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat: '36.807835'
+  long: "-102.248946"
+  closest_city:
+    name: Keyes
+    distance_km: 0.25
+- country: US
+  region: OK
+  exchange: '148980'
+  name: KEYSTONE
+  full_name: Keystone
+  lata: '538'
+  ilec_name: CIMARRON TEL. CO.
+  lat: '36.20745'
+  long: "-96.2993"
+  closest_city:
+    name: Mule Barn
+    distance_km: 1.56
+- country: US
+  region: OK
+  exchange: '334427'
+  name: KIAMICHI
+  full_name: Kiamichi
+  lata: '538'
+  ilec_name: OKLAHOMA WESTERN TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148990'
+  name: KIEFER
+  full_name: Kiefer
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.943153'
+  long: "-96.065569"
+  closest_city:
+    name: Kiefer
+    distance_km: 1.15
+- country: US
+  region: OK
+  exchange: '334046'
+  name: KILDARE
+  full_name: Kildare
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149000'
+  name: KINGFISHER
+  full_name: Kingfisher
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '35.859679'
+  long: "-97.933913"
+  closest_city:
+    name: Kingfisher
+    distance_km: 1.75
+- country: US
+  region: OK
+  exchange: '149010'
+  name: KINGSTON
+  full_name: Kingston
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.000288'
+  long: "-96.71545"
+  closest_city:
+    name: Kingston
+    distance_km: 0.85
+- country: US
+  region: OK
+  exchange: '149020'
+  name: KINTA
+  full_name: Kinta
+  lata: '538'
+  ilec_name: CROSS TEL. CO.
+  lat: '35.117496'
+  long: "-95.231163"
+  closest_city:
+    name: Kinta
+    distance_km: 0.64
+- country: US
+  region: OK
+  exchange: '149030'
+  name: KIOWA
+  full_name: Kiowa
+  lata: '538'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '34.717545'
+  long: "-95.900374"
+  closest_city:
+    name: Kiowa
+    distance_km: 0.64
+- country: US
+  region: OK
+  exchange: '334049'
+  name: KNOWLES
+  full_name: Knowles
+  lata: '536'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149040'
+  name: KONAWA
+  full_name: Konawa
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.957791'
+  long: "-96.7514"
+  closest_city:
+    name: Konawa
+    distance_km: 0.22
+- country: US
+  region: OK
+  exchange: '334431'
+  name: KREBS
+  full_name: Krebs
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149050'
+  name: KREMLIN
+  full_name: Kremlin
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.547435'
+  long: "-97.828165"
+  closest_city:
+    name: Kremlin
+    distance_km: 0.36
+- country: US
+  region: OK
+  exchange: '149060'
+  name: LAHOMA
+  full_name: Lahoma
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.382176'
+  long: "-98.091107"
+  closest_city:
+    name: Lahoma
+    distance_km: 0.58
+- country: US
+  region: OK
+  exchange: '334053'
+  name: LAKE ALUMA
+  full_name: Lake Aluma
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334054'
+  name: LAMAR
+  full_name: Lamar
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334055'
+  name: LAMBERT
+  full_name: Lambert
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149070'
+  name: LAMONT
+  full_name: Lamont
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.682837'
+  long: "-97.566111"
+  closest_city:
+    name: Lamont
+    distance_km: 1.15
+- country: US
+  region: OK
+  exchange: '334057'
+  name: LANE
+  full_name: Lane
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334432'
+  name: LANGLEY
+  full_name: Langley
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334058'
+  name: LANGSTON
+  full_name: Langston
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149080'
+  name: LAVERNE
+  full_name: Laverne
+  lata: '536'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat: '36.708677'
+  long: "-99.899788"
+  closest_city:
+    name: Laverne
+    distance_km: 0.46
+- country: US
+  region: OK
+  exchange: '334440'
+  name: LWRNCE CRK
+  full_name: Lawrence Creek
+  lata: '538'
+  ilec_name: CIMARRON TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149090'
+  name: LAWTON
+  full_name: Lawton
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.607329'
+  long: "-98.41594"
+  closest_city:
+    name: Lawton
+    distance_km: 1.2
+- country: US
+  region: OK
+  exchange: '334433'
+  name: LEACH
+  full_name: Leach
+  lata: '538'
+  ilec_name: SALINA-SPAVINAW TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334062'
+  name: LEBANON
+  full_name: Lebanon
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149100'
+  name: LEEDEY
+  full_name: Leedey
+  lata: '536'
+  ilec_name: DOBSON TEL. CO.
+  lat: '35.866708'
+  long: "-99.351221"
+  closest_city:
+    name: Leedey
+    distance_km: 0.59
+- country: US
+  region: OK
+  exchange: '149110'
+  name: LEFLORE
+  full_name: Leflore
+  lata: '538'
+  ilec_name: OKLAHOMA WESTERN TEL. CO.
+  lat: '34.899678'
+  long: "-94.985157"
+  closest_city:
+    name: Le Flore
+    distance_km: 0.75
+- country: US
+  region: OK
+  exchange: '334064'
+  name: LEHIGH
+  full_name: Lehigh
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149120'
+  name: LENAPAH
+  full_name: Lenapah
+  lata: '538'
+  ilec_name: TOTAH COMMUNICATIONS, INC.
+  lat: '36.859987'
+  long: "-95.631356"
+  closest_city:
+    name: Lenapah
+    distance_km: 1.03
+- country: US
+  region: OK
+  exchange: '334065'
+  name: LEON
+  full_name: Leon
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334436'
+  name: LEONARD
+  full_name: Leonard
+  lata: '538'
+  ilec_name: BIXBY TEL. CO., INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334066'
+  name: LEXINGTON
+  full_name: Lexington
+  lata: '536'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334067'
+  name: LIMA
+  full_name: Lima
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334437'
+  name: LIMESTN GP
+  full_name: Limestone Gap
+  lata: '538'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149130'
+  name: LINDSAY
+  full_name: Lindsay
+  lata: '536'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '34.83372'
+  long: "-97.610491"
+  closest_city:
+    name: Lindsay
+    distance_km: 0.62
+- country: US
+  region: OK
+  exchange: '149140'
+  name: LOCO
+  full_name: Loco
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '34.333664'
+  long: "-97.68086"
+  closest_city:
+    name: Loco
+    distance_km: 0.44
+- country: US
+  region: OK
+  exchange: '149150'
+  name: LOCUST GRV
+  full_name: Locust Grove
+  lata: '538'
+  ilec_name: SALINA-SPAVINAW TEL. CO.
+  lat: '36.201767'
+  long: "-95.164566"
+  closest_city:
+    name: Locust Grove
+    distance_km: 0.56
+- country: US
+  region: OK
+  exchange: '149160'
+  name: LOGAN
+  full_name: Logan
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat: '36.624367'
+  long: "-100.265756"
+  closest_city:
+    name: Knowles
+    distance_km: 28.4
+- country: US
+  region: OK
+  exchange: '149170'
+  name: LONE GROVE
+  full_name: Lone Grove
+  lata: '536'
+  ilec_name: CHICKASAW TEL. CO.
+  lat: '34.183467'
+  long: "-97.258225"
+  closest_city:
+    name: Lone Grove
+    distance_km: 0.36
+- country: US
+  region: OK
+  exchange: '149180'
+  name: LONE WOLF
+  full_name: Lone Wolf
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.988798'
+  long: "-99.247844"
+  closest_city:
+    name: Lone Wolf
+    distance_km: 0.27
+- country: US
+  region: OK
+  exchange: '149190'
+  name: LONGDALE
+  full_name: Longdale
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.135082'
+  long: "-98.537107"
+  closest_city:
+    name: Longdale
+    distance_km: 1.27
+- country: US
+  region: OK
+  exchange: '149200'
+  name: LONGTOWN
+  full_name: Longtown
+  lata: '538'
+  ilec_name: CROSS TEL. CO.
+  lat: '35.239751'
+  long: "-95.508874"
+  closest_city:
+    name: Longtown
+    distance_km: 0.8
+- country: US
+  region: OK
+  exchange: '149210'
+  name: LOOKEBA
+  full_name: Lookeba
+  lata: '536'
+  ilec_name: HINTON TEL. CO. OF HINTON OK, INC.
+  lat: '35.366488'
+  long: "-98.366864"
+  closest_city:
+    name: Lookeba
+    distance_km: 0.48
+- country: US
+  region: OK
+  exchange: '334074'
+  name: LOVELAND
+  full_name: Loveland
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334075'
+  name: LOVELL
+  full_name: Lovell
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149220'
+  name: LOYAL
+  full_name: Loyal
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '35.972638'
+  long: "-98.116503"
+  closest_city:
+    name: Loyal
+    distance_km: 0.15
+- country: US
+  region: OK
+  exchange: '334077'
+  name: LUCIEN
+  full_name: Lucien
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334078'
+  name: LUGERT
+  full_name: Lugert
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149230'
+  name: LUTHER
+  full_name: Luther
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.663736'
+  long: "-97.191716"
+  closest_city:
+    name: Luther
+    distance_km: 0.51
+- country: US
+  region: OK
+  exchange: '334080'
+  name: MACOMB
+  full_name: Macomb
+  lata: '536'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149240'
+  name: MADILL
+  full_name: Madill
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.088226'
+  long: "-96.768094"
+  closest_city:
+    name: Madill
+    distance_km: 0.59
+- country: US
+  region: OK
+  exchange: '149250'
+  name: MANCHESTER
+  full_name: Manchester
+  lata: '536'
+  ilec_name: KANOKLA TEL ASSN
+  lat: '37.00002'
+  long: "-98.032366"
+  closest_city:
+    name: Manchester
+    distance_km: 0.66
+- country: US
+  region: OK
+  exchange: '149260'
+  name: MANGUM
+  full_name: Mangum
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.87612'
+  long: "-99.507238"
+  closest_city:
+    name: Mangum
+    distance_km: 0.43
+- country: US
+  region: OK
+  exchange: '149270'
+  name: MANITOU
+  full_name: Manitou
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '34.499705'
+  long: "-98.982559"
+  closest_city:
+    name: Manitou
+    distance_km: 0.84
+- country: US
+  region: OK
+  exchange: '149280'
+  name: MANNFORD
+  full_name: Mannford
+  lata: '538'
+  ilec_name: CIMARRON TEL. CO.
+  lat: '36.124518'
+  long: "-96.365683"
+  closest_city:
+    name: Mannford
+    distance_km: 2.92
+- country: US
+  region: OK
+  exchange: '149290'
+  name: MANNFORD E
+  full_name: Mannford East
+  lata: '538'
+  ilec_name: CIMARRON TEL. CO.
+  lat: '36.108233'
+  long: "-96.257504"
+  closest_city:
+    name: Lotsee
+    distance_km: 5.17
+- country: US
+  region: OK
+  exchange: '334085'
+  name: MANNSVILLE
+  full_name: Mannsville
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149300'
+  name: MARAMEC
+  full_name: Maramec
+  lata: '538'
+  ilec_name: CIMARRON TEL. CO.
+  lat: '36.239787'
+  long: "-96.681492"
+  closest_city:
+    name: Maramec
+    distance_km: 0.25
+- country: US
+  region: OK
+  exchange: '334444'
+  name: MARBLECITY
+  full_name: Marble City
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149310'
+  name: MARIETTA
+  full_name: Marietta
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '33.937488'
+  long: "-97.120304"
+  closest_city:
+    name: Marietta
+    distance_km: 0.45
+- country: US
+  region: OK
+  exchange: '149320'
+  name: MARLAND
+  full_name: Marland
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.56064'
+  long: "-97.141283"
+  closest_city:
+    name: Marland
+    distance_km: 1.04
+- country: US
+  region: OK
+  exchange: '149330'
+  name: MARLOW
+  full_name: Marlow
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.652022'
+  long: "-97.95382"
+  closest_city:
+    name: Marlow
+    distance_km: 2.52
+- country: US
+  region: OK
+  exchange: '149340'
+  name: MARSHALL
+  full_name: Marshall
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.158938'
+  long: "-97.625614"
+  closest_city:
+    name: Marshall
+    distance_km: 0.99
+- country: US
+  region: OK
+  exchange: '149350'
+  name: MARTHA
+  full_name: Martha
+  lata: '536'
+  ilec_name: SOUTHWEST OKLAHOMA TEL. CO.
+  lat: '34.726261'
+  long: "-99.390455"
+  closest_city:
+    name: Martha
+    distance_km: 0.34
+- country: US
+  region: OK
+  exchange: '334445'
+  name: MASON
+  full_name: Mason
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149360'
+  name: MAUD
+  full_name: Maud
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.13075'
+  long: "-96.775036"
+  closest_city:
+    name: Maud
+    distance_km: 0.4
+- country: US
+  region: OK
+  exchange: '149370'
+  name: MAY
+  full_name: May
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.61422'
+  long: "-99.748231"
+  closest_city:
+    name: May
+    distance_km: 0.28
+- country: US
+  region: OK
+  exchange: '149380'
+  name: MAYSVILLE
+  full_name: Maysville
+  lata: '536'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '34.817161'
+  long: "-97.408619"
+  closest_city:
+    name: Maysville
+    distance_km: 4.58
+- country: US
+  region: OK
+  exchange: '334446'
+  name: MAZIE
+  full_name: Mazie
+  lata: '538'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF OKLAHOMA COMPANY
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149390'
+  name: MCALESTER
+  full_name: McAlester
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.932743'
+  long: "-95.767912"
+  closest_city:
+    name: McAlester
+    distance_km: 0.93
+- country: US
+  region: OK
+  exchange: '149400'
+  name: MCCURTAIN
+  full_name: McCurtain
+  lata: '538'
+  ilec_name: CROSS TEL. CO.
+  lat: '35.149607'
+  long: "-94.965199"
+  closest_city:
+    name: McCurtain
+    distance_km: 0.21
+- country: US
+  region: OK
+  exchange: '149410'
+  name: MCLOUD
+  full_name: McLoud
+  lata: '536'
+  ilec_name: MCLOUD TEL. CO.
+  lat: '35.433248'
+  long: "-97.098283"
+  closest_city:
+    name: McLoud
+    distance_km: 2.8
+- country: US
+  region: OK
+  exchange: '334095'
+  name: MCMILLAN
+  full_name: McMillan
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334096'
+  name: MEAD
+  full_name: Mead
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149420'
+  name: MEDFORD
+  full_name: Medford
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.805916'
+  long: "-97.733214"
+  closest_city:
+    name: Medford
+    distance_km: 0.49
+- country: US
+  region: OK
+  exchange: '149430'
+  name: MEDICINEPK
+  full_name: Medicine Park
+  lata: '536'
+  ilec_name: MEDICINE PARK TEL. CO.
+  lat: '34.723339'
+  long: "-98.499167"
+  closest_city:
+    name: Medicine Park
+    distance_km: 2.01
+- country: US
+  region: OK
+  exchange: '149440'
+  name: MEEKER
+  full_name: Meeker
+  lata: '536'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '35.502641'
+  long: "-96.900746"
+  closest_city:
+    name: Meeker
+    distance_km: 1.97
+- country: US
+  region: OK
+  exchange: '149450'
+  name: MENO
+  full_name: Meno
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.381374'
+  long: "-98.182975"
+  closest_city:
+    name: Meno
+    distance_km: 0.88
+- country: US
+  region: OK
+  exchange: '149460'
+  name: MERIDIAN
+  full_name: Meridian
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.848591'
+  long: "-97.25323"
+  closest_city:
+    name: Meridian
+    distance_km: 0.84
+- country: US
+  region: OK
+  exchange: '334102'
+  name: MERRICK
+  full_name: Merrick
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149470'
+  name: MIAMI
+  full_name: Miami
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.873177'
+  long: "-94.87833"
+  closest_city:
+    name: Miami
+    distance_km: 1.75
+- country: US
+  region: OK
+  exchange: '149480'
+  name: MIDWEST CY
+  full_name: Midwest City
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.443304'
+  long: "-97.401829"
+  closest_city:
+    name: Midwest City
+    distance_km: 3.55
+- country: US
+  region: OK
+  exchange: '149490'
+  name: MILBURN
+  full_name: Milburn
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '34.243814'
+  long: "-96.549124"
+  closest_city:
+    name: Milburn
+    distance_km: 0.5
+- country: US
+  region: OK
+  exchange: '334450'
+  name: MILFAY
+  full_name: Milfay
+  lata: '538'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149500'
+  name: MILL CREEK
+  full_name: Mill Creek
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '34.398909'
+  long: "-96.814243"
+  closest_city:
+    name: Mill Creek
+    distance_km: 1.04
+- country: US
+  region: OK
+  exchange: '149510'
+  name: MILLERTON
+  full_name: Millerton
+  lata: '536'
+  ilec_name: VALLIANT TEL. CO.
+  lat: '33.991095'
+  long: "-95.023037"
+  closest_city:
+    name: Millerton
+    distance_km: 0.68
+- country: US
+  region: OK
+  exchange: '334107'
+  name: MILO
+  full_name: Milo
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149520'
+  name: MINCO
+  full_name: Minco
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.314392'
+  long: "-97.940193"
+  closest_city:
+    name: Minco
+    distance_km: 1.1
+- country: US
+  region: OK
+  exchange: '148231'
+  name: MOFFETT
+  full_name: Moffett
+  lata: '526'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.389527'
+  long: "-94.448967"
+  closest_city:
+    name: Moffett
+    distance_km: 1.91
+- country: US
+  region: OK
+  exchange: '334451'
+  name: MONKEY IS
+  full_name: Monkey Island
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334452'
+  name: MONROE
+  full_name: Monroe
+  lata: '538'
+  ilec_name: OKLAHOMA WINDSTREAM, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149530'
+  name: MONROEHOWE
+  full_name: Monroe Howe
+  lata: '538'
+  ilec_name: OKLAHOMA WINDSTREAM, INC.
+  lat: '34.980911'
+  long: "-94.633105"
+  closest_city:
+    name: Howe
+    distance_km: 3.54
+- country: US
+  region: OK
+  exchange: '334109'
+  name: MOON
+  full_name: Moon
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149540'
+  name: MOORE
+  full_name: Moore
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.341599'
+  long: "-97.487186"
+  closest_city:
+    name: Moore
+    distance_km: 1.72
+- country: US
+  region: OK
+  exchange: '149550'
+  name: MOORELAND
+  full_name: Mooreland
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.441315'
+  long: "-99.207829"
+  closest_city:
+    name: Mooreland
+    distance_km: 0.48
+- country: US
+  region: OK
+  exchange: '334112'
+  name: MOOREWOOD
+  full_name: Moorewood
+  lata: '536'
+  ilec_name: DOBSON TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149560'
+  name: MORRIS
+  full_name: Morris
+  lata: '538'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '35.606411'
+  long: "-95.857826"
+  closest_city:
+    name: Morris
+    distance_km: 1.05
+- country: US
+  region: OK
+  exchange: '149570'
+  name: MORRISON
+  full_name: Morrison
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.297428'
+  long: "-97.007999"
+  closest_city:
+    name: Morrison
+    distance_km: 1.83
+- country: US
+  region: OK
+  exchange: '149580'
+  name: MOUNDS
+  full_name: Mounds
+  lata: '538'
+  ilec_name: OKLAHOMA COMMUNICATION SYSTEM, INC.
+  lat: '35.874396'
+  long: "-96.069854"
+  closest_city:
+    name: Mounds
+    distance_km: 0.57
+- country: US
+  region: OK
+  exchange: '334116'
+  name: MT FORK
+  full_name: Mountain Fork
+  lata: '536'
+  ilec_name: PINE TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334114'
+  name: MOUNTAINPK
+  full_name: Mountain Park
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149590'
+  name: MT VIEW
+  full_name: Mountain View
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '35.100237'
+  long: "-98.748779"
+  closest_city:
+    name: Mountain View
+    distance_km: 0.12
+- country: US
+  region: OK
+  exchange: '334115'
+  name: MOYERS
+  full_name: Moyers
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149600'
+  name: MULDROW
+  full_name: Muldrow
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.407654'
+  long: "-94.598518"
+  closest_city:
+    name: Muldrow
+    distance_km: 0.41
+- country: US
+  region: OK
+  exchange: '149610'
+  name: MULHALL
+  full_name: Mulhall
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.068492'
+  long: "-97.407578"
+  closest_city:
+    name: Mulhall
+    distance_km: 4.89
+- country: US
+  region: OK
+  exchange: '149620'
+  name: MUSE
+  full_name: Muse
+  lata: '538'
+  ilec_name: OKLAHOMA WESTERN TEL. CO.
+  lat: '34.675887'
+  long: "-94.767534"
+  closest_city:
+    name: Whitesboro
+    distance_km: 10.43
+- country: US
+  region: OK
+  exchange: '149630'
+  name: MUSKOGEE
+  full_name: Muskogee
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.743303'
+  long: "-95.366053"
+  closest_city:
+    name: Muskogee
+    distance_km: 0.84
+- country: US
+  region: OK
+  exchange: '149640'
+  name: MUSTANG
+  full_name: Mustang
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.384494'
+  long: "-97.725983"
+  closest_city:
+    name: Mustang
+    distance_km: 0.81
+- country: US
+  region: OK
+  exchange: '149650'
+  name: MUTUAL
+  full_name: Mutual
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.234857'
+  long: "-99.163761"
+  closest_city:
+    name: Mutual
+    distance_km: 0.62
+- country: US
+  region: OK
+  exchange: '334121'
+  name: NARDIN
+  full_name: Nardin
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149660'
+  name: NASH
+  full_name: Nash
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.667976'
+  long: "-98.051555"
+  closest_city:
+    name: Nash
+    distance_km: 0.34
+- country: US
+  region: OK
+  exchange: '149670'
+  name: NASHOBA
+  full_name: Nashoba
+  lata: '538'
+  ilec_name: OKLAHOMA WESTERN TEL. CO.
+  lat: '34.485735'
+  long: "-95.209771"
+  closest_city:
+    name: Nashoba
+    distance_km: 0.62
+- country: US
+  region: OK
+  exchange: '334460'
+  name: NELAGONEY
+  full_name: Nelagoney
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149680'
+  name: NEW HOME
+  full_name: New Home
+  lata: '528'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.650258'
+  long: "-94.471829"
+  closest_city:
+    name: Smithville
+    distance_km: 25.72
+- country: US
+  region: OK
+  exchange: '334123'
+  name: NEW LIMA
+  full_name: New Lima
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149690'
+  name: NEWALLA
+  full_name: Newalla
+  lata: '536'
+  ilec_name: MCLOUD TEL. CO.
+  lat: '35.408315'
+  long: "-97.189081"
+  closest_city:
+    name: Harrah
+    distance_km: 7.82
+- country: US
+  region: OK
+  exchange: '149700'
+  name: NEWCASTLE
+  full_name: Newcastle
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '35.248328'
+  long: "-97.598362"
+  closest_city:
+    name: Newcastle
+    distance_km: 0.92
+- country: US
+  region: OK
+  exchange: '149710'
+  name: NEWKIRK
+  full_name: Newkirk
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.886474'
+  long: "-97.053262"
+  closest_city:
+    name: Newkirk
+    distance_km: 0.56
+- country: US
+  region: OK
+  exchange: '334127'
+  name: NEWPORT
+  full_name: Newport
+  lata: '536'
+  ilec_name: CHICKASAW TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334128'
+  name: NICHOLSHLS
+  full_name: Nichols Hills
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149720'
+  name: NICOMAPARK
+  full_name: Nicoma Park
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.492472'
+  long: "-97.323575"
+  closest_city:
+    name: Nicoma Park
+    distance_km: 0.21
+- country: US
+  region: OK
+  exchange: '334130'
+  name: NINNEKAH
+  full_name: Ninnekah
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149730'
+  name: NOBLE
+  full_name: Noble
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.142302'
+  long: "-97.39641"
+  closest_city:
+    name: Noble
+    distance_km: 2.49
+- country: US
+  region: OK
+  exchange: '334133'
+  name: NORGE
+  full_name: Norge
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149740'
+  name: NORMAN
+  full_name: Norman
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.217872'
+  long: "-97.44431"
+  closest_city:
+    name: Norman
+    distance_km: 9.0
+- country: US
+  region: OK
+  exchange: '334131'
+  name: NO ENID
+  full_name: North Enid
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149750'
+  name: NOWATA
+  full_name: Nowata
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.701872'
+  long: "-95.639181"
+  closest_city:
+    name: Nowata
+    distance_km: 0.41
+- country: US
+  region: OK
+  exchange: '149760'
+  name: OAK HILL
+  full_name: Oak Hill
+  lata: '536'
+  ilec_name: PINE TEL. CO.
+  lat: '34.048971'
+  long: "-94.861411"
+  closest_city:
+    name: Golden
+    distance_km: 3.89
+- country: US
+  region: OK
+  exchange: '334136'
+  name: OAKLAND
+  full_name: Oakland
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334462'
+  name: OAKS
+  full_name: Oaks
+  lata: '538'
+  ilec_name: SALINA-SPAVINAW TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149770'
+  name: OAKWOOD
+  full_name: Oakwood
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '35.932605'
+  long: "-98.698792"
+  closest_city:
+    name: Oakwood
+    distance_km: 0.4
+- country: US
+  region: OK
+  exchange: '149780'
+  name: OCHELATA
+  full_name: Ochelata
+  lata: '538'
+  ilec_name: TOTAH COMMUNICATIONS, INC.
+  lat: '36.597606'
+  long: "-95.983634"
+  closest_city:
+    name: Ochelata
+    distance_km: 1.11
+- country: US
+  region: OK
+  exchange: '334138'
+  name: OCTAVIA
+  full_name: Octavia
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149790'
+  name: OGLESBY
+  full_name: Oglesby
+  lata: '538'
+  ilec_name: TOTAH COMMUNICATIONS, INC.
+  lat: '36.623696'
+  long: "-95.852848"
+  closest_city:
+    name: Ochelata
+    distance_km: 10.95
+- country: US
+  region: OK
+  exchange: '149800'
+  name: OILTON
+  full_name: Oilton
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.083713'
+  long: "-96.58816"
+  closest_city:
+    name: Oilton
+    distance_km: 0.61
+- country: US
+  region: OK
+  exchange: '149810'
+  name: OKARCHE
+  full_name: Okarche
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '35.726875'
+  long: "-97.985249"
+  closest_city:
+    name: Okarche
+    distance_km: 0.88
+- country: US
+  region: OK
+  exchange: '149820'
+  name: OKEENE
+  full_name: Okeene
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.115227'
+  long: "-98.315793"
+  closest_city:
+    name: Okeene
+    distance_km: 0.22
+- country: US
+  region: OK
+  exchange: '149830'
+  name: OKEMAH
+  full_name: Okemah
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.432641'
+  long: "-96.304483"
+  closest_city:
+    name: Okemah
+    distance_km: 0.57
+- country: US
+  region: OK
+  exchange: '149840'
+  name: OKLA CITY
+  full_name: Oklahoma City
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.470514'
+  long: "-97.5156"
+  closest_city:
+    name: Oklahoma City
+    distance_km: 0.37
+- country: US
+  region: OK
+  exchange: '149850'
+  name: OKMULGEE
+  full_name: Okmulgee
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.620574'
+  long: "-95.972585"
+  closest_city:
+    name: Okmulgee
+    distance_km: 3.19
+- country: US
+  region: OK
+  exchange: '334468'
+  name: OKTAHA
+  full_name: Oktaha
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149860'
+  name: OLUSTEE
+  full_name: Olustee
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.548397'
+  long: "-99.423048"
+  closest_city:
+    name: Olustee
+    distance_km: 0.12
+- country: US
+  region: OK
+  exchange: '334145'
+  name: OMEGA
+  full_name: Omega
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149870'
+  name: OOLOGAH
+  full_name: Oologah
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.4491'
+  long: "-95.708276"
+  closest_city:
+    name: Oologah
+    distance_km: 0.59
+- country: US
+  region: OK
+  exchange: '334805'
+  name: OPTIMA
+  full_name: Optima
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334146'
+  name: ORIENTA
+  full_name: Orienta
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149880'
+  name: ORLANDO
+  full_name: Orlando
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.147674'
+  long: "-97.375012"
+  closest_city:
+    name: Orlando
+    distance_km: 1.61
+- country: US
+  region: OK
+  exchange: '149890'
+  name: OSAGE
+  full_name: Osage
+  lata: '538'
+  ilec_name: CIMARRON TEL. CO.
+  lat: '36.291685'
+  long: "-96.416291"
+  closest_city:
+    name: Osage
+    distance_km: 0.4
+- country: US
+  region: OK
+  exchange: '334148'
+  name: OSCAR
+  full_name: Oscar
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334149'
+  name: OVERBROOK
+  full_name: Overbrook
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149900'
+  name: OWASSO
+  full_name: Owasso
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.266812'
+  long: "-95.851379"
+  closest_city:
+    name: Owasso
+    distance_km: 2.96
+- country: US
+  region: OK
+  exchange: '149910'
+  name: PADEN
+  full_name: Paden
+  lata: '536'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '35.505691'
+  long: "-96.56558"
+  closest_city:
+    name: Paden
+    distance_km: 0.31
+- country: US
+  region: OK
+  exchange: '149920'
+  name: PANAMA
+  full_name: Panama
+  lata: '538'
+  ilec_name: LAVACA TEL CO
+  lat: '35.163997'
+  long: "-94.665277"
+  closest_city:
+    name: Panama
+    distance_km: 0.86
+- country: US
+  region: OK
+  exchange: '149930'
+  name: PAOLI
+  full_name: Paoli
+  lata: '536'
+  ilec_name: CHICKASAW TEL. CO.
+  lat: '34.832026'
+  long: "-97.257499"
+  closest_city:
+    name: Paoli
+    distance_km: 0.78
+- country: US
+  region: OK
+  exchange: '334152'
+  name: PARADISE
+  full_name: Paradise
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334473'
+  name: PARADISEHL
+  full_name: Paradise Hill
+  lata: '538'
+  ilec_name: CROSS TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334474'
+  name: PARK HILL
+  full_name: Park Hill
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149940'
+  name: PAULS VLY
+  full_name: Pauls Valley
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.739164'
+  long: "-97.218313"
+  closest_city:
+    name: Pauls Valley
+    distance_km: 2.0
+- country: US
+  region: OK
+  exchange: '149950'
+  name: PAWHUSKA
+  full_name: Pawhuska
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.660014'
+  long: "-96.334428"
+  closest_city:
+    name: Pawhuska
+    distance_km: 1.01
+- country: US
+  region: OK
+  exchange: '149960'
+  name: PAWNEE
+  full_name: Pawnee
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.339976'
+  long: "-96.80306"
+  closest_city:
+    name: Pawnee
+    distance_km: 0.94
+- country: US
+  region: OK
+  exchange: '149970'
+  name: PEARSON
+  full_name: Pearson
+  lata: '536'
+  ilec_name: POTTAWATOMIE TEL. CO.
+  lat: '35.074411'
+  long: "-96.935347"
+  closest_city:
+    name: St. Louis
+    distance_km: 6.92
+- country: US
+  region: OK
+  exchange: '334155'
+  name: PECKHAM
+  full_name: Peckham
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149980'
+  name: PEGGS
+  full_name: Peggs
+  lata: '538'
+  ilec_name: CONSOLIDATED COMMUNICATIONS OF OKLAHOMA COMPANY
+  lat: '36.114372'
+  long: "-95.087051"
+  closest_city:
+    name: Peggs
+    distance_km: 5.41
+- country: US
+  region: OK
+  exchange: '334478'
+  name: PENSACOLA
+  full_name: Pensacola
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334479'
+  name: PEORIA
+  full_name: Peoria
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '149990'
+  name: PERKINS
+  full_name: Perkins
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.975847'
+  long: "-97.032498"
+  closest_city:
+    name: Perkins
+    distance_km: 0.37
+- country: US
+  region: OK
+  exchange: '334157'
+  name: PERNELL
+  full_name: Pernell
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150000'
+  name: PERRY
+  full_name: Perry
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.288838'
+  long: "-97.287537"
+  closest_city:
+    name: Perry
+    distance_km: 2.04
+- country: US
+  region: OK
+  exchange: '334159'
+  name: PHAROAH
+  full_name: Pharoah
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150010'
+  name: PICHER
+  full_name: Picher
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.983173'
+  long: "-94.832123"
+  closest_city:
+    name: Quapaw
+    distance_km: 5.91
+- country: US
+  region: OK
+  exchange: '150020'
+  name: PIEDMONT
+  full_name: Piedmont
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.644973'
+  long: "-97.746094"
+  closest_city:
+    name: Piedmont
+    distance_km: 3.73
+- country: US
+  region: OK
+  exchange: '334481'
+  name: PIERCE
+  full_name: Pierce
+  lata: '538'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150030'
+  name: PIKE CITY
+  full_name: Pike City
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '34.33356'
+  long: "-97.484374"
+  closest_city:
+    name: Fox
+    distance_km: 3.05
+- country: US
+  region: OK
+  exchange: '334482'
+  name: PITTSBURG
+  full_name: Pittsburg
+  lata: '538'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334162'
+  name: PLATTER
+  full_name: Platter
+  lata: '536'
+  ilec_name: CHEROKEE TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150040'
+  name: POCASSET
+  full_name: Pocasset
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.199055'
+  long: "-97.952837"
+  closest_city:
+    name: Pocasset
+    distance_km: 2.41
+- country: US
+  region: OK
+  exchange: '150050'
+  name: POCOLA
+  full_name: Pocola
+  lata: '526'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.259539'
+  long: "-94.480843"
+  closest_city:
+    name: Pocola
+    distance_km: 1.59
+- country: US
+  region: OK
+  exchange: '150060'
+  name: PONCA CITY
+  full_name: Ponca City
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.71023'
+  long: "-97.07938"
+  closest_city:
+    name: Ponca City
+    distance_km: 1.81
+- country: US
+  region: OK
+  exchange: '150070'
+  name: POND CREEK
+  full_name: Pond Creek
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.665355'
+  long: "-97.807732"
+  closest_city:
+    name: Pond Creek
+    distance_km: 0.55
+- country: US
+  region: OK
+  exchange: '334166'
+  name: PONTOTOC
+  full_name: Pontotoc
+  lata: '536'
+  ilec_name: MID-AMERICA TEL., INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334167'
+  name: POOLEVILLE
+  full_name: Pooleville
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150080'
+  name: PORTER
+  full_name: Porter
+  lata: '538'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '35.866006'
+  long: "-95.517136"
+  closest_city:
+    name: Porter
+    distance_km: 0.29
+- country: US
+  region: OK
+  exchange: '150090'
+  name: PORUM
+  full_name: Porum
+  lata: '538'
+  ilec_name: CROSS TEL. CO.
+  lat: '35.348475'
+  long: "-95.258287"
+  closest_city:
+    name: Porum
+    distance_km: 1.08
+- country: US
+  region: OK
+  exchange: '150100'
+  name: POTEAU
+  full_name: Poteau
+  lata: '538'
+  ilec_name: OKLAHOMA WINDSTREAM, INC.
+  lat: '35.050184'
+  long: "-94.615148"
+  closest_city:
+    name: Poteau
+    distance_km: 3.02
+- country: US
+  region: OK
+  exchange: '150110'
+  name: PRAGUE
+  full_name: Prague
+  lata: '536'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '35.48306'
+  long: "-96.692103"
+  closest_city:
+    name: Prague
+    distance_km: 1.91
+- country: US
+  region: OK
+  exchange: '334486'
+  name: PRESTON
+  full_name: Preston
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334487'
+  name: PROCTOR
+  full_name: Proctor
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150120'
+  name: PRUE
+  full_name: Prue
+  lata: '538'
+  ilec_name: CIMARRON TEL. CO.
+  lat: '36.259606'
+  long: "-96.260632"
+  closest_city:
+    name: Prue
+    distance_km: 1.25
+- country: US
+  region: OK
+  exchange: '150130'
+  name: PRYOR
+  full_name: Pryor
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.310139'
+  long: "-95.317657"
+  closest_city:
+    name: Pryor Creek
+    distance_km: 1.33
+- country: US
+  region: OK
+  exchange: '150140'
+  name: PURCELL
+  full_name: Purcell
+  lata: '536'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '35.009927'
+  long: "-97.357937"
+  closest_city:
+    name: Purcell
+    distance_km: 2.18
+- country: US
+  region: OK
+  exchange: '150150'
+  name: PUTNAM
+  full_name: Putnam
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '35.858045'
+  long: "-98.969155"
+  closest_city:
+    name: Putnam
+    distance_km: 0.25
+- country: US
+  region: OK
+  exchange: '150160'
+  name: QUAPAW
+  full_name: Quapaw
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.956381'
+  long: "-94.784054"
+  closest_city:
+    name: Quapaw
+    distance_km: 0.81
+- country: US
+  region: OK
+  exchange: '150170'
+  name: QUINLAN
+  full_name: Quinlan
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.457002'
+  long: "-99.048571"
+  closest_city:
+    name: Quinlan
+    distance_km: 0.27
+- country: US
+  region: OK
+  exchange: '150180'
+  name: QUINTON
+  full_name: Quinton
+  lata: '538'
+  ilec_name: CROSS TEL. CO.
+  lat: '35.127368'
+  long: "-95.359767"
+  closest_city:
+    name: Quinton
+    distance_km: 0.61
+- country: US
+  region: OK
+  exchange: '150190'
+  name: RALSTON
+  full_name: Ralston
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.50226'
+  long: "-96.734222"
+  closest_city:
+    name: Ralston
+    distance_km: 0.31
+- country: US
+  region: OK
+  exchange: '150200'
+  name: RAMONA
+  full_name: Ramona
+  lata: '538'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '36.534985'
+  long: "-95.917026"
+  closest_city:
+    name: Ramona
+    distance_km: 0.86
+- country: US
+  region: OK
+  exchange: '150210'
+  name: RANDLETT
+  full_name: Randlett
+  lata: '536'
+  ilec_name: SANTA ROSA TEL COOP INC
+  lat: '34.176644'
+  long: "-98.466706"
+  closest_city:
+    name: Randlett
+    distance_km: 0.27
+- country: US
+  region: OK
+  exchange: '150220'
+  name: RATLIFF CY
+  full_name: Ratliff City
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '34.450476'
+  long: "-97.506207"
+  closest_city:
+    name: Ratliff City
+    distance_km: 0.86
+- country: US
+  region: OK
+  exchange: '150230'
+  name: RATTAN
+  full_name: Rattan
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.200925'
+  long: "-95.414562"
+  closest_city:
+    name: Rattan
+    distance_km: 0.14
+- country: US
+  region: OK
+  exchange: '334175'
+  name: RAVIA
+  full_name: Ravia
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150240'
+  name: RED OAK
+  full_name: Red Oak
+  lata: '538'
+  ilec_name: OKLAHOMA WESTERN TEL. CO.
+  lat: '34.948807'
+  long: "-95.081169"
+  closest_city:
+    name: Red Oak
+    distance_km: 0.35
+- country: US
+  region: OK
+  exchange: '150250'
+  name: RED ROCK
+  full_name: Red Rock
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.460894'
+  long: "-97.172197"
+  closest_city:
+    name: Red Rock
+    distance_km: 0.67
+- country: US
+  region: OK
+  exchange: '334177'
+  name: REDDEN
+  full_name: Redden
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150260'
+  name: REED
+  full_name: Reed
+  lata: '536'
+  ilec_name: SOUTHWEST OKLAHOMA TEL. CO.
+  lat: '34.900318'
+  long: "-99.698585"
+  closest_city:
+    name: Mangum
+    distance_km: 17.93
+- country: US
+  region: OK
+  exchange: '334179'
+  name: RENFROW
+  full_name: Renfrow
+  lata: '536'
+  ilec_name: KANOKLA TEL ASSN
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150270'
+  name: REYDON
+  full_name: Reydon
+  lata: '536'
+  ilec_name: DOBSON TEL. CO.
+  lat: '35.650202'
+  long: "-99.924216"
+  closest_city:
+    name: Reydon
+    distance_km: 0.07
+- country: US
+  region: OK
+  exchange: '334181'
+  name: RICHASSPUR
+  full_name: Richards Spur
+  lata: '536'
+  ilec_name: OKLAHOMA COMMUNICATION SYSTEM, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150280'
+  name: RINGLING
+  full_name: Ringling
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.174061'
+  long: "-97.589855"
+  closest_city:
+    name: Ringling
+    distance_km: 0.38
+- country: US
+  region: OK
+  exchange: '334183'
+  name: RINGOLD
+  full_name: Ringold
+  lata: '536'
+  ilec_name: VALLIANT TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150290'
+  name: RINGWOOD
+  full_name: Ringwood
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.382467'
+  long: "-98.249519"
+  closest_city:
+    name: Ringwood
+    distance_km: 0.68
+- country: US
+  region: OK
+  exchange: '150300'
+  name: RIPLEY
+  full_name: Ripley
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.01777'
+  long: "-96.902007"
+  closest_city:
+    name: Ripley
+    distance_km: 0.28
+- country: US
+  region: OK
+  exchange: '150310'
+  name: ROCKY
+  full_name: Rocky
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.157343'
+  long: "-99.057509"
+  closest_city:
+    name: Rocky
+    distance_km: 0.24
+- country: US
+  region: OK
+  exchange: '150320'
+  name: ROFF
+  full_name: Roff
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.627789'
+  long: "-96.840595"
+  closest_city:
+    name: Roff
+    distance_km: 0.11
+- country: US
+  region: OK
+  exchange: '150330'
+  name: ROGERMILLS
+  full_name: Roger Mills
+  lata: '536'
+  ilec_name: DOBSON TEL. CO.
+  lat: '35.81687'
+  long: "-99.789267"
+  closest_city:
+    name: Durham
+    distance_km: 12.69
+- country: US
+  region: OK
+  exchange: '334496'
+  name: ROLAND
+  full_name: Roland
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150340'
+  name: ROOSEVELT
+  full_name: Roosevelt
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '34.852661'
+  long: "-99.017778"
+  closest_city:
+    name: Roosevelt
+    distance_km: 0.64
+- country: US
+  region: OK
+  exchange: '334497'
+  name: ROSE
+  full_name: Rose
+  lata: '538'
+  ilec_name: SALINA-SPAVINAW TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150350'
+  name: ROSEDALE
+  full_name: Rosedale
+  lata: '536'
+  ilec_name: CHICKASAW TEL. CO.
+  lat: '34.916362'
+  long: "-97.180722"
+  closest_city:
+    name: Rosedale
+    distance_km: 0.46
+- country: US
+  region: OK
+  exchange: '334190'
+  name: ROSSTON
+  full_name: Rosston
+  lata: '536'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334191'
+  name: RUBOTTOM
+  full_name: Rubottom
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150360'
+  name: RUFE
+  full_name: Rufe
+  lata: '536'
+  ilec_name: VALLIANT TEL. CO.
+  lat: '34.124064'
+  long: "-95.141354"
+  closest_city:
+    name: Swink
+    distance_km: 13.15
+- country: US
+  region: OK
+  exchange: '150370'
+  name: RUSH SPG
+  full_name: Rush Springs
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.78105'
+  long: "-97.952735"
+  closest_city:
+    name: Rush Springs
+    distance_km: 0.48
+- country: US
+  region: OK
+  exchange: '334194'
+  name: RUSSETT
+  full_name: Russett
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150380'
+  name: RYAN
+  full_name: Ryan
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.019787'
+  long: "-97.953182"
+  closest_city:
+    name: Ryan
+    distance_km: 0.19
+- country: US
+  region: OK
+  exchange: '150390'
+  name: SALINA
+  full_name: Salina
+  lata: '538'
+  ilec_name: SALINA-SPAVINAW TEL. CO.
+  lat: '36.302113'
+  long: "-95.149042"
+  closest_city:
+    name: Salina
+    distance_km: 1.29
+- country: US
+  region: OK
+  exchange: '150400'
+  name: SALLISAW
+  full_name: Sallisaw
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.45481'
+  long: "-94.787873"
+  closest_city:
+    name: Sallisaw
+    distance_km: 1.87
+- country: US
+  region: OK
+  exchange: '150401'
+  name: SALLISAW (DIAMONDNET)
+  full_name: Sallisaw (DiamondNet)
+  lata: '538'
+  ilec_name: VANTAGE TELECOM, LLC DBA NEWROADS TELECOM - OK
+  lat: '35.45481'
+  long: "-94.787873"
+  closest_city:
+    name: Sallisaw
+    distance_km: 1.87
+- country: US
+  region: OK
+  exchange: '150410'
+  name: SAND SPG
+  full_name: Sand Springs
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.139671'
+  long: "-96.112834"
+  closest_city:
+    name: Sand Springs
+    distance_km: 1.47
+- country: US
+  region: OK
+  exchange: '150420'
+  name: SAPULPA
+  full_name: Sapulpa
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.99862'
+  long: "-96.110885"
+  closest_city:
+    name: Sapulpa
+    distance_km: 1.5
+- country: US
+  region: OK
+  exchange: '150430'
+  name: SASAKWA
+  full_name: Sasakwa
+  lata: '536'
+  ilec_name: POTTAWATOMIE TEL. CO.
+  lat: '34.951592'
+  long: "-96.525437"
+  closest_city:
+    name: Sasakwa
+    distance_km: 0.53
+- country: US
+  region: OK
+  exchange: '150440'
+  name: SAVANNA
+  full_name: Savanna
+  lata: '538'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '34.835497'
+  long: "-95.835073"
+  closest_city:
+    name: Savanna
+    distance_km: 0.04
+- country: US
+  region: OK
+  exchange: '334197'
+  name: SAWYER
+  full_name: Sawyer
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150450'
+  name: SAYRE
+  full_name: Sayre
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.292982'
+  long: "-99.641606"
+  closest_city:
+    name: Sayre
+    distance_km: 1.25
+- country: US
+  region: OK
+  exchange: '334503'
+  name: SCHULTER
+  full_name: Schulter
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150460'
+  name: SCIPIO
+  full_name: Scipio
+  lata: '538'
+  ilec_name: OKLATEL COMMUNICATIONS, INC.
+  lat: '35.050968'
+  long: "-95.950341"
+  closest_city:
+    name: Scipio
+    distance_km: 0.48
+- country: US
+  region: OK
+  exchange: '150470'
+  name: SEILING
+  full_name: Seiling
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.14953'
+  long: "-98.918488"
+  closest_city:
+    name: Seiling
+    distance_km: 1.26
+- country: US
+  region: OK
+  exchange: '150480'
+  name: SELMAN
+  full_name: Selman
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.788747'
+  long: "-99.473449"
+  closest_city:
+    name: Selman
+    distance_km: 2.0
+- country: US
+  region: OK
+  exchange: '150490'
+  name: SEMINOLE
+  full_name: Seminole
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.229238'
+  long: "-96.666122"
+  closest_city:
+    name: Seminole
+    distance_km: 1.65
+- country: US
+  region: OK
+  exchange: '150500'
+  name: SENTINEL
+  full_name: Sentinel
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '35.149268'
+  long: "-99.174797"
+  closest_city:
+    name: Sentinel
+    distance_km: 0.87
+- country: US
+  region: OK
+  exchange: '334203'
+  name: SEWARD
+  full_name: Seward
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334505'
+  name: SHADY GR
+  full_name: Shady Grove
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334506'
+  name: SHADYPOINT
+  full_name: Shady Point
+  lata: '538'
+  ilec_name: LAVACA TEL CO
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334507'
+  name: SHAMROCK
+  full_name: Shamrock
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150510'
+  name: SHARON
+  full_name: Sharon
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.282397'
+  long: "-99.335785"
+  closest_city:
+    name: Sharon
+    distance_km: 0.79
+- country: US
+  region: OK
+  exchange: '150520'
+  name: SHATTUCK
+  full_name: Shattuck
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.264462'
+  long: "-99.882704"
+  closest_city:
+    name: Shattuck
+    distance_km: 0.48
+- country: US
+  region: OK
+  exchange: '150530'
+  name: SHAWNEE
+  full_name: Shawnee
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.330687'
+  long: "-96.924637"
+  closest_city:
+    name: Shawnee
+    distance_km: 4.41
+- country: US
+  region: OK
+  exchange: '150540'
+  name: SHIDLER
+  full_name: Shidler
+  lata: '538'
+  ilec_name: SHIDLER TEL. CO.
+  lat: '36.783137'
+  long: "-96.660844"
+  closest_city:
+    name: Shidler
+    distance_km: 0.29
+- country: US
+  region: OK
+  exchange: '334207'
+  name: SILO
+  full_name: Silo
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150550'
+  name: SKEDEE
+  full_name: Skedee
+  lata: '538'
+  ilec_name: CIMARRON TEL. CO.
+  lat: '36.381755'
+  long: "-96.702443"
+  closest_city:
+    name: Skedee
+    distance_km: 0.19
+- country: US
+  region: OK
+  exchange: '150560'
+  name: SKIATOOK
+  full_name: Skiatook
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.368204'
+  long: "-96.002509"
+  closest_city:
+    name: Skiatook
+    distance_km: 1.53
+- country: US
+  region: OK
+  exchange: '334208'
+  name: SLAGHTRVL
+  full_name: Slaughterville
+  lata: '536'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334512'
+  name: SLICK
+  full_name: Slick
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334209'
+  name: SMITH VLG
+  full_name: Smith Village
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150570'
+  name: SMITHVILLE
+  full_name: Smithville
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '34.474411'
+  long: "-94.64207"
+  closest_city:
+    name: Smithville
+    distance_km: 0.72
+- country: US
+  region: OK
+  exchange: '334211'
+  name: SNOW
+  full_name: Snow
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150580'
+  name: SNUGHARBOR
+  full_name: Snug Harbor
+  lata: '538'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '35.990473'
+  long: "-95.280899"
+  closest_city:
+    name: Whitehorn Cove
+    distance_km: 0.63
+- country: US
+  region: OK
+  exchange: '150590'
+  name: SNYDER
+  full_name: Snyder
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '34.649817'
+  long: "-98.955678"
+  closest_city:
+    name: Snyder
+    distance_km: 0.61
+- country: US
+  region: OK
+  exchange: '150600'
+  name: SOPER
+  full_name: Soper
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.033771'
+  long: "-95.696352"
+  closest_city:
+    name: Soper
+    distance_km: 0.19
+- country: US
+  region: OK
+  exchange: '150610'
+  name: SARKNSASCY
+  full_name: South Arkansas City
+  lata: '532'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.975015'
+  long: "-97.03377"
+  closest_city:
+    name: Newkirk
+    distance_km: 10.55
+- country: US
+  region: OK
+  exchange: '150620'
+  name: SOBARTLETT
+  full_name: South Bartlett
+  lata: '532'
+  ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
+  lat: '36.985243'
+  long: "-95.217521"
+  closest_city:
+    name: Welch
+    distance_km: 16.48
+- country: US
+  region: OK
+  exchange: '150630'
+  name: SOBLF CITY
+  full_name: South Bluff City
+  lata: '536'
+  ilec_name: KANOKLA TEL ASSN
+  lat: '36.98218'
+  long: "-97.881045"
+  closest_city:
+    name: Wakita
+    distance_km: 11.79
+- country: US
+  region: OK
+  exchange: '150640'
+  name: SOCALDWELL
+  full_name: South Caldwell
+  lata: '536'
+  ilec_name: KANOKLA TEL ASSN
+  lat: '36.990421'
+  long: "-97.624542"
+  closest_city:
+    name: Renfrow
+    distance_km: 7.86
+- country: US
+  region: OK
+  exchange: '150650'
+  name: SO CHETOPA
+  full_name: South Chetopa
+  lata: '532'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.981881'
+  long: "-95.076005"
+  closest_city:
+    name: Welch
+    distance_km: 12.08
+- country: US
+  region: OK
+  exchange: '150660'
+  name: SOCOFFEYVL
+  full_name: South Coffeyville
+  lata: '532'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.991377'
+  long: "-95.61878"
+  closest_city:
+    name: South Coffeyville
+    distance_km: 0.29
+- country: US
+  region: OK
+  exchange: '150670'
+  name: SO COLDWTR
+  full_name: South Coldwater
+  lata: '532'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.983624'
+  long: "-99.31611"
+  closest_city:
+    name: Selman
+    distance_km: 25.46
+- country: US
+  region: OK
+  exchange: '150680'
+  name: SOUTH EDNA
+  full_name: South Edna
+  lata: '532'
+  ilec_name: CRAW-KAN TEL. COOP.,INC. - KS
+  lat: '36.981703'
+  long: "-95.368809"
+  closest_city:
+    name: South Coffeyville
+    distance_km: 22.51
+- country: US
+  region: OK
+  exchange: '150690'
+  name: SOUTHELGIN
+  full_name: South Elgin
+  lata: '532'
+  ilec_name: TOTAH COMMUNICATIONS, INC.
+  lat: '36.981156'
+  long: "-96.275846"
+  closest_city:
+    name: Whippoorwill
+    distance_km: 15.15
+- country: US
+  region: OK
+  exchange: '150700'
+  name: SO ELKHART
+  full_name: South Elkhart
+  lata: '532'
+  ilec_name: ELKHART TEL. CO., INC.
+  lat: '36.993684'
+  long: "-101.892321"
+  closest_city:
+    name: Hough
+    distance_km: 31.31
+- country: US
+  region: OK
+  exchange: '150710'
+  name: SO ENGLEWD
+  full_name: South Englewood
+  lata: '532'
+  ilec_name: UNITED TEL. ASSN., INC.
+  lat: '36.990771'
+  long: "-100.003168"
+  closest_city:
+    name: Gate
+    distance_km: 16.14
+- country: US
+  region: OK
+  exchange: '150720'
+  name: SOHARDTNER
+  full_name: South Hardtner
+  lata: '536'
+  ilec_name: KANOKLA TEL ASSN
+  lat: '36.956655'
+  long: "-98.642785"
+  closest_city:
+    name: Capron
+    distance_km: 8.84
+- country: US
+  region: OK
+  exchange: '150730'
+  name: SOUTHHAVEN
+  full_name: South Haven
+  lata: '536'
+  ilec_name: KANOKLA TEL ASSN
+  lat: '36.992826'
+  long: "-97.41376"
+  closest_city:
+    name: Braman
+    distance_km: 10.36
+- country: US
+  region: OK
+  exchange: '150740'
+  name: SO HEWINS
+  full_name: South Hewins
+  lata: '532'
+  ilec_name: TOTAH COMMUNICATIONS, INC.
+  lat: '36.982042'
+  long: "-96.399316"
+  closest_city:
+    name: Foraker
+    distance_km: 19.39
+- country: US
+  region: OK
+  exchange: '150750'
+  name: SOUTHMEADE
+  full_name: South Meade
+  lata: '532'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.991998'
+  long: "-100.344043"
+  closest_city:
+    name: Knowles
+    distance_km: 18.9
+- country: US
+  region: OK
+  exchange: '150760'
+  name: SO WALDRON
+  full_name: South Waldron
+  lata: '536'
+  ilec_name: KANOKLA TEL ASSN
+  lat: '36.973782'
+  long: "-98.186455"
+  closest_city:
+    name: Amorita
+    distance_km: 11.01
+- country: US
+  region: OK
+  exchange: '150770'
+  name: SOWESTCITY
+  full_name: South West City
+  lata: '522'
+  ilec_name: OZARK TELEPHONE COMPANY
+  lat: '36.514145'
+  long: "-94.615928"
+  closest_city:
+    name: Dodge
+    distance_km: 7.48
+- country: US
+  region: OK
+  exchange: '334218'
+  name: SOUTHARD
+  full_name: Southard
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150780'
+  name: SPARKS
+  full_name: Sparks
+  lata: '538'
+  ilec_name: CENTRAL OKLAHOMA TELEPHONE CO., L.L.C.
+  lat: '35.609925'
+  long: "-96.817545"
+  closest_city:
+    name: Sparks
+    distance_km: 0.21
+- country: US
+  region: OK
+  exchange: '334220'
+  name: SPAULDING
+  full_name: Spaulding
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150790'
+  name: SPAVINAW
+  full_name: Spavinaw
+  lata: '538'
+  ilec_name: SALINA-SPAVINAW TEL. CO.
+  lat: '36.398335'
+  long: "-95.049069"
+  closest_city:
+    name: Spavinaw
+    distance_km: 0.53
+- country: US
+  region: OK
+  exchange: '150800'
+  name: SPENCER
+  full_name: Spencer
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.524203'
+  long: "-97.374739"
+  closest_city:
+    name: Spencer
+    distance_km: 1.52
+- country: US
+  region: OK
+  exchange: '334222'
+  name: SPENCERVL
+  full_name: Spencerville
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150810'
+  name: SPERRY
+  full_name: Sperry
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.298411'
+  long: "-95.988964"
+  closest_city:
+    name: Sperry
+    distance_km: 0.66
+- country: US
+  region: OK
+  exchange: '150820'
+  name: SPIRO
+  full_name: Spiro
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.238683'
+  long: "-94.620051"
+  closest_city:
+    name: Spiro
+    distance_km: 0.42
+- country: US
+  region: OK
+  exchange: '334518'
+  name: SPTSMN AC
+  full_name: Sportsmen Acres
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150830'
+  name: SPRINGER
+  full_name: Springer
+  lata: '536'
+  ilec_name: CHICKASAW TEL. CO.
+  lat: '34.316845'
+  long: "-97.134655"
+  closest_city:
+    name: Springer
+    distance_km: 2.99
+- country: US
+  region: OK
+  exchange: '150840'
+  name: ST LOUIS
+  full_name: St Louis
+  lata: '536'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '35.073373'
+  long: "-96.857478"
+  closest_city:
+    name: St. Louis
+    distance_km: 0.9
+- country: US
+  region: OK
+  exchange: '150850'
+  name: STELLA
+  full_name: Stella
+  lata: '536'
+  ilec_name: MCLOUD TEL. CO.
+  lat: '35.361869'
+  long: "-97.199594"
+  closest_city:
+    name: McLoud
+    distance_km: 10.47
+- country: US
+  region: OK
+  exchange: '150860'
+  name: STERLING
+  full_name: Sterling
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '34.750091'
+  long: "-98.164493"
+  closest_city:
+    name: Sterling
+    distance_km: 0.74
+- country: US
+  region: OK
+  exchange: '334519'
+  name: STIDHAM
+  full_name: Stidham
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150870'
+  name: STIGLER
+  full_name: Stigler
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.255801'
+  long: "-95.123341"
+  closest_city:
+    name: Stigler
+    distance_km: 0.49
+- country: US
+  region: OK
+  exchange: '150880'
+  name: STILLWATER
+  full_name: Stillwater
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.117756'
+  long: "-97.054029"
+  closest_city:
+    name: Stillwater
+    distance_km: 2.38
+- country: US
+  region: OK
+  exchange: '150890'
+  name: STILWELL
+  full_name: Stilwell
+  lata: '538'
+  ilec_name: OKLAHOMA WINDSTREAM, INC.
+  lat: '35.815058'
+  long: "-94.622887"
+  closest_city:
+    name: Stilwell
+    distance_km: 0.8
+- country: US
+  region: OK
+  exchange: '150900'
+  name: STONEWALL
+  full_name: Stonewall
+  lata: '536'
+  ilec_name: MID-AMERICA TEL., INC.
+  lat: '34.650536'
+  long: "-96.523376"
+  closest_city:
+    name: Stonewall
+    distance_km: 0.32
+- country: US
+  region: OK
+  exchange: '150910'
+  name: STRANG
+  full_name: Strang
+  lata: '538'
+  ilec_name: SALINA-SPAVINAW TEL. CO.
+  lat: '36.417048'
+  long: "-95.131993"
+  closest_city:
+    name: Strang
+    distance_km: 0.58
+- country: US
+  region: OK
+  exchange: '150920'
+  name: STRATFORD
+  full_name: Stratford
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.798367'
+  long: "-96.961608"
+  closest_city:
+    name: Stratford
+    distance_km: 0.37
+- country: US
+  region: OK
+  exchange: '150930'
+  name: STRINGTOWN
+  full_name: Stringtown
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '34.467941'
+  long: "-96.049162"
+  closest_city:
+    name: Stringtown
+    distance_km: 0.58
+- country: US
+  region: OK
+  exchange: '334232'
+  name: STRONGCITY
+  full_name: Strong City
+  lata: '536'
+  ilec_name: DOBSON TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150940'
+  name: STROUD
+  full_name: Stroud
+  lata: '538'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '35.750424'
+  long: "-96.668915"
+  closest_city:
+    name: Stroud
+    distance_km: 2.85
+- country: US
+  region: OK
+  exchange: '150950'
+  name: STUART
+  full_name: Stuart
+  lata: '538'
+  ilec_name: CHEROKEE TEL. CO.
+  lat: '34.901075'
+  long: "-96.098044"
+  closest_city:
+    name: Stuart
+    distance_km: 0.12
+- country: US
+  region: OK
+  exchange: '334233'
+  name: SUGDEN
+  full_name: Sugden
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150960'
+  name: SULPHUR
+  full_name: Sulphur
+  lata: '536'
+  ilec_name: CHICKASAW TEL. CO.
+  lat: '34.509365'
+  long: "-96.964032"
+  closest_city:
+    name: Sulphur
+    distance_km: 2.68
+- country: US
+  region: OK
+  exchange: '150970'
+  name: SUMMERFLD
+  full_name: Summerfield
+  lata: '538'
+  ilec_name: OKLAHOMA WESTERN TEL. CO.
+  lat: '34.899112'
+  long: "-94.870138"
+  closest_city:
+    name: Fanshawe
+    distance_km: 8.43
+- country: US
+  region: OK
+  exchange: '334526'
+  name: SUMMIT
+  full_name: Summit
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150980'
+  name: SWEETWATER
+  full_name: Sweetwater
+  lata: '536'
+  ilec_name: DOBSON TEL. CO.
+  lat: '35.425886'
+  long: "-99.916784"
+  closest_city:
+    name: Sweetwater
+    distance_km: 0.62
+- country: US
+  region: OK
+  exchange: '334236'
+  name: SWINK
+  full_name: Swink
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334237'
+  name: TABLER
+  full_name: Tabler
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '150990'
+  name: TAHLEQUAH
+  full_name: Tahlequah
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.916913'
+  long: "-94.968945"
+  closest_city:
+    name: Tahlequah
+    distance_km: 0.96
+- country: US
+  region: OK
+  exchange: '151000'
+  name: TALALA
+  full_name: Talala
+  lata: '538'
+  ilec_name: TOTAH COMMUNICATIONS, INC.
+  lat: '36.532436'
+  long: "-95.70225"
+  closest_city:
+    name: Talala
+    distance_km: 0.34
+- country: US
+  region: OK
+  exchange: '151010'
+  name: TALIHINA
+  full_name: Talihina
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.749412'
+  long: "-95.044444"
+  closest_city:
+    name: Talihina
+    distance_km: 0.46
+- country: US
+  region: OK
+  exchange: '151020'
+  name: TALOGA
+  full_name: Taloga
+  lata: '536'
+  ilec_name: DOBSON TEL. CO.
+  lat: '36.041231'
+  long: "-98.968832"
+  closest_city:
+    name: Taloga
+    distance_km: 0.45
+- country: US
+  region: OK
+  exchange: '334530'
+  name: TAMAHA
+  full_name: Tamaha
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151030'
+  name: TECUMSEH
+  full_name: Tecumseh
+  lata: '536'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '35.259325'
+  long: "-96.935426"
+  closest_city:
+    name: Tecumseh
+    distance_km: 0.53
+- country: US
+  region: OK
+  exchange: '151040'
+  name: TEMPLE
+  full_name: Temple
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '34.274649'
+  long: "-98.231618"
+  closest_city:
+    name: Temple
+    distance_km: 0.36
+- country: US
+  region: OK
+  exchange: '334531'
+  name: TERLTON
+  full_name: Terlton
+  lata: '538'
+  ilec_name: CIMARRON TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151050'
+  name: TERRAL
+  full_name: Terral
+  lata: '536'
+  ilec_name: TERRAL TEL. CO.
+  lat: '33.894322'
+  long: "-97.93486"
+  closest_city:
+    name: Terral
+    distance_km: 0.41
+- country: US
+  region: OK
+  exchange: '151060'
+  name: TEXHOMA
+  full_name: Texhoma
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat: '36.507133'
+  long: "-101.779256"
+  closest_city:
+    name: Texhoma
+    distance_km: 0.74
+- country: US
+  region: OK
+  exchange: '334242'
+  name: TEXOLA
+  full_name: Texola
+  lata: '536'
+  ilec_name: DOBSON TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334243'
+  name: THACKERVL
+  full_name: Thackerville
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334244'
+  name: THEVILLAGE
+  full_name: The Village
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151070'
+  name: THOMAS
+  full_name: Thomas
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '35.749598'
+  long: "-98.747949"
+  closest_city:
+    name: Thomas
+    distance_km: 0.55
+- country: US
+  region: OK
+  exchange: '151080'
+  name: TIFF CITY
+  full_name: Tiff City
+  lata: '522'
+  ilec_name: SENECA TEL. CO.
+  lat: '36.665505'
+  long: "-94.615773"
+  closest_city:
+    name: Cayuga
+    distance_km: 5.64
+- country: US
+  region: OK
+  exchange: '334246'
+  name: TINKER AFB
+  full_name: Tinker Air Force Base
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151090'
+  name: TIPTON
+  full_name: Tipton
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '34.507458'
+  long: "-99.133261"
+  closest_city:
+    name: Tipton
+    distance_km: 2.66
+- country: US
+  region: OK
+  exchange: '151100'
+  name: TISHOMINGO
+  full_name: Tishomingo
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.239297'
+  long: "-96.682749"
+  closest_city:
+    name: Tishomingo
+    distance_km: 0.06
+- country: US
+  region: OK
+  exchange: '334249'
+  name: TOM
+  full_name: Tom
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151110'
+  name: TONKAWA
+  full_name: Tonkawa
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.68435'
+  long: "-97.307418"
+  closest_city:
+    name: Tonkawa
+    distance_km: 1.66
+- country: US
+  region: OK
+  exchange: '151120'
+  name: TRIBBEY
+  full_name: Tribbey
+  lata: '536'
+  ilec_name: POTTAWATOMIE TEL. CO.
+  lat: '35.099561'
+  long: "-97.176186"
+  closest_city:
+    name: Etowah
+    distance_km: 3.45
+- country: US
+  region: OK
+  exchange: '334252'
+  name: TROUSDALE
+  full_name: Trousdale
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151130'
+  name: TRYON
+  full_name: Tryon
+  lata: '538'
+  ilec_name: CENTRAL OKLAHOMA TELEPHONE CO., L.L.C.
+  lat: '35.863962'
+  long: "-96.965816"
+  closest_city:
+    name: Tryon
+    distance_km: 1.84
+- country: US
+  region: OK
+  exchange: '334533'
+  name: TULLAHASSE
+  full_name: Tullahassee
+  lata: '538'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151140'
+  name: TULSA
+  full_name: Tulsa
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.151312'
+  long: "-95.984191"
+  closest_city:
+    name: Tulsa
+    distance_km: 7.63
+- country: US
+  region: OK
+  exchange: '151150'
+  name: TUPELO
+  full_name: Tupelo
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.605175'
+  long: "-96.419586"
+  closest_city:
+    name: Tupelo
+    distance_km: 0.3
+- country: US
+  region: OK
+  exchange: '151160'
+  name: TURPIN
+  full_name: Turpin
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat: '36.982691'
+  long: "-100.926302"
+  closest_city:
+    name: Little Ponderosa
+    distance_km: 4.9
+- country: US
+  region: OK
+  exchange: '334254'
+  name: TUSHKA
+  full_name: Tushka
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334536'
+  name: TUSKAHOMA
+  full_name: Tuskahoma
+  lata: '538'
+  ilec_name: OKLAHOMA WESTERN TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334255'
+  name: TUSSY
+  full_name: Tussy
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151170'
+  name: TUTTLE
+  full_name: Tuttle
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.292858'
+  long: "-97.811957"
+  closest_city:
+    name: Tuttle
+    distance_km: 5.27
+- country: US
+  region: OK
+  exchange: '334537'
+  name: TWIN OAKS
+  full_name: Twin Oaks
+  lata: '538'
+  ilec_name: SALINA-SPAVINAW TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151180'
+  name: TYRONE
+  full_name: Tyrone
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat: '36.913012'
+  long: "-101.078346"
+  closest_city:
+    name: Tyrone
+    distance_km: 4.81
+- country: US
+  region: OK
+  exchange: '334257'
+  name: UNCAS
+  full_name: Uncas
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151190'
+  name: UNION CITY
+  full_name: Union City
+  lata: '536'
+  ilec_name: OKLAHOMA COMMUNICATION SYSTEM, INC.
+  lat: '35.399524'
+  long: "-97.941885"
+  closest_city:
+    name: Union City
+    distance_km: 3.38
+- country: US
+  region: OK
+  exchange: '334259'
+  name: UTICA
+  full_name: Utica
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334538'
+  name: VALLEY PK
+  full_name: Valley Park
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151200'
+  name: VALLIANT
+  full_name: Valliant
+  lata: '536'
+  ilec_name: VALLIANT TEL. CO.
+  lat: '34.000107'
+  long: "-95.090415"
+  closest_city:
+    name: Valliant
+    distance_km: 0.75
+- country: US
+  region: OK
+  exchange: '151220'
+  name: VELMA
+  full_name: Velma
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '34.458387'
+  long: "-97.681377"
+  closest_city:
+    name: Velma
+    distance_km: 1.83
+- country: US
+  region: OK
+  exchange: '334539'
+  name: VERA
+  full_name: Vera
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151230'
+  name: VERDEN
+  full_name: Verden
+  lata: '536'
+  ilec_name: OKLAHOMA COMMUNICATION SYSTEM, INC.
+  lat: '35.084453'
+  long: "-98.091109"
+  closest_city:
+    name: Verden
+    distance_km: 0.46
+- country: US
+  region: OK
+  exchange: '334540'
+  name: VERNON
+  full_name: Vernon
+  lata: '538'
+  ilec_name: OKLATEL COMMUNICATIONS, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151240'
+  name: VIAN
+  full_name: Vian
+  lata: '538'
+  ilec_name: OKLAHOMA WINDSTREAM, INC.
+  lat: '35.499829'
+  long: "-94.972289"
+  closest_city:
+    name: Vian
+    distance_km: 0.37
+- country: US
+  region: OK
+  exchange: '151250'
+  name: VICI
+  full_name: Vici
+  lata: '536'
+  ilec_name: DOBSON TEL. CO.
+  lat: '36.148052'
+  long: "-99.300685"
+  closest_city:
+    name: Vici
+    distance_km: 0.14
+- country: US
+  region: OK
+  exchange: '151260'
+  name: VINITA
+  full_name: Vinita
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.637669'
+  long: "-95.158412"
+  closest_city:
+    name: Vinita
+    distance_km: 1.26
+- country: US
+  region: OK
+  exchange: '151270'
+  name: VINSON
+  full_name: Vinson
+  lata: '536'
+  ilec_name: SOUTHWEST OKLAHOMA TEL. CO.
+  lat: '34.899989'
+  long: "-99.859215"
+  closest_city:
+    name: Hollis
+    distance_km: 23.94
+- country: US
+  region: OK
+  exchange: '334265'
+  name: WADE
+  full_name: Wade
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151280'
+  name: WAGONER
+  full_name: Wagoner
+  lata: '538'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '35.959153'
+  long: "-95.364722"
+  closest_city:
+    name: Wagoner
+    distance_km: 1.38
+- country: US
+  region: OK
+  exchange: '334544'
+  name: WAINWRIGHT
+  full_name: Wainwright
+  lata: '538'
+  ilec_name: OKLATEL COMMUNICATIONS, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151290'
+  name: WAKITA
+  full_name: Wakita
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.883928'
+  long: "-97.916474"
+  closest_city:
+    name: Wakita
+    distance_km: 0.71
+- country: US
+  region: OK
+  exchange: '151300'
+  name: WALTERS
+  full_name: Walters
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.358209'
+  long: "-98.3056"
+  closest_city:
+    name: Walters
+    distance_km: 4.71
+- country: US
+  region: OK
+  exchange: '151310'
+  name: WANETTE
+  full_name: Wanette
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.961886'
+  long: "-97.032358"
+  closest_city:
+    name: Wanette
+    distance_km: 0.1
+- country: US
+  region: OK
+  exchange: '151320'
+  name: WANN
+  full_name: Wann
+  lata: '538'
+  ilec_name: TOTAH COMMUNICATIONS, INC.
+  lat: '36.917158'
+  long: "-95.800246"
+  closest_city:
+    name: Wann
+    distance_km: 0.49
+- country: US
+  region: OK
+  exchange: '151330'
+  name: WAPANUCKA
+  full_name: Wapanucka
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.370358'
+  long: "-96.421272"
+  closest_city:
+    name: Wapanucka
+    distance_km: 0.53
+- country: US
+  region: OK
+  exchange: '151340'
+  name: WARDVILLE
+  full_name: Wardville
+  lata: '538'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat: '34.650053'
+  long: "-96.024513"
+  closest_city:
+    name: Wardville
+    distance_km: 0.8
+- country: US
+  region: OK
+  exchange: '151350'
+  name: WARNER
+  full_name: Warner
+  lata: '538'
+  ilec_name: CROSS TEL. CO.
+  lat: '35.493659'
+  long: "-95.299306"
+  closest_city:
+    name: Warner
+    distance_km: 0.92
+- country: US
+  region: OK
+  exchange: '334270'
+  name: WARR ACRES
+  full_name: Warr Acres
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334271'
+  name: WARWICK
+  full_name: Warwick
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151360'
+  name: WASHINGTON
+  full_name: Washington
+  lata: '536'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '35.056925'
+  long: "-97.48563"
+  closest_city:
+    name: Washington
+    distance_km: 0.62
+- country: US
+  region: OK
+  exchange: '334273'
+  name: WASHITA
+  full_name: Washita
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334274'
+  name: WASHUNGA
+  full_name: Washunga
+  lata: '536'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151370'
+  name: WATONGA
+  full_name: Watonga
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '35.843279'
+  long: "-98.41407"
+  closest_city:
+    name: Watonga
+    distance_km: 2.88
+- country: US
+  region: OK
+  exchange: '334276'
+  name: WATSON
+  full_name: Watson
+  lata: '536'
+  ilec_name: WINDSTREAM OKLAHOMA, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151380'
+  name: WATTS
+  full_name: Watts
+  lata: '526'
+  ilec_name: BRIGHTSPEED OF NORTHWEST ARKANSAS, LLC
+  lat: '36.105518'
+  long: "-94.573656"
+  closest_city:
+    name: Watts
+    distance_km: 0.26
+- country: US
+  region: OK
+  exchange: '151390'
+  name: WAUKOMIS
+  full_name: Waukomis
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.280444'
+  long: "-97.896051"
+  closest_city:
+    name: Waukomis
+    distance_km: 0.58
+- country: US
+  region: OK
+  exchange: '151400'
+  name: WAURIKA
+  full_name: Waurika
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.166606'
+  long: "-97.991235"
+  closest_city:
+    name: Waurika
+    distance_km: 3.56
+- country: US
+  region: OK
+  exchange: '151410'
+  name: WAYNE
+  full_name: Wayne
+  lata: '536'
+  ilec_name: VALOR TELECOM TX.LP-OK DBA WINDSTREAM COMM SW
+  lat: '34.917103'
+  long: "-97.318544"
+  closest_city:
+    name: Wayne
+    distance_km: 0.18
+- country: US
+  region: OK
+  exchange: '151420'
+  name: WAYNOKA
+  full_name: Waynoka
+  lata: '536'
+  ilec_name: PIONEER TEL. COOP., INC.
+  lat: '36.581899'
+  long: "-98.874549"
+  closest_city:
+    name: Waynoka
+    distance_km: 0.43
+- country: US
+  region: OK
+  exchange: '151430'
+  name: WEATHERFD
+  full_name: Weatherford
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.52994'
+  long: "-98.711596"
+  closest_city:
+    name: Weatherford
+    distance_km: 2.54
+- country: US
+  region: OK
+  exchange: '151440'
+  name: WEBB CITY
+  full_name: Webb City
+  lata: '538'
+  ilec_name: SHIDLER TEL. CO.
+  lat: '36.800551'
+  long: "-96.713782"
+  closest_city:
+    name: Webb City
+    distance_km: 0.78
+- country: US
+  region: OK
+  exchange: '151450'
+  name: WEBBERSFLS
+  full_name: Webbers Falls
+  lata: '538'
+  ilec_name: CROSS TEL. CO.
+  lat: '35.506291'
+  long: "-95.13397"
+  closest_city:
+    name: Webbers Falls
+    distance_km: 2.41
+- country: US
+  region: OK
+  exchange: '151460'
+  name: WELCH
+  full_name: Welch
+  lata: '538'
+  ilec_name: ATLAS TEL. CO.
+  lat: '36.881558'
+  long: "-95.091792"
+  closest_city:
+    name: Welch
+    distance_km: 0.84
+- country: US
+  region: OK
+  exchange: '151470'
+  name: WELEETKA
+  full_name: Weleetka
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.329877'
+  long: "-96.14958"
+  closest_city:
+    name: Weleetka
+    distance_km: 1.68
+- country: US
+  region: OK
+  exchange: '334551'
+  name: WELLING
+  full_name: Welling
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151480'
+  name: WELLSTON
+  full_name: Wellston
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.691227'
+  long: "-97.062937"
+  closest_city:
+    name: Wellston
+    distance_km: 0.6
+- country: US
+  region: OK
+  exchange: '334552'
+  name: WELTY
+  full_name: Welty
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '148232'
+  name: WFORTSMITH
+  full_name: West Fort Smith
+  lata: '526'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151490'
+  name: WMAYSVILLE
+  full_name: West Maysville
+  lata: '526'
+  ilec_name: BRIGHTSPEED OF NORTHWEST ARKANSAS, LLC
+  lat: '36.408948'
+  long: "-94.603849"
+  closest_city:
+    name: Sycamore
+    distance_km: 10.0
+- country: US
+  region: OK
+  exchange: '151500'
+  name: WESTSENECA
+  full_name: West Seneca
+  lata: '522'
+  ilec_name: SENECA TEL. CO.
+  lat: '36.839942'
+  long: "-94.609456"
+  closest_city:
+    name: Peoria
+    distance_km: 9.97
+- country: US
+  region: OK
+  exchange: '331508'
+  name: W SILOAMSP
+  full_name: West Siloam Springs
+  lata: '526'
+  ilec_name: BRIGHTSPEED OF NORTHWEST ARKANSAS, LLC
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151210'
+  name: WUNIONTOWN
+  full_name: West Uniontown
+  lata: '526'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.585393'
+  long: "-94.474098"
+  closest_city:
+    name: Short
+    distance_km: 2.75
+- country: US
+  region: OK
+  exchange: '151510'
+  name: WESTVILLE
+  full_name: Westville
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.991814'
+  long: "-94.566191"
+  closest_city:
+    name: Westville
+    distance_km: 0.81
+- country: US
+  region: OK
+  exchange: '151520'
+  name: WETUMKA
+  full_name: Wetumka
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.223843'
+  long: "-96.220899"
+  closest_city:
+    name: Wetumka
+    distance_km: 2.51
+- country: US
+  region: OK
+  exchange: '151530'
+  name: WEWOKA
+  full_name: Wewoka
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.161275'
+  long: "-96.49415"
+  closest_city:
+    name: Wewoka
+    distance_km: 1.92
+- country: US
+  region: OK
+  exchange: '151540'
+  name: WHEATLAND
+  full_name: Wheatland
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.400328'
+  long: "-97.652032"
+  closest_city:
+    name: Mustang
+    distance_km: 6.65
+- country: US
+  region: OK
+  exchange: '334809'
+  name: WHEELESS
+  full_name: Wheeless
+  lata: '546'
+  ilec_name: PANHANDLE TELEPHONE COOPERATIVE, INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334287'
+  name: WHEELKADMY
+  full_name: Wheelock Academy
+  lata: '536'
+  ilec_name: VALLIANT TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334554'
+  name: WHITE OAK
+  full_name: White Oak
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334555'
+  name: WHITEFIELD
+  full_name: Whitefield
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334556'
+  name: WHITEOAK
+  full_name: Whiteoak
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334557'
+  name: WHITESBORO
+  full_name: Whitesboro
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151550'
+  name: WILBURTON
+  full_name: Wilburton
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.91412'
+  long: "-95.311225"
+  closest_city:
+    name: Wilburton
+    distance_km: 0.73
+- country: US
+  region: OK
+  exchange: '151560'
+  name: WILLOW
+  full_name: Willow
+  lata: '536'
+  ilec_name: SOUTHWEST OKLAHOMA TEL. CO.
+  lat: '35.049028'
+  long: "-99.506779"
+  closest_city:
+    name: Willow
+    distance_km: 0.39
+- country: US
+  region: OK
+  exchange: '151570'
+  name: WILSON
+  full_name: Wilson
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.159101'
+  long: "-97.424545"
+  closest_city:
+    name: Wilson
+    distance_km: 1.04
+- country: US
+  region: OK
+  exchange: '334559'
+  name: WINCHESTER
+  full_name: Winchester
+  lata: '538'
+  ilec_name: BEGGS TEL. CO., INC.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334290'
+  name: WIRT
+  full_name: Wirt
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151580'
+  name: WISTER
+  full_name: Wister
+  lata: '538'
+  ilec_name: OKLAHOMA WINDSTREAM, INC.
+  lat: '34.968313'
+  long: "-94.724823"
+  closest_city:
+    name: Wister
+    distance_km: 0.36
+- country: US
+  region: OK
+  exchange: '151590'
+  name: WOODFORD
+  full_name: Woodford
+  lata: '536'
+  ilec_name: CHICKASAW TEL. CO.
+  lat: '34.341716'
+  long: "-97.283768"
+  closest_city:
+    name: Springer
+    distance_km: 15.59
+- country: US
+  region: OK
+  exchange: '334292'
+  name: WOODLAWNPK
+  full_name: Woodlawn Park
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334293'
+  name: WOODVILLE
+  full_name: Woodville
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151600'
+  name: WOODWARD
+  full_name: Woodward
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.436204'
+  long: "-99.386336"
+  closest_city:
+    name: Woodward
+    distance_km: 2.16
+- country: US
+  region: OK
+  exchange: '151610'
+  name: WRIGHTCITY
+  full_name: Wright City
+  lata: '536'
+  ilec_name: PINE TEL. CO.
+  lat: '34.059252'
+  long: "-94.988265"
+  closest_city:
+    name: Wright City
+    distance_km: 1.87
+- country: US
+  region: OK
+  exchange: '151620'
+  name: WYANDOTTE
+  full_name: Wyandotte
+  lata: '538'
+  ilec_name: WYANDOTTE TEL. CO.
+  lat: '36.789135'
+  long: "-94.723889"
+  closest_city:
+    name: Wyandotte
+    distance_km: 1.42
+- country: US
+  region: OK
+  exchange: '151630'
+  name: WYNNEWOOD
+  full_name: Wynnewood
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '34.642847'
+  long: "-97.168898"
+  closest_city:
+    name: Wynnewood
+    distance_km: 0.62
+- country: US
+  region: OK
+  exchange: '151640'
+  name: WYNONA
+  full_name: Wynona
+  lata: '538'
+  ilec_name: SHIDLER TEL. CO.
+  lat: '36.550721'
+  long: "-96.322118"
+  closest_city:
+    name: Wynona
+    distance_km: 0.67
+- country: US
+  region: OK
+  exchange: '151650'
+  name: YALE
+  full_name: Yale
+  lata: '538'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '36.116036'
+  long: "-96.700446"
+  closest_city:
+    name: Yale
+    distance_km: 0.12
+- country: US
+  region: OK
+  exchange: '334297'
+  name: YARNABY
+  full_name: Yarnaby
+  lata: '536'
+  ilec_name: CHEROKEE TEL. CO.
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334298'
+  name: YEAGER
+  full_name: Yeager
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '334299'
+  name: YEWED
+  full_name: Yewed
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat:
+  long:
+- country: US
+  region: OK
+  exchange: '151660'
+  name: YUBA
+  full_name: Yuba
+  lata: '536'
+  ilec_name: CHEROKEE TEL. CO.
+  lat: '33.816495'
+  long: "-96.209859"
+  closest_city:
+    name: Albany
+    distance_km: 8.14
+- country: US
+  region: OK
+  exchange: '151670'
+  name: YUKON
+  full_name: Yukon
+  lata: '536'
+  ilec_name: SOUTHWESTERN BELL
+  lat: '35.507343'
+  long: "-97.751645"
+  closest_city:
+    name: Yukon
+    distance_km: 1.8

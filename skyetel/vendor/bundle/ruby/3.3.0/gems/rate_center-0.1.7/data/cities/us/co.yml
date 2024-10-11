@@ -1,0 +1,6329 @@
+---
+cities:
+- country: US
+  region: CO
+  name: Acres Green
+  lat: '39.5557'
+  long: "-104.8958"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 12.41
+  - name: AURORA
+    distance_km: 21.48
+  - name: DENVER
+    distance_km: 25.0
+- country: US
+  region: CO
+  name: Aetna Estates
+  lat: '39.7381'
+  long: "-104.6732"
+  nearby_rate_centers:
+  - name: AURORA
+    distance_km: 17.41
+  - name: DENVERSLVN
+    distance_km: 19.2
+  - name: BENNETT
+    distance_km: 20.44
+- country: US
+  region: CO
+  name: Aguilar
+  lat: '37.4036'
+  long: "-104.6550"
+  nearby_rate_centers:
+  - name: AGUILAR
+    distance_km: 0.38
+  - name: WALSENBURG
+    distance_km: 26.55
+  - name: TRINIDAD
+    distance_km: 28.55
+- country: US
+  region: CO
+  name: Air Force Academy
+  lat: '38.9942'
+  long: "-104.8639"
+  nearby_rate_centers:
+  - name: COLORADO SPRINGS-AIR FORCE ACADEMY
+    distance_km: 17.57
+  - name: COLORADO SPRINGS-BLACK FOREST
+    distance_km: 17.57
+  - name: COLORADO SPRINGS-EAST
+    distance_km: 17.57
+  - name: COLORADO SPRINGS-FOUNTAIN
+    distance_km: 17.57
+  - name: COLORADO SPRINGS-GATEHOUSE
+    distance_km: 17.57
+  - name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+    distance_km: 17.57
+  - name: COLORADO SPRINGS-MANITOU SPRINGS
+    distance_km: 17.57
+  - name: COLORADO SPRINGS-MONUMENT
+    distance_km: 17.57
+  - name: COLORADO SPRINGS-PIKEVIEW
+    distance_km: 17.57
+  - name: COLORADO SPRINGS-SECURITY
+    distance_km: 17.57
+  - name: COLORADO SPRINGS-STRATMOOR
+    distance_km: 17.57
+  - name: COLORADO SPRINGS-WOODLAND PARK
+    distance_km: 17.57
+  - name: COLORDOSPG
+    distance_km: 17.57
+  - name: PEYTON
+    distance_km: 33.11
+  - name: CRIPPLECRK
+    distance_km: 38.18
+- country: US
+  region: CO
+  name: Akron
+  lat: '40.1635'
+  long: "-103.2202"
+  nearby_rate_centers:
+  - name: AKRON
+    distance_km: 0.34
+  - name: OTIS
+    distance_km: 22.62
+  - name: HILLROSE
+    distance_km: 30.88
+- country: US
+  region: CO
+  name: Alamosa
+  lat: '37.4752'
+  long: "-105.8770"
+  nearby_rate_centers:
+  - name: ALAMOSA
+    distance_km: 1.24
+  - name: LA JARA
+    distance_km: 23.63
+  - name: MONTEVISTA
+    distance_km: 25.68
+- country: US
+  region: CO
+  name: Alamosa East
+  lat: '37.4766'
+  long: "-105.8397"
+  nearby_rate_centers:
+  - name: ALAMOSA
+    distance_km: 2.54
+  - name: LA JARA
+    distance_km: 24.95
+  - name: MONTEVISTA
+    distance_km: 28.63
+- country: US
+  region: CO
+  name: Allenspark
+  lat: '40.2099'
+  long: "-105.5112"
+  nearby_rate_centers:
+  - name: ALLNSPKLYN
+    distance_km: 14.86
+  - name: ESTES PARK
+    distance_km: 18.65
+  - name: GRAND LAKE
+    distance_km: 27.33
+- country: US
+  region: CO
+  name: Alma
+  lat: '39.2860'
+  long: "-106.0672"
+  nearby_rate_centers:
+  - name: FAIRPLAY
+    distance_km: 8.89
+  - name: LEADVILLE
+    distance_km: 19.73
+  - name: BRECKENRDG
+    distance_km: 21.91
+- country: US
+  region: CO
+  name: Alpine
+  lat: '37.6877'
+  long: "-106.5860"
+  nearby_rate_centers:
+  - name: DEL NORTE
+    distance_km: 20.86
+  - name: CREEDE
+    distance_km: 34.84
+  - name: MONTEVISTA
+    distance_km: 41.26
+- country: US
+  region: CO
+  name: Altona
+  lat: '40.1254'
+  long: "-105.2924"
+  nearby_rate_centers:
+  - name: ALLNSPKLYN
+    distance_km: 10.84
+  - name: LONGMONT
+    distance_km: 16.36
+  - name: BERTHOUD
+    distance_km: 27.04
+- country: US
+  region: CO
+  name: Amherst
+  lat: '40.6831'
+  long: "-102.1725"
+  nearby_rate_centers:
+  - name: W VENANGO
+    distance_km: 13.29
+  - name: HOLYOKE
+    distance_km: 14.95
+  - name: JULESBURG
+    distance_km: 33.88
+- country: US
+  region: CO
+  name: Antonito
+  lat: '37.0762'
+  long: "-106.0104"
+  nearby_rate_centers:
+  - name: ANTONITO
+    distance_km: 1.22
+  - name: MANASSA
+    distance_km: 12.76
+  - name: LA JARA
+    distance_km: 22.32
+- country: US
+  region: CO
+  name: Applewood
+  lat: '39.7523'
+  long: "-105.1604"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 9.34
+  - name: AURORA
+    distance_km: 24.29
+  - name: DENVERSLVN
+    distance_km: 26.02
+- country: US
+  region: CO
+  name: Arapahoe
+  lat: '38.8530'
+  long: "-102.1789"
+  nearby_rate_centers:
+  - name: CHEYENWLLS
+    distance_km: 21.09
+  - name: TOWNER
+    distance_km: 43.66
+  - name: SHERIDANLK
+    distance_km: 44.76
+- country: US
+  region: CO
+  name: Arboles
+  lat: '37.0201'
+  long: "-107.4221"
+  nearby_rate_centers:
+  - name: ALLISON
+    distance_km: 5.44
+  - name: IGNACIO
+    distance_km: 21.74
+  - name: BAYFIELD
+    distance_km: 28.48
+- country: US
+  region: CO
+  name: Aristocrat Ranchettes
+  lat: '40.1096'
+  long: "-104.7549"
+  nearby_rate_centers:
+  - name: FORTLUPTON
+    distance_km: 5.2
+  - name: HUDSON
+    distance_km: 10.41
+  - name: PLATTEVL
+    distance_km: 13.03
+- country: US
+  region: CO
+  name: Arriba
+  lat: '39.2843'
+  long: "-103.2740"
+  nearby_rate_centers:
+  - name: ARRIBA
+    distance_km: 0.65
+  - name: FLAGLER
+    distance_km: 18.04
+  - name: GENOA
+    distance_km: 19.52
+- country: US
+  region: CO
+  name: Arvada
+  lat: '39.8320'
+  long: "-105.1510"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 12.8
+  - name: AURORA
+    distance_km: 25.24
+  - name: DENVERSLVN
+    distance_km: 29.77
+- country: US
+  region: CO
+  name: Aspen
+  lat: '39.1951'
+  long: "-106.8369"
+  nearby_rate_centers:
+  - name: ASPEN
+    distance_km: 1.36
+  - name: BASALT
+    distance_km: 25.52
+  - name: CRESTEDBTE
+    distance_km: 38.86
+- country: US
+  region: CO
+  name: Aspen Park
+  lat: '39.5423'
+  long: "-105.2967"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 30.87
+  - name: DECKERS
+    distance_km: 33.24
+  - name: DENVERSLVN
+    distance_km: 38.48
+- country: US
+  region: CO
+  name: Atwood
+  lat: '40.5505'
+  long: "-103.2746"
+  nearby_rate_centers:
+  - name: STERLING
+    distance_km: 10.86
+  - name: WILLARD
+    distance_km: 18.54
+  - name: HILLROSE
+    distance_km: 32.19
+- country: US
+  region: CO
+  name: Ault
+  lat: '40.5893'
+  long: "-104.7392"
+  nearby_rate_centers:
+  - name: EATON
+    distance_km: 6.54
+  - name: NUNN
+    distance_km: 13.0
+  - name: GREELEY
+    distance_km: 18.31
+- country: US
+  region: CO
+  name: Aurora
+  lat: '39.7083'
+  long: "-104.7237"
+  nearby_rate_centers:
+  - name: AURORA
+    distance_km: 13.79
+  - name: DENVERSLVN
+    distance_km: 13.95
+  - name: BENNETT
+    distance_km: 25.28
+- country: US
+  region: CO
+  name: Avon
+  lat: '39.6442'
+  long: "-106.5130"
+  nearby_rate_centers:
+  - name: EDWARDS
+    distance_km: 6.68
+  - name: VAIL
+    distance_km: 18.23
+  - name: EAGLE
+    distance_km: 27.54
+- country: US
+  region: CO
+  name: Avondale
+  lat: '38.2351'
+  long: "-104.3482"
+  nearby_rate_centers:
+  - name: PUEBLO
+    distance_km: 22.79
+  - name: PUEBLO-AVONDALE
+    distance_km: 22.79
+  - name: FOWLER
+    distance_km: 30.59
+  - name: MANZANOLA
+    distance_km: 45.18
+- country: US
+  region: CO
+  name: Bark Ranch
+  lat: '40.1156'
+  long: "-105.4417"
+  nearby_rate_centers:
+  - name: ALLNSPKLYN
+    distance_km: 14.38
+  - name: LONGMONT
+    distance_km: 28.98
+  - name: ESTES PARK
+    distance_km: 30.04
+- country: US
+  region: CO
+  name: Basalt
+  lat: '39.3663'
+  long: "-107.0413"
+  nearby_rate_centers:
+  - name: BASALT
+    distance_km: 0.45
+  - name: CARBONDALE
+    distance_km: 14.83
+  - name: ASPEN
+    distance_km: 27.21
+- country: US
+  region: CO
+  name: Battlement Mesa
+  lat: '39.4506'
+  long: "-108.0063"
+  nearby_rate_centers:
+  - name: PARACHUTE
+    distance_km: 2.25
+  - name: RIFLE
+    distance_km: 21.67
+  - name: DE BEQUE
+    distance_km: 22.58
+- country: US
+  region: CO
+  name: Bayfield
+  lat: '37.2340'
+  long: "-107.5952"
+  nearby_rate_centers:
+  - name: BAYFIELD
+    distance_km: 0.64
+  - name: IGNACIO
+    distance_km: 13.7
+  - name: DURANGO
+    distance_km: 25.03
+- country: US
+  region: CO
+  name: Bennett
+  lat: '39.7366'
+  long: "-104.4286"
+  nearby_rate_centers:
+  - name: BENNETT
+    distance_km: 2.65
+  - name: STRASBURG
+    distance_km: 8.95
+  - name: BYERS
+    distance_km: 18.05
+- country: US
+  region: CO
+  name: Berkley
+  lat: '39.8045'
+  long: "-105.0281"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 6.82
+  - name: AURORA
+    distance_km: 14.39
+  - name: DENVERSLVN
+    distance_km: 20.04
+- country: US
+  region: CO
+  name: Berthoud
+  lat: '40.3071'
+  long: "-105.0426"
+  nearby_rate_centers:
+  - name: BERTHOUD
+    distance_km: 3.33
+  - name: MEAD
+    distance_km: 9.25
+  - name: LOVELAND
+    distance_km: 10.59
+- country: US
+  region: CO
+  name: Bethune
+  lat: '39.3038'
+  long: "-102.4234"
+  nearby_rate_centers:
+  - name: BURLINGTON
+    distance_km: 13.6
+  - name: STRATTON
+    distance_km: 15.41
+  - name: W KANORADO
+    distance_km: 31.76
+- country: US
+  region: CO
+  name: Beulah Valley
+  lat: '38.0709'
+  long: "-104.9830"
+  nearby_rate_centers:
+  - name: BEULAH
+    distance_km: 2.38
+  - name: RYE
+    distance_km: 16.44
+  - name: COLORADOCY
+    distance_km: 18.64
+- country: US
+  region: CO
+  name: Black Forest
+  lat: '39.0608'
+  long: "-104.6752"
+  nearby_rate_centers:
+  - name: PEYTON
+    distance_km: 16.87
+  - name: COLORADO SPRINGS-AIR FORCE ACADEMY
+    distance_km: 27.4
+  - name: COLORADO SPRINGS-BLACK FOREST
+    distance_km: 27.4
+  - name: COLORADO SPRINGS-EAST
+    distance_km: 27.4
+  - name: COLORADO SPRINGS-FOUNTAIN
+    distance_km: 27.4
+  - name: COLORADO SPRINGS-GATEHOUSE
+    distance_km: 27.4
+  - name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+    distance_km: 27.4
+  - name: COLORADO SPRINGS-MANITOU SPRINGS
+    distance_km: 27.4
+  - name: COLORADO SPRINGS-MONUMENT
+    distance_km: 27.4
+  - name: COLORADO SPRINGS-PIKEVIEW
+    distance_km: 27.4
+  - name: COLORADO SPRINGS-SECURITY
+    distance_km: 27.4
+  - name: COLORADO SPRINGS-STRATMOOR
+    distance_km: 27.4
+  - name: COLORADO SPRINGS-WOODLAND PARK
+    distance_km: 27.4
+  - name: COLORDOSPG
+    distance_km: 27.4
+  - name: EL PASO
+    distance_km: 30.88
+- country: US
+  region: CO
+  name: Black Hawk
+  lat: '39.8043'
+  long: "-105.4950"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance_km: 20.57
+  - name: FRASER
+    distance_km: 31.35
+  - name: DENVER
+    distance_km: 38.45
+- country: US
+  region: CO
+  name: Blanca
+  lat: '37.4393'
+  long: "-105.5135"
+  nearby_rate_centers:
+  - name: BLANCA
+    distance_km: 0.74
+  - name: SAN LUIS
+    distance_km: 26.91
+  - name: ALAMOSA
+    distance_km: 31.31
+- country: US
+  region: CO
+  name: Blende
+  lat: '38.2470'
+  long: "-104.5714"
+  nearby_rate_centers:
+  - name: PUEBLO
+    distance_km: 3.76
+  - name: PUEBLO-AVONDALE
+    distance_km: 3.76
+  - name: BEULAH
+    distance_km: 40.01
+  - name: COLORADOCY
+    distance_km: 40.81
+- country: US
+  region: CO
+  name: Blue River
+  lat: '39.4362'
+  long: "-106.0350"
+  nearby_rate_centers:
+  - name: BRECKENRDG
+    distance_km: 5.18
+  - name: DILLON
+    distance_km: 19.47
+  - name: FAIRPLAY
+    distance_km: 23.53
+- country: US
+  region: CO
+  name: Blue Sky
+  lat: '40.3002'
+  long: "-103.8056"
+  nearby_rate_centers:
+  - name: FORTMORGAN
+    distance_km: 4.95
+  - name: WELDONA
+    distance_km: 14.57
+  - name: BRUSH
+    distance_km: 16.0
+- country: US
+  region: CO
+  name: Blue Valley
+  lat: '39.6996'
+  long: "-105.4921"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance_km: 17.8
+  - name: DENVER
+    distance_km: 38.03
+  - name: FRASER
+    distance_km: 38.55
+- country: US
+  region: CO
+  name: Bonanza
+  lat: '38.2966'
+  long: "-106.1419"
+  nearby_rate_centers:
+  - name: SAGUACHE
+    distance_km: 23.52
+  - name: SALIDA
+    distance_km: 28.53
+  - name: HOWARD
+    distance_km: 31.58
+  - name: PIKETRAILS
+    distance_km: 31.58
+- country: US
+  region: CO
+  name: Bonanza Mountain Estates
+  lat: '39.9768'
+  long: "-105.4798"
+  nearby_rate_centers:
+  - name: FRASER
+    distance_km: 28.98
+  - name: ALLNSPKLYN
+    distance_km: 29.35
+  - name: GEORGETOWN
+    distance_km: 35.37
+- country: US
+  region: CO
+  name: Boone
+  lat: '38.2495'
+  long: "-104.2583"
+  nearby_rate_centers:
+  - name: FOWLER
+    distance_km: 24.48
+  - name: PUEBLO
+    distance_km: 30.42
+  - name: PUEBLO-AVONDALE
+    distance_km: 30.42
+  - name: MANZANOLA
+    distance_km: 38.44
+- country: US
+  region: CO
+  name: Boulder
+  lat: '40.0248'
+  long: "-105.2524"
+  nearby_rate_centers:
+  - name: LONGMONT
+    distance_km: 19.83
+  - name: ALLNSPKLYN
+    distance_km: 22.52
+  - name: MEAD
+    distance_km: 31.43
+- country: US
+  region: CO
+  name: Bow Mar
+  lat: '39.6251'
+  long: "-105.0511"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 13.43
+  - name: DENVERSLVN
+    distance_km: 15.57
+  - name: AURORA
+    distance_km: 20.28
+- country: US
+  region: CO
+  name: Brandon
+  lat: '38.4464'
+  long: "-102.4412"
+  nearby_rate_centers:
+  - name: SHERIDANLK
+    distance_km: 13.41
+  - name: EADS
+    distance_km: 29.21
+  - name: TOWNER
+    distance_km: 31.46
+- country: US
+  region: CO
+  name: Branson
+  lat: '37.0155'
+  long: "-103.8838"
+  nearby_rate_centers:
+  - name: BRANSON
+    distance_km: 0.23
+  - name: KIM
+    distance_km: 54.0
+  - name: TRINIDAD
+    distance_km: 58.32
+- country: US
+  region: CO
+  name: Breckenridge
+  lat: '39.4995'
+  long: "-106.0432"
+  nearby_rate_centers:
+  - name: BRECKENRDG
+    distance_km: 1.92
+  - name: DILLON
+    distance_km: 12.4
+  - name: VAIL
+    distance_km: 28.72
+- country: US
+  region: CO
+  name: Brick Center
+  lat: '39.6002'
+  long: "-104.4579"
+  nearby_rate_centers:
+  - name: BENNETT
+    distance_km: 17.84
+  - name: STRASBURG
+    distance_km: 19.54
+  - name: BYERS
+    distance_km: 22.89
+- country: US
+  region: CO
+  name: Briggsdale
+  lat: '40.6359'
+  long: "-104.3284"
+  nearby_rate_centers:
+  - name: BRIGGSDALE
+    distance_km: 0.53
+  - name: GROVER
+    distance_km: 27.02
+  - name: EATON
+    distance_km: 34.06
+- country: US
+  region: CO
+  name: Brighton
+  lat: '39.9716'
+  long: "-104.7963"
+  nearby_rate_centers:
+  - name: BRIGHTON
+    distance_km: 2.14
+  - name: FORTLUPTON
+    distance_km: 12.58
+  - name: HUDSON
+    distance_km: 17.47
+- country: US
+  region: CO
+  name: Brook Forest
+  lat: '39.5739'
+  long: "-105.3944"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance_km: 30.08
+  - name: DENVER
+    distance_km: 35.03
+  - name: DECKERS
+    distance_km: 39.09
+- country: US
+  region: CO
+  name: Brookside
+  lat: '38.4135'
+  long: "-105.1909"
+  nearby_rate_centers:
+  - name: CANON CITY
+    distance_km: 4.94
+  - name: FLORENCE
+    distance_km: 6.21
+  - name: CRIPPLECRK
+    distance_km: 37.67
+- country: US
+  region: CO
+  name: Broomfield
+  lat: '39.9542'
+  long: "-105.0526"
+  nearby_rate_centers:
+  - name: BRIGHTON
+    distance_km: 20.58
+  - name: DENVER
+    distance_km: 23.16
+  - name: LONGMONT
+    distance_km: 23.78
+- country: US
+  region: CO
+  name: Brush
+  lat: '40.2598'
+  long: "-103.6323"
+  nearby_rate_centers:
+  - name: BRUSH
+    distance_km: 0.66
+  - name: HILLROSE
+    distance_km: 12.39
+  - name: FORTMORGAN
+    distance_km: 13.32
+- country: US
+  region: CO
+  name: Buena Vista
+  lat: '38.8319'
+  long: "-106.1387"
+  nearby_rate_centers:
+  - name: BUENAVISTA
+    distance_km: 1.37
+  - name: SALIDA
+    distance_km: 35.14
+  - name: HARTSEL
+    distance_km: 36.27
+- country: US
+  region: CO
+  name: Burlington
+  lat: '39.3042'
+  long: "-102.2712"
+  nearby_rate_centers:
+  - name: BURLINGTON
+    distance_km: 0.64
+  - name: W KANORADO
+    distance_km: 18.97
+  - name: STRATTON
+    distance_km: 28.5
+- country: US
+  region: CO
+  name: Byers
+  lat: '39.7101'
+  long: "-104.2190"
+  nearby_rate_centers:
+  - name: BYERS
+    distance_km: 1.29
+  - name: STRASBURG
+    distance_km: 9.7
+  - name: DEER TRAIL
+    distance_km: 18.99
+- country: US
+  region: CO
+  name: Calhan
+  lat: '39.0345'
+  long: "-104.2994"
+  nearby_rate_centers:
+  - name: CALHAN
+    distance_km: 0.7
+  - name: PEYTON
+    distance_km: 15.92
+  - name: SIMLA
+    distance_km: 22.26
+- country: US
+  region: CO
+  name: Campo
+  lat: '37.1047'
+  long: "-102.5786"
+  nearby_rate_centers:
+  - name: CAMPO
+    distance_km: 0.25
+  - name: SPRINGFLD
+    distance_km: 34.0
+  - name: KENTON
+    distance_km: 35.06
+- country: US
+  region: CO
+  name: Capulin
+  lat: '37.2819'
+  long: "-106.1050"
+  nearby_rate_centers:
+  - name: LA JARA
+    distance_km: 13.19
+  - name: MANASSA
+    distance_km: 18.43
+  - name: ANTONITO
+    distance_km: 23.21
+- country: US
+  region: CO
+  name: Carbondale
+  lat: '39.3949'
+  long: "-107.2148"
+  nearby_rate_centers:
+  - name: CARBONDALE
+    distance_km: 0.99
+  - name: BASALT
+    distance_km: 15.7
+  - name: GLENWD SPG
+    distance_km: 18.81
+- country: US
+  region: CO
+  name: Cascade-Chipita Park
+  lat: '38.9433'
+  long: "-105.0023"
+  nearby_rate_centers:
+  - name: COLORADO SPRINGS-AIR FORCE ACADEMY
+    distance_km: 19.69
+  - name: COLORADO SPRINGS-BLACK FOREST
+    distance_km: 19.69
+  - name: COLORADO SPRINGS-EAST
+    distance_km: 19.69
+  - name: COLORADO SPRINGS-FOUNTAIN
+    distance_km: 19.69
+  - name: COLORADO SPRINGS-GATEHOUSE
+    distance_km: 19.69
+  - name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+    distance_km: 19.69
+  - name: COLORADO SPRINGS-MANITOU SPRINGS
+    distance_km: 19.69
+  - name: COLORADO SPRINGS-MONUMENT
+    distance_km: 19.69
+  - name: COLORADO SPRINGS-PIKEVIEW
+    distance_km: 19.69
+  - name: COLORADO SPRINGS-SECURITY
+    distance_km: 19.69
+  - name: COLORADO SPRINGS-STRATMOOR
+    distance_km: 19.69
+  - name: COLORADO SPRINGS-WOODLAND PARK
+    distance_km: 19.69
+  - name: COLORDOSPG
+    distance_km: 19.69
+  - name: CRIPPLECRK
+    distance_km: 26.07
+  - name: LAKEGEORGE
+    distance_km: 30.59
+- country: US
+  region: CO
+  name: Castle Pines
+  lat: '39.4625'
+  long: "-104.8706"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 22.68
+  - name: AURORA
+    distance_km: 31.78
+  - name: DENVER
+    distance_km: 35.12
+- country: US
+  region: CO
+  name: Castle Pines Village
+  lat: '39.4418'
+  long: "-104.8970"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 25.04
+  - name: AURORA
+    distance_km: 34.13
+  - name: DECKERS
+    distance_km: 34.99
+- country: US
+  region: CO
+  name: Castle Rock
+  lat: '39.3763'
+  long: "-104.8535"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 32.33
+  - name: DECKERS
+    distance_km: 34.47
+  - name: AURORA
+    distance_km: 41.41
+- country: US
+  region: CO
+  name: Cathedral
+  lat: '38.0836'
+  long: "-107.0306"
+  nearby_rate_centers:
+  - name: LAKE CITY
+    distance_km: 25.88
+  - name: CREEDE
+    distance_km: 27.61
+  - name: CIMARRON
+    distance_km: 41.28
+- country: US
+  region: CO
+  name: Catherine
+  lat: '39.4017'
+  long: "-107.1330"
+  nearby_rate_centers:
+  - name: CARBONDALE
+    distance_km: 6.41
+  - name: BASALT
+    distance_km: 9.26
+  - name: GLENWD SPG
+    distance_km: 22.6
+- country: US
+  region: CO
+  name: Cattle Creek
+  lat: '39.4667'
+  long: "-107.2599"
+  nearby_rate_centers:
+  - name: CARBONDALE
+    distance_km: 8.5
+  - name: GLENWD SPG
+    distance_km: 9.98
+  - name: BASALT
+    distance_km: 22.29
+- country: US
+  region: CO
+  name: !binary |-
+    Q2HDsW9uIENpdHk=
+  lat: '38.4430'
+  long: "-105.2203"
+  nearby_rate_centers:
+  - name: CANON CITY
+    distance_km: 1.2
+  - name: FLORENCE
+    distance_km: 10.04
+  - name: CRIPPLECRK
+    distance_km: 34.58
+- country: US
+  region: CO
+  name: Cedaredge
+  lat: '38.8941'
+  long: "-107.9255"
+  nearby_rate_centers:
+  - name: CEDAREDGE
+    distance_km: 0.58
+  - name: ECKERT
+    distance_km: 6.94
+  - name: HOTCHKISS
+    distance_km: 20.71
+- country: US
+  region: CO
+  name: Centennial
+  lat: '39.5926'
+  long: "-104.8673"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 8.26
+  - name: AURORA
+    distance_km: 17.33
+  - name: DENVER
+    distance_km: 23.22
+- country: US
+  region: CO
+  name: Center
+  lat: '37.7512'
+  long: "-106.1105"
+  nearby_rate_centers:
+  - name: CENTER
+    distance_km: 1.02
+  - name: MONTEVISTA
+    distance_km: 19.76
+  - name: MOSCA
+    distance_km: 20.56
+- country: US
+  region: CO
+  name: Central City
+  lat: '39.7945'
+  long: "-105.5120"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance_km: 18.76
+  - name: FRASER
+    distance_km: 30.65
+  - name: DENVER
+    distance_km: 39.72
+- country: US
+  region: CO
+  name: Chacra
+  lat: '39.5770'
+  long: "-107.4510"
+  nearby_rate_centers:
+  - name: NEW CASTLE
+    distance_km: 7.07
+  - name: GLENWD SPG
+    distance_km: 11.57
+  - name: SILT
+    distance_km: 17.66
+- country: US
+  region: CO
+  name: Cheraw
+  lat: '38.1076'
+  long: "-103.5110"
+  nearby_rate_centers:
+  - name: CHERAW
+    distance_km: 0.72
+  - name: LA JUNTA
+    distance_km: 14.85
+  - name: ROCKY FORD
+    distance_km: 19.09
+- country: US
+  region: CO
+  name: Cherry Creek
+  lat: '39.6094'
+  long: "-104.8645"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 6.44
+  - name: AURORA
+    distance_km: 15.48
+  - name: DENVER
+    distance_km: 22.06
+- country: US
+  region: CO
+  name: Cherry Hills Village
+  lat: '39.6375'
+  long: "-104.9480"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 6.85
+  - name: AURORA
+    distance_km: 13.76
+  - name: DENVER
+    distance_km: 14.96
+- country: US
+  region: CO
+  name: Cheyenne Wells
+  lat: '38.8192'
+  long: "-102.3521"
+  nearby_rate_centers:
+  - name: CHEYENWLLS
+    distance_km: 8.33
+  - name: KIT CARSON
+    distance_km: 38.7
+  - name: SHERIDANLK
+    distance_km: 40.37
+- country: US
+  region: CO
+  name: Cimarron Hills
+  lat: '38.8597'
+  long: "-104.6995"
+  nearby_rate_centers:
+  - name: COLORADO SPRINGS-AIR FORCE ACADEMY
+    distance_km: 10.4
+  - name: COLORADO SPRINGS-BLACK FOREST
+    distance_km: 10.4
+  - name: COLORADO SPRINGS-EAST
+    distance_km: 10.4
+  - name: COLORADO SPRINGS-FOUNTAIN
+    distance_km: 10.4
+  - name: COLORADO SPRINGS-GATEHOUSE
+    distance_km: 10.4
+  - name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+    distance_km: 10.4
+  - name: COLORADO SPRINGS-MANITOU SPRINGS
+    distance_km: 10.4
+  - name: COLORADO SPRINGS-MONUMENT
+    distance_km: 10.4
+  - name: COLORADO SPRINGS-PIKEVIEW
+    distance_km: 10.4
+  - name: COLORADO SPRINGS-SECURITY
+    distance_km: 10.4
+  - name: COLORADO SPRINGS-STRATMOOR
+    distance_km: 10.4
+  - name: COLORADO SPRINGS-WOODLAND PARK
+    distance_km: 10.4
+  - name: COLORDOSPG
+    distance_km: 10.4
+  - name: EL PASO
+    distance_km: 20.16
+  - name: PEYTON
+    distance_km: 26.68
+- country: US
+  region: CO
+  name: City of Creede
+  lat: '37.8486'
+  long: "-106.9253"
+  nearby_rate_centers:
+  - name: CREEDE
+    distance_km: 0.11
+  - name: LAKE CITY
+    distance_km: 40.1
+  - name: DEL NORTE
+    distance_km: 54.13
+- country: US
+  region: CO
+  name: Clifton
+  lat: '39.0764'
+  long: "-108.4605"
+  nearby_rate_centers:
+  - name: GRAND JCT
+    distance_km: 8.56
+  - name: PALISADE
+    distance_km: 10.31
+  - name: FRUITA
+    distance_km: 24.46
+- country: US
+  region: CO
+  name: Coal Creek
+  lat: '39.9071'
+  long: "-105.3799"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 33.28
+  - name: ALLNSPKLYN
+    distance_km: 34.65
+  - name: GEORGETOWN
+    distance_km: 35.22
+- country: US
+  region: CO
+  name: Coaldale
+  lat: '38.3558'
+  long: "-105.8131"
+  nearby_rate_centers:
+  - name: HOWARD
+    distance_km: 10.45
+  - name: PIKETRAILS
+    distance_km: 10.45
+  - name: SALIDA
+    distance_km: 26.12
+  - name: WESTCLIFFE
+    distance_km: 38.97
+- country: US
+  region: CO
+  name: Cokedale
+  lat: '37.1444'
+  long: "-104.6216"
+  nearby_rate_centers:
+  - name: TRINIDAD
+    distance_km: 10.37
+  - name: WESTON
+    distance_km: 22.0
+  - name: AGUILAR
+    distance_km: 28.81
+- country: US
+  region: CO
+  name: Collbran
+  lat: '39.2400'
+  long: "-107.9635"
+  nearby_rate_centers:
+  - name: COLLBRAN
+    distance_km: 0.68
+  - name: MESA
+    distance_km: 17.25
+  - name: PARACHUTE
+    distance_km: 23.02
+- country: US
+  region: CO
+  name: Colona
+  lat: '38.3276'
+  long: "-107.7793"
+  nearby_rate_centers:
+  - name: MONTROSE
+    distance_km: 18.42
+  - name: RIDGWAY
+    distance_km: 18.88
+  - name: OURAY
+    distance_km: 34.94
+- country: US
+  region: CO
+  name: Colorado City
+  lat: '37.9381'
+  long: "-104.8451"
+  nearby_rate_centers:
+  - name: COLORADOCY
+    distance_km: 1.08
+  - name: RYE
+    distance_km: 8.28
+  - name: BEULAH
+    distance_km: 16.79
+- country: US
+  region: CO
+  name: Colorado Springs
+  lat: '38.8674'
+  long: "-104.7605"
+  nearby_rate_centers:
+  - name: COLORADO SPRINGS-AIR FORCE ACADEMY
+    distance_km: 5.74
+  - name: COLORADO SPRINGS-BLACK FOREST
+    distance_km: 5.74
+  - name: COLORADO SPRINGS-EAST
+    distance_km: 5.74
+  - name: COLORADO SPRINGS-FOUNTAIN
+    distance_km: 5.74
+  - name: COLORADO SPRINGS-GATEHOUSE
+    distance_km: 5.74
+  - name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+    distance_km: 5.74
+  - name: COLORADO SPRINGS-MANITOU SPRINGS
+    distance_km: 5.74
+  - name: COLORADO SPRINGS-MONUMENT
+    distance_km: 5.74
+  - name: COLORADO SPRINGS-PIKEVIEW
+    distance_km: 5.74
+  - name: COLORADO SPRINGS-SECURITY
+    distance_km: 5.74
+  - name: COLORADO SPRINGS-STRATMOOR
+    distance_km: 5.74
+  - name: COLORADO SPRINGS-WOODLAND PARK
+    distance_km: 5.74
+  - name: COLORDOSPG
+    distance_km: 5.74
+  - name: EL PASO
+    distance_km: 25.51
+  - name: PEYTON
+    distance_km: 30.07
+- country: US
+  region: CO
+  name: Columbine
+  lat: '39.5879'
+  long: "-105.0694"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 17.64
+  - name: DENVERSLVN
+    distance_km: 18.62
+  - name: AURORA
+    distance_km: 24.31
+- country: US
+  region: CO
+  name: Columbine Valley
+  lat: '39.5993'
+  long: "-105.0352"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 15.44
+  - name: DENVER
+    distance_km: 16.36
+  - name: AURORA
+    distance_km: 21.43
+- country: US
+  region: CO
+  name: Comanche Creek
+  lat: '39.6150'
+  long: "-104.3268"
+  nearby_rate_centers:
+  - name: BYERS
+    distance_km: 12.87
+  - name: STRASBURG
+    distance_km: 14.2
+  - name: BENNETT
+    distance_km: 18.6
+- country: US
+  region: CO
+  name: Commerce City
+  lat: '39.8641'
+  long: "-104.8430"
+  nearby_rate_centers:
+  - name: AURORA
+    distance_km: 13.19
+  - name: BRIGHTON
+    distance_km: 13.65
+  - name: DENVER
+    distance_km: 22.14
+- country: US
+  region: CO
+  name: Conejos
+  lat: '37.0872'
+  long: "-106.0160"
+  nearby_rate_centers:
+  - name: ANTONITO
+    distance_km: 0.39
+  - name: MANASSA
+    distance_km: 11.95
+  - name: LA JARA
+    distance_km: 21.25
+- country: US
+  region: CO
+  name: Cope
+  lat: '39.6692'
+  long: "-102.8501"
+  nearby_rate_centers:
+  - name: COPE
+    distance_km: 1.57
+  - name: JOES
+    distance_km: 14.19
+  - name: KIRK
+    distance_km: 23.05
+- country: US
+  region: CO
+  name: Copper Mountain
+  lat: '39.4769'
+  long: "-106.2011"
+  nearby_rate_centers:
+  - name: BRECKENRDG
+    distance_km: 13.44
+  - name: VAIL
+    distance_km: 15.78
+  - name: DILLON
+    distance_km: 19.23
+- country: US
+  region: CO
+  name: Cortez
+  lat: '37.3503'
+  long: "-108.5768"
+  nearby_rate_centers:
+  - name: CORTEZ
+    distance_km: 1.46
+  - name: DOLORES
+    distance_km: 14.99
+  - name: MANCOS
+    distance_km: 25.23
+- country: US
+  region: CO
+  name: Cotopaxi
+  lat: '38.3738'
+  long: "-105.6912"
+  nearby_rate_centers:
+  - name: HOWARD
+    distance_km: 15.04
+  - name: PIKETRAILS
+    distance_km: 15.04
+  - name: SALIDA
+    distance_km: 32.97
+  - name: WESTCLIFFE
+    distance_km: 33.0
+- country: US
+  region: CO
+  name: Craig
+  lat: '40.5171'
+  long: "-107.5554"
+  nearby_rate_centers:
+  - name: CRAIG
+    distance_km: 0.5
+  - name: HAYDEN
+    distance_km: 25.78
+  - name: MAYBELL
+    distance_km: 44.83
+- country: US
+  region: CO
+  name: Crawford
+  lat: '38.7051'
+  long: "-107.6097"
+  nearby_rate_centers:
+  - name: CRAWFORD
+    distance_km: 0.84
+  - name: HOTCHKISS
+    distance_km: 14.28
+  - name: PAONIA
+    distance_km: 18.11
+- country: US
+  region: CO
+  name: Crested Butte
+  lat: '38.8676'
+  long: "-106.9773"
+  nearby_rate_centers:
+  - name: CRESTEDBTE
+    distance_km: 0.57
+  - name: GUNNISON
+    distance_km: 36.6
+  - name: ASPEN
+    distance_km: 38.16
+- country: US
+  region: CO
+  name: Crestone
+  lat: '37.9945'
+  long: "-105.6962"
+  nearby_rate_centers:
+  - name: CRESTONE
+    distance_km: 17.75
+  - name: WESTCLIFFE
+    distance_km: 25.51
+  - name: MOSCA
+    distance_km: 31.49
+- country: US
+  region: CO
+  name: Cripple Creek
+  lat: '38.7467'
+  long: "-105.1851"
+  nearby_rate_centers:
+  - name: CRIPPLECRK
+    distance_km: 0.95
+  - name: LAKEGEORGE
+    distance_km: 29.88
+  - name: COLORADO SPRINGS-AIR FORCE ACADEMY
+    distance_km: 33.56
+  - name: COLORADO SPRINGS-BLACK FOREST
+    distance_km: 33.56
+  - name: COLORADO SPRINGS-EAST
+    distance_km: 33.56
+  - name: COLORADO SPRINGS-FOUNTAIN
+    distance_km: 33.56
+  - name: COLORADO SPRINGS-GATEHOUSE
+    distance_km: 33.56
+  - name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+    distance_km: 33.56
+  - name: COLORADO SPRINGS-MANITOU SPRINGS
+    distance_km: 33.56
+  - name: COLORADO SPRINGS-MONUMENT
+    distance_km: 33.56
+  - name: COLORADO SPRINGS-PIKEVIEW
+    distance_km: 33.56
+  - name: COLORADO SPRINGS-SECURITY
+    distance_km: 33.56
+  - name: COLORADO SPRINGS-STRATMOOR
+    distance_km: 33.56
+  - name: COLORADO SPRINGS-WOODLAND PARK
+    distance_km: 33.56
+  - name: COLORDOSPG
+    distance_km: 33.56
+- country: US
+  region: CO
+  name: Crisman
+  lat: '40.0416'
+  long: "-105.3675"
+  nearby_rate_centers:
+  - name: ALLNSPKLYN
+    distance_km: 19.67
+  - name: LONGMONT
+    distance_km: 26.02
+  - name: MEAD
+    distance_km: 37.72
+- country: US
+  region: CO
+  name: Crook
+  lat: '40.8590'
+  long: "-102.8013"
+  nearby_rate_centers:
+  - name: CROOK
+    distance_km: 1.22
+  - name: SO SIDNEY
+    distance_km: 20.55
+  - name: FLEMING
+    distance_km: 20.83
+- country: US
+  region: CO
+  name: Crowley
+  lat: '38.1935'
+  long: "-103.8597"
+  nearby_rate_centers:
+  - name: ORDWAY
+    distance_km: 9.14
+  - name: MANZANOLA
+    distance_km: 9.71
+  - name: FOWLER
+    distance_km: 16.57
+- country: US
+  region: CO
+  name: Dacono
+  lat: '40.0623'
+  long: "-104.9476"
+  nearby_rate_centers:
+  - name: FORTLUPTON
+    distance_km: 12.26
+  - name: BRIGHTON
+    distance_km: 14.23
+  - name: LONGMONT
+    distance_km: 17.64
+- country: US
+  region: CO
+  name: Dakota Ridge
+  lat: '39.6192'
+  long: "-105.1344"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 15.77
+  - name: DENVERSLVN
+    distance_km: 22.62
+  - name: AURORA
+    distance_km: 26.34
+- country: US
+  region: CO
+  name: De Beque
+  lat: '39.3105'
+  long: "-108.2049"
+  nearby_rate_centers:
+  - name: DE BEQUE
+    distance_km: 2.69
+  - name: MESA
+    distance_km: 16.8
+  - name: PARACHUTE
+    distance_km: 20.93
+- country: US
+  region: CO
+  name: Deer Trail
+  lat: '39.6154'
+  long: "-104.0434"
+  nearby_rate_centers:
+  - name: DEER TRAIL
+    distance_km: 0.98
+  - name: BYERS
+    distance_km: 17.99
+  - name: AGATE
+    distance_km: 19.75
+- country: US
+  region: CO
+  name: Del Norte
+  lat: '37.6786'
+  long: "-106.3539"
+  nearby_rate_centers:
+  - name: DEL NORTE
+    distance_km: 0.47
+  - name: MONTEVISTA
+    distance_km: 22.11
+  - name: CENTER
+    distance_km: 23.45
+- country: US
+  region: CO
+  name: Delta
+  lat: '38.7560'
+  long: "-108.0772"
+  nearby_rate_centers:
+  - name: DELTA
+    distance_km: 2.44
+  - name: ECKERT
+    distance_km: 13.44
+  - name: OLATHE
+    distance_km: 18.14
+- country: US
+  region: CO
+  name: Denver
+  lat: '39.7620'
+  long: "-104.8758"
+  nearby_rate_centers:
+  - name: AURORA
+    distance_km: 1.52
+  - name: DENVERSLVN
+    distance_km: 10.63
+  - name: DENVER
+    distance_km: 15.13
+- country: US
+  region: CO
+  name: Derby
+  lat: '39.8400'
+  long: "-104.9172"
+  nearby_rate_centers:
+  - name: AURORA
+    distance_km: 10.78
+  - name: DENVER
+    distance_km: 15.53
+  - name: BRIGHTON
+    distance_km: 18.34
+- country: US
+  region: CO
+  name: Dillon
+  lat: '39.6213'
+  long: "-106.0393"
+  nearby_rate_centers:
+  - name: DILLON
+    distance_km: 2.05
+  - name: BRECKENRDG
+    distance_km: 15.47
+  - name: GEORGETOWN
+    distance_km: 30.59
+- country: US
+  region: CO
+  name: Dinosaur
+  lat: '40.2399'
+  long: "-109.0066"
+  nearby_rate_centers:
+  - name: DINOSAUR
+    distance_km: 0.76
+  - name: RANGELY
+    distance_km: 25.2
+  - name: LODORE
+    distance_km: 61.16
+- country: US
+  region: CO
+  name: Divide
+  lat: '38.9449'
+  long: "-105.1619"
+  nearby_rate_centers:
+  - name: LAKEGEORGE
+    distance_km: 16.99
+  - name: CRIPPLECRK
+    distance_km: 21.48
+  - name: COLORADO SPRINGS-AIR FORCE ACADEMY
+    distance_km: 32.02
+  - name: COLORADO SPRINGS-BLACK FOREST
+    distance_km: 32.02
+  - name: COLORADO SPRINGS-EAST
+    distance_km: 32.02
+  - name: COLORADO SPRINGS-FOUNTAIN
+    distance_km: 32.02
+  - name: COLORADO SPRINGS-GATEHOUSE
+    distance_km: 32.02
+  - name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+    distance_km: 32.02
+  - name: COLORADO SPRINGS-MANITOU SPRINGS
+    distance_km: 32.02
+  - name: COLORADO SPRINGS-MONUMENT
+    distance_km: 32.02
+  - name: COLORADO SPRINGS-PIKEVIEW
+    distance_km: 32.02
+  - name: COLORADO SPRINGS-SECURITY
+    distance_km: 32.02
+  - name: COLORADO SPRINGS-STRATMOOR
+    distance_km: 32.02
+  - name: COLORADO SPRINGS-WOODLAND PARK
+    distance_km: 32.02
+  - name: COLORDOSPG
+    distance_km: 32.02
+- country: US
+  region: CO
+  name: Dolores
+  lat: '37.4741'
+  long: "-108.4998"
+  nearby_rate_centers:
+  - name: DOLORES
+    distance_km: 0.89
+  - name: CORTEZ
+    distance_km: 16.22
+  - name: MANCOS
+    distance_km: 23.52
+- country: US
+  region: CO
+  name: Dotsero
+  lat: '39.6463'
+  long: "-107.0540"
+  nearby_rate_centers:
+  - name: GYPSUM
+    distance_km: 9.01
+  - name: EAGLE
+    distance_km: 18.8
+  - name: GLENWD SPG
+    distance_km: 25.91
+- country: US
+  region: CO
+  name: Dove Creek
+  lat: '37.7668'
+  long: "-108.9071"
+  nearby_rate_centers:
+  - name: DOVE CREEK
+    distance_km: 0.21
+  - name: PLEASANTVW
+    distance_km: 23.05
+  - name: DOLORES
+    distance_km: 47.77
+- country: US
+  region: CO
+  name: Dove Valley
+  lat: '39.5752'
+  long: "-104.8309"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 10.9
+  - name: AURORA
+    distance_km: 19.64
+  - name: DENVER
+    distance_km: 26.78
+- country: US
+  region: CO
+  name: Downieville-Lawson-Dumont
+  lat: '39.7662'
+  long: "-105.6125"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance_km: 9.93
+  - name: FRASER
+    distance_km: 26.07
+  - name: DILLON
+    distance_km: 41.92
+- country: US
+  region: CO
+  name: Durango
+  lat: '37.2659'
+  long: "-107.8781"
+  nearby_rate_centers:
+  - name: DURANGO
+    distance_km: 1.29
+  - name: BAYFIELD
+    distance_km: 24.72
+  - name: MARVEL
+    distance_km: 26.95
+- country: US
+  region: CO
+  name: Eads
+  lat: '38.4814'
+  long: "-102.7797"
+  nearby_rate_centers:
+  - name: EADS
+    distance_km: 0.8
+  - name: KIT CARSON
+    distance_km: 31.87
+  - name: HASWELL
+    distance_km: 32.26
+- country: US
+  region: CO
+  name: Eagle
+  lat: '39.6366'
+  long: "-106.8125"
+  nearby_rate_centers:
+  - name: EAGLE
+    distance_km: 2.54
+  - name: GYPSUM
+    distance_km: 11.7
+  - name: EDWARDS
+    distance_km: 18.97
+- country: US
+  region: CO
+  name: East Pleasant View
+  lat: '39.7278'
+  long: "-105.1572"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 9.26
+  - name: AURORA
+    distance_km: 24.12
+  - name: DENVERSLVN
+    distance_km: 24.89
+- country: US
+  region: CO
+  name: Eaton
+  lat: '40.5257'
+  long: "-104.7130"
+  nearby_rate_centers:
+  - name: EATON
+    distance_km: 1.09
+  - name: GREELEY
+    distance_km: 11.01
+  - name: WINDSOR
+    distance_km: 17.1
+- country: US
+  region: CO
+  name: Echo Hills
+  lat: '39.6748'
+  long: "-105.4134"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance_km: 24.78
+  - name: DENVER
+    distance_km: 31.95
+  - name: FRASER
+    distance_km: 45.38
+- country: US
+  region: CO
+  name: Eckley
+  lat: '40.1124'
+  long: "-102.4883"
+  nearby_rate_centers:
+  - name: ECKLEY
+    distance_km: 0.09
+  - name: YUMA
+    distance_km: 20.23
+  - name: WRAY
+    distance_km: 22.53
+- country: US
+  region: CO
+  name: Edgewater
+  lat: '39.7508'
+  long: "-105.0627"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 1.1
+  - name: AURORA
+    distance_km: 15.93
+  - name: DENVERSLVN
+    distance_km: 18.42
+- country: US
+  region: CO
+  name: Edwards
+  lat: '39.6215'
+  long: "-106.6184"
+  nearby_rate_centers:
+  - name: EDWARDS
+    distance_km: 3.27
+  - name: EAGLE
+    distance_km: 18.81
+  - name: VAIL
+    distance_km: 23.67
+- country: US
+  region: CO
+  name: El Jebel
+  lat: '39.4050'
+  long: "-107.0921"
+  nearby_rate_centers:
+  - name: BASALT
+    distance_km: 6.54
+  - name: CARBONDALE
+    distance_km: 9.93
+  - name: GLENWD SPG
+    distance_km: 25.04
+- country: US
+  region: CO
+  name: El Moro
+  lat: '37.2349'
+  long: "-104.4491"
+  nearby_rate_centers:
+  - name: TRINIDAD
+    distance_km: 8.69
+  - name: AGUILAR
+    distance_km: 25.8
+  - name: WESTON
+    distance_km: 38.94
+- country: US
+  region: CO
+  name: Elbert
+  lat: '39.2189'
+  long: "-104.5404"
+  nearby_rate_centers:
+  - name: PEYTON
+    distance_km: 21.46
+  - name: CALHAN
+    distance_km: 29.81
+  - name: SIMLA
+    distance_km: 40.5
+- country: US
+  region: CO
+  name: Eldora
+  lat: '39.9536'
+  long: "-105.5780"
+  nearby_rate_centers:
+  - name: FRASER
+    distance_km: 20.38
+  - name: GEORGETOWN
+    distance_km: 29.29
+  - name: GRANBY
+    distance_km: 34.3
+- country: US
+  region: CO
+  name: Eldorado Springs
+  lat: '39.9366'
+  long: "-105.2626"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 27.83
+  - name: LONGMONT
+    distance_km: 28.56
+  - name: ALLNSPKLYN
+    distance_km: 31.79
+- country: US
+  region: CO
+  name: Elizabeth
+  lat: '39.3589'
+  long: "-104.6196"
+  nearby_rate_centers:
+  - name: PEYTON
+    distance_km: 38.29
+  - name: DENVERSLVN
+    distance_km: 40.72
+  - name: CALHAN
+    distance_km: 45.97
+- country: US
+  region: CO
+  name: Ellicott
+  lat: '38.8256'
+  long: "-104.3829"
+  nearby_rate_centers:
+  - name: EL PASO
+    distance_km: 7.53
+  - name: CALHAN
+    distance_km: 24.36
+  - name: PEYTON
+    distance_km: 24.45
+- country: US
+  region: CO
+  name: Empire
+  lat: '39.7595'
+  long: "-105.6825"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance_km: 5.99
+  - name: FRASER
+    distance_km: 23.17
+  - name: DILLON
+    distance_km: 36.2
+- country: US
+  region: CO
+  name: Englewood
+  lat: '39.6468'
+  long: "-104.9942"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 10.24
+  - name: DENVER
+    distance_km: 12.06
+  - name: AURORA
+    distance_km: 15.13
+- country: US
+  region: CO
+  name: Erie
+  lat: '40.0404'
+  long: "-105.0399"
+  nearby_rate_centers:
+  - name: LONGMONT
+    distance_km: 14.88
+  - name: BRIGHTON
+    distance_km: 20.17
+  - name: FORTLUPTON
+    distance_km: 20.46
+- country: US
+  region: CO
+  name: Estes Park
+  lat: '40.3699'
+  long: "-105.5217"
+  nearby_rate_centers:
+  - name: ESTES PARK
+    distance_km: 1.13
+  - name: ALLNSPKLYN
+    distance_km: 23.16
+  - name: GRAND LAKE
+    distance_km: 28.55
+- country: US
+  region: CO
+  name: Evans
+  lat: '40.3660'
+  long: "-104.7390"
+  nearby_rate_centers:
+  - name: LA SALLE
+    distance_km: 3.18
+  - name: GREELEY
+    distance_km: 7.48
+  - name: GILCREST
+    distance_km: 10.09
+- country: US
+  region: CO
+  name: Evergreen
+  lat: '39.6349'
+  long: "-105.3356"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 27.26
+  - name: GEORGETOWN
+    distance_km: 32.21
+  - name: DENVERSLVN
+    distance_km: 39.39
+- country: US
+  region: CO
+  name: Fairmount
+  lat: '39.7931'
+  long: "-105.1711"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 11.49
+  - name: AURORA
+    distance_km: 25.68
+  - name: DENVERSLVN
+    distance_km: 28.8
+- country: US
+  region: CO
+  name: Fairplay
+  lat: '39.2245'
+  long: "-105.9965"
+  nearby_rate_centers:
+  - name: FAIRPLAY
+    distance_km: 0.27
+  - name: LEADVILLE
+    distance_km: 25.54
+  - name: HARTSEL
+    distance_km: 28.28
+- country: US
+  region: CO
+  name: Federal Heights
+  lat: '39.8651'
+  long: "-105.0154"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 13.61
+  - name: AURORA
+    distance_km: 17.6
+  - name: BRIGHTON
+    distance_km: 21.7
+- country: US
+  region: CO
+  name: Firestone
+  lat: '40.1565'
+  long: "-104.9494"
+  nearby_rate_centers:
+  - name: MEAD
+    distance_km: 9.28
+  - name: PLATTEVL
+    distance_km: 12.43
+  - name: LONGMONT
+    distance_km: 13.4
+- country: US
+  region: CO
+  name: Flagler
+  lat: '39.2948'
+  long: "-103.0758"
+  nearby_rate_centers:
+  - name: FLAGLER
+    distance_km: 1.09
+  - name: ARRIBA
+    distance_km: 16.47
+  - name: VONASEBERT
+    distance_km: 21.86
+- country: US
+  region: CO
+  name: Fleming
+  lat: '40.6821'
+  long: "-102.8396"
+  nearby_rate_centers:
+  - name: FLEMING
+    distance_km: 0.9
+  - name: HAXTUN
+    distance_km: 18.45
+  - name: CROOK
+    distance_km: 18.77
+- country: US
+  region: CO
+  name: Florence
+  lat: '38.3836'
+  long: "-105.1114"
+  nearby_rate_centers:
+  - name: FLORENCE
+    distance_km: 1.53
+  - name: CANON CITY
+    distance_km: 12.52
+  - name: BEULAH
+    distance_km: 38.48
+- country: US
+  region: CO
+  name: Florissant
+  lat: '38.9445'
+  long: "-105.2900"
+  nearby_rate_centers:
+  - name: LAKEGEORGE
+    distance_km: 6.81
+  - name: CRIPPLECRK
+    distance_km: 23.54
+  - name: DECKERS
+    distance_km: 34.46
+- country: US
+  region: CO
+  name: Floyd Hill
+  lat: '39.7217'
+  long: "-105.4313"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance_km: 23.03
+  - name: DENVER
+    distance_km: 32.59
+  - name: FRASER
+    distance_km: 40.92
+- country: US
+  region: CO
+  name: Fort Carson
+  lat: '38.7095'
+  long: "-104.7720"
+  nearby_rate_centers:
+  - name: COLORADO SPRINGS-AIR FORCE ACADEMY
+    distance_km: 15.08
+  - name: COLORADO SPRINGS-BLACK FOREST
+    distance_km: 15.08
+  - name: COLORADO SPRINGS-EAST
+    distance_km: 15.08
+  - name: COLORADO SPRINGS-FOUNTAIN
+    distance_km: 15.08
+  - name: COLORADO SPRINGS-GATEHOUSE
+    distance_km: 15.08
+  - name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+    distance_km: 15.08
+  - name: COLORADO SPRINGS-MANITOU SPRINGS
+    distance_km: 15.08
+  - name: COLORADO SPRINGS-MONUMENT
+    distance_km: 15.08
+  - name: COLORADO SPRINGS-PIKEVIEW
+    distance_km: 15.08
+  - name: COLORADO SPRINGS-SECURITY
+    distance_km: 15.08
+  - name: COLORADO SPRINGS-STRATMOOR
+    distance_km: 15.08
+  - name: COLORADO SPRINGS-WOODLAND PARK
+    distance_km: 15.08
+  - name: COLORDOSPG
+    distance_km: 15.08
+  - name: EL PASO
+    distance_km: 29.68
+  - name: CRIPPLECRK
+    distance_km: 35.41
+- country: US
+  region: CO
+  name: Fort Collins
+  lat: '40.5477'
+  long: "-105.0656"
+  nearby_rate_centers:
+  - name: FT COLLINS
+    distance_km: 4.09
+  - name: WINDSOR
+    distance_km: 15.97
+  - name: LOVELAND
+    distance_km: 16.62
+- country: US
+  region: CO
+  name: Fort Garland
+  lat: '37.4279'
+  long: "-105.4351"
+  nearby_rate_centers:
+  - name: BLANCA
+    distance_km: 7.37
+  - name: SAN LUIS
+    distance_km: 24.44
+  - name: ALAMOSA
+    distance_km: 38.33
+- country: US
+  region: CO
+  name: Fort Lupton
+  lat: '40.0827'
+  long: "-104.8068"
+  nearby_rate_centers:
+  - name: FORTLUPTON
+    distance_km: 0.2
+  - name: BRIGHTON
+    distance_km: 10.89
+  - name: HUDSON
+    distance_km: 14.1
+- country: US
+  region: CO
+  name: Fort Morgan
+  lat: '40.2537'
+  long: "-103.7903"
+  nearby_rate_centers:
+  - name: FORTMORGAN
+    distance_km: 0.43
+  - name: BRUSH
+    distance_km: 13.95
+  - name: WELDONA
+    distance_km: 17.96
+- country: US
+  region: CO
+  name: Fountain
+  lat: '38.6886'
+  long: "-104.6829"
+  nearby_rate_centers:
+  - name: COLORADO SPRINGS-AIR FORCE ACADEMY
+    distance_km: 20.51
+  - name: COLORADO SPRINGS-BLACK FOREST
+    distance_km: 20.51
+  - name: COLORADO SPRINGS-EAST
+    distance_km: 20.51
+  - name: COLORADO SPRINGS-FOUNTAIN
+    distance_km: 20.51
+  - name: COLORADO SPRINGS-GATEHOUSE
+    distance_km: 20.51
+  - name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+    distance_km: 20.51
+  - name: COLORADO SPRINGS-MANITOU SPRINGS
+    distance_km: 20.51
+  - name: COLORADO SPRINGS-MONUMENT
+    distance_km: 20.51
+  - name: COLORADO SPRINGS-PIKEVIEW
+    distance_km: 20.51
+  - name: COLORADO SPRINGS-SECURITY
+    distance_km: 20.51
+  - name: COLORADO SPRINGS-STRATMOOR
+    distance_km: 20.51
+  - name: COLORADO SPRINGS-WOODLAND PARK
+    distance_km: 20.51
+  - name: COLORDOSPG
+    distance_km: 20.51
+  - name: EL PASO
+    distance_km: 24.59
+  - name: PEYTON
+    distance_km: 41.8
+- country: US
+  region: CO
+  name: Four Square Mile
+  lat: '39.6808'
+  long: "-104.8880"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 1.84
+  - name: AURORA
+    distance_km: 7.57
+  - name: DENVER
+    distance_km: 15.75
+- country: US
+  region: CO
+  name: Fowler
+  lat: '38.1304'
+  long: "-104.0264"
+  nearby_rate_centers:
+  - name: FOWLER
+    distance_km: 0.66
+  - name: MANZANOLA
+    distance_km: 14.97
+  - name: ORDWAY
+    distance_km: 25.08
+- country: US
+  region: CO
+  name: Foxfield
+  lat: '39.5881'
+  long: "-104.7857"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 11.73
+  - name: AURORA
+    distance_km: 19.43
+  - name: DENVER
+    distance_km: 28.73
+- country: US
+  region: CO
+  name: Franktown
+  lat: '39.3906'
+  long: "-104.7486"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 32.6
+  - name: AURORA
+    distance_km: 41.26
+  - name: DECKERS
+    distance_km: 43.41
+- country: US
+  region: CO
+  name: Fraser
+  lat: '39.9303'
+  long: "-105.8029"
+  nearby_rate_centers:
+  - name: FRASER
+    distance_km: 1.64
+  - name: GRANBY
+    distance_km: 20.88
+  - name: GEORGETOWN
+    distance_km: 26.3
+- country: US
+  region: CO
+  name: Frederick
+  lat: '40.1088'
+  long: "-104.9701"
+  nearby_rate_centers:
+  - name: LONGMONT
+    distance_km: 13.14
+  - name: MEAD
+    distance_km: 13.79
+  - name: FORTLUPTON
+    distance_km: 14.18
+- country: US
+  region: CO
+  name: Frisco
+  lat: '39.5791'
+  long: "-106.0915"
+  nearby_rate_centers:
+  - name: DILLON
+    distance_km: 4.48
+  - name: BRECKENRDG
+    distance_km: 11.5
+  - name: VAIL
+    distance_km: 25.41
+- country: US
+  region: CO
+  name: Fruita
+  lat: '39.1548'
+  long: "-108.7305"
+  nearby_rate_centers:
+  - name: FRUITA
+    distance_km: 0.66
+  - name: GRAND JCT
+    distance_km: 17.71
+  - name: PALISADE
+    distance_km: 33.24
+- country: US
+  region: CO
+  name: Fruitvale
+  lat: '39.0933'
+  long: "-108.4789"
+  nearby_rate_centers:
+  - name: GRAND JCT
+    distance_km: 7.49
+  - name: PALISADE
+    distance_km: 11.34
+  - name: FRUITA
+    distance_km: 22.31
+- country: US
+  region: CO
+  name: Fulford
+  lat: '39.5166'
+  long: "-106.6576"
+  nearby_rate_centers:
+  - name: EDWARDS
+    distance_km: 15.07
+  - name: EAGLE
+    distance_km: 21.36
+  - name: VAIL
+    distance_km: 24.06
+- country: US
+  region: CO
+  name: Garden City
+  lat: '40.3948'
+  long: "-104.6893"
+  nearby_rate_centers:
+  - name: GREELEY
+    distance_km: 3.74
+  - name: LA SALLE
+    distance_km: 5.1
+  - name: GILCREST
+    distance_km: 14.9
+- country: US
+  region: CO
+  name: Gardner
+  lat: '37.7889'
+  long: "-105.1644"
+  nearby_rate_centers:
+  - name: GARDNER
+    distance_km: 1.3
+  - name: RYE
+    distance_km: 25.1
+  - name: COLORADOCY
+    distance_km: 33.46
+- country: US
+  region: CO
+  name: Garfield
+  lat: '38.5493'
+  long: "-106.2893"
+  nearby_rate_centers:
+  - name: SALIDA
+    distance_km: 24.24
+  - name: BUENAVISTA
+    distance_km: 35.39
+  - name: HOWARD
+    distance_km: 41.06
+  - name: PIKETRAILS
+    distance_km: 41.06
+- country: US
+  region: CO
+  name: Genesee
+  lat: '39.6872'
+  long: "-105.2718"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 19.94
+  - name: DENVERSLVN
+    distance_km: 33.83
+  - name: AURORA
+    distance_km: 34.5
+- country: US
+  region: CO
+  name: Genoa
+  lat: '39.2782'
+  long: "-103.4984"
+  nearby_rate_centers:
+  - name: GENOA
+    distance_km: 0.52
+  - name: LIMON
+    distance_km: 16.0
+  - name: HUGO
+    distance_km: 17.23
+- country: US
+  region: CO
+  name: Georgetown
+  lat: '39.7179'
+  long: "-105.6942"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance_km: 1.27
+  - name: FRASER
+    distance_km: 26.89
+  - name: DILLON
+    distance_km: 33.4
+- country: US
+  region: CO
+  name: Gerrard
+  lat: '37.6783'
+  long: "-106.5753"
+  nearby_rate_centers:
+  - name: DEL NORTE
+    distance_km: 19.88
+  - name: CREEDE
+    distance_km: 36.19
+  - name: MONTEVISTA
+    distance_km: 40.05
+- country: US
+  region: CO
+  name: Gilcrest
+  lat: '40.2841'
+  long: "-104.7820"
+  nearby_rate_centers:
+  - name: GILCREST
+    distance_km: 0.31
+  - name: PLATTEVL
+    distance_km: 8.56
+  - name: LA SALLE
+    distance_km: 9.78
+- country: US
+  region: CO
+  name: Glendale
+  lat: '39.7036'
+  long: "-104.9352"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 6.45
+  - name: AURORA
+    distance_km: 7.07
+  - name: DENVER
+    distance_km: 11.0
+- country: US
+  region: CO
+  name: Gleneagle
+  lat: '39.0453'
+  long: "-104.8288"
+  nearby_rate_centers:
+  - name: COLORADO SPRINGS-AIR FORCE ACADEMY
+    distance_km: 22.8
+  - name: COLORADO SPRINGS-BLACK FOREST
+    distance_km: 22.8
+  - name: COLORADO SPRINGS-EAST
+    distance_km: 22.8
+  - name: COLORADO SPRINGS-FOUNTAIN
+    distance_km: 22.8
+  - name: COLORADO SPRINGS-GATEHOUSE
+    distance_km: 22.8
+  - name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+    distance_km: 22.8
+  - name: COLORADO SPRINGS-MANITOU SPRINGS
+    distance_km: 22.8
+  - name: COLORADO SPRINGS-MONUMENT
+    distance_km: 22.8
+  - name: COLORADO SPRINGS-PIKEVIEW
+    distance_km: 22.8
+  - name: COLORADO SPRINGS-SECURITY
+    distance_km: 22.8
+  - name: COLORADO SPRINGS-STRATMOOR
+    distance_km: 22.8
+  - name: COLORADO SPRINGS-WOODLAND PARK
+    distance_km: 22.8
+  - name: COLORDOSPG
+    distance_km: 22.8
+  - name: PEYTON
+    distance_km: 29.86
+  - name: EL PASO
+    distance_km: 38.99
+- country: US
+  region: CO
+  name: Glenwood Springs
+  lat: '39.5455'
+  long: "-107.3347"
+  nearby_rate_centers:
+  - name: GLENWD SPG
+    distance_km: 1.01
+  - name: NEW CASTLE
+    distance_km: 17.38
+  - name: CARBONDALE
+    distance_km: 19.35
+- country: US
+  region: CO
+  name: Gold Hill
+  lat: '40.0597'
+  long: "-105.4189"
+  nearby_rate_centers:
+  - name: ALLNSPKLYN
+    distance_km: 18.83
+  - name: LONGMONT
+    distance_km: 28.97
+  - name: FRASER
+    distance_km: 36.36
+- country: US
+  region: CO
+  name: Golden
+  lat: '39.7406'
+  long: "-105.2118"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 13.72
+  - name: AURORA
+    distance_km: 28.69
+  - name: DENVERSLVN
+    distance_km: 29.77
+- country: US
+  region: CO
+  name: Goldfield
+  lat: '38.7176'
+  long: "-105.1253"
+  nearby_rate_centers:
+  - name: CRIPPLECRK
+    distance_km: 5.87
+  - name: COLORADO SPRINGS-AIR FORCE ACADEMY
+    distance_km: 30.01
+  - name: COLORADO SPRINGS-BLACK FOREST
+    distance_km: 30.01
+  - name: COLORADO SPRINGS-EAST
+    distance_km: 30.01
+  - name: COLORADO SPRINGS-FOUNTAIN
+    distance_km: 30.01
+  - name: COLORADO SPRINGS-GATEHOUSE
+    distance_km: 30.01
+  - name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+    distance_km: 30.01
+  - name: COLORADO SPRINGS-MANITOU SPRINGS
+    distance_km: 30.01
+  - name: COLORADO SPRINGS-MONUMENT
+    distance_km: 30.01
+  - name: COLORADO SPRINGS-PIKEVIEW
+    distance_km: 30.01
+  - name: COLORADO SPRINGS-SECURITY
+    distance_km: 30.01
+  - name: COLORADO SPRINGS-STRATMOOR
+    distance_km: 30.01
+  - name: COLORADO SPRINGS-WOODLAND PARK
+    distance_km: 30.01
+  - name: COLORDOSPG
+    distance_km: 30.01
+  - name: CANON CITY
+    distance_km: 32.03
+- country: US
+  region: CO
+  name: Granada
+  lat: '38.0630'
+  long: "-102.3115"
+  nearby_rate_centers:
+  - name: BRISTOGRND
+    distance_km: 0.32
+  - name: HARTMAN
+    distance_km: 10.25
+  - name: HOLLY
+    distance_km: 16.41
+- country: US
+  region: CO
+  name: Granby
+  lat: '40.0647'
+  long: "-105.9194"
+  nearby_rate_centers:
+  - name: GRANBY
+    distance_km: 2.96
+  - name: HTSLPHRSPG
+    distance_km: 16.15
+  - name: FRASER
+    distance_km: 16.34
+- country: US
+  region: CO
+  name: Grand Junction
+  lat: '39.0877'
+  long: "-108.5673"
+  nearby_rate_centers:
+  - name: GRAND JCT
+    distance_km: 2.38
+  - name: FRUITA
+    distance_km: 15.59
+  - name: PALISADE
+    distance_km: 18.98
+- country: US
+  region: CO
+  name: Grand Lake
+  lat: '40.2502'
+  long: "-105.8232"
+  nearby_rate_centers:
+  - name: GRAND LAKE
+    distance_km: 1.17
+  - name: GRANBY
+    distance_km: 21.04
+  - name: ESTES PARK
+    distance_km: 28.47
+- country: US
+  region: CO
+  name: Grand View Estates
+  lat: '39.5439'
+  long: "-104.8206"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 14.47
+  - name: AURORA
+    distance_km: 23.23
+  - name: DENVER
+    distance_km: 29.92
+- country: US
+  region: CO
+  name: Greeley
+  lat: '40.4152'
+  long: "-104.7706"
+  nearby_rate_centers:
+  - name: GREELEY
+    distance_km: 5.96
+  - name: LA SALLE
+    distance_km: 8.94
+  - name: WINDSOR
+    distance_km: 13.0
+- country: US
+  region: CO
+  name: Green Mountain Falls
+  lat: '38.9344'
+  long: "-105.0238"
+  nearby_rate_centers:
+  - name: COLORADO SPRINGS-AIR FORCE ACADEMY
+    distance_km: 20.72
+  - name: COLORADO SPRINGS-BLACK FOREST
+    distance_km: 20.72
+  - name: COLORADO SPRINGS-EAST
+    distance_km: 20.72
+  - name: COLORADO SPRINGS-FOUNTAIN
+    distance_km: 20.72
+  - name: COLORADO SPRINGS-GATEHOUSE
+    distance_km: 20.72
+  - name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+    distance_km: 20.72
+  - name: COLORADO SPRINGS-MANITOU SPRINGS
+    distance_km: 20.72
+  - name: COLORADO SPRINGS-MONUMENT
+    distance_km: 20.72
+  - name: COLORADO SPRINGS-PIKEVIEW
+    distance_km: 20.72
+  - name: COLORADO SPRINGS-SECURITY
+    distance_km: 20.72
+  - name: COLORADO SPRINGS-STRATMOOR
+    distance_km: 20.72
+  - name: COLORADO SPRINGS-WOODLAND PARK
+    distance_km: 20.72
+  - name: COLORDOSPG
+    distance_km: 20.72
+  - name: CRIPPLECRK
+    distance_km: 24.21
+  - name: LAKEGEORGE
+    distance_km: 28.91
+- country: US
+  region: CO
+  name: Greenwood Village
+  lat: '39.6153'
+  long: "-104.9131"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 6.46
+  - name: AURORA
+    distance_km: 15.12
+  - name: DENVER
+    distance_km: 18.74
+- country: US
+  region: CO
+  name: Grover
+  lat: '40.8691'
+  long: "-104.2259"
+  nearby_rate_centers:
+  - name: GROVER
+    distance_km: 0.68
+  - name: BRIGGSDALE
+    distance_km: 27.55
+  - name: NEW RAYMER
+    distance_km: 42.81
+- country: US
+  region: CO
+  name: Guffey
+  lat: '38.7591'
+  long: "-105.5024"
+  nearby_rate_centers:
+  - name: LAKEGEORGE
+    distance_km: 27.93
+  - name: CRIPPLECRK
+    distance_km: 28.26
+  - name: HARTSEL
+    distance_km: 38.86
+- country: US
+  region: CO
+  name: Gunbarrel
+  lat: '40.0632'
+  long: "-105.1713"
+  nearby_rate_centers:
+  - name: LONGMONT
+    distance_km: 12.48
+  - name: ALLNSPKLYN
+    distance_km: 22.12
+  - name: MEAD
+    distance_km: 23.69
+- country: US
+  region: CO
+  name: Gunnison
+  lat: '38.5480'
+  long: "-106.9246"
+  nearby_rate_centers:
+  - name: GUNNISON
+    distance_km: 0.84
+  - name: CRESTEDBTE
+    distance_km: 35.54
+  - name: CIMARRON
+    distance_km: 44.67
+- country: US
+  region: CO
+  name: Gypsum
+  lat: '39.6287'
+  long: "-106.9348"
+  nearby_rate_centers:
+  - name: GYPSUM
+    distance_km: 2.0
+  - name: EAGLE
+    distance_km: 8.97
+  - name: EDWARDS
+    distance_km: 29.48
+- country: US
+  region: CO
+  name: Hartman
+  lat: '38.1212'
+  long: "-102.2217"
+  nearby_rate_centers:
+  - name: HARTMAN
+    distance_km: 0.42
+  - name: BRISTOGRND
+    distance_km: 10.31
+  - name: HOLLY
+    distance_km: 11.63
+- country: US
+  region: CO
+  name: Hartsel
+  lat: '39.0219'
+  long: "-105.7976"
+  nearby_rate_centers:
+  - name: HARTSEL
+    distance_km: 0.05
+  - name: FAIRPLAY
+    distance_km: 28.59
+  - name: BUENAVISTA
+    distance_km: 35.22
+- country: US
+  region: CO
+  name: Hasty
+  lat: '38.0999'
+  long: "-102.9639"
+  nearby_rate_centers:
+  - name: LAS ANIMAS
+    distance_km: 22.14
+  - name: LAMAR
+    distance_km: 31.31
+  - name: HASWELL
+    distance_km: 42.16
+- country: US
+  region: CO
+  name: Haswell
+  lat: '38.4525'
+  long: "-103.1649"
+  nearby_rate_centers:
+  - name: HASWELL
+    distance_km: 1.48
+  - name: EADS
+    distance_km: 34.08
+  - name: LAS ANIMAS
+    distance_km: 42.93
+- country: US
+  region: CO
+  name: Haxtun
+  lat: '40.6420'
+  long: "-102.6297"
+  nearby_rate_centers:
+  - name: HAXTUN
+    distance_km: 0.36
+  - name: FLEMING
+    distance_km: 18.3
+  - name: CROOK
+    distance_km: 27.01
+- country: US
+  region: CO
+  name: Hayden
+  lat: '40.4851'
+  long: "-107.2390"
+  nearby_rate_centers:
+  - name: HAYDEN
+    distance_km: 1.41
+  - name: CRAIG
+    distance_km: 26.49
+  - name: OAK CREEK
+    distance_km: 33.59
+- country: US
+  region: CO
+  name: Heeney
+  lat: '39.8712'
+  long: "-106.3002"
+  nearby_rate_centers:
+  - name: KREMMLING
+    distance_km: 22.42
+  - name: HTSLPHRSPG
+    distance_km: 27.78
+  - name: EDWARDS
+    distance_km: 35.6
+- country: US
+  region: CO
+  name: Hidden Lake
+  lat: '40.1055'
+  long: "-105.4777"
+  nearby_rate_centers:
+  - name: ALLNSPKLYN
+    distance_km: 17.25
+  - name: ESTES PARK
+    distance_km: 30.52
+  - name: LONGMONT
+    distance_km: 32.2
+- country: US
+  region: CO
+  name: Highlands Ranch
+  lat: '39.5419'
+  long: "-104.9708"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 15.99
+  - name: DENVER
+    distance_km: 23.71
+  - name: AURORA
+    distance_km: 24.33
+- country: US
+  region: CO
+  name: Hillrose
+  lat: '40.3245'
+  long: "-103.5224"
+  nearby_rate_centers:
+  - name: HILLROSE
+    distance_km: 0.65
+  - name: BRUSH
+    distance_km: 11.6
+  - name: FORTMORGAN
+    distance_km: 23.82
+- country: US
+  region: CO
+  name: Hoehne
+  lat: '37.2815'
+  long: "-104.3890"
+  nearby_rate_centers:
+  - name: TRINIDAD
+    distance_km: 16.09
+  - name: AGUILAR
+    distance_km: 26.78
+  - name: WESTON
+    distance_km: 45.67
+- country: US
+  region: CO
+  name: Holly
+  lat: '38.0554'
+  long: "-102.1247"
+  nearby_rate_centers:
+  - name: HOLLY
+    distance_km: 0.64
+  - name: HARTMAN
+    distance_km: 10.78
+  - name: BRISTOGRND
+    distance_km: 16.28
+- country: US
+  region: CO
+  name: Holly Hills
+  lat: '39.6678'
+  long: "-104.9216"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 3.79
+  - name: AURORA
+    distance_km: 9.75
+  - name: DENVER
+    distance_km: 14.11
+- country: US
+  region: CO
+  name: Holyoke
+  lat: '40.5820'
+  long: "-102.2975"
+  nearby_rate_centers:
+  - name: HOLYOKE
+    distance_km: 0.57
+  - name: W VENANGO
+    distance_km: 28.5
+  - name: HAXTUN
+    distance_km: 28.63
+- country: US
+  region: CO
+  name: Hooper
+  lat: '37.7460'
+  long: "-105.8777"
+  nearby_rate_centers:
+  - name: MOSCA
+    distance_km: 0.43
+  - name: CENTER
+    distance_km: 20.31
+  - name: CRESTONE
+    distance_km: 28.35
+- country: US
+  region: CO
+  name: Hot Sulphur Springs
+  lat: '40.0748'
+  long: "-106.1032"
+  nearby_rate_centers:
+  - name: HTSLPHRSPG
+    distance_km: 0.5
+  - name: GRANBY
+    distance_km: 13.7
+  - name: KREMMLING
+    distance_km: 24.81
+- country: US
+  region: CO
+  name: Hotchkiss
+  lat: '38.7990'
+  long: "-107.7133"
+  nearby_rate_centers:
+  - name: HOTCHKISS
+    distance_km: 0.51
+  - name: PAONIA
+    distance_km: 12.62
+  - name: CRAWFORD
+    distance_km: 14.52
+- country: US
+  region: CO
+  name: Howard
+  lat: '38.4098'
+  long: "-105.8424"
+  nearby_rate_centers:
+  - name: HOWARD
+    distance_km: 4.3
+  - name: PIKETRAILS
+    distance_km: 4.3
+  - name: SALIDA
+    distance_km: 20.03
+  - name: SAGUACHE
+    distance_km: 44.48
+- country: US
+  region: CO
+  name: Hudson
+  lat: '40.0898'
+  long: "-104.6210"
+  nearby_rate_centers:
+  - name: HUDSON
+    distance_km: 2.42
+  - name: KEENESBURG
+    distance_km: 9.19
+  - name: FORTLUPTON
+    distance_km: 15.79
+- country: US
+  region: CO
+  name: Hugo
+  lat: '39.1362'
+  long: "-103.4731"
+  nearby_rate_centers:
+  - name: HUGO
+    distance_km: 1.31
+  - name: GENOA
+    distance_km: 15.48
+  - name: LIMON
+    distance_km: 23.19
+- country: US
+  region: CO
+  name: Idaho Springs
+  lat: '39.7444'
+  long: "-105.5006"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance_km: 17.54
+  - name: FRASER
+    distance_km: 34.7
+  - name: DENVER
+    distance_km: 38.39
+- country: US
+  region: CO
+  name: Idalia
+  lat: '39.7029'
+  long: "-102.2938"
+  nearby_rate_centers:
+  - name: IDALIA
+    distance_km: 0.95
+  - name: KIRK
+    distance_km: 27.72
+  - name: JOES
+    distance_km: 33.91
+- country: US
+  region: CO
+  name: Idledale
+  lat: '39.6688'
+  long: "-105.2432"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 18.5
+  - name: DENVERSLVN
+    distance_km: 31.31
+  - name: AURORA
+    distance_km: 32.6
+- country: US
+  region: CO
+  name: Ignacio
+  lat: '37.1180'
+  long: "-107.6376"
+  nearby_rate_centers:
+  - name: IGNACIO
+    distance_km: 0.33
+  - name: BAYFIELD
+    distance_km: 13.09
+  - name: ALLISON
+    distance_km: 17.23
+- country: US
+  region: CO
+  name: Iliff
+  lat: '40.7592'
+  long: "-103.0661"
+  nearby_rate_centers:
+  - name: STERLING
+    distance_km: 18.37
+  - name: FLEMING
+    distance_km: 21.08
+  - name: PEETZ
+    distance_km: 22.55
+- country: US
+  region: CO
+  name: Indian Hills
+  lat: '39.6294'
+  long: "-105.2509"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 21.42
+  - name: DENVERSLVN
+    distance_km: 32.24
+  - name: AURORA
+    distance_km: 34.67
+- country: US
+  region: CO
+  name: Inverness
+  lat: '39.5758'
+  long: "-104.8653"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 10.13
+  - name: AURORA
+    distance_km: 19.21
+  - name: DENVER
+    distance_km: 24.74
+- country: US
+  region: CO
+  name: Jackson Lake
+  lat: '40.3758'
+  long: "-104.0712"
+  nearby_rate_centers:
+  - name: WELDONA
+    distance_km: 9.5
+  - name: WIGGINS
+    distance_km: 15.69
+  - name: FORTMORGAN
+    distance_km: 27.29
+- country: US
+  region: CO
+  name: Jamestown
+  lat: '40.1180'
+  long: "-105.3914"
+  nearby_rate_centers:
+  - name: ALLNSPKLYN
+    distance_km: 11.95
+  - name: LONGMONT
+    distance_km: 24.73
+  - name: ESTES PARK
+    distance_km: 31.14
+- country: US
+  region: CO
+  name: Jansen
+  lat: '37.1581'
+  long: "-104.5501"
+  nearby_rate_centers:
+  - name: TRINIDAD
+    distance_km: 3.92
+  - name: WESTON
+    distance_km: 28.44
+  - name: AGUILAR
+    distance_km: 28.59
+- country: US
+  region: CO
+  name: Joes
+  lat: '39.6559'
+  long: "-102.6786"
+  nearby_rate_centers:
+  - name: JOES
+    distance_km: 0.57
+  - name: KIRK
+    distance_km: 9.08
+  - name: COPE
+    distance_km: 13.94
+- country: US
+  region: CO
+  name: Johnson Village
+  lat: '38.8120'
+  long: "-106.1071"
+  nearby_rate_centers:
+  - name: BUENAVISTA
+    distance_km: 4.24
+  - name: SALIDA
+    distance_km: 32.23
+  - name: HARTSEL
+    distance_km: 35.5
+- country: US
+  region: CO
+  name: Johnstown
+  lat: '40.3499'
+  long: "-104.9482"
+  nearby_rate_centers:
+  - name: JOHNSTMLKN
+    distance_km: 3.78
+  - name: LOVELAND
+    distance_km: 12.23
+  - name: BERTHOUD
+    distance_km: 12.25
+- country: US
+  region: CO
+  name: Julesburg
+  lat: '40.9849'
+  long: "-102.2627"
+  nearby_rate_centers:
+  - name: JULESBURG
+    distance_km: 1.15
+  - name: SO BIG SPG
+    distance_km: 15.93
+  - name: W VENANGO
+    distance_km: 32.33
+- country: US
+  region: CO
+  name: Keenesburg
+  lat: '40.1327'
+  long: "-104.5380"
+  nearby_rate_centers:
+  - name: KEENESBURG
+    distance_km: 3.38
+  - name: HUDSON
+    distance_km: 10.91
+  - name: ROGGEN
+    distance_km: 14.48
+- country: US
+  region: CO
+  name: Ken Caryl
+  lat: '39.5770'
+  long: "-105.1144"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 19.54
+  - name: DENVERSLVN
+    distance_km: 22.61
+  - name: AURORA
+    distance_km: 27.89
+- country: US
+  region: CO
+  name: Kersey
+  lat: '40.3910'
+  long: "-104.5794"
+  nearby_rate_centers:
+  - name: GREELEY
+    distance_km: 11.12
+  - name: LA SALLE
+    distance_km: 11.7
+  - name: EATON
+    distance_km: 19.42
+- country: US
+  region: CO
+  name: Keystone
+  lat: '39.5901'
+  long: "-105.9383"
+  nearby_rate_centers:
+  - name: DILLON
+    distance_km: 10.55
+  - name: BRECKENRDG
+    distance_km: 15.07
+  - name: GEORGETOWN
+    distance_km: 24.22
+- country: US
+  region: CO
+  name: Kim
+  lat: '37.2470'
+  long: "-103.3534"
+  nearby_rate_centers:
+  - name: KIM
+    distance_km: 1.03
+  - name: KENTON
+    distance_km: 41.87
+  - name: BRANSON
+    distance_km: 53.43
+- country: US
+  region: CO
+  name: Kiowa
+  lat: '39.3436'
+  long: "-104.4580"
+  nearby_rate_centers:
+  - name: PEYTON
+    distance_km: 34.83
+  - name: CALHAN
+    distance_km: 37.41
+  - name: SIMLA
+    distance_km: 39.48
+- country: US
+  region: CO
+  name: Kirk
+  lat: '39.6127'
+  long: "-102.5920"
+  nearby_rate_centers:
+  - name: KIRK
+    distance_km: 0.57
+  - name: JOES
+    distance_km: 9.31
+  - name: COPE
+    distance_km: 21.91
+- country: US
+  region: CO
+  name: Kit Carson
+  lat: '38.7628'
+  long: "-102.7954"
+  nearby_rate_centers:
+  - name: KIT CARSON
+    distance_km: 0.58
+  - name: EADS
+    distance_km: 32.01
+  - name: CHEYENWLLS
+    distance_km: 35.93
+- country: US
+  region: CO
+  name: Kittredge
+  lat: '39.6593'
+  long: "-105.3045"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 23.69
+  - name: GEORGETOWN
+    distance_km: 34.26
+  - name: DENVERSLVN
+    distance_km: 36.57
+- country: US
+  region: CO
+  name: Kremmling
+  lat: '40.0567'
+  long: "-106.3784"
+  nearby_rate_centers:
+  - name: KREMMLING
+    distance_km: 1.37
+  - name: HTSLPHRSPG
+    distance_km: 23.01
+  - name: MCCOY
+    distance_km: 35.45
+- country: US
+  region: CO
+  name: La Jara
+  lat: '37.2735'
+  long: "-105.9597"
+  nearby_rate_centers:
+  - name: LA JARA
+    distance_km: 0.32
+  - name: MANASSA
+    distance_km: 10.75
+  - name: ANTONITO
+    distance_km: 21.64
+- country: US
+  region: CO
+  name: La Junta
+  lat: '37.9791'
+  long: "-103.5471"
+  nearby_rate_centers:
+  - name: LA JUNTA
+    distance_km: 1.35
+  - name: CHERAW
+    distance_km: 14.9
+  - name: ROCKY FORD
+    distance_km: 17.37
+- country: US
+  region: CO
+  name: La Junta Gardens
+  lat: '38.0014'
+  long: "-103.5549"
+  nearby_rate_centers:
+  - name: LA JUNTA
+    distance_km: 3.51
+  - name: CHERAW
+    distance_km: 12.75
+  - name: ROCKY FORD
+    distance_km: 15.65
+- country: US
+  region: CO
+  name: La Salle
+  lat: '40.3484'
+  long: "-104.7062"
+  nearby_rate_centers:
+  - name: LA SALLE
+    distance_km: 0.3
+  - name: GREELEY
+    distance_km: 8.75
+  - name: GILCREST
+    distance_km: 9.92
+- country: US
+  region: CO
+  name: La Veta
+  lat: '37.5085'
+  long: "-105.0085"
+  nearby_rate_centers:
+  - name: LA VETA
+    distance_km: 0.08
+  - name: WALSENBURG
+    distance_km: 23.25
+  - name: AGUILAR
+    distance_km: 33.69
+- country: US
+  region: CO
+  name: Lafayette
+  lat: '39.9946'
+  long: "-105.0998"
+  nearby_rate_centers:
+  - name: LONGMONT
+    distance_km: 18.85
+  - name: BRIGHTON
+    distance_km: 24.33
+  - name: FORTLUPTON
+    distance_km: 26.9
+- country: US
+  region: CO
+  name: Laird
+  lat: '40.0819'
+  long: "-102.1020"
+  nearby_rate_centers:
+  - name: WRAY
+    distance_km: 10.77
+  - name: ECKLEY
+    distance_km: 33.12
+  - name: IDALIA
+    distance_km: 45.4
+- country: US
+  region: CO
+  name: Lake City
+  lat: '38.0303'
+  long: "-107.3106"
+  nearby_rate_centers:
+  - name: LAKE CITY
+    distance_km: 0.76
+  - name: OURAY
+    distance_km: 32.13
+  - name: CIMARRON
+    distance_km: 35.27
+- country: US
+  region: CO
+  name: Lakeside
+  lat: '39.7802'
+  long: "-105.0579"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 3.85
+  - name: AURORA
+    distance_km: 15.92
+  - name: DENVERSLVN
+    distance_km: 19.96
+- country: US
+  region: CO
+  name: Lakewood
+  lat: '39.6977'
+  long: "-105.1172"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 7.76
+  - name: DENVERSLVN
+    distance_km: 20.81
+  - name: AURORA
+    distance_km: 21.35
+- country: US
+  region: CO
+  name: Lamar
+  lat: '38.0740'
+  long: "-102.6154"
+  nearby_rate_centers:
+  - name: LAMAR
+    distance_km: 1.47
+  - name: BRISTOGRND
+    distance_km: 26.74
+  - name: HARTMAN
+    distance_km: 35.11
+- country: US
+  region: CO
+  name: Laporte
+  lat: '40.6385'
+  long: "-105.1445"
+  nearby_rate_centers:
+  - name: FT COLLINS
+    distance_km: 8.22
+  - name: LOVELAND
+    distance_km: 27.28
+  - name: WINDSOR
+    distance_km: 27.37
+- country: US
+  region: CO
+  name: Larkspur
+  lat: '39.2319'
+  long: "-104.8924"
+  nearby_rate_centers:
+  - name: DECKERS
+    distance_km: 28.2
+  - name: PEYTON
+    distance_km: 41.74
+  - name: COLORADO SPRINGS-AIR FORCE ACADEMY
+    distance_km: 44.01
+  - name: COLORADO SPRINGS-BLACK FOREST
+    distance_km: 44.01
+  - name: COLORADO SPRINGS-EAST
+    distance_km: 44.01
+  - name: COLORADO SPRINGS-FOUNTAIN
+    distance_km: 44.01
+  - name: COLORADO SPRINGS-GATEHOUSE
+    distance_km: 44.01
+  - name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+    distance_km: 44.01
+  - name: COLORADO SPRINGS-MANITOU SPRINGS
+    distance_km: 44.01
+  - name: COLORADO SPRINGS-MONUMENT
+    distance_km: 44.01
+  - name: COLORADO SPRINGS-PIKEVIEW
+    distance_km: 44.01
+  - name: COLORADO SPRINGS-SECURITY
+    distance_km: 44.01
+  - name: COLORADO SPRINGS-STRATMOOR
+    distance_km: 44.01
+  - name: COLORADO SPRINGS-WOODLAND PARK
+    distance_km: 44.01
+  - name: COLORDOSPG
+    distance_km: 44.01
+- country: US
+  region: CO
+  name: Las Animas
+  lat: '38.0695'
+  long: "-103.2236"
+  nearby_rate_centers:
+  - name: LAS ANIMAS
+    distance_km: 0.88
+  - name: CHERAW
+    distance_km: 24.82
+  - name: LA JUNTA
+    distance_km: 29.03
+- country: US
+  region: CO
+  name: Lazear
+  lat: '38.7788'
+  long: "-107.7805"
+  nearby_rate_centers:
+  - name: HOTCHKISS
+    distance_km: 6.06
+  - name: ECKERT
+    distance_km: 17.46
+  - name: CRAWFORD
+    distance_km: 17.5
+- country: US
+  region: CO
+  name: Lazy Acres
+  lat: '40.0837'
+  long: "-105.3313"
+  nearby_rate_centers:
+  - name: ALLNSPKLYN
+    distance_km: 14.82
+  - name: LONGMONT
+    distance_km: 21.08
+  - name: MEAD
+    distance_km: 32.62
+- country: US
+  region: CO
+  name: Leadville
+  lat: '39.2473'
+  long: "-106.2934"
+  nearby_rate_centers:
+  - name: LEADVILLE
+    distance_km: 0.27
+  - name: FAIRPLAY
+    distance_km: 25.52
+  - name: VAIL
+    distance_km: 30.95
+- country: US
+  region: CO
+  name: Leadville North
+  lat: '39.2600'
+  long: "-106.3112"
+  nearby_rate_centers:
+  - name: LEADVILLE
+    distance_km: 2.09
+  - name: FAIRPLAY
+    distance_km: 27.21
+  - name: VAIL
+    distance_km: 29.25
+- country: US
+  region: CO
+  name: Lewis
+  lat: '37.5017'
+  long: "-108.6600"
+  nearby_rate_centers:
+  - name: DOLORES
+    distance_km: 13.59
+  - name: PLEASANTVW
+    distance_km: 13.81
+  - name: CORTEZ
+    distance_km: 18.04
+- country: US
+  region: CO
+  name: Leyner
+  lat: '40.0511'
+  long: "-105.1074"
+  nearby_rate_centers:
+  - name: LONGMONT
+    distance_km: 12.56
+  - name: MEAD
+    distance_km: 22.0
+  - name: FORTLUPTON
+    distance_km: 25.88
+- country: US
+  region: CO
+  name: Limon
+  lat: '39.2653'
+  long: "-103.6857"
+  nearby_rate_centers:
+  - name: LIMON
+    distance_km: 0.2
+  - name: GENOA
+    distance_km: 15.98
+  - name: HUGO
+    distance_km: 24.36
+- country: US
+  region: CO
+  name: Lincoln Park
+  lat: '38.4255'
+  long: "-105.2132"
+  nearby_rate_centers:
+  - name: CANON CITY
+    distance_km: 2.61
+  - name: FLORENCE
+    distance_km: 8.52
+  - name: CRIPPLECRK
+    distance_km: 36.46
+- country: US
+  region: CO
+  name: Littleton
+  lat: '39.5915'
+  long: "-105.0188"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 14.7
+  - name: DENVER
+    distance_km: 17.4
+  - name: AURORA
+    distance_km: 21.27
+- country: US
+  region: CO
+  name: Lochbuie
+  lat: '40.0118'
+  long: "-104.7271"
+  nearby_rate_centers:
+  - name: BRIGHTON
+    distance_km: 8.02
+  - name: HUDSON
+    distance_km: 10.1
+  - name: FORTLUPTON
+    distance_km: 10.53
+- country: US
+  region: CO
+  name: Log Lane Village
+  lat: '40.2697'
+  long: "-103.8290"
+  nearby_rate_centers:
+  - name: FORTMORGAN
+    distance_km: 3.64
+  - name: WELDONA
+    distance_km: 14.24
+  - name: BRUSH
+    distance_km: 17.29
+- country: US
+  region: CO
+  name: Loghill Village
+  lat: '38.1994'
+  long: "-107.7754"
+  nearby_rate_centers:
+  - name: RIDGWAY
+    distance_km: 4.94
+  - name: OURAY
+    distance_km: 21.33
+  - name: TELLURIDE
+    distance_km: 28.78
+- country: US
+  region: CO
+  name: Loma
+  lat: '39.2075'
+  long: "-108.8050"
+  nearby_rate_centers:
+  - name: FRUITA
+    distance_km: 8.91
+  - name: GRAND JCT
+    distance_km: 26.33
+  - name: PALISADE
+    distance_km: 40.74
+- country: US
+  region: CO
+  name: Lone Tree
+  lat: '39.5309'
+  long: "-104.8709"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 15.08
+  - name: AURORA
+    distance_km: 24.18
+  - name: DENVER
+    distance_km: 28.47
+- country: US
+  region: CO
+  name: Longmont
+  lat: '40.1686'
+  long: "-105.1005"
+  nearby_rate_centers:
+  - name: LONGMONT
+    distance_km: 0.73
+  - name: MEAD
+    distance_km: 11.04
+  - name: BERTHOUD
+    distance_km: 15.56
+- country: US
+  region: CO
+  name: Louisville
+  lat: '39.9710'
+  long: "-105.1441"
+  nearby_rate_centers:
+  - name: LONGMONT
+    distance_km: 21.7
+  - name: DENVER
+    distance_km: 26.25
+  - name: BRIGHTON
+    distance_km: 28.13
+- country: US
+  region: CO
+  name: Louviers
+  lat: '39.4799'
+  long: "-105.0033"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 23.38
+  - name: DENVER
+    distance_km: 29.87
+  - name: DECKERS
+    distance_km: 31.63
+- country: US
+  region: CO
+  name: Loveland
+  lat: '40.4166'
+  long: "-105.0623"
+  nearby_rate_centers:
+  - name: LOVELAND
+    distance_km: 2.39
+  - name: BERTHOUD
+    distance_km: 12.21
+  - name: WINDSOR
+    distance_km: 14.88
+- country: US
+  region: CO
+  name: Lynn
+  lat: '37.4219'
+  long: "-104.6431"
+  nearby_rate_centers:
+  - name: AGUILAR
+    distance_km: 2.28
+  - name: WALSENBURG
+    distance_km: 25.23
+  - name: TRINIDAD
+    distance_km: 29.96
+- country: US
+  region: CO
+  name: Lyons
+  lat: '40.2230'
+  long: "-105.2692"
+  nearby_rate_centers:
+  - name: ALLNSPKLYN
+    distance_km: 5.75
+  - name: LONGMONT
+    distance_km: 15.28
+  - name: BERTHOUD
+    distance_km: 18.49
+- country: US
+  region: CO
+  name: Manassa
+  lat: '37.1738'
+  long: "-105.9373"
+  nearby_rate_centers:
+  - name: MANASSA
+    distance_km: 0.68
+  - name: LA JARA
+    distance_km: 11.08
+  - name: ANTONITO
+    distance_km: 12.27
+- country: US
+  region: CO
+  name: Mancos
+  lat: '37.3466'
+  long: "-108.2939"
+  nearby_rate_centers:
+  - name: MANCOS
+    distance_km: 0.52
+  - name: DOLORES
+    distance_km: 23.78
+  - name: CORTEZ
+    distance_km: 26.45
+- country: US
+  region: CO
+  name: Manitou Springs
+  lat: '38.8575'
+  long: "-104.9127"
+  nearby_rate_centers:
+  - name: COLORADO SPRINGS-AIR FORCE ACADEMY
+    distance_km: 8.5
+  - name: COLORADO SPRINGS-BLACK FOREST
+    distance_km: 8.5
+  - name: COLORADO SPRINGS-EAST
+    distance_km: 8.5
+  - name: COLORADO SPRINGS-FOUNTAIN
+    distance_km: 8.5
+  - name: COLORADO SPRINGS-GATEHOUSE
+    distance_km: 8.5
+  - name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+    distance_km: 8.5
+  - name: COLORADO SPRINGS-MANITOU SPRINGS
+    distance_km: 8.5
+  - name: COLORADO SPRINGS-MONUMENT
+    distance_km: 8.5
+  - name: COLORADO SPRINGS-PIKEVIEW
+    distance_km: 8.5
+  - name: COLORADO SPRINGS-SECURITY
+    distance_km: 8.5
+  - name: COLORADO SPRINGS-STRATMOOR
+    distance_km: 8.5
+  - name: COLORADO SPRINGS-WOODLAND PARK
+    distance_km: 8.5
+  - name: COLORDOSPG
+    distance_km: 8.5
+  - name: CRIPPLECRK
+    distance_km: 25.69
+  - name: EL PASO
+    distance_km: 38.51
+- country: US
+  region: CO
+  name: Manzanola
+  lat: '38.1088'
+  long: "-103.8668"
+  nearby_rate_centers:
+  - name: MANZANOLA
+    distance_km: 0.82
+  - name: ROCKY FORD
+    distance_km: 14.15
+  - name: FOWLER
+    distance_km: 14.19
+- country: US
+  region: CO
+  name: Marble
+  lat: '39.0716'
+  long: "-107.1909"
+  nearby_rate_centers:
+  - name: SOMERSET
+    distance_km: 28.84
+  - name: CRESTEDBTE
+    distance_km: 29.25
+  - name: ASPEN
+    distance_km: 34.31
+- country: US
+  region: CO
+  name: Marvel
+  lat: '37.1112'
+  long: "-108.1262"
+  nearby_rate_centers:
+  - name: MARVEL
+    distance_km: 1.6
+  - name: DURANGO
+    distance_km: 29.02
+  - name: MANCOS
+    distance_km: 29.58
+- country: US
+  region: CO
+  name: Matheson
+  lat: '39.1683'
+  long: "-103.9770"
+  nearby_rate_centers:
+  - name: SIMLA
+    distance_km: 9.48
+  - name: LIMON
+    distance_km: 27.52
+  - name: CALHAN
+    distance_km: 31.05
+- country: US
+  region: CO
+  name: Maybell
+  lat: '40.5188'
+  long: "-108.0885"
+  nearby_rate_centers:
+  - name: MAYBELL
+    distance_km: 0.37
+  - name: CRAIG
+    distance_km: 45.56
+  - name: MEEKER
+    distance_km: 55.0
+- country: US
+  region: CO
+  name: Maysville
+  lat: '38.5305'
+  long: "-106.2156"
+  nearby_rate_centers:
+  - name: SALIDA
+    distance_km: 17.75
+  - name: HOWARD
+    distance_km: 34.33
+  - name: PIKETRAILS
+    distance_km: 34.33
+  - name: BUENAVISTA
+    distance_km: 35.53
+- country: US
+  region: CO
+  name: McClave
+  lat: '38.1315'
+  long: "-102.8504"
+  nearby_rate_centers:
+  - name: LAMAR
+    distance_km: 21.94
+  - name: LAS ANIMAS
+    distance_km: 32.55
+  - name: EADS
+    distance_km: 38.81
+- country: US
+  region: CO
+  name: McCoy
+  lat: '39.9144'
+  long: "-106.7257"
+  nearby_rate_centers:
+  - name: MCCOY
+    distance_km: 3.23
+  - name: YAMPA
+    distance_km: 30.6
+  - name: EAGLE
+    distance_km: 30.63
+- country: US
+  region: CO
+  name: Mead
+  lat: '40.2318'
+  long: "-104.9911"
+  nearby_rate_centers:
+  - name: MEAD
+    distance_km: 0.7
+  - name: BERTHOUD
+    distance_km: 11.43
+  - name: LONGMONT
+    distance_km: 12.38
+- country: US
+  region: CO
+  name: Meeker
+  lat: '40.0499'
+  long: "-107.8947"
+  nearby_rate_centers:
+  - name: MEEKER
+    distance_km: 1.86
+  - name: MAYBELL
+    distance_km: 54.33
+  - name: RIFLE
+    distance_km: 58.51
+- country: US
+  region: CO
+  name: Meridian
+  lat: '39.5458'
+  long: "-104.8533"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 13.57
+  - name: AURORA
+    distance_km: 22.6
+  - name: DENVER
+    distance_km: 27.98
+- country: US
+  region: CO
+  name: Meridian Village
+  lat: '39.5280'
+  long: "-104.8258"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 16.02
+  - name: AURORA
+    distance_km: 24.88
+  - name: DENVER
+    distance_km: 31.0
+- country: US
+  region: CO
+  name: Merino
+  lat: '40.4835'
+  long: "-103.3535"
+  nearby_rate_centers:
+  - name: WILLARD
+    distance_km: 14.52
+  - name: STERLING
+    distance_km: 20.76
+  - name: HILLROSE
+    distance_km: 22.2
+- country: US
+  region: CO
+  name: Midland
+  lat: '38.8468'
+  long: "-105.1579"
+  nearby_rate_centers:
+  - name: CRIPPLECRK
+    distance_km: 10.65
+  - name: LAKEGEORGE
+    distance_km: 22.55
+  - name: COLORADO SPRINGS-AIR FORCE ACADEMY
+    distance_km: 29.53
+  - name: COLORADO SPRINGS-BLACK FOREST
+    distance_km: 29.53
+  - name: COLORADO SPRINGS-EAST
+    distance_km: 29.53
+  - name: COLORADO SPRINGS-FOUNTAIN
+    distance_km: 29.53
+  - name: COLORADO SPRINGS-GATEHOUSE
+    distance_km: 29.53
+  - name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+    distance_km: 29.53
+  - name: COLORADO SPRINGS-MANITOU SPRINGS
+    distance_km: 29.53
+  - name: COLORADO SPRINGS-MONUMENT
+    distance_km: 29.53
+  - name: COLORADO SPRINGS-PIKEVIEW
+    distance_km: 29.53
+  - name: COLORADO SPRINGS-SECURITY
+    distance_km: 29.53
+  - name: COLORADO SPRINGS-STRATMOOR
+    distance_km: 29.53
+  - name: COLORADO SPRINGS-WOODLAND PARK
+    distance_km: 29.53
+  - name: COLORDOSPG
+    distance_km: 29.53
+- country: US
+  region: CO
+  name: Milliken
+  lat: '40.3115'
+  long: "-104.8561"
+  nearby_rate_centers:
+  - name: JOHNSTMLKN
+    distance_km: 5.12
+  - name: GILCREST
+    distance_km: 6.89
+  - name: PLATTEVL
+    distance_km: 11.16
+- country: US
+  region: CO
+  name: Minturn
+  lat: '39.5463'
+  long: "-106.3871"
+  nearby_rate_centers:
+  - name: VAIL
+    distance_km: 3.26
+  - name: EDWARDS
+    distance_km: 20.46
+  - name: DILLON
+    distance_km: 29.04
+- country: US
+  region: CO
+  name: Moffat
+  lat: '38.0027'
+  long: "-105.9065"
+  nearby_rate_centers:
+  - name: CRESTONE
+    distance_km: 0.73
+  - name: SAGUACHE
+    distance_km: 22.4
+  - name: MOSCA
+    distance_km: 28.25
+- country: US
+  region: CO
+  name: Monte Vista
+  lat: '37.5789'
+  long: "-106.1499"
+  nearby_rate_centers:
+  - name: MONTEVISTA
+    distance_km: 1.0
+  - name: CENTER
+    distance_km: 20.49
+  - name: DEL NORTE
+    distance_km: 20.64
+- country: US
+  region: CO
+  name: Montezuma
+  lat: '39.5814'
+  long: "-105.8678"
+  nearby_rate_centers:
+  - name: DILLON
+    distance_km: 16.66
+  - name: BRECKENRDG
+    distance_km: 18.75
+  - name: GEORGETOWN
+    distance_km: 20.07
+- country: US
+  region: CO
+  name: Montrose
+  lat: '38.4689'
+  long: "-107.8590"
+  nearby_rate_centers:
+  - name: MONTROSE
+    distance_km: 1.41
+  - name: OLATHE
+    distance_km: 19.08
+  - name: CRAWFORD
+    distance_km: 33.53
+- country: US
+  region: CO
+  name: Monument
+  lat: '39.0736'
+  long: "-104.8467"
+  nearby_rate_centers:
+  - name: COLORADO SPRINGS-AIR FORCE ACADEMY
+    distance_km: 26.05
+  - name: COLORADO SPRINGS-BLACK FOREST
+    distance_km: 26.05
+  - name: COLORADO SPRINGS-EAST
+    distance_km: 26.05
+  - name: COLORADO SPRINGS-FOUNTAIN
+    distance_km: 26.05
+  - name: COLORADO SPRINGS-GATEHOUSE
+    distance_km: 26.05
+  - name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+    distance_km: 26.05
+  - name: COLORADO SPRINGS-MANITOU SPRINGS
+    distance_km: 26.05
+  - name: COLORADO SPRINGS-MONUMENT
+    distance_km: 26.05
+  - name: COLORADO SPRINGS-PIKEVIEW
+    distance_km: 26.05
+  - name: COLORADO SPRINGS-SECURITY
+    distance_km: 26.05
+  - name: COLORADO SPRINGS-STRATMOOR
+    distance_km: 26.05
+  - name: COLORADO SPRINGS-WOODLAND PARK
+    distance_km: 26.05
+  - name: COLORDOSPG
+    distance_km: 26.05
+  - name: PEYTON
+    distance_km: 31.71
+  - name: DECKERS
+    distance_km: 37.59
+- country: US
+  region: CO
+  name: Morgan Heights
+  lat: '40.2875'
+  long: "-103.8275"
+  nearby_rate_centers:
+  - name: FORTMORGAN
+    distance_km: 4.66
+  - name: WELDONA
+    distance_km: 13.37
+  - name: BRUSH
+    distance_km: 17.44
+- country: US
+  region: CO
+  name: Morrison
+  lat: '39.6368'
+  long: "-105.2006"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 17.6
+  - name: DENVERSLVN
+    distance_km: 27.87
+  - name: AURORA
+    distance_km: 30.39
+- country: US
+  region: CO
+  name: Mount Crested Butte
+  lat: '38.9083'
+  long: "-106.9606"
+  nearby_rate_centers:
+  - name: CRESTEDBTE
+    distance_km: 5.23
+  - name: ASPEN
+    distance_km: 33.41
+  - name: GUNNISON
+    distance_km: 40.97
+- country: US
+  region: CO
+  name: Mountain Meadows
+  lat: '40.0270'
+  long: "-105.3832"
+  nearby_rate_centers:
+  - name: ALLNSPKLYN
+    distance_km: 21.49
+  - name: LONGMONT
+    distance_km: 28.02
+  - name: FRASER
+    distance_km: 38.14
+- country: US
+  region: CO
+  name: Mountain View
+  lat: '39.7748'
+  long: "-105.0567"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 3.24
+  - name: AURORA
+    distance_km: 15.69
+  - name: DENVERSLVN
+    distance_km: 19.5
+- country: US
+  region: CO
+  name: Mountain Village
+  lat: '37.9324'
+  long: "-107.8577"
+  nearby_rate_centers:
+  - name: TELLURIDE
+    distance_km: 4.5
+  - name: OURAY
+    distance_km: 18.8
+  - name: SILVERTON
+    distance_km: 22.02
+- country: US
+  region: CO
+  name: Mulford
+  lat: '39.4063'
+  long: "-107.1661"
+  nearby_rate_centers:
+  - name: CARBONDALE
+    distance_km: 3.6
+  - name: BASALT
+    distance_km: 12.06
+  - name: GLENWD SPG
+    distance_km: 20.25
+- country: US
+  region: CO
+  name: Nathrop
+  lat: '38.7486'
+  long: "-106.0764"
+  nearby_rate_centers:
+  - name: BUENAVISTA
+    distance_km: 11.71
+  - name: SALIDA
+    distance_km: 24.74
+  - name: HARTSEL
+    distance_km: 38.79
+- country: US
+  region: CO
+  name: Naturita
+  lat: '38.2183'
+  long: "-108.5665"
+  nearby_rate_centers:
+  - name: NATURITA
+    distance_km: 1.14
+  - name: NUCLA
+    distance_km: 5.36
+  - name: NORWOOD
+    distance_km: 26.05
+- country: US
+  region: CO
+  name: Nederland
+  lat: '39.9633'
+  long: "-105.5071"
+  nearby_rate_centers:
+  - name: FRASER
+    distance_km: 26.49
+  - name: ALLNSPKLYN
+    distance_km: 31.72
+  - name: GEORGETOWN
+    distance_km: 32.88
+- country: US
+  region: CO
+  name: New Castle
+  lat: '39.5776'
+  long: "-107.5267"
+  nearby_rate_centers:
+  - name: NEW CASTLE
+    distance_km: 0.6
+  - name: SILT
+    distance_km: 11.35
+  - name: GLENWD SPG
+    distance_km: 17.82
+- country: US
+  region: CO
+  name: Niwot
+  lat: '40.0980'
+  long: "-105.1552"
+  nearby_rate_centers:
+  - name: LONGMONT
+    distance_km: 8.42
+  - name: MEAD
+    distance_km: 19.84
+  - name: ALLNSPKLYN
+    distance_km: 20.3
+- country: US
+  region: CO
+  name: No Name
+  lat: '39.5597'
+  long: "-107.2930"
+  nearby_rate_centers:
+  - name: GLENWD SPG
+    distance_km: 3.35
+  - name: CARBONDALE
+    distance_km: 19.03
+  - name: NEW CASTLE
+    distance_km: 20.7
+- country: US
+  region: CO
+  name: Norrie
+  lat: '39.3280'
+  long: "-106.6562"
+  nearby_rate_centers:
+  - name: ASPEN
+    distance_km: 21.09
+  - name: VAIL
+    distance_km: 31.96
+  - name: LEADVILLE
+    distance_km: 32.6
+- country: US
+  region: CO
+  name: North La Junta
+  lat: '37.9986'
+  long: "-103.5227"
+  nearby_rate_centers:
+  - name: LA JUNTA
+    distance_km: 2.75
+  - name: CHERAW
+    distance_km: 12.34
+  - name: ROCKY FORD
+    distance_km: 18.39
+- country: US
+  region: CO
+  name: North Washington
+  lat: '39.8084'
+  long: "-104.9792"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 9.3
+  - name: AURORA
+    distance_km: 11.04
+  - name: DENVERSLVN
+    distance_km: 18.03
+- country: US
+  region: CO
+  name: Northglenn
+  lat: '39.9108'
+  long: "-104.9783"
+  nearby_rate_centers:
+  - name: BRIGHTON
+    distance_km: 16.22
+  - name: DENVER
+    distance_km: 19.37
+  - name: AURORA
+    distance_km: 20.06
+- country: US
+  region: CO
+  name: Norwood
+  lat: '38.1290'
+  long: "-108.2919"
+  nearby_rate_centers:
+  - name: NORWOOD
+    distance_km: 0.39
+  - name: NATURITA
+    distance_km: 25.07
+  - name: NUCLA
+    distance_km: 27.42
+- country: US
+  region: CO
+  name: Nucla
+  lat: '38.2668'
+  long: "-108.5487"
+  nearby_rate_centers:
+  - name: NUCLA
+    distance_km: 0.43
+  - name: NATURITA
+    distance_km: 6.44
+  - name: NORWOOD
+    distance_km: 27.32
+- country: US
+  region: CO
+  name: Nunn
+  lat: '40.7137'
+  long: "-104.7889"
+  nearby_rate_centers:
+  - name: NUNN
+    distance_km: 1.47
+  - name: EATON
+    distance_km: 20.97
+  - name: WINDSOR
+    distance_km: 28.35
+- country: US
+  region: CO
+  name: Oak Creek
+  lat: '40.2741'
+  long: "-106.9575"
+  nearby_rate_centers:
+  - name: OAK CREEK
+    distance_km: 0.17
+  - name: YAMPA
+    distance_km: 14.25
+  - name: STEAMBOSPG
+    distance_km: 26.24
+- country: US
+  region: CO
+  name: Olathe
+  lat: '38.6083'
+  long: "-107.9833"
+  nearby_rate_centers:
+  - name: OLATHE
+    distance_km: 0.2
+  - name: DELTA
+    distance_km: 16.1
+  - name: MONTROSE
+    distance_km: 17.56
+- country: US
+  region: CO
+  name: Olney Springs
+  lat: '38.1663'
+  long: "-103.9445"
+  nearby_rate_centers:
+  - name: FOWLER
+    distance_km: 8.63
+  - name: MANZANOLA
+    distance_km: 10.09
+  - name: ORDWAY
+    distance_km: 17.04
+- country: US
+  region: CO
+  name: Ophir
+  lat: '37.8568'
+  long: "-107.8312"
+  nearby_rate_centers:
+  - name: TELLURIDE
+    distance_km: 9.67
+  - name: SILVERTON
+    distance_km: 15.86
+  - name: OURAY
+    distance_km: 22.96
+- country: US
+  region: CO
+  name: Orchard
+  lat: '40.3321'
+  long: "-104.1178"
+  nearby_rate_centers:
+  - name: WIGGINS
+    distance_km: 11.42
+  - name: WELDONA
+    distance_km: 12.61
+  - name: ROGGEN
+    distance_km: 28.5
+- country: US
+  region: CO
+  name: Orchard City
+  lat: '38.8144'
+  long: "-107.9705"
+  nearby_rate_centers:
+  - name: ECKERT
+    distance_km: 2.9
+  - name: CEDAREDGE
+    distance_km: 10.13
+  - name: DELTA
+    distance_km: 12.73
+- country: US
+  region: CO
+  name: Orchard Mesa
+  lat: '39.0363'
+  long: "-108.5166"
+  nearby_rate_centers:
+  - name: GRAND JCT
+    distance_km: 5.03
+  - name: PALISADE
+    distance_km: 16.63
+  - name: FRUITA
+    distance_km: 22.41
+- country: US
+  region: CO
+  name: Ordway
+  lat: '38.2208'
+  long: "-103.7566"
+  nearby_rate_centers:
+  - name: ORDWAY
+    distance_km: 1.55
+  - name: MANZANOLA
+    distance_km: 15.52
+  - name: ROCKY FORD
+    distance_km: 18.54
+- country: US
+  region: CO
+  name: Otis
+  lat: '40.1501'
+  long: "-102.9622"
+  nearby_rate_centers:
+  - name: OTIS
+    distance_km: 0.97
+  - name: YUMA
+    distance_km: 20.37
+  - name: AKRON
+    distance_km: 21.84
+- country: US
+  region: CO
+  name: Ouray
+  lat: '38.0276'
+  long: "-107.6734"
+  nearby_rate_centers:
+  - name: OURAY
+    distance_km: 0.54
+  - name: TELLURIDE
+    distance_km: 15.15
+  - name: RIDGWAY
+    distance_km: 16.14
+- country: US
+  region: CO
+  name: Ovid
+  lat: '40.9609'
+  long: "-102.3883"
+  nearby_rate_centers:
+  - name: JULESBURG
+    distance_km: 11.89
+  - name: SO BIG SPG
+    distance_km: 26.67
+  - name: CROOK
+    distance_km: 36.76
+- country: US
+  region: CO
+  name: Padroni
+  lat: '40.7818'
+  long: "-103.1733"
+  nearby_rate_centers:
+  - name: STERLING
+    distance_km: 16.67
+  - name: PEETZ
+    distance_km: 20.48
+  - name: SO SIDNEY
+    distance_km: 28.49
+- country: US
+  region: CO
+  name: Pagosa Springs
+  lat: '37.2675'
+  long: "-107.0307"
+  nearby_rate_centers:
+  - name: PAGOSA SPG
+    distance_km: 1.17
+  - name: PAGOSASPGW
+    distance_km: 1.17
+  - name: ALLISON
+    distance_km: 48.38
+  - name: BAYFIELD
+    distance_km: 50.72
+- country: US
+  region: CO
+  name: Palisade
+  lat: '39.1084'
+  long: "-108.3573"
+  nearby_rate_centers:
+  - name: PALISADE
+    distance_km: 0.72
+  - name: GRAND JCT
+    distance_km: 17.99
+  - name: MESA
+    distance_km: 19.81
+- country: US
+  region: CO
+  name: Palmer Lake
+  lat: '39.1153'
+  long: "-104.9060"
+  nearby_rate_centers:
+  - name: DECKERS
+    distance_km: 30.83
+  - name: COLORADO SPRINGS-AIR FORCE ACADEMY
+    distance_km: 31.51
+  - name: COLORADO SPRINGS-BLACK FOREST
+    distance_km: 31.51
+  - name: COLORADO SPRINGS-EAST
+    distance_km: 31.51
+  - name: COLORADO SPRINGS-FOUNTAIN
+    distance_km: 31.51
+  - name: COLORADO SPRINGS-GATEHOUSE
+    distance_km: 31.51
+  - name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+    distance_km: 31.51
+  - name: COLORADO SPRINGS-MANITOU SPRINGS
+    distance_km: 31.51
+  - name: COLORADO SPRINGS-MONUMENT
+    distance_km: 31.51
+  - name: COLORADO SPRINGS-PIKEVIEW
+    distance_km: 31.51
+  - name: COLORADO SPRINGS-SECURITY
+    distance_km: 31.51
+  - name: COLORADO SPRINGS-STRATMOOR
+    distance_km: 31.51
+  - name: COLORADO SPRINGS-WOODLAND PARK
+    distance_km: 31.51
+  - name: COLORDOSPG
+    distance_km: 31.51
+  - name: PEYTON
+    distance_km: 37.65
+- country: US
+  region: CO
+  name: Paoli
+  lat: '40.6128'
+  long: "-102.4718"
+  nearby_rate_centers:
+  - name: HAXTUN
+    distance_km: 13.53
+  - name: HOLYOKE
+    distance_km: 15.63
+  - name: FLEMING
+    distance_km: 32.01
+- country: US
+  region: CO
+  name: Paonia
+  lat: '38.8698'
+  long: "-107.5920"
+  nearby_rate_centers:
+  - name: PAONIA
+    distance_km: 0.51
+  - name: SOMERSET
+    distance_km: 12.48
+  - name: HOTCHKISS
+    distance_km: 13.2
+- country: US
+  region: CO
+  name: Parachute
+  lat: '39.4508'
+  long: "-108.0529"
+  nearby_rate_centers:
+  - name: PARACHUTE
+    distance_km: 2.33
+  - name: DE BEQUE
+    distance_km: 19.48
+  - name: COLLBRAN
+    distance_km: 25.31
+- country: US
+  region: CO
+  name: Paragon Estates
+  lat: '39.9802'
+  long: "-105.1812"
+  nearby_rate_centers:
+  - name: LONGMONT
+    distance_km: 21.4
+  - name: DENVER
+    distance_km: 28.31
+  - name: ALLNSPKLYN
+    distance_km: 29.45
+- country: US
+  region: CO
+  name: Park Center
+  lat: '38.4835'
+  long: "-105.2240"
+  nearby_rate_centers:
+  - name: CANON CITY
+    distance_km: 4.66
+  - name: FLORENCE
+    distance_km: 13.31
+  - name: CRIPPLECRK
+    distance_km: 30.15
+- country: US
+  region: CO
+  name: Parker
+  lat: '39.5084'
+  long: "-104.7753"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 19.63
+  - name: AURORA
+    distance_km: 28.05
+  - name: DENVER
+    distance_km: 35.46
+- country: US
+  region: CO
+  name: Parshall
+  lat: '40.0554'
+  long: "-106.1757"
+  nearby_rate_centers:
+  - name: HTSLPHRSPG
+    distance_km: 6.03
+  - name: KREMMLING
+    distance_km: 18.59
+  - name: GRANBY
+    distance_km: 20.09
+- country: US
+  region: CO
+  name: Peetz
+  lat: '40.9617'
+  long: "-103.1139"
+  nearby_rate_centers:
+  - name: PEETZ
+    distance_km: 0.51
+  - name: SO SIDNEY
+    distance_km: 12.09
+  - name: CROOK
+    distance_km: 29.29
+- country: US
+  region: CO
+  name: Penrose
+  lat: '38.4213'
+  long: "-105.0004"
+  nearby_rate_centers:
+  - name: FLORENCE
+    distance_km: 11.33
+  - name: CANON CITY
+    distance_km: 20.48
+  - name: PUEBLO
+    distance_km: 38.43
+  - name: PUEBLO-AVONDALE
+    distance_km: 38.43
+- country: US
+  region: CO
+  name: Peoria
+  lat: '39.6649'
+  long: "-104.1456"
+  nearby_rate_centers:
+  - name: BYERS
+    distance_km: 7.65
+  - name: DEER TRAIL
+    distance_km: 10.95
+  - name: STRASBURG
+    distance_km: 17.56
+- country: US
+  region: CO
+  name: Perry Park
+  lat: '39.2595'
+  long: "-104.9825"
+  nearby_rate_centers:
+  - name: DECKERS
+    distance_km: 20.4
+  - name: LAKEGEORGE
+    distance_km: 44.43
+  - name: DENVERSLVN
+    distance_km: 46.14
+- country: US
+  region: CO
+  name: Peyton
+  lat: '39.0330'
+  long: "-104.4904"
+  nearby_rate_centers:
+  - name: PEYTON
+    distance_km: 0.63
+  - name: CALHAN
+    distance_km: 17.17
+  - name: EL PASO
+    distance_km: 22.21
+- country: US
+  region: CO
+  name: Phippsburg
+  lat: '40.2302'
+  long: "-106.9508"
+  nearby_rate_centers:
+  - name: OAK CREEK
+    distance_km: 4.74
+  - name: YAMPA
+    distance_km: 9.46
+  - name: STEAMBOSPG
+    distance_km: 30.59
+- country: US
+  region: CO
+  name: Piedra
+  lat: '37.4418'
+  long: "-107.1684"
+  nearby_rate_centers:
+  - name: PAGOSA SPG
+    distance_km: 23.68
+  - name: PAGOSASPGW
+    distance_km: 23.68
+  - name: BAYFIELD
+    distance_km: 44.86
+  - name: CREEDE
+    distance_km: 50.14
+- country: US
+  region: CO
+  name: Pierce
+  lat: '40.6411'
+  long: "-104.7701"
+  nearby_rate_centers:
+  - name: NUNN
+    distance_km: 6.8
+  - name: EATON
+    distance_km: 12.86
+  - name: WINDSOR
+    distance_km: 21.73
+- country: US
+  region: CO
+  name: Pine Brook Hill
+  lat: '40.0462'
+  long: "-105.3097"
+  nearby_rate_centers:
+  - name: ALLNSPKLYN
+    distance_km: 19.12
+  - name: LONGMONT
+    distance_km: 21.67
+  - name: MEAD
+    distance_km: 33.44
+- country: US
+  region: CO
+  name: Pine Valley
+  lat: '39.6910'
+  long: "-105.4132"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance_km: 24.6
+  - name: DENVER
+    distance_km: 31.53
+  - name: FRASER
+    distance_km: 44.24
+- country: US
+  region: CO
+  name: Pitkin
+  lat: '38.6089'
+  long: "-106.5144"
+  nearby_rate_centers:
+  - name: GUNNISON
+    distance_km: 36.7
+  - name: BUENAVISTA
+    distance_km: 42.06
+  - name: SALIDA
+    distance_km: 44.55
+- country: US
+  region: CO
+  name: Placerville
+  lat: '38.0054'
+  long: "-108.0400"
+  nearby_rate_centers:
+  - name: TELLURIDE
+    distance_km: 21.55
+  - name: NORWOOD
+    distance_km: 25.86
+  - name: RIDGWAY
+    distance_km: 30.52
+- country: US
+  region: CO
+  name: Platteville
+  lat: '40.2220'
+  long: "-104.8340"
+  nearby_rate_centers:
+  - name: PLATTEVL
+    distance_km: 1.22
+  - name: GILCREST
+    distance_km: 7.9
+  - name: JOHNSTMLKN
+    distance_km: 14.06
+- country: US
+  region: CO
+  name: Poncha Springs
+  lat: '38.5140'
+  long: "-106.0944"
+  nearby_rate_centers:
+  - name: SALIDA
+    distance_km: 7.48
+  - name: HOWARD
+    distance_km: 23.7
+  - name: PIKETRAILS
+    distance_km: 23.7
+  - name: BUENAVISTA
+    distance_km: 36.83
+- country: US
+  region: CO
+  name: Ponderosa Park
+  lat: '39.3987'
+  long: "-104.6355"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 36.29
+  - name: PEYTON
+    distance_km: 42.92
+  - name: BENNETT
+    distance_km: 43.65
+- country: US
+  region: CO
+  name: Portland
+  lat: '38.0892'
+  long: "-107.6952"
+  nearby_rate_centers:
+  - name: OURAY
+    distance_km: 7.44
+  - name: RIDGWAY
+    distance_km: 9.2
+  - name: TELLURIDE
+    distance_km: 19.13
+- country: US
+  region: CO
+  name: Pritchett
+  lat: '37.3701'
+  long: "-102.8588"
+  nearby_rate_centers:
+  - name: SPRINGFLD
+    distance_km: 20.86
+  - name: CAMPO
+    distance_km: 38.46
+  - name: KENTON
+    distance_km: 38.5
+- country: US
+  region: CO
+  name: Pueblo
+  lat: '38.2701'
+  long: "-104.6114"
+  nearby_rate_centers:
+  - name: PUEBLO
+    distance_km: 0.57
+  - name: PUEBLO-AVONDALE
+    distance_km: 0.57
+  - name: BEULAH
+    distance_km: 38.58
+  - name: COLORADOCY
+    distance_km: 41.13
+- country: US
+  region: CO
+  name: Pueblo West
+  lat: '38.3465'
+  long: "-104.7246"
+  nearby_rate_centers:
+  - name: PUEBLO
+    distance_km: 13.6
+  - name: PUEBLO-AVONDALE
+    distance_km: 13.6
+  - name: FLORENCE
+    distance_km: 35.28
+  - name: BEULAH
+    distance_km: 38.12
+- country: US
+  region: CO
+  name: Ramah
+  lat: '39.1222'
+  long: "-104.1673"
+  nearby_rate_centers:
+  - name: SIMLA
+    distance_km: 7.72
+  - name: CALHAN
+    distance_km: 14.62
+  - name: PEYTON
+    distance_km: 29.13
+- country: US
+  region: CO
+  name: Rangely
+  lat: '40.0861'
+  long: "-108.7795"
+  nearby_rate_centers:
+  - name: RANGELY
+    distance_km: 0.92
+  - name: DINOSAUR
+    distance_km: 26.41
+  - name: MEEKER
+    distance_km: 73.8
+- country: US
+  region: CO
+  name: Raymer
+  lat: '40.6080'
+  long: "-103.8434"
+  nearby_rate_centers:
+  - name: NEW RAYMER
+    distance_km: 0.82
+  - name: STONEHAM
+    distance_km: 14.38
+  - name: WILLARD
+    distance_km: 30.03
+- country: US
+  region: CO
+  name: Red Cliff
+  lat: '39.5092'
+  long: "-106.3699"
+  nearby_rate_centers:
+  - name: VAIL
+    distance_km: 1.16
+  - name: EDWARDS
+    distance_km: 24.03
+  - name: BRECKENRDG
+    distance_km: 28.07
+- country: US
+  region: CO
+  name: Red Feather Lakes
+  lat: '40.8071'
+  long: "-105.5864"
+  nearby_rate_centers:
+  - name: RDFTHERLKS
+    distance_km: 1.53
+  - name: SO LARAMIE
+    distance_km: 38.87
+  - name: ESTES PARK
+    distance_km: 48.06
+- country: US
+  region: CO
+  name: Redlands
+  lat: '39.0886'
+  long: "-108.6582"
+  nearby_rate_centers:
+  - name: GRAND JCT
+    distance_km: 8.89
+  - name: FRUITA
+    distance_km: 9.55
+  - name: PALISADE
+    distance_km: 26.76
+- country: US
+  region: CO
+  name: Redstone
+  lat: '39.1839'
+  long: "-107.2407"
+  nearby_rate_centers:
+  - name: CARBONDALE
+    distance_km: 24.4
+  - name: BASALT
+    distance_km: 26.74
+  - name: SOMERSET
+    distance_km: 34.7
+- country: US
+  region: CO
+  name: Redvale
+  lat: '38.1761'
+  long: "-108.4125"
+  nearby_rate_centers:
+  - name: NORWOOD
+    distance_km: 11.88
+  - name: NATURITA
+    distance_km: 13.4
+  - name: NUCLA
+    distance_km: 15.81
+- country: US
+  region: CO
+  name: Rico
+  lat: '37.6891'
+  long: "-108.0316"
+  nearby_rate_centers:
+  - name: RICO
+    distance_km: 0.44
+  - name: TELLURIDE
+    distance_km: 34.3
+  - name: SILVERTON
+    distance_km: 35.26
+- country: US
+  region: CO
+  name: Ridgway
+  lat: '38.1573'
+  long: "-107.7545"
+  nearby_rate_centers:
+  - name: RIDGWAY
+    distance_km: 0.36
+  - name: OURAY
+    distance_km: 16.31
+  - name: TELLURIDE
+    distance_km: 24.41
+- country: US
+  region: CO
+  name: Rifle
+  lat: '39.5362'
+  long: "-107.7729"
+  nearby_rate_centers:
+  - name: RIFLE
+    distance_km: 0.6
+  - name: SILT
+    distance_km: 10.31
+  - name: NEW CASTLE
+    distance_km: 21.0
+- country: US
+  region: CO
+  name: Rock Creek Park
+  lat: '38.7011'
+  long: "-104.8347"
+  nearby_rate_centers:
+  - name: COLORADO SPRINGS-AIR FORCE ACADEMY
+    distance_km: 15.57
+  - name: COLORADO SPRINGS-BLACK FOREST
+    distance_km: 15.57
+  - name: COLORADO SPRINGS-EAST
+    distance_km: 15.57
+  - name: COLORADO SPRINGS-FOUNTAIN
+    distance_km: 15.57
+  - name: COLORADO SPRINGS-GATEHOUSE
+    distance_km: 15.57
+  - name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+    distance_km: 15.57
+  - name: COLORADO SPRINGS-MANITOU SPRINGS
+    distance_km: 15.57
+  - name: COLORADO SPRINGS-MONUMENT
+    distance_km: 15.57
+  - name: COLORADO SPRINGS-PIKEVIEW
+    distance_km: 15.57
+  - name: COLORADO SPRINGS-SECURITY
+    distance_km: 15.57
+  - name: COLORADO SPRINGS-STRATMOOR
+    distance_km: 15.57
+  - name: COLORADO SPRINGS-WOODLAND PARK
+    distance_km: 15.57
+  - name: COLORDOSPG
+    distance_km: 15.57
+  - name: CRIPPLECRK
+    distance_km: 30.19
+  - name: EL PASO
+    distance_km: 34.97
+- country: US
+  region: CO
+  name: Rockvale
+  lat: '38.3644'
+  long: "-105.1646"
+  nearby_rate_centers:
+  - name: FLORENCE
+    distance_km: 4.64
+  - name: CANON CITY
+    distance_km: 10.57
+  - name: WESTCLIFFE
+    distance_km: 36.64
+- country: US
+  region: CO
+  name: Rocky Ford
+  lat: '38.0499'
+  long: "-103.7225"
+  nearby_rate_centers:
+  - name: ROCKY FORD
+    distance_km: 0.8
+  - name: MANZANOLA
+    distance_km: 13.42
+  - name: ORDWAY
+    distance_km: 17.7
+- country: US
+  region: CO
+  name: Rollinsville
+  lat: '39.9232'
+  long: "-105.5136"
+  nearby_rate_centers:
+  - name: FRASER
+    distance_km: 25.9
+  - name: GEORGETOWN
+    distance_km: 28.8
+  - name: ALLNSPKLYN
+    distance_km: 35.97
+- country: US
+  region: CO
+  name: Romeo
+  lat: '37.1718'
+  long: "-105.9854"
+  nearby_rate_centers:
+  - name: MANASSA
+    distance_km: 3.8
+  - name: ANTONITO
+    distance_km: 10.13
+  - name: LA JARA
+    distance_km: 11.47
+- country: US
+  region: CO
+  name: Roxborough Park
+  lat: '39.4492'
+  long: "-105.0746"
+  nearby_rate_centers:
+  - name: DECKERS
+    distance_km: 25.45
+  - name: DENVERSLVN
+    distance_km: 29.49
+  - name: DENVER
+    distance_km: 33.05
+- country: US
+  region: CO
+  name: Rye
+  lat: '37.9212'
+  long: "-104.9322"
+  nearby_rate_centers:
+  - name: RYE
+    distance_km: 0.87
+  - name: COLORADOCY
+    distance_km: 8.58
+  - name: BEULAH
+    distance_km: 15.46
+- country: US
+  region: CO
+  name: Saddle Ridge
+  lat: '40.3134'
+  long: "-103.8023"
+  nearby_rate_centers:
+  - name: FORTMORGAN
+    distance_km: 6.32
+  - name: WELDONA
+    distance_km: 14.47
+  - name: BRUSH
+    distance_km: 16.25
+- country: US
+  region: CO
+  name: Saguache
+  lat: '38.0865'
+  long: "-106.1410"
+  nearby_rate_centers:
+  - name: SAGUACHE
+    distance_km: 0.19
+  - name: CRESTONE
+    distance_km: 23.28
+  - name: CENTER
+    distance_km: 36.4
+- country: US
+  region: CO
+  name: Salida
+  lat: '38.5298'
+  long: "-105.9979"
+  nearby_rate_centers:
+  - name: SALIDA
+    distance_km: 1.21
+  - name: HOWARD
+    distance_km: 16.8
+  - name: PIKETRAILS
+    distance_km: 16.8
+  - name: BUENAVISTA
+    distance_km: 36.86
+- country: US
+  region: CO
+  name: Salt Creek
+  lat: '38.2407'
+  long: "-104.5867"
+  nearby_rate_centers:
+  - name: PUEBLO
+    distance_km: 3.4
+  - name: PUEBLO-AVONDALE
+    distance_km: 3.4
+  - name: BEULAH
+    distance_km: 38.5
+  - name: COLORADOCY
+    distance_km: 39.48
+- country: US
+  region: CO
+  name: San Acacio
+  lat: '37.2086'
+  long: "-105.5667"
+  nearby_rate_centers:
+  - name: SAN LUIS
+    distance_km: 12.77
+  - name: BLANCA
+    distance_km: 25.41
+  - name: MANASSA
+    distance_km: 33.53
+- country: US
+  region: CO
+  name: San Luis
+  lat: '37.2025'
+  long: "-105.4225"
+  nearby_rate_centers:
+  - name: SAN LUIS
+    distance_km: 0.65
+  - name: BLANCA
+    distance_km: 27.08
+  - name: MANASSA
+    distance_km: 46.21
+- country: US
+  region: CO
+  name: Sanford
+  lat: '37.2574'
+  long: "-105.9007"
+  nearby_rate_centers:
+  - name: LA JARA
+    distance_km: 5.2
+  - name: MANASSA
+    distance_km: 9.63
+  - name: ANTONITO
+    distance_km: 21.88
+- country: US
+  region: CO
+  name: Sawpit
+  lat: '37.9947'
+  long: "-108.0021"
+  nearby_rate_centers:
+  - name: TELLURIDE
+    distance_km: 18.03
+  - name: RIDGWAY
+    distance_km: 28.58
+  - name: OURAY
+    distance_km: 28.64
+- country: US
+  region: CO
+  name: Security-Widefield
+  lat: '38.7489'
+  long: "-104.7142"
+  nearby_rate_centers:
+  - name: COLORADO SPRINGS-AIR FORCE ACADEMY
+    distance_km: 13.53
+  - name: COLORADO SPRINGS-BLACK FOREST
+    distance_km: 13.53
+  - name: COLORADO SPRINGS-EAST
+    distance_km: 13.53
+  - name: COLORADO SPRINGS-FOUNTAIN
+    distance_km: 13.53
+  - name: COLORADO SPRINGS-GATEHOUSE
+    distance_km: 13.53
+  - name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+    distance_km: 13.53
+  - name: COLORADO SPRINGS-MANITOU SPRINGS
+    distance_km: 13.53
+  - name: COLORADO SPRINGS-MONUMENT
+    distance_km: 13.53
+  - name: COLORADO SPRINGS-PIKEVIEW
+    distance_km: 13.53
+  - name: COLORADO SPRINGS-SECURITY
+    distance_km: 13.53
+  - name: COLORADO SPRINGS-STRATMOOR
+    distance_km: 13.53
+  - name: COLORADO SPRINGS-WOODLAND PARK
+    distance_km: 13.53
+  - name: COLORDOSPG
+    distance_km: 13.53
+  - name: EL PASO
+    distance_km: 23.25
+  - name: PEYTON
+    distance_km: 37.18
+- country: US
+  region: CO
+  name: Sedalia
+  lat: '39.4396'
+  long: "-104.9699"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 26.44
+  - name: DECKERS
+    distance_km: 30.1
+  - name: DENVER
+    distance_km: 34.77
+- country: US
+  region: CO
+  name: Sedgwick
+  lat: '40.9355'
+  long: "-102.5256"
+  nearby_rate_centers:
+  - name: JULESBURG
+    distance_km: 23.75
+  - name: CROOK
+    distance_km: 24.98
+  - name: HAXTUN
+    distance_km: 33.48
+- country: US
+  region: CO
+  name: Segundo
+  lat: '37.1225'
+  long: "-104.7395"
+  nearby_rate_centers:
+  - name: WESTON
+    distance_km: 11.55
+  - name: TRINIDAD
+    distance_km: 21.08
+  - name: AGUILAR
+    distance_km: 32.09
+- country: US
+  region: CO
+  name: Seibert
+  lat: '39.2980'
+  long: "-102.8695"
+  nearby_rate_centers:
+  - name: VONASEBERT
+    distance_km: 4.46
+  - name: FLAGLER
+    distance_km: 16.81
+  - name: STRATTON
+    distance_km: 23.01
+- country: US
+  region: CO
+  name: Seven Hills
+  lat: '40.0361'
+  long: "-105.3323"
+  nearby_rate_centers:
+  - name: ALLNSPKLYN
+    distance_km: 20.11
+  - name: LONGMONT
+    distance_km: 23.88
+  - name: MEAD
+    distance_km: 35.65
+- country: US
+  region: CO
+  name: Severance
+  lat: '40.5265'
+  long: "-104.8650"
+  nearby_rate_centers:
+  - name: WINDSOR
+    distance_km: 6.68
+  - name: EATON
+    distance_km: 13.2
+  - name: GREELEY
+    distance_km: 17.68
+- country: US
+  region: CO
+  name: Shaw Heights
+  lat: '39.8566'
+  long: "-105.0391"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 12.35
+  - name: AURORA
+    distance_km: 18.39
+  - name: BRIGHTON
+    distance_km: 23.89
+- country: US
+  region: CO
+  name: Sheridan
+  lat: '39.6468'
+  long: "-105.0182"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 11.38
+  - name: DENVERSLVN
+    distance_km: 12.25
+  - name: AURORA
+    distance_km: 16.57
+- country: US
+  region: CO
+  name: Sheridan Lake
+  lat: '38.4667'
+  long: "-102.2943"
+  nearby_rate_centers:
+  - name: SHERIDANLK
+    distance_km: 0.96
+  - name: TOWNER
+    distance_km: 18.57
+  - name: CHEYENWLLS
+    distance_km: 32.16
+- country: US
+  region: CO
+  name: Sherrelwood
+  lat: '39.8390'
+  long: "-105.0014"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 11.2
+  - name: AURORA
+    distance_km: 14.69
+  - name: DENVERSLVN
+    distance_km: 21.92
+- country: US
+  region: CO
+  name: Sierra Ridge
+  lat: '39.5286'
+  long: "-104.8172"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 16.17
+  - name: AURORA
+    distance_km: 24.95
+  - name: DENVER
+    distance_km: 31.41
+- country: US
+  region: CO
+  name: Silt
+  lat: '39.5483'
+  long: "-107.6531"
+  nearby_rate_centers:
+  - name: SILT
+    distance_km: 0.1
+  - name: NEW CASTLE
+    distance_km: 10.71
+  - name: RIFLE
+    distance_km: 10.76
+- country: US
+  region: CO
+  name: Silver Cliff
+  lat: '38.1204'
+  long: "-105.4104"
+  nearby_rate_centers:
+  - name: WESTCLIFFE
+    distance_km: 5.16
+  - name: CANON CITY
+    distance_km: 38.97
+  - name: FLORENCE
+    distance_km: 39.18
+- country: US
+  region: CO
+  name: Silver Plume
+  lat: '39.6957'
+  long: "-105.7264"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance_km: 2.61
+  - name: FRASER
+    distance_km: 28.31
+  - name: DILLON
+    distance_km: 29.98
+- country: US
+  region: CO
+  name: Silverthorne
+  lat: '39.6562'
+  long: "-106.0869"
+  nearby_rate_centers:
+  - name: DILLON
+    distance_km: 5.64
+  - name: BRECKENRDG
+    distance_km: 19.68
+  - name: VAIL
+    distance_km: 29.23
+- country: US
+  region: CO
+  name: Silverton
+  lat: '37.8107'
+  long: "-107.6649"
+  nearby_rate_centers:
+  - name: SILVERTON
+    distance_km: 0.38
+  - name: TELLURIDE
+    distance_km: 19.23
+  - name: OURAY
+    distance_km: 23.72
+- country: US
+  region: CO
+  name: Simla
+  lat: '39.1408'
+  long: "-104.0824"
+  nearby_rate_centers:
+  - name: SIMLA
+    distance_km: 0.11
+  - name: CALHAN
+    distance_km: 21.68
+  - name: PEYTON
+    distance_km: 36.72
+- country: US
+  region: CO
+  name: Smeltertown
+  lat: '38.5524'
+  long: "-106.0085"
+  nearby_rate_centers:
+  - name: SALIDA
+    distance_km: 2.29
+  - name: HOWARD
+    distance_km: 19.0
+  - name: PIKETRAILS
+    distance_km: 19.0
+  - name: BUENAVISTA
+    distance_km: 34.18
+- country: US
+  region: CO
+  name: Snowmass Village
+  lat: '39.2212'
+  long: "-106.9392"
+  nearby_rate_centers:
+  - name: ASPEN
+    distance_km: 10.62
+  - name: BASALT
+    distance_km: 18.04
+  - name: CARBONDALE
+    distance_km: 30.6
+- country: US
+  region: CO
+  name: Snyder
+  lat: '40.3309'
+  long: "-103.5920"
+  nearby_rate_centers:
+  - name: HILLROSE
+    distance_km: 6.55
+  - name: BRUSH
+    distance_km: 8.77
+  - name: FORTMORGAN
+    distance_km: 18.61
+- country: US
+  region: CO
+  name: Somerset
+  lat: '38.9268'
+  long: "-107.4725"
+  nearby_rate_centers:
+  - name: SOMERSET
+    distance_km: 0.47
+  - name: PAONIA
+    distance_km: 12.64
+  - name: HOTCHKISS
+    distance_km: 25.32
+- country: US
+  region: CO
+  name: South Fork
+  lat: '37.6691'
+  long: "-106.6417"
+  nearby_rate_centers:
+  - name: DEL NORTE
+    distance_km: 25.73
+  - name: CREEDE
+    distance_km: 32.01
+  - name: MONTEVISTA
+    distance_km: 45.44
+- country: US
+  region: CO
+  name: Southern Ute
+  lat: '37.0749'
+  long: "-107.5933"
+  nearby_rate_centers:
+  - name: IGNACIO
+    distance_km: 5.88
+  - name: ALLISON
+    distance_km: 11.29
+  - name: BAYFIELD
+    distance_km: 17.51
+- country: US
+  region: CO
+  name: Springfield
+  lat: '37.4050'
+  long: "-102.6189"
+  nearby_rate_centers:
+  - name: SPRINGFLD
+    distance_km: 0.83
+  - name: TWO BUTTES
+    distance_km: 26.76
+  - name: WALSH
+    distance_km: 30.57
+- country: US
+  region: CO
+  name: St. Ann Highlands
+  lat: '39.9873'
+  long: "-105.4559"
+  nearby_rate_centers:
+  - name: ALLNSPKLYN
+    distance_km: 27.48
+  - name: FRASER
+    distance_km: 31.16
+  - name: LONGMONT
+    distance_km: 35.62
+- country: US
+  region: CO
+  name: St. Mary's
+  lat: '39.8163'
+  long: "-105.6479"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance_km: 12.9
+  - name: FRASER
+    distance_km: 19.96
+  - name: GRANBY
+    distance_km: 39.0
+- country: US
+  region: CO
+  name: Starkville
+  lat: '37.1169'
+  long: "-104.5231"
+  nearby_rate_centers:
+  - name: TRINIDAD
+    distance_km: 6.44
+  - name: WESTON
+    distance_km: 30.74
+  - name: AGUILAR
+    distance_km: 33.7
+- country: US
+  region: CO
+  name: Steamboat Springs
+  lat: '40.4777'
+  long: "-106.8243"
+  nearby_rate_centers:
+  - name: STEAMBOSPG
+    distance_km: 1.67
+  - name: OAK CREEK
+    distance_km: 25.44
+  - name: HAYDEN
+    distance_km: 36.22
+- country: US
+  region: CO
+  name: Stepping Stone
+  lat: '39.5140'
+  long: "-104.8217"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 17.61
+  - name: AURORA
+    distance_km: 26.47
+  - name: DENVER
+    distance_km: 32.44
+- country: US
+  region: CO
+  name: Sterling
+  lat: '40.6205'
+  long: "-103.1925"
+  nearby_rate_centers:
+  - name: STERLING
+    distance_km: 2.05
+  - name: WILLARD
+    distance_km: 26.35
+  - name: FLEMING
+    distance_km: 30.13
+- country: US
+  region: CO
+  name: Sterling Ranch
+  lat: '39.4932'
+  long: "-105.0475"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 24.16
+  - name: DENVER
+    distance_km: 28.1
+  - name: DECKERS
+    distance_km: 30.86
+- country: US
+  region: CO
+  name: Stonegate
+  lat: '39.5357'
+  long: "-104.8032"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 15.87
+  - name: AURORA
+    distance_km: 24.46
+  - name: DENVER
+    distance_km: 31.6
+- country: US
+  region: CO
+  name: Stonewall Gap
+  lat: '37.1605'
+  long: "-105.0342"
+  nearby_rate_centers:
+  - name: WESTON
+    distance_km: 14.96
+  - name: SAN LUIS
+    distance_km: 34.81
+  - name: LA VETA
+    distance_km: 38.83
+- country: US
+  region: CO
+  name: Strasburg
+  lat: '39.7181'
+  long: "-104.3195"
+  nearby_rate_centers:
+  - name: STRASBURG
+    distance_km: 2.76
+  - name: BYERS
+    distance_km: 8.5
+  - name: BENNETT
+    distance_km: 10.97
+- country: US
+  region: CO
+  name: Stratmoor
+  lat: '38.7731'
+  long: "-104.7786"
+  nearby_rate_centers:
+  - name: COLORADO SPRINGS-AIR FORCE ACADEMY
+    distance_km: 8.2
+  - name: COLORADO SPRINGS-BLACK FOREST
+    distance_km: 8.2
+  - name: COLORADO SPRINGS-EAST
+    distance_km: 8.2
+  - name: COLORADO SPRINGS-FOUNTAIN
+    distance_km: 8.2
+  - name: COLORADO SPRINGS-GATEHOUSE
+    distance_km: 8.2
+  - name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+    distance_km: 8.2
+  - name: COLORADO SPRINGS-MANITOU SPRINGS
+    distance_km: 8.2
+  - name: COLORADO SPRINGS-MONUMENT
+    distance_km: 8.2
+  - name: COLORADO SPRINGS-PIKEVIEW
+    distance_km: 8.2
+  - name: COLORADO SPRINGS-SECURITY
+    distance_km: 8.2
+  - name: COLORADO SPRINGS-STRATMOOR
+    distance_km: 8.2
+  - name: COLORADO SPRINGS-WOODLAND PARK
+    distance_km: 8.2
+  - name: COLORDOSPG
+    distance_km: 8.2
+  - name: EL PASO
+    distance_km: 27.66
+  - name: CRIPPLECRK
+    distance_km: 34.58
+- country: US
+  region: CO
+  name: Stratton
+  lat: '39.3029'
+  long: "-102.6034"
+  nearby_rate_centers:
+  - name: STRATTON
+    distance_km: 0.56
+  - name: VONASEBERT
+    distance_km: 18.97
+  - name: BURLINGTON
+    distance_km: 29.08
+- country: US
+  region: CO
+  name: Sugar City
+  lat: '38.2328'
+  long: "-103.6633"
+  nearby_rate_centers:
+  - name: ORDWAY
+    distance_km: 8.64
+  - name: CHERAW
+    distance_km: 19.69
+  - name: ROCKY FORD
+    distance_km: 20.19
+- country: US
+  region: CO
+  name: Sugarloaf
+  lat: '40.0189'
+  long: "-105.4078"
+  nearby_rate_centers:
+  - name: ALLNSPKLYN
+    distance_km: 22.84
+  - name: LONGMONT
+    distance_km: 30.27
+  - name: FRASER
+    distance_km: 35.89
+- country: US
+  region: CO
+  name: Sunshine
+  lat: '40.0636'
+  long: "-105.3695"
+  nearby_rate_centers:
+  - name: ALLNSPKLYN
+    distance_km: 17.28
+  - name: LONGMONT
+    distance_km: 24.98
+  - name: BERTHOUD
+    distance_km: 36.53
+- country: US
+  region: CO
+  name: Superior
+  lat: '39.9340'
+  long: "-105.1588"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 22.83
+  - name: LONGMONT
+    distance_km: 25.96
+  - name: BRIGHTON
+    distance_km: 29.89
+- country: US
+  region: CO
+  name: Swink
+  lat: '38.0141'
+  long: "-103.6283"
+  nearby_rate_centers:
+  - name: ROCKY FORD
+    distance_km: 9.27
+  - name: LA JUNTA
+    distance_km: 9.44
+  - name: CHERAW
+    distance_km: 15.19
+- country: US
+  region: CO
+  name: Tabernash
+  lat: '39.9788'
+  long: "-105.8441"
+  nearby_rate_centers:
+  - name: FRASER
+    distance_km: 4.85
+  - name: GRANBY
+    distance_km: 14.44
+  - name: HTSLPHRSPG
+    distance_km: 24.88
+- country: US
+  region: CO
+  name: Tall Timber
+  lat: '40.0151'
+  long: "-105.3498"
+  nearby_rate_centers:
+  - name: ALLNSPKLYN
+    distance_km: 22.47
+  - name: LONGMONT
+    distance_km: 26.49
+  - name: MEAD
+    distance_km: 38.26
+- country: US
+  region: CO
+  name: Telluride
+  lat: '37.9364'
+  long: "-107.8270"
+  nearby_rate_centers:
+  - name: TELLURIDE
+    distance_km: 1.79
+  - name: OURAY
+    distance_km: 16.33
+  - name: SILVERTON
+    distance_km: 20.28
+- country: US
+  region: CO
+  name: The Pinery
+  lat: '39.4462'
+  long: "-104.7591"
+  nearby_rate_centers:
+  - name: DENVERSLVN
+    distance_km: 26.51
+  - name: AURORA
+    distance_km: 35.06
+  - name: DENVER
+    distance_km: 41.69
+- country: US
+  region: CO
+  name: Thornton
+  lat: '39.9197'
+  long: "-104.9438"
+  nearby_rate_centers:
+  - name: BRIGHTON
+    distance_km: 13.19
+  - name: AURORA
+    distance_km: 19.91
+  - name: DENVER
+    distance_km: 21.4
+- country: US
+  region: CO
+  name: Timnath
+  lat: '40.5338'
+  long: "-104.9623"
+  nearby_rate_centers:
+  - name: WINDSOR
+    distance_km: 8.3
+  - name: FT COLLINS
+    distance_km: 11.39
+  - name: LOVELAND
+    distance_km: 17.93
+- country: US
+  region: CO
+  name: Todd Creek
+  lat: '39.9797'
+  long: "-104.8734"
+  nearby_rate_centers:
+  - name: BRIGHTON
+    distance_km: 5.05
+  - name: FORTLUPTON
+    distance_km: 12.97
+  - name: HUDSON
+    distance_km: 22.4
+- country: US
+  region: CO
+  name: Towaoc
+  lat: '37.2126'
+  long: "-108.7265"
+  nearby_rate_centers:
+  - name: CORTEZ
+    distance_km: 19.17
+  - name: DOLORES
+    distance_km: 34.82
+  - name: MANCOS
+    distance_km: 41.1
+- country: US
+  region: CO
+  name: Towner
+  lat: '38.4705'
+  long: "-102.0804"
+  nearby_rate_centers:
+  - name: TOWNER
+    distance_km: 0.3
+  - name: SHERIDANLK
+    distance_km: 18.13
+  - name: CHEYENWLLS
+    distance_km: 40.44
+- country: US
+  region: CO
+  name: Trail Side
+  lat: '40.2490'
+  long: "-103.8432"
+  nearby_rate_centers:
+  - name: FORTMORGAN
+    distance_km: 4.68
+  - name: WELDONA
+    distance_km: 14.72
+  - name: BRUSH
+    distance_km: 18.45
+- country: US
+  region: CO
+  name: Trinidad
+  lat: '37.1751'
+  long: "-104.4908"
+  nearby_rate_centers:
+  - name: TRINIDAD
+    distance_km: 1.76
+  - name: AGUILAR
+    distance_km: 28.98
+  - name: WESTON
+    distance_km: 33.88
+- country: US
+  region: CO
+  name: Twin Lakes
+  lat: '39.8229'
+  long: "-105.0036"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 9.49
+  - name: AURORA
+    distance_km: 13.67
+  - name: DENVERSLVN
+    distance_km: 20.47
+- country: US
+  region: CO
+  name: Two Buttes
+  lat: '37.5606'
+  long: "-102.3965"
+  nearby_rate_centers:
+  - name: TWO BUTTES
+    distance_km: 0.6
+  - name: WALSH
+    distance_km: 22.66
+  - name: SPRINGFLD
+    distance_km: 26.53
+- country: US
+  region: CO
+  name: Upper Bear Creek
+  lat: '39.6319'
+  long: "-105.4154"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance_km: 25.76
+  - name: DENVER
+    distance_km: 33.62
+  - name: DECKERS
+    distance_km: 45.75
+- country: US
+  region: CO
+  name: Upper Witter Gulch
+  lat: '39.6610'
+  long: "-105.4268"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance_km: 23.93
+  - name: DENVER
+    distance_km: 33.46
+  - name: FRASER
+    distance_km: 45.56
+- country: US
+  region: CO
+  name: Vail
+  lat: '39.6385'
+  long: "-106.3613"
+  nearby_rate_centers:
+  - name: VAIL
+    distance_km: 13.46
+  - name: EDWARDS
+    distance_km: 19.67
+  - name: DILLON
+    distance_km: 26.11
+- country: US
+  region: CO
+  name: Valdez
+  lat: '37.1239'
+  long: "-104.6793"
+  nearby_rate_centers:
+  - name: TRINIDAD
+    distance_km: 15.95
+  - name: WESTON
+    distance_km: 16.87
+  - name: AGUILAR
+    distance_km: 31.07
+- country: US
+  region: CO
+  name: Valmont
+  lat: '40.0341'
+  long: "-105.2058"
+  nearby_rate_centers:
+  - name: LONGMONT
+    distance_km: 16.73
+  - name: ALLNSPKLYN
+    distance_km: 23.16
+  - name: MEAD
+    distance_km: 28.05
+- country: US
+  region: CO
+  name: Vernon
+  lat: '39.9399'
+  long: "-102.3073"
+  nearby_rate_centers:
+  - name: WRAY
+    distance_km: 16.37
+  - name: ECKLEY
+    distance_km: 24.65
+  - name: IDALIA
+    distance_km: 26.93
+- country: US
+  region: CO
+  name: Victor
+  lat: '38.7088'
+  long: "-105.1419"
+  nearby_rate_centers:
+  - name: CRIPPLECRK
+    distance_km: 5.68
+  - name: CANON CITY
+    distance_km: 30.69
+  - name: COLORADO SPRINGS-AIR FORCE ACADEMY
+    distance_km: 31.74
+  - name: COLORADO SPRINGS-BLACK FOREST
+    distance_km: 31.74
+  - name: COLORADO SPRINGS-EAST
+    distance_km: 31.74
+  - name: COLORADO SPRINGS-FOUNTAIN
+    distance_km: 31.74
+  - name: COLORADO SPRINGS-GATEHOUSE
+    distance_km: 31.74
+  - name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+    distance_km: 31.74
+  - name: COLORADO SPRINGS-MANITOU SPRINGS
+    distance_km: 31.74
+  - name: COLORADO SPRINGS-MONUMENT
+    distance_km: 31.74
+  - name: COLORADO SPRINGS-PIKEVIEW
+    distance_km: 31.74
+  - name: COLORADO SPRINGS-SECURITY
+    distance_km: 31.74
+  - name: COLORADO SPRINGS-STRATMOOR
+    distance_km: 31.74
+  - name: COLORADO SPRINGS-WOODLAND PARK
+    distance_km: 31.74
+  - name: COLORDOSPG
+    distance_km: 31.74
+- country: US
+  region: CO
+  name: Vilas
+  lat: '37.3737'
+  long: "-102.4474"
+  nearby_rate_centers:
+  - name: WALSH
+    distance_km: 15.34
+  - name: SPRINGFLD
+    distance_km: 16.37
+  - name: TWO BUTTES
+    distance_km: 21.77
+- country: US
+  region: CO
+  name: Vineland
+  lat: '38.2447'
+  long: "-104.4599"
+  nearby_rate_centers:
+  - name: PUEBLO
+    distance_km: 13.0
+  - name: PUEBLO-AVONDALE
+    distance_km: 13.0
+  - name: FOWLER
+    distance_km: 40.07
+  - name: COLORADOCY
+    distance_km: 46.93
+- country: US
+  region: CO
+  name: Vona
+  lat: '39.3021'
+  long: "-102.7434"
+  nearby_rate_centers:
+  - name: VONASEBERT
+    distance_km: 7.05
+  - name: STRATTON
+    distance_km: 12.15
+  - name: FLAGLER
+    distance_km: 27.67
+- country: US
+  region: CO
+  name: Walden
+  lat: '40.7316'
+  long: "-106.2814"
+  nearby_rate_centers:
+  - name: WALDEN
+    distance_km: 0.76
+  - name: SO LARAMIE
+    distance_km: 37.55
+  - name: STEAMBOSPG
+    distance_km: 53.82
+- country: US
+  region: CO
+  name: Walsenburg
+  lat: '37.6307'
+  long: "-104.7818"
+  nearby_rate_centers:
+  - name: WALSENBURG
+    distance_km: 1.32
+  - name: LA VETA
+    distance_km: 24.08
+  - name: AGUILAR
+    distance_km: 27.89
+- country: US
+  region: CO
+  name: Walsh
+  lat: '37.3860'
+  long: "-102.2801"
+  nearby_rate_centers:
+  - name: WALSH
+    distance_km: 0.73
+  - name: TWO BUTTES
+    distance_km: 22.15
+  - name: WESTMANTER
+    distance_km: 23.81
+- country: US
+  region: CO
+  name: Ward
+  lat: '40.0722'
+  long: "-105.5139"
+  nearby_rate_centers:
+  - name: ALLNSPKLYN
+    distance_km: 22.05
+  - name: FRASER
+    distance_km: 29.63
+  - name: GRAND LAKE
+    distance_km: 33.8
+- country: US
+  region: CO
+  name: Watkins
+  lat: '39.6984'
+  long: "-104.5773"
+  nearby_rate_centers:
+  - name: BENNETT
+    distance_km: 13.89
+  - name: STRASBURG
+    distance_km: 22.2
+  - name: DENVERSLVN
+    distance_km: 25.92
+- country: US
+  region: CO
+  name: Welby
+  lat: '39.8403'
+  long: "-104.9655"
+  nearby_rate_centers:
+  - name: AURORA
+    distance_km: 12.75
+  - name: DENVER
+    distance_km: 12.81
+  - name: BRIGHTON
+    distance_km: 20.6
+- country: US
+  region: CO
+  name: Weldona
+  lat: '40.3484'
+  long: "-103.9693"
+  nearby_rate_centers:
+  - name: WELDONA
+    distance_km: 0.94
+  - name: WIGGINS
+    distance_km: 15.51
+  - name: FORTMORGAN
+    distance_km: 18.32
+- country: US
+  region: CO
+  name: Wellington
+  lat: '40.7000'
+  long: "-105.0054"
+  nearby_rate_centers:
+  - name: FT COLLINS
+    distance_km: 14.53
+  - name: NUNN
+    distance_km: 18.86
+  - name: WINDSOR
+    distance_km: 26.56
+- country: US
+  region: CO
+  name: West Pleasant View
+  lat: '39.7320'
+  long: "-105.1785"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 10.97
+  - name: AURORA
+    distance_km: 25.9
+  - name: DENVERSLVN
+    distance_km: 26.77
+- country: US
+  region: CO
+  name: Westcliffe
+  lat: '38.1339'
+  long: "-105.4654"
+  nearby_rate_centers:
+  - name: WESTCLIFFE
+    distance_km: 0.18
+  - name: CANON CITY
+    distance_km: 39.8
+  - name: CRESTONE
+    distance_km: 40.73
+- country: US
+  region: CO
+  name: Westcreek
+  lat: '39.1499'
+  long: "-105.1626"
+  nearby_rate_centers:
+  - name: DECKERS
+    distance_km: 12.09
+  - name: LAKEGEORGE
+    distance_km: 24.89
+  - name: CRIPPLECRK
+    distance_km: 44.25
+- country: US
+  region: CO
+  name: Westminster
+  lat: '39.8837'
+  long: "-105.0624"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 15.35
+  - name: AURORA
+    distance_km: 21.89
+  - name: BRIGHTON
+    distance_km: 23.95
+- country: US
+  region: CO
+  name: Weston
+  lat: '37.1460'
+  long: "-104.8683"
+  nearby_rate_centers:
+  - name: WESTON
+    distance_km: 1.56
+  - name: TRINIDAD
+    distance_km: 31.85
+  - name: AGUILAR
+    distance_km: 34.39
+- country: US
+  region: CO
+  name: Wheat Ridge
+  lat: '39.7728'
+  long: "-105.1028"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 5.31
+  - name: AURORA
+    distance_km: 19.55
+  - name: DENVERSLVN
+    distance_km: 22.62
+- country: US
+  region: CO
+  name: Wiggins
+  lat: '40.2286'
+  long: "-104.0724"
+  nearby_rate_centers:
+  - name: WIGGINS
+    distance_km: 0.72
+  - name: WELDONA
+    distance_km: 15.16
+  - name: HOYT
+    distance_km: 23.69
+- country: US
+  region: CO
+  name: Wiley
+  lat: '38.1553'
+  long: "-102.7193"
+  nearby_rate_centers:
+  - name: LAMAR
+    distance_km: 12.57
+  - name: EADS
+    distance_km: 35.92
+  - name: BRISTOGRND
+    distance_km: 37.3
+- country: US
+  region: CO
+  name: Williamsburg
+  lat: '38.3840'
+  long: "-105.1710"
+  nearby_rate_centers:
+  - name: FLORENCE
+    distance_km: 4.11
+  - name: CANON CITY
+    distance_km: 8.5
+  - name: WESTCLIFFE
+    distance_km: 37.8
+- country: US
+  region: CO
+  name: Windsor
+  lat: '40.4690'
+  long: "-104.9198"
+  nearby_rate_centers:
+  - name: WINDSOR
+    distance_km: 1.49
+  - name: JOHNSTMLKN
+    distance_km: 14.92
+  - name: LOVELAND
+    distance_km: 15.49
+- country: US
+  region: CO
+  name: Winter Park
+  lat: '39.8785'
+  long: "-105.7828"
+  nearby_rate_centers:
+  - name: FRASER
+    distance_km: 7.49
+  - name: GEORGETOWN
+    distance_km: 20.3
+  - name: GRANBY
+    distance_km: 26.65
+- country: US
+  region: CO
+  name: Wolcott
+  lat: '39.7035'
+  long: "-106.6799"
+  nearby_rate_centers:
+  - name: EDWARDS
+    distance_km: 10.23
+  - name: EAGLE
+    distance_km: 14.42
+  - name: GYPSUM
+    distance_km: 23.98
+- country: US
+  region: CO
+  name: Woodland Park
+  lat: '38.9985'
+  long: "-105.0594"
+  nearby_rate_centers:
+  - name: LAKEGEORGE
+    distance_km: 25.41
+  - name: COLORADO SPRINGS-AIR FORCE ACADEMY
+    distance_km: 27.36
+  - name: COLORADO SPRINGS-BLACK FOREST
+    distance_km: 27.36
+  - name: COLORADO SPRINGS-EAST
+    distance_km: 27.36
+  - name: COLORADO SPRINGS-FOUNTAIN
+    distance_km: 27.36
+  - name: COLORADO SPRINGS-GATEHOUSE
+    distance_km: 27.36
+  - name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+    distance_km: 27.36
+  - name: COLORADO SPRINGS-MANITOU SPRINGS
+    distance_km: 27.36
+  - name: COLORADO SPRINGS-MONUMENT
+    distance_km: 27.36
+  - name: COLORADO SPRINGS-PIKEVIEW
+    distance_km: 27.36
+  - name: COLORADO SPRINGS-SECURITY
+    distance_km: 27.36
+  - name: COLORADO SPRINGS-STRATMOOR
+    distance_km: 27.36
+  - name: COLORADO SPRINGS-WOODLAND PARK
+    distance_km: 27.36
+  - name: COLORDOSPG
+    distance_km: 27.36
+  - name: CRIPPLECRK
+    distance_km: 29.22
+- country: US
+  region: CO
+  name: Woodmoor
+  lat: '39.1063'
+  long: "-104.8456"
+  nearby_rate_centers:
+  - name: COLORADO SPRINGS-AIR FORCE ACADEMY
+    distance_km: 29.66
+  - name: COLORADO SPRINGS-BLACK FOREST
+    distance_km: 29.66
+  - name: COLORADO SPRINGS-EAST
+    distance_km: 29.66
+  - name: COLORADO SPRINGS-FOUNTAIN
+    distance_km: 29.66
+  - name: COLORADO SPRINGS-GATEHOUSE
+    distance_km: 29.66
+  - name: COLORADO SPRINGS-GREEN MOUNTAIN FALLS
+    distance_km: 29.66
+  - name: COLORADO SPRINGS-MANITOU SPRINGS
+    distance_km: 29.66
+  - name: COLORADO SPRINGS-MONUMENT
+    distance_km: 29.66
+  - name: COLORADO SPRINGS-PIKEVIEW
+    distance_km: 29.66
+  - name: COLORADO SPRINGS-SECURITY
+    distance_km: 29.66
+  - name: COLORADO SPRINGS-STRATMOOR
+    distance_km: 29.66
+  - name: COLORADO SPRINGS-WOODLAND PARK
+    distance_km: 29.66
+  - name: COLORDOSPG
+    distance_km: 29.66
+  - name: PEYTON
+    distance_km: 32.35
+  - name: DECKERS
+    distance_km: 35.91
+- country: US
+  region: CO
+  name: Woody Creek
+  lat: '39.2708'
+  long: "-106.8883"
+  nearby_rate_centers:
+  - name: ASPEN
+    distance_km: 10.67
+  - name: BASALT
+    distance_km: 16.49
+  - name: CARBONDALE
+    distance_km: 31.08
+- country: US
+  region: CO
+  name: Wray
+  lat: '40.0802'
+  long: "-102.2284"
+  nearby_rate_centers:
+  - name: WRAY
+    distance_km: 0.68
+  - name: ECKLEY
+    distance_km: 22.48
+  - name: YUMA
+    distance_km: 42.55
+- country: US
+  region: CO
+  name: Yampa
+  lat: '40.1530'
+  long: "-106.9085"
+  nearby_rate_centers:
+  - name: YAMPA
+    distance_km: 0.16
+  - name: OAK CREEK
+    distance_km: 13.92
+  - name: MCCOY
+    distance_km: 28.06
+- country: US
+  region: CO
+  name: Yuma
+  lat: '40.1235'
+  long: "-102.7161"
+  nearby_rate_centers:
+  - name: YUMA
+    distance_km: 0.97
+  - name: ECKLEY
+    distance_km: 19.32
+  - name: OTIS
+    distance_km: 20.46

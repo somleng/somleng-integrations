@@ -1,0 +1,9372 @@
+---
+cities:
+- country: US
+  region: NC
+  name: Aberdeen
+  lat: '35.1350'
+  long: "-79.4326"
+  nearby_rate_centers:
+  - name: ABERDEEN
+    distance_km: 0.75
+  - name: PINEBLUFF
+    distance_km: 4.83
+  - name: SOUTHEPINS
+    distance_km: 5.18
+- country: US
+  region: NC
+  name: Advance
+  lat: '35.9468'
+  long: "-80.4045"
+  nearby_rate_centers:
+  - name: ADVANCE
+    distance_km: 0.63
+  - name: REEDS
+    distance_km: 12.74
+  - name: WELCOME
+    distance_km: 14.35
+- country: US
+  region: NC
+  name: Ahoskie
+  lat: '36.2842'
+  long: "-76.9902"
+  nearby_rate_centers:
+  - name: AHOSKIE
+    distance_km: 1.26
+  - name: AULANDER
+    distance_km: 13.15
+  - name: WINTON
+    distance_km: 14.17
+- country: US
+  region: NC
+  name: Alamance
+  lat: '36.0285'
+  long: "-79.4890"
+  nearby_rate_centers:
+  - name: BURLINGTON
+    distance_km: 8.45
+  - name: GIBSONVL
+    distance_km: 9.97
+  - name: KIMESVILLE
+    distance_km: 10.39
+- country: US
+  region: NC
+  name: Albemarle
+  lat: '35.3594'
+  long: "-80.1915"
+  nearby_rate_centers:
+  - name: ALBEMARLE
+    distance_km: 1.08
+  - name: BADIN
+    distance_km: 8.59
+  - name: NEW LONDON
+    distance_km: 9.49
+- country: US
+  region: NC
+  name: Alexis
+  lat: '35.3968'
+  long: "-81.1190"
+  nearby_rate_centers:
+  - name: STANLEY
+    distance_km: 5.09
+  - name: LINCOLNTON
+    distance_km: 14.28
+  - name: LOWELL
+    distance_km: 14.62
+- country: US
+  region: NC
+  name: Alliance
+  lat: '35.1434'
+  long: "-76.8084"
+  nearby_rate_centers:
+  - name: BAYBORO
+    distance_km: 3.63
+  - name: ORIENTAL
+    distance_km: 16.33
+  - name: AURORA
+    distance_km: 17.43
+- country: US
+  region: NC
+  name: Altamahaw
+  lat: '36.1868'
+  long: "-79.5051"
+  nearby_rate_centers:
+  - name: GIBSONVL
+    distance_km: 9.35
+  - name: BURLINGTON
+    distance_km: 12.54
+  - name: MONTICELLO
+    distance_km: 16.44
+- country: US
+  region: NC
+  name: Anderson Creek
+  lat: '35.2657'
+  long: "-78.9580"
+  nearby_rate_centers:
+  - name: OLIVIA
+    distance_km: 16.93
+  - name: LILLINGTON
+    distance_km: 18.47
+  - name: BROADWAY
+    distance_km: 23.31
+- country: US
+  region: NC
+  name: Andrews
+  lat: '35.1994'
+  long: "-83.8262"
+  nearby_rate_centers:
+  - name: ANDREWS
+    distance_km: 0.73
+  - name: ROBBINSVL
+    distance_km: 13.9
+  - name: HAYESVILLE
+    distance_km: 16.71
+- country: US
+  region: NC
+  name: Angier
+  lat: '35.5116'
+  long: "-78.7402"
+  nearby_rate_centers:
+  - name: ANGIER
+    distance_km: 0.97
+  - name: FUQUAYVRIN
+    distance_km: 9.74
+  - name: LILLINGTON
+    distance_km: 15.4
+- country: US
+  region: NC
+  name: Ansonville
+  lat: '35.1041'
+  long: "-80.1097"
+  nearby_rate_centers:
+  - name: ANSONVILLE
+    distance_km: 0.95
+  - name: NORWOOD
+    distance_km: 13.61
+  - name: PEACHLPKTN
+    distance_km: 15.41
+- country: US
+  region: NC
+  name: Apex
+  lat: '35.7237'
+  long: "-78.8743"
+  nearby_rate_centers:
+  - name: APEX
+    distance_km: 2.44
+  - name: CARY
+    distance_km: 10.74
+  - name: CARY-RTP
+    distance_km: 10.74
+  - name: FUQUAYVRIN
+    distance_km: 16.85
+- country: US
+  region: NC
+  name: Aquadale
+  lat: '35.2244'
+  long: "-80.2235"
+  nearby_rate_centers:
+  - name: NORWOOD
+    distance_km: 9.09
+  - name: OAKBORO
+    distance_km: 10.12
+  - name: ALBEMARLE
+    distance_km: 14.35
+- country: US
+  region: NC
+  name: Arapahoe
+  lat: '35.0215'
+  long: "-76.8260"
+  nearby_rate_centers:
+  - name: ORIENTAL
+    distance_km: 11.32
+  - name: BAYBORO
+    distance_km: 14.2
+  - name: HAVELOCK
+    distance_km: 17.62
+- country: US
+  region: NC
+  name: Archdale
+  lat: '35.9032'
+  long: "-79.9591"
+  nearby_rate_centers:
+  - name: HIGH POINT
+    distance_km: 7.34
+  - name: THOMASVL
+    distance_km: 11.24
+  - name: RANDLEMAN
+    distance_km: 17.45
+- country: US
+  region: NC
+  name: Archer Lodge
+  lat: '35.6907'
+  long: "-78.3749"
+  nearby_rate_centers:
+  - name: CLAYTON
+    distance_km: 8.79
+  - name: WENDELL
+    distance_km: 10.21
+  - name: KNIGHTDALE
+    distance_km: 14.99
+- country: US
+  region: NC
+  name: Arrowhead Beach
+  lat: '36.2266'
+  long: "-76.7021"
+  nearby_rate_centers:
+  - name: WELCH
+    distance_km: 4.49
+  - name: COLERAIN
+    distance_km: 6.28
+  - name: PINEYWOODS
+    distance_km: 15.96
+- country: US
+  region: NC
+  name: Asheboro
+  lat: '35.7158'
+  long: "-79.8127"
+  nearby_rate_centers:
+  - name: ASHEBORO
+    distance_km: 1.02
+  - name: RANDLEMAN
+    distance_km: 11.32
+  - name: RAMSEUR
+    distance_km: 14.26
+- country: US
+  region: NC
+  name: Asheville
+  lat: '35.5707'
+  long: "-82.5537"
+  nearby_rate_centers:
+  - name: ASHEVILLE
+    distance_km: 2.41
+  - name: ENKACANDLR
+    distance_km: 9.06
+  - name: ARDEN
+    distance_km: 10.25
+- country: US
+  region: NC
+  name: Ashley Heights
+  lat: '35.0900'
+  long: "-79.3740"
+  nearby_rate_centers:
+  - name: ABERDEEN
+    distance_km: 6.6
+  - name: PINEBLUFF
+    distance_km: 9.52
+  - name: SOUTHEPINS
+    distance_km: 9.53
+- country: US
+  region: NC
+  name: Askewville
+  lat: '36.1116'
+  long: "-76.9412"
+  nearby_rate_centers:
+  - name: WINDSOR
+    distance_km: 12.61
+  - name: COLERAIN
+    distance_km: 18.72
+  - name: AULANDER
+    distance_km: 20.07
+- country: US
+  region: NC
+  name: Atkinson
+  lat: '34.5275'
+  long: "-78.1697"
+  nearby_rate_centers:
+  - name: ATKINSON
+    distance_km: 0.39
+  - name: KELLY
+    distance_km: 15.35
+  - name: BURGAW
+    distance_km: 22.42
+- country: US
+  region: NC
+  name: Atlantic
+  lat: '34.8823'
+  long: "-76.3440"
+  nearby_rate_centers:
+  - name: ATLANTIC
+    distance_km: 1.09
+  - name: MARSHALLBG
+    distance_km: 20.41
+  - name: BEAUFORT
+    distance_km: 32.85
+- country: US
+  region: NC
+  name: Atlantic Beach
+  lat: '34.7011'
+  long: "-76.7403"
+  nearby_rate_centers:
+  - name: MOREHEADCY
+    distance_km: 2.89
+  - name: BEAUFORT
+    distance_km: 8.83
+  - name: NEWPORT
+    distance_km: 13.91
+- country: US
+  region: NC
+  name: Aulander
+  lat: '36.2280'
+  long: "-77.1136"
+  nearby_rate_centers:
+  - name: AULANDER
+    distance_km: 0.53
+  - name: ROXOBEL
+    distance_km: 11.8
+  - name: LEWISTON
+    distance_km: 12.93
+- country: US
+  region: NC
+  name: Aurora
+  lat: '35.3030'
+  long: "-76.7889"
+  nearby_rate_centers:
+  - name: AURORA
+    distance_km: 0.54
+  - name: BAYBORO
+    distance_km: 18.19
+  - name: BATH
+    distance_km: 19.4
+- country: US
+  region: NC
+  name: Autryville
+  lat: '34.9965'
+  long: "-78.6412"
+  nearby_rate_centers:
+  - name: SOUTHRIVER
+    distance_km: 11.81
+  - name: ROSEBORO
+    distance_km: 12.67
+  - name: HERRING
+    distance_km: 19.45
+- country: US
+  region: NC
+  name: Avery Creek
+  lat: '35.4651'
+  long: "-82.5719"
+  nearby_rate_centers:
+  - name: ARDEN
+    distance_km: 4.83
+  - name: ENKACANDLR
+    distance_km: 11.79
+  - name: ASHEVILLE
+    distance_km: 14.1
+- country: US
+  region: NC
+  name: Avon
+  lat: '35.3465'
+  long: "-75.5069"
+  nearby_rate_centers:
+  - name: BUXTON
+    distance_km: 10.24
+  - name: WAVES
+    distance_km: 24.11
+  - name: ENGELHARD
+    distance_km: 48.11
+- country: US
+  region: NC
+  name: Ayden
+  lat: '35.4693'
+  long: "-77.4167"
+  nearby_rate_centers:
+  - name: AYDEN
+    distance_km: 0.39
+  - name: GRIFTON
+    distance_km: 11.46
+  - name: GREENVILLE
+    distance_km: 15.95
+- country: US
+  region: NC
+  name: Badin
+  lat: '35.4071'
+  long: "-80.1184"
+  nearby_rate_centers:
+  - name: BADIN
+    distance_km: 0.15
+  - name: ALBEMARLE
+    distance_km: 9.55
+  - name: NEW LONDON
+    distance_km: 10.25
+- country: US
+  region: NC
+  name: Bailey
+  lat: '35.7805'
+  long: "-78.1130"
+  nearby_rate_centers:
+  - name: BAILEY
+    distance_km: 0.54
+  - name: LUCAMA
+    distance_km: 17.97
+  - name: SPRINGHOPE
+    distance_km: 18.02
+- country: US
+  region: NC
+  name: Bakersville
+  lat: '36.0154'
+  long: "-82.1582"
+  nearby_rate_centers:
+  - name: BAKERSVL
+    distance_km: 1.0
+  - name: MICAVILLE
+    distance_km: 12.79
+  - name: SPRUCEPINE
+    distance_km: 13.83
+- country: US
+  region: NC
+  name: Bald Head Island
+  lat: '33.8660'
+  long: "-77.9862"
+  nearby_rate_centers:
+  - name: SOUTHPORT
+    distance_km: 7.24
+  - name: LONG BEACH
+    distance_km: 16.47
+  - name: BLNGSPGLKS
+    distance_km: 19.98
+- country: US
+  region: NC
+  name: Balfour
+  lat: '35.3494'
+  long: "-82.4825"
+  nearby_rate_centers:
+  - name: HENDERSNVL
+    distance_km: 4.01
+  - name: ARDEN
+    distance_km: 15.19
+  - name: SALUDA
+    distance_km: 16.89
+- country: US
+  region: NC
+  name: Banner Elk
+  lat: '36.1589'
+  long: "-81.8677"
+  nearby_rate_centers:
+  - name: BANNER ELK
+    distance_km: 1.32
+  - name: BEECH MT
+    distance_km: 4.08
+  - name: WATAUGA
+    distance_km: 9.23
+- country: US
+  region: NC
+  name: Barker Heights
+  lat: '35.3104'
+  long: "-82.4412"
+  nearby_rate_centers:
+  - name: HENDERSNVL
+    distance_km: 2.43
+  - name: SALUDA
+    distance_km: 11.18
+  - name: ARDEN
+    distance_km: 20.46
+- country: US
+  region: NC
+  name: Barker Ten Mile
+  lat: '34.6825'
+  long: "-78.9889"
+  nearby_rate_centers:
+  - name: LUMBERTON
+    distance_km: 6.39
+  - name: ST PAULS
+    distance_km: 14.02
+  - name: PEMBROKE
+    distance_km: 19.02
+- country: US
+  region: NC
+  name: Barnardsville
+  lat: '35.7819'
+  long: "-82.4556"
+  nearby_rate_centers:
+  - name: BARNARDSVL
+    distance_km: 0.59
+  - name: MARS HILL
+    distance_km: 9.61
+  - name: WEAVERVL
+    distance_km: 13.27
+- country: US
+  region: NC
+  name: Bath
+  lat: '35.4702'
+  long: "-76.8119"
+  nearby_rate_centers:
+  - name: BATH
+    distance_km: 0.87
+  - name: SIDNEY
+    distance_km: 11.02
+  - name: PINETOWN
+    distance_km: 16.17
+- country: US
+  region: NC
+  name: Bayboro
+  lat: '35.1474'
+  long: "-76.7692"
+  nearby_rate_centers:
+  - name: BAYBORO
+    distance_km: 0.79
+  - name: ORIENTAL
+    distance_km: 14.9
+  - name: AURORA
+    distance_km: 16.92
+- country: US
+  region: NC
+  name: Bayshore
+  lat: '34.2893'
+  long: "-77.8025"
+  nearby_rate_centers:
+  - name: SCOTTS HILL 270
+    distance_km: 4.56
+  - name: SCOTTSHILL
+    distance_km: 4.56
+  - name: WRGHTSVBCH
+    distance_km: 8.29
+  - name: CASTLEHAYN
+    distance_km: 11.69
+- country: US
+  region: NC
+  name: Bayview
+  lat: '35.4414'
+  long: "-76.7928"
+  nearby_rate_centers:
+  - name: BATH
+    distance_km: 4.14
+  - name: SIDNEY
+    distance_km: 10.34
+  - name: AURORA
+    distance_km: 15.85
+- country: US
+  region: NC
+  name: Bear Grass
+  lat: '35.7664'
+  long: "-77.1290"
+  nearby_rate_centers:
+  - name: WILLIAMSTN
+    distance_km: 11.16
+  - name: ROBERSONVL
+    distance_km: 13.43
+  - name: HAMILTON
+    distance_km: 20.89
+- country: US
+  region: NC
+  name: Beaufort
+  lat: '34.7300'
+  long: "-76.6493"
+  nearby_rate_centers:
+  - name: BEAUFORT
+    distance_km: 0.67
+  - name: MOREHEADCY
+    distance_km: 7.22
+  - name: MARSHALLBG
+    distance_km: 12.7
+- country: US
+  region: NC
+  name: Beech Mountain
+  lat: '36.2104'
+  long: "-81.8875"
+  nearby_rate_centers:
+  - name: BEECH MT
+    distance_km: 1.97
+  - name: BANNER ELK
+    distance_km: 4.8
+  - name: SUGARGROVE
+    distance_km: 11.34
+- country: US
+  region: NC
+  name: Belhaven
+  lat: '35.5428'
+  long: "-76.6232"
+  nearby_rate_centers:
+  - name: BELHAVEN
+    distance_km: 0.69
+  - name: SIDNEY
+    distance_km: 8.98
+  - name: PIKE ROAD
+    distance_km: 15.8
+- country: US
+  region: NC
+  name: Bell Arthur
+  lat: '35.5912'
+  long: "-77.5127"
+  nearby_rate_centers:
+  - name: FARMVILLE
+    distance_km: 6.34
+  - name: GREENVILLE
+    distance_km: 12.86
+  - name: FOUNTAIN
+    distance_km: 15.02
+- country: US
+  region: NC
+  name: Belmont
+  lat: '35.2212'
+  long: "-81.0401"
+  nearby_rate_centers:
+  - name: BELMONT
+    distance_km: 2.51
+  - name: LOWELL
+    distance_km: 7.29
+  - name: MOUNTHOLLY
+    distance_km: 9.36
+- country: US
+  region: NC
+  name: Belville
+  lat: '34.2190'
+  long: "-77.9976"
+  nearby_rate_centers:
+  - name: WILMINGTON
+    distance_km: 5.21
+  - name: WRGHTSVBCH
+    distance_km: 16.34
+  - name: CASTLEHAYN
+    distance_km: 17.46
+- country: US
+  region: NC
+  name: Belvoir
+  lat: '35.7111'
+  long: "-77.4700"
+  nearby_rate_centers:
+  - name: BETHEL
+    distance_km: 13.78
+  - name: GREENVILLE
+    distance_km: 14.48
+  - name: FOUNTAIN
+    distance_km: 16.19
+- country: US
+  region: NC
+  name: Belwood
+  lat: '35.4794'
+  long: "-81.5227"
+  nearby_rate_centers:
+  - name: LAWNDALE
+    distance_km: 7.59
+  - name: CHERRYVL
+    distance_km: 17.25
+  - name: SHELBY
+    distance_km: 21.75
+- country: US
+  region: NC
+  name: Bennett
+  lat: '35.5664'
+  long: "-79.5400"
+  nearby_rate_centers:
+  - name: BENNETT
+    distance_km: 5.06
+  - name: HIGHFALLS
+    distance_km: 9.51
+  - name: COLERIDGE
+    distance_km: 11.09
+- country: US
+  region: NC
+  name: Benson
+  lat: '35.3860'
+  long: "-78.5437"
+  nearby_rate_centers:
+  - name: BENSON
+    distance_km: 0.84
+  - name: DUNN
+    distance_km: 10.97
+  - name: DUNN-CMBLD
+    distance_km: 10.97
+  - name: FOUR OAKS
+    distance_km: 12.18
+- country: US
+  region: NC
+  name: Bent Creek
+  lat: '35.5081'
+  long: "-82.6176"
+  nearby_rate_centers:
+  - name: ENKACANDLR
+    distance_km: 5.49
+  - name: ARDEN
+    distance_km: 9.06
+  - name: ASHEVILLE
+    distance_km: 10.61
+- country: US
+  region: NC
+  name: Bermuda Run
+  lat: '36.0041'
+  long: "-80.4306"
+  nearby_rate_centers:
+  - name: ADVANCE
+    distance_km: 7.1
+  - name: LEWISVILLE
+    distance_km: 10.51
+  - name: MOCKSVILLE
+    distance_km: 16.3
+- country: US
+  region: NC
+  name: Bessemer City
+  lat: '35.2840'
+  long: "-81.2828"
+  nearby_rate_centers:
+  - name: BESSEMERCY
+    distance_km: 0.04
+  - name: KINGS MT
+    distance_km: 6.89
+  - name: GASTONIA
+    distance_km: 9.53
+- country: US
+  region: NC
+  name: Bethania
+  lat: '36.1808'
+  long: "-80.3376"
+  nearby_rate_centers:
+  - name: OLDTOWN
+    distance_km: 2.03
+  - name: STANLEYVL
+    distance_km: 5.19
+  - name: RURAL HALL
+    distance_km: 7.8
+- country: US
+  region: NC
+  name: Bethel
+  lat: '35.8072'
+  long: "-77.3763"
+  nearby_rate_centers:
+  - name: BETHEL
+    distance_km: 0.16
+  - name: ROBERSONVL
+    distance_km: 10.87
+  - name: TARBORO
+    distance_km: 18.41
+- country: US
+  region: NC
+  name: Bethlehem
+  lat: '35.8162'
+  long: "-81.2962"
+  nearby_rate_centers:
+  - name: BETHLEHEM
+    distance_km: 1.76
+  - name: HICKORY
+    distance_km: 9.98
+  - name: GRANITEFLS
+    distance_km: 11.82
+- country: US
+  region: NC
+  name: Beulaville
+  lat: '34.9228'
+  long: "-77.7724"
+  nearby_rate_centers:
+  - name: BEULAVILLE
+    distance_km: 0.75
+  - name: PINK HILL
+    distance_km: 14.59
+  - name: KENANSVL
+    distance_km: 17.95
+- country: US
+  region: NC
+  name: Biltmore Forest
+  lat: '35.5348'
+  long: "-82.5403"
+  nearby_rate_centers:
+  - name: ARDEN
+    distance_km: 6.08
+  - name: ASHEVILLE
+    distance_km: 6.59
+  - name: ENKACANDLR
+    distance_km: 10.1
+- country: US
+  region: NC
+  name: Biscoe
+  lat: '35.3585'
+  long: "-79.7816"
+  nearby_rate_centers:
+  - name: BISCOE
+    distance_km: 1.24
+  - name: CANDOR
+    distance_km: 8.3
+  - name: TROY
+    distance_km: 10.78
+- country: US
+  region: NC
+  name: Black Creek
+  lat: '35.6366'
+  long: "-77.9326"
+  nearby_rate_centers:
+  - name: LUCAMA
+    distance_km: 6.94
+  - name: WILSON
+    distance_km: 10.08
+  - name: STANTONSBG
+    distance_km: 10.08
+- country: US
+  region: NC
+  name: Black Mountain
+  lat: '35.6144'
+  long: "-82.3274"
+  nearby_rate_centers:
+  - name: BLACK MT
+    distance_km: 0.87
+  - name: SWANNANOA
+    distance_km: 5.98
+  - name: FAIRVIEW
+    distance_km: 12.55
+- country: US
+  region: NC
+  name: Bladenboro
+  lat: '34.5407'
+  long: "-78.7950"
+  nearby_rate_centers:
+  - name: BLADENBORO
+    distance_km: 0.49
+  - name: ABBOTTSBG
+    distance_km: 6.42
+  - name: CLARKTON
+    distance_km: 13.72
+- country: US
+  region: NC
+  name: Blowing Rock
+  lat: '36.1298'
+  long: "-81.6706"
+  nearby_rate_centers:
+  - name: BLOWING RK
+    distance_km: 1.31
+  - name: WATAUGA
+    distance_km: 9.43
+  - name: BOONE
+    distance_km: 9.67
+- country: US
+  region: NC
+  name: Blue Clay Farms
+  lat: '34.3005'
+  long: "-77.8917"
+  nearby_rate_centers:
+  - name: CASTLEHAYN
+    distance_km: 6.1
+  - name: WILMINGTON
+    distance_km: 9.77
+  - name: SCOTTS HILL 270
+    distance_km: 11.41
+  - name: SCOTTSHILL
+    distance_km: 11.41
+- country: US
+  region: NC
+  name: Boardman
+  lat: '34.4365'
+  long: "-78.9468"
+  nearby_rate_centers:
+  - name: FAIR BLUFF
+    distance_km: 15.3
+  - name: FAIRMONT
+    distance_km: 16.58
+  - name: CHADBOURN
+    distance_km: 16.88
+- country: US
+  region: NC
+  name: Bogue
+  lat: '34.6980'
+  long: "-77.0311"
+  nearby_rate_centers:
+  - name: SWANSBORO
+    distance_km: 8.59
+  - name: SWNSBRWCAR
+    distance_km: 8.59
+  - name: NEWPORT
+    distance_km: 18.38
+  - name: HAVELOCK
+    distance_km: 22.99
+- country: US
+  region: NC
+  name: Boiling Spring Lakes
+  lat: '34.0327'
+  long: "-78.0685"
+  nearby_rate_centers:
+  - name: BLNGSPGLKS
+    distance_km: 0.32
+  - name: BOLIVIA
+    distance_km: 8.49
+  - name: SOUTHPORT
+    distance_km: 12.8
+- country: US
+  region: NC
+  name: Boiling Springs
+  lat: '35.2522'
+  long: "-81.6636"
+  nearby_rate_centers:
+  - name: LATTIMORE
+    distance_km: 7.27
+  - name: CAROLEEN
+    distance_km: 11.59
+  - name: ELLENBORO
+    distance_km: 11.83
+- country: US
+  region: NC
+  name: Bolivia
+  lat: '34.0699'
+  long: "-78.1472"
+  nearby_rate_centers:
+  - name: BOLIVIA
+    distance_km: 0.25
+  - name: BLNGSPGLKS
+    distance_km: 8.59
+  - name: LONG BEACH
+    distance_km: 17.94
+- country: US
+  region: NC
+  name: Bolton
+  lat: '34.3174'
+  long: "-78.3976"
+  nearby_rate_centers:
+  - name: LKWACCAMAW
+    distance_km: 10.88
+  - name: ACME
+    distance_km: 17.61
+  - name: KELLY
+    distance_km: 17.62
+- country: US
+  region: NC
+  name: Bonnetsville
+  lat: '34.9993'
+  long: "-78.3962"
+  nearby_rate_centers:
+  - name: CLINTON
+    distance_km: 6.46
+  - name: HERRING
+    distance_km: 7.12
+  - name: ROSEBORO
+    distance_km: 11.98
+- country: US
+  region: NC
+  name: Boone
+  lat: '36.2111'
+  long: "-81.6669"
+  nearby_rate_centers:
+  - name: BOONE
+    distance_km: 1.41
+  - name: BLOWING RK
+    distance_km: 8.94
+  - name: SUGARGROVE
+    distance_km: 9.71
+- country: US
+  region: NC
+  name: Boonville
+  lat: '36.2340'
+  long: "-80.7093"
+  nearby_rate_centers:
+  - name: BOONVILLE
+    distance_km: 0.34
+  - name: YADKINVL
+    distance_km: 12.13
+  - name: FORBUSH
+    distance_km: 12.41
+- country: US
+  region: NC
+  name: Bostic
+  lat: '35.3625'
+  long: "-81.8360"
+  nearby_rate_centers:
+  - name: FORESTCITY
+    distance_km: 5.08
+  - name: ELLENBORO
+    distance_km: 8.14
+  - name: RUTHEFRDTN
+    distance_km: 11.18
+- country: US
+  region: NC
+  name: Bowdens
+  lat: '35.0579'
+  long: "-78.1128"
+  nearby_rate_centers:
+  - name: WARSAW
+    distance_km: 6.58
+  - name: FAISON
+    distance_km: 6.61
+  - name: SIX RUN
+    distance_km: 8.28
+- country: US
+  region: NC
+  name: Bowmore
+  lat: '34.9358'
+  long: "-79.2999"
+  nearby_rate_centers:
+  - name: WAGRAM
+    distance_km: 7.6
+  - name: RAEFORD
+    distance_km: 7.84
+  - name: REDSPRINGS
+    distance_km: 16.71
+- country: US
+  region: NC
+  name: Brandywine Bay
+  lat: '34.7384'
+  long: "-76.8303"
+  nearby_rate_centers:
+  - name: NEWPORT
+    distance_km: 5.35
+  - name: MOREHEADCY
+    distance_km: 9.46
+  - name: BEAUFORT
+    distance_km: 16.75
+- country: US
+  region: NC
+  name: Brevard
+  lat: '35.2438'
+  long: "-82.7265"
+  nearby_rate_centers:
+  - name: BREVARD
+    distance_km: 1.47
+  - name: HENDERSNVL
+    distance_km: 24.85
+  - name: ARDEN
+    distance_km: 32.29
+- country: US
+  region: NC
+  name: Briar Chapel
+  lat: '35.8241'
+  long: "-79.1168"
+  nearby_rate_centers:
+  - name: CHAPELHILL
+    distance_km: 10.8
+  - name: PITTSBORO
+    distance_km: 13.2
+  - name: SAXAPAHAW
+    distance_km: 22.65
+- country: US
+  region: NC
+  name: Brices Creek
+  lat: '35.0505'
+  long: "-77.0844"
+  nearby_rate_centers:
+  - name: NEW BERN
+    distance_km: 7.91
+  - name: POLLOCKSVL
+    distance_km: 13.27
+  - name: MAYSVILLE
+    distance_km: 21.78
+- country: US
+  region: NC
+  name: Bridgeton
+  lat: '35.1348'
+  long: "-77.0160"
+  nearby_rate_centers:
+  - name: NEW BERN
+    distance_km: 3.9
+  - name: VANCEBORO
+    distance_km: 22.09
+  - name: BAYBORO
+    distance_km: 22.5
+- country: US
+  region: NC
+  name: Broad Creek
+  lat: '34.7304'
+  long: "-76.9241"
+  nearby_rate_centers:
+  - name: NEWPORT
+    distance_km: 8.31
+  - name: HAVELOCK
+    distance_km: 17.29
+  - name: MOREHEADCY
+    distance_km: 17.92
+- country: US
+  region: NC
+  name: Broadway
+  lat: '35.4579'
+  long: "-79.0547"
+  nearby_rate_centers:
+  - name: BROADWAY
+    distance_km: 0.64
+  - name: SANFORD
+    distance_km: 11.79
+  - name: OLIVIA
+    distance_km: 13.26
+- country: US
+  region: NC
+  name: Brogden
+  lat: '35.2961'
+  long: "-78.0250"
+  nearby_rate_centers:
+  - name: GOLDSBORO
+    distance_km: 10.38
+  - name: MOUNTOLIVE
+    distance_km: 11.2
+  - name: GRANTHAM
+    distance_km: 12.4
+- country: US
+  region: NC
+  name: Brookford
+  lat: '35.7030'
+  long: "-81.3452"
+  nearby_rate_centers:
+  - name: MT VIEW
+    distance_km: 3.03
+  - name: HICKORY
+    distance_km: 3.48
+  - name: HILDEBRAN
+    distance_km: 6.37
+- country: US
+  region: NC
+  name: Brunswick
+  lat: '34.2877'
+  long: "-78.7085"
+  nearby_rate_centers:
+  - name: WHITEVILLE
+    distance_km: 5.43
+  - name: CHADBOURN
+    distance_km: 11.21
+  - name: LKWACCAMAW
+    distance_km: 17.99
+- country: US
+  region: NC
+  name: Bryson City
+  lat: '35.4262'
+  long: "-83.4475"
+  nearby_rate_centers:
+  - name: BRYSONCITY
+    distance_km: 1.19
+  - name: CHEROKEE
+    distance_km: 13.26
+  - name: SYLVA
+    distance_km: 21.89
+- country: US
+  region: NC
+  name: Buies Creek
+  lat: '35.4082'
+  long: "-78.7414"
+  nearby_rate_centers:
+  - name: LILLINGTON
+    distance_km: 7.83
+  - name: ANGIER
+    distance_km: 11.4
+  - name: DUNN
+    distance_km: 15.85
+  - name: DUNN-CMBLD
+    distance_km: 15.85
+- country: US
+  region: NC
+  name: Bunn
+  lat: '35.9591'
+  long: "-78.2520"
+  nearby_rate_centers:
+  - name: SPRINGHOPE
+    distance_km: 12.34
+  - name: ZEBULON
+    distance_km: 16.02
+  - name: LOUISBURG
+    distance_km: 16.38
+- country: US
+  region: NC
+  name: Bunnlevel
+  lat: '35.3100'
+  long: "-78.7725"
+  nearby_rate_centers:
+  - name: LILLINGTON
+    distance_km: 10.29
+  - name: DUNN
+    distance_km: 14.08
+  - name: DUNN-CMBLD
+    distance_km: 14.08
+  - name: BENSON
+    distance_km: 21.58
+- country: US
+  region: NC
+  name: Burgaw
+  lat: '34.5509'
+  long: "-77.9224"
+  nearby_rate_centers:
+  - name: BURGAW
+    distance_km: 0.42
+  - name: WALLACE
+    distance_km: 21.35
+  - name: CASTLEHAYN
+    distance_km: 21.89
+- country: US
+  region: NC
+  name: Burlington
+  lat: '36.0760'
+  long: "-79.4685"
+  nearby_rate_centers:
+  - name: BURLINGTON
+    distance_km: 3.5
+  - name: GIBSONVL
+    distance_km: 7.4
+  - name: KIMESVILLE
+    distance_km: 15.88
+- country: US
+  region: NC
+  name: Burnsville
+  lat: '35.9163'
+  long: "-82.2977"
+  nearby_rate_centers:
+  - name: BURNSVILLE
+    distance_km: 0.65
+  - name: MICAVILLE
+    distance_km: 7.47
+  - name: BAKERSVL
+    distance_km: 16.04
+- country: US
+  region: NC
+  name: Butner
+  lat: '36.1285'
+  long: "-78.7501"
+  nearby_rate_centers:
+  - name: CREEDMOOR
+    distance_km: 6.24
+  - name: DURHAM
+    distance_km: 20.7
+  - name: DURHAM1
+    distance_km: 20.7
+  - name: DURHAM2
+    distance_km: 20.7
+  - name: OXFORD
+    distance_km: 24.4
+- country: US
+  region: NC
+  name: Butters
+  lat: '34.5603'
+  long: "-78.8489"
+  nearby_rate_centers:
+  - name: BLADENBORO
+    distance_km: 5.71
+  - name: ABBOTTSBG
+    distance_km: 11.82
+  - name: LUMBERTON
+    distance_km: 16.46
+- country: US
+  region: NC
+  name: Buxton
+  lat: '35.2511'
+  long: "-75.5475"
+  nearby_rate_centers:
+  - name: BUXTON
+    distance_km: 1.03
+  - name: WAVES
+    distance_km: 35.22
+  - name: OCRACOKE
+    distance_km: 42.35
+- country: US
+  region: NC
+  name: Cajah's Mountain
+  lat: '35.8508'
+  long: "-81.5361"
+  nearby_rate_centers:
+  - name: LENOIR
+    distance_km: 7.38
+  - name: VALDESE
+    distance_km: 11.51
+  - name: GRANITEFLS
+    distance_km: 11.58
+- country: US
+  region: NC
+  name: Calabash
+  lat: '33.8957'
+  long: "-78.5514"
+  nearby_rate_centers:
+  - name: SEASIDE
+    distance_km: 6.24
+  - name: LONGWOOD
+    distance_km: 11.76
+  - name: SHALLOTTE
+    distance_km: 17.66
+- country: US
+  region: NC
+  name: Calypso
+  lat: '35.1545'
+  long: "-78.1046"
+  nearby_rate_centers:
+  - name: FAISON
+    distance_km: 5.91
+  - name: MOUNTOLIVE
+    distance_km: 6.29
+  - name: SIX RUN
+    distance_km: 16.61
+- country: US
+  region: NC
+  name: Camden
+  lat: '36.3250'
+  long: "-76.1700"
+  nearby_rate_centers:
+  - name: ELIZABTHCY
+    distance_km: 5.67
+  - name: SHILOH
+    distance_km: 9.5
+  - name: WEEKSVILLE
+    distance_km: 13.26
+- country: US
+  region: NC
+  name: Cameron
+  lat: '35.3259'
+  long: "-79.2540"
+  nearby_rate_centers:
+  - name: VASS
+    distance_km: 7.9
+  - name: WHISPEPINS
+    distance_km: 12.8
+  - name: OLIVIA
+    distance_km: 12.93
+- country: US
+  region: NC
+  name: Candor
+  lat: '35.2964'
+  long: "-79.7323"
+  nearby_rate_centers:
+  - name: CANDOR
+    distance_km: 0.84
+  - name: BISCOE
+    distance_km: 7.33
+  - name: WEST END
+    distance_km: 16.23
+- country: US
+  region: NC
+  name: Canton
+  lat: '35.5516'
+  long: "-82.8407"
+  nearby_rate_centers:
+  - name: CANTON
+    distance_km: 2.29
+  - name: CLYDE
+    distance_km: 6.77
+  - name: WAYNESVL
+    distance_km: 14.36
+- country: US
+  region: NC
+  name: Cape Carteret
+  lat: '34.6973'
+  long: "-77.0573"
+  nearby_rate_centers:
+  - name: SWANSBORO
+    distance_km: 6.2
+  - name: SWNSBRWCAR
+    distance_km: 6.2
+  - name: NEWPORT
+    distance_km: 20.51
+  - name: HAVELOCK
+    distance_km: 24.16
+- country: US
+  region: NC
+  name: Cape Colony
+  lat: '36.0211'
+  long: "-76.5815"
+  nearby_rate_centers:
+  - name: EDENTON
+    distance_km: 5.56
+  - name: HERTFORD
+    distance_km: 20.43
+  - name: PLYMOUTH
+    distance_km: 23.02
+- country: US
+  region: NC
+  name: Caroleen
+  lat: '35.2811'
+  long: "-81.7913"
+  nearby_rate_centers:
+  - name: CAROLEEN
+    distance_km: 1.82
+  - name: ELLENBORO
+    distance_km: 5.63
+  - name: FORESTCITY
+    distance_km: 8.19
+- country: US
+  region: NC
+  name: Carolina Beach
+  lat: '34.0396'
+  long: "-77.8966"
+  nearby_rate_centers:
+  - name: CAROLINBCH
+    distance_km: 0.57
+  - name: BLNGSPGLKS
+    distance_km: 15.54
+  - name: SOUTHPORT
+    distance_km: 16.94
+- country: US
+  region: NC
+  name: Carolina Meadows
+  lat: '35.8597'
+  long: "-79.0179"
+  nearby_rate_centers:
+  - name: CHAPELHILL
+    distance_km: 6.58
+  - name: DURHAM
+    distance_km: 17.85
+  - name: DURHAM1
+    distance_km: 17.85
+  - name: DURHAM2
+    distance_km: 17.85
+  - name: APEX
+    distance_km: 21.39
+- country: US
+  region: NC
+  name: Carolina Shores
+  lat: '33.9077'
+  long: "-78.5740"
+  nearby_rate_centers:
+  - name: SEASIDE
+    distance_km: 8.42
+  - name: LONGWOOD
+    distance_km: 10.72
+  - name: SHALLOTTE
+    distance_km: 18.96
+- country: US
+  region: NC
+  name: Carrboro
+  lat: '35.9259'
+  long: "-79.0878"
+  nearby_rate_centers:
+  - name: CHAPELHILL
+    distance_km: 3.25
+  - name: HILLSBORGH
+    distance_km: 16.82
+  - name: DURHAM
+    distance_km: 17.77
+  - name: DURHAM1
+    distance_km: 17.77
+  - name: DURHAM2
+    distance_km: 17.77
+- country: US
+  region: NC
+  name: Carthage
+  lat: '35.3224'
+  long: "-79.4114"
+  nearby_rate_centers:
+  - name: CARTHAGE
+    distance_km: 1.95
+  - name: WHISPEPINS
+    distance_km: 7.75
+  - name: VASS
+    distance_km: 13.42
+- country: US
+  region: NC
+  name: Cary
+  lat: '35.7819'
+  long: "-78.8195"
+  nearby_rate_centers:
+  - name: CARY
+    distance_km: 3.49
+  - name: CARY-RTP
+    distance_km: 3.49
+  - name: APEX
+    distance_km: 6.71
+  - name: RAL DUR AP
+    distance_km: 15.2
+  - name: RALEIGH
+    distance_km: 15.2
+- country: US
+  region: NC
+  name: Casar
+  lat: '35.5127'
+  long: "-81.6168"
+  nearby_rate_centers:
+  - name: LAWNDALE
+    distance_km: 11.82
+  - name: LATTIMORE
+    distance_km: 22.04
+  - name: ELLENBORO
+    distance_km: 24.59
+- country: US
+  region: NC
+  name: Cashiers
+  lat: '35.1066'
+  long: "-83.0971"
+  nearby_rate_centers:
+  - name: CASHIERS
+    distance_km: 1.09
+  - name: HIGHLANDS
+    distance_km: 10.79
+  - name: CULLOWHEE
+    distance_km: 24.64
+- country: US
+  region: NC
+  name: Castalia
+  lat: '36.0823'
+  long: "-78.0576"
+  nearby_rate_centers:
+  - name: NASHVILLE
+    distance_km: 15.22
+  - name: SPRINGHOPE
+    distance_km: 16.42
+  - name: LOUISBURG
+    distance_km: 21.82
+- country: US
+  region: NC
+  name: Castle Hayne
+  lat: '34.3583'
+  long: "-77.9114"
+  nearby_rate_centers:
+  - name: CASTLEHAYN
+    distance_km: 0.94
+  - name: SCOTTS HILL 270
+    distance_km: 13.67
+  - name: SCOTTSHILL
+    distance_km: 13.67
+  - name: WILMINGTON
+    distance_km: 15.33
+- country: US
+  region: NC
+  name: Caswell Beach
+  lat: '33.9073'
+  long: "-78.0471"
+  nearby_rate_centers:
+  - name: SOUTHPORT
+    distance_km: 3.34
+  - name: LONG BEACH
+    distance_km: 10.15
+  - name: BLNGSPGLKS
+    distance_km: 14.12
+- country: US
+  region: NC
+  name: Catawba
+  lat: '35.7095'
+  long: "-81.0668"
+  nearby_rate_centers:
+  - name: CATAWBA
+    distance_km: 0.79
+  - name: CLAREMONT
+    distance_km: 7.37
+  - name: SHERILLSFD
+    distance_km: 12.08
+- country: US
+  region: NC
+  name: Cedar Point
+  lat: '34.6861'
+  long: "-77.0833"
+  nearby_rate_centers:
+  - name: SWANSBORO
+    distance_km: 3.9
+  - name: SWNSBRWCAR
+    distance_km: 3.9
+  - name: NEWPORT
+    distance_km: 23.2
+  - name: HAVELOCK
+    distance_km: 26.45
+- country: US
+  region: NC
+  name: Cedar Rock
+  lat: '35.9435'
+  long: "-81.4584"
+  nearby_rate_centers:
+  - name: LENOIR
+    distance_km: 7.45
+  - name: GRANITEFLS
+    distance_km: 16.45
+  - name: BETHLEHEM
+    distance_km: 18.58
+- country: US
+  region: NC
+  name: Centerville
+  lat: '36.1865'
+  long: "-78.1113"
+  nearby_rate_centers:
+  - name: LOUISBURG
+    distance_km: 19.36
+  - name: WARRENTON
+    distance_km: 23.94
+  - name: SPRINGHOPE
+    distance_km: 27.14
+- country: US
+  region: NC
+  name: Cerro Gordo
+  lat: '34.3226'
+  long: "-78.9286"
+  nearby_rate_centers:
+  - name: FAIR BLUFF
+    distance_km: 9.52
+  - name: CHADBOURN
+    distance_km: 9.81
+  - name: TABOR CITY
+    distance_km: 19.82
+- country: US
+  region: NC
+  name: Chadbourn
+  lat: '34.3251'
+  long: "-78.8250"
+  nearby_rate_centers:
+  - name: CHADBOURN
+    distance_km: 0.29
+  - name: WHITEVILLE
+    distance_km: 11.48
+  - name: FAIR BLUFF
+    distance_km: 19.04
+- country: US
+  region: NC
+  name: Chapel Hill
+  lat: '35.9271'
+  long: "-79.0391"
+  nearby_rate_centers:
+  - name: CHAPELHILL
+    distance_km: 2.66
+  - name: DURHAM
+    distance_km: 13.86
+  - name: DURHAM1
+    distance_km: 13.86
+  - name: DURHAM2
+    distance_km: 13.86
+  - name: HILLSBORGH
+    distance_km: 17.68
+- country: US
+  region: NC
+  name: Charlotte
+  lat: '35.2083'
+  long: "-80.8303"
+  nearby_rate_centers:
+  - name: CHARLOTTE
+    distance_km: 2.1
+  - name: MATTHEWS
+    distance_km: 14.06
+  - name: PINEVILLE
+    distance_km: 14.73
+- country: US
+  region: NC
+  name: Cherokee
+  lat: '35.4860'
+  long: "-83.3011"
+  nearby_rate_centers:
+  - name: CHEROKEE
+    distance_km: 1.65
+  - name: BRYSONCITY
+    distance_km: 13.73
+  - name: SYLVA
+    distance_km: 14.68
+- country: US
+  region: NC
+  name: Cherry Branch
+  lat: '34.9304'
+  long: "-76.8112"
+  nearby_rate_centers:
+  - name: HAVELOCK
+    distance_km: 11.58
+  - name: ORIENTAL
+    distance_km: 14.52
+  - name: NEWPORT
+    distance_km: 17.12
+- country: US
+  region: NC
+  name: Cherryville
+  lat: '35.3844'
+  long: "-81.3781"
+  nearby_rate_centers:
+  - name: CHERRYVL
+    distance_km: 0.48
+  - name: BESSEMERCY
+    distance_km: 14.11
+  - name: LINCOLNTON
+    distance_km: 14.8
+- country: US
+  region: NC
+  name: Chimney Rock Village
+  lat: '35.4503'
+  long: "-82.2550"
+  nearby_rate_centers:
+  - name: LAKE LURE
+    distance_km: 2.99
+  - name: FAIRVIEW
+    distance_km: 14.99
+  - name: BLACK MT
+    distance_km: 19.47
+- country: US
+  region: NC
+  name: China Grove
+  lat: '35.5720'
+  long: "-80.5791"
+  nearby_rate_centers:
+  - name: CHNGRVLNDS
+    distance_km: 0.88
+  - name: KANNAPOLIS
+    distance_km: 8.96
+  - name: GRTQRRCKWL
+    distance_km: 14.38
+- country: US
+  region: NC
+  name: Chinquapin
+  lat: '34.8318'
+  long: "-77.8207"
+  nearby_rate_centers:
+  - name: BEULAVILLE
+    distance_km: 10.29
+  - name: KENANSVL
+    distance_km: 19.3
+  - name: ROSE HILL
+    distance_km: 19.38
+- country: US
+  region: NC
+  name: Chocowinity
+  lat: '35.5148'
+  long: "-77.1017"
+  nearby_rate_centers:
+  - name: WASHINGTON
+    distance_km: 5.36
+  - name: VANCEBORO
+    distance_km: 24.42
+  - name: PINETOWN
+    distance_km: 24.46
+- country: US
+  region: NC
+  name: Chowan Beach
+  lat: '36.2142'
+  long: "-76.7107"
+  nearby_rate_centers:
+  - name: COLERAIN
+    distance_km: 5.03
+  - name: WELCH
+    distance_km: 5.45
+  - name: PINEYWOODS
+    distance_km: 17.43
+- country: US
+  region: NC
+  name: Claremont
+  lat: '35.7104'
+  long: "-81.1532"
+  nearby_rate_centers:
+  - name: CLAREMONT
+    distance_km: 0.95
+  - name: CATAWBA
+    distance_km: 7.03
+  - name: NEWTON
+    distance_km: 7.63
+- country: US
+  region: NC
+  name: Clarkton
+  lat: '34.4891'
+  long: "-78.6559"
+  nearby_rate_centers:
+  - name: CLARKTON
+    distance_km: 0.42
+  - name: ABBOTTSBG
+    distance_km: 7.55
+  - name: LISBON
+    distance_km: 11.14
+- country: US
+  region: NC
+  name: Clayton
+  lat: '35.6590'
+  long: "-78.4498"
+  nearby_rate_centers:
+  - name: CLAYTON
+    distance_km: 1.32
+  - name: KNIGHTDALE
+    distance_km: 15.25
+  - name: WENDELL
+    distance_km: 15.52
+- country: US
+  region: NC
+  name: Clemmons
+  lat: '36.0319'
+  long: "-80.3861"
+  nearby_rate_centers:
+  - name: LEWISVILLE
+    distance_km: 7.82
+  - name: ADVANCE
+    distance_km: 10.14
+  - name: WINSTN SAL
+    distance_km: 14.47
+- country: US
+  region: NC
+  name: Cleveland
+  lat: '35.7331'
+  long: "-80.6817"
+  nearby_rate_centers:
+  - name: CLEVELAND
+    distance_km: 0.36
+  - name: COOLEEMEE
+    distance_km: 13.82
+  - name: TROUTMAN
+    distance_km: 19.07
+- country: US
+  region: NC
+  name: Cliffside
+  lat: '35.2480'
+  long: "-81.7653"
+  nearby_rate_centers:
+  - name: CAROLEEN
+    distance_km: 2.94
+  - name: ELLENBORO
+    distance_km: 8.52
+  - name: LATTIMORE
+    distance_km: 12.34
+- country: US
+  region: NC
+  name: Clinton
+  lat: '35.0004'
+  long: "-78.3313"
+  nearby_rate_centers:
+  - name: CLINTON
+    distance_km: 0.59
+  - name: HERRING
+    distance_km: 11.41
+  - name: SIX RUN
+    distance_km: 12.79
+- country: US
+  region: NC
+  name: Clyde
+  lat: '35.5330'
+  long: "-82.9108"
+  nearby_rate_centers:
+  - name: CLYDE
+    distance_km: 0.11
+  - name: CANTON
+    distance_km: 6.99
+  - name: WAYNESVL
+    distance_km: 7.87
+- country: US
+  region: NC
+  name: Coats
+  lat: '35.4070'
+  long: "-78.6684"
+  nearby_rate_centers:
+  - name: BENSON
+    distance_km: 10.98
+  - name: DUNN
+    distance_km: 11.97
+  - name: DUNN-CMBLD
+    distance_km: 11.97
+  - name: ANGIER
+    distance_km: 13.71
+- country: US
+  region: NC
+  name: Cofield
+  lat: '36.3567'
+  long: "-76.9106"
+  nearby_rate_centers:
+  - name: WINTON
+    distance_km: 5.02
+  - name: AHOSKIE
+    distance_km: 9.51
+  - name: GATESVILLE
+    distance_km: 15.41
+- country: US
+  region: NC
+  name: Coinjock
+  lat: '36.3513'
+  long: "-75.9526"
+  nearby_rate_centers:
+  - name: COINJOCK
+    distance_km: 0.3
+  - name: SHILOH
+    distance_km: 14.99
+  - name: KNOTTS IS
+    distance_km: 16.67
+- country: US
+  region: NC
+  name: Colerain
+  lat: '36.2013'
+  long: "-76.7661"
+  nearby_rate_centers:
+  - name: COLERAIN
+    distance_km: 0.2
+  - name: WELCH
+    distance_km: 10.62
+  - name: EDENTON
+    distance_km: 20.59
+- country: US
+  region: NC
+  name: Columbia
+  lat: '35.9200'
+  long: "-76.2421"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance_km: 0.58
+  - name: CRESWELL
+    distance_km: 14.57
+  - name: WEEKSVILLE
+    distance_km: 32.94
+- country: US
+  region: NC
+  name: Columbus
+  lat: '35.2656'
+  long: "-82.1976"
+  nearby_rate_centers:
+  - name: COLUMBUS
+    distance_km: 1.16
+  - name: TRYON
+    distance_km: 6.36
+  - name: SALUDA
+    distance_km: 14.15
+- country: US
+  region: NC
+  name: Como
+  lat: '36.5011'
+  long: "-77.0073"
+  nearby_rate_centers:
+  - name: MURFREESBO
+    distance_km: 10.56
+  - name: WINTON
+    distance_km: 13.4
+  - name: CONWAY
+    distance_km: 20.55
+- country: US
+  region: NC
+  name: Concord
+  lat: '35.3933'
+  long: "-80.6369"
+  nearby_rate_centers:
+  - name: CONCORD
+    distance_km: 4.98
+  - name: HARRISBURG
+    distance_km: 8.4
+  - name: KANNAPOLIS
+    distance_km: 11.92
+- country: US
+  region: NC
+  name: Conetoe
+  lat: '35.8176'
+  long: "-77.4571"
+  nearby_rate_centers:
+  - name: BETHEL
+    distance_km: 7.42
+  - name: TARBORO
+    distance_km: 12.31
+  - name: PINETOPS
+    distance_km: 16.36
+- country: US
+  region: NC
+  name: Connelly Springs
+  lat: '35.7550'
+  long: "-81.4971"
+  nearby_rate_centers:
+  - name: VALDESE
+    distance_km: 6.34
+  - name: GRANITEFLS
+    distance_km: 8.04
+  - name: HILDEBRAN
+    distance_km: 8.65
+- country: US
+  region: NC
+  name: Conover
+  lat: '35.7154'
+  long: "-81.2174"
+  nearby_rate_centers:
+  - name: NEWTON
+    distance_km: 5.34
+  - name: CLAREMONT
+    distance_km: 6.29
+  - name: HICKORY
+    distance_km: 11.35
+- country: US
+  region: NC
+  name: Conway
+  lat: '36.4371'
+  long: "-77.2288"
+  nearby_rate_centers:
+  - name: CONWAY
+    distance_km: 0.83
+  - name: WOODLAND
+    distance_km: 11.5
+  - name: MURFREESBO
+    distance_km: 11.69
+- country: US
+  region: NC
+  name: Cooleemee
+  lat: '35.8125'
+  long: "-80.5563"
+  nearby_rate_centers:
+  - name: COOLEEMEE
+    distance_km: 0.56
+  - name: MOCKSVILLE
+    distance_km: 9.6
+  - name: CHURCHLAND
+    distance_km: 12.54
+- country: US
+  region: NC
+  name: Cordova
+  lat: '34.9103'
+  long: "-79.8119"
+  nearby_rate_centers:
+  - name: ROCKINGHAM
+    distance_km: 5.45
+  - name: HAMLET
+    distance_km: 10.49
+  - name: LILESVILLE
+    distance_km: 17.53
+- country: US
+  region: NC
+  name: Cornelius
+  lat: '35.4724'
+  long: "-80.8813"
+  nearby_rate_centers:
+  - name: DAVIDSON
+    distance_km: 4.38
+  - name: HUNTERSVL
+    distance_km: 8.27
+  - name: MOORESVL
+    distance_km: 13.58
+- country: US
+  region: NC
+  name: Cove City
+  lat: '35.1890'
+  long: "-77.3206"
+  nearby_rate_centers:
+  - name: TRENTON
+    distance_km: 13.81
+  - name: VANCEBORO
+    distance_km: 19.57
+  - name: GRIFTON
+    distance_km: 22.4
+- country: US
+  region: NC
+  name: Cove Creek
+  lat: '36.2763'
+  long: "-81.7829"
+  nearby_rate_centers:
+  - name: SUGARGROVE
+    distance_km: 3.95
+  - name: BOONE
+    distance_km: 11.29
+  - name: WATAUGA
+    distance_km: 12.31
+- country: US
+  region: NC
+  name: Cramerton
+  lat: '35.2343'
+  long: "-81.0734"
+  nearby_rate_centers:
+  - name: BELMONT
+    distance_km: 2.97
+  - name: LOWELL
+    distance_km: 4.23
+  - name: MOUNTHOLLY
+    distance_km: 9.57
+- country: US
+  region: NC
+  name: Creedmoor
+  lat: '36.1224'
+  long: "-78.6757"
+  nearby_rate_centers:
+  - name: CREEDMOOR
+    distance_km: 1.09
+  - name: FRANKLINTN
+    distance_km: 19.74
+  - name: WAKEFOREST
+    distance_km: 21.0
+- country: US
+  region: NC
+  name: Creswell
+  lat: '35.8743'
+  long: "-76.4031"
+  nearby_rate_centers:
+  - name: CRESWELL
+    distance_km: 1.15
+  - name: COLUMBIA
+    distance_km: 14.8
+  - name: EDENTON
+    distance_km: 28.28
+- country: US
+  region: NC
+  name: Cricket
+  lat: '36.1688'
+  long: "-81.1933"
+  nearby_rate_centers:
+  - name: NOWILKESBO
+    distance_km: 4.88
+  - name: MULBERRY
+    distance_km: 7.37
+  - name: CHAMPION
+    distance_km: 9.7
+- country: US
+  region: NC
+  name: Crossnore
+  lat: '36.0222'
+  long: "-81.9308"
+  nearby_rate_centers:
+  - name: NEWLAND
+    distance_km: 7.66
+  - name: SPRUCEPINE
+    distance_km: 16.83
+  - name: BANNER ELK
+    distance_km: 16.91
+- country: US
+  region: NC
+  name: Crouse
+  lat: '35.4214'
+  long: "-81.3027"
+  nearby_rate_centers:
+  - name: LINCOLNTON
+    distance_km: 6.97
+  - name: CHERRYVL
+    distance_km: 7.62
+  - name: BESSEMERCY
+    distance_km: 15.36
+- country: US
+  region: NC
+  name: Cullowhee
+  lat: '35.3097'
+  long: "-83.1816"
+  nearby_rate_centers:
+  - name: CULLOWHEE
+    distance_km: 1.1
+  - name: SYLVA
+    distance_km: 7.79
+  - name: CASHIERS
+    distance_km: 22.77
+- country: US
+  region: NC
+  name: Cypress Landing
+  lat: '35.4976'
+  long: "-77.0550"
+  nearby_rate_centers:
+  - name: WASHINGTON
+    distance_km: 4.91
+  - name: PINETOWN
+    distance_km: 21.78
+  - name: BATH
+    distance_km: 22.59
+- country: US
+  region: NC
+  name: Dallas
+  lat: '35.3169'
+  long: "-81.1830"
+  nearby_rate_centers:
+  - name: GASTONIA
+    distance_km: 6.29
+  - name: LOWELL
+    distance_km: 9.52
+  - name: BESSEMERCY
+    distance_km: 9.74
+- country: US
+  region: NC
+  name: Dana
+  lat: '35.3239'
+  long: "-82.3722"
+  nearby_rate_centers:
+  - name: HENDERSNVL
+    distance_km: 8.68
+  - name: SALUDA
+    distance_km: 9.3
+  - name: LAKE LURE
+    distance_km: 17.34
+- country: US
+  region: NC
+  name: Danbury
+  lat: '36.4111'
+  long: "-80.2120"
+  nearby_rate_centers:
+  - name: DANBURY
+    distance_km: 0.53
+  - name: QUAKER GAP
+    distance_km: 9.0
+  - name: SANDYRIDGE
+    distance_km: 14.1
+- country: US
+  region: NC
+  name: Davidson
+  lat: '35.4840'
+  long: "-80.8247"
+  nearby_rate_centers:
+  - name: DAVIDSON
+    distance_km: 2.84
+  - name: HUNTERSVL
+    distance_km: 8.84
+  - name: MOORESVL
+    distance_km: 11.06
+- country: US
+  region: NC
+  name: Davis
+  lat: '34.7996'
+  long: "-76.4641"
+  nearby_rate_centers:
+  - name: MARSHALLBG
+    distance_km: 6.11
+  - name: ATLANTIC
+    distance_km: 15.2
+  - name: BEAUFORT
+    distance_km: 18.77
+- country: US
+  region: NC
+  name: Deep Run
+  lat: '35.1415'
+  long: "-77.7162"
+  nearby_rate_centers:
+  - name: MOSS HILL
+    distance_km: 8.2
+  - name: PINK HILL
+    distance_km: 10.27
+  - name: KINSTON
+    distance_km: 18.18
+- country: US
+  region: NC
+  name: Deercroft
+  lat: '34.9592'
+  long: "-79.4352"
+  nearby_rate_centers:
+  - name: WAGRAM
+    distance_km: 9.68
+  - name: PINEBLUFF
+    distance_km: 17.15
+  - name: RAEFORD
+    distance_km: 18.36
+- country: US
+  region: NC
+  name: Delco
+  lat: '34.3188'
+  long: "-78.2267"
+  nearby_rate_centers:
+  - name: ACME
+    distance_km: 1.99
+  - name: KELLY
+    distance_km: 17.85
+  - name: ATKINSON
+    distance_km: 23.45
+- country: US
+  region: NC
+  name: Dellview
+  lat: '35.3865'
+  long: "-81.4127"
+  nearby_rate_centers:
+  - name: CHERRYVL
+    distance_km: 3.62
+  - name: LAWNDALE
+    distance_km: 13.66
+  - name: SHELBY
+    distance_km: 16.16
+- country: US
+  region: NC
+  name: Delway
+  lat: '34.8102'
+  long: "-78.2169"
+  nearby_rate_centers:
+  - name: HARRELLS
+    distance_km: 8.28
+  - name: GARLAND
+    distance_km: 16.85
+  - name: ROSE HILL
+    distance_km: 16.96
+- country: US
+  region: NC
+  name: Denton
+  lat: '35.6378'
+  long: "-80.1106"
+  nearby_rate_centers:
+  - name: DENTON
+    distance_km: 0.58
+  - name: FARMER
+    distance_km: 8.2
+  - name: JACKSONCRK
+    distance_km: 11.75
+- country: US
+  region: NC
+  name: Denver
+  lat: '35.5344'
+  long: "-81.0340"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 0.17
+  - name: SHERILLSFD
+    distance_km: 10.48
+  - name: DAVIDSON
+    distance_km: 17.23
+- country: US
+  region: NC
+  name: Dillsboro
+  lat: '35.3706'
+  long: "-83.2527"
+  nearby_rate_centers:
+  - name: SYLVA
+    distance_km: 3.49
+  - name: CULLOWHEE
+    distance_km: 9.03
+  - name: CHEROKEE
+    distance_km: 13.91
+- country: US
+  region: NC
+  name: Dobbins Heights
+  lat: '34.9068'
+  long: "-79.6933"
+  nearby_rate_centers:
+  - name: HAMLET
+    distance_km: 1.9
+  - name: ROCKINGHAM
+    distance_km: 7.67
+  - name: LAURELHILL
+    distance_km: 17.44
+- country: US
+  region: NC
+  name: Dobson
+  lat: '36.3928'
+  long: "-80.7245"
+  nearby_rate_centers:
+  - name: DOBSON
+    distance_km: 0.92
+  - name: BEULAH
+    distance_km: 9.68
+  - name: ZEPHYR
+    distance_km: 10.23
+- country: US
+  region: NC
+  name: Dortches
+  lat: '36.0114'
+  long: "-77.8572"
+  nearby_rate_centers:
+  - name: ROCKYMOUNT
+    distance_km: 9.51
+  - name: NASHVILLE
+    distance_km: 11.12
+  - name: WHITAKERS
+    distance_km: 16.88
+- country: US
+  region: NC
+  name: Dover
+  lat: '35.2155'
+  long: "-77.4338"
+  nearby_rate_centers:
+  - name: KINSTON
+    distance_km: 13.52
+  - name: GRIFTON
+    distance_km: 16.88
+  - name: TRENTON
+    distance_km: 18.13
+- country: US
+  region: NC
+  name: Drexel
+  lat: '35.7568'
+  long: "-81.6088"
+  nearby_rate_centers:
+  - name: VALDESE
+    distance_km: 3.83
+  - name: MORGANTON
+    distance_km: 6.95
+  - name: GRANITEFLS
+    distance_km: 17.17
+- country: US
+  region: NC
+  name: Dublin
+  lat: '34.6562'
+  long: "-78.7231"
+  nearby_rate_centers:
+  - name: ELIZABTHTN
+    distance_km: 10.13
+  - name: WHITE OAK
+    distance_km: 10.45
+  - name: BLADENBORO
+    distance_km: 14.03
+- country: US
+  region: NC
+  name: Duck
+  lat: '36.1836'
+  long: "-75.7559"
+  nearby_rate_centers:
+  - name: MAMIE
+    distance_km: 9.88
+  - name: KLDEVILHLS
+    distance_km: 21.55
+  - name: COINJOCK
+    distance_km: 25.37
+- country: US
+  region: NC
+  name: Dudley
+  lat: '35.2661'
+  long: "-78.0382"
+  nearby_rate_centers:
+  - name: MOUNTOLIVE
+    distance_km: 7.66
+  - name: GRANTHAM
+    distance_km: 11.73
+  - name: GOLDSBORO
+    distance_km: 13.92
+- country: US
+  region: NC
+  name: Dundarrach
+  lat: '34.9247'
+  long: "-79.1575"
+  nearby_rate_centers:
+  - name: RAEFORD
+    distance_km: 9.62
+  - name: REDSPRINGS
+    distance_km: 11.98
+  - name: PARKTON
+    distance_km: 13.24
+- country: US
+  region: NC
+  name: Dunn
+  lat: '35.3114'
+  long: "-78.6129"
+  nearby_rate_centers:
+  - name: DUNN
+    distance_km: 0.58
+  - name: DUNN-CMBLD
+    distance_km: 0.58
+  - name: BENSON
+    distance_km: 9.6
+  - name: COHARIE
+    distance_km: 16.56
+- country: US
+  region: NC
+  name: Durham
+  lat: '35.9792'
+  long: "-78.9022"
+  nearby_rate_centers:
+  - name: DURHAM
+    distance_km: 1.74
+  - name: DURHAM1
+    distance_km: 1.74
+  - name: DURHAM2
+    distance_km: 1.74
+  - name: CHAPELHILL
+    distance_km: 16.08
+  - name: HILLSBORGH
+    distance_km: 21.32
+- country: US
+  region: NC
+  name: Earl
+  lat: '35.1954'
+  long: "-81.5340"
+  nearby_rate_centers:
+  - name: GROVER
+    distance_km: 8.29
+  - name: SHELBY
+    distance_km: 9.9
+  - name: LATTIMORE
+    distance_km: 17.71
+- country: US
+  region: NC
+  name: East Arcadia
+  lat: '34.3816'
+  long: "-78.3231"
+  nearby_rate_centers:
+  - name: KELLY
+    distance_km: 8.86
+  - name: ACME
+    distance_km: 12.51
+  - name: LKWACCAMAW
+    distance_km: 19.08
+- country: US
+  region: NC
+  name: East Bend
+  lat: '36.2178'
+  long: "-80.5085"
+  nearby_rate_centers:
+  - name: EAST BEND
+    distance_km: 0.4
+  - name: FORBUSH
+    distance_km: 6.39
+  - name: SHOALS
+    distance_km: 6.48
+- country: US
+  region: NC
+  name: East Flat Rock
+  lat: '35.2802'
+  long: "-82.4171"
+  nearby_rate_centers:
+  - name: HENDERSNVL
+    distance_km: 6.01
+  - name: SALUDA
+    distance_km: 7.37
+  - name: TRYON
+    distance_km: 18.22
+- country: US
+  region: NC
+  name: East Laurinburg
+  lat: '34.7691'
+  long: "-79.4450"
+  nearby_rate_centers:
+  - name: LAURINBURG
+    distance_km: 1.79
+  - name: MAXTON
+    distance_km: 9.47
+  - name: LAURELHILL
+    distance_km: 10.07
+- country: US
+  region: NC
+  name: East Rockingham
+  lat: '34.9116'
+  long: "-79.7661"
+  nearby_rate_centers:
+  - name: ROCKINGHAM
+    distance_km: 3.34
+  - name: HAMLET
+    distance_km: 6.51
+  - name: ELLERBE
+    distance_km: 17.26
+- country: US
+  region: NC
+  name: East Spencer
+  lat: '35.6816'
+  long: "-80.4228"
+  nearby_rate_centers:
+  - name: SALISBURY
+    distance_km: 3.71
+  - name: GRTQRRCKWL
+    distance_km: 11.93
+  - name: CHURCHLAND
+    distance_km: 12.15
+- country: US
+  region: NC
+  name: Eastover
+  lat: '35.0959'
+  long: "-78.7862"
+  nearby_rate_centers:
+  - name: FAYETTEVL
+    distance_km: 10.58
+  - name: COHARIE
+    distance_km: 21.27
+  - name: DUNN
+    distance_km: 28.11
+  - name: DUNN-CMBLD
+    distance_km: 28.11
+- country: US
+  region: NC
+  name: Eden
+  lat: '36.5027'
+  long: "-79.7412"
+  nearby_rate_centers:
+  - name: EDEN
+    distance_km: 2.63
+  - name: STONEVILLE
+    distance_km: 15.59
+  - name: REIDSVILLE
+    distance_km: 17.42
+- country: US
+  region: NC
+  name: Edenton
+  lat: '36.0579'
+  long: "-76.6008"
+  nearby_rate_centers:
+  - name: EDENTON
+    distance_km: 1.2
+  - name: HERTFORD
+    distance_km: 17.96
+  - name: WELCH
+    distance_km: 19.33
+- country: US
+  region: NC
+  name: Edneyville
+  lat: '35.4025'
+  long: "-82.3372"
+  nearby_rate_centers:
+  - name: LAKE LURE
+    distance_km: 9.97
+  - name: FAIRVIEW
+    distance_km: 13.94
+  - name: HENDERSNVL
+    distance_km: 15.25
+- country: US
+  region: NC
+  name: Efland
+  lat: '36.0806'
+  long: "-79.1718"
+  nearby_rate_centers:
+  - name: HILLSBORGH
+    distance_km: 5.88
+  - name: MEBANE
+    distance_km: 8.55
+  - name: PROSPECTHL
+    distance_km: 18.96
+- country: US
+  region: NC
+  name: Elizabeth City
+  lat: '36.2942'
+  long: "-76.2360"
+  nearby_rate_centers:
+  - name: ELIZABTHCY
+    distance_km: 1.18
+  - name: WOODVILLE
+    distance_km: 10.1
+  - name: WEEKSVILLE
+    distance_km: 12.39
+- country: US
+  region: NC
+  name: Elizabethtown
+  lat: '34.6219'
+  long: "-78.6074"
+  nearby_rate_centers:
+  - name: ELIZABTHTN
+    distance_km: 1.12
+  - name: LISBON
+    distance_km: 13.32
+  - name: CLARKTON
+    distance_km: 15.06
+- country: US
+  region: NC
+  name: Elk Park
+  lat: '36.1582'
+  long: "-81.9808"
+  nearby_rate_centers:
+  - name: NEWLAND
+    distance_km: 8.84
+  - name: BANNER ELK
+    distance_km: 9.37
+  - name: BEECH MT
+    distance_km: 10.17
+- country: US
+  region: NC
+  name: Elkin
+  lat: '36.2621'
+  long: "-80.8443"
+  nearby_rate_centers:
+  - name: ELKIN
+    distance_km: 2.31
+  - name: STATE ROAD
+    distance_km: 6.88
+  - name: ZEPHYR
+    distance_km: 9.0
+- country: US
+  region: NC
+  name: Ellenboro
+  lat: '35.3309'
+  long: "-81.7612"
+  nearby_rate_centers:
+  - name: ELLENBORO
+    distance_km: 0.73
+  - name: CAROLEEN
+    distance_km: 7.82
+  - name: LATTIMORE
+    distance_km: 9.36
+- country: US
+  region: NC
+  name: Ellerbe
+  lat: '35.0718'
+  long: "-79.7595"
+  nearby_rate_centers:
+  - name: ELLERBE
+    distance_km: 0.69
+  - name: ROCKINGHAM
+    distance_km: 14.48
+  - name: HAMLET
+    distance_km: 20.89
+- country: US
+  region: NC
+  name: Elm City
+  lat: '35.8044'
+  long: "-77.8561"
+  nearby_rate_centers:
+  - name: ELM CITY
+    distance_km: 0.28
+  - name: WILSON
+    distance_km: 9.98
+  - name: ROCKYMOUNT
+    distance_km: 16.0
+- country: US
+  region: NC
+  name: Elon
+  lat: '36.1016'
+  long: "-79.5086"
+  nearby_rate_centers:
+  - name: GIBSONVL
+    distance_km: 2.98
+  - name: BURLINGTON
+    distance_km: 6.86
+  - name: KIMESVILLE
+    distance_km: 17.3
+- country: US
+  region: NC
+  name: Elrod
+  lat: '34.6072'
+  long: "-79.2307"
+  nearby_rate_centers:
+  - name: PEMBROKE
+    distance_km: 9.11
+  - name: ROWLAND
+    distance_km: 9.95
+  - name: FAIRMONT
+    distance_km: 16.58
+- country: US
+  region: NC
+  name: Elroy
+  lat: '35.3308'
+  long: "-77.9226"
+  nearby_rate_centers:
+  - name: GOLDSBORO
+    distance_km: 8.53
+  - name: LA GRANGE
+    distance_km: 13.09
+  - name: MOUNTOLIVE
+    distance_km: 19.38
+- country: US
+  region: NC
+  name: Emerald Isle
+  lat: '34.6648'
+  long: "-77.0292"
+  nearby_rate_centers:
+  - name: SWANSBORO
+    distance_km: 9.33
+  - name: SWNSBRWCAR
+    distance_km: 9.33
+  - name: NEWPORT
+    distance_km: 20.35
+  - name: HAVELOCK
+    distance_km: 26.33
+- country: US
+  region: NC
+  name: Emma
+  lat: '35.6019'
+  long: "-82.5958"
+  nearby_rate_centers:
+  - name: ASHEVILLE
+    distance_km: 3.36
+  - name: ENKACANDLR
+    distance_km: 7.62
+  - name: LEICESTER
+    distance_km: 10.99
+- country: US
+  region: NC
+  name: Enfield
+  lat: '36.1800'
+  long: "-77.6690"
+  nearby_rate_centers:
+  - name: ENFIELD
+    distance_km: 0.38
+  - name: WHITAKERS
+    distance_km: 8.85
+  - name: HALIFAX
+    distance_km: 18.44
+- country: US
+  region: NC
+  name: Engelhard
+  lat: '35.5092'
+  long: "-76.0095"
+  nearby_rate_centers:
+  - name: ENGELHARD
+    distance_km: 0.97
+  - name: SWANQUARTR
+    distance_km: 31.75
+  - name: OCRACOKE
+    distance_km: 43.61
+- country: US
+  region: NC
+  name: Enochville
+  lat: '35.5205'
+  long: "-80.6644"
+  nearby_rate_centers:
+  - name: KANNAPOLIS
+    distance_km: 4.36
+  - name: CHNGRVLNDS
+    distance_km: 9.71
+  - name: CONCORD
+    distance_km: 15.56
+- country: US
+  region: NC
+  name: Erwin
+  lat: '35.3226'
+  long: "-78.6733"
+  nearby_rate_centers:
+  - name: DUNN
+    distance_km: 5.34
+  - name: DUNN-CMBLD
+    distance_km: 5.34
+  - name: BENSON
+    distance_km: 12.86
+  - name: LILLINGTON
+    distance_km: 15.8
+- country: US
+  region: NC
+  name: Etowah
+  lat: '35.3061'
+  long: "-82.5902"
+  nearby_rate_centers:
+  - name: HENDERSNVL
+    distance_km: 11.2
+  - name: BREVARD
+    distance_km: 15.53
+  - name: ARDEN
+    distance_km: 20.49
+- country: US
+  region: NC
+  name: Eureka
+  lat: '35.5414'
+  long: "-77.8763"
+  nearby_rate_centers:
+  - name: STANTONSBG
+    distance_km: 8.79
+  - name: FREMONT
+    distance_km: 9.02
+  - name: LUCAMA
+    distance_km: 16.46
+- country: US
+  region: NC
+  name: Everetts
+  lat: '35.8346'
+  long: "-77.1721"
+  nearby_rate_centers:
+  - name: ROBERSONVL
+    distance_km: 7.8
+  - name: WILLIAMSTN
+    distance_km: 10.2
+  - name: HAMILTON
+    distance_km: 12.48
+- country: US
+  region: NC
+  name: Evergreen
+  lat: '34.4149'
+  long: "-78.9114"
+  nearby_rate_centers:
+  - name: CHADBOURN
+    distance_km: 12.93
+  - name: FAIR BLUFF
+    distance_km: 15.43
+  - name: BLADENBORO
+    distance_km: 18.04
+- country: US
+  region: NC
+  name: Fair Bluff
+  lat: '34.3126'
+  long: "-79.0333"
+  nearby_rate_centers:
+  - name: FAIR BLUFF
+    distance_km: 0.64
+  - name: CHADBOURN
+    distance_km: 19.47
+  - name: FAIRMONT
+    distance_km: 21.39
+- country: US
+  region: NC
+  name: Fairfield
+  lat: '35.5471'
+  long: "-76.2261"
+  nearby_rate_centers:
+  - name: SWANQUARTR
+    distance_km: 19.1
+  - name: ENGELHARD
+    distance_km: 21.0
+  - name: BELHAVEN
+    distance_km: 35.26
+- country: US
+  region: NC
+  name: Fairfield Harbour
+  lat: '35.0706'
+  long: "-76.9571"
+  nearby_rate_centers:
+  - name: NEW BERN
+    distance_km: 10.11
+  - name: BAYBORO
+    distance_km: 18.81
+  - name: HAVELOCK
+    distance_km: 20.73
+- country: US
+  region: NC
+  name: Fairmont
+  lat: '34.4947'
+  long: "-79.1136"
+  nearby_rate_centers:
+  - name: FAIRMONT
+    distance_km: 0.2
+  - name: ROWLAND
+    distance_km: 17.08
+  - name: LUMBERTON
+    distance_km: 17.6
+- country: US
+  region: NC
+  name: Fairplains
+  lat: '36.1954'
+  long: "-81.1559"
+  nearby_rate_centers:
+  - name: NOWILKESBO
+    distance_km: 3.53
+  - name: MULBERRY
+    distance_km: 4.55
+  - name: HAYS
+    distance_km: 6.77
+- country: US
+  region: NC
+  name: Fairview
+  lat: '35.1545'
+  long: "-80.5345"
+  nearby_rate_centers:
+  - name: GOOSECREEK
+    distance_km: 2.96
+  - name: HEMBY BDG
+    distance_km: 9.87
+  - name: LOCUST
+    distance_km: 14.58
+- country: US
+  region: NC
+  name: Faison
+  lat: '35.1164'
+  long: "-78.1360"
+  nearby_rate_centers:
+  - name: FAISON
+    distance_km: 0.84
+  - name: MOUNTOLIVE
+    distance_km: 11.4
+  - name: SIX RUN
+    distance_km: 11.53
+- country: US
+  region: NC
+  name: Faith
+  lat: '35.5901'
+  long: "-80.4581"
+  nearby_rate_centers:
+  - name: GRTQRRCKWL
+    distance_km: 3.86
+  - name: SALISBURY
+    distance_km: 8.22
+  - name: CHNGRVLNDS
+    distance_km: 10.72
+- country: US
+  region: NC
+  name: Falcon
+  lat: '35.1936'
+  long: "-78.6512"
+  nearby_rate_centers:
+  - name: COHARIE
+    distance_km: 8.04
+  - name: DUNN
+    distance_km: 13.06
+  - name: DUNN-CMBLD
+    distance_km: 13.06
+  - name: BENSON
+    distance_km: 22.79
+- country: US
+  region: NC
+  name: Falkland
+  lat: '35.6986'
+  long: "-77.5129"
+  nearby_rate_centers:
+  - name: FOUNTAIN
+    distance_km: 12.1
+  - name: FARMVILLE
+    distance_km: 13.47
+  - name: PINETOPS
+    distance_km: 14.53
+- country: US
+  region: NC
+  name: Fallston
+  lat: '35.4288'
+  long: "-81.5023"
+  nearby_rate_centers:
+  - name: LAWNDALE
+    distance_km: 5.24
+  - name: CHERRYVL
+    distance_km: 12.75
+  - name: SHELBY
+    distance_km: 16.42
+- country: US
+  region: NC
+  name: Farmington
+  lat: '36.0128'
+  long: "-80.5329"
+  nearby_rate_centers:
+  - name: COURTNEY
+    distance_km: 9.39
+  - name: MOCKSVILLE
+    distance_km: 12.85
+  - name: IJAMES
+    distance_km: 13.41
+- country: US
+  region: NC
+  name: Farmville
+  lat: '35.5951'
+  long: "-77.5907"
+  nearby_rate_centers:
+  - name: FARMVILLE
+    distance_km: 0.81
+  - name: FOUNTAIN
+    distance_km: 10.03
+  - name: SNOW HILL
+    distance_km: 17.52
+- country: US
+  region: NC
+  name: Fayetteville
+  lat: '35.0850'
+  long: "-78.9772"
+  nearby_rate_centers:
+  - name: FAYETTEVL
+    distance_km: 8.44
+  - name: PARKTON
+    distance_km: 21.05
+  - name: RAEFORD
+    distance_km: 26.15
+- country: US
+  region: NC
+  name: Fearrington Village
+  lat: '35.7996'
+  long: "-79.0818"
+  nearby_rate_centers:
+  - name: CHAPELHILL
+    distance_km: 12.34
+  - name: PITTSBORO
+    distance_km: 12.87
+  - name: APEX
+    distance_km: 22.68
+- country: US
+  region: NC
+  name: Five Points
+  lat: '35.0154'
+  long: "-79.3513"
+  nearby_rate_centers:
+  - name: RAEFORD
+    distance_km: 11.13
+  - name: WAGRAM
+    distance_km: 13.61
+  - name: ABERDEEN
+    distance_km: 14.61
+- country: US
+  region: NC
+  name: Flat Rock
+  lat: '35.2678'
+  long: "-82.4526"
+  nearby_rate_centers:
+  - name: HENDERSNVL
+    distance_km: 5.47
+  - name: SALUDA
+    distance_km: 9.68
+  - name: TRYON
+    distance_km: 20.8
+- country: US
+  region: NC
+  name: Fletcher
+  lat: '35.4316'
+  long: "-82.5039"
+  nearby_rate_centers:
+  - name: ARDEN
+    distance_km: 5.86
+  - name: HENDERSNVL
+    distance_km: 13.33
+  - name: FAIRVIEW
+    distance_km: 13.5
+- country: US
+  region: NC
+  name: Fontana Dam
+  lat: '35.4328'
+  long: "-83.8248"
+  nearby_rate_centers:
+  - name: FONTANAVLG
+    distance_km: 1.03
+  - name: ROBBINSVL
+    distance_km: 12.22
+  - name: ANDREWS
+    distance_km: 25.86
+- country: US
+  region: NC
+  name: Forest City
+  lat: '35.3339'
+  long: "-81.8702"
+  nearby_rate_centers:
+  - name: FORESTCITY
+    distance_km: 1.24
+  - name: RUTHEFRDTN
+    distance_km: 8.78
+  - name: ELLENBORO
+    distance_km: 10.12
+- country: US
+  region: NC
+  name: Forest Hills
+  lat: '35.2958'
+  long: "-83.1955"
+  nearby_rate_centers:
+  - name: CULLOWHEE
+    distance_km: 3.08
+  - name: SYLVA
+    distance_km: 8.91
+  - name: FRANKLIN
+    distance_km: 21.1
+- country: US
+  region: NC
+  name: Forest Oaks
+  lat: '35.9889'
+  long: "-79.7079"
+  nearby_rate_centers:
+  - name: JULIAN
+    distance_km: 9.89
+  - name: GREENSBORO
+    distance_km: 11.71
+  - name: KIMESVILLE
+    distance_km: 14.73
+- country: US
+  region: NC
+  name: Foscoe
+  lat: '36.1535'
+  long: "-81.7737"
+  nearby_rate_centers:
+  - name: WATAUGA
+    distance_km: 1.63
+  - name: BLOWING RK
+    distance_km: 8.32
+  - name: BANNER ELK
+    distance_km: 9.43
+- country: US
+  region: NC
+  name: Fountain
+  lat: '35.6721'
+  long: "-77.6317"
+  nearby_rate_centers:
+  - name: FOUNTAIN
+    distance_km: 1.1
+  - name: FARMVILLE
+    distance_km: 9.98
+  - name: PINETOPS
+    distance_km: 12.53
+- country: US
+  region: NC
+  name: Four Oaks
+  lat: '35.4449'
+  long: "-78.4159"
+  nearby_rate_centers:
+  - name: FOUR OAKS
+    distance_km: 1.87
+  - name: SMITHFIELD
+    distance_km: 10.31
+  - name: BENSON
+    distance_km: 14.14
+- country: US
+  region: NC
+  name: Foxfire
+  lat: '35.1791'
+  long: "-79.5639"
+  nearby_rate_centers:
+  - name: WEST END
+    distance_km: 6.75
+  - name: PINEHURST
+    distance_km: 8.34
+  - name: PINEBLUFF
+    distance_km: 11.11
+- country: US
+  region: NC
+  name: Franklin
+  lat: '35.1798'
+  long: "-83.3809"
+  nearby_rate_centers:
+  - name: FRANKLIN
+    distance_km: 0.46
+  - name: HIGHLANDS
+    distance_km: 21.34
+  - name: CULLOWHEE
+    distance_km: 24.16
+- country: US
+  region: NC
+  name: Franklinton
+  lat: '36.1012'
+  long: "-78.4551"
+  nearby_rate_centers:
+  - name: FRANKLINTN
+    distance_km: 0.39
+  - name: LOUISBURG
+    distance_km: 14.0
+  - name: WAKEFOREST
+    distance_km: 14.33
+- country: US
+  region: NC
+  name: Franklinville
+  lat: '35.7421'
+  long: "-79.6893"
+  nearby_rate_centers:
+  - name: RAMSEUR
+    distance_km: 3.2
+  - name: ASHEBORO
+    distance_km: 12.12
+  - name: COLERIDGE
+    distance_km: 12.75
+- country: US
+  region: NC
+  name: Fremont
+  lat: '35.5436'
+  long: "-77.9751"
+  nearby_rate_centers:
+  - name: FREMONT
+    distance_km: 0.17
+  - name: LUCAMA
+    distance_km: 11.43
+  - name: KENLY
+    distance_km: 14.61
+- country: US
+  region: NC
+  name: Frisco
+  lat: '35.2437'
+  long: "-75.6018"
+  nearby_rate_centers:
+  - name: BUXTON
+    distance_km: 5.77
+  - name: WAVES
+    distance_km: 37.35
+  - name: OCRACOKE
+    distance_km: 37.45
+- country: US
+  region: NC
+  name: Fruitland
+  lat: '35.3928'
+  long: "-82.4119"
+  nearby_rate_centers:
+  - name: HENDERSNVL
+    distance_km: 9.95
+  - name: FAIRVIEW
+    distance_km: 13.92
+  - name: ARDEN
+    distance_km: 14.12
+- country: US
+  region: NC
+  name: Fuquay-Varina
+  lat: '35.5953'
+  long: "-78.7778"
+  nearby_rate_centers:
+  - name: FUQUAYVRIN
+    distance_km: 2.19
+  - name: ANGIER
+    distance_km: 9.75
+  - name: APEX
+    distance_km: 15.84
+- country: US
+  region: NC
+  name: Gamewell
+  lat: '35.8640'
+  long: "-81.5978"
+  nearby_rate_centers:
+  - name: LENOIR
+    distance_km: 8.21
+  - name: VALDESE
+    distance_km: 12.93
+  - name: MORGANTON
+    distance_km: 15.43
+- country: US
+  region: NC
+  name: Garland
+  lat: '34.7859'
+  long: "-78.3947"
+  nearby_rate_centers:
+  - name: GARLAND
+    distance_km: 0.4
+  - name: CYPRESSCRK
+    distance_km: 12.26
+  - name: HARRELLS
+    distance_km: 17.1
+- country: US
+  region: NC
+  name: Garner
+  lat: '35.6936'
+  long: "-78.6181"
+  nearby_rate_centers:
+  - name: RAL DUR AP
+    distance_km: 10.64
+  - name: RALEIGH
+    distance_km: 10.64
+  - name: CLAYTON
+    distance_km: 15.35
+  - name: KNIGHTDALE
+    distance_km: 16.56
+- country: US
+  region: NC
+  name: Garysburg
+  lat: '36.4479'
+  long: "-77.5603"
+  nearby_rate_centers:
+  - name: WELDON
+    distance_km: 4.14
+  - name: ROANOKERPD
+    distance_km: 9.02
+  - name: SEABOARD
+    distance_km: 12.3
+- country: US
+  region: NC
+  name: Gaston
+  lat: '36.4965'
+  long: "-77.6449"
+  nearby_rate_centers:
+  - name: ROANOKERPD
+    distance_km: 4.24
+  - name: WELDON
+    distance_km: 8.77
+  - name: SEABOARD
+    distance_km: 18.86
+- country: US
+  region: NC
+  name: Gastonia
+  lat: '35.2494'
+  long: "-81.1854"
+  nearby_rate_centers:
+  - name: GASTONIA
+    distance_km: 1.25
+  - name: LOWELL
+    distance_km: 8.14
+  - name: SCRWDRSCRK
+    distance_km: 9.28
+- country: US
+  region: NC
+  name: Gatesville
+  lat: '36.4072'
+  long: "-76.7566"
+  nearby_rate_centers:
+  - name: GATESVILLE
+    distance_km: 0.53
+  - name: SUNBURY
+    distance_km: 13.86
+  - name: WINTON
+    distance_km: 15.1
+- country: US
+  region: NC
+  name: Germanton
+  lat: '36.2587'
+  long: "-80.2360"
+  nearby_rate_centers:
+  - name: RURAL HALL
+    distance_km: 5.39
+  - name: STANLEYVL
+    distance_km: 7.96
+  - name: WALNUTCOVE
+    distance_km: 8.59
+- country: US
+  region: NC
+  name: Gerton
+  lat: '35.4758'
+  long: "-82.3504"
+  nearby_rate_centers:
+  - name: FAIRVIEW
+    distance_km: 6.36
+  - name: LAKE LURE
+    distance_km: 11.8
+  - name: SWANNANOA
+    distance_km: 14.24
+- country: US
+  region: NC
+  name: Gibson
+  lat: '34.7595'
+  long: "-79.6069"
+  nearby_rate_centers:
+  - name: GIBSON
+    distance_km: 0.37
+  - name: LAURELHILL
+    distance_km: 7.91
+  - name: LAURINBURG
+    distance_km: 13.04
+- country: US
+  region: NC
+  name: Gibsonville
+  lat: '36.0993'
+  long: "-79.5415"
+  nearby_rate_centers:
+  - name: GIBSONVL
+    distance_km: 0.95
+  - name: BURLINGTON
+    distance_km: 9.75
+  - name: KIMESVILLE
+    distance_km: 16.64
+- country: US
+  region: NC
+  name: Glen Alpine
+  lat: '35.7307'
+  long: "-81.7826"
+  nearby_rate_centers:
+  - name: MORGANTON
+    distance_km: 9.01
+  - name: VALDESE
+    distance_km: 19.57
+  - name: MARION
+    distance_km: 20.16
+- country: US
+  region: NC
+  name: Glen Raven
+  lat: '36.1246'
+  long: "-79.4649"
+  nearby_rate_centers:
+  - name: BURLINGTON
+    distance_km: 4.77
+  - name: GIBSONVL
+    distance_km: 7.07
+  - name: MEBANE
+    distance_km: 18.26
+- country: US
+  region: NC
+  name: Glenville
+  lat: '35.1718'
+  long: "-83.1273"
+  nearby_rate_centers:
+  - name: CASHIERS
+    distance_km: 6.67
+  - name: HIGHLANDS
+    distance_km: 14.27
+  - name: CULLOWHEE
+    distance_km: 16.92
+- country: US
+  region: NC
+  name: Glenwood
+  lat: '35.6161'
+  long: "-81.9833"
+  nearby_rate_centers:
+  - name: GLENWDPDNC
+    distance_km: 0.5
+  - name: MARION
+    distance_km: 8.54
+  - name: GARDENCITY
+    distance_km: 11.77
+- country: US
+  region: NC
+  name: Gloucester
+  lat: '34.7292'
+  long: "-76.5391"
+  nearby_rate_centers:
+  - name: MARSHALLBG
+    distance_km: 4.6
+  - name: BEAUFORT
+    distance_km: 9.95
+  - name: MOREHEADCY
+    distance_km: 17.28
+- country: US
+  region: NC
+  name: Godwin
+  lat: '35.2134'
+  long: "-78.6770"
+  nearby_rate_centers:
+  - name: COHARIE
+    distance_km: 11.09
+  - name: DUNN
+    distance_km: 11.8
+  - name: DUNN-CMBLD
+    distance_km: 11.8
+  - name: BENSON
+    distance_km: 21.91
+- country: US
+  region: NC
+  name: Gold Hill
+  lat: '35.5254'
+  long: "-80.3452"
+  nearby_rate_centers:
+  - name: GRTQRRCKWL
+    distance_km: 8.69
+  - name: NEW LONDON
+    distance_km: 14.48
+  - name: MTPLEASANT
+    distance_km: 15.84
+- country: US
+  region: NC
+  name: Goldsboro
+  lat: '35.3778'
+  long: "-77.9717"
+  nearby_rate_centers:
+  - name: GOLDSBORO
+    distance_km: 1.79
+  - name: FREMONT
+    distance_km: 18.29
+  - name: LA GRANGE
+    distance_km: 18.92
+- country: US
+  region: NC
+  name: Goldston
+  lat: '35.5929'
+  long: "-79.3286"
+  nearby_rate_centers:
+  - name: GOLDSTON
+    distance_km: 0.82
+  - name: BONLEE
+    distance_km: 10.37
+  - name: SANFORD
+    distance_km: 18.71
+- country: US
+  region: NC
+  name: Gorman
+  lat: '36.0417'
+  long: "-78.8092"
+  nearby_rate_centers:
+  - name: DURHAM
+    distance_km: 10.44
+  - name: DURHAM1
+    distance_km: 10.44
+  - name: DURHAM2
+    distance_km: 10.44
+  - name: CREEDMOOR
+    distance_km: 13.94
+  - name: CHAPELHILL
+    distance_km: 26.85
+- country: US
+  region: NC
+  name: Governors Club
+  lat: '35.8437'
+  long: "-79.0454"
+  nearby_rate_centers:
+  - name: CHAPELHILL
+    distance_km: 7.35
+  - name: PITTSBORO
+    distance_km: 18.69
+  - name: DURHAM
+    distance_km: 20.72
+  - name: DURHAM1
+    distance_km: 20.72
+  - name: DURHAM2
+    distance_km: 20.72
+- country: US
+  region: NC
+  name: Governors Village
+  lat: '35.8519'
+  long: "-79.0258"
+  nearby_rate_centers:
+  - name: CHAPELHILL
+    distance_km: 6.99
+  - name: DURHAM
+    distance_km: 18.96
+  - name: DURHAM1
+    distance_km: 18.96
+  - name: DURHAM2
+    distance_km: 18.96
+  - name: PITTSBORO
+    distance_km: 20.56
+- country: US
+  region: NC
+  name: Graham
+  lat: '36.0589'
+  long: "-79.3894"
+  nearby_rate_centers:
+  - name: BURLINGTON
+    distance_km: 5.26
+  - name: MEBANE
+    distance_km: 12.12
+  - name: SAXAPAHAW
+    distance_km: 14.51
+- country: US
+  region: NC
+  name: Graingers
+  lat: '35.3164'
+  long: "-77.5066"
+  nearby_rate_centers:
+  - name: GRIFTON
+    distance_km: 8.6
+  - name: KINSTON
+    distance_km: 9.04
+  - name: AYDEN
+    distance_km: 18.62
+- country: US
+  region: NC
+  name: Grandy
+  lat: '36.2341'
+  long: "-75.8785"
+  nearby_rate_centers:
+  - name: MAMIE
+    distance_km: 12.56
+  - name: COINJOCK
+    distance_km: 14.36
+  - name: SHILOH
+    distance_km: 19.19
+- country: US
+  region: NC
+  name: Granite Falls
+  lat: '35.7970'
+  long: "-81.4237"
+  nearby_rate_centers:
+  - name: GRANITEFLS
+    distance_km: 0.19
+  - name: HILDEBRAN
+    distance_km: 8.98
+  - name: HICKORY
+    distance_km: 10.23
+- country: US
+  region: NC
+  name: Granite Quarry
+  lat: '35.6131'
+  long: "-80.4489"
+  nearby_rate_centers:
+  - name: GRTQRRCKWL
+    distance_km: 5.04
+  - name: SALISBURY
+    distance_km: 5.71
+  - name: CHNGRVLNDS
+    distance_km: 12.37
+- country: US
+  region: NC
+  name: Grantsboro
+  lat: '35.1449'
+  long: "-76.8447"
+  nearby_rate_centers:
+  - name: BAYBORO
+    distance_km: 6.93
+  - name: AURORA
+    distance_km: 17.96
+  - name: ORIENTAL
+    distance_km: 18.6
+- country: US
+  region: NC
+  name: Green Level
+  lat: '36.1233'
+  long: "-79.3463"
+  nearby_rate_centers:
+  - name: MEBANE
+    distance_km: 7.86
+  - name: BURLINGTON
+    distance_km: 8.68
+  - name: ANDERSON
+    distance_km: 15.96
+- country: US
+  region: NC
+  name: Greenevers
+  lat: '34.8271'
+  long: "-77.9251"
+  nearby_rate_centers:
+  - name: ROSE HILL
+    distance_km: 9.87
+  - name: WALLACE
+    distance_km: 12.59
+  - name: KENANSVL
+    distance_km: 15.13
+- country: US
+  region: NC
+  name: Greensboro
+  lat: '36.0956'
+  long: "-79.8271"
+  nearby_rate_centers:
+  - name: GREENSBORO
+    distance_km: 4.62
+  - name: SUMMERFLD
+    distance_km: 13.36
+  - name: MONTICELLO
+    distance_km: 18.46
+- country: US
+  region: NC
+  name: Greenville
+  lat: '35.5943'
+  long: "-77.3760"
+  nearby_rate_centers:
+  - name: GREENVILLE
+    distance_km: 1.57
+  - name: AYDEN
+    distance_km: 14.67
+  - name: FARMVILLE
+    distance_km: 18.7
+- country: US
+  region: NC
+  name: Grifton
+  lat: '35.3795'
+  long: "-77.4281"
+  nearby_rate_centers:
+  - name: GRIFTON
+    distance_km: 1.5
+  - name: AYDEN
+    distance_km: 9.72
+  - name: KINSTON
+    distance_km: 19.03
+- country: US
+  region: NC
+  name: Grimesland
+  lat: '35.5685'
+  long: "-77.2025"
+  nearby_rate_centers:
+  - name: WASHINGTON
+    distance_km: 13.89
+  - name: GREENVILLE
+    distance_km: 15.94
+  - name: AYDEN
+    distance_km: 22.32
+- country: US
+  region: NC
+  name: Grover
+  lat: '35.1735'
+  long: "-81.4520"
+  nearby_rate_centers:
+  - name: GROVER
+    distance_km: 1.0
+  - name: KINGS MT
+    distance_km: 12.8
+  - name: SHELBY
+    distance_km: 14.65
+- country: US
+  region: NC
+  name: Gulf
+  lat: '35.5597'
+  long: "-79.2805"
+  nearby_rate_centers:
+  - name: GOLDSTON
+    distance_km: 6.41
+  - name: SANFORD
+    distance_km: 13.04
+  - name: BONLEE
+    distance_km: 16.07
+- country: US
+  region: NC
+  name: Half Moon
+  lat: '34.8297'
+  long: "-77.4591"
+  nearby_rate_centers:
+  - name: JACKSONVL
+    distance_km: 9.08
+  - name: RICHLANDS
+    distance_km: 11.32
+  - name: MAYSVILLE
+    distance_km: 21.9
+- country: US
+  region: NC
+  name: Halifax
+  lat: '36.3255'
+  long: "-77.5901"
+  nearby_rate_centers:
+  - name: HALIFAX
+    distance_km: 0.85
+  - name: WELDON
+    distance_km: 11.31
+  - name: ROANOKERPD
+    distance_km: 16.25
+- country: US
+  region: NC
+  name: Hallsboro
+  lat: '34.3189'
+  long: "-78.5934"
+  nearby_rate_centers:
+  - name: LKWACCAMAW
+    distance_km: 7.1
+  - name: WHITEVILLE
+    distance_km: 10.04
+  - name: CLARKTON
+    distance_km: 20.19
+- country: US
+  region: NC
+  name: Hamilton
+  lat: '35.9443'
+  long: "-77.2067"
+  nearby_rate_centers:
+  - name: HAMILTON
+    distance_km: 0.24
+  - name: ROBERSONVL
+    distance_km: 13.88
+  - name: WILLIAMSTN
+    distance_km: 16.82
+- country: US
+  region: NC
+  name: Hamlet
+  lat: '34.8892'
+  long: "-79.7099"
+  nearby_rate_centers:
+  - name: HAMLET
+    distance_km: 0.96
+  - name: ROCKINGHAM
+    distance_km: 7.75
+  - name: GIBSON
+    distance_km: 17.53
+- country: US
+  region: NC
+  name: Hampstead
+  lat: '34.3627'
+  long: "-77.7318"
+  nearby_rate_centers:
+  - name: SCOTTS HILL 270
+    distance_km: 5.87
+  - name: SCOTTSHILL
+    distance_km: 5.87
+  - name: TOPSAIL IS
+    distance_km: 11.82
+  - name: CASTLEHAYN
+    distance_km: 15.66
+- country: US
+  region: NC
+  name: Harkers Island
+  lat: '34.7002'
+  long: "-76.5612"
+  nearby_rate_centers:
+  - name: BEAUFORT
+    distance_km: 8.35
+  - name: MARSHALLBG
+    distance_km: 8.39
+  - name: MOREHEADCY
+    distance_km: 15.5
+- country: US
+  region: NC
+  name: Harmony
+  lat: '35.9590'
+  long: "-80.7735"
+  nearby_rate_centers:
+  - name: HARMONY
+    distance_km: 0.9
+  - name: UNIONGROVE
+    distance_km: 10.64
+  - name: IJAMES
+    distance_km: 12.0
+- country: US
+  region: NC
+  name: Harrells
+  lat: '34.7278'
+  long: "-78.2015"
+  nearby_rate_centers:
+  - name: HARRELLS
+    distance_km: 1.72
+  - name: WALLACE
+    distance_km: 18.42
+  - name: GARLAND
+    distance_km: 19.12
+- country: US
+  region: NC
+  name: Harrellsville
+  lat: '36.3017'
+  long: "-76.7918"
+  nearby_rate_centers:
+  - name: COLERAIN
+    distance_km: 11.53
+  - name: GATESVILLE
+    distance_km: 12.52
+  - name: WELCH
+    distance_km: 15.05
+- country: US
+  region: NC
+  name: Harrisburg
+  lat: '35.3125'
+  long: "-80.6485"
+  nearby_rate_centers:
+  - name: HARRISBURG
+    distance_km: 0.66
+  - name: CONCORD
+    distance_km: 11.21
+  - name: CHARLOTTE
+    distance_km: 19.74
+- country: US
+  region: NC
+  name: Hassell
+  lat: '35.9086'
+  long: "-77.2763"
+  nearby_rate_centers:
+  - name: HAMILTON
+    distance_km: 7.19
+  - name: ROBERSONVL
+    distance_km: 9.26
+  - name: BETHEL
+    distance_km: 14.28
+- country: US
+  region: NC
+  name: Hatteras
+  lat: '35.2176'
+  long: "-75.6872"
+  nearby_rate_centers:
+  - name: BUXTON
+    distance_km: 14.04
+  - name: OCRACOKE
+    distance_km: 29.17
+  - name: ENGELHARD
+    distance_km: 43.02
+- country: US
+  region: NC
+  name: Havelock
+  lat: '34.9078'
+  long: "-76.8987"
+  nearby_rate_centers:
+  - name: HAVELOCK
+    distance_km: 3.48
+  - name: NEWPORT
+    distance_km: 14.58
+  - name: ORIENTAL
+    distance_km: 22.2
+- country: US
+  region: NC
+  name: Haw River
+  lat: '36.0926'
+  long: "-79.3615"
+  nearby_rate_centers:
+  - name: BURLINGTON
+    distance_km: 6.49
+  - name: MEBANE
+    distance_km: 8.78
+  - name: GIBSONVL
+    distance_km: 16.2
+- country: US
+  region: NC
+  name: Hayesville
+  lat: '35.0452'
+  long: "-83.8178"
+  nearby_rate_centers:
+  - name: HAYESVILLE
+    distance_km: 0.58
+  - name: ANDREWS
+    distance_km: 17.25
+  - name: MURPHY
+    distance_km: 20.21
+- country: US
+  region: NC
+  name: Hays
+  lat: '36.2469'
+  long: "-81.1142"
+  nearby_rate_centers:
+  - name: HAYS
+    distance_km: 0.28
+  - name: MULBERRY
+    distance_km: 5.65
+  - name: NOWILKESBO
+    distance_km: 9.18
+- country: US
+  region: NC
+  name: Hemby Bridge
+  lat: '35.1055'
+  long: "-80.6258"
+  nearby_rate_centers:
+  - name: HEMBY BDG
+    distance_km: 0.07
+  - name: INDIANTRAL
+    distance_km: 5.24
+  - name: MATTHEWS
+    distance_km: 8.87
+- country: US
+  region: NC
+  name: Henderson
+  lat: '36.3256'
+  long: "-78.4151"
+  nearby_rate_centers:
+  - name: HENDERSON
+    distance_km: 0.54
+  - name: OXFORD
+    distance_km: 16.1
+  - name: NORLINA
+    distance_km: 24.06
+- country: US
+  region: NC
+  name: Hendersonville
+  lat: '35.3247'
+  long: "-82.4575"
+  nearby_rate_centers:
+  - name: HENDERSNVL
+    distance_km: 1.35
+  - name: SALUDA
+    distance_km: 13.35
+  - name: ARDEN
+    distance_km: 18.46
+- country: US
+  region: NC
+  name: Henrietta
+  lat: '35.2569'
+  long: "-81.8012"
+  nearby_rate_centers:
+  - name: CAROLEEN
+    distance_km: 1.32
+  - name: ELLENBORO
+    distance_km: 8.42
+  - name: FORESTCITY
+    distance_km: 9.41
+- country: US
+  region: NC
+  name: Hertford
+  lat: '36.1813'
+  long: "-76.4673"
+  nearby_rate_centers:
+  - name: HERTFORD
+    distance_km: 0.73
+  - name: WOODVILLE
+    distance_km: 14.29
+  - name: PINEYWOODS
+    distance_km: 17.17
+- country: US
+  region: NC
+  name: Hickory
+  lat: '35.7410'
+  long: "-81.3223"
+  nearby_rate_centers:
+  - name: HICKORY
+    distance_km: 1.85
+  - name: MT VIEW
+    distance_km: 7.73
+  - name: HILDEBRAN
+    distance_km: 8.68
+- country: US
+  region: NC
+  name: Hiddenite
+  lat: '35.9053'
+  long: "-81.0860"
+  nearby_rate_centers:
+  - name: STONYPOINT
+    distance_km: 5.48
+  - name: TAYLORSVL
+    distance_km: 8.26
+  - name: NEW HOPE
+    distance_km: 17.76
+- country: US
+  region: NC
+  name: High Point
+  lat: '35.9910'
+  long: "-79.9937"
+  nearby_rate_centers:
+  - name: HIGH POINT
+    distance_km: 3.48
+  - name: THOMASVL
+    distance_km: 14.42
+  - name: KERNERSVL
+    distance_km: 16.38
+- country: US
+  region: NC
+  name: High Shoals
+  lat: '35.3957'
+  long: "-81.2048"
+  nearby_rate_centers:
+  - name: LINCOLNTON
+    distance_km: 9.0
+  - name: STANLEY
+    distance_km: 11.34
+  - name: BESSEMERCY
+    distance_km: 14.26
+- country: US
+  region: NC
+  name: Highlands
+  lat: '35.0538'
+  long: "-83.1976"
+  nearby_rate_centers:
+  - name: HIGHLANDS
+    distance_km: 0.49
+  - name: CASHIERS
+    distance_km: 11.29
+  - name: FRANKLIN
+    distance_km: 22.18
+- country: US
+  region: NC
+  name: Hightsville
+  lat: '34.2667'
+  long: "-77.9344"
+  nearby_rate_centers:
+  - name: WILMINGTON
+    distance_km: 4.94
+  - name: CASTLEHAYN
+    distance_km: 10.23
+  - name: WRGHTSVBCH
+    distance_km: 11.93
+- country: US
+  region: NC
+  name: Hildebran
+  lat: '35.7182'
+  long: "-81.4210"
+  nearby_rate_centers:
+  - name: HILDEBRAN
+    distance_km: 0.68
+  - name: MT VIEW
+    distance_km: 7.33
+  - name: HICKORY
+    distance_km: 7.44
+- country: US
+  region: NC
+  name: Hillsborough
+  lat: '36.0679'
+  long: "-79.0991"
+  nearby_rate_centers:
+  - name: HILLSBORGH
+    distance_km: 1.16
+  - name: MEBANE
+    distance_km: 15.23
+  - name: CHAPELHILL
+    distance_km: 18.05
+- country: US
+  region: NC
+  name: Hobgood
+  lat: '36.0267'
+  long: "-77.3940"
+  nearby_rate_centers:
+  - name: SCOTLDNECK
+    distance_km: 12.22
+  - name: TARBORO
+    distance_km: 18.95
+  - name: HAMILTON
+    distance_km: 19.11
+- country: US
+  region: NC
+  name: Hobucken
+  lat: '35.2544'
+  long: "-76.5712"
+  nearby_rate_centers:
+  - name: AURORA
+    distance_km: 20.08
+  - name: BAYBORO
+    distance_km: 21.98
+  - name: SWANQUARTR
+    distance_km: 26.94
+- country: US
+  region: NC
+  name: Hoffman
+  lat: '35.0313'
+  long: "-79.5491"
+  nearby_rate_centers:
+  - name: PINEBLUFF
+    distance_km: 10.98
+  - name: ABERDEEN
+    distance_km: 15.9
+  - name: PINEHURST
+    distance_km: 18.95
+- country: US
+  region: NC
+  name: Holden Beach
+  lat: '33.9121'
+  long: "-78.3182"
+  nearby_rate_centers:
+  - name: HOLDEN BCH
+    distance_km: 3.32
+  - name: SHALLOTTE
+    distance_km: 9.09
+  - name: LONG BEACH
+    distance_km: 14.88
+- country: US
+  region: NC
+  name: Hollister
+  lat: '36.2593'
+  long: "-77.9363"
+  nearby_rate_centers:
+  - name: LITTLETON
+    distance_km: 19.71
+  - name: WARRENTON
+    distance_km: 24.65
+  - name: ENFIELD
+    distance_km: 25.73
+- country: US
+  region: NC
+  name: Holly Ridge
+  lat: '34.4953'
+  long: "-77.5270"
+  nearby_rate_centers:
+  - name: HOLLYRIDGE
+    distance_km: 2.35
+  - name: TOPSAIL IS
+    distance_km: 13.87
+  - name: SNEADSFRRY
+    distance_km: 14.12
+- country: US
+  region: NC
+  name: Holly Springs
+  lat: '35.6526'
+  long: "-78.8399"
+  nearby_rate_centers:
+  - name: APEX
+    distance_km: 8.19
+  - name: FUQUAYVRIN
+    distance_km: 8.37
+  - name: CARY
+    distance_km: 15.51
+  - name: CARY-RTP
+    distance_km: 15.51
+- country: US
+  region: NC
+  name: Hookerton
+  lat: '35.4228'
+  long: "-77.5893"
+  nearby_rate_centers:
+  - name: SNOW HILL
+    distance_km: 7.54
+  - name: GRIFTON
+    distance_km: 15.26
+  - name: AYDEN
+    distance_km: 16.53
+- country: US
+  region: NC
+  name: Hoopers Creek
+  lat: '35.4480'
+  long: "-82.4294"
+  nearby_rate_centers:
+  - name: FAIRVIEW
+    distance_km: 8.22
+  - name: ARDEN
+    distance_km: 9.26
+  - name: HENDERSNVL
+    distance_km: 15.12
+- country: US
+  region: NC
+  name: Hope Mills
+  lat: '34.9710'
+  long: "-78.9597"
+  nearby_rate_centers:
+  - name: PARKTON
+    distance_km: 9.56
+  - name: FAYETTEVL
+    distance_km: 11.28
+  - name: ST PAULS
+    distance_km: 18.18
+- country: US
+  region: NC
+  name: Horse Shoe
+  lat: '35.3423'
+  long: "-82.5568"
+  nearby_rate_centers:
+  - name: HENDERSNVL
+    distance_km: 8.65
+  - name: ARDEN
+    distance_km: 15.83
+  - name: BREVARD
+    distance_km: 20.3
+- country: US
+  region: NC
+  name: Hot Springs
+  lat: '35.8934'
+  long: "-82.8303"
+  nearby_rate_centers:
+  - name: HOTSPRINGS
+    distance_km: 0.27
+  - name: GUNTERTOWN
+    distance_km: 10.69
+  - name: MARSHALL
+    distance_km: 16.72
+- country: US
+  region: NC
+  name: Hudson
+  lat: '35.8478'
+  long: "-81.4867"
+  nearby_rate_centers:
+  - name: GRANITEFLS
+    distance_km: 7.83
+  - name: LENOIR
+    distance_km: 8.84
+  - name: VALDESE
+    distance_km: 13.04
+- country: US
+  region: NC
+  name: Huntersville
+  lat: '35.4060'
+  long: "-80.8716"
+  nearby_rate_centers:
+  - name: HUNTERSVL
+    distance_km: 2.77
+  - name: DAVIDSON
+    distance_km: 10.78
+  - name: MOUNTHOLLY
+    distance_km: 16.92
+- country: US
+  region: NC
+  name: Icard
+  lat: '35.7253'
+  long: "-81.4581"
+  nearby_rate_centers:
+  - name: HILDEBRAN
+    distance_km: 4.12
+  - name: GRANITEFLS
+    distance_km: 8.6
+  - name: VALDESE
+    distance_km: 10.23
+- country: US
+  region: NC
+  name: Indian Beach
+  lat: '34.6882'
+  long: "-76.8879"
+  nearby_rate_centers:
+  - name: NEWPORT
+    distance_km: 10.7
+  - name: MOREHEADCY
+    distance_km: 15.17
+  - name: SWANSBORO
+    distance_km: 21.68
+  - name: SWNSBRWCAR
+    distance_km: 21.68
+- country: US
+  region: NC
+  name: Indian Trail
+  lat: '35.0699'
+  long: "-80.6452"
+  nearby_rate_centers:
+  - name: INDIANTRAL
+    distance_km: 2.25
+  - name: HEMBY BDG
+    distance_km: 4.41
+  - name: MATTHEWS
+    distance_km: 8.8
+- country: US
+  region: NC
+  name: Ingold
+  lat: '34.8313'
+  long: "-78.3497"
+  nearby_rate_centers:
+  - name: GARLAND
+    distance_km: 6.84
+  - name: HARRELLS
+    distance_km: 16.07
+  - name: CYPRESSCRK
+    distance_km: 17.7
+- country: US
+  region: NC
+  name: Iron Station
+  lat: '35.4515'
+  long: "-81.1568"
+  nearby_rate_centers:
+  - name: LINCOLNTON
+    distance_km: 8.68
+  - name: STANLEY
+    distance_km: 12.06
+  - name: DENVER
+    distance_km: 14.57
+- country: US
+  region: NC
+  name: Ivanhoe
+  lat: '34.5870'
+  long: "-78.2447"
+  nearby_rate_centers:
+  - name: ATKINSON
+    distance_km: 9.55
+  - name: KELLY
+    distance_km: 15.47
+  - name: HARRELLS
+    distance_km: 16.72
+- country: US
+  region: NC
+  name: JAARS
+  lat: '34.8623'
+  long: "-80.7489"
+  nearby_rate_centers:
+  - name: WAXHAW
+    distance_km: 6.84
+  - name: ALTON
+    distance_km: 21.92
+  - name: MONROE
+    distance_km: 22.44
+- country: US
+  region: NC
+  name: Jackson
+  lat: '36.3901'
+  long: "-77.4193"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 0.54
+  - name: SEABOARD
+    distance_km: 11.38
+  - name: HALIFAX
+    distance_km: 16.09
+- country: US
+  region: NC
+  name: Jackson Heights
+  lat: '35.2236'
+  long: "-77.6333"
+  nearby_rate_centers:
+  - name: KINSTON
+    distance_km: 6.51
+  - name: MOSS HILL
+    distance_km: 12.33
+  - name: LA GRANGE
+    distance_km: 16.44
+- country: US
+  region: NC
+  name: Jackson Springs
+  lat: '35.2127'
+  long: "-79.6297"
+  nearby_rate_centers:
+  - name: WEST END
+    distance_km: 6.4
+  - name: CANDOR
+    distance_km: 13.34
+  - name: PINEHURST
+    distance_km: 14.45
+- country: US
+  region: NC
+  name: Jacksonville
+  lat: '34.7289'
+  long: "-77.3941"
+  nearby_rate_centers:
+  - name: JACKSONVL
+    distance_km: 4.44
+  - name: SNEADSFRRY
+    distance_km: 18.23
+  - name: RICHLANDS
+    distance_km: 23.72
+- country: US
+  region: NC
+  name: James City
+  lat: '35.0592'
+  long: "-77.0200"
+  nearby_rate_centers:
+  - name: NEW BERN
+    distance_km: 7.07
+  - name: POLLOCKSVL
+    distance_km: 19.11
+  - name: HAVELOCK
+    distance_km: 21.09
+- country: US
+  region: NC
+  name: Jamestown
+  lat: '35.9984'
+  long: "-79.9348"
+  nearby_rate_centers:
+  - name: HIGH POINT
+    distance_km: 7.27
+  - name: GREENSBORO
+    distance_km: 16.18
+  - name: THOMASVL
+    distance_km: 18.44
+- country: US
+  region: NC
+  name: Jamesville
+  lat: '35.8122'
+  long: "-76.9002"
+  nearby_rate_centers:
+  - name: PLYMOUTH
+    distance_km: 14.68
+  - name: WILLIAMSTN
+    distance_km: 15.06
+  - name: WINDSOR
+    distance_km: 21.17
+- country: US
+  region: NC
+  name: Jefferson
+  lat: '36.4209'
+  long: "-81.4686"
+  nearby_rate_centers:
+  - name: WJEFFERSON
+    distance_km: 2.85
+  - name: NATHANSCRK
+    distance_km: 5.79
+  - name: LANSING
+    distance_km: 9.5
+- country: US
+  region: NC
+  name: Jonesville
+  lat: '36.2336'
+  long: "-80.8351"
+  nearby_rate_centers:
+  - name: ELKIN
+    distance_km: 1.43
+  - name: STATE ROAD
+    distance_km: 10.15
+  - name: BOONVILLE
+    distance_km: 11.62
+- country: US
+  region: NC
+  name: Kannapolis
+  lat: '35.4764'
+  long: "-80.6408"
+  nearby_rate_centers:
+  - name: KANNAPOLIS
+    distance_km: 3.05
+  - name: CONCORD
+    distance_km: 10.24
+  - name: CHNGRVLNDS
+    distance_km: 11.71
+- country: US
+  region: NC
+  name: Keener
+  lat: '35.1131'
+  long: "-78.3094"
+  nearby_rate_centers:
+  - name: CLINTON
+    distance_km: 12.4
+  - name: HERRING
+    distance_km: 13.56
+  - name: SIX RUN
+    distance_km: 14.44
+- country: US
+  region: NC
+  name: Kelford
+  lat: '36.1813'
+  long: "-77.2243"
+  nearby_rate_centers:
+  - name: ROXOBEL
+    distance_km: 2.49
+  - name: LEWISTON
+    distance_km: 7.94
+  - name: AULANDER
+    distance_km: 10.78
+- country: US
+  region: NC
+  name: Kelly
+  lat: '34.4639'
+  long: "-78.3109"
+  nearby_rate_centers:
+  - name: KELLY
+    distance_km: 0.61
+  - name: ATKINSON
+    distance_km: 14.38
+  - name: ACME
+    distance_km: 18.28
+- country: US
+  region: NC
+  name: Kenansville
+  lat: '34.9598'
+  long: "-77.9659"
+  nearby_rate_centers:
+  - name: KENANSVL
+    distance_km: 0.16
+  - name: WARSAW
+    distance_km: 12.33
+  - name: ROSE HILL
+    distance_km: 15.44
+- country: US
+  region: NC
+  name: Kenly
+  lat: '35.5885'
+  long: "-78.1370"
+  nearby_rate_centers:
+  - name: KENLY
+    distance_km: 1.03
+  - name: LUCAMA
+    distance_km: 13.04
+  - name: PRINCETON
+    distance_km: 14.01
+- country: US
+  region: NC
+  name: Kernersville
+  lat: '36.1065'
+  long: "-80.0842"
+  nearby_rate_centers:
+  - name: KERNERSVL
+    distance_km: 2.06
+  - name: WALKERTOWN
+    distance_km: 10.39
+  - name: WINSTN SAL
+    distance_km: 14.73
+- country: US
+  region: NC
+  name: Kill Devil Hills
+  lat: '36.0167'
+  long: "-75.6699"
+  nearby_rate_centers:
+  - name: KLDEVILHLS
+    distance_km: 1.52
+  - name: MANTEO
+    distance_km: 11.96
+  - name: MAMIE
+    distance_km: 19.46
+- country: US
+  region: NC
+  name: King
+  lat: '36.2769'
+  long: "-80.3566"
+  nearby_rate_centers:
+  - name: KING
+    distance_km: 0.9
+  - name: RURAL HALL
+    distance_km: 7.1
+  - name: STANLEYVL
+    distance_km: 10.88
+- country: US
+  region: NC
+  name: Kings Grant
+  lat: '34.2664'
+  long: "-77.8659"
+  nearby_rate_centers:
+  - name: WRGHTSVBCH
+    distance_km: 7.01
+  - name: WILMINGTON
+    distance_km: 8.45
+  - name: CASTLEHAYN
+    distance_km: 10.37
+- country: US
+  region: NC
+  name: Kings Mountain
+  lat: '35.2349'
+  long: "-81.3501"
+  nearby_rate_centers:
+  - name: KINGS MT
+    distance_km: 1.31
+  - name: BESSEMERCY
+    distance_km: 8.23
+  - name: GROVER
+    distance_km: 12.05
+- country: US
+  region: NC
+  name: Kingstown
+  lat: '35.3621'
+  long: "-81.6201"
+  nearby_rate_centers:
+  - name: LATTIMORE
+    distance_km: 6.1
+  - name: LAWNDALE
+    distance_km: 8.33
+  - name: SHELBY
+    distance_km: 11.34
+- country: US
+  region: NC
+  name: Kinston
+  lat: '35.2747'
+  long: "-77.5939"
+  nearby_rate_centers:
+  - name: KINSTON
+    distance_km: 2.72
+  - name: LA GRANGE
+    distance_km: 17.39
+  - name: MOSS HILL
+    distance_km: 17.61
+- country: US
+  region: NC
+  name: Kittrell
+  lat: '36.2218'
+  long: "-78.4414"
+  nearby_rate_centers:
+  - name: HENDERSON
+    distance_km: 11.81
+  - name: FRANKLINTN
+    distance_km: 13.78
+  - name: OXFORD
+    distance_km: 16.66
+- country: US
+  region: NC
+  name: Kitty Hawk
+  lat: '36.0717'
+  long: "-75.7184"
+  nearby_rate_centers:
+  - name: KLDEVILHLS
+    distance_km: 9.02
+  - name: MAMIE
+    distance_km: 12.42
+  - name: MANTEO
+    distance_km: 18.5
+- country: US
+  region: NC
+  name: Knightdale
+  lat: '35.7911'
+  long: "-78.4966"
+  nearby_rate_centers:
+  - name: KNIGHTDALE
+    distance_km: 1.33
+  - name: WENDELL
+    distance_km: 11.52
+  - name: RAL DUR AP
+    distance_km: 13.95
+  - name: RALEIGH
+    distance_km: 13.95
+- country: US
+  region: NC
+  name: Kure Beach
+  lat: '34.0004'
+  long: "-77.9076"
+  nearby_rate_centers:
+  - name: CAROLINBCH
+    distance_km: 3.9
+  - name: SOUTHPORT
+    distance_km: 13.17
+  - name: BLNGSPGLKS
+    distance_km: 14.97
+- country: US
+  region: NC
+  name: La Grange
+  lat: '35.3064'
+  long: "-77.7890"
+  nearby_rate_centers:
+  - name: LA GRANGE
+    distance_km: 0.82
+  - name: MOSS HILL
+    distance_km: 11.71
+  - name: SNOW HILL
+    distance_km: 19.48
+- country: US
+  region: NC
+  name: Lake Junaluska
+  lat: '35.5305'
+  long: "-82.9749"
+  nearby_rate_centers:
+  - name: WAYNESVL
+    distance_km: 4.42
+  - name: CLYDE
+    distance_km: 5.72
+  - name: MAGGIE VLY
+    distance_km: 5.93
+- country: US
+  region: NC
+  name: Lake Lure
+  lat: '35.4404'
+  long: "-82.2065"
+  nearby_rate_centers:
+  - name: LAKE LURE
+    distance_km: 2.61
+  - name: FAIRVIEW
+    distance_km: 19.39
+  - name: COLUMBUS
+    distance_km: 20.3
+- country: US
+  region: NC
+  name: Lake Norman of Catawba
+  lat: '35.5995'
+  long: "-80.9840"
+  nearby_rate_centers:
+  - name: SHERILLSFD
+    distance_km: 2.45
+  - name: DENVER
+    distance_km: 8.38
+  - name: TROUTMAN
+    distance_km: 14.11
+- country: US
+  region: NC
+  name: Lake Park
+  lat: '35.0849'
+  long: "-80.6349"
+  nearby_rate_centers:
+  - name: HEMBY BDG
+    distance_km: 2.51
+  - name: INDIANTRAL
+    distance_km: 3.33
+  - name: MATTHEWS
+    distance_km: 8.75
+- country: US
+  region: NC
+  name: Lake Royale
+  lat: '35.9666'
+  long: "-78.1960"
+  nearby_rate_centers:
+  - name: SPRINGHOPE
+    distance_km: 7.64
+  - name: LOUISBURG
+    distance_km: 17.63
+  - name: ZEBULON
+    distance_km: 19.1
+- country: US
+  region: NC
+  name: Lake Santeetlah
+  lat: '35.3636'
+  long: "-83.8664"
+  nearby_rate_centers:
+  - name: ROBBINSVL
+    distance_km: 6.82
+  - name: FONTANAVLG
+    distance_km: 9.55
+  - name: ANDREWS
+    distance_km: 18.68
+- country: US
+  region: NC
+  name: Lake Waccamaw
+  lat: '34.3141'
+  long: "-78.5117"
+  nearby_rate_centers:
+  - name: LKWACCAMAW
+    distance_km: 0.6
+  - name: WHITEVILLE
+    distance_km: 17.53
+  - name: LISBON
+    distance_km: 22.61
+- country: US
+  region: NC
+  name: Landis
+  lat: '35.5477'
+  long: "-80.6113"
+  nearby_rate_centers:
+  - name: CHNGRVLNDS
+    distance_km: 4.03
+  - name: KANNAPOLIS
+    distance_km: 5.43
+  - name: CONCORD
+    distance_km: 16.9
+- country: US
+  region: NC
+  name: Lansing
+  lat: '36.4994'
+  long: "-81.5106"
+  nearby_rate_centers:
+  - name: LANSING
+    distance_km: 0.48
+  - name: NATHANSCRK
+    distance_km: 11.02
+  - name: WJEFFERSON
+    distance_km: 11.16
+- country: US
+  region: NC
+  name: Lasker
+  lat: '36.3502'
+  long: "-77.3058"
+  nearby_rate_centers:
+  - name: RICHSQUARE
+    distance_km: 8.32
+  - name: WOODLAND
+    distance_km: 8.91
+  - name: JACKSON
+    distance_km: 10.79
+- country: US
+  region: NC
+  name: Lattimore
+  lat: '35.3153'
+  long: "-81.6602"
+  nearby_rate_centers:
+  - name: LATTIMORE
+    distance_km: 0.26
+  - name: ELLENBORO
+    distance_km: 9.05
+  - name: SHELBY
+    distance_km: 11.5
+- country: US
+  region: NC
+  name: Laurel Hill
+  lat: '34.8102'
+  long: "-79.5460"
+  nearby_rate_centers:
+  - name: LAURELHILL
+    distance_km: 0.24
+  - name: GIBSON
+    distance_km: 7.79
+  - name: LAURINBURG
+    distance_km: 8.9
+- country: US
+  region: NC
+  name: Laurel Park
+  lat: '35.3118'
+  long: "-82.5039"
+  nearby_rate_centers:
+  - name: HENDERSNVL
+    distance_km: 3.35
+  - name: SALUDA
+    distance_km: 15.92
+  - name: ARDEN
+    distance_km: 19.0
+- country: US
+  region: NC
+  name: Laurinburg
+  lat: '34.7602'
+  long: "-79.4773"
+  nearby_rate_centers:
+  - name: LAURINBURG
+    distance_km: 1.37
+  - name: LAURELHILL
+    distance_km: 8.15
+  - name: GIBSON
+    distance_km: 11.5
+- country: US
+  region: NC
+  name: Lawndale
+  lat: '35.4142'
+  long: "-81.5630"
+  nearby_rate_centers:
+  - name: LAWNDALE
+    distance_km: 0.56
+  - name: LATTIMORE
+    distance_km: 13.85
+  - name: SHELBY
+    distance_km: 14.6
+- country: US
+  region: NC
+  name: Leggett
+  lat: '35.9896'
+  long: "-77.5800"
+  nearby_rate_centers:
+  - name: TARBORO
+    distance_km: 10.05
+  - name: WHITAKERS
+    distance_km: 17.87
+  - name: ROCKYMOUNT
+    distance_km: 20.38
+- country: US
+  region: NC
+  name: Leland
+  lat: '34.2042'
+  long: "-78.0279"
+  nearby_rate_centers:
+  - name: WILMINGTON
+    distance_km: 8.24
+  - name: BOLIVIA
+    distance_km: 18.76
+  - name: WRGHTSVBCH
+    distance_km: 19.17
+- country: US
+  region: NC
+  name: Lenoir
+  lat: '35.9094'
+  long: "-81.5249"
+  nearby_rate_centers:
+  - name: LENOIR
+    distance_km: 1.23
+  - name: GRANITEFLS
+    distance_km: 15.3
+  - name: VALDESE
+    distance_km: 18.09
+- country: US
+  region: NC
+  name: Lewiston Woodville
+  lat: '36.1141'
+  long: "-77.1811"
+  nearby_rate_centers:
+  - name: LEWISTON
+    distance_km: 1.12
+  - name: ROXOBEL
+    distance_km: 10.89
+  - name: AULANDER
+    distance_km: 13.51
+- country: US
+  region: NC
+  name: Lewisville
+  lat: '36.1030'
+  long: "-80.4166"
+  nearby_rate_centers:
+  - name: LEWISVILLE
+    distance_km: 0.57
+  - name: OLDTOWN
+    distance_km: 10.15
+  - name: EAST BEND
+    distance_km: 14.8
+- country: US
+  region: NC
+  name: Lexington
+  lat: '35.8018'
+  long: "-80.2682"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance_km: 2.96
+  - name: REEDS
+    distance_km: 7.6
+  - name: WELCOME
+    distance_km: 12.71
+- country: US
+  region: NC
+  name: Liberty
+  lat: '35.8555'
+  long: "-79.5682"
+  nearby_rate_centers:
+  - name: LIBERTY-RA
+    distance_km: 0.58
+  - name: JULIAN
+    distance_km: 10.52
+  - name: KIMESVILLE
+    distance_km: 10.6
+- country: US
+  region: NC
+  name: Light Oak
+  lat: '35.2867'
+  long: "-81.4775"
+  nearby_rate_centers:
+  - name: SHELBY
+    distance_km: 5.62
+  - name: KINGS MT
+    distance_km: 13.41
+  - name: GROVER
+    distance_km: 13.8
+- country: US
+  region: NC
+  name: Lilesville
+  lat: '34.9675'
+  long: "-79.9845"
+  nearby_rate_centers:
+  - name: LILESVILLE
+    distance_km: 0.61
+  - name: WADESBORO
+    distance_km: 9.08
+  - name: MORVEN
+    distance_km: 11.04
+- country: US
+  region: NC
+  name: Lillington
+  lat: '35.4001'
+  long: "-78.8138"
+  nearby_rate_centers:
+  - name: LILLINGTON
+    distance_km: 1.4
+  - name: ANGIER
+    distance_km: 13.53
+  - name: DUNN
+    distance_km: 20.56
+  - name: DUNN-CMBLD
+    distance_km: 20.56
+- country: US
+  region: NC
+  name: Lincolnton
+  lat: '35.4748'
+  long: "-81.2386"
+  nearby_rate_centers:
+  - name: LINCOLNTON
+    distance_km: 1.35
+  - name: MAIDEN
+    distance_km: 12.39
+  - name: CHERRYVL
+    distance_km: 15.83
+- country: US
+  region: NC
+  name: Linden
+  lat: '35.2546'
+  long: "-78.7484"
+  nearby_rate_centers:
+  - name: DUNN
+    distance_km: 13.28
+  - name: DUNN-CMBLD
+    distance_km: 13.28
+  - name: LILLINGTON
+    distance_km: 16.78
+  - name: COHARIE
+    distance_km: 18.99
+- country: US
+  region: NC
+  name: Linville
+  lat: '36.0674'
+  long: "-81.8715"
+  nearby_rate_centers:
+  - name: NEWLAND
+    distance_km: 5.73
+  - name: BANNER ELK
+    distance_km: 11.2
+  - name: BEECH MT
+    distance_km: 14.18
+- country: US
+  region: NC
+  name: Littleton
+  lat: '36.4343'
+  long: "-77.9110"
+  nearby_rate_centers:
+  - name: LITTLETON
+    distance_km: 0.3
+  - name: WARRENTON
+    distance_km: 21.68
+  - name: ROANOKERPD
+    distance_km: 22.64
+- country: US
+  region: NC
+  name: Locust
+  lat: '35.2688'
+  long: "-80.4369"
+  nearby_rate_centers:
+  - name: LOCUST
+    distance_km: 1.53
+  - name: OAKBORO
+    distance_km: 10.37
+  - name: MTPLEASANT
+    distance_km: 14.83
+- country: US
+  region: NC
+  name: Long Creek
+  lat: '34.4382'
+  long: "-78.0161"
+  nearby_rate_centers:
+  - name: CASTLEHAYN
+    distance_km: 13.99
+  - name: BURGAW
+    distance_km: 14.82
+  - name: ATKINSON
+    distance_km: 17.28
+- country: US
+  region: NC
+  name: Long View
+  lat: '35.7217'
+  long: "-81.3857"
+  nearby_rate_centers:
+  - name: HILDEBRAN
+    distance_km: 2.59
+  - name: HICKORY
+    distance_km: 4.27
+  - name: MT VIEW
+    distance_km: 5.55
+- country: US
+  region: NC
+  name: Louisburg
+  lat: '36.0986'
+  long: "-78.3009"
+  nearby_rate_centers:
+  - name: LOUISBURG
+    distance_km: 0.33
+  - name: FRANKLINTN
+    distance_km: 14.11
+  - name: WAKEFOREST
+    distance_km: 23.4
+- country: US
+  region: NC
+  name: Love Valley
+  lat: '35.9872'
+  long: "-80.9836"
+  nearby_rate_centers:
+  - name: NEW HOPE
+    distance_km: 4.99
+  - name: UNIONGROVE
+    distance_km: 11.55
+  - name: STONYPOINT
+    distance_km: 14.56
+- country: US
+  region: NC
+  name: Lowell
+  lat: '35.2688'
+  long: "-81.1013"
+  nearby_rate_centers:
+  - name: LOWELL
+    distance_km: 0.38
+  - name: BELMONT
+    distance_km: 6.0
+  - name: GASTONIA
+    distance_km: 7.38
+- country: US
+  region: NC
+  name: Lowesville
+  lat: '35.4193'
+  long: "-80.9998"
+  nearby_rate_centers:
+  - name: STANLEY
+    distance_km: 10.49
+  - name: MOUNTHOLLY
+    distance_km: 13.2
+  - name: DENVER
+    distance_km: 13.32
+- country: US
+  region: NC
+  name: Lowgap
+  lat: '36.5231'
+  long: "-80.8671"
+  nearby_rate_centers:
+  - name: BEULAH
+    distance_km: 9.92
+  - name: GLADECREEK
+    distance_km: 10.05
+  - name: RED BRUSH
+    distance_km: 16.08
+- country: US
+  region: NC
+  name: Lucama
+  lat: '35.6449'
+  long: "-78.0076"
+  nearby_rate_centers:
+  - name: LUCAMA
+    distance_km: 0.28
+  - name: FREMONT
+    distance_km: 11.77
+  - name: KENLY
+    distance_km: 12.28
+- country: US
+  region: NC
+  name: Lumber Bridge
+  lat: '34.8898'
+  long: "-79.0725"
+  nearby_rate_centers:
+  - name: PARKTON
+    distance_km: 5.25
+  - name: ST PAULS
+    distance_km: 12.37
+  - name: REDSPRINGS
+    distance_km: 12.88
+- country: US
+  region: NC
+  name: Lumberton
+  lat: '34.6312'
+  long: "-79.0186"
+  nearby_rate_centers:
+  - name: LUMBERTON
+    distance_km: 0.96
+  - name: PEMBROKE
+    distance_km: 17.34
+  - name: FAIRMONT
+    distance_km: 17.68
+- country: US
+  region: NC
+  name: Macclesfield
+  lat: '35.7522'
+  long: "-77.6704"
+  nearby_rate_centers:
+  - name: PINETOPS
+    distance_km: 4.9
+  - name: FOUNTAIN
+    distance_km: 8.98
+  - name: ELM CITY
+    distance_km: 17.79
+- country: US
+  region: NC
+  name: Macon
+  lat: '36.4396'
+  long: "-78.0839"
+  nearby_rate_centers:
+  - name: WARRENTON
+    distance_km: 7.36
+  - name: NORLINA
+    distance_km: 9.41
+  - name: LITTLETON
+    distance_km: 15.76
+- country: US
+  region: NC
+  name: Madison
+  lat: '36.3868'
+  long: "-79.9750"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 1.2
+  - name: STONEVILLE
+    distance_km: 10.74
+  - name: SANDYRIDGE
+    distance_km: 16.94
+- country: US
+  region: NC
+  name: Maggie Valley
+  lat: '35.5241'
+  long: "-83.0636"
+  nearby_rate_centers:
+  - name: MAGGIE VLY
+    distance_km: 2.3
+  - name: WAYNESVL
+    distance_km: 8.35
+  - name: CLYDE
+    distance_km: 13.77
+- country: US
+  region: NC
+  name: Magnolia
+  lat: '34.8960'
+  long: "-78.0541"
+  nearby_rate_centers:
+  - name: ROSE HILL
+    distance_km: 7.33
+  - name: KENANSVL
+    distance_km: 10.8
+  - name: WARSAW
+    distance_km: 12.2
+- country: US
+  region: NC
+  name: Maiden
+  lat: '35.5845'
+  long: "-81.2240"
+  nearby_rate_centers:
+  - name: MAIDEN
+    distance_km: 0.79
+  - name: NEWTON
+    distance_km: 9.22
+  - name: LINCOLNTON
+    distance_km: 13.22
+- country: US
+  region: NC
+  name: Mamers
+  lat: '35.4160'
+  long: "-78.9390"
+  nearby_rate_centers:
+  - name: LILLINGTON
+    distance_km: 10.64
+  - name: BROADWAY
+    distance_km: 12.04
+  - name: OLIVIA
+    distance_km: 17.55
+- country: US
+  region: NC
+  name: Manns Harbor
+  lat: '35.8940'
+  long: "-75.7737"
+  nearby_rate_centers:
+  - name: MANTEO
+    distance_km: 9.11
+  - name: KLDEVILHLS
+    distance_km: 16.21
+  - name: MAMIE
+    distance_km: 26.43
+- country: US
+  region: NC
+  name: Manteo
+  lat: '35.9014'
+  long: "-75.6609"
+  nearby_rate_centers:
+  - name: MANTEO
+    distance_km: 1.48
+  - name: KLDEVILHLS
+    distance_km: 11.67
+  - name: MAMIE
+    distance_km: 29.66
+- country: US
+  region: NC
+  name: Mar-Mac
+  lat: '35.3345'
+  long: "-78.0545"
+  nearby_rate_centers:
+  - name: GOLDSBORO
+    distance_km: 8.13
+  - name: GRANTHAM
+    distance_km: 10.57
+  - name: MOUNTOLIVE
+    distance_km: 14.9
+- country: US
+  region: NC
+  name: Marble
+  lat: '35.1770'
+  long: "-83.9265"
+  nearby_rate_centers:
+  - name: ANDREWS
+    distance_km: 10.17
+  - name: MURPHY
+    distance_km: 14.17
+  - name: HAYESVILLE
+    distance_km: 17.49
+- country: US
+  region: NC
+  name: Marietta
+  lat: '34.3683'
+  long: "-79.1249"
+  nearby_rate_centers:
+  - name: FAIR BLUFF
+    distance_km: 10.17
+  - name: FAIRMONT
+    distance_km: 13.9
+  - name: ROWLAND
+    distance_km: 24.1
+- country: US
+  region: NC
+  name: Marion
+  lat: '35.6777'
+  long: "-82.0017"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 1.55
+  - name: GARDENCITY
+    distance_km: 6.54
+  - name: GLENWDPDNC
+    distance_km: 7.22
+- country: US
+  region: NC
+  name: Mars Hill
+  lat: '35.8283'
+  long: "-82.5490"
+  nearby_rate_centers:
+  - name: MARS HILL
+    distance_km: 0.31
+  - name: BARNARDSVL
+    distance_km: 9.99
+  - name: MARSHALL
+    distance_km: 12.51
+- country: US
+  region: NC
+  name: Marshall
+  lat: '35.7973'
+  long: "-82.6818"
+  nearby_rate_centers:
+  - name: MARSHALL
+    distance_km: 0.48
+  - name: MARS HILL
+    distance_km: 12.54
+  - name: GUNTERTOWN
+    distance_km: 14.59
+- country: US
+  region: NC
+  name: Marshallberg
+  lat: '34.7265'
+  long: "-76.5150"
+  nearby_rate_centers:
+  - name: MARSHALLBG
+    distance_km: 4.47
+  - name: BEAUFORT
+    distance_km: 12.14
+  - name: MOREHEADCY
+    distance_km: 19.48
+- country: US
+  region: NC
+  name: Marshville
+  lat: '34.9865'
+  long: "-80.3685"
+  nearby_rate_centers:
+  - name: MARSHVILLE
+    distance_km: 0.9
+  - name: WINGATE
+    distance_km: 7.32
+  - name: PEACHLPKTN
+    distance_km: 13.34
+- country: US
+  region: NC
+  name: Marvin
+  lat: '34.9889'
+  long: "-80.8033"
+  nearby_rate_centers:
+  - name: WAXHAW
+    distance_km: 9.06
+  - name: PINEVILLE
+    distance_km: 13.43
+  - name: INDIANTRAL
+    distance_km: 15.48
+- country: US
+  region: NC
+  name: Matthews
+  lat: '35.1195'
+  long: "-80.7101"
+  nearby_rate_centers:
+  - name: MATTHEWS
+    distance_km: 1.11
+  - name: INDIANTRAL
+    distance_km: 6.23
+  - name: HEMBY BDG
+    distance_km: 7.84
+- country: US
+  region: NC
+  name: Maury
+  lat: '35.4792'
+  long: "-77.5902"
+  nearby_rate_centers:
+  - name: SNOW HILL
+    distance_km: 7.57
+  - name: FARMVILLE
+    distance_km: 12.52
+  - name: AYDEN
+    distance_km: 15.96
+- country: US
+  region: NC
+  name: Maxton
+  lat: '34.7365'
+  long: "-79.3527"
+  nearby_rate_centers:
+  - name: MAXTON
+    distance_km: 0.38
+  - name: LAURINBURG
+    distance_km: 10.73
+  - name: PEMBROKE
+    distance_km: 15.38
+- country: US
+  region: NC
+  name: Mayodan
+  lat: '36.4210'
+  long: "-79.9675"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 3.22
+  - name: STONEVILLE
+    distance_km: 7.33
+  - name: SANDYRIDGE
+    distance_km: 14.85
+- country: US
+  region: NC
+  name: Maysville
+  lat: '34.9070'
+  long: "-77.2324"
+  nearby_rate_centers:
+  - name: MAYSVILLE
+    distance_km: 1.05
+  - name: POLLOCKSVL
+    distance_km: 11.0
+  - name: TRENTON
+    distance_km: 20.83
+- country: US
+  region: NC
+  name: McAdenville
+  lat: '35.2652'
+  long: "-81.0805"
+  nearby_rate_centers:
+  - name: LOWELL
+    distance_km: 1.62
+  - name: BELMONT
+    distance_km: 4.18
+  - name: MOUNTHOLLY
+    distance_km: 7.8
+- country: US
+  region: NC
+  name: McDonald
+  lat: '34.5537'
+  long: "-79.1763"
+  nearby_rate_centers:
+  - name: FAIRMONT
+    distance_km: 8.83
+  - name: ROWLAND
+    distance_km: 10.97
+  - name: PEMBROKE
+    distance_km: 14.64
+- country: US
+  region: NC
+  name: McFarlan
+  lat: '34.8148'
+  long: "-79.9766"
+  nearby_rate_centers:
+  - name: MORVEN
+    distance_km: 6.42
+  - name: LILESVILLE
+    distance_km: 17.01
+  - name: WADESBORO
+    distance_km: 19.55
+- country: US
+  region: NC
+  name: McLeansville
+  lat: '36.1045'
+  long: "-79.6554"
+  nearby_rate_centers:
+  - name: GIBSONVL
+    distance_km: 10.3
+  - name: GREENSBORO
+    distance_km: 11.83
+  - name: MONTICELLO
+    distance_km: 12.62
+- country: US
+  region: NC
+  name: Mebane
+  lat: '36.0852'
+  long: "-79.2736"
+  nearby_rate_centers:
+  - name: MEBANE
+    distance_km: 1.78
+  - name: BURLINGTON
+    distance_km: 14.39
+  - name: HILLSBORGH
+    distance_km: 15.04
+- country: US
+  region: NC
+  name: Mesic
+  lat: '35.2034'
+  long: "-76.6450"
+  nearby_rate_centers:
+  - name: BAYBORO
+    distance_km: 13.25
+  - name: AURORA
+    distance_km: 16.61
+  - name: ORIENTAL
+    distance_km: 20.47
+- country: US
+  region: NC
+  name: Micro
+  lat: '35.5624'
+  long: "-78.2035"
+  nearby_rate_centers:
+  - name: KENLY
+    distance_km: 7.69
+  - name: SELMA
+    distance_km: 8.8
+  - name: PRINCETON
+    distance_km: 11.32
+- country: US
+  region: NC
+  name: Middleburg
+  lat: '36.3990'
+  long: "-78.3235"
+  nearby_rate_centers:
+  - name: HENDERSON
+    distance_km: 11.27
+  - name: NORLINA
+    distance_km: 12.97
+  - name: WARRENTON
+    distance_km: 15.58
+- country: US
+  region: NC
+  name: Middlesex
+  lat: '35.7894'
+  long: "-78.2047"
+  nearby_rate_centers:
+  - name: BAILEY
+    distance_km: 7.89
+  - name: ZEBULON
+    distance_km: 10.67
+  - name: WENDELL
+    distance_km: 14.87
+- country: US
+  region: NC
+  name: Midland
+  lat: '35.2450'
+  long: "-80.5212"
+  nearby_rate_centers:
+  - name: LOCUST
+    distance_km: 8.16
+  - name: GOOSECREEK
+    distance_km: 11.55
+  - name: HARRISBURG
+    distance_km: 14.2
+- country: US
+  region: NC
+  name: Midway
+  lat: '35.9751'
+  long: "-80.2204"
+  nearby_rate_centers:
+  - name: WELCOME
+    distance_km: 7.18
+  - name: WINSTN SAL
+    distance_km: 13.95
+  - name: THOMASVL
+    distance_km: 16.22
+- country: US
+  region: NC
+  name: Millers Creek
+  lat: '36.1909'
+  long: "-81.2356"
+  nearby_rate_centers:
+  - name: MULBERRY
+    distance_km: 7.21
+  - name: CHAMPION
+    distance_km: 7.28
+  - name: NOWILKESBO
+    distance_km: 9.08
+- country: US
+  region: NC
+  name: Millingport
+  lat: '35.3763'
+  long: "-80.3113"
+  nearby_rate_centers:
+  - name: ALBEMARLE
+    distance_km: 10.53
+  - name: NEW LONDON
+    distance_km: 10.68
+  - name: MTPLEASANT
+    distance_km: 11.38
+- country: US
+  region: NC
+  name: Mills River
+  lat: '35.3853'
+  long: "-82.5854"
+  nearby_rate_centers:
+  - name: ARDEN
+    distance_km: 12.15
+  - name: HENDERSNVL
+    distance_km: 13.23
+  - name: ENKACANDLR
+    distance_km: 19.2
+- country: US
+  region: NC
+  name: Milton
+  lat: '36.5372'
+  long: "-79.2081"
+  nearby_rate_centers:
+  - name: MILTON
+    distance_km: 0.83
+  - name: GATEWOOD
+    distance_km: 16.84
+  - name: YANCEYVL
+    distance_km: 18.19
+- country: US
+  region: NC
+  name: Milwaukee
+  lat: '36.4047'
+  long: "-77.2306"
+  nearby_rate_centers:
+  - name: CONWAY
+    distance_km: 4.42
+  - name: WOODLAND
+    distance_km: 8.01
+  - name: MURFREESBO
+    distance_km: 12.5
+- country: US
+  region: NC
+  name: Mineral Springs
+  lat: '34.9412'
+  long: "-80.6847"
+  nearby_rate_centers:
+  - name: WAXHAW
+    distance_km: 5.73
+  - name: MONROE
+    distance_km: 13.08
+  - name: INDIANTRAL
+    distance_km: 14.89
+- country: US
+  region: NC
+  name: Minnesott Beach
+  lat: '34.9858'
+  long: "-76.8239"
+  nearby_rate_centers:
+  - name: ORIENTAL
+    distance_km: 11.96
+  - name: HAVELOCK
+    distance_km: 14.49
+  - name: BAYBORO
+    distance_km: 17.9
+- country: US
+  region: NC
+  name: Mint Hill
+  lat: '35.1783'
+  long: "-80.6528"
+  nearby_rate_centers:
+  - name: HEMBY BDG
+    distance_km: 8.4
+  - name: MATTHEWS
+    distance_km: 9.21
+  - name: INDIANTRAL
+    distance_km: 11.64
+- country: US
+  region: NC
+  name: Misenheimer
+  lat: '35.4819'
+  long: "-80.2870"
+  nearby_rate_centers:
+  - name: NEW LONDON
+    distance_km: 7.34
+  - name: GRTQRRCKWL
+    distance_km: 15.83
+  - name: MTPLEASANT
+    distance_km: 15.91
+- country: US
+  region: NC
+  name: Mocksville
+  lat: '35.9007'
+  long: "-80.5631"
+  nearby_rate_centers:
+  - name: MOCKSVILLE
+    distance_km: 0.61
+  - name: IJAMES
+    distance_km: 8.12
+  - name: COOLEEMEE
+    distance_km: 10.27
+- country: US
+  region: NC
+  name: Momeyer
+  lat: '35.9592'
+  long: "-78.0511"
+  nearby_rate_centers:
+  - name: SPRINGHOPE
+    distance_km: 6.17
+  - name: NASHVILLE
+    distance_km: 7.56
+  - name: BAILEY
+    distance_km: 20.41
+- country: US
+  region: NC
+  name: Moncure
+  lat: '35.6239'
+  long: "-79.0769"
+  nearby_rate_centers:
+  - name: PITTSBORO
+    distance_km: 14.25
+  - name: BROADWAY
+    distance_km: 18.55
+  - name: SANFORD
+    distance_km: 19.36
+- country: US
+  region: NC
+  name: Monroe
+  lat: '35.0063'
+  long: "-80.5596"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 3.03
+  - name: WINGATE
+    distance_km: 10.44
+  - name: INDIANTRAL
+    distance_km: 12.54
+- country: US
+  region: NC
+  name: Montreat
+  lat: '35.6478'
+  long: "-82.3001"
+  nearby_rate_centers:
+  - name: BLACK MT
+    distance_km: 3.75
+  - name: SWANNANOA
+    distance_km: 9.81
+  - name: OLD FORT
+    distance_km: 10.7
+- country: US
+  region: NC
+  name: Mooresboro
+  lat: '35.2992'
+  long: "-81.6986"
+  nearby_rate_centers:
+  - name: LATTIMORE
+    distance_km: 4.11
+  - name: ELLENBORO
+    distance_km: 6.18
+  - name: CAROLEEN
+    distance_km: 9.17
+- country: US
+  region: NC
+  name: Mooresville
+  lat: '35.5847'
+  long: "-80.8266"
+  nearby_rate_centers:
+  - name: MOORESVL
+    distance_km: 0.74
+  - name: DAVIDSON
+    distance_km: 9.5
+  - name: TROUTMAN
+    distance_km: 14.02
+- country: US
+  region: NC
+  name: Moravian Falls
+  lat: '36.1073'
+  long: "-81.1807"
+  nearby_rate_centers:
+  - name: BOOMER
+    distance_km: 7.24
+  - name: NOWILKESBO
+    distance_km: 7.6
+  - name: CHAMPION
+    distance_km: 11.6
+- country: US
+  region: NC
+  name: Morehead City
+  lat: '34.7308'
+  long: "-76.7388"
+  nearby_rate_centers:
+  - name: MOREHEADCY
+    distance_km: 1.17
+  - name: BEAUFORT
+    distance_km: 8.35
+  - name: NEWPORT
+    distance_km: 12.19
+- country: US
+  region: NC
+  name: Morganton
+  lat: '35.7408'
+  long: "-81.7002"
+  nearby_rate_centers:
+  - name: MORGANTON
+    distance_km: 1.49
+  - name: VALDESE
+    distance_km: 12.06
+  - name: LENOIR
+    distance_km: 24.65
+- country: US
+  region: NC
+  name: Morrisville
+  lat: '35.8368'
+  long: "-78.8348"
+  nearby_rate_centers:
+  - name: CARY
+    distance_km: 7.66
+  - name: CARY-RTP
+    distance_km: 7.66
+  - name: APEX
+    distance_km: 12.37
+  - name: RAL DUR AP
+    distance_km: 17.52
+  - name: RALEIGH
+    distance_km: 17.52
+- country: US
+  region: NC
+  name: Morven
+  lat: '34.8643'
+  long: "-80.0000"
+  nearby_rate_centers:
+  - name: MORVEN
+    distance_km: 0.53
+  - name: LILESVILLE
+    distance_km: 11.48
+  - name: WADESBORO
+    distance_km: 13.75
+- country: US
+  region: NC
+  name: Mount Airy
+  lat: '36.5083'
+  long: "-80.6155"
+  nearby_rate_centers:
+  - name: MOUNT AIRY
+    distance_km: 1.19
+  - name: RED BRUSH
+    distance_km: 7.56
+  - name: WESTFIELD
+    distance_km: 15.09
+- country: US
+  region: NC
+  name: Mount Gilead
+  lat: '35.2163'
+  long: "-80.0050"
+  nearby_rate_centers:
+  - name: MT GILEAD
+    distance_km: 0.57
+  - name: NORWOOD
+    distance_km: 10.82
+  - name: ANSONVILLE
+    distance_km: 16.64
+- country: US
+  region: NC
+  name: Mount Holly
+  lat: '35.3136'
+  long: "-81.0073"
+  nearby_rate_centers:
+  - name: MOUNTHOLLY
+    distance_km: 1.43
+  - name: BELMONT
+    distance_km: 8.41
+  - name: STANLEY
+    distance_km: 8.88
+- country: US
+  region: NC
+  name: Mount Olive
+  lat: '35.1997'
+  long: "-78.0662"
+  nearby_rate_centers:
+  - name: MOUNTOLIVE
+    distance_km: 0.18
+  - name: FAISON
+    distance_km: 12.03
+  - name: GRANTHAM
+    distance_km: 13.89
+- country: US
+  region: NC
+  name: Mount Pleasant
+  lat: '35.3771'
+  long: "-80.4503"
+  nearby_rate_centers:
+  - name: MTPLEASANT
+    distance_km: 3.2
+  - name: CONCORD
+    distance_km: 12.17
+  - name: LOCUST
+    distance_km: 13.61
+- country: US
+  region: NC
+  name: Mountain Home
+  lat: '35.3708'
+  long: "-82.5021"
+  nearby_rate_centers:
+  - name: HENDERSNVL
+    distance_km: 6.91
+  - name: ARDEN
+    distance_km: 12.5
+  - name: FAIRVIEW
+    distance_km: 18.82
+- country: US
+  region: NC
+  name: Mountain View
+  lat: '35.6828'
+  long: "-81.3683"
+  nearby_rate_centers:
+  - name: MT VIEW
+    distance_km: 1.17
+  - name: HILDEBRAN
+    distance_km: 5.57
+  - name: HICKORY
+    distance_km: 6.21
+- country: US
+  region: NC
+  name: Moyock
+  lat: '36.5165'
+  long: "-76.1728"
+  nearby_rate_centers:
+  - name: MOYOCK
+    distance_km: 0.98
+  - name: SOUTHMILLS
+    distance_km: 15.88
+  - name: KNOTTS IS
+    distance_km: 22.92
+- country: US
+  region: NC
+  name: Mulberry
+  lat: '36.2257'
+  long: "-81.1653"
+  nearby_rate_centers:
+  - name: MULBERRY
+    distance_km: 1.21
+  - name: HAYS
+    distance_km: 4.96
+  - name: NOWILKESBO
+    distance_km: 6.97
+- country: US
+  region: NC
+  name: Murfreesboro
+  lat: '36.4419'
+  long: "-77.0968"
+  nearby_rate_centers:
+  - name: MURFREESBO
+    distance_km: 0.21
+  - name: CONWAY
+    distance_km: 11.56
+  - name: WOODLAND
+    distance_km: 15.51
+- country: US
+  region: NC
+  name: Murphy
+  lat: '35.0932'
+  long: "-84.0280"
+  nearby_rate_centers:
+  - name: MURPHY
+    distance_km: 1.07
+  - name: SUIT
+    distance_km: 14.94
+  - name: HAYESVILLE
+    distance_km: 20.07
+- country: US
+  region: NC
+  name: Murraysville
+  lat: '34.2919'
+  long: "-77.8429"
+  nearby_rate_centers:
+  - name: SCOTTS HILL 270
+    distance_km: 7.42
+  - name: SCOTTSHILL
+    distance_km: 7.42
+  - name: WRGHTSVBCH
+    distance_km: 8.68
+  - name: CASTLEHAYN
+    distance_km: 8.85
+- country: US
+  region: NC
+  name: Myrtle Grove
+  lat: '34.1230'
+  long: "-77.8834"
+  nearby_rate_centers:
+  - name: CAROLINBCH
+    distance_km: 9.92
+  - name: WRGHTSVBCH
+    distance_km: 11.89
+  - name: WILMINGTON
+    distance_km: 12.29
+- country: US
+  region: NC
+  name: Nags Head
+  lat: '35.9473'
+  long: "-75.6273"
+  nearby_rate_centers:
+  - name: MANTEO
+    distance_km: 5.99
+  - name: KLDEVILHLS
+    distance_km: 7.15
+  - name: MAMIE
+    distance_km: 27.51
+- country: US
+  region: NC
+  name: Nashville
+  lat: '35.9693'
+  long: "-77.9554"
+  nearby_rate_centers:
+  - name: NASHVILLE
+    distance_km: 1.14
+  - name: ROCKYMOUNT
+    distance_km: 14.51
+  - name: SPRINGHOPE
+    distance_km: 14.8
+- country: US
+  region: NC
+  name: Navassa
+  lat: '34.2831'
+  long: "-78.0291"
+  nearby_rate_centers:
+  - name: WILMINGTON
+    distance_km: 10.52
+  - name: CASTLEHAYN
+    distance_km: 14.12
+  - name: ACME
+    distance_km: 16.87
+- country: US
+  region: NC
+  name: Nebo
+  lat: '35.7106'
+  long: "-81.9180"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 7.76
+  - name: GLENWDPDNC
+    distance_km: 11.84
+  - name: GARDENCITY
+    distance_km: 13.96
+- country: US
+  region: NC
+  name: Neuse Forest
+  lat: '34.9660'
+  long: "-76.9400"
+  nearby_rate_centers:
+  - name: HAVELOCK
+    distance_km: 9.0
+  - name: NEW BERN
+    distance_km: 19.66
+  - name: NEWPORT
+    distance_km: 21.9
+- country: US
+  region: NC
+  name: New Bern
+  lat: '35.0955'
+  long: "-77.0723"
+  nearby_rate_centers:
+  - name: NEW BERN
+    distance_km: 2.96
+  - name: POLLOCKSVL
+    distance_km: 16.72
+  - name: VANCEBORO
+    distance_km: 23.79
+- country: US
+  region: NC
+  name: New Hope
+  lat: '35.3774'
+  long: "-77.8923"
+  nearby_rate_centers:
+  - name: GOLDSBORO
+    distance_km: 8.84
+  - name: LA GRANGE
+    distance_km: 12.63
+  - name: FREMONT
+    distance_km: 19.84
+- country: US
+  region: NC
+  name: New London
+  lat: '35.4348'
+  long: "-80.2198"
+  nearby_rate_centers:
+  - name: NEW LONDON
+    distance_km: 0.74
+  - name: ALBEMARLE
+    distance_km: 9.41
+  - name: BADIN
+    distance_km: 9.84
+- country: US
+  region: NC
+  name: Newland
+  lat: '36.0880'
+  long: "-81.9274"
+  nearby_rate_centers:
+  - name: NEWLAND
+    distance_km: 0.34
+  - name: BANNER ELK
+    distance_km: 9.97
+  - name: BEECH MT
+    distance_km: 12.71
+- country: US
+  region: NC
+  name: Newport
+  lat: '34.7720'
+  long: "-76.8772"
+  nearby_rate_centers:
+  - name: NEWPORT
+    distance_km: 2.08
+  - name: HAVELOCK
+    distance_km: 13.42
+  - name: MOREHEADCY
+    distance_km: 14.59
+- country: US
+  region: NC
+  name: Newton
+  lat: '35.6630'
+  long: "-81.2335"
+  nearby_rate_centers:
+  - name: NEWTON
+    distance_km: 1.39
+  - name: MAIDEN
+    distance_km: 8.87
+  - name: CLAREMONT
+    distance_km: 9.85
+- country: US
+  region: NC
+  name: Newton Grove
+  lat: '35.2522'
+  long: "-78.3552"
+  nearby_rate_centers:
+  - name: NEWTON GRV
+    distance_km: 0.71
+  - name: GRANTHAM
+    distance_km: 18.27
+  - name: COHARIE
+    distance_km: 21.62
+- country: US
+  region: NC
+  name: Norlina
+  lat: '36.4451'
+  long: "-78.1952"
+  nearby_rate_centers:
+  - name: NORLINA
+    distance_km: 0.61
+  - name: WARRENTON
+    distance_km: 6.51
+  - name: HENDERSON
+    distance_km: 23.37
+- country: US
+  region: NC
+  name: Norman
+  lat: '35.1698'
+  long: "-79.7232"
+  nearby_rate_centers:
+  - name: ELLERBE
+    distance_km: 11.85
+  - name: CANDOR
+    distance_km: 13.68
+  - name: WEST END
+    distance_km: 16.14
+- country: US
+  region: NC
+  name: North Topsail Beach
+  lat: '34.4931'
+  long: "-77.4340"
+  nearby_rate_centers:
+  - name: SNEADSFRRY
+    distance_km: 8.64
+  - name: HOLLYRIDGE
+    distance_km: 10.82
+  - name: TOPSAIL IS
+    distance_km: 19.62
+- country: US
+  region: NC
+  name: North Wilkesboro
+  lat: '36.1728'
+  long: "-81.1390"
+  nearby_rate_centers:
+  - name: NOWILKESBO
+    distance_km: 0.67
+  - name: MULBERRY
+    distance_km: 7.47
+  - name: HAYS
+    distance_km: 8.55
+- country: US
+  region: NC
+  name: Northchase
+  lat: '34.3049'
+  long: "-77.8754"
+  nearby_rate_centers:
+  - name: CASTLEHAYN
+    distance_km: 6.06
+  - name: SCOTTS HILL 270
+    distance_km: 9.85
+  - name: SCOTTSHILL
+    distance_km: 9.85
+  - name: WILMINGTON
+    distance_km: 10.96
+- country: US
+  region: NC
+  name: Northlakes
+  lat: '35.7757'
+  long: "-81.3669"
+  nearby_rate_centers:
+  - name: HICKORY
+    distance_km: 5.19
+  - name: GRANITEFLS
+    distance_km: 5.83
+  - name: BETHLEHEM
+    distance_km: 7.61
+- country: US
+  region: NC
+  name: Northwest
+  lat: '34.3160'
+  long: "-78.1448"
+  nearby_rate_centers:
+  - name: ACME
+    distance_km: 5.69
+  - name: WILMINGTON
+    distance_km: 21.4
+  - name: KELLY
+    distance_km: 22.56
+- country: US
+  region: NC
+  name: Norwood
+  lat: '35.2337'
+  long: "-80.1147"
+  nearby_rate_centers:
+  - name: NORWOOD
+    distance_km: 1.17
+  - name: MT GILEAD
+    distance_km: 10.72
+  - name: ANSONVILLE
+    distance_km: 15.15
+- country: US
+  region: NC
+  name: Oak City
+  lat: '35.9625'
+  long: "-77.3051"
+  nearby_rate_centers:
+  - name: HAMILTON
+    distance_km: 8.95
+  - name: ROBERSONVL
+    distance_km: 15.69
+  - name: BETHEL
+    distance_km: 18.26
+- country: US
+  region: NC
+  name: Oak Island
+  lat: '33.9434'
+  long: "-78.1366"
+  nearby_rate_centers:
+  - name: LONG BEACH
+    distance_km: 4.29
+  - name: SOUTHPORT
+    distance_km: 11.11
+  - name: BLNGSPGLKS
+    distance_km: 11.98
+- country: US
+  region: NC
+  name: Oak Ridge
+  lat: '36.1740'
+  long: "-79.9916"
+  nearby_rate_centers:
+  - name: SUMMERFLD
+    distance_km: 8.88
+  - name: KERNERSVL
+    distance_km: 9.32
+  - name: WALKERTOWN
+    distance_km: 15.04
+- country: US
+  region: NC
+  name: Oakboro
+  lat: '35.2283'
+  long: "-80.3339"
+  nearby_rate_centers:
+  - name: OAKBORO
+    distance_km: 0.17
+  - name: LOCUST
+    distance_km: 9.43
+  - name: NEW SALEM
+    distance_km: 11.17
+- country: US
+  region: NC
+  name: Ocean Isle Beach
+  lat: '33.9011'
+  long: "-78.4393"
+  nearby_rate_centers:
+  - name: SEASIDE
+    distance_km: 4.14
+  - name: SHALLOTTE
+    distance_km: 9.47
+  - name: HOLDEN BCH
+    distance_km: 13.52
+- country: US
+  region: NC
+  name: Ocracoke
+  lat: '35.1264'
+  long: "-75.9212"
+  nearby_rate_centers:
+  - name: OCRACOKE
+    distance_km: 5.79
+  - name: BUXTON
+    distance_km: 37.55
+  - name: ENGELHARD
+    distance_km: 43.16
+- country: US
+  region: NC
+  name: Ogden
+  lat: '34.2656'
+  long: "-77.7966"
+  nearby_rate_centers:
+  - name: WRGHTSVBCH
+    distance_km: 5.9
+  - name: SCOTTS HILL 270
+    distance_km: 6.55
+  - name: SCOTTSHILL
+    distance_km: 6.55
+  - name: CASTLEHAYN
+    distance_km: 13.86
+- country: US
+  region: NC
+  name: Old Fort
+  lat: '35.6305'
+  long: "-82.1777"
+  nearby_rate_centers:
+  - name: OLD FORT
+    distance_km: 0.53
+  - name: GARDENCITY
+    distance_km: 11.95
+  - name: BLACK MT
+    distance_km: 12.82
+- country: US
+  region: NC
+  name: Old Hundred
+  lat: '34.8246'
+  long: "-79.5922"
+  nearby_rate_centers:
+  - name: LAURELHILL
+    distance_km: 4.73
+  - name: GIBSON
+    distance_km: 7.45
+  - name: HAMLET
+    distance_km: 12.23
+- country: US
+  region: NC
+  name: Oriental
+  lat: '35.0357'
+  long: "-76.6816"
+  nearby_rate_centers:
+  - name: ORIENTAL
+    distance_km: 2.17
+  - name: BAYBORO
+    distance_km: 14.07
+  - name: HAVELOCK
+    distance_km: 27.81
+- country: US
+  region: NC
+  name: Orrum
+  lat: '34.4667'
+  long: "-79.0089"
+  nearby_rate_centers:
+  - name: FAIRMONT
+    distance_km: 10.09
+  - name: FAIR BLUFF
+    distance_km: 16.64
+  - name: LUMBERTON
+    distance_km: 17.88
+- country: US
+  region: NC
+  name: Ossipee
+  lat: '36.1678'
+  long: "-79.5135"
+  nearby_rate_centers:
+  - name: GIBSONVL
+    distance_km: 7.11
+  - name: BURLINGTON
+    distance_km: 11.25
+  - name: MONTICELLO
+    distance_km: 16.26
+- country: US
+  region: NC
+  name: Oxford
+  lat: '36.3155'
+  long: "-78.5848"
+  nearby_rate_centers:
+  - name: OXFORD
+    distance_km: 1.14
+  - name: HENDERSON
+    distance_km: 15.77
+  - name: CREEDMOOR
+    distance_km: 24.02
+- country: US
+  region: NC
+  name: Pantego
+  lat: '35.5874'
+  long: "-76.6594"
+  nearby_rate_centers:
+  - name: BELHAVEN
+    distance_km: 6.45
+  - name: PIKE ROAD
+    distance_km: 11.28
+  - name: SIDNEY
+    distance_km: 11.84
+- country: US
+  region: NC
+  name: Parkton
+  lat: '34.9028'
+  long: "-79.0113"
+  nearby_rate_centers:
+  - name: PARKTON
+    distance_km: 0.65
+  - name: ST PAULS
+    distance_km: 10.88
+  - name: REDSPRINGS
+    distance_km: 18.32
+- country: US
+  region: NC
+  name: Parmele
+  lat: '35.8181'
+  long: "-77.3143"
+  nearby_rate_centers:
+  - name: ROBERSONVL
+    distance_km: 5.15
+  - name: BETHEL
+    distance_km: 5.63
+  - name: HAMILTON
+    distance_km: 16.83
+- country: US
+  region: NC
+  name: Patterson Springs
+  lat: '35.2335'
+  long: "-81.5159"
+  nearby_rate_centers:
+  - name: SHELBY
+    distance_km: 6.03
+  - name: GROVER
+    distance_km: 9.68
+  - name: LATTIMORE
+    distance_km: 16.02
+- country: US
+  region: NC
+  name: Peachland
+  lat: '34.9931'
+  long: "-80.2660"
+  nearby_rate_centers:
+  - name: PEACHLPKTN
+    distance_km: 4.01
+  - name: MARSHVILLE
+    distance_km: 9.2
+  - name: WINGATE
+    distance_km: 16.69
+- country: US
+  region: NC
+  name: Peletier
+  lat: '34.7270'
+  long: "-77.0758"
+  nearby_rate_centers:
+  - name: SWANSBORO
+    distance_km: 5.82
+  - name: SWNSBRWCAR
+    distance_km: 5.82
+  - name: NEWPORT
+    distance_km: 20.85
+  - name: HAVELOCK
+    distance_km: 22.34
+- country: US
+  region: NC
+  name: Pembroke
+  lat: '34.6766'
+  long: "-79.1935"
+  nearby_rate_centers:
+  - name: PEMBROKE
+    distance_km: 0.91
+  - name: MAXTON
+    distance_km: 15.71
+  - name: REDSPRINGS
+    distance_km: 15.88
+- country: US
+  region: NC
+  name: Pikeville
+  lat: '35.4972'
+  long: "-77.9877"
+  nearby_rate_centers:
+  - name: FREMONT
+    distance_km: 5.12
+  - name: GOLDSBORO
+    distance_km: 12.5
+  - name: KENLY
+    distance_km: 16.26
+- country: US
+  region: NC
+  name: Pilot Mountain
+  lat: '36.3853'
+  long: "-80.4735"
+  nearby_rate_centers:
+  - name: PILOT MT
+    distance_km: 0.49
+  - name: WESTFIELD
+    distance_km: 10.07
+  - name: SHOALS
+    distance_km: 12.9
+- country: US
+  region: NC
+  name: Pine Knoll Shores
+  lat: '34.6974'
+  long: "-76.8205"
+  nearby_rate_centers:
+  - name: MOREHEADCY
+    distance_km: 8.99
+  - name: NEWPORT
+    distance_km: 9.9
+  - name: BEAUFORT
+    distance_km: 16.06
+- country: US
+  region: NC
+  name: Pine Level
+  lat: '35.5029'
+  long: "-78.2492"
+  nearby_rate_centers:
+  - name: SELMA
+    distance_km: 5.3
+  - name: PRINCETON
+    distance_km: 8.53
+  - name: SMITHFIELD
+    distance_km: 8.55
+- country: US
+  region: NC
+  name: Pinebluff
+  lat: '35.1088'
+  long: "-79.4713"
+  nearby_rate_centers:
+  - name: PINEBLUFF
+    distance_km: 0.43
+  - name: ABERDEEN
+    distance_km: 4.93
+  - name: PINEHURST
+    distance_km: 9.03
+- country: US
+  region: NC
+  name: Pinehurst
+  lat: '35.1922'
+  long: "-79.4684"
+  nearby_rate_centers:
+  - name: PINEHURST
+    distance_km: 0.49
+  - name: SOUTHEPINS
+    distance_km: 6.59
+  - name: ABERDEEN
+    distance_km: 7.76
+- country: US
+  region: NC
+  name: Pinetops
+  lat: '35.7912'
+  long: "-77.6378"
+  nearby_rate_centers:
+  - name: PINETOPS
+    distance_km: 0.79
+  - name: FOUNTAIN
+    distance_km: 12.99
+  - name: TARBORO
+    distance_km: 15.35
+- country: US
+  region: NC
+  name: Pinetown
+  lat: '35.6111'
+  long: "-76.8558"
+  nearby_rate_centers:
+  - name: PINETOWN
+    distance_km: 0.24
+  - name: BATH
+    distance_km: 15.57
+  - name: WASHINGTON
+    distance_km: 19.39
+- country: US
+  region: NC
+  name: Pineville
+  lat: '35.0864'
+  long: "-80.8915"
+  nearby_rate_centers:
+  - name: PINEVILLE
+    distance_km: 0.08
+  - name: MATTHEWS
+    distance_km: 15.8
+  - name: CHARLOTTE
+    distance_km: 16.25
+- country: US
+  region: NC
+  name: Piney Green
+  lat: '34.7498'
+  long: "-77.3208"
+  nearby_rate_centers:
+  - name: JACKSONVL
+    distance_km: 10.43
+  - name: MAYSVILLE
+    distance_km: 18.26
+  - name: SWANSBORO
+    distance_km: 18.96
+  - name: SWNSBRWCAR
+    distance_km: 18.96
+- country: US
+  region: NC
+  name: Pink Hill
+  lat: '35.0562'
+  long: "-77.7436"
+  nearby_rate_centers:
+  - name: PINK HILL
+    distance_km: 0.56
+  - name: BEULAVILLE
+    distance_km: 15.77
+  - name: MOSS HILL
+    distance_km: 16.42
+- country: US
+  region: NC
+  name: Pinnacle
+  lat: '36.3230'
+  long: "-80.4241"
+  nearby_rate_centers:
+  - name: KING
+    distance_km: 7.3
+  - name: PILOT MT
+    distance_km: 7.91
+  - name: SHOALS
+    distance_km: 10.06
+- country: US
+  region: NC
+  name: Pittsboro
+  lat: '35.7255'
+  long: "-79.1713"
+  nearby_rate_centers:
+  - name: PITTSBORO
+    distance_km: 1.35
+  - name: GOLDSTON
+    distance_km: 20.08
+  - name: CHAPELHILL
+    distance_km: 22.8
+- country: US
+  region: NC
+  name: Plain View
+  lat: '35.2457'
+  long: "-78.5634"
+  nearby_rate_centers:
+  - name: DUNN
+    distance_km: 8.46
+  - name: DUNN-CMBLD
+    distance_km: 8.46
+  - name: COHARIE
+    distance_km: 8.78
+  - name: BENSON
+    distance_km: 15.16
+- country: US
+  region: NC
+  name: Pleasant Garden
+  lat: '35.9595'
+  long: "-79.7600"
+  nearby_rate_centers:
+  - name: JULIAN
+    distance_km: 10.28
+  - name: GREENSBORO
+    distance_km: 13.04
+  - name: RANDLEMAN
+    distance_km: 16.22
+- country: US
+  region: NC
+  name: Pleasant Hill
+  lat: '36.2580'
+  long: "-80.8904"
+  nearby_rate_centers:
+  - name: ELKIN
+    distance_km: 4.25
+  - name: STATE ROAD
+    distance_km: 7.36
+  - name: ZEPHYR
+    distance_km: 11.2
+- country: US
+  region: NC
+  name: Plymouth
+  lat: '35.8588'
+  long: "-76.7487"
+  nearby_rate_centers:
+  - name: PLYMOUTH
+    distance_km: 0.92
+  - name: PIKE ROAD
+    distance_km: 22.35
+  - name: WINDSOR
+    distance_km: 23.82
+- country: US
+  region: NC
+  name: Polkton
+  lat: '35.0031'
+  long: "-80.1963"
+  nearby_rate_centers:
+  - name: PEACHLPKTN
+    distance_km: 2.45
+  - name: WADESBORO
+    distance_km: 10.98
+  - name: ANSONVILLE
+    distance_km: 12.78
+- country: US
+  region: NC
+  name: Polkville
+  lat: '35.4163'
+  long: "-81.6440"
+  nearby_rate_centers:
+  - name: LAWNDALE
+    distance_km: 7.76
+  - name: LATTIMORE
+    distance_km: 11.07
+  - name: ELLENBORO
+    distance_km: 14.61
+- country: US
+  region: NC
+  name: Pollocksville
+  lat: '35.0056'
+  long: "-77.2211"
+  nearby_rate_centers:
+  - name: POLLOCKSVL
+    distance_km: 0.16
+  - name: MAYSVILLE
+    distance_km: 12.06
+  - name: TRENTON
+    distance_km: 13.66
+- country: US
+  region: NC
+  name: Porters Neck
+  lat: '34.2942'
+  long: "-77.7695"
+  nearby_rate_centers:
+  - name: SCOTTS HILL 270
+    distance_km: 2.89
+  - name: SCOTTSHILL
+    distance_km: 2.89
+  - name: WRGHTSVBCH
+    distance_km: 9.83
+  - name: CASTLEHAYN
+    distance_km: 13.91
+- country: US
+  region: NC
+  name: Potters Hill
+  lat: '34.9645'
+  long: "-77.6983"
+  nearby_rate_centers:
+  - name: BEULAVILLE
+    distance_km: 8.89
+  - name: PINK HILL
+    distance_km: 10.44
+  - name: RICHLANDS
+    distance_km: 15.44
+- country: US
+  region: NC
+  name: Powellsville
+  lat: '36.2252'
+  long: "-76.9316"
+  nearby_rate_centers:
+  - name: AHOSKIE
+    distance_km: 8.8
+  - name: COLERAIN
+    distance_km: 15.27
+  - name: AULANDER
+    distance_km: 16.57
+- country: US
+  region: NC
+  name: Princeton
+  lat: '35.4671'
+  long: "-78.1613"
+  nearby_rate_centers:
+  - name: PRINCETON
+    distance_km: 0.6
+  - name: SELMA
+    distance_km: 14.11
+  - name: KENLY
+    distance_km: 14.11
+- country: US
+  region: NC
+  name: Princeville
+  lat: '35.8861'
+  long: "-77.5194"
+  nearby_rate_centers:
+  - name: TARBORO
+    distance_km: 2.86
+  - name: PINETOPS
+    distance_km: 15.28
+  - name: BETHEL
+    distance_km: 15.57
+- country: US
+  region: NC
+  name: Proctorville
+  lat: '34.4752'
+  long: "-79.0371"
+  nearby_rate_centers:
+  - name: FAIRMONT
+    distance_km: 7.34
+  - name: LUMBERTON
+    distance_km: 17.13
+  - name: FAIR BLUFF
+    distance_km: 17.45
+- country: US
+  region: NC
+  name: Prospect
+  lat: '34.7359'
+  long: "-79.2251"
+  nearby_rate_centers:
+  - name: PEMBROKE
+    distance_km: 6.29
+  - name: REDSPRINGS
+    distance_km: 9.98
+  - name: MAXTON
+    distance_km: 11.49
+- country: US
+  region: NC
+  name: Pumpkin Center
+  lat: '34.7860'
+  long: "-77.3642"
+  nearby_rate_centers:
+  - name: JACKSONVL
+    distance_km: 7.58
+  - name: MAYSVILLE
+    distance_km: 17.2
+  - name: RICHLANDS
+    distance_km: 21.07
+- country: US
+  region: NC
+  name: Raeford
+  lat: '34.9809'
+  long: "-79.2291"
+  nearby_rate_centers:
+  - name: RAEFORD
+    distance_km: 0.65
+  - name: WAGRAM
+    distance_km: 15.77
+  - name: REDSPRINGS
+    distance_km: 18.44
+- country: US
+  region: NC
+  name: Raemon
+  lat: '34.6229'
+  long: "-79.3491"
+  nearby_rate_centers:
+  - name: ROWLAND
+    distance_km: 11.07
+  - name: MAXTON
+    distance_km: 12.29
+  - name: PEMBROKE
+    distance_km: 15.5
+- country: US
+  region: NC
+  name: Raleigh
+  lat: '35.8324'
+  long: "-78.6429"
+  nearby_rate_centers:
+  - name: RAL DUR AP
+    distance_km: 5.27
+  - name: RALEIGH
+    distance_km: 5.27
+  - name: CARY
+    distance_km: 13.58
+  - name: CARY-RTP
+    distance_km: 13.58
+  - name: KNIGHTDALE
+    distance_km: 15.12
+- country: US
+  region: NC
+  name: Ramseur
+  lat: '35.7371'
+  long: "-79.6543"
+  nearby_rate_centers:
+  - name: RAMSEUR
+    distance_km: 0.56
+  - name: COLERIDGE
+    distance_km: 10.99
+  - name: LIBERTY-RA
+    distance_km: 14.74
+- country: US
+  region: NC
+  name: Randleman
+  lat: '35.8165'
+  long: "-79.8066"
+  nearby_rate_centers:
+  - name: RANDLEMAN
+    distance_km: 0.83
+  - name: ASHEBORO
+    distance_km: 12.19
+  - name: JULIAN
+    distance_km: 16.11
+- country: US
+  region: NC
+  name: Ranlo
+  lat: '35.2889'
+  long: "-81.1294"
+  nearby_rate_centers:
+  - name: LOWELL
+    distance_km: 3.77
+  - name: GASTONIA
+    distance_km: 5.73
+  - name: STANLEY
+    distance_km: 8.59
+- country: US
+  region: NC
+  name: Raynham
+  lat: '34.5761'
+  long: "-79.1908"
+  nearby_rate_centers:
+  - name: ROWLAND
+    distance_km: 10.51
+  - name: FAIRMONT
+    distance_km: 11.6
+  - name: PEMBROKE
+    distance_km: 12.04
+- country: US
+  region: NC
+  name: Red Cross
+  lat: '35.2659'
+  long: "-80.3623"
+  nearby_rate_centers:
+  - name: OAKBORO
+    distance_km: 4.99
+  - name: LOCUST
+    distance_km: 6.45
+  - name: NEW SALEM
+    distance_km: 14.79
+- country: US
+  region: NC
+  name: Red Oak
+  lat: '36.0415'
+  long: "-77.9064"
+  nearby_rate_centers:
+  - name: NASHVILLE
+    distance_km: 10.0
+  - name: ROCKYMOUNT
+    distance_km: 14.87
+  - name: WHITAKERS
+    distance_km: 18.91
+- country: US
+  region: NC
+  name: Red Springs
+  lat: '34.8046'
+  long: "-79.1822"
+  nearby_rate_centers:
+  - name: REDSPRINGS
+    distance_km: 1.64
+  - name: PEMBROKE
+    distance_km: 13.45
+  - name: MAXTON
+    distance_km: 17.32
+- country: US
+  region: NC
+  name: Reidsville
+  lat: '36.3376'
+  long: "-79.6725"
+  nearby_rate_centers:
+  - name: REIDSVILLE
+    distance_km: 2.36
+  - name: MONTICELLO
+    distance_km: 13.63
+  - name: RUFFIN
+    distance_km: 16.72
+- country: US
+  region: NC
+  name: Rennert
+  lat: '34.8142'
+  long: "-79.0791"
+  nearby_rate_centers:
+  - name: ST PAULS
+    distance_km: 9.06
+  - name: REDSPRINGS
+    distance_km: 9.63
+  - name: PARKTON
+    distance_km: 10.99
+- country: US
+  region: NC
+  name: Rex
+  lat: '34.8508'
+  long: "-79.0468"
+  nearby_rate_centers:
+  - name: PARKTON
+    distance_km: 5.99
+  - name: ST PAULS
+    distance_km: 7.7
+  - name: REDSPRINGS
+    distance_km: 13.04
+- country: US
+  region: NC
+  name: Rhodhiss
+  lat: '35.7684'
+  long: "-81.4312"
+  nearby_rate_centers:
+  - name: GRANITEFLS
+    distance_km: 3.33
+  - name: HILDEBRAN
+    distance_km: 5.96
+  - name: HICKORY
+    distance_km: 8.99
+- country: US
+  region: NC
+  name: Rich Square
+  lat: '36.2739'
+  long: "-77.2839"
+  nearby_rate_centers:
+  - name: RICHSQUARE
+    distance_km: 0.4
+  - name: ROXOBEL
+    distance_km: 9.14
+  - name: WOODLAND
+    distance_km: 9.61
+- country: US
+  region: NC
+  name: Richfield
+  lat: '35.4716'
+  long: "-80.2586"
+  nearby_rate_centers:
+  - name: NEW LONDON
+    distance_km: 4.67
+  - name: ALBEMARLE
+    distance_km: 14.36
+  - name: BADIN LAKE
+    distance_km: 14.57
+- country: US
+  region: NC
+  name: Richlands
+  lat: '34.9003'
+  long: "-77.5427"
+  nearby_rate_centers:
+  - name: RICHLANDS
+    distance_km: 0.47
+  - name: JACKSONVL
+    distance_km: 19.34
+  - name: BEULAVILLE
+    distance_km: 21.42
+- country: US
+  region: NC
+  name: Riegelwood
+  lat: '34.3444'
+  long: "-78.2198"
+  nearby_rate_centers:
+  - name: ACME
+    distance_km: 2.59
+  - name: KELLY
+    distance_km: 15.73
+  - name: ATKINSON
+    distance_km: 20.53
+- country: US
+  region: NC
+  name: River Bend
+  lat: '35.0717'
+  long: "-77.1504"
+  nearby_rate_centers:
+  - name: POLLOCKSVL
+    distance_km: 9.69
+  - name: NEW BERN
+    distance_km: 10.19
+  - name: TRENTON
+    distance_km: 18.25
+- country: US
+  region: NC
+  name: River Road
+  lat: '35.5107'
+  long: "-76.9898"
+  nearby_rate_centers:
+  - name: WASHINGTON
+    distance_km: 6.65
+  - name: PINETOWN
+    distance_km: 16.27
+  - name: BATH
+    distance_km: 16.99
+- country: US
+  region: NC
+  name: Roanoke Rapids
+  lat: '36.4452'
+  long: "-77.6490"
+  nearby_rate_centers:
+  - name: ROANOKERPD
+    distance_km: 1.95
+  - name: WELDON
+    distance_km: 4.94
+  - name: HALIFAX
+    distance_km: 14.03
+- country: US
+  region: NC
+  name: Robbins
+  lat: '35.4279'
+  long: "-79.5828"
+  nearby_rate_centers:
+  - name: ROBBINS
+    distance_km: 0.56
+  - name: HIGHFALLS
+    distance_km: 7.42
+  - name: BENNETT
+    distance_km: 10.86
+- country: US
+  region: NC
+  name: Robbinsville
+  lat: '35.3217'
+  long: "-83.8094"
+  nearby_rate_centers:
+  - name: ROBBINSVL
+    distance_km: 0.22
+  - name: FONTANAVLG
+    distance_km: 13.43
+  - name: ANDREWS
+    distance_km: 13.52
+- country: US
+  region: NC
+  name: Roberdel
+  lat: '34.9774'
+  long: "-79.7459"
+  nearby_rate_centers:
+  - name: ROCKINGHAM
+    distance_km: 4.38
+  - name: ELLERBE
+    distance_km: 9.95
+  - name: HAMLET
+    distance_km: 10.55
+- country: US
+  region: NC
+  name: Robersonville
+  lat: '35.8247'
+  long: "-77.2533"
+  nearby_rate_centers:
+  - name: ROBERSONVL
+    distance_km: 0.48
+  - name: BETHEL
+    distance_km: 11.18
+  - name: HAMILTON
+    distance_km: 13.74
+- country: US
+  region: NC
+  name: Rockfish
+  lat: '34.9902'
+  long: "-79.0694"
+  nearby_rate_centers:
+  - name: PARKTON
+    distance_km: 11.32
+  - name: RAEFORD
+    distance_km: 15.18
+  - name: FAYETTEVL
+    distance_km: 17.75
+- country: US
+  region: NC
+  name: Rockingham
+  lat: '34.9386'
+  long: "-79.7608"
+  nearby_rate_centers:
+  - name: ROCKINGHAM
+    distance_km: 0.58
+  - name: HAMLET
+    distance_km: 7.74
+  - name: ELLERBE
+    distance_km: 14.23
+- country: US
+  region: NC
+  name: Rockwell
+  lat: '35.5538'
+  long: "-80.4070"
+  nearby_rate_centers:
+  - name: GRTQRRCKWL
+    distance_km: 2.57
+  - name: SALISBURY
+    distance_km: 13.08
+  - name: CHNGRVLNDS
+    distance_km: 15.06
+- country: US
+  region: NC
+  name: Rocky Mount
+  lat: '35.9685'
+  long: "-77.8040"
+  nearby_rate_centers:
+  - name: ROCKYMOUNT
+    distance_km: 3.16
+  - name: NASHVILLE
+    distance_km: 14.72
+  - name: WHITAKERS
+    distance_km: 17.62
+- country: US
+  region: NC
+  name: Rocky Point
+  lat: '34.4441'
+  long: "-77.8909"
+  nearby_rate_centers:
+  - name: CASTLEHAYN
+    distance_km: 9.99
+  - name: BURGAW
+    distance_km: 12.12
+  - name: SCOTTS HILL 270
+    distance_km: 17.7
+  - name: SCOTTSHILL
+    distance_km: 17.7
+- country: US
+  region: NC
+  name: Rodanthe
+  lat: '35.5924'
+  long: "-75.4662"
+  nearby_rate_centers:
+  - name: WAVES
+    distance_km: 3.53
+  - name: BUXTON
+    distance_km: 37.71
+  - name: MANTEO
+    distance_km: 39.92
+- country: US
+  region: NC
+  name: Rolesville
+  lat: '35.9223'
+  long: "-78.4656"
+  nearby_rate_centers:
+  - name: WAKEFOREST
+    distance_km: 8.23
+  - name: KNIGHTDALE
+    distance_km: 14.39
+  - name: ZEBULON
+    distance_km: 17.41
+- country: US
+  region: NC
+  name: Ronda
+  lat: '36.2217'
+  long: "-80.9431"
+  nearby_rate_centers:
+  - name: CLINGMAN
+    distance_km: 7.51
+  - name: ELKIN
+    distance_km: 8.84
+  - name: LOMAX
+    distance_km: 10.65
+- country: US
+  region: NC
+  name: Roper
+  lat: '35.8786'
+  long: "-76.6170"
+  nearby_rate_centers:
+  - name: PLYMOUTH
+    distance_km: 12.22
+  - name: CRESWELL
+    distance_km: 20.34
+  - name: EDENTON
+    distance_km: 20.76
+- country: US
+  region: NC
+  name: Rose Hill
+  lat: '34.8261'
+  long: "-78.0259"
+  nearby_rate_centers:
+  - name: ROSE HILL
+    distance_km: 0.96
+  - name: WALLACE
+    distance_km: 10.73
+  - name: KENANSVL
+    distance_km: 15.85
+- country: US
+  region: NC
+  name: Roseboro
+  lat: '34.9551'
+  long: "-78.5137"
+  nearby_rate_centers:
+  - name: ROSEBORO
+    distance_km: 0.46
+  - name: SOUTHRIVER
+    distance_km: 8.19
+  - name: HERRING
+    distance_km: 12.83
+- country: US
+  region: NC
+  name: Rosman
+  lat: '35.1458'
+  long: "-82.8200"
+  nearby_rate_centers:
+  - name: BREVARD
+    distance_km: 12.35
+  - name: CASHIERS
+    distance_km: 25.65
+  - name: HIGHLANDS
+    distance_km: 35.89
+- country: US
+  region: NC
+  name: Rougemont
+  lat: '36.2210'
+  long: "-78.9207"
+  nearby_rate_centers:
+  - name: TIMBERLAKE
+    distance_km: 7.63
+  - name: ROXBORO
+    distance_km: 19.82
+  - name: HILLSBORGH
+    distance_km: 23.18
+- country: US
+  region: NC
+  name: Rowland
+  lat: '34.5362'
+  long: "-79.2928"
+  nearby_rate_centers:
+  - name: ROWLAND
+    distance_km: 0.22
+  - name: FAIRMONT
+    distance_km: 17.05
+  - name: PEMBROKE
+    distance_km: 18.66
+- country: US
+  region: NC
+  name: Roxboro
+  lat: '36.3879'
+  long: "-78.9812"
+  nearby_rate_centers:
+  - name: ROXBORO
+    distance_km: 0.52
+  - name: TIMBERLAKE
+    distance_km: 11.76
+  - name: PROSPECTHL
+    distance_km: 24.72
+- country: US
+  region: NC
+  name: Roxobel
+  lat: '36.2015'
+  long: "-77.2398"
+  nearby_rate_centers:
+  - name: ROXOBEL
+    distance_km: 0.21
+  - name: RICHSQUARE
+    distance_km: 9.34
+  - name: LEWISTON
+    distance_km: 10.58
+- country: US
+  region: NC
+  name: Royal Pines
+  lat: '35.4783'
+  long: "-82.5038"
+  nearby_rate_centers:
+  - name: ARDEN
+    distance_km: 1.77
+  - name: FAIRVIEW
+    distance_km: 10.48
+  - name: ASHEVILLE
+    distance_km: 13.62
+- country: US
+  region: NC
+  name: Ruffin
+  lat: '36.4428'
+  long: "-79.5433"
+  nearby_rate_centers:
+  - name: RUFFIN
+    distance_km: 0.71
+  - name: REIDSVILLE
+    distance_km: 14.47
+  - name: GATEWOOD
+    distance_km: 16.59
+- country: US
+  region: NC
+  name: Rural Hall
+  lat: '36.2251'
+  long: "-80.2973"
+  nearby_rate_centers:
+  - name: RURAL HALL
+    distance_km: 1.77
+  - name: STANLEYVL
+    distance_km: 3.19
+  - name: OLDTOWN
+    distance_km: 7.54
+- country: US
+  region: NC
+  name: Ruth
+  lat: '35.3824'
+  long: "-81.9448"
+  nearby_rate_centers:
+  - name: RUTHEFRDTN
+    distance_km: 2.34
+  - name: FORESTCITY
+    distance_km: 9.75
+  - name: ELLENBORO
+    distance_km: 18.01
+- country: US
+  region: NC
+  name: Rutherford College
+  lat: '35.7514'
+  long: "-81.5270"
+  nearby_rate_centers:
+  - name: VALDESE
+    distance_km: 3.62
+  - name: GRANITEFLS
+    distance_km: 10.53
+  - name: HILDEBRAN
+    distance_km: 10.93
+- country: US
+  region: NC
+  name: Rutherfordton
+  lat: '35.3642'
+  long: "-81.9613"
+  nearby_rate_centers:
+  - name: RUTHEFRDTN
+    distance_km: 0.2
+  - name: FORESTCITY
+    distance_km: 9.83
+  - name: GREENCREEK
+    distance_km: 18.27
+- country: US
+  region: NC
+  name: Salem
+  lat: '35.6997'
+  long: "-81.7003"
+  nearby_rate_centers:
+  - name: MORGANTON
+    distance_km: 5.15
+  - name: VALDESE
+    distance_km: 13.28
+  - name: HILDEBRAN
+    distance_km: 25.95
+- country: US
+  region: NC
+  name: Salemburg
+  lat: '35.0152'
+  long: "-78.5028"
+  nearby_rate_centers:
+  - name: HERRING
+    distance_km: 7.17
+  - name: ROSEBORO
+    distance_km: 7.21
+  - name: SOUTHRIVER
+    distance_km: 14.17
+- country: US
+  region: NC
+  name: Salisbury
+  lat: '35.6658'
+  long: "-80.4905"
+  nearby_rate_centers:
+  - name: SALISBURY
+    distance_km: 2.98
+  - name: GRTQRRCKWL
+    distance_km: 12.0
+  - name: CHNGRVLNDS
+    distance_km: 13.36
+- country: US
+  region: NC
+  name: Saluda
+  lat: '35.2375'
+  long: "-82.3469"
+  nearby_rate_centers:
+  - name: SALUDA
+    distance_km: 0.62
+  - name: TRYON
+    distance_km: 10.67
+  - name: HENDERSNVL
+    distance_km: 13.95
+- country: US
+  region: NC
+  name: Salvo
+  lat: '35.5488'
+  long: "-75.4689"
+  nearby_rate_centers:
+  - name: WAVES
+    distance_km: 1.36
+  - name: BUXTON
+    distance_km: 32.91
+  - name: MANTEO
+    distance_km: 44.15
+- country: US
+  region: NC
+  name: Sandy Creek
+  lat: '34.2799'
+  long: "-78.1531"
+  nearby_rate_centers:
+  - name: ACME
+    distance_km: 6.91
+  - name: WILMINGTON
+    distance_km: 20.5
+  - name: BOLIVIA
+    distance_km: 23.47
+- country: US
+  region: NC
+  name: Sandyfield
+  lat: '34.3738'
+  long: "-78.3000"
+  nearby_rate_centers:
+  - name: KELLY
+    distance_km: 9.83
+  - name: ACME
+    distance_km: 10.25
+  - name: ATKINSON
+    distance_km: 20.47
+- country: US
+  region: NC
+  name: Sanford
+  lat: '35.4875'
+  long: "-79.1770"
+  nearby_rate_centers:
+  - name: SANFORD
+    distance_km: 1.72
+  - name: BROADWAY
+    distance_km: 10.96
+  - name: OLIVIA
+    distance_km: 16.42
+- country: US
+  region: NC
+  name: Saratoga
+  lat: '35.6537'
+  long: "-77.7756"
+  nearby_rate_centers:
+  - name: STANTONSBG
+    distance_km: 6.75
+  - name: FOUNTAIN
+    distance_km: 12.15
+  - name: WILSON
+    distance_km: 14.32
+- country: US
+  region: NC
+  name: Sawmills
+  lat: '35.8165'
+  long: "-81.4781"
+  nearby_rate_centers:
+  - name: GRANITEFLS
+    distance_km: 5.18
+  - name: VALDESE
+    distance_km: 10.89
+  - name: LENOIR
+    distance_km: 12.3
+- country: US
+  region: NC
+  name: Saxapahaw
+  lat: '35.9489'
+  long: "-79.3210"
+  nearby_rate_centers:
+  - name: SAXAPAHAW
+    distance_km: 1.06
+  - name: MEBANE
+    distance_km: 17.48
+  - name: BURLINGTON
+    distance_km: 18.67
+- country: US
+  region: NC
+  name: Scotch Meadows
+  lat: '34.6890'
+  long: "-79.5179"
+  nearby_rate_centers:
+  - name: LAURINBURG
+    distance_km: 9.9
+  - name: GIBSON
+    distance_km: 10.95
+  - name: LAURELHILL
+    distance_km: 13.52
+- country: US
+  region: NC
+  name: Scotland Neck
+  lat: '36.1308'
+  long: "-77.4214"
+  nearby_rate_centers:
+  - name: SCOTLDNECK
+    distance_km: 0.57
+  - name: ROXOBEL
+    distance_km: 17.97
+  - name: RICHSQUARE
+    distance_km: 20.43
+- country: US
+  region: NC
+  name: Sea Breeze
+  lat: '34.0698'
+  long: "-77.8965"
+  nearby_rate_centers:
+  - name: CAROLINBCH
+    distance_km: 3.91
+  - name: BLNGSPGLKS
+    distance_km: 16.05
+  - name: WILMINGTON
+    distance_km: 17.49
+- country: US
+  region: NC
+  name: Seaboard
+  lat: '36.4907'
+  long: "-77.4420"
+  nearby_rate_centers:
+  - name: SEABOARD
+    distance_km: 0.73
+  - name: JACKSON
+    distance_km: 11.18
+  - name: WELDON
+    distance_km: 15.69
+- country: US
+  region: NC
+  name: Seagrove
+  lat: '35.5391'
+  long: "-79.7800"
+  nearby_rate_centers:
+  - name: SEAGROVE
+    distance_km: 0.6
+  - name: PISGAH
+    distance_km: 7.93
+  - name: HIGHFALLS
+    distance_km: 17.44
+- country: US
+  region: NC
+  name: Sedalia
+  lat: '36.0760'
+  long: "-79.6208"
+  nearby_rate_centers:
+  - name: GIBSONVL
+    distance_km: 8.01
+  - name: GREENSBORO
+    distance_km: 14.5
+  - name: KIMESVILLE
+    distance_km: 15.34
+- country: US
+  region: NC
+  name: Selma
+  lat: '35.5406'
+  long: "-78.2932"
+  nearby_rate_centers:
+  - name: SELMA
+    distance_km: 0.79
+  - name: SMITHFIELD
+    distance_km: 5.24
+  - name: PRINCETON
+    distance_km: 14.16
+- country: US
+  region: NC
+  name: Seven Devils
+  lat: '36.1490'
+  long: "-81.8120"
+  nearby_rate_centers:
+  - name: WATAUGA
+    distance_km: 4.62
+  - name: BANNER ELK
+    distance_km: 6.22
+  - name: BEECH MT
+    distance_km: 7.75
+- country: US
+  region: NC
+  name: Seven Lakes
+  lat: '35.2647'
+  long: "-79.5865"
+  nearby_rate_centers:
+  - name: WEST END
+    distance_km: 3.27
+  - name: PINEHURST
+    distance_km: 13.23
+  - name: CANDOR
+    distance_km: 14.25
+- country: US
+  region: NC
+  name: Seven Springs
+  lat: '35.2249'
+  long: "-77.8452"
+  nearby_rate_centers:
+  - name: MOSS HILL
+    distance_km: 7.56
+  - name: LA GRANGE
+    distance_km: 11.07
+  - name: MOUNTOLIVE
+    distance_km: 20.12
+- country: US
+  region: NC
+  name: Severn
+  lat: '36.5143'
+  long: "-77.1893"
+  nearby_rate_centers:
+  - name: CONWAY
+    distance_km: 8.45
+  - name: MURFREESBO
+    distance_km: 11.57
+  - name: WOODLAND
+    distance_km: 20.01
+- country: US
+  region: NC
+  name: Shallotte
+  lat: '33.9768'
+  long: "-78.3803"
+  nearby_rate_centers:
+  - name: SHALLOTTE
+    distance_km: 0.55
+  - name: HOLDEN BCH
+    distance_km: 8.63
+  - name: SEASIDE
+    distance_km: 13.1
+- country: US
+  region: NC
+  name: Shannon
+  lat: '34.8476'
+  long: "-79.1396"
+  nearby_rate_centers:
+  - name: REDSPRINGS
+    distance_km: 5.16
+  - name: PARKTON
+    distance_km: 12.62
+  - name: ST PAULS
+    distance_km: 15.19
+- country: US
+  region: NC
+  name: Sharpsburg
+  lat: '35.8663'
+  long: "-77.8306"
+  nearby_rate_centers:
+  - name: ELM CITY
+    distance_km: 7.53
+  - name: ROCKYMOUNT
+    distance_km: 8.74
+  - name: NASHVILLE
+    distance_km: 16.61
+- country: US
+  region: NC
+  name: Shelby
+  lat: '35.2904'
+  long: "-81.5451"
+  nearby_rate_centers:
+  - name: SHELBY
+    distance_km: 0.86
+  - name: LATTIMORE
+    distance_km: 10.79
+  - name: LAWNDALE
+    distance_km: 14.2
+- country: US
+  region: NC
+  name: Siler City
+  lat: '35.7251'
+  long: "-79.4560"
+  nearby_rate_centers:
+  - name: SILER CITY
+    distance_km: 0.96
+  - name: BONLEE
+    distance_km: 8.9
+  - name: LIBERTY-RA
+    distance_km: 17.3
+- country: US
+  region: NC
+  name: Silver City
+  lat: '34.9972'
+  long: "-79.2292"
+  nearby_rate_centers:
+  - name: RAEFORD
+    distance_km: 1.71
+  - name: WAGRAM
+    distance_km: 16.94
+  - name: REDSPRINGS
+    distance_km: 20.21
+- country: US
+  region: NC
+  name: Silver Lake
+  lat: '34.1409'
+  long: "-77.9089"
+  nearby_rate_centers:
+  - name: WILMINGTON
+    distance_km: 9.56
+  - name: WRGHTSVBCH
+    distance_km: 11.71
+  - name: CAROLINBCH
+    distance_km: 11.85
+- country: US
+  region: NC
+  name: Simpson
+  lat: '35.5753'
+  long: "-77.2790"
+  nearby_rate_centers:
+  - name: GREENVILLE
+    distance_km: 9.16
+  - name: AYDEN
+    distance_km: 17.27
+  - name: WASHINGTON
+    distance_km: 20.82
+- country: US
+  region: NC
+  name: Sims
+  lat: '35.7596'
+  long: "-78.0598"
+  nearby_rate_centers:
+  - name: BAILEY
+    distance_km: 5.85
+  - name: LUCAMA
+    distance_km: 13.79
+  - name: WILSON
+    distance_km: 14.26
+- country: US
+  region: NC
+  name: Skippers Corner
+  lat: '34.3292'
+  long: "-77.9141"
+  nearby_rate_centers:
+  - name: CASTLEHAYN
+    distance_km: 3.04
+  - name: WILMINGTON
+    distance_km: 12.1
+  - name: SCOTTS HILL 270
+    distance_km: 13.29
+  - name: SCOTTSHILL
+    distance_km: 13.29
+- country: US
+  region: NC
+  name: Smithfield
+  lat: '35.5133'
+  long: "-78.3495"
+  nearby_rate_centers:
+  - name: SMITHFIELD
+    distance_km: 0.7
+  - name: SELMA
+    distance_km: 5.49
+  - name: FOUR OAKS
+    distance_km: 10.43
+- country: US
+  region: NC
+  name: Smithtown
+  lat: '36.2326'
+  long: "-80.5711"
+  nearby_rate_centers:
+  - name: FORBUSH
+    distance_km: 3.48
+  - name: EAST BEND
+    distance_km: 6.13
+  - name: SHOALS
+    distance_km: 6.63
+- country: US
+  region: NC
+  name: Sneads Ferry
+  lat: '34.5564'
+  long: "-77.3824"
+  nearby_rate_centers:
+  - name: SNEADSFRRY
+    distance_km: 1.73
+  - name: HOLLYRIDGE
+    distance_km: 17.17
+  - name: JACKSONVL
+    distance_km: 22.11
+- country: US
+  region: NC
+  name: Snow Hill
+  lat: '35.4506'
+  long: "-77.6769"
+  nearby_rate_centers:
+  - name: SNOW HILL
+    distance_km: 1.03
+  - name: FARMVILLE
+    distance_km: 17.84
+  - name: LA GRANGE
+    distance_km: 18.31
+- country: US
+  region: NC
+  name: South Henderson
+  lat: '36.3033'
+  long: "-78.4060"
+  nearby_rate_centers:
+  - name: HENDERSON
+    distance_km: 2.41
+  - name: OXFORD
+    distance_km: 16.8
+  - name: FRANKLINTN
+    distance_km: 23.24
+- country: US
+  region: NC
+  name: South Mills
+  lat: '36.4379'
+  long: "-76.3308"
+  nearby_rate_centers:
+  - name: SOUTHMILLS
+    distance_km: 0.84
+  - name: MOYOCK
+    distance_km: 17.16
+  - name: ELIZABTHCY
+    distance_km: 18.25
+- country: US
+  region: NC
+  name: South Rosemary
+  lat: '36.4463'
+  long: "-77.7065"
+  nearby_rate_centers:
+  - name: ROANOKERPD
+    distance_km: 4.44
+  - name: WELDON
+    distance_km: 9.89
+  - name: HALIFAX
+    distance_km: 16.95
+- country: US
+  region: NC
+  name: South Weldon
+  lat: '36.4135'
+  long: "-77.6024"
+  nearby_rate_centers:
+  - name: WELDON
+    distance_km: 1.54
+  - name: ROANOKERPD
+    distance_km: 7.33
+  - name: HALIFAX
+    distance_km: 9.37
+- country: US
+  region: NC
+  name: Southern Pines
+  lat: '35.1927'
+  long: "-79.4039"
+  nearby_rate_centers:
+  - name: SOUTHEPINS
+    distance_km: 2.22
+  - name: PINEHURST
+    distance_km: 6.3
+  - name: ABERDEEN
+    distance_km: 7.01
+- country: US
+  region: NC
+  name: Southern Shores
+  lat: '36.1205'
+  long: "-75.7328"
+  nearby_rate_centers:
+  - name: MAMIE
+    distance_km: 9.59
+  - name: KLDEVILHLS
+    distance_km: 14.33
+  - name: MANTEO
+    distance_km: 24.08
+- country: US
+  region: NC
+  name: Southmont
+  lat: '35.6535'
+  long: "-80.2702"
+  nearby_rate_centers:
+  - name: SOUTHMONT
+    distance_km: 0.61
+  - name: DENTON
+    distance_km: 14.25
+  - name: GRTQRRCKWL
+    distance_km: 16.16
+- country: US
+  region: NC
+  name: Southport
+  lat: '33.9411'
+  long: "-78.0205"
+  nearby_rate_centers:
+  - name: SOUTHPORT
+    distance_km: 1.76
+  - name: BLNGSPGLKS
+    distance_km: 11.05
+  - name: LONG BEACH
+    distance_km: 13.1
+- country: US
+  region: NC
+  name: Sparta
+  lat: '36.5034'
+  long: "-81.1217"
+  nearby_rate_centers:
+  - name: SPARTA
+    distance_km: 0.47
+  - name: GLADECREEK
+    distance_km: 13.02
+  - name: SCOTTVILLE
+    distance_km: 14.4
+- country: US
+  region: NC
+  name: Speed
+  lat: '35.9685'
+  long: "-77.4442"
+  nearby_rate_centers:
+  - name: TARBORO
+    distance_km: 11.24
+  - name: SCOTLDNECK
+    distance_km: 18.66
+  - name: BETHEL
+    distance_km: 18.83
+- country: US
+  region: NC
+  name: Spencer
+  lat: '35.6986'
+  long: "-80.4254"
+  nearby_rate_centers:
+  - name: SALISBURY
+    distance_km: 4.83
+  - name: CHURCHLAND
+    distance_km: 10.27
+  - name: GRTQRRCKWL
+    distance_km: 13.83
+- country: US
+  region: NC
+  name: Spencer Mountain
+  lat: '35.3073'
+  long: "-81.1101"
+  nearby_rate_centers:
+  - name: LOWELL
+    distance_km: 4.67
+  - name: STANLEY
+    distance_km: 6.03
+  - name: GASTONIA
+    distance_km: 8.35
+- country: US
+  region: NC
+  name: Spindale
+  lat: '35.3597'
+  long: "-81.9232"
+  nearby_rate_centers:
+  - name: RUTHEFRDTN
+    distance_km: 3.32
+  - name: FORESTCITY
+    distance_km: 6.63
+  - name: ELLENBORO
+    distance_km: 15.37
+- country: US
+  region: NC
+  name: Spout Springs
+  lat: '35.2724'
+  long: "-79.0331"
+  nearby_rate_centers:
+  - name: OLIVIA
+    distance_km: 11.26
+  - name: BROADWAY
+    distance_km: 20.75
+  - name: VASS
+    distance_km: 22.92
+- country: US
+  region: NC
+  name: Spring Hope
+  lat: '35.9441'
+  long: "-78.1090"
+  nearby_rate_centers:
+  - name: SPRINGHOPE
+    distance_km: 0.7
+  - name: NASHVILLE
+    distance_km: 12.97
+  - name: BAILEY
+    distance_km: 17.85
+- country: US
+  region: NC
+  name: Spring Lake
+  lat: '35.1843'
+  long: "-78.9962"
+  nearby_rate_centers:
+  - name: FAYETTEVL
+    distance_km: 17.17
+  - name: OLIVIA
+    distance_km: 21.22
+  - name: VASS
+    distance_km: 27.55
+- country: US
+  region: NC
+  name: Springdale
+  lat: '35.2902'
+  long: "-81.1449"
+  nearby_rate_centers:
+  - name: GASTONIA
+    distance_km: 4.73
+  - name: LOWELL
+    distance_km: 4.99
+  - name: STANLEY
+    distance_km: 9.17
+- country: US
+  region: NC
+  name: Spruce Pine
+  lat: '35.9104'
+  long: "-82.0731"
+  nearby_rate_centers:
+  - name: SPRUCEPINE
+    distance_km: 1.02
+  - name: MICAVILLE
+    distance_km: 12.79
+  - name: SEVIER
+    distance_km: 12.9
+- country: US
+  region: NC
+  name: St. Helena
+  lat: '34.5166'
+  long: "-77.9174"
+  nearby_rate_centers:
+  - name: BURGAW
+    distance_km: 3.7
+  - name: CASTLEHAYN
+    distance_km: 18.06
+  - name: ATKINSON
+    distance_km: 23.4
+- country: US
+  region: NC
+  name: St. James
+  lat: '33.9467'
+  long: "-78.1132"
+  nearby_rate_centers:
+  - name: LONG BEACH
+    distance_km: 5.85
+  - name: SOUTHPORT
+    distance_km: 9.08
+  - name: BLNGSPGLKS
+    distance_km: 10.61
+- country: US
+  region: NC
+  name: St. Pauls
+  lat: '34.8086'
+  long: "-78.9751"
+  nearby_rate_centers:
+  - name: ST PAULS
+    distance_km: 0.46
+  - name: PARKTON
+    distance_km: 10.65
+  - name: REDSPRINGS
+    distance_km: 19.14
+- country: US
+  region: NC
+  name: St. Stephens
+  lat: '35.7642'
+  long: "-81.2746"
+  nearby_rate_centers:
+  - name: HICKORY
+    distance_km: 6.86
+  - name: BETHLEHEM
+    distance_km: 7.68
+  - name: NEWTON
+    distance_km: 11.88
+- country: US
+  region: NC
+  name: Staley
+  lat: '35.7979'
+  long: "-79.5518"
+  nearby_rate_centers:
+  - name: LIBERTY-RA
+    distance_km: 6.06
+  - name: SILER CITY
+    distance_km: 11.11
+  - name: RAMSEUR
+    distance_km: 11.9
+- country: US
+  region: NC
+  name: Stallings
+  lat: '35.1088'
+  long: "-80.6598"
+  nearby_rate_centers:
+  - name: HEMBY BDG
+    distance_km: 3.13
+  - name: INDIANTRAL
+    distance_km: 3.91
+  - name: MATTHEWS
+    distance_km: 5.76
+- country: US
+  region: NC
+  name: Stanfield
+  lat: '35.2337'
+  long: "-80.4303"
+  nearby_rate_centers:
+  - name: LOCUST
+    distance_km: 2.44
+  - name: OAKBORO
+    distance_km: 8.7
+  - name: GOOSECREEK
+    distance_km: 12.3
+- country: US
+  region: NC
+  name: Stanley
+  lat: '35.3552'
+  long: "-81.0938"
+  nearby_rate_centers:
+  - name: STANLEY
+    distance_km: 0.62
+  - name: LOWELL
+    distance_km: 9.88
+  - name: MOUNTHOLLY
+    distance_km: 9.98
+- country: US
+  region: NC
+  name: Stantonsburg
+  lat: '35.6053'
+  long: "-77.8198"
+  nearby_rate_centers:
+  - name: STANTONSBG
+    distance_km: 0.73
+  - name: WILSON
+    distance_km: 15.49
+  - name: FREMONT
+    distance_km: 15.77
+- country: US
+  region: NC
+  name: Star
+  lat: '35.3992'
+  long: "-79.7832"
+  nearby_rate_centers:
+  - name: BISCOE
+    distance_km: 5.76
+  - name: TROY
+    distance_km: 11.51
+  - name: CANDOR
+    distance_km: 12.54
+- country: US
+  region: NC
+  name: Statesville
+  lat: '35.7842'
+  long: "-80.8713"
+  nearby_rate_centers:
+  - name: STATESVL
+    distance_km: 1.9
+  - name: TROUTMAN
+    distance_km: 9.48
+  - name: CLEVELAND
+    distance_km: 17.77
+- country: US
+  region: NC
+  name: Stedman
+  lat: '35.0114'
+  long: "-78.6996"
+  nearby_rate_centers:
+  - name: SOUTHRIVER
+    distance_km: 16.31
+  - name: FAYETTEVL
+    distance_km: 18.17
+  - name: ROSEBORO
+    distance_km: 18.22
+- country: US
+  region: NC
+  name: Stem
+  lat: '36.1963'
+  long: "-78.7200"
+  nearby_rate_centers:
+  - name: CREEDMOOR
+    distance_km: 9.69
+  - name: OXFORD
+    distance_km: 16.82
+  - name: TIMBERLAKE
+    distance_km: 23.04
+- country: US
+  region: NC
+  name: Stokes
+  lat: '35.7106'
+  long: "-77.2677"
+  nearby_rate_centers:
+  - name: ROBERSONVL
+    distance_km: 12.93
+  - name: BETHEL
+    distance_km: 14.61
+  - name: GREENVILLE
+    distance_km: 14.8
+- country: US
+  region: NC
+  name: Stokesdale
+  lat: '36.2318'
+  long: "-79.9834"
+  nearby_rate_centers:
+  - name: SUMMERFLD
+    distance_km: 8.35
+  - name: KERNERSVL
+    distance_km: 14.57
+  - name: WALNUTCOVE
+    distance_km: 16.38
+- country: US
+  region: NC
+  name: Stoneville
+  lat: '36.4653'
+  long: "-79.9064"
+  nearby_rate_centers:
+  - name: STONEVILLE
+    distance_km: 0.46
+  - name: MADISON
+    distance_km: 9.59
+  - name: EDEN
+    distance_km: 12.74
+- country: US
+  region: NC
+  name: Stonewall
+  lat: '35.1371'
+  long: "-76.7406"
+  nearby_rate_centers:
+  - name: BAYBORO
+    distance_km: 2.58
+  - name: ORIENTAL
+    distance_km: 12.93
+  - name: AURORA
+    distance_km: 18.46
+- country: US
+  region: NC
+  name: Stony Point
+  lat: '35.8669'
+  long: "-81.0470"
+  nearby_rate_centers:
+  - name: STONYPOINT
+    distance_km: 0.07
+  - name: TAYLORSVL
+    distance_km: 12.9
+  - name: STATESVL
+    distance_km: 16.79
+- country: US
+  region: NC
+  name: Stovall
+  lat: '36.4476'
+  long: "-78.5689"
+  nearby_rate_centers:
+  - name: OXFORD
+    distance_km: 15.69
+  - name: HENDERSON
+    distance_km: 19.77
+  - name: VIRGILINA
+    distance_km: 21.36
+- country: US
+  region: NC
+  name: Sugar Mountain
+  lat: '36.1263'
+  long: "-81.8646"
+  nearby_rate_centers:
+  - name: BANNER ELK
+    distance_km: 4.77
+  - name: NEWLAND
+    distance_km: 6.93
+  - name: BEECH MT
+    distance_km: 7.7
+- country: US
+  region: NC
+  name: Summerfield
+  lat: '36.1973'
+  long: "-79.8997"
+  nearby_rate_centers:
+  - name: SUMMERFLD
+    distance_km: 0.43
+  - name: GREENSBORO
+    distance_km: 17.18
+  - name: KERNERSVL
+    distance_km: 17.7
+- country: US
+  region: NC
+  name: Sunbury
+  lat: '36.4469'
+  long: "-76.6127"
+  nearby_rate_centers:
+  - name: SUNBURY
+    distance_km: 0.88
+  - name: GATESVILLE
+    distance_km: 13.09
+  - name: PINEYWOODS
+    distance_km: 15.31
+- country: US
+  region: NC
+  name: Sunset Beach
+  lat: '33.8920'
+  long: "-78.5107"
+  nearby_rate_centers:
+  - name: SEASIDE
+    distance_km: 2.52
+  - name: LONGWOOD
+    distance_km: 12.61
+  - name: SHALLOTTE
+    distance_km: 14.75
+- country: US
+  region: NC
+  name: Surf City
+  lat: '34.4346'
+  long: "-77.5644"
+  nearby_rate_centers:
+  - name: HOLLYRIDGE
+    distance_km: 6.36
+  - name: TOPSAIL IS
+    distance_km: 6.37
+  - name: SNEADSFRRY
+    distance_km: 21.03
+- country: US
+  region: NC
+  name: Swan Quarter
+  lat: '35.4109'
+  long: "-76.3250"
+  nearby_rate_centers:
+  - name: SWANQUARTR
+    distance_km: 1.51
+  - name: BELHAVEN
+    distance_km: 30.07
+  - name: ENGELHARD
+    distance_km: 31.51
+- country: US
+  region: NC
+  name: Swannanoa
+  lat: '35.6009'
+  long: "-82.3917"
+  nearby_rate_centers:
+  - name: SWANNANOA
+    distance_km: 0.17
+  - name: BLACK MT
+    distance_km: 6.86
+  - name: FAIRVIEW
+    distance_km: 9.3
+- country: US
+  region: NC
+  name: Swansboro
+  lat: '34.6957'
+  long: "-77.1367"
+  nearby_rate_centers:
+  - name: SWANSBORO
+    distance_km: 1.1
+  - name: SWNSBRWCAR
+    distance_km: 1.1
+  - name: MAYSVILLE
+    distance_km: 24.14
+  - name: NEWPORT
+    distance_km: 27.24
+- country: US
+  region: NC
+  name: Swepsonville
+  lat: '36.0285'
+  long: "-79.3549"
+  nearby_rate_centers:
+  - name: BURLINGTON
+    distance_km: 9.83
+  - name: SAXAPAHAW
+    distance_km: 10.26
+  - name: MEBANE
+    distance_km: 11.33
+- country: US
+  region: NC
+  name: Sylva
+  lat: '35.3754'
+  long: "-83.2185"
+  nearby_rate_centers:
+  - name: SYLVA
+    distance_km: 0.38
+  - name: CULLOWHEE
+    distance_km: 7.39
+  - name: CHEROKEE
+    distance_km: 15.07
+- country: US
+  region: NC
+  name: Tabor City
+  lat: '34.1538'
+  long: "-78.8737"
+  nearby_rate_centers:
+  - name: TABOR CITY
+    distance_km: 0.39
+  - name: CHADBOURN
+    distance_km: 19.64
+  - name: FAIR BLUFF
+    distance_km: 23.38
+- country: US
+  region: NC
+  name: Tar Heel
+  lat: '34.7340'
+  long: "-78.7910"
+  nearby_rate_centers:
+  - name: WHITE OAK
+    distance_km: 7.84
+  - name: ST PAULS
+    distance_km: 19.15
+  - name: ELIZABTHTN
+    distance_km: 19.84
+- country: US
+  region: NC
+  name: Tarboro
+  lat: '35.9046'
+  long: "-77.5563"
+  nearby_rate_centers:
+  - name: TARBORO
+    distance_km: 1.36
+  - name: PINETOPS
+    distance_km: 15.05
+  - name: BETHEL
+    distance_km: 19.47
+- country: US
+  region: NC
+  name: Taylorsville
+  lat: '35.9175'
+  long: "-81.1754"
+  nearby_rate_centers:
+  - name: TAYLORSVL
+    distance_km: 0.22
+  - name: STONYPOINT
+    distance_km: 12.8
+  - name: BETHLEHEM
+    distance_km: 15.83
+- country: US
+  region: NC
+  name: Taylortown
+  lat: '35.2146'
+  long: "-79.4916"
+  nearby_rate_centers:
+  - name: PINEHURST
+    distance_km: 3.21
+  - name: WEST END
+    distance_km: 7.44
+  - name: SOUTHEPINS
+    distance_km: 9.54
+- country: US
+  region: NC
+  name: Teachey
+  lat: '34.7705'
+  long: "-78.0066"
+  nearby_rate_centers:
+  - name: WALLACE
+    distance_km: 4.32
+  - name: ROSE HILL
+    distance_km: 7.29
+  - name: HARRELLS
+    distance_km: 19.67
+- country: US
+  region: NC
+  name: Thomasville
+  lat: '35.8813'
+  long: "-80.0807"
+  nearby_rate_centers:
+  - name: THOMASVL
+    distance_km: 0.14
+  - name: HIGH POINT
+    distance_km: 11.37
+  - name: WELCOME
+    distance_km: 15.7
+- country: US
+  region: NC
+  name: Toast
+  lat: '36.4966'
+  long: "-80.6347"
+  nearby_rate_centers:
+  - name: MOUNT AIRY
+    distance_km: 1.71
+  - name: RED BRUSH
+    distance_km: 5.52
+  - name: DOBSON
+    distance_km: 13.31
+- country: US
+  region: NC
+  name: Tobaccoville
+  lat: '36.2257'
+  long: "-80.3590"
+  nearby_rate_centers:
+  - name: RURAL HALL
+    distance_km: 6.26
+  - name: KING
+    distance_km: 6.59
+  - name: OLDTOWN
+    distance_km: 7.37
+- country: US
+  region: NC
+  name: Topsail Beach
+  lat: '34.3744'
+  long: "-77.6320"
+  nearby_rate_centers:
+  - name: TOPSAIL IS
+    distance_km: 2.83
+  - name: SCOTTS HILL 270
+    distance_km: 14.01
+  - name: SCOTTSHILL
+    distance_km: 14.01
+  - name: HOLLYRIDGE
+    distance_km: 14.88
+- country: US
+  region: NC
+  name: Trent Woods
+  lat: '35.0810'
+  long: "-77.0945"
+  nearby_rate_centers:
+  - name: NEW BERN
+    distance_km: 5.5
+  - name: POLLOCKSVL
+    distance_km: 14.14
+  - name: TRENTON
+    distance_km: 23.38
+- country: US
+  region: NC
+  name: Trenton
+  lat: '35.0640'
+  long: "-77.3553"
+  nearby_rate_centers:
+  - name: TRENTON
+    distance_km: 0.54
+  - name: POLLOCKSVL
+    distance_km: 13.99
+  - name: MAYSVILLE
+    distance_km: 21.56
+- country: US
+  region: NC
+  name: Trinity
+  lat: '35.8756'
+  long: "-80.0093"
+  nearby_rate_centers:
+  - name: THOMASVL
+    distance_km: 6.53
+  - name: HIGH POINT
+    distance_km: 9.44
+  - name: RANDLEMAN
+    distance_km: 20.18
+- country: US
+  region: NC
+  name: Troutman
+  lat: '35.6873'
+  long: "-80.8830"
+  nearby_rate_centers:
+  - name: TROUTMAN
+    distance_km: 1.53
+  - name: STATESVL
+    distance_km: 10.67
+  - name: SHERILLSFD
+    distance_km: 12.06
+- country: US
+  region: NC
+  name: Troy
+  lat: '35.3650'
+  long: "-79.8918"
+  nearby_rate_centers:
+  - name: TROY
+    distance_km: 0.99
+  - name: BISCOE
+    distance_km: 10.02
+  - name: CANDOR
+    distance_km: 15.99
+- country: US
+  region: NC
+  name: Tryon
+  lat: '35.2086'
+  long: "-82.2379"
+  nearby_rate_centers:
+  - name: TRYON
+    distance_km: 0.95
+  - name: COLUMBUS
+    distance_km: 7.14
+  - name: SALUDA
+    distance_km: 10.9
+- country: US
+  region: NC
+  name: Turkey
+  lat: '34.9950'
+  long: "-78.1841"
+  nearby_rate_centers:
+  - name: SIX RUN
+    distance_km: 3.36
+  - name: WARSAW
+    distance_km: 8.47
+  - name: CLINTON
+    distance_km: 12.89
+- country: US
+  region: NC
+  name: Tyro
+  lat: '35.7997'
+  long: "-80.3765"
+  nearby_rate_centers:
+  - name: CHURCHLAND
+    distance_km: 4.03
+  - name: REEDS
+    distance_km: 7.31
+  - name: LEXINGTON
+    distance_km: 11.1
+- country: US
+  region: NC
+  name: Unionville
+  lat: '35.0716'
+  long: "-80.5173"
+  nearby_rate_centers:
+  - name: GOOSECREEK
+    distance_km: 7.89
+  - name: MONROE
+    distance_km: 10.55
+  - name: HEMBY BDG
+    distance_km: 10.57
+- country: US
+  region: NC
+  name: Valdese
+  lat: '35.7566'
+  long: "-81.5634"
+  nearby_rate_centers:
+  - name: VALDESE
+    distance_km: 0.77
+  - name: MORGANTON
+    distance_km: 10.99
+  - name: GRANITEFLS
+    distance_km: 13.27
+- country: US
+  region: NC
+  name: Valle Crucis
+  lat: '36.2076'
+  long: "-81.7861"
+  nearby_rate_centers:
+  - name: SUGARGROVE
+    distance_km: 4.27
+  - name: WATAUGA
+    distance_km: 4.94
+  - name: BEECH MT
+    distance_km: 8.28
+- country: US
+  region: NC
+  name: Valley Hill
+  lat: '35.2958'
+  long: "-82.4913"
+  nearby_rate_centers:
+  - name: HENDERSNVL
+    distance_km: 3.09
+  - name: SALUDA
+    distance_km: 14.09
+  - name: ARDEN
+    distance_km: 20.9
+- country: US
+  region: NC
+  name: Vanceboro
+  lat: '35.3030'
+  long: "-77.1567"
+  nearby_rate_centers:
+  - name: VANCEBORO
+    distance_km: 0.57
+  - name: NEW BERN
+    distance_km: 22.76
+  - name: GRIFTON
+    distance_km: 26.27
+- country: US
+  region: NC
+  name: Vandemere
+  lat: '35.1887'
+  long: "-76.6650"
+  nearby_rate_centers:
+  - name: BAYBORO
+    distance_km: 10.85
+  - name: AURORA
+    distance_km: 16.44
+  - name: ORIENTAL
+    distance_km: 18.47
+- country: US
+  region: NC
+  name: Vander
+  lat: '35.0347'
+  long: "-78.7887"
+  nearby_rate_centers:
+  - name: FAYETTEVL
+    distance_km: 9.66
+  - name: SOUTHRIVER
+    distance_km: 24.09
+  - name: COHARIE
+    distance_km: 24.8
+- country: US
+  region: NC
+  name: Vann Crossroads
+  lat: '35.1697'
+  long: "-78.4026"
+  nearby_rate_centers:
+  - name: NEWTON GRV
+    distance_km: 10.23
+  - name: HERRING
+    distance_km: 13.4
+  - name: COHARIE
+    distance_km: 15.13
+- country: US
+  region: NC
+  name: Varnamtown
+  lat: '33.9430'
+  long: "-78.2363"
+  nearby_rate_centers:
+  - name: HOLDEN BCH
+    distance_km: 5.86
+  - name: LONG BEACH
+    distance_km: 8.24
+  - name: SHALLOTTE
+    distance_km: 14.03
+- country: US
+  region: NC
+  name: Vass
+  lat: '35.2533'
+  long: "-79.2845"
+  nearby_rate_centers:
+  - name: VASS
+    distance_km: 0.7
+  - name: WHISPEPINS
+    distance_km: 7.87
+  - name: SOUTHEPINS
+    distance_km: 13.75
+- country: US
+  region: NC
+  name: Waco
+  lat: '35.3622'
+  long: "-81.4287"
+  nearby_rate_centers:
+  - name: CHERRYVL
+    distance_km: 5.59
+  - name: SHELBY
+    distance_km: 13.26
+  - name: LAWNDALE
+    distance_km: 13.28
+- country: US
+  region: NC
+  name: Wade
+  lat: '35.1635'
+  long: "-78.7370"
+  nearby_rate_centers:
+  - name: COHARIE
+    distance_km: 15.27
+  - name: FAYETTEVL
+    distance_km: 18.48
+  - name: DUNN
+    distance_km: 19.37
+  - name: DUNN-CMBLD
+    distance_km: 19.37
+- country: US
+  region: NC
+  name: Wadesboro
+  lat: '34.9645'
+  long: "-80.0746"
+  nearby_rate_centers:
+  - name: WADESBORO
+    distance_km: 0.91
+  - name: LILESVILLE
+    distance_km: 7.6
+  - name: MORVEN
+    distance_km: 12.58
+- country: US
+  region: NC
+  name: Wagram
+  lat: '34.8891'
+  long: "-79.3652"
+  nearby_rate_centers:
+  - name: WAGRAM
+    distance_km: 0.5
+  - name: RAEFORD
+    distance_km: 15.74
+  - name: LAURINBURG
+    distance_km: 16.37
+- country: US
+  region: NC
+  name: Wake Forest
+  lat: '35.9632'
+  long: "-78.5140"
+  nearby_rate_centers:
+  - name: WAKEFOREST
+    distance_km: 2.22
+  - name: FRANKLINTN
+    distance_km: 15.88
+  - name: KNIGHTDALE
+    distance_km: 19.07
+- country: US
+  region: NC
+  name: Wakulla
+  lat: '34.7970'
+  long: "-79.2559"
+  nearby_rate_centers:
+  - name: REDSPRINGS
+    distance_km: 6.98
+  - name: MAXTON
+    distance_km: 11.19
+  - name: PEMBROKE
+    distance_km: 13.65
+- country: US
+  region: NC
+  name: Walkertown
+  lat: '36.1576'
+  long: "-80.1641"
+  nearby_rate_centers:
+  - name: WALKERTOWN
+    distance_km: 2.29
+  - name: KERNERSVL
+    distance_km: 8.94
+  - name: WINSTN SAL
+    distance_km: 9.99
+- country: US
+  region: NC
+  name: Wallace
+  lat: '34.7380'
+  long: "-77.9908"
+  nearby_rate_centers:
+  - name: WALLACE
+    distance_km: 1.07
+  - name: ROSE HILL
+    distance_km: 11.18
+  - name: HARRELLS
+    distance_km: 20.73
+- country: US
+  region: NC
+  name: Wallburg
+  lat: '36.0088'
+  long: "-80.1453"
+  nearby_rate_centers:
+  - name: WINSTN SAL
+    distance_km: 13.59
+  - name: WELCOME
+    distance_km: 14.04
+  - name: HIGH POINT
+    distance_km: 14.12
+- country: US
+  region: NC
+  name: Walnut Cove
+  lat: '36.2938'
+  long: "-80.1408"
+  nearby_rate_centers:
+  - name: WALNUTCOVE
+    distance_km: 0.83
+  - name: WALKERTOWN
+    distance_km: 13.01
+  - name: RURAL HALL
+    distance_km: 14.77
+- country: US
+  region: NC
+  name: Walnut Creek
+  lat: '35.3051'
+  long: "-77.8714"
+  nearby_rate_centers:
+  - name: LA GRANGE
+    distance_km: 8.24
+  - name: GOLDSBORO
+    distance_km: 13.9
+  - name: MOSS HILL
+    distance_km: 14.84
+- country: US
+  region: NC
+  name: Walstonburg
+  lat: '35.5961'
+  long: "-77.6981"
+  nearby_rate_centers:
+  - name: FOUNTAIN
+    distance_km: 10.01
+  - name: FARMVILLE
+    distance_km: 10.44
+  - name: STANTONSBG
+    distance_km: 11.68
+- country: US
+  region: NC
+  name: Wanchese
+  lat: '35.8399'
+  long: "-75.6383"
+  nearby_rate_centers:
+  - name: MANTEO
+    distance_km: 8.36
+  - name: KLDEVILHLS
+    distance_km: 18.6
+  - name: WAVES
+    distance_km: 34.75
+- country: US
+  region: NC
+  name: Warrenton
+  lat: '36.3995'
+  long: "-78.1575"
+  nearby_rate_centers:
+  - name: WARRENTON
+    distance_km: 0.73
+  - name: NORLINA
+    distance_km: 5.57
+  - name: LITTLETON
+    distance_km: 22.69
+- country: US
+  region: NC
+  name: Warsaw
+  lat: '34.9994'
+  long: "-78.0928"
+  nearby_rate_centers:
+  - name: WARSAW
+    distance_km: 0.25
+  - name: SIX RUN
+    distance_km: 9.61
+  - name: KENANSVL
+    distance_km: 12.53
+- country: US
+  region: NC
+  name: Washington
+  lat: '35.5586'
+  long: "-77.0545"
+  nearby_rate_centers:
+  - name: WASHINGTON
+    distance_km: 1.88
+  - name: PINETOWN
+    distance_km: 18.66
+  - name: BATH
+    distance_km: 24.19
+- country: US
+  region: NC
+  name: Washington Park
+  lat: '35.5328'
+  long: "-77.0316"
+  nearby_rate_centers:
+  - name: WASHINGTON
+    distance_km: 2.14
+  - name: PINETOWN
+    distance_km: 17.9
+  - name: BATH
+    distance_km: 21.27
+- country: US
+  region: NC
+  name: Watha
+  lat: '34.6510'
+  long: "-77.9576"
+  nearby_rate_centers:
+  - name: WALLACE
+    distance_km: 9.81
+  - name: BURGAW
+    distance_km: 11.69
+  - name: ROSE HILL
+    distance_km: 21.31
+- country: US
+  region: NC
+  name: Waves
+  lat: '35.5695'
+  long: "-75.4666"
+  nearby_rate_centers:
+  - name: WAVES
+    distance_km: 0.99
+  - name: BUXTON
+    distance_km: 35.21
+  - name: MANTEO
+    distance_km: 42.16
+- country: US
+  region: NC
+  name: Waxhaw
+  lat: '34.9363'
+  long: "-80.7439"
+  nearby_rate_centers:
+  - name: WAXHAW
+    distance_km: 1.41
+  - name: INDIANTRAL
+    distance_km: 16.81
+  - name: MONROE
+    distance_km: 18.4
+- country: US
+  region: NC
+  name: Waynesville
+  lat: '35.4854'
+  long: "-82.9996"
+  nearby_rate_centers:
+  - name: WAYNESVL
+    distance_km: 1.82
+  - name: MAGGIE VLY
+    distance_km: 5.17
+  - name: CLYDE
+    distance_km: 9.51
+- country: US
+  region: NC
+  name: Weaverville
+  lat: '35.6963'
+  long: "-82.5585"
+  nearby_rate_centers:
+  - name: WEAVERVL
+    distance_km: 0.39
+  - name: ASHEVILLE
+    distance_km: 11.64
+  - name: BARNARDSVL
+    distance_km: 12.76
+- country: US
+  region: NC
+  name: Webster
+  lat: '35.3500'
+  long: "-83.2188"
+  nearby_rate_centers:
+  - name: SYLVA
+    distance_km: 2.74
+  - name: CULLOWHEE
+    distance_km: 5.21
+  - name: CHEROKEE
+    distance_km: 17.39
+- country: US
+  region: NC
+  name: Weddington
+  lat: '35.0228'
+  long: "-80.7383"
+  nearby_rate_centers:
+  - name: INDIANTRAL
+    distance_km: 8.52
+  - name: MATTHEWS
+    distance_km: 10.67
+  - name: WAXHAW
+    distance_km: 11.04
+- country: US
+  region: NC
+  name: Welcome
+  lat: '35.9066'
+  long: "-80.2548"
+  nearby_rate_centers:
+  - name: WELCOME
+    distance_km: 1.04
+  - name: LEXINGTON
+    distance_km: 8.84
+  - name: REEDS
+    distance_km: 8.91
+- country: US
+  region: NC
+  name: Weldon
+  lat: '36.4239'
+  long: "-77.6130"
+  nearby_rate_centers:
+  - name: WELDON
+    distance_km: 1.33
+  - name: ROANOKERPD
+    distance_km: 5.84
+  - name: HALIFAX
+    distance_km: 10.71
+- country: US
+  region: NC
+  name: Wendell
+  lat: '35.7819'
+  long: "-78.3952"
+  nearby_rate_centers:
+  - name: WENDELL
+    distance_km: 2.33
+  - name: KNIGHTDALE
+    distance_km: 7.95
+  - name: ZEBULON
+    distance_km: 8.65
+- country: US
+  region: NC
+  name: Wentworth
+  lat: '36.3914'
+  long: "-79.7510"
+  nearby_rate_centers:
+  - name: REIDSVILLE
+    distance_km: 8.45
+  - name: EDEN
+    distance_km: 12.13
+  - name: STONEVILLE
+    distance_km: 16.6
+- country: US
+  region: NC
+  name: Wesley Chapel
+  lat: '34.9985'
+  long: "-80.6903"
+  nearby_rate_centers:
+  - name: INDIANTRAL
+    distance_km: 8.67
+  - name: WAXHAW
+    distance_km: 9.65
+  - name: MONROE
+    distance_km: 13.0
+- country: US
+  region: NC
+  name: West Canton
+  lat: '35.5384'
+  long: "-82.8672"
+  nearby_rate_centers:
+  - name: CANTON
+    distance_km: 3.13
+  - name: CLYDE
+    distance_km: 4.08
+  - name: WAYNESVL
+    distance_km: 11.55
+- country: US
+  region: NC
+  name: West Jefferson
+  lat: '36.3938'
+  long: "-81.4898"
+  nearby_rate_centers:
+  - name: WJEFFERSON
+    distance_km: 0.78
+  - name: BALDWIN
+    distance_km: 7.95
+  - name: NATHANSCRK
+    distance_km: 8.98
+- country: US
+  region: NC
+  name: West Marion
+  lat: '35.6525'
+  long: "-82.0191"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 4.66
+  - name: GLENWDPDNC
+    distance_km: 5.53
+  - name: GARDENCITY
+    distance_km: 6.61
+- country: US
+  region: NC
+  name: Westport
+  lat: '35.5103'
+  long: "-80.9783"
+  nearby_rate_centers:
+  - name: DENVER
+    distance_km: 5.76
+  - name: DAVIDSON
+    distance_km: 11.83
+  - name: SHERILLSFD
+    distance_km: 12.37
+- country: US
+  region: NC
+  name: Whispering Pines
+  lat: '35.2537'
+  long: "-79.3754"
+  nearby_rate_centers:
+  - name: WHISPEPINS
+    distance_km: 0.94
+  - name: VASS
+    distance_km: 8.22
+  - name: SOUTHEPINS
+    distance_km: 9.23
+- country: US
+  region: NC
+  name: Whitakers
+  lat: '36.1057'
+  long: "-77.7131"
+  nearby_rate_centers:
+  - name: WHITAKERS
+    distance_km: 0.35
+  - name: ENFIELD
+    distance_km: 9.51
+  - name: ROCKYMOUNT
+    distance_km: 19.91
+- country: US
+  region: NC
+  name: White Lake
+  lat: '34.6418'
+  long: "-78.4969"
+  nearby_rate_centers:
+  - name: ELIZABTHTN
+    distance_km: 11.33
+  - name: CYPRESSCRK
+    distance_km: 14.15
+  - name: LISBON
+    distance_km: 14.48
+- country: US
+  region: NC
+  name: White Oak
+  lat: '34.7396'
+  long: "-78.7186"
+  nearby_rate_centers:
+  - name: WHITE OAK
+    distance_km: 1.49
+  - name: ELIZABTHTN
+    distance_km: 15.65
+  - name: CYPRESSCRK
+    distance_km: 17.78
+- country: US
+  region: NC
+  name: White Plains
+  lat: '36.4451'
+  long: "-80.6351"
+  nearby_rate_centers:
+  - name: MOUNT AIRY
+    distance_km: 6.1
+  - name: RED BRUSH
+    distance_km: 6.77
+  - name: DOBSON
+    distance_km: 9.37
+- country: US
+  region: NC
+  name: Whiteville
+  lat: '34.3306'
+  long: "-78.7014"
+  nearby_rate_centers:
+  - name: WHITEVILLE
+    distance_km: 0.62
+  - name: CHADBOURN
+    distance_km: 11.08
+  - name: LKWACCAMAW
+    distance_km: 17.07
+- country: US
+  region: NC
+  name: Whitsett
+  lat: '36.0784'
+  long: "-79.5721"
+  nearby_rate_centers:
+  - name: GIBSONVL
+    distance_km: 4.31
+  - name: BURLINGTON
+    distance_km: 12.51
+  - name: KIMESVILLE
+    distance_km: 14.41
+- country: US
+  region: NC
+  name: Whittier
+  lat: '35.4337'
+  long: "-83.3564"
+  nearby_rate_centers:
+  - name: CHEROKEE
+    distance_km: 6.48
+  - name: BRYSONCITY
+    distance_km: 7.46
+  - name: SYLVA
+    distance_km: 14.46
+- country: US
+  region: NC
+  name: Wilkesboro
+  lat: '36.1424'
+  long: "-81.1740"
+  nearby_rate_centers:
+  - name: NOWILKESBO
+    distance_km: 4.15
+  - name: MULBERRY
+    distance_km: 10.12
+  - name: BOOMER
+    distance_km: 10.39
+- country: US
+  region: NC
+  name: Williamston
+  lat: '35.8465'
+  long: "-77.0661"
+  nearby_rate_centers:
+  - name: WILLIAMSTN
+    distance_km: 0.63
+  - name: HAMILTON
+    distance_km: 16.72
+  - name: ROBERSONVL
+    distance_km: 17.45
+- country: US
+  region: NC
+  name: Wilmington
+  lat: '34.2099'
+  long: "-77.8866"
+  nearby_rate_centers:
+  - name: WILMINGTON
+    distance_km: 5.21
+  - name: WRGHTSVBCH
+    distance_km: 6.17
+  - name: CASTLEHAYN
+    distance_km: 16.17
+- country: US
+  region: NC
+  name: Wilson
+  lat: '35.7311'
+  long: "-77.9284"
+  nearby_rate_centers:
+  - name: WILSON
+    distance_km: 1.99
+  - name: ELM CITY
+    distance_km: 10.16
+  - name: LUCAMA
+    distance_km: 12.24
+- country: US
+  region: NC
+  name: Wilson's Mills
+  lat: '35.5864'
+  long: "-78.3643"
+  nearby_rate_centers:
+  - name: SMITHFIELD
+    distance_km: 8.12
+  - name: SELMA
+    distance_km: 8.66
+  - name: CLAYTON
+    distance_km: 10.91
+- country: US
+  region: NC
+  name: Windsor
+  lat: '35.9928'
+  long: "-76.9401"
+  nearby_rate_centers:
+  - name: WINDSOR
+    distance_km: 1.04
+  - name: WILLIAMSTN
+    distance_km: 19.23
+  - name: PLYMOUTH
+    distance_km: 22.0
+- country: US
+  region: NC
+  name: Winfall
+  lat: '36.2105'
+  long: "-76.4548"
+  nearby_rate_centers:
+  - name: HERTFORD
+    distance_km: 3.51
+  - name: WOODVILLE
+    distance_km: 12.09
+  - name: PINEYWOODS
+    distance_km: 15.13
+- country: US
+  region: NC
+  name: Wingate
+  lat: '34.9859'
+  long: "-80.4480"
+  nearby_rate_centers:
+  - name: WINGATE
+    distance_km: 0.37
+  - name: MARSHVILLE
+    distance_km: 7.44
+  - name: MONROE
+    distance_km: 9.25
+- country: US
+  region: NC
+  name: Winston-Salem
+  lat: '36.1029'
+  long: "-80.2610"
+  nearby_rate_centers:
+  - name: WINSTN SAL
+    distance_km: 1.28
+  - name: OLDTOWN
+    distance_km: 9.23
+  - name: STANLEYVL
+    distance_km: 10.83
+- country: US
+  region: NC
+  name: Winterville
+  lat: '35.5291'
+  long: "-77.4000"
+  nearby_rate_centers:
+  - name: AYDEN
+    distance_km: 7.12
+  - name: GREENVILLE
+    distance_km: 9.13
+  - name: FARMVILLE
+    distance_km: 17.94
+- country: US
+  region: NC
+  name: Winton
+  lat: '36.3899'
+  long: "-76.9350"
+  nearby_rate_centers:
+  - name: WINTON
+    distance_km: 1.46
+  - name: AHOSKIE
+    distance_km: 11.53
+  - name: MURFREESBO
+    distance_km: 15.64
+- country: US
+  region: NC
+  name: Woodfin
+  lat: '35.6457'
+  long: "-82.5915"
+  nearby_rate_centers:
+  - name: WEAVERVL
+    distance_km: 6.51
+  - name: ASHEVILLE
+    distance_km: 6.62
+  - name: LEICESTER
+    distance_km: 10.01
+- country: US
+  region: NC
+  name: Woodland
+  lat: '36.3306'
+  long: "-77.2149"
+  nearby_rate_centers:
+  - name: WOODLAND
+    distance_km: 0.78
+  - name: RICHSQUARE
+    distance_km: 8.58
+  - name: CONWAY
+    distance_km: 12.68
+- country: US
+  region: NC
+  name: Woodlawn
+  lat: '36.1158'
+  long: "-79.2898"
+  nearby_rate_centers:
+  - name: MEBANE
+    distance_km: 2.96
+  - name: BURLINGTON
+    distance_km: 13.24
+  - name: HILLSBORGH
+    distance_km: 17.04
+- country: US
+  region: NC
+  name: Wrightsboro
+  lat: '34.2895'
+  long: "-77.9217"
+  nearby_rate_centers:
+  - name: CASTLEHAYN
+    distance_km: 7.47
+  - name: WILMINGTON
+    distance_km: 7.64
+  - name: WRGHTSVBCH
+    distance_km: 12.41
+- country: US
+  region: NC
+  name: Wrightsville Beach
+  lat: '34.2130'
+  long: "-77.7980"
+  nearby_rate_centers:
+  - name: WRGHTSVBCH
+    distance_km: 2.04
+  - name: SCOTTS HILL 270
+    distance_km: 12.2
+  - name: SCOTTSHILL
+    distance_km: 12.2
+  - name: WILMINGTON
+    distance_km: 13.2
+- country: US
+  region: NC
+  name: Yadkin College
+  lat: '35.8766'
+  long: "-80.3791"
+  nearby_rate_centers:
+  - name: REEDS
+    distance_km: 5.53
+  - name: ADVANCE
+    distance_km: 7.83
+  - name: CHURCHLAND
+    distance_km: 10.21
+- country: US
+  region: NC
+  name: Yadkinville
+  lat: '36.1315'
+  long: "-80.6592"
+  nearby_rate_centers:
+  - name: YADKINVL
+    distance_km: 0.36
+  - name: COURTNEY
+    distance_km: 8.96
+  - name: BROOKS
+    distance_km: 9.81
+- country: US
+  region: NC
+  name: Yanceyville
+  lat: '36.4101'
+  long: "-79.3356"
+  nearby_rate_centers:
+  - name: YANCEYVL
+    distance_km: 0.18
+  - name: GATEWOOD
+    distance_km: 14.84
+  - name: ANDERSON
+    distance_km: 15.97
+- country: US
+  region: NC
+  name: Youngsville
+  lat: '36.0242'
+  long: "-78.4816"
+  nearby_rate_centers:
+  - name: WAKEFOREST
+    distance_km: 5.66
+  - name: FRANKLINTN
+    distance_km: 8.54
+  - name: LOUISBURG
+    distance_km: 18.49
+- country: US
+  region: NC
+  name: Zebulon
+  lat: '35.8329'
+  long: "-78.3158"
+  nearby_rate_centers:
+  - name: ZEBULON
+    distance_km: 0.95
+  - name: WENDELL
+    distance_km: 7.41
+  - name: KNIGHTDALE
+    distance_km: 15.62

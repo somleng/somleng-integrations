@@ -1,0 +1,6238 @@
+---
+cities:
+- country: US
+  region: NM
+  name: Abeytas
+  lat: '34.4652'
+  long: "-106.8137"
+  nearby_rate_centers:
+  - name: BELEN
+    distance_km: 21.84
+  - name: LOS LUNAS
+    distance_km: 38.82
+  - name: SOCORRO
+    distance_km: 45.99
+- country: US
+  region: NM
+  name: Abiquiu
+  lat: '36.2017'
+  long: "-106.3238"
+  nearby_rate_centers:
+  - name: ABIQUIU
+    distance_km: 0.7
+  - name: EL RITO
+    distance_km: 20.33
+  - name: VELARDE
+    distance_km: 26.92
+- country: US
+  region: NM
+  name: Acomita Lake
+  lat: '35.0658'
+  long: "-107.6165"
+  nearby_rate_centers:
+  - name: LAGUNAACOM
+    distance_km: 5.86
+  - name: GRANTS
+    distance_km: 23.79
+  - name: PINE HILL
+    distance_km: 75.43
+- country: US
+  region: NM
+  name: Adelino
+  lat: '34.7064'
+  long: "-106.7318"
+  nearby_rate_centers:
+  - name: BELEN
+    distance_km: 6.5
+  - name: LOS LUNAS
+    distance_km: 11.29
+  - name: ALBUQURQUE
+    distance_km: 42.39
+- country: US
+  region: NM
+  name: Agua Fria
+  lat: '35.6615'
+  long: "-106.0149"
+  nearby_rate_centers:
+  - name: SANTA FE
+    distance_km: 6.57
+  - name: WHITE ROCK
+    distance_km: 25.31
+  - name: PENABLANCA
+    distance_km: 30.39
+- country: US
+  region: NM
+  name: Alamillo
+  lat: '34.2519'
+  long: "-106.9158"
+  nearby_rate_centers:
+  - name: SOCORRO
+    distance_km: 21.87
+  - name: MAGDALENA
+    distance_km: 33.65
+  - name: BELEN
+    distance_km: 47.1
+- country: US
+  region: NM
+  name: Alamo
+  lat: '34.4184'
+  long: "-107.5125"
+  nearby_rate_centers:
+  - name: MAGDALENA
+    distance_km: 41.85
+  - name: DATIL
+    distance_km: 42.94
+  - name: SOCORRO
+    distance_km: 69.98
+- country: US
+  region: NM
+  name: Alamogordo
+  lat: '32.8837'
+  long: "-105.9625"
+  nearby_rate_centers:
+  - name: ALAMOGORDO
+    distance_km: 1.74
+  - name: TULAROSA
+    distance_km: 21.66
+  - name: CLOUDCROFT
+    distance_km: 21.82
+- country: US
+  region: NM
+  name: Albuquerque
+  lat: '35.1054'
+  long: "-106.6465"
+  nearby_rate_centers:
+  - name: ALBUQURQUE
+    distance_km: 2.67
+  - name: BERNALILLO
+    distance_km: 23.23
+  - name: TIJERAS
+    distance_km: 24.39
+- country: US
+  region: NM
+  name: Alcalde
+  lat: '36.0854'
+  long: "-106.0575"
+  nearby_rate_centers:
+  - name: VELARDE
+    distance_km: 2.24
+  - name: ESPANOLA
+    distance_km: 10.63
+  - name: CHIMAYO
+    distance_km: 14.63
+- country: US
+  region: NM
+  name: Algodones
+  lat: '35.3804'
+  long: "-106.4731"
+  nearby_rate_centers:
+  - name: BERNALILLO
+    distance_km: 11.4
+  - name: PENABLANCA
+    distance_km: 25.03
+  - name: SAN YSIDRO
+    distance_km: 33.85
+- country: US
+  region: NM
+  name: Alma
+  lat: '33.3817'
+  long: "-108.8995"
+  nearby_rate_centers:
+  - name: GLENWOOD
+    distance_km: 7.14
+  - name: RESERVE
+    distance_km: 38.46
+  - name: LUNA
+    distance_km: 49.25
+- country: US
+  region: NM
+  name: Angel Fire
+  lat: '36.3821'
+  long: "-105.2718"
+  nearby_rate_centers:
+  - name: ANGEL FIRE
+    distance_km: 19.86
+  - name: TAOS
+    distance_km: 27.44
+  - name: CIMARRON
+    distance_km: 34.92
+- country: US
+  region: NM
+  name: Angustura
+  lat: '36.7138'
+  long: "-107.9154"
+  nearby_rate_centers:
+  - name: AZTEC
+    distance_km: 13.94
+  - name: FARMINGTON
+    distance_km: 26.36
+  - name: LYBROOK
+    distance_km: 62.73
+- country: US
+  region: NM
+  name: Animas
+  lat: '31.9449'
+  long: "-108.8065"
+  nearby_rate_centers:
+  - name: ANIMAS
+    distance_km: 0.5
+  - name: RODEO
+    distance_km: 24.31
+  - name: PLAYAS
+    distance_km: 25.42
+- country: US
+  region: NM
+  name: Anthony
+  lat: '32.0131'
+  long: "-106.5984"
+  nearby_rate_centers:
+  - name: ANTHONY
+    distance_km: 3.05
+  - name: LA MESA
+    distance_km: 15.32
+  - name: CHAPARRAL
+    distance_km: 17.84
+- country: US
+  region: NM
+  name: Anton Chico
+  lat: '35.1948'
+  long: "-105.1439"
+  nearby_rate_centers:
+  - name: ANTONCHICO
+    distance_km: 0.71
+  - name: EL VALLE
+    distance_km: 27.11
+  - name: LAS VEGAS
+    distance_km: 45.75
+- country: US
+  region: NM
+  name: Anzac Village
+  lat: '35.0624'
+  long: "-107.7416"
+  nearby_rate_centers:
+  - name: GRANTS
+    distance_km: 14.61
+  - name: LAGUNAACOM
+    distance_km: 17.14
+  - name: PINE HILL
+    distance_km: 64.38
+- country: US
+  region: NM
+  name: Apache Creek
+  lat: '33.8486'
+  long: "-108.6141"
+  nearby_rate_centers:
+  - name: RESERVE
+    distance_km: 21.02
+  - name: LUNA
+    distance_km: 31.57
+  - name: QUEMADO
+    distance_km: 56.03
+- country: US
+  region: NM
+  name: Aragon
+  lat: '33.8899'
+  long: "-108.5201"
+  nearby_rate_centers:
+  - name: RESERVE
+    distance_km: 30.46
+  - name: LUNA
+    distance_km: 40.8
+  - name: QUEMADO
+    distance_km: 50.42
+- country: US
+  region: NM
+  name: Arenas Valley
+  lat: '32.7765'
+  long: "-108.2030"
+  nearby_rate_centers:
+  - name: SILVERCITY
+    distance_km: 6.53
+  - name: BAYARD
+    distance_km: 6.92
+  - name: MIMBRES
+    distance_km: 22.96
+- country: US
+  region: NM
+  name: Arrey
+  lat: '32.8472'
+  long: "-107.3204"
+  nearby_rate_centers:
+  - name: HILLSBORO
+    distance_km: 24.3
+  - name: HATCH
+    distance_km: 25.73
+  - name: TRUTHCQNCS
+    distance_km: 32.39
+- country: US
+  region: NM
+  name: Arroyo Hondo
+  lat: '35.6103'
+  long: "-105.9450"
+  nearby_rate_centers:
+  - name: SANTA FE
+    distance_km: 8.31
+  - name: PECOS
+    distance_km: 24.55
+  - name: WHITE ROCK
+    distance_km: 33.77
+- country: US
+  region: NM
+  name: Arroyo Hondo
+  lat: '36.5346'
+  long: "-105.6665"
+  nearby_rate_centers:
+  - name: TAOS
+    distance_km: 15.98
+  - name: QUESTA
+    distance_km: 19.44
+  - name: RED RIVER
+    distance_km: 30.11
+- country: US
+  region: NM
+  name: Arroyo Seco
+  lat: '36.5215'
+  long: "-105.5861"
+  nearby_rate_centers:
+  - name: TAOS
+    distance_km: 12.37
+  - name: QUESTA
+    distance_km: 19.8
+  - name: RED RIVER
+    distance_km: 26.15
+- country: US
+  region: NM
+  name: Artesia
+  lat: '32.8497'
+  long: "-104.4268"
+  nearby_rate_centers:
+  - name: ARTESIA
+    distance_km: 2.24
+  - name: COTTONWOOD
+    distance_km: 7.44
+  - name: LAKEWOOD
+    distance_km: 21.79
+- country: US
+  region: NM
+  name: Atoka
+  lat: '32.7783'
+  long: "-104.3931"
+  nearby_rate_centers:
+  - name: ARTESIA
+    distance_km: 7.96
+  - name: LAKEWOOD
+    distance_km: 13.75
+  - name: COTTONWOOD
+    distance_km: 15.82
+- country: US
+  region: NM
+  name: Aztec
+  lat: '36.8225'
+  long: "-107.9710"
+  nearby_rate_centers:
+  - name: AZTEC
+    distance_km: 1.73
+  - name: FARMINGTON
+    distance_km: 23.53
+  - name: SHIPROCK
+    distance_km: 63.53
+- country: US
+  region: NM
+  name: Barton
+  lat: '35.0653'
+  long: "-106.2569"
+  nearby_rate_centers:
+  - name: TIJERAS
+    distance_km: 11.38
+  - name: MORIARTY
+    distance_km: 21.74
+  - name: ESTANCIA
+    distance_km: 35.27
+- country: US
+  region: NM
+  name: Bayard
+  lat: '32.7579'
+  long: "-108.1337"
+  nearby_rate_centers:
+  - name: BAYARD
+    distance_km: 0.13
+  - name: SILVERCITY
+    distance_km: 13.16
+  - name: MIMBRES
+    distance_km: 18.32
+- country: US
+  region: NM
+  name: Becenti
+  lat: '35.8123'
+  long: "-108.1708"
+  nearby_rate_centers:
+  - name: CROWNPOINT
+    distance_km: 14.62
+  - name: PUEBLOPNTD
+    distance_km: 49.39
+  - name: NASCHITTI
+    distance_km: 53.99
+- country: US
+  region: NM
+  name: Beclabito
+  lat: '36.8335'
+  long: "-109.0040"
+  nearby_rate_centers:
+  - name: SHIPROCK
+    distance_km: 29.07
+  - name: SANOSTEE
+    distance_km: 46.79
+  - name: TOADLENA
+    distance_km: 66.27
+- country: US
+  region: NM
+  name: Belen
+  lat: '34.7115'
+  long: "-106.7986"
+  nearby_rate_centers:
+  - name: BELEN
+    distance_km: 6.32
+  - name: LOS LUNAS
+    distance_km: 12.3
+  - name: ALBUQURQUE
+    distance_km: 43.36
+- country: US
+  region: NM
+  name: Bent
+  lat: '33.1473'
+  long: "-105.8589"
+  nearby_rate_centers:
+  - name: MESCALERO
+    distance_km: 8.17
+  - name: TULAROSA
+    distance_km: 16.94
+  - name: CLOUDCROFT
+    distance_km: 24.39
+- country: US
+  region: NM
+  name: Berino
+  lat: '32.0690'
+  long: "-106.6221"
+  nearby_rate_centers:
+  - name: ANTHONY
+    distance_km: 8.46
+  - name: LA MESA
+    distance_km: 9.54
+  - name: CHAPARRAL
+    distance_km: 20.36
+- country: US
+  region: NM
+  name: Bernalillo
+  lat: '35.3127'
+  long: "-106.5537"
+  nearby_rate_centers:
+  - name: BERNALILLO
+    distance_km: 1.65
+  - name: ALBUQURQUE
+    distance_km: 27.12
+  - name: TIJERAS
+    distance_km: 29.86
+- country: US
+  region: NM
+  name: Bibo
+  lat: '35.1732'
+  long: "-107.4034"
+  nearby_rate_centers:
+  - name: LAGUNAACOM
+    distance_km: 17.21
+  - name: GRANTS
+    distance_km: 40.92
+  - name: ALBUQURQUE
+    distance_km: 69.42
+- country: US
+  region: NM
+  name: Black Hat
+  lat: '35.6311'
+  long: "-108.9641"
+  nearby_rate_centers:
+  - name: TSE BONITO
+    distance_km: 7.64
+  - name: TWIN LAKES
+    distance_km: 19.75
+  - name: GALLUP
+    distance_km: 23.36
+- country: US
+  region: NM
+  name: Black Rock
+  lat: '35.0835'
+  long: "-108.7975"
+  nearby_rate_centers:
+  - name: ZUNI
+    distance_km: 5.31
+  - name: VANDERWGON
+    distance_km: 20.45
+  - name: RAMAH
+    distance_km: 27.74
+- country: US
+  region: NM
+  name: Blanco
+  lat: '36.7406'
+  long: "-107.8060"
+  nearby_rate_centers:
+  - name: AZTEC
+    distance_km: 18.85
+  - name: FARMINGTON
+    distance_km: 36.03
+  - name: LYBROOK
+    distance_km: 60.94
+- country: US
+  region: NM
+  name: Bloomfield
+  lat: '36.7401'
+  long: "-107.9734"
+  nearby_rate_centers:
+  - name: AZTEC
+    distance_km: 9.44
+  - name: FARMINGTON
+    distance_km: 21.12
+  - name: SHIPROCK
+    distance_km: 63.42
+- country: US
+  region: NM
+  name: Bluewater
+  lat: '35.3243'
+  long: "-108.2060"
+  nearby_rate_centers:
+  - name: RAMAH
+    distance_km: 34.09
+  - name: GRANTS
+    distance_km: 37.05
+  - name: CROWNPOINT
+    distance_km: 40.11
+- country: US
+  region: NM
+  name: Bluewater Village
+  lat: '35.2464'
+  long: "-107.9676"
+  nearby_rate_centers:
+  - name: GRANTS
+    distance_km: 14.39
+  - name: LAGUNAACOM
+    distance_km: 41.87
+  - name: RAMAH
+    distance_km: 49.88
+- country: US
+  region: NM
+  name: Boles Acres
+  lat: '32.8198'
+  long: "-105.9780"
+  nearby_rate_centers:
+  - name: ALAMOGORDO
+    distance_km: 8.99
+  - name: CLOUDCROFT
+    distance_km: 26.35
+  - name: TULAROSA
+    distance_km: 28.39
+- country: US
+  region: NM
+  name: Borrego Pass
+  lat: '35.5664'
+  long: "-108.0165"
+  nearby_rate_centers:
+  - name: CROWNPOINT
+    distance_km: 17.57
+  - name: GRANTS
+    distance_km: 47.88
+  - name: PUEBLOPNTD
+    distance_km: 55.01
+- country: US
+  region: NM
+  name: Bosque Farms
+  lat: '34.8539'
+  long: "-106.7011"
+  nearby_rate_centers:
+  - name: LOS LUNAS
+    distance_km: 5.87
+  - name: BELEN
+    distance_km: 22.67
+  - name: ALBUQURQUE
+    distance_km: 25.75
+- country: US
+  region: NM
+  name: Brazos
+  lat: '36.7528'
+  long: "-106.5598"
+  nearby_rate_centers:
+  - name: TIERRAAMRL
+    distance_km: 4.75
+  - name: CHAMA
+    distance_km: 16.25
+  - name: CANJILON
+    distance_km: 33.1
+- country: US
+  region: NM
+  name: Brimhall Nizhoni
+  lat: '35.7785'
+  long: "-108.6322"
+  nearby_rate_centers:
+  - name: TWIN LAKES
+    distance_km: 14.44
+  - name: TOHATCHI
+    distance_km: 15.1
+  - name: GALLUP
+    distance_km: 30.02
+- country: US
+  region: NM
+  name: Broadview
+  lat: '35.2257'
+  long: "-107.8761"
+  nearby_rate_centers:
+  - name: GRANTS
+    distance_km: 7.92
+  - name: LAGUNAACOM
+    distance_km: 33.43
+  - name: CROWNPOINT
+    distance_km: 56.44
+- country: US
+  region: NM
+  name: Buckhorn
+  lat: '33.0315'
+  long: "-108.6944"
+  nearby_rate_centers:
+  - name: CLIFF
+    distance_km: 10.82
+  - name: GLENWOOD
+    distance_km: 36.44
+  - name: VIRDEN
+    distance_km: 48.28
+- country: US
+  region: NM
+  name: Butterfield Park
+  lat: '32.4052'
+  long: "-106.6457"
+  nearby_rate_centers:
+  - name: LAS CRUCES
+    distance_km: 16.78
+  - name: LA MESA
+    distance_km: 32.71
+  - name: ANTHONY
+    distance_km: 45.9
+- country: US
+  region: NM
+  name: Caballo
+  lat: '32.9806'
+  long: "-107.3075"
+  nearby_rate_centers:
+  - name: TRUTHCQNCS
+    distance_km: 17.7
+  - name: HILLSBORO
+    distance_km: 25.1
+  - name: HATCH
+    distance_km: 37.98
+- country: US
+  region: NM
+  name: Candy Kitchen
+  lat: '34.9120'
+  long: "-108.4929"
+  nearby_rate_centers:
+  - name: PINE HILL
+    distance_km: 7.46
+  - name: RAMAH
+    distance_km: 24.47
+  - name: FENCE LAKE
+    distance_km: 32.65
+- country: US
+  region: NM
+  name: Canjilon
+  lat: '36.4840'
+  long: "-106.4334"
+  nearby_rate_centers:
+  - name: CANJILON
+    distance_km: 2.3
+  - name: EL RITO
+    distance_km: 26.32
+  - name: TIERRAAMRL
+    distance_km: 27.55
+- country: US
+  region: NM
+  name: Cannon AFB
+  lat: '34.3885'
+  long: "-103.3185"
+  nearby_rate_centers:
+  - name: CANNON AFB
+    distance_km: 1.33
+  - name: SO CLOVIS
+    distance_km: 9.02
+  - name: CLOVIS
+    distance_km: 10.39
+- country: US
+  region: NM
+  name: Canova
+  lat: '36.1649'
+  long: "-105.9857"
+  nearby_rate_centers:
+  - name: VELARDE
+    distance_km: 8.82
+  - name: DIXON
+    distance_km: 11.39
+  - name: OJOCALINTE
+    distance_km: 17.5
+- country: US
+  region: NM
+  name: Capitan
+  lat: '33.5393'
+  long: "-105.5983"
+  nearby_rate_centers:
+  - name: CAPITAN
+    distance_km: 2.67
+  - name: ALTO
+    distance_km: 15.33
+  - name: RUIDOSODWN
+    distance_km: 22.88
+- country: US
+  region: NM
+  name: Capulin
+  lat: '36.7445'
+  long: "-103.9958"
+  nearby_rate_centers:
+  - name: DES MOINES
+    distance_km: 14.66
+  - name: RATON
+    distance_km: 42.37
+  - name: MAXWELL
+    distance_km: 53.48
+- country: US
+  region: NM
+  name: Carlsbad
+  lat: '32.4010'
+  long: "-104.2388"
+  nearby_rate_centers:
+  - name: CARLSBAD
+    distance_km: 1.82
+  - name: LOVING
+    distance_km: 17.76
+  - name: CRLSBACRNS
+    distance_km: 27.99
+- country: US
+  region: NM
+  name: Carnuel
+  lat: '35.0609'
+  long: "-106.4587"
+  nearby_rate_centers:
+  - name: TIJERAS
+    distance_km: 7.68
+  - name: ALBUQURQUE
+    distance_km: 17.41
+  - name: BERNALILLO
+    distance_km: 27.65
+- country: US
+  region: NM
+  name: Carrizozo
+  lat: '33.6433'
+  long: "-105.8411"
+  nearby_rate_centers:
+  - name: CARRIZOZO
+    distance_km: 2.95
+  - name: CAPITAN
+    distance_km: 26.9
+  - name: ALTO
+    distance_km: 29.68
+- country: US
+  region: NM
+  name: Casa Colorada
+  lat: '34.5534'
+  long: "-106.7420"
+  nearby_rate_centers:
+  - name: BELEN
+    distance_km: 12.05
+  - name: LOS LUNAS
+    distance_km: 28.31
+  - name: MOUNTAINAR
+    distance_km: 45.95
+- country: US
+  region: NM
+  name: Casas Adobes
+  lat: '32.8095'
+  long: "-107.9391"
+  nearby_rate_centers:
+  - name: MIMBRES
+    distance_km: 6.24
+  - name: BAYARD
+    distance_km: 18.95
+  - name: SILVERCITY
+    distance_km: 31.42
+- country: US
+  region: NM
+  name: Catalpa Canyon
+  lat: '35.4942'
+  long: "-108.7206"
+  nearby_rate_centers:
+  - name: GALLUP
+    distance_km: 3.82
+  - name: TWIN LAKES
+    distance_km: 24.48
+  - name: VANDERWGON
+    distance_km: 25.77
+- country: US
+  region: NM
+  name: Causey
+  lat: '33.8607'
+  long: "-103.1066"
+  nearby_rate_centers:
+  - name: CAUSEY
+    distance_km: 3.18
+  - name: DORA
+    distance_km: 22.32
+  - name: MILNESAND
+    distance_km: 32.22
+- country: US
+  region: NM
+  name: !binary |-
+    Q2HDsWFkYSBkZSBsb3MgQWxhbW9z
+  lat: '35.5927'
+  long: "-105.8597"
+  nearby_rate_centers:
+  - name: SANTA FE
+    distance_km: 13.01
+  - name: PECOS
+    distance_km: 16.64
+  - name: WHITELAKES
+    distance_km: 30.05
+- country: US
+  region: NM
+  name: !binary |-
+    Q2HDsW9u
+  lat: '35.6718'
+  long: "-106.7527"
+  nearby_rate_centers:
+  - name: JEMEZ SPG
+    distance_km: 11.68
+  - name: SAN YSIDRO
+    distance_km: 13.26
+  - name: PENABLANCA
+    distance_km: 39.37
+- country: US
+  region: NM
+  name: !binary |-
+    Q2HDsW9uY2l0bw==
+  lat: '35.5388'
+  long: "-105.8391"
+  nearby_rate_centers:
+  - name: PECOS
+    distance_km: 15.25
+  - name: SANTA FE
+    distance_km: 19.02
+  - name: WHITELAKES
+    distance_km: 23.77
+- country: US
+  region: NM
+  name: !binary |-
+    Q2HDsW9uZXM=
+  lat: '36.1768'
+  long: "-106.4244"
+  nearby_rate_centers:
+  - name: ABIQUIU
+    distance_km: 10.01
+  - name: EL RITO
+    distance_km: 28.43
+  - name: CANJILON
+    distance_km: 32.51
+- country: US
+  region: NM
+  name: Cedar Crest
+  lat: '35.1114'
+  long: "-106.3802"
+  nearby_rate_centers:
+  - name: TIJERAS
+    distance_km: 2.94
+  - name: ALBUQURQUE
+    distance_km: 24.62
+  - name: BERNALILLO
+    distance_km: 25.82
+- country: US
+  region: NM
+  name: Cedar Grove
+  lat: '35.1788'
+  long: "-106.1728"
+  nearby_rate_centers:
+  - name: TIJERAS
+    distance_km: 21.5
+  - name: MORIARTY
+    distance_km: 23.57
+  - name: BERNALILLO
+    distance_km: 36.64
+- country: US
+  region: NM
+  name: Cedar Hill
+  lat: '36.9424'
+  long: "-107.8862"
+  nearby_rate_centers:
+  - name: AZTEC
+    distance_km: 16.11
+  - name: FARMINGTON
+    distance_km: 37.09
+  - name: SHIPROCK
+    distance_km: 73.01
+- country: US
+  region: NM
+  name: Cedro
+  lat: '35.0180'
+  long: "-106.3508"
+  nearby_rate_centers:
+  - name: TIJERAS
+    distance_km: 7.9
+  - name: ALBUQURQUE
+    distance_km: 27.99
+  - name: MORIARTY
+    distance_km: 29.16
+- country: US
+  region: NM
+  name: Center Point
+  lat: '36.8720'
+  long: "-107.9551"
+  nearby_rate_centers:
+  - name: AZTEC
+    distance_km: 6.2
+  - name: FARMINGTON
+    distance_km: 27.49
+  - name: SHIPROCK
+    distance_km: 65.51
+- country: US
+  region: NM
+  name: Chama
+  lat: '36.8931'
+  long: "-106.5843"
+  nearby_rate_centers:
+  - name: CHAMA
+    distance_km: 0.58
+  - name: TIERRAAMRL
+    distance_km: 20.47
+  - name: DULCE
+    distance_km: 36.98
+- country: US
+  region: NM
+  name: Chamberino
+  lat: '32.0364'
+  long: "-106.6776"
+  nearby_rate_centers:
+  - name: ANTHONY
+    distance_km: 7.25
+  - name: LA MESA
+    distance_km: 9.24
+  - name: SNA TERESA
+    distance_km: 19.6
+- country: US
+  region: NM
+  name: Chamisal
+  lat: '36.1725'
+  long: "-105.7459"
+  nearby_rate_centers:
+  - name: PENASCO
+    distance_km: 5.12
+  - name: DIXON
+    distance_km: 11.28
+  - name: TRUCHAS
+    distance_km: 15.55
+- country: US
+  region: NM
+  name: Chamita
+  lat: '36.0706'
+  long: "-106.0974"
+  nearby_rate_centers:
+  - name: VELARDE
+    distance_km: 5.73
+  - name: ESPANOLA
+    distance_km: 8.8
+  - name: CHIMAYO
+    distance_km: 16.68
+- country: US
+  region: NM
+  name: Chamizal
+  lat: '34.2182'
+  long: "-106.9152"
+  nearby_rate_centers:
+  - name: SOCORRO
+    distance_km: 18.14
+  - name: MAGDALENA
+    distance_km: 32.19
+  - name: BELEN
+    distance_km: 50.69
+- country: US
+  region: NM
+  name: Chaparral
+  lat: '32.0442'
+  long: "-106.4060"
+  nearby_rate_centers:
+  - name: CHAPARRAL
+    distance_km: 1.38
+  - name: ANTHONY
+    distance_km: 20.99
+  - name: LA MESA
+    distance_km: 29.46
+- country: US
+  region: NM
+  name: Chical
+  lat: '34.8658'
+  long: "-106.6671"
+  nearby_rate_centers:
+  - name: LOS LUNAS
+    distance_km: 8.78
+  - name: ALBUQURQUE
+    distance_km: 24.04
+  - name: BELEN
+    distance_km: 24.97
+- country: US
+  region: NM
+  name: Chili
+  lat: '36.1027'
+  long: "-106.1529"
+  nearby_rate_centers:
+  - name: VELARDE
+    distance_km: 9.31
+  - name: ESPANOLA
+    distance_km: 13.76
+  - name: ABIQUIU
+    distance_km: 18.9
+- country: US
+  region: NM
+  name: Chilili
+  lat: '34.8974'
+  long: "-106.2332"
+  nearby_rate_centers:
+  - name: ESTANCIA
+    distance_km: 17.82
+  - name: MORIARTY
+    distance_km: 21.72
+  - name: TIJERAS
+    distance_km: 24.76
+- country: US
+  region: NM
+  name: Chimayo
+  lat: '35.9981'
+  long: "-105.9413"
+  nearby_rate_centers:
+  - name: CHIMAYO
+    distance_km: 0.69
+  - name: ESPANOLA
+    distance_km: 12.85
+  - name: TRUCHAS
+    distance_km: 13.04
+- country: US
+  region: NM
+  name: Chupadero
+  lat: '35.8144'
+  long: "-105.9198"
+  nearby_rate_centers:
+  - name: SANTA FE
+    distance_km: 14.61
+  - name: CHIMAYO
+    distance_km: 20.65
+  - name: ESPANOLA
+    distance_km: 24.69
+- country: US
+  region: NM
+  name: Church Rock
+  lat: '35.5692'
+  long: "-108.5730"
+  nearby_rate_centers:
+  - name: GALLUP
+    distance_km: 16.11
+  - name: TWIN LAKES
+    distance_km: 23.68
+  - name: TOHATCHI
+    distance_km: 36.65
+- country: US
+  region: NM
+  name: Cimarron
+  lat: '36.5083'
+  long: "-104.9104"
+  nearby_rate_centers:
+  - name: CIMARRON
+    distance_km: 0.45
+  - name: ANGEL FIRE
+    distance_km: 31.69
+  - name: SPRINGER
+    distance_km: 33.05
+- country: US
+  region: NM
+  name: City of the Sun
+  lat: '31.8466'
+  long: "-107.6504"
+  nearby_rate_centers:
+  - name: COLUMBUS
+    distance_km: 23.0
+  - name: DEMING
+    distance_km: 48.02
+  - name: PLAYAS
+    distance_km: 84.3
+- country: US
+  region: NM
+  name: Clayton
+  lat: '36.4426'
+  long: "-103.1574"
+  nearby_rate_centers:
+  - name: CLAYTON
+    distance_km: 2.48
+  - name: KENTON
+    distance_km: 68.0
+  - name: DES MOINES
+    distance_km: 69.81
+- country: US
+  region: NM
+  name: Cliff
+  lat: '32.9660'
+  long: "-108.6176"
+  nearby_rate_centers:
+  - name: CLIFF
+    distance_km: 1.36
+  - name: SILVERCITY
+    distance_km: 38.53
+  - name: GLENWOOD
+    distance_km: 46.35
+- country: US
+  region: NM
+  name: Cloudcroft
+  lat: '32.9532'
+  long: "-105.7326"
+  nearby_rate_centers:
+  - name: CLOUDCROFT
+    distance_km: 0.99
+  - name: ALAMOGORDO
+    distance_km: 22.05
+  - name: MESCALERO
+    distance_km: 22.86
+- country: US
+  region: NM
+  name: Clovis
+  lat: '34.4376'
+  long: "-103.1923"
+  nearby_rate_centers:
+  - name: CLOVIS
+    distance_km: 3.42
+  - name: CANNON AFB
+    distance_km: 12.15
+  - name: RANCHVALE
+    distance_km: 12.84
+- country: US
+  region: NM
+  name: Cobre
+  lat: '32.7804'
+  long: "-108.1106"
+  nearby_rate_centers:
+  - name: BAYARD
+    distance_km: 3.22
+  - name: MIMBRES
+    distance_km: 15.12
+  - name: SILVERCITY
+    distance_km: 15.17
+- country: US
+  region: NM
+  name: Cochiti
+  lat: '35.6104'
+  long: "-106.3501"
+  nearby_rate_centers:
+  - name: PENABLANCA
+    distance_km: 4.22
+  - name: WHITE ROCK
+    distance_km: 28.11
+  - name: LOS ALAMOS
+    distance_km: 30.81
+- country: US
+  region: NM
+  name: Cochiti Lake
+  lat: '35.6478'
+  long: "-106.3425"
+  nearby_rate_centers:
+  - name: PENABLANCA
+    distance_km: 8.15
+  - name: WHITE ROCK
+    distance_km: 24.17
+  - name: LOS ALAMOS
+    distance_km: 26.6
+- country: US
+  region: NM
+  name: Columbus
+  lat: '31.8271'
+  long: "-107.6422"
+  nearby_rate_centers:
+  - name: COLUMBUS
+    distance_km: 23.7
+  - name: DEMING
+    distance_km: 50.3
+  - name: PLAYAS
+    distance_km: 85.3
+- country: US
+  region: NM
+  name: Conchas Dam
+  lat: '35.3623'
+  long: "-104.2042"
+  nearby_rate_centers:
+  - name: CONCHASDAM
+    distance_km: 3.01
+  - name: TREMENTINA
+    distance_km: 28.78
+  - name: TUCUMCARI
+    distance_km: 48.08
+- country: US
+  region: NM
+  name: Conejo
+  lat: '35.6287'
+  long: "-105.9423"
+  nearby_rate_centers:
+  - name: SANTA FE
+    distance_km: 6.29
+  - name: PECOS
+    distance_km: 24.71
+  - name: WHITE ROCK
+    distance_km: 32.48
+- country: US
+  region: NM
+  name: Continental Divide
+  lat: '35.4329'
+  long: "-108.3358"
+  nearby_rate_centers:
+  - name: CROWNPOINT
+    distance_km: 32.45
+  - name: RAMAH
+    distance_km: 36.56
+  - name: GALLUP
+    distance_km: 38.15
+- country: US
+  region: NM
+  name: Cordova
+  lat: '36.0128'
+  long: "-105.8566"
+  nearby_rate_centers:
+  - name: TRUCHAS
+    distance_km: 5.51
+  - name: CHIMAYO
+    distance_km: 7.11
+  - name: VELARDE
+    distance_km: 20.1
+- country: US
+  region: NM
+  name: Corona
+  lat: '34.2501'
+  long: "-105.5970"
+  nearby_rate_centers:
+  - name: CORONA
+    distance_km: 0.46
+  - name: VAUGHN
+    distance_km: 52.83
+  - name: MOUNTAINAR
+    distance_km: 66.65
+- country: US
+  region: NM
+  name: Corrales
+  lat: '35.2366'
+  long: "-106.6191"
+  nearby_rate_centers:
+  - name: BERNALILLO
+    distance_km: 9.39
+  - name: ALBUQURQUE
+    distance_km: 17.46
+  - name: TIJERAS
+    distance_km: 27.54
+- country: US
+  region: NM
+  name: Costilla
+  lat: '36.9786'
+  long: "-105.5353"
+  nearby_rate_centers:
+  - name: QUESTA
+    distance_km: 31.48
+  - name: RED RIVER
+    distance_km: 32.27
+  - name: ANGEL FIRE
+    distance_km: 52.61
+- country: US
+  region: NM
+  name: Cotton City
+  lat: '32.1104'
+  long: "-108.8801"
+  nearby_rate_centers:
+  - name: ANIMAS
+    distance_km: 19.21
+  - name: LORDSBURG
+    distance_km: 31.01
+  - name: RODEO
+    distance_km: 33.94
+- country: US
+  region: NM
+  name: Coyote
+  lat: '36.1615'
+  long: "-106.6067"
+  nearby_rate_centers:
+  - name: GALLINA
+    distance_km: 20.9
+  - name: ABIQUIU
+    distance_km: 26.28
+  - name: CUBA
+    distance_km: 35.32
+- country: US
+  region: NM
+  name: Crestview
+  lat: '35.4878'
+  long: "-108.8574"
+  nearby_rate_centers:
+  - name: GALLUP
+    distance_km: 11.18
+  - name: TSE BONITO
+    distance_km: 25.28
+  - name: TWIN LAKES
+    distance_km: 26.06
+- country: US
+  region: NM
+  name: Crouch Mesa
+  lat: '36.7480'
+  long: "-108.0853"
+  nearby_rate_centers:
+  - name: FARMINGTON
+    distance_km: 11.26
+  - name: AZTEC
+    distance_km: 11.95
+  - name: SHIPROCK
+    distance_km: 53.41
+- country: US
+  region: NM
+  name: Crownpoint
+  lat: '35.7173'
+  long: "-108.1432"
+  nearby_rate_centers:
+  - name: CROWNPOINT
+    distance_km: 3.96
+  - name: PUEBLOPNTD
+    distance_km: 51.85
+  - name: TWIN LAKES
+    distance_km: 56.48
+- country: US
+  region: NM
+  name: Cruzville
+  lat: '33.8100'
+  long: "-108.6684"
+  nearby_rate_centers:
+  - name: RESERVE
+    distance_km: 14.48
+  - name: LUNA
+    distance_km: 26.46
+  - name: GLENWOOD
+    distance_km: 58.05
+- country: US
+  region: NM
+  name: Crystal
+  lat: '36.0290'
+  long: "-108.9898"
+  nearby_rate_centers:
+  - name: NAVAJO
+    distance_km: 15.2
+  - name: TOADLENA
+    distance_km: 24.69
+  - name: TOHATCHI
+    distance_km: 27.56
+- country: US
+  region: NM
+  name: Cuartelez
+  lat: '35.9929'
+  long: "-106.0196"
+  nearby_rate_centers:
+  - name: ESPANOLA
+    distance_km: 5.79
+  - name: CHIMAYO
+    distance_km: 7.74
+  - name: VELARDE
+    distance_km: 12.68
+- country: US
+  region: NM
+  name: Cuba
+  lat: '36.0146'
+  long: "-106.9680"
+  nearby_rate_centers:
+  - name: CUBA
+    distance_km: 1.23
+  - name: GALLINA
+    distance_km: 26.51
+  - name: LINDRITH
+    distance_km: 32.37
+- country: US
+  region: NM
+  name: Cubero
+  lat: '35.0904'
+  long: "-107.5261"
+  nearby_rate_centers:
+  - name: LAGUNAACOM
+    distance_km: 2.83
+  - name: GRANTS
+    distance_km: 30.65
+  - name: LOS LUNAS
+    distance_km: 78.85
+- country: US
+  region: NM
+  name: Cundiyo
+  lat: '35.9610'
+  long: "-105.9010"
+  nearby_rate_centers:
+  - name: CHIMAYO
+    distance_km: 5.23
+  - name: TRUCHAS
+    distance_km: 12.34
+  - name: ESPANOLA
+    distance_km: 16.83
+- country: US
+  region: NM
+  name: Cuyamungue
+  lat: '35.8648'
+  long: "-106.0096"
+  nearby_rate_centers:
+  - name: ESPANOLA
+    distance_km: 15.67
+  - name: CHIMAYO
+    distance_km: 16.48
+  - name: WHITE ROCK
+    distance_km: 17.59
+- country: US
+  region: NM
+  name: Cuyamungue Grant
+  lat: '35.8464'
+  long: "-105.9948"
+  nearby_rate_centers:
+  - name: CHIMAYO
+    distance_km: 17.91
+  - name: ESPANOLA
+    distance_km: 18.1
+  - name: SANTA FE
+    distance_km: 18.43
+- country: US
+  region: NM
+  name: Datil
+  lat: '34.1423'
+  long: "-107.8424"
+  nearby_rate_centers:
+  - name: DATIL
+    distance_km: 0.22
+  - name: MAGDALENA
+    distance_km: 55.32
+  - name: QUEMADO
+    distance_km: 64.1
+- country: US
+  region: NM
+  name: Deer Canyon
+  lat: '34.4436'
+  long: "-106.2607"
+  nearby_rate_centers:
+  - name: MOUNTAINAR
+    distance_km: 9.41
+  - name: ESTANCIA
+    distance_km: 38.76
+  - name: BELEN
+    distance_km: 52.66
+- country: US
+  region: NM
+  name: Deming
+  lat: '32.2631'
+  long: "-107.7525"
+  nearby_rate_centers:
+  - name: DEMING
+    distance_km: 0.9
+  - name: COLUMBUS
+    distance_km: 50.01
+  - name: BAYARD
+    distance_km: 65.55
+- country: US
+  region: NM
+  name: Des Moines
+  lat: '36.7614'
+  long: "-103.8342"
+  nearby_rate_centers:
+  - name: DES MOINES
+    distance_km: 0.25
+  - name: RATON
+    distance_km: 55.29
+  - name: MAXWELL
+    distance_km: 67.48
+- country: US
+  region: NM
+  name: Dexter
+  lat: '33.1954'
+  long: "-104.3687"
+  nearby_rate_centers:
+  - name: DEXTER
+    distance_km: 0.78
+  - name: HAGERMAN
+    distance_km: 9.42
+  - name: ROSWELL
+    distance_km: 26.9
+- country: US
+  region: NM
+  name: Dixon
+  lat: '36.1886'
+  long: "-105.8784"
+  nearby_rate_centers:
+  - name: DIXON
+    distance_km: 1.7
+  - name: PENASCO
+    distance_km: 16.91
+  - name: TRUCHAS
+    distance_km: 17.58
+- country: US
+  region: NM
+  name: Dora
+  lat: '33.9334'
+  long: "-103.3369"
+  nearby_rate_centers:
+  - name: DORA
+    distance_km: 0.43
+  - name: CAUSEY
+    distance_km: 20.27
+  - name: ARCH
+    distance_km: 25.4
+- country: US
+  region: NM
+  name: !binary |-
+    RG/DsWEgQW5h
+  lat: '32.3940'
+  long: "-106.8177"
+  nearby_rate_centers:
+  - name: LAS CRUCES
+    distance_km: 10.21
+  - name: LA MESA
+    distance_km: 32.66
+  - name: HATCH
+    distance_km: 43.37
+- country: US
+  region: NM
+  name: Dulce
+  lat: '36.9399'
+  long: "-107.0049"
+  nearby_rate_centers:
+  - name: DULCE
+    distance_km: 0.91
+  - name: CHAMA
+    distance_km: 37.91
+  - name: TIERRAAMRL
+    distance_km: 47.16
+- country: US
+  region: NM
+  name: Duran
+  lat: '34.4636'
+  long: "-105.3807"
+  nearby_rate_centers:
+  - name: VAUGHN
+    distance_km: 21.91
+  - name: CORONA
+    distance_km: 31.34
+  - name: ESTANCIA
+    distance_km: 75.28
+- country: US
+  region: NM
+  name: Eagle Nest
+  lat: '36.5496'
+  long: "-105.2591"
+  nearby_rate_centers:
+  - name: ANGEL FIRE
+    distance_km: 1.2
+  - name: RED RIVER
+    distance_km: 21.93
+  - name: CIMARRON
+    distance_km: 31.05
+- country: US
+  region: NM
+  name: East Pecos
+  lat: '35.5765'
+  long: "-105.6500"
+  nearby_rate_centers:
+  - name: PECOS
+    distance_km: 2.43
+  - name: WHITELAKES
+    distance_km: 28.58
+  - name: SANTA FE
+    distance_km: 29.53
+- country: US
+  region: NM
+  name: Edgewood
+  lat: '35.1318'
+  long: "-106.2151"
+  nearby_rate_centers:
+  - name: TIJERAS
+    distance_km: 15.84
+  - name: MORIARTY
+    distance_km: 22.15
+  - name: BERNALILLO
+    distance_km: 35.52
+- country: US
+  region: NM
+  name: El Cerro
+  lat: '34.7807'
+  long: "-106.6955"
+  nearby_rate_centers:
+  - name: LOS LUNAS
+    distance_km: 4.54
+  - name: BELEN
+    distance_km: 15.3
+  - name: ALBUQURQUE
+    distance_km: 33.71
+- country: US
+  region: NM
+  name: El Cerro Mission
+  lat: '34.7688'
+  long: "-106.6447"
+  nearby_rate_centers:
+  - name: LOS LUNAS
+    distance_km: 9.12
+  - name: BELEN
+    distance_km: 16.95
+  - name: ALBUQURQUE
+    distance_km: 34.76
+- country: US
+  region: NM
+  name: El Duende
+  lat: '36.0738'
+  long: "-106.1269"
+  nearby_rate_centers:
+  - name: VELARDE
+    distance_km: 7.76
+  - name: ESPANOLA
+    distance_km: 9.86
+  - name: CHIMAYO
+    distance_km: 19.2
+- country: US
+  region: NM
+  name: El Morro Valley
+  lat: '35.0362'
+  long: "-108.3225"
+  nearby_rate_centers:
+  - name: PINE HILL
+    distance_km: 18.41
+  - name: RAMAH
+    distance_km: 19.23
+  - name: GRANTS
+    distance_km: 44.76
+- country: US
+  region: NM
+  name: El Rancho
+  lat: '35.8928'
+  long: "-106.0856"
+  nearby_rate_centers:
+  - name: ESPANOLA
+    distance_km: 11.06
+  - name: WHITE ROCK
+    distance_km: 12.36
+  - name: CHIMAYO
+    distance_km: 18.11
+- country: US
+  region: NM
+  name: El Rito
+  lat: '36.3380'
+  long: "-106.1844"
+  nearby_rate_centers:
+  - name: EL RITO
+    distance_km: 1.45
+  - name: OJOCALINTE
+    distance_km: 12.85
+  - name: VALLECITOS
+    distance_km: 18.13
+- country: US
+  region: NM
+  name: El Valle de Arroyo Seco
+  lat: '35.9526'
+  long: "-106.0260"
+  nearby_rate_centers:
+  - name: ESPANOLA
+    distance_km: 6.83
+  - name: CHIMAYO
+    distance_km: 9.8
+  - name: VELARDE
+    distance_km: 17.01
+- country: US
+  region: NM
+  name: Eldorado at Santa Fe
+  lat: '35.5273'
+  long: "-105.9340"
+  nearby_rate_centers:
+  - name: SANTA FE
+    distance_km: 17.58
+  - name: PECOS
+    distance_km: 23.88
+  - name: WHITELAKES
+    distance_km: 26.61
+- country: US
+  region: NM
+  name: Elephant Butte
+  lat: '33.1806'
+  long: "-107.2269"
+  nearby_rate_centers:
+  - name: TRUTHCQNCS
+    distance_km: 5.79
+  - name: HILLSBORO
+    distance_km: 42.98
+  - name: HATCH
+    distance_km: 57.67
+- country: US
+  region: NM
+  name: Elida
+  lat: '33.9469'
+  long: "-103.6531"
+  nearby_rate_centers:
+  - name: ELIDA
+    distance_km: 0.68
+  - name: DORA
+    distance_km: 29.61
+  - name: FLOYD
+    distance_km: 34.1
+- country: US
+  region: NM
+  name: Encantado
+  lat: '35.7934'
+  long: "-105.9111"
+  nearby_rate_centers:
+  - name: SANTA FE
+    distance_km: 12.51
+  - name: CHIMAYO
+    distance_km: 23.04
+  - name: WHITE ROCK
+    distance_km: 26.45
+- country: US
+  region: NM
+  name: Encinal
+  lat: '35.1112'
+  long: "-107.4651"
+  nearby_rate_centers:
+  - name: LAGUNAACOM
+    distance_km: 8.84
+  - name: GRANTS
+    distance_km: 35.65
+  - name: ALBUQURQUE
+    distance_km: 74.38
+- country: US
+  region: NM
+  name: Encino
+  lat: '34.6518'
+  long: "-105.4586"
+  nearby_rate_centers:
+  - name: VAUGHN
+    distance_km: 22.76
+  - name: CORONA
+    distance_km: 46.69
+  - name: ESTANCIA
+    distance_km: 61.34
+- country: US
+  region: NM
+  name: Ensenada
+  lat: '36.7310'
+  long: "-106.5368"
+  nearby_rate_centers:
+  - name: TIERRAAMRL
+    distance_km: 3.08
+  - name: CHAMA
+    distance_km: 18.98
+  - name: CANJILON
+    distance_km: 30.21
+- country: US
+  region: NM
+  name: Escondida
+  lat: '34.1012'
+  long: "-106.8974"
+  nearby_rate_centers:
+  - name: SOCORRO
+    distance_km: 5.03
+  - name: MAGDALENA
+    distance_km: 31.79
+  - name: BINGHAM
+    distance_km: 54.57
+- country: US
+  region: NM
+  name: Escudilla Bonita
+  lat: '34.1122'
+  long: "-109.0231"
+  nearby_rate_centers:
+  - name: LUNA
+    distance_km: 32.85
+  - name: RESERVE
+    distance_km: 50.52
+  - name: QUEMADO
+    distance_km: 54.82
+- country: US
+  region: NM
+  name: !binary |-
+    RXNwYcOxb2xh
+  lat: '36.0044'
+  long: "-106.0686"
+  nearby_rate_centers:
+  - name: ESPANOLA
+    distance_km: 1.94
+  - name: VELARDE
+    distance_km: 11.26
+  - name: CHIMAYO
+    distance_km: 12.12
+- country: US
+  region: NM
+  name: Estancia
+  lat: '34.7667'
+  long: "-106.0301"
+  nearby_rate_centers:
+  - name: ESTANCIA
+    distance_km: 7.67
+  - name: MORIARTY
+    distance_km: 26.08
+  - name: MOUNTAINAR
+    distance_km: 32.95
+- country: US
+  region: NM
+  name: Eunice
+  lat: '32.4461'
+  long: "-103.1986"
+  nearby_rate_centers:
+  - name: EUNICE
+    distance_km: 3.88
+  - name: HOBBS
+    distance_km: 29.1
+  - name: JAL
+    distance_km: 36.98
+- country: US
+  region: NM
+  name: Fairacres
+  lat: '32.3047'
+  long: "-106.8367"
+  nearby_rate_centers:
+  - name: LAS CRUCES
+    distance_km: 5.18
+  - name: LA MESA
+    distance_km: 24.31
+  - name: ANTHONY
+    distance_km: 40.21
+- country: US
+  region: NM
+  name: Farmington
+  lat: '36.7555'
+  long: "-108.1823"
+  nearby_rate_centers:
+  - name: FARMINGTON
+    distance_km: 3.55
+  - name: AZTEC
+    distance_km: 18.71
+  - name: SHIPROCK
+    distance_km: 44.73
+- country: US
+  region: NM
+  name: Faywood
+  lat: '32.6247'
+  long: "-107.8723"
+  nearby_rate_centers:
+  - name: MIMBRES
+    distance_km: 27.51
+  - name: BAYARD
+    distance_km: 28.49
+  - name: DEMING
+    distance_km: 41.0
+- country: US
+  region: NM
+  name: Fence Lake
+  lat: '34.6534'
+  long: "-108.6738"
+  nearby_rate_centers:
+  - name: FENCE LAKE
+    distance_km: 0.66
+  - name: PINE HILL
+    distance_km: 35.26
+  - name: QUEMADO
+    distance_km: 38.17
+- country: US
+  region: NM
+  name: Flora Vista
+  lat: '36.8040'
+  long: "-108.0876"
+  nearby_rate_centers:
+  - name: AZTEC
+    distance_km: 8.93
+  - name: FARMINGTON
+    distance_km: 13.5
+  - name: SHIPROCK
+    distance_km: 53.07
+- country: US
+  region: NM
+  name: Floyd
+  lat: '34.2288'
+  long: "-103.5526"
+  nearby_rate_centers:
+  - name: FLOYD
+    distance_km: 13.21
+  - name: SO CLOVIS
+    distance_km: 19.17
+  - name: PORTALES
+    distance_km: 21.38
+- country: US
+  region: NM
+  name: Folsom
+  lat: '36.8478'
+  long: "-103.9176"
+  nearby_rate_centers:
+  - name: DES MOINES
+    distance_km: 12.39
+  - name: RATON
+    distance_km: 46.07
+  - name: MAXWELL
+    distance_km: 65.04
+- country: US
+  region: NM
+  name: Fort Sumner
+  lat: '34.4790'
+  long: "-104.2332"
+  nearby_rate_centers:
+  - name: FORTSUMNER
+    distance_km: 2.32
+  - name: HOUSE
+    distance_km: 35.41
+  - name: MELROSE
+    distance_km: 56.08
+- country: US
+  region: NM
+  name: Fort Wingate
+  lat: '35.4708'
+  long: "-108.5439"
+  nearby_rate_centers:
+  - name: GALLUP
+    distance_km: 18.88
+  - name: VANDERWGON
+    distance_km: 29.98
+  - name: TWIN LAKES
+    distance_km: 33.55
+- country: US
+  region: NM
+  name: Fruitland
+  lat: '36.7432'
+  long: "-108.3951"
+  nearby_rate_centers:
+  - name: FARMINGTON
+    distance_km: 16.52
+  - name: SHIPROCK
+    distance_km: 26.08
+  - name: AZTEC
+    distance_km: 37.14
+- country: US
+  region: NM
+  name: Galisteo
+  lat: '35.3984'
+  long: "-105.9571"
+  nearby_rate_centers:
+  - name: WHITELAKES
+    distance_km: 19.3
+  - name: SANTA FE
+    distance_km: 31.88
+  - name: PECOS
+    distance_km: 32.15
+- country: US
+  region: NM
+  name: Gallina
+  lat: '36.2295'
+  long: "-106.8205"
+  nearby_rate_centers:
+  - name: GALLINA
+    distance_km: 0.83
+  - name: LINDRITH
+    distance_km: 21.79
+  - name: CUBA
+    distance_km: 26.09
+- country: US
+  region: NM
+  name: Gallup
+  lat: '35.5182'
+  long: "-108.7431"
+  nearby_rate_centers:
+  - name: GALLUP
+    distance_km: 0.62
+  - name: TWIN LAKES
+    distance_km: 21.54
+  - name: VANDERWGON
+    distance_km: 28.26
+- country: US
+  region: NM
+  name: Gamerco
+  lat: '35.5699'
+  long: "-108.7641"
+  nearby_rate_centers:
+  - name: GALLUP
+    distance_km: 5.5
+  - name: TWIN LAKES
+    distance_km: 15.67
+  - name: TSE BONITO
+    distance_km: 26.95
+- country: US
+  region: NM
+  name: Garfield
+  lat: '32.7569'
+  long: "-107.2665"
+  nearby_rate_centers:
+  - name: HATCH
+    distance_km: 14.92
+  - name: HILLSBORO
+    distance_km: 33.3
+  - name: TRUTHCQNCS
+    distance_km: 41.81
+- country: US
+  region: NM
+  name: Gila
+  lat: '32.9485'
+  long: "-108.5762"
+  nearby_rate_centers:
+  - name: CLIFF
+    distance_km: 3.56
+  - name: SILVERCITY
+    distance_km: 34.23
+  - name: BAYARD
+    distance_km: 46.56
+- country: US
+  region: NM
+  name: Gila Hot Springs
+  lat: '33.1902'
+  long: "-108.2045"
+  nearby_rate_centers:
+  - name: MIMBRES
+    distance_km: 42.81
+  - name: CLIFF
+    distance_km: 44.52
+  - name: SILVERCITY
+    distance_km: 46.52
+- country: US
+  region: NM
+  name: Glen Acres
+  lat: '32.3750'
+  long: "-108.7162"
+  nearby_rate_centers:
+  - name: LORDSBURG
+    distance_km: 3.11
+  - name: VIRDEN
+    distance_km: 43.17
+  - name: ANIMAS
+    distance_km: 48.08
+- country: US
+  region: NM
+  name: Glenwood
+  lat: '33.3188'
+  long: "-108.8811"
+  nearby_rate_centers:
+  - name: GLENWOOD
+    distance_km: 0.09
+  - name: RESERVE
+    distance_km: 44.72
+  - name: CLIFF
+    distance_km: 46.54
+- country: US
+  region: NM
+  name: Glorieta
+  lat: '35.5840'
+  long: "-105.7629"
+  nearby_rate_centers:
+  - name: PECOS
+    distance_km: 7.83
+  - name: SANTA FE
+    distance_km: 20.16
+  - name: WHITELAKES
+    distance_km: 27.66
+- country: US
+  region: NM
+  name: Golden
+  lat: '35.2637'
+  long: "-106.2230"
+  nearby_rate_centers:
+  - name: TIJERAS
+    distance_km: 24.44
+  - name: BERNALILLO
+    distance_km: 29.81
+  - name: MORIARTY
+    distance_km: 34.0
+- country: US
+  region: NM
+  name: Golden Acres
+  lat: '35.2112'
+  long: "-107.9182"
+  nearby_rate_centers:
+  - name: GRANTS
+    distance_km: 8.44
+  - name: LAGUNAACOM
+    distance_km: 36.15
+  - name: RAMAH
+    distance_km: 53.46
+- country: US
+  region: NM
+  name: Grady
+  lat: '34.8217'
+  long: "-103.3157"
+  nearby_rate_centers:
+  - name: GRADY
+    distance_km: 0.43
+  - name: BELLVIEW
+    distance_km: 19.57
+  - name: WEBER CITY
+    distance_km: 31.18
+- country: US
+  region: NM
+  name: Grants
+  lat: '35.1538'
+  long: "-107.8335"
+  nearby_rate_centers:
+  - name: GRANTS
+    distance_km: 1.82
+  - name: LAGUNAACOM
+    distance_km: 26.68
+  - name: RAMAH
+    distance_km: 60.5
+- country: US
+  region: NM
+  name: Grenville
+  lat: '36.5906'
+  long: "-103.6147"
+  nearby_rate_centers:
+  - name: DES MOINES
+    distance_km: 27.03
+  - name: CLAYTON
+    distance_km: 41.58
+  - name: KENTON
+    distance_km: 76.09
+- country: US
+  region: NM
+  name: Hachita
+  lat: '31.9153'
+  long: "-108.3253"
+  nearby_rate_centers:
+  - name: PLAYAS
+    distance_km: 20.25
+  - name: COLUMBUS
+    distance_km: 41.92
+  - name: ANIMAS
+    distance_km: 45.55
+- country: US
+  region: NM
+  name: Hagerman
+  lat: '33.1146'
+  long: "-104.3284"
+  nearby_rate_centers:
+  - name: HAGERMAN
+    distance_km: 0.34
+  - name: DEXTER
+    distance_km: 10.49
+  - name: COTTONWOOD
+    distance_km: 24.19
+- country: US
+  region: NM
+  name: Hanover
+  lat: '32.8149'
+  long: "-108.0897"
+  nearby_rate_centers:
+  - name: BAYARD
+    distance_km: 7.48
+  - name: MIMBRES
+    distance_km: 11.55
+  - name: SILVERCITY
+    distance_km: 17.66
+- country: US
+  region: NM
+  name: Happy Valley
+  lat: '32.4236'
+  long: "-104.2903"
+  nearby_rate_centers:
+  - name: CARLSBAD
+    distance_km: 4.7
+  - name: LOVING
+    distance_km: 23.06
+  - name: LAKEWOOD
+    distance_km: 27.75
+- country: US
+  region: NM
+  name: Hatch
+  lat: '32.6663'
+  long: "-107.1644"
+  nearby_rate_centers:
+  - name: HATCH
+    distance_km: 1.42
+  - name: HILLSBORO
+    distance_km: 46.9
+  - name: TRUTHCQNCS
+    distance_km: 52.49
+- country: US
+  region: NM
+  name: Haystack
+  lat: '35.3612'
+  long: "-107.9340"
+  nearby_rate_centers:
+  - name: GRANTS
+    distance_km: 23.87
+  - name: CROWNPOINT
+    distance_km: 40.63
+  - name: LAGUNAACOM
+    distance_km: 46.55
+- country: US
+  region: NM
+  name: Hernandez
+  lat: '36.0567'
+  long: "-106.1185"
+  nearby_rate_centers:
+  - name: ESPANOLA
+    distance_km: 7.81
+  - name: VELARDE
+    distance_km: 8.18
+  - name: CHIMAYO
+    distance_km: 17.76
+- country: US
+  region: NM
+  name: High Rolls
+  lat: '32.9388'
+  long: "-105.8214"
+  nearby_rate_centers:
+  - name: CLOUDCROFT
+    distance_km: 7.45
+  - name: ALAMOGORDO
+    distance_km: 13.66
+  - name: TULAROSA
+    distance_km: 23.6
+- country: US
+  region: NM
+  name: Highland Meadows
+  lat: '34.9400'
+  long: "-107.1656"
+  nearby_rate_centers:
+  - name: LAGUNAACOM
+    distance_km: 38.68
+  - name: LOS LUNAS
+    distance_km: 42.15
+  - name: BELEN
+    distance_km: 47.57
+- country: US
+  region: NM
+  name: Hillsboro
+  lat: '32.9219'
+  long: "-107.5773"
+  nearby_rate_centers:
+  - name: HILLSBORO
+    distance_km: 1.08
+  - name: MIMBRES
+    distance_km: 37.97
+  - name: TRUTHCQNCS
+    distance_km: 38.39
+- country: US
+  region: NM
+  name: Hobbs
+  lat: '32.7281'
+  long: "-103.1600"
+  nearby_rate_centers:
+  - name: HOBBS
+    distance_km: 3.7
+  - name: LOVINGTON
+    distance_km: 30.36
+  - name: EUNICE
+    distance_km: 32.51
+- country: US
+  region: NM
+  name: Holloman AFB
+  lat: '32.8483'
+  long: "-106.0998"
+  nearby_rate_centers:
+  - name: ALAMOGORDO
+    distance_km: 14.24
+  - name: TULAROSA
+    distance_km: 26.13
+  - name: CLOUDCROFT
+    distance_km: 35.22
+- country: US
+  region: NM
+  name: Homer C Jones
+  lat: '35.3078'
+  long: "-108.0966"
+  nearby_rate_centers:
+  - name: GRANTS
+    distance_km: 27.75
+  - name: RAMAH
+    distance_km: 41.4
+  - name: CROWNPOINT
+    distance_km: 41.88
+- country: US
+  region: NM
+  name: Homestead
+  lat: '34.1488'
+  long: "-107.8820"
+  nearby_rate_centers:
+  - name: DATIL
+    distance_km: 3.89
+  - name: MAGDALENA
+    distance_km: 59.0
+  - name: QUEMADO
+    distance_km: 60.44
+- country: US
+  region: NM
+  name: Hope
+  lat: '32.8159'
+  long: "-104.7371"
+  nearby_rate_centers:
+  - name: HOPE
+    distance_km: 0.27
+  - name: COTTONWOOD
+    distance_km: 30.35
+  - name: ARTESIA
+    distance_km: 31.45
+- country: US
+  region: NM
+  name: Hot Springs Landing
+  lat: '33.2047'
+  long: "-107.2100"
+  nearby_rate_centers:
+  - name: TRUTHCQNCS
+    distance_km: 8.88
+  - name: HILLSBORO
+    distance_km: 45.96
+  - name: HATCH
+    distance_km: 60.16
+- country: US
+  region: NM
+  name: House
+  lat: '34.6492'
+  long: "-103.9038"
+  nearby_rate_centers:
+  - name: HOUSE
+    distance_km: 0.42
+  - name: RAGLAND
+    distance_km: 24.65
+  - name: WEBER CITY
+    distance_km: 30.65
+- country: US
+  region: NM
+  name: Hurley
+  lat: '32.6982'
+  long: "-108.1321"
+  nearby_rate_centers:
+  - name: BAYARD
+    distance_km: 6.64
+  - name: SILVERCITY
+    distance_km: 15.74
+  - name: MIMBRES
+    distance_km: 22.82
+- country: US
+  region: NM
+  name: Hyde Park
+  lat: '35.7112'
+  long: "-105.8866"
+  nearby_rate_centers:
+  - name: SANTA FE
+    distance_km: 6.28
+  - name: PECOS
+    distance_km: 24.2
+  - name: WHITE ROCK
+    distance_km: 31.35
+- country: US
+  region: NM
+  name: Indian Hills
+  lat: '34.9832'
+  long: "-106.1398"
+  nearby_rate_centers:
+  - name: MORIARTY
+    distance_km: 10.09
+  - name: ESTANCIA
+    distance_km: 23.76
+  - name: TIJERAS
+    distance_km: 24.59
+- country: US
+  region: NM
+  name: Isleta
+  lat: '34.9042'
+  long: "-106.6992"
+  nearby_rate_centers:
+  - name: LOS LUNAS
+    distance_km: 11.13
+  - name: ALBUQURQUE
+    distance_km: 20.24
+  - name: BELEN
+    distance_km: 28.11
+- country: US
+  region: NM
+  name: Iyanbito
+  lat: '35.5160'
+  long: "-108.4878"
+  nearby_rate_centers:
+  - name: GALLUP
+    distance_km: 23.03
+  - name: TWIN LAKES
+    distance_km: 33.38
+  - name: CROWNPOINT
+    distance_km: 35.76
+- country: US
+  region: NM
+  name: Jacona
+  lat: '35.8887'
+  long: "-106.0386"
+  nearby_rate_centers:
+  - name: ESPANOLA
+    distance_km: 12.22
+  - name: CHIMAYO
+    distance_km: 15.53
+  - name: WHITE ROCK
+    distance_km: 15.89
+- country: US
+  region: NM
+  name: Jaconita
+  lat: '35.8857'
+  long: "-106.0611"
+  nearby_rate_centers:
+  - name: ESPANOLA
+    distance_km: 12.02
+  - name: WHITE ROCK
+    distance_km: 13.91
+  - name: CHIMAYO
+    distance_km: 17.09
+- country: US
+  region: NM
+  name: Jal
+  lat: '32.1148'
+  long: "-103.1900"
+  nearby_rate_centers:
+  - name: JAL
+    distance_km: 0.35
+  - name: EUNICE
+    distance_km: 35.8
+  - name: ANTLPE RDG
+    distance_km: 46.15
+- country: US
+  region: NM
+  name: Jamestown
+  lat: '35.4692'
+  long: "-108.4396"
+  nearby_rate_centers:
+  - name: GALLUP
+    distance_km: 28.05
+  - name: CROWNPOINT
+    distance_km: 35.37
+  - name: VANDERWGON
+    distance_km: 36.66
+- country: US
+  region: NM
+  name: Jarales
+  lat: '34.6147'
+  long: "-106.7631"
+  nearby_rate_centers:
+  - name: BELEN
+    distance_km: 4.98
+  - name: LOS LUNAS
+    distance_km: 21.66
+  - name: MOUNTAINAR
+    distance_km: 48.76
+- country: US
+  region: NM
+  name: Jemez Pueblo
+  lat: '35.6066'
+  long: "-106.7333"
+  nearby_rate_centers:
+  - name: SAN YSIDRO
+    distance_km: 7.14
+  - name: JEMEZ SPG
+    distance_km: 18.01
+  - name: PENABLANCA
+    distance_km: 36.3
+- country: US
+  region: NM
+  name: Jemez Springs
+  lat: '35.7732'
+  long: "-106.6909"
+  nearby_rate_centers:
+  - name: JEMEZ SPG
+    distance_km: 0.91
+  - name: SAN YSIDRO
+    distance_km: 25.59
+  - name: CUBA
+    distance_km: 37.03
+- country: US
+  region: NM
+  name: Keeler Farm
+  lat: '32.3161'
+  long: "-107.7602"
+  nearby_rate_centers:
+  - name: DEMING
+    distance_km: 5.31
+  - name: COLUMBUS
+    distance_km: 55.54
+  - name: BAYARD
+    distance_km: 60.26
+- country: US
+  region: NM
+  name: Kingston
+  lat: '32.9173'
+  long: "-107.7097"
+  nearby_rate_centers:
+  - name: HILLSBORO
+    distance_km: 13.39
+  - name: MIMBRES
+    distance_km: 25.8
+  - name: BAYARD
+    distance_km: 43.28
+- country: US
+  region: NM
+  name: Kirtland
+  lat: '36.7502'
+  long: "-108.3588"
+  nearby_rate_centers:
+  - name: FARMINGTON
+    distance_km: 13.38
+  - name: SHIPROCK
+    distance_km: 29.15
+  - name: AZTEC
+    distance_km: 33.82
+- country: US
+  region: NM
+  name: Kirtland AFB
+  lat: '35.0497'
+  long: "-106.5599"
+  nearby_rate_centers:
+  - name: ALBUQURQUE
+    distance_km: 8.79
+  - name: TIJERAS
+    distance_km: 16.87
+  - name: BERNALILLO
+    distance_km: 27.68
+- country: US
+  region: NM
+  name: La Bajada
+  lat: '35.5565'
+  long: "-106.2436"
+  nearby_rate_centers:
+  - name: PENABLANCA
+    distance_km: 8.4
+  - name: SANTA FE
+    distance_km: 30.29
+  - name: WHITE ROCK
+    distance_km: 30.89
+- country: US
+  region: NM
+  name: La Boca
+  lat: '36.9945'
+  long: "-107.6065"
+  nearby_rate_centers:
+  - name: AZTEC
+    distance_km: 39.05
+  - name: DULCE
+    distance_km: 54.56
+  - name: FARMINGTON
+    distance_km: 61.09
+- country: US
+  region: NM
+  name: La Cienega
+  lat: '35.5794'
+  long: "-106.1130"
+  nearby_rate_centers:
+  - name: SANTA FE
+    distance_km: 18.97
+  - name: PENABLANCA
+    distance_km: 19.97
+  - name: WHITE ROCK
+    distance_km: 29.19
+- country: US
+  region: NM
+  name: La Cueva
+  lat: '35.8694'
+  long: "-106.6485"
+  nearby_rate_centers:
+  - name: JEMEZ SPG
+    distance_km: 12.27
+  - name: LOS ALAMOS
+    distance_km: 31.5
+  - name: CUBA
+    distance_km: 32.99
+- country: US
+  region: NM
+  name: La Cueva
+  lat: '35.5776'
+  long: "-105.7339"
+  nearby_rate_centers:
+  - name: PECOS
+    distance_km: 5.16
+  - name: SANTA FE
+    distance_km: 22.75
+  - name: WHITELAKES
+    distance_km: 27.04
+- country: US
+  region: NM
+  name: La Hacienda
+  lat: '32.2060'
+  long: "-107.7250"
+  nearby_rate_centers:
+  - name: DEMING
+    distance_km: 7.67
+  - name: COLUMBUS
+    distance_km: 44.77
+  - name: BAYARD
+    distance_km: 72.3
+- country: US
+  region: NM
+  name: La Huerta
+  lat: '32.4489'
+  long: "-104.2225"
+  nearby_rate_centers:
+  - name: CARLSBAD
+    distance_km: 3.91
+  - name: LOVING
+    distance_km: 20.88
+  - name: LAKEWOOD
+    distance_km: 28.4
+- country: US
+  region: NM
+  name: La Jara
+  lat: '36.1055'
+  long: "-106.9419"
+  nearby_rate_centers:
+  - name: CUBA
+    distance_km: 9.21
+  - name: GALLINA
+    distance_km: 16.74
+  - name: LINDRITH
+    distance_km: 23.47
+- country: US
+  region: NM
+  name: La Joya
+  lat: '34.3450'
+  long: "-106.8466"
+  nearby_rate_centers:
+  - name: SOCORRO
+    distance_km: 32.34
+  - name: BELEN
+    distance_km: 35.53
+  - name: MAGDALENA
+    distance_km: 44.44
+- country: US
+  region: NM
+  name: La Luz
+  lat: '32.9698'
+  long: "-105.9388"
+  nearby_rate_centers:
+  - name: ALAMOGORDO
+    distance_km: 8.1
+  - name: TULAROSA
+    distance_km: 13.62
+  - name: CLOUDCROFT
+    distance_km: 18.4
+- country: US
+  region: NM
+  name: La Madera
+  lat: '36.3808'
+  long: "-106.0420"
+  nearby_rate_centers:
+  - name: OJOCALINTE
+    distance_km: 7.31
+  - name: VALLECITOS
+    distance_km: 13.6
+  - name: EL RITO
+    distance_km: 13.77
+- country: US
+  region: NM
+  name: La Madera
+  lat: '35.2345'
+  long: "-106.3340"
+  nearby_rate_centers:
+  - name: TIJERAS
+    distance_km: 17.13
+  - name: BERNALILLO
+    distance_km: 20.75
+  - name: ALBUQURQUE
+    distance_km: 33.26
+- country: US
+  region: NM
+  name: La Mesa
+  lat: '32.1244'
+  long: "-106.7090"
+  nearby_rate_centers:
+  - name: LA MESA
+    distance_km: 0.99
+  - name: ANTHONY
+    distance_km: 16.84
+  - name: LAS CRUCES
+    distance_km: 21.46
+- country: US
+  region: NM
+  name: La Mesilla
+  lat: '35.9461'
+  long: "-106.0719"
+  nearby_rate_centers:
+  - name: ESPANOLA
+    distance_km: 5.24
+  - name: CHIMAYO
+    distance_km: 13.77
+  - name: WHITE ROCK
+    distance_km: 17.17
+- country: US
+  region: NM
+  name: La Plata
+  lat: '36.8952'
+  long: "-108.2003"
+  nearby_rate_centers:
+  - name: FARMINGTON
+    distance_km: 18.09
+  - name: AZTEC
+    distance_km: 20.29
+  - name: SHIPROCK
+    distance_km: 44.67
+- country: US
+  region: NM
+  name: La Puebla
+  lat: '35.9882'
+  long: "-106.0005"
+  nearby_rate_centers:
+  - name: CHIMAYO
+    distance_km: 6.12
+  - name: ESPANOLA
+    distance_km: 7.53
+  - name: VELARDE
+    distance_km: 13.65
+- country: US
+  region: NM
+  name: La Tierra
+  lat: '35.7473'
+  long: "-106.0308"
+  nearby_rate_centers:
+  - name: SANTA FE
+    distance_km: 10.18
+  - name: WHITE ROCK
+    distance_km: 17.98
+  - name: ESPANOLA
+    distance_km: 27.65
+- country: US
+  region: NM
+  name: La Union
+  lat: '31.9508'
+  long: "-106.6622"
+  nearby_rate_centers:
+  - name: ANTHONY
+    distance_km: 6.13
+  - name: SNA TERESA
+    distance_km: 10.35
+  - name: LA MESA
+    distance_km: 18.81
+- country: US
+  region: NM
+  name: La Villita
+  lat: '36.1001'
+  long: "-106.0515"
+  nearby_rate_centers:
+  - name: VELARDE
+    distance_km: 0.52
+  - name: ESPANOLA
+    distance_km: 12.34
+  - name: CHIMAYO
+    distance_km: 15.37
+- country: US
+  region: NM
+  name: Laguna
+  lat: '35.0473'
+  long: "-107.4031"
+  nearby_rate_centers:
+  - name: LAGUNAACOM
+    distance_km: 14.25
+  - name: GRANTS
+    distance_km: 42.72
+  - name: LOS LUNAS
+    distance_km: 66.68
+- country: US
+  region: NM
+  name: Lake Arthur
+  lat: '32.9994'
+  long: "-104.3637"
+  nearby_rate_centers:
+  - name: COTTONWOOD
+    distance_km: 11.38
+  - name: HAGERMAN
+    distance_km: 13.4
+  - name: ARTESIA
+    distance_km: 17.07
+- country: US
+  region: NM
+  name: Lake Roberts
+  lat: '33.0313'
+  long: "-108.1689"
+  nearby_rate_centers:
+  - name: MIMBRES
+    distance_km: 26.5
+  - name: SILVERCITY
+    distance_km: 30.02
+  - name: BAYARD
+    distance_km: 30.59
+- country: US
+  region: NM
+  name: Lake Roberts Heights
+  lat: '33.0271'
+  long: "-108.1381"
+  nearby_rate_centers:
+  - name: MIMBRES
+    distance_km: 24.28
+  - name: BAYARD
+    distance_km: 29.93
+  - name: SILVERCITY
+    distance_km: 30.65
+- country: US
+  region: NM
+  name: Lake Sumner
+  lat: '34.6186'
+  long: "-104.3801"
+  nearby_rate_centers:
+  - name: FORTSUMNER
+    distance_km: 20.68
+  - name: HOUSE
+    distance_km: 43.71
+  - name: SANTA ROSA
+    distance_km: 45.3
+- country: US
+  region: NM
+  name: Lake Valley
+  lat: '36.0901'
+  long: "-108.1642"
+  nearby_rate_centers:
+  - name: CROWNPOINT
+    distance_km: 45.4
+  - name: NASCHITTI
+    distance_km: 46.71
+  - name: PUEBLOPNTD
+    distance_km: 47.73
+- country: US
+  region: NM
+  name: Lamy
+  lat: '35.4854'
+  long: "-105.8863"
+  nearby_rate_centers:
+  - name: WHITELAKES
+    distance_km: 20.3
+  - name: PECOS
+    distance_km: 21.46
+  - name: SANTA FE
+    distance_km: 22.89
+- country: US
+  region: NM
+  name: Las Campanas
+  lat: '35.7159'
+  long: "-106.0582"
+  nearby_rate_centers:
+  - name: SANTA FE
+    distance_km: 10.51
+  - name: WHITE ROCK
+    distance_km: 18.22
+  - name: LOS ALAMOS
+    distance_km: 28.71
+- country: US
+  region: NM
+  name: Las Cruces
+  lat: '32.3265'
+  long: "-106.7893"
+  nearby_rate_centers:
+  - name: LAS CRUCES
+    distance_km: 2.24
+  - name: LA MESA
+    distance_km: 24.69
+  - name: ANTHONY
+    distance_km: 40.36
+- country: US
+  region: NM
+  name: Las Maravillas
+  lat: '34.7340'
+  long: "-106.6690"
+  nearby_rate_centers:
+  - name: LOS LUNAS
+    distance_km: 10.06
+  - name: BELEN
+    distance_km: 12.67
+  - name: ALBUQURQUE
+    distance_km: 38.68
+- country: US
+  region: NM
+  name: Las Nutrias
+  lat: '34.4699'
+  long: "-106.7708"
+  nearby_rate_centers:
+  - name: BELEN
+    distance_km: 21.0
+  - name: LOS LUNAS
+    distance_km: 37.75
+  - name: SOCORRO
+    distance_km: 47.26
+- country: US
+  region: NM
+  name: Las Palomas
+  lat: '33.0589'
+  long: "-107.2983"
+  nearby_rate_centers:
+  - name: TRUTHCQNCS
+    distance_km: 9.3
+  - name: HILLSBORO
+    distance_km: 29.44
+  - name: HATCH
+    distance_km: 45.85
+- country: US
+  region: NM
+  name: Las Vegas
+  lat: '35.6011'
+  long: "-105.2206"
+  nearby_rate_centers:
+  - name: LAS VEGAS
+    distance_km: 0.61
+  - name: EL VALLE
+    distance_km: 35.8
+  - name: PECOS
+    distance_km: 41.35
+- country: US
+  region: NM
+  name: Lee Acres
+  lat: '36.7031'
+  long: "-108.0648"
+  nearby_rate_centers:
+  - name: FARMINGTON
+    distance_km: 13.37
+  - name: AZTEC
+    distance_km: 14.98
+  - name: SHIPROCK
+    distance_km: 55.84
+- country: US
+  region: NM
+  name: Lemitar
+  lat: '34.1551'
+  long: "-106.9122"
+  nearby_rate_centers:
+  - name: SOCORRO
+    distance_km: 11.17
+  - name: MAGDALENA
+    distance_km: 30.7
+  - name: BELEN
+    distance_km: 57.44
+- country: US
+  region: NM
+  name: Lindrith
+  lat: '36.3173'
+  long: "-107.0459"
+  nearby_rate_centers:
+  - name: LINDRITH
+    distance_km: 2.1
+  - name: GALLINA
+    distance_km: 22.25
+  - name: CUBA
+    distance_km: 33.47
+- country: US
+  region: NM
+  name: Little Walnut Village
+  lat: '32.8257'
+  long: "-108.2811"
+  nearby_rate_centers:
+  - name: SILVERCITY
+    distance_km: 5.6
+  - name: BAYARD
+    distance_km: 15.81
+  - name: MIMBRES
+    distance_km: 28.68
+- country: US
+  region: NM
+  name: Livingston Wheeler
+  lat: '32.3944'
+  long: "-104.1981"
+  nearby_rate_centers:
+  - name: CARLSBAD
+    distance_km: 4.74
+  - name: LOVING
+    distance_km: 14.62
+  - name: CRLSBACRNS
+    distance_km: 29.27
+- country: US
+  region: NM
+  name: Llano del Medio
+  lat: '35.1881'
+  long: "-105.1163"
+  nearby_rate_centers:
+  - name: ANTONCHICO
+    distance_km: 2.7
+  - name: EL VALLE
+    distance_km: 29.66
+  - name: LAS VEGAS
+    distance_km: 46.95
+- country: US
+  region: NM
+  name: Lobo Canyon
+  lat: '35.2238'
+  long: "-107.7209"
+  nearby_rate_centers:
+  - name: GRANTS
+    distance_km: 14.13
+  - name: LAGUNAACOM
+    distance_km: 22.02
+  - name: CROWNPOINT
+    distance_km: 64.02
+- country: US
+  region: NM
+  name: Loco Hills
+  lat: '32.8197'
+  long: "-103.9783"
+  nearby_rate_centers:
+  - name: LOCO HILLS
+    distance_km: 1.42
+  - name: MALJAMAR
+    distance_km: 20.88
+  - name: ARTESIA
+    distance_km: 39.8
+- country: US
+  region: NM
+  name: Logan
+  lat: '35.3576'
+  long: "-103.4426"
+  nearby_rate_centers:
+  - name: LOGAN
+    distance_km: 2.68
+  - name: SAN JON
+    distance_km: 29.5
+  - name: TUCUMCARI
+    distance_km: 32.63
+- country: US
+  region: NM
+  name: Lordsburg
+  lat: '32.3438'
+  long: "-108.7021"
+  nearby_rate_centers:
+  - name: LORDSBURG
+    distance_km: 0.7
+  - name: ANIMAS
+    distance_km: 44.94
+  - name: VIRDEN
+    distance_km: 46.74
+- country: US
+  region: NM
+  name: Los Alamos
+  lat: '35.8927'
+  long: "-106.2862"
+  nearby_rate_centers:
+  - name: LOS ALAMOS
+    distance_km: 1.5
+  - name: WHITE ROCK
+    distance_km: 10.25
+  - name: ESPANOLA
+    distance_km: 21.3
+- country: US
+  region: NM
+  name: Los Cerrillos
+  lat: '35.4272'
+  long: "-106.1212"
+  nearby_rate_centers:
+  - name: PENABLANCA
+    distance_km: 25.29
+  - name: SANTA FE
+    distance_km: 32.66
+  - name: WHITELAKES
+    distance_km: 34.41
+- country: US
+  region: NM
+  name: Los Chaves
+  lat: '34.7334'
+  long: "-106.7611"
+  nearby_rate_centers:
+  - name: BELEN
+    distance_km: 8.37
+  - name: LOS LUNAS
+    distance_km: 8.69
+  - name: ALBUQURQUE
+    distance_km: 40.04
+- country: US
+  region: NM
+  name: Los Luceros
+  lat: '36.1151'
+  long: "-106.0371"
+  nearby_rate_centers:
+  - name: VELARDE
+    distance_km: 1.62
+  - name: ESPANOLA
+    distance_km: 14.3
+  - name: CHIMAYO
+    distance_km: 15.83
+- country: US
+  region: NM
+  name: Los Lunas
+  lat: '34.8115'
+  long: "-106.7803"
+  nearby_rate_centers:
+  - name: LOS LUNAS
+    distance_km: 4.38
+  - name: BELEN
+    distance_km: 17.0
+  - name: ALBUQURQUE
+    distance_km: 32.33
+- country: US
+  region: NM
+  name: Los Ojos
+  lat: '36.7361'
+  long: "-106.5669"
+  nearby_rate_centers:
+  - name: TIERRAAMRL
+    distance_km: 2.96
+  - name: CHAMA
+    distance_km: 18.04
+  - name: CANJILON
+    distance_km: 31.54
+- country: US
+  region: NM
+  name: Los Ranchos de Albuquerque
+  lat: '35.1625'
+  long: "-106.6482"
+  nearby_rate_centers:
+  - name: ALBUQURQUE
+    distance_km: 9.01
+  - name: BERNALILLO
+    distance_km: 17.61
+  - name: TIJERAS
+    distance_km: 25.91
+- country: US
+  region: NM
+  name: Loving
+  lat: '32.2862'
+  long: "-104.0976"
+  nearby_rate_centers:
+  - name: LOVING
+    distance_km: 0.69
+  - name: CARLSBAD
+    distance_km: 19.83
+  - name: CRLSBACRNS
+    distance_km: 28.51
+- country: US
+  region: NM
+  name: Lovington
+  lat: '32.9128'
+  long: "-103.3276"
+  nearby_rate_centers:
+  - name: LOVINGTON
+    distance_km: 4.66
+  - name: HOBBS
+    distance_km: 29.53
+  - name: TATUM
+    distance_km: 38.67
+- country: US
+  region: NM
+  name: Lower Frisco
+  lat: '33.6515'
+  long: "-108.7895"
+  nearby_rate_centers:
+  - name: RESERVE
+    distance_km: 6.78
+  - name: LUNA
+    distance_km: 24.36
+  - name: GLENWOOD
+    distance_km: 37.93
+- country: US
+  region: NM
+  name: Luis Lopez
+  lat: '33.9904'
+  long: "-106.8878"
+  nearby_rate_centers:
+  - name: SOCORRO
+    distance_km: 7.34
+  - name: MAGDALENA
+    distance_km: 35.49
+  - name: BINGHAM
+    distance_km: 49.71
+- country: US
+  region: NM
+  name: Lumberton
+  lat: '36.9328'
+  long: "-106.9352"
+  nearby_rate_centers:
+  - name: DULCE
+    distance_km: 5.49
+  - name: CHAMA
+    distance_km: 31.67
+  - name: TIERRAAMRL
+    distance_km: 41.61
+- country: US
+  region: NM
+  name: Luna
+  lat: '33.8181'
+  long: "-108.9435"
+  nearby_rate_centers:
+  - name: LUNA
+    distance_km: 1.11
+  - name: RESERVE
+    distance_km: 20.15
+  - name: GLENWOOD
+    distance_km: 55.77
+- country: US
+  region: NM
+  name: Lybrook
+  lat: '36.2290'
+  long: "-107.5549"
+  nearby_rate_centers:
+  - name: LYBROOK
+    distance_km: 0.84
+  - name: PUEBLOPNTD
+    distance_km: 30.68
+  - name: LINDRITH
+    distance_km: 46.1
+- country: US
+  region: NM
+  name: Lyden
+  lat: '36.1537'
+  long: "-106.0147"
+  nearby_rate_centers:
+  - name: VELARDE
+    distance_km: 6.3
+  - name: DIXON
+    distance_km: 14.27
+  - name: OJOCALINTE
+    distance_km: 18.14
+- country: US
+  region: NM
+  name: Madrid
+  lat: '35.4033'
+  long: "-106.1537"
+  nearby_rate_centers:
+  - name: PENABLANCA
+    distance_km: 25.09
+  - name: SANTA FE
+    distance_km: 36.43
+  - name: WHITELAKES
+    distance_km: 36.6
+- country: US
+  region: NM
+  name: Madrone
+  lat: '34.5792'
+  long: "-106.7285"
+  nearby_rate_centers:
+  - name: BELEN
+    distance_km: 9.74
+  - name: LOS LUNAS
+    distance_km: 25.43
+  - name: MOUNTAINAR
+    distance_km: 44.99
+- country: US
+  region: NM
+  name: Magdalena
+  lat: '34.1095'
+  long: "-107.2319"
+  nearby_rate_centers:
+  - name: MAGDALENA
+    distance_km: 1.16
+  - name: SOCORRO
+    distance_km: 32.06
+  - name: DATIL
+    distance_km: 56.12
+- country: US
+  region: NM
+  name: Malaga
+  lat: '32.2227'
+  long: "-104.0692"
+  nearby_rate_centers:
+  - name: LOVING
+    distance_km: 8.24
+  - name: CARLSBAD
+    distance_km: 26.98
+  - name: CRLSBACRNS
+    distance_km: 28.87
+- country: US
+  region: NM
+  name: Manuelito
+  lat: '35.4387'
+  long: "-108.9946"
+  nearby_rate_centers:
+  - name: GALLUP
+    distance_km: 24.74
+  - name: TSE BONITO
+    distance_km: 24.85
+  - name: VANDERWGON
+    distance_km: 29.03
+- country: US
+  region: NM
+  name: Manzano
+  lat: '34.6437'
+  long: "-106.3671"
+  nearby_rate_centers:
+  - name: MOUNTAINAR
+    distance_km: 17.37
+  - name: ESTANCIA
+    distance_km: 27.1
+  - name: BELEN
+    distance_km: 37.17
+- country: US
+  region: NM
+  name: Manzano Springs
+  lat: '34.9614'
+  long: "-106.2328"
+  nearby_rate_centers:
+  - name: MORIARTY
+    distance_km: 18.89
+  - name: TIJERAS
+    distance_km: 19.17
+  - name: ESTANCIA
+    distance_km: 23.83
+- country: US
+  region: NM
+  name: Maxwell
+  lat: '36.5411'
+  long: "-104.5431"
+  nearby_rate_centers:
+  - name: MAXWELL
+    distance_km: 0.34
+  - name: SPRINGER
+    distance_km: 20.99
+  - name: CIMARRON
+    distance_km: 33.43
+- country: US
+  region: NM
+  name: Mayhill
+  lat: '32.8961'
+  long: "-105.4960"
+  nearby_rate_centers:
+  - name: MAYHILL
+    distance_km: 2.09
+  - name: CLOUDCROFT
+    distance_km: 23.83
+  - name: TIMBERON
+    distance_km: 32.74
+- country: US
+  region: NM
+  name: McCartys Village
+  lat: '35.0614'
+  long: "-107.6634"
+  nearby_rate_centers:
+  - name: LAGUNAACOM
+    distance_km: 10.13
+  - name: GRANTS
+    distance_km: 20.27
+  - name: PINE HILL
+    distance_km: 71.18
+- country: US
+  region: NM
+  name: McGaffey
+  lat: '35.3720'
+  long: "-108.5207"
+  nearby_rate_centers:
+  - name: VANDERWGON
+    distance_km: 24.51
+  - name: GALLUP
+    distance_km: 26.21
+  - name: RAMAH
+    distance_km: 26.76
+- country: US
+  region: NM
+  name: McIntosh
+  lat: '34.8819'
+  long: "-106.0559"
+  nearby_rate_centers:
+  - name: MORIARTY
+    distance_km: 13.45
+  - name: ESTANCIA
+    distance_km: 13.47
+  - name: TIJERAS
+    distance_km: 37.14
+- country: US
+  region: NM
+  name: Meadow Lake
+  lat: '34.8024'
+  long: "-106.5701"
+  nearby_rate_centers:
+  - name: LOS LUNAS
+    distance_km: 14.84
+  - name: BELEN
+    distance_km: 24.47
+  - name: ALBUQURQUE
+    distance_km: 31.84
+- country: US
+  region: NM
+  name: Medanales
+  lat: '36.1765'
+  long: "-106.1777"
+  nearby_rate_centers:
+  - name: ABIQUIU
+    distance_km: 13.14
+  - name: VELARDE
+    distance_km: 14.04
+  - name: EL RITO
+    distance_km: 19.32
+- country: US
+  region: NM
+  name: Melrose
+  lat: '34.4289'
+  long: "-103.6296"
+  nearby_rate_centers:
+  - name: MELROSE
+    distance_km: 0.83
+  - name: SO CLOVIS
+    distance_km: 22.25
+  - name: WEBER CITY
+    distance_km: 23.48
+- country: US
+  region: NM
+  name: Mescalero
+  lat: '33.1448'
+  long: "-105.7897"
+  nearby_rate_centers:
+  - name: MESCALERO
+    distance_km: 2.09
+  - name: CLOUDCROFT
+    distance_km: 22.02
+  - name: TULAROSA
+    distance_km: 22.68
+- country: US
+  region: NM
+  name: Mesilla
+  lat: '32.2693'
+  long: "-106.8091"
+  nearby_rate_centers:
+  - name: LAS CRUCES
+    distance_km: 4.96
+  - name: LA MESA
+    distance_km: 19.6
+  - name: ANTHONY
+    distance_km: 35.5
+- country: US
+  region: NM
+  name: Mesita
+  lat: '35.0026'
+  long: "-107.3122"
+  nearby_rate_centers:
+  - name: LAGUNAACOM
+    distance_km: 23.67
+  - name: GRANTS
+    distance_km: 52.13
+  - name: LOS LUNAS
+    distance_km: 57.12
+- country: US
+  region: NM
+  name: Mesquite
+  lat: '32.1670'
+  long: "-106.6885"
+  nearby_rate_centers:
+  - name: LA MESA
+    distance_km: 5.98
+  - name: LAS CRUCES
+    distance_km: 17.9
+  - name: ANTHONY
+    distance_km: 20.39
+- country: US
+  region: NM
+  name: Middle Frisco
+  lat: '33.6949'
+  long: "-108.7639"
+  nearby_rate_centers:
+  - name: RESERVE
+    distance_km: 1.73
+  - name: LUNA
+    distance_km: 22.6
+  - name: GLENWOOD
+    distance_km: 43.19
+- country: US
+  region: NM
+  name: Midway
+  lat: '33.2958'
+  long: "-104.4518"
+  nearby_rate_centers:
+  - name: DEXTER
+    distance_km: 12.8
+  - name: ROSWELL
+    distance_km: 13.36
+  - name: HAGERMAN
+    distance_km: 22.86
+- country: US
+  region: NM
+  name: Milan
+  lat: '35.1949'
+  long: "-107.8946"
+  nearby_rate_centers:
+  - name: GRANTS
+    distance_km: 5.66
+  - name: LAGUNAACOM
+    distance_km: 33.47
+  - name: RAMAH
+    distance_km: 55.33
+- country: US
+  region: NM
+  name: Mimbres
+  lat: '32.8398'
+  long: "-107.9606"
+  nearby_rate_centers:
+  - name: MIMBRES
+    distance_km: 2.34
+  - name: BAYARD
+    distance_km: 18.45
+  - name: SILVERCITY
+    distance_km: 30.03
+- country: US
+  region: NM
+  name: Mogollon
+  lat: '33.4034'
+  long: "-108.7992"
+  nearby_rate_centers:
+  - name: GLENWOOD
+    distance_km: 12.11
+  - name: RESERVE
+    distance_km: 34.2
+  - name: LUNA
+    distance_km: 48.75
+- country: US
+  region: NM
+  name: Monterey Park
+  lat: '34.7511'
+  long: "-106.6530"
+  nearby_rate_centers:
+  - name: LOS LUNAS
+    distance_km: 9.63
+  - name: BELEN
+    distance_km: 15.03
+  - name: ALBUQURQUE
+    distance_km: 36.73
+- country: US
+  region: NM
+  name: Monument
+  lat: '32.6243'
+  long: "-103.2776"
+  nearby_rate_centers:
+  - name: HOBBS
+    distance_km: 15.91
+  - name: EUNICE
+    distance_km: 23.73
+  - name: LOVINGTON
+    distance_km: 36.95
+- country: US
+  region: NM
+  name: Moquino
+  lat: '35.1700'
+  long: "-107.3640"
+  nearby_rate_centers:
+  - name: LAGUNAACOM
+    distance_km: 20.0
+  - name: GRANTS
+    distance_km: 44.49
+  - name: ALBUQURQUE
+    distance_km: 65.82
+- country: US
+  region: NM
+  name: Mora
+  lat: '35.9634'
+  long: "-105.3312"
+  nearby_rate_centers:
+  - name: MORA
+    distance_km: 1.18
+  - name: PENASCO
+    distance_km: 40.41
+  - name: LAS VEGAS
+    distance_km: 41.42
+- country: US
+  region: NM
+  name: Moriarty
+  lat: '35.0034'
+  long: "-106.0444"
+  nearby_rate_centers:
+  - name: MORIARTY
+    distance_km: 1.22
+  - name: ESTANCIA
+    distance_km: 26.66
+  - name: TIJERAS
+    distance_km: 31.83
+- country: US
+  region: NM
+  name: Morningside
+  lat: '32.8610'
+  long: "-104.3971"
+  nearby_rate_centers:
+  - name: ARTESIA
+    distance_km: 1.39
+  - name: COTTONWOOD
+    distance_km: 7.08
+  - name: LAKEWOOD
+    distance_km: 22.93
+- country: US
+  region: NM
+  name: Mosquero
+  lat: '35.7743'
+  long: "-103.9544"
+  nearby_rate_centers:
+  - name: MOSQUERO
+    distance_km: 1.09
+  - name: ROY
+    distance_km: 28.92
+  - name: CONCHASDAM
+    distance_km: 48.48
+- country: US
+  region: NM
+  name: Mount Taylor
+  lat: '35.1241'
+  long: "-107.8075"
+  nearby_rate_centers:
+  - name: GRANTS
+    distance_km: 5.53
+  - name: LAGUNAACOM
+    distance_km: 23.54
+  - name: PINE HILL
+    distance_km: 61.25
+- country: US
+  region: NM
+  name: Mountain View
+  lat: '35.0046'
+  long: "-108.3979"
+  nearby_rate_centers:
+  - name: PINE HILL
+    distance_km: 12.92
+  - name: RAMAH
+    distance_km: 16.87
+  - name: ZUNI
+    distance_km: 42.12
+- country: US
+  region: NM
+  name: Mountain View
+  lat: '32.2288'
+  long: "-107.7462"
+  nearby_rate_centers:
+  - name: DEMING
+    distance_km: 4.58
+  - name: COLUMBUS
+    distance_km: 46.52
+  - name: BAYARD
+    distance_km: 69.09
+- country: US
+  region: NM
+  name: Mountainair
+  lat: '34.5212'
+  long: "-106.2392"
+  nearby_rate_centers:
+  - name: MOUNTAINAR
+    distance_km: 0.64
+  - name: ESTANCIA
+    distance_km: 30.0
+  - name: BELEN
+    distance_km: 51.2
+- country: US
+  region: NM
+  name: Nadine
+  lat: '32.6231'
+  long: "-103.1078"
+  nearby_rate_centers:
+  - name: HOBBS
+    distance_km: 9.16
+  - name: EUNICE
+    distance_km: 21.38
+  - name: LOVINGTON
+    distance_km: 42.81
+- country: US
+  region: NM
+  name: Nageezi
+  lat: '36.2488'
+  long: "-107.7471"
+  nearby_rate_centers:
+  - name: LYBROOK
+    distance_km: 17.99
+  - name: PUEBLOPNTD
+    distance_km: 32.53
+  - name: LINDRITH
+    distance_km: 62.92
+- country: US
+  region: NM
+  name: Nakaibito
+  lat: '35.7826'
+  long: "-108.8039"
+  nearby_rate_centers:
+  - name: TWIN LAKES
+    distance_km: 8.59
+  - name: TOHATCHI
+    distance_km: 9.05
+  - name: NAVAJO
+    distance_km: 21.17
+- country: US
+  region: NM
+  name: Nambe
+  lat: '35.8984'
+  long: "-105.9667"
+  nearby_rate_centers:
+  - name: CHIMAYO
+    distance_km: 11.65
+  - name: ESPANOLA
+    distance_km: 14.84
+  - name: TRUCHAS
+    distance_km: 21.46
+- country: US
+  region: NM
+  name: Napi Headquarters
+  lat: '36.6505'
+  long: "-108.2145"
+  nearby_rate_centers:
+  - name: FARMINGTON
+    distance_km: 9.14
+  - name: AZTEC
+    distance_km: 27.76
+  - name: SHIPROCK
+    distance_km: 44.38
+- country: US
+  region: NM
+  name: Nara Visa
+  lat: '35.6068'
+  long: "-103.1043"
+  nearby_rate_centers:
+  - name: NARA VISA
+    distance_km: 0.43
+  - name: LOGAN
+    distance_km: 38.8
+  - name: SAN JON
+    distance_km: 59.41
+- country: US
+  region: NM
+  name: Naschitti
+  lat: '36.0626'
+  long: "-108.6800"
+  nearby_rate_centers:
+  - name: NASCHITTI
+    distance_km: 0.37
+  - name: TOHATCHI
+    distance_km: 24.03
+  - name: NEWCOMB
+    distance_km: 24.93
+- country: US
+  region: NM
+  name: Navajo
+  lat: '35.9024'
+  long: "-109.0321"
+  nearby_rate_centers:
+  - name: NAVAJO
+    distance_km: 3.46
+  - name: TOHATCHI
+    distance_km: 24.33
+  - name: TSE BONITO
+    distance_km: 27.09
+- country: US
+  region: NM
+  name: Navajo Dam
+  lat: '36.8339'
+  long: "-107.6460"
+  nearby_rate_centers:
+  - name: AZTEC
+    distance_km: 30.67
+  - name: FARMINGTON
+    distance_km: 51.49
+  - name: DULCE
+    distance_km: 58.81
+- country: US
+  region: NM
+  name: Nenahnezad
+  lat: '36.7354'
+  long: "-108.4252"
+  nearby_rate_centers:
+  - name: FARMINGTON
+    distance_km: 19.16
+  - name: SHIPROCK
+    distance_km: 23.64
+  - name: AZTEC
+    distance_km: 39.96
+- country: US
+  region: NM
+  name: Newcomb
+  lat: '36.2852'
+  long: "-108.7116"
+  nearby_rate_centers:
+  - name: NEWCOMB
+    distance_km: 0.08
+  - name: TOADLENA
+    distance_km: 18.64
+  - name: SANOSTEE
+    distance_km: 21.48
+- country: US
+  region: NM
+  name: Newkirk
+  lat: '35.0635'
+  long: "-104.2715"
+  nearby_rate_centers:
+  - name: CONCHASDAM
+    distance_km: 35.97
+  - name: SANTA ROSA
+    distance_km: 39.94
+  - name: TREMENTINA
+    distance_km: 48.69
+- country: US
+  region: NM
+  name: Nogal
+  lat: '33.5382'
+  long: "-105.7119"
+  nearby_rate_centers:
+  - name: CAPITAN
+    distance_km: 12.96
+  - name: ALTO
+    distance_km: 14.04
+  - name: CARRIZOZO
+    distance_km: 18.72
+- country: US
+  region: NM
+  name: North Acomita Village
+  lat: '35.0673'
+  long: "-107.5649"
+  nearby_rate_centers:
+  - name: LAGUNAACOM
+    distance_km: 1.7
+  - name: GRANTS
+    distance_km: 28.05
+  - name: PINE HILL
+    distance_km: 80.02
+- country: US
+  region: NM
+  name: North Hobbs
+  lat: '32.7731'
+  long: "-103.1250"
+  nearby_rate_centers:
+  - name: HOBBS
+    distance_km: 7.94
+  - name: LOVINGTON
+    distance_km: 28.69
+  - name: EUNICE
+    distance_km: 37.65
+- country: US
+  region: NM
+  name: North Hurley
+  lat: '32.7198'
+  long: "-108.1285"
+  nearby_rate_centers:
+  - name: BAYARD
+    distance_km: 4.26
+  - name: SILVERCITY
+    distance_km: 14.86
+  - name: MIMBRES
+    distance_km: 20.79
+- country: US
+  region: NM
+  name: North Light Plant
+  lat: '36.8670'
+  long: "-108.0330"
+  nearby_rate_centers:
+  - name: AZTEC
+    distance_km: 6.11
+  - name: FARMINGTON
+    distance_km: 21.73
+  - name: SHIPROCK
+    distance_km: 58.57
+- country: US
+  region: NM
+  name: North San Ysidro
+  lat: '35.4747'
+  long: "-105.5661"
+  nearby_rate_centers:
+  - name: PECOS
+    distance_km: 15.07
+  - name: EL VALLE
+    distance_km: 23.05
+  - name: WHITELAKES
+    distance_km: 23.35
+- country: US
+  region: NM
+  name: North Valley
+  lat: '35.1736'
+  long: "-106.6231"
+  nearby_rate_centers:
+  - name: ALBUQURQUE
+    distance_km: 10.5
+  - name: BERNALILLO
+    distance_km: 15.44
+  - name: TIJERAS
+    distance_km: 24.24
+- country: US
+  region: NM
+  name: Oasis
+  lat: '32.9277'
+  long: "-107.3164"
+  nearby_rate_centers:
+  - name: HILLSBORO
+    distance_km: 23.34
+  - name: TRUTHCQNCS
+    distance_km: 23.59
+  - name: HATCH
+    distance_km: 33.03
+- country: US
+  region: NM
+  name: Ohkay Owingeh
+  lat: '36.0440'
+  long: "-106.0565"
+  nearby_rate_centers:
+  - name: ESPANOLA
+    distance_km: 6.26
+  - name: VELARDE
+    distance_km: 6.75
+  - name: CHIMAYO
+    distance_km: 12.07
+- country: US
+  region: NM
+  name: Ojo Amarillo
+  lat: '36.6942'
+  long: "-108.3704"
+  nearby_rate_centers:
+  - name: FARMINGTON
+    distance_km: 14.91
+  - name: SHIPROCK
+    distance_km: 29.65
+  - name: AZTEC
+    distance_km: 36.8
+- country: US
+  region: NM
+  name: Ojo Caliente
+  lat: '36.3146'
+  long: "-106.0374"
+  nearby_rate_centers:
+  - name: OJOCALINTE
+    distance_km: 0.58
+  - name: EL RITO
+    distance_km: 14.3
+  - name: DIXON
+    distance_km: 19.88
+- country: US
+  region: NM
+  name: Ojo Encino
+  lat: '35.9525'
+  long: "-107.3445"
+  nearby_rate_centers:
+  - name: TORREON
+    distance_km: 16.49
+  - name: PUEBLOPNTD
+    distance_km: 28.1
+  - name: CUBA
+    distance_km: 35.4
+- country: US
+  region: NM
+  name: Ojo Sarco
+  lat: '36.1250'
+  long: "-105.7846"
+  nearby_rate_centers:
+  - name: TRUCHAS
+    distance_km: 9.49
+  - name: PENASCO
+    distance_km: 10.61
+  - name: DIXON
+    distance_km: 11.18
+- country: US
+  region: NM
+  name: Old Town
+  lat: '32.5125'
+  long: "-107.9232"
+  nearby_rate_centers:
+  - name: DEMING
+    distance_km: 31.18
+  - name: BAYARD
+    distance_km: 33.59
+  - name: MIMBRES
+    distance_km: 38.54
+- country: US
+  region: NM
+  name: Organ
+  lat: '32.4251'
+  long: "-106.6025"
+  nearby_rate_centers:
+  - name: LAS CRUCES
+    distance_km: 21.32
+  - name: LA MESA
+    distance_km: 35.79
+  - name: CHAPARRAL
+    distance_km: 47.26
+- country: US
+  region: NM
+  name: Orogrande
+  lat: '32.3874'
+  long: "-106.1003"
+  nearby_rate_centers:
+  - name: TIMBERON
+    distance_km: 48.9
+  - name: CHAPARRAL
+    distance_km: 49.09
+  - name: ALAMOGORDO
+    distance_km: 58.41
+- country: US
+  region: NM
+  name: Paa-Ko
+  lat: '35.1998'
+  long: "-106.3337"
+  nearby_rate_centers:
+  - name: TIJERAS
+    distance_km: 13.43
+  - name: BERNALILLO
+    distance_km: 22.39
+  - name: ALBUQURQUE
+    distance_km: 31.49
+- country: US
+  region: NM
+  name: Paguate
+  lat: '35.1473'
+  long: "-107.3814"
+  nearby_rate_centers:
+  - name: LAGUNAACOM
+    distance_km: 17.43
+  - name: GRANTS
+    distance_km: 42.9
+  - name: ALBUQURQUE
+    distance_km: 67.08
+- country: US
+  region: NM
+  name: Pajarito Mesa
+  lat: '34.9855'
+  long: "-106.7817"
+  nearby_rate_centers:
+  - name: ALBUQURQUE
+    distance_km: 16.16
+  - name: LOS LUNAS
+    distance_km: 20.25
+  - name: BELEN
+    distance_km: 36.34
+- country: US
+  region: NM
+  name: Paradise Hills
+  lat: '35.1981'
+  long: "-106.7023"
+  nearby_rate_centers:
+  - name: ALBUQURQUE
+    distance_km: 13.87
+  - name: BERNALILLO
+    distance_km: 17.86
+  - name: TIJERAS
+    distance_km: 31.93
+- country: US
+  region: NM
+  name: Paraje
+  lat: '35.0444'
+  long: "-107.4681"
+  nearby_rate_centers:
+  - name: LAGUNAACOM
+    distance_km: 8.8
+  - name: GRANTS
+    distance_km: 37.2
+  - name: LOS LUNAS
+    distance_km: 72.03
+- country: US
+  region: NM
+  name: Pastura
+  lat: '34.7851'
+  long: "-104.9421"
+  nearby_rate_centers:
+  - name: SANTA ROSA
+    distance_km: 29.26
+  - name: VAUGHN
+    distance_km: 31.96
+  - name: ANTONCHICO
+    distance_km: 48.56
+- country: US
+  region: NM
+  name: Peak Place
+  lat: '35.7911'
+  long: "-105.9432"
+  nearby_rate_centers:
+  - name: SANTA FE
+    distance_km: 11.8
+  - name: CHIMAYO
+    distance_km: 23.22
+  - name: WHITE ROCK
+    distance_km: 23.65
+- country: US
+  region: NM
+  name: Pecan Park
+  lat: '32.2704'
+  long: "-107.6740"
+  nearby_rate_centers:
+  - name: DEMING
+    distance_km: 8.07
+  - name: COLUMBUS
+    distance_km: 53.2
+  - name: HATCH
+    distance_km: 66.03
+- country: US
+  region: NM
+  name: Pecos
+  lat: '35.5757'
+  long: "-105.6784"
+  nearby_rate_centers:
+  - name: PECOS
+    distance_km: 0.14
+  - name: SANTA FE
+    distance_km: 27.24
+  - name: WHITELAKES
+    distance_km: 27.71
+- country: US
+  region: NM
+  name: Peralta
+  lat: '34.8283'
+  long: "-106.6859"
+  nearby_rate_centers:
+  - name: LOS LUNAS
+    distance_km: 4.82
+  - name: BELEN
+    distance_km: 20.46
+  - name: ALBUQURQUE
+    distance_km: 28.35
+- country: US
+  region: NM
+  name: !binary |-
+    UGXDsWEgQmxhbmNh
+  lat: '35.5709'
+  long: "-106.3319"
+  nearby_rate_centers:
+  - name: PENABLANCA
+    distance_km: 0.47
+  - name: WHITE ROCK
+    distance_km: 31.37
+  - name: LOS ALAMOS
+    distance_km: 34.99
+- country: US
+  region: NM
+  name: !binary |-
+    UGXDsWFzY28=
+  lat: '36.1703'
+  long: "-105.6908"
+  nearby_rate_centers:
+  - name: PENASCO
+    distance_km: 1.33
+  - name: DIXON
+    distance_km: 16.14
+  - name: TRUCHAS
+    distance_km: 17.7
+- country: US
+  region: NM
+  name: Picacho Hills
+  lat: '32.3158'
+  long: "-106.8785"
+  nearby_rate_centers:
+  - name: LAS CRUCES
+    distance_km: 9.15
+  - name: LA MESA
+    distance_km: 27.49
+  - name: ANTHONY
+    distance_km: 43.35
+- country: US
+  region: NM
+  name: Picuris Pueblo
+  lat: '36.1995'
+  long: "-105.7133"
+  nearby_rate_centers:
+  - name: PENASCO
+    distance_km: 2.83
+  - name: DIXON
+    distance_km: 13.76
+  - name: TRUCHAS
+    distance_km: 19.47
+- country: US
+  region: NM
+  name: Pie Town
+  lat: '34.3400'
+  long: "-108.1708"
+  nearby_rate_centers:
+  - name: QUEMADO
+    distance_km: 29.87
+  - name: DATIL
+    distance_km: 37.45
+  - name: FENCE LAKE
+    distance_km: 58.26
+- country: US
+  region: NM
+  name: Pinedale
+  lat: '35.6078'
+  long: "-108.4225"
+  nearby_rate_centers:
+  - name: CROWNPOINT
+    distance_km: 26.06
+  - name: GALLUP
+    distance_km: 30.38
+  - name: TWIN LAKES
+    distance_km: 33.31
+- country: US
+  region: NM
+  name: Pinehaven
+  lat: '35.3357'
+  long: "-108.6710"
+  nearby_rate_centers:
+  - name: VANDERWGON
+    distance_km: 11.1
+  - name: GALLUP
+    distance_km: 21.88
+  - name: RAMAH
+    distance_km: 27.54
+- country: US
+  region: NM
+  name: Pinehill
+  lat: '34.8922'
+  long: "-108.4224"
+  nearby_rate_centers:
+  - name: PINE HILL
+    distance_km: 0.67
+  - name: RAMAH
+    distance_km: 27.55
+  - name: FENCE LAKE
+    distance_km: 34.68
+- country: US
+  region: NM
+  name: Pinon
+  lat: '32.6182'
+  long: "-105.3867"
+  nearby_rate_centers:
+  - name: TIMBERON
+    distance_km: 27.31
+  - name: MAYHILL
+    distance_km: 31.53
+  - name: CLOUDCROFT
+    distance_km: 49.76
+- country: US
+  region: NM
+  name: Pinos Altos
+  lat: '32.8665'
+  long: "-108.2221"
+  nearby_rate_centers:
+  - name: SILVERCITY
+    distance_km: 11.15
+  - name: BAYARD
+    distance_km: 14.7
+  - name: MIMBRES
+    distance_km: 22.99
+- country: US
+  region: NM
+  name: Placitas
+  lat: '35.3226'
+  long: "-106.4437"
+  nearby_rate_centers:
+  - name: BERNALILLO
+    distance_km: 9.9
+  - name: TIJERAS
+    distance_km: 27.05
+  - name: PENABLANCA
+    distance_km: 29.76
+- country: US
+  region: NM
+  name: Playas
+  lat: '31.9125'
+  long: "-108.5363"
+  nearby_rate_centers:
+  - name: PLAYAS
+    distance_km: 0.33
+  - name: ANIMAS
+    distance_km: 25.81
+  - name: RODEO
+    distance_km: 47.18
+- country: US
+  region: NM
+  name: Pleasanton
+  lat: '33.2759'
+  long: "-108.8792"
+  nearby_rate_centers:
+  - name: GLENWOOD
+    distance_km: 4.82
+  - name: CLIFF
+    distance_km: 42.55
+  - name: RESERVE
+    distance_km: 49.34
+- country: US
+  region: NM
+  name: Pojoaque
+  lat: '35.8962'
+  long: "-106.0105"
+  nearby_rate_centers:
+  - name: ESPANOLA
+    distance_km: 12.56
+  - name: CHIMAYO
+    distance_km: 13.42
+  - name: WHITE ROCK
+    distance_km: 18.55
+- country: US
+  region: NM
+  name: Polvadera
+  lat: '34.2020'
+  long: "-106.9172"
+  nearby_rate_centers:
+  - name: SOCORRO
+    distance_km: 16.39
+  - name: MAGDALENA
+    distance_km: 31.42
+  - name: BELEN
+    distance_km: 52.48
+- country: US
+  region: NM
+  name: Ponderosa
+  lat: '35.6555'
+  long: "-106.6544"
+  nearby_rate_centers:
+  - name: JEMEZ SPG
+    distance_km: 12.73
+  - name: SAN YSIDRO
+    distance_km: 15.94
+  - name: PENABLANCA
+    distance_km: 30.34
+- country: US
+  region: NM
+  name: Ponderosa Pine
+  lat: '34.9720'
+  long: "-106.3369"
+  nearby_rate_centers:
+  - name: TIJERAS
+    distance_km: 13.15
+  - name: MORIARTY
+    distance_km: 28.03
+  - name: ESTANCIA
+    distance_km: 30.26
+- country: US
+  region: NM
+  name: Portales
+  lat: '34.1754'
+  long: "-103.3565"
+  nearby_rate_centers:
+  - name: PORTALES
+    distance_km: 2.91
+  - name: FLOYD
+    distance_km: 5.86
+  - name: ARCH
+    distance_km: 6.91
+- country: US
+  region: NM
+  name: Prewitt
+  lat: '35.3682'
+  long: "-108.0748"
+  nearby_rate_centers:
+  - name: GRANTS
+    distance_km: 30.93
+  - name: CROWNPOINT
+    distance_km: 35.53
+  - name: RAMAH
+    distance_km: 46.57
+- country: US
+  region: NM
+  name: Pueblito
+  lat: '36.0727'
+  long: "-106.0811"
+  nearby_rate_centers:
+  - name: VELARDE
+    distance_km: 4.54
+  - name: ESPANOLA
+    distance_km: 8.95
+  - name: CHIMAYO
+    distance_km: 15.52
+- country: US
+  region: NM
+  name: Pueblitos
+  lat: '34.6109'
+  long: "-106.7818"
+  nearby_rate_centers:
+  - name: BELEN
+    distance_km: 5.38
+  - name: LOS LUNAS
+    distance_km: 22.36
+  - name: MOUNTAINAR
+    distance_km: 50.36
+- country: US
+  region: NM
+  name: Pueblo
+  lat: '35.3273'
+  long: "-105.4354"
+  nearby_rate_centers:
+  - name: EL VALLE
+    distance_km: 3.2
+  - name: WHITELAKES
+    distance_km: 29.35
+  - name: ANTONCHICO
+    distance_km: 30.47
+- country: US
+  region: NM
+  name: Pueblo Pintado
+  lat: '35.9614'
+  long: "-107.6224"
+  nearby_rate_centers:
+  - name: PUEBLOPNTD
+    distance_km: 3.08
+  - name: LYBROOK
+    distance_km: 31.0
+  - name: TORREON
+    distance_km: 33.66
+- country: US
+  region: NM
+  name: Pueblo of Sandia Village
+  lat: '35.2536'
+  long: "-106.5706"
+  nearby_rate_centers:
+  - name: BERNALILLO
+    distance_km: 5.37
+  - name: ALBUQURQUE
+    distance_km: 20.41
+  - name: TIJERAS
+    distance_km: 25.55
+- country: US
+  region: NM
+  name: Puerto de Luna
+  lat: '34.8297'
+  long: "-104.6222"
+  nearby_rate_centers:
+  - name: SANTA ROSA
+    distance_km: 13.57
+  - name: FORTSUMNER
+    distance_km: 52.79
+  - name: VAUGHN
+    distance_km: 59.68
+- country: US
+  region: NM
+  name: Pulpotio Bareas
+  lat: '32.2179'
+  long: "-107.7728"
+  nearby_rate_centers:
+  - name: DEMING
+    distance_km: 5.74
+  - name: COLUMBUS
+    distance_km: 44.66
+  - name: BAYARD
+    distance_km: 68.87
+- country: US
+  region: NM
+  name: Punta de Agua
+  lat: '34.6016'
+  long: "-106.2922"
+  nearby_rate_centers:
+  - name: MOUNTAINAR
+    distance_km: 9.54
+  - name: ESTANCIA
+    distance_km: 24.87
+  - name: BELEN
+    distance_km: 44.45
+- country: US
+  region: NM
+  name: Purty Rock
+  lat: '35.4903'
+  long: "-108.8954"
+  nearby_rate_centers:
+  - name: GALLUP
+    distance_km: 14.37
+  - name: TSE BONITO
+    distance_km: 22.93
+  - name: TWIN LAKES
+    distance_km: 27.06
+- country: US
+  region: NM
+  name: Quemado
+  lat: '34.3414'
+  long: "-108.5060"
+  nearby_rate_centers:
+  - name: QUEMADO
+    distance_km: 0.92
+  - name: FENCE LAKE
+    distance_km: 38.58
+  - name: PINE HILL
+    distance_km: 61.49
+- country: US
+  region: NM
+  name: Questa
+  lat: '36.7114'
+  long: "-105.5935"
+  nearby_rate_centers:
+  - name: QUESTA
+    distance_km: 1.33
+  - name: RED RIVER
+    distance_km: 16.67
+  - name: TAOS
+    distance_km: 33.49
+- country: US
+  region: NM
+  name: Radium Springs
+  lat: '32.4783'
+  long: "-106.9031"
+  nearby_rate_centers:
+  - name: LAS CRUCES
+    distance_km: 22.16
+  - name: HATCH
+    distance_km: 31.11
+  - name: LA MESA
+    distance_km: 44.34
+- country: US
+  region: NM
+  name: Ramah
+  lat: '35.1263'
+  long: "-108.5063"
+  nearby_rate_centers:
+  - name: RAMAH
+    distance_km: 0.96
+  - name: VANDERWGON
+    distance_km: 27.42
+  - name: PINE HILL
+    distance_km: 27.6
+- country: US
+  region: NM
+  name: Rancho Grande
+  lat: '33.6826'
+  long: "-108.8581"
+  nearby_rate_centers:
+  - name: RESERVE
+    distance_km: 8.82
+  - name: LUNA
+    distance_km: 17.9
+  - name: GLENWOOD
+    distance_km: 40.47
+- country: US
+  region: NM
+  name: Ranchos de Taos
+  lat: '36.3619'
+  long: "-105.6016"
+  nearby_rate_centers:
+  - name: TAOS
+    distance_km: 5.86
+  - name: PENASCO
+    distance_km: 21.5
+  - name: DIXON
+    distance_km: 29.77
+- country: US
+  region: NM
+  name: Raton
+  lat: '36.8849'
+  long: "-104.4396"
+  nearby_rate_centers:
+  - name: RATON
+    distance_km: 1.57
+  - name: MAXWELL
+    distance_km: 39.17
+  - name: DES MOINES
+    distance_km: 55.82
+- country: US
+  region: NM
+  name: Red River
+  lat: '36.7041'
+  long: "-105.4064"
+  nearby_rate_centers:
+  - name: RED RIVER
+    distance_km: 0.36
+  - name: QUESTA
+    distance_km: 16.75
+  - name: ANGEL FIRE
+    distance_km: 20.69
+- country: US
+  region: NM
+  name: Red Rock Ranch
+  lat: '35.4242'
+  long: "-108.0262"
+  nearby_rate_centers:
+  - name: CROWNPOINT
+    distance_km: 30.74
+  - name: GRANTS
+    distance_km: 33.61
+  - name: RAMAH
+    distance_km: 53.78
+- country: US
+  region: NM
+  name: Redrock
+  lat: '32.6885'
+  long: "-108.7406"
+  nearby_rate_centers:
+  - name: VIRDEN
+    distance_km: 24.25
+  - name: CLIFF
+    distance_km: 33.85
+  - name: LORDSBURG
+    distance_km: 37.98
+- country: US
+  region: NM
+  name: Regina
+  lat: '36.1947'
+  long: "-106.9453"
+  nearby_rate_centers:
+  - name: GALLINA
+    distance_km: 11.14
+  - name: LINDRITH
+    distance_km: 14.76
+  - name: CUBA
+    distance_km: 19.01
+- country: US
+  region: NM
+  name: Reserve
+  lat: '33.7090'
+  long: "-108.7614"
+  nearby_rate_centers:
+  - name: RESERVE
+    distance_km: 0.68
+  - name: LUNA
+    distance_km: 21.84
+  - name: GLENWOOD
+    distance_km: 44.76
+- country: US
+  region: NM
+  name: Ribera
+  lat: '35.3700'
+  long: "-105.4441"
+  nearby_rate_centers:
+  - name: EL VALLE
+    distance_km: 7.1
+  - name: WHITELAKES
+    distance_km: 28.8
+  - name: PECOS
+    distance_km: 31.12
+- country: US
+  region: NM
+  name: Rincon
+  lat: '32.6726'
+  long: "-107.0759"
+  nearby_rate_centers:
+  - name: HATCH
+    distance_km: 6.9
+  - name: LAS CRUCES
+    distance_km: 49.1
+  - name: HILLSBORO
+    distance_km: 53.39
+- country: US
+  region: NM
+  name: Rio Chiquito
+  lat: '35.9949'
+  long: "-105.9069"
+  nearby_rate_centers:
+  - name: CHIMAYO
+    distance_km: 2.49
+  - name: TRUCHAS
+    distance_km: 10.4
+  - name: ESPANOLA
+    distance_km: 15.94
+- country: US
+  region: NM
+  name: Rio Communities
+  lat: '34.6459'
+  long: "-106.7164"
+  nearby_rate_centers:
+  - name: BELEN
+    distance_km: 5.37
+  - name: LOS LUNAS
+    distance_km: 18.07
+  - name: MOUNTAINAR
+    distance_km: 45.46
+- country: US
+  region: NM
+  name: Rio Lucio
+  lat: '36.1922'
+  long: "-105.7200"
+  nearby_rate_centers:
+  - name: PENASCO
+    distance_km: 2.9
+  - name: DIXON
+    distance_km: 13.2
+  - name: TRUCHAS
+    distance_km: 18.48
+- country: US
+  region: NM
+  name: Rio Rancho
+  lat: '35.2873'
+  long: "-106.6982"
+  nearby_rate_centers:
+  - name: BERNALILLO
+    distance_km: 13.63
+  - name: ALBUQURQUE
+    distance_km: 23.34
+  - name: SAN YSIDRO
+    distance_km: 30.63
+- country: US
+  region: NM
+  name: Rio Rancho Estates
+  lat: '35.3004'
+  long: "-106.7985"
+  nearby_rate_centers:
+  - name: BERNALILLO
+    distance_km: 22.67
+  - name: ALBUQURQUE
+    distance_km: 27.91
+  - name: SAN YSIDRO
+    distance_km: 28.32
+- country: US
+  region: NM
+  name: Rio en Medio
+  lat: '35.8221'
+  long: "-105.9010"
+  nearby_rate_centers:
+  - name: SANTA FE
+    distance_km: 15.83
+  - name: CHIMAYO
+    distance_km: 19.98
+  - name: ESPANOLA
+    distance_km: 25.09
+- country: US
+  region: NM
+  name: Rivers
+  lat: '33.6757'
+  long: "-108.7768"
+  nearby_rate_centers:
+  - name: RESERVE
+    distance_km: 3.88
+  - name: LUNA
+    distance_km: 23.14
+  - name: GLENWOOD
+    distance_km: 40.82
+- country: US
+  region: NM
+  name: Rock Springs
+  lat: '35.6188'
+  long: "-108.8345"
+  nearby_rate_centers:
+  - name: TWIN LAKES
+    distance_km: 11.83
+  - name: GALLUP
+    distance_km: 13.48
+  - name: TSE BONITO
+    distance_km: 19.23
+- country: US
+  region: NM
+  name: Rodeo
+  lat: '31.8396'
+  long: "-109.0265"
+  nearby_rate_centers:
+  - name: RODEO
+    distance_km: 0.88
+  - name: ANIMAS
+    distance_km: 24.1
+  - name: PLAYAS
+    distance_km: 46.67
+- country: US
+  region: NM
+  name: Rodey
+  lat: '32.6538'
+  long: "-107.1358"
+  nearby_rate_centers:
+  - name: HATCH
+    distance_km: 1.85
+  - name: HILLSBORO
+    distance_km: 49.88
+  - name: LAS CRUCES
+    distance_km: 50.86
+- country: US
+  region: NM
+  name: Rosedale
+  lat: '32.7694'
+  long: "-108.2417"
+  nearby_rate_centers:
+  - name: SILVERCITY
+    distance_km: 2.99
+  - name: BAYARD
+    distance_km: 10.3
+  - name: MIMBRES
+    distance_km: 26.61
+- country: US
+  region: NM
+  name: Roswell
+  lat: '33.3730'
+  long: "-104.5294"
+  nearby_rate_centers:
+  - name: ROSWELL
+    distance_km: 3.13
+  - name: DEXTER
+    distance_km: 23.98
+  - name: HAGERMAN
+    distance_km: 33.94
+- country: US
+  region: NM
+  name: Rowe
+  lat: '35.4922'
+  long: "-105.6715"
+  nearby_rate_centers:
+  - name: PECOS
+    distance_km: 9.32
+  - name: WHITELAKES
+    distance_km: 19.16
+  - name: EL VALLE
+    distance_km: 31.26
+- country: US
+  region: NM
+  name: Roy
+  lat: '35.9451'
+  long: "-104.1963"
+  nearby_rate_centers:
+  - name: ROY
+    distance_km: 0.62
+  - name: MOSQUERO
+    distance_km: 27.88
+  - name: WAGONMOUND
+    distance_km: 46.01
+- country: US
+  region: NM
+  name: Ruidoso
+  lat: '33.3646'
+  long: "-105.6434"
+  nearby_rate_centers:
+  - name: RUIDOSO
+    distance_km: 5.31
+  - name: RUIDOSODWN
+    distance_km: 5.74
+  - name: ALTO
+    distance_km: 6.36
+- country: US
+  region: NM
+  name: Ruidoso Downs
+  lat: '33.3311'
+  long: "-105.5969"
+  nearby_rate_centers:
+  - name: RUIDOSODWN
+    distance_km: 0.38
+  - name: RUIDOSO
+    distance_km: 8.25
+  - name: ALTO
+    distance_km: 11.8
+- country: US
+  region: NM
+  name: Sacramento
+  lat: '32.7917'
+  long: "-105.5723"
+  nearby_rate_centers:
+  - name: MAYHILL
+    distance_km: 14.44
+  - name: TIMBERON
+    distance_km: 19.12
+  - name: CLOUDCROFT
+    distance_km: 23.8
+- country: US
+  region: NM
+  name: Sagar
+  lat: '35.2474'
+  long: "-108.7670"
+  nearby_rate_centers:
+  - name: VANDERWGON
+    distance_km: 2.11
+  - name: ZUNI
+    distance_km: 21.2
+  - name: RAMAH
+    distance_km: 27.58
+- country: US
+  region: NM
+  name: Salem
+  lat: '32.7121'
+  long: "-107.2056"
+  nearby_rate_centers:
+  - name: HATCH
+    distance_km: 7.36
+  - name: HILLSBORO
+    distance_km: 40.8
+  - name: TRUTHCQNCS
+    distance_km: 46.96
+- country: US
+  region: NM
+  name: San Acacia
+  lat: '34.2550'
+  long: "-106.9023"
+  nearby_rate_centers:
+  - name: SOCORRO
+    distance_km: 22.11
+  - name: MAGDALENA
+    distance_km: 34.91
+  - name: BELEN
+    distance_km: 46.43
+- country: US
+  region: NM
+  name: San Antonio
+  lat: '33.9161'
+  long: "-106.8700"
+  nearby_rate_centers:
+  - name: SOCORRO
+    distance_km: 15.71
+  - name: MAGDALENA
+    distance_km: 40.85
+  - name: BINGHAM
+    distance_km: 46.93
+- country: US
+  region: NM
+  name: San Antonito
+  lat: '35.1574'
+  long: "-106.3475"
+  nearby_rate_centers:
+  - name: TIJERAS
+    distance_km: 8.56
+  - name: BERNALILLO
+    distance_km: 24.08
+  - name: ALBUQURQUE
+    distance_km: 28.64
+- country: US
+  region: NM
+  name: San Cristobal
+  lat: '36.6101'
+  long: "-105.6319"
+  nearby_rate_centers:
+  - name: QUESTA
+    distance_km: 10.49
+  - name: TAOS
+    distance_km: 22.74
+  - name: RED RIVER
+    distance_km: 22.82
+- country: US
+  region: NM
+  name: San Felipe Pueblo
+  lat: '35.4338'
+  long: "-106.4250"
+  nearby_rate_centers:
+  - name: PENABLANCA
+    distance_km: 17.72
+  - name: BERNALILLO
+    distance_km: 18.77
+  - name: SAN YSIDRO
+    distance_km: 34.8
+- country: US
+  region: NM
+  name: San Fidel
+  lat: '35.1025'
+  long: "-107.5975"
+  nearby_rate_centers:
+  - name: LAGUNAACOM
+    distance_km: 4.65
+  - name: GRANTS
+    distance_km: 24.02
+  - name: PINE HILL
+    distance_km: 78.22
+- country: US
+  region: NM
+  name: San Ildefonso Pueblo
+  lat: '35.8955'
+  long: "-106.1225"
+  nearby_rate_centers:
+  - name: WHITE ROCK
+    distance_km: 9.96
+  - name: ESPANOLA
+    distance_km: 11.3
+  - name: LOS ALAMOS
+    distance_km: 15.98
+- country: US
+  region: NM
+  name: San Jon
+  lat: '35.1113'
+  long: "-103.3364"
+  nearby_rate_centers:
+  - name: SAN JON
+    distance_km: 0.48
+  - name: LOGAN
+    distance_km: 29.31
+  - name: GRADY
+    distance_km: 31.91
+- country: US
+  region: NM
+  name: San Jose
+  lat: '36.0367'
+  long: "-106.1004"
+  nearby_rate_centers:
+  - name: ESPANOLA
+    distance_km: 5.16
+  - name: VELARDE
+    distance_km: 8.82
+  - name: CHIMAYO
+    distance_km: 15.52
+- country: US
+  region: NM
+  name: San Lorenzo
+  lat: '32.8086'
+  long: "-107.9221"
+  nearby_rate_centers:
+  - name: MIMBRES
+    distance_km: 7.32
+  - name: BAYARD
+    distance_km: 20.45
+  - name: SILVERCITY
+    distance_km: 32.99
+- country: US
+  region: NM
+  name: San Luis
+  lat: '35.7009'
+  long: "-107.0431"
+  nearby_rate_centers:
+  - name: TORREON
+    distance_km: 26.09
+  - name: SAN YSIDRO
+    distance_km: 28.84
+  - name: JEMEZ SPG
+    distance_km: 32.33
+- country: US
+  region: NM
+  name: San Mateo
+  lat: '35.3381'
+  long: "-107.6450"
+  nearby_rate_centers:
+  - name: GRANTS
+    distance_km: 27.62
+  - name: LAGUNAACOM
+    distance_km: 29.86
+  - name: CROWNPOINT
+    distance_km: 59.52
+- country: US
+  region: NM
+  name: San Miguel
+  lat: '32.1535'
+  long: "-106.7269"
+  nearby_rate_centers:
+  - name: LA MESA
+    distance_km: 4.61
+  - name: LAS CRUCES
+    distance_km: 17.87
+  - name: ANTHONY
+    distance_km: 20.48
+- country: US
+  region: NM
+  name: San Pablo
+  lat: '32.2507'
+  long: "-106.7626"
+  nearby_rate_centers:
+  - name: LAS CRUCES
+    distance_km: 6.55
+  - name: LA MESA
+    distance_km: 15.9
+  - name: ANTHONY
+    distance_km: 31.64
+- country: US
+  region: NM
+  name: San Pedro
+  lat: '35.2280'
+  long: "-106.1848"
+  nearby_rate_centers:
+  - name: TIJERAS
+    distance_km: 23.8
+  - name: MORIARTY
+    distance_km: 28.83
+  - name: BERNALILLO
+    distance_km: 33.95
+- country: US
+  region: NM
+  name: San Rafael
+  lat: '35.1010'
+  long: "-107.8899"
+  nearby_rate_centers:
+  - name: GRANTS
+    distance_km: 7.06
+  - name: LAGUNAACOM
+    distance_km: 30.61
+  - name: PINE HILL
+    distance_km: 53.38
+- country: US
+  region: NM
+  name: San Ysidro
+  lat: '32.3568'
+  long: "-106.8129"
+  nearby_rate_centers:
+  - name: LAS CRUCES
+    distance_km: 6.23
+  - name: LA MESA
+    distance_km: 28.61
+  - name: ANTHONY
+    distance_km: 44.33
+- country: US
+  region: NM
+  name: Sandia Heights
+  lat: '35.1747'
+  long: "-106.4884"
+  nearby_rate_centers:
+  - name: TIJERAS
+    distance_km: 14.05
+  - name: BERNALILLO
+    distance_km: 14.81
+  - name: ALBUQURQUE
+    distance_km: 17.87
+- country: US
+  region: NM
+  name: Sandia Knolls
+  lat: '35.1604'
+  long: "-106.2987"
+  nearby_rate_centers:
+  - name: TIJERAS
+    distance_km: 11.15
+  - name: BERNALILLO
+    distance_km: 27.41
+  - name: MORIARTY
+    distance_km: 30.09
+- country: US
+  region: NM
+  name: Sandia Park
+  lat: '35.1649'
+  long: "-106.3657"
+  nearby_rate_centers:
+  - name: TIJERAS
+    distance_km: 8.97
+  - name: BERNALILLO
+    distance_km: 22.29
+  - name: ALBUQURQUE
+    distance_km: 27.33
+- country: US
+  region: NM
+  name: Sanostee
+  lat: '36.4329'
+  long: "-108.8730"
+  nearby_rate_centers:
+  - name: SANOSTEE
+    distance_km: 0.91
+  - name: TOADLENA
+    distance_km: 21.51
+  - name: NEWCOMB
+    distance_km: 21.9
+- country: US
+  region: NM
+  name: Santa Ana Pueblo
+  lat: '35.3495'
+  long: "-106.5202"
+  nearby_rate_centers:
+  - name: BERNALILLO
+    distance_km: 6.24
+  - name: PENABLANCA
+    distance_km: 30.21
+  - name: ALBUQURQUE
+    distance_km: 32.0
+- country: US
+  region: NM
+  name: Santa Clara
+  lat: '32.7801'
+  long: "-108.1493"
+  nearby_rate_centers:
+  - name: BAYARD
+    distance_km: 2.93
+  - name: SILVERCITY
+    distance_km: 11.56
+  - name: MIMBRES
+    distance_km: 18.25
+- country: US
+  region: NM
+  name: Santa Clara Pueblo
+  lat: '35.9726'
+  long: "-106.0927"
+  nearby_rate_centers:
+  - name: ESPANOLA
+    distance_km: 2.32
+  - name: CHIMAYO
+    distance_km: 14.6
+  - name: VELARDE
+    distance_km: 15.17
+- country: US
+  region: NM
+  name: Santa Cruz
+  lat: '35.9939'
+  long: "-106.0359"
+  nearby_rate_centers:
+  - name: ESPANOLA
+    distance_km: 4.33
+  - name: CHIMAYO
+    distance_km: 9.2
+  - name: VELARDE
+    distance_km: 12.35
+- country: US
+  region: NM
+  name: Santa Fe
+  lat: '35.6619'
+  long: "-105.9819"
+  nearby_rate_centers:
+  - name: SANTA FE
+    distance_km: 3.99
+  - name: WHITE ROCK
+    distance_km: 27.34
+  - name: PECOS
+    distance_km: 29.19
+- country: US
+  region: NM
+  name: Santa Fe Foothills
+  lat: '35.6279'
+  long: "-105.8980"
+  nearby_rate_centers:
+  - name: SANTA FE
+    distance_km: 7.8
+  - name: PECOS
+    distance_km: 20.81
+  - name: WHITELAKES
+    distance_km: 34.89
+- country: US
+  region: NM
+  name: Santa Rosa
+  lat: '34.9361'
+  long: "-104.6769"
+  nearby_rate_centers:
+  - name: SANTA ROSA
+    distance_km: 0.8
+  - name: ANTONCHICO
+    distance_km: 51.1
+  - name: TREMENTINA
+    distance_km: 60.52
+- country: US
+  region: NM
+  name: Santa Teresa
+  lat: '31.8701'
+  long: "-106.6714"
+  nearby_rate_centers:
+  - name: SNA TERESA
+    distance_km: 1.92
+  - name: ANTHONY
+    distance_km: 14.49
+  - name: LA MESA
+    distance_km: 27.51
+- country: US
+  region: NM
+  name: Santo Domingo Pueblo
+  lat: '35.5175'
+  long: "-106.3670"
+  nearby_rate_centers:
+  - name: PENABLANCA
+    distance_km: 7.05
+  - name: BERNALILLO
+    distance_km: 29.4
+  - name: SAN YSIDRO
+    distance_km: 37.57
+- country: US
+  region: NM
+  name: Sausal
+  lat: '34.6803'
+  long: "-106.7589"
+  nearby_rate_centers:
+  - name: BELEN
+    distance_km: 2.72
+  - name: LOS LUNAS
+    distance_km: 14.39
+  - name: ALBUQURQUE
+    distance_km: 45.73
+- country: US
+  region: NM
+  name: Seama
+  lat: '35.0429'
+  long: "-107.5272"
+  nearby_rate_centers:
+  - name: LAGUNAACOM
+    distance_km: 4.81
+  - name: GRANTS
+    distance_km: 32.25
+  - name: LOS LUNAS
+    distance_km: 77.02
+- country: US
+  region: NM
+  name: Seboyeta
+  lat: '35.2001'
+  long: "-107.3861"
+  nearby_rate_centers:
+  - name: LAGUNAACOM
+    distance_km: 20.31
+  - name: GRANTS
+    distance_km: 42.72
+  - name: SAN YSIDRO
+    distance_km: 67.65
+- country: US
+  region: NM
+  name: Sedillo
+  lat: '35.0906'
+  long: "-106.2869"
+  nearby_rate_centers:
+  - name: TIJERAS
+    distance_km: 8.46
+  - name: MORIARTY
+    distance_km: 25.3
+  - name: ALBUQURQUE
+    distance_km: 32.91
+- country: US
+  region: NM
+  name: Sena
+  lat: '35.3036'
+  long: "-105.3913"
+  nearby_rate_centers:
+  - name: EL VALLE
+    distance_km: 1.71
+  - name: ANTONCHICO
+    distance_km: 25.68
+  - name: WHITELAKES
+    distance_km: 33.53
+- country: US
+  region: NM
+  name: Seton Village
+  lat: '35.5999'
+  long: "-105.9334"
+  nearby_rate_centers:
+  - name: SANTA FE
+    distance_km: 9.56
+  - name: PECOS
+    distance_km: 23.35
+  - name: WHITELAKES
+    distance_km: 33.4
+- country: US
+  region: NM
+  name: Sheep Springs
+  lat: '36.1593'
+  long: "-108.6905"
+  nearby_rate_centers:
+  - name: NASCHITTI
+    distance_km: 10.53
+  - name: NEWCOMB
+    distance_km: 14.14
+  - name: TOADLENA
+    distance_km: 21.94
+- country: US
+  region: NM
+  name: Shiprock
+  lat: '36.7924'
+  long: "-108.7005"
+  nearby_rate_centers:
+  - name: SHIPROCK
+    distance_km: 1.74
+  - name: SANOSTEE
+    distance_km: 43.75
+  - name: FARMINGTON
+    distance_km: 44.18
+- country: US
+  region: NM
+  name: Silver City
+  lat: '32.7783'
+  long: "-108.2699"
+  nearby_rate_centers:
+  - name: SILVERCITY
+    distance_km: 0.39
+  - name: BAYARD
+    distance_km: 13.06
+  - name: MIMBRES
+    distance_km: 28.77
+- country: US
+  region: NM
+  name: Skyline-Ganipa
+  lat: '35.0361'
+  long: "-107.6162"
+  nearby_rate_centers:
+  - name: LAGUNAACOM
+    distance_km: 7.45
+  - name: GRANTS
+    distance_km: 25.4
+  - name: PINE HILL
+    distance_km: 74.67
+- country: US
+  region: NM
+  name: Socorro
+  lat: '34.0543'
+  long: "-106.9065"
+  nearby_rate_centers:
+  - name: SOCORRO
+    distance_km: 1.56
+  - name: MAGDALENA
+    distance_km: 31.66
+  - name: BINGHAM
+    distance_km: 53.35
+- country: US
+  region: NM
+  name: Soham
+  lat: '35.4168'
+  long: "-105.4985"
+  nearby_rate_centers:
+  - name: EL VALLE
+    distance_km: 14.19
+  - name: PECOS
+    distance_km: 23.95
+  - name: WHITELAKES
+    distance_km: 25.28
+- country: US
+  region: NM
+  name: Sombrillo
+  lat: '35.9802'
+  long: "-106.0352"
+  nearby_rate_centers:
+  - name: ESPANOLA
+    distance_km: 4.59
+  - name: CHIMAYO
+    distance_km: 9.37
+  - name: VELARDE
+    distance_km: 13.87
+- country: US
+  region: NM
+  name: South Acomita Village
+  lat: '35.0533'
+  long: "-107.5722"
+  nearby_rate_centers:
+  - name: LAGUNAACOM
+    distance_km: 3.38
+  - name: GRANTS
+    distance_km: 28.04
+  - name: PINE HILL
+    distance_km: 79.0
+- country: US
+  region: NM
+  name: South River
+  lat: '36.7892'
+  long: "-108.0600"
+  nearby_rate_centers:
+  - name: AZTEC
+    distance_km: 7.3
+  - name: FARMINGTON
+    distance_km: 14.78
+  - name: SHIPROCK
+    distance_km: 55.49
+- country: US
+  region: NM
+  name: South Valley
+  lat: '35.0093'
+  long: "-106.6819"
+  nearby_rate_centers:
+  - name: ALBUQURQUE
+    distance_km: 8.58
+  - name: LOS LUNAS
+    distance_km: 22.87
+  - name: TIJERAS
+    distance_km: 28.78
+- country: US
+  region: NM
+  name: Spencerville
+  lat: '36.8244'
+  long: "-108.0563"
+  nearby_rate_centers:
+  - name: AZTEC
+    distance_km: 5.87
+  - name: FARMINGTON
+    distance_km: 17.09
+  - name: SHIPROCK
+    distance_km: 55.97
+- country: US
+  region: NM
+  name: Springer
+  lat: '36.3623'
+  long: "-104.5997"
+  nearby_rate_centers:
+  - name: SPRINGER
+    distance_km: 0.89
+  - name: MAXWELL
+    distance_km: 20.68
+  - name: CIMARRON
+    distance_km: 32.63
+- country: US
+  region: NM
+  name: Stanley
+  lat: '35.1542'
+  long: "-105.9764"
+  nearby_rate_centers:
+  - name: MORIARTY
+    distance_km: 17.73
+  - name: WHITELAKES
+    distance_km: 28.21
+  - name: TIJERAS
+    distance_km: 37.47
+- country: US
+  region: NM
+  name: Stoneridge
+  lat: '35.3019'
+  long: "-108.1034"
+  nearby_rate_centers:
+  - name: GRANTS
+    distance_km: 27.86
+  - name: RAMAH
+    distance_km: 40.55
+  - name: CROWNPOINT
+    distance_km: 42.46
+- country: US
+  region: NM
+  name: Sundance
+  lat: '35.5105'
+  long: "-108.6397"
+  nearby_rate_centers:
+  - name: GALLUP
+    distance_km: 9.38
+  - name: TWIN LAKES
+    distance_km: 25.14
+  - name: VANDERWGON
+    distance_km: 29.35
+- country: US
+  region: NM
+  name: Sunland Park
+  lat: '31.8201'
+  long: "-106.5958"
+  nearby_rate_centers:
+  - name: SNA TERESA
+    distance_km: 9.81
+  - name: ANTHONY
+    distance_km: 19.36
+  - name: CHAPARRAL
+    distance_km: 29.38
+- country: US
+  region: NM
+  name: Sunlit Hills
+  lat: '35.5957'
+  long: "-105.9210"
+  nearby_rate_centers:
+  - name: SANTA FE
+    distance_km: 10.23
+  - name: PECOS
+    distance_km: 22.19
+  - name: WHITELAKES
+    distance_km: 32.47
+- country: US
+  region: NM
+  name: Sunshine
+  lat: '32.1344'
+  long: "-107.7838"
+  nearby_rate_centers:
+  - name: DEMING
+    distance_km: 15.07
+  - name: COLUMBUS
+    distance_km: 35.44
+  - name: PLAYAS
+    distance_km: 75.42
+- country: US
+  region: NM
+  name: Tajique
+  lat: '34.7601'
+  long: "-106.3010"
+  nearby_rate_centers:
+  - name: ESTANCIA
+    distance_km: 17.13
+  - name: MOUNTAINAR
+    distance_km: 26.52
+  - name: MORIARTY
+    distance_km: 36.39
+- country: US
+  region: NM
+  name: Talpa
+  lat: '36.3421'
+  long: "-105.5923"
+  nearby_rate_centers:
+  - name: TAOS
+    distance_km: 7.74
+  - name: PENASCO
+    distance_km: 19.82
+  - name: DIXON
+    distance_km: 29.2
+- country: US
+  region: NM
+  name: Tano Road
+  lat: '35.7374'
+  long: "-105.9819"
+  nearby_rate_centers:
+  - name: SANTA FE
+    distance_km: 6.57
+  - name: WHITE ROCK
+    distance_km: 22.36
+  - name: CHIMAYO
+    distance_km: 29.49
+- country: US
+  region: NM
+  name: Taos
+  lat: '36.3871'
+  long: "-105.5803"
+  nearby_rate_centers:
+  - name: TAOS
+    distance_km: 2.63
+  - name: PENASCO
+    distance_km: 24.81
+  - name: DIXON
+    distance_km: 33.0
+- country: US
+  region: NM
+  name: Taos Pueblo
+  lat: '36.4657'
+  long: "-105.5634"
+  nearby_rate_centers:
+  - name: TAOS
+    distance_km: 6.25
+  - name: QUESTA
+    distance_km: 26.14
+  - name: ANGEL FIRE
+    distance_km: 29.16
+- country: US
+  region: NM
+  name: Taos Ski Valley
+  lat: '36.5901'
+  long: "-105.4370"
+  nearby_rate_centers:
+  - name: RED RIVER
+    distance_km: 13.31
+  - name: ANGEL FIRE
+    distance_km: 16.23
+  - name: QUESTA
+    distance_km: 18.56
+- country: US
+  region: NM
+  name: Tatum
+  lat: '33.2553'
+  long: "-103.3112"
+  nearby_rate_centers:
+  - name: TATUM
+    distance_km: 0.88
+  - name: LOVINGTON
+    distance_km: 33.95
+  - name: MILNESAND
+    distance_km: 42.75
+- country: US
+  region: NM
+  name: Tecolote
+  lat: '35.4604'
+  long: "-105.2842"
+  nearby_rate_centers:
+  - name: LAS VEGAS
+    distance_km: 16.41
+  - name: EL VALLE
+    distance_km: 19.39
+  - name: ANTONCHICO
+    distance_km: 32.72
+- country: US
+  region: NM
+  name: Tecolotito
+  lat: '35.2307'
+  long: "-105.1631"
+  nearby_rate_centers:
+  - name: ANTONCHICO
+    distance_km: 4.93
+  - name: EL VALLE
+    distance_km: 23.76
+  - name: LAS VEGAS
+    distance_km: 41.54
+- country: US
+  region: NM
+  name: Tesuque
+  lat: '35.7487'
+  long: "-105.9209"
+  nearby_rate_centers:
+  - name: SANTA FE
+    distance_km: 7.5
+  - name: WHITE ROCK
+    distance_km: 26.87
+  - name: CHIMAYO
+    distance_km: 27.94
+- country: US
+  region: NM
+  name: Tesuque Pueblo
+  lat: '35.8090'
+  long: "-105.9752"
+  nearby_rate_centers:
+  - name: SANTA FE
+    distance_km: 14.0
+  - name: WHITE ROCK
+    distance_km: 20.48
+  - name: CHIMAYO
+    distance_km: 21.53
+- country: US
+  region: NM
+  name: Texico
+  lat: '34.3897'
+  long: "-103.0513"
+  nearby_rate_centers:
+  - name: TEXICO
+    distance_km: 1.2
+  - name: PLEASANTHL
+    distance_km: 14.25
+  - name: CLOVIS
+    distance_km: 14.57
+- country: US
+  region: NM
+  name: Thoreau
+  lat: '35.4251'
+  long: "-108.2012"
+  nearby_rate_centers:
+  - name: CROWNPOINT
+    distance_km: 28.95
+  - name: RAMAH
+    distance_km: 42.3
+  - name: GRANTS
+    distance_km: 43.44
+- country: US
+  region: NM
+  name: Thunder Mountain
+  lat: '35.1009'
+  long: "-106.2278"
+  nearby_rate_centers:
+  - name: TIJERAS
+    distance_km: 13.92
+  - name: MORIARTY
+    distance_km: 21.05
+  - name: BERNALILLO
+    distance_km: 36.5
+- country: US
+  region: NM
+  name: Tierra Amarilla
+  lat: '36.7061'
+  long: "-106.5599"
+  nearby_rate_centers:
+  - name: TIERRAAMRL
+    distance_km: 0.45
+  - name: CHAMA
+    distance_km: 21.41
+  - name: CANJILON
+    distance_km: 28.19
+- country: US
+  region: NM
+  name: Tijeras
+  lat: '35.0884'
+  long: "-106.3761"
+  nearby_rate_centers:
+  - name: TIJERAS
+    distance_km: 0.49
+  - name: ALBUQURQUE
+    distance_km: 24.79
+  - name: BERNALILLO
+    distance_km: 28.13
+- country: US
+  region: NM
+  name: Timberlake
+  lat: '35.2012'
+  long: "-108.4843"
+  nearby_rate_centers:
+  - name: RAMAH
+    distance_km: 7.79
+  - name: VANDERWGON
+    distance_km: 25.69
+  - name: PINE HILL
+    distance_km: 35.23
+- country: US
+  region: NM
+  name: Timberon
+  lat: '32.6360'
+  long: "-105.6925"
+  nearby_rate_centers:
+  - name: TIMBERON
+    distance_km: 1.72
+  - name: MAYHILL
+    distance_km: 35.03
+  - name: CLOUDCROFT
+    distance_km: 35.31
+- country: US
+  region: NM
+  name: Tohatchi
+  lat: '35.8423'
+  long: "-108.7503"
+  nearby_rate_centers:
+  - name: TOHATCHI
+    distance_km: 2.38
+  - name: TWIN LAKES
+    distance_km: 14.72
+  - name: NAVAJO
+    distance_km: 22.81
+- country: US
+  region: NM
+  name: Tome
+  lat: '34.7390'
+  long: "-106.7251"
+  nearby_rate_centers:
+  - name: LOS LUNAS
+    distance_km: 7.69
+  - name: BELEN
+    distance_km: 9.94
+  - name: ALBUQURQUE
+    distance_km: 38.71
+- country: US
+  region: NM
+  name: Torreon
+  lat: '34.7242'
+  long: "-106.3008"
+  nearby_rate_centers:
+  - name: ESTANCIA
+    distance_km: 17.83
+  - name: MOUNTAINAR
+    distance_km: 22.62
+  - name: MORIARTY
+    distance_km: 39.41
+- country: US
+  region: NM
+  name: Tortugas
+  lat: '32.2697'
+  long: "-106.7546"
+  nearby_rate_centers:
+  - name: LAS CRUCES
+    distance_km: 4.9
+  - name: LA MESA
+    distance_km: 17.71
+  - name: ANTHONY
+    distance_km: 33.27
+- country: US
+  region: NM
+  name: Totah Vista
+  lat: '36.7113'
+  long: "-108.2035"
+  nearby_rate_centers:
+  - name: FARMINGTON
+    distance_km: 2.45
+  - name: AZTEC
+    distance_km: 22.74
+  - name: SHIPROCK
+    distance_km: 43.52
+- country: US
+  region: NM
+  name: Tres Arroyos
+  lat: '35.6799'
+  long: "-106.0398"
+  nearby_rate_centers:
+  - name: SANTA FE
+    distance_km: 8.29
+  - name: WHITE ROCK
+    distance_km: 22.29
+  - name: PENABLANCA
+    distance_km: 29.02
+- country: US
+  region: NM
+  name: Trout Valley
+  lat: '33.0363'
+  long: "-108.1893"
+  nearby_rate_centers:
+  - name: MIMBRES
+    distance_km: 28.22
+  - name: SILVERCITY
+    distance_km: 30.0
+  - name: BAYARD
+    distance_km: 31.41
+- country: US
+  region: NM
+  name: Truchas
+  lat: '36.0338'
+  long: "-105.8095"
+  nearby_rate_centers:
+  - name: TRUCHAS
+    distance_km: 0.9
+  - name: CHIMAYO
+    distance_km: 11.81
+  - name: DIXON
+    distance_km: 19.24
+- country: US
+  region: NM
+  name: Truth or Consequences
+  lat: '33.1864'
+  long: "-107.2589"
+  nearby_rate_centers:
+  - name: TRUTHCQNCS
+    distance_km: 6.02
+  - name: HILLSBORO
+    distance_km: 41.3
+  - name: HATCH
+    distance_km: 58.76
+- country: US
+  region: NM
+  name: Tse Bonito
+  lat: '35.6466'
+  long: "-109.0070"
+  nearby_rate_centers:
+  - name: TSE BONITO
+    distance_km: 3.4
+  - name: TWIN LAKES
+    distance_km: 22.67
+  - name: NAVAJO
+    distance_km: 27.35
+- country: US
+  region: NM
+  name: Tucumcari
+  lat: '35.1700'
+  long: "-103.7046"
+  nearby_rate_centers:
+  - name: TUCUMCARI
+    distance_km: 2.07
+  - name: LOGAN
+    distance_km: 34.18
+  - name: SAN JON
+    distance_km: 34.25
+- country: US
+  region: NM
+  name: Tularosa
+  lat: '33.0753'
+  long: "-106.0175"
+  nearby_rate_centers:
+  - name: TULAROSA
+    distance_km: 0.26
+  - name: ALAMOGORDO
+    distance_km: 20.31
+  - name: MESCALERO
+    distance_km: 24.59
+- country: US
+  region: NM
+  name: Turley
+  lat: '36.7366'
+  long: "-107.7900"
+  nearby_rate_centers:
+  - name: AZTEC
+    distance_km: 20.31
+  - name: FARMINGTON
+    distance_km: 37.45
+  - name: LYBROOK
+    distance_km: 60.0
+- country: US
+  region: NM
+  name: Twin Forks
+  lat: '32.9463'
+  long: "-105.6374"
+  nearby_rate_centers:
+  - name: CLOUDCROFT
+    distance_km: 9.85
+  - name: MAYHILL
+    distance_km: 16.39
+  - name: MESCALERO
+    distance_km: 26.48
+- country: US
+  region: NM
+  name: Twin Lakes
+  lat: '35.6833'
+  long: "-108.7709"
+  nearby_rate_centers:
+  - name: TWIN LAKES
+    distance_km: 3.07
+  - name: GALLUP
+    distance_km: 17.93
+  - name: TOHATCHI
+    distance_km: 19.48
+- country: US
+  region: NM
+  name: Tyrone
+  lat: '32.7099'
+  long: "-108.3028"
+  nearby_rate_centers:
+  - name: SILVERCITY
+    distance_km: 7.84
+  - name: BAYARD
+    distance_km: 16.81
+  - name: MIMBRES
+    distance_km: 34.59
+- country: US
+  region: NM
+  name: University Park
+  lat: '32.2767'
+  long: "-106.7462"
+  nearby_rate_centers:
+  - name: LAS CRUCES
+    distance_km: 4.77
+  - name: LA MESA
+    distance_km: 18.29
+  - name: ANTHONY
+    distance_km: 33.7
+- country: US
+  region: NM
+  name: Upper Fruitland
+  lat: '36.7204'
+  long: "-108.3236"
+  nearby_rate_centers:
+  - name: FARMINGTON
+    distance_km: 10.2
+  - name: AZTEC
+    distance_km: 31.83
+  - name: SHIPROCK
+    distance_km: 32.83
+- country: US
+  region: NM
+  name: Ute Park
+  lat: '36.5467'
+  long: "-105.1038"
+  nearby_rate_centers:
+  - name: ANGEL FIRE
+    distance_km: 13.95
+  - name: CIMARRON
+    distance_km: 17.35
+  - name: RED RIVER
+    distance_km: 32.39
+- country: US
+  region: NM
+  name: Vadito
+  lat: '36.1929'
+  long: "-105.6755"
+  nearby_rate_centers:
+  - name: PENASCO
+    distance_km: 1.77
+  - name: DIXON
+    distance_km: 17.18
+  - name: TRUCHAS
+    distance_km: 20.55
+- country: US
+  region: NM
+  name: Vado
+  lat: '32.1278'
+  long: "-106.6571"
+  nearby_rate_centers:
+  - name: LA MESA
+    distance_km: 4.9
+  - name: ANTHONY
+    distance_km: 15.39
+  - name: LAS CRUCES
+    distance_km: 23.15
+- country: US
+  region: NM
+  name: Valencia
+  lat: '35.5780'
+  long: "-105.7908"
+  nearby_rate_centers:
+  - name: PECOS
+    distance_km: 10.31
+  - name: SANTA FE
+    distance_km: 18.55
+  - name: WHITELAKES
+    distance_km: 27.14
+- country: US
+  region: NM
+  name: Valencia
+  lat: '34.8053'
+  long: "-106.6868"
+  nearby_rate_centers:
+  - name: LOS LUNAS
+    distance_km: 4.19
+  - name: BELEN
+    distance_km: 18.1
+  - name: ALBUQURQUE
+    distance_km: 30.9
+- country: US
+  region: NM
+  name: Valle Vista
+  lat: '35.5841'
+  long: "-106.0584"
+  nearby_rate_centers:
+  - name: SANTA FE
+    distance_km: 15.0
+  - name: PENABLANCA
+    distance_km: 24.92
+  - name: WHITE ROCK
+    distance_km: 30.42
+- country: US
+  region: NM
+  name: Vanderwagen
+  lat: '35.2714'
+  long: "-108.7517"
+  nearby_rate_centers:
+  - name: VANDERWGON
+    distance_km: 0.9
+  - name: ZUNI
+    distance_km: 24.2
+  - name: RAMAH
+    distance_km: 27.75
+- country: US
+  region: NM
+  name: Vaughn
+  lat: '34.6072'
+  long: "-105.2126"
+  nearby_rate_centers:
+  - name: VAUGHN
+    distance_km: 0.33
+  - name: CORONA
+    distance_km: 53.5
+  - name: SANTA ROSA
+    distance_km: 60.92
+- country: US
+  region: NM
+  name: Veguita
+  lat: '34.5146'
+  long: "-106.7679"
+  nearby_rate_centers:
+  - name: BELEN
+    distance_km: 16.04
+  - name: LOS LUNAS
+    distance_km: 32.77
+  - name: MOUNTAINAR
+    distance_km: 48.26
+- country: US
+  region: NM
+  name: Velarde
+  lat: '36.1608'
+  long: "-105.9659"
+  nearby_rate_centers:
+  - name: VELARDE
+    distance_km: 9.77
+  - name: DIXON
+    distance_km: 9.94
+  - name: CHIMAYO
+    distance_km: 18.14
+- country: US
+  region: NM
+  name: Ventura
+  lat: '32.2438'
+  long: "-107.6832"
+  nearby_rate_centers:
+  - name: DEMING
+    distance_km: 7.71
+  - name: COLUMBUS
+    distance_km: 50.14
+  - name: HATCH
+    distance_km: 68.66
+- country: US
+  region: NM
+  name: Villanueva
+  lat: '35.2659'
+  long: "-105.3602"
+  nearby_rate_centers:
+  - name: EL VALLE
+    distance_km: 6.76
+  - name: ANTONCHICO
+    distance_km: 21.27
+  - name: WHITELAKES
+    distance_km: 36.99
+- country: US
+  region: NM
+  name: Virden
+  lat: '32.6890'
+  long: "-109.0015"
+  nearby_rate_centers:
+  - name: VIRDEN
+    distance_km: 0.9
+  - name: LORDSBURG
+    distance_km: 46.87
+  - name: CLIFF
+    distance_km: 48.57
+- country: US
+  region: NM
+  name: Wagon Mound
+  lat: '36.0048'
+  long: "-104.7091"
+  nearby_rate_centers:
+  - name: WAGONMOUND
+    distance_km: 0.99
+  - name: SPRINGER
+    distance_km: 40.49
+  - name: ROY
+    distance_km: 46.96
+- country: US
+  region: NM
+  name: Waterflow
+  lat: '36.7568'
+  long: "-108.4673"
+  nearby_rate_centers:
+  - name: SHIPROCK
+    distance_km: 19.48
+  - name: FARMINGTON
+    distance_km: 23.06
+  - name: AZTEC
+    distance_km: 43.12
+- country: US
+  region: NM
+  name: Watrous
+  lat: '35.7900'
+  long: "-104.9821"
+  nearby_rate_centers:
+  - name: LAS VEGAS
+    distance_km: 30.56
+  - name: WAGONMOUND
+    distance_km: 35.28
+  - name: MORA
+    distance_km: 36.93
+- country: US
+  region: NM
+  name: Weed
+  lat: '32.8025'
+  long: "-105.5248"
+  nearby_rate_centers:
+  - name: MAYHILL
+    distance_km: 11.02
+  - name: TIMBERON
+    distance_km: 22.65
+  - name: CLOUDCROFT
+    distance_km: 26.2
+- country: US
+  region: NM
+  name: West Hammond
+  lat: '36.6807'
+  long: "-108.0433"
+  nearby_rate_centers:
+  - name: FARMINGTON
+    distance_km: 15.96
+  - name: AZTEC
+    distance_km: 16.61
+  - name: SHIPROCK
+    distance_km: 58.19
+- country: US
+  region: NM
+  name: White Cliffs
+  lat: '35.5491'
+  long: "-108.6644"
+  nearby_rate_centers:
+  - name: GALLUP
+    distance_km: 7.57
+  - name: TWIN LAKES
+    distance_km: 20.31
+  - name: VANDERWGON
+    distance_km: 32.75
+- country: US
+  region: NM
+  name: White Rock
+  lat: '35.8075'
+  long: "-106.2067"
+  nearby_rate_centers:
+  - name: WHITE ROCK
+    distance_km: 2.79
+  - name: LOS ALAMOS
+    distance_km: 11.95
+  - name: ESPANOLA
+    distance_km: 23.33
+- country: US
+  region: NM
+  name: White Sands
+  lat: '32.3804'
+  long: "-106.4791"
+  nearby_rate_centers:
+  - name: LAS CRUCES
+    distance_km: 29.56
+  - name: LA MESA
+    distance_km: 36.42
+  - name: CHAPARRAL
+    distance_km: 39.23
+- country: US
+  region: NM
+  name: White Signal
+  lat: '32.5724'
+  long: "-108.3512"
+  nearby_rate_centers:
+  - name: SILVERCITY
+    distance_km: 23.78
+  - name: BAYARD
+    distance_km: 29.07
+  - name: LORDSBURG
+    distance_km: 41.72
+- country: US
+  region: NM
+  name: Whites City
+  lat: '32.1767'
+  long: "-104.3739"
+  nearby_rate_centers:
+  - name: CRLSBACRNS
+    distance_km: 0.32
+  - name: LOVING
+    distance_km: 28.7
+  - name: CARLSBAD
+    distance_km: 29.53
+- country: US
+  region: NM
+  name: Willard
+  lat: '34.5948'
+  long: "-106.0325"
+  nearby_rate_centers:
+  - name: MOUNTAINAR
+    distance_km: 20.57
+  - name: ESTANCIA
+    distance_km: 20.91
+  - name: MORIARTY
+    distance_km: 45.19
+- country: US
+  region: NM
+  name: Williams Acres
+  lat: '35.4969'
+  long: "-108.8699"
+  nearby_rate_centers:
+  - name: GALLUP
+    distance_km: 11.95
+  - name: TSE BONITO
+    distance_km: 23.77
+  - name: TWIN LAKES
+    distance_km: 25.48
+- country: US
+  region: NM
+  name: Williamsburg
+  lat: '33.1158'
+  long: "-107.2951"
+  nearby_rate_centers:
+  - name: TRUTHCQNCS
+    distance_km: 4.5
+  - name: HILLSBORO
+    distance_km: 33.45
+  - name: HATCH
+    distance_km: 51.83
+- country: US
+  region: NM
+  name: Windmill
+  lat: '31.9769'
+  long: "-108.6315"
+  nearby_rate_centers:
+  - name: PLAYAS
+    distance_km: 11.22
+  - name: ANIMAS
+    distance_km: 16.77
+  - name: RODEO
+    distance_km: 40.66
+- country: US
+  region: NM
+  name: Winston
+  lat: '33.3460'
+  long: "-107.6488"
+  nearby_rate_centers:
+  - name: TRUTHCQNCS
+    distance_km: 43.94
+  - name: HILLSBORO
+    distance_km: 48.11
+  - name: MIMBRES
+    distance_km: 62.43
+- country: US
+  region: NM
+  name: Yah-ta-hey
+  lat: '35.6291'
+  long: "-108.7927"
+  nearby_rate_centers:
+  - name: TWIN LAKES
+    distance_km: 9.34
+  - name: GALLUP
+    distance_km: 12.58
+  - name: TSE BONITO
+    distance_km: 22.72
+- country: US
+  region: NM
+  name: Youngsville
+  lat: '36.1928'
+  long: "-106.5660"
+  nearby_rate_centers:
+  - name: ABIQUIU
+    distance_km: 22.19
+  - name: GALLINA
+    distance_km: 23.62
+  - name: CANJILON
+    distance_km: 32.35
+- country: US
+  region: NM
+  name: Zia Pueblo
+  lat: '35.5200'
+  long: "-106.7149"
+  nearby_rate_centers:
+  - name: SAN YSIDRO
+    distance_km: 7.01
+  - name: JEMEZ SPG
+    distance_km: 27.35
+  - name: BERNALILLO
+    distance_km: 28.88
+- country: US
+  region: NM
+  name: Zuni Pueblo
+  lat: '35.0693'
+  long: "-108.8558"
+  nearby_rate_centers:
+  - name: ZUNI
+    distance_km: 0.24
+  - name: VANDERWGON
+    distance_km: 23.49
+  - name: RAMAH
+    distance_km: 33.26

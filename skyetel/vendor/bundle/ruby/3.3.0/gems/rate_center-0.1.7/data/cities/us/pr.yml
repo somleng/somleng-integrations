@@ -1,0 +1,3435 @@
+---
+cities:
+- country: US
+  region: PR
+  name: Aceitunas
+  lat: '18.4455'
+  long: "-67.0669"
+  nearby_rate_centers:
+  - name: ISABELA
+    distance_km: 7.56
+  - name: MOCA
+    distance_km: 7.57
+  - name: RAMEY
+    distance_km: 9.29
+- country: US
+  region: PR
+  name: Adjuntas
+  lat: '18.1638'
+  long: "-66.7235"
+  nearby_rate_centers:
+  - name: ADJUNTAS
+    distance_km: 0.44
+  - name: PENUELAS
+    distance_km: 11.4
+  - name: UTUADO
+    distance_km: 12.14
+- country: US
+  region: PR
+  name: Aguada
+  lat: '18.3803'
+  long: "-67.1884"
+  nearby_rate_centers:
+  - name: AGUADA
+    distance_km: 2.07
+  - name: AGUADILLA
+    distance_km: 5.57
+  - name: RINCON
+    distance_km: 7.68
+- country: US
+  region: PR
+  name: Aguadilla
+  lat: '18.4382'
+  long: "-67.1537"
+  nearby_rate_centers:
+  - name: MOCA
+    distance_km: 6.01
+  - name: AGUADA
+    distance_km: 6.17
+  - name: RAMEY
+    distance_km: 7.44
+- country: US
+  region: PR
+  name: Aguas Buenas
+  lat: '18.2573'
+  long: "-66.1061"
+  nearby_rate_centers:
+  - name: AGUASBUNAS
+    distance_km: 0.48
+  - name: CAGUAS
+    distance_km: 7.57
+  - name: CIDRA
+    distance_km: 10.86
+- country: US
+  region: PR
+  name: Aguas Claras
+  lat: '18.2447'
+  long: "-65.6662"
+  nearby_rate_centers:
+  - name: ROOSEVLTRD
+    distance_km: 3.09
+  - name: NAGUABO
+    distance_km: 8.12
+  - name: FAJARDO
+    distance_km: 10.31
+- country: US
+  region: PR
+  name: Aguilita
+  lat: '18.0284'
+  long: "-66.5330"
+  nearby_rate_centers:
+  - name: JUANA DIAZ
+    distance_km: 4.13
+  - name: PONCE
+    distance_km: 8.87
+  - name: VILLALBA
+    distance_km: 11.86
+- country: US
+  region: PR
+  name: Aibonito
+  lat: '18.1398'
+  long: "-66.2659"
+  nearby_rate_centers:
+  - name: AIBONITO
+    distance_km: 0.23
+  - name: BARRANQUTS
+    distance_km: 6.72
+  - name: COMERIO
+    distance_km: 10.56
+- country: US
+  region: PR
+  name: Alianza
+  lat: '18.4533'
+  long: "-66.8556"
+  nearby_rate_centers:
+  - name: CAMUY
+    distance_km: 3.47
+  - name: QUEBRADLLS
+    distance_km: 8.89
+  - name: ARECIBO
+    distance_km: 13.12
+- country: US
+  region: PR
+  name: Animas
+  lat: '18.4457'
+  long: "-66.6364"
+  nearby_rate_centers:
+  - name: SANTANA
+    distance_km: 2.32
+  - name: BARCELONTA
+    distance_km: 10.22
+  - name: ARECIBO
+    distance_km: 10.36
+- country: US
+  region: PR
+  name: Anon Raices
+  lat: '18.1389'
+  long: "-66.5856"
+  nearby_rate_centers:
+  - name: JAYUYA
+    distance_km: 9.07
+  - name: VILLALBA
+    distance_km: 10.04
+  - name: JUANA DIAZ
+    distance_km: 12.58
+- country: US
+  region: PR
+  name: !binary |-
+    QW50w7NuIFJ1w616
+  lat: '18.1883'
+  long: "-65.8079"
+  nearby_rate_centers:
+  - name: HUMACAO
+    distance_km: 4.38
+  - name: LASPIEDRAS
+    distance_km: 6.1
+  - name: NAGUABO
+    distance_km: 8.21
+- country: US
+  region: PR
+  name: Arecibo
+  lat: '18.4491'
+  long: "-66.7387"
+  nearby_rate_centers:
+  - name: ARECIBO
+    distance_km: 2.12
+  - name: SANTANA
+    distance_km: 8.48
+  - name: CAMUY
+    distance_km: 11.4
+- country: US
+  region: PR
+  name: Arroyo
+  lat: '17.9706'
+  long: "-66.0598"
+  nearby_rate_centers:
+  - name: ARROYO
+    distance_km: 1.23
+  - name: GUAYAMA
+    distance_km: 5.62
+  - name: MAUNABO
+    distance_km: 17.09
+- country: US
+  region: PR
+  name: !binary |-
+    QcOxYXNjbw==
+  lat: '18.2861'
+  long: "-67.1409"
+  nearby_rate_centers:
+  - name: ANASCO
+    distance_km: 0.9
+  - name: AGUADILLA
+    distance_km: 6.6
+  - name: MAYAGUEZ
+    distance_km: 9.57
+- country: US
+  region: PR
+  name: Bairoa La Veinticinco
+  lat: '18.2636'
+  long: "-66.0213"
+  nearby_rate_centers:
+  - name: CAGUAS
+    distance_km: 3.33
+  - name: GURABO
+    distance_km: 5.05
+  - name: AGUASBUNAS
+    distance_km: 8.72
+- country: US
+  region: PR
+  name: Bajadero
+  lat: '18.4245'
+  long: "-66.6765"
+  nearby_rate_centers:
+  - name: SANTANA
+    distance_km: 3.04
+  - name: ARECIBO
+    distance_km: 7.53
+  - name: FLORIDA
+    distance_km: 13.51
+- country: US
+  region: PR
+  name: Bajandas
+  lat: '18.1601'
+  long: "-65.7831"
+  nearby_rate_centers:
+  - name: HUMACAO
+    distance_km: 3.74
+  - name: NAGUABO
+    distance_km: 7.58
+  - name: LASPIEDRAS
+    distance_km: 8.95
+- country: US
+  region: PR
+  name: Barahona
+  lat: '18.3522'
+  long: "-66.4442"
+  nearby_rate_centers:
+  - name: CIALES
+    distance_km: 2.94
+  - name: MOROVIS
+    distance_km: 4.78
+  - name: MANATI
+    distance_km: 10.17
+- country: US
+  region: PR
+  name: Barceloneta
+  lat: '18.4530'
+  long: "-66.5381"
+  nearby_rate_centers:
+  - name: BARCELONTA
+    distance_km: 0.6
+  - name: MANATI
+    distance_km: 5.83
+  - name: FLORIDA
+    distance_km: 10.17
+- country: US
+  region: PR
+  name: Barranquitas
+  lat: '18.1848'
+  long: "-66.3102"
+  nearby_rate_centers:
+  - name: BARRANQUTS
+    distance_km: 0.22
+  - name: AIBONITO
+    distance_km: 6.88
+  - name: OROCOVIS
+    distance_km: 9.66
+- country: US
+  region: PR
+  name: Bartolo
+  lat: '18.3620'
+  long: "-65.8414"
+  nearby_rate_centers:
+  - name: RIO GRANDE
+    distance_km: 2.13
+  - name: CANOVANAS
+    distance_km: 6.77
+  - name: LUQUILLO
+    distance_km: 13.21
+- country: US
+  region: PR
+  name: !binary |-
+    QmF5YW3Ds24=
+  lat: '18.3794'
+  long: "-66.1635"
+  nearby_rate_centers:
+  - name: BAYAMONNOR
+    distance_km: 1.75
+  - name: BAYAMONSUR
+    distance_km: 3.21
+  - name: GUAYNABO
+    distance_km: 6.09
+- country: US
+  region: PR
+  name: !binary |-
+    QmVuw610ZXo=
+  lat: '18.2726'
+  long: "-65.8788"
+  nearby_rate_centers:
+  - name: JUNCOS
+    distance_km: 6.67
+  - name: GURABO
+    distance_km: 10.2
+  - name: LASPIEDRAS
+    distance_km: 10.33
+- country: US
+  region: PR
+  name: Betances
+  lat: '18.0296'
+  long: "-67.1335"
+  nearby_rate_centers:
+  - name: CABO ROJO
+    distance_km: 6.81
+  - name: LAJAS
+    distance_km: 8.7
+  - name: SAN GERMAN
+    distance_km: 11.23
+- country: US
+  region: PR
+  name: !binary |-
+    Qm9xdWVyw7Nu
+  lat: '18.0340'
+  long: "-67.1714"
+  nearby_rate_centers:
+  - name: CABO ROJO
+    distance_km: 6.88
+  - name: LAJAS
+    distance_km: 12.6
+  - name: HORMIGUERO
+    distance_km: 12.61
+- country: US
+  region: PR
+  name: !binary |-
+    QnJlw7Fhcw==
+  lat: '18.4734'
+  long: "-66.3346"
+  nearby_rate_centers:
+  - name: VEGA BAJA
+    distance_km: 6.05
+  - name: VEGA ALTA
+    distance_km: 6.88
+  - name: DORADO
+    distance_km: 7.04
+- country: US
+  region: PR
+  name: Brisas del Campanero
+  lat: '18.4316'
+  long: "-66.2261"
+  nearby_rate_centers:
+  - name: TOA BAJA
+    distance_km: 1.5
+  - name: LEVITTOWN
+    distance_km: 4.89
+  - name: TOA ALTA
+    distance_km: 5.63
+- country: US
+  region: PR
+  name: Buena Vista
+  lat: '17.9964'
+  long: "-66.0515"
+  nearby_rate_centers:
+  - name: ARROYO
+    distance_km: 2.24
+  - name: GUAYAMA
+    distance_km: 6.53
+  - name: MAUNABO
+    distance_km: 15.72
+- country: US
+  region: PR
+  name: !binary |-
+    QsO6ZmFsbw==
+  lat: '18.4166'
+  long: "-66.5749"
+  nearby_rate_centers:
+  - name: FLORIDA
+    distance_km: 5.83
+  - name: BARCELONTA
+    distance_km: 5.87
+  - name: SANTANA
+    distance_km: 9.38
+- country: US
+  region: PR
+  name: Cabo Rojo
+  lat: '18.0867'
+  long: "-67.1482"
+  nearby_rate_centers:
+  - name: CABO ROJO
+    distance_km: 0.59
+  - name: HORMIGUERO
+    distance_km: 6.27
+  - name: LAJAS
+    distance_km: 11.09
+- country: US
+  region: PR
+  name: !binary |-
+    Q2Fiw6Fu
+  lat: '18.4450'
+  long: "-67.1363"
+  nearby_rate_centers:
+  - name: MOCA
+    distance_km: 5.73
+  - name: RAMEY
+    distance_km: 6.34
+  - name: AGUADA
+    distance_km: 8.02
+- country: US
+  region: PR
+  name: Cacao
+  lat: '18.4525'
+  long: "-66.9559"
+  nearby_rate_centers:
+  - name: QUEBRADLLS
+    distance_km: 3.16
+  - name: ISABELA
+    distance_km: 9.02
+  - name: CAMUY
+    distance_km: 12.51
+- country: US
+  region: PR
+  name: Caguas
+  lat: '18.2319'
+  long: "-66.0388"
+  nearby_rate_centers:
+  - name: CAGUAS
+    distance_km: 0.68
+  - name: AGUASBUNAS
+    distance_km: 7.23
+  - name: GURABO
+    distance_km: 7.39
+- country: US
+  region: PR
+  name: Calzada
+  lat: '18.0054'
+  long: "-66.5640"
+  nearby_rate_centers:
+  - name: PONCE
+    distance_km: 5.31
+  - name: JUANA DIAZ
+    distance_km: 8.27
+  - name: VILLALBA
+    distance_km: 15.6
+- country: US
+  region: PR
+  name: Cambalache
+  lat: '18.3577'
+  long: "-65.8841"
+  nearby_rate_centers:
+  - name: CANOVANAS
+    distance_km: 2.94
+  - name: RIO GRANDE
+    distance_km: 5.8
+  - name: CAROLINA
+    distance_km: 13.72
+- country: US
+  region: PR
+  name: Campanilla
+  lat: '18.4225'
+  long: "-66.2391"
+  nearby_rate_centers:
+  - name: TOA BAJA
+    distance_km: 2.54
+  - name: TOA ALTA
+    distance_km: 4.14
+  - name: DORADO
+    distance_km: 5.75
+- country: US
+  region: PR
+  name: Campanillas
+  lat: '18.4387'
+  long: "-66.2159"
+  nearby_rate_centers:
+  - name: TOA BAJA
+    distance_km: 1.73
+  - name: LEVITTOWN
+    distance_km: 3.73
+  - name: DORADO
+    distance_km: 6.32
+- country: US
+  region: PR
+  name: Campo Rico
+  lat: '18.3391'
+  long: "-65.8943"
+  nearby_rate_centers:
+  - name: CANOVANAS
+    distance_km: 4.27
+  - name: RIO GRANDE
+    distance_km: 7.79
+  - name: GURABO
+    distance_km: 12.42
+- country: US
+  region: PR
+  name: Camuy
+  lat: '18.4825'
+  long: "-66.8501"
+  nearby_rate_centers:
+  - name: CAMUY
+    distance_km: 0.94
+  - name: QUEBRADLLS
+    distance_km: 9.2
+  - name: ARECIBO
+    distance_km: 12.57
+- country: US
+  region: PR
+  name: Candelaria
+  lat: '18.4042'
+  long: "-66.2175"
+  nearby_rate_centers:
+  - name: TOA ALTA
+    distance_km: 4.09
+  - name: BAYAMONSUR
+    distance_km: 4.57
+  - name: TOA BAJA
+    distance_km: 4.67
+- country: US
+  region: PR
+  name: Candelaria Arenas
+  lat: '18.4175'
+  long: "-66.2203"
+  nearby_rate_centers:
+  - name: TOA BAJA
+    distance_km: 3.18
+  - name: TOA ALTA
+    distance_km: 4.73
+  - name: LEVITTOWN
+    distance_km: 4.86
+- country: US
+  region: PR
+  name: Candelero Abajo
+  lat: '18.0942'
+  long: "-65.8165"
+  nearby_rate_centers:
+  - name: HUMACAO
+    distance_km: 6.19
+  - name: YABUCOA
+    distance_km: 8.02
+  - name: LASPIEDRAS
+    distance_km: 10.89
+- country: US
+  region: PR
+  name: Candelero Arriba
+  lat: '18.1016'
+  long: "-65.8342"
+  nearby_rate_centers:
+  - name: HUMACAO
+    distance_km: 5.67
+  - name: YABUCOA
+    distance_km: 7.25
+  - name: LASPIEDRAS
+    distance_km: 9.37
+- country: US
+  region: PR
+  name: Canovanillas
+  lat: '18.3345'
+  long: "-65.9039"
+  nearby_rate_centers:
+  - name: CANOVANAS
+    distance_km: 4.67
+  - name: RIO GRANDE
+    distance_km: 8.91
+  - name: GURABO
+    distance_km: 11.37
+- country: US
+  region: PR
+  name: !binary |-
+    Q2Fuw7N2YW5hcw==
+  lat: '18.3693'
+  long: "-65.9009"
+  nearby_rate_centers:
+  - name: CANOVANAS
+    distance_km: 0.85
+  - name: RIO GRANDE
+    distance_km: 7.12
+  - name: CAROLINA
+    distance_km: 12.0
+- country: US
+  region: PR
+  name: Capitanejo
+  lat: '18.0132'
+  long: "-66.5358"
+  nearby_rate_centers:
+  - name: JUANA DIAZ
+    distance_km: 5.63
+  - name: PONCE
+    distance_km: 8.3
+  - name: VILLALBA
+    distance_km: 13.55
+- country: US
+  region: PR
+  name: Carolina
+  lat: '18.4054'
+  long: "-65.9792"
+  nearby_rate_centers:
+  - name: TRUJILLOAL
+    distance_km: 5.95
+  - name: ISLA VERDE
+    distance_km: 6.03
+  - name: CAROLINA
+    distance_km: 6.31
+- country: US
+  region: PR
+  name: Carrizales
+  lat: '18.4811'
+  long: "-66.7879"
+  nearby_rate_centers:
+  - name: CAMUY
+    distance_km: 5.63
+  - name: ARECIBO
+    distance_km: 6.09
+  - name: SANTANA
+    distance_km: 14.22
+- country: US
+  region: PR
+  name: !binary |-
+    Q2F0YcOxbw==
+  lat: '18.4375'
+  long: "-66.1440"
+  nearby_rate_centers:
+  - name: CATANO
+    distance_km: 2.14
+  - name: LEVITTOWN
+    distance_km: 3.86
+  - name: PUEBLOVIEJ
+    distance_km: 4.98
+- country: US
+  region: PR
+  name: Cayey
+  lat: '18.1150'
+  long: "-66.1630"
+  nearby_rate_centers:
+  - name: CAYEY
+    distance_km: 0.46
+  - name: CIDRA
+    distance_km: 6.58
+  - name: AIBONITO
+    distance_km: 11.08
+- country: US
+  region: PR
+  name: Cayuco
+  lat: '18.2922'
+  long: "-66.7348"
+  nearby_rate_centers:
+  - name: UTUADO
+    distance_km: 4.52
+  - name: ADJUNTAS
+    distance_km: 13.89
+  - name: LARES
+    distance_km: 15.93
+- country: US
+  region: PR
+  name: !binary |-
+    Q2HDsW8gTWFydGluIFBlw7Fh
+  lat: '18.4309'
+  long: "-66.0507"
+  nearby_rate_centers:
+  - name: RIOPIEDRAS
+    distance_km: 0.98
+  - name: SANTURCEES
+    distance_km: 2.01
+  - name: ISLA VERDE
+    distance_km: 3.38
+- country: US
+  region: PR
+  name: Ceiba
+  lat: '18.2650'
+  long: "-65.6488"
+  nearby_rate_centers:
+  - name: ROOSEVLTRD
+    distance_km: 4.98
+  - name: FAJARDO
+    distance_km: 7.92
+  - name: NAGUABO
+    distance_km: 10.87
+- country: US
+  region: PR
+  name: Celada
+  lat: '18.2667'
+  long: "-65.9621"
+  nearby_rate_centers:
+  - name: GURABO
+    distance_km: 1.66
+  - name: JUNCOS
+    distance_km: 5.83
+  - name: SANLORENZO
+    distance_km: 8.45
+- country: US
+  region: PR
+  name: Central Aguirre
+  lat: '17.9559'
+  long: "-66.2265"
+  nearby_rate_centers:
+  - name: AGUIRRE
+    distance_km: 2.02
+  - name: SALINAS
+    distance_km: 7.75
+  - name: GUAYAMA
+    distance_km: 12.52
+- country: US
+  region: PR
+  name: Cerrillos Hoyos
+  lat: '18.0656'
+  long: "-66.5687"
+  nearby_rate_centers:
+  - name: JUANA DIAZ
+    distance_km: 6.76
+  - name: PONCE
+    distance_km: 7.99
+  - name: VILLALBA
+    distance_km: 10.68
+- country: US
+  region: PR
+  name: Ciales
+  lat: '18.3357'
+  long: "-66.4723"
+  nearby_rate_centers:
+  - name: CIALES
+    distance_km: 0.6
+  - name: MOROVIS
+    distance_km: 7.07
+  - name: FLORIDA
+    distance_km: 10.29
+- country: US
+  region: PR
+  name: Cidra
+  lat: '18.1776'
+  long: "-66.1580"
+  nearby_rate_centers:
+  - name: CIDRA
+    distance_km: 0.44
+  - name: CAYEY
+    distance_km: 7.32
+  - name: COMERIO
+    distance_km: 8.11
+- country: US
+  region: PR
+  name: Coamo
+  lat: '18.0765'
+  long: "-66.3638"
+  nearby_rate_centers:
+  - name: COAMO
+    distance_km: 0.51
+  - name: AIBONITO
+    distance_km: 12.74
+  - name: SAN ISABEL
+    distance_km: 12.74
+- country: US
+  region: PR
+  name: Coco
+  lat: '18.0009'
+  long: "-66.2602"
+  nearby_rate_centers:
+  - name: AGUIRRE
+    distance_km: 4.66
+  - name: SALINAS
+    distance_km: 4.69
+  - name: COAMO
+    distance_km: 13.74
+- country: US
+  region: PR
+  name: !binary |-
+    Q29tZXLDrW8=
+  lat: '18.2200'
+  long: "-66.2246"
+  nearby_rate_centers:
+  - name: COMERIO
+    distance_km: 0.78
+  - name: CIDRA
+    distance_km: 8.53
+  - name: BARRANQUTS
+    distance_km: 9.64
+- country: US
+  region: PR
+  name: Comunas
+  lat: '18.0846'
+  long: "-65.8435"
+  nearby_rate_centers:
+  - name: YABUCOA
+    distance_km: 5.18
+  - name: HUMACAO
+    distance_km: 7.78
+  - name: MAUNABO
+    distance_km: 10.49
+- country: US
+  region: PR
+  name: !binary |-
+    Q29xdcOt
+  lat: '17.9793'
+  long: "-66.2255"
+  nearby_rate_centers:
+  - name: AGUIRRE
+    distance_km: 0.59
+  - name: SALINAS
+    distance_km: 7.51
+  - name: GUAYAMA
+    distance_km: 12.06
+- country: US
+  region: PR
+  name: !binary |-
+    Q29yYXrDs24=
+  lat: '17.9940'
+  long: "-66.0833"
+  nearby_rate_centers:
+  - name: ARROYO
+    distance_km: 2.47
+  - name: GUAYAMA
+    distance_km: 3.25
+  - name: AGUIRRE
+    distance_km: 15.29
+- country: US
+  region: PR
+  name: Corcovado
+  lat: '18.4610'
+  long: "-66.7778"
+  nearby_rate_centers:
+  - name: ARECIBO
+    distance_km: 4.87
+  - name: CAMUY
+    distance_km: 7.07
+  - name: SANTANA
+    distance_km: 12.71
+- country: US
+  region: PR
+  name: Corozal
+  lat: '18.3410'
+  long: "-66.3124"
+  nearby_rate_centers:
+  - name: COROZAL
+    distance_km: 0.56
+  - name: NARANJITO
+    distance_km: 7.72
+  - name: VEGA ALTA
+    distance_km: 8.06
+- country: US
+  region: PR
+  name: Corral Viejo
+  lat: '18.0755'
+  long: "-66.6523"
+  nearby_rate_centers:
+  - name: PENUELAS
+    distance_km: 7.64
+  - name: PONCE
+    distance_km: 8.5
+  - name: ADJUNTAS
+    distance_km: 12.77
+- country: US
+  region: PR
+  name: Coto Laurel
+  lat: '18.0491'
+  long: "-66.5517"
+  nearby_rate_centers:
+  - name: JUANA DIAZ
+    distance_km: 4.9
+  - name: PONCE
+    distance_km: 8.02
+  - name: VILLALBA
+    distance_km: 10.8
+- country: US
+  region: PR
+  name: Coto Norte
+  lat: '18.4328'
+  long: "-66.4409"
+  nearby_rate_centers:
+  - name: MANATI
+    distance_km: 4.8
+  - name: VEGA BAJA
+    distance_km: 6.1
+  - name: BARCELONTA
+    distance_km: 10.86
+- country: US
+  region: PR
+  name: Culebra
+  lat: '18.3105'
+  long: "-65.3029"
+  nearby_rate_centers:
+  - name: CULEBRA
+    distance_km: 0.37
+  - name: VIEQUES
+    distance_km: 23.56
+  - name: FAJARDO
+    distance_km: 36.84
+- country: US
+  region: PR
+  name: Daguao
+  lat: '18.2217'
+  long: "-65.6798"
+  nearby_rate_centers:
+  - name: ROOSEVLTRD
+    distance_km: 2.93
+  - name: NAGUABO
+    distance_km: 5.83
+  - name: FAJARDO
+    distance_km: 13.1
+- country: US
+  region: PR
+  name: Del Carmen
+  lat: '18.4678'
+  long: "-66.8490"
+  nearby_rate_centers:
+  - name: CAMUY
+    distance_km: 1.72
+  - name: QUEBRADLLS
+    distance_km: 9.3
+  - name: ARECIBO
+    distance_km: 12.33
+- country: US
+  region: PR
+  name: Dorado
+  lat: '18.4657'
+  long: "-66.2726"
+  nearby_rate_centers:
+  - name: DORADO
+    distance_km: 0.46
+  - name: TOA BAJA
+    distance_km: 4.97
+  - name: VEGA ALTA
+    distance_km: 8.47
+- country: US
+  region: PR
+  name: Duque
+  lat: '18.2381'
+  long: "-65.7433"
+  nearby_rate_centers:
+  - name: NAGUABO
+    distance_km: 3.36
+  - name: ROOSEVLTRD
+    distance_km: 9.83
+  - name: HUMACAO
+    distance_km: 12.51
+- country: US
+  region: PR
+  name: El Combate
+  lat: '17.9822'
+  long: "-67.2089"
+  nearby_rate_centers:
+  - name: CABO ROJO
+    distance_km: 13.82
+  - name: LAJAS
+    distance_km: 17.92
+  - name: HORMIGUERO
+    distance_km: 19.47
+- country: US
+  region: PR
+  name: !binary |-
+    RWwgTWFuZ8Oz
+  lat: '18.2345'
+  long: "-65.8751"
+  nearby_rate_centers:
+  - name: JUNCOS
+    distance_km: 5.08
+  - name: LASPIEDRAS
+    distance_km: 6.09
+  - name: SANLORENZO
+    distance_km: 10.19
+- country: US
+  region: PR
+  name: El Negro
+  lat: '18.0370'
+  long: "-65.8494"
+  nearby_rate_centers:
+  - name: YABUCOA
+    distance_km: 3.29
+  - name: MAUNABO
+    distance_km: 6.48
+  - name: HUMACAO
+    distance_km: 13.01
+- country: US
+  region: PR
+  name: El Ojo
+  lat: '18.0038'
+  long: "-66.3919"
+  nearby_rate_centers:
+  - name: SAN ISABEL
+    distance_km: 4.13
+  - name: COAMO
+    distance_km: 9.08
+  - name: SALINAS
+    distance_km: 10.53
+- country: US
+  region: PR
+  name: El Paraiso
+  lat: '18.0648'
+  long: "-66.6021"
+  nearby_rate_centers:
+  - name: PONCE
+    distance_km: 6.42
+  - name: JUANA DIAZ
+    distance_km: 10.24
+  - name: PENUELAS
+    distance_km: 12.78
+- country: US
+  region: PR
+  name: El Tumbao
+  lat: '18.0015'
+  long: "-66.8995"
+  nearby_rate_centers:
+  - name: GUANICA
+    distance_km: 3.24
+  - name: YAUCO
+    distance_km: 6.28
+  - name: SABANAGRND
+    distance_km: 10.73
+- country: US
+  region: PR
+  name: !binary |-
+    RWwgVmVpbnRpc8OpaXM=
+  lat: '18.4394'
+  long: "-66.2035"
+  nearby_rate_centers:
+  - name: LEVITTOWN
+    distance_km: 2.42
+  - name: TOA BAJA
+    distance_km: 2.98
+  - name: BAYAMONNOR
+    distance_km: 7.12
+- country: US
+  region: PR
+  name: Emajagua
+  lat: '18.0016'
+  long: "-65.8829"
+  nearby_rate_centers:
+  - name: MAUNABO
+    distance_km: 2.34
+  - name: YABUCOA
+    distance_km: 5.49
+  - name: HUMACAO
+    distance_km: 17.9
+- country: US
+  region: PR
+  name: Esperanza
+  lat: '18.1021'
+  long: "-65.4798"
+  nearby_rate_centers:
+  - name: VIEQUES
+    distance_km: 6.21
+  - name: ROOSEVLTRD
+    distance_km: 22.45
+  - name: NAGUABO
+    distance_km: 29.33
+- country: US
+  region: PR
+  name: Espino
+  lat: '18.2774'
+  long: "-67.1219"
+  nearby_rate_centers:
+  - name: ANASCO
+    distance_km: 2.67
+  - name: AGUADILLA
+    distance_km: 8.09
+  - name: MAYAGUEZ
+    distance_km: 8.89
+- country: US
+  region: PR
+  name: Fajardo
+  lat: '18.3331'
+  long: "-65.6589"
+  nearby_rate_centers:
+  - name: FAJARDO
+    distance_km: 0.92
+  - name: LUQUILLO
+    distance_km: 7.7
+  - name: ROOSEVLTRD
+    distance_km: 12.56
+- country: US
+  region: PR
+  name: Ferrer Comunidad
+  lat: '18.4054'
+  long: "-67.0671"
+  nearby_rate_centers:
+  - name: MOCA
+    distance_km: 5.36
+  - name: SANSBSTIAN
+    distance_km: 10.64
+  - name: AGUADILLA
+    distance_km: 11.18
+- country: US
+  region: PR
+  name: Florida
+  lat: '18.3643'
+  long: "-66.5611"
+  nearby_rate_centers:
+  - name: FLORIDA
+    distance_km: 0.4
+  - name: CIALES
+    distance_km: 10.44
+  - name: BARCELONTA
+    distance_km: 10.64
+- country: US
+  region: PR
+  name: !binary |-
+    RnJvbnTDs24=
+  lat: '18.3097'
+  long: "-66.5603"
+  nearby_rate_centers:
+  - name: FLORIDA
+    distance_km: 6.18
+  - name: CIALES
+    distance_km: 10.33
+  - name: JAYUYA
+    distance_km: 10.56
+- country: US
+  region: PR
+  name: !binary |-
+    RnLDoW5xdWV6
+  lat: '18.3401'
+  long: "-66.4276"
+  nearby_rate_centers:
+  - name: MOROVIS
+    distance_km: 2.59
+  - name: CIALES
+    distance_km: 4.14
+  - name: COROZAL
+    distance_km: 11.91
+- country: US
+  region: PR
+  name: Fuig
+  lat: '17.9857'
+  long: "-66.9170"
+  nearby_rate_centers:
+  - name: GUANICA
+    distance_km: 1.1
+  - name: YAUCO
+    distance_km: 8.81
+  - name: SABANAGRND
+    distance_km: 11.27
+- country: US
+  region: PR
+  name: !binary |-
+    Ry4gTC4gR2FyY8OtYQ==
+  lat: '18.1258'
+  long: "-66.1026"
+  nearby_rate_centers:
+  - name: CAYEY
+    distance_km: 6.9
+  - name: CIDRA
+    distance_km: 8.1
+  - name: CAGUAS
+    distance_km: 14.23
+- country: US
+  region: PR
+  name: Galateo
+  lat: '18.3640'
+  long: "-66.2590"
+  nearby_rate_centers:
+  - name: TOA ALTA
+    distance_km: 2.7
+  - name: COROZAL
+    distance_km: 6.25
+  - name: NARANJITO
+    distance_km: 6.43
+- country: US
+  region: PR
+  name: Garrochales
+  lat: '18.4572'
+  long: "-66.5675"
+  nearby_rate_centers:
+  - name: BARCELONTA
+    distance_km: 2.86
+  - name: MANATI
+    distance_km: 8.92
+  - name: SANTANA
+    distance_km: 9.67
+- country: US
+  region: PR
+  name: Guayabal
+  lat: '18.0760'
+  long: "-66.5016"
+  nearby_rate_centers:
+  - name: JUANA DIAZ
+    distance_km: 2.37
+  - name: VILLALBA
+    distance_km: 5.83
+  - name: PONCE
+    distance_km: 14.09
+- country: US
+  region: PR
+  name: Guayama
+  lat: '17.9743'
+  long: "-66.1104"
+  nearby_rate_centers:
+  - name: GUAYAMA
+    distance_km: 0.91
+  - name: ARROYO
+    distance_km: 4.88
+  - name: AGUIRRE
+    distance_km: 12.26
+- country: US
+  region: PR
+  name: Guayanilla
+  lat: '18.0222'
+  long: "-66.7898"
+  nearby_rate_centers:
+  - name: GUAYANILLA
+    distance_km: 0.49
+  - name: YAUCO
+    distance_km: 6.66
+  - name: PENUELAS
+    distance_km: 8.3
+- country: US
+  region: PR
+  name: Guaynabo
+  lat: '18.3832'
+  long: "-66.1134"
+  nearby_rate_centers:
+  - name: GUAYNABO
+    distance_km: 1.38
+  - name: PUEBLOVIEJ
+    distance_km: 3.69
+  - name: BAYAMONNOR
+    distance_km: 4.67
+- country: US
+  region: PR
+  name: Gurabo
+  lat: '18.2528'
+  long: "-65.9785"
+  nearby_rate_centers:
+  - name: GURABO
+    distance_km: 0.66
+  - name: JUNCOS
+    distance_km: 6.4
+  - name: CAGUAS
+    distance_km: 6.44
+- country: US
+  region: PR
+  name: !binary |-
+    R3XDoW5pY2E=
+  lat: '17.9698'
+  long: "-66.9309"
+  nearby_rate_centers:
+  - name: GUANICA
+    distance_km: 1.87
+  - name: YAUCO
+    distance_km: 11.07
+  - name: SABANAGRND
+    distance_km: 12.43
+- country: US
+  region: PR
+  name: !binary |-
+    SC4gUml2ZXJhIENvbMOzbg==
+  lat: '18.3482'
+  long: "-66.2732"
+  nearby_rate_centers:
+  - name: COROZAL
+    distance_km: 4.41
+  - name: TOA ALTA
+    distance_km: 4.89
+  - name: NARANJITO
+    distance_km: 5.26
+- country: US
+  region: PR
+  name: !binary |-
+    SGFjaWVuZGEgU2FuIEpvc8Op
+  lat: '18.2409'
+  long: "-66.0721"
+  nearby_rate_centers:
+  - name: AGUASBUNAS
+    distance_km: 3.59
+  - name: CAGUAS
+    distance_km: 3.68
+  - name: GURABO
+    distance_km: 10.51
+- country: US
+  region: PR
+  name: Hatillo
+  lat: '18.4811'
+  long: "-66.8221"
+  nearby_rate_centers:
+  - name: CAMUY
+    distance_km: 2.02
+  - name: ARECIBO
+    distance_km: 9.62
+  - name: QUEBRADLLS
+    distance_km: 12.13
+- country: US
+  region: PR
+  name: Hato Arriba
+  lat: '18.3520'
+  long: "-67.0336"
+  nearby_rate_centers:
+  - name: SANSBSTIAN
+    distance_km: 4.61
+  - name: MOCA
+    distance_km: 10.12
+  - name: LAS MARIAS
+    distance_km: 11.6
+- country: US
+  region: PR
+  name: Hato Candal
+  lat: '18.3732'
+  long: "-65.7906"
+  nearby_rate_centers:
+  - name: RIO GRANDE
+    distance_km: 4.67
+  - name: LUQUILLO
+    distance_km: 7.77
+  - name: CANOVANAS
+    distance_km: 11.94
+- country: US
+  region: PR
+  name: Hato Viejo
+  lat: '18.3605'
+  long: "-66.4813"
+  nearby_rate_centers:
+  - name: CIALES
+    distance_km: 3.09
+  - name: MANATI
+    distance_km: 8.24
+  - name: MOROVIS
+    distance_km: 8.69
+- country: US
+  region: PR
+  name: Honduras
+  lat: '18.1412'
+  long: "-66.2004"
+  nearby_rate_centers:
+  - name: CAYEY
+    distance_km: 4.83
+  - name: CIDRA
+    distance_km: 5.63
+  - name: AIBONITO
+    distance_km: 6.74
+- country: US
+  region: PR
+  name: Hormigueros
+  lat: '18.1437'
+  long: "-67.1199"
+  nearby_rate_centers:
+  - name: HORMIGUERO
+    distance_km: 1.07
+  - name: CABO ROJO
+    distance_km: 6.48
+  - name: MAYAGUEZ
+    distance_km: 6.72
+- country: US
+  region: PR
+  name: Humacao
+  lat: '18.1520'
+  long: "-65.8204"
+  nearby_rate_centers:
+  - name: HUMACAO
+    distance_km: 0.45
+  - name: LASPIEDRAS
+    distance_km: 5.69
+  - name: NAGUABO
+    distance_km: 11.18
+- country: US
+  region: PR
+  name: !binary |-
+    SW1iw6lyeQ==
+  lat: '18.4371'
+  long: "-66.5566"
+  nearby_rate_centers:
+  - name: BARCELONTA
+    distance_km: 2.88
+  - name: MANATI
+    distance_km: 7.41
+  - name: FLORIDA
+    distance_km: 8.05
+- country: US
+  region: PR
+  name: Indios
+  lat: '17.9942'
+  long: "-66.8210"
+  nearby_rate_centers:
+  - name: GUAYANILLA
+    distance_km: 4.07
+  - name: YAUCO
+    distance_km: 5.53
+  - name: GUANICA
+    distance_km: 10.09
+- country: US
+  region: PR
+  name: Ingenio
+  lat: '18.4453'
+  long: "-66.2239"
+  nearby_rate_centers:
+  - name: TOA BAJA
+    distance_km: 0.79
+  - name: LEVITTOWN
+    distance_km: 4.62
+  - name: DORADO
+    distance_km: 5.23
+- country: US
+  region: PR
+  name: Isabela
+  lat: '18.4991'
+  long: "-67.0220"
+  nearby_rate_centers:
+  - name: ISABELA
+    distance_km: 0.34
+  - name: QUEBRADLLS
+    distance_km: 9.39
+  - name: RAMEY
+    distance_km: 11.59
+- country: US
+  region: PR
+  name: Isleta Comunidad
+  lat: '18.3767'
+  long: "-67.1123"
+  nearby_rate_centers:
+  - name: MOCA
+    distance_km: 2.29
+  - name: AGUADILLA
+    distance_km: 5.46
+  - name: AGUADA
+    distance_km: 8.95
+- country: US
+  region: PR
+  name: Jagual
+  lat: '18.1610'
+  long: "-65.9993"
+  nearby_rate_centers:
+  - name: SANLORENZO
+    distance_km: 5.32
+  - name: CAGUAS
+    distance_km: 9.44
+  - name: GURABO
+    distance_km: 11.0
+- country: US
+  region: PR
+  name: Jaguas
+  lat: '18.3074'
+  long: "-66.4777"
+  nearby_rate_centers:
+  - name: CIALES
+    distance_km: 3.44
+  - name: MOROVIS
+    distance_km: 8.01
+  - name: FLORIDA
+    distance_km: 11.21
+- country: US
+  region: PR
+  name: Jauca
+  lat: '17.9638'
+  long: "-66.3673"
+  nearby_rate_centers:
+  - name: SAN ISABEL
+    distance_km: 4.0
+  - name: SALINAS
+    distance_km: 7.62
+  - name: COAMO
+    distance_km: 12.91
+- country: US
+  region: PR
+  name: Jayuya
+  lat: '18.2199'
+  long: "-66.5984"
+  nearby_rate_centers:
+  - name: JAYUYA
+    distance_km: 0.51
+  - name: UTUADO
+    distance_km: 11.99
+  - name: ADJUNTAS
+    distance_km: 14.53
+- country: US
+  region: PR
+  name: Jobos
+  lat: '17.9608'
+  long: "-66.1655"
+  nearby_rate_centers:
+  - name: GUAYAMA
+    distance_km: 6.2
+  - name: AGUIRRE
+    distance_km: 6.6
+  - name: ARROYO
+    distance_km: 10.89
+- country: US
+  region: PR
+  name: !binary |-
+    SnVhbmEgRMOtYXo=
+  lat: '18.0532'
+  long: "-66.5044"
+  nearby_rate_centers:
+  - name: JUANA DIAZ
+    distance_km: 0.25
+  - name: VILLALBA
+    distance_km: 8.38
+  - name: PONCE
+    distance_km: 12.64
+- country: US
+  region: PR
+  name: Juncal
+  lat: '18.3125'
+  long: "-66.9219"
+  nearby_rate_centers:
+  - name: LARES
+    distance_km: 4.42
+  - name: SANSBSTIAN
+    distance_km: 8.03
+  - name: LAS MARIAS
+    distance_km: 9.81
+- country: US
+  region: PR
+  name: Juncos
+  lat: '18.2256'
+  long: "-65.9161"
+  nearby_rate_centers:
+  - name: JUNCOS
+    distance_km: 0.86
+  - name: SANLORENZO
+    distance_km: 6.03
+  - name: GURABO
+    distance_km: 7.04
+- country: US
+  region: PR
+  name: La Alianza
+  lat: '18.3950'
+  long: "-66.5975"
+  nearby_rate_centers:
+  - name: FLORIDA
+    distance_km: 4.8
+  - name: SANTANA
+    distance_km: 8.55
+  - name: BARCELONTA
+    distance_km: 9.24
+- country: US
+  region: PR
+  name: La Dolores
+  lat: '18.3725'
+  long: "-65.8546"
+  nearby_rate_centers:
+  - name: RIO GRANDE
+    distance_km: 2.29
+  - name: CANOVANAS
+    distance_km: 5.2
+  - name: LUQUILLO
+    distance_km: 14.52
+- country: US
+  region: PR
+  name: La Fermina
+  lat: '18.1744'
+  long: "-65.8526"
+  nearby_rate_centers:
+  - name: LASPIEDRAS
+    distance_km: 1.49
+  - name: HUMACAO
+    distance_km: 4.66
+  - name: JUNCOS
+    distance_km: 9.65
+- country: US
+  region: PR
+  name: La Liga
+  lat: '18.2894'
+  long: "-66.0508"
+  nearby_rate_centers:
+  - name: CAGUAS
+    distance_km: 5.91
+  - name: AGUASBUNAS
+    distance_km: 6.8
+  - name: CAROLINA
+    distance_km: 8.68
+- country: US
+  region: PR
+  name: La Luisa
+  lat: '18.4488'
+  long: "-66.5078"
+  nearby_rate_centers:
+  - name: MANATI
+    distance_km: 2.76
+  - name: BARCELONTA
+    distance_km: 3.58
+  - name: FLORIDA
+    distance_km: 11.08
+- country: US
+  region: PR
+  name: La Parguera
+  lat: '17.9748'
+  long: "-67.0458"
+  nearby_rate_centers:
+  - name: LAJAS
+    distance_km: 7.85
+  - name: SAN GERMAN
+    distance_km: 11.9
+  - name: GUANICA
+    distance_km: 13.89
+- country: US
+  region: PR
+  name: La Pica
+  lat: '18.4652'
+  long: "-66.8619"
+  nearby_rate_centers:
+  - name: CAMUY
+    distance_km: 2.82
+  - name: QUEBRADLLS
+    distance_km: 7.97
+  - name: ARECIBO
+    distance_km: 13.7
+- country: US
+  region: PR
+  name: La Playa
+  lat: '18.2865'
+  long: "-67.1868"
+  nearby_rate_centers:
+  - name: ANASCO
+    distance_km: 4.26
+  - name: AGUADILLA
+    distance_km: 7.46
+  - name: RINCON
+    distance_km: 9.57
+- country: US
+  region: PR
+  name: La Plena
+  lat: '18.0411'
+  long: "-66.2064"
+  nearby_rate_centers:
+  - name: AGUIRRE
+    distance_km: 7.75
+  - name: CAYEY
+    distance_km: 8.98
+  - name: SALINAS
+    distance_km: 11.92
+- country: US
+  region: PR
+  name: La Yuca
+  lat: '18.0727'
+  long: "-66.6077"
+  nearby_rate_centers:
+  - name: PONCE
+    distance_km: 7.2
+  - name: JUANA DIAZ
+    distance_km: 10.95
+  - name: PENUELAS
+    distance_km: 12.25
+- country: US
+  region: PR
+  name: Lajas
+  lat: '18.0431'
+  long: "-67.0574"
+  nearby_rate_centers:
+  - name: LAJAS
+    distance_km: 0.53
+  - name: SAN GERMAN
+    distance_km: 4.58
+  - name: CABO ROJO
+    distance_km: 10.52
+- country: US
+  region: PR
+  name: Lamboglia
+  lat: '17.9847'
+  long: "-65.9859"
+  nearby_rate_centers:
+  - name: ARROYO
+    distance_km: 8.35
+  - name: MAUNABO
+    distance_km: 9.14
+  - name: GUAYAMA
+    distance_km: 13.28
+- country: US
+  region: PR
+  name: Lares
+  lat: '18.2964'
+  long: "-66.8836"
+  nearby_rate_centers:
+  - name: LARES
+    distance_km: 0.48
+  - name: LAS MARIAS
+    distance_km: 12.39
+  - name: SANSBSTIAN
+    distance_km: 12.45
+- country: US
+  region: PR
+  name: Las Carolinas
+  lat: '18.2539'
+  long: "-66.0658"
+  nearby_rate_centers:
+  - name: CAGUAS
+    distance_km: 3.49
+  - name: AGUASBUNAS
+    distance_km: 3.96
+  - name: GURABO
+    distance_km: 9.7
+- country: US
+  region: PR
+  name: Las Croabas
+  lat: '18.3695'
+  long: "-65.6293"
+  nearby_rate_centers:
+  - name: FAJARDO
+    distance_km: 4.34
+  - name: LUQUILLO
+    distance_km: 9.28
+  - name: ROOSEVLTRD
+    distance_km: 16.76
+- country: US
+  region: PR
+  name: Las Gaviotas
+  lat: '18.4368'
+  long: "-66.1907"
+  nearby_rate_centers:
+  - name: LEVITTOWN
+    distance_km: 1.11
+  - name: TOA BAJA
+    distance_km: 4.36
+  - name: BAYAMONNOR
+    distance_km: 6.02
+- country: US
+  region: PR
+  name: !binary |-
+    TGFzIE1hcsOtYXM=
+  lat: '18.2928'
+  long: "-67.1450"
+  nearby_rate_centers:
+  - name: ANASCO
+    distance_km: 1.39
+  - name: AGUADILLA
+    distance_km: 5.8
+  - name: MAYAGUEZ
+    distance_km: 10.32
+- country: US
+  region: PR
+  name: Las Ochenta
+  lat: '17.9847'
+  long: "-66.3174"
+  nearby_rate_centers:
+  - name: SALINAS
+    distance_km: 2.39
+  - name: SAN ISABEL
+    distance_km: 9.41
+  - name: AGUIRRE
+    distance_km: 9.71
+- country: US
+  region: PR
+  name: Las Ollas
+  lat: '18.0142'
+  long: "-66.4207"
+  nearby_rate_centers:
+  - name: SAN ISABEL
+    distance_km: 5.33
+  - name: COAMO
+    distance_km: 9.69
+  - name: JUANA DIAZ
+    distance_km: 10.07
+- country: US
+  region: PR
+  name: Las Piedras
+  lat: '18.1787'
+  long: "-65.8711"
+  nearby_rate_centers:
+  - name: LASPIEDRAS
+    distance_km: 0.67
+  - name: HUMACAO
+    distance_km: 6.57
+  - name: JUNCOS
+    distance_km: 7.89
+- country: US
+  region: PR
+  name: Lassalle Comunidad
+  lat: '18.3854'
+  long: "-67.0617"
+  nearby_rate_centers:
+  - name: MOCA
+    distance_km: 5.98
+  - name: SANSBSTIAN
+    distance_km: 8.85
+  - name: AGUADILLA
+    distance_km: 10.5
+- country: US
+  region: PR
+  name: !binary |-
+    TGlib3JpbyBOZWdyw7NuIFRvcnJlcw==
+  lat: '18.0431'
+  long: "-66.9426"
+  nearby_rate_centers:
+  - name: SABANAGRND
+    distance_km: 4.35
+  - name: GUANICA
+    distance_km: 8.02
+  - name: YAUCO
+    distance_km: 9.69
+- country: US
+  region: PR
+  name: Lluveras
+  lat: '18.0380'
+  long: "-66.9037"
+  nearby_rate_centers:
+  - name: YAUCO
+    distance_km: 5.54
+  - name: GUANICA
+    distance_km: 6.97
+  - name: SABANAGRND
+    distance_km: 7.57
+- country: US
+  region: PR
+  name: Lomas
+  lat: '18.2688'
+  long: "-65.9096"
+  nearby_rate_centers:
+  - name: JUNCOS
+    distance_km: 4.57
+  - name: GURABO
+    distance_km: 6.93
+  - name: SANLORENZO
+    distance_km: 10.18
+- country: US
+  region: PR
+  name: Lomas Verdes Comunidad
+  lat: '18.3823'
+  long: "-67.1201"
+  nearby_rate_centers:
+  - name: MOCA
+    distance_km: 1.64
+  - name: AGUADILLA
+    distance_km: 5.34
+  - name: AGUADA
+    distance_km: 8.0
+- country: US
+  region: PR
+  name: !binary |-
+    TG9zIEjDqXJvZXMgQ29tdW5pZGFk
+  lat: '18.3916'
+  long: "-67.1186"
+  nearby_rate_centers:
+  - name: MOCA
+    distance_km: 0.6
+  - name: AGUADILLA
+    distance_km: 6.27
+  - name: AGUADA
+    distance_km: 8.0
+- country: US
+  region: PR
+  name: Los Llanos
+  lat: '18.0579'
+  long: "-66.4092"
+  nearby_rate_centers:
+  - name: COAMO
+    distance_km: 5.71
+  - name: SAN ISABEL
+    distance_km: 9.93
+  - name: JUANA DIAZ
+    distance_km: 10.21
+- country: US
+  region: PR
+  name: Los Panes
+  lat: '18.1848'
+  long: "-66.0760"
+  nearby_rate_centers:
+  - name: CAGUAS
+    distance_km: 7.17
+  - name: AGUASBUNAS
+    distance_km: 8.2
+  - name: CIDRA
+    distance_km: 8.95
+- country: US
+  region: PR
+  name: Los Prados
+  lat: '18.2330'
+  long: "-66.0621"
+  nearby_rate_centers:
+  - name: CAGUAS
+    distance_km: 2.66
+  - name: AGUASBUNAS
+    distance_km: 4.93
+  - name: GURABO
+    distance_km: 9.68
+- country: US
+  region: PR
+  name: !binary |-
+    TG/DrXph
+  lat: '18.4309'
+  long: "-65.8801"
+  nearby_rate_centers:
+  - name: CANOVANAS
+    distance_km: 6.55
+  - name: RIO GRANDE
+    distance_km: 7.45
+  - name: ISLA VERDE
+    distance_km: 14.92
+- country: US
+  region: PR
+  name: !binary |-
+    THVpcyBMbG9yw6lucyBUb3JyZXM=
+  lat: '18.0565'
+  long: "-66.5267"
+  nearby_rate_centers:
+  - name: JUANA DIAZ
+    distance_km: 2.22
+  - name: VILLALBA
+    distance_km: 8.73
+  - name: PONCE
+    distance_km: 10.69
+- country: US
+  region: PR
+  name: !binary |-
+    THVpcyBNLiBDaW50csOzbg==
+  lat: '18.3008'
+  long: "-65.6371"
+  nearby_rate_centers:
+  - name: FAJARDO
+    distance_km: 4.2
+  - name: ROOSEVLTRD
+    distance_km: 9.09
+  - name: LUQUILLO
+    distance_km: 11.8
+- country: US
+  region: PR
+  name: Luquillo
+  lat: '18.3719'
+  long: "-65.7221"
+  nearby_rate_centers:
+  - name: LUQUILLO
+    distance_km: 0.64
+  - name: FAJARDO
+    distance_km: 8.5
+  - name: RIO GRANDE
+    distance_km: 11.88
+- country: US
+  region: PR
+  name: Luyando
+  lat: '18.3575'
+  long: "-67.1553"
+  nearby_rate_centers:
+  - name: AGUADILLA
+    distance_km: 1.49
+  - name: MOCA
+    distance_km: 5.95
+  - name: AGUADA
+    distance_km: 6.09
+- country: US
+  region: PR
+  name: Magas Arriba
+  lat: '18.0233'
+  long: "-66.7664"
+  nearby_rate_centers:
+  - name: GUAYANILLA
+    distance_km: 2.77
+  - name: PENUELAS
+    distance_km: 6.24
+  - name: YAUCO
+    distance_km: 9.08
+- country: US
+  region: PR
+  name: Maguayo
+  lat: '18.0100'
+  long: "-67.0855"
+  nearby_rate_centers:
+  - name: LAJAS
+    distance_km: 5.21
+  - name: SAN GERMAN
+    distance_km: 9.18
+  - name: CABO ROJO
+    distance_km: 10.83
+- country: US
+  region: PR
+  name: !binary |-
+    TWFuYXTDrQ==
+  lat: '18.4283'
+  long: "-66.4823"
+  nearby_rate_centers:
+  - name: MANATI
+    distance_km: 0.81
+  - name: BARCELONTA
+    distance_km: 6.95
+  - name: CIALES
+    distance_km: 10.34
+- country: US
+  region: PR
+  name: !binary |-
+    TWFuc2nDs24gZGVsIFNvbA==
+  lat: '18.4371'
+  long: "-66.1937"
+  nearby_rate_centers:
+  - name: LEVITTOWN
+    distance_km: 1.41
+  - name: TOA BAJA
+    distance_km: 4.04
+  - name: BAYAMONNOR
+    distance_km: 6.24
+- country: US
+  region: PR
+  name: !binary |-
+    TWFyaWFubyBDb2zDs24=
+  lat: '18.0287'
+  long: "-66.3356"
+  nearby_rate_centers:
+  - name: COAMO
+    distance_km: 6.24
+  - name: SALINAS
+    distance_km: 7.12
+  - name: SAN ISABEL
+    distance_km: 9.9
+- country: US
+  region: PR
+  name: Maricao
+  lat: '18.1838'
+  long: "-66.9810"
+  nearby_rate_centers:
+  - name: MARICAO
+    distance_km: 0.32
+  - name: LAS MARIAS
+    distance_km: 8.04
+  - name: SABANAGRND
+    distance_km: 11.98
+- country: US
+  region: PR
+  name: Martorell
+  lat: '18.0730'
+  long: "-65.8977"
+  nearby_rate_centers:
+  - name: YABUCOA
+    distance_km: 3.31
+  - name: MAUNABO
+    distance_km: 7.09
+  - name: HUMACAO
+    distance_km: 12.09
+- country: US
+  region: PR
+  name: !binary |-
+    TWFydWXDsW8=
+  lat: '18.0585'
+  long: "-66.6569"
+  nearby_rate_centers:
+  - name: PENUELAS
+    distance_km: 6.99
+  - name: PONCE
+    distance_km: 7.19
+  - name: ADJUNTAS
+    distance_km: 14.08
+- country: US
+  region: PR
+  name: !binary |-
+    TWFyw61hIEFudG9uaWE=
+  lat: '17.9783'
+  long: "-66.8899"
+  nearby_rate_centers:
+  - name: GUANICA
+    distance_km: 2.61
+  - name: YAUCO
+    distance_km: 7.47
+  - name: GUAYANILLA
+    distance_km: 11.26
+- country: US
+  region: PR
+  name: Maunabo
+  lat: '18.0056'
+  long: "-65.9009"
+  nearby_rate_centers:
+  - name: MAUNABO
+    distance_km: 0.51
+  - name: YABUCOA
+    distance_km: 5.61
+  - name: ARROYO
+    distance_km: 17.54
+- country: US
+  region: PR
+  name: !binary |-
+    TWF5YWfDvGV6
+  lat: '18.2003'
+  long: "-67.1397"
+  nearby_rate_centers:
+  - name: MAYAGUEZ
+    distance_km: 0.35
+  - name: HORMIGUERO
+    distance_km: 6.78
+  - name: ANASCO
+    distance_km: 8.94
+- country: US
+  region: PR
+  name: Miranda
+  lat: '18.3869'
+  long: "-66.3789"
+  nearby_rate_centers:
+  - name: VEGA ALTA
+    distance_km: 5.92
+  - name: VEGA BAJA
+    distance_km: 6.82
+  - name: MOROVIS
+    distance_km: 6.94
+- country: US
+  region: PR
+  name: Moca
+  lat: '18.3943'
+  long: "-67.1138"
+  nearby_rate_centers:
+  - name: MOCA
+    distance_km: 0.45
+  - name: AGUADILLA
+    distance_km: 6.81
+  - name: AGUADA
+    distance_km: 8.48
+- country: US
+  region: PR
+  name: Monserrate
+  lat: '18.4367'
+  long: "-66.3579"
+  nearby_rate_centers:
+  - name: VEGA BAJA
+    distance_km: 3.15
+  - name: VEGA ALTA
+    distance_km: 4.1
+  - name: DORADO
+    distance_km: 10.01
+- country: US
+  region: PR
+  name: Monte Grande
+  lat: '18.0894'
+  long: "-67.1201"
+  nearby_rate_centers:
+  - name: CABO ROJO
+    distance_km: 2.51
+  - name: HORMIGUERO
+    distance_km: 5.72
+  - name: SAN GERMAN
+    distance_km: 8.24
+- country: US
+  region: PR
+  name: Monte Verde
+  lat: '18.0972'
+  long: "-66.6196"
+  nearby_rate_centers:
+  - name: PONCE
+    distance_km: 9.91
+  - name: PENUELAS
+    distance_km: 11.63
+  - name: JUANA DIAZ
+    distance_km: 12.92
+- country: US
+  region: PR
+  name: Mora
+  lat: '18.4626'
+  long: "-67.0323"
+  nearby_rate_centers:
+  - name: ISABELA
+    distance_km: 4.29
+  - name: QUEBRADLLS
+    distance_km: 10.15
+  - name: RAMEY
+    distance_km: 11.38
+- country: US
+  region: PR
+  name: Morovis
+  lat: '18.3268'
+  long: "-66.4057"
+  nearby_rate_centers:
+  - name: MOROVIS
+    distance_km: 0.34
+  - name: CIALES
+    distance_km: 6.52
+  - name: COROZAL
+    distance_km: 9.81
+- country: US
+  region: PR
+  name: Mucarabones
+  lat: '18.3906'
+  long: "-66.2178"
+  nearby_rate_centers:
+  - name: BAYAMONSUR
+    distance_km: 3.47
+  - name: TOA ALTA
+    distance_km: 3.61
+  - name: TOA BAJA
+    distance_km: 6.12
+- country: US
+  region: PR
+  name: Naguabo
+  lat: '18.2117'
+  long: "-65.7370"
+  nearby_rate_centers:
+  - name: NAGUABO
+    distance_km: 0.46
+  - name: ROOSEVLTRD
+    distance_km: 9.02
+  - name: HUMACAO
+    distance_km: 10.88
+- country: US
+  region: PR
+  name: Naranjito
+  lat: '18.3029'
+  long: "-66.2498"
+  nearby_rate_centers:
+  - name: NARANJITO
+    distance_km: 0.48
+  - name: COROZAL
+    distance_km: 8.35
+  - name: TOA ALTA
+    distance_km: 9.39
+- country: US
+  region: PR
+  name: Olimpo
+  lat: '18.0027'
+  long: "-66.1097"
+  nearby_rate_centers:
+  - name: GUAYAMA
+    distance_km: 2.26
+  - name: ARROYO
+    distance_km: 5.35
+  - name: AGUIRRE
+    distance_km: 12.74
+- country: US
+  region: PR
+  name: Orocovis
+  lat: '18.2258'
+  long: "-66.3902"
+  nearby_rate_centers:
+  - name: OROCOVIS
+    distance_km: 0.16
+  - name: BARRANQUTS
+    distance_km: 9.79
+  - name: MOROVIS
+    distance_km: 11.68
+- country: US
+  region: PR
+  name: Pabellones
+  lat: '18.4412'
+  long: "-66.2156"
+  nearby_rate_centers:
+  - name: TOA BAJA
+    distance_km: 1.69
+  - name: LEVITTOWN
+    distance_km: 3.7
+  - name: DORADO
+    distance_km: 6.21
+- country: US
+  region: PR
+  name: Pajonal
+  lat: '18.3847'
+  long: "-66.5560"
+  nearby_rate_centers:
+  - name: FLORIDA
+    distance_km: 2.37
+  - name: BARCELONTA
+    distance_km: 8.31
+  - name: MANATI
+    distance_km: 9.19
+- country: US
+  region: PR
+  name: Palma Sola
+  lat: '18.3240'
+  long: "-65.8715"
+  nearby_rate_centers:
+  - name: CANOVANAS
+    distance_km: 6.75
+  - name: RIO GRANDE
+    distance_km: 7.35
+  - name: JUNCOS
+    distance_km: 11.81
+- country: US
+  region: PR
+  name: Palmarejo
+  lat: '18.0409'
+  long: "-67.0766"
+  nearby_rate_centers:
+  - name: LAJAS
+    distance_km: 2.56
+  - name: SAN GERMAN
+    distance_km: 5.8
+  - name: CABO ROJO
+    distance_km: 8.96
+- country: US
+  region: PR
+  name: Palmarejo
+  lat: '18.3149'
+  long: "-66.2925"
+  nearby_rate_centers:
+  - name: COROZAL
+    distance_km: 4.14
+  - name: NARANJITO
+    distance_km: 4.72
+  - name: TOA ALTA
+    distance_km: 9.12
+- country: US
+  region: PR
+  name: Palmas del Mar
+  lat: '18.0922'
+  long: "-65.8005"
+  nearby_rate_centers:
+  - name: HUMACAO
+    distance_km: 6.64
+  - name: YABUCOA
+    distance_km: 9.31
+  - name: LASPIEDRAS
+    distance_km: 11.97
+- country: US
+  region: PR
+  name: Palmer
+  lat: '18.3704'
+  long: "-65.7733"
+  nearby_rate_centers:
+  - name: LUQUILLO
+    distance_km: 5.96
+  - name: RIO GRANDE
+    distance_km: 6.53
+  - name: FAJARDO
+    distance_km: 13.47
+- country: US
+  region: PR
+  name: Palo Seco
+  lat: '18.0093'
+  long: "-65.9370"
+  nearby_rate_centers:
+  - name: MAUNABO
+    distance_km: 3.55
+  - name: YABUCOA
+    distance_km: 7.83
+  - name: ARROYO
+    distance_km: 13.88
+- country: US
+  region: PR
+  name: Palomas
+  lat: '18.0135'
+  long: "-66.8688"
+  nearby_rate_centers:
+  - name: YAUCO
+    distance_km: 2.98
+  - name: GUANICA
+    distance_km: 6.37
+  - name: GUAYANILLA
+    distance_km: 8.13
+- country: US
+  region: PR
+  name: Parcelas La Milagrosa
+  lat: '18.1716'
+  long: "-66.1868"
+  nearby_rate_centers:
+  - name: CIDRA
+    distance_km: 2.85
+  - name: COMERIO
+    distance_km: 6.6
+  - name: CAYEY
+    distance_km: 6.95
+- country: US
+  region: PR
+  name: Parcelas Mandry
+  lat: '18.0811'
+  long: "-66.5627"
+  nearby_rate_centers:
+  - name: JUANA DIAZ
+    distance_km: 6.68
+  - name: VILLALBA
+    distance_km: 9.13
+  - name: PONCE
+    distance_km: 9.76
+- country: US
+  region: PR
+  name: Parcelas Nuevas
+  lat: '18.1400'
+  long: "-66.1702"
+  nearby_rate_centers:
+  - name: CAYEY
+    distance_km: 3.11
+  - name: CIDRA
+    distance_km: 3.95
+  - name: AIBONITO
+    distance_km: 9.93
+- country: US
+  region: PR
+  name: !binary |-
+    UGFyY2VsYXMgUGXDsXVlbGFz
+  lat: '18.0059'
+  long: "-66.3475"
+  nearby_rate_centers:
+  - name: SALINAS
+    distance_km: 6.3
+  - name: SAN ISABEL
+    distance_km: 7.33
+  - name: COAMO
+    distance_km: 8.32
+- country: US
+  region: PR
+  name: Parcelas Viejas Borinquen
+  lat: '18.1739'
+  long: "-66.0406"
+  nearby_rate_centers:
+  - name: CAGUAS
+    distance_km: 7.12
+  - name: SANLORENZO
+    distance_km: 8.74
+  - name: AGUASBUNAS
+    distance_km: 11.09
+- country: US
+  region: PR
+  name: Parcelas de Navarro
+  lat: '18.2301'
+  long: "-66.0043"
+  nearby_rate_centers:
+  - name: CAGUAS
+    distance_km: 3.6
+  - name: GURABO
+    distance_km: 4.37
+  - name: SANLORENZO
+    distance_km: 6.42
+- country: US
+  region: PR
+  name: Pastos
+  lat: '18.1194'
+  long: "-66.2601"
+  nearby_rate_centers:
+  - name: AIBONITO
+    distance_km: 2.45
+  - name: BARRANQUTS
+    distance_km: 8.88
+  - name: CAYEY
+    distance_km: 9.95
+- country: US
+  region: PR
+  name: Patillas
+  lat: '18.0069'
+  long: "-66.0134"
+  nearby_rate_centers:
+  - name: ARROYO
+    distance_km: 6.16
+  - name: GUAYAMA
+    distance_km: 10.72
+  - name: MAUNABO
+    distance_km: 11.63
+- country: US
+  region: PR
+  name: !binary |-
+    UGXDsWEgUG9icmU=
+  lat: '18.2174'
+  long: "-65.8221"
+  nearby_rate_centers:
+  - name: LASPIEDRAS
+    distance_km: 6.11
+  - name: HUMACAO
+    distance_km: 7.53
+  - name: NAGUABO
+    distance_km: 9.41
+- country: US
+  region: PR
+  name: !binary |-
+    UGXDsXVlbGFz
+  lat: '18.0595'
+  long: "-66.7206"
+  nearby_rate_centers:
+  - name: PENUELAS
+    distance_km: 0.32
+  - name: GUAYANILLA
+    distance_km: 8.83
+  - name: ADJUNTAS
+    distance_km: 12.03
+- country: US
+  region: PR
+  name: Piedra Aguza
+  lat: '18.0338'
+  long: "-66.4955"
+  nearby_rate_centers:
+  - name: JUANA DIAZ
+    distance_km: 2.6
+  - name: VILLALBA
+    distance_km: 10.43
+  - name: SAN ISABEL
+    distance_km: 12.02
+- country: US
+  region: PR
+  name: Piedra Gorda
+  lat: '18.4342'
+  long: "-66.8861"
+  nearby_rate_centers:
+  - name: QUEBRADLLS
+    distance_km: 6.98
+  - name: CAMUY
+    distance_km: 7.06
+  - name: SANSBSTIAN
+    distance_km: 15.04
+- country: US
+  region: PR
+  name: !binary |-
+    UGnDsWFz
+  lat: '18.1902'
+  long: "-66.2332"
+  nearby_rate_centers:
+  - name: COMERIO
+    distance_km: 4.0
+  - name: AIBONITO
+    distance_km: 6.37
+  - name: BARRANQUTS
+    distance_km: 7.93
+- country: US
+  region: PR
+  name: Playa Fortuna
+  lat: '18.3759'
+  long: "-65.7460"
+  nearby_rate_centers:
+  - name: LUQUILLO
+    distance_km: 3.06
+  - name: RIO GRANDE
+    distance_km: 9.33
+  - name: FAJARDO
+    distance_km: 10.97
+- country: US
+  region: PR
+  name: Playita
+  lat: '18.0404'
+  long: "-65.9071"
+  nearby_rate_centers:
+  - name: YABUCOA
+    distance_km: 3.38
+  - name: MAUNABO
+    distance_km: 3.46
+  - name: HUMACAO
+    distance_km: 15.46
+- country: US
+  region: PR
+  name: Playita Cortada
+  lat: '17.9820'
+  long: "-66.4402"
+  nearby_rate_centers:
+  - name: SAN ISABEL
+    distance_km: 4.03
+  - name: JUANA DIAZ
+    distance_km: 10.68
+  - name: COAMO
+    distance_km: 13.76
+- country: US
+  region: PR
+  name: Pole Ojea
+  lat: '17.9743'
+  long: "-67.1832"
+  nearby_rate_centers:
+  - name: CABO ROJO
+    distance_km: 13.52
+  - name: LAJAS
+    distance_km: 15.87
+  - name: SAN GERMAN
+    distance_km: 19.08
+- country: US
+  region: PR
+  name: Ponce
+  lat: '18.0127'
+  long: "-66.6212"
+  nearby_rate_centers:
+  - name: PONCE
+    distance_km: 0.9
+  - name: PENUELAS
+    distance_km: 12.04
+  - name: JUANA DIAZ
+    distance_km: 13.08
+- country: US
+  region: PR
+  name: Potala Pastillo
+  lat: '17.9921'
+  long: "-66.4966"
+  nearby_rate_centers:
+  - name: JUANA DIAZ
+    distance_km: 7.06
+  - name: SAN ISABEL
+    distance_km: 10.05
+  - name: PONCE
+    distance_km: 12.56
+- country: US
+  region: PR
+  name: Pueblito del Carmen
+  lat: '18.0316'
+  long: "-66.1656"
+  nearby_rate_centers:
+  - name: GUAYAMA
+    distance_km: 7.92
+  - name: CAYEY
+    distance_km: 8.97
+  - name: AGUIRRE
+    distance_km: 9.06
+- country: US
+  region: PR
+  name: !binary |-
+    UHVlYmxpdG8gZGVsIFLDrW8=
+  lat: '18.2280'
+  long: "-65.8615"
+  nearby_rate_centers:
+  - name: LASPIEDRAS
+    distance_km: 5.28
+  - name: JUNCOS
+    distance_km: 6.5
+  - name: HUMACAO
+    distance_km: 9.89
+- country: US
+  region: PR
+  name: Puerto Real
+  lat: '18.0767'
+  long: "-67.1858"
+  nearby_rate_centers:
+  - name: CABO ROJO
+    distance_km: 4.67
+  - name: HORMIGUERO
+    distance_km: 9.24
+  - name: MAYAGUEZ
+    distance_km: 14.44
+- country: US
+  region: PR
+  name: Punta Santiago
+  lat: '18.1619'
+  long: "-65.7584"
+  nearby_rate_centers:
+  - name: NAGUABO
+    distance_km: 5.9
+  - name: HUMACAO
+    distance_km: 6.32
+  - name: LASPIEDRAS
+    distance_km: 11.46
+- country: US
+  region: PR
+  name: !binary |-
+    UMOhamFyb3M=
+  lat: '18.3610'
+  long: "-66.2184"
+  nearby_rate_centers:
+  - name: BAYAMONSUR
+    distance_km: 2.94
+  - name: TOA ALTA
+    distance_km: 4.58
+  - name: NARANJITO
+    distance_km: 6.79
+- country: US
+  region: PR
+  name: Quebrada
+  lat: '18.3602'
+  long: "-66.8353"
+  nearby_rate_centers:
+  - name: LARES
+    distance_km: 9.21
+  - name: CAMUY
+    distance_km: 13.49
+  - name: ARECIBO
+    distance_km: 16.12
+- country: US
+  region: PR
+  name: Quebrada Prieta
+  lat: '18.2943'
+  long: "-65.9037"
+  nearby_rate_centers:
+  - name: JUNCOS
+    distance_km: 7.47
+  - name: GURABO
+    distance_km: 8.51
+  - name: CANOVANAS
+    distance_km: 9.14
+- country: US
+  region: PR
+  name: Quebrada del Agua
+  lat: '18.0378'
+  long: "-66.6847"
+  nearby_rate_centers:
+  - name: PENUELAS
+    distance_km: 4.81
+  - name: PONCE
+    distance_km: 8.15
+  - name: GUAYANILLA
+    distance_km: 11.56
+- country: US
+  region: PR
+  name: Quebradillas
+  lat: '18.4724'
+  long: "-66.9350"
+  nearby_rate_centers:
+  - name: QUEBRADLLS
+    distance_km: 0.3
+  - name: CAMUY
+    distance_km: 9.93
+  - name: ISABELA
+    distance_km: 9.97
+- country: US
+  region: PR
+  name: !binary |-
+    UmFmYWVsIENhcMOz
+  lat: '18.4005'
+  long: "-66.7898"
+  nearby_rate_centers:
+  - name: ARECIBO
+    distance_km: 9.59
+  - name: CAMUY
+    distance_km: 10.5
+  - name: SANTANA
+    distance_km: 14.75
+- country: US
+  region: PR
+  name: !binary |-
+    UmFmYWVsIEdvbnrDoWxleg==
+  lat: '18.4264'
+  long: "-66.7872"
+  nearby_rate_centers:
+  - name: ARECIBO
+    distance_km: 7.37
+  - name: CAMUY
+    distance_km: 8.36
+  - name: SANTANA
+    distance_km: 13.76
+- country: US
+  region: PR
+  name: !binary |-
+    UmFmYWVsIEhlcm7DoW5kZXo=
+  lat: '18.4718'
+  long: "-67.0787"
+  nearby_rate_centers:
+  - name: ISABELA
+    distance_km: 6.52
+  - name: RAMEY
+    distance_km: 6.53
+  - name: MOCA
+    distance_km: 9.27
+- country: US
+  region: PR
+  name: Ramos
+  lat: '18.3389'
+  long: "-65.7111"
+  nearby_rate_centers:
+  - name: LUQUILLO
+    distance_km: 4.06
+  - name: FAJARDO
+    distance_km: 6.37
+  - name: RIO GRANDE
+    distance_km: 13.78
+- country: US
+  region: PR
+  name: !binary |-
+    UmluY8Ozbg==
+  lat: '18.3389'
+  long: "-67.2515"
+  nearby_rate_centers:
+  - name: RINCON
+    distance_km: 0.84
+  - name: AGUADA
+    distance_km: 8.95
+  - name: AGUADILLA
+    distance_km: 10.58
+- country: US
+  region: PR
+  name: !binary |-
+    UmluY8Ozbg==
+  lat: '18.1500'
+  long: "-66.1569"
+  nearby_rate_centers:
+  - name: CIDRA
+    distance_km: 2.7
+  - name: CAYEY
+    distance_km: 4.31
+  - name: COMERIO
+    distance_km: 10.38
+- country: US
+  region: PR
+  name: !binary |-
+    Um9kcsOtZ3VleiBIZXZpYQ==
+  lat: '18.2020'
+  long: "-66.1824"
+  nearby_rate_centers:
+  - name: CIDRA
+    distance_km: 3.9
+  - name: COMERIO
+    distance_km: 4.43
+  - name: CAYEY
+    distance_km: 10.12
+- country: US
+  region: PR
+  name: !binary |-
+    Um9zYSBTw6FuY2hleg==
+  lat: '18.0617'
+  long: "-65.9136"
+  nearby_rate_centers:
+  - name: YABUCOA
+    distance_km: 4.06
+  - name: MAUNABO
+    distance_km: 5.91
+  - name: HUMACAO
+    distance_km: 14.17
+- country: US
+  region: PR
+  name: !binary |-
+    UsOtbyBCbGFuY28=
+  lat: '18.2123'
+  long: "-65.7930"
+  nearby_rate_centers:
+  - name: NAGUABO
+    distance_km: 6.3
+  - name: HUMACAO
+    distance_km: 7.39
+  - name: LASPIEDRAS
+    distance_km: 8.39
+- country: US
+  region: PR
+  name: !binary |-
+    UsOtbyBDYcOxYXMgQWJham8=
+  lat: '18.0396'
+  long: "-66.4683"
+  nearby_rate_centers:
+  - name: JUANA DIAZ
+    distance_km: 4.32
+  - name: VILLALBA
+    distance_km: 10.07
+  - name: SAN ISABEL
+    distance_km: 10.36
+- country: US
+  region: PR
+  name: !binary |-
+    UsOtbyBHcmFuZGU=
+  lat: '18.3789'
+  long: "-65.8388"
+  nearby_rate_centers:
+  - name: RIO GRANDE
+    distance_km: 0.49
+  - name: CANOVANAS
+    distance_km: 6.85
+  - name: LUQUILLO
+    distance_km: 12.86
+- country: US
+  region: PR
+  name: !binary |-
+    UsOtbyBMYWphcw==
+  lat: '18.3970'
+  long: "-66.2643"
+  nearby_rate_centers:
+  - name: TOA ALTA
+    distance_km: 1.7
+  - name: TOA BAJA
+    distance_km: 6.29
+  - name: VEGA ALTA
+    distance_km: 7.05
+- country: US
+  region: PR
+  name: Sabana
+  lat: '18.4643'
+  long: "-66.3517"
+  nearby_rate_centers:
+  - name: VEGA BAJA
+    distance_km: 3.98
+  - name: VEGA ALTA
+    distance_km: 6.31
+  - name: DORADO
+    distance_km: 8.8
+- country: US
+  region: PR
+  name: Sabana Eneas
+  lat: '18.0810'
+  long: "-67.0852"
+  nearby_rate_centers:
+  - name: SAN GERMAN
+    distance_km: 4.51
+  - name: LAJAS
+    distance_km: 5.26
+  - name: CABO ROJO
+    distance_km: 6.28
+- country: US
+  region: PR
+  name: Sabana Grande
+  lat: '18.0832'
+  long: "-66.9645"
+  nearby_rate_centers:
+  - name: SABANAGRND
+    distance_km: 0.68
+  - name: SAN GERMAN
+    distance_km: 8.25
+  - name: LAJAS
+    distance_km: 10.25
+- country: US
+  region: PR
+  name: Sabana Hoyos
+  lat: '18.4213'
+  long: "-66.6084"
+  nearby_rate_centers:
+  - name: SANTANA
+    distance_km: 5.93
+  - name: FLORIDA
+    distance_km: 7.76
+  - name: BARCELONTA
+    distance_km: 8.25
+- country: US
+  region: PR
+  name: Sabana Seca
+  lat: '18.4273'
+  long: "-66.1809"
+  nearby_rate_centers:
+  - name: LEVITTOWN
+    distance_km: 1.36
+  - name: BAYAMONNOR
+    distance_km: 4.56
+  - name: TOA BAJA
+    distance_km: 5.64
+- country: US
+  region: PR
+  name: Salinas
+  lat: '17.9778'
+  long: "-66.2962"
+  nearby_rate_centers:
+  - name: SALINAS
+    distance_km: 0.14
+  - name: AGUIRRE
+    distance_km: 7.4
+  - name: SAN ISABEL
+    distance_km: 11.53
+- country: US
+  region: PR
+  name: San Antonio
+  lat: '18.4471'
+  long: "-66.2995"
+  nearby_rate_centers:
+  - name: DORADO
+    distance_km: 3.92
+  - name: VEGA ALTA
+    distance_km: 5.03
+  - name: TOA BAJA
+    distance_km: 7.2
+- country: US
+  region: PR
+  name: San Antonio
+  lat: '18.4932'
+  long: "-67.0997"
+  nearby_rate_centers:
+  - name: RAMEY
+    distance_km: 3.53
+  - name: ISABELA
+    distance_km: 7.94
+  - name: MOCA
+    distance_km: 10.87
+- country: US
+  region: PR
+  name: San Antonio
+  lat: '18.4391'
+  long: "-66.9321"
+  nearby_rate_centers:
+  - name: QUEBRADLLS
+    distance_km: 3.96
+  - name: CAMUY
+    distance_km: 10.67
+  - name: ISABELA
+    distance_km: 11.93
+- country: US
+  region: PR
+  name: !binary |-
+    U2FuIEdlcm3DoW4=
+  lat: '18.0827'
+  long: "-67.0460"
+  nearby_rate_centers:
+  - name: SAN GERMAN
+    distance_km: 0.38
+  - name: LAJAS
+    distance_km: 4.25
+  - name: SABANAGRND
+    distance_km: 8.9
+- country: US
+  region: PR
+  name: San Isidro
+  lat: '18.3921'
+  long: "-65.8844"
+  nearby_rate_centers:
+  - name: CANOVANAS
+    distance_km: 2.68
+  - name: RIO GRANDE
+    distance_km: 5.45
+  - name: CAROLINA
+    distance_km: 14.16
+- country: US
+  region: PR
+  name: !binary |-
+    U2FuIEpvc8Op
+  lat: '18.4029'
+  long: "-66.2492"
+  nearby_rate_centers:
+  - name: TOA ALTA
+    distance_km: 1.76
+  - name: TOA BAJA
+    distance_km: 4.96
+  - name: BAYAMONSUR
+    distance_km: 6.98
+- country: US
+  region: PR
+  name: San Juan
+  lat: '18.3985'
+  long: "-66.0610"
+  nearby_rate_centers:
+  - name: RIOPIEDRAS
+    distance_km: 3.05
+  - name: PUEBLOVIEJ
+    distance_km: 4.81
+  - name: TRUJILLOAL
+    distance_km: 5.04
+- country: US
+  region: PR
+  name: San Lorenzo
+  lat: '18.1875'
+  long: "-65.9680"
+  nearby_rate_centers:
+  - name: SANLORENZO
+    distance_km: 0.93
+  - name: JUNCOS
+    distance_km: 6.68
+  - name: GURABO
+    distance_km: 7.75
+- country: US
+  region: PR
+  name: !binary |-
+    U2FuIFNlYmFzdGnDoW4=
+  lat: '18.3356'
+  long: "-66.9948"
+  nearby_rate_centers:
+  - name: SANSBSTIAN
+    distance_km: 0.88
+  - name: LAS MARIAS
+    distance_km: 8.94
+  - name: LARES
+    distance_km: 12.47
+- country: US
+  region: PR
+  name: !binary |-
+    U2FudGEgQsOhcmJhcmE=
+  lat: '18.3954'
+  long: "-65.9172"
+  nearby_rate_centers:
+  - name: CANOVANAS
+    distance_km: 2.54
+  - name: RIO GRANDE
+    distance_km: 8.91
+  - name: CAROLINA
+    distance_km: 10.99
+- country: US
+  region: PR
+  name: Santa Clara
+  lat: '18.2110'
+  long: "-66.1320"
+  nearby_rate_centers:
+  - name: CIDRA
+    distance_km: 5.05
+  - name: AGUASBUNAS
+    distance_km: 5.65
+  - name: COMERIO
+    distance_km: 9.18
+- country: US
+  region: PR
+  name: Santa Isabel
+  lat: '17.9691'
+  long: "-66.4051"
+  nearby_rate_centers:
+  - name: SAN ISABEL
+    distance_km: 0.06
+  - name: SALINAS
+    distance_km: 11.52
+  - name: COAMO
+    distance_km: 13.18
+- country: US
+  region: PR
+  name: !binary |-
+    U2FudGEgTWFyw61h
+  lat: '18.2710'
+  long: "-65.6623"
+  nearby_rate_centers:
+  - name: ROOSEVLTRD
+    distance_km: 5.74
+  - name: FAJARDO
+    distance_km: 7.35
+  - name: NAGUABO
+    distance_km: 10.17
+- country: US
+  region: PR
+  name: Santo Domingo
+  lat: '18.0719'
+  long: "-66.7459"
+  nearby_rate_centers:
+  - name: PENUELAS
+    distance_km: 2.7
+  - name: GUAYANILLA
+    distance_km: 7.7
+  - name: ADJUNTAS
+    distance_km: 10.88
+- country: US
+  region: PR
+  name: Stella
+  lat: '18.3240'
+  long: "-67.2464"
+  nearby_rate_centers:
+  - name: RINCON
+    distance_km: 2.56
+  - name: AGUADA
+    distance_km: 9.92
+  - name: AGUADILLA
+    distance_km: 10.28
+- country: US
+  region: PR
+  name: !binary |-
+    U3XDoXJleg==
+  lat: '18.4311'
+  long: "-65.8515"
+  nearby_rate_centers:
+  - name: RIO GRANDE
+    distance_km: 5.97
+  - name: CANOVANAS
+    distance_km: 8.2
+  - name: LUQUILLO
+    distance_km: 15.5
+- country: US
+  region: PR
+  name: Tallaboa
+  lat: '17.9935'
+  long: "-66.7067"
+  nearby_rate_centers:
+  - name: PENUELAS
+    distance_km: 7.73
+  - name: GUAYANILLA
+    distance_km: 9.45
+  - name: PONCE
+    distance_km: 9.92
+- country: US
+  region: PR
+  name: Tallaboa Alta
+  lat: '18.0504'
+  long: "-66.7020"
+  nearby_rate_centers:
+  - name: PENUELAS
+    distance_km: 2.52
+  - name: GUAYANILLA
+    distance_km: 10.17
+  - name: PONCE
+    distance_km: 10.41
+- country: US
+  region: PR
+  name: Tibes
+  lat: '18.0886'
+  long: "-66.6333"
+  nearby_rate_centers:
+  - name: PONCE
+    distance_km: 9.17
+  - name: PENUELAS
+    distance_km: 9.95
+  - name: ADJUNTAS
+    distance_km: 13.04
+- country: US
+  region: PR
+  name: Tiburones
+  lat: '18.4382'
+  long: "-66.5808"
+  nearby_rate_centers:
+  - name: BARCELONTA
+    distance_km: 4.8
+  - name: SANTANA
+    distance_km: 8.23
+  - name: FLORIDA
+    distance_km: 8.3
+- country: US
+  region: PR
+  name: Tierras Nuevas Poniente
+  lat: '18.4614'
+  long: "-66.4891"
+  nearby_rate_centers:
+  - name: MANATI
+    distance_km: 3.01
+  - name: BARCELONTA
+    distance_km: 5.42
+  - name: VEGA BAJA
+    distance_km: 11.05
+- country: US
+  region: PR
+  name: Toa Alta
+  lat: '18.3879'
+  long: "-66.2508"
+  nearby_rate_centers:
+  - name: TOA ALTA
+    distance_km: 0.13
+  - name: BAYAMONSUR
+    distance_km: 6.44
+  - name: TOA BAJA
+    distance_km: 6.58
+- country: US
+  region: PR
+  name: Toa Baja
+  lat: '18.4439'
+  long: "-66.2547"
+  nearby_rate_centers:
+  - name: TOA BAJA
+    distance_km: 2.47
+  - name: DORADO
+    distance_km: 2.87
+  - name: TOA ALTA
+    distance_km: 6.3
+- country: US
+  region: PR
+  name: Toaville
+  lat: '18.4438'
+  long: "-66.2431"
+  nearby_rate_centers:
+  - name: TOA BAJA
+    distance_km: 1.25
+  - name: DORADO
+    distance_km: 3.64
+  - name: TOA ALTA
+    distance_km: 6.35
+- country: US
+  region: PR
+  name: !binary |-
+    VG9tw6FzIGRlIENhc3Rybw==
+  lat: '18.1840'
+  long: "-66.0186"
+  nearby_rate_centers:
+  - name: SANLORENZO
+    distance_km: 6.25
+  - name: CAGUAS
+    distance_km: 6.31
+  - name: GURABO
+    distance_km: 9.38
+- country: US
+  region: PR
+  name: Trujillo Alto
+  lat: '18.3599'
+  long: "-66.0096"
+  nearby_rate_centers:
+  - name: CAROLINA
+    distance_km: 0.48
+  - name: TRUJILLOAL
+    distance_km: 1.88
+  - name: RIOPIEDRAS
+    distance_km: 8.95
+- country: US
+  region: PR
+  name: Utuado
+  lat: '18.2700'
+  long: "-66.7048"
+  nearby_rate_centers:
+  - name: UTUADO
+    distance_km: 0.65
+  - name: ADJUNTAS
+    distance_km: 11.57
+  - name: JAYUYA
+    distance_km: 12.99
+- country: US
+  region: PR
+  name: Valle Hill
+  lat: '18.3953'
+  long: "-65.8940"
+  nearby_rate_centers:
+  - name: CANOVANAS
+    distance_km: 2.33
+  - name: RIO GRANDE
+    distance_km: 6.52
+  - name: CAROLINA
+    distance_km: 13.29
+- country: US
+  region: PR
+  name: Vayas
+  lat: '18.0541'
+  long: "-66.5858"
+  nearby_rate_centers:
+  - name: PONCE
+    distance_km: 5.92
+  - name: JUANA DIAZ
+    distance_km: 8.46
+  - name: VILLALBA
+    distance_km: 12.89
+- country: US
+  region: PR
+  name: Vega Alta
+  lat: '18.4151'
+  long: "-66.3211"
+  nearby_rate_centers:
+  - name: VEGA ALTA
+    distance_km: 0.94
+  - name: VEGA BAJA
+    distance_km: 7.7
+  - name: COROZAL
+    distance_km: 7.77
+- country: US
+  region: PR
+  name: Vega Baja
+  lat: '18.4406'
+  long: "-66.3997"
+  nearby_rate_centers:
+  - name: VEGA BAJA
+    distance_km: 1.73
+  - name: VEGA ALTA
+    distance_km: 8.1
+  - name: MANATI
+    distance_km: 9.17
+- country: US
+  region: PR
+  name: Vieques
+  lat: '18.1462'
+  long: "-65.4429"
+  nearby_rate_centers:
+  - name: VIEQUES
+    distance_km: 0.14
+  - name: CULEBRA
+    distance_km: 23.17
+  - name: ROOSEVLTRD
+    distance_km: 23.59
+- country: US
+  region: PR
+  name: Villa Calma
+  lat: '18.4428'
+  long: "-66.2321"
+  nearby_rate_centers:
+  - name: TOA BAJA
+    distance_km: 0.17
+  - name: DORADO
+    distance_km: 4.62
+  - name: LEVITTOWN
+    distance_km: 5.45
+- country: US
+  region: PR
+  name: Villa Esperanza
+  lat: '18.4262'
+  long: "-66.2311"
+  nearby_rate_centers:
+  - name: TOA BAJA
+    distance_km: 1.99
+  - name: TOA ALTA
+    distance_km: 4.85
+  - name: LEVITTOWN
+    distance_km: 5.54
+- country: US
+  region: PR
+  name: Villa Hugo I
+  lat: '18.3976'
+  long: "-65.8908"
+  nearby_rate_centers:
+  - name: CANOVANAS
+    distance_km: 2.72
+  - name: RIO GRANDE
+    distance_km: 6.27
+  - name: CAROLINA
+    distance_km: 13.69
+- country: US
+  region: PR
+  name: Villa Hugo II
+  lat: '18.4000'
+  long: "-65.8928"
+  nearby_rate_centers:
+  - name: CANOVANAS
+    distance_km: 2.86
+  - name: RIO GRANDE
+    distance_km: 6.56
+  - name: CAROLINA
+    distance_km: 13.58
+- country: US
+  region: PR
+  name: Villa Quintero
+  lat: '18.4255'
+  long: "-66.2350"
+  nearby_rate_centers:
+  - name: TOA BAJA
+    distance_km: 2.11
+  - name: TOA ALTA
+    distance_km: 4.61
+  - name: DORADO
+    distance_km: 5.73
+- country: US
+  region: PR
+  name: Villa Sin Miedo
+  lat: '18.2565'
+  long: "-65.8728"
+  nearby_rate_centers:
+  - name: JUNCOS
+    distance_km: 6.08
+  - name: LASPIEDRAS
+    distance_km: 8.48
+  - name: GURABO
+    distance_km: 10.69
+- country: US
+  region: PR
+  name: Villa de Sabana
+  lat: '18.4346'
+  long: "-66.1901"
+  nearby_rate_centers:
+  - name: LEVITTOWN
+    distance_km: 1.15
+  - name: TOA BAJA
+    distance_km: 4.47
+  - name: BAYAMONNOR
+    distance_km: 5.79
+- country: US
+  region: PR
+  name: Villalba
+  lat: '18.1278'
+  long: "-66.4819"
+  nearby_rate_centers:
+  - name: VILLALBA
+    distance_km: 1.0
+  - name: JUANA DIAZ
+    distance_km: 8.48
+  - name: COAMO
+    distance_km: 13.92
+- country: US
+  region: PR
+  name: Villas del Sol
+  lat: '18.4487'
+  long: "-66.2298"
+  nearby_rate_centers:
+  - name: TOA BAJA
+    distance_km: 0.53
+  - name: DORADO
+    distance_km: 4.5
+  - name: LEVITTOWN
+    distance_km: 5.3
+- country: US
+  region: PR
+  name: Voladoras Comunidad
+  lat: '18.3785'
+  long: "-67.0859"
+  nearby_rate_centers:
+  - name: MOCA
+    distance_km: 3.87
+  - name: AGUADILLA
+    distance_km: 7.88
+  - name: SANSBSTIAN
+    distance_km: 10.78
+- country: US
+  region: PR
+  name: !binary |-
+    VsOhenF1ZXo=
+  lat: '18.0684'
+  long: "-66.2331"
+  nearby_rate_centers:
+  - name: CAYEY
+    distance_km: 8.58
+  - name: AIBONITO
+    distance_km: 8.72
+  - name: AGUIRRE
+    distance_km: 10.51
+- country: US
+  region: PR
+  name: Yabucoa
+  lat: '18.0464'
+  long: "-65.8803"
+  nearby_rate_centers:
+  - name: YABUCOA
+    distance_km: 0.59
+  - name: MAUNABO
+    distance_km: 4.78
+  - name: HUMACAO
+    distance_km: 13.32
+- country: US
+  region: PR
+  name: Yauco
+  lat: '18.0344'
+  long: "-66.8615"
+  nearby_rate_centers:
+  - name: YAUCO
+    distance_km: 1.07
+  - name: GUAYANILLA
+    distance_km: 7.55
+  - name: GUANICA
+    distance_km: 8.57
+- country: US
+  region: PR
+  name: Yaurel
+  lat: '18.0300'
+  long: "-66.0560"
+  nearby_rate_centers:
+  - name: ARROYO
+    distance_km: 5.57
+  - name: GUAYAMA
+    distance_km: 7.9
+  - name: CAYEY
+    distance_km: 14.82
+- country: US
+  region: PR
+  name: Yeguada
+  lat: '18.4842'
+  long: "-66.8802"
+  nearby_rate_centers:
+  - name: CAMUY
+    distance_km: 4.12
+  - name: QUEBRADLLS
+    distance_km: 6.08
+  - name: ISABELA
+    distance_km: 15.36

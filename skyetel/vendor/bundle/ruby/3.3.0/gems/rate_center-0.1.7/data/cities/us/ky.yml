@@ -1,0 +1,6636 @@
+---
+cities:
+- country: US
+  region: KY
+  name: Adairville
+  lat: '36.6710'
+  long: "-86.8560"
+  nearby_rate_centers:
+  - name: ADAIRVILLE
+    distance_km: 0.43
+  - name: RUSSELLVL
+    distance_km: 20.22
+  - name: AUBURN
+    distance_km: 24.21
+- country: US
+  region: KY
+  name: Ages
+  lat: '36.8569'
+  long: "-83.2426"
+  nearby_rate_centers:
+  - name: EVARTS
+    distance_km: 4.75
+  - name: HARLAN
+    distance_km: 7.5
+  - name: BLEDSOE
+    distance_km: 11.57
+- country: US
+  region: KY
+  name: Albany
+  lat: '36.6906'
+  long: "-85.1353"
+  nearby_rate_centers:
+  - name: ALBANY
+    distance_km: 0.21
+  - name: BRKSVL RUL
+    distance_km: 23.34
+  - name: BURKESVL
+    distance_km: 23.34
+  - name: MONTICELLO
+    distance_km: 30.58
+- country: US
+  region: KY
+  name: Alexandria
+  lat: '38.9621'
+  long: "-84.3859"
+  nearby_rate_centers:
+  - name: ALEXANDRIA
+    distance_km: 0.55
+  - name: INDEPNDNCE
+    distance_km: 14.44
+  - name: COVINGTON
+    distance_km: 16.96
+- country: US
+  region: KY
+  name: Allen
+  lat: '37.6119'
+  long: "-82.7291"
+  nearby_rate_centers:
+  - name: ALLEN
+    distance_km: 0.54
+  - name: MARTIN
+    distance_km: 5.08
+  - name: PRESTONSBG
+    distance_km: 7.1
+- country: US
+  region: KY
+  name: Allensville
+  lat: '36.7163'
+  long: "-87.0683"
+  nearby_rate_centers:
+  - name: GUTHRIE
+    distance_km: 12.62
+  - name: ELKTON
+    distance_km: 12.76
+  - name: TRENTON
+    distance_km: 16.98
+- country: US
+  region: KY
+  name: Anchorage
+  lat: '38.2689'
+  long: "-85.5364"
+  nearby_rate_centers:
+  - name: SIMPSONVL
+    distance_km: 16.93
+  - name: LOUISVILLE
+    distance_km: 19.64
+  - name: LA GRANGE
+    distance_km: 20.72
+- country: US
+  region: KY
+  name: Annville
+  lat: '37.3254'
+  long: "-83.9621"
+  nearby_rate_centers:
+  - name: MCKEE
+    distance_km: 12.41
+  - name: ANNVILLE
+    distance_km: 13.68
+  - name: EBERNSTADT
+    distance_km: 20.34
+- country: US
+  region: KY
+  name: Anthoston
+  lat: '37.7553'
+  long: "-87.5327"
+  nearby_rate_centers:
+  - name: ROBARDS
+    distance_km: 9.06
+  - name: HENDERSON
+    distance_km: 9.72
+  - name: HEBBARDSVL
+    distance_km: 13.86
+- country: US
+  region: KY
+  name: Arjay
+  lat: '36.8062'
+  long: "-83.6420"
+  nearby_rate_centers:
+  - name: PINEVILLE
+    distance_km: 7.87
+  - name: FLAT LICK
+    distance_km: 11.66
+  - name: WALLINSCRK
+    distance_km: 20.17
+- country: US
+  region: KY
+  name: Arlington
+  lat: '36.7904'
+  long: "-89.0132"
+  nearby_rate_centers:
+  - name: ARLINGTON
+    distance_km: 1.09
+  - name: COLUMBUS
+    distance_km: 8.37
+  - name: BARDWELL
+    distance_km: 9.49
+- country: US
+  region: KY
+  name: Artemus
+  lat: '36.8351'
+  long: "-83.8413"
+  nearby_rate_centers:
+  - name: BARBOURVL
+    distance_km: 4.04
+  - name: FLAT LICK
+    distance_km: 6.45
+  - name: PINEVILLE
+    distance_km: 16.55
+- country: US
+  region: KY
+  name: Ashland
+  lat: '38.4592'
+  long: "-82.6448"
+  nearby_rate_centers:
+  - name: ASHLAND
+    distance_km: 0.87
+  - name: CATLETTSBG
+    distance_km: 6.01
+  - name: MEADS
+    distance_km: 7.74
+- country: US
+  region: KY
+  name: Auburn
+  lat: '36.8654'
+  long: "-86.7110"
+  nearby_rate_centers:
+  - name: AUBURN
+    distance_km: 0.98
+  - name: RUSSELLVL
+    distance_km: 15.4
+  - name: WOODBURN
+    distance_km: 16.09
+- country: US
+  region: KY
+  name: Audubon Park
+  lat: '38.2050'
+  long: "-85.7270"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 5.11
+  - name: ZONETON
+    distance_km: 20.6
+  - name: SHEPHEDSVL
+    distance_km: 23.68
+- country: US
+  region: KY
+  name: Augusta
+  lat: '38.7723'
+  long: "-84.0003"
+  nearby_rate_centers:
+  - name: AUGUSTA
+    distance_km: 0.7
+  - name: DOVER
+    distance_km: 10.44
+  - name: BROOKSVL
+    distance_km: 11.31
+- country: US
+  region: KY
+  name: Auxier
+  lat: '37.7356'
+  long: "-82.7663"
+  nearby_rate_centers:
+  - name: PRESTONSBG
+    distance_km: 7.84
+  - name: PAINTSVL
+    distance_km: 9.69
+  - name: STAFORDSVL
+    distance_km: 13.43
+- country: US
+  region: KY
+  name: Bancroft
+  lat: '38.2832'
+  long: "-85.6129"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 13.5
+  - name: SIMPSONVL
+    distance_km: 23.79
+  - name: LA GRANGE
+    distance_km: 24.66
+- country: US
+  region: KY
+  name: Bandana
+  lat: '37.1447'
+  long: "-88.9418"
+  nearby_rate_centers:
+  - name: BANDANA
+    distance_km: 0.59
+  - name: KEVIL
+    distance_km: 8.05
+  - name: LA CENTER
+    distance_km: 8.21
+- country: US
+  region: KY
+  name: Barbourmeade
+  lat: '38.2986'
+  long: "-85.6009"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 15.11
+  - name: LA GRANGE
+    distance_km: 22.83
+  - name: SIMPSONVL
+    distance_km: 23.31
+- country: US
+  region: KY
+  name: Barbourville
+  lat: '36.8667'
+  long: "-83.8850"
+  nearby_rate_centers:
+  - name: BARBOURVL
+    distance_km: 1.2
+  - name: FLAT LICK
+    distance_km: 11.02
+  - name: CORBIN
+    distance_km: 21.32
+- country: US
+  region: KY
+  name: Bardstown
+  lat: '37.8175'
+  long: "-85.4550"
+  nearby_rate_centers:
+  - name: BARDSTOWN
+    distance_km: 1.45
+  - name: BLOOMFIELD
+    distance_km: 16.33
+  - name: MOORESVL
+    distance_km: 16.64
+- country: US
+  region: KY
+  name: Bardwell
+  lat: '36.8740'
+  long: "-89.0091"
+  nearby_rate_centers:
+  - name: BARDWELL
+    distance_km: 0.39
+  - name: ARLINGTON
+    distance_km: 10.17
+  - name: CUNNINGHAM
+    distance_km: 11.92
+- country: US
+  region: KY
+  name: Barlow
+  lat: '37.0512'
+  long: "-89.0444"
+  nearby_rate_centers:
+  - name: BARLOW
+    distance_km: 0.2
+  - name: LA CENTER
+    distance_km: 6.72
+  - name: WICKLIFFE
+    distance_km: 10.23
+- country: US
+  region: KY
+  name: Beattyville
+  lat: '37.5862'
+  long: "-83.7065"
+  nearby_rate_centers:
+  - name: BEATTYVL
+    distance_km: 1.19
+  - name: BOONEVILLE
+    distance_km: 12.73
+  - name: CAMPTON
+    distance_km: 21.25
+- country: US
+  region: KY
+  name: Beaver Dam
+  lat: '37.4042'
+  long: "-86.8741"
+  nearby_rate_centers:
+  - name: BEAVER DAM
+    distance_km: 0.52
+  - name: HARTFORD
+    distance_km: 5.63
+  - name: CENTERTOWN
+    distance_km: 11.31
+- country: US
+  region: KY
+  name: Bedford
+  lat: '38.5954'
+  long: "-85.3174"
+  nearby_rate_centers:
+  - name: BEDFORD
+    distance_km: 0.44
+  - name: SULPHUR
+    distance_km: 12.24
+  - name: CAMPBELSBG
+    distance_km: 13.06
+- country: US
+  region: KY
+  name: Beech Grove
+  lat: '37.6183'
+  long: "-87.3921"
+  nearby_rate_centers:
+  - name: SEBREE
+    distance_km: 12.65
+  - name: W LOUISVL
+    distance_km: 13.08
+  - name: CALHOUN
+    distance_km: 14.62
+- country: US
+  region: KY
+  name: Beechmont
+  lat: '37.1714'
+  long: "-87.0364"
+  nearby_rate_centers:
+  - name: DRAKESBORO
+    distance_km: 5.17
+  - name: DUNMOR
+    distance_km: 11.52
+  - name: GREENVILLE
+    distance_km: 12.78
+- country: US
+  region: KY
+  name: Beechwood Village
+  lat: '38.2555'
+  long: "-85.6295"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 11.39
+  - name: MTWASHIGTN
+    distance_km: 24.3
+  - name: SIMPSONVL
+    distance_km: 24.61
+- country: US
+  region: KY
+  name: Belfry
+  lat: '37.6194'
+  long: "-82.2684"
+  nearby_rate_centers:
+  - name: STONE
+    distance_km: 4.16
+  - name: SOWILLIMSN
+    distance_km: 4.53
+  - name: MCCARR
+    distance_km: 9.8
+- country: US
+  region: KY
+  name: Bellefonte
+  lat: '38.4949'
+  long: "-82.6911"
+  nearby_rate_centers:
+  - name: RUSSELL
+    distance_km: 3.11
+  - name: ASHLAND
+    distance_km: 5.5
+  - name: MEADS
+    distance_km: 9.11
+- country: US
+  region: KY
+  name: Bellemeade
+  lat: '38.2510'
+  long: "-85.5910"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 14.7
+  - name: SIMPSONVL
+    distance_km: 21.21
+  - name: MTWASHIGTN
+    distance_km: 22.88
+- country: US
+  region: KY
+  name: Belleview
+  lat: '38.9793'
+  long: "-84.8249"
+  nearby_rate_centers:
+  - name: BOONE
+    distance_km: 16.5
+  - name: WALTON
+    distance_km: 21.81
+  - name: WARSAW
+    distance_km: 22.39
+- country: US
+  region: KY
+  name: Bellevue
+  lat: '39.1012'
+  long: "-84.4775"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 3.46
+  - name: ALEXANDRIA
+    distance_km: 17.11
+  - name: BOONE
+    distance_km: 17.69
+- country: US
+  region: KY
+  name: Bellewood
+  lat: '38.2608'
+  long: "-85.6594"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 8.91
+  - name: MTWASHIGTN
+    distance_km: 25.84
+  - name: ZONETON
+    distance_km: 26.64
+- country: US
+  region: KY
+  name: Benham
+  lat: '36.9652'
+  long: "-82.9544"
+  nearby_rate_centers:
+  - name: CUMBERLAND
+    distance_km: 3.57
+  - name: BENHAMLNCH
+    distance_km: 4.38
+  - name: WHITESBURG
+    distance_km: 20.39
+- country: US
+  region: KY
+  name: Benton
+  lat: '36.8479'
+  long: "-88.3602"
+  nearby_rate_centers:
+  - name: BENTON
+    distance_km: 2.04
+  - name: HARDIN
+    distance_km: 10.37
+  - name: FAIRDEALNG
+    distance_km: 10.58
+- country: US
+  region: KY
+  name: Berea
+  lat: '37.5904'
+  long: "-84.2898"
+  nearby_rate_centers:
+  - name: BEREA
+    distance_km: 1.85
+  - name: PAINT LICK
+    distance_km: 11.7
+  - name: KIRKSVILLE
+    distance_km: 13.46
+- country: US
+  region: KY
+  name: Berry
+  lat: '38.5205'
+  long: "-84.3837"
+  nearby_rate_centers:
+  - name: CYNTHIANA
+    distance_km: 16.4
+  - name: FALMOUTH
+    distance_km: 17.51
+  - name: SADIEVILLE
+    distance_km: 19.42
+- country: US
+  region: KY
+  name: Betsy Layne
+  lat: '37.5541'
+  long: "-82.6263"
+  nearby_rate_centers:
+  - name: HAROLD
+    distance_km: 0.64
+  - name: GRETHEL
+    distance_km: 7.36
+  - name: ALLEN
+    distance_km: 11.34
+- country: US
+  region: KY
+  name: Big Clifty
+  lat: '37.5442'
+  long: "-86.1514"
+  nearby_rate_centers:
+  - name: CLARKSON
+    distance_km: 8.59
+  - name: LEITCHFLD
+    distance_km: 14.61
+  - name: CECILIA
+    distance_km: 21.87
+- country: US
+  region: KY
+  name: Blackey
+  lat: '37.1390'
+  long: "-82.9811"
+  nearby_rate_centers:
+  - name: CODY
+    distance_km: 9.65
+  - name: VICCO
+    distance_km: 11.92
+  - name: WHITESBURG
+    distance_km: 13.85
+- country: US
+  region: KY
+  name: Blaine
+  lat: '38.0272'
+  long: "-82.8413"
+  nearby_rate_centers:
+  - name: BLAINE
+    distance_km: 0.33
+  - name: FLAT GAP
+    distance_km: 11.61
+  - name: CHAPMAN
+    distance_km: 19.71
+- country: US
+  region: KY
+  name: Blandville
+  lat: '36.9441'
+  long: "-88.9646"
+  nearby_rate_centers:
+  - name: GAGE
+    distance_km: 8.14
+  - name: CUNNINGHAM
+    distance_km: 8.38
+  - name: BARDWELL
+    distance_km: 8.43
+- country: US
+  region: KY
+  name: Bloomfield
+  lat: '37.9122'
+  long: "-85.3140"
+  nearby_rate_centers:
+  - name: BLOOMFIELD
+    distance_km: 0.5
+  - name: CHAPLIN
+    distance_km: 7.91
+  - name: MOORESVL
+    distance_km: 13.29
+- country: US
+  region: KY
+  name: Blue Ridge Manor
+  lat: '38.2434'
+  long: "-85.5647"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 16.97
+  - name: SIMPSONVL
+    distance_km: 18.83
+  - name: MTWASHIGTN
+    distance_km: 21.67
+- country: US
+  region: KY
+  name: Bonnieville
+  lat: '37.3774'
+  long: "-85.9015"
+  nearby_rate_centers:
+  - name: BONNIEVL
+    distance_km: 1.19
+  - name: MUNFORDVL
+    distance_km: 12.27
+  - name: MAGNOLIA
+    distance_km: 15.62
+- country: US
+  region: KY
+  name: Booneville
+  lat: '37.4702'
+  long: "-83.6828"
+  nearby_rate_centers:
+  - name: BOONEVILLE
+    distance_km: 0.96
+  - name: BEATTYVL
+    distance_km: 11.9
+  - name: ANNVILLE
+    distance_km: 20.14
+- country: US
+  region: KY
+  name: Boston
+  lat: '37.7837'
+  long: "-85.6804"
+  nearby_rate_centers:
+  - name: LEBANONJCT
+    distance_km: 7.19
+  - name: NEW HAVEN
+    distance_km: 15.07
+  - name: ELIZABTHTN
+    distance_km: 18.12
+- country: US
+  region: KY
+  name: Bowling Green
+  lat: '36.9716'
+  long: "-86.4378"
+  nearby_rate_centers:
+  - name: BOWLNGGREN
+    distance_km: 3.07
+  - name: WOODBURN
+    distance_km: 16.83
+  - name: SMITHS GRV
+    distance_km: 22.18
+- country: US
+  region: KY
+  name: Bradfordsville
+  lat: '37.4943'
+  long: "-85.1481"
+  nearby_rate_centers:
+  - name: BRADFODSVL
+    distance_km: 0.32
+  - name: LEBANON
+    distance_km: 12.22
+  - name: SPRINGFLD
+    distance_km: 21.64
+- country: US
+  region: KY
+  name: Brandenburg
+  lat: '37.9956'
+  long: "-86.1773"
+  nearby_rate_centers:
+  - name: BRANDENBG
+    distance_km: 0.58
+  - name: NO GARRETT
+    distance_km: 11.1
+  - name: BATTLETOWN
+    distance_km: 12.96
+- country: US
+  region: KY
+  name: Breckinridge Center
+  lat: '37.6820'
+  long: "-87.8656"
+  nearby_rate_centers:
+  - name: MORGANFLD
+    distance_km: 4.57
+  - name: UNIONTOWN
+    distance_km: 11.88
+  - name: CORYDON
+    distance_km: 16.27
+- country: US
+  region: KY
+  name: Bremen
+  lat: '37.3623'
+  long: "-87.2201"
+  nearby_rate_centers:
+  - name: BREMEN
+    distance_km: 0.68
+  - name: SACRAMENTO
+    distance_km: 6.72
+  - name: CENTRAL CY
+    distance_km: 10.9
+- country: US
+  region: KY
+  name: Briarwood
+  lat: '38.2780'
+  long: "-85.5926"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 15.03
+  - name: SIMPSONVL
+    distance_km: 21.93
+  - name: LA GRANGE
+    distance_km: 23.58
+- country: US
+  region: KY
+  name: Brodhead
+  lat: '37.4027'
+  long: "-84.4144"
+  nearby_rate_centers:
+  - name: BRODHEAD
+    distance_km: 0.59
+  - name: MT VERNON
+    distance_km: 8.84
+  - name: CRAB ORCH
+    distance_km: 10.1
+- country: US
+  region: KY
+  name: Broeck Pointe
+  lat: '38.2955'
+  long: "-85.5857"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 16.2
+  - name: LA GRANGE
+    distance_km: 21.93
+  - name: SIMPSONVL
+    distance_km: 21.94
+- country: US
+  region: KY
+  name: Bromley
+  lat: '39.0801'
+  long: "-84.5629"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 4.71
+  - name: BOONE
+    distance_km: 10.89
+  - name: INDEPNDNCE
+    distance_km: 15.52
+- country: US
+  region: KY
+  name: Brooks
+  lat: '38.0656'
+  long: "-85.7177"
+  nearby_rate_centers:
+  - name: ZONETON
+    distance_km: 5.48
+  - name: SHEPHEDSVL
+    distance_km: 8.16
+  - name: MTWASHIGTN
+    distance_km: 16.06
+- country: US
+  region: KY
+  name: Brooksville
+  lat: '38.6818'
+  long: "-84.0665"
+  nearby_rate_centers:
+  - name: BROOKSVL
+    distance_km: 0.38
+  - name: GERMANTOWN
+    distance_km: 9.2
+  - name: JOHNSVILLE
+    distance_km: 11.16
+- country: US
+  region: KY
+  name: Brownsboro Farm
+  lat: '38.3040'
+  long: "-85.5946"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 15.86
+  - name: LA GRANGE
+    distance_km: 22.05
+  - name: SIMPSONVL
+    distance_km: 23.01
+- country: US
+  region: KY
+  name: Brownsboro Village
+  lat: '38.2629'
+  long: "-85.6659"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 8.42
+  - name: MTWASHIGTN
+    distance_km: 26.29
+  - name: ZONETON
+    distance_km: 26.83
+- country: US
+  region: KY
+  name: Brownsville
+  lat: '37.1952'
+  long: "-86.2691"
+  nearby_rate_centers:
+  - name: BROWNSVL
+    distance_km: 0.31
+  - name: BEE SPRING
+    distance_km: 6.26
+  - name: MAMOTHCAVE
+    distance_km: 15.12
+- country: US
+  region: KY
+  name: Buckhorn
+  lat: '37.3461'
+  long: "-83.4695"
+  nearby_rate_centers:
+  - name: BUCKHORN
+    distance_km: 8.4
+  - name: CANOE
+    distance_km: 11.26
+  - name: ONEIDA
+    distance_km: 18.35
+- country: US
+  region: KY
+  name: Buckner
+  lat: '38.3903'
+  long: "-85.4535"
+  nearby_rate_centers:
+  - name: LA GRANGE
+    distance_km: 6.7
+  - name: SULPHUR
+    distance_km: 19.03
+  - name: SIMPSONVL
+    distance_km: 20.3
+- country: US
+  region: KY
+  name: Buffalo
+  lat: '37.5081'
+  long: "-85.6992"
+  nearby_rate_centers:
+  - name: BUFFALO
+    distance_km: 0.77
+  - name: HODGENVL
+    distance_km: 8.43
+  - name: MAGNOLIA
+    distance_km: 8.5
+- country: US
+  region: KY
+  name: Burgin
+  lat: '37.7543'
+  long: "-84.7632"
+  nearby_rate_centers:
+  - name: BURGIN
+    distance_km: 0.76
+  - name: HARRODSBG
+    distance_km: 7.85
+  - name: BRYANTSVL
+    distance_km: 10.57
+- country: US
+  region: KY
+  name: Burkesville
+  lat: '36.7906'
+  long: "-85.3675"
+  nearby_rate_centers:
+  - name: BRKSVL RUL
+    distance_km: 0.2
+  - name: BURKESVL
+    distance_km: 0.2
+  - name: FAIRPLAY
+    distance_km: 22.77
+  - name: ALBANY
+    distance_km: 23.62
+- country: US
+  region: KY
+  name: Burlington
+  lat: '39.0223'
+  long: "-84.7217"
+  nearby_rate_centers:
+  - name: BOONE
+    distance_km: 7.8
+  - name: INDEPNDNCE
+    distance_km: 17.34
+  - name: WALTON
+    distance_km: 19.54
+- country: US
+  region: KY
+  name: Burna
+  lat: '37.2456'
+  long: "-88.3589"
+  nearby_rate_centers:
+  - name: SALEM
+    distance_km: 10.77
+  - name: SMITHLAND
+    distance_km: 12.32
+  - name: CALVERT CY
+    distance_km: 23.8
+- country: US
+  region: KY
+  name: Burnside
+  lat: '37.0042'
+  long: "-84.6489"
+  nearby_rate_centers:
+  - name: BURNSIDE
+    distance_km: 4.49
+  - name: SOMERSET
+    distance_km: 10.49
+  - name: NANCY
+    distance_km: 11.05
+- country: US
+  region: KY
+  name: Butler
+  lat: '38.7877'
+  long: "-84.3720"
+  nearby_rate_centers:
+  - name: BUTLER
+    distance_km: 0.56
+  - name: FALMOUTH
+    distance_km: 13.16
+  - name: JOHNSVILLE
+    distance_km: 19.64
+- country: US
+  region: KY
+  name: Cadiz
+  lat: '36.8695'
+  long: "-87.8048"
+  nearby_rate_centers:
+  - name: CADIZ
+    distance_km: 2.51
+  - name: GRACEY
+    distance_km: 12.35
+  - name: CANTON
+    distance_km: 16.7
+- country: US
+  region: KY
+  name: Calhoun
+  lat: '37.5411'
+  long: "-87.2596"
+  nearby_rate_centers:
+  - name: CALHOUN
+    distance_km: 0.16
+  - name: PANTHER
+    distance_km: 11.63
+  - name: LIVERMORE
+    distance_km: 12.39
+- country: US
+  region: KY
+  name: California
+  lat: '38.9184'
+  long: "-84.2636"
+  nearby_rate_centers:
+  - name: ALEXANDRIA
+    distance_km: 11.57
+  - name: BUTLER
+    distance_km: 17.45
+  - name: JOHNSVILLE
+    distance_km: 20.32
+- country: US
+  region: KY
+  name: Calvert City
+  lat: '37.0294'
+  long: "-88.3602"
+  nearby_rate_centers:
+  - name: CALVERT CY
+    distance_km: 0.76
+  - name: GILBERTSVL
+    distance_km: 7.23
+  - name: SMITHLAND
+    distance_km: 12.72
+- country: US
+  region: KY
+  name: Camargo
+  lat: '37.9970'
+  long: "-83.8926"
+  nearby_rate_centers:
+  - name: MTSTERLING
+    distance_km: 8.1
+  - name: STANTON
+    distance_km: 16.93
+  - name: OWINGSVL
+    distance_km: 19.53
+- country: US
+  region: KY
+  name: Cambridge
+  lat: '38.2218'
+  long: "-85.6171"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 12.63
+  - name: MTWASHIGTN
+    distance_km: 20.41
+  - name: ZONETON
+    distance_km: 23.04
+- country: US
+  region: KY
+  name: Campbellsburg
+  lat: '38.5220'
+  long: "-85.2195"
+  nearby_rate_centers:
+  - name: CAMPBELSBG
+    distance_km: 1.9
+  - name: SULPHUR
+    distance_km: 6.06
+  - name: BEDFORD
+    distance_km: 12.18
+- country: US
+  region: KY
+  name: Campbellsville
+  lat: '37.3445'
+  long: "-85.3511"
+  nearby_rate_centers:
+  - name: CAMPBELSVL
+    distance_km: 0.75
+  - name: GREENSBURG
+    distance_km: 15.64
+  - name: BRADFODSVL
+    distance_km: 24.15
+- country: US
+  region: KY
+  name: Campton
+  lat: '37.7353'
+  long: "-83.5473"
+  nearby_rate_centers:
+  - name: CAMPTON
+    distance_km: 0.46
+  - name: HAZELGREEN
+    distance_km: 13.47
+  - name: EZEL
+    distance_km: 19.85
+- country: US
+  region: KY
+  name: Caneyville
+  lat: '37.4241'
+  long: "-86.4906"
+  nearby_rate_centers:
+  - name: CANEYVILLE
+    distance_km: 0.19
+  - name: LEITCHFLD
+    distance_km: 18.2
+  - name: MCDANIELS
+    distance_km: 21.22
+- country: US
+  region: KY
+  name: Cannonsburg
+  lat: '38.3806'
+  long: "-82.7006"
+  nearby_rate_centers:
+  - name: MEADS
+    distance_km: 3.96
+  - name: CATLETTSBG
+    distance_km: 9.39
+  - name: ASHLAND
+    distance_km: 10.87
+- country: US
+  region: KY
+  name: Carlisle
+  lat: '38.3163'
+  long: "-84.0333"
+  nearby_rate_centers:
+  - name: CARLISLE
+    distance_km: 0.85
+  - name: MILLERBURG
+    distance_km: 9.53
+  - name: LITTLEROCK
+    distance_km: 13.3
+- country: US
+  region: KY
+  name: Carrollton
+  lat: '38.6799'
+  long: "-85.1658"
+  nearby_rate_centers:
+  - name: CARROLLTON
+    distance_km: 0.48
+  - name: GHENT
+    distance_km: 10.89
+  - name: PORT ROYAL
+    distance_km: 15.74
+- country: US
+  region: KY
+  name: Carrsville
+  lat: '37.3981'
+  long: "-88.3754"
+  nearby_rate_centers:
+  - name: SALEM
+    distance_km: 18.97
+  - name: MARION
+    distance_km: 26.56
+  - name: SMITHLAND
+    distance_km: 28.83
+- country: US
+  region: KY
+  name: Catlettsburg
+  lat: '38.4190'
+  long: "-82.6025"
+  nearby_rate_centers:
+  - name: CATLETTSBG
+    distance_km: 0.3
+  - name: ASHLAND
+    distance_km: 6.16
+  - name: MEADS
+    distance_km: 9.66
+- country: US
+  region: KY
+  name: Cave City
+  lat: '37.1400'
+  long: "-85.9646"
+  nearby_rate_centers:
+  - name: CAVE CITY
+    distance_km: 0.64
+  - name: HORSE CAVE
+    distance_km: 6.75
+  - name: PARK CITY
+    distance_km: 9.31
+- country: US
+  region: KY
+  name: Cawood
+  lat: '36.7878'
+  long: "-83.2284"
+  nearby_rate_centers:
+  - name: EVARTS
+    distance_km: 9.59
+  - name: HARLAN
+    distance_km: 10.42
+  - name: WALLINSCRK
+    distance_km: 17.55
+- country: US
+  region: KY
+  name: Cayce
+  lat: '36.5577'
+  long: "-89.0349"
+  nearby_rate_centers:
+  - name: CAYCE
+    distance_km: 0.43
+  - name: JORDAN
+    distance_km: 5.75
+  - name: CLINTON
+    distance_km: 12.8
+- country: US
+  region: KY
+  name: Cecilia
+  lat: '37.6622'
+  long: "-85.9522"
+  nearby_rate_centers:
+  - name: CECILIA
+    distance_km: 0.56
+  - name: ELIZABTHTN
+    distance_km: 9.34
+  - name: SO HARDIN
+    distance_km: 15.8
+- country: US
+  region: KY
+  name: Centertown
+  lat: '37.4177'
+  long: "-86.9959"
+  nearby_rate_centers:
+  - name: CENTERTOWN
+    distance_km: 0.52
+  - name: HARTFORD
+    distance_km: 9.27
+  - name: BEAVER DAM
+    distance_km: 10.71
+- country: US
+  region: KY
+  name: Central City
+  lat: '37.2963'
+  long: "-87.1280"
+  nearby_rate_centers:
+  - name: CENTRAL CY
+    distance_km: 0.62
+  - name: BREMEN
+    distance_km: 10.37
+  - name: GREENVILLE
+    distance_km: 10.72
+- country: US
+  region: KY
+  name: Cerulean
+  lat: '36.9552'
+  long: "-87.7089"
+  nearby_rate_centers:
+  - name: GRACEY
+    distance_km: 9.85
+  - name: CADIZ
+    distance_km: 14.83
+  - name: HOPKINSVL
+    distance_km: 21.87
+- country: US
+  region: KY
+  name: Chaplin
+  lat: '37.8996'
+  long: "-85.2196"
+  nearby_rate_centers:
+  - name: CHAPLIN
+    distance_km: 1.1
+  - name: BLOOMFIELD
+    distance_km: 8.74
+  - name: MOORESVL
+    distance_km: 11.99
+- country: US
+  region: KY
+  name: Clarkson
+  lat: '37.4937'
+  long: "-86.2259"
+  nearby_rate_centers:
+  - name: CLARKSON
+    distance_km: 0.11
+  - name: LEITCHFLD
+    distance_km: 6.53
+  - name: MCDANIELS
+    distance_km: 21.66
+- country: US
+  region: KY
+  name: Claryville
+  lat: '38.9140'
+  long: "-84.4095"
+  nearby_rate_centers:
+  - name: ALEXANDRIA
+    distance_km: 6.26
+  - name: INDEPNDNCE
+    distance_km: 12.57
+  - name: BUTLER
+    distance_km: 14.91
+- country: US
+  region: KY
+  name: Clay
+  lat: '37.4763'
+  long: "-87.8202"
+  nearby_rate_centers:
+  - name: CLAY
+    distance_km: 1.02
+  - name: PROVIDENCE
+    distance_km: 10.35
+  - name: DIXON
+    distance_km: 12.1
+- country: US
+  region: KY
+  name: Clay City
+  lat: '37.8622'
+  long: "-83.9277"
+  nearby_rate_centers:
+  - name: STANTON
+    distance_km: 7.16
+  - name: IRVINE
+    distance_km: 19.93
+  - name: MTSTERLING
+    distance_km: 21.83
+- country: US
+  region: KY
+  name: Cleaton
+  lat: '37.2517'
+  long: "-87.0902"
+  nearby_rate_centers:
+  - name: DRAKESBORO
+    distance_km: 5.29
+  - name: CENTRAL CY
+    distance_km: 6.24
+  - name: GREENVILLE
+    distance_km: 8.9
+- country: US
+  region: KY
+  name: Clinton
+  lat: '36.6663'
+  long: "-88.9938"
+  nearby_rate_centers:
+  - name: CLINTON
+    distance_km: 0.44
+  - name: CAYCE
+    distance_km: 12.32
+  - name: ARLINGTON
+    distance_km: 12.97
+- country: US
+  region: KY
+  name: Cloverport
+  lat: '37.8311'
+  long: "-86.6304"
+  nearby_rate_centers:
+  - name: CLOVERPORT
+    distance_km: 0.41
+  - name: HAWESVILLE
+    distance_km: 13.23
+  - name: HARDINSBG
+    distance_km: 16.18
+- country: US
+  region: KY
+  name: Coal Run Village
+  lat: '37.5372'
+  long: "-82.5577"
+  nearby_rate_centers:
+  - name: PIKEVILLE
+    distance_km: 6.61
+  - name: HAROLD
+    distance_km: 6.98
+  - name: GRETHEL
+    distance_km: 10.25
+- country: US
+  region: KY
+  name: Cold Spring
+  lat: '39.0130'
+  long: "-84.4350"
+  nearby_rate_centers:
+  - name: ALEXANDRIA
+    distance_km: 6.91
+  - name: COVINGTON
+    distance_km: 9.89
+  - name: INDEPNDNCE
+    distance_km: 12.82
+- country: US
+  region: KY
+  name: Coldiron
+  lat: '36.8286'
+  long: "-83.4524"
+  nearby_rate_centers:
+  - name: WALLINSCRK
+    distance_km: 3.11
+  - name: HARLAN
+    distance_km: 11.46
+  - name: BLEDSOE
+    distance_km: 13.45
+- country: US
+  region: KY
+  name: Coldstream
+  lat: '38.3144'
+  long: "-85.5264"
+  nearby_rate_centers:
+  - name: LA GRANGE
+    distance_km: 16.54
+  - name: SIMPSONVL
+    distance_km: 18.22
+  - name: LOUISVILLE
+    distance_km: 21.79
+- country: US
+  region: KY
+  name: Columbia
+  lat: '37.1036'
+  long: "-85.3073"
+  nearby_rate_centers:
+  - name: COLUMBIA
+    distance_km: 0.97
+  - name: FAIRPLAY
+    distance_km: 12.5
+  - name: RUSSELLSPG
+    distance_km: 20.76
+- country: US
+  region: KY
+  name: Columbus
+  lat: '36.7596'
+  long: "-89.1020"
+  nearby_rate_centers:
+  - name: COLUMBUS
+    distance_km: 0.38
+  - name: ARLINGTON
+    distance_km: 8.93
+  - name: CLINTON
+    distance_km: 14.43
+- country: US
+  region: KY
+  name: Combs
+  lat: '37.2683'
+  long: "-83.2148"
+  nearby_rate_centers:
+  - name: HAZARD
+    distance_km: 3.01
+  - name: DWARF
+    distance_km: 11.26
+  - name: WOOTON
+    distance_km: 12.21
+- country: US
+  region: KY
+  name: Concord
+  lat: '38.6876'
+  long: "-83.4915"
+  nearby_rate_centers:
+  - name: TOLLESBORO
+    distance_km: 15.88
+  - name: VANCEBURG
+    distance_km: 18.7
+  - name: MAYSVILLE
+    distance_km: 24.34
+- country: US
+  region: KY
+  name: Corbin
+  lat: '36.9323'
+  long: "-84.1006"
+  nearby_rate_centers:
+  - name: CORBIN
+    distance_km: 1.92
+  - name: BARBOURVL
+    distance_km: 21.66
+  - name: WILLIAMSBG
+    distance_km: 21.78
+- country: US
+  region: KY
+  name: Corinth
+  lat: '38.4997'
+  long: "-84.6031"
+  nearby_rate_centers:
+  - name: SADIEVILLE
+    distance_km: 13.48
+  - name: WILLIAMSTN
+    distance_km: 16.28
+  - name: OWENTON
+    distance_km: 21.34
+- country: US
+  region: KY
+  name: Corydon
+  lat: '37.7403'
+  long: "-87.7063"
+  nearby_rate_centers:
+  - name: CORYDON
+    distance_km: 1.12
+  - name: HENDERSON
+    distance_km: 15.25
+  - name: ROBARDS
+    distance_km: 15.68
+- country: US
+  region: KY
+  name: Covington
+  lat: '39.0334'
+  long: "-84.5166"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 5.37
+  - name: INDEPNDNCE
+    distance_km: 10.7
+  - name: BOONE
+    distance_km: 10.95
+- country: US
+  region: KY
+  name: Coxton
+  lat: '36.8581'
+  long: "-83.2681"
+  nearby_rate_centers:
+  - name: HARLAN
+    distance_km: 5.37
+  - name: EVARTS
+    distance_km: 6.93
+  - name: BLEDSOE
+    distance_km: 9.71
+- country: US
+  region: KY
+  name: Crab Orchard
+  lat: '37.4627'
+  long: "-84.5067"
+  nearby_rate_centers:
+  - name: CRAB ORCH
+    distance_km: 0.81
+  - name: BRODHEAD
+    distance_km: 10.11
+  - name: STANFORD
+    distance_km: 15.48
+- country: US
+  region: KY
+  name: Crayne
+  lat: '37.2762'
+  long: "-88.0839"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 6.22
+  - name: FREDONIA
+    distance_km: 7.79
+  - name: SALEM
+    distance_km: 13.85
+- country: US
+  region: KY
+  name: Creekside
+  lat: '38.2914'
+  long: "-85.5701"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 17.34
+  - name: SIMPSONVL
+    distance_km: 20.51
+  - name: LA GRANGE
+    distance_km: 21.12
+- country: US
+  region: KY
+  name: Crescent Springs
+  lat: '39.0553'
+  long: "-84.5787"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 6.73
+  - name: BOONE
+    distance_km: 7.86
+  - name: INDEPNDNCE
+    distance_km: 12.95
+- country: US
+  region: KY
+  name: Crestview
+  lat: '39.0246'
+  long: "-84.4157"
+  nearby_rate_centers:
+  - name: ALEXANDRIA
+    distance_km: 7.1
+  - name: COVINGTON
+    distance_km: 10.18
+  - name: INDEPNDNCE
+    distance_km: 14.93
+- country: US
+  region: KY
+  name: Crestview Hills
+  lat: '39.0249'
+  long: "-84.5695"
+  nearby_rate_centers:
+  - name: BOONE
+    distance_km: 6.36
+  - name: COVINGTON
+    distance_km: 8.2
+  - name: INDEPNDNCE
+    distance_km: 9.49
+- country: US
+  region: KY
+  name: Crestwood
+  lat: '38.3355'
+  long: "-85.4839"
+  nearby_rate_centers:
+  - name: LA GRANGE
+    distance_km: 12.21
+  - name: SIMPSONVL
+    distance_km: 16.81
+  - name: SULPHUR
+    distance_km: 24.98
+- country: US
+  region: KY
+  name: Crittenden
+  lat: '38.7755'
+  long: "-84.6137"
+  nearby_rate_centers:
+  - name: WALTON
+    distance_km: 10.02
+  - name: WILLIAMSTN
+    distance_km: 15.55
+  - name: GLENCOE
+    distance_km: 18.89
+- country: US
+  region: KY
+  name: Crofton
+  lat: '37.0477'
+  long: "-87.4842"
+  nearby_rate_centers:
+  - name: CROFTON
+    distance_km: 0.49
+  - name: BLUFF SPG
+    distance_km: 16.45
+  - name: NORTONVL
+    distance_km: 16.55
+- country: US
+  region: KY
+  name: Crossgate
+  lat: '38.2793'
+  long: "-85.6296"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 11.98
+  - name: SIMPSONVL
+    distance_km: 25.09
+  - name: LA GRANGE
+    distance_km: 26.11
+- country: US
+  region: KY
+  name: Cumberland
+  lat: '36.9824'
+  long: "-82.9920"
+  nearby_rate_centers:
+  - name: CUMBERLAND
+    distance_km: 0.6
+  - name: BENHAMLNCH
+    distance_km: 7.88
+  - name: LEATHERWD
+    distance_km: 17.98
+- country: US
+  region: KY
+  name: Cunningham
+  lat: '36.9081'
+  long: "-88.8869"
+  nearby_rate_centers:
+  - name: CUNNINGHAM
+    distance_km: 0.44
+  - name: GAGE
+    distance_km: 9.2
+  - name: LOWES
+    distance_km: 10.32
+- country: US
+  region: KY
+  name: Curdsville
+  lat: '37.7353'
+  long: "-87.3327"
+  nearby_rate_centers:
+  - name: HEBBARDSVL
+    distance_km: 5.87
+  - name: W LOUISVL
+    distance_km: 5.94
+  - name: SORGHO
+    distance_km: 7.65
+- country: US
+  region: KY
+  name: Cynthiana
+  lat: '38.3860'
+  long: "-84.2992"
+  nearby_rate_centers:
+  - name: CYNTHIANA
+    distance_km: 1.07
+  - name: MILLERBURG
+    distance_km: 16.14
+  - name: PARIS
+    distance_km: 20.15
+- country: US
+  region: KY
+  name: Danville
+  lat: '37.6418'
+  long: "-84.7777"
+  nearby_rate_centers:
+  - name: DANVILLE
+    distance_km: 1.05
+  - name: JUNCTIONCY
+    distance_km: 6.78
+  - name: BURGIN
+    distance_km: 12.0
+- country: US
+  region: KY
+  name: Dawson Springs
+  lat: '37.1740'
+  long: "-87.6880"
+  nearby_rate_centers:
+  - name: DAWSON SPG
+    distance_km: 0.18
+  - name: ST CHARLES
+    distance_km: 11.57
+  - name: PRINCETON
+    distance_km: 18.44
+- country: US
+  region: KY
+  name: Dayton
+  lat: '39.1127'
+  long: "-84.4639"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 5.18
+  - name: ALEXANDRIA
+    distance_km: 17.74
+  - name: BOONE
+    distance_km: 19.41
+- country: US
+  region: KY
+  name: Dexter
+  lat: '36.7397'
+  long: "-88.2956"
+  nearby_rate_centers:
+  - name: HARDIN
+    distance_km: 3.07
+  - name: KIRKSEY
+    distance_km: 10.32
+  - name: AURORA
+    distance_km: 12.18
+- country: US
+  region: KY
+  name: Diablock
+  lat: '37.2295'
+  long: "-83.1709"
+  nearby_rate_centers:
+  - name: HAZARD
+    distance_km: 2.8
+  - name: VICCO
+    distance_km: 9.63
+  - name: WOOTON
+    distance_km: 12.63
+- country: US
+  region: KY
+  name: Dixon
+  lat: '37.5134'
+  long: "-87.6959"
+  nearby_rate_centers:
+  - name: DIXON
+    distance_km: 0.43
+  - name: CLAY
+    distance_km: 11.16
+  - name: PROVIDENCE
+    distance_km: 13.99
+- country: US
+  region: KY
+  name: Doe Valley
+  lat: '37.9745'
+  long: "-86.1107"
+  nearby_rate_centers:
+  - name: BRANDENBG
+    distance_km: 5.81
+  - name: NO GARRETT
+    distance_km: 7.63
+  - name: WEST POINT
+    distance_km: 14.19
+- country: US
+  region: KY
+  name: Douglass Hills
+  lat: '38.2367'
+  long: "-85.5499"
+  nearby_rate_centers:
+  - name: SIMPSONVL
+    distance_km: 17.49
+  - name: LOUISVILLE
+    distance_km: 18.28
+  - name: MTWASHIGTN
+    distance_km: 20.81
+- country: US
+  region: KY
+  name: Dover
+  lat: '38.7563'
+  long: "-83.8844"
+  nearby_rate_centers:
+  - name: DOVER
+    distance_km: 0.68
+  - name: FERNLEAF
+    distance_km: 8.58
+  - name: AUGUSTA
+    distance_km: 10.88
+- country: US
+  region: KY
+  name: Drakesboro
+  lat: '37.2177'
+  long: "-87.0492"
+  nearby_rate_centers:
+  - name: DRAKESBORO
+    distance_km: 0.12
+  - name: GREENVILLE
+    distance_km: 11.08
+  - name: CENTRAL CY
+    distance_km: 11.38
+- country: US
+  region: KY
+  name: Druid Hills
+  lat: '38.2649'
+  long: "-85.6617"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 8.83
+  - name: MTWASHIGTN
+    distance_km: 26.33
+  - name: ZONETON
+    distance_km: 27.08
+- country: US
+  region: KY
+  name: Dry Ridge
+  lat: '38.6838'
+  long: "-84.6005"
+  nearby_rate_centers:
+  - name: WILLIAMSTN
+    distance_km: 5.83
+  - name: GLENCOE
+    distance_km: 19.14
+  - name: WALTON
+    distance_km: 20.27
+- country: US
+  region: KY
+  name: Dunmor
+  lat: '37.0753'
+  long: "-86.9951"
+  nearby_rate_centers:
+  - name: DUNMOR
+    distance_km: 0.26
+  - name: LEWISBRG
+    distance_km: 10.78
+  - name: DRAKESBORO
+    distance_km: 16.45
+- country: US
+  region: KY
+  name: Dwale
+  lat: '37.6253'
+  long: "-82.7277"
+  nearby_rate_centers:
+  - name: ALLEN
+    distance_km: 1.86
+  - name: PRESTONSBG
+    distance_km: 5.99
+  - name: MARTIN
+    distance_km: 6.43
+- country: US
+  region: KY
+  name: Earlington
+  lat: '37.2754'
+  long: "-87.5066"
+  nearby_rate_centers:
+  - name: EARLINGTON
+    distance_km: 0.06
+  - name: MORTONSGAP
+    distance_km: 4.88
+  - name: MADISONVL
+    distance_km: 6.69
+- country: US
+  region: KY
+  name: East Bernstadt
+  lat: '37.1923'
+  long: "-84.1209"
+  nearby_rate_centers:
+  - name: EBERNSTADT
+    distance_km: 0.17
+  - name: LONDON
+    distance_km: 7.5
+  - name: LIVINGSTON
+    distance_km: 15.23
+- country: US
+  region: KY
+  name: Eddyville
+  lat: '37.0759'
+  long: "-88.0770"
+  nearby_rate_centers:
+  - name: EDDYVILLE
+    distance_km: 3.07
+  - name: FREDONIA
+    distance_km: 15.01
+  - name: PRINCETON
+    distance_km: 17.78
+- country: US
+  region: KY
+  name: Edgewood
+  lat: '39.0092'
+  long: "-84.5604"
+  nearby_rate_centers:
+  - name: BOONE
+    distance_km: 6.6
+  - name: INDEPNDNCE
+    distance_km: 7.65
+  - name: COVINGTON
+    distance_km: 9.19
+- country: US
+  region: KY
+  name: Edmonton
+  lat: '36.9854'
+  long: "-85.6192"
+  nearby_rate_centers:
+  - name: EDMONTON
+    distance_km: 1.32
+  - name: SUMMERSHAD
+    distance_km: 14.01
+  - name: CENTER
+    distance_km: 18.77
+- country: US
+  region: KY
+  name: Ekron
+  lat: '37.9303'
+  long: "-86.1764"
+  nearby_rate_centers:
+  - name: NO GARRETT
+    distance_km: 5.57
+  - name: BRANDENBG
+    distance_km: 7.39
+  - name: IRVINGTON
+    distance_km: 10.76
+- country: US
+  region: KY
+  name: Elizabethtown
+  lat: '37.7031'
+  long: "-85.8773"
+  nearby_rate_centers:
+  - name: ELIZABTHTN
+    distance_km: 1.64
+  - name: CECILIA
+    distance_km: 8.1
+  - name: VINE GROVE
+    distance_km: 14.75
+- country: US
+  region: KY
+  name: Elizaville
+  lat: '38.4167'
+  long: "-83.8243"
+  nearby_rate_centers:
+  - name: EWING
+    distance_km: 4.29
+  - name: FLEMINGSBG
+    distance_km: 7.96
+  - name: MAYS LICK
+    distance_km: 11.23
+- country: US
+  region: KY
+  name: Elk Creek
+  lat: '38.1170'
+  long: "-85.3722"
+  nearby_rate_centers:
+  - name: FINCHVILLE
+    distance_km: 7.53
+  - name: TAYLORSVL
+    distance_km: 9.79
+  - name: SIMPSONVL
+    distance_km: 12.35
+- country: US
+  region: KY
+  name: Elkhorn City
+  lat: '37.3202'
+  long: "-82.3522"
+  nearby_rate_centers:
+  - name: ELKHORN CY
+    distance_km: 2.21
+  - name: FEDSCREEK
+    distance_km: 13.66
+  - name: VIRGIE
+    distance_km: 20.66
+- country: US
+  region: KY
+  name: Elkton
+  lat: '36.8134'
+  long: "-87.1610"
+  nearby_rate_centers:
+  - name: ELKTON
+    distance_km: 0.98
+  - name: SHARON GRV
+    distance_km: 12.93
+  - name: TRENTON
+    distance_km: 13.06
+- country: US
+  region: KY
+  name: Elsmere
+  lat: '38.9948'
+  long: "-84.6017"
+  nearby_rate_centers:
+  - name: BOONE
+    distance_km: 3.02
+  - name: INDEPNDNCE
+    distance_km: 7.45
+  - name: COVINGTON
+    distance_km: 12.55
+- country: US
+  region: KY
+  name: Eminence
+  lat: '38.3637'
+  long: "-85.1779"
+  nearby_rate_centers:
+  - name: EMINENCE
+    distance_km: 0.6
+  - name: CROPPER
+    distance_km: 9.3
+  - name: BAGDAD
+    distance_km: 14.89
+- country: US
+  region: KY
+  name: Emlyn
+  lat: '36.7023'
+  long: "-84.1418"
+  nearby_rate_centers:
+  - name: WILLIAMSBG
+    distance_km: 4.61
+  - name: JELLICO
+    distance_km: 12.17
+  - name: PINE KNOT
+    distance_km: 26.98
+- country: US
+  region: KY
+  name: Erlanger
+  lat: '39.0109'
+  long: "-84.5864"
+  nearby_rate_centers:
+  - name: BOONE
+    distance_km: 4.44
+  - name: INDEPNDNCE
+    distance_km: 8.38
+  - name: COVINGTON
+    distance_km: 10.33
+- country: US
+  region: KY
+  name: Eubank
+  lat: '37.2799'
+  long: "-84.6541"
+  nearby_rate_centers:
+  - name: EUBANK
+    distance_km: 0.55
+  - name: SCIENCE HL
+    distance_km: 11.86
+  - name: SHOPVILLE
+    distance_km: 20.45
+- country: US
+  region: KY
+  name: Evarts
+  lat: '36.8645'
+  long: "-83.1926"
+  nearby_rate_centers:
+  - name: EVARTS
+    distance_km: 0.49
+  - name: HARLAN
+    distance_km: 12.03
+  - name: BLEDSOE
+    distance_km: 15.07
+- country: US
+  region: KY
+  name: Ewing
+  lat: '38.4278'
+  long: "-83.8619"
+  nearby_rate_centers:
+  - name: EWING
+    distance_km: 0.79
+  - name: MAYS LICK
+    distance_km: 10.1
+  - name: FLEMINGSBG
+    distance_km: 11.33
+- country: US
+  region: KY
+  name: Ezel
+  lat: '37.8920'
+  long: "-83.4446"
+  nearby_rate_centers:
+  - name: EZEL
+    distance_km: 0.5
+  - name: HAZELGREEN
+    distance_km: 10.85
+  - name: FRENCHBURG
+    distance_km: 17.15
+- country: US
+  region: KY
+  name: Fairfield
+  lat: '37.9320'
+  long: "-85.3839"
+  nearby_rate_centers:
+  - name: BLOOMFIELD
+    distance_km: 6.13
+  - name: TAYLORSVL
+    distance_km: 11.78
+  - name: CHAPLIN
+    distance_km: 14.42
+- country: US
+  region: KY
+  name: Fairview
+  lat: '36.8426'
+  long: "-87.3055"
+  nearby_rate_centers:
+  - name: PEMBROKE
+    distance_km: 8.47
+  - name: TRENTON
+    distance_km: 13.67
+  - name: ELKTON
+    distance_km: 14.23
+- country: US
+  region: KY
+  name: Falmouth
+  lat: '38.6708'
+  long: "-84.3311"
+  nearby_rate_centers:
+  - name: FALMOUTH
+    distance_km: 0.36
+  - name: BUTLER
+    distance_km: 12.98
+  - name: JOHNSVILLE
+    distance_km: 18.65
+- country: US
+  region: KY
+  name: Fancy Farm
+  lat: '36.8003'
+  long: "-88.7928"
+  nearby_rate_centers:
+  - name: FANCY FARM
+    distance_km: 0.32
+  - name: MILBURN
+    distance_km: 9.4
+  - name: LOWES
+    distance_km: 9.5
+- country: US
+  region: KY
+  name: Farley
+  lat: '37.0405'
+  long: "-88.5734"
+  nearby_rate_centers:
+  - name: PADUCAH
+    distance_km: 5.89
+  - name: SYMSONIA
+    distance_km: 14.61
+  - name: SMITHLAND
+    distance_km: 18.98
+- country: US
+  region: KY
+  name: Farmers
+  lat: '38.1413'
+  long: "-83.5404"
+  nearby_rate_centers:
+  - name: SALT LICK
+    distance_km: 6.86
+  - name: MOREHEAD
+    distance_km: 10.66
+  - name: HILLSBORO
+    distance_km: 19.12
+- country: US
+  region: KY
+  name: Farmington
+  lat: '36.6691'
+  long: "-88.5276"
+  nearby_rate_centers:
+  - name: FARMINGTON
+    distance_km: 0.17
+  - name: SEDALIA
+    distance_km: 7.25
+  - name: LYNN GROVE
+    distance_km: 11.66
+- country: US
+  region: KY
+  name: Ferguson
+  lat: '37.0632'
+  long: "-84.5922"
+  nearby_rate_centers:
+  - name: SOMERSET
+    distance_km: 3.54
+  - name: BURNSIDE
+    distance_km: 9.22
+  - name: WHITE LILY
+    distance_km: 12.16
+- country: US
+  region: KY
+  name: Fincastle
+  lat: '38.3081'
+  long: "-85.5415"
+  nearby_rate_centers:
+  - name: LA GRANGE
+    distance_km: 18.01
+  - name: SIMPSONVL
+    distance_km: 19.0
+  - name: LOUISVILLE
+    distance_km: 20.31
+- country: US
+  region: KY
+  name: Flat Lick
+  lat: '36.8353'
+  long: "-83.7598"
+  nearby_rate_centers:
+  - name: FLAT LICK
+    distance_km: 0.9
+  - name: BARBOURVL
+    distance_km: 10.57
+  - name: PINEVILLE
+    distance_km: 11.53
+- country: US
+  region: KY
+  name: Flatwoods
+  lat: '38.5210'
+  long: "-82.7196"
+  nearby_rate_centers:
+  - name: RUSSELL
+    distance_km: 2.42
+  - name: ASHLAND
+    distance_km: 9.25
+  - name: MEADS
+    distance_km: 11.82
+- country: US
+  region: KY
+  name: Fleming-Neon
+  lat: '37.1953'
+  long: "-82.7048"
+  nearby_rate_centers:
+  - name: NEON
+    distance_km: 2.61
+  - name: JENKINS
+    distance_km: 5.85
+  - name: WHITESBURG
+    distance_km: 13.84
+- country: US
+  region: KY
+  name: Flemingsburg
+  lat: '38.4236'
+  long: "-83.7373"
+  nearby_rate_centers:
+  - name: FLEMINGSBG
+    distance_km: 1.08
+  - name: EWING
+    distance_km: 11.63
+  - name: MAYS LICK
+    distance_km: 13.69
+- country: US
+  region: KY
+  name: Florence
+  lat: '38.9899'
+  long: "-84.6471"
+  nearby_rate_centers:
+  - name: BOONE
+    distance_km: 1.51
+  - name: INDEPNDNCE
+    distance_km: 9.96
+  - name: WALTON
+    distance_km: 14.04
+- country: US
+  region: KY
+  name: Fordsville
+  lat: '37.6357'
+  long: "-86.7171"
+  nearby_rate_centers:
+  - name: FORDSVILLE
+    distance_km: 0.19
+  - name: WHITESVL
+    distance_km: 14.23
+  - name: HABIT
+    distance_km: 22.3
+- country: US
+  region: KY
+  name: Forest Hills
+  lat: '38.2158'
+  long: "-85.5834"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 15.65
+  - name: MTWASHIGTN
+    distance_km: 18.92
+  - name: SIMPSONVL
+    distance_km: 20.42
+- country: US
+  region: KY
+  name: Fort Campbell North
+  lat: '36.6631'
+  long: "-87.4764"
+  nearby_rate_centers:
+  - name: OAK GROVE
+    distance_km: 2.97
+  - name: LA FAYETTE
+    distance_km: 16.3
+  - name: PEMBROKE
+    distance_km: 16.84
+- country: US
+  region: KY
+  name: Fort Knox
+  lat: '37.8915'
+  long: "-85.9636"
+  nearby_rate_centers:
+  - name: ROSETRRACE
+    distance_km: 1.22
+  - name: RADCLIFF
+    distance_km: 6.15
+  - name: VINE GROVE
+    distance_km: 9.01
+- country: US
+  region: KY
+  name: Fort Mitchell
+  lat: '39.0460'
+  long: "-84.5562"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 5.7
+  - name: BOONE
+    distance_km: 8.56
+  - name: INDEPNDNCE
+    distance_km: 11.7
+- country: US
+  region: KY
+  name: Fort Thomas
+  lat: '39.0801'
+  long: "-84.4518"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 4.88
+  - name: ALEXANDRIA
+    distance_km: 14.01
+  - name: INDEPNDNCE
+    distance_km: 17.68
+- country: US
+  region: KY
+  name: Fort Wright
+  lat: '39.0463'
+  long: "-84.5362"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 4.58
+  - name: BOONE
+    distance_km: 10.02
+  - name: INDEPNDNCE
+    distance_km: 11.79
+- country: US
+  region: KY
+  name: Fountain Run
+  lat: '36.7238'
+  long: "-85.9561"
+  nearby_rate_centers:
+  - name: FOUNTANRUN
+    distance_km: 1.02
+  - name: GAMALIEL
+    distance_km: 17.04
+  - name: TEMPLEHILL
+    distance_km: 20.47
+- country: US
+  region: KY
+  name: Fox Chase
+  lat: '38.0460'
+  long: "-85.6911"
+  nearby_rate_centers:
+  - name: ZONETON
+    distance_km: 2.65
+  - name: SHEPHEDSVL
+    distance_km: 6.35
+  - name: MTWASHIGTN
+    distance_km: 13.64
+- country: US
+  region: KY
+  name: Francisville
+  lat: '39.1068'
+  long: "-84.7277"
+  nearby_rate_centers:
+  - name: BOONE
+    distance_km: 14.24
+  - name: COVINGTON
+    distance_km: 19.14
+  - name: INDEPNDNCE
+    distance_km: 23.97
+- country: US
+  region: KY
+  name: Frankfort
+  lat: '38.1924'
+  long: "-84.8643"
+  nearby_rate_centers:
+  - name: FRANKFORT
+    distance_km: 0.99
+  - name: MIDWAY
+    distance_km: 16.63
+  - name: LAWRENCEBG
+    distance_km: 16.73
+- country: US
+  region: KY
+  name: Franklin
+  lat: '36.7177'
+  long: "-86.5595"
+  nearby_rate_centers:
+  - name: FRANKLIN
+    distance_km: 2.35
+  - name: WOODBURN
+    distance_km: 13.88
+  - name: AUBURN
+    distance_km: 20.94
+- country: US
+  region: KY
+  name: Fredonia
+  lat: '37.2085'
+  long: "-88.0603"
+  nearby_rate_centers:
+  - name: FREDONIA
+    distance_km: 0.43
+  - name: MARION
+    distance_km: 13.94
+  - name: SALEM
+    distance_km: 17.13
+- country: US
+  region: KY
+  name: Freeburn
+  lat: '37.5619'
+  long: "-82.1514"
+  nearby_rate_centers:
+  - name: FREEBURN
+    distance_km: 1.03
+  - name: MCCARR
+    distance_km: 2.93
+  - name: STONE
+    distance_km: 11.18
+- country: US
+  region: KY
+  name: Frenchburg
+  lat: '37.9542'
+  long: "-83.6226"
+  nearby_rate_centers:
+  - name: FRENCHBURG
+    distance_km: 0.52
+  - name: EZEL
+    distance_km: 17.53
+  - name: SALT LICK
+    distance_km: 19.09
+- country: US
+  region: KY
+  name: Fulton
+  lat: '36.5145'
+  long: "-88.8820"
+  nearby_rate_centers:
+  - name: FULTON
+    distance_km: 0.9
+  - name: WATER VLY
+    distance_km: 8.74
+  - name: JORDAN
+    distance_km: 11.5
+- country: US
+  region: KY
+  name: Gamaliel
+  lat: '36.6402'
+  long: "-85.7963"
+  nearby_rate_centers:
+  - name: GAMALIEL
+    distance_km: 0.13
+  - name: TOMPKINSVL
+    distance_km: 12.27
+  - name: FOUNTANRUN
+    distance_km: 17.83
+- country: US
+  region: KY
+  name: Garrison
+  lat: '38.6075'
+  long: "-83.1833"
+  nearby_rate_centers:
+  - name: GARRISON
+    distance_km: 1.39
+  - name: VANCEBURG
+    distance_km: 11.69
+  - name: SOUTHSHORE
+    distance_km: 22.57
+- country: US
+  region: KY
+  name: Georgetown
+  lat: '38.2247'
+  long: "-84.5487"
+  nearby_rate_centers:
+  - name: GEORGETOWN
+    distance_km: 1.81
+  - name: STAMPNGRND
+    distance_km: 12.75
+  - name: MIDWAY
+    distance_km: 14.29
+- country: US
+  region: KY
+  name: Germantown
+  lat: '38.6559'
+  long: "-83.9643"
+  nearby_rate_centers:
+  - name: GERMANTOWN
+    distance_km: 0.39
+  - name: FERNLEAF
+    distance_km: 5.69
+  - name: BROOKSVL
+    distance_km: 9.53
+- country: US
+  region: KY
+  name: Ghent
+  lat: '38.7340'
+  long: "-85.0614"
+  nearby_rate_centers:
+  - name: GHENT
+    distance_km: 0.09
+  - name: CARROLLTON
+    distance_km: 10.49
+  - name: WARSAW
+    distance_km: 15.97
+- country: US
+  region: KY
+  name: Gilbertsville
+  lat: '37.0284'
+  long: "-88.3103"
+  nearby_rate_centers:
+  - name: GILBERTSVL
+    distance_km: 3.29
+  - name: CALVERT CY
+    distance_km: 3.73
+  - name: SMITHLAND
+    distance_km: 14.65
+- country: US
+  region: KY
+  name: Glasgow
+  lat: '37.0048'
+  long: "-85.9263"
+  nearby_rate_centers:
+  - name: GLASGOW
+    distance_km: 1.91
+  - name: GLASGWRURL
+    distance_km: 1.91
+  - name: TEMPLEHILL
+    distance_km: 14.0
+  - name: HISEVILLE
+    distance_km: 14.28
+- country: US
+  region: KY
+  name: Glencoe
+  lat: '38.7253'
+  long: "-84.8238"
+  nearby_rate_centers:
+  - name: GLENCOE
+    distance_km: 1.26
+  - name: WARSAW
+    distance_km: 8.64
+  - name: NEWLIBERTY
+    distance_km: 14.01
+- country: US
+  region: KY
+  name: Glenview
+  lat: '38.3019'
+  long: "-85.6519"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 11.39
+  - name: LA GRANGE
+    distance_km: 26.51
+  - name: SIMPSONVL
+    distance_km: 27.64
+- country: US
+  region: KY
+  name: Glenview Hills
+  lat: '38.2951'
+  long: "-85.6382"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 12.01
+  - name: LA GRANGE
+    distance_km: 25.82
+  - name: SIMPSONVL
+    distance_km: 26.28
+- country: US
+  region: KY
+  name: Glenview Manor
+  lat: '38.2907'
+  long: "-85.6333"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 12.17
+  - name: LA GRANGE
+    distance_km: 25.7
+  - name: SIMPSONVL
+    distance_km: 25.73
+- country: US
+  region: KY
+  name: Goose Creek
+  lat: '38.2934'
+  long: "-85.5906"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 15.72
+  - name: SIMPSONVL
+    distance_km: 22.27
+  - name: LA GRANGE
+    distance_km: 22.41
+- country: US
+  region: KY
+  name: Goshen
+  lat: '38.4026'
+  long: "-85.5823"
+  nearby_rate_centers:
+  - name: LA GRANGE
+    distance_km: 17.59
+  - name: LOUISVILLE
+    distance_km: 23.47
+  - name: SIMPSONVL
+    distance_km: 28.16
+- country: US
+  region: KY
+  name: Gracey
+  lat: '36.8792'
+  long: "-87.6638"
+  nearby_rate_centers:
+  - name: GRACEY
+    distance_km: 0.66
+  - name: CADIZ
+    distance_km: 15.1
+  - name: HOPKINSVL
+    distance_km: 15.2
+- country: US
+  region: KY
+  name: Grand Rivers
+  lat: '37.0050'
+  long: "-88.2330"
+  nearby_rate_centers:
+  - name: GILBERTSVL
+    distance_km: 4.48
+  - name: CALVERT CY
+    distance_km: 10.98
+  - name: EDDYVILLE
+    distance_km: 15.31
+- country: US
+  region: KY
+  name: Gratz
+  lat: '38.4719'
+  long: "-84.9471"
+  nearby_rate_centers:
+  - name: OWENTON
+    distance_km: 11.89
+  - name: PORT ROYAL
+    distance_km: 14.55
+  - name: NEWLIBERTY
+    distance_km: 16.58
+- country: US
+  region: KY
+  name: Graymoor-Devondale
+  lat: '38.2733'
+  long: "-85.6177"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 12.78
+  - name: SIMPSONVL
+    distance_km: 23.93
+  - name: LA GRANGE
+    distance_km: 25.64
+- country: US
+  region: KY
+  name: Grayson
+  lat: '38.3317'
+  long: "-82.9371"
+  nearby_rate_centers:
+  - name: GRAYSON
+    distance_km: 1.3
+  - name: MEADS
+    distance_km: 21.6
+  - name: OLIVE HILL
+    distance_km: 21.77
+- country: US
+  region: KY
+  name: Green Spring
+  lat: '38.3163'
+  long: "-85.6137"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 15.05
+  - name: LA GRANGE
+    distance_km: 22.82
+  - name: SIMPSONVL
+    distance_km: 25.07
+- country: US
+  region: KY
+  name: Greensburg
+  lat: '37.2599'
+  long: "-85.4962"
+  nearby_rate_centers:
+  - name: GREENSBURG
+    distance_km: 1.02
+  - name: CAMPBELSVL
+    distance_km: 16.24
+  - name: CENTER
+    distance_km: 22.35
+- country: US
+  region: KY
+  name: Greenup
+  lat: '38.5578'
+  long: "-82.8191"
+  nearby_rate_centers:
+  - name: GREENUP
+    distance_km: 2.91
+  - name: RUSSELL
+    distance_km: 11.72
+  - name: MEADS
+    distance_km: 18.38
+- country: US
+  region: KY
+  name: Greenville
+  lat: '37.2121'
+  long: "-87.1780"
+  nearby_rate_centers:
+  - name: GREENVILLE
+    distance_km: 0.69
+  - name: CENTRAL CY
+    distance_km: 10.97
+  - name: DRAKESBORO
+    distance_km: 11.37
+- country: US
+  region: KY
+  name: Guthrie
+  lat: '36.6503'
+  long: "-87.1735"
+  nearby_rate_centers:
+  - name: GUTHRIE
+    distance_km: 0.82
+  - name: TRENTON
+    distance_km: 11.29
+  - name: ELKTON
+    distance_km: 17.88
+- country: US
+  region: KY
+  name: Hanson
+  lat: '37.4184'
+  long: "-87.4809"
+  nearby_rate_centers:
+  - name: HANSON
+    distance_km: 0.27
+  - name: SLAUGHTERS
+    distance_km: 8.37
+  - name: MADISONVL
+    distance_km: 9.38
+- country: US
+  region: KY
+  name: Hardin
+  lat: '36.7651'
+  long: "-88.3023"
+  nearby_rate_centers:
+  - name: HARDIN
+    distance_km: 0.19
+  - name: KIRKSEY
+    distance_km: 11.42
+  - name: BENTON
+    distance_km: 11.81
+- country: US
+  region: KY
+  name: Hardinsburg
+  lat: '37.7755'
+  long: "-86.4537"
+  nearby_rate_centers:
+  - name: HARDINSBG
+    distance_km: 0.97
+  - name: CLOVERPORT
+    distance_km: 17.05
+  - name: CUSTER
+    distance_km: 17.85
+- country: US
+  region: KY
+  name: Hardyville
+  lat: '37.2535'
+  long: "-85.7896"
+  nearby_rate_centers:
+  - name: CANMER
+    distance_km: 3.74
+  - name: MUNFORDVL
+    distance_km: 8.94
+  - name: HORSE CAVE
+    distance_km: 13.26
+- country: US
+  region: KY
+  name: Harlan
+  lat: '36.8433'
+  long: "-83.3184"
+  nearby_rate_centers:
+  - name: HARLAN
+    distance_km: 0.6
+  - name: BLEDSOE
+    distance_km: 8.61
+  - name: WALLINSCRK
+    distance_km: 8.93
+- country: US
+  region: KY
+  name: Harrodsburg
+  lat: '37.7654'
+  long: "-84.8474"
+  nearby_rate_centers:
+  - name: HARRODSBG
+    distance_km: 0.35
+  - name: BURGIN
+    distance_km: 7.08
+  - name: CORNISHVL
+    distance_km: 13.93
+- country: US
+  region: KY
+  name: Hartford
+  lat: '37.4507'
+  long: "-86.8930"
+  nearby_rate_centers:
+  - name: HARTFORD
+    distance_km: 0.57
+  - name: BEAVER DAM
+    distance_km: 4.92
+  - name: CENTERTOWN
+    distance_km: 10.32
+- country: US
+  region: KY
+  name: Hawesville
+  lat: '37.8962'
+  long: "-86.7561"
+  nearby_rate_centers:
+  - name: HAWESVILLE
+    distance_km: 0.66
+  - name: CLOVERPORT
+    distance_km: 12.82
+  - name: LEWISPORT
+    distance_km: 13.43
+- country: US
+  region: KY
+  name: Hazard
+  lat: '37.2584'
+  long: "-83.1977"
+  nearby_rate_centers:
+  - name: HAZARD
+    distance_km: 1.23
+  - name: DWARF
+    distance_km: 11.11
+  - name: FISTY
+    distance_km: 11.96
+- country: US
+  region: KY
+  name: Hazel
+  lat: '36.5055'
+  long: "-88.3253"
+  nearby_rate_centers:
+  - name: HAZEL
+    distance_km: 0.56
+  - name: MURRAY
+    distance_km: 11.46
+  - name: LYNN GROVE
+    distance_km: 14.01
+- country: US
+  region: KY
+  name: Hazel Green
+  lat: '37.7999'
+  long: "-83.4173"
+  nearby_rate_centers:
+  - name: HAZELGREEN
+    distance_km: 0.34
+  - name: EZEL
+    distance_km: 10.41
+  - name: CAMPTON
+    distance_km: 13.95
+- country: US
+  region: KY
+  name: Hebron
+  lat: '39.0626'
+  long: "-84.7090"
+  nearby_rate_centers:
+  - name: BOONE
+    distance_km: 9.37
+  - name: COVINGTON
+    distance_km: 17.45
+  - name: INDEPNDNCE
+    distance_km: 19.25
+- country: US
+  region: KY
+  name: Hebron Estates
+  lat: '38.0501'
+  long: "-85.6682"
+  nearby_rate_centers:
+  - name: ZONETON
+    distance_km: 3.55
+  - name: SHEPHEDSVL
+    distance_km: 7.66
+  - name: MTWASHIGTN
+    distance_km: 11.63
+- country: US
+  region: KY
+  name: Henderson
+  lat: '37.8397'
+  long: "-87.5798"
+  nearby_rate_centers:
+  - name: HENDERSON
+    distance_km: 0.59
+  - name: CORYDON
+    distance_km: 14.66
+  - name: ROBARDS
+    distance_km: 18.54
+- country: US
+  region: KY
+  name: Hendron
+  lat: '37.0350'
+  long: "-88.6427"
+  nearby_rate_centers:
+  - name: PADUCAH
+    distance_km: 6.43
+  - name: HEATH
+    distance_km: 14.6
+  - name: FOLSOMDALE
+    distance_km: 17.02
+- country: US
+  region: KY
+  name: Heritage Creek
+  lat: '38.0951'
+  long: "-85.6125"
+  nearby_rate_centers:
+  - name: MTWASHIGTN
+    distance_km: 8.41
+  - name: ZONETON
+    distance_km: 10.45
+  - name: SHEPHEDSVL
+    distance_km: 14.58
+- country: US
+  region: KY
+  name: Hickman
+  lat: '36.5650'
+  long: "-89.1836"
+  nearby_rate_centers:
+  - name: HICKMAN
+    distance_km: 1.39
+  - name: CAYCE
+    distance_km: 13.68
+  - name: JORDAN
+    distance_km: 16.63
+- country: US
+  region: KY
+  name: Hickory
+  lat: '36.8174'
+  long: "-88.6485"
+  nearby_rate_centers:
+  - name: FOLSOMDALE
+    distance_km: 7.67
+  - name: MAYFIELD
+    distance_km: 8.53
+  - name: WESTPLAINS
+    distance_km: 10.71
+- country: US
+  region: KY
+  name: Hickory Hill
+  lat: '38.2877'
+  long: "-85.5679"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 17.4
+  - name: SIMPSONVL
+    distance_km: 20.19
+  - name: LA GRANGE
+    distance_km: 21.23
+- country: US
+  region: KY
+  name: High Bridge
+  lat: '37.8299'
+  long: "-84.7096"
+  nearby_rate_centers:
+  - name: WILMORE
+    distance_km: 5.66
+  - name: BURGIN
+    distance_km: 10.37
+  - name: BRYANTSVL
+    distance_km: 13.46
+- country: US
+  region: KY
+  name: Highland Heights
+  lat: '39.0354'
+  long: "-84.4567"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 6.78
+  - name: ALEXANDRIA
+    distance_km: 10.02
+  - name: INDEPNDNCE
+    distance_km: 13.28
+- country: US
+  region: KY
+  name: Hills and Dales
+  lat: '38.3005'
+  long: "-85.6249"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 13.32
+  - name: LA GRANGE
+    distance_km: 24.51
+  - name: SIMPSONVL
+    distance_km: 25.35
+- country: US
+  region: KY
+  name: Hillview
+  lat: '38.0562'
+  long: "-85.6847"
+  nearby_rate_centers:
+  - name: ZONETON
+    distance_km: 3.79
+  - name: SHEPHEDSVL
+    distance_km: 7.61
+  - name: MTWASHIGTN
+    distance_km: 13.09
+- country: US
+  region: KY
+  name: Hindman
+  lat: '37.3350'
+  long: "-82.9819"
+  nearby_rate_centers:
+  - name: HINDMAN
+    distance_km: 0.42
+  - name: PIPPAPASSS
+    distance_km: 9.08
+  - name: FISTY
+    distance_km: 10.58
+- country: US
+  region: KY
+  name: Hiseville
+  lat: '37.1008'
+  long: "-85.8149"
+  nearby_rate_centers:
+  - name: HISEVILLE
+    distance_km: 0.33
+  - name: CENTER
+    distance_km: 11.14
+  - name: HORSE CAVE
+    distance_km: 12.24
+- country: US
+  region: KY
+  name: Hodgenville
+  lat: '37.5668'
+  long: "-85.7354"
+  nearby_rate_centers:
+  - name: HODGENVL
+    distance_km: 1.17
+  - name: BUFFALO
+    distance_km: 6.65
+  - name: MAGNOLIA
+    distance_km: 14.1
+- country: US
+  region: KY
+  name: Hollow Creek
+  lat: '38.1526'
+  long: "-85.6244"
+  nearby_rate_centers:
+  - name: MTWASHIGTN
+    distance_km: 13.82
+  - name: LOUISVILLE
+    distance_km: 15.51
+  - name: ZONETON
+    distance_km: 15.53
+- country: US
+  region: KY
+  name: Hollyvilla
+  lat: '38.0929'
+  long: "-85.7469"
+  nearby_rate_centers:
+  - name: ZONETON
+    distance_km: 9.4
+  - name: SHEPHEDSVL
+    distance_km: 11.52
+  - name: LOUISVILLE
+    distance_km: 16.77
+- country: US
+  region: KY
+  name: Hopkinsville
+  lat: '36.8381'
+  long: "-87.4775"
+  nearby_rate_centers:
+  - name: HOPKINSVL
+    distance_km: 2.72
+  - name: PEMBROKE
+    distance_km: 13.43
+  - name: GRACEY
+    distance_km: 17.23
+- country: US
+  region: KY
+  name: Horse Cave
+  lat: '37.1738'
+  long: "-85.9146"
+  nearby_rate_centers:
+  - name: HORSE CAVE
+    distance_km: 0.99
+  - name: CAVE CITY
+    distance_km: 5.86
+  - name: MUNFORDVL
+    distance_km: 10.66
+- country: US
+  region: KY
+  name: Houston Acres
+  lat: '38.2146'
+  long: "-85.6143"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 13.04
+  - name: MTWASHIGTN
+    distance_km: 19.57
+  - name: ZONETON
+    distance_km: 22.34
+- country: US
+  region: KY
+  name: Hunters Hollow
+  lat: '38.0784'
+  long: "-85.6934"
+  nearby_rate_centers:
+  - name: ZONETON
+    distance_km: 6.26
+  - name: SHEPHEDSVL
+    distance_km: 9.78
+  - name: MTWASHIGTN
+    distance_km: 14.19
+- country: US
+  region: KY
+  name: Hurstbourne
+  lat: '38.2379'
+  long: "-85.5891"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 14.85
+  - name: SIMPSONVL
+    distance_km: 20.91
+  - name: MTWASHIGTN
+    distance_km: 21.42
+- country: US
+  region: KY
+  name: Hurstbourne Acres
+  lat: '38.2201'
+  long: "-85.5907"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 14.93
+  - name: MTWASHIGTN
+    distance_km: 19.53
+  - name: SIMPSONVL
+    distance_km: 21.03
+- country: US
+  region: KY
+  name: Hustonville
+  lat: '37.4784'
+  long: "-84.8151"
+  nearby_rate_centers:
+  - name: HUSTONVL
+    distance_km: 0.5
+  - name: JUNCTIONCY
+    distance_km: 11.78
+  - name: STANFORD
+    distance_km: 15.25
+- country: US
+  region: KY
+  name: Hyden
+  lat: '37.1620'
+  long: "-83.3780"
+  nearby_rate_centers:
+  - name: HYDEN
+    distance_km: 0.38
+  - name: WOOTON
+    distance_km: 7.22
+  - name: STINNETT
+    distance_km: 7.54
+- country: US
+  region: KY
+  name: Independence
+  lat: '38.9510'
+  long: "-84.5492"
+  nearby_rate_centers:
+  - name: INDEPNDNCE
+    distance_km: 1.14
+  - name: BOONE
+    distance_km: 9.29
+  - name: WALTON
+    distance_km: 11.29
+- country: US
+  region: KY
+  name: Indian Hills
+  lat: '38.2809'
+  long: "-85.6617"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 9.46
+  - name: SIMPSONVL
+    distance_km: 27.87
+  - name: MTWASHIGTN
+    distance_km: 27.96
+- country: US
+  region: KY
+  name: Inez
+  lat: '37.8693'
+  long: "-82.5398"
+  nearby_rate_centers:
+  - name: INEZ
+    distance_km: 0.4
+  - name: WARFIELD
+    distance_km: 10.82
+  - name: CHAPMAN
+    distance_km: 17.54
+- country: US
+  region: KY
+  name: Ironville
+  lat: '38.4562'
+  long: "-82.6978"
+  nearby_rate_centers:
+  - name: MEADS
+    distance_km: 4.79
+  - name: ASHLAND
+    distance_km: 5.16
+  - name: RUSSELL
+    distance_km: 7.43
+- country: US
+  region: KY
+  name: Irvine
+  lat: '37.6964'
+  long: "-83.9678"
+  nearby_rate_centers:
+  - name: IRVINE
+    distance_km: 1.19
+  - name: WACO
+    distance_km: 16.08
+  - name: STANTON
+    distance_km: 19.96
+- country: US
+  region: KY
+  name: Irvington
+  lat: '37.8779'
+  long: "-86.2848"
+  nearby_rate_centers:
+  - name: IRVINGTON
+    distance_km: 0.52
+  - name: PAYNEVILLE
+    distance_km: 12.46
+  - name: NO GARRETT
+    distance_km: 14.75
+- country: US
+  region: KY
+  name: Island
+  lat: '37.4432'
+  long: "-87.1473"
+  nearby_rate_centers:
+  - name: ISLAND
+    distance_km: 0.88
+  - name: LIVERMORE
+    distance_km: 5.7
+  - name: SACRAMENTO
+    distance_km: 10.16
+- country: US
+  region: KY
+  name: Jackson
+  lat: '37.5589'
+  long: "-83.3783"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 0.54
+  - name: CANOE
+    distance_km: 14.15
+  - name: BUCKHORN
+    distance_km: 19.57
+- country: US
+  region: KY
+  name: Jamestown
+  lat: '36.9893'
+  long: "-85.0662"
+  nearby_rate_centers:
+  - name: JAMESTOWN
+    distance_km: 0.61
+  - name: RUSSELLSPG
+    distance_km: 7.81
+  - name: FAIRPLAY
+    distance_km: 22.35
+- country: US
+  region: KY
+  name: Jeff
+  lat: '37.2094'
+  long: "-83.1394"
+  nearby_rate_centers:
+  - name: HAZARD
+    distance_km: 6.35
+  - name: VICCO
+    distance_km: 7.03
+  - name: FISTY
+    distance_km: 14.26
+- country: US
+  region: KY
+  name: Jeffersontown
+  lat: '38.2049'
+  long: "-85.5701"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 17.05
+  - name: MTWASHIGTN
+    distance_km: 17.5
+  - name: SIMPSONVL
+    distance_km: 19.37
+- country: US
+  region: KY
+  name: Jeffersonville
+  lat: '37.9660'
+  long: "-83.8319"
+  nearby_rate_centers:
+  - name: STANTON
+    distance_km: 13.1
+  - name: MTSTERLING
+    distance_km: 14.12
+  - name: FRENCHBURG
+    distance_km: 18.16
+- country: US
+  region: KY
+  name: Jenkins
+  lat: '37.1826'
+  long: "-82.6310"
+  nearby_rate_centers:
+  - name: JENKINS
+    distance_km: 1.44
+  - name: NEON
+    distance_km: 8.84
+  - name: VIRGIE
+    distance_km: 18.47
+- country: US
+  region: KY
+  name: Junction City
+  lat: '37.5853'
+  long: "-84.7903"
+  nearby_rate_centers:
+  - name: JUNCTIONCY
+    distance_km: 0.99
+  - name: DANVILLE
+    distance_km: 7.42
+  - name: HUSTONVL
+    distance_km: 12.51
+- country: US
+  region: KY
+  name: Keene
+  lat: '37.9431'
+  long: "-84.6411"
+  nearby_rate_centers:
+  - name: WILMORE
+    distance_km: 8.75
+  - name: NICHOLASVL
+    distance_km: 9.27
+  - name: VERSAILLES
+    distance_km: 14.48
+- country: US
+  region: KY
+  name: Kenton Vale
+  lat: '39.0514'
+  long: "-84.5199"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 3.47
+  - name: BOONE
+    distance_km: 11.52
+  - name: INDEPNDNCE
+    distance_km: 12.58
+- country: US
+  region: KY
+  name: Kenvir
+  lat: '36.8532'
+  long: "-83.1539"
+  nearby_rate_centers:
+  - name: EVARTS
+    distance_km: 3.76
+  - name: HARLAN
+    distance_km: 15.25
+  - name: BLEDSOE
+    distance_km: 18.74
+- country: US
+  region: KY
+  name: Kevil
+  lat: '37.0842'
+  long: "-88.8829"
+  nearby_rate_centers:
+  - name: KEVIL
+    distance_km: 0.62
+  - name: LA CENTER
+    distance_km: 8.24
+  - name: HEATH
+    distance_km: 8.29
+- country: US
+  region: KY
+  name: Kingsley
+  lat: '38.2219'
+  long: "-85.6726"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 7.92
+  - name: ZONETON
+    distance_km: 22.24
+  - name: MTWASHIGTN
+    distance_km: 22.58
+- country: US
+  region: KY
+  name: Knottsville
+  lat: '37.7726'
+  long: "-86.9064"
+  nearby_rate_centers:
+  - name: ENSOR
+    distance_km: 7.47
+  - name: WHITESVL
+    distance_km: 10.52
+  - name: HABIT
+    distance_km: 12.24
+- country: US
+  region: KY
+  name: Kuttawa
+  lat: '37.0593'
+  long: "-88.1150"
+  nearby_rate_centers:
+  - name: EDDYVILLE
+    distance_km: 4.2
+  - name: GILBERTSVL
+    distance_km: 15.98
+  - name: FREDONIA
+    distance_km: 17.54
+- country: US
+  region: KY
+  name: La Center
+  lat: '37.0749'
+  long: "-88.9748"
+  nearby_rate_centers:
+  - name: LA CENTER
+    distance_km: 0.11
+  - name: BARLOW
+    distance_km: 6.52
+  - name: KEVIL
+    distance_km: 8.34
+- country: US
+  region: KY
+  name: La Grange
+  lat: '38.3987'
+  long: "-85.3750"
+  nearby_rate_centers:
+  - name: LA GRANGE
+    distance_km: 1.31
+  - name: SULPHUR
+    distance_km: 13.33
+  - name: EMINENCE
+    distance_km: 17.02
+- country: US
+  region: KY
+  name: LaFayette
+  lat: '36.6599'
+  long: "-87.6585"
+  nearby_rate_centers:
+  - name: LA FAYETTE
+    distance_km: 0.37
+  - name: OAK GROVE
+    distance_km: 18.25
+  - name: GRACEY
+    distance_km: 23.76
+- country: US
+  region: KY
+  name: Lakeside Park
+  lat: '39.0339'
+  long: "-84.5673"
+  nearby_rate_centers:
+  - name: BOONE
+    distance_km: 7.01
+  - name: COVINGTON
+    distance_km: 7.33
+  - name: INDEPNDNCE
+    distance_km: 10.45
+- country: US
+  region: KY
+  name: Lakeview Heights
+  lat: '38.1520'
+  long: "-83.5043"
+  nearby_rate_centers:
+  - name: MOREHEAD
+    distance_km: 7.31
+  - name: SALT LICK
+    distance_km: 10.23
+  - name: HILLSBORO
+    distance_km: 19.94
+- country: US
+  region: KY
+  name: Lancaster
+  lat: '37.6148'
+  long: "-84.5815"
+  nearby_rate_centers:
+  - name: LANCASTER
+    distance_km: 0.4
+  - name: STANFORD
+    distance_km: 11.17
+  - name: BRYANTSVL
+    distance_km: 13.03
+- country: US
+  region: KY
+  name: Langdon Place
+  lat: '38.2865'
+  long: "-85.5849"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 15.94
+  - name: SIMPSONVL
+    distance_km: 21.55
+  - name: LA GRANGE
+    distance_km: 22.47
+- country: US
+  region: KY
+  name: Lawrenceburg
+  lat: '38.0332'
+  long: "-84.9031"
+  nearby_rate_centers:
+  - name: LAWRENCEBG
+    distance_km: 1.48
+  - name: SALVISA
+    distance_km: 13.62
+  - name: VERSAILLES
+    distance_km: 15.03
+- country: US
+  region: KY
+  name: Lebanon
+  lat: '37.5691'
+  long: "-85.2594"
+  nearby_rate_centers:
+  - name: LEBANON
+    distance_km: 0.83
+  - name: BRADFODSVL
+    distance_km: 12.77
+  - name: SPRINGFLD
+    distance_km: 12.99
+- country: US
+  region: KY
+  name: Lebanon Junction
+  lat: '37.8357'
+  long: "-85.7243"
+  nearby_rate_centers:
+  - name: LEBANONJCT
+    distance_km: 1.03
+  - name: SHEPHEDSVL
+    distance_km: 17.42
+  - name: ELIZABTHTN
+    distance_km: 18.99
+- country: US
+  region: KY
+  name: Ledbetter
+  lat: '37.0485'
+  long: "-88.4949"
+  nearby_rate_centers:
+  - name: PADUCAH
+    distance_km: 10.85
+  - name: CALVERT CY
+    distance_km: 12.81
+  - name: SMITHLAND
+    distance_km: 13.22
+- country: US
+  region: KY
+  name: Leitchfield
+  lat: '37.4863'
+  long: "-86.2856"
+  nearby_rate_centers:
+  - name: LEITCHFLD
+    distance_km: 1.2
+  - name: CLARKSON
+    distance_km: 5.33
+  - name: MCDANIELS
+    distance_km: 18.27
+- country: US
+  region: KY
+  name: Lewisburg
+  lat: '36.9872'
+  long: "-86.9502"
+  nearby_rate_centers:
+  - name: LEWISBRG
+    distance_km: 0.22
+  - name: DUNMOR
+    distance_km: 10.36
+  - name: SHARON GRV
+    distance_km: 15.24
+- country: US
+  region: KY
+  name: Lewisport
+  lat: '37.9309'
+  long: "-86.9027"
+  nearby_rate_centers:
+  - name: LEWISPORT
+    distance_km: 0.34
+  - name: MACEO
+    distance_km: 11.2
+  - name: HAWESVILLE
+    distance_km: 13.61
+- country: US
+  region: KY
+  name: Lexington
+  lat: '38.0423'
+  long: "-84.4587"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance_km: 3.14
+  - name: NICHOLASVL
+    distance_km: 19.82
+  - name: GEORGETOWN
+    distance_km: 20.23
+- country: US
+  region: KY
+  name: Liberty
+  lat: '37.3205'
+  long: "-84.9287"
+  nearby_rate_centers:
+  - name: LIBERTY
+    distance_km: 1.25
+  - name: HUSTONVL
+    distance_km: 19.74
+  - name: EUBANK
+    distance_km: 24.43
+- country: US
+  region: KY
+  name: Lincolnshire
+  lat: '38.2238'
+  long: "-85.6216"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 12.2
+  - name: MTWASHIGTN
+    distance_km: 20.75
+  - name: ZONETON
+    distance_km: 23.15
+- country: US
+  region: KY
+  name: Livermore
+  lat: '37.4919'
+  long: "-87.1343"
+  nearby_rate_centers:
+  - name: LIVERMORE
+    distance_km: 0.19
+  - name: ISLAND
+    distance_km: 4.71
+  - name: UTICA
+    distance_km: 12.17
+- country: US
+  region: KY
+  name: Livingston
+  lat: '37.2980'
+  long: "-84.2157"
+  nearby_rate_centers:
+  - name: LIVINGSTON
+    distance_km: 1.03
+  - name: MT VERNON
+    distance_km: 12.23
+  - name: EBERNSTADT
+    distance_km: 14.58
+- country: US
+  region: KY
+  name: London
+  lat: '37.1175'
+  long: "-84.0767"
+  nearby_rate_centers:
+  - name: LONDON
+    distance_km: 1.72
+  - name: EBERNSTADT
+    distance_km: 9.08
+  - name: CORBIN
+    distance_km: 18.8
+- country: US
+  region: KY
+  name: Loretto
+  lat: '37.6351'
+  long: "-85.3985"
+  nearby_rate_centers:
+  - name: LORETTO
+    distance_km: 0.23
+  - name: LEBANON
+    distance_km: 15.01
+  - name: SPRINGFLD
+    distance_km: 16.75
+- country: US
+  region: KY
+  name: Louisa
+  lat: '38.1081'
+  long: "-82.6132"
+  nearby_rate_centers:
+  - name: LOUISA
+    distance_km: 0.49
+  - name: FALLSBURG
+    distance_km: 9.49
+  - name: CHAPMAN
+    distance_km: 10.37
+- country: US
+  region: KY
+  name: Louisville
+  lat: '38.1663'
+  long: "-85.6485"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 12.92
+  - name: MTWASHIGTN
+    distance_km: 16.29
+  - name: ZONETON
+    distance_km: 16.39
+- country: US
+  region: KY
+  name: Lovelaceville
+  lat: '36.9672'
+  long: "-88.8335"
+  nearby_rate_centers:
+  - name: GAGE
+    distance_km: 5.96
+  - name: CUNNINGHAM
+    distance_km: 7.87
+  - name: LOWES
+    distance_km: 10.58
+- country: US
+  region: KY
+  name: Lowes
+  lat: '36.8828'
+  long: "-88.7706"
+  nearby_rate_centers:
+  - name: LOWES
+    distance_km: 0.4
+  - name: FOLSOMDALE
+    distance_km: 8.75
+  - name: FANCY FARM
+    distance_km: 9.62
+- country: US
+  region: KY
+  name: Loyall
+  lat: '36.8527'
+  long: "-83.3506"
+  nearby_rate_centers:
+  - name: HARLAN
+    distance_km: 2.65
+  - name: WALLINSCRK
+    distance_km: 6.4
+  - name: BLEDSOE
+    distance_km: 7.13
+- country: US
+  region: KY
+  name: Ludlow
+  lat: '39.0904'
+  long: "-84.5498"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 3.72
+  - name: BOONE
+    distance_km: 12.48
+  - name: INDEPNDNCE
+    distance_km: 16.63
+- country: US
+  region: KY
+  name: Lynch
+  lat: '36.9641'
+  long: "-82.9138"
+  nearby_rate_centers:
+  - name: BENHAMLNCH
+    distance_km: 0.87
+  - name: CUMBERLAND
+    distance_km: 7.07
+  - name: WHITESBURG
+    distance_km: 18.75
+- country: US
+  region: KY
+  name: Lyndon
+  lat: '38.2645'
+  long: "-85.5891"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 15.02
+  - name: SIMPSONVL
+    distance_km: 21.29
+  - name: LA GRANGE
+    distance_km: 24.31
+- country: US
+  region: KY
+  name: Lynnview
+  lat: '38.1791'
+  long: "-85.7112"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 8.28
+  - name: ZONETON
+    distance_km: 17.56
+  - name: SHEPHEDSVL
+    distance_km: 20.78
+- country: US
+  region: KY
+  name: Maceo
+  lat: '37.8624'
+  long: "-86.9914"
+  nearby_rate_centers:
+  - name: MACEO
+    distance_km: 0.87
+  - name: ENSOR
+    distance_km: 8.82
+  - name: LEWISPORT
+    distance_km: 11.19
+- country: US
+  region: KY
+  name: Mackville
+  lat: '37.7355'
+  long: "-85.0701"
+  nearby_rate_centers:
+  - name: MACKVILLE
+    distance_km: 0.36
+  - name: CORNISHVL
+    distance_km: 9.51
+  - name: WILLISBURG
+    distance_km: 9.6
+- country: US
+  region: KY
+  name: Madisonville
+  lat: '37.3409'
+  long: "-87.5034"
+  nearby_rate_centers:
+  - name: MADISONVL
+    distance_km: 0.74
+  - name: EARLINGTON
+    distance_km: 7.28
+  - name: HANSON
+    distance_km: 8.7
+- country: US
+  region: KY
+  name: Magnolia
+  lat: '37.4500'
+  long: "-85.7401"
+  nearby_rate_centers:
+  - name: MAGNOLIA
+    distance_km: 1.14
+  - name: BUFFALO
+    distance_km: 8.12
+  - name: HODGENVL
+    distance_km: 14.04
+- country: US
+  region: KY
+  name: Manchester
+  lat: '37.1464'
+  long: "-83.7635"
+  nearby_rate_centers:
+  - name: MANCHESTER
+    distance_km: 0.34
+  - name: ONEIDA
+    distance_km: 16.69
+  - name: ANNVILLE
+    distance_km: 19.55
+- country: US
+  region: KY
+  name: Manitou
+  lat: '37.3755'
+  long: "-87.5781"
+  nearby_rate_centers:
+  - name: NEBO
+    distance_km: 5.75
+  - name: MADISONVL
+    distance_km: 8.3
+  - name: HANSON
+    distance_km: 9.56
+- country: US
+  region: KY
+  name: Manor Creek
+  lat: '38.2981'
+  long: "-85.5873"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 16.18
+  - name: LA GRANGE
+    distance_km: 21.88
+  - name: SIMPSONVL
+    distance_km: 22.18
+- country: US
+  region: KY
+  name: Marion
+  lat: '37.3321'
+  long: "-88.0795"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 0.63
+  - name: FREDONIA
+    distance_km: 13.76
+  - name: SALEM
+    distance_km: 15.99
+- country: US
+  region: KY
+  name: Marrowbone
+  lat: '36.8320'
+  long: "-85.5053"
+  nearby_rate_centers:
+  - name: BRKSVL RUL
+    distance_km: 13.27
+  - name: BURKESVL
+    distance_km: 13.27
+  - name: EDMONTON
+    distance_km: 18.71
+  - name: SUMMERSHAD
+    distance_km: 18.92
+- country: US
+  region: KY
+  name: Martin
+  lat: '37.5667'
+  long: "-82.7604"
+  nearby_rate_centers:
+  - name: MARTIN
+    distance_km: 0.8
+  - name: ALLEN
+    distance_km: 5.27
+  - name: PRESTONSBG
+    distance_km: 11.03
+- country: US
+  region: KY
+  name: Maryhill Estates
+  lat: '38.2663'
+  long: "-85.6532"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 9.58
+  - name: MTWASHIGTN
+    distance_km: 26.17
+  - name: SIMPSONVL
+    distance_km: 26.83
+- country: US
+  region: KY
+  name: Masonville
+  lat: '37.6718'
+  long: "-87.0511"
+  nearby_rate_centers:
+  - name: HABIT
+    distance_km: 7.49
+  - name: UTICA
+    distance_km: 9.69
+  - name: PLEASATRDG
+    distance_km: 9.71
+- country: US
+  region: KY
+  name: Massac
+  lat: '37.0335'
+  long: "-88.6858"
+  nearby_rate_centers:
+  - name: PADUCAH
+    distance_km: 9.02
+  - name: HEATH
+    distance_km: 11.4
+  - name: FOLSOMDALE
+    distance_km: 16.69
+- country: US
+  region: KY
+  name: Mayfield
+  lat: '36.7371'
+  long: "-88.6447"
+  nearby_rate_centers:
+  - name: MAYFIELD
+    distance_km: 0.55
+  - name: SEDALIA
+    distance_km: 11.32
+  - name: FARMINGTON
+    distance_km: 13.04
+- country: US
+  region: KY
+  name: Mayking
+  lat: '37.1336'
+  long: "-82.7730"
+  nearby_rate_centers:
+  - name: WHITESBURG
+    distance_km: 5.11
+  - name: NEON
+    distance_km: 6.76
+  - name: JENKINS
+    distance_km: 12.32
+- country: US
+  region: KY
+  name: Mays Lick
+  lat: '38.5170'
+  long: "-83.8452"
+  nearby_rate_centers:
+  - name: MAYS LICK
+    distance_km: 0.47
+  - name: LEWISBURG
+    distance_km: 7.5
+  - name: EWING
+    distance_km: 9.94
+- country: US
+  region: KY
+  name: Maysville
+  lat: '38.6455'
+  long: "-83.7911"
+  nearby_rate_centers:
+  - name: MAYSVILLE
+    distance_km: 2.19
+  - name: WASHINGTON
+    distance_km: 3.76
+  - name: FERNLEAF
+    distance_km: 10.86
+- country: US
+  region: KY
+  name: Maytown
+  lat: '37.5326'
+  long: "-82.7992"
+  nearby_rate_centers:
+  - name: MARTIN
+    distance_km: 5.69
+  - name: WAYLAND
+    distance_km: 10.06
+  - name: MCDOWELL
+    distance_km: 10.06
+- country: US
+  region: KY
+  name: McCarr
+  lat: '37.6178'
+  long: "-82.1706"
+  nearby_rate_centers:
+  - name: MCCARR
+    distance_km: 3.59
+  - name: FREEBURN
+    distance_km: 6.5
+  - name: STONE
+    distance_km: 10.05
+- country: US
+  region: KY
+  name: McDowell
+  lat: '37.4590'
+  long: "-82.7340"
+  nearby_rate_centers:
+  - name: MCDOWELL
+    distance_km: 0.07
+  - name: WAYLAND
+    distance_km: 6.08
+  - name: GRETHEL
+    distance_km: 7.57
+- country: US
+  region: KY
+  name: McHenry
+  lat: '37.3795'
+  long: "-86.9226"
+  nearby_rate_centers:
+  - name: BEAVER DAM
+    distance_km: 5.31
+  - name: CENTERTOWN
+    distance_km: 8.05
+  - name: HARTFORD
+    distance_km: 8.17
+- country: US
+  region: KY
+  name: McKee
+  lat: '37.4300'
+  long: "-83.9859"
+  nearby_rate_centers:
+  - name: MCKEE
+    distance_km: 1.09
+  - name: SANDGAP
+    distance_km: 11.79
+  - name: ANNVILLE
+    distance_km: 20.03
+- country: US
+  region: KY
+  name: McKinney
+  lat: '37.4531'
+  long: "-84.7577"
+  nearby_rate_centers:
+  - name: HUSTONVL
+    distance_km: 5.94
+  - name: STANFORD
+    distance_km: 12.65
+  - name: JUNCTIONCY
+    distance_km: 15.03
+- country: US
+  region: KY
+  name: McRoberts
+  lat: '37.2132'
+  long: "-82.6687"
+  nearby_rate_centers:
+  - name: JENKINS
+    distance_km: 4.79
+  - name: NEON
+    distance_km: 6.37
+  - name: WHEELWRIHT
+    distance_km: 15.28
+- country: US
+  region: KY
+  name: Meadow Vale
+  lat: '38.2833'
+  long: "-85.5725"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 16.88
+  - name: SIMPSONVL
+    distance_km: 20.41
+  - name: LA GRANGE
+    distance_km: 21.85
+- country: US
+  region: KY
+  name: Meadowbrook Farm
+  lat: '38.2783'
+  long: "-85.5748"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 16.55
+  - name: SIMPSONVL
+    distance_km: 20.44
+  - name: LA GRANGE
+    distance_km: 22.36
+- country: US
+  region: KY
+  name: Meadowview Estates
+  lat: '38.2227'
+  long: "-85.6353"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 11.05
+  - name: MTWASHIGTN
+    distance_km: 21.11
+  - name: ZONETON
+    distance_km: 22.76
+- country: US
+  region: KY
+  name: Melbourne
+  lat: '39.0319'
+  long: "-84.3707"
+  nearby_rate_centers:
+  - name: ALEXANDRIA
+    distance_km: 7.37
+  - name: COVINGTON
+    distance_km: 13.09
+  - name: INDEPNDNCE
+    distance_km: 18.56
+- country: US
+  region: KY
+  name: Mentor
+  lat: '38.8900'
+  long: "-84.2481"
+  nearby_rate_centers:
+  - name: ALEXANDRIA
+    distance_km: 14.38
+  - name: BUTLER
+    distance_km: 15.69
+  - name: JOHNSVILLE
+    distance_km: 16.92
+- country: US
+  region: KY
+  name: Middlesborough
+  lat: '36.6127'
+  long: "-83.7227"
+  nearby_rate_centers:
+  - name: MIDDLESBO
+    distance_km: 0.48
+  - name: PINEVILLE
+    distance_km: 15.24
+  - name: FLAT LICK
+    distance_km: 24.72
+- country: US
+  region: KY
+  name: Middletown
+  lat: '38.2410'
+  long: "-85.5214"
+  nearby_rate_centers:
+  - name: SIMPSONVL
+    distance_km: 15.04
+  - name: LOUISVILLE
+    distance_km: 20.76
+  - name: FINCHVILLE
+    distance_km: 21.02
+- country: US
+  region: KY
+  name: Midway
+  lat: '38.1562'
+  long: "-84.6760"
+  nearby_rate_centers:
+  - name: MIDWAY
+    distance_km: 0.85
+  - name: GEORGETOWN
+    distance_km: 12.29
+  - name: STAMPNGRND
+    distance_km: 12.45
+- country: US
+  region: KY
+  name: Millersburg
+  lat: '38.3040'
+  long: "-84.1450"
+  nearby_rate_centers:
+  - name: MILLERBURG
+    distance_km: 0.62
+  - name: CARLISLE
+    distance_km: 10.6
+  - name: PARIS
+    distance_km: 13.94
+- country: US
+  region: KY
+  name: Millstone
+  lat: '37.1638'
+  long: "-82.7495"
+  nearby_rate_centers:
+  - name: NEON
+    distance_km: 2.82
+  - name: WHITESBURG
+    distance_km: 8.57
+  - name: JENKINS
+    distance_km: 9.43
+- country: US
+  region: KY
+  name: Milton
+  lat: '38.7113'
+  long: "-85.3734"
+  nearby_rate_centers:
+  - name: MILTON
+    distance_km: 1.71
+  - name: BEDFORD
+    distance_km: 13.34
+  - name: CARROLLTON
+    distance_km: 18.44
+- country: US
+  region: KY
+  name: Mockingbird Valley
+  lat: '38.2701'
+  long: "-85.6815"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 7.39
+  - name: ZONETON
+    distance_km: 27.56
+  - name: MTWASHIGTN
+    distance_km: 27.62
+- country: US
+  region: KY
+  name: Monterey
+  lat: '38.4233'
+  long: "-84.8728"
+  nearby_rate_centers:
+  - name: OWENTON
+    distance_km: 13.33
+  - name: NEWLIBERTY
+    distance_km: 21.86
+  - name: PORT ROYAL
+    distance_km: 22.98
+- country: US
+  region: KY
+  name: Monticello
+  lat: '36.8412'
+  long: "-84.8502"
+  nearby_rate_centers:
+  - name: MONTICELLO
+    distance_km: 1.01
+  - name: JAMESTOWN
+    distance_km: 24.94
+  - name: FAUBUSH
+    distance_km: 24.96
+- country: US
+  region: KY
+  name: Moorland
+  lat: '38.2728'
+  long: "-85.5800"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 15.97
+  - name: SIMPSONVL
+    distance_km: 20.72
+  - name: LA GRANGE
+    distance_km: 23.11
+- country: US
+  region: KY
+  name: Morehead
+  lat: '38.1906'
+  long: "-83.4466"
+  nearby_rate_centers:
+  - name: MOREHEAD
+    distance_km: 1.54
+  - name: SALT LICK
+    distance_km: 16.5
+  - name: HILLSBORO
+    distance_km: 20.9
+- country: US
+  region: KY
+  name: Morganfield
+  lat: '37.6869'
+  long: "-87.8878"
+  nearby_rate_centers:
+  - name: MORGANFLD
+    distance_km: 2.54
+  - name: UNIONTOWN
+    distance_km: 10.52
+  - name: STURGIS
+    distance_km: 17.44
+- country: US
+  region: KY
+  name: Morgantown
+  lat: '37.2174'
+  long: "-86.7001"
+  nearby_rate_centers:
+  - name: MORGANTOWN
+    distance_km: 2.1
+  - name: LOGANSPORT
+    distance_km: 6.89
+  - name: ROCHESTER
+    distance_km: 17.13
+- country: US
+  region: KY
+  name: Mortons Gap
+  lat: '37.2402'
+  long: "-87.4668"
+  nearby_rate_centers:
+  - name: MORTONSGAP
+    distance_km: 0.42
+  - name: EARLINGTON
+    distance_km: 5.24
+  - name: NORTONVL
+    distance_km: 5.38
+- country: US
+  region: KY
+  name: Moseleyville
+  lat: '37.6747'
+  long: "-87.1938"
+  nearby_rate_centers:
+  - name: PANTHER
+    distance_km: 4.5
+  - name: W LOUISVL
+    distance_km: 8.34
+  - name: SORGHO
+    distance_km: 9.79
+- country: US
+  region: KY
+  name: Mount Olivet
+  lat: '38.5318'
+  long: "-84.0357"
+  nearby_rate_centers:
+  - name: MT OLIVET
+    distance_km: 0.28
+  - name: GERMANTOWN
+    distance_km: 15.48
+  - name: MAYS LICK
+    distance_km: 17.13
+- country: US
+  region: KY
+  name: Mount Sterling
+  lat: '38.0648'
+  long: "-83.9472"
+  nearby_rate_centers:
+  - name: MTSTERLING
+    distance_km: 0.83
+  - name: SHARPSBURG
+    distance_km: 15.09
+  - name: NOMIDDLETN
+    distance_km: 17.18
+- country: US
+  region: KY
+  name: Mount Vernon
+  lat: '37.3654'
+  long: "-84.3401"
+  nearby_rate_centers:
+  - name: MT VERNON
+    distance_km: 1.09
+  - name: BRODHEAD
+    distance_km: 8.16
+  - name: LIVINGSTON
+    distance_km: 12.35
+- country: US
+  region: KY
+  name: Mount Washington
+  lat: '38.0430'
+  long: "-85.5551"
+  nearby_rate_centers:
+  - name: MTWASHIGTN
+    distance_km: 1.89
+  - name: ZONETON
+    distance_km: 11.87
+  - name: SHEPHEDSVL
+    distance_km: 15.16
+- country: US
+  region: KY
+  name: Muldraugh
+  lat: '37.9365'
+  long: "-85.9915"
+  nearby_rate_centers:
+  - name: ROSETRRACE
+    distance_km: 4.41
+  - name: WEST POINT
+    distance_km: 6.95
+  - name: RADCLIFF
+    distance_km: 11.69
+- country: US
+  region: KY
+  name: Munfordville
+  lat: '37.2795'
+  long: "-85.8982"
+  nearby_rate_centers:
+  - name: MUNFORDVL
+    distance_km: 1.56
+  - name: BONNIEVL
+    distance_km: 9.71
+  - name: HORSE CAVE
+    distance_km: 10.95
+- country: US
+  region: KY
+  name: Murray
+  lat: '36.6146'
+  long: "-88.3207"
+  nearby_rate_centers:
+  - name: MURRAY
+    distance_km: 1.35
+  - name: LYNN GROVE
+    distance_km: 11.09
+  - name: KIRKSEY
+    distance_km: 11.54
+- country: US
+  region: KY
+  name: Murray Hill
+  lat: '38.2905'
+  long: "-85.5872"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 15.89
+  - name: SIMPSONVL
+    distance_km: 21.88
+  - name: LA GRANGE
+    distance_km: 22.36
+- country: US
+  region: KY
+  name: Nebo
+  lat: '37.3832'
+  long: "-87.6416"
+  nearby_rate_centers:
+  - name: NEBO
+    distance_km: 0.23
+  - name: PROVIDENCE
+    distance_km: 10.38
+  - name: MADISONVL
+    distance_km: 13.68
+- country: US
+  region: KY
+  name: New Castle
+  lat: '38.4334'
+  long: "-85.1689"
+  nearby_rate_centers:
+  - name: EMINENCE
+    distance_km: 7.73
+  - name: CAMPBELSBG
+    distance_km: 10.42
+  - name: SULPHUR
+    distance_km: 11.27
+- country: US
+  region: KY
+  name: New Haven
+  lat: '37.6592'
+  long: "-85.5886"
+  nearby_rate_centers:
+  - name: NEW HAVEN
+    distance_km: 1.01
+  - name: HODGENVL
+    distance_km: 16.3
+  - name: LORETTO
+    distance_km: 17.16
+- country: US
+  region: KY
+  name: New Hope
+  lat: '37.6279'
+  long: "-85.5067"
+  nearby_rate_centers:
+  - name: NEW HAVEN
+    distance_km: 8.67
+  - name: LORETTO
+    distance_km: 9.75
+  - name: BARDSTOWN
+    distance_km: 20.34
+- country: US
+  region: KY
+  name: Newport
+  lat: '39.0856'
+  long: "-84.4868"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 1.92
+  - name: BOONE
+    distance_km: 16.0
+  - name: ALEXANDRIA
+    distance_km: 16.05
+- country: US
+  region: KY
+  name: Nicholasville
+  lat: '37.8906'
+  long: "-84.5668"
+  nearby_rate_centers:
+  - name: NICHOLASVL
+    distance_km: 0.63
+  - name: WILMORE
+    distance_km: 9.04
+  - name: LEXINGTON
+    distance_km: 18.74
+- country: US
+  region: KY
+  name: Norbourne Estates
+  lat: '38.2466'
+  long: "-85.6465"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 9.83
+  - name: MTWASHIGTN
+    distance_km: 23.93
+  - name: ZONETON
+    distance_km: 25.21
+- country: US
+  region: KY
+  name: North Corbin
+  lat: '36.9649'
+  long: "-84.0973"
+  nearby_rate_centers:
+  - name: CORBIN
+    distance_km: 1.74
+  - name: LONDON
+    distance_km: 18.66
+  - name: BARBOURVL
+    distance_km: 22.99
+- country: US
+  region: KY
+  name: North Middletown
+  lat: '38.1425'
+  long: "-84.1102"
+  nearby_rate_centers:
+  - name: NOMIDDLETN
+    distance_km: 0.93
+  - name: LITTLEROCK
+    distance_km: 8.11
+  - name: PARIS
+    distance_km: 14.24
+- country: US
+  region: KY
+  name: Northfield
+  lat: '38.2857'
+  long: "-85.6363"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 11.7
+  - name: SIMPSONVL
+    distance_km: 25.83
+  - name: LA GRANGE
+    distance_km: 26.21
+- country: US
+  region: KY
+  name: Nortonville
+  lat: '37.1860'
+  long: "-87.4556"
+  nearby_rate_centers:
+  - name: NORTONVL
+    distance_km: 1.05
+  - name: MORTONSGAP
+    distance_km: 6.53
+  - name: ST CHARLES
+    distance_km: 9.27
+- country: US
+  region: KY
+  name: Norwood
+  lat: '38.2522'
+  long: "-85.6109"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 12.97
+  - name: SIMPSONVL
+    distance_km: 22.95
+  - name: MTWASHIGTN
+    distance_km: 23.44
+- country: US
+  region: KY
+  name: Oak Grove
+  lat: '36.6686'
+  long: "-87.4216"
+  nearby_rate_centers:
+  - name: OAK GROVE
+    distance_km: 4.15
+  - name: PEMBROKE
+    distance_km: 13.47
+  - name: TRENTON
+    distance_km: 15.87
+- country: US
+  region: KY
+  name: Oakbrook
+  lat: '38.9996'
+  long: "-84.6797"
+  nearby_rate_centers:
+  - name: BOONE
+    distance_km: 3.78
+  - name: INDEPNDNCE
+    distance_km: 12.93
+  - name: WALTON
+    distance_km: 15.79
+- country: US
+  region: KY
+  name: Oakland
+  lat: '37.0467'
+  long: "-86.2506"
+  nearby_rate_centers:
+  - name: SMITHS GRV
+    distance_km: 3.78
+  - name: BROWNSVL
+    distance_km: 16.29
+  - name: BOWLNGGREN
+    distance_km: 17.54
+- country: US
+  region: KY
+  name: Old Brownsboro Place
+  lat: '38.2892'
+  long: "-85.6132"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 13.71
+  - name: SIMPSONVL
+    distance_km: 24.0
+  - name: LA GRANGE
+    distance_km: 24.3
+- country: US
+  region: KY
+  name: Olive Hill
+  lat: '38.3037'
+  long: "-83.1682"
+  nearby_rate_centers:
+  - name: OLIVE HILL
+    distance_km: 1.43
+  - name: GRAYSON
+    distance_km: 19.19
+  - name: SANDY HOOK
+    distance_km: 24.65
+- country: US
+  region: KY
+  name: Oneida
+  lat: '37.2701'
+  long: "-83.6496"
+  nearby_rate_centers:
+  - name: ONEIDA
+    distance_km: 0.37
+  - name: ANNVILLE
+    distance_km: 14.99
+  - name: MANCHESTER
+    distance_km: 16.84
+- country: US
+  region: KY
+  name: Onton
+  lat: '37.5578'
+  long: "-87.4370"
+  nearby_rate_centers:
+  - name: SLAUGHTERS
+    distance_km: 9.15
+  - name: SEBREE
+    distance_km: 10.18
+  - name: CALHOUN
+    distance_km: 15.91
+- country: US
+  region: KY
+  name: Orchard Grass Hills
+  lat: '38.3234'
+  long: "-85.5236"
+  nearby_rate_centers:
+  - name: LA GRANGE
+    distance_km: 15.73
+  - name: SIMPSONVL
+    distance_km: 18.57
+  - name: LOUISVILLE
+    distance_km: 22.39
+- country: US
+  region: KY
+  name: Owensboro
+  lat: '37.7575'
+  long: "-87.1172"
+  nearby_rate_centers:
+  - name: OWENSBORO
+    distance_km: 1.33
+  - name: ENSOR
+    distance_km: 11.51
+  - name: SORGHO
+    distance_km: 11.53
+- country: US
+  region: KY
+  name: Owenton
+  lat: '38.5385'
+  long: "-84.8411"
+  nearby_rate_centers:
+  - name: OWENTON
+    distance_km: 0.3
+  - name: NEWLIBERTY
+    distance_km: 10.58
+  - name: GLENCOE
+    distance_km: 19.75
+- country: US
+  region: KY
+  name: Owingsville
+  lat: '38.1364'
+  long: "-83.7604"
+  nearby_rate_centers:
+  - name: OWINGSVL
+    distance_km: 0.8
+  - name: SALT LICK
+    distance_km: 12.65
+  - name: SHARPSBURG
+    distance_km: 16.1
+- country: US
+  region: KY
+  name: Paducah
+  lat: '37.0711'
+  long: "-88.6440"
+  nearby_rate_centers:
+  - name: PADUCAH
+    distance_km: 3.59
+  - name: HEATH
+    distance_km: 13.2
+  - name: SYMSONIA
+    distance_km: 20.54
+- country: US
+  region: KY
+  name: Paintsville
+  lat: '37.8163'
+  long: "-82.8089"
+  nearby_rate_centers:
+  - name: PAINTSVL
+    distance_km: 0.07
+  - name: STAFORDSVL
+    distance_km: 4.54
+  - name: FLAT GAP
+    distance_km: 14.59
+- country: US
+  region: KY
+  name: Panther
+  lat: '37.6410'
+  long: "-87.2258"
+  nearby_rate_centers:
+  - name: PANTHER
+    distance_km: 0.23
+  - name: W LOUISVL
+    distance_km: 8.18
+  - name: UTICA
+    distance_km: 10.88
+- country: US
+  region: KY
+  name: Paris
+  lat: '38.2016'
+  long: "-84.2718"
+  nearby_rate_centers:
+  - name: PARIS
+    distance_km: 2.13
+  - name: NOMIDDLETN
+    distance_km: 15.21
+  - name: MILLERBURG
+    distance_km: 16.46
+- country: US
+  region: KY
+  name: Park City
+  lat: '37.0934'
+  long: "-86.0486"
+  nearby_rate_centers:
+  - name: PARK CITY
+    distance_km: 0.29
+  - name: CAVE CITY
+    distance_km: 9.15
+  - name: MAMOTHCAVE
+    distance_km: 10.75
+- country: US
+  region: KY
+  name: Park Hills
+  lat: '39.0692'
+  long: "-84.5313"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 2.4
+  - name: BOONE
+    distance_km: 11.85
+  - name: INDEPNDNCE
+    distance_km: 14.37
+- country: US
+  region: KY
+  name: Parkway Village
+  lat: '38.2113'
+  long: "-85.7381"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 4.01
+  - name: ZONETON
+    distance_km: 21.47
+  - name: SHEPHEDSVL
+    distance_km: 24.43
+- country: US
+  region: KY
+  name: Pathfork
+  lat: '36.7594'
+  long: "-83.4711"
+  nearby_rate_centers:
+  - name: WALLINSCRK
+    distance_km: 9.36
+  - name: HARLAN
+    distance_km: 15.9
+  - name: PINEVILLE
+    distance_km: 19.65
+- country: US
+  region: KY
+  name: Payne Gap
+  lat: '37.1510'
+  long: "-82.6669"
+  nearby_rate_centers:
+  - name: JENKINS
+    distance_km: 3.34
+  - name: NEON
+    distance_km: 6.76
+  - name: WHITESBURG
+    distance_km: 14.68
+- country: US
+  region: KY
+  name: Pembroke
+  lat: '36.7752'
+  long: "-87.3580"
+  nearby_rate_centers:
+  - name: PEMBROKE
+    distance_km: 0.81
+  - name: TRENTON
+    distance_km: 10.45
+  - name: HOPKINSVL
+    distance_km: 15.29
+- country: US
+  region: KY
+  name: Perryville
+  lat: '37.6494'
+  long: "-84.9513"
+  nearby_rate_centers:
+  - name: PERRYVILLE
+    distance_km: 0.36
+  - name: MACKVILLE
+    distance_km: 13.88
+  - name: JUNCTIONCY
+    distance_km: 15.09
+- country: US
+  region: KY
+  name: Petersburg
+  lat: '39.0531'
+  long: "-84.8573"
+  nearby_rate_centers:
+  - name: BOONE
+    distance_km: 20.0
+  - name: WALTON
+    distance_km: 29.28
+  - name: INDEPNDNCE
+    distance_km: 29.29
+- country: US
+  region: KY
+  name: Pewee Valley
+  lat: '38.3105'
+  long: "-85.4896"
+  nearby_rate_centers:
+  - name: LA GRANGE
+    distance_km: 14.55
+  - name: SIMPSONVL
+    distance_km: 15.33
+  - name: FINCHVILLE
+    distance_km: 23.34
+- country: US
+  region: KY
+  name: Phelps
+  lat: '37.5090'
+  long: "-82.1605"
+  nearby_rate_centers:
+  - name: FREEBURN
+    distance_km: 6.43
+  - name: MCCARR
+    distance_km: 8.55
+  - name: STONE
+    distance_km: 13.02
+- country: US
+  region: KY
+  name: Philpot
+  lat: '37.7356'
+  long: "-87.0013"
+  nearby_rate_centers:
+  - name: ENSOR
+    distance_km: 5.37
+  - name: HABIT
+    distance_km: 7.61
+  - name: OWENSBORO
+    distance_km: 10.92
+- country: US
+  region: KY
+  name: Pikeville
+  lat: '37.4806'
+  long: "-82.5262"
+  nearby_rate_centers:
+  - name: PIKEVILLE
+    distance_km: 0.29
+  - name: GRETHEL
+    distance_km: 11.89
+  - name: HAROLD
+    distance_km: 12.61
+- country: US
+  region: KY
+  name: Pine Knot
+  lat: '36.6648'
+  long: "-84.4395"
+  nearby_rate_centers:
+  - name: PINE KNOT
+    distance_km: 0.53
+  - name: STNSWHLYCY
+    distance_km: 5.11
+  - name: WILLIAMSBG
+    distance_km: 26.55
+- country: US
+  region: KY
+  name: Pineville
+  lat: '36.7532'
+  long: "-83.7076"
+  nearby_rate_centers:
+  - name: PINEVILLE
+    distance_km: 1.61
+  - name: FLAT LICK
+    distance_km: 10.32
+  - name: MIDDLESBO
+    distance_km: 16.13
+- country: US
+  region: KY
+  name: Pioneer Village
+  lat: '38.0599'
+  long: "-85.6800"
+  nearby_rate_centers:
+  - name: ZONETON
+    distance_km: 4.24
+  - name: SHEPHEDSVL
+    distance_km: 8.15
+  - name: MTWASHIGTN
+    distance_km: 12.71
+- country: US
+  region: KY
+  name: Pippa Passes
+  lat: '37.3342'
+  long: "-82.8733"
+  nearby_rate_centers:
+  - name: PIPPAPASSS
+    distance_km: 0.55
+  - name: TOPMOST
+    distance_km: 7.09
+  - name: MOUSIE
+    distance_km: 9.27
+- country: US
+  region: KY
+  name: Plano
+  lat: '36.8772'
+  long: "-86.4165"
+  nearby_rate_centers:
+  - name: WOODBURN
+    distance_km: 11.12
+  - name: BOWLNGGREN
+    distance_km: 13.71
+  - name: FRANKLIN
+    distance_km: 22.41
+- country: US
+  region: KY
+  name: Plantation
+  lat: '38.2834'
+  long: "-85.5936"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 15.11
+  - name: SIMPSONVL
+    distance_km: 22.17
+  - name: LA GRANGE
+    distance_km: 23.28
+- country: US
+  region: KY
+  name: Pleasant Ridge
+  lat: '37.5939'
+  long: "-86.9935"
+  nearby_rate_centers:
+  - name: PLEASATRDG
+    distance_km: 0.7
+  - name: HABIT
+    distance_km: 9.14
+  - name: UTICA
+    distance_km: 10.6
+- country: US
+  region: KY
+  name: Pleasant View
+  lat: '36.6782'
+  long: "-84.1284"
+  nearby_rate_centers:
+  - name: WILLIAMSBG
+    distance_km: 7.53
+  - name: JELLICO
+    distance_km: 9.4
+  - name: PINE KNOT
+    distance_km: 27.84
+- country: US
+  region: KY
+  name: Pleasureville
+  lat: '38.3510'
+  long: "-85.1121"
+  nearby_rate_centers:
+  - name: CROPPER
+    distance_km: 5.94
+  - name: EMINENCE
+    distance_km: 6.51
+  - name: BAGDAD
+    distance_km: 10.41
+- country: US
+  region: KY
+  name: Plum Springs
+  lat: '37.0210'
+  long: "-86.3777"
+  nearby_rate_centers:
+  - name: BOWLNGGREN
+    distance_km: 5.96
+  - name: SMITHS GRV
+    distance_km: 15.39
+  - name: BROWNSVL
+    distance_km: 21.38
+- country: US
+  region: KY
+  name: Poole
+  lat: '37.6392'
+  long: "-87.6447"
+  nearby_rate_centers:
+  - name: ROBARDS
+    distance_km: 9.35
+  - name: SEBREE
+    distance_km: 10.33
+  - name: CORYDON
+    distance_km: 13.27
+- country: US
+  region: KY
+  name: Poplar Hills
+  lat: '38.1780'
+  long: "-85.6931"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 9.28
+  - name: ZONETON
+    distance_km: 17.32
+  - name: MTWASHIGTN
+    distance_km: 19.83
+- country: US
+  region: KY
+  name: Powderly
+  lat: '37.2374'
+  long: "-87.1589"
+  nearby_rate_centers:
+  - name: GREENVILLE
+    distance_km: 3.62
+  - name: CENTRAL CY
+    distance_km: 7.71
+  - name: DRAKESBORO
+    distance_km: 9.94
+- country: US
+  region: KY
+  name: Prestonsburg
+  lat: '37.6819'
+  long: "-82.7661"
+  nearby_rate_centers:
+  - name: PRESTONSBG
+    distance_km: 1.94
+  - name: ALLEN
+    distance_km: 8.53
+  - name: MARTIN
+    distance_km: 12.02
+- country: US
+  region: KY
+  name: Prestonville
+  lat: '38.6805'
+  long: "-85.1931"
+  nearby_rate_centers:
+  - name: CARROLLTON
+    distance_km: 2.57
+  - name: GHENT
+    distance_km: 12.91
+  - name: BEDFORD
+    distance_km: 14.19
+- country: US
+  region: KY
+  name: Princeton
+  lat: '37.1068'
+  long: "-87.8853"
+  nearby_rate_centers:
+  - name: PRINCETON
+    distance_km: 1.1
+  - name: EDDYVILLE
+    distance_km: 17.56
+  - name: FREDONIA
+    distance_km: 18.96
+- country: US
+  region: KY
+  name: Prospect
+  lat: '38.3471'
+  long: "-85.6103"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 17.36
+  - name: LA GRANGE
+    distance_km: 21.19
+  - name: SIMPSONVL
+    distance_km: 26.36
+- country: US
+  region: KY
+  name: Providence
+  lat: '37.3993'
+  long: "-87.7509"
+  nearby_rate_centers:
+  - name: PROVIDENCE
+    distance_km: 0.63
+  - name: NEBO
+    distance_km: 9.75
+  - name: CLAY
+    distance_km: 11.21
+- country: US
+  region: KY
+  name: Pryorsburg
+  lat: '36.6899'
+  long: "-88.7124"
+  nearby_rate_centers:
+  - name: WINGO
+    distance_km: 5.9
+  - name: MAYFIELD
+    distance_km: 8.54
+  - name: SEDALIA
+    distance_km: 11.29
+- country: US
+  region: KY
+  name: Rabbit Hash
+  lat: '38.9240'
+  long: "-84.8502"
+  nearby_rate_centers:
+  - name: WARSAW
+    distance_km: 15.9
+  - name: BOONE
+    distance_km: 20.38
+  - name: WALTON
+    distance_km: 20.99
+- country: US
+  region: KY
+  name: Raceland
+  lat: '38.5376'
+  long: "-82.7344"
+  nearby_rate_centers:
+  - name: RUSSELL
+    distance_km: 4.04
+  - name: GREENUP
+    distance_km: 10.31
+  - name: ASHLAND
+    distance_km: 11.45
+- country: US
+  region: KY
+  name: Radcliff
+  lat: '37.8204'
+  long: "-85.9365"
+  nearby_rate_centers:
+  - name: RADCLIFF
+    distance_km: 2.11
+  - name: VINE GROVE
+    distance_km: 3.53
+  - name: ROSETRRACE
+    distance_km: 9.37
+- country: US
+  region: KY
+  name: Ravenna
+  lat: '37.6871'
+  long: "-83.9502"
+  nearby_rate_centers:
+  - name: IRVINE
+    distance_km: 1.52
+  - name: WACO
+    distance_km: 17.87
+  - name: STANTON
+    distance_km: 20.11
+- country: US
+  region: KY
+  name: Raywick
+  lat: '37.5606'
+  long: "-85.4311"
+  nearby_rate_centers:
+  - name: LORETTO
+    distance_km: 8.74
+  - name: LEBANON
+    distance_km: 15.99
+  - name: NEW HAVEN
+    distance_km: 18.48
+- country: US
+  region: KY
+  name: Reidland
+  lat: '37.0085'
+  long: "-88.5261"
+  nearby_rate_centers:
+  - name: SYMSONIA
+    distance_km: 10.16
+  - name: PADUCAH
+    distance_km: 11.25
+  - name: CALVERT CY
+    distance_km: 15.66
+- country: US
+  region: KY
+  name: Richlawn
+  lat: '38.2547'
+  long: "-85.6412"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 10.37
+  - name: MTWASHIGTN
+    distance_km: 24.58
+  - name: SIMPSONVL
+    distance_km: 25.61
+- country: US
+  region: KY
+  name: Richmond
+  lat: '37.7307'
+  long: "-84.2925"
+  nearby_rate_centers:
+  - name: RICHMOND
+    distance_km: 2.24
+  - name: KIRKSVILLE
+    distance_km: 12.6
+  - name: WACO
+    distance_km: 13.26
+- country: US
+  region: KY
+  name: Rineyville
+  lat: '37.7501'
+  long: "-85.9703"
+  nearby_rate_centers:
+  - name: VINE GROVE
+    distance_km: 6.78
+  - name: CECILIA
+    distance_km: 9.44
+  - name: RADCLIFF
+    distance_km: 10.17
+- country: US
+  region: KY
+  name: River Bluff
+  lat: '38.3720'
+  long: "-85.6040"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 19.68
+  - name: LA GRANGE
+    distance_km: 19.91
+  - name: SIMPSONVL
+    distance_km: 27.42
+- country: US
+  region: KY
+  name: Riverwood
+  lat: '38.2829'
+  long: "-85.6612"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 9.6
+  - name: SIMPSONVL
+    distance_km: 27.87
+  - name: MTWASHIGTN
+    distance_km: 28.15
+- country: US
+  region: KY
+  name: Robards
+  lat: '37.6766'
+  long: "-87.5333"
+  nearby_rate_centers:
+  - name: ROBARDS
+    distance_km: 1.35
+  - name: SEBREE
+    distance_km: 7.81
+  - name: CORYDON
+    distance_km: 16.9
+- country: US
+  region: KY
+  name: Rochester
+  lat: '37.2093'
+  long: "-86.8921"
+  nearby_rate_centers:
+  - name: ROCHESTER
+    distance_km: 0.28
+  - name: DRAKESBORO
+    distance_km: 13.98
+  - name: LOGANSPORT
+    distance_km: 14.09
+- country: US
+  region: KY
+  name: Rockholds
+  lat: '36.8308'
+  long: "-84.1131"
+  nearby_rate_centers:
+  - name: WILLIAMSBG
+    distance_km: 10.66
+  - name: CORBIN
+    distance_km: 13.24
+  - name: BARBOURVL
+    distance_km: 21.48
+- country: US
+  region: KY
+  name: Rockport
+  lat: '37.3359'
+  long: "-86.9910"
+  nearby_rate_centers:
+  - name: CENTERTOWN
+    distance_km: 8.94
+  - name: CENTRAL CY
+    distance_km: 12.39
+  - name: BEAVER DAM
+    distance_km: 13.05
+- country: US
+  region: KY
+  name: Rolling Fields
+  lat: '38.2689'
+  long: "-85.6708"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 8.21
+  - name: MTWASHIGTN
+    distance_km: 27.08
+  - name: ZONETON
+    distance_km: 27.47
+- country: US
+  region: KY
+  name: Rolling Hills
+  lat: '38.2825'
+  long: "-85.5784"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 16.36
+  - name: SIMPSONVL
+    distance_km: 20.88
+  - name: LA GRANGE
+    distance_km: 22.3
+- country: US
+  region: KY
+  name: Rosine
+  lat: '37.4523'
+  long: "-86.7374"
+  nearby_rate_centers:
+  - name: BEAVER DAM
+    distance_km: 13.09
+  - name: HARTFORD
+    distance_km: 14.3
+  - name: FORDSVILLE
+    distance_km: 20.29
+- country: US
+  region: KY
+  name: Russell
+  lat: '38.5116'
+  long: "-82.6996"
+  nearby_rate_centers:
+  - name: RUSSELL
+    distance_km: 1.42
+  - name: ASHLAND
+    distance_km: 7.26
+  - name: MEADS
+    distance_km: 10.83
+- country: US
+  region: KY
+  name: Russell Springs
+  lat: '37.0510'
+  long: "-85.0774"
+  nearby_rate_centers:
+  - name: RUSSELLSPG
+    distance_km: 0.89
+  - name: JAMESTOWN
+    distance_km: 7.53
+  - name: COLUMBIA
+    distance_km: 20.88
+- country: US
+  region: KY
+  name: Russellville
+  lat: '36.8394'
+  long: "-86.8950"
+  nearby_rate_centers:
+  - name: RUSSELLVL
+    distance_km: 1.71
+  - name: AUBURN
+    distance_km: 16.01
+  - name: LEWISBRG
+    distance_km: 16.94
+- country: US
+  region: KY
+  name: Ryland Heights
+  lat: '38.9701'
+  long: "-84.4607"
+  nearby_rate_centers:
+  - name: ALEXANDRIA
+    distance_km: 6.78
+  - name: INDEPNDNCE
+    distance_km: 8.43
+  - name: COVINGTON
+    distance_km: 13.03
+- country: US
+  region: KY
+  name: Sacramento
+  lat: '37.4160'
+  long: "-87.2678"
+  nearby_rate_centers:
+  - name: SACRAMENTO
+    distance_km: 0.98
+  - name: BREMEN
+    distance_km: 7.96
+  - name: ISLAND
+    distance_km: 11.73
+- country: US
+  region: KY
+  name: Sadieville
+  lat: '38.3883'
+  long: "-84.5490"
+  nearby_rate_centers:
+  - name: SADIEVILLE
+    distance_km: 1.37
+  - name: STAMPNGRND
+    distance_km: 17.81
+  - name: GEORGETOWN
+    distance_km: 19.98
+- country: US
+  region: KY
+  name: Saint Joseph
+  lat: '37.6936'
+  long: "-87.3256"
+  nearby_rate_centers:
+  - name: W LOUISVL
+    distance_km: 3.74
+  - name: SORGHO
+    distance_km: 9.38
+  - name: HEBBARDSVL
+    distance_km: 10.1
+- country: US
+  region: KY
+  name: Salem
+  lat: '37.2653'
+  long: "-88.2410"
+  nearby_rate_centers:
+  - name: SALEM
+    distance_km: 0.12
+  - name: MARION
+    distance_km: 15.55
+  - name: FREDONIA
+    distance_km: 17.52
+- country: US
+  region: KY
+  name: Salt Lick
+  lat: '38.1194'
+  long: "-83.6156"
+  nearby_rate_centers:
+  - name: SALT LICK
+    distance_km: 0.71
+  - name: OWINGSVL
+    distance_km: 13.43
+  - name: MOREHEAD
+    distance_km: 17.65
+- country: US
+  region: KY
+  name: Salvisa
+  lat: '37.9210'
+  long: "-84.8615"
+  nearby_rate_centers:
+  - name: SALVISA
+    distance_km: 0.67
+  - name: LAWRENCEBG
+    distance_km: 13.9
+  - name: HARRODSBG
+    distance_km: 17.33
+- country: US
+  region: KY
+  name: Salyersville
+  lat: '37.7459'
+  long: "-83.0646"
+  nearby_rate_centers:
+  - name: SALYERSVL
+    distance_km: 0.55
+  - name: ROYALTON
+    distance_km: 9.67
+  - name: STAFORDSVL
+    distance_km: 20.77
+- country: US
+  region: KY
+  name: Sanders
+  lat: '38.6549'
+  long: "-84.9466"
+  nearby_rate_centers:
+  - name: NEWLIBERTY
+    distance_km: 5.29
+  - name: GLENCOE
+    distance_km: 13.07
+  - name: GHENT
+    distance_km: 13.2
+- country: US
+  region: KY
+  name: Sandy Hook
+  lat: '38.0929'
+  long: "-83.1240"
+  nearby_rate_centers:
+  - name: SANDY HOOK
+    distance_km: 0.98
+  - name: JEPTHA
+    distance_km: 15.7
+  - name: W LIBERTY
+    distance_km: 22.4
+- country: US
+  region: KY
+  name: Sardis
+  lat: '38.5348'
+  long: "-83.9573"
+  nearby_rate_centers:
+  - name: MT OLIVET
+    distance_km: 6.58
+  - name: MAYS LICK
+    distance_km: 10.42
+  - name: GERMANTOWN
+    distance_km: 13.87
+- country: US
+  region: KY
+  name: Science Hill
+  lat: '37.1741'
+  long: "-84.6329"
+  nearby_rate_centers:
+  - name: SCIENCE HL
+    distance_km: 0.22
+  - name: SOMERSET
+    distance_km: 9.34
+  - name: EUBANK
+    distance_km: 12.45
+- country: US
+  region: KY
+  name: Scottsville
+  lat: '36.7544'
+  long: "-86.2053"
+  nearby_rate_centers:
+  - name: SCOTTSVL
+    distance_km: 1.4
+  - name: SCTSVL RUL
+    distance_km: 1.4
+  - name: FOUNTANRUN
+    distance_km: 21.47
+  - name: LUCAS
+    distance_km: 22.18
+- country: US
+  region: KY
+  name: Sebree
+  lat: '37.6040'
+  long: "-87.5187"
+  nearby_rate_centers:
+  - name: SEBREE
+    distance_km: 1.46
+  - name: ROBARDS
+    distance_km: 8.3
+  - name: SLAUGHTERS
+    distance_km: 12.55
+- country: US
+  region: KY
+  name: Sedalia
+  lat: '36.6437'
+  long: "-88.6049"
+  nearby_rate_centers:
+  - name: SEDALIA
+    distance_km: 0.41
+  - name: FARMINGTON
+    distance_km: 7.46
+  - name: LYNNVILLE
+    distance_km: 10.15
+- country: US
+  region: KY
+  name: Seneca Gardens
+  lat: '38.2272'
+  long: "-85.6773"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 7.36
+  - name: ZONETON
+    distance_km: 22.81
+  - name: MTWASHIGTN
+    distance_km: 23.29
+- country: US
+  region: KY
+  name: Sharpsburg
+  lat: '38.2016'
+  long: "-83.9278"
+  nearby_rate_centers:
+  - name: SHARPSBURG
+    distance_km: 0.27
+  - name: LITTLEROCK
+    distance_km: 10.61
+  - name: CARLISLE
+    distance_km: 15.04
+- country: US
+  region: KY
+  name: Shelbyville
+  lat: '38.2067'
+  long: "-85.2292"
+  nearby_rate_centers:
+  - name: SHELBYVL
+    distance_km: 1.4
+  - name: FINCHVILLE
+    distance_km: 8.47
+  - name: SIMPSONVL
+    distance_km: 10.8
+- country: US
+  region: KY
+  name: Shepherdsville
+  lat: '37.9813'
+  long: "-85.7007"
+  nearby_rate_centers:
+  - name: SHEPHEDSVL
+    distance_km: 1.79
+  - name: ZONETON
+    distance_km: 4.69
+  - name: MTWASHIGTN
+    distance_km: 16.37
+- country: US
+  region: KY
+  name: Shively
+  lat: '38.1970'
+  long: "-85.8136"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 7.03
+  - name: ZONETON
+    distance_km: 22.32
+  - name: SHEPHEDSVL
+    distance_km: 24.32
+- country: US
+  region: KY
+  name: Silver Grove
+  lat: '39.0404'
+  long: "-84.3995"
+  nearby_rate_centers:
+  - name: ALEXANDRIA
+    distance_km: 8.38
+  - name: COVINGTON
+    distance_km: 10.44
+  - name: INDEPNDNCE
+    distance_km: 17.12
+- country: US
+  region: KY
+  name: Simpsonville
+  lat: '38.2167'
+  long: "-85.3515"
+  nearby_rate_centers:
+  - name: SIMPSONVL
+    distance_km: 1.12
+  - name: FINCHVILLE
+    distance_km: 7.61
+  - name: SHELBYVL
+    distance_km: 11.69
+- country: US
+  region: KY
+  name: Slaughters
+  lat: '37.4903'
+  long: "-87.5021"
+  nearby_rate_centers:
+  - name: SLAUGHTERS
+    distance_km: 0.31
+  - name: HANSON
+    distance_km: 8.25
+  - name: SEBREE
+    distance_km: 13.23
+- country: US
+  region: KY
+  name: Smithfield
+  lat: '38.3864'
+  long: "-85.2566"
+  nearby_rate_centers:
+  - name: EMINENCE
+    distance_km: 6.72
+  - name: LA GRANGE
+    distance_km: 11.11
+  - name: SULPHUR
+    distance_km: 11.67
+- country: US
+  region: KY
+  name: Smithland
+  lat: '37.1387'
+  long: "-88.4038"
+  nearby_rate_centers:
+  - name: SMITHLAND
+    distance_km: 0.43
+  - name: CALVERT CY
+    distance_km: 12.76
+  - name: GILBERTSVL
+    distance_km: 18.03
+- country: US
+  region: KY
+  name: Smiths Grove
+  lat: '37.0503'
+  long: "-86.2083"
+  nearby_rate_centers:
+  - name: SMITHS GRV
+    distance_km: 0.01
+  - name: PARK CITY
+    distance_km: 14.78
+  - name: BROWNSVL
+    distance_km: 16.69
+- country: US
+  region: KY
+  name: Somerset
+  lat: '37.0834'
+  long: "-84.6109"
+  nearby_rate_centers:
+  - name: SOMERSET
+    distance_km: 1.06
+  - name: SCIENCE HL
+    distance_km: 10.33
+  - name: BURNSIDE
+    distance_km: 11.38
+- country: US
+  region: KY
+  name: Sonora
+  lat: '37.5319'
+  long: "-85.8947"
+  nearby_rate_centers:
+  - name: SO HARDIN
+    distance_km: 0.9
+  - name: HODGENVL
+    distance_km: 14.41
+  - name: CECILIA
+    distance_km: 15.86
+- country: US
+  region: KY
+  name: Sorgho
+  lat: '37.7518'
+  long: "-87.2190"
+  nearby_rate_centers:
+  - name: SORGHO
+    distance_km: 2.56
+  - name: W LOUISVL
+    distance_km: 8.2
+  - name: STANLEY
+    distance_km: 8.72
+- country: US
+  region: KY
+  name: South Carrollton
+  lat: '37.3358'
+  long: "-87.1401"
+  nearby_rate_centers:
+  - name: CENTRAL CY
+    distance_km: 4.13
+  - name: BREMEN
+    distance_km: 7.22
+  - name: ISLAND
+    distance_km: 12.7
+- country: US
+  region: KY
+  name: South Park View
+  lat: '38.1184'
+  long: "-85.7201"
+  nearby_rate_centers:
+  - name: ZONETON
+    distance_km: 11.05
+  - name: SHEPHEDSVL
+    distance_km: 14.03
+  - name: LOUISVILLE
+    distance_km: 14.31
+- country: US
+  region: KY
+  name: South Shore
+  lat: '38.7224'
+  long: "-82.9647"
+  nearby_rate_centers:
+  - name: SOUTHSHORE
+    distance_km: 0.92
+  - name: GREENUP
+    distance_km: 19.36
+  - name: GARRISON
+    distance_km: 21.8
+- country: US
+  region: KY
+  name: South Wallins
+  lat: '36.8152'
+  long: "-83.4044"
+  nearby_rate_centers:
+  - name: WALLINSCRK
+    distance_km: 2.2
+  - name: HARLAN
+    distance_km: 7.67
+  - name: BLEDSOE
+    distance_km: 12.33
+- country: US
+  region: KY
+  name: South Williamson
+  lat: '37.6633'
+  long: "-82.2879"
+  nearby_rate_centers:
+  - name: SOWILLIMSN
+    distance_km: 0.98
+  - name: STONE
+    distance_km: 9.06
+  - name: MCCARR
+    distance_km: 13.8
+- country: US
+  region: KY
+  name: Southgate
+  lat: '39.0631'
+  long: "-84.4715"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 3.77
+  - name: ALEXANDRIA
+    distance_km: 13.24
+  - name: INDEPNDNCE
+    distance_km: 15.22
+- country: US
+  region: KY
+  name: Sparta
+  lat: '38.6969'
+  long: "-84.9074"
+  nearby_rate_centers:
+  - name: GLENCOE
+    distance_km: 8.07
+  - name: NEWLIBERTY
+    distance_km: 8.78
+  - name: WARSAW
+    distance_km: 9.84
+- country: US
+  region: KY
+  name: Spottsville
+  lat: '37.8564'
+  long: "-87.4167"
+  nearby_rate_centers:
+  - name: HEBBARDSVL
+    distance_km: 9.72
+  - name: HENDERSON
+    distance_km: 14.55
+  - name: STANLEY
+    distance_km: 15.58
+- country: US
+  region: KY
+  name: Spring Mill
+  lat: '38.1436'
+  long: "-85.6315"
+  nearby_rate_centers:
+  - name: MTWASHIGTN
+    distance_km: 13.39
+  - name: ZONETON
+    distance_km: 14.37
+  - name: LOUISVILLE
+    distance_km: 15.73
+- country: US
+  region: KY
+  name: Spring Valley
+  lat: '38.2968'
+  long: "-85.6108"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 14.24
+  - name: LA GRANGE
+    distance_km: 23.67
+  - name: SIMPSONVL
+    distance_km: 24.06
+- country: US
+  region: KY
+  name: Springfield
+  lat: '37.6922'
+  long: "-85.2193"
+  nearby_rate_centers:
+  - name: SPRINGFLD
+    distance_km: 1.25
+  - name: MOORESVL
+    distance_km: 12.55
+  - name: LEBANON
+    distance_km: 13.98
+- country: US
+  region: KY
+  name: St. Charles
+  lat: '37.1881'
+  long: "-87.5510"
+  nearby_rate_centers:
+  - name: ST CHARLES
+    distance_km: 1.01
+  - name: NORTONVL
+    distance_km: 9.04
+  - name: MORTONSGAP
+    distance_km: 9.59
+- country: US
+  region: KY
+  name: St. Mary
+  lat: '37.5806'
+  long: "-85.3463"
+  nearby_rate_centers:
+  - name: LORETTO
+    distance_km: 7.4
+  - name: LEBANON
+    distance_km: 8.59
+  - name: SPRINGFLD
+    distance_km: 15.94
+- country: US
+  region: KY
+  name: St. Matthews
+  lat: '38.2497'
+  long: "-85.6384"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 10.56
+  - name: MTWASHIGTN
+    distance_km: 23.97
+  - name: SIMPSONVL
+    distance_km: 25.31
+- country: US
+  region: KY
+  name: St. Regis Park
+  lat: '38.2289'
+  long: "-85.6158"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 12.61
+  - name: MTWASHIGTN
+    distance_km: 21.11
+  - name: SIMPSONVL
+    distance_km: 23.21
+- country: US
+  region: KY
+  name: Stamping Ground
+  lat: '38.2697'
+  long: "-84.6831"
+  nearby_rate_centers:
+  - name: STAMPNGRND
+    distance_km: 0.2
+  - name: GEORGETOWN
+    distance_km: 13.29
+  - name: MIDWAY
+    distance_km: 13.31
+- country: US
+  region: KY
+  name: Stanford
+  lat: '37.5331'
+  long: "-84.6602"
+  nearby_rate_centers:
+  - name: STANFORD
+    distance_km: 0.29
+  - name: LANCASTER
+    distance_km: 11.55
+  - name: JUNCTIONCY
+    distance_km: 13.66
+- country: US
+  region: KY
+  name: Stanley
+  lat: '37.8183'
+  long: "-87.2452"
+  nearby_rate_centers:
+  - name: STANLEY
+    distance_km: 1.08
+  - name: SORGHO
+    distance_km: 7.42
+  - name: OWENSBORO
+    distance_km: 12.43
+- country: US
+  region: KY
+  name: Stanton
+  lat: '37.8465'
+  long: "-83.8564"
+  nearby_rate_centers:
+  - name: STANTON
+    distance_km: 0.79
+  - name: IRVINE
+    distance_km: 20.37
+  - name: FRENCHBURG
+    distance_km: 23.3
+- country: US
+  region: KY
+  name: Stearns
+  lat: '36.6957'
+  long: "-84.4768"
+  nearby_rate_centers:
+  - name: STNSWHLYCY
+    distance_km: 0.37
+  - name: PINE KNOT
+    distance_km: 5.17
+  - name: WILLIAMSBG
+    distance_km: 28.91
+- country: US
+  region: KY
+  name: Strathmoor Manor
+  lat: '38.2190'
+  long: "-85.6836"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 7.13
+  - name: ZONETON
+    distance_km: 21.88
+  - name: MTWASHIGTN
+    distance_km: 22.84
+- country: US
+  region: KY
+  name: Strathmoor Village
+  lat: '38.2208'
+  long: "-85.6778"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 7.53
+  - name: ZONETON
+    distance_km: 22.09
+  - name: MTWASHIGTN
+    distance_km: 22.72
+- country: US
+  region: KY
+  name: Sturgis
+  lat: '37.5466'
+  long: "-87.9879"
+  nearby_rate_centers:
+  - name: STURGIS
+    distance_km: 0.5
+  - name: CLAY
+    distance_km: 16.52
+  - name: MORGANFLD
+    distance_km: 17.5
+- country: US
+  region: KY
+  name: Summer Shade
+  lat: '36.8837'
+  long: "-85.7098"
+  nearby_rate_centers:
+  - name: SUMMERSHAD
+    distance_km: 0.25
+  - name: EDMONTON
+    distance_km: 12.83
+  - name: TEMPLEHILL
+    distance_km: 13.33
+- country: US
+  region: KY
+  name: Summersville
+  lat: '37.3265'
+  long: "-85.5430"
+  nearby_rate_centers:
+  - name: GREENSBURG
+    distance_km: 7.48
+  - name: CAMPBELSVL
+    distance_km: 17.7
+  - name: CANMER
+    distance_km: 20.44
+- country: US
+  region: KY
+  name: Sycamore
+  lat: '38.2468'
+  long: "-85.5612"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 17.28
+  - name: SIMPSONVL
+    distance_km: 18.57
+  - name: MTWASHIGTN
+    distance_km: 22.01
+- country: US
+  region: KY
+  name: Symsonia
+  lat: '36.9211'
+  long: "-88.5227"
+  nearby_rate_centers:
+  - name: SYMSONIA
+    distance_km: 0.75
+  - name: WESTPLAINS
+    distance_km: 8.91
+  - name: FOLSOMDALE
+    distance_km: 13.92
+- country: US
+  region: KY
+  name: Taylor Mill
+  lat: '39.0092'
+  long: "-84.4988"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 8.06
+  - name: INDEPNDNCE
+    distance_km: 8.82
+  - name: ALEXANDRIA
+    distance_km: 11.13
+- country: US
+  region: KY
+  name: Taylorsville
+  lat: '38.0368'
+  long: "-85.3333"
+  nearby_rate_centers:
+  - name: TAYLORSVL
+    distance_km: 0.84
+  - name: BLOOMFIELD
+    distance_km: 13.51
+  - name: FINCHVILLE
+    distance_km: 13.82
+- country: US
+  region: KY
+  name: Ten Broeck
+  lat: '38.2976'
+  long: "-85.5807"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 16.69
+  - name: LA GRANGE
+    distance_km: 21.44
+  - name: SIMPSONVL
+    distance_km: 21.62
+- country: US
+  region: KY
+  name: Thornhill
+  lat: '38.2884'
+  long: "-85.6256"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 12.68
+  - name: SIMPSONVL
+    distance_km: 25.01
+  - name: LA GRANGE
+    distance_km: 25.26
+- country: US
+  region: KY
+  name: Thruston
+  lat: '37.7903'
+  long: "-87.0265"
+  nearby_rate_centers:
+  - name: ENSOR
+    distance_km: 3.27
+  - name: OWENSBORO
+    distance_km: 8.36
+  - name: MACEO
+    distance_km: 8.72
+- country: US
+  region: KY
+  name: Tolu
+  lat: '37.4337'
+  long: "-88.2454"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 18.01
+  - name: SALEM
+    distance_km: 18.67
+  - name: STURGIS
+    distance_km: 26.45
+- country: US
+  region: KY
+  name: Tompkinsville
+  lat: '36.7012'
+  long: "-85.6927"
+  nearby_rate_centers:
+  - name: TOMPKINSVL
+    distance_km: 0.99
+  - name: GAMALIEL
+    distance_km: 11.33
+  - name: SUMMERSHAD
+    distance_km: 20.12
+- country: US
+  region: KY
+  name: Trenton
+  lat: '36.7224'
+  long: "-87.2626"
+  nearby_rate_centers:
+  - name: TRENTON
+    distance_km: 0.51
+  - name: PEMBROKE
+    distance_km: 9.66
+  - name: GUTHRIE
+    distance_km: 11.66
+- country: US
+  region: KY
+  name: Union
+  lat: '38.9469'
+  long: "-84.6729"
+  nearby_rate_centers:
+  - name: BOONE
+    distance_km: 6.75
+  - name: WALTON
+    distance_km: 10.16
+  - name: INDEPNDNCE
+    distance_km: 10.59
+- country: US
+  region: KY
+  name: Uniontown
+  lat: '37.7732'
+  long: "-87.9318"
+  nearby_rate_centers:
+  - name: UNIONTOWN
+    distance_km: 0.24
+  - name: MORGANFLD
+    distance_km: 9.01
+  - name: CORYDON
+    distance_km: 20.4
+- country: US
+  region: KY
+  name: Upton
+  lat: '37.4626'
+  long: "-85.8990"
+  nearby_rate_centers:
+  - name: SO HARDIN
+    distance_km: 7.04
+  - name: BONNIEVL
+    distance_km: 10.65
+  - name: MAGNOLIA
+    distance_km: 13.97
+- country: US
+  region: KY
+  name: Utica
+  lat: '37.6028'
+  long: "-87.1126"
+  nearby_rate_centers:
+  - name: UTICA
+    distance_km: 0.32
+  - name: PANTHER
+    distance_km: 10.67
+  - name: PLEASATRDG
+    distance_km: 10.86
+- country: US
+  region: KY
+  name: Van Lear
+  lat: '37.7742'
+  long: "-82.7557"
+  nearby_rate_centers:
+  - name: PAINTSVL
+    distance_km: 6.56
+  - name: STAFORDSVL
+    distance_km: 10.99
+  - name: PRESTONSBG
+    distance_km: 12.2
+- country: US
+  region: KY
+  name: Vanceburg
+  lat: '38.5944'
+  long: "-83.3245"
+  nearby_rate_centers:
+  - name: VANCEBURG
+    distance_km: 0.87
+  - name: GARRISON
+    distance_km: 13.73
+  - name: TOLLESBORO
+    distance_km: 22.18
+- country: US
+  region: KY
+  name: Verona
+  lat: '38.8122'
+  long: "-84.6649"
+  nearby_rate_centers:
+  - name: WALTON
+    distance_km: 7.11
+  - name: GLENCOE
+    distance_km: 17.06
+  - name: INDEPNDNCE
+    distance_km: 17.39
+- country: US
+  region: KY
+  name: Versailles
+  lat: '38.0486'
+  long: "-84.7258"
+  nearby_rate_centers:
+  - name: VERSAILLES
+    distance_km: 0.7
+  - name: MIDWAY
+    distance_km: 11.92
+  - name: LAWRENCEBG
+    distance_km: 14.61
+- country: US
+  region: KY
+  name: Vicco
+  lat: '37.2161'
+  long: "-83.0609"
+  nearby_rate_centers:
+  - name: VICCO
+    distance_km: 0.94
+  - name: CODY
+    distance_km: 7.72
+  - name: HAZARD
+    distance_km: 12.13
+- country: US
+  region: KY
+  name: Villa Hills
+  lat: '39.0656'
+  long: "-84.5949"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 7.68
+  - name: BOONE
+    distance_km: 8.08
+  - name: INDEPNDNCE
+    distance_km: 14.39
+- country: US
+  region: KY
+  name: Vine Grove
+  lat: '37.8134'
+  long: "-85.9828"
+  nearby_rate_centers:
+  - name: VINE GROVE
+    distance_km: 0.75
+  - name: RADCLIFF
+    distance_km: 4.54
+  - name: ROSETRRACE
+    distance_km: 9.63
+- country: US
+  region: KY
+  name: Virgie
+  lat: '37.3323'
+  long: "-82.5823"
+  nearby_rate_centers:
+  - name: VIRGIE
+    distance_km: 1.35
+  - name: WHEELWRIHT
+    distance_km: 12.77
+  - name: PIKEVILLE
+    distance_km: 17.49
+- country: US
+  region: KY
+  name: Wallins Creek
+  lat: '36.8297'
+  long: "-83.4173"
+  nearby_rate_centers:
+  - name: WALLINSCRK
+    distance_km: 0.24
+  - name: HARLAN
+    distance_km: 8.35
+  - name: BLEDSOE
+    distance_km: 11.43
+- country: US
+  region: KY
+  name: Walton
+  lat: '38.8645'
+  long: "-84.6122"
+  nearby_rate_centers:
+  - name: WALTON
+    distance_km: 0.65
+  - name: INDEPNDNCE
+    distance_km: 10.02
+  - name: BOONE
+    distance_km: 15.24
+- country: US
+  region: KY
+  name: Warfield
+  lat: '37.8415'
+  long: "-82.4224"
+  nearby_rate_centers:
+  - name: WARFIELD
+    distance_km: 0.52
+  - name: INEZ
+    distance_km: 10.71
+  - name: SOWILLIMSN
+    distance_km: 23.9
+- country: US
+  region: KY
+  name: Warsaw
+  lat: '38.7774'
+  long: "-84.9040"
+  nearby_rate_centers:
+  - name: WARSAW
+    distance_km: 1.52
+  - name: GLENCOE
+    distance_km: 10.21
+  - name: GHENT
+    distance_km: 14.44
+- country: US
+  region: KY
+  name: Water Valley
+  lat: '36.5687'
+  long: "-88.8101"
+  nearby_rate_centers:
+  - name: WATER VLY
+    distance_km: 0.27
+  - name: FULTON
+    distance_km: 9.16
+  - name: WINGO
+    distance_km: 10.34
+- country: US
+  region: KY
+  name: Watterson Park
+  lat: '38.1890'
+  long: "-85.6864"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 8.77
+  - name: ZONETON
+    distance_km: 18.54
+  - name: MTWASHIGTN
+    distance_km: 20.34
+- country: US
+  region: KY
+  name: Waverly
+  lat: '37.7092'
+  long: "-87.8146"
+  nearby_rate_centers:
+  - name: MORGANFLD
+    distance_km: 9.06
+  - name: CORYDON
+    distance_km: 10.9
+  - name: UNIONTOWN
+    distance_km: 12.76
+- country: US
+  region: KY
+  name: Wayland
+  lat: '37.4508'
+  long: "-82.7996"
+  nearby_rate_centers:
+  - name: WAYLAND
+    distance_km: 0.96
+  - name: MCDOWELL
+    distance_km: 5.93
+  - name: MOUSIE
+    distance_km: 7.35
+- country: US
+  region: KY
+  name: Wellington
+  lat: '38.2167'
+  long: "-85.6703"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 8.3
+  - name: ZONETON
+    distance_km: 21.68
+  - name: MTWASHIGTN
+    distance_km: 21.98
+- country: US
+  region: KY
+  name: West Buechel
+  lat: '38.1950'
+  long: "-85.6678"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 9.62
+  - name: ZONETON
+    distance_km: 19.29
+  - name: MTWASHIGTN
+    distance_km: 19.86
+- country: US
+  region: KY
+  name: West Liberty
+  lat: '37.9161'
+  long: "-83.2668"
+  nearby_rate_centers:
+  - name: W LIBERTY
+    distance_km: 1.38
+  - name: EZEL
+    distance_km: 15.34
+  - name: JEPTHA
+    distance_km: 16.14
+- country: US
+  region: KY
+  name: West Louisville
+  lat: '37.6986'
+  long: "-87.2875"
+  nearby_rate_centers:
+  - name: W LOUISVL
+    distance_km: 0.34
+  - name: SORGHO
+    distance_km: 6.83
+  - name: PANTHER
+    distance_km: 8.48
+- country: US
+  region: KY
+  name: West Point
+  lat: '37.9851'
+  long: "-85.9556"
+  nearby_rate_centers:
+  - name: WEST POINT
+    distance_km: 0.71
+  - name: ROSETRRACE
+    distance_km: 9.62
+  - name: RADCLIFF
+    distance_km: 16.31
+- country: US
+  region: KY
+  name: West Van Lear
+  lat: '37.7852'
+  long: "-82.7891"
+  nearby_rate_centers:
+  - name: PAINTSVL
+    distance_km: 3.83
+  - name: STAFORDSVL
+    distance_km: 7.95
+  - name: PRESTONSBG
+    distance_km: 13.4
+- country: US
+  region: KY
+  name: Westport
+  lat: '38.4875'
+  long: "-85.4753"
+  nearby_rate_centers:
+  - name: LA GRANGE
+    distance_km: 11.96
+  - name: SULPHUR
+    distance_km: 17.34
+  - name: BEDFORD
+    distance_km: 18.41
+- country: US
+  region: KY
+  name: Westwood
+  lat: '38.4806'
+  long: "-82.6798"
+  nearby_rate_centers:
+  - name: ASHLAND
+    distance_km: 3.84
+  - name: RUSSELL
+    distance_km: 4.81
+  - name: MEADS
+    distance_km: 7.87
+- country: US
+  region: KY
+  name: Wheatcroft
+  lat: '37.4893'
+  long: "-87.8613"
+  nearby_rate_centers:
+  - name: CLAY
+    distance_km: 3.9
+  - name: STURGIS
+    distance_km: 12.71
+  - name: PROVIDENCE
+    distance_km: 13.7
+- country: US
+  region: KY
+  name: Wheelwright
+  lat: '37.3392'
+  long: "-82.7186"
+  nearby_rate_centers:
+  - name: WHEELWRIHT
+    distance_km: 0.78
+  - name: TOPMOST
+    distance_km: 6.87
+  - name: VIRGIE
+    distance_km: 11.93
+- country: US
+  region: KY
+  name: White Plains
+  lat: '37.1707'
+  long: "-87.3801"
+  nearby_rate_centers:
+  - name: NORTONVL
+    distance_km: 6.64
+  - name: MORTONSGAP
+    distance_km: 11.28
+  - name: CROFTON
+    distance_km: 16.1
+- country: US
+  region: KY
+  name: Whitesburg
+  lat: '37.1183'
+  long: "-82.8230"
+  nearby_rate_centers:
+  - name: WHITESBURG
+    distance_km: 0.37
+  - name: NEON
+    distance_km: 10.98
+  - name: JENKINS
+    distance_km: 17.07
+- country: US
+  region: KY
+  name: Whitesville
+  lat: '37.6830'
+  long: "-86.8701"
+  nearby_rate_centers:
+  - name: WHITESVL
+    distance_km: 0.25
+  - name: HABIT
+    distance_km: 8.51
+  - name: PLEASATRDG
+    distance_km: 14.03
+- country: US
+  region: KY
+  name: Whitley City
+  lat: '36.7238'
+  long: "-84.4731"
+  nearby_rate_centers:
+  - name: STNSWHLYCY
+    distance_km: 2.8
+  - name: PINE KNOT
+    distance_km: 7.69
+  - name: WILLIAMSBG
+    distance_km: 28.19
+- country: US
+  region: KY
+  name: Wickliffe
+  lat: '36.9666'
+  long: "-89.0813"
+  nearby_rate_centers:
+  - name: WICKLIFFE
+    distance_km: 0.31
+  - name: BARLOW
+    distance_km: 10.04
+  - name: BARDWELL
+    distance_km: 12.18
+- country: US
+  region: KY
+  name: Wilder
+  lat: '39.0401'
+  long: "-84.4816"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 5.13
+  - name: ALEXANDRIA
+    distance_km: 11.87
+  - name: INDEPNDNCE
+    distance_km: 12.55
+- country: US
+  region: KY
+  name: Wildwood
+  lat: '38.2490'
+  long: "-85.5747"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 16.11
+  - name: SIMPSONVL
+    distance_km: 19.77
+  - name: MTWASHIGTN
+    distance_km: 22.4
+- country: US
+  region: KY
+  name: Williamsburg
+  lat: '36.7393'
+  long: "-84.1647"
+  nearby_rate_centers:
+  - name: WILLIAMSBG
+    distance_km: 0.69
+  - name: JELLICO
+    distance_km: 16.57
+  - name: CORBIN
+    distance_km: 24.05
+- country: US
+  region: KY
+  name: Williamstown
+  lat: '38.6415'
+  long: "-84.5675"
+  nearby_rate_centers:
+  - name: WILLIAMSTN
+    distance_km: 0.67
+  - name: FALMOUTH
+    distance_km: 20.57
+  - name: GLENCOE
+    distance_km: 23.19
+- country: US
+  region: KY
+  name: Willisburg
+  lat: '37.8093'
+  long: "-85.1208"
+  nearby_rate_centers:
+  - name: WILLISBURG
+    distance_km: 0.48
+  - name: MACKVILLE
+    distance_km: 9.56
+  - name: CORNISHVL
+    distance_km: 10.69
+- country: US
+  region: KY
+  name: Wilmore
+  lat: '37.8786'
+  long: "-84.6545"
+  nearby_rate_centers:
+  - name: WILMORE
+    distance_km: 1.62
+  - name: NICHOLASVL
+    distance_km: 7.87
+  - name: BURGIN
+    distance_km: 17.55
+- country: US
+  region: KY
+  name: Winchester
+  lat: '38.0018'
+  long: "-84.1908"
+  nearby_rate_centers:
+  - name: WINCHESTER
+    distance_km: 1.48
+  - name: FORD
+    distance_km: 14.0
+  - name: NOMIDDLETN
+    distance_km: 18.01
+- country: US
+  region: KY
+  name: Windy Hills
+  lat: '38.2702'
+  long: "-85.6378"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 11.0
+  - name: SIMPSONVL
+    distance_km: 25.58
+  - name: MTWASHIGTN
+    distance_km: 26.08
+- country: US
+  region: KY
+  name: Wingo
+  lat: '36.6422'
+  long: "-88.7395"
+  nearby_rate_centers:
+  - name: WINGO
+    distance_km: 0.33
+  - name: WATER VLY
+    distance_km: 10.44
+  - name: SEDALIA
+    distance_km: 12.34
+- country: US
+  region: KY
+  name: Woodburn
+  lat: '36.8421'
+  long: "-86.5301"
+  nearby_rate_centers:
+  - name: WOODBURN
+    distance_km: 0.29
+  - name: FRANKLIN
+    distance_km: 13.72
+  - name: AUBURN
+    distance_km: 16.68
+- country: US
+  region: KY
+  name: Woodbury
+  lat: '37.1836'
+  long: "-86.6353"
+  nearby_rate_centers:
+  - name: MORGANTOWN
+    distance_km: 7.09
+  - name: LOGANSPORT
+    distance_km: 13.59
+  - name: ROCHESTER
+    distance_km: 22.99
+- country: US
+  region: KY
+  name: Woodland Hills
+  lat: '38.2393'
+  long: "-85.5289"
+  nearby_rate_centers:
+  - name: SIMPSONVL
+    distance_km: 15.68
+  - name: LOUISVILLE
+    distance_km: 20.1
+  - name: MTWASHIGTN
+    distance_km: 21.07
+- country: US
+  region: KY
+  name: Woodlawn
+  lat: '39.0909'
+  long: "-84.4729"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 3.24
+  - name: ALEXANDRIA
+    distance_km: 15.91
+  - name: BOONE
+    distance_km: 17.31
+- country: US
+  region: KY
+  name: Woodlawn Park
+  lat: '38.2615'
+  long: "-85.6306"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 11.39
+  - name: SIMPSONVL
+    distance_km: 24.8
+  - name: MTWASHIGTN
+    distance_km: 24.96
+- country: US
+  region: KY
+  name: Worthington
+  lat: '38.5509'
+  long: "-82.7348"
+  nearby_rate_centers:
+  - name: RUSSELL
+    distance_km: 4.86
+  - name: GREENUP
+    distance_km: 9.73
+  - name: ASHLAND
+    distance_km: 12.54
+- country: US
+  region: KY
+  name: Worthington Hills
+  lat: '38.3093'
+  long: "-85.5270"
+  nearby_rate_centers:
+  - name: LA GRANGE
+    distance_km: 16.95
+  - name: SIMPSONVL
+    distance_km: 17.97
+  - name: LOUISVILLE
+    distance_km: 21.54
+- country: US
+  region: KY
+  name: Worthville
+  lat: '38.6098'
+  long: "-85.0681"
+  nearby_rate_centers:
+  - name: PORT ROYAL
+    distance_km: 5.71
+  - name: CARROLLTON
+    distance_km: 11.71
+  - name: GHENT
+    distance_km: 13.77
+- country: US
+  region: KY
+  name: Wurtland
+  lat: '38.5495'
+  long: "-82.7788"
+  nearby_rate_centers:
+  - name: GREENUP
+    distance_km: 6.27
+  - name: RUSSELL
+    distance_km: 8.12
+  - name: ASHLAND
+    distance_km: 15.24
+- country: US
+  region: KY
+  name: Yelvington
+  lat: '37.8483'
+  long: "-86.9749"
+  nearby_rate_centers:
+  - name: MACEO
+    distance_km: 2.96
+  - name: ENSOR
+    distance_km: 7.37
+  - name: LEWISPORT
+    distance_km: 11.48

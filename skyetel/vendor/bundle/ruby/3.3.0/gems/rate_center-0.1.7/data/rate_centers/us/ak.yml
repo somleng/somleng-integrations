@@ -1,0 +1,4076 @@
+---
+rate_centers:
+- country: US
+  region: AK
+  exchange: '003400'
+  name: ADKUSNVLST
+  full_name: Adak
+  lata: '832'
+  ilec_name: ADAK EAGLE ENTERPRISE LLC DBA ADAK TEL UTILITY
+  lat: '51.870881'
+  long: "-176.641237"
+  closest_city:
+    name: Adak
+    distance_km: 1.43
+- country: US
+  region: AK
+  exchange: '003410'
+  name: AKHIOK
+  full_name: Akhiok
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '56.946994'
+  long: "-154.160683"
+  closest_city:
+    name: Akhiok
+    distance_km: 3.3
+- country: US
+  region: AK
+  exchange: '003420'
+  name: AKIACHAK
+  full_name: Akiachak
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '60.914993'
+  long: "-161.435709"
+  closest_city:
+    name: Akiachak
+    distance_km: 1.94
+- country: US
+  region: AK
+  exchange: '003430'
+  name: AKIAK
+  full_name: Akiak
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '60.914423'
+  long: "-161.215786"
+  closest_city:
+    name: Akiak
+    distance_km: 0.95
+- country: US
+  region: AK
+  exchange: '003440'
+  name: AKUTAN
+  full_name: Akutan
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '54.138861'
+  long: "-165.770881"
+  closest_city:
+    name: Akutan
+    distance_km: 3.37
+- country: US
+  region: AK
+  exchange: '003450'
+  name: ALAKANUK
+  full_name: Alakanuk
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '62.691606'
+  long: "-164.637267"
+  closest_city:
+    name: Alakanuk
+    distance_km: 0.38
+- country: US
+  region: AK
+  exchange: '347640'
+  name: ALEKNAGIK
+  full_name: Aleknagik
+  lata: '832'
+  ilec_name: BRISTOL BAY TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '003470'
+  name: ALLAKAKET
+  full_name: Allakaket
+  lata: '832'
+  ilec_name: BETTLES TEL. CO.
+  lat: '66.569163'
+  long: "-152.639848"
+  closest_city:
+    name: Allakaket
+    distance_km: 2.14
+- country: US
+  region: AK
+  exchange: '347642'
+  name: ALYESKA
+  full_name: Alyeska
+  lata: '832'
+  ilec_name: ACS OF ANCHORAGE, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '003480'
+  name: AMBLER
+  full_name: Ambler
+  lata: '832'
+  ilec_name: OTZ TEL. COOP., INC.
+  lat: '67.090297'
+  long: "-157.84779"
+  closest_city:
+    name: Ambler
+    distance_km: 1.07
+- country: US
+  region: AK
+  exchange: '003490'
+  name: ANATVKPASS
+  full_name: Anaktuvuk Pass
+  lata: '832'
+  ilec_name: ARCTIC SLOPE TEL. ASSN. COOP., INC.
+  lat: '68.143666'
+  long: "-151.73007"
+  closest_city:
+    name: Anaktuvuk Pass
+    distance_km: 0.91
+- country: US
+  region: AK
+  exchange: '347645'
+  name: ANCHOR PT
+  full_name: Anchor Point
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '003500'
+  name: ANCHORAGE
+  full_name: Anchorage
+  lata: '832'
+  ilec_name: ACS OF ANCHORAGE, INC.
+  lat: '61.234484'
+  long: "-149.872225"
+  closest_city:
+    name: Point MacKenzie
+    distance_km: 16.49
+- country: US
+  region: AK
+  exchange: '347647'
+  name: ANDERSON
+  full_name: Anderson
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '003510'
+  name: ANGOON
+  full_name: Angoon
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '57.501988'
+  long: "-134.572297"
+  closest_city:
+    name: Angoon
+    distance_km: 6.87
+- country: US
+  region: AK
+  exchange: '003520'
+  name: ANIAK
+  full_name: Aniak
+  lata: '832'
+  ilec_name: BUSH-TEL, INC.
+  lat: '61.572238'
+  long: "-159.499012"
+  closest_city:
+    name: Aniak
+    distance_km: 2.66
+- country: US
+  region: AK
+  exchange: '003530'
+  name: ANNETTE
+  full_name: Annette
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat: '55.087589'
+  long: "-131.583532"
+  closest_city:
+    name: Metlakatla
+    distance_km: 3.53
+- country: US
+  region: AK
+  exchange: '003540'
+  name: ANVIK
+  full_name: Anvik
+  lata: '832'
+  ilec_name: BUSH-TEL, INC.
+  lat: '62.655914'
+  long: "-160.202781"
+  closest_city:
+    name: Anvik
+    distance_km: 0.61
+- country: US
+  region: AK
+  exchange: '003550'
+  name: ARCTIC VLG
+  full_name: Arctic Village
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '68.136405'
+  long: "-145.51428"
+  closest_city:
+    name: Arctic Village
+    distance_km: 1.0
+- country: US
+  region: AK
+  exchange: '003560'
+  name: ATKA
+  full_name: Atka
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '52.202281'
+  long: "-174.192108"
+  closest_city:
+    name: Atka
+    distance_km: 3.41
+- country: US
+  region: AK
+  exchange: '003580'
+  name: ATMAUTLUAK
+  full_name: Atmautluak
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '60.861038'
+  long: "-162.275919"
+  closest_city:
+    name: Atmautluak
+    distance_km: 0.55
+- country: US
+  region: AK
+  exchange: '003570'
+  name: ATQASUK
+  full_name: Atqasuk
+  lata: '832'
+  ilec_name: ARCTIC SLOPE TEL. ASSN. COOP., INC.
+  lat: '70.471533'
+  long: "-157.398274"
+  closest_city:
+    name: Atqasuk
+    distance_km: 1.19
+- country: US
+  region: AK
+  exchange: '347656'
+  name: AUKE BAY
+  full_name: Auke Bay
+  lata: '832'
+  ilec_name: ACS OF ALASKA, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347657'
+  name: AURORA
+  full_name: Aurora
+  lata: '832'
+  ilec_name: ACS OF FAIRBANKS, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '003590'
+  name: BARROW
+  full_name: Barrow
+  lata: '832'
+  ilec_name: ARCTIC SLOPE TEL. ASSN. COOP., INC.
+  lat: '71.294329'
+  long: "-156.788902"
+  closest_city:
+    name: Utqiagvik
+    distance_km: 2.65
+- country: US
+  region: AK
+  exchange: '347660'
+  name: BARTER IS
+  full_name: Barter Island
+  lata: '832'
+  ilec_name: ARCTIC SLOPE TEL. ASSN. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347658'
+  name: BARLETT CV
+  full_name: Bartlett Cove
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '003610'
+  name: BEAVER
+  full_name: Beaver
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '66.368993'
+  long: "-147.410739"
+  closest_city:
+    name: Beaver
+    distance_km: 4.25
+- country: US
+  region: AK
+  exchange: '003620'
+  name: BETHEL
+  full_name: Bethel
+  lata: '832'
+  ilec_name: UNITED-KUC, INC. - AK
+  lat: '60.798082'
+  long: "-161.749926"
+  closest_city:
+    name: Bethel
+    distance_km: 2.34
+- country: US
+  region: AK
+  exchange: '003630'
+  name: BETTLES
+  full_name: Bettles
+  lata: '832'
+  ilec_name: BETTLES TEL. CO.
+  lat: '66.910953'
+  long: "-151.521458"
+  closest_city:
+    name: Bettles
+    distance_km: 0.69
+- country: US
+  region: AK
+  exchange: '347664'
+  name: BIG DELTA
+  full_name: Big Delta
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '003640'
+  name: BIG LAKE
+  full_name: Big Lake
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat: '61.554354'
+  long: "-149.857563"
+  closest_city:
+    name: Big Lake
+    distance_km: 6.84
+- country: US
+  region: AK
+  exchange: '347666'
+  name: BIORKA
+  full_name: Biorka
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '003650'
+  name: BIRCHCREEK
+  full_name: Birch Creek
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '66.269815'
+  long: "-145.801052"
+  closest_city:
+    name: Birch Creek
+    distance_km: 3.08
+- country: US
+  region: AK
+  exchange: '347667'
+  name: BIRCH LAKE
+  full_name: Birch Lake
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347670'
+  name: BIRCHWOOD
+  full_name: Birchwood
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '003660'
+  name: BIRD CREEK
+  full_name: Bird Creek
+  lata: '832'
+  ilec_name: ACS OF ANCHORAGE, INC.
+  lat: '60.97847'
+  long: "-149.47251"
+  closest_city:
+    name: Sunrise
+    distance_km: 12.05
+- country: US
+  region: AK
+  exchange: '003680'
+  name: BORDERCITY
+  full_name: Border City
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '62.624621'
+  long: "-140.999918"
+  closest_city:
+    name: Alcan Border
+    distance_km: 8.61
+- country: US
+  region: AK
+  exchange: '003690'
+  name: BUCKLAND
+  full_name: Buckland
+  lata: '832'
+  ilec_name: OTZ TEL. COOP., INC.
+  lat: '65.982644'
+  long: "-161.117785"
+  closest_city:
+    name: Buckland
+    distance_km: 0.88
+- country: US
+  region: AK
+  exchange: '347674'
+  name: BUFFALO
+  full_name: Buffalo
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347675'
+  name: BUTTE
+  full_name: Butte
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '003700'
+  name: CANTWELL
+  full_name: Cantwell
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat: '63.404331'
+  long: "-148.878108"
+  closest_city:
+    name: Cantwell
+    distance_km: 4.19
+- country: US
+  region: AK
+  exchange: '003720'
+  name: CPNEWENAFS
+  full_name: Cape Newenham AFS
+  lata: '832'
+  ilec_name: ALASCOM, INC. DBA AT&T ALASKA
+  lat: '58.65832'
+  long: "-162.075019"
+  closest_city:
+    name: Platinum
+    distance_km: 41.05
+- country: US
+  region: AK
+  exchange: '347677'
+  name: CARLO
+  full_name: Carlo
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347678'
+  name: CASWELL
+  full_name: Caswell
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '003750'
+  name: CENTRAL
+  full_name: Central
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '65.57193'
+  long: "-144.815102"
+  closest_city:
+    name: Central
+    distance_km: 9.8
+- country: US
+  region: AK
+  exchange: '003760'
+  name: CHALKYITSK
+  full_name: Chalkyitsik
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '66.656577'
+  long: "-143.71701"
+  closest_city:
+    name: Chalkyitsik
+    distance_km: 3.06
+- country: US
+  region: AK
+  exchange: '003790'
+  name: CHEFORNAK
+  full_name: Chefornak
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '60.162238'
+  long: "-164.272437"
+  closest_city:
+    name: Chefornak
+    distance_km: 1.26
+- country: US
+  region: AK
+  exchange: '003800'
+  name: CHNAHOTSPG
+  full_name: Chena Hot Springs
+  lata: '832'
+  ilec_name: SUMMIT TEL
+  lat: '65.054038'
+  long: "-146.049442"
+  closest_city:
+    name: Pleasant Valley
+    distance_km: 44.12
+- country: US
+  region: AK
+  exchange: '003810'
+  name: CHENEGABAY
+  full_name: Chenega Bay
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '60.071728'
+  long: "-148.00587"
+  closest_city:
+    name: Chenega
+    distance_km: 0.87
+- country: US
+  region: AK
+  exchange: '003820'
+  name: CHEVAK
+  full_name: Chevak
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '61.532428'
+  long: "-165.583831"
+  closest_city:
+    name: Chevak
+    distance_km: 0.63
+- country: US
+  region: AK
+  exchange: '347684'
+  name: CHICKALOON
+  full_name: Chickaloon
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '003830'
+  name: CHIGNIK
+  full_name: Chignik
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '56.305596'
+  long: "-158.403859"
+  closest_city:
+    name: Chignik
+    distance_km: 0.82
+- country: US
+  region: AK
+  exchange: '003840'
+  name: CHIGNILGON
+  full_name: Chignik Lagoon
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '56.313094'
+  long: "-158.521911"
+  closest_city:
+    name: Chignik Lagoon
+    distance_km: 1.66
+- country: US
+  region: AK
+  exchange: '003850'
+  name: CHIGNIK LK
+  full_name: Chignik Lake
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '56.256451'
+  long: "-158.762608"
+  closest_city:
+    name: Chignik Lake
+    distance_km: 2.71
+- country: US
+  region: AK
+  exchange: '347688'
+  name: CHINIAK
+  full_name: Chiniak
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '003860'
+  name: CHISANA
+  full_name: Chisana
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat: '62.085852'
+  long: "-142.068944"
+  closest_city:
+    name: Chisana
+    distance_km: 2.06
+- country: US
+  region: AK
+  exchange: '347690'
+  name: CHISTOCHIN
+  full_name: Chistochina
+  lata: '832'
+  ilec_name: COPPER VALLEY TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '003870'
+  name: CHITINA
+  full_name: Chitina
+  lata: '832'
+  ilec_name: COPPER VALLEY TEL. COOP., INC.
+  lat: '61.518467'
+  long: "-144.434126"
+  closest_city:
+    name: Chitina
+    distance_km: 7.23
+- country: US
+  region: AK
+  exchange: '003780'
+  name: CHUATHBALK
+  full_name: Chuathbaluk
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '61.576853'
+  long: "-159.240949"
+  closest_city:
+    name: Chuathbaluk
+    distance_km: 0.49
+- country: US
+  region: AK
+  exchange: '003880'
+  name: CHUGIAK
+  full_name: Chugiak
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat: '61.406861'
+  long: "-149.464566"
+  closest_city:
+    name: Knik-Fairview
+    distance_km: 14.14
+- country: US
+  region: AK
+  exchange: '003890'
+  name: CIRCLE
+  full_name: Circle
+  lata: '832'
+  ilec_name: CIRCLE TELEPHONE & ELECTRIC, LLC
+  lat: '65.827933'
+  long: "-144.061061"
+  closest_city:
+    name: Circle
+    distance_km: 6.68
+- country: US
+  region: AK
+  exchange: '347696'
+  name: CLAM GULCH
+  full_name: Clam Gulch
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347697'
+  name: CLARKS PT
+  full_name: Clarks Point
+  lata: '832'
+  ilec_name: NUSHAGAK ELECTRIC & TELEPHONE COOPERATIVE, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347698'
+  name: CLEAR
+  full_name: Clear
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '003900'
+  name: CLEAR AFS
+  full_name: Clear AFS
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat: '64.295672'
+  long: "-149.152697"
+  closest_city:
+    name: Anderson
+    distance_km: 1.31
+- country: US
+  region: AK
+  exchange: '003910'
+  name: CLEARYSMMT
+  full_name: Cleary Summit
+  lata: '832'
+  ilec_name: SUMMIT TEL
+  lat: '65.051107'
+  long: "-147.429859"
+  closest_city:
+    name: Fox
+    distance_km: 11.94
+- country: US
+  region: AK
+  exchange: '003920'
+  name: COFFMAN CV
+  full_name: Coffman Cove
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '56.015497'
+  long: "-132.81903"
+  closest_city:
+    name: Coffman Cove
+    distance_km: 1.68
+- country: US
+  region: AK
+  exchange: '347702'
+  name: COHOE
+  full_name: Cohoe
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '003930'
+  name: COLD BAY
+  full_name: Cold Bay
+  lata: '832'
+  ilec_name: INTERIOR TEL. CO., INC.
+  lat: '55.218177'
+  long: "-162.717887"
+  closest_city:
+    name: Cold Bay
+    distance_km: 1.99
+- country: US
+  region: AK
+  exchange: '003940'
+  name: COLDFOOT
+  full_name: Coldfoot Camp
+  lata: '832'
+  ilec_name: SUMMIT TEL
+  lat: '67.259755'
+  long: "-150.188996"
+  closest_city:
+    name: Coldfoot
+    distance_km: 3.74
+- country: US
+  region: AK
+  exchange: '347706'
+  name: COLLEGE
+  full_name: College
+  lata: '832'
+  ilec_name: ACS OF FAIRBANKS, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347707'
+  name: COLORADO
+  full_name: Colorado
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '003950'
+  name: COOPER LDG
+  full_name: Cooper Landing
+  lata: '832'
+  ilec_name: INTERIOR TEL. CO., INC.
+  lat: '60.494097'
+  long: "-149.821494"
+  closest_city:
+    name: Cooper Landing
+    distance_km: 1.07
+- country: US
+  region: AK
+  exchange: '347709'
+  name: COPPER CTR
+  full_name: Copper Center
+  lata: '832'
+  ilec_name: COPPER VALLEY TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347710'
+  name: COPPER RIV
+  full_name: Copper River
+  lata: '832'
+  ilec_name: COPPER VALLEY TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '003960'
+  name: CORDOVA
+  full_name: Cordova
+  lata: '832'
+  ilec_name: CORDOVA TEL. COOP., INC.
+  lat: '60.548032'
+  long: "-145.754325"
+  closest_city:
+    name: Cordova
+    distance_km: 8.1
+- country: US
+  region: AK
+  exchange: '347712'
+  name: CORNER BAY
+  full_name: Corner Bay
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '003970'
+  name: COUNCIL
+  full_name: Council
+  lata: '832'
+  ilec_name: MUKLUK TEL. CO., INC.
+  lat: '64.898089'
+  long: "-163.671995"
+  closest_city:
+    name: White Mountain
+    distance_km: 26.85
+- country: US
+  region: AK
+  exchange: '003980'
+  name: CRAIG
+  full_name: Craig
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat: '55.478114'
+  long: "-133.143775"
+  closest_city:
+    name: Craig
+    distance_km: 2.3
+- country: US
+  region: AK
+  exchange: '003990'
+  name: CROOKEDCRK
+  full_name: Crooked Creek
+  lata: '832'
+  ilec_name: BUSH-TEL, INC.
+  lat: '61.873138'
+  long: "-158.099281"
+  closest_city:
+    name: Crooked Creek
+    distance_km: 3.28
+- country: US
+  region: AK
+  exchange: '347718'
+  name: CURRY
+  full_name: Curry
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347719'
+  name: DALY
+  full_name: Daly
+  lata: '832'
+  ilec_name: NUSHAGAK ELECTRIC & TELEPHONE COOPERATIVE, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004010'
+  name: DEADHORSE
+  full_name: Deadhorse
+  lata: '832'
+  ilec_name: ARCTIC SLOPE TEL. ASSN. COOP., INC.
+  lat: '70.204571'
+  long: "-148.465275"
+  closest_city:
+    name: Prudhoe Bay
+    distance_km: 15.47
+- country: US
+  region: AK
+  exchange: '004020'
+  name: DEERING
+  full_name: Deering
+  lata: '832'
+  ilec_name: OTZ TEL. COOP., INC.
+  lat: '66.080389'
+  long: "-162.712973"
+  closest_city:
+    name: Deering
+    distance_km: 1.65
+- country: US
+  region: AK
+  exchange: '004030'
+  name: DELTA JCT
+  full_name: Delta Junction
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '64.039038'
+  long: "-145.712558"
+  closest_city:
+    name: Delta Junction
+    distance_km: 2.39
+- country: US
+  region: AK
+  exchange: '004040'
+  name: DILLINGHAM
+  full_name: Dillingham
+  lata: '832'
+  ilec_name: NUSHAGAK ELECTRIC & TELEPHONE COOPERATIVE, INC.
+  lat: '59.001699'
+  long: "-158.534782"
+  closest_city:
+    name: Dillingham
+    distance_km: 5.93
+- country: US
+  region: AK
+  exchange: '347724'
+  name: DIVIDE
+  full_name: Divide
+  lata: '832'
+  ilec_name: INTERIOR TEL. CO., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004050'
+  name: DOT LAKE
+  full_name: Dot Lake
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat: '63.63649'
+  long: "-144.009406"
+  closest_city:
+    name: Dot Lake Village
+    distance_km: 2.92
+- country: US
+  region: AK
+  exchange: '004591'
+  name: DOUGLAS
+  full_name: Douglas
+  lata: '832'
+  ilec_name: ACS OF ALASKA, INC.
+  lat: '58.2992'
+  long: "-134.393057"
+  closest_city:
+    name: Juneau
+    distance_km: 21.49
+- country: US
+  region: AK
+  exchange: '004060'
+  name: DRY CREEK
+  full_name: Dry Creek
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat: '63.694141'
+  long: "-144.595827"
+  closest_city:
+    name: Dry Creek
+    distance_km: 7.89
+- country: US
+  region: AK
+  exchange: '347728'
+  name: DUTCH HBR
+  full_name: Dutch Harbor
+  lata: '832'
+  ilec_name: INTERIOR TEL. CO., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004070'
+  name: EAGLE
+  full_name: Eagle
+  lata: '832'
+  ilec_name: NORTH COUNTRY TEL. CO.
+  lat: '64.784951'
+  long: "-141.198808"
+  closest_city:
+    name: Eagle
+    distance_km: 0.41
+- country: US
+  region: AK
+  exchange: '004080'
+  name: EAGLERIVER
+  full_name: Eagle River
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat: '61.321873'
+  long: "-149.563584"
+  closest_city:
+    name: Knik-Fairview
+    distance_km: 20.98
+- country: US
+  region: AK
+  exchange: '004090'
+  name: EARECKSON
+  full_name: Eareckson AFS
+  lata: '832'
+  ilec_name: ALASCOM, INC. DBA AT&T ALASKA
+  lat: '52.712222'
+  long: '174.113611'
+  closest_city:
+    name: Eareckson Station
+    distance_km: 1.02
+- country: US
+  region: AK
+  exchange: '347732'
+  name: EDGECUMBE
+  full_name: Edgecumbe
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004100'
+  name: EDNA BAY
+  full_name: Edna Bay
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat: '55.9541'
+  long: "-133.664494"
+  closest_city:
+    name: Edna Bay
+    distance_km: 1.11
+- country: US
+  region: AK
+  exchange: '004110'
+  name: EEK
+  full_name: Eek
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '60.224707'
+  long: "-162.026789"
+  closest_city:
+    name: Eek
+    distance_km: 0.99
+- country: US
+  region: AK
+  exchange: '004120'
+  name: EGEGIK
+  full_name: Egegik
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '58.219964'
+  long: "-157.364688"
+  closest_city:
+    name: Egegik
+    distance_km: 2.29
+- country: US
+  region: AK
+  exchange: '004130'
+  name: EIELSONAFB
+  full_name: Eielson AFB
+  lata: '832'
+  ilec_name: ACS OF ALASKA, INC.
+  lat: '64.670251'
+  long: "-147.08285"
+  closest_city:
+    name: Eielson AFB
+    distance_km: 1.15
+- country: US
+  region: AK
+  exchange: '347737'
+  name: EKLUTNA
+  full_name: Eklutna
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004140'
+  name: EKUK
+  full_name: Ekuk
+  lata: '832'
+  ilec_name: NUSHAGAK ELECTRIC & TELEPHONE COOPERATIVE, INC.
+  lat: '58.847787'
+  long: "-158.546123"
+  closest_city:
+    name: Clark's Point
+    distance_km: 1.97
+- country: US
+  region: AK
+  exchange: '004150'
+  name: EKWOK
+  full_name: Ekwok
+  lata: '832'
+  ilec_name: BRISTOL BAY TEL. COOP., INC.
+  lat: '59.35433'
+  long: "-157.473234"
+  closest_city:
+    name: Ekwok
+    distance_km: 1.16
+- country: US
+  region: AK
+  exchange: '004160'
+  name: ELFIN COVE
+  full_name: Elfin Cove
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '58.195877'
+  long: "-136.338649"
+  closest_city:
+    name: Elfin Cove
+    distance_km: 11.26
+- country: US
+  region: AK
+  exchange: '004170'
+  name: ELIM
+  full_name: Elim
+  lata: '832'
+  ilec_name: MUKLUK TEL. CO., INC.
+  lat: '64.621161'
+  long: "-162.254286"
+  closest_city:
+    name: Elim
+    distance_km: 1.09
+- country: US
+  region: AK
+  exchange: '004180'
+  name: ELMEDRFAFB
+  full_name: Elmendorf AFB
+  lata: '832'
+  ilec_name: ACS OF ANCHORAGE, INC.
+  lat: '61.266271'
+  long: "-149.818943"
+  closest_city:
+    name: Point MacKenzie
+    distance_km: 16.15
+- country: US
+  region: AK
+  exchange: '004200'
+  name: EMMONAK
+  full_name: Emmonak
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '62.778229'
+  long: "-164.524904"
+  closest_city:
+    name: Emmonak
+    distance_km: 0.52
+- country: US
+  region: AK
+  exchange: '004210'
+  name: ENGLISHBAY
+  full_name: English Bay
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '59.359813'
+  long: "-151.922105"
+  closest_city:
+    name: Nanwalek
+    distance_km: 3.34
+- country: US
+  region: AK
+  exchange: '347745'
+  name: ESKA
+  full_name: Eska
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347746'
+  name: EUREKA
+  full_name: Eureka
+  lata: '832'
+  ilec_name: COPPER VALLEY TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004230'
+  name: FAIRBANKS
+  full_name: Fairbanks
+  lata: '832'
+  ilec_name: ACS OF FAIRBANKS, INC.
+  lat: '64.838387'
+  long: "-147.702487"
+  closest_city:
+    name: Fairbanks
+    distance_km: 2.35
+- country: US
+  region: AK
+  exchange: '347749'
+  name: FAIRBASCRK
+  full_name: Fairbanks Creek
+  lata: '832'
+  ilec_name: ACS OF FAIRBANKS, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347750'
+  name: FAIRVIEW
+  full_name: Fairview
+  lata: '832'
+  ilec_name: ACS OF ANCHORAGE, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004240'
+  name: FALSE PASS
+  full_name: False Pass
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '54.860122'
+  long: "-163.415485"
+  closest_city:
+    name: False Pass
+    distance_km: 4.79
+- country: US
+  region: AK
+  exchange: '347752'
+  name: FISH CREEK
+  full_name: Fish Creek
+  lata: '832'
+  ilec_name: ACS OF FAIRBANKS, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347753'
+  name: FISH LAKE
+  full_name: Fish Lake
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004250'
+  name: FORTGREELY
+  full_name: Fort Greely
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '63.977426'
+  long: "-145.693773"
+  closest_city:
+    name: Fort Greely
+    distance_km: 1.49
+- country: US
+  region: AK
+  exchange: '004260'
+  name: FTRICHADSN
+  full_name: Fort Richardson
+  lata: '832'
+  ilec_name: ACS OF ANCHORAGE, INC.
+  lat: '61.26681'
+  long: "-149.647599"
+  closest_city:
+    name: Point MacKenzie
+    distance_km: 24.19
+- country: US
+  region: AK
+  exchange: '004270'
+  name: FTWAINWRIT
+  full_name: Fort Wainwright
+  lata: '832'
+  ilec_name: ACS OF ALASKA, INC.
+  lat: '64.848174'
+  long: "-147.598757"
+  closest_city:
+    name: Fairbanks
+    distance_km: 2.95
+- country: US
+  region: AK
+  exchange: '004280'
+  name: FORT YUKON
+  full_name: Fort Yukon
+  lata: '832'
+  ilec_name: INTERIOR TEL. CO., INC.
+  lat: '66.575452'
+  long: "-145.284447"
+  closest_city:
+    name: Fort Yukon
+    distance_km: 1.98
+- country: US
+  region: AK
+  exchange: '347756'
+  name: FOX
+  full_name: Fox
+  lata: '832'
+  ilec_name: ACS OF FAIRBANKS, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347757'
+  name: FRITZCREEK
+  full_name: Fritz Creek
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347760'
+  name: GAKONA
+  full_name: Gakona
+  lata: '832'
+  ilec_name: COPPER VALLEY TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004300'
+  name: GALENA
+  full_name: Galena
+  lata: '832'
+  ilec_name: INTERIOR TEL. CO., INC.
+  lat: '64.741227'
+  long: "-156.954823"
+  closest_city:
+    name: Galena
+    distance_km: 4.35
+- country: US
+  region: AK
+  exchange: '004320'
+  name: GAMBELL
+  full_name: Gambell
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '63.784089'
+  long: "-171.723744"
+  closest_city:
+    name: Gambell
+    distance_km: 3.8
+- country: US
+  region: AK
+  exchange: '347763'
+  name: GEORGELAKE
+  full_name: George Lake
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004330'
+  name: GIRDWOOD
+  full_name: Girdwood
+  lata: '832'
+  ilec_name: ACS OF ANCHORAGE, INC.
+  lat: '60.941513'
+  long: "-149.162183"
+  closest_city:
+    name: Sunrise
+    distance_km: 18.33
+- country: US
+  region: AK
+  exchange: '347765'
+  name: GLACIERBAY
+  full_name: Glacier Bay
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004340'
+  name: GLENNALLEN
+  full_name: Glennallen
+  lata: '832'
+  ilec_name: COPPER VALLEY TEL. COOP., INC.
+  lat: '62.112354'
+  long: "-145.477332"
+  closest_city:
+    name: Tazlina
+    distance_km: 6.87
+- country: US
+  region: AK
+  exchange: '347767'
+  name: GOLD CREEK
+  full_name: Gold Creek
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004350'
+  name: GOLOVIN
+  full_name: Golovin
+  lata: '832'
+  ilec_name: MUKLUK TEL. CO., INC.
+  lat: '64.5476'
+  long: "-163.034186"
+  closest_city:
+    name: Golovin
+    distance_km: 2.48
+- country: US
+  region: AK
+  exchange: '004360'
+  name: GOODNEWSBY
+  full_name: Goodnews Bay
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '59.122109'
+  long: "-161.576581"
+  closest_city:
+    name: Goodnews Bay
+    distance_km: 0.56
+- country: US
+  region: AK
+  exchange: '004370'
+  name: GRAYLING
+  full_name: Grayling
+  lata: '832'
+  ilec_name: BUSH-TEL, INC.
+  lat: '62.906423'
+  long: "-160.069243"
+  closest_city:
+    name: Grayling
+    distance_km: 2.09
+- country: US
+  region: AK
+  exchange: '347772'
+  name: GULKANA
+  full_name: Gulkana
+  lata: '832'
+  ilec_name: COPPER VALLEY TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004390'
+  name: GUSTAVUS
+  full_name: Gustavus
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '58.421877'
+  long: "-135.704"
+  closest_city:
+    name: Gustavus
+    distance_km: 2.7
+- country: US
+  region: AK
+  exchange: '004400'
+  name: HAINES
+  full_name: Haines
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat: '59.213779'
+  long: "-135.426685"
+  closest_city:
+    name: Haines
+    distance_km: 3.49
+- country: US
+  region: AK
+  exchange: '004410'
+  name: HALIBUT CV
+  full_name: Halibut Cove
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '59.600282'
+  long: "-151.238825"
+  closest_city:
+    name: Halibut Cove
+    distance_km: 2.92
+- country: US
+  region: AK
+  exchange: '347776'
+  name: HAMITNACRS
+  full_name: Hamilton Acres
+  lata: '832'
+  ilec_name: ACS OF FAIRBANKS, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347777'
+  name: HARDING LK
+  full_name: Harding Lake
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004420'
+  name: HEALY
+  full_name: Healy
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat: '63.845739'
+  long: "-148.979734"
+  closest_city:
+    name: Healy
+    distance_km: 11.22
+- country: US
+  region: AK
+  exchange: '004430'
+  name: HEALY LAKE
+  full_name: Healy Lake
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat: '64.002762'
+  long: "-144.719781"
+  closest_city:
+    name: Healy Lake
+    distance_km: 5.08
+- country: US
+  region: AK
+  exchange: '347780'
+  name: HICKSCREEK
+  full_name: Hicks Creek
+  lata: '832'
+  ilec_name: COPPER VALLEY TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004450'
+  name: HOLLIS
+  full_name: Hollis
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat: '55.486629'
+  long: "-132.637173"
+  closest_city:
+    name: Hollis
+    distance_km: 4.93
+- country: US
+  region: AK
+  exchange: '004460'
+  name: HOLY CROSS
+  full_name: Holy Cross
+  lata: '832'
+  ilec_name: BUSH-TEL, INC.
+  lat: '62.205552'
+  long: "-159.766354"
+  closest_city:
+    name: Holy Cross
+    distance_km: 3.47
+- country: US
+  region: AK
+  exchange: '004470'
+  name: HOMER
+  full_name: Homer
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '59.648306'
+  long: "-151.531763"
+  closest_city:
+    name: Homer
+    distance_km: 0.63
+- country: US
+  region: AK
+  exchange: '347784'
+  name: HONOLULU
+  full_name: Honolulu
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004480'
+  name: HOONAH
+  full_name: Hoonah
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '58.112507'
+  long: "-135.433939"
+  closest_city:
+    name: Hoonah
+    distance_km: 0.54
+- country: US
+  region: AK
+  exchange: '004490'
+  name: HOOPER BAY
+  full_name: Hooper Bay
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '61.534343'
+  long: "-166.093303"
+  closest_city:
+    name: Hooper Bay
+    distance_km: 1.45
+- country: US
+  region: AK
+  exchange: '004500'
+  name: HOPE
+  full_name: Hope
+  lata: '832'
+  ilec_name: ACS OF ANCHORAGE, INC.
+  lat: '61.081225'
+  long: "-149.770248"
+  closest_city:
+    name: Hope
+    distance_km: 22.22
+- country: US
+  region: AK
+  exchange: '347788'
+  name: HOUSTON
+  full_name: Houston
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004510'
+  name: HUGHES
+  full_name: Hughes
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '66.052396'
+  long: "-154.251652"
+  closest_city:
+    name: Hughes
+    distance_km: 1.02
+- country: US
+  region: AK
+  exchange: '347790'
+  name: HUNTER
+  full_name: Hunter
+  lata: '832'
+  ilec_name: INTERIOR TEL. CO., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004520'
+  name: HUSLIA
+  full_name: Huslia
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '65.700611'
+  long: "-156.391911"
+  closest_city:
+    name: Huslia
+    distance_km: 2.44
+- country: US
+  region: AK
+  exchange: '004530'
+  name: HYDABURG
+  full_name: Hydaburg
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat: '55.206644'
+  long: "-132.810625"
+  closest_city:
+    name: Hydaburg
+    distance_km: 0.65
+- country: US
+  region: AK
+  exchange: '017551'
+  name: HYDER
+  full_name: Hyder
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004540'
+  name: IGIUGIG
+  full_name: Igiugig
+  lata: '832'
+  ilec_name: BRISTOL BAY TEL. COOP., INC.
+  lat: '59.32859'
+  long: "-155.889968"
+  closest_city:
+    name: Igiugig
+    distance_km: 2.71
+- country: US
+  region: AK
+  exchange: '004550'
+  name: ILIAMNA
+  full_name: Iliamna
+  lata: '832'
+  ilec_name: INTERIOR TEL. CO., INC.
+  lat: '59.766324'
+  long: "-154.806932"
+  closest_city:
+    name: Iliamna
+    distance_km: 4.8
+- country: US
+  region: AK
+  exchange: '347795'
+  name: INDIAN
+  full_name: Indian
+  lata: '832'
+  ilec_name: ACS OF ANCHORAGE, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004560'
+  name: INDINMTAFS
+  full_name: Indian Mountain AFS
+  lata: '832'
+  ilec_name: ALASCOM, INC. DBA AT&T ALASKA
+  lat: '66.069096'
+  long: "-153.678237"
+  closest_city:
+    name: Hughes
+    distance_km: 25.38
+- country: US
+  region: AK
+  exchange: '347797'
+  name: JBER
+  full_name: Jber
+  lata: '832'
+  ilec_name: ACS OF ANCHORAGE, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004580'
+  name: JIMRIVCAMP
+  full_name: Jim River Camp
+  lata: '832'
+  ilec_name: BETTLES TEL. CO.
+  lat: '66.821964'
+  long: "-150.670617"
+  closest_city:
+    name: Evansville
+    distance_km: 34.52
+- country: US
+  region: AK
+  exchange: '347799'
+  name: JOHNSONRIV
+  full_name: Johnson River
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004590'
+  name: JUNEAU
+  full_name: Juneau
+  lata: '832'
+  ilec_name: ACS OF ALASKA, INC.
+  lat: '58.2992'
+  long: "-134.393057"
+  closest_city:
+    name: Juneau
+    distance_km: 21.49
+- country: US
+  region: AK
+  exchange: '347801'
+  name: JUNEAU IS
+  full_name: Juneau Island
+  lata: '832'
+  ilec_name: ACS OF ALASKA, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347802'
+  name: KACHEMAK
+  full_name: Kachemak
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004600'
+  name: KAKE
+  full_name: Kake
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '56.973293'
+  long: "-133.930757"
+  closest_city:
+    name: Kake
+    distance_km: 0.97
+- country: US
+  region: AK
+  exchange: '004610'
+  name: KAKTOVIK
+  full_name: Kaktovik
+  lata: '832'
+  ilec_name: ARCTIC SLOPE TEL. ASSN. COOP., INC.
+  lat: '70.130563'
+  long: "-143.616461"
+  closest_city:
+    name: Kaktovik
+    distance_km: 0.9
+- country: US
+  region: AK
+  exchange: '004620'
+  name: KALSKAG
+  full_name: Kalskag
+  lata: '832'
+  ilec_name: BUSH-TEL, INC.
+  lat: '61.543042'
+  long: "-160.322667"
+  closest_city:
+    name: Upper Kalskag
+    distance_km: 0.61
+- country: US
+  region: AK
+  exchange: '004630'
+  name: KALTAG
+  full_name: Kaltag
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '64.329652'
+  long: "-158.716225"
+  closest_city:
+    name: Kaltag
+    distance_km: 1.55
+- country: US
+  region: AK
+  exchange: '004640'
+  name: KANTISHNA
+  full_name: Kantishna
+  lata: '832'
+  ilec_name: ALASCOM, INC. DBA AT&T ALASKA
+  lat: '63.518008'
+  long: "-150.535113"
+  closest_city:
+    name: Cantwell
+    distance_km: 86.84
+- country: US
+  region: AK
+  exchange: '004650'
+  name: KARLUK
+  full_name: Karluk
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '57.56847'
+  long: "-154.426758"
+  closest_city:
+    name: Karluk
+    distance_km: 6.29
+- country: US
+  region: AK
+  exchange: '004660'
+  name: KASAAN
+  full_name: Kasaan
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '55.541384'
+  long: "-132.388904"
+  closest_city:
+    name: Kasaan
+    distance_km: 2.35
+- country: US
+  region: AK
+  exchange: '347811'
+  name: KASHWITNA
+  full_name: Kashwitna
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004670'
+  name: KASIGLUK
+  full_name: Kasigluk
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '60.874011'
+  long: "-162.515117"
+  closest_city:
+    name: Kasigluk
+    distance_km: 0.82
+- country: US
+  region: AK
+  exchange: '347813'
+  name: KASILOF
+  full_name: Kasilof
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004700'
+  name: KENAI
+  full_name: Kenai
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '60.554634'
+  long: "-151.232059"
+  closest_city:
+    name: Kenai
+    distance_km: 2.0
+- country: US
+  region: AK
+  exchange: '004710'
+  name: KETCHIKAN
+  full_name: Ketchikan
+  lata: '832'
+  ilec_name: KETCHIKAN PUBLIC UTILITIES
+  lat: '55.357192'
+  long: "-131.681534"
+  closest_city:
+    name: Ketchikan
+    distance_km: 0.76
+- country: US
+  region: AK
+  exchange: '004720'
+  name: KIANA
+  full_name: Kiana
+  lata: '832'
+  ilec_name: OTZ TEL. COOP., INC.
+  lat: '66.978526'
+  long: "-160.425697"
+  closest_city:
+    name: Kiana
+    distance_km: 0.75
+- country: US
+  region: AK
+  exchange: '004730'
+  name: KING COVE
+  full_name: King Cove
+  lata: '832'
+  ilec_name: INTERIOR TEL. CO., INC.
+  lat: '55.065739'
+  long: "-162.306044"
+  closest_city:
+    name: King Cove
+    distance_km: 2.29
+- country: US
+  region: AK
+  exchange: '347819'
+  name: KING MT
+  full_name: King Mountain
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004740'
+  name: KINGSALMON
+  full_name: King Salmon
+  lata: '832'
+  ilec_name: BRISTOL BAY TEL. COOP., INC.
+  lat: '58.688072'
+  long: "-156.66061"
+  closest_city:
+    name: King Salmon
+    distance_km: 11.48
+- country: US
+  region: AK
+  exchange: '004750'
+  name: KNGSLMNAFS
+  full_name: King Salmon AFS
+  lata: '832'
+  ilec_name: ALASCOM, INC. DBA AT&T ALASKA
+  lat: '58.688072'
+  long: "-156.66061"
+  closest_city:
+    name: King Salmon
+    distance_km: 11.48
+- country: US
+  region: AK
+  exchange: '004760'
+  name: KIPNUK
+  full_name: Kipnuk
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '59.944053'
+  long: "-164.02913"
+  closest_city:
+    name: Kipnuk
+    distance_km: 1.96
+- country: US
+  region: AK
+  exchange: '004770'
+  name: KIVALINA
+  full_name: Kivalina
+  lata: '832'
+  ilec_name: OTZ TEL. COOP., INC.
+  lat: '67.730515'
+  long: "-164.530659"
+  closest_city:
+    name: Kivalina
+    distance_km: 0.48
+- country: US
+  region: AK
+  exchange: '004780'
+  name: KLAWOCK
+  full_name: Klawock
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '55.556679'
+  long: "-133.086531"
+  closest_city:
+    name: Klawock
+    distance_km: 0.12
+- country: US
+  region: AK
+  exchange: '004790'
+  name: KLUKWAN
+  full_name: Klukwan
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat: '59.403714'
+  long: "-135.885048"
+  closest_city:
+    name: Klukwan
+    distance_km: 0.59
+- country: US
+  region: AK
+  exchange: '004800'
+  name: KOBUK
+  full_name: Kobuk
+  lata: '832'
+  ilec_name: OTZ TEL. COOP., INC.
+  lat: '66.911938'
+  long: "-156.883441"
+  closest_city:
+    name: Kobuk
+    distance_km: 2.17
+- country: US
+  region: AK
+  exchange: '004810'
+  name: KODIAK
+  full_name: Kodiak
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '57.789918'
+  long: "-152.437298"
+  closest_city:
+    name: Kodiak
+    distance_km: 1.9
+- country: US
+  region: AK
+  exchange: '004811'
+  name: KODIAKUSCG
+  full_name: Kodiak US Coast Guard Station
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004830'
+  name: KAKHONAK
+  full_name: Kokhanok
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '59.443296'
+  long: "-154.748102"
+  closest_city:
+    name: Kokhanok
+    distance_km: 3.06
+- country: US
+  region: AK
+  exchange: '004840'
+  name: KOLIGANEK
+  full_name: Koliganek
+  lata: '832'
+  ilec_name: BRISTOL BAY TEL. COOP., INC.
+  lat: '59.728416'
+  long: "-157.281702"
+  closest_city:
+    name: Koliganek
+    distance_km: 4.68
+- country: US
+  region: AK
+  exchange: '004850'
+  name: KONGIGANAK
+  full_name: Kongiganak
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '59.963763'
+  long: "-162.885249"
+  closest_city:
+    name: Kongiganak
+    distance_km: 2.99
+- country: US
+  region: AK
+  exchange: '004860'
+  name: KOTLIK
+  full_name: Kotlik
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '63.036999'
+  long: "-163.551031"
+  closest_city:
+    name: Kotlik
+    distance_km: 0.73
+- country: US
+  region: AK
+  exchange: '004870'
+  name: KOTZEBUE
+  full_name: Kotzebue
+  lata: '832'
+  ilec_name: OTZ TEL. COOP., INC.
+  lat: '66.898998'
+  long: "-162.595553"
+  closest_city:
+    name: Kotzebue
+    distance_km: 4.03
+- country: US
+  region: AK
+  exchange: '004880'
+  name: KOYUK
+  full_name: Koyuk
+  lata: '832'
+  ilec_name: MUKLUK TEL. CO., INC.
+  lat: '64.933966'
+  long: "-161.158375"
+  closest_city:
+    name: Koyuk
+    distance_km: 1.0
+- country: US
+  region: AK
+  exchange: '004890'
+  name: KOYUKUK
+  full_name: Koyukuk
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '64.886925'
+  long: "-157.708237"
+  closest_city:
+    name: Koyukuk
+    distance_km: 1.67
+- country: US
+  region: AK
+  exchange: '004900'
+  name: KWETHLUK
+  full_name: Kwethluk
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '60.814914'
+  long: "-161.411306"
+  closest_city:
+    name: Kwethluk
+    distance_km: 1.91
+- country: US
+  region: AK
+  exchange: '004910'
+  name: KWIGILLNGK
+  full_name: Kwigillingok
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '59.865665'
+  long: "-163.129839"
+  closest_city:
+    name: Kwigillingok
+    distance_km: 2.63
+- country: US
+  region: AK
+  exchange: '004920'
+  name: LARSEN BAY
+  full_name: Larsen Bay
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '57.539173'
+  long: "-153.974697"
+  closest_city:
+    name: Larsen Bay
+    distance_km: 1.85
+- country: US
+  region: AK
+  exchange: '347838'
+  name: LAWSON CRK
+  full_name: Lawson Creek
+  lata: '832'
+  ilec_name: ACS OF ALASKA, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347839'
+  name: LEMONCREEK
+  full_name: Lemon Creek
+  lata: '832'
+  ilec_name: ACS OF ALASKA, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004940'
+  name: LEVELOCK
+  full_name: Levelock
+  lata: '832'
+  ilec_name: BRISTOL BAY TEL. COOP., INC.
+  lat: '59.117074'
+  long: "-156.853343"
+  closest_city:
+    name: Levelock
+    distance_km: 6.07
+- country: US
+  region: AK
+  exchange: '347841'
+  name: LIGNITE
+  full_name: Lignite
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004950'
+  name: LIME VLG
+  full_name: Lime Village
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '61.358401'
+  long: "-155.430276"
+  closest_city:
+    name: Lime Village
+    distance_km: 6.93
+- country: US
+  region: AK
+  exchange: '004960'
+  name: LTLDIOMEDE
+  full_name: Little Diomede
+  lata: '832'
+  ilec_name: MUKLUK TEL. CO., INC.
+  lat: '65.761183'
+  long: "-168.929455"
+  closest_city:
+    name: Diomede
+    distance_km: 0.91
+- country: US
+  region: AK
+  exchange: '347844'
+  name: LTL WILLOW
+  full_name: Little Willow
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '004970'
+  name: LIVENGOOD
+  full_name: Livengood
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '65.473365'
+  long: "-148.669015"
+  closest_city:
+    name: Livengood
+    distance_km: 11.66
+- country: US
+  region: AK
+  exchange: '004980'
+  name: MANLYHTSPG
+  full_name: Manley Hot Springs
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '64.998793'
+  long: "-150.638834"
+  closest_city:
+    name: Manley Hot Springs
+    distance_km: 2.23
+- country: US
+  region: AK
+  exchange: '004990'
+  name: MANOKOTAK
+  full_name: Manokotak
+  lata: '832'
+  ilec_name: NUSHAGAK ELECTRIC & TELEPHONE COOPERATIVE, INC.
+  lat: '58.982094'
+  long: "-159.055329"
+  closest_city:
+    name: Manokotak
+    distance_km: 12.92
+- country: US
+  region: AK
+  exchange: '005000'
+  name: MARSHALL
+  full_name: Marshall
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '61.884124'
+  long: "-162.077952"
+  closest_city:
+    name: Marshall
+    distance_km: 1.82
+- country: US
+  region: AK
+  exchange: '005010'
+  name: MCCARTHY
+  full_name: McCarthy
+  lata: '832'
+  ilec_name: COPPER VALLEY TEL. COOP., INC.
+  lat: '61.436918'
+  long: "-142.912734"
+  closest_city:
+    name: McCarthy
+    distance_km: 3.17
+- country: US
+  region: AK
+  exchange: '005020'
+  name: MCGRATH
+  full_name: McGrath
+  lata: '832'
+  ilec_name: UNITED-KUC, INC. - AK
+  lat: '62.957011'
+  long: "-155.615189"
+  closest_city:
+    name: McGrath
+    distance_km: 3.1
+- country: US
+  region: AK
+  exchange: '347851'
+  name: MCKINLEY
+  full_name: McKinley
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005030'
+  name: MEKORYUK
+  full_name: Mekoryuk
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '60.390467'
+  long: "-166.188545"
+  closest_city:
+    name: Mekoryuk
+    distance_km: 4.85
+- country: US
+  region: AK
+  exchange: '347853'
+  name: MENDELTNA
+  full_name: Mendeltna
+  lata: '832'
+  ilec_name: COPPER VALLEY TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005040'
+  name: MENTASTA
+  full_name: Mentasta
+  lata: '832'
+  ilec_name: COPPER VALLEY TEL. COOP., INC.
+  lat: '62.940259'
+  long: "-143.783877"
+  closest_city:
+    name: Mentasta Lake
+    distance_km: 14.34
+- country: US
+  region: AK
+  exchange: '347855'
+  name: MENTASTALK
+  full_name: Mentasta Lake
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005050'
+  name: MESHIK
+  full_name: Meshik
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '56.915025'
+  long: "-158.676225"
+  closest_city:
+    name: Port Heiden
+    distance_km: 5.31
+- country: US
+  region: AK
+  exchange: '003531'
+  name: METLAKATLA
+  full_name: Metlakatla
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347858'
+  name: MIERS LAKE
+  full_name: Miers Lake
+  lata: '832'
+  ilec_name: COPPER VALLEY TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005060'
+  name: MINCHUMINA
+  full_name: Minchumina
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '63.883682'
+  long: "-152.311121"
+  closest_city:
+    name: Lake Minchumina
+    distance_km: 9.66
+- country: US
+  region: AK
+  exchange: '005070'
+  name: MINTO
+  full_name: Minto
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '65.160408'
+  long: "-149.318007"
+  closest_city:
+    name: Minto
+    distance_km: 12.83
+- country: US
+  region: AK
+  exchange: '347861'
+  name: MONTANA
+  full_name: Montana
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347862'
+  name: MOODY
+  full_name: Moody
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005080'
+  name: MOOSE PASS
+  full_name: Moose Pass
+  lata: '832'
+  ilec_name: INTERIOR TEL. CO., INC.
+  lat: '60.483244'
+  long: "-149.359551"
+  closest_city:
+    name: Moose Pass
+    distance_km: 5.1
+- country: US
+  region: AK
+  exchange: '347866'
+  name: MTEDGECUMB
+  full_name: Mount Edgecombe
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347864'
+  name: MOUNTAINPT
+  full_name: Mountain Point
+  lata: '832'
+  ilec_name: KETCHIKAN PUBLIC UTILITIES
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005090'
+  name: MOUNTANVLG
+  full_name: Mountain Village
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '62.093437'
+  long: "-163.72088"
+  closest_city:
+    name: Mountain Village
+    distance_km: 0.26
+- country: US
+  region: AK
+  exchange: '347867'
+  name: MUD BAY
+  full_name: Mud Bay
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005100'
+  name: MYERSCHUCK
+  full_name: Myers Chuck
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat: '55.738944'
+  long: "-132.254242"
+  closest_city:
+    name: Thorne Bay
+    distance_km: 19.34
+- country: US
+  region: AK
+  exchange: '347869'
+  name: NANWALEK
+  full_name: Nanwalek
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005110'
+  name: NAPAKIAK
+  full_name: Napakiak
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '60.699365'
+  long: "-161.956145"
+  closest_city:
+    name: Napakiak
+    distance_km: 1.62
+- country: US
+  region: AK
+  exchange: '005120'
+  name: NAPASKIAK
+  full_name: Napaskiak
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '60.71383'
+  long: "-161.756873"
+  closest_city:
+    name: Napaskiak
+    distance_km: 1.36
+- country: US
+  region: AK
+  exchange: '347872'
+  name: NAPTOWNE
+  full_name: Naptowne
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005130'
+  name: NAUKATIBAY
+  full_name: Naukati Bay
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat: '55.873454'
+  long: "-133.198664"
+  closest_city:
+    name: Naukati Bay
+    distance_km: 0.74
+- country: US
+  region: AK
+  exchange: '005140'
+  name: NELSONLGON
+  full_name: Nelson Lagoon
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '56.003886'
+  long: "-161.195149"
+  closest_city:
+    name: Nelson Lagoon
+    distance_km: 31.32
+- country: US
+  region: AK
+  exchange: '005150'
+  name: NENANA
+  full_name: Nenana
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '64.521507'
+  long: "-149.097061"
+  closest_city:
+    name: Nenana
+    distance_km: 1.96
+- country: US
+  region: AK
+  exchange: '005160'
+  name: NEWSTUYHOK
+  full_name: New Stuyahok
+  lata: '832'
+  ilec_name: BRISTOL BAY TEL. COOP., INC.
+  lat: '59.45382'
+  long: "-157.308605"
+  closest_city:
+    name: New Stuyahok
+    distance_km: 3.27
+- country: US
+  region: AK
+  exchange: '347876'
+  name: NEWHALEN
+  full_name: Newhalen
+  lata: '832'
+  ilec_name: INTERIOR TEL. CO., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005170'
+  name: NEWTOK
+  full_name: Newtok
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '60.94772'
+  long: "-164.618757"
+  closest_city:
+    name: Newtok
+    distance_km: 1.86
+- country: US
+  region: AK
+  exchange: '005180'
+  name: NIGHTMUTE
+  full_name: Nightmute
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '60.484057'
+  long: "-164.71771"
+  closest_city:
+    name: Nightmute
+    distance_km: 5.59
+- country: US
+  region: AK
+  exchange: '347880'
+  name: NIKISHKA
+  full_name: Nikishka
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347881'
+  name: NIKISKI
+  full_name: Nikiski
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347882'
+  name: NIKOLAEVSK
+  full_name: Nikolaevsk
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005190'
+  name: NIKOLAI
+  full_name: Nikolai
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '63.014011'
+  long: "-154.380032"
+  closest_city:
+    name: Nikolai
+    distance_km: 0.54
+- country: US
+  region: AK
+  exchange: '005200'
+  name: NIKOLSKI
+  full_name: Nikolski
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '52.942596'
+  long: "-168.853052"
+  closest_city:
+    name: Nikolski
+    distance_km: 10.3
+- country: US
+  region: AK
+  exchange: '005210'
+  name: NINILCHIK
+  full_name: Ninilchik
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '60.053381'
+  long: "-151.659762"
+  closest_city:
+    name: Ninilchik
+    distance_km: 15.46
+- country: US
+  region: AK
+  exchange: '005220'
+  name: NOATAK
+  full_name: Noatak
+  lata: '832'
+  ilec_name: OTZ TEL. COOP., INC.
+  lat: '67.570741'
+  long: "-162.961341"
+  closest_city:
+    name: Noatak
+    distance_km: 4.28
+- country: US
+  region: AK
+  exchange: '005230'
+  name: NOME
+  full_name: Nome
+  lata: '832'
+  ilec_name: MUKLUK TEL. CO., INC.
+  lat: '64.499144'
+  long: "-165.394296"
+  closest_city:
+    name: Nome
+    distance_km: 2.52
+- country: US
+  region: AK
+  exchange: '005240'
+  name: NONDALTON
+  full_name: Nondalton
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '59.977171'
+  long: "-154.846703"
+  closest_city:
+    name: Nondalton
+    distance_km: 1.12
+- country: US
+  region: AK
+  exchange: '005250'
+  name: NOORVIK
+  full_name: Noorvik
+  lata: '832'
+  ilec_name: OTZ TEL. COOP., INC.
+  lat: '66.838872'
+  long: "-161.026196"
+  closest_city:
+    name: Noorvik
+    distance_km: 1.19
+- country: US
+  region: AK
+  exchange: '005260'
+  name: NORTHKENAI
+  full_name: North Kenai
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '60.722386'
+  long: "-151.352174"
+  closest_city:
+    name: Nikiski
+    distance_km: 6.6
+- country: US
+  region: AK
+  exchange: '005270'
+  name: NORTH POLE
+  full_name: North Pole
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '64.753335'
+  long: "-147.351034"
+  closest_city:
+    name: North Pole
+    distance_km: 0.42
+- country: US
+  region: AK
+  exchange: '005280'
+  name: NORTHWAY
+  full_name: Northway
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '63.01786'
+  long: "-141.804457"
+  closest_city:
+    name: Northway
+    distance_km: 10.8
+- country: US
+  region: AK
+  exchange: '005290'
+  name: NUIQSUT
+  full_name: Nuiqsut
+  lata: '832'
+  ilec_name: ARCTIC SLOPE TEL. ASSN. COOP., INC.
+  lat: '70.215079'
+  long: "-150.991236"
+  closest_city:
+    name: Nuiqsut
+    distance_km: 0.18
+- country: US
+  region: AK
+  exchange: '005300'
+  name: NULATO
+  full_name: Nulato
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '64.733402'
+  long: "-158.110167"
+  closest_city:
+    name: Nulato
+    distance_km: 6.84
+- country: US
+  region: AK
+  exchange: '005310'
+  name: NUNAPTCHUK
+  full_name: Nunapitchuk
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '60.898581'
+  long: "-162.460664"
+  closest_city:
+    name: Nunapitchuk
+    distance_km: 2.38
+- country: US
+  region: AK
+  exchange: '005320'
+  name: OLD HARBOR
+  full_name: Old Harbor
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '57.204578'
+  long: "-153.298634"
+  closest_city:
+    name: Old Harbor
+    distance_km: 2.11
+- country: US
+  region: AK
+  exchange: '005340'
+  name: OUZINKIE
+  full_name: Ouzinkie
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '57.924431'
+  long: "-152.501136"
+  closest_city:
+    name: Ouzinkie
+    distance_km: 2.01
+- country: US
+  region: AK
+  exchange: '005350'
+  name: PALMER
+  full_name: Palmer
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat: '61.606419'
+  long: "-149.107533"
+  closest_city:
+    name: Palmer
+    distance_km: 1.11
+- country: US
+  region: AK
+  exchange: '347899'
+  name: PAXSON
+  full_name: Paxson
+  lata: '832'
+  ilec_name: COPPER VALLEY TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005360'
+  name: PEDRO BAY
+  full_name: Pedro Bay
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '59.786857'
+  long: "-154.120896"
+  closest_city:
+    name: Pedro Bay
+    distance_km: 0.63
+- country: US
+  region: AK
+  exchange: '005370'
+  name: PELICAN
+  full_name: Pelican
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '57.958145'
+  long: "-136.21783"
+  closest_city:
+    name: Pelican
+    distance_km: 0.06
+- country: US
+  region: AK
+  exchange: '005380'
+  name: PERRYVILLE
+  full_name: Perryville
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '55.915782'
+  long: "-159.140175"
+  closest_city:
+    name: Perryville
+    distance_km: 2.0
+- country: US
+  region: AK
+  exchange: '005390'
+  name: PETERSBURG
+  full_name: Petersburg
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat: '56.810294'
+  long: "-132.948345"
+  closest_city:
+    name: Kupreanof
+    distance_km: 2.47
+- country: US
+  region: AK
+  exchange: '005400'
+  name: PILOTPOINT
+  full_name: Pilot Point
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '57.56628'
+  long: "-157.573917"
+  closest_city:
+    name: Pilot Point
+    distance_km: 6.37
+- country: US
+  region: AK
+  exchange: '005410'
+  name: PILOT STA
+  full_name: Pilot Station
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '61.944637'
+  long: "-162.87879"
+  closest_city:
+    name: Pilot Station
+    distance_km: 0.34
+- country: US
+  region: AK
+  exchange: '347906'
+  name: PITKAS PT
+  full_name: Pitkas Point
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005420'
+  name: PLATINUM
+  full_name: Platinum
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '59.013822'
+  long: "-161.814736"
+  closest_city:
+    name: Platinum
+    distance_km: 6.8
+- country: US
+  region: AK
+  exchange: '005430'
+  name: POINTBAKER
+  full_name: Point Baker
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '56.354473'
+  long: "-133.612812"
+  closest_city:
+    name: Point Baker
+    distance_km: 0.72
+- country: US
+  region: AK
+  exchange: '005440'
+  name: POINT HOPE
+  full_name: Point Hope
+  lata: '832'
+  ilec_name: ARCTIC SLOPE TEL. ASSN. COOP., INC.
+  lat: '68.348363'
+  long: "-166.736315"
+  closest_city:
+    name: Point Hope
+    distance_km: 2.6
+- country: US
+  region: AK
+  exchange: '005450'
+  name: POINT LAY
+  full_name: Point Lay
+  lata: '832'
+  ilec_name: ARCTIC SLOPE TEL. ASSN. COOP., INC.
+  lat: '69.744438'
+  long: "-163.00136"
+  closest_city:
+    name: Point Lay
+    distance_km: 5.14
+- country: US
+  region: AK
+  exchange: '005460'
+  name: PTALEXANDR
+  full_name: Port Alexander
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '56.246259'
+  long: "-134.64352"
+  closest_city:
+    name: Port Alexander
+    distance_km: 1.43
+- country: US
+  region: AK
+  exchange: '005470'
+  name: PTALSWORTH
+  full_name: Port Alsworth
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '60.208462'
+  long: "-154.312996"
+  closest_city:
+    name: Port Alsworth
+    distance_km: 4.45
+- country: US
+  region: AK
+  exchange: '347917'
+  name: PTCHILKOOT
+  full_name: Port Chilkoot
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005490'
+  name: PORTGRAHAM
+  full_name: Port Graham
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '59.353902'
+  long: "-151.830252"
+  closest_city:
+    name: Port Graham
+    distance_km: 1.8
+- country: US
+  region: AK
+  exchange: '005500'
+  name: PORT LIONS
+  full_name: Port Lions
+  lata: '832'
+  ilec_name: INTERIOR TEL. CO., INC.
+  lat: '57.865604'
+  long: "-152.869819"
+  closest_city:
+    name: Port Lions
+    distance_km: 1.16
+- country: US
+  region: AK
+  exchange: '005520'
+  name: PTPROTECTN
+  full_name: Port Protection
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '56.32794'
+  long: "-133.606925"
+  closest_city:
+    name: Port Protection
+    distance_km: 0.81
+- country: US
+  region: AK
+  exchange: '347914'
+  name: PT WAKEFLD
+  full_name: Port Wakefield
+  lata: '832'
+  ilec_name: INTERIOR TEL. CO., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347912'
+  name: PORTAGE
+  full_name: Portage
+  lata: '832'
+  ilec_name: ACS OF ANCHORAGE, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005600'
+  name: QUINHAGAK
+  full_name: Quinhagak
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '59.75297'
+  long: "-161.912462"
+  closest_city:
+    name: Quinhagak
+    distance_km: 0.77
+- country: US
+  region: AK
+  exchange: '005610'
+  name: RAMPART
+  full_name: Rampart
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '65.511247'
+  long: "-150.163631"
+  closest_city:
+    name: Rampart
+    distance_km: 13.9
+- country: US
+  region: AK
+  exchange: '005620'
+  name: RED DEVIL
+  full_name: Red Devil
+  lata: '832'
+  ilec_name: BUSH-TEL, INC.
+  lat: '61.789686'
+  long: "-157.330054"
+  closest_city:
+    name: Red Devil
+    distance_km: 1.99
+- country: US
+  region: AK
+  exchange: '005630'
+  name: REDDOGMINE
+  full_name: Red Dog Mine
+  lata: '832'
+  ilec_name: OTZ TEL. COOP., INC.
+  lat: '68.019735'
+  long: "-162.911281"
+  closest_city:
+    name: Red Dog Mine
+    distance_km: 5.31
+- country: US
+  region: AK
+  exchange: '347923'
+  name: REX
+  full_name: Rex
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347924'
+  name: RICHARDSON
+  full_name: Richardson
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347925'
+  name: RIDGEWAY
+  full_name: Ridgeway
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347926'
+  name: ROGERSPARK
+  full_name: Rogers Park
+  lata: '832'
+  ilec_name: ACS OF ANCHORAGE, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005650'
+  name: RUBY
+  full_name: Ruby
+  lata: '832'
+  ilec_name: YUKON TEL. CO., INC.
+  lat: '64.741376'
+  long: "-155.478129"
+  closest_city:
+    name: Ruby
+    distance_km: 2.27
+- country: US
+  region: AK
+  exchange: '005660'
+  name: RUSSINMSSN
+  full_name: Russian Mission
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '61.791569'
+  long: "-161.31044"
+  closest_city:
+    name: Russian Mission
+    distance_km: 2.63
+- country: US
+  region: AK
+  exchange: '005670'
+  name: SAGRIVCAMP
+  full_name: Sag River Camp
+  lata: '832'
+  ilec_name: ALASCOM, INC. DBA AT&T ALASKA
+  lat: '68.765249'
+  long: "-148.870359"
+  closest_city:
+    name: Anaktuvuk Pass
+    distance_km: 134.82
+- country: US
+  region: AK
+  exchange: '347930'
+  name: SALCHA
+  full_name: Salcha
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347931'
+  name: SALCHASGH
+  full_name: Salchaket Slough
+  lata: '832'
+  ilec_name: ACS OF FAIRBANKS, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005680'
+  name: SAND POINT
+  full_name: Sand Point
+  lata: '832'
+  ilec_name: INTERIOR TEL. CO., INC.
+  lat: '55.343155'
+  long: "-160.49"
+  closest_city:
+    name: Sand Point
+    distance_km: 2.31
+- country: US
+  region: AK
+  exchange: '005690'
+  name: SAVOONGA
+  full_name: Savoonga
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '63.697908'
+  long: "-170.475006"
+  closest_city:
+    name: Savoonga
+    distance_km: 2.06
+- country: US
+  region: AK
+  exchange: '347934'
+  name: SAXMAN
+  full_name: Saxman
+  lata: '832'
+  ilec_name: KETCHIKAN PUBLIC UTILITIES
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005700'
+  name: SCAMMONBAY
+  full_name: Scammon Bay
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '61.846319'
+  long: "-165.570742"
+  closest_city:
+    name: Scammon Bay
+    distance_km: 0.82
+- country: US
+  region: AK
+  exchange: '005710'
+  name: SELAWIK
+  full_name: Selawik
+  lata: '832'
+  ilec_name: OTZ TEL. COOP., INC.
+  lat: '66.600556'
+  long: "-160.007796"
+  closest_city:
+    name: Selawik
+    distance_km: 0.42
+- country: US
+  region: AK
+  exchange: '005720'
+  name: SELDOVIA
+  full_name: Seldovia
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '59.436393'
+  long: "-151.70806"
+  closest_city:
+    name: Seldovia
+    distance_km: 0.4
+- country: US
+  region: AK
+  exchange: '005730'
+  name: SEWARD
+  full_name: Seward
+  lata: '832'
+  ilec_name: INTERIOR TEL. CO., INC.
+  lat: '60.108564'
+  long: "-149.437521"
+  closest_city:
+    name: Seward
+    distance_km: 2.53
+- country: US
+  region: AK
+  exchange: '005740'
+  name: SHAGELUK
+  full_name: Shageluk
+  lata: '832'
+  ilec_name: BUSH-TEL, INC.
+  lat: '62.660379'
+  long: "-159.519691"
+  closest_city:
+    name: Shageluk
+    distance_km: 2.38
+- country: US
+  region: AK
+  exchange: '005750'
+  name: SHAKTOOLIK
+  full_name: Shaktoolik
+  lata: '832'
+  ilec_name: MUKLUK TEL. CO., INC.
+  lat: '64.359985'
+  long: "-161.188536"
+  closest_city:
+    name: Shaktoolik
+    distance_km: 0.55
+- country: US
+  region: AK
+  exchange: '347941'
+  name: SHEEP MT
+  full_name: Sheep Mountain
+  lata: '832'
+  ilec_name: COPPER VALLEY TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005760'
+  name: SHELDON PT
+  full_name: Sheldon Point
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '62.535467'
+  long: "-164.852603"
+  closest_city:
+    name: Nunam Iqua
+    distance_km: 3.64
+- country: US
+  region: AK
+  exchange: '005770'
+  name: SHISHMAREF
+  full_name: Shishmaref
+  lata: '832'
+  ilec_name: MUKLUK TEL. CO., INC.
+  lat: '66.260821'
+  long: "-166.067727"
+  closest_city:
+    name: Shishmaref
+    distance_km: 3.06
+- country: US
+  region: AK
+  exchange: '005780'
+  name: SHUNGNAK
+  full_name: Shungnak
+  lata: '832'
+  ilec_name: OTZ TEL. COOP., INC.
+  lat: '66.896284'
+  long: "-157.136276"
+  closest_city:
+    name: Shungnak
+    distance_km: 1.85
+- country: US
+  region: AK
+  exchange: '347945'
+  name: SINONA
+  full_name: Sinona
+  lata: '832'
+  ilec_name: COPPER VALLEY TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005790'
+  name: SITKA
+  full_name: Sitka
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '57.049166'
+  long: "-135.346869"
+  closest_city:
+    name: Sitka
+    distance_km: 21.32
+- country: US
+  region: AK
+  exchange: '005800'
+  name: SKAGWAY
+  full_name: Skagway
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat: '59.453985'
+  long: "-135.307355"
+  closest_city:
+    name: Skagway
+    distance_km: 0.88
+- country: US
+  region: AK
+  exchange: '347948'
+  name: SLANA
+  full_name: Slana
+  lata: '832'
+  ilec_name: COPPER VALLEY TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347949'
+  name: SLATERVL
+  full_name: Slaterville
+  lata: '832'
+  ilec_name: ACS OF FAIRBANKS, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005810'
+  name: SLEETMUTE
+  full_name: Sleetmute
+  lata: '832'
+  ilec_name: BUSH-TEL, INC.
+  lat: '61.707388'
+  long: "-157.166149"
+  closest_city:
+    name: Sleetmute
+    distance_km: 6.57
+- country: US
+  region: AK
+  exchange: '347951'
+  name: SNOWSHOELK
+  full_name: Snowshoe Lake
+  lata: '832'
+  ilec_name: COPPER VALLEY TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005820'
+  name: SOLDOTNA
+  full_name: Soldotna
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '60.532159'
+  long: "-151.07271"
+  closest_city:
+    name: Ridgeway
+    distance_km: 2.34
+- country: US
+  region: AK
+  exchange: '347952'
+  name: SO NAKNEK
+  full_name: South Naknek
+  lata: '832'
+  ilec_name: BRISTOL BAY TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005830'
+  name: SPAREHNAFS
+  full_name: Sparrevohn AFS
+  lata: '832'
+  ilec_name: ALASCOM, INC. DBA AT&T ALASKA
+  lat: '61.111019'
+  long: "-155.60114"
+  closest_city:
+    name: Lime Village
+    distance_km: 28.4
+- country: US
+  region: AK
+  exchange: '347955'
+  name: SPENARD
+  full_name: Spenard
+  lata: '832'
+  ilec_name: ACS OF ANCHORAGE, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347956'
+  name: SQUAW HBR
+  full_name: Squaw Harbor
+  lata: '832'
+  ilec_name: INTERIOR TEL. CO., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005840'
+  name: ST GEORGE
+  full_name: St George
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '56.603525'
+  long: "-169.54867"
+  closest_city:
+    name: St. George
+    distance_km: 4.7
+- country: US
+  region: AK
+  exchange: '005850'
+  name: ST MARYS
+  full_name: St Marys
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '62.052887'
+  long: "-163.16851"
+  closest_city:
+    name: Pitkas Point
+    distance_km: 5.47
+- country: US
+  region: AK
+  exchange: '005860'
+  name: ST MICHAEL
+  full_name: St Michael
+  lata: '832'
+  ilec_name: MUKLUK TEL. CO., INC.
+  lat: '63.47968'
+  long: "-162.035517"
+  closest_city:
+    name: St. Michael
+    distance_km: 5.03
+- country: US
+  region: AK
+  exchange: '005870'
+  name: ST PAUL
+  full_name: St Paul
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '57.123735'
+  long: "-170.282034"
+  closest_city:
+    name: St. Paul
+    distance_km: 6.44
+- country: US
+  region: AK
+  exchange: '005880'
+  name: STEBBINS
+  full_name: Stebbins
+  lata: '832'
+  ilec_name: MUKLUK TEL. CO., INC.
+  lat: '63.523838'
+  long: "-162.286976"
+  closest_city:
+    name: Stebbins
+    distance_km: 6.08
+- country: US
+  region: AK
+  exchange: '347962'
+  name: STERLING
+  full_name: Sterling
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005890'
+  name: STEVENSVLG
+  full_name: Stevens Village
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '66.011476'
+  long: "-149.088073"
+  closest_city:
+    name: Stevens Village
+    distance_km: 1.55
+- country: US
+  region: AK
+  exchange: '005900'
+  name: STONYRIVER
+  full_name: Stony River
+  lata: '832'
+  ilec_name: BUSH-TEL, INC.
+  lat: '61.786517'
+  long: "-156.588871"
+  closest_city:
+    name: Stony River
+    distance_km: 0.81
+- country: US
+  region: AK
+  exchange: '347965'
+  name: SUNSHINE
+  full_name: Sunshine
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347966'
+  name: SUNTRANA
+  full_name: Suntrana
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '347967'
+  name: SUTTON
+  full_name: Sutton
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005920'
+  name: TAKOTNA
+  full_name: Takotna
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '62.993038'
+  long: "-156.06213"
+  closest_city:
+    name: Takotna
+    distance_km: 1.59
+- country: US
+  region: AK
+  exchange: '005930'
+  name: TALKEETNA
+  full_name: Talkeetna
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat: '62.332776'
+  long: "-150.085793"
+  closest_city:
+    name: Talkeetna
+    distance_km: 7.48
+- country: US
+  region: AK
+  exchange: '347970'
+  name: TANACROSS
+  full_name: Tanacross
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005940'
+  name: TANANA
+  full_name: Tanana
+  lata: '832'
+  ilec_name: YUKON TEL. CO., INC.
+  lat: '65.168428'
+  long: "-152.060166"
+  closest_city:
+    name: Tanana
+    distance_km: 0.79
+- country: US
+  region: AK
+  exchange: '005950'
+  name: TATALINAFS
+  full_name: Tatalina AFS
+  lata: '832'
+  ilec_name: ALASCOM, INC. DBA AT&T ALASKA
+  lat: '62.93254'
+  long: "-156.010729"
+  closest_city:
+    name: Takotna
+    distance_km: 6.69
+- country: US
+  region: AK
+  exchange: '005960'
+  name: TATITLEK
+  full_name: Tatitlek
+  lata: '832'
+  ilec_name: COPPER VALLEY TEL. COOP., INC.
+  lat: '60.870168'
+  long: "-146.674921"
+  closest_city:
+    name: Tatitlek
+    distance_km: 2.44
+- country: US
+  region: AK
+  exchange: '347974'
+  name: TAZLINA
+  full_name: Tazlina
+  lata: '832'
+  ilec_name: COPPER VALLEY TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '005980'
+  name: TELLER
+  full_name: Teller
+  lata: '832'
+  ilec_name: MUKLUK TEL. CO., INC.
+  lat: '65.33799'
+  long: "-166.489305"
+  closest_city:
+    name: Brevig Mission
+    distance_km: 0.46
+- country: US
+  region: AK
+  exchange: '005990'
+  name: TENAKEESPG
+  full_name: Tenakee Springs
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '57.781673'
+  long: "-135.215025"
+  closest_city:
+    name: Tenakee Springs
+    distance_km: 1.58
+- country: US
+  region: AK
+  exchange: '006000'
+  name: TETLIN
+  full_name: Tetlin
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat: '63.137676'
+  long: "-142.512641"
+  closest_city:
+    name: Tetlin
+    distance_km: 1.47
+- country: US
+  region: AK
+  exchange: '347978'
+  name: THANE
+  full_name: Thane
+  lata: '832'
+  ilec_name: ACS OF ALASKA, INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '006010'
+  name: THORNE BAY
+  full_name: Thorne Bay
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '55.688468'
+  long: "-132.512648"
+  closest_city:
+    name: Thorne Bay
+    distance_km: 2.9
+- country: US
+  region: AK
+  exchange: '006020'
+  name: TINCITYAFS
+  full_name: Tin City AFS
+  lata: '832'
+  ilec_name: ALASCOM, INC. DBA AT&T ALASKA
+  lat: '65.56743'
+  long: "-167.959045"
+  closest_city:
+    name: Wales
+    distance_km: 7.35
+- country: US
+  region: AK
+  exchange: '006030'
+  name: TOGIAK
+  full_name: Togiak
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '59.063788'
+  long: "-160.375614"
+  closest_city:
+    name: Togiak
+    distance_km: 5.59
+- country: US
+  region: AK
+  exchange: '006040'
+  name: TOK
+  full_name: Tok
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat: '63.339968'
+  long: "-142.984104"
+  closest_city:
+    name: Tok
+    distance_km: 2.95
+- country: US
+  region: AK
+  exchange: '006050'
+  name: TOKSOOKBAY
+  full_name: Toksook Bay
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '60.53231'
+  long: "-165.103929"
+  closest_city:
+    name: Toksook Bay
+    distance_km: 2.83
+- country: US
+  region: AK
+  exchange: '347984'
+  name: TONSINA
+  full_name: Tonsina
+  lata: '832'
+  ilec_name: COPPER VALLEY TEL. COOP., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '006060'
+  name: TULUKSAK
+  full_name: Tuluksak
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '61.103524'
+  long: "-160.952063"
+  closest_city:
+    name: Tuluksak
+    distance_km: 0.22
+- country: US
+  region: AK
+  exchange: '006070'
+  name: TUNTUTULIK
+  full_name: Tuntutuliak
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '60.34786'
+  long: "-162.6583"
+  closest_city:
+    name: Tuntutuliak
+    distance_km: 4.29
+- country: US
+  region: AK
+  exchange: '006080'
+  name: TUNUNAK
+  full_name: Tununak
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '60.586586'
+  long: "-165.253322"
+  closest_city:
+    name: Tununak
+    distance_km: 2.63
+- country: US
+  region: AK
+  exchange: '006090'
+  name: TWIN HILLS
+  full_name: Twin Hills
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '59.078857'
+  long: "-160.281094"
+  closest_city:
+    name: Twin Hills
+    distance_km: 0.31
+- country: US
+  region: AK
+  exchange: '006100'
+  name: TYONEK
+  full_name: Tyonek
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat: '61.074404'
+  long: "-151.136429"
+  closest_city:
+    name: Tyonek
+    distance_km: 10.57
+- country: US
+  region: AK
+  exchange: '006110'
+  name: UNALAKLEET
+  full_name: Unalakleet
+  lata: '832'
+  ilec_name: UNITED-KUC, INC. - AK
+  lat: '63.89077'
+  long: "-160.511059"
+  closest_city:
+    name: Unalakleet
+    distance_km: 13.46
+- country: US
+  region: AK
+  exchange: '006120'
+  name: UNALASKA
+  full_name: Unalaska
+  lata: '832'
+  ilec_name: INTERIOR TEL. CO., INC.
+  lat: '53.877479'
+  long: "-166.527808"
+  closest_city:
+    name: Unalaska
+    distance_km: 3.51
+- country: US
+  region: AK
+  exchange: '347992'
+  name: USIBELLI
+  full_name: Usibelli
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '006130'
+  name: VALDEZ
+  full_name: Valdez
+  lata: '832'
+  ilec_name: COPPER VALLEY TEL. COOP., INC.
+  lat: '61.137581'
+  long: "-146.359669"
+  closest_city:
+    name: Valdez
+    distance_km: 7.07
+- country: US
+  region: AK
+  exchange: '006150'
+  name: VENETIE
+  full_name: Venetie
+  lata: '832'
+  ilec_name: UNITED UTILITIES, INC.
+  lat: '67.023159'
+  long: "-146.414845"
+  closest_city:
+    name: Venetie
+    distance_km: 1.79
+- country: US
+  region: AK
+  exchange: '006160'
+  name: WAINWRIGHT
+  full_name: Wainwright
+  lata: '832'
+  ilec_name: ARCTIC SLOPE TEL. ASSN. COOP., INC.
+  lat: '70.641616'
+  long: "-160.019822"
+  closest_city:
+    name: Wainwright
+    distance_km: 1.83
+- country: US
+  region: AK
+  exchange: '006170'
+  name: WALES
+  full_name: Wales
+  lata: '832'
+  ilec_name: MUKLUK TEL. CO., INC.
+  lat: '65.613511'
+  long: "-168.086626"
+  closest_city:
+    name: Wales
+    distance_km: 0.46
+- country: US
+  region: AK
+  exchange: '347997'
+  name: WARD COVE
+  full_name: Ward Cove
+  lata: '832'
+  ilec_name: KETCHIKAN PUBLIC UTILITIES
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '006180'
+  name: WASILLA
+  full_name: Wasilla
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat: '61.58346'
+  long: "-149.423936"
+  closest_city:
+    name: Wasilla
+    distance_km: 2.34
+- country: US
+  region: AK
+  exchange: '006190'
+  name: WHALE PASS
+  full_name: Whale Pass
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat: '56.101552'
+  long: "-133.098213"
+  closest_city:
+    name: Whale Pass
+    distance_km: 1.67
+- country: US
+  region: AK
+  exchange: '006200'
+  name: WHITE MT
+  full_name: White Mountain
+  lata: '832'
+  ilec_name: MUKLUK TEL. CO., INC.
+  lat: '64.684739'
+  long: "-163.41242"
+  closest_city:
+    name: White Mountain
+    distance_km: 0.63
+- country: US
+  region: AK
+  exchange: '006210'
+  name: WHITTIER
+  full_name: Whittier
+  lata: '832'
+  ilec_name: YUKON TEL. CO., INC.
+  lat: '60.775503'
+  long: "-148.679361"
+  closest_city:
+    name: Whittier
+    distance_km: 2.13
+- country: US
+  region: AK
+  exchange: '006220'
+  name: WILLOW
+  full_name: Willow
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat: '61.752644'
+  long: "-150.023785"
+  closest_city:
+    name: Willow
+    distance_km: 15.87
+- country: US
+  region: AK
+  exchange: '348003'
+  name: WINDY
+  full_name: Windy
+  lata: '832'
+  ilec_name: MATANUSKA TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: AK
+  exchange: '006230'
+  name: WRANGELL
+  full_name: Wrangell
+  lata: '832'
+  ilec_name: ALASKA TELEPHONE COMPANY
+  lat: '56.471586'
+  long: "-132.389973"
+  closest_city:
+    name: Wrangell
+    distance_km: 27.45
+- country: US
+  region: AK
+  exchange: '006240'
+  name: YAKUTAT
+  full_name: Yakutat
+  lata: '832'
+  ilec_name: ACS OF THE NORTHLAND, INC.
+  lat: '59.549336'
+  long: "-139.745443"
+  closest_city:
+    name: Yakutat
+    distance_km: 8.61
+- country: US
+  region: AK
+  exchange: '006250'
+  name: YKVNTRSCMP
+  full_name: Yukon Ventures Camp
+  lata: '832'
+  ilec_name: ALASCOM, INC. DBA AT&T ALASKA
+  lat: '65.054189'
+  long: "-149.714643"
+  closest_city:
+    name: Minto
+    distance_km: 9.2

@@ -1,0 +1,5582 @@
+---
+cities:
+- country: US
+  region: AZ
+  name: Aguila
+  lat: '33.9376'
+  long: "-113.1665"
+  nearby_rate_centers:
+  - name: AGUILA
+    distance_km: 0.82
+  - name: WICKENBURG
+    distance_km: 42.91
+  - name: SALOME
+    distance_km: 45.02
+- country: US
+  region: AZ
+  name: Ajo
+  lat: '32.3923'
+  long: "-112.8839"
+  nearby_rate_centers:
+  - name: AJO
+    distance_km: 2.34
+  - name: W SANSIMON
+    distance_km: 50.83
+  - name: GILA BEND
+    distance_km: 63.06
+- country: US
+  region: AZ
+  name: Ak Chin
+  lat: '32.2873'
+  long: "-112.0091"
+  nearby_rate_centers:
+  - name: SANTA ROSA
+    distance_km: 8.26
+  - name: W SANSIMON
+    distance_km: 38.37
+  - name: SILVERBELL
+    distance_km: 39.9
+- country: US
+  region: AZ
+  name: Ak-Chin Village
+  lat: '33.0197'
+  long: "-112.0808"
+  nearby_rate_centers:
+  - name: MARICOPA
+    distance_km: 4.18
+  - name: CASABLANCA
+    distance_km: 21.31
+  - name: STOTONIC
+    distance_km: 30.71
+- country: US
+  region: AZ
+  name: Alamo Lake
+  lat: '34.2588'
+  long: "-113.5079"
+  nearby_rate_centers:
+  - name: BAGDAD
+    distance_km: 45.51
+  - name: AGUILA
+    distance_km: 46.76
+  - name: WIKIEUP
+    distance_km: 53.27
+- country: US
+  region: AZ
+  name: Ali Chuk
+  lat: '31.8169'
+  long: "-112.5584"
+  nearby_rate_centers:
+  - name: W SANSIMON
+    distance_km: 43.92
+  - name: SELLS
+    distance_km: 64.97
+  - name: AJO
+    distance_km: 68.65
+- country: US
+  region: AZ
+  name: Ali Chukson
+  lat: '31.9115'
+  long: "-111.8017"
+  nearby_rate_centers:
+  - name: SELLS
+    distance_km: 7.38
+  - name: ROBLES
+    distance_km: 45.78
+  - name: SASABE
+    distance_km: 46.82
+- country: US
+  region: AZ
+  name: Ali Molina
+  lat: '31.9025'
+  long: "-111.7804"
+  nearby_rate_centers:
+  - name: SELLS
+    distance_km: 9.46
+  - name: ROBLES
+    distance_km: 44.18
+  - name: SASABE
+    distance_km: 44.81
+- country: US
+  region: AZ
+  name: Alpine
+  lat: '33.8461'
+  long: "-109.1433"
+  nearby_rate_centers:
+  - name: ALPINE
+    distance_km: 0.42
+  - name: GREER
+    distance_km: 33.74
+  - name: SPRINGERVL
+    distance_km: 34.31
+- country: US
+  region: AZ
+  name: Amado
+  lat: '31.6968'
+  long: "-111.0583"
+  nearby_rate_centers:
+  - name: TUBAC
+    distance_km: 9.76
+  - name: GREEN VLY
+    distance_km: 21.51
+  - name: PATAGONIA
+    distance_km: 33.28
+- country: US
+  region: AZ
+  name: Anegam
+  lat: '32.3742'
+  long: "-112.0350"
+  nearby_rate_centers:
+  - name: SANTA ROSA
+    distance_km: 3.42
+  - name: SILVERBELL
+    distance_km: 35.5
+  - name: W SANSIMON
+    distance_km: 40.05
+- country: US
+  region: AZ
+  name: Antares
+  lat: '35.4229'
+  long: "-113.8083"
+  nearby_rate_centers:
+  - name: PEACH SPG
+    distance_km: 23.64
+  - name: E KINGMAN
+    distance_km: 25.68
+  - name: KINGMAN
+    distance_km: 33.86
+- country: US
+  region: AZ
+  name: Anthem
+  lat: '33.8560'
+  long: "-112.1168"
+  nearby_rate_centers:
+  - name: LKPLEASANT
+    distance_km: 12.55
+  - name: GRANITE MT
+    distance_km: 33.25
+  - name: PHOENIX
+    distance_km: 35.22
+  - name: SALT RIVER
+    distance_km: 35.22
+- country: US
+  region: AZ
+  name: Apache Junction
+  lat: '33.3985'
+  long: "-111.5350"
+  nearby_rate_centers:
+  - name: WHITLOW
+    distance_km: 20.06
+  - name: STOTONIC
+    distance_km: 35.97
+  - name: SACATON
+    distance_km: 40.9
+- country: US
+  region: AZ
+  name: Arivaca
+  lat: '31.5750'
+  long: "-111.2926"
+  nearby_rate_centers:
+  - name: SASABE
+    distance_km: 19.72
+  - name: TUBAC
+    distance_km: 23.17
+  - name: NOGALES
+    distance_km: 43.0
+- country: US
+  region: AZ
+  name: Arivaca Junction
+  lat: '31.7390'
+  long: "-111.0738"
+  nearby_rate_centers:
+  - name: TUBAC
+    distance_km: 14.58
+  - name: GREEN VLY
+    distance_km: 17.63
+  - name: PATAGONIA
+    distance_km: 37.08
+- country: US
+  region: AZ
+  name: Arizona City
+  lat: '32.7506'
+  long: "-111.6707"
+  nearby_rate_centers:
+  - name: ELOY
+    distance_km: 11.23
+  - name: CASAGRANDE
+    distance_km: 20.47
+  - name: SILVERBELL
+    distance_km: 22.86
+- country: US
+  region: AZ
+  name: Arizona Village
+  lat: '34.8546'
+  long: "-114.5895"
+  nearby_rate_centers:
+  - name: AZ VILLAGE
+    distance_km: 0.44
+  - name: MOHAVE VLY
+    distance_km: 7.89
+  - name: MESQUITCRK
+    distance_km: 12.06
+- country: US
+  region: AZ
+  name: Arlington
+  lat: '33.3346'
+  long: "-112.7747"
+  nearby_rate_centers:
+  - name: HARQUHLVLY
+    distance_km: 37.16
+  - name: GILA BEND
+    distance_km: 44.0
+  - name: MARCOPAVLG
+    distance_km: 51.24
+- country: US
+  region: AZ
+  name: Ash Fork
+  lat: '35.2171'
+  long: "-112.4913"
+  nearby_rate_centers:
+  - name: ASH FORK
+    distance_km: 1.12
+  - name: WILLIAMS
+    distance_km: 28.25
+  - name: SELIGMAN
+    distance_km: 36.73
+- country: US
+  region: AZ
+  name: Avenue B and C
+  lat: '32.7192'
+  long: "-114.6598"
+  nearby_rate_centers:
+  - name: YUMA
+    distance_km: 3.46
+  - name: SOMERTON
+    distance_km: 14.5
+  - name: WELLTON
+    distance_km: 49.73
+- country: US
+  region: AZ
+  name: Avondale
+  lat: '33.3873'
+  long: "-112.3235"
+  nearby_rate_centers:
+  - name: MARCOPAVLG
+    distance_km: 9.25
+  - name: KOMATKE
+    distance_km: 18.71
+  - name: PHOENIX
+    distance_km: 30.88
+  - name: SALT RIVER
+    distance_km: 30.88
+- country: US
+  region: AZ
+  name: Avra Valley
+  lat: '32.4195'
+  long: "-111.3393"
+  nearby_rate_centers:
+  - name: MARANA
+    distance_km: 12.81
+  - name: SILVERBELL
+    distance_km: 38.35
+  - name: TUCSON
+    distance_km: 41.03
+- country: US
+  region: AZ
+  name: Aztec
+  lat: '32.8082'
+  long: "-113.4428"
+  nearby_rate_centers:
+  - name: HYDER
+    distance_km: 24.98
+  - name: WELLTON
+    distance_km: 66.38
+  - name: GILA BEND
+    distance_km: 69.38
+- country: US
+  region: AZ
+  name: Bagdad
+  lat: '34.5771'
+  long: "-113.1771"
+  nearby_rate_centers:
+  - name: BAGDAD
+    distance_km: 2.86
+  - name: WIKIEUP
+    distance_km: 42.34
+  - name: YARNELL
+    distance_km: 55.53
+- country: US
+  region: AZ
+  name: Bear Flat
+  lat: '34.2924'
+  long: "-111.0674"
+  nearby_rate_centers:
+  - name: YOUNG
+    distance_km: 24.17
+  - name: PAYSON
+    distance_km: 25.31
+  - name: BLUE RIDGE
+    distance_km: 35.78
+- country: US
+  region: AZ
+  name: Beaver Dam
+  lat: '36.9070'
+  long: "-113.9362"
+  nearby_rate_centers:
+  - name: LITTLEFLD
+    distance_km: 10.75
+  - name: COLORADOCY
+    distance_km: 85.66
+  - name: MEADVIEW
+    distance_km: 101.35
+- country: US
+  region: AZ
+  name: Beaver Valley
+  lat: '34.3409'
+  long: "-111.2987"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 12.15
+  - name: BLUE RIDGE
+    distance_km: 30.64
+  - name: YOUNG
+    distance_km: 42.0
+- country: US
+  region: AZ
+  name: Bellemont
+  lat: '35.2425'
+  long: "-111.8138"
+  nearby_rate_centers:
+  - name: FLAGSTAFF
+    distance_km: 15.4
+  - name: WILLIAMS
+    distance_km: 33.53
+  - name: MUNDS PARK
+    distance_km: 37.08
+- country: US
+  region: AZ
+  name: Benson
+  lat: '31.9157'
+  long: "-110.3257"
+  nearby_rate_centers:
+  - name: BENSON
+    distance_km: 7.12
+  - name: TOMBSTONE
+    distance_km: 33.14
+  - name: VAIL
+    distance_km: 35.03
+- country: US
+  region: AZ
+  name: Beyerville
+  lat: '31.3919'
+  long: "-110.8749"
+  nearby_rate_centers:
+  - name: NOGALES
+    distance_km: 7.66
+  - name: PATAGONIA
+    distance_km: 20.26
+  - name: TUBAC
+    distance_km: 29.39
+- country: US
+  region: AZ
+  name: Bisbee
+  lat: '31.4126'
+  long: "-109.9178"
+  nearby_rate_centers:
+  - name: BISBEE
+    distance_km: 3.16
+  - name: DOUGLAS
+    distance_km: 36.39
+  - name: TOMBSTONE
+    distance_km: 36.52
+- country: US
+  region: AZ
+  name: Bitter Springs
+  lat: '36.6118'
+  long: "-111.6475"
+  nearby_rate_centers:
+  - name: MARBLECNYN
+    distance_km: 23.0
+  - name: LE CHEE
+    distance_km: 32.52
+  - name: PAGE
+    distance_km: 33.63
+- country: US
+  region: AZ
+  name: Black Canyon City
+  lat: '34.0710'
+  long: "-112.1220"
+  nearby_rate_centers:
+  - name: LKPLEASANT
+    distance_km: 27.65
+  - name: GRANITE MT
+    distance_km: 46.46
+  - name: MILLSITE
+    distance_km: 48.41
+- country: US
+  region: AZ
+  name: Blackwater
+  lat: '33.0396'
+  long: "-111.5798"
+  nearby_rate_centers:
+  - name: BLACKWATER
+    distance_km: 1.99
+  - name: COOLIDGE
+    distance_km: 8.78
+  - name: CASAGRANDE
+    distance_km: 13.63
+- country: US
+  region: AZ
+  name: Blue Ridge
+  lat: '34.6407'
+  long: "-111.1073"
+  nearby_rate_centers:
+  - name: BLUE RIDGE
+    distance_km: 8.34
+  - name: MORMONLAKE
+    distance_km: 45.25
+  - name: PAYSON
+    distance_km: 49.61
+- country: US
+  region: AZ
+  name: Bluewater
+  lat: '34.1681'
+  long: "-114.2667"
+  nearby_rate_centers:
+  - name: PARKER
+    distance_km: 3.16
+  - name: PARKER DAM
+    distance_km: 8.52
+  - name: POSTON
+    distance_km: 22.98
+- country: US
+  region: AZ
+  name: Bouse
+  lat: '33.8984'
+  long: "-113.9962"
+  nearby_rate_centers:
+  - name: BOUSE
+    distance_km: 3.87
+  - name: QUARTZSITE
+    distance_km: 32.79
+  - name: SALOME
+    distance_km: 37.07
+- country: US
+  region: AZ
+  name: Bowie
+  lat: '32.3247'
+  long: "-109.4843"
+  nearby_rate_centers:
+  - name: BOWIE
+    distance_km: 0.1
+  - name: SAN SIMON
+    distance_km: 25.25
+  - name: WILLCOX
+    distance_km: 33.57
+- country: US
+  region: AZ
+  name: Brenda
+  lat: '33.6721'
+  long: "-113.9379"
+  nearby_rate_centers:
+  - name: QUARTZSITE
+    distance_km: 25.64
+  - name: BOUSE
+    distance_km: 29.6
+  - name: SALOME
+    distance_km: 32.12
+- country: US
+  region: AZ
+  name: Bryce
+  lat: '32.9258'
+  long: "-109.8229"
+  nearby_rate_centers:
+  - name: PIMA
+    distance_km: 3.56
+  - name: SAFFORD
+    distance_km: 14.66
+  - name: BONITA
+    distance_km: 40.77
+- country: US
+  region: AZ
+  name: Buckeye
+  lat: '33.4314'
+  long: "-112.6429"
+  nearby_rate_centers:
+  - name: MARCOPAVLG
+    distance_km: 39.3
+  - name: HARQUHLVLY
+    distance_km: 47.31
+  - name: KOMATKE
+    distance_km: 47.63
+- country: US
+  region: AZ
+  name: Buckshot
+  lat: '32.7404'
+  long: "-114.4829"
+  nearby_rate_centers:
+  - name: YUMA
+    distance_km: 13.37
+  - name: SOMERTON
+    distance_km: 25.0
+  - name: WELLTON
+    distance_km: 33.84
+- country: US
+  region: AZ
+  name: Bullhead City
+  lat: '35.1205'
+  long: "-114.5461"
+  nearby_rate_centers:
+  - name: BULLHDCYN
+    distance_km: 4.1
+  - name: BULLHEADCY
+    distance_km: 7.62
+  - name: MESQUITCRK
+    distance_km: 17.77
+- country: US
+  region: AZ
+  name: Burnside
+  lat: '35.7534'
+  long: "-109.6247"
+  nearby_rate_centers:
+  - name: GANADO
+    distance_km: 8.68
+  - name: TOYEI
+    distance_km: 26.34
+  - name: GREASEWOOD
+    distance_km: 33.09
+- country: US
+  region: AZ
+  name: Bylas
+  lat: '33.1291'
+  long: "-110.1162"
+  nearby_rate_centers:
+  - name: PIMA
+    distance_km: 37.69
+  - name: SAN CARLOS
+    distance_km: 39.63
+  - name: SAFFORD
+    distance_km: 50.12
+- country: US
+  region: AZ
+  name: Cactus Flats
+  lat: '32.7642'
+  long: "-109.7206"
+  nearby_rate_centers:
+  - name: SAFFORD
+    distance_km: 8.02
+  - name: PIMA
+    distance_km: 17.41
+  - name: BONITA
+    distance_km: 31.54
+- country: US
+  region: AZ
+  name: Cactus Forest
+  lat: '32.9578'
+  long: "-111.3170"
+  nearby_rate_centers:
+  - name: FLORENCE
+    distance_km: 9.52
+  - name: COOLIDGE
+    distance_km: 19.53
+  - name: BLACKWATER
+    distance_km: 24.97
+- country: US
+  region: AZ
+  name: Cameron
+  lat: '35.8537'
+  long: "-111.4269"
+  nearby_rate_centers:
+  - name: CAMERON
+    distance_km: 28.4
+  - name: TUBA CITY
+    distance_km: 34.73
+  - name: GRANDCNYON
+    distance_km: 68.37
+- country: US
+  region: AZ
+  name: Camp Verde
+  lat: '34.5690'
+  long: "-111.8560"
+  nearby_rate_centers:
+  - name: CAMP VERDE
+    distance_km: 0.8
+  - name: SEDONA
+    distance_km: 17.48
+  - name: COTTONWOOD
+    distance_km: 24.2
+- country: US
+  region: AZ
+  name: Campo Bonito
+  lat: '32.5629'
+  long: "-110.6984"
+  nearby_rate_centers:
+  - name: SAN MANUEL
+    distance_km: 8.52
+  - name: CORONADO
+    distance_km: 21.83
+  - name: CASCABEL
+    distance_km: 41.93
+- country: US
+  region: AZ
+  name: Cane Beds
+  lat: '36.9342'
+  long: "-112.9118"
+  nearby_rate_centers:
+  - name: COLORADOCY
+    distance_km: 8.59
+  - name: FREDONIA
+    distance_km: 34.34
+  - name: SUPAI
+    distance_km: 80.54
+- country: US
+  region: AZ
+  name: Canyon Day
+  lat: '33.7830'
+  long: "-110.0328"
+  nearby_rate_centers:
+  - name: WHITERIVER
+    distance_km: 8.67
+  - name: HAWLEYLAKE
+    distance_km: 33.82
+  - name: MCNARY
+    distance_km: 35.66
+- country: US
+  region: AZ
+  name: Carefree
+  lat: '33.8234'
+  long: "-111.9161"
+  nearby_rate_centers:
+  - name: GRANITE MT
+    distance_km: 14.56
+  - name: LKPLEASANT
+    distance_km: 31.16
+  - name: PHOENIX
+    distance_km: 33.37
+  - name: SALT RIVER
+    distance_km: 33.37
+- country: US
+  region: AZ
+  name: Carrizo
+  lat: '33.9866'
+  long: "-110.3314"
+  nearby_rate_centers:
+  - name: PINEDALE
+    distance_km: 36.71
+  - name: WHITERIVER
+    distance_km: 37.59
+  - name: PINETOP
+    distance_km: 39.71
+- country: US
+  region: AZ
+  name: Casa Blanca
+  lat: '33.1154'
+  long: "-111.9081"
+  nearby_rate_centers:
+  - name: CASABLANCA
+    distance_km: 2.09
+  - name: STOTONIC
+    distance_km: 11.48
+  - name: MARICOPA
+    distance_km: 15.34
+- country: US
+  region: AZ
+  name: Casa Grande
+  lat: '32.9069'
+  long: "-111.7624"
+  nearby_rate_centers:
+  - name: CASAGRANDE
+    distance_km: 10.54
+  - name: SACATON
+    distance_km: 18.72
+  - name: BLACKWATER
+    distance_km: 21.83
+- country: US
+  region: AZ
+  name: Casas Adobes
+  lat: '32.3423'
+  long: "-111.0113"
+  nearby_rate_centers:
+  - name: TUCSON
+    distance_km: 13.4
+  - name: MARANA
+    distance_km: 22.7
+  - name: CORONADO
+    distance_km: 25.14
+- country: US
+  region: AZ
+  name: Catalina
+  lat: '32.4848'
+  long: "-110.8997"
+  nearby_rate_centers:
+  - name: CORONADO
+    distance_km: 8.66
+  - name: SAN MANUEL
+    distance_km: 29.15
+  - name: TUCSON
+    distance_km: 29.22
+- country: US
+  region: AZ
+  name: Catalina Foothills
+  lat: '32.3046'
+  long: "-110.8838"
+  nearby_rate_centers:
+  - name: TUCSON
+    distance_km: 11.5
+  - name: CORONADO
+    distance_km: 28.53
+  - name: MARANA
+    distance_km: 35.1
+- country: US
+  region: AZ
+  name: Cave Creek
+  lat: '33.8513'
+  long: "-111.9801"
+  nearby_rate_centers:
+  - name: GRANITE MT
+    distance_km: 21.23
+  - name: LKPLEASANT
+    distance_km: 25.14
+  - name: PHOENIX
+    distance_km: 34.72
+  - name: SALT RIVER
+    distance_km: 34.72
+- country: US
+  region: AZ
+  name: Cedar Creek
+  lat: '33.9030'
+  long: "-110.1929"
+  nearby_rate_centers:
+  - name: WHITERIVER
+    distance_km: 22.19
+  - name: PINETOP
+    distance_km: 34.39
+  - name: MCNARY
+    distance_km: 36.38
+- country: US
+  region: AZ
+  name: Centennial Park
+  lat: '36.9538'
+  long: "-112.9813"
+  nearby_rate_centers:
+  - name: COLORADOCY
+    distance_km: 4.09
+  - name: FREDONIA
+    distance_km: 40.46
+  - name: SUPAI
+    distance_km: 84.41
+- country: US
+  region: AZ
+  name: Central
+  lat: '32.8692'
+  long: "-109.7908"
+  nearby_rate_centers:
+  - name: PIMA
+    distance_km: 4.22
+  - name: SAFFORD
+    distance_km: 8.56
+  - name: BONITA
+    distance_km: 36.35
+- country: US
+  region: AZ
+  name: Central Heights-Midland City
+  lat: '33.4000'
+  long: "-110.8153"
+  nearby_rate_centers:
+  - name: GLOBE
+    distance_km: 1.56
+  - name: MIAMI
+    distance_km: 5.59
+  - name: SUPERIOR
+    distance_km: 28.65
+- country: US
+  region: AZ
+  name: Chandler
+  lat: '33.2825'
+  long: "-111.8514"
+  nearby_rate_centers:
+  - name: LONE BUTTE
+    distance_km: 10.43
+  - name: STOTONIC
+    distance_km: 14.46
+  - name: CASABLANCA
+    distance_km: 18.25
+- country: US
+  region: AZ
+  name: Charco
+  lat: '32.2474'
+  long: "-112.6001"
+  nearby_rate_centers:
+  - name: W SANSIMON
+    distance_km: 19.94
+  - name: AJO
+    distance_km: 29.0
+  - name: SANTA ROSA
+    distance_km: 52.31
+- country: US
+  region: AZ
+  name: Chiawuli Tak
+  lat: '31.9410'
+  long: "-111.7765"
+  nearby_rate_centers:
+  - name: SELLS
+    distance_km: 10.24
+  - name: ROBLES
+    distance_km: 42.6
+  - name: SASABE
+    distance_km: 48.13
+- country: US
+  region: AZ
+  name: Chilchinbito
+  lat: '36.5027'
+  long: "-110.0512"
+  nearby_rate_centers:
+  - name: ROUGH ROCK
+    distance_km: 19.16
+  - name: BLACK MESA
+    distance_km: 30.6
+  - name: KAYENTA
+    distance_km: 30.68
+- country: US
+  region: AZ
+  name: Chinle
+  lat: '36.1505'
+  long: "-109.5794"
+  nearby_rate_centers:
+  - name: CHINLE
+    distance_km: 2.32
+  - name: MANY FARMS
+    distance_km: 23.0
+  - name: PINONCTNWD
+    distance_km: 29.09
+- country: US
+  region: AZ
+  name: Chino Valley
+  lat: '34.7594'
+  long: "-112.4120"
+  nearby_rate_centers:
+  - name: CHINO VLY
+    distance_km: 4.4
+  - name: PRESCOTT
+    distance_km: 24.65
+  - name: HUMBOLDT
+    distance_km: 33.34
+- country: US
+  region: AZ
+  name: Chloride
+  lat: '35.4097'
+  long: "-114.1972"
+  nearby_rate_centers:
+  - name: GOLDEN VLY
+    distance_km: 20.07
+  - name: LKMHVRNCHS
+    distance_km: 22.14
+  - name: E KINGMAN
+    distance_km: 24.77
+- country: US
+  region: AZ
+  name: Christopher Creek
+  lat: '34.3206'
+  long: "-111.0071"
+  nearby_rate_centers:
+  - name: YOUNG
+    distance_km: 25.27
+  - name: PAYSON
+    distance_km: 31.5
+  - name: BLUE RIDGE
+    distance_km: 34.99
+- country: US
+  region: AZ
+  name: Chuichu
+  lat: '32.7403'
+  long: "-111.7821"
+  nearby_rate_centers:
+  - name: ELOY
+    distance_km: 21.66
+  - name: SILVERBELL
+    distance_km: 22.1
+  - name: CASAGRANDE
+    distance_km: 24.64
+- country: US
+  region: AZ
+  name: Cibecue
+  lat: '34.0332'
+  long: "-110.4854"
+  nearby_rate_centers:
+  - name: PINEDALE
+    distance_km: 37.66
+  - name: YOUNG
+    distance_km: 43.25
+  - name: HEBER
+    distance_km: 44.72
+- country: US
+  region: AZ
+  name: Cibola
+  lat: '33.3733'
+  long: "-114.6792"
+  nearby_rate_centers:
+  - name: CIBOLA
+    distance_km: 8.14
+  - name: EHRENBERG
+    distance_km: 28.94
+  - name: QUARTZSITE
+    distance_km: 53.98
+- country: US
+  region: AZ
+  name: Cienega Springs
+  lat: '34.2009'
+  long: "-114.2089"
+  nearby_rate_centers:
+  - name: PARKER DAM
+    distance_km: 2.16
+  - name: PARKER
+    distance_km: 9.57
+  - name: POSTON
+    distance_km: 28.99
+- country: US
+  region: AZ
+  name: Circle City
+  lat: '33.8149'
+  long: "-112.5810"
+  nearby_rate_centers:
+  - name: LKPLEASANT
+    distance_km: 30.58
+  - name: WICKENBURG
+    distance_km: 34.74
+  - name: YARNELL
+    distance_km: 48.15
+- country: US
+  region: AZ
+  name: Citrus Park
+  lat: '33.5300'
+  long: "-112.4441"
+  nearby_rate_centers:
+  - name: MARCOPAVLG
+    distance_km: 26.69
+  - name: PHOENIX
+    distance_km: 36.66
+  - name: SALT RIVER
+    distance_km: 36.66
+  - name: KOMATKE
+    distance_km: 37.55
+- country: US
+  region: AZ
+  name: Clacks Canyon
+  lat: '35.2203'
+  long: "-114.0723"
+  nearby_rate_centers:
+  - name: KINGMAN
+    distance_km: 3.66
+  - name: E KINGMAN
+    distance_km: 7.44
+  - name: GOLDEN VLY
+    distance_km: 7.69
+- country: US
+  region: AZ
+  name: Clarkdale
+  lat: '34.7501'
+  long: "-112.0555"
+  nearby_rate_centers:
+  - name: COTTONWOOD
+    distance_km: 3.76
+  - name: SEDONA
+    distance_km: 17.0
+  - name: CAMP VERDE
+    distance_km: 27.94
+- country: US
+  region: AZ
+  name: Clay Springs
+  lat: '34.3593'
+  long: "-110.3044"
+  nearby_rate_centers:
+  - name: PINEDALE
+    distance_km: 7.52
+  - name: SNOWFLAKE
+    distance_km: 26.69
+  - name: SHOW LOW
+    distance_km: 27.67
+- country: US
+  region: AZ
+  name: Claypool
+  lat: '33.4061'
+  long: "-110.8422"
+  nearby_rate_centers:
+  - name: GLOBE
+    distance_km: 1.41
+  - name: MIAMI
+    distance_km: 3.14
+  - name: SUPERIOR
+    distance_km: 26.79
+- country: US
+  region: AZ
+  name: Clifton
+  lat: '33.0249'
+  long: "-109.2883"
+  nearby_rate_centers:
+  - name: CLIFTON
+    distance_km: 3.74
+  - name: YORKVALLEY
+    distance_km: 13.92
+  - name: DUNCAN
+    distance_km: 37.66
+- country: US
+  region: AZ
+  name: Colorado City
+  lat: '36.9773'
+  long: "-112.9869"
+  nearby_rate_centers:
+  - name: COLORADOCY
+    distance_km: 1.67
+  - name: FREDONIA
+    distance_km: 41.05
+  - name: LITTLEFLD
+    distance_km: 86.92
+- country: US
+  region: AZ
+  name: Comobabi
+  lat: '32.0538'
+  long: "-111.8029"
+  nearby_rate_centers:
+  - name: SELLS
+    distance_km: 17.26
+  - name: SANTA ROSA
+    distance_km: 40.66
+  - name: ROBLES
+    distance_km: 43.89
+- country: US
+  region: AZ
+  name: Concho
+  lat: '34.4742'
+  long: "-109.6102"
+  nearby_rate_centers:
+  - name: ST JOHNS
+    distance_km: 21.83
+  - name: SNOWFLAKE
+    distance_km: 42.76
+  - name: SHOW LOW
+    distance_km: 46.06
+- country: US
+  region: AZ
+  name: Congress
+  lat: '34.1526'
+  long: "-112.8642"
+  nearby_rate_centers:
+  - name: WICKENBURG
+    distance_km: 12.78
+  - name: YARNELL
+    distance_km: 13.43
+  - name: AGUILA
+    distance_km: 36.76
+- country: US
+  region: AZ
+  name: Coolidge
+  lat: '32.9363'
+  long: "-111.5254"
+  nearby_rate_centers:
+  - name: COOLIDGE
+    distance_km: 4.33
+  - name: BLACKWATER
+    distance_km: 10.58
+  - name: CASAGRANDE
+    distance_km: 12.02
+- country: US
+  region: AZ
+  name: Copper Hill
+  lat: '33.4379'
+  long: "-110.7516"
+  nearby_rate_centers:
+  - name: GLOBE
+    distance_km: 8.71
+  - name: MIAMI
+    distance_km: 12.21
+  - name: SAN CARLOS
+    distance_km: 29.53
+- country: US
+  region: AZ
+  name: Cordes Lakes
+  lat: '34.3103'
+  long: "-112.1073"
+  nearby_rate_centers:
+  - name: HUMBOLDT
+    distance_km: 23.87
+  - name: MILLSITE
+    distance_km: 31.27
+  - name: CAMP VERDE
+    distance_km: 36.98
+- country: US
+  region: AZ
+  name: Cornfields
+  lat: '35.6515'
+  long: "-109.6756"
+  nearby_rate_centers:
+  - name: GANADO
+    distance_km: 14.07
+  - name: GREASEWOOD
+    distance_km: 21.71
+  - name: TOYEI
+    distance_km: 22.53
+- country: US
+  region: AZ
+  name: Cornville
+  lat: '34.7389'
+  long: "-111.9086"
+  nearby_rate_centers:
+  - name: SEDONA
+    distance_km: 3.67
+  - name: COTTONWOOD
+    distance_km: 9.76
+  - name: CAMP VERDE
+    distance_km: 20.07
+- country: US
+  region: AZ
+  name: Corona de Tucson
+  lat: '31.9503'
+  long: "-110.7835"
+  nearby_rate_centers:
+  - name: VAIL
+    distance_km: 10.85
+  - name: GREEN VLY
+    distance_km: 21.28
+  - name: TUCSON
+    distance_km: 35.35
+- country: US
+  region: AZ
+  name: Cottonwood
+  lat: '34.7195'
+  long: "-112.0016"
+  nearby_rate_centers:
+  - name: COTTONWOOD
+    distance_km: 2.88
+  - name: SEDONA
+    distance_km: 11.88
+  - name: CAMP VERDE
+    distance_km: 22.14
+- country: US
+  region: AZ
+  name: Cowlic
+  lat: '31.8048'
+  long: "-111.9876"
+  nearby_rate_centers:
+  - name: SELLS
+    distance_km: 15.76
+  - name: SASABE
+    distance_km: 52.56
+  - name: W SANSIMON
+    distance_km: 57.72
+- country: US
+  region: AZ
+  name: Crozier
+  lat: '35.4227'
+  long: "-113.6487"
+  nearby_rate_centers:
+  - name: PEACH SPG
+    distance_km: 10.74
+  - name: E KINGMAN
+    distance_km: 37.1
+  - name: KINGMAN
+    distance_km: 44.66
+- country: US
+  region: AZ
+  name: Crystal Beach
+  lat: '34.5714'
+  long: "-114.3925"
+  nearby_rate_centers:
+  - name: CASTLEROCK
+    distance_km: 4.48
+  - name: LKHAVASUCY
+    distance_km: 12.6
+  - name: AZ VILLAGE
+    distance_km: 35.86
+- country: US
+  region: AZ
+  name: Cutter
+  lat: '33.3584'
+  long: "-110.6593"
+  nearby_rate_centers:
+  - name: GLOBE
+    distance_km: 16.57
+  - name: SAN CARLOS
+    distance_km: 19.28
+  - name: MIAMI
+    distance_km: 20.63
+- country: US
+  region: AZ
+  name: Dateland
+  lat: '32.8209'
+  long: "-113.5418"
+  nearby_rate_centers:
+  - name: HYDER
+    distance_km: 28.44
+  - name: WELLTON
+    distance_km: 57.82
+  - name: GILA BEND
+    distance_km: 78.17
+- country: US
+  region: AZ
+  name: Deer Creek
+  lat: '34.0644'
+  long: "-111.3505"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 19.1
+  - name: TONTOBASIN
+    distance_km: 24.36
+  - name: YOUNG
+    distance_km: 37.24
+- country: US
+  region: AZ
+  name: Del Muerto
+  lat: '36.1870'
+  long: "-109.4348"
+  nearby_rate_centers:
+  - name: CHINLE
+    distance_km: 11.28
+  - name: TSAILE
+    distance_km: 24.78
+  - name: MANY FARMS
+    distance_km: 25.0
+- country: US
+  region: AZ
+  name: Dennehotso
+  lat: '36.8208'
+  long: "-109.8791"
+  nearby_rate_centers:
+  - name: DENNEHOTSO
+    distance_km: 3.55
+  - name: ROCK POINT
+    distance_km: 25.34
+  - name: KAYENTA
+    distance_km: 35.39
+- country: US
+  region: AZ
+  name: Desert Hills
+  lat: '34.5506'
+  long: "-114.3754"
+  nearby_rate_centers:
+  - name: CASTLEROCK
+    distance_km: 2.63
+  - name: LKHAVASUCY
+    distance_km: 10.08
+  - name: AZ VILLAGE
+    distance_km: 38.64
+- country: US
+  region: AZ
+  name: Dewey-Humboldt
+  lat: '34.5174'
+  long: "-112.2496"
+  nearby_rate_centers:
+  - name: HUMBOLDT
+    distance_km: 2.65
+  - name: MILLSITE
+    distance_km: 17.68
+  - name: PRESCOTT
+    distance_km: 20.79
+- country: US
+  region: AZ
+  name: Dilkon
+  lat: '35.3606'
+  long: "-110.3155"
+  nearby_rate_centers:
+  - name: DILKON
+    distance_km: 1.68
+  - name: JOSEPHCITY
+    distance_km: 44.74
+  - name: WINSLOW
+    distance_km: 45.09
+- country: US
+  region: AZ
+  name: Dolan Springs
+  lat: '35.5905'
+  long: "-114.2851"
+  nearby_rate_centers:
+  - name: LKMHVRNCHS
+    distance_km: 2.3
+  - name: GOLDEN VLY
+    distance_km: 41.51
+  - name: E KINGMAN
+    distance_km: 45.36
+- country: US
+  region: AZ
+  name: Doney Park
+  lat: '35.2656'
+  long: "-111.5190"
+  nearby_rate_centers:
+  - name: FLAGSTAFF
+    distance_km: 13.78
+  - name: MUNDS PARK
+    distance_km: 38.15
+  - name: CAMERON
+    distance_km: 38.37
+- country: US
+  region: AZ
+  name: Donovan Estates
+  lat: '32.7094'
+  long: "-114.6781"
+  nearby_rate_centers:
+  - name: YUMA
+    distance_km: 5.22
+  - name: SOMERTON
+    distance_km: 13.27
+  - name: WELLTON
+    distance_km: 51.32
+- country: US
+  region: AZ
+  name: Douglas
+  lat: '31.3602'
+  long: "-109.5394"
+  nearby_rate_centers:
+  - name: DOUGLAS
+    distance_km: 1.23
+  - name: BISBEE
+    distance_km: 36.88
+  - name: ELFRIDA
+    distance_km: 37.19
+- country: US
+  region: AZ
+  name: Dragoon
+  lat: '32.0272'
+  long: "-110.0369"
+  nearby_rate_centers:
+  - name: PEARCE
+    distance_km: 24.41
+  - name: BENSON
+    distance_km: 25.25
+  - name: WILLCOX
+    distance_km: 31.63
+- country: US
+  region: AZ
+  name: Drexel Heights
+  lat: '32.1453'
+  long: "-111.0480"
+  nearby_rate_centers:
+  - name: TUCSON
+    distance_km: 12.01
+  - name: GREEN VLY
+    distance_km: 29.66
+  - name: ROBLES
+    distance_km: 30.04
+- country: US
+  region: AZ
+  name: Dripping Springs
+  lat: '33.1049'
+  long: "-110.7551"
+  nearby_rate_centers:
+  - name: HAYDEN
+    distance_km: 11.15
+  - name: GLOBE
+    distance_km: 33.25
+  - name: MIAMI
+    distance_km: 34.78
+- country: US
+  region: AZ
+  name: Drysdale
+  lat: '32.6452'
+  long: "-114.7067"
+  nearby_rate_centers:
+  - name: SOMERTON
+    distance_km: 6.57
+  - name: YUMA
+    distance_km: 11.13
+  - name: WELLTON
+    distance_km: 53.84
+- country: US
+  region: AZ
+  name: Dudleyville
+  lat: '32.9127'
+  long: "-110.7345"
+  nearby_rate_centers:
+  - name: HAYDEN
+    distance_km: 11.47
+  - name: SAN MANUEL
+    distance_km: 35.19
+  - name: CORONADO
+    distance_km: 43.52
+- country: US
+  region: AZ
+  name: Duncan
+  lat: '32.7344'
+  long: "-109.0972"
+  nearby_rate_centers:
+  - name: DUNCAN
+    distance_km: 0.87
+  - name: YORKVALLEY
+    distance_km: 23.22
+  - name: CLIFTON
+    distance_km: 39.67
+- country: US
+  region: AZ
+  name: Eagar
+  lat: '34.1056'
+  long: "-109.2961"
+  nearby_rate_centers:
+  - name: SPRINGERVL
+    distance_km: 3.15
+  - name: GREER
+    distance_km: 16.75
+  - name: ALPINE
+    distance_km: 32.06
+- country: US
+  region: AZ
+  name: East Fork
+  lat: '33.8082'
+  long: "-109.9227"
+  nearby_rate_centers:
+  - name: WHITERIVER
+    distance_km: 5.15
+  - name: HAWLEYLAKE
+    distance_km: 24.63
+  - name: MCNARY
+    distance_km: 29.41
+- country: US
+  region: AZ
+  name: East Globe
+  lat: '33.3511'
+  long: "-110.7061"
+  nearby_rate_centers:
+  - name: GLOBE
+    distance_km: 12.73
+  - name: MIAMI
+    distance_km: 16.68
+  - name: SAN CARLOS
+    distance_km: 23.59
+- country: US
+  region: AZ
+  name: East Verde Estates
+  lat: '34.2983'
+  long: "-111.3645"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 7.51
+  - name: BLUE RIDGE
+    distance_km: 37.39
+  - name: YOUNG
+    distance_km: 44.25
+- country: US
+  region: AZ
+  name: Ehrenberg
+  lat: '33.6175'
+  long: "-114.4883"
+  nearby_rate_centers:
+  - name: EHRENBERG
+    distance_km: 4.08
+  - name: QUARTZSITE
+    distance_km: 25.88
+  - name: CIBOLA
+    distance_km: 30.46
+- country: US
+  region: AZ
+  name: El Capitan
+  lat: '33.2383'
+  long: "-110.7833"
+  nearby_rate_centers:
+  - name: GLOBE
+    distance_km: 18.21
+  - name: MIAMI
+    distance_km: 20.02
+  - name: HAYDEN
+    distance_km: 25.67
+- country: US
+  region: AZ
+  name: El Mirage
+  lat: '33.5905'
+  long: "-112.3271"
+  nearby_rate_centers:
+  - name: MARCOPAVLG
+    distance_km: 25.83
+  - name: PHOENIX
+    distance_km: 26.28
+  - name: SALT RIVER
+    distance_km: 26.28
+  - name: LKPLEASANT
+    distance_km: 29.35
+- country: US
+  region: AZ
+  name: El Prado Estates
+  lat: '32.7062'
+  long: "-114.5215"
+  nearby_rate_centers:
+  - name: YUMA
+    distance_km: 9.56
+  - name: SOMERTON
+    distance_km: 19.78
+  - name: WELLTON
+    distance_km: 36.71
+- country: US
+  region: AZ
+  name: Elephant Head
+  lat: '31.7659'
+  long: "-110.9921"
+  nearby_rate_centers:
+  - name: GREEN VLY
+    distance_km: 12.96
+  - name: TUBAC
+    distance_km: 18.3
+  - name: PATAGONIA
+    distance_km: 33.3
+- country: US
+  region: AZ
+  name: Elfrida
+  lat: '31.6783'
+  long: "-109.6876"
+  nearby_rate_centers:
+  - name: ELFRIDA
+    distance_km: 1.35
+  - name: SUNIZONA
+    distance_km: 22.14
+  - name: PEARCE
+    distance_km: 27.81
+- country: US
+  region: AZ
+  name: Elgin
+  lat: '31.6681'
+  long: "-110.5347"
+  nearby_rate_centers:
+  - name: PATAGONIA
+    distance_km: 25.16
+  - name: SIERRAVIST
+    distance_km: 25.38
+  - name: VAIL
+    distance_km: 39.39
+- country: US
+  region: AZ
+  name: Eloy
+  lat: '32.7470'
+  long: "-111.5992"
+  nearby_rate_centers:
+  - name: ELOY
+    distance_km: 4.54
+  - name: CASAGRANDE
+    distance_km: 21.43
+  - name: SILVERBELL
+    distance_km: 24.68
+- country: US
+  region: AZ
+  name: First Mesa
+  lat: '35.8389'
+  long: "-110.3665"
+  nearby_rate_centers:
+  - name: POLACCA
+    distance_km: 1.76
+  - name: KEAMSCNYON
+    distance_km: 16.19
+  - name: KYKTSMOVLG
+    distance_km: 23.07
+- country: US
+  region: AZ
+  name: Flagstaff
+  lat: '35.1872'
+  long: "-111.6194"
+  nearby_rate_centers:
+  - name: FLAGSTAFF
+    distance_km: 3.43
+  - name: MUNDS PARK
+    distance_km: 27.75
+  - name: MORMONLAKE
+    distance_km: 32.81
+- country: US
+  region: AZ
+  name: Florence
+  lat: '33.0590'
+  long: "-111.4209"
+  nearby_rate_centers:
+  - name: FLORENCE
+    distance_km: 5.33
+  - name: COOLIDGE
+    distance_km: 13.47
+  - name: BLACKWATER
+    distance_km: 14.78
+- country: US
+  region: AZ
+  name: Flowing Springs
+  lat: '34.3131'
+  long: "-111.3379"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 8.62
+  - name: BLUE RIDGE
+    distance_km: 34.86
+  - name: YOUNG
+    distance_km: 43.04
+- country: US
+  region: AZ
+  name: Flowing Wells
+  lat: '32.2937'
+  long: "-111.0110"
+  nearby_rate_centers:
+  - name: TUCSON
+    distance_km: 8.44
+  - name: MARANA
+    distance_km: 26.16
+  - name: CORONADO
+    distance_km: 30.33
+- country: US
+  region: AZ
+  name: Fort Apache
+  lat: '33.7907'
+  long: "-109.9873"
+  nearby_rate_centers:
+  - name: WHITERIVER
+    distance_km: 5.58
+  - name: HAWLEYLAKE
+    distance_km: 30.12
+  - name: MCNARY
+    distance_km: 33.09
+- country: US
+  region: AZ
+  name: Fort Defiance
+  lat: '35.7477'
+  long: "-109.0674"
+  nearby_rate_centers:
+  - name: FTDEFIANCE
+    distance_km: 1.38
+  - name: WINDOWROCK
+    distance_km: 7.91
+  - name: GANADO
+    distance_km: 42.89
+- country: US
+  region: AZ
+  name: Fort Mohave
+  lat: '35.0004'
+  long: "-114.5748"
+  nearby_rate_centers:
+  - name: MESQUITCRK
+    distance_km: 4.3
+  - name: MOHAVE VLY
+    distance_km: 8.76
+  - name: BULLHEADCY
+    distance_km: 12.25
+- country: US
+  region: AZ
+  name: Fort Thomas
+  lat: '33.0222'
+  long: "-109.9665"
+  nearby_rate_centers:
+  - name: PIMA
+    distance_km: 19.43
+  - name: SAFFORD
+    distance_km: 31.8
+  - name: BONITA
+    distance_km: 48.74
+- country: US
+  region: AZ
+  name: Fort Valley
+  lat: '35.3228'
+  long: "-111.7399"
+  nearby_rate_centers:
+  - name: FLAGSTAFF
+    distance_km: 15.47
+  - name: CAMERON
+    distance_km: 37.53
+  - name: WILLIAMS
+    distance_km: 41.01
+- country: US
+  region: AZ
+  name: Fortuna Foothills
+  lat: '32.6616'
+  long: "-114.3974"
+  nearby_rate_centers:
+  - name: YUMA
+    distance_km: 21.97
+  - name: WELLTON
+    distance_km: 24.84
+  - name: SOMERTON
+    distance_km: 27.77
+- country: US
+  region: AZ
+  name: Fountain Hills
+  lat: '33.6073'
+  long: "-111.7398"
+  nearby_rate_centers:
+  - name: GRANITE MT
+    distance_km: 18.41
+  - name: PHOENIX
+    distance_km: 29.48
+  - name: SALT RIVER
+    distance_km: 29.48
+  - name: LONE BUTTE
+    distance_km: 41.22
+- country: US
+  region: AZ
+  name: Franklin
+  lat: '32.6770'
+  long: "-109.0720"
+  nearby_rate_centers:
+  - name: DUNCAN
+    distance_km: 6.0
+  - name: YORKVALLEY
+    distance_km: 30.02
+  - name: CLIFTON
+    distance_km: 46.34
+- country: US
+  region: AZ
+  name: Fredonia
+  lat: '36.9617'
+  long: "-112.5195"
+  nearby_rate_centers:
+  - name: FREDONIA
+    distance_km: 1.3
+  - name: COLORADOCY
+    distance_km: 40.85
+  - name: MARBLECNYN
+    distance_km: 79.53
+- country: US
+  region: AZ
+  name: Freedom Acres
+  lat: '34.3199'
+  long: "-111.3051"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 9.74
+  - name: BLUE RIDGE
+    distance_km: 33.04
+  - name: YOUNG
+    distance_km: 41.01
+- country: US
+  region: AZ
+  name: Gadsden
+  lat: '32.5564'
+  long: "-114.7811"
+  nearby_rate_centers:
+  - name: SOMERTON
+    distance_km: 10.05
+  - name: YUMA
+    distance_km: 23.14
+  - name: WELLTON
+    distance_km: 62.0
+- country: US
+  region: AZ
+  name: Ganado
+  lat: '35.7016'
+  long: "-109.5504"
+  nearby_rate_centers:
+  - name: GANADO
+    distance_km: 1.73
+  - name: WIDE RUINS
+    distance_km: 31.94
+  - name: TOYEI
+    distance_km: 32.74
+- country: US
+  region: AZ
+  name: Geronimo Estates
+  lat: '34.3695'
+  long: "-111.3617"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 15.1
+  - name: BLUE RIDGE
+    distance_km: 30.35
+  - name: YOUNG
+    distance_km: 48.49
+- country: US
+  region: AZ
+  name: Gila Bend
+  lat: '32.9662'
+  long: "-112.7154"
+  nearby_rate_centers:
+  - name: GILA BEND
+    distance_km: 2.72
+  - name: HYDER
+    distance_km: 59.3
+  - name: MARICOPA
+    distance_km: 62.52
+- country: US
+  region: AZ
+  name: Gila Crossing
+  lat: '33.2731'
+  long: "-112.1627"
+  nearby_rate_centers:
+  - name: KOMATKE
+    distance_km: 2.02
+  - name: MARCOPAVLG
+    distance_km: 12.66
+  - name: LONE BUTTE
+    distance_km: 18.58
+- country: US
+  region: AZ
+  name: Gilbert
+  lat: '33.3100'
+  long: "-111.7463"
+  nearby_rate_centers:
+  - name: STOTONIC
+    distance_km: 17.27
+  - name: LONE BUTTE
+    distance_km: 20.34
+  - name: CASABLANCA
+    distance_km: 24.74
+- country: US
+  region: AZ
+  name: Gisela
+  lat: '34.1015'
+  long: "-111.2895"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 15.47
+  - name: TONTOBASIN
+    distance_km: 28.01
+  - name: YOUNG
+    distance_km: 31.42
+- country: US
+  region: AZ
+  name: Glendale
+  lat: '33.5791'
+  long: "-112.2311"
+  nearby_rate_centers:
+  - name: PHOENIX
+    distance_km: 17.31
+  - name: SALT RIVER
+    distance_km: 17.31
+  - name: MARCOPAVLG
+    distance_km: 22.78
+  - name: LKPLEASANT
+    distance_km: 29.85
+- country: US
+  region: AZ
+  name: Globe
+  lat: '33.3870'
+  long: "-110.7513"
+  nearby_rate_centers:
+  - name: GLOBE
+    distance_km: 7.54
+  - name: MIAMI
+    distance_km: 11.63
+  - name: SAN CARLOS
+    distance_km: 28.11
+- country: US
+  region: AZ
+  name: Gold Canyon
+  lat: '33.3639'
+  long: "-111.4230"
+  nearby_rate_centers:
+  - name: WHITLOW
+    distance_km: 10.39
+  - name: SUPERIOR
+    distance_km: 32.25
+  - name: FLORENCE
+    distance_km: 38.08
+- country: US
+  region: AZ
+  name: Golden Shores
+  lat: '34.7819'
+  long: "-114.4777"
+  nearby_rate_centers:
+  - name: AZ VILLAGE
+    distance_km: 12.58
+  - name: MOHAVE VLY
+    distance_km: 19.52
+  - name: MESQUITCRK
+    distance_km: 21.72
+- country: US
+  region: AZ
+  name: Golden Valley
+  lat: '35.2060'
+  long: "-114.2327"
+  nearby_rate_centers:
+  - name: GOLDEN VLY
+    distance_km: 7.59
+  - name: KINGMAN
+    distance_km: 16.52
+  - name: E KINGMAN
+    distance_km: 21.65
+- country: US
+  region: AZ
+  name: Goodyear
+  lat: '33.2614'
+  long: "-112.3622"
+  nearby_rate_centers:
+  - name: MARCOPAVLG
+    distance_km: 17.89
+  - name: KOMATKE
+    distance_km: 19.22
+  - name: LONE BUTTE
+    distance_km: 37.18
+- country: US
+  region: AZ
+  name: Goodyear Village
+  lat: '33.1973'
+  long: "-111.8724"
+  nearby_rate_centers:
+  - name: STOTONIC
+    distance_km: 8.09
+  - name: CASABLANCA
+    distance_km: 8.58
+  - name: LONE BUTTE
+    distance_km: 13.09
+- country: US
+  region: AZ
+  name: Grand Canyon Village
+  lat: '36.0474'
+  long: "-112.1623"
+  nearby_rate_centers:
+  - name: GRANDCNYON
+    distance_km: 2.19
+  - name: SUPAI
+    distance_km: 50.95
+  - name: CAMERON
+    distance_km: 75.34
+- country: US
+  region: AZ
+  name: Grand Canyon West
+  lat: '35.9998'
+  long: "-113.8103"
+  nearby_rate_centers:
+  - name: MEADVIEW
+    distance_km: 23.96
+  - name: LKMHVRNCHS
+    distance_km: 60.27
+  - name: PEACH SPG
+    distance_km: 61.48
+- country: US
+  region: AZ
+  name: Greasewood
+  lat: '35.5279'
+  long: "-109.8614"
+  nearby_rate_centers:
+  - name: GREASEWOOD
+    distance_km: 0.77
+  - name: TOYEI
+    distance_km: 21.29
+  - name: GANADO
+    distance_km: 35.67
+- country: US
+  region: AZ
+  name: Green Valley
+  lat: '31.8393'
+  long: "-111.0009"
+  nearby_rate_centers:
+  - name: GREEN VLY
+    distance_km: 4.84
+  - name: TUBAC
+    distance_km: 26.02
+  - name: VAIL
+    distance_km: 34.8
+- country: US
+  region: AZ
+  name: Greenehaven
+  lat: '36.9959'
+  long: "-111.5566"
+  nearby_rate_centers:
+  - name: GREENEHVN
+    distance_km: 0.81
+  - name: PAGE
+    distance_km: 12.1
+  - name: LE CHEE
+    distance_km: 19.02
+- country: US
+  region: AZ
+  name: Greer
+  lat: '34.0054'
+  long: "-109.4611"
+  nearby_rate_centers:
+  - name: GREER
+    distance_km: 2.12
+  - name: SPRINGERVL
+    distance_km: 21.58
+  - name: HAWLEYLAKE
+    distance_km: 27.01
+- country: US
+  region: AZ
+  name: Gu Oidak
+  lat: '31.9206'
+  long: "-112.0235"
+  nearby_rate_centers:
+  - name: SELLS
+    distance_km: 13.59
+  - name: W SANSIMON
+    distance_km: 46.32
+  - name: SANTA ROSA
+    distance_km: 47.81
+- country: US
+  region: AZ
+  name: Guadalupe
+  lat: '33.3665'
+  long: "-111.9633"
+  nearby_rate_centers:
+  - name: LONE BUTTE
+    distance_km: 8.83
+  - name: KOMATKE
+    distance_km: 19.98
+  - name: PHOENIX
+    distance_km: 21.31
+  - name: SALT RIVER
+    distance_km: 21.31
+- country: US
+  region: AZ
+  name: Hackberry
+  lat: '35.3401'
+  long: "-113.7256"
+  nearby_rate_centers:
+  - name: PEACH SPG
+    distance_km: 22.15
+  - name: E KINGMAN
+    distance_km: 26.82
+  - name: KINGMAN
+    distance_km: 33.87
+- country: US
+  region: AZ
+  name: Haigler Creek
+  lat: '34.2163'
+  long: "-110.9719"
+  nearby_rate_centers:
+  - name: YOUNG
+    distance_km: 13.26
+  - name: PAYSON
+    distance_km: 33.37
+  - name: HEBER
+    distance_km: 41.03
+- country: US
+  region: AZ
+  name: Haivana Nakya
+  lat: '32.0051'
+  long: "-111.7124"
+  nearby_rate_centers:
+  - name: SELLS
+    distance_km: 18.83
+  - name: ROBLES
+    distance_km: 35.44
+  - name: SANTA ROSA
+    distance_km: 50.19
+- country: US
+  region: AZ
+  name: Hard Rock
+  lat: '36.0309'
+  long: "-110.5048"
+  nearby_rate_centers:
+  - name: KYKTSMOVLG
+    distance_km: 20.27
+  - name: POLACCA
+    distance_km: 24.01
+  - name: KEAMSCNYON
+    distance_km: 37.04
+- country: US
+  region: AZ
+  name: Hayden
+  lat: '32.9995'
+  long: "-110.7814"
+  nearby_rate_centers:
+  - name: HAYDEN
+    distance_km: 0.9
+  - name: SUPERIOR
+    distance_km: 42.61
+  - name: GLOBE
+    distance_km: 44.45
+- country: US
+  region: AZ
+  name: Heber-Overgaard
+  lat: '34.4141'
+  long: "-110.5696"
+  nearby_rate_centers:
+  - name: HEBER
+    distance_km: 3.18
+  - name: PINEDALE
+    distance_km: 31.65
+  - name: SNOWFLAKE
+    distance_km: 46.51
+- country: US
+  region: AZ
+  name: Holbrook
+  lat: '34.9044'
+  long: "-110.1672"
+  nearby_rate_centers:
+  - name: HOLBROOK
+    distance_km: 1.16
+  - name: JOSEPHCITY
+    distance_km: 16.31
+  - name: WINSLOW
+    distance_km: 33.48
+- country: US
+  region: AZ
+  name: Hondah
+  lat: '34.0860'
+  long: "-109.9149"
+  nearby_rate_centers:
+  - name: PINETOP
+    distance_km: 4.81
+  - name: MCNARY
+    distance_km: 6.33
+  - name: HAWLEYLAKE
+    distance_km: 19.16
+- country: US
+  region: AZ
+  name: Hotevilla-Bacavi
+  lat: '35.9225'
+  long: "-110.6569"
+  nearby_rate_centers:
+  - name: KYKTSMOVLG
+    distance_km: 6.41
+  - name: POLACCA
+    distance_km: 26.17
+  - name: KEAMSCNYON
+    distance_km: 43.76
+- country: US
+  region: AZ
+  name: Houck
+  lat: '35.2714'
+  long: "-109.2237"
+  nearby_rate_centers:
+  - name: SANDERS
+    distance_km: 11.75
+  - name: WIDE RUINS
+    distance_km: 29.09
+  - name: WINDOWROCK
+    distance_km: 47.49
+- country: US
+  region: AZ
+  name: Huachuca City
+  lat: '31.6308'
+  long: "-110.3421"
+  nearby_rate_centers:
+  - name: SIERRAVIST
+    distance_km: 9.11
+  - name: TOMBSTONE
+    distance_km: 27.87
+  - name: BENSON
+    distance_km: 38.52
+- country: US
+  region: AZ
+  name: Hunter Creek
+  lat: '34.3054'
+  long: "-111.0159"
+  nearby_rate_centers:
+  - name: YOUNG
+    distance_km: 23.82
+  - name: PAYSON
+    distance_km: 30.25
+  - name: BLUE RIDGE
+    distance_km: 36.14
+- country: US
+  region: AZ
+  name: Icehouse Canyon
+  lat: '33.3553'
+  long: "-110.7965"
+  nearby_rate_centers:
+  - name: GLOBE
+    distance_km: 5.67
+  - name: MIAMI
+    distance_km: 8.93
+  - name: SUPERIOR
+    distance_km: 28.43
+- country: US
+  region: AZ
+  name: Indian Wells
+  lat: '35.4089'
+  long: "-110.1062"
+  nearby_rate_centers:
+  - name: DILKON
+    distance_km: 20.05
+  - name: GREASEWOOD
+    distance_km: 25.95
+  - name: TOYEI
+    distance_km: 38.25
+- country: US
+  region: AZ
+  name: Jakes Corner
+  lat: '34.0083'
+  long: "-111.3203"
+  nearby_rate_centers:
+  - name: TONTOBASIN
+    distance_km: 17.76
+  - name: PAYSON
+    distance_km: 25.31
+  - name: YOUNG
+    distance_km: 35.72
+- country: US
+  region: AZ
+  name: Jeddito
+  lat: '35.7697'
+  long: "-110.1305"
+  nearby_rate_centers:
+  - name: KEAMSCNYON
+    distance_km: 7.49
+  - name: TOYEI
+    distance_km: 20.59
+  - name: POLACCA
+    distance_km: 24.24
+- country: US
+  region: AZ
+  name: Jerome
+  lat: '34.7471'
+  long: "-112.1076"
+  nearby_rate_centers:
+  - name: COTTONWOOD
+    distance_km: 8.45
+  - name: SEDONA
+    distance_km: 21.67
+  - name: HUMBOLDT
+    distance_km: 29.78
+- country: US
+  region: AZ
+  name: Joseph City
+  lat: '34.9614'
+  long: "-110.3274"
+  nearby_rate_centers:
+  - name: JOSEPHCITY
+    distance_km: 0.64
+  - name: HOLBROOK
+    distance_km: 17.07
+  - name: WINSLOW
+    distance_km: 17.77
+- country: US
+  region: AZ
+  name: Kachina Village
+  lat: '35.0947'
+  long: "-111.6928"
+  nearby_rate_centers:
+  - name: FLAGSTAFF
+    distance_km: 12.76
+  - name: MUNDS PARK
+    distance_km: 17.87
+  - name: MORMONLAKE
+    distance_km: 28.25
+- country: US
+  region: AZ
+  name: Kaibab
+  lat: '36.8815'
+  long: "-112.7237"
+  nearby_rate_centers:
+  - name: FREDONIA
+    distance_km: 19.21
+  - name: COLORADOCY
+    distance_km: 25.64
+  - name: SUPAI
+    distance_km: 72.09
+- country: US
+  region: AZ
+  name: Kaibab Estates West
+  lat: '35.2762'
+  long: "-112.5018"
+  nearby_rate_centers:
+  - name: ASH FORK
+    distance_km: 6.05
+  - name: WILLIAMS
+    distance_km: 29.09
+  - name: SELIGMAN
+    distance_km: 34.16
+- country: US
+  region: AZ
+  name: Kaibito
+  lat: '36.5920'
+  long: "-111.1071"
+  nearby_rate_centers:
+  - name: KAIBITO
+    distance_km: 2.86
+  - name: LE CHEE
+    distance_km: 41.46
+  - name: SHONTO
+    distance_km: 41.47
+- country: US
+  region: AZ
+  name: Kaka
+  lat: '32.5113'
+  long: "-112.3166"
+  nearby_rate_centers:
+  - name: SANTA ROSA
+    distance_km: 30.29
+  - name: W SANSIMON
+    distance_km: 36.75
+  - name: AJO
+    distance_km: 54.0
+- country: US
+  region: AZ
+  name: Katherine
+  lat: '35.2206'
+  long: "-114.5616"
+  nearby_rate_centers:
+  - name: BULLHDCYN
+    distance_km: 7.15
+  - name: BULLHEADCY
+    distance_km: 14.46
+  - name: MESQUITCRK
+    distance_km: 28.78
+- country: US
+  region: AZ
+  name: Kayenta
+  lat: '36.7144'
+  long: "-110.2590"
+  nearby_rate_centers:
+  - name: KAYENTA
+    distance_km: 1.02
+  - name: BLACK MESA
+    distance_km: 27.78
+  - name: SHONTO
+    distance_km: 36.74
+- country: US
+  region: AZ
+  name: Keams Canyon
+  lat: '35.8229'
+  long: "-110.2011"
+  nearby_rate_centers:
+  - name: KEAMSCNYON
+    distance_km: 1.25
+  - name: POLACCA
+    distance_km: 16.74
+  - name: TOYEI
+    distance_km: 28.67
+- country: US
+  region: AZ
+  name: Kearny
+  lat: '33.0564'
+  long: "-110.9074"
+  nearby_rate_centers:
+  - name: HAYDEN
+    distance_km: 12.8
+  - name: SUPERIOR
+    distance_km: 30.35
+  - name: MIAMI
+    distance_km: 38.44
+- country: US
+  region: AZ
+  name: Kingman
+  lat: '35.2170'
+  long: "-114.0105"
+  nearby_rate_centers:
+  - name: E KINGMAN
+    distance_km: 4.21
+  - name: KINGMAN
+    distance_km: 4.66
+  - name: GOLDEN VLY
+    distance_km: 13.29
+- country: US
+  region: AZ
+  name: Kino Springs
+  lat: '31.3641'
+  long: "-110.8096"
+  nearby_rate_centers:
+  - name: NOGALES
+    distance_km: 11.75
+  - name: PATAGONIA
+    distance_km: 20.58
+  - name: TUBAC
+    distance_km: 35.61
+- country: US
+  region: AZ
+  name: Klagetoh
+  lat: '35.5010'
+  long: "-109.5283"
+  nearby_rate_centers:
+  - name: WIDE RUINS
+    distance_km: 9.82
+  - name: GANADO
+    distance_km: 23.84
+  - name: GREASEWOOD
+    distance_km: 29.75
+- country: US
+  region: AZ
+  name: Kleindale
+  lat: '32.2681'
+  long: "-110.9146"
+  nearby_rate_centers:
+  - name: TUCSON
+    distance_km: 6.58
+  - name: CORONADO
+    distance_km: 32.27
+  - name: MARANA
+    distance_km: 34.9
+- country: US
+  region: AZ
+  name: Ko Vaya
+  lat: '32.0815'
+  long: "-111.8959"
+  nearby_rate_centers:
+  - name: SELLS
+    distance_km: 18.8
+  - name: SANTA ROSA
+    distance_km: 33.44
+  - name: W SANSIMON
+    distance_km: 48.93
+- country: US
+  region: AZ
+  name: Kohatk
+  lat: '32.5781'
+  long: "-112.0032"
+  nearby_rate_centers:
+  - name: SANTA ROSA
+    distance_km: 25.9
+  - name: SILVERBELL
+    distance_km: 26.9
+  - name: ELOY
+    distance_km: 46.39
+- country: US
+  region: AZ
+  name: Kohls Ranch
+  lat: '34.3210'
+  long: "-111.0838"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 24.88
+  - name: YOUNG
+    distance_km: 27.69
+  - name: BLUE RIDGE
+    distance_km: 32.3
+- country: US
+  region: AZ
+  name: Komatke
+  lat: '33.2953'
+  long: "-112.1615"
+  nearby_rate_centers:
+  - name: KOMATKE
+    distance_km: 0.56
+  - name: MARCOPAVLG
+    distance_km: 10.59
+  - name: LONE BUTTE
+    distance_km: 18.43
+- country: US
+  region: AZ
+  name: Kykotsmovi Village
+  lat: '35.8576'
+  long: "-110.6338"
+  nearby_rate_centers:
+  - name: KYKTSMOVLG
+    distance_km: 2.24
+  - name: POLACCA
+    distance_km: 22.45
+  - name: KEAMSCNYON
+    distance_km: 40.36
+- country: US
+  region: AZ
+  name: La Paz Valley
+  lat: '33.5582'
+  long: "-114.2434"
+  nearby_rate_centers:
+  - name: QUARTZSITE
+    distance_km: 12.3
+  - name: EHRENBERG
+    distance_km: 26.75
+  - name: BOUSE
+    distance_km: 46.91
+- country: US
+  region: AZ
+  name: Lake Havasu City
+  lat: '34.5006'
+  long: "-114.3113"
+  nearby_rate_centers:
+  - name: LKHAVASUCY
+    distance_km: 6.69
+  - name: CASTLEROCK
+    distance_km: 6.97
+  - name: PARKER DAM
+    distance_km: 33.34
+- country: US
+  region: AZ
+  name: Lake Montezuma
+  lat: '34.6414'
+  long: "-111.7960"
+  nearby_rate_centers:
+  - name: CAMP VERDE
+    distance_km: 9.73
+  - name: SEDONA
+    distance_km: 11.65
+  - name: COTTONWOOD
+    distance_km: 23.0
+- country: US
+  region: AZ
+  name: Lake of the Woods
+  lat: '34.1547'
+  long: "-109.9936"
+  nearby_rate_centers:
+  - name: PINETOP
+    distance_km: 6.3
+  - name: SHOW LOW
+    distance_km: 11.32
+  - name: MCNARY
+    distance_km: 16.46
+- country: US
+  region: AZ
+  name: Lazy Y U
+  lat: '35.1369'
+  long: "-113.9684"
+  nearby_rate_centers:
+  - name: KINGMAN
+    distance_km: 9.74
+  - name: E KINGMAN
+    distance_km: 13.39
+  - name: GOLDEN VLY
+    distance_km: 20.06
+- country: US
+  region: AZ
+  name: LeChee
+  lat: '36.8710'
+  long: "-111.4328"
+  nearby_rate_centers:
+  - name: LE CHEE
+    distance_km: 2.17
+  - name: PAGE
+    distance_km: 7.34
+  - name: GREENEHVN
+    distance_km: 18.52
+- country: US
+  region: AZ
+  name: Leupp
+  lat: '35.2966'
+  long: "-111.0028"
+  nearby_rate_centers:
+  - name: LEUPP
+    distance_km: 0.25
+  - name: WINSLOW
+    distance_km: 55.59
+  - name: CAMERON
+    distance_km: 58.68
+- country: US
+  region: AZ
+  name: Linden
+  lat: '34.2625'
+  long: "-110.1424"
+  nearby_rate_centers:
+  - name: SHOW LOW
+    distance_km: 10.13
+  - name: PINEDALE
+    distance_km: 11.1
+  - name: PINETOP
+    distance_km: 24.4
+- country: US
+  region: AZ
+  name: Litchfield Park
+  lat: '33.5024'
+  long: "-112.3588"
+  nearby_rate_centers:
+  - name: MARCOPAVLG
+    distance_km: 18.89
+  - name: PHOENIX
+    distance_km: 29.1
+  - name: SALT RIVER
+    distance_km: 29.1
+  - name: KOMATKE
+    distance_km: 29.98
+- country: US
+  region: AZ
+  name: Littlefield
+  lat: '36.8659'
+  long: "-113.9360"
+  nearby_rate_centers:
+  - name: LITTLEFLD
+    distance_km: 6.19
+  - name: COLORADOCY
+    distance_km: 86.28
+  - name: MEADVIEW
+    distance_km: 96.82
+- country: US
+  region: AZ
+  name: Low Mountain
+  lat: '35.9481'
+  long: "-110.0981"
+  nearby_rate_centers:
+  - name: KEAMSCNYON
+    distance_km: 16.65
+  - name: PINONCTNWD
+    distance_km: 23.15
+  - name: POLACCA
+    distance_km: 28.69
+- country: US
+  region: AZ
+  name: Lower Santan Village
+  lat: '33.1427'
+  long: "-111.7853"
+  nearby_rate_centers:
+  - name: STOTONIC
+    distance_km: 2.28
+  - name: SACATON
+    distance_km: 8.54
+  - name: CASABLANCA
+    distance_km: 9.74
+- country: US
+  region: AZ
+  name: Lukachukai
+  lat: '36.4112'
+  long: "-109.2267"
+  nearby_rate_centers:
+  - name: LUKACHUKAI
+    distance_km: 2.15
+  - name: TSAILE
+    distance_km: 13.84
+  - name: RED VALLEY
+    distance_km: 25.77
+- country: US
+  region: AZ
+  name: Lupton
+  lat: '35.3547'
+  long: "-109.0527"
+  nearby_rate_centers:
+  - name: SANDERS
+    distance_km: 29.82
+  - name: WINDOWROCK
+    distance_km: 35.83
+  - name: WIDE RUINS
+    distance_km: 40.17
+- country: US
+  region: AZ
+  name: Maish Vaya
+  lat: '32.1703'
+  long: "-112.1342"
+  nearby_rate_centers:
+  - name: SANTA ROSA
+    distance_km: 21.23
+  - name: W SANSIMON
+    distance_km: 25.09
+  - name: SELLS
+    distance_km: 37.33
+- country: US
+  region: AZ
+  name: Mammoth
+  lat: '32.6853'
+  long: "-110.7292"
+  nearby_rate_centers:
+  - name: SAN MANUEL
+    distance_km: 12.79
+  - name: CORONADO
+    distance_km: 23.63
+  - name: HAYDEN
+    distance_km: 36.17
+- country: US
+  region: AZ
+  name: Many Farms
+  lat: '36.3532'
+  long: "-109.6271"
+  nearby_rate_centers:
+  - name: MANY FARMS
+    distance_km: 0.6
+  - name: ROUGH ROCK
+    distance_km: 22.87
+  - name: CHINLE
+    distance_km: 22.91
+- country: US
+  region: AZ
+  name: Marana
+  lat: '32.4355'
+  long: "-111.1558"
+  nearby_rate_centers:
+  - name: MARANA
+    distance_km: 5.71
+  - name: CORONADO
+    distance_km: 25.08
+  - name: TUCSON
+    distance_km: 29.16
+- country: US
+  region: AZ
+  name: Maricopa
+  lat: '33.0408'
+  long: "-112.0011"
+  nearby_rate_centers:
+  - name: MARICOPA
+    distance_km: 4.84
+  - name: CASABLANCA
+    distance_km: 13.9
+  - name: STOTONIC
+    distance_km: 23.19
+- country: US
+  region: AZ
+  name: Maricopa Colony
+  lat: '33.3626'
+  long: "-112.2267"
+  nearby_rate_centers:
+  - name: MARCOPAVLG
+    distance_km: 1.31
+  - name: KOMATKE
+    distance_km: 10.19
+  - name: LONE BUTTE
+    distance_km: 25.86
+- country: US
+  region: AZ
+  name: Martinez Lake
+  lat: '32.9843'
+  long: "-114.4722"
+  nearby_rate_centers:
+  - name: YUMA
+    distance_km: 32.96
+  - name: WELLTON
+    distance_km: 47.55
+  - name: SOMERTON
+    distance_km: 48.01
+- country: US
+  region: AZ
+  name: Mayer
+  lat: '34.4233'
+  long: "-112.2408"
+  nearby_rate_centers:
+  - name: HUMBOLDT
+    distance_km: 8.5
+  - name: MILLSITE
+    distance_km: 15.88
+  - name: PRESCOTT
+    distance_km: 25.24
+- country: US
+  region: AZ
+  name: McConnico
+  lat: '35.1636'
+  long: "-114.0897"
+  nearby_rate_centers:
+  - name: KINGMAN
+    distance_km: 4.68
+  - name: GOLDEN VLY
+    distance_km: 9.72
+  - name: E KINGMAN
+    distance_km: 12.86
+- country: US
+  region: AZ
+  name: McNary
+  lat: '34.0923'
+  long: "-109.8541"
+  nearby_rate_centers:
+  - name: MCNARY
+    distance_km: 2.96
+  - name: PINETOP
+    distance_km: 8.31
+  - name: HAWLEYLAKE
+    distance_km: 15.74
+- country: US
+  region: AZ
+  name: McNeal
+  lat: '31.6079'
+  long: "-109.6699"
+  nearby_rate_centers:
+  - name: ELFRIDA
+    distance_km: 7.4
+  - name: SUNIZONA
+    distance_km: 29.8
+  - name: BISBEE
+    distance_km: 29.83
+- country: US
+  region: AZ
+  name: Mead Ranch
+  lat: '34.3460'
+  long: "-111.1430"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 21.42
+  - name: BLUE RIDGE
+    distance_km: 28.44
+  - name: YOUNG
+    distance_km: 32.82
+- country: US
+  region: AZ
+  name: Meadview
+  lat: '35.9532'
+  long: "-114.0789"
+  nearby_rate_centers:
+  - name: MEADVIEW
+    distance_km: 5.49
+  - name: LKMHVRNCHS
+    distance_km: 42.51
+  - name: PEACH SPG
+    distance_km: 70.02
+- country: US
+  region: AZ
+  name: Mesa
+  lat: '33.4015'
+  long: "-111.7178"
+  nearby_rate_centers:
+  - name: LONE BUTTE
+    distance_km: 26.13
+  - name: STOTONIC
+    distance_km: 27.78
+  - name: PHOENIX
+    distance_km: 34.58
+  - name: SALT RIVER
+    distance_km: 34.58
+- country: US
+  region: AZ
+  name: Mesa del Caballo
+  lat: '34.2860'
+  long: "-111.2952"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 6.64
+  - name: BLUE RIDGE
+    distance_km: 36.34
+  - name: YOUNG
+    distance_km: 38.11
+- country: US
+  region: AZ
+  name: Mescal
+  lat: '31.9676'
+  long: "-110.4368"
+  nearby_rate_centers:
+  - name: BENSON
+    distance_km: 13.16
+  - name: VAIL
+    distance_km: 23.55
+  - name: CASCABEL
+    distance_km: 36.55
+- country: US
+  region: AZ
+  name: Mesquite Creek
+  lat: '34.9607'
+  long: "-114.5714"
+  nearby_rate_centers:
+  - name: MESQUITCRK
+    distance_km: 0.17
+  - name: MOHAVE VLY
+    distance_km: 4.87
+  - name: AZ VILLAGE
+    distance_km: 12.16
+- country: US
+  region: AZ
+  name: Miami
+  lat: '33.3951'
+  long: "-110.8724"
+  nearby_rate_centers:
+  - name: MIAMI
+    distance_km: 0.72
+  - name: GLOBE
+    distance_km: 3.79
+  - name: SUPERIOR
+    distance_km: 23.76
+- country: US
+  region: AZ
+  name: Miracle Valley
+  lat: '31.3829'
+  long: "-110.1485"
+  nearby_rate_centers:
+  - name: BISBEE
+    distance_km: 22.96
+  - name: SIERRAVIST
+    distance_km: 24.13
+  - name: TOMBSTONE
+    distance_km: 37.89
+- country: US
+  region: AZ
+  name: Moccasin
+  lat: '36.9099'
+  long: "-112.7546"
+  nearby_rate_centers:
+  - name: FREDONIA
+    distance_km: 20.83
+  - name: COLORADOCY
+    distance_km: 21.78
+  - name: SUPAI
+    distance_km: 75.44
+- country: US
+  region: AZ
+  name: Moenkopi
+  lat: '36.1125'
+  long: "-111.2212"
+  nearby_rate_centers:
+  - name: TUBA CITY
+    distance_km: 3.48
+  - name: KAIBITO
+    distance_km: 55.29
+  - name: KYKTSMOVLG
+    distance_km: 60.34
+- country: US
+  region: AZ
+  name: Mohave Valley
+  lat: '34.9008'
+  long: "-114.5732"
+  nearby_rate_centers:
+  - name: MOHAVE VLY
+    distance_km: 3.75
+  - name: AZ VILLAGE
+    distance_km: 5.55
+  - name: MESQUITCRK
+    distance_km: 6.8
+- country: US
+  region: AZ
+  name: Mojave Ranch Estates
+  lat: '34.9449'
+  long: "-114.5907"
+  nearby_rate_centers:
+  - name: MOHAVE VLY
+    distance_km: 2.46
+  - name: MESQUITCRK
+    distance_km: 2.66
+  - name: AZ VILLAGE
+    distance_km: 10.34
+- country: US
+  region: AZ
+  name: Morenci
+  lat: '33.0539'
+  long: "-109.3310"
+  nearby_rate_centers:
+  - name: CLIFTON
+    distance_km: 2.18
+  - name: YORKVALLEY
+    distance_km: 18.94
+  - name: DUNCAN
+    distance_km: 42.43
+- country: US
+  region: AZ
+  name: Mormon Lake
+  lat: '34.9112'
+  long: "-111.4527"
+  nearby_rate_centers:
+  - name: MORMONLAKE
+    distance_km: 1.7
+  - name: MUNDS PARK
+    distance_km: 17.89
+  - name: FLAGSTAFF
+    distance_km: 37.24
+- country: US
+  region: AZ
+  name: Morristown
+  lat: '33.8549'
+  long: "-112.6135"
+  nearby_rate_centers:
+  - name: WICKENBURG
+    distance_km: 29.44
+  - name: LKPLEASANT
+    distance_km: 33.37
+  - name: YARNELL
+    distance_km: 43.0
+- country: US
+  region: AZ
+  name: Mountain View Ranches
+  lat: '35.2335'
+  long: "-111.4728"
+  nearby_rate_centers:
+  - name: FLAGSTAFF
+    distance_km: 16.5
+  - name: MORMONLAKE
+    distance_km: 34.94
+  - name: MUNDS PARK
+    distance_km: 36.38
+- country: US
+  region: AZ
+  name: Mountainaire
+  lat: '35.0921'
+  long: "-111.6493"
+  nearby_rate_centers:
+  - name: FLAGSTAFF
+    distance_km: 12.47
+  - name: MUNDS PARK
+    distance_km: 17.07
+  - name: MORMONLAKE
+    distance_km: 25.31
+- country: US
+  region: AZ
+  name: Munds Park
+  lat: '34.9382'
+  long: "-111.6318"
+  nearby_rate_centers:
+  - name: MUNDS PARK
+    distance_km: 1.3
+  - name: MORMONLAKE
+    distance_km: 15.04
+  - name: FLAGSTAFF
+    distance_km: 29.63
+- country: US
+  region: AZ
+  name: Naco
+  lat: '31.3431'
+  long: "-109.9336"
+  nearby_rate_centers:
+  - name: BISBEE
+    distance_km: 11.0
+  - name: DOUGLAS
+    distance_km: 37.22
+  - name: SIERRAVIST
+    distance_km: 42.16
+- country: US
+  region: AZ
+  name: Nazlini
+  lat: '35.9155'
+  long: "-109.4726"
+  nearby_rate_centers:
+  - name: GANADO
+    distance_km: 23.12
+  - name: CHINLE
+    distance_km: 27.7
+  - name: FTDEFIANCE
+    distance_km: 39.76
+- country: US
+  region: AZ
+  name: Nelson
+  lat: '32.4298'
+  long: "-111.2649"
+  nearby_rate_centers:
+  - name: MARANA
+    distance_km: 5.97
+  - name: CORONADO
+    distance_km: 34.39
+  - name: TUCSON
+    distance_km: 35.94
+- country: US
+  region: AZ
+  name: New Kingman-Butler
+  lat: '35.2645'
+  long: "-114.0091"
+  nearby_rate_centers:
+  - name: E KINGMAN
+    distance_km: 1.33
+  - name: KINGMAN
+    distance_km: 8.94
+  - name: GOLDEN VLY
+    distance_km: 13.77
+- country: US
+  region: AZ
+  name: New River
+  lat: '33.8835'
+  long: "-112.0858"
+  nearby_rate_centers:
+  - name: LKPLEASANT
+    distance_km: 15.89
+  - name: GRANITE MT
+    distance_km: 31.6
+  - name: PHOENIX
+    distance_km: 37.86
+  - name: SALT RIVER
+    distance_km: 37.86
+- country: US
+  region: AZ
+  name: Nogales
+  lat: '31.3624'
+  long: "-110.9336"
+  nearby_rate_centers:
+  - name: NOGALES
+    distance_km: 2.27
+  - name: PATAGONIA
+    distance_km: 26.23
+  - name: TUBAC
+    distance_km: 29.63
+- country: US
+  region: AZ
+  name: Nolic
+  lat: '32.0341'
+  long: "-111.9549"
+  nearby_rate_centers:
+  - name: SELLS
+    distance_km: 15.22
+  - name: SANTA ROSA
+    distance_km: 36.37
+  - name: W SANSIMON
+    distance_km: 45.29
+- country: US
+  region: AZ
+  name: North Fork
+  lat: '33.9965'
+  long: "-109.9593"
+  nearby_rate_centers:
+  - name: MCNARY
+    distance_km: 12.64
+  - name: PINETOP
+    distance_km: 14.59
+  - name: WHITERIVER
+    distance_km: 17.68
+- country: US
+  region: AZ
+  name: Nutrioso
+  lat: '33.9514'
+  long: "-109.2058"
+  nearby_rate_centers:
+  - name: ALPINE
+    distance_km: 13.01
+  - name: SPRINGERVL
+    distance_km: 21.31
+  - name: GREER
+    distance_km: 23.22
+- country: US
+  region: AZ
+  name: Oak Creek Canyon
+  lat: '34.9490'
+  long: "-111.7505"
+  nearby_rate_centers:
+  - name: MUNDS PARK
+    distance_km: 9.59
+  - name: MORMONLAKE
+    distance_km: 25.92
+  - name: SEDONA
+    distance_km: 27.2
+- country: US
+  region: AZ
+  name: Oak Springs
+  lat: '35.4760'
+  long: "-109.1318"
+  nearby_rate_centers:
+  - name: WINDOWROCK
+    distance_km: 23.28
+  - name: FTDEFIANCE
+    distance_km: 30.63
+  - name: WIDE RUINS
+    distance_km: 32.95
+- country: US
+  region: AZ
+  name: Oatman
+  lat: '35.0275'
+  long: "-114.3840"
+  nearby_rate_centers:
+  - name: MESQUITCRK
+    distance_km: 18.46
+  - name: BULLHDCYN
+    distance_km: 21.26
+  - name: MOHAVE VLY
+    distance_km: 22.91
+- country: US
+  region: AZ
+  name: Oljato-Monument Valley
+  lat: '36.9867'
+  long: "-110.1910"
+  nearby_rate_centers:
+  - name: KAYENTA
+    distance_km: 29.86
+  - name: DENNEHOTSO
+    distance_km: 34.27
+  - name: BLACK MESA
+    distance_km: 58.2
+- country: US
+  region: AZ
+  name: Oracle
+  lat: '32.6085'
+  long: "-110.7826"
+  nearby_rate_centers:
+  - name: SAN MANUEL
+    distance_km: 14.64
+  - name: CORONADO
+    distance_km: 15.01
+  - name: MARANA
+    distance_km: 43.48
+- country: US
+  region: AZ
+  name: Oro Valley
+  lat: '32.4208'
+  long: "-110.9767"
+  nearby_rate_centers:
+  - name: CORONADO
+    distance_km: 15.84
+  - name: TUCSON
+    distance_km: 21.46
+  - name: MARANA
+    distance_km: 22.33
+- country: US
+  region: AZ
+  name: Oxbow Estates
+  lat: '34.1824'
+  long: "-111.3430"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 5.98
+  - name: TONTOBASIN
+    distance_km: 37.23
+  - name: YOUNG
+    distance_km: 37.5
+- country: US
+  region: AZ
+  name: Padre Ranchitos
+  lat: '32.6497'
+  long: "-114.6416"
+  nearby_rate_centers:
+  - name: YUMA
+    distance_km: 7.61
+  - name: SOMERTON
+    distance_km: 7.61
+  - name: WELLTON
+    distance_km: 47.73
+- country: US
+  region: AZ
+  name: Page
+  lat: '36.9426'
+  long: "-111.5071"
+  nearby_rate_centers:
+  - name: PAGE
+    distance_km: 5.46
+  - name: GREENEHVN
+    distance_km: 8.18
+  - name: LE CHEE
+    distance_km: 11.67
+- country: US
+  region: AZ
+  name: Palominas
+  lat: '31.3839'
+  long: "-110.1212"
+  nearby_rate_centers:
+  - name: BISBEE
+    distance_km: 20.45
+  - name: SIERRAVIST
+    distance_km: 25.68
+  - name: TOMBSTONE
+    distance_km: 37.32
+- country: US
+  region: AZ
+  name: Paradise Valley
+  lat: '33.5434'
+  long: "-111.9595"
+  nearby_rate_centers:
+  - name: PHOENIX
+    distance_km: 8.29
+  - name: SALT RIVER
+    distance_km: 8.29
+  - name: LONE BUTTE
+    distance_km: 28.51
+  - name: GRANITE MT
+    distance_km: 30.67
+- country: US
+  region: AZ
+  name: Parker
+  lat: '34.0286'
+  long: "-114.2224"
+  nearby_rate_centers:
+  - name: PARKER
+    distance_km: 14.7
+  - name: POSTON
+    distance_km: 16.62
+  - name: PARKER DAM
+    distance_km: 21.05
+- country: US
+  region: AZ
+  name: Parker Strip
+  lat: '34.2797'
+  long: "-114.1277"
+  nearby_rate_centers:
+  - name: PARKER DAM
+    distance_km: 9.36
+  - name: PARKER
+    distance_km: 20.97
+  - name: LKHAVASUCY
+    distance_km: 29.66
+- country: US
+  region: AZ
+  name: Parks
+  lat: '35.2939'
+  long: "-111.9770"
+  nearby_rate_centers:
+  - name: WILLIAMS
+    distance_km: 19.31
+  - name: FLAGSTAFF
+    distance_km: 31.25
+  - name: ASH FORK
+    distance_km: 46.55
+- country: US
+  region: AZ
+  name: Patagonia
+  lat: '31.5436'
+  long: "-110.7478"
+  nearby_rate_centers:
+  - name: PATAGONIA
+    distance_km: 0.82
+  - name: NOGALES
+    distance_km: 28.33
+  - name: TUBAC
+    distance_km: 29.66
+- country: US
+  region: AZ
+  name: Paulden
+  lat: '34.8897'
+  long: "-112.4937"
+  nearby_rate_centers:
+  - name: CHINO VLY
+    distance_km: 16.05
+  - name: ASH FORK
+    distance_km: 37.2
+  - name: PRESCOTT
+    distance_km: 38.52
+- country: US
+  region: AZ
+  name: Payson
+  lat: '34.2433'
+  long: "-111.3195"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 1.59
+  - name: YOUNG
+    distance_km: 37.75
+  - name: BLUE RIDGE
+    distance_km: 41.53
+- country: US
+  region: AZ
+  name: Peach Springs
+  lat: '35.5315'
+  long: "-113.4319"
+  nearby_rate_centers:
+  - name: PEACH SPG
+    distance_km: 12.58
+  - name: SELIGMAN
+    distance_km: 55.53
+  - name: E KINGMAN
+    distance_km: 60.15
+- country: US
+  region: AZ
+  name: Peeples Valley
+  lat: '34.2773'
+  long: "-112.7653"
+  nearby_rate_centers:
+  - name: YARNELL
+    distance_km: 6.01
+  - name: WICKENBURG
+    distance_km: 20.15
+  - name: MILLSITE
+    distance_km: 36.67
+- country: US
+  region: AZ
+  name: Peoria
+  lat: '33.7843'
+  long: "-112.2989"
+  nearby_rate_centers:
+  - name: LKPLEASANT
+    distance_km: 8.19
+  - name: PHOENIX
+    distance_km: 35.31
+  - name: SALT RIVER
+    distance_km: 35.31
+  - name: MARCOPAVLG
+    distance_km: 46.1
+- country: US
+  region: AZ
+  name: Peridot
+  lat: '33.3016'
+  long: "-110.4572"
+  nearby_rate_centers:
+  - name: SAN CARLOS
+    distance_km: 5.23
+  - name: GLOBE
+    distance_km: 36.36
+  - name: MIAMI
+    distance_km: 40.4
+- country: US
+  region: AZ
+  name: Phoenix
+  lat: '33.5722'
+  long: "-112.0892"
+  nearby_rate_centers:
+  - name: PHOENIX
+    distance_km: 4.85
+  - name: SALT RIVER
+    distance_km: 4.85
+  - name: MARCOPAVLG
+    distance_km: 25.36
+  - name: KOMATKE
+    distance_km: 31.93
+- country: US
+  region: AZ
+  name: Picacho
+  lat: '32.7090'
+  long: "-111.4909"
+  nearby_rate_centers:
+  - name: ELOY
+    distance_km: 7.09
+  - name: SILVERBELL
+    distance_km: 27.75
+  - name: CASAGRANDE
+    distance_km: 29.32
+- country: US
+  region: AZ
+  name: Picture Rocks
+  lat: '32.3274'
+  long: "-111.2558"
+  nearby_rate_centers:
+  - name: MARANA
+    distance_km: 15.11
+  - name: TUCSON
+    distance_km: 29.4
+  - name: ROBLES
+    distance_km: 33.65
+- country: US
+  region: AZ
+  name: Pima
+  lat: '32.8886'
+  long: "-109.8437"
+  nearby_rate_centers:
+  - name: PIMA
+    distance_km: 1.83
+  - name: SAFFORD
+    distance_km: 13.95
+  - name: BONITA
+    distance_km: 36.22
+- country: US
+  region: AZ
+  name: Pinal
+  lat: '33.3802'
+  long: "-110.7572"
+  nearby_rate_centers:
+  - name: GLOBE
+    distance_km: 7.16
+  - name: MIAMI
+    distance_km: 11.22
+  - name: SAN CARLOS
+    distance_km: 28.55
+- country: US
+  region: AZ
+  name: Pine
+  lat: '34.3788'
+  long: "-111.4574"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 19.54
+  - name: BLUE RIDGE
+    distance_km: 35.11
+  - name: CAMP VERDE
+    distance_km: 41.42
+- country: US
+  region: AZ
+  name: Pine Lake
+  lat: '35.0887'
+  long: "-113.8740"
+  nearby_rate_centers:
+  - name: KINGMAN
+    distance_km: 19.83
+  - name: E KINGMAN
+    distance_km: 21.76
+  - name: GOLDEN VLY
+    distance_km: 30.18
+- country: US
+  region: AZ
+  name: Pinedale
+  lat: '34.3207'
+  long: "-110.2599"
+  nearby_rate_centers:
+  - name: PINEDALE
+    distance_km: 1.59
+  - name: SHOW LOW
+    distance_km: 22.23
+  - name: SNOWFLAKE
+    distance_km: 26.77
+- country: US
+  region: AZ
+  name: Pinetop Country Club
+  lat: '34.1164'
+  long: "-109.8909"
+  nearby_rate_centers:
+  - name: PINETOP
+    distance_km: 4.16
+  - name: MCNARY
+    distance_km: 6.74
+  - name: SHOW LOW
+    distance_km: 19.89
+- country: US
+  region: AZ
+  name: Pinetop-Lakeside
+  lat: '34.1486'
+  long: "-109.9657"
+  nearby_rate_centers:
+  - name: PINETOP
+    distance_km: 3.8
+  - name: SHOW LOW
+    distance_km: 12.98
+  - name: MCNARY
+    distance_km: 14.03
+- country: US
+  region: AZ
+  name: Pinion Pines
+  lat: '35.1466'
+  long: "-113.9058"
+  nearby_rate_centers:
+  - name: KINGMAN
+    distance_km: 14.19
+  - name: E KINGMAN
+    distance_km: 14.8
+  - name: GOLDEN VLY
+    distance_km: 24.63
+- country: US
+  region: AZ
+  name: Pinon
+  lat: '36.0992'
+  long: "-110.2209"
+  nearby_rate_centers:
+  - name: PINONCTNWD
+    distance_km: 30.34
+  - name: KEAMSCNYON
+    distance_km: 31.44
+  - name: POLACCA
+    distance_km: 32.66
+- country: US
+  region: AZ
+  name: Pirtleville
+  lat: '31.3614'
+  long: "-109.5662"
+  nearby_rate_centers:
+  - name: DOUGLAS
+    distance_km: 2.68
+  - name: BISBEE
+    distance_km: 34.39
+  - name: ELFRIDA
+    distance_km: 36.27
+- country: US
+  region: AZ
+  name: Pisinemo
+  lat: '32.0350'
+  long: "-112.3193"
+  nearby_rate_centers:
+  - name: W SANSIMON
+    distance_km: 18.67
+  - name: SANTA ROSA
+    distance_km: 42.82
+  - name: SELLS
+    distance_km: 43.62
+- country: US
+  region: AZ
+  name: Poston
+  lat: '33.9921'
+  long: "-114.4045"
+  nearby_rate_centers:
+  - name: POSTON
+    distance_km: 0.67
+  - name: PARKER
+    distance_km: 20.24
+  - name: PARKER DAM
+    distance_km: 31.54
+- country: US
+  region: AZ
+  name: Prescott
+  lat: '34.5849'
+  long: "-112.4473"
+  nearby_rate_centers:
+  - name: PRESCOTT
+    distance_km: 5.21
+  - name: MILLSITE
+    distance_km: 17.11
+  - name: CHINO VLY
+    distance_km: 18.2
+- country: US
+  region: AZ
+  name: Prescott Valley
+  lat: '34.5980'
+  long: "-112.3185"
+  nearby_rate_centers:
+  - name: HUMBOLDT
+    distance_km: 13.6
+  - name: PRESCOTT
+    distance_km: 15.49
+  - name: MILLSITE
+    distance_km: 20.25
+- country: US
+  region: AZ
+  name: Quartzsite
+  lat: '33.6675'
+  long: "-114.2171"
+  nearby_rate_centers:
+  - name: QUARTZSITE
+    distance_km: 0.25
+  - name: EHRENBERG
+    distance_km: 29.68
+  - name: BOUSE
+    distance_km: 35.18
+- country: US
+  region: AZ
+  name: Queen Creek
+  lat: '33.2454'
+  long: "-111.6173"
+  nearby_rate_centers:
+  - name: STOTONIC
+    distance_km: 19.22
+  - name: SACATON
+    distance_km: 22.33
+  - name: WHITLOW
+    distance_km: 23.26
+- country: US
+  region: AZ
+  name: Queen Valley
+  lat: '33.2831'
+  long: "-111.3049"
+  nearby_rate_centers:
+  - name: WHITLOW
+    distance_km: 6.13
+  - name: SUPERIOR
+    distance_km: 19.99
+  - name: FLORENCE
+    distance_km: 29.81
+- country: US
+  region: AZ
+  name: Rainbow City
+  lat: '33.8731'
+  long: "-109.9763"
+  nearby_rate_centers:
+  - name: WHITERIVER
+    distance_km: 4.07
+  - name: HAWLEYLAKE
+    distance_km: 23.76
+  - name: MCNARY
+    distance_km: 24.36
+- country: US
+  region: AZ
+  name: Rancho Mesa Verde
+  lat: '32.5944'
+  long: "-114.6551"
+  nearby_rate_centers:
+  - name: SOMERTON
+    distance_km: 2.52
+  - name: YUMA
+    distance_km: 13.89
+  - name: WELLTON
+    distance_km: 49.62
+- country: US
+  region: AZ
+  name: Red Lake
+  lat: '35.3579'
+  long: "-112.1705"
+  nearby_rate_centers:
+  - name: WILLIAMS
+    distance_km: 12.01
+  - name: ASH FORK
+    distance_km: 31.99
+  - name: FLAGSTAFF
+    distance_km: 50.17
+- country: US
+  region: AZ
+  name: Red Mesa
+  lat: '36.9664'
+  long: "-109.3828"
+  nearby_rate_centers:
+  - name: TEECNOSPOS
+    distance_km: 25.11
+  - name: ROCK POINT
+    distance_km: 34.64
+  - name: DENNEHOTSO
+    distance_km: 43.77
+- country: US
+  region: AZ
+  name: Red Rock
+  lat: '32.5610'
+  long: "-111.3745"
+  nearby_rate_centers:
+  - name: MARANA
+    distance_km: 19.18
+  - name: ELOY
+    distance_km: 26.55
+  - name: SILVERBELL
+    distance_km: 32.25
+- country: US
+  region: AZ
+  name: Rillito
+  lat: '32.4157'
+  long: "-111.1549"
+  nearby_rate_centers:
+  - name: MARANA
+    distance_km: 7.02
+  - name: CORONADO
+    distance_km: 26.28
+  - name: TUCSON
+    distance_km: 27.39
+- country: US
+  region: AZ
+  name: Rincon Valley
+  lat: '32.1101'
+  long: "-110.6889"
+  nearby_rate_centers:
+  - name: VAIL
+    distance_km: 12.37
+  - name: TUCSON
+    distance_km: 29.2
+  - name: CASCABEL
+    distance_km: 35.05
+- country: US
+  region: AZ
+  name: Rio Rico
+  lat: '31.4957'
+  long: "-110.9885"
+  nearby_rate_centers:
+  - name: TUBAC
+    distance_km: 13.96
+  - name: NOGALES
+    distance_km: 17.94
+  - name: PATAGONIA
+    distance_km: 22.63
+- country: US
+  region: AZ
+  name: Rio Verde
+  lat: '33.7278'
+  long: "-111.6740"
+  nearby_rate_centers:
+  - name: GRANITE MT
+    distance_km: 10.22
+  - name: TONTOBASIN
+    distance_km: 37.31
+  - name: PHOENIX
+    distance_km: 40.26
+  - name: SALT RIVER
+    distance_km: 40.26
+- country: US
+  region: AZ
+  name: Rock House
+  lat: '33.6318'
+  long: "-110.9456"
+  nearby_rate_centers:
+  - name: ROOSEVLTLK
+    distance_km: 18.57
+  - name: MIAMI
+    distance_km: 26.47
+  - name: GLOBE
+    distance_km: 28.16
+- country: US
+  region: AZ
+  name: Rock Point
+  lat: '36.7173'
+  long: "-109.6287"
+  nearby_rate_centers:
+  - name: ROCK POINT
+    distance_km: 0.67
+  - name: DENNEHOTSO
+    distance_km: 24.16
+  - name: MANY FARMS
+    distance_km: 40.33
+- country: US
+  region: AZ
+  name: Roosevelt
+  lat: '33.6618'
+  long: "-111.1295"
+  nearby_rate_centers:
+  - name: ROOSEVLTLK
+    distance_km: 1.28
+  - name: TONTOBASIN
+    distance_km: 26.05
+  - name: MIAMI
+    distance_km: 37.35
+- country: US
+  region: AZ
+  name: Roosevelt Estates
+  lat: '33.6201'
+  long: "-110.9997"
+  nearby_rate_centers:
+  - name: ROOSEVLTLK
+    distance_km: 14.15
+  - name: MIAMI
+    distance_km: 26.94
+  - name: GLOBE
+    distance_km: 29.29
+- country: US
+  region: AZ
+  name: Rough Rock
+  lat: '36.4106'
+  long: "-109.8691"
+  nearby_rate_centers:
+  - name: ROUGH ROCK
+    distance_km: 0.71
+  - name: MANY FARMS
+    distance_km: 23.1
+  - name: PINONCTNWD
+    distance_km: 38.37
+- country: US
+  region: AZ
+  name: Round Rock
+  lat: '36.5044'
+  long: "-109.4616"
+  nearby_rate_centers:
+  - name: LUKACHUKAI
+    distance_km: 21.46
+  - name: MANY FARMS
+    distance_km: 21.9
+  - name: ROCK POINT
+    distance_km: 28.1
+- country: US
+  region: AZ
+  name: Round Valley
+  lat: '34.1877'
+  long: "-111.3017"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 6.11
+  - name: YOUNG
+    distance_km: 34.0
+  - name: TONTOBASIN
+    distance_km: 37.58
+- country: US
+  region: AZ
+  name: Rye
+  lat: '34.0979'
+  long: "-111.3542"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 15.43
+  - name: TONTOBASIN
+    distance_km: 28.08
+  - name: YOUNG
+    distance_km: 37.38
+- country: US
+  region: AZ
+  name: Sacate Village
+  lat: '33.1416'
+  long: "-111.9811"
+  nearby_rate_centers:
+  - name: CASABLANCA
+    distance_km: 9.08
+  - name: MARICOPA
+    distance_km: 12.28
+  - name: LONE BUTTE
+    distance_km: 16.26
+- country: US
+  region: AZ
+  name: Sacaton
+  lat: '33.0793'
+  long: "-111.7683"
+  nearby_rate_centers:
+  - name: SACATON
+    distance_km: 2.4
+  - name: STOTONIC
+    distance_km: 9.44
+  - name: CASABLANCA
+    distance_km: 11.96
+- country: US
+  region: AZ
+  name: Sacaton Flats Village
+  lat: '33.0559'
+  long: "-111.6590"
+  nearby_rate_centers:
+  - name: SACATON
+    distance_km: 8.11
+  - name: BLACKWATER
+    distance_km: 8.8
+  - name: CASAGRANDE
+    distance_km: 13.55
+- country: US
+  region: AZ
+  name: Saddlebrooke
+  lat: '32.5576'
+  long: "-110.8740"
+  nearby_rate_centers:
+  - name: CORONADO
+    distance_km: 5.36
+  - name: SAN MANUEL
+    distance_km: 23.92
+  - name: MARANA
+    distance_km: 33.46
+- country: US
+  region: AZ
+  name: Safford
+  lat: '32.8335'
+  long: "-109.6964"
+  nearby_rate_centers:
+  - name: SAFFORD
+    distance_km: 1.14
+  - name: PIMA
+    distance_km: 13.77
+  - name: BONITA
+    distance_km: 38.44
+- country: US
+  region: AZ
+  name: Sahuarita
+  lat: '31.9323'
+  long: "-110.9654"
+  nearby_rate_centers:
+  - name: GREEN VLY
+    distance_km: 6.18
+  - name: VAIL
+    distance_km: 27.58
+  - name: TUCSON
+    distance_km: 32.88
+- country: US
+  region: AZ
+  name: Salome
+  lat: '33.7778'
+  long: "-113.6060"
+  nearby_rate_centers:
+  - name: SALOME
+    distance_km: 1.44
+  - name: BOUSE
+    distance_km: 40.87
+  - name: AGUILA
+    distance_km: 44.03
+- country: US
+  region: AZ
+  name: San Carlos
+  lat: '33.3500'
+  long: "-110.4654"
+  nearby_rate_centers:
+  - name: SAN CARLOS
+    distance_km: 1.25
+  - name: GLOBE
+    distance_km: 34.41
+  - name: MIAMI
+    distance_km: 38.5
+- country: US
+  region: AZ
+  name: San Jose
+  lat: '32.8169'
+  long: "-109.5957"
+  nearby_rate_centers:
+  - name: SAFFORD
+    distance_km: 10.73
+  - name: PIMA
+    distance_km: 23.08
+  - name: CLIFTON
+    distance_km: 34.87
+- country: US
+  region: AZ
+  name: San Luis
+  lat: '32.4911'
+  long: "-114.7089"
+  nearby_rate_centers:
+  - name: SOMERTON
+    distance_km: 11.3
+  - name: YUMA
+    distance_km: 26.3
+  - name: WELLTON
+    distance_km: 57.45
+- country: US
+  region: AZ
+  name: San Manuel
+  lat: '32.6091'
+  long: "-110.6415"
+  nearby_rate_centers:
+  - name: SAN MANUEL
+    distance_km: 1.43
+  - name: CORONADO
+    distance_km: 27.73
+  - name: CASCABEL
+    distance_km: 42.51
+- country: US
+  region: AZ
+  name: San Miguel
+  lat: '31.6295'
+  long: "-111.7801"
+  nearby_rate_centers:
+  - name: SASABE
+    distance_km: 27.09
+  - name: SELLS
+    distance_km: 32.9
+  - name: ROBLES
+    distance_km: 61.29
+- country: US
+  region: AZ
+  name: San Simon
+  lat: '32.2682'
+  long: "-109.2302"
+  nearby_rate_centers:
+  - name: SAN SIMON
+    distance_km: 0.56
+  - name: BOWIE
+    distance_km: 24.8
+  - name: PORTAL
+    distance_km: 39.81
+- country: US
+  region: AZ
+  name: San Tan Valley
+  lat: '33.1786'
+  long: "-111.5629"
+  nearby_rate_centers:
+  - name: BLACKWATER
+    distance_km: 17.38
+  - name: SACATON
+    distance_km: 20.39
+  - name: WHITLOW
+    distance_km: 21.2
+- country: US
+  region: AZ
+  name: Sanders
+  lat: '35.2095'
+  long: "-109.3224"
+  nearby_rate_centers:
+  - name: SANDERS
+    distance_km: 1.14
+  - name: WIDE RUINS
+    distance_km: 27.73
+  - name: WINDOWROCK
+    distance_km: 57.18
+- country: US
+  region: AZ
+  name: Santa Cruz
+  lat: '33.2327'
+  long: "-112.1594"
+  nearby_rate_centers:
+  - name: KOMATKE
+    distance_km: 6.47
+  - name: MARCOPAVLG
+    distance_km: 16.89
+  - name: LONE BUTTE
+    distance_km: 19.19
+- country: US
+  region: AZ
+  name: Santa Rosa
+  lat: '32.3325'
+  long: "-112.0464"
+  nearby_rate_centers:
+  - name: SANTA ROSA
+    distance_km: 2.14
+  - name: W SANSIMON
+    distance_km: 36.91
+  - name: SILVERBELL
+    distance_km: 39.08
+- country: US
+  region: AZ
+  name: Sawmill
+  lat: '35.8924'
+  long: "-109.1538"
+  nearby_rate_centers:
+  - name: FTDEFIANCE
+    distance_km: 17.24
+  - name: WINDOWROCK
+    distance_km: 25.45
+  - name: GANADO
+    distance_km: 40.09
+- country: US
+  region: AZ
+  name: Scenic
+  lat: '36.7930'
+  long: "-114.0151"
+  nearby_rate_centers:
+  - name: LITTLEFLD
+    distance_km: 6.81
+  - name: MEADVIEW
+    distance_km: 88.07
+  - name: COLORADOCY
+    distance_km: 94.81
+- country: US
+  region: AZ
+  name: Scottsdale
+  lat: '33.6872'
+  long: "-111.8651"
+  nearby_rate_centers:
+  - name: GRANITE MT
+    distance_km: 12.68
+  - name: PHOENIX
+    distance_km: 23.28
+  - name: SALT RIVER
+    distance_km: 23.28
+  - name: LKPLEASANT
+    distance_km: 39.95
+- country: US
+  region: AZ
+  name: Seba Dalkai
+  lat: '35.4816'
+  long: "-110.4562"
+  nearby_rate_centers:
+  - name: DILKON
+    distance_km: 16.95
+  - name: POLACCA
+    distance_km: 40.1
+  - name: KEAMSCNYON
+    distance_km: 44.49
+- country: US
+  region: AZ
+  name: Second Mesa
+  lat: '35.8222'
+  long: "-110.4884"
+  nearby_rate_centers:
+  - name: POLACCA
+    distance_km: 9.4
+  - name: KYKTSMOVLG
+    distance_km: 13.08
+  - name: KEAMSCNYON
+    distance_km: 27.02
+- country: US
+  region: AZ
+  name: Sedona
+  lat: '34.8581'
+  long: "-111.7941"
+  nearby_rate_centers:
+  - name: MUNDS PARK
+    distance_km: 16.2
+  - name: SEDONA
+    distance_km: 16.35
+  - name: COTTONWOOD
+    distance_km: 23.92
+- country: US
+  region: AZ
+  name: Sehili
+  lat: '36.2807'
+  long: "-109.1814"
+  nearby_rate_centers:
+  - name: TSAILE
+    distance_km: 1.32
+  - name: LUKACHUKAI
+    distance_km: 15.91
+  - name: CHINLE
+    distance_km: 36.23
+- country: US
+  region: AZ
+  name: Seligman
+  lat: '35.3256'
+  long: "-112.8574"
+  nearby_rate_centers:
+  - name: SELIGMAN
+    distance_km: 1.43
+  - name: ASH FORK
+    distance_km: 35.85
+  - name: WILLIAMS
+    distance_km: 61.78
+- country: US
+  region: AZ
+  name: Sells
+  lat: '31.9202'
+  long: "-111.8775"
+  nearby_rate_centers:
+  - name: SELLS
+    distance_km: 0.83
+  - name: SANTA ROSA
+    distance_km: 50.65
+  - name: SASABE
+    distance_km: 52.19
+- country: US
+  region: AZ
+  name: Seven Mile
+  lat: '33.7883'
+  long: "-109.9576"
+  nearby_rate_centers:
+  - name: WHITERIVER
+    distance_km: 5.53
+  - name: HAWLEYLAKE
+    distance_km: 28.41
+  - name: MCNARY
+    distance_km: 32.4
+- country: US
+  region: AZ
+  name: Shongopovi
+  lat: '35.8195'
+  long: "-110.5331"
+  nearby_rate_centers:
+  - name: KYKTSMOVLG
+    distance_km: 9.81
+  - name: POLACCA
+    distance_km: 13.42
+  - name: KEAMSCNYON
+    distance_km: 31.04
+- country: US
+  region: AZ
+  name: Shonto
+  lat: '36.5893'
+  long: "-110.6607"
+  nearby_rate_centers:
+  - name: SHONTO
+    distance_km: 1.7
+  - name: BLACK MESA
+    distance_km: 26.38
+  - name: KAIBITO
+    distance_km: 37.03
+- country: US
+  region: AZ
+  name: Show Low
+  lat: '34.2671'
+  long: "-110.0384"
+  nearby_rate_centers:
+  - name: SHOW LOW
+    distance_km: 1.84
+  - name: PINETOP
+    distance_km: 18.36
+  - name: PINEDALE
+    distance_km: 19.91
+- country: US
+  region: AZ
+  name: Shumway
+  lat: '34.4145'
+  long: "-110.0649"
+  nearby_rate_centers:
+  - name: SNOWFLAKE
+    distance_km: 10.33
+  - name: SHOW LOW
+    distance_km: 18.4
+  - name: PINEDALE
+    distance_km: 20.53
+- country: US
+  region: AZ
+  name: Sierra Vista
+  lat: '31.5630'
+  long: "-110.3153"
+  nearby_rate_centers:
+  - name: SIERRAVIST
+    distance_km: 1.55
+  - name: TOMBSTONE
+    distance_km: 29.17
+  - name: BISBEE
+    distance_km: 40.19
+- country: US
+  region: AZ
+  name: Sierra Vista Southeast
+  lat: '31.4525'
+  long: "-110.2160"
+  nearby_rate_centers:
+  - name: SIERRAVIST
+    distance_km: 14.11
+  - name: BISBEE
+    distance_km: 28.46
+  - name: TOMBSTONE
+    distance_km: 32.61
+- country: US
+  region: AZ
+  name: Six Shooter Canyon
+  lat: '33.3569'
+  long: "-110.7719"
+  nearby_rate_centers:
+  - name: GLOBE
+    distance_km: 7.12
+  - name: MIAMI
+    distance_km: 10.8
+  - name: SAN CARLOS
+    distance_km: 29.72
+- country: US
+  region: AZ
+  name: Snowflake
+  lat: '34.5225'
+  long: "-110.0913"
+  nearby_rate_centers:
+  - name: SNOWFLAKE
+    distance_km: 2.28
+  - name: PINEDALE
+    distance_km: 27.74
+  - name: SHOW LOW
+    distance_km: 30.64
+- country: US
+  region: AZ
+  name: So-Hi
+  lat: '35.2527'
+  long: "-114.1415"
+  nearby_rate_centers:
+  - name: GOLDEN VLY
+    distance_km: 2.59
+  - name: KINGMAN
+    distance_km: 10.59
+  - name: E KINGMAN
+    distance_km: 12.69
+- country: US
+  region: AZ
+  name: Solomon
+  lat: '32.8138'
+  long: "-109.6290"
+  nearby_rate_centers:
+  - name: SAFFORD
+    distance_km: 7.8
+  - name: PIMA
+    distance_km: 20.37
+  - name: CLIFTON
+    distance_km: 37.4
+- country: US
+  region: AZ
+  name: Somerton
+  lat: '32.6007'
+  long: "-114.6994"
+  nearby_rate_centers:
+  - name: SOMERTON
+    distance_km: 2.05
+  - name: YUMA
+    distance_km: 14.71
+  - name: WELLTON
+    distance_km: 53.62
+- country: US
+  region: AZ
+  name: Sonoita
+  lat: '31.6646'
+  long: "-110.6427"
+  nearby_rate_centers:
+  - name: PATAGONIA
+    distance_km: 17.24
+  - name: SIERRAVIST
+    distance_km: 34.54
+  - name: VAIL
+    distance_km: 37.38
+- country: US
+  region: AZ
+  name: South Komelik
+  lat: '31.7144'
+  long: "-111.7744"
+  nearby_rate_centers:
+  - name: SELLS
+    distance_km: 24.22
+  - name: SASABE
+    distance_km: 30.07
+  - name: ROBLES
+    distance_km: 54.34
+- country: US
+  region: AZ
+  name: South Tucson
+  lat: '32.1955'
+  long: "-110.9692"
+  nearby_rate_centers:
+  - name: TUCSON
+    distance_km: 3.63
+  - name: VAIL
+    distance_km: 34.65
+  - name: GREEN VLY
+    distance_km: 34.89
+- country: US
+  region: AZ
+  name: Spring Valley
+  lat: '34.3452'
+  long: "-112.1592"
+  nearby_rate_centers:
+  - name: HUMBOLDT
+    distance_km: 18.35
+  - name: MILLSITE
+    distance_km: 25.32
+  - name: PRESCOTT
+    distance_km: 36.36
+- country: US
+  region: AZ
+  name: Springerville
+  lat: '34.1560'
+  long: "-109.2988"
+  nearby_rate_centers:
+  - name: SPRINGERVL
+    distance_km: 3.02
+  - name: GREER
+    distance_km: 20.34
+  - name: ALPINE
+    distance_km: 37.25
+- country: US
+  region: AZ
+  name: St. David
+  lat: '31.8958'
+  long: "-110.2224"
+  nearby_rate_centers:
+  - name: BENSON
+    distance_km: 11.32
+  - name: TOMBSTONE
+    distance_km: 24.9
+  - name: PEARCE
+    distance_km: 37.3
+- country: US
+  region: AZ
+  name: St. Johns
+  lat: '34.5018'
+  long: "-109.3784"
+  nearby_rate_centers:
+  - name: ST JOHNS
+    distance_km: 0.5
+  - name: SPRINGERVL
+    distance_km: 42.04
+  - name: GREER
+    distance_km: 54.09
+- country: US
+  region: AZ
+  name: St. Michaels
+  lat: '35.6606'
+  long: "-109.0962"
+  nearby_rate_centers:
+  - name: WINDOWROCK
+    distance_km: 3.82
+  - name: FTDEFIANCE
+    distance_km: 9.86
+  - name: GANADO
+    distance_km: 40.62
+- country: US
+  region: AZ
+  name: Stanfield
+  lat: '32.8794'
+  long: "-111.9636"
+  nearby_rate_centers:
+  - name: MARICOPA
+    distance_km: 20.55
+  - name: CASABLANCA
+    distance_km: 27.81
+  - name: CASAGRANDE
+    distance_km: 29.52
+- country: US
+  region: AZ
+  name: Star Valley
+  lat: '34.2611'
+  long: "-111.2197"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 10.89
+  - name: YOUNG
+    distance_km: 30.82
+  - name: BLUE RIDGE
+    distance_km: 37.78
+- country: US
+  region: AZ
+  name: Steamboat
+  lat: '35.7535'
+  long: "-109.8504"
+  nearby_rate_centers:
+  - name: TOYEI
+    distance_km: 7.08
+  - name: GREASEWOOD
+    distance_km: 25.68
+  - name: GANADO
+    distance_km: 28.26
+- country: US
+  region: AZ
+  name: Stotonic Village
+  lat: '33.1528'
+  long: "-111.8167"
+  nearby_rate_centers:
+  - name: STOTONIC
+    distance_km: 2.01
+  - name: CASABLANCA
+    distance_km: 7.41
+  - name: SACATON
+    distance_km: 11.08
+- country: US
+  region: AZ
+  name: Strawberry
+  lat: '34.4012'
+  long: "-111.5100"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 24.49
+  - name: CAMP VERDE
+    distance_km: 36.0
+  - name: BLUE RIDGE
+    distance_km: 37.17
+- country: US
+  region: AZ
+  name: Summerhaven
+  lat: '32.4416'
+  long: "-110.7766"
+  nearby_rate_centers:
+  - name: CORONADO
+    distance_km: 19.44
+  - name: SAN MANUEL
+    distance_km: 23.4
+  - name: TUCSON
+    distance_km: 29.68
+- country: US
+  region: AZ
+  name: Summit
+  lat: '32.0617'
+  long: "-110.9485"
+  nearby_rate_centers:
+  - name: TUCSON
+    distance_km: 18.57
+  - name: GREEN VLY
+    distance_km: 20.39
+  - name: VAIL
+    distance_km: 25.91
+- country: US
+  region: AZ
+  name: Sun City
+  lat: '33.6165'
+  long: "-112.2819"
+  nearby_rate_centers:
+  - name: PHOENIX
+    distance_km: 23.02
+  - name: SALT RIVER
+    distance_km: 23.02
+  - name: LKPLEASANT
+    distance_km: 25.77
+  - name: MARCOPAVLG
+    distance_km: 27.44
+- country: US
+  region: AZ
+  name: Sun City West
+  lat: '33.6695'
+  long: "-112.3573"
+  nearby_rate_centers:
+  - name: LKPLEASANT
+    distance_km: 22.0
+  - name: PHOENIX
+    distance_km: 31.76
+  - name: SALT RIVER
+    distance_km: 31.76
+  - name: MARCOPAVLG
+    distance_km: 35.04
+- country: US
+  region: AZ
+  name: Sun Lakes
+  lat: '33.2172'
+  long: "-111.8695"
+  nearby_rate_centers:
+  - name: STOTONIC
+    distance_km: 9.21
+  - name: CASABLANCA
+    distance_km: 10.81
+  - name: LONE BUTTE
+    distance_km: 11.69
+- country: US
+  region: AZ
+  name: Sun Valley
+  lat: '34.9834'
+  long: "-110.0374"
+  nearby_rate_centers:
+  - name: HOLBROOK
+    distance_km: 14.33
+  - name: JOSEPHCITY
+    distance_km: 27.12
+  - name: WINSLOW
+    distance_km: 43.89
+- country: US
+  region: AZ
+  name: Sunizona
+  lat: '31.8855'
+  long: "-109.6332"
+  nearby_rate_centers:
+  - name: SUNIZONA
+    distance_km: 2.49
+  - name: PEARCE
+    distance_km: 18.38
+  - name: ELFRIDA
+    distance_km: 23.8
+- country: US
+  region: AZ
+  name: Sunsites
+  lat: '31.9410'
+  long: "-109.8394"
+  nearby_rate_centers:
+  - name: PEARCE
+    distance_km: 4.87
+  - name: SUNIZONA
+    distance_km: 18.7
+  - name: TOMBSTONE
+    distance_km: 32.87
+- country: US
+  region: AZ
+  name: Sunwest
+  lat: '33.6510'
+  long: "-113.4091"
+  nearby_rate_centers:
+  - name: SALOME
+    distance_km: 24.47
+  - name: HARQUHLVLY
+    distance_km: 33.02
+  - name: AGUILA
+    distance_km: 39.13
+- country: US
+  region: AZ
+  name: Supai
+  lat: '36.2298'
+  long: "-112.6926"
+  nearby_rate_centers:
+  - name: SUPAI
+    distance_km: 1.2
+  - name: GRANDCNYON
+    distance_km: 52.88
+  - name: FREDONIA
+    distance_km: 81.58
+- country: US
+  region: AZ
+  name: Superior
+  lat: '33.2851'
+  long: "-111.1109"
+  nearby_rate_centers:
+  - name: SUPERIOR
+    distance_km: 1.98
+  - name: WHITLOW
+    distance_km: 24.17
+  - name: MIAMI
+    distance_km: 25.39
+- country: US
+  region: AZ
+  name: Surprise
+  lat: '33.6815'
+  long: "-112.4515"
+  nearby_rate_centers:
+  - name: LKPLEASANT
+    distance_km: 26.04
+  - name: MARCOPAVLG
+    distance_km: 40.09
+  - name: PHOENIX
+    distance_km: 40.27
+  - name: SALT RIVER
+    distance_km: 40.27
+- country: US
+  region: AZ
+  name: Sweet Water Village
+  lat: '33.1274'
+  long: "-111.8424"
+  nearby_rate_centers:
+  - name: CASABLANCA
+    distance_km: 4.18
+  - name: STOTONIC
+    distance_km: 5.59
+  - name: SACATON
+    distance_km: 10.96
+- country: US
+  region: AZ
+  name: Swift Trail Junction
+  lat: '32.7305'
+  long: "-109.7148"
+  nearby_rate_centers:
+  - name: SAFFORD
+    distance_km: 11.7
+  - name: PIMA
+    distance_km: 20.89
+  - name: BONITA
+    distance_km: 29.76
+- country: US
+  region: AZ
+  name: Tacna
+  lat: '32.7004'
+  long: "-113.9618"
+  nearby_rate_centers:
+  - name: WELLTON
+    distance_km: 16.38
+  - name: YUMA
+    distance_km: 61.88
+  - name: HYDER
+    distance_km: 67.34
+- country: US
+  region: AZ
+  name: Tanque Verde
+  lat: '32.2687'
+  long: "-110.7437"
+  nearby_rate_centers:
+  - name: TUCSON
+    distance_km: 21.39
+  - name: VAIL
+    distance_km: 30.52
+  - name: CASCABEL
+    distance_km: 33.75
+- country: US
+  region: AZ
+  name: Tat Momoli
+  lat: '32.6012'
+  long: "-111.8862"
+  nearby_rate_centers:
+  - name: SILVERBELL
+    distance_km: 16.78
+  - name: SANTA ROSA
+    distance_km: 32.23
+  - name: ELOY
+    distance_km: 35.4
+- country: US
+  region: AZ
+  name: Taylor
+  lat: '34.4393'
+  long: "-110.1018"
+  nearby_rate_centers:
+  - name: SNOWFLAKE
+    distance_km: 7.92
+  - name: PINEDALE
+    distance_km: 19.76
+  - name: SHOW LOW
+    distance_km: 21.85
+- country: US
+  region: AZ
+  name: Teec Nos Pos
+  lat: '36.9221'
+  long: "-109.0753"
+  nearby_rate_centers:
+  - name: TEECNOSPOS
+    distance_km: 2.91
+  - name: RED VALLEY
+    distance_km: 36.42
+  - name: ROCK POINT
+    distance_km: 53.63
+- country: US
+  region: AZ
+  name: Tees Toh
+  lat: '35.4849'
+  long: "-110.3989"
+  nearby_rate_centers:
+  - name: DILKON
+    distance_km: 14.08
+  - name: POLACCA
+    distance_km: 39.24
+  - name: KEAMSCNYON
+    distance_km: 41.58
+- country: US
+  region: AZ
+  name: Tempe
+  lat: '33.3881'
+  long: "-111.9319"
+  nearby_rate_centers:
+  - name: LONE BUTTE
+    distance_km: 11.61
+  - name: PHOENIX
+    distance_km: 20.49
+  - name: SALT RIVER
+    distance_km: 20.49
+  - name: KOMATKE
+    distance_km: 23.66
+- country: US
+  region: AZ
+  name: Thatcher
+  lat: '32.8323'
+  long: "-109.7595"
+  nearby_rate_centers:
+  - name: SAFFORD
+    distance_km: 4.79
+  - name: PIMA
+    distance_km: 9.19
+  - name: BONITA
+    distance_km: 34.51
+- country: US
+  region: AZ
+  name: Theba
+  lat: '32.9181'
+  long: "-112.8903"
+  nearby_rate_centers:
+  - name: GILA BEND
+    distance_km: 16.37
+  - name: HYDER
+    distance_km: 44.15
+  - name: AJO
+    distance_km: 60.38
+- country: US
+  region: AZ
+  name: Three Points
+  lat: '32.0596'
+  long: "-111.2866"
+  nearby_rate_centers:
+  - name: ROBLES
+    distance_km: 5.68
+  - name: GREEN VLY
+    distance_km: 33.88
+  - name: TUCSON
+    distance_km: 35.52
+- country: US
+  region: AZ
+  name: Timberline-Fernwood
+  lat: '35.3168'
+  long: "-111.5507"
+  nearby_rate_centers:
+  - name: FLAGSTAFF
+    distance_km: 15.47
+  - name: CAMERON
+    distance_km: 32.76
+  - name: MUNDS PARK
+    distance_km: 42.94
+- country: US
+  region: AZ
+  name: Tolani Lake
+  lat: '35.4310'
+  long: "-110.8431"
+  nearby_rate_centers:
+  - name: LEUPP
+    distance_km: 20.63
+  - name: DILKON
+    distance_km: 47.54
+  - name: KYKTSMOVLG
+    distance_km: 53.24
+- country: US
+  region: AZ
+  name: Tolleson
+  lat: '33.4484'
+  long: "-112.2560"
+  nearby_rate_centers:
+  - name: MARCOPAVLG
+    distance_km: 8.72
+  - name: KOMATKE
+    distance_km: 19.72
+  - name: PHOENIX
+    distance_km: 21.96
+  - name: SALT RIVER
+    distance_km: 21.96
+- country: US
+  region: AZ
+  name: Tombstone
+  lat: '31.7234'
+  long: "-110.0798"
+  nearby_rate_centers:
+  - name: TOMBSTONE
+    distance_km: 1.6
+  - name: SIERRAVIST
+    distance_km: 27.92
+  - name: PEARCE
+    distance_km: 30.78
+- country: US
+  region: AZ
+  name: Tonalea
+  lat: '36.3218'
+  long: "-110.9667"
+  nearby_rate_centers:
+  - name: KAIBITO
+    distance_km: 31.96
+  - name: TUBA CITY
+    distance_km: 33.14
+  - name: SHONTO
+    distance_km: 41.91
+- country: US
+  region: AZ
+  name: Tonopah
+  lat: '33.4880'
+  long: "-112.9308"
+  nearby_rate_centers:
+  - name: HARQUHLVLY
+    distance_km: 21.11
+  - name: AGUILA
+    distance_km: 55.31
+  - name: GILA BEND
+    distance_km: 63.9
+- country: US
+  region: AZ
+  name: Tonto Basin
+  lat: '33.8370'
+  long: "-111.2999"
+  nearby_rate_centers:
+  - name: TONTOBASIN
+    distance_km: 1.43
+  - name: ROOSEVLTLK
+    distance_km: 23.87
+  - name: YOUNG
+    distance_km: 43.56
+- country: US
+  region: AZ
+  name: Tonto Village
+  lat: '34.3198'
+  long: "-111.1394"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 20.19
+  - name: YOUNG
+    distance_km: 30.23
+  - name: BLUE RIDGE
+    distance_km: 31.37
+- country: US
+  region: AZ
+  name: Top-of-the-World
+  lat: '33.3477'
+  long: "-110.9997"
+  nearby_rate_centers:
+  - name: SUPERIOR
+    distance_km: 11.07
+  - name: MIAMI
+    distance_km: 12.97
+  - name: GLOBE
+    distance_km: 16.54
+- country: US
+  region: AZ
+  name: Topawa
+  lat: '31.8078'
+  long: "-111.8305"
+  nearby_rate_centers:
+  - name: SELLS
+    distance_km: 12.59
+  - name: SASABE
+    distance_km: 40.39
+  - name: ROBLES
+    distance_km: 52.8
+- country: US
+  region: AZ
+  name: Topock
+  lat: '34.7200'
+  long: "-114.4789"
+  nearby_rate_centers:
+  - name: AZ VILLAGE
+    distance_km: 17.63
+  - name: CASTLEROCK
+    distance_km: 21.87
+  - name: MOHAVE VLY
+    distance_km: 25.4
+- country: US
+  region: AZ
+  name: Toyei
+  lat: '35.7043'
+  long: "-109.9371"
+  nearby_rate_centers:
+  - name: TOYEI
+    distance_km: 2.5
+  - name: GREASEWOOD
+    distance_km: 21.49
+  - name: KEAMSCNYON
+    distance_km: 25.97
+- country: US
+  region: AZ
+  name: Truxton
+  lat: '35.4870'
+  long: "-113.5607"
+  nearby_rate_centers:
+  - name: PEACH SPG
+    distance_km: 0.19
+  - name: E KINGMAN
+    distance_km: 47.63
+  - name: KINGMAN
+    distance_km: 55.31
+- country: US
+  region: AZ
+  name: Tsaile
+  lat: '36.3033'
+  long: "-109.2157"
+  nearby_rate_centers:
+  - name: TSAILE
+    distance_km: 2.72
+  - name: LUKACHUKAI
+    distance_km: 12.53
+  - name: CHINLE
+    distance_km: 34.52
+- country: US
+  region: AZ
+  name: Tuba City
+  lat: '36.1250'
+  long: "-111.2467"
+  nearby_rate_centers:
+  - name: TUBA CITY
+    distance_km: 0.89
+  - name: KAIBITO
+    distance_km: 54.54
+  - name: CAMERON
+    distance_km: 62.4
+- country: US
+  region: AZ
+  name: Tubac
+  lat: '31.6111'
+  long: "-111.0586"
+  nearby_rate_centers:
+  - name: TUBAC
+    distance_km: 0.72
+  - name: PATAGONIA
+    distance_km: 29.59
+  - name: GREEN VLY
+    distance_km: 30.78
+- country: US
+  region: AZ
+  name: Tucson
+  lat: '32.1541'
+  long: "-110.8787"
+  nearby_rate_centers:
+  - name: TUCSON
+    distance_km: 11.62
+  - name: VAIL
+    distance_km: 25.2
+  - name: GREEN VLY
+    distance_km: 32.11
+- country: US
+  region: AZ
+  name: Tucson Estates
+  lat: '32.1792'
+  long: "-111.1266"
+  nearby_rate_centers:
+  - name: TUCSON
+    distance_km: 16.05
+  - name: ROBLES
+    distance_km: 25.71
+  - name: MARANA
+    distance_km: 31.97
+- country: US
+  region: AZ
+  name: Tucson Mountains
+  lat: '32.2822'
+  long: "-111.0773"
+  nearby_rate_centers:
+  - name: TUCSON
+    distance_km: 12.07
+  - name: MARANA
+    distance_km: 23.2
+  - name: CORONADO
+    distance_km: 33.59
+- country: US
+  region: AZ
+  name: Tumacacori-Carmen
+  lat: '31.5771'
+  long: "-111.0468"
+  nearby_rate_centers:
+  - name: TUBAC
+    distance_km: 3.6
+  - name: PATAGONIA
+    distance_km: 27.76
+  - name: NOGALES
+    distance_km: 28.36
+- country: US
+  region: AZ
+  name: Turkey Creek
+  lat: '33.8011'
+  long: "-109.9461"
+  nearby_rate_centers:
+  - name: WHITERIVER
+    distance_km: 4.45
+  - name: HAWLEYLAKE
+    distance_km: 26.64
+  - name: MCNARY
+    distance_km: 30.73
+- country: US
+  region: AZ
+  name: Tusayan
+  lat: '35.9549'
+  long: "-112.1202"
+  nearby_rate_centers:
+  - name: GRANDCNYON
+    distance_km: 11.78
+  - name: SUPAI
+    distance_km: 59.14
+  - name: CAMERON
+    distance_km: 66.05
+- country: US
+  region: AZ
+  name: Upper Santan Village
+  lat: '33.1152'
+  long: "-111.7419"
+  nearby_rate_centers:
+  - name: SACATON
+    distance_km: 4.53
+  - name: STOTONIC
+    distance_km: 7.22
+  - name: CASABLANCA
+    distance_km: 13.5
+- country: US
+  region: AZ
+  name: Utting
+  lat: '33.8544'
+  long: "-113.9129"
+  nearby_rate_centers:
+  - name: BOUSE
+    distance_km: 12.29
+  - name: SALOME
+    distance_km: 28.26
+  - name: QUARTZSITE
+    distance_km: 34.89
+- country: US
+  region: AZ
+  name: Vail
+  lat: '32.0217'
+  long: "-110.6937"
+  nearby_rate_centers:
+  - name: VAIL
+    distance_km: 2.7
+  - name: GREEN VLY
+    distance_km: 32.31
+  - name: TUCSON
+    distance_km: 34.41
+- country: US
+  region: AZ
+  name: Vaiva Vo
+  lat: '32.7167'
+  long: "-111.9269"
+  nearby_rate_centers:
+  - name: SILVERBELL
+    distance_km: 27.01
+  - name: CASAGRANDE
+    distance_km: 35.12
+  - name: ELOY
+    distance_km: 35.36
+- country: US
+  region: AZ
+  name: Valencia West
+  lat: '32.1355'
+  long: "-111.1123"
+  nearby_rate_centers:
+  - name: TUCSON
+    distance_km: 17.19
+  - name: ROBLES
+    distance_km: 24.13
+  - name: GREEN VLY
+    distance_km: 30.26
+- country: US
+  region: AZ
+  name: Valentine
+  lat: '35.3886'
+  long: "-113.6591"
+  nearby_rate_centers:
+  - name: PEACH SPG
+    distance_km: 14.11
+  - name: E KINGMAN
+    distance_km: 34.49
+  - name: KINGMAN
+    distance_km: 41.8
+- country: US
+  region: AZ
+  name: Valle
+  lat: '35.6598'
+  long: "-112.1637"
+  nearby_rate_centers:
+  - name: GRANDCNYON
+    distance_km: 44.45
+  - name: WILLIAMS
+    distance_km: 45.56
+  - name: ASH FORK
+    distance_km: 56.4
+- country: US
+  region: AZ
+  name: Valle Vista
+  lat: '35.4109'
+  long: "-113.8627"
+  nearby_rate_centers:
+  - name: E KINGMAN
+    distance_km: 21.51
+  - name: PEACH SPG
+    distance_km: 28.74
+  - name: KINGMAN
+    distance_km: 29.77
+- country: US
+  region: AZ
+  name: Ventana
+  lat: '32.4681'
+  long: "-112.2434"
+  nearby_rate_centers:
+  - name: SANTA ROSA
+    distance_km: 21.91
+  - name: W SANSIMON
+    distance_km: 34.41
+  - name: SILVERBELL
+    distance_km: 50.06
+- country: US
+  region: AZ
+  name: Verde Village
+  lat: '34.7119'
+  long: "-111.9941"
+  nearby_rate_centers:
+  - name: COTTONWOOD
+    distance_km: 3.94
+  - name: SEDONA
+    distance_km: 11.28
+  - name: CAMP VERDE
+    distance_km: 21.05
+- country: US
+  region: AZ
+  name: Vernon
+  lat: '34.2508'
+  long: "-109.6926"
+  nearby_rate_centers:
+  - name: MCNARY
+    distance_km: 25.19
+  - name: PINETOP
+    distance_km: 26.22
+  - name: HAWLEYLAKE
+    distance_km: 30.76
+- country: US
+  region: AZ
+  name: Vicksburg
+  lat: '33.7293'
+  long: "-113.8255"
+  nearby_rate_centers:
+  - name: SALOME
+    distance_km: 20.14
+  - name: BOUSE
+    distance_km: 28.12
+  - name: QUARTZSITE
+    distance_km: 36.7
+- country: US
+  region: AZ
+  name: Village of Oak Creek
+  lat: '34.7813'
+  long: "-111.7606"
+  nearby_rate_centers:
+  - name: SEDONA
+    distance_km: 11.9
+  - name: MUNDS PARK
+    distance_km: 20.37
+  - name: COTTONWOOD
+    distance_km: 23.66
+- country: US
+  region: AZ
+  name: Wagon Wheel
+  lat: '34.1976'
+  long: "-110.0272"
+  nearby_rate_centers:
+  - name: SHOW LOW
+    distance_km: 5.98
+  - name: PINETOP
+    distance_km: 11.66
+  - name: MCNARY
+    distance_km: 21.88
+- country: US
+  region: AZ
+  name: Wahak Hotrontk
+  lat: '32.1748'
+  long: "-112.3664"
+  nearby_rate_centers:
+  - name: W SANSIMON
+    distance_km: 3.5
+  - name: SANTA ROSA
+    distance_km: 35.0
+  - name: AJO
+    distance_km: 52.25
+- country: US
+  region: AZ
+  name: Wall Lane
+  lat: '32.6573'
+  long: "-114.7105"
+  nearby_rate_centers:
+  - name: SOMERTON
+    distance_km: 7.95
+  - name: YUMA
+    distance_km: 10.5
+  - name: WELLTON
+    distance_km: 54.16
+- country: US
+  region: AZ
+  name: Walnut Creek
+  lat: '35.1312'
+  long: "-114.1267"
+  nearby_rate_centers:
+  - name: KINGMAN
+    distance_km: 9.61
+  - name: GOLDEN VLY
+    distance_km: 11.56
+  - name: E KINGMAN
+    distance_km: 17.78
+- country: US
+  region: AZ
+  name: Washington Park
+  lat: '34.3978'
+  long: "-111.2731"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 18.88
+  - name: BLUE RIDGE
+    distance_km: 23.89
+  - name: YOUNG
+    distance_km: 44.7
+- country: US
+  region: AZ
+  name: Wellton
+  lat: '32.6401'
+  long: "-114.2152"
+  nearby_rate_centers:
+  - name: WELLTON
+    distance_km: 8.31
+  - name: YUMA
+    distance_km: 39.09
+  - name: SOMERTON
+    distance_km: 44.03
+- country: US
+  region: AZ
+  name: Wellton Hills
+  lat: '32.6231'
+  long: "-114.1453"
+  nearby_rate_centers:
+  - name: WELLTON
+    distance_km: 4.95
+  - name: YUMA
+    distance_km: 45.89
+  - name: SOMERTON
+    distance_km: 50.36
+- country: US
+  region: AZ
+  name: Wenden
+  lat: '33.8324'
+  long: "-113.5432"
+  nearby_rate_centers:
+  - name: SALOME
+    distance_km: 8.69
+  - name: AGUILA
+    distance_km: 36.35
+  - name: BOUSE
+    distance_km: 44.29
+- country: US
+  region: AZ
+  name: Wet Camp Village
+  lat: '33.1413'
+  long: "-111.9004"
+  nearby_rate_centers:
+  - name: CASABLANCA
+    distance_km: 2.59
+  - name: STOTONIC
+    distance_km: 9.84
+  - name: SACATON
+    distance_km: 16.42
+- country: US
+  region: AZ
+  name: Wheatfields
+  lat: '33.4805'
+  long: "-110.8366"
+  nearby_rate_centers:
+  - name: GLOBE
+    distance_km: 9.3
+  - name: MIAMI
+    distance_km: 9.54
+  - name: SUPERIOR
+    distance_km: 32.2
+- country: US
+  region: AZ
+  name: Whetstone
+  lat: '31.7258'
+  long: "-110.2746"
+  nearby_rate_centers:
+  - name: SIERRAVIST
+    distance_km: 18.94
+  - name: TOMBSTONE
+    distance_km: 19.84
+  - name: BENSON
+    distance_km: 27.81
+- country: US
+  region: AZ
+  name: Whispering Pines
+  lat: '34.3728'
+  long: "-111.2813"
+  nearby_rate_centers:
+  - name: PAYSON
+    distance_km: 16.0
+  - name: BLUE RIDGE
+    distance_km: 26.76
+  - name: YOUNG
+    distance_km: 43.21
+- country: US
+  region: AZ
+  name: White Hills
+  lat: '35.7242'
+  long: "-114.4004"
+  nearby_rate_centers:
+  - name: LKMHVRNCHS
+    distance_km: 18.43
+  - name: MEADVIEW
+    distance_km: 42.53
+  - name: GOLDEN VLY
+    distance_km: 59.0
+- country: US
+  region: AZ
+  name: White Mountain Lake
+  lat: '34.3441'
+  long: "-109.9878"
+  nearby_rate_centers:
+  - name: SHOW LOW
+    distance_km: 11.14
+  - name: SNOWFLAKE
+    distance_km: 19.8
+  - name: PINEDALE
+    distance_km: 24.28
+- country: US
+  region: AZ
+  name: Whitecone
+  lat: '35.6037'
+  long: "-110.0791"
+  nearby_rate_centers:
+  - name: TOYEI
+    distance_km: 19.46
+  - name: GREASEWOOD
+    distance_km: 22.11
+  - name: KEAMSCNYON
+    distance_km: 25.77
+- country: US
+  region: AZ
+  name: Whiteriver
+  lat: '33.8358'
+  long: "-109.9616"
+  nearby_rate_centers:
+  - name: WHITERIVER
+    distance_km: 0.44
+  - name: HAWLEYLAKE
+    distance_km: 25.01
+  - name: MCNARY
+    distance_km: 27.55
+- country: US
+  region: AZ
+  name: Why
+  lat: '32.2590'
+  long: "-112.7307"
+  nearby_rate_centers:
+  - name: AJO
+    distance_km: 18.34
+  - name: W SANSIMON
+    distance_km: 32.09
+  - name: SANTA ROSA
+    distance_km: 64.13
+- country: US
+  region: AZ
+  name: Wickenburg
+  lat: '33.9837'
+  long: "-112.7669"
+  nearby_rate_centers:
+  - name: WICKENBURG
+    distance_km: 12.81
+  - name: YARNELL
+    distance_km: 26.92
+  - name: AGUILA
+    distance_km: 37.69
+- country: US
+  region: AZ
+  name: Wide Ruins
+  lat: '35.4176'
+  long: "-109.4994"
+  nearby_rate_centers:
+  - name: WIDE RUINS
+    distance_km: 0.97
+  - name: SANDERS
+    distance_km: 27.13
+  - name: GANADO
+    distance_km: 33.3
+- country: US
+  region: AZ
+  name: Wikieup
+  lat: '34.6931'
+  long: "-113.5995"
+  nearby_rate_centers:
+  - name: WIKIEUP
+    distance_km: 4.3
+  - name: BAGDAD
+    distance_km: 37.88
+  - name: YUCCA
+    distance_km: 54.07
+- country: US
+  region: AZ
+  name: Wilhoit
+  lat: '34.4082'
+  long: "-112.6156"
+  nearby_rate_centers:
+  - name: MILLSITE
+    distance_km: 18.75
+  - name: PRESCOTT
+    distance_km: 19.87
+  - name: YARNELL
+    distance_km: 23.68
+- country: US
+  region: AZ
+  name: Willcox
+  lat: '32.2515'
+  long: "-109.8359"
+  nearby_rate_centers:
+  - name: WILLCOX
+    distance_km: 0.47
+  - name: BOWIE
+    distance_km: 33.94
+  - name: PEARCE
+    distance_km: 39.27
+- country: US
+  region: AZ
+  name: Williams
+  lat: '35.2476'
+  long: "-112.1834"
+  nearby_rate_centers:
+  - name: WILLIAMS
+    distance_km: 0.31
+  - name: ASH FORK
+    distance_km: 27.29
+  - name: FLAGSTAFF
+    distance_km: 48.61
+- country: US
+  region: AZ
+  name: Williamson
+  lat: '34.7082'
+  long: "-112.5343"
+  nearby_rate_centers:
+  - name: CHINO VLY
+    distance_km: 8.26
+  - name: PRESCOTT
+    distance_km: 19.1
+  - name: MILLSITE
+    distance_km: 32.48
+- country: US
+  region: AZ
+  name: Willow Canyon
+  lat: '32.3881'
+  long: "-110.7010"
+  nearby_rate_centers:
+  - name: SAN MANUEL
+    distance_km: 25.61
+  - name: CORONADO
+    distance_km: 28.69
+  - name: TUCSON
+    distance_km: 30.61
+- country: US
+  region: AZ
+  name: Willow Valley
+  lat: '34.9296'
+  long: "-114.6159"
+  nearby_rate_centers:
+  - name: MOHAVE VLY
+    distance_km: 1.37
+  - name: MESQUITCRK
+    distance_km: 5.5
+  - name: AZ VILLAGE
+    distance_km: 9.06
+- country: US
+  region: AZ
+  name: Window Rock
+  lat: '35.6705'
+  long: "-109.0639"
+  nearby_rate_centers:
+  - name: WINDOWROCK
+    distance_km: 0.83
+  - name: FTDEFIANCE
+    distance_km: 8.84
+  - name: GANADO
+    distance_km: 43.36
+- country: US
+  region: AZ
+  name: Winkelman
+  lat: '32.9853'
+  long: "-110.7651"
+  nearby_rate_centers:
+  - name: HAYDEN
+    distance_km: 2.98
+  - name: SAN MANUEL
+    distance_km: 43.74
+  - name: SUPERIOR
+    distance_km: 44.8
+- country: US
+  region: AZ
+  name: Winslow
+  lat: '35.0243'
+  long: "-110.7095"
+  nearby_rate_centers:
+  - name: WINSLOW
+    distance_km: 17.74
+  - name: JOSEPHCITY
+    distance_km: 35.02
+  - name: LEUPP
+    distance_km: 40.53
+- country: US
+  region: AZ
+  name: Winslow West
+  lat: '34.9918'
+  long: "-110.7069"
+  nearby_rate_centers:
+  - name: WINSLOW
+    distance_km: 17.11
+  - name: JOSEPHCITY
+    distance_km: 34.22
+  - name: LEUPP
+    distance_km: 43.47
+- country: US
+  region: AZ
+  name: Wintersburg
+  lat: '33.4187'
+  long: "-112.8666"
+  nearby_rate_centers:
+  - name: HARQUHLVLY
+    distance_km: 26.69
+  - name: GILA BEND
+    distance_km: 54.82
+  - name: MARCOPAVLG
+    distance_km: 59.76
+- country: US
+  region: AZ
+  name: Wittmann
+  lat: '33.7749'
+  long: "-112.5250"
+  nearby_rate_centers:
+  - name: LKPLEASANT
+    distance_km: 26.44
+  - name: WICKENBURG
+    distance_km: 41.07
+  - name: PHOENIX
+    distance_km: 50.97
+  - name: SALT RIVER
+    distance_km: 50.97
+- country: US
+  region: AZ
+  name: Woodruff
+  lat: '34.7843'
+  long: "-110.0366"
+  nearby_rate_centers:
+  - name: HOLBROOK
+    distance_km: 16.8
+  - name: SNOWFLAKE
+    distance_km: 31.03
+  - name: JOSEPHCITY
+    distance_km: 33.3
+- country: US
+  region: AZ
+  name: Yarnell
+  lat: '34.2282'
+  long: "-112.7631"
+  nearby_rate_centers:
+  - name: YARNELL
+    distance_km: 1.46
+  - name: WICKENBURG
+    distance_km: 14.7
+  - name: MILLSITE
+    distance_km: 39.39
+- country: US
+  region: AZ
+  name: York
+  lat: '32.9175'
+  long: "-109.1960"
+  nearby_rate_centers:
+  - name: YORKVALLEY
+    distance_km: 0.89
+  - name: CLIFTON
+    distance_km: 17.84
+  - name: DUNCAN
+    distance_km: 23.14
+- country: US
+  region: AZ
+  name: Young
+  lat: '34.1189'
+  long: "-110.9559"
+  nearby_rate_centers:
+  - name: YOUNG
+    distance_km: 2.36
+  - name: PAYSON
+    distance_km: 37.13
+  - name: TONTOBASIN
+    distance_km: 43.47
+- country: US
+  region: AZ
+  name: Youngtown
+  lat: '33.5846'
+  long: "-112.3048"
+  nearby_rate_centers:
+  - name: PHOENIX
+    distance_km: 24.12
+  - name: SALT RIVER
+    distance_km: 24.12
+  - name: MARCOPAVLG
+    distance_km: 24.52
+  - name: LKPLEASANT
+    distance_km: 29.58
+- country: US
+  region: AZ
+  name: Yucca
+  lat: '34.8629'
+  long: "-114.1461"
+  nearby_rate_centers:
+  - name: YUCCA
+    distance_km: 1.36
+  - name: KINGMAN
+    distance_km: 37.6
+  - name: CASTLEROCK
+    distance_km: 38.79
+- country: US
+  region: AZ
+  name: Yuma
+  lat: '32.5995'
+  long: "-114.5491"
+  nearby_rate_centers:
+  - name: SOMERTON
+    distance_km: 12.45
+  - name: YUMA
+    distance_km: 14.71
+  - name: WELLTON
+    distance_km: 39.75
+- country: US
+  region: AZ
+  name: Yuma Proving Ground
+  lat: '32.8652'
+  long: "-114.4369"
+  nearby_rate_centers:
+  - name: YUMA
+    distance_km: 24.01
+  - name: WELLTON
+    distance_km: 36.08
+  - name: SOMERTON
+    distance_km: 38.21

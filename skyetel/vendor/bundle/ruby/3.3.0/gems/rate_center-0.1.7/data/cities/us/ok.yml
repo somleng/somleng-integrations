@@ -1,0 +1,10092 @@
+---
+cities:
+- country: US
+  region: OK
+  name: Achille
+  lat: '33.8346'
+  long: "-96.3901"
+  nearby_rate_centers:
+  - name: ACHILLE
+    distance_km: 0.41
+  - name: KEMP
+    distance_km: 7.98
+  - name: COLBERT
+    distance_km: 10.41
+- country: US
+  region: OK
+  name: Ada
+  lat: '34.7662'
+  long: "-96.6681"
+  nearby_rate_centers:
+  - name: ADA
+    distance_km: 0.83
+  - name: FITTSTOWN
+    distance_km: 16.7
+  - name: STONEWALL
+    distance_km: 18.45
+- country: US
+  region: OK
+  name: Adair
+  lat: '36.4365'
+  long: "-95.2734"
+  nearby_rate_centers:
+  - name: ADAIR
+    distance_km: 0.99
+  - name: BIG CABIN
+    distance_km: 12.78
+  - name: STRANG
+    distance_km: 12.84
+- country: US
+  region: OK
+  name: Adams
+  lat: '36.7546'
+  long: "-101.0752"
+  nearby_rate_centers:
+  - name: ADAMS
+    distance_km: 0.99
+  - name: HOOKER
+    distance_km: 16.91
+  - name: TYRONE
+    distance_km: 17.62
+- country: US
+  region: OK
+  name: Adamson
+  lat: '34.9243'
+  long: "-95.5474"
+  nearby_rate_centers:
+  - name: HARTSHORNE
+    distance_km: 8.9
+  - name: MCALESTER
+    distance_km: 20.12
+  - name: WILBURTON
+    distance_km: 21.56
+- country: US
+  region: OK
+  name: Addington
+  lat: '34.2431'
+  long: "-97.9661"
+  nearby_rate_centers:
+  - name: WAURIKA
+    distance_km: 8.81
+  - name: HASTINGS
+    distance_km: 13.1
+  - name: COMANCHE
+    distance_km: 13.9
+- country: US
+  region: OK
+  name: Afton
+  lat: '36.6965'
+  long: "-94.9575"
+  nearby_rate_centers:
+  - name: AFTON
+    distance_km: 0.31
+  - name: FAIRLAND
+    distance_km: 11.46
+  - name: BLUEJACKET
+    distance_km: 15.4
+- country: US
+  region: OK
+  name: Agra
+  lat: '35.8950'
+  long: "-96.8703"
+  nearby_rate_centers:
+  - name: AGRA
+    distance_km: 0.76
+  - name: TRYON
+    distance_km: 9.27
+  - name: CUSHING
+    distance_km: 12.69
+- country: US
+  region: OK
+  name: Akins
+  lat: '35.5043'
+  long: "-94.6700"
+  nearby_rate_centers:
+  - name: SALLISAW
+    distance_km: 12.01
+  - name: SALLISAW (DIAMONDNET)
+    distance_km: 12.01
+  - name: MULDROW
+    distance_km: 12.55
+  - name: WUNIONTOWN
+    distance_km: 19.89
+- country: US
+  region: OK
+  name: Albany
+  lat: '33.8769'
+  long: "-96.1600"
+  nearby_rate_centers:
+  - name: YUBA
+    distance_km: 8.14
+  - name: BOKCHITO
+    distance_km: 15.8
+  - name: BENNINGTON
+    distance_km: 20.25
+- country: US
+  region: OK
+  name: Albion
+  lat: '34.6622'
+  long: "-95.0993"
+  nearby_rate_centers:
+  - name: ALBION
+    distance_km: 0.63
+  - name: TALIHINA
+    distance_km: 10.92
+  - name: BUFFALOVLY
+    distance_km: 15.88
+- country: US
+  region: OK
+  name: Alderson
+  lat: '34.9006'
+  long: "-95.6896"
+  nearby_rate_centers:
+  - name: MCALESTER
+    distance_km: 7.98
+  - name: HARTSHORNE
+    distance_km: 13.48
+  - name: SAVANNA
+    distance_km: 15.12
+- country: US
+  region: OK
+  name: Alex
+  lat: '34.9228'
+  long: "-97.7763"
+  nearby_rate_centers:
+  - name: ALEX
+    distance_km: 0.64
+  - name: BRADLEY
+    distance_km: 7.95
+  - name: DIBBLE
+    distance_km: 18.05
+- country: US
+  region: OK
+  name: Aline
+  lat: '36.5097'
+  long: "-98.4485"
+  nearby_rate_centers:
+  - name: ALINE
+    distance_km: 0.53
+  - name: CARMEN
+    distance_km: 8.13
+  - name: CLEO SPG
+    distance_km: 11.21
+- country: US
+  region: OK
+  name: Allen
+  lat: '34.8776'
+  long: "-96.4129"
+  nearby_rate_centers:
+  - name: ALLEN
+    distance_km: 0.15
+  - name: ATWOOD
+    distance_km: 11.32
+  - name: SASAKWA
+    distance_km: 13.15
+- country: US
+  region: OK
+  name: Altus
+  lat: '34.6565'
+  long: "-99.3061"
+  nearby_rate_centers:
+  - name: ALTUS
+    distance_km: 3.21
+  - name: MARTHA
+    distance_km: 10.94
+  - name: BLAIR
+    distance_km: 14.34
+- country: US
+  region: OK
+  name: Alva
+  lat: '36.7895'
+  long: "-98.6649"
+  nearby_rate_centers:
+  - name: ALVA
+    distance_km: 1.27
+  - name: HOPETON
+    distance_km: 11.96
+  - name: CAPRON
+    distance_km: 14.12
+- country: US
+  region: OK
+  name: Amber
+  lat: '35.1602'
+  long: "-97.8820"
+  nearby_rate_centers:
+  - name: POCASSET
+    distance_km: 7.75
+  - name: CHICKASHA
+    distance_km: 13.28
+  - name: TUTTLE
+    distance_km: 16.06
+- country: US
+  region: OK
+  name: Ames
+  lat: '36.2470'
+  long: "-98.1861"
+  nearby_rate_centers:
+  - name: AMES
+    distance_km: 1.37
+  - name: DRUMMOND
+    distance_km: 14.52
+  - name: MENO
+    distance_km: 14.94
+- country: US
+  region: OK
+  name: Amorita
+  lat: '36.9240'
+  long: "-98.2936"
+  nearby_rate_centers:
+  - name: BYRON
+    distance_km: 2.55
+  - name: SO WALDRON
+    distance_km: 11.01
+  - name: BURLINGTON
+    distance_km: 11.28
+- country: US
+  region: OK
+  name: Anadarko
+  lat: '35.0650'
+  long: "-98.2443"
+  nearby_rate_centers:
+  - name: ANADARKO
+    distance_km: 1.06
+  - name: VERDEN
+    distance_km: 14.11
+  - name: GRACEMONT
+    distance_km: 14.18
+- country: US
+  region: OK
+  name: Antlers
+  lat: '34.2329'
+  long: "-95.6229"
+  nearby_rate_centers:
+  - name: ANTLERS
+    distance_km: 0.24
+  - name: RATTAN
+    distance_km: 19.48
+  - name: SOPER
+    distance_km: 23.15
+- country: US
+  region: OK
+  name: Apache
+  lat: '34.8937'
+  long: "-98.3584"
+  nearby_rate_centers:
+  - name: APACHE
+    distance_km: 0.96
+  - name: FLETCHER
+    distance_km: 13.8
+  - name: CYRIL
+    distance_km: 14.35
+- country: US
+  region: OK
+  name: Arapaho
+  lat: '35.5778'
+  long: "-98.9592"
+  nearby_rate_centers:
+  - name: CLINTON
+    distance_km: 7.01
+  - name: CUSTERCITY
+    distance_km: 12.16
+  - name: BESSIE
+    distance_km: 21.74
+- country: US
+  region: OK
+  name: Arcadia
+  lat: '35.6655'
+  long: "-97.3255"
+  nearby_rate_centers:
+  - name: ARCADIA
+    distance_km: 0.25
+  - name: JONES
+    distance_km: 11.55
+  - name: LUTHER
+    distance_km: 12.09
+- country: US
+  region: OK
+  name: Ardmore
+  lat: '34.1949'
+  long: "-97.1256"
+  nearby_rate_centers:
+  - name: ARDMORE
+    distance_km: 2.18
+  - name: LONE GROVE
+    distance_km: 12.26
+  - name: GENE AUTRY
+    distance_km: 12.69
+- country: US
+  region: OK
+  name: Arkoma
+  lat: '35.3374'
+  long: "-94.4438"
+  nearby_rate_centers:
+  - name: MOFFETT
+    distance_km: 5.82
+  - name: CEDARS
+    distance_km: 6.85
+  - name: POCOLA
+    distance_km: 9.29
+- country: US
+  region: OK
+  name: Armstrong
+  lat: '34.0528'
+  long: "-96.3448"
+  nearby_rate_centers:
+  - name: DURANT
+    distance_km: 7.13
+  - name: CADDO
+    distance_km: 10.65
+  - name: CALERA
+    distance_km: 15.54
+- country: US
+  region: OK
+  name: Arnett
+  lat: '36.1345'
+  long: "-99.7727"
+  nearby_rate_centers:
+  - name: ARNETT
+    distance_km: 0.57
+  - name: SHATTUCK
+    distance_km: 17.5
+  - name: HARMON
+    distance_km: 19.77
+- country: US
+  region: OK
+  name: Arpelar
+  lat: '34.9356'
+  long: "-95.9589"
+  nearby_rate_centers:
+  - name: ARPELAR
+    distance_km: 1.73
+  - name: SCIPIO
+    distance_km: 12.85
+  - name: STUART
+    distance_km: 13.25
+- country: US
+  region: OK
+  name: Asher
+  lat: '34.9884'
+  long: "-96.9254"
+  nearby_rate_centers:
+  - name: ASHER
+    distance_km: 0.43
+  - name: PEARSON
+    distance_km: 9.61
+  - name: WANETTE
+    distance_km: 10.18
+- country: US
+  region: OK
+  name: Ashland
+  lat: '34.7668'
+  long: "-96.0706"
+  nearby_rate_centers:
+  - name: ASHLAND
+    distance_km: 0.18
+  - name: WARDVILLE
+    distance_km: 13.65
+  - name: STUART
+    distance_km: 15.14
+- country: US
+  region: OK
+  name: Atoka
+  lat: '34.3860'
+  long: "-96.1317"
+  nearby_rate_centers:
+  - name: ATOKA
+    distance_km: 0.49
+  - name: STRINGTOWN
+    distance_km: 11.85
+  - name: COALGATE
+    distance_km: 18.92
+- country: US
+  region: OK
+  name: Atwood
+  lat: '34.9549'
+  long: "-96.3367"
+  nearby_rate_centers:
+  - name: ATWOOD
+    distance_km: 0.28
+  - name: CALVIN
+    distance_km: 8.21
+  - name: ALLEN
+    distance_km: 10.94
+- country: US
+  region: OK
+  name: Avant
+  lat: '36.4888'
+  long: "-96.0450"
+  nearby_rate_centers:
+  - name: AVANT
+    distance_km: 2.17
+  - name: RAMONA
+    distance_km: 12.54
+  - name: BARNSDALL
+    distance_km: 13.15
+- country: US
+  region: OK
+  name: Avard
+  lat: '36.6973'
+  long: "-98.7893"
+  nearby_rate_centers:
+  - name: HOPETON
+    distance_km: 10.88
+  - name: WAYNOKA
+    distance_km: 14.92
+  - name: ALVA
+    distance_km: 15.8
+- country: US
+  region: OK
+  name: Bache
+  lat: '34.8942'
+  long: "-95.6506"
+  nearby_rate_centers:
+  - name: HARTSHORNE
+    distance_km: 10.04
+  - name: MCALESTER
+    distance_km: 11.52
+  - name: SAVANNA
+    distance_km: 18.05
+- country: US
+  region: OK
+  name: Badger Lee
+  lat: '35.4727'
+  long: "-94.8147"
+  nearby_rate_centers:
+  - name: SALLISAW
+    distance_km: 3.14
+  - name: SALLISAW (DIAMONDNET)
+    distance_km: 3.14
+  - name: VIAN
+    distance_km: 14.58
+  - name: MULDROW
+    distance_km: 20.88
+- country: US
+  region: OK
+  name: Baker
+  lat: '36.8704'
+  long: "-101.0177"
+  nearby_rate_centers:
+  - name: TYRONE
+    distance_km: 7.18
+  - name: ADAMS
+    distance_km: 13.89
+  - name: TURPIN
+    distance_km: 14.9
+- country: US
+  region: OK
+  name: Ballou
+  lat: '36.1421'
+  long: "-95.1998"
+  nearby_rate_centers:
+  - name: CEDARCREST
+    distance_km: 4.06
+  - name: LOCUST GRV
+    distance_km: 7.35
+  - name: PEGGS
+    distance_km: 10.59
+- country: US
+  region: OK
+  name: Barber
+  lat: '35.7562'
+  long: "-94.8414"
+  nearby_rate_centers:
+  - name: STILWELL
+    distance_km: 20.77
+  - name: TAHLEQUAH
+    distance_km: 21.25
+  - name: BARON
+    distance_km: 28.5
+- country: US
+  region: OK
+  name: Barnsdall
+  lat: '36.5595'
+  long: "-96.1383"
+  nearby_rate_centers:
+  - name: BARNSDALL
+    distance_km: 2.33
+  - name: AVANT
+    distance_km: 9.81
+  - name: OCHELATA
+    distance_km: 14.45
+- country: US
+  region: OK
+  name: Baron
+  lat: '35.9308'
+  long: "-94.6089"
+  nearby_rate_centers:
+  - name: BARON
+    distance_km: 0.98
+  - name: WESTVILLE
+    distance_km: 7.8
+  - name: STILWELL
+    distance_km: 12.93
+- country: US
+  region: OK
+  name: Bartlesville
+  lat: '36.7365'
+  long: "-95.9456"
+  nearby_rate_centers:
+  - name: BARTLESVL
+    distance_km: 2.86
+  - name: DEWEY
+    distance_km: 7.32
+  - name: OGLESBY
+    distance_km: 15.02
+- country: US
+  region: OK
+  name: Bearden
+  lat: '35.3569'
+  long: "-96.3851"
+  nearby_rate_centers:
+  - name: CROMWELL
+    distance_km: 6.65
+  - name: OKEMAH
+    distance_km: 11.15
+  - name: CASTLE
+    distance_km: 13.3
+- country: US
+  region: OK
+  name: Beaver
+  lat: '36.8150'
+  long: "-100.5236"
+  nearby_rate_centers:
+  - name: BEAVER
+    distance_km: 0.35
+  - name: FORGAN
+    distance_km: 10.26
+  - name: FLORIS
+    distance_km: 16.55
+- country: US
+  region: OK
+  name: Bee
+  lat: '34.1250'
+  long: "-96.5687"
+  nearby_rate_centers:
+  - name: MILBURN
+    distance_km: 13.33
+  - name: TISHOMINGO
+    distance_km: 16.48
+  - name: MADILL
+    distance_km: 18.81
+- country: US
+  region: OK
+  name: Beggs
+  lat: '35.7768'
+  long: "-96.0282"
+  nearby_rate_centers:
+  - name: BEGGS
+    distance_km: 5.87
+  - name: MOUNDS
+    distance_km: 11.48
+  - name: OKMULGEE
+    distance_km: 18.08
+- country: US
+  region: OK
+  name: Belfonte
+  lat: '35.5368'
+  long: "-94.5507"
+  nearby_rate_centers:
+  - name: WUNIONTOWN
+    distance_km: 8.79
+  - name: MULDROW
+    distance_km: 15.0
+  - name: MOFFETT
+    distance_km: 18.79
+- country: US
+  region: OK
+  name: Bell
+  lat: '35.7366'
+  long: "-94.5677"
+  nearby_rate_centers:
+  - name: STILWELL
+    distance_km: 10.04
+  - name: WUNIONTOWN
+    distance_km: 18.82
+  - name: BARON
+    distance_km: 21.05
+- country: US
+  region: OK
+  name: Bennington
+  lat: '34.0038'
+  long: "-96.0376"
+  nearby_rate_centers:
+  - name: BENNINGTON
+    distance_km: 2.54
+  - name: BOKCHITO
+    distance_km: 9.61
+  - name: BOSWELL
+    distance_km: 15.56
+- country: US
+  region: OK
+  name: Bentley
+  lat: '34.2174'
+  long: "-96.0797"
+  nearby_rate_centers:
+  - name: ATOKA
+    distance_km: 19.06
+  - name: CADDO
+    distance_km: 20.01
+  - name: BENNINGTON
+    distance_km: 21.63
+- country: US
+  region: OK
+  name: Bernice
+  lat: '36.6217'
+  long: "-94.9118"
+  nearby_rate_centers:
+  - name: AFTON
+    distance_km: 9.24
+  - name: GROVE
+    distance_km: 12.85
+  - name: FAIRLAND
+    distance_km: 15.54
+- country: US
+  region: OK
+  name: Bessie
+  lat: '35.3854'
+  long: "-98.9892"
+  nearby_rate_centers:
+  - name: BESSIE
+    distance_km: 0.18
+  - name: CORDELL
+    distance_km: 10.6
+  - name: CLINTON
+    distance_km: 14.57
+- country: US
+  region: OK
+  name: Bethany
+  lat: '35.5071'
+  long: "-97.6418"
+  nearby_rate_centers:
+  - name: BETHANY
+    distance_km: 1.84
+  - name: YUKON
+    distance_km: 9.94
+  - name: BRITTON
+    distance_km: 11.09
+- country: US
+  region: OK
+  name: Bethel Acres
+  lat: '35.3048'
+  long: "-97.0370"
+  nearby_rate_centers:
+  - name: TECUMSEH
+    distance_km: 10.52
+  - name: SHAWNEE
+    distance_km: 10.59
+  - name: MCLOUD
+    distance_km: 15.33
+- country: US
+  region: OK
+  name: Big Cabin
+  lat: '36.5423'
+  long: "-95.2220"
+  nearby_rate_centers:
+  - name: BIG CABIN
+    distance_km: 0.62
+  - name: ADAIR
+    distance_km: 11.69
+  - name: VINITA
+    distance_km: 12.03
+- country: US
+  region: OK
+  name: Billings
+  lat: '36.5316'
+  long: "-97.4352"
+  nearby_rate_centers:
+  - name: BILLINGS
+    distance_km: 0.91
+  - name: GARBER
+    distance_km: 16.91
+  - name: TONKAWA
+    distance_km: 20.46
+- country: US
+  region: OK
+  name: Binger
+  lat: '35.3097'
+  long: "-98.3430"
+  nearby_rate_centers:
+  - name: BINGER
+    distance_km: 0.21
+  - name: LOOKEBA
+    distance_km: 6.68
+  - name: GRACEMONT
+    distance_km: 15.25
+- country: US
+  region: OK
+  name: Bison
+  lat: '36.1960'
+  long: "-97.8979"
+  nearby_rate_centers:
+  - name: WAUKOMIS
+    distance_km: 9.39
+  - name: HENNESSEY
+    distance_km: 9.83
+  - name: DRUMMOND
+    distance_km: 17.18
+- country: US
+  region: OK
+  name: Bixby
+  lat: '35.9454'
+  long: "-95.8776"
+  nearby_rate_centers:
+  - name: BIXBY
+    distance_km: 0.66
+  - name: BIXBYNORTH
+    distance_km: 6.32
+  - name: JENKS
+    distance_km: 11.89
+- country: US
+  region: OK
+  name: Blackburn
+  lat: '36.3731'
+  long: "-96.5965"
+  nearby_rate_centers:
+  - name: BLACKBURN
+    distance_km: 0.66
+  - name: SKEDEE
+    distance_km: 9.53
+  - name: CLEVELAND
+    distance_km: 13.38
+- country: US
+  region: OK
+  name: Blackgum
+  lat: '35.6112'
+  long: "-94.9900"
+  nearby_rate_centers:
+  - name: VIAN
+    distance_km: 12.49
+  - name: GORE
+    distance_km: 14.05
+  - name: WEBBERSFLS
+    distance_km: 17.48
+- country: US
+  region: OK
+  name: Blackwell
+  lat: '36.8013'
+  long: "-97.3009"
+  nearby_rate_centers:
+  - name: BLACKWELL
+    distance_km: 1.32
+  - name: TONKAWA
+    distance_km: 13.02
+  - name: BRAMAN
+    distance_km: 14.37
+- country: US
+  region: OK
+  name: Blair
+  lat: '34.7804'
+  long: "-99.3332"
+  nearby_rate_centers:
+  - name: BLAIR
+    distance_km: 0.36
+  - name: MARTHA
+    distance_km: 7.98
+  - name: ALTUS
+    distance_km: 15.65
+- country: US
+  region: OK
+  name: Blanchard
+  lat: '35.1524'
+  long: "-97.6602"
+  nearby_rate_centers:
+  - name: BLANCHARD
+    distance_km: 1.21
+  - name: NEWCASTLE
+    distance_km: 12.06
+  - name: DIBBLE
+    distance_km: 13.19
+- country: US
+  region: OK
+  name: Blanco
+  lat: '34.7507'
+  long: "-95.7736"
+  nearby_rate_centers:
+  - name: SAVANNA
+    distance_km: 10.97
+  - name: KIOWA
+    distance_km: 12.16
+  - name: MCALESTER
+    distance_km: 20.25
+- country: US
+  region: OK
+  name: Blue
+  lat: '33.9900'
+  long: "-96.2304"
+  nearby_rate_centers:
+  - name: BOKCHITO
+    distance_km: 8.86
+  - name: DURANT
+    distance_km: 13.66
+  - name: CADDO
+    distance_km: 14.83
+- country: US
+  region: OK
+  name: Bluejacket
+  lat: '36.8003'
+  long: "-95.0740"
+  nearby_rate_centers:
+  - name: BLUEJACKET
+    distance_km: 0.12
+  - name: WELCH
+    distance_km: 9.17
+  - name: AFTON
+    distance_km: 15.46
+- country: US
+  region: OK
+  name: Boise City
+  lat: '36.7313'
+  long: "-102.5095"
+  nearby_rate_centers:
+  - name: BOISE CITY
+    distance_km: 0.55
+  - name: KEYES
+    distance_km: 24.72
+  - name: GRIGGS
+    distance_km: 27.04
+- country: US
+  region: OK
+  name: Bokchito
+  lat: '34.0196'
+  long: "-96.1492"
+  nearby_rate_centers:
+  - name: BOKCHITO
+    distance_km: 0.83
+  - name: BENNINGTON
+    distance_km: 10.58
+  - name: CADDO
+    distance_km: 15.37
+- country: US
+  region: OK
+  name: Bokoshe
+  lat: '35.1904'
+  long: "-94.7903"
+  nearby_rate_centers:
+  - name: BOKOSHE
+    distance_km: 0.45
+  - name: PANAMA
+    distance_km: 11.74
+  - name: KEOTA
+    distance_km: 14.52
+- country: US
+  region: OK
+  name: Boley
+  lat: '35.4904'
+  long: "-96.4795"
+  nearby_rate_centers:
+  - name: BOLEY
+    distance_km: 0.98
+  - name: PADEN
+    distance_km: 7.98
+  - name: CASTLE
+    distance_km: 9.7
+- country: US
+  region: OK
+  name: Boswell
+  lat: '34.0278'
+  long: "-95.8685"
+  nearby_rate_centers:
+  - name: BOSWELL
+    distance_km: 0.38
+  - name: BENNINGTON
+    distance_km: 15.32
+  - name: SOPER
+    distance_km: 15.88
+- country: US
+  region: OK
+  name: Bowlegs
+  lat: '35.1473'
+  long: "-96.6693"
+  nearby_rate_centers:
+  - name: BOWLEGS
+    distance_km: 0.32
+  - name: SEMINOLE
+    distance_km: 9.12
+  - name: MAUD
+    distance_km: 9.79
+- country: US
+  region: OK
+  name: Bowring
+  lat: '36.8790'
+  long: "-96.1202"
+  nearby_rate_centers:
+  - name: COPAN
+    distance_km: 17.32
+  - name: SOUTHELGIN
+    distance_km: 17.9
+  - name: DEWEY
+    distance_km: 18.64
+- country: US
+  region: OK
+  name: Box
+  lat: '35.5784'
+  long: "-94.9718"
+  nearby_rate_centers:
+  - name: VIAN
+    distance_km: 8.74
+  - name: GORE
+    distance_km: 13.71
+  - name: WEBBERSFLS
+    distance_km: 16.72
+- country: US
+  region: OK
+  name: Boynton
+  lat: '35.6495'
+  long: "-95.6535"
+  nearby_rate_centers:
+  - name: BOYNTON
+    distance_km: 0.23
+  - name: COUNCIL HL
+    distance_km: 9.96
+  - name: HITCHITA
+    distance_km: 16.49
+- country: US
+  region: OK
+  name: Bradley
+  lat: '34.8780'
+  long: "-97.7088"
+  nearby_rate_centers:
+  - name: BRADLEY
+    distance_km: 0.22
+  - name: ALEX
+    distance_km: 7.41
+  - name: LINDSAY
+    distance_km: 10.23
+- country: US
+  region: OK
+  name: Braggs
+  lat: '35.6634'
+  long: "-95.1984"
+  nearby_rate_centers:
+  - name: BRAGGS
+    distance_km: 0.16
+  - name: FORTGIBSON
+    distance_km: 15.82
+  - name: KEEFETON
+    distance_km: 15.97
+- country: US
+  region: OK
+  name: Braman
+  lat: '36.9236'
+  long: "-97.3358"
+  nearby_rate_centers:
+  - name: BRAMAN
+    distance_km: 0.45
+  - name: SOUTHHAVEN
+    distance_km: 10.36
+  - name: BLACKWELL
+    distance_km: 14.21
+- country: US
+  region: OK
+  name: Bray
+  lat: '34.6160'
+  long: "-97.8207"
+  nearby_rate_centers:
+  - name: MARLOW
+    distance_km: 12.82
+  - name: DUNCAN
+    distance_km: 18.63
+  - name: VELMA
+    distance_km: 21.68
+- country: US
+  region: OK
+  name: Breckenridge
+  lat: '36.4621'
+  long: "-97.7274"
+  nearby_rate_centers:
+  - name: BRECKENRDG
+    distance_km: 2.88
+  - name: FAIRMONT
+    distance_km: 12.08
+  - name: HUNTER
+    distance_km: 12.73
+- country: US
+  region: OK
+  name: Brent
+  lat: '35.3640'
+  long: "-94.7880"
+  nearby_rate_centers:
+  - name: SALLISAW
+    distance_km: 10.1
+  - name: SALLISAW (DIAMONDNET)
+    distance_km: 10.1
+  - name: KEOTA
+    distance_km: 17.36
+  - name: MULDROW
+    distance_km: 17.85
+- country: US
+  region: OK
+  name: Briartown
+  lat: '35.2974'
+  long: "-95.2386"
+  nearby_rate_centers:
+  - name: PORUM
+    distance_km: 5.95
+  - name: STIGLER
+    distance_km: 11.44
+  - name: ENTERPRISE
+    distance_km: 14.99
+- country: US
+  region: OK
+  name: Bridge Creek
+  lat: '35.2382'
+  long: "-97.7320"
+  nearby_rate_centers:
+  - name: TUTTLE
+    distance_km: 9.47
+  - name: NEWCASTLE
+    distance_km: 12.19
+  - name: BLANCHARD
+    distance_km: 12.75
+- country: US
+  region: OK
+  name: Bridgeport
+  lat: '35.5476'
+  long: "-98.3775"
+  nearby_rate_centers:
+  - name: HINTON
+    distance_km: 8.44
+  - name: GEARY
+    distance_km: 10.07
+  - name: HYDRO
+    distance_km: 18.54
+- country: US
+  region: OK
+  name: Briggs
+  lat: '35.9202'
+  long: "-94.8825"
+  nearby_rate_centers:
+  - name: TAHLEQUAH
+    distance_km: 7.79
+  - name: BARON
+    distance_km: 25.24
+  - name: STILWELL
+    distance_km: 26.15
+- country: US
+  region: OK
+  name: Bristow
+  lat: '35.8336'
+  long: "-96.3944"
+  nearby_rate_centers:
+  - name: BRISTOW
+    distance_km: 0.39
+  - name: DEPEW
+    distance_km: 10.92
+  - name: KELLYVILLE
+    distance_km: 19.51
+- country: US
+  region: OK
+  name: Broken Arrow
+  lat: '36.0380'
+  long: "-95.7806"
+  nearby_rate_centers:
+  - name: BROKENARRW
+    distance_km: 1.62
+  - name: BIXBYNORTH
+    distance_km: 12.57
+  - name: BIXBY
+    distance_km: 14.16
+- country: US
+  region: OK
+  name: Broken Bow
+  lat: '34.0292'
+  long: "-94.7426"
+  nearby_rate_centers:
+  - name: BROKEN BOW
+    distance_km: 0.4
+  - name: OAK HILL
+    distance_km: 11.17
+  - name: EAGLETOWN
+    distance_km: 16.04
+- country: US
+  region: OK
+  name: Bromide
+  lat: '34.4183'
+  long: "-96.4948"
+  nearby_rate_centers:
+  - name: BROMIDE
+    distance_km: 0.31
+  - name: WAPANUCKA
+    distance_km: 8.6
+  - name: CLARITA
+    distance_km: 9.34
+- country: US
+  region: OK
+  name: Brooksville
+  lat: '35.2097'
+  long: "-96.9611"
+  nearby_rate_centers:
+  - name: TECUMSEH
+    distance_km: 5.99
+  - name: SHAWNEE
+    distance_km: 13.85
+  - name: PEARSON
+    distance_km: 15.22
+- country: US
+  region: OK
+  name: Brush Creek
+  lat: '36.4165'
+  long: "-94.7838"
+  nearby_rate_centers:
+  - name: JAY
+    distance_km: 1.77
+  - name: WMAYSVILLE
+    distance_km: 16.12
+  - name: SOWESTCITY
+    distance_km: 18.53
+- country: US
+  region: OK
+  name: Brushy
+  lat: '35.5578'
+  long: "-94.7434"
+  nearby_rate_centers:
+  - name: SALLISAW
+    distance_km: 12.14
+  - name: SALLISAW (DIAMONDNET)
+    distance_km: 12.14
+  - name: MULDROW
+    distance_km: 21.23
+  - name: VIAN
+    distance_km: 21.69
+- country: US
+  region: OK
+  name: Bryant
+  lat: '35.3923'
+  long: "-96.0624"
+  nearby_rate_centers:
+  - name: HENRYETTA
+    distance_km: 8.73
+  - name: WELEETKA
+    distance_km: 10.52
+  - name: DUSTIN
+    distance_km: 13.38
+- country: US
+  region: OK
+  name: Buffalo
+  lat: '36.8374'
+  long: "-99.6465"
+  nearby_rate_centers:
+  - name: BUFFALO
+    distance_km: 1.06
+  - name: SELMAN
+    distance_km: 16.33
+  - name: MAY
+    distance_km: 26.42
+- country: US
+  region: OK
+  name: Bug Tussle
+  lat: '35.0293'
+  long: "-95.6836"
+  nearby_rate_centers:
+  - name: CROWDER
+    distance_km: 10.58
+  - name: MCALESTER
+    distance_km: 13.2
+  - name: CANADIAN
+    distance_km: 16.33
+- country: US
+  region: OK
+  name: Bull Hollow
+  lat: '36.3046'
+  long: "-94.9008"
+  nearby_rate_centers:
+  - name: KANSAS
+    distance_km: 14.13
+  - name: JAY
+    distance_km: 16.39
+  - name: SPAVINAW
+    distance_km: 16.88
+- country: US
+  region: OK
+  name: Bunch
+  lat: '35.6821'
+  long: "-94.7460"
+  nearby_rate_centers:
+  - name: STILWELL
+    distance_km: 18.49
+  - name: SALLISAW
+    distance_km: 25.56
+  - name: SALLISAW (DIAMONDNET)
+    distance_km: 25.56
+  - name: WUNIONTOWN
+    distance_km: 26.82
+- country: US
+  region: OK
+  name: Burbank
+  lat: '36.6964'
+  long: "-96.7293"
+  nearby_rate_centers:
+  - name: BURBANK
+    distance_km: 0.66
+  - name: SHIDLER
+    distance_km: 11.41
+  - name: WEBB CITY
+    distance_km: 11.66
+- country: US
+  region: OK
+  name: Burlington
+  lat: '36.9001'
+  long: "-98.4235"
+  nearby_rate_centers:
+  - name: BURLINGTON
+    distance_km: 0.57
+  - name: BYRON
+    distance_km: 11.98
+  - name: CAPRON
+    distance_km: 14.3
+- country: US
+  region: OK
+  name: Burneyville
+  lat: '33.9043'
+  long: "-97.2903"
+  nearby_rate_centers:
+  - name: MARIETTA
+    distance_km: 16.11
+  - name: WILSON
+    distance_km: 30.92
+  - name: LONE GROVE
+    distance_km: 31.18
+- country: US
+  region: OK
+  name: Burns Flat
+  lat: '35.3547'
+  long: "-99.1751"
+  nearby_rate_centers:
+  - name: BURNS FLAT
+    distance_km: 3.01
+  - name: DILL CITY
+    distance_km: 9.9
+  - name: FOSS
+    distance_km: 11.54
+- country: US
+  region: OK
+  name: Bushyhead
+  lat: '36.4596'
+  long: "-95.5164"
+  nearby_rate_centers:
+  - name: CHELSEA
+    distance_km: 11.26
+  - name: ALLUWE
+    distance_km: 16.94
+  - name: OOLOGAH
+    distance_km: 17.2
+- country: US
+  region: OK
+  name: Butler
+  lat: '35.6365'
+  long: "-99.1861"
+  nearby_rate_centers:
+  - name: BUTLER
+    distance_km: 0.6
+  - name: HAMMON
+    distance_km: 17.97
+  - name: FOSS
+    distance_km: 19.91
+- country: US
+  region: OK
+  name: Byars
+  lat: '34.8724'
+  long: "-97.0542"
+  nearby_rate_centers:
+  - name: BYARS
+    distance_km: 0.36
+  - name: WANETTE
+    distance_km: 10.15
+  - name: STRATFORD
+    distance_km: 11.8
+- country: US
+  region: OK
+  name: Byng
+  lat: '34.8657'
+  long: "-96.6678"
+  nearby_rate_centers:
+  - name: ADA
+    distance_km: 10.47
+  - name: KONAWA
+    distance_km: 12.77
+  - name: SASAKWA
+    distance_km: 16.12
+- country: US
+  region: OK
+  name: Byron
+  lat: '36.9014'
+  long: "-98.2944"
+  nearby_rate_centers:
+  - name: BYRON
+    distance_km: 0.5
+  - name: BURLINGTON
+    distance_km: 10.94
+  - name: SO WALDRON
+    distance_km: 12.52
+- country: US
+  region: OK
+  name: Cache
+  lat: '34.6294'
+  long: "-98.6184"
+  nearby_rate_centers:
+  - name: CACHE
+    distance_km: 0.97
+  - name: INDIAHOMA
+    distance_km: 12.06
+  - name: MEDICINEPK
+    distance_km: 15.1
+- country: US
+  region: OK
+  name: Caddo
+  lat: '34.1256'
+  long: "-96.2636"
+  nearby_rate_centers:
+  - name: CADDO
+    distance_km: 0.56
+  - name: BOKCHITO
+    distance_km: 16.48
+  - name: DURANT
+    distance_km: 17.97
+- country: US
+  region: OK
+  name: Calera
+  lat: '33.9303'
+  long: "-96.4293"
+  nearby_rate_centers:
+  - name: CALERA
+    distance_km: 0.45
+  - name: DURANT
+    distance_km: 8.59
+  - name: COLBERT
+    distance_km: 10.48
+- country: US
+  region: OK
+  name: Calumet
+  lat: '35.6014'
+  long: "-98.1248"
+  nearby_rate_centers:
+  - name: CALUMET
+    distance_km: 0.42
+  - name: EL RENO
+    distance_km: 16.99
+  - name: GEARY
+    distance_km: 17.64
+- country: US
+  region: OK
+  name: Calvin
+  lat: '34.9662'
+  long: "-96.2496"
+  nearby_rate_centers:
+  - name: CALVIN
+    distance_km: 0.75
+  - name: ATWOOD
+    distance_km: 7.9
+  - name: GERTY
+    distance_km: 13.79
+- country: US
+  region: OK
+  name: Camargo
+  lat: '36.0179'
+  long: "-99.2885"
+  nearby_rate_centers:
+  - name: CAMARGO
+    distance_km: 0.51
+  - name: VICI
+    distance_km: 14.51
+  - name: LEEDEY
+    distance_km: 17.73
+- country: US
+  region: OK
+  name: Cameron
+  lat: '35.1374'
+  long: "-94.5393"
+  nearby_rate_centers:
+  - name: CAMERON
+    distance_km: 0.64
+  - name: PANAMA
+    distance_km: 11.83
+  - name: POTEAU
+    distance_km: 11.9
+- country: US
+  region: OK
+  name: Canadian
+  lat: '35.1740'
+  long: "-95.6494"
+  nearby_rate_centers:
+  - name: CANADIAN
+    distance_km: 0.22
+  - name: CROWDER
+    distance_km: 5.83
+  - name: INDIANOLA
+    distance_km: 11.6
+- country: US
+  region: OK
+  name: Canadian Shores
+  lat: '35.1743'
+  long: "-95.7425"
+  nearby_rate_centers:
+  - name: INDIANOLA
+    distance_km: 3.22
+  - name: CANADIAN
+    distance_km: 8.24
+  - name: CROWDER
+    distance_km: 9.02
+- country: US
+  region: OK
+  name: Caney
+  lat: '35.8352'
+  long: "-94.8421"
+  nearby_rate_centers:
+  - name: TAHLEQUAH
+    distance_km: 14.6
+  - name: STILWELL
+    distance_km: 19.89
+  - name: BARON
+    distance_km: 23.75
+- country: US
+  region: OK
+  name: Caney
+  lat: '34.2357'
+  long: "-96.2173"
+  nearby_rate_centers:
+  - name: CADDO
+    distance_km: 13.47
+  - name: ATOKA
+    distance_km: 18.51
+  - name: WAPANUCKA
+    distance_km: 23.98
+- country: US
+  region: OK
+  name: Caney Ridge
+  lat: '35.7637'
+  long: "-94.8828"
+  nearby_rate_centers:
+  - name: TAHLEQUAH
+    distance_km: 18.72
+  - name: STILWELL
+    distance_km: 24.13
+  - name: VIAN
+    distance_km: 30.44
+- country: US
+  region: OK
+  name: Canton
+  lat: '36.0550'
+  long: "-98.5884"
+  nearby_rate_centers:
+  - name: CANTON
+    distance_km: 0.71
+  - name: LONGDALE
+    distance_km: 10.03
+  - name: OAKWOOD
+    distance_km: 16.85
+- country: US
+  region: OK
+  name: Canute
+  lat: '35.4219'
+  long: "-99.2781"
+  nearby_rate_centers:
+  - name: CANUTE
+    distance_km: 0.97
+  - name: FOSS
+    distance_km: 10.98
+  - name: ELK CITY
+    distance_km: 11.97
+- country: US
+  region: OK
+  name: Capron
+  lat: '36.8966'
+  long: "-98.5776"
+  nearby_rate_centers:
+  - name: CAPRON
+    distance_km: 0.65
+  - name: SOHARDTNER
+    distance_km: 8.84
+  - name: ALVA
+    distance_km: 13.34
+- country: US
+  region: OK
+  name: Carlisle
+  lat: '35.5042'
+  long: "-95.0323"
+  nearby_rate_centers:
+  - name: VIAN
+    distance_km: 5.45
+  - name: GORE
+    distance_km: 8.06
+  - name: WEBBERSFLS
+    distance_km: 9.21
+- country: US
+  region: OK
+  name: Carlton Landing
+  lat: '35.2129'
+  long: "-95.5578"
+  nearby_rate_centers:
+  - name: LONGTOWN
+    distance_km: 5.35
+  - name: EUFAULA
+    distance_km: 8.39
+  - name: CANADIAN
+    distance_km: 9.59
+- country: US
+  region: OK
+  name: Carmen
+  lat: '36.5791'
+  long: "-98.4579"
+  nearby_rate_centers:
+  - name: CARMEN
+    distance_km: 0.38
+  - name: ALINE
+    distance_km: 7.23
+  - name: DACOMA
+    distance_km: 13.64
+- country: US
+  region: OK
+  name: Carnegie
+  lat: '35.1030'
+  long: "-98.5996"
+  nearby_rate_centers:
+  - name: CARNEGIE
+    distance_km: 0.61
+  - name: ALFALFA
+    distance_km: 13.04
+  - name: MT VIEW
+    distance_km: 13.57
+- country: US
+  region: OK
+  name: Carney
+  lat: '35.8062'
+  long: "-97.0155"
+  nearby_rate_centers:
+  - name: CARNEY
+    distance_km: 0.5
+  - name: TRYON
+    distance_km: 7.83
+  - name: WELLSTON
+    distance_km: 13.48
+- country: US
+  region: OK
+  name: Carrier
+  lat: '36.4786'
+  long: "-98.0172"
+  nearby_rate_centers:
+  - name: CARRIER
+    distance_km: 0.62
+  - name: HILLSDALE
+    distance_km: 9.82
+  - name: LAHOMA
+    distance_km: 12.6
+- country: US
+  region: OK
+  name: Carter
+  lat: '35.2170'
+  long: "-99.5036"
+  nearby_rate_centers:
+  - name: CARTER
+    distance_km: 0.43
+  - name: SAYRE
+    distance_km: 15.11
+  - name: WILLOW
+    distance_km: 18.68
+- country: US
+  region: OK
+  name: Cartwright
+  lat: '33.8556'
+  long: "-96.5610"
+  nearby_rate_centers:
+  - name: CARTWRIGHT
+    distance_km: 1.23
+  - name: COLBERT
+    distance_km: 5.66
+  - name: CALERA
+    distance_km: 14.69
+- country: US
+  region: OK
+  name: Cashion
+  lat: '35.8009'
+  long: "-97.6771"
+  nearby_rate_centers:
+  - name: CASHION
+    distance_km: 0.4
+  - name: PIEDMONT
+    distance_km: 18.42
+  - name: CRESCENT
+    distance_km: 19.17
+- country: US
+  region: OK
+  name: Castle
+  lat: '35.4717'
+  long: "-96.3921"
+  nearby_rate_centers:
+  - name: CASTLE
+    distance_km: 1.73
+  - name: BOLEY
+    distance_km: 8.85
+  - name: OKEMAH
+    distance_km: 9.05
+- country: US
+  region: OK
+  name: Catoosa
+  lat: '36.1834'
+  long: "-95.7680"
+  nearby_rate_centers:
+  - name: CATOOSA
+    distance_km: 2.33
+  - name: OWASSO
+    distance_km: 11.91
+  - name: BROKENARRW
+    distance_km: 14.94
+- country: US
+  region: OK
+  name: Cave Spring
+  lat: '35.7292'
+  long: "-94.7577"
+  nearby_rate_centers:
+  - name: STILWELL
+    distance_km: 15.46
+  - name: BARON
+    distance_km: 25.78
+  - name: TAHLEQUAH
+    distance_km: 28.26
+- country: US
+  region: OK
+  name: Cayuga
+  lat: '36.6252'
+  long: "-94.6542"
+  nearby_rate_centers:
+  - name: TIFF CITY
+    distance_km: 5.64
+  - name: GROVE
+    distance_km: 11.07
+  - name: SOWESTCITY
+    distance_km: 12.81
+- country: US
+  region: OK
+  name: Cedar Crest
+  lat: '36.1232'
+  long: "-95.1732"
+  nearby_rate_centers:
+  - name: CEDARCREST
+    distance_km: 3.68
+  - name: PEGGS
+    distance_km: 7.8
+  - name: LOCUST GRV
+    distance_km: 8.77
+- country: US
+  region: OK
+  name: Cedar Lake
+  lat: '35.4276'
+  long: "-98.1930"
+  nearby_rate_centers:
+  - name: CEDAR LAKE
+    distance_km: 2.06
+  - name: HINTON
+    distance_km: 15.86
+  - name: LOOKEBA
+    distance_km: 17.16
+- country: US
+  region: OK
+  name: Cedar Valley
+  lat: '35.8694'
+  long: "-97.5272"
+  nearby_rate_centers:
+  - name: GUTHRIE
+    distance_km: 9.86
+  - name: CRESCENT
+    distance_km: 11.31
+  - name: CASHION
+    distance_km: 15.83
+- country: US
+  region: OK
+  name: Cement
+  lat: '34.9363'
+  long: "-98.1362"
+  nearby_rate_centers:
+  - name: CEMENT
+    distance_km: 0.16
+  - name: CYRIL
+    distance_km: 7.11
+  - name: FLETCHER
+    distance_km: 16.6
+- country: US
+  region: OK
+  name: Centrahoma
+  lat: '34.6104'
+  long: "-96.3437"
+  nearby_rate_centers:
+  - name: TUPELO
+    distance_km: 6.97
+  - name: COALGATE
+    distance_km: 13.93
+  - name: CLARITA
+    distance_km: 16.19
+- country: US
+  region: OK
+  name: Central High
+  lat: '34.6170'
+  long: "-98.0892"
+  nearby_rate_centers:
+  - name: MARLOW
+    distance_km: 12.98
+  - name: STERLING
+    distance_km: 16.32
+  - name: DUNCAN
+    distance_km: 17.85
+- country: US
+  region: OK
+  name: Chance
+  lat: '36.0607'
+  long: "-94.6478"
+  nearby_rate_centers:
+  - name: WATTS
+    distance_km: 8.32
+  - name: WESTVILLE
+    distance_km: 10.61
+  - name: FLINT
+    distance_km: 15.52
+- country: US
+  region: OK
+  name: Chandler
+  lat: '35.7224'
+  long: "-96.8925"
+  nearby_rate_centers:
+  - name: CHANDLER
+    distance_km: 2.92
+  - name: DAVENPORT
+    distance_km: 11.28
+  - name: KENDRICK
+    distance_km: 12.82
+- country: US
+  region: OK
+  name: Chattanooga
+  lat: '34.4238'
+  long: "-98.6540"
+  nearby_rate_centers:
+  - name: CHATTANOGA
+    distance_km: 0.43
+  - name: GRANDFIELD
+    distance_km: 21.56
+  - name: CACHE
+    distance_km: 22.54
+- country: US
+  region: OK
+  name: Checotah
+  lat: '35.4820'
+  long: "-95.5224"
+  nearby_rate_centers:
+  - name: CHECOTAH
+    distance_km: 0.71
+  - name: COUNCIL HL
+    distance_km: 14.42
+  - name: KEEFETON
+    distance_km: 19.71
+- country: US
+  region: OK
+  name: Chelsea
+  lat: '36.5321'
+  long: "-95.4346"
+  nearby_rate_centers:
+  - name: CHELSEA
+    distance_km: 0.48
+  - name: ALLUWE
+    distance_km: 9.95
+  - name: ADAIR
+    distance_km: 17.97
+- country: US
+  region: OK
+  name: Cherokee
+  lat: '36.7507'
+  long: "-98.3577"
+  nearby_rate_centers:
+  - name: CHEROKEE
+    distance_km: 0.9
+  - name: BURLINGTON
+    distance_km: 17.62
+  - name: BYRON
+    distance_km: 17.85
+- country: US
+  region: OK
+  name: Cherry Tree
+  lat: '35.7454'
+  long: "-94.6428"
+  nearby_rate_centers:
+  - name: STILWELL
+    distance_km: 7.95
+  - name: BARON
+    distance_km: 20.17
+  - name: WUNIONTOWN
+    distance_km: 23.43
+- country: US
+  region: OK
+  name: Chester
+  lat: '36.2165'
+  long: "-98.9208"
+  nearby_rate_centers:
+  - name: CHESTER
+    distance_km: 1.05
+  - name: SEILING
+    distance_km: 7.45
+  - name: TALOGA
+    distance_km: 19.96
+- country: US
+  region: OK
+  name: Chewey
+  lat: '36.1210'
+  long: "-94.7492"
+  nearby_rate_centers:
+  - name: FLINT
+    distance_km: 5.45
+  - name: KANSAS
+    distance_km: 10.7
+  - name: COLCORD
+    distance_km: 15.7
+- country: US
+  region: OK
+  name: Cheyenne
+  lat: '35.6109'
+  long: "-99.6763"
+  nearby_rate_centers:
+  - name: CHEYENNE
+    distance_km: 0.43
+  - name: REYDON
+    distance_km: 22.83
+  - name: ROGERMILLS
+    distance_km: 25.07
+- country: US
+  region: OK
+  name: Chickasha
+  lat: '35.0409'
+  long: "-97.9474"
+  nearby_rate_centers:
+  - name: CHICKASHA
+    distance_km: 1.29
+  - name: VERDEN
+    distance_km: 13.95
+  - name: POCASSET
+    distance_km: 17.59
+- country: US
+  region: OK
+  name: Choctaw
+  lat: '35.4802'
+  long: "-97.2666"
+  nearby_rate_centers:
+  - name: CHOCTAW
+    distance_km: 2.04
+  - name: NICOMAPARK
+    distance_km: 5.34
+  - name: HARRAH
+    distance_km: 9.54
+- country: US
+  region: OK
+  name: Chouteau
+  lat: '36.1894'
+  long: "-95.3374"
+  nearby_rate_centers:
+  - name: CHOUTEAU
+    distance_km: 0.85
+  - name: PRYOR
+    distance_km: 13.54
+  - name: CEDARCREST
+    distance_km: 14.83
+- country: US
+  region: OK
+  name: Christie
+  lat: '35.9709'
+  long: "-94.6542"
+  nearby_rate_centers:
+  - name: BARON
+    distance_km: 7.02
+  - name: WESTVILLE
+    distance_km: 8.25
+  - name: WATTS
+    distance_km: 16.63
+- country: US
+  region: OK
+  name: Cimarron City
+  lat: '35.8887'
+  long: "-97.6023"
+  nearby_rate_centers:
+  - name: CRESCENT
+    distance_km: 7.78
+  - name: CASHION
+    distance_km: 12.26
+  - name: GUTHRIE
+    distance_km: 16.53
+- country: US
+  region: OK
+  name: Claremore
+  lat: '36.3146'
+  long: "-95.6095"
+  nearby_rate_centers:
+  - name: CLAREMORE
+    distance_km: 0.5
+  - name: OOLOGAH
+    distance_km: 17.37
+  - name: CATOOSA
+    distance_km: 18.34
+- country: US
+  region: OK
+  name: Clarita
+  lat: '34.4825'
+  long: "-96.4367"
+  nearby_rate_centers:
+  - name: CLARITA
+    distance_km: 0.52
+  - name: BROMIDE
+    distance_km: 9.16
+  - name: WAPANUCKA
+    distance_km: 12.55
+- country: US
+  region: OK
+  name: Clarksville
+  lat: '35.8240'
+  long: "-95.5141"
+  nearby_rate_centers:
+  - name: PORTER
+    distance_km: 4.68
+  - name: HASKELL
+    distance_km: 14.35
+  - name: MUSKOGEE
+    distance_km: 16.09
+- country: US
+  region: OK
+  name: Clayton
+  lat: '34.5856'
+  long: "-95.3561"
+  nearby_rate_centers:
+  - name: CLAYTON
+    distance_km: 0.89
+  - name: NASHOBA
+    distance_km: 17.41
+  - name: BUFFALOVLY
+    distance_km: 22.57
+- country: US
+  region: OK
+  name: Clearview
+  lat: '35.3987'
+  long: "-96.1876"
+  nearby_rate_centers:
+  - name: WELEETKA
+    distance_km: 8.39
+  - name: OKEMAH
+    distance_km: 11.24
+  - name: HENRYETTA
+    distance_km: 18.89
+- country: US
+  region: OK
+  name: Cleo Springs
+  lat: '36.4046'
+  long: "-98.4401"
+  nearby_rate_centers:
+  - name: CLEO SPG
+    distance_km: 0.96
+  - name: ALINE
+    distance_km: 12.25
+  - name: FAIRVIEW
+    distance_km: 15.28
+- country: US
+  region: OK
+  name: Cleora
+  lat: '36.5738'
+  long: "-94.9480"
+  nearby_rate_centers:
+  - name: KETCHUM
+    distance_km: 9.69
+  - name: DISNEY
+    distance_km: 10.79
+  - name: AFTON
+    distance_km: 13.53
+- country: US
+  region: OK
+  name: Cleveland
+  lat: '36.3008'
+  long: "-96.4635"
+  nearby_rate_centers:
+  - name: CLEVELAND
+    distance_km: 1.44
+  - name: OSAGE
+    distance_km: 4.35
+  - name: HALLETT
+    distance_km: 12.12
+- country: US
+  region: OK
+  name: Clinton
+  lat: '35.5069'
+  long: "-98.9706"
+  nearby_rate_centers:
+  - name: CLINTON
+    distance_km: 1.02
+  - name: BESSIE
+    distance_km: 13.79
+  - name: FOSS
+    distance_km: 18.44
+- country: US
+  region: OK
+  name: Cloud Creek
+  lat: '36.2938'
+  long: "-94.7543"
+  nearby_rate_centers:
+  - name: COLCORD
+    distance_km: 6.13
+  - name: KANSAS
+    distance_km: 10.13
+  - name: FLINT
+    distance_km: 13.8
+- country: US
+  region: OK
+  name: Coalgate
+  lat: '34.5323'
+  long: "-96.2209"
+  nearby_rate_centers:
+  - name: COALGATE
+    distance_km: 1.01
+  - name: STRINGTOWN
+    distance_km: 17.29
+  - name: ATOKA
+    distance_km: 18.58
+- country: US
+  region: OK
+  name: Colbert
+  lat: '33.8579'
+  long: "-96.5059"
+  nearby_rate_centers:
+  - name: COLBERT
+    distance_km: 0.59
+  - name: CARTWRIGHT
+    distance_km: 6.27
+  - name: CALERA
+    distance_km: 10.8
+- country: US
+  region: OK
+  name: Colcord
+  lat: '36.2647'
+  long: "-94.6923"
+  nearby_rate_centers:
+  - name: COLCORD
+    distance_km: 1.28
+  - name: KANSAS
+    distance_km: 11.19
+  - name: FLINT
+    distance_km: 11.99
+- country: US
+  region: OK
+  name: Cole
+  lat: '35.0992'
+  long: "-97.5663"
+  nearby_rate_centers:
+  - name: WASHINGTON
+    distance_km: 8.72
+  - name: DIBBLE
+    distance_km: 9.37
+  - name: BLANCHARD
+    distance_km: 9.4
+- country: US
+  region: OK
+  name: Coleman
+  lat: '34.2635'
+  long: "-96.4194"
+  nearby_rate_centers:
+  - name: WAPANUCKA
+    distance_km: 11.88
+  - name: MILBURN
+    distance_km: 12.12
+  - name: BROMIDE
+    distance_km: 18.27
+- country: US
+  region: OK
+  name: Collinsville
+  lat: '36.3723'
+  long: "-95.8609"
+  nearby_rate_centers:
+  - name: COLLINSVL
+    distance_km: 2.22
+  - name: OWASSO
+    distance_km: 11.76
+  - name: SKIATOOK
+    distance_km: 12.69
+- country: US
+  region: OK
+  name: Colony
+  lat: '35.3486'
+  long: "-98.6715"
+  nearby_rate_centers:
+  - name: COLONY
+    distance_km: 0.63
+  - name: CORN
+    distance_km: 11.05
+  - name: EAKLY
+    distance_km: 11.37
+- country: US
+  region: OK
+  name: Comanche
+  lat: '34.3567'
+  long: "-97.9509"
+  nearby_rate_centers:
+  - name: COMANCHE
+    distance_km: 2.03
+  - name: DUNCAN
+    distance_km: 15.46
+  - name: HASTINGS
+    distance_km: 20.55
+- country: US
+  region: OK
+  name: Commerce
+  lat: '36.9349'
+  long: "-94.8615"
+  nearby_rate_centers:
+  - name: COMMERCE
+    distance_km: 1.43
+  - name: PICHER
+    distance_km: 5.97
+  - name: MIAMI
+    distance_km: 7.02
+- country: US
+  region: OK
+  name: Connerville
+  lat: '34.4436'
+  long: "-96.6359"
+  nearby_rate_centers:
+  - name: CONNERVL
+    distance_km: 0.43
+  - name: BROMIDE
+    distance_km: 13.3
+  - name: MILL CREEK
+    distance_km: 17.1
+- country: US
+  region: OK
+  name: Cookson
+  lat: '35.7155'
+  long: "-94.9199"
+  nearby_rate_centers:
+  - name: TAHLEQUAH
+    distance_km: 22.83
+  - name: VIAN
+    distance_km: 24.44
+  - name: BRAGGS
+    distance_km: 25.79
+- country: US
+  region: OK
+  name: Cooperton
+  lat: '34.8665'
+  long: "-98.8759"
+  nearby_rate_centers:
+  - name: ROOSEVELT
+    distance_km: 13.04
+  - name: GOTEBO
+    distance_km: 22.38
+  - name: SNYDER
+    distance_km: 25.17
+- country: US
+  region: OK
+  name: Copan
+  lat: '36.9004'
+  long: "-95.9253"
+  nearby_rate_centers:
+  - name: COPAN
+    distance_km: 0.18
+  - name: DEWEY
+    distance_km: 11.0
+  - name: WANN
+    distance_km: 11.27
+- country: US
+  region: OK
+  name: Copeland
+  lat: '36.6571'
+  long: "-94.8204"
+  nearby_rate_centers:
+  - name: GROVE
+    distance_km: 8.23
+  - name: FAIRLAND
+    distance_km: 10.89
+  - name: AFTON
+    distance_km: 13.19
+- country: US
+  region: OK
+  name: Corn
+  lat: '35.3790'
+  long: "-98.7818"
+  nearby_rate_centers:
+  - name: CORN
+    distance_km: 0.67
+  - name: COLONY
+    distance_km: 10.24
+  - name: WEATHERFD
+    distance_km: 17.95
+- country: US
+  region: OK
+  name: Cornish
+  lat: '34.1636'
+  long: "-97.5964"
+  nearby_rate_centers:
+  - name: RINGLING
+    distance_km: 1.31
+  - name: HEALDTON
+    distance_km: 12.68
+  - name: WILSON
+    distance_km: 15.82
+- country: US
+  region: OK
+  name: Cottonwood
+  lat: '34.5540'
+  long: "-96.2038"
+  nearby_rate_centers:
+  - name: COALGATE
+    distance_km: 1.9
+  - name: STRINGTOWN
+    distance_km: 17.1
+  - name: WARDVILLE
+    distance_km: 19.58
+- country: US
+  region: OK
+  name: Council Hill
+  lat: '35.5558'
+  long: "-95.6525"
+  nearby_rate_centers:
+  - name: COUNCIL HL
+    distance_km: 0.53
+  - name: HITCHITA
+    distance_km: 9.7
+  - name: BOYNTON
+    distance_km: 10.6
+- country: US
+  region: OK
+  name: Covington
+  lat: '36.3075'
+  long: "-97.5865"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 0.4
+  - name: DOUGLAS
+    distance_km: 9.26
+  - name: FAIRMONT
+    distance_km: 12.05
+- country: US
+  region: OK
+  name: Coweta
+  lat: '35.9683'
+  long: "-95.6545"
+  nearby_rate_centers:
+  - name: COWETA
+    distance_km: 1.43
+  - name: BROKENARRW
+    distance_km: 15.25
+  - name: HASKELL
+    distance_km: 16.1
+- country: US
+  region: OK
+  name: Cowlington
+  lat: '35.3105'
+  long: "-94.7878"
+  nearby_rate_centers:
+  - name: BOKOSHE
+    distance_km: 13.7
+  - name: KEOTA
+    distance_km: 14.0
+  - name: SALLISAW
+    distance_km: 16.05
+  - name: SALLISAW (DIAMONDNET)
+    distance_km: 16.05
+- country: US
+  region: OK
+  name: Coyle
+  lat: '35.9568'
+  long: "-97.2396"
+  nearby_rate_centers:
+  - name: MERIDIAN
+    distance_km: 12.09
+  - name: GUTHRIE
+    distance_km: 18.13
+  - name: PERKINS
+    distance_km: 18.76
+- country: US
+  region: OK
+  name: Crescent
+  lat: '35.9518'
+  long: "-97.5948"
+  nearby_rate_centers:
+  - name: CRESCENT
+    distance_km: 0.84
+  - name: GUTHRIE
+    distance_km: 17.6
+  - name: CASHION
+    distance_km: 18.75
+- country: US
+  region: OK
+  name: Crescent Springs
+  lat: '35.8968'
+  long: "-97.6028"
+  nearby_rate_centers:
+  - name: CRESCENT
+    distance_km: 6.9
+  - name: CASHION
+    distance_km: 12.99
+  - name: GUTHRIE
+    distance_km: 16.64
+- country: US
+  region: OK
+  name: Cromwell
+  lat: '35.3525'
+  long: "-96.4557"
+  nearby_rate_centers:
+  - name: CROMWELL
+    distance_km: 1.59
+  - name: CASTLE
+    distance_km: 15.62
+  - name: OKEMAH
+    distance_km: 16.35
+- country: US
+  region: OK
+  name: Crowder
+  lat: '35.1158'
+  long: "-95.6783"
+  nearby_rate_centers:
+  - name: CROWDER
+    distance_km: 1.44
+  - name: CANADIAN
+    distance_km: 6.88
+  - name: INDIANOLA
+    distance_km: 10.6
+- country: US
+  region: OK
+  name: Cumberland
+  lat: '34.0609'
+  long: "-96.5925"
+  nearby_rate_centers:
+  - name: KINGSTON
+    distance_km: 13.18
+  - name: MADILL
+    distance_km: 16.46
+  - name: CALERA
+    distance_km: 20.46
+- country: US
+  region: OK
+  name: Cushing
+  lat: '35.9794'
+  long: "-96.7609"
+  nearby_rate_centers:
+  - name: CUSHING
+    distance_km: 1.68
+  - name: AGRA
+    distance_km: 12.96
+  - name: RIPLEY
+    distance_km: 13.39
+- country: US
+  region: OK
+  name: Custer City
+  lat: '35.6638'
+  long: "-98.8869"
+  nearby_rate_centers:
+  - name: CUSTERCITY
+    distance_km: 0.58
+  - name: THOMAS
+    distance_km: 15.76
+  - name: CLINTON
+    distance_km: 18.0
+- country: US
+  region: OK
+  name: Cyril
+  lat: '34.8985'
+  long: "-98.2030"
+  nearby_rate_centers:
+  - name: CYRIL
+    distance_km: 0.33
+  - name: CEMENT
+    distance_km: 7.25
+  - name: FLETCHER
+    distance_km: 9.96
+- country: US
+  region: OK
+  name: Dacoma
+  lat: '36.6596'
+  long: "-98.5635"
+  nearby_rate_centers:
+  - name: DACOMA
+    distance_km: 0.69
+  - name: HOPETON
+    distance_km: 9.71
+  - name: CARMEN
+    distance_km: 12.65
+- country: US
+  region: OK
+  name: Dale
+  lat: '35.3842'
+  long: "-97.0434"
+  nearby_rate_centers:
+  - name: MCLOUD
+    distance_km: 7.38
+  - name: SHAWNEE
+    distance_km: 12.3
+  - name: NEWALLA
+    distance_km: 13.47
+- country: US
+  region: OK
+  name: Davenport
+  lat: '35.7094'
+  long: "-96.7645"
+  nearby_rate_centers:
+  - name: DAVENPORT
+    distance_km: 0.39
+  - name: KENDRICK
+    distance_km: 8.47
+  - name: STROUD
+    distance_km: 9.76
+- country: US
+  region: OK
+  name: Davidson
+  lat: '34.2418'
+  long: "-99.0783"
+  nearby_rate_centers:
+  - name: DAVIDSON
+    distance_km: 0.32
+  - name: FREDERICK
+    distance_km: 17.58
+  - name: TIPTON
+    distance_km: 29.97
+- country: US
+  region: OK
+  name: Davis
+  lat: '34.4575'
+  long: "-97.1566"
+  nearby_rate_centers:
+  - name: DAVIS
+    distance_km: 6.4
+  - name: DOUGHERTY
+    distance_km: 11.48
+  - name: SPRINGER
+    distance_km: 15.77
+- country: US
+  region: OK
+  name: Deer Creek
+  lat: '36.8068'
+  long: "-97.5195"
+  nearby_rate_centers:
+  - name: DEER CREEK
+    distance_km: 0.17
+  - name: LAMONT
+    distance_km: 14.4
+  - name: MEDFORD
+    distance_km: 19.03
+- country: US
+  region: OK
+  name: Deer Lick
+  lat: '36.4595'
+  long: "-94.7468"
+  nearby_rate_centers:
+  - name: JAY
+    distance_km: 5.89
+  - name: SOWESTCITY
+    distance_km: 13.18
+  - name: WMAYSVILLE
+    distance_km: 13.97
+- country: US
+  region: OK
+  name: Del City
+  lat: '35.4483'
+  long: "-97.4408"
+  nearby_rate_centers:
+  - name: MIDWEST CY
+    distance_km: 3.57
+  - name: OKLA CITY
+    distance_km: 7.21
+  - name: SPENCER
+    distance_km: 10.34
+- country: US
+  region: OK
+  name: Delaware
+  lat: '36.7790'
+  long: "-95.6425"
+  nearby_rate_centers:
+  - name: DELAWARE
+    distance_km: 0.07
+  - name: NOWATA
+    distance_km: 8.58
+  - name: LENAPAH
+    distance_km: 9.06
+- country: US
+  region: OK
+  name: Dennis
+  lat: '36.5433'
+  long: "-94.8693"
+  nearby_rate_centers:
+  - name: GROVE
+    distance_km: 10.37
+  - name: DISNEY
+    distance_km: 12.19
+  - name: KETCHUM
+    distance_km: 14.1
+- country: US
+  region: OK
+  name: Depew
+  lat: '35.7969'
+  long: "-96.5302"
+  nearby_rate_centers:
+  - name: DEPEW
+    distance_km: 1.98
+  - name: BRISTOW
+    distance_km: 13.21
+  - name: STROUD
+    distance_km: 13.54
+- country: US
+  region: OK
+  name: Devol
+  lat: '34.1954'
+  long: "-98.5882"
+  nearby_rate_centers:
+  - name: DEVOL
+    distance_km: 0.56
+  - name: GRANDFIELD
+    distance_km: 9.7
+  - name: RANDLETT
+    distance_km: 11.37
+- country: US
+  region: OK
+  name: Dewar
+  lat: '35.4581'
+  long: "-95.9483"
+  nearby_rate_centers:
+  - name: HENRYETTA
+    distance_km: 3.94
+  - name: OKMULGEE
+    distance_km: 18.2
+  - name: MORRIS
+    distance_km: 18.41
+- country: US
+  region: OK
+  name: Dewey
+  lat: '36.7913'
+  long: "-95.9328"
+  nearby_rate_centers:
+  - name: DEWEY
+    distance_km: 1.17
+  - name: BARTLESVL
+    distance_km: 6.37
+  - name: COPAN
+    distance_km: 12.06
+- country: US
+  region: OK
+  name: Dibble
+  lat: '35.0151'
+  long: "-97.6273"
+  nearby_rate_centers:
+  - name: DIBBLE
+    distance_km: 2.38
+  - name: WASHINGTON
+    distance_km: 13.71
+  - name: BLANCHARD
+    distance_km: 14.37
+- country: US
+  region: OK
+  name: Dickson
+  lat: '34.1877'
+  long: "-96.9968"
+  nearby_rate_centers:
+  - name: GENE AUTRY
+    distance_km: 11.68
+  - name: ARDMORE
+    distance_km: 12.41
+  - name: ARDMRAIRPK
+    distance_km: 13.69
+- country: US
+  region: OK
+  name: Dill City
+  lat: '35.2816'
+  long: "-99.1336"
+  nearby_rate_centers:
+  - name: DILL CITY
+    distance_km: 1.14
+  - name: BURNS FLAT
+    distance_km: 5.99
+  - name: CORDELL
+    distance_km: 13.01
+- country: US
+  region: OK
+  name: Disney
+  lat: '36.4769'
+  long: "-95.0195"
+  nearby_rate_centers:
+  - name: DISNEY
+    distance_km: 3.46
+  - name: KETCHUM
+    distance_km: 3.64
+  - name: SPAVINAW
+    distance_km: 9.13
+- country: US
+  region: OK
+  name: Dixon
+  lat: '35.1610'
+  long: "-96.5184"
+  nearby_rate_centers:
+  - name: WEWOKA
+    distance_km: 2.2
+  - name: HOLDENVL
+    distance_km: 13.3
+  - name: BOWLEGS
+    distance_km: 13.73
+- country: US
+  region: OK
+  name: Dodge
+  lat: '36.5789'
+  long: "-94.6385"
+  nearby_rate_centers:
+  - name: SOWESTCITY
+    distance_km: 7.48
+  - name: TIFF CITY
+    distance_km: 9.84
+  - name: GROVE
+    distance_km: 12.03
+- country: US
+  region: OK
+  name: Dotyville
+  lat: '36.8515'
+  long: "-94.9098"
+  nearby_rate_centers:
+  - name: MIAMI
+    distance_km: 3.69
+  - name: COMMERCE
+    distance_km: 9.55
+  - name: FAIRLAND
+    distance_km: 12.28
+- country: US
+  region: OK
+  name: Dougherty
+  lat: '34.4005'
+  long: "-97.0514"
+  nearby_rate_centers:
+  - name: DOUGHERTY
+    distance_km: 0.2
+  - name: ARDMRAIRPK
+    distance_km: 10.52
+  - name: SPRINGER
+    distance_km: 12.04
+- country: US
+  region: OK
+  name: Douglas
+  lat: '36.2605'
+  long: "-97.6666"
+  nearby_rate_centers:
+  - name: DOUGLAS
+    distance_km: 0.4
+  - name: COVINGTON
+    distance_km: 9.28
+  - name: FAIRMONT
+    distance_km: 11.09
+- country: US
+  region: OK
+  name: Dover
+  lat: '35.9816'
+  long: "-97.9108"
+  nearby_rate_centers:
+  - name: DOVER
+    distance_km: 0.09
+  - name: KINGFISHER
+    distance_km: 13.72
+  - name: HENNESSEY
+    distance_km: 14.04
+- country: US
+  region: OK
+  name: Dripping Springs
+  lat: '36.1709'
+  long: "-94.6852"
+  nearby_rate_centers:
+  - name: FLINT
+    distance_km: 6.33
+  - name: COLCORD
+    distance_km: 9.73
+  - name: KANSAS
+    distance_km: 10.86
+- country: US
+  region: OK
+  name: Drowning Creek
+  lat: '36.4778'
+  long: "-94.8942"
+  nearby_rate_centers:
+  - name: DISNEY
+    distance_km: 7.77
+  - name: JAY
+    distance_km: 10.24
+  - name: KETCHUM
+    distance_km: 11.91
+- country: US
+  region: OK
+  name: Drummond
+  lat: '36.3018'
+  long: "-98.0357"
+  nearby_rate_centers:
+  - name: DRUMMOND
+    distance_km: 0.28
+  - name: LAHOMA
+    distance_km: 10.22
+  - name: WAUKOMIS
+    distance_km: 12.74
+- country: US
+  region: OK
+  name: Drumright
+  lat: '35.9905'
+  long: "-96.5977"
+  nearby_rate_centers:
+  - name: DRUMRIGHT
+    distance_km: 0.38
+  - name: OILTON
+    distance_km: 10.4
+  - name: CUSHING
+    distance_km: 16.37
+- country: US
+  region: OK
+  name: Dry Creek
+  lat: '35.7275'
+  long: "-94.8704"
+  nearby_rate_centers:
+  - name: TAHLEQUAH
+    distance_km: 22.86
+  - name: STILWELL
+    distance_km: 24.36
+  - name: VIAN
+    distance_km: 26.94
+- country: US
+  region: OK
+  name: Duchess Landing
+  lat: '35.3985'
+  long: "-95.4165"
+  nearby_rate_centers:
+  - name: CHECOTAH
+    distance_km: 12.85
+  - name: WARNER
+    distance_km: 14.99
+  - name: PORUM
+    distance_km: 15.39
+- country: US
+  region: OK
+  name: Duncan
+  lat: '34.5408'
+  long: "-97.9215"
+  nearby_rate_centers:
+  - name: DUNCAN
+    distance_km: 6.26
+  - name: MARLOW
+    distance_km: 12.72
+  - name: COMANCHE
+    distance_km: 19.68
+- country: US
+  region: OK
+  name: Durant
+  lat: '33.9949'
+  long: "-96.3923"
+  nearby_rate_centers:
+  - name: DURANT
+    distance_km: 1.28
+  - name: CALERA
+    distance_km: 7.77
+  - name: ACHILLE
+    distance_km: 18.07
+- country: US
+  region: OK
+  name: Durham
+  lat: '35.8427'
+  long: "-99.9264"
+  nearby_rate_centers:
+  - name: ROGERMILLS
+    distance_km: 12.69
+  - name: REYDON
+    distance_km: 21.41
+  - name: CHEYENNE
+    distance_km: 33.95
+- country: US
+  region: OK
+  name: Dustin
+  lat: '35.2714'
+  long: "-96.0281"
+  nearby_rate_centers:
+  - name: DUSTIN
+    distance_km: 0.48
+  - name: WELEETKA
+    distance_km: 12.8
+  - name: HANNA
+    distance_km: 14.55
+- country: US
+  region: OK
+  name: Dwight Mission
+  lat: '35.5581'
+  long: "-94.8510"
+  nearby_rate_centers:
+  - name: VIAN
+    distance_km: 12.75
+  - name: SALLISAW
+    distance_km: 12.83
+  - name: SALLISAW (DIAMONDNET)
+    distance_km: 12.83
+  - name: GORE
+    distance_km: 23.88
+- country: US
+  region: OK
+  name: Eagle City
+  lat: '35.9338'
+  long: "-98.5900"
+  nearby_rate_centers:
+  - name: OAKWOOD
+    distance_km: 9.8
+  - name: CANTON
+    distance_km: 12.96
+  - name: FAY
+    distance_km: 14.48
+- country: US
+  region: OK
+  name: Eagletown
+  lat: '34.0417'
+  long: "-94.5700"
+  nearby_rate_centers:
+  - name: EAGLETOWN
+    distance_km: 0.87
+  - name: BROKEN BOW
+    distance_km: 15.87
+  - name: HOCHATOWN
+    distance_km: 19.31
+- country: US
+  region: OK
+  name: Eakly
+  lat: '35.3055'
+  long: "-98.5560"
+  nearby_rate_centers:
+  - name: EAKLY
+    distance_km: 0.23
+  - name: ALFALFA
+    distance_km: 10.68
+  - name: COLONY
+    distance_km: 11.92
+- country: US
+  region: OK
+  name: Earl
+  lat: '34.2033'
+  long: "-96.8893"
+  nearby_rate_centers:
+  - name: GENE AUTRY
+    distance_km: 16.79
+  - name: MADILL
+    distance_km: 16.97
+  - name: ARDMRAIRPK
+    distance_km: 17.48
+- country: US
+  region: OK
+  name: Earlsboro
+  lat: '35.3282'
+  long: "-96.8016"
+  nearby_rate_centers:
+  - name: EARLSBORO
+    distance_km: 6.65
+  - name: SHAWNEE
+    distance_km: 11.17
+  - name: TECUMSEH
+    distance_km: 14.36
+- country: US
+  region: OK
+  name: East Duke
+  lat: '34.6628'
+  long: "-99.5696"
+  nearby_rate_centers:
+  - name: DUKE
+    distance_km: 0.57
+  - name: MARTHA
+    distance_km: 17.83
+  - name: GOULD
+    distance_km: 18.15
+- country: US
+  region: OK
+  name: Edgewater Park
+  lat: '34.8247'
+  long: "-98.3752"
+  nearby_rate_centers:
+  - name: APACHE
+    distance_km: 7.29
+  - name: ELGIN
+    distance_km: 9.51
+  - name: FLETCHER
+    distance_km: 12.23
+- country: US
+  region: OK
+  name: Edmond
+  lat: '35.6689'
+  long: "-97.4160"
+  nearby_rate_centers:
+  - name: EDMOND
+    distance_km: 6.15
+  - name: ARCADIA
+    distance_km: 8.36
+  - name: SPENCER
+    distance_km: 16.52
+- country: US
+  region: OK
+  name: El Reno
+  lat: '35.5429'
+  long: "-97.9660"
+  nearby_rate_centers:
+  - name: EL RENO
+    distance_km: 1.35
+  - name: CALUMET
+    distance_km: 15.64
+  - name: UNION CITY
+    distance_km: 16.09
+- country: US
+  region: OK
+  name: Eldon
+  lat: '35.9305'
+  long: "-94.8179"
+  nearby_rate_centers:
+  - name: TAHLEQUAH
+    distance_km: 13.68
+  - name: BARON
+    distance_km: 19.43
+  - name: STILWELL
+    distance_km: 21.76
+- country: US
+  region: OK
+  name: Eldorado
+  lat: '34.4730'
+  long: "-99.6496"
+  nearby_rate_centers:
+  - name: ELDORADO
+    distance_km: 0.36
+  - name: OLUSTEE
+    distance_km: 22.39
+  - name: DUKE
+    distance_km: 22.87
+- country: US
+  region: OK
+  name: Elgin
+  lat: '34.7849'
+  long: "-98.3010"
+  nearby_rate_centers:
+  - name: ELGIN
+    distance_km: 1.45
+  - name: FLETCHER
+    distance_km: 6.35
+  - name: STERLING
+    distance_km: 13.06
+- country: US
+  region: OK
+  name: Elk City
+  lat: '35.3862'
+  long: "-99.4301"
+  nearby_rate_centers:
+  - name: ELK CITY
+    distance_km: 3.22
+  - name: CANUTE
+    distance_km: 13.45
+  - name: CARTER
+    distance_km: 20.05
+- country: US
+  region: OK
+  name: Elm Grove
+  lat: '35.7926'
+  long: "-94.5694"
+  nearby_rate_centers:
+  - name: STILWELL
+    distance_km: 5.43
+  - name: BARON
+    distance_km: 14.89
+  - name: WESTVILLE
+    distance_km: 22.15
+- country: US
+  region: OK
+  name: Elmer
+  lat: '34.4808'
+  long: "-99.3521"
+  nearby_rate_centers:
+  - name: ELMER
+    distance_km: 0.12
+  - name: OLUSTEE
+    distance_km: 9.94
+  - name: ALTUS
+    distance_km: 17.73
+- country: US
+  region: OK
+  name: Elmore City
+  lat: '34.6282'
+  long: "-97.3918"
+  nearby_rate_centers:
+  - name: ELMORECITY
+    distance_km: 1.73
+  - name: HENNEPIN
+    distance_km: 14.0
+  - name: ELMOREWEST
+    distance_km: 16.09
+- country: US
+  region: OK
+  name: Elohim City
+  lat: '35.6455'
+  long: "-94.5151"
+  nearby_rate_centers:
+  - name: WUNIONTOWN
+    distance_km: 7.64
+  - name: STILWELL
+    distance_km: 21.22
+  - name: MULDROW
+    distance_km: 27.5
+- country: US
+  region: OK
+  name: Emet
+  lat: '34.2063'
+  long: "-96.5421"
+  nearby_rate_centers:
+  - name: MILBURN
+    distance_km: 4.22
+  - name: TISHOMINGO
+    distance_km: 13.44
+  - name: WAPANUCKA
+    distance_km: 21.35
+- country: US
+  region: OK
+  name: Empire City
+  lat: '34.4803'
+  long: "-98.0552"
+  nearby_rate_centers:
+  - name: DUNCAN
+    distance_km: 8.71
+  - name: COMANCHE
+    distance_km: 14.82
+  - name: MARLOW
+    distance_km: 21.23
+- country: US
+  region: OK
+  name: Enid
+  lat: '36.4063'
+  long: "-97.8700"
+  nearby_rate_centers:
+  - name: ENID
+    distance_km: 1.92
+  - name: BRECKENRDG
+    distance_km: 13.03
+  - name: WAUKOMIS
+    distance_km: 14.19
+- country: US
+  region: OK
+  name: Enterprise
+  lat: '35.2248'
+  long: "-95.3768"
+  nearby_rate_centers:
+  - name: ENTERPRISE
+    distance_km: 0.1
+  - name: QUINTON
+    distance_km: 10.94
+  - name: LONGTOWN
+    distance_km: 12.11
+- country: US
+  region: OK
+  name: Erick
+  lat: '35.2156'
+  long: "-99.8686"
+  nearby_rate_centers:
+  - name: ERICK
+    distance_km: 0.35
+  - name: SAYRE
+    distance_km: 22.34
+  - name: SWEETWATER
+    distance_km: 23.79
+- country: US
+  region: OK
+  name: Erin Springs
+  lat: '34.8112'
+  long: "-97.6056"
+  nearby_rate_centers:
+  - name: LINDSAY
+    distance_km: 2.54
+  - name: BRADLEY
+    distance_km: 11.97
+  - name: MAYSVILLE
+    distance_km: 17.99
+- country: US
+  region: OK
+  name: Etowah
+  lat: '35.1290'
+  long: "-97.1641"
+  nearby_rate_centers:
+  - name: TRIBBEY
+    distance_km: 3.45
+  - name: NOBLE
+    distance_km: 21.18
+  - name: PEARSON
+    distance_km: 21.68
+- country: US
+  region: OK
+  name: Etta
+  lat: '35.8329'
+  long: "-94.9035"
+  nearby_rate_centers:
+  - name: TAHLEQUAH
+    distance_km: 11.05
+  - name: STILWELL
+    distance_km: 25.38
+  - name: BARON
+    distance_km: 28.96
+- country: US
+  region: OK
+  name: Eufaula
+  lat: '35.2923'
+  long: "-95.5863"
+  nearby_rate_centers:
+  - name: EUFAULA
+    distance_km: 0.82
+  - name: LONGTOWN
+    distance_km: 9.14
+  - name: CANADIAN
+    distance_km: 14.46
+- country: US
+  region: OK
+  name: Evening Shade
+  lat: '35.6195'
+  long: "-94.9104"
+  nearby_rate_centers:
+  - name: VIAN
+    distance_km: 14.44
+  - name: GORE
+    distance_km: 20.65
+  - name: SALLISAW
+    distance_km: 21.41
+  - name: SALLISAW (DIAMONDNET)
+    distance_km: 21.41
+- country: US
+  region: OK
+  name: Fair Oaks
+  lat: '36.1611'
+  long: "-95.6910"
+  nearby_rate_centers:
+  - name: CATOOSA
+    distance_km: 5.68
+  - name: BROKENARRW
+    distance_km: 15.22
+  - name: INOLA
+    distance_km: 16.65
+- country: US
+  region: OK
+  name: Fairfax
+  lat: '36.5699'
+  long: "-96.7080"
+  nearby_rate_centers:
+  - name: FAIRFAX
+    distance_km: 0.18
+  - name: RALSTON
+    distance_km: 7.88
+  - name: BURBANK
+    distance_km: 14.82
+- country: US
+  region: OK
+  name: Fairfield
+  lat: '35.8407'
+  long: "-94.6061"
+  nearby_rate_centers:
+  - name: STILWELL
+    distance_km: 3.23
+  - name: BARON
+    distance_km: 9.25
+  - name: WESTVILLE
+    distance_km: 17.18
+- country: US
+  region: OK
+  name: Fairland
+  lat: '36.7513'
+  long: "-94.8472"
+  nearby_rate_centers:
+  - name: FAIRLAND
+    distance_km: 0.22
+  - name: WYANDOTTE
+    distance_km: 11.76
+  - name: AFTON
+    distance_km: 11.88
+- country: US
+  region: OK
+  name: Fairmont
+  lat: '36.3560'
+  long: "-97.7055"
+  nearby_rate_centers:
+  - name: FAIRMONT
+    distance_km: 0.25
+  - name: BRECKENRDG
+    distance_km: 9.17
+  - name: DOUGLAS
+    distance_km: 11.41
+- country: US
+  region: OK
+  name: Fairview
+  lat: '36.2705'
+  long: "-98.4769"
+  nearby_rate_centers:
+  - name: FAIRVIEW
+    distance_km: 0.2
+  - name: LONGDALE
+    distance_km: 16.0
+  - name: CLEO SPG
+    distance_km: 16.01
+- country: US
+  region: OK
+  name: Fallis
+  lat: '35.7493'
+  long: "-97.1182"
+  nearby_rate_centers:
+  - name: WELLSTON
+    distance_km: 8.16
+  - name: LUTHER
+    distance_km: 11.6
+  - name: CARNEY
+    distance_km: 11.72
+- country: US
+  region: OK
+  name: Fanshawe
+  lat: '34.9738'
+  long: "-94.8543"
+  nearby_rate_centers:
+  - name: FANSHAWE
+    distance_km: 5.87
+  - name: SUMMERFLD
+    distance_km: 8.43
+  - name: WISTER
+    distance_km: 11.81
+- country: US
+  region: OK
+  name: Fargo
+  lat: '36.3743'
+  long: "-99.6221"
+  nearby_rate_centers:
+  - name: FARGO
+    distance_km: 0.41
+  - name: GAGE
+    distance_km: 13.71
+  - name: FORTSUPPLY
+    distance_km: 21.87
+- country: US
+  region: OK
+  name: Faxon
+  lat: '34.4603'
+  long: "-98.5794"
+  nearby_rate_centers:
+  - name: CHATTANOGA
+    distance_km: 7.59
+  - name: CACHE
+    distance_km: 18.88
+  - name: LAWTON
+    distance_km: 22.17
+- country: US
+  region: OK
+  name: Fay
+  lat: '35.8161'
+  long: "-98.6587"
+  nearby_rate_centers:
+  - name: FAY
+    distance_km: 0.18
+  - name: THOMAS
+    distance_km: 10.93
+  - name: OAKWOOD
+    distance_km: 13.45
+- country: US
+  region: OK
+  name: Felt
+  lat: '36.5633'
+  long: "-102.7950"
+  nearby_rate_centers:
+  - name: FELTWHLESS
+    distance_km: 8.03
+  - name: BOISE CITY
+    distance_km: 31.34
+  - name: KENTON
+    distance_km: 38.98
+- country: US
+  region: OK
+  name: Finley
+  lat: '34.3276'
+  long: "-95.4980"
+  nearby_rate_centers:
+  - name: ANTLERS
+    distance_km: 15.38
+  - name: RATTAN
+    distance_km: 16.04
+  - name: CLAYTON
+    distance_km: 31.75
+- country: US
+  region: OK
+  name: Fittstown
+  lat: '34.6091'
+  long: "-96.6405"
+  nearby_rate_centers:
+  - name: FITTSTOWN
+    distance_km: 1.14
+  - name: STONEWALL
+    distance_km: 11.66
+  - name: ADA
+    distance_km: 18.34
+- country: US
+  region: OK
+  name: Fitzhugh
+  lat: '34.6582'
+  long: "-96.7665"
+  nearby_rate_centers:
+  - name: ROFF
+    distance_km: 7.57
+  - name: FITTSTOWN
+    distance_km: 12.8
+  - name: ADA
+    distance_km: 15.18
+- country: US
+  region: OK
+  name: Fletcher
+  lat: '34.8237'
+  long: "-98.2341"
+  nearby_rate_centers:
+  - name: FLETCHER
+    distance_km: 1.22
+  - name: ELGIN
+    distance_km: 7.39
+  - name: CYRIL
+    distance_km: 9.12
+- country: US
+  region: OK
+  name: Flint Creek
+  lat: '36.1765'
+  long: "-94.7436"
+  nearby_rate_centers:
+  - name: FLINT
+    distance_km: 1.32
+  - name: KANSAS
+    distance_km: 5.99
+  - name: COLCORD
+    distance_km: 9.68
+- country: US
+  region: OK
+  name: Flute Springs
+  lat: '35.6230'
+  long: "-94.8044"
+  nearby_rate_centers:
+  - name: SALLISAW
+    distance_km: 18.76
+  - name: SALLISAW (DIAMONDNET)
+    distance_km: 18.76
+  - name: VIAN
+    distance_km: 20.45
+  - name: STILWELL
+    distance_km: 26.92
+- country: US
+  region: OK
+  name: Foraker
+  lat: '36.8728'
+  long: "-96.5693"
+  nearby_rate_centers:
+  - name: FORAKER
+    distance_km: 0.56
+  - name: GRAINOLA
+    distance_km: 10.32
+  - name: SHIDLER
+    distance_km: 12.88
+- country: US
+  region: OK
+  name: Forest Park
+  lat: '35.5096'
+  long: "-97.4469"
+  nearby_rate_centers:
+  - name: SPENCER
+    distance_km: 6.73
+  - name: OKLA CITY
+    distance_km: 7.59
+  - name: MIDWEST CY
+    distance_km: 8.43
+- country: US
+  region: OK
+  name: Forgan
+  lat: '36.9070'
+  long: "-100.5381"
+  nearby_rate_centers:
+  - name: FORGAN
+    distance_km: 0.24
+  - name: BEAVER
+    distance_km: 10.63
+  - name: FLORIS
+    distance_km: 14.82
+- country: US
+  region: OK
+  name: Fort Cobb
+  lat: '35.1042'
+  long: "-98.4416"
+  nearby_rate_centers:
+  - name: FORT COBB
+    distance_km: 0.89
+  - name: CARNEGIE
+    distance_km: 14.54
+  - name: ANADARKO
+    distance_km: 18.13
+- country: US
+  region: OK
+  name: Fort Coffee
+  lat: '35.2942'
+  long: "-94.5731"
+  nearby_rate_centers:
+  - name: SPIRO
+    distance_km: 7.5
+  - name: POCOLA
+    distance_km: 9.22
+  - name: CEDARS
+    distance_km: 12.1
+- country: US
+  region: OK
+  name: Fort Gibson
+  lat: '35.7763'
+  long: "-95.2602"
+  nearby_rate_centers:
+  - name: FORTGIBSON
+    distance_km: 2.65
+  - name: MUSKOGEE
+    distance_km: 10.23
+  - name: BRAGGS
+    distance_km: 13.59
+- country: US
+  region: OK
+  name: Fort Supply
+  lat: '36.5721'
+  long: "-99.5735"
+  nearby_rate_centers:
+  - name: FORTSUPPLY
+    distance_km: 0.55
+  - name: MAY
+    distance_km: 16.29
+  - name: FARGO
+    distance_km: 22.39
+- country: US
+  region: OK
+  name: Fort Towson
+  lat: '34.0243'
+  long: "-95.2973"
+  nearby_rate_centers:
+  - name: FORTTOWSON
+    distance_km: 2.86
+  - name: RUFE
+    distance_km: 18.15
+  - name: VALLIANT
+    distance_km: 19.26
+- country: US
+  region: OK
+  name: Foss
+  lat: '35.4500'
+  long: "-99.1707"
+  nearby_rate_centers:
+  - name: FOSS
+    distance_km: 1.03
+  - name: CANUTE
+    distance_km: 11.13
+  - name: BURNS FLAT
+    distance_km: 13.19
+- country: US
+  region: OK
+  name: Foster
+  lat: '34.6046'
+  long: "-97.4907"
+  nearby_rate_centers:
+  - name: ELMOREWEST
+    distance_km: 7.81
+  - name: ELMORECITY
+    distance_km: 8.1
+  - name: HENNEPIN
+    distance_km: 16.97
+- country: US
+  region: OK
+  name: Fox
+  lat: '34.3601'
+  long: "-97.4928"
+  nearby_rate_centers:
+  - name: PIKE CITY
+    distance_km: 3.05
+  - name: RATLIFF CY
+    distance_km: 10.12
+  - name: HEALDTON
+    distance_km: 13.86
+- country: US
+  region: OK
+  name: Foyil
+  lat: '36.4306'
+  long: "-95.5219"
+  nearby_rate_centers:
+  - name: CHELSEA
+    distance_km: 14.13
+  - name: CLAREMORE
+    distance_km: 15.59
+  - name: OOLOGAH
+    distance_km: 16.8
+- country: US
+  region: OK
+  name: Francis
+  lat: '34.8745'
+  long: "-96.5926"
+  nearby_rate_centers:
+  - name: SASAKWA
+    distance_km: 10.54
+  - name: ADA
+    distance_km: 13.64
+  - name: ALLEN
+    distance_km: 16.55
+- country: US
+  region: OK
+  name: Frederick
+  lat: '34.3708'
+  long: "-99.0008"
+  nearby_rate_centers:
+  - name: FREDERICK
+    distance_km: 2.55
+  - name: MANITOU
+    distance_km: 14.43
+  - name: DAVIDSON
+    distance_km: 15.97
+- country: US
+  region: OK
+  name: Freedom
+  lat: '36.7680'
+  long: "-99.1126"
+  nearby_rate_centers:
+  - name: FREEDOM
+    distance_km: 0.58
+  - name: WAYNOKA
+    distance_km: 29.65
+  - name: SO COLDWTR
+    distance_km: 30.04
+- country: US
+  region: OK
+  name: Friendship
+  lat: '34.6978'
+  long: "-99.2287"
+  nearby_rate_centers:
+  - name: HEADRICK
+    distance_km: 11.37
+  - name: ALTUS
+    distance_km: 11.64
+  - name: BLAIR
+    distance_km: 13.59
+- country: US
+  region: OK
+  name: Gage
+  lat: '36.3182'
+  long: "-99.7575"
+  nearby_rate_centers:
+  - name: GAGE
+    distance_km: 0.3
+  - name: SHATTUCK
+    distance_km: 12.71
+  - name: FARGO
+    distance_km: 13.33
+- country: US
+  region: OK
+  name: Gans
+  lat: '35.3874'
+  long: "-94.6946"
+  nearby_rate_centers:
+  - name: MULDROW
+    distance_km: 9.0
+  - name: SALLISAW
+    distance_km: 11.3
+  - name: SALLISAW (DIAMONDNET)
+    distance_km: 11.3
+  - name: SPIRO
+    distance_km: 17.87
+- country: US
+  region: OK
+  name: Garber
+  lat: '36.4367'
+  long: "-97.5810"
+  nearby_rate_centers:
+  - name: GARBER
+    distance_km: 0.63
+  - name: BRECKENRDG
+    distance_km: 13.25
+  - name: COVINGTON
+    distance_km: 14.13
+- country: US
+  region: OK
+  name: Garvin
+  lat: '33.9561'
+  long: "-94.9357"
+  nearby_rate_centers:
+  - name: MILLERTON
+    distance_km: 8.94
+  - name: IDABEL
+    distance_km: 12.17
+  - name: OAK HILL
+    distance_km: 12.39
+- country: US
+  region: OK
+  name: Gate
+  lat: '36.8517'
+  long: "-100.0552"
+  nearby_rate_centers:
+  - name: GATE
+    distance_km: 0.54
+  - name: SO ENGLEWD
+    distance_km: 16.14
+  - name: LAVERNE
+    distance_km: 21.08
+- country: US
+  region: OK
+  name: Geary
+  lat: '35.5923'
+  long: "-98.2911"
+  nearby_rate_centers:
+  - name: GEARY
+    distance_km: 4.3
+  - name: HINTON
+    distance_km: 14.59
+  - name: CALUMET
+    distance_km: 15.0
+- country: US
+  region: OK
+  name: Gene Autry
+  lat: '34.3151'
+  long: "-97.0383"
+  nearby_rate_centers:
+  - name: ARDMRAIRPK
+    distance_km: 1.05
+  - name: GENE AUTRY
+    distance_km: 3.27
+  - name: SPRINGER
+    distance_km: 8.85
+- country: US
+  region: OK
+  name: Geronimo
+  lat: '34.4831'
+  long: "-98.3877"
+  nearby_rate_centers:
+  - name: LAWTON
+    distance_km: 14.05
+  - name: WALTERS
+    distance_km: 15.8
+  - name: CHATTANOGA
+    distance_km: 24.88
+- country: US
+  region: OK
+  name: Gerty
+  lat: '34.8357'
+  long: "-96.2889"
+  nearby_rate_centers:
+  - name: GERTY
+    distance_km: 3.8
+  - name: ALLEN
+    distance_km: 12.1
+  - name: ATWOOD
+    distance_km: 14.17
+- country: US
+  region: OK
+  name: Gideon
+  lat: '35.9972'
+  long: "-95.0280"
+  nearby_rate_centers:
+  - name: TAHLEQUAH
+    distance_km: 10.39
+  - name: PEGGS
+    distance_km: 14.07
+  - name: CEDARCREST
+    distance_km: 20.24
+- country: US
+  region: OK
+  name: Glencoe
+  lat: '36.2318'
+  long: "-96.9313"
+  nearby_rate_centers:
+  - name: GLENCOE
+    distance_km: 0.09
+  - name: MORRISON
+    distance_km: 10.03
+  - name: PAWNEE
+    distance_km: 16.64
+- country: US
+  region: OK
+  name: Glenpool
+  lat: '35.9488'
+  long: "-96.0052"
+  nearby_rate_centers:
+  - name: KIEFER
+    distance_km: 5.47
+  - name: JENKS
+    distance_km: 8.64
+  - name: BIXBYNORTH
+    distance_km: 10.01
+- country: US
+  region: OK
+  name: Golden
+  lat: '34.0312'
+  long: "-94.8978"
+  nearby_rate_centers:
+  - name: OAK HILL
+    distance_km: 3.89
+  - name: WRIGHTCITY
+    distance_km: 8.9
+  - name: MILLERTON
+    distance_km: 12.37
+- country: US
+  region: OK
+  name: Goldsby
+  lat: '35.1308'
+  long: "-97.4783"
+  nearby_rate_centers:
+  - name: NOBLE
+    distance_km: 7.56
+  - name: WASHINGTON
+    distance_km: 8.24
+  - name: NORMAN
+    distance_km: 10.16
+- country: US
+  region: OK
+  name: Goltry
+  lat: '36.5319'
+  long: "-98.1510"
+  nearby_rate_centers:
+  - name: GOLTRY
+    distance_km: 0.42
+  - name: HELENA
+    distance_km: 10.54
+  - name: CARRIER
+    distance_km: 13.15
+- country: US
+  region: OK
+  name: Goodwell
+  lat: '36.5948'
+  long: "-101.6224"
+  nearby_rate_centers:
+  - name: GOODWELL
+    distance_km: 0.93
+  - name: GUYMON
+    distance_km: 16.01
+  - name: TEXHOMA
+    distance_km: 17.07
+- country: US
+  region: OK
+  name: Gore
+  lat: '35.5418'
+  long: "-95.1129"
+  nearby_rate_centers:
+  - name: GORE
+    distance_km: 0.83
+  - name: WEBBERSFLS
+    distance_km: 4.38
+  - name: VIAN
+    distance_km: 13.55
+- country: US
+  region: OK
+  name: Gotebo
+  lat: '35.0712'
+  long: "-98.8743"
+  nearby_rate_centers:
+  - name: GOTEBO
+    distance_km: 0.9
+  - name: MT VIEW
+    distance_km: 11.87
+  - name: ROCKY
+    distance_km: 19.22
+- country: US
+  region: OK
+  name: Gould
+  lat: '34.6692'
+  long: "-99.7736"
+  nearby_rate_centers:
+  - name: GOULD
+    distance_km: 0.71
+  - name: HOLLIS
+    distance_km: 12.9
+  - name: DUKE
+    distance_km: 19.02
+- country: US
+  region: OK
+  name: Gowen
+  lat: '34.8781'
+  long: "-95.4742"
+  nearby_rate_centers:
+  - name: HARTSHORNE
+    distance_km: 8.53
+  - name: WILBURTON
+    distance_km: 15.39
+  - name: BUFFALOVLY
+    distance_km: 26.16
+- country: US
+  region: OK
+  name: Gracemont
+  lat: '35.1879'
+  long: "-98.2591"
+  nearby_rate_centers:
+  - name: GRACEMONT
+    distance_km: 0.53
+  - name: ANADARKO
+    distance_km: 12.67
+  - name: BINGER
+    distance_km: 15.67
+- country: US
+  region: OK
+  name: Grainola
+  lat: '36.9379'
+  long: "-96.6488"
+  nearby_rate_centers:
+  - name: GRAINOLA
+    distance_km: 0.21
+  - name: FORAKER
+    distance_km: 10.56
+  - name: WEBB CITY
+    distance_km: 16.33
+- country: US
+  region: OK
+  name: Grand Lake Towne
+  lat: '36.5048'
+  long: "-95.0252"
+  nearby_rate_centers:
+  - name: KETCHUM
+    distance_km: 0.64
+  - name: DISNEY
+    distance_km: 4.79
+  - name: SPAVINAW
+    distance_km: 12.03
+- country: US
+  region: OK
+  name: Grandfield
+  lat: '34.2306'
+  long: "-98.6875"
+  nearby_rate_centers:
+  - name: GRANDFIELD
+    distance_km: 0.31
+  - name: DEVOL
+    distance_km: 9.91
+  - name: RANDLETT
+    distance_km: 21.17
+- country: US
+  region: OK
+  name: Grandview
+  lat: '35.9635'
+  long: "-94.9979"
+  nearby_rate_centers:
+  - name: TAHLEQUAH
+    distance_km: 5.8
+  - name: PEGGS
+    distance_km: 18.59
+  - name: CEDARCREST
+    distance_km: 24.69
+- country: US
+  region: OK
+  name: Granite
+  lat: '34.9560'
+  long: "-99.3692"
+  nearby_rate_centers:
+  - name: GRANITE
+    distance_km: 1.09
+  - name: LONE WOLF
+    distance_km: 11.64
+  - name: MANGUM
+    distance_km: 15.4
+- country: US
+  region: OK
+  name: Grant
+  lat: '33.9387'
+  long: "-95.5156"
+  nearby_rate_centers:
+  - name: HUGO
+    distance_km: 7.81
+  - name: SOPER
+    distance_km: 19.74
+  - name: FORTTOWSON
+    distance_km: 24.53
+- country: US
+  region: OK
+  name: Grayson
+  lat: '35.5054'
+  long: "-95.8716"
+  nearby_rate_centers:
+  - name: HITCHITA
+    distance_km: 10.97
+  - name: MORRIS
+    distance_km: 11.3
+  - name: HENRYETTA
+    distance_km: 12.64
+- country: US
+  region: OK
+  name: Greasy
+  lat: '35.6698'
+  long: "-94.7003"
+  nearby_rate_centers:
+  - name: STILWELL
+    distance_km: 17.6
+  - name: WUNIONTOWN
+    distance_km: 22.5
+  - name: SALLISAW
+    distance_km: 25.18
+  - name: SALLISAW (DIAMONDNET)
+    distance_km: 25.18
+- country: US
+  region: OK
+  name: Greenfield
+  lat: '35.7290'
+  long: "-98.3775"
+  nearby_rate_centers:
+  - name: GEARY
+    distance_km: 12.84
+  - name: WATONGA
+    distance_km: 13.13
+  - name: HITCHCOCK
+    distance_km: 26.58
+- country: US
+  region: OK
+  name: Greenville
+  lat: '34.0061'
+  long: "-97.1240"
+  nearby_rate_centers:
+  - name: MARIETTA
+    distance_km: 7.64
+  - name: ARDMORE
+    distance_km: 18.88
+  - name: LONE GROVE
+    distance_km: 23.28
+- country: US
+  region: OK
+  name: Gregory
+  lat: '36.1697'
+  long: "-95.5741"
+  nearby_rate_centers:
+  - name: INOLA
+    distance_km: 6.52
+  - name: CATOOSA
+    distance_km: 15.35
+  - name: CLAREMORE
+    distance_km: 16.11
+- country: US
+  region: OK
+  name: Grove
+  lat: '36.5928'
+  long: "-94.7877"
+  nearby_rate_centers:
+  - name: GROVE
+    distance_km: 1.41
+  - name: TIFF CITY
+    distance_km: 17.34
+  - name: SOWESTCITY
+    distance_km: 17.66
+- country: US
+  region: OK
+  name: Guthrie
+  lat: '35.8424'
+  long: "-97.4366"
+  nearby_rate_centers:
+  - name: GUTHRIE
+    distance_km: 4.76
+  - name: MERIDIAN
+    distance_km: 16.54
+  - name: CRESCENT
+    distance_km: 18.81
+- country: US
+  region: OK
+  name: Guymon
+  lat: '36.6903'
+  long: "-101.4774"
+  nearby_rate_centers:
+  - name: GUYMON
+    distance_km: 0.84
+  - name: GOODWELL
+    distance_km: 17.17
+  - name: HARDESTY
+    distance_km: 25.95
+- country: US
+  region: OK
+  name: Haileyville
+  lat: '34.8542'
+  long: "-95.5784"
+  nearby_rate_centers:
+  - name: HARTSHORNE
+    distance_km: 2.1
+  - name: MCALESTER
+    distance_km: 19.37
+  - name: SAVANNA
+    distance_km: 23.52
+- country: US
+  region: OK
+  name: Hallett
+  lat: '36.2319'
+  long: "-96.5679"
+  nearby_rate_centers:
+  - name: HALLETT
+    distance_km: 0.1
+  - name: JENNINGS
+    distance_km: 5.49
+  - name: MARAMEC
+    distance_km: 10.23
+- country: US
+  region: OK
+  name: Hammon
+  lat: '35.6323'
+  long: "-99.3832"
+  nearby_rate_centers:
+  - name: HAMMON
+    distance_km: 0.31
+  - name: BUTLER
+    distance_km: 17.24
+  - name: ELK CITY
+    distance_km: 24.86
+- country: US
+  region: OK
+  name: Hanna
+  lat: '35.2022'
+  long: "-95.8896"
+  nearby_rate_centers:
+  - name: HANNA
+    distance_km: 0.27
+  - name: INDIANOLA
+    distance_km: 10.99
+  - name: DUSTIN
+    distance_km: 15.21
+- country: US
+  region: OK
+  name: Hanson
+  lat: '35.4376'
+  long: "-94.6958"
+  nearby_rate_centers:
+  - name: SALLISAW
+    distance_km: 8.56
+  - name: SALLISAW (DIAMONDNET)
+    distance_km: 8.56
+  - name: MULDROW
+    distance_km: 9.42
+  - name: MOFFETT
+    distance_km: 23.0
+- country: US
+  region: OK
+  name: Hardesty
+  lat: '36.6148'
+  long: "-101.1936"
+  nearby_rate_centers:
+  - name: HARDESTY
+    distance_km: 0.76
+  - name: ADAMS
+    distance_km: 18.61
+  - name: GUYMON
+    distance_km: 26.73
+- country: US
+  region: OK
+  name: Harrah
+  lat: '35.4786'
+  long: "-97.1873"
+  nearby_rate_centers:
+  - name: HARRAH
+    distance_km: 2.59
+  - name: CHOCTAW
+    distance_km: 7.48
+  - name: NEWALLA
+    distance_km: 7.82
+- country: US
+  region: OK
+  name: Hartshorne
+  lat: '34.8392'
+  long: "-95.5596"
+  nearby_rate_centers:
+  - name: HARTSHORNE
+    distance_km: 0.63
+  - name: MCALESTER
+    distance_km: 21.66
+  - name: WILBURTON
+    distance_km: 24.14
+- country: US
+  region: OK
+  name: Haskell
+  lat: '35.8187'
+  long: "-95.6805"
+  nearby_rate_centers:
+  - name: HASKELL
+    distance_km: 0.9
+  - name: COWETA
+    distance_km: 15.58
+  - name: PORTER
+    distance_km: 15.64
+- country: US
+  region: OK
+  name: Hastings
+  lat: '34.2243'
+  long: "-98.1088"
+  nearby_rate_centers:
+  - name: HASTINGS
+    distance_km: 0.19
+  - name: WAURIKA
+    distance_km: 12.57
+  - name: TEMPLE
+    distance_km: 12.6
+- country: US
+  region: OK
+  name: Haworth
+  lat: '33.8405'
+  long: "-94.6571"
+  nearby_rate_centers:
+  - name: IDABEL
+    distance_km: 16.75
+  - name: BROKEN BOW
+    distance_km: 22.01
+  - name: EAGLETOWN
+    distance_km: 23.01
+- country: US
+  region: OK
+  name: Haywood
+  lat: '34.8919'
+  long: "-95.9518"
+  nearby_rate_centers:
+  - name: ARPELAR
+    distance_km: 6.62
+  - name: SAVANNA
+    distance_km: 12.36
+  - name: STUART
+    distance_km: 13.38
+- country: US
+  region: OK
+  name: Headrick
+  lat: '34.6270'
+  long: "-99.1373"
+  nearby_rate_centers:
+  - name: HEADRICK
+    distance_km: 0.11
+  - name: TIPTON
+    distance_km: 13.3
+  - name: SNYDER
+    distance_km: 16.81
+- country: US
+  region: OK
+  name: Healdton
+  lat: '34.2335'
+  long: "-97.4867"
+  nearby_rate_centers:
+  - name: HEALDTON
+    distance_km: 0.33
+  - name: WILSON
+    distance_km: 10.06
+  - name: PIKE CITY
+    distance_km: 11.13
+- country: US
+  region: OK
+  name: Heavener
+  lat: '34.8919'
+  long: "-94.6075"
+  nearby_rate_centers:
+  - name: HEAVENER
+    distance_km: 0.72
+  - name: MONROEHOWE
+    distance_km: 10.17
+  - name: WISTER
+    distance_km: 13.66
+- country: US
+  region: OK
+  name: Helena
+  lat: '36.5463'
+  long: "-98.2718"
+  nearby_rate_centers:
+  - name: HELENA
+    distance_km: 0.77
+  - name: GOLTRY
+    distance_km: 10.78
+  - name: JET
+    distance_km: 15.38
+- country: US
+  region: OK
+  name: Hendrix
+  lat: '33.7753'
+  long: "-96.4072"
+  nearby_rate_centers:
+  - name: KEMP
+    distance_km: 4.56
+  - name: ACHILLE
+    distance_km: 6.64
+  - name: COLBERT
+    distance_km: 12.43
+- country: US
+  region: OK
+  name: Hennepin
+  lat: '34.5143'
+  long: "-97.3490"
+  nearby_rate_centers:
+  - name: HENNEPIN
+    distance_km: 0.75
+  - name: ELMORECITY
+    distance_km: 12.34
+  - name: RATLIFF CY
+    distance_km: 16.06
+- country: US
+  region: OK
+  name: Hennessey
+  lat: '36.1056'
+  long: "-97.8989"
+  nearby_rate_centers:
+  - name: HENNESSEY
+    distance_km: 0.24
+  - name: DOVER
+    distance_km: 13.8
+  - name: WAUKOMIS
+    distance_km: 19.44
+- country: US
+  region: OK
+  name: Henryetta
+  lat: '35.4417'
+  long: "-95.9864"
+  nearby_rate_centers:
+  - name: HENRYETTA
+    distance_km: 0.3
+  - name: DUSTIN
+    distance_km: 19.03
+  - name: WELEETKA
+    distance_km: 19.32
+- country: US
+  region: OK
+  name: Hickory
+  lat: '34.5569'
+  long: "-96.8584"
+  nearby_rate_centers:
+  - name: ROFF
+    distance_km: 8.05
+  - name: SULPHUR
+    distance_km: 11.03
+  - name: MILL CREEK
+    distance_km: 18.03
+- country: US
+  region: OK
+  name: Hillsdale
+  lat: '36.5632'
+  long: "-97.9927"
+  nearby_rate_centers:
+  - name: HILLSDALE
+    distance_km: 0.18
+  - name: CARRIER
+    distance_km: 10.18
+  - name: NASH
+    distance_km: 12.78
+- country: US
+  region: OK
+  name: Hinton
+  lat: '35.4895'
+  long: "-98.3575"
+  nearby_rate_centers:
+  - name: HINTON
+    distance_km: 1.81
+  - name: LOOKEBA
+    distance_km: 13.7
+  - name: GEARY
+    distance_km: 15.39
+- country: US
+  region: OK
+  name: Hitchcock
+  lat: '35.9676'
+  long: "-98.3497"
+  nearby_rate_centers:
+  - name: HITCHCOCK
+    distance_km: 0.07
+  - name: WATONGA
+    distance_km: 14.99
+  - name: OKEENE
+    distance_km: 16.7
+- country: US
+  region: OK
+  name: Hitchita
+  lat: '35.5199'
+  long: "-95.7517"
+  nearby_rate_centers:
+  - name: HITCHITA
+    distance_km: 0.59
+  - name: COUNCIL HL
+    distance_km: 10.25
+  - name: MORRIS
+    distance_km: 13.59
+- country: US
+  region: OK
+  name: Hobart
+  lat: '35.0246'
+  long: "-99.0875"
+  nearby_rate_centers:
+  - name: HOBART
+    distance_km: 0.6
+  - name: ROCKY
+    distance_km: 15.01
+  - name: LONE WOLF
+    distance_km: 15.14
+- country: US
+  region: OK
+  name: Hochatown
+  lat: '34.1482'
+  long: "-94.7465"
+  nearby_rate_centers:
+  - name: HOCHATOWN
+    distance_km: 8.39
+  - name: BROKEN BOW
+    distance_km: 13.62
+  - name: OAK HILL
+    distance_km: 15.29
+- country: US
+  region: OK
+  name: Hodgen
+  lat: '34.8406'
+  long: "-94.6339"
+  nearby_rate_centers:
+  - name: HEAVENER
+    distance_km: 6.63
+  - name: MONROEHOWE
+    distance_km: 15.6
+  - name: WISTER
+    distance_km: 16.44
+- country: US
+  region: OK
+  name: Hoffman
+  lat: '35.4888'
+  long: "-95.8447"
+  nearby_rate_centers:
+  - name: HITCHITA
+    distance_km: 9.25
+  - name: MORRIS
+    distance_km: 13.13
+  - name: HENRYETTA
+    distance_km: 13.86
+- country: US
+  region: OK
+  name: Holdenville
+  lat: '35.0838'
+  long: "-96.4017"
+  nearby_rate_centers:
+  - name: HOLDENVL
+    distance_km: 0.35
+  - name: WEWOKA
+    distance_km: 12.04
+  - name: ATWOOD
+    distance_km: 15.3
+- country: US
+  region: OK
+  name: Hollis
+  lat: '34.6897'
+  long: "-99.9153"
+  nearby_rate_centers:
+  - name: HOLLIS
+    distance_km: 0.61
+  - name: GOULD
+    distance_km: 13.75
+  - name: VINSON
+    distance_km: 23.94
+- country: US
+  region: OK
+  name: Hollister
+  lat: '34.3408'
+  long: "-98.8712"
+  nearby_rate_centers:
+  - name: FREDERICK
+    distance_km: 14.26
+  - name: MANITOU
+    distance_km: 20.41
+  - name: GRANDFIELD
+    distance_km: 21.04
+- country: US
+  region: OK
+  name: Homestead
+  lat: '36.1500'
+  long: "-98.3969"
+  nearby_rate_centers:
+  - name: OKEENE
+    distance_km: 8.25
+  - name: LONGDALE
+    distance_km: 12.7
+  - name: FAIRVIEW
+    distance_km: 15.32
+- country: US
+  region: OK
+  name: Hominy
+  lat: '36.4219'
+  long: "-96.3930"
+  nearby_rate_centers:
+  - name: HOMINY
+    distance_km: 1.4
+  - name: CLEVELAND
+    distance_km: 13.74
+  - name: OSAGE
+    distance_km: 14.63
+- country: US
+  region: OK
+  name: Honey Hill
+  lat: '35.7694'
+  long: "-94.5716"
+  nearby_rate_centers:
+  - name: STILWELL
+    distance_km: 6.87
+  - name: BARON
+    distance_km: 17.39
+  - name: WUNIONTOWN
+    distance_km: 22.28
+- country: US
+  region: OK
+  name: Hooker
+  lat: '36.8613'
+  long: "-101.2162"
+  nearby_rate_centers:
+  - name: HOOKER
+    distance_km: 0.57
+  - name: TYRONE
+    distance_km: 13.54
+  - name: ADAMS
+    distance_km: 16.36
+- country: US
+  region: OK
+  name: Hoot Owl
+  lat: '36.3600'
+  long: "-95.1214"
+  nearby_rate_centers:
+  - name: STRANG
+    distance_km: 6.41
+  - name: SALINA
+    distance_km: 6.9
+  - name: SPAVINAW
+    distance_km: 7.75
+- country: US
+  region: OK
+  name: Hopeton
+  lat: '36.6882'
+  long: "-98.6620"
+  nearby_rate_centers:
+  - name: HOPETON
+    distance_km: 0.91
+  - name: DACOMA
+    distance_km: 8.87
+  - name: ALVA
+    distance_km: 12.52
+- country: US
+  region: OK
+  name: Horntown
+  lat: '35.0869'
+  long: "-96.2476"
+  nearby_rate_centers:
+  - name: CALVIN
+    distance_km: 12.67
+  - name: HOLDENVL
+    distance_km: 14.29
+  - name: WETUMKA
+    distance_km: 15.42
+- country: US
+  region: OK
+  name: Hough
+  lat: '36.8720'
+  long: "-101.5747"
+  nearby_rate_centers:
+  - name: GUYMON
+    distance_km: 22.59
+  - name: EVA
+    distance_km: 30.77
+  - name: GOODWELL
+    distance_km: 30.86
+- country: US
+  region: OK
+  name: Howe
+  lat: '34.9496'
+  long: "-94.6403"
+  nearby_rate_centers:
+  - name: MONROEHOWE
+    distance_km: 3.54
+  - name: HEAVENER
+    distance_km: 7.27
+  - name: WISTER
+    distance_km: 7.98
+- country: US
+  region: OK
+  name: Hoyt
+  lat: '35.2680'
+  long: "-95.3002"
+  nearby_rate_centers:
+  - name: ENTERPRISE
+    distance_km: 8.53
+  - name: PORUM
+    distance_km: 9.72
+  - name: STIGLER
+    distance_km: 16.11
+- country: US
+  region: OK
+  name: Hugo
+  lat: '34.0118'
+  long: "-95.5115"
+  nearby_rate_centers:
+  - name: HUGO
+    distance_km: 0.33
+  - name: SOPER
+    distance_km: 17.21
+  - name: FORTTOWSON
+    distance_km: 22.52
+- country: US
+  region: OK
+  name: Hulbert
+  lat: '35.9316'
+  long: "-95.1454"
+  nearby_rate_centers:
+  - name: SNUGHARBOR
+    distance_km: 13.84
+  - name: TAHLEQUAH
+    distance_km: 15.97
+  - name: FORTGIBSON
+    distance_km: 17.56
+- country: US
+  region: OK
+  name: Hunter
+  lat: '36.5640'
+  long: "-97.6625"
+  nearby_rate_centers:
+  - name: HUNTER
+    distance_km: 0.38
+  - name: KREMLIN
+    distance_km: 14.91
+  - name: GARBER
+    distance_km: 15.34
+- country: US
+  region: OK
+  name: Hydro
+  lat: '35.5483'
+  long: "-98.5795"
+  nearby_rate_centers:
+  - name: HYDRO
+    distance_km: 0.27
+  - name: WEATHERFD
+    distance_km: 12.13
+  - name: HINTON
+    distance_km: 21.64
+- country: US
+  region: OK
+  name: IXL
+  lat: '35.5227'
+  long: "-96.3882"
+  nearby_rate_centers:
+  - name: CASTLE
+    distance_km: 5.34
+  - name: BOLEY
+    distance_km: 9.1
+  - name: OKEMAH
+    distance_km: 12.56
+- country: US
+  region: OK
+  name: Idabel
+  lat: '33.9040'
+  long: "-94.8285"
+  nearby_rate_centers:
+  - name: IDABEL
+    distance_km: 1.01
+  - name: BROKEN BOW
+    distance_km: 15.76
+  - name: OAK HILL
+    distance_km: 16.4
+- country: US
+  region: OK
+  name: Indiahoma
+  lat: '34.6197'
+  long: "-98.7522"
+  nearby_rate_centers:
+  - name: INDIAHOMA
+    distance_km: 0.24
+  - name: CACHE
+    distance_km: 11.4
+  - name: SNYDER
+    distance_km: 18.92
+- country: US
+  region: OK
+  name: Indianola
+  lat: '35.1637'
+  long: "-95.7761"
+  nearby_rate_centers:
+  - name: INDIANOLA
+    distance_km: 0.35
+  - name: CROWDER
+    distance_km: 11.03
+  - name: CANADIAN
+    distance_km: 11.35
+- country: US
+  region: OK
+  name: Ingalls
+  lat: '36.1047'
+  long: "-96.8708"
+  nearby_rate_centers:
+  - name: RIPLEY
+    distance_km: 10.06
+  - name: GLENCOE
+    distance_km: 15.12
+  - name: YALE
+    distance_km: 15.36
+- country: US
+  region: OK
+  name: Inola
+  lat: '36.1321'
+  long: "-95.5369"
+  nearby_rate_centers:
+  - name: INOLA
+    distance_km: 3.32
+  - name: CHOUTEAU
+    distance_km: 18.45
+  - name: CATOOSA
+    distance_km: 19.61
+- country: US
+  region: OK
+  name: Iron Post
+  lat: '36.1558'
+  long: "-95.1353"
+  nearby_rate_centers:
+  - name: LOCUST GRV
+    distance_km: 5.75
+  - name: PEGGS
+    distance_km: 6.32
+  - name: CEDARCREST
+    distance_km: 8.57
+- country: US
+  region: OK
+  name: Isabella
+  lat: '36.2354'
+  long: "-98.3354"
+  nearby_rate_centers:
+  - name: AMES
+    distance_km: 12.13
+  - name: FAIRVIEW
+    distance_km: 13.48
+  - name: OKEENE
+    distance_km: 13.48
+- country: US
+  region: OK
+  name: Jay
+  lat: '36.4271'
+  long: "-94.7956"
+  nearby_rate_centers:
+  - name: JAY
+    distance_km: 0.28
+  - name: WMAYSVILLE
+    distance_km: 17.28
+  - name: DISNEY
+    distance_km: 17.61
+- country: US
+  region: OK
+  name: Jefferson
+  lat: '36.7203'
+  long: "-97.7909"
+  nearby_rate_centers:
+  - name: POND CREEK
+    distance_km: 6.29
+  - name: MEDFORD
+    distance_km: 10.82
+  - name: KREMLIN
+    distance_km: 19.51
+- country: US
+  region: OK
+  name: Jenks
+  lat: '35.9981'
+  long: "-95.9736"
+  nearby_rate_centers:
+  - name: JENKS
+    distance_km: 2.59
+  - name: BIXBYNORTH
+    distance_km: 5.71
+  - name: KIEFER
+    distance_km: 10.29
+- country: US
+  region: OK
+  name: Jennings
+  lat: '36.1823'
+  long: "-96.5692"
+  nearby_rate_centers:
+  - name: JENNINGS
+    distance_km: 0.02
+  - name: HALLETT
+    distance_km: 5.57
+  - name: OILTON
+    distance_km: 11.09
+- country: US
+  region: OK
+  name: Jet
+  lat: '36.6665'
+  long: "-98.1815"
+  nearby_rate_centers:
+  - name: JET
+    distance_km: 0.25
+  - name: NASH
+    distance_km: 11.59
+  - name: GOLTRY
+    distance_km: 14.8
+- country: US
+  region: OK
+  name: Johnson
+  lat: '35.4064'
+  long: "-96.8444"
+  nearby_rate_centers:
+  - name: SHAWNEE
+    distance_km: 11.13
+  - name: MEEKER
+    distance_km: 11.86
+  - name: EARLSBORO
+    distance_km: 15.91
+- country: US
+  region: OK
+  name: Johnson Prairie
+  lat: '36.0791'
+  long: "-94.9759"
+  nearby_rate_centers:
+  - name: PEGGS
+    distance_km: 10.73
+  - name: TAHLEQUAH
+    distance_km: 18.05
+  - name: CEDARCREST
+    distance_km: 21.1
+- country: US
+  region: OK
+  name: Jones
+  lat: '35.5662'
+  long: "-97.2901"
+  nearby_rate_centers:
+  - name: JONES
+    distance_km: 0.88
+  - name: CHOCTAW
+    distance_km: 7.83
+  - name: NICOMAPARK
+    distance_km: 8.74
+- country: US
+  region: OK
+  name: Justice
+  lat: '36.2908'
+  long: "-95.5636"
+  nearby_rate_centers:
+  - name: CLAREMORE
+    distance_km: 4.98
+  - name: INOLA
+    distance_km: 16.61
+  - name: CATOOSA
+    distance_km: 19.64
+- country: US
+  region: OK
+  name: Kansas
+  lat: '36.2053'
+  long: "-94.7888"
+  nearby_rate_centers:
+  - name: KANSAS
+    distance_km: 0.82
+  - name: FLINT
+    distance_km: 4.95
+  - name: COLCORD
+    distance_km: 9.61
+- country: US
+  region: OK
+  name: Katie
+  lat: '34.5832'
+  long: "-97.3389"
+  nearby_rate_centers:
+  - name: ELMORECITY
+    distance_km: 6.93
+  - name: HENNEPIN
+    distance_km: 8.44
+  - name: WYNNEWOOD
+    distance_km: 16.91
+- country: US
+  region: OK
+  name: Kaw City
+  lat: '36.7675'
+  long: "-96.8602"
+  nearby_rate_centers:
+  - name: KAW CITY
+    distance_km: 1.06
+  - name: BURBANK
+    distance_km: 13.52
+  - name: WEBB CITY
+    distance_km: 13.55
+- country: US
+  region: OK
+  name: Keefton
+  lat: '35.5772'
+  long: "-95.3065"
+  nearby_rate_centers:
+  - name: KEEFETON
+    distance_km: 4.47
+  - name: WARNER
+    distance_km: 9.31
+  - name: BRAGGS
+    distance_km: 13.79
+- country: US
+  region: OK
+  name: Kellyville
+  lat: '35.9528'
+  long: "-96.2003"
+  nearby_rate_centers:
+  - name: KELLYVILLE
+    distance_km: 2.55
+  - name: SAPULPA
+    distance_km: 9.52
+  - name: KIEFER
+    distance_km: 12.18
+- country: US
+  region: OK
+  name: Kemp
+  lat: '33.7696'
+  long: "-96.3542"
+  nearby_rate_centers:
+  - name: KEMP
+    distance_km: 0.46
+  - name: ACHILLE
+    distance_km: 7.6
+  - name: YUBA
+    distance_km: 14.32
+- country: US
+  region: OK
+  name: Kendrick
+  lat: '35.7853'
+  long: "-96.7755"
+  nearby_rate_centers:
+  - name: KENDRICK
+    distance_km: 0.19
+  - name: DAVENPORT
+    distance_km: 8.54
+  - name: STROUD
+    distance_km: 10.37
+- country: US
+  region: OK
+  name: Kenefic
+  lat: '34.1500'
+  long: "-96.3644"
+  nearby_rate_centers:
+  - name: CADDO
+    distance_km: 9.88
+  - name: DURANT
+    distance_km: 17.28
+  - name: MILBURN
+    distance_km: 19.94
+- country: US
+  region: OK
+  name: Kenton
+  lat: '36.9064'
+  long: "-102.9653"
+  nearby_rate_centers:
+  - name: KENTON
+    distance_km: 3.52
+  - name: FELTWHLESS
+    distance_km: 33.15
+  - name: BOISE CITY
+    distance_km: 44.45
+- country: US
+  region: OK
+  name: Kenwood
+  lat: '36.3012'
+  long: "-94.9978"
+  nearby_rate_centers:
+  - name: SPAVINAW
+    distance_km: 11.74
+  - name: SALINA
+    distance_km: 13.55
+  - name: STRANG
+    distance_km: 17.62
+- country: US
+  region: OK
+  name: Keota
+  lat: '35.2569'
+  long: "-94.9226"
+  nearby_rate_centers:
+  - name: KEOTA
+    distance_km: 0.45
+  - name: MCCURTAIN
+    distance_km: 12.54
+  - name: BOKOSHE
+    distance_km: 14.53
+- country: US
+  region: OK
+  name: Ketchum
+  lat: '36.5251'
+  long: "-95.0341"
+  nearby_rate_centers:
+  - name: KETCHUM
+    distance_km: 2.06
+  - name: DISNEY
+    distance_km: 6.87
+  - name: SPAVINAW
+    distance_km: 14.16
+- country: US
+  region: OK
+  name: Keyes
+  lat: '36.8076'
+  long: "-102.2517"
+  nearby_rate_centers:
+  - name: KEYES
+    distance_km: 0.25
+  - name: GRIGGS
+    distance_km: 22.27
+  - name: BOISE CITY
+    distance_km: 24.86
+- country: US
+  region: OK
+  name: Keys
+  lat: '35.8022'
+  long: "-94.9606"
+  nearby_rate_centers:
+  - name: TAHLEQUAH
+    distance_km: 12.78
+  - name: FORTGIBSON
+    distance_km: 26.23
+  - name: BRAGGS
+    distance_km: 26.35
+- country: US
+  region: OK
+  name: Kiefer
+  lat: '35.9442'
+  long: "-96.0529"
+  nearby_rate_centers:
+  - name: KIEFER
+    distance_km: 1.15
+  - name: MOUNDS
+    distance_km: 7.91
+  - name: SAPULPA
+    distance_km: 7.99
+- country: US
+  region: OK
+  name: Kildare
+  lat: '36.8085'
+  long: "-97.0499"
+  nearby_rate_centers:
+  - name: NEWKIRK
+    distance_km: 8.68
+  - name: PONCA CITY
+    distance_km: 11.24
+  - name: KAW CITY
+    distance_km: 17.95
+- country: US
+  region: OK
+  name: Kingfisher
+  lat: '35.8444'
+  long: "-97.9386"
+  nearby_rate_centers:
+  - name: KINGFISHER
+    distance_km: 1.75
+  - name: OKARCHE
+    distance_km: 13.73
+  - name: DOVER
+    distance_km: 15.48
+- country: US
+  region: OK
+  name: Kingston
+  lat: '34.0004'
+  long: "-96.7062"
+  nearby_rate_centers:
+  - name: KINGSTON
+    distance_km: 0.85
+  - name: MADILL
+    distance_km: 11.31
+  - name: CARTWRIGHT
+    distance_km: 20.58
+- country: US
+  region: OK
+  name: Kinta
+  lat: '35.1194'
+  long: "-95.2378"
+  nearby_rate_centers:
+  - name: KINTA
+    distance_km: 0.64
+  - name: QUINTON
+    distance_km: 11.13
+  - name: ENTERPRISE
+    distance_km: 17.19
+- country: US
+  region: OK
+  name: Kiowa
+  lat: '34.7230'
+  long: "-95.9025"
+  nearby_rate_centers:
+  - name: KIOWA
+    distance_km: 0.64
+  - name: WARDVILLE
+    distance_km: 13.79
+  - name: SAVANNA
+    distance_km: 13.94
+- country: US
+  region: OK
+  name: Knowles
+  lat: '36.8729'
+  long: "-100.1924"
+  nearby_rate_centers:
+  - name: GATE
+    distance_km: 11.98
+  - name: SOUTHMEADE
+    distance_km: 18.9
+  - name: SO ENGLEWD
+    distance_km: 21.32
+- country: US
+  region: OK
+  name: Konawa
+  lat: '34.9579'
+  long: "-96.7538"
+  nearby_rate_centers:
+  - name: KONAWA
+    distance_km: 0.22
+  - name: ST LOUIS
+    distance_km: 15.94
+  - name: ASHER
+    distance_km: 16.27
+- country: US
+  region: OK
+  name: Krebs
+  lat: '34.9301'
+  long: "-95.7189"
+  nearby_rate_centers:
+  - name: MCALESTER
+    distance_km: 4.48
+  - name: SAVANNA
+    distance_km: 14.93
+  - name: HARTSHORNE
+    distance_km: 17.44
+- country: US
+  region: OK
+  name: Kremlin
+  lat: '36.5467'
+  long: "-97.8321"
+  nearby_rate_centers:
+  - name: KREMLIN
+    distance_km: 0.36
+  - name: POND CREEK
+    distance_km: 13.37
+  - name: HILLSDALE
+    distance_km: 14.35
+- country: US
+  region: OK
+  name: Lahoma
+  lat: '36.3874'
+  long: "-98.0908"
+  nearby_rate_centers:
+  - name: LAHOMA
+    distance_km: 0.58
+  - name: MENO
+    distance_km: 8.28
+  - name: DRUMMOND
+    distance_km: 10.69
+- country: US
+  region: OK
+  name: Lake Aluma
+  lat: '35.5334'
+  long: "-97.4484"
+  nearby_rate_centers:
+  - name: SPENCER
+    distance_km: 6.74
+  - name: BRITTON
+    distance_km: 7.75
+  - name: OKLA CITY
+    distance_km: 9.27
+- country: US
+  region: OK
+  name: Lake Ellsworth Addition
+  lat: '34.8368'
+  long: "-98.3213"
+  nearby_rate_centers:
+  - name: APACHE
+    distance_km: 7.29
+  - name: ELGIN
+    distance_km: 7.39
+  - name: FLETCHER
+    distance_km: 7.66
+- country: US
+  region: OK
+  name: Lakeside Village
+  lat: '34.8003'
+  long: "-98.3809"
+  nearby_rate_centers:
+  - name: ELGIN
+    distance_km: 8.75
+  - name: APACHE
+    distance_km: 10.04
+  - name: FLETCHER
+    distance_km: 12.81
+- country: US
+  region: OK
+  name: Lamar
+  lat: '35.0942'
+  long: "-96.1241"
+  nearby_rate_centers:
+  - name: SCIPIO
+    distance_km: 16.53
+  - name: WETUMKA
+    distance_km: 16.89
+  - name: CALVIN
+    distance_km: 17.66
+- country: US
+  region: OK
+  name: Lambert
+  lat: '36.6832'
+  long: "-98.4237"
+  nearby_rate_centers:
+  - name: CHEROKEE
+    distance_km: 10.43
+  - name: CARMEN
+    distance_km: 11.66
+  - name: DACOMA
+    distance_km: 12.91
+- country: US
+  region: OK
+  name: Lamont
+  lat: '36.6911'
+  long: "-97.5583"
+  nearby_rate_centers:
+  - name: LAMONT
+    distance_km: 1.15
+  - name: DEER CREEK
+    distance_km: 13.37
+  - name: HUNTER
+    distance_km: 16.97
+- country: US
+  region: OK
+  name: Lane
+  lat: '34.2997'
+  long: "-95.9894"
+  nearby_rate_centers:
+  - name: ATOKA
+    distance_km: 15.73
+  - name: STRINGTOWN
+    distance_km: 19.49
+  - name: BENNINGTON
+    distance_km: 30.66
+- country: US
+  region: OK
+  name: Langley
+  lat: '36.4703'
+  long: "-95.0527"
+  nearby_rate_centers:
+  - name: KETCHUM
+    distance_km: 5.19
+  - name: DISNEY
+    distance_km: 6.51
+  - name: SPAVINAW
+    distance_km: 8.01
+- country: US
+  region: OK
+  name: Langston
+  lat: '35.9308'
+  long: "-97.2807"
+  nearby_rate_centers:
+  - name: MERIDIAN
+    distance_km: 9.47
+  - name: GUTHRIE
+    distance_km: 13.55
+  - name: MULHALL
+    distance_km: 19.1
+- country: US
+  region: OK
+  name: Latta
+  lat: '34.7532'
+  long: "-96.7088"
+  nearby_rate_centers:
+  - name: ADA
+    distance_km: 3.77
+  - name: FITTSTOWN
+    distance_km: 16.43
+  - name: ROFF
+    distance_km: 18.43
+- country: US
+  region: OK
+  name: Laverne
+  lat: '36.7053'
+  long: "-99.8968"
+  nearby_rate_centers:
+  - name: LAVERNE
+    distance_km: 0.46
+  - name: MAY
+    distance_km: 16.68
+  - name: GATE
+    distance_km: 21.73
+- country: US
+  region: OK
+  name: Lawrence Creek
+  lat: '36.0838'
+  long: "-96.4267"
+  nearby_rate_centers:
+  - name: MANNFORD
+    distance_km: 7.11
+  - name: OILTON
+    distance_km: 14.51
+  - name: MANNFORD E
+    distance_km: 15.44
+- country: US
+  region: OK
+  name: Lawton
+  lat: '34.6175'
+  long: "-98.4202"
+  nearby_rate_centers:
+  - name: LAWTON
+    distance_km: 1.2
+  - name: MEDICINEPK
+    distance_km: 13.81
+  - name: CACHE
+    distance_km: 19.02
+- country: US
+  region: OK
+  name: Lawtonka Acres
+  lat: '34.7789'
+  long: "-98.5305"
+  nearby_rate_centers:
+  - name: MEDICINEPK
+    distance_km: 6.81
+  - name: CACHE
+    distance_km: 19.25
+  - name: APACHE
+    distance_km: 19.31
+- country: US
+  region: OK
+  name: Le Flore
+  lat: '34.8981'
+  long: "-94.9772"
+  nearby_rate_centers:
+  - name: LEFLORE
+    distance_km: 0.75
+  - name: FANSHAWE
+    distance_km: 8.27
+  - name: SUMMERFLD
+    distance_km: 9.76
+- country: US
+  region: OK
+  name: Leach
+  lat: '36.1979'
+  long: "-94.9099"
+  nearby_rate_centers:
+  - name: KANSAS
+    distance_km: 10.25
+  - name: FLINT
+    distance_km: 14.19
+  - name: PEGGS
+    distance_km: 18.42
+- country: US
+  region: OK
+  name: Lebanon
+  lat: '33.9737'
+  long: "-96.9177"
+  nearby_rate_centers:
+  - name: MADILL
+    distance_km: 18.77
+  - name: KINGSTON
+    distance_km: 18.88
+  - name: MARIETTA
+    distance_km: 19.12
+- country: US
+  region: OK
+  name: Leedey
+  lat: '35.8681'
+  long: "-99.3449"
+  nearby_rate_centers:
+  - name: LEEDEY
+    distance_km: 0.59
+  - name: CAMARGO
+    distance_km: 17.22
+  - name: HAMMON
+    distance_km: 26.2
+- country: US
+  region: OK
+  name: Lehigh
+  lat: '34.4707'
+  long: "-96.2208"
+  nearby_rate_centers:
+  - name: COALGATE
+    distance_km: 7.81
+  - name: ATOKA
+    distance_km: 12.91
+  - name: STRINGTOWN
+    distance_km: 15.74
+- country: US
+  region: OK
+  name: Lenapah
+  lat: '36.8514'
+  long: "-95.6357"
+  nearby_rate_centers:
+  - name: LENAPAH
+    distance_km: 1.03
+  - name: DELAWARE
+    distance_km: 8.14
+  - name: SOCOFFEYVL
+    distance_km: 15.64
+- country: US
+  region: OK
+  name: Leon
+  lat: '33.8773'
+  long: "-97.4291"
+  nearby_rate_centers:
+  - name: MARIETTA
+    distance_km: 29.27
+  - name: WILSON
+    distance_km: 31.34
+  - name: RINGLING
+    distance_km: 36.17
+- country: US
+  region: OK
+  name: Leonard
+  lat: '35.9228'
+  long: "-95.8010"
+  nearby_rate_centers:
+  - name: BIXBY
+    distance_km: 7.65
+  - name: BIXBYNORTH
+    distance_km: 12.74
+  - name: BROKENARRW
+    distance_km: 14.2
+- country: US
+  region: OK
+  name: Lequire
+  lat: '35.1098'
+  long: "-95.1065"
+  nearby_rate_centers:
+  - name: KINTA
+    distance_km: 11.37
+  - name: MCCURTAIN
+    distance_km: 13.59
+  - name: STIGLER
+    distance_km: 16.31
+- country: US
+  region: OK
+  name: Lexington
+  lat: '35.0179'
+  long: "-97.3348"
+  nearby_rate_centers:
+  - name: PURCELL
+    distance_km: 2.29
+  - name: WAYNE
+    distance_km: 11.31
+  - name: WASHINGTON
+    distance_km: 14.4
+- country: US
+  region: OK
+  name: Liberty
+  lat: '35.4656'
+  long: "-94.5442"
+  nearby_rate_centers:
+  - name: MULDROW
+    distance_km: 8.11
+  - name: MOFFETT
+    distance_km: 12.08
+  - name: WUNIONTOWN
+    distance_km: 14.75
+- country: US
+  region: OK
+  name: Lima
+  lat: '35.1737'
+  long: "-96.5983"
+  nearby_rate_centers:
+  - name: BOWLEGS
+    distance_km: 6.93
+  - name: SEMINOLE
+    distance_km: 8.72
+  - name: WEWOKA
+    distance_km: 9.57
+- country: US
+  region: OK
+  name: Limestone
+  lat: '36.3143'
+  long: "-95.7477"
+  nearby_rate_centers:
+  - name: COLLINSVL
+    distance_km: 9.8
+  - name: OWASSO
+    distance_km: 10.69
+  - name: CLAREMORE
+    distance_km: 12.07
+- country: US
+  region: OK
+  name: Lindsay
+  lat: '34.8393'
+  long: "-97.6105"
+  nearby_rate_centers:
+  - name: LINDSAY
+    distance_km: 0.62
+  - name: BRADLEY
+    distance_km: 9.97
+  - name: ALEX
+    distance_km: 17.29
+- country: US
+  region: OK
+  name: Little City
+  lat: '34.0840'
+  long: "-96.6160"
+  nearby_rate_centers:
+  - name: KINGSTON
+    distance_km: 13.06
+  - name: MADILL
+    distance_km: 14.01
+  - name: TISHOMINGO
+    distance_km: 18.33
+- country: US
+  region: OK
+  name: Little Ponderosa
+  lat: '36.9612'
+  long: "-100.8782"
+  nearby_rate_centers:
+  - name: TURPIN
+    distance_km: 4.9
+  - name: TYRONE
+    distance_km: 18.58
+  - name: FLORIS
+    distance_km: 19.12
+- country: US
+  region: OK
+  name: Little Rock
+  lat: '36.2170'
+  long: "-95.0926"
+  nearby_rate_centers:
+  - name: LOCUST GRV
+    distance_km: 6.68
+  - name: SALINA
+    distance_km: 10.73
+  - name: PEGGS
+    distance_km: 11.42
+- country: US
+  region: OK
+  name: Loco
+  lat: '34.3297'
+  long: "-97.6807"
+  nearby_rate_centers:
+  - name: LOCO
+    distance_km: 0.44
+  - name: VELMA
+    distance_km: 14.31
+  - name: PIKE CITY
+    distance_km: 18.03
+- country: US
+  region: OK
+  name: Locust Grove
+  lat: '36.1982'
+  long: "-95.1689"
+  nearby_rate_centers:
+  - name: LOCUST GRV
+    distance_km: 0.56
+  - name: CEDARCREST
+    distance_km: 10.82
+  - name: SALINA
+    distance_km: 11.69
+- country: US
+  region: OK
+  name: Lone Chimney
+  lat: '36.2326'
+  long: "-96.7929"
+  nearby_rate_centers:
+  - name: MARAMEC
+    distance_km: 10.02
+  - name: PAWNEE
+    distance_km: 11.97
+  - name: GLENCOE
+    distance_km: 12.32
+- country: US
+  region: OK
+  name: Lone Grove
+  lat: '34.1809'
+  long: "-97.2559"
+  nearby_rate_centers:
+  - name: LONE GROVE
+    distance_km: 0.36
+  - name: ARDMORE
+    distance_km: 11.51
+  - name: WILSON
+    distance_km: 15.7
+- country: US
+  region: OK
+  name: Lone Wolf
+  lat: '34.9904'
+  long: "-99.2456"
+  nearby_rate_centers:
+  - name: LONE WOLF
+    distance_km: 0.27
+  - name: GRANITE
+    distance_km: 12.68
+  - name: HOBART
+    distance_km: 14.33
+- country: US
+  region: OK
+  name: Long
+  lat: '35.4993'
+  long: "-94.5470"
+  nearby_rate_centers:
+  - name: MULDROW
+    distance_km: 11.21
+  - name: WUNIONTOWN
+    distance_km: 11.63
+  - name: MOFFETT
+    distance_km: 15.09
+- country: US
+  region: OK
+  name: Longdale
+  lat: '36.1338'
+  long: "-98.5512"
+  nearby_rate_centers:
+  - name: LONGDALE
+    distance_km: 1.27
+  - name: CANTON
+    distance_km: 9.72
+  - name: FAIRVIEW
+    distance_km: 16.55
+- country: US
+  region: OK
+  name: Longtown
+  lat: '35.2408'
+  long: "-95.5176"
+  nearby_rate_centers:
+  - name: LONGTOWN
+    distance_km: 0.8
+  - name: EUFAULA
+    distance_km: 7.73
+  - name: ENTERPRISE
+    distance_km: 12.9
+- country: US
+  region: OK
+  name: Lookeba
+  lat: '35.3630'
+  long: "-98.3638"
+  nearby_rate_centers:
+  - name: LOOKEBA
+    distance_km: 0.48
+  - name: BINGER
+    distance_km: 6.13
+  - name: HINTON
+    distance_km: 12.26
+- country: US
+  region: OK
+  name: Lost City
+  lat: '36.0006'
+  long: "-95.1223"
+  nearby_rate_centers:
+  - name: PEGGS
+    distance_km: 13.04
+  - name: CEDARCREST
+    distance_km: 14.06
+  - name: SNUGHARBOR
+    distance_km: 14.31
+- country: US
+  region: OK
+  name: Lotsee
+  lat: '36.1334'
+  long: "-96.2091"
+  nearby_rate_centers:
+  - name: MANNFORD E
+    distance_km: 5.17
+  - name: SAND SPG
+    distance_km: 8.67
+  - name: KEYSTONE
+    distance_km: 11.55
+- country: US
+  region: OK
+  name: Loveland
+  lat: '34.3046'
+  long: "-98.7708"
+  nearby_rate_centers:
+  - name: GRANDFIELD
+    distance_km: 11.37
+  - name: CHATTANOGA
+    distance_km: 17.32
+  - name: DEVOL
+    distance_km: 20.56
+- country: US
+  region: OK
+  name: Lovell
+  lat: '36.0560'
+  long: "-97.6365"
+  nearby_rate_centers:
+  - name: MARSHALL
+    distance_km: 11.49
+  - name: CRESCENT
+    distance_km: 11.71
+  - name: MULHALL
+    distance_km: 20.62
+- country: US
+  region: OK
+  name: Lowrey
+  lat: '36.0974'
+  long: "-94.9291"
+  nearby_rate_centers:
+  - name: PEGGS
+    distance_km: 14.31
+  - name: KANSAS
+    distance_km: 17.22
+  - name: FLINT
+    distance_km: 17.53
+- country: US
+  region: OK
+  name: Loyal
+  lat: '35.9727'
+  long: "-98.1182"
+  nearby_rate_centers:
+  - name: LOYAL
+    distance_km: 0.15
+  - name: DOVER
+    distance_km: 18.61
+  - name: KINGFISHER
+    distance_km: 20.82
+- country: US
+  region: OK
+  name: Lucien
+  lat: '36.2747'
+  long: "-97.4551"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 12.1
+  - name: PERRY
+    distance_km: 15.1
+  - name: ORLANDO
+    distance_km: 15.85
+- country: US
+  region: OK
+  name: Luther
+  lat: '35.6682'
+  long: "-97.1905"
+  nearby_rate_centers:
+  - name: LUTHER
+    distance_km: 0.51
+  - name: WELLSTON
+    distance_km: 11.8
+  - name: ARCADIA
+    distance_km: 12.02
+- country: US
+  region: OK
+  name: Lyons Switch
+  lat: '35.7744'
+  long: "-94.7053"
+  nearby_rate_centers:
+  - name: STILWELL
+    distance_km: 8.7
+  - name: BARON
+    distance_km: 19.04
+  - name: WESTVILLE
+    distance_km: 27.23
+- country: US
+  region: OK
+  name: Macomb
+  lat: '35.1479'
+  long: "-97.0086"
+  nearby_rate_centers:
+  - name: PEARSON
+    distance_km: 10.54
+  - name: TECUMSEH
+    distance_km: 14.06
+  - name: ST LOUIS
+    distance_km: 16.05
+- country: US
+  region: OK
+  name: Madill
+  lat: '34.0872'
+  long: "-96.7744"
+  nearby_rate_centers:
+  - name: MADILL
+    distance_km: 0.59
+  - name: KINGSTON
+    distance_km: 11.09
+  - name: TISHOMINGO
+    distance_km: 18.9
+- country: US
+  region: OK
+  name: Mallard Bay
+  lat: '35.8623'
+  long: "-95.2638"
+  nearby_rate_centers:
+  - name: FORTGIBSON
+    distance_km: 7.12
+  - name: WAGONER
+    distance_km: 14.09
+  - name: SNUGHARBOR
+    distance_km: 14.34
+- country: US
+  region: OK
+  name: Manchester
+  lat: '36.9945'
+  long: "-98.0351"
+  nearby_rate_centers:
+  - name: MANCHESTER
+    distance_km: 0.66
+  - name: SO WALDRON
+    distance_km: 13.64
+  - name: SOBLF CITY
+    distance_km: 13.75
+- country: US
+  region: OK
+  name: Mangum
+  lat: '34.8787'
+  long: "-99.5038"
+  nearby_rate_centers:
+  - name: MANGUM
+    distance_km: 0.43
+  - name: GRANITE
+    distance_km: 14.5
+  - name: REED
+    distance_km: 17.93
+- country: US
+  region: OK
+  name: Manitou
+  lat: '34.5072'
+  long: "-98.9812"
+  nearby_rate_centers:
+  - name: MANITOU
+    distance_km: 0.84
+  - name: FREDERICK
+    distance_km: 13.3
+  - name: TIPTON
+    distance_km: 13.93
+- country: US
+  region: OK
+  name: Mannford
+  lat: '36.1306'
+  long: "-96.3340"
+  nearby_rate_centers:
+  - name: MANNFORD
+    distance_km: 2.92
+  - name: MANNFORD E
+    distance_km: 7.31
+  - name: KEYSTONE
+    distance_km: 9.1
+- country: US
+  region: OK
+  name: Mannsville
+  lat: '34.1854'
+  long: "-96.8981"
+  nearby_rate_centers:
+  - name: MADILL
+    distance_km: 16.12
+  - name: GENE AUTRY
+    distance_km: 17.33
+  - name: ARDMRAIRPK
+    distance_km: 18.3
+- country: US
+  region: OK
+  name: Maramec
+  lat: '36.2419'
+  long: "-96.6805"
+  nearby_rate_centers:
+  - name: MARAMEC
+    distance_km: 0.25
+  - name: HALLETT
+    distance_km: 10.08
+  - name: JENNINGS
+    distance_km: 11.97
+- country: US
+  region: OK
+  name: Marble City
+  lat: '35.5823'
+  long: "-94.8186"
+  nearby_rate_centers:
+  - name: SALLISAW
+    distance_km: 14.45
+  - name: SALLISAW (DIAMONDNET)
+    distance_km: 14.45
+  - name: VIAN
+    distance_km: 16.66
+  - name: GORE
+    distance_km: 27.19
+- country: US
+  region: OK
+  name: Marietta
+  lat: '33.9360'
+  long: "-97.1248"
+  nearby_rate_centers:
+  - name: MARIETTA
+    distance_km: 0.45
+  - name: ARDMORE
+    distance_km: 26.67
+  - name: LONE GROVE
+    distance_km: 30.14
+- country: US
+  region: OK
+  name: Marland
+  lat: '36.5611'
+  long: "-97.1529"
+  nearby_rate_centers:
+  - name: MARLAND
+    distance_km: 1.04
+  - name: RED ROCK
+    distance_km: 11.28
+  - name: PONCA CITY
+    distance_km: 17.83
+- country: US
+  region: OK
+  name: Marlow
+  lat: '34.6296'
+  long: "-97.9578"
+  nearby_rate_centers:
+  - name: MARLOW
+    distance_km: 2.52
+  - name: DUNCAN
+    distance_km: 14.93
+  - name: RUSH SPG
+    distance_km: 16.85
+- country: US
+  region: OK
+  name: Marshall
+  lat: '36.1502'
+  long: "-97.6234"
+  nearby_rate_centers:
+  - name: MARSHALL
+    distance_km: 0.99
+  - name: DOUGLAS
+    distance_km: 12.63
+  - name: COVINGTON
+    distance_km: 18.09
+- country: US
+  region: OK
+  name: Martha
+  lat: '34.7262'
+  long: "-99.3867"
+  nearby_rate_centers:
+  - name: MARTHA
+    distance_km: 0.34
+  - name: BLAIR
+    distance_km: 7.91
+  - name: ALTUS
+    distance_km: 10.74
+- country: US
+  region: OK
+  name: Maud
+  lat: '35.1334'
+  long: "-96.7780"
+  nearby_rate_centers:
+  - name: MAUD
+    distance_km: 0.4
+  - name: ST LOUIS
+    distance_km: 9.84
+  - name: BOWLEGS
+    distance_km: 10.09
+- country: US
+  region: OK
+  name: May
+  lat: '36.6167'
+  long: "-99.7485"
+  nearby_rate_centers:
+  - name: MAY
+    distance_km: 0.28
+  - name: FORTSUPPLY
+    distance_km: 16.42
+  - name: LAVERNE
+    distance_km: 16.93
+- country: US
+  region: OK
+  name: Maysville
+  lat: '34.8546'
+  long: "-97.3876"
+  nearby_rate_centers:
+  - name: MAYSVILLE
+    distance_km: 4.58
+  - name: WAYNE
+    distance_km: 9.38
+  - name: PAOLI
+    distance_km: 12.14
+- country: US
+  region: OK
+  name: Mazie
+  lat: '36.1425'
+  long: "-95.3303"
+  nearby_rate_centers:
+  - name: CHOUTEAU
+    distance_km: 4.54
+  - name: CEDARCREST
+    distance_km: 11.67
+  - name: INOLA
+    distance_km: 15.81
+- country: US
+  region: OK
+  name: McAlester
+  lat: '34.9257'
+  long: "-95.7734"
+  nearby_rate_centers:
+  - name: MCALESTER
+    distance_km: 0.93
+  - name: SAVANNA
+    distance_km: 11.5
+  - name: ARPELAR
+    distance_km: 17.64
+- country: US
+  region: OK
+  name: McBride
+  lat: '33.9339'
+  long: "-96.6352"
+  nearby_rate_centers:
+  - name: KINGSTON
+    distance_km: 10.45
+  - name: CARTWRIGHT
+    distance_km: 10.77
+  - name: COLBERT
+    distance_km: 15.18
+- country: US
+  region: OK
+  name: McCord
+  lat: '36.6797'
+  long: "-97.0346"
+  nearby_rate_centers:
+  - name: PONCA CITY
+    distance_km: 5.24
+  - name: MARLAND
+    distance_km: 16.31
+  - name: KAW CITY
+    distance_km: 17.95
+- country: US
+  region: OK
+  name: McCurtain
+  lat: '35.1509'
+  long: "-94.9669"
+  nearby_rate_centers:
+  - name: MCCURTAIN
+    distance_km: 0.21
+  - name: KEOTA
+    distance_km: 12.35
+  - name: BOKOSHE
+    distance_km: 16.83
+- country: US
+  region: OK
+  name: McLoud
+  lat: '35.4081'
+  long: "-97.0990"
+  nearby_rate_centers:
+  - name: MCLOUD
+    distance_km: 2.8
+  - name: NEWALLA
+    distance_km: 8.16
+  - name: STELLA
+    distance_km: 10.47
+- country: US
+  region: OK
+  name: Mead
+  lat: '33.9979'
+  long: "-96.5187"
+  nearby_rate_centers:
+  - name: CALERA
+    distance_km: 10.71
+  - name: DURANT
+    distance_km: 12.93
+  - name: COLBERT
+    distance_km: 15.83
+- country: US
+  region: OK
+  name: Medford
+  lat: '36.8035'
+  long: "-97.7378"
+  nearby_rate_centers:
+  - name: MEDFORD
+    distance_km: 0.49
+  - name: POND CREEK
+    distance_km: 16.58
+  - name: WAKITA
+    distance_km: 18.24
+- country: US
+  region: OK
+  name: Medicine Park
+  lat: '34.7287'
+  long: "-98.4782"
+  nearby_rate_centers:
+  - name: MEDICINEPK
+    distance_km: 2.01
+  - name: LAWTON
+    distance_km: 14.65
+  - name: CACHE
+    distance_km: 17.87
+- country: US
+  region: OK
+  name: Meeker
+  lat: '35.4855'
+  long: "-96.8951"
+  nearby_rate_centers:
+  - name: MEEKER
+    distance_km: 1.97
+  - name: SPARKS
+    distance_km: 15.51
+  - name: SHAWNEE
+    distance_km: 17.42
+- country: US
+  region: OK
+  name: Mehan
+  lat: '36.0457'
+  long: "-96.9401"
+  nearby_rate_centers:
+  - name: RIPLEY
+    distance_km: 4.62
+  - name: PERKINS
+    distance_km: 11.38
+  - name: STILLWATER
+    distance_km: 13.0
+- country: US
+  region: OK
+  name: Meno
+  lat: '36.3882'
+  long: "-98.1779"
+  nearby_rate_centers:
+  - name: MENO
+    distance_km: 0.88
+  - name: RINGWOOD
+    distance_km: 6.44
+  - name: LAHOMA
+    distance_km: 7.8
+- country: US
+  region: OK
+  name: Meridian
+  lat: '35.8442'
+  long: "-97.2456"
+  nearby_rate_centers:
+  - name: MERIDIAN
+    distance_km: 0.84
+  - name: GUTHRIE
+    distance_km: 16.2
+  - name: LUTHER
+    distance_km: 20.65
+- country: US
+  region: OK
+  name: Miami
+  lat: '36.8878'
+  long: "-94.8711"
+  nearby_rate_centers:
+  - name: MIAMI
+    distance_km: 1.75
+  - name: COMMERCE
+    distance_km: 5.1
+  - name: QUAPAW
+    distance_km: 10.86
+- country: US
+  region: OK
+  name: Middleberg
+  lat: '35.1067'
+  long: "-97.7341"
+  nearby_rate_centers:
+  - name: BLANCHARD
+    distance_km: 8.2
+  - name: DIBBLE
+    distance_km: 12.05
+  - name: CHICKASHA
+    distance_km: 19.69
+- country: US
+  region: OK
+  name: Midwest City
+  lat: '35.4630'
+  long: "-97.3710"
+  nearby_rate_centers:
+  - name: MIDWEST CY
+    distance_km: 3.55
+  - name: NICOMAPARK
+    distance_km: 5.4
+  - name: SPENCER
+    distance_km: 6.81
+- country: US
+  region: OK
+  name: Milburn
+  lat: '34.2400'
+  long: "-96.5520"
+  nearby_rate_centers:
+  - name: MILBURN
+    distance_km: 0.5
+  - name: TISHOMINGO
+    distance_km: 12.02
+  - name: WAPANUCKA
+    distance_km: 18.82
+- country: US
+  region: OK
+  name: Milfay
+  lat: '35.7518'
+  long: "-96.5592"
+  nearby_rate_centers:
+  - name: DEPEW
+    distance_km: 7.19
+  - name: STROUD
+    distance_km: 9.9
+  - name: BRISTOW
+    distance_km: 17.67
+- country: US
+  region: OK
+  name: Mill Creek
+  lat: '34.4022'
+  long: "-96.8249"
+  nearby_rate_centers:
+  - name: MILL CREEK
+    distance_km: 1.04
+  - name: SULPHUR
+    distance_km: 17.46
+  - name: CONNERVL
+    distance_km: 18.27
+- country: US
+  region: OK
+  name: Millerton
+  lat: '33.9857'
+  long: "-95.0196"
+  nearby_rate_centers:
+  - name: MILLERTON
+    distance_km: 0.68
+  - name: VALLIANT
+    distance_km: 6.72
+  - name: WRIGHTCITY
+    distance_km: 8.67
+- country: US
+  region: OK
+  name: Minco
+  lat: '35.3175'
+  long: "-97.9517"
+  nearby_rate_centers:
+  - name: MINCO
+    distance_km: 1.1
+  - name: UNION CITY
+    distance_km: 9.16
+  - name: TUTTLE
+    distance_km: 12.97
+- country: US
+  region: OK
+  name: Moffett
+  lat: '35.4059'
+  long: "-94.4552"
+  nearby_rate_centers:
+  - name: MOFFETT
+    distance_km: 1.91
+  - name: MULDROW
+    distance_km: 12.99
+  - name: CEDARS
+    distance_km: 14.52
+- country: US
+  region: OK
+  name: Monroe
+  lat: '34.9937'
+  long: "-94.5156"
+  nearby_rate_centers:
+  - name: MONROEHOWE
+    distance_km: 10.8
+  - name: POTEAU
+    distance_km: 11.03
+  - name: HEAVENER
+    distance_km: 13.55
+- country: US
+  region: OK
+  name: Moodys
+  lat: '36.0325'
+  long: "-94.9559"
+  nearby_rate_centers:
+  - name: TAHLEQUAH
+    distance_km: 12.91
+  - name: PEGGS
+    distance_km: 14.89
+  - name: FLINT
+    distance_km: 23.59
+- country: US
+  region: OK
+  name: Moore
+  lat: '35.3293'
+  long: "-97.4757"
+  nearby_rate_centers:
+  - name: MOORE
+    distance_km: 1.72
+  - name: NORMAN
+    distance_km: 12.71
+  - name: NEWCASTLE
+    distance_km: 14.32
+- country: US
+  region: OK
+  name: Mooreland
+  lat: '36.4377'
+  long: "-99.2048"
+  nearby_rate_centers:
+  - name: MOORELAND
+    distance_km: 0.48
+  - name: QUINLAN
+    distance_km: 14.14
+  - name: WOODWARD
+    distance_km: 16.24
+- country: US
+  region: OK
+  name: Morris
+  lat: '35.6153'
+  long: "-95.8617"
+  nearby_rate_centers:
+  - name: MORRIS
+    distance_km: 1.05
+  - name: OKMULGEE
+    distance_km: 10.04
+  - name: HITCHITA
+    distance_km: 14.05
+- country: US
+  region: OK
+  name: Morrison
+  lat: '36.2927'
+  long: "-97.0276"
+  nearby_rate_centers:
+  - name: MORRISON
+    distance_km: 1.83
+  - name: GLENCOE
+    distance_km: 11.03
+  - name: STILLWATER
+    distance_km: 19.6
+- country: US
+  region: OK
+  name: Mounds
+  lat: '35.8792'
+  long: "-96.0678"
+  nearby_rate_centers:
+  - name: MOUNDS
+    distance_km: 0.57
+  - name: KIEFER
+    distance_km: 7.11
+  - name: SAPULPA
+    distance_km: 13.83
+- country: US
+  region: OK
+  name: Mountain Park
+  lat: '34.6988'
+  long: "-98.9524"
+  nearby_rate_centers:
+  - name: SNYDER
+    distance_km: 5.45
+  - name: ROOSEVELT
+    distance_km: 18.12
+  - name: HEADRICK
+    distance_km: 18.72
+- country: US
+  region: OK
+  name: Mountain View
+  lat: '35.0995'
+  long: "-98.7497"
+  nearby_rate_centers:
+  - name: MT VIEW
+    distance_km: 0.12
+  - name: GOTEBO
+    distance_km: 11.12
+  - name: CARNEGIE
+    distance_km: 13.53
+- country: US
+  region: OK
+  name: Moyers
+  lat: '34.3255'
+  long: "-95.6503"
+  nearby_rate_centers:
+  - name: ANTLERS
+    distance_km: 10.63
+  - name: RATTAN
+    distance_km: 25.71
+  - name: SOPER
+    distance_km: 32.71
+- country: US
+  region: OK
+  name: Mulberry
+  lat: '35.8631'
+  long: "-94.7014"
+  nearby_rate_centers:
+  - name: STILWELL
+    distance_km: 8.87
+  - name: BARON
+    distance_km: 11.2
+  - name: WESTVILLE
+    distance_km: 18.79
+- country: US
+  region: OK
+  name: Muldrow
+  lat: '35.4040'
+  long: "-94.5976"
+  nearby_rate_centers:
+  - name: MULDROW
+    distance_km: 0.41
+  - name: MOFFETT
+    distance_km: 13.57
+  - name: SALLISAW
+    distance_km: 18.14
+  - name: SALLISAW (DIAMONDNET)
+    distance_km: 18.14
+- country: US
+  region: OK
+  name: Mule Barn
+  lat: '36.2170'
+  long: "-96.3120"
+  nearby_rate_centers:
+  - name: KEYSTONE
+    distance_km: 1.56
+  - name: PRUE
+    distance_km: 6.61
+  - name: MANNFORD
+    distance_km: 11.36
+- country: US
+  region: OK
+  name: Mulhall
+  lat: '36.0913'
+  long: "-97.3610"
+  nearby_rate_centers:
+  - name: MULHALL
+    distance_km: 4.89
+  - name: ORLANDO
+    distance_km: 6.39
+  - name: PERRY
+    distance_km: 22.93
+- country: US
+  region: OK
+  name: Murphy
+  lat: '36.1341'
+  long: "-95.2414"
+  nearby_rate_centers:
+  - name: CEDARCREST
+    distance_km: 4.29
+  - name: LOCUST GRV
+    distance_km: 10.21
+  - name: CHOUTEAU
+    distance_km: 10.43
+- country: US
+  region: OK
+  name: Muskogee
+  lat: '35.7432'
+  long: "-95.3567"
+  nearby_rate_centers:
+  - name: MUSKOGEE
+    distance_km: 0.84
+  - name: FORTGIBSON
+    distance_km: 11.35
+  - name: BRAGGS
+    distance_km: 16.73
+- country: US
+  region: OK
+  name: Mustang
+  lat: '35.3917'
+  long: "-97.7246"
+  nearby_rate_centers:
+  - name: MUSTANG
+    distance_km: 0.81
+  - name: WHEATLAND
+    distance_km: 6.65
+  - name: YUKON
+    distance_km: 13.09
+- country: US
+  region: OK
+  name: Mutual
+  lat: '36.2305'
+  long: "-99.1680"
+  nearby_rate_centers:
+  - name: MUTUAL
+    distance_km: 0.62
+  - name: VICI
+    distance_km: 15.03
+  - name: SHARON
+    distance_km: 16.11
+- country: US
+  region: OK
+  name: Narcissa
+  lat: '36.8010'
+  long: "-94.9279"
+  nearby_rate_centers:
+  - name: FAIRLAND
+    distance_km: 8.85
+  - name: MIAMI
+    distance_km: 9.16
+  - name: AFTON
+    distance_km: 12.13
+- country: US
+  region: OK
+  name: Nardin
+  lat: '36.8041'
+  long: "-97.4499"
+  nearby_rate_centers:
+  - name: DEER CREEK
+    distance_km: 6.04
+  - name: BLACKWELL
+    distance_km: 14.58
+  - name: LAMONT
+    distance_km: 17.0
+- country: US
+  region: OK
+  name: Nash
+  lat: '36.6649'
+  long: "-98.0517"
+  nearby_rate_centers:
+  - name: NASH
+    distance_km: 0.34
+  - name: JET
+    distance_km: 11.61
+  - name: HILLSDALE
+    distance_km: 12.41
+- country: US
+  region: OK
+  name: Nashoba
+  lat: '34.4816'
+  long: "-95.2143"
+  nearby_rate_centers:
+  - name: NASHOBA
+    distance_km: 0.62
+  - name: CLAYTON
+    distance_km: 16.65
+  - name: ALBION
+    distance_km: 23.27
+- country: US
+  region: OK
+  name: Nelagoney
+  lat: '36.6260'
+  long: "-96.2440"
+  nearby_rate_centers:
+  - name: PAWHUSKA
+    distance_km: 8.91
+  - name: BARNSDALL
+    distance_km: 10.38
+  - name: WYNONA
+    distance_km: 10.9
+- country: US
+  region: OK
+  name: Nescatunga
+  lat: '36.7543'
+  long: "-98.1560"
+  nearby_rate_centers:
+  - name: JET
+    distance_km: 10.27
+  - name: NASH
+    distance_km: 13.37
+  - name: CHEROKEE
+    distance_km: 17.44
+- country: US
+  region: OK
+  name: New Alluwe
+  lat: '36.6101'
+  long: "-95.4888"
+  nearby_rate_centers:
+  - name: ALLUWE
+    distance_km: 0.03
+  - name: CHELSEA
+    distance_km: 9.52
+  - name: NOWATA
+    distance_km: 16.85
+- country: US
+  region: OK
+  name: New Cordell
+  lat: '35.2968'
+  long: "-98.9838"
+  nearby_rate_centers:
+  - name: CORDELL
+    distance_km: 0.97
+  - name: BESSIE
+    distance_km: 9.69
+  - name: DILL CITY
+    distance_km: 12.79
+- country: US
+  region: OK
+  name: New Eucha
+  lat: '36.3912'
+  long: "-94.8522"
+  nearby_rate_centers:
+  - name: JAY
+    distance_km: 6.22
+  - name: DISNEY
+    distance_km: 15.21
+  - name: SPAVINAW
+    distance_km: 17.64
+- country: US
+  region: OK
+  name: New Woodville
+  lat: '33.9688'
+  long: "-96.6548"
+  nearby_rate_centers:
+  - name: KINGSTON
+    distance_km: 6.6
+  - name: CARTWRIGHT
+    distance_km: 15.03
+  - name: MADILL
+    distance_km: 16.89
+- country: US
+  region: OK
+  name: Newcastle
+  lat: '35.2401'
+  long: "-97.5995"
+  nearby_rate_centers:
+  - name: NEWCASTLE
+    distance_km: 0.92
+  - name: BLANCHARD
+    distance_km: 11.99
+  - name: NORMAN
+    distance_km: 14.31
+- country: US
+  region: OK
+  name: Newkirk
+  lat: '36.8817'
+  long: "-97.0553"
+  nearby_rate_centers:
+  - name: NEWKIRK
+    distance_km: 0.56
+  - name: SARKNSASCY
+    distance_km: 10.55
+  - name: PONCA CITY
+    distance_km: 19.19
+- country: US
+  region: OK
+  name: Nichols Hills
+  lat: '35.5468'
+  long: "-97.5445"
+  nearby_rate_centers:
+  - name: BRITTON
+    distance_km: 1.25
+  - name: OKLA CITY
+    distance_km: 8.88
+  - name: BETHANY
+    distance_km: 10.57
+- country: US
+  region: OK
+  name: Nicoma Park
+  lat: '35.4913'
+  long: "-97.3254"
+  nearby_rate_centers:
+  - name: NICOMAPARK
+    distance_km: 0.21
+  - name: CHOCTAW
+    distance_km: 5.42
+  - name: SPENCER
+    distance_km: 5.77
+- country: US
+  region: OK
+  name: Nicut
+  lat: '35.5986'
+  long: "-94.5626"
+  nearby_rate_centers:
+  - name: WUNIONTOWN
+    distance_km: 8.14
+  - name: MULDROW
+    distance_km: 21.48
+  - name: STILWELL
+    distance_km: 24.68
+- country: US
+  region: OK
+  name: Ninnekah
+  lat: '34.9640'
+  long: "-97.9447"
+  nearby_rate_centers:
+  - name: CHICKASHA
+    distance_km: 9.62
+  - name: ALEX
+    distance_km: 16.36
+  - name: CEMENT
+    distance_km: 17.85
+- country: US
+  region: OK
+  name: Noble
+  lat: '35.1381'
+  long: "-97.3695"
+  nearby_rate_centers:
+  - name: NOBLE
+    distance_km: 2.49
+  - name: NORMAN
+    distance_km: 11.18
+  - name: WASHINGTON
+    distance_km: 13.9
+- country: US
+  region: OK
+  name: Norge
+  lat: '34.9888'
+  long: "-97.9941"
+  nearby_rate_centers:
+  - name: CHICKASHA
+    distance_km: 8.47
+  - name: VERDEN
+    distance_km: 13.83
+  - name: CEMENT
+    distance_km: 14.35
+- country: US
+  region: OK
+  name: Norman
+  lat: '35.2335'
+  long: "-97.3471"
+  nearby_rate_centers:
+  - name: NORMAN
+    distance_km: 9.0
+  - name: NOBLE
+    distance_km: 11.09
+  - name: MOORE
+    distance_km: 17.5
+- country: US
+  region: OK
+  name: North Enid
+  lat: '36.4458'
+  long: "-97.8634"
+  nearby_rate_centers:
+  - name: ENID
+    distance_km: 5.83
+  - name: KREMLIN
+    distance_km: 11.73
+  - name: BRECKENRDG
+    distance_km: 12.05
+- country: US
+  region: OK
+  name: North Miami
+  lat: '36.9202'
+  long: "-94.8797"
+  nearby_rate_centers:
+  - name: COMMERCE
+    distance_km: 1.48
+  - name: MIAMI
+    distance_km: 5.23
+  - name: PICHER
+    distance_km: 8.18
+- country: US
+  region: OK
+  name: Norwood
+  lat: '35.8491'
+  long: "-95.1493"
+  nearby_rate_centers:
+  - name: FORTGIBSON
+    distance_km: 10.76
+  - name: TAHLEQUAH
+    distance_km: 17.91
+  - name: SNUGHARBOR
+    distance_km: 19.69
+- country: US
+  region: OK
+  name: Notchietown
+  lat: '35.5857'
+  long: "-95.0901"
+  nearby_rate_centers:
+  - name: GORE
+    distance_km: 6.09
+  - name: WEBBERSFLS
+    distance_km: 9.68
+  - name: BRAGGS
+    distance_km: 13.17
+- country: US
+  region: OK
+  name: Nowata
+  lat: '36.6985'
+  long: "-95.6372"
+  nearby_rate_centers:
+  - name: NOWATA
+    distance_km: 0.41
+  - name: DELAWARE
+    distance_km: 8.9
+  - name: ALLUWE
+    distance_km: 16.48
+- country: US
+  region: OK
+  name: Oak Grove
+  lat: '36.2056'
+  long: "-96.3384"
+  nearby_rate_centers:
+  - name: KEYSTONE
+    distance_km: 3.51
+  - name: PRUE
+    distance_km: 9.2
+  - name: MANNFORD
+    distance_km: 9.34
+- country: US
+  region: OK
+  name: Oak Hill-Piney
+  lat: '36.3787'
+  long: "-94.7265"
+  nearby_rate_centers:
+  - name: JAY
+    distance_km: 8.4
+  - name: WMAYSVILLE
+    distance_km: 11.48
+  - name: COLCORD
+    distance_km: 13.67
+- country: US
+  region: OK
+  name: Oakhurst
+  lat: '36.0825'
+  long: "-96.0643"
+  nearby_rate_centers:
+  - name: SAND SPG
+    distance_km: 7.71
+  - name: SAPULPA
+    distance_km: 10.22
+  - name: TULSA
+    distance_km: 10.5
+- country: US
+  region: OK
+  name: Oakland
+  lat: '34.0960'
+  long: "-96.7996"
+  nearby_rate_centers:
+  - name: MADILL
+    distance_km: 3.03
+  - name: KINGSTON
+    distance_km: 13.17
+  - name: TISHOMINGO
+    distance_km: 19.22
+- country: US
+  region: OK
+  name: Oaks
+  lat: '36.1698'
+  long: "-94.8529"
+  nearby_rate_centers:
+  - name: KANSAS
+    distance_km: 6.7
+  - name: FLINT
+    distance_km: 8.73
+  - name: COLCORD
+    distance_km: 16.58
+- country: US
+  region: OK
+  name: Oakwood
+  lat: '35.9316'
+  long: "-98.7031"
+  nearby_rate_centers:
+  - name: OAKWOOD
+    distance_km: 0.4
+  - name: FAY
+    distance_km: 13.58
+  - name: CANTON
+    distance_km: 17.05
+- country: US
+  region: OK
+  name: Ochelata
+  lat: '36.6021'
+  long: "-95.9725"
+  nearby_rate_centers:
+  - name: OCHELATA
+    distance_km: 1.11
+  - name: RAMONA
+    distance_km: 8.96
+  - name: OGLESBY
+    distance_km: 10.95
+- country: US
+  region: OK
+  name: Oilton
+  lat: '36.0827'
+  long: "-96.5815"
+  nearby_rate_centers:
+  - name: OILTON
+    distance_km: 0.61
+  - name: DRUMRIGHT
+    distance_km: 10.72
+  - name: JENNINGS
+    distance_km: 11.15
+- country: US
+  region: OK
+  name: Okarche
+  lat: '35.7251'
+  long: "-97.9757"
+  nearby_rate_centers:
+  - name: OKARCHE
+    distance_km: 0.88
+  - name: KINGFISHER
+    distance_km: 15.43
+  - name: CALUMET
+    distance_km: 19.59
+- country: US
+  region: OK
+  name: Okay
+  lat: '35.8545'
+  long: "-95.3141"
+  nearby_rate_centers:
+  - name: FORTGIBSON
+    distance_km: 8.36
+  - name: WAGONER
+    distance_km: 12.5
+  - name: MUSKOGEE
+    distance_km: 13.22
+- country: US
+  region: OK
+  name: Okeene
+  lat: '36.1171'
+  long: "-98.3167"
+  nearby_rate_centers:
+  - name: OKEENE
+    distance_km: 0.22
+  - name: HITCHCOCK
+    distance_km: 16.96
+  - name: AMES
+    distance_km: 17.44
+- country: US
+  region: OK
+  name: Okemah
+  lat: '35.4292'
+  long: "-96.2998"
+  nearby_rate_centers:
+  - name: OKEMAH
+    distance_km: 0.57
+  - name: CASTLE
+    distance_km: 8.5
+  - name: CROMWELL
+    distance_km: 17.31
+- country: US
+  region: OK
+  name: Oklahoma City
+  lat: '35.4676'
+  long: "-97.5136"
+  nearby_rate_centers:
+  - name: OKLA CITY
+    distance_km: 0.37
+  - name: BRITTON
+    distance_km: 9.35
+  - name: MIDWEST CY
+    distance_km: 10.48
+- country: US
+  region: OK
+  name: Okmulgee
+  lat: '35.6134'
+  long: "-96.0068"
+  nearby_rate_centers:
+  - name: OKMULGEE
+    distance_km: 3.19
+  - name: MORRIS
+    distance_km: 13.49
+  - name: BEGGS
+    distance_km: 15.53
+- country: US
+  region: OK
+  name: Oktaha
+  lat: '35.5775'
+  long: "-95.4779"
+  nearby_rate_centers:
+  - name: KEEFETON
+    distance_km: 11.5
+  - name: CHECOTAH
+    distance_km: 12.02
+  - name: COUNCIL HL
+    distance_km: 15.66
+- country: US
+  region: OK
+  name: Old Eucha
+  lat: '36.3551'
+  long: "-94.9379"
+  nearby_rate_centers:
+  - name: SPAVINAW
+    distance_km: 11.05
+  - name: DISNEY
+    distance_km: 14.46
+  - name: JAY
+    distance_km: 14.8
+- country: US
+  region: OK
+  name: Old Green
+  lat: '35.9844'
+  long: "-94.6039"
+  nearby_rate_centers:
+  - name: WESTVILLE
+    distance_km: 3.49
+  - name: BARON
+    distance_km: 6.74
+  - name: WATTS
+    distance_km: 13.74
+- country: US
+  region: OK
+  name: Olive
+  lat: '36.0225'
+  long: "-96.4766"
+  nearby_rate_centers:
+  - name: DRUMRIGHT
+    distance_km: 11.73
+  - name: OILTON
+    distance_km: 12.12
+  - name: MANNFORD
+    distance_km: 15.1
+- country: US
+  region: OK
+  name: Olustee
+  lat: '34.5477'
+  long: "-99.4241"
+  nearby_rate_centers:
+  - name: OLUSTEE
+    distance_km: 0.12
+  - name: ELMER
+    distance_km: 9.85
+  - name: ALTUS
+    distance_km: 13.1
+- country: US
+  region: OK
+  name: Oologah
+  lat: '36.4438'
+  long: "-95.7089"
+  nearby_rate_centers:
+  - name: OOLOGAH
+    distance_km: 0.59
+  - name: TALALA
+    distance_km: 9.87
+  - name: COLLINSVL
+    distance_km: 14.7
+- country: US
+  region: OK
+  name: Optima
+  lat: '36.7613'
+  long: "-101.3491"
+  nearby_rate_centers:
+  - name: GUYMON
+    distance_km: 14.59
+  - name: HOOKER
+    distance_km: 16.7
+  - name: HARDESTY
+    distance_km: 20.65
+- country: US
+  region: OK
+  name: Orlando
+  lat: '36.1355'
+  long: "-97.3654"
+  nearby_rate_centers:
+  - name: ORLANDO
+    distance_km: 1.61
+  - name: MULHALL
+    distance_km: 8.36
+  - name: PERRY
+    distance_km: 18.43
+- country: US
+  region: OK
+  name: Osage
+  lat: '36.2950'
+  long: "-96.4179"
+  nearby_rate_centers:
+  - name: OSAGE
+    distance_km: 0.4
+  - name: CLEVELAND
+    distance_km: 4.83
+  - name: HOMINY
+    distance_km: 12.9
+- country: US
+  region: OK
+  name: Owasso
+  lat: '36.2878'
+  long: "-95.8311"
+  nearby_rate_centers:
+  - name: OWASSO
+    distance_km: 2.96
+  - name: COLLINSVL
+    distance_km: 8.39
+  - name: CATOOSA
+    distance_km: 13.44
+- country: US
+  region: OK
+  name: Paden
+  lat: '35.5080'
+  long: "-96.5674"
+  nearby_rate_centers:
+  - name: PADEN
+    distance_km: 0.31
+  - name: BOLEY
+    distance_km: 7.61
+  - name: PRAGUE
+    distance_km: 11.63
+- country: US
+  region: OK
+  name: Panama
+  lat: '35.1711'
+  long: "-94.6690"
+  nearby_rate_centers:
+  - name: PANAMA
+    distance_km: 0.86
+  - name: SPIRO
+    distance_km: 8.73
+  - name: BOKOSHE
+    distance_km: 10.89
+- country: US
+  region: OK
+  name: Panola
+  lat: '34.9273'
+  long: "-95.2099"
+  nearby_rate_centers:
+  - name: WILBURTON
+    distance_km: 9.35
+  - name: RED OAK
+    distance_km: 11.98
+  - name: BUFFALOVLY
+    distance_km: 18.81
+- country: US
+  region: OK
+  name: Paoli
+  lat: '34.8265'
+  long: "-97.2627"
+  nearby_rate_centers:
+  - name: PAOLI
+    distance_km: 0.78
+  - name: PAULS VLY
+    distance_km: 10.52
+  - name: WAYNE
+    distance_km: 11.29
+- country: US
+  region: OK
+  name: Paradise Hill
+  lat: '35.6137'
+  long: "-95.0703"
+  nearby_rate_centers:
+  - name: GORE
+    distance_km: 9.65
+  - name: BRAGGS
+    distance_km: 12.91
+  - name: WEBBERSFLS
+    distance_km: 13.26
+- country: US
+  region: OK
+  name: Park Hill
+  lat: '35.8417'
+  long: "-94.9734"
+  nearby_rate_centers:
+  - name: TAHLEQUAH
+    distance_km: 8.37
+  - name: FORTGIBSON
+    distance_km: 25.51
+  - name: BRAGGS
+    distance_km: 28.28
+- country: US
+  region: OK
+  name: Pauls Valley
+  lat: '34.7231'
+  long: "-97.2281"
+  nearby_rate_centers:
+  - name: PAULS VLY
+    distance_km: 2.0
+  - name: WYNNEWOOD
+    distance_km: 10.44
+  - name: PAOLI
+    distance_km: 12.41
+- country: US
+  region: OK
+  name: Pawhuska
+  lat: '36.6687'
+  long: "-96.3313"
+  nearby_rate_centers:
+  - name: PAWHUSKA
+    distance_km: 1.01
+  - name: WYNONA
+    distance_km: 13.14
+  - name: BARNSDALL
+    distance_km: 19.33
+- country: US
+  region: OK
+  name: Pawnee
+  lat: '36.3484'
+  long: "-96.8025"
+  nearby_rate_centers:
+  - name: PAWNEE
+    distance_km: 0.94
+  - name: SKEDEE
+    distance_km: 9.7
+  - name: MARAMEC
+    distance_km: 16.23
+- country: US
+  region: OK
+  name: Peavine
+  lat: '35.8903'
+  long: "-94.6064"
+  nearby_rate_centers:
+  - name: BARON
+    distance_km: 3.75
+  - name: STILWELL
+    distance_km: 8.5
+  - name: WESTVILLE
+    distance_km: 11.85
+- country: US
+  region: OK
+  name: Peckham
+  lat: '36.8866'
+  long: "-97.1781"
+  nearby_rate_centers:
+  - name: NEWKIRK
+    distance_km: 11.1
+  - name: BLACKWELL
+    distance_km: 13.44
+  - name: BRAMAN
+    distance_km: 14.68
+- country: US
+  region: OK
+  name: Peggs
+  lat: '36.0673'
+  long: "-95.0718"
+  nearby_rate_centers:
+  - name: PEGGS
+    distance_km: 5.41
+  - name: CEDARCREST
+    distance_km: 13.01
+  - name: LOCUST GRV
+    distance_km: 17.12
+- country: US
+  region: OK
+  name: Pensacola
+  lat: '36.4593'
+  long: "-95.1277"
+  nearby_rate_centers:
+  - name: STRANG
+    distance_km: 4.71
+  - name: SPAVINAW
+    distance_km: 9.77
+  - name: KETCHUM
+    distance_km: 11.03
+- country: US
+  region: OK
+  name: Peoria
+  lat: '36.9156'
+  long: "-94.6696"
+  nearby_rate_centers:
+  - name: WESTSENECA
+    distance_km: 9.97
+  - name: QUAPAW
+    distance_km: 11.14
+  - name: WYANDOTTE
+    distance_km: 14.87
+- country: US
+  region: OK
+  name: Perkins
+  lat: '35.9785'
+  long: "-97.0301"
+  nearby_rate_centers:
+  - name: PERKINS
+    distance_km: 0.37
+  - name: RIPLEY
+    distance_km: 12.32
+  - name: TRYON
+    distance_km: 13.99
+- country: US
+  region: OK
+  name: Perry
+  lat: '36.2837'
+  long: "-97.3094"
+  nearby_rate_centers:
+  - name: PERRY
+    distance_km: 2.04
+  - name: ORLANDO
+    distance_km: 16.23
+  - name: RED ROCK
+    distance_km: 23.22
+- country: US
+  region: OK
+  name: Pershing
+  lat: '36.5901'
+  long: "-96.2731"
+  nearby_rate_centers:
+  - name: WYNONA
+    distance_km: 6.19
+  - name: PAWHUSKA
+    distance_km: 9.51
+  - name: BARNSDALL
+    distance_km: 10.35
+- country: US
+  region: OK
+  name: Pettit
+  lat: '35.7650'
+  long: "-94.9693"
+  nearby_rate_centers:
+  - name: TAHLEQUAH
+    distance_km: 16.89
+  - name: BRAGGS
+    distance_km: 23.5
+  - name: FORTGIBSON
+    distance_km: 25.73
+- country: US
+  region: OK
+  name: Phillips
+  lat: '34.5043'
+  long: "-96.2232"
+  nearby_rate_centers:
+  - name: COALGATE
+    distance_km: 4.1
+  - name: ATOKA
+    distance_km: 16.0
+  - name: STRINGTOWN
+    distance_km: 16.46
+- country: US
+  region: OK
+  name: Pickett
+  lat: '34.7795'
+  long: "-96.7755"
+  nearby_rate_centers:
+  - name: ADA
+    distance_km: 9.29
+  - name: STRATFORD
+    distance_km: 17.12
+  - name: ROFF
+    distance_km: 17.89
+- country: US
+  region: OK
+  name: Piedmont
+  lat: '35.6781'
+  long: "-97.7526"
+  nearby_rate_centers:
+  - name: PIEDMONT
+    distance_km: 3.73
+  - name: CASHION
+    distance_km: 14.86
+  - name: YUKON
+    distance_km: 18.99
+- country: US
+  region: OK
+  name: Pin Oak Acres
+  lat: '36.1226'
+  long: "-95.2889"
+  nearby_rate_centers:
+  - name: CEDARCREST
+    distance_km: 7.46
+  - name: CHOUTEAU
+    distance_km: 8.13
+  - name: LOCUST GRV
+    distance_km: 14.22
+- country: US
+  region: OK
+  name: Piney
+  lat: '35.8875'
+  long: "-94.5537"
+  nearby_rate_centers:
+  - name: BARON
+    distance_km: 5.95
+  - name: STILWELL
+    distance_km: 10.19
+  - name: WESTVILLE
+    distance_km: 11.65
+- country: US
+  region: OK
+  name: Pinhook Corner
+  lat: '35.5314'
+  long: "-94.8911"
+  nearby_rate_centers:
+  - name: VIAN
+    distance_km: 8.14
+  - name: SALLISAW
+    distance_km: 12.64
+  - name: SALLISAW (DIAMONDNET)
+    distance_km: 12.64
+  - name: GORE
+    distance_km: 20.11
+- country: US
+  region: OK
+  name: Pink
+  lat: '35.2327'
+  long: "-97.1000"
+  nearby_rate_centers:
+  - name: TECUMSEH
+    distance_km: 15.24
+  - name: TRIBBEY
+    distance_km: 16.34
+  - name: STELLA
+    distance_km: 16.97
+- country: US
+  region: OK
+  name: Pittsburg
+  lat: '34.7116'
+  long: "-95.8502"
+  nearby_rate_centers:
+  - name: KIOWA
+    distance_km: 4.63
+  - name: SAVANNA
+    distance_km: 13.85
+  - name: WARDVILLE
+    distance_km: 17.35
+- country: US
+  region: OK
+  name: Platter
+  lat: '33.9066'
+  long: "-96.5338"
+  nearby_rate_centers:
+  - name: COLBERT
+    distance_km: 6.4
+  - name: CARTWRIGHT
+    distance_km: 7.12
+  - name: CALERA
+    distance_km: 9.82
+- country: US
+  region: OK
+  name: Pocasset
+  lat: '35.1780'
+  long: "-97.9592"
+  nearby_rate_centers:
+  - name: POCASSET
+    distance_km: 2.41
+  - name: CHICKASHA
+    distance_km: 14.31
+  - name: MINCO
+    distance_km: 15.26
+- country: US
+  region: OK
+  name: Pocola
+  lat: '35.2455'
+  long: "-94.4775"
+  nearby_rate_centers:
+  - name: POCOLA
+    distance_km: 1.59
+  - name: CEDARS
+    distance_km: 4.68
+  - name: SPIRO
+    distance_km: 12.97
+- country: US
+  region: OK
+  name: Ponca City
+  lat: '36.7235'
+  long: "-97.0677"
+  nearby_rate_centers:
+  - name: PONCA CITY
+    distance_km: 1.81
+  - name: NEWKIRK
+    distance_km: 18.17
+  - name: KAW CITY
+    distance_km: 19.03
+- country: US
+  region: OK
+  name: Pond Creek
+  lat: '36.6679'
+  long: "-97.8024"
+  nearby_rate_centers:
+  - name: POND CREEK
+    distance_km: 0.55
+  - name: KREMLIN
+    distance_km: 13.59
+  - name: MEDFORD
+    distance_km: 16.54
+- country: US
+  region: OK
+  name: Pontotoc
+  lat: '34.4888'
+  long: "-96.6290"
+  nearby_rate_centers:
+  - name: CONNERVL
+    distance_km: 5.2
+  - name: FITTSTOWN
+    distance_km: 14.42
+  - name: BROMIDE
+    distance_km: 14.75
+- country: US
+  region: OK
+  name: Porter
+  lat: '35.8684'
+  long: "-95.5159"
+  nearby_rate_centers:
+  - name: PORTER
+    distance_km: 0.29
+  - name: HASKELL
+    distance_km: 15.01
+  - name: COWETA
+    distance_km: 15.43
+- country: US
+  region: OK
+  name: Porum
+  lat: '35.3571'
+  long: "-95.2637"
+  nearby_rate_centers:
+  - name: PORUM
+    distance_km: 1.08
+  - name: WARNER
+    distance_km: 15.52
+  - name: STIGLER
+    distance_km: 17.0
+- country: US
+  region: OK
+  name: Poteau
+  lat: '35.0282'
+  long: "-94.6346"
+  nearby_rate_centers:
+  - name: POTEAU
+    distance_km: 3.02
+  - name: MONROEHOWE
+    distance_km: 5.26
+  - name: WISTER
+    distance_km: 10.58
+- country: US
+  region: OK
+  name: Prague
+  lat: '35.4990'
+  long: "-96.7001"
+  nearby_rate_centers:
+  - name: PRAGUE
+    distance_km: 1.91
+  - name: PADEN
+    distance_km: 12.2
+  - name: SPARKS
+    distance_km: 16.28
+- country: US
+  region: OK
+  name: Preston
+  lat: '35.7113'
+  long: "-95.9888"
+  nearby_rate_centers:
+  - name: BEGGS
+    distance_km: 8.56
+  - name: OKMULGEE
+    distance_km: 10.19
+  - name: MORRIS
+    distance_km: 16.61
+- country: US
+  region: OK
+  name: Proctor
+  lat: '35.9823'
+  long: "-94.7481"
+  nearby_rate_centers:
+  - name: BARON
+    distance_km: 14.65
+  - name: WESTVILLE
+    distance_km: 16.4
+  - name: WATTS
+    distance_km: 20.83
+- country: US
+  region: OK
+  name: Prue
+  lat: '36.2494'
+  long: "-96.2665"
+  nearby_rate_centers:
+  - name: PRUE
+    distance_km: 1.25
+  - name: KEYSTONE
+    distance_km: 5.51
+  - name: OSAGE
+    distance_km: 14.23
+- country: US
+  region: OK
+  name: Pryor Creek
+  lat: '36.2996'
+  long: "-95.3107"
+  nearby_rate_centers:
+  - name: PRYOR
+    distance_km: 1.33
+  - name: CHOUTEAU
+    distance_km: 13.32
+  - name: SALINA
+    distance_km: 14.49
+- country: US
+  region: OK
+  name: Pump Back
+  lat: '36.2707'
+  long: "-95.1178"
+  nearby_rate_centers:
+  - name: SALINA
+    distance_km: 4.48
+  - name: LOCUST GRV
+    distance_km: 8.74
+  - name: SPAVINAW
+    distance_km: 15.47
+- country: US
+  region: OK
+  name: Pumpkin Hollow
+  lat: '36.0008'
+  long: "-94.8370"
+  nearby_rate_centers:
+  - name: TAHLEQUAH
+    distance_km: 15.1
+  - name: FLINT
+    distance_km: 20.16
+  - name: BARON
+    distance_km: 22.8
+- country: US
+  region: OK
+  name: Purcell
+  lat: '35.0231'
+  long: "-97.3757"
+  nearby_rate_centers:
+  - name: PURCELL
+    distance_km: 2.18
+  - name: WASHINGTON
+    distance_km: 10.69
+  - name: WAYNE
+    distance_km: 12.89
+- country: US
+  region: OK
+  name: Putnam
+  lat: '35.8559'
+  long: "-98.9682"
+  nearby_rate_centers:
+  - name: PUTNAM
+    distance_km: 0.25
+  - name: TALOGA
+    distance_km: 20.61
+  - name: CUSTERCITY
+    distance_km: 22.32
+- country: US
+  region: OK
+  name: Quapaw
+  lat: '36.9497'
+  long: "-94.7805"
+  nearby_rate_centers:
+  - name: QUAPAW
+    distance_km: 0.81
+  - name: PICHER
+    distance_km: 5.91
+  - name: COMMERCE
+    distance_km: 8.8
+- country: US
+  region: OK
+  name: Quay
+  lat: '36.1596'
+  long: "-96.7089"
+  nearby_rate_centers:
+  - name: YALE
+    distance_km: 4.9
+  - name: MARAMEC
+    distance_km: 9.25
+  - name: JENNINGS
+    distance_km: 12.79
+- country: US
+  region: OK
+  name: Quinlan
+  lat: '36.4562'
+  long: "-99.0457"
+  nearby_rate_centers:
+  - name: QUINLAN
+    distance_km: 0.27
+  - name: MOORELAND
+    distance_km: 14.6
+  - name: WAYNOKA
+    distance_km: 20.72
+- country: US
+  region: OK
+  name: Quinton
+  lat: '35.1265'
+  long: "-95.3664"
+  nearby_rate_centers:
+  - name: QUINTON
+    distance_km: 0.61
+  - name: ENTERPRISE
+    distance_km: 10.88
+  - name: KINTA
+    distance_km: 12.34
+- country: US
+  region: OK
+  name: Ralston
+  lat: '36.5035'
+  long: "-96.7373"
+  nearby_rate_centers:
+  - name: RALSTON
+    distance_km: 0.31
+  - name: FAIRFAX
+    distance_km: 7.7
+  - name: SKEDEE
+    distance_km: 13.89
+- country: US
+  region: OK
+  name: Ramona
+  lat: '36.5367'
+  long: "-95.9264"
+  nearby_rate_centers:
+  - name: RAMONA
+    distance_km: 0.86
+  - name: OCHELATA
+    distance_km: 8.48
+  - name: OGLESBY
+    distance_km: 11.69
+- country: US
+  region: OK
+  name: Randlett
+  lat: '34.1773'
+  long: "-98.4639"
+  nearby_rate_centers:
+  - name: RANDLETT
+    distance_km: 0.27
+  - name: DEVOL
+    distance_km: 11.53
+  - name: GRANDFIELD
+    distance_km: 21.14
+- country: US
+  region: OK
+  name: Ratliff City
+  lat: '34.4492'
+  long: "-97.5155"
+  nearby_rate_centers:
+  - name: RATLIFF CY
+    distance_km: 0.86
+  - name: PIKE CITY
+    distance_km: 13.17
+  - name: VELMA
+    distance_km: 15.24
+- country: US
+  region: OK
+  name: Rattan
+  lat: '34.2005'
+  long: "-95.4131"
+  nearby_rate_centers:
+  - name: RATTAN
+    distance_km: 0.14
+  - name: ANTLERS
+    distance_km: 19.4
+  - name: HUGO
+    distance_km: 23.15
+- country: US
+  region: OK
+  name: Ravia
+  lat: '34.2411'
+  long: "-96.7564"
+  nearby_rate_centers:
+  - name: TISHOMINGO
+    distance_km: 6.77
+  - name: MADILL
+    distance_km: 17.03
+  - name: MILL CREEK
+    distance_km: 18.33
+- country: US
+  region: OK
+  name: Reagan
+  lat: '34.3488'
+  long: "-96.7193"
+  nearby_rate_centers:
+  - name: MILL CREEK
+    distance_km: 10.34
+  - name: TISHOMINGO
+    distance_km: 12.63
+  - name: CONNERVL
+    distance_km: 13.13
+- country: US
+  region: OK
+  name: Red Oak
+  lat: '34.9515'
+  long: "-95.0791"
+  nearby_rate_centers:
+  - name: RED OAK
+    distance_km: 0.35
+  - name: LEFLORE
+    distance_km: 10.32
+  - name: FANSHAWE
+    distance_km: 15.31
+- country: US
+  region: OK
+  name: Red Rock
+  lat: '36.4601'
+  long: "-97.1796"
+  nearby_rate_centers:
+  - name: RED ROCK
+    distance_km: 0.67
+  - name: MARLAND
+    distance_km: 11.69
+  - name: PERRY
+    distance_km: 21.36
+- country: US
+  region: OK
+  name: Redbird
+  lat: '35.8871'
+  long: "-95.5873"
+  nearby_rate_centers:
+  - name: PORTER
+    distance_km: 6.74
+  - name: COWETA
+    distance_km: 9.47
+  - name: HASKELL
+    distance_km: 10.43
+- country: US
+  region: OK
+  name: Redbird Smith
+  lat: '35.5635'
+  long: "-95.0252"
+  nearby_rate_centers:
+  - name: VIAN
+    distance_km: 8.55
+  - name: GORE
+    distance_km: 8.61
+  - name: WEBBERSFLS
+    distance_km: 11.72
+- country: US
+  region: OK
+  name: Remy
+  lat: '35.4578'
+  long: "-94.4984"
+  nearby_rate_centers:
+  - name: MOFFETT
+    distance_km: 8.81
+  - name: MULDROW
+    distance_km: 10.65
+  - name: WUNIONTOWN
+    distance_km: 14.36
+- country: US
+  region: OK
+  name: Renfrow
+  lat: '36.9247'
+  long: "-97.6572"
+  nearby_rate_centers:
+  - name: SOCALDWELL
+    distance_km: 7.86
+  - name: MEDFORD
+    distance_km: 14.84
+  - name: DEER CREEK
+    distance_km: 18.05
+- country: US
+  region: OK
+  name: Rentiesville
+  lat: '35.5336'
+  long: "-95.4848"
+  nearby_rate_centers:
+  - name: CHECOTAH
+    distance_km: 7.28
+  - name: KEEFETON
+    distance_km: 13.68
+  - name: COUNCIL HL
+    distance_km: 15.21
+- country: US
+  region: OK
+  name: Reydon
+  lat: '35.6499'
+  long: "-99.9236"
+  nearby_rate_centers:
+  - name: REYDON
+    distance_km: 0.07
+  - name: ROGERMILLS
+    distance_km: 22.17
+  - name: CHEYENNE
+    distance_km: 22.7
+- country: US
+  region: OK
+  name: Ringling
+  lat: '34.1772'
+  long: "-97.5915"
+  nearby_rate_centers:
+  - name: RINGLING
+    distance_km: 0.38
+  - name: HEALDTON
+    distance_km: 11.41
+  - name: WILSON
+    distance_km: 15.49
+- country: US
+  region: OK
+  name: Ringwood
+  lat: '36.3823'
+  long: "-98.2419"
+  nearby_rate_centers:
+  - name: RINGWOOD
+    distance_km: 0.68
+  - name: MENO
+    distance_km: 5.28
+  - name: LAHOMA
+    distance_km: 13.5
+- country: US
+  region: OK
+  name: Ripley
+  lat: '36.0158'
+  long: "-96.9039"
+  nearby_rate_centers:
+  - name: RIPLEY
+    distance_km: 0.28
+  - name: CUSHING
+    distance_km: 11.82
+  - name: PERKINS
+    distance_km: 12.39
+- country: US
+  region: OK
+  name: River Bottom
+  lat: '35.6357'
+  long: "-95.2378"
+  nearby_rate_centers:
+  - name: BRAGGS
+    distance_km: 4.8
+  - name: KEEFETON
+    distance_km: 11.39
+  - name: GORE
+    distance_km: 15.93
+- country: US
+  region: OK
+  name: Rock Island
+  lat: '35.1831'
+  long: "-94.4811"
+  nearby_rate_centers:
+  - name: CAMERON
+    distance_km: 7.47
+  - name: POCOLA
+    distance_km: 8.5
+  - name: CEDARS
+    distance_km: 10.91
+- country: US
+  region: OK
+  name: Rocky
+  lat: '35.1562'
+  long: "-99.0597"
+  nearby_rate_centers:
+  - name: ROCKY
+    distance_km: 0.24
+  - name: SENTINEL
+    distance_km: 10.49
+  - name: DILL CITY
+    distance_km: 14.56
+- country: US
+  region: OK
+  name: Rocky Ford
+  lat: '36.1558'
+  long: "-94.9110"
+  nearby_rate_centers:
+  - name: KANSAS
+    distance_km: 11.87
+  - name: FLINT
+    distance_km: 14.03
+  - name: PEGGS
+    distance_km: 16.47
+- country: US
+  region: OK
+  name: Rocky Mountain
+  lat: '35.7960'
+  long: "-94.7718"
+  nearby_rate_centers:
+  - name: STILWELL
+    distance_km: 13.6
+  - name: BARON
+    distance_km: 20.87
+  - name: TAHLEQUAH
+    distance_km: 22.28
+- country: US
+  region: OK
+  name: Rocky Point
+  lat: '36.0261'
+  long: "-95.3216"
+  nearby_rate_centers:
+  - name: SNUGHARBOR
+    distance_km: 5.39
+  - name: WAGONER
+    distance_km: 8.39
+  - name: CEDARCREST
+    distance_km: 13.53
+- country: US
+  region: OK
+  name: Roff
+  lat: '34.6286'
+  long: "-96.8412"
+  nearby_rate_centers:
+  - name: ROFF
+    distance_km: 0.11
+  - name: SULPHUR
+    distance_km: 17.39
+  - name: FITTSTOWN
+    distance_km: 18.88
+- country: US
+  region: OK
+  name: Roland
+  lat: '35.4147'
+  long: "-94.5137"
+  nearby_rate_centers:
+  - name: MOFFETT
+    distance_km: 6.5
+  - name: MULDROW
+    distance_km: 7.73
+  - name: CEDARS
+    distance_km: 16.77
+- country: US
+  region: OK
+  name: Roosevelt
+  lat: '34.8483'
+  long: "-99.0223"
+  nearby_rate_centers:
+  - name: ROOSEVELT
+    distance_km: 0.64
+  - name: HOBART
+    distance_km: 20.72
+  - name: SNYDER
+    distance_km: 22.89
+- country: US
+  region: OK
+  name: Rose
+  lat: '36.2123'
+  long: "-95.0381"
+  nearby_rate_centers:
+  - name: LOCUST GRV
+    distance_km: 11.41
+  - name: PEGGS
+    distance_km: 11.74
+  - name: SALINA
+    distance_km: 14.1
+- country: US
+  region: OK
+  name: Rosedale
+  lat: '34.9188'
+  long: "-97.1848"
+  nearby_rate_centers:
+  - name: ROSEDALE
+    distance_km: 0.46
+  - name: PAOLI
+    distance_km: 11.71
+  - name: WAYNE
+    distance_km: 12.2
+- country: US
+  region: OK
+  name: Rosston
+  lat: '36.8129'
+  long: "-99.9326"
+  nearby_rate_centers:
+  - name: LAVERNE
+    distance_km: 11.95
+  - name: GATE
+    distance_km: 12.14
+  - name: SO ENGLEWD
+    distance_km: 20.75
+- country: US
+  region: OK
+  name: Rush Springs
+  lat: '34.7788'
+  long: "-97.9572"
+  nearby_rate_centers:
+  - name: RUSH SPG
+    distance_km: 0.48
+  - name: MARLOW
+    distance_km: 14.1
+  - name: STERLING
+    distance_km: 19.2
+- country: US
+  region: OK
+  name: Ryan
+  lat: '34.0213'
+  long: "-97.9541"
+  nearby_rate_centers:
+  - name: RYAN
+    distance_km: 0.19
+  - name: TERRAL
+    distance_km: 14.23
+  - name: WAURIKA
+    distance_km: 16.52
+- country: US
+  region: OK
+  name: Salina
+  lat: '36.2909'
+  long: "-95.1528"
+  nearby_rate_centers:
+  - name: SALINA
+    distance_km: 1.29
+  - name: LOCUST GRV
+    distance_km: 9.97
+  - name: STRANG
+    distance_km: 14.15
+- country: US
+  region: OK
+  name: Sallisaw
+  lat: '35.4606'
+  long: "-94.8072"
+  nearby_rate_centers:
+  - name: SALLISAW
+    distance_km: 1.87
+  - name: SALLISAW (DIAMONDNET)
+    distance_km: 1.87
+  - name: VIAN
+    distance_km: 15.57
+  - name: MULDROW
+    distance_km: 19.8
+- country: US
+  region: OK
+  name: Sand Hill
+  lat: '35.6343'
+  long: "-95.2012"
+  nearby_rate_centers:
+  - name: BRAGGS
+    distance_km: 3.4
+  - name: GORE
+    distance_km: 13.67
+  - name: KEEFETON
+    distance_km: 14.41
+- country: US
+  region: OK
+  name: Sand Point
+  lat: '33.9651'
+  long: "-96.5639"
+  nearby_rate_centers:
+  - name: CALERA
+    distance_km: 12.63
+  - name: CARTWRIGHT
+    distance_km: 12.64
+  - name: COLBERT
+    distance_km: 13.46
+- country: US
+  region: OK
+  name: Sand Springs
+  lat: '36.1353'
+  long: "-96.1283"
+  nearby_rate_centers:
+  - name: SAND SPG
+    distance_km: 1.47
+  - name: MANNFORD E
+    distance_km: 11.99
+  - name: TULSA
+    distance_km: 13.06
+- country: US
+  region: OK
+  name: Sapulpa
+  lat: '36.0091'
+  long: "-96.1003"
+  nearby_rate_centers:
+  - name: SAPULPA
+    distance_km: 1.5
+  - name: KIEFER
+    distance_km: 7.97
+  - name: JENKS
+    distance_km: 11.73
+- country: US
+  region: OK
+  name: Sasakwa
+  lat: '34.9468'
+  long: "-96.5253"
+  nearby_rate_centers:
+  - name: SASAKWA
+    distance_km: 0.53
+  - name: ALLEN
+    distance_km: 12.93
+  - name: ATWOOD
+    distance_km: 17.32
+- country: US
+  region: OK
+  name: Savanna
+  lat: '34.8356'
+  long: "-95.8355"
+  nearby_rate_centers:
+  - name: SAVANNA
+    distance_km: 0.04
+  - name: MCALESTER
+    distance_km: 12.44
+  - name: KIOWA
+    distance_km: 14.4
+- country: US
+  region: OK
+  name: Sawyer
+  lat: '34.0206'
+  long: "-95.3780"
+  nearby_rate_centers:
+  - name: FORTTOWSON
+    distance_km: 10.21
+  - name: HUGO
+    distance_km: 12.36
+  - name: RATTAN
+    distance_km: 20.33
+- country: US
+  region: OK
+  name: Sayre
+  lat: '35.2966'
+  long: "-99.6286"
+  nearby_rate_centers:
+  - name: SAYRE
+    distance_km: 1.25
+  - name: CARTER
+    distance_km: 14.02
+  - name: ERICK
+    distance_km: 23.28
+- country: US
+  region: OK
+  name: Schulter
+  lat: '35.5113'
+  long: "-95.9566"
+  nearby_rate_centers:
+  - name: HENRYETTA
+    distance_km: 8.42
+  - name: OKMULGEE
+    distance_km: 12.24
+  - name: MORRIS
+    distance_km: 13.84
+- country: US
+  region: OK
+  name: Scipio
+  lat: '35.0513'
+  long: "-95.9556"
+  nearby_rate_centers:
+  - name: SCIPIO
+    distance_km: 0.48
+  - name: ARPELAR
+    distance_km: 11.24
+  - name: HANNA
+    distance_km: 17.68
+- country: US
+  region: OK
+  name: Seiling
+  lat: '36.1556'
+  long: "-98.9304"
+  nearby_rate_centers:
+  - name: SEILING
+    distance_km: 1.26
+  - name: CHESTER
+    distance_km: 5.98
+  - name: TALOGA
+    distance_km: 13.18
+- country: US
+  region: OK
+  name: Selman
+  lat: '36.8014'
+  long: "-99.4894"
+  nearby_rate_centers:
+  - name: SELMAN
+    distance_km: 2.0
+  - name: BUFFALO
+    distance_km: 13.52
+  - name: SO COLDWTR
+    distance_km: 25.46
+- country: US
+  region: OK
+  name: Seminole
+  lat: '35.2348'
+  long: "-96.6493"
+  nearby_rate_centers:
+  - name: SEMINOLE
+    distance_km: 1.65
+  - name: BOWLEGS
+    distance_km: 9.58
+  - name: EARLSBORO
+    distance_km: 14.01
+- country: US
+  region: OK
+  name: Sentinel
+  lat: '35.1570'
+  long: "-99.1736"
+  nearby_rate_centers:
+  - name: SENTINEL
+    distance_km: 0.87
+  - name: ROCKY
+    distance_km: 10.55
+  - name: DILL CITY
+    distance_km: 14.09
+- country: US
+  region: OK
+  name: Sequoyah
+  lat: '36.3798'
+  long: "-95.5969"
+  nearby_rate_centers:
+  - name: CLAREMORE
+    distance_km: 7.77
+  - name: OOLOGAH
+    distance_km: 12.6
+  - name: TALALA
+    distance_km: 19.41
+- country: US
+  region: OK
+  name: Seward
+  lat: '35.7966'
+  long: "-97.4871"
+  nearby_rate_centers:
+  - name: GUTHRIE
+    distance_km: 11.38
+  - name: EDMOND
+    distance_km: 15.89
+  - name: CASHION
+    distance_km: 17.29
+- country: US
+  region: OK
+  name: Shady Grove
+  lat: '35.9485'
+  long: "-95.0952"
+  nearby_rate_centers:
+  - name: TAHLEQUAH
+    distance_km: 11.9
+  - name: SNUGHARBOR
+    distance_km: 17.35
+  - name: PEGGS
+    distance_km: 18.46
+- country: US
+  region: OK
+  name: Shady Point
+  lat: '35.1276'
+  long: "-94.6686"
+  nearby_rate_centers:
+  - name: PANAMA
+    distance_km: 4.06
+  - name: POTEAU
+    distance_km: 9.89
+  - name: CAMERON
+    distance_km: 12.13
+- country: US
+  region: OK
+  name: Shamrock
+  lat: '35.9114'
+  long: "-96.5772"
+  nearby_rate_centers:
+  - name: DRUMRIGHT
+    distance_km: 8.69
+  - name: DEPEW
+    distance_km: 13.61
+  - name: BRISTOW
+    distance_km: 19.0
+- country: US
+  region: OK
+  name: Sharon
+  lat: '36.2755'
+  long: "-99.3381"
+  nearby_rate_centers:
+  - name: SHARON
+    distance_km: 0.79
+  - name: VICI
+    distance_km: 14.56
+  - name: MUTUAL
+    distance_km: 16.27
+- country: US
+  region: OK
+  name: Shattuck
+  lat: '36.2649'
+  long: "-99.8774"
+  nearby_rate_centers:
+  - name: SHATTUCK
+    distance_km: 0.48
+  - name: GAGE
+    distance_km: 12.2
+  - name: ARNETT
+    distance_km: 17.82
+- country: US
+  region: OK
+  name: Shawnee
+  lat: '35.3531'
+  long: "-96.9647"
+  nearby_rate_centers:
+  - name: SHAWNEE
+    distance_km: 4.41
+  - name: TECUMSEH
+    distance_km: 10.76
+  - name: MCLOUD
+    distance_km: 15.03
+- country: US
+  region: OK
+  name: Shidler
+  lat: '36.7806'
+  long: "-96.6599"
+  nearby_rate_centers:
+  - name: SHIDLER
+    distance_km: 0.29
+  - name: WEBB CITY
+    distance_km: 5.29
+  - name: BURBANK
+    distance_km: 10.9
+- country: US
+  region: OK
+  name: Short
+  lat: '35.5664'
+  long: "-94.4936"
+  nearby_rate_centers:
+  - name: WUNIONTOWN
+    distance_km: 2.75
+  - name: MULDROW
+    distance_km: 20.05
+  - name: MOFFETT
+    distance_km: 20.08
+- country: US
+  region: OK
+  name: Silo
+  lat: '34.0356'
+  long: "-96.4744"
+  nearby_rate_centers:
+  - name: DURANT
+    distance_km: 9.93
+  - name: CALERA
+    distance_km: 12.0
+  - name: COLBERT
+    distance_km: 20.06
+- country: US
+  region: OK
+  name: Simms
+  lat: '35.3987'
+  long: "-95.1647"
+  nearby_rate_centers:
+  - name: PORUM
+    distance_km: 10.16
+  - name: WEBBERSFLS
+    distance_km: 12.28
+  - name: GORE
+    distance_km: 15.78
+- country: US
+  region: OK
+  name: Skedee
+  lat: '36.3805'
+  long: "-96.7039"
+  nearby_rate_centers:
+  - name: SKEDEE
+    distance_km: 0.19
+  - name: BLACKBURN
+    distance_km: 9.49
+  - name: PAWNEE
+    distance_km: 9.96
+- country: US
+  region: OK
+  name: Skiatook
+  lat: '36.3699'
+  long: "-95.9856"
+  nearby_rate_centers:
+  - name: SKIATOOK
+    distance_km: 1.53
+  - name: SPERRY
+    distance_km: 7.95
+  - name: COLLINSVL
+    distance_km: 13.15
+- country: US
+  region: OK
+  name: Slaughterville
+  lat: '35.0910'
+  long: "-97.2881"
+  nearby_rate_centers:
+  - name: TRIBBEY
+    distance_km: 10.23
+  - name: PURCELL
+    distance_km: 11.03
+  - name: NOBLE
+    distance_km: 11.38
+- country: US
+  region: OK
+  name: Slick
+  lat: '35.7799'
+  long: "-96.2800"
+  nearby_rate_centers:
+  - name: BRISTOW
+    distance_km: 11.53
+  - name: KELLYVILLE
+    distance_km: 18.07
+  - name: BEGGS
+    distance_km: 18.88
+- country: US
+  region: OK
+  name: Smith Village
+  lat: '35.4508'
+  long: "-97.4570"
+  nearby_rate_centers:
+  - name: MIDWEST CY
+    distance_km: 5.07
+  - name: OKLA CITY
+    distance_km: 5.74
+  - name: SPENCER
+    distance_km: 11.05
+- country: US
+  region: OK
+  name: Smithville
+  lat: '34.4689'
+  long: "-94.6461"
+  nearby_rate_centers:
+  - name: SMITHVILLE
+    distance_km: 0.72
+  - name: MUSE
+    distance_km: 25.56
+  - name: NEW HOME
+    distance_km: 25.72
+- country: US
+  region: OK
+  name: Snake Creek
+  lat: '36.1786'
+  long: "-95.0937"
+  nearby_rate_centers:
+  - name: LOCUST GRV
+    distance_km: 6.86
+  - name: PEGGS
+    distance_km: 7.17
+  - name: CEDARCREST
+    distance_km: 13.07
+- country: US
+  region: OK
+  name: Snyder
+  lat: '34.6550'
+  long: "-98.9535"
+  nearby_rate_centers:
+  - name: SNYDER
+    distance_km: 0.61
+  - name: HEADRICK
+    distance_km: 17.15
+  - name: MANITOU
+    distance_km: 17.47
+- country: US
+  region: OK
+  name: Soper
+  lat: '34.0321'
+  long: "-95.6965"
+  nearby_rate_centers:
+  - name: SOPER
+    distance_km: 0.19
+  - name: BOSWELL
+    distance_km: 16.15
+  - name: HUGO
+    distance_km: 17.26
+- country: US
+  region: OK
+  name: Sour John
+  lat: '35.6206'
+  long: "-95.1432"
+  nearby_rate_centers:
+  - name: BRAGGS
+    distance_km: 7.01
+  - name: GORE
+    distance_km: 9.97
+  - name: WEBBERSFLS
+    distance_km: 12.74
+- country: US
+  region: OK
+  name: South Coffeyville
+  lat: '36.9921'
+  long: "-95.6219"
+  nearby_rate_centers:
+  - name: SOCOFFEYVL
+    distance_km: 0.29
+  - name: LENAPAH
+    distance_km: 14.71
+  - name: WANN
+    distance_km: 17.9
+- country: US
+  region: OK
+  name: Sparks
+  lat: '35.6113'
+  long: "-96.8191"
+  nearby_rate_centers:
+  - name: SPARKS
+    distance_km: 0.21
+  - name: CHANDLER
+    distance_km: 11.1
+  - name: DAVENPORT
+    distance_km: 11.74
+- country: US
+  region: OK
+  name: Spaulding
+  lat: '35.0132'
+  long: "-96.4404"
+  nearby_rate_centers:
+  - name: HOLDENVL
+    distance_km: 8.71
+  - name: SASAKWA
+    distance_km: 10.34
+  - name: ATWOOD
+    distance_km: 11.39
+- country: US
+  region: OK
+  name: Spavinaw
+  lat: '36.3937'
+  long: "-95.0502"
+  nearby_rate_centers:
+  - name: SPAVINAW
+    distance_km: 0.53
+  - name: STRANG
+    distance_km: 7.77
+  - name: DISNEY
+    distance_km: 11.46
+- country: US
+  region: OK
+  name: Spencer
+  lat: '35.5108'
+  long: "-97.3715"
+  nearby_rate_centers:
+  - name: SPENCER
+    distance_km: 1.52
+  - name: NICOMAPARK
+    distance_km: 4.79
+  - name: MIDWEST CY
+    distance_km: 7.99
+- country: US
+  region: OK
+  name: Sperry
+  lat: '36.2976'
+  long: "-95.9963"
+  nearby_rate_centers:
+  - name: SPERRY
+    distance_km: 0.66
+  - name: SKIATOOK
+    distance_km: 7.87
+  - name: OWASSO
+    distance_km: 13.43
+- country: US
+  region: OK
+  name: Spiro
+  lat: '35.2410'
+  long: "-94.6237"
+  nearby_rate_centers:
+  - name: SPIRO
+    distance_km: 0.42
+  - name: PANAMA
+    distance_km: 9.36
+  - name: POCOLA
+    distance_km: 13.14
+- country: US
+  region: OK
+  name: Sportmans Shores
+  lat: '36.4645'
+  long: "-95.0830"
+  nearby_rate_centers:
+  - name: STRANG
+    distance_km: 6.86
+  - name: KETCHUM
+    distance_km: 7.45
+  - name: SPAVINAW
+    distance_km: 7.96
+- country: US
+  region: OK
+  name: Sportsmen Acres
+  lat: '36.2458'
+  long: "-95.2517"
+  nearby_rate_centers:
+  - name: LOCUST GRV
+    distance_km: 9.22
+  - name: PRYOR
+    distance_km: 9.28
+  - name: CHOUTEAU
+    distance_km: 10.68
+- country: US
+  region: OK
+  name: Springer
+  lat: '34.2910'
+  long: "-97.1255"
+  nearby_rate_centers:
+  - name: SPRINGER
+    distance_km: 2.99
+  - name: GENE AUTRY
+    distance_km: 7.67
+  - name: ARDMRAIRPK
+    distance_km: 8.79
+- country: US
+  region: OK
+  name: St. Louis
+  lat: '35.0812'
+  long: "-96.8598"
+  nearby_rate_centers:
+  - name: ST LOUIS
+    distance_km: 0.9
+  - name: PEARSON
+    distance_km: 6.92
+  - name: MAUD
+    distance_km: 9.48
+- country: US
+  region: OK
+  name: Steely Hollow
+  lat: '35.9877'
+  long: "-94.9456"
+  nearby_rate_centers:
+  - name: TAHLEQUAH
+    distance_km: 8.15
+  - name: PEGGS
+    distance_km: 18.98
+  - name: FLINT
+    distance_km: 26.48
+- country: US
+  region: OK
+  name: Sterling
+  lat: '34.7494'
+  long: "-98.1725"
+  nearby_rate_centers:
+  - name: STERLING
+    distance_km: 0.74
+  - name: FLETCHER
+    distance_km: 9.63
+  - name: ELGIN
+    distance_km: 11.11
+- country: US
+  region: OK
+  name: Stidham
+  lat: '35.3686'
+  long: "-95.7008"
+  nearby_rate_centers:
+  - name: EUFAULA
+    distance_km: 14.14
+  - name: HITCHITA
+    distance_km: 18.04
+  - name: CHECOTAH
+    distance_km: 20.09
+- country: US
+  region: OK
+  name: Stigler
+  lat: '35.2570'
+  long: "-95.1181"
+  nearby_rate_centers:
+  - name: STIGLER
+    distance_km: 0.49
+  - name: PORUM
+    distance_km: 16.29
+  - name: KEOTA
+    distance_km: 17.3
+- country: US
+  region: OK
+  name: Stillwater
+  lat: '36.1317'
+  long: "-97.0742"
+  nearby_rate_centers:
+  - name: STILLWATER
+    distance_km: 2.38
+  - name: GLENCOE
+    distance_km: 17.06
+  - name: PERKINS
+    distance_km: 17.73
+- country: US
+  region: OK
+  name: Stilwell
+  lat: '35.8145'
+  long: "-94.6317"
+  nearby_rate_centers:
+  - name: STILWELL
+    distance_km: 0.8
+  - name: BARON
+    distance_km: 12.44
+  - name: WESTVILLE
+    distance_km: 20.58
+- country: US
+  region: OK
+  name: Stonewall
+  lat: '34.6499'
+  long: "-96.5268"
+  nearby_rate_centers:
+  - name: STONEWALL
+    distance_km: 0.32
+  - name: FITTSTOWN
+    distance_km: 10.52
+  - name: TUPELO
+    distance_km: 11.0
+- country: US
+  region: OK
+  name: Stoney Point
+  lat: '35.5847'
+  long: "-94.6635"
+  nearby_rate_centers:
+  - name: WUNIONTOWN
+    distance_km: 17.13
+  - name: SALLISAW
+    distance_km: 18.31
+  - name: SALLISAW (DIAMONDNET)
+    distance_km: 18.31
+  - name: MULDROW
+    distance_km: 20.55
+- country: US
+  region: OK
+  name: Strang
+  lat: '36.4123'
+  long: "-95.1347"
+  nearby_rate_centers:
+  - name: STRANG
+    distance_km: 0.58
+  - name: SPAVINAW
+    distance_km: 7.82
+  - name: ADAIR
+    distance_km: 12.29
+- country: US
+  region: OK
+  name: Stratford
+  lat: '34.7952'
+  long: "-96.9603"
+  nearby_rate_centers:
+  - name: STRATFORD
+    distance_km: 0.37
+  - name: BYARS
+    distance_km: 12.49
+  - name: WANETTE
+    distance_km: 19.67
+- country: US
+  region: OK
+  name: Stringtown
+  lat: '34.4701'
+  long: "-96.0549"
+  nearby_rate_centers:
+  - name: STRINGTOWN
+    distance_km: 0.58
+  - name: ATOKA
+    distance_km: 11.58
+  - name: COALGATE
+    distance_km: 16.82
+- country: US
+  region: OK
+  name: Strong City
+  lat: '35.6698'
+  long: "-99.6005"
+  nearby_rate_centers:
+  - name: CHEYENNE
+    distance_km: 9.18
+  - name: HAMMON
+    distance_km: 19.86
+  - name: ROGERMILLS
+    distance_km: 23.62
+- country: US
+  region: OK
+  name: Stroud
+  lat: '35.7686'
+  long: "-96.6467"
+  nearby_rate_centers:
+  - name: STROUD
+    distance_km: 2.85
+  - name: KENDRICK
+    distance_km: 11.58
+  - name: DAVENPORT
+    distance_km: 12.87
+- country: US
+  region: OK
+  name: Stuart
+  lat: '34.9010'
+  long: "-96.0994"
+  nearby_rate_centers:
+  - name: STUART
+    distance_km: 0.12
+  - name: ARPELAR
+    distance_km: 13.47
+  - name: GERTY
+    distance_km: 15.06
+- country: US
+  region: OK
+  name: Sugden
+  lat: '34.0826'
+  long: "-97.9788"
+  nearby_rate_centers:
+  - name: RYAN
+    distance_km: 7.37
+  - name: WAURIKA
+    distance_km: 9.41
+  - name: HASTINGS
+    distance_km: 19.66
+- country: US
+  region: OK
+  name: Sulphur
+  lat: '34.4979'
+  long: "-96.9898"
+  nearby_rate_centers:
+  - name: SULPHUR
+    distance_km: 2.68
+  - name: DAVIS
+    distance_km: 12.04
+  - name: DOUGHERTY
+    distance_km: 12.4
+- country: US
+  region: OK
+  name: Summit
+  lat: '35.6694'
+  long: "-95.4208"
+  nearby_rate_centers:
+  - name: MUSKOGEE
+    distance_km: 9.59
+  - name: KEEFETON
+    distance_km: 10.56
+  - name: BRAGGS
+    distance_km: 20.09
+- country: US
+  region: OK
+  name: Sumner
+  lat: '36.3182'
+  long: "-97.1179"
+  nearby_rate_centers:
+  - name: MORRISON
+    distance_km: 10.12
+  - name: PERRY
+    distance_km: 15.55
+  - name: RED ROCK
+    distance_km: 16.59
+- country: US
+  region: OK
+  name: Sunray
+  lat: '34.4112'
+  long: "-97.9602"
+  nearby_rate_centers:
+  - name: COMANCHE
+    distance_km: 4.85
+  - name: DUNCAN
+    distance_km: 9.37
+  - name: HASTINGS
+    distance_km: 24.77
+- country: US
+  region: OK
+  name: Sweetwater
+  lat: '35.4222'
+  long: "-99.9116"
+  nearby_rate_centers:
+  - name: SWEETWATER
+    distance_km: 0.62
+  - name: ERICK
+    distance_km: 23.07
+  - name: REYDON
+    distance_km: 25.38
+- country: US
+  region: OK
+  name: Swink
+  lat: '34.0169'
+  long: "-95.2018"
+  nearby_rate_centers:
+  - name: FORTTOWSON
+    distance_km: 6.03
+  - name: VALLIANT
+    distance_km: 10.44
+  - name: RUFE
+    distance_km: 13.15
+- country: US
+  region: OK
+  name: Sycamore
+  lat: '36.3990'
+  long: "-94.7149"
+  nearby_rate_centers:
+  - name: JAY
+    distance_km: 8.12
+  - name: WMAYSVILLE
+    distance_km: 10.0
+  - name: SOWESTCITY
+    distance_km: 15.57
+- country: US
+  region: OK
+  name: Taft
+  lat: '35.7608'
+  long: "-95.5454"
+  nearby_rate_centers:
+  - name: PORTER
+    distance_km: 11.97
+  - name: HASKELL
+    distance_km: 13.53
+  - name: BOYNTON
+    distance_km: 15.53
+- country: US
+  region: OK
+  name: Tagg Flats
+  lat: '36.3387'
+  long: "-94.9037"
+  nearby_rate_centers:
+  - name: JAY
+    distance_km: 13.58
+  - name: SPAVINAW
+    distance_km: 14.61
+  - name: DISNEY
+    distance_km: 17.22
+- country: US
+  region: OK
+  name: Tahlequah
+  lat: '35.9112'
+  long: "-94.9770"
+  nearby_rate_centers:
+  - name: TAHLEQUAH
+    distance_km: 0.96
+  - name: PEGGS
+    distance_km: 24.67
+  - name: FORTGIBSON
+    distance_km: 27.7
+- country: US
+  region: OK
+  name: Talala
+  lat: '36.5295'
+  long: "-95.7011"
+  nearby_rate_centers:
+  - name: TALALA
+    distance_km: 0.34
+  - name: OOLOGAH
+    distance_km: 8.96
+  - name: OGLESBY
+    distance_km: 17.13
+- country: US
+  region: OK
+  name: Talihina
+  lat: '34.7523'
+  long: "-95.0409"
+  nearby_rate_centers:
+  - name: TALIHINA
+    distance_km: 0.46
+  - name: ALBION
+    distance_km: 10.77
+  - name: BUFFALOVLY
+    distance_km: 17.04
+- country: US
+  region: OK
+  name: Taloga
+  lat: '36.0402'
+  long: "-98.9640"
+  nearby_rate_centers:
+  - name: TALOGA
+    distance_km: 0.45
+  - name: SEILING
+    distance_km: 12.83
+  - name: CHESTER
+    distance_km: 19.17
+- country: US
+  region: OK
+  name: Tamaha
+  lat: '35.4057'
+  long: "-95.0178"
+  nearby_rate_centers:
+  - name: VIAN
+    distance_km: 11.25
+  - name: WEBBERSFLS
+    distance_km: 15.36
+  - name: GORE
+    distance_km: 16.71
+- country: US
+  region: OK
+  name: Tatums
+  lat: '34.4779'
+  long: "-97.4660"
+  nearby_rate_centers:
+  - name: RATLIFF CY
+    distance_km: 4.78
+  - name: HENNEPIN
+    distance_km: 11.35
+  - name: PIKE CITY
+    distance_km: 16.14
+- country: US
+  region: OK
+  name: Taylor Ferry
+  lat: '35.9391'
+  long: "-95.2989"
+  nearby_rate_centers:
+  - name: SNUGHARBOR
+    distance_km: 5.94
+  - name: WAGONER
+    distance_km: 6.33
+  - name: FORTGIBSON
+    distance_km: 16.15
+- country: US
+  region: OK
+  name: Tecumseh
+  lat: '35.2639'
+  long: "-96.9337"
+  nearby_rate_centers:
+  - name: TECUMSEH
+    distance_km: 0.53
+  - name: SHAWNEE
+    distance_km: 7.47
+  - name: EARLSBORO
+    distance_km: 12.33
+- country: US
+  region: OK
+  name: Temple
+  lat: '34.2730'
+  long: "-98.2350"
+  nearby_rate_centers:
+  - name: TEMPLE
+    distance_km: 0.36
+  - name: WALTERS
+    distance_km: 11.48
+  - name: HASTINGS
+    distance_km: 12.98
+- country: US
+  region: OK
+  name: Tenkiller
+  lat: '35.7935'
+  long: "-94.8537"
+  nearby_rate_centers:
+  - name: TAHLEQUAH
+    distance_km: 17.21
+  - name: STILWELL
+    distance_km: 20.95
+  - name: BARON
+    distance_km: 26.9
+- country: US
+  region: OK
+  name: Teresita
+  lat: '36.1230'
+  long: "-94.9803"
+  nearby_rate_centers:
+  - name: PEGGS
+    distance_km: 9.64
+  - name: LOCUST GRV
+    distance_km: 18.72
+  - name: KANSAS
+    distance_km: 19.09
+- country: US
+  region: OK
+  name: Terlton
+  lat: '36.1876'
+  long: "-96.4918"
+  nearby_rate_centers:
+  - name: JENNINGS
+    distance_km: 6.98
+  - name: HALLETT
+    distance_km: 8.51
+  - name: MANNFORD
+    distance_km: 13.32
+- country: US
+  region: OK
+  name: Terral
+  lat: '33.8966'
+  long: "-97.9383"
+  nearby_rate_centers:
+  - name: TERRAL
+    distance_km: 0.41
+  - name: RYAN
+    distance_km: 13.77
+  - name: WAURIKA
+    distance_km: 30.42
+- country: US
+  region: OK
+  name: Texanna
+  lat: '35.3572'
+  long: "-95.5047"
+  nearby_rate_centers:
+  - name: EUFAULA
+    distance_km: 10.66
+  - name: LONGTOWN
+    distance_km: 13.07
+  - name: CHECOTAH
+    distance_km: 13.26
+- country: US
+  region: OK
+  name: Texhoma
+  lat: '36.5054'
+  long: "-101.7872"
+  nearby_rate_centers:
+  - name: TEXHOMA
+    distance_km: 0.74
+  - name: GOODWELL
+    distance_km: 17.29
+  - name: EVA
+    distance_km: 33.55
+- country: US
+  region: OK
+  name: Texola
+  lat: '35.2225'
+  long: "-99.9930"
+  nearby_rate_centers:
+  - name: ERICK
+    distance_km: 11.52
+  - name: SWEETWATER
+    distance_km: 23.65
+  - name: SAYRE
+    distance_km: 32.85
+- country: US
+  region: OK
+  name: Thackerville
+  lat: '33.7936'
+  long: "-97.1420"
+  nearby_rate_centers:
+  - name: MARIETTA
+    distance_km: 16.12
+  - name: ARDMORE
+    distance_km: 42.51
+  - name: LONE GROVE
+    distance_km: 44.66
+- country: US
+  region: OK
+  name: The Village
+  lat: '35.5706'
+  long: "-97.5567"
+  nearby_rate_centers:
+  - name: BRITTON
+    distance_km: 3.2
+  - name: EDMOND
+    distance_km: 11.48
+  - name: BETHANY
+    distance_km: 11.58
+- country: US
+  region: OK
+  name: Thomas
+  lat: '35.7452'
+  long: "-98.7451"
+  nearby_rate_centers:
+  - name: THOMAS
+    distance_km: 0.55
+  - name: FAY
+    distance_km: 11.14
+  - name: CUSTERCITY
+    distance_km: 15.11
+- country: US
+  region: OK
+  name: Tiawah
+  lat: '36.2483'
+  long: "-95.5362"
+  nearby_rate_centers:
+  - name: CLAREMORE
+    distance_km: 9.81
+  - name: INOLA
+    distance_km: 11.39
+  - name: CHOUTEAU
+    distance_km: 18.98
+- country: US
+  region: OK
+  name: Tipton
+  lat: '34.4879'
+  long: "-99.1500"
+  nearby_rate_centers:
+  - name: TIPTON
+    distance_km: 2.66
+  - name: MANITOU
+    distance_km: 15.4
+  - name: HEADRICK
+    distance_km: 15.6
+- country: US
+  region: OK
+  name: Tishomingo
+  lat: '34.2388'
+  long: "-96.6830"
+  nearby_rate_centers:
+  - name: TISHOMINGO
+    distance_km: 0.06
+  - name: MILBURN
+    distance_km: 12.32
+  - name: MADILL
+    distance_km: 18.48
+- country: US
+  region: OK
+  name: Titanic
+  lat: '35.8889'
+  long: "-94.7434"
+  nearby_rate_centers:
+  - name: BARON
+    distance_km: 13.29
+  - name: STILWELL
+    distance_km: 13.62
+  - name: WESTVILLE
+    distance_km: 19.63
+- country: US
+  region: OK
+  name: Tonkawa
+  lat: '36.6769'
+  long: "-97.3235"
+  nearby_rate_centers:
+  - name: TONKAWA
+    distance_km: 1.66
+  - name: BLACKWELL
+    distance_km: 14.32
+  - name: BILLINGS
+    distance_km: 19.67
+- country: US
+  region: OK
+  name: Tonkawa Tribal Housing
+  lat: '36.6697'
+  long: "-97.2662"
+  nearby_rate_centers:
+  - name: TONKAWA
+    distance_km: 4.02
+  - name: BLACKWELL
+    distance_km: 14.84
+  - name: MARLAND
+    distance_km: 16.47
+- country: US
+  region: OK
+  name: Toppers
+  lat: '35.9656'
+  long: "-95.3201"
+  nearby_rate_centers:
+  - name: WAGONER
+    distance_km: 4.08
+  - name: SNUGHARBOR
+    distance_km: 4.48
+  - name: CEDARCREST
+    distance_km: 18.59
+- country: US
+  region: OK
+  name: Tribbey
+  lat: '35.1006'
+  long: "-97.0957"
+  nearby_rate_centers:
+  - name: TRIBBEY
+    distance_km: 7.32
+  - name: PEARSON
+    distance_km: 14.88
+  - name: WANETTE
+    distance_km: 16.47
+- country: US
+  region: OK
+  name: Tryon
+  lat: '35.8805'
+  long: "-96.9661"
+  nearby_rate_centers:
+  - name: TRYON
+    distance_km: 1.84
+  - name: CARNEY
+    distance_km: 8.93
+  - name: AGRA
+    distance_km: 9.14
+- country: US
+  region: OK
+  name: Tullahassee
+  lat: '35.8406'
+  long: "-95.4383"
+  nearby_rate_centers:
+  - name: PORTER
+    distance_km: 7.65
+  - name: MUSKOGEE
+    distance_km: 12.63
+  - name: WAGONER
+    distance_km: 14.75
+- country: US
+  region: OK
+  name: Tulsa
+  lat: '36.1283'
+  long: "-95.9042"
+  nearby_rate_centers:
+  - name: TULSA
+    distance_km: 7.63
+  - name: JENKS
+    distance_km: 13.31
+  - name: BROKENARRW
+    distance_km: 13.41
+- country: US
+  region: OK
+  name: Tupelo
+  lat: '34.6027'
+  long: "-96.4208"
+  nearby_rate_centers:
+  - name: TUPELO
+    distance_km: 0.3
+  - name: STONEWALL
+    distance_km: 10.79
+  - name: CLARITA
+    distance_km: 13.24
+- country: US
+  region: OK
+  name: Turley
+  lat: '36.2472'
+  long: "-95.9655"
+  nearby_rate_centers:
+  - name: SPERRY
+    distance_km: 6.07
+  - name: OWASSO
+    distance_km: 10.46
+  - name: TULSA
+    distance_km: 10.79
+- country: US
+  region: OK
+  name: Turpin
+  lat: '36.8705'
+  long: "-100.8825"
+  nearby_rate_centers:
+  - name: TURPIN
+    distance_km: 13.07
+  - name: FLORIS
+    distance_km: 16.46
+  - name: TYRONE
+    distance_km: 18.05
+- country: US
+  region: OK
+  name: Tushka
+  lat: '34.3186'
+  long: "-96.1674"
+  nearby_rate_centers:
+  - name: ATOKA
+    distance_km: 8.21
+  - name: STRINGTOWN
+    distance_km: 19.84
+  - name: CADDO
+    distance_km: 23.71
+- country: US
+  region: OK
+  name: Tuskahoma
+  lat: '34.6272'
+  long: "-95.2779"
+  nearby_rate_centers:
+  - name: CLAYTON
+    distance_km: 7.88
+  - name: BUFFALOVLY
+    distance_km: 15.34
+  - name: NASHOBA
+    distance_km: 16.92
+- country: US
+  region: OK
+  name: Tuttle
+  lat: '35.3068'
+  long: "-97.7564"
+  nearby_rate_centers:
+  - name: TUTTLE
+    distance_km: 5.27
+  - name: MUSTANG
+    distance_km: 9.07
+  - name: WHEATLAND
+    distance_km: 14.06
+- country: US
+  region: OK
+  name: Twin Lakes
+  lat: '35.8679'
+  long: "-97.6653"
+  nearby_rate_centers:
+  - name: CASHION
+    distance_km: 7.92
+  - name: CRESCENT
+    distance_km: 12.13
+  - name: GUTHRIE
+    distance_km: 22.26
+- country: US
+  region: OK
+  name: Twin Oaks
+  lat: '36.1974'
+  long: "-94.8378"
+  nearby_rate_centers:
+  - name: KANSAS
+    distance_km: 3.93
+  - name: FLINT
+    distance_km: 7.98
+  - name: COLCORD
+    distance_km: 13.79
+- country: US
+  region: OK
+  name: Tyrone
+  lat: '36.9555'
+  long: "-101.0680"
+  nearby_rate_centers:
+  - name: TYRONE
+    distance_km: 4.81
+  - name: TURPIN
+    distance_km: 12.95
+  - name: HOOKER
+    distance_km: 16.35
+- country: US
+  region: OK
+  name: Union City
+  lat: '35.4015'
+  long: "-97.9047"
+  nearby_rate_centers:
+  - name: UNION CITY
+    distance_km: 3.38
+  - name: MINCO
+    distance_km: 10.21
+  - name: TUTTLE
+    distance_km: 14.72
+- country: US
+  region: OK
+  name: Utica
+  lat: '33.9051'
+  long: "-96.2214"
+  nearby_rate_centers:
+  - name: YUBA
+    distance_km: 9.91
+  - name: BOKCHITO
+    distance_km: 14.61
+  - name: ACHILLE
+    distance_km: 17.25
+- country: US
+  region: OK
+  name: Valley Brook
+  lat: '35.4027'
+  long: "-97.4814"
+  nearby_rate_centers:
+  - name: MOORE
+    distance_km: 6.81
+  - name: OKLA CITY
+    distance_km: 8.15
+  - name: MIDWEST CY
+    distance_km: 8.51
+- country: US
+  region: OK
+  name: Valley Park
+  lat: '36.2828'
+  long: "-95.7362"
+  nearby_rate_centers:
+  - name: CATOOSA
+    distance_km: 10.36
+  - name: OWASSO
+    distance_km: 10.48
+  - name: CLAREMORE
+    distance_km: 11.47
+- country: US
+  region: OK
+  name: Valliant
+  lat: '34.0058'
+  long: "-95.0861"
+  nearby_rate_centers:
+  - name: VALLIANT
+    distance_km: 0.75
+  - name: MILLERTON
+    distance_km: 6.04
+  - name: WRIGHTCITY
+    distance_km: 10.8
+- country: US
+  region: OK
+  name: Vanoss
+  lat: '34.7578'
+  long: "-96.8712"
+  nearby_rate_centers:
+  - name: STRATFORD
+    distance_km: 9.41
+  - name: ROFF
+    distance_km: 14.72
+  - name: ADA
+    distance_km: 18.06
+- country: US
+  region: OK
+  name: Velma
+  lat: '34.4546'
+  long: "-97.6620"
+  nearby_rate_centers:
+  - name: VELMA
+    distance_km: 1.83
+  - name: LOCO
+    distance_km: 13.56
+  - name: RATLIFF CY
+    distance_km: 14.29
+- country: US
+  region: OK
+  name: Vera
+  lat: '36.4552'
+  long: "-95.9042"
+  nearby_rate_centers:
+  - name: RAMONA
+    distance_km: 8.95
+  - name: COLLINSVL
+    distance_km: 11.8
+  - name: SKIATOOK
+    distance_km: 13.08
+- country: US
+  region: OK
+  name: Verden
+  lat: '35.0833'
+  long: "-98.0863"
+  nearby_rate_centers:
+  - name: VERDEN
+    distance_km: 0.46
+  - name: CHICKASHA
+    distance_km: 13.88
+  - name: ANADARKO
+    distance_km: 14.54
+- country: US
+  region: OK
+  name: Verdigris
+  lat: '36.2536'
+  long: "-95.6600"
+  nearby_rate_centers:
+  - name: CLAREMORE
+    distance_km: 7.65
+  - name: CATOOSA
+    distance_km: 10.3
+  - name: OWASSO
+    distance_km: 17.22
+- country: US
+  region: OK
+  name: Vian
+  lat: '35.5023'
+  long: "-94.9695"
+  nearby_rate_centers:
+  - name: VIAN
+    distance_km: 0.37
+  - name: GORE
+    distance_km: 13.49
+  - name: WEBBERSFLS
+    distance_km: 14.89
+- country: US
+  region: OK
+  name: Vici
+  lat: '36.1488'
+  long: "-99.2994"
+  nearby_rate_centers:
+  - name: VICI
+    distance_km: 0.14
+  - name: CAMARGO
+    distance_km: 14.61
+  - name: SHARON
+    distance_km: 15.21
+- country: US
+  region: OK
+  name: Vinita
+  lat: '36.6375'
+  long: "-95.1725"
+  nearby_rate_centers:
+  - name: VINITA
+    distance_km: 1.26
+  - name: BIG CABIN
+    distance_km: 11.34
+  - name: KETCHUM
+    distance_km: 19.6
+- country: US
+  region: OK
+  name: Wagoner
+  lat: '35.9645'
+  long: "-95.3785"
+  nearby_rate_centers:
+  - name: WAGONER
+    distance_km: 1.38
+  - name: SNUGHARBOR
+    distance_km: 9.25
+  - name: PORTER
+    distance_km: 16.61
+- country: US
+  region: OK
+  name: Wainwright
+  lat: '35.6134'
+  long: "-95.5660"
+  nearby_rate_centers:
+  - name: BOYNTON
+    distance_km: 8.83
+  - name: COUNCIL HL
+    distance_km: 9.62
+  - name: CHECOTAH
+    distance_km: 15.83
+- country: US
+  region: OK
+  name: Wakita
+  lat: '36.8819'
+  long: "-97.9241"
+  nearby_rate_centers:
+  - name: WAKITA
+    distance_km: 0.71
+  - name: SOBLF CITY
+    distance_km: 11.79
+  - name: MANCHESTER
+    distance_km: 16.28
+- country: US
+  region: OK
+  name: Walters
+  lat: '34.3612'
+  long: "-98.3568"
+  nearby_rate_centers:
+  - name: WALTERS
+    distance_km: 4.71
+  - name: TEMPLE
+    distance_km: 14.99
+  - name: RANDLETT
+    distance_km: 22.87
+- country: US
+  region: OK
+  name: Wanette
+  lat: '34.9626'
+  long: "-97.0317"
+  nearby_rate_centers:
+  - name: WANETTE
+    distance_km: 0.1
+  - name: BYARS
+    distance_km: 10.0
+  - name: ASHER
+    distance_km: 10.04
+- country: US
+  region: OK
+  name: Wann
+  lat: '36.9146'
+  long: "-95.8047"
+  nearby_rate_centers:
+  - name: WANN
+    distance_km: 0.49
+  - name: COPAN
+    distance_km: 11.01
+  - name: LENAPAH
+    distance_km: 16.57
+- country: US
+  region: OK
+  name: Wapanucka
+  lat: '34.3736'
+  long: "-96.4255"
+  nearby_rate_centers:
+  - name: WAPANUCKA
+    distance_km: 0.53
+  - name: BROMIDE
+    distance_km: 7.89
+  - name: CLARITA
+    distance_km: 12.28
+- country: US
+  region: OK
+  name: Wardville
+  lat: '34.6550'
+  long: "-96.0309"
+  nearby_rate_centers:
+  - name: WARDVILLE
+    distance_km: 0.8
+  - name: ASHLAND
+    distance_km: 12.8
+  - name: KIOWA
+    distance_km: 13.81
+- country: US
+  region: OK
+  name: Warner
+  lat: '35.4905'
+  long: "-95.3087"
+  nearby_rate_centers:
+  - name: WARNER
+    distance_km: 0.92
+  - name: KEEFETON
+    distance_km: 12.01
+  - name: WEBBERSFLS
+    distance_km: 15.91
+- country: US
+  region: OK
+  name: Warr Acres
+  lat: '35.5285'
+  long: "-97.6182"
+  nearby_rate_centers:
+  - name: BETHANY
+    distance_km: 4.6
+  - name: BRITTON
+    distance_km: 8.22
+  - name: OKLA CITY
+    distance_km: 11.31
+- country: US
+  region: OK
+  name: Warwick
+  lat: '35.6881'
+  long: "-97.0018"
+  nearby_rate_centers:
+  - name: WELLSTON
+    distance_km: 5.53
+  - name: CHANDLER
+    distance_km: 11.38
+  - name: CARNEY
+    distance_km: 13.47
+- country: US
+  region: OK
+  name: Washington
+  lat: '35.0582'
+  long: "-97.4923"
+  nearby_rate_centers:
+  - name: WASHINGTON
+    distance_km: 0.62
+  - name: NOBLE
+    distance_km: 12.79
+  - name: DIBBLE
+    distance_km: 13.14
+- country: US
+  region: OK
+  name: Washita
+  lat: '35.1043'
+  long: "-98.3414"
+  nearby_rate_centers:
+  - name: FORT COBB
+    distance_km: 8.94
+  - name: ANADARKO
+    distance_km: 9.32
+  - name: GRACEMONT
+    distance_km: 12.46
+- country: US
+  region: OK
+  name: Watonga
+  lat: '35.8691'
+  long: "-98.4166"
+  nearby_rate_centers:
+  - name: WATONGA
+    distance_km: 2.88
+  - name: HITCHCOCK
+    distance_km: 12.44
+  - name: FAY
+    distance_km: 22.47
+- country: US
+  region: OK
+  name: Watova
+  lat: '36.6197'
+  long: "-95.6604"
+  nearby_rate_centers:
+  - name: NOWATA
+    distance_km: 9.33
+  - name: TALALA
+    distance_km: 10.4
+  - name: ALLUWE
+    distance_km: 15.36
+- country: US
+  region: OK
+  name: Watts
+  lat: '36.1073'
+  long: "-94.5718"
+  nearby_rate_centers:
+  - name: WATTS
+    distance_km: 0.26
+  - name: WESTVILLE
+    distance_km: 12.85
+  - name: FLINT
+    distance_km: 17.91
+- country: US
+  region: OK
+  name: Wauhillau
+  lat: '35.8643'
+  long: "-94.7605"
+  nearby_rate_centers:
+  - name: STILWELL
+    distance_km: 13.56
+  - name: BARON
+    distance_km: 15.72
+  - name: TAHLEQUAH
+    distance_km: 19.67
+- country: US
+  region: OK
+  name: Waukomis
+  lat: '36.2842'
+  long: "-97.9005"
+  nearby_rate_centers:
+  - name: WAUKOMIS
+    distance_km: 0.58
+  - name: DRUMMOND
+    distance_km: 12.52
+  - name: ENID
+    distance_km: 12.64
+- country: US
+  region: OK
+  name: Waurika
+  lat: '34.1830'
+  long: "-98.0245"
+  nearby_rate_centers:
+  - name: WAURIKA
+    distance_km: 3.56
+  - name: HASTINGS
+    distance_km: 8.84
+  - name: RYAN
+    distance_km: 19.3
+- country: US
+  region: OK
+  name: Wayne
+  lat: '34.9170'
+  long: "-97.3166"
+  nearby_rate_centers:
+  - name: WAYNE
+    distance_km: 0.18
+  - name: PAOLI
+    distance_km: 10.88
+  - name: PURCELL
+    distance_km: 11.0
+- country: US
+  region: OK
+  name: Waynoka
+  lat: '36.5849'
+  long: "-98.8776"
+  nearby_rate_centers:
+  - name: WAYNOKA
+    distance_km: 0.43
+  - name: QUINLAN
+    distance_km: 20.87
+  - name: HOPETON
+    distance_km: 21.54
+- country: US
+  region: OK
+  name: Weatherford
+  lat: '35.5380'
+  long: "-98.6853"
+  nearby_rate_centers:
+  - name: WEATHERFD
+    distance_km: 2.54
+  - name: HYDRO
+    distance_km: 9.39
+  - name: CORN
+    distance_km: 19.33
+- country: US
+  region: OK
+  name: Webb City
+  lat: '36.8074'
+  long: "-96.7119"
+  nearby_rate_centers:
+  - name: WEBB CITY
+    distance_km: 0.78
+  - name: SHIDLER
+    distance_km: 5.29
+  - name: BURBANK
+    distance_km: 11.89
+- country: US
+  region: OK
+  name: Webbers Falls
+  lat: '35.5105'
+  long: "-95.1601"
+  nearby_rate_centers:
+  - name: WEBBERSFLS
+    distance_km: 2.41
+  - name: GORE
+    distance_km: 4.99
+  - name: WARNER
+    distance_km: 12.74
+- country: US
+  region: OK
+  name: Welch
+  lat: '36.8743'
+  long: "-95.0946"
+  nearby_rate_centers:
+  - name: WELCH
+    distance_km: 0.84
+  - name: BLUEJACKET
+    distance_km: 8.53
+  - name: SO CHETOPA
+    distance_km: 12.08
+- country: US
+  region: OK
+  name: Weleetka
+  lat: '35.3401'
+  long: "-96.1360"
+  nearby_rate_centers:
+  - name: WELEETKA
+    distance_km: 1.68
+  - name: DUSTIN
+    distance_km: 11.94
+  - name: WETUMKA
+    distance_km: 15.05
+- country: US
+  region: OK
+  name: Welling
+  lat: '35.8808'
+  long: "-94.8712"
+  nearby_rate_centers:
+  - name: TAHLEQUAH
+    distance_km: 9.68
+  - name: STILWELL
+    distance_km: 23.54
+  - name: BARON
+    distance_km: 24.69
+- country: US
+  region: OK
+  name: Wellston
+  lat: '35.6860'
+  long: "-97.0615"
+  nearby_rate_centers:
+  - name: WELLSTON
+    distance_km: 0.6
+  - name: LUTHER
+    distance_km: 12.02
+  - name: CARNEY
+    distance_km: 14.41
+- country: US
+  region: OK
+  name: Welty
+  lat: '35.6257'
+  long: "-96.4195"
+  nearby_rate_centers:
+  - name: BOLEY
+    distance_km: 15.32
+  - name: CASTLE
+    distance_km: 17.14
+  - name: PADEN
+    distance_km: 18.78
+- country: US
+  region: OK
+  name: West Peavine
+  lat: '35.9133'
+  long: "-94.6481"
+  nearby_rate_centers:
+  - name: BARON
+    distance_km: 4.29
+  - name: STILWELL
+    distance_km: 11.16
+  - name: WESTVILLE
+    distance_km: 11.43
+- country: US
+  region: OK
+  name: West Siloam Springs
+  lat: '36.1759'
+  long: "-94.5978"
+  nearby_rate_centers:
+  - name: WATTS
+    distance_km: 8.12
+  - name: COLCORD
+    distance_km: 13.08
+  - name: FLINT
+    distance_km: 14.19
+- country: US
+  region: OK
+  name: Westport
+  lat: '36.1942'
+  long: "-96.3362"
+  nearby_rate_centers:
+  - name: KEYSTONE
+    distance_km: 3.62
+  - name: MANNFORD
+    distance_km: 8.19
+  - name: PRUE
+    distance_km: 9.94
+- country: US
+  region: OK
+  name: Westville
+  lat: '35.9910'
+  long: "-94.5751"
+  nearby_rate_centers:
+  - name: WESTVILLE
+    distance_km: 0.81
+  - name: BARON
+    distance_km: 7.86
+  - name: WATTS
+    distance_km: 12.73
+- country: US
+  region: OK
+  name: Wetumka
+  lat: '35.2412'
+  long: "-96.2385"
+  nearby_rate_centers:
+  - name: WETUMKA
+    distance_km: 2.51
+  - name: WELEETKA
+    distance_km: 12.74
+  - name: DUSTIN
+    distance_km: 19.14
+- country: US
+  region: OK
+  name: Wewoka
+  lat: '35.1441'
+  long: "-96.4968"
+  nearby_rate_centers:
+  - name: WEWOKA
+    distance_km: 1.92
+  - name: HOLDENVL
+    distance_km: 10.59
+  - name: BOWLEGS
+    distance_km: 15.66
+- country: US
+  region: OK
+  name: Whippoorwill
+  lat: '36.9123'
+  long: "-96.1288"
+  nearby_rate_centers:
+  - name: SOUTHELGIN
+    distance_km: 15.15
+  - name: COPAN
+    distance_km: 17.98
+  - name: DEWEY
+    distance_km: 21.23
+- country: US
+  region: OK
+  name: White Eagle
+  lat: '36.6268'
+  long: "-97.0812"
+  nearby_rate_centers:
+  - name: MARLAND
+    distance_km: 9.1
+  - name: PONCA CITY
+    distance_km: 9.28
+  - name: RED ROCK
+    distance_km: 20.16
+- country: US
+  region: OK
+  name: White Oak
+  lat: '36.6098'
+  long: "-95.2762"
+  nearby_rate_centers:
+  - name: BIG CABIN
+    distance_km: 9.35
+  - name: VINITA
+    distance_km: 10.96
+  - name: CHELSEA
+    distance_km: 16.31
+- country: US
+  region: OK
+  name: White Water
+  lat: '36.5017'
+  long: "-94.7289"
+  nearby_rate_centers:
+  - name: SOWESTCITY
+    distance_km: 10.19
+  - name: JAY
+    distance_km: 10.4
+  - name: GROVE
+    distance_km: 10.97
+- country: US
+  region: OK
+  name: Whitefield
+  lat: '35.2545'
+  long: "-95.2391"
+  nearby_rate_centers:
+  - name: STIGLER
+    distance_km: 10.51
+  - name: PORUM
+    distance_km: 10.59
+  - name: ENTERPRISE
+    distance_km: 12.98
+- country: US
+  region: OK
+  name: Whitehorn Cove
+  lat: '35.9936'
+  long: "-95.2868"
+  nearby_rate_centers:
+  - name: SNUGHARBOR
+    distance_km: 0.63
+  - name: WAGONER
+    distance_km: 7.99
+  - name: CEDARCREST
+    distance_km: 14.37
+- country: US
+  region: OK
+  name: Whitesboro
+  lat: '34.6963'
+  long: "-94.8789"
+  nearby_rate_centers:
+  - name: MUSE
+    distance_km: 10.43
+  - name: TALIHINA
+    distance_km: 16.24
+  - name: ALBION
+    distance_km: 20.32
+- country: US
+  region: OK
+  name: Wickliffe
+  lat: '36.3120'
+  long: "-95.1074"
+  nearby_rate_centers:
+  - name: SALINA
+    distance_km: 3.89
+  - name: SPAVINAW
+    distance_km: 10.93
+  - name: STRANG
+    distance_km: 11.89
+- country: US
+  region: OK
+  name: Wilburton
+  lat: '34.9182'
+  long: "-95.3049"
+  nearby_rate_centers:
+  - name: WILBURTON
+    distance_km: 0.73
+  - name: BUFFALOVLY
+    distance_km: 19.09
+  - name: RED OAK
+    distance_km: 20.68
+- country: US
+  region: OK
+  name: Willow
+  lat: '35.0515'
+  long: "-99.5098"
+  nearby_rate_centers:
+  - name: WILLOW
+    distance_km: 0.39
+  - name: GRANITE
+    distance_km: 15.57
+  - name: CARTER
+    distance_km: 18.47
+- country: US
+  region: OK
+  name: Wilson
+  lat: '34.1684'
+  long: "-97.4260"
+  nearby_rate_centers:
+  - name: WILSON
+    distance_km: 1.04
+  - name: HEALDTON
+    distance_km: 9.46
+  - name: RINGLING
+    distance_km: 15.09
+- country: US
+  region: OK
+  name: Winchester
+  lat: '35.7906'
+  long: "-95.9981"
+  nearby_rate_centers:
+  - name: BEGGS
+    distance_km: 8.94
+  - name: MOUNDS
+    distance_km: 11.34
+  - name: KIEFER
+    distance_km: 18.02
+- country: US
+  region: OK
+  name: Wister
+  lat: '34.9696'
+  long: "-94.7212"
+  nearby_rate_centers:
+  - name: WISTER
+    distance_km: 0.36
+  - name: MONROEHOWE
+    distance_km: 8.12
+  - name: POTEAU
+    distance_km: 13.17
+- country: US
+  region: OK
+  name: Woodall
+  lat: '35.8246'
+  long: "-95.0823"
+  nearby_rate_centers:
+  - name: TAHLEQUAH
+    distance_km: 14.48
+  - name: FORTGIBSON
+    distance_km: 15.51
+  - name: BRAGGS
+    distance_km: 20.63
+- country: US
+  region: OK
+  name: Woodlawn Park
+  lat: '35.5096'
+  long: "-97.6499"
+  nearby_rate_centers:
+  - name: BETHANY
+    distance_km: 2.33
+  - name: YUKON
+    distance_km: 9.21
+  - name: BRITTON
+    distance_km: 11.64
+- country: US
+  region: OK
+  name: Woodward
+  lat: '36.4247'
+  long: "-99.4058"
+  nearby_rate_centers:
+  - name: WOODWARD
+    distance_km: 2.16
+  - name: SHARON
+    distance_km: 17.02
+  - name: MOORELAND
+    distance_km: 17.81
+- country: US
+  region: OK
+  name: Wright City
+  lat: '34.0649'
+  long: "-95.0074"
+  nearby_rate_centers:
+  - name: WRIGHTCITY
+    distance_km: 1.87
+  - name: MILLERTON
+    distance_km: 8.33
+  - name: VALLIANT
+    distance_km: 10.51
+- country: US
+  region: OK
+  name: Wyandotte
+  lat: '36.8019'
+  long: "-94.7244"
+  nearby_rate_centers:
+  - name: WYANDOTTE
+    distance_km: 1.42
+  - name: WESTSENECA
+    distance_km: 11.07
+  - name: FAIRLAND
+    distance_km: 12.43
+- country: US
+  region: OK
+  name: Wynnewood
+  lat: '34.6437'
+  long: "-97.1622"
+  nearby_rate_centers:
+  - name: WYNNEWOOD
+    distance_km: 0.62
+  - name: PAULS VLY
+    distance_km: 11.79
+  - name: DAVIS
+    distance_km: 15.67
+- country: US
+  region: OK
+  name: Wynona
+  lat: '36.5458'
+  long: "-96.3264"
+  nearby_rate_centers:
+  - name: WYNONA
+    distance_km: 0.67
+  - name: PAWHUSKA
+    distance_km: 12.72
+  - name: BARNSDALL
+    distance_km: 14.54
+- country: US
+  region: OK
+  name: Yale
+  lat: '36.1151'
+  long: "-96.7011"
+  nearby_rate_centers:
+  - name: YALE
+    distance_km: 0.12
+  - name: OILTON
+    distance_km: 10.73
+  - name: MARAMEC
+    distance_km: 13.98
+- country: US
+  region: OK
+  name: Yeager
+  lat: '35.1568'
+  long: "-96.3401"
+  nearby_rate_centers:
+  - name: HOLDENVL
+    distance_km: 9.83
+  - name: WETUMKA
+    distance_km: 13.15
+  - name: WEWOKA
+    distance_km: 14.01
+- country: US
+  region: OK
+  name: Yukon
+  lat: '35.5201'
+  long: "-97.7639"
+  nearby_rate_centers:
+  - name: YUKON
+    distance_km: 1.8
+  - name: BETHANY
+    distance_km: 11.79
+  - name: PIEDMONT
+    distance_km: 13.98
+- country: US
+  region: OK
+  name: Zeb
+  lat: '35.8066'
+  long: "-95.0437"
+  nearby_rate_centers:
+  - name: TAHLEQUAH
+    distance_km: 13.99
+  - name: FORTGIBSON
+    distance_km: 18.75
+  - name: BRAGGS
+    distance_km: 21.07
+- country: US
+  region: OK
+  name: Zena
+  lat: '36.5084'
+  long: "-94.8481"
+  nearby_rate_centers:
+  - name: JAY
+    distance_km: 10.08
+  - name: GROVE
+    distance_km: 11.71
+  - name: DISNEY
+    distance_km: 12.28
+- country: US
+  region: OK
+  name: Zion
+  lat: '35.7892'
+  long: "-94.6377"
+  nearby_rate_centers:
+  - name: STILWELL
+    distance_km: 3.17
+  - name: BARON
+    distance_km: 15.31
+  - name: WESTVILLE
+    distance_km: 23.43

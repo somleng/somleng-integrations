@@ -1,0 +1,5942 @@
+---
+cities:
+- country: US
+  region: MT
+  name: Absarokee
+  lat: '45.5242'
+  long: "-109.4473"
+  nearby_rate_centers:
+  - name: ABSAROKEE
+    distance_km: 1.07
+  - name: COLUMBUS
+    distance_km: 19.81
+  - name: REEDPOINT
+    distance_km: 22.04
+- country: US
+  region: MT
+  name: Acton
+  lat: '45.9290'
+  long: "-108.6788"
+  nearby_rate_centers:
+  - name: MOLT
+    distance_km: 20.74
+  - name: BILLINGS
+    distance_km: 21.38
+  - name: BROADVIEW
+    distance_km: 24.67
+- country: US
+  region: MT
+  name: Alberton
+  lat: '47.0037'
+  long: "-114.4817"
+  nearby_rate_centers:
+  - name: ALBERTON
+    distance_km: 0.29
+  - name: S ALBERTON
+    distance_km: 1.34
+  - name: FRENCHTOWN
+    distance_km: 19.69
+- country: US
+  region: MT
+  name: Alder
+  lat: '45.3216'
+  long: "-112.1093"
+  nearby_rate_centers:
+  - name: VIRGINIACY
+    distance_km: 13.96
+  - name: SHERIDAN
+    distance_km: 15.57
+  - name: TWINBRIDGS
+    distance_km: 29.45
+- country: US
+  region: MT
+  name: Alzada
+  lat: '45.0206'
+  long: "-104.4129"
+  nearby_rate_centers:
+  - name: ALZADA
+    distance_km: 1.04
+  - name: RIDGE
+    distance_km: 40.13
+  - name: WCAMPCROOK
+    distance_km: 65.92
+- country: US
+  region: MT
+  name: Amsterdam
+  lat: '45.7462'
+  long: "-111.3301"
+  nearby_rate_centers:
+  - name: MANHATTAN
+    distance_km: 12.28
+  - name: BELGRADE
+    distance_km: 12.36
+  - name: GALATNGTWY
+    distance_km: 19.94
+- country: US
+  region: MT
+  name: Anaconda
+  lat: '46.0608'
+  long: "-113.0678"
+  nearby_rate_centers:
+  - name: ANACONDA
+    distance_km: 11.48
+  - name: WARM SPG
+    distance_km: 24.76
+  - name: WISE RIVER
+    distance_km: 31.35
+- country: US
+  region: MT
+  name: Antelope
+  lat: '48.6897'
+  long: "-104.4540"
+  nearby_rate_centers:
+  - name: RESERVE
+    distance_km: 9.79
+  - name: PLENTYWOOD
+    distance_km: 11.72
+  - name: MEDICINELK
+    distance_km: 21.42
+- country: US
+  region: MT
+  name: Argenta
+  lat: '45.2788'
+  long: "-112.8607"
+  nearby_rate_centers:
+  - name: DILLON
+    distance_km: 19.07
+  - name: GRANT
+    distance_km: 40.04
+  - name: MELROSE
+    distance_km: 41.75
+- country: US
+  region: MT
+  name: Arlee
+  lat: '47.1678'
+  long: "-114.0838"
+  nearby_rate_centers:
+  - name: ARLEE
+    distance_km: 0.16
+  - name: STIGNATIUS
+    distance_km: 17.58
+  - name: FRENCHTOWN
+    distance_km: 19.81
+- country: US
+  region: MT
+  name: Ashland
+  lat: '45.5977'
+  long: "-106.2975"
+  nearby_rate_centers:
+  - name: ASHLAND
+    distance_km: 3.86
+  - name: LAME DEER
+    distance_km: 27.68
+  - name: BIRNEY
+    distance_km: 35.31
+- country: US
+  region: MT
+  name: Augusta
+  lat: '47.4893'
+  long: "-112.3923"
+  nearby_rate_centers:
+  - name: AUGUSTA
+    distance_km: 1.26
+  - name: FAIRFIELD
+    distance_km: 33.7
+  - name: CHOTEAU
+    distance_km: 38.77
+- country: US
+  region: MT
+  name: Avon
+  lat: '46.6264'
+  long: "-112.5820"
+  nearby_rate_centers:
+  - name: AVON
+    distance_km: 3.38
+  - name: DEER LODGE
+    distance_km: 28.43
+  - name: CANYON CRK
+    distance_km: 30.6
+- country: US
+  region: MT
+  name: Ayers Ranch Colony
+  lat: '47.0510'
+  long: "-108.9450"
+  nearby_rate_centers:
+  - name: GRASSRANGE
+    distance_km: 11.0
+  - name: ROY
+    distance_km: 31.48
+  - name: LEWISTOWN
+    distance_km: 36.43
+- country: US
+  region: MT
+  name: Azure
+  lat: '48.3050'
+  long: "-109.8073"
+  nearby_rate_centers:
+  - name: SOUTHHAVRE
+    distance_km: 15.04
+  - name: BOX ELDER
+    distance_km: 15.75
+  - name: BIG SANDY
+    distance_km: 26.55
+- country: US
+  region: MT
+  name: Babb
+  lat: '48.8777'
+  long: "-113.4408"
+  nearby_rate_centers:
+  - name: ST MARY
+    distance_km: 15.13
+  - name: BROWNING
+    distance_km: 46.76
+  - name: EGLACIERPK
+    distance_km: 50.55
+- country: US
+  region: MT
+  name: Bainville
+  lat: '48.1470'
+  long: "-104.2264"
+  nearby_rate_centers:
+  - name: BAINVILLE
+    distance_km: 1.4
+  - name: CULBERTSON
+    distance_km: 21.92
+  - name: FROIDRURAL
+    distance_km: 26.98
+- country: US
+  region: MT
+  name: Baker
+  lat: '46.3640'
+  long: "-104.2741"
+  nearby_rate_centers:
+  - name: BAKER
+    distance_km: 1.23
+  - name: PLEVNA
+    distance_km: 19.0
+  - name: CARLYLE
+    distance_km: 30.96
+- country: US
+  region: MT
+  name: Ballantine
+  lat: '45.9511'
+  long: "-108.1428"
+  nearby_rate_centers:
+  - name: WORDEN
+    distance_km: 1.49
+  - name: HUNTLEY
+    distance_km: 13.48
+  - name: POMPESPLLR
+    distance_km: 15.04
+- country: US
+  region: MT
+  name: Basin
+  lat: '46.2834'
+  long: "-112.2871"
+  nearby_rate_centers:
+  - name: BOULDER
+    distance_km: 14.07
+  - name: BUTTE
+    distance_km: 36.3
+  - name: DEER LODGE
+    distance_km: 36.37
+- country: US
+  region: MT
+  name: Batavia
+  lat: '48.1778'
+  long: "-114.4107"
+  nearby_rate_centers:
+  - name: KALISPELL
+    distance_km: 7.39
+  - name: SOMERS
+    distance_km: 17.25
+  - name: MARION
+    distance_km: 20.86
+- country: US
+  region: MT
+  name: Bear Dance
+  lat: '47.9020'
+  long: "-114.0273"
+  nearby_rate_centers:
+  - name: YELLOW BAY
+    distance_km: 1.29
+  - name: SWAN LAKE
+    distance_km: 14.89
+  - name: BIGFORK
+    distance_km: 17.96
+- country: US
+  region: MT
+  name: Bearcreek
+  lat: '45.1606'
+  long: "-109.1575"
+  nearby_rate_centers:
+  - name: RED LODGE
+    distance_km: 7.86
+  - name: BELFRY
+    distance_km: 12.03
+  - name: BRIDGER
+    distance_km: 23.79
+- country: US
+  region: MT
+  name: Beaver Creek
+  lat: '48.5437'
+  long: "-109.8068"
+  nearby_rate_centers:
+  - name: HAVRE
+    distance_km: 10.44
+  - name: SOUTHHAVRE
+    distance_km: 14.78
+  - name: KREMLIN
+    distance_km: 20.51
+- country: US
+  region: MT
+  name: Belfry
+  lat: '45.1375'
+  long: "-108.9985"
+  nearby_rate_centers:
+  - name: BELFRY
+    distance_km: 0.71
+  - name: SILVERTIP
+    distance_km: 15.08
+  - name: BRIDGER
+    distance_km: 18.13
+- country: US
+  region: MT
+  name: Belgrade
+  lat: '45.7789'
+  long: "-111.1736"
+  nearby_rate_centers:
+  - name: BELGRADE
+    distance_km: 0.38
+  - name: MANHATTAN
+    distance_km: 15.11
+  - name: BOZEMAN
+    distance_km: 15.51
+- country: US
+  region: MT
+  name: Belknap
+  lat: '47.6473'
+  long: "-115.4222"
+  nearby_rate_centers:
+  - name: THOMPSNFLS
+    distance_km: 8.22
+  - name: HAUGAN
+    distance_km: 29.39
+  - name: PLAINS
+    distance_km: 45.4
+- country: US
+  region: MT
+  name: Belt
+  lat: '47.3873'
+  long: "-110.9276"
+  nearby_rate_centers:
+  - name: BELT
+    distance_km: 0.63
+  - name: STOCKETT
+    distance_km: 18.2
+  - name: RAYNESFORD
+    distance_km: 19.12
+- country: US
+  region: MT
+  name: Biddle
+  lat: '45.1051'
+  long: "-105.3116"
+  nearby_rate_centers:
+  - name: SO BROADUS
+    distance_km: 26.61
+  - name: BROADUS
+    distance_km: 37.83
+  - name: NO BROADUS
+    distance_km: 68.08
+- country: US
+  region: MT
+  name: Big Arm
+  lat: '47.7936'
+  long: "-114.2701"
+  nearby_rate_centers:
+  - name: ELMO
+    distance_km: 7.33
+  - name: POLSON
+    distance_km: 13.88
+  - name: FINLEY PT
+    distance_km: 19.17
+- country: US
+  region: MT
+  name: Big Sandy
+  lat: '48.1785'
+  long: "-110.1134"
+  nearby_rate_centers:
+  - name: BIG SANDY
+    distance_km: 0.44
+  - name: BOX ELDER
+    distance_km: 16.95
+  - name: HOPPILLIAD
+    distance_km: 32.28
+- country: US
+  region: MT
+  name: Big Sky
+  lat: '45.2592'
+  long: "-111.3426"
+  nearby_rate_centers:
+  - name: BIG SKY
+    distance_km: 4.09
+  - name: ENNIS
+    distance_km: 31.62
+  - name: GALATNGTWY
+    distance_km: 38.62
+- country: US
+  region: MT
+  name: Big Sky Colony
+  lat: '48.8391'
+  long: "-112.7685"
+  nearby_rate_centers:
+  - name: NOCUT BANK
+    distance_km: 31.94
+  - name: BROWNING
+    distance_km: 34.94
+  - name: CUT BANK
+    distance_km: 39.05
+- country: US
+  region: MT
+  name: Big Stone Colony
+  lat: '47.4001'
+  long: "-111.2092"
+  nearby_rate_centers:
+  - name: STOCKETT
+    distance_km: 5.74
+  - name: GREATFALLS
+    distance_km: 13.5
+  - name: BELT
+    distance_km: 21.64
+- country: US
+  region: MT
+  name: Big Timber
+  lat: '45.8346'
+  long: "-109.9487"
+  nearby_rate_centers:
+  - name: BIG TIMBER
+    distance_km: 0.09
+  - name: MELVILLE
+    distance_km: 29.65
+  - name: REEDPOINT
+    distance_km: 34.28
+- country: US
+  region: MT
+  name: Bigfork
+  lat: '48.0852'
+  long: "-114.0551"
+  nearby_rate_centers:
+  - name: BIGFORK
+    distance_km: 3.44
+  - name: SOMERS
+    distance_km: 12.85
+  - name: LAKESIDE
+    distance_km: 14.31
+- country: US
+  region: MT
+  name: Billings
+  lat: '45.7891'
+  long: "-108.5526"
+  nearby_rate_centers:
+  - name: BILLINGS
+    distance_km: 3.63
+  - name: LAUREL
+    distance_km: 21.38
+  - name: HUNTLEY
+    distance_km: 23.11
+- country: US
+  region: MT
+  name: Birch Creek Colony
+  lat: '48.2465'
+  long: "-112.4698"
+  nearby_rate_centers:
+  - name: DUPUYER
+    distance_km: 6.34
+  - name: VALIER
+    distance_km: 17.77
+  - name: PENDROY
+    distance_km: 22.55
+- country: US
+  region: MT
+  name: Birney
+  lat: '45.4155'
+  long: "-106.4934"
+  nearby_rate_centers:
+  - name: BIRNEY
+    distance_km: 11.14
+  - name: LAME DEER
+    distance_km: 25.61
+  - name: ASHLAND
+    distance_km: 27.21
+- country: US
+  region: MT
+  name: Black Eagle
+  lat: '47.5270'
+  long: "-111.2670"
+  nearby_rate_centers:
+  - name: GREATFALLS
+    distance_km: 2.81
+  - name: STOCKETT
+    distance_km: 20.3
+  - name: BELT
+    distance_km: 30.45
+- country: US
+  region: MT
+  name: Blackfoot
+  lat: '48.5771'
+  long: "-112.8733"
+  nearby_rate_centers:
+  - name: BROWNING
+    distance_km: 10.06
+  - name: EGLACIERPK
+    distance_km: 28.61
+  - name: CUT BANK
+    distance_km: 39.97
+- country: US
+  region: MT
+  name: Bloomfield
+  lat: '47.4123'
+  long: "-104.9190"
+  nearby_rate_centers:
+  - name: BLOOMFIELD
+    distance_km: 1.36
+  - name: LINDSAY
+    distance_km: 27.79
+  - name: RICHEY
+    distance_km: 28.12
+- country: US
+  region: MT
+  name: Boneau
+  lat: '48.2926'
+  long: "-109.8632"
+  nearby_rate_centers:
+  - name: BOX ELDER
+    distance_km: 11.88
+  - name: SOUTHHAVRE
+    distance_km: 18.4
+  - name: BIG SANDY
+    distance_km: 22.35
+- country: US
+  region: MT
+  name: Bonner-West Riverside
+  lat: '46.8767'
+  long: "-113.8869"
+  nearby_rate_centers:
+  - name: MISSOULA
+    distance_km: 8.8
+  - name: CLINTON
+    distance_km: 17.76
+  - name: POTOMAC
+    distance_km: 23.62
+- country: US
+  region: MT
+  name: Boulder
+  lat: '46.2359'
+  long: "-112.1198"
+  nearby_rate_centers:
+  - name: BOULDER
+    distance_km: 0.58
+  - name: BUTTE
+    distance_km: 40.35
+  - name: WHITEHALL
+    distance_km: 41.18
+- country: US
+  region: MT
+  name: Box Elder
+  lat: '48.3230'
+  long: "-110.0177"
+  nearby_rate_centers:
+  - name: BOX ELDER
+    distance_km: 0.63
+  - name: BIG SANDY
+    distance_km: 17.7
+  - name: SOUTHHAVRE
+    distance_km: 25.1
+- country: US
+  region: MT
+  name: Boyd
+  lat: '45.4540'
+  long: "-109.0697"
+  nearby_rate_centers:
+  - name: JOLIET
+    distance_km: 8.54
+  - name: FROMBERG
+    distance_km: 14.12
+  - name: BRIDGER
+    distance_km: 21.9
+- country: US
+  region: MT
+  name: Bozeman
+  lat: '45.6833'
+  long: "-111.0558"
+  nearby_rate_centers:
+  - name: BOZEMAN
+    distance_km: 1.52
+  - name: BELGRADE
+    distance_km: 13.96
+  - name: GALATNGTWY
+    distance_km: 15.13
+- country: US
+  region: MT
+  name: Brady
+  lat: '48.0279'
+  long: "-111.8441"
+  nearby_rate_centers:
+  - name: BRADY
+    distance_km: 0.65
+  - name: CONRAD
+    distance_km: 17.03
+  - name: DUTTON
+    distance_km: 21.96
+- country: US
+  region: MT
+  name: Brandon
+  lat: '45.4660'
+  long: "-112.1339"
+  nearby_rate_centers:
+  - name: SHERIDAN
+    distance_km: 4.7
+  - name: TWINBRIDGS
+    distance_km: 16.9
+  - name: VIRGINIACY
+    distance_km: 24.88
+- country: US
+  region: MT
+  name: Bridger
+  lat: '45.2946'
+  long: "-108.9167"
+  nearby_rate_centers:
+  - name: BRIDGER
+    distance_km: 0.57
+  - name: FROMBERG
+    distance_km: 10.5
+  - name: BELFRY
+    distance_km: 18.6
+- country: US
+  region: MT
+  name: Broadus
+  lat: '45.4429'
+  long: "-105.4083"
+  nearby_rate_centers:
+  - name: BROADUS
+    distance_km: 1.23
+  - name: SO BROADUS
+    distance_km: 11.86
+  - name: NO BROADUS
+    distance_km: 30.13
+- country: US
+  region: MT
+  name: Broadview
+  lat: '46.0988'
+  long: "-108.8789"
+  nearby_rate_centers:
+  - name: BROADVIEW
+    distance_km: 0.37
+  - name: LAVINA
+    distance_km: 22.81
+  - name: MOLT
+    distance_km: 26.22
+- country: US
+  region: MT
+  name: Brockton
+  lat: '48.1525'
+  long: "-104.9066"
+  nearby_rate_centers:
+  - name: BROCKTON
+    distance_km: 0.89
+  - name: NO POPLAR
+    distance_km: 22.02
+  - name: POPLAR
+    distance_km: 22.22
+- country: US
+  region: MT
+  name: Brockway
+  lat: '47.2992'
+  long: "-105.7645"
+  nearby_rate_centers:
+  - name: CIRCLE
+    distance_km: 20.14
+  - name: LINDSAY
+    distance_km: 46.38
+  - name: ROCK SPG
+    distance_km: 64.33
+- country: US
+  region: MT
+  name: Brooks
+  lat: '47.2051'
+  long: "-109.4212"
+  nearby_rate_centers:
+  - name: LEWISTOWN
+    distance_km: 15.43
+  - name: MOORE
+    distance_km: 32.94
+  - name: ROY
+    distance_km: 37.7
+- country: US
+  region: MT
+  name: Browning
+  lat: '48.5564'
+  long: "-113.0151"
+  nearby_rate_centers:
+  - name: BROWNING
+    distance_km: 1.37
+  - name: EGLACIERPK
+    distance_km: 18.68
+  - name: ST MARY
+    distance_km: 36.57
+- country: US
+  region: MT
+  name: Bull Lake
+  lat: '48.2379'
+  long: "-115.8474"
+  nearby_rate_centers:
+  - name: TROY
+    distance_km: 24.77
+  - name: LIBBY
+    distance_km: 27.31
+  - name: NOXON
+    distance_km: 28.07
+- country: US
+  region: MT
+  name: Busby
+  lat: '45.5281'
+  long: "-106.9752"
+  nearby_rate_centers:
+  - name: BUSBY
+    distance_km: 1.6
+  - name: LAME DEER
+    distance_km: 27.01
+  - name: LODGEGRASS
+    distance_km: 38.53
+- country: US
+  region: MT
+  name: Butte
+  lat: '45.9020'
+  long: "-112.6571"
+  nearby_rate_centers:
+  - name: BUTTE
+    distance_km: 15.31
+  - name: DIVIDE
+    distance_km: 18.38
+  - name: WISE RIVER
+    distance_km: 25.61
+- country: US
+  region: MT
+  name: Bynum
+  lat: '47.9682'
+  long: "-112.3165"
+  nearby_rate_centers:
+  - name: PENDROY
+    distance_km: 12.19
+  - name: CHOTEAU
+    distance_km: 20.24
+  - name: DUPUYER
+    distance_km: 28.42
+- country: US
+  region: MT
+  name: Camas
+  lat: '47.6179'
+  long: "-114.6561"
+  nearby_rate_centers:
+  - name: HOTSPRINGS
+    distance_km: 1.09
+  - name: PLAINS
+    distance_km: 24.72
+  - name: ELMO
+    distance_km: 33.57
+- country: US
+  region: MT
+  name: Camp Three
+  lat: '46.4534'
+  long: "-108.5741"
+  nearby_rate_centers:
+  - name: ROUNDUP
+    distance_km: 2.53
+  - name: LAVINA
+    distance_km: 33.11
+  - name: MUSSELSHLL
+    distance_km: 38.1
+- country: US
+  region: MT
+  name: Camrose Colony
+  lat: '48.3116'
+  long: "-111.6118"
+  nearby_rate_centers:
+  - name: DEVON
+    distance_km: 21.01
+  - name: EASTCONRAD
+    distance_km: 22.6
+  - name: SHELBY
+    distance_km: 28.48
+- country: US
+  region: MT
+  name: Canyon Creek
+  lat: '46.8053'
+  long: "-112.2544"
+  nearby_rate_centers:
+  - name: CANYON CRK
+    distance_km: 1.4
+  - name: WOLF CREEK
+    distance_km: 26.9
+  - name: HELENA
+    distance_km: 28.7
+- country: US
+  region: MT
+  name: Cardwell
+  lat: '45.8621'
+  long: "-111.9555"
+  nearby_rate_centers:
+  - name: WHITEHALL
+    distance_km: 10.36
+  - name: HARRISON
+    distance_km: 22.53
+  - name: THREEFORKS
+    distance_km: 31.39
+- country: US
+  region: MT
+  name: Carlton
+  lat: '46.6796'
+  long: "-114.0718"
+  nearby_rate_centers:
+  - name: STEVENSVL
+    distance_km: 19.19
+  - name: MISSOULA
+    distance_km: 21.65
+  - name: CLINTON
+    distance_km: 29.76
+- country: US
+  region: MT
+  name: Carter
+  lat: '47.7812'
+  long: "-110.9400"
+  nearby_rate_centers:
+  - name: CARTER
+    distance_km: 1.23
+  - name: FORTBENTON
+    distance_km: 21.07
+  - name: HIGHWOOD
+    distance_km: 24.68
+- country: US
+  region: MT
+  name: Cascade
+  lat: '47.2769'
+  long: "-111.7026"
+  nearby_rate_centers:
+  - name: CASCADE
+    distance_km: 0.19
+  - name: FORT SHAW
+    distance_km: 27.2
+  - name: GREATFALLS
+    distance_km: 40.21
+- country: US
+  region: MT
+  name: Cascade Colony
+  lat: '47.4410'
+  long: "-111.8178"
+  nearby_rate_centers:
+  - name: FORT SHAW
+    distance_km: 7.56
+  - name: CASCADE
+    distance_km: 20.31
+  - name: FAIRFIELD
+    distance_km: 23.27
+- country: US
+  region: MT
+  name: Centerville
+  lat: '47.3844'
+  long: "-111.1432"
+  nearby_rate_centers:
+  - name: STOCKETT
+    distance_km: 3.39
+  - name: BELT
+    distance_km: 16.59
+  - name: GREATFALLS
+    distance_km: 17.71
+- country: US
+  region: MT
+  name: Charlo
+  lat: '47.4427'
+  long: "-114.1716"
+  nearby_rate_centers:
+  - name: CHARLO
+    distance_km: 0.17
+  - name: RONAN
+    distance_km: 11.01
+  - name: STIGNATIUS
+    distance_km: 14.39
+- country: US
+  region: MT
+  name: Charlos Heights
+  lat: '46.1337'
+  long: "-114.1811"
+  nearby_rate_centers:
+  - name: HAMILTON
+    distance_km: 12.08
+  - name: DARBY
+    distance_km: 12.1
+  - name: VICTOR
+    distance_km: 31.61
+- country: US
+  region: MT
+  name: Chester
+  lat: '48.5113'
+  long: "-110.9663"
+  nearby_rate_centers:
+  - name: CHESTER
+    distance_km: 0.48
+  - name: JOPLIN
+    distance_km: 15.2
+  - name: SO CHESTER
+    distance_km: 28.79
+- country: US
+  region: MT
+  name: Chinook
+  lat: '48.5902'
+  long: "-109.2319"
+  nearby_rate_centers:
+  - name: CHINOOK
+    distance_km: 0.6
+  - name: HAVRE
+    distance_km: 32.21
+  - name: HARLEM
+    distance_km: 33.5
+- country: US
+  region: MT
+  name: Choteau
+  lat: '47.8137'
+  long: "-112.1794"
+  nearby_rate_centers:
+  - name: CHOTEAU
+    distance_km: 0.7
+  - name: FAIRFIELD
+    distance_km: 26.25
+  - name: PENDROY
+    distance_km: 30.71
+- country: US
+  region: MT
+  name: Churchill
+  lat: '45.7500'
+  long: "-111.3102"
+  nearby_rate_centers:
+  - name: BELGRADE
+    distance_km: 10.76
+  - name: MANHATTAN
+    distance_km: 11.99
+  - name: GALATNGTWY
+    distance_km: 19.58
+- country: US
+  region: MT
+  name: Circle
+  lat: '47.4177'
+  long: "-105.5870"
+  nearby_rate_centers:
+  - name: CIRCLE
+    distance_km: 1.37
+  - name: LINDSAY
+    distance_km: 38.76
+  - name: RICHEY
+    distance_km: 46.01
+- country: US
+  region: MT
+  name: Clancy
+  lat: '46.4493'
+  long: "-112.0029"
+  nearby_rate_centers:
+  - name: HELENA
+    distance_km: 17.0
+  - name: BOULDER
+    distance_km: 24.81
+  - name: TOWNSEND
+    distance_km: 40.02
+- country: US
+  region: MT
+  name: Clinton
+  lat: '46.7718'
+  long: "-113.7169"
+  nearby_rate_centers:
+  - name: CLINTON
+    distance_km: 0.83
+  - name: POTOMAC
+    distance_km: 16.42
+  - name: MISSOULA
+    distance_km: 24.21
+- country: US
+  region: MT
+  name: Clyde Park
+  lat: '45.8839'
+  long: "-110.6059"
+  nearby_rate_centers:
+  - name: CLYDE PARK
+    distance_km: 1.09
+  - name: WILSALL
+    distance_km: 12.41
+  - name: LIVINGSTON
+    distance_km: 24.57
+- country: US
+  region: MT
+  name: Coffee Creek
+  lat: '47.3489'
+  long: "-110.0827"
+  nearby_rate_centers:
+  - name: DENTON
+    distance_km: 10.71
+  - name: STANFORD
+    distance_km: 24.19
+  - name: GERALDINE
+    distance_km: 31.22
+- country: US
+  region: MT
+  name: Colstrip
+  lat: '45.8943'
+  long: "-106.6280"
+  nearby_rate_centers:
+  - name: COLSTRIP
+    distance_km: 3.19
+  - name: LAME DEER
+    distance_km: 30.88
+  - name: FORSYTH
+    distance_km: 41.47
+- country: US
+  region: MT
+  name: Columbia Falls
+  lat: '48.3708'
+  long: "-114.1902"
+  nearby_rate_centers:
+  - name: COLUMBIFLS
+    distance_km: 1.16
+  - name: HUNGRYHORS
+    distance_km: 10.77
+  - name: WHITEFISH
+    distance_km: 11.82
+- country: US
+  region: MT
+  name: Columbus
+  lat: '45.6360'
+  long: "-109.2488"
+  nearby_rate_centers:
+  - name: COLUMBUS
+    distance_km: 1.0
+  - name: ABSAROKEE
+    distance_km: 20.59
+  - name: REEDPOINT
+    distance_km: 24.39
+- country: US
+  region: MT
+  name: Condon
+  lat: '47.5225'
+  long: "-113.6987"
+  nearby_rate_centers:
+  - name: CONDON
+    distance_km: 0.77
+  - name: RONAN
+    distance_km: 29.62
+  - name: PABLO
+    distance_km: 32.43
+- country: US
+  region: MT
+  name: Conner
+  lat: '45.9290'
+  long: "-114.1326"
+  nearby_rate_centers:
+  - name: DARBY
+    distance_km: 11.19
+  - name: ALTA
+    distance_km: 25.47
+  - name: HAMILTON
+    distance_km: 34.73
+- country: US
+  region: MT
+  name: Conrad
+  lat: '48.1741'
+  long: "-111.9467"
+  nearby_rate_centers:
+  - name: CONRAD
+    distance_km: 1.09
+  - name: BRADY
+    distance_km: 17.3
+  - name: VALIER
+    distance_km: 26.9
+- country: US
+  region: MT
+  name: Cooke City
+  lat: '45.0187'
+  long: "-109.9119"
+  nearby_rate_centers:
+  - name: COOKE CITY
+    distance_km: 1.69
+  - name: RED LODGE
+    distance_km: 54.86
+  - name: GARDINER
+    distance_km: 62.74
+- country: US
+  region: MT
+  name: Coram
+  lat: '48.4306'
+  long: "-114.0444"
+  nearby_rate_centers:
+  - name: HUNGRYHORS
+    distance_km: 5.03
+  - name: W GLACIER
+    distance_km: 8.58
+  - name: COLUMBIFLS
+    distance_km: 11.57
+- country: US
+  region: MT
+  name: Corvallis
+  lat: '46.3139'
+  long: "-114.1123"
+  nearby_rate_centers:
+  - name: HAMILTON
+    distance_km: 8.77
+  - name: VICTOR
+    distance_km: 11.86
+  - name: STEVENSVL
+    distance_km: 21.6
+- country: US
+  region: MT
+  name: Corwin Springs
+  lat: '45.1276'
+  long: "-110.7997"
+  nearby_rate_centers:
+  - name: GARDINER
+    distance_km: 11.7
+  - name: BIG SKY
+    distance_km: 41.57
+  - name: WYELLOWSTN
+    distance_km: 57.22
+- country: US
+  region: MT
+  name: Craig
+  lat: '47.0745'
+  long: "-111.9644"
+  nearby_rate_centers:
+  - name: WOLF CREEK
+    distance_km: 10.54
+  - name: CASCADE
+    distance_km: 30.07
+  - name: CANYON CRK
+    distance_km: 38.34
+- country: US
+  region: MT
+  name: Crane
+  lat: '47.5772'
+  long: "-104.2509"
+  nearby_rate_centers:
+  - name: WESTSIDNEY
+    distance_km: 13.15
+  - name: SAVAGE
+    distance_km: 15.82
+  - name: SIDNEY
+    distance_km: 16.47
+- country: US
+  region: MT
+  name: Crow Agency
+  lat: '45.6026'
+  long: "-107.4591"
+  nearby_rate_centers:
+  - name: HARDIN
+    distance_km: 18.22
+  - name: LODGEGRASS
+    distance_km: 33.62
+  - name: BUSBY
+    distance_km: 39.95
+- country: US
+  region: MT
+  name: Culbertson
+  lat: '48.1447'
+  long: "-104.5183"
+  nearby_rate_centers:
+  - name: CULBERTSON
+    distance_km: 0.37
+  - name: FROID
+    distance_km: 21.13
+  - name: BAINVILLE
+    distance_km: 21.78
+- country: US
+  region: MT
+  name: Custer
+  lat: '46.1292'
+  long: "-107.5554"
+  nearby_rate_centers:
+  - name: CUSTER
+    distance_km: 0.34
+  - name: HYSHAM
+    distance_km: 31.77
+  - name: POMPESPLLR
+    distance_km: 34.57
+- country: US
+  region: MT
+  name: Cut Bank
+  lat: '48.6344'
+  long: "-112.3304"
+  nearby_rate_centers:
+  - name: CUT BANK
+    distance_km: 0.46
+  - name: NOCUT BANK
+    distance_km: 11.03
+  - name: ETHRIDGE
+    distance_km: 17.23
+- country: US
+  region: MT
+  name: Cyr
+  lat: '47.0002'
+  long: "-114.5879"
+  nearby_rate_centers:
+  - name: ALBERTON
+    distance_km: 7.81
+  - name: S ALBERTON
+    distance_km: 9.4
+  - name: FRENCHTOWN
+    distance_km: 27.75
+- country: US
+  region: MT
+  name: Danvers
+  lat: '47.2283'
+  long: "-109.7130"
+  nearby_rate_centers:
+  - name: DENTON
+    distance_km: 20.31
+  - name: HOBSON
+    distance_km: 27.91
+  - name: LEWISTOWN
+    distance_km: 28.24
+- country: US
+  region: MT
+  name: Darby
+  lat: '46.0231'
+  long: "-114.1787"
+  nearby_rate_centers:
+  - name: DARBY
+    distance_km: 0.25
+  - name: HAMILTON
+    distance_km: 24.29
+  - name: ALTA
+    distance_km: 34.39
+- country: US
+  region: MT
+  name: Dayton
+  lat: '47.8643'
+  long: "-114.2765"
+  nearby_rate_centers:
+  - name: ELMO
+    distance_km: 6.05
+  - name: LAKESIDE
+    distance_km: 17.39
+  - name: YELLOW BAY
+    distance_km: 19.31
+- country: US
+  region: MT
+  name: De Borgia
+  lat: '47.3701'
+  long: "-115.3211"
+  nearby_rate_centers:
+  - name: HAUGAN
+    distance_km: 6.37
+  - name: ST REGIS
+    distance_km: 19.47
+  - name: THOMPSNFLS
+    distance_km: 25.44
+- country: US
+  region: MT
+  name: Deer Lodge
+  lat: '46.3980'
+  long: "-112.7334"
+  nearby_rate_centers:
+  - name: DEER LODGE
+    distance_km: 0.56
+  - name: AVON
+    distance_km: 24.54
+  - name: WARM SPG
+    distance_km: 25.01
+- country: US
+  region: MT
+  name: Deerfield Colony
+  lat: '47.2601'
+  long: "-109.6787"
+  nearby_rate_centers:
+  - name: DENTON
+    distance_km: 21.32
+  - name: LEWISTOWN
+    distance_km: 28.83
+  - name: MOORE
+    distance_km: 31.95
+- country: US
+  region: MT
+  name: Dell
+  lat: '44.7268'
+  long: "-112.6969"
+  nearby_rate_centers:
+  - name: LIMA
+    distance_km: 12.64
+  - name: GRANT
+    distance_km: 49.44
+  - name: DILLON
+    distance_km: 54.46
+- country: US
+  region: MT
+  name: Denton
+  lat: '47.3222'
+  long: "-109.9481"
+  nearby_rate_centers:
+  - name: DENTON
+    distance_km: 0.65
+  - name: STANFORD
+    distance_km: 27.81
+  - name: HOBSON
+    distance_km: 35.99
+- country: US
+  region: MT
+  name: Dewey
+  lat: '45.7764'
+  long: "-112.8553"
+  nearby_rate_centers:
+  - name: WISE RIVER
+    distance_km: 7.33
+  - name: DIVIDE
+    distance_km: 8.56
+  - name: MELROSE
+    distance_km: 20.75
+- country: US
+  region: MT
+  name: Dillon
+  lat: '45.2180'
+  long: "-112.6345"
+  nearby_rate_centers:
+  - name: DILLON
+    distance_km: 0.38
+  - name: TWINBRIDGS
+    distance_km: 43.22
+  - name: SHERIDAN
+    distance_km: 43.29
+- country: US
+  region: MT
+  name: Dixon
+  lat: '47.3172'
+  long: "-114.3569"
+  nearby_rate_centers:
+  - name: DIXON
+    distance_km: 3.48
+  - name: CHARLO
+    distance_km: 19.85
+  - name: STIGNATIUS
+    distance_km: 20.18
+- country: US
+  region: MT
+  name: Dodson
+  lat: '48.3953'
+  long: "-108.2472"
+  nearby_rate_centers:
+  - name: DODSON
+    distance_km: 0.83
+  - name: SOUTHMALTA
+    distance_km: 25.84
+  - name: MALTA
+    distance_km: 27.61
+- country: US
+  region: MT
+  name: Drummond
+  lat: '46.6665'
+  long: "-113.1471"
+  nearby_rate_centers:
+  - name: DRUMMOND
+    distance_km: 0.67
+  - name: PHILIPSBG
+    distance_km: 37.73
+  - name: OVANDO
+    distance_km: 38.88
+- country: US
+  region: MT
+  name: Duncan Ranch Colony
+  lat: '46.4418'
+  long: "-110.0261"
+  nearby_rate_centers:
+  - name: HARLOWTON
+    distance_km: 14.71
+  - name: MARTINSDL
+    distance_km: 22.48
+  - name: JUDITH GAP
+    distance_km: 33.27
+- country: US
+  region: MT
+  name: Dupuyer
+  lat: '48.1868'
+  long: "-112.4771"
+  nearby_rate_centers:
+  - name: DUPUYER
+    distance_km: 1.75
+  - name: PENDROY
+    distance_km: 17.81
+  - name: VALIER
+    distance_km: 21.68
+- country: US
+  region: MT
+  name: Dutton
+  lat: '47.8476'
+  long: "-111.7146"
+  nearby_rate_centers:
+  - name: DUTTON
+    distance_km: 0.32
+  - name: POWER
+    distance_km: 14.88
+  - name: BRADY
+    distance_km: 22.9
+- country: US
+  region: MT
+  name: Eagle Creek Colony
+  lat: '48.7021'
+  long: "-111.2031"
+  nearby_rate_centers:
+  - name: CHESTER
+    distance_km: 27.85
+  - name: DEVON
+    distance_km: 32.01
+  - name: JOPLIN
+    distance_km: 35.43
+- country: US
+  region: MT
+  name: East End Colony
+  lat: '48.7519'
+  long: "-109.5466"
+  nearby_rate_centers:
+  - name: NORTHHAVRE
+    distance_km: 11.13
+  - name: HAVRE
+    distance_km: 24.1
+  - name: CHINOOK
+    distance_km: 29.49
+- country: US
+  region: MT
+  name: East Glacier Park Village
+  lat: '48.4459'
+  long: "-113.2235"
+  nearby_rate_centers:
+  - name: EGLACIERPK
+    distance_km: 1.03
+  - name: BROWNING
+    distance_km: 20.82
+  - name: ST MARY
+    distance_km: 36.14
+- country: US
+  region: MT
+  name: East Helena
+  lat: '46.5850'
+  long: "-111.9158"
+  nearby_rate_centers:
+  - name: HELENA
+    distance_km: 8.42
+  - name: CANYON CRK
+    distance_km: 36.22
+  - name: BOULDER
+    distance_km: 41.29
+- country: US
+  region: MT
+  name: East Malta Colony
+  lat: '48.3488'
+  long: "-107.6081"
+  nearby_rate_centers:
+  - name: MALTA
+    distance_km: 19.93
+  - name: SACO
+    distance_km: 23.2
+  - name: SOUTHMALTA
+    distance_km: 33.97
+- country: US
+  region: MT
+  name: East Missoula
+  lat: '46.8801'
+  long: "-113.9401"
+  nearby_rate_centers:
+  - name: MISSOULA
+    distance_km: 4.88
+  - name: CLINTON
+    distance_km: 21.24
+  - name: FRENCHTOWN
+    distance_km: 26.29
+- country: US
+  region: MT
+  name: Edgar
+  lat: '45.4636'
+  long: "-108.8552"
+  nearby_rate_centers:
+  - name: JOLIET
+    distance_km: 9.14
+  - name: FROMBERG
+    distance_km: 9.49
+  - name: BRIDGER
+    distance_km: 19.9
+- country: US
+  region: MT
+  name: Ekalaka
+  lat: '45.8897'
+  long: "-104.5506"
+  nearby_rate_centers:
+  - name: EKALAKA
+    distance_km: 1.6
+  - name: WCAMPCROOK
+    distance_km: 54.73
+  - name: BAKER
+    distance_km: 58.08
+- country: US
+  region: MT
+  name: Elkhorn
+  lat: '46.2843'
+  long: "-111.9488"
+  nearby_rate_centers:
+  - name: BOULDER
+    distance_km: 13.7
+  - name: TOWNSEND
+    distance_km: 33.29
+  - name: HELENA
+    distance_km: 35.74
+- country: US
+  region: MT
+  name: Elliston
+  lat: '46.5587'
+  long: "-112.4639"
+  nearby_rate_centers:
+  - name: AVON
+    distance_km: 11.41
+  - name: DEER LODGE
+    distance_km: 27.67
+  - name: CANYON CRK
+    distance_km: 30.66
+- country: US
+  region: MT
+  name: Elmo
+  lat: '47.8290'
+  long: "-114.3484"
+  nearby_rate_centers:
+  - name: ELMO
+    distance_km: 0.79
+  - name: POLSON
+    distance_km: 20.65
+  - name: LAKESIDE
+    distance_km: 22.94
+- country: US
+  region: MT
+  name: Emigrant
+  lat: '45.3755'
+  long: "-110.7465"
+  nearby_rate_centers:
+  - name: LIVINGSTON
+    distance_km: 35.33
+  - name: GARDINER
+    distance_km: 37.0
+  - name: BOZEMAN
+    distance_km: 40.41
+- country: US
+  region: MT
+  name: Ennis
+  lat: '45.3462'
+  long: "-111.7319"
+  nearby_rate_centers:
+  - name: ENNIS
+    distance_km: 0.46
+  - name: VIRGINIACY
+    distance_km: 17.15
+  - name: BIG SKY
+    distance_km: 35.52
+- country: US
+  region: MT
+  name: Essex
+  lat: '48.2823'
+  long: "-113.6095"
+  nearby_rate_centers:
+  - name: HUNGRYHORS
+    distance_km: 34.24
+  - name: EGLACIERPK
+    distance_km: 34.84
+  - name: W GLACIER
+    distance_km: 35.82
+- country: US
+  region: MT
+  name: Eureka
+  lat: '48.8790'
+  long: "-115.0492"
+  nearby_rate_centers:
+  - name: EUREKA
+    distance_km: 0.38
+  - name: EUREKARURL
+    distance_km: 2.92
+  - name: OLNEY
+    distance_km: 50.32
+- country: US
+  region: MT
+  name: Evaro
+  lat: '47.0737'
+  long: "-114.0206"
+  nearby_rate_centers:
+  - name: ARLEE
+    distance_km: 11.36
+  - name: FRENCHTOWN
+    distance_km: 16.57
+  - name: MISSOULA
+    distance_km: 22.88
+- country: US
+  region: MT
+  name: Evergreen
+  lat: '48.2308'
+  long: "-114.2700"
+  nearby_rate_centers:
+  - name: KALISPELL
+    distance_km: 4.91
+  - name: SOMERS
+    distance_km: 16.85
+  - name: COLUMBIFLS
+    distance_km: 17.3
+- country: US
+  region: MT
+  name: Fair Haven Colony
+  lat: '47.4041'
+  long: "-111.6294"
+  nearby_rate_centers:
+  - name: CASCADE
+    distance_km: 15.14
+  - name: FORT SHAW
+    distance_km: 18.29
+  - name: GREATFALLS
+    distance_km: 27.9
+- country: US
+  region: MT
+  name: Fairfield
+  lat: '47.6151'
+  long: "-111.9813"
+  nearby_rate_centers:
+  - name: FAIRFIELD
+    distance_km: 0.37
+  - name: FORT SHAW
+    distance_km: 17.08
+  - name: POWER
+    distance_km: 24.78
+- country: US
+  region: MT
+  name: Fairview
+  lat: '47.8520'
+  long: "-104.0510"
+  nearby_rate_centers:
+  - name: FAIRVIEW
+    distance_km: 0.92
+  - name: SIDNEY
+    distance_km: 17.55
+  - name: WESTSIDNEY
+    distance_km: 29.97
+- country: US
+  region: MT
+  name: Fallon
+  lat: '46.8373'
+  long: "-105.1270"
+  nearby_rate_centers:
+  - name: FALLON
+    distance_km: 0.7
+  - name: TERRY
+    distance_km: 15.02
+  - name: W GLENDIVE
+    distance_km: 40.29
+- country: US
+  region: MT
+  name: Finley Point
+  lat: '47.7464'
+  long: "-114.0666"
+  nearby_rate_centers:
+  - name: FINLEY PT
+    distance_km: 3.42
+  - name: POLSON
+    distance_km: 9.24
+  - name: PABLO
+    distance_km: 16.82
+- country: US
+  region: MT
+  name: Fishtail
+  lat: '45.4480'
+  long: "-109.5083"
+  nearby_rate_centers:
+  - name: ABSAROKEE
+    distance_km: 8.75
+  - name: COLUMBUS
+    distance_km: 29.17
+  - name: REEDPOINT
+    distance_km: 29.32
+- country: US
+  region: MT
+  name: Flat Willow Colony
+  lat: '46.7252'
+  long: "-108.4882"
+  nearby_rate_centers:
+  - name: ROUNDUP
+    distance_km: 30.64
+  - name: WINNETT
+    distance_km: 33.05
+  - name: MUSSELSHLL
+    distance_km: 38.37
+- country: US
+  region: MT
+  name: Flaxville
+  lat: '48.8045'
+  long: "-105.1736"
+  nearby_rate_centers:
+  - name: FLAXVILLE
+    distance_km: 0.43
+  - name: FLAXVLRURL
+    distance_km: 8.02
+  - name: SCOBEY
+    distance_km: 18.31
+- country: US
+  region: MT
+  name: Florence
+  lat: '46.6345'
+  long: "-114.0813"
+  nearby_rate_centers:
+  - name: STEVENSVL
+    distance_km: 14.13
+  - name: VICTOR
+    distance_km: 24.75
+  - name: MISSOULA
+    distance_km: 26.7
+- country: US
+  region: MT
+  name: Floweree
+  lat: '47.7248'
+  long: "-111.0254"
+  nearby_rate_centers:
+  - name: CARTER
+    distance_km: 8.22
+  - name: HIGHWOOD
+    distance_km: 23.61
+  - name: FORTBENTON
+    distance_km: 29.08
+- country: US
+  region: MT
+  name: Fords Creek Colony
+  lat: '47.1310'
+  long: "-108.9169"
+  nearby_rate_centers:
+  - name: GRASSRANGE
+    distance_km: 14.6
+  - name: ROY
+    distance_km: 22.79
+  - name: LEWISTOWN
+    distance_km: 39.16
+- country: US
+  region: MT
+  name: Forest Hill Village
+  lat: '48.1208'
+  long: "-114.2618"
+  nearby_rate_centers:
+  - name: SOMERS
+    distance_km: 5.0
+  - name: KALISPELL
+    distance_km: 9.63
+  - name: LAKESIDE
+    distance_km: 12.17
+- country: US
+  region: MT
+  name: Forsyth
+  lat: '46.2669'
+  long: "-106.6749"
+  nearby_rate_centers:
+  - name: FORSYTH
+    distance_km: 1.78
+  - name: ROSEBUD
+    distance_km: 18.67
+  - name: HYSHAM
+    distance_km: 41.78
+- country: US
+  region: MT
+  name: Fort Belknap Agency
+  lat: '48.4278'
+  long: "-108.6829"
+  nearby_rate_centers:
+  - name: HARLEM
+    distance_km: 14.11
+  - name: DODSON
+    distance_km: 32.51
+  - name: CHINOOK
+    distance_km: 43.96
+- country: US
+  region: MT
+  name: Fort Benton
+  lat: '47.8291'
+  long: "-110.6557"
+  nearby_rate_centers:
+  - name: FORTBENTON
+    distance_km: 0.95
+  - name: LOMA
+    distance_km: 16.81
+  - name: CARTER
+    distance_km: 23.05
+- country: US
+  region: MT
+  name: Fort Peck
+  lat: '48.0070'
+  long: "-106.4552"
+  nearby_rate_centers:
+  - name: FORT PECK
+    distance_km: 0.67
+  - name: NASHUA
+    distance_km: 15.7
+  - name: NO NASHUA
+    distance_km: 18.68
+- country: US
+  region: MT
+  name: Fort Shaw
+  lat: '47.4969'
+  long: "-111.8194"
+  nearby_rate_centers:
+  - name: FORT SHAW
+    distance_km: 1.36
+  - name: FAIRFIELD
+    distance_km: 18.26
+  - name: CASCADE
+    distance_km: 26.08
+- country: US
+  region: MT
+  name: Fort Smith
+  lat: '45.3134'
+  long: "-107.9296"
+  nearby_rate_centers:
+  - name: FORT SMITH
+    distance_km: 1.21
+  - name: LODGEGRASS
+    distance_km: 44.75
+  - name: WYOLA
+    distance_km: 46.51
+- country: US
+  region: MT
+  name: Fortine
+  lat: '48.7723'
+  long: "-114.9008"
+  nearby_rate_centers:
+  - name: EUREKARURL
+    distance_km: 13.47
+  - name: EUREKA
+    distance_km: 16.46
+  - name: OLNEY
+    distance_km: 34.24
+- country: US
+  region: MT
+  name: Forty Mile Colony
+  lat: '45.2827'
+  long: "-107.3568"
+  nearby_rate_centers:
+  - name: LODGEGRASS
+    distance_km: 2.91
+  - name: WYOLA
+    distance_km: 17.73
+  - name: NO PARKMAN
+    distance_km: 30.65
+- country: US
+  region: MT
+  name: Four Corners
+  lat: '45.6697'
+  long: "-111.1785"
+  nearby_rate_centers:
+  - name: GALATNGTWY
+    distance_km: 8.83
+  - name: BOZEMAN
+    distance_km: 10.77
+  - name: BELGRADE
+    distance_km: 11.84
+- country: US
+  region: MT
+  name: Fox
+  lat: '45.2884'
+  long: "-109.2125"
+  nearby_rate_centers:
+  - name: RED LODGE
+    distance_km: 12.16
+  - name: BELFRY
+    distance_km: 23.07
+  - name: BRIDGER
+    distance_km: 23.26
+- country: US
+  region: MT
+  name: Fox Lake
+  lat: '47.6858'
+  long: "-104.6331"
+  nearby_rate_centers:
+  - name: LAMBERT
+    distance_km: 0.77
+  - name: WESTSIDNEY
+    distance_km: 21.09
+  - name: RICHEY
+    distance_km: 33.28
+- country: US
+  region: MT
+  name: Frazer
+  lat: '48.0532'
+  long: "-106.0480"
+  nearby_rate_centers:
+  - name: FRAZER
+    distance_km: 1.65
+  - name: NO NASHUA
+    distance_km: 22.86
+  - name: NASHUA
+    distance_km: 24.47
+- country: US
+  region: MT
+  name: Frenchtown
+  lat: '47.0287'
+  long: "-114.2461"
+  nearby_rate_centers:
+  - name: FRENCHTOWN
+    distance_km: 2.21
+  - name: S ALBERTON
+    distance_km: 16.74
+  - name: ALBERTON
+    distance_km: 18.35
+- country: US
+  region: MT
+  name: Froid
+  lat: '48.3380'
+  long: "-104.4909"
+  nearby_rate_centers:
+  - name: FROID
+    distance_km: 0.5
+  - name: FROIDRURAL
+    distance_km: 3.12
+  - name: MEDICINELK
+    distance_km: 18.07
+- country: US
+  region: MT
+  name: Fromberg
+  lat: '45.3920'
+  long: "-108.9065"
+  nearby_rate_centers:
+  - name: FROMBERG
+    distance_km: 0.7
+  - name: JOLIET
+    distance_km: 11.31
+  - name: BRIDGER
+    distance_km: 11.4
+- country: US
+  region: MT
+  name: Gallatin Gateway
+  lat: '45.5899'
+  long: "-111.1953"
+  nearby_rate_centers:
+  - name: GALATNGTWY
+    distance_km: 0.4
+  - name: BOZEMAN
+    distance_km: 15.34
+  - name: BELGRADE
+    distance_km: 20.77
+- country: US
+  region: MT
+  name: Gallatin River Ranch
+  lat: '45.9073'
+  long: "-111.3313"
+  nearby_rate_centers:
+  - name: MANHATTAN
+    distance_km: 5.64
+  - name: THREEFORKS
+    distance_km: 17.18
+  - name: BELGRADE
+    distance_km: 18.86
+- country: US
+  region: MT
+  name: Gardiner
+  lat: '45.0570'
+  long: "-110.7421"
+  nearby_rate_centers:
+  - name: GARDINER
+    distance_km: 2.95
+  - name: BIG SKY
+    distance_km: 49.04
+  - name: WYELLOWSTN
+    distance_km: 52.48
+- country: US
+  region: MT
+  name: Garrison
+  lat: '46.5259'
+  long: "-112.8205"
+  nearby_rate_centers:
+  - name: DEER LODGE
+    distance_km: 16.21
+  - name: AVON
+    distance_km: 18.64
+  - name: DRUMMOND
+    distance_km: 28.96
+- country: US
+  region: MT
+  name: Geraldine
+  lat: '47.6022'
+  long: "-110.2663"
+  nearby_rate_centers:
+  - name: GERALDINE
+    distance_km: 0.21
+  - name: FORTBENTON
+    distance_km: 38.64
+  - name: HIGHWOOD
+    distance_km: 39.33
+- country: US
+  region: MT
+  name: Geyser
+  lat: '47.2633'
+  long: "-110.4927"
+  nearby_rate_centers:
+  - name: GEYSER
+    distance_km: 0.46
+  - name: RAYNESFORD
+    distance_km: 18.42
+  - name: STANFORD
+    distance_km: 24.23
+- country: US
+  region: MT
+  name: Gibson Flats
+  lat: '47.4640'
+  long: "-111.2404"
+  nearby_rate_centers:
+  - name: GREATFALLS
+    distance_km: 6.23
+  - name: STOCKETT
+    distance_km: 13.08
+  - name: BELT
+    distance_km: 25.54
+- country: US
+  region: MT
+  name: Gildford
+  lat: '48.5738'
+  long: "-110.3072"
+  nearby_rate_centers:
+  - name: GILDFORD
+    distance_km: 1.08
+  - name: HINGHAM
+    distance_km: 8.93
+  - name: KREMLIN
+    distance_km: 16.65
+- country: US
+  region: MT
+  name: Gildford Colony
+  lat: '48.8025'
+  long: "-110.2843"
+  nearby_rate_centers:
+  - name: GILDFORD
+    distance_km: 26.18
+  - name: HINGHAM
+    distance_km: 29.06
+  - name: KREMLIN
+    distance_km: 29.21
+- country: US
+  region: MT
+  name: Gilman
+  lat: '47.5093'
+  long: "-112.3578"
+  nearby_rate_centers:
+  - name: AUGUSTA
+    distance_km: 2.34
+  - name: FAIRFIELD
+    distance_km: 30.42
+  - name: CHOTEAU
+    distance_km: 35.73
+- country: US
+  region: MT
+  name: Glacier Colony
+  lat: '48.8287'
+  long: "-112.2149"
+  nearby_rate_centers:
+  - name: NOCUT BANK
+    distance_km: 15.45
+  - name: KEVINOLMNT
+    distance_km: 21.1
+  - name: SUNBURST
+    distance_km: 23.2
+- country: US
+  region: MT
+  name: Glasgow
+  lat: '48.1990'
+  long: "-106.6321"
+  nearby_rate_centers:
+  - name: GLASGOW
+    distance_km: 0.7
+  - name: NO GLASGOW
+    distance_km: 5.51
+  - name: NASHUA
+    distance_km: 21.81
+- country: US
+  region: MT
+  name: Glen
+  lat: '45.4789'
+  long: "-112.6918"
+  nearby_rate_centers:
+  - name: MELROSE
+    distance_km: 17.17
+  - name: TWINBRIDGS
+    distance_km: 29.47
+  - name: DILLON
+    distance_km: 29.73
+- country: US
+  region: MT
+  name: Glendale Colony
+  lat: '48.8432'
+  long: "-112.5438"
+  nearby_rate_centers:
+  - name: NOCUT BANK
+    distance_km: 18.11
+  - name: CUT BANK
+    distance_km: 27.81
+  - name: ETHRIDGE
+    distance_km: 44.06
+- country: US
+  region: MT
+  name: Glendive
+  lat: '47.1101'
+  long: "-104.7070"
+  nearby_rate_centers:
+  - name: GLENDIVE
+    distance_km: 0.9
+  - name: W GLENDIVE
+    distance_km: 4.75
+  - name: LINDSAY
+    distance_km: 36.5
+- country: US
+  region: MT
+  name: Goldcreek
+  lat: '46.5838'
+  long: "-112.9284"
+  nearby_rate_centers:
+  - name: DRUMMOND
+    distance_km: 18.55
+  - name: AVON
+    distance_km: 25.06
+  - name: DEER LODGE
+    distance_km: 25.94
+- country: US
+  region: MT
+  name: Golden Valley Colony
+  lat: '46.2592'
+  long: "-109.2735"
+  nearby_rate_centers:
+  - name: RYEGATE
+    distance_km: 4.77
+  - name: LAVINA
+    distance_km: 25.77
+  - name: NO RYEGATE
+    distance_km: 29.16
+- country: US
+  region: MT
+  name: Grant
+  lat: '45.0096'
+  long: "-113.0675"
+  nearby_rate_centers:
+  - name: GRANT
+    distance_km: 9.55
+  - name: DILLON
+    distance_km: 40.89
+  - name: JACKSON
+    distance_km: 47.7
+- country: US
+  region: MT
+  name: Grass Range
+  lat: '47.0261'
+  long: "-108.8031"
+  nearby_rate_centers:
+  - name: GRASSRANGE
+    distance_km: 0.3
+  - name: WINNETT
+    distance_km: 34.51
+  - name: ROY
+    distance_km: 36.21
+- country: US
+  region: MT
+  name: Great Falls
+  lat: '47.5022'
+  long: "-111.2996"
+  nearby_rate_centers:
+  - name: GREATFALLS
+    distance_km: 0.88
+  - name: STOCKETT
+    distance_km: 18.96
+  - name: BELT
+    distance_km: 31.3
+- country: US
+  region: MT
+  name: Greycliff
+  lat: '45.7588'
+  long: "-109.7799"
+  nearby_rate_centers:
+  - name: BIG TIMBER
+    distance_km: 15.49
+  - name: REEDPOINT
+    distance_km: 19.07
+  - name: ABSAROKEE
+    distance_km: 37.43
+- country: US
+  region: MT
+  name: Hall
+  lat: '46.5867'
+  long: "-113.1971"
+  nearby_rate_centers:
+  - name: DRUMMOND
+    distance_km: 10.05
+  - name: PHILIPSBG
+    distance_km: 28.12
+  - name: DEER LODGE
+    distance_km: 41.52
+- country: US
+  region: MT
+  name: Hamilton
+  lat: '46.2527'
+  long: "-114.1598"
+  nearby_rate_centers:
+  - name: HAMILTON
+    distance_km: 1.35
+  - name: VICTOR
+    distance_km: 18.3
+  - name: DARBY
+    distance_km: 25.36
+- country: US
+  region: MT
+  name: Happys Inn
+  lat: '48.0638'
+  long: "-115.1350"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 34.98
+  - name: LIBBY
+    distance_km: 47.31
+  - name: NOXON
+    distance_km: 48.75
+- country: US
+  region: MT
+  name: Hardin
+  lat: '45.7422'
+  long: "-107.6082"
+  nearby_rate_centers:
+  - name: HARDIN
+    distance_km: 1.17
+  - name: POMPESPLLR
+    distance_km: 38.73
+  - name: CUSTER
+    distance_km: 43.08
+- country: US
+  region: MT
+  name: Hardy
+  lat: '47.1806'
+  long: "-111.8172"
+  nearby_rate_centers:
+  - name: CASCADE
+    distance_km: 13.87
+  - name: WOLF CREEK
+    distance_km: 26.74
+  - name: FORT SHAW
+    distance_km: 36.51
+- country: US
+  region: MT
+  name: Harlem
+  lat: '48.5318'
+  long: "-108.7847"
+  nearby_rate_centers:
+  - name: HARLEM
+    distance_km: 0.41
+  - name: CHINOOK
+    distance_km: 33.11
+  - name: DODSON
+    distance_km: 42.38
+- country: US
+  region: MT
+  name: Harlowton
+  lat: '46.4368'
+  long: "-109.8353"
+  nearby_rate_centers:
+  - name: HARLOWTON
+    distance_km: 0.78
+  - name: JUDITH GAP
+    distance_km: 27.34
+  - name: MARTINSDL
+    distance_km: 37.08
+- country: US
+  region: MT
+  name: Harrison
+  lat: '45.7045'
+  long: "-111.7844"
+  nearby_rate_centers:
+  - name: HARRISON
+    distance_km: 0.61
+  - name: THREEFORKS
+    distance_km: 27.37
+  - name: WHITEHALL
+    distance_km: 29.69
+- country: US
+  region: MT
+  name: Hartland Colony
+  lat: '48.9520'
+  long: "-109.4483"
+  nearby_rate_centers:
+  - name: NORTHHAVRE
+    distance_km: 23.7
+  - name: CHINOOK
+    distance_km: 43.13
+  - name: HAVRE
+    distance_km: 47.47
+- country: US
+  region: MT
+  name: Haugan
+  lat: '47.3887'
+  long: "-115.4079"
+  nearby_rate_centers:
+  - name: HAUGAN
+    distance_km: 0.69
+  - name: THOMPSNFLS
+    distance_km: 23.89
+  - name: ST REGIS
+    distance_km: 26.27
+- country: US
+  region: MT
+  name: Havre
+  lat: '48.5427'
+  long: "-109.6804"
+  nearby_rate_centers:
+  - name: HAVRE
+    distance_km: 1.36
+  - name: SOUTHHAVRE
+    distance_km: 13.28
+  - name: NORTHHAVRE
+    distance_km: 28.82
+- country: US
+  region: MT
+  name: Havre North
+  lat: '48.5632'
+  long: "-109.6713"
+  nearby_rate_centers:
+  - name: HAVRE
+    distance_km: 1.55
+  - name: SOUTHHAVRE
+    distance_km: 15.64
+  - name: NORTHHAVRE
+    distance_km: 26.54
+- country: US
+  region: MT
+  name: Hays
+  lat: '48.0104'
+  long: "-108.6607"
+  nearby_rate_centers:
+  - name: HAYS
+    distance_km: 3.5
+  - name: SOUTHMALTA
+    distance_km: 52.67
+  - name: DODSON
+    distance_km: 53.42
+- country: US
+  region: MT
+  name: Heart Butte
+  lat: '48.2905'
+  long: "-112.8363"
+  nearby_rate_centers:
+  - name: DUPUYER
+    distance_km: 27.25
+  - name: EGLACIERPK
+    distance_km: 32.8
+  - name: BROWNING
+    distance_km: 33.4
+- country: US
+  region: MT
+  name: Hebgen Lake Estates
+  lat: '44.7692'
+  long: "-111.1905"
+  nearby_rate_centers:
+  - name: WYELLOWSTN
+    distance_km: 14.21
+  - name: GARDINER
+    distance_km: 48.65
+  - name: BIG SKY
+    distance_km: 55.98
+- country: US
+  region: MT
+  name: Helena
+  lat: '46.5965'
+  long: "-112.0202"
+  nearby_rate_centers:
+  - name: HELENA
+    distance_km: 0.61
+  - name: CANYON CRK
+    distance_km: 29.73
+  - name: BOULDER
+    distance_km: 40.3
+- country: US
+  region: MT
+  name: Helena Flats
+  lat: '48.2863'
+  long: "-114.2369"
+  nearby_rate_centers:
+  - name: COLUMBIFLS
+    distance_km: 10.67
+  - name: KALISPELL
+    distance_km: 11.32
+  - name: WHITEFISH
+    distance_km: 15.43
+- country: US
+  region: MT
+  name: Helena Valley Northeast
+  lat: '46.6974'
+  long: "-111.9428"
+  nearby_rate_centers:
+  - name: HELENA
+    distance_km: 12.3
+  - name: CANYON CRK
+    distance_km: 27.56
+  - name: WOLF CREEK
+    distance_km: 36.09
+- country: US
+  region: MT
+  name: Helena Valley Northwest
+  lat: '46.7289'
+  long: "-112.0631"
+  nearby_rate_centers:
+  - name: HELENA
+    distance_km: 14.48
+  - name: CANYON CRK
+    distance_km: 17.78
+  - name: WOLF CREEK
+    distance_km: 31.33
+- country: US
+  region: MT
+  name: Helena Valley Southeast
+  lat: '46.6219'
+  long: "-111.8973"
+  nearby_rate_centers:
+  - name: HELENA
+    distance_km: 9.89
+  - name: CANYON CRK
+    distance_km: 34.79
+  - name: TOWNSEND
+    distance_km: 44.69
+- country: US
+  region: MT
+  name: Helena Valley West Central
+  lat: '46.6634'
+  long: "-112.0604"
+  nearby_rate_centers:
+  - name: HELENA
+    distance_km: 7.44
+  - name: CANYON CRK
+    distance_km: 22.19
+  - name: WOLF CREEK
+    distance_km: 38.61
+- country: US
+  region: MT
+  name: Helena West Side
+  lat: '46.5966'
+  long: "-112.1148"
+  nearby_rate_centers:
+  - name: HELENA
+    distance_km: 7.01
+  - name: CANYON CRK
+    distance_km: 25.66
+  - name: AVON
+    distance_km: 37.16
+- country: US
+  region: MT
+  name: Helmville
+  lat: '46.8614'
+  long: "-112.9629"
+  nearby_rate_centers:
+  - name: OVANDO
+    distance_km: 21.13
+  - name: LINCOLN
+    distance_km: 23.66
+  - name: DRUMMOND
+    distance_km: 25.36
+- country: US
+  region: MT
+  name: Heron
+  lat: '48.0637'
+  long: "-115.9800"
+  nearby_rate_centers:
+  - name: NOXON
+    distance_km: 16.95
+  - name: TROY
+    distance_km: 44.42
+  - name: LIBBY
+    distance_km: 47.81
+- country: US
+  region: MT
+  name: Herron
+  lat: '48.5341'
+  long: "-109.7718"
+  nearby_rate_centers:
+  - name: HAVRE
+    distance_km: 8.03
+  - name: SOUTHHAVRE
+    distance_km: 12.78
+  - name: KREMLIN
+    distance_km: 23.24
+- country: US
+  region: MT
+  name: Hidden Lake Colony
+  lat: '48.5987'
+  long: "-112.6031"
+  nearby_rate_centers:
+  - name: CUT BANK
+    distance_km: 19.98
+  - name: NOCUT BANK
+    distance_km: 22.86
+  - name: BROWNING
+    distance_km: 30.08
+- country: US
+  region: MT
+  name: Highwood
+  lat: '47.5992'
+  long: "-110.7698"
+  nearby_rate_centers:
+  - name: HIGHWOOD
+    distance_km: 2.31
+  - name: CARTER
+    distance_km: 24.7
+  - name: FORTBENTON
+    distance_km: 26.12
+- country: US
+  region: MT
+  name: Hilger
+  lat: '47.2557'
+  long: "-109.3571"
+  nearby_rate_centers:
+  - name: LEWISTOWN
+    distance_km: 21.68
+  - name: ROY
+    distance_km: 31.26
+  - name: WINIFRED
+    distance_km: 33.73
+- country: US
+  region: MT
+  name: Hilldale Colony
+  lat: '48.8035'
+  long: "-109.7832"
+  nearby_rate_centers:
+  - name: NORTHHAVRE
+    distance_km: 7.68
+  - name: HAVRE
+    distance_km: 29.51
+  - name: KREMLIN
+    distance_km: 33.37
+- country: US
+  region: MT
+  name: Hillside Colony
+  lat: '48.9789'
+  long: "-112.0704"
+  nearby_rate_centers:
+  - name: SWEETGRASS
+    distance_km: 8.42
+  - name: SUNBURST
+    distance_km: 15.77
+  - name: KEVINOLMNT
+    distance_km: 27.62
+- country: US
+  region: MT
+  name: Hingham
+  lat: '48.5554'
+  long: "-110.4213"
+  nearby_rate_centers:
+  - name: HINGHAM
+    distance_km: 0.52
+  - name: RUDYARD
+    distance_km: 9.24
+  - name: GILDFORD
+    distance_km: 9.29
+- country: US
+  region: MT
+  name: Hinsdale
+  lat: '48.4036'
+  long: "-107.0582"
+  nearby_rate_centers:
+  - name: HINSDALE
+    distance_km: 1.76
+  - name: NOHINSDALE
+    distance_km: 4.39
+  - name: SACO
+    distance_km: 21.81
+- country: US
+  region: MT
+  name: Hobson
+  lat: '46.9992'
+  long: "-109.8731"
+  nearby_rate_centers:
+  - name: HOBSON
+    distance_km: 0.38
+  - name: MOORE
+    distance_km: 14.09
+  - name: STANFORD
+    distance_km: 31.09
+- country: US
+  region: MT
+  name: Hogeland
+  lat: '48.8547'
+  long: "-108.6624"
+  nearby_rate_centers:
+  - name: TURNER
+    distance_km: 18.19
+  - name: HARLEM
+    distance_km: 36.6
+  - name: CHINOOK
+    distance_km: 50.49
+- country: US
+  region: MT
+  name: Homestead
+  lat: '48.4202'
+  long: "-104.5369"
+  nearby_rate_centers:
+  - name: MEDICINELK
+    distance_km: 9.18
+  - name: FROID
+    distance_km: 10.09
+  - name: FROIDRURAL
+    distance_km: 11.11
+- country: US
+  region: MT
+  name: Horizon Colony
+  lat: '48.7167'
+  long: "-112.2276"
+  nearby_rate_centers:
+  - name: NOCUT BANK
+    distance_km: 10.18
+  - name: CUT BANK
+    distance_km: 12.21
+  - name: ETHRIDGE
+    distance_km: 19.1
+- country: US
+  region: MT
+  name: Hot Springs
+  lat: '47.6091'
+  long: "-114.6705"
+  nearby_rate_centers:
+  - name: HOTSPRINGS
+    distance_km: 1.01
+  - name: PLAINS
+    distance_km: 23.26
+  - name: ELMO
+    distance_km: 35.02
+- country: US
+  region: MT
+  name: Hungry Horse
+  lat: '48.3843'
+  long: "-114.0652"
+  nearby_rate_centers:
+  - name: HUNGRYHORS
+    distance_km: 1.42
+  - name: COLUMBIFLS
+    distance_km: 8.2
+  - name: W GLACIER
+    distance_km: 13.77
+- country: US
+  region: MT
+  name: Huntley
+  lat: '45.8995'
+  long: "-108.3054"
+  nearby_rate_centers:
+  - name: HUNTLEY
+    distance_km: 0.37
+  - name: WORDEN
+    distance_km: 12.94
+  - name: BILLINGS
+    distance_km: 20.8
+- country: US
+  region: MT
+  name: Huson
+  lat: '47.0325'
+  long: "-114.3400"
+  nearby_rate_centers:
+  - name: FRENCHTOWN
+    distance_km: 9.06
+  - name: S ALBERTON
+    distance_km: 9.91
+  - name: ALBERTON
+    distance_km: 11.49
+- country: US
+  region: MT
+  name: Hysham
+  lat: '46.2909'
+  long: "-107.2305"
+  nearby_rate_centers:
+  - name: HYSHAM
+    distance_km: 1.05
+  - name: CUSTER
+    distance_km: 31.12
+  - name: FORSYTH
+    distance_km: 44.56
+- country: US
+  region: MT
+  name: Indian Springs
+  lat: '48.9534'
+  long: "-115.0446"
+  nearby_rate_centers:
+  - name: EUREKA
+    distance_km: 7.96
+  - name: EUREKARURL
+    distance_km: 9.73
+  - name: OLNEY
+    distance_km: 56.4
+- country: US
+  region: MT
+  name: Inverness
+  lat: '48.5599'
+  long: "-110.7101"
+  nearby_rate_centers:
+  - name: JOPLIN
+    distance_km: 4.6
+  - name: RUDYARD
+    distance_km: 12.02
+  - name: CHESTER
+    distance_km: 19.7
+- country: US
+  region: MT
+  name: Ismay
+  lat: '46.5002'
+  long: "-104.7929"
+  nearby_rate_centers:
+  - name: PLEVNA
+    distance_km: 23.55
+  - name: BAKER
+    distance_km: 42.85
+  - name: FALLON
+    distance_km: 44.64
+- country: US
+  region: MT
+  name: Jackson
+  lat: '45.3679'
+  long: "-113.4097"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 0.36
+  - name: WISDOM
+    distance_km: 27.89
+  - name: GRANT
+    distance_km: 44.13
+- country: US
+  region: MT
+  name: Jardine
+  lat: '45.0565'
+  long: "-110.6186"
+  nearby_rate_centers:
+  - name: GARDINER
+    distance_km: 7.28
+  - name: COOKE CITY
+    distance_km: 54.07
+  - name: BIG SKY
+    distance_km: 57.76
+- country: US
+  region: MT
+  name: Jeffers
+  lat: '45.3481'
+  long: "-111.7037"
+  nearby_rate_centers:
+  - name: ENNIS
+    distance_km: 1.79
+  - name: VIRGINIACY
+    distance_km: 19.29
+  - name: BIG SKY
+    distance_km: 33.44
+- country: US
+  region: MT
+  name: Jefferson City
+  lat: '46.3779'
+  long: "-112.0305"
+  nearby_rate_centers:
+  - name: BOULDER
+    distance_km: 16.65
+  - name: HELENA
+    distance_km: 24.88
+  - name: TOWNSEND
+    distance_km: 39.93
+- country: US
+  region: MT
+  name: Jette
+  lat: '47.7169'
+  long: "-114.1905"
+  nearby_rate_centers:
+  - name: POLSON
+    distance_km: 3.49
+  - name: FINLEY PT
+    distance_km: 11.62
+  - name: PABLO
+    distance_km: 14.27
+- country: US
+  region: MT
+  name: Joliet
+  lat: '45.4846'
+  long: "-108.9723"
+  nearby_rate_centers:
+  - name: JOLIET
+    distance_km: 0.28
+  - name: FROMBERG
+    distance_km: 11.55
+  - name: BRIDGER
+    distance_km: 22.13
+- country: US
+  region: MT
+  name: Joplin
+  lat: '48.5590'
+  long: "-110.7730"
+  nearby_rate_centers:
+  - name: JOPLIN
+    distance_km: 0.06
+  - name: CHESTER
+    distance_km: 15.3
+  - name: RUDYARD
+    distance_km: 16.65
+- country: US
+  region: MT
+  name: Jordan
+  lat: '47.3211'
+  long: "-106.9098"
+  nearby_rate_centers:
+  - name: JORDAN
+    distance_km: 0.84
+  - name: ROCK SPG
+    distance_km: 72.75
+  - name: FORT PECK
+    distance_km: 84.08
+- country: US
+  region: MT
+  name: Judith Gap
+  lat: '46.6791'
+  long: "-109.7533"
+  nearby_rate_centers:
+  - name: JUDITH GAP
+    distance_km: 0.37
+  - name: HARLOWTON
+    distance_km: 26.88
+  - name: MOORE
+    distance_km: 33.01
+- country: US
+  region: MT
+  name: Kalispell
+  lat: '48.2153'
+  long: "-114.3274"
+  nearby_rate_centers:
+  - name: KALISPELL
+    distance_km: 1.95
+  - name: SOMERS
+    distance_km: 16.57
+  - name: COLUMBIFLS
+    distance_km: 20.84
+- country: US
+  region: MT
+  name: Kerr
+  lat: '47.6771'
+  long: "-114.1873"
+  nearby_rate_centers:
+  - name: POLSON
+    distance_km: 2.63
+  - name: PABLO
+    distance_km: 10.22
+  - name: FINLEY PT
+    distance_km: 12.49
+- country: US
+  region: MT
+  name: Kevin
+  lat: '48.7457'
+  long: "-111.9656"
+  nearby_rate_centers:
+  - name: KEVINOLMNT
+    distance_km: 0.67
+  - name: SUNBURST
+    distance_km: 15.97
+  - name: ETHRIDGE
+    distance_km: 23.92
+- country: US
+  region: MT
+  name: Kicking Horse
+  lat: '47.4568'
+  long: "-114.0717"
+  nearby_rate_centers:
+  - name: CHARLO
+    distance_km: 7.51
+  - name: RONAN
+    distance_km: 7.89
+  - name: STIGNATIUS
+    distance_km: 14.62
+- country: US
+  region: MT
+  name: Kila
+  lat: '48.1216'
+  long: "-114.4768"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 14.33
+  - name: KALISPELL
+    distance_km: 14.7
+  - name: SOMERS
+    distance_km: 19.0
+- country: US
+  region: MT
+  name: Kilby Butte Colony
+  lat: '46.4764'
+  long: "-108.3602"
+  nearby_rate_centers:
+  - name: ROUNDUP
+    distance_km: 14.12
+  - name: MUSSELSHLL
+    distance_km: 21.54
+  - name: MELSTONE
+    distance_km: 40.26
+- country: US
+  region: MT
+  name: King Arthur Park
+  lat: '45.6663'
+  long: "-111.1268"
+  nearby_rate_centers:
+  - name: BOZEMAN
+    distance_km: 6.81
+  - name: GALATNGTWY
+    distance_km: 10.04
+  - name: BELGRADE
+    distance_km: 12.82
+- country: US
+  region: MT
+  name: King Ranch Colony
+  lat: '47.0572'
+  long: "-109.6362"
+  nearby_rate_centers:
+  - name: MOORE
+    distance_km: 10.26
+  - name: LEWISTOWN
+    distance_km: 16.0
+  - name: HOBSON
+    distance_km: 19.03
+- country: US
+  region: MT
+  name: Kings Point
+  lat: '47.7633'
+  long: "-114.1499"
+  nearby_rate_centers:
+  - name: POLSON
+    distance_km: 7.9
+  - name: FINLEY PT
+    distance_km: 9.61
+  - name: ELMO
+    distance_km: 16.69
+- country: US
+  region: MT
+  name: Kingsbury Colony
+  lat: '48.3044'
+  long: "-112.4846"
+  nearby_rate_centers:
+  - name: DUPUYER
+    distance_km: 12.45
+  - name: VALIER
+    distance_km: 17.46
+  - name: PENDROY
+    distance_km: 28.64
+- country: US
+  region: MT
+  name: Klein
+  lat: '46.3983'
+  long: "-108.5525"
+  nearby_rate_centers:
+  - name: ROUNDUP
+    distance_km: 6.04
+  - name: LAVINA
+    distance_km: 31.95
+  - name: MUSSELSHLL
+    distance_km: 38.19
+- country: US
+  region: MT
+  name: Kremlin
+  lat: '48.5707'
+  long: "-110.0862"
+  nearby_rate_centers:
+  - name: KREMLIN
+    distance_km: 0.77
+  - name: GILDFORD
+    distance_km: 15.47
+  - name: HINGHAM
+    distance_km: 25.07
+- country: US
+  region: MT
+  name: Lake Mary Ronan
+  lat: '47.9291'
+  long: "-114.3889"
+  nearby_rate_centers:
+  - name: ELMO
+    distance_km: 10.87
+  - name: LAKESIDE
+    distance_km: 16.0
+  - name: SOMERS
+    distance_km: 20.79
+- country: US
+  region: MT
+  name: Lakeside
+  lat: '48.0181'
+  long: "-114.2274"
+  nearby_rate_centers:
+  - name: LAKESIDE
+    distance_km: 0.82
+  - name: SOMERS
+    distance_km: 7.09
+  - name: BIGFORK
+    distance_km: 11.82
+- country: US
+  region: MT
+  name: Lakeview
+  lat: '44.6021'
+  long: "-111.8124"
+  nearby_rate_centers:
+  - name: WYELLOWSTN
+    distance_km: 56.75
+  - name: LIMA
+    distance_km: 61.75
+  - name: VIRGINIACY
+    distance_km: 77.16
+- country: US
+  region: MT
+  name: Lame Deer
+  lat: '45.6176'
+  long: "-106.6134"
+  nearby_rate_centers:
+  - name: LAME DEER
+    distance_km: 3.03
+  - name: BUSBY
+    distance_km: 28.27
+  - name: ASHLAND
+    distance_km: 28.51
+- country: US
+  region: MT
+  name: Landusky
+  lat: '47.8982'
+  long: "-108.6202"
+  nearby_rate_centers:
+  - name: HAYS
+    distance_km: 11.8
+  - name: SOUTHMALTA
+    distance_km: 56.86
+  - name: DODSON
+    distance_km: 62.63
+- country: US
+  region: MT
+  name: Laredo
+  lat: '48.4303'
+  long: "-109.8860"
+  nearby_rate_centers:
+  - name: SOUTHHAVRE
+    distance_km: 12.64
+  - name: BOX ELDER
+    distance_km: 15.95
+  - name: HAVRE
+    distance_km: 21.0
+- country: US
+  region: MT
+  name: Laurel
+  lat: '45.6735'
+  long: "-108.7707"
+  nearby_rate_centers:
+  - name: LAUREL
+    distance_km: 0.97
+  - name: BILLINGS
+    distance_km: 23.38
+  - name: MOLT
+    distance_km: 24.74
+- country: US
+  region: MT
+  name: Lavina
+  lat: '46.2950'
+  long: "-108.9388"
+  nearby_rate_centers:
+  - name: LAVINA
+    distance_km: 0.56
+  - name: BROADVIEW
+    distance_km: 22.18
+  - name: RYEGATE
+    distance_km: 24.38
+- country: US
+  region: MT
+  name: Lewistown
+  lat: '47.0514'
+  long: "-109.4524"
+  nearby_rate_centers:
+  - name: LEWISTOWN
+    distance_km: 2.63
+  - name: MOORE
+    distance_km: 20.11
+  - name: HOBSON
+    distance_km: 32.42
+- country: US
+  region: MT
+  name: Lewistown Heights
+  lat: '47.0784'
+  long: "-109.4735"
+  nearby_rate_centers:
+  - name: LEWISTOWN
+    distance_km: 3.88
+  - name: MOORE
+    distance_km: 20.26
+  - name: HOBSON
+    distance_km: 31.51
+- country: US
+  region: MT
+  name: Libby
+  lat: '48.3870'
+  long: "-115.5559"
+  nearby_rate_centers:
+  - name: LIBBY
+    distance_km: 0.29
+  - name: TROY
+    distance_km: 26.01
+  - name: NOXON
+    distance_km: 47.26
+- country: US
+  region: MT
+  name: Lima
+  lat: '44.6384'
+  long: "-112.5917"
+  nearby_rate_centers:
+  - name: LIMA
+    distance_km: 0.39
+  - name: GRANT
+    distance_km: 62.12
+  - name: DILLON
+    distance_km: 64.16
+- country: US
+  region: MT
+  name: Lincoln
+  lat: '46.9530'
+  long: "-112.6693"
+  nearby_rate_centers:
+  - name: LINCOLN
+    distance_km: 1.19
+  - name: CANYON CRK
+    distance_km: 34.65
+  - name: OVANDO
+    distance_km: 35.28
+- country: US
+  region: MT
+  name: Lindisfarne
+  lat: '47.8042'
+  long: "-114.2121"
+  nearby_rate_centers:
+  - name: ELMO
+    distance_km: 10.56
+  - name: POLSON
+    distance_km: 12.98
+  - name: FINLEY PT
+    distance_km: 15.94
+- country: US
+  region: MT
+  name: Lindsay
+  lat: '47.2249'
+  long: "-105.1528"
+  nearby_rate_centers:
+  - name: LINDSAY
+    distance_km: 0.59
+  - name: BLOOMFIELD
+    distance_km: 28.31
+  - name: W GLENDIVE
+    distance_km: 31.9
+- country: US
+  region: MT
+  name: Little Bitterroot Lake
+  lat: '48.1180'
+  long: "-114.7206"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 4.36
+  - name: KALISPELL
+    distance_km: 31.31
+  - name: SOMERS
+    distance_km: 36.8
+- country: US
+  region: MT
+  name: Little Browning
+  lat: '48.6252'
+  long: "-112.3500"
+  nearby_rate_centers:
+  - name: CUT BANK
+    distance_km: 1.37
+  - name: NOCUT BANK
+    distance_km: 11.81
+  - name: ETHRIDGE
+    distance_km: 18.06
+- country: US
+  region: MT
+  name: Livingston
+  lat: '45.6665'
+  long: "-110.5539"
+  nearby_rate_centers:
+  - name: LIVINGSTON
+    distance_km: 0.52
+  - name: CLYDE PARK
+    distance_km: 25.5
+  - name: WILSALL
+    distance_km: 36.85
+- country: US
+  region: MT
+  name: Lockwood
+  lat: '45.8199'
+  long: "-108.4072"
+  nearby_rate_centers:
+  - name: BILLINGS
+    distance_km: 9.19
+  - name: HUNTLEY
+    distance_km: 12.23
+  - name: WORDEN
+    distance_km: 24.47
+- country: US
+  region: MT
+  name: Lodge Grass
+  lat: '45.3142'
+  long: "-107.3677"
+  nearby_rate_centers:
+  - name: LODGEGRASS
+    distance_km: 1.0
+  - name: WYOLA
+    distance_km: 21.07
+  - name: NO PARKMAN
+    distance_km: 34.24
+- country: US
+  region: MT
+  name: Lodge Pole
+  lat: '48.0272'
+  long: "-108.5518"
+  nearby_rate_centers:
+  - name: HAYS
+    distance_km: 11.57
+  - name: SOUTHMALTA
+    distance_km: 44.62
+  - name: DODSON
+    distance_km: 47.55
+- country: US
+  region: MT
+  name: Logan
+  lat: '45.8843'
+  long: "-111.4236"
+  nearby_rate_centers:
+  - name: MANHATTAN
+    distance_km: 7.63
+  - name: THREEFORKS
+    distance_km: 9.95
+  - name: BELGRADE
+    distance_km: 22.59
+- country: US
+  region: MT
+  name: Lolo
+  lat: '46.7756'
+  long: "-114.1018"
+  nearby_rate_centers:
+  - name: MISSOULA
+    distance_km: 12.81
+  - name: FRENCHTOWN
+    distance_km: 28.35
+  - name: STEVENSVL
+    distance_km: 29.79
+- country: US
+  region: MT
+  name: Loma
+  lat: '47.9511'
+  long: "-110.4887"
+  nearby_rate_centers:
+  - name: LOMA
+    distance_km: 1.61
+  - name: FORTBENTON
+    distance_km: 19.36
+  - name: BIG SANDY
+    distance_km: 37.7
+- country: US
+  region: MT
+  name: Lonepine
+  lat: '47.6945'
+  long: "-114.6407"
+  nearby_rate_centers:
+  - name: HOTSPRINGS
+    distance_km: 9.68
+  - name: ELMO
+    distance_km: 27.09
+  - name: PLAINS
+    distance_km: 32.03
+- country: US
+  region: MT
+  name: Loring Colony
+  lat: '48.7891'
+  long: "-107.9687"
+  nearby_rate_centers:
+  - name: WHITEWATER
+    distance_km: 25.55
+  - name: TURNER
+    distance_km: 33.26
+  - name: DODSON
+    distance_km: 47.53
+- country: US
+  region: MT
+  name: Luther
+  lat: '45.2852'
+  long: "-109.4164"
+  nearby_rate_centers:
+  - name: RED LODGE
+    distance_km: 17.14
+  - name: ABSAROKEE
+    distance_km: 25.63
+  - name: BELFRY
+    distance_km: 35.92
+- country: US
+  region: MT
+  name: Malmstrom AFB
+  lat: '47.5059'
+  long: "-111.1825"
+  nearby_rate_centers:
+  - name: GREATFALLS
+    distance_km: 8.2
+  - name: STOCKETT
+    distance_km: 16.51
+  - name: BELT
+    distance_km: 23.86
+- country: US
+  region: MT
+  name: Malta
+  lat: '48.3554'
+  long: "-107.8702"
+  nearby_rate_centers:
+  - name: MALTA
+    distance_km: 0.64
+  - name: SOUTHMALTA
+    distance_km: 19.04
+  - name: DODSON
+    distance_km: 28.1
+- country: US
+  region: MT
+  name: Mammoth
+  lat: '45.6692'
+  long: "-112.0176"
+  nearby_rate_centers:
+  - name: HARRISON
+    distance_km: 18.52
+  - name: WHITEHALL
+    distance_km: 22.59
+  - name: SHERIDAN
+    distance_km: 27.83
+- country: US
+  region: MT
+  name: Manhattan
+  lat: '45.8622'
+  long: "-111.3344"
+  nearby_rate_centers:
+  - name: MANHATTAN
+    distance_km: 0.62
+  - name: BELGRADE
+    distance_km: 15.52
+  - name: THREEFORKS
+    distance_km: 17.12
+- country: US
+  region: MT
+  name: Marion
+  lat: '48.0858'
+  long: "-114.6711"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 1.74
+  - name: KALISPELL
+    distance_km: 29.19
+  - name: SOMERS
+    distance_km: 32.92
+- country: US
+  region: MT
+  name: Martin City
+  lat: '48.3935'
+  long: "-114.0308"
+  nearby_rate_centers:
+  - name: HUNGRYHORS
+    distance_km: 1.44
+  - name: COLUMBIFLS
+    distance_km: 10.88
+  - name: W GLACIER
+    distance_km: 11.79
+- country: US
+  region: MT
+  name: Martinsdale
+  lat: '46.4548'
+  long: "-110.3120"
+  nearby_rate_centers:
+  - name: MARTINSDL
+    distance_km: 1.23
+  - name: HARLOWTON
+    distance_km: 36.63
+  - name: WHSLPHRSPG
+    distance_km: 46.98
+- country: US
+  region: MT
+  name: Marysville
+  lat: '46.7502'
+  long: "-112.3026"
+  nearby_rate_centers:
+  - name: CANYON CRK
+    distance_km: 6.1
+  - name: HELENA
+    distance_km: 26.97
+  - name: AVON
+    distance_km: 28.31
+- country: US
+  region: MT
+  name: Maverick Mountain
+  lat: '45.4182'
+  long: "-113.1109"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 24.02
+  - name: WISDOM
+    distance_km: 34.35
+  - name: MELROSE
+    distance_km: 40.96
+- country: US
+  region: MT
+  name: Maxville
+  lat: '46.4760'
+  long: "-113.2355"
+  nearby_rate_centers:
+  - name: PHILIPSBG
+    distance_km: 15.5
+  - name: DRUMMOND
+    distance_km: 22.56
+  - name: DEER LODGE
+    distance_km: 39.56
+- country: US
+  region: MT
+  name: McAllister
+  lat: '45.4364'
+  long: "-111.7252"
+  nearby_rate_centers:
+  - name: ENNIS
+    distance_km: 9.82
+  - name: VIRGINIACY
+    distance_km: 23.15
+  - name: HARRISON
+    distance_km: 29.56
+- country: US
+  region: MT
+  name: Medicine Lake
+  lat: '48.5023'
+  long: "-104.5018"
+  nearby_rate_centers:
+  - name: MEDICINELK
+    distance_km: 0.41
+  - name: RESERVE
+    distance_km: 11.46
+  - name: FROIDRURAL
+    distance_km: 18.55
+- country: US
+  region: MT
+  name: Melstone
+  lat: '46.5987'
+  long: "-107.8683"
+  nearby_rate_centers:
+  - name: MELSTONE
+    distance_km: 0.32
+  - name: MUSSELSHLL
+    distance_km: 18.85
+  - name: ROUNDUP
+    distance_km: 53.99
+- country: US
+  region: MT
+  name: Midway Colony
+  lat: '48.0670'
+  long: "-111.9935"
+  nearby_rate_centers:
+  - name: CONRAD
+    distance_km: 11.34
+  - name: BRADY
+    distance_km: 11.47
+  - name: PENDROY
+    distance_km: 22.94
+- country: US
+  region: MT
+  name: Miles City
+  lat: '46.4059'
+  long: "-105.8385"
+  nearby_rate_centers:
+  - name: MILES CITY
+    distance_km: 0.78
+  - name: SOMILES CY
+    distance_km: 24.32
+  - name: ROSEBUD
+    distance_km: 48.09
+- country: US
+  region: MT
+  name: Milford Colony
+  lat: '47.3282'
+  long: "-112.2127"
+  nearby_rate_centers:
+  - name: AUGUSTA
+    distance_km: 23.08
+  - name: FORT SHAW
+    distance_km: 35.94
+  - name: FAIRFIELD
+    distance_km: 36.39
+- country: US
+  region: MT
+  name: Miller Colony
+  lat: '47.9257'
+  long: "-112.2917"
+  nearby_rate_centers:
+  - name: CHOTEAU
+    distance_km: 15.23
+  - name: PENDROY
+    distance_km: 16.89
+  - name: DUPUYER
+    distance_km: 33.46
+- country: US
+  region: MT
+  name: Missoula
+  lat: '46.8751'
+  long: "-114.0214"
+  nearby_rate_centers:
+  - name: MISSOULA
+    distance_km: 1.65
+  - name: FRENCHTOWN
+    distance_km: 21.95
+  - name: CLINTON
+    distance_km: 26.38
+- country: US
+  region: MT
+  name: Moccasin
+  lat: '47.0527'
+  long: "-109.9086"
+  nearby_rate_centers:
+  - name: HOBSON
+    distance_km: 6.16
+  - name: MOORE
+    distance_km: 18.71
+  - name: STANFORD
+    distance_km: 25.83
+- country: US
+  region: MT
+  name: Monarch
+  lat: '47.1003'
+  long: "-110.8448"
+  nearby_rate_centers:
+  - name: NEIHART
+    distance_km: 9.85
+  - name: RAYNESFORD
+    distance_km: 21.03
+  - name: BELT
+    distance_km: 31.94
+- country: US
+  region: MT
+  name: Montana City
+  lat: '46.5257'
+  long: "-111.9401"
+  nearby_rate_centers:
+  - name: HELENA
+    distance_km: 10.57
+  - name: BOULDER
+    distance_km: 34.48
+  - name: CANYON CRK
+    distance_km: 39.69
+- country: US
+  region: MT
+  name: Montaqua
+  lat: '45.5072'
+  long: "-108.9087"
+  nearby_rate_centers:
+  - name: JOLIET
+    distance_km: 5.36
+  - name: FROMBERG
+    distance_km: 13.15
+  - name: LAUREL
+    distance_km: 20.94
+- country: US
+  region: MT
+  name: Moore
+  lat: '46.9750'
+  long: "-109.6949"
+  nearby_rate_centers:
+  - name: MOORE
+    distance_km: 0.36
+  - name: HOBSON
+    distance_km: 13.93
+  - name: LEWISTOWN
+    distance_km: 22.81
+- country: US
+  region: MT
+  name: Mountain View Colony
+  lat: '46.0680'
+  long: "-108.7213"
+  nearby_rate_centers:
+  - name: BROADVIEW
+    distance_km: 12.99
+  - name: MOLT
+    distance_km: 27.71
+  - name: LAVINA
+    distance_km: 30.85
+- country: US
+  region: MT
+  name: Muddy
+  lat: '45.5798'
+  long: "-106.7754"
+  nearby_rate_centers:
+  - name: LAME DEER
+    distance_km: 10.44
+  - name: BUSBY
+    distance_km: 14.99
+  - name: BIRNEY
+    distance_km: 36.13
+- country: US
+  region: MT
+  name: Musselshell
+  lat: '46.5063'
+  long: "-108.0862"
+  nearby_rate_centers:
+  - name: MUSSELSHLL
+    distance_km: 1.38
+  - name: MELSTONE
+    distance_km: 19.78
+  - name: ROUNDUP
+    distance_km: 35.35
+- country: US
+  region: MT
+  name: Nashua
+  lat: '48.1336'
+  long: "-106.3571"
+  nearby_rate_centers:
+  - name: NASHUA
+    distance_km: 0.24
+  - name: NO NASHUA
+    distance_km: 3.2
+  - name: FORT PECK
+    distance_km: 15.28
+- country: US
+  region: MT
+  name: Neihart
+  lat: '46.9352'
+  long: "-110.7360"
+  nearby_rate_centers:
+  - name: NEIHART
+    distance_km: 10.51
+  - name: RAYNESFORD
+    distance_km: 37.72
+  - name: GEYSER
+    distance_km: 40.97
+- country: US
+  region: MT
+  name: New Miami Colony
+  lat: '48.1912'
+  long: "-112.2804"
+  nearby_rate_centers:
+  - name: PENDROY
+    distance_km: 12.75
+  - name: VALIER
+    distance_km: 13.27
+  - name: DUPUYER
+    distance_km: 16.19
+- country: US
+  region: MT
+  name: New Rockport Colony
+  lat: '47.8598'
+  long: "-112.0349"
+  nearby_rate_centers:
+  - name: CHOTEAU
+    distance_km: 12.57
+  - name: BRADY
+    distance_km: 23.8
+  - name: DUTTON
+    distance_km: 23.93
+- country: US
+  region: MT
+  name: Niarada
+  lat: '47.8309'
+  long: "-114.5578"
+  nearby_rate_centers:
+  - name: ELMO
+    distance_km: 15.86
+  - name: HOTSPRINGS
+    distance_km: 25.86
+  - name: MARION
+    distance_km: 31.15
+- country: US
+  region: MT
+  name: Nibbe
+  lat: '45.9819'
+  long: "-108.0272"
+  nearby_rate_centers:
+  - name: POMPESPLLR
+    distance_km: 5.51
+  - name: WORDEN
+    distance_km: 10.63
+  - name: HUNTLEY
+    distance_km: 23.04
+- country: US
+  region: MT
+  name: Norris
+  lat: '45.5731'
+  long: "-111.6913"
+  nearby_rate_centers:
+  - name: HARRISON
+    distance_km: 15.72
+  - name: ENNIS
+    distance_km: 25.17
+  - name: VIRGINIACY
+    distance_km: 36.79
+- country: US
+  region: MT
+  name: North Browning
+  lat: '48.5706'
+  long: "-113.0267"
+  nearby_rate_centers:
+  - name: BROWNING
+    distance_km: 1.3
+  - name: EGLACIERPK
+    distance_km: 19.11
+  - name: ST MARY
+    distance_km: 34.98
+- country: US
+  region: MT
+  name: North Harlem Colony
+  lat: '48.5844'
+  long: "-108.7556"
+  nearby_rate_centers:
+  - name: HARLEM
+    distance_km: 5.83
+  - name: CHINOOK
+    distance_km: 34.54
+  - name: TURNER
+    distance_km: 38.58
+- country: US
+  region: MT
+  name: Noxon
+  lat: '47.9850'
+  long: "-115.7707"
+  nearby_rate_centers:
+  - name: NOXON
+    distance_km: 0.91
+  - name: LIBBY
+    distance_km: 47.41
+  - name: TROY
+    distance_km: 53.44
+- country: US
+  region: MT
+  name: Nye
+  lat: '45.4340'
+  long: "-109.8069"
+  nearby_rate_centers:
+  - name: ABSAROKEE
+    distance_km: 29.34
+  - name: REEDPOINT
+    distance_km: 36.93
+  - name: BIG TIMBER
+    distance_km: 45.86
+- country: US
+  region: MT
+  name: Old Agency
+  lat: '47.3226'
+  long: "-114.2987"
+  nearby_rate_centers:
+  - name: DIXON
+    distance_km: 2.07
+  - name: STIGNATIUS
+    distance_km: 15.78
+  - name: CHARLO
+    distance_km: 16.52
+- country: US
+  region: MT
+  name: Olney
+  lat: '48.5489'
+  long: "-114.5721"
+  nearby_rate_centers:
+  - name: OLNEY
+    distance_km: 0.44
+  - name: WHITEFISH
+    distance_km: 23.26
+  - name: COLUMBIFLS
+    distance_km: 35.23
+- country: US
+  region: MT
+  name: Opheim
+  lat: '48.8571'
+  long: "-106.4084"
+  nearby_rate_centers:
+  - name: OPHEIM
+    distance_km: 0.67
+  - name: GLENTANA
+    distance_km: 14.04
+  - name: LARSLAN
+    distance_km: 34.36
+- country: US
+  region: MT
+  name: Orchard Homes
+  lat: '46.8559'
+  long: "-114.0778"
+  nearby_rate_centers:
+  - name: MISSOULA
+    distance_km: 5.93
+  - name: FRENCHTOWN
+    distance_km: 21.0
+  - name: CLINTON
+    distance_km: 29.62
+- country: US
+  region: MT
+  name: Outlook
+  lat: '48.8888'
+  long: "-104.7849"
+  nearby_rate_centers:
+  - name: OUTLOOK
+    distance_km: 0.48
+  - name: PLENTYWOOD
+    distance_km: 21.41
+  - name: FLAXVILLE
+    distance_km: 30.21
+- country: US
+  region: MT
+  name: Ovando
+  lat: '47.0207'
+  long: "-113.1717"
+  nearby_rate_centers:
+  - name: OVANDO
+    distance_km: 3.57
+  - name: SEELEYLAKE
+    distance_km: 31.8
+  - name: POTOMAC
+    distance_km: 34.28
+- country: US
+  region: MT
+  name: Pablo
+  lat: '47.6035'
+  long: "-114.1059"
+  nearby_rate_centers:
+  - name: PABLO
+    distance_km: 0.91
+  - name: RONAN
+    distance_km: 8.64
+  - name: POLSON
+    distance_km: 10.74
+- country: US
+  region: MT
+  name: Paradise
+  lat: '47.3857'
+  long: "-114.7989"
+  nearby_rate_centers:
+  - name: PLAINS
+    distance_km: 10.41
+  - name: SUPERIOR
+    distance_km: 21.8
+  - name: ST REGIS
+    distance_km: 24.27
+- country: US
+  region: MT
+  name: Park City
+  lat: '45.6310'
+  long: "-108.9253"
+  nearby_rate_centers:
+  - name: LAUREL
+    distance_km: 13.11
+  - name: JOLIET
+    distance_km: 16.71
+  - name: COLUMBUS
+    distance_km: 25.85
+- country: US
+  region: MT
+  name: Parker School
+  lat: '48.2468'
+  long: "-109.7341"
+  nearby_rate_centers:
+  - name: SOUTHHAVRE
+    distance_km: 19.92
+  - name: BOX ELDER
+    distance_km: 22.53
+  - name: BIG SANDY
+    distance_km: 28.87
+- country: US
+  region: MT
+  name: Peerless
+  lat: '48.7822'
+  long: "-105.8304"
+  nearby_rate_centers:
+  - name: PEERLESS
+    distance_km: 1.01
+  - name: SCOBEYRURL
+    distance_km: 26.89
+  - name: SCOBEY
+    distance_km: 29.88
+- country: US
+  region: MT
+  name: Pendroy
+  lat: '48.0730'
+  long: "-112.2992"
+  nearby_rate_centers:
+  - name: PENDROY
+    distance_km: 0.53
+  - name: DUPUYER
+    distance_km: 19.93
+  - name: VALIER
+    distance_km: 26.47
+- country: US
+  region: MT
+  name: Philipsburg
+  lat: '46.3324'
+  long: "-113.2960"
+  nearby_rate_centers:
+  - name: PHILIPSBG
+    distance_km: 1.34
+  - name: ANACONDA
+    distance_km: 35.32
+  - name: DRUMMOND
+    distance_km: 39.18
+- country: US
+  region: MT
+  name: Piltzville
+  lat: '46.8582'
+  long: "-113.8591"
+  nearby_rate_centers:
+  - name: MISSOULA
+    distance_km: 10.92
+  - name: CLINTON
+    distance_km: 14.82
+  - name: POTOMAC
+    distance_km: 21.68
+- country: US
+  region: MT
+  name: Pine Creek
+  lat: '45.5078'
+  long: "-110.5724"
+  nearby_rate_centers:
+  - name: LIVINGSTON
+    distance_km: 17.53
+  - name: BOZEMAN
+    distance_km: 40.87
+  - name: CLYDE PARK
+    distance_km: 42.93
+- country: US
+  region: MT
+  name: Pinesdale
+  lat: '46.3339'
+  long: "-114.2232"
+  nearby_rate_centers:
+  - name: VICTOR
+    distance_km: 10.79
+  - name: HAMILTON
+    distance_km: 11.58
+  - name: STEVENSVL
+    distance_km: 21.71
+- country: US
+  region: MT
+  name: Pinnacle
+  lat: '48.3555'
+  long: "-113.6484"
+  nearby_rate_centers:
+  - name: W GLACIER
+    distance_km: 28.62
+  - name: HUNGRYHORS
+    distance_km: 29.56
+  - name: EGLACIERPK
+    distance_km: 33.97
+- country: US
+  region: MT
+  name: Pioneer Junction
+  lat: '48.3157'
+  long: "-115.5182"
+  nearby_rate_centers:
+  - name: LIBBY
+    distance_km: 8.19
+  - name: TROY
+    distance_km: 31.82
+  - name: NOXON
+    distance_km: 41.19
+- country: US
+  region: MT
+  name: Plains
+  lat: '47.4602'
+  long: "-114.8842"
+  nearby_rate_centers:
+  - name: PLAINS
+    distance_km: 0.21
+  - name: HOTSPRINGS
+    distance_km: 23.69
+  - name: ST REGIS
+    distance_km: 24.27
+- country: US
+  region: MT
+  name: Pleasant Valley Colony
+  lat: '47.3379'
+  long: "-111.0449"
+  nearby_rate_centers:
+  - name: STOCKETT
+    distance_km: 9.34
+  - name: BELT
+    distance_km: 10.45
+  - name: RAYNESFORD
+    distance_km: 24.32
+- country: US
+  region: MT
+  name: Plentywood
+  lat: '48.7760'
+  long: "-104.5574"
+  nearby_rate_centers:
+  - name: PLENTYWOOD
+    distance_km: 0.57
+  - name: RESERVE
+    distance_km: 20.62
+  - name: OUTLOOK
+    distance_km: 20.76
+- country: US
+  region: MT
+  name: Plevna
+  lat: '46.4184'
+  long: "-104.5186"
+  nearby_rate_centers:
+  - name: PLEVNA
+    distance_km: 1.17
+  - name: BAKER
+    distance_km: 20.09
+  - name: CARLYLE
+    distance_km: 33.09
+- country: US
+  region: MT
+  name: Polebridge
+  lat: '48.7622'
+  long: "-114.2818"
+  nearby_rate_centers:
+  - name: OLNEY
+    distance_km: 32.06
+  - name: W GLACIER
+    distance_km: 37.41
+  - name: WHITEFISH
+    distance_km: 39.78
+- country: US
+  region: MT
+  name: Polson
+  lat: '47.6886'
+  long: "-114.1411"
+  nearby_rate_centers:
+  - name: POLSON
+    distance_km: 1.54
+  - name: FINLEY PT
+    distance_km: 8.82
+  - name: PABLO
+    distance_km: 10.16
+- country: US
+  region: MT
+  name: Pompeys Pillar
+  lat: '45.9906'
+  long: "-107.9504"
+  nearby_rate_centers:
+  - name: POMPESPLLR
+    distance_km: 0.54
+  - name: WORDEN
+    distance_km: 16.62
+  - name: HUNTLEY
+    distance_km: 28.92
+- country: US
+  region: MT
+  name: Pondera Colony
+  lat: '48.2399'
+  long: "-112.4181"
+  nearby_rate_centers:
+  - name: DUPUYER
+    distance_km: 7.94
+  - name: VALIER
+    distance_km: 14.69
+  - name: PENDROY
+    distance_km: 20.02
+- country: US
+  region: MT
+  name: Ponderosa Pines
+  lat: '46.0374'
+  long: "-111.3500"
+  nearby_rate_centers:
+  - name: MANHATTAN
+    distance_km: 20.14
+  - name: THREEFORKS
+    distance_km: 22.65
+  - name: BELGRADE
+    distance_km: 31.99
+- country: US
+  region: MT
+  name: Pony
+  lat: '45.6628'
+  long: "-111.8826"
+  nearby_rate_centers:
+  - name: HARRISON
+    distance_km: 8.73
+  - name: WHITEHALL
+    distance_km: 27.72
+  - name: SHERIDAN
+    distance_km: 33.65
+- country: US
+  region: MT
+  name: Poplar
+  lat: '48.1105'
+  long: "-105.1969"
+  nearby_rate_centers:
+  - name: POPLAR
+    distance_km: 0.18
+  - name: BROCKTON
+    distance_km: 21.16
+  - name: SO WOLF PT
+    distance_km: 24.21
+- country: US
+  region: MT
+  name: Potomac
+  lat: '46.8813'
+  long: "-113.5751"
+  nearby_rate_centers:
+  - name: POTOMAC
+    distance_km: 0.3
+  - name: CLINTON
+    distance_km: 15.51
+  - name: MISSOULA
+    distance_km: 32.48
+- country: US
+  region: MT
+  name: Power
+  lat: '47.7203'
+  long: "-111.6944"
+  nearby_rate_centers:
+  - name: POWER
+    distance_km: 0.86
+  - name: DUTTON
+    distance_km: 14.55
+  - name: FAIRFIELD
+    distance_km: 24.61
+- country: US
+  region: MT
+  name: Prairie Elk Colony
+  lat: '48.0147'
+  long: "-105.7981"
+  nearby_rate_centers:
+  - name: WOLF POINT
+    distance_km: 14.42
+  - name: FRAZER
+    distance_km: 19.02
+  - name: SO WOLF PT
+    distance_km: 25.22
+- country: US
+  region: MT
+  name: Pray
+  lat: '45.4150'
+  long: "-110.6533"
+  nearby_rate_centers:
+  - name: LIVINGSTON
+    distance_km: 28.75
+  - name: GARDINER
+    distance_km: 41.51
+  - name: BOZEMAN
+    distance_km: 41.76
+- country: US
+  region: MT
+  name: Pryor
+  lat: '45.4125'
+  long: "-108.5291"
+  nearby_rate_centers:
+  - name: FROMBERG
+    distance_km: 30.19
+  - name: BRIDGER
+    distance_km: 33.12
+  - name: LAUREL
+    distance_km: 33.62
+- country: US
+  region: MT
+  name: Racetrack
+  lat: '46.2770'
+  long: "-112.7436"
+  nearby_rate_centers:
+  - name: WARM SPG
+    distance_km: 11.77
+  - name: DEER LODGE
+    distance_km: 12.92
+  - name: ANACONDA
+    distance_km: 23.28
+- country: US
+  region: MT
+  name: Rader Creek
+  lat: '45.8456'
+  long: "-112.3161"
+  nearby_rate_centers:
+  - name: WHITEHALL
+    distance_km: 17.72
+  - name: BUTTE
+    distance_km: 22.83
+  - name: TWINBRIDGS
+    distance_km: 34.04
+- country: US
+  region: MT
+  name: Radersburg
+  lat: '46.1965'
+  long: "-111.6316"
+  nearby_rate_centers:
+  - name: TOWNSEND
+    distance_km: 15.95
+  - name: THREEFORKS
+    distance_km: 34.66
+  - name: BOULDER
+    distance_km: 37.52
+- country: US
+  region: MT
+  name: Rapelje
+  lat: '45.9720'
+  long: "-109.2579"
+  nearby_rate_centers:
+  - name: RAPELJE
+    distance_km: 0.8
+  - name: MOLT
+    distance_km: 27.91
+  - name: BROADVIEW
+    distance_km: 32.17
+- country: US
+  region: MT
+  name: Ravalli
+  lat: '47.2799'
+  long: "-114.1658"
+  nearby_rate_centers:
+  - name: STIGNATIUS
+    distance_km: 7.7
+  - name: DIXON
+    distance_km: 11.53
+  - name: ARLEE
+    distance_km: 14.07
+- country: US
+  region: MT
+  name: Raynesford
+  lat: '47.2701'
+  long: "-110.7320"
+  nearby_rate_centers:
+  - name: RAYNESFORD
+    distance_km: 0.57
+  - name: GEYSER
+    distance_km: 17.7
+  - name: BELT
+    distance_km: 19.07
+- country: US
+  region: MT
+  name: Red Lodge
+  lat: '45.1933'
+  long: "-109.2501"
+  nearby_rate_centers:
+  - name: RED LODGE
+    distance_km: 1.19
+  - name: BELFRY
+    distance_km: 19.97
+  - name: BRIDGER
+    distance_km: 28.33
+- country: US
+  region: MT
+  name: Redstone
+  lat: '48.8217'
+  long: "-104.9432"
+  nearby_rate_centers:
+  - name: OUTLOOK
+    distance_km: 14.25
+  - name: FLAXVILLE
+    distance_km: 17.31
+  - name: FLAXVLRURL
+    distance_km: 19.18
+- country: US
+  region: MT
+  name: Reed Point
+  lat: '45.7071'
+  long: "-109.5471"
+  nearby_rate_centers:
+  - name: REEDPOINT
+    distance_km: 0.45
+  - name: ABSAROKEE
+    distance_km: 22.73
+  - name: COLUMBUS
+    distance_km: 23.62
+- country: US
+  region: MT
+  name: Reserve
+  lat: '48.6024'
+  long: "-104.4677"
+  nearby_rate_centers:
+  - name: RESERVE
+    distance_km: 0.49
+  - name: MEDICINELK
+    distance_km: 11.72
+  - name: PLENTYWOOD
+    distance_km: 20.0
+- country: US
+  region: MT
+  name: Rexford
+  lat: '48.8998'
+  long: "-115.1714"
+  nearby_rate_centers:
+  - name: EUREKA
+    distance_km: 8.97
+  - name: EUREKARURL
+    distance_km: 12.12
+  - name: OLNEY
+    distance_km: 58.37
+- country: US
+  region: MT
+  name: Rhodes
+  lat: '48.2793'
+  long: "-114.4736"
+  nearby_rate_centers:
+  - name: KALISPELL
+    distance_km: 14.65
+  - name: WHITEFISH
+    distance_km: 17.22
+  - name: COLUMBIFLS
+    distance_km: 24.42
+- country: US
+  region: MT
+  name: Riceville
+  lat: '47.2202'
+  long: "-110.9262"
+  nearby_rate_centers:
+  - name: RAYNESFORD
+    distance_km: 15.56
+  - name: BELT
+    distance_km: 18.06
+  - name: STOCKETT
+    distance_km: 23.66
+- country: US
+  region: MT
+  name: Richey
+  lat: '47.6439'
+  long: "-105.0696"
+  nearby_rate_centers:
+  - name: RICHEY
+    distance_km: 0.27
+  - name: BLOOMFIELD
+    distance_km: 26.86
+  - name: LAMBERT
+    distance_km: 33.59
+- country: US
+  region: MT
+  name: Rimini
+  lat: '46.4919'
+  long: "-112.2496"
+  nearby_rate_centers:
+  - name: HELENA
+    distance_km: 21.17
+  - name: AVON
+    distance_km: 29.41
+  - name: BOULDER
+    distance_km: 29.84
+- country: US
+  region: MT
+  name: Rimrock Colony
+  lat: '48.8954'
+  long: "-112.0952"
+  nearby_rate_centers:
+  - name: SUNBURST
+    distance_km: 13.64
+  - name: SWEETGRASS
+    distance_km: 14.55
+  - name: KEVINOLMNT
+    distance_km: 19.8
+- country: US
+  region: MT
+  name: Riverbend
+  lat: '47.1472'
+  long: "-114.8319"
+  nearby_rate_centers:
+  - name: SUPERIOR
+    distance_km: 7.09
+  - name: ST REGIS
+    distance_km: 25.28
+  - name: ALBERTON
+    distance_km: 30.81
+- country: US
+  region: MT
+  name: Riverview Colony
+  lat: '48.1823'
+  long: "-111.0327"
+  nearby_rate_centers:
+  - name: SO CHESTER
+    distance_km: 12.06
+  - name: EASTCONRAD
+    distance_km: 34.04
+  - name: CHESTER
+    distance_km: 36.45
+- country: US
+  region: MT
+  name: Roberts
+  lat: '45.3437'
+  long: "-109.1817"
+  nearby_rate_centers:
+  - name: RED LODGE
+    distance_km: 18.74
+  - name: FROMBERG
+    distance_km: 21.49
+  - name: BRIDGER
+    distance_km: 21.69
+- country: US
+  region: MT
+  name: Rockport Colony
+  lat: '48.0673'
+  long: "-112.4761"
+  nearby_rate_centers:
+  - name: PENDROY
+    distance_km: 12.99
+  - name: DUPUYER
+    distance_km: 14.07
+  - name: VALIER
+    distance_km: 31.69
+- country: US
+  region: MT
+  name: Rockvale
+  lat: '45.5187'
+  long: "-108.8713"
+  nearby_rate_centers:
+  - name: JOLIET
+    distance_km: 8.53
+  - name: FROMBERG
+    distance_km: 14.81
+  - name: LAUREL
+    distance_km: 18.38
+- country: US
+  region: MT
+  name: Rocky Boy West
+  lat: '48.2972'
+  long: "-109.9918"
+  nearby_rate_centers:
+  - name: BOX ELDER
+    distance_km: 3.04
+  - name: BIG SANDY
+    distance_km: 16.04
+  - name: SOUTHHAVRE
+    distance_km: 24.94
+- country: US
+  region: MT
+  name: Rocky Boy's Agency
+  lat: '48.2590'
+  long: "-109.7648"
+  nearby_rate_centers:
+  - name: SOUTHHAVRE
+    distance_km: 18.88
+  - name: BOX ELDER
+    distance_km: 19.93
+  - name: BIG SANDY
+    distance_km: 27.12
+- country: US
+  region: MT
+  name: Rocky Point
+  lat: '47.7323'
+  long: "-114.1855"
+  nearby_rate_centers:
+  - name: POLSON
+    distance_km: 4.78
+  - name: FINLEY PT
+    distance_km: 11.25
+  - name: PABLO
+    distance_km: 15.73
+- country: US
+  region: MT
+  name: Rollins
+  lat: '47.9106'
+  long: "-114.1948"
+  nearby_rate_centers:
+  - name: LAKESIDE
+    distance_km: 11.79
+  - name: YELLOW BAY
+    distance_km: 12.42
+  - name: ELMO
+    distance_km: 13.98
+- country: US
+  region: MT
+  name: Ronan
+  lat: '47.5287'
+  long: "-114.1005"
+  nearby_rate_centers:
+  - name: RONAN
+    distance_km: 0.62
+  - name: PABLO
+    distance_km: 7.88
+  - name: CHARLO
+    distance_km: 10.88
+- country: US
+  region: MT
+  name: Roscoe
+  lat: '45.3517'
+  long: "-109.4932"
+  nearby_rate_centers:
+  - name: ABSAROKEE
+    distance_km: 18.45
+  - name: RED LODGE
+    distance_km: 26.59
+  - name: COLUMBUS
+    distance_km: 37.22
+- country: US
+  region: MT
+  name: Rosebud
+  lat: '46.2711'
+  long: "-106.4468"
+  nearby_rate_centers:
+  - name: ROSEBUD
+    distance_km: 1.21
+  - name: FORSYTH
+    distance_km: 15.76
+  - name: COLSTRIP
+    distance_km: 44.12
+- country: US
+  region: MT
+  name: Roundup
+  lat: '46.4484'
+  long: "-108.5401"
+  nearby_rate_centers:
+  - name: ROUNDUP
+    distance_km: 0.42
+  - name: LAVINA
+    distance_km: 35.1
+  - name: MUSSELSHLL
+    distance_km: 35.66
+- country: US
+  region: MT
+  name: Roy
+  lat: '47.3343'
+  long: "-108.9600"
+  nearby_rate_centers:
+  - name: ROY
+    distance_km: 0.08
+  - name: GRASSRANGE
+    distance_km: 36.44
+  - name: WINIFRED
+    distance_km: 39.91
+- country: US
+  region: MT
+  name: Rudyard
+  lat: '48.5599'
+  long: "-110.5500"
+  nearby_rate_centers:
+  - name: RUDYARD
+    distance_km: 0.32
+  - name: HINGHAM
+    distance_km: 9.1
+  - name: JOPLIN
+    distance_km: 16.38
+- country: US
+  region: MT
+  name: Ryegate
+  lat: '46.2985'
+  long: "-109.2538"
+  nearby_rate_centers:
+  - name: RYEGATE
+    distance_km: 0.27
+  - name: LAVINA
+    distance_km: 23.86
+  - name: NO RYEGATE
+    distance_km: 24.6
+- country: US
+  region: MT
+  name: Saco
+  lat: '48.4571'
+  long: "-107.3414"
+  nearby_rate_centers:
+  - name: SACO
+    distance_km: 0.25
+  - name: HINSDALE
+    distance_km: 20.31
+  - name: NOHINSDALE
+    distance_km: 20.58
+- country: US
+  region: MT
+  name: Saddle Butte
+  lat: '48.5235'
+  long: "-109.6449"
+  nearby_rate_centers:
+  - name: HAVRE
+    distance_km: 3.29
+  - name: SOUTHHAVRE
+    distance_km: 12.05
+  - name: NORTHHAVRE
+    distance_km: 31.05
+- country: US
+  region: MT
+  name: Sage Creek Colony
+  lat: '48.9288'
+  long: "-110.9723"
+  nearby_rate_centers:
+  - name: JOPLIN
+    distance_km: 43.69
+  - name: CHESTER
+    distance_km: 46.9
+  - name: RUDYARD
+    distance_km: 51.71
+- country: US
+  region: MT
+  name: Saint Mary
+  lat: '48.7428'
+  long: "-113.4275"
+  nearby_rate_centers:
+  - name: ST MARY
+    distance_km: 0.14
+  - name: EGLACIERPK
+    distance_km: 36.33
+  - name: BROWNING
+    distance_km: 36.34
+- country: US
+  region: MT
+  name: Saltese
+  lat: '47.4115'
+  long: "-115.5120"
+  nearby_rate_centers:
+  - name: HAUGAN
+    distance_km: 8.75
+  - name: THOMPSNFLS
+    distance_km: 24.49
+  - name: ST REGIS
+    distance_km: 34.47
+- country: US
+  region: MT
+  name: Sand Coulee
+  lat: '47.4024'
+  long: "-111.1726"
+  nearby_rate_centers:
+  - name: STOCKETT
+    distance_km: 4.98
+  - name: GREATFALLS
+    distance_km: 14.76
+  - name: BELT
+    distance_km: 18.93
+- country: US
+  region: MT
+  name: Sangrey
+  lat: '48.2817'
+  long: "-109.8167"
+  nearby_rate_centers:
+  - name: BOX ELDER
+    distance_km: 15.52
+  - name: SOUTHHAVRE
+    distance_km: 17.67
+  - name: BIG SANDY
+    distance_km: 24.64
+- country: US
+  region: MT
+  name: Santa Rita
+  lat: '48.6984'
+  long: "-112.3188"
+  nearby_rate_centers:
+  - name: NOCUT BANK
+    distance_km: 4.94
+  - name: CUT BANK
+    distance_km: 7.31
+  - name: ETHRIDGE
+    distance_km: 21.03
+- country: US
+  region: MT
+  name: Sapphire Ridge
+  lat: '46.8866'
+  long: "-110.2522"
+  nearby_rate_centers:
+  - name: STANFORD
+    distance_km: 29.58
+  - name: HOBSON
+    distance_km: 31.46
+  - name: NEIHART
+    distance_km: 42.52
+- country: US
+  region: MT
+  name: Savage
+  lat: '47.4536'
+  long: "-104.3414"
+  nearby_rate_centers:
+  - name: SAVAGE
+    distance_km: 0.74
+  - name: WSQUAW GAP
+    distance_km: 22.87
+  - name: WESTSIDNEY
+    distance_km: 24.51
+- country: US
+  region: MT
+  name: Scobey
+  lat: '48.7904'
+  long: "-105.4206"
+  nearby_rate_centers:
+  - name: SCOBEY
+    distance_km: 0.22
+  - name: SCOBEYRURL
+    distance_km: 3.93
+  - name: FLAXVILLE
+    distance_km: 17.83
+- country: US
+  region: MT
+  name: Sedan
+  lat: '45.9653'
+  long: "-110.8888"
+  nearby_rate_centers:
+  - name: WILSALL
+    distance_km: 18.49
+  - name: CLYDE PARK
+    distance_km: 23.56
+  - name: BELGRADE
+    distance_km: 30.64
+- country: US
+  region: MT
+  name: Seeley Lake
+  lat: '47.1624'
+  long: "-113.4547"
+  nearby_rate_centers:
+  - name: SEELEYLAKE
+    distance_km: 5.21
+  - name: OVANDO
+    distance_km: 29.8
+  - name: POTOMAC
+    distance_km: 32.31
+- country: US
+  region: MT
+  name: Seville Colony
+  lat: '48.7058'
+  long: "-112.5929"
+  nearby_rate_centers:
+  - name: NOCUT BANK
+    distance_km: 16.97
+  - name: CUT BANK
+    distance_km: 20.46
+  - name: BROWNING
+    distance_km: 34.22
+- country: US
+  region: MT
+  name: Shawmut
+  lat: '46.3447'
+  long: "-109.5123"
+  nearby_rate_centers:
+  - name: RYEGATE
+    distance_km: 20.29
+  - name: HARLOWTON
+    distance_km: 27.03
+  - name: NO RYEGATE
+    distance_km: 35.88
+- country: US
+  region: MT
+  name: Shelby
+  lat: '48.5031'
+  long: "-111.8614"
+  nearby_rate_centers:
+  - name: SHELBY
+    distance_km: 0.54
+  - name: ETHRIDGE
+    distance_km: 20.45
+  - name: KEVINOLMNT
+    distance_km: 27.47
+- country: US
+  region: MT
+  name: Shepherd
+  lat: '45.9468'
+  long: "-108.3462"
+  nearby_rate_centers:
+  - name: HUNTLEY
+    distance_km: 6.05
+  - name: WORDEN
+    distance_km: 14.44
+  - name: BILLINGS
+    distance_km: 22.66
+- country: US
+  region: MT
+  name: Sheridan
+  lat: '45.4588'
+  long: "-112.1946"
+  nearby_rate_centers:
+  - name: SHERIDAN
+    distance_km: 1.08
+  - name: TWINBRIDGS
+    distance_km: 13.48
+  - name: VIRGINIACY
+    distance_km: 27.52
+- country: US
+  region: MT
+  name: Sidney
+  lat: '47.7152'
+  long: "-104.1679"
+  nearby_rate_centers:
+  - name: SIDNEY
+    distance_km: 1.37
+  - name: WESTSIDNEY
+    distance_km: 14.52
+  - name: FAIRVIEW
+    distance_km: 17.8
+- country: US
+  region: MT
+  name: Silesia
+  lat: '45.5560'
+  long: "-108.8368"
+  nearby_rate_centers:
+  - name: JOLIET
+    distance_km: 13.04
+  - name: LAUREL
+    distance_km: 13.48
+  - name: FROMBERG
+    distance_km: 19.53
+- country: US
+  region: MT
+  name: Silver Gate
+  lat: '45.0198'
+  long: "-109.9829"
+  nearby_rate_centers:
+  - name: COOKE CITY
+    distance_km: 4.04
+  - name: GARDINER
+    distance_km: 57.16
+  - name: RED LODGE
+    distance_km: 60.11
+- country: US
+  region: MT
+  name: Silver Star
+  lat: '45.6875'
+  long: "-112.2850"
+  nearby_rate_centers:
+  - name: TWINBRIDGS
+    distance_km: 16.72
+  - name: WHITEHALL
+    distance_km: 25.01
+  - name: SHERIDAN
+    distance_km: 27.46
+- country: US
+  region: MT
+  name: Simms
+  lat: '47.4931'
+  long: "-111.9474"
+  nearby_rate_centers:
+  - name: FORT SHAW
+    distance_km: 9.97
+  - name: FAIRFIELD
+    distance_km: 14.08
+  - name: CASCADE
+    distance_km: 30.43
+- country: US
+  region: MT
+  name: Sleeping Buffalo
+  lat: '48.4830'
+  long: "-107.5319"
+  nearby_rate_centers:
+  - name: SACO
+    distance_km: 14.28
+  - name: MALTA
+    distance_km: 29.02
+  - name: WHITEWATER
+    distance_km: 32.59
+- country: US
+  region: MT
+  name: Snowslip
+  lat: '48.2648'
+  long: "-113.4460"
+  nearby_rate_centers:
+  - name: EGLACIERPK
+    distance_km: 26.9
+  - name: HUNGRYHORS
+    distance_km: 46.34
+  - name: BROWNING
+    distance_km: 46.64
+- country: US
+  region: MT
+  name: Somers
+  lat: '48.0824'
+  long: "-114.2344"
+  nearby_rate_centers:
+  - name: SOMERS
+    distance_km: 0.48
+  - name: LAKESIDE
+    distance_km: 7.55
+  - name: BIGFORK
+    distance_km: 11.68
+- country: US
+  region: MT
+  name: South Browning
+  lat: '48.5459'
+  long: "-113.0127"
+  nearby_rate_centers:
+  - name: BROWNING
+    distance_km: 2.48
+  - name: EGLACIERPK
+    distance_km: 18.1
+  - name: ST MARY
+    distance_km: 37.39
+- country: US
+  region: MT
+  name: South Glastonbury
+  lat: '45.3121'
+  long: "-110.8076"
+  nearby_rate_centers:
+  - name: GARDINER
+    distance_km: 30.81
+  - name: BIG SKY
+    distance_km: 38.2
+  - name: GALATNGTWY
+    distance_km: 43.61
+- country: US
+  region: MT
+  name: South Hills
+  lat: '46.5564'
+  long: "-111.9975"
+  nearby_rate_centers:
+  - name: HELENA
+    distance_km: 5.4
+  - name: CANYON CRK
+    distance_km: 34.29
+  - name: BOULDER
+    distance_km: 36.32
+- country: US
+  region: MT
+  name: Spokane Creek
+  lat: '46.5343'
+  long: "-111.7391"
+  nearby_rate_centers:
+  - name: HELENA
+    distance_km: 22.98
+  - name: TOWNSEND
+    distance_km: 29.56
+  - name: BOULDER
+    distance_km: 43.62
+- country: US
+  region: MT
+  name: Spring Creek Colony
+  lat: '47.1540'
+  long: "-109.6207"
+  nearby_rate_centers:
+  - name: LEWISTOWN
+    distance_km: 17.7
+  - name: MOORE
+    distance_km: 20.84
+  - name: HOBSON
+    distance_km: 25.53
+- country: US
+  region: MT
+  name: Springdale
+  lat: '45.7381'
+  long: "-110.2236"
+  nearby_rate_centers:
+  - name: BIG TIMBER
+    distance_km: 23.94
+  - name: LIVINGSTON
+    distance_km: 27.38
+  - name: CLYDE PARK
+    distance_km: 34.05
+- country: US
+  region: MT
+  name: Springdale Colony
+  lat: '46.4618'
+  long: "-111.0192"
+  nearby_rate_centers:
+  - name: WHSLPHRSPG
+    distance_km: 12.75
+  - name: TOWNSEND
+    distance_km: 41.53
+  - name: MARTINSDL
+    distance_km: 53.74
+- country: US
+  region: MT
+  name: Springhill
+  lat: '45.8788'
+  long: "-111.0773"
+  nearby_rate_centers:
+  - name: BELGRADE
+    distance_km: 13.76
+  - name: MANHATTAN
+    distance_km: 19.99
+  - name: BOZEMAN
+    distance_km: 22.83
+- country: US
+  region: MT
+  name: Springwater Colony
+  lat: '46.4569'
+  long: "-109.7532"
+  nearby_rate_centers:
+  - name: HARLOWTON
+    distance_km: 6.37
+  - name: JUDITH GAP
+    distance_km: 24.43
+  - name: RYEGATE
+    distance_km: 41.92
+- country: US
+  region: MT
+  name: Square Butte
+  lat: '47.5147'
+  long: "-110.1991"
+  nearby_rate_centers:
+  - name: GERALDINE
+    distance_km: 10.81
+  - name: DENTON
+    distance_km: 28.99
+  - name: GEYSER
+    distance_km: 35.63
+- country: US
+  region: MT
+  name: St. Ignatius
+  lat: '47.3187'
+  long: "-114.0956"
+  nearby_rate_centers:
+  - name: STIGNATIUS
+    distance_km: 0.92
+  - name: CHARLO
+    distance_km: 14.86
+  - name: DIXON
+    distance_km: 16.47
+- country: US
+  region: MT
+  name: St. Marie
+  lat: '48.4053'
+  long: "-106.4986"
+  nearby_rate_centers:
+  - name: VLINSTRLPK
+    distance_km: 3.83
+  - name: NO GLASGOW
+    distance_km: 19.46
+  - name: GLASGOW
+    distance_km: 25.67
+- country: US
+  region: MT
+  name: St. Pierre
+  lat: '48.2439'
+  long: "-109.8161"
+  nearby_rate_centers:
+  - name: BOX ELDER
+    distance_km: 17.13
+  - name: SOUTHHAVRE
+    distance_km: 21.54
+  - name: BIG SANDY
+    distance_km: 22.98
+- country: US
+  region: MT
+  name: St. Regis
+  lat: '47.3016'
+  long: "-115.1015"
+  nearby_rate_centers:
+  - name: ST REGIS
+    distance_km: 1.38
+  - name: SUPERIOR
+    distance_km: 19.83
+  - name: PLAINS
+    distance_km: 23.85
+- country: US
+  region: MT
+  name: St. Xavier
+  lat: '45.4570'
+  long: "-107.7250"
+  nearby_rate_centers:
+  - name: FORT SMITH
+    distance_km: 22.22
+  - name: HARDIN
+    distance_km: 32.49
+  - name: LODGEGRASS
+    distance_km: 33.1
+- country: US
+  region: MT
+  name: Stanford
+  lat: '47.1521'
+  long: "-110.2190"
+  nearby_rate_centers:
+  - name: STANFORD
+    distance_km: 0.14
+  - name: GEYSER
+    distance_km: 24.55
+  - name: DENTON
+    distance_km: 27.38
+- country: US
+  region: MT
+  name: Starr School
+  lat: '48.5976'
+  long: "-113.1433"
+  nearby_rate_centers:
+  - name: BROWNING
+    distance_km: 10.38
+  - name: EGLACIERPK
+    distance_km: 17.21
+  - name: ST MARY
+    distance_km: 26.25
+- country: US
+  region: MT
+  name: Stevensville
+  lat: '46.5111'
+  long: "-114.0788"
+  nearby_rate_centers:
+  - name: STEVENSVL
+    distance_km: 1.25
+  - name: VICTOR
+    distance_km: 11.82
+  - name: HAMILTON
+    distance_km: 30.61
+- country: US
+  region: MT
+  name: Stockett
+  lat: '47.3542'
+  long: "-111.1697"
+  nearby_rate_centers:
+  - name: STOCKETT
+    distance_km: 0.52
+  - name: BELT
+    distance_km: 18.86
+  - name: GREATFALLS
+    distance_km: 19.41
+- country: US
+  region: MT
+  name: Stryker
+  lat: '48.6727'
+  long: "-114.7676"
+  nearby_rate_centers:
+  - name: OLNEY
+    distance_km: 19.5
+  - name: EUREKARURL
+    distance_km: 28.22
+  - name: EUREKA
+    distance_km: 31.22
+- country: US
+  region: MT
+  name: Sula
+  lat: '45.8453'
+  long: "-113.9629"
+  nearby_rate_centers:
+  - name: DARBY
+    distance_km: 25.93
+  - name: ALTA
+    distance_km: 27.39
+  - name: HAMILTON
+    distance_km: 46.43
+- country: US
+  region: MT
+  name: Sun Prairie
+  lat: '47.5386'
+  long: "-111.4918"
+  nearby_rate_centers:
+  - name: GREATFALLS
+    distance_km: 15.41
+  - name: POWER
+    distance_km: 24.43
+  - name: FORT SHAW
+    distance_km: 24.62
+- country: US
+  region: MT
+  name: Sun River
+  lat: '47.5305'
+  long: "-111.7240"
+  nearby_rate_centers:
+  - name: FORT SHAW
+    distance_km: 7.37
+  - name: POWER
+    distance_km: 20.74
+  - name: FAIRFIELD
+    distance_km: 21.83
+- country: US
+  region: MT
+  name: Sunburst
+  lat: '48.8780'
+  long: "-111.9051"
+  nearby_rate_centers:
+  - name: SUNBURST
+    distance_km: 0.78
+  - name: SWEETGRASS
+    distance_km: 12.9
+  - name: KEVINOLMNT
+    distance_km: 15.68
+- country: US
+  region: MT
+  name: Sunnybrook Colony
+  lat: '48.1573'
+  long: "-110.7270"
+  nearby_rate_centers:
+  - name: SO CHESTER
+    distance_km: 17.47
+  - name: LOMA
+    distance_km: 29.44
+  - name: FORTBENTON
+    distance_km: 37.43
+- country: US
+  region: MT
+  name: Superior
+  lat: '47.1935'
+  long: "-114.8920"
+  nearby_rate_centers:
+  - name: SUPERIOR
+    distance_km: 0.72
+  - name: ST REGIS
+    distance_km: 18.52
+  - name: PLAINS
+    distance_km: 29.48
+- country: US
+  region: MT
+  name: Surprise Creek Colony
+  lat: '47.1706'
+  long: "-110.3397"
+  nearby_rate_centers:
+  - name: STANFORD
+    distance_km: 9.49
+  - name: GEYSER
+    distance_km: 15.95
+  - name: RAYNESFORD
+    distance_km: 32.09
+- country: US
+  region: MT
+  name: Swan Lake
+  lat: '47.9361'
+  long: "-113.7997"
+  nearby_rate_centers:
+  - name: SWAN LAKE
+    distance_km: 2.56
+  - name: YELLOW BAY
+    distance_km: 17.21
+  - name: BIGFORK
+    distance_km: 25.02
+- country: US
+  region: MT
+  name: Sweet Grass
+  lat: '48.9929'
+  long: "-111.9668"
+  nearby_rate_centers:
+  - name: SWEETGRASS
+    distance_km: 0.89
+  - name: SUNBURST
+    distance_km: 12.77
+  - name: KEVINOLMNT
+    distance_km: 27.96
+- country: US
+  region: MT
+  name: Sylvanite
+  lat: '48.7063'
+  long: "-115.8741"
+  nearby_rate_centers:
+  - name: TROY
+    distance_km: 27.55
+  - name: LIBBY
+    distance_km: 42.79
+  - name: EUREKA
+    distance_km: 63.33
+- country: US
+  region: MT
+  name: Terry
+  lat: '46.7921'
+  long: "-105.3125"
+  nearby_rate_centers:
+  - name: TERRY
+    distance_km: 0.14
+  - name: FALLON
+    distance_km: 15.03
+  - name: LINDSAY
+    distance_km: 49.32
+- country: US
+  region: MT
+  name: The Silos
+  lat: '46.3985'
+  long: "-111.5865"
+  nearby_rate_centers:
+  - name: TOWNSEND
+    distance_km: 10.53
+  - name: HELENA
+    distance_km: 40.34
+  - name: BOULDER
+    distance_km: 44.26
+- country: US
+  region: MT
+  name: Thompson Falls
+  lat: '47.5993'
+  long: "-115.3425"
+  nearby_rate_centers:
+  - name: THOMPSNFLS
+    distance_km: 0.22
+  - name: HAUGAN
+    distance_km: 24.45
+  - name: PLAINS
+    distance_km: 37.69
+- country: US
+  region: MT
+  name: Three Forks
+  lat: '45.8899'
+  long: "-111.5525"
+  nearby_rate_centers:
+  - name: THREEFORKS
+    distance_km: 0.05
+  - name: MANHATTAN
+    distance_km: 17.36
+  - name: HARRISON
+    distance_km: 27.74
+- country: US
+  region: MT
+  name: Toston
+  lat: '46.1657'
+  long: "-111.4459"
+  nearby_rate_centers:
+  - name: TOWNSEND
+    distance_km: 17.66
+  - name: THREEFORKS
+    distance_km: 31.76
+  - name: MANHATTAN
+    distance_km: 35.45
+- country: US
+  region: MT
+  name: Townsend
+  lat: '46.3192'
+  long: "-111.5197"
+  nearby_rate_centers:
+  - name: TOWNSEND
+    distance_km: 0.33
+  - name: BOULDER
+    distance_km: 46.6
+  - name: THREEFORKS
+    distance_km: 47.82
+- country: US
+  region: MT
+  name: Tracy
+  lat: '47.4102'
+  long: "-111.1537"
+  nearby_rate_centers:
+  - name: STOCKETT
+    distance_km: 5.89
+  - name: GREATFALLS
+    distance_km: 15.03
+  - name: BELT
+    distance_km: 17.64
+- country: US
+  region: MT
+  name: Trego
+  lat: '48.6558'
+  long: "-114.9290"
+  nearby_rate_centers:
+  - name: EUREKARURL
+    distance_km: 24.43
+  - name: EUREKA
+    distance_km: 26.71
+  - name: OLNEY
+    distance_km: 28.37
+- country: US
+  region: MT
+  name: Trout Creek
+  lat: '47.8331'
+  long: "-115.5837"
+  nearby_rate_centers:
+  - name: NOXON
+    distance_km: 22.76
+  - name: THOMPSNFLS
+    distance_km: 31.83
+  - name: HAUGAN
+    distance_km: 51.81
+- country: US
+  region: MT
+  name: Troy
+  lat: '48.4614'
+  long: "-115.8909"
+  nearby_rate_centers:
+  - name: TROY
+    distance_km: 0.29
+  - name: LIBBY
+    distance_km: 26.35
+  - name: NOXON
+    distance_km: 53.11
+- country: US
+  region: MT
+  name: Turah
+  lat: '46.8397'
+  long: "-113.8250"
+  nearby_rate_centers:
+  - name: CLINTON
+    distance_km: 11.51
+  - name: MISSOULA
+    distance_km: 13.83
+  - name: POTOMAC
+    distance_km: 19.53
+- country: US
+  region: MT
+  name: Turner
+  lat: '48.8469'
+  long: "-108.4006"
+  nearby_rate_centers:
+  - name: TURNER
+    distance_km: 0.99
+  - name: HARLEM
+    distance_km: 44.63
+  - name: DODSON
+    distance_km: 50.75
+- country: US
+  region: MT
+  name: Turner Colony
+  lat: '48.7631'
+  long: "-108.4302"
+  nearby_rate_centers:
+  - name: TURNER
+    distance_km: 9.54
+  - name: HARLEM
+    distance_km: 36.29
+  - name: DODSON
+    distance_km: 42.38
+- country: US
+  region: MT
+  name: Turtle Lake
+  lat: '47.6696'
+  long: "-114.0818"
+  nearby_rate_centers:
+  - name: POLSON
+    distance_km: 6.45
+  - name: FINLEY PT
+    distance_km: 6.95
+  - name: PABLO
+    distance_km: 8.27
+- country: US
+  region: MT
+  name: Twin Bridges
+  lat: '45.5429'
+  long: "-112.3341"
+  nearby_rate_centers:
+  - name: TWINBRIDGS
+    distance_km: 0.89
+  - name: SHERIDAN
+    distance_km: 15.31
+  - name: MELROSE
+    distance_km: 29.02
+- country: US
+  region: MT
+  name: Twin Creeks
+  lat: '46.9106'
+  long: "-113.7267"
+  nearby_rate_centers:
+  - name: POTOMAC
+    distance_km: 11.8
+  - name: CLINTON
+    distance_km: 15.16
+  - name: MISSOULA
+    distance_km: 21.44
+- country: US
+  region: MT
+  name: Twin Hills Colony
+  lat: '48.0168'
+  long: "-111.0698"
+  nearby_rate_centers:
+  - name: CARTER
+    distance_km: 27.4
+  - name: SO CHESTER
+    distance_km: 28.96
+  - name: EASTCONRAD
+    distance_km: 33.13
+- country: US
+  region: MT
+  name: Twodot
+  lat: '46.4224'
+  long: "-110.0725"
+  nearby_rate_centers:
+  - name: HARLOWTON
+    distance_km: 18.42
+  - name: MARTINSDL
+    distance_km: 19.37
+  - name: MELVILLE
+    distance_km: 36.74
+- country: US
+  region: MT
+  name: Ulm
+  lat: '47.4197'
+  long: "-111.5252"
+  nearby_rate_centers:
+  - name: GREATFALLS
+    distance_km: 20.11
+  - name: CASCADE
+    distance_km: 20.65
+  - name: FORT SHAW
+    distance_km: 24.06
+- country: US
+  region: MT
+  name: Unionville
+  lat: '46.5456'
+  long: "-112.0799"
+  nearby_rate_centers:
+  - name: HELENA
+    distance_km: 7.58
+  - name: CANYON CRK
+    distance_km: 31.93
+  - name: BOULDER
+    distance_km: 34.08
+- country: US
+  region: MT
+  name: Utica
+  lat: '46.9678'
+  long: "-110.0935"
+  nearby_rate_centers:
+  - name: HOBSON
+    distance_km: 17.09
+  - name: STANFORD
+    distance_km: 22.48
+  - name: MOORE
+    distance_km: 30.52
+- country: US
+  region: MT
+  name: Valier
+  lat: '48.3056'
+  long: "-112.2522"
+  nearby_rate_centers:
+  - name: VALIER
+    distance_km: 0.43
+  - name: DUPUYER
+    distance_km: 22.15
+  - name: PENDROY
+    distance_km: 25.64
+- country: US
+  region: MT
+  name: Vaughn
+  lat: '47.5523'
+  long: "-111.5608"
+  nearby_rate_centers:
+  - name: FORT SHAW
+    distance_km: 19.81
+  - name: POWER
+    distance_km: 20.39
+  - name: GREATFALLS
+    distance_km: 20.8
+- country: US
+  region: MT
+  name: Victor
+  lat: '46.4161'
+  long: "-114.1492"
+  nearby_rate_centers:
+  - name: VICTOR
+    distance_km: 0.19
+  - name: STEVENSVL
+    distance_km: 11.02
+  - name: HAMILTON
+    distance_km: 19.49
+- country: US
+  region: MT
+  name: Vida
+  lat: '47.8336'
+  long: "-105.4924"
+  nearby_rate_centers:
+  - name: WOLF POINT
+    distance_km: 30.69
+  - name: SO WOLF PT
+    distance_km: 34.57
+  - name: POPLAR
+    distance_km: 37.69
+- country: US
+  region: MT
+  name: Virginia City
+  lat: '45.2962'
+  long: "-111.9369"
+  nearby_rate_centers:
+  - name: VIRGINIACY
+    distance_km: 0.64
+  - name: ENNIS
+    distance_km: 17.42
+  - name: SHERIDAN
+    distance_km: 26.09
+- country: US
+  region: MT
+  name: Walkerville
+  lat: '46.0366'
+  long: "-112.5396"
+  nearby_rate_centers:
+  - name: BUTTE
+    distance_km: 4.75
+  - name: WARM SPG
+    distance_km: 25.05
+  - name: ANACONDA
+    distance_km: 33.09
+- country: US
+  region: MT
+  name: Warm Spring Creek
+  lat: '47.1847'
+  long: "-109.2827"
+  nearby_rate_centers:
+  - name: LEWISTOWN
+    distance_km: 17.03
+  - name: ROY
+    distance_km: 29.53
+  - name: MOORE
+    distance_km: 38.89
+- country: US
+  region: MT
+  name: Weeksville
+  lat: '47.5309'
+  long: "-115.0083"
+  nearby_rate_centers:
+  - name: PLAINS
+    distance_km: 12.22
+  - name: THOMPSNFLS
+    distance_km: 25.98
+  - name: ST REGIS
+    distance_km: 27.26
+- country: US
+  region: MT
+  name: West Glacier
+  lat: '48.4916'
+  long: "-113.9961"
+  nearby_rate_centers:
+  - name: W GLACIER
+    distance_km: 1.48
+  - name: HUNGRYHORS
+    distance_km: 12.38
+  - name: COLUMBIFLS
+    distance_km: 18.66
+- country: US
+  region: MT
+  name: West Glendive
+  lat: '47.1057'
+  long: "-104.7540"
+  nearby_rate_centers:
+  - name: W GLENDIVE
+    distance_km: 1.16
+  - name: GLENDIVE
+    distance_km: 3.53
+  - name: LINDSAY
+    distance_km: 33.38
+- country: US
+  region: MT
+  name: West Havre
+  lat: '48.5471'
+  long: "-109.7310"
+  nearby_rate_centers:
+  - name: HAVRE
+    distance_km: 4.84
+  - name: SOUTHHAVRE
+    distance_km: 13.57
+  - name: KREMLIN
+    distance_km: 25.96
+- country: US
+  region: MT
+  name: West Kootenai
+  lat: '48.9652'
+  long: "-115.2213"
+  nearby_rate_centers:
+  - name: EUREKA
+    distance_km: 15.47
+  - name: EUREKARURL
+    distance_km: 18.66
+  - name: OLNEY
+    distance_km: 65.99
+- country: US
+  region: MT
+  name: West Yellowstone
+  lat: '44.6627'
+  long: "-111.1057"
+  nearby_rate_centers:
+  - name: WYELLOWSTN
+    distance_km: 0.63
+  - name: GARDINER
+    distance_km: 52.64
+  - name: BIG SKY
+    distance_km: 68.83
+- country: US
+  region: MT
+  name: Westby
+  lat: '48.8710'
+  long: "-104.0551"
+  nearby_rate_centers:
+  - name: WESTBY
+    distance_km: 0.62
+  - name: DAGMAR
+    distance_km: 33.29
+  - name: PLENTYWOOD
+    distance_km: 37.83
+- country: US
+  region: MT
+  name: Wheatland
+  lat: '45.9580'
+  long: "-111.5781"
+  nearby_rate_centers:
+  - name: THREEFORKS
+    distance_km: 7.86
+  - name: MANHATTAN
+    distance_km: 22.03
+  - name: HARRISON
+    distance_km: 32.88
+- country: US
+  region: MT
+  name: White Haven
+  lat: '48.3478'
+  long: "-115.5160"
+  nearby_rate_centers:
+  - name: LIBBY
+    distance_km: 5.01
+  - name: TROY
+    distance_km: 30.34
+  - name: NOXON
+    distance_km: 44.44
+- country: US
+  region: MT
+  name: White Sulphur Springs
+  lat: '46.5453'
+  long: "-110.9039"
+  nearby_rate_centers:
+  - name: WHSLPHRSPG
+    distance_km: 0.62
+  - name: MARTINSDL
+    distance_km: 45.75
+  - name: TOWNSEND
+    distance_km: 53.5
+- country: US
+  region: MT
+  name: Whitefish
+  lat: '48.4328'
+  long: "-114.3590"
+  nearby_rate_centers:
+  - name: WHITEFISH
+    distance_km: 3.21
+  - name: COLUMBIFLS
+    distance_km: 15.14
+  - name: OLNEY
+    distance_km: 20.75
+- country: US
+  region: MT
+  name: Whitehall
+  lat: '45.8709'
+  long: "-112.0976"
+  nearby_rate_centers:
+  - name: WHITEHALL
+    distance_km: 0.84
+  - name: HARRISON
+    distance_km: 30.98
+  - name: BUTTE
+    distance_km: 35.19
+- country: US
+  region: MT
+  name: Whitetail
+  lat: '48.8966'
+  long: "-105.1619"
+  nearby_rate_centers:
+  - name: FLAXVILLE
+    distance_km: 10.07
+  - name: FLAXVLRURL
+    distance_km: 18.25
+  - name: SCOBEY
+    distance_km: 22.37
+- country: US
+  region: MT
+  name: Whitewater
+  lat: '48.7635'
+  long: "-107.6303"
+  nearby_rate_centers:
+  - name: WHITEWATER
+    distance_km: 0.99
+  - name: SACO
+    distance_km: 39.93
+  - name: MALTA
+    distance_km: 48.57
+- country: US
+  region: MT
+  name: Whitlash
+  lat: '48.9089'
+  long: "-111.2519"
+  nearby_rate_centers:
+  - name: SUNBURST
+    distance_km: 48.14
+  - name: CHESTER
+    distance_km: 49.38
+  - name: DEVON
+    distance_km: 50.71
+- country: US
+  region: MT
+  name: Wibaux
+  lat: '46.9865'
+  long: "-104.1899"
+  nearby_rate_centers:
+  - name: WIBAUX
+    distance_km: 0.9
+  - name: WEST BEACH
+    distance_km: 12.61
+  - name: CARLYLE
+    distance_km: 38.56
+- country: US
+  region: MT
+  name: Willow Creek
+  lat: '45.8178'
+  long: "-111.6402"
+  nearby_rate_centers:
+  - name: THREEFORKS
+    distance_km: 10.52
+  - name: HARRISON
+    distance_km: 17.23
+  - name: MANHATTAN
+    distance_km: 24.15
+- country: US
+  region: MT
+  name: Wilsall
+  lat: '45.9844'
+  long: "-110.6604"
+  nearby_rate_centers:
+  - name: WILSALL
+    distance_km: 0.94
+  - name: CLYDE PARK
+    distance_km: 11.08
+  - name: LIVINGSTON
+    distance_km: 36.32
+- country: US
+  region: MT
+  name: Windham
+  lat: '47.0781'
+  long: "-110.1386"
+  nearby_rate_centers:
+  - name: STANFORD
+    distance_km: 10.11
+  - name: HOBSON
+    distance_km: 21.74
+  - name: DENTON
+    distance_km: 30.13
+- country: US
+  region: MT
+  name: Wineglass
+  lat: '45.6280'
+  long: "-110.6233"
+  nearby_rate_centers:
+  - name: LIVINGSTON
+    distance_km: 6.41
+  - name: CLYDE PARK
+    distance_km: 29.55
+  - name: BOZEMAN
+    distance_km: 32.82
+- country: US
+  region: MT
+  name: Winifred
+  lat: '47.5621'
+  long: "-109.3773"
+  nearby_rate_centers:
+  - name: WINIFRED
+    distance_km: 0.44
+  - name: ROY
+    distance_km: 40.41
+  - name: DENTON
+    distance_km: 50.93
+- country: US
+  region: MT
+  name: Winnett
+  lat: '47.0043'
+  long: "-108.3466"
+  nearby_rate_centers:
+  - name: WINNETT
+    distance_km: 0.32
+  - name: GRASSRANGE
+    distance_km: 34.85
+  - name: MUSSELSHLL
+    distance_km: 57.54
+- country: US
+  region: MT
+  name: Winston
+  lat: '46.4684'
+  long: "-111.6653"
+  nearby_rate_centers:
+  - name: TOWNSEND
+    distance_km: 20.32
+  - name: HELENA
+    distance_km: 31.13
+  - name: BOULDER
+    distance_km: 42.86
+- country: US
+  region: MT
+  name: Wisdom
+  lat: '45.6114'
+  long: "-113.4470"
+  nearby_rate_centers:
+  - name: WISDOM
+    distance_km: 0.66
+  - name: JACKSON
+    distance_km: 27.59
+  - name: WISE RIVER
+    distance_km: 43.68
+- country: US
+  region: MT
+  name: Wise River
+  lat: '45.7920'
+  long: "-112.9485"
+  nearby_rate_centers:
+  - name: WISE RIVER
+    distance_km: 0.1
+  - name: DIVIDE
+    distance_km: 15.97
+  - name: MELROSE
+    distance_km: 27.08
+- country: US
+  region: MT
+  name: Wolf Creek
+  lat: '47.0059'
+  long: "-112.0700"
+  nearby_rate_centers:
+  - name: WOLF CREEK
+    distance_km: 0.57
+  - name: CANYON CRK
+    distance_km: 27.47
+  - name: CASCADE
+    distance_km: 41.1
+- country: US
+  region: MT
+  name: Wolf Point
+  lat: '48.0933'
+  long: "-105.6414"
+  nearby_rate_centers:
+  - name: WOLF POINT
+    distance_km: 0.26
+  - name: SO WOLF PT
+    distance_km: 10.68
+  - name: FRAZER
+    distance_km: 29.86
+- country: US
+  region: MT
+  name: Woods Bay
+  lat: '48.0083'
+  long: "-114.0613"
+  nearby_rate_centers:
+  - name: BIGFORK
+    distance_km: 5.88
+  - name: YELLOW BAY
+    distance_km: 10.81
+  - name: LAKESIDE
+    distance_km: 11.61
+- country: US
+  region: MT
+  name: Worden
+  lat: '45.9623'
+  long: "-108.1623"
+  nearby_rate_centers:
+  - name: WORDEN
+    distance_km: 0.6
+  - name: HUNTLEY
+    distance_km: 12.72
+  - name: POMPESPLLR
+    distance_km: 16.18
+- country: US
+  region: MT
+  name: Wye
+  lat: '46.9523'
+  long: "-114.1331"
+  nearby_rate_centers:
+  - name: FRENCHTOWN
+    distance_km: 9.88
+  - name: MISSOULA
+    distance_km: 13.65
+  - name: ARLEE
+    distance_km: 24.17
+- country: US
+  region: MT
+  name: Wyola
+  lat: '45.1154'
+  long: "-107.3738"
+  nearby_rate_centers:
+  - name: WYOLA
+    distance_km: 2.28
+  - name: NO PARKMAN
+    distance_km: 13.22
+  - name: LODGEGRASS
+    distance_km: 21.55
+- country: US
+  region: MT
+  name: Yaak
+  lat: '48.8647'
+  long: "-115.6777"
+  nearby_rate_centers:
+  - name: EUREKA
+    distance_km: 45.83
+  - name: TROY
+    distance_km: 47.79
+  - name: EUREKARURL
+    distance_km: 48.64
+- country: US
+  region: MT
+  name: York
+  lat: '46.7181'
+  long: "-111.7528"
+  nearby_rate_centers:
+  - name: HELENA
+    distance_km: 24.37
+  - name: WOLF CREEK
+    distance_km: 40.37
+  - name: CANYON CRK
+    distance_km: 40.57
+- country: US
+  region: MT
+  name: Zenith Colony
+  lat: '48.8688'
+  long: "-112.3423"
+  nearby_rate_centers:
+  - name: NOCUT BANK
+    distance_km: 15.42
+  - name: CUT BANK
+    distance_km: 26.14
+  - name: SWEETGRASS
+    distance_km: 31.23
+- country: US
+  region: MT
+  name: Zortman
+  lat: '47.9168'
+  long: "-108.5090"
+  nearby_rate_centers:
+  - name: HAYS
+    distance_km: 16.28
+  - name: SOUTHMALTA
+    distance_km: 49.23
+  - name: DODSON
+    distance_km: 57.46
+- country: US
+  region: MT
+  name: Zurich
+  lat: '48.5861'
+  long: "-109.0302"
+  nearby_rate_centers:
+  - name: CHINOOK
+    distance_km: 14.35
+  - name: HARLEM
+    distance_km: 18.96
+  - name: HAVRE
+    distance_km: 46.91

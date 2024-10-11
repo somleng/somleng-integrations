@@ -1,0 +1,4412 @@
+---
+rate_centers:
+- country: US
+  region: UT
+  exchange: '342527'
+  name: ABRAHAM
+  full_name: Abraham
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342528'
+  name: ADAMSVILLE
+  full_name: Adamsville
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '044391'
+  name: ALMO
+  full_name: Almo
+  lata: '652'
+  ilec_name: ALBION TELEPHONE CO. DBA ATC COMMUNICATIONS
+  lat: '41.968986'
+  long: "-113.544084"
+  closest_city:
+    name: Snowville
+    distance_km: 68.43
+- country: US
+  region: UT
+  exchange: '342529'
+  name: ALPINE
+  full_name: Alpine
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200090'
+  name: ALTA
+  full_name: Alta
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '40.590629'
+  long: "-111.640196"
+  closest_city:
+    name: Alta
+    distance_km: 1.76
+- country: US
+  region: UT
+  exchange: '200100'
+  name: ALTAMONT
+  full_name: Altamont
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat: '40.350064'
+  long: "-110.292163"
+  closest_city:
+    name: Altamont
+    distance_km: 1.04
+- country: US
+  region: UT
+  exchange: '342532'
+  name: ALTON
+  full_name: Alton
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342533'
+  name: ALTONAH
+  full_name: Altonah
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342534'
+  name: AMALGA
+  full_name: Amalga
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200110'
+  name: AMERCNFORK
+  full_name: American Fork
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '40.377369'
+  long: "-111.80037"
+  closest_city:
+    name: American Fork
+    distance_km: 0.44
+- country: US
+  region: UT
+  exchange: '342536'
+  name: ANNABELLA
+  full_name: Annabella
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200120'
+  name: ANTIMONY
+  full_name: Antimony
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat: '38.117908'
+  long: "-112.001224"
+  closest_city:
+    name: Antimony
+    distance_km: 2.34
+- country: US
+  region: UT
+  exchange: '200130'
+  name: APPLE VLLY
+  full_name: Apple Valley
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat: '37.118557'
+  long: "-113.12542"
+  closest_city:
+    name: Apple Valley
+    distance_km: 4.61
+- country: US
+  region: UT
+  exchange: '342539'
+  name: ARAGONITE
+  full_name: Aragonite
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342540'
+  name: ARCADIA
+  full_name: Arcadia
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342541'
+  name: ASPENGROVE
+  full_name: Aspen Grove
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342542'
+  name: AURORA
+  full_name: Aurora
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342543'
+  name: AUSTIN
+  full_name: Austin
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342544'
+  name: AVON
+  full_name: Avon
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342545'
+  name: AXTELL
+  full_name: Axtell
+  lata: '660'
+  ilec_name: GUNNISON TEL. CO.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342546'
+  name: BACCHUS
+  full_name: Bacchus
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342547'
+  name: BALLARD
+  full_name: Ballard
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200140'
+  name: BEARRIV CY
+  full_name: Bear River City
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '41.61742'
+  long: "-112.135431"
+  closest_city:
+    name: Bear River City
+    distance_km: 1.03
+- country: US
+  region: UT
+  exchange: '200150'
+  name: BEAVER
+  full_name: Beaver
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '38.274217'
+  long: "-112.643167"
+  closest_city:
+    name: Beaver
+    distance_km: 0.46
+- country: US
+  region: UT
+  exchange: '342550'
+  name: BENJAMIN
+  full_name: Benjamin
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342551'
+  name: BENSON
+  full_name: Benson
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200160'
+  name: BERYL
+  full_name: Beryl
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat: '37.71836'
+  long: "-113.638887"
+  closest_city:
+    name: Beryl Junction
+    distance_km: 2.32
+- country: US
+  region: UT
+  exchange: '200170'
+  name: BICKNELL
+  full_name: Bicknell
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat: '38.340555'
+  long: "-111.549681"
+  closest_city:
+    name: Bicknell
+    distance_km: 0.48
+- country: US
+  region: UT
+  exchange: '342554'
+  name: BIG INDIAN
+  full_name: Big Indian
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '343612'
+  name: BIG WATER
+  full_name: Big Water
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342555'
+  name: BINGHAMCYN
+  full_name: Bingham Canyon
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342556'
+  name: BLACKTLRDG
+  full_name: Blacktail Ridge
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200180'
+  name: BLANDING
+  full_name: Blanding
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '37.625739'
+  long: "-109.485878"
+  closest_city:
+    name: Blanding
+    distance_km: 1.95
+- country: US
+  region: UT
+  exchange: '342558'
+  name: BLUEBELL
+  full_name: Bluebell
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200190'
+  name: BLUFF
+  full_name: Bluff
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '37.282535'
+  long: "-109.552875"
+  closest_city:
+    name: Bluff
+    distance_km: 1.85
+- country: US
+  region: UT
+  exchange: '342560'
+  name: BLUFFDALE
+  full_name: Bluffdale
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342561'
+  name: BONANZA
+  full_name: Bonanza
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342562'
+  name: BONETA
+  full_name: Boneta
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200200'
+  name: BOULDER
+  full_name: Boulder
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat: '37.906548'
+  long: "-111.418709"
+  closest_city:
+    name: Boulder
+    distance_km: 2.15
+- country: US
+  region: UT
+  exchange: '200210'
+  name: BOUNTIFUL
+  full_name: Bountiful
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '40.889835'
+  long: "-111.881845"
+  closest_city:
+    name: West Bountiful
+    distance_km: 2.41
+- country: US
+  region: UT
+  exchange: '200220'
+  name: BRIAN HEAD
+  full_name: Brian Head
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '37.697154'
+  long: "-112.847103"
+  closest_city:
+    name: Brian Head
+    distance_km: 0.49
+- country: US
+  region: UT
+  exchange: '342566'
+  name: BRIDGELAND
+  full_name: Bridgeland
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200230'
+  name: BRIGHAM CY
+  full_name: Brigham City
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '41.50989'
+  long: "-112.022067"
+  closest_city:
+    name: Brigham City
+    distance_km: 2.06
+- country: US
+  region: UT
+  exchange: '342568'
+  name: BRIGHTON
+  full_name: Brighton
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342569'
+  name: BROOKSIDE
+  full_name: Brookside
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200240'
+  name: BRYCECNYON
+  full_name: Bryce Canyon
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat: '37.618648'
+  long: "-112.164989"
+  closest_city:
+    name: Tropic
+    distance_km: 6.6
+- country: US
+  region: UT
+  exchange: '342572'
+  name: BULLFROG
+  full_name: Bullfrog
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342571'
+  name: BULFROBSIN
+  full_name: Bullfrog Basin
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342573'
+  name: CACHE JCT
+  full_name: Cache Junction
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200250'
+  name: CAINEVILLE
+  full_name: Cainville
+  lata: '660'
+  ilec_name: BEEHIVE TELEPHONE COMPANY, INC. (UTAH)
+  lat: '38.330464'
+  long: "-111.01987"
+  closest_city:
+    name: Hanksville
+    distance_km: 27.09
+- country: US
+  region: UT
+  exchange: '342575'
+  name: CAMPWLLIMS
+  full_name: Camp Williams
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200260'
+  name: CANNONVL
+  full_name: Cannonville
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat: '37.615857'
+  long: "-112.094786"
+  closest_city:
+    name: Tropic
+    distance_km: 1.54
+- country: US
+  region: UT
+  exchange: '342577'
+  name: CANYON PT
+  full_name: Canyon Point
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342578'
+  name: CARBONVIL
+  full_name: Carbonville
+  lata: '660'
+  ilec_name: CARBON/EMERY TELCOM, INC. - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342579'
+  name: CASTILLA
+  full_name: Castilla
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200270'
+  name: CASTLEDALE
+  full_name: Castle Dale
+  lata: '660'
+  ilec_name: EMERY TELEPHONE DBA EMERY TELCOM
+  lat: '39.219093'
+  long: "-111.021258"
+  closest_city:
+    name: Castle Dale
+    distance_km: 0.34
+- country: US
+  region: UT
+  exchange: '342582'
+  name: CASTLEGATE
+  full_name: Castle Gate
+  lata: '660'
+  ilec_name: CARBON/EMERY TELCOM, INC. - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '341723'
+  name: CASTLEROCK
+  full_name: Castle Rock
+  lata: '654'
+  ilec_name: ALL WEST COMMUNICATIONS - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342580'
+  name: CASTLE VLY
+  full_name: Castle Valley
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200280'
+  name: CEDAR CITY
+  full_name: Cedar City
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '37.682396'
+  long: "-113.069692"
+  closest_city:
+    name: Cedar City
+    distance_km: 2.28
+- country: US
+  region: UT
+  exchange: '342584'
+  name: CEDAR FORT
+  full_name: Cedar Fort
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342586'
+  name: CEDARHGHLD
+  full_name: Cedar Highland
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342587'
+  name: CEDARHILLS
+  full_name: Cedar Hills
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200851'
+  name: CEDAR VLY
+  full_name: Cedar Valley
+  lata: '660'
+  ilec_name: DIRECT COMMUNICATIONS CEDAR VALLEY, LLC
+  lat: '40.385228'
+  long: "-111.847343"
+  closest_city:
+    name: Lehi
+    distance_km: 3.81
+- country: US
+  region: UT
+  exchange: '342588'
+  name: CENTERFLD
+  full_name: Centerfield
+  lata: '660'
+  ilec_name: GUNNISON TEL. CO.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342589'
+  name: CENTERVL
+  full_name: Centerville
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342590'
+  name: CENTRAL
+  full_name: Central
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342591'
+  name: CENTRALVLY
+  full_name: Central Valley
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342592'
+  name: CHESTER
+  full_name: Chester
+  lata: '660'
+  ilec_name: SKYLINE TELECOM
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200290'
+  name: CHRISTMMDW
+  full_name: Christmas Meadows
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat: '40.937663'
+  long: "-110.83084"
+  closest_city:
+    name: Oakley
+    distance_km: 44.45
+- country: US
+  region: UT
+  exchange: '200300'
+  name: CIRCLEVL
+  full_name: Circleville
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat: '38.235425'
+  long: "-112.218623"
+  closest_city:
+    name: Junction
+    distance_km: 0.45
+- country: US
+  region: UT
+  exchange: '342595'
+  name: CLARKSTON
+  full_name: Clarkston
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342596'
+  name: CLAWSON
+  full_name: Clawson
+  lata: '660'
+  ilec_name: EMERY TELEPHONE DBA EMERY TELCOM
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342597'
+  name: CLEARCREEK
+  full_name: Clearcreek (Carbon)
+  lata: '660'
+  ilec_name: CENTRAL UTAH TEL., INC.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200310'
+  name: CLEARFIELD
+  full_name: Clearfield
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '41.110381'
+  long: "-112.023621"
+  closest_city:
+    name: Clearfield
+    distance_km: 0.82
+- country: US
+  region: UT
+  exchange: '200320'
+  name: CLEVELAND
+  full_name: Cleveland
+  lata: '660'
+  ilec_name: EMERY TELEPHONE DBA EMERY TELCOM
+  lat: '39.339856'
+  long: "-110.851617"
+  closest_city:
+    name: Cleveland
+    distance_km: 1.12
+- country: US
+  region: UT
+  exchange: '342600'
+  name: CLINTON
+  full_name: Clinton
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200330'
+  name: COALVILLE
+  full_name: Coalville
+  lata: '660'
+  ilec_name: ALL WEST COMMUNICATIONS - UT
+  lat: '40.915964'
+  long: "-111.390377"
+  closest_city:
+    name: Coalville
+    distance_km: 1.95
+- country: US
+  region: UT
+  exchange: '342602'
+  name: COLLINSTON
+  full_name: Collinston
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342603'
+  name: COLTON
+  full_name: Colton
+  lata: '660'
+  ilec_name: CARBON/EMERY TELCOM, INC. - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342604'
+  name: COLUMBIA
+  full_name: Columbia
+  lata: '660'
+  ilec_name: CARBON/EMERY TELCOM, INC. - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342605'
+  name: COPPERFLD
+  full_name: Copperfield
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342606'
+  name: COPPERTON
+  full_name: Copperton
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200231'
+  name: CORINNE
+  full_name: Corinne
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342608'
+  name: CORNISH
+  full_name: Cornish
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200691'
+  name: COTTONWOOD
+  full_name: Cottonwood
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342613'
+  name: CTNWD HGTS
+  full_name: Cottonwood Heights
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342610'
+  name: COVE
+  full_name: Cove
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342611'
+  name: CRESENT
+  full_name: Cresent
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342612'
+  name: CROYDON
+  full_name: Croydon
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342614'
+  name: DAMERONVLY
+  full_name: Dammeron Valley
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200340'
+  name: DNGLNG RPE
+  full_name: Dangling Rope
+  lata: '660'
+  ilec_name: BEEHIVE TELEPHONE COMPANY, INC. (UTAH)
+  lat: '37.159481'
+  long: "-111.080165"
+  closest_city:
+    name: Navajo Mountain
+    distance_km: 28.61
+- country: US
+  region: UT
+  exchange: '342615'
+  name: DANIEL
+  full_name: Daniel
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342617'
+  name: DEERCRKDAM
+  full_name: Deer Creek Dam
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342616'
+  name: DEER MTN
+  full_name: Deer Mountain
+  lata: '660'
+  ilec_name: ALL WEST COMMUNICATIONS - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342618'
+  name: DEERVALLEY
+  full_name: Deer Valley
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200350'
+  name: DELTA
+  full_name: Delta
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '39.349062'
+  long: "-112.577278"
+  closest_city:
+    name: Delta
+    distance_km: 2.98
+- country: US
+  region: UT
+  exchange: '342620'
+  name: DESERET
+  full_name: Deseret
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342621'
+  name: DEVILSSLID
+  full_name: Devils Slide
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342622'
+  name: DEWEYVILLE
+  full_name: Deweyville
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342623'
+  name: DIVIDEND
+  full_name: Dividend
+  lata: '660'
+  ilec_name: SKYLINE TELECOM
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342625'
+  name: DOLOMITE
+  full_name: Dolomite
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342626'
+  name: DRAGERTON
+  full_name: Dragerton
+  lata: '660'
+  ilec_name: CARBON/EMERY TELCOM, INC. - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200951'
+  name: DRAPER
+  full_name: Draper
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200360'
+  name: DUCHESNE
+  full_name: Duchesne
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat: '40.165893'
+  long: "-110.398464"
+  closest_city:
+    name: Duchesne
+    distance_km: 1.11
+- country: US
+  region: UT
+  exchange: '200370'
+  name: DUCK CREEK
+  full_name: Duck Creek
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat: '37.515263'
+  long: "-112.660138"
+  closest_city:
+    name: Alton
+    distance_km: 16.55
+- country: US
+  region: UT
+  exchange: '200380'
+  name: DUGWAY
+  full_name: Dugway
+  lata: '660'
+  ilec_name: SKYLINE TELECOM
+  lat: '40.216277'
+  long: "-112.741772"
+  closest_city:
+    name: Dugway
+    distance_km: 1.92
+- country: US
+  region: UT
+  exchange: '200390'
+  name: DUTCH JOHN
+  full_name: Dutch John
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat: '40.932678'
+  long: "-109.392933"
+  closest_city:
+    name: Dutch John
+    distance_km: 0.99
+- country: US
+  region: UT
+  exchange: '200852'
+  name: EAGLE MTN
+  full_name: Eagle Mountain
+  lata: '660'
+  ilec_name: DIRECT COMMUNICATIONS CEDAR VALLEY, LLC
+  lat: '40.385228'
+  long: "-111.847343"
+  closest_city:
+    name: Lehi
+    distance_km: 3.81
+- country: US
+  region: UT
+  exchange: '200400'
+  name: EASTCARBON
+  full_name: East Carbon
+  lata: '660'
+  ilec_name: CARBON/EMERY TELCOM, INC. - UT
+  lat: '39.550607'
+  long: "-110.397848"
+  closest_city:
+    name: Wellington
+    distance_km: 28.91
+- country: US
+  region: UT
+  exchange: '342632'
+  name: E LAYTON
+  full_name: East Layton
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200311'
+  name: EAST LAYTO
+  full_name: East Layton
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342635'
+  name: ECHO
+  full_name: Echo
+  lata: '660'
+  ilec_name: ALL WEST COMMUNICATIONS - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342636'
+  name: EDEN
+  full_name: Eden
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342637'
+  name: ELBERTA
+  full_name: Elberta
+  lata: '660'
+  ilec_name: SKYLINE TELECOM
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342638'
+  name: ELK RIDGE
+  full_name: Elk Ridge
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342639'
+  name: ELMO
+  full_name: Elmo
+  lata: '660'
+  ilec_name: EMERY TELEPHONE DBA EMERY TELCOM
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342640'
+  name: ELSINORE
+  full_name: Elsinore
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342641'
+  name: ELWOOD
+  full_name: Elwood
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200410'
+  name: EMERY
+  full_name: Emery
+  lata: '660'
+  ilec_name: EMERY TELEPHONE DBA EMERY TELCOM
+  lat: '38.918638'
+  long: "-111.243167"
+  closest_city:
+    name: Emery
+    distance_km: 1.07
+- country: US
+  region: UT
+  exchange: '342643'
+  name: ENOCH
+  full_name: Enoch
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200420'
+  name: ENTERPRISE
+  full_name: Enterprise (Washington)
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat: '37.567074'
+  long: "-113.719146"
+  closest_city:
+    name: Enterprise
+    distance_km: 2.17
+- country: US
+  region: UT
+  exchange: '200430'
+  name: EPHRAIM
+  full_name: Ephraim
+  lata: '660'
+  ilec_name: MANTI TEL. CO.
+  lat: '39.359978'
+  long: "-111.580441"
+  closest_city:
+    name: Ephraim
+    distance_km: 0.54
+- country: US
+  region: UT
+  exchange: '342647'
+  name: ERDA
+  full_name: Erda
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200440'
+  name: ESCALANTE
+  full_name: Escalante
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat: '37.773735'
+  long: "-111.599657"
+  closest_city:
+    name: Escalante
+    distance_km: 0.97
+- country: US
+  region: UT
+  exchange: '200450'
+  name: EUREKA
+  full_name: Eureka
+  lata: '660'
+  ilec_name: SKYLINE TELECOM
+  lat: '39.955813'
+  long: "-112.122683"
+  closest_city:
+    name: Eureka
+    distance_km: 0.74
+- country: US
+  region: UT
+  exchange: '342650'
+  name: FAIRFIELD
+  full_name: Fairfield
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200460'
+  name: FAIRVIEW
+  full_name: Fairview
+  lata: '660'
+  ilec_name: CENTRAL UTAH TEL., INC.
+  lat: '39.626265'
+  long: "-111.430092"
+  closest_city:
+    name: Fairview
+    distance_km: 0.7
+- country: US
+  region: UT
+  exchange: '200470'
+  name: FARMINGTON
+  full_name: Farmington
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '40.984658'
+  long: "-111.885708"
+  closest_city:
+    name: Farmington
+    distance_km: 1.75
+- country: US
+  region: UT
+  exchange: '342653'
+  name: FARR WEST
+  full_name: Farr West
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342654'
+  name: FAYETTE
+  full_name: Fayette
+  lata: '660'
+  ilec_name: GUNNISON TEL. CO.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200480'
+  name: FERRON
+  full_name: Ferron
+  lata: '660'
+  ilec_name: EMERY TELEPHONE DBA EMERY TELCOM
+  lat: '39.093388'
+  long: "-111.137284"
+  closest_city:
+    name: Ferron
+    distance_km: 0.38
+- country: US
+  region: UT
+  exchange: '200490'
+  name: FIELDING
+  full_name: Fielding
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '41.8174'
+  long: "-112.12259"
+  closest_city:
+    name: Fielding
+    distance_km: 0.68
+- country: US
+  region: UT
+  exchange: '200500'
+  name: FILLMORE
+  full_name: Fillmore
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '38.96894'
+  long: "-112.326077"
+  closest_city:
+    name: Fillmore
+    distance_km: 1.2
+- country: US
+  region: UT
+  exchange: '200510'
+  name: FLATTOP
+  full_name: Flattop
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat: '40.221003'
+  long: "-110.104063"
+  closest_city:
+    name: Myton
+    distance_km: 4.69
+- country: US
+  region: UT
+  exchange: '342659'
+  name: FLUX
+  full_name: Flux
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342665'
+  name: FT DUCHESN
+  full_name: Fort Duchesne
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200520'
+  name: FOUNTAGREN
+  full_name: Fountain Green
+  lata: '660'
+  ilec_name: CENTRAL UTAH TEL., INC.
+  lat: '39.623398'
+  long: "-111.631933"
+  closest_city:
+    name: Fountain Green
+    distance_km: 0.96
+- country: US
+  region: UT
+  exchange: '342661'
+  name: FRANCIS
+  full_name: Francis
+  lata: '660'
+  ilec_name: ALL WEST COMMUNICATIONS - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342662'
+  name: FREMONT
+  full_name: Fremont
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342663'
+  name: FRUIT HTS
+  full_name: Fruit Heights
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200530'
+  name: FRUITLAND
+  full_name: Fruitland
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat: '40.20362'
+  long: "-110.793194"
+  closest_city:
+    name: Tabiona
+    distance_km: 18.2
+- country: US
+  region: UT
+  exchange: '200540'
+  name: GARDENCITY
+  full_name: Garden City
+  lata: '660'
+  ilec_name: BEAR LAKE COMMUNICATIONS
+  lat: '41.947925'
+  long: "-111.392457"
+  closest_city:
+    name: Garden City
+    distance_km: 2.02
+- country: US
+  region: UT
+  exchange: '342667'
+  name: GARLAND
+  full_name: Garland
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200550'
+  name: GARRISON
+  full_name: Garrison
+  lata: '660'
+  ilec_name: BEEHIVE TELEPHONE COMPANY, INC. (UTAH)
+  lat: '38.926807'
+  long: "-114.031804"
+  closest_city:
+    name: Milford
+    distance_km: 106.49
+- country: US
+  region: UT
+  exchange: '342669'
+  name: GENOLA
+  full_name: Genola
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200560'
+  name: GLNCNYONCY
+  full_name: Glen Canyon City
+  lata: '666'
+  ilec_name: QWEST CORPORATION
+  lat: '37.091627'
+  long: "-111.665059"
+  closest_city:
+    name: Big Water
+    distance_km: 2.12
+- country: US
+  region: UT
+  exchange: '342670'
+  name: GLENDALE
+  full_name: Glendale
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342671'
+  name: GLENWOOD
+  full_name: Glenwood
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342672'
+  name: GOMEX
+  full_name: Gomex
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200570'
+  name: GOSHEN
+  full_name: Goshen
+  lata: '660'
+  ilec_name: SKYLINE TELECOM
+  lat: '39.948662'
+  long: "-111.910779"
+  closest_city:
+    name: Goshen
+    distance_km: 0.89
+- country: US
+  region: UT
+  exchange: '342674'
+  name: GRANGER
+  full_name: Granger
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342675'
+  name: GRANITE
+  full_name: Granite
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201451'
+  name: GRANTSVL
+  full_name: Grantsville
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200580'
+  name: GREENRIVER
+  full_name: Green River
+  lata: '660'
+  ilec_name: EMERY TELEPHONE DBA EMERY TELCOM
+  lat: '38.989754'
+  long: "-110.157453"
+  closest_city:
+    name: Green River
+    distance_km: 1.35
+- country: US
+  region: UT
+  exchange: '200590'
+  name: GREENDALE
+  full_name: Greendale
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat: '40.881084'
+  long: "-109.472093"
+  closest_city:
+    name: Flaming Gorge
+    distance_km: 0.91
+- country: US
+  region: UT
+  exchange: '342678'
+  name: GREENHAVEN
+  full_name: Greenhaven
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342682'
+  name: GREENVILLE
+  full_name: Greenville
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342683'
+  name: GREENWICH
+  full_name: Greenwich
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200600'
+  name: GROUSE CRK
+  full_name: Grouse Creek
+  lata: '660'
+  ilec_name: BEEHIVE TELEPHONE COMPANY, INC. (UTAH)
+  lat: '41.712931'
+  long: "-113.873309"
+  closest_city:
+    name: Snowville
+    distance_km: 100.1
+- country: US
+  region: UT
+  exchange: '342685'
+  name: GUNLOCK
+  full_name: Gunlock
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200610'
+  name: GUNNISON
+  full_name: Gunnison
+  lata: '660'
+  ilec_name: GUNNISON TEL. CO.
+  lat: '39.150829'
+  long: "-111.816209"
+  closest_city:
+    name: Gunnison
+    distance_km: 0.71
+- country: US
+  region: UT
+  exchange: '342687'
+  name: GUSHER
+  full_name: Gusher
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200620'
+  name: HALCHITA
+  full_name: Halchita
+  lata: '981'
+  ilec_name: NAVAJO COMM CO INC - UT DBA NAVAJO COMM UT
+  lat: '37.132031'
+  long: "-109.896012"
+  closest_city:
+    name: Halchita
+    distance_km: 1.52
+- country: US
+  region: UT
+  exchange: '342688'
+  name: HALLSCRSNG
+  full_name: Halls Crossing
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342689'
+  name: HAMILTONFT
+  full_name: Hamilton Fort
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200630'
+  name: HANKSVILLE
+  full_name: Hanksville
+  lata: '660'
+  ilec_name: HANKSVILLE TELCOM, INC. - UT
+  lat: '38.36669'
+  long: "-110.727362"
+  closest_city:
+    name: Hanksville
+    distance_km: 1.34
+- country: US
+  region: UT
+  exchange: '342691'
+  name: HANNA
+  full_name: Hanna
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342692'
+  name: HARRISVL
+  full_name: Harrisville
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200640'
+  name: HATCH
+  full_name: Hatch
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat: '37.825886'
+  long: "-112.439119"
+  closest_city:
+    name: Panguitch
+    distance_km: 0.5
+- country: US
+  region: UT
+  exchange: '342694'
+  name: HAYDEN
+  full_name: Hayden
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200650'
+  name: HEBER CITY
+  full_name: Heber City
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '40.510348'
+  long: "-111.416681"
+  closest_city:
+    name: Heber
+    distance_km: 1.57
+- country: US
+  region: UT
+  exchange: '200660'
+  name: HELPER
+  full_name: Helper
+  lata: '660'
+  ilec_name: CARBON/EMERY TELCOM, INC. - UT
+  lat: '39.684826'
+  long: "-110.851545"
+  closest_city:
+    name: Helper
+    distance_km: 0.88
+- country: US
+  region: UT
+  exchange: '342697'
+  name: HENEFER
+  full_name: Henefer
+  lata: '660'
+  ilec_name: ALL WEST COMMUNICATIONS - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342698'
+  name: HENRIEVL
+  full_name: Henrieville
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342699'
+  name: HERRIMAN
+  full_name: Herriman
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342700'
+  name: HIAWATHA
+  full_name: Hiawatha
+  lata: '660'
+  ilec_name: CARBON/EMERY TELCOM, INC. - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342701'
+  name: HIDEOUT
+  full_name: Hideout
+  lata: '660'
+  ilec_name: ALL WEST COMMUNICATIONS - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342702'
+  name: HIGH CREEK
+  full_name: High Creek
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342703'
+  name: HIGHLAND
+  full_name: Highland
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200670'
+  name: HILDALE
+  full_name: Hildale
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat: '37.162179'
+  long: "-112.908508"
+  closest_city:
+    name: Springdale
+    distance_km: 8.81
+- country: US
+  region: UT
+  exchange: '342705'
+  name: HILL AFB
+  full_name: Hill Air Force Base
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342706'
+  name: HINCKLEY
+  full_name: Hinckley
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200680'
+  name: HOLDEN
+  full_name: Holden
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '39.101852'
+  long: "-112.277026"
+  closest_city:
+    name: Holden
+    distance_km: 0.59
+- country: US
+  region: UT
+  exchange: '200690'
+  name: HOLLADAY
+  full_name: Holladay
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '40.651656'
+  long: "-111.807873"
+  closest_city:
+    name: Holladay
+    distance_km: 1.55
+- country: US
+  region: UT
+  exchange: '342707'
+  name: HLDAYCTNWD
+  full_name: Holladay Cottonwood
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342710'
+  name: HONEYVILLE
+  full_name: Honeyville
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342711'
+  name: HOOPER
+  full_name: Hooper
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342712'
+  name: HORSECNYON
+  full_name: Horse Canyon
+  lata: '660'
+  ilec_name: CARBON/EMERY TELCOM, INC. - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200700'
+  name: HOWELL
+  full_name: Howell
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '41.797489'
+  long: "-112.442108"
+  closest_city:
+    name: Howell
+    distance_km: 2.7
+- country: US
+  region: UT
+  exchange: '342714'
+  name: HOYTSVILLE
+  full_name: Hoytsville
+  lata: '660'
+  ilec_name: ALL WEST COMMUNICATIONS - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342715'
+  name: HUNTER
+  full_name: Hunter
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200710'
+  name: HUNTINGTON
+  full_name: Huntington
+  lata: '660'
+  ilec_name: EMERY TELEPHONE DBA EMERY TELCOM
+  lat: '39.322612'
+  long: "-110.966139"
+  closest_city:
+    name: Huntington
+    distance_km: 0.89
+- country: US
+  region: UT
+  exchange: '201111'
+  name: HUNTSVILLE
+  full_name: Huntsville
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '41.223445'
+  long: "-111.966521"
+  closest_city:
+    name: Ogden
+    distance_km: 0.51
+- country: US
+  region: UT
+  exchange: '200720'
+  name: HURRICANE
+  full_name: Hurricane
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '37.1725'
+  long: "-113.281187"
+  closest_city:
+    name: Hurricane
+    distance_km: 6.79
+- country: US
+  region: UT
+  exchange: '342719'
+  name: HYDE PARK
+  full_name: Hyde Park
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200730'
+  name: HYRUM
+  full_name: Hyrum
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '41.642291'
+  long: "-111.852627"
+  closest_city:
+    name: Hyrum
+    distance_km: 1.28
+- country: US
+  region: UT
+  exchange: '200740'
+  name: IBAPAH
+  full_name: Ibapah
+  lata: '660'
+  ilec_name: BEEHIVE TELEPHONE COMPANY, INC. (UTAH)
+  lat: '39.992607'
+  long: "-113.997413"
+  closest_city:
+    name: Wendover
+    distance_km: 81.37
+- country: US
+  region: UT
+  exchange: '342722'
+  name: IDEALBEACH
+  full_name: Ideal Beach
+  lata: '660'
+  ilec_name: BEAR LAKE COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342723'
+  name: IVINS
+  full_name: Ivins
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342724'
+  name: JENSEN
+  full_name: Jensen
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '219330'
+  name: JORDANELLE
+  full_name: Jordanelle
+  lata: '660'
+  ilec_name: ALL WEST COMMUNICATIONS - UT
+  lat: '40.655524'
+  long: "-111.411148"
+  closest_city:
+    name: Hideout
+    distance_km: 1.55
+- country: US
+  region: UT
+  exchange: '342726'
+  name: JOSEPH
+  full_name: Joseph
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342727'
+  name: JUNCTION
+  full_name: Junction
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200750'
+  name: KAMAS
+  full_name: Kamas
+  lata: '660'
+  ilec_name: ALL WEST COMMUNICATIONS - UT
+  lat: '40.641363'
+  long: "-111.273065"
+  closest_city:
+    name: Kamas
+    distance_km: 0.95
+- country: US
+  region: UT
+  exchange: '200760'
+  name: KANAB
+  full_name: Kanab
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat: '37.051383'
+  long: "-112.533734"
+  closest_city:
+    name: Kanab
+    distance_km: 2.99
+- country: US
+  region: UT
+  exchange: '342730'
+  name: KANARRAVL
+  full_name: Kanarraville
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342731'
+  name: KANESVILLE
+  full_name: Kanesville
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200770'
+  name: KANOSH
+  full_name: Kanosh
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '38.799707'
+  long: "-112.439122"
+  closest_city:
+    name: Kanosh
+    distance_km: 0.24
+- country: US
+  region: UT
+  exchange: '200780'
+  name: KAYSVILLE
+  full_name: Kaysville
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '41.035351'
+  long: "-111.933445"
+  closest_city:
+    name: Kaysville
+    distance_km: 1.24
+- country: US
+  region: UT
+  exchange: '200790'
+  name: KEARNS
+  full_name: Kearns
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '40.665908'
+  long: "-112.007642"
+  closest_city:
+    name: Kearns
+    distance_km: 1.57
+- country: US
+  region: UT
+  exchange: '342735'
+  name: KENILWORTH
+  full_name: Kenilworth
+  lata: '660'
+  ilec_name: CARBON/EMERY TELCOM, INC. - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342736'
+  name: KINGSTON
+  full_name: Kingston
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342737'
+  name: KNOLLS
+  full_name: Knolls
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200800'
+  name: KOLOB
+  full_name: Kolob
+  lata: '660'
+  ilec_name: BEEHIVE TELEPHONE COMPANY, INC. (UTAH)
+  lat: '34.400115'
+  long: "-113.068731"
+  closest_city:
+    name: Hildale
+    distance_km: 291.1
+- country: US
+  region: UT
+  exchange: '200810'
+  name: KOOSHAREM
+  full_name: Koosharem
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat: '38.50772'
+  long: "-111.884981"
+  closest_city:
+    name: Koosharem
+    distance_km: 0.69
+- country: US
+  region: UT
+  exchange: '200820'
+  name: LA SAL
+  full_name: La Sal
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '38.309748'
+  long: "-109.243298"
+  closest_city:
+    name: La Sal
+    distance_km: 2.02
+- country: US
+  region: UT
+  exchange: '342741'
+  name: LA VERKIN
+  full_name: La Verkin
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342742'
+  name: LAKE POINT
+  full_name: Lake Point
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200830'
+  name: LAKEPOWELL
+  full_name: Lake Powell
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '37.544947'
+  long: "-110.711525"
+  closest_city:
+    name: Halls Crossing
+    distance_km: 10.01
+- country: US
+  region: UT
+  exchange: '342743'
+  name: LAKE SHORE
+  full_name: Lake Shore
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342745'
+  name: LAKESIDE
+  full_name: Lakeside
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342746'
+  name: LAKETOWN
+  full_name: Laketown
+  lata: '660'
+  ilec_name: BEAR LAKE COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342747'
+  name: LAKOTA
+  full_name: Lakota
+  lata: '660'
+  ilec_name: BEAR LAKE COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200840'
+  name: LAPOINT
+  full_name: Lapoint
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat: '40.409392'
+  long: "-109.816078"
+  closest_city:
+    name: Lapoint
+    distance_km: 1.72
+- country: US
+  region: UT
+  exchange: '342749'
+  name: LARK
+  full_name: Lark
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342750'
+  name: LATUDA
+  full_name: Latuda
+  lata: '660'
+  ilec_name: CARBON/EMERY TELCOM, INC. - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342751'
+  name: LAWRENCE
+  full_name: Lawrence
+  lata: '660'
+  ilec_name: EMERY TELEPHONE DBA EMERY TELCOM
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342752'
+  name: LAYTON
+  full_name: Layton
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342753'
+  name: LEAMINGTON
+  full_name: Leamington
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201401'
+  name: LEEDS
+  full_name: Leeds
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '37.109423'
+  long: "-113.584755"
+  closest_city:
+    name: St. George
+    distance_km: 3.83
+- country: US
+  region: UT
+  exchange: '200850'
+  name: LEHI
+  full_name: Lehi
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '40.385228'
+  long: "-111.847343"
+  closest_city:
+    name: Lehi
+    distance_km: 3.81
+- country: US
+  region: UT
+  exchange: '342756'
+  name: LELAND
+  full_name: Leland
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342757'
+  name: LEVAN
+  full_name: Levan
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342758'
+  name: LEWISTON
+  full_name: Lewiston
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342759'
+  name: LIBERTY
+  full_name: Liberty
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342760'
+  name: LINDON
+  full_name: Lindon
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200860'
+  name: LOA
+  full_name: Loa
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat: '38.399046'
+  long: "-111.640552"
+  closest_city:
+    name: Loa
+    distance_km: 0.67
+- country: US
+  region: UT
+  exchange: '200870'
+  name: LOGAN
+  full_name: Logan
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '41.733116'
+  long: "-111.83272"
+  closest_city:
+    name: Logan
+    distance_km: 1.09
+- country: US
+  region: UT
+  exchange: '342763'
+  name: LONGVLYJCT
+  full_name: Long Valley Junction
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342764'
+  name: LYMAN
+  full_name: Lyman
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200880'
+  name: LYNNDYL
+  full_name: Lynndyl
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '39.517599'
+  long: "-112.373174"
+  closest_city:
+    name: Lynndyl
+    distance_km: 2.0
+- country: US
+  region: UT
+  exchange: '200890'
+  name: MAGNA
+  full_name: Magna
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '40.710306'
+  long: "-112.106244"
+  closest_city:
+    name: Magna
+    distance_km: 7.44
+- country: US
+  region: UT
+  exchange: '342767'
+  name: MAMMOTH
+  full_name: Mammoth
+  lata: '660'
+  ilec_name: SKYLINE TELECOM
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200900'
+  name: MANILA
+  full_name: Manila
+  lata: '654'
+  ilec_name: UNION TEL. CO.
+  lat: '40.993083'
+  long: "-109.716833"
+  closest_city:
+    name: Manila
+    distance_km: 0.36
+- country: US
+  region: UT
+  exchange: '200910'
+  name: MANTI
+  full_name: Manti
+  lata: '660'
+  ilec_name: MANTI TEL. CO.
+  lat: '39.265198'
+  long: "-111.632075"
+  closest_city:
+    name: Manti
+    distance_km: 0.32
+- country: US
+  region: UT
+  exchange: '342770'
+  name: MANTUA
+  full_name: Mantua
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342771'
+  name: MAPLETON
+  full_name: Mapleton
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342773'
+  name: MARRIOTT
+  full_name: Marriott
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342772'
+  name: MAROTSLTVL
+  full_name: Marriott Slaterville
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200920'
+  name: MARYSVALE
+  full_name: Marysvale
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat: '38.448351'
+  long: "-112.224939"
+  closest_city:
+    name: Marysvale
+    distance_km: 2.79
+- country: US
+  region: UT
+  exchange: '342775'
+  name: MAYFIELD
+  full_name: Mayfield
+  lata: '660'
+  ilec_name: GUNNISON TEL. CO.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200930'
+  name: MEADOW
+  full_name: Meadow
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '38.884162'
+  long: "-112.409771"
+  closest_city:
+    name: Meadow
+    distance_km: 0.32
+- country: US
+  region: UT
+  exchange: '342777'
+  name: MENDON
+  full_name: Mendon
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200940'
+  name: MEXICANHAT
+  full_name: Mexican Hat
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '37.150014'
+  long: "-109.866774"
+  closest_city:
+    name: Mexican Hat
+    distance_km: 2.63
+- country: US
+  region: UT
+  exchange: '200950'
+  name: MIDVALE
+  full_name: Midvale
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '40.616926'
+  long: "-111.910462"
+  closest_city:
+    name: Midvale
+    distance_km: 1.52
+- country: US
+  region: UT
+  exchange: '342780'
+  name: MIDWAY
+  full_name: Midway
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200960'
+  name: MILFORD
+  full_name: Milford
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat: '38.39128'
+  long: "-113.011056"
+  closest_city:
+    name: Milford
+    distance_km: 0.37
+- country: US
+  region: UT
+  exchange: '342782'
+  name: MILLCREEK
+  full_name: Millcreek
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342783'
+  name: MILLVILLE
+  full_name: Millville
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200970'
+  name: MINERSVL
+  full_name: Minersville
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat: '38.217762'
+  long: "-112.926488"
+  closest_city:
+    name: Minersville
+    distance_km: 3.41
+- country: US
+  region: UT
+  exchange: '200980'
+  name: MOAB
+  full_name: Moab
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '38.573486'
+  long: "-109.544501"
+  closest_city:
+    name: Moab
+    distance_km: 0.47
+- country: US
+  region: UT
+  exchange: '342786'
+  name: MODENA
+  full_name: Modena
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342787'
+  name: MONA
+  full_name: Mona
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200990'
+  name: MONROE
+  full_name: Monroe
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '38.63281'
+  long: "-112.119426"
+  closest_city:
+    name: Monroe
+    distance_km: 1.09
+- country: US
+  region: UT
+  exchange: '201000'
+  name: MNZMCRANTH
+  full_name: Montezuma Creek-Aneth
+  lata: '981'
+  ilec_name: NAVAJO COMM CO INC - UT DBA NAVAJO COMM UT
+  lat: '37.261186'
+  long: "-109.304645"
+  closest_city:
+    name: Montezuma Creek
+    distance_km: 0.56
+- country: US
+  region: UT
+  exchange: '201010'
+  name: MONTICELLO
+  full_name: Monticello
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '37.868284'
+  long: "-109.342978"
+  closest_city:
+    name: Monticello
+    distance_km: 0.44
+- country: US
+  region: UT
+  exchange: '201020'
+  name: MONUMNTVLY
+  full_name: Monument Valley
+  lata: '981'
+  ilec_name: NAVAJO COMM CO INC - UT DBA NAVAJO COMM UT
+  lat: '37.007581'
+  long: "-110.205968"
+  closest_city:
+    name: Oljato-Monument Valley
+    distance_km: 4.78
+- country: US
+  region: UT
+  exchange: '342790'
+  name: MOORE
+  full_name: Moore
+  lata: '660'
+  ilec_name: EMERY TELEPHONE DBA EMERY TELCOM
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201030'
+  name: MORGAN
+  full_name: Morgan
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '41.041184'
+  long: "-111.683261"
+  closest_city:
+    name: Morgan
+    distance_km: 0.26
+- country: US
+  region: UT
+  exchange: '201040'
+  name: MORONI
+  full_name: Moroni
+  lata: '660'
+  ilec_name: SKYLINE TELECOM
+  lat: '39.525117'
+  long: "-111.581243"
+  closest_city:
+    name: Moroni
+    distance_km: 0.26
+- country: US
+  region: UT
+  exchange: '342793'
+  name: MT CARMEL
+  full_name: Mount Carmel
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342794'
+  name: MT EMMONS
+  full_name: Mount Emmons
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201050'
+  name: MTPLEASANT
+  full_name: Mount Pleasant
+  lata: '660'
+  ilec_name: CENTRAL UTAH TEL., INC.
+  lat: '39.549957'
+  long: "-111.452351"
+  closest_city:
+    name: Mount Pleasant
+    distance_km: 1.09
+- country: US
+  region: UT
+  exchange: '342798'
+  name: MTSTERLING
+  full_name: Mount Sterling
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201031'
+  name: MT GREEN
+  full_name: Mountain Green
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342796'
+  name: MT HOME
+  full_name: Mountain Home
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201060'
+  name: MURRAY
+  full_name: Murray
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '40.668885'
+  long: "-111.883247"
+  closest_city:
+    name: Murray
+    distance_km: 2.15
+- country: US
+  region: UT
+  exchange: '342800'
+  name: MYTON
+  full_name: Myton
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342802'
+  name: NAPLES
+  full_name: Naples
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201070'
+  name: NAT BRIDGE
+  full_name: Natural Bridges
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '37.608846'
+  long: "-109.979302"
+  closest_city:
+    name: Blanding
+    distance_km: 41.6
+- country: US
+  region: UT
+  exchange: '201080'
+  name: NEOLA
+  full_name: Neola
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat: '40.431638'
+  long: "-110.01324"
+  closest_city:
+    name: Neola
+    distance_km: 1.52
+- country: US
+  region: UT
+  exchange: '201090'
+  name: NEPHI
+  full_name: Nephi
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '39.70946'
+  long: "-111.832587"
+  closest_city:
+    name: Nephi
+    distance_km: 0.28
+- country: US
+  region: UT
+  exchange: '342806'
+  name: NEW CASTLE
+  full_name: New Castle
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342807'
+  name: NEWHARMONY
+  full_name: New Harmony
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342808'
+  name: NEWTON
+  full_name: Newton
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342809'
+  name: NIBLEY
+  full_name: Nibley
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342810'
+  name: NORTHLOGAN
+  full_name: North Logan
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342811'
+  name: NORTHOGDEN
+  full_name: North Ogden
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200211'
+  name: N SALTLAKE
+  full_name: North Salt Lake
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201100'
+  name: OAK CITY
+  full_name: Oak City
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '39.37572'
+  long: "-112.339841"
+  closest_city:
+    name: Oak City
+    distance_km: 0.08
+- country: US
+  region: UT
+  exchange: '342813'
+  name: OAKLEY
+  full_name: Oakley
+  lata: '660'
+  ilec_name: ALL WEST COMMUNICATIONS - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342814'
+  name: OASIS
+  full_name: Oasis
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201110'
+  name: OGDEN
+  full_name: Ogden
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '41.223445'
+  long: "-111.966521"
+  closest_city:
+    name: Ogden
+    distance_km: 0.51
+- country: US
+  region: UT
+  exchange: '342816'
+  name: OPHIR
+  full_name: Ophir
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200271'
+  name: ORANGEVL
+  full_name: Orangeville
+  lata: '660'
+  ilec_name: EMERY TELEPHONE DBA EMERY TELCOM
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201120'
+  name: ORDERVILLE
+  full_name: Orderville
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat: '37.277058'
+  long: "-112.642483"
+  closest_city:
+    name: Orderville
+    distance_km: 2.88
+- country: US
+  region: UT
+  exchange: '201221'
+  name: OREM
+  full_name: Orem
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342820'
+  name: OURAY
+  full_name: Ouray
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342821'
+  name: PALMYRA
+  full_name: Palmyra
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201130'
+  name: PANGUITCH
+  full_name: Panguitch
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat: '37.825886'
+  long: "-112.439119"
+  closest_city:
+    name: Panguitch
+    distance_km: 0.5
+- country: US
+  region: UT
+  exchange: '342823'
+  name: PARADISE
+  full_name: Paradise
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342824'
+  name: PARAGONAH
+  full_name: Paragonah
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201140'
+  name: PARK CITY
+  full_name: Park City
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '40.651568'
+  long: "-111.498878"
+  closest_city:
+    name: Park City
+    distance_km: 0.25
+- country: US
+  region: UT
+  exchange: '201150'
+  name: PARKVALLEY
+  full_name: Park Valley
+  lata: '660'
+  ilec_name: BEEHIVE TELEPHONE COMPANY, INC. (UTAH)
+  lat: '41.825355'
+  long: "-113.33109"
+  closest_city:
+    name: Snowville
+    distance_km: 53.45
+- country: US
+  region: UT
+  exchange: '201160'
+  name: PAROWAN
+  full_name: Parowan
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '37.840363'
+  long: "-112.832157"
+  closest_city:
+    name: Parowan
+    distance_km: 0.89
+- country: US
+  region: UT
+  exchange: '201170'
+  name: PARTOUN
+  full_name: Partoun
+  lata: '660'
+  ilec_name: BEEHIVE TELEPHONE COMPANY, INC. (UTAH)
+  lat: '39.639363'
+  long: "-113.886907"
+  closest_city:
+    name: Hinckley
+    distance_km: 109.53
+- country: US
+  region: UT
+  exchange: '201180'
+  name: PAYSON
+  full_name: Payson
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '40.042812'
+  long: "-111.743077"
+  closest_city:
+    name: Payson
+    distance_km: 0.88
+- country: US
+  region: UT
+  exchange: '342830'
+  name: PENROSE
+  full_name: Penrose
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342831'
+  name: PEOA
+  full_name: Peoa
+  lata: '660'
+  ilec_name: ALL WEST COMMUNICATIONS - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342832'
+  name: PERRY
+  full_name: Perry
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342833'
+  name: PICKLEVL
+  full_name: Pickleville
+  lata: '660'
+  ilec_name: BEAR LAKE COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342834'
+  name: PINE VLY
+  full_name: Pine Valley
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342835'
+  name: PINTURA
+  full_name: Pintura
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342836'
+  name: PLAIN CITY
+  full_name: Plain City
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201190'
+  name: PLEASATGRV
+  full_name: Pleasant Grove
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '40.367518'
+  long: "-111.74167"
+  closest_city:
+    name: Pleasant Grove
+    distance_km: 0.46
+- country: US
+  region: UT
+  exchange: '342837'
+  name: PLEASANTVW
+  full_name: Pleasant View
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201200'
+  name: PORTAGE
+  full_name: Portage
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '41.976134'
+  long: "-112.23485"
+  closest_city:
+    name: Portage
+    distance_km: 0.47
+- country: US
+  region: UT
+  exchange: '201210'
+  name: PRICE
+  full_name: Price
+  lata: '660'
+  ilec_name: CARBON/EMERY TELCOM, INC. - UT
+  lat: '39.601669'
+  long: "-110.809429"
+  closest_city:
+    name: Price
+    distance_km: 0.82
+- country: US
+  region: UT
+  exchange: '200701'
+  name: PROMONTORY
+  full_name: Promontory
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342842'
+  name: PROVIDENCE
+  full_name: Providence
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201220'
+  name: PROVO
+  full_name: Provo
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '40.232953'
+  long: "-111.669843"
+  closest_city:
+    name: Provo
+    distance_km: 2.49
+- country: US
+  region: UT
+  exchange: '201230'
+  name: RANDLETT
+  full_name: Randlett
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat: '40.230873'
+  long: "-109.773941"
+  closest_city:
+    name: Randlett
+    distance_km: 4.85
+- country: US
+  region: UT
+  exchange: '201240'
+  name: RANDOLPH
+  full_name: Randolph
+  lata: '660'
+  ilec_name: ALL WEST COMMUNICATIONS - UT
+  lat: '41.667396'
+  long: "-111.180039"
+  closest_city:
+    name: Randolph
+    distance_km: 0.43
+- country: US
+  region: UT
+  exchange: '342847'
+  name: RED CANYON
+  full_name: Red Canyon
+  lata: '660'
+  ilec_name: UNION TEL. CO.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342848'
+  name: REDMOND
+  full_name: Redmond
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201250'
+  name: RICHFIELD
+  full_name: Richfield
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '38.767606'
+  long: "-112.081553"
+  closest_city:
+    name: Richfield
+    distance_km: 1.22
+- country: US
+  region: UT
+  exchange: '201260'
+  name: RICHMOND
+  full_name: Richmond
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '41.926669'
+  long: "-111.80826"
+  closest_city:
+    name: Richmond
+    distance_km: 0.4
+- country: US
+  region: UT
+  exchange: '342851'
+  name: RIVER HTS
+  full_name: River Heights
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342852'
+  name: RIVERDALE
+  full_name: Riverdale
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200952'
+  name: RIVERTON
+  full_name: Riverton
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342854'
+  name: ROCKPORT
+  full_name: Rockport
+  lata: '660'
+  ilec_name: ALL WEST COMMUNICATIONS - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342855'
+  name: ROCKYRIDGE
+  full_name: Rocky Ridge
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342846'
+  name: RCKYRDGTWN
+  full_name: Rocky Ridge Town
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201270'
+  name: ROOSEVELT
+  full_name: Roosevelt
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat: '40.299984'
+  long: "-109.992873"
+  closest_city:
+    name: Roosevelt
+    distance_km: 1.63
+- country: US
+  region: UT
+  exchange: '200312'
+  name: ROY
+  full_name: Roy
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342858'
+  name: ROYAL
+  full_name: Royal
+  lata: '660'
+  ilec_name: CARBON/EMERY TELCOM, INC. - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201280'
+  name: RUSHVALLEY
+  full_name: Rush Valley
+  lata: '660'
+  ilec_name: BEEHIVE TELEPHONE COMPANY, INC. (UTAH)
+  lat: '40.330546'
+  long: "-112.458941"
+  closest_city:
+    name: Rush Valley
+    distance_km: 3.49
+- country: US
+  region: UT
+  exchange: '342895'
+  name: ST JOHN
+  full_name: Saint John
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201361'
+  name: SALEM
+  full_name: Salem
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201290'
+  name: SALINA
+  full_name: Salina
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '38.950239'
+  long: "-111.855305"
+  closest_city:
+    name: Salina
+    distance_km: 1.54
+- country: US
+  region: UT
+  exchange: '201300'
+  name: SALT LAKE
+  full_name: Salt Lake City
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '40.758158'
+  long: "-111.882412"
+  closest_city:
+    name: Salt Lake City
+    distance_km: 4.64
+- country: US
+  region: UT
+  exchange: '342864'
+  name: SANDY
+  full_name: Sandy
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342865'
+  name: SANTACLARA
+  full_name: Santa Clara
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201181'
+  name: SANTAQUIN
+  full_name: Santaquin
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342867'
+  name: SARATOGSPG
+  full_name: Saratoga Springs
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201310'
+  name: SCIPIO
+  full_name: Scipio
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '39.241328'
+  long: "-112.098984"
+  closest_city:
+    name: Scipio
+    distance_km: 0.98
+- country: US
+  region: UT
+  exchange: '201320'
+  name: SCOFIELD
+  full_name: Scofield
+  lata: '660'
+  ilec_name: CENTRAL UTAH TEL., INC.
+  lat: '39.724842'
+  long: "-111.157137"
+  closest_city:
+    name: Scofield
+    distance_km: 0.71
+- country: US
+  region: UT
+  exchange: '342870'
+  name: SEVIER
+  full_name: Sevier
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342871'
+  name: SIGURD
+  full_name: Sigurd
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342872'
+  name: SILVERCITY
+  full_name: Silver City
+  lata: '660'
+  ilec_name: SKYLINE TELECOM
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342873'
+  name: SKULL VLY
+  full_name: Skull Valley
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342874'
+  name: SLATERVL
+  full_name: Slaterville
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201330'
+  name: SMITHFIELD
+  full_name: Smithfield
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '41.832329'
+  long: "-111.835509"
+  closest_city:
+    name: Smithfield
+    distance_km: 0.8
+- country: US
+  region: UT
+  exchange: '342876'
+  name: SNAKECREEK
+  full_name: Snake Creek
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342877'
+  name: SNOWBIRD
+  full_name: Snowbird
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201340'
+  name: SNOWVILLE
+  full_name: Snowville
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '41.966582'
+  long: "-112.715631"
+  closest_city:
+    name: Snowville
+    distance_km: 0.69
+- country: US
+  region: UT
+  exchange: '342879'
+  name: SNYDERVL
+  full_name: Snyderville
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201350'
+  name: SOLDER SMT
+  full_name: Soldier Summit
+  lata: '660'
+  ilec_name: CENTRAL UTAH TEL., INC.
+  lat: '39.941605'
+  long: "-111.074426"
+  closest_city:
+    name: Scofield
+    distance_km: 25.78
+- country: US
+  region: UT
+  exchange: '342880'
+  name: SO JORDAN
+  full_name: South Jordan
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342883'
+  name: SOUTHOGDEN
+  full_name: South Ogden
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342882'
+  name: SOUTH RIM
+  full_name: South Rim
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342860'
+  name: S SALTLAKE
+  full_name: South Salt Lake
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342884'
+  name: SOUTHWEBER
+  full_name: South Weber
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342885'
+  name: SOUTHWNDVR
+  full_name: South Wendover
+  lata: '660'
+  ilec_name: BEEHIVE TELEPHONE COMPANY, INC. (UTAH)
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201360'
+  name: SPANIHFORK
+  full_name: Spanish Fork
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '40.108262'
+  long: "-111.656792"
+  closest_city:
+    name: Spanish Fork
+    distance_km: 1.4
+- country: US
+  region: UT
+  exchange: '201370'
+  name: SPNSFKCNYN
+  full_name: Spanish Fork Canyon
+  lata: '660'
+  ilec_name: CENTRAL UTAH TEL., INC.
+  lat: '40.028969'
+  long: "-111.495929"
+  closest_city:
+    name: Mapleton
+    distance_km: 12.01
+- country: US
+  region: UT
+  exchange: '342887'
+  name: SPG CANYON
+  full_name: Spring Canyon
+  lata: '660'
+  ilec_name: CARBON/EMERY TELCOM, INC. - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342889'
+  name: SPRINGCITY
+  full_name: Spring City
+  lata: '660'
+  ilec_name: CENTRAL UTAH TEL., INC.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342891'
+  name: SPRINGLAKE
+  full_name: Spring Lake
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201380'
+  name: SPRINGDALE
+  full_name: Springdale
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '37.191683'
+  long: "-113.000377"
+  closest_city:
+    name: Springdale
+    distance_km: 1.19
+- country: US
+  region: UT
+  exchange: '201390'
+  name: SPRINGVL
+  full_name: Springville
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '40.167155'
+  long: "-111.615207"
+  closest_city:
+    name: Springville
+    distance_km: 0.58
+- country: US
+  region: UT
+  exchange: '342893'
+  name: SPRY
+  full_name: Spry
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201400'
+  name: ST GEORGE
+  full_name: St George
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '37.109423'
+  long: "-113.584755"
+  closest_city:
+    name: St. George
+    distance_km: 3.83
+- country: US
+  region: UT
+  exchange: '342896'
+  name: STANDARDVL
+  full_name: Standardville
+  lata: '660'
+  ilec_name: CARBON/EMERY TELCOM, INC. - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342897'
+  name: STNSBRY PK
+  full_name: Stansbury Park
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342898'
+  name: STOCKTON
+  full_name: Stockton
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342899'
+  name: SUGARVILLE
+  full_name: Sugarville
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342900'
+  name: SULPHURDL
+  full_name: Sulphurdale
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342901'
+  name: SUNNYSIDE
+  full_name: Sunnyside
+  lata: '660'
+  ilec_name: CARBON/EMERY TELCOM, INC. - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342902'
+  name: SUNSET
+  full_name: Sunset
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342903'
+  name: SUTHERLAND
+  full_name: Sutherland
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342904'
+  name: SYRACUSE
+  full_name: Syracuse
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201410'
+  name: TABIONA
+  full_name: Tabiona
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat: '40.353274'
+  long: "-110.704691"
+  closest_city:
+    name: Tabiona
+    distance_km: 0.43
+- country: US
+  region: UT
+  exchange: '342906'
+  name: TALMADGE
+  full_name: Talmadge
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342907'
+  name: TAYLOR
+  full_name: Taylor
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342908'
+  name: TAYLORSVL
+  full_name: Taylorsville
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342909'
+  name: TEASDALE
+  full_name: Teasdale
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342910'
+  name: TERRA
+  full_name: Terra
+  lata: '660'
+  ilec_name: SKYLINE TELECOM
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201420'
+  name: THATCHER
+  full_name: Thatcher
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '41.691012'
+  long: "-112.302599"
+  closest_city:
+    name: Thatcher
+    distance_km: 1.8
+- country: US
+  region: UT
+  exchange: '342912'
+  name: THISTLE
+  full_name: Thistle
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201430'
+  name: THOMPSON
+  full_name: Thompson
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '38.96643'
+  long: "-109.710152"
+  closest_city:
+    name: Thompson Springs
+    distance_km: 0.64
+- country: US
+  region: UT
+  exchange: '201440'
+  name: TICABOO
+  full_name: Ticaboo
+  lata: '660'
+  ilec_name: BEEHIVE TELEPHONE COMPANY, INC. (UTAH)
+  lat: '37.760616'
+  long: "-110.700318"
+  closest_city:
+    name: Halls Crossing
+    distance_km: 33.71
+- country: US
+  region: UT
+  exchange: '219340'
+  name: TIMBERLAKE
+  full_name: Timber Lakes
+  lata: '660'
+  ilec_name: ALL WEST COMMUNICATIONS - UT
+  lat: '40.492699'
+  long: "-111.2861"
+  closest_city:
+    name: Timber Lakes
+    distance_km: 3.51
+- country: US
+  region: UT
+  exchange: '342916'
+  name: TOD PARK
+  full_name: Tod Park
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201450'
+  name: TOOELE
+  full_name: Tooele
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '40.534641'
+  long: "-112.297563"
+  closest_city:
+    name: Tooele
+    distance_km: 1.04
+- country: US
+  region: UT
+  exchange: '342918'
+  name: TOQUERVL
+  full_name: Toquerville
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342919'
+  name: TORREY
+  full_name: Torrey
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201460'
+  name: TREMONTON
+  full_name: Tremonton
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat: '41.717852'
+  long: "-112.175917"
+  closest_city:
+    name: Tremonton
+    distance_km: 1.09
+- country: US
+  region: UT
+  exchange: '342921'
+  name: TRENTON
+  full_name: Trenton
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342922'
+  name: TRIDELL
+  full_name: Tridell
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342923'
+  name: TROPIC
+  full_name: Tropic
+  lata: '660'
+  ilec_name: SOUTH CENTRAL UTAH TEL. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342924'
+  name: TROUT CRK
+  full_name: Trout Creek
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342925'
+  name: TUCKER
+  full_name: Tucker
+  lata: '660'
+  ilec_name: CARBON/EMERY TELCOM, INC. - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342926'
+  name: UINTAH
+  full_name: Uintah
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342927'
+  name: UNION
+  full_name: Union
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342928'
+  name: UPALCO
+  full_name: Upalco
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342929'
+  name: UPPERFALLS
+  full_name: Upper Falls
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342930'
+  name: UPTON
+  full_name: Upton
+  lata: '660'
+  ilec_name: ALL WEST COMMUNICATIONS - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342931'
+  name: VENICE
+  full_name: Venice
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342932'
+  name: VERMILION
+  full_name: Vermilion
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201470'
+  name: VERNAL
+  full_name: Vernal
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat: '40.450764'
+  long: "-109.530353"
+  closest_city:
+    name: Vernal
+    distance_km: 0.64
+- country: US
+  region: UT
+  exchange: '201480'
+  name: VERNON
+  full_name: Vernon
+  lata: '660'
+  ilec_name: BEEHIVE TELEPHONE COMPANY, INC. (UTAH)
+  lat: '40.098826'
+  long: "-112.449606"
+  closest_city:
+    name: Vernon
+    distance_km: 0.48
+- country: US
+  region: UT
+  exchange: '201402'
+  name: VEYO
+  full_name: Veyo
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat: '37.109423'
+  long: "-113.584755"
+  closest_city:
+    name: St. George
+    distance_km: 3.83
+- country: US
+  region: UT
+  exchange: '342936'
+  name: VINEYARD
+  full_name: Vineyard
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342937'
+  name: VIRGIN
+  full_name: Virgin
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342938'
+  name: VIVIANPARK
+  full_name: Vivian Park
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342940'
+  name: WALES
+  full_name: Wales
+  lata: '660'
+  ilec_name: SKYLINE TELECOM
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342941'
+  name: WALLSBURG
+  full_name: Wallsburg
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342942'
+  name: WANSHIP
+  full_name: Wanship
+  lata: '660'
+  ilec_name: ALL WEST COMMUNICATIONS - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342943'
+  name: WARNER
+  full_name: Warner
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201490'
+  name: WASATCH
+  full_name: Wasatch
+  lata: '654'
+  ilec_name: ALL WEST COMMUNICATIONS - UT
+  lat: '41.207674'
+  long: "-111.11083"
+  closest_city:
+    name: Woodruff
+    distance_km: 35.14
+- country: US
+  region: UT
+  exchange: '201403'
+  name: WASHINGTON
+  full_name: Washington
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342960'
+  name: WSHNGTNTER
+  full_name: Washington Terrace
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342945'
+  name: WATTIS
+  full_name: Wattis
+  lata: '660'
+  ilec_name: CARBON/EMERY TELCOM, INC. - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201211'
+  name: WELLINGTON
+  full_name: Wellington
+  lata: '660'
+  ilec_name: CARBON/EMERY TELCOM, INC. - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342948'
+  name: WELLSVILLE
+  full_name: Wellsville
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '201500'
+  name: WENDOVER
+  full_name: Wendover
+  lata: '660'
+  ilec_name: SKYLINE TELECOM
+  lat: '40.733009'
+  long: "-114.042315"
+  closest_city:
+    name: Wendover
+    distance_km: 1.76
+- country: US
+  region: UT
+  exchange: '342946'
+  name: WBOUNTIFUL
+  full_name: West Bountiful
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342950'
+  name: WEST HAVEN
+  full_name: West Haven
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '200953'
+  name: WESTJORDAN
+  full_name: West Jordan
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342951'
+  name: WEST POINT
+  full_name: West Point
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342939'
+  name: W VLY CTY
+  full_name: West Valley City
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342953'
+  name: WHITE MESA
+  full_name: White Mesa
+  lata: '660'
+  ilec_name: CITIZENS TELECOM-UTAH DBA FRONTIER COMM OF UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342954'
+  name: WHITEROCKS
+  full_name: Whiterocks
+  lata: '660'
+  ilec_name: UBTA-UBET COMMUNICATIONS, INC. DBA STRATA NETWORKS
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342955'
+  name: WILDWOOD
+  full_name: Wildwood
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342956'
+  name: WILLARD
+  full_name: Willard
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342957'
+  name: WOODLNDHLS
+  full_name: Woodland Hills
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342958'
+  name: WOODRUFF
+  full_name: Woodruff
+  lata: '660'
+  ilec_name: ALL WEST COMMUNICATIONS - UT
+  lat:
+  long:
+- country: US
+  region: UT
+  exchange: '342959'
+  name: WOODSCROSS
+  full_name: Woods Cross
+  lata: '660'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:

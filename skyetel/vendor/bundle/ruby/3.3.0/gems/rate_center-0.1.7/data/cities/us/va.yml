@@ -1,0 +1,8090 @@
+---
+cities:
+- country: US
+  region: VA
+  name: Abbs Valley
+  lat: '37.2395'
+  long: "-81.4616"
+  nearby_rate_centers:
+  - name: POCAHONTAS
+    distance_km: 13.2
+  - name: TAZEWELL
+    distance_km: 13.46
+  - name: BLUEFIELD
+    distance_km: 17.3
+- country: US
+  region: VA
+  name: Abingdon
+  lat: '36.7090'
+  long: "-81.9713"
+  nearby_rate_centers:
+  - name: ABINGDON
+    distance_km: 1.43
+  - name: MEADOWVIEW
+    distance_km: 11.9
+  - name: DAMASCUS
+    distance_km: 18.63
+- country: US
+  region: VA
+  name: Accomac
+  lat: '37.7196'
+  long: "-75.6673"
+  nearby_rate_centers:
+  - name: ONANCOCK
+    distance_km: 6.67
+  - name: PARKSLEY
+    distance_km: 7.22
+  - name: TEMPERNCVL
+    distance_km: 21.56
+- country: US
+  region: VA
+  name: Adwolf
+  lat: '36.7942'
+  long: "-81.5937"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 7.72
+  - name: CHILHOWIE
+    distance_km: 8.26
+  - name: RICHVALLEY
+    distance_km: 12.85
+- country: US
+  region: VA
+  name: Afton
+  lat: '38.0266'
+  long: "-78.8357"
+  nearby_rate_centers:
+  - name: WAYNESBORO
+    distance_km: 6.48
+  - name: GREENWOOD
+    distance_km: 6.9
+  - name: CROZET
+    distance_km: 12.53
+- country: US
+  region: VA
+  name: Alberta
+  lat: '36.8552'
+  long: "-77.8937"
+  nearby_rate_centers:
+  - name: ALBERTA
+    distance_km: 1.66
+  - name: LAWRENCEVL
+    distance_km: 11.53
+  - name: BRODNAX
+    distance_km: 20.73
+- country: US
+  region: VA
+  name: Aldie
+  lat: '38.9761'
+  long: "-77.6450"
+  nearby_rate_centers:
+  - name: MIDDLEBURG
+    distance_km: 7.39
+  - name: ARCOLA
+    distance_km: 10.31
+  - name: THE PLAINS
+    distance_km: 16.32
+- country: US
+  region: VA
+  name: Alexandria
+  lat: '38.8185'
+  long: "-77.0861"
+  nearby_rate_centers:
+  - name: LORTONMTRO
+    distance_km: 6.99
+  - name: WSNGTNZN08
+    distance_km: 6.99
+  - name: WSNGTNZN17
+    distance_km: 10.38
+  - name: ENGLESIDE
+    distance_km: 15.56
+- country: US
+  region: VA
+  name: Allison Gap
+  lat: '36.8998'
+  long: "-81.7869"
+  nearby_rate_centers:
+  - name: SALTVILLE
+    distance_km: 3.21
+  - name: GLADE SPG
+    distance_km: 12.16
+  - name: CHILHOWIE
+    distance_km: 14.23
+- country: US
+  region: VA
+  name: Allisonia
+  lat: '36.9342'
+  long: "-80.7255"
+  nearby_rate_centers:
+  - name: SYLVATUS
+    distance_km: 9.45
+  - name: PULASKI
+    distance_km: 13.88
+  - name: AUSTINVL
+    distance_km: 19.34
+- country: US
+  region: VA
+  name: Altavista
+  lat: '37.1235'
+  long: "-79.2856"
+  nearby_rate_centers:
+  - name: ALTAVISTA
+    distance_km: 1.1
+  - name: HURT
+    distance_km: 2.8
+  - name: GLADYS
+    distance_km: 18.4
+- country: US
+  region: VA
+  name: Amelia Court House
+  lat: '37.3367'
+  long: "-77.9882"
+  nearby_rate_centers:
+  - name: AMELIACTHS
+    distance_km: 1.22
+  - name: CREWE
+    distance_km: 21.83
+  - name: POWHATAN
+    distance_km: 23.65
+- country: US
+  region: VA
+  name: Amherst
+  lat: '37.5816'
+  long: "-79.0509"
+  nearby_rate_centers:
+  - name: AMHERST
+    distance_km: 0.26
+  - name: SWEET BRIA
+    distance_km: 3.86
+  - name: PINEYRIVER
+    distance_km: 14.34
+- country: US
+  region: VA
+  name: Amonate
+  lat: '37.1907'
+  long: "-81.6405"
+  nearby_rate_centers:
+  - name: JEWELL RDG
+    distance_km: 12.77
+  - name: TAZEWELL
+    distance_km: 13.05
+  - name: RICHLANDS
+    distance_km: 17.48
+- country: US
+  region: VA
+  name: Annandale
+  lat: '38.8324'
+  long: "-77.1960"
+  nearby_rate_centers:
+  - name: WSNGTNZN17
+    distance_km: 7.24
+  - name: DULLESMTRO
+    distance_km: 9.72
+  - name: WSNGTNZN19
+    distance_km: 9.72
+  - name: LORTONMTRO
+    distance_km: 9.96
+  - name: WSNGTNZN08
+    distance_km: 9.96
+- country: US
+  region: VA
+  name: Appalachia
+  lat: '36.9098'
+  long: "-82.7882"
+  nearby_rate_centers:
+  - name: APPALACHIA
+    distance_km: 0.55
+  - name: BIGSTONEGP
+    distance_km: 4.93
+  - name: NORTON
+    distance_km: 14.21
+- country: US
+  region: VA
+  name: Apple Mountain Lake
+  lat: '38.9231'
+  long: "-78.1033"
+  nearby_rate_centers:
+  - name: FRONTROYAL
+    distance_km: 7.86
+  - name: BOYCE
+    distance_km: 18.97
+  - name: STEPHENSCY
+    distance_km: 20.58
+- country: US
+  region: VA
+  name: Appomattox
+  lat: '37.3592'
+  long: "-78.8276"
+  nearby_rate_centers:
+  - name: APPOMATTOX
+    distance_km: 1.12
+  - name: CONCORD
+    distance_km: 13.85
+  - name: PAMPLIN
+    distance_km: 17.03
+- country: US
+  region: VA
+  name: Aquia Harbour
+  lat: '38.4598'
+  long: "-77.3806"
+  nearby_rate_centers:
+  - name: STAFFORD
+    distance_km: 5.12
+  - name: TRIANGLE
+    distance_km: 10.95
+  - name: HARTWOOD
+    distance_km: 16.28
+- country: US
+  region: VA
+  name: Arcola
+  lat: '38.9447'
+  long: "-77.5307"
+  nearby_rate_centers:
+  - name: ARCOLA
+    distance_km: 0.61
+  - name: DULLES
+    distance_km: 7.71
+  - name: HERNDON
+    distance_km: 13.09
+- country: US
+  region: VA
+  name: Arlington
+  lat: '38.8786'
+  long: "-77.1011"
+  nearby_rate_centers:
+  - name: LORTONMTRO
+    distance_km: 0.28
+  - name: WSNGTNZN08
+    distance_km: 0.28
+  - name: WSNGTNZN17
+    distance_km: 5.37
+  - name: DULLESMTRO
+    distance_km: 14.66
+  - name: WSNGTNZN19
+    distance_km: 14.66
+- country: US
+  region: VA
+  name: Arrington
+  lat: '37.6744'
+  long: "-78.8928"
+  nearby_rate_centers:
+  - name: LOVINGSTON
+    distance_km: 9.28
+  - name: PINEYRIVER
+    distance_km: 12.49
+  - name: GLADSTONE
+    distance_km: 15.83
+- country: US
+  region: VA
+  name: Ashburn
+  lat: '39.0277'
+  long: "-77.4714"
+  nearby_rate_centers:
+  - name: DULLES
+    distance_km: 8.67
+  - name: ARCOLA
+    distance_km: 10.02
+  - name: HERNDON
+    distance_km: 10.42
+- country: US
+  region: VA
+  name: Ashland
+  lat: '37.7597'
+  long: "-77.4716"
+  nearby_rate_centers:
+  - name: ASHLAND
+    distance_km: 0.37
+  - name: GUM TREE
+    distance_km: 6.34
+  - name: HANOVER
+    distance_km: 9.23
+- country: US
+  region: VA
+  name: Atkins
+  lat: '36.8659'
+  long: "-81.4045"
+  nearby_rate_centers:
+  - name: SUGARGROVE
+    distance_km: 10.16
+  - name: MARION
+    distance_km: 11.02
+  - name: RURALRTRET
+    distance_km: 12.09
+- country: US
+  region: VA
+  name: Atlantic
+  lat: '37.9023'
+  long: "-75.5058"
+  nearby_rate_centers:
+  - name: TEMPERNCVL
+    distance_km: 4.23
+  - name: CHINCOTEGU
+    distance_km: 12.46
+  - name: PARKSLEY
+    distance_km: 18.29
+- country: US
+  region: VA
+  name: Augusta Springs
+  lat: '38.1080'
+  long: "-79.3352"
+  nearby_rate_centers:
+  - name: CRAIGSVL
+    distance_km: 4.26
+  - name: DEERFIELD
+    distance_km: 10.59
+  - name: BROWNSBURG
+    distance_km: 19.47
+- country: US
+  region: VA
+  name: Austinville
+  lat: '36.8510'
+  long: "-80.9142"
+  nearby_rate_centers:
+  - name: AUSTINVL
+    distance_km: 0.23
+  - name: SYLVATUS
+    distance_km: 13.04
+  - name: MAXMEADOWS
+    distance_km: 14.25
+- country: US
+  region: VA
+  name: Bailey's Crossroads
+  lat: '38.8477'
+  long: "-77.1305"
+  nearby_rate_centers:
+  - name: LORTONMTRO
+    distance_km: 4.56
+  - name: WSNGTNZN08
+    distance_km: 4.56
+  - name: WSNGTNZN17
+    distance_km: 5.53
+  - name: DULLESMTRO
+    distance_km: 13.24
+  - name: WSNGTNZN19
+    distance_km: 13.24
+- country: US
+  region: VA
+  name: Barboursville
+  lat: '38.1704'
+  long: "-78.2831"
+  nearby_rate_centers:
+  - name: GORDONSVL
+    distance_km: 9.71
+  - name: ORANGE
+    distance_km: 17.83
+  - name: STANARDSVL
+    distance_km: 19.52
+- country: US
+  region: VA
+  name: Baskerville
+  lat: '36.6844'
+  long: "-78.2732"
+  nearby_rate_centers:
+  - name: BEECHWOOD
+    distance_km: 9.05
+  - name: BOYDTON
+    distance_km: 10.89
+  - name: SOUTH HILL
+    distance_km: 13.38
+- country: US
+  region: VA
+  name: Bassett
+  lat: '36.7615'
+  long: "-79.9866"
+  nearby_rate_centers:
+  - name: BASSETT
+    distance_km: 0.4
+  - name: FIELDALE
+    distance_km: 7.56
+  - name: COLLINSVL
+    distance_km: 9.32
+- country: US
+  region: VA
+  name: Bastian
+  lat: '37.1535'
+  long: "-81.1525"
+  nearby_rate_centers:
+  - name: BLAND
+    distance_km: 6.55
+  - name: ROCKY GAP
+    distance_km: 10.7
+  - name: BLUEFIELD
+    distance_km: 15.37
+- country: US
+  region: VA
+  name: Basye
+  lat: '38.8182'
+  long: "-78.7659"
+  nearby_rate_centers:
+  - name: BASYE
+    distance_km: 1.47
+  - name: MT JACKSON
+    distance_km: 13.22
+  - name: BERGTON
+    distance_km: 16.46
+- country: US
+  region: VA
+  name: Bayside
+  lat: '37.7548'
+  long: "-75.7128"
+  nearby_rate_centers:
+  - name: ONANCOCK
+    distance_km: 4.87
+  - name: PARKSLEY
+    distance_km: 6.41
+  - name: TEMPERNCVL
+    distance_km: 20.69
+- country: US
+  region: VA
+  name: Baywood
+  lat: '36.6172'
+  long: "-81.0094"
+  nearby_rate_centers:
+  - name: GALAX
+    distance_km: 9.24
+  - name: FRIES
+    distance_km: 12.36
+  - name: INDEPNDNCE
+    distance_km: 13.17
+- country: US
+  region: VA
+  name: Bealeton
+  lat: '38.5822'
+  long: "-77.7781"
+  nearby_rate_centers:
+  - name: REMINGTON
+    distance_km: 6.05
+  - name: CALVERTON
+    distance_km: 10.69
+  - name: WARRENTON
+    distance_km: 15.11
+- country: US
+  region: VA
+  name: Bedford
+  lat: '37.3360'
+  long: "-79.5179"
+  nearby_rate_centers:
+  - name: BEDFORD
+    distance_km: 0.77
+  - name: STONE MT
+    distance_km: 17.35
+  - name: MONTVALE
+    distance_km: 19.13
+- country: US
+  region: VA
+  name: Belle Haven
+  lat: '38.7775'
+  long: "-77.0574"
+  nearby_rate_centers:
+  - name: LORTONMTRO
+    distance_km: 12.01
+  - name: WSNGTNZN08
+    distance_km: 12.01
+  - name: ENGLESIDE
+    distance_km: 14.97
+  - name: WSNGTNZN17
+    distance_km: 15.52
+- country: US
+  region: VA
+  name: Bellwood
+  lat: '37.4060'
+  long: "-77.4363"
+  nearby_rate_centers:
+  - name: CHESTER
+    distance_km: 5.31
+  - name: VARINA
+    distance_km: 9.32
+  - name: ENON
+    distance_km: 12.45
+- country: US
+  region: VA
+  name: Belmont
+  lat: '39.0622'
+  long: "-77.4985"
+  nearby_rate_centers:
+  - name: LEESBURG
+    distance_km: 8.68
+  - name: ARCOLA
+    distance_km: 12.76
+  - name: DULLES
+    distance_km: 13.07
+- country: US
+  region: VA
+  name: Belmont Estates
+  lat: '38.4464'
+  long: "-78.9228"
+  nearby_rate_centers:
+  - name: DAYTON
+    distance_km: 3.44
+  - name: HARRISONBG
+    distance_km: 4.74
+  - name: HINTON
+    distance_km: 4.95
+- country: US
+  region: VA
+  name: Belspring
+  lat: '37.1938'
+  long: "-80.6097"
+  nearby_rate_centers:
+  - name: RADFORD
+    distance_km: 7.29
+  - name: DUBLIN
+    distance_km: 11.74
+  - name: PEMBROKE
+    distance_km: 14.18
+- country: US
+  region: VA
+  name: Belview
+  lat: '37.1688'
+  long: "-80.5110"
+  nearby_rate_centers:
+  - name: RADFORD
+    distance_km: 7.03
+  - name: CHRISTISBG
+    distance_km: 10.02
+  - name: BLACKSBURG
+    distance_km: 10.93
+- country: US
+  region: VA
+  name: Benns Church
+  lat: '36.9370'
+  long: "-76.5842"
+  nearby_rate_centers:
+  - name: SMITHFIELD
+    distance_km: 6.64
+  - name: CHUCKATUCK
+    distance_km: 8.7
+  - name: CRITTENDEN
+    distance_km: 13.82
+- country: US
+  region: VA
+  name: Bensley
+  lat: '37.4470'
+  long: "-77.4420"
+  nearby_rate_centers:
+  - name: VARINA
+    distance_km: 8.43
+  - name: CHESTER
+    distance_km: 9.89
+  - name: RICHMOND
+    distance_km: 10.62
+- country: US
+  region: VA
+  name: Berryville
+  lat: '39.1504'
+  long: "-77.9825"
+  nearby_rate_centers:
+  - name: BERRYVILLE
+    distance_km: 0.03
+  - name: BOYCE
+    distance_km: 9.31
+  - name: BLUEMONT
+    distance_km: 13.69
+- country: US
+  region: VA
+  name: Bethel Manor
+  lat: '37.0972'
+  long: "-76.4243"
+  nearby_rate_centers:
+  - name: NWPTNWSZN4
+    distance_km: 6.37
+  - name: NWPTNWSZN3
+    distance_km: 9.48
+  - name: NWPTNWSZN2
+    distance_km: 10.68
+- country: US
+  region: VA
+  name: Big Island
+  lat: '37.5351'
+  long: "-79.3615"
+  nearby_rate_centers:
+  - name: BIG ISLAND
+    distance_km: 0.35
+  - name: GLASGOW
+    distance_km: 14.38
+  - name: NATURALBDG
+    distance_km: 20.12
+- country: US
+  region: VA
+  name: Big Rock
+  lat: '37.3536'
+  long: "-82.1887"
+  nearby_rate_centers:
+  - name: BIG ROCK
+    distance_km: 0.95
+  - name: MAXIE
+    distance_km: 7.01
+  - name: GRUNDY
+    distance_km: 11.82
+- country: US
+  region: VA
+  name: Big Stone Gap
+  lat: '36.8626'
+  long: "-82.7769"
+  nearby_rate_centers:
+  - name: BIGSTONEGP
+    distance_km: 0.6
+  - name: APPALACHIA
+    distance_km: 5.17
+  - name: NORTON
+    distance_km: 15.14
+- country: US
+  region: VA
+  name: Big Stone Gap East
+  lat: '36.8785'
+  long: "-82.7444"
+  nearby_rate_centers:
+  - name: BIGSTONEGP
+    distance_km: 2.85
+  - name: APPALACHIA
+    distance_km: 4.76
+  - name: NORTON
+    distance_km: 11.75
+- country: US
+  region: VA
+  name: Blacksburg
+  lat: '37.2300'
+  long: "-80.4279"
+  nearby_rate_centers:
+  - name: BLACKSBURG
+    distance_km: 0.99
+  - name: NEWPORT
+    distance_km: 8.99
+  - name: CHRISTISBG
+    distance_km: 10.72
+- country: US
+  region: VA
+  name: Blackstone
+  lat: '37.0822'
+  long: "-78.0030"
+  nearby_rate_centers:
+  - name: BLACKSTONE
+    distance_km: 1.18
+  - name: CREWE
+    distance_km: 14.78
+  - name: KENBRIDGE
+    distance_km: 17.49
+- country: US
+  region: VA
+  name: Blairs
+  lat: '36.6958'
+  long: "-79.3774"
+  nearby_rate_centers:
+  - name: DANVILLE
+    distance_km: 12.81
+  - name: WHITMELL
+    distance_km: 13.4
+  - name: CHATHAM
+    distance_km: 14.07
+- country: US
+  region: VA
+  name: Bland
+  lat: '37.1000'
+  long: "-81.1161"
+  nearby_rate_centers:
+  - name: BLAND
+    distance_km: 0.22
+  - name: ROCKY GAP
+    distance_km: 15.93
+  - name: WYTHEVILLE
+    distance_km: 16.81
+- country: US
+  region: VA
+  name: Bloxom
+  lat: '37.8292'
+  long: "-75.6214"
+  nearby_rate_centers:
+  - name: PARKSLEY
+    distance_km: 5.69
+  - name: TEMPERNCVL
+    distance_km: 9.17
+  - name: ONANCOCK
+    distance_km: 16.34
+- country: US
+  region: VA
+  name: Blue Ridge
+  lat: '37.3783'
+  long: "-79.8206"
+  nearby_rate_centers:
+  - name: TROUTVILLE
+    distance_km: 6.36
+  - name: MONTVALE
+    distance_km: 8.72
+  - name: FINCASTLE
+    distance_km: 14.41
+- country: US
+  region: VA
+  name: Blue Ridge Shores
+  lat: '38.1091'
+  long: "-78.0236"
+  nearby_rate_centers:
+  - name: LOUISA
+    distance_km: 9.35
+  - name: GORDONSVL
+    distance_km: 14.13
+  - name: MINERAL
+    distance_km: 14.96
+- country: US
+  region: VA
+  name: Bluefield
+  lat: '37.2351'
+  long: "-81.2751"
+  nearby_rate_centers:
+  - name: BLUEFIELD
+    distance_km: 2.54
+  - name: POCAHONTAS
+    distance_km: 10.19
+  - name: ROCKY GAP
+    distance_km: 14.75
+- country: US
+  region: VA
+  name: Bobtown
+  lat: '37.6493'
+  long: "-75.7998"
+  nearby_rate_centers:
+  - name: ONANCOCK
+    distance_km: 9.13
+  - name: BELLEHAVEN
+    distance_km: 10.28
+  - name: PARKSLEY
+    distance_km: 19.91
+- country: US
+  region: VA
+  name: Boissevain
+  lat: '37.2809'
+  long: "-81.3802"
+  nearby_rate_centers:
+  - name: POCAHONTAS
+    distance_km: 4.7
+  - name: BLUEFIELD
+    distance_km: 10.33
+  - name: BURKESGRDN
+    distance_km: 20.43
+- country: US
+  region: VA
+  name: Bon Air
+  lat: '37.5187'
+  long: "-77.5713"
+  nearby_rate_centers:
+  - name: MIDLOTHIAN
+    distance_km: 7.54
+  - name: RICHMOND
+    distance_km: 12.29
+  - name: MANAKIN
+    distance_km: 14.54
+- country: US
+  region: VA
+  name: Boones Mill
+  lat: '37.1156'
+  long: "-79.9514"
+  nearby_rate_centers:
+  - name: BOONESMILL
+    distance_km: 0.03
+  - name: ROCKYMOUNT
+    distance_km: 14.57
+  - name: BENT MT
+    distance_km: 16.42
+- country: US
+  region: VA
+  name: Boston
+  lat: '37.6039'
+  long: "-75.8437"
+  nearby_rate_centers:
+  - name: BELLEHAVEN
+    distance_km: 5.67
+  - name: ONANCOCK
+    distance_km: 15.48
+  - name: PARKSLEY
+    distance_km: 26.25
+- country: US
+  region: VA
+  name: Bowling Green
+  lat: '38.0535'
+  long: "-77.3473"
+  nearby_rate_centers:
+  - name: BOWLNGGREN
+    distance_km: 0.51
+  - name: LADYSMITH
+    distance_km: 15.32
+  - name: PORT ROYAL
+    distance_km: 18.37
+- country: US
+  region: VA
+  name: Boyce
+  lat: '39.0933'
+  long: "-78.0601"
+  nearby_rate_centers:
+  - name: BOYCE
+    distance_km: 0.46
+  - name: BERRYVILLE
+    distance_km: 9.2
+  - name: STEPHENSCY
+    distance_km: 13.62
+- country: US
+  region: VA
+  name: Boydton
+  lat: '36.6660'
+  long: "-78.3908"
+  nearby_rate_centers:
+  - name: BOYDTON
+    distance_km: 0.33
+  - name: EPPES FORK
+    distance_km: 12.67
+  - name: CLARKSVL
+    distance_km: 15.73
+- country: US
+  region: VA
+  name: Boykins
+  lat: '36.5779'
+  long: "-77.1989"
+  nearby_rate_centers:
+  - name: BOYKINS
+    distance_km: 0.63
+  - name: CAPRON
+    distance_km: 15.58
+  - name: COURTLAND
+    distance_km: 19.41
+- country: US
+  region: VA
+  name: Bracey
+  lat: '36.5762'
+  long: "-78.1107"
+  nearby_rate_centers:
+  - name: BLACKRIDGE
+    distance_km: 8.72
+  - name: BEECHWOOD
+    distance_km: 10.46
+  - name: LA CROSSE
+    distance_km: 13.59
+- country: US
+  region: VA
+  name: Braddock
+  lat: '38.8308'
+  long: "-77.3565"
+  nearby_rate_centers:
+  - name: BRADDOCK
+    distance_km: 6.27
+  - name: DULLESMTRO
+    distance_km: 10.77
+  - name: WSNGTNZN19
+    distance_km: 10.77
+  - name: MANASSAS
+    distance_km: 13.82
+- country: US
+  region: VA
+  name: Brambleton
+  lat: '38.9803'
+  long: "-77.5323"
+  nearby_rate_centers:
+  - name: ARCOLA
+    distance_km: 3.35
+  - name: DULLES
+    distance_km: 8.35
+  - name: HERNDON
+    distance_km: 13.14
+- country: US
+  region: VA
+  name: Branchville
+  lat: '36.5698'
+  long: "-77.2501"
+  nearby_rate_centers:
+  - name: BOYKINS
+    distance_km: 4.92
+  - name: CAPRON
+    distance_km: 17.05
+  - name: COURTLAND
+    distance_km: 23.14
+- country: US
+  region: VA
+  name: Brandermill
+  lat: '37.4340'
+  long: "-77.6522"
+  nearby_rate_centers:
+  - name: BETHIA
+    distance_km: 5.23
+  - name: MIDLOTHIAN
+    distance_km: 7.3
+  - name: MANAKIN
+    distance_km: 19.08
+- country: US
+  region: VA
+  name: Brandy Station
+  lat: '38.4977'
+  long: "-77.8899"
+  nearby_rate_centers:
+  - name: REMINGTON
+    distance_km: 8.04
+  - name: CULPEPER
+    distance_km: 10.13
+  - name: CALVERTON
+    distance_km: 24.08
+- country: US
+  region: VA
+  name: Breaks
+  lat: '37.3004'
+  long: "-82.2758"
+  nearby_rate_centers:
+  - name: MAXIE
+    distance_km: 7.33
+  - name: HAYSI
+    distance_km: 10.32
+  - name: BIG ROCK
+    distance_km: 10.64
+- country: US
+  region: VA
+  name: Bridgewater
+  lat: '38.3862'
+  long: "-78.9674"
+  nearby_rate_centers:
+  - name: BRIDGEWTR
+    distance_km: 0.64
+  - name: DAYTON
+    distance_km: 4.57
+  - name: HINTON
+    distance_km: 8.85
+- country: US
+  region: VA
+  name: Brightwood
+  lat: '38.4132'
+  long: "-78.1880"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 7.59
+  - name: CRIGLERSVL
+    distance_km: 10.9
+  - name: CULPEPER
+    distance_km: 17.48
+- country: US
+  region: VA
+  name: Bristol
+  lat: '36.6181'
+  long: "-82.1604"
+  nearby_rate_centers:
+  - name: BRISTOL
+    distance_km: 3.52
+  - name: ABINGDON
+    distance_km: 19.05
+  - name: NICKELSVL
+    distance_km: 26.91
+- country: US
+  region: VA
+  name: Broadlands
+  lat: '39.0168'
+  long: "-77.5167"
+  nearby_rate_centers:
+  - name: ARCOLA
+    distance_km: 7.5
+  - name: DULLES
+    distance_km: 9.57
+  - name: LEESBURG
+    distance_km: 12.2
+- country: US
+  region: VA
+  name: Broadway
+  lat: '38.6083'
+  long: "-78.8016"
+  nearby_rate_centers:
+  - name: BROADWAY
+    distance_km: 4.48
+  - name: EDOM
+    distance_km: 10.33
+  - name: NEW MARKET
+    distance_km: 11.82
+- country: US
+  region: VA
+  name: Brodnax
+  lat: '36.7033'
+  long: "-78.0318"
+  nearby_rate_centers:
+  - name: BRODNAX
+    distance_km: 0.27
+  - name: LA CROSSE
+    distance_km: 6.17
+  - name: BLACKRIDGE
+    distance_km: 7.18
+- country: US
+  region: VA
+  name: Brookneal
+  lat: '37.0532'
+  long: "-78.9485"
+  nearby_rate_centers:
+  - name: BROOKNEAL
+    distance_km: 1.06
+  - name: VOLENS
+    distance_km: 14.38
+  - name: GLADYS
+    distance_km: 16.58
+- country: US
+  region: VA
+  name: Brucetown
+  lat: '39.2520'
+  long: "-78.0605"
+  nearby_rate_centers:
+  - name: WINCHESTER
+    distance_km: 11.72
+  - name: BERRYVILLE
+    distance_km: 13.13
+  - name: GAINESBORO
+    distance_km: 17.4
+- country: US
+  region: VA
+  name: Buchanan
+  lat: '37.5212'
+  long: "-79.6893"
+  nearby_rate_centers:
+  - name: BUCHANAN
+    distance_km: 1.49
+  - name: MONTVALE
+    distance_km: 14.83
+  - name: EAGLE ROCK
+    distance_km: 16.42
+- country: US
+  region: VA
+  name: Buckhall
+  lat: '38.7239'
+  long: "-77.4476"
+  nearby_rate_centers:
+  - name: MANASSAS
+    distance_km: 3.98
+  - name: INDENDNTHL
+    distance_km: 7.1
+  - name: NOKESVILLE
+    distance_km: 12.16
+- country: US
+  region: VA
+  name: Buckingham Courthouse
+  lat: '37.5541'
+  long: "-78.5514"
+  nearby_rate_centers:
+  - name: BUCKINGHAM
+    distance_km: 0.6
+  - name: DILLWYN
+    distance_km: 8.25
+  - name: ARVONIA
+    distance_km: 22.89
+- country: US
+  region: VA
+  name: Buena Vista
+  lat: '37.7319'
+  long: "-79.3568"
+  nearby_rate_centers:
+  - name: BUENAVISTA
+    distance_km: 0.81
+  - name: LEXINGTON
+    distance_km: 9.57
+  - name: ALLWOOD
+    distance_km: 13.97
+- country: US
+  region: VA
+  name: Bull Run
+  lat: '38.7802'
+  long: "-77.5204"
+  nearby_rate_centers:
+  - name: MANASSAS
+    distance_km: 4.92
+  - name: HAYMARKET
+    distance_km: 10.25
+  - name: NOKESVILLE
+    distance_km: 10.33
+- country: US
+  region: VA
+  name: Bull Run
+  lat: '38.8396'
+  long: "-77.4897"
+  nearby_rate_centers:
+  - name: BRADDOCK
+    distance_km: 5.36
+  - name: MANASSAS
+    distance_km: 9.95
+  - name: HAYMARKET
+    distance_km: 12.77
+- country: US
+  region: VA
+  name: Bull Run Mountain Estates
+  lat: '38.9106'
+  long: "-77.6638"
+  nearby_rate_centers:
+  - name: MIDDLEBURG
+    distance_km: 8.49
+  - name: THE PLAINS
+    distance_km: 10.58
+  - name: HAYMARKET
+    distance_km: 11.48
+- country: US
+  region: VA
+  name: Burke
+  lat: '38.7773'
+  long: "-77.2633"
+  nearby_rate_centers:
+  - name: ENGLESIDE
+    distance_km: 7.74
+  - name: LORTON
+    distance_km: 9.64
+  - name: OCCOQUAN
+    distance_km: 10.44
+- country: US
+  region: VA
+  name: Burke Centre
+  lat: '38.7903'
+  long: "-77.2999"
+  nearby_rate_centers:
+  - name: ENGLESIDE
+    distance_km: 10.87
+  - name: LORTON
+    distance_km: 11.77
+  - name: OCCOQUAN
+    distance_km: 12.39
+- country: US
+  region: VA
+  name: Burkeville
+  lat: '37.1879'
+  long: "-78.2012"
+  nearby_rate_centers:
+  - name: BURKEVILLE
+    distance_km: 0.38
+  - name: CREWE
+    distance_km: 6.99
+  - name: FARMVILLE
+    distance_km: 20.51
+- country: US
+  region: VA
+  name: Callaghan
+  lat: '37.8112'
+  long: "-80.0871"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 8.75
+  - name: CROWSHMTIT
+    distance_km: 12.88
+  - name: POTTSCREEK
+    distance_km: 22.74
+- country: US
+  region: VA
+  name: Calverton
+  lat: '38.6355'
+  long: "-77.6662"
+  nearby_rate_centers:
+  - name: CALVERTON
+    distance_km: 0.71
+  - name: NOKESVILLE
+    distance_km: 10.23
+  - name: WARRENTON
+    distance_km: 14.2
+- country: US
+  region: VA
+  name: Camp Barrett
+  lat: '38.5198'
+  long: "-77.4441"
+  nearby_rate_centers:
+  - name: TRIANGLE
+    distance_km: 10.23
+  - name: STAFFORD
+    distance_km: 11.69
+  - name: INDENDNTHL
+    distance_km: 15.6
+- country: US
+  region: VA
+  name: Camptown
+  lat: '36.6833'
+  long: "-76.8965"
+  nearby_rate_centers:
+  - name: FRANKLIN
+    distance_km: 2.29
+  - name: HOLLAND
+    distance_km: 10.95
+  - name: COURTLAND
+    distance_km: 15.41
+- country: US
+  region: VA
+  name: Cana
+  lat: '36.5816'
+  long: "-80.6688"
+  nearby_rate_centers:
+  - name: CANA
+    distance_km: 1.3
+  - name: ARARAT
+    distance_km: 14.47
+  - name: LAURELFORK
+    distance_km: 20.39
+- country: US
+  region: VA
+  name: Cape Charles
+  lat: '37.2570'
+  long: "-76.0093"
+  nearby_rate_centers:
+  - name: CAPECHARLS
+    distance_km: 1.46
+  - name: EASTVILLE
+    distance_km: 11.86
+  - name: MATHEWS
+    distance_km: 33.42
+- country: US
+  region: VA
+  name: Capron
+  lat: '36.7093'
+  long: "-77.2013"
+  nearby_rate_centers:
+  - name: CAPRON
+    distance_km: 0.97
+  - name: COURTLAND
+    distance_km: 12.2
+  - name: BOYKINS
+    distance_km: 13.99
+- country: US
+  region: VA
+  name: Captains Cove
+  lat: '38.0003'
+  long: "-75.4173"
+  nearby_rate_centers:
+  - name: CHINCOTEGU
+    distance_km: 8.51
+  - name: TEMPERNCVL
+    distance_km: 16.96
+  - name: PARKSLEY
+    distance_km: 31.59
+- country: US
+  region: VA
+  name: Carrollton
+  lat: '36.9382'
+  long: "-76.5238"
+  nearby_rate_centers:
+  - name: NWPTNWSZN1
+    distance_km: 9.31
+  - name: CRITTENDEN
+    distance_km: 9.34
+  - name: CHUCKATUCK
+    distance_km: 9.76
+- country: US
+  region: VA
+  name: Carrsville
+  lat: '36.7088'
+  long: "-76.8370"
+  nearby_rate_centers:
+  - name: HOLLAND
+    distance_km: 6.36
+  - name: FRANKLIN
+    distance_km: 8.31
+  - name: WINDSOR
+    distance_km: 14.03
+- country: US
+  region: VA
+  name: Cascades
+  lat: '39.0464'
+  long: "-77.3874"
+  nearby_rate_centers:
+  - name: HERNDON
+    distance_km: 9.05
+  - name: DULLES
+    distance_km: 11.4
+  - name: ARCOLA
+    distance_km: 16.35
+- country: US
+  region: VA
+  name: Castlewood
+  lat: '36.8782'
+  long: "-82.2879"
+  nearby_rate_centers:
+  - name: ST PAUL
+    distance_km: 3.93
+  - name: DANTE
+    distance_km: 11.59
+  - name: DUNGANNON
+    distance_km: 16.66
+- country: US
+  region: VA
+  name: Catlett
+  lat: '38.6540'
+  long: "-77.6370"
+  nearby_rate_centers:
+  - name: CALVERTON
+    distance_km: 3.95
+  - name: NOKESVILLE
+    distance_km: 7.0
+  - name: WARRENTON
+    distance_km: 15.16
+- country: US
+  region: VA
+  name: Cats Bridge
+  lat: '37.5491'
+  long: "-75.7797"
+  nearby_rate_centers:
+  - name: BELLEHAVEN
+    distance_km: 3.36
+  - name: ONANCOCK
+    distance_km: 19.07
+  - name: EASTVILLE
+    distance_km: 26.45
+- country: US
+  region: VA
+  name: Cave Spring
+  lat: '37.2254'
+  long: "-80.0072"
+  nearby_rate_centers:
+  - name: ROANOKE
+    distance_km: 7.58
+  - name: SALEM
+    distance_km: 8.42
+  - name: BOONESMILL
+    distance_km: 13.18
+- country: US
+  region: VA
+  name: Cedar Bluff
+  lat: '37.0876'
+  long: "-81.7633"
+  nearby_rate_centers:
+  - name: RICHLANDS
+    distance_km: 3.58
+  - name: JEWELL RDG
+    distance_km: 10.74
+  - name: HONAKER
+    distance_km: 20.45
+- country: US
+  region: VA
+  name: Central Garage
+  lat: '37.7458'
+  long: "-77.1316"
+  nearby_rate_centers:
+  - name: KINGWILLIM
+    distance_km: 1.61
+  - name: OLD CHURCH
+    distance_km: 13.44
+  - name: HANOVER
+    distance_km: 20.72
+- country: US
+  region: VA
+  name: Centreville
+  lat: '38.8390'
+  long: "-77.4389"
+  nearby_rate_centers:
+  - name: BRADDOCK
+    distance_km: 0.96
+  - name: MANASSAS
+    distance_km: 10.41
+  - name: DULLES
+    distance_km: 12.69
+- country: US
+  region: VA
+  name: Chamberlayne
+  lat: '37.6280'
+  long: "-77.4288"
+  nearby_rate_centers:
+  - name: MECHANCSVL
+    distance_km: 6.25
+  - name: RICHMOND
+    distance_km: 9.54
+  - name: ASHLAND
+    distance_km: 14.9
+- country: US
+  region: VA
+  name: Chantilly
+  lat: '38.8868'
+  long: "-77.4453"
+  nearby_rate_centers:
+  - name: BRADDOCK
+    distance_km: 5.41
+  - name: DULLES
+    distance_km: 7.38
+  - name: ARCOLA
+    distance_km: 10.2
+- country: US
+  region: VA
+  name: Charles City
+  lat: '37.3440'
+  long: "-77.0687"
+  nearby_rate_centers:
+  - name: CHARLES CY
+    distance_km: 0.11
+  - name: PROVICFORG
+    distance_km: 10.86
+  - name: CLAREMONT
+    distance_km: 15.9
+- country: US
+  region: VA
+  name: Charlotte Court House
+  lat: '37.0563'
+  long: "-78.6377"
+  nearby_rate_centers:
+  - name: CHRLTTCTHS
+    distance_km: 0.87
+  - name: DRAKESBRCH
+    distance_km: 7.94
+  - name: KEYSVILLE
+    distance_km: 13.74
+- country: US
+  region: VA
+  name: Charlottesville
+  lat: '38.0375'
+  long: "-78.4855"
+  nearby_rate_centers:
+  - name: CHARLOTSVL
+    distance_km: 0.73
+  - name: CROZET
+    distance_km: 19.2
+  - name: GREENWOOD
+    distance_km: 24.67
+- country: US
+  region: VA
+  name: Chase City
+  lat: '36.7998'
+  long: "-78.4610"
+  nearby_rate_centers:
+  - name: CHASE CITY
+    distance_km: 0.44
+  - name: BARNESVL
+    distance_km: 12.16
+  - name: BOYDTON
+    distance_km: 15.85
+- country: US
+  region: VA
+  name: Chase Crossing
+  lat: '37.7604'
+  long: "-75.6658"
+  nearby_rate_centers:
+  - name: PARKSLEY
+    distance_km: 2.9
+  - name: ONANCOCK
+    distance_km: 8.27
+  - name: TEMPERNCVL
+    distance_km: 17.61
+- country: US
+  region: VA
+  name: Chatham
+  lat: '36.8185'
+  long: "-79.3967"
+  nearby_rate_centers:
+  - name: CHATHAM
+    distance_km: 0.33
+  - name: GRETNA
+    distance_km: 15.84
+  - name: WHITMELL
+    distance_km: 16.64
+- country: US
+  region: VA
+  name: Chatmoss
+  lat: '36.6758'
+  long: "-79.7981"
+  nearby_rate_centers:
+  - name: MARTINSVL
+    distance_km: 7.14
+  - name: AXTON
+    distance_km: 8.01
+  - name: RIDGEWAY
+    distance_km: 10.58
+- country: US
+  region: VA
+  name: Cheriton
+  lat: '37.2919'
+  long: "-75.9678"
+  nearby_rate_centers:
+  - name: CAPECHARLS
+    distance_km: 5.11
+  - name: EASTVILLE
+    distance_km: 6.83
+  - name: BELLEHAVEN
+    distance_km: 32.45
+- country: US
+  region: VA
+  name: Cherry Hill
+  lat: '38.5696'
+  long: "-77.2895"
+  nearby_rate_centers:
+  - name: TRIANGLE
+    distance_km: 4.34
+  - name: DALE CITY
+    distance_km: 7.41
+  - name: OCCOQUAN
+    distance_km: 12.93
+- country: US
+  region: VA
+  name: Chesapeake
+  lat: '36.6778'
+  long: "-76.3023"
+  nearby_rate_centers:
+  - name: NRFOLKZON1
+    distance_km: 7.32
+  - name: NRFOLKZON6
+    distance_km: 10.03
+  - name: NRFOLKZON3
+    distance_km: 17.43
+- country: US
+  region: VA
+  name: Chester
+  lat: '37.3531'
+  long: "-77.4342"
+  nearby_rate_centers:
+  - name: CHESTER
+    distance_km: 0.6
+  - name: ENON
+    distance_km: 10.35
+  - name: VARINA
+    distance_km: 13.28
+- country: US
+  region: VA
+  name: Chester Gap
+  lat: '38.8534'
+  long: "-78.1325"
+  nearby_rate_centers:
+  - name: FRONTROYAL
+    distance_km: 9.51
+  - name: WASHINGTON
+    distance_km: 15.19
+  - name: SPERRYVL
+    distance_km: 23.06
+- country: US
+  region: VA
+  name: Chilhowie
+  lat: '36.8009'
+  long: "-81.6832"
+  nearby_rate_centers:
+  - name: CHILHOWIE
+    distance_km: 0.27
+  - name: GLADE SPG
+    distance_km: 7.5
+  - name: SALTVILLE
+    distance_km: 11.31
+- country: US
+  region: VA
+  name: Chincoteague
+  lat: '37.9593'
+  long: "-75.3495"
+  nearby_rate_centers:
+  - name: CHINCOTEGU
+    distance_km: 3.34
+  - name: TEMPERNCVL
+    distance_km: 19.31
+  - name: PARKSLEY
+    distance_km: 32.81
+- country: US
+  region: VA
+  name: Christiansburg
+  lat: '37.1406'
+  long: "-80.4036"
+  nearby_rate_centers:
+  - name: CHRISTISBG
+    distance_km: 0.64
+  - name: BLACKSBURG
+    distance_km: 10.31
+  - name: SHAWSVILLE
+    distance_km: 13.67
+- country: US
+  region: VA
+  name: Churchville
+  lat: '38.2247'
+  long: "-79.1619"
+  nearby_rate_centers:
+  - name: STAUNTON
+    distance_km: 11.04
+  - name: MOUNTSOLON
+    distance_km: 15.73
+  - name: DEERFIELD
+    distance_km: 20.33
+- country: US
+  region: VA
+  name: Claremont
+  lat: '37.2273'
+  long: "-76.9666"
+  nearby_rate_centers:
+  - name: CLAREMONT
+    distance_km: 0.1
+  - name: SURRY
+    distance_km: 15.4
+  - name: CHARLES CY
+    distance_km: 15.71
+- country: US
+  region: VA
+  name: Clarksville
+  lat: '36.6171'
+  long: "-78.5638"
+  nearby_rate_centers:
+  - name: CLARKSVL
+    distance_km: 0.93
+  - name: BOYDTON
+    distance_km: 16.2
+  - name: EPPES FORK
+    distance_km: 19.13
+- country: US
+  region: VA
+  name: Claypool Hill
+  lat: '37.0633'
+  long: "-81.7505"
+  nearby_rate_centers:
+  - name: RICHLANDS
+    distance_km: 6.0
+  - name: JEWELL RDG
+    distance_km: 13.61
+  - name: SALTVILLE
+    distance_km: 19.97
+- country: US
+  region: VA
+  name: Cleveland
+  lat: '36.9434'
+  long: "-82.1527"
+  nearby_rate_centers:
+  - name: LEBANON
+    distance_km: 8.1
+  - name: DANTE
+    distance_km: 13.74
+  - name: ST PAUL
+    distance_km: 14.18
+- country: US
+  region: VA
+  name: Clifton
+  lat: '38.7802'
+  long: "-77.3866"
+  nearby_rate_centers:
+  - name: BRADDOCK
+    distance_km: 7.56
+  - name: MANASSAS
+    distance_km: 8.6
+  - name: INDENDNTHL
+    distance_km: 14.25
+- country: US
+  region: VA
+  name: Clifton Forge
+  lat: '37.8232'
+  long: "-79.8250"
+  nearby_rate_centers:
+  - name: CLIFTNFORG
+    distance_km: 0.58
+  - name: COVINGTON
+    distance_km: 15.1
+  - name: HOTSPRINGS
+    distance_km: 19.53
+- country: US
+  region: VA
+  name: Cliftondale Park
+  lat: '37.8250'
+  long: "-79.7981"
+  nearby_rate_centers:
+  - name: CLIFTNFORG
+    distance_km: 2.34
+  - name: COVINGTON
+    distance_km: 17.45
+  - name: HOTSPRINGS
+    distance_km: 19.58
+- country: US
+  region: VA
+  name: Clinchco
+  lat: '37.1588'
+  long: "-82.3562"
+  nearby_rate_centers:
+  - name: CLINCHCO
+    distance_km: 1.05
+  - name: HAYSI
+    distance_km: 8.04
+  - name: CLINTWOOD
+    distance_km: 9.3
+- country: US
+  region: VA
+  name: Clinchport
+  lat: '36.6781'
+  long: "-82.7451"
+  nearby_rate_centers:
+  - name: CLINCHPORT
+    distance_km: 0.64
+  - name: DUFFIELD
+    distance_km: 7.03
+  - name: GATE CITY
+    distance_km: 15.18
+- country: US
+  region: VA
+  name: Clintwood
+  lat: '37.1507'
+  long: "-82.4573"
+  nearby_rate_centers:
+  - name: CLINTWOOD
+    distance_km: 0.3
+  - name: CLINCHCO
+    distance_km: 8.73
+  - name: POUND
+    distance_km: 12.89
+- country: US
+  region: VA
+  name: Clover
+  lat: '36.8389'
+  long: "-78.7284"
+  nearby_rate_centers:
+  - name: CLOVER
+    distance_km: 0.93
+  - name: BARNESVL
+    distance_km: 12.06
+  - name: HALIFAX
+    distance_km: 19.0
+- country: US
+  region: VA
+  name: Cloverdale
+  lat: '37.3566'
+  long: "-79.9055"
+  nearby_rate_centers:
+  - name: TROUTVILLE
+    distance_km: 7.43
+  - name: ROANOKE
+    distance_km: 10.4
+  - name: SALEM
+    distance_km: 15.41
+- country: US
+  region: VA
+  name: Cluster Springs
+  lat: '36.6128'
+  long: "-78.9221"
+  nearby_rate_centers:
+  - name: SO BOSTON
+    distance_km: 10.05
+  - name: TURBEVILLE
+    distance_km: 11.07
+  - name: VIRGILINA
+    distance_km: 15.16
+- country: US
+  region: VA
+  name: Coeburn
+  lat: '36.9444'
+  long: "-82.4698"
+  nearby_rate_centers:
+  - name: COEBURN
+    distance_km: 0.7
+  - name: WISE
+    distance_km: 11.19
+  - name: DUNGANNON
+    distance_km: 12.54
+- country: US
+  region: VA
+  name: Collinsville
+  lat: '36.7215'
+  long: "-79.9122"
+  nearby_rate_centers:
+  - name: COLLINSVL
+    distance_km: 2.45
+  - name: FIELDALE
+    distance_km: 4.05
+  - name: MARTINSVL
+    distance_km: 4.75
+- country: US
+  region: VA
+  name: Colonial Beach
+  lat: '38.2567'
+  long: "-76.9777"
+  nearby_rate_centers:
+  - name: COLONILBCH
+    distance_km: 1.25
+  - name: DAHLGREN
+    distance_km: 9.07
+  - name: KINGGEORGE
+    distance_km: 18.22
+- country: US
+  region: VA
+  name: Colonial Heights
+  lat: '37.2650'
+  long: "-77.3969"
+  nearby_rate_centers:
+  - name: PETERSBURG
+    distance_km: 4.71
+  - name: CHESTER
+    distance_km: 10.84
+  - name: ENON
+    distance_km: 11.41
+- country: US
+  region: VA
+  name: Columbia
+  lat: '37.7538'
+  long: "-78.1632"
+  nearby_rate_centers:
+  - name: FORK UNION
+    distance_km: 8.82
+  - name: FIFE
+    distance_km: 9.26
+  - name: CARTERSVL
+    distance_km: 11.61
+- country: US
+  region: VA
+  name: Concord
+  lat: '37.3426'
+  long: "-78.9862"
+  nearby_rate_centers:
+  - name: CONCORD
+    distance_km: 1.1
+  - name: RUSTBURG
+    distance_km: 12.55
+  - name: APPOMATTOX
+    distance_km: 13.5
+- country: US
+  region: VA
+  name: Countryside
+  lat: '39.0518'
+  long: "-77.4124"
+  nearby_rate_centers:
+  - name: HERNDON
+    distance_km: 10.0
+  - name: DULLES
+    distance_km: 11.27
+  - name: ARCOLA
+    distance_km: 15.23
+- country: US
+  region: VA
+  name: County Center
+  lat: '38.6917'
+  long: "-77.3507"
+  nearby_rate_centers:
+  - name: DALE CITY
+    distance_km: 7.17
+  - name: OCCOQUAN
+    distance_km: 7.97
+  - name: LORTON
+    distance_km: 8.49
+- country: US
+  region: VA
+  name: Courtland
+  lat: '36.7123'
+  long: "-77.0620"
+  nearby_rate_centers:
+  - name: COURTLAND
+    distance_km: 0.41
+  - name: CAPRON
+    distance_km: 12.4
+  - name: FRANKLIN
+    distance_km: 13.39
+- country: US
+  region: VA
+  name: Covington
+  lat: '37.7786'
+  long: "-79.9867"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 1.26
+  - name: CLIFTNFORG
+    distance_km: 15.02
+  - name: ORISKANY
+    distance_km: 17.91
+- country: US
+  region: VA
+  name: Craigsville
+  lat: '38.0838'
+  long: "-79.3853"
+  nearby_rate_centers:
+  - name: CRAIGSVL
+    distance_km: 0.93
+  - name: DEERFIELD
+    distance_km: 12.1
+  - name: BROWNSBURG
+    distance_km: 17.84
+- country: US
+  region: VA
+  name: Crewe
+  lat: '37.1812'
+  long: "-78.1307"
+  nearby_rate_centers:
+  - name: CREWE
+    distance_km: 1.05
+  - name: BURKEVILLE
+    distance_km: 6.19
+  - name: BLACKSTONE
+    distance_km: 16.24
+- country: US
+  region: VA
+  name: Crimora
+  lat: '38.1618'
+  long: "-78.8413"
+  nearby_rate_centers:
+  - name: NEW HOPE
+    distance_km: 6.44
+  - name: WAYNESBORO
+    distance_km: 11.52
+  - name: GROTTOES
+    distance_km: 12.12
+- country: US
+  region: VA
+  name: Crosspointe
+  lat: '38.7253'
+  long: "-77.2638"
+  nearby_rate_centers:
+  - name: LORTON
+    distance_km: 3.93
+  - name: ENGLESIDE
+    distance_km: 4.43
+  - name: OCCOQUAN
+    distance_km: 4.67
+- country: US
+  region: VA
+  name: Crozet
+  lat: '38.0645'
+  long: "-78.6961"
+  nearby_rate_centers:
+  - name: CROZET
+    distance_km: 0.53
+  - name: GREENWOOD
+    distance_km: 6.21
+  - name: WAYNESBORO
+    distance_km: 17.02
+- country: US
+  region: VA
+  name: Culpeper
+  lat: '38.4704'
+  long: "-78.0001"
+  nearby_rate_centers:
+  - name: CULPEPER
+    distance_km: 0.17
+  - name: REMINGTON
+    distance_km: 18.0
+  - name: UNIONVILLE
+    distance_km: 24.68
+- country: US
+  region: VA
+  name: Cumberland
+  lat: '37.4914'
+  long: "-78.2577"
+  nearby_rate_centers:
+  - name: CUMBERLAND
+    distance_km: 0.66
+  - name: DILLWYN
+    distance_km: 18.65
+  - name: ARVONIA
+    distance_km: 22.73
+- country: US
+  region: VA
+  name: Dahlgren
+  lat: '38.3443'
+  long: "-77.0624"
+  nearby_rate_centers:
+  - name: DAHLGREN
+    distance_km: 3.2
+  - name: COLONILBCH
+    distance_km: 13.47
+  - name: KINGGEORGE
+    distance_km: 13.82
+- country: US
+  region: VA
+  name: Dahlgren Center
+  lat: '38.3400'
+  long: "-77.0324"
+  nearby_rate_centers:
+  - name: DAHLGREN
+    distance_km: 1.78
+  - name: COLONILBCH
+    distance_km: 11.62
+  - name: KINGGEORGE
+    distance_km: 15.7
+- country: US
+  region: VA
+  name: Dale City
+  lat: '38.6473'
+  long: "-77.3459"
+  nearby_rate_centers:
+  - name: DALE CITY
+    distance_km: 2.88
+  - name: OCCOQUAN
+    distance_km: 8.51
+  - name: INDENDNTHL
+    distance_km: 8.63
+- country: US
+  region: VA
+  name: Daleville
+  lat: '37.4150'
+  long: "-79.9132"
+  nearby_rate_centers:
+  - name: TROUTVILLE
+    distance_km: 3.61
+  - name: FINCASTLE
+    distance_km: 10.13
+  - name: ROANOKE
+    distance_km: 16.62
+- country: US
+  region: VA
+  name: Damascus
+  lat: '36.6326'
+  long: "-81.7891"
+  nearby_rate_centers:
+  - name: DAMASCUS
+    distance_km: 1.33
+  - name: KONNAROCK
+    distance_km: 13.3
+  - name: MEADOWVIEW
+    distance_km: 16.2
+- country: US
+  region: VA
+  name: Dante
+  lat: '36.9792'
+  long: "-82.2960"
+  nearby_rate_centers:
+  - name: DANTE
+    distance_km: 0.45
+  - name: ST PAUL
+    distance_km: 7.73
+  - name: COEBURN
+    distance_km: 15.74
+- country: US
+  region: VA
+  name: Danville
+  lat: '36.5831'
+  long: "-79.4088"
+  nearby_rate_centers:
+  - name: DANVILLE
+    distance_km: 1.45
+  - name: BACHESHALL
+    distance_km: 13.6
+  - name: WHITMELL
+    distance_km: 17.67
+- country: US
+  region: VA
+  name: Dayton
+  lat: '38.4173'
+  long: "-78.9412"
+  nearby_rate_centers:
+  - name: DAYTON
+    distance_km: 0.85
+  - name: BRIDGEWTR
+    distance_km: 4.73
+  - name: HINTON
+    distance_km: 6.09
+- country: US
+  region: VA
+  name: Deep Creek
+  lat: '37.7630'
+  long: "-75.7552"
+  nearby_rate_centers:
+  - name: ONANCOCK
+    distance_km: 5.1
+  - name: PARKSLEY
+    distance_km: 9.58
+  - name: TANGIER
+    distance_km: 21.7
+- country: US
+  region: VA
+  name: Deerfield
+  lat: '38.1954'
+  long: "-79.4105"
+  nearby_rate_centers:
+  - name: DEERFIELD
+    distance_km: 1.74
+  - name: CRAIGSVL
+    distance_km: 12.57
+  - name: WILLIAMSVL
+    distance_km: 15.12
+- country: US
+  region: VA
+  name: Deltaville
+  lat: '37.5525'
+  long: "-76.3331"
+  nearby_rate_centers:
+  - name: DELTAVILLE
+    distance_km: 0.31
+  - name: MATHEWS
+    distance_km: 13.26
+  - name: IRVINGTON
+    distance_km: 14.08
+- country: US
+  region: VA
+  name: Dendron
+  lat: '37.0364'
+  long: "-76.9241"
+  nearby_rate_centers:
+  - name: DENDRON
+    distance_km: 1.42
+  - name: WAKEFIELD
+    distance_km: 9.12
+  - name: SURRY
+    distance_km: 14.27
+- country: US
+  region: VA
+  name: Difficult Run
+  lat: '38.9016'
+  long: "-77.3471"
+  nearby_rate_centers:
+  - name: DULLESMTRO
+    distance_km: 6.81
+  - name: WSNGTNZN19
+    distance_km: 6.81
+  - name: HERNDON
+    distance_km: 7.67
+  - name: BRADDOCK
+    distance_km: 9.78
+- country: US
+  region: VA
+  name: Dillwyn
+  lat: '37.5411'
+  long: "-78.4613"
+  nearby_rate_centers:
+  - name: DILLWYN
+    distance_km: 0.3
+  - name: BUCKINGHAM
+    distance_km: 8.47
+  - name: ARVONIA
+    distance_km: 18.62
+- country: US
+  region: VA
+  name: Dinwiddie
+  lat: '37.0850'
+  long: "-77.5865"
+  nearby_rate_centers:
+  - name: DINWIDDIE
+    distance_km: 0.4
+  - name: MCKENNEY
+    distance_km: 16.31
+  - name: PETERSBURG
+    distance_km: 22.07
+- country: US
+  region: VA
+  name: Disputanta
+  lat: '37.1236'
+  long: "-77.2249"
+  nearby_rate_centers:
+  - name: DISPUTANTA
+    distance_km: 0.96
+  - name: WAVERLY
+    distance_km: 14.53
+  - name: PETERSBURG
+    distance_km: 19.69
+- country: US
+  region: VA
+  name: Dooms
+  lat: '38.1027'
+  long: "-78.8495"
+  nearby_rate_centers:
+  - name: WAYNESBORO
+    distance_km: 5.46
+  - name: GREENWOOD
+    distance_km: 8.96
+  - name: NEW HOPE
+    distance_km: 11.6
+- country: US
+  region: VA
+  name: Doran
+  lat: '37.0958'
+  long: "-81.8321"
+  nearby_rate_centers:
+  - name: RICHLANDS
+    distance_km: 2.79
+  - name: JEWELL RDG
+    distance_km: 10.55
+  - name: HONAKER
+    distance_km: 15.46
+- country: US
+  region: VA
+  name: Drakes Branch
+  lat: '36.9933'
+  long: "-78.6009"
+  nearby_rate_centers:
+  - name: DRAKESBRCH
+    distance_km: 0.21
+  - name: CHRLTTCTHS
+    distance_km: 6.88
+  - name: KEYSVILLE
+    distance_km: 11.59
+- country: US
+  region: VA
+  name: Dranesville
+  lat: '38.9955'
+  long: "-77.3693"
+  nearby_rate_centers:
+  - name: HERNDON
+    distance_km: 3.54
+  - name: DULLES
+    distance_km: 7.87
+  - name: DULLESMTRO
+    distance_km: 13.81
+  - name: WSNGTNZN19
+    distance_km: 13.81
+- country: US
+  region: VA
+  name: Draper
+  lat: '37.0012'
+  long: "-80.7372"
+  nearby_rate_centers:
+  - name: PULASKI
+    distance_km: 6.88
+  - name: DUBLIN
+    distance_km: 12.67
+  - name: SYLVATUS
+    distance_km: 16.35
+- country: US
+  region: VA
+  name: Dryden
+  lat: '36.7764'
+  long: "-82.9433"
+  nearby_rate_centers:
+  - name: PENINGTNGP
+    distance_km: 8.41
+  - name: ST CHARLES
+    distance_km: 10.64
+  - name: DUFFIELD
+    distance_km: 14.1
+- country: US
+  region: VA
+  name: Dublin
+  lat: '37.0987'
+  long: "-80.6831"
+  nearby_rate_centers:
+  - name: DUBLIN
+    distance_km: 1.01
+  - name: RADFORD
+    distance_km: 10.18
+  - name: PULASKI
+    distance_km: 10.63
+- country: US
+  region: VA
+  name: Duffield
+  lat: '36.7196'
+  long: "-82.7960"
+  nearby_rate_centers:
+  - name: DUFFIELD
+    distance_km: 0.58
+  - name: CLINCHPORT
+    distance_km: 6.54
+  - name: BIGSTONEGP
+    distance_km: 16.53
+- country: US
+  region: VA
+  name: Dulles Town Center
+  lat: '39.0265'
+  long: "-77.4196"
+  nearby_rate_centers:
+  - name: HERNDON
+    distance_km: 7.57
+  - name: DULLES
+    distance_km: 8.39
+  - name: ARCOLA
+    distance_km: 12.8
+- country: US
+  region: VA
+  name: Dumbarton
+  lat: '37.6130'
+  long: "-77.5066"
+  nearby_rate_centers:
+  - name: RICHMOND
+    distance_km: 10.07
+  - name: MECHANCSVL
+    distance_km: 12.87
+  - name: ASHLAND
+    distance_km: 16.27
+- country: US
+  region: VA
+  name: Dumfries
+  lat: '38.5670'
+  long: "-77.3233"
+  nearby_rate_centers:
+  - name: TRIANGLE
+    distance_km: 1.98
+  - name: DALE CITY
+    distance_km: 7.25
+  - name: OCCOQUAN
+    distance_km: 14.08
+- country: US
+  region: VA
+  name: Dunbar
+  lat: '36.9733'
+  long: "-82.7459"
+  nearby_rate_centers:
+  - name: APPALACHIA
+    distance_km: 7.85
+  - name: NORTON
+    distance_km: 11.17
+  - name: BIGSTONEGP
+    distance_km: 12.06
+- country: US
+  region: VA
+  name: Dungannon
+  lat: '36.8285'
+  long: "-82.4681"
+  nearby_rate_centers:
+  - name: DUNGANNON
+    distance_km: 0.4
+  - name: NICKELSVL
+    distance_km: 10.13
+  - name: FT BLACKMR
+    distance_km: 11.73
+- country: US
+  region: VA
+  name: Dunn Loring
+  lat: '38.8945'
+  long: "-77.2315"
+  nearby_rate_centers:
+  - name: DULLESMTRO
+    distance_km: 3.24
+  - name: WSNGTNZN19
+    distance_km: 3.24
+  - name: WSNGTNZN17
+    distance_km: 6.13
+  - name: LORTONMTRO
+    distance_km: 11.57
+  - name: WSNGTNZN08
+    distance_km: 11.57
+- country: US
+  region: VA
+  name: Eagle Rock
+  lat: '37.6423'
+  long: "-79.7919"
+  nearby_rate_centers:
+  - name: EAGLE ROCK
+    distance_km: 0.22
+  - name: BUCHANAN
+    distance_km: 15.45
+  - name: ORISKANY
+    distance_km: 17.31
+- country: US
+  region: VA
+  name: Earlysville
+  lat: '38.1579'
+  long: "-78.4688"
+  nearby_rate_centers:
+  - name: CHARLOTSVL
+    distance_km: 14.0
+  - name: STANARDSVL
+    distance_km: 16.1
+  - name: CROZET
+    distance_km: 22.79
+- country: US
+  region: VA
+  name: East Highland Park
+  lat: '37.5770'
+  long: "-77.3865"
+  nearby_rate_centers:
+  - name: MECHANCSVL
+    distance_km: 4.58
+  - name: RICHMOND
+    distance_km: 5.76
+  - name: SANDSTON
+    distance_km: 8.88
+- country: US
+  region: VA
+  name: East Lexington
+  lat: '37.8009'
+  long: "-79.4160"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance_km: 3.24
+  - name: BUENAVISTA
+    distance_km: 9.69
+  - name: BROWNSBURG
+    distance_km: 17.31
+- country: US
+  region: VA
+  name: East Stone Gap
+  lat: '36.8657'
+  long: "-82.7435"
+  nearby_rate_centers:
+  - name: BIGSTONEGP
+    distance_km: 2.64
+  - name: APPALACHIA
+    distance_km: 5.91
+  - name: NORTON
+    distance_km: 12.48
+- country: US
+  region: VA
+  name: Eastville
+  lat: '37.3511'
+  long: "-75.9417"
+  nearby_rate_centers:
+  - name: EASTVILLE
+    distance_km: 0.27
+  - name: CAPECHARLS
+    distance_km: 11.37
+  - name: BELLEHAVEN
+    distance_km: 25.51
+- country: US
+  region: VA
+  name: Ebony
+  lat: '36.5759'
+  long: "-77.9839"
+  nearby_rate_centers:
+  - name: BLACKRIDGE
+    distance_km: 9.9
+  - name: SOBRUNSWIK
+    distance_km: 11.27
+  - name: BRODNAX
+    distance_km: 15.07
+- country: US
+  region: VA
+  name: Edinburg
+  lat: '38.8235'
+  long: "-78.5634"
+  nearby_rate_centers:
+  - name: EDINBURG
+    distance_km: 0.41
+  - name: WOODSTOCK
+    distance_km: 7.76
+  - name: MT JACKSON
+    distance_km: 11.16
+- country: US
+  region: VA
+  name: Eggleston
+  lat: '37.2871'
+  long: "-80.6227"
+  nearby_rate_centers:
+  - name: PEMBROKE
+    distance_km: 3.91
+  - name: PEARISBURG
+    distance_km: 10.55
+  - name: NEWPORT
+    distance_km: 11.54
+- country: US
+  region: VA
+  name: Elkton
+  lat: '38.4106'
+  long: "-78.6161"
+  nearby_rate_centers:
+  - name: ELKTON
+    distance_km: 0.7
+  - name: SHENANDOAH
+    distance_km: 8.75
+  - name: MCGAHEYSVL
+    distance_km: 11.11
+- country: US
+  region: VA
+  name: Elliston
+  lat: '37.2164'
+  long: "-80.2245"
+  nearby_rate_centers:
+  - name: SHAWSVILLE
+    distance_km: 6.18
+  - name: BENT MT
+    distance_km: 12.18
+  - name: SALEM
+    distance_km: 16.83
+- country: US
+  region: VA
+  name: Emory
+  lat: '36.7800'
+  long: "-81.8280"
+  nearby_rate_centers:
+  - name: MEADOWVIEW
+    distance_km: 3.12
+  - name: GLADE SPG
+    distance_km: 5.61
+  - name: CHILHOWIE
+    distance_km: 12.83
+- country: US
+  region: VA
+  name: Emporia
+  lat: '36.6953'
+  long: "-77.5356"
+  nearby_rate_centers:
+  - name: EMPORIA
+    distance_km: 0.54
+  - name: JARRATT
+    distance_km: 13.9
+  - name: LAWRENCEVL
+    distance_km: 29.02
+- country: US
+  region: VA
+  name: Enon
+  lat: '37.3273'
+  long: "-77.3195"
+  nearby_rate_centers:
+  - name: ENON
+    distance_km: 2.07
+  - name: HOPEWELL
+    distance_km: 4.09
+  - name: CHESTER
+    distance_km: 10.56
+- country: US
+  region: VA
+  name: Esmont
+  lat: '37.8284'
+  long: "-78.5959"
+  nearby_rate_centers:
+  - name: SCOTTSVL
+    distance_km: 9.62
+  - name: SCHUYLER
+    distance_km: 10.18
+  - name: CHARLOTSVL
+    distance_km: 24.54
+- country: US
+  region: VA
+  name: Ettrick
+  lat: '37.2435'
+  long: "-77.4287"
+  nearby_rate_centers:
+  - name: PETERSBURG
+    distance_km: 2.85
+  - name: CHESTER
+    distance_km: 12.77
+  - name: ENON
+    distance_km: 15.04
+- country: US
+  region: VA
+  name: Ewing
+  lat: '36.6381'
+  long: "-83.4291"
+  nearby_rate_centers:
+  - name: LEE
+    distance_km: 3.53
+  - name: CUMBERLDGP
+    distance_km: 18.09
+  - name: JONESVILLE
+    distance_km: 29.11
+- country: US
+  region: VA
+  name: Exmore
+  lat: '37.5295'
+  long: "-75.8283"
+  nearby_rate_centers:
+  - name: BELLEHAVEN
+    distance_km: 3.32
+  - name: ONANCOCK
+    distance_km: 22.28
+  - name: EASTVILLE
+    distance_km: 22.4
+- country: US
+  region: VA
+  name: Fair Lakes
+  lat: '38.8530'
+  long: "-77.3885"
+  nearby_rate_centers:
+  - name: BRADDOCK
+    distance_km: 3.7
+  - name: DULLESMTRO
+    distance_km: 11.59
+  - name: WSNGTNZN19
+    distance_km: 11.59
+  - name: DULLES
+    distance_km: 12.07
+- country: US
+  region: VA
+  name: Fair Oaks
+  lat: '38.8653'
+  long: "-77.3586"
+  nearby_rate_centers:
+  - name: BRADDOCK
+    distance_km: 6.62
+  - name: DULLESMTRO
+    distance_km: 8.66
+  - name: WSNGTNZN19
+    distance_km: 8.66
+  - name: HERNDON
+    distance_km: 11.28
+- country: US
+  region: VA
+  name: Fairfax
+  lat: '38.8531'
+  long: "-77.2997"
+  nearby_rate_centers:
+  - name: DULLESMTRO
+    distance_km: 5.79
+  - name: WSNGTNZN19
+    distance_km: 5.79
+  - name: BRADDOCK
+    distance_km: 11.19
+  - name: WSNGTNZN17
+    distance_km: 12.76
+- country: US
+  region: VA
+  name: Fairfax Station
+  lat: '38.7942'
+  long: "-77.3358"
+  nearby_rate_centers:
+  - name: BRADDOCK
+    distance_km: 9.47
+  - name: DULLESMTRO
+    distance_km: 13.05
+  - name: WSNGTNZN19
+    distance_km: 13.05
+  - name: MANASSAS
+    distance_km: 13.27
+- country: US
+  region: VA
+  name: Fairfield
+  lat: '37.8827'
+  long: "-79.2829"
+  nearby_rate_centers:
+  - name: BROWNSBURG
+    distance_km: 6.27
+  - name: RAPHINE
+    distance_km: 6.9
+  - name: BUENAVISTA
+    distance_km: 17.63
+- country: US
+  region: VA
+  name: Fairlawn
+  lat: '37.1476'
+  long: "-80.5567"
+  nearby_rate_centers:
+  - name: RADFORD
+    distance_km: 2.37
+  - name: DUBLIN
+    distance_km: 12.29
+  - name: CHRISTISBG
+    distance_km: 13.42
+- country: US
+  region: VA
+  name: Fairview
+  lat: '36.8292'
+  long: "-78.4653"
+  nearby_rate_centers:
+  - name: CHASE CITY
+    distance_km: 3.35
+  - name: BARNESVL
+    distance_km: 11.49
+  - name: BOYDTON
+    distance_km: 19.04
+- country: US
+  region: VA
+  name: Fairview Beach
+  lat: '38.3282'
+  long: "-77.2424"
+  nearby_rate_centers:
+  - name: KINGGEORGE
+    distance_km: 8.43
+  - name: STAFFORD
+    distance_km: 17.53
+  - name: DAHLGREN
+    distance_km: 18.01
+- country: US
+  region: VA
+  name: Falls Church
+  lat: '38.8847'
+  long: "-77.1751"
+  nearby_rate_centers:
+  - name: WSNGTNZN17
+    distance_km: 1.45
+  - name: LORTONMTRO
+    distance_km: 6.6
+  - name: WSNGTNZN08
+    distance_km: 6.6
+  - name: DULLESMTRO
+    distance_km: 8.24
+  - name: WSNGTNZN19
+    distance_km: 8.24
+- country: US
+  region: VA
+  name: Falls Mills
+  lat: '37.2773'
+  long: "-81.3067"
+  nearby_rate_centers:
+  - name: BLUEFIELD
+    distance_km: 4.14
+  - name: POCAHONTAS
+    distance_km: 4.76
+  - name: ROCKY GAP
+    distance_km: 17.92
+- country: US
+  region: VA
+  name: Falmouth
+  lat: '38.3319'
+  long: "-77.4655"
+  nearby_rate_centers:
+  - name: FREDECKSBG
+    distance_km: 3.4
+  - name: STAFFORD
+    distance_km: 10.91
+  - name: HARTWOOD
+    distance_km: 11.76
+- country: US
+  region: VA
+  name: Fancy Gap
+  lat: '36.6771'
+  long: "-80.6997"
+  nearby_rate_centers:
+  - name: HILLSVILLE
+    distance_km: 9.63
+  - name: CANA
+    distance_km: 10.39
+  - name: LAURELFORK
+    distance_km: 16.92
+- country: US
+  region: VA
+  name: Farmville
+  lat: '37.2959'
+  long: "-78.4002"
+  nearby_rate_centers:
+  - name: FARMVILLE
+    distance_km: 1.46
+  - name: HAMPDESDNY
+    distance_km: 8.06
+  - name: PROSPECT
+    distance_km: 15.35
+- country: US
+  region: VA
+  name: Ferrum
+  lat: '36.9314'
+  long: "-80.0148"
+  nearby_rate_centers:
+  - name: FERRUM
+    distance_km: 1.89
+  - name: ROCKYMOUNT
+    distance_km: 12.83
+  - name: BASSETT
+    distance_km: 19.22
+- country: US
+  region: VA
+  name: Fieldale
+  lat: '36.7009'
+  long: "-79.9424"
+  nearby_rate_centers:
+  - name: FIELDALE
+    distance_km: 0.62
+  - name: COLLINSVL
+    distance_km: 2.35
+  - name: MARTINSVL
+    distance_km: 6.03
+- country: US
+  region: VA
+  name: Fincastle
+  lat: '37.5006'
+  long: "-79.8749"
+  nearby_rate_centers:
+  - name: FINCASTLE
+    distance_km: 0.05
+  - name: TROUTVILLE
+    distance_km: 9.19
+  - name: ORISKANY
+    distance_km: 16.27
+- country: US
+  region: VA
+  name: Fishersville
+  lat: '38.1050'
+  long: "-78.9826"
+  nearby_rate_centers:
+  - name: WAYNESBORO
+    distance_km: 9.17
+  - name: STAUNTON
+    distance_km: 9.72
+  - name: NEW HOPE
+    distance_km: 13.02
+- country: US
+  region: VA
+  name: Flint Hill
+  lat: '38.7666'
+  long: "-78.1028"
+  nearby_rate_centers:
+  - name: WASHINGTON
+    distance_km: 7.28
+  - name: SPERRYVL
+    distance_km: 15.99
+  - name: FRONTROYAL
+    distance_km: 19.23
+- country: US
+  region: VA
+  name: Floris
+  lat: '38.9347'
+  long: "-77.4084"
+  nearby_rate_centers:
+  - name: DULLES
+    distance_km: 3.57
+  - name: HERNDON
+    distance_km: 4.11
+  - name: BRADDOCK
+    distance_km: 10.66
+- country: US
+  region: VA
+  name: Floyd
+  lat: '36.9118'
+  long: "-80.3184"
+  nearby_rate_centers:
+  - name: FLOYD
+    distance_km: 0.57
+  - name: ALUM RIDGE
+    distance_km: 13.07
+  - name: WILLIS
+    distance_km: 15.72
+- country: US
+  region: VA
+  name: Forest
+  lat: '37.3728'
+  long: "-79.2831"
+  nearby_rate_centers:
+  - name: LYNCHBURG
+    distance_km: 13.38
+  - name: BIG ISLAND
+    distance_km: 19.24
+  - name: RUSTBURG
+    distance_km: 19.3
+- country: US
+  region: VA
+  name: Fort Belvoir
+  lat: '38.7119'
+  long: "-77.1459"
+  nearby_rate_centers:
+  - name: ENGLESIDE
+    distance_km: 5.91
+  - name: LORTON
+    distance_km: 9.57
+  - name: OCCOQUAN
+    distance_km: 10.36
+- country: US
+  region: VA
+  name: Fort Chiswell
+  lat: '36.9444'
+  long: "-80.9577"
+  nearby_rate_centers:
+  - name: MAXMEADOWS
+    distance_km: 3.51
+  - name: AUSTINVL
+    distance_km: 11.26
+  - name: WYTHEVILLE
+    distance_km: 11.42
+- country: US
+  region: VA
+  name: Fort Hunt
+  lat: '38.7361'
+  long: "-77.0589"
+  nearby_rate_centers:
+  - name: ENGLESIDE
+    distance_km: 13.51
+  - name: LORTONMTRO
+    distance_km: 16.43
+  - name: WSNGTNZN08
+    distance_km: 16.43
+  - name: LORTON
+    distance_km: 17.56
+- country: US
+  region: VA
+  name: Fort Lee
+  lat: '37.2357'
+  long: "-77.3325"
+  nearby_rate_centers:
+  - name: PETERSBURG
+    distance_km: 6.84
+  - name: HOPEWELL
+    distance_km: 9.37
+  - name: ENON
+    distance_km: 12.32
+- country: US
+  region: VA
+  name: Franconia
+  lat: '38.7682'
+  long: "-77.1587"
+  nearby_rate_centers:
+  - name: ENGLESIDE
+    distance_km: 7.18
+  - name: LORTON
+    distance_km: 11.85
+  - name: OCCOQUAN
+    distance_km: 12.86
+- country: US
+  region: VA
+  name: Franklin
+  lat: '36.6831'
+  long: "-76.9386"
+  nearby_rate_centers:
+  - name: FRANKLIN
+    distance_km: 1.97
+  - name: COURTLAND
+    distance_km: 11.8
+  - name: HOLLAND
+    distance_km: 14.7
+- country: US
+  region: VA
+  name: Franklin Farm
+  lat: '38.9133'
+  long: "-77.3969"
+  nearby_rate_centers:
+  - name: DULLES
+    distance_km: 5.92
+  - name: HERNDON
+    distance_km: 5.92
+  - name: BRADDOCK
+    distance_km: 8.57
+- country: US
+  region: VA
+  name: Franktown
+  lat: '37.4777'
+  long: "-75.8773"
+  nearby_rate_centers:
+  - name: BELLEHAVEN
+    distance_km: 10.41
+  - name: EASTVILLE
+    distance_km: 15.35
+  - name: CAPECHARLS
+    distance_km: 26.36
+- country: US
+  region: VA
+  name: Fredericksburg
+  lat: '38.2992'
+  long: "-77.4872"
+  nearby_rate_centers:
+  - name: FREDECKSBG
+    distance_km: 1.76
+  - name: CHANCELLOR
+    distance_km: 10.13
+  - name: HARTWOOD
+    distance_km: 13.72
+- country: US
+  region: VA
+  name: Free Union
+  lat: '38.1539'
+  long: "-78.5594"
+  nearby_rate_centers:
+  - name: CHARLOTSVL
+    distance_km: 14.65
+  - name: CROZET
+    distance_km: 15.82
+  - name: STANARDSVL
+    distance_km: 19.61
+- country: US
+  region: VA
+  name: Fries
+  lat: '36.7140'
+  long: "-80.9752"
+  nearby_rate_centers:
+  - name: FRIES
+    distance_km: 1.56
+  - name: GALAX
+    distance_km: 7.19
+  - name: AUSTINVL
+    distance_km: 15.94
+- country: US
+  region: VA
+  name: Front Royal
+  lat: '38.9260'
+  long: "-78.1838"
+  nearby_rate_centers:
+  - name: FRONTROYAL
+    distance_km: 0.92
+  - name: STRASBURG
+    distance_km: 17.14
+  - name: STEPHENSCY
+    distance_km: 17.98
+- country: US
+  region: VA
+  name: Gainesville
+  lat: '38.7931'
+  long: "-77.6347"
+  nearby_rate_centers:
+  - name: HAYMARKET
+    distance_km: 1.93
+  - name: NOKESVILLE
+    distance_km: 11.01
+  - name: MANASSAS
+    distance_km: 14.36
+- country: US
+  region: VA
+  name: Galax
+  lat: '36.6660'
+  long: "-80.9176"
+  nearby_rate_centers:
+  - name: GALAX
+    distance_km: 0.6
+  - name: FRIES
+    distance_km: 8.92
+  - name: HILLSVILLE
+    distance_km: 19.22
+- country: US
+  region: VA
+  name: Gargatha
+  lat: '37.7905'
+  long: "-75.5820"
+  nearby_rate_centers:
+  - name: PARKSLEY
+    distance_km: 5.96
+  - name: TEMPERNCVL
+    distance_km: 11.44
+  - name: ONANCOCK
+    distance_km: 16.29
+- country: US
+  region: VA
+  name: Gasburg
+  lat: '36.5588'
+  long: "-77.8722"
+  nearby_rate_centers:
+  - name: SOBRUNSWIK
+    distance_km: 5.71
+  - name: BLACKRIDGE
+    distance_km: 19.0
+  - name: BRODNAX
+    distance_km: 21.71
+- country: US
+  region: VA
+  name: Gate City
+  lat: '36.6401'
+  long: "-82.5782"
+  nearby_rate_centers:
+  - name: GATE CITY
+    distance_km: 0.3
+  - name: WILLIAMSML
+    distance_km: 4.22
+  - name: MORRISONCY
+    distance_km: 10.36
+- country: US
+  region: VA
+  name: George Mason
+  lat: '38.8356'
+  long: "-77.3186"
+  nearby_rate_centers:
+  - name: DULLESMTRO
+    distance_km: 8.3
+  - name: WSNGTNZN19
+    distance_km: 8.3
+  - name: BRADDOCK
+    distance_km: 9.48
+  - name: WSNGTNZN17
+    distance_km: 15.01
+- country: US
+  region: VA
+  name: Glade Spring
+  lat: '36.7899'
+  long: "-81.7726"
+  nearby_rate_centers:
+  - name: GLADE SPG
+    distance_km: 0.56
+  - name: CHILHOWIE
+    distance_km: 7.78
+  - name: MEADOWVIEW
+    distance_km: 8.11
+- country: US
+  region: VA
+  name: Glasgow
+  lat: '37.6348'
+  long: "-79.4514"
+  nearby_rate_centers:
+  - name: GLASGOW
+    distance_km: 2.15
+  - name: NATURALBDG
+    distance_km: 8.82
+  - name: BIG ISLAND
+    distance_km: 13.8
+- country: US
+  region: VA
+  name: Glen Allen
+  lat: '37.6660'
+  long: "-77.4838"
+  nearby_rate_centers:
+  - name: ASHLAND
+    distance_km: 10.16
+  - name: MECHANCSVL
+    distance_km: 12.37
+  - name: RICHMOND
+    distance_km: 14.4
+- country: US
+  region: VA
+  name: Glen Lyn
+  lat: '37.3727'
+  long: "-80.8580"
+  nearby_rate_centers:
+  - name: NARROWS
+    distance_km: 6.3
+  - name: PEARISBURG
+    distance_km: 12.33
+  - name: PEMBROKE
+    distance_km: 20.02
+- country: US
+  region: VA
+  name: Glen Wilton
+  lat: '37.7555'
+  long: "-79.8213"
+  nearby_rate_centers:
+  - name: CLIFTNFORG
+    distance_km: 6.97
+  - name: EAGLE ROCK
+    distance_km: 12.63
+  - name: COVINGTON
+    distance_km: 15.42
+- country: US
+  region: VA
+  name: Glenvar
+  lat: '37.2760'
+  long: "-80.1257"
+  nearby_rate_centers:
+  - name: SALEM
+    distance_km: 6.17
+  - name: BENT MT
+    distance_km: 15.92
+  - name: ROANOKE
+    distance_km: 16.52
+- country: US
+  region: VA
+  name: Gloucester Courthouse
+  lat: '37.4053'
+  long: "-76.5260"
+  nearby_rate_centers:
+  - name: GLOUCESTER
+    distance_km: 1.37
+  - name: HAYES
+    distance_km: 14.82
+  - name: MATHEWS
+    distance_km: 18.92
+- country: US
+  region: VA
+  name: Gloucester Point
+  lat: '37.2767'
+  long: "-76.5043"
+  nearby_rate_centers:
+  - name: HAYES
+    distance_km: 0.65
+  - name: NWPTNWSZN3
+    distance_km: 15.26
+  - name: GLOUCESTER
+    distance_km: 15.79
+- country: US
+  region: VA
+  name: Goochland
+  lat: '37.6974'
+  long: "-77.8943"
+  nearby_rate_centers:
+  - name: GOOCHLAND
+    distance_km: 2.01
+  - name: FIFE
+    distance_km: 15.21
+  - name: POWHATAN
+    distance_km: 17.42
+- country: US
+  region: VA
+  name: Goose Creek Village
+  lat: '39.0432'
+  long: "-77.5254"
+  nearby_rate_centers:
+  - name: LEESBURG
+    distance_km: 9.19
+  - name: ARCOLA
+    distance_km: 10.35
+  - name: DULLES
+    distance_km: 12.33
+- country: US
+  region: VA
+  name: Gordonsville
+  lat: '38.1360'
+  long: "-78.1879"
+  nearby_rate_centers:
+  - name: GORDONSVL
+    distance_km: 0.56
+  - name: ORANGE
+    distance_km: 13.89
+  - name: LOUISA
+    distance_km: 19.94
+- country: US
+  region: VA
+  name: Gore
+  lat: '39.2627'
+  long: "-78.3293"
+  nearby_rate_centers:
+  - name: GORE
+    distance_km: 0.42
+  - name: GAINESBORO
+    distance_km: 6.03
+  - name: WINCHESTER
+    distance_km: 16.46
+- country: US
+  region: VA
+  name: Goshen
+  lat: '37.9901'
+  long: "-79.5067"
+  nearby_rate_centers:
+  - name: CRAIGSVL
+    distance_km: 15.7
+  - name: MCCLUNG
+    distance_km: 17.73
+  - name: BROWNSBURG
+    distance_km: 18.08
+- country: US
+  region: VA
+  name: Gratton
+  lat: '37.1351'
+  long: "-81.4212"
+  nearby_rate_centers:
+  - name: BURKESGRDN
+    distance_km: 8.05
+  - name: TAZEWELL
+    distance_km: 8.54
+  - name: CERES
+    distance_km: 15.05
+- country: US
+  region: VA
+  name: Great Falls
+  lat: '39.0110'
+  long: "-77.3013"
+  nearby_rate_centers:
+  - name: HERNDON
+    distance_km: 8.61
+  - name: DULLESMTRO
+    distance_km: 12.75
+  - name: WSNGTNZN19
+    distance_km: 12.75
+  - name: DULLES
+    distance_km: 13.78
+- country: US
+  region: VA
+  name: Great Falls Crossing
+  lat: '38.9808'
+  long: "-77.3256"
+  nearby_rate_centers:
+  - name: HERNDON
+    distance_km: 5.14
+  - name: DULLESMTRO
+    distance_km: 10.33
+  - name: WSNGTNZN19
+    distance_km: 10.33
+  - name: DULLES
+    distance_km: 10.54
+- country: US
+  region: VA
+  name: Greenbackville
+  lat: '38.0105'
+  long: "-75.3869"
+  nearby_rate_centers:
+  - name: CHINCOTEGU
+    distance_km: 8.67
+  - name: TEMPERNCVL
+    distance_km: 19.66
+  - name: PARKSLEY
+    distance_km: 34.2
+- country: US
+  region: VA
+  name: Greenbriar
+  lat: '38.8717'
+  long: "-77.3970"
+  nearby_rate_centers:
+  - name: BRADDOCK
+    distance_km: 4.42
+  - name: DULLES
+    distance_km: 9.86
+  - name: HERNDON
+    distance_km: 10.48
+- country: US
+  region: VA
+  name: Greenbush
+  lat: '37.7398'
+  long: "-75.6797"
+  nearby_rate_centers:
+  - name: PARKSLEY
+    distance_km: 5.5
+  - name: ONANCOCK
+    distance_km: 6.08
+  - name: TEMPERNCVL
+    distance_km: 20.19
+- country: US
+  region: VA
+  name: Greenville
+  lat: '38.0036'
+  long: "-79.1523"
+  nearby_rate_centers:
+  - name: RAPHINE
+    distance_km: 10.76
+  - name: BROWNSBURG
+    distance_km: 16.11
+  - name: STAUNTON
+    distance_km: 17.7
+- country: US
+  region: VA
+  name: Gretna
+  lat: '36.9492'
+  long: "-79.3647"
+  nearby_rate_centers:
+  - name: GRETNA
+    distance_km: 1.04
+  - name: CHATHAM
+    distance_km: 14.48
+  - name: RENAN
+    distance_km: 14.92
+- country: US
+  region: VA
+  name: Grottoes
+  lat: '38.2691'
+  long: "-78.8251"
+  nearby_rate_centers:
+  - name: GROTTOES
+    distance_km: 0.68
+  - name: WEYERSCAVE
+    distance_km: 7.57
+  - name: NEW HOPE
+    distance_km: 9.85
+- country: US
+  region: VA
+  name: Groveton
+  lat: '38.7605'
+  long: "-77.0980"
+  nearby_rate_centers:
+  - name: ENGLESIDE
+    distance_km: 10.98
+  - name: LORTONMTRO
+    distance_km: 13.35
+  - name: WSNGTNZN08
+    distance_km: 13.35
+  - name: LORTON
+    distance_km: 15.5
+- country: US
+  region: VA
+  name: Grundy
+  lat: '37.2754'
+  long: "-82.0988"
+  nearby_rate_centers:
+  - name: GRUNDY
+    distance_km: 0.16
+  - name: MAXIE
+    distance_km: 8.58
+  - name: BIG PRATER
+    distance_km: 11.02
+- country: US
+  region: VA
+  name: Gwynn
+  lat: '37.4984'
+  long: "-76.2883"
+  nearby_rate_centers:
+  - name: DELTAVILLE
+    distance_km: 6.91
+  - name: MATHEWS
+    distance_km: 7.52
+  - name: IRVINGTON
+    distance_km: 21.28
+- country: US
+  region: VA
+  name: Halifax
+  lat: '36.7612'
+  long: "-78.9279"
+  nearby_rate_centers:
+  - name: HALIFAX
+    distance_km: 0.82
+  - name: SO BOSTON
+    distance_km: 7.08
+  - name: TURBEVILLE
+    distance_km: 18.56
+- country: US
+  region: VA
+  name: Hallwood
+  lat: '37.8774'
+  long: "-75.5897"
+  nearby_rate_centers:
+  - name: TEMPERNCVL
+    distance_km: 3.64
+  - name: PARKSLEY
+    distance_km: 11.73
+  - name: CHINCOTEGU
+    distance_km: 20.31
+- country: US
+  region: VA
+  name: Hamilton
+  lat: '39.1349'
+  long: "-77.6642"
+  nearby_rate_centers:
+  - name: MT GILEAD
+    distance_km: 4.75
+  - name: CATOCTIN
+    distance_km: 7.87
+  - name: LEESBURG
+    distance_km: 8.55
+- country: US
+  region: VA
+  name: Hampden-Sydney
+  lat: '37.2415'
+  long: "-78.4693"
+  nearby_rate_centers:
+  - name: HAMPDESDNY
+    distance_km: 0.72
+  - name: FARMVILLE
+    distance_km: 9.95
+  - name: PROSPECT
+    distance_km: 11.7
+- country: US
+  region: VA
+  name: Hampton
+  lat: '37.0551'
+  long: "-76.3630"
+  nearby_rate_centers:
+  - name: NWPTNWSZN2
+    distance_km: 3.65
+  - name: CRITTENDEN
+    distance_km: 9.97
+  - name: NWPTNWSZN1
+    distance_km: 10.24
+- country: US
+  region: VA
+  name: Hanover
+  lat: '37.7668'
+  long: "-77.3707"
+  nearby_rate_centers:
+  - name: HANOVER
+    distance_km: 0.85
+  - name: DAWN
+    distance_km: 7.47
+  - name: ASHLAND
+    distance_km: 9.17
+- country: US
+  region: VA
+  name: Harborton
+  lat: '37.6596'
+  long: "-75.8332"
+  nearby_rate_centers:
+  - name: ONANCOCK
+    distance_km: 10.25
+  - name: BELLEHAVEN
+    distance_km: 11.42
+  - name: PARKSLEY
+    distance_km: 21.22
+- country: US
+  region: VA
+  name: Harrisonburg
+  lat: '38.4362'
+  long: "-78.8735"
+  nearby_rate_centers:
+  - name: HARRISONBG
+    distance_km: 1.54
+  - name: DAYTON
+    distance_km: 5.52
+  - name: KEEZLETOWN
+    distance_km: 6.84
+- country: US
+  region: VA
+  name: Harriston
+  lat: '38.2120'
+  long: "-78.8283"
+  nearby_rate_centers:
+  - name: NEW HOPE
+    distance_km: 6.08
+  - name: GROTTOES
+    distance_km: 6.43
+  - name: WEYERSCAVE
+    distance_km: 10.72
+- country: US
+  region: VA
+  name: Hayfield
+  lat: '38.7536'
+  long: "-77.1321"
+  nearby_rate_centers:
+  - name: ENGLESIDE
+    distance_km: 7.99
+  - name: LORTON
+    distance_km: 12.58
+  - name: OCCOQUAN
+    distance_km: 13.53
+- country: US
+  region: VA
+  name: Haymarket
+  lat: '38.8121'
+  long: "-77.6363"
+  nearby_rate_centers:
+  - name: HAYMARKET
+    distance_km: 0.4
+  - name: NOKESVILLE
+    distance_km: 13.02
+  - name: THE PLAINS
+    distance_km: 13.43
+- country: US
+  region: VA
+  name: Haysi
+  lat: '37.2151'
+  long: "-82.2931"
+  nearby_rate_centers:
+  - name: HAYSI
+    distance_km: 0.81
+  - name: CLINCHCO
+    distance_km: 8.02
+  - name: BIG PRATER
+    distance_km: 8.15
+- country: US
+  region: VA
+  name: Heathsville
+  lat: '37.9200'
+  long: "-76.4785"
+  nearby_rate_centers:
+  - name: HEATHSVL
+    distance_km: 1.14
+  - name: CALLAO
+    distance_km: 8.67
+  - name: LIVELY
+    distance_km: 16.61
+- country: US
+  region: VA
+  name: Henry Fork
+  lat: '36.9679'
+  long: "-79.8710"
+  nearby_rate_centers:
+  - name: ROCKYMOUNT
+    distance_km: 3.41
+  - name: UNION HALL
+    distance_km: 12.74
+  - name: FERRUM
+    distance_km: 14.25
+- country: US
+  region: VA
+  name: Herndon
+  lat: '38.9699'
+  long: "-77.3867"
+  nearby_rate_centers:
+  - name: HERNDON
+    distance_km: 0.69
+  - name: DULLES
+    distance_km: 5.15
+  - name: ARCOLA
+    distance_km: 12.63
+- country: US
+  region: VA
+  name: Highland Springs
+  lat: '37.5516'
+  long: "-77.3285"
+  nearby_rate_centers:
+  - name: SANDSTON
+    distance_km: 3.4
+  - name: MECHANCSVL
+    distance_km: 7.35
+  - name: RICHMOND
+    distance_km: 9.46
+- country: US
+  region: VA
+  name: Hillsboro
+  lat: '39.1987'
+  long: "-77.7239"
+  nearby_rate_centers:
+  - name: MT GILEAD
+    distance_km: 7.28
+  - name: CATOCTIN
+    distance_km: 9.83
+  - name: BLUEMONT
+    distance_km: 13.6
+- country: US
+  region: VA
+  name: Hillsville
+  lat: '36.7613'
+  long: "-80.7371"
+  nearby_rate_centers:
+  - name: HILLSVILLE
+    distance_km: 0.31
+  - name: SYLVATUS
+    distance_km: 10.9
+  - name: AUSTINVL
+    distance_km: 18.61
+- country: US
+  region: VA
+  name: Hilltown
+  lat: '36.7290'
+  long: "-80.9822"
+  nearby_rate_centers:
+  - name: FRIES
+    distance_km: 0.31
+  - name: GALAX
+    distance_km: 8.89
+  - name: CRIPPLECRK
+    distance_km: 14.49
+- country: US
+  region: VA
+  name: Hiltons
+  lat: '36.6548'
+  long: "-82.4678"
+  nearby_rate_centers:
+  - name: WILLIAMSML
+    distance_km: 9.26
+  - name: GATE CITY
+    distance_km: 10.26
+  - name: NICKELSVL
+    distance_km: 11.38
+- country: US
+  region: VA
+  name: Hiwassee
+  lat: '36.9682'
+  long: "-80.7045"
+  nearby_rate_centers:
+  - name: PULASKI
+    distance_km: 11.56
+  - name: SYLVATUS
+    distance_km: 13.67
+  - name: DUBLIN
+    distance_km: 15.58
+- country: US
+  region: VA
+  name: Hollins
+  lat: '37.3434'
+  long: "-79.9534"
+  nearby_rate_centers:
+  - name: ROANOKE
+    distance_km: 8.59
+  - name: TROUTVILLE
+    distance_km: 10.95
+  - name: SALEM
+    distance_km: 11.03
+- country: US
+  region: VA
+  name: Hollymead
+  lat: '38.1266'
+  long: "-78.4386"
+  nearby_rate_centers:
+  - name: CHARLOTSVL
+    distance_km: 11.37
+  - name: STANARDSVL
+    distance_km: 19.29
+  - name: GORDONSVL
+    distance_km: 22.47
+- country: US
+  region: VA
+  name: Honaker
+  lat: '37.0156'
+  long: "-81.9686"
+  nearby_rate_centers:
+  - name: HONAKER
+    distance_km: 0.8
+  - name: LEBANON
+    distance_km: 16.54
+  - name: DAVENPORT
+    distance_km: 17.12
+- country: US
+  region: VA
+  name: Hopewell
+  lat: '37.2915'
+  long: "-77.2985"
+  nearby_rate_centers:
+  - name: HOPEWELL
+    distance_km: 2.54
+  - name: ENON
+    distance_km: 6.27
+  - name: PETERSBURG
+    distance_km: 12.3
+- country: US
+  region: VA
+  name: Horntown
+  lat: '37.9655'
+  long: "-75.4560"
+  nearby_rate_centers:
+  - name: CHINCOTEGU
+    distance_km: 8.37
+  - name: TEMPERNCVL
+    distance_km: 11.83
+  - name: PARKSLEY
+    distance_km: 26.45
+- country: US
+  region: VA
+  name: Horse Pasture
+  lat: '36.6313'
+  long: "-79.9515"
+  nearby_rate_centers:
+  - name: SPENCER
+    distance_km: 1.62
+  - name: FIELDALE
+    distance_km: 7.69
+  - name: COLLINSVL
+    distance_km: 8.23
+- country: US
+  region: VA
+  name: Hot Springs
+  lat: '38.0013'
+  long: "-79.8239"
+  nearby_rate_centers:
+  - name: HOTSPRINGS
+    distance_km: 1.01
+  - name: MOUNTANGRV
+    distance_km: 11.19
+  - name: MCCLUNG
+    distance_km: 13.16
+- country: US
+  region: VA
+  name: Huntington
+  lat: '38.7916'
+  long: "-77.0740"
+  nearby_rate_centers:
+  - name: LORTONMTRO
+    distance_km: 10.12
+  - name: WSNGTNZN08
+    distance_km: 10.12
+  - name: WSNGTNZN17
+    distance_km: 13.41
+  - name: ENGLESIDE
+    distance_km: 14.48
+- country: US
+  region: VA
+  name: Hurt
+  lat: '37.0954'
+  long: "-79.3029"
+  nearby_rate_centers:
+  - name: HURT
+    distance_km: 0.68
+  - name: ALTAVISTA
+    distance_km: 2.74
+  - name: GRETNA
+    distance_km: 16.12
+- country: US
+  region: VA
+  name: Hutchison
+  lat: '38.9636'
+  long: "-77.4110"
+  nearby_rate_centers:
+  - name: HERNDON
+    distance_km: 2.55
+  - name: DULLES
+    distance_km: 2.94
+  - name: ARCOLA
+    distance_km: 10.44
+- country: US
+  region: VA
+  name: Hybla Valley
+  lat: '38.7484'
+  long: "-77.0821"
+  nearby_rate_centers:
+  - name: ENGLESIDE
+    distance_km: 11.82
+  - name: LORTONMTRO
+    distance_km: 14.77
+  - name: WSNGTNZN08
+    distance_km: 14.77
+  - name: LORTON
+    distance_km: 16.13
+- country: US
+  region: VA
+  name: Idylwood
+  lat: '38.8896'
+  long: "-77.2056"
+  nearby_rate_centers:
+  - name: WSNGTNZN17
+    distance_km: 3.88
+  - name: DULLESMTRO
+    distance_km: 5.54
+  - name: WSNGTNZN19
+    distance_km: 5.54
+  - name: LORTONMTRO
+    distance_km: 9.28
+  - name: WSNGTNZN08
+    distance_km: 9.28
+- country: US
+  region: VA
+  name: Independence
+  lat: '36.6254'
+  long: "-81.1511"
+  nearby_rate_centers:
+  - name: INDEPNDNCE
+    distance_km: 0.52
+  - name: CMSRKELCRK
+    distance_km: 12.81
+  - name: MOUTHWILSN
+    distance_km: 16.72
+- country: US
+  region: VA
+  name: Independent Hill
+  lat: '38.6404'
+  long: "-77.4089"
+  nearby_rate_centers:
+  - name: INDENDNTHL
+    distance_km: 3.75
+  - name: DALE CITY
+    distance_km: 7.86
+  - name: TRIANGLE
+    distance_km: 11.9
+- country: US
+  region: VA
+  name: Innovation
+  lat: '38.7539'
+  long: "-77.5248"
+  nearby_rate_centers:
+  - name: MANASSAS
+    distance_km: 4.05
+  - name: NOKESVILLE
+    distance_km: 7.77
+  - name: HAYMARKET
+    distance_km: 11.23
+- country: US
+  region: VA
+  name: Innsbrook
+  lat: '37.6552'
+  long: "-77.5775"
+  nearby_rate_centers:
+  - name: ROCKVILLE
+    distance_km: 11.75
+  - name: MANAKIN
+    distance_km: 12.25
+  - name: ASHLAND
+    distance_km: 14.52
+- country: US
+  region: VA
+  name: Iron Gate
+  lat: '37.7985'
+  long: "-79.7904"
+  nearby_rate_centers:
+  - name: CLIFTNFORG
+    distance_km: 3.62
+  - name: EAGLE ROCK
+    distance_km: 17.16
+  - name: COVINGTON
+    distance_km: 17.7
+- country: US
+  region: VA
+  name: Irvington
+  lat: '37.6621'
+  long: "-76.4205"
+  nearby_rate_centers:
+  - name: IRVINGTON
+    distance_km: 0.35
+  - name: KILMARNOCK
+    distance_km: 7.4
+  - name: DELTAVILLE
+    distance_km: 14.7
+- country: US
+  region: VA
+  name: Ivanhoe
+  lat: '36.8428'
+  long: "-80.9683"
+  nearby_rate_centers:
+  - name: AUSTINVL
+    distance_km: 4.78
+  - name: CRIPPLECRK
+    distance_km: 12.15
+  - name: FRIES
+    distance_km: 13.02
+- country: US
+  region: VA
+  name: Ivor
+  lat: '36.9052'
+  long: "-76.8978"
+  nearby_rate_centers:
+  - name: IVOR
+    distance_km: 0.48
+  - name: WAKEFIELD
+    distance_km: 9.6
+  - name: DENDRON
+    distance_km: 16.09
+- country: US
+  region: VA
+  name: Ivy
+  lat: '38.0611'
+  long: "-78.5987"
+  nearby_rate_centers:
+  - name: CROZET
+    distance_km: 9.04
+  - name: CHARLOTSVL
+    distance_km: 9.85
+  - name: GREENWOOD
+    distance_km: 14.68
+- country: US
+  region: VA
+  name: Jarratt
+  lat: '36.8160'
+  long: "-77.4689"
+  nearby_rate_centers:
+  - name: JARRATT
+    distance_km: 1.1
+  - name: EMPORIA
+    distance_km: 15.16
+  - name: STONYCREEK
+    distance_km: 15.76
+- country: US
+  region: VA
+  name: Jewell Ridge
+  lat: '37.1857'
+  long: "-81.7874"
+  nearby_rate_centers:
+  - name: JEWELL RDG
+    distance_km: 0.43
+  - name: RICHLANDS
+    distance_km: 9.68
+  - name: DWIGHT
+    distance_km: 14.39
+- country: US
+  region: VA
+  name: Jolivue
+  lat: '38.1148'
+  long: "-79.0668"
+  nearby_rate_centers:
+  - name: STAUNTON
+    distance_km: 4.15
+  - name: WAYNESBORO
+    distance_km: 16.36
+  - name: NEW HOPE
+    distance_km: 17.69
+- country: US
+  region: VA
+  name: Jonesville
+  lat: '36.6870'
+  long: "-83.1153"
+  nearby_rate_centers:
+  - name: JONESVILLE
+    distance_km: 0.68
+  - name: PENINGTNGP
+    distance_km: 10.58
+  - name: ST CHARLES
+    distance_km: 14.63
+- country: US
+  region: VA
+  name: Keezletown
+  lat: '38.4115'
+  long: "-78.8004"
+  nearby_rate_centers:
+  - name: KEEZLETOWN
+    distance_km: 0.29
+  - name: MCGAHEYSVL
+    distance_km: 6.99
+  - name: HARRISONBG
+    distance_km: 7.28
+- country: US
+  region: VA
+  name: Keller
+  lat: '37.6211'
+  long: "-75.7644"
+  nearby_rate_centers:
+  - name: BELLEHAVEN
+    distance_km: 8.39
+  - name: ONANCOCK
+    distance_km: 10.95
+  - name: PARKSLEY
+    distance_km: 20.65
+- country: US
+  region: VA
+  name: Kenbridge
+  lat: '36.9609'
+  long: "-78.1284"
+  nearby_rate_centers:
+  - name: KENBRIDGE
+    distance_km: 0.43
+  - name: VICTORIA
+    distance_km: 10.1
+  - name: BLACKSTONE
+    distance_km: 16.35
+- country: US
+  region: VA
+  name: Keokee
+  lat: '36.8622'
+  long: "-82.9161"
+  nearby_rate_centers:
+  - name: BIGSTONEGP
+    distance_km: 12.73
+  - name: APPALACHIA
+    distance_km: 13.0
+  - name: ST CHARLES
+    distance_km: 13.72
+- country: US
+  region: VA
+  name: Keswick
+  lat: '38.0127'
+  long: "-78.3613"
+  nearby_rate_centers:
+  - name: CHARLOTSVL
+    distance_km: 11.67
+  - name: PALMYRA
+    distance_km: 18.81
+  - name: GORDONSVL
+    distance_km: 20.74
+- country: US
+  region: VA
+  name: Keysville
+  lat: '37.0390'
+  long: "-78.4804"
+  nearby_rate_centers:
+  - name: KEYSVILLE
+    distance_km: 0.36
+  - name: DRAKESBRCH
+    distance_km: 11.86
+  - name: CHRLTTCTHS
+    distance_km: 13.8
+- country: US
+  region: VA
+  name: Kilmarnock
+  lat: '37.7118'
+  long: "-76.3834"
+  nearby_rate_centers:
+  - name: KILMARNOCK
+    distance_km: 1.03
+  - name: IRVINGTON
+    distance_km: 6.66
+  - name: LIVELY
+    distance_km: 13.54
+- country: US
+  region: VA
+  name: Kincora
+  lat: '39.0383'
+  long: "-77.4357"
+  nearby_rate_centers:
+  - name: HERNDON
+    distance_km: 9.38
+  - name: DULLES
+    distance_km: 9.49
+  - name: ARCOLA
+    distance_km: 12.77
+- country: US
+  region: VA
+  name: King George
+  lat: '38.2807'
+  long: "-77.1896"
+  nearby_rate_centers:
+  - name: KINGGEORGE
+    distance_km: 1.6
+  - name: PORT ROYAL
+    distance_km: 12.99
+  - name: DAHLGREN
+    distance_km: 14.25
+- country: US
+  region: VA
+  name: King William
+  lat: '37.6882'
+  long: "-77.0212"
+  nearby_rate_centers:
+  - name: KINGWILLIM
+    distance_km: 10.24
+  - name: OLD CHURCH
+    distance_km: 18.34
+  - name: WEST POINT
+    distance_km: 26.15
+- country: US
+  region: VA
+  name: King and Queen Court House
+  lat: '37.6683'
+  long: "-76.8781"
+  nearby_rate_centers:
+  - name: WEST POINT
+    distance_km: 16.58
+  - name: KNGANDQUEN
+    distance_km: 17.81
+  - name: KINGWILLIM
+    distance_km: 22.7
+- country: US
+  region: VA
+  name: Kings Park
+  lat: '38.8026'
+  long: "-77.2396"
+  nearby_rate_centers:
+  - name: ENGLESIDE
+    distance_km: 9.5
+  - name: DULLESMTRO
+    distance_km: 11.03
+  - name: WSNGTNZN19
+    distance_km: 11.03
+  - name: WSNGTNZN17
+    distance_km: 12.01
+- country: US
+  region: VA
+  name: Kings Park West
+  lat: '38.8151'
+  long: "-77.2960"
+  nearby_rate_centers:
+  - name: DULLESMTRO
+    distance_km: 9.65
+  - name: WSNGTNZN19
+    distance_km: 9.65
+  - name: BRADDOCK
+    distance_km: 11.76
+  - name: ENGLESIDE
+    distance_km: 12.81
+- country: US
+  region: VA
+  name: Kingstowne
+  lat: '38.7625'
+  long: "-77.1444"
+  nearby_rate_centers:
+  - name: ENGLESIDE
+    distance_km: 7.64
+  - name: LORTON
+    distance_km: 12.32
+  - name: OCCOQUAN
+    distance_km: 13.3
+- country: US
+  region: VA
+  name: La Crosse
+  lat: '36.7014'
+  long: "-78.0943"
+  nearby_rate_centers:
+  - name: LA CROSSE
+    distance_km: 0.68
+  - name: SOUTH HILL
+    distance_km: 4.38
+  - name: BRODNAX
+    distance_km: 5.52
+- country: US
+  region: VA
+  name: Lafayette
+  lat: '37.2330'
+  long: "-80.2051"
+  nearby_rate_centers:
+  - name: SHAWSVILLE
+    distance_km: 8.6
+  - name: BENT MT
+    distance_km: 12.72
+  - name: SALEM
+    distance_km: 14.45
+- country: US
+  region: VA
+  name: Lake Barcroft
+  lat: '38.8514'
+  long: "-77.1579"
+  nearby_rate_centers:
+  - name: WSNGTNZN17
+    distance_km: 4.47
+  - name: LORTONMTRO
+    distance_km: 6.04
+  - name: WSNGTNZN08
+    distance_km: 6.04
+  - name: DULLESMTRO
+    distance_km: 10.95
+  - name: WSNGTNZN19
+    distance_km: 10.95
+- country: US
+  region: VA
+  name: Lake Caroline
+  lat: '37.9856'
+  long: "-77.5244"
+  nearby_rate_centers:
+  - name: LADYSMITH
+    distance_km: 3.63
+  - name: BEAVERDAM
+    distance_km: 12.26
+  - name: DOSWELL
+    distance_km: 15.49
+- country: US
+  region: VA
+  name: Lake Holiday
+  lat: '39.3092'
+  long: "-78.3245"
+  nearby_rate_centers:
+  - name: GORE
+    distance_km: 4.82
+  - name: GAINESBORO
+    distance_km: 6.78
+  - name: WINCHESTER
+    distance_km: 19.36
+- country: US
+  region: VA
+  name: Lake Land'Or
+  lat: '38.0170'
+  long: "-77.5593"
+  nearby_rate_centers:
+  - name: LADYSMITH
+    distance_km: 3.78
+  - name: BEAVERDAM
+    distance_km: 11.73
+  - name: BOWLNGGREN
+    distance_km: 18.84
+- country: US
+  region: VA
+  name: Lake Monticello
+  lat: '37.9210'
+  long: "-78.3295"
+  nearby_rate_centers:
+  - name: PALMYRA
+    distance_km: 8.64
+  - name: CHARLOTSVL
+    distance_km: 18.94
+  - name: FORK UNION
+    distance_km: 18.95
+- country: US
+  region: VA
+  name: Lake Ridge
+  lat: '38.6847'
+  long: "-77.3066"
+  nearby_rate_centers:
+  - name: OCCOQUAN
+    distance_km: 4.09
+  - name: LORTON
+    distance_km: 4.71
+  - name: DALE CITY
+    distance_km: 5.94
+- country: US
+  region: VA
+  name: Lake Wilderness
+  lat: '38.3036'
+  long: "-77.7277"
+  nearby_rate_centers:
+  - name: CHANCELLOR
+    distance_km: 11.19
+  - name: BROKENBURG
+    distance_km: 16.84
+  - name: SPOTSYLVAN
+    distance_km: 17.09
+- country: US
+  region: VA
+  name: Lake of the Woods
+  lat: '38.3343'
+  long: "-77.7599"
+  nearby_rate_centers:
+  - name: CHANCELLOR
+    distance_km: 14.86
+  - name: HARTWOOD
+    distance_km: 19.63
+  - name: UNIONVILLE
+    distance_km: 20.03
+- country: US
+  region: VA
+  name: Lakeside
+  lat: '37.6132'
+  long: "-77.4768"
+  nearby_rate_centers:
+  - name: RICHMOND
+    distance_km: 8.69
+  - name: MECHANCSVL
+    distance_km: 10.24
+  - name: ASHLAND
+    distance_km: 16.0
+- country: US
+  region: VA
+  name: Lancaster
+  lat: '37.7675'
+  long: "-76.4549"
+  nearby_rate_centers:
+  - name: LIVELY
+    distance_km: 5.42
+  - name: KILMARNOCK
+    distance_km: 8.97
+  - name: IRVINGTON
+    distance_km: 12.45
+- country: US
+  region: VA
+  name: Lansdowne
+  lat: '39.0844'
+  long: "-77.4839"
+  nearby_rate_centers:
+  - name: LEESBURG
+    distance_km: 8.16
+  - name: DULLES
+    distance_km: 15.03
+  - name: ARCOLA
+    distance_km: 15.46
+- country: US
+  region: VA
+  name: Laurel
+  lat: '37.6375'
+  long: "-77.5062"
+  nearby_rate_centers:
+  - name: RICHMOND
+    distance_km: 12.3
+  - name: MECHANCSVL
+    distance_km: 13.12
+  - name: ASHLAND
+    distance_km: 13.59
+- country: US
+  region: VA
+  name: Laurel Hill
+  lat: '38.7026'
+  long: "-77.2422"
+  nearby_rate_centers:
+  - name: LORTON
+    distance_km: 1.59
+  - name: OCCOQUAN
+    distance_km: 2.61
+  - name: ENGLESIDE
+    distance_km: 3.15
+- country: US
+  region: VA
+  name: Laurel Park
+  lat: '36.6871'
+  long: "-79.7872"
+  nearby_rate_centers:
+  - name: AXTON
+    distance_km: 7.49
+  - name: MARTINSVL
+    distance_km: 7.94
+  - name: COLLINSVL
+    distance_km: 11.57
+- country: US
+  region: VA
+  name: Lawrenceville
+  lat: '36.7565'
+  long: "-77.8539"
+  nearby_rate_centers:
+  - name: LAWRENCEVL
+    distance_km: 0.19
+  - name: ALBERTA
+    distance_km: 12.63
+  - name: SOBRUNSWIK
+    distance_km: 16.34
+- country: US
+  region: VA
+  name: Laymantown
+  lat: '37.3628'
+  long: "-79.8524"
+  nearby_rate_centers:
+  - name: TROUTVILLE
+    distance_km: 6.39
+  - name: MONTVALE
+    distance_km: 11.83
+  - name: ROANOKE
+    distance_km: 13.14
+- country: US
+  region: VA
+  name: Lebanon
+  lat: '36.8991'
+  long: "-82.0784"
+  nearby_rate_centers:
+  - name: LEBANON
+    distance_km: 0.35
+  - name: HONAKER
+    distance_km: 16.05
+  - name: ST PAUL
+    distance_km: 20.34
+- country: US
+  region: VA
+  name: Lee Mont
+  lat: '37.7799'
+  long: "-75.6802"
+  nearby_rate_centers:
+  - name: PARKSLEY
+    distance_km: 2.75
+  - name: ONANCOCK
+    distance_km: 8.82
+  - name: TEMPERNCVL
+    distance_km: 16.7
+- country: US
+  region: VA
+  name: Leesburg
+  lat: '39.1057'
+  long: "-77.5544"
+  nearby_rate_centers:
+  - name: LEESBURG
+    distance_km: 1.87
+  - name: CATOCTIN
+    distance_km: 10.73
+  - name: MT GILEAD
+    distance_km: 14.55
+- country: US
+  region: VA
+  name: Lexington
+  lat: '37.7825'
+  long: "-79.4441"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance_km: 0.06
+  - name: BUENAVISTA
+    distance_km: 10.14
+  - name: GLASGOW
+    distance_km: 17.33
+- country: US
+  region: VA
+  name: Lincolnia
+  lat: '38.8158'
+  long: "-77.1543"
+  nearby_rate_centers:
+  - name: WSNGTNZN17
+    distance_km: 8.44
+  - name: LORTONMTRO
+    distance_km: 8.65
+  - name: WSNGTNZN08
+    distance_km: 8.65
+  - name: ENGLESIDE
+    distance_km: 11.85
+- country: US
+  region: VA
+  name: Linton Hall
+  lat: '38.7551'
+  long: "-77.5750"
+  nearby_rate_centers:
+  - name: NOKESVILLE
+    distance_km: 5.96
+  - name: HAYMARKET
+    distance_km: 7.89
+  - name: MANASSAS
+    distance_km: 8.4
+- country: US
+  region: VA
+  name: Linville
+  lat: '38.5200'
+  long: "-78.8358"
+  nearby_rate_centers:
+  - name: EDOM
+    distance_km: 2.17
+  - name: HARRISONBG
+    distance_km: 8.34
+  - name: KEEZLETOWN
+    distance_km: 12.18
+- country: US
+  region: VA
+  name: Loch Lomond
+  lat: '38.7812'
+  long: "-77.4817"
+  nearby_rate_centers:
+  - name: MANASSAS
+    distance_km: 3.42
+  - name: BRADDOCK
+    distance_km: 8.04
+  - name: NOKESVILLE
+    distance_km: 12.55
+- country: US
+  region: VA
+  name: Locust Mount
+  lat: '37.6124'
+  long: "-75.7018"
+  nearby_rate_centers:
+  - name: BELLEHAVEN
+    distance_km: 11.77
+  - name: ONANCOCK
+    distance_km: 12.31
+  - name: PARKSLEY
+    distance_km: 19.52
+- country: US
+  region: VA
+  name: Long Branch
+  lat: '38.8302'
+  long: "-77.2713"
+  nearby_rate_centers:
+  - name: DULLESMTRO
+    distance_km: 7.67
+  - name: WSNGTNZN19
+    distance_km: 7.67
+  - name: WSNGTNZN17
+    distance_km: 11.75
+  - name: ENGLESIDE
+    distance_km: 13.28
+- country: US
+  region: VA
+  name: Lorton
+  lat: '38.6983'
+  long: "-77.2164"
+  nearby_rate_centers:
+  - name: ENGLESIDE
+    distance_km: 2.39
+  - name: LORTON
+    distance_km: 3.27
+  - name: OCCOQUAN
+    distance_km: 4.09
+- country: US
+  region: VA
+  name: Loudoun Valley Estates
+  lat: '38.9770'
+  long: "-77.5053"
+  nearby_rate_centers:
+  - name: ARCOLA
+    distance_km: 3.69
+  - name: DULLES
+    distance_km: 6.06
+  - name: HERNDON
+    distance_km: 10.78
+- country: US
+  region: VA
+  name: Louisa
+  lat: '38.0212'
+  long: "-77.9986"
+  nearby_rate_centers:
+  - name: LOUISA
+    distance_km: 0.98
+  - name: MINERAL
+    distance_km: 7.79
+  - name: GORDONSVL
+    distance_km: 20.39
+- country: US
+  region: VA
+  name: Lovettsville
+  lat: '39.2731'
+  long: "-77.6400"
+  nearby_rate_centers:
+  - name: CATOCTIN
+    distance_km: 9.38
+  - name: MT GILEAD
+    distance_km: 16.98
+  - name: LEESBURG
+    distance_km: 18.22
+- country: US
+  region: VA
+  name: Lovingston
+  lat: '37.7605'
+  long: "-78.8688"
+  nearby_rate_centers:
+  - name: LOVINGSTON
+    distance_km: 0.83
+  - name: SCHUYLER
+    distance_km: 15.06
+  - name: PINEYRIVER
+    distance_km: 15.09
+- country: US
+  region: VA
+  name: Low Moor
+  lat: '37.7952'
+  long: "-79.8695"
+  nearby_rate_centers:
+  - name: CLIFTNFORG
+    distance_km: 4.8
+  - name: COVINGTON
+    distance_km: 10.74
+  - name: EAGLE ROCK
+    distance_km: 18.11
+- country: US
+  region: VA
+  name: Lowes Island
+  lat: '39.0471'
+  long: "-77.3524"
+  nearby_rate_centers:
+  - name: HERNDON
+    distance_km: 9.45
+  - name: DULLES
+    distance_km: 13.02
+  - name: DULLESMTRO
+    distance_km: 17.98
+  - name: WSNGTNZN19
+    distance_km: 17.98
+- country: US
+  region: VA
+  name: Lunenburg
+  lat: '36.9585'
+  long: "-78.2683"
+  nearby_rate_centers:
+  - name: VICTORIA
+    distance_km: 4.57
+  - name: KENBRIDGE
+    distance_km: 12.76
+  - name: KEYSVILLE
+    distance_km: 21.21
+- country: US
+  region: VA
+  name: Luray
+  lat: '38.6650'
+  long: "-78.4546"
+  nearby_rate_centers:
+  - name: LURAY
+    distance_km: 0.42
+  - name: SHENANDHPK
+    distance_km: 7.65
+  - name: STANLEY
+    distance_km: 10.56
+- country: US
+  region: VA
+  name: Lynchburg
+  lat: '37.4003'
+  long: "-79.1909"
+  nearby_rate_centers:
+  - name: LYNCHBURG
+    distance_km: 4.7
+  - name: RUSTBURG
+    distance_km: 15.86
+  - name: CONCORD
+    distance_km: 19.04
+- country: US
+  region: VA
+  name: Lyndhurst
+  lat: '38.0220'
+  long: "-78.9516"
+  nearby_rate_centers:
+  - name: WAYNESBORO
+    distance_km: 7.22
+  - name: GREENWOOD
+    distance_km: 16.67
+  - name: STAUNTON
+    distance_km: 18.08
+- country: US
+  region: VA
+  name: Madison
+  lat: '38.3794'
+  long: "-78.2586"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 0.67
+  - name: CRIGLERSVL
+    distance_km: 9.27
+  - name: STANARDSVL
+    distance_km: 17.65
+- country: US
+  region: VA
+  name: Madison Heights
+  lat: '37.4487'
+  long: "-79.1057"
+  nearby_rate_centers:
+  - name: LYNCHBURG
+    distance_km: 4.69
+  - name: SWEET BRIA
+    distance_km: 11.73
+  - name: CONCORD
+    distance_km: 15.17
+- country: US
+  region: VA
+  name: Makemie Park
+  lat: '37.9106'
+  long: "-75.5845"
+  nearby_rate_centers:
+  - name: TEMPERNCVL
+    distance_km: 3.64
+  - name: PARKSLEY
+    distance_km: 15.29
+  - name: CHINCOTEGU
+    distance_km: 19.04
+- country: US
+  region: VA
+  name: Mallow
+  lat: '37.7676'
+  long: "-79.9702"
+  nearby_rate_centers:
+  - name: COVINGTON
+    distance_km: 3.05
+  - name: CLIFTNFORG
+    distance_km: 14.08
+  - name: ORISKANY
+    distance_km: 16.74
+- country: US
+  region: VA
+  name: Manassas
+  lat: '38.7479'
+  long: "-77.4838"
+  nearby_rate_centers:
+  - name: MANASSAS
+    distance_km: 0.56
+  - name: NOKESVILLE
+    distance_km: 10.14
+  - name: INDENDNTHL
+    distance_km: 10.36
+- country: US
+  region: VA
+  name: Manassas Park
+  lat: '38.7709'
+  long: "-77.4429"
+  nearby_rate_centers:
+  - name: MANASSAS
+    distance_km: 3.81
+  - name: BRADDOCK
+    distance_km: 7.8
+  - name: INDENDNTHL
+    distance_km: 12.32
+- country: US
+  region: VA
+  name: Manchester
+  lat: '37.4902'
+  long: "-77.5396"
+  nearby_rate_centers:
+  - name: MIDLOTHIAN
+    distance_km: 10.09
+  - name: RICHMOND
+    distance_km: 10.89
+  - name: BETHIA
+    distance_km: 16.82
+- country: US
+  region: VA
+  name: Mantua
+  lat: '38.8526'
+  long: "-77.2571"
+  nearby_rate_centers:
+  - name: DULLESMTRO
+    distance_km: 5.27
+  - name: WSNGTNZN19
+    distance_km: 5.27
+  - name: WSNGTNZN17
+    distance_km: 9.39
+  - name: LORTONMTRO
+    distance_km: 14.03
+  - name: WSNGTNZN08
+    distance_km: 14.03
+- country: US
+  region: VA
+  name: Mappsburg
+  lat: '37.5760'
+  long: "-75.7593"
+  nearby_rate_centers:
+  - name: BELLEHAVEN
+    distance_km: 5.41
+  - name: ONANCOCK
+    distance_km: 15.87
+  - name: PARKSLEY
+    distance_km: 24.97
+- country: US
+  region: VA
+  name: Mappsville
+  lat: '37.8435'
+  long: "-75.5686"
+  nearby_rate_centers:
+  - name: TEMPERNCVL
+    distance_km: 5.44
+  - name: PARKSLEY
+    distance_km: 9.77
+  - name: CHINCOTEGU
+    distance_km: 20.15
+- country: US
+  region: VA
+  name: Marion
+  lat: '36.8379'
+  long: "-81.5156"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 0.8
+  - name: RICHVALLEY
+    distance_km: 8.85
+  - name: SUGARGROVE
+    distance_km: 11.23
+- country: US
+  region: VA
+  name: Marshall
+  lat: '38.8661'
+  long: "-77.8453"
+  nearby_rate_centers:
+  - name: MARSHALL
+    distance_km: 1.17
+  - name: THE PLAINS
+    distance_km: 6.23
+  - name: MIDDLEBURG
+    distance_km: 15.05
+- country: US
+  region: VA
+  name: Martinsville
+  lat: '36.6826'
+  long: "-79.8636"
+  nearby_rate_centers:
+  - name: MARTINSVL
+    distance_km: 1.39
+  - name: COLLINSVL
+    distance_km: 5.05
+  - name: FIELDALE
+    distance_km: 7.9
+- country: US
+  region: VA
+  name: Mason Neck
+  lat: '38.6556'
+  long: "-77.1819"
+  nearby_rate_centers:
+  - name: LORTON
+    distance_km: 7.31
+  - name: OCCOQUAN
+    distance_km: 7.42
+  - name: ENGLESIDE
+    distance_km: 7.63
+- country: US
+  region: VA
+  name: Massanetta Springs
+  lat: '38.3899'
+  long: "-78.8340"
+  nearby_rate_centers:
+  - name: KEEZLETOWN
+    distance_km: 3.99
+  - name: HARRISONBG
+    distance_km: 7.27
+  - name: MCGAHEYSVL
+    distance_km: 8.77
+- country: US
+  region: VA
+  name: Massanutten
+  lat: '38.4115'
+  long: "-78.7270"
+  nearby_rate_centers:
+  - name: MCGAHEYSVL
+    distance_km: 4.14
+  - name: KEEZLETOWN
+    distance_km: 6.38
+  - name: ELKTON
+    distance_km: 9.75
+- country: US
+  region: VA
+  name: Mathews
+  lat: '37.4365'
+  long: "-76.3245"
+  nearby_rate_centers:
+  - name: MATHEWS
+    distance_km: 0.9
+  - name: DELTAVILLE
+    distance_km: 12.61
+  - name: GLOUCESTER
+    distance_km: 17.95
+- country: US
+  region: VA
+  name: Matoaca
+  lat: '37.2313'
+  long: "-77.4679"
+  nearby_rate_centers:
+  - name: PETERSBURG
+    distance_km: 5.35
+  - name: CHESTER
+    distance_km: 14.47
+  - name: ENON
+    distance_km: 18.42
+- country: US
+  region: VA
+  name: Maurertown
+  lat: '38.9325'
+  long: "-78.4615"
+  nearby_rate_centers:
+  - name: TOMS BROOK
+    distance_km: 2.59
+  - name: WOODSTOCK
+    distance_km: 7.24
+  - name: FORT VLY
+    distance_km: 10.24
+- country: US
+  region: VA
+  name: Max Meadows
+  lat: '36.9798'
+  long: "-80.9678"
+  nearby_rate_centers:
+  - name: MAXMEADOWS
+    distance_km: 1.5
+  - name: WYTHEVILLE
+    distance_km: 10.98
+  - name: AUSTINVL
+    distance_km: 15.27
+- country: US
+  region: VA
+  name: McDowell
+  lat: '38.3375'
+  long: "-79.4994"
+  nearby_rate_centers:
+  - name: MCDOWELL
+    distance_km: 0.95
+  - name: MONTEREY
+    distance_km: 10.54
+  - name: WILLIAMSVL
+    distance_km: 18.26
+- country: US
+  region: VA
+  name: McGaheysville
+  lat: '38.3724'
+  long: "-78.7327"
+  nearby_rate_centers:
+  - name: MCGAHEYSVL
+    distance_km: 0.35
+  - name: KEEZLETOWN
+    distance_km: 7.49
+  - name: ELKTON
+    distance_km: 11.36
+- country: US
+  region: VA
+  name: McKenney
+  lat: '36.9853'
+  long: "-77.7219"
+  nearby_rate_centers:
+  - name: MCKENNEY
+    distance_km: 0.51
+  - name: DINWIDDIE
+    distance_km: 16.21
+  - name: ALBERTA
+    distance_km: 19.42
+- country: US
+  region: VA
+  name: McLean
+  lat: '38.9436'
+  long: "-77.1943"
+  nearby_rate_centers:
+  - name: WSNGTNZN17
+    distance_km: 6.48
+  - name: DULLESMTRO
+    distance_km: 8.1
+  - name: WSNGTNZN19
+    distance_km: 8.1
+  - name: LORTONMTRO
+    distance_km: 10.82
+  - name: WSNGTNZN08
+    distance_km: 10.82
+- country: US
+  region: VA
+  name: McMullin
+  lat: '36.8179'
+  long: "-81.5775"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 5.27
+  - name: CHILHOWIE
+    distance_km: 9.87
+  - name: RICHVALLEY
+    distance_km: 10.02
+- country: US
+  region: VA
+  name: McNair
+  lat: '38.9513'
+  long: "-77.4115"
+  nearby_rate_centers:
+  - name: DULLES
+    distance_km: 2.67
+  - name: HERNDON
+    distance_km: 3.01
+  - name: ARCOLA
+    distance_km: 10.3
+- country: US
+  region: VA
+  name: Meadowbrook
+  lat: '37.4301'
+  long: "-77.4740"
+  nearby_rate_centers:
+  - name: CHESTER
+    distance_km: 8.79
+  - name: VARINA
+    distance_km: 11.47
+  - name: RICHMOND
+    distance_km: 12.94
+- country: US
+  region: VA
+  name: Meadows of Dan
+  lat: '36.7386'
+  long: "-80.3973"
+  nearby_rate_centers:
+  - name: MEADOWSDAN
+    distance_km: 1.2
+  - name: BALLARD
+    distance_km: 4.89
+  - name: LAURELFORK
+    distance_km: 10.9
+- country: US
+  region: VA
+  name: Mechanicsburg
+  lat: '37.1520'
+  long: "-80.9411"
+  nearby_rate_centers:
+  - name: BLAND
+    distance_km: 16.61
+  - name: PULASKI
+    distance_km: 17.88
+  - name: ROCKY GAP
+    distance_km: 17.98
+- country: US
+  region: VA
+  name: Mechanicsville
+  lat: '37.6263'
+  long: "-77.3561"
+  nearby_rate_centers:
+  - name: MECHANCSVL
+    distance_km: 1.56
+  - name: RICHMOND
+    distance_km: 11.65
+  - name: OLD CHURCH
+    distance_km: 11.94
+- country: US
+  region: VA
+  name: Melfa
+  lat: '37.6489'
+  long: "-75.7407"
+  nearby_rate_centers:
+  - name: ONANCOCK
+    distance_km: 7.7
+  - name: BELLEHAVEN
+    distance_km: 12.12
+  - name: PARKSLEY
+    distance_km: 16.94
+- country: US
+  region: VA
+  name: Mendota
+  lat: '36.7102'
+  long: "-82.3048"
+  nearby_rate_centers:
+  - name: NICKELSVL
+    distance_km: 10.68
+  - name: BRISTOL
+    distance_km: 16.91
+  - name: DUNGANNON
+    distance_km: 19.71
+- country: US
+  region: VA
+  name: Merrifield
+  lat: '38.8731'
+  long: "-77.2426"
+  nearby_rate_centers:
+  - name: DULLESMTRO
+    distance_km: 3.66
+  - name: WSNGTNZN19
+    distance_km: 3.66
+  - name: WSNGTNZN17
+    distance_km: 7.37
+  - name: LORTONMTRO
+    distance_km: 12.46
+  - name: WSNGTNZN08
+    distance_km: 12.46
+- country: US
+  region: VA
+  name: Merrimac
+  lat: '37.1902'
+  long: "-80.4243"
+  nearby_rate_centers:
+  - name: BLACKSBURG
+    distance_km: 4.76
+  - name: CHRISTISBG
+    distance_km: 6.33
+  - name: NEWPORT
+    distance_km: 12.86
+- country: US
+  region: VA
+  name: Metompkin
+  lat: '37.7671'
+  long: "-75.6054"
+  nearby_rate_centers:
+  - name: PARKSLEY
+    distance_km: 4.23
+  - name: ONANCOCK
+    distance_km: 13.28
+  - name: TEMPERNCVL
+    distance_km: 14.52
+- country: US
+  region: VA
+  name: Middlebrook
+  lat: '38.0552'
+  long: "-79.2182"
+  nearby_rate_centers:
+  - name: RAPHINE
+    distance_km: 13.92
+  - name: CRAIGSVL
+    distance_km: 14.14
+  - name: BROWNSBURG
+    distance_km: 15.87
+- country: US
+  region: VA
+  name: Middleburg
+  lat: '38.9715'
+  long: "-77.7429"
+  nearby_rate_centers:
+  - name: MIDDLEBURG
+    distance_km: 1.24
+  - name: THE PLAINS
+    distance_km: 11.75
+  - name: UPPERVILLE
+    distance_km: 12.79
+- country: US
+  region: VA
+  name: Middletown
+  lat: '39.0287'
+  long: "-78.2781"
+  nearby_rate_centers:
+  - name: STEPHENSCY
+    distance_km: 8.19
+  - name: STRASBURG
+    distance_km: 8.52
+  - name: FRONTROYAL
+    distance_km: 13.7
+- country: US
+  region: VA
+  name: Midland
+  lat: '38.5984'
+  long: "-77.7213"
+  nearby_rate_centers:
+  - name: CALVERTON
+    distance_km: 5.65
+  - name: REMINGTON
+    distance_km: 10.53
+  - name: WARRENTON
+    distance_km: 14.59
+- country: US
+  region: VA
+  name: Midlothian
+  lat: '37.4856'
+  long: "-77.6522"
+  nearby_rate_centers:
+  - name: MIDLOTHIAN
+    distance_km: 1.57
+  - name: BETHIA
+    distance_km: 10.28
+  - name: MANAKIN
+    distance_km: 13.53
+- country: US
+  region: VA
+  name: Millboro
+  lat: '37.9785'
+  long: "-79.6022"
+  nearby_rate_centers:
+  - name: MCCLUNG
+    distance_km: 11.62
+  - name: HOTSPRINGS
+    distance_km: 20.52
+  - name: CRAIGSVL
+    distance_km: 23.21
+- country: US
+  region: VA
+  name: Mineral
+  lat: '38.0068'
+  long: "-77.9061"
+  nearby_rate_centers:
+  - name: MINERAL
+    distance_km: 0.47
+  - name: LOUISA
+    distance_km: 9.18
+  - name: BROKENBURG
+    distance_km: 23.19
+- country: US
+  region: VA
+  name: Modest Town
+  lat: '37.8169'
+  long: "-75.5611"
+  nearby_rate_centers:
+  - name: TEMPERNCVL
+    distance_km: 8.23
+  - name: PARKSLEY
+    distance_km: 8.61
+  - name: ONANCOCK
+    distance_km: 19.41
+- country: US
+  region: VA
+  name: Moneta
+  lat: '37.1886'
+  long: "-79.6133"
+  nearby_rate_centers:
+  - name: STONE MT
+    distance_km: 4.08
+  - name: BURNTCHMNY
+    distance_km: 13.75
+  - name: BEDFORD
+    distance_km: 18.85
+- country: US
+  region: VA
+  name: Montclair
+  lat: '38.6111'
+  long: "-77.3400"
+  nearby_rate_centers:
+  - name: DALE CITY
+    distance_km: 2.96
+  - name: TRIANGLE
+    distance_km: 6.69
+  - name: INDENDNTHL
+    distance_km: 10.54
+- country: US
+  region: VA
+  name: Monterey
+  lat: '38.4116'
+  long: "-79.5809"
+  nearby_rate_centers:
+  - name: MONTEREY
+    distance_km: 0.68
+  - name: BLUE GRASS
+    distance_km: 9.96
+  - name: MCDOWELL
+    distance_km: 11.83
+- country: US
+  region: VA
+  name: Montrose
+  lat: '37.5200'
+  long: "-77.3772"
+  nearby_rate_centers:
+  - name: RICHMOND
+    distance_km: 5.68
+  - name: SANDSTON
+    distance_km: 5.92
+  - name: VARINA
+    distance_km: 8.22
+- country: US
+  region: VA
+  name: Montross
+  lat: '38.0941'
+  long: "-76.8229"
+  nearby_rate_centers:
+  - name: MONTROSS
+    distance_km: 0.26
+  - name: HAGUE
+    distance_km: 15.1
+  - name: WARSAW
+    distance_km: 16.34
+- country: US
+  region: VA
+  name: Montvale
+  lat: '37.3865'
+  long: "-79.7252"
+  nearby_rate_centers:
+  - name: MONTVALE
+    distance_km: 0.49
+  - name: TROUTVILLE
+    distance_km: 13.47
+  - name: BUCHANAN
+    distance_km: 16.77
+- country: US
+  region: VA
+  name: Motley
+  lat: '37.0657'
+  long: "-79.3474"
+  nearby_rate_centers:
+  - name: HURT
+    distance_km: 5.76
+  - name: ALTAVISTA
+    distance_km: 7.86
+  - name: GRETNA
+    distance_km: 12.02
+- country: US
+  region: VA
+  name: Mount Clifton
+  lat: '38.7617'
+  long: "-78.7166"
+  nearby_rate_centers:
+  - name: MT JACKSON
+    distance_km: 6.46
+  - name: BASYE
+    distance_km: 6.75
+  - name: NEW MARKET
+    distance_km: 13.44
+- country: US
+  region: VA
+  name: Mount Crawford
+  lat: '38.3601'
+  long: "-78.9413"
+  nearby_rate_centers:
+  - name: BRIDGEWTR
+    distance_km: 3.79
+  - name: DAYTON
+    distance_km: 6.3
+  - name: WEYERSCAVE
+    distance_km: 8.88
+- country: US
+  region: VA
+  name: Mount Hermon
+  lat: '36.6716'
+  long: "-79.4202"
+  nearby_rate_centers:
+  - name: DANVILLE
+    distance_km: 10.34
+  - name: WHITMELL
+    distance_km: 10.44
+  - name: BACHESHALL
+    distance_km: 12.06
+- country: US
+  region: VA
+  name: Mount Jackson
+  lat: '38.7390'
+  long: "-78.6510"
+  nearby_rate_centers:
+  - name: MT JACKSON
+    distance_km: 0.93
+  - name: NEW MARKET
+    distance_km: 10.59
+  - name: EDINBURG
+    distance_km: 11.67
+- country: US
+  region: VA
+  name: Mount Sidney
+  lat: '38.2586'
+  long: "-78.9654"
+  nearby_rate_centers:
+  - name: WEYERSCAVE
+    distance_km: 5.63
+  - name: NEW HOPE
+    distance_km: 8.86
+  - name: GROTTOES
+    distance_km: 12.98
+- country: US
+  region: VA
+  name: Mount Vernon
+  lat: '38.7140'
+  long: "-77.1043"
+  nearby_rate_centers:
+  - name: ENGLESIDE
+    distance_km: 9.47
+  - name: LORTON
+    distance_km: 13.15
+  - name: OCCOQUAN
+    distance_km: 13.89
+- country: US
+  region: VA
+  name: Mountain Road
+  lat: '36.7585'
+  long: "-78.9890"
+  nearby_rate_centers:
+  - name: HALIFAX
+    distance_km: 6.05
+  - name: SO BOSTON
+    distance_km: 10.13
+  - name: TURBEVILLE
+    distance_km: 15.83
+- country: US
+  region: VA
+  name: Narrows
+  lat: '37.3316'
+  long: "-80.8082"
+  nearby_rate_centers:
+  - name: NARROWS
+    distance_km: 0.04
+  - name: PEARISBURG
+    distance_km: 6.8
+  - name: PEMBROKE
+    distance_km: 14.78
+- country: US
+  region: VA
+  name: Nassawadox
+  lat: '37.4762'
+  long: "-75.8591"
+  nearby_rate_centers:
+  - name: BELLEHAVEN
+    distance_km: 9.83
+  - name: EASTVILLE
+    distance_km: 15.89
+  - name: CAPECHARLS
+    distance_km: 27.01
+- country: US
+  region: VA
+  name: Nathalie
+  lat: '36.9381'
+  long: "-78.9422"
+  nearby_rate_centers:
+  - name: VOLENS
+    distance_km: 6.15
+  - name: BROOKNEAL
+    distance_km: 11.75
+  - name: HALIFAX
+    distance_km: 19.13
+- country: US
+  region: VA
+  name: Navy
+  lat: '38.8882'
+  long: "-77.3907"
+  nearby_rate_centers:
+  - name: BRADDOCK
+    distance_km: 6.24
+  - name: DULLES
+    distance_km: 8.49
+  - name: HERNDON
+    distance_km: 8.59
+- country: US
+  region: VA
+  name: Nellysford
+  lat: '37.9132'
+  long: "-78.8829"
+  nearby_rate_centers:
+  - name: WAYNESBORO
+    distance_km: 16.97
+  - name: LOVINGSTON
+    distance_km: 17.38
+  - name: GREENWOOD
+    distance_km: 18.87
+- country: US
+  region: VA
+  name: Nelsonia
+  lat: '37.8224'
+  long: "-75.5896"
+  nearby_rate_centers:
+  - name: PARKSLEY
+    distance_km: 6.83
+  - name: TEMPERNCVL
+    distance_km: 8.28
+  - name: ONANCOCK
+    distance_km: 17.79
+- country: US
+  region: VA
+  name: New Baltimore
+  lat: '38.7495'
+  long: "-77.7151"
+  nearby_rate_centers:
+  - name: WARRENTON
+    distance_km: 7.51
+  - name: HAYMARKET
+    distance_km: 9.86
+  - name: NOKESVILLE
+    distance_km: 12.47
+- country: US
+  region: VA
+  name: New Castle
+  lat: '37.5013'
+  long: "-80.1119"
+  nearby_rate_centers:
+  - name: NEW CASTLE
+    distance_km: 0.48
+  - name: PAINT BANK
+    distance_km: 14.96
+  - name: POTTSCREEK
+    distance_km: 15.47
+- country: US
+  region: VA
+  name: New Church
+  lat: '37.9826'
+  long: "-75.5291"
+  nearby_rate_centers:
+  - name: TEMPERNCVL
+    distance_km: 10.42
+  - name: CHINCOTEGU
+    distance_km: 15.01
+  - name: PARKSLEY
+    distance_km: 24.58
+- country: US
+  region: VA
+  name: New Hope
+  lat: '38.1954'
+  long: "-78.9044"
+  nearby_rate_centers:
+  - name: NEW HOPE
+    distance_km: 0.9
+  - name: WEYERSCAVE
+    distance_km: 9.88
+  - name: GROTTOES
+    distance_km: 11.19
+- country: US
+  region: VA
+  name: New Kent
+  lat: '37.5095'
+  long: "-76.9863"
+  nearby_rate_centers:
+  - name: PROVICFORG
+    distance_km: 9.2
+  - name: WEST POINT
+    distance_km: 16.85
+  - name: CHARLES CY
+    distance_km: 19.87
+- country: US
+  region: VA
+  name: New Market
+  lat: '38.6459'
+  long: "-78.6709"
+  nearby_rate_centers:
+  - name: NEW MARKET
+    distance_km: 0.28
+  - name: BROADWAY
+    distance_km: 9.05
+  - name: MT JACKSON
+    distance_km: 11.34
+- country: US
+  region: VA
+  name: New River
+  lat: '37.1408'
+  long: "-80.5930"
+  nearby_rate_centers:
+  - name: RADFORD
+    distance_km: 1.63
+  - name: DUBLIN
+    distance_km: 9.03
+  - name: CHRISTISBG
+    distance_km: 16.58
+- country: US
+  region: VA
+  name: Newington
+  lat: '38.7358'
+  long: "-77.1993"
+  nearby_rate_centers:
+  - name: ENGLESIDE
+    distance_km: 2.16
+  - name: LORTON
+    distance_km: 6.81
+  - name: OCCOQUAN
+    distance_km: 7.82
+- country: US
+  region: VA
+  name: Newington Forest
+  lat: '38.7370'
+  long: "-77.2339"
+  nearby_rate_centers:
+  - name: ENGLESIDE
+    distance_km: 2.63
+  - name: LORTON
+    distance_km: 5.37
+  - name: OCCOQUAN
+    distance_km: 6.36
+- country: US
+  region: VA
+  name: Newport News
+  lat: '37.1051'
+  long: "-76.5185"
+  nearby_rate_centers:
+  - name: NWPTNWSZN3
+    distance_km: 3.87
+  - name: NWPTNWSZN4
+    distance_km: 12.28
+  - name: CRITTENDEN
+    distance_km: 13.75
+- country: US
+  region: VA
+  name: Newsoms
+  lat: '36.6262'
+  long: "-77.1248"
+  nearby_rate_centers:
+  - name: BOYKINS
+    distance_km: 8.05
+  - name: COURTLAND
+    distance_km: 11.26
+  - name: CAPRON
+    distance_km: 12.26
+- country: US
+  region: VA
+  name: Nickelsville
+  lat: '36.7517'
+  long: "-82.4160"
+  nearby_rate_centers:
+  - name: NICKELSVL
+    distance_km: 0.42
+  - name: DUNGANNON
+    distance_km: 9.94
+  - name: FT BLACKMR
+    distance_km: 14.98
+- country: US
+  region: VA
+  name: Nokesville
+  lat: '38.6940'
+  long: "-77.5757"
+  nearby_rate_centers:
+  - name: NOKESVILLE
+    distance_km: 1.2
+  - name: MANASSAS
+    distance_km: 10.53
+  - name: CALVERTON
+    distance_km: 10.88
+- country: US
+  region: VA
+  name: Norfolk
+  lat: '36.8945'
+  long: "-76.2590"
+  nearby_rate_centers:
+  - name: NRFOLKZON2
+    distance_km: 5.92
+  - name: NRFOLKZON3
+    distance_km: 7.95
+  - name: NWPTNWSZN2
+    distance_km: 16.46
+- country: US
+  region: VA
+  name: North Garden
+  lat: '37.9612'
+  long: "-78.6334"
+  nearby_rate_centers:
+  - name: CROZET
+    distance_km: 13.12
+  - name: CHARLOTSVL
+    distance_km: 14.77
+  - name: GREENWOOD
+    distance_km: 15.69
+- country: US
+  region: VA
+  name: North Shore
+  lat: '37.0783'
+  long: "-79.6525"
+  nearby_rate_centers:
+  - name: UNION HALL
+    distance_km: 11.45
+  - name: BURNTCHMNY
+    distance_km: 13.55
+  - name: STONE MT
+    distance_km: 14.06
+- country: US
+  region: VA
+  name: North Springfield
+  lat: '38.8023'
+  long: "-77.2027"
+  nearby_rate_centers:
+  - name: ENGLESIDE
+    distance_km: 9.23
+  - name: WSNGTNZN17
+    distance_km: 10.56
+  - name: DULLESMTRO
+    distance_km: 12.18
+  - name: WSNGTNZN19
+    distance_km: 12.18
+- country: US
+  region: VA
+  name: Norton
+  lat: '36.9314'
+  long: "-82.6262"
+  nearby_rate_centers:
+  - name: NORTON
+    distance_km: 0.44
+  - name: WISE
+    distance_km: 7.06
+  - name: APPALACHIA
+    distance_km: 14.09
+- country: US
+  region: VA
+  name: Nottoway Court House
+  lat: '37.1271'
+  long: "-78.0734"
+  nearby_rate_centers:
+  - name: CREWE
+    distance_km: 6.84
+  - name: BLACKSTONE
+    distance_km: 8.37
+  - name: BURKEVILLE
+    distance_km: 13.24
+- country: US
+  region: VA
+  name: Oak Grove
+  lat: '38.9845'
+  long: "-77.4174"
+  nearby_rate_centers:
+  - name: HERNDON
+    distance_km: 3.77
+  - name: DULLES
+    distance_km: 4.1
+  - name: ARCOLA
+    distance_km: 10.5
+- country: US
+  region: VA
+  name: Oak Hall
+  lat: '37.9307'
+  long: "-75.5470"
+  nearby_rate_centers:
+  - name: TEMPERNCVL
+    distance_km: 4.48
+  - name: CHINCOTEGU
+    distance_km: 15.57
+  - name: PARKSLEY
+    distance_km: 18.72
+- country: US
+  region: VA
+  name: Oak Level
+  lat: '36.7944'
+  long: "-79.9391"
+  nearby_rate_centers:
+  - name: BASSETT
+    distance_km: 5.99
+  - name: FIELDALE
+    distance_km: 10.49
+  - name: COLLINSVL
+    distance_km: 10.73
+- country: US
+  region: VA
+  name: Oakton
+  lat: '38.8887'
+  long: "-77.3016"
+  nearby_rate_centers:
+  - name: DULLESMTRO
+    distance_km: 3.1
+  - name: WSNGTNZN19
+    distance_km: 3.1
+  - name: HERNDON
+    distance_km: 10.96
+  - name: WSNGTNZN17
+    distance_km: 12.19
+- country: US
+  region: VA
+  name: Occoquan
+  lat: '38.6825'
+  long: "-77.2606"
+  nearby_rate_centers:
+  - name: OCCOQUAN
+    distance_km: 0.14
+  - name: LORTON
+    distance_km: 1.16
+  - name: ENGLESIDE
+    distance_km: 5.83
+- country: US
+  region: VA
+  name: Onancock
+  lat: '37.7102'
+  long: "-75.7434"
+  nearby_rate_centers:
+  - name: ONANCOCK
+    distance_km: 0.88
+  - name: PARKSLEY
+    distance_km: 11.58
+  - name: BELLEHAVEN
+    distance_km: 18.12
+- country: US
+  region: VA
+  name: One Loudoun
+  lat: '39.0505'
+  long: "-77.4560"
+  nearby_rate_centers:
+  - name: DULLES
+    distance_km: 10.89
+  - name: HERNDON
+    distance_km: 11.46
+  - name: LEESBURG
+    distance_km: 12.27
+- country: US
+  region: VA
+  name: Onley
+  lat: '37.6915'
+  long: "-75.7180"
+  nearby_rate_centers:
+  - name: ONANCOCK
+    distance_km: 3.7
+  - name: PARKSLEY
+    distance_km: 11.83
+  - name: BELLEHAVEN
+    distance_km: 17.2
+- country: US
+  region: VA
+  name: Opal
+  lat: '38.6201'
+  long: "-77.8049"
+  nearby_rate_centers:
+  - name: REMINGTON
+    distance_km: 9.61
+  - name: WARRENTON
+    distance_km: 10.91
+  - name: CALVERTON
+    distance_km: 11.49
+- country: US
+  region: VA
+  name: Orange
+  lat: '38.2485'
+  long: "-78.1129"
+  nearby_rate_centers:
+  - name: ORANGE
+    distance_km: 1.57
+  - name: UNIONVILLE
+    distance_km: 13.09
+  - name: GORDONSVL
+    distance_km: 14.04
+- country: US
+  region: VA
+  name: Osaka
+  lat: '36.9514'
+  long: "-82.8144"
+  nearby_rate_centers:
+  - name: APPALACHIA
+    distance_km: 5.53
+  - name: BIGSTONEGP
+    distance_km: 10.07
+  - name: NORTON
+    distance_km: 16.44
+- country: US
+  region: VA
+  name: Painter
+  lat: '37.5852'
+  long: "-75.7837"
+  nearby_rate_centers:
+  - name: BELLEHAVEN
+    distance_km: 4.18
+  - name: ONANCOCK
+    distance_km: 15.21
+  - name: PARKSLEY
+    distance_km: 24.97
+- country: US
+  region: VA
+  name: Palmyra
+  lat: '37.8652'
+  long: "-78.2627"
+  nearby_rate_centers:
+  - name: PALMYRA
+    distance_km: 0.71
+  - name: FORK UNION
+    distance_km: 11.83
+  - name: SCOTTSVL
+    distance_km: 21.28
+- country: US
+  region: VA
+  name: Pamplin City
+  lat: '37.2642'
+  long: "-78.6820"
+  nearby_rate_centers:
+  - name: PAMPLIN
+    distance_km: 0.53
+  - name: PROSPECT
+    distance_km: 10.72
+  - name: APPOMATTOX
+    distance_km: 16.5
+- country: US
+  region: VA
+  name: Pantops
+  lat: '38.0316'
+  long: "-78.4437"
+  nearby_rate_centers:
+  - name: CHARLOTSVL
+    distance_km: 4.23
+  - name: CROZET
+    distance_km: 22.92
+  - name: PALMYRA
+    distance_km: 24.49
+- country: US
+  region: VA
+  name: Paris
+  lat: '39.0024'
+  long: "-77.9520"
+  nearby_rate_centers:
+  - name: UPPERVILLE
+    distance_km: 5.69
+  - name: BOYCE
+    distance_km: 13.31
+  - name: BLUEMONT
+    distance_km: 15.8
+- country: US
+  region: VA
+  name: Parksley
+  lat: '37.7863'
+  long: "-75.6539"
+  nearby_rate_centers:
+  - name: PARKSLEY
+    distance_km: 0.56
+  - name: ONANCOCK
+    distance_km: 10.91
+  - name: TEMPERNCVL
+    distance_km: 14.66
+- country: US
+  region: VA
+  name: Parrott
+  lat: '37.2168'
+  long: "-80.6241"
+  nearby_rate_centers:
+  - name: RADFORD
+    distance_km: 10.15
+  - name: PEMBROKE
+    distance_km: 11.45
+  - name: DUBLIN
+    distance_km: 13.33
+- country: US
+  region: VA
+  name: Passapatanzy
+  lat: '38.2942'
+  long: "-77.3266"
+  nearby_rate_centers:
+  - name: FREDECKSBG
+    distance_km: 12.29
+  - name: KINGGEORGE
+    distance_km: 12.65
+  - name: STAFFORD
+    distance_km: 15.52
+- country: US
+  region: VA
+  name: Pastoria
+  lat: '37.7446'
+  long: "-75.6352"
+  nearby_rate_centers:
+  - name: PARKSLEY
+    distance_km: 4.43
+  - name: ONANCOCK
+    distance_km: 9.94
+  - name: TEMPERNCVL
+    distance_km: 17.81
+- country: US
+  region: VA
+  name: Patrick Springs
+  lat: '36.6343'
+  long: "-80.1985"
+  nearby_rate_centers:
+  - name: STUART
+    distance_km: 6.2
+  - name: WOOLWINE
+    distance_km: 16.54
+  - name: SPENCER
+    distance_km: 20.91
+- country: US
+  region: VA
+  name: Pearisburg
+  lat: '37.3289'
+  long: "-80.7275"
+  nearby_rate_centers:
+  - name: PEARISBURG
+    distance_km: 0.5
+  - name: NARROWS
+    distance_km: 7.17
+  - name: PEMBROKE
+    distance_km: 7.65
+- country: US
+  region: VA
+  name: Pembroke
+  lat: '37.3219'
+  long: "-80.6365"
+  nearby_rate_centers:
+  - name: PEMBROKE
+    distance_km: 0.59
+  - name: PEARISBURG
+    distance_km: 8.42
+  - name: NEWPORT
+    distance_km: 13.15
+- country: US
+  region: VA
+  name: Penhook
+  lat: '36.9908'
+  long: "-79.6318"
+  nearby_rate_centers:
+  - name: UNION HALL
+    distance_km: 8.97
+  - name: SANDYLEVEL
+    distance_km: 9.51
+  - name: BURNTCHMNY
+    distance_km: 22.31
+- country: US
+  region: VA
+  name: Pennington Gap
+  lat: '36.7594'
+  long: "-83.0299"
+  nearby_rate_centers:
+  - name: PENINGTNGP
+    distance_km: 0.51
+  - name: ST CHARLES
+    distance_km: 6.01
+  - name: JONESVILLE
+    distance_km: 10.41
+- country: US
+  region: VA
+  name: Petersburg
+  lat: '37.2043'
+  long: "-77.3913"
+  nearby_rate_centers:
+  - name: PETERSBURG
+    distance_km: 2.62
+  - name: HOPEWELL
+    distance_km: 15.25
+  - name: DISPUTANTA
+    distance_km: 16.41
+- country: US
+  region: VA
+  name: Phenix
+  lat: '37.0811'
+  long: "-78.7485"
+  nearby_rate_centers:
+  - name: CHRLTTCTHS
+    distance_km: 10.66
+  - name: DRAKESBRCH
+    distance_km: 16.51
+  - name: BROOKNEAL
+    distance_km: 18.26
+- country: US
+  region: VA
+  name: Pimmit Hills
+  lat: '38.9105'
+  long: "-77.1991"
+  nearby_rate_centers:
+  - name: WSNGTNZN17
+    distance_km: 3.93
+  - name: DULLESMTRO
+    distance_km: 6.13
+  - name: WSNGTNZN19
+    distance_km: 6.13
+  - name: LORTONMTRO
+    distance_km: 9.28
+  - name: WSNGTNZN08
+    distance_km: 9.28
+- country: US
+  region: VA
+  name: Piney Mountain
+  lat: '38.1591'
+  long: "-78.4156"
+  nearby_rate_centers:
+  - name: CHARLOTSVL
+    distance_km: 15.5
+  - name: STANARDSVL
+    distance_km: 15.75
+  - name: GORDONSVL
+    distance_km: 20.62
+- country: US
+  region: VA
+  name: Plum Creek
+  lat: '37.1267'
+  long: "-80.5048"
+  nearby_rate_centers:
+  - name: RADFORD
+    distance_km: 6.45
+  - name: CHRISTISBG
+    distance_km: 8.8
+  - name: BLACKSBURG
+    distance_km: 14.11
+- country: US
+  region: VA
+  name: Pocahontas
+  lat: '37.3070'
+  long: "-81.3436"
+  nearby_rate_centers:
+  - name: POCAHONTAS
+    distance_km: 0.37
+  - name: BLUEFIELD
+    distance_km: 8.73
+  - name: ROCKY GAP
+    distance_km: 21.96
+- country: US
+  region: VA
+  name: Poquoson
+  lat: '37.1318'
+  long: "-76.3568"
+  nearby_rate_centers:
+  - name: NWPTNWSZN4
+    distance_km: 3.5
+  - name: NWPTNWSZN2
+    distance_km: 11.77
+  - name: NWPTNWSZN3
+    distance_km: 14.22
+- country: US
+  region: VA
+  name: Port Republic
+  lat: '38.2894'
+  long: "-78.8134"
+  nearby_rate_centers:
+  - name: GROTTOES
+    distance_km: 2.27
+  - name: WEYERSCAVE
+    distance_km: 8.42
+  - name: MCGAHEYSVL
+    distance_km: 11.7
+- country: US
+  region: VA
+  name: Port Royal
+  lat: '38.1657'
+  long: "-77.1989"
+  nearby_rate_centers:
+  - name: PORT ROYAL
+    distance_km: 0.71
+  - name: KINGGEORGE
+    distance_km: 11.27
+  - name: BOWLNGGREN
+    distance_km: 18.4
+- country: US
+  region: VA
+  name: Portsmouth
+  lat: '36.8468'
+  long: "-76.3540"
+  nearby_rate_centers:
+  - name: NRFOLKZON3
+    distance_km: 4.34
+  - name: NRFOLKZON2
+    distance_km: 5.29
+  - name: NWPTNWSZN1
+    distance_km: 16.89
+- country: US
+  region: VA
+  name: Potomac Mills
+  lat: '38.6554'
+  long: "-77.3000"
+  nearby_rate_centers:
+  - name: DALE CITY
+    distance_km: 3.07
+  - name: OCCOQUAN
+    distance_km: 4.7
+  - name: LORTON
+    distance_km: 5.69
+- country: US
+  region: VA
+  name: Pound
+  lat: '37.1260'
+  long: "-82.6071"
+  nearby_rate_centers:
+  - name: POUND
+    distance_km: 0.67
+  - name: CLINTWOOD
+    distance_km: 13.27
+  - name: WISE
+    distance_km: 15.74
+- country: US
+  region: VA
+  name: Pounding Mill
+  lat: '37.0790'
+  long: "-81.7106"
+  nearby_rate_centers:
+  - name: RICHLANDS
+    distance_km: 8.33
+  - name: JEWELL RDG
+    distance_km: 13.25
+  - name: TAZEWELL
+    distance_km: 17.98
+- country: US
+  region: VA
+  name: Powhatan
+  lat: '37.5427'
+  long: "-77.9267"
+  nearby_rate_centers:
+  - name: POWHATAN
+    distance_km: 0.83
+  - name: GOOCHLAND
+    distance_km: 16.06
+  - name: CARTERSVL
+    distance_km: 19.95
+- country: US
+  region: VA
+  name: Prices Fork
+  lat: '37.2070'
+  long: "-80.4852"
+  nearby_rate_centers:
+  - name: BLACKSBURG
+    distance_km: 6.66
+  - name: NEWPORT
+    distance_km: 9.51
+  - name: CHRISTISBG
+    distance_km: 10.63
+- country: US
+  region: VA
+  name: Prince George
+  lat: '37.2209'
+  long: "-77.2683"
+  nearby_rate_centers:
+  - name: HOPEWELL
+    distance_km: 9.81
+  - name: DISPUTANTA
+    distance_km: 11.12
+  - name: PETERSBURG
+    distance_km: 12.4
+- country: US
+  region: VA
+  name: Pulaski
+  lat: '37.0528'
+  long: "-80.7624"
+  nearby_rate_centers:
+  - name: PULASKI
+    distance_km: 2.11
+  - name: DUBLIN
+    distance_km: 9.11
+  - name: RADFORD
+    distance_km: 18.74
+- country: US
+  region: VA
+  name: Pungoteague
+  lat: '37.6290'
+  long: "-75.8171"
+  nearby_rate_centers:
+  - name: BELLEHAVEN
+    distance_km: 7.92
+  - name: ONANCOCK
+    distance_km: 11.86
+  - name: PARKSLEY
+    distance_km: 22.61
+- country: US
+  region: VA
+  name: Purcellville
+  lat: '39.1378'
+  long: "-77.7110"
+  nearby_rate_centers:
+  - name: MT GILEAD
+    distance_km: 0.87
+  - name: CATOCTIN
+    distance_km: 10.58
+  - name: BLUEMONT
+    distance_km: 10.93
+- country: US
+  region: VA
+  name: Quantico
+  lat: '38.5224'
+  long: "-77.2902"
+  nearby_rate_centers:
+  - name: TRIANGLE
+    distance_km: 4.94
+  - name: DALE CITY
+    distance_km: 12.46
+  - name: STAFFORD
+    distance_km: 15.38
+- country: US
+  region: VA
+  name: Quantico Base
+  lat: '38.5228'
+  long: "-77.3186"
+  nearby_rate_centers:
+  - name: TRIANGLE
+    distance_km: 3.4
+  - name: DALE CITY
+    distance_km: 12.16
+  - name: STAFFORD
+    distance_km: 13.9
+- country: US
+  region: VA
+  name: Quinby
+  lat: '37.5533'
+  long: "-75.7368"
+  nearby_rate_centers:
+  - name: BELLEHAVEN
+    distance_km: 7.01
+  - name: ONANCOCK
+    distance_km: 18.34
+  - name: PARKSLEY
+    distance_km: 26.67
+- country: US
+  region: VA
+  name: Radford
+  lat: '37.1229'
+  long: "-80.5587"
+  nearby_rate_centers:
+  - name: RADFORD
+    distance_km: 2.01
+  - name: DUBLIN
+    distance_km: 11.41
+  - name: CHRISTISBG
+    distance_km: 13.6
+- country: US
+  region: VA
+  name: Raven
+  lat: '37.0937'
+  long: "-81.8601"
+  nearby_rate_centers:
+  - name: RICHLANDS
+    distance_km: 5.28
+  - name: JEWELL RDG
+    distance_km: 11.96
+  - name: HONAKER
+    distance_km: 13.32
+- country: US
+  region: VA
+  name: Ravensworth
+  lat: '38.8033'
+  long: "-77.2222"
+  nearby_rate_centers:
+  - name: ENGLESIDE
+    distance_km: 9.33
+  - name: WSNGTNZN17
+    distance_km: 11.15
+  - name: DULLESMTRO
+    distance_km: 11.39
+  - name: WSNGTNZN19
+    distance_km: 11.39
+- country: US
+  region: VA
+  name: Rectortown
+  lat: '38.9211'
+  long: "-77.8560"
+  nearby_rate_centers:
+  - name: MARSHALL
+    distance_km: 5.78
+  - name: UPPERVILLE
+    distance_km: 9.16
+  - name: THE PLAINS
+    distance_km: 9.23
+- country: US
+  region: VA
+  name: Remington
+  lat: '38.5346'
+  long: "-77.8083"
+  nearby_rate_centers:
+  - name: REMINGTON
+    distance_km: 0.16
+  - name: CALVERTON
+    distance_km: 16.02
+  - name: CULPEPER
+    distance_km: 18.24
+- country: US
+  region: VA
+  name: Reston
+  lat: '38.9497'
+  long: "-77.3461"
+  nearby_rate_centers:
+  - name: HERNDON
+    distance_km: 3.52
+  - name: DULLES
+    distance_km: 8.32
+  - name: DULLESMTRO
+    distance_km: 8.76
+  - name: WSNGTNZN19
+    distance_km: 8.76
+- country: US
+  region: VA
+  name: Rich Creek
+  lat: '37.3831'
+  long: "-80.8203"
+  nearby_rate_centers:
+  - name: NARROWS
+    distance_km: 5.79
+  - name: PEARISBURG
+    distance_km: 10.1
+  - name: PEMBROKE
+    distance_km: 17.32
+- country: US
+  region: VA
+  name: Richlands
+  lat: '37.0878'
+  long: "-81.8081"
+  nearby_rate_centers:
+  - name: RICHLANDS
+    distance_km: 1.42
+  - name: JEWELL RDG
+    distance_km: 10.76
+  - name: HONAKER
+    distance_km: 16.85
+- country: US
+  region: VA
+  name: Richmond
+  lat: '37.5295'
+  long: "-77.4756"
+  nearby_rate_centers:
+  - name: RICHMOND
+    distance_km: 3.84
+  - name: MECHANCSVL
+    distance_km: 13.73
+  - name: VARINA
+    distance_km: 14.4
+- country: US
+  region: VA
+  name: Ridgeway
+  lat: '36.5781'
+  long: "-79.8583"
+  nearby_rate_centers:
+  - name: RIDGEWAY
+    distance_km: 2.04
+  - name: SPENCER
+    distance_km: 10.65
+  - name: MARTINSVL
+    distance_km: 12.55
+- country: US
+  region: VA
+  name: Riner
+  lat: '37.0676'
+  long: "-80.4405"
+  nearby_rate_centers:
+  - name: CHRISTISBG
+    distance_km: 8.11
+  - name: ALUM RIDGE
+    distance_km: 13.27
+  - name: RADFORD
+    distance_km: 14.16
+- country: US
+  region: VA
+  name: Rio
+  lat: '38.0804'
+  long: "-78.4732"
+  nearby_rate_centers:
+  - name: CHARLOTSVL
+    distance_km: 5.48
+  - name: CROZET
+    distance_km: 20.07
+  - name: STANARDSVL
+    distance_km: 24.66
+- country: US
+  region: VA
+  name: Ripplemead
+  lat: '37.3390'
+  long: "-80.6883"
+  nearby_rate_centers:
+  - name: PEARISBURG
+    distance_km: 4.1
+  - name: PEMBROKE
+    distance_km: 4.68
+  - name: NARROWS
+    distance_km: 10.66
+- country: US
+  region: VA
+  name: Rivanna
+  lat: '37.9945'
+  long: "-78.3788"
+  nearby_rate_centers:
+  - name: CHARLOTSVL
+    distance_km: 10.81
+  - name: PALMYRA
+    distance_km: 17.8
+  - name: GORDONSVL
+    distance_km: 23.23
+- country: US
+  region: VA
+  name: Riverdale
+  lat: '36.6764'
+  long: "-78.8943"
+  nearby_rate_centers:
+  - name: SO BOSTON
+    distance_km: 2.84
+  - name: HALIFAX
+    distance_km: 10.35
+  - name: TURBEVILLE
+    distance_km: 14.71
+- country: US
+  region: VA
+  name: Riverview
+  lat: '36.9326'
+  long: "-82.4846"
+  nearby_rate_centers:
+  - name: COEBURN
+    distance_km: 1.81
+  - name: WISE
+    distance_km: 10.67
+  - name: DUNGANNON
+    distance_km: 11.35
+- country: US
+  region: VA
+  name: Roanoke
+  lat: '37.2785'
+  long: "-79.9581"
+  nearby_rate_centers:
+  - name: ROANOKE
+    distance_km: 2.1
+  - name: SALEM
+    distance_km: 8.92
+  - name: TROUTVILLE
+    distance_km: 17.26
+- country: US
+  region: VA
+  name: Rockwood
+  lat: '37.4630'
+  long: "-77.5744"
+  nearby_rate_centers:
+  - name: MIDLOTHIAN
+    distance_km: 8.07
+  - name: BETHIA
+    distance_km: 12.55
+  - name: RICHMOND
+    distance_km: 15.13
+- country: US
+  region: VA
+  name: Rocky Gap
+  lat: '37.2413'
+  long: "-81.1049"
+  nearby_rate_centers:
+  - name: ROCKY GAP
+    distance_km: 0.4
+  - name: BLUEFIELD
+    distance_km: 14.49
+  - name: BLAND
+    distance_km: 15.57
+- country: US
+  region: VA
+  name: Rocky Mount
+  lat: '37.0045'
+  long: "-79.8854"
+  nearby_rate_centers:
+  - name: ROCKYMOUNT
+    distance_km: 1.42
+  - name: UNION HALL
+    distance_km: 13.61
+  - name: BOONESMILL
+    distance_km: 13.66
+- country: US
+  region: VA
+  name: Rose Hill
+  lat: '38.7872'
+  long: "-77.1085"
+  nearby_rate_centers:
+  - name: LORTONMTRO
+    distance_km: 10.41
+  - name: WSNGTNZN08
+    distance_km: 10.41
+  - name: ENGLESIDE
+    distance_km: 11.78
+  - name: WSNGTNZN17
+    distance_km: 12.45
+- country: US
+  region: VA
+  name: Round Hill
+  lat: '39.1319'
+  long: "-77.7681"
+  nearby_rate_centers:
+  - name: MT GILEAD
+    distance_km: 4.22
+  - name: BLUEMONT
+    distance_km: 6.07
+  - name: CATOCTIN
+    distance_km: 15.17
+- country: US
+  region: VA
+  name: Ruckersville
+  lat: '38.2314'
+  long: "-78.3756"
+  nearby_rate_centers:
+  - name: STANARDSVL
+    distance_km: 9.17
+  - name: MADISON
+    distance_km: 18.8
+  - name: GORDONSVL
+    distance_km: 20.07
+- country: US
+  region: VA
+  name: Rural Retreat
+  lat: '36.9010'
+  long: "-81.2765"
+  nearby_rate_centers:
+  - name: RURALRTRET
+    distance_km: 1.01
+  - name: CERES
+    distance_km: 14.02
+  - name: WYTHEVILLE
+    distance_km: 17.82
+- country: US
+  region: VA
+  name: Rushmere
+  lat: '37.0787'
+  long: "-76.6778"
+  nearby_rate_centers:
+  - name: SMITHFIELD
+    distance_km: 11.45
+  - name: SURRY
+    distance_km: 15.23
+  - name: NWPTNWSZN3
+    distance_km: 15.81
+- country: US
+  region: VA
+  name: Rustburg
+  lat: '37.2712'
+  long: "-79.0962"
+  nearby_rate_centers:
+  - name: RUSTBURG
+    distance_km: 0.76
+  - name: GLADYS
+    distance_km: 12.72
+  - name: CONCORD
+    distance_km: 13.41
+- country: US
+  region: VA
+  name: Salem
+  lat: '37.2864'
+  long: "-80.0555"
+  nearby_rate_centers:
+  - name: SALEM
+    distance_km: 0.41
+  - name: ROANOKE
+    distance_km: 10.5
+  - name: BENT MT
+    distance_km: 18.46
+- country: US
+  region: VA
+  name: Saltville
+  lat: '36.8751'
+  long: "-81.7642"
+  nearby_rate_centers:
+  - name: SALTVILLE
+    distance_km: 1.16
+  - name: GLADE SPG
+    distance_km: 9.29
+  - name: CHILHOWIE
+    distance_km: 10.82
+- country: US
+  region: VA
+  name: Saluda
+  lat: '37.6053'
+  long: "-76.5938"
+  nearby_rate_centers:
+  - name: SALUDA
+    distance_km: 0.48
+  - name: KNGANDQUEN
+    distance_km: 14.16
+  - name: IRVINGTON
+    distance_km: 16.48
+- country: US
+  region: VA
+  name: Sandston
+  lat: '37.5120'
+  long: "-77.3149"
+  nearby_rate_centers:
+  - name: SANDSTON
+    distance_km: 1.46
+  - name: VARINA
+    distance_km: 7.42
+  - name: RICHMOND
+    distance_km: 11.12
+- country: US
+  region: VA
+  name: Sandy Level
+  lat: '36.5645'
+  long: "-79.7276"
+  nearby_rate_centers:
+  - name: AXTON
+    distance_km: 10.63
+  - name: RIDGEWAY
+    distance_km: 12.57
+  - name: BACHESHALL
+    distance_km: 17.88
+- country: US
+  region: VA
+  name: Sanford
+  lat: '37.9299'
+  long: "-75.6620"
+  nearby_rate_centers:
+  - name: TEMPERNCVL
+    distance_km: 10.62
+  - name: PARKSLEY
+    distance_km: 16.38
+  - name: ONANCOCK
+    distance_km: 24.6
+- country: US
+  region: VA
+  name: Savage Town
+  lat: '37.5500'
+  long: "-75.7983"
+  nearby_rate_centers:
+  - name: BELLEHAVEN
+    distance_km: 1.8
+  - name: ONANCOCK
+    distance_km: 19.32
+  - name: EASTVILLE
+    distance_km: 25.67
+- country: US
+  region: VA
+  name: Savageville
+  lat: '37.6825'
+  long: "-75.7592"
+  nearby_rate_centers:
+  - name: ONANCOCK
+    distance_km: 4.21
+  - name: BELLEHAVEN
+    distance_km: 14.75
+  - name: PARKSLEY
+    distance_km: 14.78
+- country: US
+  region: VA
+  name: Saxis
+  lat: '37.9260'
+  long: "-75.7224"
+  nearby_rate_centers:
+  - name: TEMPERNCVL
+    distance_km: 15.49
+  - name: PARKSLEY
+    distance_km: 17.16
+  - name: ONANCOCK
+    distance_km: 23.19
+- country: US
+  region: VA
+  name: Schooner Bay
+  lat: '37.7630'
+  long: "-75.7680"
+  nearby_rate_centers:
+  - name: ONANCOCK
+    distance_km: 5.45
+  - name: PARKSLEY
+    distance_km: 10.68
+  - name: TANGIER
+    distance_km: 20.64
+- country: US
+  region: VA
+  name: Schuyler
+  lat: '37.7939'
+  long: "-78.7002"
+  nearby_rate_centers:
+  - name: SCHUYLER
+    distance_km: 0.29
+  - name: LOVINGSTON
+    distance_km: 16.08
+  - name: SCOTTSVL
+    distance_km: 18.36
+- country: US
+  region: VA
+  name: Scotland
+  lat: '37.1812'
+  long: "-76.7966"
+  nearby_rate_centers:
+  - name: SURRY
+    distance_km: 5.41
+  - name: WILLIAMSBG
+    distance_km: 12.42
+  - name: CLAREMONT
+    distance_km: 15.85
+- country: US
+  region: VA
+  name: Scottsburg
+  lat: '36.7588'
+  long: "-78.7914"
+  nearby_rate_centers:
+  - name: CLOVER
+    distance_km: 9.61
+  - name: SO BOSTON
+    distance_km: 11.61
+  - name: HALIFAX
+    distance_km: 11.66
+- country: US
+  region: VA
+  name: Scottsville
+  lat: '37.8064'
+  long: "-78.4919"
+  nearby_rate_centers:
+  - name: SCOTTSVL
+    distance_km: 0.47
+  - name: SCHUYLER
+    distance_km: 18.54
+  - name: ARVONIA
+    distance_km: 18.66
+- country: US
+  region: VA
+  name: Sedley
+  lat: '36.7753'
+  long: "-76.9862"
+  nearby_rate_centers:
+  - name: COURTLAND
+    distance_km: 9.67
+  - name: FRANKLIN
+    distance_km: 12.72
+  - name: IVOR
+    distance_km: 16.0
+- country: US
+  region: VA
+  name: Selma
+  lat: '37.8041'
+  long: "-79.8495"
+  nearby_rate_centers:
+  - name: CLIFTNFORG
+    distance_km: 2.78
+  - name: COVINGTON
+    distance_km: 12.58
+  - name: EAGLE ROCK
+    distance_km: 18.47
+- country: US
+  region: VA
+  name: Seven Corners
+  lat: '38.8658'
+  long: "-77.1445"
+  nearby_rate_centers:
+  - name: WSNGTNZN17
+    distance_km: 3.19
+  - name: LORTONMTRO
+    distance_km: 4.26
+  - name: WSNGTNZN08
+    distance_km: 4.26
+  - name: DULLESMTRO
+    distance_km: 11.35
+  - name: WSNGTNZN19
+    distance_km: 11.35
+- country: US
+  region: VA
+  name: Seven Mile Ford
+  lat: '36.8139'
+  long: "-81.6309"
+  nearby_rate_centers:
+  - name: CHILHOWIE
+    distance_km: 5.14
+  - name: MARION
+    distance_km: 9.99
+  - name: RICHVALLEY
+    distance_km: 11.97
+- country: US
+  region: VA
+  name: Shawneeland
+  lat: '39.1968'
+  long: "-78.3465"
+  nearby_rate_centers:
+  - name: GORE
+    distance_km: 7.82
+  - name: GAINESBORO
+    distance_km: 11.29
+  - name: WINCHESTER
+    distance_km: 15.59
+- country: US
+  region: VA
+  name: Shawsville
+  lat: '37.1707'
+  long: "-80.2527"
+  nearby_rate_centers:
+  - name: SHAWSVILLE
+    distance_km: 0.58
+  - name: BENT MT
+    distance_km: 11.22
+  - name: CHRISTISBG
+    distance_km: 14.16
+- country: US
+  region: VA
+  name: Shenandoah
+  lat: '38.4875'
+  long: "-78.6171"
+  nearby_rate_centers:
+  - name: SHENANDOAH
+    distance_km: 0.2
+  - name: ELKTON
+    distance_km: 7.85
+  - name: STANLEY
+    distance_km: 14.23
+- country: US
+  region: VA
+  name: Shenandoah Farms
+  lat: '38.9752'
+  long: "-78.0482"
+  nearby_rate_centers:
+  - name: BOYCE
+    distance_km: 12.77
+  - name: FRONTROYAL
+    distance_km: 13.84
+  - name: UPPERVILLE
+    distance_km: 14.27
+- country: US
+  region: VA
+  name: Shenandoah Retreat
+  lat: '39.1373'
+  long: "-77.8637"
+  nearby_rate_centers:
+  - name: BLUEMONT
+    distance_km: 4.05
+  - name: BERRYVILLE
+    distance_km: 10.38
+  - name: MT GILEAD
+    distance_km: 12.47
+- country: US
+  region: VA
+  name: Shenandoah Shores
+  lat: '38.9621'
+  long: "-78.1414"
+  nearby_rate_centers:
+  - name: FRONTROYAL
+    distance_km: 6.21
+  - name: STEPHENSCY
+    distance_km: 15.22
+  - name: BOYCE
+    distance_km: 15.96
+- country: US
+  region: VA
+  name: Sherando
+  lat: '37.9889'
+  long: "-78.9442"
+  nearby_rate_centers:
+  - name: WAYNESBORO
+    distance_km: 9.75
+  - name: GREENWOOD
+    distance_km: 17.28
+  - name: STAUNTON
+    distance_km: 21.47
+- country: US
+  region: VA
+  name: Shipman
+  lat: '37.7272'
+  long: "-78.8424"
+  nearby_rate_centers:
+  - name: LOVINGSTON
+    distance_km: 4.5
+  - name: SCHUYLER
+    distance_km: 14.27
+  - name: PINEYRIVER
+    distance_km: 16.42
+- country: US
+  region: VA
+  name: Short Pump
+  lat: '37.6549'
+  long: "-77.6201"
+  nearby_rate_centers:
+  - name: MANAKIN
+    distance_km: 9.14
+  - name: ROCKVILLE
+    distance_km: 9.38
+  - name: ASHLAND
+    distance_km: 17.14
+- country: US
+  region: VA
+  name: Singers Glen
+  lat: '38.5500'
+  long: "-78.9143"
+  nearby_rate_centers:
+  - name: EDOM
+    distance_km: 5.44
+  - name: HINTON
+    distance_km: 10.72
+  - name: HARRISONBG
+    distance_km: 11.87
+- country: US
+  region: VA
+  name: Skyland Estates
+  lat: '38.9329'
+  long: "-78.0850"
+  nearby_rate_centers:
+  - name: FRONTROYAL
+    distance_km: 9.49
+  - name: BOYCE
+    distance_km: 17.62
+  - name: UPPERVILLE
+    distance_km: 18.74
+- country: US
+  region: VA
+  name: Smithfield
+  lat: '36.9755'
+  long: "-76.6152"
+  nearby_rate_centers:
+  - name: SMITHFIELD
+    distance_km: 1.76
+  - name: CHUCKATUCK
+    distance_km: 13.47
+  - name: CRITTENDEN
+    distance_km: 15.11
+- country: US
+  region: VA
+  name: Snowville
+  lat: '37.0260'
+  long: "-80.5739"
+  nearby_rate_centers:
+  - name: RADFORD
+    distance_km: 11.97
+  - name: ALUM RIDGE
+    distance_km: 13.39
+  - name: DUBLIN
+    distance_km: 13.45
+- country: US
+  region: VA
+  name: South Boston
+  lat: '36.7132'
+  long: "-78.9135"
+  nearby_rate_centers:
+  - name: SO BOSTON
+    distance_km: 1.76
+  - name: HALIFAX
+    distance_km: 6.01
+  - name: TURBEVILLE
+    distance_km: 15.43
+- country: US
+  region: VA
+  name: South Hill
+  lat: '36.7254'
+  long: "-78.1287"
+  nearby_rate_centers:
+  - name: SOUTH HILL
+    distance_km: 0.35
+  - name: LA CROSSE
+    distance_km: 3.92
+  - name: BRODNAX
+    distance_km: 8.84
+- country: US
+  region: VA
+  name: South Riding
+  lat: '38.9120'
+  long: "-77.5132"
+  nearby_rate_centers:
+  - name: ARCOLA
+    distance_km: 4.51
+  - name: DULLES
+    distance_km: 7.65
+  - name: BRADDOCK
+    distance_km: 10.89
+- country: US
+  region: VA
+  name: South Run
+  lat: '38.7467'
+  long: "-77.2754"
+  nearby_rate_centers:
+  - name: ENGLESIDE
+    distance_km: 6.17
+  - name: LORTON
+    distance_km: 6.5
+  - name: OCCOQUAN
+    distance_km: 7.17
+- country: US
+  region: VA
+  name: Southampton Meadows
+  lat: '36.5916'
+  long: "-76.9293"
+  nearby_rate_centers:
+  - name: FRANKLIN
+    distance_km: 9.22
+  - name: HOLLAND
+    distance_km: 17.16
+  - name: COURTLAND
+    distance_km: 18.3
+- country: US
+  region: VA
+  name: Southern Gateway
+  lat: '38.3489'
+  long: "-77.5036"
+  nearby_rate_centers:
+  - name: FREDECKSBG
+    distance_km: 6.17
+  - name: HARTWOOD
+    distance_km: 8.2
+  - name: CHANCELLOR
+    distance_km: 11.15
+- country: US
+  region: VA
+  name: Southside Chesconessex
+  lat: '37.7439'
+  long: "-75.7786"
+  nearby_rate_centers:
+  - name: ONANCOCK
+    distance_km: 4.23
+  - name: PARKSLEY
+    distance_km: 12.18
+  - name: TANGIER
+    distance_km: 20.57
+- country: US
+  region: VA
+  name: Sperryville
+  lat: '38.6562'
+  long: "-78.2323"
+  nearby_rate_centers:
+  - name: SPERRYVL
+    distance_km: 0.7
+  - name: WASHINGTON
+    distance_km: 9.36
+  - name: SHENANDHPK
+    distance_km: 11.72
+- country: US
+  region: VA
+  name: Spotsylvania Courthouse
+  lat: '38.1993'
+  long: "-77.5892"
+  nearby_rate_centers:
+  - name: SPOTSYLVAN
+    distance_km: 0.38
+  - name: CHANCELLOR
+    distance_km: 9.57
+  - name: BROKENBURG
+    distance_km: 12.29
+- country: US
+  region: VA
+  name: Springfield
+  lat: '38.7810'
+  long: "-77.1839"
+  nearby_rate_centers:
+  - name: ENGLESIDE
+    distance_km: 7.28
+  - name: LORTON
+    distance_km: 11.66
+  - name: WSNGTNZN17
+    distance_km: 12.45
+- country: US
+  region: VA
+  name: Springville
+  lat: '37.1940'
+  long: "-81.3999"
+  nearby_rate_centers:
+  - name: BURKESGRDN
+    distance_km: 11.67
+  - name: TAZEWELL
+    distance_km: 12.79
+  - name: BLUEFIELD
+    distance_km: 13.67
+- country: US
+  region: VA
+  name: St. Charles
+  lat: '36.8052'
+  long: "-83.0575"
+  nearby_rate_centers:
+  - name: ST CHARLES
+    distance_km: 0.51
+  - name: PENINGTNGP
+    distance_km: 5.77
+  - name: JONESVILLE
+    distance_km: 13.53
+- country: US
+  region: VA
+  name: St. Paul
+  lat: '36.9068'
+  long: "-82.3163"
+  nearby_rate_centers:
+  - name: ST PAUL
+    distance_km: 0.93
+  - name: DANTE
+    distance_km: 8.49
+  - name: COEBURN
+    distance_km: 13.76
+- country: US
+  region: VA
+  name: Stafford Courthouse
+  lat: '38.4184'
+  long: "-77.4202"
+  nearby_rate_centers:
+  - name: STAFFORD
+    distance_km: 1.14
+  - name: HARTWOOD
+    distance_km: 11.9
+  - name: FREDECKSBG
+    distance_km: 13.65
+- country: US
+  region: VA
+  name: Stanardsville
+  lat: '38.2991'
+  long: "-78.4368"
+  nearby_rate_centers:
+  - name: STANARDSVL
+    distance_km: 0.28
+  - name: MADISON
+    distance_km: 17.59
+  - name: ELKTON
+    distance_km: 20.34
+- country: US
+  region: VA
+  name: Stanley
+  lat: '38.5769'
+  long: "-78.5027"
+  nearby_rate_centers:
+  - name: STANLEY
+    distance_km: 0.23
+  - name: LURAY
+    distance_km: 10.58
+  - name: SHENANDOAH
+    distance_km: 13.92
+- country: US
+  region: VA
+  name: Stanleytown
+  lat: '36.7514'
+  long: "-79.9524"
+  nearby_rate_centers:
+  - name: BASSETT
+    distance_km: 3.51
+  - name: FIELDALE
+    distance_km: 5.67
+  - name: COLLINSVL
+    distance_km: 6.6
+- country: US
+  region: VA
+  name: Staunton
+  lat: '38.1593'
+  long: "-79.0611"
+  nearby_rate_centers:
+  - name: STAUNTON
+    distance_km: 1.64
+  - name: NEW HOPE
+    distance_km: 15.12
+  - name: WAYNESBORO
+    distance_km: 18.19
+- country: US
+  region: VA
+  name: Stephens City
+  lat: '39.0902'
+  long: "-78.2230"
+  nearby_rate_centers:
+  - name: STEPHENSCY
+    distance_km: 0.7
+  - name: WINCHESTER
+    distance_km: 11.69
+  - name: BOYCE
+    distance_km: 14.31
+- country: US
+  region: VA
+  name: Sterling
+  lat: '39.0052'
+  long: "-77.4050"
+  nearby_rate_centers:
+  - name: HERNDON
+    distance_km: 4.89
+  - name: DULLES
+    distance_km: 6.63
+  - name: ARCOLA
+    distance_km: 12.46
+- country: US
+  region: VA
+  name: Stevens Creek
+  lat: '36.7314'
+  long: "-80.9943"
+  nearby_rate_centers:
+  - name: FRIES
+    distance_km: 1.12
+  - name: GALAX
+    distance_km: 9.77
+  - name: CRIPPLECRK
+    distance_km: 13.53
+- country: US
+  region: VA
+  name: Stewartsville
+  lat: '37.2650'
+  long: "-79.7899"
+  nearby_rate_centers:
+  - name: BURNTCHMNY
+    distance_km: 11.76
+  - name: ROANOKE
+    distance_km: 13.22
+  - name: MONTVALE
+    distance_km: 15.16
+- country: US
+  region: VA
+  name: Stickleyville
+  lat: '36.7091'
+  long: "-82.9116"
+  nearby_rate_centers:
+  - name: DUFFIELD
+    distance_km: 10.17
+  - name: PENINGTNGP
+    distance_km: 12.16
+  - name: CLINCHPORT
+    distance_km: 14.94
+- country: US
+  region: VA
+  name: Stone Ridge
+  lat: '38.9294'
+  long: "-77.5557"
+  nearby_rate_centers:
+  - name: ARCOLA
+    distance_km: 3.18
+  - name: DULLES
+    distance_km: 10.16
+  - name: HAYMARKET
+    distance_km: 14.81
+- country: US
+  region: VA
+  name: Stonega
+  lat: '36.9522'
+  long: "-82.7899"
+  nearby_rate_centers:
+  - name: APPALACHIA
+    distance_km: 4.87
+  - name: BIGSTONEGP
+    distance_km: 9.58
+  - name: NORTON
+    distance_km: 14.3
+- country: US
+  region: VA
+  name: Stony Creek
+  lat: '36.9480'
+  long: "-77.4001"
+  nearby_rate_centers:
+  - name: STONYCREEK
+    distance_km: 1.01
+  - name: JARRATT
+    distance_km: 16.73
+  - name: DINWIDDIE
+    distance_km: 22.14
+- country: US
+  region: VA
+  name: Strasburg
+  lat: '38.9961'
+  long: "-78.3549"
+  nearby_rate_centers:
+  - name: STRASBURG
+    distance_km: 0.97
+  - name: TOMS BROOK
+    distance_km: 9.03
+  - name: STEPHENSCY
+    distance_km: 15.47
+- country: US
+  region: VA
+  name: Stuart
+  lat: '36.6404'
+  long: "-80.2687"
+  nearby_rate_centers:
+  - name: STUART
+    distance_km: 0.1
+  - name: WOOLWINE
+    distance_km: 15.09
+  - name: MEADOWSDAN
+    distance_km: 16.39
+- country: US
+  region: VA
+  name: Stuarts Draft
+  lat: '38.0188'
+  long: "-79.0354"
+  nearby_rate_centers:
+  - name: WAYNESBORO
+    distance_km: 13.72
+  - name: STAUNTON
+    distance_km: 15.18
+  - name: RAPHINE
+    distance_km: 19.89
+- country: US
+  region: VA
+  name: Sudley
+  lat: '38.7878'
+  long: "-77.4961"
+  nearby_rate_centers:
+  - name: MANASSAS
+    distance_km: 4.42
+  - name: BRADDOCK
+    distance_km: 8.29
+  - name: HAYMARKET
+    distance_km: 12.06
+- country: US
+  region: VA
+  name: Suffolk
+  lat: '36.6953'
+  long: "-76.6398"
+  nearby_rate_centers:
+  - name: SUFFOLK
+    distance_km: 6.47
+  - name: WHALEYVL
+    distance_km: 11.96
+  - name: HOLLAND
+    distance_km: 12.03
+- country: US
+  region: VA
+  name: Sugar Grove
+  lat: '36.7689'
+  long: "-81.4075"
+  nearby_rate_centers:
+  - name: SUGARGROVE
+    distance_km: 1.08
+  - name: MARION
+    distance_km: 12.31
+  - name: CMSRKELCRK
+    distance_km: 18.21
+- country: US
+  region: VA
+  name: Sugarland Run
+  lat: '39.0309'
+  long: "-77.3762"
+  nearby_rate_centers:
+  - name: HERNDON
+    distance_km: 7.32
+  - name: DULLES
+    distance_km: 10.36
+  - name: ARCOLA
+    distance_km: 16.08
+- country: US
+  region: VA
+  name: Sully Square
+  lat: '38.9183'
+  long: "-77.4248"
+  nearby_rate_centers:
+  - name: DULLES
+    distance_km: 4.16
+  - name: HERNDON
+    distance_km: 6.41
+  - name: BRADDOCK
+    distance_km: 8.7
+- country: US
+  region: VA
+  name: Surry
+  lat: '37.1372'
+  long: "-76.8333"
+  nearby_rate_centers:
+  - name: SURRY
+    distance_km: 0.47
+  - name: DENDRON
+    distance_km: 13.34
+  - name: CLAREMONT
+    distance_km: 15.41
+- country: US
+  region: VA
+  name: Sussex
+  lat: '36.9173'
+  long: "-77.2719"
+  nearby_rate_centers:
+  - name: STONYCREEK
+    distance_km: 10.92
+  - name: WAVERLY
+    distance_km: 20.42
+  - name: JARRATT
+    distance_km: 21.11
+- country: US
+  region: VA
+  name: Tacoma
+  lat: '36.9356'
+  long: "-82.5323"
+  nearby_rate_centers:
+  - name: COEBURN
+    distance_km: 5.92
+  - name: WISE
+    distance_km: 7.25
+  - name: NORTON
+    distance_km: 8.77
+- country: US
+  region: VA
+  name: Tangier
+  lat: '37.8235'
+  long: "-75.9934"
+  nearby_rate_centers:
+  - name: TANGIER
+    distance_km: 0.28
+  - name: ONANCOCK
+    distance_km: 24.92
+  - name: REEDVILLE
+    distance_km: 25.02
+- country: US
+  region: VA
+  name: Tappahannock
+  lat: '37.9187'
+  long: "-76.8667"
+  nearby_rate_centers:
+  - name: TAPPAHNNCK
+    distance_km: 0.82
+  - name: WARSAW
+    distance_km: 10.42
+  - name: FARNHAM
+    distance_km: 17.75
+- country: US
+  region: VA
+  name: Tasley
+  lat: '37.7125'
+  long: "-75.6970"
+  nearby_rate_centers:
+  - name: ONANCOCK
+    distance_km: 4.11
+  - name: PARKSLEY
+    distance_km: 8.89
+  - name: BELLEHAVEN
+    distance_km: 20.15
+- country: US
+  region: VA
+  name: Tazewell
+  lat: '37.1268'
+  long: "-81.5134"
+  nearby_rate_centers:
+  - name: TAZEWELL
+    distance_km: 0.32
+  - name: BURKESGRDN
+    distance_km: 15.49
+  - name: CERES
+    distance_km: 19.75
+- country: US
+  region: VA
+  name: Temperanceville
+  lat: '37.8991'
+  long: "-75.5526"
+  nearby_rate_centers:
+  - name: TEMPERNCVL
+    distance_km: 0.95
+  - name: PARKSLEY
+    distance_km: 15.45
+  - name: CHINCOTEGU
+    distance_km: 16.52
+- country: US
+  region: VA
+  name: Templeton
+  lat: '37.0811'
+  long: "-77.3563"
+  nearby_rate_centers:
+  - name: DISPUTANTA
+    distance_km: 11.72
+  - name: STONYCREEK
+    distance_km: 15.64
+  - name: PETERSBURG
+    distance_km: 16.51
+- country: US
+  region: VA
+  name: The Plains
+  lat: '38.8621'
+  long: "-77.7743"
+  nearby_rate_centers:
+  - name: THE PLAINS
+    distance_km: 0.72
+  - name: MARSHALL
+    distance_km: 7.31
+  - name: MIDDLEBURG
+    distance_km: 12.31
+- country: US
+  region: VA
+  name: The University of Virginia's College at Wise
+  lat: '36.9734'
+  long: "-82.5573"
+  nearby_rate_centers:
+  - name: WISE
+    distance_km: 2.79
+  - name: NORTON
+    distance_km: 7.95
+  - name: COEBURN
+    distance_km: 8.99
+- country: US
+  region: VA
+  name: Thynedale
+  lat: '36.8182'
+  long: "-78.4774"
+  nearby_rate_centers:
+  - name: CHASE CITY
+    distance_km: 2.78
+  - name: BARNESVL
+    distance_km: 10.42
+  - name: BOYDTON
+    distance_km: 18.3
+- country: US
+  region: VA
+  name: Timberlake
+  lat: '37.3167'
+  long: "-79.2481"
+  nearby_rate_centers:
+  - name: RUSTBURG
+    distance_km: 13.72
+  - name: LYNCHBURG
+    distance_km: 14.66
+  - name: ALTAVISTA
+    distance_km: 22.76
+- country: US
+  region: VA
+  name: Timberville
+  lat: '38.6335'
+  long: "-78.7731"
+  nearby_rate_centers:
+  - name: BROADWAY
+    distance_km: 1.05
+  - name: NEW MARKET
+    distance_km: 8.7
+  - name: EDOM
+    distance_km: 14.0
+- country: US
+  region: VA
+  name: Toms Brook
+  lat: '38.9465'
+  long: "-78.4400"
+  nearby_rate_centers:
+  - name: TOMS BROOK
+    distance_km: 0.22
+  - name: STRASBURG
+    distance_km: 8.22
+  - name: WOODSTOCK
+    distance_km: 9.6
+- country: US
+  region: VA
+  name: Triangle
+  lat: '38.5483'
+  long: "-77.3195"
+  nearby_rate_centers:
+  - name: TRIANGLE
+    distance_km: 1.26
+  - name: DALE CITY
+    distance_km: 9.32
+  - name: OCCOQUAN
+    distance_km: 15.91
+- country: US
+  region: VA
+  name: Troutdale
+  lat: '36.7022'
+  long: "-81.4413"
+  nearby_rate_centers:
+  - name: SUGARGROVE
+    distance_km: 8.39
+  - name: MOUTHWILSN
+    distance_km: 15.38
+  - name: MARION
+    distance_km: 16.09
+- country: US
+  region: VA
+  name: Troutville
+  lat: '37.4168'
+  long: "-79.8779"
+  nearby_rate_centers:
+  - name: TROUTVILLE
+    distance_km: 0.5
+  - name: FINCASTLE
+    distance_km: 9.33
+  - name: MONTVALE
+    distance_km: 13.98
+- country: US
+  region: VA
+  name: Tuckahoe
+  lat: '37.5878'
+  long: "-77.5858"
+  nearby_rate_centers:
+  - name: MANAKIN
+    distance_km: 10.09
+  - name: MIDLOTHIAN
+    distance_km: 11.47
+  - name: RICHMOND
+    distance_km: 14.21
+- country: US
+  region: VA
+  name: Twin Lakes
+  lat: '38.2504'
+  long: "-78.4417"
+  nearby_rate_centers:
+  - name: STANARDSVL
+    distance_km: 5.56
+  - name: MADISON
+    distance_km: 21.02
+  - name: ELKTON
+    distance_km: 23.92
+- country: US
+  region: VA
+  name: Tysons
+  lat: '38.9215'
+  long: "-77.2273"
+  nearby_rate_centers:
+  - name: DULLESMTRO
+    distance_km: 4.34
+  - name: WSNGTNZN19
+    distance_km: 4.34
+  - name: WSNGTNZN17
+    distance_km: 6.65
+  - name: LORTONMTRO
+    distance_km: 12.0
+  - name: WSNGTNZN08
+    distance_km: 12.0
+- country: US
+  region: VA
+  name: Union Hall
+  lat: '37.0206'
+  long: "-79.6837"
+  nearby_rate_centers:
+  - name: UNION HALL
+    distance_km: 5.03
+  - name: SANDYLEVEL
+    distance_km: 15.12
+  - name: BURNTCHMNY
+    distance_km: 17.2
+- country: US
+  region: VA
+  name: Union Level
+  lat: '36.7071'
+  long: "-78.2319"
+  nearby_rate_centers:
+  - name: SOUTH HILL
+    distance_km: 9.11
+  - name: BEECHWOOD
+    distance_km: 10.11
+  - name: LA CROSSE
+    distance_km: 11.73
+- country: US
+  region: VA
+  name: Union Mill
+  lat: '38.7978'
+  long: "-77.3815"
+  nearby_rate_centers:
+  - name: BRADDOCK
+    distance_km: 6.18
+  - name: MANASSAS
+    distance_km: 9.9
+  - name: DULLESMTRO
+    distance_km: 14.93
+  - name: WSNGTNZN19
+    distance_km: 14.93
+- country: US
+  region: VA
+  name: University Center
+  lat: '39.0599'
+  long: "-77.4443"
+  nearby_rate_centers:
+  - name: HERNDON
+    distance_km: 11.85
+  - name: DULLES
+    distance_km: 11.87
+  - name: LEESBURG
+    distance_km: 12.49
+- country: US
+  region: VA
+  name: University of Virginia
+  lat: '38.0405'
+  long: "-78.5164"
+  nearby_rate_centers:
+  - name: CHARLOTSVL
+    distance_km: 2.29
+  - name: CROZET
+    distance_km: 16.48
+  - name: GREENWOOD
+    distance_km: 21.94
+- country: US
+  region: VA
+  name: Upperville
+  lat: '38.9926'
+  long: "-77.8821"
+  nearby_rate_centers:
+  - name: UPPERVILLE
+    distance_km: 0.9
+  - name: MIDDLEBURG
+    distance_km: 13.47
+  - name: BLUEMONT
+    distance_km: 13.74
+- country: US
+  region: VA
+  name: Urbanna
+  lat: '37.6395'
+  long: "-76.5747"
+  nearby_rate_centers:
+  - name: SALUDA
+    distance_km: 3.69
+  - name: IRVINGTON
+    distance_km: 13.84
+  - name: LIVELY
+    distance_km: 15.78
+- country: US
+  region: VA
+  name: Vansant
+  lat: '37.2359'
+  long: "-82.0961"
+  nearby_rate_centers:
+  - name: GRUNDY
+    distance_km: 4.47
+  - name: OAKWOOD
+    distance_km: 8.98
+  - name: BIG PRATER
+    distance_km: 9.49
+- country: US
+  region: VA
+  name: Verona
+  lat: '38.1937'
+  long: "-79.0082"
+  nearby_rate_centers:
+  - name: STAUNTON
+    distance_km: 7.63
+  - name: NEW HOPE
+    distance_km: 9.81
+  - name: WEYERSCAVE
+    distance_km: 13.24
+- country: US
+  region: VA
+  name: Victoria
+  lat: '36.9947'
+  long: "-78.2242"
+  nearby_rate_centers:
+  - name: VICTORIA
+    distance_km: 1.15
+  - name: KENBRIDGE
+    distance_km: 9.72
+  - name: BLACKSTONE
+    distance_km: 21.02
+- country: US
+  region: VA
+  name: Vienna
+  lat: '38.8996'
+  long: "-77.2597"
+  nearby_rate_centers:
+  - name: DULLESMTRO
+    distance_km: 0.76
+  - name: WSNGTNZN19
+    distance_km: 0.76
+  - name: WSNGTNZN17
+    distance_km: 8.6
+  - name: HERNDON
+    distance_km: 12.82
+- country: US
+  region: VA
+  name: Villa Heights
+  lat: '36.6981'
+  long: "-79.8994"
+  nearby_rate_centers:
+  - name: COLLINSVL
+    distance_km: 1.49
+  - name: MARTINSVL
+    distance_km: 2.25
+  - name: FIELDALE
+    distance_km: 4.46
+- country: US
+  region: VA
+  name: Vinton
+  lat: '37.2746'
+  long: "-79.8887"
+  nearby_rate_centers:
+  - name: ROANOKE
+    distance_km: 4.56
+  - name: SALEM
+    distance_km: 15.07
+  - name: TROUTVILLE
+    distance_km: 16.01
+- country: US
+  region: VA
+  name: Virgilina
+  lat: '36.5463'
+  long: "-78.7755"
+  nearby_rate_centers:
+  - name: VIRGILINA
+    distance_km: 0.13
+  - name: SO BOSTON
+    distance_km: 20.54
+  - name: CLARKSVL
+    distance_km: 21.17
+- country: US
+  region: VA
+  name: Virginia Beach
+  lat: '36.7335'
+  long: "-76.0435"
+  nearby_rate_centers:
+  - name: NRFOLKZON4
+    distance_km: 2.19
+  - name: NRFOLKZON1
+    distance_km: 17.26
+  - name: NRFOLKZON6
+    distance_km: 18.74
+- country: US
+  region: VA
+  name: Wachapreague
+  lat: '37.6063'
+  long: "-75.6897"
+  nearby_rate_centers:
+  - name: BELLEHAVEN
+    distance_km: 12.38
+  - name: ONANCOCK
+    distance_km: 13.3
+  - name: PARKSLEY
+    distance_km: 19.96
+- country: US
+  region: VA
+  name: Wakefield
+  lat: '38.8230'
+  long: "-77.2406"
+  nearby_rate_centers:
+  - name: DULLESMTRO
+    distance_km: 8.81
+  - name: WSNGTNZN19
+    distance_km: 8.81
+  - name: WSNGTNZN17
+    distance_km: 10.28
+  - name: ENGLESIDE
+    distance_km: 11.73
+- country: US
+  region: VA
+  name: Warfield
+  lat: '36.8960'
+  long: "-77.8190"
+  nearby_rate_centers:
+  - name: ALBERTA
+    distance_km: 6.54
+  - name: MCKENNEY
+    distance_km: 13.16
+  - name: LAWRENCEVL
+    distance_km: 15.73
+- country: US
+  region: VA
+  name: Warm Springs
+  lat: '38.0463'
+  long: "-79.7826"
+  nearby_rate_centers:
+  - name: HOTSPRINGS
+    distance_km: 7.01
+  - name: MCCLUNG
+    distance_km: 8.11
+  - name: MOUNTANGRV
+    distance_km: 10.19
+- country: US
+  region: VA
+  name: Warrenton
+  lat: '38.7176'
+  long: "-77.7976"
+  nearby_rate_centers:
+  - name: WARRENTON
+    distance_km: 0.53
+  - name: CALVERTON
+    distance_km: 14.29
+  - name: THE PLAINS
+    distance_km: 16.91
+- country: US
+  region: VA
+  name: Warsaw
+  lat: '37.9603'
+  long: "-76.7610"
+  nearby_rate_centers:
+  - name: WARSAW
+    distance_km: 0.51
+  - name: TAPPAHNNCK
+    distance_km: 9.54
+  - name: FARNHAM
+    distance_km: 11.3
+- country: US
+  region: VA
+  name: Washington
+  lat: '38.7122'
+  long: "-78.1598"
+  nearby_rate_centers:
+  - name: WASHINGTON
+    distance_km: 0.69
+  - name: SPERRYVL
+    distance_km: 8.19
+  - name: SHENANDHPK
+    distance_km: 18.64
+- country: US
+  region: VA
+  name: Waterford
+  lat: '39.1859'
+  long: "-77.6109"
+  nearby_rate_centers:
+  - name: CATOCTIN
+    distance_km: 0.68
+  - name: LEESBURG
+    distance_km: 8.31
+  - name: MT GILEAD
+    distance_km: 11.02
+- country: US
+  region: VA
+  name: Wattsville
+  lat: '37.9301'
+  long: "-75.4943"
+  nearby_rate_centers:
+  - name: TEMPERNCVL
+    distance_km: 6.68
+  - name: CHINCOTEGU
+    distance_km: 10.96
+  - name: PARKSLEY
+    distance_km: 21.28
+- country: US
+  region: VA
+  name: Waverly
+  lat: '37.0340'
+  long: "-77.0956"
+  nearby_rate_centers:
+  - name: WAVERLY
+    distance_km: 0.68
+  - name: WAKEFIELD
+    distance_km: 13.13
+  - name: DENDRON
+    distance_km: 14.53
+- country: US
+  region: VA
+  name: Waynesboro
+  lat: '38.0674'
+  long: "-78.9014"
+  nearby_rate_centers:
+  - name: WAYNESBORO
+    distance_km: 0.97
+  - name: GREENWOOD
+    distance_km: 11.9
+  - name: NEW HOPE
+    distance_km: 14.79
+- country: US
+  region: VA
+  name: Weber City
+  lat: '36.6236'
+  long: "-82.5632"
+  nearby_rate_centers:
+  - name: GATE CITY
+    distance_km: 2.51
+  - name: WILLIAMSML
+    distance_km: 5.97
+  - name: MORRISONCY
+    distance_km: 8.37
+- country: US
+  region: VA
+  name: Weems
+  lat: '37.6554'
+  long: "-76.4497"
+  nearby_rate_centers:
+  - name: IRVINGTON
+    distance_km: 2.7
+  - name: KILMARNOCK
+    distance_km: 9.59
+  - name: SALUDA
+    distance_km: 13.46
+- country: US
+  region: VA
+  name: West Falls Church
+  lat: '38.8648'
+  long: "-77.1878"
+  nearby_rate_centers:
+  - name: WSNGTNZN17
+    distance_km: 3.78
+  - name: LORTONMTRO
+    distance_km: 7.88
+  - name: WSNGTNZN08
+    distance_km: 7.88
+  - name: DULLESMTRO
+    distance_km: 7.96
+  - name: WSNGTNZN19
+    distance_km: 7.96
+- country: US
+  region: VA
+  name: West Point
+  lat: '37.5519'
+  long: "-76.8017"
+  nearby_rate_centers:
+  - name: WEST POINT
+    distance_km: 2.08
+  - name: KNGANDQUEN
+    distance_km: 5.48
+  - name: TOANO
+    distance_km: 18.54
+- country: US
+  region: VA
+  name: West Springfield
+  lat: '38.7771'
+  long: "-77.2268"
+  nearby_rate_centers:
+  - name: ENGLESIDE
+    distance_km: 6.49
+  - name: LORTON
+    distance_km: 9.84
+  - name: OCCOQUAN
+    distance_km: 10.79
+- country: US
+  region: VA
+  name: Westlake Corner
+  lat: '37.1249'
+  long: "-79.7076"
+  nearby_rate_centers:
+  - name: BURNTCHMNY
+    distance_km: 6.46
+  - name: STONE MT
+    distance_km: 14.11
+  - name: UNION HALL
+    distance_km: 14.34
+- country: US
+  region: VA
+  name: Weyers Cave
+  lat: '38.2844'
+  long: "-78.9125"
+  nearby_rate_centers:
+  - name: WEYERSCAVE
+    distance_km: 0.25
+  - name: GROTTOES
+    distance_km: 8.48
+  - name: NEW HOPE
+    distance_km: 9.45
+- country: US
+  region: VA
+  name: White Stone
+  lat: '37.6440'
+  long: "-76.3897"
+  nearby_rate_centers:
+  - name: IRVINGTON
+    distance_km: 3.11
+  - name: KILMARNOCK
+    distance_km: 8.32
+  - name: DELTAVILLE
+    distance_km: 11.63
+- country: US
+  region: VA
+  name: Whitesville
+  lat: '37.7816'
+  long: "-75.6636"
+  nearby_rate_centers:
+  - name: PARKSLEY
+    distance_km: 1.28
+  - name: ONANCOCK
+    distance_km: 9.94
+  - name: TEMPERNCVL
+    distance_km: 15.6
+- country: US
+  region: VA
+  name: Williamsburg
+  lat: '37.2693'
+  long: "-76.7076"
+  nearby_rate_centers:
+  - name: WILLIAMSBG
+    distance_km: 0.24
+  - name: TOANO
+    distance_km: 15.29
+  - name: SURRY
+    distance_km: 17.97
+- country: US
+  region: VA
+  name: Willis Wharf
+  lat: '37.5176'
+  long: "-75.8089"
+  nearby_rate_centers:
+  - name: BELLEHAVEN
+    distance_km: 4.51
+  - name: EASTVILLE
+    distance_km: 22.11
+  - name: ONANCOCK
+    distance_km: 23.04
+- country: US
+  region: VA
+  name: Winchester
+  lat: '39.1735'
+  long: "-78.1746"
+  nearby_rate_centers:
+  - name: WINCHESTER
+    distance_km: 1.53
+  - name: STEPHENSCY
+    distance_km: 10.47
+  - name: GAINESBORO
+    distance_km: 13.37
+- country: US
+  region: VA
+  name: Windsor
+  lat: '36.8095'
+  long: "-76.7406"
+  nearby_rate_centers:
+  - name: WINDSOR
+    distance_km: 0.51
+  - name: HOLLAND
+    distance_km: 14.44
+  - name: CHUCKATUCK
+    distance_km: 15.98
+- country: US
+  region: VA
+  name: Wintergreen
+  lat: '37.9161'
+  long: "-78.9382"
+  nearby_rate_centers:
+  - name: WAYNESBORO
+    distance_km: 17.15
+  - name: LOVINGSTON
+    distance_km: 18.49
+  - name: GREENWOOD
+    distance_km: 21.65
+- country: US
+  region: VA
+  name: Wise
+  lat: '36.9767'
+  long: "-82.5809"
+  nearby_rate_centers:
+  - name: WISE
+    distance_km: 1.04
+  - name: NORTON
+    distance_km: 6.61
+  - name: COEBURN
+    distance_km: 11.05
+- country: US
+  region: VA
+  name: Wolf Trap
+  lat: '38.9395'
+  long: "-77.2842"
+  nearby_rate_centers:
+  - name: DULLESMTRO
+    distance_km: 4.69
+  - name: WSNGTNZN19
+    distance_km: 4.69
+  - name: HERNDON
+    distance_km: 8.89
+  - name: WSNGTNZN17
+    distance_km: 11.93
+- country: US
+  region: VA
+  name: Woodbridge
+  lat: '38.6409'
+  long: "-77.2580"
+  nearby_rate_centers:
+  - name: OCCOQUAN
+    distance_km: 4.73
+  - name: DALE CITY
+    distance_km: 5.39
+  - name: LORTON
+    distance_km: 5.59
+- country: US
+  region: VA
+  name: Woodburn
+  lat: '38.8503'
+  long: "-77.2322"
+  nearby_rate_centers:
+  - name: DULLESMTRO
+    distance_km: 6.28
+  - name: WSNGTNZN19
+    distance_km: 6.28
+  - name: WSNGTNZN17
+    distance_km: 7.69
+  - name: LORTONMTRO
+    distance_km: 12.01
+  - name: WSNGTNZN08
+    distance_km: 12.01
+- country: US
+  region: VA
+  name: Woodlake
+  lat: '37.4215'
+  long: "-77.6783"
+  nearby_rate_centers:
+  - name: BETHIA
+    distance_km: 2.8
+  - name: MIDLOTHIAN
+    distance_km: 8.97
+  - name: MANAKIN
+    distance_km: 20.1
+- country: US
+  region: VA
+  name: Woodlawn
+  lat: '38.7332'
+  long: "-77.1149"
+  nearby_rate_centers:
+  - name: ENGLESIDE
+    distance_km: 8.66
+  - name: LORTON
+    distance_km: 12.86
+  - name: OCCOQUAN
+    distance_km: 13.72
+- country: US
+  region: VA
+  name: Woodstock
+  lat: '38.8750'
+  long: "-78.5160"
+  nearby_rate_centers:
+  - name: WOODSTOCK
+    distance_km: 0.73
+  - name: EDINBURG
+    distance_km: 7.45
+  - name: FORT VLY
+    distance_km: 9.14
+- country: US
+  region: VA
+  name: Wyndham
+  lat: '37.6924'
+  long: "-77.6123"
+  nearby_rate_centers:
+  - name: ROCKVILLE
+    distance_km: 6.76
+  - name: MANAKIN
+    distance_km: 12.66
+  - name: ASHLAND
+    distance_km: 14.11
+- country: US
+  region: VA
+  name: Wytheville
+  lat: '36.9530'
+  long: "-81.0881"
+  nearby_rate_centers:
+  - name: WYTHEVILLE
+    distance_km: 0.32
+  - name: MAXMEADOWS
+    distance_km: 12.37
+  - name: CRIPPLECRK
+    distance_km: 15.08
+- country: US
+  region: VA
+  name: Yogaville
+  lat: '37.6688'
+  long: "-78.6917"
+  nearby_rate_centers:
+  - name: SCHUYLER
+    distance_km: 13.7
+  - name: BUCKINGHAM
+    distance_km: 17.73
+  - name: LOVINGSTON
+    distance_km: 19.03
+- country: US
+  region: VA
+  name: Yorkshire
+  lat: '38.7882'
+  long: "-77.4496"
+  nearby_rate_centers:
+  - name: MANASSAS
+    distance_km: 4.87
+  - name: BRADDOCK
+    distance_km: 6.07
+  - name: INDENDNTHL
+    distance_km: 14.25
+- country: US
+  region: VA
+  name: Yorktown
+  lat: '37.2352'
+  long: "-76.5146"
+  nearby_rate_centers:
+  - name: HAYES
+    distance_km: 4.55
+  - name: NWPTNWSZN3
+    distance_km: 10.6
+  - name: NWPTNWSZN4
+    distance_km: 14.65

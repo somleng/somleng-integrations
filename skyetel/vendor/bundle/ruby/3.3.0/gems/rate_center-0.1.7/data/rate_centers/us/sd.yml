@@ -1,0 +1,5690 @@
+---
+rate_centers:
+- country: US
+  region: SD
+  exchange: '178600'
+  name: ABERDEEN
+  full_name: Aberdeen
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '45.467318'
+  long: "-98.481427"
+  closest_city:
+    name: Aberdeen
+    distance_km: 1.04
+- country: US
+  region: SD
+  exchange: '178610'
+  name: ACADEMY
+  full_name: Academy
+  lata: '640'
+  ilec_name: MIDSTATE COMMUNICATIONS, INC.
+  lat: '43.457549'
+  long: "-99.07264"
+  closest_city:
+    name: Platte Colony
+    distance_km: 4.46
+- country: US
+  region: SD
+  exchange: '339877'
+  name: AGAR
+  full_name: Agar
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339878'
+  name: AGENCY VLG
+  full_name: Agency Village
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339879'
+  name: AKASKA
+  full_name: Akaska
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339880'
+  name: ALBEE
+  full_name: Albee
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '178620'
+  name: ALCESTER
+  full_name: Alcester
+  lata: '640'
+  ilec_name: ALLIANCE COMMUNICATIONS COOPERATIVE, INC. (BALTIC)
+  lat: '43.023716'
+  long: "-96.632869"
+  closest_city:
+    name: Alcester
+    distance_km: 0.67
+- country: US
+  region: SD
+  exchange: '178630'
+  name: ALEXANDRIA
+  full_name: Alexandria
+  lata: '640'
+  ilec_name: TRIOTEL COMMUNICATIONS, INC.
+  lat: '43.660366'
+  long: "-97.782838"
+  closest_city:
+    name: Alexandria
+    distance_km: 0.74
+- country: US
+  region: SD
+  exchange: '339883'
+  name: ALLEN
+  full_name: Allen
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '178640'
+  name: ALPENA
+  full_name: Alpena
+  lata: '640'
+  ilec_name: SANTEL COMMUNICATIONS COOPERATIVE, INC. - SD
+  lat: '44.183097'
+  long: "-98.36859"
+  closest_city:
+    name: Alpena
+    distance_km: 0.03
+- country: US
+  region: SD
+  exchange: '178650'
+  name: ALSEN
+  full_name: Alsen
+  lata: '640'
+  ilec_name: CLARITY TELECOM, LLC DBA BLUEPEAK
+  lat: '42.9839'
+  long: "-96.783175"
+  closest_city:
+    name: Beresford
+    distance_km: 10.66
+- country: US
+  region: SD
+  exchange: '339886'
+  name: ALTAMONT
+  full_name: Altamont
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339887'
+  name: AMHERST
+  full_name: Amherst
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '178660'
+  name: ANDOVER
+  full_name: Andover
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat: '45.408759'
+  long: "-97.905854"
+  closest_city:
+    name: Andover
+    distance_km: 0.23
+- country: US
+  region: SD
+  exchange: '178670'
+  name: ARDMORE
+  full_name: Ardmore
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '43.0224'
+  long: "-103.656828"
+  closest_city:
+    name: Ardmore
+    distance_km: 0.41
+- country: US
+  region: SD
+  exchange: '339890'
+  name: ARGONNE
+  full_name: Argonne
+  lata: '640'
+  ilec_name: ALLIANCE COMM. COOPERATIVE, INC. (SPLIT ROCK)
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '178680'
+  name: ARLINGTON
+  full_name: Arlington
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '44.365377'
+  long: "-97.137289"
+  closest_city:
+    name: Arlington
+    distance_km: 0.35
+- country: US
+  region: SD
+  exchange: '178690'
+  name: ARMOUR
+  full_name: Armour
+  lata: '640'
+  ilec_name: ARMOUR INDEPENDENT TEL CO DBA GOLDEN WEST TELCOMM
+  lat: '43.315868'
+  long: "-98.351374"
+  closest_city:
+    name: Armour
+    distance_km: 0.64
+- country: US
+  region: SD
+  exchange: '339893'
+  name: ARTAS
+  full_name: Artas
+  lata: '640'
+  ilec_name: VALLEY TELECOM COOP. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '178700'
+  name: ARTESIAN
+  full_name: Artesian
+  lata: '640'
+  ilec_name: SANTEL COMMUNICATIONS COOPERATIVE, INC. - SD
+  lat: '44.0082'
+  long: "-97.922573"
+  closest_city:
+    name: Artesian
+    distance_km: 0.1
+- country: US
+  region: SD
+  exchange: '339895'
+  name: ASHTON
+  full_name: Ashton
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '178710'
+  name: ASTORIA
+  full_name: Astoria
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '44.558844'
+  long: "-96.551492"
+  closest_city:
+    name: Astoria
+    distance_km: 0.42
+- country: US
+  region: SD
+  exchange: '339897'
+  name: ATHOL
+  full_name: Athol
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339898'
+  name: AURORA
+  full_name: Aurora
+  lata: '640'
+  ilec_name: CITY OF BROOKINGS MUNICIPAL TEL. DEPT.
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '178720'
+  name: AVON
+  full_name: Avon
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '43.00844'
+  long: "-98.055677"
+  closest_city:
+    name: Avon
+    distance_km: 0.47
+- country: US
+  region: SD
+  exchange: '339900'
+  name: BADGER
+  full_name: Badger
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '178730'
+  name: BALTIC
+  full_name: Baltic
+  lata: '640'
+  ilec_name: ALLIANCE COMMUNICATIONS COOPERATIVE, INC. (BALTIC)
+  lat: '43.758415'
+  long: "-96.734264"
+  closest_city:
+    name: Baltic
+    distance_km: 0.31
+- country: US
+  region: SD
+  exchange: '339902'
+  name: BANCROFT
+  full_name: Bancroft
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339903'
+  name: BARNARD
+  full_name: Barnard
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180251'
+  name: BATESLAND
+  full_name: Batesland
+  lata: '646'
+  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339904'
+  name: BATH
+  full_name: Bath
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339905'
+  name: BEEBE
+  full_name: Beebe
+  lata: '640'
+  ilec_name: VALLEY TELECOM COOP. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '178740'
+  name: BELLEFORCH
+  full_name: Belle Fourche
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '44.67365'
+  long: "-103.849832"
+  closest_city:
+    name: Belle Fourche
+    distance_km: 1.19
+- country: US
+  region: SD
+  exchange: '178750'
+  name: BELVIDERE
+  full_name: Belvidere
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '43.824057'
+  long: "-101.284281"
+  closest_city:
+    name: Belvidere
+    distance_km: 1.38
+- country: US
+  region: SD
+  exchange: '339908'
+  name: BEMIS
+  full_name: Bemis
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '178760'
+  name: BERESFORD
+  full_name: Beresford
+  lata: '640'
+  ilec_name: BERESFORD MUNICIPAL TEL. CO.
+  lat: '43.083529'
+  long: "-96.782342"
+  closest_city:
+    name: Beresford
+    distance_km: 0.46
+- country: US
+  region: SD
+  exchange: '178761'
+  name: BERESFD RL
+  full_name: Beresford Rural
+  lata: '640'
+  ilec_name: CLARITY TELECOM, LLC DBA BLUEPEAK
+  lat: '43.083529'
+  long: "-96.782342"
+  closest_city:
+    name: Beresford
+    distance_km: 0.46
+- country: US
+  region: SD
+  exchange: '339910'
+  name: BETHLEHEM
+  full_name: Bethlehem
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '178621'
+  name: BIG SPGS
+  full_name: Big Springs
+  lata: '640'
+  ilec_name: ALLIANCE COMMUNICATIONS COOPERATIVE, INC. (BALTIC)
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '178770'
+  name: BIGSTONECY
+  full_name: Big Stone City
+  lata: '626'
+  ilec_name: QWEST CORPORATION
+  lat: '45.301925'
+  long: "-96.459985"
+  closest_city:
+    name: Big Stone City
+    distance_km: 0.59
+- country: US
+  region: SD
+  exchange: '178780'
+  name: BISON
+  full_name: Bison
+  lata: '640'
+  ilec_name: WEST RIVER COOPERATIVE TELEPHONE COMPANY
+  lat: '45.524241'
+  long: "-102.460906"
+  closest_city:
+    name: Bison
+    distance_km: 0.54
+- country: US
+  region: SD
+  exchange: '339912'
+  name: BLACK HAWK
+  full_name: Black Hawk
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180521'
+  name: BLACKHAWK
+  full_name: Blackhawk
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '178790'
+  name: BLUNT
+  full_name: Blunt
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '44.517199'
+  long: "-99.991294"
+  closest_city:
+    name: Blunt
+    distance_km: 0.26
+- country: US
+  region: SD
+  exchange: '178800'
+  name: BONESTEEL
+  full_name: Bonesteel
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '43.082406'
+  long: "-98.949164"
+  closest_city:
+    name: Bonesteel
+    distance_km: 0.58
+- country: US
+  region: SD
+  exchange: '339915'
+  name: BONILLA
+  full_name: Bonilla
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339916'
+  name: BOVEE
+  full_name: Bovee
+  lata: '640'
+  ilec_name: MIDSTATE COMMUNICATIONS, INC.
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '178810'
+  name: BOWDLE
+  full_name: Bowdle
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '45.449501'
+  long: "-99.65989"
+  closest_city:
+    name: Bowdle
+    distance_km: 0.32
+- country: US
+  region: SD
+  exchange: '339918'
+  name: BOX ELDER
+  full_name: Box Elder
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '178820'
+  name: BRADLEY
+  full_name: Bradley
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '45.091607'
+  long: "-97.641609"
+  closest_city:
+    name: Bradley
+    distance_km: 0.14
+- country: US
+  region: SD
+  exchange: '178830'
+  name: BRANDON
+  full_name: Brandon
+  lata: '640'
+  ilec_name: ALLIANCE COMM. COOPERATIVE, INC. (SPLIT ROCK)
+  lat: '43.592902'
+  long: "-96.580926"
+  closest_city:
+    name: Brandon
+    distance_km: 0.08
+- country: US
+  region: SD
+  exchange: '178840'
+  name: BRANDT
+  full_name: Brandt
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '44.664789'
+  long: "-96.623006"
+  closest_city:
+    name: Brandt
+    distance_km: 0.29
+- country: US
+  region: SD
+  exchange: '339922'
+  name: BRENTFORD
+  full_name: Brentford
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '178850'
+  name: BRIDGEWTR
+  full_name: Bridgewater
+  lata: '640'
+  ilec_name: ARMOUR INDEPENDENT TEL CO DBA GOLDEN WEST TELCOMM
+  lat: '43.54989'
+  long: "-97.502951"
+  closest_city:
+    name: Bridgewater
+    distance_km: 0.37
+- country: US
+  region: SD
+  exchange: '178860'
+  name: BRISTOL
+  full_name: Bristol
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat: '45.340105'
+  long: "-97.748132"
+  closest_city:
+    name: Bristol
+    distance_km: 0.72
+- country: US
+  region: SD
+  exchange: '178870'
+  name: BRITTON
+  full_name: Britton
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '45.800212'
+  long: "-97.759004"
+  closest_city:
+    name: Britton
+    distance_km: 0.99
+- country: US
+  region: SD
+  exchange: '339926'
+  name: BROADLAND
+  full_name: Broadland
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '178880'
+  name: BROOKINGS
+  full_name: Brookings
+  lata: '640'
+  ilec_name: CITY OF BROOKINGS MUNICIPAL TEL. DEPT.
+  lat: '44.309043'
+  long: "-96.789638"
+  closest_city:
+    name: Brookings
+    distance_km: 0.82
+- country: US
+  region: SD
+  exchange: '178881'
+  name: BROOKINGSR
+  full_name: Brookings Rural
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '44.309043'
+  long: "-96.789638"
+  closest_city:
+    name: Brookings
+    distance_km: 0.82
+- country: US
+  region: SD
+  exchange: '339928'
+  name: BRUCE
+  full_name: Bruce
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339929'
+  name: BRYANT
+  full_name: Bryant
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '178890'
+  name: BRYNTWLWLK
+  full_name: Bryant-Willow Lake
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '44.624517'
+  long: "-97.642526"
+  closest_city:
+    name: Willow Lake
+    distance_km: 0.49
+- country: US
+  region: SD
+  exchange: '178900'
+  name: BUFFALO
+  full_name: Buffalo
+  lata: '640'
+  ilec_name: WEST RIVER COOPERATIVE TELEPHONE COMPANY
+  lat: '45.584279'
+  long: "-103.551779"
+  closest_city:
+    name: Buffalo
+    distance_km: 0.69
+- country: US
+  region: SD
+  exchange: '178910'
+  name: BUFFALOGAP
+  full_name: Buffalo Gap
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '43.493428'
+  long: "-103.308112"
+  closest_city:
+    name: Buffalo Gap
+    distance_km: 0.61
+- country: US
+  region: SD
+  exchange: '339932'
+  name: BUFFALO RG
+  full_name: Buffalo Ridge
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '181002'
+  name: BURBANK
+  full_name: Burbank
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339935'
+  name: BURDOCK
+  full_name: Burdock
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '178920'
+  name: BURKE
+  full_name: Burke
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '43.183952'
+  long: "-99.299233"
+  closest_city:
+    name: Burke
+    distance_km: 0.58
+- country: US
+  region: SD
+  exchange: '339937'
+  name: BUSHNELL
+  full_name: Bushnell
+  lata: '640'
+  ilec_name: CITY OF BROOKINGS MUNICIPAL TEL. DEPT.
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339938'
+  name: BUTLER
+  full_name: Butler
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '178930'
+  name: CAMP CROOK
+  full_name: Camp Crook
+  lata: '640'
+  ilec_name: WEST RIVER COOPERATIVE TELEPHONE COMPANY
+  lat: '45.552563'
+  long: "-103.976304"
+  closest_city:
+    name: Camp Crook
+    distance_km: 0.3
+- country: US
+  region: SD
+  exchange: '178940'
+  name: CANISTOTA
+  full_name: Canistota
+  lata: '640'
+  ilec_name: ARMOUR INDEPENDENT TEL CO DBA GOLDEN WEST TELCOMM
+  lat: '43.601016'
+  long: "-97.284866"
+  closest_city:
+    name: Canistota
+    distance_km: 0.72
+- country: US
+  region: SD
+  exchange: '339941'
+  name: CANNING
+  full_name: Canning
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '178950'
+  name: CANOVA
+  full_name: Canova
+  lata: '640'
+  ilec_name: TRIOTEL COMMUNICATIONS, INC.
+  lat: '43.882249'
+  long: "-97.499304"
+  closest_city:
+    name: Canova
+    distance_km: 0.39
+- country: US
+  region: SD
+  exchange: '178960'
+  name: CANTON
+  full_name: Canton
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '43.301817'
+  long: "-96.593663"
+  closest_city:
+    name: Canton
+    distance_km: 0.73
+- country: US
+  region: SD
+  exchange: '339944'
+  name: CAPUTA
+  full_name: Caputa
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339945'
+  name: CARPENTER
+  full_name: Carpenter
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339946'
+  name: CARTER
+  full_name: Carter
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339947'
+  name: CARTHAGE
+  full_name: Carthage
+  lata: '640'
+  ilec_name: ALLIANCE COMM. COOPERATIVE, INC. (SPLIT ROCK)
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '178970'
+  name: CASTLEWOOD
+  full_name: Castlewood
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '44.724245'
+  long: "-97.033509"
+  closest_city:
+    name: Castlewood
+    distance_km: 0.21
+- country: US
+  region: SD
+  exchange: '178980'
+  name: CAVOUR
+  full_name: Cavour
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '44.376692'
+  long: "-98.032109"
+  closest_city:
+    name: Cavour
+    distance_km: 1.14
+- country: US
+  region: SD
+  exchange: '339950'
+  name: CEDARBUTTE
+  full_name: Cedar Butte
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '178990'
+  name: CENTER
+  full_name: Center
+  lata: '640'
+  ilec_name: TRIOTEL COMMUNICATIONS, INC.
+  lat: '43.834535'
+  long: "-97.334256"
+  closest_city:
+    name: Orland Colony
+    distance_km: 10.94
+- country: US
+  region: SD
+  exchange: '181011'
+  name: CENTER PT
+  full_name: Center Point
+  lata: '640'
+  ilec_name: FORT RANDALL TELCO DBA MT RUSHMORE TELEPHONE CO
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179000'
+  name: CENTERVL
+  full_name: Centerville
+  lata: '640'
+  ilec_name: FORT RANDALL TELCO DBA MT RUSHMORE TELEPHONE CO
+  lat: '43.116575'
+  long: "-96.960202"
+  closest_city:
+    name: Centerville
+    distance_km: 0.05
+- country: US
+  region: SD
+  exchange: '339953'
+  name: CENTRAL CY
+  full_name: Central City
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179010'
+  name: CHAMBERLAN
+  full_name: Chamberlain
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '43.809547'
+  long: "-99.331226"
+  closest_city:
+    name: Chamberlain
+    distance_km: 1.6
+- country: US
+  region: SD
+  exchange: '339955'
+  name: CHANCELLOR
+  full_name: Chancellor
+  lata: '640'
+  ilec_name: CLARITY TELECOM, LLC DBA BLUEPEAK
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339956'
+  name: CHELSEA
+  full_name: Chelsea
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179020'
+  name: CHESTER
+  full_name: Chester
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '43.890311'
+  long: "-96.927559"
+  closest_city:
+    name: Chester
+    distance_km: 1.03
+- country: US
+  region: SD
+  exchange: '179030'
+  name: CLAIRECITY
+  full_name: Claire City
+  lata: '640'
+  ilec_name: RC TECHNOLOGIES
+  lat: '45.859281'
+  long: "-97.097787"
+  closest_city:
+    name: Claire City
+    distance_km: 0.53
+- country: US
+  region: SD
+  exchange: '179040'
+  name: CLAREMONT
+  full_name: Claremont
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat: '45.675916'
+  long: "-98.010684"
+  closest_city:
+    name: Claremont
+    distance_km: 0.59
+- country: US
+  region: SD
+  exchange: '179050'
+  name: CLARK
+  full_name: Clark
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '44.873967'
+  long: "-97.733825"
+  closest_city:
+    name: Clark
+    distance_km: 0.77
+- country: US
+  region: SD
+  exchange: '179060'
+  name: CLAYTON
+  full_name: Clayton
+  lata: '640'
+  ilec_name: TRIOTEL COMMUNICATIONS, INC.
+  lat: '43.443642'
+  long: "-97.668813"
+  closest_city:
+    name: Tschetter Colony
+    distance_km: 8.54
+- country: US
+  region: SD
+  exchange: '179070'
+  name: CLEAR LAKE
+  full_name: Clear Lake
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '44.752618'
+  long: "-96.684194"
+  closest_city:
+    name: Clear Lake
+    distance_km: 1.43
+- country: US
+  region: SD
+  exchange: '179080'
+  name: CLEARFIELD
+  full_name: Clearfield
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '43.166593'
+  long: "-100.036536"
+  closest_city:
+    name: Winner
+    distance_km: 27.68
+- country: US
+  region: SD
+  exchange: '179090'
+  name: COLMAN
+  full_name: Colman
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '43.977654'
+  long: "-96.817225"
+  closest_city:
+    name: Colman
+    distance_km: 0.68
+- country: US
+  region: SD
+  exchange: '339965'
+  name: COLOME
+  full_name: Colome
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179100'
+  name: COLTON
+  full_name: Colton
+  lata: '640'
+  ilec_name: SIOUX VALLEY TEL DBA GOLDEN WEST TELECOMMUNICATION
+  lat: '43.782117'
+  long: "-96.932932"
+  closest_city:
+    name: Colton
+    distance_km: 0.68
+- country: US
+  region: SD
+  exchange: '179110'
+  name: COLUMBIA
+  full_name: Columbia
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat: '45.618485'
+  long: "-98.308523"
+  closest_city:
+    name: Columbia
+    distance_km: 0.44
+- country: US
+  region: SD
+  exchange: '339968'
+  name: CONATA
+  full_name: Conata
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179120'
+  name: CONDE
+  full_name: Conde
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat: '45.159271'
+  long: "-98.098347"
+  closest_city:
+    name: Conde
+    distance_km: 0.31
+- country: US
+  region: SD
+  exchange: '339970'
+  name: CORONA
+  full_name: Corona
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179130'
+  name: CORSICA
+  full_name: Corsica
+  lata: '640'
+  ilec_name: SIOUX VALLEY TEL DBA GOLDEN WEST TELECOMMUNICATION
+  lat: '43.426073'
+  long: "-98.408223"
+  closest_city:
+    name: Corsica
+    distance_km: 0.43
+- country: US
+  region: SD
+  exchange: '339972'
+  name: CORSON
+  full_name: Corson
+  lata: '640'
+  ilec_name: ALLIANCE COMM. COOPERATIVE, INC. (SPLIT ROCK)
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339973'
+  name: COTTONWOOD
+  full_name: Cottonwood
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339974'
+  name: CRANDALL
+  full_name: Crandall
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339975'
+  name: CRAZYHORSE
+  full_name: Crazy Horse
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179140'
+  name: CREIGHTON
+  full_name: Creighton
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '44.243109'
+  long: "-102.190391"
+  closest_city:
+    name: Wasta
+    distance_km: 28.1
+- country: US
+  region: SD
+  exchange: '179150'
+  name: CRESBARD
+  full_name: Cresbard
+  lata: '640'
+  ilec_name: WESTERN TEL. CO.
+  lat: '45.173594'
+  long: "-98.951308"
+  closest_city:
+    name: Cresbard
+    distance_km: 0.56
+- country: US
+  region: SD
+  exchange: '339978'
+  name: CROCKER
+  full_name: Crocker
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179160'
+  name: CROOKS
+  full_name: Crooks
+  lata: '640'
+  ilec_name: ALLIANCE COMMUNICATIONS COOPERATIVE, INC. (BALTIC)
+  lat: '43.660746'
+  long: "-96.809165"
+  closest_city:
+    name: Crooks
+    distance_km: 0.17
+- country: US
+  region: SD
+  exchange: '179170'
+  name: CUSTER
+  full_name: Custer
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '43.768203'
+  long: "-103.593287"
+  closest_city:
+    name: Custer
+    distance_km: 0.61
+- country: US
+  region: SD
+  exchange: '339980'
+  name: CSTRSTATPK
+  full_name: Custer State Park
+  lata: '640'
+  ilec_name: FORT RANDALL TELCO DBA MT RUSHMORE TELEPHONE CO
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339982'
+  name: CUTHBERT
+  full_name: Cuthbert
+  lata: '640'
+  ilec_name: SANTEL COMMUNICATIONS COOPERATIVE, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '337912'
+  name: DAKOTADUNE
+  full_name: Dakota Dunes
+  lata: '630'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339983'
+  name: DALLAS
+  full_name: Dallas
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339984'
+  name: DALZELL
+  full_name: Dalzell
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '181041'
+  name: DANTE
+  full_name: Dante
+  lata: '640'
+  ilec_name: FORT RANDALL TELCO DBA MT RUSHMORE TELEPHONE CO
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339986'
+  name: DAVIS
+  full_name: Davis
+  lata: '640'
+  ilec_name: CLARITY TELECOM, LLC DBA BLUEPEAK
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179180'
+  name: DE SMET
+  full_name: De Smet
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '44.382682'
+  long: "-97.561532"
+  closest_city:
+    name: De Smet
+    distance_km: 1.03
+- country: US
+  region: SD
+  exchange: '179190'
+  name: DEADWOOD
+  full_name: Deadwood
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '44.384808'
+  long: "-103.706307"
+  closest_city:
+    name: Deadwood
+    distance_km: 1.17
+- country: US
+  region: SD
+  exchange: '339989'
+  name: DEERFIELD
+  full_name: Deerfield
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179200'
+  name: DELLRAPIDS
+  full_name: Dell Rapids
+  lata: '640'
+  ilec_name: SIOUX VALLEY TEL DBA GOLDEN WEST TELECOMMUNICATION
+  lat: '43.826173'
+  long: "-96.710081"
+  closest_city:
+    name: Dell Rapids
+    distance_km: 0.39
+- country: US
+  region: SD
+  exchange: '179210'
+  name: DELMONT
+  full_name: Delmont
+  lata: '640'
+  ilec_name: MIDSTATE COMMUNICATIONS, INC.
+  lat: '43.268635'
+  long: "-98.167335"
+  closest_city:
+    name: Delmont
+    distance_km: 0.7
+- country: US
+  region: SD
+  exchange: '339992'
+  name: DEMPSTER
+  full_name: Dempster
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180252'
+  name: DENBY
+  full_name: Denby
+  lata: '646'
+  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339993'
+  name: DEWEY
+  full_name: Dewey
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339994'
+  name: DIMOCK
+  full_name: Dimock
+  lata: '640'
+  ilec_name: SANTEL COMMUNICATIONS COOPERATIVE, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339995'
+  name: DIXON
+  full_name: Dixon
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179220'
+  name: DOLAND
+  full_name: Doland
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat: '44.891385'
+  long: "-98.098341"
+  closest_city:
+    name: Doland
+    distance_km: 0.35
+- country: US
+  region: SD
+  exchange: '339997'
+  name: DOLTON
+  full_name: Dolton
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339998'
+  name: DRAPER
+  full_name: Draper
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179230'
+  name: DUPREE
+  full_name: Dupree
+  lata: '640'
+  ilec_name: CHEYENNE RIVER SIOUX TRIBAL TEL. AUTHORITY
+  lat: '45.048103'
+  long: "-101.609111"
+  closest_city:
+    name: Dupree
+    distance_km: 0.63
+- country: US
+  region: SD
+  exchange: '340000'
+  name: DUXBURY
+  full_name: Duxbury
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179240'
+  name: EAGLEBUTTE
+  full_name: Eagle Butte
+  lata: '640'
+  ilec_name: CHEYENNE RIVER SIOUX TRIBAL TEL. AUTHORITY
+  lat: '45.001823'
+  long: "-101.241453"
+  closest_city:
+    name: Eagle Butte
+    distance_km: 1.2
+- country: US
+  region: SD
+  exchange: '179250'
+  name: ENEWCASTLE
+  full_name: East Newcastle
+  lata: '654'
+  ilec_name: RT COMMUNICATIONS
+  lat: '43.855904'
+  long: "-104.040696"
+  closest_city:
+    name: Custer
+    distance_km: 36.68
+- country: US
+  region: SD
+  exchange: '340002'
+  name: EDEN
+  full_name: Eden
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179260'
+  name: EDGEMONT
+  full_name: Edgemont
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '43.301'
+  long: "-103.814037"
+  closest_city:
+    name: Dudley
+    distance_km: 0.9
+- country: US
+  region: SD
+  exchange: '340004'
+  name: EGAN
+  full_name: Egan
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179270'
+  name: ELK POINT
+  full_name: Elk Point
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '42.684656'
+  long: "-96.685056"
+  closest_city:
+    name: Elk Point
+    distance_km: 0.54
+- country: US
+  region: SD
+  exchange: '179280'
+  name: ELKTON
+  full_name: Elkton
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '44.233031'
+  long: "-96.480843"
+  closest_city:
+    name: Elkton
+    distance_km: 0.26
+- country: US
+  region: SD
+  exchange: '340007'
+  name: ELLSWTHAFB
+  full_name: Ellsworth Air Force Base
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340008'
+  name: ELMSPRINGS
+  full_name: Elm Springs
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340009'
+  name: ELROD
+  full_name: Elrod
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179290'
+  name: EMERY
+  full_name: Emery
+  lata: '640'
+  ilec_name: TRIOTEL COMMUNICATIONS, INC.
+  lat: '43.60013'
+  long: "-97.625141"
+  closest_city:
+    name: Emery
+    distance_km: 0.5
+- country: US
+  region: SD
+  exchange: '179300'
+  name: ENNING
+  full_name: Enning
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '44.574409'
+  long: "-102.557758"
+  closest_city:
+    name: Bridger
+    distance_km: 51.16
+- country: US
+  region: SD
+  exchange: '340012'
+  name: ERWIN
+  full_name: Erwin
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340013'
+  name: ESMOND
+  full_name: Esmond
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179310'
+  name: ESTELLINE
+  full_name: Estelline
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '44.576368'
+  long: "-96.901822"
+  closest_city:
+    name: Estelline
+    distance_km: 0.07
+- country: US
+  region: SD
+  exchange: '179320'
+  name: ETHAN
+  full_name: Ethan
+  lata: '640'
+  ilec_name: SANTEL COMMUNICATIONS COOPERATIVE, INC. - SD
+  lat: '43.5432'
+  long: "-97.981227"
+  closest_city:
+    name: Ethan
+    distance_km: 0.39
+- country: US
+  region: SD
+  exchange: '179330'
+  name: EUREKA
+  full_name: Eureka
+  lata: '640'
+  ilec_name: VALLEY TELECOM COOP. ASSN., INC.
+  lat: '45.774845'
+  long: "-99.62323"
+  closest_city:
+    name: Eureka
+    distance_km: 0.5
+- country: US
+  region: SD
+  exchange: '340017'
+  name: FAIRBURN
+  full_name: Fairburn
+  lata: '640'
+  ilec_name: FORT RANDALL TELCO DBA MT RUSHMORE TELEPHONE CO
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340018'
+  name: FAIRFAX
+  full_name: Fairfax
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340019'
+  name: FAIRVIEW
+  full_name: Fairview
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179340'
+  name: FAITH
+  full_name: Faith
+  lata: '640'
+  ilec_name: CITY OF FAITH MUNICIPAL TEL. CO.
+  lat: '45.026161'
+  long: "-102.04302"
+  closest_city:
+    name: Faith
+    distance_km: 0.53
+- country: US
+  region: SD
+  exchange: '179341'
+  name: FAITHRURAL
+  full_name: Faith Rural
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '45.026161'
+  long: "-102.04302"
+  closest_city:
+    name: Faith
+    distance_km: 0.53
+- country: US
+  region: SD
+  exchange: '340021'
+  name: FARMER
+  full_name: Farmer
+  lata: '640'
+  ilec_name: TRIOTEL COMMUNICATIONS, INC.
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179350'
+  name: FAULKTON
+  full_name: Faulkton
+  lata: '640'
+  ilec_name: WESTERN TEL. CO.
+  lat: '45.035043'
+  long: "-99.134917"
+  closest_city:
+    name: Faulkton
+    distance_km: 0.66
+- country: US
+  region: SD
+  exchange: '340023'
+  name: FEDORA
+  full_name: Fedora
+  lata: '640'
+  ilec_name: SANTEL COMMUNICATIONS COOPERATIVE, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179360'
+  name: FERNEY
+  full_name: Ferney
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat: '45.333543'
+  long: "-98.100717"
+  closest_city:
+    name: Ferney
+    distance_km: 0.55
+- country: US
+  region: SD
+  exchange: '340025'
+  name: FIRESTEEL
+  full_name: Firesteel
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179370'
+  name: FLANDREAU
+  full_name: Flandreau
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '44.040367'
+  long: "-96.589812"
+  closest_city:
+    name: Flandreau
+    distance_km: 0.96
+- country: US
+  region: SD
+  exchange: '179380'
+  name: FLORENCE
+  full_name: Florence
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '45.057293'
+  long: "-97.326492"
+  closest_city:
+    name: Florence
+    distance_km: 0.28
+- country: US
+  region: SD
+  exchange: '179390'
+  name: FLYGER
+  full_name: Flyger
+  lata: '640'
+  ilec_name: CLARITY TELECOM, LLC DBA BLUEPEAK
+  lat: '43.209361'
+  long: "-97.308324"
+  closest_city:
+    name: Cameron Colony
+    distance_km: 4.41
+- country: US
+  region: SD
+  exchange: '179400'
+  name: FORESTBURG
+  full_name: Forestburg
+  lata: '640'
+  ilec_name: SANTEL COMMUNICATIONS COOPERATIVE, INC. - SD
+  lat: '44.016288'
+  long: "-98.109313"
+  closest_city:
+    name: Forestburg
+    distance_km: 0.73
+- country: US
+  region: SD
+  exchange: '340030'
+  name: FORT MEADE
+  full_name: Fort Meade
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340031'
+  name: FORTPIERRE
+  full_name: Fort Pierre
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179410'
+  name: FTTHOMPSON
+  full_name: Fort Thompson
+  lata: '640'
+  ilec_name: MIDSTATE COMMUNICATIONS, INC.
+  lat: '44.075501'
+  long: "-99.439415"
+  closest_city:
+    name: Fort Thompson
+    distance_km: 3.57
+- country: US
+  region: SD
+  exchange: '340032'
+  name: FRANKFORT
+  full_name: Frankfort
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179420'
+  name: FREDERICK
+  full_name: Frederick
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat: '45.831044'
+  long: "-98.508348"
+  closest_city:
+    name: Frederick
+    distance_km: 0.16
+- country: US
+  region: SD
+  exchange: '179430'
+  name: FREEMAN
+  full_name: Freeman
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '43.35083'
+  long: "-97.434541"
+  closest_city:
+    name: Freeman
+    distance_km: 0.49
+- country: US
+  region: SD
+  exchange: '340035'
+  name: FRUITDALE
+  full_name: Fruitdale
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340037'
+  name: FULTON
+  full_name: Fulton
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179440'
+  name: GANNVALLEY
+  full_name: Gann Valley
+  lata: '640'
+  ilec_name: MIDSTATE COMMUNICATIONS, INC.
+  lat: '44.03341'
+  long: "-98.992341"
+  closest_city:
+    name: Gann Valley
+    distance_km: 0.29
+- country: US
+  region: SD
+  exchange: '340039'
+  name: GARDENCITY
+  full_name: Garden City
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179450'
+  name: GARRETSON
+  full_name: Garretson
+  lata: '640'
+  ilec_name: ALLIANCE COMM. COOPERATIVE, INC. (SPLIT ROCK)
+  lat: '43.717864'
+  long: "-96.497161"
+  closest_city:
+    name: Garretson
+    distance_km: 0.57
+- country: US
+  region: SD
+  exchange: '179460'
+  name: GARY
+  full_name: Gary
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '44.794444'
+  long: "-96.451599"
+  closest_city:
+    name: Gary
+    distance_km: 0.46
+- country: US
+  region: SD
+  exchange: '181051'
+  name: GAYVILLE
+  full_name: Gayville
+  lata: '640'
+  ilec_name: CLARITY TELECOM, LLC DBA BLUEPEAK
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340043'
+  name: GEDDES
+  full_name: Geddes
+  lata: '640'
+  ilec_name: MIDSTATE COMMUNICATIONS, INC.
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179470'
+  name: GETTYSBURG
+  full_name: Gettysburg
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '45.009339'
+  long: "-99.954695"
+  closest_city:
+    name: Gettysburg
+    distance_km: 0.38
+- country: US
+  region: SD
+  exchange: '340045'
+  name: GLADVALLEY
+  full_name: Glad Valley
+  lata: '640'
+  ilec_name: WEST RIVER COOPERATIVE TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340046'
+  name: GLENCROSS
+  full_name: Glencross
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179480'
+  name: GLENHAM
+  full_name: Glenham
+  lata: '640'
+  ilec_name: VALLEY TELECOM COOP. ASSN., INC.
+  lat: '45.53241'
+  long: "-100.269416"
+  closest_city:
+    name: Glenham
+    distance_km: 0.15
+- country: US
+  region: SD
+  exchange: '179490'
+  name: GOODWIN
+  full_name: Goodwin
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '44.875918'
+  long: "-96.850683"
+  closest_city:
+    name: Goodwin
+    distance_km: 0.19
+- country: US
+  region: SD
+  exchange: '340049'
+  name: GOVERT
+  full_name: Govert
+  lata: '640'
+  ilec_name: WEST RIVER COOPERATIVE TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340050'
+  name: GREENWAY
+  full_name: Greenway
+  lata: '640'
+  ilec_name: VALLEY TELECOM COOP. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '181042'
+  name: GREENWOOD
+  full_name: Greenwood
+  lata: '640'
+  ilec_name: FORT RANDALL TELCO DBA MT RUSHMORE TELEPHONE CO
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179500'
+  name: GREGORY
+  full_name: Gregory
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '43.235554'
+  long: "-99.433896"
+  closest_city:
+    name: Gregory
+    distance_km: 1.23
+- country: US
+  region: SD
+  exchange: '340053'
+  name: GRENVILLE
+  full_name: Grenville
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179510'
+  name: GROTON
+  full_name: Groton
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat: '45.45204'
+  long: "-98.09871"
+  closest_city:
+    name: Groton
+    distance_km: 0.11
+- country: US
+  region: SD
+  exchange: '340055'
+  name: GROVER
+  full_name: Grover
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340056'
+  name: HAMILL
+  full_name: Hamill
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340058'
+  name: HARRISBURG
+  full_name: Harrisburg
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179520'
+  name: HARISBGTEA
+  full_name: Harrisburg-Tea
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '43.441489'
+  long: "-96.726655"
+  closest_city:
+    name: Harrisburg
+    distance_km: 2.08
+- country: US
+  region: SD
+  exchange: '340059'
+  name: HARRISON
+  full_name: Harrison
+  lata: '640'
+  ilec_name: SIOUX VALLEY TEL DBA GOLDEN WEST TELECOMMUNICATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179530'
+  name: HARROLD
+  full_name: Harrold
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '44.525423'
+  long: "-99.741375"
+  closest_city:
+    name: Harrold
+    distance_km: 0.05
+- country: US
+  region: SD
+  exchange: '179540'
+  name: HARTFORD
+  full_name: Hartford
+  lata: '640'
+  ilec_name: UNION TEL. CO. DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '43.617258'
+  long: "-96.949185"
+  closest_city:
+    name: Hartford
+    distance_km: 0.69
+- country: US
+  region: SD
+  exchange: '179550'
+  name: HAYES
+  full_name: Hayes
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '44.368306'
+  long: "-101.016749"
+  closest_city:
+    name: Midland
+    distance_km: 34.85
+- country: US
+  region: SD
+  exchange: '179560'
+  name: HAYTI
+  full_name: Hayti
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '44.658166'
+  long: "-97.202151"
+  closest_city:
+    name: Hayti
+    distance_km: 0.22
+- country: US
+  region: SD
+  exchange: '340064'
+  name: HAZEL
+  full_name: Hazel
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179570'
+  name: HECLA
+  full_name: Hecla
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat: '45.882603'
+  long: "-98.149778"
+  closest_city:
+    name: Hecla
+    distance_km: 0.18
+- country: US
+  region: SD
+  exchange: '340066'
+  name: HENRY
+  full_name: Henry
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340067'
+  name: HEREFORD
+  full_name: Hereford
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179580'
+  name: HERMOSA
+  full_name: Hermosa
+  lata: '640'
+  ilec_name: FORT RANDALL TELCO DBA MT RUSHMORE TELEPHONE CO
+  lat: '43.834794'
+  long: "-103.191561"
+  closest_city:
+    name: Hermosa
+    distance_km: 0.58
+- country: US
+  region: SD
+  exchange: '179590'
+  name: HERREID
+  full_name: Herreid
+  lata: '640'
+  ilec_name: VALLEY TELECOM COOP. ASSN., INC.
+  lat: '45.840501'
+  long: "-100.070713"
+  closest_city:
+    name: Herreid
+    distance_km: 0.44
+- country: US
+  region: SD
+  exchange: '340070'
+  name: HERRICK
+  full_name: Herrick
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340071'
+  name: HETLAND
+  full_name: Hetland
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179600'
+  name: HIGHMORE
+  full_name: Highmore
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '44.517582'
+  long: "-99.451502"
+  closest_city:
+    name: Highmore
+    distance_km: 1.05
+- country: US
+  region: SD
+  exchange: '179610'
+  name: HILL CITY
+  full_name: Hill City
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '43.933484'
+  long: "-103.574813"
+  closest_city:
+    name: Hill City
+    distance_km: 0.43
+- country: US
+  region: SD
+  exchange: '340074'
+  name: HILLHEAD
+  full_name: Hillhead
+  lata: '640'
+  ilec_name: RC TECHNOLOGIES
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340075'
+  name: HILLSVIEW
+  full_name: Hillsview
+  lata: '640'
+  ilec_name: VALLEY TELECOM COOP. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179620'
+  name: HITCHCOCK
+  full_name: Hitchcock
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '44.624937'
+  long: "-98.407451"
+  closest_city:
+    name: Hitchcock
+    distance_km: 0.5
+- country: US
+  region: SD
+  exchange: '340077'
+  name: HOLABIRD
+  full_name: Holabird
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340078'
+  name: HOLMQUIST
+  full_name: Holmquist
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340079'
+  name: HOOKER
+  full_name: Hooker
+  lata: '640'
+  ilec_name: FORT RANDALL TELCO DBA MT RUSHMORE TELEPHONE CO
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179630'
+  name: HOSMER
+  full_name: Hosmer
+  lata: '640'
+  ilec_name: VALLEY TELECOM COOP. ASSN., INC.
+  lat: '45.582899'
+  long: "-99.472394"
+  closest_city:
+    name: Hosmer
+    distance_km: 0.47
+- country: US
+  region: SD
+  exchange: '179640'
+  name: HOTSPRINGS
+  full_name: Hot Springs
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '43.426115'
+  long: "-103.476367"
+  closest_city:
+    name: Hot Springs
+    distance_km: 1.13
+- country: US
+  region: SD
+  exchange: '179650'
+  name: HOUGHTON
+  full_name: Houghton
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat: '45.764498'
+  long: "-98.207653"
+  closest_city:
+    name: Hecla
+    distance_km: 13.78
+- country: US
+  region: SD
+  exchange: '179660'
+  name: HOVEN
+  full_name: Hoven
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '45.242712'
+  long: "-99.773409"
+  closest_city:
+    name: Hoven
+    distance_km: 0.34
+- country: US
+  region: SD
+  exchange: '179670'
+  name: HOWARD
+  full_name: Howard
+  lata: '640'
+  ilec_name: ALLIANCE COMM. COOPERATIVE, INC. (SPLIT ROCK)
+  lat: '44.009263'
+  long: "-97.525696"
+  closest_city:
+    name: Howard
+    distance_km: 0.28
+- country: US
+  region: SD
+  exchange: '340085'
+  name: HOWES
+  full_name: Howes
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '181003'
+  name: HUB CITY
+  full_name: Hub City
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179680'
+  name: HUDSON
+  full_name: Hudson
+  lata: '640'
+  ilec_name: ALLIANCE COMMUNICATIONS COOPERATIVE, INC. (BALTIC)
+  lat: '43.131056'
+  long: "-96.458188"
+  closest_city:
+    name: Hudson
+    distance_km: 0.24
+- country: US
+  region: SD
+  exchange: '340087'
+  name: HUFFTON
+  full_name: Huffton
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179690'
+  name: HUMBOLDT
+  full_name: Humboldt
+  lata: '640'
+  ilec_name: SIOUX VALLEY TEL DBA GOLDEN WEST TELECOMMUNICATION
+  lat: '43.638865'
+  long: "-97.073515"
+  closest_city:
+    name: Humboldt
+    distance_km: 0.65
+- country: US
+  region: SD
+  exchange: '179700'
+  name: HURLEY
+  full_name: Hurley
+  lata: '640'
+  ilec_name: CLARITY TELECOM, LLC DBA BLUEPEAK
+  lat: '43.285041'
+  long: "-97.091185"
+  closest_city:
+    name: Hurley
+    distance_km: 0.64
+- country: US
+  region: SD
+  exchange: '179710'
+  name: HURON
+  full_name: Huron
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '44.35804'
+  long: "-98.213656"
+  closest_city:
+    name: Huron
+    distance_km: 0.58
+- country: US
+  region: SD
+  exchange: '340091'
+  name: IDEAL
+  full_name: Ideal
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340092'
+  name: IGLOO
+  full_name: Igloo
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179720'
+  name: INTERIOR
+  full_name: Interior
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '43.870088'
+  long: "-102.582005"
+  closest_city:
+    name: Wasta
+    distance_km: 24.7
+- country: US
+  region: SD
+  exchange: '340094'
+  name: IONA
+  full_name: Iona
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179730'
+  name: IPSWICH
+  full_name: Ipswich
+  lata: '640'
+  ilec_name: VALLEY TELECOM COOP. ASSN., INC.
+  lat: '45.452271'
+  long: "-99.032999"
+  closest_city:
+    name: Ipswich
+    distance_km: 1.0
+- country: US
+  region: SD
+  exchange: '179740'
+  name: IRENE
+  full_name: Irene
+  lata: '640'
+  ilec_name: CLARITY TELECOM, LLC DBA BLUEPEAK
+  lat: '43.085797'
+  long: "-97.159368"
+  closest_city:
+    name: Irene
+    distance_km: 0.27
+- country: US
+  region: SD
+  exchange: '179750'
+  name: IROQUOIS
+  full_name: Iroquois
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '44.365862'
+  long: "-97.852561"
+  closest_city:
+    name: Iroquois
+    distance_km: 0.33
+- country: US
+  region: SD
+  exchange: '179760'
+  name: ISABEL
+  full_name: Isabel
+  lata: '640'
+  ilec_name: CHEYENNE RIVER SIOUX TRIBAL TEL. AUTHORITY
+  lat: '45.390487'
+  long: "-101.430944"
+  closest_city:
+    name: Isabel
+    distance_km: 0.4
+- country: US
+  region: SD
+  exchange: '340100'
+  name: JAVA
+  full_name: Java
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179770'
+  name: JEFFERSON
+  full_name: Jefferson
+  lata: '640'
+  ilec_name: JEFFERSON TEL. CO.
+  lat: '42.598232'
+  long: "-96.56465"
+  closest_city:
+    name: Jefferson
+    distance_km: 0.69
+- country: US
+  region: SD
+  exchange: '340102'
+  name: JUNIUS
+  full_name: Junius
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179780'
+  name: KADOKA
+  full_name: Kadoka
+  lata: '640'
+  ilec_name: KADOKA TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '43.833044'
+  long: "-101.514798"
+  closest_city:
+    name: Kadoka
+    distance_km: 0.54
+- country: US
+  region: SD
+  exchange: '340104'
+  name: KAYLOR
+  full_name: Kaylor
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340105'
+  name: KELDRON
+  full_name: Keldron
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179790'
+  name: KENNEBEC
+  full_name: Kennebec
+  lata: '640'
+  ilec_name: KENNEBEC TEL. CO.
+  lat: '43.901811'
+  long: "-99.859177"
+  closest_city:
+    name: Kennebec
+    distance_km: 0.29
+- country: US
+  region: SD
+  exchange: '340107'
+  name: KEYAPAHA
+  full_name: Keyapaha
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179800'
+  name: KEYSTONE
+  full_name: Keystone
+  lata: '640'
+  ilec_name: FORT RANDALL TELCO DBA MT RUSHMORE TELEPHONE CO
+  lat: '43.892718'
+  long: "-103.419327"
+  closest_city:
+    name: Keystone
+    distance_km: 0.65
+- country: US
+  region: SD
+  exchange: '340109'
+  name: KIDDER
+  full_name: Kidder
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179810'
+  name: KIMBALL
+  full_name: Kimball
+  lata: '640'
+  ilec_name: MIDSTATE COMMUNICATIONS, INC.
+  lat: '43.751414'
+  long: "-98.95518"
+  closest_city:
+    name: Kimball
+    distance_km: 0.53
+- country: US
+  region: SD
+  exchange: '340111'
+  name: KRANZBURG
+  full_name: Kranzburg
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179820'
+  name: KYLE
+  full_name: Kyle
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '43.430573'
+  long: "-102.175251"
+  closest_city:
+    name: Kyle
+    distance_km: 0.78
+- country: US
+  region: SD
+  exchange: '340113'
+  name: LABOLT
+  full_name: Labolt
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179830'
+  name: LAKE ANDES
+  full_name: Lake Andes
+  lata: '640'
+  ilec_name: FORT RANDALL TELCO DBA MT RUSHMORE TELEPHONE CO
+  lat: '43.156603'
+  long: "-98.542127"
+  closest_city:
+    name: Lake Andes
+    distance_km: 0.49
+- country: US
+  region: SD
+  exchange: '340115'
+  name: LAKE CITY
+  full_name: Lake City
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179840'
+  name: LAKENORDEN
+  full_name: Lake Norden
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '44.585178'
+  long: "-97.208235"
+  closest_city:
+    name: Lake Norden
+    distance_km: 0.62
+- country: US
+  region: SD
+  exchange: '179850'
+  name: LK PRESTON
+  full_name: Lake Preston
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '44.369445'
+  long: "-97.376112"
+  closest_city:
+    name: Lake Preston
+    distance_km: 0.86
+- country: US
+  region: SD
+  exchange: '340117'
+  name: LANE
+  full_name: Lane
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179860'
+  name: LANGFORD
+  full_name: Langford
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '45.606663'
+  long: "-97.831479"
+  closest_city:
+    name: Langford
+    distance_km: 0.48
+- country: US
+  region: SD
+  exchange: '340119'
+  name: LANTRY
+  full_name: Lantry
+  lata: '640'
+  ilec_name: CHEYENNE RIVER SIOUX TRIBAL TEL. AUTHORITY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179870'
+  name: LAPLANT
+  full_name: Laplant
+  lata: '640'
+  ilec_name: CHEYENNE RIVER SIOUX TRIBAL TEL. AUTHORITY
+  lat: '45.119616'
+  long: "-100.635093"
+  closest_city:
+    name: La Plant
+    distance_km: 2.91
+- country: US
+  region: SD
+  exchange: '179880'
+  name: LEAD
+  full_name: Lead
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '44.350447'
+  long: "-103.768173"
+  closest_city:
+    name: Lead
+    distance_km: 0.28
+- country: US
+  region: SD
+  exchange: '179890'
+  name: LEBANON
+  full_name: Lebanon
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '45.068535'
+  long: "-99.766114"
+  closest_city:
+    name: Lebanon
+    distance_km: 0.04
+- country: US
+  region: SD
+  exchange: '179900'
+  name: LEMMON
+  full_name: Lemmon
+  lata: '640'
+  ilec_name: WEST RIVER COOPERATIVE TELEPHONE COMPANY
+  lat: '45.942309'
+  long: "-102.168266"
+  closest_city:
+    name: Lemmon
+    distance_km: 0.79
+- country: US
+  region: SD
+  exchange: '179910'
+  name: LENNOX
+  full_name: Lennox
+  lata: '640'
+  ilec_name: CLARITY TELECOM, LLC DBA BLUEPEAK
+  lat: '43.348358'
+  long: "-96.900481"
+  closest_city:
+    name: Lennox
+    distance_km: 0.56
+- country: US
+  region: SD
+  exchange: '179920'
+  name: LEOLA
+  full_name: Leola
+  lata: '640'
+  ilec_name: VALLEY TELECOM COOP. ASSN., INC.
+  lat: '45.726015'
+  long: "-98.929302"
+  closest_city:
+    name: Leola
+    distance_km: 0.9
+- country: US
+  region: SD
+  exchange: '179930'
+  name: LESTERVL
+  full_name: Lesterville
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '43.043724'
+  long: "-97.593242"
+  closest_city:
+    name: Lesterville
+    distance_km: 0.62
+- country: US
+  region: SD
+  exchange: '179940'
+  name: LETCHER
+  full_name: Letcher
+  lata: '640'
+  ilec_name: SANTEL COMMUNICATIONS COOPERATIVE, INC. - SD
+  lat: '43.898457'
+  long: "-98.131346"
+  closest_city:
+    name: Letcher
+    distance_km: 1.04
+- country: US
+  region: SD
+  exchange: '340128'
+  name: LILY
+  full_name: Lily
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '339844'
+  name: LODGEPOLE
+  full_name: Lodgepole
+  lata: '638'
+  ilec_name: CONSOLIDATED TELCOM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179950'
+  name: LONG LAKE
+  full_name: Long Lake
+  lata: '640'
+  ilec_name: VALLEY TELECOM COOP. ASSN., INC.
+  lat: '45.858984'
+  long: "-99.208515"
+  closest_city:
+    name: Long Lake
+    distance_km: 0.33
+- country: US
+  region: SD
+  exchange: '179960'
+  name: LONGVALLEY
+  full_name: Long Valley
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '43.457261'
+  long: "-101.497423"
+  closest_city:
+    name: Wanblee
+    distance_km: 18.26
+- country: US
+  region: SD
+  exchange: '340132'
+  name: LOOMIS
+  full_name: Loomis
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340133'
+  name: LOWERBRULE
+  full_name: Lower Brule
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340134'
+  name: LOWRY
+  full_name: Lowry
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340135'
+  name: LOYALTON
+  full_name: Loyalton
+  lata: '640'
+  ilec_name: VALLEY TELECOM COOP. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340136'
+  name: LUCAS
+  full_name: Lucas
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340137'
+  name: LUDLOW
+  full_name: Ludlow
+  lata: '640'
+  ilec_name: WEST RIVER COOPERATIVE TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340138'
+  name: LYMAN
+  full_name: Lyman
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340139'
+  name: LYONS
+  full_name: Lyons
+  lata: '640'
+  ilec_name: SIOUX VALLEY TEL DBA GOLDEN WEST TELECOMMUNICATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179970'
+  name: MADISON
+  full_name: Madison
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '44.009868'
+  long: "-97.114636"
+  closest_city:
+    name: Madison
+    distance_km: 0.64
+- country: US
+  region: SD
+  exchange: '180451'
+  name: MANDERSON
+  full_name: Manderson
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340142'
+  name: MANSFIELD
+  full_name: Mansfield
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340143'
+  name: MARCUS
+  full_name: Marcus
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '179980'
+  name: MARION
+  full_name: Marion
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '43.424129'
+  long: "-97.259187"
+  closest_city:
+    name: Marion
+    distance_km: 0.12
+- country: US
+  region: SD
+  exchange: '179990'
+  name: MARTIN
+  full_name: Martin
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '43.176506'
+  long: "-101.741106"
+  closest_city:
+    name: Martin
+    distance_km: 0.74
+- country: US
+  region: SD
+  exchange: '181043'
+  name: MARTY
+  full_name: Marty
+  lata: '640'
+  ilec_name: FORT RANDALL TELCO DBA MT RUSHMORE TELEPHONE CO
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340147'
+  name: MARVIN
+  full_name: Marvin
+  lata: '640'
+  ilec_name: RC TECHNOLOGIES
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180000'
+  name: MAURINE
+  full_name: Maurine
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '45.024299'
+  long: "-102.589221"
+  closest_city:
+    name: Faith
+    distance_km: 43.46
+- country: US
+  region: SD
+  exchange: '340149'
+  name: MAYFIELD
+  full_name: Mayfield
+  lata: '640'
+  ilec_name: CLARITY TELECOM, LLC DBA BLUEPEAK
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '337913'
+  name: MCCOOK LK
+  full_name: McCook Lake
+  lata: '630'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180010'
+  name: MCINTOSH
+  full_name: McIntosh
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '45.914589'
+  long: "-101.356082"
+  closest_city:
+    name: McIntosh
+    distance_km: 0.93
+- country: US
+  region: SD
+  exchange: '180020'
+  name: MCLAUGHLIN
+  full_name: McLaughlin
+  lata: '640'
+  ilec_name: WEST RIVER TELECOMMUNICATIONS COOP. - SD
+  lat: '45.816118'
+  long: "-100.814059"
+  closest_city:
+    name: McLaughlin
+    distance_km: 0.41
+- country: US
+  region: SD
+  exchange: '180030'
+  name: MEADOW
+  full_name: Meadow
+  lata: '640'
+  ilec_name: WEST RIVER COOPERATIVE TELEPHONE COMPANY
+  lat: '45.531804'
+  long: "-102.223653"
+  closest_city:
+    name: Bison
+    distance_km: 19.03
+- country: US
+  region: SD
+  exchange: '181004'
+  name: MECKLING
+  full_name: Meckling
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180040'
+  name: MELLETTE
+  full_name: Mellette
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat: '45.150299'
+  long: "-98.499141"
+  closest_city:
+    name: Mellette
+    distance_km: 0.46
+- country: US
+  region: SD
+  exchange: '180050'
+  name: MENNO
+  full_name: Menno
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '43.239587'
+  long: "-97.582469"
+  closest_city:
+    name: Menno
+    distance_km: 0.43
+- country: US
+  region: SD
+  exchange: '180060'
+  name: MIDLAND
+  full_name: Midland
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '44.072998'
+  long: "-101.165589"
+  closest_city:
+    name: Midland
+    distance_km: 0.84
+- country: US
+  region: SD
+  exchange: '180070'
+  name: MILBANK
+  full_name: Milbank
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '45.226348'
+  long: "-96.629828"
+  closest_city:
+    name: Milbank
+    distance_km: 0.82
+- country: US
+  region: SD
+  exchange: '180080'
+  name: MILESVILLE
+  full_name: Milesville
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '44.425896'
+  long: "-101.679936"
+  closest_city:
+    name: Bridger
+    distance_km: 22.6
+- country: US
+  region: SD
+  exchange: '340159'
+  name: MILLBORO
+  full_name: Millboro
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180090'
+  name: MILLER
+  full_name: Miller
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '44.517766'
+  long: "-98.992798"
+  closest_city:
+    name: Miller
+    distance_km: 0.55
+- country: US
+  region: SD
+  exchange: '340161'
+  name: MINA
+  full_name: Mina
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340162'
+  name: MIRANDA
+  full_name: Miranda
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180100'
+  name: MISSION
+  full_name: Mission
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '43.301075'
+  long: "-100.658194"
+  closest_city:
+    name: Mission
+    distance_km: 0.62
+- country: US
+  region: SD
+  exchange: '181341'
+  name: MISSION HL
+  full_name: Mission Hill
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340165'
+  name: MISSIONRDG
+  full_name: Mission Ridge
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180110'
+  name: MITCHELL
+  full_name: Mitchell
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '43.70866'
+  long: "-98.021829"
+  closest_city:
+    name: Mitchell
+    distance_km: 2.5
+- country: US
+  region: SD
+  exchange: '180120'
+  name: MOBRIDGE
+  full_name: Mobridge
+  lata: '640'
+  ilec_name: WEST RIVER TELECOMMUNICATIONS COOP (MOBRIDGE) - SD
+  lat: '45.53493'
+  long: "-100.434456"
+  closest_city:
+    name: Mobridge
+    distance_km: 0.66
+- country: US
+  region: SD
+  exchange: '340168'
+  name: MONROE
+  full_name: Monroe
+  lata: '640'
+  ilec_name: CLARITY TELECOM, LLC DBA BLUEPEAK
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340169'
+  name: MONTROSE
+  full_name: Montrose
+  lata: '640'
+  ilec_name: SIOUX VALLEY TEL DBA GOLDEN WEST TELECOMMUNICATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180130'
+  name: MORRISTOWN
+  full_name: Morristown
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '45.934088'
+  long: "-101.721529"
+  closest_city:
+    name: Morristown
+    distance_km: 0.54
+- country: US
+  region: SD
+  exchange: '340171'
+  name: MOSHER
+  full_name: Mosher
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180140'
+  name: MOUND CITY
+  full_name: Mound City
+  lata: '640'
+  ilec_name: VALLEY TELECOM COOP. ASSN., INC.
+  lat: '45.732303'
+  long: "-100.070397"
+  closest_city:
+    name: Mound City
+    distance_km: 0.69
+- country: US
+  region: SD
+  exchange: '180150'
+  name: MT VERNON
+  full_name: Mount Vernon
+  lata: '640'
+  ilec_name: SANTEL COMMUNICATIONS COOPERATIVE, INC. - SD
+  lat: '43.715301'
+  long: "-98.255853"
+  closest_city:
+    name: Mount Vernon
+    distance_km: 0.52
+- country: US
+  region: SD
+  exchange: '340174'
+  name: MUD BUTTE
+  full_name: Mud Butte
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180160'
+  name: MURDO
+  full_name: Murdo
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '43.885295'
+  long: "-100.717184"
+  closest_city:
+    name: Murdo
+    distance_km: 0.51
+- country: US
+  region: SD
+  exchange: '340176'
+  name: MYSTIC
+  full_name: Mystic
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340177'
+  name: NAPLES
+  full_name: Naples
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340178'
+  name: NEMO
+  full_name: Nemo
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180170'
+  name: NEWEFFNGTN
+  full_name: New Effington
+  lata: '640'
+  ilec_name: RC TECHNOLOGIES
+  lat: '45.865106'
+  long: "-96.924711"
+  closest_city:
+    name: New Effington
+    distance_km: 1.18
+- country: US
+  region: SD
+  exchange: '180180'
+  name: NEWHOLLAND
+  full_name: New Holland
+  lata: '640'
+  ilec_name: MIDSTATE COMMUNICATIONS, INC.
+  lat: '43.424773'
+  long: "-98.597765"
+  closest_city:
+    name: New Holland
+    distance_km: 0.9
+- country: US
+  region: SD
+  exchange: '180190'
+  name: NEWUNDERWD
+  full_name: New Underwood
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '44.089798'
+  long: "-102.830968"
+  closest_city:
+    name: New Underwood
+    distance_km: 1.25
+- country: US
+  region: SD
+  exchange: '340179'
+  name: NEWARK
+  full_name: Newark
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180200'
+  name: NEWELL
+  full_name: Newell
+  lata: '640'
+  ilec_name: WEST RIVER COOPERATIVE TELEPHONE COMPANY
+  lat: '44.725411'
+  long: "-103.415626"
+  closest_city:
+    name: Newell
+    distance_km: 0.92
+- country: US
+  region: SD
+  exchange: '180210'
+  name: NISLAND
+  full_name: Nisland
+  lata: '640'
+  ilec_name: WEST RIVER COOPERATIVE TELEPHONE COMPANY
+  lat: '44.675944'
+  long: "-103.538685"
+  closest_city:
+    name: Nisland
+    distance_km: 1.24
+- country: US
+  region: SD
+  exchange: '340186'
+  name: NORBECK
+  full_name: Norbeck
+  lata: '640'
+  ilec_name: WESTERN TEL. CO.
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340187'
+  name: NORRIS
+  full_name: Norris
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180220'
+  name: NO BRISTOW
+  full_name: North Bristow
+  lata: '644'
+  ilec_name: NORTHEAST NEBRASKA TEL. CO.
+  lat: '43.02469'
+  long: "-98.583718"
+  closest_city:
+    name: Pickstown
+    distance_km: 6.45
+- country: US
+  region: SD
+  exchange: '180230'
+  name: NORTH CODY
+  full_name: North Cody
+  lata: '644'
+  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
+  lat: '43.06593'
+  long: "-101.189372"
+  closest_city:
+    name: Spring Creek
+    distance_km: 14.02
+- country: US
+  region: SD
+  exchange: '180240'
+  name: NOCROOKSTN
+  full_name: North Crookston
+  lata: '644'
+  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
+  lat: '43.049522'
+  long: "-100.765793"
+  closest_city:
+    name: St. Francis
+    distance_km: 15.19
+- country: US
+  region: SD
+  exchange: '180250'
+  name: NO GORDON
+  full_name: North Gordon
+  lata: '646'
+  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
+  lat: '43.03455'
+  long: "-102.249258"
+  closest_city:
+    name: Wounded Knee
+    distance_km: 15.49
+- country: US
+  region: SD
+  exchange: '180260'
+  name: NO KILGORE
+  full_name: North Kilgore
+  lata: '644'
+  ilec_name: GREAT PLAINS COMMUNICATIONS, INC.
+  lat: '43.009362'
+  long: "-100.95087"
+  closest_city:
+    name: Spring Creek
+    distance_km: 13.45
+- country: US
+  region: SD
+  exchange: '180270'
+  name: NLARCHWOOD
+  full_name: North Larchwood
+  lata: '640'
+  ilec_name: ALLIANCE COMMUNICATIONS COOPERATIVE, INC. - SD
+  lat: '43.458127'
+  long: "-96.431479"
+  closest_city:
+    name: Rowena
+    distance_km: 12.13
+- country: US
+  region: SD
+  exchange: '180280'
+  name: NORTHNAPER
+  full_name: North Naper
+  lata: '644'
+  ilec_name: THREE RIVER TELCO
+  lat: '43.032601'
+  long: "-99.161848"
+  closest_city:
+    name: St. Charles
+    distance_km: 8.23
+- country: US
+  region: SD
+  exchange: '180290'
+  name: NOSIOUX CY
+  full_name: North Sioux City
+  lata: '630'
+  ilec_name: QWEST CORPORATION
+  lat: '42.51791'
+  long: "-96.481394"
+  closest_city:
+    name: North Sioux City
+    distance_km: 2.43
+- country: US
+  region: SD
+  exchange: '180300'
+  name: NOVALENTIN
+  full_name: North Valentine
+  lata: '644'
+  ilec_name: QWEST CORPORATION
+  lat: '43.032182'
+  long: "-100.568191"
+  closest_city:
+    name: Sicangu Village
+    distance_km: 2.14
+- country: US
+  region: SD
+  exchange: '340188'
+  name: NORTHVILLE
+  full_name: Northville
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340189'
+  name: NOWLIN
+  full_name: Nowlin
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180310'
+  name: NUNDA
+  full_name: Nunda
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '44.158373'
+  long: "-97.025366"
+  closest_city:
+    name: Nunda
+    distance_km: 0.51
+- country: US
+  region: SD
+  exchange: '340191'
+  name: OACOMA
+  full_name: Oacoma
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180320'
+  name: OELRICHS
+  full_name: Oelrichs
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '43.175514'
+  long: "-103.23543"
+  closest_city:
+    name: Oelrichs
+    distance_km: 0.74
+- country: US
+  region: SD
+  exchange: '180452'
+  name: OGLALA
+  full_name: Oglala
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340194'
+  name: OKATON
+  full_name: Okaton
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340195'
+  name: OKREEK
+  full_name: Okreek
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340196'
+  name: OLDHAM
+  full_name: Oldham
+  lata: '640'
+  ilec_name: ALLIANCE COMM. COOPERATIVE, INC. (SPLIT ROCK)
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180330'
+  name: OLDHAMRMON
+  full_name: Oldham-Ramona
+  lata: '640'
+  ilec_name: ALLIANCE COMM. COOPERATIVE, INC. (SPLIT ROCK)
+  lat: '44.164376'
+  long: "-97.269286"
+  closest_city:
+    name: Ramona
+    distance_km: 6.55
+- country: US
+  region: SD
+  exchange: '340198'
+  name: OLIVET
+  full_name: Olivet
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180340'
+  name: ONAKA
+  full_name: Onaka
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '45.192278'
+  long: "-99.467586"
+  closest_city:
+    name: Onaka
+    distance_km: 0.18
+- country: US
+  region: SD
+  exchange: '180350'
+  name: ONIDA
+  full_name: Onida
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '44.708676'
+  long: "-100.065656"
+  closest_city:
+    name: Onida
+    distance_km: 0.44
+- country: US
+  region: SD
+  exchange: '340201'
+  name: OPAL
+  full_name: Opal
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180360'
+  name: ORAL
+  full_name: Oral
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '43.406113'
+  long: "-103.266825"
+  closest_city:
+    name: Oral
+    distance_km: 0.46
+- country: US
+  region: SD
+  exchange: '340203'
+  name: ORDWAY
+  full_name: Ordway
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180370'
+  name: ORIENT
+  full_name: Orient
+  lata: '640'
+  ilec_name: WESTERN TEL. CO.
+  lat: '44.899258'
+  long: "-99.088756"
+  closest_city:
+    name: Orient
+    distance_km: 0.27
+- country: US
+  region: SD
+  exchange: '340205'
+  name: ORTLEY
+  full_name: Ortley
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340206'
+  name: OSCEOLA
+  full_name: Osceola
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340207'
+  name: OTTUMWA
+  full_name: Ottumwa
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340208'
+  name: OWANKA
+  full_name: Owanka
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340209'
+  name: PARADE
+  full_name: Parade
+  lata: '640'
+  ilec_name: CHEYENNE RIVER SIOUX TRIBAL TEL. AUTHORITY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180380'
+  name: PARKER
+  full_name: Parker
+  lata: '640'
+  ilec_name: CLARITY TELECOM, LLC DBA BLUEPEAK
+  lat: '43.392407'
+  long: "-97.134081"
+  closest_city:
+    name: Parker
+    distance_km: 0.6
+- country: US
+  region: SD
+  exchange: '180390'
+  name: PARKSTON
+  full_name: Parkston
+  lata: '640'
+  ilec_name: SANTEL COMMUNICATIONS COOPERATIVE, INC. - SD
+  lat: '43.389464'
+  long: "-97.981897"
+  closest_city:
+    name: Parkston
+    distance_km: 0.53
+- country: US
+  region: SD
+  exchange: '340212'
+  name: PARMELEE
+  full_name: Parmelee
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '181012'
+  name: PEARSNSCOR
+  full_name: Pearsons Corner
+  lata: '640'
+  ilec_name: FORT RANDALL TELCO DBA MT RUSHMORE TELEPHONE CO
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180410'
+  name: PEEVER
+  full_name: Peever
+  lata: '640'
+  ilec_name: RC TECHNOLOGIES
+  lat: '45.541518'
+  long: "-96.96193"
+  closest_city:
+    name: Peever
+    distance_km: 0.47
+- country: US
+  region: SD
+  exchange: '180420'
+  name: PHILIP
+  full_name: Philip
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '44.041446'
+  long: "-101.665261"
+  closest_city:
+    name: Philip
+    distance_km: 0.1
+- country: US
+  region: SD
+  exchange: '340215'
+  name: PICKSTOWN
+  full_name: Pickstown
+  lata: '640'
+  ilec_name: FORT RANDALL TELCO DBA MT RUSHMORE TELEPHONE CO
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340216'
+  name: PIEDMONT
+  full_name: Piedmont
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180430'
+  name: PIERPONT
+  full_name: Pierpont
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '45.498468'
+  long: "-97.835334"
+  closest_city:
+    name: Pierpont
+    distance_km: 0.43
+- country: US
+  region: SD
+  exchange: '180440'
+  name: PIERRE
+  full_name: Pierre
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '44.365509'
+  long: "-100.353067"
+  closest_city:
+    name: Fort Pierre
+    distance_km: 2.4
+- country: US
+  region: SD
+  exchange: '180450'
+  name: PINE RIDGE
+  full_name: Pine Ridge
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '43.022585'
+  long: "-102.55809"
+  closest_city:
+    name: Pine Ridge
+    distance_km: 0.67
+- country: US
+  region: SD
+  exchange: '340220'
+  name: PLAINVIEW
+  full_name: Plainview
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180460'
+  name: PLANKINTON
+  full_name: Plankinton
+  lata: '640'
+  ilec_name: SIOUX VALLEY TEL DBA GOLDEN WEST TELECOMMUNICATION
+  lat: '43.715512'
+  long: "-98.486283"
+  closest_city:
+    name: Plankinton
+    distance_km: 0.21
+- country: US
+  region: SD
+  exchange: '180470'
+  name: PLATTE
+  full_name: Platte
+  lata: '640'
+  ilec_name: MIDSTATE COMMUNICATIONS, INC.
+  lat: '43.382129'
+  long: "-98.835437"
+  closest_city:
+    name: Platte
+    distance_km: 0.84
+- country: US
+  region: SD
+  exchange: '180480'
+  name: POLLOCK
+  full_name: Pollock
+  lata: '640'
+  ilec_name: VALLEY TELECOM COOP. ASSN., INC.
+  lat: '45.908296'
+  long: "-100.28021"
+  closest_city:
+    name: Pollock
+    distance_km: 1.08
+- country: US
+  region: SD
+  exchange: '180454'
+  name: PORCUPINE
+  full_name: Porcupine
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '405759'
+  name: PORCUPINE
+  full_name: Porcupine
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340225'
+  name: PRAIRIE CY
+  full_name: Prairie City
+  lata: '640'
+  ilec_name: WEST RIVER COOPERATIVE TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180490'
+  name: PRESHO
+  full_name: Presho
+  lata: '640'
+  ilec_name: KENNEBEC TEL. CO.
+  lat: '43.91003'
+  long: "-100.057734"
+  closest_city:
+    name: Presho
+    distance_km: 0.33
+- country: US
+  region: SD
+  exchange: '340227'
+  name: PRINGLE
+  full_name: Pringle
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340228'
+  name: PROVO
+  full_name: Provo
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180500'
+  name: PUKWANA
+  full_name: Pukwana
+  lata: '640'
+  ilec_name: MIDSTATE COMMUNICATIONS, INC.
+  lat: '43.775173'
+  long: "-99.186499"
+  closest_city:
+    name: Pukwana
+    distance_km: 0.48
+- country: US
+  region: SD
+  exchange: '340230'
+  name: PUTNEY
+  full_name: Putney
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180510'
+  name: QUINN
+  full_name: Quinn
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '43.993168'
+  long: "-102.124201"
+  closest_city:
+    name: Quinn
+    distance_km: 0.75
+- country: US
+  region: SD
+  exchange: '340232'
+  name: RALPH
+  full_name: Ralph
+  lata: '640'
+  ilec_name: WEST RIVER COOPERATIVE TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340233'
+  name: RAMONA
+  full_name: Ramona
+  lata: '640'
+  ilec_name: ALLIANCE COMM. COOPERATIVE, INC. (SPLIT ROCK)
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180520'
+  name: RAPID CITY
+  full_name: Rapid City
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '44.08438'
+  long: "-103.221628"
+  closest_city:
+    name: Rapid City
+    distance_km: 1.42
+- country: US
+  region: SD
+  exchange: '340235'
+  name: RAVINIA
+  full_name: Ravinia
+  lata: '640'
+  ilec_name: FORT RANDALL TELCO DBA MT RUSHMORE TELEPHONE CO
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340236'
+  name: RAYMOND
+  full_name: Raymond
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340237'
+  name: RED OWL
+  full_name: Red Owl
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340238'
+  name: REDELM
+  full_name: Redelm
+  lata: '640'
+  ilec_name: CITY OF FAITH MUNICIPAL TEL. CO.
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180530'
+  name: REDFIELD
+  full_name: Redfield
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '44.874413'
+  long: "-98.522333"
+  closest_city:
+    name: Redfield
+    distance_km: 0.36
+- country: US
+  region: SD
+  exchange: '180540'
+  name: REEHEIGHTS
+  full_name: Ree Heights
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '44.514408'
+  long: "-99.199999"
+  closest_city:
+    name: Ree Heights
+    distance_km: 0.16
+- country: US
+  region: SD
+  exchange: '180550'
+  name: RELIANCE
+  full_name: Reliance
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '43.877321'
+  long: "-99.601106"
+  closest_city:
+    name: Reliance
+    distance_km: 0.3
+- country: US
+  region: SD
+  exchange: '340242'
+  name: RENNER
+  full_name: Renner
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340243'
+  name: REVA
+  full_name: Reva
+  lata: '640'
+  ilec_name: WEST RIVER COOPERATIVE TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180560'
+  name: REVILLO
+  full_name: Revillo
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '45.01829'
+  long: "-96.567318"
+  closest_city:
+    name: Revillo
+    distance_km: 0.44
+- country: US
+  region: SD
+  exchange: '340245'
+  name: RIDGEVIEW
+  full_name: Ridgeview
+  lata: '640'
+  ilec_name: CHEYENNE RIVER SIOUX TRIBAL TEL. AUTHORITY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340246'
+  name: ROCHFORD
+  full_name: Rochford
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340247'
+  name: ROCKERVL
+  full_name: Rockerville
+  lata: '640'
+  ilec_name: FORT RANDALL TELCO DBA MT RUSHMORE TELEPHONE CO
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340248'
+  name: ROCKHAM
+  full_name: Rockham
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180570'
+  name: ROSCOE
+  full_name: Roscoe
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '45.448076'
+  long: "-99.334236"
+  closest_city:
+    name: Roscoe
+    distance_km: 0.3
+- country: US
+  region: SD
+  exchange: '180580'
+  name: ROSEBUD
+  full_name: Rosebud
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '43.22594'
+  long: "-100.840919"
+  closest_city:
+    name: Rosebud
+    distance_km: 2.12
+- country: US
+  region: SD
+  exchange: '180590'
+  name: ROSHOLT
+  full_name: Rosholt
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '45.865475'
+  long: "-96.733369"
+  closest_city:
+    name: Rosholt
+    distance_km: 0.15
+- country: US
+  region: SD
+  exchange: '180600'
+  name: ROSLYN
+  full_name: Roslyn
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '45.501661'
+  long: "-97.490198"
+  closest_city:
+    name: Roslyn
+    distance_km: 0.6
+- country: US
+  region: SD
+  exchange: '340253'
+  name: ROSWELL
+  full_name: Roswell
+  lata: '640'
+  ilec_name: SANTEL COMMUNICATIONS COOPERATIVE, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340254'
+  name: ROWENA
+  full_name: Rowena
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340255'
+  name: RUNINGWATR
+  full_name: Running Water
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340256'
+  name: RUTLAND
+  full_name: Rutland
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340277'
+  name: ST CHARLES
+  full_name: Saint Charles
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340278'
+  name: ST FRANCIS
+  full_name: Saint Francis
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340282'
+  name: STLAWRENCE
+  full_name: Saint Lawrence
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340279'
+  name: ST ONGE
+  full_name: Saint Onge
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180610'
+  name: SALEM
+  full_name: Salem
+  lata: '640'
+  ilec_name: TRIOTEL COMMUNICATIONS, INC.
+  lat: '43.72367'
+  long: "-97.381233"
+  closest_city:
+    name: Salem
+    distance_km: 0.65
+- country: US
+  region: SD
+  exchange: '340258'
+  name: SCENIC
+  full_name: Scenic
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180620'
+  name: SCOTLAND
+  full_name: Scotland
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '43.149687'
+  long: "-97.718369"
+  closest_city:
+    name: Scotland
+    distance_km: 0.22
+- country: US
+  region: SD
+  exchange: '180630'
+  name: SELBY
+  full_name: Selby
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '45.506477'
+  long: "-100.032989"
+  closest_city:
+    name: Selby
+    distance_km: 0.09
+- country: US
+  region: SD
+  exchange: '180640'
+  name: SENECA
+  full_name: Seneca
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '45.064437'
+  long: "-99.506187"
+  closest_city:
+    name: Seneca
+    distance_km: 0.47
+- country: US
+  region: SD
+  exchange: '340262'
+  name: SHADEHILL
+  full_name: Shadehill
+  lata: '640'
+  ilec_name: WEST RIVER COOPERATIVE TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340263'
+  name: SHERMAN
+  full_name: Sherman
+  lata: '640'
+  ilec_name: ALLIANCE COMM. COOPERATIVE, INC. (SPLIT ROCK)
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340264'
+  name: SHINDLER
+  full_name: Shindler
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340265'
+  name: SILVERCITY
+  full_name: Silver City
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180650'
+  name: SINAI
+  full_name: Sinai
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '44.24254'
+  long: "-97.040395"
+  closest_city:
+    name: Sinai
+    distance_km: 0.36
+- country: US
+  region: SD
+  exchange: '180660'
+  name: SIOUX FLS
+  full_name: Sioux Falls
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '43.541109'
+  long: "-96.725723"
+  closest_city:
+    name: Sioux Falls
+    distance_km: 0.46
+- country: US
+  region: SD
+  exchange: '180670'
+  name: SISSETON
+  full_name: Sisseton
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '45.666958'
+  long: "-97.052296"
+  closest_city:
+    name: Sisseton
+    distance_km: 0.73
+- country: US
+  region: SD
+  exchange: '340270'
+  name: SMITHWICK
+  full_name: Smithwick
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180680'
+  name: SORUM
+  full_name: Sorum
+  lata: '640'
+  ilec_name: WEST RIVER COOPERATIVE TELEPHONE COMPANY
+  lat: '45.458096'
+  long: "-102.930418"
+  closest_city:
+    name: Prairie City
+    distance_km: 12.04
+- country: US
+  region: SD
+  exchange: '180690'
+  name: SO ASHLEY
+  full_name: South Ashley
+  lata: '638'
+  ilec_name: DICKEY RURAL TEL. COOP.
+  lat: '45.915432'
+  long: "-99.36778"
+  closest_city:
+    name: Long Lake
+    distance_km: 14.14
+- country: US
+  region: SD
+  exchange: '180700'
+  name: SO ELLENDL
+  full_name: South Ellendale
+  lata: '636'
+  ilec_name: DICKEY RURAL TEL. COOP.
+  lat: '45.900771'
+  long: "-98.491518"
+  closest_city:
+    name: Frederick
+    distance_km: 7.75
+- country: US
+  region: SD
+  exchange: '180710'
+  name: SO FORBES
+  full_name: South Forbes
+  lata: '636'
+  ilec_name: DICKEY RURAL TEL. COOP.
+  lat: '45.885403'
+  long: "-98.766757"
+  closest_city:
+    name: Spring Creek Colony
+    distance_km: 9.15
+- country: US
+  region: SD
+  exchange: '180720'
+  name: SO FORMAN
+  full_name: South Forman
+  lata: '636'
+  ilec_name: DICKEY RURAL TEL. COOP.
+  lat: '45.900424'
+  long: "-97.61835"
+  closest_city:
+    name: Kidder
+    distance_km: 7.68
+- country: US
+  region: SD
+  exchange: '180730'
+  name: SO GUELPH
+  full_name: South Guelph
+  lata: '636'
+  ilec_name: DICKEY RURAL TEL. COOP.
+  lat: '45.91585'
+  long: "-98.363743"
+  closest_city:
+    name: Frederick
+    distance_km: 14.48
+- country: US
+  region: SD
+  exchange: '180740'
+  name: SOHETTINGR
+  full_name: South Hettinger
+  lata: '638'
+  ilec_name: CONSOLIDATED TELCOM
+  lat: '45.916803'
+  long: "-102.602373"
+  closest_city:
+    name: Lemmon
+    distance_km: 34.31
+- country: US
+  region: SD
+  exchange: '180750'
+  name: SOUTH LADD
+  full_name: South Ladd
+  lata: '638'
+  ilec_name: CONSOLIDATED TELCOM
+  lat: '45.918409'
+  long: "-103.44372"
+  closest_city:
+    name: Buffalo
+    distance_km: 37.73
+- country: US
+  region: SD
+  exchange: '180760'
+  name: SOLIDGERWD
+  full_name: South Lidgerwood
+  lata: '636'
+  ilec_name: RED RIVER RURAL TEL ASSN DBA RED RIVER COMM - ND
+  lat: '45.901322'
+  long: "-97.229345"
+  closest_city:
+    name: Veblen
+    distance_km: 6.24
+- country: US
+  region: SD
+  exchange: '180770'
+  name: SO NELVIK
+  full_name: South Nelvik
+  lata: '638'
+  ilec_name: DICKEY RURAL TEL. COOP.
+  lat: '45.916395'
+  long: "-99.164055"
+  closest_city:
+    name: Long Lake
+    distance_km: 7.38
+- country: US
+  region: SD
+  exchange: '180780'
+  name: SO REEDER
+  full_name: South Reeder
+  lata: '638'
+  ilec_name: CONSOLIDATED TELCOM
+  lat: '45.915369'
+  long: "-102.913939"
+  closest_city:
+    name: Prairie City
+    distance_km: 43.38
+- country: US
+  region: SD
+  exchange: '180790'
+  name: SOSCRANTON
+  full_name: South Scranton
+  lata: '638'
+  ilec_name: CONSOLIDATED TELCOM
+  lat: '45.915061'
+  long: "-103.169435"
+  closest_city:
+    name: Buffalo
+    distance_km: 46.67
+- country: US
+  region: SD
+  exchange: '180800'
+  name: SOUTHSHORE
+  full_name: South Shore
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '45.101884'
+  long: "-96.924749"
+  closest_city:
+    name: South Shore
+    distance_km: 0.41
+- country: US
+  region: SD
+  exchange: '180810'
+  name: SOVENTURIA
+  full_name: South Venturia
+  lata: '638'
+  ilec_name: DICKEY RURAL TEL. COOP.
+  lat: '45.916424'
+  long: "-99.542302"
+  closest_city:
+    name: Eureka
+    distance_km: 17.3
+- country: US
+  region: SD
+  exchange: '340273'
+  name: SPAIN
+  full_name: Spain
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180820'
+  name: SPEARFISH
+  full_name: Spearfish
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '44.49376'
+  long: "-103.867195"
+  closest_city:
+    name: Mountain Plains
+    distance_km: 2.99
+- country: US
+  region: SD
+  exchange: '180830'
+  name: SPENCER
+  full_name: Spencer
+  lata: '640'
+  ilec_name: TRIOTEL COMMUNICATIONS, INC.
+  lat: '43.724785'
+  long: "-97.591691"
+  closest_city:
+    name: Spencer
+    distance_km: 0.28
+- country: US
+  region: SD
+  exchange: '180840'
+  name: SPRINGFLD
+  full_name: Springfield
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '42.859225'
+  long: "-97.89969"
+  closest_city:
+    name: Springfield
+    distance_km: 0.44
+- country: US
+  region: SD
+  exchange: '340280'
+  name: STEPHAN
+  full_name: Stephan
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180860'
+  name: STICKNEY
+  full_name: Stickney
+  lata: '640'
+  ilec_name: MIDSTATE COMMUNICATIONS, INC.
+  lat: '43.59405'
+  long: "-98.44172"
+  closest_city:
+    name: Stickney
+    distance_km: 0.61
+- country: US
+  region: SD
+  exchange: '180870'
+  name: STOCKHOLM
+  full_name: Stockholm
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '45.100736'
+  long: "-96.799657"
+  closest_city:
+    name: Stockholm
+    distance_km: 0.12
+- country: US
+  region: SD
+  exchange: '340284'
+  name: STONEVL
+  full_name: Stoneville
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340285'
+  name: STRANDBURG
+  full_name: Strandburg
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340286'
+  name: STRATFORD
+  full_name: Stratford
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180880'
+  name: STURGIS
+  full_name: Sturgis
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '44.414901'
+  long: "-103.498459"
+  closest_city:
+    name: Sturgis
+    distance_km: 0.44
+- country: US
+  region: SD
+  exchange: '340288'
+  name: SUMMERSET
+  full_name: Summerset
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180890'
+  name: SUMMIT
+  full_name: Summit
+  lata: '640'
+  ilec_name: RC TECHNOLOGIES
+  lat: '45.307224'
+  long: "-97.032079"
+  closest_city:
+    name: Summit
+    distance_km: 0.58
+- country: US
+  region: SD
+  exchange: '180900'
+  name: TABOR
+  full_name: Tabor
+  lata: '640'
+  ilec_name: FORT RANDALL TELCO DBA MT RUSHMORE TELEPHONE CO
+  lat: '42.948126'
+  long: "-97.657835"
+  closest_city:
+    name: Tabor
+    distance_km: 0.14
+- country: US
+  region: SD
+  exchange: '340291'
+  name: TEA
+  full_name: Tea
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340292'
+  name: TERRAVILLE
+  full_name: Terraville
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340293'
+  name: THOMAS
+  full_name: Thomas
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340294'
+  name: THUNDRHAWK
+  full_name: Thunder Hawk
+  lata: '640'
+  ilec_name: WEST RIVER COOPERATIVE TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340295'
+  name: TILFORD
+  full_name: Tilford
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180910'
+  name: TIMBERLAKE
+  full_name: Timber Lake
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '45.433082'
+  long: "-101.086396"
+  closest_city:
+    name: Timber Lake
+    distance_km: 1.23
+- country: US
+  region: SD
+  exchange: '340297'
+  name: TINTON
+  full_name: Tinton
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180920'
+  name: TOLSTOY
+  full_name: Tolstoy
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '45.20732'
+  long: "-99.618821"
+  closest_city:
+    name: Tolstoy
+    distance_km: 0.39
+- country: US
+  region: SD
+  exchange: '180930'
+  name: TORONTO
+  full_name: Toronto
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '44.5739'
+  long: "-96.653842"
+  closest_city:
+    name: Toronto
+    distance_km: 1.0
+- country: US
+  region: SD
+  exchange: '340300'
+  name: TRAIL CITY
+  full_name: Trail City
+  lata: '640'
+  ilec_name: WEST RIVER TELECOMMUNICATIONS COOP (MOBRIDGE) - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340301'
+  name: TRENT
+  full_name: Trent
+  lata: '640'
+  ilec_name: SIOUX VALLEY TEL DBA GOLDEN WEST TELECOMMUNICATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180940'
+  name: TRIPP
+  full_name: Tripp
+  lata: '640'
+  ilec_name: SANTEL COMMUNICATIONS COOPERATIVE, INC. - SD
+  lat: '43.226383'
+  long: "-97.967305"
+  closest_city:
+    name: Tripp
+    distance_km: 0.16
+- country: US
+  region: SD
+  exchange: '340303'
+  name: TROY
+  full_name: Troy
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180950'
+  name: TULARE
+  full_name: Tulare
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '44.742317'
+  long: "-98.510064"
+  closest_city:
+    name: Tulare
+    distance_km: 0.47
+- country: US
+  region: SD
+  exchange: '180960'
+  name: TURTON
+  full_name: Turton
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat: '45.051061'
+  long: "-98.101693"
+  closest_city:
+    name: Turton
+    distance_km: 0.41
+- country: US
+  region: SD
+  exchange: '340306'
+  name: TUTHILL
+  full_name: Tuthill
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340307'
+  name: TWINBROOKS
+  full_name: Twin Brooks
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180970'
+  name: TYNDALL
+  full_name: Tyndall
+  lata: '640'
+  ilec_name: FORT RANDALL TELCO DBA MT RUSHMORE TELEPHONE CO
+  lat: '42.994269'
+  long: "-97.868419"
+  closest_city:
+    name: Tyndall
+    distance_km: 0.59
+- country: US
+  region: SD
+  exchange: '340309'
+  name: UNION CTR
+  full_name: Union Center
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340310'
+  name: UNITYVILLE
+  full_name: Unityville
+  lata: '640'
+  ilec_name: TRIOTEL COMMUNICATIONS, INC.
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '181342'
+  name: UTICA
+  full_name: Utica
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340312'
+  name: VALE
+  full_name: Vale
+  lata: '640'
+  ilec_name: WEST RIVER COOPERATIVE TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180980'
+  name: VALLEY SPG
+  full_name: Valley Springs
+  lata: '640'
+  ilec_name: ALLIANCE COMMUNICATIONS COOPERATIVE, INC. - SD
+  lat: '43.574284'
+  long: "-96.468544"
+  closest_city:
+    name: Valley Springs
+    distance_km: 0.93
+- country: US
+  region: SD
+  exchange: '340314'
+  name: VAYLAND
+  full_name: Vayland
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180990'
+  name: VEBLEN
+  full_name: Veblen
+  lata: '640'
+  ilec_name: RC TECHNOLOGIES
+  lat: '45.868642'
+  long: "-97.290322"
+  closest_city:
+    name: Veblen
+    distance_km: 0.78
+- country: US
+  region: SD
+  exchange: '340316'
+  name: VERDON
+  full_name: Verdon
+  lata: '640'
+  ilec_name: JAMES VALLEY COOPERATIVE TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '181000'
+  name: VERMILLION
+  full_name: Vermillion
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '42.784136'
+  long: "-96.933083"
+  closest_city:
+    name: Vermillion
+    distance_km: 0.7
+- country: US
+  region: SD
+  exchange: '340318'
+  name: VETAL
+  full_name: Vetal
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '181010'
+  name: VIBORG
+  full_name: Viborg
+  lata: '640'
+  ilec_name: FORT RANDALL TELCO DBA MT RUSHMORE TELEPHONE CO
+  lat: '43.167373'
+  long: "-97.081105"
+  closest_city:
+    name: Viborg
+    distance_km: 0.55
+- country: US
+  region: SD
+  exchange: '340320'
+  name: VICTOR
+  full_name: Victor
+  lata: '640'
+  ilec_name: RC TECHNOLOGIES
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340321'
+  name: VIENNA
+  full_name: Vienna
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340322'
+  name: VILAS
+  full_name: Vilas
+  lata: '640'
+  ilec_name: ALLIANCE COMM. COOPERATIVE, INC. (SPLIT ROCK)
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340323'
+  name: VIRGIL
+  full_name: Virgil
+  lata: '640'
+  ilec_name: SANTEL COMMUNICATIONS COOPERATIVE, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '181020'
+  name: VIVIAN
+  full_name: Vivian
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '43.927291'
+  long: "-100.292206"
+  closest_city:
+    name: Vivian
+    distance_km: 0.71
+- country: US
+  region: SD
+  exchange: '181030'
+  name: VOLGA
+  full_name: Volga
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '44.323964'
+  long: "-96.926056"
+  closest_city:
+    name: Volga
+    distance_km: 0.4
+- country: US
+  region: SD
+  exchange: '181052'
+  name: VOLIN
+  full_name: Volin
+  lata: '640'
+  ilec_name: CLARITY TELECOM, LLC DBA BLUEPEAK
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '181040'
+  name: WAGNER
+  full_name: Wagner
+  lata: '640'
+  ilec_name: FORT RANDALL TELCO DBA MT RUSHMORE TELEPHONE CO
+  lat: '43.082772'
+  long: "-98.298614"
+  closest_city:
+    name: Wagner
+    distance_km: 0.79
+- country: US
+  region: SD
+  exchange: '181050'
+  name: WAKONDA
+  full_name: Wakonda
+  lata: '640'
+  ilec_name: CLARITY TELECOM, LLC DBA BLUEPEAK
+  lat: '43.005916'
+  long: "-97.108419"
+  closest_city:
+    name: Wakonda
+    distance_km: 0.31
+- country: US
+  region: SD
+  exchange: '340329'
+  name: WAKPALA
+  full_name: Wakpala
+  lata: '640'
+  ilec_name: WEST RIVER TELECOMMUNICATIONS COOP (MOBRIDGE) - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340330'
+  name: WALKER
+  full_name: Walker
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '181060'
+  name: WALL
+  full_name: Wall
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '43.991786'
+  long: "-102.238822"
+  closest_city:
+    name: Wall
+    distance_km: 0.27
+- country: US
+  region: SD
+  exchange: '181070'
+  name: WALL LAKE
+  full_name: Wall Lake
+  lata: '640'
+  ilec_name: UNION TEL. CO. DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '43.542542'
+  long: "-96.949616"
+  closest_city:
+    name: Hartford
+    distance_km: 8.74
+- country: US
+  region: SD
+  exchange: '340333'
+  name: WALLACE
+  full_name: Wallace
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340334'
+  name: WANBLEE
+  full_name: Wanblee
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340335'
+  name: WARD
+  full_name: Ward
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340336'
+  name: WARNER
+  full_name: Warner
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '180522'
+  name: WARWICK
+  full_name: Warwick
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '181080'
+  name: WASTA
+  full_name: Wasta
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '44.074945'
+  long: "-102.442196"
+  closest_city:
+    name: Wasta
+    distance_km: 0.68
+- country: US
+  region: SD
+  exchange: '340338'
+  name: WATAUGA
+  full_name: Watauga
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '181090'
+  name: WATERTOWN
+  full_name: Watertown
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '44.898587'
+  long: "-97.102254"
+  closest_city:
+    name: Watertown
+    distance_km: 4.19
+- country: US
+  region: SD
+  exchange: '181100'
+  name: WAUBAY
+  full_name: Waubay
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '45.33293'
+  long: "-97.297636"
+  closest_city:
+    name: Waubay
+    distance_km: 0.64
+- country: US
+  region: SD
+  exchange: '340341'
+  name: WAVERLY
+  full_name: Waverly
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '181110'
+  name: WEBSTER
+  full_name: Webster
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '45.325579'
+  long: "-97.518602"
+  closest_city:
+    name: Webster
+    distance_km: 1.25
+- country: US
+  region: SD
+  exchange: '340343'
+  name: WECOTA
+  full_name: Wecota
+  lata: '640'
+  ilec_name: WESTERN TEL. CO.
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340344'
+  name: WENDTE
+  full_name: Wendte
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '181120'
+  name: WENTWORTH
+  full_name: Wentworth
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '43.991708'
+  long: "-96.967084"
+  closest_city:
+    name: Wentworth
+    distance_km: 0.62
+- country: US
+  region: SD
+  exchange: '181130'
+  name: WESSINGTON
+  full_name: Wessington
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '44.458333'
+  long: "-98.701918"
+  closest_city:
+    name: Wessington
+    distance_km: 0.54
+- country: US
+  region: SD
+  exchange: '181140'
+  name: WESIGTNSPG
+  full_name: Wessington Springs
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat: '44.082871'
+  long: "-98.578547"
+  closest_city:
+    name: Wessington Springs
+    distance_km: 0.64
+- country: US
+  region: SD
+  exchange: '181150'
+  name: WEST AKRON
+  full_name: West Akron
+  lata: '630'
+  ilec_name: HEARTLAND TELECO OF IA DBA PREMIER COMMUNICATIONS
+  lat: '42.85096'
+  long: "-96.606893"
+  closest_city:
+    name: Richland
+    distance_km: 10.3
+- country: US
+  region: SD
+  exchange: '181160'
+  name: WBROWNSVLY
+  full_name: West Browns Valley
+  lata: '626'
+  ilec_name: VALLEY TEL. CO.
+  lat: '45.598932'
+  long: "-96.900942"
+  closest_city:
+    name: Peever
+    distance_km: 7.63
+- country: US
+  region: SD
+  exchange: '181170'
+  name: W HAWARDEN
+  full_name: West Hawarden
+  lata: '630'
+  ilec_name: HEARTLAND TELECO OF IA DBA PREMIER COMMUNICATIONS
+  lat: '42.981201'
+  long: "-96.541542"
+  closest_city:
+    name: Alcester
+    distance_km: 8.66
+- country: US
+  region: SD
+  exchange: '181180'
+  name: WHENDRICKS
+  full_name: West Hendricks
+  lata: '620'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - MN
+  lat: '44.49856'
+  long: "-96.51652"
+  closest_city:
+    name: Astoria
+    distance_km: 6.99
+- country: US
+  region: SD
+  exchange: '181190'
+  name: WESTJASPER
+  full_name: West Jasper
+  lata: '620'
+  ilec_name: CITIZENS TELECOM CO MN-FRONTIER CITIZENS COM-MN
+  lat: '43.868063'
+  long: "-96.481042"
+  closest_city:
+    name: Sherman
+    distance_km: 12.28
+- country: US
+  region: SD
+  exchange: '181200'
+  name: W MARIETTA
+  full_name: West Marietta
+  lata: '626'
+  ilec_name: FARMERS MUTUAL TEL. CO.
+  lat: '45.018721'
+  long: "-96.483226"
+  closest_city:
+    name: Albee
+    distance_km: 6.6
+- country: US
+  region: SD
+  exchange: '181001'
+  name: WESTERVL
+  full_name: Westerville
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340348'
+  name: WESTPORT
+  full_name: Westport
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340349'
+  name: WETONKA
+  full_name: Wetonka
+  lata: '640'
+  ilec_name: VALLEY TELECOM COOP. ASSN., INC.
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340350'
+  name: WEWELA
+  full_name: Wewela
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '181210'
+  name: WHITE
+  full_name: White
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat: '44.433064'
+  long: "-96.6506"
+  closest_city:
+    name: White
+    distance_km: 0.48
+- country: US
+  region: SD
+  exchange: '340355'
+  name: WHITEBUTTE
+  full_name: White Butte
+  lata: '640'
+  ilec_name: WEST RIVER COOPERATIVE TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '181220'
+  name: WHITE LAKE
+  full_name: White Lake
+  lata: '640'
+  ilec_name: MIDSTATE COMMUNICATIONS, INC.
+  lat: '43.734216'
+  long: "-98.713618"
+  closest_city:
+    name: White Lake
+    distance_km: 0.67
+- country: US
+  region: SD
+  exchange: '340353'
+  name: WHITE OWL
+  full_name: White Owl
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '181230'
+  name: WHITERIVER
+  full_name: White River
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '43.565516'
+  long: "-100.751137"
+  closest_city:
+    name: White River
+    distance_km: 0.53
+- country: US
+  region: SD
+  exchange: '340354'
+  name: WHITE ROCK
+  full_name: White Rock
+  lata: '640'
+  ilec_name: VENTURE COMMUNICATIONS COOPERATIVE
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '181240'
+  name: WHITEWOOD
+  full_name: Whitewood
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '44.460168'
+  long: "-103.63319"
+  closest_city:
+    name: Whitewood
+    distance_km: 0.43
+- country: US
+  region: SD
+  exchange: '181250'
+  name: WICKSVILLE
+  full_name: Wicksville
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '44.125815'
+  long: "-102.573364"
+  closest_city:
+    name: Wasta
+    distance_km: 11.91
+- country: US
+  region: SD
+  exchange: '340359'
+  name: WILLOWLAKE
+  full_name: Willow Lake
+  lata: '640'
+  ilec_name: INTERSTATE TELECOM COOP, INC. - SD
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '181260'
+  name: WILMOT
+  full_name: Wilmot
+  lata: '640'
+  ilec_name: RC TECHNOLOGIES
+  lat: '45.406528'
+  long: "-96.856302"
+  closest_city:
+    name: Wilmot
+    distance_km: 0.32
+- country: US
+  region: SD
+  exchange: '181270'
+  name: WINFRED
+  full_name: Winfred
+  lata: '640'
+  ilec_name: TRIOTEL COMMUNICATIONS, INC.
+  lat: '43.998499'
+  long: "-97.367403"
+  closest_city:
+    name: Winfred
+    distance_km: 0.66
+- country: US
+  region: SD
+  exchange: '181280'
+  name: WINNER
+  full_name: Winner
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '43.37522'
+  long: "-99.859703"
+  closest_city:
+    name: Winner
+    distance_km: 0.45
+- country: US
+  region: SD
+  exchange: '181290'
+  name: WITTEN
+  full_name: Witten
+  lata: '640'
+  ilec_name: VIVIAN TEL CO DBA GOLDEN WEST TELECOMMUNICATIONS
+  lat: '43.435174'
+  long: "-100.08462"
+  closest_city:
+    name: Ideal
+    distance_km: 17.56
+- country: US
+  region: SD
+  exchange: '181300'
+  name: WOLSEY
+  full_name: Wolsey
+  lata: '640'
+  ilec_name: SANTEL COMMUNICATIONS COOPERATIVE, INC. - SD
+  lat: '44.410405'
+  long: "-98.473675"
+  closest_city:
+    name: Wolsey
+    distance_km: 0.01
+- country: US
+  region: SD
+  exchange: '181310'
+  name: WOOD
+  full_name: Wood
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat: '43.500334'
+  long: "-100.48139"
+  closest_city:
+    name: Wood
+    distance_km: 0.37
+- country: US
+  region: SD
+  exchange: '181320'
+  name: WOONSOCKET
+  full_name: Woonsocket
+  lata: '640'
+  ilec_name: SANTEL COMMUNICATIONS COOPERATIVE, INC. - SD
+  lat: '44.050972'
+  long: "-98.268168"
+  closest_city:
+    name: Woonsocket
+    distance_km: 0.49
+- country: US
+  region: SD
+  exchange: '181330'
+  name: WORTHING
+  full_name: Worthing
+  lata: '640'
+  ilec_name: CLARITY TELECOM, LLC DBA BLUEPEAK
+  lat: '43.323098'
+  long: "-96.76514"
+  closest_city:
+    name: Worthing
+    distance_km: 0.81
+- country: US
+  region: SD
+  exchange: '180453'
+  name: WOUNDED KN
+  full_name: Wounded Knee
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340369'
+  name: YALE
+  full_name: Yale
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '181340'
+  name: YANKTON
+  full_name: Yankton
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat: '42.875966'
+  long: "-97.394152"
+  closest_city:
+    name: Yankton
+    distance_km: 1.58
+- country: US
+  region: SD
+  exchange: '340371'
+  name: ZELL
+  full_name: Zell
+  lata: '640'
+  ilec_name: QWEST CORPORATION
+  lat:
+  long:
+- country: US
+  region: SD
+  exchange: '340372'
+  name: ZEONA
+  full_name: Zeona
+  lata: '640'
+  ilec_name: GOLDEN WEST TEL COOP INC DBA GOLDEN WEST TELECOMM
+  lat:
+  long:

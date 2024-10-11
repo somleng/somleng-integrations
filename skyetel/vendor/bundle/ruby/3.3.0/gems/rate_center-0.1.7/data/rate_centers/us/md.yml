@@ -1,0 +1,6608 @@
+---
+rate_centers:
+- country: US
+  region: MD
+  exchange: '311424'
+  name: ABELL
+  full_name: Abell
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079200'
+  name: ABERDEEN
+  full_name: Aberdeen
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.509036'
+  long: "-76.168188"
+  closest_city:
+    name: Aberdeen
+    distance_km: 0.8
+- country: US
+  region: MD
+  exchange: '311740'
+  name: ABNPRNGGRD
+  full_name: Aberdeen Proving Ground
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311739'
+  name: ABINGDON
+  full_name: Abingdon
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080081'
+  name: ACCIDENT
+  full_name: Accident
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.624379'
+  long: "-79.318973"
+  closest_city:
+    name: Accident
+    distance_km: 0.17
+- country: US
+  region: MD
+  exchange: '311425'
+  name: ACCOKEEK
+  full_name: Accokeek
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311995'
+  name: ADAMSTOWN
+  full_name: Adamstown
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311426'
+  name: ADELPHI
+  full_name: Adelphi
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312172'
+  name: ALLEN
+  full_name: Allen
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312173'
+  name: ANDREWS
+  full_name: Andrews
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311427'
+  name: ANDREWSAFB
+  full_name: Andrews Air Force Base
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079210'
+  name: ANNAPOLIS
+  full_name: Annapolis
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.98363'
+  long: "-76.496624"
+  closest_city:
+    name: Naval Academy
+    distance_km: 0.78
+- country: US
+  region: MD
+  exchange: '311428'
+  name: ANNAP JCTN
+  full_name: Annapolis Junction
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311429'
+  name: AQUASCO
+  full_name: Aquasco
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079220'
+  name: ARBUTUS
+  full_name: Arbutus
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.242734'
+  long: "-76.665694"
+  closest_city:
+    name: Lansdowne
+    distance_km: 0.69
+- country: US
+  region: MD
+  exchange: '311744'
+  name: ARLINGTON
+  full_name: Arlington
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079230'
+  name: ARGRGBSNIS
+  full_name: Armiger-Gibson Island
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.134131'
+  long: "-76.547622"
+  closest_city:
+    name: Pasadena
+    distance_km: 2.4
+- country: US
+  region: MD
+  exchange: '311745'
+  name: ARNOLD
+  full_name: Arnold
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311430'
+  name: ASHTON
+  full_name: Ashton
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079240'
+  name: ASHTON236
+  full_name: Ashton
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.150832'
+  long: "-77.022453"
+  closest_city:
+    name: Ashton-Sandy Spring
+    distance_km: 1.38
+- country: US
+  region: MD
+  exchange: '311746'
+  name: ASHTON
+  full_name: Ashton
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079241'
+  name: ASHTON238
+  full_name: Ashton (Baltimore LATA)
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.150832'
+  long: "-77.022453"
+  closest_city:
+    name: Ashton-Sandy Spring
+    distance_km: 1.38
+- country: US
+  region: MD
+  exchange: '311432'
+  name: ASPEN HILL
+  full_name: Aspen Hill
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311433'
+  name: AVENUE
+  full_name: Avenue
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079301'
+  name: BADEN
+  full_name: Baden
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311748'
+  name: BAINBRIDGE
+  full_name: Bainbridge
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311749'
+  name: BALDWIN
+  full_name: Baldwin
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079250'
+  name: BALTIMORE
+  full_name: Baltimore
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.298857'
+  long: "-76.614736"
+  closest_city:
+    name: Baltimore
+    distance_km: 0.69
+- country: US
+  region: MD
+  exchange: '312174'
+  name: BARCLAY
+  full_name: Barclay
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311435'
+  name: BARNESVL
+  full_name: Barnesville
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311752'
+  name: BARSTOW
+  full_name: Barstow
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311996'
+  name: BARTON
+  full_name: Barton
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311436'
+  name: BEALLSVL
+  full_name: Beallsville
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079260'
+  name: BEL AIR
+  full_name: Bel Air
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.534457'
+  long: "-76.348555"
+  closest_city:
+    name: Bel Air
+    distance_km: 0.22
+- country: US
+  region: MD
+  exchange: '311437'
+  name: BEL ALTON
+  full_name: Bel Alton
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311754'
+  name: BELCAMP
+  full_name: Belcamp
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311438'
+  name: BELTSVILLE
+  full_name: Beltsville
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311439'
+  name: BENEDICT
+  full_name: Benedict
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311755'
+  name: BENSON
+  full_name: Benson
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311756'
+  name: BENTLEYSPG
+  full_name: Bentley Springs
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079270'
+  name: BERLIN
+  full_name: Berlin
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.325612'
+  long: "-75.218044"
+  closest_city:
+    name: Berlin
+    distance_km: 0.66
+- country: US
+  region: MD
+  exchange: '311757'
+  name: BERWYN
+  full_name: Berwyn
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080652'
+  name: BERWYN
+  full_name: Berwyn
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.992001'
+  long: "-76.913396"
+  closest_city:
+    name: Berwyn Heights
+    distance_km: 0.09
+- country: US
+  region: MD
+  exchange: '080655'
+  name: BERWYN (BALTIMORE LATA)
+  full_name: Berwyn (Baltimore LATA)
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.992001'
+  long: "-76.913396"
+  closest_city:
+    name: Berwyn Heights
+    distance_km: 0.09
+- country: US
+  region: MD
+  exchange: '311440'
+  name: BERWYN
+  full_name: Berwyn (Prince George'S)
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311441'
+  name: BERWYN HGT
+  full_name: Berwyn Heights
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080571'
+  name: BETHESDA
+  full_name: Bethesda
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312176'
+  name: BETHLEHEM
+  full_name: Bethlehem
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312177'
+  name: BETTERTON
+  full_name: Betterton
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311997'
+  name: BIG POOL
+  full_name: Big Pool
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311998'
+  name: BIG SPRING
+  full_name: Big Spring
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312179'
+  name: BISHOSHEAD
+  full_name: Bishops Head
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079280'
+  name: BISHOPVL
+  full_name: Bishopville
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.433253'
+  long: "-75.219538"
+  closest_city:
+    name: Bishopville
+    distance_km: 1.27
+- country: US
+  region: MD
+  exchange: '079290'
+  name: BITTINGER
+  full_name: Bittinger
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.600739'
+  long: "-79.218183"
+  closest_city:
+    name: Jennings
+    distance_km: 6.1
+- country: US
+  region: MD
+  exchange: '312180'
+  name: BIVALVE
+  full_name: Bivalve
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311443'
+  name: BLADENSBG
+  full_name: Bladensburg
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312000'
+  name: BLOOMINGTN
+  full_name: Bloomington
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312001'
+  name: BOONSBORO
+  full_name: Boonsboro
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311758'
+  name: BORING
+  full_name: Boring
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311444'
+  name: BOWIE
+  full_name: Bowie
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080662'
+  name: BOWIGLNNDL
+  full_name: Bowie-Glenn Dale
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.982839'
+  long: "-76.813882"
+  closest_city:
+    name: Glenn Dale
+    distance_km: 0.86
+- country: US
+  region: MD
+  exchange: '080665'
+  name: BOWIE-GLENN DALE (BALTIMORE LATA)
+  full_name: Bowie-Glenn Dale (Baltimore LATA)
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.982839'
+  long: "-76.813882"
+  closest_city:
+    name: Glenn Dale
+    distance_km: 0.86
+- country: US
+  region: MD
+  exchange: '311759'
+  name: BOWIGLNNDL
+  full_name: Bowie-Glenn Dale (Howard)
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311446'
+  name: BOYDS
+  full_name: Boyds
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312181'
+  name: BOZMAN
+  full_name: Bozman
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312002'
+  name: BRADOCKHTS
+  full_name: Braddock Heights
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311760'
+  name: BRADSHAW
+  full_name: Bradshaw
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079300'
+  name: BRANDYWINE
+  full_name: Brandywine
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.699365'
+  long: "-76.845611"
+  closest_city:
+    name: Brandywine
+    distance_km: 3.4
+- country: US
+  region: MD
+  exchange: '311448'
+  name: BRENTWOOD
+  full_name: Brentwood
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311449'
+  name: BRINKLOW
+  full_name: Brinklow
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311450'
+  name: BROOKEVL
+  full_name: Brookeville
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311762'
+  name: BROOKLADVL
+  full_name: Brooklandville
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311763'
+  name: BROOKLYN
+  full_name: Brooklyn
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311761'
+  name: BRKLYN PK
+  full_name: Brooklyn Park
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079310'
+  name: BRYNPKLNCM
+  full_name: Brooklyn Park-Linthicum
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.21652'
+  long: "-76.61725"
+  closest_city:
+    name: Brooklyn Park
+    distance_km: 0.05
+- country: US
+  region: MD
+  exchange: '312182'
+  name: BROOKVIEW
+  full_name: Brookview
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311765'
+  name: BROOMES IS
+  full_name: Broomes Island
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312003'
+  name: BROWNSVL
+  full_name: Brownsville
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079320'
+  name: BRUNSWICK
+  full_name: Brunswick
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.315187'
+  long: "-77.622985"
+  closest_city:
+    name: Brunswick
+    distance_km: 0.37
+- country: US
+  region: MD
+  exchange: '079841'
+  name: BRYANSROAD
+  full_name: Bryans Road
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311452'
+  name: BRYANTOWN
+  full_name: Bryantown
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079330'
+  name: BUCKEYSTN
+  full_name: Buckeystown
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.33233'
+  long: "-77.435383"
+  closest_city:
+    name: Buckeystown
+    distance_km: 0.92
+- country: US
+  region: MD
+  exchange: '312006'
+  name: BURKITTSVL
+  full_name: Burkittsville
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311453'
+  name: BURTONSVL
+  full_name: Burtonsville
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311454'
+  name: BUSHWOOD
+  full_name: Bushwood
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311767'
+  name: BUTLER
+  full_name: Butler
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311768'
+  name: BWI AIRPT
+  full_name: Bwi Airport
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311455'
+  name: CABIN JOHN
+  full_name: Cabin John
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311456'
+  name: CALIFORNIA
+  full_name: California
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311457'
+  name: CALLAWAY
+  full_name: Callaway
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311458'
+  name: CALVERTON
+  full_name: Calverton
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079340'
+  name: CAMBRIDGE
+  full_name: Cambridge
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.568223'
+  long: "-76.075007"
+  closest_city:
+    name: Cambridge
+    distance_km: 1.89
+- country: US
+  region: MD
+  exchange: '311459'
+  name: CAMP SPGRS
+  full_name: Camp Springs
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311792'
+  name: CP ST CLAR
+  full_name: Cape Saint Claire
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311769'
+  name: CAPSTCLAIR
+  full_name: Cape St Claire
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080601'
+  name: CAPITOLHTS
+  full_name: Capitol Heights
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079350'
+  name: CARDIFF
+  full_name: Cardiff
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.71551'
+  long: "-76.342007"
+  closest_city:
+    name: Pylesville
+    distance_km: 4.96
+- country: US
+  region: MD
+  exchange: '311771'
+  name: CARROLL
+  full_name: Carroll
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311772'
+  name: CARROLLTON
+  full_name: Carrollton
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311773'
+  name: CARVEL BCH
+  full_name: Carvel Beach
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312007'
+  name: CASCADE
+  full_name: Cascade
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079360'
+  name: CATONSVL
+  full_name: Catonsville
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.268168'
+  long: "-76.74375"
+  closest_city:
+    name: Catonsville
+    distance_km: 0.41
+- country: US
+  region: MD
+  exchange: '312008'
+  name: CAVETOWN
+  full_name: Cavetown
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079370'
+  name: CECILTON
+  full_name: Cecilton
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.399552'
+  long: "-75.876162"
+  closest_city:
+    name: Cecilton
+    distance_km: 0.94
+- country: US
+  region: MD
+  exchange: '079380'
+  name: CENTREVL
+  full_name: Centreville
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.040616'
+  long: "-76.069293"
+  closest_city:
+    name: Centreville
+    distance_km: 0.56
+- country: US
+  region: MD
+  exchange: '312186'
+  name: CHANCE
+  full_name: Chance
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311461'
+  name: CHAPTICO
+  full_name: Chaptico
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311775'
+  name: CHARLESTN
+  full_name: Charlestown
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311462'
+  name: CHARLOHALL
+  full_name: Charlotte Hall
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079390'
+  name: CHASE
+  full_name: Chase
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.358663'
+  long: "-76.364615"
+  closest_city:
+    name: Bowleys Quarters
+    distance_km: 4.68
+- country: US
+  region: MD
+  exchange: '311463'
+  name: CHELTENHAM
+  full_name: Cheltenham
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311777'
+  name: CHESAPKBCH
+  full_name: Chesapeake Beach
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079400'
+  name: CHESAPKECY
+  full_name: Chesapeake City
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.532165'
+  long: "-75.811196"
+  closest_city:
+    name: Chesapeake City
+    distance_km: 0.49
+- country: US
+  region: MD
+  exchange: '312188'
+  name: CHESTER
+  full_name: Chester
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079410'
+  name: CHESTERTN
+  full_name: Chestertown
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.207798'
+  long: "-76.067884"
+  closest_city:
+    name: Chestertown
+    distance_km: 1.2
+- country: US
+  region: MD
+  exchange: '311779'
+  name: CHSTNUT HL
+  full_name: Chestnut Hill Cove
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311464'
+  name: CHEVERLY
+  full_name: Cheverly
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311465'
+  name: CHEVYCHASE
+  full_name: Chevy Chase
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311467'
+  name: CHVYCHS VL
+  full_name: Chevy Chase Village
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312009'
+  name: CHEWSVILLE
+  full_name: Chewsville
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311778'
+  name: CHILDS
+  full_name: Childs
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311466'
+  name: CHILLUM
+  full_name: Chillum
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312190'
+  name: CHURCH CRK
+  full_name: Church Creek
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079420'
+  name: CHURCHHILL
+  full_name: Church Hill
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.140006'
+  long: "-75.985224"
+  closest_city:
+    name: Church Hill
+    distance_km: 0.69
+- country: US
+  region: MD
+  exchange: '311780'
+  name: CHURCHTON
+  full_name: Churchton
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079430'
+  name: CHURCHVL
+  full_name: Churchville
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.557647'
+  long: "-76.247132"
+  closest_city:
+    name: Aberdeen
+    distance_km: 7.9
+- country: US
+  region: MD
+  exchange: '312192'
+  name: CLAIBORNE
+  full_name: Claiborne
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311468'
+  name: CLARKSBURG
+  full_name: Clarksburg
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079461'
+  name: CLARKSVL
+  full_name: Clarksville
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079440'
+  name: CLEAR SPG
+  full_name: Clear Spring
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.655189'
+  long: "-77.932546"
+  closest_city:
+    name: Clear Spring
+    distance_km: 0.22
+- country: US
+  region: MD
+  exchange: '311784'
+  name: CLRWTR BCH
+  full_name: Clearwater Beach
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311469'
+  name: CLEMENTS
+  full_name: Clements
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311783'
+  name: CLIFTON
+  full_name: Clifton
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080681'
+  name: CLINTON
+  full_name: Clinton
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311471'
+  name: COBBISLAND
+  full_name: Cobb Island
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079450'
+  name: COCKEYSVL
+  full_name: Cockeysville
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.484512'
+  long: "-76.648477"
+  closest_city:
+    name: Cockeysville
+    distance_km: 1.7
+- country: US
+  region: MD
+  exchange: '311472'
+  name: COLESVILLE
+  full_name: Colesville
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311473'
+  name: COLLEGE PK
+  full_name: College Park
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311474'
+  name: COLMAR MNR
+  full_name: Colmar Manor
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311786'
+  name: COLORA
+  full_name: Colora
+  lata: '238'
+  ilec_name: ARMSTRONG TEL. CO. OF MARYLAND
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311475'
+  name: COLTONS PT
+  full_name: Coltons Point
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079460'
+  name: COLUMBIA
+  full_name: Columbia
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.216759'
+  long: "-76.855146"
+  closest_city:
+    name: Columbia
+    distance_km: 1.85
+- country: US
+  region: MD
+  exchange: '311476'
+  name: COMPTON
+  full_name: Compton
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311790'
+  name: CONOWINGO
+  full_name: Conowingo
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311791'
+  name: COOKSVILLE
+  full_name: Cooksville
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312193'
+  name: CORDOVA
+  full_name: Cordova
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312011'
+  name: CORRIGANVL
+  full_name: Corriganville
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311477'
+  name: COTTAGE CY
+  full_name: Cottage City
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312194'
+  name: CRAPO
+  full_name: Crapo
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312012'
+  name: CRELLIN
+  full_name: Crellin
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079491'
+  name: CRESAPTOWN
+  full_name: Cresaptown
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079470'
+  name: CRISFIELD
+  full_name: Crisfield
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '37.985447'
+  long: "-75.851111"
+  closest_city:
+    name: Crisfield
+    distance_km: 0.16
+- country: US
+  region: MD
+  exchange: '312196'
+  name: CROCHERON
+  full_name: Crocheron
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079480'
+  name: CROFTON
+  full_name: Crofton
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.989333'
+  long: "-76.671436"
+  closest_city:
+    name: Crofton
+    distance_km: 2.88
+- country: US
+  region: MD
+  exchange: '311794'
+  name: CROWNSVL
+  full_name: Crownsville
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312197'
+  name: CRUMPTON
+  full_name: Crumpton
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079490'
+  name: CUMBERLAND
+  full_name: Cumberland
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.65019'
+  long: "-78.754641"
+  closest_city:
+    name: Cumberland
+    distance_km: 0.35
+- country: US
+  region: MD
+  exchange: '311795'
+  name: CURTIS BAY
+  full_name: Curtis Bay
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311479'
+  name: DAMASCUS
+  full_name: Damascus
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079500'
+  name: DAMASCS236
+  full_name: Damascus
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.289041'
+  long: "-77.207931"
+  closest_city:
+    name: Damascus
+    distance_km: 2.35
+- country: US
+  region: MD
+  exchange: '079501'
+  name: DAMASCS240
+  full_name: Damascus (Hagerstown LATA)
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.289041'
+  long: "-77.207931"
+  closest_city:
+    name: Damascus
+    distance_km: 2.35
+- country: US
+  region: MD
+  exchange: '312016'
+  name: DAMASCUS
+  full_name: Damascus (Montgomery)
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311480'
+  name: DAMERON
+  full_name: Dameron
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312198'
+  name: DAMESQURTR
+  full_name: Dames Quarter
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311796'
+  name: DANIELS
+  full_name: Daniels
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311797'
+  name: DARESBEACH
+  full_name: Dares Beach
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079510'
+  name: DARLINGTON
+  full_name: Darlington
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.642714'
+  long: "-76.197707"
+  closest_city:
+    name: Darlington
+    distance_km: 0.5
+- country: US
+  region: MD
+  exchange: '311481'
+  name: DARNESTOWN
+  full_name: Darnestown
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311799'
+  name: DAVIDSONVL
+  full_name: Davidsonville
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311800'
+  name: DAYTON
+  full_name: Dayton
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079520'
+  name: DEALISLAND
+  full_name: Deal Island
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.158793'
+  long: "-75.951559"
+  closest_city:
+    name: Deal Island
+    distance_km: 1.82
+- country: US
+  region: MD
+  exchange: '311801'
+  name: DEALE
+  full_name: Deale
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312017'
+  name: DEER PARK
+  full_name: Deer Park
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079530'
+  name: DELMAR
+  full_name: Delmar
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.459798'
+  long: "-75.577138"
+  closest_city:
+    name: Delmar
+    distance_km: 1.9
+- country: US
+  region: MD
+  exchange: '079540'
+  name: DENTON
+  full_name: Denton
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.882775'
+  long: "-75.823619"
+  closest_city:
+    name: Denton
+    distance_km: 0.69
+- country: US
+  region: MD
+  exchange: '311482'
+  name: DENTSVILLE
+  full_name: Dentsville
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311483'
+  name: DERWOOD
+  full_name: Derwood
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311802'
+  name: DETOUR
+  full_name: Detour
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311484'
+  name: DICKERSON
+  full_name: Dickerson
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311485'
+  name: DISTRITHTS
+  full_name: District Heights
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312018'
+  name: DOUBS
+  full_name: Doubs
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311803'
+  name: DOWELL
+  full_name: Dowell
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311486'
+  name: DRAYDEN
+  full_name: Drayden
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311804'
+  name: DRUID
+  full_name: Druid
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079550'
+  name: DUNDALK
+  full_name: Dundalk
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.255355'
+  long: "-76.524133"
+  closest_city:
+    name: Dundalk
+    distance_km: 3.07
+- country: US
+  region: MD
+  exchange: '311806'
+  name: DUNKIRK
+  full_name: Dunkirk
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311807'
+  name: EAGLE HRBR
+  full_name: Eagle Harbor
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312202'
+  name: EARLEVILLE
+  full_name: Earleville
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311808'
+  name: EAST CASE
+  full_name: East Case
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312206'
+  name: ENEWMARKET
+  full_name: East New Market
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079560'
+  name: EASTON
+  full_name: Easton
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.774697'
+  long: "-76.074167"
+  closest_city:
+    name: Easton
+    distance_km: 0.38
+- country: US
+  region: MD
+  exchange: '311809'
+  name: EASTPORT
+  full_name: Eastport
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312019'
+  name: ECKHATMINS
+  full_name: Eckhart Mines
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312204'
+  name: EDEN
+  full_name: Eden
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311810'
+  name: EDGEMERE
+  full_name: Edgemere
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311811'
+  name: EDGEWATER
+  full_name: Edgewater
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079570'
+  name: EDGEWOOD
+  full_name: Edgewood
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.423171'
+  long: "-76.298182"
+  closest_city:
+    name: Edgewood
+    distance_km: 0.49
+- country: US
+  region: MD
+  exchange: '311812'
+  name: EDGEWDASNL
+  full_name: Edgewood Arsenal
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311814'
+  name: ELDERSBURG
+  full_name: Eldersburg
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312205'
+  name: ELDORADO
+  full_name: Eldorado
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311815'
+  name: ELK MILLS
+  full_name: Elk Mills
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079580'
+  name: ELKRIDGE
+  full_name: Elkridge
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.215775'
+  long: "-76.718997"
+  closest_city:
+    name: Elkridge
+    distance_km: 3.16
+- country: US
+  region: MD
+  exchange: '079590'
+  name: ELKTON
+  full_name: Elkton
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.617594'
+  long: "-75.833868"
+  closest_city:
+    name: Elkton
+    distance_km: 1.65
+- country: US
+  region: MD
+  exchange: '312020'
+  name: ELLERSLIE
+  full_name: Ellerslie
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079600'
+  name: ELLICOTTCY
+  full_name: Ellicott City
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.266621'
+  long: "-76.802902"
+  closest_city:
+    name: Ellicott City
+    distance_km: 2.97
+- country: US
+  region: MD
+  exchange: '079610'
+  name: EMMITSBURG
+  full_name: Emmitsburg
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.70647'
+  long: "-77.32388"
+  closest_city:
+    name: Emmitsburg
+    distance_km: 0.24
+- country: US
+  region: MD
+  exchange: '079620'
+  name: ESSEX
+  full_name: Essex
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.319698'
+  long: "-76.508928"
+  closest_city:
+    name: Rosedale
+    distance_km: 0.77
+- country: US
+  region: MD
+  exchange: '311820'
+  name: EUDOWOOD
+  full_name: Eudowood
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312207'
+  name: EWELL
+  full_name: Ewell
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312208'
+  name: FAIRMOUNT
+  full_name: Fairmount
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311487'
+  name: FAIRMNTHTS
+  full_name: Fairmount Heights
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312022'
+  name: FAIRPLAY
+  full_name: Fairplay
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079630'
+  name: FALLSTON
+  full_name: Fallston
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.481787'
+  long: "-76.375136"
+  closest_city:
+    name: Pleasant Hills
+    distance_km: 1.43
+- country: US
+  region: MD
+  exchange: '311488'
+  name: FAULKNER
+  full_name: Faulkner
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079640'
+  name: FEDERALSBG
+  full_name: Federalsburg
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.699202'
+  long: "-75.775523"
+  closest_city:
+    name: Federalsburg
+    distance_km: 0.74
+- country: US
+  region: MD
+  exchange: '311822'
+  name: FERNDALE
+  full_name: Ferndale
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311823'
+  name: FINKSBURG
+  full_name: Finksburg
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312210'
+  name: FISHINGCRK
+  full_name: Fishing Creek
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079650'
+  name: FLINTSTONE
+  full_name: Flintstone
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.702185'
+  long: "-78.566266"
+  closest_city:
+    name: Flintstone
+    distance_km: 0.81
+- country: US
+  region: MD
+  exchange: '311489'
+  name: FOREST HGT
+  full_name: Forest Heights
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311824'
+  name: FORESTHILL
+  full_name: Forest Hill
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311490'
+  name: FORESTVL
+  full_name: Forestville
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079660'
+  name: FORK
+  full_name: Fork
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.467722'
+  long: "-76.431622"
+  closest_city:
+    name: Kingsville
+    distance_km: 2.23
+- country: US
+  region: MD
+  exchange: '312027'
+  name: FT DETRICK
+  full_name: Fort Detrick
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311833'
+  name: FTGRGEGMDE
+  full_name: Fort George G Meade
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311827'
+  name: FORTHOWARD
+  full_name: Fort Howard
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311826'
+  name: FORT MEADE
+  full_name: Fort Meade
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312028'
+  name: FT RITCHIE
+  full_name: Fort Ritchie
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311491'
+  name: FORT WASH
+  full_name: Fort Washington
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311828'
+  name: FOWBELSBRG
+  full_name: Fowbelsburg
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311829'
+  name: FRANKLIN
+  full_name: Franklin
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079670'
+  name: FREDERICK
+  full_name: Frederick
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.418292'
+  long: "-77.409057"
+  closest_city:
+    name: Frederick
+    distance_km: 1.77
+- country: US
+  region: MD
+  exchange: '311831'
+  name: FREELAND
+  full_name: Freeland
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311832'
+  name: FRIENDSHIP
+  full_name: Friendship
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079680'
+  name: FRIENDSVL
+  full_name: Friendsville
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.664591'
+  long: "-79.39851"
+  closest_city:
+    name: Friendsville
+    distance_km: 0.56
+- country: US
+  region: MD
+  exchange: '079690'
+  name: FROSTBURG
+  full_name: Frostburg
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.649982'
+  long: "-78.926306"
+  closest_city:
+    name: Frostburg
+    distance_km: 0.09
+- country: US
+  region: MD
+  exchange: '312211'
+  name: FRUITLAND
+  full_name: Fruitland
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311834'
+  name: FULTON
+  full_name: Fulton
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312029'
+  name: FUNKSTOWN
+  full_name: Funkstown
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311835'
+  name: GAITHER
+  full_name: Gaither
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079700'
+  name: GAITHERSBG
+  full_name: Gaithersburg
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.141869'
+  long: "-77.202938"
+  closest_city:
+    name: Gaithersburg
+    distance_km: 1.19
+- country: US
+  region: MD
+  exchange: '079710'
+  name: GALENA
+  full_name: Galena
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.341189'
+  long: "-75.872024"
+  closest_city:
+    name: Galena
+    distance_km: 0.59
+- country: US
+  region: MD
+  exchange: '312213'
+  name: GALESTOWN
+  full_name: Galestown
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311836'
+  name: GALESVILLE
+  full_name: Galesville
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311837'
+  name: GAMBRILLS
+  full_name: Gambrills
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312030'
+  name: GAPLAND
+  full_name: Gapland
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311493'
+  name: GARRETT PK
+  full_name: Garrett Park
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311838'
+  name: GARRISON
+  full_name: Garrison
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312214'
+  name: GEORGETOWN
+  full_name: Georgetown
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079701'
+  name: GERMANTOWN
+  full_name: Germantown
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311839'
+  name: GIBSON IS
+  full_name: Gibson Island
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312215'
+  name: GIRDLETREE
+  full_name: Girdletree
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311840'
+  name: GLEN ARM
+  full_name: Glen Arm
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079720'
+  name: GLENBURNIE
+  full_name: Glen Burnie
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.165997'
+  long: "-76.626973"
+  closest_city:
+    name: Glen Burnie
+    distance_km: 2.04
+- country: US
+  region: MD
+  exchange: '311495'
+  name: GLEN ECHO
+  full_name: Glen Echo
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311496'
+  name: GLENARDEN
+  full_name: Glenarden
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311842'
+  name: GLENCOE
+  full_name: Glencoe
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311843'
+  name: GLENELG
+  full_name: Glenelg
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311497'
+  name: GLENN DALE
+  full_name: Glenn Dale
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079730'
+  name: GLENWOOD
+  full_name: Glenwood
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.315605'
+  long: "-77.018407"
+  closest_city:
+    name: Lisbon
+    distance_km: 4.99
+- country: US
+  region: MD
+  exchange: '311845'
+  name: GLYNDON
+  full_name: Glyndon
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312216'
+  name: GOLDSBORO
+  full_name: Goldsboro
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312217'
+  name: GOLTS
+  full_name: Golts
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311846'
+  name: GOVANS
+  full_name: Govans
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312031'
+  name: GRACEHAM
+  full_name: Graceham
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311847'
+  name: GRANITE
+  full_name: Granite
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079740'
+  name: GRANTSVL
+  full_name: Grantsville
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.702655'
+  long: "-79.159295"
+  closest_city:
+    name: Grantsville
+    distance_km: 0.85
+- country: US
+  region: MD
+  exchange: '312218'
+  name: GRASONVL
+  full_name: Grasonville
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311498'
+  name: GREATMILLS
+  full_name: Great Mills
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311848'
+  name: GREENHAVEN
+  full_name: Green Haven
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311499'
+  name: GREENBELT
+  full_name: Greenbelt
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311850'
+  name: GRNLND BCH
+  full_name: Greenland Beach
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311849'
+  name: GREENMOUNT
+  full_name: Greenmount
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079750'
+  name: GREENSBORO
+  full_name: Greensboro
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.976158'
+  long: "-75.810027"
+  closest_city:
+    name: Greensboro
+    distance_km: 0.18
+- country: US
+  region: MD
+  exchange: '311851'
+  name: GUNPOWDER
+  full_name: Gunpowder
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311852'
+  name: GWYNN OAK
+  full_name: Gwynn Oak
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079760'
+  name: HAGERSTOWN
+  full_name: Hagerstown
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.64219'
+  long: "-77.728048"
+  closest_city:
+    name: Hagerstown
+    distance_km: 0.59
+- country: US
+  region: MD
+  exchange: '311853'
+  name: HALETHORPE
+  full_name: Halethorpe
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079770'
+  name: HAMPSTEAD
+  full_name: Hampstead
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.598245'
+  long: "-76.84949"
+  closest_city:
+    name: Hampstead
+    distance_km: 1.44
+- country: US
+  region: MD
+  exchange: '079780'
+  name: HANCOCK
+  full_name: Hancock
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.708618'
+  long: "-78.173049"
+  closest_city:
+    name: Hancock
+    distance_km: 0.39
+- country: US
+  region: MD
+  exchange: '311855'
+  name: HANOVER
+  full_name: Hanover
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311856'
+  name: HARMANS
+  full_name: Harmans
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311857'
+  name: HARWOOD
+  full_name: Harwood
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079790'
+  name: HAVREGRACE
+  full_name: Havre de Grace
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.551655'
+  long: "-76.092348"
+  closest_city:
+    name: Havre de Grace
+    distance_km: 1.95
+- country: US
+  region: MD
+  exchange: '312220'
+  name: HEBRON
+  full_name: Hebron
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311500'
+  name: HELEN
+  full_name: Helen
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312221'
+  name: HENDERSON
+  full_name: Henderson
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311859'
+  name: HENRYTON
+  full_name: Henryton
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311860'
+  name: HEREFORD
+  full_name: Hereford
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311501'
+  name: HERMANVL
+  full_name: Hermanville
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079800'
+  name: HIGHFIELD
+  full_name: Highfield
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.715984'
+  long: "-77.488913"
+  closest_city:
+    name: Highfield-Cascade
+    distance_km: 0.55
+- country: US
+  region: MD
+  exchange: '311502'
+  name: HIGHLAND
+  full_name: Highland
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311862'
+  name: HIGHLD BCH
+  full_name: Highland Beach
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311861'
+  name: HIGHLANDTN
+  full_name: Highlandtown
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311503'
+  name: HILLCR HT
+  full_name: Hillcrest Heights
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079810'
+  name: HILLSBORO
+  full_name: Hillsboro
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.918763'
+  long: "-75.949628"
+  closest_city:
+    name: Hillsboro
+    distance_km: 0.72
+- country: US
+  region: MD
+  exchange: '311863'
+  name: HOLLAND PT
+  full_name: Holland Point
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079901'
+  name: HOLLYWOOD
+  full_name: Hollywood
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312223'
+  name: HOOPERSVL
+  full_name: Hoopersville
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079820'
+  name: HUGHESVL
+  full_name: Hughesville
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.533625'
+  long: "-76.786283"
+  closest_city:
+    name: Hughesville
+    distance_km: 1.09
+- country: US
+  region: MD
+  exchange: '311864'
+  name: HUNTINGTN
+  full_name: Huntingtown
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079830'
+  name: HURLOCK
+  full_name: Hurlock
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.632841'
+  long: "-75.857913"
+  closest_city:
+    name: Hurlock
+    distance_km: 0.85
+- country: US
+  region: MD
+  exchange: '312036'
+  name: HUTTON
+  full_name: Hutton
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311506'
+  name: HYATTSTOWN
+  full_name: Hyattstown
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080592'
+  name: HYATTSVL
+  full_name: Hyattsville
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080593'
+  name: HYATTSVILLE (BALTIMORE LATA)
+  full_name: Hyattsville (Baltimore LATA)
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311865'
+  name: HYDES
+  full_name: Hydes
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311866'
+  name: IDLEWYLDE
+  full_name: Idlewylde
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312037'
+  name: IJAMSVILLE
+  full_name: Ijamsville
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311867'
+  name: ILCHESTER
+  full_name: Ilchester
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079840'
+  name: INDIANHEAD
+  full_name: Indian Head
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.601179'
+  long: "-77.168378"
+  closest_city:
+    name: Indian Head
+    distance_km: 1.15
+- country: US
+  region: MD
+  exchange: '312225'
+  name: INGLESIDE
+  full_name: Ingleside
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311509'
+  name: IRONSIDES
+  full_name: Ironsides
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311510'
+  name: ISSUE
+  full_name: Issue
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311868'
+  name: JACKSONVL
+  full_name: Jacksonville
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079850'
+  name: JARRETTSVL
+  full_name: Jarrettsville
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.60816'
+  long: "-76.48453"
+  closest_city:
+    name: Jarrettsville
+    distance_km: 0.98
+- country: US
+  region: MD
+  exchange: '079851'
+  name: JARRETTSVILLE 941
+  full_name: Jarrettsville 941
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.60816'
+  long: "-76.48453"
+  closest_city:
+    name: Jarrettsville
+    distance_km: 0.98
+- country: US
+  region: MD
+  exchange: '312038'
+  name: JEFFERSON
+  full_name: Jefferson
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312039'
+  name: JENNINGS
+  full_name: Jennings
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311870'
+  name: JESSUP
+  full_name: Jessup
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311871'
+  name: JOPPA
+  full_name: Joppa
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079860'
+  name: KEEDYSVL
+  full_name: Keedysville
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.494775'
+  long: "-77.700713"
+  closest_city:
+    name: Keedysville
+    distance_km: 0.93
+- country: US
+  region: MD
+  exchange: '312226'
+  name: KENNEDYVL
+  full_name: Kennedyville
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080631'
+  name: KENSINGTON
+  full_name: Kensington
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311512'
+  name: KETTERING
+  full_name: Kettering
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311872'
+  name: KEYMAR
+  full_name: Keymar
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312227'
+  name: KINGSTON
+  full_name: Kingston
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311873'
+  name: KINGSVILLE
+  full_name: Kingsville
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079870'
+  name: KITZMILLER
+  full_name: Kitzmiller
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.392515'
+  long: "-79.175774"
+  closest_city:
+    name: Kitzmiller
+    distance_km: 0.73
+- country: US
+  region: MD
+  exchange: '312042'
+  name: KNOXVILLE
+  full_name: Knoxville
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079880'
+  name: LA PLATA
+  full_name: La Plata
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.523757'
+  long: "-76.97334"
+  closest_city:
+    name: La Plata
+    distance_km: 1.31
+- country: US
+  region: MD
+  exchange: '312043'
+  name: LA VALE
+  full_name: La Vale
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312044'
+  name: LADIESBURG
+  full_name: Ladiesburg
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311874'
+  name: LAKE SHORE
+  full_name: Lake Shore
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311514'
+  name: LANDOVER
+  full_name: Landover
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311515'
+  name: LANDOVRHL
+  full_name: Landover Hills
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311516'
+  name: LANGLEY PK
+  full_name: Langley Park
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311517'
+  name: LANHAM
+  full_name: Lanham
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311518'
+  name: LANHAMSEAB
+  full_name: Lanham Seabrook
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311875'
+  name: LANSDOWNE
+  full_name: Lansdowne
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312045'
+  name: LANTZ
+  full_name: Lantz
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311519'
+  name: LARGO
+  full_name: Largo
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079890'
+  name: LAUREL236
+  full_name: Laurel
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.108944'
+  long: "-76.851463"
+  closest_city:
+    name: Laurel
+    distance_km: 1.82
+- country: US
+  region: MD
+  exchange: '311520'
+  name: LAUREL
+  full_name: Laurel
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311876'
+  name: LAUREL
+  full_name: Laurel
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311521'
+  name: LAUREL
+  full_name: Laurel
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079891'
+  name: LAUREL238
+  full_name: Laurel (Baltimore LATA)
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.108944'
+  long: "-76.851463"
+  closest_city:
+    name: Laurel
+    distance_km: 1.82
+- country: US
+  region: MD
+  exchange: '312046'
+  name: LAVALE
+  full_name: Lavale
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080641'
+  name: LAYHILL
+  full_name: Layhill
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311524'
+  name: LAYTONSVL
+  full_name: Laytonsville
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312048'
+  name: LE GORE
+  full_name: Le Gore
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079900'
+  name: LEONARDTN
+  full_name: Leonardtown
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.292741'
+  long: "-76.630212"
+  closest_city:
+    name: Leonardtown
+    distance_km: 1.48
+- country: US
+  region: MD
+  exchange: '312049'
+  name: LEWISTOWN
+  full_name: Lewistown
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311527'
+  name: LXTN PARK
+  full_name: Lexington Park
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079910'
+  name: LXTNPKGRML
+  full_name: Lexington Park-Great Mills
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.239616'
+  long: "-76.492433"
+  closest_city:
+    name: Callaway
+    distance_km: 2.8
+- country: US
+  region: MD
+  exchange: '311878'
+  name: LIBERTYGRV
+  full_name: Liberty Grove
+  lata: '238'
+  ilec_name: ARMSTRONG TEL. CO. OF MARYLAND
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312050'
+  name: LIBERTYTN
+  full_name: Libertytown
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312051'
+  name: LIME KILN
+  full_name: Lime Kiln
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311879'
+  name: LINEBORO
+  full_name: Lineboro
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312228'
+  name: LINKWOOD
+  full_name: Linkwood
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311880'
+  name: LINTHICUM
+  full_name: Linthicum
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311881'
+  name: LINTHIMHTS
+  full_name: Linthicum Heights
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311882'
+  name: LINWOOD
+  full_name: Linwood
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311883'
+  name: LISBON
+  full_name: Lisbon
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312053'
+  name: LTLORLEANS
+  full_name: Little Orleans
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311884'
+  name: LOCH HILL
+  full_name: Loch Hill
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312047'
+  name: LCHLYNNHTS
+  full_name: Loch Lynn Heights
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311885'
+  name: LOCH RAVEN
+  full_name: Loch Raven
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079920'
+  name: LONACONING
+  full_name: Lonaconing
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.566018'
+  long: "-78.977279"
+  closest_city:
+    name: Lonaconing
+    distance_km: 0.15
+- country: US
+  region: MD
+  exchange: '311886'
+  name: LONG GREEN
+  full_name: Long Green
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311887'
+  name: LOTHIAN
+  full_name: Lothian
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311526'
+  name: LOVEVILLE
+  full_name: Loveville
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312054'
+  name: LUKE
+  full_name: Luke
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311888'
+  name: LUSBY
+  full_name: Lusby
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311890'
+  name: LUTHERVL
+  full_name: Lutherville
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311889'
+  name: LUTHELTMNM
+  full_name: Lutherville Timonium
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312229'
+  name: LYNCH
+  full_name: Lynch
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311529'
+  name: MADDOX
+  full_name: Maddox
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312230'
+  name: MADISON
+  full_name: Madison
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311891'
+  name: MAGNOLIA
+  full_name: Magnolia
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311892'
+  name: MANCHESTER
+  full_name: Manchester
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312231'
+  name: MANOKIN
+  full_name: Manokin
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311530'
+  name: MARBURY
+  full_name: Marbury
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312232'
+  name: MARDELA
+  full_name: Mardela
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312233'
+  name: MARDELASPG
+  full_name: Mardela Springs
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079930'
+  name: MARION
+  full_name: Marion
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.039146'
+  long: "-75.766888"
+  closest_city:
+    name: Fairmount
+    distance_km: 7.8
+- country: US
+  region: MD
+  exchange: '312235'
+  name: MARION STA
+  full_name: Marion Station
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080672'
+  name: MARLBORO
+  full_name: Marlboro
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080673'
+  name: MARLBORO
+  full_name: Marlboro
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311532'
+  name: MARLOW HGT
+  full_name: Marlow Heights
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311894'
+  name: MARRIOTSVL
+  full_name: Marriottsville
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311533'
+  name: MARTINS AD
+  full_name: Martins Additions
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312236'
+  name: MARYDEL
+  full_name: Marydel
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311895'
+  name: MARYLD CTY
+  full_name: Maryland City
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311896'
+  name: MARYLDLINE
+  full_name: Maryland Line
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312237'
+  name: MASSEY
+  full_name: Massey
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312055'
+  name: MAUGANSVL
+  full_name: Maugansville
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080701'
+  name: MAYO
+  full_name: Mayo
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079940'
+  name: MCCOOLE
+  full_name: McCoole
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.450402'
+  long: "-78.976967"
+  closest_city:
+    name: McCoole
+    distance_km: 0.46
+- country: US
+  region: MD
+  exchange: '312238'
+  name: MCDANIEL
+  full_name: McDaniel
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311899'
+  name: MCDONOGH
+  full_name: McDonogh
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311898'
+  name: MCDONGH RN
+  full_name: McDonogh Run
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312057'
+  name: MCHENRY
+  full_name: McHenry
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079950'
+  name: MECHANCSVL
+  full_name: Mechanicsville
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.441607'
+  long: "-76.739872"
+  closest_city:
+    name: Mechanicsville
+    distance_km: 0.71
+- country: US
+  region: MD
+  exchange: '311900'
+  name: MIDDLE RIV
+  full_name: Middle River
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311901'
+  name: MIDDLEBURG
+  full_name: Middleburg
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079960'
+  name: MIDDLETOWN
+  full_name: Middletown
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.442505'
+  long: "-77.538599"
+  closest_city:
+    name: Middletown
+    distance_km: 0.35
+- country: US
+  region: MD
+  exchange: '312059'
+  name: MIDLAND
+  full_name: Midland
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312060'
+  name: MIDLOTHIAN
+  full_name: Midlothian
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079902'
+  name: MILESTOWN
+  full_name: Milestown
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311902'
+  name: MILLERS
+  full_name: Millers
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079970'
+  name: MILLERSVL
+  full_name: Millersville
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.058581'
+  long: "-76.644894"
+  closest_city:
+    name: Gambrills
+    distance_km: 3.83
+- country: US
+  region: MD
+  exchange: '079980'
+  name: MILLINGTON
+  full_name: Millington
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.256828'
+  long: "-75.841041"
+  closest_city:
+    name: Millington
+    distance_km: 0.8
+- country: US
+  region: MD
+  exchange: '311535'
+  name: MITCHELLVL
+  full_name: Mitchellville
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311904'
+  name: MONKTON
+  full_name: Monkton
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312061'
+  name: MONROVIA
+  full_name: Monrovia
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311536'
+  name: MONTG VLG
+  full_name: Montgomery Village
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311537'
+  name: MONTPELIER
+  full_name: Montpelier
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311538'
+  name: MORGANZA
+  full_name: Morganza
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079990'
+  name: MOUNT AIRY
+  full_name: Mount Airy
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.374644'
+  long: "-77.159984"
+  closest_city:
+    name: Mount Airy
+    distance_km: 0.57
+- country: US
+  region: MD
+  exchange: '311539'
+  name: MT RAINIER
+  full_name: Mount Rainier
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080000'
+  name: MT SAVAGE
+  full_name: Mount Savage
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.69072'
+  long: "-78.876814"
+  closest_city:
+    name: Mount Savage
+    distance_km: 0.65
+- country: US
+  region: MD
+  exchange: '311540'
+  name: MTVICTORIA
+  full_name: Mount Victoria
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311905'
+  name: MT WASHTN
+  full_name: Mount Washington
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311906'
+  name: MT WILSON
+  full_name: Mount Wilson
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312064'
+  name: MTLAKEPARK
+  full_name: Mountain Lake Park
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080201'
+  name: MUTUAL
+  full_name: Mutual
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080010'
+  name: MYERSVILLE
+  full_name: Myersville
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.507487'
+  long: "-77.567077"
+  closest_city:
+    name: Myersville
+    distance_km: 0.22
+- country: US
+  region: MD
+  exchange: '080020'
+  name: NANJEMOY
+  full_name: Nanjemoy
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.449579'
+  long: "-77.21675"
+  closest_city:
+    name: Indian Head
+    distance_km: 17.42
+- country: US
+  region: MD
+  exchange: '080030'
+  name: NANTICOKE
+  full_name: Nanticoke
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.297959'
+  long: "-75.889954"
+  closest_city:
+    name: Bivalve
+    distance_km: 0.95
+- country: US
+  region: MD
+  exchange: '311907'
+  name: NAVALACMY
+  full_name: Naval Academy
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312241'
+  name: NEAVITT
+  full_name: Neavitt
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311546'
+  name: NEW CARRLT
+  full_name: New Carrollton
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080040'
+  name: NEW MARKET
+  full_name: New Market
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.382384'
+  long: "-77.26834"
+  closest_city:
+    name: New Market
+    distance_km: 1.16
+- country: US
+  region: MD
+  exchange: '312067'
+  name: NEW MIDWAY
+  full_name: New Midway
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080050'
+  name: NEWWINDSOR
+  full_name: New Windsor
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.542609'
+  long: "-77.109876"
+  closest_city:
+    name: New Windsor
+    distance_km: 0.77
+- country: US
+  region: MD
+  exchange: '312242'
+  name: NEWARK
+  full_name: Newark
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311547'
+  name: NEWBURG
+  full_name: Newburg
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312243'
+  name: NEWCOMB
+  full_name: Newcomb
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312068'
+  name: NIKEP
+  full_name: Nikep
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080060'
+  name: NORTHBEACH
+  full_name: North Beach
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.683891'
+  long: "-76.530118"
+  closest_city:
+    name: Chesapeake Beach
+    distance_km: 1.36
+- country: US
+  region: MD
+  exchange: '311541'
+  name: N BETHESDA
+  full_name: North Bethesda
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311542'
+  name: N BRENTWD
+  full_name: North Brentwood
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311548'
+  name: NO CHEVYCH
+  full_name: North Chevy Chase
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080070'
+  name: NORTH EAST
+  full_name: North East
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.6001'
+  long: "-75.945204"
+  closest_city:
+    name: North East
+    distance_km: 0.9
+- country: US
+  region: MD
+  exchange: '311543'
+  name: N ENGLEWD
+  full_name: North Englewood
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311544'
+  name: N POTOMAC
+  full_name: North Potomac
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311913'
+  name: NORTHWOOD
+  full_name: Northwood
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311914'
+  name: NOTTINGHAM
+  full_name: Nottingham
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080080'
+  name: OAKLAND
+  full_name: Oakland
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.407744'
+  long: "-79.411079"
+  closest_city:
+    name: Oakland
+    distance_km: 1.24
+- country: US
+  region: MD
+  exchange: '080090'
+  name: OCEAN CITY
+  full_name: Ocean City
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.33185'
+  long: "-75.089703"
+  closest_city:
+    name: West Ocean City
+    distance_km: 2.56
+- country: US
+  region: MD
+  exchange: '079271'
+  name: OCEAN PINE
+  full_name: Ocean Pines
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080100'
+  name: ODENTON
+  full_name: Odenton
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.082522'
+  long: "-76.709696"
+  closest_city:
+    name: Odenton
+    distance_km: 2.28
+- country: US
+  region: MD
+  exchange: '311917'
+  name: OELLA
+  full_name: Oella
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080082'
+  name: OLDTOWN
+  full_name: Oldtown
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.540942'
+  long: "-78.606413"
+  closest_city:
+    name: Oldtown
+    distance_km: 0.85
+- country: US
+  region: MD
+  exchange: '311550'
+  name: OLNEY
+  full_name: Olney
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079242'
+  name: OLNEY
+  full_name: Olney
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311918'
+  name: ORCHRD BCH
+  full_name: Orchard Beach
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312246'
+  name: ORIOLE
+  full_name: Oriole
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311919'
+  name: OVERLEA
+  full_name: Overlea
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311920'
+  name: OWINGS
+  full_name: Owings
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080151'
+  name: OWINGS ML
+  full_name: Owings Mills
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.375605'
+  long: "-76.725836"
+  closest_city:
+    name: Pikesville
+    distance_km: 2.55
+- country: US
+  region: MD
+  exchange: '080110'
+  name: OXFORD
+  full_name: Oxford
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.684187'
+  long: "-76.163723"
+  closest_city:
+    name: Oxford
+    distance_km: 0.57
+- country: US
+  region: MD
+  exchange: '080611'
+  name: OXON HILL
+  full_name: Oxon Hill
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311552'
+  name: PARK HALL
+  full_name: Park Hall
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080120'
+  name: PARKTON
+  full_name: Parkton
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.640586'
+  long: "-76.658423"
+  closest_city:
+    name: Jarrettsville
+    distance_km: 16.24
+- country: US
+  region: MD
+  exchange: '080130'
+  name: PARKVILLE
+  full_name: Parkville
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.374346'
+  long: "-76.517019"
+  closest_city:
+    name: Overlea
+    distance_km: 1.13
+- country: US
+  region: MD
+  exchange: '079211'
+  name: PAROLE
+  full_name: Parole
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312248'
+  name: PARSONSBRG
+  full_name: Parsonsburg
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311924'
+  name: PASADENA
+  full_name: Pasadena
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311925'
+  name: PATAPSCO
+  full_name: Patapsco
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079911'
+  name: PATXNTNATC
+  full_name: Patuxent Naval Air Test Center
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311553'
+  name: PATUXNTRIV
+  full_name: Patuxent River
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080131'
+  name: PERRY HALL
+  full_name: Perry Hall
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311928'
+  name: PERRYPOINT
+  full_name: Perry Point
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311927'
+  name: PERRYMAN
+  full_name: Perryman
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080140'
+  name: PERRYVILLE
+  full_name: Perryville
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.557526'
+  long: "-76.072326"
+  closest_city:
+    name: Perryville
+    distance_km: 1.86
+- country: US
+  region: MD
+  exchange: '311930'
+  name: PHOENIX
+  full_name: Phoenix
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080150'
+  name: PIKESVILLE
+  full_name: Pikesville
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.375605'
+  long: "-76.725836"
+  closest_city:
+    name: Pikesville
+    distance_km: 2.55
+- country: US
+  region: MD
+  exchange: '311554'
+  name: PINEYPOINT
+  full_name: Piney Point
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312071'
+  name: PINTO
+  full_name: Pinto
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311555'
+  name: PISGAH
+  full_name: Pisgah
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312249'
+  name: PITTSVILLE
+  full_name: Pittsville
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080160'
+  name: POCOMOKE
+  full_name: Pocomoke
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.065646'
+  long: "-75.564089"
+  closest_city:
+    name: Pocomoke City
+    distance_km: 0.81
+- country: US
+  region: MD
+  exchange: '312251'
+  name: POCOMOKECY
+  full_name: Pocomoke City
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312072'
+  name: POINTROCKS
+  full_name: Point Of Rocks
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311556'
+  name: POMFRET
+  full_name: Pomfret
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080170'
+  name: POOLESVL
+  full_name: Poolesville
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.140618'
+  long: "-77.419274"
+  closest_city:
+    name: Poolesville
+    distance_km: 0.8
+- country: US
+  region: MD
+  exchange: '080180'
+  name: PT DEPOSIT
+  full_name: Port Deposit
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.610517'
+  long: "-76.11807"
+  closest_city:
+    name: Port Deposit
+    distance_km: 1.72
+- country: US
+  region: MD
+  exchange: '311934'
+  name: PTREPUBLIC
+  full_name: Port Republic
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311559'
+  name: PT TOBACCO
+  full_name: Port Tobacco
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311558'
+  name: POTOMAC
+  full_name: Potomac
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312252'
+  name: POWELLVL
+  full_name: Powellville
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080190'
+  name: PRESTON
+  full_name: Preston
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.717691'
+  long: "-75.910024"
+  closest_city:
+    name: Preston
+    distance_km: 0.73
+- country: US
+  region: MD
+  exchange: '312254'
+  name: PRICE
+  full_name: Price
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080200'
+  name: PRINCEFRCK
+  full_name: Prince Frederick
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.54168'
+  long: "-76.586215"
+  closest_city:
+    name: Prince Frederick
+    distance_km: 0.3
+- country: US
+  region: MD
+  exchange: '080210'
+  name: PRINCEANNE
+  full_name: Princess Anne
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.20949'
+  long: "-75.690945"
+  closest_city:
+    name: Princess Anne
+    distance_km: 0.7
+- country: US
+  region: MD
+  exchange: '311935'
+  name: PYLESVILLE
+  full_name: Pylesville
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312256'
+  name: QUANTICO
+  full_name: Quantico
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312257'
+  name: QUEEN ANNE
+  full_name: Queen Anne
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080220'
+  name: QUEENSTOWN
+  full_name: Queenstown
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.99315'
+  long: "-76.156121"
+  closest_city:
+    name: Queenstown
+    distance_km: 0.94
+- country: US
+  region: MD
+  exchange: '080230'
+  name: RANDALLSTN
+  full_name: Randallstown
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.347137'
+  long: "-76.766124"
+  closest_city:
+    name: Milford Mill
+    distance_km: 0.31
+- country: US
+  region: MD
+  exchange: '311937'
+  name: RASPEBURG
+  full_name: Raspeburg
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312073'
+  name: RAWLINGS
+  full_name: Rawlings
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312259'
+  name: REHOBETH
+  full_name: Rehobeth
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080240'
+  name: REISTERSTN
+  full_name: Reisterstown
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.466119'
+  long: "-76.831828"
+  closest_city:
+    name: Reisterstown
+    distance_km: 1.97
+- country: US
+  region: MD
+  exchange: '312260'
+  name: RHODES PT
+  full_name: Rhodes Point
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312261'
+  name: RHODESDALE
+  full_name: Rhodesdale
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311939'
+  name: RIDERWOOD
+  full_name: Riderwood
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080250'
+  name: RIDGE
+  full_name: Ridge
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.11563'
+  long: "-76.368224"
+  closest_city:
+    name: St. George Island
+    distance_km: 9.52
+- country: US
+  region: MD
+  exchange: '080260'
+  name: RIDGELY
+  full_name: Ridgely
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.943768'
+  long: "-75.883275"
+  closest_city:
+    name: Ridgely
+    distance_km: 1.01
+- country: US
+  region: MD
+  exchange: '080270'
+  name: RISING SUN
+  full_name: Rising Sun
+  lata: '238'
+  ilec_name: ARMSTRONG TEL. CO. OF MARYLAND
+  lat: '39.696581'
+  long: "-76.060122"
+  closest_city:
+    name: Rising Sun
+    distance_km: 0.43
+- country: US
+  region: MD
+  exchange: '311561'
+  name: RISON
+  full_name: Rison
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311941'
+  name: RIVA
+  full_name: Riva
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311562'
+  name: RIVERDALE
+  full_name: Riverdale
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311565'
+  name: RVRDALE PK
+  full_name: Riverdale Park
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311942'
+  name: RIVIERABCH
+  full_name: Riviera Beach
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080280'
+  name: ROCK HALL
+  full_name: Rock Hall
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.134107'
+  long: "-76.229674"
+  closest_city:
+    name: Rock Hall
+    distance_km: 1.27
+- country: US
+  region: MD
+  exchange: '311563'
+  name: ROCK POINT
+  full_name: Rock Point
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080621'
+  name: ROCKVILLE
+  full_name: Rockville
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312074'
+  name: ROCKYRIDGE
+  full_name: Rocky Ridge
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312075'
+  name: ROHRERSVL
+  full_name: Rohrersville
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311943'
+  name: ROLAND PK
+  full_name: Roland Park
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311944'
+  name: ROSE HAVEN
+  full_name: Rose Haven
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311945'
+  name: ROSEDALE
+  full_name: Rosedale
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312264'
+  name: ROYAL OAK
+  full_name: Royal Oak
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311946'
+  name: RUSSETT
+  full_name: Russett
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311947'
+  name: RUXTON
+  full_name: Ruxton
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312076'
+  name: SABILLASVL
+  full_name: Sabillasville
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311575'
+  name: ST CHARLES
+  full_name: Saint Charles
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311577'
+  name: STGEORGEIS
+  full_name: Saint George Island
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311576'
+  name: ST INIGOES
+  full_name: Saint Inigoes
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312083'
+  name: ST JAMES
+  full_name: Saint James
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311958'
+  name: ST LEONARD
+  full_name: Saint Leonard
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311960'
+  name: STMARGARTS
+  full_name: Saint Margarets
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311578'
+  name: STMARYS CY
+  full_name: Saint Marys City
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080290'
+  name: SALISBURY
+  full_name: Salisbury
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.359037'
+  long: "-75.597524"
+  closest_city:
+    name: Salisbury
+    distance_km: 2.08
+- country: US
+  region: MD
+  exchange: '311566'
+  name: SANDY SPRG
+  full_name: Sandy Spring
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312077'
+  name: SANG RUN
+  full_name: Sang Run
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311567'
+  name: SAVAGE
+  full_name: Savage
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311568'
+  name: SCAGGSVL
+  full_name: Scaggsville
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311569'
+  name: SCOTLAND
+  full_name: Scotland
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311570'
+  name: SEABROOK
+  full_name: Seabrook
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311571'
+  name: SEATPLSANT
+  full_name: Seat Pleasant
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312266'
+  name: SECRETARY
+  full_name: Secretary
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312078'
+  name: SECURITY
+  full_name: Security
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080300'
+  name: SEVERN
+  full_name: Severn
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.134561'
+  long: "-76.641022"
+  closest_city:
+    name: Glen Burnie
+    distance_km: 3.77
+- country: US
+  region: MD
+  exchange: '080310'
+  name: SEVERNA PK
+  full_name: Severna Park
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.068266'
+  long: "-76.54965"
+  closest_city:
+    name: Severna Park
+    distance_km: 2.65
+- country: US
+  region: MD
+  exchange: '311950'
+  name: SHADY SIDE
+  full_name: Shady Side
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312079'
+  name: SHALLMAR
+  full_name: Shallmar
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312080'
+  name: SHARPSBURG
+  full_name: Sharpsburg
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080320'
+  name: SHARPTOWN
+  full_name: Sharptown
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.54321'
+  long: "-75.716684"
+  closest_city:
+    name: Sharptown
+    distance_km: 0.6
+- country: US
+  region: MD
+  exchange: '312268'
+  name: SHERWOOD
+  full_name: Sherwood
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080330'
+  name: SHERWD FOR
+  full_name: Sherwood Forest
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.023721'
+  long: "-76.539556"
+  closest_city:
+    name: Arnold
+    distance_km: 4.27
+- country: US
+  region: MD
+  exchange: '312269'
+  name: SHOWELL
+  full_name: Showell
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080340'
+  name: SILVER RUN
+  full_name: Silver Run
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.68998'
+  long: "-77.041773"
+  closest_city:
+    name: Taneytown
+    distance_km: 11.44
+- country: US
+  region: MD
+  exchange: '080581'
+  name: SILVER SPG
+  full_name: Silver Spring
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080350'
+  name: SMITH IS
+  full_name: Smith Island
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '37.965385'
+  long: "-76.025933"
+  closest_city:
+    name: Smith Island
+    distance_km: 1.05
+- country: US
+  region: MD
+  exchange: '080360'
+  name: SMITHSBURG
+  full_name: Smithsburg
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.650926'
+  long: "-77.576035"
+  closest_city:
+    name: Smithsburg
+    distance_km: 0.56
+- country: US
+  region: MD
+  exchange: '080370'
+  name: SNOW HILL
+  full_name: Snow Hill
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.176172'
+  long: "-75.391453"
+  closest_city:
+    name: Snow Hill
+    distance_km: 0.38
+- country: US
+  region: MD
+  exchange: '080380'
+  name: SOLOMONS
+  full_name: Solomons
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.326423'
+  long: "-76.457608"
+  closest_city:
+    name: Solomons
+    distance_km: 1.2
+- country: US
+  region: MD
+  exchange: '311954'
+  name: SOLOMONSIS
+  full_name: Solomons Island
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311955'
+  name: SPARKS
+  full_name: Sparks
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080390'
+  name: SPARKSGLNC
+  full_name: Sparks-Glencoe
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.550382'
+  long: "-76.646419"
+  closest_city:
+    name: Cockeysville
+    distance_km: 7.92
+- country: US
+  region: MD
+  exchange: '080400'
+  name: SPARROWSPT
+  full_name: Sparrows Point
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.216766'
+  long: "-76.494183"
+  closest_city:
+    name: Edgemere
+    distance_km: 3.25
+- country: US
+  region: MD
+  exchange: '311573'
+  name: SPENCERVL
+  full_name: Spencerville
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312082'
+  name: SPRING GAP
+  full_name: Spring Gap
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311574'
+  name: SPRINGDALE
+  full_name: Springdale
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079212'
+  name: STMARGRETS
+  full_name: St Margarets
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080410'
+  name: STMICHAELS
+  full_name: St Michaels
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.784295'
+  long: "-76.223855"
+  closest_city:
+    name: St. Michaels
+    distance_km: 0.45
+- country: US
+  region: MD
+  exchange: '311959'
+  name: STEVENSON
+  full_name: Stevenson
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080420'
+  name: STEVENSVL
+  full_name: Stevensville
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.976123'
+  long: "-76.308811"
+  closest_city:
+    name: Stevensville
+    distance_km: 0.85
+- country: US
+  region: MD
+  exchange: '080430'
+  name: STILL POND
+  full_name: Still Pond
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.322477'
+  long: "-76.042098"
+  closest_city:
+    name: Still Pond
+    distance_km: 0.39
+- country: US
+  region: MD
+  exchange: '312275'
+  name: STOCKTON
+  full_name: Stockton
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311961'
+  name: STONEY BCH
+  full_name: Stoney Beach
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311962'
+  name: STREET
+  full_name: Street
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080440'
+  name: SUDLERSVL
+  full_name: Sudlersville
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.192629'
+  long: "-75.856836"
+  closest_city:
+    name: Sudlersville
+    distance_km: 1.08
+- country: US
+  region: MD
+  exchange: '311579'
+  name: SUITLAND
+  full_name: Suitland
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311963'
+  name: SUNDERLAND
+  full_name: Sunderland
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311580'
+  name: SWAN POINT
+  full_name: Swan Point
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312084'
+  name: SWANTON
+  full_name: Swanton
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080450'
+  name: SYKESVILLE
+  full_name: Sykesville
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.365545'
+  long: "-76.966187"
+  closest_city:
+    name: Sykesville
+    distance_km: 0.82
+- country: US
+  region: MD
+  exchange: '311581'
+  name: TAKOMAPARK
+  full_name: Takoma Park
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311582'
+  name: TALLTIMBRS
+  full_name: Tall Timbers
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080460'
+  name: TANEYTOWN
+  full_name: Taneytown
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.658847'
+  long: "-77.171378"
+  closest_city:
+    name: Taneytown
+    distance_km: 0.34
+- country: US
+  region: MD
+  exchange: '312277'
+  name: TAYLORS IS
+  full_name: Taylors Island
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311583'
+  name: TEMPLE HL
+  full_name: Temple Hills
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312278'
+  name: TEMPLEVL
+  full_name: Templeville
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311966'
+  name: TEXAS
+  full_name: Texas
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080470'
+  name: THURMONT
+  full_name: Thurmont
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.625066'
+  long: "-77.411484"
+  closest_city:
+    name: Thurmont
+    distance_km: 0.56
+- country: US
+  region: MD
+  exchange: '080480'
+  name: TILGHMAN
+  full_name: Tilghman
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.716903'
+  long: "-76.335289"
+  closest_city:
+    name: Tilghman Island
+    distance_km: 1.79
+- country: US
+  region: MD
+  exchange: '311967'
+  name: TIMONIUM
+  full_name: Timonium
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312280'
+  name: TODDVILLE
+  full_name: Toddville
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080490'
+  name: TOMPKINSVL
+  full_name: Tompkinsville
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.352011'
+  long: "-76.933324"
+  closest_city:
+    name: Rock Point
+    distance_km: 11.62
+- country: US
+  region: MD
+  exchange: '080500'
+  name: TOWSON
+  full_name: Towson
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.402515'
+  long: "-76.600008"
+  closest_city:
+    name: Towson
+    distance_km: 1.86
+- country: US
+  region: MD
+  exchange: '311969'
+  name: TRACYS LDG
+  full_name: Tracys Landing
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080510'
+  name: TRAPPE
+  full_name: Trappe
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.657951'
+  long: "-76.065323"
+  closest_city:
+    name: Trappe
+    distance_km: 1.32
+- country: US
+  region: MD
+  exchange: '312086'
+  name: TUSCARORA
+  full_name: Tuscarora
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311585'
+  name: TUXEDO
+  full_name: Tuxedo
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312282'
+  name: TYASKIN
+  full_name: Tyaskin
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312283'
+  name: TYLERTON
+  full_name: Tylerton
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080520'
+  name: UNION BDG
+  full_name: Union Bridge
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.56633'
+  long: "-77.175248"
+  closest_city:
+    name: Union Bridge
+    distance_km: 0.76
+- country: US
+  region: MD
+  exchange: '311971'
+  name: UNIONTOWN
+  full_name: Uniontown
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311586'
+  name: UNIVRSTYPK
+  full_name: University Park
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312284'
+  name: UPFAIRMONT
+  full_name: Upper Fairmount
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311973'
+  name: UPPERFALLS
+  full_name: Upper Falls
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312285'
+  name: UPPER HILL
+  full_name: Upper Hill
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311587'
+  name: UP MARLBOR
+  full_name: Upper Marlboro
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311972'
+  name: UPPERCO
+  full_name: Upperco
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312087'
+  name: URBANA
+  full_name: Urbana
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '079912'
+  name: VALLEY LEE
+  full_name: Valley Lee
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080530'
+  name: VIENNA
+  full_name: Vienna
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.483764'
+  long: "-75.821373"
+  closest_city:
+    name: Vienna
+    distance_km: 0.95
+- country: US
+  region: MD
+  exchange: '080540'
+  name: WALDORF
+  full_name: Waldorf
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.625456'
+  long: "-76.904365"
+  closest_city:
+    name: Waldorf
+    distance_km: 2.29
+- country: US
+  region: MD
+  exchange: '080550'
+  name: WALKERSVL
+  full_name: Walkersville
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.482319'
+  long: "-77.351793"
+  closest_city:
+    name: Walkersville
+    distance_km: 0.37
+- country: US
+  region: MD
+  exchange: '080560'
+  name: WARWICK
+  full_name: Warwick
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.415952'
+  long: "-75.773424"
+  closest_city:
+    name: Cecilton
+    distance_km: 8.18
+- country: US
+  region: MD
+  exchange: '311591'
+  name: WASH GROVE
+  full_name: Washington Grove
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080620'
+  name: WSNGTNZN10
+  full_name: Washington Zone 10
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.085514'
+  long: "-77.159932"
+  closest_city:
+    name: Rockville
+    distance_km: 0.46
+- country: US
+  region: MD
+  exchange: '080630'
+  name: WSNGTNZN11
+  full_name: Washington Zone 11
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.024812'
+  long: "-77.077816"
+  closest_city:
+    name: Kensington
+    distance_km: 0.43
+- country: US
+  region: MD
+  exchange: '080640'
+  name: WSNGTNZN12
+  full_name: Washington Zone 12
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.081467'
+  long: "-77.048679"
+  closest_city:
+    name: Layhill
+    distance_km: 0.95
+- country: US
+  region: MD
+  exchange: '311607'
+  name: WSNGTNZN13
+  full_name: Washington Zone 13
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080650'
+  name: WSNG236Z13
+  full_name: Washington Zone 13
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.992001'
+  long: "-76.913396"
+  closest_city:
+    name: Berwyn Heights
+    distance_km: 0.09
+- country: US
+  region: MD
+  exchange: '080654'
+  name: WSNG238Z13
+  full_name: Washington Zone 13 (Baltimore LATA)
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.992001'
+  long: "-76.913396"
+  closest_city:
+    name: Berwyn Heights
+    distance_km: 0.09
+- country: US
+  region: MD
+  exchange: '311989'
+  name: WSNGTNZN13
+  full_name: Washington Zone 13 (Howard)
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311608'
+  name: WSNGTNZN14
+  full_name: Washington Zone 14
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080660'
+  name: WSNG236Z14
+  full_name: Washington Zone 14
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.982839'
+  long: "-76.813882"
+  closest_city:
+    name: Glenn Dale
+    distance_km: 0.86
+- country: US
+  region: MD
+  exchange: '080664'
+  name: WSNG238Z14
+  full_name: Washington Zone 14 (Baltimore LATA)
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.982839'
+  long: "-76.813882"
+  closest_city:
+    name: Glenn Dale
+    distance_km: 0.86
+- country: US
+  region: MD
+  exchange: '311990'
+  name: WSNGTNZN14
+  full_name: Washington Zone 14 (Howard)
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080670'
+  name: WSNG236Z15
+  full_name: Washington Zone 15
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.817077'
+  long: "-76.754578"
+  closest_city:
+    name: Upper Marlboro
+    distance_km: 0.34
+- country: US
+  region: MD
+  exchange: '311609'
+  name: WSNGTNZN15
+  full_name: Washington Zone 15
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080671'
+  name: WSNG238Z15
+  full_name: Washington Zone 15 (Baltimore LATA)
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.817077'
+  long: "-76.754578"
+  closest_city:
+    name: Upper Marlboro
+    distance_km: 0.34
+- country: US
+  region: MD
+  exchange: '080680'
+  name: WSNGTNZN16
+  full_name: Washington Zone 16
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.767381'
+  long: "-76.899341"
+  closest_city:
+    name: Clinton
+    distance_km: 2.04
+- country: US
+  region: MD
+  exchange: '080570'
+  name: WSHNGTNZN2
+  full_name: Washington Zone 2
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.984625'
+  long: "-77.106526"
+  closest_city:
+    name: Bethesda
+    distance_km: 1.08
+- country: US
+  region: MD
+  exchange: '080580'
+  name: WSHNGTNZN3
+  full_name: Washington Zone 3
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.010345'
+  long: "-77.040524"
+  closest_city:
+    name: Forest Glen
+    distance_km: 1.03
+- country: US
+  region: MD
+  exchange: '080590'
+  name: WSHNGTNZN4
+  full_name: Washington Zone 4
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.950717'
+  long: "-76.950382"
+  closest_city:
+    name: North Brentwood
+    distance_km: 0.64
+- country: US
+  region: MD
+  exchange: '080591'
+  name: WSNGTNZON4
+  full_name: Washington Zone 4 (Baltimore LATA)
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.950717'
+  long: "-76.950382"
+  closest_city:
+    name: North Brentwood
+    distance_km: 0.64
+- country: US
+  region: MD
+  exchange: '080600'
+  name: WSHNGTNZN5
+  full_name: Washington Zone 5
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.883032'
+  long: "-76.91773"
+  closest_city:
+    name: Maryland Park
+    distance_km: 1.09
+- country: US
+  region: MD
+  exchange: '080610'
+  name: WSHNGTNZN6
+  full_name: Washington Zone 6
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.800433'
+  long: "-76.991495"
+  closest_city:
+    name: Forest Heights
+    distance_km: 1.32
+- country: US
+  region: MD
+  exchange: '080690'
+  name: WATERLO238
+  full_name: Waterloo
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.173801'
+  long: "-76.785791"
+  closest_city:
+    name: Jessup
+    distance_km: 2.88
+- country: US
+  region: MD
+  exchange: '311975'
+  name: WATERLOO
+  full_name: Waterloo
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311592'
+  name: WATERLOO
+  full_name: Waterloo (Howard)
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080692'
+  name: WATERLO236
+  full_name: Waterloo (Washington DC LATA)
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.173801'
+  long: "-76.785791"
+  closest_city:
+    name: Jessup
+    distance_km: 2.88
+- country: US
+  region: MD
+  exchange: '311594'
+  name: WELCOME
+  full_name: Welcome
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312288'
+  name: WENONA
+  full_name: Wenona
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311974'
+  name: WANNAPOLIS
+  full_name: West Annapolis
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311979'
+  name: WFRIENDSHI
+  full_name: West Friendship
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311589'
+  name: W HYATSVL
+  full_name: West Hyattsville
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080091'
+  name: WOCEANCITY
+  full_name: West Ocean City
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080700'
+  name: WEST RIVER
+  full_name: West River
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.85122'
+  long: "-76.60188"
+  closest_city:
+    name: Galesville
+    distance_km: 4.62
+- country: US
+  region: MD
+  exchange: '080710'
+  name: WESTERNPT
+  full_name: Westernport
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.489597'
+  long: "-79.042949"
+  closest_city:
+    name: Westernport
+    distance_km: 0.18
+- country: US
+  region: MD
+  exchange: '311595'
+  name: WESTLAKE
+  full_name: Westlake
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080720'
+  name: WESTMINSTR
+  full_name: Westminster
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.575154'
+  long: "-76.993632"
+  closest_city:
+    name: Westminster
+    distance_km: 1.22
+- country: US
+  region: MD
+  exchange: '312289'
+  name: WESTOVER
+  full_name: Westover
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311596'
+  name: WESTWOOD
+  full_name: Westwood
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312290'
+  name: WHALEYSVL
+  full_name: Whaleyville
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311597'
+  name: WHEATON
+  full_name: Wheaton
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311980'
+  name: WHITE HALL
+  full_name: White Hall
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311982'
+  name: WHITEMARSH
+  full_name: White Marsh
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080132'
+  name: WHITEMARSH
+  full_name: White Marsh
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311598'
+  name: WHITE PL
+  full_name: White Plains
+  lata: '236'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311981'
+  name: WHITEFORD
+  full_name: Whiteford
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312291'
+  name: WHITEHAVEN
+  full_name: Whitehaven
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080730'
+  name: WILLARDS
+  full_name: Willards
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.393131'
+  long: "-75.407961"
+  closest_city:
+    name: Pittsville
+    distance_km: 0.09
+- country: US
+  region: MD
+  exchange: '312293'
+  name: WILLIAMSBG
+  full_name: Williamsburg
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080740'
+  name: WILLIAMSPT
+  full_name: Williamsport
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.598568'
+  long: "-77.824413"
+  closest_city:
+    name: Williamsport
+    distance_km: 0.57
+- country: US
+  region: MD
+  exchange: '311983'
+  name: WINDSOR ML
+  full_name: Windsor Mill
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080750'
+  name: WINGATE
+  full_name: Wingate
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '38.382012'
+  long: "-76.193342"
+  closest_city:
+    name: Fishing Creek
+    distance_km: 5.78
+- country: US
+  region: MD
+  exchange: '312295'
+  name: WITTMAN
+  full_name: Wittman
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311984'
+  name: WOODBINE
+  full_name: Woodbine
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311986'
+  name: WOODLND BC
+  full_name: Woodland Bch
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080760'
+  name: WOODLAWN
+  full_name: Woodlawn
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.326195'
+  long: "-76.727285"
+  closest_city:
+    name: Lochearn
+    distance_km: 2.23
+- country: US
+  region: MD
+  exchange: '312091'
+  name: WOODSBORO
+  full_name: Woodsboro
+  lata: '240'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '311987'
+  name: WOODSTOCK
+  full_name: Woodstock
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312296'
+  name: WOOLFORD
+  full_name: Woolford
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '080770'
+  name: WORTHINGTN
+  full_name: Worthington
+  lata: '238'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat: '39.484073'
+  long: "-76.844495"
+  closest_city:
+    name: Reisterstown
+    distance_km: 4.16
+- country: US
+  region: MD
+  exchange: '312297'
+  name: WORTON
+  full_name: Worton
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:
+- country: US
+  region: MD
+  exchange: '312298'
+  name: WYE MILLS
+  full_name: Wye Mills
+  lata: '242'
+  ilec_name: VERIZON MARYLAND, INC.
+  lat:
+  long:

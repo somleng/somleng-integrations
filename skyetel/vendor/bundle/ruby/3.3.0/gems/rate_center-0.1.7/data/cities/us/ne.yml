@@ -1,0 +1,7082 @@
+---
+cities:
+- country: US
+  region: NE
+  name: Abie
+  lat: '41.3341'
+  long: "-96.9498"
+  nearby_rate_centers:
+  - name: BRUNO
+    distance_km: 5.58
+  - name: OCTAVIA
+    distance_km: 9.41
+  - name: PRAGUE
+    distance_km: 12.78
+- country: US
+  region: NE
+  name: Adams
+  lat: '40.4572'
+  long: "-96.5129"
+  nearby_rate_centers:
+  - name: ADAMS
+    distance_km: 0.54
+  - name: STERLING
+    distance_km: 11.13
+  - name: FIRTH
+    distance_km: 11.22
+- country: US
+  region: NE
+  name: Agnew
+  lat: '41.0142'
+  long: "-96.8143"
+  nearby_rate_centers:
+  - name: RAYMOND
+    distance_km: 6.87
+  - name: VALPARAISO
+    distance_km: 7.05
+  - name: DAVEY
+    distance_km: 12.38
+- country: US
+  region: NE
+  name: Ainsworth
+  lat: '42.5485'
+  long: "-99.8576"
+  nearby_rate_centers:
+  - name: AINSWORTH
+    distance_km: 0.38
+  - name: LONG PINE
+    distance_km: 13.2
+  - name: JOHNSTOWN
+    distance_km: 15.86
+- country: US
+  region: NE
+  name: Albion
+  lat: '41.6873'
+  long: "-97.9989"
+  nearby_rate_centers:
+  - name: ALBION
+    distance_km: 0.43
+  - name: ST EDWARD
+    distance_km: 16.35
+  - name: CEDAR RPDS
+    distance_km: 19.16
+- country: US
+  region: NE
+  name: Alda
+  lat: '40.8666'
+  long: "-98.4680"
+  nearby_rate_centers:
+  - name: GRAND IS
+    distance_km: 11.78
+  - name: WOOD RIVER
+    distance_km: 11.87
+  - name: DONIPHAN
+    distance_km: 12.82
+- country: US
+  region: NE
+  name: Alexandria
+  lat: '40.2475'
+  long: "-97.3878"
+  nearby_rate_centers:
+  - name: ALEXANDRIA
+    distance_km: 0.3
+  - name: DAYKIN
+    distance_km: 10.81
+  - name: BRUNING
+    distance_km: 17.9
+- country: US
+  region: NE
+  name: Allen
+  lat: '42.4144'
+  long: "-96.8431"
+  nearby_rate_centers:
+  - name: ALLEN
+    distance_km: 0.43
+  - name: WATERBURY
+    distance_km: 9.53
+  - name: DIXON
+    distance_km: 12.13
+- country: US
+  region: NE
+  name: Alliance
+  lat: '42.1025'
+  long: "-102.8766"
+  nearby_rate_centers:
+  - name: ALLIANCE
+    distance_km: 0.8
+  - name: HEMINGFORD
+    distance_km: 28.7
+  - name: MIRAGEFLTS
+    distance_km: 47.3
+- country: US
+  region: NE
+  name: Alma
+  lat: '40.1036'
+  long: "-99.3657"
+  nearby_rate_centers:
+  - name: ALMA
+    distance_km: 0.69
+  - name: ORLEANS
+    distance_km: 7.49
+  - name: REPUBLCNCY
+    distance_km: 9.85
+- country: US
+  region: NE
+  name: Alvo
+  lat: '40.8723'
+  long: "-96.3865"
+  nearby_rate_centers:
+  - name: EAGLE
+    distance_km: 7.3
+  - name: ELMWOOD
+    distance_km: 8.78
+  - name: MURDOCK
+    distance_km: 10.73
+- country: US
+  region: NE
+  name: Ames
+  lat: '41.4491'
+  long: "-96.6263"
+  nearby_rate_centers:
+  - name: CEDAR BLF
+    distance_km: 5.63
+  - name: FREMONT
+    distance_km: 11.26
+  - name: NORTH BEND
+    distance_km: 13.09
+- country: US
+  region: NE
+  name: Amherst
+  lat: '40.8383'
+  long: "-99.2696"
+  nearby_rate_centers:
+  - name: AMHERST
+    distance_km: 0.69
+  - name: RIVERDALE
+    distance_km: 10.6
+  - name: MILLER
+    distance_km: 13.85
+- country: US
+  region: NE
+  name: Anoka
+  lat: '42.9460'
+  long: "-98.8285"
+  nearby_rate_centers:
+  - name: BUTTE
+    distance_km: 4.23
+  - name: SOBONESTEL
+    distance_km: 8.48
+  - name: SPENCER
+    distance_km: 13.05
+- country: US
+  region: NE
+  name: Anselmo
+  lat: '41.6186'
+  long: "-99.8645"
+  nearby_rate_centers:
+  - name: ANSELMO
+    distance_km: 0.11
+  - name: MERNA
+    distance_km: 17.18
+  - name: BROKEN BOW
+    distance_km: 29.37
+- country: US
+  region: NE
+  name: Ansley
+  lat: '41.2863'
+  long: "-99.3825"
+  nearby_rate_centers:
+  - name: ANSLEY
+    distance_km: 0.68
+  - name: MASON CITY
+    distance_km: 9.72
+  - name: LITCHFIELD
+    distance_km: 24.04
+- country: US
+  region: NE
+  name: Arapahoe
+  lat: '40.3052'
+  long: "-99.8980"
+  nearby_rate_centers:
+  - name: ARAPAHOE
+    distance_km: 0.81
+  - name: HOLBROOK
+    distance_km: 9.23
+  - name: EDISON
+    distance_km: 11.08
+- country: US
+  region: NE
+  name: Arcadia
+  lat: '41.4249'
+  long: "-99.1261"
+  nearby_rate_centers:
+  - name: ARCADIA
+    distance_km: 0.28
+  - name: COMSTOCK
+    distance_km: 17.58
+  - name: LOUP CITY
+    distance_km: 21.86
+- country: US
+  region: NE
+  name: Archer
+  lat: '41.1665'
+  long: "-98.1386"
+  nearby_rate_centers:
+  - name: ARCHER
+    distance_km: 0.5
+  - name: PALMER
+    distance_km: 11.99
+  - name: CENTRAL CY
+    distance_km: 12.8
+- country: US
+  region: NE
+  name: Arlington
+  lat: '41.4548'
+  long: "-96.3565"
+  nearby_rate_centers:
+  - name: ARLINGTON
+    distance_km: 0.54
+  - name: FREMONT
+    distance_km: 11.38
+  - name: KENNARD
+    distance_km: 12.55
+- country: US
+  region: NE
+  name: Arnold
+  lat: '41.4231'
+  long: "-100.1936"
+  nearby_rate_centers:
+  - name: ARNOLD
+    distance_km: 0.33
+  - name: CALLAWAY
+    distance_km: 26.91
+  - name: STAPLETON
+    distance_km: 26.94
+- country: US
+  region: NE
+  name: Arthur
+  lat: '41.5718'
+  long: "-101.6923"
+  nearby_rate_centers:
+  - name: ARTHUR
+    distance_km: 0.58
+  - name: LEMOYNE
+    distance_km: 33.96
+  - name: KEYSTONE
+    distance_km: 40.75
+- country: US
+  region: NE
+  name: Ashland
+  lat: '41.0396'
+  long: "-96.3723"
+  nearby_rate_centers:
+  - name: ASHLAND
+    distance_km: 1.29
+  - name: GREENWOOD
+    distance_km: 10.62
+  - name: MURDOCK
+    distance_km: 15.09
+- country: US
+  region: NE
+  name: Ashton
+  lat: '41.2477'
+  long: "-98.7950"
+  nearby_rate_centers:
+  - name: ASHTON
+    distance_km: 0.99
+  - name: LOUP CITY
+    distance_km: 13.88
+  - name: ROCKVILLE
+    distance_km: 14.6
+- country: US
+  region: NE
+  name: Aten
+  lat: '42.8368'
+  long: "-97.4409"
+  nearby_rate_centers:
+  - name: SO YANKTON
+    distance_km: 6.77
+  - name: CROFTON
+    distance_km: 12.53
+  - name: WYFRYCSTHL
+    distance_km: 19.39
+- country: US
+  region: NE
+  name: Atkinson
+  lat: '42.5309'
+  long: "-98.9747"
+  nearby_rate_centers:
+  - name: ATKINSON
+    distance_km: 0.15
+  - name: STUART
+    distance_km: 16.09
+  - name: O NEILL
+    distance_km: 27.39
+- country: US
+  region: NE
+  name: Atlanta
+  lat: '40.3684'
+  long: "-99.4732"
+  nearby_rate_centers:
+  - name: ATLANTA
+    distance_km: 0.39
+  - name: HOLDREGE
+    distance_km: 11.59
+  - name: LOOMIS
+    distance_km: 12.2
+- country: US
+  region: NE
+  name: Auburn
+  lat: '40.3894'
+  long: "-95.8436"
+  nearby_rate_centers:
+  - name: AUBURN
+    distance_km: 0.54
+  - name: JOHNSON
+    distance_km: 13.48
+  - name: BROCK
+    distance_km: 13.98
+- country: US
+  region: NE
+  name: Aurora
+  lat: '40.8645'
+  long: "-98.0078"
+  nearby_rate_centers:
+  - name: AURORA
+    distance_km: 0.77
+  - name: HAMPTON
+    distance_km: 9.96
+  - name: GILTNER
+    distance_km: 16.05
+- country: US
+  region: NE
+  name: Avoca
+  lat: '40.7965'
+  long: "-96.1191"
+  nearby_rate_centers:
+  - name: AVOCA
+    distance_km: 0.2
+  - name: OTOE
+    distance_km: 7.68
+  - name: WEEPINGWTR
+    distance_km: 7.99
+- country: US
+  region: NE
+  name: Axtell
+  lat: '40.4798'
+  long: "-99.1292"
+  nearby_rate_centers:
+  - name: AXTELL
+    distance_km: 0.39
+  - name: FUNK
+    distance_km: 10.41
+  - name: WILCOX
+    distance_km: 13.02
+- country: US
+  region: NE
+  name: Ayr
+  lat: '40.4377'
+  long: "-98.4409"
+  nearby_rate_centers:
+  - name: BLUE HILL
+    distance_km: 11.65
+  - name: HASTINGS
+    distance_km: 17.49
+  - name: GLENVIL
+    distance_km: 17.51
+- country: US
+  region: NE
+  name: Bancroft
+  lat: '42.0104'
+  long: "-96.5733"
+  nearby_rate_centers:
+  - name: BANCROFT
+    distance_km: 0.65
+  - name: ROSALIE
+    distance_km: 7.04
+  - name: LYONS
+    distance_km: 11.03
+- country: US
+  region: NE
+  name: Barada
+  lat: '40.2185'
+  long: "-95.5777"
+  nearby_rate_centers:
+  - name: TRI CITY
+    distance_km: 9.92
+  - name: NEMAHA
+    distance_km: 15.86
+  - name: FALLS CITY
+    distance_km: 17.73
+- country: US
+  region: NE
+  name: Barneston
+  lat: '40.0488'
+  long: "-96.5735"
+  nearby_rate_centers:
+  - name: BARNESTON
+    distance_km: 0.41
+  - name: LIBERTY
+    distance_km: 9.06
+  - name: WYMORE
+    distance_km: 11.63
+- country: US
+  region: NE
+  name: Bartlett
+  lat: '41.8839'
+  long: "-98.5527"
+  nearby_rate_centers:
+  - name: BARTLETT
+    distance_km: 0.52
+  - name: ERICSON
+    distance_km: 15.14
+  - name: SPALDING
+    distance_km: 26.18
+- country: US
+  region: NE
+  name: Bartley
+  lat: '40.2511'
+  long: "-100.3105"
+  nearby_rate_centers:
+  - name: BARTLEY
+    distance_km: 0.34
+  - name: INDIANOLA
+    distance_km: 9.24
+  - name: CAMBRIDGE
+    distance_km: 12.13
+- country: US
+  region: NE
+  name: Bassett
+  lat: '42.5826'
+  long: "-99.5367"
+  nearby_rate_centers:
+  - name: BASSETT
+    distance_km: 0.19
+  - name: LONG PINE
+    distance_km: 14.28
+  - name: NEWPORT
+    distance_km: 16.81
+- country: US
+  region: NE
+  name: Battle Creek
+  lat: '41.9981'
+  long: "-97.5994"
+  nearby_rate_centers:
+  - name: BATTLE CRK
+    distance_km: 0.43
+  - name: MEADOW GRV
+    distance_km: 12.41
+  - name: NORFOLK
+    distance_km: 15.55
+- country: US
+  region: NE
+  name: Bayard
+  lat: '41.7572'
+  long: "-103.3230"
+  nearby_rate_centers:
+  - name: BAYARD
+    distance_km: 0.33
+  - name: MINATARE
+    distance_km: 16.09
+  - name: BRIDGEPORT
+    distance_km: 21.74
+- country: US
+  region: NE
+  name: Bazile Mills
+  lat: '42.5124'
+  long: "-97.9083"
+  nearby_rate_centers:
+  - name: WINNETOON
+    distance_km: 4.75
+  - name: CREIGHTON
+    distance_km: 5.38
+  - name: CENTER
+    distance_km: 11.07
+- country: US
+  region: NE
+  name: Beacon View
+  lat: '41.0692'
+  long: "-96.3259"
+  nearby_rate_centers:
+  - name: ASHLAND
+    distance_km: 3.9
+  - name: GRETNA
+    distance_km: 11.97
+  - name: GREENWOOD
+    distance_km: 15.58
+- country: US
+  region: NE
+  name: Beatrice
+  lat: '40.2736'
+  long: "-96.7455"
+  nearby_rate_centers:
+  - name: BEATRICE
+    distance_km: 0.75
+  - name: PICKRELL
+    distance_km: 11.2
+  - name: WYMORE
+    distance_km: 17.8
+- country: US
+  region: NE
+  name: Beaver City
+  lat: '40.1383'
+  long: "-99.8276"
+  nearby_rate_centers:
+  - name: BEAVERCITY
+    distance_km: 0.4
+  - name: HENDLEY
+    distance_km: 11.92
+  - name: EDISON
+    distance_km: 15.6
+- country: US
+  region: NE
+  name: Beaver Crossing
+  lat: '40.7782'
+  long: "-97.2825"
+  nearby_rate_centers:
+  - name: BEAVERCSNG
+    distance_km: 0.99
+  - name: CORDOVA
+    distance_km: 8.94
+  - name: TAMORA
+    distance_km: 13.55
+- country: US
+  region: NE
+  name: Bee
+  lat: '41.0064'
+  long: "-97.0583"
+  nearby_rate_centers:
+  - name: GARLAND
+    distance_km: 8.89
+  - name: DWIGHT
+    distance_km: 9.18
+  - name: STAPLEHST
+    distance_km: 10.23
+- country: US
+  region: NE
+  name: Beemer
+  lat: '41.9298'
+  long: "-96.8091"
+  nearby_rate_centers:
+  - name: BEEMER
+    distance_km: 0.33
+  - name: WISNER
+    distance_km: 11.12
+  - name: WEST POINT
+    distance_km: 12.46
+- country: US
+  region: NE
+  name: Belden
+  lat: '42.4116'
+  long: "-97.2077"
+  nearby_rate_centers:
+  - name: BELDEN
+    distance_km: 0.45
+  - name: LAUREL
+    distance_km: 9.59
+  - name: COLERIDGE
+    distance_km: 10.69
+- country: US
+  region: NE
+  name: Belgrade
+  lat: '41.4709'
+  long: "-98.0678"
+  nearby_rate_centers:
+  - name: BELGRADE
+    distance_km: 0.71
+  - name: CEDAR RPDS
+    distance_km: 11.58
+  - name: FULLERTON
+    distance_km: 13.86
+- country: US
+  region: NE
+  name: Bellevue
+  lat: '41.1485'
+  long: "-95.9390"
+  nearby_rate_centers:
+  - name: OMAHA
+    distance_km: 12.34
+  - name: PLATTSMTH
+    distance_km: 16.12
+  - name: SPRINGFLD
+    distance_km: 17.78
+- country: US
+  region: NE
+  name: Bellwood
+  lat: '41.3418'
+  long: "-97.2398"
+  nearby_rate_centers:
+  - name: BELLWOOD
+    distance_km: 0.26
+  - name: COLUMBUS
+    distance_km: 13.42
+  - name: DAVID CITY
+    distance_km: 13.85
+- country: US
+  region: NE
+  name: Belmar
+  lat: '41.3055'
+  long: "-101.9347"
+  nearby_rate_centers:
+  - name: LEMOYNE
+    distance_km: 10.37
+  - name: LEWELLEN
+    distance_km: 17.91
+  - name: BRULE
+    distance_km: 24.11
+- country: US
+  region: NE
+  name: Belvidere
+  lat: '40.2546'
+  long: "-97.5577"
+  nearby_rate_centers:
+  - name: BRUNING
+    distance_km: 8.8
+  - name: HEBRON
+    distance_km: 9.19
+  - name: CARLETON
+    distance_km: 11.09
+- country: US
+  region: NE
+  name: Benedict
+  lat: '41.0063'
+  long: "-97.6072"
+  nearby_rate_centers:
+  - name: BENEDICT
+    distance_km: 0.16
+  - name: STROMSBURG
+    distance_km: 12.21
+  - name: YORK
+    distance_km: 15.48
+- country: US
+  region: NE
+  name: Benkelman
+  lat: '40.0468'
+  long: "-101.5402"
+  nearby_rate_centers:
+  - name: BENKELMAN
+    distance_km: 0.66
+  - name: STRATTON
+    distance_km: 29.19
+  - name: HAIGLER
+    distance_km: 33.93
+- country: US
+  region: NE
+  name: Bennet
+  lat: '40.6818'
+  long: "-96.5039"
+  nearby_rate_centers:
+  - name: BENNET
+    distance_km: 0.36
+  - name: PANAMA
+    distance_km: 9.31
+  - name: PALMYRA
+    distance_km: 9.76
+- country: US
+  region: NE
+  name: Bennington
+  lat: '41.3682'
+  long: "-96.1616"
+  nearby_rate_centers:
+  - name: BENNINGTON
+    distance_km: 0.51
+  - name: ELKHORN
+    distance_km: 8.54
+  - name: KENNARD
+    distance_km: 13.46
+- country: US
+  region: NE
+  name: Berea
+  lat: '42.2123'
+  long: "-102.9830"
+  nearby_rate_centers:
+  - name: HEMINGFORD
+    distance_km: 13.68
+  - name: ALLIANCE
+    distance_km: 15.65
+  - name: MIRAGEFLTS
+    distance_km: 40.33
+- country: US
+  region: NE
+  name: Bertrand
+  lat: '40.5263'
+  long: "-99.6324"
+  nearby_rate_centers:
+  - name: BERTRAND
+    distance_km: 0.32
+  - name: LOOMIS
+    distance_km: 11.77
+  - name: ELWOOD
+    distance_km: 21.01
+- country: US
+  region: NE
+  name: Berwyn
+  lat: '41.3509'
+  long: "-99.5007"
+  nearby_rate_centers:
+  - name: ANSLEY
+    distance_km: 11.71
+  - name: BROKEN BOW
+    distance_km: 14.18
+  - name: MASON CITY
+    distance_km: 21.85
+- country: US
+  region: NE
+  name: Big Springs
+  lat: '41.0609'
+  long: "-102.0745"
+  nearby_rate_centers:
+  - name: BIGSPRINGS
+    distance_km: 0.58
+  - name: BRULE
+    distance_km: 15.51
+  - name: NO JULESBG
+    distance_km: 27.25
+- country: US
+  region: NE
+  name: Bladen
+  lat: '40.3232'
+  long: "-98.5961"
+  nearby_rate_centers:
+  - name: BLUE HILL
+    distance_km: 13.0
+  - name: RED CLOUD
+    distance_km: 27.36
+  - name: JUNIATA
+    distance_km: 31.1
+- country: US
+  region: NE
+  name: Blair
+  lat: '41.5416'
+  long: "-96.1359"
+  nearby_rate_centers:
+  - name: BLAIR
+    distance_km: 0.29
+  - name: KENNARD
+    distance_km: 8.98
+  - name: FT CALHOUN
+    distance_km: 12.91
+- country: US
+  region: NE
+  name: Bloomfield
+  lat: '42.5984'
+  long: "-97.6481"
+  nearby_rate_centers:
+  - name: BLOOMFIELD
+    distance_km: 0.18
+  - name: WAUSA
+    distance_km: 13.92
+  - name: CENTER
+    distance_km: 18.83
+- country: US
+  region: NE
+  name: Bloomington
+  lat: '40.0938'
+  long: "-99.0384"
+  nearby_rate_centers:
+  - name: BLOOMINGTN
+    distance_km: 0.41
+  - name: FRANKLIN
+    distance_km: 7.66
+  - name: NAPONEE
+    distance_km: 8.9
+- country: US
+  region: NE
+  name: Blue Hill
+  lat: '40.3328'
+  long: "-98.4483"
+  nearby_rate_centers:
+  - name: BLUE HILL
+    distance_km: 0.43
+  - name: GLENVIL
+    distance_km: 25.26
+  - name: DEWEESE
+    distance_km: 26.17
+- country: US
+  region: NE
+  name: Blue Springs
+  lat: '40.1375'
+  long: "-96.6631"
+  nearby_rate_centers:
+  - name: WYMORE
+    distance_km: 1.4
+  - name: BARNESTON
+    distance_km: 12.05
+  - name: ODELL
+    distance_km: 14.67
+- country: US
+  region: NE
+  name: Bow Valley
+  lat: '42.7154'
+  long: "-97.2521"
+  nearby_rate_centers:
+  - name: WYFRYCSTHL
+    distance_km: 2.04
+  - name: HARTINGTON
+    distance_km: 9.84
+  - name: SO YANKTON
+    distance_km: 13.75
+- country: US
+  region: NE
+  name: Boys Town
+  lat: '41.2558'
+  long: "-96.1292"
+  nearby_rate_centers:
+  - name: ELKHORN
+    distance_km: 12.3
+  - name: BENNINGTON
+    distance_km: 12.48
+  - name: OMAHA
+    distance_km: 15.47
+- country: US
+  region: NE
+  name: Bradshaw
+  lat: '40.8835'
+  long: "-97.7468"
+  nearby_rate_centers:
+  - name: BRADSHAW
+    distance_km: 0.37
+  - name: HAMPTON
+    distance_km: 12.23
+  - name: HENDERSON
+    distance_km: 13.16
+- country: US
+  region: NE
+  name: Brady
+  lat: '41.0223'
+  long: "-100.3676"
+  nearby_rate_centers:
+  - name: BRADY
+    distance_km: 0.14
+  - name: MAXWELL
+    distance_km: 14.97
+  - name: GOTHENBURG
+    distance_km: 19.6
+- country: US
+  region: NE
+  name: Brainard
+  lat: '41.1821'
+  long: "-97.0024"
+  nearby_rate_centers:
+  - name: BRAINARD
+    distance_km: 0.3
+  - name: DWIGHT
+    distance_km: 11.06
+  - name: BRUNO
+    distance_km: 11.97
+- country: US
+  region: NE
+  name: Brewster
+  lat: '41.9384'
+  long: "-99.8651"
+  nearby_rate_centers:
+  - name: BREWSTER
+    distance_km: 0.47
+  - name: DUNNING
+    distance_km: 23.96
+  - name: HALSEY
+    distance_km: 34.12
+- country: US
+  region: NE
+  name: Bridgeport
+  lat: '41.6639'
+  long: "-103.0962"
+  nearby_rate_centers:
+  - name: BRIDGEPORT
+    distance_km: 0.82
+  - name: BROADWATER
+    distance_km: 21.49
+  - name: BAYARD
+    distance_km: 21.68
+- country: US
+  region: NE
+  name: Bristow
+  lat: '42.8408'
+  long: "-98.5834"
+  nearby_rate_centers:
+  - name: BRISTOW
+    distance_km: 1.1
+  - name: LYNCH
+    distance_km: 9.4
+  - name: SPENCER
+    distance_km: 10.32
+- country: US
+  region: NE
+  name: Broadwater
+  lat: '41.5980'
+  long: "-102.8525"
+  nearby_rate_centers:
+  - name: BROADWATER
+    distance_km: 0.19
+  - name: BRIDGEPORT
+    distance_km: 21.46
+  - name: DALTON
+    distance_km: 23.48
+- country: US
+  region: NE
+  name: Brock
+  lat: '40.4804'
+  long: "-95.9601"
+  nearby_rate_centers:
+  - name: BROCK
+    distance_km: 0.3
+  - name: TALMAGE
+    distance_km: 7.88
+  - name: JOHNSON
+    distance_km: 8.05
+- country: US
+  region: NE
+  name: Broken Bow
+  lat: '41.4051'
+  long: "-99.6408"
+  nearby_rate_centers:
+  - name: BROKEN BOW
+    distance_km: 1.06
+  - name: MERNA
+    distance_km: 13.56
+  - name: ANSLEY
+    distance_km: 24.82
+- country: US
+  region: NE
+  name: Brownlee
+  lat: '42.2893'
+  long: "-100.6241"
+  nearby_rate_centers:
+  - name: BROWNLEE
+    distance_km: 0.9
+  - name: SENECA
+    distance_km: 33.37
+  - name: THEDFORD
+    distance_km: 34.23
+- country: US
+  region: NE
+  name: Brownville
+  lat: '40.3977'
+  long: "-95.6611"
+  nearby_rate_centers:
+  - name: BROWNVILLE
+    distance_km: 0.5
+  - name: NEMAHA
+    distance_km: 6.49
+  - name: PERU
+    distance_km: 11.41
+- country: US
+  region: NE
+  name: Brule
+  lat: '41.0947'
+  long: "-101.8882"
+  nearby_rate_centers:
+  - name: BRULE
+    distance_km: 0.63
+  - name: OGALLALA
+    distance_km: 14.14
+  - name: BIGSPRINGS
+    distance_km: 16.27
+- country: US
+  region: NE
+  name: Bruning
+  lat: '40.3358'
+  long: "-97.5647"
+  nearby_rate_centers:
+  - name: BRUNING
+    distance_km: 0.29
+  - name: CARLETON
+    distance_km: 9.97
+  - name: OHIOWA
+    distance_km: 13.24
+- country: US
+  region: NE
+  name: Bruno
+  lat: '41.2830'
+  long: "-96.9607"
+  nearby_rate_centers:
+  - name: BRUNO
+    distance_km: 0.3
+  - name: OCTAVIA
+    distance_km: 11.21
+  - name: BRAINARD
+    distance_km: 11.66
+- country: US
+  region: NE
+  name: Brunswick
+  lat: '42.3377'
+  long: "-97.9718"
+  nearby_rate_centers:
+  - name: BRUNSWICK
+    distance_km: 0.71
+  - name: PLAINVIEW
+    distance_km: 14.71
+  - name: CREIGHTON
+    distance_km: 15.01
+- country: US
+  region: NE
+  name: Burchard
+  lat: '40.1493'
+  long: "-96.3488"
+  nearby_rate_centers:
+  - name: BURCHARD
+    distance_km: 0.1
+  - name: STEINAUER
+    distance_km: 11.78
+  - name: LIBERTY
+    distance_km: 13.09
+- country: US
+  region: NE
+  name: Burr
+  lat: '40.5360'
+  long: "-96.2997"
+  nearby_rate_centers:
+  - name: BURR
+    distance_km: 0.58
+  - name: DOUGLAS
+    distance_km: 9.94
+  - name: STERLING
+    distance_km: 10.46
+- country: US
+  region: NE
+  name: Burton
+  lat: '42.9119'
+  long: "-99.5918"
+  nearby_rate_centers:
+  - name: SO GREGORY
+    distance_km: 5.78
+  - name: SPRINGVIEW
+    distance_km: 16.33
+  - name: SOUTHBURKE
+    distance_km: 28.97
+- country: US
+  region: NE
+  name: Burwell
+  lat: '41.7801'
+  long: "-99.1342"
+  nearby_rate_centers:
+  - name: BURWELL
+    distance_km: 0.68
+  - name: TAYLOR
+    distance_km: 20.9
+  - name: SARGENT
+    distance_km: 25.37
+- country: US
+  region: NE
+  name: Bushnell
+  lat: '41.2328'
+  long: "-103.8912"
+  nearby_rate_centers:
+  - name: BUSHNELL
+    distance_km: 0.17
+  - name: KIMBALL CY
+    distance_km: 13.9
+  - name: KIMBALL
+    distance_km: 19.16
+- country: US
+  region: NE
+  name: Butte
+  lat: '42.9125'
+  long: "-98.8479"
+  nearby_rate_centers:
+  - name: BUTTE
+    distance_km: 0.47
+  - name: SOBONESTEL
+    distance_km: 7.21
+  - name: SPENCER
+    distance_km: 12.66
+- country: US
+  region: NE
+  name: Byron
+  lat: '40.0048'
+  long: "-97.7686"
+  nearby_rate_centers:
+  - name: BYRON
+    distance_km: 0.35
+  - name: CHESTER
+    distance_km: 12.76
+  - name: HARDY
+    distance_km: 13.32
+- country: US
+  region: NE
+  name: Cairo
+  lat: '41.0046'
+  long: "-98.6007"
+  nearby_rate_centers:
+  - name: CAIRO
+    distance_km: 0.68
+  - name: BOELUS
+    distance_km: 12.69
+  - name: DANNEBROG
+    distance_km: 13.27
+- country: US
+  region: NE
+  name: Callaway
+  lat: '41.2915'
+  long: "-99.9203"
+  nearby_rate_centers:
+  - name: CALLAWAY
+    distance_km: 0.36
+  - name: OCONTO
+    distance_km: 20.81
+  - name: MERNA
+    distance_km: 24.86
+- country: US
+  region: NE
+  name: Cambridge
+  lat: '40.2843'
+  long: "-100.1653"
+  nearby_rate_centers:
+  - name: CAMBRIDGE
+    distance_km: 0.75
+  - name: BARTLEY
+    distance_km: 13.18
+  - name: HOLBROOK
+    distance_km: 13.7
+- country: US
+  region: NE
+  name: Campbell
+  lat: '40.2963'
+  long: "-98.7316"
+  nearby_rate_centers:
+  - name: BLUE HILL
+    distance_km: 24.79
+  - name: HILDRETH
+    distance_km: 26.5
+  - name: FRANKLIN
+    distance_km: 29.43
+- country: US
+  region: NE
+  name: Carleton
+  lat: '40.3033'
+  long: "-97.6816"
+  nearby_rate_centers:
+  - name: CARLETON
+    distance_km: 0.75
+  - name: BRUNING
+    distance_km: 10.34
+  - name: DAVENPORT
+    distance_km: 10.75
+- country: US
+  region: NE
+  name: Carroll
+  lat: '42.2758'
+  long: "-97.1908"
+  nearby_rate_centers:
+  - name: CARROLL
+    distance_km: 0.39
+  - name: WINSIDE
+    distance_km: 10.28
+  - name: BELDEN
+    distance_km: 14.8
+- country: US
+  region: NE
+  name: Cedar Bluffs
+  lat: '41.3972'
+  long: "-96.6097"
+  nearby_rate_centers:
+  - name: CEDAR BLF
+    distance_km: 0.54
+  - name: COLON
+    distance_km: 10.67
+  - name: FREMONT
+    distance_km: 10.96
+- country: US
+  region: NE
+  name: Cedar Creek
+  lat: '41.0451'
+  long: "-96.1016"
+  nearby_rate_centers:
+  - name: SPRINGFLD
+    distance_km: 4.99
+  - name: LOUISVILLE
+    distance_km: 6.81
+  - name: GRETNA
+    distance_km: 10.91
+- country: US
+  region: NE
+  name: Cedar Rapids
+  lat: '41.5589'
+  long: "-98.1493"
+  nearby_rate_centers:
+  - name: CEDAR RPDS
+    distance_km: 0.34
+  - name: PRIMROSE
+    distance_km: 9.99
+  - name: BELGRADE
+    distance_km: 11.56
+- country: US
+  region: NE
+  name: Center
+  lat: '42.6090'
+  long: "-97.8761"
+  nearby_rate_centers:
+  - name: CENTER
+    distance_km: 0.14
+  - name: VERDIGRE
+    distance_km: 13.57
+  - name: WINNETOON
+    distance_km: 13.62
+- country: US
+  region: NE
+  name: Central City
+  lat: '41.1134'
+  long: "-98.0008"
+  nearby_rate_centers:
+  - name: CENTRAL CY
+    distance_km: 0.24
+  - name: HORDVILLE
+    distance_km: 10.58
+  - name: MARQUETTE
+    distance_km: 11.65
+- country: US
+  region: NE
+  name: Ceresco
+  lat: '41.0580'
+  long: "-96.6459"
+  nearby_rate_centers:
+  - name: CERESCO
+    distance_km: 0.48
+  - name: DAVEY
+    distance_km: 8.76
+  - name: ITHACA
+    distance_km: 14.01
+- country: US
+  region: NE
+  name: Chadron
+  lat: '42.8260'
+  long: "-103.0025"
+  nearby_rate_centers:
+  - name: CHADRON
+    distance_km: 0.29
+  - name: SOOELRICHS
+    distance_km: 24.44
+  - name: HAYSPRINGS
+    distance_km: 30.05
+- country: US
+  region: NE
+  name: Chalco
+  lat: '41.1817'
+  long: "-96.1353"
+  nearby_rate_centers:
+  - name: GRETNA
+    distance_km: 9.15
+  - name: SPRINGFLD
+    distance_km: 10.94
+  - name: OMAHA
+    distance_km: 18.17
+- country: US
+  region: NE
+  name: Chambers
+  lat: '42.2047'
+  long: "-98.7486"
+  nearby_rate_centers:
+  - name: CHAMBERS
+    distance_km: 0.57
+  - name: INMAN
+    distance_km: 26.39
+  - name: O NEILL
+    distance_km: 28.95
+- country: US
+  region: NE
+  name: Champion
+  lat: '40.4706'
+  long: "-101.7468"
+  nearby_rate_centers:
+  - name: IMPERIAL
+    distance_km: 9.34
+  - name: WAUNETA
+    distance_km: 32.23
+  - name: VENANGO
+    distance_km: 40.54
+- country: US
+  region: NE
+  name: Chapman
+  lat: '41.0233'
+  long: "-98.1593"
+  nearby_rate_centers:
+  - name: CHAPMAN
+    distance_km: 0.02
+  - name: MARQUETTE
+    distance_km: 12.58
+  - name: PHILLIPS
+    distance_km: 15.45
+- country: US
+  region: NE
+  name: Chappell
+  lat: '41.0913'
+  long: "-102.4700"
+  nearby_rate_centers:
+  - name: CHAPPELL
+    distance_km: 0.56
+  - name: NO JULESBG
+    distance_km: 7.55
+  - name: LODGEPOLE
+    distance_km: 15.91
+- country: US
+  region: NE
+  name: Cheney
+  lat: '40.7261'
+  long: "-96.5936"
+  nearby_rate_centers:
+  - name: BENNET
+    distance_km: 9.24
+  - name: HICKMAN
+    distance_km: 11.75
+  - name: LINCOLN
+    distance_km: 13.6
+- country: US
+  region: NE
+  name: Chester
+  lat: '40.0101'
+  long: "-97.6181"
+  nearby_rate_centers:
+  - name: CHESTER
+    distance_km: 0.68
+  - name: BYRON
+    distance_km: 12.83
+  - name: DESHLER
+    distance_km: 17.14
+- country: US
+  region: NE
+  name: Clarks
+  lat: '41.2163'
+  long: "-97.8394"
+  nearby_rate_centers:
+  - name: CLARKS
+    distance_km: 0.07
+  - name: HORDVILLE
+    distance_km: 15.05
+  - name: POLK
+    distance_km: 16.47
+- country: US
+  region: NE
+  name: Clarkson
+  lat: '41.7234'
+  long: "-97.1215"
+  nearby_rate_centers:
+  - name: CLARKSON
+    distance_km: 0.31
+  - name: LEIGH
+    distance_km: 9.45
+  - name: HOWELLS
+    distance_km: 10.21
+- country: US
+  region: NE
+  name: Clatonia
+  lat: '40.4654'
+  long: "-96.8512"
+  nearby_rate_centers:
+  - name: CLATONIA
+    distance_km: 0.25
+  - name: WILBER
+    distance_km: 9.74
+  - name: HALLAM
+    distance_km: 10.21
+- country: US
+  region: NE
+  name: Clay Center
+  lat: '40.5256'
+  long: "-98.0550"
+  nearby_rate_centers:
+  - name: CLAYCENTER
+    distance_km: 0.43
+  - name: FAIRFIELD
+    distance_km: 11.29
+  - name: HARVARD
+    distance_km: 11.68
+- country: US
+  region: NE
+  name: Clearwater
+  lat: '42.1707'
+  long: "-98.1897"
+  nearby_rate_centers:
+  - name: CLEARWATER
+    distance_km: 0.41
+  - name: NELIGH
+    distance_km: 14.49
+  - name: EWING
+    distance_km: 16.21
+- country: US
+  region: NE
+  name: Clinton
+  lat: '42.7598'
+  long: "-102.3479"
+  nearby_rate_centers:
+  - name: RUSHVILLE
+    distance_km: 10.27
+  - name: GORDON
+    distance_km: 12.82
+  - name: HAYSPRINGS
+    distance_km: 29.07
+- country: US
+  region: NE
+  name: Cody
+  lat: '42.9377'
+  long: "-101.2489"
+  nearby_rate_centers:
+  - name: CODY
+    distance_km: 0.36
+  - name: KILGORE
+    distance_km: 23.83
+  - name: MERRIMAN
+    distance_km: 36.95
+- country: US
+  region: NE
+  name: Coleridge
+  lat: '42.5065'
+  long: "-97.2029"
+  nearby_rate_centers:
+  - name: COLERIDGE
+    distance_km: 0.62
+  - name: BELDEN
+    distance_km: 10.96
+  - name: LAUREL
+    distance_km: 12.56
+- country: US
+  region: NE
+  name: Colon
+  lat: '41.2981'
+  long: "-96.6069"
+  nearby_rate_centers:
+  - name: COLON
+    distance_km: 0.35
+  - name: WAHOO
+    distance_km: 9.9
+  - name: CEDAR BLF
+    distance_km: 11.43
+- country: US
+  region: NE
+  name: Columbus
+  lat: '41.4366'
+  long: "-97.3565"
+  nearby_rate_centers:
+  - name: COLUMBUS
+    distance_km: 1.27
+  - name: DUNCAN
+    distance_km: 11.32
+  - name: BELLWOOD
+    distance_km: 14.24
+- country: US
+  region: NE
+  name: Comstock
+  lat: '41.5572'
+  long: "-99.2430"
+  nearby_rate_centers:
+  - name: COMSTOCK
+    distance_km: 0.24
+  - name: SARGENT
+    distance_km: 14.41
+  - name: ARCADIA
+    distance_km: 17.7
+- country: US
+  region: NE
+  name: Concord
+  lat: '42.3839'
+  long: "-96.9890"
+  nearby_rate_centers:
+  - name: DIXON
+    distance_km: 2.59
+  - name: LAUREL
+    distance_km: 9.84
+  - name: ALLEN
+    distance_km: 12.87
+- country: US
+  region: NE
+  name: Cook
+  lat: '40.5105'
+  long: "-96.1619"
+  nearby_rate_centers:
+  - name: COOK
+    distance_km: 0.6
+  - name: BURR
+    distance_km: 12.34
+  - name: TALMAGE
+    distance_km: 12.46
+- country: US
+  region: NE
+  name: Cordova
+  lat: '40.7164'
+  long: "-97.3516"
+  nearby_rate_centers:
+  - name: CORDOVA
+    distance_km: 0.25
+  - name: BEAVERCSNG
+    distance_km: 9.04
+  - name: FRIEND
+    distance_km: 9.18
+- country: US
+  region: NE
+  name: Cornlea
+  lat: '41.6800'
+  long: "-97.5669"
+  nearby_rate_centers:
+  - name: HUMPHREY
+    distance_km: 6.96
+  - name: LINDSAY
+    distance_km: 10.63
+  - name: PLATTE CTR
+    distance_km: 16.67
+- country: US
+  region: NE
+  name: Cortland
+  lat: '40.5059'
+  long: "-96.7063"
+  nearby_rate_centers:
+  - name: CORTLAND
+    distance_km: 0.9
+  - name: HALLAM
+    distance_km: 7.65
+  - name: FIRTH
+    distance_km: 9.58
+- country: US
+  region: NE
+  name: Cotesfield
+  lat: '41.3575'
+  long: "-98.6335"
+  nearby_rate_centers:
+  - name: COTESFIELD
+    distance_km: 0.29
+  - name: ELBA
+    distance_km: 9.99
+  - name: SCOTIA
+    distance_km: 13.34
+- country: US
+  region: NE
+  name: Cowles
+  lat: '40.1714'
+  long: "-98.4491"
+  nearby_rate_centers:
+  - name: RED CLOUD
+    distance_km: 11.58
+  - name: GUIDE ROCK
+    distance_km: 14.37
+  - name: BLUE HILL
+    distance_km: 17.97
+- country: US
+  region: NE
+  name: Cozad
+  lat: '40.8613'
+  long: "-99.9863"
+  nearby_rate_centers:
+  - name: COZAD
+    distance_km: 0.46
+  - name: GOTHENBURG
+    distance_km: 17.1
+  - name: LEXINGTON
+    distance_km: 21.94
+- country: US
+  region: NE
+  name: Crab Orchard
+  lat: '40.3347'
+  long: "-96.4224"
+  nearby_rate_centers:
+  - name: CRAB ORCH
+    distance_km: 0.76
+  - name: FILLEY
+    distance_km: 10.91
+  - name: VIRGINIA
+    distance_km: 11.25
+- country: US
+  region: NE
+  name: Craig
+  lat: '41.7852'
+  long: "-96.3624"
+  nearby_rate_centers:
+  - name: CRAIG
+    distance_km: 0.84
+  - name: OAKLAND
+    distance_km: 9.91
+  - name: TEKAMAH
+    distance_km: 11.54
+- country: US
+  region: NE
+  name: Crawford
+  lat: '42.6845'
+  long: "-103.4160"
+  nearby_rate_centers:
+  - name: CRAWFORD
+    distance_km: 0.56
+  - name: SO ARDMORE
+    distance_km: 34.26
+  - name: SOOELRICHS
+    distance_km: 36.86
+- country: US
+  region: NE
+  name: Creighton
+  lat: '42.4649'
+  long: "-97.9071"
+  nearby_rate_centers:
+  - name: CREIGHTON
+    distance_km: 0.1
+  - name: WINNETOON
+    distance_km: 6.61
+  - name: BRUNSWICK
+    distance_km: 14.5
+- country: US
+  region: NE
+  name: Creston
+  lat: '41.7080'
+  long: "-97.3625"
+  nearby_rate_centers:
+  - name: CRESTON
+    distance_km: 0.46
+  - name: HUMPHREY
+    distance_km: 10.3
+  - name: LEIGH
+    distance_km: 10.73
+- country: US
+  region: NE
+  name: Crete
+  lat: '40.6253'
+  long: "-96.9575"
+  nearby_rate_centers:
+  - name: CRETE
+    distance_km: 0.23
+  - name: DORCHESTER
+    distance_km: 13.71
+  - name: WILBER
+    distance_km: 15.87
+- country: US
+  region: NE
+  name: Crofton
+  lat: '42.7315'
+  long: "-97.4986"
+  nearby_rate_centers:
+  - name: CROFTON
+    distance_km: 0.09
+  - name: SO YANKTON
+    distance_km: 12.71
+  - name: BLOOMFIELD
+    distance_km: 19.36
+- country: US
+  region: NE
+  name: Crookston
+  lat: '42.9263'
+  long: "-100.7534"
+  nearby_rate_centers:
+  - name: CROOKSTON
+    distance_km: 0.76
+  - name: KILGORE
+    distance_km: 16.61
+  - name: VALENTINE
+    distance_km: 17.44
+- country: US
+  region: NE
+  name: Culbertson
+  lat: '40.2284'
+  long: "-100.8351"
+  nearby_rate_centers:
+  - name: CULBERTSON
+    distance_km: 0.63
+  - name: TRENTON
+    distance_km: 15.59
+  - name: MCCOOK
+    distance_km: 18.1
+- country: US
+  region: NE
+  name: Curtis
+  lat: '40.6336'
+  long: "-100.5112"
+  nearby_rate_centers:
+  - name: CURTIS
+    distance_km: 0.41
+  - name: MAYWOOD
+    distance_km: 9.85
+  - name: WELLFLEET
+    distance_km: 22.82
+- country: US
+  region: NE
+  name: Cushing
+  lat: '41.2949'
+  long: "-98.3693"
+  nearby_rate_centers:
+  - name: WOLBACH
+    distance_km: 11.73
+  - name: ST PAUL
+    distance_km: 11.96
+  - name: PALMER
+    distance_km: 12.05
+- country: US
+  region: NE
+  name: Dakota City
+  lat: '42.4184'
+  long: "-96.4201"
+  nearby_rate_centers:
+  - name: DAKOTACITY
+    distance_km: 0.47
+  - name: SOSIOUX CY
+    distance_km: 5.5
+  - name: HOMER
+    distance_km: 12.44
+- country: US
+  region: NE
+  name: Dalton
+  lat: '41.4083'
+  long: "-102.9708"
+  nearby_rate_centers:
+  - name: DALTON
+    distance_km: 0.3
+  - name: GURLEY
+    distance_km: 10.34
+  - name: BROADWATER
+    distance_km: 23.1
+- country: US
+  region: NE
+  name: Danbury
+  lat: '40.0376'
+  long: "-100.4051"
+  nearby_rate_centers:
+  - name: DANBURY
+    distance_km: 0.82
+  - name: LEBANON
+    distance_km: 10.64
+  - name: INDIANOLA
+    distance_km: 22.05
+- country: US
+  region: NE
+  name: Dannebrog
+  lat: '41.1185'
+  long: "-98.5456"
+  nearby_rate_centers:
+  - name: DANNEBROG
+    distance_km: 0.44
+  - name: FARWELL
+    distance_km: 12.07
+  - name: ST PAUL
+    distance_km: 12.59
+- country: US
+  region: NE
+  name: Davenport
+  lat: '40.3123'
+  long: "-97.8115"
+  nearby_rate_centers:
+  - name: DAVENPORT
+    distance_km: 0.63
+  - name: ONG
+    distance_km: 9.99
+  - name: CARLETON
+    distance_km: 11.79
+- country: US
+  region: NE
+  name: Davey
+  lat: '40.9838'
+  long: "-96.6692"
+  nearby_rate_centers:
+  - name: DAVEY
+    distance_km: 0.39
+  - name: CERESCO
+    distance_km: 8.61
+  - name: RAYMOND
+    distance_km: 10.17
+- country: US
+  region: NE
+  name: David City
+  lat: '41.2578'
+  long: "-97.1282"
+  nearby_rate_centers:
+  - name: DAVID CITY
+    distance_km: 0.78
+  - name: OCTAVIA
+    distance_km: 11.77
+  - name: BELLWOOD
+    distance_km: 13.32
+- country: US
+  region: NE
+  name: Dawson
+  lat: '40.1308'
+  long: "-95.8298"
+  nearby_rate_centers:
+  - name: DAWSON
+    distance_km: 0.52
+  - name: HUMBOLDT
+    distance_km: 10.63
+  - name: TRI CITY
+    distance_km: 15.26
+- country: US
+  region: NE
+  name: Daykin
+  lat: '40.3217'
+  long: "-97.2983"
+  nearby_rate_centers:
+  - name: DAYKIN
+    distance_km: 0.63
+  - name: ALEXANDRIA
+    distance_km: 11.16
+  - name: WESTERN
+    distance_km: 11.32
+- country: US
+  region: NE
+  name: De Witt
+  lat: '40.3953'
+  long: "-96.9221"
+  nearby_rate_centers:
+  - name: DE WITT
+    distance_km: 0.64
+  - name: CLATONIA
+    distance_km: 10.08
+  - name: WILBER
+    distance_km: 10.35
+- country: US
+  region: NE
+  name: Decatur
+  lat: '42.0058'
+  long: "-96.2497"
+  nearby_rate_centers:
+  - name: DECATUR
+    distance_km: 0.08
+  - name: MACY
+    distance_km: 14.91
+  - name: LYONS
+    distance_km: 20.13
+- country: US
+  region: NE
+  name: Denton
+  lat: '40.7393'
+  long: "-96.8461"
+  nearby_rate_centers:
+  - name: DENTON
+    distance_km: 0.38
+  - name: PLEASANTDL
+    distance_km: 9.24
+  - name: MARTELL
+    distance_km: 13.73
+- country: US
+  region: NE
+  name: Deshler
+  lat: '40.1396'
+  long: "-97.7233"
+  nearby_rate_centers:
+  - name: DESHLER
+    distance_km: 0.27
+  - name: RUSKIN
+    distance_km: 12.03
+  - name: HEBRON
+    distance_km: 12.49
+- country: US
+  region: NE
+  name: Deweese
+  lat: '40.3547'
+  long: "-98.1392"
+  nearby_rate_centers:
+  - name: DEWEESE
+    distance_km: 0.35
+  - name: FAIRFIELD
+    distance_km: 9.05
+  - name: EDGAR
+    distance_km: 14.92
+- country: US
+  region: NE
+  name: Diller
+  lat: '40.1089'
+  long: "-96.9374"
+  nearby_rate_centers:
+  - name: DILLER
+    distance_km: 0.46
+  - name: HARBINE
+    distance_km: 9.7
+  - name: STEELECITY
+    distance_km: 10.56
+- country: US
+  region: NE
+  name: Dix
+  lat: '41.2342'
+  long: "-103.4867"
+  nearby_rate_centers:
+  - name: DIX
+    distance_km: 0.34
+  - name: POTTER
+    distance_km: 14.26
+  - name: KIMBALL
+    distance_km: 14.67
+- country: US
+  region: NE
+  name: Dixon
+  lat: '42.4155'
+  long: "-96.9948"
+  nearby_rate_centers:
+  - name: DIXON
+    distance_km: 0.99
+  - name: LAUREL
+    distance_km: 8.17
+  - name: ALLEN
+    distance_km: 12.83
+- country: US
+  region: NE
+  name: Dodge
+  lat: '41.7218'
+  long: "-96.8804"
+  nearby_rate_centers:
+  - name: DODGE
+    distance_km: 0.71
+  - name: SNYDER
+    distance_km: 7.66
+  - name: HOWELLS
+    distance_km: 9.81
+- country: US
+  region: NE
+  name: Doniphan
+  lat: '40.7742'
+  long: "-98.3708"
+  nearby_rate_centers:
+  - name: DONIPHAN
+    distance_km: 0.48
+  - name: HANSEN
+    distance_km: 9.43
+  - name: TRUMBULL
+    distance_km: 13.39
+- country: US
+  region: NE
+  name: Dorchester
+  lat: '40.6477'
+  long: "-97.1153"
+  nearby_rate_centers:
+  - name: DORCHESTER
+    distance_km: 0.24
+  - name: CRETE
+    distance_km: 13.32
+  - name: FRIEND
+    distance_km: 14.32
+- country: US
+  region: NE
+  name: Douglas
+  lat: '40.5932'
+  long: "-96.3882"
+  nearby_rate_centers:
+  - name: DOUGLAS
+    distance_km: 1.02
+  - name: BURR
+    distance_km: 9.3
+  - name: PANAMA
+    distance_km: 11.05
+- country: US
+  region: NE
+  name: Du Bois
+  lat: '40.0346'
+  long: "-96.0466"
+  nearby_rate_centers:
+  - name: DUBOIS
+    distance_km: 0.2
+  - name: PAWNEECITY
+    distance_km: 12.56
+  - name: HUMBOLDT
+    distance_km: 15.99
+- country: US
+  region: NE
+  name: Dunbar
+  lat: '40.6686'
+  long: "-96.0309"
+  nearby_rate_centers:
+  - name: DUNBAR
+    distance_km: 0.53
+  - name: OTOE
+    distance_km: 9.75
+  - name: SYRACUSE
+    distance_km: 12.7
+- country: US
+  region: NE
+  name: Duncan
+  lat: '41.3904'
+  long: "-97.4928"
+  nearby_rate_centers:
+  - name: DUNCAN
+    distance_km: 1.66
+  - name: COLUMBUS
+    distance_km: 12.04
+  - name: MONROE
+    distance_km: 12.85
+- country: US
+  region: NE
+  name: Dunning
+  lat: '41.8272'
+  long: "-100.1048"
+  nearby_rate_centers:
+  - name: DUNNING
+    distance_km: 0.59
+  - name: HALSEY
+    distance_km: 17.09
+  - name: BREWSTER
+    distance_km: 23.13
+- country: US
+  region: NE
+  name: Dwight
+  lat: '41.0827'
+  long: "-97.0191"
+  nearby_rate_centers:
+  - name: DWIGHT
+    distance_km: 0.09
+  - name: BRAINARD
+    distance_km: 11.18
+  - name: GARLAND
+    distance_km: 15.2
+- country: US
+  region: NE
+  name: Eagle
+  lat: '40.8161'
+  long: "-96.4329"
+  nearby_rate_centers:
+  - name: EAGLE
+    distance_km: 0.19
+  - name: PALMYRA
+    distance_km: 12.26
+  - name: ELMWOOD
+    distance_km: 12.37
+- country: US
+  region: NE
+  name: Eddyville
+  lat: '41.0124'
+  long: "-99.6241"
+  nearby_rate_centers:
+  - name: SUMNER
+    distance_km: 12.06
+  - name: OCONTO
+    distance_km: 18.92
+  - name: MILLER
+    distance_km: 22.02
+- country: US
+  region: NE
+  name: Edgar
+  lat: '40.3683'
+  long: "-97.9710"
+  nearby_rate_centers:
+  - name: EDGAR
+    distance_km: 0.84
+  - name: ONG
+    distance_km: 12.0
+  - name: FAIRFIELD
+    distance_km: 13.76
+- country: US
+  region: NE
+  name: Edison
+  lat: '40.2792'
+  long: "-99.7758"
+  nearby_rate_centers:
+  - name: EDISON
+    distance_km: 0.74
+  - name: ARAPAHOE
+    distance_km: 10.98
+  - name: OXFORD
+    distance_km: 12.65
+- country: US
+  region: NE
+  name: Elba
+  lat: '41.2854'
+  long: "-98.5693"
+  nearby_rate_centers:
+  - name: ELBA
+    distance_km: 0.4
+  - name: FARWELL
+    distance_km: 9.71
+  - name: COTESFIELD
+    distance_km: 9.9
+- country: US
+  region: NE
+  name: Elgin
+  lat: '41.9831'
+  long: "-98.0828"
+  nearby_rate_centers:
+  - name: ELGIN
+    distance_km: 0.23
+  - name: PETERSBURG
+    distance_km: 14.58
+  - name: OAKDALE
+    distance_km: 14.63
+- country: US
+  region: NE
+  name: Elk Creek
+  lat: '40.2883'
+  long: "-96.1269"
+  nearby_rate_centers:
+  - name: ELK CREEK
+    distance_km: 0.47
+  - name: TECUMSEH
+    distance_km: 11.01
+  - name: TABLE ROCK
+    distance_km: 12.18
+- country: US
+  region: NE
+  name: Elm Creek
+  lat: '40.7201'
+  long: "-99.3755"
+  nearby_rate_centers:
+  - name: ELM CREEK
+    distance_km: 0.8
+  - name: OVERTON
+    distance_km: 13.73
+  - name: AMHERST
+    distance_km: 16.55
+- country: US
+  region: NE
+  name: Elmwood
+  lat: '40.8426'
+  long: "-96.2947"
+  nearby_rate_centers:
+  - name: ELMWOOD
+    distance_km: 0.4
+  - name: MURDOCK
+    distance_km: 9.13
+  - name: EAGLE
+    distance_km: 12.07
+- country: US
+  region: NE
+  name: Elsie
+  lat: '40.8472'
+  long: "-101.3893"
+  nearby_rate_centers:
+  - name: ELSIE
+    distance_km: 0.62
+  - name: MADRID
+    distance_km: 13.3
+  - name: WALLACE
+    distance_km: 18.97
+- country: US
+  region: NE
+  name: Elwood
+  lat: '40.5897'
+  long: "-99.8616"
+  nearby_rate_centers:
+  - name: ELWOOD
+    distance_km: 0.43
+  - name: EUSTIS
+    distance_km: 16.96
+  - name: BERTRAND
+    distance_km: 20.5
+- country: US
+  region: NE
+  name: Elyria
+  lat: '41.6802'
+  long: "-99.0053"
+  nearby_rate_centers:
+  - name: ORD
+    distance_km: 10.32
+  - name: BURWELL
+    distance_km: 16.03
+  - name: COMSTOCK
+    distance_km: 23.81
+- country: US
+  region: NE
+  name: Emerald
+  lat: '40.8131'
+  long: "-96.8354"
+  nearby_rate_centers:
+  - name: DENTON
+    distance_km: 8.22
+  - name: PLEASANTDL
+    distance_km: 8.39
+  - name: MALCOLM
+    distance_km: 10.92
+- country: US
+  region: NE
+  name: Emerson
+  lat: '42.2783'
+  long: "-96.7263"
+  nearby_rate_centers:
+  - name: EMERSON
+    distance_km: 0.49
+  - name: WAKEFIELD
+    distance_km: 11.69
+  - name: ALLEN
+    distance_km: 17.9
+- country: US
+  region: NE
+  name: Emmet
+  lat: '42.4757'
+  long: "-98.8093"
+  nearby_rate_centers:
+  - name: O NEILL
+    distance_km: 12.73
+  - name: ATKINSON
+    distance_km: 15.04
+  - name: INMAN
+    distance_km: 24.8
+- country: US
+  region: NE
+  name: Enders
+  lat: '40.4549'
+  long: "-101.5355"
+  nearby_rate_centers:
+  - name: IMPERIAL
+    distance_km: 11.97
+  - name: WAUNETA
+    distance_km: 14.43
+  - name: PALISADE
+    distance_km: 37.88
+- country: US
+  region: NE
+  name: Endicott
+  lat: '40.0814'
+  long: "-97.0954"
+  nearby_rate_centers:
+  - name: STEELECITY
+    distance_km: 7.27
+  - name: FAIRBURY
+    distance_km: 9.88
+  - name: JANSEN
+    distance_km: 12.18
+- country: US
+  region: NE
+  name: Ericson
+  lat: '41.7803'
+  long: "-98.6785"
+  nearby_rate_centers:
+  - name: ERICSON
+    distance_km: 0.39
+  - name: BARTLETT
+    distance_km: 15.15
+  - name: SPALDING
+    distance_km: 27.63
+- country: US
+  region: NE
+  name: Eustis
+  lat: '40.6645'
+  long: "-100.0296"
+  nearby_rate_centers:
+  - name: EUSTIS
+    distance_km: 0.54
+  - name: ELWOOD
+    distance_km: 16.08
+  - name: FARNAM
+    distance_km: 16.36
+- country: US
+  region: NE
+  name: Ewing
+  lat: '42.2594'
+  long: "-98.3438"
+  nearby_rate_centers:
+  - name: EWING
+    distance_km: 0.26
+  - name: ORCHARD
+    distance_km: 12.42
+  - name: CLEARWATER
+    distance_km: 15.71
+- country: US
+  region: NE
+  name: Exeter
+  lat: '40.6445'
+  long: "-97.4489"
+  nearby_rate_centers:
+  - name: EXETER
+    distance_km: 0.36
+  - name: CORDOVA
+    distance_km: 11.55
+  - name: FAIRMONT
+    distance_km: 11.67
+- country: US
+  region: NE
+  name: Fairbury
+  lat: '40.1448'
+  long: "-97.1764"
+  nearby_rate_centers:
+  - name: FAIRBURY
+    distance_km: 0.64
+  - name: JANSEN
+    distance_km: 9.3
+  - name: STEELECITY
+    distance_km: 17.07
+- country: US
+  region: NE
+  name: Fairfield
+  lat: '40.4323'
+  long: "-98.1033"
+  nearby_rate_centers:
+  - name: FAIRFIELD
+    distance_km: 0.54
+  - name: DEWEESE
+    distance_km: 8.92
+  - name: CLAYCENTER
+    distance_km: 11.13
+- country: US
+  region: NE
+  name: Fairmont
+  lat: '40.6343'
+  long: "-97.5991"
+  nearby_rate_centers:
+  - name: FAIRMONT
+    distance_km: 1.08
+  - name: GRAFTON
+    distance_km: 9.89
+  - name: EXETER
+    distance_km: 12.45
+- country: US
+  region: NE
+  name: Falls City
+  lat: '40.0623'
+  long: "-95.5989"
+  nearby_rate_centers:
+  - name: FALLS CITY
+    distance_km: 0.29
+  - name: TRI CITY
+    distance_km: 19.44
+  - name: DAWSON
+    distance_km: 21.44
+- country: US
+  region: NE
+  name: Farnam
+  lat: '40.7065'
+  long: "-100.2155"
+  nearby_rate_centers:
+  - name: FARNAM
+    distance_km: 0.05
+  - name: EUSTIS
+    distance_km: 15.82
+  - name: GOTHENBURG
+    distance_km: 25.58
+- country: US
+  region: NE
+  name: Farwell
+  lat: '41.2156'
+  long: "-98.6280"
+  nearby_rate_centers:
+  - name: FARWELL
+    distance_km: 0.77
+  - name: ELBA
+    distance_km: 8.86
+  - name: DANNEBROG
+    distance_km: 13.25
+- country: US
+  region: NE
+  name: Filley
+  lat: '40.2851'
+  long: "-96.5339"
+  nearby_rate_centers:
+  - name: FILLEY
+    distance_km: 0.34
+  - name: VIRGINIA
+    distance_km: 4.44
+  - name: CRAB ORCH
+    distance_km: 11.31
+- country: US
+  region: NE
+  name: Firth
+  lat: '40.5360'
+  long: "-96.6046"
+  nearby_rate_centers:
+  - name: FIRTH
+    distance_km: 0.52
+  - name: CORTLAND
+    distance_km: 8.32
+  - name: PANAMA
+    distance_km: 10.06
+- country: US
+  region: NE
+  name: Fontanelle
+  lat: '41.5383'
+  long: "-96.4271"
+  nearby_rate_centers:
+  - name: ARLINGTON
+    distance_km: 11.05
+  - name: HOOPER
+    distance_km: 12.08
+  - name: FREMONT
+    distance_km: 12.11
+- country: US
+  region: NE
+  name: Fordyce
+  lat: '42.6983'
+  long: "-97.3628"
+  nearby_rate_centers:
+  - name: WYFRYCSTHL
+    distance_km: 10.07
+  - name: SO YANKTON
+    distance_km: 11.39
+  - name: HARTINGTON
+    distance_km: 11.56
+- country: US
+  region: NE
+  name: Fort Calhoun
+  lat: '41.4563'
+  long: "-96.0264"
+  nearby_rate_centers:
+  - name: FT CALHOUN
+    distance_km: 0.47
+  - name: BLAIR
+    distance_km: 12.87
+  - name: BENNINGTON
+    distance_km: 14.74
+- country: US
+  region: NE
+  name: Foster
+  lat: '42.2747'
+  long: "-97.6651"
+  nearby_rate_centers:
+  - name: OSMOND
+    distance_km: 10.85
+  - name: PLAINVIEW
+    distance_km: 13.59
+  - name: PIERCE
+    distance_km: 14.05
+- country: US
+  region: NE
+  name: Franklin
+  lat: '40.0966'
+  long: "-98.9514"
+  nearby_rate_centers:
+  - name: FRANKLIN
+    distance_km: 0.79
+  - name: BLOOMINGTN
+    distance_km: 7.81
+  - name: NAPONEE
+    distance_km: 16.24
+- country: US
+  region: NE
+  name: Fremont
+  lat: '41.4395'
+  long: "-96.4873"
+  nearby_rate_centers:
+  - name: FREMONT
+    distance_km: 0.39
+  - name: CEDAR BLF
+    distance_km: 10.75
+  - name: ARLINGTON
+    distance_km: 11.54
+- country: US
+  region: NE
+  name: Friend
+  lat: '40.6505'
+  long: "-97.2838"
+  nearby_rate_centers:
+  - name: FRIEND
+    distance_km: 0.12
+  - name: CORDOVA
+    distance_km: 9.07
+  - name: BEAVERCSNG
+    distance_km: 13.57
+- country: US
+  region: NE
+  name: Fullerton
+  lat: '41.3647'
+  long: "-97.9726"
+  nearby_rate_centers:
+  - name: FULLERTON
+    distance_km: 0.41
+  - name: BELGRADE
+    distance_km: 14.62
+  - name: CLARKS
+    distance_km: 19.94
+- country: US
+  region: NE
+  name: Funk
+  lat: '40.4631'
+  long: "-99.2507"
+  nearby_rate_centers:
+  - name: FUNK
+    distance_km: 0.51
+  - name: AXTELL
+    distance_km: 10.63
+  - name: HOLDREGE
+    distance_km: 10.72
+- country: US
+  region: NE
+  name: Gandy
+  lat: '41.4698'
+  long: "-100.4583"
+  nearby_rate_centers:
+  - name: STAPLETON
+    distance_km: 4.31
+  - name: ARNOLD
+    distance_km: 22.34
+  - name: TRYON
+    distance_km: 42.35
+- country: US
+  region: NE
+  name: Garland
+  lat: '40.9446'
+  long: "-96.9855"
+  nearby_rate_centers:
+  - name: GARLAND
+    distance_km: 0.42
+  - name: SEWARD
+    distance_km: 10.29
+  - name: MALCOLM
+    distance_km: 10.56
+- country: US
+  region: NE
+  name: Garrison
+  lat: '41.1755'
+  long: "-97.1630"
+  nearby_rate_centers:
+  - name: DAVID CITY
+    distance_km: 8.93
+  - name: RISINGCITY
+    distance_km: 11.03
+  - name: ULYSSES
+    distance_km: 11.71
+- country: US
+  region: NE
+  name: Geneva
+  lat: '40.5308'
+  long: "-97.5974"
+  nearby_rate_centers:
+  - name: GENEVA
+    distance_km: 0.95
+  - name: FAIRMONT
+    distance_km: 11.42
+  - name: GRAFTON
+    distance_km: 14.24
+- country: US
+  region: NE
+  name: Genoa
+  lat: '41.4462'
+  long: "-97.7322"
+  nearby_rate_centers:
+  - name: GENOA
+    distance_km: 0.2
+  - name: MONROE
+    distance_km: 11.42
+  - name: SILVER CRK
+    distance_km: 15.49
+- country: US
+  region: NE
+  name: Gering
+  lat: '41.8275'
+  long: "-103.6622"
+  nearby_rate_centers:
+  - name: GERING
+    distance_km: 0.41
+  - name: SCOTSBLUFF
+    distance_km: 5.5
+  - name: MINATARE
+    distance_km: 13.36
+- country: US
+  region: NE
+  name: Gibbon
+  lat: '40.7461'
+  long: "-98.8458"
+  nearby_rate_centers:
+  - name: GIBBON
+    distance_km: 0.72
+  - name: SHELTON
+    distance_km: 10.05
+  - name: HEARTWELL
+    distance_km: 19.62
+- country: US
+  region: NE
+  name: Gilead
+  lat: '40.1461'
+  long: "-97.4151"
+  nearby_rate_centers:
+  - name: ALEXANDRIA
+    distance_km: 11.72
+  - name: HEBRON
+    distance_km: 14.65
+  - name: NO MAHASKA
+    distance_km: 16.46
+- country: US
+  region: NE
+  name: Giltner
+  lat: '40.7749'
+  long: "-98.1535"
+  nearby_rate_centers:
+  - name: GILTNER
+    distance_km: 0.26
+  - name: TRUMBULL
+    distance_km: 14.04
+  - name: PHILLIPS
+    distance_km: 14.17
+- country: US
+  region: NE
+  name: Glenvil
+  lat: '40.5025'
+  long: "-98.2545"
+  nearby_rate_centers:
+  - name: GLENVIL
+    distance_km: 0.29
+  - name: FAIRFIELD
+    distance_km: 14.5
+  - name: HASTINGS
+    distance_km: 15.15
+- country: US
+  region: NE
+  name: Glenwood
+  lat: '40.7555'
+  long: "-99.0810"
+  nearby_rate_centers:
+  - name: KEARNEY
+    distance_km: 6.34
+  - name: RIVERDALE
+    distance_km: 7.91
+  - name: AMHERST
+    distance_km: 18.5
+- country: US
+  region: NE
+  name: Goehner
+  lat: '40.8327'
+  long: "-97.2196"
+  nearby_rate_centers:
+  - name: TAMORA
+    distance_km: 6.58
+  - name: BEAVERCSNG
+    distance_km: 8.11
+  - name: UTICA
+    distance_km: 12.6
+- country: US
+  region: NE
+  name: Gordon
+  lat: '42.8064'
+  long: "-102.2040"
+  nearby_rate_centers:
+  - name: GORDON
+    distance_km: 0.38
+  - name: RUSHVILLE
+    distance_km: 23.08
+  - name: WHITECLAY
+    distance_km: 35.55
+- country: US
+  region: NE
+  name: Gothenburg
+  lat: '40.9242'
+  long: "-100.1540"
+  nearby_rate_centers:
+  - name: GOTHENBURG
+    distance_km: 1.44
+  - name: COZAD
+    distance_km: 16.16
+  - name: BRADY
+    distance_km: 21.1
+- country: US
+  region: NE
+  name: Grafton
+  lat: '40.6298'
+  long: "-97.7146"
+  nearby_rate_centers:
+  - name: GRAFTON
+    distance_km: 0.83
+  - name: FAIRMONT
+    distance_km: 10.82
+  - name: SUTTON
+    distance_km: 12.25
+- country: US
+  region: NE
+  name: Grand Island
+  lat: '40.9218'
+  long: "-98.3586"
+  nearby_rate_centers:
+  - name: GRAND IS
+    distance_km: 0.73
+  - name: PHILLIPS
+    distance_km: 12.13
+  - name: DONIPHAN
+    distance_km: 16.45
+- country: US
+  region: NE
+  name: Grant
+  lat: '40.8446'
+  long: "-101.7256"
+  nearby_rate_centers:
+  - name: GRANT
+    distance_km: 0.8
+  - name: MADRID
+    distance_km: 15.0
+  - name: ELSIE
+    distance_km: 28.05
+- country: US
+  region: NE
+  name: Greeley Center
+  lat: '41.5483'
+  long: "-98.5305"
+  nearby_rate_centers:
+  - name: GREELEY
+    distance_km: 0.62
+  - name: SCOTIA
+    distance_km: 16.55
+  - name: WOLBACH
+    distance_km: 20.21
+- country: US
+  region: NE
+  name: Greenwood
+  lat: '40.9614'
+  long: "-96.4433"
+  nearby_rate_centers:
+  - name: GREENWOOD
+    distance_km: 0.16
+  - name: WAVERLY
+    distance_km: 8.54
+  - name: ASHLAND
+    distance_km: 11.63
+- country: US
+  region: NE
+  name: Gresham
+  lat: '41.0284'
+  long: "-97.4011"
+  nearby_rate_centers:
+  - name: GRESHAM
+    distance_km: 0.71
+  - name: SURPRISE
+    distance_km: 11.71
+  - name: WACO
+    distance_km: 15.23
+- country: US
+  region: NE
+  name: Gretna
+  lat: '41.1314'
+  long: "-96.2450"
+  nearby_rate_centers:
+  - name: GRETNA
+    distance_km: 4.62
+  - name: SPRINGFLD
+    distance_km: 10.81
+  - name: ASHLAND
+    distance_km: 13.58
+- country: US
+  region: NE
+  name: Gross
+  lat: '42.9461'
+  long: "-98.5697"
+  nearby_rate_centers:
+  - name: BRISTOW
+    distance_km: 10.68
+  - name: SPENCER
+    distance_km: 13.35
+  - name: LYNCH
+    distance_km: 14.98
+- country: US
+  region: NE
+  name: Guide Rock
+  lat: '40.0737'
+  long: "-98.3288"
+  nearby_rate_centers:
+  - name: GUIDE ROCK
+    distance_km: 0.55
+  - name: RED CLOUD
+    distance_km: 16.52
+  - name: SUPERIOR
+    distance_km: 23.04
+- country: US
+  region: NE
+  name: Gurley
+  lat: '41.3214'
+  long: "-102.9745"
+  nearby_rate_centers:
+  - name: GURLEY
+    distance_km: 0.67
+  - name: DALTON
+    distance_km: 9.57
+  - name: SIDNEY
+    distance_km: 19.87
+- country: US
+  region: NE
+  name: Hadar
+  lat: '42.1072'
+  long: "-97.4510"
+  nearby_rate_centers:
+  - name: NORFOLK
+    distance_km: 9.56
+  - name: PIERCE
+    distance_km: 12.03
+  - name: HOSKINS
+    distance_km: 12.47
+- country: US
+  region: NE
+  name: Haigler
+  lat: '40.0122'
+  long: "-101.9385"
+  nearby_rate_centers:
+  - name: HAIGLER
+    distance_km: 0.59
+  - name: BENKELMAN
+    distance_km: 34.61
+  - name: IMPERIAL
+    distance_km: 60.93
+- country: US
+  region: NE
+  name: Hallam
+  lat: '40.5364'
+  long: "-96.7869"
+  nearby_rate_centers:
+  - name: HALLAM
+    distance_km: 0.63
+  - name: CORTLAND
+    distance_km: 8.2
+  - name: CLATONIA
+    distance_km: 9.34
+- country: US
+  region: NE
+  name: Halsey
+  lat: '41.9033'
+  long: "-100.2699"
+  nearby_rate_centers:
+  - name: HALSEY
+    distance_km: 1.18
+  - name: DUNNING
+    distance_km: 15.94
+  - name: PURDUM
+    distance_km: 18.13
+- country: US
+  region: NE
+  name: Hamlet
+  lat: '40.3845'
+  long: "-101.2345"
+  nearby_rate_centers:
+  - name: PALISADE
+    distance_km: 11.23
+  - name: WAUNETA
+    distance_km: 12.22
+  - name: HAYES CTR
+    distance_km: 22.83
+- country: US
+  region: NE
+  name: Hampton
+  lat: '40.8812'
+  long: "-97.8876"
+  nearby_rate_centers:
+  - name: HAMPTON
+    distance_km: 0.52
+  - name: AURORA
+    distance_km: 9.51
+  - name: BRADSHAW
+    distance_km: 11.52
+- country: US
+  region: NE
+  name: Harbine
+  lat: '40.1916'
+  long: "-96.9743"
+  nearby_rate_centers:
+  - name: HARBINE
+    distance_km: 0.03
+  - name: JANSEN
+    distance_km: 9.39
+  - name: DILLER
+    distance_km: 9.89
+- country: US
+  region: NE
+  name: Hardy
+  lat: '40.0113'
+  long: "-97.9240"
+  nearby_rate_centers:
+  - name: HARDY
+    distance_km: 0.23
+  - name: SUPERIOR
+    distance_km: 12.3
+  - name: BYRON
+    distance_km: 13.31
+- country: US
+  region: NE
+  name: Harrisburg
+  lat: '41.5505'
+  long: "-103.7267"
+  nearby_rate_centers:
+  - name: EASTGRANGE
+    distance_km: 24.31
+  - name: EAST ALBIN
+    distance_km: 30.5
+  - name: GERING
+    distance_km: 31.13
+- country: US
+  region: NE
+  name: Harrison
+  lat: '42.6879'
+  long: "-103.8826"
+  nearby_rate_centers:
+  - name: HARRISON
+    distance_km: 0.49
+  - name: SO ARDMORE
+    distance_km: 27.29
+  - name: CRAWFORD
+    distance_km: 38.68
+- country: US
+  region: NE
+  name: Hartington
+  lat: '42.6205'
+  long: "-97.2672"
+  nearby_rate_centers:
+  - name: HARTINGTON
+    distance_km: 0.95
+  - name: WYFRYCSTHL
+    distance_km: 12.66
+  - name: COLERIDGE
+    distance_km: 13.38
+- country: US
+  region: NE
+  name: Harvard
+  lat: '40.6201'
+  long: "-98.0961"
+  nearby_rate_centers:
+  - name: HARVARD
+    distance_km: 0.73
+  - name: CLAYCENTER
+    distance_km: 11.37
+  - name: TRUMBULL
+    distance_km: 16.04
+- country: US
+  region: NE
+  name: Hastings
+  lat: '40.5961'
+  long: "-98.3900"
+  nearby_rate_centers:
+  - name: HASTINGS
+    distance_km: 0.64
+  - name: JUNIATA
+    distance_km: 9.78
+  - name: HANSEN
+    distance_km: 10.47
+- country: US
+  region: NE
+  name: Hay Springs
+  lat: '42.6833'
+  long: "-102.6897"
+  nearby_rate_centers:
+  - name: HAYSPRINGS
+    distance_km: 0.17
+  - name: RUSHVILLE
+    distance_km: 19.24
+  - name: MIRAGEFLTS
+    distance_km: 19.69
+- country: US
+  region: NE
+  name: Hayes Center
+  lat: '40.5110'
+  long: "-101.0204"
+  nearby_rate_centers:
+  - name: HAYES CTR
+    distance_km: 0.39
+  - name: PALISADE
+    distance_km: 19.35
+  - name: WAUNETA
+    distance_km: 31.61
+- country: US
+  region: NE
+  name: Hazard
+  lat: '41.0916'
+  long: "-99.0773"
+  nearby_rate_centers:
+  - name: LITCHFIELD
+    distance_km: 9.61
+  - name: PLEASANTON
+    distance_km: 13.93
+  - name: RAVENNA
+    distance_km: 16.2
+- country: US
+  region: NE
+  name: Heartwell
+  lat: '40.5699'
+  long: "-98.7891"
+  nearby_rate_centers:
+  - name: HEARTWELL
+    distance_km: 0.6
+  - name: KENESAW
+    distance_km: 12.55
+  - name: MINDEN
+    distance_km: 15.69
+- country: US
+  region: NE
+  name: Hebron
+  lat: '40.1685'
+  long: "-97.5866"
+  nearby_rate_centers:
+  - name: HEBRON
+    distance_km: 0.7
+  - name: DESHLER
+    distance_km: 11.92
+  - name: CARLETON
+    distance_km: 16.49
+- country: US
+  region: NE
+  name: Hemingford
+  lat: '42.3214'
+  long: "-103.0754"
+  nearby_rate_centers:
+  - name: HEMINGFORD
+    distance_km: 0.65
+  - name: ALLIANCE
+    distance_km: 29.93
+  - name: MIRAGEFLTS
+    distance_km: 37.35
+- country: US
+  region: NE
+  name: Henderson
+  lat: '40.7800'
+  long: "-97.8117"
+  nearby_rate_centers:
+  - name: HENDERSON
+    distance_km: 0.83
+  - name: BRADSHAW
+    distance_km: 12.42
+  - name: STOCKHAM
+    distance_km: 13.03
+- country: US
+  region: NE
+  name: Hendley
+  lat: '40.1313'
+  long: "-99.9713"
+  nearby_rate_centers:
+  - name: HENDLEY
+    distance_km: 0.5
+  - name: WILSONVL
+    distance_km: 11.96
+  - name: BEAVERCITY
+    distance_km: 11.97
+- country: US
+  region: NE
+  name: Henry
+  lat: '41.9980'
+  long: "-104.0461"
+  nearby_rate_centers:
+  - name: LYMAN
+    distance_km: 9.16
+  - name: MORRILL
+    distance_km: 10.4
+  - name: MITCHELL
+    distance_km: 20.58
+- country: US
+  region: NE
+  name: Herman
+  lat: '41.6739'
+  long: "-96.2167"
+  nearby_rate_centers:
+  - name: HERMAN
+    distance_km: 0.25
+  - name: TEKAMAH
+    distance_km: 11.05
+  - name: BLAIR
+    distance_km: 16.46
+- country: US
+  region: NE
+  name: Hershey
+  lat: '41.1602'
+  long: "-100.9985"
+  nearby_rate_centers:
+  - name: HERSHEY
+    distance_km: 0.9
+  - name: SUTHERLAND
+    distance_km: 11.16
+  - name: NO PLATTE
+    distance_km: 19.7
+- country: US
+  region: NE
+  name: Hickman
+  lat: '40.6248'
+  long: "-96.6307"
+  nearby_rate_centers:
+  - name: HICKMAN
+    distance_km: 0.37
+  - name: PANAMA
+    distance_km: 9.87
+  - name: FIRTH
+    distance_km: 10.45
+- country: US
+  region: NE
+  name: Hildreth
+  lat: '40.3378'
+  long: "-99.0458"
+  nearby_rate_centers:
+  - name: HILDRETH
+    distance_km: 0.62
+  - name: WILCOX
+    distance_km: 11.16
+  - name: AXTELL
+    distance_km: 17.6
+- country: US
+  region: NE
+  name: Holbrook
+  lat: '40.3047'
+  long: "-100.0099"
+  nearby_rate_centers:
+  - name: HOLBROOK
+    distance_km: 0.49
+  - name: ARAPAHOE
+    distance_km: 9.11
+  - name: CAMBRIDGE
+    distance_km: 14.09
+- country: US
+  region: NE
+  name: Holdrege
+  lat: '40.4394'
+  long: "-99.3773"
+  nearby_rate_centers:
+  - name: HOLDREGE
+    distance_km: 0.31
+  - name: FUNK
+    distance_km: 11.06
+  - name: ATLANTA
+    distance_km: 11.65
+- country: US
+  region: NE
+  name: Holmesville
+  lat: '40.2009'
+  long: "-96.6584"
+  nearby_rate_centers:
+  - name: WYMORE
+    distance_km: 8.45
+  - name: BEATRICE
+    distance_km: 10.2
+  - name: FILLEY
+    distance_km: 14.09
+- country: US
+  region: NE
+  name: Holstein
+  lat: '40.4652'
+  long: "-98.6510"
+  nearby_rate_centers:
+  - name: HEARTWELL
+    distance_km: 17.08
+  - name: KENESAW
+    distance_km: 17.69
+  - name: JUNIATA
+    distance_km: 18.88
+- country: US
+  region: NE
+  name: Homer
+  lat: '42.3225'
+  long: "-96.4912"
+  nearby_rate_centers:
+  - name: HOMER
+    distance_km: 0.83
+  - name: WINNEBAGO
+    distance_km: 8.75
+  - name: DAKOTACITY
+    distance_km: 11.71
+- country: US
+  region: NE
+  name: Hooper
+  lat: '41.6116'
+  long: "-96.5487"
+  nearby_rate_centers:
+  - name: HOOPER
+    distance_km: 0.91
+  - name: SCRIBNER
+    distance_km: 11.11
+  - name: UEHLING
+    distance_km: 15.19
+- country: US
+  region: NE
+  name: Hordville
+  lat: '41.0793'
+  long: "-97.8904"
+  nearby_rate_centers:
+  - name: HORDVILLE
+    distance_km: 1.02
+  - name: POLK
+    distance_km: 9.17
+  - name: CENTRAL CY
+    distance_km: 10.14
+- country: US
+  region: NE
+  name: Hoskins
+  lat: '42.1126'
+  long: "-97.3045"
+  nearby_rate_centers:
+  - name: HOSKINS
+    distance_km: 0.51
+  - name: WINSIDE
+    distance_km: 13.13
+  - name: NORFOLK
+    distance_km: 13.29
+- country: US
+  region: NE
+  name: Howard City
+  lat: '41.0752'
+  long: "-98.7155"
+  nearby_rate_centers:
+  - name: BOELUS
+    distance_km: 0.27
+  - name: ROCKVILLE
+    distance_km: 10.5
+  - name: CAIRO
+    distance_km: 12.36
+- country: US
+  region: NE
+  name: Howells
+  lat: '41.7241'
+  long: "-97.0043"
+  nearby_rate_centers:
+  - name: HOWELLS
+    distance_km: 0.52
+  - name: DODGE
+    distance_km: 9.97
+  - name: CLARKSON
+    distance_km: 10.01
+- country: US
+  region: NE
+  name: Hubbard
+  lat: '42.3859'
+  long: "-96.5915"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 7.29
+  - name: HOMER
+    distance_km: 10.13
+  - name: DAKOTACITY
+    distance_km: 14.14
+- country: US
+  region: NE
+  name: Hubbell
+  lat: '40.0088'
+  long: "-97.4966"
+  nearby_rate_centers:
+  - name: CHESTER
+    distance_km: 10.5
+  - name: NO MAHASKA
+    distance_km: 12.7
+  - name: HEBRON
+    distance_km: 19.84
+- country: US
+  region: NE
+  name: Humboldt
+  lat: '40.1658'
+  long: "-95.9443"
+  nearby_rate_centers:
+  - name: HUMBOLDT
+    distance_km: 1.0
+  - name: DAWSON
+    distance_km: 10.11
+  - name: TABLE ROCK
+    distance_km: 13.3
+- country: US
+  region: NE
+  name: Humphrey
+  lat: '41.6884'
+  long: "-97.4852"
+  nearby_rate_centers:
+  - name: HUMPHREY
+    distance_km: 0.5
+  - name: CRESTON
+    distance_km: 10.87
+  - name: MADISON
+    distance_km: 15.63
+- country: US
+  region: NE
+  name: Huntley
+  lat: '40.2105'
+  long: "-99.2901"
+  nearby_rate_centers:
+  - name: HUNTLERGAN
+    distance_km: 6.39
+  - name: ALMA
+    distance_km: 13.62
+  - name: REPUBLCNCY
+    distance_km: 15.32
+- country: US
+  region: NE
+  name: Hyannis
+  lat: '42.0006'
+  long: "-101.7624"
+  nearby_rate_centers:
+  - name: HYANNIS
+    distance_km: 0.59
+  - name: ASHBY
+    distance_km: 13.83
+  - name: WHITMAN
+    distance_km: 20.38
+- country: US
+  region: NE
+  name: Imperial
+  lat: '40.5145'
+  long: "-101.6374"
+  nearby_rate_centers:
+  - name: IMPERIAL
+    distance_km: 1.32
+  - name: WAUNETA
+    distance_km: 24.92
+  - name: GRANT
+    distance_km: 37.6
+- country: US
+  region: NE
+  name: Inavale
+  lat: '40.0923'
+  long: "-98.6484"
+  nearby_rate_centers:
+  - name: RED CLOUD
+    distance_km: 10.75
+  - name: FRANKLIN
+    distance_km: 25.53
+  - name: GUIDE ROCK
+    distance_km: 26.85
+- country: US
+  region: NE
+  name: Indianola
+  lat: '40.2346'
+  long: "-100.4198"
+  nearby_rate_centers:
+  - name: INDIANOLA
+    distance_km: 0.23
+  - name: BARTLEY
+    distance_km: 9.13
+  - name: MCCOOK
+    distance_km: 17.88
+- country: US
+  region: NE
+  name: Inglewood
+  lat: '41.4160'
+  long: "-96.5025"
+  nearby_rate_centers:
+  - name: FREMONT
+    distance_km: 2.89
+  - name: CEDAR BLF
+    distance_km: 8.76
+  - name: ARLINGTON
+    distance_km: 13.44
+- country: US
+  region: NE
+  name: Inland
+  lat: '40.5954'
+  long: "-98.2232"
+  nearby_rate_centers:
+  - name: GLENVIL
+    distance_km: 10.38
+  - name: TRUMBULL
+    distance_km: 10.41
+  - name: HARVARD
+    distance_km: 10.64
+- country: US
+  region: NE
+  name: Inman
+  lat: '42.3819'
+  long: "-98.5298"
+  nearby_rate_centers:
+  - name: INMAN
+    distance_km: 0.44
+  - name: PAGE
+    distance_km: 9.18
+  - name: O NEILL
+    distance_km: 13.27
+- country: US
+  region: NE
+  name: Ithaca
+  lat: '41.1594'
+  long: "-96.5394"
+  nearby_rate_centers:
+  - name: ITHACA
+    distance_km: 0.42
+  - name: WAHOO
+    distance_km: 8.52
+  - name: MEAD
+    distance_km: 9.37
+- country: US
+  region: NE
+  name: Jackson
+  lat: '42.4507'
+  long: "-96.5787"
+  nearby_rate_centers:
+  - name: JACKSON
+    distance_km: 1.03
+  - name: DAKOTACITY
+    distance_km: 13.29
+  - name: WATERBURY
+    distance_km: 13.47
+- country: US
+  region: NE
+  name: Jansen
+  lat: '40.1839'
+  long: "-97.0848"
+  nearby_rate_centers:
+  - name: JANSEN
+    distance_km: 0.75
+  - name: HARBINE
+    distance_km: 9.4
+  - name: FAIRBURY
+    distance_km: 9.53
+- country: US
+  region: NE
+  name: Johnson
+  lat: '40.4106'
+  long: "-95.9996"
+  nearby_rate_centers:
+  - name: JOHNSON
+    distance_km: 0.42
+  - name: BROCK
+    distance_km: 8.63
+  - name: AUBURN
+    distance_km: 13.54
+- country: US
+  region: NE
+  name: Johnstown
+  lat: '42.5721'
+  long: "-100.0563"
+  nearby_rate_centers:
+  - name: JOHNSTOWN
+    distance_km: 0.72
+  - name: AINSWORTH
+    distance_km: 16.11
+  - name: WOOD LAKE
+    distance_km: 16.9
+- country: US
+  region: NE
+  name: Julian
+  lat: '40.5198'
+  long: "-95.8674"
+  nearby_rate_centers:
+  - name: JULIAN
+    distance_km: 0.84
+  - name: W HAMBURG
+    distance_km: 8.1
+  - name: BROCK
+    distance_km: 8.69
+- country: US
+  region: NE
+  name: Juniata
+  lat: '40.5903'
+  long: "-98.5069"
+  nearby_rate_centers:
+  - name: JUNIATA
+    distance_km: 0.45
+  - name: HASTINGS
+    distance_km: 9.74
+  - name: KENESAW
+    distance_km: 13.36
+- country: US
+  region: NE
+  name: Kearney
+  lat: '40.7011'
+  long: "-99.0833"
+  nearby_rate_centers:
+  - name: KEARNEY
+    distance_km: 0.39
+  - name: RIVERDALE
+    distance_km: 11.46
+  - name: GIBBON
+    distance_km: 21.18
+- country: US
+  region: NE
+  name: Kenesaw
+  lat: '40.6189'
+  long: "-98.6576"
+  nearby_rate_centers:
+  - name: KENESAW
+    distance_km: 0.6
+  - name: HEARTWELL
+    distance_km: 12.48
+  - name: JUNIATA
+    distance_km: 13.1
+- country: US
+  region: NE
+  name: Kennard
+  lat: '41.4747'
+  long: "-96.2037"
+  nearby_rate_centers:
+  - name: KENNARD
+    distance_km: 1.14
+  - name: BLAIR
+    distance_km: 9.27
+  - name: ARLINGTON
+    distance_km: 12.41
+- country: US
+  region: NE
+  name: Keystone
+  lat: '41.2187'
+  long: "-101.5841"
+  nearby_rate_centers:
+  - name: KEYSTONE
+    distance_km: 0.49
+  - name: OGALLALA
+    distance_km: 15.68
+  - name: LEMOYNE
+    distance_km: 20.51
+- country: US
+  region: NE
+  name: Kilgore
+  lat: '42.9391'
+  long: "-100.9573"
+  nearby_rate_centers:
+  - name: KILGORE
+    distance_km: 0.35
+  - name: CROOKSTON
+    distance_km: 16.98
+  - name: CODY
+    distance_km: 23.91
+- country: US
+  region: NE
+  name: Kimball
+  lat: '41.2335'
+  long: "-103.6513"
+  nearby_rate_centers:
+  - name: KIMBALL
+    distance_km: 0.93
+  - name: DIX
+    distance_km: 14.07
+  - name: BUSHNELL
+    distance_km: 20.23
+- country: US
+  region: NE
+  name: King Lake
+  lat: '41.3135'
+  long: "-96.3017"
+  nearby_rate_centers:
+  - name: VALLEY
+    distance_km: 3.28
+  - name: ELKHORN
+    distance_km: 4.86
+  - name: YUTAN
+    distance_km: 10.55
+- country: US
+  region: NE
+  name: Kramer
+  lat: '40.5913'
+  long: "-96.8734"
+  nearby_rate_centers:
+  - name: CRETE
+    distance_km: 8.28
+  - name: HALLAM
+    distance_km: 9.39
+  - name: MARTELL
+    distance_km: 10.66
+- country: US
+  region: NE
+  name: La Platte
+  lat: '41.0718'
+  long: "-95.9255"
+  nearby_rate_centers:
+  - name: PLATTSMTH
+    distance_km: 7.75
+  - name: MURRAY
+    distance_km: 17.29
+  - name: SPRINGFLD
+    distance_km: 17.43
+- country: US
+  region: NE
+  name: La Vista
+  lat: '41.1816'
+  long: "-96.0664"
+  nearby_rate_centers:
+  - name: SPRINGFLD
+    distance_km: 12.26
+  - name: GRETNA
+    distance_km: 13.23
+  - name: OMAHA
+    distance_km: 13.39
+- country: US
+  region: NE
+  name: Lakeview
+  lat: '41.4998'
+  long: "-97.3775"
+  nearby_rate_centers:
+  - name: COLUMBUS
+    distance_km: 8.49
+  - name: PLATTE CTR
+    distance_km: 10.6
+  - name: DUNCAN
+    distance_km: 13.91
+- country: US
+  region: NE
+  name: Lamar
+  lat: '40.5725'
+  long: "-101.9793"
+  nearby_rate_centers:
+  - name: VENANGO
+    distance_km: 21.32
+  - name: IMPERIAL
+    distance_km: 28.31
+  - name: GRANT
+    distance_km: 36.58
+- country: US
+  region: NE
+  name: Laurel
+  lat: '42.4301'
+  long: "-97.0986"
+  nearby_rate_centers:
+  - name: LAUREL
+    distance_km: 0.53
+  - name: DIXON
+    distance_km: 9.23
+  - name: BELDEN
+    distance_km: 9.5
+- country: US
+  region: NE
+  name: Lawrence
+  lat: '40.2902'
+  long: "-98.2596"
+  nearby_rate_centers:
+  - name: DEWEESE
+    distance_km: 12.52
+  - name: BLUE HILL
+    distance_km: 16.28
+  - name: NELSON
+    distance_km: 18.82
+- country: US
+  region: NE
+  name: Lebanon
+  lat: '40.0487'
+  long: "-100.2761"
+  nearby_rate_centers:
+  - name: LEBANON
+    distance_km: 0.47
+  - name: DANBURY
+    distance_km: 10.45
+  - name: WILSONVL
+    distance_km: 15.94
+- country: US
+  region: NE
+  name: Leigh
+  lat: '41.7023'
+  long: "-97.2398"
+  nearby_rate_centers:
+  - name: LEIGH
+    distance_km: 0.76
+  - name: CRESTON
+    distance_km: 9.79
+  - name: CLARKSON
+    distance_km: 9.84
+- country: US
+  region: NE
+  name: Lemoyne
+  lat: '41.2765'
+  long: "-101.8134"
+  nearby_rate_centers:
+  - name: LEMOYNE
+    distance_km: 0.48
+  - name: OGALLALA
+    distance_km: 18.4
+  - name: KEYSTONE
+    distance_km: 20.61
+- country: US
+  region: NE
+  name: Leshara
+  lat: '41.3298'
+  long: "-96.4292"
+  nearby_rate_centers:
+  - name: VALLEY
+    distance_km: 7.52
+  - name: YUTAN
+    distance_km: 9.16
+  - name: MEAD
+    distance_km: 11.7
+- country: US
+  region: NE
+  name: Lewellen
+  lat: '41.3305'
+  long: "-102.1437"
+  nearby_rate_centers:
+  - name: LEWELLEN
+    distance_km: 0.24
+  - name: OSHKOSH
+    distance_km: 18.78
+  - name: LEMOYNE
+    distance_km: 28.0
+- country: US
+  region: NE
+  name: Lewiston
+  lat: '40.2429'
+  long: "-96.4074"
+  nearby_rate_centers:
+  - name: VIRGINIA
+    distance_km: 8.09
+  - name: CRAB ORCH
+    distance_km: 9.81
+  - name: FILLEY
+    distance_km: 11.42
+- country: US
+  region: NE
+  name: Lexington
+  lat: '40.7779'
+  long: "-99.7461"
+  nearby_rate_centers:
+  - name: LEXINGTON
+    distance_km: 0.68
+  - name: OVERTON
+    distance_km: 18.15
+  - name: COZAD
+    distance_km: 21.82
+- country: US
+  region: NE
+  name: Liberty
+  lat: '40.0854'
+  long: "-96.4829"
+  nearby_rate_centers:
+  - name: LIBERTY
+    distance_km: 0.79
+  - name: BARNESTON
+    distance_km: 8.79
+  - name: BURCHARD
+    distance_km: 13.44
+- country: US
+  region: NE
+  name: Lincoln
+  lat: '40.8099'
+  long: "-96.6784"
+  nearby_rate_centers:
+  - name: LINCOLN
+    distance_km: 2.17
+  - name: DENTON
+    distance_km: 15.82
+  - name: WAVERLY
+    distance_km: 17.46
+- country: US
+  region: NE
+  name: Lindsay
+  lat: '41.6991'
+  long: "-97.6939"
+  nearby_rate_centers:
+  - name: LINDSAY
+    distance_km: 0.17
+  - name: NEWMAN GRV
+    distance_km: 8.99
+  - name: HUMPHREY
+    distance_km: 17.37
+- country: US
+  region: NE
+  name: Lindy
+  lat: '42.7351'
+  long: "-97.7499"
+  nearby_rate_centers:
+  - name: BLOOMFIELD
+    distance_km: 17.32
+  - name: CENTER
+    distance_km: 17.45
+  - name: CROFTON
+    distance_km: 20.57
+- country: US
+  region: NE
+  name: Linoma Beach
+  lat: '41.0583'
+  long: "-96.3149"
+  nearby_rate_centers:
+  - name: ASHLAND
+    distance_km: 3.95
+  - name: GRETNA
+    distance_km: 11.71
+  - name: LOUISVILLE
+    distance_km: 14.62
+- country: US
+  region: NE
+  name: Linwood
+  lat: '41.4123'
+  long: "-96.9323"
+  nearby_rate_centers:
+  - name: LNWDMRSBLF
+    distance_km: 10.74
+  - name: SCHUYLER
+    distance_km: 11.45
+  - name: OCTAVIA
+    distance_km: 12.7
+- country: US
+  region: NE
+  name: Lisco
+  lat: '41.4986'
+  long: "-102.6236"
+  nearby_rate_centers:
+  - name: BROADWATER
+    distance_km: 22.04
+  - name: OSHKOSH
+    distance_km: 25.4
+  - name: DALTON
+    distance_km: 30.93
+- country: US
+  region: NE
+  name: Litchfield
+  lat: '41.1562'
+  long: "-99.1531"
+  nearby_rate_centers:
+  - name: LITCHFIELD
+    distance_km: 0.16
+  - name: MASON CITY
+    distance_km: 14.48
+  - name: LOUP CITY
+    distance_km: 21.04
+- country: US
+  region: NE
+  name: Lodgepole
+  lat: '41.1491'
+  long: "-102.6390"
+  nearby_rate_centers:
+  - name: LODGEPOLE
+    distance_km: 0.37
+  - name: CHAPPELL
+    distance_km: 15.47
+  - name: NO JULESBG
+    distance_km: 22.95
+- country: US
+  region: NE
+  name: Long Pine
+  lat: '42.5353'
+  long: "-99.7027"
+  nearby_rate_centers:
+  - name: LONG PINE
+    distance_km: 0.46
+  - name: AINSWORTH
+    distance_km: 13.15
+  - name: BASSETT
+    distance_km: 14.75
+- country: US
+  region: NE
+  name: Loomis
+  lat: '40.4783'
+  long: "-99.5075"
+  nearby_rate_centers:
+  - name: LOOMIS
+    distance_km: 0.55
+  - name: BERTRAND
+    distance_km: 11.91
+  - name: HOLDREGE
+    distance_km: 12.09
+- country: US
+  region: NE
+  name: Lorenzo
+  lat: '41.0576'
+  long: "-103.0821"
+  nearby_rate_centers:
+  - name: NORTHPEETZ
+    distance_km: 7.95
+  - name: SIDNEY
+    distance_km: 12.47
+  - name: POTTER
+    distance_km: 26.68
+- country: US
+  region: NE
+  name: Loretto
+  lat: '41.7634'
+  long: "-98.0816"
+  nearby_rate_centers:
+  - name: PETERSBURG
+    distance_km: 9.88
+  - name: ALBION
+    distance_km: 10.53
+  - name: PRIMROSE
+    distance_km: 19.78
+- country: US
+  region: NE
+  name: Lorton
+  lat: '40.5972'
+  long: "-96.0242"
+  nearby_rate_centers:
+  - name: TALMAGE
+    distance_km: 6.85
+  - name: DUNBAR
+    distance_km: 7.89
+  - name: BROCK
+    distance_km: 14.12
+- country: US
+  region: NE
+  name: Louisville
+  lat: '40.9964'
+  long: "-96.1612"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 0.58
+  - name: SPRINGFLD
+    distance_km: 9.95
+  - name: MURDOCK
+    distance_km: 12.74
+- country: US
+  region: NE
+  name: Loup City
+  lat: '41.2766'
+  long: "-98.9677"
+  nearby_rate_centers:
+  - name: LOUP CITY
+    distance_km: 0.91
+  - name: ASHTON
+    distance_km: 14.7
+  - name: LITCHFIELD
+    distance_km: 20.33
+- country: US
+  region: NE
+  name: Lushton
+  lat: '40.7240'
+  long: "-97.7237"
+  nearby_rate_centers:
+  - name: HENDERSON
+    distance_km: 8.88
+  - name: MCCOOL JCT
+    distance_km: 11.09
+  - name: GRAFTON
+    distance_km: 11.33
+- country: US
+  region: NE
+  name: Lyman
+  lat: '41.9177'
+  long: "-104.0373"
+  nearby_rate_centers:
+  - name: LYMAN
+    distance_km: 0.26
+  - name: MORRILL
+    distance_km: 10.61
+  - name: MITCHELL
+    distance_km: 18.96
+- country: US
+  region: NE
+  name: Lynch
+  lat: '42.8312'
+  long: "-98.4668"
+  nearby_rate_centers:
+  - name: LYNCH
+    distance_km: 0.31
+  - name: BRISTOW
+    distance_km: 9.49
+  - name: SPENCER
+    distance_km: 19.72
+- country: US
+  region: NE
+  name: Lyons
+  lat: '41.9360'
+  long: "-96.4717"
+  nearby_rate_centers:
+  - name: LYONS
+    distance_km: 0.77
+  - name: OAKLAND
+    distance_km: 11.55
+  - name: BANCROFT
+    distance_km: 12.06
+- country: US
+  region: NE
+  name: Macy
+  lat: '42.1159'
+  long: "-96.3667"
+  nearby_rate_centers:
+  - name: MACY
+    distance_km: 0.91
+  - name: WALTHILL
+    distance_km: 10.83
+  - name: ROSALIE
+    distance_km: 14.08
+- country: US
+  region: NE
+  name: Madison
+  lat: '41.8283'
+  long: "-97.4568"
+  nearby_rate_centers:
+  - name: MADISON
+    distance_km: 0.8
+  - name: HUMPHREY
+    distance_km: 15.23
+  - name: CRESTON
+    distance_km: 15.57
+- country: US
+  region: NE
+  name: Madrid
+  lat: '40.8525'
+  long: "-101.5278"
+  nearby_rate_centers:
+  - name: MADRID
+    distance_km: 1.69
+  - name: ELSIE
+    distance_km: 11.4
+  - name: GRANT
+    distance_km: 17.46
+- country: US
+  region: NE
+  name: Magnet
+  lat: '42.4561'
+  long: "-97.4692"
+  nearby_rate_centers:
+  - name: WAUSA
+    distance_km: 7.74
+  - name: RANDOLPH
+    distance_km: 12.49
+  - name: OSMOND
+    distance_km: 15.12
+- country: US
+  region: NE
+  name: Malcolm
+  lat: '40.9090'
+  long: "-96.8658"
+  nearby_rate_centers:
+  - name: MALCOLM
+    distance_km: 0.35
+  - name: RAYMOND
+    distance_km: 8.61
+  - name: GARLAND
+    distance_km: 10.96
+- country: US
+  region: NE
+  name: Malmo
+  lat: '41.2664'
+  long: "-96.7209"
+  nearby_rate_centers:
+  - name: PRAGUE
+    distance_km: 8.05
+  - name: WESTON
+    distance_km: 8.76
+  - name: COLON
+    distance_km: 10.3
+- country: US
+  region: NE
+  name: Manley
+  lat: '40.9184'
+  long: "-96.1658"
+  nearby_rate_centers:
+  - name: WEEPINGWTR
+    distance_km: 6.31
+  - name: LOUISVILLE
+    distance_km: 9.21
+  - name: MURDOCK
+    distance_km: 9.5
+- country: US
+  region: NE
+  name: Marquette
+  lat: '41.0063'
+  long: "-98.0098"
+  nearby_rate_centers:
+  - name: MARQUETTE
+    distance_km: 0.3
+  - name: CENTRAL CY
+    distance_km: 12.16
+  - name: CHAPMAN
+    distance_km: 12.7
+- country: US
+  region: NE
+  name: Martell
+  lat: '40.6389'
+  long: "-96.7589"
+  nearby_rate_centers:
+  - name: MARTELL
+    distance_km: 0.53
+  - name: HICKMAN
+    distance_km: 10.56
+  - name: HALLAM
+    distance_km: 11.03
+- country: US
+  region: NE
+  name: Martin
+  lat: '41.2581'
+  long: "-101.7091"
+  nearby_rate_centers:
+  - name: LEMOYNE
+    distance_km: 9.21
+  - name: KEYSTONE
+    distance_km: 11.74
+  - name: OGALLALA
+    distance_km: 14.83
+- country: US
+  region: NE
+  name: Martinsburg
+  lat: '42.5084'
+  long: "-96.8314"
+  nearby_rate_centers:
+  - name: WATERBURY
+    distance_km: 9.24
+  - name: ALLEN
+    distance_km: 10.26
+  - name: PONCA
+    distance_km: 11.23
+- country: US
+  region: NE
+  name: Maskell
+  lat: '42.6904'
+  long: "-96.9809"
+  nearby_rate_centers:
+  - name: NEWCASTLE
+    distance_km: 9.97
+  - name: WYFRYCSTHL
+    distance_km: 22.45
+  - name: HARTINGTON
+    distance_km: 23.87
+- country: US
+  region: NE
+  name: Mason City
+  lat: '41.2222'
+  long: "-99.2988"
+  nearby_rate_centers:
+  - name: MASON CITY
+    distance_km: 0.28
+  - name: ANSLEY
+    distance_km: 10.57
+  - name: LITCHFIELD
+    distance_km: 14.26
+- country: US
+  region: NE
+  name: Max
+  lat: '40.1143'
+  long: "-101.4045"
+  nearby_rate_centers:
+  - name: BENKELMAN
+    distance_km: 13.57
+  - name: STRATTON
+    distance_km: 15.77
+  - name: WAUNETA
+    distance_km: 33.69
+- country: US
+  region: NE
+  name: Maxwell
+  lat: '41.0772'
+  long: "-100.5262"
+  nearby_rate_centers:
+  - name: MAXWELL
+    distance_km: 0.52
+  - name: BRADY
+    distance_km: 14.53
+  - name: NO PLATTE
+    distance_km: 21.19
+- country: US
+  region: NE
+  name: Maywood
+  lat: '40.6587'
+  long: "-100.6223"
+  nearby_rate_centers:
+  - name: MAYWOOD
+    distance_km: 0.31
+  - name: CURTIS
+    distance_km: 10.16
+  - name: WELLFLEET
+    distance_km: 13.84
+- country: US
+  region: NE
+  name: McCook
+  lat: '40.2046'
+  long: "-100.6216"
+  nearby_rate_centers:
+  - name: MCCOOK
+    distance_km: 0.65
+  - name: INDIANOLA
+    distance_km: 17.67
+  - name: CULBERTSON
+    distance_km: 18.72
+- country: US
+  region: NE
+  name: McCool Junction
+  lat: '40.7440'
+  long: "-97.6007"
+  nearby_rate_centers:
+  - name: MCCOOL JCT
+    distance_km: 0.83
+  - name: FAIRMONT
+    distance_km: 12.38
+  - name: YORK
+    distance_km: 13.8
+- country: US
+  region: NE
+  name: McGrew
+  lat: '41.7477'
+  long: "-103.4177"
+  nearby_rate_centers:
+  - name: BAYARD
+    distance_km: 7.62
+  - name: MINATARE
+    distance_km: 10.07
+  - name: GERING
+    distance_km: 21.72
+- country: US
+  region: NE
+  name: McLean
+  lat: '42.3861'
+  long: "-97.4682"
+  nearby_rate_centers:
+  - name: RANDOLPH
+    distance_km: 8.92
+  - name: OSMOND
+    distance_km: 11.03
+  - name: WAUSA
+    distance_km: 14.12
+- country: US
+  region: NE
+  name: Mead
+  lat: '41.2138'
+  long: "-96.4825"
+  nearby_rate_centers:
+  - name: MEAD
+    distance_km: 2.5
+  - name: ITHACA
+    distance_km: 8.07
+  - name: YUTAN
+    distance_km: 8.28
+- country: US
+  region: NE
+  name: Meadow Grove
+  lat: '42.0290'
+  long: "-97.7361"
+  nearby_rate_centers:
+  - name: MEADOW GRV
+    distance_km: 0.67
+  - name: TILDEN
+    distance_km: 7.96
+  - name: BATTLE CRK
+    distance_km: 12.17
+- country: US
+  region: NE
+  name: Melbeta
+  lat: '41.7819'
+  long: "-103.5171"
+  nearby_rate_centers:
+  - name: MINATARE
+    distance_km: 3.64
+  - name: GERING
+    distance_km: 12.64
+  - name: BAYARD
+    distance_km: 16.07
+- country: US
+  region: NE
+  name: Melia
+  lat: '41.0971'
+  long: "-96.2768"
+  nearby_rate_centers:
+  - name: GRETNA
+    distance_km: 7.04
+  - name: ASHLAND
+    distance_km: 9.02
+  - name: SPRINGFLD
+    distance_km: 12.16
+- country: US
+  region: NE
+  name: Memphis
+  lat: '41.0946'
+  long: "-96.4332"
+  nearby_rate_centers:
+  - name: ASHLAND
+    distance_km: 8.47
+  - name: ITHACA
+    distance_km: 11.26
+  - name: GREENWOOD
+    distance_km: 14.97
+- country: US
+  region: NE
+  name: Merna
+  lat: '41.4852'
+  long: "-99.7611"
+  nearby_rate_centers:
+  - name: MERNA
+    distance_km: 0.49
+  - name: BROKEN BOW
+    distance_km: 12.5
+  - name: ANSELMO
+    distance_km: 17.05
+- country: US
+  region: NE
+  name: Merriman
+  lat: '42.9230'
+  long: "-101.6997"
+  nearby_rate_centers:
+  - name: MERRIMAN
+    distance_km: 0.63
+  - name: CODY
+    distance_km: 36.55
+  - name: GORDON
+    distance_km: 43.16
+- country: US
+  region: NE
+  name: Milford
+  lat: '40.7722'
+  long: "-97.0535"
+  nearby_rate_centers:
+  - name: MILFORD
+    distance_km: 0.28
+  - name: PLEASANTDL
+    distance_km: 10.54
+  - name: DORCHESTER
+    distance_km: 14.65
+- country: US
+  region: NE
+  name: Miller
+  lat: '40.9276'
+  long: "-99.3901"
+  nearby_rate_centers:
+  - name: MILLER
+    distance_km: 0.46
+  - name: SUMNER
+    distance_km: 10.04
+  - name: AMHERST
+    distance_km: 13.9
+- country: US
+  region: NE
+  name: Milligan
+  lat: '40.5001'
+  long: "-97.3882"
+  nearby_rate_centers:
+  - name: MILLIGAN
+    distance_km: 0.52
+  - name: TOBIAS
+    distance_km: 9.86
+  - name: OHIOWA
+    distance_km: 10.59
+- country: US
+  region: NE
+  name: Minatare
+  lat: '41.8111'
+  long: "-103.5017"
+  nearby_rate_centers:
+  - name: MINATARE
+    distance_km: 0.18
+  - name: GERING
+    distance_km: 13.04
+  - name: SCOTSBLUFF
+    distance_km: 15.63
+- country: US
+  region: NE
+  name: Minden
+  lat: '40.4981'
+  long: "-98.9672"
+  nearby_rate_centers:
+  - name: MINDEN
+    distance_km: 1.37
+  - name: AXTELL
+    distance_km: 13.69
+  - name: HEARTWELL
+    distance_km: 16.96
+- country: US
+  region: NE
+  name: Mitchell
+  lat: '41.9427'
+  long: "-103.8098"
+  nearby_rate_centers:
+  - name: MITCHELL
+    distance_km: 0.38
+  - name: MORRILL
+    distance_km: 10.1
+  - name: SCOTSBLUFF
+    distance_km: 13.8
+- country: US
+  region: NE
+  name: Monowi
+  lat: '42.8307'
+  long: "-98.3296"
+  nearby_rate_centers:
+  - name: LYNCH
+    distance_km: 11.34
+  - name: VERDEL
+    distance_km: 12.35
+  - name: BRISTOW
+    distance_km: 20.55
+- country: US
+  region: NE
+  name: Monroe
+  lat: '41.4741'
+  long: "-97.5989"
+  nearby_rate_centers:
+  - name: MONROE
+    distance_km: 0.12
+  - name: GENOA
+    distance_km: 11.43
+  - name: PLATTE CTR
+    distance_km: 11.56
+- country: US
+  region: NE
+  name: Moorefield
+  lat: '40.6898'
+  long: "-100.4004"
+  nearby_rate_centers:
+  - name: CURTIS
+    distance_km: 10.89
+  - name: FARNAM
+    distance_km: 15.67
+  - name: MAYWOOD
+    distance_km: 19.23
+- country: US
+  region: NE
+  name: Morrill
+  lat: '41.9640'
+  long: "-103.9249"
+  nearby_rate_centers:
+  - name: MORRILL
+    distance_km: 0.39
+  - name: MITCHELL
+    distance_km: 9.89
+  - name: LYMAN
+    distance_km: 10.86
+- country: US
+  region: NE
+  name: Morse Bluff
+  lat: '41.4310'
+  long: "-96.7666"
+  nearby_rate_centers:
+  - name: NORTH BEND
+    distance_km: 4.01
+  - name: LNWDMRSBLF
+    distance_km: 4.93
+  - name: CEDAR BLF
+    distance_km: 13.84
+- country: US
+  region: NE
+  name: Mullen
+  lat: '42.0427'
+  long: "-101.0446"
+  nearby_rate_centers:
+  - name: MULLEN
+    distance_km: 0.54
+  - name: SENECA
+    distance_km: 17.46
+  - name: THEDFORD
+    distance_km: 39.29
+- country: US
+  region: NE
+  name: Murdock
+  lat: '40.9261'
+  long: "-96.2809"
+  nearby_rate_centers:
+  - name: MURDOCK
+    distance_km: 0.32
+  - name: ELMWOOD
+    distance_km: 9.35
+  - name: LOUISVILLE
+    distance_km: 13.27
+- country: US
+  region: NE
+  name: Murray
+  lat: '40.9163'
+  long: "-95.9267"
+  nearby_rate_centers:
+  - name: MURRAY
+    distance_km: 0.4
+  - name: NEHAWKA
+    distance_km: 10.14
+  - name: PLATTSMTH
+    distance_km: 10.97
+- country: US
+  region: NE
+  name: Naper
+  lat: '42.9642'
+  long: "-99.0970"
+  nearby_rate_centers:
+  - name: NAPER
+    distance_km: 0.92
+  - name: SOUTHBURKE
+    distance_km: 12.17
+  - name: SOBONESTEL
+    distance_km: 13.89
+- country: US
+  region: NE
+  name: Naponee
+  lat: '40.0747'
+  long: "-99.1386"
+  nearby_rate_centers:
+  - name: NAPONEE
+    distance_km: 0.25
+  - name: BLOOMINGTN
+    distance_km: 8.37
+  - name: REPUBLCNCY
+    distance_km: 9.99
+- country: US
+  region: NE
+  name: Nebraska City
+  lat: '40.6762'
+  long: "-95.8613"
+  nearby_rate_centers:
+  - name: NEBRASKACY
+    distance_km: 0.86
+  - name: W HAMBURG
+    distance_km: 11.15
+  - name: DUNBAR
+    distance_km: 13.81
+- country: US
+  region: NE
+  name: Nehawka
+  lat: '40.8296'
+  long: "-95.9899"
+  nearby_rate_centers:
+  - name: NEHAWKA
+    distance_km: 1.0
+  - name: UNION
+    distance_km: 6.23
+  - name: MURRAY
+    distance_km: 11.21
+- country: US
+  region: NE
+  name: Neligh
+  lat: '42.1291'
+  long: "-98.0300"
+  nearby_rate_centers:
+  - name: NELIGH
+    distance_km: 0.58
+  - name: OAKDALE
+    distance_km: 8.36
+  - name: CLEARWATER
+    distance_km: 14.24
+- country: US
+  region: NE
+  name: Nelson
+  lat: '40.2012'
+  long: "-98.0687"
+  nearby_rate_centers:
+  - name: NELSON
+    distance_km: 0.53
+  - name: DEWEESE
+    distance_km: 18.43
+  - name: RUSKIN
+    distance_km: 18.6
+- country: US
+  region: NE
+  name: Nemaha
+  lat: '40.3388'
+  long: "-95.6760"
+  nearby_rate_centers:
+  - name: NEMAHA
+    distance_km: 0.19
+  - name: BROWNVILLE
+    distance_km: 6.95
+  - name: TRI CITY
+    distance_km: 13.18
+- country: US
+  region: NE
+  name: Nenzel
+  lat: '42.9274'
+  long: "-101.1018"
+  nearby_rate_centers:
+  - name: KILGORE
+    distance_km: 11.96
+  - name: CODY
+    distance_km: 12.18
+  - name: CROOKSTON
+    distance_km: 28.74
+- country: US
+  region: NE
+  name: Newcastle
+  lat: '42.6524'
+  long: "-96.8740"
+  nearby_rate_centers:
+  - name: NEWCASTLE
+    distance_km: 0.27
+  - name: PONCA
+    distance_km: 16.12
+  - name: WATERBURY
+    distance_km: 24.22
+- country: US
+  region: NE
+  name: Newman Grove
+  lat: '41.7469'
+  long: "-97.7767"
+  nearby_rate_centers:
+  - name: NEWMAN GRV
+    distance_km: 0.37
+  - name: LINDSAY
+    distance_km: 8.75
+  - name: ALBION
+    distance_km: 19.51
+- country: US
+  region: NE
+  name: Newport
+  lat: '42.6002'
+  long: "-99.3283"
+  nearby_rate_centers:
+  - name: NEWPORT
+    distance_km: 0.39
+  - name: STUART
+    distance_km: 14.76
+  - name: BASSETT
+    distance_km: 16.99
+- country: US
+  region: NE
+  name: Nickerson
+  lat: '41.5349'
+  long: "-96.4707"
+  nearby_rate_centers:
+  - name: HOOPER
+    distance_km: 9.82
+  - name: FREMONT
+    distance_km: 10.62
+  - name: ARLINGTON
+    distance_km: 13.22
+- country: US
+  region: NE
+  name: Niobrara
+  lat: '42.7499'
+  long: "-98.0317"
+  nearby_rate_centers:
+  - name: NIOBRARA
+    distance_km: 0.98
+  - name: VERDEL
+    distance_km: 13.78
+  - name: VERDIGRE
+    distance_km: 16.44
+- country: US
+  region: NE
+  name: Nora
+  lat: '40.1642'
+  long: "-97.9738"
+  nearby_rate_centers:
+  - name: NELSON
+    distance_km: 9.28
+  - name: RUSKIN
+    distance_km: 9.63
+  - name: HARDY
+    distance_km: 17.72
+- country: US
+  region: NE
+  name: Norfolk
+  lat: '42.0324'
+  long: "-97.4217"
+  nearby_rate_centers:
+  - name: NORFOLK
+    distance_km: 0.95
+  - name: HOSKINS
+    distance_km: 13.66
+  - name: BATTLE CRK
+    distance_km: 14.73
+- country: US
+  region: NE
+  name: Norman
+  lat: '40.4790'
+  long: "-98.7922"
+  nearby_rate_centers:
+  - name: HEARTWELL
+    distance_km: 10.59
+  - name: MINDEN
+    distance_km: 13.71
+  - name: KENESAW
+    distance_km: 19.69
+- country: US
+  region: NE
+  name: North Bend
+  lat: '41.4620'
+  long: "-96.7857"
+  nearby_rate_centers:
+  - name: NORTH BEND
+    distance_km: 0.47
+  - name: LNWDMRSBLF
+    distance_km: 7.37
+  - name: CEDAR BLF
+    distance_km: 16.48
+- country: US
+  region: NE
+  name: North Loup
+  lat: '41.4955'
+  long: "-98.7726"
+  nearby_rate_centers:
+  - name: NORTH LOUP
+    distance_km: 0.4
+  - name: SCOTIA
+    distance_km: 6.99
+  - name: ORD
+    distance_km: 17.96
+- country: US
+  region: NE
+  name: North Platte
+  lat: '41.1263'
+  long: "-100.7641"
+  nearby_rate_centers:
+  - name: NO PLATTE
+    distance_km: 1.61
+  - name: MAXWELL
+    distance_km: 20.41
+  - name: HERSHEY
+    distance_km: 20.75
+- country: US
+  region: NE
+  name: O'Neill
+  lat: '42.4610'
+  long: "-98.6465"
+  nearby_rate_centers:
+  - name: O NEILL
+    distance_km: 0.99
+  - name: INMAN
+    distance_km: 12.68
+  - name: PAGE
+    distance_km: 19.81
+- country: US
+  region: NE
+  name: Oak
+  lat: '40.2384'
+  long: "-97.9037"
+  nearby_rate_centers:
+  - name: RUSKIN
+    distance_km: 11.39
+  - name: DAVENPORT
+    distance_km: 11.96
+  - name: NELSON
+    distance_km: 15.1
+- country: US
+  region: NE
+  name: Oakdale
+  lat: '42.0701'
+  long: "-97.9671"
+  nearby_rate_centers:
+  - name: OAKDALE
+    distance_km: 1.03
+  - name: NELIGH
+    distance_km: 7.8
+  - name: TILDEN
+    distance_km: 11.71
+- country: US
+  region: NE
+  name: Oakland
+  lat: '41.8356'
+  long: "-96.4669"
+  nearby_rate_centers:
+  - name: OAKLAND
+    distance_km: 0.44
+  - name: CRAIG
+    distance_km: 9.63
+  - name: UEHLING
+    distance_km: 10.62
+- country: US
+  region: NE
+  name: Obert
+  lat: '42.6895'
+  long: "-97.0272"
+  nearby_rate_centers:
+  - name: NEWCASTLE
+    distance_km: 13.44
+  - name: WYFRYCSTHL
+    distance_km: 18.8
+  - name: HARTINGTON
+    distance_km: 20.25
+- country: US
+  region: NE
+  name: Oconto
+  lat: '41.1415'
+  long: "-99.7619"
+  nearby_rate_centers:
+  - name: OCONTO
+    distance_km: 0.57
+  - name: CALLAWAY
+    distance_km: 21.39
+  - name: SUMNER
+    distance_km: 30.16
+- country: US
+  region: NE
+  name: Octavia
+  lat: '41.3474'
+  long: "-97.0590"
+  nearby_rate_centers:
+  - name: OCTAVIA
+    distance_km: 0.37
+  - name: BRUNO
+    distance_km: 11.0
+  - name: SCHUYLER
+    distance_km: 11.44
+- country: US
+  region: NE
+  name: Odell
+  lat: '40.0503'
+  long: "-96.8016"
+  nearby_rate_centers:
+  - name: ODELL
+    distance_km: 0.76
+  - name: DILLER
+    distance_km: 13.44
+  - name: WYMORE
+    distance_km: 14.17
+- country: US
+  region: NE
+  name: Odessa
+  lat: '40.6991'
+  long: "-99.2544"
+  nearby_rate_centers:
+  - name: ELM CREEK
+    distance_km: 9.8
+  - name: RIVERDALE
+    distance_km: 11.67
+  - name: KEARNEY
+    distance_km: 14.15
+- country: US
+  region: NE
+  name: Offutt AFB
+  lat: '41.1207'
+  long: "-95.9209"
+  nearby_rate_centers:
+  - name: PLATTSMTH
+    distance_km: 12.74
+  - name: OMAHA
+    distance_km: 15.54
+  - name: SPRINGFLD
+    distance_km: 18.24
+- country: US
+  region: NE
+  name: Ogallala
+  lat: '41.1292'
+  long: "-101.7211"
+  nearby_rate_centers:
+  - name: OGALLALA
+    distance_km: 0.52
+  - name: BRULE
+    distance_km: 15.08
+  - name: KEYSTONE
+    distance_km: 15.12
+- country: US
+  region: NE
+  name: Ohiowa
+  lat: '40.4136'
+  long: "-97.4524"
+  nearby_rate_centers:
+  - name: OHIOWA
+    distance_km: 0.49
+  - name: TOBIAS
+    distance_km: 9.46
+  - name: MILLIGAN
+    distance_km: 11.43
+- country: US
+  region: NE
+  name: Omaha
+  lat: '41.2627'
+  long: "-96.0529"
+  nearby_rate_centers:
+  - name: OMAHA
+    distance_km: 9.1
+  - name: BENNINGTON
+    distance_km: 14.38
+  - name: ELKHORN
+    distance_km: 17.45
+- country: US
+  region: NE
+  name: Ong
+  lat: '40.3983'
+  long: "-97.8392"
+  nearby_rate_centers:
+  - name: ONG
+    distance_km: 0.37
+  - name: DAVENPORT
+    distance_km: 9.46
+  - name: SHICKLEY
+    distance_km: 9.94
+- country: US
+  region: NE
+  name: Orchard
+  lat: '42.3368'
+  long: "-98.2411"
+  nearby_rate_centers:
+  - name: ORCHARD
+    distance_km: 0.7
+  - name: EWING
+    distance_km: 12.3
+  - name: PAGE
+    distance_km: 16.26
+- country: US
+  region: NE
+  name: Ord
+  lat: '41.5993'
+  long: "-98.9166"
+  nearby_rate_centers:
+  - name: ORD
+    distance_km: 1.32
+  - name: NORTH LOUP
+    distance_km: 16.34
+  - name: SCOTIA
+    distance_km: 23.4
+- country: US
+  region: NE
+  name: Orleans
+  lat: '40.1317'
+  long: "-99.4551"
+  nearby_rate_centers:
+  - name: ORLEANS
+    distance_km: 0.85
+  - name: ALMA
+    distance_km: 8.9
+  - name: STAMFORD
+    distance_km: 11.69
+- country: US
+  region: NE
+  name: Osceola
+  lat: '41.1781'
+  long: "-97.5498"
+  nearby_rate_centers:
+  - name: OSCEOLA
+    distance_km: 0.93
+  - name: STROMSBURG
+    distance_km: 8.22
+  - name: SHELBY
+    distance_km: 10.48
+- country: US
+  region: NE
+  name: Oshkosh
+  lat: '41.4080'
+  long: "-102.3452"
+  nearby_rate_centers:
+  - name: OSHKOSH
+    distance_km: 0.2
+  - name: LEWELLEN
+    distance_km: 18.65
+  - name: CHAPPELL
+    distance_km: 36.16
+- country: US
+  region: NE
+  name: Osmond
+  lat: '42.3583'
+  long: "-97.5990"
+  nearby_rate_centers:
+  - name: OSMOND
+    distance_km: 0.16
+  - name: PLAINVIEW
+    distance_km: 16.02
+  - name: WAUSA
+    distance_km: 16.57
+- country: US
+  region: NE
+  name: Otoe
+  lat: '40.7243'
+  long: "-96.1207"
+  nearby_rate_centers:
+  - name: OTOE
+    distance_km: 0.49
+  - name: AVOCA
+    distance_km: 8.19
+  - name: SYRACUSE
+    distance_km: 8.98
+- country: US
+  region: NE
+  name: Overland
+  lat: '41.0809'
+  long: "-97.9783"
+  nearby_rate_centers:
+  - name: CENTRAL CY
+    distance_km: 4.31
+  - name: HORDVILLE
+    distance_km: 8.21
+  - name: MARQUETTE
+    distance_km: 8.45
+- country: US
+  region: NE
+  name: Overton
+  lat: '40.7405'
+  long: "-99.5374"
+  nearby_rate_centers:
+  - name: OVERTON
+    distance_km: 0.28
+  - name: ELM CREEK
+    distance_km: 14.5
+  - name: LEXINGTON
+    distance_km: 18.49
+- country: US
+  region: NE
+  name: Oxford
+  lat: '40.2530'
+  long: "-99.6323"
+  nearby_rate_centers:
+  - name: OXFORD
+    distance_km: 0.17
+  - name: EDISON
+    distance_km: 12.27
+  - name: STAMFORD
+    distance_km: 13.85
+- country: US
+  region: NE
+  name: Page
+  lat: '42.4000'
+  long: "-98.4177"
+  nearby_rate_centers:
+  - name: PAGE
+    distance_km: 0.27
+  - name: INMAN
+    distance_km: 9.86
+  - name: ORCHARD
+    distance_km: 15.66
+- country: US
+  region: NE
+  name: Palisade
+  lat: '40.3483'
+  long: "-101.1075"
+  nearby_rate_centers:
+  - name: PALISADE
+    distance_km: 0.33
+  - name: HAYES CTR
+    distance_km: 19.25
+  - name: TRENTON
+    distance_km: 21.09
+- country: US
+  region: NE
+  name: Palmer
+  lat: '41.2224'
+  long: "-98.2599"
+  nearby_rate_centers:
+  - name: PALMER
+    distance_km: 0.42
+  - name: ARCHER
+    distance_km: 11.42
+  - name: ST PAUL
+    distance_km: 16.45
+- country: US
+  region: NE
+  name: Palmyra
+  lat: '40.7057'
+  long: "-96.3922"
+  nearby_rate_centers:
+  - name: PALMYRA
+    distance_km: 0.48
+  - name: BENNET
+    distance_km: 9.43
+  - name: UNADILLA
+    distance_km: 11.04
+- country: US
+  region: NE
+  name: Panama
+  lat: '40.5998'
+  long: "-96.5111"
+  nearby_rate_centers:
+  - name: PANAMA
+    distance_km: 0.66
+  - name: BENNET
+    distance_km: 9.29
+  - name: FIRTH
+    distance_km: 10.43
+- country: US
+  region: NE
+  name: Papillion
+  lat: '41.1511'
+  long: "-96.0665"
+  nearby_rate_centers:
+  - name: SPRINGFLD
+    distance_km: 9.36
+  - name: GRETNA
+    distance_km: 11.6
+  - name: OMAHA
+    distance_km: 15.8
+- country: US
+  region: NE
+  name: Parks
+  lat: '40.0436'
+  long: "-101.7251"
+  nearby_rate_centers:
+  - name: BENKELMAN
+    distance_km: 16.27
+  - name: HAIGLER
+    distance_km: 18.35
+  - name: STRATTON
+    distance_km: 44.16
+- country: US
+  region: NE
+  name: Pawnee City
+  lat: '40.1106'
+  long: "-96.1530"
+  nearby_rate_centers:
+  - name: PAWNEECITY
+    distance_km: 0.43
+  - name: TABLE ROCK
+    distance_km: 9.03
+  - name: DUBOIS
+    distance_km: 12.27
+- country: US
+  region: NE
+  name: Paxton
+  lat: '41.1235'
+  long: "-101.3522"
+  nearby_rate_centers:
+  - name: PAXTON
+    distance_km: 0.8
+  - name: SUTHERLAND
+    distance_km: 18.81
+  - name: KEYSTONE
+    distance_km: 21.68
+- country: US
+  region: NE
+  name: Pender
+  lat: '42.1108'
+  long: "-96.7113"
+  nearby_rate_centers:
+  - name: PENDER
+    distance_km: 0.55
+  - name: BANCROFT
+    distance_km: 15.7
+  - name: ROSALIE
+    distance_km: 16.84
+- country: US
+  region: NE
+  name: Peru
+  lat: '40.4786'
+  long: "-95.7313"
+  nearby_rate_centers:
+  - name: PERU
+    distance_km: 0.67
+  - name: BROWNVILLE
+    distance_km: 10.89
+  - name: JULIAN
+    distance_km: 12.63
+- country: US
+  region: NE
+  name: Petersburg
+  lat: '41.8536'
+  long: "-98.0811"
+  nearby_rate_centers:
+  - name: PETERSBURG
+    distance_km: 0.59
+  - name: ELGIN
+    distance_km: 14.54
+  - name: ALBION
+    distance_km: 19.29
+- country: US
+  region: NE
+  name: Phillips
+  lat: '40.8977'
+  long: "-98.2142"
+  nearby_rate_centers:
+  - name: PHILLIPS
+    distance_km: 0.78
+  - name: GRAND IS
+    distance_km: 11.99
+  - name: GILTNER
+    distance_km: 14.59
+- country: US
+  region: NE
+  name: Pickrell
+  lat: '40.3781'
+  long: "-96.7295"
+  nearby_rate_centers:
+  - name: PICKRELL
+    distance_km: 0.76
+  - name: BEATRICE
+    distance_km: 12.25
+  - name: CLATONIA
+    distance_km: 14.15
+- country: US
+  region: NE
+  name: Pierce
+  lat: '42.1990'
+  long: "-97.5287"
+  nearby_rate_centers:
+  - name: PIERCE
+    distance_km: 0.03
+  - name: OSMOND
+    distance_km: 18.58
+  - name: HOSKINS
+    distance_km: 20.97
+- country: US
+  region: NE
+  name: Pilger
+  lat: '42.0078'
+  long: "-97.0546"
+  nearby_rate_centers:
+  - name: PILGER
+    distance_km: 0.37
+  - name: WISNER
+    distance_km: 11.62
+  - name: STANTON
+    distance_km: 15.46
+- country: US
+  region: NE
+  name: Plainview
+  lat: '42.3534'
+  long: "-97.7871"
+  nearby_rate_centers:
+  - name: PLAINVIEW
+    distance_km: 0.59
+  - name: BRUNSWICK
+    distance_km: 14.68
+  - name: OSMOND
+    distance_km: 15.62
+- country: US
+  region: NE
+  name: Platte Center
+  lat: '41.5374'
+  long: "-97.4886"
+  nearby_rate_centers:
+  - name: PLATTE CTR
+    distance_km: 0.5
+  - name: MONROE
+    distance_km: 11.69
+  - name: DUNCAN
+    distance_km: 14.81
+- country: US
+  region: NE
+  name: Plattsmouth
+  lat: '41.0054'
+  long: "-95.8940"
+  nearby_rate_centers:
+  - name: PLATTSMTH
+    distance_km: 0.96
+  - name: MURRAY
+    distance_km: 10.18
+  - name: NEHAWKA
+    distance_km: 20.34
+- country: US
+  region: NE
+  name: Pleasant Dale
+  lat: '40.7910'
+  long: "-96.9329"
+  nearby_rate_centers:
+  - name: PLEASANTDL
+    distance_km: 0.19
+  - name: DENTON
+    distance_km: 9.6
+  - name: MILFORD
+    distance_km: 10.15
+- country: US
+  region: NE
+  name: Pleasanton
+  lat: '40.9698'
+  long: "-99.0876"
+  nearby_rate_centers:
+  - name: PLEASANTON
+    distance_km: 0.41
+  - name: RAVENNA
+    distance_km: 16.28
+  - name: AMHERST
+    distance_km: 20.55
+- country: US
+  region: NE
+  name: Plymouth
+  lat: '40.3024'
+  long: "-96.9886"
+  nearby_rate_centers:
+  - name: PLYMOUTH
+    distance_km: 0.62
+  - name: DE WITT
+    distance_km: 11.17
+  - name: SWANTON
+    distance_km: 11.97
+- country: US
+  region: NE
+  name: Polk
+  lat: '41.0755'
+  long: "-97.7834"
+  nearby_rate_centers:
+  - name: POLK
+    distance_km: 0.21
+  - name: HORDVILLE
+    distance_km: 8.2
+  - name: STROMSBURG
+    distance_km: 15.77
+- country: US
+  region: NE
+  name: Ponca
+  lat: '42.5649'
+  long: "-96.7092"
+  nearby_rate_centers:
+  - name: PONCA
+    distance_km: 0.67
+  - name: WATERBURY
+    distance_km: 12.28
+  - name: NEWCASTLE
+    distance_km: 16.36
+- country: US
+  region: NE
+  name: Poole
+  lat: '40.9870'
+  long: "-98.9655"
+  nearby_rate_centers:
+  - name: RAVENNA
+    distance_km: 6.33
+  - name: PLEASANTON
+    distance_km: 10.71
+  - name: SODTOWN
+    distance_km: 13.42
+- country: US
+  region: NE
+  name: Potter
+  lat: '41.2244'
+  long: "-103.1905"
+  nearby_rate_centers:
+  - name: POTTER
+    distance_km: 10.61
+  - name: SIDNEY
+    distance_km: 19.4
+  - name: GURLEY
+    distance_km: 20.63
+- country: US
+  region: NE
+  name: Prague
+  lat: '41.3094'
+  long: "-96.8082"
+  nearby_rate_centers:
+  - name: PRAGUE
+    distance_km: 0.67
+  - name: LNWDMRSBLF
+    distance_km: 9.78
+  - name: BRUNO
+    distance_km: 12.79
+- country: US
+  region: NE
+  name: Prairie Home
+  lat: '40.8620'
+  long: "-96.5245"
+  nearby_rate_centers:
+  - name: WAVERLY
+    distance_km: 6.0
+  - name: EAGLE
+    distance_km: 9.07
+  - name: GREENWOOD
+    distance_km: 12.91
+- country: US
+  region: NE
+  name: Preston
+  lat: '40.0346'
+  long: "-95.5182"
+  nearby_rate_centers:
+  - name: FALLS CITY
+    distance_km: 7.56
+  - name: TRI CITY
+    distance_km: 25.59
+  - name: DAWSON
+    distance_km: 28.96
+- country: US
+  region: NE
+  name: Primrose
+  lat: '41.6238'
+  long: "-98.2377"
+  nearby_rate_centers:
+  - name: PRIMROSE
+    distance_km: 0.58
+  - name: CEDAR RPDS
+    distance_km: 10.6
+  - name: SPALDING
+    distance_km: 13.22
+- country: US
+  region: NE
+  name: Princeton
+  lat: '40.5760'
+  long: "-96.7060"
+  nearby_rate_centers:
+  - name: CORTLAND
+    distance_km: 7.44
+  - name: HALLAM
+    distance_km: 7.6
+  - name: MARTELL
+    distance_km: 7.95
+- country: US
+  region: NE
+  name: Prosser
+  lat: '40.6877'
+  long: "-98.5777"
+  nearby_rate_centers:
+  - name: KENESAW
+    distance_km: 9.83
+  - name: JUNIATA
+    distance_km: 12.03
+  - name: WOOD RIVER
+    distance_km: 15.29
+- country: US
+  region: NE
+  name: Raeville
+  lat: '41.8955'
+  long: "-98.0535"
+  nearby_rate_centers:
+  - name: PETERSBURG
+    distance_km: 5.12
+  - name: ELGIN
+    distance_km: 10.21
+  - name: OAKDALE
+    distance_km: 21.6
+- country: US
+  region: NE
+  name: Ragan
+  lat: '40.3108'
+  long: "-99.2896"
+  nearby_rate_centers:
+  - name: HUNTLERGAN
+    distance_km: 4.76
+  - name: WILCOX
+    distance_km: 11.8
+  - name: HOLDREGE
+    distance_km: 16.04
+- country: US
+  region: NE
+  name: Ralston
+  lat: '41.2005'
+  long: "-96.0355"
+  nearby_rate_centers:
+  - name: OMAHA
+    distance_km: 10.06
+  - name: SPRINGFLD
+    distance_km: 15.37
+  - name: GRETNA
+    distance_km: 16.55
+- country: US
+  region: NE
+  name: Randolph
+  lat: '42.3775'
+  long: "-97.3578"
+  nearby_rate_centers:
+  - name: RANDOLPH
+    distance_km: 0.19
+  - name: BELDEN
+    distance_km: 12.57
+  - name: CARROLL
+    distance_km: 18.08
+- country: US
+  region: NE
+  name: Ravenna
+  lat: '41.0275'
+  long: "-98.8945"
+  nearby_rate_centers:
+  - name: RAVENNA
+    distance_km: 1.16
+  - name: SODTOWN
+    distance_km: 10.91
+  - name: ROCKVILLE
+    distance_km: 11.61
+- country: US
+  region: NE
+  name: Raymond
+  lat: '40.9567'
+  long: "-96.7816"
+  nearby_rate_centers:
+  - name: RAYMOND
+    distance_km: 0.27
+  - name: MALCOLM
+    distance_km: 9.18
+  - name: DAVEY
+    distance_km: 9.53
+- country: US
+  region: NE
+  name: Red Cloud
+  lat: '40.0864'
+  long: "-98.5222"
+  nearby_rate_centers:
+  - name: RED CLOUD
+    distance_km: 0.3
+  - name: GUIDE ROCK
+    distance_km: 16.09
+  - name: BLUE HILL
+    distance_km: 28.22
+- country: US
+  region: NE
+  name: Republican City
+  lat: '40.0987'
+  long: "-99.2223"
+  nearby_rate_centers:
+  - name: REPUBLCNCY
+    distance_km: 3.88
+  - name: NAPONEE
+    distance_km: 7.39
+  - name: ALMA
+    distance_km: 11.63
+- country: US
+  region: NE
+  name: Reynolds
+  lat: '40.0598'
+  long: "-97.3359"
+  nearby_rate_centers:
+  - name: NO MAHASKA
+    distance_km: 5.9
+  - name: FAIRBURY
+    distance_km: 15.91
+  - name: ALEXANDRIA
+    distance_km: 21.61
+- country: US
+  region: NE
+  name: Richfield
+  lat: '41.1108'
+  long: "-96.0763"
+  nearby_rate_centers:
+  - name: SPRINGFLD
+    distance_km: 5.64
+  - name: GRETNA
+    distance_km: 9.99
+  - name: LOUISVILLE
+    distance_km: 13.99
+- country: US
+  region: NE
+  name: Richland
+  lat: '41.4367'
+  long: "-97.2152"
+  nearby_rate_centers:
+  - name: BELLWOOD
+    distance_km: 10.87
+  - name: COLUMBUS
+    distance_km: 11.81
+  - name: SCHUYLER
+    distance_km: 13.03
+- country: US
+  region: NE
+  name: Rising City
+  lat: '41.1980'
+  long: "-97.2972"
+  nearby_rate_centers:
+  - name: RISINGCITY
+    distance_km: 0.66
+  - name: SURPRISE
+    distance_km: 10.21
+  - name: SHELBY
+    distance_km: 10.79
+- country: US
+  region: NE
+  name: Riverdale
+  lat: '40.7839'
+  long: "-99.1604"
+  nearby_rate_centers:
+  - name: RIVERDALE
+    distance_km: 0.73
+  - name: AMHERST
+    distance_km: 11.19
+  - name: KEARNEY
+    distance_km: 11.34
+- country: US
+  region: NE
+  name: Riverton
+  lat: '40.0897'
+  long: "-98.7597"
+  nearby_rate_centers:
+  - name: FRANKLIN
+    distance_km: 16.06
+  - name: RED CLOUD
+    distance_km: 20.19
+  - name: BLOOMINGTN
+    distance_km: 24.11
+- country: US
+  region: NE
+  name: Roca
+  lat: '40.6580'
+  long: "-96.6614"
+  nearby_rate_centers:
+  - name: HICKMAN
+    distance_km: 4.27
+  - name: MARTELL
+    distance_km: 8.77
+  - name: PANAMA
+    distance_km: 13.71
+- country: US
+  region: NE
+  name: Rockville
+  lat: '41.1185'
+  long: "-98.8311"
+  nearby_rate_centers:
+  - name: ROCKVILLE
+    distance_km: 0.36
+  - name: BOELUS
+    distance_km: 10.57
+  - name: RAVENNA
+    distance_km: 12.39
+- country: US
+  region: NE
+  name: Rogers
+  lat: '41.4643'
+  long: "-96.9159"
+  nearby_rate_centers:
+  - name: NORTH BEND
+    distance_km: 11.17
+  - name: LNWDMRSBLF
+    distance_km: 11.86
+  - name: SCHUYLER
+    distance_km: 12.11
+- country: US
+  region: NE
+  name: Rosalie
+  lat: '42.0574'
+  long: "-96.5128"
+  nearby_rate_centers:
+  - name: ROSALIE
+    distance_km: 0.59
+  - name: BANCROFT
+    distance_km: 7.83
+  - name: WALTHILL
+    distance_km: 10.51
+- country: US
+  region: NE
+  name: Roscoe
+  lat: '41.1316'
+  long: "-101.5852"
+  nearby_rate_centers:
+  - name: KEYSTONE
+    distance_km: 9.28
+  - name: OGALLALA
+    distance_km: 11.67
+  - name: PAXTON
+    distance_km: 19.32
+- country: US
+  region: NE
+  name: Roseland
+  lat: '40.4697'
+  long: "-98.5587"
+  nearby_rate_centers:
+  - name: JUNIATA
+    distance_km: 14.56
+  - name: BLUE HILL
+    distance_km: 18.08
+  - name: KENESAW
+    distance_km: 19.15
+- country: US
+  region: NE
+  name: Royal
+  lat: '42.3329'
+  long: "-98.1252"
+  nearby_rate_centers:
+  - name: ORCHARD
+    distance_km: 9.78
+  - name: BRUNSWICK
+    distance_km: 13.2
+  - name: CLEARWATER
+    distance_km: 18.48
+- country: US
+  region: NE
+  name: Rulo
+  lat: '40.0518'
+  long: "-95.4301"
+  nearby_rate_centers:
+  - name: FALLS CITY
+    distance_km: 14.54
+  - name: TRI CITY
+    distance_km: 29.32
+  - name: DAWSON
+    distance_km: 35.44
+- country: US
+  region: NE
+  name: Rushville
+  lat: '42.7134'
+  long: "-102.4665"
+  nearby_rate_centers:
+  - name: RUSHVILLE
+    distance_km: 0.71
+  - name: HAYSPRINGS
+    distance_km: 18.44
+  - name: GORDON
+    distance_km: 23.79
+- country: US
+  region: NE
+  name: Ruskin
+  lat: '40.1440'
+  long: "-97.8670"
+  nearby_rate_centers:
+  - name: RUSKIN
+    distance_km: 0.45
+  - name: DESHLER
+    distance_km: 12.29
+  - name: HARDY
+    distance_km: 15.77
+- country: US
+  region: NE
+  name: Salem
+  lat: '40.0769'
+  long: "-95.7286"
+  nearby_rate_centers:
+  - name: DAWSON
+    distance_km: 10.94
+  - name: FALLS CITY
+    distance_km: 11.06
+  - name: TRI CITY
+    distance_km: 16.29
+- country: US
+  region: NE
+  name: Santee
+  lat: '42.8386'
+  long: "-97.8495"
+  nearby_rate_centers:
+  - name: NIOBRARA
+    distance_km: 17.41
+  - name: CENTER
+    distance_km: 25.59
+  - name: VERDEL
+    distance_km: 27.34
+- country: US
+  region: NE
+  name: Sarben
+  lat: '41.1662'
+  long: "-101.3043"
+  nearby_rate_centers:
+  - name: PAXTON
+    distance_km: 6.97
+  - name: SUTHERLAND
+    distance_km: 14.51
+  - name: KEYSTONE
+    distance_km: 23.77
+- country: US
+  region: NE
+  name: Sargent
+  lat: '41.6399'
+  long: "-99.3688"
+  nearby_rate_centers:
+  - name: SARGENT
+    distance_km: 0.59
+  - name: COMSTOCK
+    distance_km: 14.05
+  - name: TAYLOR
+    distance_km: 14.15
+- country: US
+  region: NE
+  name: Saronville
+  lat: '40.6030'
+  long: "-97.9387"
+  nearby_rate_centers:
+  - name: SUTTON
+    distance_km: 6.91
+  - name: STOCKHAM
+    distance_km: 12.42
+  - name: CLAYCENTER
+    distance_km: 12.89
+- country: US
+  region: NE
+  name: Schuyler
+  lat: '41.4497'
+  long: "-97.0620"
+  nearby_rate_centers:
+  - name: SCHUYLER
+    distance_km: 0.18
+  - name: OCTAVIA
+    distance_km: 11.02
+  - name: BELLWOOD
+    distance_km: 19.31
+- country: US
+  region: NE
+  name: Scotia
+  lat: '41.4678'
+  long: "-98.7024"
+  nearby_rate_centers:
+  - name: SCOTIA
+    distance_km: 0.42
+  - name: NORTH LOUP
+    distance_km: 6.84
+  - name: COTESFIELD
+    distance_km: 13.27
+- country: US
+  region: NE
+  name: Scottsbluff
+  lat: '41.8684'
+  long: "-103.6616"
+  nearby_rate_centers:
+  - name: SCOTSBLUFF
+    distance_km: 1.09
+  - name: GERING
+    distance_km: 4.76
+  - name: MINATARE
+    distance_km: 14.58
+- country: US
+  region: NE
+  name: Scribner
+  lat: '41.6651'
+  long: "-96.6653"
+  nearby_rate_centers:
+  - name: SCRIBNER
+    distance_km: 0.54
+  - name: SNYDER
+    distance_km: 11.39
+  - name: HOOPER
+    distance_km: 12.26
+- country: US
+  region: NE
+  name: Seneca
+  lat: '42.0440'
+  long: "-100.8321"
+  nearby_rate_centers:
+  - name: SENECA
+    distance_km: 1.28
+  - name: MULLEN
+    distance_km: 17.01
+  - name: THEDFORD
+    distance_km: 22.22
+- country: US
+  region: NE
+  name: Seward
+  lat: '40.9099'
+  long: "-97.0957"
+  nearby_rate_centers:
+  - name: SEWARD
+    distance_km: 0.28
+  - name: STAPLEHST
+    distance_km: 9.82
+  - name: GARLAND
+    distance_km: 10.21
+- country: US
+  region: NE
+  name: Shelby
+  lat: '41.1940'
+  long: "-97.4260"
+  nearby_rate_centers:
+  - name: SHELBY
+    distance_km: 0.2
+  - name: OSCEOLA
+    distance_km: 9.65
+  - name: RISINGCITY
+    distance_km: 11.38
+- country: US
+  region: NE
+  name: Shelton
+  lat: '40.7784'
+  long: "-98.7294"
+  nearby_rate_centers:
+  - name: SHELTON
+    distance_km: 0.51
+  - name: GIBBON
+    distance_km: 9.86
+  - name: WOOD RIVER
+    distance_km: 12.22
+- country: US
+  region: NE
+  name: Shickley
+  lat: '40.4165'
+  long: "-97.7241"
+  nearby_rate_centers:
+  - name: SHICKLEY
+    distance_km: 0.06
+  - name: ONG
+    distance_km: 9.61
+  - name: DAVENPORT
+    distance_km: 13.13
+- country: US
+  region: NE
+  name: Sholes
+  lat: '42.3348'
+  long: "-97.2946"
+  nearby_rate_centers:
+  - name: RANDOLPH
+    distance_km: 7.2
+  - name: BELDEN
+    distance_km: 10.69
+  - name: CARROLL
+    distance_km: 11.05
+- country: US
+  region: NE
+  name: Shubert
+  lat: '40.2359'
+  long: "-95.6837"
+  nearby_rate_centers:
+  - name: TRI CITY
+    distance_km: 1.89
+  - name: NEMAHA
+    distance_km: 11.63
+  - name: DAWSON
+    distance_km: 16.88
+- country: US
+  region: NE
+  name: Sidney
+  lat: '41.1341'
+  long: "-102.9681"
+  nearby_rate_centers:
+  - name: SIDNEY
+    distance_km: 1.75
+  - name: GURLEY
+    distance_km: 20.17
+  - name: NORTHPEETZ
+    distance_km: 20.74
+- country: US
+  region: NE
+  name: Silver Creek
+  lat: '41.3152'
+  long: "-97.6652"
+  nearby_rate_centers:
+  - name: SILVER CRK
+    distance_km: 0.37
+  - name: GENOA
+    distance_km: 15.76
+  - name: DUNCAN
+    distance_km: 17.99
+- country: US
+  region: NE
+  name: Smithfield
+  lat: '40.5733'
+  long: "-99.7409"
+  nearby_rate_centers:
+  - name: BERTRAND
+    distance_km: 10.5
+  - name: ELWOOD
+    distance_km: 10.78
+  - name: LOOMIS
+    distance_km: 22.32
+- country: US
+  region: NE
+  name: Snyder
+  lat: '41.7045'
+  long: "-96.7869"
+  nearby_rate_centers:
+  - name: SNYDER
+    distance_km: 0.43
+  - name: DODGE
+    distance_km: 8.22
+  - name: SCRIBNER
+    distance_km: 11.35
+- country: US
+  region: NE
+  name: South Bend
+  lat: '41.0022'
+  long: "-96.2474"
+  nearby_rate_centers:
+  - name: LOUISVILLE
+    distance_km: 7.51
+  - name: MURDOCK
+    distance_km: 9.1
+  - name: ASHLAND
+    distance_km: 10.36
+- country: US
+  region: NE
+  name: South Sioux City
+  lat: '42.4627'
+  long: "-96.4125"
+  nearby_rate_centers:
+  - name: SOSIOUX CY
+    distance_km: 0.6
+  - name: DAKOTACITY
+    distance_km: 5.35
+  - name: JACKSON
+    distance_km: 12.72
+- country: US
+  region: NE
+  name: Spalding
+  lat: '41.6892'
+  long: "-98.3626"
+  nearby_rate_centers:
+  - name: SPALDING
+    distance_km: 0.61
+  - name: PRIMROSE
+    distance_km: 13.08
+  - name: GREELEY
+    distance_km: 20.39
+- country: US
+  region: NE
+  name: Spencer
+  lat: '42.8753'
+  long: "-98.7003"
+  nearby_rate_centers:
+  - name: SPENCER
+    distance_km: 0.11
+  - name: BRISTOW
+    distance_km: 10.17
+  - name: BUTTE
+    distance_km: 12.29
+- country: US
+  region: NE
+  name: Sprague
+  lat: '40.6266'
+  long: "-96.7446"
+  nearby_rate_centers:
+  - name: MARTELL
+    distance_km: 1.59
+  - name: HICKMAN
+    distance_km: 9.24
+  - name: HALLAM
+    distance_km: 10.02
+- country: US
+  region: NE
+  name: Springfield
+  lat: '41.0854'
+  long: "-96.1333"
+  nearby_rate_centers:
+  - name: SPRINGFLD
+    distance_km: 0.24
+  - name: GRETNA
+    distance_km: 6.05
+  - name: LOUISVILLE
+    distance_km: 9.61
+- country: US
+  region: NE
+  name: Springview
+  lat: '42.8249'
+  long: "-99.7475"
+  nearby_rate_centers:
+  - name: SPRINGVIEW
+    distance_km: 0.43
+  - name: SO GREGORY
+    distance_km: 21.73
+  - name: BASSETT
+    distance_km: 32.1
+- country: US
+  region: NE
+  name: St. Edward
+  lat: '41.5716'
+  long: "-97.8612"
+  nearby_rate_centers:
+  - name: ST EDWARD
+    distance_km: 0.87
+  - name: GENOA
+    distance_km: 17.48
+  - name: ALBION
+    distance_km: 17.58
+- country: US
+  region: NE
+  name: St. Helena
+  lat: '42.8106'
+  long: "-97.2489"
+  nearby_rate_centers:
+  - name: WYFRYCSTHL
+    distance_km: 8.56
+  - name: SO YANKTON
+    distance_km: 10.3
+  - name: HARTINGTON
+    distance_km: 20.43
+- country: US
+  region: NE
+  name: St. Libory
+  lat: '41.0822'
+  long: "-98.3590"
+  nearby_rate_centers:
+  - name: ST LIBORY
+    distance_km: 0.14
+  - name: DANNEBROG
+    distance_km: 15.79
+  - name: ST PAUL
+    distance_km: 16.29
+- country: US
+  region: NE
+  name: St. Paul
+  lat: '41.2138'
+  long: "-98.4596"
+  nearby_rate_centers:
+  - name: ST PAUL
+    distance_km: 0.6
+  - name: ELBA
+    distance_km: 11.87
+  - name: DANNEBROG
+    distance_km: 12.94
+- country: US
+  region: NE
+  name: Stamford
+  lat: '40.1313'
+  long: "-99.5945"
+  nearby_rate_centers:
+  - name: STAMFORD
+    distance_km: 0.19
+  - name: ORLEANS
+    distance_km: 12.4
+  - name: OXFORD
+    distance_km: 13.75
+- country: US
+  region: NE
+  name: Stanton
+  lat: '41.9471'
+  long: "-97.2171"
+  nearby_rate_centers:
+  - name: STANTON
+    distance_km: 0.57
+  - name: PILGER
+    distance_km: 14.76
+  - name: NORFOLK
+    distance_km: 18.52
+- country: US
+  region: NE
+  name: Staplehurst
+  lat: '40.9747'
+  long: "-97.1732"
+  nearby_rate_centers:
+  - name: STAPLEHST
+    distance_km: 0.15
+  - name: SEWARD
+    distance_km: 9.73
+  - name: TAMORA
+    distance_km: 10.16
+- country: US
+  region: NE
+  name: Stapleton
+  lat: '41.4802'
+  long: "-100.5125"
+  nearby_rate_centers:
+  - name: STAPLETON
+    distance_km: 0.63
+  - name: ARNOLD
+    distance_km: 27.0
+  - name: TRYON
+    distance_km: 37.69
+- country: US
+  region: NE
+  name: Steele City
+  lat: '40.0367'
+  long: "-97.0232"
+  nearby_rate_centers:
+  - name: STEELECITY
+    distance_km: 0.73
+  - name: DILLER
+    distance_km: 10.39
+  - name: HARBINE
+    distance_km: 17.69
+- country: US
+  region: NE
+  name: Steinauer
+  lat: '40.2073'
+  long: "-96.2329"
+  nearby_rate_centers:
+  - name: STEINAUER
+    distance_km: 0.17
+  - name: TABLE ROCK
+    distance_km: 11.7
+  - name: BURCHARD
+    distance_km: 11.77
+- country: US
+  region: NE
+  name: Stella
+  lat: '40.2323'
+  long: "-95.7736"
+  nearby_rate_centers:
+  - name: TRI CITY
+    distance_km: 6.83
+  - name: DAWSON
+    distance_km: 11.9
+  - name: NEMAHA
+    distance_km: 14.64
+- country: US
+  region: NE
+  name: Sterling
+  lat: '40.4612'
+  long: "-96.3776"
+  nearby_rate_centers:
+  - name: STERLING
+    distance_km: 0.61
+  - name: BURR
+    distance_km: 10.89
+  - name: ADAMS
+    distance_km: 11.05
+- country: US
+  region: NE
+  name: Stockham
+  lat: '40.7164'
+  long: "-97.9434"
+  nearby_rate_centers:
+  - name: STOCKHAM
+    distance_km: 0.33
+  - name: HENDERSON
+    distance_km: 13.23
+  - name: SUTTON
+    distance_km: 13.84
+- country: US
+  region: NE
+  name: Stockville
+  lat: '40.5335'
+  long: "-100.3846"
+  nearby_rate_centers:
+  - name: CURTIS
+    distance_km: 15.17
+  - name: FARNAM
+    distance_km: 23.91
+  - name: MAYWOOD
+    distance_km: 24.4
+- country: US
+  region: NE
+  name: Strang
+  lat: '40.4149'
+  long: "-97.5872"
+  nearby_rate_centers:
+  - name: BRUNING
+    distance_km: 9.23
+  - name: OHIOWA
+    distance_km: 11.49
+  - name: SHICKLEY
+    distance_km: 11.59
+- country: US
+  region: NE
+  name: Stratton
+  lat: '40.1503'
+  long: "-101.2280"
+  nearby_rate_centers:
+  - name: STRATTON
+    distance_km: 0.26
+  - name: TRENTON
+    distance_km: 19.14
+  - name: PALISADE
+    distance_km: 24.45
+- country: US
+  region: NE
+  name: Stromsburg
+  lat: '41.1159'
+  long: "-97.5912"
+  nearby_rate_centers:
+  - name: STROMSBURG
+    distance_km: 0.99
+  - name: OSCEOLA
+    distance_km: 8.03
+  - name: BENEDICT
+    distance_km: 12.1
+- country: US
+  region: NE
+  name: Stuart
+  lat: '42.6008'
+  long: "-99.1405"
+  nearby_rate_centers:
+  - name: STUART
+    distance_km: 0.65
+  - name: ATKINSON
+    distance_km: 15.49
+  - name: NEWPORT
+    distance_km: 15.75
+- country: US
+  region: NE
+  name: Sumner
+  lat: '40.9490'
+  long: "-99.5081"
+  nearby_rate_centers:
+  - name: SUMNER
+    distance_km: 0.34
+  - name: MILLER
+    distance_km: 10.34
+  - name: OVERTON
+    distance_km: 23.06
+- country: US
+  region: NE
+  name: Sunol
+  lat: '41.1539'
+  long: "-102.7630"
+  nearby_rate_centers:
+  - name: LODGEPOLE
+    distance_km: 10.03
+  - name: SIDNEY
+    distance_km: 18.67
+  - name: GURLEY
+    distance_km: 25.25
+- country: US
+  region: NE
+  name: Superior
+  lat: '40.0217'
+  long: "-98.0618"
+  nearby_rate_centers:
+  - name: SUPERIOR
+    distance_km: 0.7
+  - name: HARDY
+    distance_km: 11.74
+  - name: NELSON
+    distance_km: 19.64
+- country: US
+  region: NE
+  name: Surprise
+  lat: '41.1047'
+  long: "-97.3085"
+  nearby_rate_centers:
+  - name: SURPRISE
+    distance_km: 0.22
+  - name: ULYSSES
+    distance_km: 9.7
+  - name: RISINGCITY
+    distance_km: 10.82
+- country: US
+  region: NE
+  name: Sutherland
+  lat: '41.1601'
+  long: "-101.1229"
+  nearby_rate_centers:
+  - name: SUTHERLAND
+    distance_km: 0.89
+  - name: HERSHEY
+    distance_km: 9.59
+  - name: PAXTON
+    distance_km: 20.06
+- country: US
+  region: NE
+  name: Sutton
+  lat: '40.6072'
+  long: "-97.8589"
+  nearby_rate_centers:
+  - name: SUTTON
+    distance_km: 0.37
+  - name: GRAFTON
+    distance_km: 12.24
+  - name: STOCKHAM
+    distance_km: 13.78
+- country: US
+  region: NE
+  name: Swanton
+  lat: '40.3795'
+  long: "-97.0799"
+  nearby_rate_centers:
+  - name: SWANTON
+    distance_km: 0.5
+  - name: WESTERN
+    distance_km: 10.27
+  - name: PLYMOUTH
+    distance_km: 12.16
+- country: US
+  region: NE
+  name: Syracuse
+  lat: '40.6635'
+  long: "-96.1827"
+  nearby_rate_centers:
+  - name: SYRACUSE
+    distance_km: 0.68
+  - name: UNADILLA
+    distance_km: 7.25
+  - name: OTOE
+    distance_km: 9.03
+- country: US
+  region: NE
+  name: Table Rock
+  lat: '40.1783'
+  long: "-96.0887"
+  nearby_rate_centers:
+  - name: TABLE ROCK
+    distance_km: 0.97
+  - name: PAWNEECITY
+    distance_km: 9.67
+  - name: HUMBOLDT
+    distance_km: 12.02
+- country: US
+  region: NE
+  name: Talmage
+  lat: '40.5315'
+  long: "-96.0237"
+  nearby_rate_centers:
+  - name: TALMAGE
+    distance_km: 0.66
+  - name: BROCK
+    distance_km: 7.98
+  - name: COOK
+    distance_km: 11.62
+- country: US
+  region: NE
+  name: Tamora
+  lat: '40.8945'
+  long: "-97.2252"
+  nearby_rate_centers:
+  - name: TAMORA
+    distance_km: 0.32
+  - name: STAPLEHST
+    distance_km: 10.06
+  - name: UTICA
+    distance_km: 10.42
+- country: US
+  region: NE
+  name: Tarnov
+  lat: '41.6148'
+  long: "-97.5025"
+  nearby_rate_centers:
+  - name: PLATTE CTR
+    distance_km: 8.27
+  - name: HUMPHREY
+    distance_km: 8.81
+  - name: CRESTON
+    distance_km: 16.01
+- country: US
+  region: NE
+  name: Taylor
+  lat: '41.7696'
+  long: "-99.3814"
+  nearby_rate_centers:
+  - name: TAYLOR
+    distance_km: 0.49
+  - name: SARGENT
+    distance_km: 14.37
+  - name: BURWELL
+    distance_km: 19.9
+- country: US
+  region: NE
+  name: Tecumseh
+  lat: '40.3718'
+  long: "-96.1888"
+  nearby_rate_centers:
+  - name: TECUMSEH
+    distance_km: 0.36
+  - name: ELK CREEK
+    distance_km: 10.23
+  - name: COOK
+    distance_km: 16.18
+- country: US
+  region: NE
+  name: Tekamah
+  lat: '41.7780'
+  long: "-96.2247"
+  nearby_rate_centers:
+  - name: TEKAMAH
+    distance_km: 0.55
+  - name: HERMAN
+    distance_km: 11.36
+  - name: CRAIG
+    distance_km: 11.85
+- country: US
+  region: NE
+  name: Terrytown
+  lat: '41.8465'
+  long: "-103.6706"
+  nearby_rate_centers:
+  - name: GERING
+    distance_km: 2.54
+  - name: SCOTSBLUFF
+    distance_km: 3.36
+  - name: MINATARE
+    distance_km: 14.45
+- country: US
+  region: NE
+  name: Thayer
+  lat: '40.9702'
+  long: "-97.4968"
+  nearby_rate_centers:
+  - name: WACO
+    distance_km: 8.11
+  - name: BENEDICT
+    distance_km: 10.16
+  - name: GRESHAM
+    distance_km: 10.95
+- country: US
+  region: NE
+  name: Thedford
+  lat: '41.9790'
+  long: "-100.5746"
+  nearby_rate_centers:
+  - name: THEDFORD
+    distance_km: 0.52
+  - name: SENECA
+    distance_km: 22.22
+  - name: HALSEY
+    distance_km: 25.76
+- country: US
+  region: NE
+  name: Thurston
+  lat: '42.1747'
+  long: "-96.7016"
+  nearby_rate_centers:
+  - name: PENDER
+    distance_km: 6.81
+  - name: EMERSON
+    distance_km: 11.37
+  - name: WAKEFIELD
+    distance_km: 16.95
+- country: US
+  region: NE
+  name: Tilden
+  lat: '42.0435'
+  long: "-97.8318"
+  nearby_rate_centers:
+  - name: TILDEN
+    distance_km: 0.47
+  - name: MEADOW GRV
+    distance_km: 7.49
+  - name: OAKDALE
+    distance_km: 11.02
+- country: US
+  region: NE
+  name: Tobias
+  lat: '40.4185'
+  long: "-97.3367"
+  nearby_rate_centers:
+  - name: TOBIAS
+    distance_km: 0.36
+  - name: OHIOWA
+    distance_km: 9.72
+  - name: MILLIGAN
+    distance_km: 10.0
+- country: US
+  region: NE
+  name: Trenton
+  lat: '40.1747'
+  long: "-101.0136"
+  nearby_rate_centers:
+  - name: TRENTON
+    distance_km: 0.72
+  - name: CULBERTSON
+    distance_km: 16.21
+  - name: STRATTON
+    distance_km: 18.19
+- country: US
+  region: NE
+  name: Trumbull
+  lat: '40.6801'
+  long: "-98.2734"
+  nearby_rate_centers:
+  - name: TRUMBULL
+    distance_km: 0.59
+  - name: HANSEN
+    distance_km: 8.55
+  - name: DONIPHAN
+    distance_km: 13.62
+- country: US
+  region: NE
+  name: Tryon
+  lat: '41.5584'
+  long: "-100.9536"
+  nearby_rate_centers:
+  - name: TRYON
+    distance_km: 0.96
+  - name: STAPLETON
+    distance_km: 38.13
+  - name: HERSHEY
+    distance_km: 44.86
+- country: US
+  region: NE
+  name: Uehling
+  lat: '41.7348'
+  long: "-96.5058"
+  nearby_rate_centers:
+  - name: UEHLING
+    distance_km: 1.08
+  - name: OAKLAND
+    distance_km: 11.38
+  - name: CRAIG
+    distance_km: 13.21
+- country: US
+  region: NE
+  name: Ulysses
+  lat: '41.0721'
+  long: "-97.2030"
+  nearby_rate_centers:
+  - name: ULYSSES
+    distance_km: 0.31
+  - name: SURPRISE
+    distance_km: 9.54
+  - name: STAPLEHST
+    distance_km: 10.97
+- country: US
+  region: NE
+  name: Unadilla
+  lat: '40.6826'
+  long: "-96.2699"
+  nearby_rate_centers:
+  - name: UNADILLA
+    distance_km: 0.49
+  - name: SYRACUSE
+    distance_km: 8.02
+  - name: PALMYRA
+    distance_km: 10.9
+- country: US
+  region: NE
+  name: Union
+  lat: '40.8144'
+  long: "-95.9215"
+  nearby_rate_centers:
+  - name: UNION
+    distance_km: 0.26
+  - name: NEHAWKA
+    distance_km: 5.39
+  - name: MURRAY
+    distance_km: 11.33
+- country: US
+  region: NE
+  name: Upland
+  lat: '40.3195'
+  long: "-98.9023"
+  nearby_rate_centers:
+  - name: HILDRETH
+    distance_km: 11.81
+  - name: MINDEN
+    distance_km: 20.67
+  - name: WILCOX
+    distance_km: 23.44
+- country: US
+  region: NE
+  name: Utica
+  lat: '40.8953'
+  long: "-97.3455"
+  nearby_rate_centers:
+  - name: UTICA
+    distance_km: 0.67
+  - name: TAMORA
+    distance_km: 10.21
+  - name: WACO
+    distance_km: 10.24
+- country: US
+  region: NE
+  name: Valentine
+  lat: '42.8758'
+  long: "-100.5466"
+  nearby_rate_centers:
+  - name: VALENTINE
+    distance_km: 0.34
+  - name: CROOKSTON
+    distance_km: 17.63
+  - name: KILGORE
+    distance_km: 34.17
+- country: US
+  region: NE
+  name: Valley
+  lat: '41.3148'
+  long: "-96.3566"
+  nearby_rate_centers:
+  - name: VALLEY
+    distance_km: 1.42
+  - name: YUTAN
+    distance_km: 7.84
+  - name: ELKHORN
+    distance_km: 9.36
+- country: US
+  region: NE
+  name: Valparaiso
+  lat: '41.0798'
+  long: "-96.8330"
+  nearby_rate_centers:
+  - name: VALPARAISO
+    distance_km: 0.41
+  - name: WESTON
+    distance_km: 14.13
+  - name: RAYMOND
+    distance_km: 14.29
+- country: US
+  region: NE
+  name: Venango
+  lat: '40.7637'
+  long: "-102.0441"
+  nearby_rate_centers:
+  - name: VENANGO
+    distance_km: 0.64
+  - name: GRANT
+    distance_km: 27.52
+  - name: BIGSPRINGS
+    distance_km: 33.65
+- country: US
+  region: NE
+  name: Venice
+  lat: '41.2390'
+  long: "-96.3526"
+  nearby_rate_centers:
+  - name: YUTAN
+    distance_km: 3.93
+  - name: VALLEY
+    distance_km: 8.91
+  - name: MEAD
+    distance_km: 11.57
+- country: US
+  region: NE
+  name: Verdel
+  lat: '42.8114'
+  long: "-98.1933"
+  nearby_rate_centers:
+  - name: VERDEL
+    distance_km: 1.08
+  - name: NIOBRARA
+    distance_km: 14.33
+  - name: LYNCH
+    distance_km: 22.59
+- country: US
+  region: NE
+  name: Verdigre
+  lat: '42.5974'
+  long: "-98.0353"
+  nearby_rate_centers:
+  - name: VERDIGRE
+    distance_km: 0.75
+  - name: WINNETOON
+    distance_km: 11.68
+  - name: CENTER
+    distance_km: 12.97
+- country: US
+  region: NE
+  name: Verdon
+  lat: '40.1490'
+  long: "-95.7111"
+  nearby_rate_centers:
+  - name: TRI CITY
+    distance_km: 8.14
+  - name: DAWSON
+    distance_km: 10.42
+  - name: FALLS CITY
+    distance_km: 13.65
+- country: US
+  region: NE
+  name: Virginia
+  lat: '40.2458'
+  long: "-96.4988"
+  nearby_rate_centers:
+  - name: VIRGINIA
+    distance_km: 0.91
+  - name: FILLEY
+    distance_km: 4.95
+  - name: CRAB ORCH
+    distance_km: 11.85
+- country: US
+  region: NE
+  name: Waco
+  lat: '40.8970'
+  long: "-97.4619"
+  nearby_rate_centers:
+  - name: WACO
+    distance_km: 0.61
+  - name: UTICA
+    distance_km: 9.52
+  - name: YORK
+    distance_km: 11.13
+- country: US
+  region: NE
+  name: Wahoo
+  lat: '41.2166'
+  long: "-96.6172"
+  nearby_rate_centers:
+  - name: WAHOO
+    distance_km: 0.81
+  - name: ITHACA
+    distance_km: 9.33
+  - name: COLON
+    distance_km: 9.45
+- country: US
+  region: NE
+  name: Wakefield
+  lat: '42.2665'
+  long: "-96.8632"
+  nearby_rate_centers:
+  - name: WAKEFIELD
+    distance_km: 0.36
+  - name: EMERSON
+    distance_km: 11.73
+  - name: WAYNE
+    distance_km: 13.1
+- country: US
+  region: NE
+  name: Wallace
+  lat: '40.8376'
+  long: "-101.1645"
+  nearby_rate_centers:
+  - name: WALLACE
+    distance_km: 0.72
+  - name: ELSIE
+    distance_km: 19.23
+  - name: MADRID
+    distance_km: 32.23
+- country: US
+  region: NE
+  name: Walthill
+  lat: '42.1489'
+  long: "-96.4929"
+  nearby_rate_centers:
+  - name: WALTHILL
+    distance_km: 0.32
+  - name: ROSALIE
+    distance_km: 10.19
+  - name: WINNEBAGO
+    distance_km: 10.58
+- country: US
+  region: NE
+  name: Walton
+  lat: '40.7960'
+  long: "-96.5658"
+  nearby_rate_centers:
+  - name: EAGLE
+    distance_km: 11.33
+  - name: LINCOLN
+    distance_km: 11.75
+  - name: BENNET
+    distance_km: 13.74
+- country: US
+  region: NE
+  name: Wann
+  lat: '41.1394'
+  long: "-96.3632"
+  nearby_rate_centers:
+  - name: ASHLAND
+    distance_km: 10.64
+  - name: YUTAN
+    distance_km: 12.74
+  - name: GRETNA
+    distance_km: 14.35
+- country: US
+  region: NE
+  name: Washington
+  lat: '41.3976'
+  long: "-96.2074"
+  nearby_rate_centers:
+  - name: BENNINGTON
+    distance_km: 5.53
+  - name: ELKHORN
+    distance_km: 8.78
+  - name: KENNARD
+    distance_km: 9.55
+- country: US
+  region: NE
+  name: Waterbury
+  lat: '42.4571'
+  long: "-96.7353"
+  nearby_rate_centers:
+  - name: WATERBURY
+    distance_km: 0.6
+  - name: ALLEN
+    distance_km: 9.61
+  - name: PONCA
+    distance_km: 12.03
+- country: US
+  region: NE
+  name: Waterloo
+  lat: '41.2856'
+  long: "-96.2850"
+  nearby_rate_centers:
+  - name: ELKHORN
+    distance_km: 5.41
+  - name: VALLEY
+    distance_km: 5.91
+  - name: YUTAN
+    distance_km: 10.1
+- country: US
+  region: NE
+  name: Wauneta
+  lat: '40.4164'
+  long: "-101.3766"
+  nearby_rate_centers:
+  - name: WAUNETA
+    distance_km: 0.33
+  - name: PALISADE
+    distance_km: 23.76
+  - name: IMPERIAL
+    distance_km: 25.82
+- country: US
+  region: NE
+  name: Wausa
+  lat: '42.4978'
+  long: "-97.5393"
+  nearby_rate_centers:
+  - name: WAUSA
+    distance_km: 0.4
+  - name: BLOOMFIELD
+    distance_km: 14.35
+  - name: OSMOND
+    distance_km: 16.22
+- country: US
+  region: NE
+  name: Waverly
+  lat: '40.9111'
+  long: "-96.5341"
+  nearby_rate_centers:
+  - name: WAVERLY
+    distance_km: 0.92
+  - name: GREENWOOD
+    distance_km: 9.43
+  - name: EAGLE
+    distance_km: 13.38
+- country: US
+  region: NE
+  name: Wayne
+  lat: '42.2379'
+  long: "-97.0101"
+  nearby_rate_centers:
+  - name: WAYNE
+    distance_km: 0.61
+  - name: WAKEFIELD
+    distance_km: 12.15
+  - name: WINSIDE
+    distance_km: 15.04
+- country: US
+  region: NE
+  name: Weeping Water
+  lat: '40.8691'
+  long: "-96.1399"
+  nearby_rate_centers:
+  - name: WEEPINGWTR
+    distance_km: 0.67
+  - name: AVOCA
+    distance_km: 8.13
+  - name: ELMWOOD
+    distance_km: 12.97
+- country: US
+  region: NE
+  name: Wellfleet
+  lat: '40.7539'
+  long: "-100.7319"
+  nearby_rate_centers:
+  - name: WELLFLEET
+    distance_km: 0.51
+  - name: MAYWOOD
+    distance_km: 14.16
+  - name: CURTIS
+    distance_km: 23.23
+- country: US
+  region: NE
+  name: West Point
+  lat: '41.8379'
+  long: "-96.7057"
+  nearby_rate_centers:
+  - name: WEST POINT
+    distance_km: 1.08
+  - name: BEEMER
+    distance_km: 13.5
+  - name: SNYDER
+    distance_km: 16.11
+- country: US
+  region: NE
+  name: Western
+  lat: '40.3931'
+  long: "-97.1984"
+  nearby_rate_centers:
+  - name: WESTERN
+    distance_km: 0.3
+  - name: SWANTON
+    distance_km: 10.01
+  - name: DAYKIN
+    distance_km: 11.99
+- country: US
+  region: NE
+  name: Westerville
+  lat: '41.3962'
+  long: "-99.3818"
+  nearby_rate_centers:
+  - name: ANSLEY
+    distance_km: 11.56
+  - name: MASON CITY
+    distance_km: 20.29
+  - name: COMSTOCK
+    distance_km: 21.5
+- country: US
+  region: NE
+  name: Weston
+  lat: '41.1931'
+  long: "-96.7422"
+  nearby_rate_centers:
+  - name: WESTON
+    distance_km: 0.8
+  - name: WAHOO
+    distance_km: 10.66
+  - name: PRAGUE
+    distance_km: 13.52
+- country: US
+  region: NE
+  name: White Clay
+  lat: '42.9970'
+  long: "-102.5550"
+  nearby_rate_centers:
+  - name: WHITECLAY
+    distance_km: 0.47
+  - name: RUSHVILLE
+    distance_km: 32.24
+  - name: GORDON
+    distance_km: 35.25
+- country: US
+  region: NE
+  name: Whitney
+  lat: '42.7837'
+  long: "-103.2567"
+  nearby_rate_centers:
+  - name: CRAWFORD
+    distance_km: 16.76
+  - name: CHADRON
+    distance_km: 21.3
+  - name: SOOELRICHS
+    distance_km: 22.24
+- country: US
+  region: NE
+  name: Wilber
+  lat: '40.4810'
+  long: "-96.9645"
+  nearby_rate_centers:
+  - name: WILBER
+    distance_km: 0.19
+  - name: CLATONIA
+    distance_km: 9.89
+  - name: DE WITT
+    distance_km: 10.42
+- country: US
+  region: NE
+  name: Wilcox
+  lat: '40.3644'
+  long: "-99.1693"
+  nearby_rate_centers:
+  - name: WILCOX
+    distance_km: 0.37
+  - name: HILDRETH
+    distance_km: 11.44
+  - name: FUNK
+    distance_km: 12.47
+- country: US
+  region: NE
+  name: Willow Island
+  lat: '40.8900'
+  long: "-100.0707"
+  nearby_rate_centers:
+  - name: COZAD
+    distance_km: 8.2
+  - name: GOTHENBURG
+    distance_km: 9.35
+  - name: FARNAM
+    distance_km: 23.81
+- country: US
+  region: NE
+  name: Wilsonville
+  lat: '40.1119'
+  long: "-100.1066"
+  nearby_rate_centers:
+  - name: WILSONVL
+    distance_km: 0.55
+  - name: HENDLEY
+    distance_km: 12.08
+  - name: LEBANON
+    distance_km: 16.36
+- country: US
+  region: NE
+  name: Winnebago
+  lat: '42.2383'
+  long: "-96.4716"
+  nearby_rate_centers:
+  - name: WINNEBAGO
+    distance_km: 1.26
+  - name: HOMER
+    distance_km: 9.82
+  - name: WALTHILL
+    distance_km: 9.9
+- country: US
+  region: NE
+  name: Winnetoon
+  lat: '42.5135'
+  long: "-97.9601"
+  nearby_rate_centers:
+  - name: WINNETOON
+    distance_km: 0.97
+  - name: CREIGHTON
+    distance_km: 6.98
+  - name: VERDIGRE
+    distance_km: 11.92
+- country: US
+  region: NE
+  name: Winside
+  lat: '42.1773'
+  long: "-97.1751"
+  nearby_rate_centers:
+  - name: WINSIDE
+    distance_km: 0.76
+  - name: CARROLL
+    distance_km: 10.64
+  - name: HOSKINS
+    distance_km: 12.37
+- country: US
+  region: NE
+  name: Winslow
+  lat: '41.6102'
+  long: "-96.5047"
+  nearby_rate_centers:
+  - name: HOOPER
+    distance_km: 3.04
+  - name: SCRIBNER
+    distance_km: 14.36
+  - name: UEHLING
+    distance_km: 14.79
+- country: US
+  region: NE
+  name: Wisner
+  lat: '41.9891'
+  long: "-96.9147"
+  nearby_rate_centers:
+  - name: WISNER
+    distance_km: 0.18
+  - name: BEEMER
+    distance_km: 10.85
+  - name: PILGER
+    distance_km: 12.11
+- country: US
+  region: NE
+  name: Wolbach
+  lat: '41.4013'
+  long: "-98.3940"
+  nearby_rate_centers:
+  - name: WOLBACH
+    distance_km: 0.3
+  - name: ELBA
+    distance_km: 19.75
+  - name: GREELEY
+    distance_km: 19.89
+- country: US
+  region: NE
+  name: Wood Lake
+  lat: '42.6386'
+  long: "-100.2376"
+  nearby_rate_centers:
+  - name: WOOD LAKE
+    distance_km: 0.34
+  - name: JOHNSTOWN
+    distance_km: 17.08
+  - name: AINSWORTH
+    distance_km: 32.31
+- country: US
+  region: NE
+  name: Wood River
+  lat: '40.8196'
+  long: "-98.6041"
+  nearby_rate_centers:
+  - name: WOOD RIVER
+    distance_km: 0.76
+  - name: SHELTON
+    distance_km: 11.92
+  - name: DONIPHAN
+    distance_km: 19.81
+- country: US
+  region: NE
+  name: Woodland Hills
+  lat: '40.7511'
+  long: "-96.4210"
+  nearby_rate_centers:
+  - name: PALMYRA
+    distance_km: 5.12
+  - name: EAGLE
+    distance_km: 7.46
+  - name: BENNET
+    distance_km: 10.08
+- country: US
+  region: NE
+  name: Woodland Park
+  lat: '42.0542'
+  long: "-97.3452"
+  nearby_rate_centers:
+  - name: NORFOLK
+    distance_km: 6.57
+  - name: HOSKINS
+    distance_km: 7.8
+  - name: STANTON
+    distance_km: 15.45
+- country: US
+  region: NE
+  name: Wymore
+  lat: '40.1221'
+  long: "-96.6642"
+  nearby_rate_centers:
+  - name: WYMORE
+    distance_km: 0.41
+  - name: BARNESTON
+    distance_km: 10.82
+  - name: ODELL
+    distance_km: 13.61
+- country: US
+  region: NE
+  name: Wynot
+  lat: '42.7399'
+  long: "-97.1697"
+  nearby_rate_centers:
+  - name: WYFRYCSTHL
+    distance_km: 6.54
+  - name: HARTINGTON
+    distance_km: 14.55
+  - name: SO YANKTON
+    distance_km: 18.01
+- country: US
+  region: NE
+  name: Yankee Hill
+  lat: '40.7653'
+  long: "-96.7322"
+  nearby_rate_centers:
+  - name: LINCOLN
+    distance_km: 6.18
+  - name: DENTON
+    distance_km: 9.65
+  - name: MARTELL
+    distance_km: 14.77
+- country: US
+  region: NE
+  name: York
+  lat: '40.8701'
+  long: "-97.5928"
+  nearby_rate_centers:
+  - name: YORK
+    distance_km: 0.45
+  - name: WACO
+    distance_km: 11.1
+  - name: MCCOOL JCT
+    distance_km: 13.26
+- country: US
+  region: NE
+  name: Yutan
+  lat: '41.2431'
+  long: "-96.3959"
+  nearby_rate_centers:
+  - name: YUTAN
+    distance_km: 0.9
+  - name: MEAD
+    distance_km: 7.99
+  - name: VALLEY
+    distance_km: 9.59

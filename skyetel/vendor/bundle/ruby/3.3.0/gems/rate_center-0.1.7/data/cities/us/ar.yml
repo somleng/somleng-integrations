@@ -1,0 +1,7488 @@
+---
+cities:
+- country: US
+  region: AR
+  name: Acorn
+  lat: '34.6379'
+  long: "-94.2025"
+  nearby_rate_centers:
+  - name: MENA
+    distance_km: 7.18
+  - name: BOLES
+    distance_km: 20.72
+  - name: HATFIELD
+    distance_km: 23.36
+- country: US
+  region: AR
+  name: Adona
+  lat: '35.0399'
+  long: "-92.8992"
+  nearby_rate_centers:
+  - name: PERRY
+    distance_km: 9.27
+  - name: PERRYVILLE
+    distance_km: 9.91
+  - name: CASA
+    distance_km: 14.04
+- country: US
+  region: AR
+  name: Alexander
+  lat: '34.6185'
+  long: "-92.4512"
+  nearby_rate_centers:
+  - name: BRYANTCGVL
+    distance_km: 2.1
+  - name: BAUXITE
+    distance_km: 9.39
+  - name: BAUXITE METRO
+    distance_km: 9.39
+  - name: SPRINGLAKE
+    distance_km: 11.71
+- country: US
+  region: AR
+  name: Alicia
+  lat: '35.8929'
+  long: "-91.0835"
+  nearby_rate_centers:
+  - name: SWIFTON
+    distance_km: 8.66
+  - name: CASH
+    distance_km: 17.05
+  - name: TUCKERMAN
+    distance_km: 20.53
+- country: US
+  region: AR
+  name: Alix
+  lat: '35.4219'
+  long: "-93.7289"
+  nearby_rate_centers:
+  - name: ALTUS
+    distance_km: 4.19
+  - name: HARTMAN
+    distance_km: 10.93
+  - name: OZARK
+    distance_km: 12.94
+- country: US
+  region: AR
+  name: Alleene
+  lat: '33.7648'
+  long: "-94.2622"
+  nearby_rate_centers:
+  - name: WINTHROP
+    distance_km: 10.96
+  - name: FOREMAN
+    distance_km: 12.65
+  - name: ASHDOWN
+    distance_km: 16.23
+- country: US
+  region: AR
+  name: Allport
+  lat: '34.5399'
+  long: "-91.7839"
+  nearby_rate_centers:
+  - name: COY
+    distance_km: 8.51
+  - name: HUMPHREY
+    distance_km: 14.87
+  - name: ENGLAND
+    distance_km: 16.48
+- country: US
+  region: AR
+  name: Alma
+  lat: '35.4919'
+  long: "-94.2165"
+  nearby_rate_centers:
+  - name: ALMA
+    distance_km: 1.95
+  - name: VAN BUREN
+    distance_km: 13.73
+  - name: MULBERRY
+    distance_km: 14.81
+- country: US
+  region: AR
+  name: Almyra
+  lat: '34.4057'
+  long: "-91.4108"
+  nearby_rate_centers:
+  - name: ALMYRA
+    distance_km: 0.48
+  - name: DE WITT
+    distance_km: 14.61
+  - name: STUTTGART
+    distance_km: 16.69
+- country: US
+  region: AR
+  name: Alpena
+  lat: '36.2897'
+  long: "-93.3037"
+  nearby_rate_centers:
+  - name: ALPENA
+    distance_km: 0.93
+  - name: GREEN FOR
+    distance_km: 12.59
+  - name: OSAGE
+    distance_km: 13.42
+- country: US
+  region: AR
+  name: Alpine
+  lat: '34.2268'
+  long: "-93.3783"
+  nearby_rate_centers:
+  - name: AMITY
+    distance_km: 9.37
+  - name: GLENWOOD
+    distance_km: 19.41
+  - name: BISMARCK
+    distance_km: 21.69
+- country: US
+  region: AR
+  name: Altheimer
+  lat: '34.3241'
+  long: "-91.8481"
+  nearby_rate_centers:
+  - name: ALTHEIMER
+    distance_km: 1.18
+  - name: HUMPHREY
+    distance_km: 16.95
+  - name: PINE BLUFF
+    distance_km: 18.49
+- country: US
+  region: AR
+  name: Altus
+  lat: '35.4468'
+  long: "-93.7644"
+  nearby_rate_centers:
+  - name: ALTUS
+    distance_km: 0.41
+  - name: OZARK
+    distance_km: 8.7
+  - name: HARTMAN
+    distance_km: 14.13
+- country: US
+  region: AR
+  name: Amagon
+  lat: '35.5631'
+  long: "-91.1093"
+  nearby_rate_centers:
+  - name: GRUBBS
+    distance_km: 10.09
+  - name: FISHER
+    distance_km: 14.4
+  - name: WALDENBURG
+    distance_km: 16.02
+- country: US
+  region: AR
+  name: Amity
+  lat: '34.2662'
+  long: "-93.4634"
+  nearby_rate_centers:
+  - name: AMITY
+    distance_km: 0.46
+  - name: GLENWOOD
+    distance_km: 10.54
+  - name: DAISY
+    distance_km: 25.16
+- country: US
+  region: AR
+  name: Anthonyville
+  lat: '35.0398'
+  long: "-90.3403"
+  nearby_rate_centers:
+  - name: BLACKFIHLK
+    distance_km: 14.53
+  - name: HUGHES
+    distance_km: 15.22
+  - name: W MEMPHIS
+    distance_km: 19.77
+- country: US
+  region: AR
+  name: Antoine
+  lat: '34.0346'
+  long: "-93.4226"
+  nearby_rate_centers:
+  - name: DELIGHT
+    distance_km: 7.22
+  - name: OKOLONA
+    distance_km: 9.72
+  - name: BLEVINS
+    distance_km: 23.49
+- country: US
+  region: AR
+  name: Aplin
+  lat: '34.9675'
+  long: "-92.9813"
+  nearby_rate_centers:
+  - name: NIMROD
+    distance_km: 7.59
+  - name: CASA
+    distance_km: 9.05
+  - name: PERRYVILLE
+    distance_km: 16.84
+- country: US
+  region: AR
+  name: Appleton
+  lat: '35.4185'
+  long: "-92.8724"
+  nearby_rate_centers:
+  - name: HECTOR
+    distance_km: 11.22
+  - name: CLEVELAND
+    distance_km: 13.95
+  - name: ATKINS
+    distance_km: 20.67
+- country: US
+  region: AR
+  name: Arkadelphia
+  lat: '34.1253'
+  long: "-93.0729"
+  nearby_rate_centers:
+  - name: ARKADLPHIA
+    distance_km: 2.19
+  - name: DONALDSON
+    distance_km: 18.57
+  - name: DALARK
+    distance_km: 20.11
+- country: US
+  region: AR
+  name: Arkansas City
+  lat: '33.6089'
+  long: "-91.2048"
+  nearby_rate_centers:
+  - name: ARKANSASCY
+    distance_km: 0.17
+  - name: MCGEHEE
+    distance_km: 18.33
+  - name: DERMOTT
+    distance_km: 23.19
+- country: US
+  region: AR
+  name: Armorel
+  lat: '35.9223'
+  long: "-89.8009"
+  nearby_rate_centers:
+  - name: BLYTHEVL
+    distance_km: 8.96
+  - name: LUXORA
+    distance_km: 22.66
+  - name: DELL
+    distance_km: 22.89
+- country: US
+  region: AR
+  name: Ash Flat
+  lat: '36.2365'
+  long: "-91.6067"
+  nearby_rate_centers:
+  - name: ASH FLAT
+    distance_km: 1.29
+  - name: CHEROKEVLG
+    distance_km: 10.42
+  - name: HORSEHBEND
+    distance_km: 13.51
+- country: US
+  region: AR
+  name: Ashdown
+  lat: '33.6746'
+  long: "-94.1265"
+  nearby_rate_centers:
+  - name: ASHDOWN
+    distance_km: 0.19
+  - name: SARATOGA
+    distance_km: 22.49
+  - name: FOREMAN
+    distance_km: 25.16
+- country: US
+  region: AR
+  name: Atkins
+  lat: '35.2414'
+  long: "-92.9465"
+  nearby_rate_centers:
+  - name: ATKINS
+    distance_km: 1.14
+  - name: RUSSELLVL
+    distance_km: 17.45
+  - name: DARDANELLE
+    distance_km: 18.73
+- country: US
+  region: AR
+  name: Aubrey
+  lat: '34.7197'
+  long: "-90.8975"
+  nearby_rate_centers:
+  - name: MORO
+    distance_km: 11.71
+  - name: MARIANNA
+    distance_km: 13.96
+  - name: MARVELL
+    distance_km: 18.03
+- country: US
+  region: AR
+  name: Augusta
+  lat: '35.2865'
+  long: "-91.3614"
+  nearby_rate_centers:
+  - name: AUGUSTA
+    distance_km: 0.43
+  - name: MCCRORY
+    distance_km: 15.04
+  - name: TUPELO
+    distance_km: 16.64
+- country: US
+  region: AR
+  name: Austin
+  lat: '35.0058'
+  long: "-91.9895"
+  nearby_rate_centers:
+  - name: CABOT
+    distance_km: 4.98
+  - name: BEEBE
+    distance_km: 11.92
+  - name: JACKSONVL
+    distance_km: 19.3
+- country: US
+  region: AR
+  name: Avilla
+  lat: '34.7003'
+  long: "-92.5794"
+  nearby_rate_centers:
+  - name: FERNDALE
+    distance_km: 9.15
+  - name: BRYANTCGVL
+    distance_km: 12.85
+  - name: PINNACLE
+    distance_km: 15.31
+- country: US
+  region: AR
+  name: Avoca
+  lat: '36.3980'
+  long: "-94.0710"
+  nearby_rate_centers:
+  - name: PEA RIDGE
+    distance_km: 6.97
+  - name: ROGERS
+    distance_km: 8.41
+  - name: GARFIELD
+    distance_km: 11.0
+- country: US
+  region: AR
+  name: Bald Knob
+  lat: '35.3123'
+  long: "-91.5709"
+  nearby_rate_centers:
+  - name: BALD KNOB
+    distance_km: 0.51
+  - name: JUDSONIA
+    distance_km: 7.55
+  - name: KENSETT
+    distance_km: 12.84
+- country: US
+  region: AR
+  name: Banks
+  lat: '33.5758'
+  long: "-92.2671"
+  nearby_rate_centers:
+  - name: BANKS
+    distance_km: 0.85
+  - name: HERMITAGE
+    distance_km: 16.39
+  - name: HAMPTON
+    distance_km: 19.01
+- country: US
+  region: AR
+  name: Barling
+  lat: '35.3284'
+  long: "-94.2791"
+  nearby_rate_centers:
+  - name: LAVACA
+    distance_km: 9.55
+  - name: GREENWOOD
+    distance_km: 12.54
+  - name: VAN BUREN
+    distance_km: 13.57
+- country: US
+  region: AR
+  name: Bassett
+  lat: '35.5356'
+  long: "-90.1294"
+  nearby_rate_centers:
+  - name: JOINER
+    distance_km: 3.7
+  - name: WILSON
+    distance_km: 8.49
+  - name: DYESS
+    distance_km: 10.07
+- country: US
+  region: AR
+  name: Batavia
+  lat: '36.2498'
+  long: "-93.2160"
+  nearby_rate_centers:
+  - name: ALPENA
+    distance_km: 8.46
+  - name: HARRISON
+    distance_km: 9.82
+  - name: OSAGE
+    distance_km: 16.8
+- country: US
+  region: AR
+  name: Batesville
+  lat: '35.7687'
+  long: "-91.6227"
+  nearby_rate_centers:
+  - name: BATESVILLE
+    distance_km: 1.58
+  - name: NEWARK
+    distance_km: 18.04
+  - name: CAVE CITY
+    distance_km: 20.36
+- country: US
+  region: AR
+  name: Bauxite
+  lat: '34.5602'
+  long: "-92.4989"
+  nearby_rate_centers:
+  - name: BAUXITE
+    distance_km: 1.59
+  - name: BAUXITE METRO
+    distance_km: 1.59
+  - name: BENTON
+    distance_km: 7.96
+  - name: BENTON1
+    distance_km: 7.96
+  - name: BRYANTCGVL
+    distance_km: 8.79
+- country: US
+  region: AR
+  name: Bay
+  lat: '35.7456'
+  long: "-90.5546"
+  nearby_rate_centers:
+  - name: BAY
+    distance_km: 0.91
+  - name: TRUMANN
+    distance_km: 8.97
+  - name: LAKE CITY
+    distance_km: 13.42
+- country: US
+  region: AR
+  name: Bearden
+  lat: '33.7276'
+  long: "-92.6187"
+  nearby_rate_centers:
+  - name: BEARDEN
+    distance_km: 0.83
+  - name: FORDYCE
+    distance_km: 20.75
+  - name: CAMDEN
+    distance_km: 25.19
+- country: US
+  region: AR
+  name: Beaver
+  lat: '36.4752'
+  long: "-93.7728"
+  nearby_rate_centers:
+  - name: EUREKA SPG
+    distance_km: 8.98
+  - name: GATEWAY
+    distance_km: 14.6
+  - name: GARFIELD
+    distance_km: 17.56
+- country: US
+  region: AR
+  name: Bee Branch
+  lat: '35.4561'
+  long: "-92.3950"
+  nearby_rate_centers:
+  - name: MORGANTON
+    distance_km: 4.19
+  - name: DAMASCUS
+    distance_km: 10.03
+  - name: CLINTON
+    distance_km: 16.13
+- country: US
+  region: AR
+  name: Beebe
+  lat: '35.0713'
+  long: "-91.8998"
+  nearby_rate_centers:
+  - name: BEEBE
+    distance_km: 1.53
+  - name: MCRAE
+    distance_km: 8.79
+  - name: CABOT
+    distance_km: 15.71
+- country: US
+  region: AR
+  name: Beedeville
+  lat: '35.4292'
+  long: "-91.1107"
+  nearby_rate_centers:
+  - name: HICKORYRDG
+    distance_km: 10.64
+  - name: TUPELO
+    distance_km: 11.77
+  - name: FISHER
+    distance_km: 14.06
+- country: US
+  region: AR
+  name: Beirne
+  lat: '33.8882'
+  long: "-93.2062"
+  nearby_rate_centers:
+  - name: GURDON
+    distance_km: 6.33
+  - name: OKOLONA
+    distance_km: 16.25
+  - name: PRESCOTT
+    distance_km: 19.3
+- country: US
+  region: AR
+  name: Bella Vista
+  lat: '36.4667'
+  long: "-94.2707"
+  nearby_rate_centers:
+  - name: CENTERTON
+    distance_km: 12.31
+  - name: BENTONVL
+    distance_km: 12.4
+  - name: PEA RIDGE
+    distance_km: 13.89
+- country: US
+  region: AR
+  name: Bellefonte
+  lat: '36.1998'
+  long: "-93.0470"
+  nearby_rate_centers:
+  - name: HARRISON
+    distance_km: 6.71
+  - name: WESTERNGRV
+    distance_km: 13.73
+  - name: PYATT
+    distance_km: 18.96
+- country: US
+  region: AR
+  name: Belleville
+  lat: '35.0915'
+  long: "-93.4458"
+  nearby_rate_centers:
+  - name: BELLEVILLE
+    distance_km: 0.46
+  - name: DANVILLE
+    distance_km: 6.33
+  - name: HAVANA
+    distance_km: 8.61
+- country: US
+  region: AR
+  name: Ben Lomond
+  lat: '33.8335'
+  long: "-94.1177"
+  nearby_rate_centers:
+  - name: LOCKESBURG
+    distance_km: 15.46
+  - name: ASHDOWN
+    distance_km: 17.72
+  - name: MINERALSPG
+    distance_km: 19.12
+- country: US
+  region: AR
+  name: Benton
+  lat: '34.5776'
+  long: "-92.5713"
+  nearby_rate_centers:
+  - name: BENTON
+    distance_km: 2.54
+  - name: BENTON1
+    distance_km: 2.54
+  - name: BAUXITE
+    distance_km: 6.34
+  - name: BAUXITE METRO
+    distance_km: 6.34
+  - name: BRYANTCGVL
+    distance_km: 11.62
+- country: US
+  region: AR
+  name: Bentonville
+  lat: '36.3547'
+  long: "-94.2305"
+  nearby_rate_centers:
+  - name: BENTONVL
+    distance_km: 2.11
+  - name: CENTERTON
+    distance_km: 4.85
+  - name: ROGERS
+    distance_km: 10.4
+- country: US
+  region: AR
+  name: Bergman
+  lat: '36.3128'
+  long: "-93.0115"
+  nearby_rate_centers:
+  - name: HARRISON
+    distance_km: 12.28
+  - name: LEAD HILL
+    distance_km: 14.46
+  - name: PYATT
+    distance_km: 16.56
+- country: US
+  region: AR
+  name: Berryville
+  lat: '36.3710'
+  long: "-93.5704"
+  nearby_rate_centers:
+  - name: BERRYVILLE
+    distance_km: 0.74
+  - name: GREEN FOR
+    distance_km: 12.97
+  - name: EUREKA SPG
+    distance_km: 14.87
+- country: US
+  region: AR
+  name: Bethesda
+  lat: '35.7892'
+  long: "-91.7992"
+  nearby_rate_centers:
+  - name: PLEASATGRV
+    distance_km: 10.47
+  - name: CONCORD
+    distance_km: 14.19
+  - name: BATESVILLE
+    distance_km: 14.57
+- country: US
+  region: AR
+  name: Big Flat
+  lat: '36.0056'
+  long: "-92.4066"
+  nearby_rate_centers:
+  - name: TIMBO
+    distance_km: 17.29
+  - name: FIFTYSIX
+    distance_km: 18.45
+  - name: MARSHALL
+    distance_km: 22.8
+- country: US
+  region: AR
+  name: Bigelow
+  lat: '34.9975'
+  long: "-92.6315"
+  nearby_rate_centers:
+  - name: BIGELOW
+    distance_km: 0.49
+  - name: WYE
+    distance_km: 7.31
+  - name: PERRYVILLE
+    distance_km: 15.45
+- country: US
+  region: AR
+  name: Biggers
+  lat: '36.3319'
+  long: "-90.8052"
+  nearby_rate_centers:
+  - name: BIGGERS
+    distance_km: 1.28
+  - name: DELAPLAINE
+    distance_km: 12.82
+  - name: MAYNARD
+    distance_km: 12.9
+- country: US
+  region: AR
+  name: Birdsong
+  lat: '35.4610'
+  long: "-90.2598"
+  nearby_rate_centers:
+  - name: TURRELL
+    distance_km: 9.52
+  - name: TYRONZA
+    distance_km: 9.52
+  - name: JOINER
+    distance_km: 11.23
+- country: US
+  region: AR
+  name: Bismarck
+  lat: '34.3178'
+  long: "-93.1780"
+  nearby_rate_centers:
+  - name: BISMARCK
+    distance_km: 0.89
+  - name: HOTSPRINGS
+    distance_km: 23.43
+  - name: ARKADLPHIA
+    distance_km: 25.01
+- country: US
+  region: AR
+  name: Black Oak
+  lat: '35.8365'
+  long: "-90.3676"
+  nearby_rate_centers:
+  - name: LAKE CITY
+    distance_km: 6.41
+  - name: MONETTE
+    distance_km: 6.66
+  - name: CARAWAY
+    distance_km: 9.66
+- country: US
+  region: AR
+  name: Black Rock
+  lat: '36.1070'
+  long: "-91.1074"
+  nearby_rate_centers:
+  - name: BLACK ROCK
+    distance_km: 0.98
+  - name: IMBODEN
+    distance_km: 12.09
+  - name: WALNUT RDG
+    distance_km: 14.1
+- country: US
+  region: AR
+  name: Black Springs
+  lat: '34.4607'
+  long: "-93.7123"
+  nearby_rate_centers:
+  - name: NORMAN
+    distance_km: 3.46
+  - name: MOUNT IDA
+    distance_km: 12.79
+  - name: ODEN
+    distance_km: 19.02
+- country: US
+  region: AR
+  name: Blevins
+  lat: '33.8716'
+  long: "-93.5778"
+  nearby_rate_centers:
+  - name: BLEVINS
+    distance_km: 0.89
+  - name: WASHINGTON
+    distance_km: 14.58
+  - name: DELIGHT
+    distance_km: 19.51
+- country: US
+  region: AR
+  name: Blue Eye
+  lat: '36.4966'
+  long: "-93.3977"
+  nearby_rate_centers:
+  - name: OAK GROVE
+    distance_km: 5.74
+  - name: GREEN FOR
+    distance_km: 18.42
+  - name: OMAHA
+    distance_km: 18.91
+- country: US
+  region: AR
+  name: Blue Mountain
+  lat: '35.1311'
+  long: "-93.7162"
+  nearby_rate_centers:
+  - name: BLUE MT
+    distance_km: 0.29
+  - name: MAGAZINE
+    distance_km: 7.84
+  - name: HAVANA
+    distance_km: 16.56
+- country: US
+  region: AR
+  name: Bluff City
+  lat: '33.7224'
+  long: "-93.1316"
+  nearby_rate_centers:
+  - name: CHIDESTER
+    distance_km: 10.97
+  - name: GURDON
+    distance_km: 21.69
+  - name: ROSSTON
+    distance_km: 23.11
+- country: US
+  region: AR
+  name: Blytheville
+  lat: '35.9321'
+  long: "-89.9051"
+  nearby_rate_centers:
+  - name: BLYTHEVL
+    distance_km: 0.49
+  - name: DELL
+    distance_km: 14.77
+  - name: LUXORA
+    distance_km: 20.48
+- country: US
+  region: AR
+  name: Board Camp
+  lat: '34.5369'
+  long: "-94.0887"
+  nearby_rate_centers:
+  - name: MENA
+    distance_km: 14.81
+  - name: BOLES
+    distance_km: 26.66
+  - name: HATFIELD
+    distance_km: 27.03
+- country: US
+  region: AR
+  name: Bodcaw
+  lat: '33.5607'
+  long: "-93.4013"
+  nearby_rate_centers:
+  - name: BODCAW
+    distance_km: 0.83
+  - name: ROSSTON
+    distance_km: 14.02
+  - name: HOPE
+    distance_km: 21.43
+- country: US
+  region: AR
+  name: Boles
+  lat: '34.7861'
+  long: "-94.0507"
+  nearby_rate_centers:
+  - name: BOLES
+    distance_km: 1.32
+  - name: WALDRON
+    distance_km: 12.18
+  - name: LAKEHINKLE
+    distance_km: 14.71
+- country: US
+  region: AR
+  name: Bonanza
+  lat: '35.2335'
+  long: "-94.4167"
+  nearby_rate_centers:
+  - name: HACKETT
+    distance_km: 5.79
+  - name: GREENWOOD
+    distance_km: 15.03
+  - name: FORT SMITH
+    distance_km: 16.59
+- country: US
+  region: AR
+  name: Bono
+  lat: '35.9111'
+  long: "-90.8009"
+  nearby_rate_centers:
+  - name: JONESBORO
+    distance_km: 12.13
+  - name: CASH
+    distance_km: 17.31
+  - name: WALNUT RDG
+    distance_km: 22.3
+- country: US
+  region: AR
+  name: Booneville
+  lat: '35.1392'
+  long: "-93.9178"
+  nearby_rate_centers:
+  - name: BOONEVILLE
+    distance_km: 0.81
+  - name: MAGAZINE
+    distance_km: 10.81
+  - name: BLUE MT
+    distance_km: 18.36
+- country: US
+  region: AR
+  name: Bowman
+  lat: '35.8194'
+  long: "-90.4964"
+  nearby_rate_centers:
+  - name: LAKE CITY
+    distance_km: 5.6
+  - name: BAY
+    distance_km: 10.3
+  - name: TRUMANN
+    distance_km: 16.04
+- country: US
+  region: AR
+  name: Bradford
+  lat: '35.4220'
+  long: "-91.4552"
+  nearby_rate_centers:
+  - name: BRADFORD
+    distance_km: 0.74
+  - name: BALD KNOB
+    distance_km: 16.17
+  - name: AUGUSTA
+    distance_km: 17.72
+- country: US
+  region: AR
+  name: Bradley
+  lat: '33.0993'
+  long: "-93.6569"
+  nearby_rate_centers:
+  - name: BRADLEY
+    distance_km: 0.67
+  - name: TAYLOR
+    distance_km: 18.31
+  - name: NOSPRINGHL
+    distance_km: 20.98
+- country: US
+  region: AR
+  name: Branch
+  lat: '35.3075'
+  long: "-93.9557"
+  nearby_rate_centers:
+  - name: RATCLIFF
+    distance_km: 6.31
+  - name: CHARLESTON
+    distance_km: 8.06
+  - name: BOONEVILLE
+    distance_km: 19.52
+- country: US
+  region: AR
+  name: Briarcliff
+  lat: '36.2720'
+  long: "-92.2821"
+  nearby_rate_centers:
+  - name: TRACYFERRY
+    distance_km: 5.11
+  - name: NORFORK
+    distance_km: 7.32
+  - name: MT HOME
+    distance_km: 11.4
+- country: US
+  region: AR
+  name: Brinkley
+  lat: '34.8900'
+  long: "-91.1902"
+  nearby_rate_centers:
+  - name: BRINKLEY
+    distance_km: 1.13
+  - name: WHEATLEY
+    distance_km: 7.31
+  - name: COTTONPLNT
+    distance_km: 14.06
+- country: US
+  region: AR
+  name: Brookland
+  lat: '35.8991'
+  long: "-90.5767"
+  nearby_rate_centers:
+  - name: JONESBORO
+    distance_km: 13.9
+  - name: LAKE CITY
+    distance_km: 15.76
+  - name: BAY
+    distance_km: 17.15
+- country: US
+  region: AR
+  name: Bryant
+  lat: '34.6152'
+  long: "-92.4914"
+  nearby_rate_centers:
+  - name: BRYANTCGVL
+    distance_km: 3.23
+  - name: BAUXITE
+    distance_km: 7.48
+  - name: BAUXITE METRO
+    distance_km: 7.48
+  - name: BENTON
+    distance_km: 10.72
+  - name: BENTON1
+    distance_km: 10.72
+- country: US
+  region: AR
+  name: Buckner
+  lat: '33.3572'
+  long: "-93.4358"
+  nearby_rate_centers:
+  - name: STAMPS
+    distance_km: 5.32
+  - name: LEWISVILLE
+    distance_km: 13.02
+  - name: WALDO
+    distance_km: 13.38
+- country: US
+  region: AR
+  name: Buffalo City
+  lat: '36.1677'
+  long: "-92.4388"
+  nearby_rate_centers:
+  - name: GASSVILLE
+    distance_km: 14.39
+  - name: NORFORK
+    distance_km: 14.74
+  - name: WHITEVILLE
+    distance_km: 16.73
+- country: US
+  region: AR
+  name: Bull Shoals
+  lat: '36.3748'
+  long: "-92.5902"
+  nearby_rate_centers:
+  - name: LAKEVIEW
+    distance_km: 1.86
+  - name: BULLSHOALS
+    distance_km: 2.95
+  - name: FLIPPIN
+    distance_km: 10.23
+- country: US
+  region: AR
+  name: Burdette
+  lat: '35.8152'
+  long: "-89.9467"
+  nearby_rate_centers:
+  - name: LUXORA
+    distance_km: 7.4
+  - name: DELL
+    distance_km: 10.07
+  - name: OSCEOLA
+    distance_km: 12.94
+- country: US
+  region: AR
+  name: Cabot
+  lat: '34.9766'
+  long: "-92.0274"
+  nearby_rate_centers:
+  - name: CABOT
+    distance_km: 1.61
+  - name: JACKSONVL
+    distance_km: 14.64
+  - name: BEEBE
+    distance_km: 16.63
+- country: US
+  region: AR
+  name: Caddo Gap
+  lat: '34.4025'
+  long: "-93.6179"
+  nearby_rate_centers:
+  - name: NORMAN
+    distance_km: 8.21
+  - name: GLENWOOD
+    distance_km: 10.36
+  - name: MOUNT IDA
+    distance_km: 17.19
+- country: US
+  region: AR
+  name: Caddo Valley
+  lat: '34.1898'
+  long: "-93.0679"
+  nearby_rate_centers:
+  - name: ARKADLPHIA
+    distance_km: 8.02
+  - name: DONALDSON
+    distance_km: 14.64
+  - name: BISMARCK
+    distance_km: 16.82
+- country: US
+  region: AR
+  name: Caldwell
+  lat: '35.0788'
+  long: "-90.8135"
+  nearby_rate_centers:
+  - name: FORREST CY
+    distance_km: 8.05
+  - name: WYNNE
+    distance_km: 16.57
+  - name: PARKIN
+    distance_km: 30.96
+- country: US
+  region: AR
+  name: Cale
+  lat: '33.6278'
+  long: "-93.2350"
+  nearby_rate_centers:
+  - name: ROSSTON
+    distance_km: 9.85
+  - name: BODCAW
+    distance_km: 17.91
+  - name: CHIDESTER
+    distance_km: 21.77
+- country: US
+  region: AR
+  name: Calico Rock
+  lat: '36.1401'
+  long: "-92.1341"
+  nearby_rate_centers:
+  - name: CALICOROCK
+    distance_km: 2.85
+  - name: NORFORK
+    distance_km: 15.15
+  - name: OXFORD
+    distance_km: 20.05
+- country: US
+  region: AR
+  name: Calion
+  lat: '33.3287'
+  long: "-92.5402"
+  nearby_rate_centers:
+  - name: CALION
+    distance_km: 0.54
+  - name: NORPHLET
+    distance_km: 11.96
+  - name: EL DORADO
+    distance_km: 17.37
+- country: US
+  region: AR
+  name: Camden
+  lat: '33.5672'
+  long: "-92.8467"
+  nearby_rate_centers:
+  - name: CAMDEN
+    distance_km: 2.45
+  - name: LOUANN
+    distance_km: 20.38
+  - name: CHIDESTER
+    distance_km: 21.52
+- country: US
+  region: AR
+  name: Cammack Village
+  lat: '34.7808'
+  long: "-92.3449"
+  nearby_rate_centers:
+  - name: LITTLEROCK
+    distance_km: 6.59
+  - name: PALARM
+    distance_km: 12.52
+  - name: SYVNHLSHWD
+    distance_km: 12.92
+- country: US
+  region: AR
+  name: Campbell Station
+  lat: '35.6678'
+  long: "-91.2538"
+  nearby_rate_centers:
+  - name: NEWPORT
+    distance_km: 7.19
+  - name: TUCKERMAN
+    distance_km: 8.86
+  - name: GRUBBS
+    distance_km: 16.06
+- country: US
+  region: AR
+  name: Canehill
+  lat: '35.9140'
+  long: "-94.3974"
+  nearby_rate_centers:
+  - name: LINCOLN
+    distance_km: 4.22
+  - name: MORROW
+    distance_km: 7.96
+  - name: PRAIRIEGRV
+    distance_km: 9.6
+- country: US
+  region: AR
+  name: Caraway
+  lat: '35.7597'
+  long: "-90.3222"
+  nearby_rate_centers:
+  - name: CARAWAY
+    distance_km: 0.41
+  - name: GARDEN PT
+    distance_km: 10.36
+  - name: LAKE CITY
+    distance_km: 11.94
+- country: US
+  region: AR
+  name: Carlisle
+  lat: '34.7947'
+  long: "-91.7361"
+  nearby_rate_centers:
+  - name: CARLISLE
+    distance_km: 1.92
+  - name: HAZEN
+    distance_km: 14.06
+  - name: LONOKE
+    distance_km: 15.18
+- country: US
+  region: AR
+  name: Carthage
+  lat: '34.0726'
+  long: "-92.5553"
+  nearby_rate_centers:
+  - name: CARTHAGE
+    distance_km: 0.82
+  - name: LEOLA
+    distance_km: 11.19
+  - name: PRATTSVL
+    distance_km: 26.46
+- country: US
+  region: AR
+  name: Casa
+  lat: '35.0253'
+  long: "-93.0448"
+  nearby_rate_centers:
+  - name: CASA
+    distance_km: 0.68
+  - name: NIMROD
+    distance_km: 6.6
+  - name: CENTERVL
+    distance_km: 15.15
+- country: US
+  region: AR
+  name: Cash
+  lat: '35.8013'
+  long: "-90.9315"
+  nearby_rate_centers:
+  - name: CASH
+    distance_km: 0.35
+  - name: SWIFTON
+    distance_km: 17.74
+  - name: JONESBORO
+    distance_km: 20.51
+- country: US
+  region: AR
+  name: Caulksville
+  lat: '35.3017'
+  long: "-93.8680"
+  nearby_rate_centers:
+  - name: RATCLIFF
+    distance_km: 1.77
+  - name: PARIS
+    distance_km: 12.14
+  - name: CHARLESTON
+    distance_km: 15.97
+- country: US
+  region: AR
+  name: Cave City
+  lat: '35.9481'
+  long: "-91.5468"
+  nearby_rate_centers:
+  - name: CAVE CITY
+    distance_km: 0.75
+  - name: EVENNGSHAD
+    distance_km: 14.52
+  - name: MTPLEASANT
+    distance_km: 19.18
+- country: US
+  region: AR
+  name: Cave Springs
+  lat: '36.2701'
+  long: "-94.2227"
+  nearby_rate_centers:
+  - name: ELMSPRINGS
+    distance_km: 7.7
+  - name: BENTONVL
+    distance_km: 10.7
+  - name: CENTERTON
+    distance_km: 11.1
+- country: US
+  region: AR
+  name: Cedarville
+  lat: '35.5830'
+  long: "-94.3615"
+  nearby_rate_centers:
+  - name: NATURALDAM
+    distance_km: 7.69
+  - name: VAN BUREN
+    distance_km: 16.45
+  - name: ALMA
+    distance_km: 17.12
+- country: US
+  region: AR
+  name: Center Point
+  lat: '34.0318'
+  long: "-93.9511"
+  nearby_rate_centers:
+  - name: DIERKS
+    distance_km: 11.32
+  - name: NASHVILLE
+    distance_km: 14.4
+  - name: MINERALSPG
+    distance_km: 17.63
+- country: US
+  region: AR
+  name: Center Ridge
+  lat: '35.3796'
+  long: "-92.5694"
+  nearby_rate_centers:
+  - name: CENTER RDG
+    distance_km: 1.48
+  - name: CLEVELAND
+    distance_km: 14.17
+  - name: DAMASCUS
+    distance_km: 14.76
+- country: US
+  region: AR
+  name: Centerton
+  lat: '36.3566'
+  long: "-94.2971"
+  nearby_rate_centers:
+  - name: CENTERTON
+    distance_km: 1.11
+  - name: BENTONVL
+    distance_km: 7.74
+  - name: DECATUR
+    distance_km: 14.73
+- country: US
+  region: AR
+  name: Centerville
+  lat: '35.1157'
+  long: "-93.1714"
+  nearby_rate_centers:
+  - name: CENTERVL
+    distance_km: 0.51
+  - name: OLA
+    distance_km: 10.39
+  - name: DARDANELLE
+    distance_km: 12.21
+- country: US
+  region: AR
+  name: Central City
+  lat: '35.3300'
+  long: "-94.2347"
+  nearby_rate_centers:
+  - name: LAVACA
+    distance_km: 5.52
+  - name: GREENWOOD
+    distance_km: 12.59
+  - name: VAN BUREN
+    distance_km: 15.77
+- country: US
+  region: AR
+  name: Charleston
+  lat: '35.2948'
+  long: "-94.0484"
+  nearby_rate_centers:
+  - name: CHARLESTON
+    distance_km: 0.62
+  - name: LAVACA
+    distance_km: 12.08
+  - name: RATCLIFF
+    distance_km: 14.79
+- country: US
+  region: AR
+  name: Cherokee City
+  lat: '36.2947'
+  long: "-94.5769"
+  nearby_rate_centers:
+  - name: GENTRY
+    distance_km: 9.09
+  - name: DECATUR
+    distance_km: 11.39
+  - name: SILOAM SPG
+    distance_km: 12.49
+- country: US
+  region: AR
+  name: Cherokee Village
+  lat: '36.2959'
+  long: "-91.5696"
+  nearby_rate_centers:
+  - name: CHEROKEVLG
+    distance_km: 4.46
+  - name: HARDY
+    distance_km: 7.92
+  - name: ASH FLAT
+    distance_km: 8.58
+- country: US
+  region: AR
+  name: Cherry Valley
+  lat: '35.4028'
+  long: "-90.7536"
+  nearby_rate_centers:
+  - name: CHERRY VLY
+    distance_km: 0.62
+  - name: HARRISBURG
+    distance_km: 18.5
+  - name: WYNNE
+    distance_km: 19.88
+- country: US
+  region: AR
+  name: Chester
+  lat: '35.6778'
+  long: "-94.1778"
+  nearby_rate_centers:
+  - name: MOUNTAINBG
+    distance_km: 5.2
+  - name: WINSLOW
+    distance_km: 14.34
+  - name: NATURALDAM
+    distance_km: 18.97
+- country: US
+  region: AR
+  name: Chidester
+  lat: '33.7020'
+  long: "-93.0238"
+  nearby_rate_centers:
+  - name: CHIDESTER
+    distance_km: 0.75
+  - name: CAMDEN
+    distance_km: 22.65
+  - name: GURDON
+    distance_km: 26.48
+- country: US
+  region: AR
+  name: Cincinnati
+  lat: '36.0405'
+  long: "-94.5185"
+  nearby_rate_centers:
+  - name: LINCOLN
+    distance_km: 13.73
+  - name: SILOAM SPG
+    distance_km: 16.3
+  - name: PRAIRIEGRV
+    distance_km: 20.11
+- country: US
+  region: AR
+  name: Clarendon
+  lat: '34.6936'
+  long: "-91.3062"
+  nearby_rate_centers:
+  - name: CLARENDON
+    distance_km: 0.43
+  - name: ROE
+    distance_km: 10.48
+  - name: HOLLYGROVE
+    distance_km: 14.15
+- country: US
+  region: AR
+  name: Clarkedale
+  lat: '35.2971'
+  long: "-90.2103"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 8.76
+  - name: TURRELL
+    distance_km: 9.74
+  - name: CRAWFODSVL
+    distance_km: 12.85
+- country: US
+  region: AR
+  name: Clarksville
+  lat: '35.4570'
+  long: "-93.4803"
+  nearby_rate_centers:
+  - name: CLARKSVL
+    distance_km: 1.7
+  - name: LAMAR
+    distance_km: 8.94
+  - name: SCRANTON
+    distance_km: 11.75
+- country: US
+  region: AR
+  name: Clinton
+  lat: '35.5798'
+  long: "-92.4543"
+  nearby_rate_centers:
+  - name: CLINTON
+    distance_km: 1.37
+  - name: FAIRFLD BY
+    distance_km: 13.31
+  - name: SHIRLEY
+    distance_km: 14.13
+- country: US
+  region: AR
+  name: Coal Hill
+  lat: '35.4375'
+  long: "-93.6647"
+  nearby_rate_centers:
+  - name: HARTMAN
+    distance_km: 5.04
+  - name: ALTUS
+    distance_km: 8.81
+  - name: SCRANTON
+    distance_km: 14.75
+- country: US
+  region: AR
+  name: College Station
+  lat: '34.7057'
+  long: "-92.2297"
+  nearby_rate_centers:
+  - name: LITTLEROCK
+    distance_km: 6.9
+  - name: WRIGHTSVL
+    distance_km: 9.85
+  - name: SCOTT
+    distance_km: 11.57
+- country: US
+  region: AR
+  name: Collins
+  lat: '33.5323'
+  long: "-91.5725"
+  nearby_rate_centers:
+  - name: DERMOTT
+    distance_km: 12.75
+  - name: MCGEHEE
+    distance_km: 19.32
+  - name: MONTICELLO
+    distance_km: 22.45
+- country: US
+  region: AR
+  name: Colt
+  lat: '35.1329'
+  long: "-90.8129"
+  nearby_rate_centers:
+  - name: WYNNE
+    distance_km: 10.67
+  - name: FORREST CY
+    distance_km: 13.86
+  - name: PARKIN
+    distance_km: 27.25
+- country: US
+  region: AR
+  name: Concord
+  lat: '35.6623'
+  long: "-91.8507"
+  nearby_rate_centers:
+  - name: CONCORD
+    distance_km: 0.7
+  - name: PLEASATGRV
+    distance_km: 18.25
+  - name: BATESVILLE
+    distance_km: 22.29
+- country: US
+  region: AR
+  name: Conway
+  lat: '35.0753'
+  long: "-92.4692"
+  nearby_rate_centers:
+  - name: CONWAY
+    distance_km: 1.95
+  - name: BIGELOW
+    distance_km: 17.35
+  - name: GREENBRIER
+    distance_km: 18.9
+- country: US
+  region: AR
+  name: Corinth
+  lat: '35.0693'
+  long: "-93.4235"
+  nearby_rate_centers:
+  - name: DANVILLE
+    distance_km: 3.13
+  - name: BELLEVILLE
+    distance_km: 3.52
+  - name: HAVANA
+    distance_km: 11.47
+- country: US
+  region: AR
+  name: Corning
+  lat: '36.4134'
+  long: "-90.5839"
+  nearby_rate_centers:
+  - name: CORNING
+    distance_km: 0.28
+  - name: KNOBEL
+    distance_km: 7.3
+  - name: SUCCESS
+    distance_km: 13.24
+- country: US
+  region: AR
+  name: Cotter
+  lat: '36.2819'
+  long: "-92.5212"
+  nearby_rate_centers:
+  - name: GASSVILLE
+    distance_km: 3.61
+  - name: WHITEVILLE
+    distance_km: 5.46
+  - name: FLIPPIN
+    distance_km: 6.57
+- country: US
+  region: AR
+  name: Cotton Plant
+  lat: '35.0059'
+  long: "-91.2520"
+  nearby_rate_centers:
+  - name: COTTONPLNT
+    distance_km: 0.04
+  - name: BRINKLEY
+    distance_km: 14.53
+  - name: WHEATLEY
+    distance_km: 15.77
+- country: US
+  region: AR
+  name: Cove
+  lat: '34.4366'
+  long: "-94.4161"
+  nearby_rate_centers:
+  - name: COVE
+    distance_km: 0.72
+  - name: HATFIELD
+    distance_km: 6.43
+  - name: WICKES
+    distance_km: 16.81
+- country: US
+  region: AR
+  name: Coy
+  lat: '34.5405'
+  long: "-91.8713"
+  nearby_rate_centers:
+  - name: COY
+    distance_km: 0.82
+  - name: ENGLAND
+    distance_km: 8.48
+  - name: HUMPHREY
+    distance_km: 20.0
+- country: US
+  region: AR
+  name: Crawfordsville
+  lat: '35.2267'
+  long: "-90.3241"
+  nearby_rate_centers:
+  - name: CRAWFODSVL
+    distance_km: 0.21
+  - name: MARION
+    distance_km: 11.16
+  - name: EARLE
+    distance_km: 13.12
+- country: US
+  region: AR
+  name: Crossett
+  lat: '33.1280'
+  long: "-91.9631"
+  nearby_rate_centers:
+  - name: CROSSETT
+    distance_km: 0.66
+  - name: HAMBURG
+    distance_km: 19.16
+  - name: HUTTIG
+    distance_km: 23.3
+- country: US
+  region: AR
+  name: Crystal Springs
+  lat: '34.5247'
+  long: "-93.3336"
+  nearby_rate_centers:
+  - name: CRYSTALSPG
+    distance_km: 0.19
+  - name: HOTSPRINGS
+    distance_km: 26.08
+  - name: BISMARCK
+    distance_km: 27.69
+- country: US
+  region: AR
+  name: Cushman
+  lat: '35.8658'
+  long: "-91.7782"
+  nearby_rate_centers:
+  - name: MTPLEASANT
+    distance_km: 10.74
+  - name: PLEASATGRV
+    distance_km: 12.89
+  - name: BATESVILLE
+    distance_km: 16.62
+- country: US
+  region: AR
+  name: Daisy
+  lat: '34.2349'
+  long: "-93.7405"
+  nearby_rate_centers:
+  - name: DAISY
+    distance_km: 0.6
+  - name: MURFREESBO
+    distance_km: 19.84
+  - name: GLENWOOD
+    distance_km: 20.24
+- country: US
+  region: AR
+  name: Damascus
+  lat: '35.3671'
+  long: "-92.4108"
+  nearby_rate_centers:
+  - name: DAMASCUS
+    distance_km: 0.32
+  - name: MORGANTON
+    distance_km: 12.4
+  - name: CENTER RDG
+    distance_km: 14.26
+- country: US
+  region: AR
+  name: Danville
+  lat: '35.0529'
+  long: "-93.3902"
+  nearby_rate_centers:
+  - name: DANVILLE
+    distance_km: 1.13
+  - name: BELLEVILLE
+    distance_km: 7.01
+  - name: PLAINVIEW
+    distance_km: 10.48
+- country: US
+  region: AR
+  name: Dardanelle
+  lat: '35.2263'
+  long: "-93.1649"
+  nearby_rate_centers:
+  - name: DARDANELLE
+    distance_km: 1.22
+  - name: RUSSELLVL
+    distance_km: 6.98
+  - name: CENTERVL
+    distance_km: 12.03
+- country: US
+  region: AR
+  name: Datto
+  lat: '36.3925'
+  long: "-90.7285"
+  nearby_rate_centers:
+  - name: SUCCESS
+    distance_km: 6.5
+  - name: BIGGERS
+    distance_km: 10.41
+  - name: CORNING
+    distance_km: 13.11
+- country: US
+  region: AR
+  name: De Queen
+  lat: '34.0426'
+  long: "-94.3420"
+  nearby_rate_centers:
+  - name: DE QUEEN
+    distance_km: 1.19
+  - name: HORATIO
+    distance_km: 10.95
+  - name: GILLHAM
+    distance_km: 13.83
+- country: US
+  region: AR
+  name: De Valls Bluff
+  lat: '34.7861'
+  long: "-91.4608"
+  nearby_rate_centers:
+  - name: DEVALLSBLF
+    distance_km: 0.26
+  - name: HAZEN
+    distance_km: 11.15
+  - name: CLARENDON
+    distance_km: 17.48
+- country: US
+  region: AR
+  name: DeWitt
+  lat: '34.2874'
+  long: "-91.3383"
+  nearby_rate_centers:
+  - name: DE WITT
+    distance_km: 0.54
+  - name: ALMYRA
+    distance_km: 15.22
+  - name: GILLETT
+    distance_km: 19.53
+- country: US
+  region: AR
+  name: Decatur
+  lat: '36.3402'
+  long: "-94.4578"
+  nearby_rate_centers:
+  - name: DECATUR
+    distance_km: 0.86
+  - name: GRAVETTE
+    distance_km: 8.6
+  - name: GENTRY
+    distance_km: 8.64
+- country: US
+  region: AR
+  name: Deer
+  lat: '35.8238'
+  long: "-93.2230"
+  nearby_rate_centers:
+  - name: DEER
+    distance_km: 1.9
+  - name: LURTON
+    distance_km: 14.74
+  - name: MOUNTJUDEA
+    distance_km: 18.9
+- country: US
+  region: AR
+  name: Delaplaine
+  lat: '36.2304'
+  long: "-90.7256"
+  nearby_rate_centers:
+  - name: DELAPLAINE
+    distance_km: 0.6
+  - name: BIGGERS
+    distance_km: 14.25
+  - name: POCAHONTAS
+    distance_km: 21.71
+- country: US
+  region: AR
+  name: Delight
+  lat: '34.0301'
+  long: "-93.5072"
+  nearby_rate_centers:
+  - name: DELIGHT
+    distance_km: 0.79
+  - name: OKOLONA
+    distance_km: 16.82
+  - name: MURFREESBO
+    distance_km: 17.43
+- country: US
+  region: AR
+  name: Dell
+  lat: '35.8572'
+  long: "-90.0341"
+  nearby_rate_centers:
+  - name: DELL
+    distance_km: 0.92
+  - name: MANILA
+    distance_km: 12.39
+  - name: BLYTHEVL
+    distance_km: 14.66
+- country: US
+  region: AR
+  name: Dennard
+  lat: '35.7491'
+  long: "-92.5388"
+  nearby_rate_centers:
+  - name: LESLIE
+    distance_km: 8.76
+  - name: CLINTON
+    distance_km: 18.95
+  - name: MARSHALL
+    distance_km: 19.62
+- country: US
+  region: AR
+  name: Denning
+  lat: '35.4252'
+  long: "-93.7568"
+  nearby_rate_centers:
+  - name: ALTUS
+    distance_km: 2.69
+  - name: OZARK
+    distance_km: 10.8
+  - name: HARTMAN
+    distance_km: 13.41
+- country: US
+  region: AR
+  name: Dermott
+  lat: '33.5271'
+  long: "-91.4323"
+  nearby_rate_centers:
+  - name: DERMOTT
+    distance_km: 0.26
+  - name: MCGEHEE
+    distance_km: 11.93
+  - name: TILLAR
+    distance_km: 21.21
+- country: US
+  region: AR
+  name: Des Arc
+  lat: '34.9776'
+  long: "-91.5067"
+  nearby_rate_centers:
+  - name: DES ARC
+    distance_km: 0.84
+  - name: HICKORY PL
+    distance_km: 20.66
+  - name: GRIFFITHVL
+    distance_km: 20.81
+- country: US
+  region: AR
+  name: Desha
+  lat: '35.7305'
+  long: "-91.6856"
+  nearby_rate_centers:
+  - name: BATESVILLE
+    distance_km: 5.77
+  - name: CONCORD
+    distance_km: 16.13
+  - name: PLEASANTPL
+    distance_km: 20.56
+- country: US
+  region: AR
+  name: Diamond City
+  lat: '36.4574'
+  long: "-92.9129"
+  nearby_rate_centers:
+  - name: DIAMOND CY
+    distance_km: 1.23
+  - name: LEAD HILL
+    distance_km: 5.76
+  - name: PYATT
+    distance_km: 23.98
+- country: US
+  region: AR
+  name: Diaz
+  lat: '35.6478'
+  long: "-91.2620"
+  nearby_rate_centers:
+  - name: NEWPORT
+    distance_km: 4.85
+  - name: TUCKERMAN
+    distance_km: 11.13
+  - name: GRUBBS
+    distance_km: 16.68
+- country: US
+  region: AR
+  name: Dierks
+  lat: '34.1200'
+  long: "-94.0173"
+  nearby_rate_centers:
+  - name: DIERKS
+    distance_km: 0.47
+  - name: UMPIRE
+    distance_km: 18.61
+  - name: LOCKESBURG
+    distance_km: 21.73
+- country: US
+  region: AR
+  name: Donaldson
+  lat: '34.2350'
+  long: "-92.9195"
+  nearby_rate_centers:
+  - name: DONALDSON
+    distance_km: 0.49
+  - name: MALVERN
+    distance_km: 17.0
+  - name: ARKADLPHIA
+    distance_km: 17.63
+- country: US
+  region: AR
+  name: Dora
+  lat: '35.4628'
+  long: "-94.4297"
+  nearby_rate_centers:
+  - name: VAN BUREN
+    distance_km: 7.74
+  - name: FORT SMITH
+    distance_km: 8.99
+  - name: ALMA
+    distance_km: 18.56
+- country: US
+  region: AR
+  name: Dover
+  lat: '35.3910'
+  long: "-93.1143"
+  nearby_rate_centers:
+  - name: DOVER
+    distance_km: 0.97
+  - name: RUSSELLVL
+    distance_km: 12.12
+  - name: HECTOR
+    distance_km: 13.73
+- country: US
+  region: AR
+  name: Drasco
+  lat: '35.6338'
+  long: "-91.9418"
+  nearby_rate_centers:
+  - name: CONCORD
+    distance_km: 9.39
+  - name: PRIM
+    distance_km: 16.71
+  - name: HEBER SPG
+    distance_km: 17.6
+- country: US
+  region: AR
+  name: Dumas
+  lat: '33.8834'
+  long: "-91.4857"
+  nearby_rate_centers:
+  - name: DUMAS
+    distance_km: 1.47
+  - name: GOULD
+    distance_km: 13.53
+  - name: TILLAR
+    distance_km: 18.77
+- country: US
+  region: AR
+  name: Dyer
+  lat: '35.4944'
+  long: "-94.1388"
+  nearby_rate_centers:
+  - name: MULBERRY
+    distance_km: 7.77
+  - name: ALMA
+    distance_km: 8.11
+  - name: MOUNTAINBG
+    distance_km: 15.49
+- country: US
+  region: AR
+  name: Dyess
+  lat: '35.5893'
+  long: "-90.2133"
+  nearby_rate_centers:
+  - name: DYESS
+    distance_km: 0.43
+  - name: JOINER
+    distance_km: 10.9
+  - name: LEPANTO
+    distance_km: 11.05
+- country: US
+  region: AR
+  name: Earle
+  lat: '35.2734'
+  long: "-90.4642"
+  nearby_rate_centers:
+  - name: EARLE
+    distance_km: 0.87
+  - name: PARKIN
+    distance_km: 8.79
+  - name: CRAWFODSVL
+    distance_km: 13.95
+- country: US
+  region: AR
+  name: East Camden
+  lat: '33.6084'
+  long: "-92.7443"
+  nearby_rate_centers:
+  - name: CAMDEN
+    distance_km: 8.19
+  - name: BEARDEN
+    distance_km: 18.36
+  - name: LOUANN
+    distance_km: 24.69
+- country: US
+  region: AR
+  name: East End
+  lat: '34.5554'
+  long: "-92.3261"
+  nearby_rate_centers:
+  - name: SPRINGLAKE
+    distance_km: 4.54
+  - name: WRIGHTSVL
+    distance_km: 10.81
+  - name: BRYANTCGVL
+    distance_km: 15.38
+- country: US
+  region: AR
+  name: Edgemont
+  lat: '35.6011'
+  long: "-92.1953"
+  nearby_rate_centers:
+  - name: GREERSFRRY
+    distance_km: 3.98
+  - name: FAIRFLD BY
+    distance_km: 10.24
+  - name: SHIRLEY
+    distance_km: 12.21
+- country: US
+  region: AR
+  name: Edmondson
+  lat: '35.1050'
+  long: "-90.3054"
+  nearby_rate_centers:
+  - name: W MEMPHIS
+    distance_km: 13.37
+  - name: CRAWFODSVL
+    distance_km: 13.54
+  - name: BLACKFIHLK
+    distance_km: 13.63
+- country: US
+  region: AR
+  name: Egypt
+  lat: '35.8677'
+  long: "-90.9459"
+  nearby_rate_centers:
+  - name: CASH
+    distance_km: 7.72
+  - name: SWIFTON
+    distance_km: 17.0
+  - name: JONESBORO
+    distance_km: 21.85
+- country: US
+  region: AR
+  name: El Dorado
+  lat: '33.2184'
+  long: "-92.6640"
+  nearby_rate_centers:
+  - name: EL DORADO
+    distance_km: 0.56
+  - name: NORPHLET
+    distance_km: 10.96
+  - name: CALION
+    distance_km: 16.28
+- country: US
+  region: AR
+  name: El Paso
+  lat: '35.1153'
+  long: "-92.0812"
+  nearby_rate_centers:
+  - name: VILONIA
+    distance_km: 11.49
+  - name: ENOLA
+    distance_km: 14.43
+  - name: CABOT
+    distance_km: 17.64
+- country: US
+  region: AR
+  name: Elaine
+  lat: '34.3087'
+  long: "-90.8533"
+  nearby_rate_centers:
+  - name: ELAINE
+    distance_km: 0.19
+  - name: ST CHARLES
+    distance_km: 27.03
+  - name: MARVELL
+    distance_km: 28.2
+- country: US
+  region: AR
+  name: Elkins
+  lat: '36.0173'
+  long: "-94.0252"
+  nearby_rate_centers:
+  - name: ELKINS
+    distance_km: 2.63
+  - name: FAYETTEVL
+    distance_km: 12.96
+  - name: DRAKES CRK
+    distance_km: 14.12
+- country: US
+  region: AR
+  name: Elm Springs
+  lat: '36.2068'
+  long: "-94.2382"
+  nearby_rate_centers:
+  - name: ELMSPRINGS
+    distance_km: 0.84
+  - name: SPRINGDALE
+    distance_km: 9.5
+  - name: CENTERTON
+    distance_km: 17.17
+- country: US
+  region: AR
+  name: Emerson
+  lat: '33.0973'
+  long: "-93.1960"
+  nearby_rate_centers:
+  - name: EMERSON
+    distance_km: 0.58
+  - name: MACEDONIA
+    distance_km: 13.13
+  - name: MAGNOLIA
+    distance_km: 19.35
+- country: US
+  region: AR
+  name: Emmet
+  lat: '33.7227'
+  long: "-93.4658"
+  nearby_rate_centers:
+  - name: PRESCOTT
+    distance_km: 11.27
+  - name: HOPE
+    distance_km: 13.19
+  - name: BLEVINS
+    distance_km: 18.64
+- country: US
+  region: AR
+  name: England
+  lat: '34.5454'
+  long: "-91.9675"
+  nearby_rate_centers:
+  - name: ENGLAND
+    distance_km: 0.43
+  - name: COY
+    distance_km: 8.41
+  - name: SCOTT
+    distance_km: 21.13
+- country: US
+  region: AR
+  name: Enola
+  lat: '35.1959'
+  long: "-92.2066"
+  nearby_rate_centers:
+  - name: ENOLA
+    distance_km: 0.29
+  - name: VILONIA
+    distance_km: 12.46
+  - name: GREENBRIER
+    distance_km: 17.13
+- country: US
+  region: AR
+  name: Etowah
+  lat: '35.7225'
+  long: "-90.2321"
+  nearby_rate_centers:
+  - name: GARDEN PT
+    distance_km: 2.48
+  - name: CARAWAY
+    distance_km: 8.76
+  - name: KEISER
+    distance_km: 13.19
+- country: US
+  region: AR
+  name: Eudora
+  lat: '33.1190'
+  long: "-91.2640"
+  nearby_rate_centers:
+  - name: EUDORA
+    distance_km: 1.36
+  - name: LAKE VLG
+    distance_km: 23.88
+  - name: PORTLAND
+    distance_km: 26.65
+- country: US
+  region: AR
+  name: Eureka Springs
+  lat: '36.4105'
+  long: "-93.7450"
+  nearby_rate_centers:
+  - name: EUREKA SPG
+    distance_km: 1.53
+  - name: BERRYVILLE
+    distance_km: 16.87
+  - name: GATEWAY
+    distance_km: 18.95
+- country: US
+  region: AR
+  name: Evansville
+  lat: '35.7924'
+  long: "-94.4911"
+  nearby_rate_centers:
+  - name: MORROW
+    distance_km: 8.15
+  - name: STRICKLER
+    distance_km: 17.35
+  - name: NATURALDAM
+    distance_km: 18.56
+- country: US
+  region: AR
+  name: Evening Shade
+  lat: '36.0700'
+  long: "-91.6218"
+  nearby_rate_centers:
+  - name: EVENNGSHAD
+    distance_km: 0.63
+  - name: CAVE CITY
+    distance_km: 15.54
+  - name: ASH FLAT
+    distance_km: 17.27
+- country: US
+  region: AR
+  name: Everton
+  lat: '36.1542'
+  long: "-92.9096"
+  nearby_rate_centers:
+  - name: WESTERNGRV
+    distance_km: 7.68
+  - name: PYATT
+    distance_km: 12.03
+  - name: ST JOE
+    distance_km: 16.23
+- country: US
+  region: AR
+  name: Fair Oaks
+  lat: '35.2488'
+  long: "-91.0319"
+  nearby_rate_centers:
+  - name: MCCRORY
+    distance_km: 15.26
+  - name: HICKORYRDG
+    distance_km: 16.93
+  - name: WYNNE
+    distance_km: 22.75
+- country: US
+  region: AR
+  name: Fairfield Bay
+  lat: '35.6050'
+  long: "-92.2659"
+  nearby_rate_centers:
+  - name: FAIRFLD BY
+    distance_km: 4.18
+  - name: SHIRLEY
+    distance_km: 6.52
+  - name: GREERSFRRY
+    distance_km: 9.07
+- country: US
+  region: AR
+  name: Fargo
+  lat: '34.9537'
+  long: "-91.1764"
+  nearby_rate_centers:
+  - name: WHEATLEY
+    distance_km: 6.76
+  - name: BRINKLEY
+    distance_km: 8.16
+  - name: COTTONPLNT
+    distance_km: 8.98
+- country: US
+  region: AR
+  name: Farmington
+  lat: '36.0370'
+  long: "-94.2537"
+  nearby_rate_centers:
+  - name: FARMINGTON
+    distance_km: 0.65
+  - name: FAYETTEVL
+    distance_km: 8.8
+  - name: PRAIRIEGRV
+    distance_km: 9.42
+- country: US
+  region: AR
+  name: Fayetteville
+  lat: '36.0714'
+  long: "-94.1661"
+  nearby_rate_centers:
+  - name: FAYETTEVL
+    distance_km: 1.48
+  - name: FARMINGTON
+    distance_km: 8.34
+  - name: SPRINGDALE
+    distance_km: 12.62
+- country: US
+  region: AR
+  name: Felsenthal
+  lat: '33.0588'
+  long: "-92.1533"
+  nearby_rate_centers:
+  - name: HUTTIG
+    distance_km: 4.22
+  - name: CROSSETT
+    distance_km: 19.97
+  - name: STRONG
+    distance_km: 20.01
+- country: US
+  region: AR
+  name: Fifty-Six
+  lat: '35.9621'
+  long: "-92.2301"
+  nearby_rate_centers:
+  - name: FIFTYSIX
+    distance_km: 1.87
+  - name: ALLISON
+    distance_km: 11.04
+  - name: TIMBO
+    distance_km: 13.12
+- country: US
+  region: AR
+  name: Fisher
+  lat: '35.4915'
+  long: "-90.9725"
+  nearby_rate_centers:
+  - name: FISHER
+    distance_km: 0.33
+  - name: WALDENBURG
+    distance_km: 9.18
+  - name: HICKORYRDG
+    distance_km: 10.6
+- country: US
+  region: AR
+  name: Flippin
+  lat: '36.2773'
+  long: "-92.5935"
+  nearby_rate_centers:
+  - name: FLIPPIN
+    distance_km: 0.63
+  - name: YELLVILLE
+    distance_km: 9.98
+  - name: GASSVILLE
+    distance_km: 10.04
+- country: US
+  region: AR
+  name: Floral
+  lat: '35.5889'
+  long: "-91.7590"
+  nearby_rate_centers:
+  - name: CONCORD
+    distance_km: 11.79
+  - name: PLEASANTPL
+    distance_km: 12.67
+  - name: PANGBURN
+    distance_km: 19.17
+- country: US
+  region: AR
+  name: Floyd
+  lat: '35.1989'
+  long: "-91.9645"
+  nearby_rate_centers:
+  - name: MCRAE
+    distance_km: 16.11
+  - name: BEEBE
+    distance_km: 16.27
+  - name: ROSE BUD
+    distance_km: 18.68
+- country: US
+  region: AR
+  name: Fordyce
+  lat: '33.8182'
+  long: "-92.4174"
+  nearby_rate_centers:
+  - name: FORDYCE
+    distance_km: 0.81
+  - name: KINGSLAND
+    distance_km: 11.58
+  - name: BEARDEN
+    distance_km: 20.62
+- country: US
+  region: AR
+  name: Foreman
+  lat: '33.7198'
+  long: "-94.3979"
+  nearby_rate_centers:
+  - name: FOREMAN
+    distance_km: 1.0
+  - name: WINTHROP
+    distance_km: 13.33
+  - name: HORATIO
+    distance_km: 25.35
+- country: US
+  region: AR
+  name: Forrest City
+  lat: '35.0135'
+  long: "-90.7931"
+  nearby_rate_centers:
+  - name: FORREST CY
+    distance_km: 0.87
+  - name: WYNNE
+    distance_km: 23.61
+  - name: MARIANNA
+    distance_km: 26.69
+- country: US
+  region: AR
+  name: Fort Smith
+  lat: '35.3495'
+  long: "-94.3695"
+  nearby_rate_centers:
+  - name: FORT SMITH
+    distance_km: 5.59
+  - name: VAN BUREN
+    distance_km: 9.68
+  - name: LAVACA
+    distance_km: 17.86
+- country: US
+  region: AR
+  name: Fouke
+  lat: '33.2622'
+  long: "-93.8852"
+  nearby_rate_centers:
+  - name: FOUKE
+    distance_km: 0.11
+  - name: DODDRIDGE
+    distance_km: 18.98
+  - name: GARLAND
+    distance_km: 20.58
+- country: US
+  region: AR
+  name: Fountain Hill
+  lat: '33.3575'
+  long: "-91.8511"
+  nearby_rate_centers:
+  - name: HAMBURG
+    distance_km: 14.79
+  - name: CROSSETT
+    distance_km: 27.05
+  - name: MONTICELLO
+    distance_km: 31.4
+- country: US
+  region: AR
+  name: Fountain Lake
+  lat: '34.6099'
+  long: "-92.9197"
+  nearby_rate_centers:
+  - name: LONSDALE
+    distance_km: 12.71
+  - name: JESSIEVL
+    distance_km: 16.54
+  - name: HOTSPRINGS
+    distance_km: 17.08
+- country: US
+  region: AR
+  name: Fourche
+  lat: '34.9933'
+  long: "-92.6189"
+  nearby_rate_centers:
+  - name: BIGELOW
+    distance_km: 1.73
+  - name: WYE
+    distance_km: 7.2
+  - name: PERRYVILLE
+    distance_km: 16.62
+- country: US
+  region: AR
+  name: Fox
+  lat: '35.7844'
+  long: "-92.2996"
+  nearby_rate_centers:
+  - name: FOX
+    distance_km: 0.78
+  - name: SUNNYLAND
+    distance_km: 8.5
+  - name: TIMBO
+    distance_km: 9.41
+- country: US
+  region: AR
+  name: Franklin
+  lat: '36.1727'
+  long: "-91.7697"
+  nearby_rate_centers:
+  - name: FRANKLIN
+    distance_km: 1.62
+  - name: HORSEHBEND
+    distance_km: 6.05
+  - name: OXFORD
+    distance_km: 15.32
+- country: US
+  region: AR
+  name: Fredonia
+  lat: '34.8194'
+  long: "-91.4101"
+  nearby_rate_centers:
+  - name: DEVALLSBLF
+    distance_km: 5.82
+  - name: HAZEN
+    distance_km: 16.28
+  - name: CLARENDON
+    distance_km: 17.06
+- country: US
+  region: AR
+  name: Friendship
+  lat: '34.2243'
+  long: "-93.0037"
+  nearby_rate_centers:
+  - name: DONALDSON
+    distance_km: 8.03
+  - name: ARKADLPHIA
+    distance_km: 12.45
+  - name: BISMARCK
+    distance_km: 18.27
+- country: US
+  region: AR
+  name: Fulton
+  lat: '33.6126'
+  long: "-93.8138"
+  nearby_rate_centers:
+  - name: FULTON
+    distance_km: 0.84
+  - name: TRIGG
+    distance_km: 15.81
+  - name: SARATOGA
+    distance_km: 17.03
+- country: US
+  region: AR
+  name: Gamaliel
+  lat: '36.4518'
+  long: "-92.2369"
+  nearby_rate_centers:
+  - name: GAMALIEL
+    distance_km: 6.4
+  - name: HENDERSON
+    distance_km: 8.32
+  - name: MALLARD PT
+    distance_km: 9.05
+- country: US
+  region: AR
+  name: Garfield
+  lat: '36.4555'
+  long: "-93.9757"
+  nearby_rate_centers:
+  - name: GARFIELD
+    distance_km: 0.98
+  - name: GATEWAY
+    distance_km: 4.84
+  - name: PEA RIDGE
+    distance_km: 12.67
+- country: US
+  region: AR
+  name: Garland
+  lat: '33.3609'
+  long: "-93.7142"
+  nearby_rate_centers:
+  - name: GARLAND
+    distance_km: 1.41
+  - name: LEWISVILLE
+    distance_km: 13.02
+  - name: TRIGG
+    distance_km: 19.26
+- country: US
+  region: AR
+  name: Garner
+  lat: '35.1421'
+  long: "-91.7805"
+  nearby_rate_centers:
+  - name: MCRAE
+    distance_km: 4.64
+  - name: GRIFFITHVL
+    distance_km: 12.26
+  - name: BEEBE
+    distance_km: 12.43
+- country: US
+  region: AR
+  name: Gassville
+  lat: '36.2849'
+  long: "-92.4869"
+  nearby_rate_centers:
+  - name: GASSVILLE
+    distance_km: 0.87
+  - name: WHITEVILLE
+    distance_km: 3.49
+  - name: FLIPPIN
+    distance_km: 9.64
+- country: US
+  region: AR
+  name: Gateway
+  lat: '36.4854'
+  long: "-93.9365"
+  nearby_rate_centers:
+  - name: GATEWAY
+    distance_km: 0.1
+  - name: GARFIELD
+    distance_km: 4.74
+  - name: PEA RIDGE
+    distance_km: 16.66
+- country: US
+  region: AR
+  name: Genoa
+  lat: '33.3775'
+  long: "-93.8825"
+  nearby_rate_centers:
+  - name: TRIGG
+    distance_km: 11.23
+  - name: FOUKE
+    distance_km: 12.92
+  - name: TEXARKANA
+    distance_km: 14.92
+- country: US
+  region: AR
+  name: Gentry
+  lat: '36.2571'
+  long: "-94.4908"
+  nearby_rate_centers:
+  - name: GENTRY
+    distance_km: 1.16
+  - name: DECATUR
+    distance_km: 8.86
+  - name: SILOAM SPG
+    distance_km: 9.24
+- country: US
+  region: AR
+  name: Georgetown
+  lat: '35.1267'
+  long: "-91.4539"
+  nearby_rate_centers:
+  - name: DES ARC
+    distance_km: 17.36
+  - name: GRIFFITHVL
+    distance_km: 17.59
+  - name: AUGUSTA
+    distance_km: 19.49
+- country: US
+  region: AR
+  name: Gibson
+  lat: '34.8923'
+  long: "-92.2341"
+  nearby_rate_centers:
+  - name: SYVNHLSHWD
+    distance_km: 5.52
+  - name: JACKSONVL
+    distance_km: 10.82
+  - name: PALARM
+    distance_km: 15.09
+- country: US
+  region: AR
+  name: Gilbert
+  lat: '35.9905'
+  long: "-92.7166"
+  nearby_rate_centers:
+  - name: ST JOE
+    distance_km: 9.6
+  - name: MARSHALL
+    distance_km: 11.93
+  - name: LESLIE
+    distance_km: 23.15
+- country: US
+  region: AR
+  name: Gillett
+  lat: '34.1193'
+  long: "-91.3789"
+  nearby_rate_centers:
+  - name: GILLETT
+    distance_km: 0.6
+  - name: DE WITT
+    distance_km: 19.5
+  - name: GOULD
+    distance_km: 23.02
+- country: US
+  region: AR
+  name: Gillham
+  lat: '34.1686'
+  long: "-94.3145"
+  nearby_rate_centers:
+  - name: GILLHAM
+    distance_km: 0.58
+  - name: WICKES
+    distance_km: 14.91
+  - name: DE QUEEN
+    distance_km: 15.4
+- country: US
+  region: AR
+  name: Gilmore
+  lat: '35.4131'
+  long: "-90.2973"
+  nearby_rate_centers:
+  - name: TURRELL
+    distance_km: 5.48
+  - name: TYRONZA
+    distance_km: 10.39
+  - name: OAK ACRES
+    distance_km: 10.82
+- country: US
+  region: AR
+  name: Glenwood
+  lat: '34.3278'
+  long: "-93.5308"
+  nearby_rate_centers:
+  - name: GLENWOOD
+    distance_km: 1.84
+  - name: AMITY
+    distance_km: 8.92
+  - name: NORMAN
+    distance_km: 19.72
+- country: US
+  region: AR
+  name: Goodwin
+  lat: '34.9407'
+  long: "-91.0036"
+  nearby_rate_centers:
+  - name: WHEATLEY
+    distance_km: 10.68
+  - name: MORO
+    distance_km: 16.73
+  - name: BRINKLEY
+    distance_km: 18.93
+- country: US
+  region: AR
+  name: Goshen
+  lat: '36.1044'
+  long: "-94.0033"
+  nearby_rate_centers:
+  - name: ELKINS
+    distance_km: 11.71
+  - name: HINDSVILLE
+    distance_km: 12.85
+  - name: SPRINGDALE
+    distance_km: 14.79
+- country: US
+  region: AR
+  name: Gosnell
+  lat: '35.9644'
+  long: "-89.9721"
+  nearby_rate_centers:
+  - name: BLYTHEVL
+    distance_km: 7.47
+  - name: DELL
+    distance_km: 13.21
+  - name: MANILA
+    distance_km: 19.69
+- country: US
+  region: AR
+  name: Gould
+  lat: '33.9872'
+  long: "-91.5641"
+  nearby_rate_centers:
+  - name: GOULD
+    distance_km: 0.51
+  - name: DUMAS
+    distance_km: 12.66
+  - name: GRADY
+    distance_km: 16.55
+- country: US
+  region: AR
+  name: Grady
+  lat: '34.0787'
+  long: "-91.6976"
+  nearby_rate_centers:
+  - name: GRADY
+    distance_km: 0.6
+  - name: GOULD
+    distance_km: 15.91
+  - name: STAR CITY
+    distance_km: 20.66
+- country: US
+  region: AR
+  name: Grannis
+  lat: '34.2398'
+  long: "-94.3220"
+  nearby_rate_centers:
+  - name: WICKES
+    distance_km: 6.97
+  - name: GILLHAM
+    distance_km: 8.26
+  - name: COVE
+    distance_km: 23.15
+- country: US
+  region: AR
+  name: Gravette
+  lat: '36.4291'
+  long: "-94.3712"
+  nearby_rate_centers:
+  - name: GRAVETTE
+    distance_km: 7.75
+  - name: SULPHURSPG
+    distance_km: 8.09
+  - name: CENTERTON
+    distance_km: 11.18
+- country: US
+  region: AR
+  name: Green Forest
+  lat: '36.3347'
+  long: "-93.4310"
+  nearby_rate_centers:
+  - name: GREEN FOR
+    distance_km: 0.25
+  - name: BERRYVILLE
+    distance_km: 12.48
+  - name: ALPENA
+    distance_km: 13.14
+- country: US
+  region: AR
+  name: Greenbrier
+  lat: '35.2289'
+  long: "-92.3836"
+  nearby_rate_centers:
+  - name: GREENBRIER
+    distance_km: 0.68
+  - name: DAMASCUS
+    distance_km: 15.45
+  - name: ENOLA
+    distance_km: 16.44
+- country: US
+  region: AR
+  name: Greenland
+  lat: '35.9963'
+  long: "-94.1900"
+  nearby_rate_centers:
+  - name: FARMINGTON
+    distance_km: 6.68
+  - name: FAYETTEVL
+    distance_km: 7.5
+  - name: WEST FORK
+    distance_km: 8.13
+- country: US
+  region: AR
+  name: Greenway
+  lat: '36.3405'
+  long: "-90.2221"
+  nearby_rate_centers:
+  - name: PIGGOTT
+    distance_km: 5.56
+  - name: CARRYVILLE
+    distance_km: 5.8
+  - name: BLOOMNGGRV
+    distance_km: 7.61
+- country: US
+  region: AR
+  name: Greenwood
+  lat: '35.2134'
+  long: "-94.2408"
+  nearby_rate_centers:
+  - name: GREENWOOD
+    distance_km: 1.16
+  - name: LAVACA
+    distance_km: 14.41
+  - name: HACKETT
+    distance_km: 16.5
+- country: US
+  region: AR
+  name: Greers Ferry
+  lat: '35.5674'
+  long: "-92.1688"
+  nearby_rate_centers:
+  - name: GREERSFRRY
+    distance_km: 0.66
+  - name: FAIRFLD BY
+    distance_km: 12.76
+  - name: HEBER SPG
+    distance_km: 14.82
+- country: US
+  region: AR
+  name: Gregory
+  lat: '35.1534'
+  long: "-91.3343"
+  nearby_rate_centers:
+  - name: AUGUSTA
+    distance_km: 14.64
+  - name: MCCRORY
+    distance_km: 16.82
+  - name: COTTONPLNT
+    distance_km: 18.04
+- country: US
+  region: AR
+  name: Griffithville
+  lat: '35.1231'
+  long: "-91.6449"
+  nearby_rate_centers:
+  - name: GRIFFITHVL
+    distance_km: 0.32
+  - name: KENSETT
+    distance_km: 12.4
+  - name: MCRAE
+    distance_km: 15.92
+- country: US
+  region: AR
+  name: Grubbs
+  lat: '35.6540'
+  long: "-91.0755"
+  nearby_rate_centers:
+  - name: GRUBBS
+    distance_km: 0.47
+  - name: TUCKERMAN
+    distance_km: 14.11
+  - name: WALDENBURG
+    distance_km: 16.15
+- country: US
+  region: AR
+  name: Guion
+  lat: '35.9269'
+  long: "-91.9389"
+  nearby_rate_centers:
+  - name: PLEASATGRV
+    distance_km: 12.25
+  - name: MELBOURNE
+    distance_km: 14.98
+  - name: ALLISON
+    distance_km: 15.48
+- country: US
+  region: AR
+  name: Gum Springs
+  lat: '34.0639'
+  long: "-93.0957"
+  nearby_rate_centers:
+  - name: ARKADLPHIA
+    distance_km: 7.43
+  - name: GURDON
+    distance_km: 17.01
+  - name: DALARK
+    distance_km: 19.82
+- country: US
+  region: AR
+  name: Gurdon
+  lat: '33.9154'
+  long: "-93.1545"
+  nearby_rate_centers:
+  - name: GURDON
+    distance_km: 0.71
+  - name: OKOLONA
+    distance_km: 18.33
+  - name: ARKADLPHIA
+    distance_km: 24.61
+- country: US
+  region: AR
+  name: Guy
+  lat: '35.3273'
+  long: "-92.3367"
+  nearby_rate_centers:
+  - name: DAMASCUS
+    distance_km: 7.75
+  - name: GREENBRIER
+    distance_km: 11.61
+  - name: QUITMAN
+    distance_km: 12.64
+- country: US
+  region: AR
+  name: Hackett
+  lat: '35.1877'
+  long: "-94.4106"
+  nearby_rate_centers:
+  - name: HACKETT
+    distance_km: 0.98
+  - name: MIDLAND
+    distance_km: 12.07
+  - name: GREENWOOD
+    distance_km: 14.76
+- country: US
+  region: AR
+  name: Hagarville
+  lat: '35.5151'
+  long: "-93.3335"
+  nearby_rate_centers:
+  - name: LAMAR
+    distance_km: 9.27
+  - name: CLARKSVL
+    distance_km: 13.21
+  - name: LONDON
+    distance_km: 21.57
+- country: US
+  region: AR
+  name: Halley
+  lat: '33.5363'
+  long: "-91.3236"
+  nearby_rate_centers:
+  - name: DERMOTT
+    distance_km: 10.38
+  - name: MCGEHEE
+    distance_km: 12.76
+  - name: ARKANSASCY
+    distance_km: 13.59
+- country: US
+  region: AR
+  name: Hamburg
+  lat: '33.2248'
+  long: "-91.7972"
+  nearby_rate_centers:
+  - name: HAMBURG
+    distance_km: 0.8
+  - name: CROSSETT
+    distance_km: 18.16
+  - name: PORTLAND
+    distance_km: 26.96
+- country: US
+  region: AR
+  name: Hampton
+  lat: '33.5347'
+  long: "-92.4667"
+  nearby_rate_centers:
+  - name: HAMPTON
+    distance_km: 0.09
+  - name: BANKS
+    distance_km: 19.52
+  - name: CALION
+    distance_km: 24.42
+- country: US
+  region: AR
+  name: Hardy
+  lat: '36.3189'
+  long: "-91.4794"
+  nearby_rate_centers:
+  - name: HARDY
+    distance_km: 0.58
+  - name: CHEROKEVLG
+    distance_km: 4.26
+  - name: OZARKACRES
+    distance_km: 13.12
+- country: US
+  region: AR
+  name: Harrell
+  lat: '33.5099'
+  long: "-92.4001"
+  nearby_rate_centers:
+  - name: HAMPTON
+    distance_km: 6.68
+  - name: BANKS
+    distance_km: 15.0
+  - name: HERMITAGE
+    distance_km: 22.02
+- country: US
+  region: AR
+  name: Harrisburg
+  lat: '35.5637'
+  long: "-90.7216"
+  nearby_rate_centers:
+  - name: HARRISBURG
+    distance_km: 0.59
+  - name: WEINER
+    distance_km: 16.94
+  - name: CHERRY VLY
+    distance_km: 18.64
+- country: US
+  region: AR
+  name: Harrison
+  lat: '36.2438'
+  long: "-93.1198"
+  nearby_rate_centers:
+  - name: HARRISON
+    distance_km: 1.47
+  - name: ALPENA
+    distance_km: 16.53
+  - name: WESTERNGRV
+    distance_km: 21.63
+- country: US
+  region: AR
+  name: Hartford
+  lat: '35.0236'
+  long: "-94.3799"
+  nearby_rate_centers:
+  - name: MIDLAND
+    distance_km: 8.0
+  - name: MANSFIELD
+    distance_km: 12.49
+  - name: HACKETT
+    distance_km: 17.9
+- country: US
+  region: AR
+  name: Hartman
+  lat: '35.4353'
+  long: "-93.6235"
+  nearby_rate_centers:
+  - name: HARTMAN
+    distance_km: 1.3
+  - name: SCRANTON
+    distance_km: 11.74
+  - name: ALTUS
+    distance_km: 12.54
+- country: US
+  region: AR
+  name: Haskell
+  lat: '34.5095'
+  long: "-92.6406"
+  nearby_rate_centers:
+  - name: BENTON
+    distance_km: 7.38
+  - name: BENTON1
+    distance_km: 7.38
+  - name: BAUXITE
+    distance_km: 12.7
+  - name: BAUXITE METRO
+    distance_km: 12.7
+  - name: LONSDALE
+    distance_km: 15.8
+- country: US
+  region: AR
+  name: Hatfield
+  lat: '34.4861'
+  long: "-94.3792"
+  nearby_rate_centers:
+  - name: HATFIELD
+    distance_km: 0.29
+  - name: COVE
+    distance_km: 6.25
+  - name: MENA
+    distance_km: 16.53
+- country: US
+  region: AR
+  name: Hattieville
+  lat: '35.2890'
+  long: "-92.7813"
+  nearby_rate_centers:
+  - name: ATKINS
+    distance_km: 14.93
+  - name: CLEVELAND
+    distance_km: 15.43
+  - name: MORRILTON
+    distance_km: 15.73
+- country: US
+  region: AR
+  name: Havana
+  lat: '35.1098'
+  long: "-93.5260"
+  nearby_rate_centers:
+  - name: HAVANA
+    distance_km: 1.19
+  - name: BELLEVILLE
+    distance_km: 7.13
+  - name: DANVILLE
+    distance_km: 13.29
+- country: US
+  region: AR
+  name: Haynes
+  lat: '34.8909'
+  long: "-90.7926"
+  nearby_rate_centers:
+  - name: MARIANNA
+    distance_km: 13.23
+  - name: FORREST CY
+    distance_km: 13.32
+  - name: MORO
+    distance_km: 21.37
+- country: US
+  region: AR
+  name: Hazen
+  lat: '34.7964'
+  long: "-91.5714"
+  nearby_rate_centers:
+  - name: HAZEN
+    distance_km: 1.83
+  - name: DEVALLSBLF
+    distance_km: 10.41
+  - name: CARLISLE
+    distance_km: 16.37
+- country: US
+  region: AR
+  name: Heber Springs
+  lat: '35.4995'
+  long: "-92.0292"
+  nearby_rate_centers:
+  - name: HEBER SPG
+    distance_km: 0.7
+  - name: GREERSFRRY
+    distance_km: 15.36
+  - name: ROSE BUD
+    distance_km: 18.96
+- country: US
+  region: AR
+  name: Hector
+  lat: '35.4646'
+  long: "-92.9759"
+  nearby_rate_centers:
+  - name: HECTOR
+    distance_km: 1.26
+  - name: DOVER
+    distance_km: 14.71
+  - name: CLEVELAND
+    distance_km: 23.89
+- country: US
+  region: AR
+  name: Helena-West Helena
+  lat: '34.5313'
+  long: "-90.6201"
+  nearby_rate_centers:
+  - name: HELENA
+    distance_km: 3.34
+  - name: MARVELL
+    distance_km: 26.77
+  - name: MARIANNA
+    distance_km: 29.97
+- country: US
+  region: AR
+  name: Henderson
+  lat: '36.3774'
+  long: "-92.2155"
+  nearby_rate_centers:
+  - name: HENDERSON
+    distance_km: 1.69
+  - name: MALLARD PT
+    distance_km: 4.65
+  - name: GAMALIEL
+    distance_km: 5.09
+- country: US
+  region: AR
+  name: Hensley
+  lat: '34.5068'
+  long: "-92.2069"
+  nearby_rate_centers:
+  - name: REDFIELD
+    distance_km: 7.63
+  - name: WRIGHTSVL
+    distance_km: 12.54
+  - name: SPRINGLAKE
+    distance_km: 14.77
+- country: US
+  region: AR
+  name: Hermitage
+  lat: '33.4474'
+  long: "-92.1714"
+  nearby_rate_centers:
+  - name: HERMITAGE
+    distance_km: 0.42
+  - name: BANKS
+    distance_km: 17.36
+  - name: WARREN
+    distance_km: 21.34
+- country: US
+  region: AR
+  name: Hickory Ridge
+  lat: '35.4029'
+  long: "-90.9946"
+  nearby_rate_centers:
+  - name: HICKORYRDG
+    distance_km: 0.63
+  - name: FISHER
+    distance_km: 10.07
+  - name: WALDENBURG
+    distance_km: 19.13
+- country: US
+  region: AR
+  name: Higden
+  lat: '35.5667'
+  long: "-92.2049"
+  nearby_rate_centers:
+  - name: GREERSFRRY
+    distance_km: 2.64
+  - name: FAIRFLD BY
+    distance_km: 9.59
+  - name: SHIRLEY
+    distance_km: 13.48
+- country: US
+  region: AR
+  name: Higginson
+  lat: '35.1968'
+  long: "-91.7152"
+  nearby_rate_centers:
+  - name: KENSETT
+    distance_km: 5.51
+  - name: SEARCY
+    distance_km: 6.06
+  - name: GRIFFITHVL
+    distance_km: 10.08
+- country: US
+  region: AR
+  name: Highfill
+  lat: '36.2767'
+  long: "-94.3237"
+  nearby_rate_centers:
+  - name: CENTERTON
+    distance_km: 9.55
+  - name: ELMSPRINGS
+    distance_km: 11.76
+  - name: DECATUR
+    distance_km: 13.6
+- country: US
+  region: AR
+  name: Highland
+  lat: '36.2657'
+  long: "-91.5186"
+  nearby_rate_centers:
+  - name: CHEROKEVLG
+    distance_km: 3.69
+  - name: HARDY
+    distance_km: 6.36
+  - name: ASH FLAT
+    distance_km: 9.13
+- country: US
+  region: AR
+  name: Hindsville
+  lat: '36.1458'
+  long: "-93.8627"
+  nearby_rate_centers:
+  - name: HINDSVILLE
+    distance_km: 0.67
+  - name: FORUM
+    distance_km: 13.21
+  - name: HUNTSVILLE
+    distance_km: 13.66
+- country: US
+  region: AR
+  name: Holiday Island
+  lat: '36.4762'
+  long: "-93.7343"
+  nearby_rate_centers:
+  - name: EUREKA SPG
+    distance_km: 8.32
+  - name: GATEWAY
+    distance_km: 18.02
+  - name: BERRYVILLE
+    distance_km: 19.49
+- country: US
+  region: AR
+  name: Holland
+  lat: '35.1660'
+  long: "-92.2770"
+  nearby_rate_centers:
+  - name: ENOLA
+    distance_km: 6.98
+  - name: VILONIA
+    distance_km: 11.42
+  - name: GREENBRIER
+    distance_km: 12.63
+- country: US
+  region: AR
+  name: Holly Grove
+  lat: '34.6003'
+  long: "-91.1962"
+  nearby_rate_centers:
+  - name: HOLLYGROVE
+    distance_km: 0.35
+  - name: CLARENDON
+    distance_km: 14.38
+  - name: ROE
+    distance_km: 18.25
+- country: US
+  region: AR
+  name: Hope
+  lat: '33.6682'
+  long: "-93.5895"
+  nearby_rate_centers:
+  - name: HOPE
+    distance_km: 0.31
+  - name: WASHINGTON
+    distance_km: 14.48
+  - name: BODCAW
+    distance_km: 20.54
+- country: US
+  region: AR
+  name: Horatio
+  lat: '33.9410'
+  long: "-94.3554"
+  nearby_rate_centers:
+  - name: HORATIO
+    distance_km: 0.59
+  - name: DE QUEEN
+    distance_km: 10.19
+  - name: WINTHROP
+    distance_km: 12.09
+- country: US
+  region: AR
+  name: Horseshoe Bend
+  lat: '36.2218'
+  long: "-91.7396"
+  nearby_rate_centers:
+  - name: HORSEHBEND
+    distance_km: 1.61
+  - name: FRANKLIN
+    distance_km: 7.49
+  - name: ASH FLAT
+    distance_km: 11.9
+- country: US
+  region: AR
+  name: Horseshoe Lake
+  lat: '34.9136'
+  long: "-90.3080"
+  nearby_rate_centers:
+  - name: HUGHES
+    distance_km: 14.97
+  - name: BLACKFIHLK
+    distance_km: 27.75
+  - name: W MEMPHIS
+    distance_km: 29.05
+- country: US
+  region: AR
+  name: Hot Springs
+  lat: '34.4892'
+  long: "-93.0501"
+  nearby_rate_centers:
+  - name: HOTSPRINGS
+    distance_km: 1.25
+  - name: JONESMILLS
+    distance_km: 16.34
+  - name: BISMARCK
+    distance_km: 22.09
+- country: US
+  region: AR
+  name: Hot Springs Village
+  lat: '34.6566'
+  long: "-92.9643"
+  nearby_rate_centers:
+  - name: JESSIEVL
+    distance_km: 10.31
+  - name: HOTSPRINGS
+    distance_km: 19.08
+  - name: LONSDALE
+    distance_km: 19.17
+- country: US
+  region: AR
+  name: Houston
+  lat: '35.0349'
+  long: "-92.6945"
+  nearby_rate_centers:
+  - name: BIGELOW
+    distance_km: 6.59
+  - name: PERRY
+    distance_km: 9.61
+  - name: PERRYVILLE
+    distance_km: 10.4
+- country: US
+  region: AR
+  name: Hoxie
+  lat: '36.0360'
+  long: "-90.9736"
+  nearby_rate_centers:
+  - name: WALNUT RDG
+    distance_km: 3.52
+  - name: BLACK ROCK
+    distance_km: 13.74
+  - name: POCAHONTAS
+    distance_km: 24.67
+- country: US
+  region: AR
+  name: Hughes
+  lat: '34.9483'
+  long: "-90.4707"
+  nearby_rate_centers:
+  - name: HUGHES
+    distance_km: 0.45
+  - name: BLACKFIHLK
+    distance_km: 20.72
+  - name: FORREST CY
+    distance_km: 29.4
+- country: US
+  region: AR
+  name: Humnoke
+  lat: '34.5422'
+  long: "-91.7596"
+  nearby_rate_centers:
+  - name: COY
+    distance_km: 10.75
+  - name: HUMPHREY
+    distance_km: 14.19
+  - name: ENGLAND
+    distance_km: 18.71
+- country: US
+  region: AR
+  name: Humphrey
+  lat: '34.4225'
+  long: "-91.7025"
+  nearby_rate_centers:
+  - name: HUMPHREY
+    distance_km: 0.4
+  - name: STUTTGART
+    distance_km: 16.21
+  - name: ALTHEIMER
+    distance_km: 17.31
+- country: US
+  region: AR
+  name: Hunter
+  lat: '35.0546'
+  long: "-91.1227"
+  nearby_rate_centers:
+  - name: COTTONPLNT
+    distance_km: 12.92
+  - name: WHEATLEY
+    distance_km: 15.3
+  - name: BRINKLEY
+    distance_km: 20.33
+- country: US
+  region: AR
+  name: Huntington
+  lat: '35.0814'
+  long: "-94.2663"
+  nearby_rate_centers:
+  - name: MANSFIELD
+    distance_km: 2.77
+  - name: MIDLAND
+    distance_km: 7.68
+  - name: GREENWOOD
+    distance_km: 15.21
+- country: US
+  region: AR
+  name: Huntsville
+  lat: '36.0985'
+  long: "-93.7363"
+  nearby_rate_centers:
+  - name: HUNTSVILLE
+    distance_km: 1.84
+  - name: FORUM
+    distance_km: 8.52
+  - name: AURORA
+    distance_km: 11.4
+- country: US
+  region: AR
+  name: Huttig
+  lat: '33.0418'
+  long: "-92.1818"
+  nearby_rate_centers:
+  - name: HUTTIG
+    distance_km: 1.14
+  - name: STRONG
+    distance_km: 18.2
+  - name: CROSSETT
+    distance_km: 23.18
+- country: US
+  region: AR
+  name: Imboden
+  lat: '36.1997'
+  long: "-91.1774"
+  nearby_rate_centers:
+  - name: IMBODEN
+    distance_km: 0.27
+  - name: BLACK ROCK
+    distance_km: 12.4
+  - name: OZARKACRES
+    distance_km: 17.28
+- country: US
+  region: AR
+  name: Indian Bay
+  lat: '34.3858'
+  long: "-91.0671"
+  nearby_rate_centers:
+  - name: ST CHARLES
+    distance_km: 6.04
+  - name: ELAINE
+    distance_km: 21.61
+  - name: MARVELL
+    distance_km: 23.91
+- country: US
+  region: AR
+  name: Ivan
+  lat: '33.9019'
+  long: "-92.4332"
+  nearby_rate_centers:
+  - name: FORDYCE
+    distance_km: 10.22
+  - name: KINGSLAND
+    distance_km: 13.14
+  - name: CARTHAGE
+    distance_km: 21.25
+- country: US
+  region: AR
+  name: Jacksonport
+  lat: '35.6422'
+  long: "-91.3080"
+  nearby_rate_centers:
+  - name: NEWPORT
+    distance_km: 4.46
+  - name: NEWARK
+    distance_km: 13.68
+  - name: OIL TROUGH
+    distance_km: 13.76
+- country: US
+  region: AR
+  name: Jacksonville
+  lat: '34.8807'
+  long: "-92.1304"
+  nearby_rate_centers:
+  - name: JACKSONVL
+    distance_km: 1.7
+  - name: SYVNHLSHWD
+    distance_km: 9.63
+  - name: CABOT
+    distance_km: 14.18
+- country: US
+  region: AR
+  name: Jasper
+  lat: '36.0124'
+  long: "-93.1874"
+  nearby_rate_centers:
+  - name: JASPER
+    distance_km: 0.55
+  - name: COMPTON
+    distance_km: 13.72
+  - name: PONCA
+    distance_km: 15.73
+- country: US
+  region: AR
+  name: Jennette
+  lat: '35.1639'
+  long: "-90.4092"
+  nearby_rate_centers:
+  - name: BLACKFIHLK
+    distance_km: 5.05
+  - name: CRAWFODSVL
+    distance_km: 10.52
+  - name: EARLE
+    distance_km: 12.29
+- country: US
+  region: AR
+  name: Jericho
+  lat: '35.2876'
+  long: "-90.2305"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 8.1
+  - name: TURRELL
+    distance_km: 10.09
+  - name: CRAWFODSVL
+    distance_km: 10.76
+- country: US
+  region: AR
+  name: Jerome
+  lat: '33.3988'
+  long: "-91.4697"
+  nearby_rate_centers:
+  - name: DERMOTT
+    distance_km: 14.62
+  - name: PORTLAND
+    distance_km: 17.57
+  - name: LAKE VLG
+    distance_km: 18.81
+- country: US
+  region: AR
+  name: Jerusalem
+  lat: '35.4073'
+  long: "-92.8175"
+  nearby_rate_centers:
+  - name: CLEVELAND
+    distance_km: 9.05
+  - name: HECTOR
+    distance_km: 16.31
+  - name: ATKINS
+    distance_km: 21.45
+- country: US
+  region: AR
+  name: Johnson
+  lat: '36.1328'
+  long: "-94.1757"
+  nearby_rate_centers:
+  - name: SPRINGDALE
+    distance_km: 6.53
+  - name: FAYETTEVL
+    distance_km: 8.31
+  - name: ELMSPRINGS
+    distance_km: 9.13
+- country: US
+  region: AR
+  name: Joiner
+  lat: '35.5054'
+  long: "-90.1501"
+  nearby_rate_centers:
+  - name: JOINER
+    distance_km: 0.15
+  - name: DYESS
+    distance_km: 11.29
+  - name: WILSON
+    distance_km: 11.81
+- country: US
+  region: AR
+  name: Jones Mills
+  lat: '34.4427'
+  long: "-92.8923"
+  nearby_rate_centers:
+  - name: JONESMILLS
+    distance_km: 1.0
+  - name: MALVERN
+    distance_km: 11.95
+  - name: LONSDALE
+    distance_km: 13.36
+- country: US
+  region: AR
+  name: Jonesboro
+  lat: '35.8212'
+  long: "-90.6791"
+  nearby_rate_centers:
+  - name: JONESBORO
+    distance_km: 2.85
+  - name: BAY
+    distance_km: 13.34
+  - name: LAKE CITY
+    distance_km: 22.07
+- country: US
+  region: AR
+  name: Judsonia
+  lat: '35.2770'
+  long: "-91.6411"
+  nearby_rate_centers:
+  - name: JUDSONIA
+    distance_km: 0.08
+  - name: KENSETT
+    distance_km: 5.75
+  - name: BALD KNOB
+    distance_km: 7.59
+- country: US
+  region: AR
+  name: Junction City
+  lat: '33.0220'
+  long: "-92.7236"
+  nearby_rate_centers:
+  - name: JUNCTIONCY
+    distance_km: 0.44
+  - name: EL DORADO
+    distance_km: 22.1
+  - name: DODGE CITY
+    distance_km: 22.79
+- country: US
+  region: AR
+  name: Keiser
+  lat: '35.6740'
+  long: "-90.0958"
+  nearby_rate_centers:
+  - name: KEISER
+    distance_km: 0.3
+  - name: OSCEOLA
+    distance_km: 12.23
+  - name: WILSON
+    distance_km: 12.79
+- country: US
+  region: AR
+  name: Kensett
+  lat: '35.2354'
+  long: "-91.6708"
+  nearby_rate_centers:
+  - name: KENSETT
+    distance_km: 0.39
+  - name: JUDSONIA
+    distance_km: 5.28
+  - name: SEARCY
+    distance_km: 5.7
+- country: US
+  region: AR
+  name: Keo
+  lat: '34.6090'
+  long: "-92.0102"
+  nearby_rate_centers:
+  - name: ENGLAND
+    distance_km: 8.48
+  - name: SCOTT
+    distance_km: 13.15
+  - name: COY
+    distance_km: 14.77
+- country: US
+  region: AR
+  name: Kibler
+  lat: '35.4268'
+  long: "-94.2358"
+  nearby_rate_centers:
+  - name: ALMA
+    distance_km: 5.55
+  - name: VAN BUREN
+    distance_km: 10.5
+  - name: LAVACA
+    distance_km: 12.05
+- country: US
+  region: AR
+  name: Kingsland
+  lat: '33.8659'
+  long: "-92.2911"
+  nearby_rate_centers:
+  - name: KINGSLAND
+    distance_km: 1.33
+  - name: FORDYCE
+    distance_km: 13.2
+  - name: RISON
+    distance_km: 14.38
+- country: US
+  region: AR
+  name: Kingston
+  lat: '36.0518'
+  long: "-93.5150"
+  nearby_rate_centers:
+  - name: KINGSTON
+    distance_km: 0.33
+  - name: PONCA
+    distance_km: 14.14
+  - name: RUDD
+    distance_km: 18.4
+- country: US
+  region: AR
+  name: Kirby
+  lat: '34.2540'
+  long: "-93.6549"
+  nearby_rate_centers:
+  - name: DAISY
+    distance_km: 7.64
+  - name: GLENWOOD
+    distance_km: 12.58
+  - name: AMITY
+    distance_km: 17.2
+- country: US
+  region: AR
+  name: Knobel
+  lat: '36.3199'
+  long: "-90.6024"
+  nearby_rate_centers:
+  - name: CORNING
+    distance_km: 10.26
+  - name: KNOBEL
+    distance_km: 11.62
+  - name: DELAPLAINE
+    distance_km: 14.52
+- country: US
+  region: AR
+  name: Knoxville
+  lat: '35.3780'
+  long: "-93.3630"
+  nearby_rate_centers:
+  - name: LAMAR
+    distance_km: 7.38
+  - name: LONDON
+    distance_km: 11.23
+  - name: CLARKSVL
+    distance_km: 13.81
+- country: US
+  region: AR
+  name: LaGrange
+  lat: '34.6555'
+  long: "-90.7349"
+  nearby_rate_centers:
+  - name: MARIANNA
+    distance_km: 13.48
+  - name: MARVELL
+    distance_km: 19.4
+  - name: HELENA
+    distance_km: 20.04
+- country: US
+  region: AR
+  name: Lacey
+  lat: '33.4503'
+  long: "-91.8496"
+  nearby_rate_centers:
+  - name: MONTICELLO
+    distance_km: 21.36
+  - name: WILMAR
+    distance_km: 21.73
+  - name: HAMBURG
+    distance_km: 24.74
+- country: US
+  region: AR
+  name: Lafe
+  lat: '36.2092'
+  long: "-90.5043"
+  nearby_rate_centers:
+  - name: MARMADUKE
+    distance_km: 11.29
+  - name: PARAGOULD
+    distance_km: 17.76
+  - name: RECTOR
+    distance_km: 20.0
+- country: US
+  region: AR
+  name: Lake City
+  lat: '35.8203'
+  long: "-90.4547"
+  nearby_rate_centers:
+  - name: LAKE CITY
+    distance_km: 1.87
+  - name: BAY
+    distance_km: 12.97
+  - name: MONETTE
+    distance_km: 13.1
+- country: US
+  region: AR
+  name: Lake Hamilton
+  lat: '34.4264'
+  long: "-93.0887"
+  nearby_rate_centers:
+  - name: HOTSPRINGS
+    distance_km: 8.94
+  - name: BISMARCK
+    distance_km: 14.27
+  - name: JONESMILLS
+    distance_km: 19.08
+- country: US
+  region: AR
+  name: Lake Village
+  lat: '33.3287'
+  long: "-91.2847"
+  nearby_rate_centers:
+  - name: LAKE VLG
+    distance_km: 0.52
+  - name: PORTLAND
+    distance_km: 22.81
+  - name: EUDORA
+    distance_km: 24.67
+- country: US
+  region: AR
+  name: Lakeview
+  lat: '36.3739'
+  long: "-92.5387"
+  nearby_rate_centers:
+  - name: LAKEVIEW
+    distance_km: 3.13
+  - name: BULLSHOALS
+    distance_km: 5.99
+  - name: MIDWAY
+    distance_km: 7.49
+- country: US
+  region: AR
+  name: Lamar
+  lat: '35.4436'
+  long: "-93.3951"
+  nearby_rate_centers:
+  - name: LAMAR
+    distance_km: 1.08
+  - name: CLARKSVL
+    distance_km: 7.12
+  - name: SCRANTON
+    distance_km: 15.52
+- country: US
+  region: AR
+  name: Landmark
+  lat: '34.6076'
+  long: "-92.3186"
+  nearby_rate_centers:
+  - name: SPRINGLAKE
+    distance_km: 1.44
+  - name: WRIGHTSVL
+    distance_km: 7.74
+  - name: BRYANTCGVL
+    distance_km: 13.66
+- country: US
+  region: AR
+  name: Lavaca
+  lat: '35.3342'
+  long: "-94.1798"
+  nearby_rate_centers:
+  - name: LAVACA
+    distance_km: 0.65
+  - name: CHARLESTON
+    distance_km: 12.94
+  - name: GREENWOOD
+    distance_km: 14.53
+- country: US
+  region: AR
+  name: Lawson
+  lat: '33.1999'
+  long: "-92.4878"
+  nearby_rate_centers:
+  - name: URBANA
+    distance_km: 6.36
+  - name: CALION
+    distance_km: 14.82
+  - name: STRONG
+    distance_km: 15.58
+- country: US
+  region: AR
+  name: Leachville
+  lat: '35.9039'
+  long: "-90.2625"
+  nearby_rate_centers:
+  - name: LEACHVILLE
+    distance_km: 3.11
+  - name: MONETTE
+    distance_km: 7.04
+  - name: MANILA
+    distance_km: 8.83
+- country: US
+  region: AR
+  name: Lead Hill
+  lat: '36.4137'
+  long: "-92.9067"
+  nearby_rate_centers:
+  - name: LEAD HILL
+    distance_km: 1.0
+  - name: DIAMOND CY
+    distance_km: 6.12
+  - name: PYATT
+    distance_km: 19.16
+- country: US
+  region: AR
+  name: Leola
+  lat: '34.1700'
+  long: "-92.5914"
+  nearby_rate_centers:
+  - name: LEOLA
+    distance_km: 0.19
+  - name: CARTHAGE
+    distance_km: 12.13
+  - name: PRATTSVL
+    distance_km: 16.06
+- country: US
+  region: AR
+  name: Lepanto
+  lat: '35.6085'
+  long: "-90.3329"
+  nearby_rate_centers:
+  - name: LEPANTO
+    distance_km: 0.23
+  - name: DYESS
+    distance_km: 10.6
+  - name: MARKEDTREE
+    distance_km: 11.39
+- country: US
+  region: AR
+  name: Leslie
+  lat: '35.8294'
+  long: "-92.5563"
+  nearby_rate_centers:
+  - name: LESLIE
+    distance_km: 0.41
+  - name: MARSHALL
+    distance_km: 11.09
+  - name: TIMBO
+    distance_km: 21.93
+- country: US
+  region: AR
+  name: Letona
+  lat: '35.3635'
+  long: "-91.8295"
+  nearby_rate_centers:
+  - name: PANGBURN
+    distance_km: 7.15
+  - name: SEARCY
+    distance_km: 15.49
+  - name: JUDSONIA
+    distance_km: 19.62
+- country: US
+  region: AR
+  name: Lewisville
+  lat: '33.3643'
+  long: "-93.5751"
+  nearby_rate_centers:
+  - name: LEWISVILLE
+    distance_km: 0.98
+  - name: STAMPS
+    distance_km: 7.66
+  - name: GARLAND
+    distance_km: 12.29
+- country: US
+  region: AR
+  name: Lexa
+  lat: '34.5983'
+  long: "-90.7519"
+  nearby_rate_centers:
+  - name: MARVELL
+    distance_km: 15.21
+  - name: HELENA
+    distance_km: 17.38
+  - name: MARIANNA
+    distance_km: 19.66
+- country: US
+  region: AR
+  name: Lincoln
+  lat: '35.9490'
+  long: "-94.4174"
+  nearby_rate_centers:
+  - name: LINCOLN
+    distance_km: 0.09
+  - name: PRAIRIEGRV
+    distance_km: 9.55
+  - name: MORROW
+    distance_km: 11.26
+- country: US
+  region: AR
+  name: Little Flock
+  lat: '36.3853'
+  long: "-94.1363"
+  nearby_rate_centers:
+  - name: ROGERS
+    distance_km: 6.11
+  - name: BENTONVL
+    distance_km: 7.06
+  - name: PEA RIDGE
+    distance_km: 7.24
+- country: US
+  region: AR
+  name: Little Rock
+  lat: '34.7256'
+  long: "-92.3577"
+  nearby_rate_centers:
+  - name: LITTLEROCK
+    distance_km: 7.16
+  - name: FERNDALE
+    distance_km: 13.15
+  - name: BRYANTCGVL
+    distance_km: 14.11
+- country: US
+  region: AR
+  name: Lockesburg
+  lat: '33.9716'
+  long: "-94.1761"
+  nearby_rate_centers:
+  - name: LOCKESBURG
+    distance_km: 1.21
+  - name: HORATIO
+    distance_km: 16.36
+  - name: DE QUEEN
+    distance_km: 16.62
+- country: US
+  region: AR
+  name: London
+  lat: '35.3280'
+  long: "-93.2416"
+  nearby_rate_centers:
+  - name: LONDON
+    distance_km: 1.1
+  - name: RUSSELLVL
+    distance_km: 11.15
+  - name: DOVER
+    distance_km: 13.79
+- country: US
+  region: AR
+  name: Lonoke
+  lat: '34.7906'
+  long: "-91.9072"
+  nearby_rate_centers:
+  - name: LONOKE
+    distance_km: 0.83
+  - name: CARLISLE
+    distance_km: 14.41
+  - name: SCOTT
+    distance_km: 20.61
+- country: US
+  region: AR
+  name: Lonsdale
+  lat: '34.5450'
+  long: "-92.8106"
+  nearby_rate_centers:
+  - name: LONSDALE
+    distance_km: 0.46
+  - name: JONESMILLS
+    distance_km: 13.21
+  - name: BENTON
+    distance_km: 20.64
+  - name: BENTON1
+    distance_km: 20.64
+- country: US
+  region: AR
+  name: Lost Bridge Village
+  lat: '36.3899'
+  long: "-93.9156"
+  nearby_rate_centers:
+  - name: GARFIELD
+    distance_km: 8.14
+  - name: GATEWAY
+    distance_km: 10.7
+  - name: EUREKA SPG
+    distance_km: 16.47
+- country: US
+  region: AR
+  name: Louann
+  lat: '33.3915'
+  long: "-92.7923"
+  nearby_rate_centers:
+  - name: LOUANN
+    distance_km: 0.21
+  - name: SMACKOVER
+    distance_km: 6.28
+  - name: NORPHLET
+    distance_km: 14.21
+- country: US
+  region: AR
+  name: Lowell
+  lat: '36.2561'
+  long: "-94.1532"
+  nearby_rate_centers:
+  - name: SPRINGDALE
+    distance_km: 8.33
+  - name: ROGERS
+    distance_km: 9.06
+  - name: ELMSPRINGS
+    distance_km: 9.32
+- country: US
+  region: AR
+  name: Luxora
+  lat: '35.7575'
+  long: "-89.9298"
+  nearby_rate_centers:
+  - name: LUXORA
+    distance_km: 0.98
+  - name: OSCEOLA
+    distance_km: 7.13
+  - name: DELL
+    distance_km: 15.37
+- country: US
+  region: AR
+  name: Lynn
+  lat: '36.0042'
+  long: "-91.2521"
+  nearby_rate_centers:
+  - name: JESUP
+    distance_km: 7.4
+  - name: BLACK ROCK
+    distance_km: 18.19
+  - name: IMBODEN
+    distance_km: 22.96
+- country: US
+  region: AR
+  name: Madison
+  lat: '35.0193'
+  long: "-90.7317"
+  nearby_rate_centers:
+  - name: FORREST CY
+    distance_km: 4.89
+  - name: WYNNE
+    distance_km: 23.42
+  - name: HUGHES
+    distance_km: 25.4
+- country: US
+  region: AR
+  name: Magazine
+  lat: '35.1534'
+  long: "-93.8078"
+  nearby_rate_centers:
+  - name: MAGAZINE
+    distance_km: 0.88
+  - name: BLUE MT
+    distance_km: 8.63
+  - name: BOONEVILLE
+    distance_km: 10.78
+- country: US
+  region: AR
+  name: Magness
+  lat: '35.7031'
+  long: "-91.4822"
+  nearby_rate_centers:
+  - name: NEWARK
+    distance_km: 3.69
+  - name: OIL TROUGH
+    distance_km: 7.76
+  - name: BATESVILLE
+    distance_km: 15.91
+- country: US
+  region: AR
+  name: Magnet Cove
+  lat: '34.4492'
+  long: "-92.8376"
+  nearby_rate_centers:
+  - name: JONESMILLS
+    distance_km: 4.11
+  - name: MALVERN
+    distance_km: 10.35
+  - name: LONSDALE
+    distance_km: 10.56
+- country: US
+  region: AR
+  name: Magnolia
+  lat: '33.2775'
+  long: "-93.2261"
+  nearby_rate_centers:
+  - name: MAGNOLIA
+    distance_km: 1.81
+  - name: MCNEIL
+    distance_km: 8.36
+  - name: WALDO
+    distance_km: 10.33
+- country: US
+  region: AR
+  name: Malvern
+  lat: '34.3734'
+  long: "-92.8205"
+  nearby_rate_centers:
+  - name: MALVERN
+    distance_km: 1.85
+  - name: JONESMILLS
+    distance_km: 9.42
+  - name: DONALDSON
+    distance_km: 18.12
+- country: US
+  region: AR
+  name: Mammoth Spring
+  lat: '36.4925'
+  long: "-91.5413"
+  nearby_rate_centers:
+  - name: MAMMOTHSPG
+    distance_km: 0.2
+  - name: HARDY
+    distance_km: 20.26
+  - name: CHEROKEVLG
+    distance_km: 21.61
+- country: US
+  region: AR
+  name: Manila
+  lat: '35.8847'
+  long: "-90.1652"
+  nearby_rate_centers:
+  - name: MANILA
+    distance_km: 0.19
+  - name: LEACHVILLE
+    distance_km: 9.92
+  - name: DELL
+    distance_km: 11.3
+- country: US
+  region: AR
+  name: Mansfield
+  lat: '35.0635'
+  long: "-94.2373"
+  nearby_rate_centers:
+  - name: MANSFIELD
+    distance_km: 1.23
+  - name: MIDLAND
+    distance_km: 10.69
+  - name: GREENWOOD
+    distance_km: 17.2
+- country: US
+  region: AR
+  name: Marianna
+  lat: '34.7736'
+  long: "-90.7674"
+  nearby_rate_centers:
+  - name: MARIANNA
+    distance_km: 0.67
+  - name: MORO
+    distance_km: 20.63
+  - name: FORREST CY
+    distance_km: 26.39
+- country: US
+  region: AR
+  name: Marie
+  lat: '35.6130'
+  long: "-90.0829"
+  nearby_rate_centers:
+  - name: WILSON
+    distance_km: 6.22
+  - name: KEISER
+    distance_km: 7.16
+  - name: DYESS
+    distance_km: 12.43
+- country: US
+  region: AR
+  name: Marion
+  lat: '35.2035'
+  long: "-90.2059"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 1.73
+  - name: W MEMPHIS
+    distance_km: 7.0
+  - name: CRAWFODSVL
+    distance_km: 10.84
+- country: US
+  region: AR
+  name: Marked Tree
+  lat: '35.5251'
+  long: "-90.4252"
+  nearby_rate_centers:
+  - name: MARKEDTREE
+    distance_km: 1.1
+  - name: TYRONZA
+    distance_km: 7.11
+  - name: PAYNEWAY
+    distance_km: 7.21
+- country: US
+  region: AR
+  name: Marmaduke
+  lat: '36.1900'
+  long: "-90.3850"
+  nearby_rate_centers:
+  - name: MARMADUKE
+    distance_km: 0.44
+  - name: RECTOR
+    distance_km: 11.42
+  - name: LEONARD
+    distance_km: 12.37
+- country: US
+  region: AR
+  name: Marshall
+  lat: '35.9084'
+  long: "-92.6459"
+  nearby_rate_centers:
+  - name: MARSHALL
+    distance_km: 1.42
+  - name: LESLIE
+    distance_km: 12.05
+  - name: ST JOE
+    distance_km: 20.2
+- country: US
+  region: AR
+  name: Marvell
+  lat: '34.5563'
+  long: "-90.9153"
+  nearby_rate_centers:
+  - name: MARVELL
+    distance_km: 0.46
+  - name: HOLLYGROVE
+    distance_km: 26.53
+  - name: MORO
+    distance_km: 26.98
+- country: US
+  region: AR
+  name: Maumelle
+  lat: '34.8522'
+  long: "-92.4000"
+  nearby_rate_centers:
+  - name: PALARM
+    distance_km: 3.56
+  - name: PINNACLE
+    distance_km: 9.19
+  - name: FERNDALE
+    distance_km: 14.59
+- country: US
+  region: AR
+  name: Mayflower
+  lat: '34.9688'
+  long: "-92.4224"
+  nearby_rate_centers:
+  - name: PALARM
+    distance_km: 9.64
+  - name: CONWAY
+    distance_km: 12.79
+  - name: PINNACLE
+    distance_km: 17.96
+- country: US
+  region: AR
+  name: Maynard
+  lat: '36.4214'
+  long: "-90.9018"
+  nearby_rate_centers:
+  - name: MAYNARD
+    distance_km: 0.4
+  - name: BIGGERS
+    distance_km: 12.21
+  - name: SUCCESS
+    distance_km: 16.21
+- country: US
+  region: AR
+  name: Maysville
+  lat: '36.4020'
+  long: "-94.5889"
+  nearby_rate_centers:
+  - name: MAYSVILLE
+    distance_km: 1.54
+  - name: SOWESTCITY
+    distance_km: 11.28
+  - name: GRAVETTE
+    distance_km: 11.96
+- country: US
+  region: AR
+  name: McAlmont
+  lat: '34.7925'
+  long: "-92.1960"
+  nearby_rate_centers:
+  - name: SYVNHLSHWD
+    distance_km: 6.24
+  - name: LITTLEROCK
+    distance_km: 9.45
+  - name: JACKSONVL
+    distance_km: 10.99
+- country: US
+  region: AR
+  name: McCaskill
+  lat: '33.9187'
+  long: "-93.6417"
+  nearby_rate_centers:
+  - name: BLEVINS
+    distance_km: 8.72
+  - name: MURFREESBO
+    distance_km: 16.5
+  - name: WASHINGTON
+    distance_km: 16.6
+- country: US
+  region: AR
+  name: McCrory
+  lat: '35.2573'
+  long: "-91.1972"
+  nearby_rate_centers:
+  - name: MCCRORY
+    distance_km: 0.23
+  - name: AUGUSTA
+    distance_km: 14.91
+  - name: TUPELO
+    distance_km: 15.46
+- country: US
+  region: AR
+  name: McDougal
+  lat: '36.4365'
+  long: "-90.3907"
+  nearby_rate_centers:
+  - name: POLLARD
+    distance_km: 11.16
+  - name: KNOBEL
+    distance_km: 11.6
+  - name: CORNING
+    distance_km: 17.51
+- country: US
+  region: AR
+  name: McGehee
+  lat: '33.6278'
+  long: "-91.3953"
+  nearby_rate_centers:
+  - name: MCGEHEE
+    distance_km: 0.65
+  - name: TILLAR
+    distance_km: 11.16
+  - name: DERMOTT
+    distance_km: 11.79
+- country: US
+  region: AR
+  name: McNab
+  lat: '33.6609'
+  long: "-93.8323"
+  nearby_rate_centers:
+  - name: FULTON
+    distance_km: 5.44
+  - name: SARATOGA
+    distance_km: 11.52
+  - name: WASHINGTON
+    distance_km: 18.68
+- country: US
+  region: AR
+  name: McNeil
+  lat: '33.3479'
+  long: "-93.2084"
+  nearby_rate_centers:
+  - name: MCNEIL
+    distance_km: 0.37
+  - name: WALDO
+    distance_km: 7.77
+  - name: MAGNOLIA
+    distance_km: 9.48
+- country: US
+  region: AR
+  name: McRae
+  lat: '35.1119'
+  long: "-91.8253"
+  nearby_rate_centers:
+  - name: MCRAE
+    distance_km: 0.64
+  - name: BEEBE
+    distance_km: 7.15
+  - name: GRIFFITHVL
+    distance_km: 16.26
+- country: US
+  region: AR
+  name: Melbourne
+  lat: '36.0638'
+  long: "-91.8820"
+  nearby_rate_centers:
+  - name: MELBOURNE
+    distance_km: 2.48
+  - name: FRANKLIN
+    distance_km: 14.25
+  - name: MTPLEASANT
+    distance_km: 15.88
+- country: US
+  region: AR
+  name: Mellwood
+  lat: '34.2181'
+  long: "-90.9445"
+  nearby_rate_centers:
+  - name: ELAINE
+    distance_km: 13.19
+  - name: ST CHARLES
+    distance_km: 25.37
+  - name: DE WITT
+    distance_km: 36.69
+- country: US
+  region: AR
+  name: Mena
+  lat: '34.5812'
+  long: "-94.2369"
+  nearby_rate_centers:
+  - name: MENA
+    distance_km: 0.38
+  - name: HATFIELD
+    distance_km: 16.73
+  - name: COVE
+    distance_km: 22.58
+- country: US
+  region: AR
+  name: Menifee
+  lat: '35.1493'
+  long: "-92.5544"
+  nearby_rate_centers:
+  - name: CONWAY
+    distance_km: 12.17
+  - name: GREENBRIER
+    distance_km: 17.58
+  - name: MORRILTON
+    distance_km: 17.77
+- country: US
+  region: AR
+  name: Midland
+  lat: '35.0927'
+  long: "-94.3531"
+  nearby_rate_centers:
+  - name: MIDLAND
+    distance_km: 0.34
+  - name: MANSFIELD
+    distance_km: 10.03
+  - name: HACKETT
+    distance_km: 11.51
+- country: US
+  region: AR
+  name: Midway
+  lat: '36.3911'
+  long: "-92.4732"
+  nearby_rate_centers:
+  - name: MIDWAY
+    distance_km: 1.74
+  - name: WHITEVILLE
+    distance_km: 8.46
+  - name: LAKEVIEW
+    distance_km: 9.29
+- country: US
+  region: AR
+  name: Mineral Springs
+  lat: '33.8771'
+  long: "-93.9217"
+  nearby_rate_centers:
+  - name: MINERALSPG
+    distance_km: 0.46
+  - name: NASHVILLE
+    distance_km: 8.96
+  - name: SARATOGA
+    distance_km: 14.5
+- country: US
+  region: AR
+  name: Minturn
+  lat: '35.9764'
+  long: "-91.0273"
+  nearby_rate_centers:
+  - name: WALNUT RDG
+    distance_km: 11.64
+  - name: BLACK ROCK
+    distance_km: 16.03
+  - name: SWIFTON
+    distance_km: 19.23
+- country: US
+  region: AR
+  name: Mitchellville
+  lat: '33.9051'
+  long: "-91.4984"
+  nearby_rate_centers:
+  - name: DUMAS
+    distance_km: 2.14
+  - name: GOULD
+    distance_km: 10.88
+  - name: TILLAR
+    distance_km: 21.36
+- country: US
+  region: AR
+  name: Monette
+  lat: '35.8931'
+  long: "-90.3443"
+  nearby_rate_centers:
+  - name: MONETTE
+    distance_km: 0.47
+  - name: LEACHVILLE
+    distance_km: 8.82
+  - name: LAKE CITY
+    distance_km: 11.76
+- country: US
+  region: AR
+  name: Monroe
+  lat: '34.7341'
+  long: "-91.1067"
+  nearby_rate_centers:
+  - name: MORO
+    distance_km: 12.19
+  - name: HOLLYGROVE
+    distance_km: 17.05
+  - name: BRINKLEY
+    distance_km: 18.54
+- country: US
+  region: AR
+  name: Monticello
+  lat: '33.6257'
+  long: "-91.7934"
+  nearby_rate_centers:
+  - name: MONTICELLO
+    distance_km: 1.4
+  - name: WILMAR
+    distance_km: 12.4
+  - name: WARREN
+    distance_km: 25.07
+- country: US
+  region: AR
+  name: Montrose
+  lat: '33.2989'
+  long: "-91.4965"
+  nearby_rate_centers:
+  - name: PORTLAND
+    distance_km: 6.19
+  - name: LAKE VLG
+    distance_km: 20.2
+  - name: DERMOTT
+    distance_km: 26.0
+- country: US
+  region: AR
+  name: Moorefield
+  lat: '35.7672'
+  long: "-91.5708"
+  nearby_rate_centers:
+  - name: BATESVILLE
+    distance_km: 6.25
+  - name: NEWARK
+    distance_km: 13.85
+  - name: OIL TROUGH
+    distance_km: 17.71
+- country: US
+  region: AR
+  name: Moro
+  lat: '34.7920'
+  long: "-90.9880"
+  nearby_rate_centers:
+  - name: MORO
+    distance_km: 0.43
+  - name: WHEATLEY
+    distance_km: 18.23
+  - name: MARIANNA
+    distance_km: 20.88
+- country: US
+  region: AR
+  name: Morrilton
+  lat: '35.1558'
+  long: "-92.7387"
+  nearby_rate_centers:
+  - name: MORRILTON
+    distance_km: 1.21
+  - name: PERRY
+    distance_km: 12.84
+  - name: PERRYVILLE
+    distance_km: 18.1
+- country: US
+  region: AR
+  name: Morrison Bluff
+  lat: '35.3828'
+  long: "-93.5228"
+  nearby_rate_centers:
+  - name: SCRANTON
+    distance_km: 2.65
+  - name: HARTMAN
+    distance_km: 9.69
+  - name: CLARKSVL
+    distance_km: 10.74
+- country: US
+  region: AR
+  name: Morrow
+  lat: '35.8559'
+  long: "-94.4352"
+  nearby_rate_centers:
+  - name: MORROW
+    distance_km: 0.85
+  - name: LINCOLN
+    distance_km: 10.46
+  - name: STRICKLER
+    distance_km: 11.96
+- country: US
+  region: AR
+  name: Mount Holly
+  lat: '33.3030'
+  long: "-92.9539"
+  nearby_rate_centers:
+  - name: MOUNTHOLLY
+    distance_km: 0.75
+  - name: VILLAGE
+    distance_km: 9.96
+  - name: STEPHENS
+    distance_km: 16.44
+- country: US
+  region: AR
+  name: Mount Ida
+  lat: '34.5509'
+  long: "-93.6309"
+  nearby_rate_centers:
+  - name: MOUNT IDA
+    distance_km: 0.73
+  - name: NORMAN
+    distance_km: 10.91
+  - name: ODEN
+    distance_km: 15.51
+- country: US
+  region: AR
+  name: Mount Judea
+  lat: '35.9214'
+  long: "-93.0577"
+  nearby_rate_centers:
+  - name: MOUNTJUDEA
+    distance_km: 0.98
+  - name: JASPER
+    distance_km: 14.91
+  - name: DEER
+    distance_km: 16.53
+- country: US
+  region: AR
+  name: Mount Olive
+  lat: '36.0038'
+  long: "-92.0914"
+  nearby_rate_centers:
+  - name: ALLISON
+    distance_km: 6.0
+  - name: FIFTYSIX
+    distance_km: 11.72
+  - name: CALICOROCK
+    distance_km: 12.88
+- country: US
+  region: AR
+  name: Mount Pleasant
+  lat: '35.9819'
+  long: "-91.7771"
+  nearby_rate_centers:
+  - name: MTPLEASANT
+    distance_km: 2.81
+  - name: MELBOURNE
+    distance_km: 14.67
+  - name: EVENNGSHAD
+    distance_km: 17.06
+- country: US
+  region: AR
+  name: Mount Vernon
+  lat: '35.2236'
+  long: "-92.1240"
+  nearby_rate_centers:
+  - name: ENOLA
+    distance_km: 8.33
+  - name: ROSE BUD
+    distance_km: 12.9
+  - name: VILONIA
+    distance_km: 17.06
+- country: US
+  region: AR
+  name: Mountain Home
+  lat: '36.3351'
+  long: "-92.3840"
+  nearby_rate_centers:
+  - name: MT HOME
+    distance_km: 0.38
+  - name: MIDWAY
+    distance_km: 8.43
+  - name: WHITEVILLE
+    distance_km: 8.56
+- country: US
+  region: AR
+  name: Mountain Pine
+  lat: '34.5693'
+  long: "-93.1726"
+  nearby_rate_centers:
+  - name: HOTSPRINGS
+    distance_km: 13.56
+  - name: CRYSTALSPG
+    distance_km: 15.64
+  - name: JESSIEVL
+    distance_km: 17.47
+- country: US
+  region: AR
+  name: Mountain View
+  lat: '35.8635'
+  long: "-92.1041"
+  nearby_rate_centers:
+  - name: MT VIEW
+    distance_km: 1.37
+  - name: ALLISON
+    distance_km: 9.8
+  - name: SUNNYLAND
+    distance_km: 11.42
+- country: US
+  region: AR
+  name: Mountainburg
+  lat: '35.6360'
+  long: "-94.1681"
+  nearby_rate_centers:
+  - name: MOUNTAINBG
+    distance_km: 0.48
+  - name: MULBERRY
+    distance_km: 18.38
+  - name: ALMA
+    distance_km: 18.54
+- country: US
+  region: AR
+  name: Mulberry
+  lat: '35.5100'
+  long: "-94.0740"
+  nearby_rate_centers:
+  - name: MULBERRY
+    distance_km: 2.2
+  - name: ALMA
+    distance_km: 14.22
+  - name: MOUNTAINBG
+    distance_km: 15.94
+- country: US
+  region: AR
+  name: Murfreesboro
+  lat: '34.0543'
+  long: "-93.6834"
+  nearby_rate_centers:
+  - name: MURFREESBO
+    distance_km: 1.13
+  - name: DELIGHT
+    distance_km: 16.94
+  - name: DAISY
+    distance_km: 20.46
+- country: US
+  region: AR
+  name: Nashville
+  lat: '33.9418'
+  long: "-93.8516"
+  nearby_rate_centers:
+  - name: NASHVILLE
+    distance_km: 1.05
+  - name: MINERALSPG
+    distance_km: 9.5
+  - name: MURFREESBO
+    distance_km: 19.75
+- country: US
+  region: AR
+  name: Natural Steps
+  lat: '34.8668'
+  long: "-92.4881"
+  nearby_rate_centers:
+  - name: PINNACLE
+    distance_km: 5.49
+  - name: PALARM
+    distance_km: 8.34
+  - name: FERNDALE
+    distance_km: 13.14
+- country: US
+  region: AR
+  name: New Blaine
+  lat: '35.2931'
+  long: "-93.4202"
+  nearby_rate_centers:
+  - name: SCRANTON
+    distance_km: 12.62
+  - name: LONDON
+    distance_km: 15.87
+  - name: LAMAR
+    distance_km: 16.92
+- country: US
+  region: AR
+  name: New Edinburg
+  lat: '33.7562'
+  long: "-92.2404"
+  nearby_rate_centers:
+  - name: KINGSLAND
+    distance_km: 12.59
+  - name: FORDYCE
+    distance_km: 17.49
+  - name: BANKS
+    distance_km: 19.38
+- country: US
+  region: AR
+  name: Newark
+  lat: '35.7076'
+  long: "-91.4434"
+  nearby_rate_centers:
+  - name: NEWARK
+    distance_km: 0.84
+  - name: OIL TROUGH
+    distance_km: 8.13
+  - name: NEWPORT
+    distance_km: 18.26
+- country: US
+  region: AR
+  name: Newhope
+  lat: '34.2276'
+  long: "-93.8753"
+  nearby_rate_centers:
+  - name: DAISY
+    distance_km: 12.99
+  - name: UMPIRE
+    distance_km: 17.43
+  - name: DIERKS
+    distance_km: 18.16
+- country: US
+  region: AR
+  name: Newport
+  lat: '35.6234'
+  long: "-91.2322"
+  nearby_rate_centers:
+  - name: NEWPORT
+    distance_km: 4.92
+  - name: TUCKERMAN
+    distance_km: 12.6
+  - name: GRUBBS
+    distance_km: 14.3
+- country: US
+  region: AR
+  name: Nimmons
+  lat: '36.3062'
+  long: "-90.0951"
+  nearby_rate_centers:
+  - name: CARRYVILLE
+    distance_km: 7.48
+  - name: PIGGOTT
+    distance_km: 11.99
+  - name: LEONARD
+    distance_km: 17.15
+- country: US
+  region: AR
+  name: Norfork
+  lat: '36.2099'
+  long: "-92.2803"
+  nearby_rate_centers:
+  - name: NORFORK
+    distance_km: 0.44
+  - name: TRACYFERRY
+    distance_km: 12.02
+  - name: MT HOME
+    distance_km: 16.51
+- country: US
+  region: AR
+  name: Norman
+  lat: '34.4584'
+  long: "-93.6791"
+  nearby_rate_centers:
+  - name: NORMAN
+    distance_km: 0.44
+  - name: MOUNT IDA
+    distance_km: 11.63
+  - name: GLENWOOD
+    distance_km: 18.72
+- country: US
+  region: AR
+  name: Norphlet
+  lat: '33.3198'
+  long: "-92.6619"
+  nearby_rate_centers:
+  - name: NORPHLET
+    distance_km: 0.66
+  - name: SMACKOVER
+    distance_km: 8.31
+  - name: CALION
+    distance_km: 11.01
+- country: US
+  region: AR
+  name: North Crossett
+  lat: '33.1707'
+  long: "-91.9367"
+  nearby_rate_centers:
+  - name: CROSSETT
+    distance_km: 4.81
+  - name: HAMBURG
+    distance_km: 14.52
+  - name: HUTTIG
+    distance_km: 27.83
+- country: US
+  region: AR
+  name: North Little Rock
+  lat: '34.7807'
+  long: "-92.2371"
+  nearby_rate_centers:
+  - name: LITTLEROCK
+    distance_km: 5.62
+  - name: SYVNHLSHWD
+    distance_km: 7.02
+  - name: JACKSONVL
+    distance_km: 14.54
+- country: US
+  region: AR
+  name: O'Kean
+  lat: '36.1715'
+  long: "-90.8183"
+  nearby_rate_centers:
+  - name: DELAPLAINE
+    distance_km: 10.92
+  - name: POCAHONTAS
+    distance_km: 16.3
+  - name: WALNUT RDG
+    distance_km: 17.3
+- country: US
+  region: AR
+  name: Oak Grove
+  lat: '35.3594'
+  long: "-92.9598"
+  nearby_rate_centers:
+  - name: HECTOR
+    distance_km: 11.17
+  - name: ATKINS
+    distance_km: 13.53
+  - name: DOVER
+    distance_km: 14.95
+- country: US
+  region: AR
+  name: Oak Grove
+  lat: '36.4642'
+  long: "-93.4302"
+  nearby_rate_centers:
+  - name: OAK GROVE
+    distance_km: 1.12
+  - name: GREEN FOR
+    distance_km: 14.54
+  - name: BERRYVILLE
+    distance_km: 16.25
+- country: US
+  region: AR
+  name: Oak Grove Heights
+  lat: '36.1271'
+  long: "-90.5085"
+  nearby_rate_centers:
+  - name: PARAGOULD
+    distance_km: 8.74
+  - name: MARMADUKE
+    distance_km: 13.54
+  - name: DELAPLAINE
+    distance_km: 22.97
+- country: US
+  region: AR
+  name: Oakhaven
+  lat: '33.7293'
+  long: "-93.6205"
+  nearby_rate_centers:
+  - name: HOPE
+    distance_km: 7.19
+  - name: WASHINGTON
+    distance_km: 7.5
+  - name: BLEVINS
+    distance_km: 15.64
+- country: US
+  region: AR
+  name: Oakland
+  lat: '36.4604'
+  long: "-92.5718"
+  nearby_rate_centers:
+  - name: BULLSHOALS
+    distance_km: 6.98
+  - name: LAKEVIEW
+    distance_km: 10.46
+  - name: MIDWAY
+    distance_km: 13.41
+- country: US
+  region: AR
+  name: Oark
+  lat: '35.6923'
+  long: "-93.5733"
+  nearby_rate_centers:
+  - name: SALUS
+    distance_km: 14.38
+  - name: ST PAUL
+    distance_km: 22.43
+  - name: CLARKSVL
+    distance_km: 26.68
+- country: US
+  region: AR
+  name: Oden
+  lat: '34.6215'
+  long: "-93.7862"
+  nearby_rate_centers:
+  - name: ODEN
+    distance_km: 1.01
+  - name: MOUNT IDA
+    distance_km: 15.62
+  - name: NORMAN
+    distance_km: 20.7
+- country: US
+  region: AR
+  name: Ogden
+  lat: '33.5859'
+  long: "-94.0469"
+  nearby_rate_centers:
+  - name: ASHDOWN
+    distance_km: 12.18
+  - name: TEXARKANA
+    distance_km: 18.15
+  - name: TRIGG
+    distance_km: 20.53
+- country: US
+  region: AR
+  name: Oil Trough
+  lat: '35.6292'
+  long: "-91.4612"
+  nearby_rate_centers:
+  - name: OIL TROUGH
+    distance_km: 0.73
+  - name: NEWARK
+    distance_km: 8.09
+  - name: NEWPORT
+    distance_km: 16.28
+- country: US
+  region: AR
+  name: Okolona
+  lat: '34.0005'
+  long: "-93.3377"
+  nearby_rate_centers:
+  - name: OKOLONA
+    distance_km: 1.19
+  - name: DELIGHT
+    distance_km: 15.53
+  - name: GURDON
+    distance_km: 19.88
+- country: US
+  region: AR
+  name: Ola
+  lat: '35.0310'
+  long: "-93.2244"
+  nearby_rate_centers:
+  - name: OLA
+    distance_km: 0.27
+  - name: PLAINVIEW
+    distance_km: 8.43
+  - name: CENTERVL
+    distance_km: 11.02
+- country: US
+  region: AR
+  name: Omaha
+  lat: '36.4583'
+  long: "-93.1910"
+  nearby_rate_centers:
+  - name: OMAHA
+    distance_km: 1.06
+  - name: ALPENA
+    distance_km: 20.6
+  - name: OAK GROVE
+    distance_km: 22.24
+- country: US
+  region: AR
+  name: Oneida
+  lat: '34.4605'
+  long: "-90.7867"
+  nearby_rate_centers:
+  - name: MARVELL
+    distance_km: 15.69
+  - name: ELAINE
+    distance_km: 17.93
+  - name: HELENA
+    distance_km: 19.84
+- country: US
+  region: AR
+  name: Oppelo
+  lat: '35.1003'
+  long: "-92.7733"
+  nearby_rate_centers:
+  - name: MORRILTON
+    distance_km: 5.91
+  - name: PERRY
+    distance_km: 5.93
+  - name: PERRYVILLE
+    distance_km: 11.3
+- country: US
+  region: AR
+  name: Osceola
+  lat: '35.6942'
+  long: "-89.9934"
+  nearby_rate_centers:
+  - name: OSCEOLA
+    distance_km: 2.72
+  - name: LUXORA
+    distance_km: 8.15
+  - name: KEISER
+    distance_km: 9.61
+- country: US
+  region: AR
+  name: Oxford
+  lat: '36.2090'
+  long: "-91.9183"
+  nearby_rate_centers:
+  - name: OXFORD
+    distance_km: 1.45
+  - name: FRANKLIN
+    distance_km: 12.86
+  - name: HORSEHBEND
+    distance_km: 14.61
+- country: US
+  region: AR
+  name: Ozan
+  lat: '33.8480'
+  long: "-93.7203"
+  nearby_rate_centers:
+  - name: WASHINGTON
+    distance_km: 9.04
+  - name: BLEVINS
+    distance_km: 13.67
+  - name: NASHVILLE
+    distance_km: 15.29
+- country: US
+  region: AR
+  name: Ozark
+  lat: '35.4991'
+  long: "-93.8438"
+  nearby_rate_centers:
+  - name: OZARK
+    distance_km: 0.64
+  - name: ALTUS
+    distance_km: 9.34
+  - name: MULBERRY
+    distance_km: 18.95
+- country: US
+  region: AR
+  name: Ozark Acres
+  lat: '36.3000'
+  long: "-91.3871"
+  nearby_rate_centers:
+  - name: OZARKACRES
+    distance_km: 5.91
+  - name: HARDY
+    distance_km: 8.94
+  - name: CHEROKEVLG
+    distance_km: 11.91
+- country: US
+  region: AR
+  name: Ozone
+  lat: '35.6352'
+  long: "-93.4450"
+  nearby_rate_centers:
+  - name: SALUS
+    distance_km: 9.61
+  - name: CLARKSVL
+    distance_km: 18.67
+  - name: LAMAR
+    distance_km: 22.17
+- country: US
+  region: AR
+  name: Palestine
+  lat: '34.9696'
+  long: "-90.9068"
+  nearby_rate_centers:
+  - name: FORREST CY
+    distance_km: 12.05
+  - name: WHEATLEY
+    distance_km: 20.05
+  - name: MORO
+    distance_km: 21.38
+- country: US
+  region: AR
+  name: Pangburn
+  lat: '35.4261'
+  long: "-91.8394"
+  nearby_rate_centers:
+  - name: PANGBURN
+    distance_km: 0.5
+  - name: HEBER SPG
+    distance_km: 19.03
+  - name: SEARCY
+    distance_km: 21.94
+- country: US
+  region: AR
+  name: Paragould
+  lat: '36.0555'
+  long: "-90.5149"
+  nearby_rate_centers:
+  - name: PARAGOULD
+    distance_km: 2.29
+  - name: MARMADUKE
+    distance_km: 19.34
+  - name: MONETTE
+    distance_km: 24.1
+- country: US
+  region: AR
+  name: Paris
+  lat: '35.2894'
+  long: "-93.7252"
+  nearby_rate_centers:
+  - name: PARIS
+    distance_km: 0.94
+  - name: SUBIACO
+    distance_km: 8.49
+  - name: RATCLIFF
+    distance_km: 14.75
+- country: US
+  region: AR
+  name: Parkdale
+  lat: '33.1212'
+  long: "-91.5464"
+  nearby_rate_centers:
+  - name: WILMOT
+    distance_km: 8.37
+  - name: PORTLAND
+    distance_km: 14.12
+  - name: HAMBURG
+    distance_km: 26.52
+- country: US
+  region: AR
+  name: Parkin
+  lat: '35.2629'
+  long: "-90.5530"
+  nearby_rate_centers:
+  - name: PARKIN
+    distance_km: 0.74
+  - name: EARLE
+    distance_km: 8.43
+  - name: BLACKFIHLK
+    distance_km: 17.07
+- country: US
+  region: AR
+  name: Patmos
+  lat: '33.5112'
+  long: "-93.5679"
+  nearby_rate_centers:
+  - name: LEWISVILLE
+    distance_km: 15.37
+  - name: BODCAW
+    distance_km: 15.58
+  - name: HOPE
+    distance_km: 17.68
+- country: US
+  region: AR
+  name: Patterson
+  lat: '35.2590'
+  long: "-91.2350"
+  nearby_rate_centers:
+  - name: MCCRORY
+    distance_km: 3.21
+  - name: AUGUSTA
+    distance_km: 11.52
+  - name: TUPELO
+    distance_km: 14.93
+- country: US
+  region: AR
+  name: Payneway
+  lat: '35.5457'
+  long: "-90.5123"
+  nearby_rate_centers:
+  - name: PAYNEWAY
+    distance_km: 1.26
+  - name: MARKEDTREE
+    distance_km: 8.87
+  - name: OAK ACRES
+    distance_km: 14.2
+- country: US
+  region: AR
+  name: Pea Ridge
+  lat: '36.4495'
+  long: "-94.1218"
+  nearby_rate_centers:
+  - name: PEA RIDGE
+    distance_km: 0.44
+  - name: BENTONVL
+    distance_km: 12.28
+  - name: ROGERS
+    distance_km: 13.02
+- country: US
+  region: AR
+  name: Peach Orchard
+  lat: '36.2812'
+  long: "-90.6608"
+  nearby_rate_centers:
+  - name: DELAPLAINE
+    distance_km: 7.74
+  - name: BIGGERS
+    distance_km: 15.36
+  - name: CORNING
+    distance_km: 15.99
+- country: US
+  region: AR
+  name: Pearcy
+  lat: '34.4314'
+  long: "-93.2886"
+  nearby_rate_centers:
+  - name: CRYSTALSPG
+    distance_km: 11.35
+  - name: BISMARCK
+    distance_km: 16.9
+  - name: HOTSPRINGS
+    distance_km: 23.14
+- country: US
+  region: AR
+  name: Pencil Bluff
+  lat: '34.6299'
+  long: "-93.7350"
+  nearby_rate_centers:
+  - name: ODEN
+    distance_km: 3.77
+  - name: MOUNT IDA
+    distance_km: 12.27
+  - name: NORMAN
+    distance_km: 19.73
+- country: US
+  region: AR
+  name: Perla
+  lat: '34.3648'
+  long: "-92.7762"
+  nearby_rate_centers:
+  - name: MALVERN
+    distance_km: 3.25
+  - name: JONESMILLS
+    distance_km: 12.89
+  - name: DONALDSON
+    distance_km: 19.68
+- country: US
+  region: AR
+  name: Perry
+  lat: '35.0459'
+  long: "-92.7948"
+  nearby_rate_centers:
+  - name: PERRY
+    distance_km: 0.65
+  - name: PERRYVILLE
+    distance_km: 5.0
+  - name: MORRILTON
+    distance_km: 12.26
+- country: US
+  region: AR
+  name: Perrytown
+  lat: '33.6973'
+  long: "-93.5340"
+  nearby_rate_centers:
+  - name: HOPE
+    distance_km: 6.29
+  - name: WASHINGTON
+    distance_km: 16.08
+  - name: PRESCOTT
+    distance_km: 17.79
+- country: US
+  region: AR
+  name: Perryville
+  lat: '35.0120'
+  long: "-92.8030"
+  nearby_rate_centers:
+  - name: PERRYVILLE
+    distance_km: 1.21
+  - name: PERRY
+    distance_km: 4.36
+  - name: BIGELOW
+    distance_km: 15.27
+- country: US
+  region: AR
+  name: Piggott
+  lat: '36.3858'
+  long: "-90.2016"
+  nearby_rate_centers:
+  - name: PIGGOTT
+    distance_km: 1.15
+  - name: CARRYVILLE
+    distance_km: 5.55
+  - name: POLLARD
+    distance_km: 7.88
+- country: US
+  region: AR
+  name: Pindall
+  lat: '36.0637'
+  long: "-92.8622"
+  nearby_rate_centers:
+  - name: ST JOE
+    distance_km: 5.84
+  - name: WESTERNGRV
+    distance_km: 9.58
+  - name: PYATT
+    distance_km: 20.65
+- country: US
+  region: AR
+  name: Pine Bluff
+  lat: '34.2116'
+  long: "-92.0173"
+  nearby_rate_centers:
+  - name: PINE BLUFF
+    distance_km: 1.54
+  - name: ALTHEIMER
+    distance_km: 20.0
+  - name: REDFIELD
+    distance_km: 29.8
+- country: US
+  region: AR
+  name: Pineville
+  lat: '36.1612'
+  long: "-92.1065"
+  nearby_rate_centers:
+  - name: CALICOROCK
+    distance_km: 5.75
+  - name: NORFORK
+    distance_km: 16.5
+  - name: OXFORD
+    distance_km: 16.84
+- country: US
+  region: AR
+  name: Piney
+  lat: '34.5024'
+  long: "-93.1420"
+  nearby_rate_centers:
+  - name: HOTSPRINGS
+    distance_km: 8.39
+  - name: CRYSTALSPG
+    distance_km: 17.88
+  - name: BISMARCK
+    distance_km: 20.84
+- country: US
+  region: AR
+  name: Plainview
+  lat: '34.9899'
+  long: "-93.2980"
+  nearby_rate_centers:
+  - name: PLAINVIEW
+    distance_km: 0.5
+  - name: OLA
+    distance_km: 8.2
+  - name: DANVILLE
+    distance_km: 11.39
+- country: US
+  region: AR
+  name: Pleasant Grove
+  lat: '35.8205'
+  long: "-91.9070"
+  nearby_rate_centers:
+  - name: PLEASATGRV
+    distance_km: 0.23
+  - name: CONCORD
+    distance_km: 17.86
+  - name: MT VIEW
+    distance_km: 19.75
+- country: US
+  region: AR
+  name: Pleasant Plains
+  lat: '35.5545'
+  long: "-91.6273"
+  nearby_rate_centers:
+  - name: PLEASANTPL
+    distance_km: 0.29
+  - name: OIL TROUGH
+    distance_km: 17.61
+  - name: BRADFORD
+    distance_km: 21.45
+- country: US
+  region: AR
+  name: Plumerville
+  lat: '35.1600'
+  long: "-92.6430"
+  nearby_rate_centers:
+  - name: MORRILTON
+    distance_km: 9.78
+  - name: BIGELOW
+    distance_km: 17.82
+  - name: PERRY
+    distance_km: 18.61
+- country: US
+  region: AR
+  name: Pocahontas
+  lat: '36.2635'
+  long: "-90.9706"
+  nearby_rate_centers:
+  - name: POCAHONTAS
+    distance_km: 0.8
+  - name: BIGGERS
+    distance_km: 15.67
+  - name: MAYNARD
+    distance_km: 18.22
+- country: US
+  region: AR
+  name: Pollard
+  lat: '36.4296'
+  long: "-90.2670"
+  nearby_rate_centers:
+  - name: POLLARD
+    distance_km: 0.51
+  - name: PIGGOTT
+    distance_km: 8.68
+  - name: CARRYVILLE
+    distance_km: 13.14
+- country: US
+  region: AR
+  name: Ponca
+  lat: '36.0287'
+  long: "-93.3640"
+  nearby_rate_centers:
+  - name: PONCA
+    distance_km: 0.65
+  - name: COMPTON
+    distance_km: 8.47
+  - name: KINGSTON
+    distance_km: 13.78
+- country: US
+  region: AR
+  name: Poplar Grove
+  lat: '34.5522'
+  long: "-90.8542"
+  nearby_rate_centers:
+  - name: MARVELL
+    distance_km: 5.2
+  - name: HELENA
+    distance_km: 24.89
+  - name: MARIANNA
+    distance_km: 26.22
+- country: US
+  region: AR
+  name: Portia
+  lat: '36.0848'
+  long: "-91.0711"
+  nearby_rate_centers:
+  - name: BLACK ROCK
+    distance_km: 3.56
+  - name: WALNUT RDG
+    distance_km: 10.29
+  - name: IMBODEN
+    distance_km: 15.93
+- country: US
+  region: AR
+  name: Portland
+  lat: '33.2379'
+  long: "-91.5109"
+  nearby_rate_centers:
+  - name: PORTLAND
+    distance_km: 0.73
+  - name: WILMOT
+    distance_km: 21.76
+  - name: LAKE VLG
+    distance_km: 23.68
+- country: US
+  region: AR
+  name: Pottsville
+  lat: '35.2312'
+  long: "-93.0654"
+  nearby_rate_centers:
+  - name: DARDANELLE
+    distance_km: 7.87
+  - name: RUSSELLVL
+    distance_km: 8.34
+  - name: ATKINS
+    distance_km: 11.95
+- country: US
+  region: AR
+  name: Powhatan
+  lat: '36.0873'
+  long: "-91.1238"
+  nearby_rate_centers:
+  - name: BLACK ROCK
+    distance_km: 3.42
+  - name: IMBODEN
+    distance_km: 13.45
+  - name: WALNUT RDG
+    distance_km: 14.99
+- country: US
+  region: AR
+  name: Poyen
+  lat: '34.3242'
+  long: "-92.6420"
+  nearby_rate_centers:
+  - name: PRATTSVL
+    distance_km: 8.49
+  - name: MALVERN
+    distance_km: 15.97
+  - name: LEOLA
+    distance_km: 17.91
+- country: US
+  region: AR
+  name: Prairie Creek
+  lat: '36.3412'
+  long: "-94.0602"
+  nearby_rate_centers:
+  - name: ROGERS
+    distance_km: 5.25
+  - name: PEA RIDGE
+    distance_km: 12.97
+  - name: BENTONVL
+    distance_km: 13.82
+- country: US
+  region: AR
+  name: Prairie Grove
+  lat: '35.9858'
+  long: "-94.3049"
+  nearby_rate_centers:
+  - name: PRAIRIEGRV
+    distance_km: 2.17
+  - name: FARMINGTON
+    distance_km: 7.53
+  - name: LINCOLN
+    distance_km: 10.85
+- country: US
+  region: AR
+  name: Prattsville
+  lat: '34.3172'
+  long: "-92.5429"
+  nearby_rate_centers:
+  - name: PRATTSVL
+    distance_km: 1.05
+  - name: SHERIDAN
+    distance_km: 13.35
+  - name: LEOLA
+    distance_km: 17.15
+- country: US
+  region: AR
+  name: Prescott
+  lat: '33.8056'
+  long: "-93.3909"
+  nearby_rate_centers:
+  - name: PRESCOTT
+    distance_km: 0.91
+  - name: BLEVINS
+    distance_km: 18.09
+  - name: OKOLONA
+    distance_km: 21.4
+- country: US
+  region: AR
+  name: Princeton
+  lat: '33.9775'
+  long: "-92.6241"
+  nearby_rate_centers:
+  - name: CARTHAGE
+    distance_km: 11.93
+  - name: LEOLA
+    distance_km: 21.44
+  - name: SPARKMAN
+    distance_km: 22.01
+- country: US
+  region: AR
+  name: Pyatt
+  lat: '36.2509'
+  long: "-92.8443"
+  nearby_rate_centers:
+  - name: PYATT
+    distance_km: 0.23
+  - name: YELLVILLE
+    distance_km: 14.71
+  - name: LEAD HILL
+    distance_km: 18.02
+- country: US
+  region: AR
+  name: Quitman
+  lat: '35.3817'
+  long: "-92.2147"
+  nearby_rate_centers:
+  - name: QUITMAN
+    distance_km: 0.51
+  - name: ROSE BUD
+    distance_km: 12.86
+  - name: MORGANTON
+    distance_km: 15.58
+- country: US
+  region: AR
+  name: Ratcliff
+  lat: '35.3066'
+  long: "-93.8887"
+  nearby_rate_centers:
+  - name: RATCLIFF
+    distance_km: 0.25
+  - name: PARIS
+    distance_km: 14.06
+  - name: CHARLESTON
+    distance_km: 14.11
+- country: US
+  region: AR
+  name: Ravenden
+  lat: '36.2417'
+  long: "-91.2511"
+  nearby_rate_centers:
+  - name: IMBODEN
+    distance_km: 8.2
+  - name: OZARKACRES
+    distance_km: 9.72
+  - name: BLACK ROCK
+    distance_km: 20.23
+- country: US
+  region: AR
+  name: Ravenden Springs
+  lat: '36.3127'
+  long: "-91.2233"
+  nearby_rate_centers:
+  - name: IMBODEN
+    distance_km: 13.15
+  - name: OZARKACRES
+    distance_km: 13.89
+  - name: SO MYRTLE
+    distance_km: 20.04
+- country: US
+  region: AR
+  name: Reader
+  lat: '33.7518'
+  long: "-93.1009"
+  nearby_rate_centers:
+  - name: CHIDESTER
+    distance_km: 9.75
+  - name: GURDON
+    distance_km: 18.86
+  - name: PRESCOTT
+    distance_km: 26.8
+- country: US
+  region: AR
+  name: Rector
+  lat: '36.2642'
+  long: "-90.2935"
+  nearby_rate_centers:
+  - name: RECTOR
+    distance_km: 0.74
+  - name: BLOOMNGGRV
+    distance_km: 3.95
+  - name: LEONARD
+    distance_km: 6.46
+- country: US
+  region: AR
+  name: Redfield
+  lat: '34.4429'
+  long: "-92.1844"
+  nearby_rate_centers:
+  - name: REDFIELD
+    distance_km: 0.34
+  - name: WRIGHTSVL
+    distance_km: 19.92
+  - name: SPRINGLAKE
+    distance_km: 21.43
+- country: US
+  region: AR
+  name: Reed
+  lat: '33.7017'
+  long: "-91.4458"
+  nearby_rate_centers:
+  - name: TILLAR
+    distance_km: 1.77
+  - name: MCGEHEE
+    distance_km: 8.87
+  - name: DERMOTT
+    distance_km: 19.44
+- country: US
+  region: AR
+  name: Reyno
+  lat: '36.3609'
+  long: "-90.7590"
+  nearby_rate_centers:
+  - name: BIGGERS
+    distance_km: 6.17
+  - name: SUCCESS
+    distance_km: 10.47
+  - name: DELAPLAINE
+    distance_km: 14.22
+- country: US
+  region: AR
+  name: Rison
+  lat: '33.9599'
+  long: "-92.1936"
+  nearby_rate_centers:
+  - name: RISON
+    distance_km: 0.87
+  - name: KINGSLAND
+    distance_km: 15.11
+  - name: ROWELL
+    distance_km: 18.64
+- country: US
+  region: AR
+  name: Rivervale
+  lat: '35.6759'
+  long: "-90.3445"
+  nearby_rate_centers:
+  - name: LEPANTO
+    distance_km: 7.78
+  - name: CARAWAY
+    distance_km: 9.62
+  - name: GARDEN PT
+    distance_km: 10.35
+- country: US
+  region: AR
+  name: Rockport
+  lat: '34.4069'
+  long: "-92.8077"
+  nearby_rate_centers:
+  - name: MALVERN
+    distance_km: 5.36
+  - name: JONESMILLS
+    distance_km: 7.79
+  - name: LONSDALE
+    distance_km: 14.93
+- country: US
+  region: AR
+  name: Rockwell
+  lat: '34.4636'
+  long: "-93.1340"
+  nearby_rate_centers:
+  - name: HOTSPRINGS
+    distance_km: 8.68
+  - name: BISMARCK
+    distance_km: 16.69
+  - name: CRYSTALSPG
+    distance_km: 19.69
+- country: US
+  region: AR
+  name: Roe
+  lat: '34.6311'
+  long: "-91.3861"
+  nearby_rate_centers:
+  - name: ROE
+    distance_km: 0.54
+  - name: CLARENDON
+    distance_km: 9.67
+  - name: HOLLYGROVE
+    distance_km: 17.37
+- country: US
+  region: AR
+  name: Rogers
+  lat: '36.3170'
+  long: "-94.1531"
+  nearby_rate_centers:
+  - name: ROGERS
+    distance_km: 3.6
+  - name: BENTONVL
+    distance_km: 7.54
+  - name: CENTERTON
+    distance_km: 12.58
+- country: US
+  region: AR
+  name: Roland
+  lat: '34.9005'
+  long: "-92.5186"
+  nearby_rate_centers:
+  - name: PINNACLE
+    distance_km: 9.55
+  - name: PALARM
+    distance_km: 11.04
+  - name: WYE
+    distance_km: 12.38
+- country: US
+  region: AR
+  name: Rondo
+  lat: '34.6575'
+  long: "-90.8208"
+  nearby_rate_centers:
+  - name: MARVELL
+    distance_km: 13.79
+  - name: MARIANNA
+    distance_km: 14.18
+  - name: MORO
+    distance_km: 21.56
+- country: US
+  region: AR
+  name: Rose Bud
+  lat: '35.3249'
+  long: "-92.0810"
+  nearby_rate_centers:
+  - name: ROSE BUD
+    distance_km: 1.19
+  - name: QUITMAN
+    distance_km: 14.09
+  - name: ENOLA
+    distance_km: 18.61
+- country: US
+  region: AR
+  name: Rosston
+  lat: '33.5877'
+  long: "-93.2798"
+  nearby_rate_centers:
+  - name: ROSSTON
+    distance_km: 5.86
+  - name: BODCAW
+    distance_km: 12.48
+  - name: PRESCOTT
+    distance_km: 25.43
+- country: US
+  region: AR
+  name: Rover
+  lat: '34.9518'
+  long: "-93.4090"
+  nearby_rate_centers:
+  - name: PLAINVIEW
+    distance_km: 10.59
+  - name: DANVILLE
+    distance_km: 10.71
+  - name: SO FOURCHE
+    distance_km: 13.59
+- country: US
+  region: AR
+  name: Rudy
+  lat: '35.5304'
+  long: "-94.2406"
+  nearby_rate_centers:
+  - name: ALMA
+    distance_km: 6.21
+  - name: MOUNTAINBG
+    distance_km: 13.1
+  - name: VAN BUREN
+    distance_km: 14.57
+- country: US
+  region: AR
+  name: Russell
+  lat: '35.3621'
+  long: "-91.5100"
+  nearby_rate_centers:
+  - name: BALD KNOB
+    distance_km: 7.87
+  - name: BRADFORD
+    distance_km: 9.04
+  - name: JUDSONIA
+    distance_km: 15.27
+- country: US
+  region: AR
+  name: Russellville
+  lat: '35.2762'
+  long: "-93.1383"
+  nearby_rate_centers:
+  - name: RUSSELLVL
+    distance_km: 0.95
+  - name: DARDANELLE
+    distance_km: 5.9
+  - name: LONDON
+    distance_km: 12.1
+- country: US
+  region: AR
+  name: Rye
+  lat: '33.7505'
+  long: "-91.9985"
+  nearby_rate_centers:
+  - name: WILMAR
+    distance_km: 14.47
+  - name: ROWELL
+    distance_km: 14.84
+  - name: WARREN
+    distance_km: 16.02
+- country: US
+  region: AR
+  name: Salado
+  lat: '35.6954'
+  long: "-91.5923"
+  nearby_rate_centers:
+  - name: BATESVILLE
+    distance_km: 9.04
+  - name: NEWARK
+    distance_km: 13.63
+  - name: OIL TROUGH
+    distance_km: 13.67
+- country: US
+  region: AR
+  name: Salem
+  lat: '34.6308'
+  long: "-92.5605"
+  nearby_rate_centers:
+  - name: BENTON
+    distance_km: 8.41
+  - name: BENTON1
+    distance_km: 8.41
+  - name: BRYANTCGVL
+    distance_km: 8.8
+  - name: BAUXITE
+    distance_km: 10.09
+  - name: BAUXITE METRO
+    distance_km: 10.09
+- country: US
+  region: AR
+  name: Salesville
+  lat: '36.2410'
+  long: "-92.2769"
+  nearby_rate_centers:
+  - name: NORFORK
+    distance_km: 3.9
+  - name: TRACYFERRY
+    distance_km: 8.56
+  - name: MT HOME
+    distance_km: 14.02
+- country: US
+  region: AR
+  name: Saratoga
+  lat: '33.7446'
+  long: "-93.9043"
+  nearby_rate_centers:
+  - name: SARATOGA
+    distance_km: 0.55
+  - name: MINERALSPG
+    distance_km: 14.64
+  - name: FULTON
+    distance_km: 16.84
+- country: US
+  region: AR
+  name: Sardis
+  lat: '34.5330'
+  long: "-92.4067"
+  nearby_rate_centers:
+  - name: BAUXITE
+    distance_km: 9.72
+  - name: BAUXITE METRO
+    distance_km: 9.72
+  - name: SPRINGLAKE
+    distance_km: 10.19
+  - name: BRYANTCGVL
+    distance_km: 12.41
+- country: US
+  region: AR
+  name: Scott
+  lat: '34.6966'
+  long: "-92.0938"
+  nearby_rate_centers:
+  - name: SCOTT
+    distance_km: 0.92
+  - name: WRIGHTSVL
+    distance_km: 15.64
+  - name: LITTLEROCK
+    distance_km: 18.35
+- country: US
+  region: AR
+  name: Scranton
+  lat: '35.3606'
+  long: "-93.5394"
+  nearby_rate_centers:
+  - name: SCRANTON
+    distance_km: 0.64
+  - name: HARTMAN
+    distance_km: 10.34
+  - name: SUBIACO
+    distance_km: 11.45
+- country: US
+  region: AR
+  name: Searcy
+  lat: '35.2418'
+  long: "-91.7351"
+  nearby_rate_centers:
+  - name: SEARCY
+    distance_km: 0.96
+  - name: KENSETT
+    distance_km: 5.75
+  - name: JUDSONIA
+    distance_km: 9.33
+- country: US
+  region: AR
+  name: Sedgwick
+  lat: '35.9742'
+  long: "-90.8621"
+  nearby_rate_centers:
+  - name: WALNUT RDG
+    distance_km: 13.39
+  - name: CASH
+    distance_km: 20.54
+  - name: JONESBORO
+    distance_km: 21.03
+- country: US
+  region: AR
+  name: Shannon Hills
+  lat: '34.6157'
+  long: "-92.4217"
+  nearby_rate_centers:
+  - name: BRYANTCGVL
+    distance_km: 4.4
+  - name: SPRINGLAKE
+    distance_km: 9.01
+  - name: BAUXITE
+    distance_km: 10.97
+  - name: BAUXITE METRO
+    distance_km: 10.97
+- country: US
+  region: AR
+  name: Sheridan
+  lat: '34.2996'
+  long: "-92.4223"
+  nearby_rate_centers:
+  - name: SHERIDAN
+    distance_km: 2.11
+  - name: PRATTSVL
+    distance_km: 11.88
+  - name: LEOLA
+    distance_km: 21.38
+- country: US
+  region: AR
+  name: Sherrill
+  lat: '34.3850'
+  long: "-91.9518"
+  nearby_rate_centers:
+  - name: ALTHEIMER
+    distance_km: 12.82
+  - name: ENGLAND
+    distance_km: 17.6
+  - name: COY
+    distance_km: 18.0
+- country: US
+  region: AR
+  name: Sherwood
+  lat: '34.8507'
+  long: "-92.2029"
+  nearby_rate_centers:
+  - name: SYVNHLSHWD
+    distance_km: 2.23
+  - name: JACKSONVL
+    distance_km: 7.9
+  - name: LITTLEROCK
+    distance_km: 13.59
+- country: US
+  region: AR
+  name: Shirley
+  lat: '35.6442'
+  long: "-92.3137"
+  nearby_rate_centers:
+  - name: SHIRLEY
+    distance_km: 0.53
+  - name: FAIRFLD BY
+    distance_km: 6.21
+  - name: CLINTON
+    distance_km: 14.59
+- country: US
+  region: AR
+  name: Sidney
+  lat: '36.0044'
+  long: "-91.6583"
+  nearby_rate_centers:
+  - name: EVENNGSHAD
+    distance_km: 7.69
+  - name: MTPLEASANT
+    distance_km: 10.28
+  - name: CAVE CITY
+    distance_km: 11.84
+- country: US
+  region: AR
+  name: Siloam Springs
+  lat: '36.1844'
+  long: "-94.5315"
+  nearby_rate_centers:
+  - name: SILOAM SPG
+    distance_km: 1.07
+  - name: GENTRY
+    distance_km: 9.99
+  - name: DECATUR
+    distance_km: 17.71
+- country: US
+  region: AR
+  name: Smackover
+  lat: '33.3636'
+  long: "-92.7314"
+  nearby_rate_centers:
+  - name: SMACKOVER
+    distance_km: 0.35
+  - name: LOUANN
+    distance_km: 6.28
+  - name: NORPHLET
+    distance_km: 7.84
+- country: US
+  region: AR
+  name: Smithville
+  lat: '36.0799'
+  long: "-91.3027"
+  nearby_rate_centers:
+  - name: JESUP
+    distance_km: 7.55
+  - name: IMBODEN
+    distance_km: 17.7
+  - name: BLACK ROCK
+    distance_km: 18.78
+- country: US
+  region: AR
+  name: South Lead Hill
+  lat: '36.3956'
+  long: "-92.9063"
+  nearby_rate_centers:
+  - name: LEAD HILL
+    distance_km: 1.36
+  - name: DIAMOND CY
+    distance_km: 8.13
+  - name: PYATT
+    distance_km: 17.23
+- country: US
+  region: AR
+  name: Southside
+  lat: '35.7149'
+  long: "-91.6328"
+  nearby_rate_centers:
+  - name: BATESVILLE
+    distance_km: 5.82
+  - name: NEWARK
+    distance_km: 17.35
+  - name: OIL TROUGH
+    distance_km: 17.92
+- country: US
+  region: AR
+  name: Sparkman
+  lat: '33.9172'
+  long: "-92.8501"
+  nearby_rate_centers:
+  - name: SPARKMAN
+    distance_km: 0.13
+  - name: DALARK
+    distance_km: 13.5
+  - name: GURDON
+    distance_km: 27.4
+- country: US
+  region: AR
+  name: Springdale
+  lat: '36.1901'
+  long: "-94.1574"
+  nearby_rate_centers:
+  - name: SPRINGDALE
+    distance_km: 2.04
+  - name: ELMSPRINGS
+    distance_km: 6.79
+  - name: FAYETTEVL
+    distance_km: 14.56
+- country: US
+  region: AR
+  name: Springfield
+  lat: '35.2729'
+  long: "-92.5549"
+  nearby_rate_centers:
+  - name: CENTER RDG
+    distance_km: 10.45
+  - name: GREENBRIER
+    distance_km: 15.66
+  - name: DAMASCUS
+    distance_km: 16.95
+- country: US
+  region: AR
+  name: Springtown
+  lat: '36.2606'
+  long: "-94.4239"
+  nearby_rate_centers:
+  - name: GENTRY
+    distance_km: 5.27
+  - name: DECATUR
+    distance_km: 8.58
+  - name: SILOAM SPG
+    distance_km: 13.57
+- country: US
+  region: AR
+  name: St. Charles
+  lat: '34.3730'
+  long: "-91.1375"
+  nearby_rate_centers:
+  - name: ST CHARLES
+    distance_km: 1.4
+  - name: DE WITT
+    distance_km: 20.23
+  - name: ALMYRA
+    distance_km: 25.66
+- country: US
+  region: AR
+  name: St. Francis
+  lat: '36.4556'
+  long: "-90.1428"
+  nearby_rate_centers:
+  - name: PIGGOTT
+    distance_km: 9.08
+  - name: POLLARD
+    distance_km: 11.27
+  - name: CARRYVILLE
+    distance_km: 11.82
+- country: US
+  region: AR
+  name: St. Joe
+  lat: '36.0290'
+  long: "-92.8078"
+  nearby_rate_centers:
+  - name: ST JOE
+    distance_km: 0.43
+  - name: WESTERNGRV
+    distance_km: 15.69
+  - name: MARSHALL
+    distance_km: 20.81
+- country: US
+  region: AR
+  name: St. Paul
+  lat: '35.8246'
+  long: "-93.7641"
+  nearby_rate_centers:
+  - name: ST PAUL
+    distance_km: 0.25
+  - name: AURORA
+    distance_km: 19.9
+  - name: DRAKES CRK
+    distance_km: 23.14
+- country: US
+  region: AR
+  name: Stamps
+  lat: '33.3568'
+  long: "-93.4955"
+  nearby_rate_centers:
+  - name: STAMPS
+    distance_km: 0.24
+  - name: LEWISVILLE
+    distance_km: 7.58
+  - name: WALDO
+    distance_km: 18.92
+- country: US
+  region: AR
+  name: Star City
+  lat: '33.9408'
+  long: "-91.8399"
+  nearby_rate_centers:
+  - name: STAR CITY
+    distance_km: 0.75
+  - name: ROWELL
+    distance_km: 17.28
+  - name: GRADY
+    distance_km: 20.28
+- country: US
+  region: AR
+  name: Staves
+  lat: '34.0310'
+  long: "-92.2780"
+  nearby_rate_centers:
+  - name: RISON
+    distance_km: 11.71
+  - name: KINGSLAND
+    distance_km: 19.41
+  - name: CARTHAGE
+    distance_km: 25.47
+- country: US
+  region: AR
+  name: Stephens
+  lat: '33.4221'
+  long: "-93.0670"
+  nearby_rate_centers:
+  - name: STEPHENS
+    distance_km: 0.48
+  - name: MCNEIL
+    distance_km: 15.32
+  - name: MOUNTHOLLY
+    distance_km: 17.65
+- country: US
+  region: AR
+  name: Strawberry
+  lat: '35.9665'
+  long: "-91.3211"
+  nearby_rate_centers:
+  - name: JESUP
+    distance_km: 5.66
+  - name: CAVE CITY
+    distance_km: 20.89
+  - name: SWIFTON
+    distance_km: 23.7
+- country: US
+  region: AR
+  name: Strong
+  lat: '33.1079'
+  long: "-92.3556"
+  nearby_rate_centers:
+  - name: STRONG
+    distance_km: 0.42
+  - name: URBANA
+    distance_km: 9.74
+  - name: HUTTIG
+    distance_km: 17.96
+- country: US
+  region: AR
+  name: Stuttgart
+  lat: '34.4952'
+  long: "-91.5487"
+  nearby_rate_centers:
+  - name: STUTTGART
+    distance_km: 0.63
+  - name: ALMYRA
+    distance_km: 15.64
+  - name: HUMPHREY
+    distance_km: 16.61
+- country: US
+  region: AR
+  name: Subiaco
+  lat: '35.2982'
+  long: "-93.6385"
+  nearby_rate_centers:
+  - name: SUBIACO
+    distance_km: 1.08
+  - name: PARIS
+    distance_km: 8.75
+  - name: SCRANTON
+    distance_km: 11.84
+- country: US
+  region: AR
+  name: Success
+  lat: '36.4545'
+  long: "-90.7226"
+  nearby_rate_centers:
+  - name: SUCCESS
+    distance_km: 0.43
+  - name: CORNING
+    distance_km: 13.33
+  - name: BIGGERS
+    distance_km: 15.95
+- country: US
+  region: AR
+  name: Sulphur Rock
+  lat: '35.7517'
+  long: "-91.5003"
+  nearby_rate_centers:
+  - name: NEWARK
+    distance_km: 7.81
+  - name: BATESVILLE
+    distance_km: 12.72
+  - name: OIL TROUGH
+    distance_km: 13.4
+- country: US
+  region: AR
+  name: Sulphur Springs
+  lat: '34.1709'
+  long: "-92.1298"
+  nearby_rate_centers:
+  - name: PINE BLUFF
+    distance_km: 12.62
+  - name: RISON
+    distance_km: 23.99
+  - name: SHERIDAN
+    distance_km: 28.54
+- country: US
+  region: AR
+  name: Summers
+  lat: '35.9834'
+  long: "-94.4866"
+  nearby_rate_centers:
+  - name: LINCOLN
+    distance_km: 7.4
+  - name: PRAIRIEGRV
+    distance_km: 15.65
+  - name: MORROW
+    distance_km: 15.76
+- country: US
+  region: AR
+  name: Summit
+  lat: '36.2522'
+  long: "-92.6886"
+  nearby_rate_centers:
+  - name: YELLVILLE
+    distance_km: 3.11
+  - name: FLIPPIN
+    distance_km: 9.1
+  - name: PYATT
+    distance_km: 14.0
+- country: US
+  region: AR
+  name: Sunset
+  lat: '35.2240'
+  long: "-90.2056"
+  nearby_rate_centers:
+  - name: MARION
+    distance_km: 0.7
+  - name: W MEMPHIS
+    distance_km: 9.05
+  - name: CRAWFODSVL
+    distance_km: 10.57
+- country: US
+  region: AR
+  name: Sweet Home
+  lat: '34.6707'
+  long: "-92.2465"
+  nearby_rate_centers:
+  - name: WRIGHTSVL
+    distance_km: 6.04
+  - name: LITTLEROCK
+    distance_km: 9.32
+  - name: SPRINGLAKE
+    distance_km: 11.03
+- country: US
+  region: AR
+  name: Swifton
+  lat: '35.8245'
+  long: "-91.1294"
+  nearby_rate_centers:
+  - name: SWIFTON
+    distance_km: 0.31
+  - name: TUCKERMAN
+    distance_km: 11.88
+  - name: CASH
+    distance_km: 17.85
+- country: US
+  region: AR
+  name: Taylor
+  lat: '33.0998'
+  long: "-93.4618"
+  nearby_rate_centers:
+  - name: TAYLOR
+    distance_km: 0.25
+  - name: NOSPRINGHL
+    distance_km: 11.36
+  - name: BRADLEY
+    distance_km: 17.62
+- country: US
+  region: AR
+  name: Texarkana
+  lat: '33.4360'
+  long: "-93.9959"
+  nearby_rate_centers:
+  - name: TEXARKANA
+    distance_km: 3.78
+  - name: TRIGG
+    distance_km: 12.79
+  - name: FOUKE
+    distance_km: 22.0
+- country: US
+  region: AR
+  name: Thornton
+  lat: '33.7756'
+  long: "-92.4889"
+  nearby_rate_centers:
+  - name: FORDYCE
+    distance_km: 7.65
+  - name: BEARDEN
+    distance_km: 12.65
+  - name: KINGSLAND
+    distance_km: 19.58
+- country: US
+  region: AR
+  name: Tillar
+  lat: '33.7109'
+  long: "-91.4517"
+  nearby_rate_centers:
+  - name: TILLAR
+    distance_km: 0.72
+  - name: MCGEHEE
+    distance_km: 10.03
+  - name: DUMAS
+    distance_km: 20.0
+- country: US
+  region: AR
+  name: Tinsman
+  lat: '33.6292'
+  long: "-92.3533"
+  nearby_rate_centers:
+  - name: BANKS
+    distance_km: 9.72
+  - name: HAMPTON
+    distance_km: 14.87
+  - name: FORDYCE
+    distance_km: 21.07
+- country: US
+  region: AR
+  name: Tollette
+  lat: '33.8181'
+  long: "-93.8969"
+  nearby_rate_centers:
+  - name: MINERALSPG
+    distance_km: 6.68
+  - name: SARATOGA
+    distance_km: 7.8
+  - name: NASHVILLE
+    distance_km: 13.39
+- country: US
+  region: AR
+  name: Tontitown
+  lat: '36.1642'
+  long: "-94.2457"
+  nearby_rate_centers:
+  - name: ELMSPRINGS
+    distance_km: 4.3
+  - name: SPRINGDALE
+    distance_km: 9.99
+  - name: FAYETTEVL
+    distance_km: 14.0
+- country: US
+  region: AR
+  name: Traskwood
+  lat: '34.4533'
+  long: "-92.6642"
+  nearby_rate_centers:
+  - name: BENTON
+    distance_km: 13.69
+  - name: BENTON1
+    distance_km: 13.69
+  - name: LONSDALE
+    distance_km: 16.46
+  - name: MALVERN
+    distance_km: 17.07
+- country: US
+  region: AR
+  name: Trumann
+  lat: '35.6770'
+  long: "-90.5259"
+  nearby_rate_centers:
+  - name: TRUMANN
+    distance_km: 1.83
+  - name: BAY
+    distance_km: 8.35
+  - name: PAYNEWAY
+    distance_km: 14.41
+- country: US
+  region: AR
+  name: Tucker
+  lat: '34.4395'
+  long: "-91.9519"
+  nearby_rate_centers:
+  - name: ENGLAND
+    distance_km: 11.56
+  - name: COY
+    distance_km: 12.62
+  - name: ALTHEIMER
+    distance_km: 17.16
+- country: US
+  region: AR
+  name: Tuckerman
+  lat: '35.7259'
+  long: "-91.2016"
+  nearby_rate_centers:
+  - name: TUCKERMAN
+    distance_km: 0.88
+  - name: SWIFTON
+    distance_km: 12.77
+  - name: GRUBBS
+    distance_km: 14.03
+- country: US
+  region: AR
+  name: Tull
+  lat: '34.4409'
+  long: "-92.5779"
+  nearby_rate_centers:
+  - name: BENTON
+    distance_km: 13.05
+  - name: BENTON1
+    distance_km: 13.05
+  - name: BAUXITE
+    distance_km: 13.58
+  - name: BAUXITE METRO
+    distance_km: 13.58
+  - name: PRATTSVL
+    distance_km: 14.71
+- country: US
+  region: AR
+  name: Tumbling Shoals
+  lat: '35.5472'
+  long: "-91.9734"
+  nearby_rate_centers:
+  - name: HEBER SPG
+    distance_km: 7.99
+  - name: CONCORD
+    distance_km: 17.63
+  - name: PANGBURN
+    distance_km: 18.32
+- country: US
+  region: AR
+  name: Tupelo
+  lat: '35.3903'
+  long: "-91.2299"
+  nearby_rate_centers:
+  - name: TUPELO
+    distance_km: 0.42
+  - name: MCCRORY
+    distance_km: 15.05
+  - name: AUGUSTA
+    distance_km: 16.62
+- country: US
+  region: AR
+  name: Turrell
+  lat: '35.3763'
+  long: "-90.2704"
+  nearby_rate_centers:
+  - name: TURRELL
+    distance_km: 1.1
+  - name: OAK ACRES
+    distance_km: 14.92
+  - name: TYRONZA
+    distance_km: 15.15
+- country: US
+  region: AR
+  name: Twin Groves
+  lat: '35.3187'
+  long: "-92.4253"
+  nearby_rate_centers:
+  - name: DAMASCUS
+    distance_km: 5.56
+  - name: GREENBRIER
+    distance_km: 10.13
+  - name: CENTER RDG
+    distance_km: 13.99
+- country: US
+  region: AR
+  name: Tyronza
+  lat: '35.4868'
+  long: "-90.3560"
+  nearby_rate_centers:
+  - name: TYRONZA
+    distance_km: 0.66
+  - name: OAK ACRES
+    distance_km: 6.14
+  - name: MARKEDTREE
+    distance_km: 7.34
+- country: US
+  region: AR
+  name: Ulm
+  lat: '34.5762'
+  long: "-91.4617"
+  nearby_rate_centers:
+  - name: ROE
+    distance_km: 8.83
+  - name: STUTTGART
+    distance_km: 11.9
+  - name: CLARENDON
+    distance_km: 18.89
+- country: US
+  region: AR
+  name: Uniontown
+  lat: '35.5853'
+  long: "-94.4469"
+  nearby_rate_centers:
+  - name: NATURALDAM
+    distance_km: 9.07
+  - name: VAN BUREN
+    distance_km: 18.79
+  - name: FORT SMITH
+    distance_km: 22.7
+- country: US
+  region: AR
+  name: Urbana
+  lat: '33.1585'
+  long: "-92.4453"
+  nearby_rate_centers:
+  - name: URBANA
+    distance_km: 0.36
+  - name: STRONG
+    distance_km: 9.65
+  - name: CALION
+    distance_km: 20.62
+- country: US
+  region: AR
+  name: Valley Springs
+  lat: '36.1537'
+  long: "-92.9896"
+  nearby_rate_centers:
+  - name: WESTERNGRV
+    distance_km: 6.71
+  - name: HARRISON
+    distance_km: 13.93
+  - name: PYATT
+    distance_km: 16.77
+- country: US
+  region: AR
+  name: Van Buren
+  lat: '35.4483'
+  long: "-94.3528"
+  nearby_rate_centers:
+  - name: VAN BUREN
+    distance_km: 1.45
+  - name: FORT SMITH
+    distance_km: 9.27
+  - name: ALMA
+    distance_km: 11.94
+- country: US
+  region: AR
+  name: Vandervoort
+  lat: '34.3800'
+  long: "-94.3643"
+  nearby_rate_centers:
+  - name: COVE
+    distance_km: 7.37
+  - name: WICKES
+    distance_km: 9.15
+  - name: HATFIELD
+    distance_km: 11.67
+- country: US
+  region: AR
+  name: Vanndale
+  lat: '35.3153'
+  long: "-90.7711"
+  nearby_rate_centers:
+  - name: CHERRY VLY
+    distance_km: 9.35
+  - name: WYNNE
+    distance_km: 10.02
+  - name: PARKIN
+    distance_km: 19.9
+- country: US
+  region: AR
+  name: Victoria
+  lat: '35.7574'
+  long: "-90.0602"
+  nearby_rate_centers:
+  - name: KEISER
+    distance_km: 9.63
+  - name: OSCEOLA
+    distance_km: 10.79
+  - name: LUXORA
+    distance_km: 11.41
+- country: US
+  region: AR
+  name: Vilonia
+  lat: '35.0807'
+  long: "-92.2088"
+  nearby_rate_centers:
+  - name: VILONIA
+    distance_km: 0.75
+  - name: ENOLA
+    distance_km: 12.54
+  - name: CABOT
+    distance_km: 21.76
+- country: US
+  region: AR
+  name: Viola
+  lat: '36.3968'
+  long: "-91.9863"
+  nearby_rate_centers:
+  - name: VIOLA
+    distance_km: 1.33
+  - name: SALEM
+    distance_km: 14.43
+  - name: OXFORD
+    distance_km: 20.66
+- country: US
+  region: AR
+  name: Violet Hill
+  lat: '36.1529'
+  long: "-91.8398"
+  nearby_rate_centers:
+  - name: FRANKLIN
+    distance_km: 5.08
+  - name: OXFORD
+    distance_km: 10.85
+  - name: HORSEHBEND
+    distance_km: 11.04
+- country: US
+  region: AR
+  name: Wabbaseka
+  lat: '34.3592'
+  long: "-91.7928"
+  nearby_rate_centers:
+  - name: ALTHEIMER
+    distance_km: 6.48
+  - name: HUMPHREY
+    distance_km: 10.55
+  - name: COY
+    distance_km: 20.96
+- country: US
+  region: AR
+  name: Walcott
+  lat: '36.0454'
+  long: "-90.6722"
+  nearby_rate_centers:
+  - name: PARAGOULD
+    distance_km: 16.36
+  - name: DELAPLAINE
+    distance_km: 21.71
+  - name: JONESBORO
+    distance_km: 23.87
+- country: US
+  region: AR
+  name: Waldenburg
+  lat: '35.5652'
+  long: "-90.9346"
+  nearby_rate_centers:
+  - name: WALDENBURG
+    distance_km: 0.31
+  - name: WEINER
+    distance_km: 6.48
+  - name: FISHER
+    distance_km: 8.95
+- country: US
+  region: AR
+  name: Waldo
+  lat: '33.3524'
+  long: "-93.2956"
+  nearby_rate_centers:
+  - name: WALDO
+    distance_km: 0.35
+  - name: MCNEIL
+    distance_km: 8.09
+  - name: MAGNOLIA
+    distance_km: 10.74
+- country: US
+  region: AR
+  name: Waldron
+  lat: '34.9022'
+  long: "-94.0953"
+  nearby_rate_centers:
+  - name: WALDRON
+    distance_km: 1.36
+  - name: LAKEHINKLE
+    distance_km: 9.9
+  - name: BOLES
+    distance_km: 14.85
+- country: US
+  region: AR
+  name: Walnut Ridge
+  lat: '36.0848'
+  long: "-90.9467"
+  nearby_rate_centers:
+  - name: WALNUT RDG
+    distance_km: 2.43
+  - name: BLACK ROCK
+    distance_km: 13.76
+  - name: POCAHONTAS
+    distance_km: 19.3
+- country: US
+  region: AR
+  name: Ward
+  lat: '35.0117'
+  long: "-91.9577"
+  nearby_rate_centers:
+  - name: CABOT
+    distance_km: 7.27
+  - name: BEEBE
+    distance_km: 9.26
+  - name: MCRAE
+    distance_km: 17.05
+- country: US
+  region: AR
+  name: Warm Springs
+  lat: '36.4831'
+  long: "-91.0490"
+  nearby_rate_centers:
+  - name: MAYNARD
+    distance_km: 15.02
+  - name: SO MYRTLE
+    distance_km: 17.98
+  - name: POCAHONTAS
+    distance_km: 26.16
+- country: US
+  region: AR
+  name: Warren
+  lat: '33.6113'
+  long: "-92.0678"
+  nearby_rate_centers:
+  - name: WARREN
+    distance_km: 0.74
+  - name: WILMAR
+    distance_km: 13.31
+  - name: BANKS
+    distance_km: 18.45
+- country: US
+  region: AR
+  name: Washington
+  lat: '33.7730'
+  long: "-93.6833"
+  nearby_rate_centers:
+  - name: WASHINGTON
+    distance_km: 0.12
+  - name: HOPE
+    distance_km: 14.29
+  - name: BLEVINS
+    distance_km: 14.36
+- country: US
+  region: AR
+  name: Watson
+  lat: '33.8940'
+  long: "-91.2566"
+  nearby_rate_centers:
+  - name: WATSON
+    distance_km: 0.85
+  - name: DUMAS
+    distance_km: 22.6
+  - name: TILLAR
+    distance_km: 26.56
+- country: US
+  region: AR
+  name: Wayton
+  lat: '35.9103'
+  long: "-93.2544"
+  nearby_rate_centers:
+  - name: DEER
+    distance_km: 9.58
+  - name: JASPER
+    distance_km: 12.62
+  - name: PONCA
+    distance_km: 15.84
+- country: US
+  region: AR
+  name: Weiner
+  lat: '35.6197'
+  long: "-90.9054"
+  nearby_rate_centers:
+  - name: WEINER
+    distance_km: 0.84
+  - name: WALDENBURG
+    distance_km: 6.32
+  - name: FISHER
+    distance_km: 15.56
+- country: US
+  region: AR
+  name: Weldon
+  lat: '35.4479'
+  long: "-91.2315"
+  nearby_rate_centers:
+  - name: TUPELO
+    distance_km: 6.08
+  - name: NEWPORT
+    distance_km: 18.37
+  - name: BRADFORD
+    distance_km: 19.91
+- country: US
+  region: AR
+  name: Wesley
+  lat: '36.0290'
+  long: "-93.9165"
+  nearby_rate_centers:
+  - name: DRAKES CRK
+    distance_km: 4.62
+  - name: ELKINS
+    distance_km: 8.76
+  - name: HINDSVILLE
+    distance_km: 13.24
+- country: US
+  region: AR
+  name: West Crossett
+  lat: '33.1488'
+  long: "-92.0221"
+  nearby_rate_centers:
+  - name: CROSSETT
+    distance_km: 6.39
+  - name: HUTTIG
+    distance_km: 20.0
+  - name: HAMBURG
+    distance_km: 22.73
+- country: US
+  region: AR
+  name: West Fork
+  lat: '35.9355'
+  long: "-94.1800"
+  nearby_rate_centers:
+  - name: WEST FORK
+    distance_km: 1.62
+  - name: PRAIRIEGRV
+    distance_km: 12.57
+  - name: FARMINGTON
+    distance_km: 12.58
+- country: US
+  region: AR
+  name: West Memphis
+  lat: '35.1530'
+  long: "-90.1996"
+  nearby_rate_centers:
+  - name: W MEMPHIS
+    distance_km: 2.88
+  - name: MARION
+    distance_km: 7.3
+  - name: CRAWFODSVL
+    distance_km: 13.77
+- country: US
+  region: AR
+  name: West Point
+  lat: '35.2034'
+  long: "-91.6100"
+  nearby_rate_centers:
+  - name: KENSETT
+    distance_km: 6.55
+  - name: JUDSONIA
+    distance_km: 8.6
+  - name: GRIFFITHVL
+    distance_km: 9.34
+- country: US
+  region: AR
+  name: Western Grove
+  lat: '36.1011'
+  long: "-92.9546"
+  nearby_rate_centers:
+  - name: WESTERNGRV
+    distance_km: 0.56
+  - name: ST JOE
+    distance_km: 15.08
+  - name: PYATT
+    distance_km: 19.17
+- country: US
+  region: AR
+  name: Wheatley
+  lat: '34.9212'
+  long: "-91.1063"
+  nearby_rate_centers:
+  - name: WHEATLEY
+    distance_km: 1.09
+  - name: BRINKLEY
+    distance_km: 9.46
+  - name: COTTONPLNT
+    distance_km: 16.25
+- country: US
+  region: AR
+  name: Whelen Springs
+  lat: '33.8331'
+  long: "-93.1260"
+  nearby_rate_centers:
+  - name: GURDON
+    distance_km: 9.53
+  - name: CHIDESTER
+    distance_km: 17.98
+  - name: PRESCOTT
+    distance_km: 24.26
+- country: US
+  region: AR
+  name: White Hall
+  lat: '34.2741'
+  long: "-92.1006"
+  nearby_rate_centers:
+  - name: PINE BLUFF
+    distance_km: 10.24
+  - name: REDFIELD
+    distance_km: 20.09
+  - name: ALTHEIMER
+    distance_km: 24.39
+- country: US
+  region: AR
+  name: Wickes
+  lat: '34.2988'
+  long: "-94.3331"
+  nearby_rate_centers:
+  - name: WICKES
+    distance_km: 0.34
+  - name: GILLHAM
+    distance_km: 14.87
+  - name: COVE
+    distance_km: 16.68
+- country: US
+  region: AR
+  name: Widener
+  lat: '35.0233'
+  long: "-90.6818"
+  nearby_rate_centers:
+  - name: FORREST CY
+    distance_km: 9.44
+  - name: HUGHES
+    distance_km: 21.28
+  - name: WYNNE
+    distance_km: 24.31
+- country: US
+  region: AR
+  name: Wiederkehr Village
+  lat: '35.4817'
+  long: "-93.7577"
+  nearby_rate_centers:
+  - name: ALTUS
+    distance_km: 3.63
+  - name: OZARK
+    distance_km: 7.69
+  - name: HARTMAN
+    distance_km: 14.45
+- country: US
+  region: AR
+  name: Wilburn
+  lat: '35.5087'
+  long: "-91.8884"
+  nearby_rate_centers:
+  - name: PANGBURN
+    distance_km: 10.26
+  - name: HEBER SPG
+    distance_km: 13.14
+  - name: CONCORD
+    distance_km: 18.06
+- country: US
+  region: AR
+  name: Williford
+  lat: '36.2518'
+  long: "-91.3605"
+  nearby_rate_centers:
+  - name: OZARKACRES
+    distance_km: 0.16
+  - name: HARDY
+    distance_km: 13.24
+  - name: CHEROKEVLG
+    distance_km: 15.23
+- country: US
+  region: AR
+  name: Willisville
+  lat: '33.5194'
+  long: "-93.2949"
+  nearby_rate_centers:
+  - name: ROSSTON
+    distance_km: 4.61
+  - name: BODCAW
+    distance_km: 11.58
+  - name: WALDO
+    distance_km: 18.57
+- country: US
+  region: AR
+  name: Wilmar
+  lat: '33.6264'
+  long: "-91.9294"
+  nearby_rate_centers:
+  - name: WILMAR
+    distance_km: 0.96
+  - name: WARREN
+    distance_km: 12.5
+  - name: MONTICELLO
+    distance_km: 13.68
+- country: US
+  region: AR
+  name: Wilmot
+  lat: '33.0588'
+  long: "-91.5749"
+  nearby_rate_centers:
+  - name: WILMOT
+    distance_km: 1.31
+  - name: PORTLAND
+    distance_km: 21.52
+  - name: HAMBURG
+    distance_km: 28.37
+- country: US
+  region: AR
+  name: Wilson
+  lat: '35.5661'
+  long: "-90.0430"
+  nearby_rate_centers:
+  - name: WILSON
+    distance_km: 0.12
+  - name: JOINER
+    distance_km: 11.66
+  - name: KEISER
+    distance_km: 13.21
+- country: US
+  region: AR
+  name: Wilton
+  lat: '33.7388'
+  long: "-94.1480"
+  nearby_rate_centers:
+  - name: ASHDOWN
+    distance_km: 7.5
+  - name: WINTHROP
+    distance_km: 21.25
+  - name: FOREMAN
+    distance_km: 22.52
+- country: US
+  region: AR
+  name: Winchester
+  lat: '33.7741'
+  long: "-91.4737"
+  nearby_rate_centers:
+  - name: TILLAR
+    distance_km: 6.69
+  - name: DUMAS
+    distance_km: 12.7
+  - name: MCGEHEE
+    distance_km: 17.26
+- country: US
+  region: AR
+  name: Winslow
+  lat: '35.8008'
+  long: "-94.1304"
+  nearby_rate_centers:
+  - name: WINSLOW
+    distance_km: 0.12
+  - name: WEST FORK
+    distance_km: 14.61
+  - name: STRICKLER
+    distance_km: 16.19
+- country: US
+  region: AR
+  name: Winthrop
+  lat: '33.8308'
+  long: "-94.3542"
+  nearby_rate_centers:
+  - name: WINTHROP
+    distance_km: 0.56
+  - name: FOREMAN
+    distance_km: 12.05
+  - name: HORATIO
+    distance_km: 12.63
+- country: US
+  region: AR
+  name: Witts Springs
+  lat: '35.7696'
+  long: "-92.8769"
+  nearby_rate_centers:
+  - name: WITTS SPG
+    distance_km: 1.15
+  - name: LURTON
+    distance_km: 18.0
+  - name: MOUNTJUDEA
+    distance_km: 22.54
+- country: US
+  region: AR
+  name: Woodlawn
+  lat: '33.9668'
+  long: "-92.0452"
+  nearby_rate_centers:
+  - name: ROWELL
+    distance_km: 9.72
+  - name: RISON
+    distance_km: 12.84
+  - name: STAR CITY
+    distance_km: 18.41
+- country: US
+  region: AR
+  name: Woodson
+  lat: '34.5380'
+  long: "-92.2211"
+  nearby_rate_centers:
+  - name: WRIGHTSVL
+    distance_km: 8.9
+  - name: REDFIELD
+    distance_km: 11.32
+  - name: SPRINGLAKE
+    distance_km: 11.59
+- country: US
+  region: AR
+  name: Wooster
+  lat: '35.1998'
+  long: "-92.4503"
+  nearby_rate_centers:
+  - name: GREENBRIER
+    distance_km: 6.58
+  - name: CONWAY
+    distance_km: 13.13
+  - name: DAMASCUS
+    distance_km: 18.94
+- country: US
+  region: AR
+  name: Wrightsville
+  lat: '34.6109'
+  long: "-92.2136"
+  nearby_rate_centers:
+  - name: WRIGHTSVL
+    distance_km: 2.07
+  - name: SPRINGLAKE
+    distance_km: 10.43
+  - name: SCOTT
+    distance_km: 14.07
+- country: US
+  region: AR
+  name: Wynne
+  lat: '35.2322'
+  long: "-90.7897"
+  nearby_rate_centers:
+  - name: WYNNE
+    distance_km: 0.95
+  - name: CHERRY VLY
+    distance_km: 18.74
+  - name: PARKIN
+    distance_km: 21.13
+- country: US
+  region: AR
+  name: Yarborough Landing
+  lat: '33.7126'
+  long: "-94.0112"
+  nearby_rate_centers:
+  - name: SARATOGA
+    distance_km: 11.02
+  - name: ASHDOWN
+    distance_km: 11.32
+  - name: MINERALSPG
+    distance_km: 20.13
+- country: US
+  region: AR
+  name: Yellville
+  lat: '36.2289'
+  long: "-92.6860"
+  nearby_rate_centers:
+  - name: YELLVILLE
+    distance_km: 0.53
+  - name: FLIPPIN
+    distance_km: 10.17
+  - name: PYATT
+    distance_km: 14.4
+- country: US
+  region: AR
+  name: Zinc
+  lat: '36.2836'
+  long: "-92.9147"
+  nearby_rate_centers:
+  - name: PYATT
+    distance_km: 7.38
+  - name: LEAD HILL
+    distance_km: 13.75
+  - name: HARRISON
+    distance_km: 18.19

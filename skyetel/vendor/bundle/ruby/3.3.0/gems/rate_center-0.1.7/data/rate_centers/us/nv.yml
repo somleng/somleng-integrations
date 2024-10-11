@@ -1,0 +1,2417 @@
+---
+rate_centers:
+- country: US
+  region: NV
+  exchange: '345064'
+  name: ADAM PEAK
+  full_name: Adam Peak
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '130670'
+  name: ALAMO
+  full_name: Alamo
+  lata: '720'
+  ilec_name: LINCOLN COUNTY TEL. SYSTEM, INC.
+  lat: '37.362436'
+  long: "-115.167031"
+  closest_city:
+    name: Alamo
+    distance_km: 1.63
+- country: US
+  region: NV
+  exchange: '345066'
+  name: ALDERCREEK
+  full_name: Alder Creek
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345067'
+  name: ALTA CREEK
+  full_name: Alta Creek
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345252'
+  name: AMARGSAVLY
+  full_name: Amargosa Valley
+  lata: '721'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345068'
+  name: ANTELOPEVY
+  full_name: Antelope Valley
+  lata: '720'
+  ilec_name: RURAL TEL CO
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345069'
+  name: ARGENTA
+  full_name: Argenta
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '130680'
+  name: AUSTIN
+  full_name: Austin
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.491415'
+  long: "-117.075559"
+  closest_city:
+    name: Austin
+    distance_km: 0.7
+- country: US
+  region: NV
+  exchange: '130690'
+  name: BAKER
+  full_name: Baker
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.001965'
+  long: "-114.126805"
+  closest_city:
+    name: Baker
+    distance_km: 1.48
+- country: US
+  region: NV
+  exchange: '345072'
+  name: BARTH
+  full_name: Barth
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '130700'
+  name: BATTLE MT
+  full_name: Battle Mountain
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '40.641424'
+  long: "-116.932437"
+  closest_city:
+    name: Battle Mountain
+    distance_km: 2.08
+- country: US
+  region: NV
+  exchange: '130710'
+  name: BEATTY
+  full_name: Beatty
+  lata: '721'
+  ilec_name: NEVADA BELL
+  lat: '36.908663'
+  long: "-116.755392"
+  closest_city:
+    name: Beatty
+    distance_km: 4.72
+- country: US
+  region: NV
+  exchange: '345074'
+  name: BEOWAWE
+  full_name: Beowawe
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345075'
+  name: BIG CREEK
+  full_name: Big Creek
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '130720'
+  name: BLUEDIAMND
+  full_name: Blue Diamond
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat: '36.057186'
+  long: "-115.399112"
+  closest_city:
+    name: Blue Diamond
+    distance_km: 2.27
+- country: US
+  region: NV
+  exchange: '345076'
+  name: BOG HOT
+  full_name: Bog Hot
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345077'
+  name: BOTTLE CRK
+  full_name: Bottle Creek
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '130730'
+  name: BOULDER CY
+  full_name: Boulder City
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat: '35.976207'
+  long: "-114.831698"
+  closest_city:
+    name: Boulder City
+    distance_km: 17.28
+- country: US
+  region: NV
+  exchange: '342524'
+  name: BUNKERVL
+  full_name: Bunkerville
+  lata: '660'
+  ilec_name: RIO VIRGIN TEL. CO., INC.
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '130740'
+  name: BURBANK
+  full_name: Burbank
+  lata: '720'
+  ilec_name: BEEHIVE TELEPHONE CO., INC. -  NEVADA
+  lat: '39.011426'
+  long: "-114.568303"
+  closest_city:
+    name: Ely
+    distance_km: 38.41
+- country: US
+  region: NV
+  exchange: '345255'
+  name: CACTUS SPG
+  full_name: Cactus Springs
+  lata: '721'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345256'
+  name: CALICO BSN
+  full_name: Calico Basin
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '130750'
+  name: CALIENTE
+  full_name: Caliente
+  lata: '720'
+  ilec_name: LINCOLN COUNTY TEL. SYSTEM, INC.
+  lat: '37.610116'
+  long: "-114.508708"
+  closest_city:
+    name: Caliente
+    distance_km: 4.21
+- country: US
+  region: NV
+  exchange: '345257'
+  name: CALLVL BAY
+  full_name: Callville Bay
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '130760'
+  name: CARLIN
+  full_name: Carlin
+  lata: '720'
+  ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
+  lat: '40.716297'
+  long: "-116.108885"
+  closest_city:
+    name: Carlin
+    distance_km: 0.31
+- country: US
+  region: NV
+  exchange: '130770'
+  name: CARSONCITY
+  full_name: Carson City
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.177083'
+  long: "-119.765442"
+  closest_city:
+    name: Carson City
+    distance_km: 3.27
+- country: US
+  region: NV
+  exchange: '130780'
+  name: CARSON PL
+  full_name: Carson Plains
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.304958'
+  long: "-119.523085"
+  closest_city:
+    name: Dayton
+    distance_km: 6.25
+- country: US
+  region: NV
+  exchange: '345085'
+  name: CASELTON
+  full_name: Caselton
+  lata: '720'
+  ilec_name: LINCOLN COUNTY TEL. SYSTEM, INC.
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345086'
+  name: CAVE ROCK
+  full_name: Cave Rock
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345087'
+  name: CHINAGARDN
+  full_name: China Garden
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345088'
+  name: CHURCHILL
+  full_name: Churchill
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345089'
+  name: CHURCHLBTE
+  full_name: Churchill Butte
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345258'
+  name: CITYCENTER
+  full_name: City Center
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345259'
+  name: COLD CREEK
+  full_name: Cold Creek
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345090'
+  name: COLD SPG
+  full_name: Cold Springs
+  lata: '720'
+  ilec_name: CHURCHILL COUNTY TELEPHONE DBA CC COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345260'
+  name: CORN CREEK
+  full_name: Corn Creek
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345091'
+  name: CORTEZ
+  full_name: Cortez
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345261'
+  name: COTTONWDCV
+  full_name: Cottonwood Cove
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '130800'
+  name: COTNWD CRK
+  full_name: Cottonwood Creek
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.763266'
+  long: "-119.599956"
+  closest_city:
+    name: Spanish Springs
+    distance_km: 13.25
+- country: US
+  region: NV
+  exchange: '345093'
+  name: COVE CREEK
+  full_name: Cove Creek
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '219420'
+  name: COYOTE SPG
+  full_name: Coyote Springs
+  lata: '721'
+  ilec_name: LINCOLN COUNTY TEL. SYSTEM, INC.
+  lat: '36.824794'
+  long: "-114.910341"
+  closest_city:
+    name: Moapa Town
+    distance_km: 28.56
+- country: US
+  region: NV
+  exchange: '130810'
+  name: CRESCNTVLY
+  full_name: Crescent Valley
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '40.420499'
+  long: "-116.600989"
+  closest_city:
+    name: Crescent Valley
+    distance_km: 2.18
+- country: US
+  region: NV
+  exchange: '130820'
+  name: CRYSTALBAY
+  full_name: Crystal Bay
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.222877'
+  long: "-120.00183"
+  closest_city:
+    name: Crystal Bay
+    distance_km: 0.95
+- country: US
+  region: NV
+  exchange: '345096'
+  name: CURRANT
+  full_name: Currant
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345097'
+  name: DAVEYTOWN
+  full_name: Daveytown
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '130771'
+  name: DAYTON
+  full_name: Dayton
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.177083'
+  long: "-119.765442"
+  closest_city:
+    name: Carson City
+    distance_km: 3.27
+- country: US
+  region: NV
+  exchange: '345100'
+  name: DEER CREEK
+  full_name: Deer Creek (Humboldt)
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345101'
+  name: DEETH
+  full_name: Deeth
+  lata: '720'
+  ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '130830'
+  name: DENIO
+  full_name: Denio
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat: '41.766282'
+  long: "-118.730628"
+  closest_city:
+    name: Denio
+    distance_km: 25.92
+- country: US
+  region: NV
+  exchange: '130840'
+  name: DESERT VLY
+  full_name: Desert Valley
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat: '41.50569'
+  long: "-118.123278"
+  closest_city:
+    name: Orovada
+    distance_km: 25.42
+- country: US
+  region: NV
+  exchange: '345104'
+  name: DIAMONDVLY
+  full_name: Diamond Valley
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345105'
+  name: DIXIE  VLY
+  full_name: Dixie Valley
+  lata: '720'
+  ilec_name: CHURCHILL COUNTY TELEPHONE DBA CC COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345106'
+  name: DUCKWATER
+  full_name: Duckwater
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '130850'
+  name: DCKWTRCRNT
+  full_name: Duckwater-Currant-Nyala
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '38.899534'
+  long: "-115.68982"
+  closest_city:
+    name: Preston
+    distance_km: 54.2
+- country: US
+  region: NV
+  exchange: '345107'
+  name: DUTCH FLAT
+  full_name: Dutch Flat
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345108'
+  name: DYER
+  full_name: Dyer
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345109'
+  name: EDGEWOOD
+  full_name: Edgewood
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '130860'
+  name: ELKO
+  full_name: Elko
+  lata: '720'
+  ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
+  lat: '40.833907'
+  long: "-115.757501"
+  closest_city:
+    name: Elko
+    distance_km: 0.98
+- country: US
+  region: NV
+  exchange: '345111'
+  name: ELKPOINT
+  full_name: Elkpoint
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '130870'
+  name: ELY
+  full_name: Ely
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.248261'
+  long: "-114.882999"
+  closest_city:
+    name: Ely
+    distance_km: 2.14
+- country: US
+  region: NV
+  exchange: '345113'
+  name: EMIGRANTPS
+  full_name: Emigrant Pass
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '130880'
+  name: EMPIRE
+  full_name: Empire
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '40.566462'
+  long: "-119.34724"
+  closest_city:
+    name: Empire
+    distance_km: 1.11
+- country: US
+  region: NV
+  exchange: '345263'
+  name: ENTERPRISE
+  full_name: Enterprise
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345116'
+  name: EUREKAARPT
+  full_name: Eureka Airport
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '130890'
+  name: EUREKA
+  full_name: Eureka-Diamond Valley
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.516809'
+  long: "-115.95758"
+  closest_city:
+    name: Eureka
+    distance_km: 0.94
+- country: US
+  region: NV
+  exchange: '345117'
+  name: EVANSCREEK
+  full_name: Evans Creek
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '130900'
+  name: FALLON
+  full_name: Fallon
+  lata: '720'
+  ilec_name: CHURCHILL COUNTY TELEPHONE DBA CC COMMUNICATIONS
+  lat: '39.476816'
+  long: "-118.77536"
+  closest_city:
+    name: Fallon
+    distance_km: 0.41
+- country: US
+  region: NV
+  exchange: '130910'
+  name: FERNLEY
+  full_name: Fernley
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.601855'
+  long: "-119.226078"
+  closest_city:
+    name: Fernley
+    distance_km: 5.31
+- country: US
+  region: NV
+  exchange: '130920'
+  name: FISHLK VLY
+  full_name: Fish Lake Valley
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '37.678974'
+  long: "-118.058189"
+  closest_city:
+    name: Dyer
+    distance_km: 4.13
+- country: US
+  region: NV
+  exchange: '345121'
+  name: FTCHURCHIL
+  full_name: Fort Churchill
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '130930'
+  name: GABBS
+  full_name: Gabbs
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '38.857258'
+  long: "-117.93275"
+  closest_city:
+    name: Gabbs
+    distance_km: 0.54
+- country: US
+  region: NV
+  exchange: '345123'
+  name: GALGHERFLT
+  full_name: Gallagher Flat
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '130940'
+  name: GARDNERVL
+  full_name: Gardnerville
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat: '38.951457'
+  long: "-119.762158"
+  closest_city:
+    name: Minden
+    distance_km: 1.41
+- country: US
+  region: NV
+  exchange: '130941'
+  name: GRDNVL RS
+  full_name: Gardnerville Ranchos
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345125'
+  name: GENOA
+  full_name: Genoa
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345126'
+  name: GERLACH
+  full_name: Gerlach
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '130950'
+  name: GLENBROOK
+  full_name: Glenbrook
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat: '39.075375'
+  long: "-119.949077"
+  closest_city:
+    name: Logan Creek
+    distance_km: 2.21
+- country: US
+  region: NV
+  exchange: '130960'
+  name: GLENDALE
+  full_name: Glendale
+  lata: '721'
+  ilec_name: MOAPA VALLEY TEL. CO.
+  lat: '36.662042'
+  long: "-114.577958"
+  closest_city:
+    name: Moapa Town
+    distance_km: 6.16
+- country: US
+  region: NV
+  exchange: '345128'
+  name: GOLCONDA
+  full_name: Golconda
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345129'
+  name: GOLD HILL
+  full_name: Gold Hill
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '130970'
+  name: GOLDFIELD
+  full_name: Goldfield
+  lata: '720'
+  ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
+  lat: '37.712679'
+  long: "-117.232157"
+  closest_city:
+    name: Goldfield
+    distance_km: 0.5
+- country: US
+  region: NV
+  exchange: '345265'
+  name: GOODSPRIGS
+  full_name: Goodsprings
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '130980'
+  name: GOSHUTE
+  full_name: Goshute
+  lata: '720'
+  ilec_name: BEEHIVE TELEPHONE CO., INC. -  NEVADA
+  lat: '40.039181'
+  long: "-114.314423"
+  closest_city:
+    name: West Wendover
+    distance_km: 80.53
+- country: US
+  region: NV
+  exchange: '345133'
+  name: HAMMNDRNCH
+  full_name: Hammond Ranch
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345134'
+  name: HAPPYCREEK
+  full_name: Happy Creek
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '130990'
+  name: HAWTHORNE
+  full_name: Hawthorne
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '38.524287'
+  long: "-118.624748"
+  closest_city:
+    name: Hawthorne
+    distance_km: 0.16
+- country: US
+  region: NV
+  exchange: '345136'
+  name: HAZEN
+  full_name: Hazen
+  lata: '720'
+  ilec_name: CHURCHILL COUNTY TELEPHONE DBA CC COMMUNICATIONS
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131000'
+  name: HENDERSON
+  full_name: Henderson
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat: '36.032382'
+  long: "-114.985019"
+  closest_city:
+    name: Henderson
+    distance_km: 5.22
+- country: US
+  region: NV
+  exchange: '345137'
+  name: HIKO
+  full_name: Hiko
+  lata: '720'
+  ilec_name: LINCOLN COUNTY TEL. SYSTEM, INC.
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131010'
+  name: IMLAY
+  full_name: Imlay
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '40.66428'
+  long: "-118.148509"
+  closest_city:
+    name: Imlay
+    distance_km: 0.78
+- country: US
+  region: NV
+  exchange: '130821'
+  name: INCLINEVLG
+  full_name: Incline Village
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345140'
+  name: INDIAN CRK
+  full_name: Indian Creek
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131020'
+  name: INDIAN SPG
+  full_name: Indian Springs
+  lata: '721'
+  ilec_name: NEVADA BELL
+  lat: '36.582578'
+  long: "-115.675142"
+  closest_city:
+    name: Indian Springs
+    distance_km: 4.21
+- country: US
+  region: NV
+  exchange: '345268'
+  name: INDNSPGAFB
+  full_name: Indian Springs Air Force Base
+  lata: '721'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131030'
+  name: JACKPOT
+  full_name: Jackpot
+  lata: '652'
+  ilec_name: FILER MUTUAL TEL CO
+  lat: '41.983629'
+  long: "-114.674904"
+  closest_city:
+    name: Jackpot
+    distance_km: 0.96
+- country: US
+  region: NV
+  exchange: '130942'
+  name: JACKS VLY
+  full_name: Jacks Valley
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345142'
+  name: JACKSONCRK
+  full_name: Jackson Creek
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131040'
+  name: JARBIDGE
+  full_name: Jarbidge
+  lata: '652'
+  ilec_name: RURAL TEL CO
+  lat: '41.836675'
+  long: "-115.391059"
+  closest_city:
+    name: Mountain City
+    distance_km: 47.41
+- country: US
+  region: NV
+  exchange: '131050'
+  name: JEAN
+  full_name: Jean
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat: '35.775748'
+  long: "-115.327412"
+  closest_city:
+    name: Goodsprings
+    distance_km: 11.55
+- country: US
+  region: NV
+  exchange: '345143'
+  name: JIGGS
+  full_name: Jiggs
+  lata: '720'
+  ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345144'
+  name: KINGSRIVER
+  full_name: Kings River
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345145'
+  name: KNOTTCREEK
+  full_name: Knott Creek
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345146'
+  name: LAGES
+  full_name: Lages
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131060'
+  name: LAKE MEAD
+  full_name: Lake Mead
+  lata: '721'
+  ilec_name: MOAPA VALLEY TEL. CO.
+  lat: '36.391132'
+  long: "-114.430149"
+  closest_city:
+    name: Moapa Valley
+    distance_km: 24.21
+- country: US
+  region: NV
+  exchange: '131070'
+  name: LAKEVALLEY
+  full_name: Lake Valley
+  lata: '720'
+  ilec_name: LINCOLN COUNTY TEL. SYSTEM, INC.
+  lat: '38.373704'
+  long: "-114.551627"
+  closest_city:
+    name: Mount Wilson
+    distance_km: 17.77
+- country: US
+  region: NV
+  exchange: '345148'
+  name: LAMOILLE
+  full_name: Lamoille
+  lata: '720'
+  ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345149'
+  name: LANE CITY
+  full_name: Lane City
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131080'
+  name: LAS VEGAS
+  full_name: Las Vegas
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat: '36.168333'
+  long: "-115.142596"
+  closest_city:
+    name: Winchester
+    distance_km: 3.58
+- country: US
+  region: NV
+  exchange: '131090'
+  name: LATHROWLLS
+  full_name: Lathrop Wells
+  lata: '721'
+  ilec_name: NEVADA BELL
+  lat: '36.659936'
+  long: "-116.39255"
+  closest_city:
+    name: Amargosa Valley
+    distance_km: 15.59
+- country: US
+  region: NV
+  exchange: '131100'
+  name: LAUGHLIN
+  full_name: Laughlin
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat: '35.173404'
+  long: "-114.575131"
+  closest_city:
+    name: Laughlin
+    distance_km: 5.55
+- country: US
+  region: NV
+  exchange: '345150'
+  name: LEE
+  full_name: Lee
+  lata: '720'
+  ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131110'
+  name: LEE JIGGS
+  full_name: Lee-Jiggs
+  lata: '720'
+  ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
+  lat: '40.547307'
+  long: "-115.663431"
+  closest_city:
+    name: Spring Creek
+    distance_km: 22.66
+- country: US
+  region: NV
+  exchange: '345274'
+  name: LEESCANYON
+  full_name: Lees Canyon
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345152'
+  name: LEONARDCRK
+  full_name: Leonard Creek
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345153'
+  name: LIDA
+  full_name: Lida
+  lata: '720'
+  ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131391'
+  name: LOCKWOOD
+  full_name: Lockwood
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.525978'
+  long: "-119.807959"
+  closest_city:
+    name: Reno
+    distance_km: 4.35
+- country: US
+  region: NV
+  exchange: '131120'
+  name: LOGANDALE
+  full_name: Logandale
+  lata: '721'
+  ilec_name: MOAPA VALLEY TEL. CO.
+  lat: '36.596046'
+  long: "-114.483885"
+  closest_city:
+    name: Moapa Valley
+    distance_km: 2.76
+- country: US
+  region: NV
+  exchange: '131130'
+  name: LOVELOCK
+  full_name: Lovelock
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '40.182737'
+  long: "-118.47625"
+  closest_city:
+    name: Lovelock
+    distance_km: 0.46
+- country: US
+  region: NV
+  exchange: '345156'
+  name: LOWERYCNYN
+  full_name: Lowery Canyon
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131140'
+  name: LUND
+  full_name: Lund
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '38.866191'
+  long: "-115.0165"
+  closest_city:
+    name: Lund
+    distance_km: 0.61
+- country: US
+  region: NV
+  exchange: '345158'
+  name: LUNING
+  full_name: Luning
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345159'
+  name: MACK CREEK
+  full_name: Mack Creek
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345160'
+  name: MAJORS PL
+  full_name: Majors Place
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131150'
+  name: MANHATTAN
+  full_name: Manhattan
+  lata: '720'
+  ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
+  lat: '38.535653'
+  long: "-117.066344"
+  closest_city:
+    name: Tonopah
+    distance_km: 52.28
+- country: US
+  region: NV
+  exchange: '345162'
+  name: MARLA BAY
+  full_name: Marla Bay
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131160'
+  name: MARYS RIV
+  full_name: Mary's River
+  lata: '720'
+  ilec_name: BEEHIVE TELEPHONE CO., INC. -  NEVADA
+  lat: '41.325905'
+  long: "-115.255491"
+  closest_city:
+    name: Wells
+    distance_km: 34.6
+- country: US
+  region: NV
+  exchange: '345164'
+  name: MASON
+  full_name: Mason
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131170'
+  name: MCDERMITT
+  full_name: McDermitt
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat: '41.993087'
+  long: "-117.719311"
+  closest_city:
+    name: McDermitt
+    distance_km: 0.34
+- country: US
+  region: NV
+  exchange: '131180'
+  name: MCGILL
+  full_name: McGill
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.409643'
+  long: "-114.771824"
+  closest_city:
+    name: McGill
+    distance_km: 0.99
+- country: US
+  region: NV
+  exchange: '131190'
+  name: MESQUITE
+  full_name: Mesquite
+  lata: '660'
+  ilec_name: RIO VIRGIN TEL. CO., INC.
+  lat: '36.801246'
+  long: "-114.060615"
+  closest_city:
+    name: Mesquite
+    distance_km: 6.45
+- country: US
+  region: NV
+  exchange: '131200'
+  name: MIDAS
+  full_name: Midas
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat: '41.242224'
+  long: "-116.806285"
+  closest_city:
+    name: Valmy
+    distance_km: 56.94
+- country: US
+  region: NV
+  exchange: '345168'
+  name: MILL CITY
+  full_name: Mill City
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131210'
+  name: MINA
+  full_name: Mina
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '38.391995'
+  long: "-118.106696"
+  closest_city:
+    name: Mina
+    distance_km: 0.48
+- country: US
+  region: NV
+  exchange: '345170'
+  name: MINDEN
+  full_name: Minden
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345276'
+  name: MOAPA
+  full_name: Moapa
+  lata: '721'
+  ilec_name: MOAPA VALLEY TEL. CO.
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345277'
+  name: MOAPA VLY
+  full_name: Moapa Valley
+  lata: '721'
+  ilec_name: MOAPA VALLEY TEL. CO.
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131220'
+  name: MONTELLO
+  full_name: Montello
+  lata: '720'
+  ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
+  lat: '41.259109'
+  long: "-114.193732"
+  closest_city:
+    name: Montello
+    distance_km: 0.93
+- country: US
+  region: NV
+  exchange: '131230'
+  name: MONTGYPASS
+  full_name: Montgomery Pass
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat: '38.009323'
+  long: "-118.27505"
+  closest_city:
+    name: Mina
+    distance_km: 44.66
+- country: US
+  region: NV
+  exchange: '345173'
+  name: MOUNDHOUSE
+  full_name: Mound House
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131240'
+  name: MTCHARLETN
+  full_name: Mount Charleston
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat: '36.257523'
+  long: "-115.651904"
+  closest_city:
+    name: Mount Charleston
+    distance_km: 3.46
+- country: US
+  region: NV
+  exchange: '131250'
+  name: MOUNTAINCY
+  full_name: Mountain City
+  lata: '652'
+  ilec_name: CENTURYTEL GEM STATE INC-NV DBA CENTURYLINK - NV
+  lat: '41.843584'
+  long: "-115.994228"
+  closest_city:
+    name: Mountain City
+    distance_km: 2.65
+- country: US
+  region: NV
+  exchange: '345278'
+  name: MOUNTN SPG
+  full_name: Mountain Springs
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131260'
+  name: NELSON
+  full_name: Nelson
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat: '35.711562'
+  long: "-114.844029"
+  closest_city:
+    name: Nelson
+    distance_km: 1.35
+- country: US
+  region: NV
+  exchange: '131270'
+  name: NIXON
+  full_name: Nixon
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.827082'
+  long: "-119.360658"
+  closest_city:
+    name: Nixon
+    distance_km: 0.18
+- country: US
+  region: NV
+  exchange: '345175'
+  name: NORDYKE
+  full_name: Nordyke
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131280'
+  name: NORTH FORK
+  full_name: North Fork
+  lata: '720'
+  ilec_name: RURAL TEL CO
+  lat: '41.638658'
+  long: "-115.803752"
+  closest_city:
+    name: Mountain City
+    distance_km: 25.76
+- country: US
+  region: NV
+  exchange: '345280'
+  name: N LASVEGAS
+  full_name: North Las Vegas
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345177'
+  name: NYALA
+  full_name: Nyala
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345178'
+  name: OASIS
+  full_name: Oasis
+  lata: '720'
+  ilec_name: BEEHIVE TELEPHONE CO., INC. -  NEVADA
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131290'
+  name: OROVADA
+  full_name: Orovada
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat: '41.557785'
+  long: "-117.791914"
+  closest_city:
+    name: Orovada
+    distance_km: 2.8
+- country: US
+  region: NV
+  exchange: '345180'
+  name: OSCEOLA
+  full_name: Osceola
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345181'
+  name: OSGOOD
+  full_name: Osgood
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131300'
+  name: OVERTON
+  full_name: Overton
+  lata: '721'
+  ilec_name: MOAPA VALLEY TEL. CO.
+  lat: '36.543168'
+  long: "-114.444719"
+  closest_city:
+    name: Moapa Valley
+    distance_km: 7.26
+- country: US
+  region: NV
+  exchange: '131310'
+  name: OWYHEE
+  full_name: Owyhee
+  lata: '652'
+  ilec_name: CENTURYTEL GEM STATE INC-NV DBA CENTURYLINK - NV
+  lat: '41.94136'
+  long: "-116.109703"
+  closest_city:
+    name: Owyhee
+    distance_km: 6.63
+- country: US
+  region: NV
+  exchange: '131320'
+  name: PAHRUMP
+  full_name: Pahrump
+  lata: '721'
+  ilec_name: NEVADA BELL
+  lat: '36.208382'
+  long: "-115.991422"
+  closest_city:
+    name: Pahrump
+    distance_km: 1.76
+- country: US
+  region: NV
+  exchange: '345182'
+  name: PAIUTE MDW
+  full_name: Paiute Meadows
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131330'
+  name: PANACA
+  full_name: Panaca
+  lata: '720'
+  ilec_name: LINCOLN COUNTY TEL. SYSTEM, INC.
+  lat: '37.790986'
+  long: "-114.375686"
+  closest_city:
+    name: Panaca
+    distance_km: 2.2
+- country: US
+  region: NV
+  exchange: '345184'
+  name: PARADISEHL
+  full_name: Paradise Hill
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131340'
+  name: PARADISVLY
+  full_name: Paradise Valley
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat: '41.492317'
+  long: "-117.532805"
+  closest_city:
+    name: Paradise Valley
+    distance_km: 1.19
+- country: US
+  region: NV
+  exchange: '131350'
+  name: PILOT VLY
+  full_name: Pilot Valley
+  lata: '720'
+  ilec_name: BEEHIVE TELEPHONE CO., INC. -  NEVADA
+  lat: '41.101146'
+  long: "-114.134358"
+  closest_city:
+    name: Montello
+    distance_km: 19.18
+- country: US
+  region: NV
+  exchange: '345187'
+  name: PINSONRNCH
+  full_name: Pinson Ranch
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131360'
+  name: PIOCHE
+  full_name: Pioche
+  lata: '720'
+  ilec_name: LINCOLN COUNTY TEL. SYSTEM, INC.
+  lat: '37.92369'
+  long: "-114.449101"
+  closest_city:
+    name: Pioche
+    distance_km: 3.18
+- country: US
+  region: NV
+  exchange: '131370'
+  name: PLSNT VLLY
+  full_name: Pleasant Valley
+  lata: '720'
+  ilec_name: BEEHIVE TELEPHONE CO., INC. -  NEVADA
+  lat: '39.714648'
+  long: "-114.395014"
+  closest_city:
+    name: McGill
+    distance_km: 47.8
+- country: US
+  region: NV
+  exchange: '345190'
+  name: PRESTON
+  full_name: Preston
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345284'
+  name: PRIMM
+  full_name: Primm
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345191'
+  name: PYRAMID LK
+  full_name: Pyramid Lake
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345192'
+  name: QNRVCRSSNG
+  full_name: Quinn River Crossing
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345193'
+  name: RACHEL
+  full_name: Rachel
+  lata: '720'
+  ilec_name: LINCOLN COUNTY TEL. SYSTEM, INC.
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345194'
+  name: RAILRODVLY
+  full_name: Railroad Valley
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345196'
+  name: REDHSRANCH
+  full_name: Red House Ranch
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131380'
+  name: RED ROCK
+  full_name: Red Rock
+  lata: '720'
+  ilec_name: RURAL TEL CO
+  lat: '39.866202'
+  long: "-119.95508"
+  closest_city:
+    name: Cold Springs
+    distance_km: 19.39
+- country: US
+  region: NV
+  exchange: '131390'
+  name: RENO
+  full_name: Reno
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.525978'
+  long: "-119.807959"
+  closest_city:
+    name: Reno
+    distance_km: 4.35
+- country: US
+  region: NV
+  exchange: '345198'
+  name: RIVER SIDE
+  full_name: River Side
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131400'
+  name: ROUND MT
+  full_name: Round Mountain
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '38.707126'
+  long: "-117.066053"
+  closest_city:
+    name: Kingston
+    distance_km: 55.93
+- country: US
+  region: NV
+  exchange: '131410'
+  name: RUBYVALLEY
+  full_name: Ruby Valley
+  lata: '720'
+  ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
+  lat: '40.626303'
+  long: "-115.277882"
+  closest_city:
+    name: Lamoille
+    distance_km: 20.14
+- country: US
+  region: NV
+  exchange: '131420'
+  name: SAND SPG
+  full_name: Sand Springs
+  lata: '720'
+  ilec_name: LINCOLN COUNTY TEL. SYSTEM, INC.
+  lat: '37.646413'
+  long: "-115.751537"
+  closest_city:
+    name: Rachel
+    distance_km: 1.56
+- country: US
+  region: NV
+  exchange: '131430'
+  name: SANDY VLY
+  full_name: Sandy Valley
+  lata: '721'
+  ilec_name: NEVADA BELL
+  lat: '35.815572'
+  long: "-115.627601"
+  closest_city:
+    name: Sandy Valley
+    distance_km: 2.98
+- country: US
+  region: NV
+  exchange: '345202'
+  name: SCHELLBORN
+  full_name: Schellbourne
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131440'
+  name: SCHURZ
+  full_name: Schurz
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '38.951199'
+  long: "-118.818144"
+  closest_city:
+    name: Schurz
+    distance_km: 1.86
+- country: US
+  region: NV
+  exchange: '131450'
+  name: SEARCHLIHT
+  full_name: Searchlight
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat: '35.465316'
+  long: "-114.914923"
+  closest_city:
+    name: Searchlight
+    distance_km: 1.2
+- country: US
+  region: NV
+  exchange: '345204'
+  name: SHELDON
+  full_name: Sheldon
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345206'
+  name: SILVERCITY
+  full_name: Silver City
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131460'
+  name: SILVERPEAK
+  full_name: Silver Peak
+  lata: '720'
+  ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
+  lat: '37.753074'
+  long: "-117.633846"
+  closest_city:
+    name: Silver Peak
+    distance_km: 0.67
+- country: US
+  region: NV
+  exchange: '131470'
+  name: SILVER SPG
+  full_name: Silver Springs
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.408324'
+  long: "-119.224374"
+  closest_city:
+    name: Silver Springs
+    distance_km: 2.98
+- country: US
+  region: NV
+  exchange: '345208'
+  name: SLVRSTTVLY
+  full_name: Silver State Valley
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345287'
+  name: SLOAN
+  full_name: Sloan
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345209'
+  name: SMITH
+  full_name: Smith
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131480'
+  name: SMITH VLY
+  full_name: Smith Valley
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat: '38.797204'
+  long: "-119.326465"
+  closest_city:
+    name: Smith Valley
+    distance_km: 2.66
+- country: US
+  region: NV
+  exchange: '345211'
+  name: SPANISHSPG
+  full_name: Spanish Springs
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131392'
+  name: SPARKS
+  full_name: Sparks
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.525978'
+  long: "-119.807959"
+  closest_city:
+    name: Reno
+    distance_km: 4.35
+- country: US
+  region: NV
+  exchange: '410747'
+  name: SPARKS
+  full_name: Sparks
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131490'
+  name: SPIRIT MT
+  full_name: Spirit Mountain
+  lata: '666'
+  ilec_name: FORT MOJAVE TELECOM INC
+  lat: '35.0065'
+  long: "-114.644494"
+  closest_city:
+    name: Laughlin
+    distance_km: 15.01
+- country: US
+  region: NV
+  exchange: '345213'
+  name: SPRING CRK
+  full_name: Spring Creek
+  lata: '720'
+  ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131500'
+  name: SPVLYCHCRK
+  full_name: Spring Valley-Cherry Creek
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.337109'
+  long: "-114.464175"
+  closest_city:
+    name: McGill
+    distance_km: 27.88
+- country: US
+  region: NV
+  exchange: '345215'
+  name: SQUAW VLY
+  full_name: Squaw Valley
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131510'
+  name: STAGECOACH
+  full_name: Stagecoach
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.367741'
+  long: "-119.368924"
+  closest_city:
+    name: Stagecoach
+    distance_km: 1.25
+- country: US
+  region: NV
+  exchange: '131520'
+  name: STATELINE
+  full_name: Stateline
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat: '38.967966'
+  long: "-119.931429"
+  closest_city:
+    name: Stateline
+    distance_km: 1.09
+- country: US
+  region: NV
+  exchange: '131393'
+  name: STEAD
+  full_name: Stead
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.525978'
+  long: "-119.807959"
+  closest_city:
+    name: Reno
+    distance_km: 4.35
+- country: US
+  region: NV
+  exchange: '345218'
+  name: STEPTOEVLY
+  full_name: Steptoe Valley
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345219'
+  name: STEWART
+  full_name: Stewart
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131394'
+  name: SUN VALLEY
+  full_name: Sun Valley
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.525978'
+  long: "-119.807959"
+  closest_city:
+    name: Reno
+    distance_km: 4.35
+- country: US
+  region: NV
+  exchange: '131530'
+  name: SUTCLIFFE
+  full_name: Sutcliffe
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.943685'
+  long: "-119.611283"
+  closest_city:
+    name: Sutcliffe
+    distance_km: 1.66
+- country: US
+  region: NV
+  exchange: '131540'
+  name: SWEETWATER
+  full_name: Sweetwater
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat: '38.46344'
+  long: "-119.173097"
+  closest_city:
+    name: Topaz Lake
+    distance_km: 41.35
+- country: US
+  region: NV
+  exchange: '345223'
+  name: TELGRPHCYN
+  full_name: Telegraph Canyon
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345224'
+  name: TEMPIUTE
+  full_name: Tempiute
+  lata: '720'
+  ilec_name: LINCOLN COUNTY TEL. SYSTEM, INC.
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345288'
+  name: THE LAKES
+  full_name: The Lakes
+  lata: '721'
+  ilec_name: CENTRAL TEL. CO. - NEVADA DBA CENTURYLINK
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345225'
+  name: TIPPETT
+  full_name: Tippett
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131550'
+  name: TONOPAH
+  full_name: Tonopah
+  lata: '720'
+  ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
+  lat: '38.069155'
+  long: "-117.228558"
+  closest_city:
+    name: Tonopah
+    distance_km: 1.49
+- country: US
+  region: NV
+  exchange: '131560'
+  name: TOPAZ LAKE
+  full_name: Topaz Lake
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat: '38.700364'
+  long: "-119.550596"
+  closest_city:
+    name: Topaz Lake
+    distance_km: 0.75
+- country: US
+  region: NV
+  exchange: '219470'
+  name: TOQUOP
+  full_name: Toquop
+  lata: '720'
+  ilec_name: LINCOLN COUNTY TEL. SYSTEM, INC.
+  lat: '36.875907'
+  long: "-114.08841"
+  closest_city:
+    name: Mesquite
+    distance_km: 9.01
+- country: US
+  region: NV
+  exchange: '345229'
+  name: TUNGSTEN
+  full_name: Tungsten
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131570'
+  name: TUSCARORA
+  full_name: Tuscarora
+  lata: '720'
+  ilec_name: RURAL TEL CO
+  lat: '41.319771'
+  long: "-116.110542"
+  closest_city:
+    name: Osino
+    distance_km: 56.52
+- country: US
+  region: NV
+  exchange: '345231'
+  name: UNIONVILLE
+  full_name: Unionville
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131580'
+  name: UPPERMUDDY
+  full_name: Upper Muddy
+  lata: '721'
+  ilec_name: MOAPA VALLEY TEL. CO.
+  lat: '36.718697'
+  long: "-114.703519"
+  closest_city:
+    name: Moapa Town
+    distance_km: 6.72
+- country: US
+  region: NV
+  exchange: '131395'
+  name: VERDI
+  full_name: Verdi
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.525978'
+  long: "-119.807959"
+  closest_city:
+    name: Reno
+    distance_km: 4.35
+- country: US
+  region: NV
+  exchange: '345233'
+  name: VIRGIN VLY
+  full_name: Virgin Valley
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131590'
+  name: VIRGINIACY
+  full_name: Virginia City
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.3081'
+  long: "-119.647804"
+  closest_city:
+    name: Virginia City
+    distance_km: 0.09
+- country: US
+  region: NV
+  exchange: '345235'
+  name: VISTA
+  full_name: Vista
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345237'
+  name: WABUSKA
+  full_name: Wabuska
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345238'
+  name: WADSWORTH
+  full_name: Wadsworth
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345239'
+  name: WALKERLAKE
+  full_name: Walker Lake
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131396'
+  name: WASHOE VLY
+  full_name: Washoe Valley
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '39.525978'
+  long: "-119.807959"
+  closest_city:
+    name: Reno
+    distance_km: 4.35
+- country: US
+  region: NV
+  exchange: '345241'
+  name: WEED HTS
+  full_name: Weed Heights
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345242'
+  name: WELLINGTON
+  full_name: Wellington
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131600'
+  name: WELLS
+  full_name: Wells
+  lata: '720'
+  ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
+  lat: '41.109362'
+  long: "-114.960499"
+  closest_city:
+    name: Wells
+    distance_km: 0.73
+- country: US
+  region: NV
+  exchange: '131610'
+  name: WENDOVER
+  full_name: Wendover
+  lata: '660'
+  ilec_name: CITIZENS TELECOMM CO OF NV DBA FRONTIER COMM OF NV
+  lat: '40.754951'
+  long: "-114.129075"
+  closest_city:
+    name: West Wendover
+    distance_km: 4.56
+- country: US
+  region: NV
+  exchange: '131620'
+  name: W WENDOVER
+  full_name: Western Wendover
+  lata: '720'
+  ilec_name: BEEHIVE TELEPHONE CO., INC. -  NEVADA
+  lat: '41.034117'
+  long: "-114.484738"
+  closest_city:
+    name: Oasis
+    distance_km: 0.94
+- country: US
+  region: NV
+  exchange: '345244'
+  name: WHITERIVER
+  full_name: White River
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345245'
+  name: WILDER CRK
+  full_name: Wilder Creek
+  lata: '720'
+  ilec_name: HUMBOLDT TELEPHONE COMPANY
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '131630'
+  name: WINNEMUCCA
+  full_name: Winnemucca
+  lata: '720'
+  ilec_name: NEVADA BELL
+  lat: '40.965729'
+  long: "-117.741592"
+  closest_city:
+    name: Winnemucca
+    distance_km: 1.42
+- country: US
+  region: NV
+  exchange: '131640'
+  name: YERINGTON
+  full_name: Yerington
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat: '38.982339'
+  long: "-119.157116"
+  closest_city:
+    name: Yerington
+    distance_km: 5.05
+- country: US
+  region: NV
+  exchange: '345249'
+  name: ZEPHYRCOVE
+  full_name: Zephyr Cove
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat:
+  long:
+- country: US
+  region: NV
+  exchange: '345248'
+  name: ZEPHYR PT
+  full_name: Zephyr Point
+  lata: '720'
+  ilec_name: FRONTIER COMMUNICATIONS OF THE SOUTHWEST INC. - NV
+  lat:
+  long:
