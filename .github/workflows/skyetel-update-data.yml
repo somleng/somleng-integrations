@@ -1,0 +1,39 @@
+name: Update Data
+
+on:
+  schedule:
+    - cron: '0 2 * * 0'
+
+defaults:
+  run:
+    working-directory: skyetel
+
+jobs:
+  update-data:
+    name: Update Data
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          working-directory: skyetel
+          bundler-cache: true
+
+      - name: Update Data
+        env:
+          SKYETEL_USERNAME: ${{ secrets.SKYETEL_USERNAME }}
+          SKYETEL_PASSWORD: ${{ secrets.SKYETEL_PASSWORD }}
+        run: |
+          ./lib/skyetel/bin/update_data
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.SOMLENG_PERSONAL_ACCESS_TOKEN }}
+          commit-message: "feat: Update data"
+          title: "feat: Update data"
+          labels: "update_data"
+          base: "develop"
