@@ -17,5 +17,5 @@ The image is ready to be deployed to AWS Lambda and can be triggered by a schedu
 If you're not using Lambda, you can run your image with the following command.
 
 ```bash
-docker run --platform linux/amd64 --rm -it -e APP_ENV=production -e SOMLENG_API_KEY='somleng-carrier-api-key' SOMLENG_API_KEY='somleng-carrier-api-key' -e SKYETEL_USERNAME='skyetel-username' -e SKYETEL_PASSWORD='skyetel-password' -e MAX_STOCK=2 --entrypoint ruby somleng-skyetel:example -r ./app.rb -e App::Handler.process
+docker run --platform linux/amd64 --rm -it -e APP_ENV=production -e SOMLENG_API_KEY='somleng-carrier-api-key' SOMLENG_API_KEY='somleng-carrier-api-key' -e SKYETEL_USERNAME='skyetel-username' -e SKYETEL_PASSWORD='skyetel-password' -e MIN_STOCK=2 -e MAX_STOCK=2 --entrypoint ruby somleng-skyetel:example -r ./app.rb -e App::Handler.process
 ```

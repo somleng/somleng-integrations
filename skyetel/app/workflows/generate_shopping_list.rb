@@ -21,7 +21,7 @@ class GenerateShoppingList
       )
       current_stock = inventory_item ? inventory_item.quantity : 0
 
-      next if current_stock >= min_stock
+      next if max_stock.zero? || current_stock >= min_stock
 
       result << ShoppingList::LineItem.new(
         country: city.country,
