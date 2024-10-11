@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.8](https://github.com/somleng/somleng-integrations/compare/somleng-skyetel/v0.2.7...somleng-skyetel/v0.2.8) (2024-10-11)
+
+
+### Bug Fixes
+
+* Force release ([931f04c](https://github.com/somleng/somleng-integrations/commit/931f04cfd8b1007183d2c5d2054a9f735225c76d))
+
 ## [0.2.7](https://github.com/somleng/somleng-integrations/compare/somleng-skyetel/v0.2.6...somleng-skyetel/v0.2.7) (2024-10-11)
 
 
