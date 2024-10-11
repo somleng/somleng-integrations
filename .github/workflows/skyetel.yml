@@ -2,8 +2,8 @@ name: Skyetel
 
 on:
   push:
-    tags:
-      - 'v*'
+    branches: "**"
+    tags: "v*"
 
 defaults:
   run:
