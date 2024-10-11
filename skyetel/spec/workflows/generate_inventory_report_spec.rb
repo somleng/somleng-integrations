@@ -31,7 +31,7 @@ RSpec.describe GenerateInventoryReport do
   end
 
   def fake_client
-    client = instance_double(Somleng::CarrierAPI::Client, )
+    client = instance_double(Somleng::CarrierAPI::Client)
     allow(client).to receive(:phone_number_stats).and_return(fake_response_from(:phone_number_stats, client:))
     client
   end
