@@ -10,6 +10,8 @@ This integration connects [Skyetel](https://skyetel.com/) to [Somleng](https://w
 
 ## Configuration
 
+Add configuration parameters here.
+
 ## Usage
 
 ## Deployment
