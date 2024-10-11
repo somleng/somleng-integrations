@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/somleng/encrypted_credentials.git
-  revision: 683c046f41fba2c35d094c09c4ef2e67c2928e44
+  revision: da18ca86bfdd5cc9cf919158af452ec971072585
   specs:
     encrypted_credentials (0.1.0)
       base64
@@ -24,7 +24,7 @@ GEM
       public_suffix (>= 2.0.2, < 7.0)
     ast (2.4.2)
     aws-eventstream (1.3.0)
-    aws-partitions (1.987.0)
+    aws-partitions (1.989.0)
     aws-sdk-core (3.209.1)
       aws-eventstream (~> 1, >= 1.3.0)
       aws-partitions (~> 1, >= 1.651.0)
