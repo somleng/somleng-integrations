@@ -1,0 +1,13 @@
+#!/usr/bin/env ruby
+
+# Usage:
+
+# $ update_data
+
+require "pathname"
+require_relative "../../skyetel"
+require_relative "../data_source/rate_centers"
+
+data_directory = Pathname(File.expand_path("../data/", __dir__))
+client = Skyetel::Client.new(username: ENV.fetch("SKYETEL_USERNAME"), password: ENV.fetch("SKYETEL_PASSWORD"))
+Skyetel::DataSource::RateCenters.new(client:).load_data!(data_directory: data_directory.join("rate_centers/us"))

@@ -1,0 +1,71 @@
+{
+  "code": 200,
+  "message": "Successful Operation",
+  "data": {
+    "result": [
+      {
+        "did_id": 1682136,
+        "did_number": "6468136545",
+        "did": 1682136,
+        "number": "6468136545",
+        "npa": "646",
+        "nxx": "813",
+        "xxxx": "6545",
+        "did_type_id": 1,
+        "state_id": 35,
+        "rate_center_id": 10055,
+        "did_status_id": 1,
+        "vendor_id": 4,
+        "ratecenter": "NWYRCYZN01",
+        "state": "NY",
+        "locData": null,
+        "monthly": "0.15000",
+        "setup": "0.00000"
+      },
+      {
+        "did_id": 9732949,
+        "did_number": "3322589357",
+        "did": 9732949,
+        "number": "3322589357",
+        "npa": "332",
+        "nxx": "258",
+        "xxxx": "9357",
+        "did_type_id": 1,
+        "state_id": 35,
+        "rate_center_id": 10055,
+        "did_status_id": 1,
+        "vendor_id": 32,
+        "ratecenter": "NWYRCYZN01",
+        "state": "NY",
+        "locData": null,
+        "monthly": "0.02000",
+        "setup": "0.00000"
+      },
+      {
+        "did_id": 9732943,
+        "did_number": "3322589359",
+        "did": 9732943,
+        "number": "3322589359",
+        "npa": "332",
+        "nxx": "258",
+        "xxxx": "9359",
+        "did_type_id": 1,
+        "state_id": 35,
+        "rate_center_id": 10055,
+        "did_status_id": 1,
+        "vendor_id": 32,
+        "ratecenter": "NWYRCYZN01",
+        "state": "NY",
+        "locData": null,
+        "monthly": "0.02000",
+        "setup": "0.00000"
+      }
+    ],
+    "setup": "0.00000",
+    "monthly": "0.02000",
+    "uqid": "e973ff1c-0078-44ab-b212-2c252f781068",
+    "ttl": "2024-10-08T08:40:12.626Z",
+    "loc": null
+  },
+  "error": null
+}

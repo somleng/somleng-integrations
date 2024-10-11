@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": "5dc401fa28a1592b1aec3c64a380ac956573bf1040a068561ffd74d7205b8386",
+      "type": "aggregate_data",
+      "attributes": {
+        "statistic": {
+          "country": "US",
+          "region": "NY",
+          "locality": "New York",
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "2e02a6de3fa86617dec16e762a756a2fc82f7f474215485effa2577b1a869e64",
+      "type": "aggregate_data",
+      "attributes": {
+        "statistic": {
+          "country": "US",
+          "region": "CA",
+          "locality": "Los Angeles",
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "dbcd7a4b79acfdbeb7bc78dfcded1098b8a5b0ca1cb63619ae65864b89162520",
+      "type": "aggregate_data",
+      "attributes": {
+        "statistic": {
+          "country": "US",
+          "region": "AL",
+          "locality": "Huntsville",
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "7bb81870f4f3d4a6756f30d8a4ecbf98c0da08ec74cae4af760843e07bee7ec6",
+      "type": "aggregate_data",
+      "attributes": {
+        "statistic": {
+          "country": "US",
+          "region": "AL",
+          "locality": "Tuscaloosa",
+          "value": 1
+        }
+      }
+    },
+    {
+      "id": "79adb2a2fce5c6ba215fe5f27f532d4e7edbac4b6a5e09e1ef3a08084a904621",
+      "type": "aggregate_data",
+      "attributes": {
+        "statistic": {
+          "country": "US",
+          "region": null,
+          "locality": null,
+          "value": 1
+        }
+      }
+    }
+  ],
+  "links": {
+    "prev": "https://api.somleng.org/carrier/v1/phone_numbers/stats?filter%5Bavailable%5D=true&filter%5Btype%5D=local&group_by%5B%5D=country&group_by%5B%5D=region&group_by%5B%5D=locality&having%5Bcount%5D%5Blt%5D=2&page%5Bbefore%5D=5dc401fa28a1592b1aec3c64a380ac956573bf1040a068561ffd74d7205b8386",
+    "next": null
+  }
+}
