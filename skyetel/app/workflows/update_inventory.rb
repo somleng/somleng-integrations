@@ -17,7 +17,7 @@ class UpdateInventory
     @purchase_order = options.fetch(:purchase_order)
     @client = options.fetch(:client) { Somleng::Client.new }
     @country_calling_code = options.fetch(:country_calling_code, "1")
-    @number_visibility = options.fetch(:number_visibility) { ENV.fetch("NUMBER_VISIBILITY", "public") }
+    @number_visibility = options.fetch(:number_visibility) { AppSettings.fetch(:somleng_number_visibility) }
     @provider_name = options.fetch(:provider_name, "skyetel")
   end
 

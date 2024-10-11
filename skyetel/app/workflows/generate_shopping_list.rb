@@ -7,8 +7,8 @@ class GenerateShoppingList
 
   def initialize(**options)
     @inventory_report = options.fetch(:inventory_report)
-    @min_stock = options.fetch(:min_stock) { ENV.fetch("MIN_STOCK", 50) }
-    @max_stock = options.fetch(:max_stock) { ENV.fetch("MAX_STOCK", 100) }
+    @min_stock = options.fetch(:min_stock) { AppSettings.fetch(:min_stock).to_i }
+    @max_stock = options.fetch(:max_stock) { AppSettings.fetch(:max_stock).to_i }
     @cities = options.fetch(:cities) { AppSettings.supported_cities }
   end
 

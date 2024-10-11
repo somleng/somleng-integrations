@@ -1,5 +1,3 @@
-require "jsonapi/client"
-
 module Somleng
   module CarrierAPI
     class Client < JSONAPI::Client

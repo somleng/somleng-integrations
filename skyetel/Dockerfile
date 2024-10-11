@@ -16,10 +16,10 @@ RUN gem install bundler && \
 
 RUN rm -rf vendor/bundle/ruby/*/cache/ && find vendor/ -name "*.o" -delete && find vendor/ -name "*.c"
 
-COPY app.rb ${LAMBDA_TASK_ROOT}/
-COPY app/ ${LAMBDA_TASK_ROOT}/app/
-COPY --exclude=*.key --exclude=*.sample.csv config/ ${LAMBDA_TASK_ROOT}/config/
-COPY lib/ ${LAMBDA_TASK_ROOT}/lib/
+COPY --link app.rb ${LAMBDA_TASK_ROOT}/
+COPY --link app/ ${LAMBDA_TASK_ROOT}/app/
+COPY --link --exclude=*.key --exclude=*.sample.csv config/ ${LAMBDA_TASK_ROOT}/config/
+COPY --link lib/ ${LAMBDA_TASK_ROOT}/lib/
 
 # #############################
 
