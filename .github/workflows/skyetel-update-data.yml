@@ -20,6 +20,9 @@ jobs:
           bundler-cache: true
 
       - name: Update Data
+        env:
+          SKYETEL_USERNAME: ${{ secrets.SKYETEL_USERNAME }}
+          SKYETEL_PASSWORD: ${{ secrets.SKYETEL_PASSWORD }}
         run: |
           ./lib/skyetel/bin/update_data
 
