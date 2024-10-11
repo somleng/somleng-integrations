@@ -8,6 +8,7 @@ defaults:
 
 jobs:
   update-data:
+    name: Update Data
     runs-on: ubuntu-latest
 
     steps:
