@@ -41,11 +41,13 @@ jobs:
           {
             "environment": "staging",
             "branch": "test_release_1",
-            "release": true
+            "image_tag": "beta",
+            "release": true,
           },
           {
             "environment": "production",
             "branch": "main",
+            "image_tag": "stable",
             "release": true
           }
         ]
@@ -103,6 +105,9 @@ jobs:
         with:
           images: |
             ghcr.io/somleng/somleng-skyetel
+          tags: |
+            type=ref,event=tag
+            type=raw,value=${{ matrix.image_tag }}
 
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
