@@ -17,7 +17,7 @@ module App
           }
         ].to_json
       )
-      stub_app_settings(max_stock: 2)
+      stub_app_settings(min_stock: 2, max_stock: 3)
       stub_jsonapi_request(
         :get, "https://api.somleng.org/carrier/v1/phone_numbers/stats",
         response_body: file_fixture("somleng/responses/phone_number_stats.json").read
@@ -40,7 +40,7 @@ module App
 
       App::Handler.process(event: {}, context: double("LambdaContext", as_json: {}))
 
-      expect(a_request(:post, "https://api.somleng.org/carrier/v1/phone_numbers")).to have_been_made.times(2)
+      expect(a_request(:post, "https://api.somleng.org/carrier/v1/phone_numbers")).to have_been_made.times(4)
     end
   end
 end
