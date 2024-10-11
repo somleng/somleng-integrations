@@ -51,7 +51,7 @@ jobs:
         matrix=$(echo $matrixSource | jq --arg branchName "$branchName" 'map(. | select((.branch==$branchName)) )')
         echo "matrix={\"include\":$(echo $matrix)}" >> $GITHUB_OUTPUT
         echo "matrixLength=$(echo $matrix | jq length)" >> $GITHUB_OUTPUT
-        echo "packageMatrix={\"platform\":[\"amd64\",\"arm64\"],\"include\":$(echo $matrix)}" >> $GITHUB_OUTPUT
+        echo "packageMatrix={\"platform\":[\"amd64\"],\"include\":$(echo $matrix)}" >> $GITHUB_OUTPUT
         echo "release=$(echo $matrix | jq '.[0].release')" >> $GITHUB_OUTPUT
 
   build-packages:
@@ -82,8 +82,6 @@ jobs:
       release_tag: ${{ steps.release-please.outputs.tag_name }}
     needs:
       - build
-    strategy:
-      matrix: ${{fromJSON(needs.build.outputs.packageMatrix)}}
 
     steps:
       - name: Checkout
@@ -95,7 +93,7 @@ jobs:
           token: ${{ secrets.SOMLENG_PERSONAL_ACCESS_TOKEN }}
           path: skyetel
           config_file: skyetel/release-please-config.json
-          manifest-file: skyetel/release-please-manifest.json
+          manifest-file: skyetel/.release-please-manifest.json
 
   upload-packages:
     name: Upload Packages
@@ -146,7 +144,7 @@ jobs:
       - upload-packages
     if: ${{ needs.release.outputs.release_created }}
     strategy:
-      matrix: ${{fromJSON(needs.build.outputs.packageMatrix)}}
+      matrix: ${{fromJSON(needs.build.outputs.matrix)}}
 
     steps:
       - uses: actions/checkout@v4
