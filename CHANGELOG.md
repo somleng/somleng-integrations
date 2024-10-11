@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/somleng/somleng-integrations/compare/v0.2.1...v0.2.2) (2024-10-11)
+
+
+### Bug Fixes
+
+* Test release ([#6](https://github.com/somleng/somleng-integrations/issues/6)) ([ae6f2cf](https://github.com/somleng/somleng-integrations/commit/ae6f2cf6ac7081ba37f110a8dd718c42f2d1595e))
+
 ## [0.2.1](https://github.com/somleng/somleng-integrations/compare/v0.2.0...v0.2.1) (2024-10-11)
 
 
