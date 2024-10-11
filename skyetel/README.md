@@ -14,6 +14,8 @@ Add configuration parameters here.
 
 ## Usage
 
+Add usage instructions here.
+
 ## Deployment
 
 The [docker image](https://github.com/somleng/somleng-integrations/pkgs/container/somleng-skyetel) is available on Github.
