@@ -4,6 +4,7 @@
 
 # $ update_data
 
+require "bundler/setup"
 require "pathname"
 require_relative "../../skyetel"
 require_relative "../data_source/rate_centers"
