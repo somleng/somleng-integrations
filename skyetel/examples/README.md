@@ -1,14 +1,21 @@
+# Examples
+
 ## Build your own docker image
 
-1. Edit the supported_cities.csv file with a list of supported cities
-2. Build your own docker image
+Edit the supported_cities.csv file with a list of supported cities and build your own docker image.
 
 ```bash
 docker buildx build -t --platform linux/amd64 somleng-skyetel:example .
 ```
 
-3. Run your image
+## Deployment
+
+The image is ready to be deployed to AWS Lambda and can be triggered by a scheduler.
+
+## Standalone mode
+
+If you're not using Lambda, you can run your image with the following command.
 
 ```bash
-docker run --platform linux/amd64 --rm -it --entrypoint /bin/sh somleng-skyetel:example
+docker run --platform linux/amd64 --rm -it -e APP_ENV=production -e SOMLENG_API_KEY='somleng-carrier-api-key' SOMLENG_API_KEY='somleng-carrier-api-key' -e SKYETEL_USERNAME='skyetel-username' -e SKYETEL_PASSWORD='skyetel-password' -e MAX_STOCK=2 --entrypoint ruby somleng-skyetel:example -r ./app.rb -e App::Handler.process
 ```
