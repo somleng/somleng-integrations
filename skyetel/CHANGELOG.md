@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.12](https://github.com/somleng/somleng-integrations/compare/somleng-skyetel/v0.2.11...somleng-skyetel/v0.2.12) (2024-10-12)
+
+
+### Bug Fixes
+
+* Add binary to docker ([34832cd](https://github.com/somleng/somleng-integrations/commit/34832cd188b1b01fb1f51f44290680896383be5b))
+
 ## [0.2.11](https://github.com/somleng/somleng-integrations/compare/somleng-skyetel/v0.2.10...somleng-skyetel/v0.2.11) (2024-10-12)
 
 
