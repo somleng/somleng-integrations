@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.11](https://github.com/somleng/somleng-integrations/compare/somleng-skyetel/v0.2.10...somleng-skyetel/v0.2.11) (2024-10-12)
+
+
+### Bug Fixes
+
+* Update CLI ([ad90dff](https://github.com/somleng/somleng-integrations/commit/ad90dff93fb24df33ea8c5c536248b01cadfc716))
+
 ## [0.2.10](https://github.com/somleng/somleng-integrations/compare/somleng-skyetel/v0.2.9...somleng-skyetel/v0.2.10) (2024-10-11)
 
 
