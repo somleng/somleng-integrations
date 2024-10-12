@@ -26,7 +26,10 @@ See [examples](https://github.com/somleng/somleng-integrations/tree/develop/skye
 The CLI can be used to test your integration or in standalone mode.
 
 ```bash
-./bin/somleng-skyetel
+Usage: somleng-skyetel [options]
+        --[no-]dry-run [FLAG]        Dry run only. No phone numbers will be actually purchased.
+        --[no-]verbose [FLAG]        Run verbosely
+    -h, --help                       Prints this help
 ```
 
 ## Deployment

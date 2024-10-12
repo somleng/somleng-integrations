@@ -14,7 +14,7 @@ The image is ready to be deployed to AWS Lambda and can be triggered by a schedu
 
 ## Standalone mode
 
-If you're not using Lambda, you can run your image with the following command.
+If you're not using Lambda, you can run your image with the following command:
 
 ```bash
 docker run --platform linux/amd64 --rm -it -e APP_ENV=production -e SOMLENG_API_KEY='somleng-carrier-api-key' SOMLENG_API_KEY='somleng-carrier-api-key' -e SKYETEL_USERNAME='skyetel-username' -e SKYETEL_PASSWORD='skyetel-password' -e MIN_STOCK=5 -e MAX_STOCK=10 --entrypoint ./bin/somleng-skyetel somleng-skyetel:example
