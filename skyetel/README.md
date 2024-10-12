@@ -15,7 +15,7 @@ This integration runs on a schedule and automatically orders DIDs from [Skyetel]
 | MIN_STOCK                  | Minimum number of phone numbers to maintain per city      | 50                     | true     | 0                      |
 | MAX_STOCK                  | Maximum number of phone numbers to maintain per city      | 100                    | true     | 0                      |
 | SUPPORTED_CITIES_DATA_FILE | Name of the CSV file containing supported cities          | `supported_cities.csv` | false    | `supported_cities.csv` |
-| SOMLENG_NUMBER_VISIBILITY  | Visibility of created phone number. `public` or `private` | `public`               | false    | public                 |
+| SOMLENG_NUMBER_VISIBILITY  | Visibility of created phone number. `public` or `private` | `public`               | false    | `public`               |
 
 ## Usage
 
@@ -23,7 +23,7 @@ See [examples](https://github.com/somleng/somleng-integrations/tree/develop/skye
 
 ## CLI
 
-The CLI can be used to test your integration or in standalone mode.
+The CLI can be used to test your integration.
 
 ```bash
 Usage: somleng-skyetel [options]
