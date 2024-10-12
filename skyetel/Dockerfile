@@ -28,5 +28,6 @@ FROM public.ecr.aws/lambda/ruby:$RUBY_VERSION
 COPY --from=build-image ${LAMBDA_TASK_ROOT} ${LAMBDA_TASK_ROOT}
 
 ENV RUBY_YJIT_ENABLE=true
+ENV APP_ENV=production
 
 CMD [ "app.App::Handler.process" ]
