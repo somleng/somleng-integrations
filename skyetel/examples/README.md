@@ -8,14 +8,14 @@ Edit the `supported_cities.csv` file with a list of supported cities and build y
 docker buildx build -t --platform linux/amd64 somleng-skyetel:example .
 ```
 
-## Deployment
+## Testing
 
-The image is ready to be deployed to AWS Lambda and can be triggered by a scheduler.
-
-## Standalone mode
-
-If you're not using Lambda, you can run your image with the following command:
+You can test your image with the following command:
 
 ```bash
-docker run --platform linux/amd64 --rm -it -e APP_ENV=production -e SOMLENG_API_KEY='somleng-carrier-api-key' -e SOMLENG_API_KEY='somleng-carrier-api-key' -e SKYETEL_USERNAME='skyetel-username' -e SKYETEL_PASSWORD='skyetel-password' -e MIN_STOCK=5 -e MAX_STOCK=10 --entrypoint ./bin/somleng-skyetel somleng-skyetel:example
+docker run --platform linux/amd64 --rm -it -e APP_ENV=production -e SOMLENG_API_KEY='somleng-carrier-api-key' -e SOMLENG_API_KEY='somleng-carrier-api-key' -e SKYETEL_USERNAME='skyetel-username' -e SKYETEL_PASSWORD='skyetel-password' -e MIN_STOCK=5 -e MAX_STOCK=10 --entrypoint ./bin/somleng-skyetel somleng-skyetel:example --verbose --dry-run
 ```
+
+## Deployment
+
+The image is ready to be deployed to [AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/ruby-image.html#ruby-image-instructions) and can be triggered [on a schedule](https://docs.aws.amazon.com/lambda/latest/dg/with-eventbridge-scheduler.html). Read the AWS docs for details.
