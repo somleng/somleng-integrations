@@ -1,0 +1,808 @@
+{
+  "rate_centers": [
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "ORDERVILLE",
+      "footprint_id": 170
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "SPANIHFORK",
+      "footprint_id": 185
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "ESCALANTE",
+      "footprint_id": 423
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "MEXICANHAT",
+      "footprint_id": 876
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "ENTERPRISE",
+      "footprint_id": 1036
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "KANAB",
+      "footprint_id": 1050
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "VERNON",
+      "footprint_id": 1059
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "ST GEORGE",
+      "footprint_id": 1209
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "MONROE",
+      "footprint_id": 1581
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "MNZMCRANTH",
+      "footprint_id": 1683
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "GOSHEN",
+      "footprint_id": 1684
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "CASTLEDALE",
+      "footprint_id": 2019
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "APPLE VLLY",
+      "footprint_id": 2196
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "DUCHESNE",
+      "footprint_id": 2248
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "CEDAR CITY",
+      "footprint_id": 2287
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "LAPOINT",
+      "footprint_id": 2396
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "THOMPSON",
+      "footprint_id": 2585
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "FAIRVIEW",
+      "footprint_id": 2805
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "FILLMORE",
+      "footprint_id": 3230
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "MONUMNTVLY",
+      "footprint_id": 3350
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "ALTA",
+      "footprint_id": 3437
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "SPRINGVL",
+      "footprint_id": 3543
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "TABIONA",
+      "footprint_id": 3561
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "PANGUITCH",
+      "footprint_id": 3946
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "COALVILLE",
+      "footprint_id": 4022
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "JORDANELLE",
+      "footprint_id": 4103
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "LAKEPOWELL",
+      "footprint_id": 4231
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "GROUSE CRK",
+      "footprint_id": 4407
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "HALCHITA",
+      "footprint_id": 4495
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "LOA",
+      "footprint_id": 4667
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "TICABOO",
+      "footprint_id": 4943
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "DUTCH JOHN",
+      "footprint_id": 4966
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "DUGWAY",
+      "footprint_id": 4999
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "XXXXXXXXXX",
+      "footprint_id": 5013
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "PORTAGE",
+      "footprint_id": 5048
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "TOOELE",
+      "footprint_id": 5057
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "GREENDALE",
+      "footprint_id": 5096
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "MOAB",
+      "footprint_id": 5306
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "HEBER CITY",
+      "footprint_id": 5384
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "ALTAMONT",
+      "footprint_id": 5559
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "CIRCLEVL",
+      "footprint_id": 5628
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "TREMONTON",
+      "footprint_id": 5660
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "SOLDER SMT",
+      "footprint_id": 5713
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "OAK CITY",
+      "footprint_id": 5877
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "MTPLEASANT",
+      "footprint_id": 6028
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "EAGLE MTN",
+      "footprint_id": 6059
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "BEAVER",
+      "footprint_id": 6414
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "BRIAN HEAD",
+      "footprint_id": 6565
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "HOLDEN",
+      "footprint_id": 6794
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "HANKSVILLE",
+      "footprint_id": 6975
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "LA SAL",
+      "footprint_id": 7024
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "MIDVALE",
+      "footprint_id": 7117
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "SALINA",
+      "footprint_id": 7148
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "LOGAN",
+      "footprint_id": 7307
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "FOUNTAGREN",
+      "footprint_id": 7324
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "FARMINGTON",
+      "footprint_id": 7656
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "RANDOLPH",
+      "footprint_id": 8103
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "IBAPAH",
+      "footprint_id": 8118
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "MILFORD",
+      "footprint_id": 8476
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "EUREKA",
+      "footprint_id": 8701
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "RICHFIELD",
+      "footprint_id": 8719
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "DUCK CREEK",
+      "footprint_id": 8885
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "PROVO",
+      "footprint_id": 8937
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "DELTA",
+      "footprint_id": 9045
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "WENDOVER",
+      "footprint_id": 9227
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "HATCH",
+      "footprint_id": 9306
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "DIR ASST",
+      "footprint_id": 9364
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "MINERSVL",
+      "footprint_id": 9418
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "PRICE",
+      "footprint_id": 9443
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "SPNSFKCNYN",
+      "footprint_id": 9608
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "FLATTOP",
+      "footprint_id": 9912
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "MORGAN",
+      "footprint_id": 10151
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "NEOLA",
+      "footprint_id": 10264
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "THATCHER",
+      "footprint_id": 10271
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "PAYSON",
+      "footprint_id": 10273
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "CAINEVILLE",
+      "footprint_id": 10316
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "SNOWVILLE",
+      "footprint_id": 10543
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "TIMBERLAKE",
+      "footprint_id": 10781
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "PAROWAN",
+      "footprint_id": 10790
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "BLANDING",
+      "footprint_id": 10844
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "GARDENCITY",
+      "footprint_id": 10936
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "BRYCECNYON",
+      "footprint_id": 11267
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "SALT LAKE",
+      "footprint_id": 11345
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "KAMAS",
+      "footprint_id": 11422
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "HOWELL",
+      "footprint_id": 11518
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "BEARRIV CY",
+      "footprint_id": 11662
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "KOOSHAREM",
+      "footprint_id": 11670
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "SCOFIELD",
+      "footprint_id": 11709
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "AMERCNFORK",
+      "footprint_id": 11735
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "MONTICELLO",
+      "footprint_id": 11915
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "PARTOUN",
+      "footprint_id": 11922
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "CHRISTMMDW",
+      "footprint_id": 11992
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "WASATCH",
+      "footprint_id": 12063
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "MARYSVALE",
+      "footprint_id": 12270
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "NEPHI",
+      "footprint_id": 12567
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "MURRAY",
+      "footprint_id": 12657
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "OGDEN",
+      "footprint_id": 12730
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "HILDALE",
+      "footprint_id": 12847
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "PROMONTORY",
+      "footprint_id": 13184
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "ROOSEVELT",
+      "footprint_id": 13199
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "MANTI",
+      "footprint_id": 13208
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "EPHRAIM",
+      "footprint_id": 13365
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "BRIGHAM CY",
+      "footprint_id": 13588
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "BLUFF",
+      "footprint_id": 13621
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "GUNNISON",
+      "footprint_id": 13728
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "ANTIMONY",
+      "footprint_id": 13879
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "DNGLNG RPE",
+      "footprint_id": 13921
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "CLEARFIELD",
+      "footprint_id": 14019
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "PLEASATGRV",
+      "footprint_id": 14058
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "MORONI",
+      "footprint_id": 14105
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "KOLOB",
+      "footprint_id": 14225
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "LYNNDYL",
+      "footprint_id": 14281
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "GREENRIVER",
+      "footprint_id": 14316
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "VERNAL",
+      "footprint_id": 14543
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "RANDLETT",
+      "footprint_id": 14555
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "CANNONVL",
+      "footprint_id": 14565
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "KANOSH",
+      "footprint_id": 14606
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "KAYSVILLE",
+      "footprint_id": 14732
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "PARKVALLEY",
+      "footprint_id": 14762
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "LEHI",
+      "footprint_id": 15056
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "FRUITLAND",
+      "footprint_id": 15133
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "MEADOW",
+      "footprint_id": 15144
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "BOULDER",
+      "footprint_id": 15300
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "GLNCNYONCY",
+      "footprint_id": 15569
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "FIELDING",
+      "footprint_id": 15663
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "BERYL",
+      "footprint_id": 15799
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "RUSHVALLEY",
+      "footprint_id": 16123
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "PARK CITY",
+      "footprint_id": 16727
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "GARRISON",
+      "footprint_id": 16827
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "BOUNTIFUL",
+      "footprint_id": 17050
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "NAT BRIDGE",
+      "footprint_id": 17325
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "SCIPIO",
+      "footprint_id": 17488
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "BICKNELL",
+      "footprint_id": 17511
+    },
+    {
+      "country": "US",
+      "state": "UT",
+      "name": "MANILA",
+      "footprint_id": 17545
+    }
+  ]
+}

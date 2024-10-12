@@ -1,0 +1,550 @@
+{
+  "rate_centers": [
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "SEYMOUR",
+      "footprint_id": 22
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "PLAINFIELD",
+      "footprint_id": 157
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "XXXXXXXXXX",
+      "footprint_id": 550
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "GREENWICH",
+      "footprint_id": 636
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "COVENTRY",
+      "footprint_id": 1667
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "GEORGETOWN",
+      "footprint_id": 1675
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "NOTHOMPSON",
+      "footprint_id": 1781
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "MADISON",
+      "footprint_id": 2057
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "ENFIELD",
+      "footprint_id": 2612
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "TRUMBULL",
+      "footprint_id": 2838
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "MERIDEN",
+      "footprint_id": 2971
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "STAFFD SPG",
+      "footprint_id": 3129
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "MOODUS",
+      "footprint_id": 3239
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "LAKEVILLE",
+      "footprint_id": 3657
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "THOMASTON",
+      "footprint_id": 3714
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "CLINTON",
+      "footprint_id": 3903
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "NORFOLK",
+      "footprint_id": 4006
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "LEDYARD",
+      "footprint_id": 4253
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "MILFORD",
+      "footprint_id": 4332
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "CANAAN",
+      "footprint_id": 4457
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "LITCHFIELD",
+      "footprint_id": 4573
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "NEWTOWN",
+      "footprint_id": 4788
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "NEWMILFORD",
+      "footprint_id": 4881
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "SHARON",
+      "footprint_id": 4998
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "COLCHESTER",
+      "footprint_id": 5140
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "NEW CANAAN",
+      "footprint_id": 5507
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "HARTFORD",
+      "footprint_id": 5869
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "NEWBRITAIN",
+      "footprint_id": 5921
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "WALLINGFD",
+      "footprint_id": 6070
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "NAUGATUCK",
+      "footprint_id": 6317
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "CANTON",
+      "footprint_id": 6358
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "DANIELSON",
+      "footprint_id": 6406
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "MYSTIC",
+      "footprint_id": 6594
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "NIANTIC",
+      "footprint_id": 6726
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "LEBANON",
+      "footprint_id": 6871
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "TORRINGTON",
+      "footprint_id": 6875
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "KENT",
+      "footprint_id": 7159
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "PAWCATUCK",
+      "footprint_id": 7353
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "NEW LONDON",
+      "footprint_id": 7491
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "HARWINTON",
+      "footprint_id": 7720
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "HADDAM",
+      "footprint_id": 8143
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "SOUTHINGTN",
+      "footprint_id": 8312
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "STAMFORD",
+      "footprint_id": 8391
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "STORRS",
+      "footprint_id": 8827
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "DANBURY",
+      "footprint_id": 8858
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "OLDGRNWICH",
+      "footprint_id": 9447
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "KILLINGWTH",
+      "footprint_id": 9658
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "PLAINVILLE",
+      "footprint_id": 9698
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "CANTERBURY",
+      "footprint_id": 9886
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "MANCHESTER",
+      "footprint_id": 10158
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "FAIRFIELD",
+      "footprint_id": 10170
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "BYRAM",
+      "footprint_id": 10319
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "GUILFORD",
+      "footprint_id": 10497
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "DIR ASST",
+      "footprint_id": 10640
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "MIDDLETOWN",
+      "footprint_id": 10757
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "LYME",
+      "footprint_id": 10774
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "NORWICH",
+      "footprint_id": 10793
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "RIDGEFIELD",
+      "footprint_id": 10857
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "NEW HAVEN",
+      "footprint_id": 11031
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "E HAMPTON",
+      "footprint_id": 11067
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "WILLIMNTIC",
+      "footprint_id": 11173
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "WATERTOWN",
+      "footprint_id": 11325
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "BRIDGEPORT",
+      "footprint_id": 11575
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "REDDING",
+      "footprint_id": 11762
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "GLASTONBY",
+      "footprint_id": 11806
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "CORNWALL",
+      "footprint_id": 11833
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "DEEP RIVER",
+      "footprint_id": 12013
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "WASHINGTON",
+      "footprint_id": 12123
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "CHESHIRE",
+      "footprint_id": 12654
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "BRISTOL",
+      "footprint_id": 12922
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "HUNTINGTON",
+      "footprint_id": 13463
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "DARIEN",
+      "footprint_id": 13979
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "WESTPORT",
+      "footprint_id": 14192
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "WATERBURY",
+      "footprint_id": 14291
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "WOLCOTT",
+      "footprint_id": 14755
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "FARMINGTON",
+      "footprint_id": 14843
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "PUTNAM",
+      "footprint_id": 14848
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "WINDSORLKS",
+      "footprint_id": 14944
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "WILTON",
+      "footprint_id": 15063
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "WINSTED",
+      "footprint_id": 15264
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "WINDSOR",
+      "footprint_id": 16075
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "NORWALK",
+      "footprint_id": 16117
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "ROCKVILLE",
+      "footprint_id": 16293
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "ANSONIDRBY",
+      "footprint_id": 16295
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "ESSEX",
+      "footprint_id": 16319
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "JEWETTCITY",
+      "footprint_id": 16790
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "WOODBURY",
+      "footprint_id": 16976
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "SIMSBURY",
+      "footprint_id": 17120
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "BRANFORD",
+      "footprint_id": 17127
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "OLD SAYBRK",
+      "footprint_id": 17155
+    },
+    {
+      "country": "US",
+      "state": "CT",
+      "name": "COLUMBIA",
+      "footprint_id": 17578
+    }
+  ]
+}

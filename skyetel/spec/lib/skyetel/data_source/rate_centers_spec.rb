@@ -9,7 +9,7 @@ module Skyetel
         data_directory = Pathname(File.expand_path("../../../../tmp/skyetel/us", __dir__))
 
         data_source.load_data!(data_directory:, states: "NY")
-        output_data = YAML.load((data_directory.join("ny.yml").read))
+        output_data = JSON.parse((data_directory.join("ny.json").read))
         rate_centers = output_data.fetch("rate_centers")
 
         expect(rate_centers.size).to eq(JSON.parse(file_fixture("skyetel/responses/ratecenter.json").read).fetch("data").size)

@@ -1,0 +1,2170 @@
+{
+  "rate_centers": [
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "KINGSTON",
+      "footprint_id": 17
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LEXSY",
+      "footprint_id": 66
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CEDARGROVE",
+      "footprint_id": 96
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ATHENS",
+      "footprint_id": 118
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "WINTERVL",
+      "footprint_id": 136
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "REYNOLDSVL",
+      "footprint_id": 140
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LIZELLA",
+      "footprint_id": 158
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MCCAYSVL",
+      "footprint_id": 281
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "SCREVEN",
+      "footprint_id": 538
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "COVINGTON",
+      "footprint_id": 559
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ABBEVILLE",
+      "footprint_id": 638
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "WRIGHTSVL",
+      "footprint_id": 665
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "EDISON",
+      "footprint_id": 737
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BLACKSHEAR",
+      "footprint_id": 746
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BATESVILLE",
+      "footprint_id": 811
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BAINBRIDGE",
+      "footprint_id": 827
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CADWELL",
+      "footprint_id": 845
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MADISON",
+      "footprint_id": 957
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "VILLA RICA",
+      "footprint_id": 992
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ATLANTA NW",
+      "footprint_id": 1006
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CLAYTON",
+      "footprint_id": 1019
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "APPLING",
+      "footprint_id": 1080
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "RENTZ",
+      "footprint_id": 1112
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BUENAVISTA",
+      "footprint_id": 1147
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CUMMING",
+      "footprint_id": 1186
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LENOX",
+      "footprint_id": 1228
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CUSSETA",
+      "footprint_id": 1263
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "COMER",
+      "footprint_id": 1282
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "WRENS",
+      "footprint_id": 1297
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "HELEN",
+      "footprint_id": 1388
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ILA",
+      "footprint_id": 1440
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "REYNOLDS",
+      "footprint_id": 1568
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "JASPER",
+      "footprint_id": 1597
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "SMITHVILLE",
+      "footprint_id": 1622
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LOUISVILLE",
+      "footprint_id": 1644
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MAXEYS",
+      "footprint_id": 1733
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "NORMANPARK",
+      "footprint_id": 1842
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "TRION",
+      "footprint_id": 1966
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "IDEAL",
+      "footprint_id": 1987
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "SANDERSVL",
+      "footprint_id": 2009
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CRAWFORDVL",
+      "footprint_id": 2061
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "EASTMAN",
+      "footprint_id": 2091
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CARTERSVL",
+      "footprint_id": 2092
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "NICHOLLS",
+      "footprint_id": 2112
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LUTHERSVL",
+      "footprint_id": 2213
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "DAHLONEGA",
+      "footprint_id": 2232
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "YOUNGHRRIS",
+      "footprint_id": 2292
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ROCHELLE",
+      "footprint_id": 2325
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "HARLEM",
+      "footprint_id": 2356
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "COHUTTA",
+      "footprint_id": 2431
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "DOUGLAS",
+      "footprint_id": 2437
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "PRESTON",
+      "footprint_id": 2462
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "SARDIS",
+      "footprint_id": 2503
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "SWAINSBORO",
+      "footprint_id": 2510
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "SAVANNAH",
+      "footprint_id": 2529
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BRUNSWICK",
+      "footprint_id": 2543
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "IRWINTON",
+      "footprint_id": 2631
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "PARROTT",
+      "footprint_id": 2643
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "RISINGFAWN",
+      "footprint_id": 2648
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "NEVILS",
+      "footprint_id": 2654
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "SOPERTON",
+      "footprint_id": 2693
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "AUGUSTA",
+      "footprint_id": 2699
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "GRAY",
+      "footprint_id": 2728
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "SASSER",
+      "footprint_id": 2761
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "JAKIN",
+      "footprint_id": 2858
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MOULTRIE",
+      "footprint_id": 2868
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "GRANTVILLE",
+      "footprint_id": 2925
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "NICHOLSON",
+      "footprint_id": 2944
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "IRWINVILLE",
+      "footprint_id": 3014
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CARNESVL",
+      "footprint_id": 3031
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "PINEHURST",
+      "footprint_id": 3047
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BROXTON",
+      "footprint_id": 3200
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LUMPKIN",
+      "footprint_id": 3367
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ATTAPULGUS",
+      "footprint_id": 3417
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "THOMSON",
+      "footprint_id": 3438
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "QUITMAN",
+      "footprint_id": 3559
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "WAYCROSS",
+      "footprint_id": 3600
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "WASHINGTON",
+      "footprint_id": 3675
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "DUBLIN",
+      "footprint_id": 3684
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LAGRANGE",
+      "footprint_id": 3713
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ROCKMART",
+      "footprint_id": 3738
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "FITZGERALD",
+      "footprint_id": 3819
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "GORDON",
+      "footprint_id": 3821
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "PEMBROKE",
+      "footprint_id": 3829
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MENLO",
+      "footprint_id": 3854
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LINCOLNTON",
+      "footprint_id": 3868
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "JEFFERSNVL",
+      "footprint_id": 3904
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "GLENNVILLE",
+      "footprint_id": 3908
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "TUNNELHILL",
+      "footprint_id": 3932
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "SENOIA",
+      "footprint_id": 3981
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "NEWNAN",
+      "footprint_id": 4003
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "WEST POINT",
+      "footprint_id": 4058
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "WARM SPG",
+      "footprint_id": 4082
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "DOERUN",
+      "footprint_id": 4086
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ROBERTA",
+      "footprint_id": 4222
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "DONALSONVL",
+      "footprint_id": 4270
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "HARTWELL",
+      "footprint_id": 4288
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "JESUP",
+      "footprint_id": 4368
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "GIBSON",
+      "footprint_id": 4396
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "METTER",
+      "footprint_id": 4450
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "WARWICK",
+      "footprint_id": 4498
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MIDWAY",
+      "footprint_id": 4837
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "DAWSONVL",
+      "footprint_id": 4846
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LKSINCLAIR",
+      "footprint_id": 4939
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CHESTER",
+      "footprint_id": 4980
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BACONTON",
+      "footprint_id": 4981
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BERLIN",
+      "footprint_id": 5004
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "DUDLEY",
+      "footprint_id": 5069
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BUTLER",
+      "footprint_id": 5073
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BOWDON",
+      "footprint_id": 5129
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BARWICK",
+      "footprint_id": 5148
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ALAMO",
+      "footprint_id": 5264
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MILLEN",
+      "footprint_id": 5273
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LAKEWOOD",
+      "footprint_id": 5308
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MONTROSE",
+      "footprint_id": 5320
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "THOMASVL",
+      "footprint_id": 5327
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MACON",
+      "footprint_id": 5356
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "PORTAL",
+      "footprint_id": 5365
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "RICHMONDHL",
+      "footprint_id": 5498
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CORNELIA",
+      "footprint_id": 5589
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "SPARTA",
+      "footprint_id": 5605
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LA FAYETTE",
+      "footprint_id": 5617
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CULLODEN",
+      "footprint_id": 5625
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "HILLTONIA",
+      "footprint_id": 5648
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "WILLACOCHE",
+      "footprint_id": 5678
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "HINESVILLE",
+      "footprint_id": 5684
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CHATSWORTH",
+      "footprint_id": 5870
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "DANIELSVL",
+      "footprint_id": 5890
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "GENEVA",
+      "footprint_id": 5938
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LAVONIA",
+      "footprint_id": 5972
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CAMILLA",
+      "footprint_id": 6007
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "SPARKS",
+      "footprint_id": 6025
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "WAYNESBORO",
+      "footprint_id": 6031
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CARROLLTON",
+      "footprint_id": 6032
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "FAIRMOUNT",
+      "footprint_id": 6049
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "YATESVILLE",
+      "footprint_id": 6066
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "RANGER",
+      "footprint_id": 6100
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "DILLRDMTCY",
+      "footprint_id": 6128
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "EATONTON",
+      "footprint_id": 6172
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "FORTGAINES",
+      "footprint_id": 6321
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "HOBOKEN",
+      "footprint_id": 6338
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "NELSON",
+      "footprint_id": 6345
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LYERLY",
+      "footprint_id": 6361
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CALVAYRENO",
+      "footprint_id": 6535
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "TALLAPOOSA",
+      "footprint_id": 6608
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LESLIE",
+      "footprint_id": 6613
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MILLEDGEVL",
+      "footprint_id": 6643
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "SPRINGFLD",
+      "footprint_id": 6671
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "SOCIALCRCL",
+      "footprint_id": 6690
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ADEL",
+      "footprint_id": 6696
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CLEVELAND",
+      "footprint_id": 6749
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "TOCCOA",
+      "footprint_id": 6752
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "COMMERCE",
+      "footprint_id": 6773
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MCRAE",
+      "footprint_id": 6790
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "FORTVALLEY",
+      "footprint_id": 6854
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "HAHIRA",
+      "footprint_id": 7012
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LEXINGTON",
+      "footprint_id": 7061
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "REGISTER",
+      "footprint_id": 7149
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "FLOWEYBRCH",
+      "footprint_id": 7174
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ALMA",
+      "footprint_id": 7217
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "SUMMERVL",
+      "footprint_id": 7323
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "RINCON",
+      "footprint_id": 7329
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "VILLANOW",
+      "footprint_id": 7373
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ZEBULON",
+      "footprint_id": 7408
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "IRON CITY",
+      "footprint_id": 7453
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ENIGMA",
+      "footprint_id": 7520
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "WADLEY",
+      "footprint_id": 7530
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MORGAN",
+      "footprint_id": 7702
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "WHITE PL",
+      "footprint_id": 7727
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "RUTLEDGE",
+      "footprint_id": 7729
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "HOMERVILLE",
+      "footprint_id": 7752
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "FUNSTON",
+      "footprint_id": 7799
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "REIDSVILLE",
+      "footprint_id": 7805
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "REBECCA",
+      "footprint_id": 7886
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ELLABELLE",
+      "footprint_id": 7921
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "COLLINS",
+      "footprint_id": 7924
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CENTERVL",
+      "footprint_id": 7967
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "SHELLMAN",
+      "footprint_id": 7970
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "JACKSONVL",
+      "footprint_id": 7973
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LAKELAND",
+      "footprint_id": 8014
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "DANVILLE",
+      "footprint_id": 8112
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "VIDALIA",
+      "footprint_id": 8161
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "UNIONPOINT",
+      "footprint_id": 8261
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "EULONIA",
+      "footprint_id": 8269
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "PLAINS",
+      "footprint_id": 8303
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "GREENSBORO",
+      "footprint_id": 8504
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "UNADILLA",
+      "footprint_id": 8586
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "TIFTON",
+      "footprint_id": 8626
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "WAVELYHALL",
+      "footprint_id": 8636
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "DIR ASST",
+      "footprint_id": 8645
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BARTOW",
+      "footprint_id": 8706
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "DARIEN",
+      "footprint_id": 8748
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "WATKINSVL",
+      "footprint_id": 8807
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LUMBERCITY",
+      "footprint_id": 8814
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "TEMPLE",
+      "footprint_id": 8882
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "DAWSON",
+      "footprint_id": 8915
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BYROMVILLE",
+      "footprint_id": 9008
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "HAWKINSVL",
+      "footprint_id": 9028
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MORVEN",
+      "footprint_id": 9065
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "WOODBURY",
+      "footprint_id": 9113
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CUTHBERT",
+      "footprint_id": 9152
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ADRIAN",
+      "footprint_id": 9387
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "WOODLAND",
+      "footprint_id": 9403
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MILAN",
+      "footprint_id": 9465
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "GAY",
+      "footprint_id": 9570
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MIDVILLE",
+      "footprint_id": 9609
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "GLENWOOD",
+      "footprint_id": 9642
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CAVESPRING",
+      "footprint_id": 9663
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MEIGS",
+      "footprint_id": 9667
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LYONS",
+      "footprint_id": 9834
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ROOPVILLE",
+      "footprint_id": 9874
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CONYERS",
+      "footprint_id": 9950
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ALBANY",
+      "footprint_id": 9968
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "STILSON",
+      "footprint_id": 9979
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "FORSYTH",
+      "footprint_id": 9983
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "OMEGA",
+      "footprint_id": 10040
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "WAYNESVL",
+      "footprint_id": 10062
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "SUCHES",
+      "footprint_id": 10107
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "JOHNSONCOR",
+      "footprint_id": 10152
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "COLQUITT",
+      "footprint_id": 10185
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LEESBURG",
+      "footprint_id": 10270
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CLARKESVL",
+      "footprint_id": 10288
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "DOVER",
+      "footprint_id": 10290
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CLAXTON",
+      "footprint_id": 10448
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "JACKSON",
+      "footprint_id": 10475
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LAKE PARK",
+      "footprint_id": 10489
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "AMERICUS",
+      "footprint_id": 10645
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "TWIN CITY",
+      "footprint_id": 10718
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "GEORGETOWN",
+      "footprint_id": 10830
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "TOOMSBORO",
+      "footprint_id": 10876
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "OAK PARK",
+      "footprint_id": 10890
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BUCHANAN",
+      "footprint_id": 10902
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "PENDERGRSS",
+      "footprint_id": 11004
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "UVALDA",
+      "footprint_id": 11016
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ELLIJAY",
+      "footprint_id": 11041
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BOGARTSTHM",
+      "footprint_id": 11047
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "DEXTER",
+      "footprint_id": 11054
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ST GEORGE",
+      "footprint_id": 11075
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "HAZLEHURST",
+      "footprint_id": 11106
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "PELHAM",
+      "footprint_id": 11200
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "GUYTON",
+      "footprint_id": 11206
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "VALDOSTA",
+      "footprint_id": 11247
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CAIRO",
+      "footprint_id": 11286
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "COLBERT",
+      "footprint_id": 11317
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CHATAHOCHE",
+      "footprint_id": 11337
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "KENSINGTON",
+      "footprint_id": 11355
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "PEARSON",
+      "footprint_id": 11390
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "FRANKLIN",
+      "footprint_id": 11401
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MARSHALLVL",
+      "footprint_id": 11402
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "PITTS",
+      "footprint_id": 11443
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "TRENTON",
+      "footprint_id": 11488
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "VIENNA",
+      "footprint_id": 11491
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ROME",
+      "footprint_id": 11603
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "HORTENSE",
+      "footprint_id": 11651
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "THOMASTON",
+      "footprint_id": 11655
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CEDAR SPG",
+      "footprint_id": 11677
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ELBERTON",
+      "footprint_id": 11759
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BLUE RIDGE",
+      "footprint_id": 11792
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CANTON",
+      "footprint_id": 11810
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BLAKELY",
+      "footprint_id": 11827
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "NEWINGTON",
+      "footprint_id": 11851
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "XXXXXXXXXX",
+      "footprint_id": 11877
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MARBLEHILL",
+      "footprint_id": 11950
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "DALTON",
+      "footprint_id": 12035
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BYRON",
+      "footprint_id": 12101
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LKBLACKSHE",
+      "footprint_id": 12150
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "GAINESVL",
+      "footprint_id": 12398
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CLITO",
+      "footprint_id": 12454
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MONROE",
+      "footprint_id": 12460
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MT VERNON",
+      "footprint_id": 12611
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "PERRY",
+      "footprint_id": 12693
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MONTEZUMA",
+      "footprint_id": 12701
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CHICKAMAGA",
+      "footprint_id": 12710
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "NEWTON",
+      "footprint_id": 12738
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ROSSVILLE",
+      "footprint_id": 12758
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "HOMER",
+      "footprint_id": 12777
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "NAHUNTA",
+      "footprint_id": 12778
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BRASELTON",
+      "footprint_id": 12892
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LEARY",
+      "footprint_id": 12912
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "POOLER",
+      "footprint_id": 12939
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "GRIFFIN",
+      "footprint_id": 12941
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ODUM",
+      "footprint_id": 13210
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "HEPHZIBAH",
+      "footprint_id": 13295
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ADAIRSVL",
+      "footprint_id": 13316
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BARNESVL",
+      "footprint_id": 13327
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "EASTANOLLE",
+      "footprint_id": 13373
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MANCHESTER",
+      "footprint_id": 13400
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BAXLEY",
+      "footprint_id": 13414
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "JEKYLL IS",
+      "footprint_id": 13450
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "RAY CITY",
+      "footprint_id": 13480
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "RHINE",
+      "footprint_id": 13604
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CARLTON",
+      "footprint_id": 13753
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "SO GUYTON",
+      "footprint_id": 13784
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MONTICELLO",
+      "footprint_id": 13798
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "HAMILTON",
+      "footprint_id": 13897
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "WINDER",
+      "footprint_id": 13947
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "FARGO",
+      "footprint_id": 14036
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LULA",
+      "footprint_id": 14041
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BOSTON",
+      "footprint_id": 14092
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "STATESBORO",
+      "footprint_id": 14124
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "NASHVILLE",
+      "footprint_id": 14125
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "FOLKSTON",
+      "footprint_id": 14193
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CORDELE",
+      "footprint_id": 14282
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "WHIGHAM",
+      "footprint_id": 14320
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "SYLVANIA",
+      "footprint_id": 14364
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "WEST BROW",
+      "footprint_id": 14516
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "PATTERSON",
+      "footprint_id": 14544
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BLUFFTON",
+      "footprint_id": 14564
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BUFORD",
+      "footprint_id": 14583
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ELLAVILLE",
+      "footprint_id": 14686
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ATLANTA NE",
+      "footprint_id": 14750
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CLERMONT",
+      "footprint_id": 14768
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "WARRENTON",
+      "footprint_id": 14885
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CONCORD",
+      "footprint_id": 14896
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "COBBTOWN",
+      "footprint_id": 14948
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ST MARYS",
+      "footprint_id": 14993
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BREMEN",
+      "footprint_id": 15066
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "HADDOCK",
+      "footprint_id": 15082
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BROOKLET",
+      "footprint_id": 15212
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "GREENVILLE",
+      "footprint_id": 15247
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ARLINGTON",
+      "footprint_id": 15254
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "HIAWASSEE",
+      "footprint_id": 15281
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ASHBURN",
+      "footprint_id": 15312
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ATLANTA",
+      "footprint_id": 15328
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "COLUMBUS",
+      "footprint_id": 15415
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "COCHRAN",
+      "footprint_id": 15425
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "TALBOTTON",
+      "footprint_id": 15450
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BLAIRSVL",
+      "footprint_id": 15480
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "DIAL",
+      "footprint_id": 15514
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CEDARTOWN",
+      "footprint_id": 15532
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "TENNGA",
+      "footprint_id": 15640
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "RINGGOLD",
+      "footprint_id": 15657
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "RAYLE",
+      "footprint_id": 15839
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "HOGANSVL",
+      "footprint_id": 15840
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "PAVO",
+      "footprint_id": 15936
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "PINE MT",
+      "footprint_id": 16046
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "TIGNALL",
+      "footprint_id": 16152
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "SAPELO IS",
+      "footprint_id": 16191
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "KITE",
+      "footprint_id": 16343
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "LUDOWICI",
+      "footprint_id": 16400
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ANDERSON",
+      "footprint_id": 16481
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "SYLVESTER",
+      "footprint_id": 16620
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "BIG CANOE",
+      "footprint_id": 16637
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ALAPAHA",
+      "footprint_id": 16663
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "OCILLA",
+      "footprint_id": 16679
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "CALHOUN",
+      "footprint_id": 16934
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "COOLIDGE",
+      "footprint_id": 16953
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "TYBEE IS",
+      "footprint_id": 17063
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "WARNERRBNS",
+      "footprint_id": 17166
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "STSIMONSIS",
+      "footprint_id": 17239
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "DAVISBORO",
+      "footprint_id": 17292
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "NOBLE",
+      "footprint_id": 17294
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "HIGH POINT",
+      "footprint_id": 17309
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "METASVILLE",
+      "footprint_id": 17337
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "JEFFERSON",
+      "footprint_id": 17398
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "PINEVIEW",
+      "footprint_id": 17453
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "RICHLAND",
+      "footprint_id": 17471
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "MAYSVILLE",
+      "footprint_id": 17479
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ATLANTA SO",
+      "footprint_id": 17506
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "ROYSTON",
+      "footprint_id": 17668
+    },
+    {
+      "country": "US",
+      "state": "GA",
+      "name": "OCHLOCKNEE",
+      "footprint_id": 17703
+    }
+  ]
+}

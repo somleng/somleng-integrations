@@ -1,0 +1,3166 @@
+{
+  "rate_centers": [
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BATTLEGRND",
+      "footprint_id": 21
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LINDEN",
+      "footprint_id": 25
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PERU",
+      "footprint_id": 115
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MARENGO",
+      "footprint_id": 186
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FARMLAND",
+      "footprint_id": 221
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ELIZABTHTN",
+      "footprint_id": 236
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FORTBRANCH",
+      "footprint_id": 253
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PALMYRA",
+      "footprint_id": 446
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WOLCOTT",
+      "footprint_id": 462
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WINGATE",
+      "footprint_id": 463
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "DUNLAP",
+      "footprint_id": 465
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FREELANDVL",
+      "footprint_id": 490
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FRANCESVL",
+      "footprint_id": 540
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "NEWCARLISL",
+      "footprint_id": 580
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "DALE",
+      "footprint_id": 637
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PREBLE",
+      "footprint_id": 644
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CONNERSVL",
+      "footprint_id": 657
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PLYMOUTH",
+      "footprint_id": 666
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "OWENSVILLE",
+      "footprint_id": 718
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ROSSVILLE",
+      "footprint_id": 722
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SANDRIDGE",
+      "footprint_id": 738
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "HANNA",
+      "footprint_id": 752
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MECHANSBG",
+      "footprint_id": 758
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LAPEL",
+      "footprint_id": 791
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LOWELL",
+      "footprint_id": 828
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WALTON",
+      "footprint_id": 865
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BIRDSEYE",
+      "footprint_id": 977
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SO MILFORD",
+      "footprint_id": 979
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MEROM",
+      "footprint_id": 983
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WARSAW",
+      "footprint_id": 1002
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ACTON",
+      "footprint_id": 1077
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SPICELAND",
+      "footprint_id": 1087
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MONROECITY",
+      "footprint_id": 1120
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PEORIA",
+      "footprint_id": 1199
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MOORELAND",
+      "footprint_id": 1200
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SHARPSVL",
+      "footprint_id": 1211
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "NO WEBSTER",
+      "footprint_id": 1254
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LYONS",
+      "footprint_id": 1269
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SPURGEON",
+      "footprint_id": 1305
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LUCERNE",
+      "footprint_id": 1313
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "TRINIYWLMS",
+      "footprint_id": 1369
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PARAGON",
+      "footprint_id": 1373
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ST PHILIP",
+      "footprint_id": 1386
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "TIPTON",
+      "footprint_id": 1405
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SAN PIERRE",
+      "footprint_id": 1439
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PLEASANTML",
+      "footprint_id": 1450
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CRAWFODSVL",
+      "footprint_id": 1474
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MEDARYVL",
+      "footprint_id": 1485
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SPENCERVL",
+      "footprint_id": 1491
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SCIPIO",
+      "footprint_id": 1511
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "HAYSVILLE",
+      "footprint_id": 1530
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "RESERVOIR",
+      "footprint_id": 1542
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MT VERNON",
+      "footprint_id": 1548
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "OAKTOWN",
+      "footprint_id": 1556
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SEYMOUR",
+      "footprint_id": 1578
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WESTNEWTON",
+      "footprint_id": 1589
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "COLFAX",
+      "footprint_id": 1632
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ELIZABETH",
+      "footprint_id": 1794
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CORUNNA",
+      "footprint_id": 1912
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WHEATLAND",
+      "footprint_id": 1913
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PLAINFIELD",
+      "footprint_id": 1915
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LINN GROVE",
+      "footprint_id": 1964
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "GREENFIELD",
+      "footprint_id": 1974
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "RAMSEY",
+      "footprint_id": 2031
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CAYUGA",
+      "footprint_id": 2060
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PLAINVILLE",
+      "footprint_id": 2088
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FOUNTAINCY",
+      "footprint_id": 2113
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "GENEVA",
+      "footprint_id": 2149
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WINCHESTER",
+      "footprint_id": 2209
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WADESVILLE",
+      "footprint_id": 2225
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FLORA",
+      "footprint_id": 2275
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "HYMERA",
+      "footprint_id": 2297
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "HENRYVILLE",
+      "footprint_id": 2298
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ZANESVILLE",
+      "footprint_id": 2324
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CORY",
+      "footprint_id": 2331
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ATWOOD",
+      "footprint_id": 2342
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "COVINGTON",
+      "footprint_id": 2352
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SWEETSER",
+      "footprint_id": 2413
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "JASONVILLE",
+      "footprint_id": 2460
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BIPPUS",
+      "footprint_id": 2525
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LAWRENCEBG",
+      "footprint_id": 2573
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "GUILFORD",
+      "footprint_id": 2617
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MORRISTOWN",
+      "footprint_id": 2626
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LIBERTY",
+      "footprint_id": 2677
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WHITELAND",
+      "footprint_id": 2680
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WAKARUSA",
+      "footprint_id": 2681
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CROTHERSVL",
+      "footprint_id": 2698
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "NO VERNON",
+      "footprint_id": 2775
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BUTLERVL",
+      "footprint_id": 2791
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FAIRLAND",
+      "footprint_id": 2819
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "W LEBANON",
+      "footprint_id": 2836
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MONTICELLO",
+      "footprint_id": 2850
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "AMBOY",
+      "footprint_id": 2857
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "DIR ASST",
+      "footprint_id": 2887
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ST JOSEPH",
+      "footprint_id": 2910
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ELWOOD",
+      "footprint_id": 2927
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "NEW LISBON",
+      "footprint_id": 3000
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ARLINGTON",
+      "footprint_id": 3006
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "KENTLAND",
+      "footprint_id": 3074
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WAYNETOWN",
+      "footprint_id": 3080
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ENGLISH",
+      "footprint_id": 3095
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BLOUNTSVL",
+      "footprint_id": 3133
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MITCHELL",
+      "footprint_id": 3145
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ROSEDALE",
+      "footprint_id": 3171
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MOORESHILL",
+      "footprint_id": 3186
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FARMERSBG",
+      "footprint_id": 3199
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SANJACINTO",
+      "footprint_id": 3202
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "REDDINGTON",
+      "footprint_id": 3213
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LAFAYETTE",
+      "footprint_id": 3247
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "KIMMELL",
+      "footprint_id": 3248
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WAWAKA",
+      "footprint_id": 3258
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CHARLOTSVL",
+      "footprint_id": 3268
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "UNIONDALE",
+      "footprint_id": 3288
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ROANOKE",
+      "footprint_id": 3355
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PORTLAND",
+      "footprint_id": 3420
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "NOBLESVL",
+      "footprint_id": 3456
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "REYNOLDS",
+      "footprint_id": 3473
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LAGRO",
+      "footprint_id": 3546
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ROSELAWN",
+      "footprint_id": 3570
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ELLETTSVL",
+      "footprint_id": 3577
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PATRIOT",
+      "footprint_id": 3604
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BROOKSTON",
+      "footprint_id": 3631
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "VINCENNES",
+      "footprint_id": 3683
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "DARLINGTON",
+      "footprint_id": 3685
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "KINGMAN",
+      "footprint_id": 3728
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PRAIRIECRK",
+      "footprint_id": 3746
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LEWIS",
+      "footprint_id": 3752
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FLAT ROCK",
+      "footprint_id": 3815
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ELBERFELD",
+      "footprint_id": 3909
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FRENCHLICK",
+      "footprint_id": 3937
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MEDORA",
+      "footprint_id": 3958
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MONGO",
+      "footprint_id": 3960
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MAXWELL",
+      "footprint_id": 3993
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "GEETINGSVL",
+      "footprint_id": 4050
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SALAMONIA",
+      "footprint_id": 4057
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CLAYTON",
+      "footprint_id": 4077
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "NEW ROSS",
+      "footprint_id": 4106
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "W HARRISON",
+      "footprint_id": 4126
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LYNN",
+      "footprint_id": 4206
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MERRILLVL",
+      "footprint_id": 4261
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "NEWHARMONY",
+      "footprint_id": 4308
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "GREENWOOD",
+      "footprint_id": 4311
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ETNA",
+      "footprint_id": 4339
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LAUD",
+      "footprint_id": 4345
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WCOLLGECOR",
+      "footprint_id": 4358
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SHIPSHEWNA",
+      "footprint_id": 4364
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FOWLER",
+      "footprint_id": 4414
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ALBION",
+      "footprint_id": 4420
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "NEW MARKET",
+      "footprint_id": 4459
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MARKLEVL",
+      "footprint_id": 4466
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SMITHVILLE",
+      "footprint_id": 4490
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ALFOVLGNDL",
+      "footprint_id": 4511
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "INDIANAPLS",
+      "footprint_id": 4663
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ANDREWS",
+      "footprint_id": 4666
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ODON",
+      "footprint_id": 4699
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WASHINGTON",
+      "footprint_id": 4713
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "KNOX",
+      "footprint_id": 4717
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "HOLLAND",
+      "footprint_id": 4793
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BARGERSVL",
+      "footprint_id": 4820
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MONROVIA",
+      "footprint_id": 4825
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ST JOE",
+      "footprint_id": 4853
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "TIPPECANOE",
+      "footprint_id": 4856
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "NASHVILLE",
+      "footprint_id": 4867
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FILLMORE",
+      "footprint_id": 4875
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ANDERSON",
+      "footprint_id": 4946
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "GOODLAND",
+      "footprint_id": 4965
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MONROEVL",
+      "footprint_id": 4984
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "AUBURN",
+      "footprint_id": 5032
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CLAYPOOL",
+      "footprint_id": 5039
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PATRICKSBG",
+      "footprint_id": 5094
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "NEWMIDDLTN",
+      "footprint_id": 5095
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "OTTERBEIN",
+      "footprint_id": 5134
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "DENVER",
+      "footprint_id": 5137
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "COLUMBUS",
+      "footprint_id": 5210
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "GOSPORT",
+      "footprint_id": 5225
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PLEASANTLK",
+      "footprint_id": 5241
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "GREENSFORK",
+      "footprint_id": 5246
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "NO LIBERTY",
+      "footprint_id": 5367
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "DUNKIRK",
+      "footprint_id": 5372
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BLUFFTON",
+      "footprint_id": 5395
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BROWNSBURG",
+      "footprint_id": 5407
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "DEMOTTE",
+      "footprint_id": 5417
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WILKINSON",
+      "footprint_id": 5457
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SUMMITVL",
+      "footprint_id": 5479
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "EVANSVILLE",
+      "footprint_id": 5499
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "HILLSBORO",
+      "footprint_id": 5563
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "TRI LAKES",
+      "footprint_id": 5584
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CROWNPOINT",
+      "footprint_id": 5700
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "JAMESTOWN",
+      "footprint_id": 5716
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SOLITUDE",
+      "footprint_id": 5744
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CLARKSHILL",
+      "footprint_id": 5759
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PIERCETON",
+      "footprint_id": 5778
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CYNTHIANA",
+      "footprint_id": 5802
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SO WHITLEY",
+      "footprint_id": 5883
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LEBANON",
+      "footprint_id": 5885
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LANESVILLE",
+      "footprint_id": 5912
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "HEBRON",
+      "footprint_id": 5923
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "E CHICAGO",
+      "footprint_id": 5969
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "KNIGHTSTN",
+      "footprint_id": 5971
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SELLERSBG",
+      "footprint_id": 6017
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CRAIGVILLE",
+      "footprint_id": 6056
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SHELBYVL",
+      "footprint_id": 6075
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "AVILLA",
+      "footprint_id": 6085
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SALEM",
+      "footprint_id": 6099
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BURNETTSVL",
+      "footprint_id": 6101
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WHITING",
+      "footprint_id": 6112
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ASHLEY",
+      "footprint_id": 6180
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BERNE",
+      "footprint_id": 6200
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SULLIVAN",
+      "footprint_id": 6234
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BROWNSTOWN",
+      "footprint_id": 6254
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CROSS PL",
+      "footprint_id": 6371
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "HAGERSTOWN",
+      "footprint_id": 6394
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "POLAND",
+      "footprint_id": 6411
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "DECKER",
+      "footprint_id": 6485
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "HAMMOND",
+      "footprint_id": 6514
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "OSSIAN",
+      "footprint_id": 6547
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "DYER",
+      "footprint_id": 6570
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MILFORD",
+      "footprint_id": 6592
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BRAZIL",
+      "footprint_id": 6598
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "NOMANCHETR",
+      "footprint_id": 6607
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BATESVILLE",
+      "footprint_id": 6624
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PENNVILLE",
+      "footprint_id": 6652
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MACKEY",
+      "footprint_id": 6686
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "XXXXXXXXXX",
+      "footprint_id": 6694
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LA PORTE",
+      "footprint_id": 6813
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WARREN",
+      "footprint_id": 6834
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WABASH",
+      "footprint_id": 6914
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LEESBURG",
+      "footprint_id": 6917
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "NAPPANEE",
+      "footprint_id": 6951
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LIZTON",
+      "footprint_id": 6956
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CHARLESTN",
+      "footprint_id": 6982
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MONTGOMERY",
+      "footprint_id": 6993
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SIDNEY",
+      "footprint_id": 6997
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "HIGHLAND",
+      "footprint_id": 7120
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CAMPBELSBG",
+      "footprint_id": 7253
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BUTLER",
+      "footprint_id": 7343
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BLOOMINGTN",
+      "footprint_id": 7424
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "DILLSBORO",
+      "footprint_id": 7478
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FRITCHTON",
+      "footprint_id": 7521
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WOLCOTTVL",
+      "footprint_id": 7542
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WHITESTOWN",
+      "footprint_id": 7648
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PITTSBORO",
+      "footprint_id": 7662
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ROLLNGPRRI",
+      "footprint_id": 7719
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "EMINENCE",
+      "footprint_id": 7732
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MONON",
+      "footprint_id": 7733
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "NEW HAVEN",
+      "footprint_id": 7756
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "STANFORD",
+      "footprint_id": 7821
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MARIETTA",
+      "footprint_id": 7831
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "HAZLETON",
+      "footprint_id": 7848
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LEO",
+      "footprint_id": 7850
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FRANCISCO",
+      "footprint_id": 7984
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "DANVILLE",
+      "footprint_id": 8121
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ST MARKS",
+      "footprint_id": 8194
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BUCK CREEK",
+      "footprint_id": 8214
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BURKET",
+      "footprint_id": 8237
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SCOTTSBURG",
+      "footprint_id": 8308
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WINAMAC",
+      "footprint_id": 8351
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MCCORDSVL",
+      "footprint_id": 8403
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MELLOTT",
+      "footprint_id": 8409
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "THORNTOWN",
+      "footprint_id": 8552
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "OXFORD",
+      "footprint_id": 8554
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MODOC",
+      "footprint_id": 8572
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MAYS",
+      "footprint_id": 8573
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MICHIGANCY",
+      "footprint_id": 8628
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BUFFALO",
+      "footprint_id": 8637
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WYATT",
+      "footprint_id": 8668
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "GASTON",
+      "footprint_id": 8669
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MOROCCO",
+      "footprint_id": 8679
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BURROWS",
+      "footprint_id": 8782
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "REDKEY",
+      "footprint_id": 8799
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CRANDALL",
+      "footprint_id": 8831
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "NEW CASTLE",
+      "footprint_id": 8860
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LAKEMONROE",
+      "footprint_id": 8996
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "KENDALLVL",
+      "footprint_id": 9003
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ARCOLA",
+      "footprint_id": 9133
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MTMERIDIAN",
+      "footprint_id": 9149
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CHANDLER",
+      "footprint_id": 9351
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "EENTERPRIS",
+      "footprint_id": 9354
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CUMBERLAND",
+      "footprint_id": 9362
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BOONVILLE",
+      "footprint_id": 9373
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CEDAR LAKE",
+      "footprint_id": 9399
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MILLTOWN",
+      "footprint_id": 9406
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CHESTERTON",
+      "footprint_id": 9462
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SHELBURN",
+      "footprint_id": 9464
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MARION",
+      "footprint_id": 9503
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "TELL CITY",
+      "footprint_id": 9510
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CRANE",
+      "footprint_id": 9530
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "RISING SUN",
+      "footprint_id": 9565
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CHRISNEY",
+      "footprint_id": 9606
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CENTERVL",
+      "footprint_id": 9630
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FULTON",
+      "footprint_id": 9712
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "EATON",
+      "footprint_id": 9733
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PRINCETON",
+      "footprint_id": 9787
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "POE HOAGLD",
+      "footprint_id": 9831
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "HOBART",
+      "footprint_id": 9840
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LAFONTAINE",
+      "footprint_id": 9885
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FREDECKSBG",
+      "footprint_id": 9902
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FORTVILLE",
+      "footprint_id": 9920
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MONROE",
+      "footprint_id": 9928
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MARSHALL",
+      "footprint_id": 10060
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LIBERTYCTR",
+      "footprint_id": 10076
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LADOGA",
+      "footprint_id": 10077
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CANAAN",
+      "footprint_id": 10109
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BEDFORD",
+      "footprint_id": 10173
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BROOK",
+      "footprint_id": 10190
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "RUSHVILLE",
+      "footprint_id": 10297
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BLOOMFIELD",
+      "footprint_id": 10299
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "VALPARAISO",
+      "footprint_id": 10300
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FERDINAND",
+      "footprint_id": 10303
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "TERREHAUTE",
+      "footprint_id": 10355
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LAGRANGE",
+      "footprint_id": 10394
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BREMEN",
+      "footprint_id": 10400
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SOUTH BEND",
+      "footprint_id": 10423
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CLOVERDALE",
+      "footprint_id": 10441
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CAMBDG CY",
+      "footprint_id": 10509
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MIDDLETOWN",
+      "footprint_id": 10525
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MILLERSBG",
+      "footprint_id": 10546
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "AUSTIN",
+      "footprint_id": 10562
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MARTINSVL",
+      "footprint_id": 10579
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "POKAGON",
+      "footprint_id": 10596
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ST JOHN",
+      "footprint_id": 10638
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ZIONSVILLE",
+      "footprint_id": 10641
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CUTLER",
+      "footprint_id": 10700
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "KOUTS",
+      "footprint_id": 10711
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ATLANTA",
+      "footprint_id": 10778
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WHEATFIELD",
+      "footprint_id": 10825
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WESTFIELD",
+      "footprint_id": 10845
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "KIRKLIN",
+      "footprint_id": 10887
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WOODBURN",
+      "footprint_id": 10897
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "HARTFORDCY",
+      "footprint_id": 10898
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LOGANSPORT",
+      "footprint_id": 10942
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "KOKOMO",
+      "footprint_id": 10952
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "GRAYSVILLE",
+      "footprint_id": 11001
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MILROY",
+      "footprint_id": 11046
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CARTHAGE",
+      "footprint_id": 11099
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ROCKPORT",
+      "footprint_id": 11145
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SYRACUSE",
+      "footprint_id": 11174
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ATTICA",
+      "footprint_id": 11263
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LAPAZ",
+      "footprint_id": 11265
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FISHERS",
+      "footprint_id": 11277
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FAIRBANKS",
+      "footprint_id": 11314
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FRANKTON",
+      "footprint_id": 11338
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BANDON",
+      "footprint_id": 11358
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "GOSHEN",
+      "footprint_id": 11398
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "DUGGER",
+      "footprint_id": 11406
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ST MEINRAD",
+      "footprint_id": 11440
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MARKLE",
+      "footprint_id": 11444
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "GARRETT",
+      "footprint_id": 11445
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WAVELAND",
+      "footprint_id": 11473
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "NEWWSHNGTN",
+      "footprint_id": 11562
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SANDBORN",
+      "footprint_id": 11611
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MORTON",
+      "footprint_id": 11623
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MORGANTOWN",
+      "footprint_id": 11649
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MILAN",
+      "footprint_id": 11684
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MADISON",
+      "footprint_id": 11742
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MULBERRY",
+      "footprint_id": 11808
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "GALVESTON",
+      "footprint_id": 11822
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LINTON",
+      "footprint_id": 11824
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CLAY CITY",
+      "footprint_id": 11837
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BRISTOL",
+      "footprint_id": 11850
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SHIRLEY",
+      "footprint_id": 11925
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WALKERTON",
+      "footprint_id": 11944
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CENTER PT",
+      "footprint_id": 12047
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ST LEON",
+      "footprint_id": 12052
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FORT WAYNE",
+      "footprint_id": 12143
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "VEVAY",
+      "footprint_id": 12145
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CHURUBUSCO",
+      "footprint_id": 12184
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "COLUMBIACY",
+      "footprint_id": 12299
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "GEORGETOWN",
+      "footprint_id": 12311
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PATOKA",
+      "footprint_id": 12329
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MONTPELIER",
+      "footprint_id": 12385
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "TOPEKA",
+      "footprint_id": 12387
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FAIRMOUNT",
+      "footprint_id": 12424
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "RICHMOND",
+      "footprint_id": 12472
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "AURORA",
+      "footprint_id": 12492
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MICHIGANTN",
+      "footprint_id": 12504
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "OWENSBURG",
+      "footprint_id": 12572
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "UNION CITY",
+      "footprint_id": 12594
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MIDDLEBURY",
+      "footprint_id": 12627
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "JASPER",
+      "footprint_id": 12672
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "VERSAILLES",
+      "footprint_id": 12790
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "GLENWOOD",
+      "footprint_id": 12793
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "HAMILTON",
+      "footprint_id": 12809
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ELKHART",
+      "footprint_id": 12863
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LAKE STA",
+      "footprint_id": 12882
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CHESTERFLD",
+      "footprint_id": 12887
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LEXINGTON",
+      "footprint_id": 12957
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MOUNT AYR",
+      "footprint_id": 12966
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "COATESVL",
+      "footprint_id": 12975
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "DUBOIS",
+      "footprint_id": 13024
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ROYAL CTR",
+      "footprint_id": 13059
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "IDAVILLE",
+      "footprint_id": 13094
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ARGOS",
+      "footprint_id": 13109
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SPRINGPORT",
+      "footprint_id": 13116
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FRANKLIN",
+      "footprint_id": 13129
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ANGOLA",
+      "footprint_id": 13144
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SPENCER",
+      "footprint_id": 13214
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FREMONT",
+      "footprint_id": 13220
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "VAN BUREN",
+      "footprint_id": 13223
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "URBANA",
+      "footprint_id": 13309
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "KEWANNA",
+      "footprint_id": 13352
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LARWILL",
+      "footprint_id": 13358
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BICKNELL",
+      "footprint_id": 13396
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "UNIONMILLS",
+      "footprint_id": 13405
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LAMAR",
+      "footprint_id": 13456
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "RILEY",
+      "footprint_id": 13473
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "HANOVER",
+      "footprint_id": 13513
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PERKINSVL",
+      "footprint_id": 13578
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "YORKTOWN",
+      "footprint_id": 13618
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ROACHDALE",
+      "footprint_id": 13619
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LAUREL",
+      "footprint_id": 13639
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BUNKERHILL",
+      "footprint_id": 13693
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CENTRAL",
+      "footprint_id": 13700
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "KEMPTON",
+      "footprint_id": 13710
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BLOOMINGDL",
+      "footprint_id": 13712
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "HOPE",
+      "footprint_id": 13764
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WORTHINGTN",
+      "footprint_id": 13933
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CLINTON",
+      "footprint_id": 13966
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BOURBON",
+      "footprint_id": 13990
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BOSWELL",
+      "footprint_id": 14077
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MONTEREY",
+      "footprint_id": 14086
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LAKE VLG",
+      "footprint_id": 14100
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "DEER CREEK",
+      "footprint_id": 14199
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WICKLIFFE",
+      "footprint_id": 14237
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FRANKFORT",
+      "footprint_id": 14272
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LYNNVILLE",
+      "footprint_id": 14318
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CICERO",
+      "footprint_id": 14390
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "YEOMAN",
+      "footprint_id": 14400
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "REMINGTON",
+      "footprint_id": 14530
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "HARLAN",
+      "footprint_id": 14546
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MCUTCHANVL",
+      "footprint_id": 14598
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SILVERLAKE",
+      "footprint_id": 14671
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MOORESVL",
+      "footprint_id": 14691
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PORTAGE",
+      "footprint_id": 14703
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SHOALS",
+      "footprint_id": 14766
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CLEARSPRNG",
+      "footprint_id": 14840
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "REELSVILLE",
+      "footprint_id": 14863
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "HAMLET",
+      "footprint_id": 14868
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ST ANTHONY",
+      "footprint_id": 14950
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ROMNEY",
+      "footprint_id": 14951
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "TOCSIN",
+      "footprint_id": 14958
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "NINEVEH",
+      "footprint_id": 14973
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LEAVENWTH",
+      "footprint_id": 14974
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "GREENCASTL",
+      "footprint_id": 14986
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WEST POINT",
+      "footprint_id": 15034
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CARMEL",
+      "footprint_id": 15095
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MENTONE",
+      "footprint_id": 15119
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PEKIN",
+      "footprint_id": 15174
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "UPLAND",
+      "footprint_id": 15253
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WHEELER",
+      "footprint_id": 15271
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "NEW PARIS",
+      "footprint_id": 15273
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "HUNTINGTON",
+      "footprint_id": 15280
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MUNCIE",
+      "footprint_id": 15338
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SHERIDAN",
+      "footprint_id": 15385
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "GRIFFIN",
+      "footprint_id": 15402
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MANILLA",
+      "footprint_id": 15418
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WINDFALL",
+      "footprint_id": 15451
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PENDLETON",
+      "footprint_id": 15452
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "NEW ALBANY",
+      "footprint_id": 15490
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "FREETOWN",
+      "footprint_id": 15493
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "EDINBURGH",
+      "footprint_id": 15543
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WALDRON",
+      "footprint_id": 15592
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MT SUMMIT",
+      "footprint_id": 15605
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WESTVILLE",
+      "footprint_id": 15673
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SWAYZEE",
+      "footprint_id": 15718
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LOOGOOTEE",
+      "footprint_id": 15768
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "DANA",
+      "footprint_id": 15788
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "RIDGEVILLE",
+      "footprint_id": 15825
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LA CROSSE",
+      "footprint_id": 15883
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "GREENTOWN",
+      "footprint_id": 15884
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PETERSBURG",
+      "footprint_id": 16007
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "HELTONVL",
+      "footprint_id": 16065
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "AKRON",
+      "footprint_id": 16098
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "RUSSIAVL",
+      "footprint_id": 16186
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "DECATUR",
+      "footprint_id": 16187
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BRUCEVILLE",
+      "footprint_id": 16261
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LACONIA",
+      "footprint_id": 16280
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "TENNYSON",
+      "footprint_id": 16281
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "NEWBURGH",
+      "footprint_id": 16333
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ROCKVILLE",
+      "footprint_id": 16334
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ALBANY",
+      "footprint_id": 16405
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "VEEDERSBG",
+      "footprint_id": 16442
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BROOKVILLE",
+      "footprint_id": 16518
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "POSEYVILLE",
+      "footprint_id": 16555
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CAMDEN",
+      "footprint_id": 16611
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "NO JUDSON",
+      "footprint_id": 16635
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "OAKLAND CY",
+      "footprint_id": 16642
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "STAR CITY",
+      "footprint_id": 16677
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MACY",
+      "footprint_id": 16843
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WATERLOO",
+      "footprint_id": 16859
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LKSFRSSONS",
+      "footprint_id": 16924
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ELNORA",
+      "footprint_id": 16925
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "TRAFALGAR",
+      "footprint_id": 16941
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "GALENA",
+      "footprint_id": 16947
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SANTACLAUS",
+      "footprint_id": 16955
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MONTEZUMA",
+      "footprint_id": 16970
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PETROLEUM",
+      "footprint_id": 16983
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "HUNTERTOWN",
+      "footprint_id": 16989
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CORYDON",
+      "footprint_id": 16993
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "GARY",
+      "footprint_id": 17038
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "HOWE",
+      "footprint_id": 17047
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CROMWELL",
+      "footprint_id": 17074
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ROANN",
+      "footprint_id": 17082
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "PAOLI",
+      "footprint_id": 17099
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "SUNMAN",
+      "footprint_id": 17108
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "NAPOLEON",
+      "footprint_id": 17147
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "OSCEOLA",
+      "footprint_id": 17169
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MILLWOOD",
+      "footprint_id": 17220
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "HUNTINGBG",
+      "footprint_id": 17228
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BRYANT",
+      "footprint_id": 17234
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WANATAH",
+      "footprint_id": 17240
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "GREENSBURG",
+      "footprint_id": 17282
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ALEXANDRIA",
+      "footprint_id": 17333
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "NEWPALSTIN",
+      "footprint_id": 17379
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "RENSSELAER",
+      "footprint_id": 17498
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "LIGONIER",
+      "footprint_id": 17537
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ORLAND",
+      "footprint_id": 17561
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "STEWART",
+      "footprint_id": 17577
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "WESTPORT",
+      "footprint_id": 17580
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "OAKLANDON",
+      "footprint_id": 17602
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "BURLINGTON",
+      "footprint_id": 17612
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "CULVER",
+      "footprint_id": 17614
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "TWELVEMILE",
+      "footprint_id": 17625
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ORLEANS",
+      "footprint_id": 17649
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "MECHANCSBG",
+      "footprint_id": 17689
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "DELPHI",
+      "footprint_id": 17702
+    },
+    {
+      "country": "US",
+      "state": "IN",
+      "name": "ROCHESTER",
+      "footprint_id": 17715
+    }
+  ]
+}

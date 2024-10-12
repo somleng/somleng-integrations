@@ -1,0 +1,2056 @@
+{
+  "rate_centers": [
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "DEFEATED",
+      "footprint_id": 11
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "TENNESSRDG",
+      "footprint_id": 85
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "KENTON",
+      "footprint_id": 208
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "DAYTON",
+      "footprint_id": 418
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SULIVNGDNS",
+      "footprint_id": 422
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SHELBY FOR",
+      "footprint_id": 549
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SELMER",
+      "footprint_id": 574
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CHATTNOOGA",
+      "footprint_id": 590
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MCMINNVL",
+      "footprint_id": 598
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "GRANVILLE",
+      "footprint_id": 656
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CUMBERLDCY",
+      "footprint_id": 699
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BULLS GAP",
+      "footprint_id": 721
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CEDARGROVE",
+      "footprint_id": 755
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CHESTNUTHI",
+      "footprint_id": 803
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "DUNLAP",
+      "footprint_id": 842
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "HILLSDALE",
+      "footprint_id": 956
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "DIBRELL",
+      "footprint_id": 1255
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "KINGSTON",
+      "footprint_id": 1314
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BYRDSTOWN",
+      "footprint_id": 1321
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "RIDGELY",
+      "footprint_id": 1408
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CLARKSVL",
+      "footprint_id": 1424
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SURGOINSVL",
+      "footprint_id": 1476
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MILLINGTON",
+      "footprint_id": 1522
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "HENDERSON",
+      "footprint_id": 1546
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MICHIE",
+      "footprint_id": 1600
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BONDECROFT",
+      "footprint_id": 1658
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SHARON",
+      "footprint_id": 1662
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CELINA",
+      "footprint_id": 1696
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "GREENFIELD",
+      "footprint_id": 1804
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "XXXXXXXXXX",
+      "footprint_id": 1922
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "NSPRINGHIL",
+      "footprint_id": 1929
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "HAMPTON",
+      "footprint_id": 1939
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SANTA FE",
+      "footprint_id": 2235
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MASON HALL",
+      "footprint_id": 2314
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "PLEASASHAD",
+      "footprint_id": 2347
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "GEORGETOWN",
+      "footprint_id": 2388
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CUMBERLDGP",
+      "footprint_id": 2404
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MINOR HILL",
+      "footprint_id": 2428
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "VIOLA",
+      "footprint_id": 2491
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CLARKRANGE",
+      "footprint_id": 2505
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "NIOTA",
+      "footprint_id": 2550
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "WILLIAMSPT",
+      "footprint_id": 2552
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "PLEASANTVW",
+      "footprint_id": 2633
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ROCKISLAND",
+      "footprint_id": 2676
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MUNFORD",
+      "footprint_id": 2684
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ARLINGTON",
+      "footprint_id": 2690
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SPARTA",
+      "footprint_id": 2695
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ADMSCDARHL",
+      "footprint_id": 2780
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "FLAT CREEK",
+      "footprint_id": 2784
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BRUCETON",
+      "footprint_id": 2803
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "EAGLEVILLE",
+      "footprint_id": 2835
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "HILLSBORO",
+      "footprint_id": 2884
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CRSPLORLND",
+      "footprint_id": 2911
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "KINGSTNSPG",
+      "footprint_id": 3053
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "NORRIS",
+      "footprint_id": 3085
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BEECHGROVE",
+      "footprint_id": 3155
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CLEVELAND",
+      "footprint_id": 3215
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "VANLEER",
+      "footprint_id": 3296
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "GIBSON",
+      "footprint_id": 3409
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "TELLICO PL",
+      "footprint_id": 3489
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "POWELL",
+      "footprint_id": 3497
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ROCKWOOD",
+      "footprint_id": 3516
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BELFAST",
+      "footprint_id": 3554
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "FOSTERVL",
+      "footprint_id": 3588
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MCKENZIE",
+      "footprint_id": 3598
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MONTEREY",
+      "footprint_id": 3599
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "RUTHERFORD",
+      "footprint_id": 3658
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "OAK GROVE",
+      "footprint_id": 3721
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "COLLINWOOD",
+      "footprint_id": 3772
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "PLEASANTHL",
+      "footprint_id": 3778
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "PALMYRA",
+      "footprint_id": 3827
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MIDWAY",
+      "footprint_id": 3862
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "VONORE",
+      "footprint_id": 3864
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "JASPER",
+      "footprint_id": 3910
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SHILOH",
+      "footprint_id": 3933
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "DRESDEN",
+      "footprint_id": 3963
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SPRINGFLD",
+      "footprint_id": 4008
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CULLEOKA",
+      "footprint_id": 4038
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "COLLEGEGRV",
+      "footprint_id": 4069
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SHADY VLY",
+      "footprint_id": 4101
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "COOKEVL SO",
+      "footprint_id": 4142
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MARTIN",
+      "footprint_id": 4174
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BALL PLAY",
+      "footprint_id": 4175
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "PELHAM",
+      "footprint_id": 4248
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "JEFFERSNCY",
+      "footprint_id": 4298
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "TANSI",
+      "footprint_id": 4343
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "COPPERBSIN",
+      "footprint_id": 4424
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "WHITEVILLE",
+      "footprint_id": 4738
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "PALMERSVL",
+      "footprint_id": 4751
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "HARRIMAN",
+      "footprint_id": 4877
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ARDMORE",
+      "footprint_id": 4897
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "HALLS",
+      "footprint_id": 4936
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "RIPLEY",
+      "footprint_id": 5062
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "WAVERLY",
+      "footprint_id": 5106
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BLANCHE",
+      "footprint_id": 5220
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CLINCHPORT",
+      "footprint_id": 5228
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ROSEMARK",
+      "footprint_id": 5238
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "TRACY CITY",
+      "footprint_id": 5250
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "TATE SPG",
+      "footprint_id": 5293
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SHARPSCHPL",
+      "footprint_id": 5300
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "PETERSBURG",
+      "footprint_id": 5325
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "HAMPSHIRE",
+      "footprint_id": 5380
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "FLCRKFALLS",
+      "footprint_id": 5481
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "GALLATIN",
+      "footprint_id": 5484
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "JOHNSON CY",
+      "footprint_id": 5488
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "LEWISBURG",
+      "footprint_id": 5502
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CLAXTON",
+      "footprint_id": 5517
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BOLIVAR",
+      "footprint_id": 5521
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SPRINGHILL",
+      "footprint_id": 5527
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MORRISTOWN",
+      "footprint_id": 5545
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "WESTMORELD",
+      "footprint_id": 5845
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "LYLES",
+      "footprint_id": 5859
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BEAN STATN",
+      "footprint_id": 5887
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ELKTON",
+      "footprint_id": 5918
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "KINGSPORT",
+      "footprint_id": 5925
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "HUNTSVILLE",
+      "footprint_id": 5981
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MAYNARDVL",
+      "footprint_id": 6046
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "DANDRIDGE",
+      "footprint_id": 6169
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BRISTOL",
+      "footprint_id": 6261
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "OLD ZION",
+      "footprint_id": 6298
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "TRIMBLE",
+      "footprint_id": 6320
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MURFREESBO",
+      "footprint_id": 6382
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SPENCERMIL",
+      "footprint_id": 6460
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "DRUMMONDS",
+      "footprint_id": 6494
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SOUTHHAZEL",
+      "footprint_id": 6599
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "LAFOLLETTE",
+      "footprint_id": 6807
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "DICKSON",
+      "footprint_id": 6815
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "OLDHICKORY",
+      "footprint_id": 6851
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "TRENTON",
+      "footprint_id": 6876
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SCUNNINGHA",
+      "footprint_id": 6969
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MT JULIET",
+      "footprint_id": 7082
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "LENOIRCITY",
+      "footprint_id": 7109
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SUNBRIGHT",
+      "footprint_id": 7234
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "GLEASON",
+      "footprint_id": 7239
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "COLUMBIA",
+      "footprint_id": 7296
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "PULASKI",
+      "footprint_id": 7301
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SCOTTSHILL",
+      "footprint_id": 7308
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CLINTON",
+      "footprint_id": 7483
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "FLINTVILLE",
+      "footprint_id": 7492
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ASHLAND CY",
+      "footprint_id": 7536
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SEWANEE",
+      "footprint_id": 7577
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "COTTAGEGRV",
+      "footprint_id": 7584
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BROWNSVL",
+      "footprint_id": 7639
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BETHPAGE",
+      "footprint_id": 7773
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "LYNCHBURG",
+      "footprint_id": 7811
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CRAWFORD",
+      "footprint_id": 7887
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "OAK RIDGE",
+      "footprint_id": 7891
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MADISONVL",
+      "footprint_id": 7934
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MEDINA",
+      "footprint_id": 7941
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MCBURG",
+      "footprint_id": 7948
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CHARLOTTE",
+      "footprint_id": 7963
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "FRIENDSHIP",
+      "footprint_id": 8041
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "COLLEGESTA",
+      "footprint_id": 8125
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "PARSONS",
+      "footprint_id": 8151
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "NEWJHNSNVL",
+      "footprint_id": 8182
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "NEWPORT",
+      "footprint_id": 8187
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CHURCHHILL",
+      "footprint_id": 8207
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "NORTH SPG",
+      "footprint_id": 8208
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MARYVILLE",
+      "footprint_id": 8260
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MONTEAGLE",
+      "footprint_id": 8424
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MOSS",
+      "footprint_id": 8428
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "DOYLE",
+      "footprint_id": 8570
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "GREENBRIER",
+      "footprint_id": 8578
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BLOUNTVL",
+      "footprint_id": 8602
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "DIR ASST",
+      "footprint_id": 8624
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "WESTSWEETW",
+      "footprint_id": 8724
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "GOODLETSVL",
+      "footprint_id": 8762
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "GAINESBORO",
+      "footprint_id": 8774
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "TIPTONVL",
+      "footprint_id": 8795
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "PIKEVILLE",
+      "footprint_id": 8927
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "WINCHESTER",
+      "footprint_id": 8972
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "WHITEBLUFF",
+      "footprint_id": 8999
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SOMERVILLE",
+      "footprint_id": 9029
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "WHITE PINE",
+      "footprint_id": 9081
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "EASTSANGO",
+      "footprint_id": 9103
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "FORK RIDGE",
+      "footprint_id": 9106
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SHELBYVL",
+      "footprint_id": 9218
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MILAN",
+      "footprint_id": 9220
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "LAGRANGE",
+      "footprint_id": 9268
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "STONEY CRK",
+      "footprint_id": 9323
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "DYERSBURG",
+      "footprint_id": 9335
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "LATHAM",
+      "footprint_id": 9401
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "RUTLEDGE",
+      "footprint_id": 9457
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "PURYEAR",
+      "footprint_id": 9531
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MOSHEIM",
+      "footprint_id": 9536
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CHARLESTON",
+      "footprint_id": 9591
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "WHITEHOUSE",
+      "footprint_id": 9599
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "WASHBURN",
+      "footprint_id": 9725
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "FREDONIA",
+      "footprint_id": 9728
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ST JOSEPH",
+      "footprint_id": 9768
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "TULLAHOMA",
+      "footprint_id": 9781
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "NASHVILLE",
+      "footprint_id": 9916
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BIG SANDY",
+      "footprint_id": 9919
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "GREENEVL",
+      "footprint_id": 10003
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SWEETWATER",
+      "footprint_id": 10106
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "COLLIERVL",
+      "footprint_id": 10387
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MTPLEASANT",
+      "footprint_id": 10401
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "GREENBACK",
+      "footprint_id": 10465
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SO PITTSBG",
+      "footprint_id": 10518
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MILLEDGEVL",
+      "footprint_id": 10601
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "LEXINGTON",
+      "footprint_id": 10639
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SOFREDONIA",
+      "footprint_id": 10761
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MANCHESTER",
+      "footprint_id": 10821
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "APISON",
+      "footprint_id": 10831
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "WATERTOWN",
+      "footprint_id": 10850
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MEMPHIS",
+      "footprint_id": 10924
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "WHITWELL",
+      "footprint_id": 11030
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "JELLICO",
+      "footprint_id": 11093
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "WAYNESBORO",
+      "footprint_id": 11102
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SODDYDAISY",
+      "footprint_id": 11162
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "LOUDON",
+      "footprint_id": 11190
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BETHEL SPG",
+      "footprint_id": 11193
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "JAMESTOWN",
+      "footprint_id": 11240
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "LAWRENCEBG",
+      "footprint_id": 11291
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MIDWAY SUL",
+      "footprint_id": 11416
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SUMMERTOWN",
+      "footprint_id": 11420
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "TRIUNE",
+      "footprint_id": 11467
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "FIVEPOINTS",
+      "footprint_id": 11514
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ATHENS",
+      "footprint_id": 11536
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "GRAND JCT",
+      "footprint_id": 11552
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CHAPELHILL",
+      "footprint_id": 11707
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SEVIERVL",
+      "footprint_id": 11749
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CAMDEN",
+      "footprint_id": 11752
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BAILEYTON",
+      "footprint_id": 11793
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MAURY CITY",
+      "footprint_id": 11838
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "OLIVER SPG",
+      "footprint_id": 11853
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ADAMSVILLE",
+      "footprint_id": 11940
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "PETROS",
+      "footprint_id": 11961
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "HOHENWALD",
+      "footprint_id": 11971
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "LORETTO",
+      "footprint_id": 12134
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "LYNNVILLE",
+      "footprint_id": 12158
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "PORTLAND",
+      "footprint_id": 12171
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "JACKSON",
+      "footprint_id": 12244
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "JONESBORO",
+      "footprint_id": 12248
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BUTLER",
+      "footprint_id": 12309
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "WARTBURG",
+      "footprint_id": 12352
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ROAN MT",
+      "footprint_id": 12355
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "RICKMAN",
+      "footprint_id": 12378
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "FRANKLIN",
+      "footprint_id": 12396
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "NEWBERN",
+      "footprint_id": 12433
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "FALLBRANCH",
+      "footprint_id": 12438
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BRAZIL",
+      "footprint_id": 12443
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "DECATUR",
+      "footprint_id": 12519
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SNEEDVILLE",
+      "footprint_id": 12560
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ONEIDA",
+      "footprint_id": 12659
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "LAKE CITY",
+      "footprint_id": 12671
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BRADFORD",
+      "footprint_id": 12721
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ERWIN",
+      "footprint_id": 12772
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ELIZABTHTN",
+      "footprint_id": 12837
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SPRINGCITY",
+      "footprint_id": 12840
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "FAIRVIEW",
+      "footprint_id": 12841
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "LOBELVILLE",
+      "footprint_id": 12848
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "WESTWHITEV",
+      "footprint_id": 12859
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SO GUTHRIE",
+      "footprint_id": 12884
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "OAKDALE",
+      "footprint_id": 12905
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "WARTRACE",
+      "footprint_id": 12958
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "OOLTEWAH",
+      "footprint_id": 12964
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BEERSHEBA",
+      "footprint_id": 12990
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "TREZEVANT",
+      "footprint_id": 13053
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SPENCER",
+      "footprint_id": 13066
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "NINE MILE",
+      "footprint_id": 13080
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CUNNINGHAM",
+      "footprint_id": 13275
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "NORMANDY",
+      "footprint_id": 13399
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ETHRIDGE",
+      "footprint_id": 13416
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "DEER LODGE",
+      "footprint_id": 13439
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "GATLINBURG",
+      "footprint_id": 13481
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "LEBANON",
+      "footprint_id": 13630
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CLIFTON",
+      "footprint_id": 13678
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "KNOXVILLE",
+      "footprint_id": 13684
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ERIN",
+      "footprint_id": 13708
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CENTERVL",
+      "footprint_id": 13714
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "HIGHLAND",
+      "footprint_id": 13744
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CENTERTOWN",
+      "footprint_id": 13761
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MOSCOW",
+      "footprint_id": 13779
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SMITHVILLE",
+      "footprint_id": 13794
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "NOLENSVL",
+      "footprint_id": 13846
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "YORKVILLE",
+      "footprint_id": 13903
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "STANTON",
+      "footprint_id": 14180
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "HORNBEAK",
+      "footprint_id": 14212
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "LIMESTONE",
+      "footprint_id": 14223
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "UNIONVILLE",
+      "footprint_id": 14246
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "LAFAYETTE",
+      "footprint_id": 14287
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SOLWAY",
+      "footprint_id": 14332
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BLUFF CITY",
+      "footprint_id": 14388
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CROSSVILLE",
+      "footprint_id": 14408
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "NEWTAZWELL",
+      "footprint_id": 14460
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CONCORD",
+      "footprint_id": 14502
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "LIVINGSTON",
+      "footprint_id": 14549
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "HARTSVILLE",
+      "footprint_id": 14659
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "DYER",
+      "footprint_id": 14685
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "DOVER",
+      "footprint_id": 14700
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "PARIS",
+      "footprint_id": 14758
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BELLS",
+      "footprint_id": 14779
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SARDIS",
+      "footprint_id": 14784
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MASCOT",
+      "footprint_id": 14789
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "LEOMA",
+      "footprint_id": 14923
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "HUMBOLDT",
+      "footprint_id": 15003
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ESTILL SPG",
+      "footprint_id": 15043
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SANGO",
+      "footprint_id": 15097
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "DECATURVL",
+      "footprint_id": 15152
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "LAAGER",
+      "footprint_id": 15249
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "HUNTINGDON",
+      "footprint_id": 15347
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "COLLEGEDL",
+      "footprint_id": 15497
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BAXTER",
+      "footprint_id": 15536
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "RICEVILLE",
+      "footprint_id": 15635
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MOUNTAINCY",
+      "footprint_id": 15649
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "LINDEN",
+      "footprint_id": 15901
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "HENNING",
+      "footprint_id": 15927
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "COKERCREEK",
+      "footprint_id": 15958
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "TROY",
+      "footprint_id": 16010
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ALAMO",
+      "footprint_id": 16070
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CYPRESS",
+      "footprint_id": 16088
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "COOKEVILLE",
+      "footprint_id": 16108
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "HENRY",
+      "footprint_id": 16153
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "HUNTLAND",
+      "footprint_id": 16350
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CORNERSVL",
+      "footprint_id": 16408
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SMYRNA",
+      "footprint_id": 16519
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ROBBINS",
+      "footprint_id": 16547
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SIDONIA",
+      "footprint_id": 16554
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MCEWEN",
+      "footprint_id": 16604
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CARTHAGE",
+      "footprint_id": 16641
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "CHSTNUMOND",
+      "footprint_id": 16706
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "GREENGROVE",
+      "footprint_id": 16771
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "LAVERGNE",
+      "footprint_id": 16889
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SAVANNAH",
+      "footprint_id": 16912
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MASON",
+      "footprint_id": 16949
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "MIDDLETON",
+      "footprint_id": 16997
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "HLSCRSSRDS",
+      "footprint_id": 17052
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "FAYETTEVL",
+      "footprint_id": 17237
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SOOAKGROVE",
+      "footprint_id": 17247
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "RDBOLNGSPG",
+      "footprint_id": 17317
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "W VANLEER",
+      "footprint_id": 17331
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "HENDERSNVL",
+      "footprint_id": 17336
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ENGLEWOOD",
+      "footprint_id": 17408
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ETOWAH",
+      "footprint_id": 17416
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "SO FULTON",
+      "footprint_id": 17460
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "UNION CITY",
+      "footprint_id": 17585
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BENTON",
+      "footprint_id": 17597
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "BENTCREEK",
+      "footprint_id": 17621
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "COVINGTON",
+      "footprint_id": 17661
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ATWOOD",
+      "footprint_id": 17667
+    },
+    {
+      "country": "US",
+      "state": "TN",
+      "name": "ROGERSVL",
+      "footprint_id": 17678
+    }
+  ]
+}

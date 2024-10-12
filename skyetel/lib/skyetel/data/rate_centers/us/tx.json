@@ -1,0 +1,7678 @@
+{
+  "rate_centers": [
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "JERMYN",
+      "footprint_id": 8
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SANFORD",
+      "footprint_id": 33
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CHESTER",
+      "footprint_id": 41
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MARIETTA",
+      "footprint_id": 49
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "REAGAN",
+      "footprint_id": 55
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SLATON",
+      "footprint_id": 58
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LITTLEFLD",
+      "footprint_id": 76
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HAWLEY",
+      "footprint_id": 88
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KAMAY",
+      "footprint_id": 95
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EUNICE WST",
+      "footprint_id": 104
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HALECENTER",
+      "footprint_id": 133
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SOUTHLAND",
+      "footprint_id": 138
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "JACKSBORO",
+      "footprint_id": 145
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RALLS",
+      "footprint_id": 179
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GALVESTON",
+      "footprint_id": 219
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CHRISTOVAL",
+      "footprint_id": 233
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GRAPEVINE",
+      "footprint_id": 242
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KNOX CITY",
+      "footprint_id": 266
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RANGER",
+      "footprint_id": 273
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "AUSTIN",
+      "footprint_id": 309
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GRAHAM",
+      "footprint_id": 334
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TEAGUE",
+      "footprint_id": 344
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WEIMAR",
+      "footprint_id": 350
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HUTTO",
+      "footprint_id": 354
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CHILTON",
+      "footprint_id": 357
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CARLSBAD",
+      "footprint_id": 366
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RAYMONDVL",
+      "footprint_id": 376
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DE SOTO",
+      "footprint_id": 382
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PEARSALL",
+      "footprint_id": 421
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROANOKE",
+      "footprint_id": 425
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SWEETWTR W",
+      "footprint_id": 438
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BELLVILLE",
+      "footprint_id": 457
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ELBERT",
+      "footprint_id": 475
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KOSCIUSKO",
+      "footprint_id": 477
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LONDON",
+      "footprint_id": 481
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BLNGNWGULF",
+      "footprint_id": 493
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SANDY",
+      "footprint_id": 501
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ARMSTRONG",
+      "footprint_id": 507
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "OZONA",
+      "footprint_id": 511
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "UTOPIA",
+      "footprint_id": 517
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GROESBECK",
+      "footprint_id": 525
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "VIVIAN",
+      "footprint_id": 553
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ELKHART",
+      "footprint_id": 558
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LUTHER",
+      "footprint_id": 560
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DILLEY",
+      "footprint_id": 565
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NEW ULM",
+      "footprint_id": 594
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "JONESBORO",
+      "footprint_id": 614
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LANGTRY",
+      "footprint_id": 660
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BOOKER",
+      "footprint_id": 670
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COUNTYLINE",
+      "footprint_id": 700
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HENRIETTA",
+      "footprint_id": 707
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CRYSTAL CY",
+      "footprint_id": 729
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ATLANTA",
+      "footprint_id": 744
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SILSBEE",
+      "footprint_id": 751
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CRANE",
+      "footprint_id": 782
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NUBIA",
+      "footprint_id": 786
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LAKE KEMP",
+      "footprint_id": 788
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "JARRELL",
+      "footprint_id": 792
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CENTRAL",
+      "footprint_id": 810
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "VINEGRROON",
+      "footprint_id": 813
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "OENAVILLE",
+      "footprint_id": 816
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ADAMSVILLE",
+      "footprint_id": 829
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PORTLAVACA",
+      "footprint_id": 841
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NAZARETH",
+      "footprint_id": 869
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KOSSE",
+      "footprint_id": 909
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MORTON",
+      "footprint_id": 911
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PADRE IS",
+      "footprint_id": 921
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BURKETT",
+      "footprint_id": 953
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MCGREGOR",
+      "footprint_id": 955
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EL PASO",
+      "footprint_id": 965
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CALAMTYCRK",
+      "footprint_id": 966
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SONORA",
+      "footprint_id": 998
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MAURICEVL",
+      "footprint_id": 1016
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HILLTOPLKS",
+      "footprint_id": 1026
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SHELDON",
+      "footprint_id": 1028
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DETROIT",
+      "footprint_id": 1057
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LONE OAK",
+      "footprint_id": 1075
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KEMAH",
+      "footprint_id": 1093
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GOOD SPG",
+      "footprint_id": 1139
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "REFUGIO",
+      "footprint_id": 1142
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WINGATE",
+      "footprint_id": 1168
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TURNERTOWN",
+      "footprint_id": 1226
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MAYPEARL",
+      "footprint_id": 1235
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PALO PINTO",
+      "footprint_id": 1241
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROCHESTER",
+      "footprint_id": 1242
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MART",
+      "footprint_id": 1248
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WILLIS",
+      "footprint_id": 1256
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DUMAS",
+      "footprint_id": 1271
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "APOLLO",
+      "footprint_id": 1275
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "AMHERST",
+      "footprint_id": 1276
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SABINA",
+      "footprint_id": 1319
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROCHELLE",
+      "footprint_id": 1320
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "JEWETT",
+      "footprint_id": 1340
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LIVERPOOL",
+      "footprint_id": 1349
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BRISTOL",
+      "footprint_id": 1372
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MULESHOE",
+      "footprint_id": 1414
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ORANGE",
+      "footprint_id": 1417
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BROWNWOOD",
+      "footprint_id": 1437
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "AGUA DULCE",
+      "footprint_id": 1456
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GAIL",
+      "footprint_id": 1462
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GONZALES",
+      "footprint_id": 1470
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PORT ALTO",
+      "footprint_id": 1488
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MALONE",
+      "footprint_id": 1493
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SCURRY",
+      "footprint_id": 1497
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DAINGERFLD",
+      "footprint_id": 1524
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HONDO",
+      "footprint_id": 1527
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DRIPPNGSPG",
+      "footprint_id": 1552
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FULLER SPG",
+      "footprint_id": 1585
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MCLEAN",
+      "footprint_id": 1592
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BRACKETTVL",
+      "footprint_id": 1608
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PURDON",
+      "footprint_id": 1610
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SABINEPASS",
+      "footprint_id": 1617
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "IMPERIAL",
+      "footprint_id": 1625
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CALDWELL",
+      "footprint_id": 1636
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "OKLAHMLANE",
+      "footprint_id": 1639
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "QUITAQUE",
+      "footprint_id": 1663
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BROWNSBORO",
+      "footprint_id": 1686
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FLAT",
+      "footprint_id": 1687
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SAN DIEGO",
+      "footprint_id": 1688
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BATESVILLE",
+      "footprint_id": 1692
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DE BERRY",
+      "footprint_id": 1698
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MILE HIGH",
+      "footprint_id": 1707
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MILANO",
+      "footprint_id": 1713
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EDEN",
+      "footprint_id": 1730
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "IREDELL",
+      "footprint_id": 1732
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HARDIN",
+      "footprint_id": 1743
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TOLAR",
+      "footprint_id": 1780
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "STONEWALL",
+      "footprint_id": 1789
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROBY",
+      "footprint_id": 1795
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WHEELER",
+      "footprint_id": 1805
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TYLER",
+      "footprint_id": 1811
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WIMBERLEY",
+      "footprint_id": 1819
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "THORNDTHRL",
+      "footprint_id": 1833
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LA BELLE",
+      "footprint_id": 1838
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "STREETMAN",
+      "footprint_id": 1844
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SANTA ROSA",
+      "footprint_id": 1860
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HOLLIDAY",
+      "footprint_id": 1880
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SPANISH FT",
+      "footprint_id": 1900
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CUERO",
+      "footprint_id": 1934
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RUNGE",
+      "footprint_id": 1937
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "REKLAW",
+      "footprint_id": 1952
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SIMMS",
+      "footprint_id": 1985
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HIGH HILL",
+      "footprint_id": 1986
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RIO HONDO",
+      "footprint_id": 2033
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "VIDOR",
+      "footprint_id": 2040
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SWEENY",
+      "footprint_id": 2074
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "POTEET",
+      "footprint_id": 2080
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RICHLD SPG",
+      "footprint_id": 2107
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NOODLE",
+      "footprint_id": 2121
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HEMPHILL",
+      "footprint_id": 2137
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ALICE",
+      "footprint_id": 2145
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PALACIOS",
+      "footprint_id": 2167
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BULA",
+      "footprint_id": 2173
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROARINGSPG",
+      "footprint_id": 2219
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "STANTON",
+      "footprint_id": 2227
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BON WIER",
+      "footprint_id": 2237
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FLORESVL",
+      "footprint_id": 2253
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GRANDVIEW",
+      "footprint_id": 2263
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HOSTYN",
+      "footprint_id": 2288
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROCKWOOD",
+      "footprint_id": 2294
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MULLEN",
+      "footprint_id": 2318
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CAMP WOOD",
+      "footprint_id": 2319
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KURTEN",
+      "footprint_id": 2320
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RULE",
+      "footprint_id": 2321
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BGBNNTNLPK",
+      "footprint_id": 2328
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NEEDVILLE",
+      "footprint_id": 2329
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CARLTON",
+      "footprint_id": 2359
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EVANT",
+      "footprint_id": 2394
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DONNA",
+      "footprint_id": 2403
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SHIRO",
+      "footprint_id": 2405
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WILMER",
+      "footprint_id": 2415
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ASPERMONT",
+      "footprint_id": 2420
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TAWAKONI",
+      "footprint_id": 2421
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WORTHAM",
+      "footprint_id": 2429
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "UMBARGER",
+      "footprint_id": 2434
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DECATUR",
+      "footprint_id": 2461
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SAN ISIDRO",
+      "footprint_id": 2463
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BLANCHARD",
+      "footprint_id": 2474
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TALCO",
+      "footprint_id": 2482
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MEDICNMOND",
+      "footprint_id": 2515
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ALEXANDER",
+      "footprint_id": 2526
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PETTUS",
+      "footprint_id": 2528
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DIR ASST",
+      "footprint_id": 2544
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MT VERNON",
+      "footprint_id": 2545
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GOODLETT",
+      "footprint_id": 2583
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TARPLEY",
+      "footprint_id": 2597
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BIRTHRIGHT",
+      "footprint_id": 2609
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COTTON CTR",
+      "footprint_id": 2613
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WOLFE CITY",
+      "footprint_id": 2635
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "VOCA",
+      "footprint_id": 2656
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MORAN",
+      "footprint_id": 2659
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HOWE",
+      "footprint_id": 2664
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SAN MARCOS",
+      "footprint_id": 2668
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FARWELL",
+      "footprint_id": 2691
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "OLNEY",
+      "footprint_id": 2696
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DORCHESTER",
+      "footprint_id": 2697
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BARKSDALE",
+      "footprint_id": 2706
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HARLETON",
+      "footprint_id": 2720
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KOON KREEK",
+      "footprint_id": 2739
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SUDAN",
+      "footprint_id": 2743
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MANVEL",
+      "footprint_id": 2751
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "E BERNARD",
+      "footprint_id": 2756
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "THORNTON",
+      "footprint_id": 2771
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DOSS",
+      "footprint_id": 2782
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ALLEN",
+      "footprint_id": 2796
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LIBERTY HL",
+      "footprint_id": 2797
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HULL",
+      "footprint_id": 2802
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PARMER",
+      "footprint_id": 2814
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BRIDGECITY",
+      "footprint_id": 2828
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROANE",
+      "footprint_id": 2843
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FROST",
+      "footprint_id": 2862
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FAIRMOUNT",
+      "footprint_id": 2869
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COMMERCE",
+      "footprint_id": 2905
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "STREETER",
+      "footprint_id": 2914
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LEXINGTON",
+      "footprint_id": 2947
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "VINCENT",
+      "footprint_id": 2963
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COLLINSVL",
+      "footprint_id": 2968
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "THALIA",
+      "footprint_id": 2969
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LAUTZ",
+      "footprint_id": 2970
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WHCY ODELL",
+      "footprint_id": 2972
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HEIDENHEMR",
+      "footprint_id": 3024
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LIVINGSTON",
+      "footprint_id": 3033
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DAMON",
+      "footprint_id": 3039
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PINELAND",
+      "footprint_id": 3054
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CELINA",
+      "footprint_id": 3064
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MEMPHIS",
+      "footprint_id": 3069
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "STLAWRENCE",
+      "footprint_id": 3070
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DALLAS",
+      "footprint_id": 3071
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LAREDO",
+      "footprint_id": 3073
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TERMINAL",
+      "footprint_id": 3088
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NECHES",
+      "footprint_id": 3100
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "AVERY",
+      "footprint_id": 3109
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TROUP",
+      "footprint_id": 3114
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MILES",
+      "footprint_id": 3117
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MOUNT CALM",
+      "footprint_id": 3132
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HUBBARD",
+      "footprint_id": 3134
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "STRAWN",
+      "footprint_id": 3154
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GATESVILLE",
+      "footprint_id": 3161
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MIDDLEWTR",
+      "footprint_id": 3192
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROPESVILLE",
+      "footprint_id": 3220
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "STAFFORD",
+      "footprint_id": 3250
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BARKER",
+      "footprint_id": 3265
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CHANDLER",
+      "footprint_id": 3270
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "STERLINGCY",
+      "footprint_id": 3272
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DEER PARK",
+      "footprint_id": 3284
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WESTREYDON",
+      "footprint_id": 3293
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MARATHON",
+      "footprint_id": 3298
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RED OAK",
+      "footprint_id": 3318
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HUNTINGTON",
+      "footprint_id": 3330
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WILDWOOD",
+      "footprint_id": 3332
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "VANDERBILT",
+      "footprint_id": 3337
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HART",
+      "footprint_id": 3348
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HIGGINS",
+      "footprint_id": 3356
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SEAGRAVES",
+      "footprint_id": 3369
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COTULLA",
+      "footprint_id": 3373
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PETROLIA",
+      "footprint_id": 3378
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RICHMNRNBG",
+      "footprint_id": 3405
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CLEBURNE",
+      "footprint_id": 3419
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LEONA",
+      "footprint_id": 3422
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DENVERCITY",
+      "footprint_id": 3454
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "POTOSI",
+      "footprint_id": 3462
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "AUSBORNE",
+      "footprint_id": 3467
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "AXTELL",
+      "footprint_id": 3470
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BARTONVL",
+      "footprint_id": 3494
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "IRAAN",
+      "footprint_id": 3510
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SMILEY",
+      "footprint_id": 3551
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PHARR",
+      "footprint_id": 3563
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ZAPATA",
+      "footprint_id": 3618
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MABANK",
+      "footprint_id": 3625
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SATSUMA",
+      "footprint_id": 3651
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LULING",
+      "footprint_id": 3662
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WELLINGTON",
+      "footprint_id": 3668
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TOM BEAN",
+      "footprint_id": 3669
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CARTHAGE",
+      "footprint_id": 3716
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HACKMONT",
+      "footprint_id": 3742
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NRICHLDHLS",
+      "footprint_id": 3749
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KARNACK",
+      "footprint_id": 3756
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LEHMAN",
+      "footprint_id": 3775
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GURLEY",
+      "footprint_id": 3786
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FORT HOOD",
+      "footprint_id": 3818
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NACOGDOCHS",
+      "footprint_id": 3823
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BIG SANDY",
+      "footprint_id": 3833
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "OAKLAND",
+      "footprint_id": 3844
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RUNAWAYBAY",
+      "footprint_id": 3848
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HARPER",
+      "footprint_id": 3860
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EAST HOBBS",
+      "footprint_id": 3911
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PAYNE SPG",
+      "footprint_id": 3926
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HALLETTSVL",
+      "footprint_id": 3942
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "VALENTINE",
+      "footprint_id": 3950
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HANCOCK",
+      "footprint_id": 3956
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PRITCHETT",
+      "footprint_id": 3959
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WINNSBORO",
+      "footprint_id": 3965
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROUND MT",
+      "footprint_id": 3985
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PENNINGTON",
+      "footprint_id": 3986
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BURTON",
+      "footprint_id": 3995
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WOODROW",
+      "footprint_id": 4016
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FOLLETT",
+      "footprint_id": 4018
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KIRKLAND",
+      "footprint_id": 4026
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CATARINA",
+      "footprint_id": 4031
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROSENTHAL",
+      "footprint_id": 4059
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SHIRLEY",
+      "footprint_id": 4067
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SNYDER",
+      "footprint_id": 4105
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BROWNSVL",
+      "footprint_id": 4107
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HEDLEY",
+      "footprint_id": 4120
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DOUBLEBYOU",
+      "footprint_id": 4122
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "JOURDANTON",
+      "footprint_id": 4124
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BOYS RANCH",
+      "footprint_id": 4129
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SPRINGLAKE",
+      "footprint_id": 4146
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "OVERTON",
+      "footprint_id": 4164
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WHARTON",
+      "footprint_id": 4176
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "REDWATER",
+      "footprint_id": 4188
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BRONTE",
+      "footprint_id": 4219
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LUEDERS",
+      "footprint_id": 4257
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GILMER",
+      "footprint_id": 4287
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TRUSCOTT",
+      "footprint_id": 4290
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "AMARILLO",
+      "footprint_id": 4294
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ALTO",
+      "footprint_id": 4301
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ADRIAN",
+      "footprint_id": 4304
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ANSON",
+      "footprint_id": 4316
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PAMPA",
+      "footprint_id": 4344
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CROSBY",
+      "footprint_id": 4348
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DAYTON",
+      "footprint_id": 4372
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PLEASANTON",
+      "footprint_id": 4374
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BIG CANYON",
+      "footprint_id": 4380
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ELDORADO",
+      "footprint_id": 4387
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LOMAX",
+      "footprint_id": 4390
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DLFTWTARPT",
+      "footprint_id": 4399
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LEFORS",
+      "footprint_id": 4411
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GLADEWATER",
+      "footprint_id": 4455
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CANUTILLO",
+      "footprint_id": 4477
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BONHAM",
+      "footprint_id": 4491
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CLARKWOOD",
+      "footprint_id": 4508
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PERRIN",
+      "footprint_id": 4512
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NEWBRANFLS",
+      "footprint_id": 4543
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WILSON",
+      "footprint_id": 4577
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KNIPPA",
+      "footprint_id": 4583
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MORGAN",
+      "footprint_id": 4586
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BLOOMNGGRV",
+      "footprint_id": 4593
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MYRTLE SPG",
+      "footprint_id": 4597
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BELLSSAVOY",
+      "footprint_id": 4608
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KARNESCITY",
+      "footprint_id": 4625
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CONCEPCION",
+      "footprint_id": 4627
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HOLLAND",
+      "footprint_id": 4647
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WARRENTON",
+      "footprint_id": 4657
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MOBEETIE",
+      "footprint_id": 4697
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SEAGOVILLE",
+      "footprint_id": 4716
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WHITEHOUSE",
+      "footprint_id": 4721
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EASTLAND",
+      "footprint_id": 4727
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LA FERIA",
+      "footprint_id": 4743
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BOERNE",
+      "footprint_id": 4766
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LA WARD",
+      "footprint_id": 4771
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DOLORES",
+      "footprint_id": 4777
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DESERT HVN",
+      "footprint_id": 4795
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CHILDRESS",
+      "footprint_id": 4807
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HONEYGROVE",
+      "footprint_id": 4821
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BALMORHEA",
+      "footprint_id": 4829
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MONTBLVIEU",
+      "footprint_id": 4830
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CAMPBELL",
+      "footprint_id": 4833
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BLOOMBURG",
+      "footprint_id": 4847
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROCKSPRIGS",
+      "footprint_id": 4855
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SANDERSON",
+      "footprint_id": 4863
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HUGHES SPG",
+      "footprint_id": 4868
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "AVALON",
+      "footprint_id": 4884
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SAN SABA",
+      "footprint_id": 4917
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BENWHEELER",
+      "footprint_id": 4924
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WINDTHORST",
+      "footprint_id": 4944
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WOODSON",
+      "footprint_id": 4949
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WILLOWCITY",
+      "footprint_id": 4952
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COLORADOCY",
+      "footprint_id": 4954
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GARDENCITY",
+      "footprint_id": 4979
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BLANCO",
+      "footprint_id": 4997
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PYOTE",
+      "footprint_id": 5014
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BLOOMINGTN",
+      "footprint_id": 5019
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CASH",
+      "footprint_id": 5065
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MUNDAY",
+      "footprint_id": 5075
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CARROLLTON",
+      "footprint_id": 5101
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LAGUNA PK",
+      "footprint_id": 5127
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LA PRYOR",
+      "footprint_id": 5128
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DOOLEMLSVW",
+      "footprint_id": 5136
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GRANITSHLS",
+      "footprint_id": 5167
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROSHARON",
+      "footprint_id": 5170
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SIXSHOOTER",
+      "footprint_id": 5175
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GLADEBRNCH",
+      "footprint_id": 5184
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "IOLA",
+      "footprint_id": 5185
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "OKLAUNION",
+      "footprint_id": 5224
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HAWKINS",
+      "footprint_id": 5230
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LANGHAMCRK",
+      "footprint_id": 5270
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KOPPERL",
+      "footprint_id": 5274
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MELVIN",
+      "footprint_id": 5278
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SEGNO",
+      "footprint_id": 5287
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BLACKWELL",
+      "footprint_id": 5318
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "OAKWOOD",
+      "footprint_id": 5323
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SATTLER",
+      "footprint_id": 5324
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MTPLEASANT",
+      "footprint_id": 5330
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BROWNFIELD",
+      "footprint_id": 5333
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BUCKHOLTS",
+      "footprint_id": 5342
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LAJITAS",
+      "footprint_id": 5351
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PITTSBURG",
+      "footprint_id": 5382
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WALLIS",
+      "footprint_id": 5393
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HALLSBURG",
+      "footprint_id": 5398
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ORE CITY",
+      "footprint_id": 5402
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "YOAKUM",
+      "footprint_id": 5412
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "UNCERTAIN",
+      "footprint_id": 5414
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SEMINOLE",
+      "footprint_id": 5418
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PLAINS",
+      "footprint_id": 5431
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BORGER",
+      "footprint_id": 5439
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LIPAN",
+      "footprint_id": 5467
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CONE",
+      "footprint_id": 5529
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BRENHAM",
+      "footprint_id": 5538
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FORNEY",
+      "footprint_id": 5554
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ARCOLA",
+      "footprint_id": 5568
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BEND",
+      "footprint_id": 5585
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BRASHEAR",
+      "footprint_id": 5618
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "VAN HORN",
+      "footprint_id": 5649
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EARTH",
+      "footprint_id": 5659
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BLUE RIDGE",
+      "footprint_id": 5698
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SCHULENBG",
+      "footprint_id": 5708
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NDLDPTNCHS",
+      "footprint_id": 5722
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TOMBALL",
+      "footprint_id": 5729
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MIDLAND",
+      "footprint_id": 5732
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BASTROP",
+      "footprint_id": 5751
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BOONSVILLE",
+      "footprint_id": 5768
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CLTLKJCKSN",
+      "footprint_id": 5781
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CARMINE",
+      "footprint_id": 5841
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GUNTER",
+      "footprint_id": 5846
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LKARROWHED",
+      "footprint_id": 5855
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BARTLETT",
+      "footprint_id": 5872
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SCOTLAND",
+      "footprint_id": 5893
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KEMP",
+      "footprint_id": 5915
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CRESSON",
+      "footprint_id": 5927
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SLOCUM",
+      "footprint_id": 5934
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROCKDALE",
+      "footprint_id": 5960
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COUPLAND",
+      "footprint_id": 5978
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CUMBY",
+      "footprint_id": 5984
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GOLDSMITH",
+      "footprint_id": 5993
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "JOY",
+      "footprint_id": 6005
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KENBERG",
+      "footprint_id": 6018
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "OWENTOWN",
+      "footprint_id": 6027
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HUXLEY",
+      "footprint_id": 6035
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WHITEFACE",
+      "footprint_id": 6065
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BIG WELLS",
+      "footprint_id": 6081
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HUDSN",
+      "footprint_id": 6086
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BANGS",
+      "footprint_id": 6090
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CROSBYTON",
+      "footprint_id": 6093
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ARP",
+      "footprint_id": 6138
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KENEDY",
+      "footprint_id": 6142
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TEXLINE",
+      "footprint_id": 6143
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CORSICANA",
+      "footprint_id": 6152
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PORTER HTS",
+      "footprint_id": 6154
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PALESTINE",
+      "footprint_id": 6170
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DODSON",
+      "footprint_id": 6179
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "AFTON",
+      "footprint_id": 6186
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "REDFORD",
+      "footprint_id": 6190
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "AVINGER",
+      "footprint_id": 6198
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MONTGOMERY",
+      "footprint_id": 6199
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "INGRAM",
+      "footprint_id": 6212
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GOLDTHWAIT",
+      "footprint_id": 6223
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "JOHNSON CY",
+      "footprint_id": 6259
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BRANDON",
+      "footprint_id": 6260
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HOUSTON",
+      "footprint_id": 6262
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FRISCO",
+      "footprint_id": 6265
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LAMPASAS",
+      "footprint_id": 6280
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EDNA",
+      "footprint_id": 6287
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LEESVILLE",
+      "footprint_id": 6297
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CRAWFORD",
+      "footprint_id": 6303
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ARTESIWLLS",
+      "footprint_id": 6305
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KERENS",
+      "footprint_id": 6336
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CROWELL",
+      "footprint_id": 6343
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PINEHURST",
+      "footprint_id": 6346
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SATURN",
+      "footprint_id": 6359
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FRIOCANYON",
+      "footprint_id": 6368
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PARADISE",
+      "footprint_id": 6375
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ODONNELL",
+      "footprint_id": 6376
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LINDEN",
+      "footprint_id": 6383
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GARVENSTOR",
+      "footprint_id": 6390
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DALE/LTNSP",
+      "footprint_id": 6426
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MISSOURICY",
+      "footprint_id": 6429
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LYTLE",
+      "footprint_id": 6438
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ORTH",
+      "footprint_id": 6441
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TUSCOLA",
+      "footprint_id": 6462
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RUBY",
+      "footprint_id": 6465
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GOODNIGHT",
+      "footprint_id": 6478
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ALVIN",
+      "footprint_id": 6481
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LUMBERTON",
+      "footprint_id": 6491
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PT BOLIVAR",
+      "footprint_id": 6521
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KATEMCY",
+      "footprint_id": 6528
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BAYSIDE",
+      "footprint_id": 6532
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROCKPORT",
+      "footprint_id": 6546
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ALPINE",
+      "footprint_id": 6555
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NORTHRUP",
+      "footprint_id": 6596
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PAWNEE",
+      "footprint_id": 6617
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FORESTBURG",
+      "footprint_id": 6625
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GOODRICH",
+      "footprint_id": 6637
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LYFORD",
+      "footprint_id": 6659
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FOWLERTON",
+      "footprint_id": 6660
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GROOM",
+      "footprint_id": 6667
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ANAHUAC",
+      "footprint_id": 6695
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PINE HILL",
+      "footprint_id": 6704
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EL CAMPO",
+      "footprint_id": 6716
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "VALLEYVIEW",
+      "footprint_id": 6733
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CLARKSVL",
+      "footprint_id": 6734
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "STEPHENVL",
+      "footprint_id": 6760
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FORT DAVIS",
+      "footprint_id": 6769
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TURNERSVL",
+      "footprint_id": 6784
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EVERGREEN",
+      "footprint_id": 6797
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROSEBUD",
+      "footprint_id": 6810
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MCCAMEY",
+      "footprint_id": 6814
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "XXXXXXXXXX",
+      "footprint_id": 6820
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MARTINS ML",
+      "footprint_id": 6855
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WICHITAFLS",
+      "footprint_id": 6882
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MARYNEAL",
+      "footprint_id": 6890
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MAPLE",
+      "footprint_id": 6902
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MERCEDES",
+      "footprint_id": 6907
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KILGORE",
+      "footprint_id": 6929
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WOLFFORTH",
+      "footprint_id": 6986
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "VENUS",
+      "footprint_id": 7013
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SEYMOUR",
+      "footprint_id": 7026
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FALCON HTS",
+      "footprint_id": 7034
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NIXON",
+      "footprint_id": 7098
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SMITHERSLK",
+      "footprint_id": 7106
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RANSOMCNYN",
+      "footprint_id": 7110
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HSTNSUBURB",
+      "footprint_id": 7141
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HAMILTON",
+      "footprint_id": 7142
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GIDDINGS",
+      "footprint_id": 7145
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SYLVESTER",
+      "footprint_id": 7152
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "VICTORIA",
+      "footprint_id": 7164
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WHITE DEER",
+      "footprint_id": 7172
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MILFORD",
+      "footprint_id": 7173
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FREER",
+      "footprint_id": 7204
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "REDMON",
+      "footprint_id": 7235
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROWENA",
+      "footprint_id": 7242
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WEST LAKES",
+      "footprint_id": 7243
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TIOGA",
+      "footprint_id": 7258
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "VINTON",
+      "footprint_id": 7266
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NEWCASTLE",
+      "footprint_id": 7269
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HARTLEY",
+      "footprint_id": 7271
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LANEVILLE",
+      "footprint_id": 7272
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ELECTRA",
+      "footprint_id": 7282
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NEWWAVERLY",
+      "footprint_id": 7291
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COMBINE",
+      "footprint_id": 7303
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DIMMITT",
+      "footprint_id": 7335
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CONROE",
+      "footprint_id": 7344
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LK COLEMAN",
+      "footprint_id": 7377
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "VANALSTYNE",
+      "footprint_id": 7413
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PUTNAM",
+      "footprint_id": 7417
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WHITERIVER",
+      "footprint_id": 7437
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CAMPBELLTN",
+      "footprint_id": 7451
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EOLA",
+      "footprint_id": 7460
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DENISON",
+      "footprint_id": 7461
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GRAFORD",
+      "footprint_id": 7485
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LINDL SWAN",
+      "footprint_id": 7551
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CHARCO",
+      "footprint_id": 7555
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CALALLEN",
+      "footprint_id": 7559
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HIGHLANDS",
+      "footprint_id": 7563
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WHITESBORO",
+      "footprint_id": 7572
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HAPPY",
+      "footprint_id": 7580
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GODLEY",
+      "footprint_id": 7597
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "POTH",
+      "footprint_id": 7602
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BENAVIDES",
+      "footprint_id": 7629
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MT HOME",
+      "footprint_id": 7667
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LAKESIDVLG",
+      "footprint_id": 7673
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LOSFRESNOS",
+      "footprint_id": 7676
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROSCOE",
+      "footprint_id": 7688
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CAMERON",
+      "footprint_id": 7695
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CLARENDON",
+      "footprint_id": 7712
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FENTRESS",
+      "footprint_id": 7714
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LOCKNEY",
+      "footprint_id": 7715
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LOUISE",
+      "footprint_id": 7722
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "OAKHURST",
+      "footprint_id": 7749
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "OMAHA",
+      "footprint_id": 7751
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ORANGE GRV",
+      "footprint_id": 7753
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DEVERS",
+      "footprint_id": 7761
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SOMERVILLE",
+      "footprint_id": 7768
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RAYWOOD",
+      "footprint_id": 7774
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RINGGOLD",
+      "footprint_id": 7782
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MOODY",
+      "footprint_id": 7808
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ZEPHYR",
+      "footprint_id": 7874
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KEMPNER",
+      "footprint_id": 7914
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "JOPLIN",
+      "footprint_id": 7946
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BOVINA",
+      "footprint_id": 7954
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CLETA",
+      "footprint_id": 7977
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NAVASOTA",
+      "footprint_id": 7979
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MIRANDO CY",
+      "footprint_id": 7989
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GRANDFALLS",
+      "footprint_id": 7992
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SANAUGUSTN",
+      "footprint_id": 8000
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WEATHERFD",
+      "footprint_id": 8006
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LOVELADY",
+      "footprint_id": 8010
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "THROCKMOTN",
+      "footprint_id": 8073
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CENTER",
+      "footprint_id": 8110
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GARRISON",
+      "footprint_id": 8114
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RIGRANDECY",
+      "footprint_id": 8119
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SPUR",
+      "footprint_id": 8129
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PORTISABEL",
+      "footprint_id": 8139
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PLANTERSVL",
+      "footprint_id": 8140
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DEPORT",
+      "footprint_id": 8153
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SLIDELL",
+      "footprint_id": 8158
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GHOLSON",
+      "footprint_id": 8162
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SWEETWATER",
+      "footprint_id": 8176
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "JACKSONVL",
+      "footprint_id": 8186
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROMA",
+      "footprint_id": 8200
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MARFA",
+      "footprint_id": 8221
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PECOS",
+      "footprint_id": 8265
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MERCURY",
+      "footprint_id": 8267
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DEANVILLE",
+      "footprint_id": 8275
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SIERRABLNC",
+      "footprint_id": 8277
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SUNDOWN",
+      "footprint_id": 8281
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CORRIGAN",
+      "footprint_id": 8284
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "AUSTONIO",
+      "footprint_id": 8289
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PT ARANSAS",
+      "footprint_id": 8294
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GORDONVL",
+      "footprint_id": 8335
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SAN MIGUEL",
+      "footprint_id": 8346
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TLSVNPONTS",
+      "footprint_id": 8356
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NEVADA",
+      "footprint_id": 8369
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MOSHEIM",
+      "footprint_id": 8413
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MINEOLA",
+      "footprint_id": 8437
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NOLAN",
+      "footprint_id": 8461
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ALAMITO",
+      "footprint_id": 8467
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NOME",
+      "footprint_id": 8474
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KATY",
+      "footprint_id": 8485
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BALLINGER",
+      "footprint_id": 8491
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SHERMAN",
+      "footprint_id": 8537
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LEVELLAND",
+      "footprint_id": 8538
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DEVINE",
+      "footprint_id": 8555
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FREEPORT",
+      "footprint_id": 8557
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "JOAQUIN",
+      "footprint_id": 8560
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FIELDTON",
+      "footprint_id": 8561
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LORENA",
+      "footprint_id": 8584
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COVINGTON",
+      "footprint_id": 8633
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SNOOKTUNIS",
+      "footprint_id": 8661
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BUDA",
+      "footprint_id": 8662
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BATSON",
+      "footprint_id": 8689
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PROSPER",
+      "footprint_id": 8710
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KENNARD",
+      "footprint_id": 8723
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HIGGINBTHM",
+      "footprint_id": 8733
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LOYOLA BCH",
+      "footprint_id": 8736
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EMHOUSE",
+      "footprint_id": 8739
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MATADOR",
+      "footprint_id": 8751
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PETERSBURG",
+      "footprint_id": 8756
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PRAIRIE VW",
+      "footprint_id": 8763
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DIME BOX",
+      "footprint_id": 8781
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "STAR",
+      "footprint_id": 8789
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LAWN",
+      "footprint_id": 8790
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WHITEWRGHT",
+      "footprint_id": 8800
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FRIONA",
+      "footprint_id": 8822
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HASKELL",
+      "footprint_id": 8829
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HEREFORD",
+      "footprint_id": 8835
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CHARLIE",
+      "footprint_id": 8848
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DIBOLL",
+      "footprint_id": 8852
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PUNKIN CTR",
+      "footprint_id": 8887
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ALLISON",
+      "footprint_id": 8892
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KILLEEN",
+      "footprint_id": 8907
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HUNT",
+      "footprint_id": 8921
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WAELDER",
+      "footprint_id": 8936
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NEW LONDON",
+      "footprint_id": 8957
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DARROUZETT",
+      "footprint_id": 8960
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DRY CREEK",
+      "footprint_id": 8962
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LAKEDALLAS",
+      "footprint_id": 8980
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LONE STAR",
+      "footprint_id": 8983
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BEACH CITY",
+      "footprint_id": 8989
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "OGLESBY",
+      "footprint_id": 8990
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CYPRESSSPG",
+      "footprint_id": 8992
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BEDIAS",
+      "footprint_id": 8993
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PIPE CREEK",
+      "footprint_id": 8995
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SULPHURSPG",
+      "footprint_id": 9006
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SUTHELDSPG",
+      "footprint_id": 9016
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GRAPELAND",
+      "footprint_id": 9030
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NORTHZULCH",
+      "footprint_id": 9033
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FRIO",
+      "footprint_id": 9043
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MARBLE FLS",
+      "footprint_id": 9059
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TATUM",
+      "footprint_id": 9061
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ELYSINFLDS",
+      "footprint_id": 9115
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SKIDMORE",
+      "footprint_id": 9117
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CHARLOTTE",
+      "footprint_id": 9138
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HUNTSVILLE",
+      "footprint_id": 9162
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SANANTONIO",
+      "footprint_id": 9167
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROCKYCREEK",
+      "footprint_id": 9192
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ANDERSON",
+      "footprint_id": 9232
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FAIRFIELD",
+      "footprint_id": 9241
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WEINERT",
+      "footprint_id": 9255
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SHAMROCK",
+      "footprint_id": 9260
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SABINAL",
+      "footprint_id": 9280
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ANNONA",
+      "footprint_id": 9287
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HAMBY",
+      "footprint_id": 9288
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SAND SPG",
+      "footprint_id": 9310
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "IOWA PARK",
+      "footprint_id": 9361
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ACKERLY",
+      "footprint_id": 9368
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BAMMEL",
+      "footprint_id": 9380
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SANDYCREEK",
+      "footprint_id": 9398
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PLAINVIEW",
+      "footprint_id": 9405
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LASARA",
+      "footprint_id": 9407
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RICHARDS",
+      "footprint_id": 9417
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PT COMFORT",
+      "footprint_id": 9428
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TAFT",
+      "footprint_id": 9436
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BRIGGS",
+      "footprint_id": 9444
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SUMMERFLD",
+      "footprint_id": 9451
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WOODVILLE",
+      "footprint_id": 9469
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KINGSLAND",
+      "footprint_id": 9486
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WYNNE",
+      "footprint_id": 9489
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COMFORT",
+      "footprint_id": 9507
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MCADOO",
+      "footprint_id": 9520
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROSEWOOD",
+      "footprint_id": 9534
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LADONIA",
+      "footprint_id": 9546
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DESDEMONA",
+      "footprint_id": 9547
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GEORGEWEST",
+      "footprint_id": 9562
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ABERNATHY",
+      "footprint_id": 9571
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "VIGO PARK",
+      "footprint_id": 9586
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "YANTIS",
+      "footprint_id": 9589
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROCKWALL",
+      "footprint_id": 9611
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BUFFALO",
+      "footprint_id": 9617
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CISCO",
+      "footprint_id": 9629
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HIGHISLAND",
+      "footprint_id": 9632
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ATEN",
+      "footprint_id": 9633
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KINGSVILLE",
+      "footprint_id": 9643
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PECAN GAP",
+      "footprint_id": 9647
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CASTROVL",
+      "footprint_id": 9650
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EAGLE PASS",
+      "footprint_id": 9657
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FALFURRIAS",
+      "footprint_id": 9661
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BULLARD",
+      "footprint_id": 9670
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BOYD",
+      "footprint_id": 9676
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BROOKSHIRE",
+      "footprint_id": 9688
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EVADALE",
+      "footprint_id": 9716
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PINE MILLS",
+      "footprint_id": 9739
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WOODSBORO",
+      "footprint_id": 9749
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LORAINE",
+      "footprint_id": 9754
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HUFFMAN",
+      "footprint_id": 9791
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PALMER",
+      "footprint_id": 9793
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HALFWAY",
+      "footprint_id": 9808
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SEGUIN",
+      "footprint_id": 9817
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "OLTON",
+      "footprint_id": 9832
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LONGVIEW",
+      "footprint_id": 9862
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ARNETT",
+      "footprint_id": 9870
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "STRATFORD",
+      "footprint_id": 9876
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MCCAULLEY",
+      "footprint_id": 9882
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NEEDMORE",
+      "footprint_id": 9893
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CHANNELVW",
+      "footprint_id": 9897
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LORENZO",
+      "footprint_id": 9910
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MCALLEN",
+      "footprint_id": 9924
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MILLETT",
+      "footprint_id": 9930
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EDDY",
+      "footprint_id": 9943
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ODEM",
+      "footprint_id": 9948
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KAUFMAN",
+      "footprint_id": 9978
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SPRINGTOWN",
+      "footprint_id": 9987
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CEE VEE",
+      "footprint_id": 9998
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BEN HUR",
+      "footprint_id": 10001
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TROY",
+      "footprint_id": 10049
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DICKINSON",
+      "footprint_id": 10059
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GUSTINE",
+      "footprint_id": 10061
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CHICO",
+      "footprint_id": 10091
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DALHART",
+      "footprint_id": 10092
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WESTHOFF",
+      "footprint_id": 10093
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FT HANCOCK",
+      "footprint_id": 10102
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COMSTOCK",
+      "footprint_id": 10108
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GRANDPRARI",
+      "footprint_id": 10118
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SUGAR LAND",
+      "footprint_id": 10119
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TRINITY",
+      "footprint_id": 10133
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SOUTHVIDOR",
+      "footprint_id": 10135
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HEARNE",
+      "footprint_id": 10138
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LENORAH",
+      "footprint_id": 10179
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GREENVILLE",
+      "footprint_id": 10182
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BAIRD",
+      "footprint_id": 10186
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CLIFTON",
+      "footprint_id": 10207
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FANNETT",
+      "footprint_id": 10241
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GLEN FLORA",
+      "footprint_id": 10256
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GILLETT",
+      "footprint_id": 10259
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FREDECKSBG",
+      "footprint_id": 10284
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RIVIERA",
+      "footprint_id": 10301
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BIG SPRING",
+      "footprint_id": 10312
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RANKIN",
+      "footprint_id": 10329
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ALVORD",
+      "footprint_id": 10336
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DENTON",
+      "footprint_id": 10344
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WESTFIELD",
+      "footprint_id": 10374
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GOLIAD",
+      "footprint_id": 10393
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COLMESNEIL",
+      "footprint_id": 10437
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HEMPSTEAD",
+      "footprint_id": 10449
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HOOKS",
+      "footprint_id": 10470
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TENAHA",
+      "footprint_id": 10476
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TENESSCLNY",
+      "footprint_id": 10484
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HUDSON",
+      "footprint_id": 10504
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LEANDER",
+      "footprint_id": 10512
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FERRIS",
+      "footprint_id": 10514
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TOYAH",
+      "footprint_id": 10526
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KERRVILLE",
+      "footprint_id": 10537
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RUSK",
+      "footprint_id": 10538
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SMITHVILLE",
+      "footprint_id": 10540
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PLUM",
+      "footprint_id": 10545
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BONITA",
+      "footprint_id": 10563
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COLDSPRING",
+      "footprint_id": 10568
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LA GRANGE",
+      "footprint_id": 10588
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "JUNCTION",
+      "footprint_id": 10593
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SINTON",
+      "footprint_id": 10610
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CARRIZOSPG",
+      "footprint_id": 10623
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MINDEN",
+      "footprint_id": 10632
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FORT WORTH",
+      "footprint_id": 10643
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MERIT",
+      "footprint_id": 10646
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SPURGER",
+      "footprint_id": 10649
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FAYETTEVL",
+      "footprint_id": 10651
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "C CHRISTI",
+      "footprint_id": 10656
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PRESIDIO",
+      "footprint_id": 10733
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NORDHEIM",
+      "footprint_id": 10762
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GIRARD",
+      "footprint_id": 10763
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BERTRAM",
+      "footprint_id": 10765
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BUNKERHILL",
+      "footprint_id": 10766
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NEWBURG",
+      "footprint_id": 10791
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TILDEN",
+      "footprint_id": 10802
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CHRISTINE",
+      "footprint_id": 10803
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SUNSET",
+      "footprint_id": 10807
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MIAMI",
+      "footprint_id": 10810
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TULIA",
+      "footprint_id": 10833
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WACO",
+      "footprint_id": 10860
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MASON",
+      "footprint_id": 10864
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MCCOOK",
+      "footprint_id": 10886
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "JASPER",
+      "footprint_id": 10917
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "VERBENA",
+      "footprint_id": 10950
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HEATHCNYON",
+      "footprint_id": 10964
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KOUNTZE",
+      "footprint_id": 10965
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CENTER PT",
+      "footprint_id": 10971
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "STEVENS",
+      "footprint_id": 10993
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PORTLDGGRY",
+      "footprint_id": 11003
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COMANCHE",
+      "footprint_id": 11052
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MILLSAP",
+      "footprint_id": 11071
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BETTIE",
+      "footprint_id": 11107
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DELL CITY",
+      "footprint_id": 11117
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "VALLEY ML",
+      "footprint_id": 11124
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TELEPHONE",
+      "footprint_id": 11125
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BURKBURNTT",
+      "footprint_id": 11137
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ZABCIKVL",
+      "footprint_id": 11138
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FLOMOT",
+      "footprint_id": 11186
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NEWTON",
+      "footprint_id": 11189
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MERRELL",
+      "footprint_id": 11192
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NAPLES",
+      "footprint_id": 11207
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PLEASANTHL",
+      "footprint_id": 11208
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WESLACO",
+      "footprint_id": 11211
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PADUCAH",
+      "footprint_id": 11219
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CHILLICOTH",
+      "footprint_id": 11232
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "JAYTON",
+      "footprint_id": 11235
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BRUNI",
+      "footprint_id": 11278
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MEDINALAKE",
+      "footprint_id": 11305
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LOVING",
+      "footprint_id": 11313
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "VLY VIEW E",
+      "footprint_id": 11315
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PANHANDLE",
+      "footprint_id": 11360
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BRADY",
+      "footprint_id": 11364
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SEABROOK",
+      "footprint_id": 11373
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROBSTOWN",
+      "footprint_id": 11376
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "IRENE",
+      "footprint_id": 11379
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MARSHALL",
+      "footprint_id": 11394
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WINTERS",
+      "footprint_id": 11409
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "AUBREY",
+      "footprint_id": 11423
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "W ROGER ML",
+      "footprint_id": 11464
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COLEMAN",
+      "footprint_id": 11471
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BLUM",
+      "footprint_id": 11472
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ODESSA",
+      "footprint_id": 11496
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BLANKET",
+      "footprint_id": 11503
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LK BROWNWD",
+      "footprint_id": 11528
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CLEVELAND",
+      "footprint_id": 11531
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "VERNON",
+      "footprint_id": 11532
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COPPERASCV",
+      "footprint_id": 11535
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EMORY",
+      "footprint_id": 11551
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WINK",
+      "footprint_id": 11583
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "VALERA",
+      "footprint_id": 11587
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BURNET",
+      "footprint_id": 11608
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PLANO",
+      "footprint_id": 11625
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ACUFF",
+      "footprint_id": 11637
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CLYDE",
+      "footprint_id": 11669
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HAPPYUNION",
+      "footprint_id": 11683
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "THARP",
+      "footprint_id": 11710
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MCDADE",
+      "footprint_id": 11712
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WHITHARRAL",
+      "footprint_id": 11713
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FORSAN",
+      "footprint_id": 11720
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BYNUM",
+      "footprint_id": 11724
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MOZELLE",
+      "footprint_id": 11737
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BLUFFDALE",
+      "footprint_id": 11747
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TOW",
+      "footprint_id": 11755
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EULESS",
+      "footprint_id": 11758
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FRANKLIN",
+      "footprint_id": 11780
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GROVETON",
+      "footprint_id": 11819
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ALVARADO",
+      "footprint_id": 11835
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "POINT",
+      "footprint_id": 11836
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SPEARMAN",
+      "footprint_id": 11866
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CHINA",
+      "footprint_id": 11870
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "JACKSON",
+      "footprint_id": 11897
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WILDORADO",
+      "footprint_id": 11907
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MAUD",
+      "footprint_id": 11921
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WARREN",
+      "footprint_id": 11948
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "POST",
+      "footprint_id": 11987
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CYPRESS",
+      "footprint_id": 12026
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PAIGE",
+      "footprint_id": 12071
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ANDREWS",
+      "footprint_id": 12076
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SKELLYTOWN",
+      "footprint_id": 12100
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ACTON",
+      "footprint_id": 12115
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COMO",
+      "footprint_id": 12135
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CAYUGA",
+      "footprint_id": 12148
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "JUSTIN",
+      "footprint_id": 12156
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GRANDSALIN",
+      "footprint_id": 12159
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CREWS",
+      "footprint_id": 12160
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MTENTERPRS",
+      "footprint_id": 12172
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COST",
+      "footprint_id": 12179
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DEWEYVILLE",
+      "footprint_id": 12191
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ECTOR",
+      "footprint_id": 12206
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "INDUSTRY",
+      "footprint_id": 12221
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GLEN ROSE",
+      "footprint_id": 12224
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LKPALSTINE",
+      "footprint_id": 12232
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HALLSVILLE",
+      "footprint_id": 12249
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RISINGSTAR",
+      "footprint_id": 12260
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ITALY",
+      "footprint_id": 12264
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "OAK HILL",
+      "footprint_id": 12290
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MARTINDALE",
+      "footprint_id": 12316
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BRYAN",
+      "footprint_id": 12325
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HARGILL",
+      "footprint_id": 12349
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BRAZORIA",
+      "footprint_id": 12375
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RHOME",
+      "footprint_id": 12411
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GARWOOD",
+      "footprint_id": 12513
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "QUITMAN",
+      "footprint_id": 12523
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DEKALB",
+      "footprint_id": 12535
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GUYMON",
+      "footprint_id": 12545
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MILOCENTER",
+      "footprint_id": 12558
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KENNEDALE",
+      "footprint_id": 12576
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LAZBUDDIE",
+      "footprint_id": 12586
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MCKINNEY",
+      "footprint_id": 12603
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BOGATA",
+      "footprint_id": 12614
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PROCTOR",
+      "footprint_id": 12617
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BOWIE",
+      "footprint_id": 12650
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "JOSEPHINE",
+      "footprint_id": 12687
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GORMAN",
+      "footprint_id": 12692
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CHINA SPG",
+      "footprint_id": 12700
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LAVERNIA",
+      "footprint_id": 12723
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WALNUT SPG",
+      "footprint_id": 12733
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MYRA",
+      "footprint_id": 12741
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "QUINLAN",
+      "footprint_id": 12755
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SMITHSOVLY",
+      "footprint_id": 12780
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EL SAUZ",
+      "footprint_id": 12783
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BELLEVUE",
+      "footprint_id": 12786
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ANTON",
+      "footprint_id": 12805
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LIBERTY",
+      "footprint_id": 12808
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MARLIN",
+      "footprint_id": 12816
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GORDON",
+      "footprint_id": 12817
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CANYON",
+      "footprint_id": 12818
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LAMESA",
+      "footprint_id": 12822
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TRENT",
+      "footprint_id": 12830
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GLENDALE",
+      "footprint_id": 12831
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SULLIVANCY",
+      "footprint_id": 12839
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FABENS",
+      "footprint_id": 12844
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DUBLIN",
+      "footprint_id": 12894
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DICKENS",
+      "footprint_id": 12907
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ARGYLE",
+      "footprint_id": 12915
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ATHENS",
+      "footprint_id": 12926
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HUMBLE",
+      "footprint_id": 12927
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HILLSBORO",
+      "footprint_id": 12929
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WALLER",
+      "footprint_id": 12965
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "STAMFORD",
+      "footprint_id": 12997
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LKKICKAPOO",
+      "footprint_id": 13002
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BIG LAKE",
+      "footprint_id": 13014
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PSMKNGDMLK",
+      "footprint_id": 13015
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TERLINGUA",
+      "footprint_id": 13018
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TAYLOR",
+      "footprint_id": 13025
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EDCOUCH",
+      "footprint_id": 13029
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SO BOSQUE",
+      "footprint_id": 13030
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MALAKOFF",
+      "footprint_id": 13035
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CENTERVL",
+      "footprint_id": 13044
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BURLINGTON",
+      "footprint_id": 13049
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WILLSPOINT",
+      "footprint_id": 13077
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CARBON",
+      "footprint_id": 13087
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FARMERSVL",
+      "footprint_id": 13103
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KYLE",
+      "footprint_id": 13124
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KELLER",
+      "footprint_id": 13147
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SISTERDALE",
+      "footprint_id": 13159
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BISHOP",
+      "footprint_id": 13178
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PREMONT",
+      "footprint_id": 13216
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WINNIE",
+      "footprint_id": 13231
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GRUVER",
+      "footprint_id": 13237
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HEBBRONVL",
+      "footprint_id": 13254
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BURKEVILLE",
+      "footprint_id": 13256
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HOLLANDVL",
+      "footprint_id": 13260
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LOTT",
+      "footprint_id": 13271
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NEGLEY",
+      "footprint_id": 13287
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MIMS",
+      "footprint_id": 13290
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DE LEON",
+      "footprint_id": 13345
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PETTIT",
+      "footprint_id": 13353
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "D HANIS",
+      "footprint_id": 13354
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EDMONDSON",
+      "footprint_id": 13363
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COLDWATER",
+      "footprint_id": 13366
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CRANFILSGP",
+      "footprint_id": 13369
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WESTBROOK",
+      "footprint_id": 13401
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NELMS",
+      "footprint_id": 13411
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CACTUS",
+      "footprint_id": 13429
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ORLA",
+      "footprint_id": 13430
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RICHLAND",
+      "footprint_id": 13449
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CRANESMILL",
+      "footprint_id": 13453
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TXSCYMARQU",
+      "footprint_id": 13461
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MATHIS",
+      "footprint_id": 13495
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COOLIDGE",
+      "footprint_id": 13503
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TEHUACANA",
+      "footprint_id": 13517
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BRECKENRDG",
+      "footprint_id": 13523
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BEAN",
+      "footprint_id": 13528
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FRANKSTON",
+      "footprint_id": 13529
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SPRING",
+      "footprint_id": 13610
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "OLDEN",
+      "footprint_id": 13617
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LA PORTE",
+      "footprint_id": 13653
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MEADOW",
+      "footprint_id": 13705
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KERMIT",
+      "footprint_id": 13752
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TRENTON",
+      "footprint_id": 13763
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BELTON",
+      "footprint_id": 13785
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MAYDELLE",
+      "footprint_id": 13786
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PARIS",
+      "footprint_id": 13805
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SARITA",
+      "footprint_id": 13812
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COLUMBUS",
+      "footprint_id": 13813
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KINGSBURY",
+      "footprint_id": 13824
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CADDOMILLS",
+      "footprint_id": 13831
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LOMETA",
+      "footprint_id": 13833
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HAMSHIRE",
+      "footprint_id": 13843
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ESTELLINE",
+      "footprint_id": 13847
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SEALY",
+      "footprint_id": 13848
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KRUM",
+      "footprint_id": 13849
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ARCHERCITY",
+      "footprint_id": 13865
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TEXARKANA",
+      "footprint_id": 13881
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PONTOTOC",
+      "footprint_id": 13884
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "E GLENRIO",
+      "footprint_id": 13891
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GOLDEN",
+      "footprint_id": 13929
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SIDNEY",
+      "footprint_id": 13945
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ELKINS",
+      "footprint_id": 13961
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HANKAMER",
+      "footprint_id": 13970
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HICO",
+      "footprint_id": 13982
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BARNHART",
+      "footprint_id": 13989
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CANADIAN",
+      "footprint_id": 13997
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "REDSPRINGS",
+      "footprint_id": 14017
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PT OCONNOR",
+      "footprint_id": 14022
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BERCLAIR",
+      "footprint_id": 14039
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CANTON",
+      "footprint_id": 14050
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SOMERSET",
+      "footprint_id": 14054
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ENCINO",
+      "footprint_id": 14055
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FLATONIA",
+      "footprint_id": 14084
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CUSHING",
+      "footprint_id": 14099
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PICKTON",
+      "footprint_id": 14117
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "VAN",
+      "footprint_id": 14128
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CELESTE",
+      "footprint_id": 14179
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SHALLOWTR",
+      "footprint_id": 14224
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROYSE CITY",
+      "footprint_id": 14234
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "W COLUMBIA",
+      "footprint_id": 14271
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BARDWELL",
+      "footprint_id": 14304
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DONIE",
+      "footprint_id": 14330
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KIRBYVILLE",
+      "footprint_id": 14333
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LOCKER",
+      "footprint_id": 14346
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BRADSHAW",
+      "footprint_id": 14359
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BORDEN",
+      "footprint_id": 14373
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MIDLOTHIAN",
+      "footprint_id": 14385
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ASHERTON",
+      "footprint_id": 14413
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BEEVILLE",
+      "footprint_id": 14423
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MORAVIA",
+      "footprint_id": 14424
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TAHOKA",
+      "footprint_id": 14431
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TIMPSON",
+      "footprint_id": 14433
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WASHINGTON",
+      "footprint_id": 14443
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MIDKIFF",
+      "footprint_id": 14458
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FLOYDADA",
+      "footprint_id": 14473
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LLANO",
+      "footprint_id": 14512
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "IRVING",
+      "footprint_id": 14561
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SANTA ANNA",
+      "footprint_id": 14566
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WHEATLEY",
+      "footprint_id": 14571
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TIVOLI",
+      "footprint_id": 14573
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MENTONE",
+      "footprint_id": 14579
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WASKOM",
+      "footprint_id": 14582
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EDINBURG",
+      "footprint_id": 14593
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "STINNETT",
+      "footprint_id": 14631
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MOULTON",
+      "footprint_id": 14638
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WALLISVL",
+      "footprint_id": 14647
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PINE ACRES",
+      "footprint_id": 14648
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PALUXY",
+      "footprint_id": 14662
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SPADE",
+      "footprint_id": 14670
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ATLAS",
+      "footprint_id": 14680
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NOCONA",
+      "footprint_id": 14682
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MANSFIELD",
+      "footprint_id": 14693
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CHEROKEE",
+      "footprint_id": 14705
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PONDER",
+      "footprint_id": 14770
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MUENSTER",
+      "footprint_id": 14771
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROXTON",
+      "footprint_id": 14785
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LOCKHART",
+      "footprint_id": 14793
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LEAGUECITY",
+      "footprint_id": 14795
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "STILLMAN",
+      "footprint_id": 14798
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "YORKTOWN",
+      "footprint_id": 14852
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BAGWELL",
+      "footprint_id": 14858
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WESTWAY",
+      "footprint_id": 14861
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PATRICIA",
+      "footprint_id": 14877
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NEW HOME",
+      "footprint_id": 14903
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PEACOCK",
+      "footprint_id": 14906
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GARY",
+      "footprint_id": 14920
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FLORENCE",
+      "footprint_id": 14922
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DRY LAKE",
+      "footprint_id": 14924
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SOUR LAKE",
+      "footprint_id": 14947
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DAWN",
+      "footprint_id": 14955
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ABILENE",
+      "footprint_id": 14985
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HENDERSON",
+      "footprint_id": 14990
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "JEFFERSON",
+      "footprint_id": 14996
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FALCON",
+      "footprint_id": 15024
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LEROY",
+      "footprint_id": 15050
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "UVALDE",
+      "footprint_id": 15068
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GEORGETOWN",
+      "footprint_id": 15086
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MATAGORDA",
+      "footprint_id": 15116
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HERMLEIGH",
+      "footprint_id": 15132
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CHANNING",
+      "footprint_id": 15146
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "VLY LODGE",
+      "footprint_id": 15150
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HURLWOOD",
+      "footprint_id": 15156
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MARQUEZ",
+      "footprint_id": 15162
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MISSION",
+      "footprint_id": 15177
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROTAN",
+      "footprint_id": 15184
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MENARD",
+      "footprint_id": 15199
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TEMPLE",
+      "footprint_id": 15203
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MILLER GRV",
+      "footprint_id": 15206
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MERKEL",
+      "footprint_id": 15207
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COOPER",
+      "footprint_id": 15220
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DAWSON",
+      "footprint_id": 15243
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "VEGA",
+      "footprint_id": 15255
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SEADRIFT",
+      "footprint_id": 15259
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CROCKETT",
+      "footprint_id": 15263
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PILOTPOINT",
+      "footprint_id": 15272
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BRYSON",
+      "footprint_id": 15277
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NEWSMMRFLD",
+      "footprint_id": 15289
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BROADDUS",
+      "footprint_id": 15297
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MILAM",
+      "footprint_id": 15322
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MARION",
+      "footprint_id": 15329
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SANPERLITA",
+      "footprint_id": 15353
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PRAIRIE HL",
+      "footprint_id": 15368
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NORMANGEE",
+      "footprint_id": 15370
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GUAD PEAK",
+      "footprint_id": 15396
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CROSS PL",
+      "footprint_id": 15412
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BENJAMIN",
+      "footprint_id": 15421
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SHINER",
+      "footprint_id": 15436
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BLESSING",
+      "footprint_id": 15454
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CEDAR HILL",
+      "footprint_id": 15459
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WATERWOOD",
+      "footprint_id": 15467
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FRANKEL CY",
+      "footprint_id": 15474
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MAY",
+      "footprint_id": 15485
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "APPLE SPG",
+      "footprint_id": 15500
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SANGABRIEL",
+      "footprint_id": 15508
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "W STANTON",
+      "footprint_id": 15522
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BUFFALOGAP",
+      "footprint_id": 15529
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ARANSSPASS",
+      "footprint_id": 15546
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RENO",
+      "footprint_id": 15602
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ALBA",
+      "footprint_id": 15607
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CLINT",
+      "footprint_id": 15613
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MONTAGUE",
+      "footprint_id": 15623
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FRITCH",
+      "footprint_id": 15637
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NEW BOSTON",
+      "footprint_id": 15658
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BANDERA",
+      "footprint_id": 15660
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PERRYTON",
+      "footprint_id": 15668
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BLOSSOM",
+      "footprint_id": 15680
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CHURCHILL",
+      "footprint_id": 15700
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COAHOMA",
+      "footprint_id": 15707
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BALCONES",
+      "footprint_id": 15711
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LOOP",
+      "footprint_id": 15737
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "THREERIVRS",
+      "footprint_id": 15772
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BULVERDE",
+      "footprint_id": 15816
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BAY CITY",
+      "footprint_id": 15817
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PRIDDY",
+      "footprint_id": 15824
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SHEPHERD",
+      "footprint_id": 15859
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BAYTOWN",
+      "footprint_id": 15869
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DOUGLASSVL",
+      "footprint_id": 15885
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SPLENDORA",
+      "footprint_id": 15896
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PORTARTHUR",
+      "footprint_id": 15955
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SOHARDESTY",
+      "footprint_id": 15968
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CLAUDE",
+      "footprint_id": 15969
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MURCHISON",
+      "footprint_id": 15981
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BRONSON",
+      "footprint_id": 15984
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SUNRAY",
+      "footprint_id": 15993
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MEDINA",
+      "footprint_id": 15996
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MONAHANS",
+      "footprint_id": 16003
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MONTALBA",
+      "footprint_id": 16016
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LUFKIN",
+      "footprint_id": 16033
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BECKVILLE",
+      "footprint_id": 16037
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DEADWOOD",
+      "footprint_id": 16040
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MEXIA",
+      "footprint_id": 16052
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RIESEL",
+      "footprint_id": 16073
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SAN BENITO",
+      "footprint_id": 16100
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WATER VLY",
+      "footprint_id": 16105
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MOFFAT",
+      "footprint_id": 16177
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "IDALOU",
+      "footprint_id": 16193
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HUB",
+      "footprint_id": 16194
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FRIENDSWD",
+      "footprint_id": 16203
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CHIRENO",
+      "footprint_id": 16208
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BUNA",
+      "footprint_id": 16218
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WINFIELD",
+      "footprint_id": 16254
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WEST",
+      "footprint_id": 16259
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WELLS",
+      "footprint_id": 16263
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WINDOM",
+      "footprint_id": 16294
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROSSTON",
+      "footprint_id": 16302
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RIO VISTA",
+      "footprint_id": 16338
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MERTZON",
+      "footprint_id": 16341
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ELIASVILLE",
+      "footprint_id": 16348
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "INGLESIDE",
+      "footprint_id": 16355
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "COYANOSA",
+      "footprint_id": 16356
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ANNAROSE",
+      "footprint_id": 16412
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BEASLEY",
+      "footprint_id": 16425
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PT MANSFLD",
+      "footprint_id": 16427
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "JIM HOGG",
+      "footprint_id": 16439
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROGERS",
+      "footprint_id": 16449
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ITASCA",
+      "footprint_id": 16467
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GANADO",
+      "footprint_id": 16468
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HATCH",
+      "footprint_id": 16471
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FTSTOCKTON",
+      "footprint_id": 16478
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WEAVER",
+      "footprint_id": 16482
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "UNION",
+      "footprint_id": 16498
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GAINESVL",
+      "footprint_id": 16511
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TUCKER",
+      "footprint_id": 16521
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SO TEXHOMA",
+      "footprint_id": 16535
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PRINCETON",
+      "footprint_id": 16543
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MEMORIALPT",
+      "footprint_id": 16550
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EDGEWOOD",
+      "footprint_id": 16564
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SARATOGA",
+      "footprint_id": 16584
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SILVERTON",
+      "footprint_id": 16594
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LOHN",
+      "footprint_id": 16599
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SALADO",
+      "footprint_id": 16601
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ARLINGTON",
+      "footprint_id": 16609
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SMYER",
+      "footprint_id": 16661
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LITTLE RIV",
+      "footprint_id": 16667
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SAN ANGELO",
+      "footprint_id": 16670
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TRINIDAD",
+      "footprint_id": 16681
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LAKEVIEW",
+      "footprint_id": 16712
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LOLITA",
+      "footprint_id": 16722
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FLOURBLUFF",
+      "footprint_id": 16726
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LEWISVILLE",
+      "footprint_id": 16805
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ENNIS",
+      "footprint_id": 16814
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WHITNEY",
+      "footprint_id": 16817
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ANNA",
+      "footprint_id": 16819
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ST JO",
+      "footprint_id": 16825
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PORTER",
+      "footprint_id": 16836
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MINERLWLLS",
+      "footprint_id": 16839
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WESTBURY",
+      "footprint_id": 16842
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ELGIN",
+      "footprint_id": 16847
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CRANDALL",
+      "footprint_id": 16850
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KRESS",
+      "footprint_id": 16866
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SHEFFIELD",
+      "footprint_id": 16874
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BIG VALLEY",
+      "footprint_id": 16906
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NOLANVILLE",
+      "footprint_id": 16915
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CAPROCK",
+      "footprint_id": 16916
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "NORTON",
+      "footprint_id": 16937
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SMITHPOINT",
+      "footprint_id": 16959
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BRIDGEPORT",
+      "footprint_id": 16969
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MEGARGEL",
+      "footprint_id": 16991
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EAGLE LAKE",
+      "footprint_id": 16992
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PRICE",
+      "footprint_id": 16994
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "POTTSBORO",
+      "footprint_id": 16996
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BLUE GROVE",
+      "footprint_id": 17028
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HARLINGEN",
+      "footprint_id": 17030
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ZAVALLA",
+      "footprint_id": 17057
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "POTTSVILLE",
+      "footprint_id": 17076
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LARIAT",
+      "footprint_id": 17086
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LUBBOCK",
+      "footprint_id": 17128
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "WAXAHACHIE",
+      "footprint_id": 17142
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TURKEY",
+      "footprint_id": 17168
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ROBERT LEE",
+      "footprint_id": 17182
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LEONARD",
+      "footprint_id": 17194
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ALBANY",
+      "footprint_id": 17198
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SANGER",
+      "footprint_id": 17205
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "QUANAH",
+      "footprint_id": 17216
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GRANBURY",
+      "footprint_id": 17260
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ANGLETON",
+      "footprint_id": 17279
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "TERRELL",
+      "footprint_id": 17307
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MERIDIAN",
+      "footprint_id": 17350
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "EUSTACE",
+      "footprint_id": 17365
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FREDONIA",
+      "footprint_id": 17399
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MARKHAM",
+      "footprint_id": 17423
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "RICE",
+      "footprint_id": 17428
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BENFRNKLIN",
+      "footprint_id": 17429
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HAMLIN",
+      "footprint_id": 17434
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "GRANGER",
+      "footprint_id": 17435
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "SANTO",
+      "footprint_id": 17509
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BUCHANNDAM",
+      "footprint_id": 17535
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "KERRICK",
+      "footprint_id": 17541
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "HTCHCCKSNF",
+      "footprint_id": 17542
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ENCINAL",
+      "footprint_id": 17574
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BEAUMONT",
+      "footprint_id": 17583
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "PAINT ROCK",
+      "footprint_id": 17605
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "FLTCHECRTR",
+      "footprint_id": 17608
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "AZLE",
+      "footprint_id": 17620
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "DEL RIO",
+      "footprint_id": 17623
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "STOCKDALE",
+      "footprint_id": 17638
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "BREMOND",
+      "footprint_id": 17656
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "LACOSTE",
+      "footprint_id": 17665
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ETOILE",
+      "footprint_id": 17672
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "CALVERT",
+      "footprint_id": 17680
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "MADISONVL",
+      "footprint_id": 17708
+    },
+    {
+      "country": "US",
+      "state": "TX",
+      "name": "ONALASKA",
+      "footprint_id": 17710
+    }
+  ]
+}

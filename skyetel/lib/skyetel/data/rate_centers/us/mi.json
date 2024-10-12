@@ -1,0 +1,3820 @@
+{
+  "rate_centers": [
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ZEELAND",
+      "footprint_id": 39
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MT CLEMENS",
+      "footprint_id": 45
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SWARTZ CRK",
+      "footprint_id": 65
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DETROITZN5",
+      "footprint_id": 74
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MANCELONA",
+      "footprint_id": 123
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CONKLIN",
+      "footprint_id": 150
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PORT HURON",
+      "footprint_id": 176
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WELLSTON",
+      "footprint_id": 190
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CLAYTON",
+      "footprint_id": 217
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "VANDERBILT",
+      "footprint_id": 222
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HADLEY",
+      "footprint_id": 251
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "NEWBUFFALO",
+      "footprint_id": 292
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CARSONCITY",
+      "footprint_id": 300
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SUTTONSBAY",
+      "footprint_id": 432
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "JEDDO",
+      "footprint_id": 439
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "TECUMSEH",
+      "footprint_id": 452
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HULBERT",
+      "footprint_id": 480
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "TEKONSHA",
+      "footprint_id": 527
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ROSEVILLE",
+      "footprint_id": 530
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "NILES",
+      "footprint_id": 541
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PETERSBURG",
+      "footprint_id": 554
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "POTTERVL",
+      "footprint_id": 587
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "W BLOOMFLD",
+      "footprint_id": 613
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "COMMERCE",
+      "footprint_id": 621
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MUSKEGON",
+      "footprint_id": 633
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WHITTEMORE",
+      "footprint_id": 662
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LAKE ANN",
+      "footprint_id": 691
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HUDSONVL",
+      "footprint_id": 730
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HOUGHTONLK",
+      "footprint_id": 739
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BIRCH RUN",
+      "footprint_id": 775
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FLAT ROCK",
+      "footprint_id": 815
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "AU GRES",
+      "footprint_id": 831
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "KINDE",
+      "footprint_id": 888
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "STANTON",
+      "footprint_id": 905
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WILLIS",
+      "footprint_id": 971
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MOSHERVL",
+      "footprint_id": 972
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LIVONIA",
+      "footprint_id": 973
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CHANNING",
+      "footprint_id": 989
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ST HELEN",
+      "footprint_id": 1033
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BARODA",
+      "footprint_id": 1041
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CARSONVL",
+      "footprint_id": 1068
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DOWAGIAC",
+      "footprint_id": 1074
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "REPUBLIC",
+      "footprint_id": 1086
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PERKINS",
+      "footprint_id": 1091
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CLINTON",
+      "footprint_id": 1107
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GAGETOWN",
+      "footprint_id": 1123
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "VASSAR",
+      "footprint_id": 1173
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ITHACA",
+      "footprint_id": 1174
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ERIE",
+      "footprint_id": 1192
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MARQUETTE",
+      "footprint_id": 1194
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HASTINGS",
+      "footprint_id": 1202
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "IRON RIVER",
+      "footprint_id": 1214
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "TRAVERSECY",
+      "footprint_id": 1216
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HOMER",
+      "footprint_id": 1264
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "TROUT LAKE",
+      "footprint_id": 1331
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HARBOR BCH",
+      "footprint_id": 1334
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FLUSHING",
+      "footprint_id": 1360
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PULLMAN",
+      "footprint_id": 1427
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PINE LAKE",
+      "footprint_id": 1434
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "AUBURN HTS",
+      "footprint_id": 1459
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "KALAMAZOO",
+      "footprint_id": 1483
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CHATHAM",
+      "footprint_id": 1514
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "RIVES JCT",
+      "footprint_id": 1531
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DANSVILLE",
+      "footprint_id": 1555
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LINCOLN",
+      "footprint_id": 1670
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CASNOVIA",
+      "footprint_id": 1697
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "UTICA",
+      "footprint_id": 1702
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CAMBRIA",
+      "footprint_id": 1753
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PLYMOUTH",
+      "footprint_id": 1763
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GLENNIE",
+      "footprint_id": 1765
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DUTTON",
+      "footprint_id": 1768
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SAGINAW",
+      "footprint_id": 1807
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "STURGIS",
+      "footprint_id": 1809
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "OLDMISSION",
+      "footprint_id": 1824
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SENEY",
+      "footprint_id": 1845
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WHITECLOUD",
+      "footprint_id": 1876
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "READING",
+      "footprint_id": 1886
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "COLUMBIAVL",
+      "footprint_id": 1905
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CHESTER",
+      "footprint_id": 1909
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "IONIA",
+      "footprint_id": 1916
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SAND CREEK",
+      "footprint_id": 1941
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "TWIN LAKE",
+      "footprint_id": 1961
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WATERVLIET",
+      "footprint_id": 2008
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ALMA",
+      "footprint_id": 2055
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CAPAC",
+      "footprint_id": 2068
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "UNIONVILLE",
+      "footprint_id": 2084
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HEMLOCK",
+      "footprint_id": 2106
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MILAN",
+      "footprint_id": 2164
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PINCKNEY",
+      "footprint_id": 2179
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BARK RIVER",
+      "footprint_id": 2187
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LUTHER",
+      "footprint_id": 2234
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "OWENDALE",
+      "footprint_id": 2254
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ROSCOMMON",
+      "footprint_id": 2291
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GALESBURG",
+      "footprint_id": 2300
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HARRISON",
+      "footprint_id": 2332
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DRUMMONDIS",
+      "footprint_id": 2349
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HONOR",
+      "footprint_id": 2375
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "POSEN",
+      "footprint_id": 2385
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LAMBERTVL",
+      "footprint_id": 2390
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "COLDWTR LK",
+      "footprint_id": 2392
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WINN",
+      "footprint_id": 2419
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DETROITZN2",
+      "footprint_id": 2439
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MARCELLUS",
+      "footprint_id": 2483
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "INDIAN RIV",
+      "footprint_id": 2487
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ANN ARBOR",
+      "footprint_id": 2497
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ROBBS CRK",
+      "footprint_id": 2562
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WARREN",
+      "footprint_id": 2616
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "REED CITY",
+      "footprint_id": 2632
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BAY PORT",
+      "footprint_id": 2666
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "OTSEGO",
+      "footprint_id": 2685
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FAITHORN",
+      "footprint_id": 2694
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HARTFORD",
+      "footprint_id": 2746
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ADA",
+      "footprint_id": 2750
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MARINECITY",
+      "footprint_id": 2924
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FOWLERVL",
+      "footprint_id": 2953
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ALBION",
+      "footprint_id": 2960
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SAND RIVER",
+      "footprint_id": 3010
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FARMINGTON",
+      "footprint_id": 3020
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MUNISING",
+      "footprint_id": 3032
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "EDWARDSBG",
+      "footprint_id": 3057
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "TRENTON",
+      "footprint_id": 3156
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HOLLY",
+      "footprint_id": 3322
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "POMPEII",
+      "footprint_id": 3340
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FARWELL",
+      "footprint_id": 3354
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ST CLAIR",
+      "footprint_id": 3357
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "KENT CITY",
+      "footprint_id": 3397
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CLAM RIVER",
+      "footprint_id": 3411
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WH PIGEON",
+      "footprint_id": 3439
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CONSTANTIN",
+      "footprint_id": 3448
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "VERMONTVL",
+      "footprint_id": 3458
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CALEDONIA",
+      "footprint_id": 3463
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DEXTER",
+      "footprint_id": 3504
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "KALKASKA",
+      "footprint_id": 3517
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HARBOR SPG",
+      "footprint_id": 3633
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WESTBRANCH",
+      "footprint_id": 3659
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LINWOOD",
+      "footprint_id": 3696
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "IDA",
+      "footprint_id": 3711
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ROCKFORD",
+      "footprint_id": 3757
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MERRILL",
+      "footprint_id": 3822
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ROYAL OAK",
+      "footprint_id": 3857
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MARSHALL",
+      "footprint_id": 3866
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BARAGA",
+      "footprint_id": 3899
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SMOKYLAKES",
+      "footprint_id": 3957
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CHARLEVOIX",
+      "footprint_id": 3967
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MIDDLEVL",
+      "footprint_id": 4023
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CRYSTAL",
+      "footprint_id": 4040
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "RAPIDRIVER",
+      "footprint_id": 4079
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LAKE CITY",
+      "footprint_id": 4135
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MONTROSE",
+      "footprint_id": 4137
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "TROUTCREEK",
+      "footprint_id": 4163
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "EDMORE",
+      "footprint_id": 4189
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MANCHESTER",
+      "footprint_id": 4218
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "TRCHRIVBDG",
+      "footprint_id": 4236
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BEAVERTON",
+      "footprint_id": 4239
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WHITMORELK",
+      "footprint_id": 4324
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GRANDBLANC",
+      "footprint_id": 4350
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HAMILTON",
+      "footprint_id": 4351
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LKLEELANAU",
+      "footprint_id": 4354
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PLAINWELL",
+      "footprint_id": 4375
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BARRYTON",
+      "footprint_id": 4418
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FENNVILLE",
+      "footprint_id": 4435
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "TEMPERANCE",
+      "footprint_id": 4501
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "METAMORA",
+      "footprint_id": 4619
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WAKEFIELD",
+      "footprint_id": 4646
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BOIS BLANC",
+      "footprint_id": 4653
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PT SANILAC",
+      "footprint_id": 4670
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SEBEWAING",
+      "footprint_id": 4692
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ST LOUIS",
+      "footprint_id": 4740
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MARTIN",
+      "footprint_id": 4742
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ST JAMES",
+      "footprint_id": 4753
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "COLON",
+      "footprint_id": 4791
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ROMULUS",
+      "footprint_id": 4792
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "AUBURN",
+      "footprint_id": 4836
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ROGERSCITY",
+      "footprint_id": 4859
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CENTERLINE",
+      "footprint_id": 4870
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SANDUSKY",
+      "footprint_id": 4901
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HALE",
+      "footprint_id": 4968
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "REESE",
+      "footprint_id": 4991
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WALDRON",
+      "footprint_id": 5020
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "YPSILANTI",
+      "footprint_id": 5022
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MCBAIN",
+      "footprint_id": 5025
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ORLEANS",
+      "footprint_id": 5031
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FREMONT",
+      "footprint_id": 5044
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "AMBLE",
+      "footprint_id": 5060
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CRYSTALFLS",
+      "footprint_id": 5111
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BRUCECRSNG",
+      "footprint_id": 5112
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ROCHESTER",
+      "footprint_id": 5154
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ASHLEY",
+      "footprint_id": 5161
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WAYLAND",
+      "footprint_id": 5162
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DUNDEE",
+      "footprint_id": 5179
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "COLOMA",
+      "footprint_id": 5219
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SOUTHFIELD",
+      "footprint_id": 5221
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "NEWLOTHROP",
+      "footprint_id": 5266
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GRATTAN",
+      "footprint_id": 5360
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CHIPPEWALK",
+      "footprint_id": 5374
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LAPEER",
+      "footprint_id": 5471
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CENTRAL LK",
+      "footprint_id": 5525
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LUPTON",
+      "footprint_id": 5535
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "TRENARY",
+      "footprint_id": 5613
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WATTON",
+      "footprint_id": 5631
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WESTPHALIA",
+      "footprint_id": 5657
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MTPLEASANT",
+      "footprint_id": 5661
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HOWELL",
+      "footprint_id": 5676
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CEDARVILLE",
+      "footprint_id": 5679
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WALLACE",
+      "footprint_id": 5687
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SUNFIELD",
+      "footprint_id": 5690
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WYANDOTTE",
+      "footprint_id": 5703
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LOWELL",
+      "footprint_id": 5717
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HOLLAND",
+      "footprint_id": 5735
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WEBBERVL",
+      "footprint_id": 5742
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "KALEVA",
+      "footprint_id": 5750
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FULTON",
+      "footprint_id": 5753
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WOODLAND",
+      "footprint_id": 5760
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MUNGER",
+      "footprint_id": 5762
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ALLEN",
+      "footprint_id": 5771
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FRUITPORT",
+      "footprint_id": 5788
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BENTON HBR",
+      "footprint_id": 5822
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CLARKLAKE",
+      "footprint_id": 5831
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "JAMESTOWN",
+      "footprint_id": 5916
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FOUNTAIN",
+      "footprint_id": 5945
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MACKINACIS",
+      "footprint_id": 5987
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FREESOIL",
+      "footprint_id": 5996
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MASS",
+      "footprint_id": 6079
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HARTLAND",
+      "footprint_id": 6080
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PETOSKEY",
+      "footprint_id": 6084
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "NEW HAVEN",
+      "footprint_id": 6117
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ORTONVILLE",
+      "footprint_id": 6144
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "REXTON",
+      "footprint_id": 6162
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GRANDLEDGE",
+      "footprint_id": 6195
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GWINN",
+      "footprint_id": 6204
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MICHIGAMME",
+      "footprint_id": 6209
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MULLIKEN",
+      "footprint_id": 6252
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FENWICK",
+      "footprint_id": 6277
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PRESCOTT",
+      "footprint_id": 6285
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CEDAR SPG",
+      "footprint_id": 6315
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SAWYER",
+      "footprint_id": 6323
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "OSSINEKE",
+      "footprint_id": 6341
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ST CHARLES",
+      "footprint_id": 6344
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "QUINCY",
+      "footprint_id": 6380
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SHELBY",
+      "footprint_id": 6448
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BERGLAND",
+      "footprint_id": 6517
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "NEWPORT",
+      "footprint_id": 6526
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BRONSON",
+      "footprint_id": 6556
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CORAL",
+      "footprint_id": 6575
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PELLSTON",
+      "footprint_id": 6593
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MARLETTE",
+      "footprint_id": 6649
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LOSTPNNSUL",
+      "footprint_id": 6744
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MARENISCO",
+      "footprint_id": 6750
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ROSEBUSH",
+      "footprint_id": 6895
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ROMEO",
+      "footprint_id": 6896
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SHEPHERD",
+      "footprint_id": 6933
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SANDLK HTS",
+      "footprint_id": 6977
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "OVID",
+      "footprint_id": 7059
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MONROE",
+      "footprint_id": 7072
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ROCK",
+      "footprint_id": 7089
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ONEKAMA",
+      "footprint_id": 7137
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LEVERING",
+      "footprint_id": 7155
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DETROITZN3",
+      "footprint_id": 7193
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PECK",
+      "footprint_id": 7201
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DEERFIELD",
+      "footprint_id": 7211
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PORTAUSTIN",
+      "footprint_id": 7226
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LK GOGEBIC",
+      "footprint_id": 7262
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "NEWBALTIMR",
+      "footprint_id": 7316
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LAKE NORTH",
+      "footprint_id": 7336
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SOUTHHAVEN",
+      "footprint_id": 7359
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "NORWAY",
+      "footprint_id": 7447
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BYRON",
+      "footprint_id": 7482
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GRAYLING",
+      "footprint_id": 7496
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BYRON CTR",
+      "footprint_id": 7538
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ROCKWOOD",
+      "footprint_id": 7552
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "OLIVET",
+      "footprint_id": 7554
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BLANCHARD",
+      "footprint_id": 7596
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ATLANTA",
+      "footprint_id": 7600
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MAYBEE",
+      "footprint_id": 7604
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DUBLIN",
+      "footprint_id": 7632
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "EASTJORDAN",
+      "footprint_id": 7647
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "RIVERDALE",
+      "footprint_id": 7665
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ALBA",
+      "footprint_id": 7678
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PARADISE",
+      "footprint_id": 7757
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SALINE",
+      "footprint_id": 7786
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FREELAND",
+      "footprint_id": 7794
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WILLIAMSBG",
+      "footprint_id": 7796
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PERRY",
+      "footprint_id": 7867
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GLEN LAKE",
+      "footprint_id": 7901
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "NORTHVILLE",
+      "footprint_id": 7904
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "STANWOOD",
+      "footprint_id": 7938
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ESCANABA",
+      "footprint_id": 7953
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GREGORY",
+      "footprint_id": 7982
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "EWEN",
+      "footprint_id": 8055
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CLARKSVL",
+      "footprint_id": 8065
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PINCONNING",
+      "footprint_id": 8089
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "AVOCA",
+      "footprint_id": 8097
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BROOKLYN",
+      "footprint_id": 8099
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BUCHANAN",
+      "footprint_id": 8105
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HILLSDALE",
+      "footprint_id": 8115
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SHAFTSBURG",
+      "footprint_id": 8120
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "NEWAYGO",
+      "footprint_id": 8122
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DRENTHE",
+      "footprint_id": 8138
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "REMUS",
+      "footprint_id": 8168
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BATTLE CRK",
+      "footprint_id": 8174
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LE ROY",
+      "footprint_id": 8185
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HERMANSVL",
+      "footprint_id": 8189
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MATTAWAN",
+      "footprint_id": 8219
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MILFDWH LK",
+      "footprint_id": 8246
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PORT HOPE",
+      "footprint_id": 8256
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "RANSOM",
+      "footprint_id": 8305
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HIAWATHFOR",
+      "footprint_id": 8318
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MESICK",
+      "footprint_id": 8383
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FENTON",
+      "footprint_id": 8426
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ALMONT",
+      "footprint_id": 8430
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HOXEYVILLE",
+      "footprint_id": 8496
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "YALE",
+      "footprint_id": 8544
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LAWTON",
+      "footprint_id": 8568
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WILLIAMSTN",
+      "footprint_id": 8629
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WALLEDLAKE",
+      "footprint_id": 8634
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ELMIRA",
+      "footprint_id": 8686
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ADRIAN",
+      "footprint_id": 8691
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "NAPOLEON",
+      "footprint_id": 8718
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LAKELINDEN",
+      "footprint_id": 8734
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CURTIS",
+      "footprint_id": 8755
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DEER PARK",
+      "footprint_id": 8836
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HOUGHTON",
+      "footprint_id": 8883
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CARR",
+      "footprint_id": 8908
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ALLENDALE",
+      "footprint_id": 9024
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "XXXXXXXXXX",
+      "footprint_id": 9084
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CONCORD",
+      "footprint_id": 9086
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MECOSTA",
+      "footprint_id": 9119
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FRANKFORT",
+      "footprint_id": 9122
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SKANDIA",
+      "footprint_id": 9135
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WEIDMAN",
+      "footprint_id": 9158
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HICKORYCOR",
+      "footprint_id": 9161
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "AKRON",
+      "footprint_id": 9183
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ADDISON",
+      "footprint_id": 9250
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "OMER",
+      "footprint_id": 9252
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "JONESVILLE",
+      "footprint_id": 9261
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "VICKSBURG",
+      "footprint_id": 9286
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CASEVILLE",
+      "footprint_id": 9365
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MIO",
+      "footprint_id": 9409
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BATH",
+      "footprint_id": 9502
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CLARKSTON",
+      "footprint_id": 9525
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SISTER LKS",
+      "footprint_id": 9551
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SOUTH LYON",
+      "footprint_id": 9588
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MARION",
+      "footprint_id": 9594
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DETROITZN1",
+      "footprint_id": 9597
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CHAMPION",
+      "footprint_id": 9610
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GAINES",
+      "footprint_id": 9682
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LACOTA",
+      "footprint_id": 9704
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ONTONAGON",
+      "footprint_id": 9763
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BELDING",
+      "footprint_id": 9765
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BUNDY HILL",
+      "footprint_id": 9771
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LACEY",
+      "footprint_id": 9775
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "VANDALIA",
+      "footprint_id": 9779
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DONKEN",
+      "footprint_id": 9823
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "KEWEENAW",
+      "footprint_id": 9847
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ONONDAGA",
+      "footprint_id": 9960
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LITCHFIELD",
+      "footprint_id": 9961
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ELLSWORTH",
+      "footprint_id": 9962
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SOBOARDMAN",
+      "footprint_id": 10005
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FALMOUTH",
+      "footprint_id": 10015
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LAWRENCE",
+      "footprint_id": 10020
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ALPENA",
+      "footprint_id": 10071
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BUCKLEY",
+      "footprint_id": 10075
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BRIGHTON",
+      "footprint_id": 10079
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "RANKIN",
+      "footprint_id": 10146
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MEMPHIS",
+      "footprint_id": 10198
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "APPLEGATE",
+      "footprint_id": 10214
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "COPESHTNVL",
+      "footprint_id": 10217
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "IRONWOOD",
+      "footprint_id": 10222
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "IRONS",
+      "footprint_id": 10233
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MUNITH",
+      "footprint_id": 10235
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ELSIE",
+      "footprint_id": 10274
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BOYNEFALLS",
+      "footprint_id": 10293
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ALANSON",
+      "footprint_id": 10305
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ONAWAY",
+      "footprint_id": 10325
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LAINGSBURG",
+      "footprint_id": 10343
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BRETHREN",
+      "footprint_id": 10350
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MANISTE RV",
+      "footprint_id": 10369
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SPRINGPORT",
+      "footprint_id": 10412
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LEXINGTON",
+      "footprint_id": 10424
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GULLIVER",
+      "footprint_id": 10445
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CAMDEN",
+      "footprint_id": 10472
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LAKEODESSA",
+      "footprint_id": 10478
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HOWARDCITY",
+      "footprint_id": 10574
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WATSON",
+      "footprint_id": 10685
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BELLAIRE",
+      "footprint_id": 10704
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ROSE CITY",
+      "footprint_id": 10789
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PAW PAW",
+      "footprint_id": 10836
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DELTON",
+      "footprint_id": 10840
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WASHINGTON",
+      "footprint_id": 10866
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MANISTIQUE",
+      "footprint_id": 10870
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "IRON MT",
+      "footprint_id": 10915
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FIFE LAKE",
+      "footprint_id": 10920
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ST JOHNS",
+      "footprint_id": 10926
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FAIRVIEW",
+      "footprint_id": 10937
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "OWOSSO",
+      "footprint_id": 11032
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LAKEVIEW",
+      "footprint_id": 11077
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ST JOSEPH",
+      "footprint_id": 11082
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WOLVERINE",
+      "footprint_id": 11098
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "RUDYARD",
+      "footprint_id": 11165
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PONTIAC",
+      "footprint_id": 11209
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "OSCODA",
+      "footprint_id": 11216
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MAYVILLE",
+      "footprint_id": 11272
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BRIMLEY",
+      "footprint_id": 11303
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "STOCKBDG",
+      "footprint_id": 11310
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "EAST TAWAS",
+      "footprint_id": 11386
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "TUSTIN",
+      "footprint_id": 11397
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LENNON",
+      "footprint_id": 11461
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DRYDEN",
+      "footprint_id": 11533
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BORCULO",
+      "footprint_id": 11546
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "NOSYLVANIA",
+      "footprint_id": 11600
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HUDSON",
+      "footprint_id": 11614
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "EASTPORT",
+      "footprint_id": 11617
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "KINGSTON",
+      "footprint_id": 11622
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GALIEN",
+      "footprint_id": 11626
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BRANT",
+      "footprint_id": 11630
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "COOPERSVL",
+      "footprint_id": 11731
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MAPLE RPD",
+      "footprint_id": 11799
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "RICHLAND",
+      "footprint_id": 11841
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BAD AXE",
+      "footprint_id": 11843
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ELK RAPIDS",
+      "footprint_id": 11960
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "TAPIOLA",
+      "footprint_id": 11964
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MORLEY",
+      "footprint_id": 12025
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "VICKERYVL",
+      "footprint_id": 12028
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "OTISVILLE",
+      "footprint_id": 12036
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BLISSFIELD",
+      "footprint_id": 12053
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CLARE",
+      "footprint_id": 12054
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DURAND",
+      "footprint_id": 12174
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SCHOOLCFT",
+      "footprint_id": 12187
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HARRIETTA",
+      "footprint_id": 12199
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SARANAC",
+      "footprint_id": 12213
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "IMLAY CITY",
+      "footprint_id": 12227
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "TRUFANT",
+      "footprint_id": 12242
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "NEGAUNEE",
+      "footprint_id": 12282
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CHAPIN",
+      "footprint_id": 12314
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FELCH",
+      "footprint_id": 12331
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "NOLANDOLKS",
+      "footprint_id": 12379
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BALDWIN",
+      "footprint_id": 12406
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MIDLAND",
+      "footprint_id": 12428
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SIX LAKES",
+      "footprint_id": 12439
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "JACKSON",
+      "footprint_id": 12479
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DETROITZN6",
+      "footprint_id": 12515
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "UNION",
+      "footprint_id": 12522
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SIDNEY",
+      "footprint_id": 12525
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BROWN CITY",
+      "footprint_id": 12544
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BANFIELD",
+      "footprint_id": 12578
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DIMONDALE",
+      "footprint_id": 12596
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GAYLORD",
+      "footprint_id": 12628
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SCOTTVILLE",
+      "footprint_id": 12647
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FREEPORT",
+      "footprint_id": 12663
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LEWISTON",
+      "footprint_id": 12739
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MILLINGTON",
+      "footprint_id": 12853
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GRAND RPDS",
+      "footprint_id": 12860
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FAIRGROVE",
+      "footprint_id": 12914
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LONG LAKE",
+      "footprint_id": 12923
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "COLEMAN",
+      "footprint_id": 12934
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CARLETON",
+      "footprint_id": 12942
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LACHINE",
+      "footprint_id": 12972
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WHITE PINE",
+      "footprint_id": 13039
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GRANDHAVEN",
+      "footprint_id": 13061
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FLINT",
+      "footprint_id": 13099
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ALGONAC",
+      "footprint_id": 13100
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MONTGOMERY",
+      "footprint_id": 13141
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LINDEN",
+      "footprint_id": 13143
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CLIMAX",
+      "footprint_id": 13185
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HART",
+      "footprint_id": 13191
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MACKINAWCY",
+      "footprint_id": 13200
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PRATTVILLE",
+      "footprint_id": 13206
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BRIDGMAN",
+      "footprint_id": 13236
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CASS CITY",
+      "footprint_id": 13280
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DECKERVL",
+      "footprint_id": 13315
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DETROITZN4",
+      "footprint_id": 13364
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DRAYTON PL",
+      "footprint_id": 13380
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LUDINGTON",
+      "footprint_id": 13381
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ECKERMAN",
+      "footprint_id": 13397
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ALDEN",
+      "footprint_id": 13406
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FENCERIVER",
+      "footprint_id": 13419
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LANSING",
+      "footprint_id": 13477
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GARDEN",
+      "footprint_id": 13502
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DE TOUR",
+      "footprint_id": 13555
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ALSTON",
+      "footprint_id": 13583
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BLOOMINGDL",
+      "footprint_id": 13586
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "L ANSE",
+      "footprint_id": 13628
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GOODRICH",
+      "footprint_id": 13634
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ARMADA",
+      "footprint_id": 13680
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "TIPTON",
+      "footprint_id": 13706
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MICHIGMFOR",
+      "footprint_id": 13836
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CLIFFORD",
+      "footprint_id": 13861
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GRACE HBR",
+      "footprint_id": 13871
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CHEBOYGAN",
+      "footprint_id": 13898
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CASSOPOLIS",
+      "footprint_id": 13909
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PICKFORD",
+      "footprint_id": 14002
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "OGDEN CTR",
+      "footprint_id": 14006
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "UBLY",
+      "footprint_id": 14014
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HANOVER",
+      "footprint_id": 14021
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BELLEVILLE",
+      "footprint_id": 14026
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CALUMET",
+      "footprint_id": 14027
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MASON",
+      "footprint_id": 14029
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LAKE ORION",
+      "footprint_id": 14063
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GRASS LAKE",
+      "footprint_id": 14065
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "INTERLOCHN",
+      "footprint_id": 14072
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WAYNE",
+      "footprint_id": 14093
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HUBBARD LK",
+      "footprint_id": 14106
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "NORTH BRCH",
+      "footprint_id": 14114
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PENTWATER",
+      "footprint_id": 14145
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HOLTON",
+      "footprint_id": 14175
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ST IGNACE",
+      "footprint_id": 14208
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GLADWIN",
+      "footprint_id": 14226
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "NORTHPORT",
+      "footprint_id": 14324
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PORTLAND",
+      "footprint_id": 14344
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BIG RAPIDS",
+      "footprint_id": 14355
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HUBBARDSTN",
+      "footprint_id": 14365
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "STEPHENSON",
+      "footprint_id": 14427
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BOYNE CITY",
+      "footprint_id": 14462
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BELLEVUE",
+      "footprint_id": 14484
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GRANDMRAIS",
+      "footprint_id": 14521
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MINDENCITY",
+      "footprint_id": 14535
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BIRMINGHAM",
+      "footprint_id": 14538
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CENTREVL",
+      "footprint_id": 14541
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BEULAH",
+      "footprint_id": 14559
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MENOMINEE",
+      "footprint_id": 14576
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "NEW BOSTON",
+      "footprint_id": 14664
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DAVISON",
+      "footprint_id": 14727
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DIR ASST",
+      "footprint_id": 14733
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BAY CITY",
+      "footprint_id": 14736
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MORENCI",
+      "footprint_id": 14745
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SNOVER",
+      "footprint_id": 14781
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "TROY",
+      "footprint_id": 14783
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ENGADINE",
+      "footprint_id": 14791
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "KINROSS",
+      "footprint_id": 14792
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DE WITT",
+      "footprint_id": 14799
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PALO",
+      "footprint_id": 14827
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SANFORD",
+      "footprint_id": 14847
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FRONTIER",
+      "footprint_id": 14869
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BRUTUS",
+      "footprint_id": 14874
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HOPE",
+      "footprint_id": 14934
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "LESLIE",
+      "footprint_id": 14999
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SCOTTS",
+      "footprint_id": 15026
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SHERIDAN",
+      "footprint_id": 15074
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "STANDISH",
+      "footprint_id": 15081
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GRANT",
+      "footprint_id": 15084
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FOSTORIA",
+      "footprint_id": 15103
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GANGES",
+      "footprint_id": 15108
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "EAU CLAIRE",
+      "footprint_id": 15138
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MERRITT",
+      "footprint_id": 15198
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "COLDWATER",
+      "footprint_id": 15216
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CARNEY",
+      "footprint_id": 15227
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "TWINING",
+      "footprint_id": 15246
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GOBLES",
+      "footprint_id": 15318
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GLADSTONE",
+      "footprint_id": 15335
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MANTON",
+      "footprint_id": 15349
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BURR OAK",
+      "footprint_id": 15395
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MUIR",
+      "footprint_id": 15420
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "EMMETT",
+      "footprint_id": 15439
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "STERLING",
+      "footprint_id": 15475
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ALGER",
+      "footprint_id": 15538
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CADILLAC",
+      "footprint_id": 15548
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ONSTED",
+      "footprint_id": 15561
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CROSWELL",
+      "footprint_id": 15576
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PIGEON",
+      "footprint_id": 15597
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BIG BAY",
+      "footprint_id": 15620
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "RICHMOND",
+      "footprint_id": 15709
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FITCHBURG",
+      "footprint_id": 15730
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SHINGLETON",
+      "footprint_id": 15756
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "OSSEO",
+      "footprint_id": 15790
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MOORESTOWN",
+      "footprint_id": 15827
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CORNELL",
+      "footprint_id": 15836
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "EVART",
+      "footprint_id": 15837
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SCOTTPOINT",
+      "footprint_id": 15893
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FRANKENMTH",
+      "footprint_id": 15949
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SIXTYLAKES",
+      "footprint_id": 15985
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HILLMAN",
+      "footprint_id": 15988
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "KINGSLEY",
+      "footprint_id": 16020
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CHELSEA",
+      "footprint_id": 16028
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CHARLOTTE",
+      "footprint_id": 16055
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HOLT",
+      "footprint_id": 16109
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "AMASA",
+      "footprint_id": 16128
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ISHPEMING",
+      "footprint_id": 16192
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GRAND JCT",
+      "footprint_id": 16236
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DORR",
+      "footprint_id": 16253
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "VESTABURG",
+      "footprint_id": 16289
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SPARTA",
+      "footprint_id": 16307
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HOPKINS",
+      "footprint_id": 16308
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GREENVILLE",
+      "footprint_id": 16367
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WATERSMEET",
+      "footprint_id": 16381
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "AUGUSTA",
+      "footprint_id": 16387
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MARNE",
+      "footprint_id": 16416
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BEAR LAKE",
+      "footprint_id": 16436
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "NORTHADAMS",
+      "footprint_id": 16494
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ELKTON",
+      "footprint_id": 16541
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "THREERIVRS",
+      "footprint_id": 16580
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GOLDENLAKE",
+      "footprint_id": 16606
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "UNION CITY",
+      "footprint_id": 16619
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ROCKLAND",
+      "footprint_id": 16646
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "RAVENNA",
+      "footprint_id": 16675
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "PARMA",
+      "footprint_id": 16690
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BRECKENRDG",
+      "footprint_id": 16696
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BESSEMER",
+      "footprint_id": 16724
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "THREE OAKS",
+      "footprint_id": 16741
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BELL OAK",
+      "footprint_id": 16783
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WALLOON LK",
+      "footprint_id": 16791
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "POWERS",
+      "footprint_id": 16841
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BURLINGTON",
+      "footprint_id": 16891
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SAND LAKE",
+      "footprint_id": 16894
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BANGOR",
+      "footprint_id": 16910
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BREVORT",
+      "footprint_id": 16936
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BERRIENSPG",
+      "footprint_id": 16942
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SAUGATUCK",
+      "footprint_id": 17004
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CLIMTMORRS",
+      "footprint_id": 17011
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "COVERT",
+      "footprint_id": 17037
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ALTO",
+      "footprint_id": 17046
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "OXFORD",
+      "footprint_id": 17055
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HARRISVL",
+      "footprint_id": 17059
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "DECATUR",
+      "footprint_id": 17085
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ALLEGAN",
+      "footprint_id": 17189
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BANCROFT",
+      "footprint_id": 17210
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GLENN",
+      "footprint_id": 17231
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MCBRIDES",
+      "footprint_id": 17242
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "WHITEHALL",
+      "footprint_id": 17263
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "NEWBERRY",
+      "footprint_id": 17266
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CARO",
+      "footprint_id": 17315
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MOLINE",
+      "footprint_id": 17359
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SALTSTMARI",
+      "footprint_id": 17385
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "GOODELLS",
+      "footprint_id": 17424
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MIDDLETON",
+      "footprint_id": 17437
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "NASHVILLE",
+      "footprint_id": 17445
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "ATHENS",
+      "footprint_id": 17457
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "AU TRAIN",
+      "footprint_id": 17462
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HIGGINS LK",
+      "footprint_id": 17489
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MENDON",
+      "footprint_id": 17490
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "FOWLERPWMO",
+      "footprint_id": 17495
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "MANISTEE",
+      "footprint_id": 17505
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "HESPERIA",
+      "footprint_id": 17518
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "BRITTON",
+      "footprint_id": 17519
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "CHESANING",
+      "footprint_id": 17579
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "SMITHS CRK",
+      "footprint_id": 17606
+    },
+    {
+      "country": "US",
+      "state": "MI",
+      "name": "EATON RPD",
+      "footprint_id": 17613
+    }
+  ]
+}

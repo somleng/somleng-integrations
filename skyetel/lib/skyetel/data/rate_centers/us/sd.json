@@ -1,0 +1,1630 @@
+{
+  "rate_centers": [
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "COLTON",
+      "footprint_id": 81
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WENTWORTH",
+      "footprint_id": 84
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SO ELLENDL",
+      "footprint_id": 94
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "TABOR",
+      "footprint_id": 120
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ELKTON",
+      "footprint_id": 178
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "MARION",
+      "footprint_id": 275
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "BRYNTWLWLK",
+      "footprint_id": 469
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "QUINN",
+      "footprint_id": 498
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "DIR ASST",
+      "footprint_id": 610
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WOLSEY",
+      "footprint_id": 640
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "BLUNT",
+      "footprint_id": 702
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WALL",
+      "footprint_id": 748
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "MEADOW",
+      "footprint_id": 780
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "NUNDA",
+      "footprint_id": 916
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ROSLYN",
+      "footprint_id": 996
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "NORTHNAPER",
+      "footprint_id": 1015
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "GETTYSBURG",
+      "footprint_id": 1038
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SOVENTURIA",
+      "footprint_id": 1040
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "OLDHAMRMON",
+      "footprint_id": 1095
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "BOWDLE",
+      "footprint_id": 1193
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ARMOUR",
+      "footprint_id": 1245
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "HUMBOLDT",
+      "footprint_id": 1272
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "KENNEBEC",
+      "footprint_id": 1366
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "CLAYTON",
+      "footprint_id": 1383
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WALL LAKE",
+      "footprint_id": 1422
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "FLORENCE",
+      "footprint_id": 1690
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "GANNVALLEY",
+      "footprint_id": 1756
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SINAI",
+      "footprint_id": 1770
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "HARISBGTEA",
+      "footprint_id": 1776
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ARDMORE",
+      "footprint_id": 1818
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "EAGLEBUTTE",
+      "footprint_id": 1835
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "NO BRISTOW",
+      "footprint_id": 1932
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "LESTERVL",
+      "footprint_id": 2001
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ENEWCASTLE",
+      "footprint_id": 2023
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ESTELLINE",
+      "footprint_id": 2175
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "CUSTER",
+      "footprint_id": 2204
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SCOTLAND",
+      "footprint_id": 2348
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "HERREID",
+      "footprint_id": 2424
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "LAKE ANDES",
+      "footprint_id": 2486
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WHITE",
+      "footprint_id": 2563
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SIOUX FLS",
+      "footprint_id": 2606
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "FLYGER",
+      "footprint_id": 2686
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "NORTH CODY",
+      "footprint_id": 2715
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "LAKENORDEN",
+      "footprint_id": 2798
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "MARTIN",
+      "footprint_id": 2833
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "CRESBARD",
+      "footprint_id": 2900
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "CREIGHTON",
+      "footprint_id": 3075
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "TORONTO",
+      "footprint_id": 3224
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "CLAIRECITY",
+      "footprint_id": 3277
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "FREEMAN",
+      "footprint_id": 3468
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "BUFFALO",
+      "footprint_id": 3477
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SO FORBES",
+      "footprint_id": 3587
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "LEOLA",
+      "footprint_id": 3601
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SO REEDER",
+      "footprint_id": 3701
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "KEYSTONE",
+      "footprint_id": 3702
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "KYLE",
+      "footprint_id": 3834
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "COLUMBIA",
+      "footprint_id": 3898
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "DOLAND",
+      "footprint_id": 3913
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "GARRETSON",
+      "footprint_id": 4128
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SPRINGFLD",
+      "footprint_id": 4159
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ALPENA",
+      "footprint_id": 4178
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "FERNEY",
+      "footprint_id": 4230
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "LK PRESTON",
+      "footprint_id": 4251
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "MT VERNON",
+      "footprint_id": 4448
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "PRESHO",
+      "footprint_id": 4478
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "NEWEFFNGTN",
+      "footprint_id": 4617
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WEBSTER",
+      "footprint_id": 4638
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WICKSVILLE",
+      "footprint_id": 4704
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "PLANKINTON",
+      "footprint_id": 4768
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "BRANDT",
+      "footprint_id": 4812
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "RAPID CITY",
+      "footprint_id": 4940
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "CANTON",
+      "footprint_id": 4941
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "CONDE",
+      "footprint_id": 4990
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "HARTFORD",
+      "footprint_id": 5036
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "BELVIDERE",
+      "footprint_id": 5141
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "BRADLEY",
+      "footprint_id": 5206
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ALCESTER",
+      "footprint_id": 5329
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "NO KILGORE",
+      "footprint_id": 5357
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "MILESVILLE",
+      "footprint_id": 5540
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "TIMBERLAKE",
+      "footprint_id": 5582
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "INTERIOR",
+      "footprint_id": 5641
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "GLENHAM",
+      "footprint_id": 5685
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "BISON",
+      "footprint_id": 5747
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "MOUND CITY",
+      "footprint_id": 5811
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ROSHOLT",
+      "footprint_id": 5932
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "TURTON",
+      "footprint_id": 6008
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ARTESIAN",
+      "footprint_id": 6021
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "W HAWARDEN",
+      "footprint_id": 6047
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "CHAMBERLAN",
+      "footprint_id": 6239
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "BRITTON",
+      "footprint_id": 6279
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "MILBANK",
+      "footprint_id": 6292
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "HOSMER",
+      "footprint_id": 6349
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "LONG LAKE",
+      "footprint_id": 6370
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ENNING",
+      "footprint_id": 6395
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "HERMOSA",
+      "footprint_id": 6425
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SOLIDGERWD",
+      "footprint_id": 6428
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ROSCOE",
+      "footprint_id": 6536
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "POLLOCK",
+      "footprint_id": 6583
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "BRIDGEWTR",
+      "footprint_id": 6586
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "PHILIP",
+      "footprint_id": 6588
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "RELIANCE",
+      "footprint_id": 6743
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SPENCER",
+      "footprint_id": 6768
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "STICKNEY",
+      "footprint_id": 6823
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "IPSWICH",
+      "footprint_id": 6848
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ETHAN",
+      "footprint_id": 6937
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "HOUGHTON",
+      "footprint_id": 7010
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "CLARK",
+      "footprint_id": 7060
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WAUBAY",
+      "footprint_id": 7178
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "BELLEFORCH",
+      "footprint_id": 7200
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "MIDLAND",
+      "footprint_id": 7345
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ONIDA",
+      "footprint_id": 7539
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "GROTON",
+      "footprint_id": 7588
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WHENDRICKS",
+      "footprint_id": 7670
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "NLARCHWOOD",
+      "footprint_id": 7933
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "MITCHELL",
+      "footprint_id": 7980
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "XXXXXXXXXX",
+      "footprint_id": 8005
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "OELRICHS",
+      "footprint_id": 8020
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "FORESTBURG",
+      "footprint_id": 8064
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "BUFFALOGAP",
+      "footprint_id": 8068
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "MOBRIDGE",
+      "footprint_id": 8091
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "YANKTON",
+      "footprint_id": 8144
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "NOSIOUX CY",
+      "footprint_id": 8145
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "MELLETTE",
+      "footprint_id": 8156
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "CAMP CROOK",
+      "footprint_id": 8217
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "TYNDALL",
+      "footprint_id": 8243
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SORUM",
+      "footprint_id": 8278
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SISSETON",
+      "footprint_id": 8339
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ALEXANDRIA",
+      "footprint_id": 8465
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "CROOKS",
+      "footprint_id": 8547
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SELBY",
+      "footprint_id": 8567
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "DELMONT",
+      "footprint_id": 8621
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "LETCHER",
+      "footprint_id": 8639
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "BALTIC",
+      "footprint_id": 8671
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "NO GORDON",
+      "footprint_id": 8726
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "VEBLEN",
+      "footprint_id": 8759
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "CANISTOTA",
+      "footprint_id": 8833
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "BROOKINGSR",
+      "footprint_id": 8969
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "KADOKA",
+      "footprint_id": 8971
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SOHETTINGR",
+      "footprint_id": 9034
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "MISSION",
+      "footprint_id": 9082
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "FLANDREAU",
+      "footprint_id": 9083
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "MILLER",
+      "footprint_id": 9114
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "HURON",
+      "footprint_id": 9205
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "REDFIELD",
+      "footprint_id": 9235
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SOUTHSHORE",
+      "footprint_id": 9329
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "HITCHCOCK",
+      "footprint_id": 9347
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WINFRED",
+      "footprint_id": 9424
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "FAULKTON",
+      "footprint_id": 9473
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "VALLEY SPG",
+      "footprint_id": 9483
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "TULARE",
+      "footprint_id": 9538
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WBROWNSVLY",
+      "footprint_id": 9572
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "TOLSTOY",
+      "footprint_id": 9645
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "MCINTOSH",
+      "footprint_id": 9699
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "EMERY",
+      "footprint_id": 9872
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "PEEVER",
+      "footprint_id": 9923
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SALEM",
+      "footprint_id": 9940
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "STOCKHOLM",
+      "footprint_id": 10112
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ACADEMY",
+      "footprint_id": 10388
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ISABEL",
+      "footprint_id": 10469
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "MAURINE",
+      "footprint_id": 10481
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SPEARFISH",
+      "footprint_id": 10566
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SO NELVIK",
+      "footprint_id": 10599
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "PARKSTON",
+      "footprint_id": 10617
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "DELLRAPIDS",
+      "footprint_id": 10690
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "EDGEMONT",
+      "footprint_id": 10705
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ROSEBUD",
+      "footprint_id": 10785
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "DUPREE",
+      "footprint_id": 10792
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ABERDEEN",
+      "footprint_id": 10824
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "LENNOX",
+      "footprint_id": 10869
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SO FORMAN",
+      "footprint_id": 10874
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "LAPLANT",
+      "footprint_id": 10875
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "NOVALENTIN",
+      "footprint_id": 10944
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "TRIPP",
+      "footprint_id": 11094
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "DE SMET",
+      "footprint_id": 11109
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ORAL",
+      "footprint_id": 11112
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ARLINGTON",
+      "footprint_id": 11113
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "CORSICA",
+      "footprint_id": 11220
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "BONESTEEL",
+      "footprint_id": 11350
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WORTHING",
+      "footprint_id": 11415
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "VIBORG",
+      "footprint_id": 11628
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WHITERIVER",
+      "footprint_id": 11667
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "MURDO",
+      "footprint_id": 11714
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "NEWUNDERWD",
+      "footprint_id": 11902
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "LEBANON",
+      "footprint_id": 12049
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "HECLA",
+      "footprint_id": 12119
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SOSCRANTON",
+      "footprint_id": 12149
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WITTEN",
+      "footprint_id": 12278
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WESSINGTON",
+      "footprint_id": 12374
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "VERMILLION",
+      "footprint_id": 12468
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ANDOVER",
+      "footprint_id": 12495
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "EUREKA",
+      "footprint_id": 12506
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WESTJASPER",
+      "footprint_id": 12532
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "HAYES",
+      "footprint_id": 12549
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "MCLAUGHLIN",
+      "footprint_id": 12622
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WINNER",
+      "footprint_id": 12673
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "VOLGA",
+      "footprint_id": 12698
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "CANOVA",
+      "footprint_id": 12885
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "AVON",
+      "footprint_id": 12946
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ALSEN",
+      "footprint_id": 12998
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "GREGORY",
+      "footprint_id": 13037
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "REEHEIGHTS",
+      "footprint_id": 13215
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "HILL CITY",
+      "footprint_id": 13276
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "CASTLEWOOD",
+      "footprint_id": 13350
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SO ASHLEY",
+      "footprint_id": 13360
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "LANGFORD",
+      "footprint_id": 13375
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "HAYTI",
+      "footprint_id": 13415
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "REVILLO",
+      "footprint_id": 13582
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ORIENT",
+      "footprint_id": 13767
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "FTTHOMPSON",
+      "footprint_id": 13867
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "W MARIETTA",
+      "footprint_id": 13900
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ONAKA",
+      "footprint_id": 13955
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "HOTSPRINGS",
+      "footprint_id": 14007
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "IRENE",
+      "footprint_id": 14188
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "GOODWIN",
+      "footprint_id": 14189
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "CHESTER",
+      "footprint_id": 14257
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "PARKER",
+      "footprint_id": 14261
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WHITE LAKE",
+      "footprint_id": 14279
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "KIMBALL",
+      "footprint_id": 14299
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "HOWARD",
+      "footprint_id": 14350
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ASTORIA",
+      "footprint_id": 14414
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WEST AKRON",
+      "footprint_id": 14464
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "GARY",
+      "footprint_id": 14557
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "BRANDON",
+      "footprint_id": 14757
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "BURKE",
+      "footprint_id": 14769
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "CENTERVL",
+      "footprint_id": 15018
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "IROQUOIS",
+      "footprint_id": 15027
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "BRISTOL",
+      "footprint_id": 15044
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "PUKWANA",
+      "footprint_id": 15109
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "PLATTE",
+      "footprint_id": 15137
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "PIERPONT",
+      "footprint_id": 15168
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "HARROLD",
+      "footprint_id": 15236
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WAGNER",
+      "footprint_id": 15245
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "HOVEN",
+      "footprint_id": 15252
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "ELK POINT",
+      "footprint_id": 15287
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "LEMMON",
+      "footprint_id": 15288
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "CLEARFIELD",
+      "footprint_id": 15291
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "PIERRE",
+      "footprint_id": 15352
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "CLEAR LAKE",
+      "footprint_id": 15378
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WAKONDA",
+      "footprint_id": 15384
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "NEWELL",
+      "footprint_id": 15434
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "MADISON",
+      "footprint_id": 15642
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "PINE RIDGE",
+      "footprint_id": 15725
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WASTA",
+      "footprint_id": 15750
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "LONGVALLEY",
+      "footprint_id": 15802
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "MENNO",
+      "footprint_id": 15820
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "FREDERICK",
+      "footprint_id": 15845
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "HIGHMORE",
+      "footprint_id": 15851
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WOONSOCKET",
+      "footprint_id": 15962
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "BERESFORD",
+      "footprint_id": 15992
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SENECA",
+      "footprint_id": 16013
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "HURLEY",
+      "footprint_id": 16086
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WESIGTNSPG",
+      "footprint_id": 16231
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "FAITH",
+      "footprint_id": 16242
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "STURGIS",
+      "footprint_id": 16493
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WATERTOWN",
+      "footprint_id": 16537
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "NISLAND",
+      "footprint_id": 16551
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "NEWHOLLAND",
+      "footprint_id": 16597
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SOUTH LADD",
+      "footprint_id": 16603
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WOOD",
+      "footprint_id": 16654
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "BROOKINGS",
+      "footprint_id": 16655
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "CLAREMONT",
+      "footprint_id": 16703
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "NOCROOKSTN",
+      "footprint_id": 16760
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "WILMOT",
+      "footprint_id": 16782
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SO GUELPH",
+      "footprint_id": 16864
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "JEFFERSON",
+      "footprint_id": 16880
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "SUMMIT",
+      "footprint_id": 16902
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "VIVIAN",
+      "footprint_id": 17079
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "CAVOUR",
+      "footprint_id": 17367
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "CENTER",
+      "footprint_id": 17438
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "BIGSTONECY",
+      "footprint_id": 17450
+    },
+    {
+      "country": "US",
+      "state": "SD",
+      "name": "HUDSON",
+      "footprint_id": 17496
+    }
+  ]
+}

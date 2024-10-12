@@ -1,4 +1,4 @@
-require "yaml"
+require "json"
 
 module Skyetel
   class DataLoader
@@ -18,7 +18,7 @@ module Skyetel
 
     def load_data(type, all = nil, **options)
       if all
-        load_data_from(data_directory.join(type).glob("**/*.yml"), type:)
+        load_data_from(data_directory.join(type).glob("**/*.json"), type:)
       else
         load_data_with_filter(options.fetch(:only), type:)
       end
@@ -47,17 +47,17 @@ module Skyetel
 
     def load_data_from(files, type:)
       Array(files).each_with_object([]) do |file, result|
-        result.concat(YAML.load(file.read).fetch(type))
+        result.concat(JSON.parse(file.read).fetch(type))
       end
     end
 
     def load_country_data(type:, country:)
-      load_data_from(data_directory.join(type.to_s, country.to_s.downcase).glob("**/*.yml"), type:)
+      load_data_from(data_directory.join(type.to_s, country.to_s.downcase).glob("**/*.json"), type:)
     end
 
     def load_region_data(type:, country:, region:)
       load_data_from(
-        data_directory.join(type.to_s, country.to_s.downcase, "#{region.to_s.downcase}.yml"),
+        data_directory.join(type.to_s, country.to_s.downcase, "#{region.to_s.downcase}.json"),
         type:
       )
     end

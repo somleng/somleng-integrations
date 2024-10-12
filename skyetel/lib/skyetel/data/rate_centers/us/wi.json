@@ -1,0 +1,3628 @@
+{
+  "rate_centers": [
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "OCONTO",
+      "footprint_id": 10
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "FREMONT",
+      "footprint_id": 16
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "JACKSONPT",
+      "footprint_id": 30
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WIOTA",
+      "footprint_id": 47
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BROOKLYN",
+      "footprint_id": 82
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WEYAUWEGA",
+      "footprint_id": 112
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SARONA",
+      "footprint_id": 128
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "GENOA",
+      "footprint_id": 131
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LKNEBAGMON",
+      "footprint_id": 146
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ANTIGO",
+      "footprint_id": 151
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WINNECONNE",
+      "footprint_id": 194
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PT EDWARDS",
+      "footprint_id": 205
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PRINCETON",
+      "footprint_id": 244
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WEBB LAKE",
+      "footprint_id": 249
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "OAKFIELD",
+      "footprint_id": 285
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SPENCER",
+      "footprint_id": 315
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CLEVELAND",
+      "footprint_id": 317
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "GILLETT",
+      "footprint_id": 319
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NORTH LAKE",
+      "footprint_id": 325
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "IOLA",
+      "footprint_id": 375
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MAZOMANIE",
+      "footprint_id": 407
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BELMONT",
+      "footprint_id": 412
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PARDEEVL",
+      "footprint_id": 518
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "EDGERTON",
+      "footprint_id": 531
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ELK LAKE",
+      "footprint_id": 532
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "COTTAGEGRV",
+      "footprint_id": 537
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SOO LAKE",
+      "footprint_id": 555
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "EAST TROY",
+      "footprint_id": 591
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BAGLEY",
+      "footprint_id": 593
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BEETOWN",
+      "footprint_id": 595
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "AMHERST",
+      "footprint_id": 602
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ELMWOOD",
+      "footprint_id": 605
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "TWO RIVERS",
+      "footprint_id": 625
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MENOMONFLS",
+      "footprint_id": 628
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BRANTWOOD",
+      "footprint_id": 630
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NEW LONDON",
+      "footprint_id": 651
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "THORP",
+      "footprint_id": 687
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "TISCHMILLS",
+      "footprint_id": 728
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HIGHLAND",
+      "footprint_id": 733
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SHELL LAKE",
+      "footprint_id": 814
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "EDGAR",
+      "footprint_id": 820
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SOLON SPG",
+      "footprint_id": 854
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "POLONIA",
+      "footprint_id": 855
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SULLIVAN",
+      "footprint_id": 860
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "FALL RIVER",
+      "footprint_id": 974
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "STURGEONBY",
+      "footprint_id": 988
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "POY SIPPI",
+      "footprint_id": 1079
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LENA",
+      "footprint_id": 1083
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NEW LISBON",
+      "footprint_id": 1088
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WEST BEND",
+      "footprint_id": 1119
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WISCONDLLS",
+      "footprint_id": 1144
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "REDGRANITE",
+      "footprint_id": 1222
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WAUSAUKEE",
+      "footprint_id": 1310
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "TAYLOR",
+      "footprint_id": 1324
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CASSVILLE",
+      "footprint_id": 1356
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MUSCODA",
+      "footprint_id": 1374
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BRODHEAD",
+      "footprint_id": 1412
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LUCK",
+      "footprint_id": 1438
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PLYMOUTH",
+      "footprint_id": 1454
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BOHNERS LK",
+      "footprint_id": 1469
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NEW AUBURN",
+      "footprint_id": 1518
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "DE PERE",
+      "footprint_id": 1558
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "DE FOREST",
+      "footprint_id": 1577
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SPREADEAGL",
+      "footprint_id": 1590
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "COLLINS",
+      "footprint_id": 1620
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "GALESVILLE",
+      "footprint_id": 1626
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BANGOR",
+      "footprint_id": 1656
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ASHLAND",
+      "footprint_id": 1668
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HOLMEN",
+      "footprint_id": 1746
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PEMBINE",
+      "footprint_id": 1747
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "GLIDDEN",
+      "footprint_id": 1782
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CAZENOVIA",
+      "footprint_id": 1903
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MERRIMAC",
+      "footprint_id": 1960
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MILLTOWN",
+      "footprint_id": 2004
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HOWARDSGRV",
+      "footprint_id": 2012
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NEWHOLSTEN",
+      "footprint_id": 2110
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LA VALLE",
+      "footprint_id": 2123
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LOMIRA",
+      "footprint_id": 2168
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MOUNTHOREB",
+      "footprint_id": 2189
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CHILI",
+      "footprint_id": 2222
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CABLE",
+      "footprint_id": 2228
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CASHTON",
+      "footprint_id": 2266
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "TWINBRIDGE",
+      "footprint_id": 2305
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ELKHORN",
+      "footprint_id": 2338
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ELK MOUND",
+      "footprint_id": 2387
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "OOSTBURG",
+      "footprint_id": 2408
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MT VERNON",
+      "footprint_id": 2410
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SHERWOOD",
+      "footprint_id": 2412
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LUXEMBURG",
+      "footprint_id": 2447
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "DENMARK",
+      "footprint_id": 2456
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MAPLETON",
+      "footprint_id": 2472
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "OSCEOLA",
+      "footprint_id": 2504
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "STONE LAKE",
+      "footprint_id": 2518
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "EAGLEPOINT",
+      "footprint_id": 2566
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "JUMP RIVER",
+      "footprint_id": 2577
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NORTHFIELD",
+      "footprint_id": 2588
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "DEERFIELD",
+      "footprint_id": 2618
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SHIOCTON",
+      "footprint_id": 2662
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MELROSE",
+      "footprint_id": 2687
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "UNIONGROVE",
+      "footprint_id": 2703
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "KEWAUNEE",
+      "footprint_id": 2726
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "POPLAR",
+      "footprint_id": 2759
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SPRINGLAKE",
+      "footprint_id": 2811
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MISHICOT",
+      "footprint_id": 2874
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "EAGLE",
+      "footprint_id": 2922
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MENOMONIE",
+      "footprint_id": 2993
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "RUDOLPH",
+      "footprint_id": 2994
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CHIPPEWFLS",
+      "footprint_id": 3019
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WESTBY",
+      "footprint_id": 3034
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "KENNAN",
+      "footprint_id": 3043
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "OMRO",
+      "footprint_id": 3055
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WABENO",
+      "footprint_id": 3096
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "STEUBEN",
+      "footprint_id": 3111
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WEYERHAUSR",
+      "footprint_id": 3113
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SAND CREEK",
+      "footprint_id": 3119
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ROSENDALE",
+      "footprint_id": 3122
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MARATHON",
+      "footprint_id": 3164
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ARENA",
+      "footprint_id": 3165
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "COLOMA",
+      "footprint_id": 3240
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "TREMPEALEU",
+      "footprint_id": 3414
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CHASEBURG",
+      "footprint_id": 3445
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PORT WING",
+      "footprint_id": 3471
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MIDDLETON",
+      "footprint_id": 3481
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PRAIRIFARM",
+      "footprint_id": 3485
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "KENDALL",
+      "footprint_id": 3493
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "DE SOTO",
+      "footprint_id": 3502
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PLATTEVL",
+      "footprint_id": 3544
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "STOCKBDG",
+      "footprint_id": 3681
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BENTON",
+      "footprint_id": 3717
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WAUTOMA",
+      "footprint_id": 3730
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NECEDAH",
+      "footprint_id": 3733
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CLYMAN",
+      "footprint_id": 3753
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "FLORENCE",
+      "footprint_id": 3769
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NOAPPLERIV",
+      "footprint_id": 3770
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WOODVILLE",
+      "footprint_id": 3773
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "TIGERTON",
+      "footprint_id": 3776
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PEWAUKEE",
+      "footprint_id": 3859
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ATHENS",
+      "footprint_id": 3876
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WAUPUN",
+      "footprint_id": 3907
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NEOPIT",
+      "footprint_id": 3951
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MARION",
+      "footprint_id": 3983
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BRISTOL",
+      "footprint_id": 3996
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LONE ROCK",
+      "footprint_id": 4019
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "FTATKINSON",
+      "footprint_id": 4034
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CUMBERLAND",
+      "footprint_id": 4045
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PLAINFIELD",
+      "footprint_id": 4063
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "OWEN",
+      "footprint_id": 4074
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "COLFAX",
+      "footprint_id": 4112
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HAGER CITY",
+      "footprint_id": 4156
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ELEVA",
+      "footprint_id": 4168
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BENOIT",
+      "footprint_id": 4190
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ELCHO",
+      "footprint_id": 4203
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MANAWA",
+      "footprint_id": 4226
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "EXELAND",
+      "footprint_id": 4241
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PALMYRA",
+      "footprint_id": 4250
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ARGYLE",
+      "footprint_id": 4276
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "STRATFORD",
+      "footprint_id": 4293
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MINONG",
+      "footprint_id": 4305
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MILTON",
+      "footprint_id": 4426
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SABIN",
+      "footprint_id": 4434
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "TREVOR",
+      "footprint_id": 4462
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HOLCOMBE",
+      "footprint_id": 4509
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "GREENBUSH",
+      "footprint_id": 4528
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LONG LAKE",
+      "footprint_id": 4606
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SISTER BAY",
+      "footprint_id": 4609
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "IRON RIVER",
+      "footprint_id": 4620
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "GREENWOOD",
+      "footprint_id": 4622
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MILLCENTER",
+      "footprint_id": 4631
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "GOODMAN",
+      "footprint_id": 4634
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BELGIUM",
+      "footprint_id": 4665
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LAKEGENEVA",
+      "footprint_id": 4703
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "EAU GALLE",
+      "footprint_id": 4712
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BOULDERJCT",
+      "footprint_id": 4722
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "KNAPP",
+      "footprint_id": 4879
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ORFORDVL",
+      "footprint_id": 4891
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NESHKORO",
+      "footprint_id": 4921
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "AMERY",
+      "footprint_id": 4929
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CUSHING",
+      "footprint_id": 4986
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BAILEYSHBR",
+      "footprint_id": 4994
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NEWBURG",
+      "footprint_id": 5103
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PICKETT",
+      "footprint_id": 5108
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MAUSTON",
+      "footprint_id": 5160
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MONROE",
+      "footprint_id": 5199
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HAWKINS",
+      "footprint_id": 5214
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MAIDENROCK",
+      "footprint_id": 5268
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ALLENTON",
+      "footprint_id": 5296
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "STANLEY",
+      "footprint_id": 5319
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "VALDERS",
+      "footprint_id": 5322
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HOLLANDALE",
+      "footprint_id": 5364
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "GRESHAM",
+      "footprint_id": 5394
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LAKEWOOD",
+      "footprint_id": 5426
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BRIGGSVL",
+      "footprint_id": 5477
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SUSSEX",
+      "footprint_id": 5493
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BUTTERNUT",
+      "footprint_id": 5497
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MARENGO",
+      "footprint_id": 5526
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "GREEN BAY",
+      "footprint_id": 5612
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "VERONA",
+      "footprint_id": 5635
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NAMEKGONLK",
+      "footprint_id": 5644
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PLUM CITY",
+      "footprint_id": 5683
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SHAWANO",
+      "footprint_id": 5694
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WATERTOWN",
+      "footprint_id": 5738
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ELKHART LK",
+      "footprint_id": 5793
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BURLINGTON",
+      "footprint_id": 5880
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "DAIRYLAND",
+      "footprint_id": 5903
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "GORDON",
+      "footprint_id": 5917
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "KIEL",
+      "footprint_id": 5997
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NEW GLARUS",
+      "footprint_id": 6087
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CAMERON",
+      "footprint_id": 6104
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LCDFLAMBEU",
+      "footprint_id": 6141
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "REEDSBURG",
+      "footprint_id": 6194
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PRARIDCHIN",
+      "footprint_id": 6216
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ROCK FALLS",
+      "footprint_id": 6219
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "FOUNTAINCY",
+      "footprint_id": 6231
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NO PRAIRIE",
+      "footprint_id": 6248
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ITHACA",
+      "footprint_id": 6289
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WALWORTH",
+      "footprint_id": 6405
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "STARPRAIRI",
+      "footprint_id": 6435
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CUBA CITY",
+      "footprint_id": 6487
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NEWFRANKEN",
+      "footprint_id": 6529
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MARSHALL",
+      "footprint_id": 6541
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "VIOLA",
+      "footprint_id": 6605
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LYNDON STA",
+      "footprint_id": 6620
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "APPLETON",
+      "footprint_id": 6640
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CENTURIA",
+      "footprint_id": 6644
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BERGEN",
+      "footprint_id": 6657
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "GENESEE",
+      "footprint_id": 6670
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "GILMANTON",
+      "footprint_id": 6721
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MILWAUKZN1",
+      "footprint_id": 6741
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ARKANSAW",
+      "footprint_id": 6753
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PEPIN",
+      "footprint_id": 6765
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HARTFORD",
+      "footprint_id": 6789
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ALGOMA",
+      "footprint_id": 6863
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NEWRICHMND",
+      "footprint_id": 6877
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SPRINGBRK",
+      "footprint_id": 6893
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PTWASHIGTN",
+      "footprint_id": 6898
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PESHTIGO",
+      "footprint_id": 7005
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MILWAUKZN3",
+      "footprint_id": 7016
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "TOMAHAWK",
+      "footprint_id": 7056
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CAMPDOUGLS",
+      "footprint_id": 7064
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "RIPON",
+      "footprint_id": 7099
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HOULTON",
+      "footprint_id": 7138
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "DANBURY",
+      "footprint_id": 7146
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SHELDON",
+      "footprint_id": 7167
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MONDOVI",
+      "footprint_id": 7168
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "DIR ASST",
+      "footprint_id": 7171
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "OCONTO FLS",
+      "footprint_id": 7252
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HUBERTUS",
+      "footprint_id": 7280
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MINOCQUA",
+      "footprint_id": 7350
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BEAVER DAM",
+      "footprint_id": 7364
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PHILLIPS",
+      "footprint_id": 7372
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WOODFORD",
+      "footprint_id": 7415
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SPRINGSTED",
+      "footprint_id": 7428
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WAUSAU",
+      "footprint_id": 7431
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MANISHWTRS",
+      "footprint_id": 7439
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MCFARLAND",
+      "footprint_id": 7449
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "COLEMAN",
+      "footprint_id": 7455
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WHITEHALL",
+      "footprint_id": 7472
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SOLDIRSGRV",
+      "footprint_id": 7476
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "STETSONVL",
+      "footprint_id": 7484
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BRUSSELS",
+      "footprint_id": 7500
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BARABOO",
+      "footprint_id": 7507
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MT CALVARY",
+      "footprint_id": 7541
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "DALLAS",
+      "footprint_id": 7574
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "THREELAKES",
+      "footprint_id": 7607
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "TOMAH",
+      "footprint_id": 7658
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MANITOWOC",
+      "footprint_id": 7690
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MAPLE",
+      "footprint_id": 7738
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "RACINE",
+      "footprint_id": 7842
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HORTONVL",
+      "footprint_id": 7854
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BIG BEND",
+      "footprint_id": 7884
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BLOOMER",
+      "footprint_id": 7890
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "DELAVAN",
+      "footprint_id": 7894
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WAYSIDE",
+      "footprint_id": 7902
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "DARIEN",
+      "footprint_id": 7909
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BLOOMINGTN",
+      "footprint_id": 7919
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BOYD",
+      "footprint_id": 7920
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BLOOM CITY",
+      "footprint_id": 8012
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BALDWIN",
+      "footprint_id": 8028
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PORTAGE",
+      "footprint_id": 8042
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "RICHLD CTR",
+      "footprint_id": 8090
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WONEWOC",
+      "footprint_id": 8146
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HAYWARD",
+      "footprint_id": 8150
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "FONDDU LAC",
+      "footprint_id": 8197
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NORWALK",
+      "footprint_id": 8224
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ABRAMS",
+      "footprint_id": 8291
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CLINTONVL",
+      "footprint_id": 8350
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "FOX LAKE",
+      "footprint_id": 8377
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "DELAFIELD",
+      "footprint_id": 8385
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CAMBRIDGE",
+      "footprint_id": 8392
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "REEDSVILLE",
+      "footprint_id": 8418
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PELICAN LK",
+      "footprint_id": 8457
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WHITELAW",
+      "footprint_id": 8597
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SCANDINVIA",
+      "footprint_id": 8638
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WARRENS",
+      "footprint_id": 8642
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WEST SALEM",
+      "footprint_id": 8677
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MATTOON",
+      "footprint_id": 8700
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SUGAR CAMP",
+      "footprint_id": 8707
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ALMACENTER",
+      "footprint_id": 8754
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CANTON",
+      "footprint_id": 8776
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "OSHKOSH",
+      "footprint_id": 8809
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "KENOSHA",
+      "footprint_id": 8868
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PARK FALLS",
+      "footprint_id": 8902
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LARSEN",
+      "footprint_id": 8940
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BIRNAMWOOD",
+      "footprint_id": 8955
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MINERAL PT",
+      "footprint_id": 9068
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MOUNT ZION",
+      "footprint_id": 9093
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "EAU CLAIRE",
+      "footprint_id": 9096
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SALEM",
+      "footprint_id": 9123
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SEYMOUR",
+      "footprint_id": 9200
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BAY CITY",
+      "footprint_id": 9211
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NEOSHO",
+      "footprint_id": 9212
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BROWNTOWN",
+      "footprint_id": 9217
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SPOONER",
+      "footprint_id": 9285
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SPARTA",
+      "footprint_id": 9291
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "GENOA CITY",
+      "footprint_id": 9320
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "FOX CREEK",
+      "footprint_id": 9355
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MONTELLO",
+      "footprint_id": 9377
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LTLSTURGEN",
+      "footprint_id": 9448
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "COONVALLEY",
+      "footprint_id": 9494
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MILWAUKZN4",
+      "footprint_id": 9498
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "YUBA",
+      "footprint_id": 9505
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PICKEREL",
+      "footprint_id": 9535
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WINTER",
+      "footprint_id": 9623
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PLEASANTVL",
+      "footprint_id": 9624
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "KINGSTON",
+      "footprint_id": 9692
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "AURORA",
+      "footprint_id": 9706
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BELLEVILLE",
+      "footprint_id": 9707
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "OSSEO",
+      "footprint_id": 9729
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SOMERSET",
+      "footprint_id": 9792
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "DURAND",
+      "footprint_id": 9802
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "DEER PARK",
+      "footprint_id": 9807
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CLINTON",
+      "footprint_id": 9810
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ELLSWORTH",
+      "footprint_id": 9826
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CAMBRIA",
+      "footprint_id": 9855
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HATLEY",
+      "footprint_id": 9883
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WAUZEKA",
+      "footprint_id": 9884
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "RIDGELAND",
+      "footprint_id": 9972
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "JIM FALLS",
+      "footprint_id": 10014
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NEENAH",
+      "footprint_id": 10123
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NO ANTIOCH",
+      "footprint_id": 10132
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LTL CHUTE",
+      "footprint_id": 10145
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "EASTMAN",
+      "footprint_id": 10201
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "JUDA",
+      "footprint_id": 10232
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MOSINEE",
+      "footprint_id": 10252
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ARGONNE",
+      "footprint_id": 10279
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LANCASTER",
+      "footprint_id": 10286
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BOSCOBEL",
+      "footprint_id": 10340
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SPIDERLAKE",
+      "footprint_id": 10359
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PHELPS",
+      "footprint_id": 10362
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "INDEPNDNCE",
+      "footprint_id": 10365
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CRANDON",
+      "footprint_id": 10408
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ONEIDA",
+      "footprint_id": 10550
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CLEGHORN",
+      "footprint_id": 10637
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "DRESSER",
+      "footprint_id": 10652
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SPG GREEN",
+      "footprint_id": 10682
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SOMERS",
+      "footprint_id": 10720
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "THIENSVL",
+      "footprint_id": 10723
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BOAZ",
+      "footprint_id": 10735
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "KEWASKUM",
+      "footprint_id": 10796
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "POYNETTE",
+      "footprint_id": 10888
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "POTOSI",
+      "footprint_id": 10892
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HARMONY",
+      "footprint_id": 10933
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "GRANDVIEW",
+      "footprint_id": 10953
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "THERESA",
+      "footprint_id": 11051
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LA POINTE",
+      "footprint_id": 11060
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ALMOND",
+      "footprint_id": 11096
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "AMBERG",
+      "footprint_id": 11111
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NEWTONBURG",
+      "footprint_id": 11119
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HILLSBORO",
+      "footprint_id": 11128
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LAONA",
+      "footprint_id": 11130
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SAUK CITY",
+      "footprint_id": 11261
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BEAR CREEK",
+      "footprint_id": 11269
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "COLUMBUS",
+      "footprint_id": 11306
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "FENNIMORE",
+      "footprint_id": 11321
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WRIGHTSTN",
+      "footprint_id": 11344
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MERTON",
+      "footprint_id": 11357
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BLUE RIVER",
+      "footprint_id": 11388
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ADAMS",
+      "footprint_id": 11436
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NEKOOSA",
+      "footprint_id": 11451
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "EAGLERIVER",
+      "footprint_id": 11455
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ALMA",
+      "footprint_id": 11460
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PARKSIDE",
+      "footprint_id": 11466
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "GAYS MILLS",
+      "footprint_id": 11582
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BLACKEARTH",
+      "footprint_id": 11634
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NICHOLS",
+      "footprint_id": 11682
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ONTARIO",
+      "footprint_id": 11693
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LIBETYPOLE",
+      "footprint_id": 11694
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "RIDGEWAY",
+      "footprint_id": 11763
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LODI",
+      "footprint_id": 11775
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LADYSMITH",
+      "footprint_id": 11816
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ELDERON",
+      "footprint_id": 11840
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BLAIR",
+      "footprint_id": 11848
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "GRANTSBURG",
+      "footprint_id": 11882
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "FORESTVL",
+      "footprint_id": 11911
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BOYCEVILLE",
+      "footprint_id": 11914
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CORNELL",
+      "footprint_id": 11919
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MONTFORT",
+      "footprint_id": 11938
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CATARACT",
+      "footprint_id": 11967
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "DODGEVILLE",
+      "footprint_id": 11969
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "RIB LAKE",
+      "footprint_id": 11974
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BONDUEL",
+      "footprint_id": 12002
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ALMENA",
+      "footprint_id": 12005
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "XXXXXXXXXX",
+      "footprint_id": 12030
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PIGEON FLS",
+      "footprint_id": 12077
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CLEAR LAKE",
+      "footprint_id": 12081
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "AUGUSTA",
+      "footprint_id": 12133
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "JEFFERSON",
+      "footprint_id": 12140
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "DRUMMOND",
+      "footprint_id": 12162
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "REESEVILLE",
+      "footprint_id": 12204
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CASCADE",
+      "footprint_id": 12238
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WILD ROSE",
+      "footprint_id": 12246
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "JUNCTIONCY",
+      "footprint_id": 12253
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ETTRICK",
+      "footprint_id": 12271
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PRESQUE IS",
+      "footprint_id": 12293
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LOGANVILLE",
+      "footprint_id": 12296
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LANDOLAKES",
+      "footprint_id": 12321
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "FALL CREEK",
+      "footprint_id": 12327
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NIAGARA",
+      "footprint_id": 12330
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "TURTLELAKE",
+      "footprint_id": 12350
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MERCER",
+      "footprint_id": 12362
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BRUCE",
+      "footprint_id": 12384
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MARINETTE",
+      "footprint_id": 12388
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "STODDARD",
+      "footprint_id": 12402
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "RICHMOND",
+      "footprint_id": 12419
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SHARON",
+      "footprint_id": 12431
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WOODMAN",
+      "footprint_id": 12434
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "COCHRANE",
+      "footprint_id": 12487
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "STRUM",
+      "footprint_id": 12510
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LIME RIDGE",
+      "footprint_id": 12548
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LEWIS",
+      "footprint_id": 12609
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LEBANON",
+      "footprint_id": 12637
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "OGEMA",
+      "footprint_id": 12669
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LKTOMAHAWK",
+      "footprint_id": 12690
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HURLEY",
+      "footprint_id": 12694
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "OGDENSBURG",
+      "footprint_id": 12735
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WASHBURN",
+      "footprint_id": 12788
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BARNES",
+      "footprint_id": 12806
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BOWLER",
+      "footprint_id": 12813
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MELLEN",
+      "footprint_id": 12940
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CEDARGROVE",
+      "footprint_id": 12963
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HAMMOND",
+      "footprint_id": 13006
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ALBANY",
+      "footprint_id": 13098
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LA FARGE",
+      "footprint_id": 13108
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "JANESVILLE",
+      "footprint_id": 13174
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "VESPER",
+      "footprint_id": 13181
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "DOWNSVILLE",
+      "footprint_id": 13187
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ROBERTS",
+      "footprint_id": 13195
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PITTSVILLE",
+      "footprint_id": 13198
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MONTICELLO",
+      "footprint_id": 13257
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HILBERT",
+      "footprint_id": 13262
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WHITEWATER",
+      "footprint_id": 13268
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "DOUSMAN",
+      "footprint_id": 13269
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WILLIAMSBY",
+      "footprint_id": 13289
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "FALUN",
+      "footprint_id": 13306
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PACKWAUKEE",
+      "footprint_id": 13326
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BRILLION",
+      "footprint_id": 13328
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BERLIN",
+      "footprint_id": 13359
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HIXTON",
+      "footprint_id": 13424
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WAUNAKEE",
+      "footprint_id": 13466
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "JOHNSBURG",
+      "footprint_id": 13524
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LA CROSSE",
+      "footprint_id": 13601
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SLINGER",
+      "footprint_id": 13638
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LINDSEY",
+      "footprint_id": 13677
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "DORCHESTER",
+      "footprint_id": 13683
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "FREDERIC",
+      "footprint_id": 13719
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CENTERVL",
+      "footprint_id": 13720
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PRESCOTT",
+      "footprint_id": 13742
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "STCROIXFLS",
+      "footprint_id": 13795
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MILWAUKZN2",
+      "footprint_id": 13819
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CRIVITZ",
+      "footprint_id": 13823
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "TRADE LAKE",
+      "footprint_id": 13868
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WILTON",
+      "footprint_id": 13976
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WATERFORD",
+      "footprint_id": 14004
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WAUKESHA",
+      "footprint_id": 14056
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "KESHENA",
+      "footprint_id": 14068
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BENNETT",
+      "footprint_id": 14116
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "FAIRPLAY",
+      "footprint_id": 14147
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PRENTICE",
+      "footprint_id": 14149
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MADISON",
+      "footprint_id": 14161
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MOUNT HOPE",
+      "footprint_id": 14165
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "JACKSON",
+      "footprint_id": 14167
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SIREN",
+      "footprint_id": 14201
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NO WARREN",
+      "footprint_id": 14207
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HANCOCK",
+      "footprint_id": 14242
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "VIROQUA",
+      "footprint_id": 14262
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SHEBOGNFLS",
+      "footprint_id": 14295
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "RHINELANDR",
+      "footprint_id": 14297
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PULASKI",
+      "footprint_id": 14298
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WHEATLAND",
+      "footprint_id": 14334
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "OXFORD",
+      "footprint_id": 14386
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "GLEASON",
+      "footprint_id": 14389
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "AVOCA",
+      "footprint_id": 14490
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MAYVILLE",
+      "footprint_id": 14525
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "EDEN",
+      "footprint_id": 14563
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BURNETT",
+      "footprint_id": 14587
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ARCADIA",
+      "footprint_id": 14613
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WAUBEKA",
+      "footprint_id": 14642
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "KRAKOW",
+      "footprint_id": 14656
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BLACKCREEK",
+      "footprint_id": 14661
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "GRATIOT",
+      "footprint_id": 14668
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "RANDOLPH",
+      "footprint_id": 14741
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WITTENBERG",
+      "footprint_id": 14776
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "OCONOMOWOC",
+      "footprint_id": 14817
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SUNPRAIRIE",
+      "footprint_id": 14819
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CASCO",
+      "footprint_id": 14828
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "KAUKAUNA",
+      "footprint_id": 14860
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ROSHOLT",
+      "footprint_id": 14884
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MONTDU LAC",
+      "footprint_id": 14916
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "OREGON",
+      "footprint_id": 14946
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "RICE LAKE",
+      "footprint_id": 14957
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ELROY",
+      "footprint_id": 14992
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "DARLINGTON",
+      "footprint_id": 15009
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NEWTON",
+      "footprint_id": 15019
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CHETEK",
+      "footprint_id": 15040
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MONROE CTR",
+      "footprint_id": 15052
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BAYFIELD",
+      "footprint_id": 15062
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "PLAIN",
+      "footprint_id": 15075
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ENDEAVOR",
+      "footprint_id": 15094
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "DICKEYVL",
+      "footprint_id": 15118
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BRANDON",
+      "footprint_id": 15145
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CEDARBURG",
+      "footprint_id": 15225
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SHULLSBURG",
+      "footprint_id": 15226
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CECIL",
+      "footprint_id": 15276
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CRESCENTLK",
+      "footprint_id": 15383
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SUPERIOR",
+      "footprint_id": 15408
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MARSHFIELD",
+      "footprint_id": 15427
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MEDFORD",
+      "footprint_id": 15460
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BLANCHADVL",
+      "footprint_id": 15491
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NELSON",
+      "footprint_id": 15516
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "GREEN LAKE",
+      "footprint_id": 15530
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "STEVENS PT",
+      "footprint_id": 15565
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "FOOTVILLE",
+      "footprint_id": 15591
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SENECA",
+      "footprint_id": 15596
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WIND LAKE",
+      "footprint_id": 15600
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SURING",
+      "footprint_id": 15616
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MARKESAN",
+      "footprint_id": 15677
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LAKE MILLS",
+      "footprint_id": 15678
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CHILTON",
+      "footprint_id": 15695
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BROOKS",
+      "footprint_id": 15708
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BALSAMLAKE",
+      "footprint_id": 15739
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CAMPBELSPT",
+      "footprint_id": 15743
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SHEBOYGAN",
+      "footprint_id": 15819
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MINDORO",
+      "footprint_id": 15843
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BARRON",
+      "footprint_id": 15846
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WITWEN",
+      "footprint_id": 15855
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MASON",
+      "footprint_id": 15910
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CALEDONIA",
+      "footprint_id": 15911
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WESTFIELD",
+      "footprint_id": 15916
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WEBSTER",
+      "footprint_id": 15944
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MUSKEGO",
+      "footprint_id": 15952
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "READFIELD",
+      "footprint_id": 16006
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HARTLAND",
+      "footprint_id": 16029
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MERRILLAN",
+      "footprint_id": 16066
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MERRILL",
+      "footprint_id": 16076
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "EVANSVILLE",
+      "footprint_id": 16151
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "GLENWOODCY",
+      "footprint_id": 16166
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "GLEN FLORA",
+      "footprint_id": 16170
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NO FREEDOM",
+      "footprint_id": 16197
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MILWAUKZN5",
+      "footprint_id": 16229
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "COBB",
+      "footprint_id": 16290
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SOUTHWAYNE",
+      "footprint_id": 16349
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "GILMAN",
+      "footprint_id": 16401
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HUDSON",
+      "footprint_id": 16428
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "FAIRCHILD",
+      "footprint_id": 16431
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WHITE LAKE",
+      "footprint_id": 16507
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "RANDOMLAKE",
+      "footprint_id": 16512
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "EGG HARBOR",
+      "footprint_id": 16526
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CORNUCOPIA",
+      "footprint_id": 16533
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MUKWONAGO",
+      "footprint_id": 16636
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CADOTT",
+      "footprint_id": 16638
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "RIVERFALLS",
+      "footprint_id": 16645
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BELOIT",
+      "footprint_id": 16653
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "JUNEAU",
+      "footprint_id": 16659
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "TWIN LAKES",
+      "footprint_id": 16745
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "RIO",
+      "footprint_id": 16788
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HAZELGREEN",
+      "footprint_id": 16789
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "LOYAL",
+      "footprint_id": 16856
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SILVERLAKE",
+      "footprint_id": 16868
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WATERLOO",
+      "footprint_id": 17016
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CLAYTON",
+      "footprint_id": 17100
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "COLBY",
+      "footprint_id": 17113
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "READSTOWN",
+      "footprint_id": 17130
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ST NAZIANZ",
+      "footprint_id": 17171
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "STOUGHTON",
+      "footprint_id": 17184
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WHEELER",
+      "footprint_id": 17219
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BLCKRIVFLS",
+      "footprint_id": 17223
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "JOHNSONCRK",
+      "footprint_id": 17225
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "AUBURNDALE",
+      "footprint_id": 17238
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "VAN DYNE",
+      "footprint_id": 17274
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HORICON",
+      "footprint_id": 17318
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "ST CLOUD",
+      "footprint_id": 17335
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WISCOSNRPD",
+      "footprint_id": 17451
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SPRING VLY",
+      "footprint_id": 17455
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "GRANTON",
+      "footprint_id": 17486
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WAUMANDEE",
+      "footprint_id": 17512
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "HUSTISFORD",
+      "footprint_id": 17555
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "RADISSON",
+      "footprint_id": 17576
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "SAYNER",
+      "footprint_id": 17609
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WAUPACA",
+      "footprint_id": 17618
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "WASHIGTNIS",
+      "footprint_id": 17639
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "MILL CREEK",
+      "footprint_id": 17651
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "CROSS PL",
+      "footprint_id": 17687
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "BIRCHWOOD",
+      "footprint_id": 17694
+    },
+    {
+      "country": "US",
+      "state": "WI",
+      "name": "NEILLSVL",
+      "footprint_id": 17699
+    }
+  ]
+}
