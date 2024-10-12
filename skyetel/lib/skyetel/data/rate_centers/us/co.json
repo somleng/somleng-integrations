@@ -1,0 +1,1264 @@
+{
+  "rate_centers": [
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "MEEKER",
+      "footprint_id": 69
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "HASWELL",
+      "footprint_id": 197
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "FAIRPLAY",
+      "footprint_id": 526
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "W VENANGO",
+      "footprint_id": 533
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "LEADVILLE",
+      "footprint_id": 584
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "CROOK",
+      "footprint_id": 796
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "OAK CREEK",
+      "footprint_id": 864
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "PUEBLO",
+      "footprint_id": 924
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "DILLON",
+      "footprint_id": 1034
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "RYE",
+      "footprint_id": 1239
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "STERLING",
+      "footprint_id": 1262
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "ANTON",
+      "footprint_id": 1357
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "CHERAW",
+      "footprint_id": 1584
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "DOVE CREEK",
+      "footprint_id": 1829
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "FORTMORGAN",
+      "footprint_id": 2128
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "MONTEVISTA",
+      "footprint_id": 2146
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "RIDGWAY",
+      "footprint_id": 2200
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "DOLORES",
+      "footprint_id": 2257
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "ECKLEY",
+      "footprint_id": 2358
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "BAYFIELD",
+      "footprint_id": 2407
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "LODORE",
+      "footprint_id": 2436
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "WIGGINS",
+      "footprint_id": 2488
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "JOES",
+      "footprint_id": 2763
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "GENOA",
+      "footprint_id": 2799
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "ANTONITO",
+      "footprint_id": 2871
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "DECKERS",
+      "footprint_id": 2882
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "BLANCA",
+      "footprint_id": 2945
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "ALLISON",
+      "footprint_id": 3098
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "HAYDEN",
+      "footprint_id": 3110
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "MANCOS",
+      "footprint_id": 3221
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "EADS",
+      "footprint_id": 3241
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "BRIGGSDALE",
+      "footprint_id": 3533
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "FLEMING",
+      "footprint_id": 3634
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "SHERIDANLK",
+      "footprint_id": 3690
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "RICO",
+      "footprint_id": 3767
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "MANZANOLA",
+      "footprint_id": 3784
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "ARRIBA",
+      "footprint_id": 3794
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "TWO BUTTES",
+      "footprint_id": 3867
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "EL PASO",
+      "footprint_id": 3871
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "HOLYOKE",
+      "footprint_id": 3927
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "OLATHE",
+      "footprint_id": 4011
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "FLORENCE",
+      "footprint_id": 4044
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "HTSLPHRSPG",
+      "footprint_id": 4060
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "CREEDE",
+      "footprint_id": 4152
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "GILCREST",
+      "footprint_id": 4193
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "PAONIA",
+      "footprint_id": 4334
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "MONTROSE",
+      "footprint_id": 4397
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "GREELEY",
+      "footprint_id": 4433
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "YUMA",
+      "footprint_id": 4437
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "NEW RAYMER",
+      "footprint_id": 4442
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "SOCHEYENNE",
+      "footprint_id": 4527
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "LIMON",
+      "footprint_id": 4612
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "GROVER",
+      "footprint_id": 4696
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "SO SIDNEY",
+      "footprint_id": 4715
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "KIT CARSON",
+      "footprint_id": 4772
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "CALHAN",
+      "footprint_id": 4789
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "PARADOX",
+      "footprint_id": 4800
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "BRANSON",
+      "footprint_id": 4908
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "SILT",
+      "footprint_id": 4926
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "AKRON",
+      "footprint_id": 4976
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "KIM",
+      "footprint_id": 5119
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "KIRK",
+      "footprint_id": 5187
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "KREMMLING",
+      "footprint_id": 5194
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "SPRINGFLD",
+      "footprint_id": 5261
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "BRISTOGRND",
+      "footprint_id": 5286
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "ECKERT",
+      "footprint_id": 5373
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "HARTMAN",
+      "footprint_id": 5475
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "MESA",
+      "footprint_id": 5623
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "ASPEN",
+      "footprint_id": 5624
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "FORTLUPTON",
+      "footprint_id": 5709
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "OURAY",
+      "footprint_id": 5719
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "STRATTON",
+      "footprint_id": 5748
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "LA SALLE",
+      "footprint_id": 5775
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "JOHNSTMLKN",
+      "footprint_id": 5985
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "SO LARAMIE",
+      "footprint_id": 6116
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "CEDAREDGE",
+      "footprint_id": 6392
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "BERTHOUD",
+      "footprint_id": 6544
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "LA JARA",
+      "footprint_id": 6589
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "HILLROSE",
+      "footprint_id": 6702
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "GATEWAY",
+      "footprint_id": 7073
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "SAN LUIS",
+      "footprint_id": 7085
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "BASALT",
+      "footprint_id": 7092
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "FOWLER",
+      "footprint_id": 7275
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "RDFTHERLKS",
+      "footprint_id": 7397
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "SALIDA",
+      "footprint_id": 7423
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "GYPSUM",
+      "footprint_id": 7425
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "SOMERSET",
+      "footprint_id": 7561
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "ALAMOSA",
+      "footprint_id": 7615
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "ALLNSPKLYN",
+      "footprint_id": 7668
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "VONASEBERT",
+      "footprint_id": 7736
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "KEENESBURG",
+      "footprint_id": 7804
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "SOUTHBAGGS",
+      "footprint_id": 7939
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "WRAY",
+      "footprint_id": 7958
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "DIR ASST",
+      "footprint_id": 8049
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "TRINIDAD",
+      "footprint_id": 8135
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "PLEASANTVW",
+      "footprint_id": 8236
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "LA JUNTA",
+      "footprint_id": 8313
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "MAYBELL",
+      "footprint_id": 8325
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "LAS ANIMAS",
+      "footprint_id": 8364
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "WINDSOR",
+      "footprint_id": 8410
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "RIFLE",
+      "footprint_id": 8453
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "PARACHUTE",
+      "footprint_id": 8605
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "CAMPO",
+      "footprint_id": 8731
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "ROCKY FORD",
+      "footprint_id": 8803
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "HARTSEL",
+      "footprint_id": 8845
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "WALDEN",
+      "footprint_id": 8869
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "W KANORADO",
+      "footprint_id": 8904
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "SILVERTON",
+      "footprint_id": 9009
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "WESTMANTER",
+      "footprint_id": 9353
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "CRESTEDBTE",
+      "footprint_id": 9400
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "CORTEZ",
+      "footprint_id": 9426
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "CRESTONE",
+      "footprint_id": 9522
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "GRAND JCT",
+      "footprint_id": 9533
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "BRECKENRDG",
+      "footprint_id": 9553
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "PLATTEVL",
+      "footprint_id": 9899
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "LA VETA",
+      "footprint_id": 9981
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "STEAMBOSPG",
+      "footprint_id": 10167
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "COLORADOCY",
+      "footprint_id": 10205
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "OTIS",
+      "footprint_id": 10226
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "BURLINGTON",
+      "footprint_id": 10236
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "HAXTUN",
+      "footprint_id": 10542
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "WOODROW",
+      "footprint_id": 10658
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "NORWOOD",
+      "footprint_id": 10801
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "GEORGETOWN",
+      "footprint_id": 10805
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "DEL NORTE",
+      "footprint_id": 10911
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "NUCLA",
+      "footprint_id": 10914
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "BYERS",
+      "footprint_id": 10921
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "FRASER",
+      "footprint_id": 10963
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "NEW CASTLE",
+      "footprint_id": 10968
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "GRAND LAKE",
+      "footprint_id": 10987
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "EAGLE",
+      "footprint_id": 10992
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "MEAD",
+      "footprint_id": 11136
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "COPE",
+      "footprint_id": 11202
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "MCCOY",
+      "footprint_id": 11307
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "WALSH",
+      "footprint_id": 11392
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "CHEYENWLLS",
+      "footprint_id": 11396
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "DE BEQUE",
+      "footprint_id": 11435
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "MOSCA",
+      "footprint_id": 11492
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "HOWARD",
+      "footprint_id": 11510
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "PEYTON",
+      "footprint_id": 12201
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "BEULAH",
+      "footprint_id": 12207
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "CRAIG",
+      "footprint_id": 12273
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "STRASBURG",
+      "footprint_id": 12287
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "LONGMONT",
+      "footprint_id": 12361
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "GRANBY",
+      "footprint_id": 12477
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "RANGELY",
+      "footprint_id": 12503
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "MANASSA",
+      "footprint_id": 12538
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "BRUSH",
+      "footprint_id": 12656
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "HUDSON",
+      "footprint_id": 12705
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "VAIL",
+      "footprint_id": 12824
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "COLLBRAN",
+      "footprint_id": 13027
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "TOWNER",
+      "footprint_id": 13047
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "HOTCHKISS",
+      "footprint_id": 13091
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "CRAWFORD",
+      "footprint_id": 13106
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "LAKE CITY",
+      "footprint_id": 13284
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "DURANGO",
+      "footprint_id": 13301
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "PAGOSA SPG",
+      "footprint_id": 13468
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "WELDONA",
+      "footprint_id": 13484
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "IDALIA",
+      "footprint_id": 13520
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "NUNN",
+      "footprint_id": 13606
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "AGATE",
+      "footprint_id": 13637
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "PALISADE",
+      "footprint_id": 13713
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "GLENWD SPG",
+      "footprint_id": 13733
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "RUSH",
+      "footprint_id": 13826
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "PEETZ",
+      "footprint_id": 14046
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "WILLARD",
+      "footprint_id": 14503
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "KARVAL",
+      "footprint_id": 14505
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "WESTON",
+      "footprint_id": 14540
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "CARBONDALE",
+      "footprint_id": 14599
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "EATON",
+      "footprint_id": 14676
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "GUNNISON",
+      "footprint_id": 14797
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "CRIPPLECRK",
+      "footprint_id": 15025
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "DELTA",
+      "footprint_id": 15077
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "WALSENBURG",
+      "footprint_id": 15100
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "BENNETT",
+      "footprint_id": 15135
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "LAMAR",
+      "footprint_id": 15173
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "WESTCLIFFE",
+      "footprint_id": 15188
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "SAGUACHE",
+      "footprint_id": 15448
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "DENVER",
+      "footprint_id": 15510
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "ESTES PARK",
+      "footprint_id": 15542
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "ROGGEN",
+      "footprint_id": 15551
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "GARDNER",
+      "footprint_id": 15609
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "IGNACIO",
+      "footprint_id": 15751
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "EDWARDS",
+      "footprint_id": 15801
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "AGUILAR",
+      "footprint_id": 15823
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "DINOSAUR",
+      "footprint_id": 15826
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "TELLURIDE",
+      "footprint_id": 15852
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "STONEHAM",
+      "footprint_id": 15878
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "COLORDOSPG",
+      "footprint_id": 15882
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "BUENAVISTA",
+      "footprint_id": 15887
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "JULESBURG",
+      "footprint_id": 15890
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "SO BIG SPG",
+      "footprint_id": 15980
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "MARVEL",
+      "footprint_id": 16021
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "CIMARRON",
+      "footprint_id": 16124
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "DEER TRAIL",
+      "footprint_id": 16237
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "ORDWAY",
+      "footprint_id": 16332
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "LOVELAND",
+      "footprint_id": 16384
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "CANON CITY",
+      "footprint_id": 16392
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "HUGO",
+      "footprint_id": 16762
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "YAMPA",
+      "footprint_id": 16886
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "HOLLY",
+      "footprint_id": 16927
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "CENTER",
+      "footprint_id": 16946
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "XXXXXXXXXX",
+      "footprint_id": 16951
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "FLAGLER",
+      "footprint_id": 16978
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "NATURITA",
+      "footprint_id": 17042
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "FT COLLINS",
+      "footprint_id": 17144
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "SIMLA",
+      "footprint_id": 17232
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "KENTON",
+      "footprint_id": 17243
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "LAKEGEORGE",
+      "footprint_id": 17447
+    },
+    {
+      "country": "US",
+      "state": "CO",
+      "name": "FRUITA",
+      "footprint_id": 17491
+    }
+  ]
+}

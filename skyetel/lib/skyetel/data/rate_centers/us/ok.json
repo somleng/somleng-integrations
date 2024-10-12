@@ -1,0 +1,3190 @@
+{
+  "rate_centers": [
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CEMENT",
+      "footprint_id": 61
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MANNFORD E",
+      "footprint_id": 100
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WESTVILLE",
+      "footprint_id": 180
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "KEMP",
+      "footprint_id": 182
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "COLONY",
+      "footprint_id": 187
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SAND SPG",
+      "footprint_id": 212
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "DEVOL",
+      "footprint_id": 225
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "STILWELL",
+      "footprint_id": 226
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WILBURTON",
+      "footprint_id": 231
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SUMMERFLD",
+      "footprint_id": 322
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BLAIR",
+      "footprint_id": 380
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "FORTTOWSON",
+      "footprint_id": 383
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SOBARTLETT",
+      "footprint_id": 521
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "RIPLEY",
+      "footprint_id": 557
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SO ELKHART",
+      "footprint_id": 569
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MARAMEC",
+      "footprint_id": 596
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MIAMI",
+      "footprint_id": 673
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BENNINGTON",
+      "footprint_id": 732
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "KINGFISHER",
+      "footprint_id": 745
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CANADIAN",
+      "footprint_id": 750
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CALERA",
+      "footprint_id": 789
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CAMERON",
+      "footprint_id": 836
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BOISE CITY",
+      "footprint_id": 859
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "VIAN",
+      "footprint_id": 932
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "RALSTON",
+      "footprint_id": 997
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MOUNDS",
+      "footprint_id": 1003
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ELMORECITY",
+      "footprint_id": 1014
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WARNER",
+      "footprint_id": 1062
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SEMINOLE",
+      "footprint_id": 1101
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ARDMRAIRPK",
+      "footprint_id": 1110
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HAMMON",
+      "footprint_id": 1115
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SPIRO",
+      "footprint_id": 1141
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "TERRAL",
+      "footprint_id": 1169
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "KEEFETON",
+      "footprint_id": 1170
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "OAKWOOD",
+      "footprint_id": 1227
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "NICOMAPARK",
+      "footprint_id": 1322
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "TYRONE",
+      "footprint_id": 1344
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "NEWCASTLE",
+      "footprint_id": 1361
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WILSON",
+      "footprint_id": 1363
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SO ENGLEWD",
+      "footprint_id": 1406
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "FORTSUPPLY",
+      "footprint_id": 1429
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WANN",
+      "footprint_id": 1453
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MARSHALL",
+      "footprint_id": 1477
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MORRISON",
+      "footprint_id": 1495
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WAKITA",
+      "footprint_id": 1591
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "RANDLETT",
+      "footprint_id": 1605
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SO CHETOPA",
+      "footprint_id": 1641
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "PIKE CITY",
+      "footprint_id": 1711
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "FLINT",
+      "footprint_id": 1722
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "RATLIFF CY",
+      "footprint_id": 1724
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "LAVERNE",
+      "footprint_id": 1725
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MUSTANG",
+      "footprint_id": 1777
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ELMER",
+      "footprint_id": 1851
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BARNSDALL",
+      "footprint_id": 1855
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "GRANITE",
+      "footprint_id": 1869
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MUSKOGEE",
+      "footprint_id": 1906
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MANGUM",
+      "footprint_id": 2037
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MILBURN",
+      "footprint_id": 2138
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SOWESTCITY",
+      "footprint_id": 2154
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SOBLF CITY",
+      "footprint_id": 2156
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SELMAN",
+      "footprint_id": 2198
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "KEYES",
+      "footprint_id": 2210
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MILLERTON",
+      "footprint_id": 2238
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "LEEDEY",
+      "footprint_id": 2268
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BRECKENRDG",
+      "footprint_id": 2295
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ADAMS",
+      "footprint_id": 2311
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ATWOOD",
+      "footprint_id": 2435
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CHELSEA",
+      "footprint_id": 2480
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ROFF",
+      "footprint_id": 2559
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "PEARSON",
+      "footprint_id": 2568
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "DILL CITY",
+      "footprint_id": 2574
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BROKENARRW",
+      "footprint_id": 2607
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "LOCO",
+      "footprint_id": 2661
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CHANDLER",
+      "footprint_id": 2672
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WAURIKA",
+      "footprint_id": 2673
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HENNESSEY",
+      "footprint_id": 2740
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "FELTWHLESS",
+      "footprint_id": 2794
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HOLDENVL",
+      "footprint_id": 2915
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CHEROKEE",
+      "footprint_id": 2917
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HITCHCOCK",
+      "footprint_id": 2940
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HARMON",
+      "footprint_id": 2962
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "EARLSBORO",
+      "footprint_id": 2965
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CARTER",
+      "footprint_id": 3004
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "RUFE",
+      "footprint_id": 3005
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BLUEJACKET",
+      "footprint_id": 3083
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SOUTHHAVEN",
+      "footprint_id": 3142
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ROGERMILLS",
+      "footprint_id": 3152
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "OLUSTEE",
+      "footprint_id": 3157
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HUNTER",
+      "footprint_id": 3188
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WOODWARD",
+      "footprint_id": 3189
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WARDVILLE",
+      "footprint_id": 3196
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "KEYSTONE",
+      "footprint_id": 3211
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SOHARDTNER",
+      "footprint_id": 3217
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "TUPELO",
+      "footprint_id": 3269
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "LAHOMA",
+      "footprint_id": 3279
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "DACOMA",
+      "footprint_id": 3302
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "OAK HILL",
+      "footprint_id": 3304
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "FREDERICK",
+      "footprint_id": 3345
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "PUTNAM",
+      "footprint_id": 3402
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WATONGA",
+      "footprint_id": 3455
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WILLOW",
+      "footprint_id": 3523
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CACHE",
+      "footprint_id": 3538
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "EDMOND",
+      "footprint_id": 3629
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "TEXHOMA",
+      "footprint_id": 3677
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BROMIDE",
+      "footprint_id": 3707
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BURLINGTON",
+      "footprint_id": 3741
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "LAMONT",
+      "footprint_id": 3744
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BLACKWELL",
+      "footprint_id": 3810
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "PRUE",
+      "footprint_id": 3843
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MUSE",
+      "footprint_id": 3921
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "DOUGLAS",
+      "footprint_id": 3945
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "FAY",
+      "footprint_id": 3969
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "TALIHINA",
+      "footprint_id": 4072
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WYANDOTTE",
+      "footprint_id": 4099
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MAY",
+      "footprint_id": 4147
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "AMES",
+      "footprint_id": 4154
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MORRIS",
+      "footprint_id": 4155
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "UNION CITY",
+      "footprint_id": 4160
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "TRYON",
+      "footprint_id": 4209
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "GUYMON",
+      "footprint_id": 4211
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HOOKER",
+      "footprint_id": 4256
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SALINA",
+      "footprint_id": 4259
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "KANSAS",
+      "footprint_id": 4371
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "INDIAHOMA",
+      "footprint_id": 4427
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SAVANNA",
+      "footprint_id": 4456
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MADILL",
+      "footprint_id": 4465
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ANTLERS",
+      "footprint_id": 4569
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CHEYENNE",
+      "footprint_id": 4582
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MUTUAL",
+      "footprint_id": 4652
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BOKOSHE",
+      "footprint_id": 4689
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "KIEFER",
+      "footprint_id": 4835
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "QUINTON",
+      "footprint_id": 4861
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ARDMORE",
+      "footprint_id": 4920
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "STRANG",
+      "footprint_id": 4935
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MANNFORD",
+      "footprint_id": 4937
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ARPELAR",
+      "footprint_id": 4938
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "STUART",
+      "footprint_id": 5041
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "TRIBBEY",
+      "footprint_id": 5061
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WAGONER",
+      "footprint_id": 5144
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ALLUWE",
+      "footprint_id": 5151
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HENNEPIN",
+      "footprint_id": 5159
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "JONES",
+      "footprint_id": 5164
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BEAVER",
+      "footprint_id": 5292
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HITCHITA",
+      "footprint_id": 5302
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HELENA",
+      "footprint_id": 5445
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WYNONA",
+      "footprint_id": 5458
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SPRINGER",
+      "footprint_id": 5483
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "DAVIS",
+      "footprint_id": 5492
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "STONEWALL",
+      "footprint_id": 5561
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WAUKOMIS",
+      "footprint_id": 5581
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WHEATLAND",
+      "footprint_id": 5583
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SNUGHARBOR",
+      "footprint_id": 5658
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BARON",
+      "footprint_id": 5701
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "COALGATE",
+      "footprint_id": 5705
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "LENAPAH",
+      "footprint_id": 5757
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ELDORADO",
+      "footprint_id": 5765
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "AFTON",
+      "footprint_id": 5776
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "VELMA",
+      "footprint_id": 5798
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "PERKINS",
+      "footprint_id": 5900
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MARIETTA",
+      "footprint_id": 5909
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HARRAH",
+      "footprint_id": 5913
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "RINGLING",
+      "footprint_id": 5920
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "GROVE",
+      "footprint_id": 5940
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WEATHERFD",
+      "footprint_id": 6030
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "RUSH SPG",
+      "footprint_id": 6073
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "GOLTRY",
+      "footprint_id": 6153
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "LINDSAY",
+      "footprint_id": 6176
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "TALOGA",
+      "footprint_id": 6225
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "OGLESBY",
+      "footprint_id": 6264
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HASKELL",
+      "footprint_id": 6268
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "FAIRFAX",
+      "footprint_id": 6293
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "DOUGHERTY",
+      "footprint_id": 6312
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "DEER CREEK",
+      "footprint_id": 6314
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "FORGAN",
+      "footprint_id": 6318
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HEAVENER",
+      "footprint_id": 6360
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SOCOFFEYVL",
+      "footprint_id": 6451
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CHESTER",
+      "footprint_id": 6453
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CYRIL",
+      "footprint_id": 6455
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WMAYSVILLE",
+      "footprint_id": 6511
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "STRATFORD",
+      "footprint_id": 6729
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MOORELAND",
+      "footprint_id": 6824
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SWEETWATER",
+      "footprint_id": 6886
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "KIOWA",
+      "footprint_id": 6888
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "TIPTON",
+      "footprint_id": 6944
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "EAGLETOWN",
+      "footprint_id": 7025
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CHICKASHA",
+      "footprint_id": 7042
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "YALE",
+      "footprint_id": 7076
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SAYRE",
+      "footprint_id": 7091
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MARTHA",
+      "footprint_id": 7134
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BOSWELL",
+      "footprint_id": 7169
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "PANAMA",
+      "footprint_id": 7236
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ALLEN",
+      "footprint_id": 7305
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ASHLAND",
+      "footprint_id": 7404
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "GOODWELL",
+      "footprint_id": 7471
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SO WALDRON",
+      "footprint_id": 7493
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SHAWNEE",
+      "footprint_id": 7499
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "OKEMAH",
+      "footprint_id": 7540
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BLACKBURN",
+      "footprint_id": 7557
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BESSIE",
+      "footprint_id": 7568
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "TEMPLE",
+      "footprint_id": 7570
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WATTS",
+      "footprint_id": 7595
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CASHION",
+      "footprint_id": 7652
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "PORUM",
+      "footprint_id": 7669
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MARLAND",
+      "footprint_id": 7762
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "INDIANOLA",
+      "footprint_id": 7792
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MEEKER",
+      "footprint_id": 7793
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BILLINGS",
+      "footprint_id": 7839
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CLEVELAND",
+      "footprint_id": 7840
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "GRANDFIELD",
+      "footprint_id": 7843
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MONROEHOWE",
+      "footprint_id": 7864
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "DRUMMOND",
+      "footprint_id": 7885
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BRADLEY",
+      "footprint_id": 7892
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CANTON",
+      "footprint_id": 7898
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SHATTUCK",
+      "footprint_id": 7910
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ROOSEVELT",
+      "footprint_id": 7988
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BINGER",
+      "footprint_id": 8002
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CHATTANOGA",
+      "footprint_id": 8053
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ROSEDALE",
+      "footprint_id": 8113
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "KONAWA",
+      "footprint_id": 8172
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ELGIN",
+      "footprint_id": 8257
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CROWDER",
+      "footprint_id": 8288
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BETHANY",
+      "footprint_id": 8293
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "DRUMRIGHT",
+      "footprint_id": 8300
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "EVA",
+      "footprint_id": 8363
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WANETTE",
+      "footprint_id": 8387
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ATOKA",
+      "footprint_id": 8406
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "FLETCHER",
+      "footprint_id": 8477
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "JAY",
+      "footprint_id": 8509
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ARCADIA",
+      "footprint_id": 8565
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CARNEY",
+      "footprint_id": 8618
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HOPETON",
+      "footprint_id": 8631
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BEGGS",
+      "footprint_id": 8649
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ALVA",
+      "footprint_id": 8698
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BUFFALO",
+      "footprint_id": 8758
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CLEO SPG",
+      "footprint_id": 8783
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SASAKWA",
+      "footprint_id": 8785
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "POCOLA",
+      "footprint_id": 8808
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "GRAINOLA",
+      "footprint_id": 8821
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "TURPIN",
+      "footprint_id": 8823
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "GEARY",
+      "footprint_id": 8903
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "OSAGE",
+      "footprint_id": 8987
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SKIATOOK",
+      "footprint_id": 9025
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ST LOUIS",
+      "footprint_id": 9042
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "COMMERCE",
+      "footprint_id": 9098
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MULDROW",
+      "footprint_id": 9121
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "TALALA",
+      "footprint_id": 9134
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CEDARCREST",
+      "footprint_id": 9166
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BUFFALOVLY",
+      "footprint_id": 9170
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "VERDEN",
+      "footprint_id": 9179
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MAUD",
+      "footprint_id": 9193
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "RED OAK",
+      "footprint_id": 9240
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "EL RENO",
+      "footprint_id": 9295
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MOFFETT",
+      "footprint_id": 9312
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "GOTEBO",
+      "footprint_id": 9343
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BRITTON",
+      "footprint_id": 9414
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "DIBBLE",
+      "footprint_id": 9421
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CLAREMORE",
+      "footprint_id": 9434
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SALLISAW",
+      "footprint_id": 9459
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WEBB CITY",
+      "footprint_id": 9477
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CHECOTAH",
+      "footprint_id": 9478
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WELEETKA",
+      "footprint_id": 9526
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "KEOTA",
+      "footprint_id": 9568
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "TISHOMINGO",
+      "footprint_id": 9654
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CHOUTEAU",
+      "footprint_id": 9798
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CLAYTON",
+      "footprint_id": 9830
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "DOVER",
+      "footprint_id": 9835
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CARNEGIE",
+      "footprint_id": 9866
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "LONE WOLF",
+      "footprint_id": 9986
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WAPANUCKA",
+      "footprint_id": 10022
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BURBANK",
+      "footprint_id": 10065
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SPAVINAW",
+      "footprint_id": 10067
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BATTIEST",
+      "footprint_id": 10086
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "GARBER",
+      "footprint_id": 10216
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "OKMULGEE",
+      "footprint_id": 10221
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CAPRON",
+      "footprint_id": 10246
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HENRYETTA",
+      "footprint_id": 10247
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "FORAKER",
+      "footprint_id": 10255
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "PICHER",
+      "footprint_id": 10263
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "LEFLORE",
+      "footprint_id": 10272
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SCIPIO",
+      "footprint_id": 10314
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "EUFAULA",
+      "footprint_id": 10385
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BIXBY",
+      "footprint_id": 10410
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "LOGAN",
+      "footprint_id": 10453
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MCLOUD",
+      "footprint_id": 10454
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "NOBLE",
+      "footprint_id": 10501
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SHIDLER",
+      "footprint_id": 10573
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "FARGO",
+      "footprint_id": 10585
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "NASHOBA",
+      "footprint_id": 10587
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "GENE AUTRY",
+      "footprint_id": 10603
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "FAIRVIEW",
+      "footprint_id": 10614
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MEDFORD",
+      "footprint_id": 10636
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "LOCUST GRV",
+      "footprint_id": 10665
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "DUSTIN",
+      "footprint_id": 10669
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BOKCHITO",
+      "footprint_id": 10680
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "DURANT",
+      "footprint_id": 10788
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BROKEN BOW",
+      "footprint_id": 10871
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "STELLA",
+      "footprint_id": 10929
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "YUBA",
+      "footprint_id": 10946
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "RINGWOOD",
+      "footprint_id": 10970
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "PONCA CITY",
+      "footprint_id": 11008
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ELK CITY",
+      "footprint_id": 11024
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WELLSTON",
+      "footprint_id": 11038
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "TONKAWA",
+      "footprint_id": 11079
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "FAIRMONT",
+      "footprint_id": 11121
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SOCALDWELL",
+      "footprint_id": 11134
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CADDO",
+      "footprint_id": 11142
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MEDICINEPK",
+      "footprint_id": 11163
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "GERTY",
+      "footprint_id": 11166
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "STIGLER",
+      "footprint_id": 11185
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MENO",
+      "footprint_id": 11226
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "VICI",
+      "footprint_id": 11245
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "LAWTON",
+      "footprint_id": 11254
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CROMWELL",
+      "footprint_id": 11260
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "LONGTOWN",
+      "footprint_id": 11275
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CATOOSA",
+      "footprint_id": 11323
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CALUMET",
+      "footprint_id": 11342
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "PAWNEE",
+      "footprint_id": 11365
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CUSHING",
+      "footprint_id": 11368
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ENID",
+      "footprint_id": 11383
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "RED ROCK",
+      "footprint_id": 11391
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "KAW CITY",
+      "footprint_id": 11408
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "JENNINGS",
+      "footprint_id": 11495
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HEALDTON",
+      "footprint_id": 11556
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "GAGE",
+      "footprint_id": 11559
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SOUTH EDNA",
+      "footprint_id": 11579
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "KETCHUM",
+      "footprint_id": 11629
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SPENCER",
+      "footprint_id": 11631
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ROCKY",
+      "footprint_id": 11636
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "KENDRICK",
+      "footprint_id": 11644
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HALLETT",
+      "footprint_id": 11783
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "JET",
+      "footprint_id": 11791
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WOODFORD",
+      "footprint_id": 11831
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "DELAWARE",
+      "footprint_id": 11867
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WAYNOKA",
+      "footprint_id": 11924
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SMITHVILLE",
+      "footprint_id": 11943
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "OKEENE",
+      "footprint_id": 11954
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "PAOLI",
+      "footprint_id": 11973
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CANUTE",
+      "footprint_id": 11988
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "TUTTLE",
+      "footprint_id": 12003
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SO COLDWTR",
+      "footprint_id": 12091
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MERIDIAN",
+      "footprint_id": 12092
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CRESCENT",
+      "footprint_id": 12096
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ORLANDO",
+      "footprint_id": 12098
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CEDAR LAKE",
+      "footprint_id": 12192
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CONNERVL",
+      "footprint_id": 12280
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "DISNEY",
+      "footprint_id": 12365
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "FREEDOM",
+      "footprint_id": 12382
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WETUMKA",
+      "footprint_id": 12415
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WASHINGTON",
+      "footprint_id": 12437
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "FLORIS",
+      "footprint_id": 12461
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SOUTHELGIN",
+      "footprint_id": 12470
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HOMINY",
+      "footprint_id": 12484
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WEBBERSFLS",
+      "footprint_id": 12524
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CALVIN",
+      "footprint_id": 12543
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BIG CABIN",
+      "footprint_id": 12568
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WESTSENECA",
+      "footprint_id": 12601
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "KINGSTON",
+      "footprint_id": 12612
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "DAVENPORT",
+      "footprint_id": 12626
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HILLSDALE",
+      "footprint_id": 12717
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "PAWHUSKA",
+      "footprint_id": 12720
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BOWLEGS",
+      "footprint_id": 12732
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CORN",
+      "footprint_id": 12744
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "STERLING",
+      "footprint_id": 12751
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "VALLIANT",
+      "footprint_id": 12794
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "COLBERT",
+      "footprint_id": 12799
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "GRACEMONT",
+      "footprint_id": 12814
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ARNETT",
+      "footprint_id": 12842
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ALINE",
+      "footprint_id": 12931
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ADAIR",
+      "footprint_id": 12955
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HOLLIS",
+      "footprint_id": 13021
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SKEDEE",
+      "footprint_id": 13048
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MCALESTER",
+      "footprint_id": 13050
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "TECUMSEH",
+      "footprint_id": 13063
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HARTSHORNE",
+      "footprint_id": 13102
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "TIFF CITY",
+      "footprint_id": 13140
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CLINTON",
+      "footprint_id": 13175
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WISTER",
+      "footprint_id": 13213
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CASTLE",
+      "footprint_id": 13248
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CEDARS",
+      "footprint_id": 13263
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "POND CREEK",
+      "footprint_id": 13288
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "KINTA",
+      "footprint_id": 13323
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "TULSA",
+      "footprint_id": 13421
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HEADRICK",
+      "footprint_id": 13479
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "COVINGTON",
+      "footprint_id": 13507
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SARKNSASCY",
+      "footprint_id": 13518
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CARMEN",
+      "footprint_id": 13543
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "GATE",
+      "footprint_id": 13572
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SPARKS",
+      "footprint_id": 13585
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "YUKON",
+      "footprint_id": 13660
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "PEGGS",
+      "footprint_id": 13664
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "PURCELL",
+      "footprint_id": 13670
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SO HEWINS",
+      "footprint_id": 13673
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ALEX",
+      "footprint_id": 13686
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "TAHLEQUAH",
+      "footprint_id": 13715
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HUGO",
+      "footprint_id": 13762
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "KELLYVILLE",
+      "footprint_id": 13780
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HANNA",
+      "footprint_id": 13806
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "NEW HOME",
+      "footprint_id": 13852
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "INOLA",
+      "footprint_id": 13853
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "GORE",
+      "footprint_id": 13889
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BLANCHARD",
+      "footprint_id": 13895
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "PIEDMONT",
+      "footprint_id": 13946
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "FANSHAWE",
+      "footprint_id": 13959
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ALBION",
+      "footprint_id": 13983
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SNYDER",
+      "footprint_id": 14016
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MIDWEST CY",
+      "footprint_id": 14040
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WRIGHTCITY",
+      "footprint_id": 14045
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CUSTERCITY",
+      "footprint_id": 14085
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MANITOU",
+      "footprint_id": 14126
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HASTINGS",
+      "footprint_id": 14154
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "COMANCHE",
+      "footprint_id": 14351
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "STRINGTOWN",
+      "footprint_id": 14406
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "DAVIDSON",
+      "footprint_id": 14455
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HOCHATOWN",
+      "footprint_id": 14468
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ADA",
+      "footprint_id": 14488
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "STILLWATER",
+      "footprint_id": 14585
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WEWOKA",
+      "footprint_id": 14634
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BYRON",
+      "footprint_id": 14646
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MCCURTAIN",
+      "footprint_id": 14651
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "AGRA",
+      "footprint_id": 14678
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "DEWEY",
+      "footprint_id": 14692
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "LONGDALE",
+      "footprint_id": 14708
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "LOOKEBA",
+      "footprint_id": 14709
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "THOMAS",
+      "footprint_id": 14720
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WYNNEWOOD",
+      "footprint_id": 14746
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "RYAN",
+      "footprint_id": 14790
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "DEPEW",
+      "footprint_id": 14800
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CARTWRIGHT",
+      "footprint_id": 14825
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "LONE GROVE",
+      "footprint_id": 14838
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "COPAN",
+      "footprint_id": 14851
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "REED",
+      "footprint_id": 14907
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "XXXXXXXXXX",
+      "footprint_id": 14911
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BALKO",
+      "footprint_id": 14918
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SULPHUR",
+      "footprint_id": 14959
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "EAKLY",
+      "footprint_id": 15123
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "JENKS",
+      "footprint_id": 15128
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "STROUD",
+      "footprint_id": 15209
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "FAIRLAND",
+      "footprint_id": 15238
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SOPER",
+      "footprint_id": 15239
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HINTON",
+      "footprint_id": 15241
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BURNS FLAT",
+      "footprint_id": 15279
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ANADARKO",
+      "footprint_id": 15325
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MANCHESTER",
+      "footprint_id": 15346
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "PERRY",
+      "footprint_id": 15362
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "OCHELATA",
+      "footprint_id": 15394
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BOLEY",
+      "footprint_id": 15411
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "LOYAL",
+      "footprint_id": 15433
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "FITTSTOWN",
+      "footprint_id": 15456
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ASHER",
+      "footprint_id": 15513
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "REYDON",
+      "footprint_id": 15575
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "LUTHER",
+      "footprint_id": 15603
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "PORTER",
+      "footprint_id": 15617
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BOYNTON",
+      "footprint_id": 15644
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "FORTGIBSON",
+      "footprint_id": 15650
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "DUNCAN",
+      "footprint_id": 15662
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "VINITA",
+      "footprint_id": 15760
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "OILTON",
+      "footprint_id": 15766
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "RATTAN",
+      "footprint_id": 15770
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "KREMLIN",
+      "footprint_id": 15786
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SEILING",
+      "footprint_id": 15854
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "NEWALLA",
+      "footprint_id": 15871
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CHOCTAW",
+      "footprint_id": 15918
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "IDABEL",
+      "footprint_id": 15932
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "GRIGGS",
+      "footprint_id": 15964
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "PRYOR",
+      "footprint_id": 16058
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ENTERPRISE",
+      "footprint_id": 16061
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CARRIER",
+      "footprint_id": 16064
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BYARS",
+      "footprint_id": 16110
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SAPULPA",
+      "footprint_id": 16113
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "COLLINSVL",
+      "footprint_id": 16160
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "COWETA",
+      "footprint_id": 16172
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "OKLA CITY",
+      "footprint_id": 16206
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BRAGGS",
+      "footprint_id": 16216
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "AVANT",
+      "footprint_id": 16225
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BRAMAN",
+      "footprint_id": 16241
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MILL CREEK",
+      "footprint_id": 16276
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ALTUS",
+      "footprint_id": 16277
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "PRAGUE",
+      "footprint_id": 16320
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "NASH",
+      "footprint_id": 16339
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "POTEAU",
+      "footprint_id": 16363
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CAMARGO",
+      "footprint_id": 16380
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MOORE",
+      "footprint_id": 16407
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ALFALFA",
+      "footprint_id": 16422
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ELMOREWEST",
+      "footprint_id": 16450
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MINCO",
+      "footprint_id": 16523
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CORDELL",
+      "footprint_id": 16529
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "VINSON",
+      "footprint_id": 16590
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HYDRO",
+      "footprint_id": 16616
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "QUAPAW",
+      "footprint_id": 16633
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "OWASSO",
+      "footprint_id": 16649
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "FORT COBB",
+      "footprint_id": 16652
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MAYSVILLE",
+      "footprint_id": 16686
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WELCH",
+      "footprint_id": 16721
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ACHILLE",
+      "footprint_id": 16758
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "GOULD",
+      "footprint_id": 16780
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BRYANS COR",
+      "footprint_id": 16799
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SENTINEL",
+      "footprint_id": 16806
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MULHALL",
+      "footprint_id": 16832
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "PAULS VLY",
+      "footprint_id": 16883
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "GUTHRIE",
+      "footprint_id": 16909
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "APACHE",
+      "footprint_id": 16922
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SHARON",
+      "footprint_id": 16963
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "RAMONA",
+      "footprint_id": 16972
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SPERRY",
+      "footprint_id": 17002
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BUTLER",
+      "footprint_id": 17101
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "NORMAN",
+      "footprint_id": 17162
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HOBART",
+      "footprint_id": 17221
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WAYNE",
+      "footprint_id": 17264
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "CLARITA",
+      "footprint_id": 17269
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WALTERS",
+      "footprint_id": 17272
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "NOWATA",
+      "footprint_id": 17308
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "DIR ASST",
+      "footprint_id": 17314
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "SOUTHMEADE",
+      "footprint_id": 17373
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "NEWKIRK",
+      "footprint_id": 17422
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "WUNIONTOWN",
+      "footprint_id": 17425
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "QUINLAN",
+      "footprint_id": 17466
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BARTLESVL",
+      "footprint_id": 17475
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MT VIEW",
+      "footprint_id": 17483
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "FOSS",
+      "footprint_id": 17484
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "POCASSET",
+      "footprint_id": 17531
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "BRISTOW",
+      "footprint_id": 17544
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "KENTON",
+      "footprint_id": 17558
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "COUNCIL HL",
+      "footprint_id": 17572
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "GLENCOE",
+      "footprint_id": 17593
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "MARLOW",
+      "footprint_id": 17610
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "DUKE",
+      "footprint_id": 17627
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "PADEN",
+      "footprint_id": 17631
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "HARDESTY",
+      "footprint_id": 17632
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "OKARCHE",
+      "footprint_id": 17633
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "ERICK",
+      "footprint_id": 17655
+    },
+    {
+      "country": "US",
+      "state": "OK",
+      "name": "COLCORD",
+      "footprint_id": 17705
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-require "yaml"
+require "json"
 
 module Skyetel
   module DataSource
@@ -15,9 +15,9 @@ module Skyetel
 
         Array(states).each do |state|
           state_code = state.state_code
-          data_file = data_directory.join("#{state_code.downcase}.yml")
+          data_file = data_directory.join("#{state_code.downcase}.json")
 
-          rate_centers = rate_centers_for(state_code).data.map do |rate_center|
+          rate_centers = rate_centers_for(state_code).data.sort_by { |rc| [ rc.name, rc.footprint_id ] }.map do |rate_center|
             {
               "country" => "US",
               "state" => state_code.upcase,
@@ -26,7 +26,7 @@ module Skyetel
             }
           end
 
-          data_file.write({ "rate_centers" => rate_centers }.to_yaml) unless rate_centers.empty?
+          data_file.write(JSON.pretty_generate("rate_centers" => rate_centers)) unless rate_centers.empty?
         end
       end
 

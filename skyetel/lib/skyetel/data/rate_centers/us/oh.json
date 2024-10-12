@@ -1,0 +1,4444 @@
+{
+  "rate_centers": [
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MANTUA",
+      "footprint_id": 15
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "TIPP CITY",
+      "footprint_id": 19
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "FREDERCKTN",
+      "footprint_id": 26
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "COLUMBUS",
+      "footprint_id": 27
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BELFAST",
+      "footprint_id": 53
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PLEASANTHL",
+      "footprint_id": 129
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ELDORADO",
+      "footprint_id": 149
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "COONEY",
+      "footprint_id": 202
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HUNTSVILLE",
+      "footprint_id": 216
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SCIO",
+      "footprint_id": 255
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "DELLROY",
+      "footprint_id": 286
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ASHLAND",
+      "footprint_id": 299
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CARDINGTON",
+      "footprint_id": 314
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CAIRO",
+      "footprint_id": 320
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WHITEHOUSE",
+      "footprint_id": 346
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SAVANNAH",
+      "footprint_id": 365
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "FRANKFORT",
+      "footprint_id": 397
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MARIETTA",
+      "footprint_id": 410
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WAYNESFLD",
+      "footprint_id": 427
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WAYNESVL",
+      "footprint_id": 431
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MORROW",
+      "footprint_id": 436
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PARIS",
+      "footprint_id": 445
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BLOOMINGBG",
+      "footprint_id": 494
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "JAMESTOWN",
+      "footprint_id": 642
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BRISTOLVL",
+      "footprint_id": 667
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WESTERVL",
+      "footprint_id": 682
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEW LONDON",
+      "footprint_id": 686
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MARLBORO",
+      "footprint_id": 705
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "COVINGTON",
+      "footprint_id": 715
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SPENCER",
+      "footprint_id": 765
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "E LIBERTY",
+      "footprint_id": 795
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HUNTSBURG",
+      "footprint_id": 835
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BEAVERDAM",
+      "footprint_id": 837
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LAFAYETTE",
+      "footprint_id": 867
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CHESTERHL",
+      "footprint_id": 873
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "KINGSVILLE",
+      "footprint_id": 915
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GIBSONBURG",
+      "footprint_id": 933
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "TILTONSVL",
+      "footprint_id": 941
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ARABIA",
+      "footprint_id": 947
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PIONEER",
+      "footprint_id": 952
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MORRAL",
+      "footprint_id": 958
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "UHRICHSVL",
+      "footprint_id": 968
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WOOSTER",
+      "footprint_id": 1017
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "YOUNGSTOWN",
+      "footprint_id": 1031
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "THE PLAINS",
+      "footprint_id": 1039
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "RESACA",
+      "footprint_id": 1047
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "DELAWARE",
+      "footprint_id": 1051
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "POMEROY",
+      "footprint_id": 1082
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEWCARLISL",
+      "footprint_id": 1106
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ARCADIA",
+      "footprint_id": 1118
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BELLEVUE",
+      "footprint_id": 1136
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BEACH CITY",
+      "footprint_id": 1145
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WILKESVL",
+      "footprint_id": 1166
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "TERRACE",
+      "footprint_id": 1213
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SEAMAN",
+      "footprint_id": 1286
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HIGGINSPT",
+      "footprint_id": 1323
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WAYNEBRDNR",
+      "footprint_id": 1391
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEWBURY",
+      "footprint_id": 1418
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CENTERVL",
+      "footprint_id": 1421
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "FTJENNINGS",
+      "footprint_id": 1430
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PAINESVL",
+      "footprint_id": 1431
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GNADENHTTN",
+      "footprint_id": 1447
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BEDFORD",
+      "footprint_id": 1472
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CRESTLINE",
+      "footprint_id": 1554
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MILLEDGEVL",
+      "footprint_id": 1567
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "OTTOVILLE",
+      "footprint_id": 1570
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ANDOVER",
+      "footprint_id": 1609
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HASKISTGNY",
+      "footprint_id": 1623
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CARROLLTON",
+      "footprint_id": 1634
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WMANCHESTR",
+      "footprint_id": 1689
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BENTON RDG",
+      "footprint_id": 1715
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MARBLEHEAD",
+      "footprint_id": 1731
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PATTERSNVL",
+      "footprint_id": 1742
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BOURNEVL",
+      "footprint_id": 1760
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GREENWICH",
+      "footprint_id": 1815
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "OAK HARBOR",
+      "footprint_id": 1827
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "DOYLESTOWN",
+      "footprint_id": 1839
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "W LIBERTY",
+      "footprint_id": 1865
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SOUTHSOLON",
+      "footprint_id": 1874
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MINFD SKDL",
+      "footprint_id": 1878
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HOLMESVL",
+      "footprint_id": 1891
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ADA",
+      "footprint_id": 1896
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CATAWBA",
+      "footprint_id": 1904
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MT VERNON",
+      "footprint_id": 1920
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "STRONGSVL",
+      "footprint_id": 1933
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PIKETON",
+      "footprint_id": 1957
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ST LOUISVL",
+      "footprint_id": 1959
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "OAKWOOD",
+      "footprint_id": 1983
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ORRVILLE",
+      "footprint_id": 2017
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "DIR ASST",
+      "footprint_id": 2027
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MECHANCSTN",
+      "footprint_id": 2047
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BIRMINGHAM",
+      "footprint_id": 2070
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BEREA",
+      "footprint_id": 2104
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CHATFIELD",
+      "footprint_id": 2115
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "THOMPSON",
+      "footprint_id": 2141
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "FAIRBORN",
+      "footprint_id": 2163
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SHANDON",
+      "footprint_id": 2170
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "YORKCENTER",
+      "footprint_id": 2178
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HARRISON",
+      "footprint_id": 2221
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SHAWNEE",
+      "footprint_id": 2226
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "RATHBONE",
+      "footprint_id": 2241
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GETTYSBURG",
+      "footprint_id": 2242
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "JUNCTIONCY",
+      "footprint_id": 2310
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WARSAW",
+      "footprint_id": 2313
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CHARDON",
+      "footprint_id": 2335
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEWWATERFD",
+      "footprint_id": 2372
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LEESBURG",
+      "footprint_id": 2398
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ALBANY",
+      "footprint_id": 2438
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BOWERSTON",
+      "footprint_id": 2455
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEWLEBANON",
+      "footprint_id": 2496
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LAKEVILLE",
+      "footprint_id": 2520
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "RCFLDCTBRY",
+      "footprint_id": 2535
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SYCAMORE",
+      "footprint_id": 2536
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "OXFORD",
+      "footprint_id": 2561
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MARION",
+      "footprint_id": 2579
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SEBRING",
+      "footprint_id": 2581
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PAULDING",
+      "footprint_id": 2590
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GARRETTSVL",
+      "footprint_id": 2628
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SEVEN MILE",
+      "footprint_id": 2645
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "KENT",
+      "footprint_id": 2651
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PITCHIN",
+      "footprint_id": 2709
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HARTFORD",
+      "footprint_id": 2738
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BELLVILLE",
+      "footprint_id": 2760
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PATASKALA",
+      "footprint_id": 2772
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEWBAVARIA",
+      "footprint_id": 2816
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MOGADORE",
+      "footprint_id": 2913
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEWHOLLAND",
+      "footprint_id": 2985
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PANDORA",
+      "footprint_id": 3008
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GILBOA",
+      "footprint_id": 3067
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SUGARCREEK",
+      "footprint_id": 3078
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PIQUA",
+      "footprint_id": 3081
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "RAVENNA",
+      "footprint_id": 3084
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ATHENS",
+      "footprint_id": 3116
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "COLUMBSGRV",
+      "footprint_id": 3124
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MTBLANCHAD",
+      "footprint_id": 3135
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MONTVILLE",
+      "footprint_id": 3173
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LA RUE",
+      "footprint_id": 3193
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CLEVELAND",
+      "footprint_id": 3194
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "FOREST",
+      "footprint_id": 3204
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LOWELL",
+      "footprint_id": 3229
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HEBRON",
+      "footprint_id": 3232
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MTSTERLING",
+      "footprint_id": 3287
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "DAMASCUS",
+      "footprint_id": 3289
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BREWSTER",
+      "footprint_id": 3295
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LEWISBURG",
+      "footprint_id": 3308
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "VANLUE",
+      "footprint_id": 3343
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WELLSTON",
+      "footprint_id": 3372
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "RIPLEY",
+      "footprint_id": 3407
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LOUDONVL",
+      "footprint_id": 3443
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CLOVERDALE",
+      "footprint_id": 3459
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "AMESVILLE",
+      "footprint_id": 3487
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "KNOXVILLE",
+      "footprint_id": 3508
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "TIFFIN",
+      "footprint_id": 3511
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "FLORIDA",
+      "footprint_id": 3522
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LONDON",
+      "footprint_id": 3529
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SINKINGSPG",
+      "footprint_id": 3535
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SIDNEY",
+      "footprint_id": 3613
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEWMRSHFLD",
+      "footprint_id": 3642
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GUYSVILLE",
+      "footprint_id": 3655
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "VERSAILLES",
+      "footprint_id": 3656
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "JENERA",
+      "footprint_id": 3673
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "UTICAHOMER",
+      "footprint_id": 3826
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HOLGATE",
+      "footprint_id": 3842
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "STRYKER",
+      "footprint_id": 3881
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CONGRESS",
+      "footprint_id": 3952
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MARSHALL",
+      "footprint_id": 4049
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BURBANK",
+      "footprint_id": 4051
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "THORNVILLE",
+      "footprint_id": 4055
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEAPOLIS",
+      "footprint_id": 4062
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SHERWOOD",
+      "footprint_id": 4065
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CRESTON",
+      "footprint_id": 4097
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GREEN CAMP",
+      "footprint_id": 4143
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BRILLIANT",
+      "footprint_id": 4170
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CAMBRIDGE",
+      "footprint_id": 4186
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "RUSSELLVL",
+      "footprint_id": 4197
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "DEFIANCE",
+      "footprint_id": 4246
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "XENIA",
+      "footprint_id": 4264
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ARTHUR",
+      "footprint_id": 4280
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HAYESVILLE",
+      "footprint_id": 4302
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "KINGSTON",
+      "footprint_id": 4317
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LOWERSALEM",
+      "footprint_id": 4336
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "UNION CITY",
+      "footprint_id": 4349
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MENTOR",
+      "footprint_id": 4379
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SO VIENNA",
+      "footprint_id": 4385
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GALLIPOLIS",
+      "footprint_id": 4464
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ENON",
+      "footprint_id": 4492
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MARIASTEIN",
+      "footprint_id": 4515
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "RIDGEWAY",
+      "footprint_id": 4517
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MONTROSE",
+      "footprint_id": 4541
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "POLK",
+      "footprint_id": 4559
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SHREVE",
+      "footprint_id": 4588
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HARPSTER",
+      "footprint_id": 4613
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NOGEORGETN",
+      "footprint_id": 4662
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "DELTA",
+      "footprint_id": 4684
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "VAN BUREN",
+      "footprint_id": 4752
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MASSILLON",
+      "footprint_id": 4755
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LEIPSIC",
+      "footprint_id": 4773
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "RAYMOND",
+      "footprint_id": 4790
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SUMMERFLD",
+      "footprint_id": 4794
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "JOHNSVILLE",
+      "footprint_id": 4813
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BLANCHESTR",
+      "footprint_id": 4816
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HANOVERTON",
+      "footprint_id": 4822
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SO LEBANON",
+      "footprint_id": 4852
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ATTICA",
+      "footprint_id": 4894
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "AVON LAKE",
+      "footprint_id": 4895
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MINERAL CY",
+      "footprint_id": 4915
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BRADFORD",
+      "footprint_id": 4948
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MONTPELIER",
+      "footprint_id": 4950
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "RUSSELLSPT",
+      "footprint_id": 4958
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CRIDERSVL",
+      "footprint_id": 4959
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ADAMSVILLE",
+      "footprint_id": 5016
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "KELLEYS IS",
+      "footprint_id": 5082
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WHARTON",
+      "footprint_id": 5105
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CASTALIA",
+      "footprint_id": 5117
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WILMINGTON",
+      "footprint_id": 5153
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WELLINGTON",
+      "footprint_id": 5208
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEWTONSVL",
+      "footprint_id": 5243
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HILLSBORO",
+      "footprint_id": 5259
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEW LYME",
+      "footprint_id": 5271
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "COLUMBIANA",
+      "footprint_id": 5285
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MSBGWCRLTN",
+      "footprint_id": 5288
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "VANDALIA",
+      "footprint_id": 5313
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CANFIELD",
+      "footprint_id": 5314
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CURTICORGN",
+      "footprint_id": 5346
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ZANESVILLE",
+      "footprint_id": 5358
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "METAMORA",
+      "footprint_id": 5425
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NAPOLEON",
+      "footprint_id": 5429
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BLOOMINGVL",
+      "footprint_id": 5436
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MILLERSPT",
+      "footprint_id": 5448
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "FELICITY",
+      "footprint_id": 5461
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEWLXINGTN",
+      "footprint_id": 5490
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WINCHESTER",
+      "footprint_id": 5528
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MCONNELSVL",
+      "footprint_id": 5569
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CLERMONT",
+      "footprint_id": 5577
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "UPSANDUSKY",
+      "footprint_id": 5592
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "YORKSHIRE",
+      "footprint_id": 5598
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ROSEWOOD",
+      "footprint_id": 5620
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LTL MIAMI",
+      "footprint_id": 5662
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LTLHOCKING",
+      "footprint_id": 5673
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WOODSTOCK",
+      "footprint_id": 5721
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NOBLOOMFLD",
+      "footprint_id": 5726
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WEST UNITY",
+      "footprint_id": 5836
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CORNING",
+      "footprint_id": 5840
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SOMERSET",
+      "footprint_id": 5851
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NO BALTIMR",
+      "footprint_id": 5892
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "XXXXXXXXXX",
+      "footprint_id": 5896
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LUCKEY",
+      "footprint_id": 5902
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WORTHINGTN",
+      "footprint_id": 5930
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "APPLECREEK",
+      "footprint_id": 5953
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CARROLL",
+      "footprint_id": 5957
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BELLBROOK",
+      "footprint_id": 5979
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ELIVERPOOL",
+      "footprint_id": 6023
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BELLE CTR",
+      "footprint_id": 6040
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "AYERSVILLE",
+      "footprint_id": 6050
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MIDDLETOWN",
+      "footprint_id": 6096
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SPENCERVL",
+      "footprint_id": 6107
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MILLERCITY",
+      "footprint_id": 6121
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BERLIN",
+      "footprint_id": 6184
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CORTLAND",
+      "footprint_id": 6213
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GRATIOT",
+      "footprint_id": 6218
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SHARON",
+      "footprint_id": 6221
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ELMORE",
+      "footprint_id": 6288
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GRANVILLE",
+      "footprint_id": 6306
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MENDON",
+      "footprint_id": 6313
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "COOPERDALE",
+      "footprint_id": 6339
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HUDSON",
+      "footprint_id": 6352
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SUNBURY",
+      "footprint_id": 6401
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "IRONTON",
+      "footprint_id": 6440
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LAURELVL",
+      "footprint_id": 6459
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MASON",
+      "footprint_id": 6469
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WADSWORTH",
+      "footprint_id": 6472
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEWCOMRSTN",
+      "footprint_id": 6474
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "VERMILION",
+      "footprint_id": 6492
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "REYNOLDSBG",
+      "footprint_id": 6493
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CYGNET",
+      "footprint_id": 6504
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MAUMEE",
+      "footprint_id": 6576
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BETHANY",
+      "footprint_id": 6666
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GOMER",
+      "footprint_id": 6679
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "FREMONT",
+      "footprint_id": 6706
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "JEWETT",
+      "footprint_id": 6709
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CADIZ",
+      "footprint_id": 6725
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MONROEVL",
+      "footprint_id": 6731
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BOTKINS",
+      "footprint_id": 6759
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CLYDE",
+      "footprint_id": 6762
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CHESHIRCTR",
+      "footprint_id": 6785
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HALLSVILLE",
+      "footprint_id": 6792
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "URBANA",
+      "footprint_id": 6796
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "TRENTON",
+      "footprint_id": 6803
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CLARKSBURG",
+      "footprint_id": 6825
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BLOOMINGDL",
+      "footprint_id": 6826
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "OLD FORT",
+      "footprint_id": 6858
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "DELPHOS",
+      "footprint_id": 6878
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "AKRON",
+      "footprint_id": 6891
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BIGPRAIRIE",
+      "footprint_id": 6908
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MOLINE",
+      "footprint_id": 6912
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "RITTMAN",
+      "footprint_id": 6915
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HOLLANSBG",
+      "footprint_id": 6922
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CANTON",
+      "footprint_id": 6925
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MCCOMB",
+      "footprint_id": 6935
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SWANTON",
+      "footprint_id": 6958
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NASHVILLE",
+      "footprint_id": 7007
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GREEN SPG",
+      "footprint_id": 7017
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "JOHNSTON",
+      "footprint_id": 7033
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LOWELLVL",
+      "footprint_id": 7068
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "FREDECKSBG",
+      "footprint_id": 7132
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GRAYSVILLE",
+      "footprint_id": 7180
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PHILLIPSBG",
+      "footprint_id": 7183
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WOODSFIELD",
+      "footprint_id": 7185
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HINCKLEY",
+      "footprint_id": 7196
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PENNSVILLE",
+      "footprint_id": 7218
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GREENFIELD",
+      "footprint_id": 7274
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GRAFTON",
+      "footprint_id": 7277
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BUCYRUS",
+      "footprint_id": 7284
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BRUNSWICK",
+      "footprint_id": 7394
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ALTON",
+      "footprint_id": 7400
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SHELBY",
+      "footprint_id": 7401
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CROTON",
+      "footprint_id": 7410
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HIRAM",
+      "footprint_id": 7525
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PHILO",
+      "footprint_id": 7531
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SMITHVILLE",
+      "footprint_id": 7543
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "REILY",
+      "footprint_id": 7550
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "RUSHSYLVAN",
+      "footprint_id": 7560
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "STOCKPORT",
+      "footprint_id": 7583
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LOUISVILLE",
+      "footprint_id": 7598
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SOCHARLETN",
+      "footprint_id": 7610
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PORTAGE",
+      "footprint_id": 7614
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PORTSMOUTH",
+      "footprint_id": 7626
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "KALIDA",
+      "footprint_id": 7641
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "RUSHVILLE",
+      "footprint_id": 7645
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ALGER",
+      "footprint_id": 7723
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GREENSBURG",
+      "footprint_id": 7767
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WSNGTNCTHS",
+      "footprint_id": 7769
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LAURA",
+      "footprint_id": 7772
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LINDSEY",
+      "footprint_id": 7790
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NORTHFIELD",
+      "footprint_id": 7797
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WILLARD",
+      "footprint_id": 7810
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GAHANNA",
+      "footprint_id": 7825
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HAMLER",
+      "footprint_id": 7853
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CLARKSVL",
+      "footprint_id": 7856
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HURON",
+      "footprint_id": 7872
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WESTON",
+      "footprint_id": 7877
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CEDARVILLE",
+      "footprint_id": 7879
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MONTRSE",
+      "footprint_id": 7896
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MILLERSBG",
+      "footprint_id": 7930
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WILMOT",
+      "footprint_id": 7932
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BERGHOLZ",
+      "footprint_id": 7974
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "KILBOURNE",
+      "footprint_id": 7991
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NORTHEATON",
+      "footprint_id": 7997
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEWWSHNGTN",
+      "footprint_id": 7998
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "TOLEDO",
+      "footprint_id": 8009
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "FULTONHAM",
+      "footprint_id": 8013
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "EDGERTON",
+      "footprint_id": 8025
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NO LEWISBG",
+      "footprint_id": 8027
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ROOTSTOWN",
+      "footprint_id": 8077
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "COOLVILLE",
+      "footprint_id": 8081
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "STEUBENVL",
+      "footprint_id": 8102
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WEST SALEM",
+      "footprint_id": 8133
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SPRINGFLD",
+      "footprint_id": 8137
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LISBON",
+      "footprint_id": 8173
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "QUAKERCITY",
+      "footprint_id": 8177
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "AMHERST",
+      "footprint_id": 8196
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GRATIS",
+      "footprint_id": 8201
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MASSIEVL",
+      "footprint_id": 8202
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "OSTRANDER",
+      "footprint_id": 8230
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEW RIEGEL",
+      "footprint_id": 8242
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SALINEVL",
+      "footprint_id": 8251
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BOLIVAR",
+      "footprint_id": 8276
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CLARINGTON",
+      "footprint_id": 8330
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEW PARIS",
+      "footprint_id": 8347
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "OLDWSHNGTN",
+      "footprint_id": 8348
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GROVE CITY",
+      "footprint_id": 8373
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LIBERTY",
+      "footprint_id": 8390
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "DORSET",
+      "footprint_id": 8397
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MADISON",
+      "footprint_id": 8401
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MESOPOTMIA",
+      "footprint_id": 8414
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "REPUBLIC",
+      "footprint_id": 8466
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LEBANON",
+      "footprint_id": 8470
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PLYMOUTH",
+      "footprint_id": 8518
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WELLSVILLE",
+      "footprint_id": 8521
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BYHALIA",
+      "footprint_id": 8533
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "DANVILLE",
+      "footprint_id": 8548
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEW ALBANY",
+      "footprint_id": 8558
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "COSHOCTON",
+      "footprint_id": 8574
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "JOHNSTOWN",
+      "footprint_id": 8599
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SALEM",
+      "footprint_id": 8610
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ELIDA",
+      "footprint_id": 8682
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CALDWELL",
+      "footprint_id": 8725
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CONTINNTAL",
+      "footprint_id": 8740
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HILLIARD",
+      "footprint_id": 8802
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MINSTER",
+      "footprint_id": 8816
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BEVERLY",
+      "footprint_id": 8824
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MT GILEAD",
+      "footprint_id": 8857
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "VALLEYCITY",
+      "footprint_id": 8865
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BASCOM",
+      "footprint_id": 8873
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "AMSTERDAM",
+      "footprint_id": 8939
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MORRISTOWN",
+      "footprint_id": 8941
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NORWALK",
+      "footprint_id": 8988
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "FAYETTE",
+      "footprint_id": 8998
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MIDDLE PT",
+      "footprint_id": 9001
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BUTLER",
+      "footprint_id": 9127
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PROSPECT",
+      "footprint_id": 9173
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SARDINIA",
+      "footprint_id": 9177
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LODI",
+      "footprint_id": 9239
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BALTIC",
+      "footprint_id": 9245
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "JEFFERSON",
+      "footprint_id": 9273
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PLEASANTVL",
+      "footprint_id": 9284
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SHADE",
+      "footprint_id": 9300
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BELMORE",
+      "footprint_id": 9303
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CHATHAM",
+      "footprint_id": 9324
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SMITHFIELD",
+      "footprint_id": 9349
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ARLINGTON",
+      "footprint_id": 9359
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BERLIN HTS",
+      "footprint_id": 9379
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "AMANDA",
+      "footprint_id": 9441
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NORTHCREEK",
+      "footprint_id": 9455
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "FAIRVIEW",
+      "footprint_id": 9475
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "DALTON",
+      "footprint_id": 9485
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEWPORT",
+      "footprint_id": 9500
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "COLUMBISTA",
+      "footprint_id": 9524
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GREENE",
+      "footprint_id": 9552
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "AVON",
+      "footprint_id": 9560
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SOMERTON",
+      "footprint_id": 9567
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "RAINSBORO",
+      "footprint_id": 9577
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "TREMONT CY",
+      "footprint_id": 9607
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CHESTERVL",
+      "footprint_id": 9626
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "RIDGEVLCOR",
+      "footprint_id": 9653
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEW BREMEN",
+      "footprint_id": 9664
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "FAYETTEVL",
+      "footprint_id": 9681
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "OLMSTEDFLS",
+      "footprint_id": 9727
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WARREN",
+      "footprint_id": 9747
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WINDSOR",
+      "footprint_id": 9860
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NORTH LIMA",
+      "footprint_id": 9889
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "JEWELL",
+      "footprint_id": 9894
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WATERVILLE",
+      "footprint_id": 9895
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GROVERHILL",
+      "footprint_id": 9913
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "E CLARIDON",
+      "footprint_id": 9955
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "COLDWATER",
+      "footprint_id": 9956
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WLAFAYETTE",
+      "footprint_id": 10029
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NO HAMPTON",
+      "footprint_id": 10070
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "AUSTINBURG",
+      "footprint_id": 10090
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MANCHESTR",
+      "footprint_id": 10156
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEWCONCORD",
+      "footprint_id": 10169
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ROCK CREEK",
+      "footprint_id": 10172
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BARLOW",
+      "footprint_id": 10174
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "KIDRON",
+      "footprint_id": 10191
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WICKLIFFE",
+      "footprint_id": 10193
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEWMADISON",
+      "footprint_id": 10202
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MCARTHUR",
+      "footprint_id": 10240
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CHESAPEAKE",
+      "footprint_id": 10283
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MOUNT CORY",
+      "footprint_id": 10291
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MELMORE",
+      "footprint_id": 10330
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PEMBERVL",
+      "footprint_id": 10346
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CAMDEN",
+      "footprint_id": 10392
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BARTLETT",
+      "footprint_id": 10415
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MARENGO",
+      "footprint_id": 10464
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MANCHESTER",
+      "footprint_id": 10483
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "IDAHO",
+      "footprint_id": 10490
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEY",
+      "footprint_id": 10494
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "EDON",
+      "footprint_id": 10495
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BLOOMVILLE",
+      "footprint_id": 10520
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BEAVER",
+      "footprint_id": 10521
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PORTLAND",
+      "footprint_id": 10567
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "DE GRAFF",
+      "footprint_id": 10612
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SCOTT",
+      "footprint_id": 10619
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CANALWHSTR",
+      "footprint_id": 10625
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BETTSVILLE",
+      "footprint_id": 10634
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "KIRTLAND",
+      "footprint_id": 10653
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HARRISBURG",
+      "footprint_id": 10679
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PLAIN CITY",
+      "footprint_id": 10687
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HELENA",
+      "footprint_id": 10692
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HARTVILLE",
+      "footprint_id": 10696
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "TWINSBURG",
+      "footprint_id": 10754
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "FOSTORIA",
+      "footprint_id": 10760
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "FRAZEYSBG",
+      "footprint_id": 10783
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MINERVA",
+      "footprint_id": 10905
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GAMBIER",
+      "footprint_id": 10910
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "TORONTO",
+      "footprint_id": 10938
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "STCLAIRSVL",
+      "footprint_id": 10958
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BROOKVILLE",
+      "footprint_id": 10974
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "DECATUR",
+      "footprint_id": 10979
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SHILOH",
+      "footprint_id": 10997
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "RICHWOOD",
+      "footprint_id": 11066
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BERLIN CTR",
+      "footprint_id": 11070
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MEDWAY",
+      "footprint_id": 11091
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "FT LORAMIE",
+      "footprint_id": 11131
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LONDONDRRY",
+      "footprint_id": 11181
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BAINBDG",
+      "footprint_id": 11221
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WILLIAMSBG",
+      "footprint_id": 11229
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WINONA",
+      "footprint_id": 11262
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ROSEVILLE",
+      "footprint_id": 11264
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LOCKBOURNE",
+      "footprint_id": 11268
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WALNUT",
+      "footprint_id": 11304
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "DESHLER",
+      "footprint_id": 11341
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "FLUSHING",
+      "footprint_id": 11349
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MECHANCSBG",
+      "footprint_id": 11361
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BEALLSVL",
+      "footprint_id": 11366
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CALEDONIA",
+      "footprint_id": 11399
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MONROE",
+      "footprint_id": 11421
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GLOUSTER",
+      "footprint_id": 11431
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GIRARD",
+      "footprint_id": 11462
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LEROY",
+      "footprint_id": 11483
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MARTINSBG",
+      "footprint_id": 11520
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SYLVANIA",
+      "footprint_id": 11564
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HICKSVILLE",
+      "footprint_id": 11604
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LEWISVILLE",
+      "footprint_id": 11650
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "RICHMOND",
+      "footprint_id": 11668
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BALTIMORE",
+      "footprint_id": 11730
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HOLLAND",
+      "footprint_id": 11753
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "JEFFERSNVL",
+      "footprint_id": 11812
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "OHIO CITY",
+      "footprint_id": 11818
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MCUTCHENVL",
+      "footprint_id": 11821
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CONESVILLE",
+      "footprint_id": 11828
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HAMILTON",
+      "footprint_id": 11834
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ELYRIA",
+      "footprint_id": 11864
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LANCASTER",
+      "footprint_id": 11898
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CROOKSVL",
+      "footprint_id": 11949
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GRAND RPDS",
+      "footprint_id": 11980
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SEVILLE",
+      "footprint_id": 12034
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PERRYSVL",
+      "footprint_id": 12080
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MAGNETCSPG",
+      "footprint_id": 12089
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MCCLURE",
+      "footprint_id": 12093
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CIRCLEVL",
+      "footprint_id": 12103
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MARYSVILLE",
+      "footprint_id": 12136
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GEORGETOWN",
+      "footprint_id": 12157
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ASHVILLE",
+      "footprint_id": 12161
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HILLCREST",
+      "footprint_id": 12164
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WAVERLY",
+      "footprint_id": 12211
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PT WILLIAM",
+      "footprint_id": 12216
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WESTMILTON",
+      "footprint_id": 12274
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NOVA",
+      "footprint_id": 12281
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WILLOUGHBY",
+      "footprint_id": 12319
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WINDHAM",
+      "footprint_id": 12360
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SUGRTRERDG",
+      "footprint_id": 12363
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "KILLBUCK",
+      "footprint_id": 12376
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ROSSBURG",
+      "footprint_id": 12397
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MARSHALLVL",
+      "footprint_id": 12407
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "DLVLMTPLNT",
+      "footprint_id": 12423
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "AURORA",
+      "footprint_id": 12441
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SULLIVAN",
+      "footprint_id": 12458
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WALEXNDRIA",
+      "footprint_id": 12482
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BETHEL",
+      "footprint_id": 12500
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BETHESDA",
+      "footprint_id": 12501
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ROCKFORD",
+      "footprint_id": 12521
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "RISINGSUN",
+      "footprint_id": 12554
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LOGAN",
+      "footprint_id": 12564
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "DEXTERCITY",
+      "footprint_id": 12570
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GUYAN",
+      "footprint_id": 12589
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LIMA",
+      "footprint_id": 12636
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "DAYTON",
+      "footprint_id": 12661
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "DONNELSVL",
+      "footprint_id": 12665
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "RADNOR",
+      "footprint_id": 12682
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CAREY",
+      "footprint_id": 12725
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WAKEMAN",
+      "footprint_id": 12748
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HARLEM SPG",
+      "footprint_id": 12766
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "TERREHAUTE",
+      "footprint_id": 12800
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEW KNOXVL",
+      "footprint_id": 12825
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MIDDLEFLD",
+      "footprint_id": 12828
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ARCANUM",
+      "footprint_id": 12865
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "EATON",
+      "footprint_id": 12872
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MURRAYCITY",
+      "footprint_id": 12875
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WJEFFERSON",
+      "footprint_id": 12916
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PEEBLES",
+      "footprint_id": 12935
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BRECKSVL",
+      "footprint_id": 12967
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BUTLERVL",
+      "footprint_id": 13003
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PIERPONT",
+      "footprint_id": 13009
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CHESTERLD",
+      "footprint_id": 13013
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HANOVER",
+      "footprint_id": 13054
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ATWATER",
+      "footprint_id": 13074
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GENOA",
+      "footprint_id": 13082
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "RAWSON",
+      "footprint_id": 13088
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GENEVA",
+      "footprint_id": 13095
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SUGARGROVE",
+      "footprint_id": 13169
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BOWLNGGREN",
+      "footprint_id": 13179
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CANALFULTN",
+      "footprint_id": 13221
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MARTISFRRY",
+      "footprint_id": 13239
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ANNA",
+      "footprint_id": 13242
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MANSFIELD",
+      "footprint_id": 13259
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "STRASBURG",
+      "footprint_id": 13266
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LYKENS",
+      "footprint_id": 13299
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "TRINITY",
+      "footprint_id": 13305
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HOMERVILLE",
+      "footprint_id": 13329
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NO BENTON",
+      "footprint_id": 13374
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "POWHATANPT",
+      "footprint_id": 13379
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WOODVILLE",
+      "footprint_id": 13444
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LAKEMILTON",
+      "footprint_id": 13471
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HAMERSVL",
+      "footprint_id": 13496
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NAVARRE",
+      "footprint_id": 13508
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "DRESDEN",
+      "footprint_id": 13549
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PT CLINTON",
+      "footprint_id": 13577
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SHARON CTR",
+      "footprint_id": 13596
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "RUSSELL",
+      "footprint_id": 13642
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ST MARYS",
+      "footprint_id": 13647
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MAGNOLWSBG",
+      "footprint_id": 13662
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WEST UNION",
+      "footprint_id": 13691
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WAPAKONETA",
+      "footprint_id": 13723
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ABERDEEN",
+      "footprint_id": 13748
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BLOOMDALE",
+      "footprint_id": 13756
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MOUNT ORAB",
+      "footprint_id": 13774
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CONNEAUT",
+      "footprint_id": 13776
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MALVERN",
+      "footprint_id": 13787
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "DUNKIRK",
+      "footprint_id": 13789
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HUBBARD",
+      "footprint_id": 13810
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CUMBERLAND",
+      "footprint_id": 13822
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LYNCHBURG",
+      "footprint_id": 13842
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BELLEFNTAN",
+      "footprint_id": 13844
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BYESVILLE",
+      "footprint_id": 13915
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BEAVERCREK",
+      "footprint_id": 13935
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BUCKLAND",
+      "footprint_id": 13951
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NO JACKSON",
+      "footprint_id": 13995
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "VICTORY",
+      "footprint_id": 13999
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ORWELL",
+      "footprint_id": 14033
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PERRYSBURG",
+      "footprint_id": 14083
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "UNIONTOWN",
+      "footprint_id": 14088
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "FRANKLIN",
+      "footprint_id": 14129
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEWWNCHSTR",
+      "footprint_id": 14135
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "STONYRIDGE",
+      "footprint_id": 14139
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "STERLING",
+      "footprint_id": 14152
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WAUSEON",
+      "footprint_id": 14239
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "RICHFIELD",
+      "footprint_id": 14263
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MILAN",
+      "footprint_id": 14342
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "RIO GRANDE",
+      "footprint_id": 14358
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NORTH STAR",
+      "footprint_id": 14430
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SPRING VLY",
+      "footprint_id": 14539
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BELLAIRE",
+      "footprint_id": 14612
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ADENA",
+      "footprint_id": 14618
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "REDHAW",
+      "footprint_id": 14644
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "KENTON",
+      "footprint_id": 14653
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PARKMAN",
+      "footprint_id": 14690
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GERMANTOWN",
+      "footprint_id": 14728
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MILFORDCTR",
+      "footprint_id": 14729
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GLENFORD",
+      "footprint_id": 14731
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "KINSMAN",
+      "footprint_id": 14734
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CHILLICOTH",
+      "footprint_id": 14778
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LEXINGTON",
+      "footprint_id": 14796
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WATERTOWN",
+      "footprint_id": 14809
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NOROYALTON",
+      "footprint_id": 14830
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ASHTABULA",
+      "footprint_id": 14850
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEWARK",
+      "footprint_id": 14908
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEWMTMORAS",
+      "footprint_id": 14919
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ANSONIA",
+      "footprint_id": 14941
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "FARMERSVL",
+      "footprint_id": 14981
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WESTFLDCTR",
+      "footprint_id": 14994
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEW VIENNA",
+      "footprint_id": 15057
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GERALD",
+      "footprint_id": 15073
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEWPHLDLPH",
+      "footprint_id": 15087
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BURTON",
+      "footprint_id": 15099
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BOWERSVLLE",
+      "footprint_id": 15124
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "OKOLONA",
+      "footprint_id": 15142
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "DUBLIN",
+      "footprint_id": 15193
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEWBRLNGTN",
+      "footprint_id": 15231
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MARTINSVL",
+      "footprint_id": 15257
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "FTRECOVERY",
+      "footprint_id": 15267
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CONVOY",
+      "footprint_id": 15301
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LUCAS",
+      "footprint_id": 15315
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GATESMILLS",
+      "footprint_id": 15339
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CHRISTISBG",
+      "footprint_id": 15348
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LETART FLS",
+      "footprint_id": 15359
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "OTTAWA",
+      "footprint_id": 15363
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ROGERS",
+      "footprint_id": 15365
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GLENMONT",
+      "footprint_id": 15366
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "FLTCHELENA",
+      "footprint_id": 15400
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CELINA",
+      "footprint_id": 15445
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SANDUSKY",
+      "footprint_id": 15470
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BARNESVL",
+      "footprint_id": 15526
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "VINTON",
+      "footprint_id": 15606
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PERRY",
+      "footprint_id": 15664
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GRELTNMLNT",
+      "footprint_id": 15687
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "FREEPORT",
+      "footprint_id": 15713
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GLANDORF",
+      "footprint_id": 15774
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SEDALIA",
+      "footprint_id": 15780
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "VAN WERT",
+      "footprint_id": 15849
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "OBERLIN",
+      "footprint_id": 15915
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "JACKSONCTR",
+      "footprint_id": 15975
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CINCINNATI",
+      "footprint_id": 15987
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "JACKSON",
+      "footprint_id": 15990
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "TROY",
+      "footprint_id": 16126
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEVADA",
+      "footprint_id": 16163
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NILES",
+      "footprint_id": 16201
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ASHLEY",
+      "footprint_id": 16210
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NEWTON FLS",
+      "footprint_id": 16228
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PENINSULA",
+      "footprint_id": 16230
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LIBERTYCTR",
+      "footprint_id": 16279
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "OAK HILL",
+      "footprint_id": 16282
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WILLIAMSPT",
+      "footprint_id": 16316
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PUT IN BAY",
+      "footprint_id": 16357
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "DUFFY",
+      "footprint_id": 16368
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "VAUGHNSVL",
+      "footprint_id": 16378
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "COLEBROOK",
+      "footprint_id": 16388
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "EROCHESTER",
+      "footprint_id": 16417
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "REINELHKNY",
+      "footprint_id": 16480
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "HOPEDALE",
+      "footprint_id": 16501
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BAINBRIDGE",
+      "footprint_id": 16503
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WAYLAND",
+      "footprint_id": 16528
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WESTMINSTR",
+      "footprint_id": 16534
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GROVEPORT",
+      "footprint_id": 16558
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BELPRE",
+      "footprint_id": 16607
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "VENEDOCIA",
+      "footprint_id": 16626
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "FINDLAY",
+      "footprint_id": 16634
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ADARIO",
+      "footprint_id": 16643
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MINGO JCT",
+      "footprint_id": 16671
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ALLIANCE",
+      "footprint_id": 16713
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "YLSPGCLFTN",
+      "footprint_id": 16718
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CHESTERFLD",
+      "footprint_id": 16737
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NELSONVL",
+      "footprint_id": 16740
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "EPALESTINE",
+      "footprint_id": 16778
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LYONS",
+      "footprint_id": 16794
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LEETONIA",
+      "footprint_id": 16845
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WALDO",
+      "footprint_id": 16913
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MOWRYSTOWN",
+      "footprint_id": 16944
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ANTWERP",
+      "footprint_id": 16964
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BLUFFTON",
+      "footprint_id": 16984
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ARCHBOLD",
+      "footprint_id": 17023
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "LORAIN",
+      "footprint_id": 17078
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "INDEPNDNCE",
+      "footprint_id": 17083
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ENGLEWOOD",
+      "footprint_id": 17092
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CENTERBURG",
+      "footprint_id": 17104
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "EVANSPORT",
+      "footprint_id": 17106
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "TROTWOOD",
+      "footprint_id": 17122
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GALION",
+      "footprint_id": 17132
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "RICHMONDL",
+      "footprint_id": 17133
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "SABINA",
+      "footprint_id": 17177
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WILSHIWREN",
+      "footprint_id": 17195
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ST PARIS",
+      "footprint_id": 17200
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MORNINGSUN",
+      "footprint_id": 17224
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "GREENVILLE",
+      "footprint_id": 17236
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CHESTER",
+      "footprint_id": 17254
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "DANVL",
+      "footprint_id": 17275
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CHESHIRE",
+      "footprint_id": 17289
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WMANSFIELD",
+      "footprint_id": 17324
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MEDINA",
+      "footprint_id": 17354
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CENTERVLLE",
+      "footprint_id": 17360
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "CHAGRINFLS",
+      "footprint_id": 17369
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NORWICH",
+      "footprint_id": 17386
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "ALEXANDRIA",
+      "footprint_id": 17417
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "TRUMBULL",
+      "footprint_id": 17421
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "NO CANTON",
+      "footprint_id": 17539
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BREMEN",
+      "footprint_id": 17559
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "BRYAN",
+      "footprint_id": 17565
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "WABASH",
+      "footprint_id": 17570
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "MT VICTORY",
+      "footprint_id": 17674
+    },
+    {
+      "country": "US",
+      "state": "OH",
+      "name": "PAYNE",
+      "footprint_id": 17690
+    }
+  ]
+}

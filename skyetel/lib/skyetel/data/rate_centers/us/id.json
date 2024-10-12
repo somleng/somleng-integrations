@@ -1,0 +1,886 @@
+{
+  "rate_centers": [
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "CAMBRIDGE",
+      "footprint_id": 44
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "DIR ASST",
+      "footprint_id": 220
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "MELBA",
+      "footprint_id": 492
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "STANLEY",
+      "footprint_id": 817
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "PRAIRIE",
+      "footprint_id": 986
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "ATLANTA",
+      "footprint_id": 1089
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "CALDWELL",
+      "footprint_id": 1109
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "ROCK CREEK",
+      "footprint_id": 1296
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "POWELL",
+      "footprint_id": 1395
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "KETCHUM",
+      "footprint_id": 1572
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "EVERGREEN",
+      "footprint_id": 1834
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "RATHDRUM",
+      "footprint_id": 1862
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "PAUL",
+      "footprint_id": 1879
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "MIDVALE",
+      "footprint_id": 1950
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "PRIEST RIV",
+      "footprint_id": 2042
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "NEW PLYMTH",
+      "footprint_id": 2451
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "RAFT RIVER",
+      "footprint_id": 2453
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "DONNELLY",
+      "footprint_id": 2468
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "MARSING",
+      "footprint_id": 2555
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "MURTAUGH",
+      "footprint_id": 2757
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "ABERDEEN",
+      "footprint_id": 2781
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "BONERSFRRY",
+      "footprint_id": 2808
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "WEIPPE",
+      "footprint_id": 2837
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "COERDALENE",
+      "footprint_id": 2908
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "LAKEVIEW",
+      "footprint_id": 2958
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "LOWMAN",
+      "footprint_id": 3090
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "HAMER",
+      "footprint_id": 3237
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "SOUTH MT",
+      "footprint_id": 3490
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "MCCALL",
+      "footprint_id": 3499
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "GRANGEVL",
+      "footprint_id": 3781
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "GENESEE",
+      "footprint_id": 3861
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "HAYDENLAKE",
+      "footprint_id": 3941
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "THREECREEK",
+      "footprint_id": 4366
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "JULIAETTA",
+      "footprint_id": 4521
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "HORSEHBEND",
+      "footprint_id": 4596
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "WALLACE",
+      "footprint_id": 4831
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "SPRINGFLD",
+      "footprint_id": 4866
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "ALPINE",
+      "footprint_id": 5155
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "MULLAN",
+      "footprint_id": 5466
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "RIGBY",
+      "footprint_id": 5596
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "KAMIAH",
+      "footprint_id": 5697
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "PAYETTE",
+      "footprint_id": 5862
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "MT HOME",
+      "footprint_id": 5947
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "SPIRITLAKE",
+      "footprint_id": 6131
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "KILGORE",
+      "footprint_id": 6222
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "MOSCOW",
+      "footprint_id": 6471
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "ELBA",
+      "footprint_id": 6597
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "BOISE",
+      "footprint_id": 6606
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "ROCKLAND",
+      "footprint_id": 6866
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "ST MARIES",
+      "footprint_id": 6905
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "CLARK FORK",
+      "footprint_id": 6909
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "FILER",
+      "footprint_id": 7090
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "HARRISON",
+      "footprint_id": 7123
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "FAIRFIELD",
+      "footprint_id": 7229
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "CLAYTON",
+      "footprint_id": 7427
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "FRUITLAND",
+      "footprint_id": 7490
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "POST FALLS",
+      "footprint_id": 7502
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "MINIDOKA",
+      "footprint_id": 7562
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "ARCO",
+      "footprint_id": 7801
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "PIERCE",
+      "footprint_id": 8111
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "MAY",
+      "footprint_id": 8142
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "DUBOIS",
+      "footprint_id": 8205
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "CRAIGMONT",
+      "footprint_id": 8212
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "MACKAY",
+      "footprint_id": 8213
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "TERRETON",
+      "footprint_id": 8240
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "NORLAND",
+      "footprint_id": 8314
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "PRIESTLAKE",
+      "footprint_id": 8415
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "GRASMERDDL",
+      "footprint_id": 8487
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "KENDRICK",
+      "footprint_id": 8651
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "POTLATCH",
+      "footprint_id": 8851
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "TWIN FALLS",
+      "footprint_id": 8917
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "BAYVIEW",
+      "footprint_id": 9064
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "LEWISTON",
+      "footprint_id": 9262
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "LAPWAI",
+      "footprint_id": 9402
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "RIGGINS",
+      "footprint_id": 9558
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "IDAHOFALLS",
+      "footprint_id": 9618
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "HOPE",
+      "footprint_id": 9794
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "CHALLIS",
+      "footprint_id": 9841
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "BURLEY",
+      "footprint_id": 9854
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "PECK",
+      "footprint_id": 10084
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "CAREY",
+      "footprint_id": 10096
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "SHOUP",
+      "footprint_id": 10758
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "BOISERIVER",
+      "footprint_id": 10881
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "RUPERT",
+      "footprint_id": 10960
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "ALBION",
+      "footprint_id": 11110
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "ARBON",
+      "footprint_id": 11122
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "DRIGGS",
+      "footprint_id": 11270
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "COTTONWOOD",
+      "footprint_id": 11490
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "INDIAN VLY",
+      "footprint_id": 11516
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "RICHFIELD",
+      "footprint_id": 11782
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "GARDEN VLY",
+      "footprint_id": 11832
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "CASCADE",
+      "footprint_id": 11839
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "PARMA",
+      "footprint_id": 11985
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "DEARY",
+      "footprint_id": 12210
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "WHITE BIRD",
+      "footprint_id": 12235
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "ELK BEND",
+      "footprint_id": 12268
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "OROFINO",
+      "footprint_id": 12436
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "TROY",
+      "footprint_id": 12463
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "PLUMERWRLY",
+      "footprint_id": 12547
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "EMMETT",
+      "footprint_id": 12580
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "ELK CITY",
+      "footprint_id": 12760
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "NEWMEADOWS",
+      "footprint_id": 12862
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "CORA",
+      "footprint_id": 12910
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "MALTA",
+      "footprint_id": 12954
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "PARIS",
+      "footprint_id": 13070
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "WARREN",
+      "footprint_id": 13104
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "WILDER",
+      "footprint_id": 13120
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "KELLOGG",
+      "footprint_id": 13228
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "ST ANTHONY",
+      "footprint_id": 13244
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "LENORE",
+      "footprint_id": 13410
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "MONTEVIEW",
+      "footprint_id": 13504
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "ALBENI",
+      "footprint_id": 13510
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "HOLLISTER",
+      "footprint_id": 13556
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "TYGEE VLY",
+      "footprint_id": 13657
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "OAKLEY",
+      "footprint_id": 13792
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "GRAND VIEW",
+      "footprint_id": 13940
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "YELLOWPINE",
+      "footprint_id": 14003
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "FREEDOM",
+      "footprint_id": 14038
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "WAYAN",
+      "footprint_id": 14155
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "BLUEBELL",
+      "footprint_id": 14176
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "WELLESLEY",
+      "footprint_id": 14289
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "SETTERS",
+      "footprint_id": 14367
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "IRWIN",
+      "footprint_id": 14402
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "NU ACRES",
+      "footprint_id": 14524
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "MALAD",
+      "footprint_id": 14738
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "NEZPERCE",
+      "footprint_id": 14739
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "BRUNEAU",
+      "footprint_id": 14845
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "ASHTON",
+      "footprint_id": 14939
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "NAMPA",
+      "footprint_id": 15010
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "COUNCIL",
+      "footprint_id": 15310
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "HOLBROOK",
+      "footprint_id": 15486
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "WARM LAKE",
+      "footprint_id": 15540
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "SALMON",
+      "footprint_id": 15769
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "XXXXXXXXXX",
+      "footprint_id": 15803
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "ALMO",
+      "footprint_id": 15856
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "SWEET",
+      "footprint_id": 15899
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "ISLANDPARK",
+      "footprint_id": 16221
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "KOOSKIA",
+      "footprint_id": 16226
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "LEADORE",
+      "footprint_id": 16579
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "WEISER",
+      "footprint_id": 16709
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "TIPANUK",
+      "footprint_id": 16738
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "BLACKFOOT",
+      "footprint_id": 16995
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "SANDPOINT",
+      "footprint_id": 17008
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "BOVILL",
+      "footprint_id": 17098
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "LEON",
+      "footprint_id": 17170
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "POCATELLO",
+      "footprint_id": 17432
+    },
+    {
+      "country": "US",
+      "state": "ID",
+      "name": "HOMEDALE",
+      "footprint_id": 17533
+    }
+  ]
+}
