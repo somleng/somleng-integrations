@@ -21,6 +21,14 @@ This integration runs on a schedule and automatically orders DIDs from [Skyetel]
 
 See [examples](https://github.com/somleng/somleng-integrations/tree/develop/skyetel/examples).
 
+## CLI
+
+The CLI can be used to test your integration or in standalone mode.
+
+```bash
+./bin/somleng-skyetel
+```
+
 ## Deployment
 
 The [docker image](https://github.com/somleng/somleng-integrations/pkgs/container/somleng-skyetel) is automatically configured for deployment to AWS Lambda.

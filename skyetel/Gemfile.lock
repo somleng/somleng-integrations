@@ -146,6 +146,7 @@ DEPENDENCIES
   csv
   encrypted_credentials!
   faraday
+  logger
   pry
   rack
   rake

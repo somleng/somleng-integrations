@@ -32,6 +32,6 @@ class GenerateShoppingList
       )
     end
 
-    ShoppingList.new(line_items:)
+    ShoppingList.new(line_items:, cities:, min_stock:, max_stock:)
   end
 end

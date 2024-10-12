@@ -1,0 +1,58 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require "bundler/setup"
+require "optparse"
+require_relative "../config/application"
+
+class OptionsParser
+  class MissingArgumentError < StandardError; end
+
+  Options = Struct.new(:dry_run, :verbose)
+
+  attr_reader :parser, :options
+
+  def initialize(**options)
+    @parser = options.fetch(:parser) { default_parser }
+    @options = Options.new
+  end
+
+  def parse
+    parser.parse!
+    check_environment!("APP_ENV", "SOMLENG_API_KEY", "SKYETEL_USERNAME", "SKYETEL_PASSWORD", "MIN_STOCK", "MAX_STOCK")
+    options
+  end
+
+  def help
+    parser.help
+  end
+
+  private
+
+  def check_environment!(*keys)
+    Array(keys).each do |key|
+      raise MissingArgumentError.new("missing env var: #{key}") unless ENV.key?(key)
+    end
+  end
+
+  def default_parser
+    OptionParser.new do |opts|
+      opts.banner = "Usage: somleng-skyetel [options]"
+      opts.on("--[no-]dry-run [FLAG]", "Dry run only. No phone numbers will be actually purchased.", TrueClass) { |o| options.dry_run = o.nil? ? true : o }
+      opts.on("--[no-]verbose [FLAG]", "Run verbosely", TrueClass) { |o| options.verbose = o.nil? ? true : o }
+    end
+  end
+end
+
+def parse_options
+  parser = OptionsParser.new
+  parser.parse
+rescue OptionsParser::MissingArgumentError => e
+  puts e.message
+  puts parser.help
+  exit(1)
+end
+
+options = parse_options
+
+RestockInventory.call(dry_run: options.dry_run, verbose: options.verbose)
