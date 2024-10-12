@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/somleng/somleng-integrations/compare/somleng-skyetel/v0.2.12...somleng-skyetel/v0.3.0) (2024-10-12)
+
+
+### Features
+
+* Use JSON for data files ([49d4f1b](https://github.com/somleng/somleng-integrations/commit/49d4f1b940d2389fd1ee0b9e49a580ad47f93add))
+
 ## [0.2.12](https://github.com/somleng/somleng-integrations/compare/somleng-skyetel/v0.2.11...somleng-skyetel/v0.2.12) (2024-10-12)
 
 
