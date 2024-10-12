@@ -8,6 +8,7 @@ This integration runs on a schedule and automatically orders DIDs from [Skyetel]
 
 | Variable                   | Description                                               | Example                | Required | Default                |
 | -------------------------- | --------------------------------------------------------- | ---------------------- | -------- | ---------------------- |
+| APP_ENV                    | Application environment                                   | production             | false    | production             |
 | SOMLENG_API_KEY            | Somleng Carrier API Key SID                               | change-me              | true     | none                   |
 | SKYETEL_USERNAME           | Skyetel API Username Token                                | change-me              | true     | none                   |
 | SKYETEL_PASSWORD           | Skyetel API Password                                      | change-me              | true     | none                   |
@@ -19,6 +20,14 @@ This integration runs on a schedule and automatically orders DIDs from [Skyetel]
 ## Usage
 
 See [examples](https://github.com/somleng/somleng-integrations/tree/develop/skyetel/examples).
+
+## CLI
+
+The CLI can be used to test your integration or in standalone mode.
+
+```bash
+./bin/somleng-skyetel
+```
 
 ## Deployment
 
