@@ -18,6 +18,7 @@ RUN rm -rf vendor/bundle/ruby/*/cache/ && find vendor/ -name "*.o" -delete && fi
 
 COPY --link app.rb ${LAMBDA_TASK_ROOT}/
 COPY --link app/ ${LAMBDA_TASK_ROOT}/app/
+COPY --link bin/ ${LAMBDA_TASK_ROOT}/bin/
 COPY --link --exclude=*.key --exclude=*.sample.csv config/ ${LAMBDA_TASK_ROOT}/config/
 COPY --link lib/ ${LAMBDA_TASK_ROOT}/lib/
 
