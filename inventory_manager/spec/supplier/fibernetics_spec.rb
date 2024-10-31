@@ -2,8 +2,6 @@ require "spec_helper"
 
 module Supplier
   RSpec.describe Fibernetics do
-    require "pry"
-
     describe "#generate_purchase_order" do
       it "generates a purchase order" do
         shopping_list = build_shopping_list(
