@@ -1,13 +1,9 @@
-name: Skyetel
+name: Inventory Manager
 
 on:
   push:
     branches:
       - "**"
-
-defaults:
-  run:
-    working-directory: skyetel
 
 jobs:
   build:
@@ -19,7 +15,7 @@ jobs:
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        working-directory: skyetel
+        working-directory: inventory_manager
         bundler-cache: true
 
     - name: Run the tests

@@ -1,4 +1,4 @@
-name: Skyetel Release
+name: Inventory Manager Release
 
 on:
   release:
@@ -6,13 +6,13 @@ on:
 
 defaults:
   run:
-    working-directory: skyetel
+    working-directory: inventory_manager
 
 jobs:
   build-packages:
     name: Build Packages
     runs-on: ubuntu-latest
-    if: ${{ startsWith(github.ref, 'refs/tags/somleng-skyetel') }}
+    if: ${{ startsWith(github.ref, 'refs/tags/somleng-inventory-manager') }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -21,7 +21,7 @@ jobs:
         id: get-version
         run: |
           echo "debug: $GITHUB_REF_NAME"
-          echo "version=${GITHUB_REF_NAME#somleng-skyetel/}" >> $GITHUB_OUTPUT
+          echo "version=${GITHUB_REF_NAME#somleng-inventory-manager/}" >> $GITHUB_OUTPUT
 
       - name: Login to GitHub Container Registry
         uses: docker/login-action@v3
@@ -35,9 +35,9 @@ jobs:
         uses: docker/metadata-action@v5
         with:
           images: |
-            ghcr.io/somleng/somleng-skyetel
+            ghcr.io/somleng/somleng-inventory-manager
           tags: |
-            type=match,pattern=somleng-skyetel\/(v.*),group=1
+            type=match,pattern=somleng-inventory-manager\/(v.*),group=1
 
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
@@ -46,7 +46,7 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          context: skyetel
+          context: inventory_manager
           platforms: linux/amd64
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
@@ -56,7 +56,7 @@ jobs:
         env:
           SENTRY_AUTH_TOKEN: ${{ secrets.SENTRY_AUTH_TOKEN }}
           SENTRY_ORG: somleng
-          SENTRY_PROJECT: somleng-skyetel
+          SENTRY_PROJECT: somleng-inventory-manager
         with:
           environment: production
           version: ${{ steps.get-version.outputs.version }}
