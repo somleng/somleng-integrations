@@ -5,6 +5,10 @@ on:
     branches:
       - "**"
 
+defaults:
+  run:
+    working-directory: inventory_manager
+
 jobs:
   build:
     name: Build
