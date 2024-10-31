@@ -17,7 +17,7 @@ module App
           }
         ].to_json
       )
-      stub_app_settings(min_stock: 2, max_stock: 3)
+      stub_app_settings(min_stock: 2, max_stock: 3, supplier: "skyetel")
       stub_jsonapi_request(
         :get, "https://api.somleng.org/carrier/v1/phone_numbers/stats",
         response_body: file_fixture("somleng/responses/phone_number_stats.json").read

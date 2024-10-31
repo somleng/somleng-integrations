@@ -1,6 +1,6 @@
 class PurchaseOrder
   LineItem = Struct.new(:city, :numbers, keyword_init: true)
-  Number = Struct.new(:rate_center, :order_details, :e164_format, keyword_init: true)
+  Number = Struct.new(:rate_center, :number, :order_details, :e164_format, keyword_init: true)
 
   attr_reader :line_items
 

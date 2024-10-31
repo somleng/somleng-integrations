@@ -2,15 +2,14 @@ module Supplier
   class Skyetel
     class NoRateCenterFoundError < StandardError; end
 
-    attr_reader :client, :cities
+    attr_reader :client
 
     def initialize(**options)
       @client = options.fetch(:client) { ::Skyetel::Client.new }
-      @cities = options.fetch(:cities) { AppSettings.supported_cities }
-      load_skyetel_rate_centers
     end
 
     def generate_purchase_order(shopping_list)
+      load_skyetel_rate_centers(shopping_list)
       line_items = shopping_list.line_items.map do |shopping_list_line_item|
         numbers = nearby_rate_centers_for(shopping_list_line_item.city).each_with_object([]) do |rate_center, dids|
           dids.concat(search_dids(shopping_list_line_item:, rate_center:))
@@ -32,8 +31,8 @@ module Supplier
 
     private
 
-    def load_skyetel_rate_centers
-      filter = cities.each_with_object(initialize_filter) do |city, result|
+    def load_skyetel_rate_centers(shopping_list)
+      filter = shopping_list.line_items.map(&:city).each_with_object(initialize_filter) do |city, result|
         result[city.country][city.region].concat(city.nearby_rate_centers.map(&:name))
       end
 

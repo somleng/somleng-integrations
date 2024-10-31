@@ -23,7 +23,7 @@ module Fibernetics
       uri.query = Rack::Utils.build_query(params)
 
       response = execute_request(:get, uri)
-      Response.new(data: Array(response["results"]).map { |data| OpenStruct.new(**data) })
+      Response.new(data: Array(response["results"]).map { |data| OpenStruct.new(**data, rc: data.fetch("rc").strip.upcase) })
     end
 
     def available_tns(params = {})

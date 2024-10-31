@@ -12,7 +12,6 @@ default: &default
 development: &development
   <<: *default
   supported_cities_data_file: "supported_cities.sample.csv"
-  supplier: "skyetel"
 
 test:
   <<: *development

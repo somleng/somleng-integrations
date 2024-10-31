@@ -3,7 +3,7 @@ require "spec_helper"
 module Supplier
   RSpec.describe Skyetel do
     describe "#generate_purchase_order" do
-      it "returns a purchase order" do
+      it "generates a purchase order" do
         shopping_list = build_shopping_list(
           { city: build_city(country: "US", region: "NY", name: "New York", nearby_rate_centers: [ "NWYRCYZN01", "NWYRCYZN03" ]), quantity: 2 },
           { city: build_city(country: "US", region: "CA", name: "Los Angeles",  nearby_rate_centers: [ "BEVERLYHLS" ]), quantity: 2}
@@ -64,7 +64,7 @@ module Supplier
     end
 
     describe "#execute_order" do
-      it "executes an order" do
+      it "executes a purchase order" do
         purchase_order = instance_double(PurchaseOrder, to_order: [])
         fake_client = instance_spy(::Skyetel::Client)
         supplier = Skyetel.new(client: fake_client)

@@ -18,7 +18,7 @@ class SupportedCitiesParser
         country: city.country,
         region: city.region,
         name: city.name,
-        nearby_rate_centers: city.nearby_rate_centers
+        nearby_rate_centers: nearby_rate_centers_for(city)
       )
     end
   end
@@ -41,6 +41,12 @@ class SupportedCitiesParser
 
     RateCenter.data_loader.load(:rate_centers, only: filter)
     RateCenter::RateCenter.reload!
+  end
+
+  def nearby_rate_centers_for(city)
+    city.nearby_rate_centers.map do |distance|
+      RateCenter::RateCenter.find_by!(name: distance.name, country: city.country, region: city.region)
+    end
   end
 
   def initialize_filter

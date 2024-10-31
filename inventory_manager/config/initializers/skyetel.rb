@@ -1,4 +1,4 @@
 Skyetel.configure do |config|
-  config.username = AppSettings.fetch(:skyetel_username)
-  config.password = AppSettings.fetch(:skyetel_password)
+  config.username = AppSettings[:skyetel_username]
+  config.password = AppSettings[:skyetel_password]
 end
