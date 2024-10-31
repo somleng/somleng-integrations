@@ -23,13 +23,7 @@ class GenerateShoppingList
 
       next if max_stock.zero? || current_stock >= min_stock
 
-      result << ShoppingList::LineItem.new(
-        country: city.country,
-        region: city.region,
-        locality: city.name,
-        quantity: max_stock - current_stock,
-        nearby_rate_centers: city.nearby_rate_centers
-      )
+      result << ShoppingList::LineItem.new(city:, quantity: max_stock - current_stock)
     end
 
     ShoppingList.new(line_items:, cities:, min_stock:, max_stock:)

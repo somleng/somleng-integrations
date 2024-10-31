@@ -39,7 +39,7 @@ class OptionsParser
 
   def default_parser
     OptionParser.new do |opts|
-      opts.banner = "Usage: somleng-skyetel [options]"
+      opts.banner = "Usage: somleng-inventory-manager [options]"
       opts.on("--[no-]dry-run [FLAG]", "Dry run only. No phone numbers will be actually purchased.", TrueClass) { |o| options.dry_run = o.nil? ? true : o }
       opts.on("--[no-]verbose [FLAG]", "Run verbosely", TrueClass) { |o| options.verbose = o.nil? ? true : o }
       opts.on("-h", "--help", "Prints this help", TrueClass) { |o| options.help = o.nil? ? true : o }

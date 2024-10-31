@@ -3,11 +3,11 @@ class RestockInventory
     new(...).call
   end
 
-  attr_reader :somleng_client, :skyetel_client, :dry_run, :logger, :verbose
+  attr_reader :supplier, :somleng_client, :dry_run, :logger, :verbose
 
   def initialize(**options)
+    @supplier = initialize_supplier(options.fetch(:supplier_name) { AppSettings.fetch(:supplier) })
     @somleng_client = options.fetch(:somleng_client) { Somleng::CarrierAPI::Client.new }
-    @skyetel_client = options.fetch(:skyetel_client) { Skyetel::Client.new }
     @dry_run = options[:dry_run]
     @verbose = options[:verbose]
     @logger = options.fetch(:logger) { Logger.new(STDOUT) }
@@ -22,6 +22,17 @@ class RestockInventory
   end
 
   private
+
+  def initialize_supplier(supplier_name)
+    case supplier_name.to_sym
+    when :skyetel
+      Supplier::Skyetel.new
+    when :fibernetics
+      Supplier::Fibernetics.new
+    else
+      raise "Unknown supplier: #{supplier_name}"
+    end
+  end
 
   def generate_inventory_report
     logger.info("Generating inventory report...")
@@ -41,7 +52,7 @@ class RestockInventory
 
   def generate_purchase_order(shopping_list)
     logger.info("Generating purchase order...")
-    purchase_order = GeneratePurchaseOrder.call(shopping_list:, client: skyetel_client)
+    purchase_order = supplier.generate_purchase_order(shopping_list)
     logger.info("Done.")
     logger.info("Purchase order contains #{purchase_order.to_order.count} numbers.") if verbose
     purchase_order
@@ -54,7 +65,7 @@ class RestockInventory
     end
 
     logger.info("Executing order...")
-    ExecuteOrder.call(purchase_order:, client: skyetel_client)
+    supplier.execute_order(purchase_order)
     logger.info("Done.")
   end
 

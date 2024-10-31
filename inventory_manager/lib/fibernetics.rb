@@ -14,3 +14,6 @@ end
 
 require_relative "fibernetics/configuration"
 require_relative "fibernetics/client"
+require_relative "fibernetics/errors"
+require_relative "fibernetics/response_parser"
+require_relative "fibernetics/response"

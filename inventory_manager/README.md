@@ -26,7 +26,7 @@ See [examples](https://github.com/somleng/somleng-integrations/tree/develop/skye
 The CLI can be used to test your integration.
 
 ```bash
-Usage: somleng-skyetel [options]
+Usage: somleng-inventory-manager [options]
         --[no-]dry-run [FLAG]        Dry run only. No phone numbers will be actually purchased.
         --[no-]verbose [FLAG]        Run verbosely
     -h, --help                       Prints this help
@@ -34,4 +34,4 @@ Usage: somleng-skyetel [options]
 
 ## Deployment
 
-The [docker image](https://github.com/somleng/somleng-integrations/pkgs/container/somleng-skyetel) is automatically configured for deployment to AWS Lambda.
+The [docker image](https://github.com/somleng/somleng-integrations/pkgs/container/somleng-inventory-manager) is automatically configured for deployment to AWS Lambda.

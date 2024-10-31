@@ -21,11 +21,12 @@ RSpec.describe GenerateShoppingList do
 
     expect(shopping_list.line_items.size).to eq(1)
     expect(shopping_list.line_items[0]).to have_attributes(
-      country: "US",
-      region: "NY",
-      locality: "New York",
-      quantity: 51,
-      nearby_rate_centers: be_a(Array)
+      city: have_attributes(
+        country: "US",
+        region: "NY",
+        name: "New York"
+      ),
+      quantity: 51
     )
   end
 

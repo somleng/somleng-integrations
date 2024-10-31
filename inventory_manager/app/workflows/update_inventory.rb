@@ -11,12 +11,11 @@ class UpdateInventory
     new(...).call
   end
 
-  attr_reader :purchase_order, :client, :country_calling_code, :number_visibility, :provider_name
+  attr_reader :purchase_order, :client, :number_visibility, :provider_name
 
   def initialize(**options)
     @purchase_order = options.fetch(:purchase_order)
     @client = options.fetch(:client) { Somleng::Client.new }
-    @country_calling_code = options.fetch(:country_calling_code, "1")
     @number_visibility = options.fetch(:number_visibility) { AppSettings.fetch(:somleng_number_visibility) }
     @provider_name = options.fetch(:provider_name, "skyetel")
   end
@@ -33,12 +32,12 @@ class UpdateInventory
 
   def create_phone_number(number:, line_item:)
     client.create_phone_number(
-      number: "#{country_calling_code}#{number.order_details.number}",
+      number: number.e164_format,
       type: :local,
       visibility: number_visibility,
-      country: line_item.country,
-      region: line_item.region,
-      locality: line_item.locality,
+      country: line_item.city.country,
+      region: line_item.city.region,
+      locality: line_item.city.name,
       lata: number.rate_center.lata,
       rate_center: number.rate_center.name,
       latitude: number.rate_center.lat,

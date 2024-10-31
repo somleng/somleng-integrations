@@ -12,14 +12,13 @@ class SupportedCitiesParser
   def parse
     load_cities
     load_rate_centers
-    load_skyetel_rate_centers
 
     RateCenter::City.all.map do |city|
       City.new(
         country: city.country,
         region: city.region,
         name: city.name,
-        nearby_rate_centers: nearby_rate_centers_for(city)
+        nearby_rate_centers: city.nearby_rate_centers
       )
     end
   end
@@ -42,26 +41,6 @@ class SupportedCitiesParser
 
     RateCenter.data_loader.load(:rate_centers, only: filter)
     RateCenter::RateCenter.reload!
-  end
-
-  def load_skyetel_rate_centers
-    filter = RateCenter::City.all.each_with_object(initialize_filter) do |city, result|
-      result[city.country][city.region].concat(city.nearby_rate_centers.map(&:name))
-    end
-
-    Skyetel.data_loader.load(:rate_centers, only: filter)
-    Skyetel::RateCenter.reload!
-  end
-
-  def nearby_rate_centers_for(city)
-    nearby_rate_centers = city.nearby_rate_centers.each_with_object([]) do |distance, result|
-      skyetel_rate_center = Skyetel::RateCenter.find_by(country: city.country, state: city.region, name: distance.name)
-      result << RateCenter::RateCenter.find_by(country: city.country, region: city.region, name: distance.name) if skyetel_rate_center
-    end
-
-    raise Skyetel::Errors::NoRateCenterFoundError.new("No nearby rate centers found for #{city.name}") if nearby_rate_centers.empty?
-
-    nearby_rate_centers
   end
 
   def initialize_filter
