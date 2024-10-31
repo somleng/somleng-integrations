@@ -1,0 +1,38 @@
+{
+  "OK": true,
+  "customer": 27,
+  "fuzzy": false,
+  "rc": null,
+  "results": [
+    {
+      "count": 2444,
+      "country": "CA",
+      "exch": "078170",
+      "npa": "204",
+      "nxx": "816",
+      "rc": "Oakbank",
+      "region": "MB",
+      "switch": "WNPJMB061MD"
+    },
+    {
+      "count": 540,
+      "country": "CA",
+      "exch": "153520",
+      "npa": "226",
+      "nxx": "223",
+      "rc": "Drayton",
+      "region": "ON",
+      "switch": "KTNRON06X2X"
+    },
+    {
+      "count": 1153,
+      "country": "CA",
+      "exch": "156590",
+      "npa": "226",
+      "nxx": "225",
+      "rc": "Paris",
+      "region": "ON",
+      "switch": "BTFDON17DMD"
+    }
+  ]
+}

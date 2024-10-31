@@ -5,7 +5,7 @@ module Skyetel
     it "handles handles existing API tokens" do
       client = Client.new(api_token: APIToken.new(token: "api-token", retrieved_at: Time.now))
 
-      stub_skyetel_api_request(
+      stub_api_request(
         :get,
         "https://apicontrol.call48.com/api/v4/ratecenter",
         response_body: file_fixture("skyetel/responses/ratecenter.json").read
@@ -28,7 +28,7 @@ module Skyetel
       client = Client.new(api_token: APIToken.new(token: "expired-token", retrieved_at: Time.now - (5 * 60)))
 
       stub_skyetel_admin_login(token: "new-token")
-      stub_skyetel_api_request(
+      stub_api_request(
         :get,
         "https://apicontrol.call48.com/api/v4/ratecenter",
         response_body: [
@@ -56,7 +56,7 @@ module Skyetel
       client = Client.new(api_token: APIToken.new(token: "expired-token", retrieved_at: Time.now - (5 * 60)))
 
       stub_skyetel_admin_login
-      stub_skyetel_api_request(
+      stub_api_request(
         :get,
         "https://apicontrol.call48.com/api/v4/ratecenter",
         response_body: file_fixture("skyetel/responses/unauthorized_access.json").read
@@ -103,7 +103,7 @@ module Skyetel
       it "returns rate centers" do
         client = Client.new
         stub_skyetel_admin_login(token: "api-token")
-        stub_skyetel_api_request(
+        stub_api_request(
           :get,
           "https://apicontrol.call48.com/api/v4/ratecenter",
           response_body: file_fixture("skyetel/responses/ratecenter.json").read
@@ -130,7 +130,7 @@ module Skyetel
       it "returns states" do
         client = Client.new
         stub_skyetel_admin_login(token: "api-token")
-        stub_skyetel_api_request(
+        stub_api_request(
           :get,
           "https://apicontrol.call48.com/api/v4/states",
           response_body: file_fixture("skyetel/responses/states.json").read
@@ -155,7 +155,7 @@ module Skyetel
       it "performs a search" do
         client = Client.new
         stub_skyetel_admin_login(token: "api-token")
-        stub_skyetel_api_request(
+        stub_api_request(
           :get,
           "https://apicontrol.call48.com/api/v4/search",
           response_body: file_fixture("skyetel/responses/search.json").read
@@ -207,7 +207,7 @@ module Skyetel
         WebMock.allow_net_connect!
         client = Client.new
         stub_skyetel_admin_login(token: "api-token")
-        stub_skyetel_api_request(
+        stub_api_request(
           :post,
           "https://apicontrol.call48.com/api/v4/purchase",
           response_body: file_fixture("skyetel/responses/purchase.json").read
