@@ -1,7 +1,7 @@
 {
   "packages": {
-    "skyetel": {
-      "package-name": "somleng-skyetel",
+    "inventory_manager": {
+      "package-name": "somleng-inventory-manager",
       "changelog-path": "CHANGELOG.md",
       "release-type": "ruby",
       "bump-minor-pre-major": false,

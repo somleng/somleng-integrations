@@ -1,4 +1,4 @@
-name: Update Data
+name: Update Skyetel Data
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
 
 defaults:
   run:
-    working-directory: skyetel
+    working-directory: inventory_manager
 
 jobs:
   update-data:
@@ -19,7 +19,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          working-directory: skyetel
+          working-directory: inventory_manager
           bundler-cache: true
 
       - name: Update Data
@@ -33,7 +33,7 @@ jobs:
         uses: peter-evans/create-pull-request@v7
         with:
           token: ${{ secrets.SOMLENG_PERSONAL_ACCESS_TOKEN }}
-          commit-message: "feat: Update data"
-          title: "feat: Update data"
-          labels: "update_data"
+          commit-message: "feat: Update Skyetel data"
+          title: "feat: Update Skyetel data"
+          labels: "update_skyetel_data"
           base: "develop"
