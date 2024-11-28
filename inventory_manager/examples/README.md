@@ -5,7 +5,7 @@
 Edit the `supported_cities.csv` file with a list of supported cities and build your own docker image.
 
 ```bash
-docker buildx build -t --platform linux/amd64 somleng-inventory-manager:example .
+docker buildx build --platform linux/amd64 -t somleng-inventory-manager:example .
 ```
 
 ## Testing
@@ -13,7 +13,7 @@ docker buildx build -t --platform linux/amd64 somleng-inventory-manager:example 
 You can test your image with the following command:
 
 ```bash
-docker run --platform linux/amd64 --rm -it -e APP_ENV=production -e SOMLENG_API_KEY='somleng-carrier-api-key' -e SOMLENG_API_KEY='somleng-carrier-api-key' -e SKYETEL_USERNAME='skyetel-username' -e SKYETEL_PASSWORD='skyetel-password' -e MIN_STOCK=5 -e MAX_STOCK=10 -e SUPPLIER='skyetel' --entrypoint ./bin/somleng-inventory-manager somleng-inventory-manager:example --verbose --dry-run
+docker run --platform linux/amd64 --rm -it -e APP_ENV=production -e SOMLENG_API_KEY='somleng-carrier-api-key' -e SKYETEL_USERNAME='skyetel-username' -e SKYETEL_PASSWORD='skyetel-password' -e MIN_STOCK=5 -e MAX_STOCK=10 -e SUPPLIER='skyetel' --entrypoint ./bin/somleng-inventory-manager somleng-inventory-manager:example --verbose --dry-run
 ```
 
 ## Deployment
