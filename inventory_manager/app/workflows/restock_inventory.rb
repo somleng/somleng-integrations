@@ -75,7 +75,7 @@ class RestockInventory
     end
 
     logger.info("Updating inventory...")
-    UpdateInventory.call(purchase_order:, client: somleng_client)
+    UpdateInventory.call(purchase_order:, supplier:, client: somleng_client)
     logger.info("Done.")
   end
 

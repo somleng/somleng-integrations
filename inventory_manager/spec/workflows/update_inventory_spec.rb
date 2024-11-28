@@ -22,8 +22,9 @@ RSpec.describe UpdateInventory do
     )
 
     client = instance_spy(Somleng::CarrierAPI::Client)
+    supplier = Struct.new(:identifier).new("skyetel")
 
-    UpdateInventory.call(purchase_order:, client:)
+    UpdateInventory.call(purchase_order:, supplier:, client:)
 
     expect(client).to have_received(:create_phone_number).exactly(4).times
     expect(client).to have_received(:create_phone_number).with(
@@ -38,7 +39,7 @@ RSpec.describe UpdateInventory do
       latitude: "40.739362",
       longitude: "-73.991043",
       metadata: {
-        provider_name: "skyetel",
+        supplier: "skyetel",
         order_details: hash_including(
           number: "6468136545",
           ratecenter: "NWYRCYZN01",

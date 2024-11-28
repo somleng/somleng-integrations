@@ -11,13 +11,13 @@ class UpdateInventory
     new(...).call
   end
 
-  attr_reader :purchase_order, :client, :number_visibility, :provider_name
+  attr_reader :purchase_order, :client, :number_visibility, :supplier
 
   def initialize(**options)
     @purchase_order = options.fetch(:purchase_order)
+    @supplier = options.fetch(:supplier)
     @client = options.fetch(:client) { Somleng::Client.new }
     @number_visibility = options.fetch(:number_visibility) { AppSettings.fetch(:somleng_number_visibility) }
-    @provider_name = options.fetch(:provider_name, "skyetel")
   end
 
   def call
@@ -43,7 +43,7 @@ class UpdateInventory
       latitude: number.rate_center.lat,
       longitude: number.rate_center.long,
       metadata: {
-        provider_name:,
+        supplier: supplier.identifier,
         order_details: number.order_details.to_h,
         rate_center: RateCenterDecorator.new(number.rate_center).to_h
       }

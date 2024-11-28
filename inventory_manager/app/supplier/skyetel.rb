@@ -2,10 +2,16 @@ module Supplier
   class Skyetel
     class NoRateCenterFoundError < StandardError; end
 
+    IDENTIFIER = "skyetel".freeze
+
     attr_reader :client
 
     def initialize(**options)
       @client = options.fetch(:client) { ::Skyetel::Client.new }
+    end
+
+    def identifier
+      IDENTIFIER
     end
 
     def generate_purchase_order(shopping_list)

@@ -79,13 +79,13 @@ module Supplier
 
     describe "#execute_order" do
       it "executes a purchase order" do
-        purchase_order = instance_double(PurchaseOrder, to_order: [])
+        purchase_order = instance_double(PurchaseOrder, to_order: [ "+1 555 555 5555" ])
         fake_client = instance_spy(::Skyetel::Client)
         supplier = Skyetel.new(client: fake_client)
 
         supplier.execute_order(purchase_order)
 
-        expect(fake_client).to have_received(:purchase).with(type: :local, numbers: [])
+        expect(fake_client).to have_received(:purchase).with(type: :local, numbers: [ "+1 555 555 5555" ])
       end
 
       it "handles empty purchase orders" do
@@ -96,6 +96,12 @@ module Supplier
         supplier.execute_order(purchase_order)
 
         expect(fake_client).not_to have_received(:purchase)
+      end
+    end
+
+    describe "#identifier" do
+      it "returns the identifier" do
+        expect(Skyetel.new.identifier).to eq("skyetel")
       end
     end
 
