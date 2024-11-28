@@ -1,8 +1,8 @@
-# Skyetel
+# Inventory Manager
 
-[![Build](https://github.com/somleng/somleng-integrations/actions/workflows/skyetel.yml/badge.svg)](https://github.com/somleng/somleng-integrations/actions/workflows/skyetel.yml)
+[![Inventory Manager](https://github.com/somleng/somleng-integrations/actions/workflows/inventory-manager.yml/badge.svg)](https://github.com/somleng/somleng-integrations/actions/workflows/inventory-manager.yml)
 
-This integration runs on a schedule and automatically orders DIDs from [Skyetel](https://skyetel.com/) and adds them to [Somleng](https://www.somleng.org/docs.html). It keeps the stock levels between `MIN_STOCK` and `MAX_STOCK` for each city configured in the `supported_cities.csv` file.
+This integration runs on a schedule and automatically orders DIDs from the given supplier and adds them to [Somleng](https://www.somleng.org/docs.html). It keeps the stock levels between `MIN_STOCK` and `MAX_STOCK` for each city configured in the `supported_cities.csv` file.
 
 ## Configuration
 
@@ -20,7 +20,7 @@ This integration runs on a schedule and automatically orders DIDs from [Skyetel]
 
 ## Usage
 
-See [examples](https://github.com/somleng/somleng-integrations/tree/develop/skyetel/examples).
+See [examples](examples).
 
 ## CLI
 
