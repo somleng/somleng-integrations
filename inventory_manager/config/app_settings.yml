@@ -2,7 +2,6 @@ default: &default
   somleng_api_key: "<%= ENV['SOMLENG_API_KEY'] %>"
   skyetel_username: "<%= ENV['SKYETEL_USERNAME'] %>"
   skyetel_password: "<%= ENV['SKYETEL_PASSWORD'] %>"
-  fibernetics_api_token: "<%= ENV['FIBERNETICS_API_TOKEN'] %>"
   supplier: "<%= ENV['SUPPLIER'] %>"
   supported_cities_data_file: "<%= ENV.fetch('SUPPORTED_CITIES_DATA_FILE', 'supported_cities.csv') %>"
   min_stock: "<%= ENV.fetch('MIN_STOCK', 0) %>"

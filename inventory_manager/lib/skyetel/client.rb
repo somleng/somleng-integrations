@@ -110,10 +110,13 @@ module Skyetel
       else
         raise
       end
+    rescue Faraday::TimeoutError => e
+      raise Errors::TimeoutError.new(e.message)
     end
 
     def default_http_client
       Faraday.new(url: "#{host}/#{base_url}") do |builder|
+        builder.options.timeout = 10
         builder.request :url_encoded
         builder.response :json
         builder.response :raise_error

@@ -8,7 +8,7 @@ require_relative "../config/application"
 class OptionsParser
   class MissingArgumentError < StandardError; end
 
-  Options = Struct.new(:dry_run, :verbose, :help)
+  Options = Struct.new(:supplier, :dry_run, :verbose, :help)
 
   attr_reader :parser, :options
 
@@ -21,7 +21,7 @@ class OptionsParser
     parser.parse!
     return options if options.help
 
-    check_environment!("APP_ENV", "SOMLENG_API_KEY", "SUPPLIER", "MIN_STOCK", "MAX_STOCK")
+    check_environment!("APP_ENV", "SUPPLIER", "SOMLENG_API_KEY", "MIN_STOCK", "MAX_STOCK")
     options
   end
 

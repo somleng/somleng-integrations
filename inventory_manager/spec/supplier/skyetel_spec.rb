@@ -61,6 +61,20 @@ module Supplier
 
         expect(purchase_order.to_order.map(&:ratecenter)).to eq([ "NWYRCYZN01", "NWYRCYZN03", "BEVERLYHLS", "BEVERLYHLS" ])
       end
+
+      it "handles timeout errors" do
+        shopping_list = build_shopping_list(
+          { city: build_city(country: "US", region: "NY", name: "New York", nearby_rate_centers: [ "NWYRCYZN03" ]), quantity: 1 },
+        )
+
+        fake_client = instance_spy(::Skyetel::Client)
+        allow(fake_client).to receive(:search).and_raise(::Skyetel::Errors::TimeoutError)
+
+        supplier = Skyetel.new(client: fake_client)
+
+        purchase_order = supplier.generate_purchase_order(shopping_list)
+        expect(purchase_order.line_items).to be_empty
+      end
     end
 
     describe "#execute_order" do
@@ -72,6 +86,16 @@ module Supplier
         supplier.execute_order(purchase_order)
 
         expect(fake_client).to have_received(:purchase).with(type: :local, numbers: [])
+      end
+
+      it "handles empty purchase orders" do
+        purchase_order = instance_double(PurchaseOrder, to_order: [])
+        fake_client = instance_spy(::Skyetel::Client)
+        supplier = Skyetel.new(client: fake_client)
+
+        supplier.execute_order(purchase_order)
+
+        expect(fake_client).not_to have_received(:purchase)
       end
     end
 

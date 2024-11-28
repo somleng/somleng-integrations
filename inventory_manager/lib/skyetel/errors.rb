@@ -3,5 +3,6 @@ module Skyetel
     class UnauthorizedError < StandardError; end
     class ResponseError < StandardError; end
     class DataNotLoadedError < StandardError; end
+    class TimeoutError < StandardError; end
   end
 end
