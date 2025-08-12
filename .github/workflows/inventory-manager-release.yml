@@ -15,7 +15,7 @@ jobs:
     if: ${{ startsWith(github.ref, 'refs/tags/somleng-inventory-manager') }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Get version from tag
         id: get-version
