@@ -30,7 +30,7 @@ jobs:
           ./lib/skyetel/bin/update_data
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v7
+        uses: peter-evans/create-pull-request@v8
         with:
           token: ${{ secrets.SOMLENG_PERSONAL_ACCESS_TOKEN }}
           commit-message: "feat: Update Skyetel data"
